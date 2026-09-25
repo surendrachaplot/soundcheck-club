@@ -1,6 +1,6 @@
 # RESONANT - ADE 2026 at Zum Barbarossa
 
-RESONANT - ADE 2026 at Zum Barbarossa on Wed 21 Oct, Amsterdam. 6 acts on the bill: AND(W)Y, Cris-H, Paul Nolan and Ruud Vanden and 2 more. Progressive House and Afro Tech. Preview the line-up and save it on soundcheck.
+RESONANT - ADE 2026 at Zum Barbarossa on Wed 21 Oct, Amsterdam. 6 artists on the bill: AND(W)Y, Cris-H, Paul Nolan and Ruud Vanden and 2 more. Progressive House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

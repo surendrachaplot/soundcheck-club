@@ -1,6 +1,6 @@
 # Fuse presents: WSNWG (live all night long) at Fuse
 
-Fuse presents: WSNWG (live all night long) on Sat 7 Nov, Brussels. 5 acts on the bill: Fadi Mohem, Ignez, Lady Starlight and Phara and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Fuse presents: WSNWG (live all night long) on Sat 7 Nov, Brussels. 5 artists on the bill: Fadi Mohem, Ignez, Lady Starlight and Phara and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

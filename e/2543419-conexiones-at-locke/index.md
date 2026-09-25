@@ -1,6 +1,6 @@
 # conexiones at Locke
 
-conexiones at Locke on Sat 10 Oct, Hamburg. 3 acts on the bill: Baumann, Tassi and Tim Haida. House and Minimal. Preview the line-up and save it on soundcheck.
+conexiones at Locke on Sat 10 Oct, Hamburg. 3 artists on the bill: Baumann, Tassi and Tim Haida. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

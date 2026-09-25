@@ -1,6 +1,6 @@
 # 3hd 2026: Beyond Imagining at HAU Hebbel am Ufer
 
-3hd 2026: Beyond Imagining at HAU Hebbel am Ufer on Fri 23 Oct, Berlin. 1 act on the bill: Sin Maldita. Experimental. Preview the line-up and save it on soundcheck.
+3hd 2026: Beyond Imagining at HAU Hebbel am Ufer on Fri 23 Oct, Berlin. 1 artist on the bill: Sin Maldita. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

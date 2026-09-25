@@ -1,14 +1,14 @@
 # Raxon
 
-Raxon is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
+Raxon is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
 
-Raxon is a techno and house artist based in Egypt, tracked on soundcheck, with 68 sets logged across All, Amsterdam, Athens and Barcelona and 24 more. Often billed alongside Maceo Plex, Fedele and no_ip. Next up: Etko, All on Fri 25 Sept.
+Raxon is a techno and house artist based in Egypt, tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Barcelona and Basel and 24 more. Often billed alongside Maceo Plex, Fedele and no_ip. Next up: Etko, Cyprus on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Etko | All |
+| Fri, 25 Sept 2026 | Etko | Cyprus |
 | Sat, 26 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 | Thu, 22 Oct 2026 | Chicago Social Club | Amsterdam |
 | Fri, 6 Nov 2026 | Zoom Club | Frankfurt |

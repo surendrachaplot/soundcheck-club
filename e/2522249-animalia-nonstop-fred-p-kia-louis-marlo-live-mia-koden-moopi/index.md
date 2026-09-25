@@ -1,6 +1,6 @@
 # Animalia Nonstop: Fred P, Kia, Louis Marlo (live), Mia Koden, Moopie, Simisea at Nowadays
 
-Animalia Nonstop: Fred P, Kia, Louis Marlo (live), Mia Koden, Moopie, Simisea at Nowadays on Sat 10 Oct, Newyorkcity. 6 acts on the bill: Fred P, Kia (AU), Louis Marlo and Mia Koden and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Animalia Nonstop: Fred P, Kia, Louis Marlo (live), Mia Koden, Moopie, Simisea at Nowadays on Sat 10 Oct, New York City. 6 artists on the bill: Fred P, Kia (AU), Louis Marlo and Mia Koden and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ozmozis Halloween at Brick Works ft. Gabriel & Dresden, Super8 & Tab, Qrion and Oliver Wickham at Evergreen Brick Works
 
-Ozmozis Halloween at Brick Works ft. Gabriel & Dresden, Super8 & Tab, Qrion and Oliver Wickham at Evergreen Brick Works on Sat 31 Oct, Toronto. 4 acts on the bill: Gabriel & Dresden, Oliver Wickham, Qrion and Super8 & Tab. Trance and House. Preview the line-up and save it on soundcheck.
+Ozmozis Halloween at Brick Works ft. Gabriel & Dresden, Super8 & Tab, Qrion and Oliver Wickham at Evergreen Brick Works on Sat 31 Oct, Toronto. 4 artists on the bill: Gabriel & Dresden, Oliver Wickham, Qrion and Super8 & Tab. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CHOROPHILIA3: CVNT4EVER at Worm
 
-CHOROPHILIA3: CVNT4EVER at Worm on Sat 26 Sept, Rotterdam. 2 acts on the bill: Little Liam and Princess-K. Trance and Techno. Preview the line-up and save it on soundcheck.
+CHOROPHILIA3: CVNT4EVER at Worm on Sat 26 Sept, Rotterdam. 2 artists on the bill: Little Liam and Princess-K. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KHIDI: Boyd Schidt, Citizens Union, Eklektra, Frequency Shifter, Knaughty, Puritan, OTHR at KHIDI
 
-KHIDI: Boyd Schidt, Citizens Union, Eklektra, Frequency Shifter, Knaughty, Puritan, OTHR on Fri 9 Oct, Tbilisi. 6 acts on the bill: Boyd Schidt, Citizens Union, Frequency Shifter and Knaughty and 2 more. Preview the line-up and save it on soundcheck.
+KHIDI: Boyd Schidt, Citizens Union, Eklektra, Frequency Shifter, Knaughty, Puritan, OTHR on Fri 9 Oct, Tbilisi. 6 artists on the bill: Boyd Schidt, Citizens Union, Frequency Shifter and Knaughty and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Romare: Free Time – Edinburgh at Sneaky Pete's
 
-Romare: Free Time – Edinburgh at Sneaky Pete's on Sun 18 Oct, Edinburgh. 1 act on the bill: Romare. Preview the line-up and save it on soundcheck.
+Romare: Free Time – Edinburgh at Sneaky Pete's on Sun 18 Oct, Edinburgh. 1 artist on the bill: Romare. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

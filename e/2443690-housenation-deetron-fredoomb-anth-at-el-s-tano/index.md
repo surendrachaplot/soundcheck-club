@@ -1,6 +1,6 @@
 # HOUSENATION: Deetron, FredoomB, Anth at EL SÓTANO
 
-HOUSENATION: Deetron, FredoomB, Anth at EL SÓTANO on Sat 17 Oct, Madrid. 2 acts on the bill: Deetron and freedomB. Techno and House. Preview the line-up and save it on soundcheck.
+HOUSENATION: Deetron, FredoomB, Anth at EL SÓTANO on Sat 17 Oct, Madrid. 2 artists on the bill: Deetron and freedomB. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Routine: SASSY 009 at Substation
 
-Routine: SASSY 009 at Substation on Wed 11 Nov, Seattle. 1 act on the bill: SASSY 009. Pop and New Wave. Preview the line-up and save it on soundcheck.
+Routine: SASSY 009 at Substation on Wed 11 Nov, Seattle. 1 artist on the bill: SASSY 009. Pop and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

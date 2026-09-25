@@ -1,6 +1,6 @@
 # Mister Sunday: Cassy and Eamon Harkin at Nowadays
 
-Mister Sunday: Cassy and Eamon Harkin at Nowadays on Sun 27 Sept, Newyorkcity. 2 acts on the bill: Cassy and Eamon Harkin. Preview the line-up and save it on soundcheck.
+Mister Sunday: Cassy and Eamon Harkin at Nowadays on Sun 27 Sept, New York City. 2 artists on the bill: Cassy and Eamon Harkin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

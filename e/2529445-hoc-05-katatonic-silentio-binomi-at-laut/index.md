@@ -1,6 +1,6 @@
 # HOC 05: Katatonic Silentio & Binomi at LAUT
 
-HOC 05: Katatonic Silentio & Binomi at LAUT on Fri 23 Oct, Barcelona. 2 acts on the bill: Binomi and Katatonic Silentio. Techno and Club. Preview the line-up and save it on soundcheck.
+HOC 05: Katatonic Silentio & Binomi at LAUT on Fri 23 Oct, Barcelona. 2 artists on the bill: Binomi and Katatonic Silentio. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AFROHOUSE SUNSET ROOFTOP SESSION at Hotel Negresco Princess
 
-AFROHOUSE SUNSET ROOFTOP SESSION at Hotel Negresco Princess on Sun 27 Sept, Barcelona. 1 act on the bill: Helen Me Lia. Afro House. Preview the line-up and save it on soundcheck.
+AFROHOUSE SUNSET ROOFTOP SESSION at Hotel Negresco Princess on Sun 27 Sept, Barcelona. 1 artist on the bill: Helen Me Lia. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

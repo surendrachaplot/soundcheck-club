@@ -1,6 +1,6 @@
 # Nü Androids presents: Rinzen at Tigres de la Noche
 
-Nü Androids presents: Rinzen at Tigres de la Noche on Sat 10 Oct, Washingtondc. 1 act on the bill: Rinzen. Progressive House and House. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Rinzen at Tigres de la Noche on Sat 10 Oct, Washington DC. 1 artist on the bill: Rinzen. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

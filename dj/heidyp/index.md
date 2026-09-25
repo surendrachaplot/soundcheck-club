@@ -2,7 +2,7 @@
 
 Heidy.P is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Le Bain, New York City on Thu, 24 Sept 2026.
 
-Heidy.P is a house and disco artist based in Canada, tracked on soundcheck, with 21 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside HONEY B, Kandylion and DJ Shannon. Next up: Le Bain, Newyorkcity on Thu 24 Sept.
+Heidy.P is a house and disco artist based in Canada, tracked on soundcheck, with 21 sets logged across Montreal, New York City and Toronto. Often billed alongside HONEY B, Kandylion and DJ Shannon. Next up: Le Bain, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

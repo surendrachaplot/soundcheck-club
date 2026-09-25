@@ -1,6 +1,6 @@
 # Illich Mujica - Haunted Ballroom at Napa Music Hall
 
-Illich Mujica - Haunted Ballroom at Napa Music Hall on Fri 30 Oct, Sanfrancisco. 1 act on the bill: Illich Mujica. House and Tech House. Preview the line-up and save it on soundcheck.
+Illich Mujica - Haunted Ballroom at Napa Music Hall on Fri 30 Oct, San Francisco/Oakland. 1 artist on the bill: Illich Mujica. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nacho Scoppa + Isabella Roldán at Floyd
 
-Nacho Scoppa + Isabella Roldán at Floyd on Sun 11 Oct, Miami. 1 act on the bill: Bort. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Nacho Scoppa + Isabella Roldán at Floyd on Sun 11 Oct, Miami. 1 artist on the bill: Bort. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

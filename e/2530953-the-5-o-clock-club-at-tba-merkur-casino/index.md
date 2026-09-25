@@ -1,6 +1,6 @@
 # The 5 O'Clock Club at TBA - Merkur Casino
 
-The 5 O'Clock Club at TBA - Merkur Casino on Sat 26 Sept, Leeds. 1 act on the bill: Dave Lee. House and Disco. Preview the line-up and save it on soundcheck.
+The 5 O'Clock Club at TBA - Merkur Casino on Sat 26 Sept, Leeds. 1 artist on the bill: Dave Lee. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

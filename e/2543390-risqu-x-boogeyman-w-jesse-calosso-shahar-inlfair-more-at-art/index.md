@@ -1,6 +1,6 @@
 # RISQUÉ X BOOGEYMAN W/ Jesse Calosso, Shahar, INLFAIR + MORE at ARTSPACE
 
-RISQUÉ X BOOGEYMAN W/ Jesse Calosso, Shahar, INLFAIR + MORE at ARTSPACE on Sat 26 Sept, Newyorkcity. 3 acts on the bill: Jesse Calosso, Shahar and The Fellas. House and Tech House. Preview the line-up and save it on soundcheck.
+RISQUÉ X BOOGEYMAN W/ Jesse Calosso, Shahar, INLFAIR + MORE at ARTSPACE on Sat 26 Sept, New York City. 3 artists on the bill: Jesse Calosso, Shahar and The Fellas. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

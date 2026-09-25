@@ -1,6 +1,6 @@
 # Breakaway: Free Entry Before 12am - Breaks / Jungle / Drum & Bass at Dalston Den
 
-Breakaway: Free Entry Before 12am - Breaks / Jungle / Drum & Bass at Dalston Den on Fri 2 Oct, London. 6 acts on the bill: Agility, Blake (2), Bryn Brax and FENDI-K and 2 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Breakaway: Free Entry Before 12am - Breaks / Jungle / Drum & Bass at Dalston Den on Fri 2 Oct, London. 6 artists on the bill: Agility, Blake, Bryn Brax and FENDI-K and 2 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

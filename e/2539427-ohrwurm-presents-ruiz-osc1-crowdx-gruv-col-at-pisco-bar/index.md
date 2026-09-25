@@ -1,6 +1,6 @@
 # Ohrwurm presents RUIZ OSC1 (Crowdx / Gruv, COL) at Pisco Bar
 
-Ohrwurm presents RUIZ OSC1 (Crowdx / Gruv, COL) at Pisco Bar on Fri 25 Sept, Kualalumpur. 2 acts on the bill: Mr. Yang and RUIZ OSC1. Techno. Preview the line-up and save it on soundcheck.
+Ohrwurm presents RUIZ OSC1 (Crowdx / Gruv, COL) at Pisco Bar on Fri 25 Sept, Kuala Lumpur. 2 artists on the bill: Mr. Yang and RUIZ OSC1. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

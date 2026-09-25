@@ -1,6 +1,6 @@
 # Victor Calderone [open-to-close] at Flash
 
-Victor Calderone [open-to-close] at Flash on Fri 16 Oct, Washingtondc. 3 acts on the bill: Adrian Collazo, Victor Calderone and Vithz. House and Tech House. Preview the line-up and save it on soundcheck.
+Victor Calderone [open-to-close] at Flash on Fri 16 Oct, Washington DC. 3 artists on the bill: Adrian Collazo, Victor Calderone and Vithz. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

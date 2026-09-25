@@ -2,7 +2,7 @@
 
 Nosso is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Transit, Amsterdam on Fri, 9 Oct 2026.
 
-Nosso is an afro house and deep house artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam. Often billed alongside Omari, OMARI (3) and Wes Lee. Next up: Transit, Amsterdam on Fri 9 Oct.
+Nosso is an afro house and deep house artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam. Often billed alongside Omari, OMARI and Wes Lee. Next up: Transit, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 

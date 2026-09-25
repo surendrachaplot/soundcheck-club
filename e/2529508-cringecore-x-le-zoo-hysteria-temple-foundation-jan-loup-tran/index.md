@@ -1,6 +1,6 @@
 # Cringecore x Le Zoo: Hysteria temple Foundation • Jan Loup • Transitionless [VJ Etmel] at Zoo
 
-Cringecore x Le Zoo: Hysteria temple Foundation • Jan Loup • Transitionless [VJ Etmel] on Fri 25 Sept, Geneva. 2 acts on the bill: Hysteria temple Foundation and Jan Loup. Techno and Bass. Preview the line-up and save it on soundcheck.
+Cringecore x Le Zoo: Hysteria temple Foundation • Jan Loup • Transitionless [VJ Etmel] on Fri 25 Sept, Geneva. 2 artists on the bill: Hysteria temple Foundation and Jan Loup. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tresor Klubnacht at Tresor / Globus
 
-Tresor Klubnacht at Tresor / Globus on Sat 26 Sept, Berlin. 7 acts on the bill: DJ Pipe, Eric Cloutier, Huerta and Karina Schneider and 3 more. Preview the line-up and save it on soundcheck.
+Tresor Klubnacht at Tresor / Globus on Sat 26 Sept, Berlin. 7 artists on the bill: DJ Pipe, Eric Cloutier, Huerta and Karina Schneider and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

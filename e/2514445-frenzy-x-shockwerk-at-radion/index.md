@@ -1,6 +1,6 @@
 # FRENZY x SHOCKWERK at RADION
 
-FRENZY x SHOCKWERK at RADION on Sat 26 Sept, Amsterdam. 7 acts on the bill: Beau Didier, Comrade Winston, HERMETICA and Laure Croft and 3 more. Preview the line-up and save it on soundcheck.
+FRENZY x SHOCKWERK at RADION on Sat 26 Sept, Amsterdam. 7 artists on the bill: Beau Didier, Comrade Winston, HERMETICA and Laure Croft and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TRICK at 528 Ibiza
 
-TRICK at 528 Ibiza on Fri 2 Oct, Ibiza. 4 acts on the bill: James Poole, Patrick Topping, Tre Reynolds and Us Two. House and Tech House. Preview the line-up and save it on soundcheck.
+TRICK at 528 Ibiza on Fri 2 Oct, Ibiza. 4 artists on the bill: James Poole, Patrick Topping, Tre Reynolds and Us Two. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

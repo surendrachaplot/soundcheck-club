@@ -1,6 +1,6 @@
 # MERGE HALLOWEEN at TBA - Brooklyn
 
-MERGE HALLOWEEN at TBA - Brooklyn on Fri 30 Oct, Newyorkcity. 7 acts on the bill: Annie Lew, Fadi Mohem, Ignez and Ne/Re/A and 3 more. Techno. Preview the line-up and save it on soundcheck.
+MERGE HALLOWEEN at TBA - Brooklyn on Fri 30 Oct, New York City. 7 artists on the bill: Annie Lew, Fadi Mohem, Ignez and Ne/Re/A and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

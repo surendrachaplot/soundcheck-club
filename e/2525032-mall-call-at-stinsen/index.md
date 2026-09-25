@@ -1,6 +1,6 @@
 # Mall Call at Stinsen
 
-Mall Call at Stinsen on Sat 28 Nov, Stockholm. 5 acts on the bill: Miley Serious, Molø, Namasenda and Overmono and 1 more. Preview the line-up and save it on soundcheck.
+Mall Call at Stinsen on Sat 28 Nov, Stockholm. 5 artists on the bill: Miley Serious, Molø, Namasenda and Overmono and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # STILL HERE - LIFTED ✧ Corpo de Baile ✧ TAG DER CLUBKULTUR 2026 at Crack Bellmer
 
-STILL HERE - LIFTED ✧ Corpo de Baile ✧ TAG DER CLUBKULTUR 2026 at Crack Bellmer on Fri 9 Oct, Berlin. 5 acts on the bill: FatAles, kamishibai, Mamede and NeZoomie and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+STILL HERE - LIFTED ✧ Corpo de Baile ✧ TAG DER CLUBKULTUR 2026 at Crack Bellmer on Fri 9 Oct, Berlin. 5 artists on the bill: FatAles, kamishibai, Mamede and NeZoomie and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

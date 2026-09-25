@@ -2,7 +2,7 @@
 
 Crossbow is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA -  SECRET LOCATION , Boston on Fri, 30 Oct 2026.
 
-Crossbow is a techno and tech house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Amsterdam, Boston, Newyorkcity and Philadelphia and 2 more. Often billed alongside De León, JFK (USA) and Sam Wolfe. Next up: TBA -  SECRET LOCATION , Boston on Fri 30 Oct.
+Crossbow is a techno and tech house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Amsterdam, Boston, New York City and Philadelphia and 2 more. Often billed alongside De León, JFK (USA) and Sam Wolfe. Next up: TBA -  SECRET LOCATION , Boston on Fri 30 Oct.
 
 ## Upcoming shows
 

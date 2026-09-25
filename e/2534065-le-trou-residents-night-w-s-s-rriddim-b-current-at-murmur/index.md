@@ -1,6 +1,6 @@
 # le trou residents night w/ sèsè , rriddim & b current at murmur
 
-le trou residents night w/ sèsè , rriddim & b current at murmur on Sat 26 Sept, Amsterdam. 2 acts on the bill: B Current and rriddim. Preview the line-up and save it on soundcheck.
+le trou residents night w/ sèsè , rriddim & b current at murmur on Sat 26 Sept, Amsterdam. 2 artists on the bill: B Current and rriddim. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

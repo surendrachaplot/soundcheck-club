@@ -2,7 +2,7 @@
 
 Schatzï is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hotel Butterfly, Rome on Sun, 27 Sept 2026.
 
-Schatzï is a house and electronica artist based in Italy, tracked on soundcheck, with 17 sets logged across Berlin, Madrid, Milan and Paris and 1 more. Often billed alongside Oceanwax, Coni (2) and Jason K (IT). Next up: Hotel Butterfly, Rome on Sun 27 Sept.
+Schatzï is a house and electronica artist based in Italy, tracked on soundcheck, with 17 sets logged across Berlin, Madrid, Milan and Paris and 1 more. Often billed alongside Oceanwax, Coni and Jason K (IT). Next up: Hotel Butterfly, Rome on Sun 27 Sept.
 
 ## Upcoming shows
 

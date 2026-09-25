@@ -1,6 +1,6 @@
 # A.M.C presents: Grassroots Energy (Sheffield) at Tank
 
-A.M.C presents: Grassroots Energy (Sheffield) at Tank on Fri 6 Nov, Sheffield. 2 acts on the bill: A.M.C. and Phantom. Drum & Bass. Preview the line-up and save it on soundcheck.
+A.M.C presents: Grassroots Energy (Sheffield) at Tank on Fri 6 Nov, Sheffield. 2 artists on the bill: A.M.C. and Phantom. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

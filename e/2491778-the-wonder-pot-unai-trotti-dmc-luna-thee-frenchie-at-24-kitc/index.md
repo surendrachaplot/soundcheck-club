@@ -1,6 +1,6 @@
 # The Wonder Pot: Unai Trotti, DMC, Luna Thee Frenchie at 24 Kitchen Street
 
-The Wonder Pot: Unai Trotti, DMC, Luna Thee Frenchie at 24 Kitchen Street on Fri 2 Oct, Liverpool. 3 acts on the bill: DMC., Luna Thee Frenchie and Unai Trotti. Acid and Minimal Techno. Preview the line-up and save it on soundcheck.
+The Wonder Pot: Unai Trotti, DMC, Luna Thee Frenchie at 24 Kitchen Street on Fri 2 Oct, Liverpool. 3 artists on the bill: DMC., Luna Thee Frenchie and Unai Trotti. Acid and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

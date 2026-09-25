@@ -1,6 +1,6 @@
 # All My Friends invites... Cyberwax (Buenos Aires) at Vittoria Wharf Studio
 
-All My Friends invites... Cyberwax (Buenos Aires) at Vittoria Wharf Studio on Fri 25 Sept, London. 3 acts on the bill: KEIJIRO, Manu Oubiña and Oho.. House and Club. Preview the line-up and save it on soundcheck.
+All My Friends invites... Cyberwax (Buenos Aires) at Vittoria Wharf Studio on Fri 25 Sept, London. 3 artists on the bill: KEIJIRO, Manu Oubiña and Oho.. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

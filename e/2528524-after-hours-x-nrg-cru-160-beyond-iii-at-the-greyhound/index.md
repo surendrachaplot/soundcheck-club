@@ -1,6 +1,6 @@
 # After Hours x NRG CRU: 160 & Beyond III at The Greyhound
 
-After Hours x NRG CRU: 160 & Beyond III at The Greyhound on Sat 26 Sept, London. 3 acts on the bill: A.N.T, Abby Daze and Highlander. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
+After Hours x NRG CRU: 160 & Beyond III at The Greyhound on Sat 26 Sept, London. 3 artists on the bill: A.N.T, Abby Daze and Highlander. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

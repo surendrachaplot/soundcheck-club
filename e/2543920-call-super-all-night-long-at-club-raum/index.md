@@ -1,6 +1,6 @@
 # Call Super (All Night Long) at CLUB RAUM
 
-Call Super (All Night Long) at CLUB RAUM on Fri 20 Nov, Amsterdam. 1 act on the bill: Call Super. Preview the line-up and save it on soundcheck.
+Call Super (All Night Long) at CLUB RAUM on Fri 20 Nov, Amsterdam. 1 artist on the bill: Call Super. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

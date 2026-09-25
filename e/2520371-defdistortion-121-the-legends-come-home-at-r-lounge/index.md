@@ -1,6 +1,6 @@
 # DefDistortion #121 -THE LEGENDS COME HOME- at R Lounge
 
-DefDistortion #121 -THE LEGENDS COME HOME- at R Lounge on Sun 11 Oct, Tokyo. 1 act on the bill: Relect. Techno. Preview the line-up and save it on soundcheck.
+DefDistortion #121 -THE LEGENDS COME HOME- at R Lounge on Sun 11 Oct, Tokyo. 1 artist on the bill: Relect. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

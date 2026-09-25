@@ -1,6 +1,6 @@
 # Damian Lazarus, MiniMalene, NILU at Hangaren
 
-Damian Lazarus, MiniMalene, NILU at Hangaren on Sat 3 Oct, Copenhagen. 3 acts on the bill: Damian Lazarus, MiniMalene (2) and NILU. House and Tech House. Preview the line-up and save it on soundcheck.
+Damian Lazarus, MiniMalene, NILU at Hangaren on Sat 3 Oct, Copenhagen. 3 artists on the bill: Damian Lazarus, MiniMalene and NILU. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

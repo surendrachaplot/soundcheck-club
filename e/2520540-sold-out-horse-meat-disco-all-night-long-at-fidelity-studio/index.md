@@ -1,6 +1,6 @@
 # SOLD OUT Horse Meat Disco (All Night Long) at Fidelity Studio
 
-SOLD OUT Horse Meat Disco (All Night Long) at Fidelity Studio on Fri 2 Oct, Dublin. 1 act on the bill: Horse Meat Disco. Preview the line-up and save it on soundcheck.
+SOLD OUT Horse Meat Disco (All Night Long) at Fidelity Studio on Fri 2 Oct, Dublin. 1 artist on the bill: Horse Meat Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

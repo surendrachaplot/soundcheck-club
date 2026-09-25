@@ -1,6 +1,6 @@
 # Bakked b2b Denaila at Gianca - Murazzi
 
-Bakked b2b Denaila at Gianca - Murazzi on Fri 25 Sept, Turin. 2 acts on the bill: Bakked and Denaila. Minimal Techno. Preview the line-up and save it on soundcheck.
+Bakked b2b Denaila at Gianca - Murazzi on Fri 25 Sept, Turin. 2 artists on the bill: Bakked and Denaila. Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

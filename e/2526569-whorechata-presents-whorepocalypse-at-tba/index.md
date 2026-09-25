@@ -1,6 +1,6 @@
 # Whorechata presents: WHOREPOCALYPSE at TBA
 
-Whorechata presents: WHOREPOCALYPSE at TBA on Fri 30 Oct, Newyorkcity. Club. Preview the line-up and save it on soundcheck.
+Whorechata presents: WHOREPOCALYPSE at TBA on Fri 30 Oct, New York City. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

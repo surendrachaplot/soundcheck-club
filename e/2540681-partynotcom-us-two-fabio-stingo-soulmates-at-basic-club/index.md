@@ -1,6 +1,6 @@
 # PARTYNOTCOM • Us Two + Fabio Stingo, Soulmates at Basic Club
 
-PARTYNOTCOM • Us Two + Fabio Stingo, Soulmates at Basic Club on Sat 3 Oct, Naples. 3 acts on the bill: Fabio Stingo, Soulmates and Us Two. Preview the line-up and save it on soundcheck.
+PARTYNOTCOM • Us Two + Fabio Stingo, Soulmates at Basic Club on Sat 3 Oct, Naples. 3 artists on the bill: Fabio Stingo, Soulmates and Us Two. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

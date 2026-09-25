@@ -1,6 +1,6 @@
 # Curated By Yentl at Jalousy
 
-Curated By Yentl at Jalousy on Fri 25 Sept, Brussels. 2 acts on the bill: munna and Yentl.. House and Electro. Preview the line-up and save it on soundcheck.
+Curated By Yentl at Jalousy on Fri 25 Sept, Brussels. 2 artists on the bill: munna and Yentl.. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

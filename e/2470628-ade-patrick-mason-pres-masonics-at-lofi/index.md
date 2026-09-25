@@ -1,6 +1,6 @@
 # ADE - Patrick Mason pres MASONICS at Lofi
 
-ADE - Patrick Mason pres MASONICS at Lofi on Wed 21 Oct, Amsterdam. 5 acts on the bill: DJ Rush, Laure Croft, Patrick Mason and Shinedoe and 1 more. Preview the line-up and save it on soundcheck.
+ADE - Patrick Mason pres MASONICS at Lofi on Wed 21 Oct, Amsterdam. 5 artists on the bill: DJ Rush, Laure Croft, Patrick Mason and Shinedoe and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

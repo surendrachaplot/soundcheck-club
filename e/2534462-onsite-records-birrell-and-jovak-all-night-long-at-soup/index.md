@@ -1,6 +1,6 @@
 # Onsite Records: Birrell and Jovak (all night long) at Soup
 
-Onsite Records: Birrell and Jovak (all night long) at Soup on Fri 9 Oct, Manchester. 2 acts on the bill: Birrell and Jovak. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Onsite Records: Birrell and Jovak (all night long) at Soup on Fri 9 Oct, Manchester. 2 artists on the bill: Birrell and Jovak. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 9FINITY x CERTAIN CLUB with Matisa, Secretsundaze, Certain People at Cadavra
 
-9FINITY x CERTAIN CLUB with Matisa, Secretsundaze, Certain People at Cadavra on Sat 14 Nov, Madrid. 3 acts on the bill: Certain People, Matisa and Secretsundaze. Electronica. Preview the line-up and save it on soundcheck.
+9FINITY x CERTAIN CLUB with Matisa, Secretsundaze, Certain People at Cadavra on Sat 14 Nov, Madrid. 3 artists on the bill: Certain People, Matisa and Secretsundaze. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

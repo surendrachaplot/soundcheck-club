@@ -1,6 +1,6 @@
 # Audio Porn - onesixone Saturday's at OneSixOne
 
-Audio Porn - onesixone Saturday's at OneSixOne on Sat 26 Sept, Melbourne. 3 acts on the bill: Agent 86, Cara Murphy and Jay Ramon. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Audio Porn - onesixone Saturday's at OneSixOne on Sat 26 Sept, Melbourne. 3 artists on the bill: Agent 86, Cara Murphy and Jay Ramon. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

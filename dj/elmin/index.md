@@ -2,7 +2,7 @@
 
 ELM(IN) is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tempio del Futuro Perduto, Milan on Fri, 23 Oct 2026.
 
-ELM(IN) is a techno and idm artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Hongkong and Milan. Often billed alongside Dj Iryna, Mohaym and Toxido Mask. Next up: Tempio del Futuro Perduto, Milan on Fri 23 Oct.
+ELM(IN) is a techno and idm artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Hong Kong and Milan. Often billed alongside Dj Iryna, Mohaym and Toxido Mask. Next up: Tempio del Futuro Perduto, Milan on Fri 23 Oct.
 
 ## Upcoming shows
 

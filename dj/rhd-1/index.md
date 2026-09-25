@@ -2,7 +2,7 @@
 
 RHD (1) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bricks, London on Fri, 25 Sept 2026.
 
-RHD (1) is a garage and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Bristol, Ibiza, London and Nottingham. Often billed alongside AHARDS, Knock Down Ginger and Alex Mills. Next up: Bricks, London on Fri 25 Sept.
+RHD is a garage and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Bristol, Ibiza, London and Nottingham. Often billed alongside AHARDS, Knock Down Ginger and Alex Mills. Next up: Bricks, London on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 TBA - Downtown Bellas Artes is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Aperture" on Sun, 4 Oct 2026.
 
-TBA - Downtown Bellas Artes is a music venue in Mexicocity listed on soundcheck. 2 upcoming gigs, with line-ups including a landscape, Daniel Alanís and Ursula Prawn. Browse upcoming dates, start times and who's playing.
+TBA - Downtown Bellas Artes is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including a landscape, Daniel Alanís and Ursula Prawn. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

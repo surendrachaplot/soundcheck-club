@@ -2,7 +2,7 @@
 
 Caire is a Downtempo and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Silence Please, New York City on Thu, 24 Sept 2026.
 
-Caire is a downtempo and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Montreal and Newyorkcity. Often billed alongside AG (1), CMD+JAZMINE and Wauce. Next up: Silence Please, Newyorkcity on Thu 24 Sept.
+Caire is a downtempo and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Montreal and New York City. Often billed alongside AG, CMD+JAZMINE and Wauce. Next up: Silence Please, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

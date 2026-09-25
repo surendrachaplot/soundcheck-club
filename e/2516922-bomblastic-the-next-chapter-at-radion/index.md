@@ -1,6 +1,6 @@
 # BomBlastic - The Next Chapter at RADION
 
-BomBlastic - The Next Chapter at RADION on Sat 17 Oct, Amsterdam. 2 acts on the bill: Back to Mars and Meraki (3). Psytrance. Preview the line-up and save it on soundcheck.
+BomBlastic - The Next Chapter at RADION on Sat 17 Oct, Amsterdam. 2 artists on the bill: Back to Mars and Meraki. Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

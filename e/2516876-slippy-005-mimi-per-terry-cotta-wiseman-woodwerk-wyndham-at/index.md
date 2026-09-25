@@ -1,6 +1,6 @@
 # Slippy 005: Mimi, Per, Terry Cotta, Wiseman, Woodwerk, Wyndham at The Greyhound
 
-Slippy 005: Mimi, Per, Terry Cotta, Wiseman, Woodwerk, Wyndham at The Greyhound on Fri 16 Oct, London. 3 acts on the bill: Terry Cotta, Woodwerk and Wyndham. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Slippy 005: Mimi, Per, Terry Cotta, Wiseman, Woodwerk, Wyndham at The Greyhound on Fri 16 Oct, London. 3 artists on the bill: Terry Cotta, Woodwerk and Wyndham. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

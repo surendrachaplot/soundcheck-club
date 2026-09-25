@@ -1,6 +1,6 @@
 # Imbas presents Music Producers Workshop at Hen's Teeth
 
-Imbas presents Music Producers Workshop at Hen's Teeth on Sat 17 Oct, Dublin. 2 acts on the bill: Blimp and LIAL. Preview the line-up and save it on soundcheck.
+Imbas presents Music Producers Workshop at Hen's Teeth on Sat 17 Oct, Dublin. 2 artists on the bill: Blimp and LIAL. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

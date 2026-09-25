@@ -1,6 +1,6 @@
 # Nightly x DOVnROBS (Gallery Club London) at Gallery
 
-Nightly x DOVnROBS (Gallery Club London) on Fri 16 Oct, London. 1 act on the bill: DOVnROBS. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Nightly x DOVnROBS (Gallery Club London) on Fri 16 Oct, London. 1 artist on the bill: DOVnROBS. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

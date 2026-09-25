@@ -1,6 +1,6 @@
 # Mai Iachetti - Not Welcome, Tokyo Club - ALLMusicParties at TBA - Tokyo Club, Costanera
 
-Mai Iachetti - Not Welcome, Tokyo Club - ALLMusicParties at TBA - Tokyo Club, Costanera on Sat 3 Oct, Buenosaires. 1 act on the bill: Mai iachetti. Minimal. Preview the line-up and save it on soundcheck.
+Mai Iachetti - Not Welcome, Tokyo Club - ALLMusicParties at TBA - Tokyo Club, Costanera on Sat 3 Oct, Buenos Aires. 1 artist on the bill: Mai iachetti. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

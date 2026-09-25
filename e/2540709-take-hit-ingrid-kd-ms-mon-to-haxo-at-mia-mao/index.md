@@ -1,6 +1,6 @@
 # TAKE HIT: Ingrid, KD/MS, MON.TO, HAXO at Mia Mao
 
-TAKE HIT: Ingrid, KD/MS, MON.TO, HAXO at Mia Mao on Thu 8 Oct, Paris. 3 acts on the bill: HAXO, Ingrid and Mon.To. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+TAKE HIT: Ingrid, KD/MS, MON.TO, HAXO at Mia Mao on Thu 8 Oct, Paris. 3 artists on the bill: HAXO, Ingrid and Mon.To. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

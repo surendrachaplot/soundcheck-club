@@ -1,8 +1,8 @@
 # Loukeman
 
-Loukeman is a House and Electronica artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Smoke & Mirrors, Chicago on Thu, 1 Oct 2026.
+Loukeman is a House and Electronica artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Smoke & Mirrors, Chicago on Thu, 1 Oct 2026.
 
-Loukeman is a house and electronica artist based in Canada, tracked on soundcheck, with 30 sets logged across Berlin, Bristol, Brussels and Chicago and 9 more. Often billed alongside Lis Dalton, Marie Davidson and Nick León. Next up: Smoke & Mirrors, Chicago on Thu 1 Oct.
+Loukeman is a house and electronica artist based in Canada, tracked on soundcheck, with 32 sets logged across Berlin, Bristol, Brussels and Chicago and 9 more. Often billed alongside Lis Dalton, Marie Davidson and Nick León. Next up: Smoke & Mirrors, Chicago on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,8 @@ Loukeman is a house and electronica artist based in Canada, tracked on soundchec
 | Thu, 5 Nov 2026 | fabric | London |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
 | Sat, 14 Nov 2026 | TBA - Downtown LA | Los Angeles |
+| Fri, 4 Dec 2026 | Newspeak | Montreal |
+| Sat, 5 Dec 2026 | Coda | Toronto |
 
 ## Recently played
 

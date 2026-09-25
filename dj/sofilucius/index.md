@@ -1,14 +1,15 @@
 # Sofi Lucius
 
-Sofi Lucius is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fuchs2, Prague on Fri, 2 Oct 2026.
+Sofi Lucius is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fuchs2, Prague on Fri, 2 Oct 2026.
 
-Sofi Lucius is a techno and house artist based in Argentina, tracked on soundcheck, with 23 sets logged across Berlin, Brussels, Buenosaires and Hamburg and 3 more. Often billed alongside SEMREH, Midirama and Dash (CZ). Next up: Fuchs2, Prague on Fri 2 Oct.
+Sofi Lucius is a techno and house artist based in Argentina, tracked on soundcheck, with 24 sets logged across Berlin, Brussels, Buenos Aires and Hamburg and 3 more. Often billed alongside SEMREH, Midirama and Dash (CZ). Next up: Fuchs2, Prague on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Fuchs2 | Prague |
+| Fri, 9 Oct 2026 | Sigma | Ibiza |
 
 ## Recently played
 

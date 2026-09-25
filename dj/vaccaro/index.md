@@ -1,13 +1,14 @@
 # Vaccaro
 
-Vaccaro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tresor / Globus, Berlin on Wed, 21 Oct 2026.
+Vaccaro is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ÆDEN, Berlin on Fri, 2 Oct 2026.
 
-Vaccaro is a techno and house artist based in Brazil, tracked on soundcheck, with 34 sets logged across Berlin. Often billed alongside MXC, Tinco and No Auer. Next up: Tresor / Globus, Berlin on Wed 21 Oct.
+Vaccaro is a techno and house artist based in Brazil, tracked on soundcheck, with 35 sets logged across Berlin. Often billed alongside MXC, Tinco and No Auer. Next up: ÆDEN, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | ÆDEN | Berlin |
 | Wed, 21 Oct 2026 | Tresor / Globus | Berlin |
 
 ## Recently played

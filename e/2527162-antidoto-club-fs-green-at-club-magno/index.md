@@ -1,6 +1,6 @@
 # Antidoto Club: FS Green at Club Magno
 
-Antidoto Club: FS Green at Club Magno on Thu 19 Nov, Madrid. 1 act on the bill: FS Green. Baile Funk and Dancehall. Preview the line-up and save it on soundcheck.
+Antidoto Club: FS Green at Club Magno on Thu 19 Nov, Madrid. 1 artist on the bill: FS Green. Baile Funk and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

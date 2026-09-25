@@ -2,7 +2,7 @@
 
 4\4 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 25 Sept 2026.
 
-4\4 is a techno and electro artist based in Poland, tracked on soundcheck, with 19 sets logged across Krakow. Often billed alongside Kola (PL), Intyre and Catch_22 (1). Next up: STK 47 WAREHOUSE, Krakow on Fri 25 Sept.
+4\4 is a techno and electro artist based in Poland, tracked on soundcheck, with 19 sets logged across Krakow. Often billed alongside Kola (PL), Intyre and Catch_22. Next up: STK 47 WAREHOUSE, Krakow on Fri 25 Sept.
 
 ## Upcoming shows
 

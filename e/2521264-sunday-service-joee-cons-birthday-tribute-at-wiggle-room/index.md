@@ -1,6 +1,6 @@
 # Sunday SerVice: Joee Cons Birthday Tribute at Wiggle Room
 
-Sunday SerVice: Joee Cons Birthday Tribute at Wiggle Room on Sun 27 Sept, Toronto. 5 acts on the bill: BOZA, Joee Cons, Manzone & Strong and MC Flipside and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Sunday SerVice: Joee Cons Birthday Tribute at Wiggle Room on Sun 27 Sept, Toronto. 5 artists on the bill: BOZA, Joee Cons, Manzone & Strong and MC Flipside and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

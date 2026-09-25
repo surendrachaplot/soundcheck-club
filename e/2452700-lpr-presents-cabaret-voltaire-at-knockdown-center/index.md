@@ -1,6 +1,6 @@
 # LPR presents: Cabaret Voltaire at Knockdown Center
 
-LPR presents: Cabaret Voltaire at Knockdown Center on Fri 25 Sept, Newyorkcity. 1 act on the bill: Cabaret Voltaire. Industrial and Post-Punk. Preview the line-up and save it on soundcheck.
+LPR presents: Cabaret Voltaire at Knockdown Center on Fri 25 Sept, New York City. 1 artist on the bill: Cabaret Voltaire. Industrial and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

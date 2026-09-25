@@ -1,6 +1,6 @@
 # Mariano Mellino – Auckland (Nueva Zelanda) at The Mothership
 
-Mariano Mellino – Auckland (Nueva Zelanda) at The Mothership on Fri 9 Oct, Auckland. 1 act on the bill: Mariano Mellino. Preview the line-up and save it on soundcheck.
+Mariano Mellino – Auckland (Nueva Zelanda) at The Mothership on Fri 9 Oct, Auckland. 1 artist on the bill: Mariano Mellino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

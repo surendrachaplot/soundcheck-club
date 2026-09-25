@@ -1,6 +1,6 @@
 # TECHNOBULL RESIDENCY: Aberra, Adler, Yerdok at Astoria
 
-TECHNOBULL RESIDENCY: Aberra, Adler, Yerdok at Astoria on Fri 25 Sept, Turin. 1 act on the bill: Aberra. Techno. Preview the line-up and save it on soundcheck.
+TECHNOBULL RESIDENCY: Aberra, Adler, Yerdok at Astoria on Fri 25 Sept, Turin. 1 artist on the bill: Aberra. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

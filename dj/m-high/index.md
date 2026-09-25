@@ -2,7 +2,7 @@
 
 M-High is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Colorado Charlie, The Hague on Fri, 25 Sept 2026.
 
-M-High is a house and tech house artist based in Netherlands, tracked on soundcheck, with 183 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Prunk, Job de Jong and Dennis Quin. Next up: Colorado Charlie, Thehague on Fri 25 Sept.
+M-High is a house and tech house artist based in Netherlands, tracked on soundcheck, with 183 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Prunk, Job de Jong and Dennis Quin. Next up: Colorado Charlie, The Hague on Fri 25 Sept.
 
 ## Upcoming shows
 

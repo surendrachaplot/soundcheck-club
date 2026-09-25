@@ -1,6 +1,6 @@
 # Passward D/ ARTePorto/ RSS at TBA
 
-Passward D/ ARTePorto/ RSS at TBA on Fri 25 Sept, Porto. 1 act on the bill: Passwardy. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Passward D/ ARTePorto/ RSS at TBA on Fri 25 Sept, Porto. 1 artist on the bill: Passwardy. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

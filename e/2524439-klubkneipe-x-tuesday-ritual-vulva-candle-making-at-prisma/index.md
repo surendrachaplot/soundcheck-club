@@ -1,6 +1,6 @@
 # Klubkneipe x Tuesday Ritual - Vulva Candle Making at Prisma
 
-Klubkneipe x Tuesday Ritual - Vulva Candle Making at Prisma on Tue 29 Sept, Berlin. 2 acts on the bill: Domovnika and Manillo. Techno and House. Preview the line-up and save it on soundcheck.
+Klubkneipe x Tuesday Ritual - Vulva Candle Making at Prisma on Tue 29 Sept, Berlin. 2 artists on the bill: Domovnika and Manillo. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

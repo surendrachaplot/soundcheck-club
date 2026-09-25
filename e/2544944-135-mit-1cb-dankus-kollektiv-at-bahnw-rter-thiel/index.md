@@ -1,6 +1,6 @@
 # 135+ mit 1CB & Dankus Kollektiv at Bahnwärter Thiel
 
-135+ mit 1CB & Dankus Kollektiv at Bahnwärter Thiel on Thu 15 Oct, Munich. 3 acts on the bill: Fej:tal, Mr. Stampftech and pnk pnthr. Preview the line-up and save it on soundcheck.
+135+ mit 1CB & Dankus Kollektiv at Bahnwärter Thiel on Thu 15 Oct, Munich. 3 artists on the bill: Fej:tal, Mr. Stampftech and pnk pnthr. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

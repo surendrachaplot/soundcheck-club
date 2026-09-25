@@ -1,6 +1,6 @@
 # BeBop Porú & Luchando Music present: Egrem & Fania — Salsa Edition at Mr Melo
 
-BeBop Porú & Luchando Music present: Egrem & Fania — Salsa Edition at Mr Melo on Thu 24 Sept, Newyorkcity. 2 acts on the bill: EL GARO and Mickey Perez. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+BeBop Porú & Luchando Music present: Egrem & Fania — Salsa Edition at Mr Melo on Thu 24 Sept, New York City. 2 artists on the bill: EL GARO and Mickey Perez. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

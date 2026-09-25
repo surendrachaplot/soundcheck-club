@@ -1,6 +1,6 @@
 # Sunshine Underground Vol.12 4th Anniversary at Aoyama Hachi
 
-Sunshine Underground Vol.12 4th Anniversary at Aoyama Hachi on Sat 31 Oct, Tokyo. 9 acts on the bill: ANiIIIIiiiKii, bungo, FELINE (JP) and k:sea and 5 more. House and Bass. Preview the line-up and save it on soundcheck.
+Sunshine Underground Vol.12 4th Anniversary at Aoyama Hachi on Sat 31 Oct, Tokyo. 9 artists on the bill: ANiIIIIiiiKii, bungo, FELINE (JP) and k:sea and 5 more. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

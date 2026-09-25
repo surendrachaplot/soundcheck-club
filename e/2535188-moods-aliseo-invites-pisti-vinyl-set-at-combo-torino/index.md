@@ -1,6 +1,6 @@
 # Moods - Aliseo invites Pisti - vinyl set at Combo Torino
 
-Moods - Aliseo invites Pisti - vinyl set at Combo Torino on Thu 22 Oct, Turin. 2 acts on the bill: Al.Essio and Pisti. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
+Moods - Aliseo invites Pisti - vinyl set at Combo Torino on Thu 22 Oct, Turin. 2 artists on the bill: Al.Essio and Pisti. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

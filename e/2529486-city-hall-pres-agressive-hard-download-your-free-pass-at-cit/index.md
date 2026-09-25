@@ -1,6 +1,6 @@
 # City Hall pres. AGRESSIVE HARD || DOWNLOAD YOUR FREE PASS at City Hall
 
-City Hall pres. AGRESSIVE HARD || DOWNLOAD YOUR FREE PASS on Thu 24 Sept, Barcelona. 2 acts on the bill: ALTRAX and SORIANO. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+City Hall pres. AGRESSIVE HARD || DOWNLOAD YOUR FREE PASS on Thu 24 Sept, Barcelona. 2 artists on the bill: ALTRAX and SORIANO. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

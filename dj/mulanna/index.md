@@ -2,7 +2,7 @@
 
 mul/ANNA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at PIP Den Haag, The Hague on Sat, 3 Oct 2026.
 
-mul/ANNA is a techno and house artist based in Netherlands, tracked on soundcheck, with 62 sets logged across Amsterdam, Madrid, Rotterdam and Thehague and 1 more. Often billed alongside TWIENA, Jeans (NL) and Afra. Next up: PIP Den Haag, Thehague on Sat 3 Oct.
+mul/ANNA is a techno and house artist based in Netherlands, tracked on soundcheck, with 62 sets logged across Amsterdam, Madrid, Rotterdam and The Hague and 1 more. Often billed alongside TWIENA, Jeans (NL) and Afra. Next up: PIP Den Haag, The Hague on Sat 3 Oct.
 
 ## Upcoming shows
 

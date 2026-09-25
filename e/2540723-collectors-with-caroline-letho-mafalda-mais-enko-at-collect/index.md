@@ -1,6 +1,6 @@
 # Collectors with Caroline Letho, Mafalda Mais, Enko at Collect LX Factory
 
-Collectors with Caroline Letho, Mafalda Mais, Enko at Collect LX Factory on Thu 15 Oct, Lisbon. 3 acts on the bill: Caroline Lethô, Enkō and Mafalda Mais. Preview the line-up and save it on soundcheck.
+Collectors with Caroline Letho, Mafalda Mais, Enko at Collect LX Factory on Thu 15 Oct, Lisbon. 3 artists on the bill: Caroline Lethô, Enkō and Mafalda Mais. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

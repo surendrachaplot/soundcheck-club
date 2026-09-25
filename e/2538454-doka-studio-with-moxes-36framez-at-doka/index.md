@@ -1,6 +1,6 @@
 # Doka Studio with Moxes - 36framez at Doka
 
-Doka Studio with Moxes - 36framez on Fri 9 Oct, Amsterdam. 2 acts on the bill: 36framez and Moxes. House. Preview the line-up and save it on soundcheck.
+Doka Studio with Moxes - 36framez on Fri 9 Oct, Amsterdam. 2 artists on the bill: 36framez and Moxes. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

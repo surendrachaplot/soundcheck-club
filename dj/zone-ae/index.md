@@ -2,7 +2,7 @@
 
 Zone+ is a Deep House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kiku Room, San Diego on Thu, 24 Sept 2026.
 
-Zone+ is a deep house and minimal artist based in Bahrain, tracked on soundcheck, with 8 sets logged across Amsterdam, Ibiza, Losangeles and Miami and 2 more. Often billed alongside Jim Rider, Lee Burridge and Brawther. Next up: Kiku Room, Sandiego on Thu 24 Sept.
+Zone+ is a deep house and minimal artist based in Bahrain, tracked on soundcheck, with 8 sets logged across Amsterdam, Ibiza, Los Angeles and Miami and 2 more. Often billed alongside Jim Rider, Lee Burridge and Brawther. Next up: Kiku Room, San Diego on Thu 24 Sept.
 
 ## Upcoming shows
 

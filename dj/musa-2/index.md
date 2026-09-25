@@ -2,7 +2,7 @@
 
 musa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
-musa is a techno and house artist based in Canada, tracked on soundcheck, with 23 sets logged across Auckland, Melbourne, Mexicocity and Montreal and 1 more. Often billed alongside Zellers, Geezr and Jaw Jones. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
+musa is a techno and house artist based in Canada, tracked on soundcheck, with 23 sets logged across Auckland, Melbourne, Mexico City and Montreal and 1 more. Often billed alongside Zellers, Geezr and Jaw Jones. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 

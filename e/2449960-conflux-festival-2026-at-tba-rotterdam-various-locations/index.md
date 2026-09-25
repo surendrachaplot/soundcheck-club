@@ -1,6 +1,6 @@
 # Conflux Festival 2026 at TBA - Rotterdam Various Locations
 
-Conflux Festival 2026 at TBA - Rotterdam Various Locations on Thu 24 Sept, Rotterdam. 11 acts on the bill: 69DB, Alex Zhang Hungtai, Animistic Beliefs and Anton Filatov and 7 more. Preview the line-up and save it on soundcheck.
+Conflux Festival 2026 at TBA - Rotterdam Various Locations on Thu 24 Sept, Rotterdam. 11 artists on the bill: 69DB, Alex Zhang Hungtai, Animistic Beliefs and Anton Filatov and 7 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

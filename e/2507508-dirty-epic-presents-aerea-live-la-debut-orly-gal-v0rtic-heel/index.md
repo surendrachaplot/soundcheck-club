@@ -1,6 +1,6 @@
 # Dirty Epic presents: AEREA live (LA debut), Orly Gal, V0rtic & heelbite316 at TBA
 
-Dirty Epic presents: AEREA live (LA debut), Orly Gal, V0rtic & heelbite316 at TBA on Fri 13 Nov, Losangeles. 3 acts on the bill: AEREA, heelbite316 and Orly Gal. Trance and Techno. Preview the line-up and save it on soundcheck.
+Dirty Epic presents: AEREA live (LA debut), Orly Gal, V0rtic & heelbite316 at TBA on Fri 13 Nov, Los Angeles. 3 artists on the bill: AEREA, heelbite316 and Orly Gal. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Bastard Love is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 2 Oct 2026.
 
-Bastard Love is a house and electro artist based in Mexico, tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Lisbon and London and 3 more. Often billed alongside Mejia, Ossios and Oliverio Segura. Next up: YuYu Cine Club, Mexicocity on Fri 2 Oct.
+Bastard Love is a house and electro artist based in Mexico, tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Lisbon and London and 3 more. Often billed alongside Mejia, Ossios and Oliverio Segura. Next up: YuYu Cine Club, Mexico City on Fri 2 Oct.
 
 ## Upcoming shows
 

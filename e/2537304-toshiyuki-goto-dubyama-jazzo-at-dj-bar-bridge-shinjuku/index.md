@@ -1,6 +1,6 @@
 # Toshiyuki Goto & Dubyama Jazzo at DJ Bar Bridge Shinjuku
 
-Toshiyuki Goto & Dubyama Jazzo at DJ Bar Bridge Shinjuku on Tue 24 Nov, Tokyo. 1 act on the bill: Toshiyuki Goto. House. Preview the line-up and save it on soundcheck.
+Toshiyuki Goto & Dubyama Jazzo at DJ Bar Bridge Shinjuku on Tue 24 Nov, Tokyo. 1 artist on the bill: Toshiyuki Goto. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

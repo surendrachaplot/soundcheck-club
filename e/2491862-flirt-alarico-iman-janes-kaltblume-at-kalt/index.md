@@ -1,6 +1,6 @@
 # FLIRT: Alarico, Iman Janes & KALTBLUME at KALT
 
-FLIRT: Alarico, Iman Janes & KALTBLUME on Sat 10 Oct, Strasbourg. 3 acts on the bill: Alarico, Iman Janes and KALTBLUME. Preview the line-up and save it on soundcheck.
+FLIRT: Alarico, Iman Janes & KALTBLUME on Sat 10 Oct, Strasbourg. 3 artists on the bill: Alarico, Iman Janes and KALTBLUME. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

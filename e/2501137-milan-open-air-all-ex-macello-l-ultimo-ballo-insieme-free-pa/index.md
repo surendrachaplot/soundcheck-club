@@ -1,6 +1,6 @@
 # Milan Open Air all'Ex Macello - L'ultimo ballo insieme [free party] at Ex Macello
 
-Milan Open Air all'Ex Macello - L'ultimo ballo insieme [free party] on Sat 3 Oct, Milan. 4 acts on the bill: Futuro Tropicale, HYLO (IT), Joe Lewandowski and STYLOPHONIC. Preview the line-up and save it on soundcheck.
+Milan Open Air all'Ex Macello - L'ultimo ballo insieme [free party] on Sat 3 Oct, Milan. 4 artists on the bill: Futuro Tropicale, HYLO (IT), Joe Lewandowski and STYLOPHONIC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

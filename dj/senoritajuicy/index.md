@@ -2,7 +2,7 @@
 
 senoritajuicy is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Honey's, New York City on Thu, 1 Oct 2026.
 
-senoritajuicy is a techno and club artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity. Often billed alongside CMD+JAZMINE, Nymphostar and Crush Club. Next up: Honey's, Newyorkcity on Thu 1 Oct.
+senoritajuicy is a techno and club artist based in United States of America, tracked on soundcheck, with 23 sets logged across New York City. Often billed alongside CMD+JAZMINE, Nymphostar and Crush Club. Next up: Honey's, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 

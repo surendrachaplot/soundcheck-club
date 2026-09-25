@@ -1,6 +1,6 @@
 # WOE Is Us at Paradise Palms
 
-WOE Is Us at Paradise Palms on Sat 26 Sept, Edinburgh. 1 act on the bill: WOE is us. Preview the line-up and save it on soundcheck.
+WOE Is Us at Paradise Palms on Sat 26 Sept, Edinburgh. 1 artist on the bill: WOE is us. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

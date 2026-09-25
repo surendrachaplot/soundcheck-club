@@ -1,6 +1,6 @@
 # 5 YEARS OF GOMORRA at TBA
 
-5 YEARS OF GOMORRA at TBA on Sat 26 Sept, Barcelona. 2 acts on the bill: DUNA ËDEN and VCL (FR). Techno and Gabber. Preview the line-up and save it on soundcheck.
+5 YEARS OF GOMORRA at TBA on Sat 26 Sept, Barcelona. 2 artists on the bill: DUNA ËDEN and VCL (FR). Techno and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

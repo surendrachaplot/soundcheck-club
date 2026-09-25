@@ -1,6 +1,6 @@
 # OCR+BOKETTO TRX0002 at TBA - 793 Dundas St W
 
-OCR+BOKETTO TRX0002 at TBA - 793 Dundas St W on Sat 26 Sept, Toronto. 2 acts on the bill: Ali RQ and prayinsecret. Electro and Dubstep. Preview the line-up and save it on soundcheck.
+OCR+BOKETTO TRX0002 at TBA - 793 Dundas St W on Sat 26 Sept, Toronto. 2 artists on the bill: Ali RQ and prayinsecret. Electro and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AMAZONAS DISCO OFFICIAL AFTER at TBA - Marvila Bakehouse
 
-AMAZONAS DISCO OFFICIAL AFTER at TBA - Marvila Bakehouse on Sat 26 Sept, Lisbon. 1 act on the bill: La Gugga. House. Preview the line-up and save it on soundcheck.
+AMAZONAS DISCO OFFICIAL AFTER at TBA - Marvila Bakehouse on Sat 26 Sept, Lisbon. 1 artist on the bill: La Gugga. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # vurtnight Toki Fuko Live at vurt.
 
-vurtnight Toki Fuko Live at vurt. on Fri 16 Oct, Seoul. 1 act on the bill: Toki Fuko. Techno. Preview the line-up and save it on soundcheck.
+vurtnight Toki Fuko Live at vurt. on Fri 16 Oct, Seoul. 1 artist on the bill: Toki Fuko. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

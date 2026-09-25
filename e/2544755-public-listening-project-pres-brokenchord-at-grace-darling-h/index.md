@@ -1,6 +1,6 @@
 # Public Listening Project pres. Brokenchord at Grace Darling Hotel
 
-Public Listening Project pres. Brokenchord at Grace Darling Hotel on Thu 24 Sept, Melbourne. 1 act on the bill: Brokenchord. Preview the line-up and save it on soundcheck.
+Public Listening Project pres. Brokenchord at Grace Darling Hotel on Thu 24 Sept, Melbourne. 1 artist on the bill: Brokenchord. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

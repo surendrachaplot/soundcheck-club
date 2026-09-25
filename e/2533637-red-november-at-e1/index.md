@@ -1,6 +1,6 @@
 # RED NOVEMBER at E1
 
-RED NOVEMBER at E1 on Sat 7 Nov, London. 3 acts on the bill: Ade Smilez, Olayemi and Red Hour. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
+RED NOVEMBER at E1 on Sat 7 Nov, London. 3 artists on the bill: Ade Smilez, Olayemi and Red Hour. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

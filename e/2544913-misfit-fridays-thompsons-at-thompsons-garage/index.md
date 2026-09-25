@@ -1,6 +1,6 @@
 # Misfit: Fridays: Thompsons at Thompsons Garage
 
-Misfit: Fridays: Thompsons at Thompsons Garage on Fri 30 Oct, Belfast. 1 act on the bill: Misfit DJs. Techno and House. Preview the line-up and save it on soundcheck.
+Misfit: Fridays: Thompsons at Thompsons Garage on Fri 30 Oct, Belfast. 1 artist on the bill: Misfit DJs. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

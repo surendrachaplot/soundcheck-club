@@ -1,6 +1,6 @@
 # Delta Heavy =>Subset at D! Club
 
-Delta Heavy =>Subset at D! Club on Fri 9 Oct, Lausanne. 2 acts on the bill: Delta Heavy and Tantrum Desire. Preview the line-up and save it on soundcheck.
+Delta Heavy =>Subset at D! Club on Fri 9 Oct, Lausanne. 2 artists on the bill: Delta Heavy and Tantrum Desire. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

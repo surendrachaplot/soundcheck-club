@@ -1,6 +1,6 @@
 # Music Industry Monday: Your Tutors In The Music Industry at Lccm
 
-Music Industry Monday: Your Tutors In The Music Industry at Lccm on Mon 28 Sept, London. 6 acts on the bill: Bass, Charlene, Harmony (UK) and Keyboardist and 2 more. Preview the line-up and save it on soundcheck.
+Music Industry Monday: Your Tutors In The Music Industry at Lccm on Mon 28 Sept, London. 6 artists on the bill: Bass, Charlene, Harmony (UK) and Keyboardist and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

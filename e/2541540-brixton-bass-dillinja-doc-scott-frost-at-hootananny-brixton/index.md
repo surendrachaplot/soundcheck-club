@@ -1,6 +1,6 @@
 # Brixton Bass: Dillinja, Doc Scott, Frost at Hootananny Brixton
 
-Brixton Bass: Dillinja, Doc Scott, Frost at Hootananny Brixton on Sat 3 Oct, London. 8 acts on the bill: Cassia, Dillinja, Doc Scott and Funsta and 4 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Brixton Bass: Dillinja, Doc Scott, Frost at Hootananny Brixton on Sat 3 Oct, London. 8 artists on the bill: Cassia, Dillinja, Doc Scott and Funsta and 4 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

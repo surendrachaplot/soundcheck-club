@@ -1,6 +1,6 @@
 # Autechre at Vicar Street
 
-Autechre at Vicar Street on Tue 20 Oct, Dublin. 1 act on the bill: Autechre. Experimental and IDM. Preview the line-up and save it on soundcheck.
+Autechre at Vicar Street on Tue 20 Oct, Dublin. 1 artist on the bill: Autechre. Experimental and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

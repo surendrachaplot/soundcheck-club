@@ -1,6 +1,6 @@
 # BOH Anniversary: Junior Lopez & Corrado Q at Wiggle Room
 
-BOH Anniversary: Junior Lopez & Corrado Q at Wiggle Room on Sat 10 Oct, Toronto. 1 act on the bill: Junior Lopez. House and Tech House. Preview the line-up and save it on soundcheck.
+BOH Anniversary: Junior Lopez & Corrado Q at Wiggle Room on Sat 10 Oct, Toronto. 1 artist on the bill: Junior Lopez. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

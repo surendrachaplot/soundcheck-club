@@ -1,6 +1,6 @@
 # Gaskin's Bass Jamz Ibiza at 528 Ibiza
 
-Gaskin's Bass Jamz Ibiza at 528 Ibiza on Sun 27 Sept, Ibiza. 6 acts on the bill: ALEXANDER M, Ellam, Ellia Jaya and Gaskin and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Gaskin's Bass Jamz Ibiza at 528 Ibiza on Sun 27 Sept, Ibiza. 6 artists on the bill: ALEXANDER M, Ellam, Ellia Jaya and Gaskin and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

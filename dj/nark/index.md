@@ -2,7 +2,7 @@
 
 Nark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 31 Oct 2026.
 
-Nark is a house and techno artist based in United States of America, tracked on soundcheck, with 67 sets logged across Losangeles, Mexicocity, Portland and Sanfrancisco and 2 more. Often billed alongside Sharlese, Succubass and Enya Botello. Next up: Ex Fabrica de Harina Anden Tacuba, Mexicocity on Sat 31 Oct.
+Nark is a house and techno artist based in United States of America, tracked on soundcheck, with 67 sets logged across Los Angeles, Mexico City, Portland and San Francisco/Oakland and 2 more. Often billed alongside Sharlese, Succubass and Enya Botello. Next up: Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat 31 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # contact groove at Eastern Bloc Records
 
-contact groove at Eastern Bloc Records on Thu 24 Sept, Manchester. 2 acts on the bill: contact groove and Contours. Techno and Deep House. Preview the line-up and save it on soundcheck.
+contact groove at Eastern Bloc Records on Thu 24 Sept, Manchester. 2 artists on the bill: contact groove and Contours. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

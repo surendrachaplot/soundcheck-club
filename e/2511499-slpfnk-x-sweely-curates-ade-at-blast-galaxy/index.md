@@ -1,6 +1,6 @@
 # SLPFNK X SWEELY CURATES | ADE at Blast Galaxy
 
-SLPFNK X SWEELY CURATES | ADE at Blast Galaxy on Thu 22 Oct, Amsterdam. 5 acts on the bill: Aline Brooklyn, Krol, Sweely and The Ghost and 1 more. Preview the line-up and save it on soundcheck.
+SLPFNK X SWEELY CURATES | ADE at Blast Galaxy on Thu 22 Oct, Amsterdam. 5 artists on the bill: Aline Brooklyn, Krol, Sweely and The Ghost and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

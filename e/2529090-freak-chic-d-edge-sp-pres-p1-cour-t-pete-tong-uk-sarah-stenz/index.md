@@ -1,6 +1,6 @@
 # FREAK CHIC D-EDGE SP pres.: P1: Cour T. Pete Tong (UK). SARAH STENZEL at D-EDGE
 
-FREAK CHIC D-EDGE SP pres.: P1: Cour T. Pete Tong (UK). SARAH STENZEL on Fri 25 Sept, Saopaulo. 2 acts on the bill: Cour T. and Pete Tong. House. Preview the line-up and save it on soundcheck.
+FREAK CHIC D-EDGE SP pres.: P1: Cour T. Pete Tong (UK). SARAH STENZEL on Fri 25 Sept, Sao Paulo. 2 artists on the bill: Cour T. and Pete Tong. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

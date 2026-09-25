@@ -1,6 +1,6 @@
 # Chaos In The CBD pres. In Dust We Trust at Lofi
 
-Chaos In The CBD pres. In Dust We Trust at Lofi on Sat 7 Nov, Amsterdam. 4 acts on the bill: Chaos In The CBD, Elias Mazian, Jennifer Loveless and Ryan Elliott. Preview the line-up and save it on soundcheck.
+Chaos In The CBD pres. In Dust We Trust at Lofi on Sat 7 Nov, Amsterdam. 4 artists on the bill: Chaos In The CBD, Elias Mazian, Jennifer Loveless and Ryan Elliott. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nothing But Love - Launch Party at The Jazz Cafe
 
-Nothing But Love - Launch Party at The Jazz Cafe on Sat 3 Oct, London. 2 acts on the bill: SKIN and Smokin Jo. Pop and R&B. Preview the line-up and save it on soundcheck.
+Nothing But Love - Launch Party at The Jazz Cafe on Sat 3 Oct, London. 2 artists on the bill: SKIN and Smokin Jo. Pop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

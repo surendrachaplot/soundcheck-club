@@ -1,6 +1,6 @@
 # Armin Van Buuren presents A State Of Trance at [UNVRS]
 
-Armin Van Buuren presents A State Of Trance at [UNVRS] on Mon 28 Sept, Ibiza. 2 acts on the bill: Armin van Buuren and Funk Tribu. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Armin Van Buuren presents A State Of Trance at [UNVRS] on Mon 28 Sept, Ibiza. 2 artists on the bill: Armin van Buuren and Funk Tribu. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

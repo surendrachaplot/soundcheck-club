@@ -1,6 +1,6 @@
 # EXPERIENCE  with FJAAK at Bsmnt
 
-EXPERIENCE  with FJAAK at Bsmnt on Thu 24 Sept, Boston. 3 acts on the bill: FJAAK, Lufer and The Consciousness. Techno and Acid. Preview the line-up and save it on soundcheck.
+EXPERIENCE  with FJAAK at Bsmnt on Thu 24 Sept, Boston. 3 artists on the bill: FJAAK, Lufer and The Consciousness. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

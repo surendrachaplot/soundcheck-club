@@ -1,6 +1,6 @@
 # Tribe Soundsystem & clipp.art present Rich Medina (USA) at The Night Cat
 
-Tribe Soundsystem & clipp.art present Rich Medina (USA) at The Night Cat on Fri 16 Oct, Melbourne. 2 acts on the bill: Rich Medina and Zepherin Saint. Preview the line-up and save it on soundcheck.
+Tribe Soundsystem & clipp.art present Rich Medina (USA) at The Night Cat on Fri 16 Oct, Melbourne. 2 artists on the bill: Rich Medina and Zepherin Saint. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

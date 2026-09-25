@@ -1,6 +1,6 @@
 # PSYTRANCE UNIVERSE at WERK with Artyficial at Das Werk
 
-PSYTRANCE UNIVERSE at WERK with Artyficial at Das Werk on Sat 26 Sept, Vienna. 1 act on the bill: LOUISA INDIA. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+PSYTRANCE UNIVERSE at WERK with Artyficial at Das Werk on Sat 26 Sept, Vienna. 1 artist on the bill: LOUISA INDIA. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

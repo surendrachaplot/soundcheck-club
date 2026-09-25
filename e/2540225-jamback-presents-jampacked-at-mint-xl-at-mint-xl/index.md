@@ -1,6 +1,6 @@
 # Jamback presents Jampacked at Mint XL at Mint XL
 
-Jamback presents Jampacked at Mint XL on Sat 21 Nov, Leeds. 7 acts on the bill: A For Alpha, Anil Aras, Annie Errez and Bobby O'Donnell and 3 more. Tech House. Preview the line-up and save it on soundcheck.
+Jamback presents Jampacked at Mint XL on Sat 21 Nov, Leeds. 7 artists on the bill: A For Alpha, Anil Aras, Annie Errez and Bobby O'Donnell and 3 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Rheinriff is a music venue in Düsseldorf with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "RheinRiff presents David Puentez" on Sun, 29 Nov 2026.
 
-Rheinriff is a music venue in Dusseldorf listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Hansaallee 321, 40549 Düsseldorf.
+Rheinriff is a music venue in Düsseldorf listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Hansaallee 321, 40549 Düsseldorf.
 
 ## What's on
 

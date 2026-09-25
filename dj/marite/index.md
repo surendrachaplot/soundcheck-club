@@ -2,7 +2,7 @@
 
 Mari.te is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jolene Downtown Miami, Miami on Fri, 25 Sept 2026.
 
-Mari.te is a house and techno artist based in Venezuela, tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope (2). Next up: Jolene Downtown Miami, Miami on Fri 25 Sept.
+Mari.te is a house and techno artist based in Venezuela, tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope. Next up: Jolene Downtown Miami, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 

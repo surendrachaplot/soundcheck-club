@@ -1,6 +1,6 @@
 # Deep Tech: Rising at 618 DC
 
-Deep Tech: Rising at 618 DC on Fri 25 Sept, Washingtondc. 2 acts on the bill: SHAMMA and Stagira. Techno. Preview the line-up and save it on soundcheck.
+Deep Tech: Rising at 618 DC on Fri 25 Sept, Washington DC. 2 artists on the bill: SHAMMA and Stagira. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

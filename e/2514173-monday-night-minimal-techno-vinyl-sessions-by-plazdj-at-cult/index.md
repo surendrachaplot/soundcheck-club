@@ -1,6 +1,6 @@
 # Monday Night: Minimal&Techno Vinyl Sessions by plazdj at Culture Cafe
 
-Monday Night: Minimal&Techno Vinyl Sessions by plazdj at Culture Cafe on Mon 28 Sept, Bangkok. 1 act on the bill: plazdj. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Monday Night: Minimal&Techno Vinyl Sessions by plazdj at Culture Cafe on Mon 28 Sept, Bangkok. 1 artist on the bill: plazdj. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BLANCAh - Circus, Grand Hall La Plata - ALLMusicParties at TBA - Grand Hall, La Plata
 
-BLANCAh - Circus, Grand Hall La Plata - ALLMusicParties at TBA - Grand Hall, La Plata on Sat 3 Oct, Buenosaires. 1 act on the bill: BLANCAh. Progressive House. Preview the line-up and save it on soundcheck.
+BLANCAh - Circus, Grand Hall La Plata - ALLMusicParties at TBA - Grand Hall, La Plata on Sat 3 Oct, Buenos Aires. 1 artist on the bill: BLANCAh. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

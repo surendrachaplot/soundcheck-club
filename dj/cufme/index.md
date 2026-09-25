@@ -2,7 +2,7 @@
 
 Cufme is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Funkhaus, Vienna on Fri, 25 Sept 2026.
 
-Cufme is a techno and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside Sophti, DJ Business (2) and Bernossi. Next up: Funkhaus, Vienna on Fri 25 Sept.
+Cufme is a techno and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside Sophti, DJ Business and Bernossi. Next up: Funkhaus, Vienna on Fri 25 Sept.
 
 ## Upcoming shows
 

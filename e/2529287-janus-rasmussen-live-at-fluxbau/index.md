@@ -1,6 +1,6 @@
 # Janus Rasmussen (live) at Fluxbau
 
-Janus Rasmussen (live) at Fluxbau on Sat 28 Nov, Berlin. 1 act on the bill: Janus Rasmussen. IDM and Electronica. Preview the line-up and save it on soundcheck.
+Janus Rasmussen (live) at Fluxbau on Sat 28 Nov, Berlin. 1 artist on the bill: Janus Rasmussen. IDM and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

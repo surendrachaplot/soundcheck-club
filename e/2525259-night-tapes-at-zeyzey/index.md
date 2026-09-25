@@ -1,6 +1,6 @@
 # Night Tapes at ZeyZey
 
-Night Tapes at ZeyZey on Thu 8 Oct, Miami. 1 act on the bill: Night Tapes. Ambient and Pop. Preview the line-up and save it on soundcheck.
+Night Tapes at ZeyZey on Thu 8 Oct, Miami. 1 artist on the bill: Night Tapes. Ambient and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Midland - All Day Long [SOLD OUT] at FOLD
 
-Midland - All Day Long [SOLD OUT] at FOLD on Sat 17 Oct, London. 1 act on the bill: Midland. Techno. Preview the line-up and save it on soundcheck.
+Midland - All Day Long [SOLD OUT] at FOLD on Sat 17 Oct, London. 1 artist on the bill: Midland. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

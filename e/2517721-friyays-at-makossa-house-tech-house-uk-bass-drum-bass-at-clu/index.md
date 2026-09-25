@@ -1,6 +1,6 @@
 # FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) at Club Makossa
 
-FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) at Club Makossa on Fri 25 Sept, London. 1 act on the bill: EWERED. Drum & Bass and Tech House. Preview the line-up and save it on soundcheck.
+FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) at Club Makossa on Fri 25 Sept, London. 1 artist on the bill: EWERED. Drum & Bass and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

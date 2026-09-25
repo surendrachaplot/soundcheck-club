@@ -1,6 +1,6 @@
 # Brotfabrik B2B SPECIAL at Kulturlounge
 
-Brotfabrik B2B SPECIAL at Kulturlounge on Fri 25 Sept, Leipzig. 5 acts on the bill: Adrija, knete, Ri0D. and Rn86 and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Brotfabrik B2B SPECIAL at Kulturlounge on Fri 25 Sept, Leipzig. 5 artists on the bill: Adrija, knete, Ri0D. and Rn86 and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Grace Sands Birthday at The Timber Loft
 
-Grace Sands Birthday at The Timber Loft on Sun 27 Sept, London. 3 acts on the bill: Grace Sands, Jason Leung and Penzik & Burns. Preview the line-up and save it on soundcheck.
+Grace Sands Birthday at The Timber Loft on Sun 27 Sept, London. 3 artists on the bill: Grace Sands, Jason Leung and Penzik & Burns. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

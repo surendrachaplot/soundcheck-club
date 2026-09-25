@@ -1,6 +1,6 @@
 # Project Nowhere 2026: KILL ALTERS (SOLO) + World News + MAN MADE HILL + ETHER GIRLS at St. Anne's Parish Hall
 
-Project Nowhere 2026: KILL ALTERS (SOLO) + World News + MAN MADE HILL + ETHER GIRLS at St. Anne's Parish Hall on Sat 3 Oct, Toronto. 1 act on the bill: World News. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Project Nowhere 2026: KILL ALTERS (SOLO) + World News + MAN MADE HILL + ETHER GIRLS at St. Anne's Parish Hall on Sat 3 Oct, Toronto. 1 artist on the bill: World News. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

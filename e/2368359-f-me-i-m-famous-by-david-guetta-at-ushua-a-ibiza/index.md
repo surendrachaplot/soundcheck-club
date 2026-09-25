@@ -1,6 +1,6 @@
 # F*** ME I'M FAMOUS! by David Guetta at Ushuaïa Ibiza
 
-F*** ME I'M FAMOUS! by David Guetta at Ushuaïa Ibiza on Mon 28 Sept, Ibiza. 2 acts on the bill: David Guetta and Paul Reynolds. Progressive House and House. Preview the line-up and save it on soundcheck.
+F*** ME I'M FAMOUS! by David Guetta at Ushuaïa Ibiza on Mon 28 Sept, Ibiza. 2 artists on the bill: David Guetta and Paul Reynolds. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

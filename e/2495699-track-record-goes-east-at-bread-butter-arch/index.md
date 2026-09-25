@@ -1,6 +1,6 @@
 # Track Record Goes East at Bread & Butter Arch
 
-Track Record Goes East at Bread & Butter Arch on Sat 26 Sept, London. 3 acts on the bill: BRUSS, Gratia (2) and S.U.R.E.. House and Deep House. Preview the line-up and save it on soundcheck.
+Track Record Goes East at Bread & Butter Arch on Sat 26 Sept, London. 3 artists on the bill: BRUSS, Gratia and S.U.R.E.. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

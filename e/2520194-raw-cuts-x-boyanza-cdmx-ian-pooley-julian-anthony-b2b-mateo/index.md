@@ -1,6 +1,6 @@
 # Raw Cuts X Boyanza: CDMX — Ian Pooley, Julian Anthony b2b Mateo Dufour at TBA - Secret Location 
 
-Raw Cuts X Boyanza: CDMX — Ian Pooley, Julian Anthony b2b Mateo Dufour at TBA - Secret Location  on Sat 10 Oct, Mexicocity. 7 acts on the bill: Alena Vox, Celice Monnette, EREZ.JPG and Ian Pooley and 3 more. House and Electronica. Preview the line-up and save it on soundcheck.
+Raw Cuts X Boyanza: CDMX — Ian Pooley, Julian Anthony b2b Mateo Dufour at TBA - Secret Location  on Sat 10 Oct, Mexico City. 7 artists on the bill: Alena Vox, Celice Monnette, EREZ.JPG and Ian Pooley and 3 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

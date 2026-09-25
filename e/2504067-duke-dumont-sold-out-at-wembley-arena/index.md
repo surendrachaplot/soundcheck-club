@@ -1,6 +1,6 @@
 # Duke Dumont [SOLD OUT] at Wembley Arena
 
-Duke Dumont [SOLD OUT] at Wembley Arena on Sat 21 Nov, London. 1 act on the bill: Duke Dumont. House. Preview the line-up and save it on soundcheck.
+Duke Dumont [SOLD OUT] at Wembley Arena on Sat 21 Nov, London. 1 artist on the bill: Duke Dumont. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

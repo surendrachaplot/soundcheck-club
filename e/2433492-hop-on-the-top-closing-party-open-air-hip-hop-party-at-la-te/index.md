@@ -1,6 +1,6 @@
 # Hop on The Top (Closing Party) Open Air Hip Hop Party at La Terrrazza at La Terrrazza
 
-Hop on The Top (Closing Party) Open Air Hip Hop Party at La Terrrazza on Fri 9 Oct, Barcelona. 1 act on the bill: DJ AMAZING. Hip-Hop. Preview the line-up and save it on soundcheck.
+Hop on The Top (Closing Party) Open Air Hip Hop Party at La Terrrazza on Fri 9 Oct, Barcelona. 1 artist on the bill: DJ AMAZING. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

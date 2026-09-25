@@ -1,6 +1,6 @@
 # Boris pres. SIROB at BORIS CLUB
 
-Boris pres. SIROB at BORIS CLUB on Fri 6 Nov, Barcelona. 2 acts on the bill: BizZa and Mihai Popoviciu. House. Preview the line-up and save it on soundcheck.
+Boris pres. SIROB at BORIS CLUB on Fri 6 Nov, Barcelona. 2 artists on the bill: BizZa and Mihai Popoviciu. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Priku - Andrey Pushkarev at Stereo
 
-Priku - Andrey Pushkarev at Stereo on Fri 9 Oct, Montreal. 2 acts on the bill: Andrey Pushkarev and Priku. Preview the line-up and save it on soundcheck.
+Priku - Andrey Pushkarev at Stereo on Fri 9 Oct, Montreal. 2 artists on the bill: Andrey Pushkarev and Priku. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

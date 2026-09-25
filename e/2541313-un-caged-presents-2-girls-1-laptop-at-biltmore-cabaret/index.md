@@ -1,6 +1,6 @@
 # UN/CAGED presents: 2 Girls 1 Laptop at Biltmore Cabaret
 
-UN/CAGED presents: 2 Girls 1 Laptop at Biltmore Cabaret on Fri 16 Oct, Vancouver. 2 acts on the bill: LVL (CAN) and Presley Gray. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+UN/CAGED presents: 2 Girls 1 Laptop at Biltmore Cabaret on Fri 16 Oct, Vancouver. 2 artists on the bill: LVL (CAN) and Presley Gray. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

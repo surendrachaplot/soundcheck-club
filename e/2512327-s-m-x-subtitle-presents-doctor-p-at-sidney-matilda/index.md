@@ -1,6 +1,6 @@
 # S&M X Subtitle presents: Doctor P at Sidney & Matilda
 
-S&M X Subtitle presents: Doctor P at Sidney & Matilda on Sat 12 Dec, Sheffield. 1 act on the bill: Doctor P. Techno and Dubstep. Preview the line-up and save it on soundcheck.
+S&M X Subtitle presents: Doctor P at Sidney & Matilda on Sat 12 Dec, Sheffield. 1 artist on the bill: Doctor P. Techno and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

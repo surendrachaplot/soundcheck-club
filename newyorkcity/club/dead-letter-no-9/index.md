@@ -2,7 +2,7 @@
 
 Dead Letter No. 9 is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "De Novo presents: It's db, CatLadyHi, Bahng, Eric Modz, Zaid K, Miss Hazard, Serapher, ceviché" on Thu, 24 Sept 2026.
 
-Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 14 upcoming gigs, with line-ups including Acid Mama, Bea Hardy, beewack and Borbón and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
+Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including Acid Mama, Bea Hardy, beewack and Borbón and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
 ## What's on
 

@@ -2,7 +2,7 @@
 
 Syntax (2) is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
-Syntax (2) is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Birmingham, Brighton, Bristol and Dublin and 7 more. Often billed alongside Hanz, Samurai Breaks and Mandidextrous. Next up: The Prospect Building, Bristol on Sat 10 Oct.
+Syntax is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Birmingham, Brighton, Bristol and Dublin and 7 more. Often billed alongside Hanz, Samurai Breaks and Mandidextrous. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # KANGO, Ohishi & SORI at DJ Bar Bridge
 
-KANGO, Ohishi & SORI at DJ Bar Bridge on Mon 19 Oct, Tokyo. 1 act on the bill: Ohishi. House. Preview the line-up and save it on soundcheck.
+KANGO, Ohishi & SORI at DJ Bar Bridge on Mon 19 Oct, Tokyo. 1 artist on the bill: Ohishi. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

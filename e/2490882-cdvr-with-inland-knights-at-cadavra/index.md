@@ -1,6 +1,6 @@
 # CDVR with Inland Knights at Cadavra
 
-CDVR with Inland Knights at Cadavra on Fri 9 Oct, Madrid. 4 acts on the bill: Guarino, Inland Knights, Rafa Santos and Simon Garcia. House and Electronica. Preview the line-up and save it on soundcheck.
+CDVR with Inland Knights at Cadavra on Fri 9 Oct, Madrid. 4 artists on the bill: Guarino, Inland Knights, Rafa Santos and Simon Garcia. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

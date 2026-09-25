@@ -1,6 +1,6 @@
 # Lewis OfMan at ZeyZey
 
-Lewis OfMan at ZeyZey on Sat 24 Oct, Miami. 1 act on the bill: Lewis OfMan. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Lewis OfMan at ZeyZey on Sat 24 Oct, Miami. 1 artist on the bill: Lewis OfMan. Pop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

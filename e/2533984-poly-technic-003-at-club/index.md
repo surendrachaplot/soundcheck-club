@@ -1,6 +1,6 @@
 # Poly*Technic 003 at 宀 Club
 
-Poly*Technic 003 at 宀 Club on Thu 24 Sept, Hongkong. 1 act on the bill: Shelf-Index. Ambient and Jazz. Preview the line-up and save it on soundcheck.
+Poly*Technic 003 at 宀 Club on Thu 24 Sept, Hong Kong. 1 artist on the bill: Shelf-Index. Ambient and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

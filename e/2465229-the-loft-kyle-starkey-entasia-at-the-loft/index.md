@@ -1,6 +1,6 @@
 # The Loft: Kyle Starkey & Entasia at The Loft
 
-The Loft: Kyle Starkey & Entasia on Sat 3 Oct, Manchester. 2 acts on the bill: Entasia and Kyle Starkey. Preview the line-up and save it on soundcheck.
+The Loft: Kyle Starkey & Entasia on Sat 3 Oct, Manchester. 2 artists on the bill: Entasia and Kyle Starkey. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

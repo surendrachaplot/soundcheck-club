@@ -1,6 +1,6 @@
 # Rødhåd All Night Long - Vault Sessions & RADION at RADION
 
-Rødhåd All Night Long - Vault Sessions & RADION on Fri 20 Nov, Amsterdam. 1 act on the bill: Rødhåd. Techno. Preview the line-up and save it on soundcheck.
+Rødhåd All Night Long - Vault Sessions & RADION on Fri 20 Nov, Amsterdam. 1 artist on the bill: Rødhåd. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

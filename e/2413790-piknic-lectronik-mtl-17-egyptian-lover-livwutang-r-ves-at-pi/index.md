@@ -1,6 +1,6 @@
 # Piknic Électronik MTL #17: Egyptian Lover, livwutang / Rêves at Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik MTL #17: Egyptian Lover, livwutang / Rêves at Piknic Électronik / Parc Jean Drapeau on Sun 27 Sept, Montreal. 7 acts on the bill: Baby Bimbo, Egyptian Lover, Isla Den and livwutang and 3 more. Preview the line-up and save it on soundcheck.
+Piknic Électronik MTL #17: Egyptian Lover, livwutang / Rêves at Piknic Électronik / Parc Jean Drapeau on Sun 27 Sept, Montreal. 7 artists on the bill: Baby Bimbo, Egyptian Lover, Isla Den and livwutang and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

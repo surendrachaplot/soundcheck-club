@@ -1,6 +1,6 @@
 # Do Not Sit on Art Week: Deron at Do Not Sit On The Furniture
 
-Do Not Sit on Art Week: Deron at Do Not Sit On The Furniture on Wed 2 Dec, Miami. 1 act on the bill: Jessy Nimni. House and Deep House. Preview the line-up and save it on soundcheck.
+Do Not Sit on Art Week: Deron at Do Not Sit On The Furniture on Wed 2 Dec, Miami. 1 artist on the bill: Jessy Nimni. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

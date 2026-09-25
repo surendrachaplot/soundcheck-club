@@ -2,7 +2,7 @@
 
 The San Francisco Mint is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "SQUISH x BOOF: FOLSOM" on Fri, 25 Sept 2026.
 
-The San Francisco Mint is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming gigs, with line-ups including Bart Skils, Cashu, D. Tiffany and Ehua and 2 more. Browse upcoming dates, start times and who's playing. 88 5th St, San Francisco, CA 94103, USA.
+The San Francisco Mint is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs, with line-ups including Bart Skils, Cashu, D. Tiffany and Ehua and 2 more. Browse upcoming dates, start times and who's playing. 88 5th St, San Francisco, CA 94103, USA.
 
 ## What's on
 

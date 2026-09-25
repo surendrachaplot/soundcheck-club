@@ -1,6 +1,6 @@
 # Deep, Tech, House by Navider at Slow Club
 
-Deep, Tech, House by Navider at Slow Club on Thu 22 Oct, Barcelona. 1 act on the bill: Navider. Techno and House. Preview the line-up and save it on soundcheck.
+Deep, Tech, House by Navider at Slow Club on Thu 22 Oct, Barcelona. 1 artist on the bill: Navider. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

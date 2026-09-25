@@ -1,6 +1,6 @@
 # BLUR x SVS' birthday with Decoder, CCL, Boudewijn Ericx at UMI
 
-BLUR x SVS' birthday with Decoder, CCL, Boudewijn Ericx at UMI on Sat 31 Oct, Brussels. 5 acts on the bill: Boudewijn Ericx, CCL, Decoder and Erykah and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+BLUR x SVS' birthday with Decoder, CCL, Boudewijn Ericx at UMI on Sat 31 Oct, Brussels. 5 artists on the bill: Boudewijn Ericx, CCL, Decoder and Erykah and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

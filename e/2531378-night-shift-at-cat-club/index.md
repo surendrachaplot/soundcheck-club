@@ -1,6 +1,6 @@
 # Night Shift at Cat Club
 
-Night Shift at Cat Club on Fri 9 Oct, Sanfrancisco. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
+Night Shift at Cat Club on Fri 9 Oct, San Francisco/Oakland. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

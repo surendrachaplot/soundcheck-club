@@ -1,6 +1,6 @@
 # Overmono presents Pure Devotion - World Tour, Manchester at Depot Mayfield
 
-Overmono presents Pure Devotion - World Tour, Manchester at Depot Mayfield on Fri 30 Oct, Manchester. 20 acts on the bill: Andy C, Ash Lauryn, Aurora Halal and Blackhaine and 16 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Overmono presents Pure Devotion - World Tour, Manchester at Depot Mayfield on Fri 30 Oct, Manchester. 20 artists on the bill: Andy C, Ash Lauryn, Aurora Halal and Blackhaine and 16 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

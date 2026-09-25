@@ -2,7 +2,7 @@
 
 DJ Kuma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 10 Oct 2026.
 
-DJ Kuma is a techno and house artist based in Malaysia, tracked on soundcheck, with 48 sets logged across Amsterdam, Bangkok, Berlin and Kualalumpur and 2 more. Often billed alongside Meliha, Alam and Obadius. Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Sat 10 Oct.
+DJ Kuma is a techno and house artist based in Malaysia, tracked on soundcheck, with 48 sets logged across Amsterdam, Bangkok, Berlin and Kuala Lumpur and 2 more. Often billed alongside Meliha, Alam and Obadius. Next up: The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat 10 Oct.
 
 ## Upcoming shows
 

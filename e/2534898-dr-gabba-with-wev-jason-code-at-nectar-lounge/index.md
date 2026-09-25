@@ -1,6 +1,6 @@
 # DR. GABBA with WEV & Jason Code at Nectar Lounge
 
-DR. GABBA with WEV & Jason Code at Nectar Lounge on Sat 5 Dec, Seattle. 3 acts on the bill: DR. GABBA, Jason Code and wev (US). Techno and House. Preview the line-up and save it on soundcheck.
+DR. GABBA with WEV & Jason Code at Nectar Lounge on Sat 5 Dec, Seattle. 3 artists on the bill: DR. GABBA, Jason Code and wev (US). Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

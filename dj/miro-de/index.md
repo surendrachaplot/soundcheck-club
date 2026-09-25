@@ -2,7 +2,7 @@
 
 MIRO (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 20 Nov 2026.
 
-MIRO (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Dusseldorf, London, Madrid and Miami and 5 more. Often billed alongside Edwin (DE), DJ Floppy Disk and Edwin. Next up: Fridas Pier, Stuttgart on Fri 20 Nov.
+MIRO (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Düsseldorf, London, Madrid and Miami and 5 more. Often billed alongside Edwin (DE), DJ Floppy Disk and Edwin. Next up: Fridas Pier, Stuttgart on Fri 20 Nov.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # 20 Years of Massimiliano Pagliara at New Century Locker
 
-20 Years of Massimiliano Pagliara at New Century Locker on Fri 16 Oct, Manchester. 1 act on the bill: Massimiliano Pagliara. House and Disco. Preview the line-up and save it on soundcheck.
+20 Years of Massimiliano Pagliara at New Century Locker on Fri 16 Oct, Manchester. 1 artist on the bill: Massimiliano Pagliara. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

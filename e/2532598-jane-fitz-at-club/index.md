@@ -1,6 +1,6 @@
 # Jane Fitz at 宀 Club
 
-Jane Fitz at 宀 Club on Fri 4 Dec, Hongkong. 1 act on the bill: Jane Fitz. Techno and House. Preview the line-up and save it on soundcheck.
+Jane Fitz at 宀 Club on Fri 4 Dec, Hong Kong. 1 artist on the bill: Jane Fitz. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

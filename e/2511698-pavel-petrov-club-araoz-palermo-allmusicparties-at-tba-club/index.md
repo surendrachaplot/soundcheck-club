@@ -1,6 +1,6 @@
 # Pavel Petrov - Club Araoz, Palermo | ALLMusicParties at TBA - Club Araoz, Palermo
 
-Pavel Petrov - Club Araoz, Palermo | ALLMusicParties at TBA - Club Araoz, Palermo on Fri 25 Sept, Buenosaires. 1 act on the bill: Pavel Petrov. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Pavel Petrov - Club Araoz, Palermo | ALLMusicParties at TBA - Club Araoz, Palermo on Fri 25 Sept, Buenos Aires. 1 artist on the bill: Pavel Petrov. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

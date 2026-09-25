@@ -1,6 +1,6 @@
 # Ambient Sauna • ~\\ LILITH //~ with aanjaaliii & ex.sses at Sauna Social Club
 
-Ambient Sauna • ~\\ LILITH //~ with aanjaaliii & ex.sses at Sauna Social Club on Fri 25 Sept, London. 2 acts on the bill: Anjali (2) and ex.sses. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Ambient Sauna • ~\\ LILITH //~ with aanjaaliii & ex.sses at Sauna Social Club on Fri 25 Sept, London. 2 artists on the bill: Anjali and ex.sses. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

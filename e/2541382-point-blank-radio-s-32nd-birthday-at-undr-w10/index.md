@@ -1,6 +1,6 @@
 # Point Blank Radio's 32nd Birthday at Undr W10
 
-Point Blank Radio's 32nd Birthday at Undr W10 on Sat 14 Nov, London. 3 acts on the bill: Saint Lukez, Scottie D and Zaki. House and Disco. Preview the line-up and save it on soundcheck.
+Point Blank Radio's 32nd Birthday at Undr W10 on Sat 14 Nov, London. 3 artists on the bill: Saint Lukez, Scottie D and Zaki. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

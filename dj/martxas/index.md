@@ -2,7 +2,7 @@
 
 Martxas is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OXI, Berlin on Fri, 25 Sept 2026.
 
-Martxas is a techno artist based in Spain, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Bokaric, DEN!SE and SIUL (1). Next up: OXI, Berlin on Fri 25 Sept.
+Martxas is a techno artist based in Spain, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Bokaric, DEN!SE and SIUL. Next up: OXI, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 

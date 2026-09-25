@@ -1,6 +1,6 @@
 # Dila: Weekly Program at Dedaena Bar
 
-Dila: Weekly Program at Dedaena Bar on Thu 24 Sept, Tbilisi. 2 acts on the bill: FRANCHI INFERNO KNUC (2) and Vakomey. House and Disco. Preview the line-up and save it on soundcheck.
+Dila: Weekly Program at Dedaena Bar on Thu 24 Sept, Tbilisi. 2 artists on the bill: FRANCHI INFERNO KNUC and Vakomey. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

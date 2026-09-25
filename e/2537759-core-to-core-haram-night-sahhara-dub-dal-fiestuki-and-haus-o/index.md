@@ -1,6 +1,6 @@
 # Core to Core - Haram Night, saHHara – سَهّارة, Dub&Dal, Fiestuki and Haus of Audacity at Renate
 
-Core to Core - Haram Night, saHHara – سَهّارة, Dub&Dal, Fiestuki and Haus of Audacity at Renate on Thu 8 Oct, Berlin. 7 acts on the bill: 16 Faces, Abibi, Bad Puppy and DJ Putilla and 3 more. Preview the line-up and save it on soundcheck.
+Core to Core - Haram Night, saHHara – سَهّارة, Dub&Dal, Fiestuki and Haus of Audacity at Renate on Thu 8 Oct, Berlin. 7 artists on the bill: 16 Faces, Abibi, Bad Puppy and DJ Putilla and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sex-positive party // Anniversary Big Edition at TBA - private location, tba 48h before the event to all ticket holders
 
-Sex-positive party // Anniversary Big Edition at TBA - private location, tba 48h before the event to all ticket holders on Fri 2 Oct, Barcelona. 1 act on the bill: Rowsi. Preview the line-up and save it on soundcheck.
+Sex-positive party // Anniversary Big Edition at TBA - private location, tba 48h before the event to all ticket holders on Fri 2 Oct, Barcelona. 1 artist on the bill: Rowsi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

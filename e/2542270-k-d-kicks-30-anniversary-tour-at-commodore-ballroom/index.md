@@ -1,6 +1,6 @@
 # K&D Kicks 30 Anniversary Tour at Commodore Ballroom
 
-K&D Kicks 30 Anniversary Tour at Commodore Ballroom on Tue 29 Sept, Vancouver. 1 act on the bill: Kruder & Dorfmeister. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
+K&D Kicks 30 Anniversary Tour at Commodore Ballroom on Tue 29 Sept, Vancouver. 1 artist on the bill: Kruder & Dorfmeister. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

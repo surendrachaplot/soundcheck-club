@@ -1,6 +1,6 @@
 # Connection at Oath
 
-Connection at Oath on Sat 26 Sept, Tokyo. 3 acts on the bill: JINI, Leo Gabriel and Shosho. House and Jazz. Preview the line-up and save it on soundcheck.
+Connection at Oath on Sat 26 Sept, Tokyo. 3 artists on the bill: JINI, Leo Gabriel and Shosho. House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

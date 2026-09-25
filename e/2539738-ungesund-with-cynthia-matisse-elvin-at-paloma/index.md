@@ -1,6 +1,6 @@
 # ungesund with Cynthia Matisse & Elvin at Paloma
 
-ungesund with Cynthia Matisse & Elvin at Paloma on Sat 31 Oct, Berlin. 4 acts on the bill: Cynthia Matisse, Elias. (DE), Elvin and nuúm. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+ungesund with Cynthia Matisse & Elvin at Paloma on Sat 31 Oct, Berlin. 4 artists on the bill: Cynthia Matisse, Elias. (DE), Elvin and nuúm. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

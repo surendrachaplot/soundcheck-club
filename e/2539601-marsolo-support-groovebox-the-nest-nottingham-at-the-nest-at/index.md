@@ -1,6 +1,6 @@
 # Marsolo + SUPPORT - Groovebox, The Nest Nottingham at The Nest at Notts County
 
-Marsolo + SUPPORT - Groovebox, The Nest Nottingham at The Nest at Notts County on Fri 18 Dec, Nottingham. 1 act on the bill: Marsolo. Tech House. Preview the line-up and save it on soundcheck.
+Marsolo + SUPPORT - Groovebox, The Nest Nottingham at The Nest at Notts County on Fri 18 Dec, Nottingham. 1 artist on the bill: Marsolo. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

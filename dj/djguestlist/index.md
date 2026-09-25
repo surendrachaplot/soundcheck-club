@@ -1,14 +1,15 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri, 25 Sept 2026.
+DJ GUESTLIST is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri, 25 Sept 2026.
 
-DJ GUESTLIST is a techno and trance artist based in Germany, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside Paraçek, DJ Traytex and KLING&KLANG. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri 25 Sept.
+DJ GUESTLIST is a techno and trance artist based in Germany, tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside Paraçek, Cleopard2000 and DJ Traytex. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
+| Wed, 7 Oct 2026 | Phantom Bar Berlin | Berlin |
 | Tue, 10 Nov 2026 | Mia Mao | Paris |
 | Fri, 13 Nov 2026 | RSO.BERLIN | Berlin |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
@@ -26,6 +27,6 @@ DJ GUESTLIST is a techno and trance artist based in Germany, tracked on soundche
 
 ## Shares bills with
 
-Paraçek, DJ Traytex, KLING&KLANG
+Paraçek, Cleopard2000, DJ Traytex
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*

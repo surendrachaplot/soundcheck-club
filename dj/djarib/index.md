@@ -2,7 +2,7 @@
 
 DJ Ari B is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at El Rio, San Francisco/Oakland on Thu, 24 Sept 2026.
 
-DJ Ari B is a club and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Discnogirl, 40split and DJ Buck. Next up: El Rio, Sanfrancisco on Thu 24 Sept.
+DJ Ari B is a club and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Discnogirl, 40split and DJ Buck. Next up: El Rio, San Francisco/Oakland on Thu 24 Sept.
 
 ## Upcoming shows
 

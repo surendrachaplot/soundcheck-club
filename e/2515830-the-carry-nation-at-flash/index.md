@@ -1,6 +1,6 @@
 # The Carry Nation at Flash
 
-The Carry Nation at Flash on Fri 23 Oct, Washingtondc. 4 acts on the bill: Fish House Funk, Keenan Orr, Lemz and The Carry Nation. House and Deep House. Preview the line-up and save it on soundcheck.
+The Carry Nation at Flash on Fri 23 Oct, Washington DC. 4 artists on the bill: Fish House Funk, Keenan Orr, Lemz and The Carry Nation. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

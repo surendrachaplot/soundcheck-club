@@ -2,7 +2,7 @@
 
 Moby is a Electronica and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
-Moby is an electronica and progressive house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Bangkok, Berlin, London and Losangeles and 1 more. Often billed alongside DJ Holographic, FCUKERS and Nia Archives. Next up: Various Venues, London on Thu 24 Sept.
+Moby is an electronica and progressive house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Bangkok, Berlin, London and Los Angeles and 1 more. Often billed alongside DJ Holographic, FCUKERS and Nia Archives. Next up: Various Venues, London on Thu 24 Sept.
 
 ## Upcoming shows
 

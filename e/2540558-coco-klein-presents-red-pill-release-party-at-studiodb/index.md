@@ -1,6 +1,6 @@
 # COCO KLEIN PRESENTS: 'RED PILL' RELEASE PARTY at Studiodb
 
-COCO KLEIN PRESENTS: 'RED PILL' RELEASE PARTY at Studiodb on Sat 26 Sept, Berlin. 3 acts on the bill: ADAM MUNNINGS, Comf and Thor Rixon. House and Bass. Preview the line-up and save it on soundcheck.
+COCO KLEIN PRESENTS: 'RED PILL' RELEASE PARTY at Studiodb on Sat 26 Sept, Berlin. 3 artists on the bill: ADAM MUNNINGS, Comf and Thor Rixon. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

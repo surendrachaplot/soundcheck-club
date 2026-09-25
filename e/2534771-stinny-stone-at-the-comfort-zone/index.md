@@ -1,6 +1,6 @@
 # Stinny Stone at The Comfort Zone
 
-Stinny Stone at The Comfort Zone on Fri 25 Sept, Toronto. 5 acts on the bill: Cobb Douglas, Kaylub, Shaingel and Stinny Stone and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Stinny Stone at The Comfort Zone on Fri 25 Sept, Toronto. 4 artists on the bill: Cobb Douglas, Kaylub, Stinny Stone and UNCL Mike. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ Stinny Stone at The Comfort Zone on Fri 25 Sept, Toronto. 5 acts on the bill: Co
 
 - Cobb Douglas
 - Kaylub
-- Shaingel
 - Stinny Stone
 - UNCL Mike
 

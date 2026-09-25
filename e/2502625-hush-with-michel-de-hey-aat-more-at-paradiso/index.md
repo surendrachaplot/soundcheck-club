@@ -1,6 +1,6 @@
 # Hush with Michel de Hey, AAT & More at Paradiso
 
-Hush with Michel de Hey, AAT & More at Paradiso on Sat 10 Oct, Amsterdam. 3 acts on the bill: AAT (NL), Michel de Hey and Simon Kidzoo. House. Preview the line-up and save it on soundcheck.
+Hush with Michel de Hey, AAT & More at Paradiso on Sat 10 Oct, Amsterdam. 3 artists on the bill: AAT (NL), Michel de Hey and Simon Kidzoo. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

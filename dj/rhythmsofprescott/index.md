@@ -2,7 +2,7 @@
 
 Rhythms Of Prescott is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gaffe, London on Sat, 31 Oct 2026.
 
-Rhythms Of Prescott is a house and disco artist based in Ireland, tracked on soundcheck, with 16 sets logged across Berlin, London and Newyorkcity. Often billed alongside Davide Del Vecchio, 3 Minds and AXLNDR. Next up: Gaffe, London on Sat 31 Oct.
+Rhythms Of Prescott is a house and disco artist based in Ireland, tracked on soundcheck, with 16 sets logged across Berlin, London and New York City. Often billed alongside Davide Del Vecchio, 3 Minds and AXLNDR. Next up: Gaffe, London on Sat 31 Oct.
 
 ## Upcoming shows
 

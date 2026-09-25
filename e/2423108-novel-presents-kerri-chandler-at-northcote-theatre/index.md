@@ -1,6 +1,6 @@
 # Novel presents Kerri Chandler at Northcote Theatre
 
-Novel presents Kerri Chandler at Northcote Theatre on Fri 27 Nov, Melbourne. 1 act on the bill: Kerri Chandler. House. Preview the line-up and save it on soundcheck.
+Novel presents Kerri Chandler at Northcote Theatre on Fri 27 Nov, Melbourne. 1 artist on the bill: Kerri Chandler. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 SZAL is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ÆDEN, Berlin on Fri, 9 Oct 2026.
 
-SZAL is a baile funk and club artist based in Brazil, tracked on soundcheck, with 11 sets logged across Berlin, Birmingham, London and Porto and 1 more. Often billed alongside GUS (4), Don Lino and Isa Castelari. Next up: ÆDEN, Berlin on Fri 9 Oct.
+SZAL is a baile funk and club artist based in Brazil, tracked on soundcheck, with 11 sets logged across Berlin, Birmingham, London and Porto and 1 more. Often billed alongside GUS, Don Lino and Isa Castelari. Next up: ÆDEN, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 

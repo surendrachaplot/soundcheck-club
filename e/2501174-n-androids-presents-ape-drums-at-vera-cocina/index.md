@@ -1,6 +1,6 @@
 # Nü Androids presents: Ape Drums at Vera Cocina & بار
 
-Nü Androids presents: Ape Drums at Vera Cocina & بار on Sat 26 Sept, Washingtondc. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Ape Drums at Vera Cocina & بار on Sat 26 Sept, Washington DC. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

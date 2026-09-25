@@ -1,6 +1,6 @@
 # MOVA: BORN SESSION #3 at Born 2B Music Bar
 
-MOVA: BORN SESSION #3 at Born 2B Music Bar on Sat 10 Oct, Barcelona. 1 act on the bill: Mr. Fruty. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+MOVA: BORN SESSION #3 at Born 2B Music Bar on Sat 10 Oct, Barcelona. 1 artist on the bill: Mr. Fruty. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

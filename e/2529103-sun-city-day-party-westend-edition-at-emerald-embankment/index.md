@@ -1,6 +1,6 @@
 # Sun City Day Party - Westend Edition at Emerald Embankment
 
-Sun City Day Party - Westend Edition at Emerald Embankment on Sat 14 Nov, London. 8 acts on the bill: Chris Jones, Dj Essence, Easy Rider (ES) and Jake Power and 4 more. House and Garage. Preview the line-up and save it on soundcheck.
+Sun City Day Party - Westend Edition at Emerald Embankment on Sat 14 Nov, London. 8 artists on the bill: Chris Jones, Dj Essence, Easy Rider (ES) and Jake Power and 4 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

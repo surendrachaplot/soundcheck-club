@@ -1,6 +1,6 @@
 # Notion at Melkweg
 
-Notion at Melkweg on Sat 3 Oct, Amsterdam. 4 acts on the bill: MALLAURY, Notion, Sam Girling and Y U QT. Bass and Garage. Preview the line-up and save it on soundcheck.
+Notion at Melkweg on Sat 3 Oct, Amsterdam. 4 artists on the bill: MALLAURY, Notion, Sam Girling and Y U QT. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

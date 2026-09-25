@@ -1,6 +1,6 @@
 # Five years of Pambuku - Onur Özer, Vass, P.O (live) at The Yard
 
-Five years of Pambuku - Onur Özer, Vass, P.O (live) at The Yard on Sat 7 Nov, Manchester. 5 acts on the bill: Alex Q (3), Cruveiller, Onur Özer and P.O (1) and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Five years of Pambuku - Onur Özer, Vass, P.O (live) at The Yard on Sat 7 Nov, Manchester. 5 artists on the bill: Alex Q, Cruveiller, Onur Özer and P.O and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

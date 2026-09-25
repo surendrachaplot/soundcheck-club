@@ -1,6 +1,6 @@
 # White Noise 57 at St John On Bethnal Green
 
-White Noise 57 at St John On Bethnal Green on Fri 25 Sept, London. 1 act on the bill: Ronnie Deelen. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+White Noise 57 at St John On Bethnal Green on Fri 25 Sept, London. 1 artist on the bill: Ronnie Deelen. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

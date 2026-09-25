@@ -2,7 +2,7 @@
 
 So-Fi is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret place, Berlin on Sun, 4 Oct 2026.
 
-So-Fi is a house and techno artist based in France, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Matthias (1), Ancut and Carl H. Next up: TBA - Secret place, Berlin on Sun 4 Oct.
+So-Fi is a house and techno artist based in France, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Matthias, Ancut and Carl H. Next up: TBA - Secret place, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 

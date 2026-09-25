@@ -2,7 +2,7 @@
 
 Four Tet is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Four Tet is a house and techno artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Barcelona and Berlin and 24 more. Often billed alongside Skrillex, Ben UFO and Floating Points. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
+Four Tet is a house and techno artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Barcelona and Berlin and 24 more. Often billed alongside Skrillex, Ben UFO and Floating Points. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 

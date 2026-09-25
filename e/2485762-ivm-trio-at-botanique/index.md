@@ -1,6 +1,6 @@
 # IVM Trio at Botanique
 
-IVM Trio at Botanique on Sat 26 Sept, Brussels. 1 act on the bill: ojoo. Experimental. Preview the line-up and save it on soundcheck.
+IVM Trio at Botanique on Sat 26 Sept, Brussels. 1 artist on the bill: ojoo. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

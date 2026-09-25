@@ -1,6 +1,6 @@
 # BRAINFIRE -25TH INFERNO- at Void Club
 
-BRAINFIRE -25TH INFERNO- at Void Club on Sat 14 Nov, Berlin. 3 acts on the bill: Jensen, Outrage and Robsen. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+BRAINFIRE -25TH INFERNO- at Void Club on Sat 14 Nov, Berlin. 3 artists on the bill: Jensen, Outrage and Robsen. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Halloweek: L.P. Rhythm + Salomé Le Chat at Floyd
 
-Halloweek: L.P. Rhythm + Salomé Le Chat at Floyd on Fri 30 Oct, Miami. 2 acts on the bill: L.P. Rhythm and Salomé Le Chat. Techno and House. Preview the line-up and save it on soundcheck.
+Halloweek: L.P. Rhythm + Salomé Le Chat at Floyd on Fri 30 Oct, Miami. 2 artists on the bill: L.P. Rhythm and Salomé Le Chat. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

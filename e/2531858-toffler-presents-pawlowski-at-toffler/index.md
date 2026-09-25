@@ -1,6 +1,6 @@
 # Toffler presents Pawlowski at Toffler
 
-Toffler presents Pawlowski on Sat 7 Nov, Rotterdam. 3 acts on the bill: AIS (2), Divasi and Pawlowski (UK). Techno. Preview the line-up and save it on soundcheck.
+Toffler presents Pawlowski on Sat 7 Nov, Rotterdam. 3 artists on the bill: AIS, Divasi and Pawlowski (UK). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

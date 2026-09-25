@@ -1,6 +1,6 @@
 # Hardonize 54 at Sabaco Music & Cafe
 
-Hardonize 54 at Sabaco Music & Cafe on Sat 10 Oct, Tokyo. 1 act on the bill: YU-S-KE. Techno. Preview the line-up and save it on soundcheck.
+Hardonize 54 at Sabaco Music & Cafe on Sat 10 Oct, Tokyo. 1 artist on the bill: YU-S-KE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

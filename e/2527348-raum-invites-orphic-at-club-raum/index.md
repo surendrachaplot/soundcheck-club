@@ -1,6 +1,6 @@
 # RAUM invites ORPHIC at CLUB RAUM
 
-RAUM invites ORPHIC at CLUB RAUM on Fri 2 Oct, Amsterdam. 4 acts on the bill: annalogue, Lobster (NL), Thoms Traxx and Varuna Agosti. Preview the line-up and save it on soundcheck.
+RAUM invites ORPHIC at CLUB RAUM on Fri 2 Oct, Amsterdam. 4 artists on the bill: annalogue, Lobster (NL), Thoms Traxx and Varuna Agosti. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Eli + Fur at 1015 Folsom
 
-Eli + Fur at 1015 Folsom on Fri 13 Nov, Sanfrancisco. 1 act on the bill: Eli & Fur. House. Preview the line-up and save it on soundcheck.
+Eli + Fur at 1015 Folsom on Fri 13 Nov, San Francisco/Oakland. 1 artist on the bill: Eli & Fur. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

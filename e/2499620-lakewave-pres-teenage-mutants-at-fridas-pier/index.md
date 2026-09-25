@@ -1,6 +1,6 @@
 # LAKEWAVE pres. Teenage Mutants at Fridas Pier
 
-LAKEWAVE pres. Teenage Mutants at Fridas Pier on Fri 9 Oct, Stuttgart. 4 acts on the bill: Bjørnson, Nika (2), Sayuri (1) and Teenage Mutants. Techno. Preview the line-up and save it on soundcheck.
+LAKEWAVE pres. Teenage Mutants at Fridas Pier on Fri 9 Oct, Stuttgart. 4 artists on the bill: Bjørnson, Nika, Sayuri and Teenage Mutants. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

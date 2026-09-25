@@ -1,6 +1,6 @@
 # Tengu X Artificial presents: Malin Genie at Yamamori Tengu
 
-Tengu X Artificial presents: Malin Genie at Yamamori Tengu on Sat 10 Oct, Dublin. 3 acts on the bill: EMMIE, Malin Genie and Wiseguy. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Tengu X Artificial presents: Malin Genie at Yamamori Tengu on Sat 10 Oct, Dublin. 3 artists on the bill: EMMIE, Malin Genie and Wiseguy. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

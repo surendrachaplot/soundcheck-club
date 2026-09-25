@@ -1,6 +1,6 @@
 # ON&ON: HVMZA, Susan Right, DEMS at TivoliVredenburg
 
-ON&ON: HVMZA, Susan Right, DEMS at TivoliVredenburg on Sat 10 Oct, Utrecht. 1 act on the bill: Susan Right. House and Afro House. Preview the line-up and save it on soundcheck.
+ON&ON: HVMZA, Susan Right, DEMS at TivoliVredenburg on Sat 10 Oct, Utrecht. 1 artist on the bill: Susan Right. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

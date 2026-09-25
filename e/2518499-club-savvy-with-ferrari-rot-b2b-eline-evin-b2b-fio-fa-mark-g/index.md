@@ -1,6 +1,6 @@
 # Club Savvy with ferrari rot b2b Eline, evin b2b Fio Fa & Mark Gill at TBA - Secret Venue
 
-Club Savvy with ferrari rot b2b Eline, evin b2b Fio Fa & Mark Gill at TBA - Secret Venue on Fri 25 Sept, Berlin. 5 acts on the bill: Eline (BE), evin, ferrari rot and Fio Fa and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Club Savvy with ferrari rot b2b Eline, evin b2b Fio Fa & Mark Gill at TBA - Secret Venue on Fri 25 Sept, Berlin. 5 artists on the bill: Eline (BE), evin, ferrari rot and Fio Fa and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

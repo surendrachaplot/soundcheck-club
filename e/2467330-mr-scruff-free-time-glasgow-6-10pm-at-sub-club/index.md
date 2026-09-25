@@ -1,6 +1,6 @@
 # Mr Scruff: Free Time - Glasgow 6-10pm at Sub Club
 
-Mr Scruff: Free Time - Glasgow 6-10pm at Sub Club on Sat 12 Dec, Glasgow. 1 act on the bill: Mr Scruff. Preview the line-up and save it on soundcheck.
+Mr Scruff: Free Time - Glasgow 6-10pm at Sub Club on Sat 12 Dec, Glasgow. 1 artist on the bill: Mr Scruff. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

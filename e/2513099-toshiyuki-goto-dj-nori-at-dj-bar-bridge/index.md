@@ -1,6 +1,6 @@
 # Toshiyuki Goto & DJ Nori at DJ Bar Bridge
 
-Toshiyuki Goto & DJ Nori at DJ Bar Bridge on Sat 17 Oct, Tokyo. 2 acts on the bill: DJ Nori and Toshiyuki Goto. House. Preview the line-up and save it on soundcheck.
+Toshiyuki Goto & DJ Nori at DJ Bar Bridge on Sat 17 Oct, Tokyo. 2 artists on the bill: DJ Nori and Toshiyuki Goto. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

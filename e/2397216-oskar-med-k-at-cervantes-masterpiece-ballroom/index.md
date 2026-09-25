@@ -1,6 +1,6 @@
 # oskar med k at Cervantes' Masterpiece Ballroom
 
-oskar med k at Cervantes' Masterpiece Ballroom on Fri 25 Sept, Denver. 1 act on the bill: oskar med k. House and Deep House. Preview the line-up and save it on soundcheck.
+oskar med k at Cervantes' Masterpiece Ballroom on Fri 25 Sept, Denver. 1 artist on the bill: oskar med k. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

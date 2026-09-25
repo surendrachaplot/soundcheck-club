@@ -1,6 +1,6 @@
 # REX // Chloè - Gabrielle Kwarteng at DURO
 
-REX // Chloè - Gabrielle Kwarteng at DURO on Fri 27 Nov, Milan. 2 acts on the bill: Chloé and Gabrielle Kwarteng. House. Preview the line-up and save it on soundcheck.
+REX // Chloè - Gabrielle Kwarteng at DURO on Fri 27 Nov, Milan. 2 artists on the bill: Chloé and Gabrielle Kwarteng. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

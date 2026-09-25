@@ -1,6 +1,6 @@
 # Clubnight - Kynant, Dublab at Open Ground
 
-Clubnight - Kynant, Dublab at Open Ground on Sat 26 Sept, Wuppertal. 6 acts on the bill: Altinbas, DJ C U SOON, Luna Ludmila and Mankiyan and 2 more. Preview the line-up and save it on soundcheck.
+Clubnight - Kynant, Dublab at Open Ground on Sat 26 Sept, Wuppertal. 6 artists on the bill: Altinbas, DJ C U SOON, Luna Ludmila and Mankiyan and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Transformation - Grand Hall, La Plata - ALLMusicParties at TBA - Grand Hall, La Plata
 
-Transformation - Grand Hall, La Plata - ALLMusicParties at TBA - Grand Hall, La Plata on Sun 11 Oct, Buenosaires. Progressive House. Preview the line-up and save it on soundcheck.
+Transformation - Grand Hall, La Plata - ALLMusicParties at TBA - Grand Hall, La Plata on Sun 11 Oct, Buenos Aires. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

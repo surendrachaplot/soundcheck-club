@@ -1,6 +1,6 @@
 # Toman pres. High Ceilings - ADE 2026 at Camarat
 
-Toman pres. High Ceilings - ADE 2026 at Camarat on Fri 23 Oct, Amsterdam. 5 acts on the bill: Alci, Daisy Weweh, Mateo Dufour and Rooléh and 1 more. Preview the line-up and save it on soundcheck.
+Toman pres. High Ceilings - ADE 2026 at Camarat on Fri 23 Oct, Amsterdam. 5 artists on the bill: Alci, Daisy Weweh, Mateo Dufour and Rooléh and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

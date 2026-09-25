@@ -1,6 +1,6 @@
 # [DSTRKT] Layton Giordani at New City Gas
 
-[DSTRKT] Layton Giordani at New City Gas on Sat 28 Nov, Montreal. 1 act on the bill: Layton Giordani. Preview the line-up and save it on soundcheck.
+[DSTRKT] Layton Giordani at New City Gas on Sat 28 Nov, Montreal. 1 artist on the bill: Layton Giordani. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

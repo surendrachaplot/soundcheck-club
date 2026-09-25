@@ -1,6 +1,6 @@
 # DESCENDANTS with DJ TIRA, Danni Gato & More at 99 Scott Ave
 
-DESCENDANTS with DJ TIRA, Danni Gato & More at 99 Scott Ave on Fri 16 Oct, Newyorkcity. 4 acts on the bill: Danni Gato, Meedy, pizzi and Val Fleury. Gqom and Afro Tech. Preview the line-up and save it on soundcheck.
+DESCENDANTS with DJ TIRA, Danni Gato & More at 99 Scott Ave on Fri 16 Oct, New York City. 4 artists on the bill: Danni Gato, Meedy, pizzi and Val Fleury. Gqom and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

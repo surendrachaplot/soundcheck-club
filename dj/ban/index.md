@@ -2,7 +2,7 @@
 
 ban is a Psytrance and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Daikanyama ORD., Tokyo on Sun, 11 Oct 2026.
 
-ban is a psytrance and acid artist tracked on soundcheck, with 5 sets logged across Tokyo and Warsaw. Often billed alongside Adam Pits, Alisa (2) and DJ B2B. Next up: Daikanyama ORD., Tokyo on Sun 11 Oct.
+ban is a psytrance and acid artist tracked on soundcheck, with 5 sets logged across Tokyo and Warsaw. Often billed alongside Adam Pits, Alisa and DJ B2B. Next up: Daikanyama ORD., Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 

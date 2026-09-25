@@ -1,6 +1,6 @@
 # Coma x SMUT with DJ Nobu, Rrose, JERM at SMUT Athens
 
-Coma x SMUT with DJ Nobu, Rrose, JERM at SMUT Athens on Sat 10 Oct, Athens. 3 acts on the bill: DJ Nobu, JERM and Rrose. Techno. Preview the line-up and save it on soundcheck.
+Coma x SMUT with DJ Nobu, Rrose, JERM at SMUT Athens on Sat 10 Oct, Athens. 3 artists on the bill: DJ Nobu, JERM and Rrose. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

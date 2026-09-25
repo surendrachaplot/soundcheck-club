@@ -1,6 +1,6 @@
 # OPEN-AIR: Dombresky, Olive F at BERHTA
 
-OPEN-AIR: Dombresky, Olive F at BERHTA on Sat 3 Oct, Washingtondc. 2 acts on the bill: Dombresky and Olive F. House. Preview the line-up and save it on soundcheck.
+OPEN-AIR: Dombresky, Olive F at BERHTA on Sat 3 Oct, Washington DC. 2 artists on the bill: Dombresky and Olive F. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

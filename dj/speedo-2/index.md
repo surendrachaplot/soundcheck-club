@@ -2,7 +2,7 @@
 
 SPEEDO (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Helios37, Cologne on Sat, 10 Oct 2026.
 
-SPEEDO (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin and Cologne. Often billed alongside HENNESY, Pamela Rave and Cobb Douglas. Next up: Helios37, Cologne on Sat 10 Oct.
+SPEEDO is a techno and trance artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin and Cologne. Often billed alongside HENNESY, Pamela Rave and Cobb Douglas. Next up: Helios37, Cologne on Sat 10 Oct.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Harry Cross is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at smartbar, Chicago on Sat, 26 Sept 2026.
 
-Harry Cross is a house and techno artist based in United States of America, tracked on soundcheck, with 79 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 2 more. Often billed alongside Horse Meat Disco, Madeline (Chi) and Club Chow. Next up: smartbar, Chicago on Sat 26 Sept.
+Harry Cross is a house and techno artist based in United States of America, tracked on soundcheck, with 79 sets logged across Chicago, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Horse Meat Disco, Madeline (Chi) and Club Chow. Next up: smartbar, Chicago on Sat 26 Sept.
 
 ## Upcoming shows
 

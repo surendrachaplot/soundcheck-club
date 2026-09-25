@@ -1,6 +1,6 @@
 # DJ Habibeats at Savaya Bali
 
-DJ Habibeats at Savaya Bali on Sat 28 Nov, Bali. 1 act on the bill: DJ Habibeats. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
+DJ Habibeats at Savaya Bali on Sat 28 Nov, Bali. 1 artist on the bill: DJ Habibeats. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

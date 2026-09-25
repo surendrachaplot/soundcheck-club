@@ -1,6 +1,6 @@
 # Grand Prix: Ali Berger / Mariposa / Talker / Cades at Bossa Nova Civic Club
 
-Grand Prix: Ali Berger / Mariposa / Talker / Cades at Bossa Nova Civic Club on Wed 30 Sept, Newyorkcity. 4 acts on the bill: Ali Berger, Cades, Mariposa and Talker. House and Club. Preview the line-up and save it on soundcheck.
+Grand Prix: Ali Berger / Mariposa / Talker / Cades at Bossa Nova Civic Club on Wed 30 Sept, New York City. 4 artists on the bill: Ali Berger, Cades, Mariposa and Talker. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

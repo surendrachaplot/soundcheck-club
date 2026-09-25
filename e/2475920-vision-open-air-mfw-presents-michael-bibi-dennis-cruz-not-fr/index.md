@@ -1,6 +1,6 @@
 # VISION open air MFW presents Michael Bibi, Dennis Cruz, Not From Here at Ex Macello
 
-VISION open air MFW presents Michael Bibi, Dennis Cruz, Not From Here at Ex Macello on Thu 24 Sept, Milan. 2 acts on the bill: Dennis Cruz and Michael Bibi. Preview the line-up and save it on soundcheck.
+VISION open air MFW presents Michael Bibi, Dennis Cruz, Not From Here at Ex Macello on Thu 24 Sept, Milan. 2 artists on the bill: Dennis Cruz and Michael Bibi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

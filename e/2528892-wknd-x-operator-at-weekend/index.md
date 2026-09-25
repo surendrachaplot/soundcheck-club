@@ -1,6 +1,6 @@
 # WKND X OPERATOR at Weekend
 
-WKND X OPERATOR at Weekend on Fri 13 Nov, Berlin. 1 act on the bill: Dennis Beutler. Techno and Tech House. Preview the line-up and save it on soundcheck.
+WKND X OPERATOR at Weekend on Fri 13 Nov, Berlin. 1 artist on the bill: Dennis Beutler. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

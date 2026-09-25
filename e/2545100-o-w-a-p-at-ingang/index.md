@@ -1,6 +1,6 @@
 # O.W.A.P at ingang
 
-O.W.A.P at ingang on Sat 14 Nov, Amsterdam. 3 acts on the bill: Dimitri (1), Mike Risk and Remy. House and Acid. Preview the line-up and save it on soundcheck.
+O.W.A.P at ingang on Sat 14 Nov, Amsterdam. 3 artists on the bill: Dimitri, Mike Risk and Remy. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

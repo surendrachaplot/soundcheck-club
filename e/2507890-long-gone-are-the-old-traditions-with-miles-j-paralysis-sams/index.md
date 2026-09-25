@@ -1,6 +1,6 @@
 # Long Gone Are The Old Traditions with Miles J Paralysis, Samson A.K (Live) at Paloma
 
-Long Gone Are The Old Traditions with Miles J Paralysis, Samson A.K (Live) at Paloma on Fri 25 Sept, Berlin. 3 acts on the bill: Daire Carolan, Miles J Paralysis and Samson A.K. Techno and Dub. Preview the line-up and save it on soundcheck.
+Long Gone Are The Old Traditions with Miles J Paralysis, Samson A.K (Live) at Paloma on Fri 25 Sept, Berlin. 3 artists on the bill: Daire Carolan, Miles J Paralysis and Samson A.K. Techno and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

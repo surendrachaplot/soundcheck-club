@@ -1,6 +1,6 @@
 # 2-for-1 in San Juan - Latin Sunday Party at Reggaeton Bar San Antonios at San Antonios
 
-2-for-1 in San Juan - Latin Sunday Party at Reggaeton Bar San Antonios on Sun 13 Dec, Newyorkcity. Reggaeton. Preview the line-up and save it on soundcheck.
+2-for-1 in San Juan - Latin Sunday Party at Reggaeton Bar San Antonios on Sun 13 Dec, New York City. Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LED Day Club with BOLO at Beach House San Diego
 
-LED Day Club with BOLO at Beach House San Diego on Sat 10 Oct, Sandiego. Preview the line-up and save it on soundcheck.
+LED Day Club with BOLO at Beach House San Diego on Sat 10 Oct, San Diego. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

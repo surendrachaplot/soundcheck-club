@@ -1,6 +1,6 @@
 # PUSH JAZZ DANCE - Hope House GALLERY - FRIDAY 27th NOV 6pm at Hope House
 
-PUSH JAZZ DANCE - Hope House GALLERY - FRIDAY 27th NOV 6pm on Fri 27 Nov, Leeds. 1 act on the bill: Tina Edwards. Jazz. Preview the line-up and save it on soundcheck.
+PUSH JAZZ DANCE - Hope House GALLERY - FRIDAY 27th NOV 6pm on Fri 27 Nov, Leeds. 1 artist on the bill: Tina Edwards. Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

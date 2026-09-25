@@ -2,7 +2,7 @@
 
 Foro HDX is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "FUERA DE ESTE MUNDO" on Sat, 26 Sept 2026.
 
-Foro HDX is a music venue in Mexicocity listed on soundcheck. 1 upcoming gig, with line-ups including GRAViiTY, PRANAYAMA and YisusOnAcid. Browse upcoming dates, start times and who's playing. Av. Cuitláhuac 3368, Jardín Azpeitia, Azcapotzalco, 02530 Ciudad de México, CDMX.
+Foro HDX is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including GRAViiTY, PRANAYAMA and YisusOnAcid. Browse upcoming dates, start times and who's playing. Av. Cuitláhuac 3368, Jardín Azpeitia, Azcapotzalco, 02530 Ciudad de México, CDMX.
 
 ## What's on
 

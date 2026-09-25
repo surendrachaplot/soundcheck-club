@@ -1,6 +1,6 @@
 # SLIVER x ASSMR at Gaffe
 
-SLIVER x ASSMR at Gaffe on Fri 23 Oct, London. 6 acts on the bill: babsko, DINA, Melati and Saroor and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+SLIVER x ASSMR at Gaffe on Fri 23 Oct, London. 6 artists on the bill: babsko, DINA, Melati and Saroor and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

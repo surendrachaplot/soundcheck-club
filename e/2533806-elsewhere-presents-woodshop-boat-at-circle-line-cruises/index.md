@@ -1,6 +1,6 @@
 # Elsewhere presents: Woodshop Boat at Circle Line Cruises
 
-Elsewhere presents: Woodshop Boat at Circle Line Cruises on Sat 26 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+Elsewhere presents: Woodshop Boat at Circle Line Cruises on Sat 26 Sept, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

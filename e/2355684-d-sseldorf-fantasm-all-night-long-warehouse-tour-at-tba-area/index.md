@@ -1,6 +1,6 @@
 # DÜSSELDORF: Fantasm All Night Long Warehouse Tour at TBA - Areal Böhler
 
-DÜSSELDORF: Fantasm All Night Long Warehouse Tour at TBA - Areal Böhler on Sat 3 Oct, Dusseldorf. 1 act on the bill: Fantasm. Techno. Preview the line-up and save it on soundcheck.
+DÜSSELDORF: Fantasm All Night Long Warehouse Tour at TBA - Areal Böhler on Sat 3 Oct, Düsseldorf. 1 artist on the bill: Fantasm. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

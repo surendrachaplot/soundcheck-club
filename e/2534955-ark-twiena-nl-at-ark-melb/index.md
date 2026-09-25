@@ -1,6 +1,6 @@
 # ark // TWIENA [NL] at ark (Melb)
 
-ark // TWIENA [NL] at ark (Melb) on Sat 3 Oct, Melbourne. 1 act on the bill: TWIENA. Techno and House. Preview the line-up and save it on soundcheck.
+ark // TWIENA [NL] at ark (Melb) on Sat 3 Oct, Melbourne. 1 artist on the bill: TWIENA. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

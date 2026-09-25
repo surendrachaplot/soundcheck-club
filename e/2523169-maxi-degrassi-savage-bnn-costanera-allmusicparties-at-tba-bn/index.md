@@ -1,6 +1,6 @@
 # Maxi Degrassi - Savage, BNN Costanera - ALLMusicParties at TBA - BNN, Costanera
 
-Maxi Degrassi - Savage, BNN Costanera - ALLMusicParties at TBA - BNN, Costanera on Sun 11 Oct, Buenosaires. 1 act on the bill: Maxi Degrassi. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Maxi Degrassi - Savage, BNN Costanera - ALLMusicParties at TBA - BNN, Costanera on Sun 11 Oct, Buenos Aires. 1 artist on the bill: Maxi Degrassi. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

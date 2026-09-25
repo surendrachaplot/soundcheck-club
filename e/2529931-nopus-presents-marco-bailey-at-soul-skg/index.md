@@ -1,6 +1,6 @@
 # NOPUS presents Marco Bailey at Soul SKG
 
-NOPUS presents Marco Bailey at Soul SKG on Tue 27 Oct, Thessaloniki. 2 acts on the bill: Marco Bailey and Milo Raad. Preview the line-up and save it on soundcheck.
+NOPUS presents Marco Bailey at Soul SKG on Tue 27 Oct, Thessaloniki. 2 artists on the bill: Marco Bailey and Milo Raad. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

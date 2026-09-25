@@ -1,8 +1,8 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Warehouse, Denver on Fri, 2 Oct 2026.
+Octo Octa is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Warehouse, Denver on Fri, 2 Oct 2026.
 
-Octo Octa is a house and techno artist based in United States of America, tracked on soundcheck, with 206 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 58 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: TBA - Warehouse, Denver on Fri 2 Oct.
+Octo Octa is a house and techno artist based in United States of America, tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 59 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: TBA - Warehouse, Denver on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Octo Octa is a house and techno artist based in United States of America, tracke
 | Sat, 3 Oct 2026 | Process PDX | Portland |
 | Thu, 8 Oct 2026 | Nowadays | New York City |
 | Fri, 9 Oct 2026 | TRANSMISSION DC | Washington DC |
+| Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
 | Thu, 22 Oct 2026 | Pllek | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
@@ -19,7 +20,6 @@ Octo Octa is a house and techno artist based in United States of America, tracke
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
-| Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 
 ## Recently played
 

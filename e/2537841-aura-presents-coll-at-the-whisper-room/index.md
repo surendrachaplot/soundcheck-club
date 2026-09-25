@@ -1,6 +1,6 @@
 # Aura presents: Collé at The Whisper Room
 
-Aura presents: Collé at The Whisper Room on Fri 25 Sept, Singapore. 3 acts on the bill: Call Me Ben, Collé and NAYRA. House and Afro House. Preview the line-up and save it on soundcheck.
+Aura presents: Collé at The Whisper Room on Fri 25 Sept, Singapore. 3 artists on the bill: Call Me Ben, Collé and NAYRA. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

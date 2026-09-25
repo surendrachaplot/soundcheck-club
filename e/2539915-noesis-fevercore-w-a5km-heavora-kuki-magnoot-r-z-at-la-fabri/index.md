@@ -1,6 +1,6 @@
 # Noesis · FEVERCORE w/A5KM, Heavora, KUKI, MAGNOOT & RÆZ at La Fabriek
 
-Noesis · FEVERCORE w/A5KM, Heavora, KUKI, MAGNOOT & RÆZ at La Fabriek on Fri 16 Oct, Brussels. 1 act on the bill: Heavora. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Noesis · FEVERCORE w/A5KM, Heavora, KUKI, MAGNOOT & RÆZ at La Fabriek on Fri 16 Oct, Brussels. 1 artist on the bill: Heavora. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

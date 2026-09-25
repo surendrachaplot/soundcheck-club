@@ -1,6 +1,6 @@
 # Nervous Records Speakeasy! with AQUTIE, Mike Nervous, and Special Guests at Shinsen
 
-Nervous Records Speakeasy! with AQUTIE, Mike Nervous, and Special Guests at Shinsen on Thu 24 Sept, Newyorkcity. 2 acts on the bill: AQUTIE and Mike Nervous. House. Preview the line-up and save it on soundcheck.
+Nervous Records Speakeasy! with AQUTIE, Mike Nervous, and Special Guests at Shinsen on Thu 24 Sept, New York City. 2 artists on the bill: AQUTIE and Mike Nervous. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

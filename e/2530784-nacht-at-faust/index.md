@@ -1,6 +1,6 @@
 # nacht at Faust
 
-nacht at Faust on Sat 26 Sept, Seoul. 5 acts on the bill: Kim Bo Yeon, Nocturnal (KR), Sol (KR) and Suman and 1 more. Preview the line-up and save it on soundcheck.
+nacht at Faust on Sat 26 Sept, Seoul. 5 artists on the bill: Kim Bo Yeon, Nocturnal (KR), Sol (KR) and Suman and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

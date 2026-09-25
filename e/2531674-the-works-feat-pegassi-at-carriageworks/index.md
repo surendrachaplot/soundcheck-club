@@ -1,6 +1,6 @@
 # THE WORKS feat. Pegassi at Carriageworks
 
-THE WORKS feat. Pegassi at Carriageworks on Sat 5 Dec, Sydney. 1 act on the bill: Pegassi. Preview the line-up and save it on soundcheck.
+THE WORKS feat. Pegassi at Carriageworks on Sat 5 Dec, Sydney. 1 artist on the bill: Pegassi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

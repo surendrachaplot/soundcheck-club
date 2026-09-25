@@ -2,7 +2,7 @@
 
 Keyklau is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboratorio Octogon, Madrid on Sat, 3 Oct 2026.
 
-Keyklau is a techno and industrial artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Madrid and Nurnberg and 1 more. Often billed alongside Giusseppi, Felinae and Matt.p. Next up: Laboratorio Octogon, Madrid on Sat 3 Oct.
+Keyklau is a techno and industrial artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Madrid and Nürnberg and 1 more. Often billed alongside Giusseppi, Felinae and Matt.p. Next up: Laboratorio Octogon, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 

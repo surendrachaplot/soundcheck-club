@@ -1,6 +1,6 @@
 # Reek0 - Hybrid Live and Extended DJ Set at Yes
 
-Reek0 - Hybrid Live and Extended DJ Set at Yes on Fri 13 Nov, Manchester. 1 act on the bill: Kusasa. House and Bass. Preview the line-up and save it on soundcheck.
+Reek0 - Hybrid Live and Extended DJ Set at Yes on Fri 13 Nov, Manchester. 1 artist on the bill: Kusasa. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

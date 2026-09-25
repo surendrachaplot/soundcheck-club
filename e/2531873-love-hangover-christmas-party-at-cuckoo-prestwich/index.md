@@ -1,6 +1,6 @@
 # Love Hangover: Christmas Party at Cuckoo Prestwich
 
-Love Hangover: Christmas Party at Cuckoo Prestwich on Sat 5 Dec, Manchester. 1 act on the bill: Jus’T. House and Pop. Preview the line-up and save it on soundcheck.
+Love Hangover: Christmas Party at Cuckoo Prestwich on Sat 5 Dec, Manchester. 1 artist on the bill: Jus’T. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

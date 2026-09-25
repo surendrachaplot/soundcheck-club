@@ -1,6 +1,6 @@
 # LBD: ROUDY (All Night Long) at StereoBar
 
-LBD: ROUDY (All Night Long) at StereoBar on Sun 27 Sept, Montreal. 1 act on the bill: ROUDY. Preview the line-up and save it on soundcheck.
+LBD: ROUDY (All Night Long) at StereoBar on Sun 27 Sept, Montreal. 1 artist on the bill: ROUDY. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

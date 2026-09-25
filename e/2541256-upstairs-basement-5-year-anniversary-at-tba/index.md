@@ -1,6 +1,6 @@
 # Upstairs Basement 5 Year Anniversary at TBA
 
-Upstairs Basement 5 Year Anniversary at TBA on Sat 17 Oct, Berlin. 2 acts on the bill: Calcium Channel and Mister Willis. Techno and House. Preview the line-up and save it on soundcheck.
+Upstairs Basement 5 Year Anniversary at TBA on Sat 17 Oct, Berlin. 2 artists on the bill: Calcium Channel and Mister Willis. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # static.club at Samis Bar
 
-static.club at Samis Bar on Sat 26 Sept, Athens. 3 acts on the bill: jima, Meddus and N1KT0. Club and Electronica. Preview the line-up and save it on soundcheck.
+static.club at Samis Bar on Sat 26 Sept, Athens. 3 artists on the bill: jima, Meddus and N1KT0. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

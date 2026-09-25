@@ -1,6 +1,6 @@
 # Ky William at Bibliothequé [Dopamine Machine Halloween] at Bibliotheque
 
-Ky William at Bibliothequé [Dopamine Machine Halloween] at Bibliotheque on Sat 31 Oct, Toronto. 1 act on the bill: Ky William. House and Tech House. Preview the line-up and save it on soundcheck.
+Ky William at Bibliothequé [Dopamine Machine Halloween] at Bibliotheque on Sat 31 Oct, Toronto. 1 artist on the bill: Ky William. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

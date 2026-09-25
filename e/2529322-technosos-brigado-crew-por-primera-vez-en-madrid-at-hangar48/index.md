@@ -1,6 +1,6 @@
 # TECHNOSOS: Brigado Crew por primera vez en Madrid at Hangar48 Club
 
-TECHNOSOS: Brigado Crew por primera vez en Madrid at Hangar48 Club on Sat 17 Oct, Madrid. 1 act on the bill: Brigado Crew. Techno. Preview the line-up and save it on soundcheck.
+TECHNOSOS: Brigado Crew por primera vez en Madrid at Hangar48 Club on Sat 17 Oct, Madrid. 1 artist on the bill: Brigado Crew. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

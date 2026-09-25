@@ -1,6 +1,6 @@
 # Frædag: Octave One (live) + G-HA & Olanskii + Øyvind Morken at Jaeger
 
-Frædag: Octave One (live) + G-HA & Olanskii + Øyvind Morken at Jaeger on Fri 9 Oct, Oslo. 4 acts on the bill: G-HA, Octave One, Olanskii and Øyvind Morken. Techno. Preview the line-up and save it on soundcheck.
+Frædag: Octave One (live) + G-HA & Olanskii + Øyvind Morken at Jaeger on Fri 9 Oct, Oslo. 4 artists on the bill: G-HA, Octave One, Olanskii and Øyvind Morken. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

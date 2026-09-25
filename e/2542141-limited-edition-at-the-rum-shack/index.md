@@ -1,6 +1,6 @@
 # Limited Edition at The Rum Shack
 
-Limited Edition at The Rum Shack on Fri 23 Oct, Glasgow. 2 acts on the bill: Jurnalist and Ten Years Lost (2). Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Limited Edition at The Rum Shack on Fri 23 Oct, Glasgow. 2 artists on the bill: Jurnalist and Ten Years Lost. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mariano Mellino - AUDIOHOLICS - SYDNEY, AUS at TBA
 
-Mariano Mellino - AUDIOHOLICS - SYDNEY, AUS at TBA on Sun 4 Oct, Sydney. 1 act on the bill: Mariano Mellino. Preview the line-up and save it on soundcheck.
+Mariano Mellino - AUDIOHOLICS - SYDNEY, AUS at TBA on Sun 4 Oct, Sydney. 1 artist on the bill: Mariano Mellino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

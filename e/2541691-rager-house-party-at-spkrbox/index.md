@@ -1,6 +1,6 @@
 # Rager House Party at Spkrbox
 
-Rager House Party at Spkrbox on Thu 24 Sept, Detroit. 3 acts on the bill: Diego (3), RAPHAËL (2) and Sheefy McFly. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Rager House Party at Spkrbox on Thu 24 Sept, Detroit. 3 artists on the bill: Diego, RAPHAËL and Sheefy McFly. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

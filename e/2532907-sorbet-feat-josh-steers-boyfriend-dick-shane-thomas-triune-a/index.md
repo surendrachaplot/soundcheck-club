@@ -1,6 +1,6 @@
 # Sorbet feat. Josh Steers, Boyfriend Dick, Shane Thomas & Triune at TBA - Echo Park
 
-Sorbet feat. Josh Steers, Boyfriend Dick, Shane Thomas & Triune at TBA - Echo Park on Fri 2 Oct, Losangeles. 3 acts on the bill: Boyfriend Dick, Josh Steers and Shane Thomas. Techno and Club. Preview the line-up and save it on soundcheck.
+Sorbet feat. Josh Steers, Boyfriend Dick, Shane Thomas & Triune at TBA - Echo Park on Fri 2 Oct, Los Angeles. 3 artists on the bill: Boyfriend Dick, Josh Steers and Shane Thomas. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,14 +2,14 @@
 
 Cassy is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nowadays, New York City on Sun, 27 Sept 2026.
 
-Cassy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 169 sets logged across All, Amsterdam, Bali and Barcelona and 46 more. Often billed alongside Carlos Valdes, Anja Schneider and Ben Klock. Next up: Nowadays, Newyorkcity on Sun 27 Sept.
+Cassy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 169 sets logged across Amsterdam, Bali, Barcelona and Berlin and 46 more. Often billed alongside Carlos Valdes, Anja Schneider and Ben Klock. Next up: Nowadays, New York City on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Nowadays | New York City |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 2 Oct 2026 | Gaffe | London |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 17 Oct 2026 | Arca | Milan |

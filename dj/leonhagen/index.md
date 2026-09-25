@@ -2,7 +2,7 @@
 
 Leon Hagen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Switch Bar, Barcelona on Thu, 24 Sept 2026.
 
-Leon Hagen is a techno and house artist based in Germany, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 1 more. Often billed alongside Pascal Wagner, Thalo Santana and Julian Bomm. Next up: Switch Bar, Barcelona on Thu 24 Sept.
+Leon Hagen is a techno and house artist based in Germany, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Cologne and Düsseldorf and 1 more. Often billed alongside Pascal Wagner, Thalo Santana and Julian Bomm. Next up: Switch Bar, Barcelona on Thu 24 Sept.
 
 ## Upcoming shows
 

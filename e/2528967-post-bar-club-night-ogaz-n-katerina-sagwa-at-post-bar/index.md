@@ -1,6 +1,6 @@
 # Post Bar Club Night — Ogazón, Katerina, Sagwa at Post Bar
 
-Post Bar Club Night — Ogazón, Katerina, Sagwa on Sat 17 Oct, Helsinki. 3 acts on the bill: Katerina, Ogazón and Sagwa. Preview the line-up and save it on soundcheck.
+Post Bar Club Night — Ogazón, Katerina, Sagwa on Sat 17 Oct, Helsinki. 3 artists on the bill: Katerina, Ogazón and Sagwa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DoitJAZZ! 20th Anniversary meets MAGNETiC at Club Metro
 
-DoitJAZZ! 20th Anniversary meets MAGNETiC at Club Metro on Fri 9 Oct, Kyoto. 2 acts on the bill: Masaki Tamura and Naoki Yoda. Disco and Jazz. Preview the line-up and save it on soundcheck.
+DoitJAZZ! 20th Anniversary meets MAGNETiC at Club Metro on Fri 9 Oct, Kyoto. 2 artists on the bill: Masaki Tamura and Naoki Yoda. Disco and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DURATIONS: Suzanne Ciani, Courtney Bailey at public records
 
-DURATIONS: Suzanne Ciani, Courtney Bailey at public records on Fri 13 Nov, Newyorkcity. 2 acts on the bill: Courtney Bailey and Suzanne Ciani. Preview the line-up and save it on soundcheck.
+DURATIONS: Suzanne Ciani, Courtney Bailey at public records on Fri 13 Nov, New York City. 2 artists on the bill: Courtney Bailey and Suzanne Ciani. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

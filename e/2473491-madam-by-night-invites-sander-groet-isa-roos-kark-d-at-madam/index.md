@@ -1,6 +1,6 @@
 # Madam by Night invites: Sander Groet, Isa Roos, KARKÂDÉ at Madam
 
-Madam by Night invites: Sander Groet, Isa Roos, KARKÂDÉ on Fri 25 Sept, Amsterdam. 2 acts on the bill: Isa Roos and KARKÂDÉ. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Madam by Night invites: Sander Groet, Isa Roos, KARKÂDÉ on Fri 25 Sept, Amsterdam. 2 artists on the bill: Isa Roos and KARKÂDÉ. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

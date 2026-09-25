@@ -14,7 +14,7 @@ Marco Shuttle is a techno and house artist based in Italy, tracked on soundcheck
 | Sat, 3 Oct 2026 | Switch | Porto |
 | Sun, 4 Oct 2026 | Harbour Music Shelter | Lisbon |
 | Fri, 9 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Sat, 10 Oct 2026 | TBA | Paris |
+| Sat, 10 Oct 2026 | TBA - Paris | Paris |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Fri, 13 Nov 2026 | Palais | London |

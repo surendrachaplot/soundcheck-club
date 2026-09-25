@@ -1,6 +1,6 @@
 # SITH: SECRET RENDEZVOUS - LOCATION TBA at TBA
 
-SITH: SECRET RENDEZVOUS - LOCATION TBA on Fri 2 Oct, Newyorkcity. 5 acts on the bill: Ashley Younniä, Baronhawk Poitier, Brett Dancer and Karizma and 1 more. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+SITH: SECRET RENDEZVOUS - LOCATION TBA on Fri 2 Oct, New York City. 5 artists on the bill: Ashley Younniä, Baronhawk Poitier, Brett Dancer and Karizma and 1 more. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

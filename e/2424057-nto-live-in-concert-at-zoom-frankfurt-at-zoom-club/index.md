@@ -1,6 +1,6 @@
 # NTO live in concert at ZOOM Frankfurt at Zoom Club
 
-NTO live in concert at ZOOM Frankfurt at Zoom Club on Sat 7 Nov, Frankfurt. 1 act on the bill: NTO. Techno. Preview the line-up and save it on soundcheck.
+NTO live in concert at ZOOM Frankfurt at Zoom Club on Sat 7 Nov, Frankfurt. 1 artist on the bill: NTO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

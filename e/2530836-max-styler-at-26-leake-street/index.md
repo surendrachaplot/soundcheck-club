@@ -1,6 +1,6 @@
 # Max Styler at 26 Leake Street
 
-Max Styler at 26 Leake Street on Sat 21 Nov, London. 1 act on the bill: Max Styler. Preview the line-up and save it on soundcheck.
+Max Styler at 26 Leake Street on Sat 21 Nov, London. 1 artist on the bill: Max Styler. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

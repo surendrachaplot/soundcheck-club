@@ -1,6 +1,6 @@
 # Colours & BeGood presents Hardbeat Department at SWG3
 
-Colours & BeGood presents Hardbeat Department at SWG3 on Sat 12 Dec, Glasgow. 1 act on the bill: Darren Styles. Trance. Preview the line-up and save it on soundcheck.
+Colours & BeGood presents Hardbeat Department at SWG3 on Sat 12 Dec, Glasgow. 1 artist on the bill: Darren Styles. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

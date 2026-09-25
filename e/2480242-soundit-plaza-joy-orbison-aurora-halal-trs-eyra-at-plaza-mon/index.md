@@ -1,6 +1,6 @@
 # SOUNDIT Plaza: Joy Orbison, Aurora Halal, TRS, EYRA at Plaza Monumental de Barcelona
 
-SOUNDIT Plaza: Joy Orbison, Aurora Halal, TRS, EYRA at Plaza Monumental de Barcelona on Sat 28 Nov, Barcelona. 4 acts on the bill: Aurora Halal, EYRA, Joy Orbison and TRS. Preview the line-up and save it on soundcheck.
+SOUNDIT Plaza: Joy Orbison, Aurora Halal, TRS, EYRA at Plaza Monumental de Barcelona on Sat 28 Nov, Barcelona. 4 artists on the bill: Aurora Halal, EYRA, Joy Orbison and TRS. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

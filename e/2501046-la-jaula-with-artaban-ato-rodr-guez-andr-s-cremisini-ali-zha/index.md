@@ -1,6 +1,6 @@
 # LA JAULA with Artaban, Ato Rodríguez, Andrés Cremisini, Ali Zhan at Rastro Live Studio
 
-LA JAULA with Artaban, Ato Rodríguez, Andrés Cremisini, Ali Zhan at Rastro Live Studio on Sat 3 Oct, Madrid. 2 acts on the bill: Andrés Cremisini and Ato Rodriguez. Techno and Electro. Preview the line-up and save it on soundcheck.
+LA JAULA with Artaban, Ato Rodríguez, Andrés Cremisini, Ali Zhan at Rastro Live Studio on Sat 3 Oct, Madrid. 2 artists on the bill: Andrés Cremisini and Ato Rodriguez. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

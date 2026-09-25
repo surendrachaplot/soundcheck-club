@@ -1,6 +1,6 @@
 # OUR FRIDAY at NEO CLUB ROMA
 
-OUR FRIDAY at NEO CLUB ROMA on Fri 25 Sept, Rome. 1 act on the bill: Max Beat. House and Club. Preview the line-up and save it on soundcheck.
+OUR FRIDAY at NEO CLUB ROMA on Fri 25 Sept, Rome. 1 artist on the bill: Max Beat. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

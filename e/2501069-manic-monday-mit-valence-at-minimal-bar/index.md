@@ -1,6 +1,6 @@
 # manic.monday mit VALENCE at Minimal Bar
 
-manic.monday mit VALENCE at Minimal Bar on Mon 12 Oct, Berlin. 1 act on the bill: VALENCE. Preview the line-up and save it on soundcheck.
+manic.monday mit VALENCE at Minimal Bar on Mon 12 Oct, Berlin. 1 artist on the bill: VALENCE. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

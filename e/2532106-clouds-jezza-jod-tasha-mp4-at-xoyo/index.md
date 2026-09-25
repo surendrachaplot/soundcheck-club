@@ -1,6 +1,6 @@
 # Clouds, Jezza & Jod + Tasha MP4 at XOYO
 
-Clouds, Jezza & Jod + Tasha MP4 at XOYO on Sat 26 Sept, London. 2 acts on the bill: Clouds and Jezza & Jod. Techno and House. Preview the line-up and save it on soundcheck.
+Clouds, Jezza & Jod + Tasha MP4 at XOYO on Sat 26 Sept, London. 2 artists on the bill: Clouds and Jezza & Jod. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

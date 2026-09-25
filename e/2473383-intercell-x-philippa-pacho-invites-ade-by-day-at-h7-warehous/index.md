@@ -1,6 +1,6 @@
 # Intercell x Philippa Pacho Invites - ADE By Day at H7 Warehouse
 
-Intercell x Philippa Pacho Invites - ADE By Day at H7 Warehouse on Sat 24 Oct, Amsterdam. 7 acts on the bill: Altinbas, DJ Nobu, GiGi FM and I-RO and 3 more. Preview the line-up and save it on soundcheck.
+Intercell x Philippa Pacho Invites - ADE By Day at H7 Warehouse on Sat 24 Oct, Amsterdam. 7 artists on the bill: Altinbas, DJ Nobu, GiGi FM and I-RO and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

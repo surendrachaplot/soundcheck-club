@@ -1,6 +1,6 @@
 # RIOT CLUB & HARDCORE SPAIN: Kelly B & Seiken, Arok Shiva, Jorge Carreño & Arancha Martin at EL SÓTANO
 
-RIOT CLUB & HARDCORE SPAIN: Kelly B & Seiken, Arok Shiva, Jorge Carreño & Arancha Martin at EL SÓTANO on Sun 11 Oct, Madrid. 2 acts on the bill: Arok Shiva and Kelly B. Trance and Techno. Preview the line-up and save it on soundcheck.
+RIOT CLUB & HARDCORE SPAIN: Kelly B & Seiken, Arok Shiva, Jorge Carreño & Arancha Martin at EL SÓTANO on Sun 11 Oct, Madrid. 2 artists on the bill: Arok Shiva and Kelly B. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

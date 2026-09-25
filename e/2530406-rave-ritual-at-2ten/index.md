@@ -1,6 +1,6 @@
 # Rave Ritual at 2ten
 
-Rave Ritual at 2ten on Sat 3 Oct, Athens. 3 acts on the bill: MOSHBEAT, Plagger and TYPEO (3). Techno and Acid. Preview the line-up and save it on soundcheck.
+Rave Ritual at 2ten on Sat 3 Oct, Athens. 3 artists on the bill: MOSHBEAT, Plagger and TYPEO. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

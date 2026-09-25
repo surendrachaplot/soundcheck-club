@@ -1,6 +1,6 @@
 # The Veil at TBA
 
-The Veil at TBA on Fri 27 Nov, Mexicocity. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+The Veil at TBA on Fri 27 Nov, Mexico City. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

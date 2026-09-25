@@ -1,6 +1,6 @@
 # Polifonic & SMIILE ADE 2026 at Klaproos
 
-Polifonic & SMIILE ADE 2026 at Klaproos on Thu 22 Oct, Amsterdam. 12 acts on the bill: Aldonna, Call Super, Chloé Caillet and Craig Richards and 8 more. House. Preview the line-up and save it on soundcheck.
+Polifonic & SMIILE ADE 2026 at Klaproos on Thu 22 Oct, Amsterdam. 12 artists on the bill: Aldonna, Call Super, Chloé Caillet and Craig Richards and 8 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

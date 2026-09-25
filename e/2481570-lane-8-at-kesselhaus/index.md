@@ -1,6 +1,6 @@
 # Lane 8 at Kesselhaus
 
-Lane 8 at Kesselhaus on Wed 4 Nov, Berlin. 1 act on the bill: Lane 8. Deep House and Electronica. Preview the line-up and save it on soundcheck.
+Lane 8 at Kesselhaus on Wed 4 Nov, Berlin. 1 artist on the bill: Lane 8. Deep House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

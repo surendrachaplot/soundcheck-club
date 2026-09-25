@@ -1,6 +1,6 @@
 # DJ Heartstring at Poolen
 
-DJ Heartstring at Poolen on Sat 17 Oct, Copenhagen. 1 act on the bill: DJ Heartstring. Trance and Pop. Preview the line-up and save it on soundcheck.
+DJ Heartstring at Poolen on Sat 17 Oct, Copenhagen. 1 artist on the bill: DJ Heartstring. Trance and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Roofless Records at Loods12 at Loods 12
 
-Roofless Records at Loods12 at Loods 12 on Fri 25 Sept, Amsterdam. 2 acts on the bill: Casio the Calculator and Mia Cecille. Techno and House. Preview the line-up and save it on soundcheck.
+Roofless Records at Loods12 at Loods 12 on Fri 25 Sept, Amsterdam. 2 artists on the bill: Casio the Calculator and Mia Cecille. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

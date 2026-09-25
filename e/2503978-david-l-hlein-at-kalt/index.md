@@ -1,6 +1,6 @@
 # David Löhlein at KALT
 
-David Löhlein at KALT on Sat 19 Dec, Strasbourg. 1 act on the bill: David Löhlein. Preview the line-up and save it on soundcheck.
+David Löhlein at KALT on Sat 19 Dec, Strasbourg. 1 artist on the bill: David Löhlein. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

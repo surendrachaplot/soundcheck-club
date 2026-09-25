@@ -1,6 +1,6 @@
 # Origins: Pretty Girl [LIVE] with Helena Star & Anunaku at Night Tales Loft
 
-Origins: Pretty Girl [LIVE] with Helena Star & Anunaku at Night Tales Loft on Sat 17 Oct, London. 3 acts on the bill: Anunaku, Heléna Star and Pretty Girl. House. Preview the line-up and save it on soundcheck.
+Origins: Pretty Girl [LIVE] with Helena Star & Anunaku at Night Tales Loft on Sat 17 Oct, London. 3 artists on the bill: Anunaku, Heléna Star and Pretty Girl. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # OCTAINE presents: SANCTUM at Left Bank Leeds
 
-OCTAINE presents: SANCTUM at Left Bank Leeds on Sat 31 Oct, Leeds. 7 acts on the bill: ATTA., Cleopard2000, Dominique. and maevie and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+OCTAINE presents: SANCTUM at Left Bank Leeds on Sat 31 Oct, Leeds. 7 artists on the bill: ATTA., Cleopard2000, Dominique. and maevie and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

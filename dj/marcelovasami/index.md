@@ -2,7 +2,7 @@
 
 Marcelo Vasami is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 10 Oct 2026.
 
-Marcelo Vasami is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 9 more. Often billed alongside Nicolas Rada, Antrim and Agustin Ficarra. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Sat 10 Oct.
+Marcelo Vasami is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 9 more. Often billed alongside Nicolas Rada, Antrim and Agustin Ficarra. Next up: TBA - La Biblioteca, San Telmo, Buenos Aires on Sat 10 Oct.
 
 ## Upcoming shows
 

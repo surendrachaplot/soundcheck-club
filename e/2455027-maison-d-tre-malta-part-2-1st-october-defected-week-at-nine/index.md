@@ -1,6 +1,6 @@
 # Maison D'être Malta - PART 2 - 1st October - Defected week at Nine Lives
 
-Maison D'être Malta - PART 2 - 1st October - Defected week at Nine Lives on Thu 1 Oct, Malta. 1 act on the bill: Monsieur Mikey. House and Tech House. Preview the line-up and save it on soundcheck.
+Maison D'être Malta - PART 2 - 1st October - Defected week at Nine Lives on Thu 1 Oct, Malta. 1 artist on the bill: Monsieur Mikey. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

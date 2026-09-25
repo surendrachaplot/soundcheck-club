@@ -2,7 +2,7 @@
 
 Rich Thomas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri, 25 Sept 2026.
 
-Rich Thomas is a house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Washingtondc. Often billed alongside Chris Nitti, Aaron Sparks and DJ Chus. Next up: Jimmy Valentine's Lonely Hearts Club, Washingtondc on Fri 25 Sept.
+Rich Thomas is a house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Washington DC. Often billed alongside Chris Nitti, Aaron Sparks and DJ Chus. Next up: Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri 25 Sept.
 
 ## Upcoming shows
 

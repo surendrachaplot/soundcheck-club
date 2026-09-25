@@ -1,6 +1,6 @@
 # House of Grooves: Eli Escobar All Night + Sissies of Mercy at House of Yes
 
-House of Grooves: Eli Escobar All Night + Sissies of Mercy at House of Yes on Fri 6 Nov, Newyorkcity. 2 acts on the bill: Eli Escobar and Sissies of Mercy. Techno and House. Preview the line-up and save it on soundcheck.
+House of Grooves: Eli Escobar All Night + Sissies of Mercy at House of Yes on Fri 6 Nov, New York City. 2 artists on the bill: Eli Escobar and Sissies of Mercy. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

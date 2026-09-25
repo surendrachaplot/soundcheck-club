@@ -1,6 +1,6 @@
 # Spraoi Mór with David Vunk at Yamamori Tengu
 
-Spraoi Mór with David Vunk at Yamamori Tengu on Fri 9 Oct, Dublin. 4 acts on the bill: Dar Molloy (2), David Vunk, Holten and Spraoi Mór. Acid and Italo Disco. Preview the line-up and save it on soundcheck.
+Spraoi Mór with David Vunk at Yamamori Tengu on Fri 9 Oct, Dublin. 4 artists on the bill: Dar Molloy, David Vunk, Holten and Spraoi Mór. Acid and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

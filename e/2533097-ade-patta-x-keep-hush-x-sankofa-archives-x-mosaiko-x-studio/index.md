@@ -1,6 +1,6 @@
 # ADE - PATTA X KEEP HUSH X SANKOFA ARCHIVES X MOSAIKO X STUDIO STRIP at Skatecafe
 
-ADE - PATTA X KEEP HUSH X SANKOFA ARCHIVES X MOSAIKO X STUDIO STRIP at Skatecafe on Sat 24 Oct, Amsterdam. 10 acts on the bill: amara, Amz, Anèl and awhlkuhn and 6 more. Preview the line-up and save it on soundcheck.
+ADE - PATTA X KEEP HUSH X SANKOFA ARCHIVES X MOSAIKO X STUDIO STRIP at Skatecafe on Sat 24 Oct, Amsterdam. 10 artists on the bill: amara, Amz, Anèl and awhlkuhn and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

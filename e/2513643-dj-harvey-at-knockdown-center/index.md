@@ -1,6 +1,6 @@
 # DJ Harvey at Knockdown Center
 
-DJ Harvey at Knockdown Center on Fri 13 Nov, Newyorkcity. 1 act on the bill: DJ Harvey. House. Preview the line-up and save it on soundcheck.
+DJ Harvey at Knockdown Center on Fri 13 Nov, New York City. 1 artist on the bill: DJ Harvey. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

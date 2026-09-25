@@ -1,6 +1,6 @@
 # Bloody Pleasures at Death Disco
 
-Bloody Pleasures at Death Disco on Sat 26 Sept, Athens. 2 acts on the bill: Cyber Glitter and Fiyahkidd. Electro and EBM. Preview the line-up and save it on soundcheck.
+Bloody Pleasures at Death Disco on Sat 26 Sept, Athens. 2 artists on the bill: Cyber Glitter and Fiyahkidd. Electro and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

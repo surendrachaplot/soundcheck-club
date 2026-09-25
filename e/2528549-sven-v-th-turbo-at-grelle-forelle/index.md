@@ -1,6 +1,6 @@
 # Sven Väth | TURBO at Grelle Forelle
 
-Sven Väth | TURBO at Grelle Forelle on Fri 23 Oct, Vienna. 4 acts on the bill: Andy Catana, MARØ (2), Maurizio Schmitz and Sven Vath. Preview the line-up and save it on soundcheck.
+Sven Väth | TURBO at Grelle Forelle on Fri 23 Oct, Vienna. 4 artists on the bill: Andy Catana, MARØ, Maurizio Schmitz and Sven Vath. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

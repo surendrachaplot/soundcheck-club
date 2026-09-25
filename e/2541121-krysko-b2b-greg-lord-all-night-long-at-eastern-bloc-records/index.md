@@ -1,6 +1,6 @@
 # Krysko B2B Greg Lord All Night Long at Eastern Bloc Records
 
-Krysko B2B Greg Lord All Night Long at Eastern Bloc Records on Sat 3 Oct, Manchester. 2 acts on the bill: Greg Lord and Krysko. House. Preview the line-up and save it on soundcheck.
+Krysko B2B Greg Lord All Night Long at Eastern Bloc Records on Sat 3 Oct, Manchester. 2 artists on the bill: Greg Lord and Krysko. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

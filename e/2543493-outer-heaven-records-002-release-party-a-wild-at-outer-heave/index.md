@@ -1,6 +1,6 @@
 # Outer Heaven Records 002 Release Party: A.Wild at Outer Heaven
 
-Outer Heaven Records 002 Release Party: A.Wild on Fri 16 Oct, Newyorkcity. 2 acts on the bill: A.Wild and Chloe Battelle. House and Acid. Preview the line-up and save it on soundcheck.
+Outer Heaven Records 002 Release Party: A.Wild on Fri 16 Oct, New York City. 2 artists on the bill: A.Wild and Chloe Battelle. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

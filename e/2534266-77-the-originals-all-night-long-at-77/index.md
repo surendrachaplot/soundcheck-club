@@ -1,6 +1,6 @@
 # 77: The Originals (All Night Long) at 77
 
-77: The Originals (All Night Long) on Fri 2 Oct, London. 2 acts on the bill: Supa D and Tippa. House and Afro House. Preview the line-up and save it on soundcheck.
+77: The Originals (All Night Long) on Fri 2 Oct, London. 2 artists on the bill: Supa D and Tippa. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

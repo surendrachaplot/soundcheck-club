@@ -2,7 +2,7 @@
 
 Michael Fam is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Better Tomorrow, Los Angeles on Thu, 24 Sept 2026.
 
-Michael Fam is a house and minimal artist based in United States of America, tracked on soundcheck, with 31 sets logged across Berlin and Losangeles. Often billed alongside Ray Kash, Enzo Muro and Stefan Seay. Next up: Better Tomorrow, Losangeles on Thu 24 Sept.
+Michael Fam is a house and minimal artist based in United States of America, tracked on soundcheck, with 31 sets logged across Berlin and Los Angeles. Often billed alongside Ray Kash, Enzo Muro and Stefan Seay. Next up: Better Tomorrow, Los Angeles on Thu 24 Sept.
 
 ## Upcoming shows
 

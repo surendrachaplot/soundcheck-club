@@ -1,6 +1,6 @@
 # Mark Ernestus, Umfang / DJ Python, No Sir / Carl Luis at public records
 
-Mark Ernestus, Umfang / DJ Python, No Sir / Carl Luis at public records on Fri 25 Sept, Newyorkcity. 5 acts on the bill: Carl Luis, DJ Python, Mark Ernestus and No Sir and 1 more. Bass and Dub Techno. Preview the line-up and save it on soundcheck.
+Mark Ernestus, Umfang / DJ Python, No Sir / Carl Luis at public records on Fri 25 Sept, New York City. 5 artists on the bill: Carl Luis, DJ Python, Mark Ernestus and No Sir and 1 more. Bass and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

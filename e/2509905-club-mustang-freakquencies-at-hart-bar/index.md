@@ -1,6 +1,6 @@
 # Club Mustang: FREAKQUENCIES at Hart Bar
 
-Club Mustang: FREAKQUENCIES at Hart Bar on Sat 26 Sept, Newyorkcity. 4 acts on the bill: Actual Angel, boy_c0ded, Brutal Twink and esme2k. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Club Mustang: FREAKQUENCIES at Hart Bar on Sat 26 Sept, New York City. 4 artists on the bill: Actual Angel, boy_c0ded, Brutal Twink and esme2k. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

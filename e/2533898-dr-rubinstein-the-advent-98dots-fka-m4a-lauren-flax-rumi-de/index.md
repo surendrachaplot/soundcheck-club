@@ -1,6 +1,6 @@
 # Dr. Rubinstein / The Advent / 98dots / fka.m4a / Lauren Flax / Rumi de Baires at BASEMENT
 
-Dr. Rubinstein / The Advent / 98dots / fka.m4a / Lauren Flax / Rumi de Baires at BASEMENT on Sat 17 Oct, Newyorkcity. 6 acts on the bill: 98dots, Dr. Rubinstein, fka.m4a and Lauren Flax and 2 more. Preview the line-up and save it on soundcheck.
+Dr. Rubinstein / The Advent / 98dots / fka.m4a / Lauren Flax / Rumi de Baires at BASEMENT on Sat 17 Oct, New York City. 6 artists on the bill: 98dots, Dr. Rubinstein, fka.m4a and Lauren Flax and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

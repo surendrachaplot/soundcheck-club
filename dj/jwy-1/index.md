@@ -2,7 +2,7 @@
 
 JWY (1) is a Techno and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
-JWY (1) is a techno and baile funk artist based in Netherlands, tracked on soundcheck, with 100 sets logged across Belfast, Cork, Dublin and Galway and 2 more. Often billed alongside Lúnasa, Puzzy Wrangler and Roo Honeychild. Next up: Various Venues, London on Thu 24 Sept.
+JWY is a techno and baile funk artist based in Netherlands, tracked on soundcheck, with 100 sets logged across Belfast, Cork, Dublin and Galway and 2 more. Often billed alongside Lúnasa, Puzzy Wrangler and Roo Honeychild. Next up: Various Venues, London on Thu 24 Sept.
 
 ## Upcoming shows
 

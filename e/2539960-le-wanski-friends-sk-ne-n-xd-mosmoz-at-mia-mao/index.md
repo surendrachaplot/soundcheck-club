@@ -1,6 +1,6 @@
 # Le Wanski & Friends: Sköne, N-Xd, Mosmoz at Mia Mao
 
-Le Wanski & Friends: Sköne, N-Xd, Mosmoz at Mia Mao on Sat 7 Nov, Paris. 3 acts on the bill: Le Wanski, Night Owl and Sköne. Techno and Acid. Preview the line-up and save it on soundcheck.
+Le Wanski & Friends: Sköne, N-Xd, Mosmoz at Mia Mao on Sat 7 Nov, Paris. 3 artists on the bill: Le Wanski, Night Owl and Sköne. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Adam Auburn is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 27 Sept 2026.
 
-Adam Auburn is a house and tech house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Denver, Losangeles, Nashville and Sandiego. Often billed alongside DJ IDeaL, RCKSLVR and Armand Van Helden. Next up: Los Angeles State Historic Park, Losangeles on Sun 27 Sept.
+Adam Auburn is a house and tech house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Denver, Los Angeles, Nashville and San Diego. Often billed alongside DJ IDeaL, RCKSLVR and Armand Van Helden. Next up: Los Angeles State Historic Park, Los Angeles on Sun 27 Sept.
 
 ## Upcoming shows
 

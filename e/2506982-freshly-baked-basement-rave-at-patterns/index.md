@@ -1,6 +1,6 @@
 # Freshly Baked - Basement Rave at Patterns
 
-Freshly Baked - Basement Rave at Patterns on Fri 25 Sept, Brighton. 4 acts on the bill: INKY MCKAY, Ned Spencer (2), RACH! and STEADY. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
+Freshly Baked - Basement Rave at Patterns on Fri 25 Sept, Brighton. 4 artists on the bill: INKY MCKAY, Ned Spencer, RACH! and STEADY. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

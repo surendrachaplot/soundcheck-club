@@ -1,6 +1,6 @@
 # HYPERCLUB3.0 at TBA
 
-HYPERCLUB3.0 at TBA on Fri 25 Sept, Toronto. 6 acts on the bill: Ard1n, Chinelo, Chinnamasta and Litney and 2 more. Baile Funk and Ballroom. Preview the line-up and save it on soundcheck.
+HYPERCLUB3.0 at TBA on Fri 25 Sept, Toronto. 6 artists on the bill: Ard1n, Chinelo, Chinnamasta and Litney and 2 more. Baile Funk and Ballroom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

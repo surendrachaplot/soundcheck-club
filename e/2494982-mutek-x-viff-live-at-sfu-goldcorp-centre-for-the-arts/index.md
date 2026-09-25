@@ -1,6 +1,6 @@
 # MUTEK x VIFF Live at SFU Goldcorp Centre for the Arts
 
-MUTEK x VIFF Live at SFU Goldcorp Centre for the Arts on Fri 2 Oct, Vancouver. 3 acts on the bill: Dopplereffekt, Honeydrip and MIIIA. Electro and Dub. Preview the line-up and save it on soundcheck.
+MUTEK x VIFF Live at SFU Goldcorp Centre for the Arts on Fri 2 Oct, Vancouver. 3 artists on the bill: Dopplereffekt, Honeydrip and MIIIA. Electro and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

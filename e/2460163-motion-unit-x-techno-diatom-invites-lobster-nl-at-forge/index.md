@@ -1,6 +1,6 @@
 # Motion Unit x Techno Diatom - invites: Lobster (NL) at Forge
 
-Motion Unit x Techno Diatom - invites: Lobster (NL) at Forge on Sat 26 Sept, Bucharest. 3 acts on the bill: Lobster (NL), Michael Ius and Nedelcut. Techno. Preview the line-up and save it on soundcheck.
+Motion Unit x Techno Diatom - invites: Lobster (NL) at Forge on Sat 26 Sept, Bucharest. 3 artists on the bill: Lobster (NL), Michael Ius and Nedelcut. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

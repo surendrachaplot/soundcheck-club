@@ -2,7 +2,7 @@
 
 limbic sis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
 
-limbic sis is a house and techno artist based in Germany, tracked on soundcheck, with 64 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 12 more. Often billed alongside FRÆNZ:, DJ Eivissa and 0megavybe. Next up: H0L0, Newyorkcity on Sat 26 Sept.
+limbic sis is a house and techno artist based in Germany, tracked on soundcheck, with 64 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 12 more. Often billed alongside FRÆNZ:, DJ Eivissa and 0megavybe. Next up: H0L0, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

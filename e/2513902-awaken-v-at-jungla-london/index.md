@@ -1,6 +1,6 @@
 # AWAKEN V at Jungla London
 
-AWAKEN V at Jungla London on Fri 2 Oct, London. 4 acts on the bill: Arterapsy, Christian J, Elliot Moriarty and Harry Wilson. Progressive House. Preview the line-up and save it on soundcheck.
+AWAKEN V at Jungla London on Fri 2 Oct, London. 4 artists on the bill: Arterapsy, Christian J, Elliot Moriarty and Harry Wilson. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

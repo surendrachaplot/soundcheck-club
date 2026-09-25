@@ -1,6 +1,6 @@
 # A night at Studio 54 at TBA
 
-A night at Studio 54 at TBA on Sat 3 Oct, Newyorkcity. Disco and Club. Preview the line-up and save it on soundcheck.
+A night at Studio 54 at TBA on Sat 3 Oct, New York City. Disco and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mud x Boof x General Merchant at TBA
 
-Mud x Boof x General Merchant at TBA on Sat 26 Sept, Sydney. 4 acts on the bill: Dj Mistry, Paramat, The Rat and Wingnut. Techno and Bass. Preview the line-up and save it on soundcheck.
+Mud x Boof x General Merchant at TBA on Sat 26 Sept, Sydney. 4 artists on the bill: Dj Mistry, Paramat, The Rat and Wingnut. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

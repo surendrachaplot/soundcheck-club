@@ -1,6 +1,6 @@
 # Paint Records Open Air 02 at The Bernard Shaw
 
-Paint Records Open Air 02 at The Bernard Shaw on Sat 10 Oct, Dublin. 2 acts on the bill: Laughing Man and Pat Hyland. House and Minimal. Preview the line-up and save it on soundcheck.
+Paint Records Open Air 02 at The Bernard Shaw on Sat 10 Oct, Dublin. 2 artists on the bill: Laughing Man and Pat Hyland. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

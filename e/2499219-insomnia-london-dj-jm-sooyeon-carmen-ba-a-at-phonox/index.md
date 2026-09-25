@@ -1,6 +1,6 @@
 # Insomnia London: DJ JM, sooyeon, Carmen Baía at Phonox
 
-Insomnia London: DJ JM, sooyeon, Carmen Baía at Phonox on Thu 24 Sept, London. 3 acts on the bill: Carmen Baía, DJ JM and sooyeon. Preview the line-up and save it on soundcheck.
+Insomnia London: DJ JM, sooyeon, Carmen Baía at Phonox on Thu 24 Sept, London. 3 artists on the bill: Carmen Baía, DJ JM and sooyeon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Minkyu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Space Nodeul K, Seoul on Sun, 4 Oct 2026.
 
-Minkyu is a techno and house artist based in South Korea, tracked on soundcheck, with 42 sets logged across Bangkok, Barcelona, Hongkong and Seoul and 1 more. Often billed alongside Yoel, Antwork and Hakim.. Next up: Space Nodeul K, Seoul on Sun 4 Oct.
+Minkyu is a techno and house artist based in South Korea, tracked on soundcheck, with 42 sets logged across Bangkok, Barcelona, Hong Kong and Seoul and 1 more. Often billed alongside Yoel, Antwork and Hakim.. Next up: Space Nodeul K, Seoul on Sun 4 Oct.
 
 ## Upcoming shows
 

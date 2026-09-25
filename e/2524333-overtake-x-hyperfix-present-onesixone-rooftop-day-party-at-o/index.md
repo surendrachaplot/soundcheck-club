@@ -1,6 +1,6 @@
 # Overtake x Hyperfix present: OneSixOne Rooftop Day Party at OneSixOne
 
-Overtake x Hyperfix present: OneSixOne Rooftop Day Party on Sat 10 Oct, Melbourne. 1 act on the bill: EMCD. Electro and UK Funky. Preview the line-up and save it on soundcheck.
+Overtake x Hyperfix present: OneSixOne Rooftop Day Party on Sat 10 Oct, Melbourne. 1 artist on the bill: EMCD. Electro and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 808 Rendezvous presents: Pirate Radio, Kota Lano at Idle Mind Tavern
 
-808 Rendezvous presents: Pirate Radio, Kota Lano at Idle Mind Tavern on Sat 26 Sept, Newyorkcity. House. Preview the line-up and save it on soundcheck.
+808 Rendezvous presents: Pirate Radio, Kota Lano at Idle Mind Tavern on Sat 26 Sept, New York City. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Paradox Nexus: Tommy Gold - Thursdays at Gallery at Gallery
 
-Paradox Nexus: Tommy Gold - Thursdays at Gallery on Thu 15 Oct, London. 3 acts on the bill: On-Off, Rocco Han and Tommy Gold. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Paradox Nexus: Tommy Gold - Thursdays at Gallery on Thu 15 Oct, London. 3 artists on the bill: On-Off, Rocco Han and Tommy Gold. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

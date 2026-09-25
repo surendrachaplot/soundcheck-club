@@ -1,6 +1,6 @@
 # 240KM/H F2F Sydney: Serafina All Day Long at The Ivy
 
-240KM/H F2F Sydney: Serafina All Day Long at The Ivy on Sat 26 Sept, Sydney. 1 act on the bill: Serafina. Trance and Techno. Preview the line-up and save it on soundcheck.
+240KM/H F2F Sydney: Serafina All Day Long at The Ivy on Sat 26 Sept, Sydney. 1 artist on the bill: Serafina. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

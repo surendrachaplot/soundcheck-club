@@ -1,6 +1,6 @@
 # Galactica at ADE Amsterdam with Luca Agnelli, SANTØS, Gianni Di Bernardo, Mattia Trani at TBA - Amsterdam Central Station 
 
-Galactica at ADE Amsterdam with Luca Agnelli, SANTØS, Gianni Di Bernardo, Mattia Trani at TBA - Amsterdam Central Station  on Fri 23 Oct, Amsterdam. 6 acts on the bill: Gianni Di Bernardo, Luca Agnelli, Mattia Trani and SANEM and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Galactica at ADE Amsterdam with Luca Agnelli, SANTØS, Gianni Di Bernardo, Mattia Trani at TBA - Amsterdam Central Station  on Fri 23 Oct, Amsterdam. 6 artists on the bill: Gianni Di Bernardo, Luca Agnelli, Mattia Trani and SANEM and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

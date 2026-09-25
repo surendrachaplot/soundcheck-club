@@ -1,6 +1,6 @@
 # VANTEK: DVS1  Zenker Brothers at TBA
 
-VANTEK: DVS1  Zenker Brothers at TBA on Sun 11 Oct, Vancouver. 3 acts on the bill: DK PAU, DVS1 and Zenker Brothers. Techno. Preview the line-up and save it on soundcheck.
+VANTEK: DVS1  Zenker Brothers at TBA on Sun 11 Oct, Vancouver. 3 artists on the bill: DK PAU, DVS1 and Zenker Brothers. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

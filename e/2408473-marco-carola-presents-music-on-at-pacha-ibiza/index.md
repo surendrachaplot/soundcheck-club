@@ -1,6 +1,6 @@
 # Marco Carola PRESENTS MUSIC ON at Pacha Ibiza
 
-Marco Carola PRESENTS MUSIC ON at Pacha Ibiza on Fri 2 Oct, Ibiza. 4 acts on the bill: Adriatique, II FACES, Marco Carola and Mita Gami. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Marco Carola PRESENTS MUSIC ON at Pacha Ibiza on Fri 2 Oct, Ibiza. 4 artists on the bill: Adriatique, II FACES, Marco Carola and Mita Gami. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

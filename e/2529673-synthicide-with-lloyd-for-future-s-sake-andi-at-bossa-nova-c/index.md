@@ -1,6 +1,6 @@
 # Synthicide with Lloyd, For Future's Sake, Andi at Bossa Nova Civic Club
 
-Synthicide with Lloyd, For Future's Sake, Andi at Bossa Nova Civic Club on Thu 1 Oct, Newyorkcity. 3 acts on the bill: Andi, For Future's Sake and Lloydski. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Synthicide with Lloyd, For Future's Sake, Andi at Bossa Nova Civic Club on Thu 1 Oct, New York City. 3 artists on the bill: Andi, For Future's Sake and Lloydski. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

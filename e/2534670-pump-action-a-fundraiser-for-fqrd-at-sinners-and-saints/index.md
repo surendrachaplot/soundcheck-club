@@ -1,6 +1,6 @@
 # PUMP ACTION: A FUNDRAISER FOR FQRD at Sinners and Saints
 
-PUMP ACTION: A FUNDRAISER FOR FQRD at Sinners and Saints on Fri 25 Sept, Washingtondc. 5 acts on the bill: brailyn.bitch, Hissyfit, ILUSM and SELENE (3) and 1 more. Hardcore and Club. Preview the line-up and save it on soundcheck.
+PUMP ACTION: A FUNDRAISER FOR FQRD at Sinners and Saints on Fri 25 Sept, Washington DC. 5 artists on the bill: brailyn.bitch, Hissyfit, ILUSM and SELENE and 1 more. Hardcore and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

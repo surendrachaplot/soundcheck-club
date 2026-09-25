@@ -1,6 +1,6 @@
 # I6 Curated Night: TOO HARD TO HANDLE at Ximxim Bar
 
-I6 Curated Night: TOO HARD TO HANDLE at Ximxim Bar on Sat 26 Sept, Seoul. 2 acts on the bill: AM (8) and PM. Techno and Hard Drum. Preview the line-up and save it on soundcheck.
+I6 Curated Night: TOO HARD TO HANDLE at Ximxim Bar on Sat 26 Sept, Seoul. 2 artists on the bill: AM and PM. Techno and Hard Drum. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

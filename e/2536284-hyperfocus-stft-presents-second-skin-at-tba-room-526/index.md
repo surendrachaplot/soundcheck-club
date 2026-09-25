@@ -1,6 +1,6 @@
 # HYPERFOCUS & STFT presents: SECOND SKIN at TBA - ROOM 526
 
-HYPERFOCUS & STFT presents: SECOND SKIN at TBA - ROOM 526 on Sat 26 Sept, Singapore. 3 acts on the bill: AETLL, beansclub and Matty Judah. Experimental and Club. Preview the line-up and save it on soundcheck.
+HYPERFOCUS & STFT presents: SECOND SKIN at TBA - ROOM 526 on Sat 26 Sept, Singapore. 3 artists on the bill: AETLL, beansclub and Matty Judah. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

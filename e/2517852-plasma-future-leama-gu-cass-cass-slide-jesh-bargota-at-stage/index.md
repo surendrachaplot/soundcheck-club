@@ -1,6 +1,6 @@
 # Plasma Future - Leama (GU) , Cass (Cass&Slide), Jesh Bargota at Stage and Radio
 
-Plasma Future - Leama (GU) , Cass (Cass&Slide), Jesh Bargota at Stage and Radio on Sat 21 Nov, Manchester. 2 acts on the bill: Cass and Leama. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Plasma Future - Leama (GU) , Cass (Cass&Slide), Jesh Bargota at Stage and Radio on Sat 21 Nov, Manchester. 2 artists on the bill: Cass and Leama. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

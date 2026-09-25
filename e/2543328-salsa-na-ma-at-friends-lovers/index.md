@@ -1,6 +1,6 @@
 # Salsa Na'Ma at Friends & Lovers
 
-Salsa Na'Ma at Friends & Lovers on Sun 27 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+Salsa Na'Ma at Friends & Lovers on Sun 27 Sept, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

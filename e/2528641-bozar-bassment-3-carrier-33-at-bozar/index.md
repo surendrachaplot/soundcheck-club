@@ -1,6 +1,6 @@
 # Bozar Bassment #3: Carrier - 33 at Bozar
 
-Bozar Bassment #3: Carrier - 33 on Thu 17 Dec, Brussels. 1 act on the bill: Carrier (Aus). Electro and Experimental. Preview the line-up and save it on soundcheck.
+Bozar Bassment #3: Carrier - 33 on Thu 17 Dec, Brussels. 1 artist on the bill: Carrier (Aus). Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

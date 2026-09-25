@@ -1,6 +1,6 @@
 # Juiced 2nd Birthday with dj sweet6teen + James Worker at Cobalt Studios
 
-Juiced 2nd Birthday with dj sweet6teen + James Worker at Cobalt Studios on Fri 20 Nov, Newcastle. 2 acts on the bill: dj sweet6teen and James Worker. Tech House and Electro. Preview the line-up and save it on soundcheck.
+Juiced 2nd Birthday with dj sweet6teen + James Worker at Cobalt Studios on Fri 20 Nov, Newcastle. 2 artists on the bill: dj sweet6teen and James Worker. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Born on Road - Leeds at Beaver Works
 
-Born on Road - Leeds at Beaver Works on Sat 10 Oct, Leeds. 1 act on the bill: Kelvin 373. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Born on Road - Leeds at Beaver Works on Sat 10 Oct, Leeds. 1 artist on the bill: Kelvin 373. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

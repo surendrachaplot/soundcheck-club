@@ -1,6 +1,6 @@
 # Nü Androids presents: Prospa at A.i Warehouse
 
-Nü Androids presents: Prospa at A.i Warehouse on Fri 30 Oct, Washingtondc. 1 act on the bill: Prospa. House and Tech House. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Prospa at A.i Warehouse on Fri 30 Oct, Washington DC. 1 artist on the bill: Prospa. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

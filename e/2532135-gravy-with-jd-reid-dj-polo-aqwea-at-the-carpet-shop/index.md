@@ -1,6 +1,6 @@
 # GRAVY* with JD REID, DJ Polo & Aqwea at The Carpet Shop
 
-GRAVY* with JD REID, DJ Polo & Aqwea at The Carpet Shop on Fri 9 Oct, London. 3 acts on the bill: Aqwea, DJ Polo and JD. REID. Preview the line-up and save it on soundcheck.
+GRAVY* with JD REID, DJ Polo & Aqwea at The Carpet Shop on Fri 9 Oct, London. 3 artists on the bill: Aqwea, DJ Polo and JD. REID. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # That 90s night - 90s techno, trance, eurodance in 3 floors at Slakthuset
 
-That 90s night - 90s techno, trance, eurodance in 3 floors at Slakthuset on Sat 10 Oct, Stockholm. 1 act on the bill: Mira Iranpour. Trance and Techno. Preview the line-up and save it on soundcheck.
+That 90s night - 90s techno, trance, eurodance in 3 floors at Slakthuset on Sat 10 Oct, Stockholm. 1 artist on the bill: Mira Iranpour. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

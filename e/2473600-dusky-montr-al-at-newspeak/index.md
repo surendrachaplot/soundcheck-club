@@ -1,6 +1,6 @@
 # Dusky - Montréal at Newspeak
 
-Dusky - Montréal at Newspeak on Sat 3 Oct, Montreal. 1 act on the bill: Dusky. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Dusky - Montréal at Newspeak on Sat 3 Oct, Montreal. 1 artist on the bill: Dusky. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

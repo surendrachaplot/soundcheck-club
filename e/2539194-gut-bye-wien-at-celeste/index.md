@@ -1,6 +1,6 @@
 # Gut Bye Wien at Celeste
 
-Gut Bye Wien at Celeste on Fri 9 Oct, Vienna. 2 acts on the bill: schereph and Schminz. House and Pop. Preview the line-up and save it on soundcheck.
+Gut Bye Wien at Celeste on Fri 9 Oct, Vienna. 2 artists on the bill: schereph and Schminz. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

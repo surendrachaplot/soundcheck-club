@@ -1,6 +1,6 @@
 # James Massiah (UK) at In The Hanging Garden
 
-James Massiah (UK) at In The Hanging Garden on Sat 26 Sept, Hobart. 1 act on the bill: James Massiah. House and Electro. Preview the line-up and save it on soundcheck.
+James Massiah (UK) at In The Hanging Garden on Sat 26 Sept, Hobart. 1 artist on the bill: James Massiah. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

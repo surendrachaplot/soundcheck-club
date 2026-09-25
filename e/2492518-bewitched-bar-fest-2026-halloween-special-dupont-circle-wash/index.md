@@ -1,6 +1,6 @@
 # Bewitched Bar Fest 2026 - Halloween Special • Dupont Circle, Washington DC at City Tap House Dupont
 
-Bewitched Bar Fest 2026 - Halloween Special • Dupont Circle, Washington DC at City Tap House Dupont on Sat 31 Oct, Washingtondc. Pop and Club. Preview the line-up and save it on soundcheck.
+Bewitched Bar Fest 2026 - Halloween Special • Dupont Circle, Washington DC at City Tap House Dupont on Sat 31 Oct, Washington DC. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

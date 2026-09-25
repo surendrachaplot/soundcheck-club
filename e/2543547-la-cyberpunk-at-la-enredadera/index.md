@@ -1,6 +1,6 @@
 # La Cyberpunk at La Enredadera
 
-La Cyberpunk at La Enredadera on Fri 2 Oct, Madrid. 2 acts on the bill: Denso and Valleyk. Club and Electronica. Preview the line-up and save it on soundcheck.
+La Cyberpunk at La Enredadera on Fri 2 Oct, Madrid. 2 artists on the bill: Denso and Valleyk. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

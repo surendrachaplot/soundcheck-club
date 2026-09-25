@@ -1,6 +1,6 @@
 # Grave Rave at Detroit Shipping Company
 
-Grave Rave at Detroit Shipping Company on Sat 31 Oct, Detroit. 2 acts on the bill: DJ STAKXX and Koldieelocx. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Grave Rave at Detroit Shipping Company on Sat 31 Oct, Detroit. 2 artists on the bill: DJ STAKXX and Koldieelocx. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

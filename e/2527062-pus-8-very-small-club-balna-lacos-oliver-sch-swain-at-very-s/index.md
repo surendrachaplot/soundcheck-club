@@ -1,6 +1,6 @@
 # Øpus 8 // Very Small Club // Balna, Lacos, Oliver SCH, Swain at Very Small Club
 
-Øpus 8 // Very Small Club // Balna, Lacos, Oliver SCH, Swain on Fri 25 Sept, Budapest. 2 acts on the bill: Oliver SCH and Swain. Techno. Preview the line-up and save it on soundcheck.
+Øpus 8 // Very Small Club // Balna, Lacos, Oliver SCH, Swain on Fri 25 Sept, Budapest. 2 artists on the bill: Oliver SCH and Swain. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

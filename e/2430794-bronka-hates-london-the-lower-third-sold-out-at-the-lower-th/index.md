@@ -1,6 +1,6 @@
 # BRONKA HATES LONDON - The Lower Third (SOLD OUT) at The Lower Third
 
-BRONKA HATES LONDON - The Lower Third (SOLD OUT) on Sat 17 Oct, London. 1 act on the bill: Bronka. Preview the line-up and save it on soundcheck.
+BRONKA HATES LONDON - The Lower Third (SOLD OUT) on Sat 17 Oct, London. 1 artist on the bill: Bronka. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

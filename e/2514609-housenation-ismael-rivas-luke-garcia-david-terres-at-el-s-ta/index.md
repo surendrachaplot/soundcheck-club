@@ -1,6 +1,6 @@
 # HOUSENATION: Ismael Rivas, Luke Garcia, David Terres at EL SÓTANO
 
-HOUSENATION: Ismael Rivas, Luke Garcia, David Terres at EL SÓTANO on Sat 26 Sept, Madrid. 2 acts on the bill: Ismael Rivas and Luke Garcia. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+HOUSENATION: Ismael Rivas, Luke Garcia, David Terres at EL SÓTANO on Sat 26 Sept, Madrid. 2 artists on the bill: Ismael Rivas and Luke Garcia. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

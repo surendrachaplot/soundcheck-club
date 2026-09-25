@@ -1,6 +1,6 @@
 # Subios Records Showcase at Fundbureau
 
-Subios Records Showcase at Fundbureau on Fri 25 Sept, Hamburg. 3 acts on the bill: APHE (2), Muttiah Ashnim and TiM TASTE. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Subios Records Showcase at Fundbureau on Fri 25 Sept, Hamburg. 3 artists on the bill: APHE, Muttiah Ashnim and TiM TASTE. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

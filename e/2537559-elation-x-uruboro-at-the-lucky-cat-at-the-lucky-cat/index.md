@@ -1,6 +1,6 @@
 # Elation x URUBORO at The Lucky Cat at The Lucky Cat
 
-Elation x URUBORO at The Lucky Cat on Sun 4 Oct, Sydney. 3 acts on the bill: Aidan Sweeney, BRAD WATTS and SOHAIL. House and Tech House. Preview the line-up and save it on soundcheck.
+Elation x URUBORO at The Lucky Cat on Sun 4 Oct, Sydney. 3 artists on the bill: Aidan Sweeney, BRAD WATTS and SOHAIL. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

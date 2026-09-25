@@ -1,6 +1,6 @@
 # KULT Season V Opening: Kamma & Masalo at Kult
 
-KULT Season V Opening: Kamma & Masalo at Kult on Sat 26 Sept, Belgrade. 4 acts on the bill: AKIOKI, Kamma, Masalo and MEILANI. House. Preview the line-up and save it on soundcheck.
+KULT Season V Opening: Kamma & Masalo at Kult on Sat 26 Sept, Belgrade. 4 artists on the bill: AKIOKI, Kamma, Masalo and MEILANI. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

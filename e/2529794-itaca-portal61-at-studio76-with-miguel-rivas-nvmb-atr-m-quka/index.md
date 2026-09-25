@@ -1,6 +1,6 @@
 # ITACA & PORTAL61 at STUDIO76 with Miguel Rivas, NVMB, Atrâm, Quka, KSAL many artist at TBA - Powered by: Void Acoustics
 
-ITACA & PORTAL61 at STUDIO76 with Miguel Rivas, NVMB, Atrâm, Quka, KSAL many artist at TBA - Powered by: Void Acoustics on Fri 25 Sept, Madrid. 6 acts on the bill: Atrâm, KSAL, Miguel Rivas and NVMB and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+ITACA & PORTAL61 at STUDIO76 with Miguel Rivas, NVMB, Atrâm, Quka, KSAL many artist at TBA - Powered by: Void Acoustics on Fri 25 Sept, Madrid. 6 artists on the bill: Atrâm, KSAL, Miguel Rivas and NVMB and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

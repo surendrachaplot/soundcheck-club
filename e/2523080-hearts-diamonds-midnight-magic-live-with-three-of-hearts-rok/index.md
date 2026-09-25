@@ -1,6 +1,6 @@
 # Hearts & Diamonds: Midnight Magic [Live] with Three of Hearts [Rok One, Andi, Danny White] at public records
 
-Hearts & Diamonds: Midnight Magic [Live] with Three of Hearts [Rok One, Andi, Danny White] at public records on Thu 8 Oct, Newyorkcity. 3 acts on the bill: Andi, Danny White and Midnight Magic. Preview the line-up and save it on soundcheck.
+Hearts & Diamonds: Midnight Magic [Live] with Three of Hearts [Rok One, Andi, Danny White] at public records on Thu 8 Oct, New York City. 3 artists on the bill: Andi, Danny White and Midnight Magic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

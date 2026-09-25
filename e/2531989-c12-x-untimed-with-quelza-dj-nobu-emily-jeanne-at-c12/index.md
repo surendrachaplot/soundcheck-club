@@ -1,6 +1,6 @@
 # C12 x UNTIMED with Quelza, DJ Nobu, Emily Jeanne at C12
 
-C12 x UNTIMED with Quelza, DJ Nobu, Emily Jeanne on Fri 9 Oct, Brussels. 3 acts on the bill: DJ Nobu, Emily Jeanne and Quelza. Techno. Preview the line-up and save it on soundcheck.
+C12 x UNTIMED with Quelza, DJ Nobu, Emily Jeanne on Fri 9 Oct, Brussels. 3 artists on the bill: DJ Nobu, Emily Jeanne and Quelza. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

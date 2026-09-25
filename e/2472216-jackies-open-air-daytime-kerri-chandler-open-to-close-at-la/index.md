@@ -1,6 +1,6 @@
 # Jackies Open Air Daytime - Kerri Chandler (Open To Close) at La Terrrazza
 
-Jackies Open Air Daytime - Kerri Chandler (Open To Close) at La Terrrazza on Sat 10 Oct, Barcelona. 1 act on the bill: Kerri Chandler. House. Preview the line-up and save it on soundcheck.
+Jackies Open Air Daytime - Kerri Chandler (Open To Close) at La Terrrazza on Sat 10 Oct, Barcelona. 1 artist on the bill: Kerri Chandler. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

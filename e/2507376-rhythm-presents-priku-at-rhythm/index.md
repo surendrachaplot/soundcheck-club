@@ -1,6 +1,6 @@
 # Rhythm presents: Priku at Rhythm
 
-Rhythm presents: Priku on Sat 10 Oct, Toronto. 2 acts on the bill: Hair Gel and Priku. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Rhythm presents: Priku on Sat 10 Oct, Toronto. 2 artists on the bill: Hair Gel and Priku. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

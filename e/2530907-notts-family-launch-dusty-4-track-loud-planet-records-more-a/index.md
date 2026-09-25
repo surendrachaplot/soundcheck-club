@@ -1,6 +1,6 @@
 # Notts Family Launch - Dusty 4 Track - Loud Planet Records & More at Arc Space
 
-Notts Family Launch - Dusty 4 Track - Loud Planet Records & More at Arc Space on Sat 17 Oct, Nottingham. 1 act on the bill: Jimmy Rocket. Hip-Hop and EBM. Preview the line-up and save it on soundcheck.
+Notts Family Launch - Dusty 4 Track - Loud Planet Records & More at Arc Space on Sat 17 Oct, Nottingham. 1 artist on the bill: Jimmy Rocket. Hip-Hop and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

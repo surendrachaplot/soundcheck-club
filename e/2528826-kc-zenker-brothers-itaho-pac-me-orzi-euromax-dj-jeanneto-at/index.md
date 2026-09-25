@@ -1,6 +1,6 @@
 # KC [Zenker Brothers • Itaho & Pacôme Orzi • EUROMAX DJ • JeanneTo] at Karmen Camina
 
-KC [Zenker Brothers • Itaho & Pacôme Orzi • EUROMAX DJ • JeanneTo] at Karmen Camina on Sat 26 Sept, Strasbourg. 6 acts on the bill: Dario Zenker, EUROMAX DJ, Itaho and Marco Zenker and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+KC [Zenker Brothers • Itaho & Pacôme Orzi • EUROMAX DJ • JeanneTo] at Karmen Camina on Sat 26 Sept, Strasbourg. 6 artists on the bill: Dario Zenker, EUROMAX DJ, Itaho and Marco Zenker and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

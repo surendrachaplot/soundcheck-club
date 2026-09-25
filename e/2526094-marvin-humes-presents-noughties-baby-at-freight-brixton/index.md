@@ -1,6 +1,6 @@
 # Marvin Humes presents Noughties Baby at Freight Brixton
 
-Marvin Humes presents Noughties Baby at Freight Brixton on Sat 7 Nov, London. 1 act on the bill: Marvin Humes. Disco and Club. Preview the line-up and save it on soundcheck.
+Marvin Humes presents Noughties Baby at Freight Brixton on Sat 7 Nov, London. 1 artist on the bill: Marvin Humes. Disco and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

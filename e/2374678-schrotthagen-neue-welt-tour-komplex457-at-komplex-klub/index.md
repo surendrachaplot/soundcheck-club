@@ -1,6 +1,6 @@
 # Schrotthagen Neue Welt Tour @Komplex457 at Komplex Klub
 
-Schrotthagen Neue Welt Tour @Komplex457 at Komplex Klub on Fri 9 Oct, Zurich. 1 act on the bill: Schrotthagen. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Schrotthagen Neue Welt Tour @Komplex457 at Komplex Klub on Fri 9 Oct, Zurich. 1 artist on the bill: Schrotthagen. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

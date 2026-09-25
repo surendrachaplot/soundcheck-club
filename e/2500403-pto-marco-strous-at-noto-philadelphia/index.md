@@ -1,6 +1,6 @@
 # PTO: Marco Strous at Noto Philadelphia
 
-PTO: Marco Strous at Noto Philadelphia on Thu 1 Oct, Philadelphia. 2 acts on the bill: Marco Strous and Oscar N (US). Tech House. Preview the line-up and save it on soundcheck.
+PTO: Marco Strous at Noto Philadelphia on Thu 1 Oct, Philadelphia. 2 artists on the bill: Marco Strous and Oscar N (US). Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 77: Vanco at 77
 
-77: Vanco on Sat 26 Sept, London. 4 acts on the bill: BADBOX, CLEIDO, Nicky Summers and Vanco. Afro House. Preview the line-up and save it on soundcheck.
+77: Vanco on Sat 26 Sept, London. 4 artists on the bill: BADBOX, CLEIDO, Nicky Summers and Vanco. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ricardo Villalobos at Coda
 
-Ricardo Villalobos at Coda on Fri 25 Sept, Toronto. 1 act on the bill: Ricardo Villalobos. Preview the line-up and save it on soundcheck.
+Ricardo Villalobos at Coda on Fri 25 Sept, Toronto. 1 artist on the bill: Ricardo Villalobos. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

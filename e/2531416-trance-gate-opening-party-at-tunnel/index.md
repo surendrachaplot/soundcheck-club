@@ -1,6 +1,6 @@
 # TRANCE GATE – OPENING PARTY at Tunnel
 
-TRANCE GATE – OPENING PARTY at Tunnel on Sat 3 Oct, Milan. 1 act on the bill: Andrew Rayel. Trance. Preview the line-up and save it on soundcheck.
+TRANCE GATE – OPENING PARTY at Tunnel on Sat 3 Oct, Milan. 1 artist on the bill: Andrew Rayel. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Surgeon, Talismann, Polly F at CLUB RAUM
 
-Surgeon, Talismann, Polly F at CLUB RAUM on Sat 10 Oct, Amsterdam. 3 acts on the bill: Polly F, Surgeon and Talismann. Preview the line-up and save it on soundcheck.
+Surgeon, Talismann, Polly F at CLUB RAUM on Sat 10 Oct, Amsterdam. 3 artists on the bill: Polly F, Surgeon and Talismann. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

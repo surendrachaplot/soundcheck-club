@@ -2,7 +2,7 @@
 
 La Cité Fertile is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "OLYMPE4000'S SASSY FRIENDS " on Sat, 26 Sept 2026.
 
-La Cité Fertile is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Alycia Bezgo, DJ Jee, dj volta (2) and Frederic. and 2 more. Browse upcoming dates, start times and who's playing. 14 avenue Edouard Vaillant, 93500 Pantin.
+La Cité Fertile is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Alycia Bezgo, DJ Jee, dj volta and Frederic. and 2 more. Browse upcoming dates, start times and who's playing. 14 avenue Edouard Vaillant, 93500 Pantin.
 
 ## What's on
 

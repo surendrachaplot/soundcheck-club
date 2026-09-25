@@ -1,6 +1,6 @@
 # MUV — Live Music, Jam & Afterparty at Marula Cafe
 
-MUV — Live Music, Jam & Afterparty at Marula Cafe on Mon 2 Nov, Barcelona. 2 acts on the bill: Brian Alt and YULIE. Funk / Soul and Afrobeat. Preview the line-up and save it on soundcheck.
+MUV — Live Music, Jam & Afterparty at Marula Cafe on Mon 2 Nov, Barcelona. 2 artists on the bill: Brian Alt and YULIE. Funk / Soul and Afrobeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

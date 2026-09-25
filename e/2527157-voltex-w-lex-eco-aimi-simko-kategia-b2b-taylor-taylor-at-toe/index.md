@@ -1,6 +1,6 @@
 # VOLTEX w/ Lex Eco, Aimi, Simko, Kategia b2b Taylor Taylor at Toekomstmuziek
 
-VOLTEX w/ Lex Eco, Aimi, Simko, Kategia b2b Taylor Taylor at Toekomstmuziek on Fri 9 Oct, Amsterdam. 2 acts on the bill: Lex Eco and Taylor Taylor. Electro and Acid. Preview the line-up and save it on soundcheck.
+VOLTEX w/ Lex Eco, Aimi, Simko, Kategia b2b Taylor Taylor at Toekomstmuziek on Fri 9 Oct, Amsterdam. 2 artists on the bill: Lex Eco and Taylor Taylor. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

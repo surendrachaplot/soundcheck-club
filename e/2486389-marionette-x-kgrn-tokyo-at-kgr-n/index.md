@@ -1,6 +1,6 @@
 # Marionette x KGRn TOKYO at KGR(n)
 
-Marionette x KGRn TOKYO at KGR(n) on Fri 2 Oct, Tokyo. 4 acts on the bill: C-KAY, Compuma, Grimwig and Moli (3). Experimental and Drone. Preview the line-up and save it on soundcheck.
+Marionette x KGRn TOKYO at KGR(n) on Fri 2 Oct, Tokyo. 4 artists on the bill: C-KAY, Compuma, Grimwig and Moli. Experimental and Drone. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

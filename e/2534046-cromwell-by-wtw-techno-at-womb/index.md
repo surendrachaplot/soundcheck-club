@@ -1,6 +1,6 @@
 # Cromwell by WTW (TECHNO) at WOMB
 
-Cromwell by WTW (TECHNO) at WOMB on Thu 8 Oct, Tokyo. 4 acts on the bill: LiaRako, the2$, Toki Fuko and UG (1). Techno. Preview the line-up and save it on soundcheck.
+Cromwell by WTW (TECHNO) at WOMB on Thu 8 Oct, Tokyo. 4 artists on the bill: LiaRako, the2$, Toki Fuko and UG. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

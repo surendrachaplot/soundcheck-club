@@ -1,6 +1,6 @@
 # CHAMOS Toronto 2026 at The Pearl
 
-CHAMOS Toronto 2026 at The Pearl on Sat 24 Oct, Toronto. 2 acts on the bill: Bardia Ghobadi and CHAMOS. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+CHAMOS Toronto 2026 at The Pearl on Sat 24 Oct, Toronto. 2 artists on the bill: Bardia Ghobadi and CHAMOS. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

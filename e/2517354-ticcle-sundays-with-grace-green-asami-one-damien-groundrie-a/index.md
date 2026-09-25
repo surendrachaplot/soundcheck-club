@@ -1,6 +1,6 @@
 # ticcle sundays with Grace Green, Asami One, Damien Groundrie at Ticcle
 
-ticcle sundays with Grace Green, Asami One, Damien Groundrie at Ticcle on Sun 27 Sept, Hobart. 1 act on the bill: Damien Goundrie. Preview the line-up and save it on soundcheck.
+ticcle sundays with Grace Green, Asami One, Damien Groundrie at Ticcle on Sun 27 Sept, Hobart. 1 artist on the bill: Damien Goundrie. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

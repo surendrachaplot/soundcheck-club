@@ -1,6 +1,6 @@
 # House Rules at F8 1192 Folsom
 
-House Rules at F8 1192 Folsom on Thu 24 Sept, Sanfrancisco. 2 acts on the bill: DevilDoll and DJ KIRILL. House and Tech House. Preview the line-up and save it on soundcheck.
+House Rules at F8 1192 Folsom on Thu 24 Sept, San Francisco/Oakland. 2 artists on the bill: DevilDoll and DJ KIRILL. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

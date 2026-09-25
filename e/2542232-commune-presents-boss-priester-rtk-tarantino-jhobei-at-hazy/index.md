@@ -1,6 +1,6 @@
 # Commune Presents: Boss Priester, RTK Tarantino & Jhobei at Hazy Club
 
-Commune Presents: Boss Priester, RTK Tarantino & Jhobei at Hazy Club on Sat 10 Oct, Sheffield. 3 acts on the bill: Boss Priester, Jhobei and RTK Tarantino. Preview the line-up and save it on soundcheck.
+Commune Presents: Boss Priester, RTK Tarantino & Jhobei at Hazy Club on Sat 10 Oct, Sheffield. 3 artists on the bill: Boss Priester, Jhobei and RTK Tarantino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

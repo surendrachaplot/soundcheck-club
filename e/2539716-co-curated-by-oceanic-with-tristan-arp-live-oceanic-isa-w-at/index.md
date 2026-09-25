@@ -1,6 +1,6 @@
 # co-curated by Oceanic with Tristan Arp (live), Oceanic, ISA W at Garage Noord
 
-co-curated by Oceanic with Tristan Arp (live), Oceanic, ISA W at Garage Noord on Fri 30 Oct, Amsterdam. 3 acts on the bill: ISA W, Oceanic and Tristan Arp. Preview the line-up and save it on soundcheck.
+co-curated by Oceanic with Tristan Arp (live), Oceanic, ISA W at Garage Noord on Fri 30 Oct, Amsterdam. 3 artists on the bill: ISA W, Oceanic and Tristan Arp. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

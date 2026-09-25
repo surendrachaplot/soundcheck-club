@@ -1,6 +1,6 @@
 # 10SERIES by Shelter - Hidde van Wee (all night long) at Shelter Amsterdam
 
-10SERIES by Shelter - Hidde van Wee (all night long) at Shelter Amsterdam on Fri 25 Sept, Amsterdam. 2 acts on the bill: Hidde van Wee and zondagskind. House. Preview the line-up and save it on soundcheck.
+10SERIES by Shelter - Hidde van Wee (all night long) at Shelter Amsterdam on Fri 25 Sept, Amsterdam. 2 artists on the bill: Hidde van Wee and zondagskind. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

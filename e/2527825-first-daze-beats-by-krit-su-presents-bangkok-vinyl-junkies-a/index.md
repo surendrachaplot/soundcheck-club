@@ -1,6 +1,6 @@
 # FIRST DAZE BEATS by Krit Su presents Bangkok Vinyl Junkies All Star at Culture Cafe
 
-FIRST DAZE BEATS by Krit Su presents Bangkok Vinyl Junkies All Star at Culture Cafe on Thu 1 Oct, Bangkok. 1 act on the bill: Krit Su. Techno and House. Preview the line-up and save it on soundcheck.
+FIRST DAZE BEATS by Krit Su presents Bangkok Vinyl Junkies All Star at Culture Cafe on Thu 1 Oct, Bangkok. 1 artist on the bill: Krit Su. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

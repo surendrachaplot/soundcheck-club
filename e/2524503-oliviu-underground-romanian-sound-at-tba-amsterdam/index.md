@@ -1,6 +1,6 @@
 # Oliviu (underground romanian sound) at TBA - Amsterdam
 
-Oliviu (underground romanian sound) at TBA - Amsterdam on Sat 26 Sept, Amsterdam. 1 act on the bill: Oliviu. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Oliviu (underground romanian sound) at TBA - Amsterdam on Sat 26 Sept, Amsterdam. 1 artist on the bill: Oliviu. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

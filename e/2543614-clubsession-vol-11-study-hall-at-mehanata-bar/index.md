@@ -1,6 +1,6 @@
 # CLUBSESSION VOL. 11: STUDY HALL at Mehanata Bar
 
-CLUBSESSION VOL. 11: STUDY HALL at Mehanata Bar on Thu 24 Sept, Newyorkcity. 1 act on the bill: MAXWELL HöUSE. Drum & Bass and Electro. Preview the line-up and save it on soundcheck.
+CLUBSESSION VOL. 11: STUDY HALL at Mehanata Bar on Thu 24 Sept, New York City. 1 artist on the bill: MAXWELL HöUSE. Drum & Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

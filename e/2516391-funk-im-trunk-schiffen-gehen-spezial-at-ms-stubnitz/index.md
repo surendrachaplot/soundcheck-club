@@ -1,6 +1,6 @@
 # Funk im Trunk - Schiffen gehen Spezial at MS Stubnitz
 
-Funk im Trunk - Schiffen gehen Spezial at MS Stubnitz on Fri 25 Sept, Hamburg. 4 acts on the bill: CHEWCHEW, Jana Falcon, Ludwig Mausberg and Max Gyver. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Funk im Trunk - Schiffen gehen Spezial at MS Stubnitz on Fri 25 Sept, Hamburg. 4 artists on the bill: CHEWCHEW, Jana Falcon, Ludwig Mausberg and Max Gyver. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

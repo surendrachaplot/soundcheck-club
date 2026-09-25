@@ -1,6 +1,6 @@
 # Jazz'N'Bass -Jazzy Liquid & Deep Drum'n'Bass at Aoyama Hachi
 
-Jazz'N'Bass -Jazzy Liquid & Deep Drum'n'Bass at Aoyama Hachi on Sun 8 Nov, Tokyo. 2 acts on the bill: Kenta Tominaga and vinylDJ Eiji Takehana. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Jazz'N'Bass -Jazzy Liquid & Deep Drum'n'Bass at Aoyama Hachi on Sun 8 Nov, Tokyo. 2 artists on the bill: Kenta Tominaga and vinylDJ Eiji Takehana. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

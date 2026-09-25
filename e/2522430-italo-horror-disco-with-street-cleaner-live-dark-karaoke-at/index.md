@@ -1,6 +1,6 @@
 # Italo Horror Disco with Street Cleaner LIVE & Dark Karaoke at Blue Goose Lounge
 
-Italo Horror Disco with Street Cleaner LIVE & Dark Karaoke at Blue Goose Lounge on Sat 3 Oct, Losangeles. Industrial and Italo Disco. Preview the line-up and save it on soundcheck.
+Italo Horror Disco with Street Cleaner LIVE & Dark Karaoke at Blue Goose Lounge on Sat 3 Oct, Los Angeles. Industrial and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

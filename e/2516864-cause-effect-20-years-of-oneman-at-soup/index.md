@@ -1,6 +1,6 @@
 # Cause & Effect: 20 years of Oneman at Soup
 
-Cause & Effect: 20 years of Oneman at Soup on Thu 24 Sept, Manchester. 2 acts on the bill: ASIAN BRAT and Oneman. Garage and Dubstep. Preview the line-up and save it on soundcheck.
+Cause & Effect: 20 years of Oneman at Soup on Thu 24 Sept, Manchester. 2 artists on the bill: ASIAN BRAT and Oneman. Garage and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

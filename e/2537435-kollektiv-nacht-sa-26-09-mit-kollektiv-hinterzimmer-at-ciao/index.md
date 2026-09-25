@@ -1,6 +1,6 @@
 # Kollektiv Nacht - SA, 26.09. - mit Kollektiv Hinterzimmer at ciao ciao Bar
 
-Kollektiv Nacht - SA, 26.09. - mit Kollektiv Hinterzimmer at ciao ciao Bar on Sat 26 Sept, Berlin. 1 act on the bill: MARIE.MOON. House and Tech House. Preview the line-up and save it on soundcheck.
+Kollektiv Nacht - SA, 26.09. - mit Kollektiv Hinterzimmer at ciao ciao Bar on Sat 26 Sept, Berlin. 1 artist on the bill: MARIE.MOON. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

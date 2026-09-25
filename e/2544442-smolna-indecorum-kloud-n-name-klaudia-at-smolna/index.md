@@ -1,6 +1,6 @@
 # Smolna: Indecorum, KLOUD, NØNAME, KLAUDIA at Smolna
 
-Smolna: Indecorum, KLOUD, NØNAME, KLAUDIA on Sat 3 Oct, Warsaw. 4 acts on the bill: Indecorum, KLAUDIA, KLOUD and MR Danger. Techno and House. Preview the line-up and save it on soundcheck.
+Smolna: Indecorum, KLOUD, NØNAME, KLAUDIA on Sat 3 Oct, Warsaw. 4 artists on the bill: Indecorum, KLAUDIA, KLOUD and MR Danger. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

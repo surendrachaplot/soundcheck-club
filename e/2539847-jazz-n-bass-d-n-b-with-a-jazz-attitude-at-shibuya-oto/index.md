@@ -1,6 +1,6 @@
 # JAZZ'N'BASS D'n'B with a Jazz attitude at Shibuya OTO
 
-JAZZ'N'BASS D'n'B with a Jazz attitude at Shibuya OTO on Sat 14 Nov, Tokyo. 1 act on the bill: vinylDJ Eiji Takehana. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+JAZZ'N'BASS D'n'B with a Jazz attitude at Shibuya OTO on Sat 14 Nov, Tokyo. 1 artist on the bill: vinylDJ Eiji Takehana. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

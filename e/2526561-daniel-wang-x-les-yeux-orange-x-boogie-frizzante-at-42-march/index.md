@@ -1,6 +1,6 @@
 # Daniel Wang X Les Yeux Orange X Boogie Frizzante at 42 Marches
 
-Daniel Wang X Les Yeux Orange X Boogie Frizzante at 42 Marches on Fri 9 Oct, Paris. 3 acts on the bill: Daniel Wang, Les Yeux Orange and Luksek. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+Daniel Wang X Les Yeux Orange X Boogie Frizzante at 42 Marches on Fri 9 Oct, Paris. 3 artists on the bill: Daniel Wang, Les Yeux Orange and Luksek. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Noizer pres. Deraout + Rabent at Les Enfants Brillants
 
-Noizer pres. Deraout + Rabent at Les Enfants Brillants on Thu 22 Oct, Barcelona. 2 acts on the bill: Deraout and Rabent. Preview the line-up and save it on soundcheck.
+Noizer pres. Deraout + Rabent at Les Enfants Brillants on Thu 22 Oct, Barcelona. 2 artists on the bill: Deraout and Rabent. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

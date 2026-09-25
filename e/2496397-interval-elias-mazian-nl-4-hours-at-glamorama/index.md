@@ -1,6 +1,6 @@
 # Interval - Elias Mazian [NL] (4 Hours) at Glamorama
 
-Interval - Elias Mazian [NL] (4 Hours) at Glamorama on Fri 20 Nov, Melbourne. 1 act on the bill: Elias Mazian. Progressive House and House. Preview the line-up and save it on soundcheck.
+Interval - Elias Mazian [NL] (4 Hours) at Glamorama on Fri 20 Nov, Melbourne. 1 artist on the bill: Elias Mazian. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Elevate with Ken Ming • Lamique • Lara Renner at Radio Radio
 
-Elevate with Ken Ming • Lamique • Lara Renner at Radio Radio on Thu 1 Oct, Amsterdam. 2 acts on the bill: Lamique and Lara Renner. Preview the line-up and save it on soundcheck.
+Elevate with Ken Ming • Lamique • Lara Renner at Radio Radio on Thu 1 Oct, Amsterdam. 2 artists on the bill: Lamique and Lara Renner. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

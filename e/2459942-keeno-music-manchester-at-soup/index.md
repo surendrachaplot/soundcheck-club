@@ -1,6 +1,6 @@
 # Keeno Music - Manchester at Soup
 
-Keeno Music - Manchester at Soup on Sat 3 Oct, Manchester. 1 act on the bill: Keeno. Drum & Bass. Preview the line-up and save it on soundcheck.
+Keeno Music - Manchester at Soup on Sat 3 Oct, Manchester. 1 artist on the bill: Keeno. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

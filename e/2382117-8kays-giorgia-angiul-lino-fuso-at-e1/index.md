@@ -1,6 +1,6 @@
 # 8KAYS, Giorgia Angiulí, Lino Fuso at E1
 
-8KAYS, Giorgia Angiulí, Lino Fuso at E1 on Fri 23 Oct, London. 5 acts on the bill: 8KAYS, BOHO, Giorgia Angiuli and Lino Fuso and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+8KAYS, Giorgia Angiulí, Lino Fuso at E1 on Fri 23 Oct, London. 5 artists on the bill: 8KAYS, BOHO, Giorgia Angiuli and Lino Fuso and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

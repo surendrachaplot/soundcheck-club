@@ -1,6 +1,6 @@
 # Impulse #5 at Club Guesthouse
 
-Impulse #5 at Club Guesthouse on Fri 2 Oct, Bucharest. 3 acts on the bill: Killa P, P Money and Whiney. Drum & Bass and Grime. Preview the line-up and save it on soundcheck.
+Impulse #5 at Club Guesthouse on Fri 2 Oct, Bucharest. 3 artists on the bill: Killa P, P Money and Whiney. Drum & Bass and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

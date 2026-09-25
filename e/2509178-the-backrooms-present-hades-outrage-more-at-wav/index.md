@@ -1,6 +1,6 @@
 # THE BACKROOMS PRESENT: HADES+OUTRAGE + more at WaV
 
-THE BACKROOMS PRESENT: HADES+OUTRAGE + more at WaV on Fri 25 Sept, Liverpool. 2 acts on the bill: Evan and Hades. Techno. Preview the line-up and save it on soundcheck.
+THE BACKROOMS PRESENT: HADES+OUTRAGE + more at WaV on Fri 25 Sept, Liverpool. 2 artists on the bill: Evan and Hades. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

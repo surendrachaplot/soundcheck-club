@@ -1,6 +1,6 @@
 # Sacré présente: BRIDGE & Nightchou at Sacré
 
-Sacré présente: BRIDGE & Nightchou on Sat 26 Sept, Paris. 2 acts on the bill: Bridge (NY) and Nightchou. House. Preview the line-up and save it on soundcheck.
+Sacré présente: BRIDGE & Nightchou on Sat 26 Sept, Paris. 2 artists on the bill: Bridge (NY) and Nightchou. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

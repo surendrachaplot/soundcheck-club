@@ -1,6 +1,6 @@
 # Open Booth Foundation presents: Open Decks at KT with Stockholm Syndrome & SemiH2O at Killing Time
 
-Open Booth Foundation presents: Open Decks at KT with Stockholm Syndrome & SemiH2O at Killing Time on Thu 24 Sept, Melbourne. 2 acts on the bill: Stockholm Syndrome and Superhype. Techno and House. Preview the line-up and save it on soundcheck.
+Open Booth Foundation presents: Open Decks at KT with Stockholm Syndrome & SemiH2O at Killing Time on Thu 24 Sept, Melbourne. 2 artists on the bill: Stockholm Syndrome and Superhype. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

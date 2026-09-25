@@ -1,6 +1,6 @@
 # Bordello A Parigi at Le Mazette
 
-Bordello A Parigi at Le Mazette on Sat 26 Sept, Paris. 3 acts on the bill: Bordello Soundsystem, Cannelle and Luksek. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+Bordello A Parigi at Le Mazette on Sat 26 Sept, Paris. 3 artists on the bill: Bordello Soundsystem, Cannelle and Luksek. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

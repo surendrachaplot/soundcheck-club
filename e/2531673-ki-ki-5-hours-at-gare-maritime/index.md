@@ -1,6 +1,6 @@
 # KI/KI — 5 HOURS at Gare Maritime
 
-KI/KI — 5 HOURS at Gare Maritime on Sat 28 Nov, Brussels. 1 act on the bill: KI/KI. Trance and Acid. Preview the line-up and save it on soundcheck.
+KI/KI — 5 HOURS at Gare Maritime on Sat 28 Nov, Brussels. 1 artist on the bill: KI/KI. Trance and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

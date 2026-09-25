@@ -1,6 +1,6 @@
 # EarlyBeats Retro Classics – Die Premiere at Beat Boutique
 
-EarlyBeats Retro Classics – Die Premiere at Beat Boutique on Sat 17 Oct, Hamburg. 1 act on the bill: STOECKER_. Trance and Club. Preview the line-up and save it on soundcheck.
+EarlyBeats Retro Classics – Die Premiere at Beat Boutique on Sat 17 Oct, Hamburg. 1 artist on the bill: STOECKER_. Trance and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bonobo at Union Transfer
 
-Bonobo at Union Transfer on Fri 4 Dec, Philadelphia. 1 act on the bill: Bonobo. Preview the line-up and save it on soundcheck.
+Bonobo at Union Transfer on Fri 4 Dec, Philadelphia. 1 artist on the bill: Bonobo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Aaron Burr (2) is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at radial, London on Sun, 18 Oct 2026.
 
-Aaron Burr (2) is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside Max Fisher, Son of Paul and From A To B. Next up: radial, London on Sun 18 Oct.
+Aaron Burr is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside Max Fisher, Son of Paul and From A To B. Next up: radial, London on Sun 18 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Les Enfants pres. Raphael Carrau All Night Long at Les Enfants Brillants
 
-Les Enfants pres. Raphael Carrau All Night Long at Les Enfants Brillants on Sat 24 Oct, Barcelona. 1 act on the bill: Raphael Carrau. Techno and Electro. Preview the line-up and save it on soundcheck.
+Les Enfants pres. Raphael Carrau All Night Long at Les Enfants Brillants on Sat 24 Oct, Barcelona. 1 artist on the bill: Raphael Carrau. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

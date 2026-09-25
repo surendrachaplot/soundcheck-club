@@ -1,6 +1,6 @@
 # CURSED TRIBES at Club Temple
 
-CURSED TRIBES at Club Temple on Sat 31 Oct, Istanbul. 1 act on the bill: MERCI (2). Trance and Techno. Preview the line-up and save it on soundcheck.
+CURSED TRIBES at Club Temple on Sat 31 Oct, Istanbul. 1 artist on the bill: MERCI. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

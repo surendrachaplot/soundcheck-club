@@ -1,6 +1,6 @@
 # Polo & Pan - Americas Tour Block Party at The Midway
 
-Polo & Pan - Americas Tour Block Party at The Midway on Sat 10 Oct, Sanfrancisco. 5 acts on the bill: chungtech, MALAS, Polo & Pan and starfari and 1 more. House. Preview the line-up and save it on soundcheck.
+Polo & Pan - Americas Tour Block Party at The Midway on Sat 10 Oct, San Francisco/Oakland. 5 artists on the bill: chungtech, MALAS, Polo & Pan and starfari and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Venus Kick-Off Party at Insomnia
 
-Venus Kick-Off Party at Insomnia on Fri 23 Oct, Berlin. 1 act on the bill: Monty. Techno and Electro. Preview the line-up and save it on soundcheck.
+Venus Kick-Off Party at Insomnia on Fri 23 Oct, Berlin. 1 artist on the bill: Monty. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

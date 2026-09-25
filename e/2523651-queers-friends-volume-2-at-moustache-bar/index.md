@@ -1,6 +1,6 @@
 # Queers + Friends: Volume 2 at Moustache Bar
 
-Queers + Friends: Volume 2 at Moustache Bar on Fri 9 Oct, London. 2 acts on the bill: Alex Theoklitou and DIGITALSAINT. Pop. Preview the line-up and save it on soundcheck.
+Queers + Friends: Volume 2 at Moustache Bar on Fri 9 Oct, London. 2 artists on the bill: Alex Theoklitou and DIGITALSAINT. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

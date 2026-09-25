@@ -1,6 +1,6 @@
 # Dublon (live with band) en microdosis - Café Berlín, Madrid at Café Berlín
 
-Dublon (live with band) en microdosis - Café Berlín, Madrid on Thu 29 Oct, Madrid. 1 act on the bill: Dublon. House. Preview the line-up and save it on soundcheck.
+Dublon (live with band) en microdosis - Café Berlín, Madrid on Thu 29 Oct, Madrid. 1 artist on the bill: Dublon. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Danceportation: PlayHaus - A Queer Psychedelic Haunted Haus Party at Meow Wolf Denver
 
-Danceportation: PlayHaus - A Queer Psychedelic Haunted Haus Party at Meow Wolf Denver on Fri 23 Oct, Denver. 2 acts on the bill: Matt Suave and The Knocks. House. Preview the line-up and save it on soundcheck.
+Danceportation: PlayHaus - A Queer Psychedelic Haunted Haus Party at Meow Wolf Denver on Fri 23 Oct, Denver. 2 artists on the bill: Matt Suave and The Knocks. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

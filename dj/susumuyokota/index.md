@@ -2,7 +2,7 @@
 
 Susumu Yokota is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Polygon Portal, London on Thu, 15 Oct 2026.
 
-Susumu Yokota is an electronica and ambient artist based in Japan, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Buenosaires and Denver and 11 more. Next up: Polygon Portal, London on Thu 15 Oct.
+Susumu Yokota is an electronica and ambient artist based in Japan, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Buenos Aires and Denver and 11 more. Next up: Polygon Portal, London on Thu 15 Oct.
 
 ## Upcoming shows
 

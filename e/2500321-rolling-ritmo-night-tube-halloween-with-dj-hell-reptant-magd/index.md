@@ -1,6 +1,6 @@
 # Rolling Ritmo & Night Tube Halloween with DJ Hell, Reptant, Magda, Mariiin, Vera, + Residents at NUMBER 90 LONDON
 
-Rolling Ritmo & Night Tube Halloween with DJ Hell, Reptant, Magda, Mariiin, Vera, + Residents at NUMBER 90 LONDON on Fri 30 Oct, London. 9 acts on the bill: Alisdair, DJ Hell, Joe Seymour and Magda and 5 more. Electro and Minimal. Preview the line-up and save it on soundcheck.
+Rolling Ritmo & Night Tube Halloween with DJ Hell, Reptant, Magda, Mariiin, Vera, + Residents at NUMBER 90 LONDON on Fri 30 Oct, London. 9 artists on the bill: Alisdair, DJ Hell, Joe Seymour and Magda and 5 more. Electro and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

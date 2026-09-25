@@ -2,7 +2,7 @@
 
 Hermans is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - VOID, Denver on Sat, 31 Oct 2026.
 
-Hermans is a tech house and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Denver. Often billed alongside AM (8), Billy Bevevino and Brittz. Next up: TBA - VOID, Denver on Sat 31 Oct.
+Hermans is a tech house and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Denver. Often billed alongside AM, Billy Bevevino and Brittz. Next up: TBA - VOID, Denver on Sat 31 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # electronic.thursday mit Pablo Cornejo (Chile) at Minimal Bar
 
-electronic.thursday mit Pablo Cornejo (Chile) at Minimal Bar on Thu 5 Nov, Berlin. 1 act on the bill: Pablo Cornejo. Preview the line-up and save it on soundcheck.
+electronic.thursday mit Pablo Cornejo (Chile) at Minimal Bar on Thu 5 Nov, Berlin. 1 artist on the bill: Pablo Cornejo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

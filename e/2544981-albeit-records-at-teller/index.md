@@ -1,6 +1,6 @@
 # albeit records at teller
 
-albeit records at teller on Sat 10 Oct, Seoul. 2 acts on the bill: Marlon Clark and Oho.. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+albeit records at teller on Sat 10 Oct, Seoul. 2 artists on the bill: Marlon Clark and Oho.. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

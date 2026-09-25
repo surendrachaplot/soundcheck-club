@@ -1,6 +1,6 @@
 # MO[MENTS] x ALTER SCHLACHTHOF at R25 Kulturschlachthof
 
-MO[MENTS] x ALTER SCHLACHTHOF at R25 Kulturschlachthof on Sat 17 Oct, Dusseldorf. 1 act on the bill: Alena. Tech House. Preview the line-up and save it on soundcheck.
+MO[MENTS] x ALTER SCHLACHTHOF at R25 Kulturschlachthof on Sat 17 Oct, Düsseldorf. 1 artist on the bill: Alena. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

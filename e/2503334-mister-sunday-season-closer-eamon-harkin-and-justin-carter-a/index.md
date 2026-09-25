@@ -1,6 +1,6 @@
 # Mister Sunday Season Closer: Eamon Harkin and Justin Carter at Nowadays
 
-Mister Sunday Season Closer: Eamon Harkin and Justin Carter at Nowadays on Sun 1 Nov, Newyorkcity. 2 acts on the bill: Eamon Harkin and Justin Carter. Preview the line-up and save it on soundcheck.
+Mister Sunday Season Closer: Eamon Harkin and Justin Carter at Nowadays on Sun 1 Nov, New York City. 2 artists on the bill: Eamon Harkin and Justin Carter. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # OUTFEST AFTERS with Jeffrey Sfire at The Dolphin
 
-OUTFEST AFTERS with Jeffrey Sfire at The Dolphin on Sun 11 Oct, Philadelphia. 3 acts on the bill: Doll.Redacted, G I N A and Jeffrey Sfire. House and Acid. Preview the line-up and save it on soundcheck.
+OUTFEST AFTERS with Jeffrey Sfire at The Dolphin on Sun 11 Oct, Philadelphia. 3 artists on the bill: Doll.Redacted, G I N A and Jeffrey Sfire. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

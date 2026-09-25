@@ -1,6 +1,6 @@
 # UNDERGROUND TALES at Bar A Bar
 
-UNDERGROUND TALES at Bar A Bar on Sat 3 Oct, London. 4 acts on the bill: Biji, illus1on, PETRU and Uakoz. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+UNDERGROUND TALES at Bar A Bar on Sat 3 Oct, London. 4 artists on the bill: Biji, illus1on, PETRU and Uakoz. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

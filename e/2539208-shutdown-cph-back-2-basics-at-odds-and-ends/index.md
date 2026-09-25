@@ -1,6 +1,6 @@
 # Shutdown (CPH): Back 2 Basics at Odds and Ends
 
-Shutdown (CPH): Back 2 Basics at Odds and Ends on Fri 2 Oct, Copenhagen. 1 act on the bill: Sunrise Xavier. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Shutdown (CPH): Back 2 Basics at Odds and Ends on Fri 2 Oct, Copenhagen. 1 artist on the bill: Sunrise Xavier. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

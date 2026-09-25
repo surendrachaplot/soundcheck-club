@@ -1,6 +1,6 @@
 # DVS1 at Stereo
 
-DVS1 at Stereo on Fri 16 Oct, Montreal. 1 act on the bill: DVS1. Preview the line-up and save it on soundcheck.
+DVS1 at Stereo on Fri 16 Oct, Montreal. 1 artist on the bill: DVS1. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sector of Groove presents: CONVERGENCE at The Deep End
 
-Sector of Groove presents: CONVERGENCE at The Deep End on Fri 25 Sept, Newyorkcity. 6 acts on the bill: a.gar, ELIVVATE, MiGS718 and Pablo Vitale and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Sector of Groove presents: CONVERGENCE at The Deep End on Fri 25 Sept, New York City. 6 artists on the bill: a.gar, ELIVVATE, MiGS718 and Pablo Vitale and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

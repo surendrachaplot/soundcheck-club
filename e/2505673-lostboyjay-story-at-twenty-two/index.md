@@ -1,6 +1,6 @@
 # LOSTBOYJAY STORY* at Twenty Two
 
-LOSTBOYJAY STORY* at Twenty Two on Fri 9 Oct, Dublin. 1 act on the bill: LOSTBOYJAY. House and Garage. Preview the line-up and save it on soundcheck.
+LOSTBOYJAY STORY* at Twenty Two on Fri 9 Oct, Dublin. 1 artist on the bill: LOSTBOYJAY. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

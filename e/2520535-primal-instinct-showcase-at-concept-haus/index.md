@@ -1,6 +1,6 @@
 # Primal Instinct Showcase at Concept Haus
 
-Primal Instinct Showcase at Concept Haus on Sat 7 Nov, Manchester. 4 acts on the bill: Akua, Chlär, Hadone and Phil Berg. Techno. Preview the line-up and save it on soundcheck.
+Primal Instinct Showcase at Concept Haus on Sat 7 Nov, Manchester. 4 artists on the bill: Akua, Chlär, Hadone and Phil Berg. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

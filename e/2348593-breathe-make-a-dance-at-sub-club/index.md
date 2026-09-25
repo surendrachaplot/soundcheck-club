@@ -1,6 +1,6 @@
 # BREATHE: Make A Dance at Sub Club
 
-BREATHE: Make A Dance at Sub Club on Fri 23 Oct, Glasgow. 1 act on the bill: Make A Dance. House and Electronica. Preview the line-up and save it on soundcheck.
+BREATHE: Make A Dance at Sub Club on Fri 23 Oct, Glasgow. 1 artist on the bill: Make A Dance. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

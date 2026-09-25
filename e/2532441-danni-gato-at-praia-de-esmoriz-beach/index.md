@@ -1,6 +1,6 @@
 # Danni Gato at Praia de Esmoriz Beach
 
-Danni Gato at Praia de Esmoriz Beach on Sun 27 Sept, Porto. 1 act on the bill: Danni Gato. Afrobeat and Afro House. Preview the line-up and save it on soundcheck.
+Danni Gato at Praia de Esmoriz Beach on Sun 27 Sept, Porto. 1 artist on the bill: Danni Gato. Afrobeat and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

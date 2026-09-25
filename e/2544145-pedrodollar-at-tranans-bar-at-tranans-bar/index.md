@@ -1,6 +1,6 @@
 # Pedrodollar at Tranans Bar at Tranans Bar
 
-Pedrodollar at Tranans Bar on Sat 26 Sept, Stockholm. 1 act on the bill: Pedrodollar. House. Preview the line-up and save it on soundcheck.
+Pedrodollar at Tranans Bar on Sat 26 Sept, Stockholm. 1 artist on the bill: Pedrodollar. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

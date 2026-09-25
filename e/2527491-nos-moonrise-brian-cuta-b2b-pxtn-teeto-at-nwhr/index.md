@@ -1,6 +1,6 @@
 # NOS: Moonrise - Brian Cuta b2b PXTN, Teeto at NWHR
 
-NOS: Moonrise - Brian Cuta b2b PXTN, Teeto at NWHR on Fri 25 Sept, Montreal. 1 act on the bill: Brian Cuta. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+NOS: Moonrise - Brian Cuta b2b PXTN, Teeto at NWHR on Fri 25 Sept, Montreal. 1 artist on the bill: Brian Cuta. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

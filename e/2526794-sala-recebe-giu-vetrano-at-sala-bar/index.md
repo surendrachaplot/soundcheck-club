@@ -1,6 +1,6 @@
 # Sala recebe Giu Vetrano at Sala Bar
 
-Sala recebe Giu Vetrano at Sala Bar on Fri 25 Sept, Saopaulo. Preview the line-up and save it on soundcheck.
+Sala recebe Giu Vetrano at Sala Bar on Fri 25 Sept, Sao Paulo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

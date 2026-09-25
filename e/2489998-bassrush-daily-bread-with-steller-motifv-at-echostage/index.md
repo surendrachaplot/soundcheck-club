@@ -1,6 +1,6 @@
 # Bassrush: Daily Bread with Steller, Motifv at Echostage
 
-Bassrush: Daily Bread with Steller, Motifv at Echostage on Sat 12 Dec, Washingtondc. Bass. Preview the line-up and save it on soundcheck.
+Bassrush: Daily Bread with Steller, Motifv at Echostage on Sat 12 Dec, Washington DC. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Marsolo, JACK MARLOW at Elsewhere
 
-Marsolo, JACK MARLOW at Elsewhere on Fri 16 Oct, Newyorkcity. 2 acts on the bill: JACK MARLOW and Marsolo. Preview the line-up and save it on soundcheck.
+Marsolo, JACK MARLOW at Elsewhere on Fri 16 Oct, New York City. 2 artists on the bill: JACK MARLOW and Marsolo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

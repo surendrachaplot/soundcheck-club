@@ -2,7 +2,7 @@
 
 Ly Tran is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at El Cid, Los Angeles on Sat, 26 Sept 2026.
 
-Ly Tran is a club and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Losangeles and Newyorkcity. Often billed alongside Pauliewog, Jae-an and Azure. Next up: El Cid, Losangeles on Sat 26 Sept.
+Ly Tran is a club and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Los Angeles and New York City. Often billed alongside Pauliewog, Jae-an and Azure. Next up: El Cid, Los Angeles on Sat 26 Sept.
 
 ## Upcoming shows
 

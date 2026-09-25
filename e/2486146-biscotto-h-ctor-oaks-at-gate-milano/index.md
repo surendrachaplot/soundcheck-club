@@ -1,6 +1,6 @@
 # BISCOTTO: Héctor Oaks at Gate Milano
 
-BISCOTTO: Héctor Oaks at Gate Milano on Fri 4 Dec, Milan. 3 acts on the bill: Héctor Oaks, Ivan Carbone and NOVZE. Preview the line-up and save it on soundcheck.
+BISCOTTO: Héctor Oaks at Gate Milano on Fri 4 Dec, Milan. 3 artists on the bill: Héctor Oaks, Ivan Carbone and NOVZE. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

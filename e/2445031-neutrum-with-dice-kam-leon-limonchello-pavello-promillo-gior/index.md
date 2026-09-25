@@ -1,6 +1,6 @@
 # NEUTRUM with DICE, Kamäleon, Limonchello, Pavello Promillo & Giorgio Inkasso, Benito at ://about blank
 
-NEUTRUM with DICE, Kamäleon, Limonchello, Pavello Promillo & Giorgio Inkasso, Benito at ://about blank on Sat 5 Dec, Berlin. 7 acts on the bill: bbymeister, BENITO (DE), DICE and Elias Nuit (2) and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+NEUTRUM with DICE, Kamäleon, Limonchello, Pavello Promillo & Giorgio Inkasso, Benito at ://about blank on Sat 5 Dec, Berlin. 7 artists on the bill: bbymeister, BENITO (DE), DICE and Elias Nuit and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

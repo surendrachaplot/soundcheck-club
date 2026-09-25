@@ -1,6 +1,6 @@
 # Decks Down Front with Lozz Triggs & Lyle at Ernest
 
-Decks Down Front with Lozz Triggs & Lyle at Ernest on Fri 25 Sept, Newcastle. 1 act on the bill: Lyle. Preview the line-up and save it on soundcheck.
+Decks Down Front with Lozz Triggs & Lyle at Ernest on Fri 25 Sept, Newcastle. 1 artist on the bill: Lyle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

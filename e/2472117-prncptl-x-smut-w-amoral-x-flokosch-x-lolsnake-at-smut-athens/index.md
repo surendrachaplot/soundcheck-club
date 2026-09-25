@@ -1,6 +1,6 @@
 # PRNCPTL x SMUT w/ AMORAL x FLOKOSCH x LOLSNAKE at SMUT Athens
 
-PRNCPTL x SMUT w/ AMORAL x FLOKOSCH x LOLSNAKE at SMUT Athens on Sat 26 Sept, Athens. 3 acts on the bill: AMORAL, FlökosH and LOLSNAKE. Techno. Preview the line-up and save it on soundcheck.
+PRNCPTL x SMUT w/ AMORAL x FLOKOSCH x LOLSNAKE at SMUT Athens on Sat 26 Sept, Athens. 3 artists on the bill: AMORAL, FlökosH and LOLSNAKE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Mila Gama is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Domicile, Miami on Sat, 26 Sept 2026.
 
-Mila Gama is a techno and club artist based in Peru, tracked on soundcheck, with 20 sets logged across Miami and Newyorkcity. Often billed alongside Robyn Sin Love, Ultrathem and Lady Narcisse. Next up: Domicile, Miami on Sat 26 Sept.
+Mila Gama is a techno and club artist based in Peru, tracked on soundcheck, with 20 sets logged across Miami and New York City. Often billed alongside Robyn Sin Love, Ultrathem and Lady Narcisse. Next up: Domicile, Miami on Sat 26 Sept.
 
 ## Upcoming shows
 

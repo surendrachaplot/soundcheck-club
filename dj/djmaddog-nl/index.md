@@ -1,13 +1,14 @@
 # DJ Mad Dog
 
-DJ Mad Dog is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Parc Des Expositions, Paris on Sat, 19 Dec 2026.
+DJ Mad Dog is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cinecittà World, Rome on Sat, 17 Oct 2026.
 
-DJ Mad Dog is a techno and hardcore artist based in Italy, tracked on soundcheck, with 17 sets logged across Antwerp, Barcelona, Berlin and Budapest and 9 more. Often billed alongside Ghost in the Machine, Mad Dog and OGUZ. Next up: Parc Des Expositions, Paris on Sat 19 Dec.
+DJ Mad Dog is a techno and hardcore artist based in Italy, tracked on soundcheck, with 18 sets logged across Antwerp, Barcelona, Berlin and Budapest and 10 more. Often billed alongside Ghost in the Machine, Mad Dog and OGUZ. Next up: Cinecittà World, Rome on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Cinecittà World | Rome |
 | Sat, 19 Dec 2026 | Parc Des Expositions | Paris |
 
 ## Recently played

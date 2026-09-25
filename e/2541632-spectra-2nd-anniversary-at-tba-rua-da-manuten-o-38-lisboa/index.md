@@ -1,6 +1,6 @@
 # SPECTRA 2ND ANNIVERSARY at TBA - RUA DA MANUTENÇÃO, 38, LISBOA
 
-SPECTRA 2ND ANNIVERSARY at TBA - RUA DA MANUTENÇÃO, 38, LISBOA on Fri 25 Sept, Lisbon. 1 act on the bill: Mercury. Techno and Electro. Preview the line-up and save it on soundcheck.
+SPECTRA 2ND ANNIVERSARY at TBA - RUA DA MANUTENÇÃO, 38, LISBOA on Fri 25 Sept, Lisbon. 1 artist on the bill: Mercury. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

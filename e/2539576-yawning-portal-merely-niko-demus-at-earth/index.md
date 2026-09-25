@@ -1,6 +1,6 @@
 # Yawning Portal + merely & Niko Demus at EartH
 
-Yawning Portal + merely & Niko Demus at EartH on Mon 7 Dec, London. 2 acts on the bill: merely and Niko Demus. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Yawning Portal + merely & Niko Demus at EartH on Mon 7 Dec, London. 2 artists on the bill: merely and Niko Demus. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

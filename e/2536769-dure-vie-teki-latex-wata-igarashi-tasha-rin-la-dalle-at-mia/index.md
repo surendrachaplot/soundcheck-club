@@ -1,6 +1,6 @@
 # Dure Vie: Teki Latex, Wata Igarashi, Tasha, Rin La Dalle at Mia Mao
 
-Dure Vie: Teki Latex, Wata Igarashi, Tasha, Rin La Dalle at Mia Mao on Sat 31 Oct, Paris. 3 acts on the bill: Tasha, Teki Latex and Wata Igarashi. Techno. Preview the line-up and save it on soundcheck.
+Dure Vie: Teki Latex, Wata Igarashi, Tasha, Rin La Dalle at Mia Mao on Sat 31 Oct, Paris. 3 artists on the bill: Tasha, Teki Latex and Wata Igarashi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

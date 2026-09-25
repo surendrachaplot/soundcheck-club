@@ -1,6 +1,6 @@
 # Tara Clerkin Trio at Hallé St Peter's
 
-Tara Clerkin Trio at Hallé St Peter's on Thu 22 Oct, Manchester. 1 act on the bill: Tara Clerkin Trio. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Tara Clerkin Trio at Hallé St Peter's on Thu 22 Oct, Manchester. 1 artist on the bill: Tara Clerkin Trio. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

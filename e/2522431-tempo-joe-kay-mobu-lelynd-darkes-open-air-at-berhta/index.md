@@ -1,6 +1,6 @@
 # TEMPO: Joe Kay, Mobu, Lelynd Darkes [OPEN-AIR] at BERHTA
 
-TEMPO: Joe Kay, Mobu, Lelynd Darkes [OPEN-AIR] at BERHTA on Sat 10 Oct, Washingtondc. 1 act on the bill: Joe Kay. Deep House and Amapiano. Preview the line-up and save it on soundcheck.
+TEMPO: Joe Kay, Mobu, Lelynd Darkes [OPEN-AIR] at BERHTA on Sat 10 Oct, Washington DC. 1 artist on the bill: Joe Kay. Deep House and Amapiano. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

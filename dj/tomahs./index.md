@@ -2,7 +2,7 @@
 
 Tomahs. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Audiofficina - HI-FI Corner, Milan on Sat, 10 Oct 2026.
 
-Tomahs. is a house and techno artist based in Italy, tracked on soundcheck, with 23 sets logged across Athens, Barcelona and Milan. Often billed alongside Zehn., STOZ and NINI (2). Next up: Audiofficina - HI-FI Corner, Milan on Sat 10 Oct.
+Tomahs. is a house and techno artist based in Italy, tracked on soundcheck, with 23 sets logged across Athens, Barcelona and Milan. Often billed alongside Zehn., STOZ and NINI. Next up: Audiofficina - HI-FI Corner, Milan on Sat 10 Oct.
 
 ## Upcoming shows
 

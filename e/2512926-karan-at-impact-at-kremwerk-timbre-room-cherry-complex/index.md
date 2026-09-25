@@ -1,6 +1,6 @@
 # KARAN! at Impact at Kremwerk-Timbre Room-Cherry Complex
 
-KARAN! at Impact at Kremwerk-Timbre Room-Cherry Complex on Sat 10 Oct, Seattle. 1 act on the bill: KARAN!. Baile Funk and Club. Preview the line-up and save it on soundcheck.
+KARAN! at Impact at Kremwerk-Timbre Room-Cherry Complex on Sat 10 Oct, Seattle. 1 artist on the bill: KARAN!. Baile Funk and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

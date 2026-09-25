@@ -1,6 +1,6 @@
 # fabric x Loud-Contact: Jeff Mills, FJAAK (Live), Marcel Dettmann, Helena Hauff, Quest, Quelza at WestWeelde
 
-fabric x Loud-Contact: Jeff Mills, FJAAK (Live), Marcel Dettmann, Helena Hauff, Quest, Quelza at WestWeelde on Fri 23 Oct, Amsterdam. 9 acts on the bill: Binh, FJAAK, Gabrielle Kwarteng and Helena Hauff and 5 more. Preview the line-up and save it on soundcheck.
+fabric x Loud-Contact: Jeff Mills, FJAAK (Live), Marcel Dettmann, Helena Hauff, Quest, Quelza at WestWeelde on Fri 23 Oct, Amsterdam. 9 artists on the bill: Binh, FJAAK, Gabrielle Kwarteng and Helena Hauff and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

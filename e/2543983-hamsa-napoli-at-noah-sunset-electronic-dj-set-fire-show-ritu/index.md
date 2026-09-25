@@ -1,6 +1,6 @@
 # HAMSA Napoli at NOAH - Sunset - Electronic DJ Set - Fire Show - Ritual at Noah Mediterranean Beach
 
-HAMSA Napoli at NOAH - Sunset - Electronic DJ Set - Fire Show - Ritual at Noah Mediterranean Beach on Sun 27 Sept, Naples. 1 act on the bill: ELIHU. Progressive House and Afro Tech. Preview the line-up and save it on soundcheck.
+HAMSA Napoli at NOAH - Sunset - Electronic DJ Set - Fire Show - Ritual at Noah Mediterranean Beach on Sun 27 Sept, Naples. 1 artist on the bill: ELIHU. Progressive House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

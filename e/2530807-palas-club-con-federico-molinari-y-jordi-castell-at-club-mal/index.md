@@ -1,6 +1,6 @@
 # Palas Club con Federico Molinari y Jordi Castell at Club Malasaña
 
-Palas Club con Federico Molinari y Jordi Castell at Club Malasaña on Thu 24 Sept, Madrid. 2 acts on the bill: Federico Molinari and Jordi Castell (1). House and Electronica. Preview the line-up and save it on soundcheck.
+Palas Club con Federico Molinari y Jordi Castell at Club Malasaña on Thu 24 Sept, Madrid. 2 artists on the bill: Federico Molinari and Jordi Castell. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

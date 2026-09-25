@@ -1,6 +1,6 @@
 # Takuya Nakamura at Music Box
 
-Takuya Nakamura at Music Box on Fri 20 Nov, Sandiego. 1 act on the bill: Takuya Nakamura. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Takuya Nakamura at Music Box on Fri 20 Nov, San Diego. 1 artist on the bill: Takuya Nakamura. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

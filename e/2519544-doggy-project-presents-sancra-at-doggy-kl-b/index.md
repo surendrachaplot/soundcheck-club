@@ -1,6 +1,6 @@
 # Doggy Project presents: Sancra at Doggy Klœb
 
-Doggy Project presents: Sancra at Doggy Klœb on Sat 26 Sept, Malaga. 2 acts on the bill: Jorgge Decar and Sancra. Electronica. Preview the line-up and save it on soundcheck.
+Doggy Project presents: Sancra at Doggy Klœb on Sat 26 Sept, Malaga. 2 artists on the bill: Jorgge Decar and Sancra. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

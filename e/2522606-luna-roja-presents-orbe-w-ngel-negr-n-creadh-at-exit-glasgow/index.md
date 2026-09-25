@@ -1,6 +1,6 @@
 # Luna Roja presents: ORBE (w/ Ángel Negrín & Creadh) at EXIT Glasgow
 
-Luna Roja presents: ORBE (w/ Ángel Negrín & Creadh) at EXIT Glasgow on Fri 30 Oct, Glasgow. 2 acts on the bill: Angel Negrin and ORBE. Techno. Preview the line-up and save it on soundcheck.
+Luna Roja presents: ORBE (w/ Ángel Negrín & Creadh) at EXIT Glasgow on Fri 30 Oct, Glasgow. 2 artists on the bill: Angel Negrin and ORBE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

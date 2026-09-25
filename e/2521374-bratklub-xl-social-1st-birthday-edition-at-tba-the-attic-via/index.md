@@ -1,6 +1,6 @@
 # bratklub XL SOCIAL // 1ST BIRTHDAY EDITION at TBA - The Attic via The Garage Glasgow
 
-bratklub XL SOCIAL // 1ST BIRTHDAY EDITION at TBA - The Attic via The Garage Glasgow on Sat 26 Sept, Glasgow. 1 act on the bill: RXVEGRL. House and Disco. Preview the line-up and save it on soundcheck.
+bratklub XL SOCIAL // 1ST BIRTHDAY EDITION at TBA - The Attic via The Garage Glasgow on Sat 26 Sept, Glasgow. 1 artist on the bill: RXVEGRL. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

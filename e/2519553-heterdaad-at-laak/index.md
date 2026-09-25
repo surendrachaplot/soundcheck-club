@@ -1,6 +1,6 @@
 # HETERDAAD at Laak
 
-HETERDAAD at Laak on Fri 25 Sept, Thehague. 2 acts on the bill: DEVREE and Koperblond. Techno and House. Preview the line-up and save it on soundcheck.
+HETERDAAD at Laak on Fri 25 Sept, The Hague. 2 artists on the bill: DEVREE and Koperblond. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

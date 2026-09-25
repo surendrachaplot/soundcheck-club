@@ -1,6 +1,6 @@
 # Ben Böhmer at The Concourse Project
 
-Ben Böhmer at The Concourse Project on Thu 22 Oct, Austin. 1 act on the bill: Ben Böhmer. Preview the line-up and save it on soundcheck.
+Ben Böhmer at The Concourse Project on Thu 22 Oct, Austin. 1 artist on the bill: Ben Böhmer. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

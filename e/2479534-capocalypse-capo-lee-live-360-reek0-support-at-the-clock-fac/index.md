@@ -1,6 +1,6 @@
 # Capocalypse: Capo Lee [Live 360°] + Reek0 & Support at The Clock Factory
 
-Capocalypse: Capo Lee [Live 360°] + Reek0 & Support at The Clock Factory on Sat 31 Oct, Bristol. 1 act on the bill: Capo Lee. Bass and Grime. Preview the line-up and save it on soundcheck.
+Capocalypse: Capo Lee [Live 360°] + Reek0 & Support at The Clock Factory on Sat 31 Oct, Bristol. 1 artist on the bill: Capo Lee. Bass and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

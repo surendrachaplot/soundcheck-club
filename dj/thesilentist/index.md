@@ -2,7 +2,7 @@
 
 The Silentist is a Dub Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Waterhouse Studios, Amsterdam on Sat, 21 Nov 2026.
 
-The Silentist is a dub techno and deep house artist tracked on soundcheck, with 17 sets logged across Amsterdam and Thehague. Often billed alongside Giovane Filippo, tanggero and Frissonn. Next up: Waterhouse Studios, Amsterdam on Sat 21 Nov.
+The Silentist is a dub techno and deep house artist tracked on soundcheck, with 17 sets logged across Amsterdam and The Hague. Often billed alongside Giovane Filippo, tanggero and Frissonn. Next up: Waterhouse Studios, Amsterdam on Sat 21 Nov.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Rendezvous à Rimini at Ono2
 
-Rendezvous à Rimini at Ono2 on Fri 25 Sept, Frankfurt. 1 act on the bill: Lukas Akata. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+Rendezvous à Rimini at Ono2 on Fri 25 Sept, Frankfurt. 1 artist on the bill: Lukas Akata. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

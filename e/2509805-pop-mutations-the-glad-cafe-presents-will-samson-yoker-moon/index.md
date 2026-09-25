@@ -1,6 +1,6 @@
 # Pop Mutations & The Glad Cafe presents: Will Samson + Yoker Moon at The Glad Cafe
 
-Pop Mutations & The Glad Cafe presents: Will Samson + Yoker Moon on Sun 25 Oct, Glasgow. 1 act on the bill: Will Samson. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Pop Mutations & The Glad Cafe presents: Will Samson + Yoker Moon on Sun 25 Oct, Glasgow. 1 artist on the bill: Will Samson. Ambient and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

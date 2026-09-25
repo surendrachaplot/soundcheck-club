@@ -1,6 +1,6 @@
 # NT's Loft: Lewis Carroll presents 'A Christmas Carroll' at Night Tales Loft
 
-NT's Loft: Lewis Carroll presents 'A Christmas Carroll' at Night Tales Loft on Sat 5 Dec, London. 1 act on the bill: Lewis Carroll. Preview the line-up and save it on soundcheck.
+NT's Loft: Lewis Carroll presents 'A Christmas Carroll' at Night Tales Loft on Sat 5 Dec, London. 1 artist on the bill: Lewis Carroll. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

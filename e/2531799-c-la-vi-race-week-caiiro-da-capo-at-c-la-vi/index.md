@@ -1,6 +1,6 @@
 # CÉ LA VI Race Week - Caiiro & Da Capo at CÉ LA VI
 
-CÉ LA VI Race Week - Caiiro & Da Capo on Sat 10 Oct, Singapore. 2 acts on the bill: Caiiro and Da Capo. Afro House. Preview the line-up and save it on soundcheck.
+CÉ LA VI Race Week - Caiiro & Da Capo on Sat 10 Oct, Singapore. 2 artists on the bill: Caiiro and Da Capo. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 ceviché is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Dead Letter No. 9, New York City on Thu, 24 Sept 2026.
 
-ceviché is a techno and house artist based in United States of America, tracked on soundcheck, with 63 sets logged across Newyorkcity and Tokyo. Often billed alongside SHRAY, Sam Valle and STEEN. Next up: Dead Letter No. 9, Newyorkcity on Thu 24 Sept.
+ceviché is a techno and house artist based in United States of America, tracked on soundcheck, with 63 sets logged across New York City and Tokyo. Often billed alongside SHRAY, Sam Valle and STEEN. Next up: Dead Letter No. 9, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

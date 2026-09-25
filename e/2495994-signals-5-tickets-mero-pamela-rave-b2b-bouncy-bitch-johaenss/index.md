@@ -1,6 +1,6 @@
 # SIGNALS - 5€ Tickets - Mero, Pamela Rave b2b Bouncy Bitch, Johaensson at Lokschuppen Berlin
 
-SIGNALS - 5€ Tickets - Mero, Pamela Rave b2b Bouncy Bitch, Johaensson at Lokschuppen Berlin on Wed 25 Nov, Berlin. 4 acts on the bill: Bouncy Bitch, Johænsson, MËRO and Pamela Rave. Trance and Techno. Preview the line-up and save it on soundcheck.
+SIGNALS - 5€ Tickets - Mero, Pamela Rave b2b Bouncy Bitch, Johaensson at Lokschuppen Berlin on Wed 25 Nov, Berlin. 4 artists on the bill: Bouncy Bitch, Johænsson, MËRO and Pamela Rave. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

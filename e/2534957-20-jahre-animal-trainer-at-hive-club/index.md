@@ -1,6 +1,6 @@
 # 20 Jahre Animal Trainer at Hive Club
 
-20 Jahre Animal Trainer at Hive Club on Sat 3 Oct, Zurich. 10 acts on the bill: ACID FLORA, Animal Trainer, Anthik and Britta Arnold and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
+20 Jahre Animal Trainer at Hive Club on Sat 3 Oct, Zurich. 10 artists on the bill: ACID FLORA, Animal Trainer, Anthik and Britta Arnold and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

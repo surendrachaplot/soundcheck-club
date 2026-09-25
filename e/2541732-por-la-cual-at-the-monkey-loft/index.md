@@ -1,6 +1,6 @@
 # POR LA CUAL at The Monkey Loft
 
-POR LA CUAL at The Monkey Loft on Sat 10 Oct, Seattle. 1 act on the bill: I.S.H. House and Bass. Preview the line-up and save it on soundcheck.
+POR LA CUAL at The Monkey Loft on Sat 10 Oct, Seattle. 1 artist on the bill: I.S.H. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

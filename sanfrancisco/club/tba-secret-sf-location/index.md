@@ -2,7 +2,7 @@
 
 TBA - SECRET SF LOCATION is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "THE CUT UP x PSYCHED RADIO PRESENTS: SAFEWORD" on Fri, 25 Sept 2026.
 
-TBA - SECRET SF LOCATION is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming gigs, with line-ups including @djlobottomy, DMN TWNK, MALICIEL and Martyr Princess and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - SECRET SF LOCATION is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including @djlobottomy, DMN TWNK, MALICIEL and Martyr Princess and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # HYBRID: CRITICAL ERROR 404 at Sala Cocó
 
-HYBRID: CRITICAL ERROR 404 at Sala Cocó on Sat 3 Oct, Madrid. 1 act on the bill: CRITICAL ERROR 404. Techno. Preview the line-up and save it on soundcheck.
+HYBRID: CRITICAL ERROR 404 at Sala Cocó on Sat 3 Oct, Madrid. 1 artist on the bill: CRITICAL ERROR 404. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

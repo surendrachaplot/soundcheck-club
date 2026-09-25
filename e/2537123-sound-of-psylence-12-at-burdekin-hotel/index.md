@@ -1,6 +1,6 @@
 # Sound of Psylence #12 at Burdekin Hotel
 
-Sound of Psylence #12 at Burdekin Hotel on Sat 3 Oct, Sydney. 1 act on the bill: Eternal Soul. Psytrance. Preview the line-up and save it on soundcheck.
+Sound of Psylence #12 at Burdekin Hotel on Sat 3 Oct, Sydney. 1 artist on the bill: Eternal Soul. Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

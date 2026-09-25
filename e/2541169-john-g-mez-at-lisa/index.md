@@ -1,6 +1,6 @@
 # John Gómez at Lisa
 
-John Gómez at Lisa on Sat 19 Sept, Lisbon. 2 acts on the bill: André Granada (2) and John Gómez. House and Balearic. Preview the line-up and save it on soundcheck.
+John Gómez at Lisa on Sat 19 Sept, Lisbon. 2 artists on the bill: André Granada and John Gómez. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

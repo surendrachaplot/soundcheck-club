@@ -1,6 +1,6 @@
 # Manual Family Get Together 2026 at Kadinsky Cafe
 
-Manual Family Get Together 2026 at Kadinsky Cafe on Sat 24 Oct, Amsterdam. 11 acts on the bill: Around Us, BODAI, Camiel Villa and DJ Zombi and 7 more. Progressive House. Preview the line-up and save it on soundcheck.
+Manual Family Get Together 2026 at Kadinsky Cafe on Sat 24 Oct, Amsterdam. 11 artists on the bill: Around Us, BODAI, Camiel Villa and DJ Zombi and 7 more. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

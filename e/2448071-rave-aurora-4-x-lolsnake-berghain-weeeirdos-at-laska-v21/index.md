@@ -1,6 +1,6 @@
 # RAVE AURORA 4 x LOLSNAKE (Berghain, Weeeirdos) at Laska V21
 
-RAVE AURORA 4 x LOLSNAKE (Berghain, Weeeirdos) at Laska V21 on Fri 25 Sept, Riga. 6 acts on the bill: Freiya March, Kat Kat Tat, Ksenia Kamikaza and LOLSNAKE and 2 more. Techno. Preview the line-up and save it on soundcheck.
+RAVE AURORA 4 x LOLSNAKE (Berghain, Weeeirdos) at Laska V21 on Fri 25 Sept, Riga. 6 artists on the bill: Freiya March, Kat Kat Tat, Ksenia Kamikaza and LOLSNAKE and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

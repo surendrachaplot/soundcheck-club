@@ -1,6 +1,6 @@
 # Of Paradise X Future Intel X INDEx at De Besturing
 
-Of Paradise X Future Intel X INDEx at De Besturing on Fri 25 Sept, Thehague. 4 acts on the bill: Edward J, Hünter, Paul P and Silent Era. Bass and IDM. Preview the line-up and save it on soundcheck.
+Of Paradise X Future Intel X INDEx at De Besturing on Fri 25 Sept, The Hague. 4 artists on the bill: Edward J, Hünter, Paul P and Silent Era. Bass and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

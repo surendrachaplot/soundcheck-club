@@ -2,7 +2,7 @@
 
 DJ Hannah is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
 
-DJ Hannah is a house and techno artist based in Canada, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Newyorkcity and Tokyo and 1 more. Often billed alongside AWood, Dose. and INNEZZ. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
+DJ Hannah is a house and techno artist based in Canada, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, New York City and Tokyo and 1 more. Often billed alongside AWood, Dose. and INNEZZ. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
 
 ## Upcoming shows
 

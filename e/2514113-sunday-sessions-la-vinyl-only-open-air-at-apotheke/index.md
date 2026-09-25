@@ -1,6 +1,6 @@
 # Sunday Sessions LA (Vinyl Only) Open Air at Apotheke
 
-Sunday Sessions LA (Vinyl Only) Open Air at Apotheke on Sun 27 Sept, Losangeles. 1 act on the bill: Kana Hishiya. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunday Sessions LA (Vinyl Only) Open Air at Apotheke on Sun 27 Sept, Los Angeles. 1 artist on the bill: Kana Hishiya. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

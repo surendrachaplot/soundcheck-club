@@ -1,6 +1,6 @@
 # Talk to Strangers with Simo Cell, Forest Drive West & nahda at Strange Brew
 
-Talk to Strangers with Simo Cell, Forest Drive West & nahda at Strange Brew on Sat 17 Oct, Bristol. 2 acts on the bill: Forest Drive West and Simo Cell. Experimental and Jungle. Preview the line-up and save it on soundcheck.
+Talk to Strangers with Simo Cell, Forest Drive West & nahda at Strange Brew on Sat 17 Oct, Bristol. 2 artists on the bill: Forest Drive West and Simo Cell. Experimental and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sunset Rooftop at Sky Lounge 360
 
-Sunset Rooftop at Sky Lounge 360 on Sat 3 Oct, Prague. 1 act on the bill: Hugorieri. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunset Rooftop at Sky Lounge 360 on Sat 3 Oct, Prague. 1 artist on the bill: Hugorieri. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

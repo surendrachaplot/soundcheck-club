@@ -1,6 +1,6 @@
 # Sunday School at Lefty's Day & Night
 
-Sunday School at Lefty's Day & Night on Sun 27 Sept, Austin. 2 acts on the bill: MARISSA and Saint Stratus. House and Club. Preview the line-up and save it on soundcheck.
+Sunday School at Lefty's Day & Night on Sun 27 Sept, Austin. 2 artists on the bill: MARISSA and Saint Stratus. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Power Dance Adonis Athens at Plex
 
-Power Dance Adonis Athens at Plex on Sat 3 Oct, Athens. 4 acts on the bill: Fancy Shews, K.atou, Maria Politi and Stathis (GR). Techno and House. Preview the line-up and save it on soundcheck.
+Power Dance Adonis Athens at Plex on Sat 3 Oct, Athens. 4 artists on the bill: Fancy Shews, K.atou, Maria Politi and Stathis (GR). Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

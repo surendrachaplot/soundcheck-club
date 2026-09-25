@@ -1,6 +1,6 @@
 # Outer Heaven presents: Momo Trossman at Outer Heaven
 
-Outer Heaven presents: Momo Trossman on Sat 26 Sept, Newyorkcity. 2 acts on the bill: DLR (nyc) and Momo Trosman. House and Minimal. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Momo Trossman on Sat 26 Sept, New York City. 2 artists on the bill: DLR (nyc) and Momo Trosman. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

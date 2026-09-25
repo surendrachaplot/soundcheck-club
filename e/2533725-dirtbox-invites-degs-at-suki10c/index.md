@@ -1,6 +1,6 @@
 # Dirtbox Invites: Degs at Suki10c
 
-Dirtbox Invites: Degs at Suki10c on Sat 3 Oct, Birmingham. 3 acts on the bill: Degs, FJ (1) and Sirius. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Dirtbox Invites: Degs at Suki10c on Sat 3 Oct, Birmingham. 3 artists on the bill: Degs, FJ and Sirius. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

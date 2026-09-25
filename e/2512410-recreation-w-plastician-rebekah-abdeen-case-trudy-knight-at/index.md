@@ -1,6 +1,6 @@
 # RECREATION w/ Plastician, Rebekah Abdeen, CASE & Trudy Knight at The Fox and Firkin
 
-RECREATION w/ Plastician, Rebekah Abdeen, CASE & Trudy Knight at The Fox and Firkin on Thu 24 Sept, London. 4 acts on the bill: Case (2), Plastician, Rebekah Abdeen and Trudy Knight. Bass and Electro. Preview the line-up and save it on soundcheck.
+RECREATION w/ Plastician, Rebekah Abdeen, CASE & Trudy Knight at The Fox and Firkin on Thu 24 Sept, London. 4 artists on the bill: Case, Plastician, Rebekah Abdeen and Trudy Knight. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Primo Italiano with DJ Subaru, Hollick & Manuel Darquart at The Carpet Shop
 
-Primo Italiano with DJ Subaru, Hollick & Manuel Darquart at The Carpet Shop on Fri 25 Sept, London. 3 acts on the bill: DJ Subaru, Hollick and Manuel Darquart. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Primo Italiano with DJ Subaru, Hollick & Manuel Darquart at The Carpet Shop on Fri 25 Sept, London. 3 artists on the bill: DJ Subaru, Hollick and Manuel Darquart. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # La Mercè Festa a la Platja del Forum Pres Hassler aka Coyu [FREE ACCESS] at Sunseabar Beach Club
 
-La Mercè Festa a la Platja del Forum Pres Hassler aka Coyu [FREE ACCESS] at Sunseabar Beach Club on Thu 24 Sept, Barcelona. 7 acts on the bill: ATMEN, Breezy S, Cesar Martino and Eli Kapowski and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+La Mercè Festa a la Platja del Forum Pres Hassler aka Coyu [FREE ACCESS] at Sunseabar Beach Club on Thu 24 Sept, Barcelona. 7 artists on the bill: ATMEN, Breezy S, Cesar Martino and Eli Kapowski and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

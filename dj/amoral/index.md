@@ -10,7 +10,7 @@ AMORAL is a techno and house artist based in Netherlands, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | SMUT Athens | Athens |
 | Sat, 3 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Sat, 10 Oct 2026 | TBA | Paris |
+| Sat, 10 Oct 2026 | TBA - Paris | Paris |
 | Fri, 16 Oct 2026 | Den Anden Side | Copenhagen |
 | Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |

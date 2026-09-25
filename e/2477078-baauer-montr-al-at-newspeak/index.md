@@ -1,6 +1,6 @@
 # Baauer - Montréal at Newspeak
 
-Baauer - Montréal at Newspeak on Fri 30 Oct, Montreal. 1 act on the bill: Baauer. Breakbeat and House. Preview the line-up and save it on soundcheck.
+Baauer - Montréal at Newspeak on Fri 30 Oct, Montreal. 1 artist on the bill: Baauer. Breakbeat and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

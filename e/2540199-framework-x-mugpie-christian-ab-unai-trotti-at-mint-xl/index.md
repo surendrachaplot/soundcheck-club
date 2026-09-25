@@ -1,6 +1,6 @@
 # Framework x Mugpie: Christian AB & Unai Trotti at Mint XL
 
-Framework x Mugpie: Christian AB & Unai Trotti at Mint XL on Sat 19 Dec, Leeds. 3 acts on the bill: Annie Errez, Christian AB and Unai Trotti. Preview the line-up and save it on soundcheck.
+Framework x Mugpie: Christian AB & Unai Trotti at Mint XL on Sat 19 Dec, Leeds. 3 artists on the bill: Annie Errez, Christian AB and Unai Trotti. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

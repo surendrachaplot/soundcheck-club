@@ -1,6 +1,6 @@
 # 59 BEL RECORDS: CLARA RIVA + Ian Maur at La Gare / Le Gore
 
-59 BEL RECORDS: CLARA RIVA + Ian Maur at La Gare / Le Gore on Thu 24 Sept, Paris. 1 act on the bill: Ian Maur. Techno. Preview the line-up and save it on soundcheck.
+59 BEL RECORDS: CLARA RIVA + Ian Maur at La Gare / Le Gore on Thu 24 Sept, Paris. 1 artist on the bill: Ian Maur. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

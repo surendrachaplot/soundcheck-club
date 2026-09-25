@@ -1,6 +1,6 @@
 # Space Invadrz Division meets Infonabeat Mexiko / Vocoder at TBA
 
-Space Invadrz Division meets Infonabeat Mexiko / Vocoder at TBA on Sat 24 Oct, Cologne. 2 acts on the bill: Ixbalanke and Redmadvelvet. Techno and Acid. Preview the line-up and save it on soundcheck.
+Space Invadrz Division meets Infonabeat Mexiko / Vocoder at TBA on Sat 24 Oct, Cologne. 2 artists on the bill: Ixbalanke and Redmadvelvet. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

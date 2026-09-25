@@ -1,6 +1,6 @@
 # sim0ne pres. club zer0 @ The Cause, London at The Cause
 
-sim0ne pres. club zer0 @ The Cause, London on Fri 13 Nov, London. 1 act on the bill: sim0ne. Preview the line-up and save it on soundcheck.
+sim0ne pres. club zer0 @ The Cause, London on Fri 13 Nov, London. 1 artist on the bill: sim0ne. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

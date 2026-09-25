@@ -1,6 +1,6 @@
 # Daft Disko Halloween: San Francisco at Bella
 
-Daft Disko Halloween: San Francisco at Bella on Sat 31 Oct, Sanfrancisco. House and Disco. Preview the line-up and save it on soundcheck.
+Daft Disko Halloween: San Francisco at Bella on Sat 31 Oct, San Francisco/Oakland. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

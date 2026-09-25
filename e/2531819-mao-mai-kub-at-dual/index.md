@@ -1,6 +1,6 @@
 # MAO MAI KUB at Dual
 
-MAO MAI KUB at Dual on Sat 3 Oct, Bangkok. 2 acts on the bill: DOTT and Meltmode (2). House and Tech House. Preview the line-up and save it on soundcheck.
+MAO MAI KUB at Dual on Sat 3 Oct, Bangkok. 2 artists on the bill: DOTT and Meltmode. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TAXOPHONE by Emil Zenko at Sekta Selekta
 
-TAXOPHONE by Emil Zenko at Sekta Selekta on Sat 10 Oct, Krakow. 3 acts on the bill: BUDZKO, Emil Zenko and Sakrum. Electronica. Preview the line-up and save it on soundcheck.
+TAXOPHONE by Emil Zenko at Sekta Selekta on Sat 10 Oct, Krakow. 3 artists on the bill: BUDZKO, Emil Zenko and Sakrum. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

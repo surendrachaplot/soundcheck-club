@@ -1,6 +1,6 @@
 # Mad Katz x Tresor at Hive Club
 
-Mad Katz x Tresor at Hive Club on Fri 25 Sept, Zurich. 7 acts on the bill: Ben Sims, Fireground, Flex and Hitam and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Mad Katz x Tresor at Hive Club on Fri 25 Sept, Zurich. 7 artists on the bill: Ben Sims, Fireground, Flex and Hitam and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

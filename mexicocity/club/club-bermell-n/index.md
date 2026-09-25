@@ -2,7 +2,7 @@
 
 Club Bermellón is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "BOOHAUS" on Sat, 31 Oct 2026.
 
-Club Bermellón is a music venue in Mexicocity listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Alvaro Obregón 180 Upstairs, Col. Roma.
+Club Bermellón is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Alvaro Obregón 180 Upstairs, Col. Roma.
 
 ## What's on
 

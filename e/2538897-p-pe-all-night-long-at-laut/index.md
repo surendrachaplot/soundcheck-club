@@ -1,6 +1,6 @@
 # Pépe (all night long) at LAUT
 
-Pépe (all night long) at LAUT on Sat 31 Oct, Barcelona. 1 act on the bill: Pépe. Club. Preview the line-up and save it on soundcheck.
+Pépe (all night long) at LAUT on Sat 31 Oct, Barcelona. 1 artist on the bill: Pépe. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

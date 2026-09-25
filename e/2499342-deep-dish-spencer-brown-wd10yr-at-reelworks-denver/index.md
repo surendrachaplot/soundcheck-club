@@ -1,6 +1,6 @@
 # Deep Dish, Spencer Brown - WD10YR at Reelworks Denver
 
-Deep Dish, Spencer Brown - WD10YR at Reelworks Denver on Sat 26 Sept, Denver. 3 acts on the bill: Deep Dish, NotMeghan and Spencer Brown. Preview the line-up and save it on soundcheck.
+Deep Dish, Spencer Brown - WD10YR at Reelworks Denver on Sat 26 Sept, Denver. 3 artists on the bill: Deep Dish, NotMeghan and Spencer Brown. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

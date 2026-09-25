@@ -1,6 +1,6 @@
 # Descendants - ADE at Parallel
 
-Descendants - ADE at Parallel on Sat 24 Oct, Amsterdam. 4 acts on the bill: Culoe De Song, Meedy, pizzi and Tina Ardor. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Descendants - ADE at Parallel on Sat 24 Oct, Amsterdam. 4 artists on the bill: Culoe De Song, Meedy, pizzi and Tina Ardor. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

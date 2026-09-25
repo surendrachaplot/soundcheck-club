@@ -1,6 +1,6 @@
 # Cristobal Pesce - LIGHT DOMINION at 74 Hall
 
-Cristobal Pesce - LIGHT DOMINION at 74 Hall on Fri 6 Nov, Istanbul. 2 acts on the bill: Cristobal Pesce and YOZÉ. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Cristobal Pesce - LIGHT DOMINION at 74 Hall on Fri 6 Nov, Istanbul. 2 artists on the bill: Cristobal Pesce and YOZÉ. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

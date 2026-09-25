@@ -2,7 +2,7 @@
 
 YUKI (JP) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Débris, Tokyo on Fri, 25 Sept 2026.
 
-YUKI (JP) is a techno and house artist based in Japan, tracked on soundcheck, with 37 sets logged across Copenhagen, Osaka and Tokyo. Often billed alongside SIGNAL (JP), Amu (1) and DJ B2B. Next up: Débris, Tokyo on Fri 25 Sept.
+YUKI (JP) is a techno and house artist based in Japan, tracked on soundcheck, with 37 sets logged across Copenhagen, Osaka and Tokyo. Often billed alongside SIGNAL (JP), Amu and DJ B2B. Next up: Débris, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 

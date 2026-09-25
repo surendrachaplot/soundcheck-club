@@ -1,6 +1,6 @@
 # SALTED Day Party with Sandy Rivera & John Morales at The Midway
 
-SALTED Day Party with Sandy Rivera & John Morales at The Midway on Sun 11 Oct, Sanfrancisco. 5 acts on the bill: Franky Boissy, John Morales, Julius Papp and Miguel Migs and 1 more. Deep House and Disco. Preview the line-up and save it on soundcheck.
+SALTED Day Party with Sandy Rivera & John Morales at The Midway on Sun 11 Oct, San Francisco/Oakland. 5 artists on the bill: Franky Boissy, John Morales, Julius Papp and Miguel Migs and 1 more. Deep House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

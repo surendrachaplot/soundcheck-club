@@ -1,6 +1,6 @@
 # M7 presenta: Eva Toya, Matt.p, Deiluss, Muso, Adviro & Marc Fx at M7 Club
 
-M7 presenta: Eva Toya, Matt.p, Deiluss, Muso, Adviro & Marc Fx at M7 Club on Fri 25 Sept, Barcelona. 3 acts on the bill: Adviro, Eva Toya and Matt.p. Techno. Preview the line-up and save it on soundcheck.
+M7 presenta: Eva Toya, Matt.p, Deiluss, Muso, Adviro & Marc Fx at M7 Club on Fri 25 Sept, Barcelona. 3 artists on the bill: Adviro, Eva Toya and Matt.p. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

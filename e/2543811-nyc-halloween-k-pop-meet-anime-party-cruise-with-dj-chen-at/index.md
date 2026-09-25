@@ -1,6 +1,6 @@
 # NYC HALLOWEEN K-POP MEET ANIME PARTY CRUISE WITH DJ CHEN at Boat - Liberty Belle
 
-NYC HALLOWEEN K-POP MEET ANIME PARTY CRUISE WITH DJ CHEN at Boat - Liberty Belle on Sat 31 Oct, Newyorkcity. 1 act on the bill: DJ E.M.. Club. Preview the line-up and save it on soundcheck.
+NYC HALLOWEEN K-POP MEET ANIME PARTY CRUISE WITH DJ CHEN at Boat - Liberty Belle on Sat 31 Oct, New York City. 1 artist on the bill: DJ E.M.. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

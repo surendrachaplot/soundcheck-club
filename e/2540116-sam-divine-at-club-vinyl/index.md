@@ -1,6 +1,6 @@
 # Sam Divine at Club Vinyl
 
-Sam Divine at Club Vinyl on Fri 6 Nov, Denver. 1 act on the bill: Sam Divine. House. Preview the line-up and save it on soundcheck.
+Sam Divine at Club Vinyl on Fri 6 Nov, Denver. 1 artist on the bill: Sam Divine. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

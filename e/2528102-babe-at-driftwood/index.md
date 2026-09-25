@@ -1,6 +1,6 @@
 # BABE at Driftwood
 
-BABE at Driftwood on Fri 25 Sept, Sanfrancisco. 1 act on the bill: DJ Trevs. House and Acid. Preview the line-up and save it on soundcheck.
+BABE at Driftwood on Fri 25 Sept, San Francisco/Oakland. 1 artist on the bill: DJ Trevs. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

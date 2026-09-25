@@ -1,6 +1,6 @@
 # DNA Club Closing Day Two at DNA Club
 
-DNA Club Closing Day Two on Sat 26 Sept, Munich. 2 acts on the bill: Death of Mars and Neovex. Techno. Preview the line-up and save it on soundcheck.
+DNA Club Closing Day Two on Sat 26 Sept, Munich. 2 artists on the bill: Death of Mars and Neovex. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

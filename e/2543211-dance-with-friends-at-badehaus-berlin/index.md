@@ -1,6 +1,6 @@
 # dance with friends at Badehaus Berlin
 
-dance with friends at Badehaus Berlin on Sat 17 Oct, Berlin. 1 act on the bill: Anna Æther. Disco and Club. Preview the line-up and save it on soundcheck.
+dance with friends at Badehaus Berlin on Sat 17 Oct, Berlin. 1 artist on the bill: Anna Æther. Disco and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

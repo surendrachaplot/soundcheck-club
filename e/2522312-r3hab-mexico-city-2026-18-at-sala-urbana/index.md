@@ -1,6 +1,6 @@
 # R3hab Mexico City 2026 (+18) at Sala Urbana
 
-R3hab Mexico City 2026 (+18) at Sala Urbana on Fri 25 Sept, Mexicocity. House and Electronica. Preview the line-up and save it on soundcheck.
+R3hab Mexico City 2026 (+18) at Sala Urbana on Fri 25 Sept, Mexico City. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

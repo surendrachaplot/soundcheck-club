@@ -1,6 +1,6 @@
 # Do Not Sit on Art Week: Patrice Baumel at Do Not Sit On The Furniture
 
-Do Not Sit on Art Week: Patrice Baumel at Do Not Sit On The Furniture on Fri 4 Dec, Miami. 1 act on the bill: Patrice Bäumel. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Do Not Sit on Art Week: Patrice Baumel at Do Not Sit On The Furniture on Fri 4 Dec, Miami. 1 artist on the bill: Patrice Bäumel. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

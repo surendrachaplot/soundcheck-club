@@ -1,6 +1,6 @@
 # Hyper Dreams x Airport x H33 at Airport Würzburg
 
-Hyper Dreams x Airport x H33 at Airport Würzburg on Fri 20 Nov, Nurnberg. 13 acts on the bill: Anuuk, Cassa Cristano, Cassie Raptor and Dominique Lamee and 9 more. Techno. Preview the line-up and save it on soundcheck.
+Hyper Dreams x Airport x H33 at Airport Würzburg on Fri 20 Nov, Nürnberg. 13 artists on the bill: Anuuk, Cassa Cristano, Cassie Raptor and Dominique Lamee and 9 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

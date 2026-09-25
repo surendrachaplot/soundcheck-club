@@ -1,6 +1,6 @@
 # Brunch Electronik Lisboa 2026 #8: CLOSING - Richie Hawtin, Chris Liebing B2B Luke Slater, at Tapada da Ajuda
 
-Brunch Electronik Lisboa 2026 #8: CLOSING - Richie Hawtin, Chris Liebing B2B Luke Slater, at Tapada da Ajuda on Sat 26 Sept, Lisbon. 7 acts on the bill: Chlär, Chris Liebing, IMOGEN and Luke Slater and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Brunch Electronik Lisboa 2026 #8: CLOSING - Richie Hawtin, Chris Liebing B2B Luke Slater, at Tapada da Ajuda on Sat 26 Sept, Lisbon. 7 artists on the bill: Chlär, Chris Liebing, IMOGEN and Luke Slater and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

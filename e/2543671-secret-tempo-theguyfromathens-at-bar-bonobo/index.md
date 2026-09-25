@@ -1,6 +1,6 @@
 # Secret Tempo: theguyfromathens at Bar Bonobo
 
-Secret Tempo: theguyfromathens at Bar Bonobo on Thu 29 Oct, Newyorkcity. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Secret Tempo: theguyfromathens at Bar Bonobo on Thu 29 Oct, New York City. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

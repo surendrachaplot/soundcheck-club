@@ -1,6 +1,6 @@
 # ULTRA SUNN with Soft Vein + DJ Jeffo at Le Poisson Rouge
 
-ULTRA SUNN with Soft Vein + DJ Jeffo at Le Poisson Rouge on Sat 17 Oct, Newyorkcity. EBM and Industrial. Preview the line-up and save it on soundcheck.
+ULTRA SUNN with Soft Vein + DJ Jeffo at Le Poisson Rouge on Sat 17 Oct, New York City. EBM and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

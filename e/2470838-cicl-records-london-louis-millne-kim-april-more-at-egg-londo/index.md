@@ -1,6 +1,6 @@
 # Ciclé Records London - Louis Millne, Kim April + MORE at Egg London
 
-Ciclé Records London - Louis Millne, Kim April + MORE at Egg London on Sat 26 Sept, London. 3 acts on the bill: Cassius Holland, Kim April and Louis Millne. House and Minimal. Preview the line-up and save it on soundcheck.
+Ciclé Records London - Louis Millne, Kim April + MORE at Egg London on Sat 26 Sept, London. 3 artists on the bill: Cassius Holland, Kim April and Louis Millne. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

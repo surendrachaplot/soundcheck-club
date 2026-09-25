@@ -1,6 +1,6 @@
 # DTLA x Saturo Sounds: Amsterdam Dance Event Showcase at Bears Amsterdam
 
-DTLA x Saturo Sounds: Amsterdam Dance Event Showcase at Bears Amsterdam on Thu 22 Oct, Amsterdam. 5 acts on the bill: AKIVA, D. Ramirez, DJ Ruby and Just Her and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+DTLA x Saturo Sounds: Amsterdam Dance Event Showcase at Bears Amsterdam on Thu 22 Oct, Amsterdam. 5 artists on the bill: AKIVA, D. Ramirez, DJ Ruby and Just Her and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

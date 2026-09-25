@@ -1,6 +1,6 @@
 # Hunger To Create at Berghain | Panorama Bar | Säule
 
-Hunger To Create at Berghain | Panorama Bar | Säule on Thu 15 Oct, Berlin. 3 acts on the bill: Anthony Linell, Dasha Rush and Megan Leber. Preview the line-up and save it on soundcheck.
+Hunger To Create at Berghain | Panorama Bar | Säule on Thu 15 Oct, Berlin. 3 artists on the bill: Anthony Linell, Dasha Rush and Megan Leber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Franky Wah at Savaya Bali
 
-Franky Wah at Savaya Bali on Sat 24 Oct, Bali. 1 act on the bill: Franky Wah. Techno and House. Preview the line-up and save it on soundcheck.
+Franky Wah at Savaya Bali on Sat 24 Oct, Bali. 1 artist on the bill: Franky Wah. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Motiv is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "OVERDRIVE X ecstasy garage: BÖRSCHT B2B Nukumori" on Wed, 7 Oct 2026.
 
-Motiv is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming gig, with line-ups including Nukumori and Ryan Lincoln. Browse upcoming dates, start times and who's playing. 1209 Pacific Ave, Santa Cruz, CA 95060.
+Motiv is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Nukumori and Ryan Lincoln. Browse upcoming dates, start times and who's playing. 1209 Pacific Ave, Santa Cruz, CA 95060.
 
 ## What's on
 

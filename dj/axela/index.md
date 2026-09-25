@@ -2,7 +2,7 @@
 
 Axela is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 1 Oct 2026.
 
-Axela is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside JustJovani, ELA MENTAL and GOMEZZY. Next up: F8 1192 Folsom, Sanfrancisco on Thu 1 Oct.
+Axela is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across New York City and San Francisco/Oakland. Often billed alongside JustJovani, ELA MENTAL and GOMEZZY. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 1 Oct.
 
 ## Upcoming shows
 

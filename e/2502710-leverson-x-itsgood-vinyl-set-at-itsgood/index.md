@@ -1,6 +1,6 @@
 # leverson x Itsgood (vinyl set) at Itsgood
 
-leverson x Itsgood (vinyl set) on Sat 10 Oct, London. 1 act on the bill: leverson. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+leverson x Itsgood (vinyl set) on Sat 10 Oct, London. 1 artist on the bill: leverson. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

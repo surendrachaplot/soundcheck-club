@@ -1,6 +1,6 @@
 # Deep Techno Alliance 2026 at Eiger Studios
 
-Deep Techno Alliance 2026 at Eiger Studios on Fri 23 Oct, Leeds. 2 acts on the bill: Hooley and Kuroko. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Deep Techno Alliance 2026 at Eiger Studios on Fri 23 Oct, Leeds. 2 artists on the bill: Hooley and Kuroko. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

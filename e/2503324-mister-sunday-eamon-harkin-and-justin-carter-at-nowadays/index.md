@@ -1,6 +1,6 @@
 # Mister Sunday: Eamon Harkin and Justin Carter at Nowadays
 
-Mister Sunday: Eamon Harkin and Justin Carter at Nowadays on Sun 4 Oct, Newyorkcity. 2 acts on the bill: Eamon Harkin and Justin Carter. Preview the line-up and save it on soundcheck.
+Mister Sunday: Eamon Harkin and Justin Carter at Nowadays on Sun 4 Oct, New York City. 2 artists on the bill: Eamon Harkin and Justin Carter. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

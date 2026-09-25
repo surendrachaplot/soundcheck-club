@@ -1,6 +1,6 @@
 # Dance Elements with David Elimelech & Elwood at Lolita Room 3 at Human Club
 
-Dance Elements with David Elimelech & Elwood at Lolita Room 3 at Human Club on Sat 24 Oct, Barcelona. 2 acts on the bill: David Elimelech and Elwood. Techno and House. Preview the line-up and save it on soundcheck.
+Dance Elements with David Elimelech & Elwood at Lolita Room 3 at Human Club on Sat 24 Oct, Barcelona. 2 artists on the bill: David Elimelech and Elwood. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # STATICPROOF presents: Octo Octa at TBA - Warehouse
 
-STATICPROOF presents: Octo Octa at TBA - Warehouse on Fri 2 Oct, Denver. 2 acts on the bill: Octo Octa and Poten. Breakbeat and House. Preview the line-up and save it on soundcheck.
+STATICPROOF presents: Octo Octa at TBA - Warehouse on Fri 2 Oct, Denver. 2 artists on the bill: Octo Octa and Poten. Breakbeat and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

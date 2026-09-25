@@ -1,6 +1,6 @@
 # Namaste at Akasha Las Dalias Club - Ibiza
 
-Namaste at Akasha Las Dalias Club - Ibiza on Wed 30 Sept, Ibiza. 2 acts on the bill: Defex and IBÁN MENDOZA. Preview the line-up and save it on soundcheck.
+Namaste at Akasha Las Dalias Club - Ibiza on Wed 30 Sept, Ibiza. 2 artists on the bill: Defex and IBÁN MENDOZA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

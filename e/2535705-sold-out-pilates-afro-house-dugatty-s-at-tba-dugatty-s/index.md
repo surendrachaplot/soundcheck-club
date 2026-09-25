@@ -1,6 +1,6 @@
 # SOLD OUT | Pilates × Afro House @Dugattyús at TBA - DUGATTYÚS
 
-SOLD OUT | Pilates × Afro House @Dugattyús at TBA - DUGATTYÚS on Sat 3 Oct, Budapest. 1 act on the bill: Dr. Pops. Afro House. Preview the line-up and save it on soundcheck.
+SOLD OUT | Pilates × Afro House @Dugattyús at TBA - DUGATTYÚS on Sat 3 Oct, Budapest. 1 artist on the bill: Dr. Pops. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

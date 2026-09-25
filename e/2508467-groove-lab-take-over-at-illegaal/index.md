@@ -1,6 +1,6 @@
 # GROOVE  LAB  //  TAKE OVER at Illegaal
 
-GROOVE  LAB  //  TAKE OVER at Illegaal on Fri 25 Sept, Brussels. 5 acts on the bill: ATARAXY, bemira, FatherFlow (hybrid live) and Holiness and 1 more. Techno and Jazz. Preview the line-up and save it on soundcheck.
+GROOVE  LAB  //  TAKE OVER at Illegaal on Fri 25 Sept, Brussels. 5 artists on the bill: ATARAXY, bemira, FatherFlow (hybrid live) and Holiness and 1 more. Techno and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

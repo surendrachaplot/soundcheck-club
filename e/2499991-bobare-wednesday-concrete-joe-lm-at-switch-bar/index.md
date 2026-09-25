@@ -1,6 +1,6 @@
 # Bobare Wednesday: Concrete Joe / LM at Switch Bar
 
-Bobare Wednesday: Concrete Joe / LM at Switch Bar on Wed 7 Oct, Barcelona. 1 act on the bill: LM. House and Tech House. Preview the line-up and save it on soundcheck.
+Bobare Wednesday: Concrete Joe / LM at Switch Bar on Wed 7 Oct, Barcelona. 1 artist on the bill: LM. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

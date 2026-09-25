@@ -1,6 +1,6 @@
 # Blanche Halloween with Marco Carola at Theata
 
-Blanche Halloween with Marco Carola at Theata on Fri 30 Oct, London. 5 acts on the bill: AOB, ESSNCE, Maqossa and Marco Carola and 1 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Blanche Halloween with Marco Carola at Theata on Fri 30 Oct, London. 5 artists on the bill: AOB, ESSNCE, Maqossa and Marco Carola and 1 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

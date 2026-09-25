@@ -1,6 +1,6 @@
 # Max Cooper - 3D/AV Live at Club Wintercircus
 
-Max Cooper - 3D/AV Live at Club Wintercircus on Fri 13 Nov, Ghent. 1 act on the bill: Max Cooper. Preview the line-up and save it on soundcheck.
+Max Cooper - 3D/AV Live at Club Wintercircus on Fri 13 Nov, Ghent. 1 artist on the bill: Max Cooper. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

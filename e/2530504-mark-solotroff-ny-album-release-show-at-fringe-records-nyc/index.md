@@ -1,6 +1,6 @@
 # Mark Solotroff NY Album Release Show at Fringe Records NYC
 
-Mark Solotroff NY Album Release Show at Fringe Records NYC on Fri 20 Nov, Newyorkcity. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Mark Solotroff NY Album Release Show at Fringe Records NYC on Fri 20 Nov, New York City. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

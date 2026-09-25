@@ -1,6 +1,6 @@
 # Cirrina Sessions with Tim Reaper (Techno/140 set), i-sha & residents at The Island
 
-Cirrina Sessions with Tim Reaper (Techno/140 set), i-sha & residents at The Island on Fri 6 Nov, Bristol. 3 acts on the bill: Fez the Kid, i-sha and Tim Reaper. Techno and Dubstep. Preview the line-up and save it on soundcheck.
+Cirrina Sessions with Tim Reaper (Techno/140 set), i-sha & residents at The Island on Fri 6 Nov, Bristol. 3 artists on the bill: Fez the Kid, i-sha and Tim Reaper. Techno and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

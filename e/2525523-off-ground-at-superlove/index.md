@@ -1,6 +1,6 @@
 # Off Ground at Superlove
 
-Off Ground at Superlove on Fri 25 Sept, Milan. 3 acts on the bill: Decka, Hi/Fi and Niceteed. Techno. Preview the line-up and save it on soundcheck.
+Off Ground at Superlove on Fri 25 Sept, Milan. 3 artists on the bill: Decka, Hi/Fi and Niceteed. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

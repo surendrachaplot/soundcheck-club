@@ -1,6 +1,6 @@
 # Defend Our Beauty feat. Mozhgan, Adri, Prerogative, Foor & Ross Milam at F8 1192 Folsom
 
-Defend Our Beauty feat. Mozhgan, Adri, Prerogative, Foor & Ross Milam at F8 1192 Folsom on Sat 3 Oct, Sanfrancisco. 6 acts on the bill: Amino, Christopher Foor, M66 (1) and Mozhgan and 2 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+Defend Our Beauty feat. Mozhgan, Adri, Prerogative, Foor & Ross Milam at F8 1192 Folsom on Sat 3 Oct, San Francisco/Oakland. 6 artists on the bill: Amino, Christopher Foor, M66 and Mozhgan and 2 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

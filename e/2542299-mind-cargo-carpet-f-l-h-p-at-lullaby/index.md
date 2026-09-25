@@ -1,6 +1,6 @@
 # Mind Cargo - Carpet (F.L.H.P) at Lullaby
 
-Mind Cargo - Carpet (F.L.H.P) at Lullaby on Sat 26 Sept, Newyorkcity. 1 act on the bill: Carpet (F.L.H.P). Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Mind Cargo - Carpet (F.L.H.P) at Lullaby on Sat 26 Sept, New York City. 1 artist on the bill: Carpet (F.L.H.P). Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

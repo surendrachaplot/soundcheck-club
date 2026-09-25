@@ -1,6 +1,6 @@
 # DJ Night — Ben UFO at Art Club
 
-DJ Night — Ben UFO at Art Club on Fri 25 Sept, Houston. 1 act on the bill: Ben UFO. Preview the line-up and save it on soundcheck.
+DJ Night — Ben UFO at Art Club on Fri 25 Sept, Houston. 1 artist on the bill: Ben UFO. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

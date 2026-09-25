@@ -2,7 +2,7 @@
 
 Stark (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Turbina, Budapest on Fri, 25 Sept 2026.
 
-Stark (2) is a techno and house artist based in Hungary, tracked on soundcheck, with 6 sets logged across Budapest. Often billed alongside Arash Ete, Hanussen and Kekrim. Next up: Turbina, Budapest on Fri 25 Sept.
+Stark is a techno and house artist based in Hungary, tracked on soundcheck, with 6 sets logged across Budapest. Often billed alongside Arash Ete, Hanussen and Kekrim. Next up: Turbina, Budapest on Fri 25 Sept.
 
 ## Upcoming shows
 

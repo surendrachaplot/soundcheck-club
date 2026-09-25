@@ -1,6 +1,6 @@
 # Ricardo Villalobos - Montréal at Société des arts technologiques
 
-Ricardo Villalobos - Montréal at Société des arts technologiques on Sat 26 Sept, Montreal. 4 acts on the bill: Maher Daniel, Ohm Hourani, Ricardo Villalobos and Vincent Lemieux. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Ricardo Villalobos - Montréal at Société des arts technologiques on Sat 26 Sept, Montreal. 4 artists on the bill: Maher Daniel, Ohm Hourani, Ricardo Villalobos and Vincent Lemieux. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

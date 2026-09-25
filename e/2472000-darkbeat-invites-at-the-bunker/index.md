@@ -1,6 +1,6 @@
 # Darkbeat Invites at The Bunker
 
-Darkbeat Invites at The Bunker on Sat 26 Sept, Liverpool. 1 act on the bill: Sinner. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Darkbeat Invites at The Bunker on Sat 26 Sept, Liverpool. 1 artist on the bill: Sinner. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

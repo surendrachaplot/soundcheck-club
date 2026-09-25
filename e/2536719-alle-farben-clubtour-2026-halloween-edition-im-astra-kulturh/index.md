@@ -1,6 +1,6 @@
 # Alle Farben Clubtour 2026 - Halloween Edition im Astra Kulturhaus, Berlin at Astra Kulturhaus
 
-Alle Farben Clubtour 2026 - Halloween Edition im Astra Kulturhaus, Berlin on Sat 31 Oct, Berlin. 2 acts on the bill: Alle Farben and Lahos. Electro and Club. Preview the line-up and save it on soundcheck.
+Alle Farben Clubtour 2026 - Halloween Edition im Astra Kulturhaus, Berlin on Sat 31 Oct, Berlin. 2 artists on the bill: Alle Farben and Lahos. Electro and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

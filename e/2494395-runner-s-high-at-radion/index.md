@@ -1,6 +1,6 @@
 # Runner's High at RADION
 
-Runner's High at RADION on Sat 24 Oct, Amsterdam. 15 acts on the bill: Andrew (BG), Andy (NL), Bennet (DE) and Binh and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
+Runner's High at RADION on Sat 24 Oct, Amsterdam. 15 artists on the bill: Andrew (BG), Andy (NL), Bennet (DE) and Binh and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

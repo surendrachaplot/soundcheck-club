@@ -1,6 +1,6 @@
 # Swimming Paul @ Schrotty Köln at Schrotty
 
-Swimming Paul @ Schrotty Köln on Fri 13 Nov, Cologne. 1 act on the bill: Swimming Paul. Techno. Preview the line-up and save it on soundcheck.
+Swimming Paul @ Schrotty Köln on Fri 13 Nov, Cologne. 1 artist on the bill: Swimming Paul. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

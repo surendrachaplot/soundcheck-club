@@ -1,6 +1,6 @@
 # Forest Operations Bristol at Shredenhams
 
-Forest Operations Bristol at Shredenhams on Sat 10 Oct, Bristol. 3 acts on the bill: Count Donkula, Pete Cannon and Tizz. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Forest Operations Bristol at Shredenhams on Sat 10 Oct, Bristol. 3 artists on the bill: Count Donkula, Pete Cannon and Tizz. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CAVE invites Bear-Necessity - Bears Attack at Barrio Cafe
 
-CAVE invites Bear-Necessity - Bears Attack at Barrio Cafe on Sat 3 Oct, Brussels. 1 act on the bill: Thomas M. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+CAVE invites Bear-Necessity - Bears Attack at Barrio Cafe on Sat 3 Oct, Brussels. 1 artist on the bill: Thomas M. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

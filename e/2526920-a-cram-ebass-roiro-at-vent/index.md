@@ -1,6 +1,6 @@
 # Aöcram , EBASS / ROIRO at VENT
 
-Aöcram , EBASS / ROIRO at VENT on Fri 9 Oct, Tokyo. 5 acts on the bill: Aöcram, Da Yama, Kosei Okumura and SOGI and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Aöcram , EBASS / ROIRO at VENT on Fri 9 Oct, Tokyo. 5 artists on the bill: Aöcram, Da Yama, Kosei Okumura and SOGI and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

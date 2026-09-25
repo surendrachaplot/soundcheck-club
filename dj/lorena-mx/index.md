@@ -2,7 +2,7 @@
 
 LORENA (MX) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fünk, Mexico City on Fri, 9 Oct 2026.
 
-LORENA (MX) is a house and deep house artist based in Mexico, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin and Mexicocity. Often billed alongside SOLAR X (mx), Silver Panda and Az Denar. Next up: Fünk, Mexicocity on Fri 9 Oct.
+LORENA (MX) is a house and deep house artist based in Mexico, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin and Mexico City. Often billed alongside SOLAR X (mx), Silver Panda and Az Denar. Next up: Fünk, Mexico City on Fri 9 Oct.
 
 ## Upcoming shows
 

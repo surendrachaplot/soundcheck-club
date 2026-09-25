@@ -2,7 +2,7 @@
 
 Lito (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club Frau Holle, Hamburg on Sat, 26 Sept 2026.
 
-Lito (1) is a house and techno artist based in France, tracked on soundcheck, with 6 sets logged across Barcelona, Hamburg, Mexicocity and Sandiego. Often billed alongside Arnau, Arnau Ariza and Bonzo. Next up: Club Frau Holle, Hamburg on Sat 26 Sept.
+Lito is a house and techno artist based in France, tracked on soundcheck, with 6 sets logged across Barcelona, Hamburg, Mexico City and San Diego. Often billed alongside Arnau, Arnau Ariza and Bonzo. Next up: Club Frau Holle, Hamburg on Sat 26 Sept.
 
 ## Upcoming shows
 

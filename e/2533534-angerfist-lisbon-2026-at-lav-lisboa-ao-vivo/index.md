@@ -1,6 +1,6 @@
 # Angerfist - LISBON 2026 at LAV - Lisboa ao Vivo
 
-Angerfist - LISBON 2026 at LAV - Lisboa ao Vivo on Fri 23 Oct, Lisbon. 1 act on the bill: Angerfist. Hardcore. Preview the line-up and save it on soundcheck.
+Angerfist - LISBON 2026 at LAV - Lisboa ao Vivo on Fri 23 Oct, Lisbon. 1 artist on the bill: Angerfist. Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AC Slater (Halloween Weekend) at Academy LA
 
-AC Slater (Halloween Weekend) at Academy LA on Fri 30 Oct, Losangeles. 1 act on the bill: AC Slater. House. Preview the line-up and save it on soundcheck.
+AC Slater (Halloween Weekend) at Academy LA on Fri 30 Oct, Los Angeles. 1 artist on the bill: AC Slater. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

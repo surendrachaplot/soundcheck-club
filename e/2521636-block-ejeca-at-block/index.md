@@ -1,6 +1,6 @@
 # Block: Ejeca at block.
 
-Block: Ejeca at block. on Sat 17 Oct, Dublin. 2 acts on the bill: Ejeca and Surka (1). Electronica. Preview the line-up and save it on soundcheck.
+Block: Ejeca at block. on Sat 17 Oct, Dublin. 2 artists on the bill: Ejeca and Surka. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

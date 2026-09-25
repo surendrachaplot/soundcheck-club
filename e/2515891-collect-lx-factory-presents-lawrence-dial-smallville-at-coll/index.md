@@ -1,6 +1,6 @@
 # Collect LX Factory presents Lawrence ( Dial // Smallville ) at Collect LX Factory
 
-Collect LX Factory presents Lawrence ( Dial // Smallville ) on Sat 26 Sept, Lisbon. 3 acts on the bill: Elless & Benn, Lawrence and Solid-Funk. Deep House and Electronica. Preview the line-up and save it on soundcheck.
+Collect LX Factory presents Lawrence ( Dial // Smallville ) on Sat 26 Sept, Lisbon. 3 artists on the bill: Elless & Benn, Lawrence and Solid-Funk. Deep House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

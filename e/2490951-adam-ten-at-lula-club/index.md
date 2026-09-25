@@ -1,6 +1,6 @@
 # Adam Ten at Lula Club
 
-Adam Ten at Lula Club on Sat 7 Nov, Madrid. 1 act on the bill: Adam Ten. Preview the line-up and save it on soundcheck.
+Adam Ten at Lula Club on Sat 7 Nov, Madrid. 1 artist on the bill: Adam Ten. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

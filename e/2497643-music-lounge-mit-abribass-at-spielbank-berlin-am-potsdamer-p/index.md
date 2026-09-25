@@ -1,6 +1,6 @@
 # Music Lounge mit Abribass at Spielbank Berlin am Potsdamer Platz
 
-Music Lounge mit Abribass at Spielbank Berlin am Potsdamer Platz on Wed 7 Oct, Berlin. 1 act on the bill: Abribass. House and Tech House. Preview the line-up and save it on soundcheck.
+Music Lounge mit Abribass at Spielbank Berlin am Potsdamer Platz on Wed 7 Oct, Berlin. 1 artist on the bill: Abribass. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

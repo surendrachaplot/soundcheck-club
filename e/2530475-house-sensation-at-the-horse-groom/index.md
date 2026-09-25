@@ -1,6 +1,6 @@
 # House Sensation at The Horse & Groom
 
-House Sensation at The Horse & Groom on Sat 14 Nov, London. 1 act on the bill: MzTrix. House and Deep House. Preview the line-up and save it on soundcheck.
+House Sensation at The Horse & Groom on Sat 14 Nov, London. 1 artist on the bill: MzTrix. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

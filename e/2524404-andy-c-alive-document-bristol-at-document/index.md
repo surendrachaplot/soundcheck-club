@@ -1,6 +1,6 @@
 # Andy C: AliVe - Document Bristol at Document
 
-Andy C: AliVe - Document Bristol on Sat 3 Oct, Bristol. 1 act on the bill: Andy C. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Andy C: AliVe - Document Bristol on Sat 3 Oct, Bristol. 1 artist on the bill: Andy C. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

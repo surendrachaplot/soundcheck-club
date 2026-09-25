@@ -1,6 +1,6 @@
 # Haunted Hotel Halloween at Hotel Ziggy
 
-Haunted Hotel Halloween at Hotel Ziggy on Sat 31 Oct, Losangeles. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Haunted Hotel Halloween at Hotel Ziggy on Sat 31 Oct, Los Angeles. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # COUP\E CONTAINER #6 - MONOSUM, LEESE, Suzie BABIN at Lavallée
 
-COUP\E CONTAINER #6 - MONOSUM, LEESE, Suzie BABIN at Lavallée on Sun 11 Oct, Brussels. 1 act on the bill: Leese (1). Bass and Dub. Preview the line-up and save it on soundcheck.
+COUP\E CONTAINER #6 - MONOSUM, LEESE, Suzie BABIN at Lavallée on Sun 11 Oct, Brussels. 1 artist on the bill: Leese. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

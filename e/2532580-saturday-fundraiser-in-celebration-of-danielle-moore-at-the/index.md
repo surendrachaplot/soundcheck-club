@@ -1,6 +1,6 @@
 # Saturday fundraiser in celebration of Danielle Moore at The Golden Lion
 
-Saturday fundraiser in celebration of Danielle Moore at The Golden Lion on Sat 24 Oct, Manchester. 6 acts on the bill: Bill Brewster, Crazy P, Il Bosco and James Holroyd and 2 more. Disco. Preview the line-up and save it on soundcheck.
+Saturday fundraiser in celebration of Danielle Moore at The Golden Lion on Sat 24 Oct, Manchester. 6 artists on the bill: Bill Brewster, Crazy P, Il Bosco and James Holroyd and 2 more. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

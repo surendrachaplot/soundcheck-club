@@ -1,6 +1,6 @@
 # THE CLUBBING NIGHT PROJECT @Atelier210 at Atelier 210
 
-THE CLUBBING NIGHT PROJECT @Atelier210 at Atelier 210 on Fri 9 Oct, Brussels. 2 acts on the bill: TORI ANN and VTT (BE). House and Club. Preview the line-up and save it on soundcheck.
+THE CLUBBING NIGHT PROJECT @Atelier210 at Atelier 210 on Fri 9 Oct, Brussels. 2 artists on the bill: TORI ANN and VTT (BE). House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

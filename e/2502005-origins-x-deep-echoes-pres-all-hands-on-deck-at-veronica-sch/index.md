@@ -1,6 +1,6 @@
 # ORIGINS x Deep Echoes pres. ALL HANDS ON DECK at Veronica Schip
 
-ORIGINS x Deep Echoes pres. ALL HANDS ON DECK at Veronica Schip on Sun 25 Oct, Amsterdam. 5 acts on the bill: Jaap Ligthart, KARINSMATIC, L:NQ and Pedro Mercado and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+ORIGINS x Deep Echoes pres. ALL HANDS ON DECK at Veronica Schip on Sun 25 Oct, Amsterdam. 5 artists on the bill: Jaap Ligthart, KARINSMATIC, L:NQ and Pedro Mercado and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

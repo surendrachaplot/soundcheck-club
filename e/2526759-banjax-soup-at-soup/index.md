@@ -1,6 +1,6 @@
 # BANJAX // Soup at Soup
 
-BANJAX // Soup on Thu 1 Oct, Manchester. 1 act on the bill: Coel Haines. Preview the line-up and save it on soundcheck.
+BANJAX // Soup on Thu 1 Oct, Manchester. 1 artist on the bill: Coel Haines. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

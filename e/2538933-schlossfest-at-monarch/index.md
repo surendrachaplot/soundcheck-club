@@ -1,6 +1,6 @@
 # SCHLOSSFEST at Monarch
 
-SCHLOSSFEST at Monarch on Wed 30 Sept, Berlin. 1 act on the bill: Mark van der Ree. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+SCHLOSSFEST at Monarch on Wed 30 Sept, Berlin. 1 artist on the bill: Mark van der Ree. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

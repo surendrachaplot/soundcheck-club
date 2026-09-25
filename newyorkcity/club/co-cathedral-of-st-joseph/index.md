@@ -2,7 +2,7 @@
 
 Co-Cathedral of St. Joseph is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "MEZAME FESTIVAL : james K, James Ferraro, & drumloop" on Fri, 25 Sept 2026.
 
-Co-Cathedral of St. Joseph is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including James Ferraro and james K. Browse upcoming dates, start times and who's playing. 856 Pacific Street Brooklyn, NY 11238.
+Co-Cathedral of St. Joseph is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including James Ferraro and james K. Browse upcoming dates, start times and who's playing. 856 Pacific Street Brooklyn, NY 11238.
 
 ## What's on
 

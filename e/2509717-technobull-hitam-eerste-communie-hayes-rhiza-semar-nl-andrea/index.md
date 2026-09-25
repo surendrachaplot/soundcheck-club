@@ -1,6 +1,6 @@
 # TECHNOBULL: Hitam (Eerste Communie, Hayes, Rhiza Semar /NL) Andrea Perna, THEGOD01 at Astoria
 
-TECHNOBULL: Hitam (Eerste Communie, Hayes, Rhiza Semar /NL) Andrea Perna, THEGOD01 at Astoria on Fri 30 Oct, Turin. 3 acts on the bill: Hitam, Rytm and THEGOD01. Techno. Preview the line-up and save it on soundcheck.
+TECHNOBULL: Hitam (Eerste Communie, Hayes, Rhiza Semar /NL) Andrea Perna, THEGOD01 at Astoria on Fri 30 Oct, Turin. 3 artists on the bill: Hitam, Rytm and THEGOD01. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

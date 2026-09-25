@@ -1,6 +1,6 @@
 # PRTY: Black Traffic, Tempo at Tempo
 
-PRTY: Black Traffic, Tempo on Sat 10 Oct, Glasgow. 1 act on the bill: Black Traffic. Trance and Techno. Preview the line-up and save it on soundcheck.
+PRTY: Black Traffic, Tempo on Sat 10 Oct, Glasgow. 1 artist on the bill: Black Traffic. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Toybox Terror at Cëcret by cë Gallery
 
-Toybox Terror at Cëcret by cë Gallery on Sat 17 Oct, Nashville. 2 acts on the bill: human plushie and Volast. Techno and Gabber. Preview the line-up and save it on soundcheck.
+Toybox Terror at Cëcret by cë Gallery on Sat 17 Oct, Nashville. 2 artists on the bill: human plushie and Volast. Techno and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

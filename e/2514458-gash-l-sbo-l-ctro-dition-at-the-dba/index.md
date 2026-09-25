@@ -1,6 +1,6 @@
 # GASH / lεsboᵉlεctro εdition at The DBA
 
-GASH / lεsboᵉlεctro εdition at The DBA on Fri 9 Oct, Manchester. 1 act on the bill: Lapalace. Electro and Dubstep. Preview the line-up and save it on soundcheck.
+GASH / lεsboᵉlεctro εdition at The DBA on Fri 9 Oct, Manchester. 1 artist on the bill: Lapalace. Electro and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

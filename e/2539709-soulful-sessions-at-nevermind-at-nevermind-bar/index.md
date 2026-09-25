@@ -1,6 +1,6 @@
 # Soulful Sessions at Nevermind at Nevermind Bar
 
-Soulful Sessions at Nevermind at Nevermind Bar on Sat 10 Oct, Melbourne. 1 act on the bill: Skatty. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Soulful Sessions at Nevermind at Nevermind Bar on Sat 10 Oct, Melbourne. 1 artist on the bill: Skatty. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

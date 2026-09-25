@@ -2,7 +2,7 @@
 
 MCMLXXXV is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
 
-MCMLXXXV is a techno and house artist based in Germany, tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 48 more. Often billed alongside CEM, Dj Saliva and JASSS. Next up: TBA, Losangeles on Fri 25 Sept.
+MCMLXXXV is a techno and house artist based in Germany, tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 48 more. Often billed alongside CEM, Dj Saliva and JASSS. Next up: TBA, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

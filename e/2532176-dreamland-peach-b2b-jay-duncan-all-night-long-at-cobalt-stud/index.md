@@ -1,6 +1,6 @@
 # dreamland: Peach b2b Jay Duncan All Night Long at Cobalt Studios
 
-dreamland: Peach b2b Jay Duncan All Night Long at Cobalt Studios on Fri 6 Nov, Newcastle. 2 acts on the bill: Jay Duncan and Peach. Preview the line-up and save it on soundcheck.
+dreamland: Peach b2b Jay Duncan All Night Long at Cobalt Studios on Fri 6 Nov, Newcastle. 2 artists on the bill: Jay Duncan and Peach. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

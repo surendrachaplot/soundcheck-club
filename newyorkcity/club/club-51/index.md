@@ -2,7 +2,7 @@
 
 Club 51 is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Reggaeton Friday Rave" on Fri, 25 Sept 2026.
 
-Club 51 is a music venue in Newyorkcity listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 627 West 51st Street.
+Club 51 is a music venue in New York City listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 627 West 51st Street.
 
 ## What's on
 

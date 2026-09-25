@@ -2,7 +2,7 @@
 
 ONIMAL is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mastak, Warsaw on Sat, 10 Oct 2026.
 
-ONIMAL is a techno and tech house artist based in Poland, tracked on soundcheck, with 7 sets logged across Warsaw. Often billed alongside Lyor Kalt, ATARMAL and BBN (1). Next up: Mastak, Warsaw on Sat 10 Oct.
+ONIMAL is a techno and tech house artist based in Poland, tracked on soundcheck, with 7 sets logged across Warsaw. Often billed alongside Lyor Kalt, ATARMAL and BBN. Next up: Mastak, Warsaw on Sat 10 Oct.
 
 ## Upcoming shows
 

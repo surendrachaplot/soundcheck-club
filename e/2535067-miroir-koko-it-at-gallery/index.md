@@ -1,6 +1,6 @@
 # MIROIR: KOKO (IT) at Gallery
 
-MIROIR: KOKO (IT) at Gallery on Fri 2 Oct, London. 2 acts on the bill: Jackopo and KOKO (IT). House and Deep House. Preview the line-up and save it on soundcheck.
+MIROIR: KOKO (IT) at Gallery on Fri 2 Oct, London. 2 artists on the bill: Jackopo and KOKO (IT). House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

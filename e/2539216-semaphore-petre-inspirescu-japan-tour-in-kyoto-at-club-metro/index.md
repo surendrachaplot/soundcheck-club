@@ -1,6 +1,6 @@
 # Semaphore -Petre Inspirescu Japan Tour in Kyoto- at Club Metro
 
-Semaphore -Petre Inspirescu Japan Tour in Kyoto- at Club Metro on Sat 24 Oct, Kyoto. 3 acts on the bill: Kensuke Fukushima, Masahiko Takeda and Petre Inspirescu. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Semaphore -Petre Inspirescu Japan Tour in Kyoto- at Club Metro on Sat 24 Oct, Kyoto. 3 artists on the bill: Kensuke Fukushima, Masahiko Takeda and Petre Inspirescu. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

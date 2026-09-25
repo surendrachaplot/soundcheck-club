@@ -1,6 +1,6 @@
 # Notion at Quarters
 
-Notion at Quarters on Sat 17 Oct, Brighton. 2 acts on the bill: Notion and Osmosis Jones. Bass. Preview the line-up and save it on soundcheck.
+Notion at Quarters on Sat 17 Oct, Brighton. 2 artists on the bill: Notion and Osmosis Jones. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

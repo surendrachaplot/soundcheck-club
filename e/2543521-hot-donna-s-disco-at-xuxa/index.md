@@ -1,6 +1,6 @@
 # hot donna's Disco at Xuxa
 
-hot donna's Disco at Xuxa on Sat 3 Oct, Austin. 2 acts on the bill: DJ HOT DONNA and Millhouse (US). House and Disco. Preview the line-up and save it on soundcheck.
+hot donna's Disco at Xuxa on Sat 3 Oct, Austin. 2 artists on the bill: DJ HOT DONNA and Millhouse (US). House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

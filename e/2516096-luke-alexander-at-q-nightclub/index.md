@@ -1,6 +1,6 @@
 # Luke Alexander at Q Nightclub
 
-Luke Alexander at Q Nightclub on Fri 2 Oct, Seattle. 1 act on the bill: Luke Alexander. Preview the line-up and save it on soundcheck.
+Luke Alexander at Q Nightclub on Fri 2 Oct, Seattle. 1 artist on the bill: Luke Alexander. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

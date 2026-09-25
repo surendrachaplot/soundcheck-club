@@ -1,6 +1,6 @@
 # INFERNA X MODULE: Schnoxine (DE) at MODULE
 
-INFERNA X MODULE: Schnoxine (DE) on Fri 23 Oct, Copenhagen. 5 acts on the bill: Cakebutcher, Dico Nemus, Holtz (2) and LMN (1) and 1 more. Techno. Preview the line-up and save it on soundcheck.
+INFERNA X MODULE: Schnoxine (DE) on Fri 23 Oct, Copenhagen. 5 artists on the bill: Cakebutcher, Dico Nemus, Holtz and LMN and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

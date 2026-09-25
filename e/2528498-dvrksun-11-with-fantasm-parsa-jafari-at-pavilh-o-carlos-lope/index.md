@@ -1,6 +1,6 @@
 # DVRKSUN 11 with Fantasm, Parsa Jafari at Pavilhão Carlos Lopes
 
-DVRKSUN 11 with Fantasm, Parsa Jafari at Pavilhão Carlos Lopes on Fri 2 Oct, Lisbon. 6 acts on the bill: 5ogol, Alex TB, Buchecha and Fantasm and 2 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+DVRKSUN 11 with Fantasm, Parsa Jafari at Pavilhão Carlos Lopes on Fri 2 Oct, Lisbon. 6 artists on the bill: 5ogol, Alex TB, Buchecha and Fantasm and 2 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

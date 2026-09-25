@@ -2,7 +2,7 @@
 
 Volvox is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at public records, New York City on Fri, 2 Oct 2026.
 
-Volvox is a techno and house artist based in United States of America, tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside Ellen Allien, Boris and Elli Acula. Next up: public records, Newyorkcity on Fri 2 Oct.
+Volvox is a techno and house artist based in United States of America, tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside Ellen Allien, Boris and Elli Acula. Next up: public records, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 

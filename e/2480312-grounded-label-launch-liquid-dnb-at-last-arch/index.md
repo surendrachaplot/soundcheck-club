@@ -1,6 +1,6 @@
 # GROUNDED. // LABEL LAUNCH // LIQUID DNB at Last Arch
 
-GROUNDED. // LABEL LAUNCH // LIQUID DNB at Last Arch on Sat 3 Oct, London. 6 acts on the bill: Episode Three, ETHICS, karishma and Slimist and 2 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+GROUNDED. // LABEL LAUNCH // LIQUID DNB at Last Arch on Sat 3 Oct, London. 6 artists on the bill: Episode Three, ETHICS, karishma and Slimist and 2 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 ZATAC is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tempio del Futuro Perduto, Milan on Thu, 8 Oct 2026.
 
-ZATAC is a techno artist based in Italy, tracked on soundcheck, with 15 sets logged across London, Milan, Rome and Turin. Often billed alongside Luca Armando, GLEDIS and Alice (3). Next up: Tempio del Futuro Perduto, Milan on Thu 8 Oct.
+ZATAC is a techno artist based in Italy, tracked on soundcheck, with 15 sets logged across London, Milan, Rome and Turin. Often billed alongside Luca Armando, GLEDIS and Alice. Next up: Tempio del Futuro Perduto, Milan on Thu 8 Oct.
 
 ## Upcoming shows
 

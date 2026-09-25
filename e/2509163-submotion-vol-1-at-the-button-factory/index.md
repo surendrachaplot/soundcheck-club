@@ -1,6 +1,6 @@
 # Submotion Vol. 1 at The Button Factory
 
-Submotion Vol. 1 at The Button Factory on Sat 26 Sept, Auckland. 3 acts on the bill: Bass, Brown Sugar and Dylan C. Drum & Bass and Dub. Preview the line-up and save it on soundcheck.
+Submotion Vol. 1 at The Button Factory on Sat 26 Sept, Auckland. 3 artists on the bill: Bass, Brown Sugar and Dylan C. Drum & Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

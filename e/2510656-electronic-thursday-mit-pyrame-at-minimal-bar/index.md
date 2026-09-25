@@ -1,6 +1,6 @@
 # electronic.thursday mit Pyrame at Minimal Bar
 
-electronic.thursday mit Pyrame at Minimal Bar on Thu 26 Nov, Berlin. 1 act on the bill: Pyrame. Preview the line-up and save it on soundcheck.
+electronic.thursday mit Pyrame at Minimal Bar on Thu 26 Nov, Berlin. 1 artist on the bill: Pyrame. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

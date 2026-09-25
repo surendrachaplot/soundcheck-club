@@ -1,6 +1,6 @@
 # Unsound Warszawa 2026: FLEX - Debit / gummi b2b Taan / Hekt / Pink Siifu at OCZKI
 
-Unsound Warszawa 2026: FLEX - Debit / gummi b2b Taan / Hekt / Pink Siifu at OCZKI on Sun 4 Oct, Warsaw. 4 acts on the bill: Debit, gummi, Hekt and Taan. Preview the line-up and save it on soundcheck.
+Unsound Warszawa 2026: FLEX - Debit / gummi b2b Taan / Hekt / Pink Siifu at OCZKI on Sun 4 Oct, Warsaw. 4 artists on the bill: Debit, gummi, Hekt and Taan. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

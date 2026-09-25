@@ -2,7 +2,7 @@
 
 Amarcord is a Acid and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kultur Lounge, Leipzig on Sat, 19 Dec 2026.
 
-Amarcord is an acid and ebm artist based in Italy, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Leipzig and Newyorkcity and 4 more. Often billed alongside Dorian Flagrant, Facets and Kendal. Next up: Kultur Lounge, Leipzig on Sat 19 Dec.
+Amarcord is an acid and ebm artist based in Italy, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Leipzig and New York City and 4 more. Often billed alongside Dorian Flagrant, Facets and Kendal. Next up: Kultur Lounge, Leipzig on Sat 19 Dec.
 
 ## Upcoming shows
 

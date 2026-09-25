@@ -1,12 +1,12 @@
 # Paralelo 31/51 presenta: Barker at Centro Cultural Antu Quillen
 
-Paralelo 31/51 presenta: Barker at Centro Cultural Antu Quillen on Wed 9 Dec, All. 2 acts on the bill: aantz and Barker. Preview the line-up and save it on soundcheck.
+Paralelo 31/51 presenta: Barker at Centro Cultural Antu Quillen on Wed 9 Dec, Argentina. 2 artists on the bill: aantz and Barker. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Wed, 9 Dec 2026 |
 | Venue | Centro Cultural Antu Quillen |
-| City | All |
+| City | Argentina |
 
 ## Line-up
 

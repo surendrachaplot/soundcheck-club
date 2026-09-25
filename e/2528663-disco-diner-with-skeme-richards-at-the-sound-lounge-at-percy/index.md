@@ -1,6 +1,6 @@
 # Disco Diner with Skeme Richards at The Sound Lounge at Percy
 
-Disco Diner with Skeme Richards at The Sound Lounge at Percy on Fri 25 Sept, Philadelphia. 1 act on the bill: Skeme Richards. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Disco Diner with Skeme Richards at The Sound Lounge at Percy on Fri 25 Sept, Philadelphia. 1 artist on the bill: Skeme Richards. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

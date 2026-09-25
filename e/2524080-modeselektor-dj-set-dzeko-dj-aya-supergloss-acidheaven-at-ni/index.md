@@ -1,6 +1,6 @@
 # Modeselektor DJ Set · Dzeko / DJ AYA · Supergloss · acidheaven at Nitsa Club
 
-Modeselektor DJ Set · Dzeko / DJ AYA · Supergloss · acidheaven at Nitsa Club on Sat 26 Sept, Barcelona. 5 acts on the bill: acidheaven, DJ AYA, Dzeko and Modeselektor and 1 more. Techno and IDM. Preview the line-up and save it on soundcheck.
+Modeselektor DJ Set · Dzeko / DJ AYA · Supergloss · acidheaven at Nitsa Club on Sat 26 Sept, Barcelona. 5 artists on the bill: acidheaven, DJ AYA, Dzeko and Modeselektor and 1 more. Techno and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SOSA presents: COCO - Document Bristol at Document
 
-SOSA presents: COCO - Document Bristol on Sat 10 Oct, Bristol. 3 acts on the bill: Luuk van Dijk, SOSA (UK) and SUFI. House and Tech House. Preview the line-up and save it on soundcheck.
+SOSA presents: COCO - Document Bristol on Sat 10 Oct, Bristol. 3 artists on the bill: Luuk van Dijk, SOSA (UK) and SUFI. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

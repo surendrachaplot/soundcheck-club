@@ -1,6 +1,6 @@
 # [DAY] Lost Boys at S. Maria della Pietà at TBA - Santa Maria della Pietà
 
-[DAY] Lost Boys at S. Maria della Pietà at TBA - Santa Maria della Pietà on Sat 3 Oct, Rome. 7 acts on the bill: Brasi, Cinthie, Dante (H501) and Ferrari and 3 more. Preview the line-up and save it on soundcheck.
+[DAY] Lost Boys at S. Maria della Pietà at TBA - Santa Maria della Pietà on Sat 3 Oct, Rome. 7 artists on the bill: Brasi, Cinthie, Dante (H501) and Ferrari and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

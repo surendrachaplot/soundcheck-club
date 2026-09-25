@@ -1,6 +1,6 @@
 # Maleva at Absenta del Raval
 
-Maleva at Absenta del Raval on Fri 16 Oct, Barcelona. 1 act on the bill: Cucumelo. Tech House and Reggaeton. Preview the line-up and save it on soundcheck.
+Maleva at Absenta del Raval on Fri 16 Oct, Barcelona. 1 artist on the bill: Cucumelo. Tech House and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

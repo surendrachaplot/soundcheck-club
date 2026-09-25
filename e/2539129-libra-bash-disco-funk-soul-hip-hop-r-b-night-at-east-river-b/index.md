@@ -1,6 +1,6 @@
 # Libra Bash - Disco/Funk/Soul/Hip Hop/R&B Night at East River Bar
 
-Libra Bash - Disco/Funk/Soul/Hip Hop/R&B Night at East River Bar on Fri 16 Oct, Newyorkcity. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Libra Bash - Disco/Funk/Soul/Hip Hop/R&B Night at East River Bar on Fri 16 Oct, New York City. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

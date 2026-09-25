@@ -1,6 +1,6 @@
 # Elsewhere Halloween - Major League Djz, SAIDAH, D Stone, Ariel Lights b2b Sissy Elliott at Elsewhere
 
-Elsewhere Halloween - Major League Djz, SAIDAH, D Stone, Ariel Lights b2b Sissy Elliott on Sat 31 Oct, Newyorkcity. 4 acts on the bill: D Stone, Major League Djz, SAIDAH and Sissy Elliott. Preview the line-up and save it on soundcheck.
+Elsewhere Halloween - Major League Djz, SAIDAH, D Stone, Ariel Lights b2b Sissy Elliott on Sat 31 Oct, New York City. 4 artists on the bill: D Stone, Major League Djz, SAIDAH and Sissy Elliott. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

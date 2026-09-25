@@ -2,7 +2,7 @@
 
 Pisco Bar is a music venue in Kuala Lumpur with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Ohrwurm presents RUIZ OSC1 (Crowdx / Gruv, COL)" on Fri, 25 Sept 2026.
 
-Pisco Bar is a music venue in Kualalumpur listed on soundcheck. 4 upcoming gigs, with line-ups including EFTPOS MINIMUM, Mr. Yang, Notion A and Pooja B and 1 more. Browse upcoming dates, start times and who's playing. 29 Jalan Mesui, Changkat.
+Pisco Bar is a music venue in Kuala Lumpur listed on soundcheck. 4 upcoming gigs, with line-ups including EFTPOS MINIMUM, Mr. Yang, Notion A and Pooja B and 1 more. Browse upcoming dates, start times and who's playing. 29 Jalan Mesui, Changkat.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # AVA London: Skin On Skin, Evian Christ, Croatian Amor + mi-el at EartH
 
-AVA London: Skin On Skin, Evian Christ, Croatian Amor + mi-el at EartH on Sat 26 Sept, London. 4 acts on the bill: Croatian Amor, Evian Christ, mi-el and Skin On Skin. Trance and Techno. Preview the line-up and save it on soundcheck.
+AVA London: Skin On Skin, Evian Christ, Croatian Amor + mi-el at EartH on Sat 26 Sept, London. 4 artists on the bill: Croatian Amor, Evian Christ, mi-el and Skin On Skin. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

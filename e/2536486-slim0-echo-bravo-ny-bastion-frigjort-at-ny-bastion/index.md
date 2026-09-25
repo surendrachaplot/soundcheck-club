@@ -1,6 +1,6 @@
 # Slim0 & Echo, Bravo ★ Ny Bastion & Frigjort at Ny Bastion
 
-Slim0 & Echo, Bravo ★ Ny Bastion & Frigjort on Fri 2 Oct, Copenhagen. 1 act on the bill: Slim0. Preview the line-up and save it on soundcheck.
+Slim0 & Echo, Bravo ★ Ny Bastion & Frigjort on Fri 2 Oct, Copenhagen. 1 artist on the bill: Slim0. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

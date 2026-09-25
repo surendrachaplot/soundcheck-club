@@ -1,6 +1,6 @@
 # Queer & All presents: *Pier 80 Party People Precursor* at El Rio
 
-Queer & All presents: *Pier 80 Party People Precursor* at El Rio on Fri 25 Sept, Sanfrancisco. UK Funky and Electronica. Preview the line-up and save it on soundcheck.
+Queer & All presents: *Pier 80 Party People Precursor* at El Rio on Fri 25 Sept, San Francisco/Oakland. UK Funky and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

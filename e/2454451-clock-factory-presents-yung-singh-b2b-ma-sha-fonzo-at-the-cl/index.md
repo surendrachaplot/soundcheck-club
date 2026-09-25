@@ -1,6 +1,6 @@
 # Clock Factory presents: Yung Singh B2B Ma Sha & Fonzo at The Clock Factory
 
-Clock Factory presents: Yung Singh B2B Ma Sha & Fonzo at The Clock Factory on Sat 26 Sept, Bristol. 3 acts on the bill: Fonzo, Ma Sha and Yung Singh. Bass and Garage. Preview the line-up and save it on soundcheck.
+Clock Factory presents: Yung Singh B2B Ma Sha & Fonzo at The Clock Factory on Sat 26 Sept, Bristol. 3 artists on the bill: Fonzo, Ma Sha and Yung Singh. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

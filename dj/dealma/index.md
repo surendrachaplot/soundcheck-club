@@ -2,7 +2,7 @@
 
 DE ALMA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 19 Nov 2026.
 
-DE ALMA is a techno and club artist based in United States of America, tracked on soundcheck, with 51 sets logged across Chicago, Detroit, Newyorkcity and Sanfrancisco. Often billed alongside Discnogirl, DJ JUANNY and FINISHHER. Next up: 1015 Folsom, Sanfrancisco on Thu 19 Nov.
+DE ALMA is a techno and club artist based in United States of America, tracked on soundcheck, with 51 sets logged across Chicago, Detroit, New York City and San Francisco/Oakland. Often billed alongside Discnogirl, DJ JUANNY and FINISHHER. Next up: 1015 Folsom, San Francisco/Oakland on Thu 19 Nov.
 
 ## Upcoming shows
 

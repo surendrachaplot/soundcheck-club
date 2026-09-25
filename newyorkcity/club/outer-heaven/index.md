@@ -2,7 +2,7 @@
 
 Outer Heaven is a music venue in New York City with 34 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Vigilante presents: CAMILLA b2b J.N.R" on Thu, 24 Sept 2026.
 
-Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 34 upcoming gigs, with line-ups including A.Wild, Amelia Holt, Armii1n and B.Love and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
+Outer Heaven is a music venue in New York City listed on soundcheck. 34 upcoming gigs, with line-ups including A.Wild, Amelia Holt, Armii1n and B.Love and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
 ## What's on
 

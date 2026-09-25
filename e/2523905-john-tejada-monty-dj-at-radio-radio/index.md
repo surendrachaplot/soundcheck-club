@@ -1,6 +1,6 @@
 # John Tejada • Monty DJ at Radio Radio
 
-John Tejada • Monty DJ at Radio Radio on Sat 26 Sept, Amsterdam. 2 acts on the bill: John Tejada and Monty DJ. Preview the line-up and save it on soundcheck.
+John Tejada • Monty DJ at Radio Radio on Sat 26 Sept, Amsterdam. 2 artists on the bill: John Tejada and Monty DJ. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

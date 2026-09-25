@@ -1,6 +1,6 @@
 # Circus presents Rossi. Liverpool at Blackstone Street Warehouse
 
-Circus presents Rossi. Liverpool at Blackstone Street Warehouse on Sat 10 Oct, Liverpool. 1 act on the bill: Rossi. House and Tech House. Preview the line-up and save it on soundcheck.
+Circus presents Rossi. Liverpool at Blackstone Street Warehouse on Sat 10 Oct, Liverpool. 1 artist on the bill: Rossi. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

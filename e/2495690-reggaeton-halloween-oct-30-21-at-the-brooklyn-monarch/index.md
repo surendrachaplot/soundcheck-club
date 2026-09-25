@@ -1,6 +1,6 @@
 # Reggaeton Halloween OCT 30 (21+) at The Brooklyn Monarch
 
-Reggaeton Halloween OCT 30 (21+) at The Brooklyn Monarch on Fri 30 Oct, Newyorkcity. Club and Reggaeton. Preview the line-up and save it on soundcheck.
+Reggaeton Halloween OCT 30 (21+) at The Brooklyn Monarch on Fri 30 Oct, New York City. Club and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

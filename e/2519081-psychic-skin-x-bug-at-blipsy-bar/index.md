@@ -1,6 +1,6 @@
 # Psychic Skin x Bug at Blipsy Bar
 
-Psychic Skin x Bug at Blipsy Bar on Fri 30 Oct, Losangeles. 4 acts on the bill: Amelia Holt, Jane Margarette, Kaleb Marshall and Luke Mele. Preview the line-up and save it on soundcheck.
+Psychic Skin x Bug at Blipsy Bar on Fri 30 Oct, Los Angeles. 4 artists on the bill: Amelia Holt, Jane Margarette, Kaleb Marshall and Luke Mele. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

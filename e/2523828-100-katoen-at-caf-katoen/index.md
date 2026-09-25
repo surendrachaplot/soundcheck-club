@@ -1,6 +1,6 @@
 # 100% KATOEN at Café Katoen
 
-100% KATOEN at Café Katoen on Thu 24 Sept, Amsterdam. 1 act on the bill: Menke Felix. Preview the line-up and save it on soundcheck.
+100% KATOEN at Café Katoen on Thu 24 Sept, Amsterdam. 1 artist on the bill: Menke Felix. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

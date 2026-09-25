@@ -1,6 +1,6 @@
 # Athens of the North Disco Club at Cafe 1001
 
-Athens of the North Disco Club at Cafe 1001 on Fri 30 Oct, London. 2 acts on the bill: Athens of the North and Euan Fryer. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Athens of the North Disco Club at Cafe 1001 on Fri 30 Oct, London. 2 artists on the bill: Athens of the North and Euan Fryer. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

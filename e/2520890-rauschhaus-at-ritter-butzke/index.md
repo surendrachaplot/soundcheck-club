@@ -1,6 +1,6 @@
 # Rauschhaus at Ritter Butzke
 
-Rauschhaus at Ritter Butzke on Sat 3 Oct, Berlin. 3 acts on the bill: Danca, Michael Ritter and Rauschhaus. Techno. Preview the line-up and save it on soundcheck.
+Rauschhaus at Ritter Butzke on Sat 3 Oct, Berlin. 3 artists on the bill: Danca, Michael Ritter and Rauschhaus. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

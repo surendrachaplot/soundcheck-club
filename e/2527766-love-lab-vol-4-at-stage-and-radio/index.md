@@ -1,6 +1,6 @@
 # LOVE.LAB VOL.4 at Stage and Radio
 
-LOVE.LAB VOL.4 at Stage and Radio on Sat 3 Oct, Manchester. 4 acts on the bill: Ali Roche (2), blo rida, Club Penguin and MALVADØNA. Hardcore and Bass. Preview the line-up and save it on soundcheck.
+LOVE.LAB VOL.4 at Stage and Radio on Sat 3 Oct, Manchester. 4 artists on the bill: Ali Roche, blo rida, Club Penguin and MALVADØNA. Hardcore and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

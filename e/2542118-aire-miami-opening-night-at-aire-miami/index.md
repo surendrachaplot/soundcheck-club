@@ -1,6 +1,6 @@
 # AIRE Miami Opening Night at Aire Miami
 
-AIRE Miami Opening Night at Aire Miami on Thu 24 Sept, Miami. 1 act on the bill: Siwell. House and Afro House. Preview the line-up and save it on soundcheck.
+AIRE Miami Opening Night at Aire Miami on Thu 24 Sept, Miami. 1 artist on the bill: Siwell. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

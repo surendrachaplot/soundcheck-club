@@ -1,6 +1,6 @@
 # Pana Radio - Full Circle (A 360 experience) at Klub Werkstatt
 
-Pana Radio - Full Circle (A 360 experience) at Klub Werkstatt on Sat 3 Oct, Copenhagen. 2 acts on the bill: Demuja and DJ JM. House and Electronica. Preview the line-up and save it on soundcheck.
+Pana Radio - Full Circle (A 360 experience) at Klub Werkstatt on Sat 3 Oct, Copenhagen. 2 artists on the bill: Demuja and DJ JM. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

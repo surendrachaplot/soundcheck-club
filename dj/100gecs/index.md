@@ -2,7 +2,7 @@
 
 100 gecs is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at BERHTA, Washington DC on Sat, 31 Oct 2026.
 
-100 gecs is an electronica and electro artist based in United States of America, tracked on soundcheck, with 7 sets logged across Chicago, Losangeles, Montreal and Newyorkcity and 2 more. Often billed alongside Chaos In The CBD, Crumb and Danny L Harle. Next up: BERHTA, Washingtondc on Sat 31 Oct.
+100 gecs is an electronica and electro artist based in United States of America, tracked on soundcheck, with 7 sets logged across Chicago, Los Angeles, Montreal and New York City and 2 more. Often billed alongside Chaos In The CBD, Crumb and Danny L Harle. Next up: BERHTA, Washington DC on Sat 31 Oct.
 
 ## Upcoming shows
 

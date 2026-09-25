@@ -1,6 +1,6 @@
 # Cherry - House & Disco - XOYO at XOYO
 
-Cherry - House & Disco - XOYO on Thu 8 Oct, London. 1 act on the bill: BTAY. House and Disco. Preview the line-up and save it on soundcheck.
+Cherry - House & Disco - XOYO on Thu 8 Oct, London. 1 artist on the bill: BTAY. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

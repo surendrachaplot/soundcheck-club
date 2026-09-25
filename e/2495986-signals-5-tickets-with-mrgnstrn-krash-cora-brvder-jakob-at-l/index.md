@@ -1,6 +1,6 @@
 # SIGNALS - 5€ Tickets - with MRGNSTRN, Krash Cora, brvder jakob at Lokschuppen Berlin
 
-SIGNALS - 5€ Tickets - with MRGNSTRN, Krash Cora, brvder jakob at Lokschuppen Berlin on Wed 4 Nov, Berlin. 3 acts on the bill: brvder jakob, Krash Cora and MRGNSTRN. Trance and Techno. Preview the line-up and save it on soundcheck.
+SIGNALS - 5€ Tickets - with MRGNSTRN, Krash Cora, brvder jakob at Lokschuppen Berlin on Wed 4 Nov, Berlin. 3 artists on the bill: brvder jakob, Krash Cora and MRGNSTRN. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

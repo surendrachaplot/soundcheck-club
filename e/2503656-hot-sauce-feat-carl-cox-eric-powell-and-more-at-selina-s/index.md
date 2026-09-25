@@ -1,6 +1,6 @@
 # HOT SAUCE feat. Carl Cox, ERIC POWELL and MORE at Selina's
 
-HOT SAUCE feat. Carl Cox, ERIC POWELL and MORE at Selina's on Thu 15 Oct, Sydney. 1 act on the bill: Carl Cox. House and Tech House. Preview the line-up and save it on soundcheck.
+HOT SAUCE feat. Carl Cox, ERIC POWELL and MORE at Selina's on Thu 15 Oct, Sydney. 1 artist on the bill: Carl Cox. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

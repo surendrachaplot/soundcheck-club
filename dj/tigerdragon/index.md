@@ -2,7 +2,7 @@
 
 tiger&dragon is a Hip-Hop and R&B artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Aisotope Lounge, Tokyo on Sat, 26 Sept 2026.
 
-tiger&dragon is a hip-hop and r&b artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside MAXIM (8), DJ POIPOI and RUKE. Next up: Aisotope Lounge, Tokyo on Sat 26 Sept.
+tiger&dragon is a hip-hop and r&b artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside MAXIM, DJ POIPOI and RUKE. Next up: Aisotope Lounge, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 

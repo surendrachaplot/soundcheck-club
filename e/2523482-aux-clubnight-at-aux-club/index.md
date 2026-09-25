@@ -1,6 +1,6 @@
 # aux: clubnight at AUX Club
 
-aux: clubnight at AUX Club on Fri 23 Oct, Athens. 3 acts on the bill: a.metz, Adam Des and Cirkle. Techno. Preview the line-up and save it on soundcheck.
+aux: clubnight at AUX Club on Fri 23 Oct, Athens. 3 artists on the bill: a.metz, Adam Des and Cirkle. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

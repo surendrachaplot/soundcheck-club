@@ -1,6 +1,6 @@
 # KOERPER x Crack Bellmer at Crack Bellmer
 
-KOERPER x Crack Bellmer on Thu 1 Oct, Berlin. 3 acts on the bill: ALKARLINE, Joe Back and RIET. House and Minimal. Preview the line-up and save it on soundcheck.
+KOERPER x Crack Bellmer on Thu 1 Oct, Berlin. 3 artists on the bill: ALKARLINE, Joe Back and RIET. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

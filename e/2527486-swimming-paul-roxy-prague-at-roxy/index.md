@@ -1,6 +1,6 @@
 # Swimming Paul ∞ ROXY Prague at Roxy
 
-Swimming Paul ∞ ROXY Prague at Roxy on Sat 10 Oct, Prague. 1 act on the bill: Swimming Paul. House. Preview the line-up and save it on soundcheck.
+Swimming Paul ∞ ROXY Prague at Roxy on Sat 10 Oct, Prague. 1 artist on the bill: Swimming Paul. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

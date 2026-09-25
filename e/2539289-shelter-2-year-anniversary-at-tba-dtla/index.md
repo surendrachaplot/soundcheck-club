@@ -1,6 +1,6 @@
 # SHELTER 2 YEAR ANNIVERSARY at TBA - DTLA
 
-SHELTER 2 YEAR ANNIVERSARY at TBA - DTLA on Sat 12 Dec, Losangeles. Techno. Preview the line-up and save it on soundcheck.
+SHELTER 2 YEAR ANNIVERSARY at TBA - DTLA on Sat 12 Dec, Los Angeles. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

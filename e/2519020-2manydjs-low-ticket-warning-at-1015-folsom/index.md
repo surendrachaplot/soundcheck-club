@@ -1,6 +1,6 @@
 # 2ManyDJs (Low Ticket Warning) at 1015 Folsom
 
-2ManyDJs (Low Ticket Warning) at 1015 Folsom on Fri 25 Sept, Sanfrancisco. 1 act on the bill: 2ManyDJs. Preview the line-up and save it on soundcheck.
+2ManyDJs (Low Ticket Warning) at 1015 Folsom on Fri 25 Sept, San Francisco/Oakland. 1 artist on the bill: 2ManyDJs. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

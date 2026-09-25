@@ -1,6 +1,6 @@
 # DGTL ADE Friday Night at NDSM Scheepsbouwloods
 
-DGTL ADE Friday Night at NDSM Scheepsbouwloods on Fri 23 Oct, Amsterdam. 5 acts on the bill: Joris Voorn, Kevin de Vries, Miss Monique and Nicky Elisabeth and 1 more. Deep House. Preview the line-up and save it on soundcheck.
+DGTL ADE Friday Night at NDSM Scheepsbouwloods on Fri 23 Oct, Amsterdam. 5 artists on the bill: Joris Voorn, Kevin de Vries, Miss Monique and Nicky Elisabeth and 1 more. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

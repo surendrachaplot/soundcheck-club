@@ -1,6 +1,6 @@
 # QUERICO ANNIVERSARY at MIDNIGHT EAST
 
-QUERICO ANNIVERSARY at MIDNIGHT EAST on Sat 17 Oct, Tokyo. 10 acts on the bill: Aiko Inoue, CHIDA, Good Company Broadcast Group and Hamish & Toby and 6 more. House and Tech House. Preview the line-up and save it on soundcheck.
+QUERICO ANNIVERSARY at MIDNIGHT EAST on Sat 17 Oct, Tokyo. 10 artists on the bill: Aiko Inoue, CHIDA, Good Company Broadcast Group and Hamish & Toby and 6 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

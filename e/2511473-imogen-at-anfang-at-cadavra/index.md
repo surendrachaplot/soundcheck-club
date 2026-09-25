@@ -1,6 +1,6 @@
 # IMOGEN at Anfang at Cadavra
 
-IMOGEN at Anfang at Cadavra on Thu 22 Oct, Madrid. 3 acts on the bill: IMOGEN, Jakka and VRØD. Techno and Electronica. Preview the line-up and save it on soundcheck.
+IMOGEN at Anfang at Cadavra on Thu 22 Oct, Madrid. 3 artists on the bill: IMOGEN, Jakka and VRØD. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

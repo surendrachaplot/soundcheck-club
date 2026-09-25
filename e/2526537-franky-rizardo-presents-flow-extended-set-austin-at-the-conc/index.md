@@ -1,6 +1,6 @@
 # Franky Rizardo presents FLOW (Extended Set) - Austin at The Concourse Project
 
-Franky Rizardo presents FLOW (Extended Set) - Austin at The Concourse Project on Thu 3 Dec, Austin. 1 act on the bill: Franky Rizardo. Preview the line-up and save it on soundcheck.
+Franky Rizardo presents FLOW (Extended Set) - Austin at The Concourse Project on Thu 3 Dec, Austin. 1 artist on the bill: Franky Rizardo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

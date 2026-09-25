@@ -1,6 +1,6 @@
 # bangerfabrique 'MADE IT OUT OF THE GROUPCHAT TOUR' at Wiener Stadthalle
 
-bangerfabrique 'MADE IT OUT OF THE GROUPCHAT TOUR' at Wiener Stadthalle on Sat 10 Oct, Vienna. 1 act on the bill: Bangerfabrique. Hip-Hop. Preview the line-up and save it on soundcheck.
+bangerfabrique 'MADE IT OUT OF THE GROUPCHAT TOUR' at Wiener Stadthalle on Sat 10 Oct, Vienna. 1 artist on the bill: Bangerfabrique. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

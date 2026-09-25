@@ -2,7 +2,7 @@
 
 Sebastian Konrad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
 
-Sebastian Konrad is a house and techno artist based in Switzerland, tracked on soundcheck, with 55 sets logged across Amsterdam, Basel, Berlin and Dusseldorf and 8 more. Often billed alongside Michel Sacher, Read the News and Ronny Grauer. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
+Sebastian Konrad is a house and techno artist based in Switzerland, tracked on soundcheck, with 55 sets logged across Amsterdam, Basel, Berlin and Düsseldorf and 8 more. Often billed alongside Michel Sacher, Read the News and Ronny Grauer. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 

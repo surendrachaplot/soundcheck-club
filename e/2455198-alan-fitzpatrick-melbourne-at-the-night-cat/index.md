@@ -1,6 +1,6 @@
 # Alan Fitzpatrick — MELBOURNE at The Night Cat
 
-Alan Fitzpatrick — MELBOURNE at The Night Cat on Sat 10 Oct, Melbourne. 1 act on the bill: Alan Fitzpatrick. Techno and House. Preview the line-up and save it on soundcheck.
+Alan Fitzpatrick — MELBOURNE at The Night Cat on Sat 10 Oct, Melbourne. 1 artist on the bill: Alan Fitzpatrick. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

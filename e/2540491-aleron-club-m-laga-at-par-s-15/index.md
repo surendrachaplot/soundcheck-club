@@ -1,6 +1,6 @@
 # Aleron Club MÁLAGA at París 15
 
-Aleron Club MÁLAGA at París 15 on Sat 7 Nov, Malaga. 4 acts on the bill: ArceX, Cera Khin, Luxi Villar and Selecta (ES). Electronica. Preview the line-up and save it on soundcheck.
+Aleron Club MÁLAGA at París 15 on Sat 7 Nov, Malaga. 4 artists on the bill: ArceX, Cera Khin, Luxi Villar and Selecta (ES). Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

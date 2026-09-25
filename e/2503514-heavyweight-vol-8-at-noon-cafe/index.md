@@ -1,6 +1,6 @@
 # HEAVYWEIGHT vol.8 at Noon + Cafe
 
-HEAVYWEIGHT vol.8 at Noon + Cafe on Sat 26 Sept, Osaka. 1 act on the bill: 1TA (1). Bass and Dub. Preview the line-up and save it on soundcheck.
+HEAVYWEIGHT vol.8 at Noon + Cafe on Sat 26 Sept, Osaka. 1 artist on the bill: 1TA. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # anemone at The Airliner
 
-anemone at The Airliner on Fri 2 Oct, Losangeles. 3 acts on the bill: Ava Blank, DIZI and Guaparda. Preview the line-up and save it on soundcheck.
+anemone at The Airliner on Fri 2 Oct, Los Angeles. 3 artists on the bill: Ava Blank, DIZI and Guaparda. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

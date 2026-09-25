@@ -1,6 +1,6 @@
 # Vendex presents: VALKHOR at Edelfettwerk
 
-Vendex presents: VALKHOR at Edelfettwerk on Fri 2 Oct, Hamburg. 5 acts on the bill: Cera Khin, Koboyo, Luciid and Mila Black and 1 more. Techno and Club. Preview the line-up and save it on soundcheck.
+Vendex presents: VALKHOR at Edelfettwerk on Fri 2 Oct, Hamburg. 5 artists on the bill: Cera Khin, Koboyo, Luciid and Mila Black and 1 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

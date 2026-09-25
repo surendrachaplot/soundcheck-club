@@ -1,6 +1,6 @@
 # RAUM Records x Rote Sonne at Rote Sonne
 
-RAUM Records x Rote Sonne on Sat 3 Oct, Munich. 3 acts on the bill: manu abeca, Obscur and Verhall. Techno and Ambient. Preview the line-up and save it on soundcheck.
+RAUM Records x Rote Sonne on Sat 3 Oct, Munich. 3 artists on the bill: manu abeca, Obscur and Verhall. Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

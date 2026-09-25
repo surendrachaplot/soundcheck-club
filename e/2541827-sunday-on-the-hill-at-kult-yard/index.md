@@ -1,6 +1,6 @@
 # Sunday On The Hill at Kult Yard
 
-Sunday On The Hill at Kult Yard on Sun 27 Sept, Singapore. 1 act on the bill: Helios XL. Funk / Soul and Italo Disco. Preview the line-up and save it on soundcheck.
+Sunday On The Hill at Kult Yard on Sun 27 Sept, Singapore. 1 artist on the bill: Helios XL. Funk / Soul and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

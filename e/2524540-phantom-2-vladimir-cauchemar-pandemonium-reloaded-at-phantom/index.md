@@ -1,6 +1,6 @@
 # Phantom [2] : Vladimir Cauchemar + Pandemonium Reloaded at Phantom, Paris
 
-Phantom [2] : Vladimir Cauchemar + Pandemonium Reloaded at Phantom, Paris on Fri 4 Dec, Paris. 3 acts on the bill: Hamdi, Todiefor and Vladimir Cauchemar. Preview the line-up and save it on soundcheck.
+Phantom [2] : Vladimir Cauchemar + Pandemonium Reloaded at Phantom, Paris on Fri 4 Dec, Paris. 3 artists on the bill: Hamdi, Todiefor and Vladimir Cauchemar. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cream Classical @ Liverpool Cathedral - Friday at Liverpool Anglican Cathedral
 
-Cream Classical @ Liverpool Cathedral - Friday at Liverpool Anglican Cathedral on Fri 23 Oct, Liverpool. 1 act on the bill: K-Klass. Classical and Club. Preview the line-up and save it on soundcheck.
+Cream Classical @ Liverpool Cathedral - Friday at Liverpool Anglican Cathedral on Fri 23 Oct, Liverpool. 1 artist on the bill: K-Klass. Classical and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

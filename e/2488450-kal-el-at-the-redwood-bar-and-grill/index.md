@@ -1,6 +1,6 @@
 # Kal-El at The Redwood Bar And Grill
 
-Kal-El at The Redwood Bar And Grill on Sun 27 Sept, Losangeles. Preview the line-up and save it on soundcheck.
+Kal-El at The Redwood Bar And Grill on Sun 27 Sept, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

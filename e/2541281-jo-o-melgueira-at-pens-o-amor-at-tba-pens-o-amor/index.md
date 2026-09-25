@@ -1,6 +1,6 @@
 # João Melgueira ~ at Pensão Amor at TBA - Pensão Amor
 
-João Melgueira ~ at Pensão Amor at TBA - Pensão Amor on Fri 16 Oct, Lisbon. 1 act on the bill: João Melgueira. House and Tech House. Preview the line-up and save it on soundcheck.
+João Melgueira ~ at Pensão Amor at TBA - Pensão Amor on Fri 16 Oct, Lisbon. 1 artist on the bill: João Melgueira. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

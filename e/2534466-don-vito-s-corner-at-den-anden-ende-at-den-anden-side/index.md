@@ -1,6 +1,6 @@
 # Don Vito's Corner at Den Anden Ende at Den Anden Side
 
-Don Vito's Corner at Den Anden Ende at Den Anden Side on Sat 3 Oct, Copenhagen. 3 acts on the bill: Dico Nemus, Holysss and VI/TO. Techno. Preview the line-up and save it on soundcheck.
+Don Vito's Corner at Den Anden Ende at Den Anden Side on Sat 3 Oct, Copenhagen. 3 artists on the bill: Dico Nemus, Holysss and VI/TO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

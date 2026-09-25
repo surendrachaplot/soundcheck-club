@@ -1,6 +1,6 @@
 # Rick B2B Rick [open-to-close] at Flash
 
-Rick B2B Rick [open-to-close] at Flash on Fri 25 Sept, Washingtondc. 6 acts on the bill: Essential Freaks, Jandro, Julez (2) and Proxxy and 2 more. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Rick B2B Rick [open-to-close] at Flash on Fri 25 Sept, Washington DC. 6 artists on the bill: Essential Freaks, Jandro, Julez and Proxxy and 2 more. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

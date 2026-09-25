@@ -1,6 +1,6 @@
 # Ben UFO at The Roundhouse
 
-Ben UFO at The Roundhouse on Fri 23 Oct, London. 1 act on the bill: Ben UFO. Club. Preview the line-up and save it on soundcheck.
+Ben UFO at The Roundhouse on Fri 23 Oct, London. 1 artist on the bill: Ben UFO. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

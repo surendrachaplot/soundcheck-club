@@ -1,6 +1,6 @@
 # III Points Satellite: Beltran at Jolene Downtown Miami
 
-III Points Satellite: Beltran at Jolene Downtown Miami on Sat 17 Oct, Miami. 2 acts on the bill: Beltran and Idriss D. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+III Points Satellite: Beltran at Jolene Downtown Miami on Sat 17 Oct, Miami. 2 artists on the bill: Beltran and Idriss D. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

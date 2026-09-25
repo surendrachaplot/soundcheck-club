@@ -2,7 +2,7 @@
 
 TAKUTO (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 16 Oct 2026.
 
-TAKUTO (2) is a house and techno artist based in Japan, tracked on soundcheck, with 36 sets logged across Tokyo. Often billed alongside AY (10), O.Goo and DADO. Next up: ZEROTOKYO, Tokyo on Fri 16 Oct.
+TAKUTO is a house and techno artist based in Japan, tracked on soundcheck, with 36 sets logged across Tokyo. Often billed alongside AY, O.Goo and DADO. Next up: ZEROTOKYO, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # CNTRL Pres: Captain Wallop ALL NIGHT LONG at Club Colette
 
-CNTRL Pres: Captain Wallop ALL NIGHT LONG at Club Colette on Sat 28 Nov, Birmingham. 1 act on the bill: Captain Wallop. House and Garage. Preview the line-up and save it on soundcheck.
+CNTRL Pres: Captain Wallop ALL NIGHT LONG at Club Colette on Sat 28 Nov, Birmingham. 1 artist on the bill: Captain Wallop. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

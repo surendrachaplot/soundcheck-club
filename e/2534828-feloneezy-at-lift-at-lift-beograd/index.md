@@ -1,6 +1,6 @@
 # Feloneezy at LIFT at Lift Beograd
 
-Feloneezy at LIFT at Lift Beograd on Sat 26 Sept, Belgrade. 1 act on the bill: Feloneezy. Dubstep. Preview the line-up and save it on soundcheck.
+Feloneezy at LIFT at Lift Beograd on Sat 26 Sept, Belgrade. 1 artist on the bill: Feloneezy. Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

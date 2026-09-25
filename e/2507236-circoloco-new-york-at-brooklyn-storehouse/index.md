@@ -1,6 +1,6 @@
 # CircoLoco New York at Brooklyn Storehouse
 
-CircoLoco New York at Brooklyn Storehouse on Fri 30 Oct, Newyorkcity. 8 acts on the bill: &ME, Beltran, Carlita and Konstantin and 4 more. Preview the line-up and save it on soundcheck.
+CircoLoco New York at Brooklyn Storehouse on Fri 30 Oct, New York City. 8 artists on the bill: &ME, Beltran, Carlita and Konstantin and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

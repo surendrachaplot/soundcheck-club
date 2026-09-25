@@ -1,6 +1,6 @@
 # SUPERAFTER D-EDGE SP pres.: P2: Adnan Sharif. Gabriel Brasil // LOUNGE: Bruce Leroys at D-EDGE
 
-SUPERAFTER D-EDGE SP pres.: P2: Adnan Sharif. Gabriel Brasil // LOUNGE: Bruce Leroys on Sun 27 Sept, Saopaulo. 3 acts on the bill: Adnan Sharif, Bruce Leroys and Gabriel Brasil. House and Tech House. Preview the line-up and save it on soundcheck.
+SUPERAFTER D-EDGE SP pres.: P2: Adnan Sharif. Gabriel Brasil // LOUNGE: Bruce Leroys on Sun 27 Sept, Sao Paulo. 3 artists on the bill: Adnan Sharif, Bruce Leroys and Gabriel Brasil. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

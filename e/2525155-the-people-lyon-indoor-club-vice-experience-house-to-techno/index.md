@@ -1,6 +1,6 @@
 # The People Lyon indoor club: Vice Experience (house to techno extended set) at TBA - The People Lyon
 
-The People Lyon indoor club: Vice Experience (house to techno extended set) at TBA - The People Lyon on Fri 9 Oct, Lyon. 1 act on the bill: Vice Experience. Techno and House. Preview the line-up and save it on soundcheck.
+The People Lyon indoor club: Vice Experience (house to techno extended set) at TBA - The People Lyon on Fri 9 Oct, Lyon. 1 artist on the bill: Vice Experience. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

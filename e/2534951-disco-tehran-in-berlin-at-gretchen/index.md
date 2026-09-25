@@ -1,6 +1,6 @@
 # Disco Tehran in Berlin at Gretchen
 
-Disco Tehran in Berlin at Gretchen on Fri 27 Nov, Berlin. 3 acts on the bill: Nora Moon, saHHar and T4NIT. House and Disco. Preview the line-up and save it on soundcheck.
+Disco Tehran in Berlin at Gretchen on Fri 27 Nov, Berlin. 3 artists on the bill: Nora Moon, saHHar and T4NIT. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

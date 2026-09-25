@@ -1,6 +1,6 @@
 # OXI LIVE: MODULAR / SYNTHS - with Dr. Spree - Berlin and Amsterdam at OXI
 
-OXI LIVE: MODULAR / SYNTHS - with Dr. Spree - Berlin and Amsterdam on Fri 25 Sept, Berlin. 10 acts on the bill: Bokaric, DEN!SE, Dr. Spree and Gabrielle (DE) and 6 more. Techno. Preview the line-up and save it on soundcheck.
+OXI LIVE: MODULAR / SYNTHS - with Dr. Spree - Berlin and Amsterdam on Fri 25 Sept, Berlin. 10 artists on the bill: Bokaric, DEN!SE, Dr. Spree and Gabrielle (DE) and 6 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Bug presents: PRESSURE at Gretchen
 
-The Bug presents: PRESSURE at Gretchen on Sat 21 Nov, Berlin. 5 acts on the bill: Grandmixxer, Prison Religion, Slimzee and The Bug and 1 more. Dub and Grime. Preview the line-up and save it on soundcheck.
+The Bug presents: PRESSURE at Gretchen on Sat 21 Nov, Berlin. 5 artists on the bill: Grandmixxer, Prison Religion, Slimzee and The Bug and 1 more. Dub and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

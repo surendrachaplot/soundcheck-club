@@ -1,6 +1,6 @@
 # PUMP • Gay - Queer - Open-minded at Climax-Institutes
 
-PUMP • Gay - Queer - Open-minded at Climax-Institutes on Sat 3 Oct, Stuttgart. 3 acts on the bill: Juan Del Chambo, Michael Clash Gottschalk and Nazz. Techno and House. Preview the line-up and save it on soundcheck.
+PUMP • Gay - Queer - Open-minded at Climax-Institutes on Sat 3 Oct, Stuttgart. 3 artists on the bill: Juan Del Chambo, Michael Clash Gottschalk and Nazz. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

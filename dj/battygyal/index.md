@@ -2,7 +2,7 @@
 
 Battygyal is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ki Smith Gallery, New York City on Sat, 3 Oct 2026.
 
-Battygyal is a club and techno artist based in United States of America, tracked on soundcheck, with 62 sets logged across Newyorkcity and Washingtondc. Often billed alongside znorthy, Heartbreaker and DILUVIA. Next up: Ki Smith Gallery, Newyorkcity on Sat 3 Oct.
+Battygyal is a club and techno artist based in United States of America, tracked on soundcheck, with 62 sets logged across New York City and Washington DC. Often billed alongside znorthy, Heartbreaker and DILUVIA. Next up: Ki Smith Gallery, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 

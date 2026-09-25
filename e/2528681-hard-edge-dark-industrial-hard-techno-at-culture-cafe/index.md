@@ -1,6 +1,6 @@
 # HARD EDGE: Dark&Industrial Hard Techno at Culture Cafe
 
-HARD EDGE: Dark&Industrial Hard Techno at Culture Cafe on Fri 9 Oct, Bangkok. 3 acts on the bill: Damon Rider, Gunya and The3RD. Techno and Industrial. Preview the line-up and save it on soundcheck.
+HARD EDGE: Dark&Industrial Hard Techno at Culture Cafe on Fri 9 Oct, Bangkok. 3 artists on the bill: Damon Rider, Gunya and The3RD. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

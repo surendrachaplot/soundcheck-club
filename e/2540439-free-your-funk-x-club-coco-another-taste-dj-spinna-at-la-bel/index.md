@@ -1,6 +1,6 @@
 # Free Your Funk X Club Coco: Another Taste, DJ Spinna at La Bellevilloise
 
-Free Your Funk X Club Coco: Another Taste, DJ Spinna at La Bellevilloise on Sat 14 Nov, Paris. 4 acts on the bill: Another Taste, Coco Maria, DJ Spinna and Emile Omar. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Free Your Funk X Club Coco: Another Taste, DJ Spinna at La Bellevilloise on Sat 14 Nov, Paris. 4 artists on the bill: Another Taste, Coco Maria, DJ Spinna and Emile Omar. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

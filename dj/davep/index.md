@@ -2,7 +2,7 @@
 
 Dave P is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Système, Montreal on Fri, 2 Oct 2026.
 
-Dave P is a techno and trance artist based in United States of America, tracked on soundcheck, with 63 sets logged across Barcelona, Cologne, Glasgow and Mexicocity and 5 more. Often billed alongside Zillas on Acid, Mario Cotto and JEWELSSEA. Next up: Système, Montreal on Fri 2 Oct.
+Dave P is a techno and trance artist based in United States of America, tracked on soundcheck, with 63 sets logged across Barcelona, Cologne, Glasgow and Mexico City and 5 more. Often billed alongside Zillas on Acid, Mario Cotto and JEWELSSEA. Next up: Système, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 

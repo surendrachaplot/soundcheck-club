@@ -1,6 +1,6 @@
 # King Kong Kicks • Indie Pop & Hypes + Peinlo Pop Party •JunkYard • Dortmund at Junkyard Dortmund
 
-King Kong Kicks • Indie Pop & Hypes + Peinlo Pop Party •JunkYard • Dortmund at Junkyard Dortmund on Fri 16 Oct, Dortmund-essen. Pop. Preview the line-up and save it on soundcheck.
+King Kong Kicks • Indie Pop & Hypes + Peinlo Pop Party •JunkYard • Dortmund at Junkyard Dortmund on Fri 16 Oct, Dortmund Essen. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

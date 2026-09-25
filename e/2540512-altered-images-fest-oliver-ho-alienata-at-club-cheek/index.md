@@ -1,6 +1,6 @@
 # Altered Images Fest: Oliver Ho, Alienata at Club Cheek
 
-Altered Images Fest: Oliver Ho, Alienata at Club Cheek on Sat 17 Oct, London. 2 acts on the bill: Alienata and Broken English Club. Techno and EBM. Preview the line-up and save it on soundcheck.
+Altered Images Fest: Oliver Ho, Alienata at Club Cheek on Sat 17 Oct, London. 2 artists on the bill: Alienata and Broken English Club. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

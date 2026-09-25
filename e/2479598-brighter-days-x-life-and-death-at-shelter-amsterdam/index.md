@@ -1,6 +1,6 @@
 # Brighter Days x Life and Death at Shelter Amsterdam
 
-Brighter Days x Life and Death at Shelter Amsterdam on Sat 24 Oct, Amsterdam. 6 acts on the bill: Ajuma, DJ Tennis, Kamma and Masalo and 2 more. House. Preview the line-up and save it on soundcheck.
+Brighter Days x Life and Death at Shelter Amsterdam on Sat 24 Oct, Amsterdam. 6 artists on the bill: Ajuma, DJ Tennis, Kamma and Masalo and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

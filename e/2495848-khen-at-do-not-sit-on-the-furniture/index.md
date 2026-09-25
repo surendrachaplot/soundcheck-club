@@ -1,6 +1,6 @@
 # Khen at Do Not Sit On The Furniture
 
-Khen at Do Not Sit On The Furniture on Sat 17 Oct, Miami. 2 acts on the bill: Jessy Nimni and Khen. House and Deep House. Preview the line-up and save it on soundcheck.
+Khen at Do Not Sit On The Furniture on Sat 17 Oct, Miami. 2 artists on the bill: Jessy Nimni and Khen. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

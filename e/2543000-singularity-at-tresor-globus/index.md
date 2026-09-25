@@ -1,6 +1,6 @@
 # ◥◣SINGULARITY◥◣ at Tresor / Globus
 
-◥◣SINGULARITY◥◣ at Tresor / Globus on Mon 26 Oct, Berlin. 4 acts on the bill: INAKARA, Inverse Element, Parallx and STAANA. Techno. Preview the line-up and save it on soundcheck.
+◥◣SINGULARITY◥◣ at Tresor / Globus on Mon 26 Oct, Berlin. 4 artists on the bill: INAKARA, Inverse Element, Parallx and STAANA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

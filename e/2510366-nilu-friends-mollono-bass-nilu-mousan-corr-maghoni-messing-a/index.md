@@ -1,6 +1,6 @@
 # NILU & Friends: Mollono.Bass / NILU / Mousan Corr / Maghoni & Messing at Culture Box
 
-NILU & Friends: Mollono.Bass / NILU / Mousan Corr / Maghoni & Messing at Culture Box on Fri 2 Oct, Copenhagen. 4 acts on the bill: Jakob de Wittig, Mollono.Bass, Mousan Corr and NILU. Techno and House. Preview the line-up and save it on soundcheck.
+NILU & Friends: Mollono.Bass / NILU / Mousan Corr / Maghoni & Messing at Culture Box on Fri 2 Oct, Copenhagen. 4 artists on the bill: Jakob de Wittig, Mollono.Bass, Mousan Corr and NILU. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

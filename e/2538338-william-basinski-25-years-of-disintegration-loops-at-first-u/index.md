@@ -1,6 +1,6 @@
 # William Basinski: 25 Years of Disintegration Loops at First Unitarian Church
 
-William Basinski: 25 Years of Disintegration Loops at First Unitarian Church on Sat 7 Nov, Philadelphia. 2 acts on the bill: claire rousay and William Basinski. Preview the line-up and save it on soundcheck.
+William Basinski: 25 Years of Disintegration Loops at First Unitarian Church on Sat 7 Nov, Philadelphia. 2 artists on the bill: claire rousay and William Basinski. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

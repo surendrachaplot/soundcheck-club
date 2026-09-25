@@ -1,6 +1,6 @@
 # GU3ST LISTE with Jen Cardini at 3oz Dive Club
 
-GU3ST LISTE with Jen Cardini at 3oz Dive Club on Thu 24 Sept, Sandiego. 4 acts on the bill: DJ Freqk3y, Jen Cardini, Kale and Krissy Marchante. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
+GU3ST LISTE with Jen Cardini at 3oz Dive Club on Thu 24 Sept, San Diego. 4 artists on the bill: DJ Freqk3y, Jen Cardini, Kale and Krissy Marchante. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

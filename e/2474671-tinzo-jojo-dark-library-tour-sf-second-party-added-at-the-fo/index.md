@@ -1,6 +1,6 @@
 # Tinzo + Jojo: Dark Library Tour SF (Second Party Added) at The Foundry
 
-Tinzo + Jojo: Dark Library Tour SF (Second Party Added) at The Foundry on Sun 25 Oct, Sanfrancisco. 2 acts on the bill: Jojo Lorenzo and Tinzo. House and Club. Preview the line-up and save it on soundcheck.
+Tinzo + Jojo: Dark Library Tour SF (Second Party Added) at The Foundry on Sun 25 Oct, San Francisco/Oakland. 2 artists on the bill: Jojo Lorenzo and Tinzo. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

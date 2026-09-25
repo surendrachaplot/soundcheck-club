@@ -1,6 +1,6 @@
 # Electron BAR TO BAR at Canal 54
 
-Electron BAR TO BAR at Canal 54 on Fri 2 Oct, Geneva. 4 acts on the bill: Braises de Velours, Cora M., Garance and Mirlaqi. Electro. Preview the line-up and save it on soundcheck.
+Electron BAR TO BAR at Canal 54 on Fri 2 Oct, Geneva. 4 artists on the bill: Braises de Velours, Cora M., Garance and Mirlaqi. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

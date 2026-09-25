@@ -1,6 +1,6 @@
 # Actress Presents Radical Frame (Live A/V) at La Gaîté Lyrique
 
-Actress Presents Radical Frame (Live A/V) at La Gaîté Lyrique on Sat 12 Dec, Paris. 1 act on the bill: Actress. Preview the line-up and save it on soundcheck.
+Actress Presents Radical Frame (Live A/V) at La Gaîté Lyrique on Sat 12 Dec, Paris. 1 artist on the bill: Actress. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

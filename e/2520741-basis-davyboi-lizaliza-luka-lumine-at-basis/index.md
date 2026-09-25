@@ -1,6 +1,6 @@
 # BASIS/ davyboi/ lizaliza/ LUKA/ LUMINE at BASIS
 
-BASIS/ davyboi/ lizaliza/ LUKA/ LUMINE on Sat 7 Nov, Utrecht. 3 acts on the bill: davyboi, lizaliza and LUMINE. Trance and Techno. Preview the line-up and save it on soundcheck.
+BASIS/ davyboi/ lizaliza/ LUKA/ LUMINE on Sat 7 Nov, Utrecht. 3 artists on the bill: davyboi, lizaliza and LUMINE. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ana  + Clarice at Silent Green
 
-Ana  + Clarice at Silent Green on Mon 9 Nov, Berlin. 1 act on the bill: Ana Roxanne. Minimal and Experimental. Preview the line-up and save it on soundcheck.
+Ana  + Clarice at Silent Green on Mon 9 Nov, Berlin. 1 artist on the bill: Ana Roxanne. Minimal and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

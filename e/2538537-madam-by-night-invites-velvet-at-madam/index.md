@@ -1,6 +1,6 @@
 # Madam by Night invites: VELVET at Madam
 
-Madam by Night invites: VELVET on Fri 6 Nov, Amsterdam. 3 acts on the bill: Ciclo, Lidia Lo and Sanne Dammers. Tech House. Preview the line-up and save it on soundcheck.
+Madam by Night invites: VELVET on Fri 6 Nov, Amsterdam. 3 artists on the bill: Ciclo, Lidia Lo and Sanne Dammers. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

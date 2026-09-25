@@ -1,6 +1,6 @@
 # Interfering Grounds x Futura Artists at Garage Noord
 
-Interfering Grounds x Futura Artists at Garage Noord on Thu 22 Oct, Amsterdam. 6 acts on the bill: Budino, Camille Maria, Crisp Sandwich and Lena Willikens and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Interfering Grounds x Futura Artists at Garage Noord on Thu 22 Oct, Amsterdam. 6 artists on the bill: Budino, Camille Maria, Crisp Sandwich and Lena Willikens and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

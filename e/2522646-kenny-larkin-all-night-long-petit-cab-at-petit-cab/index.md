@@ -1,6 +1,6 @@
 # Kenny Larkin [All Night Long] @ Petit Cab at Petit CAB
 
-Kenny Larkin [All Night Long] @ Petit Cab at Petit CAB on Fri 6 Nov, Marseille. 1 act on the bill: Kenny Larkin. Techno. Preview the line-up and save it on soundcheck.
+Kenny Larkin [All Night Long] @ Petit Cab at Petit CAB on Fri 6 Nov, Marseille. 1 artist on the bill: Kenny Larkin. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

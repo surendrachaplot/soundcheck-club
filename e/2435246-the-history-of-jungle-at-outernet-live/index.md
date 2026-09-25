@@ -1,6 +1,6 @@
 # The History of Jungle at Outernet Live
 
-The History of Jungle at Outernet Live on Sat 14 Nov, London. 14 acts on the bill: DJ Hype, DJ Rap, DJ SS and Eksman and 10 more. Jungle. Preview the line-up and save it on soundcheck.
+The History of Jungle at Outernet Live on Sat 14 Nov, London. 14 artists on the bill: DJ Hype, DJ Rap, DJ SS and Eksman and 10 more. Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

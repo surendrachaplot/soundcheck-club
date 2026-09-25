@@ -1,6 +1,6 @@
 # Hunee (Hunchin' all night long) Bar40 hosted by Seedlink at Garage Noord
 
-Hunee (Hunchin' all night long) Bar40 hosted by Seedlink at Garage Noord on Fri 25 Sept, Amsterdam. 2 acts on the bill: Callahan and Hunee. Preview the line-up and save it on soundcheck.
+Hunee (Hunchin' all night long) Bar40 hosted by Seedlink at Garage Noord on Fri 25 Sept, Amsterdam. 2 artists on the bill: Callahan and Hunee. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FKJ - Tyber Tour at Astra Kulturhaus
 
-FKJ - Tyber Tour at Astra Kulturhaus on Wed 21 Oct, Berlin. 1 act on the bill: FKJ. Preview the line-up and save it on soundcheck.
+FKJ - Tyber Tour at Astra Kulturhaus on Wed 21 Oct, Berlin. 1 artist on the bill: FKJ. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

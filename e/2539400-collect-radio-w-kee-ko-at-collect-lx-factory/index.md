@@ -1,6 +1,6 @@
 # COLLECT RADIO w/ KEE_KO at Collect LX Factory
 
-COLLECT RADIO w/ KEE_KO at Collect LX Factory on Thu 24 Sept, Lisbon. 1 act on the bill: Kee_ko. Techno and House. Preview the line-up and save it on soundcheck.
+COLLECT RADIO w/ KEE_KO at Collect LX Factory on Thu 24 Sept, Lisbon. 1 artist on the bill: Kee_ko. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

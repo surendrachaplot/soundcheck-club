@@ -1,6 +1,6 @@
 # JASNA 9TH BDAY — DAY 2 at Jasna 1
 
-JASNA 9TH BDAY — DAY 2 at Jasna 1 on Sat 26 Sept, Warsaw. 9 acts on the bill: Aii PS, Earth Trax, Ilya Semashkevich and MATRIX3K and 5 more. Preview the line-up and save it on soundcheck.
+JASNA 9TH BDAY — DAY 2 at Jasna 1 on Sat 26 Sept, Warsaw. 9 artists on the bill: Aii PS, Earth Trax, Ilya Semashkevich and MATRIX3K and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

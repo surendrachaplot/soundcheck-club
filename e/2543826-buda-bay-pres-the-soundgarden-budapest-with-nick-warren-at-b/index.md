@@ -1,6 +1,6 @@
 # Óbuda Bay pres. The Soundgarden Budapest with Nick Warren at Óbuda Bay
 
-Óbuda Bay pres. The Soundgarden Budapest with Nick Warren on Sat 17 Oct, Budapest. 3 acts on the bill: Husa & Zeyada, Nick Warren and Peter Makto. Preview the line-up and save it on soundcheck.
+Óbuda Bay pres. The Soundgarden Budapest with Nick Warren on Sat 17 Oct, Budapest. 3 artists on the bill: Husa & Zeyada, Nick Warren and Peter Makto. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # d.tour: Eera (Surf Gang), Touching Ice (Dj set) at Danzhaus/The Gingerbread House
 
-d.tour: Eera (Surf Gang), Touching Ice (Dj set) at Danzhaus/The Gingerbread House on Sat 26 Sept, Sanfrancisco. 1 act on the bill: Eera. Club and Electronica. Preview the line-up and save it on soundcheck.
+d.tour: Eera (Surf Gang), Touching Ice (Dj set) at Danzhaus/The Gingerbread House on Sat 26 Sept, San Francisco/Oakland. 1 artist on the bill: Eera. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

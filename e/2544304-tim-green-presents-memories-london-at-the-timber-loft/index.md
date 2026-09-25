@@ -1,6 +1,6 @@
 # Tim Green presents: Memories - London at The Timber Loft
 
-Tim Green presents: Memories - London at The Timber Loft on Sat 21 Nov, London. 1 act on the bill: Tim Green. House. Preview the line-up and save it on soundcheck.
+Tim Green presents: Memories - London at The Timber Loft on Sat 21 Nov, London. 1 artist on the bill: Tim Green. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

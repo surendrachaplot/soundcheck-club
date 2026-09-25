@@ -1,6 +1,6 @@
 # POLYxMODE take over at Minimal Bar
 
-POLYxMODE take over at Minimal Bar on Sat 3 Oct, Berlin. 3 acts on the bill: CEEE, Danny Subsonic and Kijara. House and Minimal. Preview the line-up and save it on soundcheck.
+POLYxMODE take over at Minimal Bar on Sat 3 Oct, Berlin. 3 artists on the bill: CEEE, Danny Subsonic and Kijara. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Lars Eidinger & Voltmar at Salon des Amateurs
 
-Lars Eidinger & Voltmar at Salon des Amateurs on Fri 25 Sept, Dusseldorf. 2 acts on the bill: Lars Eidinger and Voltmar. Preview the line-up and save it on soundcheck.
+Lars Eidinger & Voltmar at Salon des Amateurs on Fri 25 Sept, Düsseldorf. 2 artists on the bill: Lars Eidinger and Voltmar. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VOID OPENING // Jamie Fielding at Void Hull
 
-VOID OPENING // Jamie Fielding at Void Hull on Sat 3 Oct, North. 2 acts on the bill: Chopper (UK) and Jamie Fielding. Preview the line-up and save it on soundcheck.
+VOID OPENING // Jamie Fielding at Void Hull on Sat 3 Oct, North. 2 artists on the bill: Chopper (UK) and Jamie Fielding. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

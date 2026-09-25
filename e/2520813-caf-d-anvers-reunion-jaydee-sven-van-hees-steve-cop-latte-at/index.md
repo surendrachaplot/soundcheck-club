@@ -1,6 +1,6 @@
 # Café d'Anvers Reunion: Jaydee, Sven Van Hees, Steve Cop, Latte at TRAUM
 
-Café d'Anvers Reunion: Jaydee, Sven Van Hees, Steve Cop, Latte at TRAUM on Sat 26 Sept, Antwerp. 1 act on the bill: Steve Cop. House. Preview the line-up and save it on soundcheck.
+Café d'Anvers Reunion: Jaydee, Sven Van Hees, Steve Cop, Latte at TRAUM on Sat 26 Sept, Antwerp. 1 artist on the bill: Steve Cop. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

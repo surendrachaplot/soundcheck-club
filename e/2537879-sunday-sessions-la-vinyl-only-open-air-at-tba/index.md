@@ -1,6 +1,6 @@
 # Sunday Sessions LA (Vinyl Only) Open Air at TBA
 
-Sunday Sessions LA (Vinyl Only) Open Air at TBA on Sun 18 Oct, Losangeles. 2 acts on the bill: Daniel Allen and Nico. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunday Sessions LA (Vinyl Only) Open Air at TBA on Sun 18 Oct, Los Angeles. 2 artists on the bill: Daniel Allen and Nico. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

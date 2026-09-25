@@ -1,6 +1,6 @@
 # The Black Box presents: Villem at The Black Box
 
-The Black Box presents: Villem on Fri 23 Oct, Denver. 1 act on the bill: Villem. Drum & Bass. Preview the line-up and save it on soundcheck.
+The Black Box presents: Villem on Fri 23 Oct, Denver. 1 artist on the bill: Villem. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

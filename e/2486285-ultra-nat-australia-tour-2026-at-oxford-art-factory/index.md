@@ -1,6 +1,6 @@
 # Ultra Naté - AUSTRALIA Tour 2026 at Oxford Art Factory
 
-Ultra Naté - AUSTRALIA Tour 2026 at Oxford Art Factory on Sun 22 Nov, Sydney. 1 act on the bill: Ultra Naté. House and Disco. Preview the line-up and save it on soundcheck.
+Ultra Naté - AUSTRALIA Tour 2026 at Oxford Art Factory on Sun 22 Nov, Sydney. 1 artist on the bill: Ultra Naté. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

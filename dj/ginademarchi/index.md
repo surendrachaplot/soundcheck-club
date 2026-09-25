@@ -1,8 +1,8 @@
 # Gina Demarchi
 
-Gina Demarchi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at UNDERCITY, Seoul on Sat, 26 Sept 2026.
+Gina Demarchi is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at UNDERCITY, Seoul on Sat, 26 Sept 2026.
 
-Gina Demarchi is a techno and house artist based in Germany, tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Amanda Mussi, Anders Horse and Chris Liebing. Next up: UNDERCITY, Seoul on Sat 26 Sept.
+Gina Demarchi is a techno and house artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Amanda Mussi, Anders Horse and Chris Liebing. Next up: UNDERCITY, Seoul on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Gina Demarchi is a techno and house artist based in Germany, tracked on soundche
 | Sun, 11 Oct 2026 | Klakaz | Athens |
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 24 Oct 2026 | Basement (Amsterdam) | Amsterdam |
+| Sat, 24 Oct 2026 | Depo Klub | Zagreb |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Happy Birthday Jonathan Lougrhan at The Rose
 
-Happy Birthday Jonathan Lougrhan at The Rose on Tue 3 Nov, Newyorkcity. 1 act on the bill: Gino Santos. Disco and Experimental. Preview the line-up and save it on soundcheck.
+Happy Birthday Jonathan Lougrhan at The Rose on Tue 3 Nov, New York City. 1 artist on the bill: Gino Santos. Disco and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

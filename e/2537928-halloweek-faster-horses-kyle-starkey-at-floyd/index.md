@@ -1,6 +1,6 @@
 # Halloweek: Faster Horses + Kyle Starkey at Floyd
 
-Halloweek: Faster Horses + Kyle Starkey at Floyd on Sat 31 Oct, Miami. 4 acts on the bill: Deep Cleansing, Faster Horses, Kyle Starkey and Winter Wrong. Trance and House. Preview the line-up and save it on soundcheck.
+Halloweek: Faster Horses + Kyle Starkey at Floyd on Sat 31 Oct, Miami. 4 artists on the bill: Deep Cleansing, Faster Horses, Kyle Starkey and Winter Wrong. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

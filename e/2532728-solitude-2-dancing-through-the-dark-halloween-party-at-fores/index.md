@@ -1,6 +1,6 @@
 # SOLITUDE 2 — DANCING THROUGH THE DARK Halloween Party at Forestlimit
 
-SOLITUDE 2 — DANCING THROUGH THE DARK Halloween Party at Forestlimit on Sat 31 Oct, Tokyo. 2 acts on the bill: DREYA and Nyxx. Industrial and Post-Punk. Preview the line-up and save it on soundcheck.
+SOLITUDE 2 — DANCING THROUGH THE DARK Halloween Party at Forestlimit on Sat 31 Oct, Tokyo. 2 artists on the bill: DREYA and Nyxx. Industrial and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

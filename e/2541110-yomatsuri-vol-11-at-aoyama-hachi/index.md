@@ -1,6 +1,6 @@
 # 酔祭-YOMATSURI-vol.11 at Aoyama Hachi
 
-酔祭-YOMATSURI-vol.11 at Aoyama Hachi on Sat 10 Oct, Tokyo. 4 acts on the bill: AMARI, edge, Katsu Arai and Kojiro. Techno and House. Preview the line-up and save it on soundcheck.
+酔祭-YOMATSURI-vol.11 at Aoyama Hachi on Sat 10 Oct, Tokyo. 4 artists on the bill: AMARI, edge, Katsu Arai and Kojiro. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

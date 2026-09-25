@@ -1,6 +1,6 @@
 # L!m!naL at the inner circle vienna / wien
 
-L!m!naL at the inner circle vienna / wien on Sat 10 Oct, Vienna. 1 act on the bill: Groove. Techno and Acid. Preview the line-up and save it on soundcheck.
+L!m!naL at the inner circle vienna / wien on Sat 10 Oct, Vienna. 1 artist on the bill: Groove. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

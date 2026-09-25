@@ -2,7 +2,7 @@
 
 Agora Records is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "An Evening Behind the Scenes with Rene Wise presented by Seedj & ArtistMap by 6AM" on Tue, 29 Sept 2026.
 
-Agora Records is a music venue in Losangeles listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 1022 S Santa Fe Ave, Los Angeles, CA, 90021, USA.
+Agora Records is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 1022 S Santa Fe Ave, Los Angeles, CA, 90021, USA.
 
 ## What's on
 

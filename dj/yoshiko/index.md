@@ -1,8 +1,8 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
+Yoshiko is a Techno and Hardcore artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
 
-Yoshiko is a techno and hardcore artist based in Italy, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Dimitri K, A.N.I. and KLOFAMA. Next up: Airport Würzburg, Nurnberg on Fri 16 Oct.
+Yoshiko is a techno and hardcore artist based in Italy, tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside A.N.I., Dimitri K and KLOFAMA. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Yoshiko is a techno and hardcore artist based in Italy, tracked on soundcheck, w
 | Fri, 27 Nov 2026 | Arzenal | Budapest |
 | Fri, 11 Dec 2026 | Epic Prague | Prague |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 
@@ -32,6 +33,6 @@ Yoshiko is a techno and hardcore artist based in Italy, tracked on soundcheck, w
 
 ## Shares bills with
 
-Dimitri K, A.N.I., KLOFAMA
+A.N.I., Dimitri K, KLOFAMA
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*

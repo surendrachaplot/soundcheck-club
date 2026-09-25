@@ -1,6 +1,6 @@
 # REI MARA, Dj PeXu, DjFferent, DJ El Tel, Shane DB - RadioLDN - Techno Session at TBA - Secret Location
 
-REI MARA, Dj PeXu, DjFferent, DJ El Tel, Shane DB - RadioLDN - Techno Session at TBA - Secret Location on Mon 5 Oct, London. 2 acts on the bill: Dj PeXu and Shane DB. Techno. Preview the line-up and save it on soundcheck.
+REI MARA, Dj PeXu, DjFferent, DJ El Tel, Shane DB - RadioLDN - Techno Session at TBA - Secret Location on Mon 5 Oct, London. 2 artists on the bill: Dj PeXu and Shane DB. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

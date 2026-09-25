@@ -1,6 +1,6 @@
 # Mietze Conte - SWG3 Warehouse at SWG3
 
-Mietze Conte - SWG3 Warehouse on Fri 27 Nov, Glasgow. 1 act on the bill: Mietze Conte. Preview the line-up and save it on soundcheck.
+Mietze Conte - SWG3 Warehouse on Fri 27 Nov, Glasgow. 1 artist on the bill: Mietze Conte. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

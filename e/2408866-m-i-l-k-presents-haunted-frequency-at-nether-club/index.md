@@ -1,6 +1,6 @@
 # M.I.L.K. presents HAUNTED FREQUENCY at Nether Club
 
-M.I.L.K. presents HAUNTED FREQUENCY at Nether Club on Fri 16 Oct, Bucharest. 5 acts on the bill: AMEDEUS, Amnesico, CAT GROOVE and KATHERYNE and 1 more. Techno. Preview the line-up and save it on soundcheck.
+M.I.L.K. presents HAUNTED FREQUENCY at Nether Club on Fri 16 Oct, Bucharest. 5 artists on the bill: AMEDEUS, Amnesico, CAT GROOVE and KATHERYNE and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

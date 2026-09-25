@@ -1,6 +1,6 @@
 # Aircraft LIVE / OLHA BOROVYK / AFTERPARTY BY TUFF MONTY at Lieberscholli
 
-Aircraft LIVE / OLHA BOROVYK / AFTERPARTY BY TUFF MONTY at Lieberscholli on Fri 6 Nov, Munich. 1 act on the bill: Aircraft. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Aircraft LIVE / OLHA BOROVYK / AFTERPARTY BY TUFF MONTY at Lieberscholli on Fri 6 Nov, Munich. 1 artist on the bill: Aircraft. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

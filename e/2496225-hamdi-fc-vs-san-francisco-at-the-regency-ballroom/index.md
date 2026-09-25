@@ -1,6 +1,6 @@
 # Hamdi FC vs. San Francisco at The Regency Ballroom
 
-Hamdi FC vs. San Francisco at The Regency Ballroom on Fri 2 Oct, Sanfrancisco. 3 acts on the bill: Cesco, Flava D and Hamdi. Dubstep. Preview the line-up and save it on soundcheck.
+Hamdi FC vs. San Francisco at The Regency Ballroom on Fri 2 Oct, San Francisco/Oakland. 3 artists on the bill: Cesco, Flava D and Hamdi. Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

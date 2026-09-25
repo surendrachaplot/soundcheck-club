@@ -1,6 +1,6 @@
 # Soft Serve presents: Witching Hour w/ T. Jacques at The Glove That Fits
 
-Soft Serve presents: Witching Hour w/ T. Jacques at The Glove That Fits on Fri 30 Oct, London. 5 acts on the bill: Ardishko, GAZZA (UK), NAFEESA and OMC (UK) and 1 more. House. Preview the line-up and save it on soundcheck.
+Soft Serve presents: Witching Hour w/ T. Jacques at The Glove That Fits on Fri 30 Oct, London. 5 artists on the bill: Ardishko, GAZZA (UK), NAFEESA and OMC (UK) and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

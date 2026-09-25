@@ -1,14 +1,15 @@
 # PAUZA
 
-PAUZA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at [UNVRS], Ibiza on Sun, 27 Sept 2026.
+PAUZA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at [UNVRS], Ibiza on Sun, 27 Sept 2026.
 
-PAUZA is a house and techno artist based in Cuba, tracked on soundcheck, with 45 sets logged across Antwerp, Barcelona, Basel and Brussels and 14 more. Often billed alongside Carl Cox, fajardo and jose fajardo. Next up: [UNVRS], Ibiza on Sun 27 Sept.
+PAUZA is a house and techno artist based in Cuba, tracked on soundcheck, with 46 sets logged across Antwerp, Barcelona, Basel and Brussels and 15 more. Often billed alongside Carl Cox, fajardo and jose fajardo. Next up: [UNVRS], Ibiza on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | [UNVRS] | Ibiza |
+| Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 
 ## Recently played
 

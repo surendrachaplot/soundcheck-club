@@ -1,6 +1,6 @@
 # ROOM 4 IMPROVEMENT: Mesmé + Archie Sullivan b2b Phil Spank at Arcana
 
-ROOM 4 IMPROVEMENT: Mesmé + Archie Sullivan b2b Phil Spank at Arcana on Sat 17 Oct, Sanfrancisco. 1 act on the bill: Mesmé. Preview the line-up and save it on soundcheck.
+ROOM 4 IMPROVEMENT: Mesmé + Archie Sullivan b2b Phil Spank at Arcana on Sat 17 Oct, San Francisco/Oakland. 1 artist on the bill: Mesmé. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

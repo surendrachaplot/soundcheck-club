@@ -1,6 +1,6 @@
 # DOME ALONE at The Bag Factory
 
-DOME ALONE at The Bag Factory on Sat 26 Sept, Manchester. 1 act on the bill: Metrodome. Bass. Preview the line-up and save it on soundcheck.
+DOME ALONE at The Bag Factory on Sat 26 Sept, Manchester. 1 artist on the bill: Metrodome. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

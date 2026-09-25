@@ -1,6 +1,6 @@
 # Subcero x PBP Recdords at Subcero Club
 
-Subcero x PBP Recdords at Subcero Club on Thu 15 Oct, Madrid. 2 acts on the bill: AL MANDO and THEDGE. Electronica. Preview the line-up and save it on soundcheck.
+Subcero x PBP Recdords at Subcero Club on Thu 15 Oct, Madrid. 2 artists on the bill: AL MANDO and THEDGE. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

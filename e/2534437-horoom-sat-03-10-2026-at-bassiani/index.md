@@ -1,6 +1,6 @@
 # Horoom – Sat, 03.10.2026 at Bassiani
 
-Horoom – Sat, 03.10.2026 at Bassiani on Sat 3 Oct, Tbilisi. 2 acts on the bill: Kraumur and Parna. Preview the line-up and save it on soundcheck.
+Horoom – Sat, 03.10.2026 at Bassiani on Sat 3 Oct, Tbilisi. 2 artists on the bill: Kraumur and Parna. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

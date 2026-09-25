@@ -1,6 +1,6 @@
 # Disco Dom & The Brothers Macklovitch at Club Space Miami
 
-Disco Dom & The Brothers Macklovitch at Club Space Miami on Fri 2 Oct, Miami. 3 acts on the bill: Bakke, Danyelino and Dombresky. House and Disco. Preview the line-up and save it on soundcheck.
+Disco Dom & The Brothers Macklovitch at Club Space Miami on Fri 2 Oct, Miami. 3 artists on the bill: Bakke, Danyelino and Dombresky. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

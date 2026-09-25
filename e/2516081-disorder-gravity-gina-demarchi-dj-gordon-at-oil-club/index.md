@@ -1,6 +1,6 @@
 # 无序重力 Disorder Gravity: Gina Demarchi + DJ Gordon at OIL Club
 
-无序重力 Disorder Gravity: Gina Demarchi + DJ Gordon at OIL Club on Sun 4 Oct, Shenzhen. 3 acts on the bill: DJ Gordon, Gina Demarchi and o0 (1). Techno. Preview the line-up and save it on soundcheck.
+无序重力 Disorder Gravity: Gina Demarchi + DJ Gordon at OIL Club on Sun 4 Oct, Shenzhen. 3 artists on the bill: DJ Gordon, Gina Demarchi and o0. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

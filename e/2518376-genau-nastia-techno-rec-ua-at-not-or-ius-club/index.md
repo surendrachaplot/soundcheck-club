@@ -1,6 +1,6 @@
 # GENAU: Nastia (TECHNO Rec / UA) at not|or|ius Club
 
-GENAU: Nastia (TECHNO Rec / UA) at not|or|ius Club on Sat 12 Dec, Turin. 1 act on the bill: Nastia. Techno. Preview the line-up and save it on soundcheck.
+GENAU: Nastia (TECHNO Rec / UA) at not|or|ius Club on Sat 12 Dec, Turin. 1 artist on the bill: Nastia. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Studio X Bounce at Studio Club Malaga
 
-Studio X Bounce at Studio Club Malaga on Sat 24 Oct, Malaga. 2 acts on the bill: HiTMiLØW and HUMAN ERROR. Preview the line-up and save it on soundcheck.
+Studio X Bounce at Studio Club Malaga on Sat 24 Oct, Malaga. 2 artists on the bill: HiTMiLØW and HUMAN ERROR. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

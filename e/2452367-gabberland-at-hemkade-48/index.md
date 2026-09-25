@@ -1,6 +1,6 @@
 # GABBERLAND at Hemkade 48
 
-GABBERLAND at Hemkade 48 on Sat 31 Oct, Amsterdam. 5 acts on the bill: Art of Fighters, DJ Panic, Dj Promo and NoXa and 1 more. Gabber. Preview the line-up and save it on soundcheck.
+GABBERLAND at Hemkade 48 on Sat 31 Oct, Amsterdam. 5 artists on the bill: Art of Fighters, DJ Panic, Dj Promo and NoXa and 1 more. Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

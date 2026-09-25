@@ -2,7 +2,7 @@
 
 David Benjamin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Beate Uwe, Berlin on Sun, 8 Nov 2026.
 
-David Benjamin is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Istanbul, Mexicocity and Munich and 2 more. Often billed alongside Coss, Zettka and Britta Arnold. Next up: Beate Uwe, Berlin on Sun 8 Nov.
+David Benjamin is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Istanbul, Mexico City and Munich and 2 more. Often billed alongside Coss, Zettka and Britta Arnold. Next up: Beate Uwe, Berlin on Sun 8 Nov.
 
 ## Upcoming shows
 

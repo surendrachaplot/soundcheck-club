@@ -1,6 +1,6 @@
 # For Haus' Sake Season Launch at MODULE
 
-For Haus' Sake Season Launch at MODULE on Sat 26 Sept, Copenhagen. 4 acts on the bill: Eski, nΦra, tadoh and Valentina (US). House and Tech House. Preview the line-up and save it on soundcheck.
+For Haus' Sake Season Launch at MODULE on Sat 26 Sept, Copenhagen. 4 artists on the bill: Eski, nΦra, tadoh and Valentina (US). House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

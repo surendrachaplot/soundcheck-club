@@ -1,6 +1,6 @@
 # Now Always Fades 'Coalesce' Album Launch at The Night Cat
 
-Now Always Fades 'Coalesce' Album Launch at The Night Cat on Sat 5 Dec, Melbourne. 1 act on the bill: Elsie. Preview the line-up and save it on soundcheck.
+Now Always Fades 'Coalesce' Album Launch at The Night Cat on Sat 5 Dec, Melbourne. 1 artist on the bill: Elsie. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

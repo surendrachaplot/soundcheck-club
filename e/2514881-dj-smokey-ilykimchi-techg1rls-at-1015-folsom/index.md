@@ -1,6 +1,6 @@
 # DJ Smokey + ilykimchi + Techg1rls at 1015 Folsom
 
-DJ Smokey + ilykimchi + Techg1rls at 1015 Folsom on Fri 2 Oct, Sanfrancisco. 1 act on the bill: Techg1rls. Preview the line-up and save it on soundcheck.
+DJ Smokey + ilykimchi + Techg1rls at 1015 Folsom on Fri 2 Oct, San Francisco/Oakland. 1 artist on the bill: Techg1rls. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

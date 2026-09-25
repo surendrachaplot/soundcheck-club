@@ -1,6 +1,6 @@
 # Satellite: Flying Lotus (DJ Set)  More at The Ground at Club Space
 
-Satellite: Flying Lotus (DJ Set)  More at The Ground at Club Space on Thu 15 Oct, Miami. 5 acts on the bill: Actress, Flying Lotus, Ivy Lab and Loukeman and 1 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Satellite: Flying Lotus (DJ Set)  More at The Ground at Club Space on Thu 15 Oct, Miami. 5 artists on the bill: Actress, Flying Lotus, Ivy Lab and Loukeman and 1 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

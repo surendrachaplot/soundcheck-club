@@ -1,6 +1,6 @@
 # Lovie, Ashley Younnia, Sapphic Undertones at Palomino Bar
 
-Lovie, Ashley Younnia, Sapphic Undertones at Palomino Bar on Fri 25 Sept, Losangeles. 2 acts on the bill: Ashley Younniä and Lovie. Deep House and Club. Preview the line-up and save it on soundcheck.
+Lovie, Ashley Younnia, Sapphic Undertones at Palomino Bar on Fri 25 Sept, Los Angeles. 2 artists on the bill: Ashley Younniä and Lovie. Deep House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

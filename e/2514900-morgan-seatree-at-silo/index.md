@@ -1,6 +1,6 @@
 # Morgan Seatree at SILO
 
-Morgan Seatree at SILO on Fri 16 Oct, Newyorkcity. 1 act on the bill: Morgan Seatree. Trance and Pop. Preview the line-up and save it on soundcheck.
+Morgan Seatree at SILO on Fri 16 Oct, New York City. 1 artist on the bill: Morgan Seatree. Trance and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

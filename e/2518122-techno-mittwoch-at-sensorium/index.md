@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 4 Nov, Berlin. 2 acts on the bill: H7 (3) and UniKhatu. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 4 Nov, Berlin. 2 artists on the bill: H7 and UniKhatu. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 240 KM/H pres. Serafina B2B ALL NIGHT LONG at Schrotty
 
-240 KM/H pres. Serafina B2B ALL NIGHT LONG at Schrotty on Fri 9 Oct, Cologne. 4 acts on the bill: Fronsi, Neon Graveyard, Serafina and zwilling.. Techno. Preview the line-up and save it on soundcheck.
+240 KM/H pres. Serafina B2B ALL NIGHT LONG at Schrotty on Fri 9 Oct, Cologne. 4 artists on the bill: Fronsi, Neon Graveyard, Serafina and zwilling.. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

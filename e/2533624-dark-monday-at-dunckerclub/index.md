@@ -1,6 +1,6 @@
 # Dark Monday at Dunckerclub
 
-Dark Monday at Dunckerclub on Mon 28 Sept, Berlin. 1 act on the bill: Neue K. Preview the line-up and save it on soundcheck.
+Dark Monday at Dunckerclub on Mon 28 Sept, Berlin. 1 artist on the bill: Neue K. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

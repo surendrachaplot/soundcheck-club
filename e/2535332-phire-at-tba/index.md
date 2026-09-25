@@ -1,6 +1,6 @@
 # PHIRE at TBA
 
-PHIRE at TBA on Sat 3 Oct, Philadelphia. 5 acts on the bill: America Loves Me, ezri_dax, Intimacy Simulator and Malcolm XL and 1 more. Preview the line-up and save it on soundcheck.
+PHIRE at TBA on Sat 3 Oct, Philadelphia. 5 artists on the bill: America Loves Me, ezri_dax, Intimacy Simulator and Malcolm XL and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

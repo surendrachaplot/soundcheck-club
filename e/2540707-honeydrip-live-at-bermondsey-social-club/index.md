@@ -1,6 +1,6 @@
 # Honeydrip (Live) at Bermondsey Social Club
 
-Honeydrip (Live) at Bermondsey Social Club on Wed 21 Oct, London. 1 act on the bill: Honeydrip. Preview the line-up and save it on soundcheck.
+Honeydrip (Live) at Bermondsey Social Club on Wed 21 Oct, London. 1 artist on the bill: Honeydrip. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

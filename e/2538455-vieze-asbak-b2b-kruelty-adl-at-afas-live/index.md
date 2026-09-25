@@ -1,6 +1,6 @@
 # Vieze Asbak b2b KRUELTY ADL at Afas Live
 
-Vieze Asbak b2b KRUELTY ADL at Afas Live on Sat 5 Dec, Amsterdam. 2 acts on the bill: KRUELTY and Vieze Asbak. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Vieze Asbak b2b KRUELTY ADL at Afas Live on Sat 5 Dec, Amsterdam. 2 artists on the bill: KRUELTY and Vieze Asbak. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Classmatic at Coda
 
-Classmatic at Coda on Fri 30 Oct, Toronto. 1 act on the bill: Classmatic. Preview the line-up and save it on soundcheck.
+Classmatic at Coda on Fri 30 Oct, Toronto. 1 artist on the bill: Classmatic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

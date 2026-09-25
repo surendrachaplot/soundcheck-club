@@ -1,14 +1,14 @@
 # Robin RB
 
-Robin RB is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+Robin RB is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Robin RB is a house and electro artist based in Germany, tracked on soundcheck, with 36 sets logged across All, Amsterdam, Bali and Barcelona and 8 more. Often billed alongside Ben Balance, Anthea and Carmelo. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+Robin RB is a house and electro artist based in Germany, tracked on soundcheck, with 36 sets logged across Amsterdam, Bali, Barcelona and Berlin and 8 more. Often billed alongside Ben Balance, Anthea and Carmelo. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 
 ## Recently played
 

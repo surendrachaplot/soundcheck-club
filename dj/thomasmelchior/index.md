@@ -2,7 +2,7 @@
 
 Thomas Melchior is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fünk, Mexico City on Fri, 25 Sept 2026.
 
-Thomas Melchior is a house and minimal artist based in Germany, tracked on soundcheck, with 82 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Edward, Lawrence and Konstantin. Next up: Fünk, Mexicocity on Fri 25 Sept.
+Thomas Melchior is a house and minimal artist based in Germany, tracked on soundcheck, with 82 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Edward, Lawrence and Konstantin. Next up: Fünk, Mexico City on Fri 25 Sept.
 
 ## Upcoming shows
 

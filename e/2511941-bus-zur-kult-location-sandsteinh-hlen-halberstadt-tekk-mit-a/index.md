@@ -1,6 +1,6 @@
 # Bus zur Kult Location Sandsteinhöhlen Halberstadt (Tekk mit Alfred Heinrichs) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt
 
-Bus zur Kult Location Sandsteinhöhlen Halberstadt (Tekk mit Alfred Heinrichs) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 3 Oct, Frankfurt. 3 acts on the bill: Abzocka, aehm and Compact Grey. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Bus zur Kult Location Sandsteinhöhlen Halberstadt (Tekk mit Alfred Heinrichs) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 3 Oct, Frankfurt. 3 artists on the bill: Abzocka, aehm and Compact Grey. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

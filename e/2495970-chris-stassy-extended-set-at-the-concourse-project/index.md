@@ -1,6 +1,6 @@
 # Chris Stassy (Extended Set) at The Concourse Project
 
-Chris Stassy (Extended Set) at The Concourse Project on Thu 29 Oct, Austin. 1 act on the bill: CHRIS STASSY. Preview the line-up and save it on soundcheck.
+Chris Stassy (Extended Set) at The Concourse Project on Thu 29 Oct, Austin. 1 artist on the bill: CHRIS STASSY. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

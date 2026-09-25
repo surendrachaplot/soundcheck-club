@@ -1,12 +1,12 @@
 # Vision at Simplon
 
-Vision at Simplon on Fri 9 Oct, All. 1 act on the bill: Spor. Preview the line-up and save it on soundcheck.
+Vision at Simplon on Fri 9 Oct, Netherlands. 1 artist on the bill: Spor. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 9 Oct 2026 |
 | Venue | Simplon |
-| City | All |
+| City | Netherlands |
 
 ## Line-up
 

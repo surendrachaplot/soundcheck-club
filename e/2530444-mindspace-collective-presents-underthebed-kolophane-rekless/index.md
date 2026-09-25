@@ -1,6 +1,6 @@
 # Mindspace Collective presents: Underthebed / Kolophane Rekless Behavior b2b AYEENB at Blue Room
 
-Mindspace Collective presents: Underthebed / Kolophane Rekless Behavior b2b AYEENB at Blue Room on Fri 25 Sept, Montreal. 4 acts on the bill: AYEENB, Kolophane, Rekless Behavior and Underthebed. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
+Mindspace Collective presents: Underthebed / Kolophane Rekless Behavior b2b AYEENB at Blue Room on Fri 25 Sept, Montreal. 4 artists on the bill: AYEENB, Kolophane, Rekless Behavior and Underthebed. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

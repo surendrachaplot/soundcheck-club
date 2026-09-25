@@ -1,6 +1,6 @@
 # ThudLine 25 at MOT: Tai Lokun, Bryan Kessler, Special Guest + Ellie Anderson B2B Roy Don at M.O.T
 
-ThudLine 25 at MOT: Tai Lokun, Bryan Kessler, Special Guest + Ellie Anderson B2B Roy Don at M.O.T on Fri 9 Oct, London. 4 acts on the bill: Bryan Kessler, Ellie Anderson, Roy Don and Tai Lokun. House and Electro. Preview the line-up and save it on soundcheck.
+ThudLine 25 at MOT: Tai Lokun, Bryan Kessler, Special Guest + Ellie Anderson B2B Roy Don at M.O.T on Fri 9 Oct, London. 4 artists on the bill: Bryan Kessler, Ellie Anderson, Roy Don and Tai Lokun. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

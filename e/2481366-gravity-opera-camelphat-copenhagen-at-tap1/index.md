@@ -1,6 +1,6 @@
 # Gravity Opera: CamelPhat - Copenhagen at Tap1
 
-Gravity Opera: CamelPhat - Copenhagen at Tap1 on Sat 3 Oct, Copenhagen. 7 acts on the bill: Aja Gulris, CamelPhat, Desaint (DK) and Frede (NO) and 3 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Gravity Opera: CamelPhat - Copenhagen at Tap1 on Sat 3 Oct, Copenhagen. 7 artists on the bill: Aja Gulris, CamelPhat, Desaint (DK) and Frede (NO) and 3 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

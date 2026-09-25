@@ -1,6 +1,6 @@
 # 永z遼, JOKI, PInO & Yoshiyuki at DJ Bar Bridge Shinjuku
 
-永z遼, JOKI, PInO & Yoshiyuki at DJ Bar Bridge Shinjuku on Wed 7 Oct, Tokyo. 2 acts on the bill: JOKI and 永z遼 / Ryo Nagase. House. Preview the line-up and save it on soundcheck.
+永z遼, JOKI, PInO & Yoshiyuki at DJ Bar Bridge Shinjuku on Wed 7 Oct, Tokyo. 2 artists on the bill: JOKI and 永z遼 / Ryo Nagase. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

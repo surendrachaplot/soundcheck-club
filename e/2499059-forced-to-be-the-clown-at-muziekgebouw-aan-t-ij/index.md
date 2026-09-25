@@ -1,6 +1,6 @@
 # Forced to be the Clown at Muziekgebouw aan t' IJ
 
-Forced to be the Clown at Muziekgebouw aan t' IJ on Sat 3 Oct, Amsterdam. 1 act on the bill: Burchhhha. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Forced to be the Clown at Muziekgebouw aan t' IJ on Sat 3 Oct, Amsterdam. 1 artist on the bill: Burchhhha. Pop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

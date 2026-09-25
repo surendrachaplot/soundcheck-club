@@ -1,6 +1,6 @@
 # Melt at Val’s Lesbian Bar
 
-Melt at Val’s Lesbian Bar on Sat 17 Oct, Philadelphia. 3 acts on the bill: America Loves Me, Callaia and diy.ffs. Club and Electronica. Preview the line-up and save it on soundcheck.
+Melt at Val’s Lesbian Bar on Sat 17 Oct, Philadelphia. 3 artists on the bill: America Loves Me, Callaia and diy.ffs. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

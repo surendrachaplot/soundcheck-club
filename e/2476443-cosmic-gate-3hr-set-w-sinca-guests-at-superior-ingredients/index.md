@@ -1,6 +1,6 @@
 # Cosmic Gate *3hr Set* w. Sinca & Guests at Superior Ingredients
 
-Cosmic Gate *3hr Set* w. Sinca & Guests at Superior Ingredients on Sun 8 Nov, Newyorkcity. 2 acts on the bill: Cosmic Gate and Sinca. Trance. Preview the line-up and save it on soundcheck.
+Cosmic Gate *3hr Set* w. Sinca & Guests at Superior Ingredients on Sun 8 Nov, New York City. 2 artists on the bill: Cosmic Gate and Sinca. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

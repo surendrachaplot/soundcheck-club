@@ -1,6 +1,6 @@
 # CLUB EVIL DANCE NIGHT at Socore Factory
 
-CLUB EVIL DANCE NIGHT at Socore Factory on Mon 7 Dec, Osaka. 2 acts on the bill: Santos and Zen (2). Techno. Preview the line-up and save it on soundcheck.
+CLUB EVIL DANCE NIGHT at Socore Factory on Mon 7 Dec, Osaka. 2 artists on the bill: Santos and Zen. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

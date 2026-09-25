@@ -1,6 +1,6 @@
 # Tre Reynolds - Joshua Brooks Manchester at Joshua Brooks
 
-Tre Reynolds - Joshua Brooks Manchester on Sat 26 Sept, Manchester. 2 acts on the bill: James Nash and Tre Reynolds. House and Tech House. Preview the line-up and save it on soundcheck.
+Tre Reynolds - Joshua Brooks Manchester on Sat 26 Sept, Manchester. 2 artists on the bill: James Nash and Tre Reynolds. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

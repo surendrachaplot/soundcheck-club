@@ -1,6 +1,6 @@
 # BEATE HAT SEHNSUCHT at Beate Uwe
 
-BEATE HAT SEHNSUCHT at Beate Uwe on Fri 16 Oct, Berlin. 1 act on the bill: Dydaa Forne. Tech House and Downtempo. Preview the line-up and save it on soundcheck.
+BEATE HAT SEHNSUCHT at Beate Uwe on Fri 16 Oct, Berlin. 1 artist on the bill: Dydaa Forne. Tech House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

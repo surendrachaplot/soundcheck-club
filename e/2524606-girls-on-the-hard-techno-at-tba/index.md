@@ -1,6 +1,6 @@
 # GIRLS ON THE HARD TECHNO at TBA
 
-GIRLS ON THE HARD TECHNO at TBA on Fri 2 Oct, Mexicocity. Industrial and Electronica. Preview the line-up and save it on soundcheck.
+GIRLS ON THE HARD TECHNO at TBA on Fri 2 Oct, Mexico City. Industrial and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

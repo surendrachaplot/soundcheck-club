@@ -1,6 +1,6 @@
 # GEGEN X SKIN at Skin Club
 
-GEGEN X SKIN at Skin Club on Sat 21 Nov, Madrid. 4 acts on the bill: Buday, Cristian Marras, Ezekiel and Mar/us. Techno. Preview the line-up and save it on soundcheck.
+GEGEN X SKIN at Skin Club on Sat 21 Nov, Madrid. 4 artists on the bill: Buday, Cristian Marras, Ezekiel and Mar/us. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

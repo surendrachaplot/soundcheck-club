@@ -2,7 +2,7 @@
 
 Pedro Borlado is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Phonobar, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Pedro Borlado is a house and techno artist based in Spain, tracked on soundcheck, with 15 sets logged across Amsterdam, Chicago, Losangeles and Newyorkcity and 3 more. Often billed alongside Adam Beyer, Adam Ten and Airwolf Paradise. Next up: Phonobar, Sanfrancisco on Sat 26 Sept.
+Pedro Borlado is a house and techno artist based in Spain, tracked on soundcheck, with 15 sets logged across Amsterdam, Chicago, Los Angeles and New York City and 3 more. Often billed alongside Adam Beyer, Adam Ten and Airwolf Paradise. Next up: Phonobar, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 

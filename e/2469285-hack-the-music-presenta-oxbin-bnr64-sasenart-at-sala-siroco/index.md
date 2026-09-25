@@ -1,6 +1,6 @@
 # HACK THE MUSIC presenta: Oxbin + BNR64 + Sasenart at Sala Siroco
 
-HACK THE MUSIC presenta: Oxbin + BNR64 + Sasenart at Sala Siroco on Fri 13 Nov, Madrid. 2 acts on the bill: Inertial Theory and Oxbin. Techno and Electronica. Preview the line-up and save it on soundcheck.
+HACK THE MUSIC presenta: Oxbin + BNR64 + Sasenart at Sala Siroco on Fri 13 Nov, Madrid. 2 artists on the bill: Inertial Theory and Oxbin. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

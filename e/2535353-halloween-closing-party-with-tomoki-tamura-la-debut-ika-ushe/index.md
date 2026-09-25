@@ -1,6 +1,6 @@
 # Halloween Closing Party with Tomoki Tamura (LA Debut) , Ika & Usherenko & Very Special Guest at TBA - Outdoor Location - DTLA 
 
-Halloween Closing Party with Tomoki Tamura (LA Debut) , Ika & Usherenko & Very Special Guest at TBA - Outdoor Location - DTLA  on Sun 1 Nov, Losangeles. 6 acts on the bill: Enzo Muro, Ika (GE), Kana Hishiya and Tomoki Tamura and 2 more. House. Preview the line-up and save it on soundcheck.
+Halloween Closing Party with Tomoki Tamura (LA Debut) , Ika & Usherenko & Very Special Guest at TBA - Outdoor Location - DTLA  on Sun 1 Nov, Los Angeles. 6 artists on the bill: Enzo Muro, Ika (GE), Kana Hishiya and Tomoki Tamura and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

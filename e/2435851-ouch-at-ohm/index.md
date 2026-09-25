@@ -1,6 +1,6 @@
 # ouch at OHM
 
-ouch at OHM on Thu 17 Dec, Berlin. 4 acts on the bill: Dj Goodboy, FIFI (2), Marylou and Rafush. Bass and Experimental. Preview the line-up and save it on soundcheck.
+ouch at OHM on Thu 17 Dec, Berlin. 4 artists on the bill: Dj Goodboy, FIFI, Marylou and Rafush. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

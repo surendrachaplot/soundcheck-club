@@ -1,6 +1,6 @@
 # Club Tales: MiNNA (All Night Long) at Colour Factory
 
-Club Tales: MiNNA (All Night Long) at Colour Factory on Sat 10 Oct, London. 1 act on the bill: MiNNA. Preview the line-up and save it on soundcheck.
+Club Tales: MiNNA (All Night Long) at Colour Factory on Sat 10 Oct, London. 1 artist on the bill: MiNNA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

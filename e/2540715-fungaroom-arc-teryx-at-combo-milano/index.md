@@ -1,6 +1,6 @@
 # Fungaroom × Arc’teryx at Combo Milano
 
-Fungaroom × Arc’teryx at Combo Milano on Sun 4 Oct, Milan. 3 acts on the bill: Delikwe, Kreggo and SteNo. Preview the line-up and save it on soundcheck.
+Fungaroom × Arc’teryx at Combo Milano on Sun 4 Oct, Milan. 3 artists on the bill: Delikwe, Kreggo and SteNo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ozmozis presents Khen at Story Toronto
 
-Ozmozis presents Khen at Story Toronto on Fri 16 Oct, Toronto. 2 acts on the bill: Andrew McDonnell and Khen. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Ozmozis presents Khen at Story Toronto on Fri 16 Oct, Toronto. 2 artists on the bill: Andrew McDonnell and Khen. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

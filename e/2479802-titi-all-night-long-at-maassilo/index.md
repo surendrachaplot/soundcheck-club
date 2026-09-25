@@ -1,6 +1,6 @@
 # TiTi All Night Long at Maassilo
 
-TiTi All Night Long at Maassilo on Sat 14 Nov, Rotterdam. 1 act on the bill: TiTi. Techno. Preview the line-up and save it on soundcheck.
+TiTi All Night Long at Maassilo on Sat 14 Nov, Rotterdam. 1 artist on the bill: TiTi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

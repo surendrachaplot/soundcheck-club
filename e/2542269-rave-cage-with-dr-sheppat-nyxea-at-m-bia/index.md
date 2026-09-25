@@ -1,6 +1,6 @@
 # Rave Cage with Dr. Sheppat & NYXEA at M-BIA
 
-Rave Cage with Dr. Sheppat & NYXEA at M-BIA on Fri 23 Oct, Berlin. 1 act on the bill: NYXEA. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Rave Cage with Dr. Sheppat & NYXEA at M-BIA on Fri 23 Oct, Berlin. 1 artist on the bill: NYXEA. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

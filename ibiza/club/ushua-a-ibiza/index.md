@@ -1,14 +1,13 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Martin Garrix - CLOSING PARTY" on Thu, 24 Sept 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Calvin Harris & MK" on Fri, 25 Sept 2026.
 
-Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming gigs, with line-ups including Afrojack, Andrea Oliva, Antares and Bontan and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
+Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 9 upcoming gigs, with line-ups including Afrojack, Andrea Oliva, Antares and Bontan and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Martin Garrix - CLOSING PARTY | Martin Garrix |
 | Fri, 25 Sept 2026 | Calvin Harris & MK | Calvin Harris, Marc Kinchen, Storm Mollison |
 | Sat, 26 Sept 2026 | ANTS | Antares, M-High, Maceo Plex, Nic Fanciulli, Raul Rodriguez |
 | Mon, 28 Sept 2026 | F*** ME I'M FAMOUS! by David Guetta | David Guetta, Paul Reynolds |

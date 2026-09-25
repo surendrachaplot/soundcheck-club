@@ -1,6 +1,6 @@
 # Mr. Pauer & Friends at Miami Beach Bandshell
 
-Mr. Pauer & Friends at Miami Beach Bandshell on Thu 17 Dec, Miami. 1 act on the bill: Mr. Pauer. Latin Bass and Afro House. Preview the line-up and save it on soundcheck.
+Mr. Pauer & Friends at Miami Beach Bandshell on Thu 17 Dec, Miami. 1 artist on the bill: Mr. Pauer. Latin Bass and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

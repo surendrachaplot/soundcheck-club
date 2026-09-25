@@ -1,6 +1,6 @@
 # WTW (TECHNO) at WOMB
 
-WTW (TECHNO) at WOMB on Wed 30 Sept, Tokyo. 3 acts on the bill: DJ Sodeyama, Maemm and Shinsuke Goto. Techno. Preview the line-up and save it on soundcheck.
+WTW (TECHNO) at WOMB on Wed 30 Sept, Tokyo. 3 artists on the bill: DJ Sodeyama, Maemm and Shinsuke Goto. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

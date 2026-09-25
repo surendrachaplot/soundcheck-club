@@ -2,7 +2,7 @@
 
 Arturo (3) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Dante's HiFi, Miami on Thu, 24 Sept 2026.
 
-Arturo (3) is an electronic artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Copenhagen, Miami and Munich. Often billed alongside ANOMALISA, Alex Thunder and Annett Gapstream. Next up: Dante's HiFi, Miami on Thu 24 Sept.
+Arturo is an electronic artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Copenhagen, Miami and Munich. Often billed alongside ANOMALISA, Alex Thunder and Annett Gapstream. Next up: Dante's HiFi, Miami on Thu 24 Sept.
 
 ## Upcoming shows
 

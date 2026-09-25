@@ -2,7 +2,7 @@
 
 DJ Low (2) is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Neo Bar KL- Ilham Tower , Level 37, Jalan Binjai 8, 50450, Kuala Lumpur on Fri, 25 Sept 2026.
 
-DJ Low (2) is a drum & bass and house artist based in Malaysia, tracked on soundcheck, with 8 sets logged across Kualalumpur. Often billed alongside Biscuit (MY), Obadius and Terence C. Next up: TBA - Neo Bar KL- Ilham Tower , Level 37, Jalan Binjai 8, 50450, Kualalumpur on Fri 25 Sept.
+DJ Low is a drum & bass and house artist based in Malaysia, tracked on soundcheck, with 8 sets logged across Kuala Lumpur. Often billed alongside Biscuit (MY), Obadius and Terence C. Next up: TBA - Neo Bar KL- Ilham Tower , Level 37, Jalan Binjai 8, 50450, Kuala Lumpur on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Smokin Sundays - Christmas Special at The Timber Loft
 
-Smokin Sundays - Christmas Special at The Timber Loft on Sun 13 Dec, London. 1 act on the bill: Smokin Jo. Preview the line-up and save it on soundcheck.
+Smokin Sundays - Christmas Special at The Timber Loft on Sun 13 Dec, London. 1 artist on the bill: Smokin Jo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

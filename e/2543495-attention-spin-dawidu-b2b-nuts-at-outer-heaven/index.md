@@ -1,6 +1,6 @@
 # Attention Spin!: Dawidu b2b Nuts at Outer Heaven
 
-Attention Spin!: Dawidu b2b Nuts at Outer Heaven on Sat 17 Oct, Newyorkcity. 3 acts on the bill: Chuwee, Dawidu and NUTS (2). House and Electro. Preview the line-up and save it on soundcheck.
+Attention Spin!: Dawidu b2b Nuts at Outer Heaven on Sat 17 Oct, New York City. 3 artists on the bill: Chuwee, Dawidu and NUTS. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

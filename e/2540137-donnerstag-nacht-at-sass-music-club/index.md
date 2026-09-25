@@ -1,6 +1,6 @@
 # Donnerstag Nacht at SASS Music Club
 
-Donnerstag Nacht at SASS Music Club on Thu 24 Sept, Vienna. 1 act on the bill: Philo. Preview the line-up and save it on soundcheck.
+Donnerstag Nacht at SASS Music Club on Thu 24 Sept, Vienna. 1 artist on the bill: Philo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

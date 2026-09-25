@@ -2,7 +2,7 @@
 
 Kamäleon is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Z-Bau, Nürnberg on Sat, 26 Sept 2026.
 
-Kamäleon is a trance and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside two girls one mom, DICE and 4NOUK. Next up: Z-Bau, Nurnberg on Sat 26 Sept.
+Kamäleon is a trance and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside two girls one mom, DICE and 4NOUK. Next up: Z-Bau, Nürnberg on Sat 26 Sept.
 
 ## Upcoming shows
 

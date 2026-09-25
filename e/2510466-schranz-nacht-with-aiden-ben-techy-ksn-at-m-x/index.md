@@ -1,6 +1,6 @@
 # Schranz Nacht with Aiden, Ben Techy & KSN at MÄX
 
-Schranz Nacht with Aiden, Ben Techy & KSN at MÄX on Fri 16 Oct, Zurich. 2 acts on the bill: Aiden (DE) and Ben Techy. Techno. Preview the line-up and save it on soundcheck.
+Schranz Nacht with Aiden, Ben Techy & KSN at MÄX on Fri 16 Oct, Zurich. 2 artists on the bill: Aiden (DE) and Ben Techy. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

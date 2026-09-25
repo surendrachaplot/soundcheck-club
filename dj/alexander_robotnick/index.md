@@ -2,7 +2,7 @@
 
 Alexander Robotnick is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Colour Factory, London on Sat, 7 Nov 2026.
 
-Alexander Robotnick is a house and disco artist based in Italy, tracked on soundcheck, with 28 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside Cess (2), DJ Subaru and Daniele Baldelli. Next up: Colour Factory, London on Sat 7 Nov.
+Alexander Robotnick is a house and disco artist based in Italy, tracked on soundcheck, with 28 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside Cess, DJ Subaru and Daniele Baldelli. Next up: Colour Factory, London on Sat 7 Nov.
 
 ## Upcoming shows
 

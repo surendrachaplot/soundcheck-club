@@ -1,6 +1,6 @@
 # Patterns: Picture, Leila, Mother, yingtuitive and Lali at Ormside Projects
 
-Patterns: Picture, Leila, Mother, yingtuitive and Lali at Ormside Projects on Sat 17 Oct, London. 5 acts on the bill: Central, lali:, Leila and Mother (UK) and 1 more. Preview the line-up and save it on soundcheck.
+Patterns: Picture, Leila, Mother, yingtuitive and Lali at Ormside Projects on Sat 17 Oct, London. 5 artists on the bill: Central, lali:, Leila and Mother (UK) and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Basses Fréquences Club: Dasha Rush + Boskøw + Léa Occhi at Le Trabendo
 
-Basses Fréquences Club: Dasha Rush + Boskøw + Léa Occhi at Le Trabendo on Sat 26 Sept, Paris. 3 acts on the bill: Boskøw, Dasha Rush and Lea Occhi. Experimental. Preview the line-up and save it on soundcheck.
+Basses Fréquences Club: Dasha Rush + Boskøw + Léa Occhi at Le Trabendo on Sat 26 Sept, Paris. 3 artists on the bill: Boskøw, Dasha Rush and Lea Occhi. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

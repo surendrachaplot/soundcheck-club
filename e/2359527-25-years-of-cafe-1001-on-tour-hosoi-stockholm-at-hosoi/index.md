@@ -1,6 +1,6 @@
 # 25 Years of Cafe 1001 On Tour - Hosoi, Stockholm at Hosoi
 
-25 Years of Cafe 1001 On Tour - Hosoi, Stockholm on Fri 9 Oct, Stockholm. 1 act on the bill: ell.iot. Preview the line-up and save it on soundcheck.
+25 Years of Cafe 1001 On Tour - Hosoi, Stockholm on Fri 9 Oct, Stockholm. 1 artist on the bill: ell.iot. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

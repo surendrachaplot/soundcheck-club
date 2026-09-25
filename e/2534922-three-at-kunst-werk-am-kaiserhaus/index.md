@@ -1,6 +1,6 @@
 # THREE at Kunst-Werk am Kaiserhaus
 
-THREE at Kunst-Werk am Kaiserhaus on Sat 21 Nov, Dortmund-essen. 3 acts on the bill: Ani con Gas, DAVINA and DJ Discostoff. Techno and House. Preview the line-up and save it on soundcheck.
+THREE at Kunst-Werk am Kaiserhaus on Sat 21 Nov, Dortmund Essen. 3 artists on the bill: Ani con Gas, DAVINA and DJ Discostoff. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

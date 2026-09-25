@@ -1,6 +1,6 @@
 # Overview: Brighton at Volks
 
-Overview: Brighton at Volks on Sat 3 Oct, Brighton. 5 acts on the bill: Business As Usual, Ill Truth, Rider Shafique and Skylark and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+Overview: Brighton at Volks on Sat 3 Oct, Brighton. 5 artists on the bill: Business As Usual, Ill Truth, Rider Shafique and Skylark and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

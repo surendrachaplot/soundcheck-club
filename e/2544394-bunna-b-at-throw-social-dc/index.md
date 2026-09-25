@@ -1,6 +1,6 @@
 # BUNNA B at Throw Social DC
 
-BUNNA B at Throw Social DC on Fri 16 Oct, Washingtondc. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+BUNNA B at Throw Social DC on Fri 16 Oct, Washington DC. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

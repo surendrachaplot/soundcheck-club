@@ -1,6 +1,6 @@
 # 7 Vibes Journey in Hamburg at Docks
 
-7 Vibes Journey in Hamburg at Docks on Sat 7 Nov, Hamburg. 3 acts on the bill: Iorie, Nina Hepburn and SUZé. Techno and Deep House. Preview the line-up and save it on soundcheck.
+7 Vibes Journey in Hamburg at Docks on Sat 7 Nov, Hamburg. 3 artists on the bill: Iorie, Nina Hepburn and SUZé. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

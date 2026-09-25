@@ -1,6 +1,6 @@
 # Ben Sterling (Open to Close) at The Concourse Project
 
-Ben Sterling (Open to Close) at The Concourse Project on Fri 25 Sept, Austin. 1 act on the bill: Ben Sterling. Preview the line-up and save it on soundcheck.
+Ben Sterling (Open to Close) at The Concourse Project on Fri 25 Sept, Austin. 1 artist on the bill: Ben Sterling. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

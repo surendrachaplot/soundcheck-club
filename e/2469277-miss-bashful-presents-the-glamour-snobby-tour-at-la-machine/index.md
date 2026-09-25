@@ -1,6 +1,6 @@
 # Miss Bashful presents The Glamour Snobby Tour at La Machine Du Moulin Rouge
 
-Miss Bashful presents The Glamour Snobby Tour at La Machine Du Moulin Rouge on Sat 14 Nov, Paris. 1 act on the bill: Miss Bashful. Electro and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Miss Bashful presents The Glamour Snobby Tour at La Machine Du Moulin Rouge on Sat 14 Nov, Paris. 1 artist on the bill: Miss Bashful. Electro and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

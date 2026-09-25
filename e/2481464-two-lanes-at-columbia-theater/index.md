@@ -1,6 +1,6 @@
 # TWO LANES at Columbia Theater
 
-TWO LANES at Columbia Theater on Fri 2 Oct, Berlin. 1 act on the bill: TWO LANES. Electronica. Preview the line-up and save it on soundcheck.
+TWO LANES at Columbia Theater on Fri 2 Oct, Berlin. 1 artist on the bill: TWO LANES. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

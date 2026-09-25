@@ -1,6 +1,6 @@
 # SUNSEAT X CHILANGO at Frontón Bucareli
 
-SUNSEAT X CHILANGO at Frontón Bucareli on Sat 26 Sept, Mexicocity. Preview the line-up and save it on soundcheck.
+SUNSEAT X CHILANGO at Frontón Bucareli on Sat 26 Sept, Mexico City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

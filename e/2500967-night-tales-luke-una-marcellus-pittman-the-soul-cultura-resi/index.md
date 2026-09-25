@@ -1,6 +1,6 @@
 # Night Tales: Luke Una & Marcellus Pittman - The 'É Soul Cultura' Residency [4 Fridays In Oct] at Night Tales
 
-Night Tales: Luke Una & Marcellus Pittman - The 'É Soul Cultura' Residency [4 Fridays In Oct] on Fri 23 Oct, London. 2 acts on the bill: Luke Una and Marcellus Pittman. House. Preview the line-up and save it on soundcheck.
+Night Tales: Luke Una & Marcellus Pittman - The 'É Soul Cultura' Residency [4 Fridays In Oct] on Fri 23 Oct, London. 2 artists on the bill: Luke Una and Marcellus Pittman. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

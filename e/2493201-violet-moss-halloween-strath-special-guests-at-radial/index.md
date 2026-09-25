@@ -1,6 +1,6 @@
 # Violet Moss Halloween - Strath + Special Guests at radial
 
-Violet Moss Halloween - Strath + Special Guests at radial on Sat 31 Oct, London. 1 act on the bill: Strath. Preview the line-up and save it on soundcheck.
+Violet Moss Halloween - Strath + Special Guests at radial on Sat 31 Oct, London. 1 artist on the bill: Strath. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

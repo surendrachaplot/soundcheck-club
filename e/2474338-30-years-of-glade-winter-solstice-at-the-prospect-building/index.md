@@ -1,6 +1,6 @@
 # 30 Years Of Glade: Winter Solstice at The Prospect Building
 
-30 Years Of Glade: Winter Solstice at The Prospect Building on Fri 18 Dec, Bristol. 6 acts on the bill: Channel One Sound, HAAi, Hannah Holland and Leftfield and 2 more. Dub. Preview the line-up and save it on soundcheck.
+30 Years Of Glade: Winter Solstice at The Prospect Building on Fri 18 Dec, Bristol. 6 artists on the bill: Channel One Sound, HAAi, Hannah Holland and Leftfield and 2 more. Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

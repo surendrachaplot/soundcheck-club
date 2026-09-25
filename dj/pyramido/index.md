@@ -2,7 +2,7 @@
 
 PYRAMIDO is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Madarae San Francisco, San Francisco/Oakland on Fri, 30 Oct 2026.
 
-PYRAMIDO is a deep house and house artist tracked on soundcheck, with 9 sets logged across Athens, Losangeles, Miami and Sanfrancisco. Often billed alongside Ashkan Dian, Bellhop and Crescendoll. Next up: Madarae San Francisco, Sanfrancisco on Fri 30 Oct.
+PYRAMIDO is a deep house and house artist tracked on soundcheck, with 9 sets logged across Athens, Los Angeles, Miami and San Francisco/Oakland. Often billed alongside Ashkan Dian, Bellhop and Crescendoll. Next up: Madarae San Francisco, San Francisco/Oakland on Fri 30 Oct.
 
 ## Upcoming shows
 

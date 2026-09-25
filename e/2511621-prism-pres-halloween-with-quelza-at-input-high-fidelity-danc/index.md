@@ -1,6 +1,6 @@
 # PRISM pres HALLOWEEN with Quelza at INPUT High Fidelity Dance Club
 
-PRISM pres HALLOWEEN with Quelza at INPUT High Fidelity Dance Club on Sat 31 Oct, Barcelona. 1 act on the bill: Quelza. Techno. Preview the line-up and save it on soundcheck.
+PRISM pres HALLOWEEN with Quelza at INPUT High Fidelity Dance Club on Sat 31 Oct, Barcelona. 1 artist on the bill: Quelza. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

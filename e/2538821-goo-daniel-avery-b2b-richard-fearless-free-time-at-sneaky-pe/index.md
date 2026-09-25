@@ -1,6 +1,6 @@
 # GOO (Daniel Avery b2b Richard Fearless) - Free Time at Sneaky Pete's
 
-GOO (Daniel Avery b2b Richard Fearless) - Free Time at Sneaky Pete's on Sun 15 Nov, Edinburgh. 2 acts on the bill: Daniel Avery and Richard Fearless. Techno and Electronica. Preview the line-up and save it on soundcheck.
+GOO (Daniel Avery b2b Richard Fearless) - Free Time at Sneaky Pete's on Sun 15 Nov, Edinburgh. 2 artists on the bill: Daniel Avery and Richard Fearless. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

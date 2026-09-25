@@ -1,6 +1,6 @@
 # Sunday Sunday CDMX: 27.09.26 at Sunday Sunday
 
-Sunday Sunday CDMX: 27.09.26 on Sun 27 Sept, Mexicocity. 4 acts on the bill: Apiento, AURELIA (MX), Coco Maria and WhoMadeWho. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Sunday Sunday CDMX: 27.09.26 on Sun 27 Sept, Mexico City. 4 artists on the bill: Apiento, AURELIA (MX), Coco Maria and WhoMadeWho. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

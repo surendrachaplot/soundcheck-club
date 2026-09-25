@@ -1,6 +1,6 @@
 # LUCKY YOU at Tokyo Sing Song
 
-LUCKY YOU at Tokyo Sing Song on Thu 15 Oct, Sydney. 1 act on the bill: hazboy. Electro and Club. Preview the line-up and save it on soundcheck.
+LUCKY YOU at Tokyo Sing Song on Thu 15 Oct, Sydney. 1 artist on the bill: hazboy. Electro and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

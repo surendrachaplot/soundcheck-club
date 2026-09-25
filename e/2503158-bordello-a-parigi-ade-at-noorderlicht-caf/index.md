@@ -1,6 +1,6 @@
 # Bordello A Parigi - ADE at Noorderlicht Café
 
-Bordello A Parigi - ADE at Noorderlicht Café on Sat 24 Oct, Amsterdam. 5 acts on the bill: Alden Tyrell, Budino, Daniel Monaco and John Noseda and 1 more. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Bordello A Parigi - ADE at Noorderlicht Café on Sat 24 Oct, Amsterdam. 5 artists on the bill: Alden Tyrell, Budino, Daniel Monaco and John Noseda and 1 more. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Wellness Check presents: Daphni (All Night) at TBA - DTLA
 
-Wellness Check presents: Daphni (All Night) at TBA - DTLA on Fri 25 Sept, Losangeles. 1 act on the bill: Daphni. House and Bass. Preview the line-up and save it on soundcheck.
+Wellness Check presents: Daphni (All Night) at TBA - DTLA on Fri 25 Sept, Los Angeles. 1 artist on the bill: Daphni. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

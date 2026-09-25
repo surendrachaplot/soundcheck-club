@@ -1,6 +1,6 @@
 # SÜR_Shelter Seoul at Shelter
 
-SÜR_Shelter Seoul on Fri 25 Sept, Seoul. 3 acts on the bill: DJ SIN, Klof and ROXY. Techno and Electro. Preview the line-up and save it on soundcheck.
+SÜR_Shelter Seoul on Fri 25 Sept, Seoul. 3 artists on the bill: DJ SIN, Klof and ROXY. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

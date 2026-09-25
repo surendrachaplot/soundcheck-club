@@ -1,6 +1,6 @@
 # Makes Me Human turns 5 feat. DJ Koolt at TBA
 
-Makes Me Human turns 5 feat. DJ Koolt at TBA on Sat 7 Nov, Seattle. 1 act on the bill: DJ Koolt. Electro and Acid. Preview the line-up and save it on soundcheck.
+Makes Me Human turns 5 feat. DJ Koolt at TBA on Sat 7 Nov, Seattle. 1 artist on the bill: DJ Koolt. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

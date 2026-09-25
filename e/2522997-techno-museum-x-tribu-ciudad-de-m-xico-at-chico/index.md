@@ -1,6 +1,6 @@
 # Techno Museum & X Tribu Ciudad de México at CHICO
 
-Techno Museum & X Tribu Ciudad de México at CHICO on Sat 24 Oct, Mexicocity. 4 acts on the bill: Fortier, Mr. Increible, Sabina Palma and Villaseñor. Techno. Preview the line-up and save it on soundcheck.
+Techno Museum & X Tribu Ciudad de México at CHICO on Sat 24 Oct, Mexico City. 4 artists on the bill: Fortier, Mr. Increible, Sabina Palma and Villaseñor. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

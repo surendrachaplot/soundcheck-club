@@ -1,6 +1,6 @@
 # ReSolute ADE w/ Raresh & Cap at TBA - Secret Location (Amsterdam)
 
-ReSolute ADE w/ Raresh & Cap at TBA - Secret Location (Amsterdam) on Thu 22 Oct, Amsterdam. 3 acts on the bill: Cap, Mari.te and Raresh. Techno and House. Preview the line-up and save it on soundcheck.
+ReSolute ADE w/ Raresh & Cap at TBA - Secret Location (Amsterdam) on Thu 22 Oct, Amsterdam. 3 artists on the bill: Cap, Mari.te and Raresh. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Industrial Romantico is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OT301, Amsterdam on Sat, 24 Oct 2026.
 
-Industrial Romantico is an electronic artist based in Italy, tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Hongkong and Lyon and 2 more. Often billed alongside Dolce Potente, Waldo and Acidalia. Next up: OT301, Amsterdam on Sat 24 Oct.
+Industrial Romantico is an electronic artist based in Italy, tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Hong Kong and Lyon and 2 more. Often billed alongside Dolce Potente, Waldo and Acidalia. Next up: OT301, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 

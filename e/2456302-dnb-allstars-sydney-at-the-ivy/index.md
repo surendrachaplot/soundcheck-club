@@ -1,6 +1,6 @@
 # DnB Allstars (Sydney) at The Ivy
 
-DnB Allstars (Sydney) at The Ivy on Mon 5 Oct, Sydney. 4 acts on the bill: Camo & Krooked, Crossy, Disrupta and Kanine. Drum & Bass. Preview the line-up and save it on soundcheck.
+DnB Allstars (Sydney) at The Ivy on Mon 5 Oct, Sydney. 4 artists on the bill: Camo & Krooked, Crossy, Disrupta and Kanine. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

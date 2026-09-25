@@ -1,6 +1,6 @@
 # RTM: Alarico & Slam & Babyccino at Sub Club
 
-RTM: Alarico & Slam & Babyccino at Sub Club on Fri 9 Oct, Glasgow. 3 acts on the bill: Alarico, Babyccino and Slam. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+RTM: Alarico & Slam & Babyccino at Sub Club on Fri 9 Oct, Glasgow. 3 artists on the bill: Alarico, Babyccino and Slam. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

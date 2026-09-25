@@ -1,6 +1,6 @@
 # Sophie Especial Halloween - Jeff Mills at Sophie Festival
 
-Sophie Especial Halloween - Jeff Mills at Sophie Festival on Sun 1 Nov, Malaga. 1 act on the bill: Jeff Mills. Preview the line-up and save it on soundcheck.
+Sophie Especial Halloween - Jeff Mills at Sophie Festival on Sun 1 Nov, Malaga. 1 artist on the bill: Jeff Mills. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

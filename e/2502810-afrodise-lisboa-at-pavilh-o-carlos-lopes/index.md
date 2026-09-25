@@ -1,6 +1,6 @@
 # AFRODISE Lisboa at Pavilhão Carlos Lopes
 
-AFRODISE Lisboa at Pavilhão Carlos Lopes on Sun 18 Oct, Lisbon. 1 act on the bill: AARON SEVILLA. Afro House. Preview the line-up and save it on soundcheck.
+AFRODISE Lisboa at Pavilhão Carlos Lopes on Sun 18 Oct, Lisbon. 1 artist on the bill: AARON SEVILLA. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

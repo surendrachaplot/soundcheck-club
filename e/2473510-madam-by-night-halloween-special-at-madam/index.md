@@ -1,6 +1,6 @@
 # Madam by Night: Halloween Special at Madam
 
-Madam by Night: Halloween Special on Sat 31 Oct, Amsterdam. 2 acts on the bill: Cees and Pascal Morais. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Madam by Night: Halloween Special on Sat 31 Oct, Amsterdam. 2 artists on the bill: Cees and Pascal Morais. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

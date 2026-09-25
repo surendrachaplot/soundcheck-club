@@ -1,6 +1,6 @@
 # Ata at VENT
 
-Ata at VENT on Fri 16 Oct, Tokyo. 6 acts on the bill: Ata, Dr. Nishimura, Hayato and Kasumisty and 2 more. House. Preview the line-up and save it on soundcheck.
+Ata at VENT on Fri 16 Oct, Tokyo. 6 artists on the bill: Ata, Dr. Nishimura, Hayato and Kasumisty and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: OKO DJ at YuYu Cine Club
 
-Yu Yu Cine Club: OKO DJ at YuYu Cine Club on Fri 2 Oct, Mexicocity. 3 acts on the bill: Bastard Love, Eiger Drums Propaganda and OKO DJ. Preview the line-up and save it on soundcheck.
+Yu Yu Cine Club: OKO DJ at YuYu Cine Club on Fri 2 Oct, Mexico City. 3 artists on the bill: Bastard Love, Eiger Drums Propaganda and OKO DJ. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

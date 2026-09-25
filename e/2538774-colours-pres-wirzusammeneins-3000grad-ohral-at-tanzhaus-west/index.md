@@ -1,6 +1,6 @@
 # COLOURS pres. WirZusammenEins, 3000Grad, Ohral at Tanzhaus West
 
-COLOURS pres. WirZusammenEins, 3000Grad, Ohral at Tanzhaus West on Sat 7 Nov, Frankfurt. 9 acts on the bill: Danjo, Falke, Flo Circus and Gorge and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+COLOURS pres. WirZusammenEins, 3000Grad, Ohral at Tanzhaus West on Sat 7 Nov, Frankfurt. 9 artists on the bill: Danjo, Falke, Flo Circus and Gorge and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

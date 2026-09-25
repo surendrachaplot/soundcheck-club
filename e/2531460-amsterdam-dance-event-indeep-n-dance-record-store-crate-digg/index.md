@@ -1,6 +1,6 @@
 # Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet at InDeep'n'Dance Records
 
-Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet at InDeep'n'Dance Records on Fri 23 Oct, Amsterdam. 3 acts on the bill: Ado, Dexon and Estray. Minimal and Dub Techno. Preview the line-up and save it on soundcheck.
+Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet at InDeep'n'Dance Records on Fri 23 Oct, Amsterdam. 3 artists on the bill: Ado, Dexon and Estray. Minimal and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

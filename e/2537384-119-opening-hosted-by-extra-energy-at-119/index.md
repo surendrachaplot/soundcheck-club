@@ -1,6 +1,6 @@
 # [119] Opening hosted by Extra Energy at [119]
 
-[119] Opening hosted by Extra Energy on Sat 26 Sept, Berlin. 4 acts on the bill: DJ SKIN, Mademoisel, Molly Lollen and SHADYLINES. Trance and Techno. Preview the line-up and save it on soundcheck.
+[119] Opening hosted by Extra Energy on Sat 26 Sept, Berlin. 4 artists on the bill: DJ SKIN, Mademoisel, Molly Lollen and SHADYLINES. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

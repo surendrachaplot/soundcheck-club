@@ -2,7 +2,7 @@
 
 Jahveri is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KEYBAR, New York City on Sat, 10 Oct 2026.
 
-Jahveri is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Detroit and Newyorkcity. Often billed alongside Damon Bradley, Aphelion and Lychee. Next up: KEYBAR, Newyorkcity on Sat 10 Oct.
+Jahveri is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Detroit and New York City. Often billed alongside Damon Bradley, Aphelion and Lychee. Next up: KEYBAR, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 

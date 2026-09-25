@@ -1,6 +1,6 @@
 # AADE: with Aili & Orson x TUKAN at OT301
 
-AADE: with Aili & Orson x TUKAN at OT301 on Thu 22 Oct, Amsterdam. 1 act on the bill: Aili. Electronica. Preview the line-up and save it on soundcheck.
+AADE: with Aili & Orson x TUKAN at OT301 on Thu 22 Oct, Amsterdam. 1 artist on the bill: Aili. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

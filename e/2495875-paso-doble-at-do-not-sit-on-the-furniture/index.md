@@ -1,6 +1,6 @@
 # Paso Doble at Do Not Sit On The Furniture
 
-Paso Doble at Do Not Sit On The Furniture on Sat 24 Oct, Miami. 1 act on the bill: Paso Doble. House and Deep House. Preview the line-up and save it on soundcheck.
+Paso Doble at Do Not Sit On The Furniture on Sat 24 Oct, Miami. 1 artist on the bill: Paso Doble. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

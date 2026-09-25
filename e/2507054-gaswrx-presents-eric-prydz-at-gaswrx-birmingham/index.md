@@ -1,6 +1,6 @@
 # GASWRX presents ERIC PRYDZ at Gaswrx Birmingham
 
-GASWRX presents ERIC PRYDZ at Gaswrx Birmingham on Fri 16 Oct, London. 1 act on the bill: Eric Prydz. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+GASWRX presents ERIC PRYDZ at Gaswrx Birmingham on Fri 16 Oct, London. 1 artist on the bill: Eric Prydz. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

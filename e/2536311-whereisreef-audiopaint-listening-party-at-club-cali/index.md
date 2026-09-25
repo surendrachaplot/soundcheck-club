@@ -1,6 +1,6 @@
 # whereisreef AUDIOPAINT Listening Party at Club Cali
 
-whereisreef AUDIOPAINT Listening Party at Club Cali on Thu 24 Sept, Sanfrancisco. Bass and Electro. Preview the line-up and save it on soundcheck.
+whereisreef AUDIOPAINT Listening Party at Club Cali on Thu 24 Sept, San Francisco/Oakland. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

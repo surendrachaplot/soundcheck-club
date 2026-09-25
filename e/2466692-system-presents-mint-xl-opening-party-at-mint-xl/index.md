@@ -1,6 +1,6 @@
 # system. presents Mint XL Opening Party at Mint XL
 
-system. presents Mint XL Opening Party on Fri 25 Sept, Leeds. 15 acts on the bill: Annie Errez, Bobby O'Donnell, Craig Richards and Enzo Siragusa and 11 more. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+system. presents Mint XL Opening Party on Fri 25 Sept, Leeds. 15 artists on the bill: Annie Errez, Bobby O'Donnell, Craig Richards and Enzo Siragusa and 11 more. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Housy at Noxe (26th floor W Barcelona) at Noxe Barcelona
 
-Housy at Noxe (26th floor W Barcelona) at Noxe Barcelona on Wed 7 Oct, Barcelona. 2 acts on the bill: Alex Silva and Deetres (ES). House. Preview the line-up and save it on soundcheck.
+Housy at Noxe (26th floor W Barcelona) at Noxe Barcelona on Wed 7 Oct, Barcelona. 2 artists on the bill: Alex Silva and Deetres (ES). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

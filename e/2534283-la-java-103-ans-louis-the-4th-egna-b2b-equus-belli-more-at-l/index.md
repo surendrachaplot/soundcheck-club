@@ -1,6 +1,6 @@
 # La Java 103 Ans: Louis The 4th, Egna B2b Equus Belli & More at La Java
 
-La Java 103 Ans: Louis The 4th, Egna B2b Equus Belli & More on Thu 15 Oct, Paris. 3 acts on the bill: Egna, Equus Belli and Louis The 4th. Techno and Electro. Preview the line-up and save it on soundcheck.
+La Java 103 Ans: Louis The 4th, Egna B2b Equus Belli & More on Thu 15 Oct, Paris. 3 artists on the bill: Egna, Equus Belli and Louis The 4th. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

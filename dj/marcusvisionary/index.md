@@ -2,7 +2,7 @@
 
 Marcus Visionary is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Wiggle Room, Toronto on Sat, 26 Sept 2026.
 
-Marcus Visionary is a drum & bass and jungle artist based in Canada, tracked on soundcheck, with 44 sets logged across Bristol, Leipzig, Losangeles and Montreal and 3 more. Often billed alongside Elixah, Rumbleton and SZETO. Next up: Wiggle Room, Toronto on Sat 26 Sept.
+Marcus Visionary is a drum & bass and jungle artist based in Canada, tracked on soundcheck, with 44 sets logged across Bristol, Leipzig, Los Angeles and Montreal and 3 more. Often billed alongside Elixah, Rumbleton and SZETO. Next up: Wiggle Room, Toronto on Sat 26 Sept.
 
 ## Upcoming shows
 

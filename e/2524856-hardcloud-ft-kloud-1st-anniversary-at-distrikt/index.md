@@ -1,6 +1,6 @@
 # HARDCLOUD ft.KLOUD ✞ 1ST ANNIVERSARY ✞ at Distrikt
 
-HARDCLOUD ft.KLOUD ✞ 1ST ANNIVERSARY ✞ at Distrikt on Sat 24 Oct, Prague. 5 acts on the bill: 2NDRA, ALICE ASTER, KLOUD and NEUWERTH and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+HARDCLOUD ft.KLOUD ✞ 1ST ANNIVERSARY ✞ at Distrikt on Sat 24 Oct, Prague. 5 artists on the bill: 2NDRA, ALICE ASTER, KLOUD and NEUWERTH and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

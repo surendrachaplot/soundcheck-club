@@ -1,6 +1,6 @@
 # EAU DE COLOGNE at KREUZWERK
 
-EAU DE COLOGNE at KREUZWERK on Fri 2 Oct, Berlin. 5 acts on the bill: Citizens Union, MVHY, Natuta and Nene H and 1 more. House. Preview the line-up and save it on soundcheck.
+EAU DE COLOGNE at KREUZWERK on Fri 2 Oct, Berlin. 5 artists on the bill: Citizens Union, MVHY, Natuta and Nene H and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

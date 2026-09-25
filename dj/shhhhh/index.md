@@ -2,7 +2,7 @@
 
 Shhhhh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Saloon, Tokyo on Sat, 26 Sept 2026.
 
-Shhhhh is a techno and house artist based in Japan, tracked on soundcheck, with 102 sets logged across Bali, Hongkong, Kyoto and Mexicocity and 6 more. Often billed alongside imus, AKIRAM EN and Compuma. Next up: Saloon, Tokyo on Sat 26 Sept.
+Shhhhh is a techno and house artist based in Japan, tracked on soundcheck, with 102 sets logged across Bali, Hong Kong, Kyoto and Mexico City and 6 more. Often billed alongside imus, AKIRAM EN and Compuma. Next up: Saloon, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 

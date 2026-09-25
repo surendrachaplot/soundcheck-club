@@ -1,6 +1,6 @@
 # Bladerunnaz: Kanine at A38
 
-Bladerunnaz: Kanine at A38 on Fri 27 Nov, Budapest. 1 act on the bill: Kanine. Drum & Bass. Preview the line-up and save it on soundcheck.
+Bladerunnaz: Kanine at A38 on Fri 27 Nov, Budapest. 1 artist on the bill: Kanine. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

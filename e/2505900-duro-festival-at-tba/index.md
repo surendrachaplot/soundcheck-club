@@ -1,6 +1,6 @@
 # DURO FESTIVAL at TBA
 
-DURO FESTIVAL at TBA on Sat 10 Oct, Barcelona. 1 act on the bill: KARAH. Preview the line-up and save it on soundcheck.
+DURO FESTIVAL at TBA on Sat 10 Oct, Barcelona. 1 artist on the bill: KARAH. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

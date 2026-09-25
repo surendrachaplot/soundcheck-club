@@ -1,6 +1,6 @@
 # SLVA: The Greyhound at The Greyhound
 
-SLVA: The Greyhound on Fri 9 Oct, London. 2 acts on the bill: Bobby Mac and lorcan_. Techno and House. Preview the line-up and save it on soundcheck.
+SLVA: The Greyhound on Fri 9 Oct, London. 2 artists on the bill: Bobby Mac and lorcan_. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

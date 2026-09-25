@@ -1,6 +1,6 @@
 # Dancing Building at Aoyama Hachi
 
-Dancing Building at Aoyama Hachi on Tue 6 Oct, Tokyo. 2 acts on the bill: Daiki (2) and Hiroyuki Abe. House and Disco. Preview the line-up and save it on soundcheck.
+Dancing Building at Aoyama Hachi on Tue 6 Oct, Tokyo. 2 artists on the bill: Daiki and Hiroyuki Abe. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

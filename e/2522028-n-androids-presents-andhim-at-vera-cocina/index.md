@@ -1,6 +1,6 @@
 # Nü Androids presents: Andhim at Vera Cocina & بار
 
-Nü Androids presents: Andhim at Vera Cocina & بار on Sat 24 Oct, Washingtondc. 1 act on the bill: Andhim. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Andhim at Vera Cocina & بار on Sat 24 Oct, Washington DC. 1 artist on the bill: Andhim. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

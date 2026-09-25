@@ -1,6 +1,6 @@
 # DEPO N°25 w. Klint (FR) + Hasky + Majsko + Leia Drex + Michkx (UA) + Dunik (UA) at Radost Music Club
 
-DEPO N°25 w. Klint (FR) + Hasky + Majsko + Leia Drex + Michkx (UA) + Dunik (UA) at Radost Music Club on Fri 2 Oct, Bratislava. 4 acts on the bill: Hasky (SK), Klint, Leia Drex and Majsko. Preview the line-up and save it on soundcheck.
+DEPO N°25 w. Klint (FR) + Hasky + Majsko + Leia Drex + Michkx (UA) + Dunik (UA) at Radost Music Club on Fri 2 Oct, Bratislava. 4 artists on the bill: Hasky (SK), Klint, Leia Drex and Majsko. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

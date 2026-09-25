@@ -1,6 +1,6 @@
 # SVBKVLT: Slikback (live) / Ziur / ABADIR (live) / Mun Sing / Hyph11E / Swimful at The White Hotel
 
-SVBKVLT: Slikback (live) / Ziur / ABADIR (live) / Mun Sing / Hyph11E / Swimful at The White Hotel on Fri 25 Sept, Manchester. 6 acts on the bill: ABADIR, Hyph11E, Mun Sing and Slikback and 2 more. Experimental and Club. Preview the line-up and save it on soundcheck.
+SVBKVLT: Slikback (live) / Ziur / ABADIR (live) / Mun Sing / Hyph11E / Swimful at The White Hotel on Fri 25 Sept, Manchester. 6 artists on the bill: ABADIR, Hyph11E, Mun Sing and Slikback and 2 more. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

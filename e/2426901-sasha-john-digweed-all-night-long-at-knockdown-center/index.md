@@ -1,6 +1,6 @@
 # Sasha & John Digweed: All Night Long at Knockdown Center
 
-Sasha & John Digweed: All Night Long at Knockdown Center on Fri 25 Sept, Newyorkcity. 1 act on the bill: Sasha & John Digweed. Trance and Techno. Preview the line-up and save it on soundcheck.
+Sasha & John Digweed: All Night Long at Knockdown Center on Fri 25 Sept, New York City. 1 artist on the bill: Sasha & John Digweed. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

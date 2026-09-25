@@ -1,6 +1,6 @@
 # NYYYCOL at Latraac
 
-NYYYCOL at Latraac on Fri 25 Sept, Athens. 1 act on the bill: NYYYCOL. Preview the line-up and save it on soundcheck.
+NYYYCOL at Latraac on Fri 25 Sept, Athens. 1 artist on the bill: NYYYCOL. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

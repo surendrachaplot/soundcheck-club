@@ -1,6 +1,6 @@
 # Killacutz invites SWAG Records at Basement (Amsterdam)
 
-Killacutz invites SWAG Records at Basement (Amsterdam) on Thu 22 Oct, Amsterdam. 4 acts on the bill: Adam Collins, Boris Werner, Grant Dell and Herra. House and Tech House. Preview the line-up and save it on soundcheck.
+Killacutz invites SWAG Records at Basement (Amsterdam) on Thu 22 Oct, Amsterdam. 4 artists on the bill: Adam Collins, Boris Werner, Grant Dell and Herra. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

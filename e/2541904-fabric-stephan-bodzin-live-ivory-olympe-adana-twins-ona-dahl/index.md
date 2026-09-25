@@ -1,6 +1,6 @@
 # fabric: Stephan Bodzin (Live), Ivory, Olympe, Adana Twins, Öona Dahl, LⵣBNA at fabric
 
-fabric: Stephan Bodzin (Live), Ivory, Olympe, Adana Twins, Öona Dahl, LⵣBNA on Sat 24 Oct, London. 5 acts on the bill: Adana Twins, Ivory, Olympe and Öona Dahl and 1 more. Preview the line-up and save it on soundcheck.
+fabric: Stephan Bodzin (Live), Ivory, Olympe, Adana Twins, Öona Dahl, LⵣBNA on Sat 24 Oct, London. 5 artists on the bill: Adana Twins, Ivory, Olympe and Öona Dahl and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

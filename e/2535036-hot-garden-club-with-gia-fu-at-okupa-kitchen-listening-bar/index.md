@@ -1,6 +1,6 @@
 # Hot Garden Club with Gia Fu at Okupa Kitchen & Listening Bar
 
-Hot Garden Club with Gia Fu at Okupa Kitchen & Listening Bar on Sat 10 Oct, Athens. 1 act on the bill: Gia Fu. Preview the line-up and save it on soundcheck.
+Hot Garden Club with Gia Fu at Okupa Kitchen & Listening Bar on Sat 10 Oct, Athens. 1 artist on the bill: Gia Fu. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

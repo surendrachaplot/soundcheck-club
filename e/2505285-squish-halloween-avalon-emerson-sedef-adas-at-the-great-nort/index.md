@@ -1,6 +1,6 @@
 # SQUISH: HALLOWEEN → Avalon Emerson + Sedef Adasï at The Great Northern
 
-SQUISH: HALLOWEEN → Avalon Emerson + Sedef Adasï at The Great Northern on Fri 30 Oct, Sanfrancisco. 6 acts on the bill: Avalon Emerson, BEYA, Mez Monty and Papa Xanny and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+SQUISH: HALLOWEEN → Avalon Emerson + Sedef Adasï at The Great Northern on Fri 30 Oct, San Francisco/Oakland. 6 artists on the bill: Avalon Emerson, BEYA, Mez Monty and Papa Xanny and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

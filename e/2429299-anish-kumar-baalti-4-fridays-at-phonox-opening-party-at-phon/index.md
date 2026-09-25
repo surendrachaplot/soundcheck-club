@@ -1,6 +1,6 @@
 # Anish Kumar, Baalti: 4 Fridays at Phonox (Opening Party) at Phonox
 
-Anish Kumar, Baalti: 4 Fridays at Phonox (Opening Party) on Fri 2 Oct, London. 2 acts on the bill: Anish Kumar and Baalti. Preview the line-up and save it on soundcheck.
+Anish Kumar, Baalti: 4 Fridays at Phonox (Opening Party) on Fri 2 Oct, London. 2 artists on the bill: Anish Kumar and Baalti. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

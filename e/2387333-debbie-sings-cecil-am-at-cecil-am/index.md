@@ -1,6 +1,6 @@
 # Debbie Sings - Cecil AM at Cecil AM
 
-Debbie Sings - Cecil AM on Fri 27 Nov, Copenhagen. 1 act on the bill: Debbie Sings. Preview the line-up and save it on soundcheck.
+Debbie Sings - Cecil AM on Fri 27 Nov, Copenhagen. 1 artist on the bill: Debbie Sings. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

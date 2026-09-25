@@ -1,6 +1,6 @@
 # The Brickworks: LTJ Bukem at The Brickworks
 
-The Brickworks: LTJ Bukem on Fri 25 Sept, Nottingham. 1 act on the bill: LTJ Bukem. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+The Brickworks: LTJ Bukem on Fri 25 Sept, Nottingham. 1 artist on the bill: LTJ Bukem. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

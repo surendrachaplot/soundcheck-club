@@ -1,6 +1,6 @@
 # 4KORDA4: mance (NL) at Bar IDA
 
-4KORDA4: mance (NL) at Bar IDA on Fri 16 Oct, Tallinn. 1 act on the bill: mance. House and Garage. Preview the line-up and save it on soundcheck.
+4KORDA4: mance (NL) at Bar IDA on Fri 16 Oct, Tallinn. 1 artist on the bill: mance. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

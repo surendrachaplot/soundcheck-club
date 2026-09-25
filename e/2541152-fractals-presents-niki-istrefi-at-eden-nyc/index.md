@@ -1,6 +1,6 @@
 # Fractals presents: Niki Istrefi at Eden NYC
 
-Fractals presents: Niki Istrefi at Eden NYC on Fri 23 Oct, Newyorkcity. 2 acts on the bill: CRYFXB and Niki Istrefi. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Fractals presents: Niki Istrefi at Eden NYC on Fri 23 Oct, New York City. 2 artists on the bill: CRYFXB and Niki Istrefi. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

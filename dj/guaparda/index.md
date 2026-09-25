@@ -2,7 +2,7 @@
 
 Guaparda is a House and Dembow artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Airliner, Los Angeles on Fri, 25 Sept 2026.
 
-Guaparda is a house and dembow artist based in United States of America, tracked on soundcheck, with 4 sets logged across Losangeles. Often billed alongside Andy Oro, Akumen and Ava Blank. Next up: The Airliner, Losangeles on Fri 25 Sept.
+Guaparda is a house and dembow artist based in United States of America, tracked on soundcheck, with 4 sets logged across Los Angeles. Often billed alongside Andy Oro, Akumen and Ava Blank. Next up: The Airliner, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Blu:sh is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fünk, Mexico City on Thu, 24 Sept 2026.
 
-Blu:sh is a techno and trance artist based in France, tracked on soundcheck, with 57 sets logged across Athens, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Zeynep, Marie Malarie and Von Riu. Next up: Fünk, Mexicocity on Thu 24 Sept.
+Blu:sh is a techno and trance artist based in France, tracked on soundcheck, with 57 sets logged across Athens, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Zeynep, Marie Malarie and Von Riu. Next up: Fünk, Mexico City on Thu 24 Sept.
 
 ## Upcoming shows
 

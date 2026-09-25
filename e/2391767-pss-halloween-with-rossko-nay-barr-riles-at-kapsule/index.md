@@ -1,6 +1,6 @@
 # PSS Halloween with Rossko, Nay Barr & Riles at Kapsule
 
-PSS Halloween with Rossko, Nay Barr & Riles at Kapsule on Fri 30 Oct, Liverpool. 1 act on the bill: Rossko. House and Garage. Preview the line-up and save it on soundcheck.
+PSS Halloween with Rossko, Nay Barr & Riles at Kapsule on Fri 30 Oct, Liverpool. 1 artist on the bill: Rossko. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

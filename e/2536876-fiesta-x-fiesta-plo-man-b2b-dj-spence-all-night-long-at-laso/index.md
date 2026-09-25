@@ -1,6 +1,6 @@
 # Fiesta x Fiesta: PLO Man b2b DJ Spence all night long at Lasociaciøn
 
-Fiesta x Fiesta: PLO Man b2b DJ Spence all night long at Lasociaciøn on Fri 23 Oct, Madrid. 2 acts on the bill: DJ Spence and PLO Man. Dub Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Fiesta x Fiesta: PLO Man b2b DJ Spence all night long at Lasociaciøn on Fri 23 Oct, Madrid. 2 artists on the bill: DJ Spence and PLO Man. Dub Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

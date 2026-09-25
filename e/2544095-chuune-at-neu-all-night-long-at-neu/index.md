@@ -1,6 +1,6 @@
 # Chuune at Neu – all night long at NEU
 
-Chuune at Neu – all night long at NEU on Sat 10 Oct, Stockholm. 3 acts on the bill: CAMILLKA, Mabogo and Naughty Hana. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+Chuune at Neu – all night long at NEU on Sat 10 Oct, Stockholm. 3 artists on the bill: CAMILLKA, Mabogo and Naughty Hana. Minimal and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

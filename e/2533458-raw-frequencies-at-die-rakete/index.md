@@ -1,6 +1,6 @@
 # Raw Frequencies at Die Rakete
 
-Raw Frequencies at Die Rakete on Fri 2 Oct, Nurnberg. 3 acts on the bill: DJ SEXSTASY, Misha (3) and Rishka. Techno. Preview the line-up and save it on soundcheck.
+Raw Frequencies at Die Rakete on Fri 2 Oct, Nürnberg. 3 artists on the bill: DJ SEXSTASY, Misha and Rishka. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

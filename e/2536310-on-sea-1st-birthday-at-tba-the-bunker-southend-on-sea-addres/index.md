@@ -1,6 +1,6 @@
 # On Sea - 1st Birthday at TBA -  The Bunker - Southend on Sea - Address announced on day of event
 
-On Sea - 1st Birthday at TBA -  The Bunker - Southend on Sea - Address announced on day of event on Sat 24 Oct, South-east. 1 act on the bill: Silva Snipa. Preview the line-up and save it on soundcheck.
+On Sea - 1st Birthday at TBA -  The Bunker - Southend on Sea - Address announced on day of event on Sat 24 Oct, South East. 1 artist on the bill: Silva Snipa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

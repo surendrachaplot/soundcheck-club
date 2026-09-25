@@ -1,6 +1,6 @@
 # Untitled presents: EQ at TBA - 186 Harvard Avenue, Allston, MA
 
-Untitled presents: EQ at TBA - 186 Harvard Avenue, Allston, MA on Thu 29 Oct, Boston. 1 act on the bill: EQ (Estratosfera + Qiri). Trance and Club. Preview the line-up and save it on soundcheck.
+Untitled presents: EQ at TBA - 186 Harvard Avenue, Allston, MA on Thu 29 Oct, Boston. 1 artist on the bill: EQ (Estratosfera + Qiri). Trance and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

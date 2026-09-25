@@ -1,6 +1,6 @@
 # Patrice Scott (US) at Modeci
 
-Patrice Scott (US) at Modeci on Sat 3 Oct, Seoul. 5 acts on the bill: BYUNGHO, denny, DJ Soulscape and JAE SANG and 1 more. Preview the line-up and save it on soundcheck.
+Patrice Scott (US) at Modeci on Sat 3 Oct, Seoul. 5 artists on the bill: BYUNGHO, denny, DJ Soulscape and JAE SANG and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # inori at Dogenzaka Church
 
-inori at Dogenzaka Church on Wed 30 Sept, Tokyo. 1 act on the bill: MOTOKA. Techno and House. Preview the line-up and save it on soundcheck.
+inori at Dogenzaka Church on Wed 30 Sept, Tokyo. 1 artist on the bill: MOTOKA. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

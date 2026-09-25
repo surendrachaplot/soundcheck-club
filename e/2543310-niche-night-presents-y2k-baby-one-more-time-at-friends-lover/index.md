@@ -1,6 +1,6 @@
 # Niche Night presents: Y2K Baby One More Time at Friends & Lovers
 
-Niche Night presents: Y2K Baby One More Time at Friends & Lovers on Thu 24 Sept, Newyorkcity. Pop and Club. Preview the line-up and save it on soundcheck.
+Niche Night presents: Y2K Baby One More Time at Friends & Lovers on Thu 24 Sept, New York City. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

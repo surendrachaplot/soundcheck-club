@@ -1,6 +1,6 @@
 # CubCru and Friends present: Deaf Institute Promoter Takeover (Special Guest: Janaway) at The Deaf Institute
 
-CubCru and Friends present: Deaf Institute Promoter Takeover (Special Guest: Janaway) at The Deaf Institute on Wed 30 Sept, Manchester. 3 acts on the bill: Janaway, Sweetly and Tom Oakley. Electro and Jungle. Preview the line-up and save it on soundcheck.
+CubCru and Friends present: Deaf Institute Promoter Takeover (Special Guest: Janaway) at The Deaf Institute on Wed 30 Sept, Manchester. 3 artists on the bill: Janaway, Sweetly and Tom Oakley. Electro and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

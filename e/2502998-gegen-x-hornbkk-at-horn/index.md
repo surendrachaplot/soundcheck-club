@@ -1,6 +1,6 @@
 # GEGEN X HORNBKK at Horn
 
-GEGEN X HORNBKK at Horn on Sat 24 Oct, Bangkok. 3 acts on the bill: 5.5MM, Cristian Marras and Mar/us. Techno. Preview the line-up and save it on soundcheck.
+GEGEN X HORNBKK at Horn on Sat 24 Oct, Bangkok. 3 artists on the bill: 5.5MM, Cristian Marras and Mar/us. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

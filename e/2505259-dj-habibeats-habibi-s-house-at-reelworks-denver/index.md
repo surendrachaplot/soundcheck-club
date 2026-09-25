@@ -1,6 +1,6 @@
 # DJ Habibeats: Habibi's House at Reelworks Denver
 
-DJ Habibeats: Habibi's House at Reelworks Denver on Fri 25 Sept, Denver. 1 act on the bill: DJ Habibeats. House. Preview the line-up and save it on soundcheck.
+DJ Habibeats: Habibi's House at Reelworks Denver on Fri 25 Sept, Denver. 1 artist on the bill: DJ Habibeats. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MOOG HISTORY: Deckard + Men (L-Men-T) at Moog Club
 
-MOOG HISTORY: Deckard + Men (L-Men-T) at Moog Club on Thu 29 Oct, Barcelona. 2 acts on the bill: Deckard and DJ MEN. Techno. Preview the line-up and save it on soundcheck.
+MOOG HISTORY: Deckard + Men (L-Men-T) at Moog Club on Thu 29 Oct, Barcelona. 2 artists on the bill: Deckard and DJ MEN. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

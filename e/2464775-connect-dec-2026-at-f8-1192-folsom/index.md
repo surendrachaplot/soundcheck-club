@@ -1,6 +1,6 @@
 # CONNECT DEC 2026 at F8 1192 Folsom
 
-CONNECT DEC 2026 at F8 1192 Folsom on Thu 3 Dec, Sanfrancisco. 1 act on the bill: JustJovani. Techno. Preview the line-up and save it on soundcheck.
+CONNECT DEC 2026 at F8 1192 Folsom on Thu 3 Dec, San Francisco/Oakland. 1 artist on the bill: JustJovani. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

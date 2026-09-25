@@ -1,6 +1,6 @@
 # Spooky Sunrise Season at TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9
 
-Spooky Sunrise Season at TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9 on Sat 31 Oct, Montreal. 4 acts on the bill: Clochette, Crescenzo, Jino K and Racil. Preview the line-up and save it on soundcheck.
+Spooky Sunrise Season at TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9 on Sat 31 Oct, Montreal. 4 artists on the bill: Clochette, Crescenzo, Jino K and Racil. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

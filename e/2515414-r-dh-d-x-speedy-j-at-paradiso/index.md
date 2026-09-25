@@ -1,6 +1,6 @@
 # Rødhåd x Speedy J at Paradiso
 
-Rødhåd x Speedy J at Paradiso on Wed 30 Sept, Amsterdam. 2 acts on the bill: Rødhåd and Speedy J. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Rødhåd x Speedy J at Paradiso on Wed 30 Sept, Amsterdam. 2 artists on the bill: Rødhåd and Speedy J. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # THE HOT B!T@# HALLOWEEN PARTY feat. Miss Toto - Madeline - Kitt Vesper - Virago at smartbar
 
-THE HOT B!T@# HALLOWEEN PARTY feat. Miss Toto - Madeline - Kitt Vesper - Virago at smartbar on Sat 31 Oct, Chicago. 3 acts on the bill: Kitt Vesper, Madeline (Chi) and Miss Toto. Techno and Electronica. Preview the line-up and save it on soundcheck.
+THE HOT B!T@# HALLOWEEN PARTY feat. Miss Toto - Madeline - Kitt Vesper - Virago at smartbar on Sat 31 Oct, Chicago. 3 artists on the bill: Kitt Vesper, Madeline (Chi) and Miss Toto. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

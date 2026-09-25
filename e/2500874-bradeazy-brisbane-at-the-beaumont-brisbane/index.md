@@ -1,6 +1,6 @@
 # bradeazy - Brisbane at The Beaumont Brisbane
 
-bradeazy - Brisbane at The Beaumont Brisbane on Sat 26 Sept, Brisbane. 1 act on the bill: bradeazy. Preview the line-up and save it on soundcheck.
+bradeazy - Brisbane at The Beaumont Brisbane on Sat 26 Sept, Brisbane. 1 artist on the bill: bradeazy. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

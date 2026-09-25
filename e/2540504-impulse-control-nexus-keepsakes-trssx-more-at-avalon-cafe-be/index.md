@@ -1,6 +1,6 @@
 # IMPULSE CONTROL: Nexus, Keepsakes, TRSSX + more at Avalon Cafe Bermondsey
 
-IMPULSE CONTROL: Nexus, Keepsakes, TRSSX + more at Avalon Cafe Bermondsey on Sat 7 Nov, London. 8 acts on the bill: B4mba, CHEZA LUCINA, Keepsakes and Mooki6 and 4 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
+IMPULSE CONTROL: Nexus, Keepsakes, TRSSX + more at Avalon Cafe Bermondsey on Sat 7 Nov, London. 8 artists on the bill: B4mba, CHEZA LUCINA, Keepsakes and Mooki6 and 4 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

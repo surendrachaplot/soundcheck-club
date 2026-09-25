@@ -2,7 +2,7 @@
 
 JFÜNG is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - SECRET WAREHOUSE, Hong Kong on Sat, 26 Sept 2026.
 
-JFÜNG is a techno and bass artist based in China, tracked on soundcheck, with 53 sets logged across Hongkong and Shenzhen. Often billed alongside VSLORIA, Immuno and Arthur Yeti. Next up: TBA - SECRET WAREHOUSE, Hongkong on Sat 26 Sept.
+JFÜNG is a techno and bass artist based in China, tracked on soundcheck, with 53 sets logged across Hong Kong and Shenzhen. Often billed alongside VSLORIA, Immuno and Arthur Yeti. Next up: TBA - SECRET WAREHOUSE, Hong Kong on Sat 26 Sept.
 
 ## Upcoming shows
 

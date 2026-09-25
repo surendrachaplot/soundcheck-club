@@ -1,6 +1,6 @@
 # Sottosopra W/ John Dimas at Audiofficina - HI-FI Corner
 
-Sottosopra W/ John Dimas at Audiofficina - HI-FI Corner on Sat 10 Oct, Milan. 3 acts on the bill: Ilgattoelavolpe, John Dimas and Tomahs.. Electronica. Preview the line-up and save it on soundcheck.
+Sottosopra W/ John Dimas at Audiofficina - HI-FI Corner on Sat 10 Oct, Milan. 3 artists on the bill: Ilgattoelavolpe, John Dimas and Tomahs.. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

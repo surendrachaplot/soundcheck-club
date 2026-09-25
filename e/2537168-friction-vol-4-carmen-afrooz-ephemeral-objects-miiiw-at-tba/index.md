@@ -1,6 +1,6 @@
 # Friction Vol.4: Carmen, Afrooz, ephemeral objects, MiiiW at TBA
 
-Friction Vol.4: Carmen, Afrooz, ephemeral objects, MiiiW at TBA on Fri 16 Oct, Vancouver. 4 acts on the bill: Afrooz, Carmen (5), ephemeral objects and MiiiW. Techno. Preview the line-up and save it on soundcheck.
+Friction Vol.4: Carmen, Afrooz, ephemeral objects, MiiiW at TBA on Fri 16 Oct, Vancouver. 4 artists on the bill: Afrooz, Carmen, ephemeral objects and MiiiW. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

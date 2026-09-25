@@ -2,7 +2,7 @@
 
 Lasse is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
 
-Lasse is a techno and house artist based in Netherlands, tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Lasse Top, Flits and Isaiah (NL). Next up: Oma Doris, Dortmund-essen on Sat 10 Oct.
+Lasse is a techno and house artist based in Netherlands, tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Lasse Top, Flits and Isaiah (NL). Next up: Oma Doris, Dortmund Essen on Sat 10 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # New Radicalisms 2026 - Club program Friday at Moezeum
 
-New Radicalisms 2026 - Club program Friday at Moezeum on Fri 25 Sept, Rotterdam. 2 acts on the bill: Disco Arabesquo and ZOBAYDA. Preview the line-up and save it on soundcheck.
+New Radicalisms 2026 - Club program Friday at Moezeum on Fri 25 Sept, Rotterdam. 2 artists on the bill: Disco Arabesquo and ZOBAYDA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

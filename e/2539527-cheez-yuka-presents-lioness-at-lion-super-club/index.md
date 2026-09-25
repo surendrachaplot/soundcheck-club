@@ -1,6 +1,6 @@
 # CHEEZ & Yuka presents - LIONESS - at Lion Super Club
 
-CHEEZ & Yuka presents - LIONESS - at Lion Super Club on Sat 26 Sept, Seoul. 8 acts on the bill: Bliss (1), Dorothy (NL), GG (2) and KEY:NA and 4 more. Preview the line-up and save it on soundcheck.
+CHEEZ & Yuka presents - LIONESS - at Lion Super Club on Sat 26 Sept, Seoul. 8 artists on the bill: Bliss, Dorothy (NL), GG and KEY:NA and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

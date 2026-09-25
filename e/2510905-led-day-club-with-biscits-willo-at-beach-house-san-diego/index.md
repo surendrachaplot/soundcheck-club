@@ -1,6 +1,6 @@
 # LED Day Club with Biscits + Willo at Beach House San Diego
 
-LED Day Club with Biscits + Willo at Beach House San Diego on Fri 9 Oct, Sandiego. 2 acts on the bill: Biscits and Willo. Preview the line-up and save it on soundcheck.
+LED Day Club with Biscits + Willo at Beach House San Diego on Fri 9 Oct, San Diego. 2 artists on the bill: Biscits and Willo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

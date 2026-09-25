@@ -1,14 +1,15 @@
 # Emily Nash
 
-Emily Nash is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at fabric, London on Thu, 15 Oct 2026.
+Emily Nash is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at fabric, London on Thu, 15 Oct 2026.
 
-Emily Nash is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 3 more. Often billed alongside Charlotte Van de Peer, George Mensah and Sammy Porter. Next up: fabric, London on Thu 15 Oct.
+Emily Nash is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 4 more. Often billed alongside Charlotte Van de Peer, George Mensah and Sammy Porter. Next up: fabric, London on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | fabric | London |
+| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 
 ## Recently played
 

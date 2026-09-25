@@ -1,6 +1,6 @@
 # IAM WHO IAM - Alfred Heinrichs Live @ Docks Hamburg at Docks
 
-IAM WHO IAM - Alfred Heinrichs Live @ Docks Hamburg on Sat 10 Oct, Hamburg. 1 act on the bill: Alfred Heinrichs. Techno. Preview the line-up and save it on soundcheck.
+IAM WHO IAM - Alfred Heinrichs Live @ Docks Hamburg on Sat 10 Oct, Hamburg. 1 artist on the bill: Alfred Heinrichs. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

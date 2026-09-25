@@ -1,6 +1,6 @@
 # An Evening with Donae'o (4HR UK Funky DJ Set) at Bread and Butter
 
-An Evening with Donae'o (4HR UK Funky DJ Set) at Bread and Butter on Fri 30 Oct, London. 1 act on the bill: Donae'o. UK Funky and Afro House. Preview the line-up and save it on soundcheck.
+An Evening with Donae'o (4HR UK Funky DJ Set) at Bread and Butter on Fri 30 Oct, London. 1 artist on the bill: Donae'o. UK Funky and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

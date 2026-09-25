@@ -1,6 +1,6 @@
 # Shannen SP presents: Bobby Beethoven / TAYHANA / Bambi / Shannen SP at Ormside Projects
 
-Shannen SP presents: Bobby Beethoven / TAYHANA / Bambi / Shannen SP at Ormside Projects on Sat 10 Oct, London. 3 acts on the bill: Shannen SP, TAYHANA and Total Freedom. Preview the line-up and save it on soundcheck.
+Shannen SP presents: Bobby Beethoven / TAYHANA / Bambi / Shannen SP at Ormside Projects on Sat 10 Oct, London. 3 artists on the bill: Shannen SP, TAYHANA and Total Freedom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

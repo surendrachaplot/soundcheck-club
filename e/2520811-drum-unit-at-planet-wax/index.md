@@ -1,6 +1,6 @@
 # DRUM UNIT at Planet Wax
 
-DRUM UNIT at Planet Wax on Fri 9 Oct, London. 1 act on the bill: oozat. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+DRUM UNIT at Planet Wax on Fri 9 Oct, London. 1 artist on the bill: oozat. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

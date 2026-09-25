@@ -1,6 +1,6 @@
 # History Of Rave: Eats Everything, Groove Armada, Mike Skinner at The Prospect Building
 
-History Of Rave: Eats Everything, Groove Armada, Mike Skinner at The Prospect Building on Sat 17 Oct, Bristol. 9 acts on the bill: Eats Everything, Groove Armada, Lulah Francs and Mike Skinner and 5 more. Tech House. Preview the line-up and save it on soundcheck.
+History Of Rave: Eats Everything, Groove Armada, Mike Skinner at The Prospect Building on Sat 17 Oct, Bristol. 9 artists on the bill: Eats Everything, Groove Armada, Lulah Francs and Mike Skinner and 5 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

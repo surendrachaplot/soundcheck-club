@@ -1,6 +1,6 @@
 # CARTULIS (TECHNO/HOUSE) at WOMB
 
-CARTULIS (TECHNO/HOUSE) at WOMB on Sat 24 Oct, Tokyo. 9 acts on the bill: CHIDA, DSKE, Junki Inoue and P-YAN and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+CARTULIS (TECHNO/HOUSE) at WOMB on Sat 24 Oct, Tokyo. 9 artists on the bill: CHIDA, DSKE, Junki Inoue and P-YAN and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

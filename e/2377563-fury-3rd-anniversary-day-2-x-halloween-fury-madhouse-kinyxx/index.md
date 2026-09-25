@@ -1,6 +1,6 @@
 # Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) at Razzmatazz
 
-Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) at Razzmatazz on Sun 1 Nov, Barcelona. 6 acts on the bill: Art of Fighters, Lady Dammage, Pinotello and Revenja and 2 more. Hardcore. Preview the line-up and save it on soundcheck.
+Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) at Razzmatazz on Sun 1 Nov, Barcelona. 6 artists on the bill: Art of Fighters, Lady Dammage, Pinotello and Revenja and 2 more. Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

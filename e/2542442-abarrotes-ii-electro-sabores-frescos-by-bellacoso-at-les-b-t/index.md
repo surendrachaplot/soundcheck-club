@@ -1,6 +1,6 @@
 # ABARROTES II: Electro & Sabores frescos by BELLACOSO at Les Bêtises
 
-ABARROTES II: Electro & Sabores frescos by BELLACOSO at Les Bêtises on Fri 2 Oct, Paris. 2 acts on the bill: Charlie Niklaas and T-noux. House and Tech House. Preview the line-up and save it on soundcheck.
+ABARROTES II: Electro & Sabores frescos by BELLACOSO at Les Bêtises on Fri 2 Oct, Paris. 2 artists on the bill: Charlie Niklaas and T-noux. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Gorgeous Gorgeous Halloween at The Sultan Room
 
-Gorgeous Gorgeous Halloween at The Sultan Room on Fri 30 Oct, Newyorkcity. Pop. Preview the line-up and save it on soundcheck.
+Gorgeous Gorgeous Halloween at The Sultan Room on Fri 30 Oct, New York City. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

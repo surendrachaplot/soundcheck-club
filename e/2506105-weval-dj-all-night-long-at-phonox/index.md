@@ -1,6 +1,6 @@
 # Weval (DJ) All Night Long at Phonox
 
-Weval (DJ) All Night Long at Phonox on Sat 3 Oct, London. 1 act on the bill: Weval. Club and Electronica. Preview the line-up and save it on soundcheck.
+Weval (DJ) All Night Long at Phonox on Sat 3 Oct, London. 1 artist on the bill: Weval. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

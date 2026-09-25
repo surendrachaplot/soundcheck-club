@@ -1,6 +1,6 @@
 # inU with Guy J & Jeremy Olander at Digital
 
-inU with Guy J & Jeremy Olander at Digital on Sat 7 Nov, Newcastle. 4 acts on the bill: Easby, Guy J, Jeremy Olander and SOBAH. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+inU with Guy J & Jeremy Olander at Digital on Sat 7 Nov, Newcastle. 4 artists on the bill: Easby, Guy J, Jeremy Olander and SOBAH. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Baauer at Audio SF
 
-Baauer at Audio SF on Fri 9 Oct, Sanfrancisco. 1 act on the bill: Baauer. Preview the line-up and save it on soundcheck.
+Baauer at Audio SF on Fri 9 Oct, San Francisco/Oakland. 1 artist on the bill: Baauer. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

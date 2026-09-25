@@ -1,6 +1,6 @@
 # Studio IV: Mix-Stress at Mollies
 
-Studio IV: Mix-Stress at Mollies on Fri 25 Sept, Manchester. 1 act on the bill: Mix-Stress. Preview the line-up and save it on soundcheck.
+Studio IV: Mix-Stress at Mollies on Fri 25 Sept, Manchester. 1 artist on the bill: Mix-Stress. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

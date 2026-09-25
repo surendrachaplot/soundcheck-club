@@ -1,6 +1,6 @@
 # Magician On Duty LABEL SHOWCASE w. Mia Kober, Überhaupt & Außerdem, Pysh, Magician On Duty at Klunkerkranich
 
-Magician On Duty LABEL SHOWCASE w. Mia Kober, Überhaupt & Außerdem, Pysh, Magician On Duty at Klunkerkranich on Thu 24 Sept, Berlin. 4 acts on the bill: kayBe (UK), Magician On Duty, Mia Kober and Pysh. House and Downtempo. Preview the line-up and save it on soundcheck.
+Magician On Duty LABEL SHOWCASE w. Mia Kober, Überhaupt & Außerdem, Pysh, Magician On Duty at Klunkerkranich on Thu 24 Sept, Berlin. 4 artists on the bill: kayBe (UK), Magician On Duty, Mia Kober and Pysh. House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

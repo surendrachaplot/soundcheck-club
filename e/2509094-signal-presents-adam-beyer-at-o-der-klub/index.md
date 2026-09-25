@@ -1,6 +1,6 @@
 # SIGNAL presents Adam Beyer at O der Klub
 
-SIGNAL presents Adam Beyer at O der Klub on Fri 16 Oct, Vienna. 1 act on the bill: Adam Beyer. Techno. Preview the line-up and save it on soundcheck.
+SIGNAL presents Adam Beyer at O der Klub on Fri 16 Oct, Vienna. 1 artist on the bill: Adam Beyer. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HAPPY DYNAMITE 25th Anniversary at R Lounge
 
-HAPPY DYNAMITE 25th Anniversary at R Lounge on Sat 26 Sept, Tokyo. 2 acts on the bill: DJ Shimamura and YOSHIMASA. Hardcore. Preview the line-up and save it on soundcheck.
+HAPPY DYNAMITE 25th Anniversary at R Lounge on Sat 26 Sept, Tokyo. 2 artists on the bill: DJ Shimamura and YOSHIMASA. Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 AMSL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at JAKI, Cologne on Fri, 2 Oct 2026.
 
-AMSL is a techno and house artist based in Germany, tracked on soundcheck, with 50 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 2 more. Often billed alongside Nikity, Sedaction and Anna Cainelli. Next up: JAKI, Cologne on Fri 2 Oct.
+AMSL is a techno and house artist based in Germany, tracked on soundcheck, with 50 sets logged across Berlin, Cologne, Düsseldorf and Frankfurt and 2 more. Often billed alongside Nikity, Sedaction and Anna Cainelli. Next up: JAKI, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 

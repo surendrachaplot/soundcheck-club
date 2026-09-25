@@ -1,6 +1,6 @@
 # High Fade Secret Show - Edinburgh at TBA
 
-High Fade Secret Show - Edinburgh at TBA on Thu 8 Oct, Edinburgh. 1 act on the bill: High Fade. Funk / Soul. Preview the line-up and save it on soundcheck.
+High Fade Secret Show - Edinburgh at TBA on Thu 8 Oct, Edinburgh. 1 artist on the bill: High Fade. Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

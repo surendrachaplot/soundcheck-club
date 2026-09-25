@@ -1,6 +1,6 @@
 # Jazzy - Peace & Patience Tour at SWG3
 
-Jazzy - Peace & Patience Tour at SWG3 on Sat 19 Dec, Glasgow. 1 act on the bill: Jazzy (IRL). House. Preview the line-up and save it on soundcheck.
+Jazzy - Peace & Patience Tour at SWG3 on Sat 19 Dec, Glasgow. 1 artist on the bill: Jazzy (IRL). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Public Disco Festival at TBA - Shipyards Waterfront
 
-Public Disco Festival at TBA - Shipyards Waterfront on Sat 3 Oct, Vancouver. 11 acts on the bill: Christa Belle, Dane, DJ Hannah and DJ Holographic and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
+Public Disco Festival at TBA - Shipyards Waterfront on Sat 3 Oct, Vancouver. 11 artists on the bill: Christa Belle, Dane, DJ Hannah and DJ Holographic and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,12 +1,12 @@
 # Haunted Superclub pres. Carl Cox & Guy J at TBA - Lurin live
 
-Haunted Superclub pres. Carl Cox & Guy J at TBA - Lurin live on Fri 30 Oct, All. 2 acts on the bill: Carl Cox and Guy J. Preview the line-up and save it on soundcheck.
+Haunted Superclub pres. Carl Cox & Guy J at TBA - Lurin live on Fri 30 Oct, Peru. 2 artists on the bill: Carl Cox and Guy J. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 30 Oct 2026 |
 | Venue | TBA - Lurin live |
-| City | All |
+| City | Peru |
 
 ## Line-up
 

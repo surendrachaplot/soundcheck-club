@@ -1,6 +1,6 @@
 # SYNTHESIS 002: Anastasia Giovani, Blazej Malinowski, Kameliia & Secus at TBA - Los Angeles
 
-SYNTHESIS 002: Anastasia Giovani, Blazej Malinowski, Kameliia & Secus at TBA - Los Angeles on Sun 25 Oct, Losangeles. 4 acts on the bill: Anastasia Giovani, Blazej Malinowski, Kameliia and Secus. Techno. Preview the line-up and save it on soundcheck.
+SYNTHESIS 002: Anastasia Giovani, Blazej Malinowski, Kameliia & Secus at TBA - Los Angeles on Sun 25 Oct, Los Angeles. 4 artists on the bill: Anastasia Giovani, Blazej Malinowski, Kameliia and Secus. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

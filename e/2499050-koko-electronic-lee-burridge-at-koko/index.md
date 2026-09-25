@@ -1,6 +1,6 @@
 # KOKO Electronic: Lee Burridge at KOKO
 
-KOKO Electronic: Lee Burridge on Fri 25 Sept, London. 3 acts on the bill: Birds of Mind, Lee Burridge and SHARE (NL). Preview the line-up and save it on soundcheck.
+KOKO Electronic: Lee Burridge on Fri 25 Sept, London. 3 artists on the bill: Birds of Mind, Lee Burridge and SHARE (NL). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

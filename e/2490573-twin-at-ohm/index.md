@@ -1,6 +1,6 @@
 # twin at OHM
 
-twin at OHM on Fri 25 Sept, Berlin. 4 acts on the bill: Cosmo (KR), Lb Honne, Richard Akingbehin and Tina (DE). Preview the line-up and save it on soundcheck.
+twin at OHM on Fri 25 Sept, Berlin. 4 artists on the bill: Cosmo (KR), Lb Honne, Richard Akingbehin and Tina (DE). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Inner Motion at Loop
 
-Inner Motion at Loop on Sat 3 Oct, Vienna. 3 acts on the bill: Daniel Darkhofer, Edictum and Fede Frostl. Preview the line-up and save it on soundcheck.
+Inner Motion at Loop on Sat 3 Oct, Vienna. 3 artists on the bill: Daniel Darkhofer, Edictum and Fede Frostl. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

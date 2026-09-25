@@ -1,6 +1,6 @@
 # INTELL III: DENSITY@ Den Anden Side at Den Anden Side
 
-INTELL III: DENSITY@ Den Anden Side on Sat 26 Sept, Copenhagen. 3 acts on the bill: Ctrls, Pamela Svart and SORT SIND. Techno. Preview the line-up and save it on soundcheck.
+INTELL III: DENSITY@ Den Anden Side on Sat 26 Sept, Copenhagen. 3 artists on the bill: Ctrls, Pamela Svart and SORT SIND. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

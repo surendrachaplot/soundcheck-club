@@ -1,6 +1,6 @@
 # BASS DROP at R Lounge
 
-BASS DROP at R Lounge on Fri 23 Oct, Tokyo. 1 act on the bill: ASSIGN. Drum & Bass. Preview the line-up and save it on soundcheck.
+BASS DROP at R Lounge on Fri 23 Oct, Tokyo. 1 artist on the bill: ASSIGN. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

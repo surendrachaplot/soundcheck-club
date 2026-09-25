@@ -1,6 +1,6 @@
 # UNZIP - The Fanny Pack Party at The Virgil
 
-UNZIP - The Fanny Pack Party at The Virgil on Sat 3 Oct, Losangeles. Disco and Club. Preview the line-up and save it on soundcheck.
+UNZIP - The Fanny Pack Party at The Virgil on Sat 3 Oct, Los Angeles. Disco and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

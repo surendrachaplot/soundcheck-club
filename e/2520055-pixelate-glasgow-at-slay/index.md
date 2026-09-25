@@ -1,6 +1,6 @@
 # PIXELATE Glasgow at Slay
 
-PIXELATE Glasgow at Slay on Sat 14 Nov, Glasgow. 3 acts on the bill: Compulsive Leia, DJ TinyHandz and Rahul.mp3. Preview the line-up and save it on soundcheck.
+PIXELATE Glasgow at Slay on Sat 14 Nov, Glasgow. 3 artists on the bill: Compulsive Leia, DJ TinyHandz and Rahul.mp3. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

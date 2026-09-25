@@ -1,6 +1,6 @@
 # SCHRANZ is BACK Nürnberg with Felix Kröcher at Die Rakete
 
-SCHRANZ is BACK Nürnberg with Felix Kröcher at Die Rakete on Fri 30 Oct, Nurnberg. 1 act on the bill: Felix Kröcher. Techno. Preview the line-up and save it on soundcheck.
+SCHRANZ is BACK Nürnberg with Felix Kröcher at Die Rakete on Fri 30 Oct, Nürnberg. 1 artist on the bill: Felix Kröcher. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

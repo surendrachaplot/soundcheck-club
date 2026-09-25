@@ -1,6 +1,6 @@
 # RM 303: Ghost in the Host at Underground SF
 
-RM 303: Ghost in the Host at Underground SF on Fri 16 Oct, Sanfrancisco. 3 acts on the bill: CHRI5PY, Jehnee and messiuhhh. Techno and Acid. Preview the line-up and save it on soundcheck.
+RM 303: Ghost in the Host at Underground SF on Fri 16 Oct, San Francisco/Oakland. 3 artists on the bill: CHRI5PY, Jehnee and messiuhhh. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

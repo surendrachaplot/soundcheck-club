@@ -1,6 +1,6 @@
 # Rooftop Series at Mariatrink at Jaz in the City
 
-Rooftop Series at Mariatrink at Jaz in the City on Sat 5 Dec, Vienna. 1 act on the bill: Fede Frostl. Progressive House. Preview the line-up and save it on soundcheck.
+Rooftop Series at Mariatrink at Jaz in the City on Sat 5 Dec, Vienna. 1 artist on the bill: Fede Frostl. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

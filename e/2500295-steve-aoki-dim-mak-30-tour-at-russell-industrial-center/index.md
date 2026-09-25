@@ -1,6 +1,6 @@
 # Steve Aoki: Dim Mak 30 Tour at Russell Industrial Center
 
-Steve Aoki: Dim Mak 30 Tour at Russell Industrial Center on Fri 6 Nov, Detroit. 1 act on the bill: Steve Aoki. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Steve Aoki: Dim Mak 30 Tour at Russell Industrial Center on Fri 6 Nov, Detroit. 1 artist on the bill: Steve Aoki. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

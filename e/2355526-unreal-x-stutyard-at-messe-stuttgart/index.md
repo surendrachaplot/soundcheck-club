@@ -1,6 +1,6 @@
 # UNREAL X STUTYARD at Messe Stuttgart
 
-UNREAL X STUTYARD at Messe Stuttgart on Fri 18 Dec, Stuttgart. 7 acts on the bill: A.N.I., EMILIJA, Johannes Schuster and KUKO and 3 more. Techno. Preview the line-up and save it on soundcheck.
+UNREAL X STUTYARD at Messe Stuttgart on Fri 18 Dec, Stuttgart. 7 artists on the bill: A.N.I., EMILIJA, Johannes Schuster and KUKO and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

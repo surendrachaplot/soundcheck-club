@@ -1,6 +1,6 @@
 # Lord Spikeheart + Palazzi D'oriente at Magazzino sul Po
 
-Lord Spikeheart + Palazzi D'oriente at Magazzino sul Po on Fri 13 Nov, Turin. 1 act on the bill: Lord Spikeheart. Techno and Afro Tech. Preview the line-up and save it on soundcheck.
+Lord Spikeheart + Palazzi D'oriente at Magazzino sul Po on Fri 13 Nov, Turin. 1 artist on the bill: Lord Spikeheart. Techno and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

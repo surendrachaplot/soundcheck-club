@@ -1,6 +1,6 @@
 # b u f f e r o v e r f l o w at Inferno
 
-b u f f e r o v e r f l o w at Inferno on Fri 25 Sept, Copenhagen. 1 act on the bill: natq. Techno and Minimal. Preview the line-up and save it on soundcheck.
+b u f f e r o v e r f l o w at Inferno on Fri 25 Sept, Copenhagen. 1 artist on the bill: natq. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

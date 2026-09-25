@@ -2,7 +2,7 @@
 
 BUBUCORE69 is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bootleg Bar NYC, New York City on Fri, 25 Sept 2026.
 
-BUBUCORE69 is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 15 sets logged across Chicago and Newyorkcity. Often billed alongside ASTER (DJ), Actual Angel and DJ DITTO.. Next up: Bootleg Bar NYC, Newyorkcity on Fri 25 Sept.
+BUBUCORE69 is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 15 sets logged across Chicago and New York City. Often billed alongside ASTER (DJ), Actual Angel and DJ DITTO.. Next up: Bootleg Bar NYC, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # useless seconds at Poly at Poly
 
-useless seconds at Poly on Sat 24 Oct, Lyon. 3 acts on the bill: Anna Kost, basic chanel and Maelita. Techno and Bass. Preview the line-up and save it on soundcheck.
+useless seconds at Poly on Sat 24 Oct, Lyon. 3 artists on the bill: Anna Kost, basic chanel and Maelita. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

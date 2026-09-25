@@ -2,7 +2,7 @@
 
 Lastword is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at De La Playa Records & Leisure, Los Angeles on Sat, 26 Sept 2026.
 
-Lastword is a house and club artist based in United States of America, tracked on soundcheck, with 60 sets logged across Chicago, Losangeles, Newyorkcity and Portland and 1 more. Often billed alongside Bobbyy, DJ Earl and JAE JBW. Next up: De La Playa Records & Leisure, Losangeles on Sat 26 Sept.
+Lastword is a house and club artist based in United States of America, tracked on soundcheck, with 60 sets logged across Chicago, Los Angeles, New York City and Portland and 1 more. Often billed alongside Bobbyy, DJ Earl and JAE JBW. Next up: De La Playa Records & Leisure, Los Angeles on Sat 26 Sept.
 
 ## Upcoming shows
 

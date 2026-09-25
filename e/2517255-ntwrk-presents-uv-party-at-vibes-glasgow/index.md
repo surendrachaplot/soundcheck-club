@@ -1,6 +1,6 @@
 # NTWRK Presents: UV PARTY at Vibes Glasgow
 
-NTWRK Presents: UV PARTY at Vibes Glasgow on Fri 23 Oct, Glasgow. 2 acts on the bill: Make It Last and WŁSN. Trance and Techno. Preview the line-up and save it on soundcheck.
+NTWRK Presents: UV PARTY at Vibes Glasgow on Fri 23 Oct, Glasgow. 2 artists on the bill: Make It Last and WŁSN. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

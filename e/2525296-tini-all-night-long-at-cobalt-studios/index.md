@@ -1,6 +1,6 @@
 # tINI - All Night Long at Cobalt Studios
 
-tINI - All Night Long at Cobalt Studios on Fri 16 Oct, Newcastle. 1 act on the bill: tINI. Preview the line-up and save it on soundcheck.
+tINI - All Night Long at Cobalt Studios on Fri 16 Oct, Newcastle. 1 artist on the bill: tINI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

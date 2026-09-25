@@ -1,6 +1,6 @@
 # Dazed 13th Birthday ➔ Open Air Day & Night Party // Courtyard & Warehouse at Eutopia Whs
 
-Dazed 13th Birthday ➔ Open Air Day & Night Party // Courtyard & Warehouse at Eutopia Whs on Sat 26 Sept, London. 9 acts on the bill: Banksie, Brian Smith, Flashmob and HARTY and 5 more. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Dazed 13th Birthday ➔ Open Air Day & Night Party // Courtyard & Warehouse at Eutopia Whs on Sat 26 Sept, London. 9 artists on the bill: Banksie, Brian Smith, Flashmob and HARTY and 5 more. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

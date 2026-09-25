@@ -1,6 +1,6 @@
 # HYBRID: GEA at Sala Cocó
 
-HYBRID: GEA at Sala Cocó on Sat 26 Sept, Madrid. 1 act on the bill: M.I.XX.I. Techno. Preview the line-up and save it on soundcheck.
+HYBRID: GEA at Sala Cocó on Sat 26 Sept, Madrid. 1 artist on the bill: M.I.XX.I. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

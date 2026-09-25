@@ -1,6 +1,6 @@
 # Outer Heaven presents: Borbon at Outer Heaven
 
-Outer Heaven presents: Borbon on Wed 30 Sept, Newyorkcity. 1 act on the bill: Borbón. Disco. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Borbon on Wed 30 Sept, New York City. 1 artist on the bill: Borbón. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

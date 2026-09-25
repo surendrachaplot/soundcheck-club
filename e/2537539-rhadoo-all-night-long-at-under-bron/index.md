@@ -1,6 +1,6 @@
 # Rhadoo All Night Long at Under Bron
 
-Rhadoo All Night Long at Under Bron on Sat 10 Oct, Stockholm. 1 act on the bill: Rhadoo. Techno and House. Preview the line-up and save it on soundcheck.
+Rhadoo All Night Long at Under Bron on Sat 10 Oct, Stockholm. 1 artist on the bill: Rhadoo. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

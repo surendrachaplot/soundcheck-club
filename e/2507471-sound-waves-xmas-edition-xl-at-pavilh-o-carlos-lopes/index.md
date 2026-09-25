@@ -1,6 +1,6 @@
 # Sound Waves XMAS EDITION XL at Pavilhão Carlos Lopes
 
-Sound Waves XMAS EDITION XL at Pavilhão Carlos Lopes on Sat 19 Dec, Lisbon. 7 acts on the bill: Azyr, BLNK, BØĘRY and Fatima Hajji and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Sound Waves XMAS EDITION XL at Pavilhão Carlos Lopes on Sat 19 Dec, Lisbon. 7 artists on the bill: Azyr, BLNK, BØĘRY and Fatima Hajji and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

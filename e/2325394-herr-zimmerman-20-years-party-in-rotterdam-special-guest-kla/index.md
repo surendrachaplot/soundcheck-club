@@ -1,6 +1,6 @@
 # Herr Zimmerman 20 Years Party in Rotterdam - Special Guest: Klaudia Gawlas (DE) at Now&Wow
 
-Herr Zimmerman 20 Years Party in Rotterdam - Special Guest: Klaudia Gawlas (DE) at Now&Wow on Sat 7 Nov, Rotterdam. 4 acts on the bill: Fraulein Z, Klaudia Gawlas, Rein (NL) and TanzMan. Techno. Preview the line-up and save it on soundcheck.
+Herr Zimmerman 20 Years Party in Rotterdam - Special Guest: Klaudia Gawlas (DE) at Now&Wow on Sat 7 Nov, Rotterdam. 4 artists on the bill: Fraulein Z, Klaudia Gawlas, Rein (NL) and TanzMan. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

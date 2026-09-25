@@ -1,6 +1,6 @@
 # Refracta & Pals at Sneaky Pete's
 
-Refracta & Pals at Sneaky Pete's on Thu 12 Nov, Edinburgh. 1 act on the bill: Refracta. Preview the line-up and save it on soundcheck.
+Refracta & Pals at Sneaky Pete's on Thu 12 Nov, Edinburgh. 1 artist on the bill: Refracta. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

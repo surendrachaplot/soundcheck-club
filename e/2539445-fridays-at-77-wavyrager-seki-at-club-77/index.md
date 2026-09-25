@@ -1,6 +1,6 @@
 # Fridays at 77: Wavyrager, Seki at Club 77
 
-Fridays at 77: Wavyrager, Seki at Club 77 on Fri 23 Oct, Sydney. 1 act on the bill: Seki. Techno and House. Preview the line-up and save it on soundcheck.
+Fridays at 77: Wavyrager, Seki at Club 77 on Fri 23 Oct, Sydney. 1 artist on the bill: Seki. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

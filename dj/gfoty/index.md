@@ -2,7 +2,7 @@
 
 GFOTY is a Pop and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Market Hotel, New York City on Fri, 9 Oct 2026.
 
-GFOTY is a pop and club artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Budapest, Edinburgh, Leeds and London and 8 more. Often billed alongside Mother Cell, Petal Supply and DJ Trick. Next up: Market Hotel, Newyorkcity on Fri 9 Oct.
+GFOTY is a pop and club artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Budapest, Edinburgh, Leeds and London and 8 more. Often billed alongside Mother Cell, Petal Supply and DJ Trick. Next up: Market Hotel, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 

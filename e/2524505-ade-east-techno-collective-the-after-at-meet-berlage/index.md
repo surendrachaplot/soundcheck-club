@@ -1,6 +1,6 @@
 # ADE EAST Techno Collective - THE AFTER at Meet Berlage
 
-ADE EAST Techno Collective - THE AFTER at Meet Berlage on Sat 24 Oct, Amsterdam. 4 acts on the bill: Jayzo, PunkFunkLove, rebrånded and Xiorro. Techno. Preview the line-up and save it on soundcheck.
+ADE EAST Techno Collective - THE AFTER at Meet Berlage on Sat 24 Oct, Amsterdam. 4 artists on the bill: Jayzo, PunkFunkLove, rebrånded and Xiorro. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

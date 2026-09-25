@@ -1,6 +1,6 @@
 # Billion Dollar Babes at The Cross
 
-Billion Dollar Babes at The Cross on Sat 26 Sept, London. 1 act on the bill: Jeremy Healy. House and Disco. Preview the line-up and save it on soundcheck.
+Billion Dollar Babes at The Cross on Sat 26 Sept, London. 1 artist on the bill: Jeremy Healy. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

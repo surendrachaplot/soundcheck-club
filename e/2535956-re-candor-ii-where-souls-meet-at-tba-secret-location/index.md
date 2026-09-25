@@ -1,6 +1,6 @@
 # (Re)Candor II: Where Souls Meet at TBA - Secret Location
 
-(Re)Candor II: Where Souls Meet at TBA - Secret Location on Fri 6 Nov, Berlin. 2 acts on the bill: Amnati and MALAGÜERA. House and Ambient. Preview the line-up and save it on soundcheck.
+(Re)Candor II: Where Souls Meet at TBA - Secret Location on Fri 6 Nov, Berlin. 2 artists on the bill: Amnati and MALAGÜERA. House and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

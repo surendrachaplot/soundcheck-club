@@ -1,6 +1,6 @@
 # Psychic Skin & 14x21: Razrbark, Miles Mercer at TBA - 14x21
 
-Psychic Skin & 14x21: Razrbark, Miles Mercer at TBA - 14x21 on Fri 2 Oct, Losangeles. 3 acts on the bill: Luke Mele, Miles Mercer and Razrbark. Preview the line-up and save it on soundcheck.
+Psychic Skin & 14x21: Razrbark, Miles Mercer at TBA - 14x21 on Fri 2 Oct, Los Angeles. 3 artists on the bill: Luke Mele, Miles Mercer and Razrbark. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

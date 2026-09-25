@@ -1,6 +1,6 @@
 # feedbk - grand opening with TBA at feedbk
 
-feedbk - grand opening with TBA on Sat 3 Oct, Newyorkcity. Techno and House. Preview the line-up and save it on soundcheck.
+feedbk - grand opening with TBA on Sat 3 Oct, New York City. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

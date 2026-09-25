@@ -1,6 +1,6 @@
 # Stacy Kidd + Mandiz & Max Hebert at Salon Daomé
 
-Stacy Kidd + Mandiz & Max Hebert at Salon Daomé on Fri 16 Oct, Montreal. 3 acts on the bill: Mandiz, Max Hebert and Stacy Kidd. House and Tech House. Preview the line-up and save it on soundcheck.
+Stacy Kidd + Mandiz & Max Hebert at Salon Daomé on Fri 16 Oct, Montreal. 3 artists on the bill: Mandiz, Max Hebert and Stacy Kidd. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

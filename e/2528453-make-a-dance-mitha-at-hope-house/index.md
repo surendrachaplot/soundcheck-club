@@ -1,6 +1,6 @@
 # MAKE A DANCE + MITHA at Hope House
 
-MAKE A DANCE + MITHA at Hope House on Fri 25 Sept, Leeds. 2 acts on the bill: Make A Dance and Oscar (MITHA). Techno and House. Preview the line-up and save it on soundcheck.
+MAKE A DANCE + MITHA at Hope House on Fri 25 Sept, Leeds. 2 artists on the bill: Make A Dance and Oscar (MITHA). Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

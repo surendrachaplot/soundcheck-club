@@ -1,6 +1,6 @@
 # btwn.us x Source MTL present: Ivy Lab [UK] at Le Belmont
 
-btwn.us x Source MTL present: Ivy Lab [UK] at Le Belmont on Sun 11 Oct, Montreal. 4 acts on the bill: Ivy Lab, Kuantum, Lissn and Melek. Bass and Club. Preview the line-up and save it on soundcheck.
+btwn.us x Source MTL present: Ivy Lab [UK] at Le Belmont on Sun 11 Oct, Montreal. 4 artists on the bill: Ivy Lab, Kuantum, Lissn and Melek. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

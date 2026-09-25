@@ -1,6 +1,6 @@
 # Leisure at Cat Club
 
-Leisure at Cat Club on Fri 25 Sept, Sanfrancisco. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+Leisure at Cat Club on Fri 25 Sept, San Francisco/Oakland. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

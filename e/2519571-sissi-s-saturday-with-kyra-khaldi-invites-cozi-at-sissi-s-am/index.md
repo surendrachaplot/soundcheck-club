@@ -1,6 +1,6 @@
 # Sissi's Saturday with Kyra Khaldi invites COZi at SISSI'S Amsterdam
 
-Sissi's Saturday with Kyra Khaldi invites COZi at SISSI'S Amsterdam on Sat 17 Oct, Amsterdam. 2 acts on the bill: COZi and Kyra Khaldi. House and Tech House. Preview the line-up and save it on soundcheck.
+Sissi's Saturday with Kyra Khaldi invites COZi at SISSI'S Amsterdam on Sat 17 Oct, Amsterdam. 2 artists on the bill: COZi and Kyra Khaldi. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

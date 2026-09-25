@@ -1,8 +1,8 @@
 # Charlotte de Witte
 
-Charlotte de Witte is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sektor 6D, Warsaw on Fri, 25 Sept 2026.
+Charlotte de Witte is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sektor 6D, Warsaw on Fri, 25 Sept 2026.
 
-Charlotte de Witte is a techno and house artist based in Belgium, tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Enrico Sangiuliano, Adiel and 999999999. Next up: Sektor 6D, Warsaw on Fri 25 Sept.
+Charlotte de Witte is a techno and house artist based in Belgium, tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Austin and Bali and 53 more. Often billed alongside Enrico Sangiuliano, Adiel and 999999999. Next up: Sektor 6D, Warsaw on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,11 +10,15 @@ Charlotte de Witte is a techno and house artist based in Belgium, tracked on sou
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Sektor 6D | Warsaw |
 | Sat, 26 Sept 2026 | Fort Manoel | Malta |
+| Sun, 27 Sept 2026 | Ada Bridge , Belgrade | Serbia |
 | Tue, 6 Oct 2026 | [UNVRS] | Ibiza |
+| Fri, 9 Oct 2026 | The Great Pyramids OF Giza | Egypt |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 16 Oct 2026 | Navy Pier | Chicago |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
+| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
+| Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Sat, 28 Nov 2026 | TBA | Zurich |
 
 ## Recently played

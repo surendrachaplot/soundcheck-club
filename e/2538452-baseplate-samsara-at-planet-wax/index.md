@@ -1,6 +1,6 @@
 # BASEPLATE: SAMSARA at Planet Wax
 
-BASEPLATE: SAMSARA at Planet Wax on Thu 8 Oct, London. 2 acts on the bill: SCARLETT and TILDA (2). Breakbeat and Garage. Preview the line-up and save it on soundcheck.
+BASEPLATE: SAMSARA at Planet Wax on Thu 8 Oct, London. 2 artists on the bill: SCARLETT and TILDA. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

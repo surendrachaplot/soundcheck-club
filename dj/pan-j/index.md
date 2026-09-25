@@ -1,14 +1,14 @@
 # Pan-J
 
-Pan-J is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, All on Fri, 27 Nov 2026.
+Pan-J is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Tunisia on Fri, 27 Nov 2026.
 
-Pan-J is a house and minimal techno artist based in Tunisia, tracked on soundcheck, with 10 sets logged across All, Barcelona, Berlin and Lisbon and 3 more. Often billed alongside HearThug, Aalia Iraki and Alaa.Djebali. Next up: TBA, All on Fri 27 Nov.
+Pan-J is a house and minimal techno artist based in Tunisia, tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Lisbon and Marseille and 3 more. Often billed alongside HearThug, Aalia Iraki and Alaa.Djebali. Next up: TBA, Tunisia on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TBA | All |
+| Fri, 27 Nov 2026 | TBA | Tunisia |
 
 ## Recently played
 

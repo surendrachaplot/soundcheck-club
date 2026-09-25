@@ -1,6 +1,6 @@
 # DARKER DISCO with G I N A ALL NIGHT LONG at Franky Bradley's
 
-DARKER DISCO with G I N A ALL NIGHT LONG at Franky Bradley's on Sat 26 Sept, Philadelphia. 1 act on the bill: G I N A. Techno and Acid. Preview the line-up and save it on soundcheck.
+DARKER DISCO with G I N A ALL NIGHT LONG at Franky Bradley's on Sat 26 Sept, Philadelphia. 1 artist on the bill: G I N A. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

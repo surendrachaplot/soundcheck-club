@@ -1,6 +1,6 @@
 # Ekkel + Jhort at LAUT
 
-Ekkel + Jhort at LAUT on Fri 25 Sept, Barcelona. 2 acts on the bill: Ekkel and Jhort. Trance and Techno. Preview the line-up and save it on soundcheck.
+Ekkel + Jhort at LAUT on Fri 25 Sept, Barcelona. 2 artists on the bill: Ekkel and Jhort. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NEUHM • Omar S + Fabrizio Fattore at Basic Club
 
-NEUHM • Omar S + Fabrizio Fattore at Basic Club on Sat 10 Oct, Naples. 2 acts on the bill: Fabrizio Fattore and Omar-S. Preview the line-up and save it on soundcheck.
+NEUHM • Omar S + Fabrizio Fattore at Basic Club on Sat 10 Oct, Naples. 2 artists on the bill: Fabrizio Fattore and Omar-S. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DJ RENA (Japan) + Dj Nyack (Brazil) at Wax Music Lounge
 
-DJ RENA (Japan) + Dj Nyack (Brazil) at Wax Music Lounge on Fri 23 Oct, Melbourne. 1 act on the bill: Dj Nyack. Hip-Hop and Funk / Soul. Preview the line-up and save it on soundcheck.
+DJ RENA (Japan) + Dj Nyack (Brazil) at Wax Music Lounge on Fri 23 Oct, Melbourne. 1 artist on the bill: Dj Nyack. Hip-Hop and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

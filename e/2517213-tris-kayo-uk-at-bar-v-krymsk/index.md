@@ -1,6 +1,6 @@
 # Tris Kayo (UK) at Bar v Krymský
 
-Tris Kayo (UK) at Bar v Krymský on Fri 25 Sept, Prague. 1 act on the bill: Tris Kayo. House and Electronica. Preview the line-up and save it on soundcheck.
+Tris Kayo (UK) at Bar v Krymský on Fri 25 Sept, Prague. 1 artist on the bill: Tris Kayo. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

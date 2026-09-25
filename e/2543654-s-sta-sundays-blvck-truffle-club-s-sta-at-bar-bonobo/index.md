@@ -1,6 +1,6 @@
 # Sásta Sundays: Blvck Truffle, Club Sásta at Bar Bonobo
 
-Sásta Sundays: Blvck Truffle, Club Sásta at Bar Bonobo on Sun 27 Sept, Newyorkcity. 1 act on the bill: Blvck Truffle. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Sásta Sundays: Blvck Truffle, Club Sásta at Bar Bonobo on Sun 27 Sept, New York City. 1 artist on the bill: Blvck Truffle. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

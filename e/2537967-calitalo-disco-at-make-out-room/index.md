@@ -1,6 +1,6 @@
 # CALiTALO DiSCO at Make-Out Room
 
-CALiTALO DiSCO at Make-Out Room on Wed 30 Sept, Sanfrancisco. 1 act on the bill: Nino Msk. Deep House and Italo Disco. Preview the line-up and save it on soundcheck.
+CALiTALO DiSCO at Make-Out Room on Wed 30 Sept, San Francisco/Oakland. 1 artist on the bill: Nino Msk. Deep House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

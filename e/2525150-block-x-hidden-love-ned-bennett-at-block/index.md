@@ -1,6 +1,6 @@
 # Block x Hidden Love: Ned Bennett at block.
 
-Block x Hidden Love: Ned Bennett at block. on Sat 10 Oct, Dublin. 1 act on the bill: Ned Bennett. Electronica. Preview the line-up and save it on soundcheck.
+Block x Hidden Love: Ned Bennett at block. on Sat 10 Oct, Dublin. 1 artist on the bill: Ned Bennett. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

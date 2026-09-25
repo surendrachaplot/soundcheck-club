@@ -1,6 +1,6 @@
 # Mobile Output at Under the K Bridge
 
-Mobile Output at Under the K Bridge on Sun 18 Oct, Newyorkcity. House and Tech House. Preview the line-up and save it on soundcheck.
+Mobile Output at Under the K Bridge on Sun 18 Oct, New York City. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # [CANCELLED] The Drexciyan Empire Detroit Techno Immersive Experience feat. Abu Qadim Haqq at Berry Gordy Motown Mansion
 
-[CANCELLED] The Drexciyan Empire Detroit Techno Immersive Experience feat. Abu Qadim Haqq at Berry Gordy Motown Mansion on Sun 27 Sept, Detroit. 3 acts on the bill: Abdul Qadim Haqq, Drexciya and Huey Mnemonic. Techno and Electro. Preview the line-up and save it on soundcheck.
+[CANCELLED] The Drexciyan Empire Detroit Techno Immersive Experience feat. Abu Qadim Haqq at Berry Gordy Motown Mansion on Sun 27 Sept, Detroit. 3 artists on the bill: Abdul Qadim Haqq, Drexciya and Huey Mnemonic. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sunday Sessions LA (Vinyl Only) Open Air at TBA
 
-Sunday Sessions LA (Vinyl Only) Open Air at TBA on Sun 11 Oct, Losangeles. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunday Sessions LA (Vinyl Only) Open Air at TBA on Sun 11 Oct, Los Angeles. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

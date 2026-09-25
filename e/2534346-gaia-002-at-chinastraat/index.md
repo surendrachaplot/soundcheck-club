@@ -1,6 +1,6 @@
 # Gaia #002 at Chinastraat
 
-Gaia #002 at Chinastraat on Fri 9 Oct, Ghent. 5 acts on the bill: Alycia Bezgo, BIIANCO, DURDENHAUER and JEKKAMAÏ and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Gaia #002 at Chinastraat on Fri 9 Oct, Ghent. 5 artists on the bill: Alycia Bezgo, BIIANCO, DURDENHAUER and JEKKAMAÏ and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

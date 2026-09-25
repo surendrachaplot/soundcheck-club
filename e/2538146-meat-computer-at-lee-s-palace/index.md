@@ -1,6 +1,6 @@
 # meat computer at Lee's Palace
 
-meat computer at Lee's Palace on Sun 18 Oct, Toronto. 1 act on the bill: meat computer. Experimental. Preview the line-up and save it on soundcheck.
+meat computer at Lee's Palace on Sun 18 Oct, Toronto. 1 artist on the bill: meat computer. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

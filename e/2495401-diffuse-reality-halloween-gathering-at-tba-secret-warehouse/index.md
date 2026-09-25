@@ -1,6 +1,6 @@
 # DIFFUSE REALITY [Halloween Gathering] at TBA - Secret Warehouse (Barcelona)
 
-DIFFUSE REALITY [Halloween Gathering] at TBA - Secret Warehouse (Barcelona) on Sat 31 Oct, Barcelona. 1 act on the bill: Squaric. Techno. Preview the line-up and save it on soundcheck.
+DIFFUSE REALITY [Halloween Gathering] at TBA - Secret Warehouse (Barcelona) on Sat 31 Oct, Barcelona. 1 artist on the bill: Squaric. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

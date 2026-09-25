@@ -1,6 +1,6 @@
 # Hard Impact & Fury - last Uptempo Edition at Roof 175
 
-Hard Impact & Fury - last Uptempo Edition at Roof 175 on Fri 25 Sept, Frankfurt. 2 acts on the bill: Kili (3) and Missy (UK). Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Hard Impact & Fury - last Uptempo Edition at Roof 175 on Fri 25 Sept, Frankfurt. 2 artists on the bill: Kili and Missy (UK). Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

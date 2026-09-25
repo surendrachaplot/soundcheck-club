@@ -1,8 +1,8 @@
 # Klein Phönix
 
-Klein Phönix is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Cristoph + Krey b2b Alter + HZR + Faruk" on Fri, 25 Sept 2026.
+Klein Phönix is a music venue in Istanbul with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Cristoph + Krey b2b Alter + HZR + Faruk" on Fri, 25 Sept 2026.
 
-Klein Phönix is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including Anfisa Letyago, Black Batu, Cenk Tripper and Cristoph and 2 more. Browse upcoming dates, start times and who's playing. Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey.
+Klein Phönix is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with line-ups including Anfisa Letyago, Black Batu, BUSSI and Cenk Tripper and 2 more. Browse upcoming dates, start times and who's playing. Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Klein Phönix is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Cristoph + Krey b2b Alter + HZR + Faruk | Cristoph, HZR (1), Krey |
 | Sat, 3 Oct 2026 | Anfisa Letyago x Yanamaste – First Time Istanbul | Anfisa Letyago, Cenk Tripper, Yanamaste |
+| Sat, 10 Oct 2026 | Lehar b2b Musumeci + BUSSI + Marwik | BUSSI, Lehar, Musumeci |
 | Fri, 16 Oct 2026 | Gioli & Assia + Bittermind + Fratello | Fratello, Giolì & Assia |
 | Sat, 17 Oct 2026 | Son of Son // Alive presents | Black Batu, Son of Son |
 | Sat, 31 Oct 2026 | Halloween Night // Innellea | Innellea |

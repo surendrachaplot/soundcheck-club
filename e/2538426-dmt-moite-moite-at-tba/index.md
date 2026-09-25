@@ -1,6 +1,6 @@
 # DMT Moite-Moite at TBA
 
-DMT Moite-Moite at TBA on Sun 27 Sept, Marseille. 1 act on the bill: Loukoum. Techno. Preview the line-up and save it on soundcheck.
+DMT Moite-Moite at TBA on Sun 27 Sept, Marseille. 1 artist on the bill: Loukoum. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

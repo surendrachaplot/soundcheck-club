@@ -1,6 +1,6 @@
 # Posay Music at Macarena Club
 
-Posay Music at Macarena Club on Fri 2 Oct, Barcelona. 2 acts on the bill: André Butano and Karla Amaro. Preview the line-up and save it on soundcheck.
+Posay Music at Macarena Club on Fri 2 Oct, Barcelona. 2 artists on the bill: André Butano and Karla Amaro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

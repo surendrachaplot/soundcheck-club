@@ -1,6 +1,6 @@
 # club: Fasme (live), Quadratschulz (live) at Le Sucre
 
-club: Fasme (live), Quadratschulz (live) at Le Sucre on Fri 16 Oct, Lyon. 2 acts on the bill: Fasme and Quadratschulz. Acid. Preview the line-up and save it on soundcheck.
+club: Fasme (live), Quadratschulz (live) at Le Sucre on Fri 16 Oct, Lyon. 2 artists on the bill: Fasme and Quadratschulz. Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

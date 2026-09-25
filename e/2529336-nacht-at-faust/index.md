@@ -1,6 +1,6 @@
 # nacht at Faust
 
-nacht at Faust on Fri 25 Sept, Seoul. 5 acts on the bill: Harivo, NUKiD, NUSNOOM and Stann Lumo and 1 more. Preview the line-up and save it on soundcheck.
+nacht at Faust on Fri 25 Sept, Seoul. 5 artists on the bill: Harivo, NUKiD, NUSNOOM and Stann Lumo and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EPiKA Halloween: ona:v at The Bongo Club
 
-EPiKA Halloween: ona:v at The Bongo Club on Sat 31 Oct, Edinburgh. 4 acts on the bill: Molly Penney, ona:v, WOE is us and Yiota. Techno and Electro. Preview the line-up and save it on soundcheck.
+EPiKA Halloween: ona:v at The Bongo Club on Sat 31 Oct, Edinburgh. 4 artists on the bill: Molly Penney, ona:v, WOE is us and Yiota. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # WORK Weekender Day 2: Adrian Reyes, Luigi Tozzi [Live], & The Lady Machine at TBA - Los Angeles
 
-WORK Weekender Day 2: Adrian Reyes, Luigi Tozzi [Live], & The Lady Machine at TBA - Los Angeles on Sat 21 Nov, Losangeles. 3 acts on the bill: Adrian Reyes, Luigi Tozzi and The Lady Machine. Techno. Preview the line-up and save it on soundcheck.
+WORK Weekender Day 2: Adrian Reyes, Luigi Tozzi [Live], & The Lady Machine at TBA - Los Angeles on Sat 21 Nov, Los Angeles. 3 artists on the bill: Adrian Reyes, Luigi Tozzi and The Lady Machine. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

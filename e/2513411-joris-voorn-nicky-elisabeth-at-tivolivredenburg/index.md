@@ -1,6 +1,6 @@
 # Joris Voorn, Nicky Elisabeth at TivoliVredenburg
 
-Joris Voorn, Nicky Elisabeth at TivoliVredenburg on Fri 4 Dec, Utrecht. 2 acts on the bill: Joris Voorn and Nicky Elisabeth. Techno and House. Preview the line-up and save it on soundcheck.
+Joris Voorn, Nicky Elisabeth at TivoliVredenburg on Fri 4 Dec, Utrecht. 2 artists on the bill: Joris Voorn and Nicky Elisabeth. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

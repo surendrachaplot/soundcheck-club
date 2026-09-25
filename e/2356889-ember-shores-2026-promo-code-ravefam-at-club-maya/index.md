@@ -1,6 +1,6 @@
 # Ember Shores 2026 - Promo Code 'RAVEFAM' at Club Maya
 
-Ember Shores 2026 - Promo Code 'RAVEFAM' at Club Maya on Fri 20 Nov, Mexicocity. Bass. Preview the line-up and save it on soundcheck.
+Ember Shores 2026 - Promo Code 'RAVEFAM' at Club Maya on Fri 20 Nov, Mexico City. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

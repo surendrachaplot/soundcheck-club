@@ -2,7 +2,7 @@
 
 Aluna is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at House of Yes, New York City on Sat, 10 Oct 2026.
 
-Aluna is a house and techno artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Austin, Barcelona, Bristol and Chicago and 18 more. Often billed alongside Coco & Breezy, RaeCola and Grimes. Next up: House of Yes, Newyorkcity on Sat 10 Oct.
+Aluna is a house and techno artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Austin, Barcelona, Bristol and Chicago and 18 more. Often billed alongside Coco & Breezy, RaeCola and Grimes. Next up: House of Yes, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 

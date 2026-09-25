@@ -1,6 +1,6 @@
 # SYN & BOOX present Kromagon & Nikroma (Zenon Records) at TBA
 
-SYN & BOOX present Kromagon & Nikroma (Zenon Records) at TBA on Sat 3 Oct, Mexicocity. 2 acts on the bill: Roberta and Sumiruna. Trance and Techno. Preview the line-up and save it on soundcheck.
+SYN & BOOX present Kromagon & Nikroma (Zenon Records) at TBA on Sat 3 Oct, Mexico City. 2 artists on the bill: Roberta and Sumiruna. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

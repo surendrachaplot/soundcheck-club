@@ -1,6 +1,6 @@
 # Franky Rizardo presents FLOW at Club Space Miami
 
-Franky Rizardo presents FLOW at Club Space Miami on Sat 26 Sept, Miami. 5 acts on the bill: Chelina Manuhutu, Ferra Black, Franky Rizardo and Ms. Mada and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Franky Rizardo presents FLOW at Club Space Miami on Sat 26 Sept, Miami. 5 artists on the bill: Chelina Manuhutu, Ferra Black, Franky Rizardo and Ms. Mada and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

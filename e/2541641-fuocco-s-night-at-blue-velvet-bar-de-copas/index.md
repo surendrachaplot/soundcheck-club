@@ -1,6 +1,6 @@
 # Fuocco's NIGHT at Blue Velvet Bar de Copas
 
-Fuocco's NIGHT at Blue Velvet Bar de Copas on Thu 24 Sept, Buenosaires. 1 act on the bill: Fuocco. Preview the line-up and save it on soundcheck.
+Fuocco's NIGHT at Blue Velvet Bar de Copas on Thu 24 Sept, Buenos Aires. 1 artist on the bill: Fuocco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

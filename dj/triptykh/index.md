@@ -1,8 +1,8 @@
 # TRIPTYKH
 
-TRIPTYKH is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bootshaus, Cologne on Sat, 26 Sept 2026.
+TRIPTYKH is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bootshaus, Cologne on Sat, 26 Sept 2026.
 
-TRIPTYKH is a techno and industrial artist based in United States of America, tracked on soundcheck, with 48 sets logged across Antwerp, Auckland, Austin and Barcelona and 28 more. Often billed alongside Aiden (DE), Kobosil and Ornella. Next up: Bootshaus, Cologne on Sat 26 Sept.
+TRIPTYKH is a techno and industrial artist based in United States of America, tracked on soundcheck, with 49 sets logged across Antwerp, Auckland, Austin and Barcelona and 29 more. Often billed alongside Aiden (DE), Kobosil and Ornella. Next up: Bootshaus, Cologne on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ TRIPTYKH is a techno and industrial artist based in United States of America, tr
 | Fri, 9 Oct 2026 | OST | Berlin |
 | Fri, 9 Oct 2026 | OST | Berlin |
 | Fri, 13 Nov 2026 | E1 | London |
+| Sat, 28 Nov 2026 | Smolna | Warsaw |
 
 ## Recently played
 

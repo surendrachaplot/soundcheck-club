@@ -1,6 +1,6 @@
 # Nü Androids presents: TWOFACED at Tigres de la Noche
 
-Nü Androids presents: TWOFACED at Tigres de la Noche on Fri 20 Nov, Washingtondc. Garage and Tech House. Preview the line-up and save it on soundcheck.
+Nü Androids presents: TWOFACED at Tigres de la Noche on Fri 20 Nov, Washington DC. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

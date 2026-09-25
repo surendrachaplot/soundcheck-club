@@ -1,6 +1,6 @@
 # SWG3 presents Skeptic at SWG3
 
-SWG3 presents Skeptic on Sat 3 Oct, Glasgow. 3 acts on the bill: gau7t, Loose E and Skeptic. Garage. Preview the line-up and save it on soundcheck.
+SWG3 presents Skeptic on Sat 3 Oct, Glasgow. 3 artists on the bill: gau7t, Loose E and Skeptic. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Objktt Invites 260926 DJ Botermelk at Objktt Record Bar
 
-Objktt Invites 260926 DJ Botermelk at Objktt Record Bar on Sat 26 Sept, Seoul. 1 act on the bill: Baxa. Preview the line-up and save it on soundcheck.
+Objktt Invites 260926 DJ Botermelk at Objktt Record Bar on Sat 26 Sept, Seoul. 1 artist on the bill: Baxa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

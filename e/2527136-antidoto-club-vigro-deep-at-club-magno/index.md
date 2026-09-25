@@ -1,6 +1,6 @@
 # Antidoto Club: Vigro Deep at Club Magno
 
-Antidoto Club: Vigro Deep at Club Magno on Thu 15 Oct, Madrid. 2 acts on the bill: Diego Armando and Maxvll. Amapiano and Afrobeats. Preview the line-up and save it on soundcheck.
+Antidoto Club: Vigro Deep at Club Magno on Thu 15 Oct, Madrid. 2 artists on the bill: Diego Armando and Maxvll. Amapiano and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

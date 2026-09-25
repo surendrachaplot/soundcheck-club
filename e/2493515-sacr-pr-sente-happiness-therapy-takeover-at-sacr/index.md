@@ -1,6 +1,6 @@
 # Sacré présente: Happiness Therapy Takeover at Sacré
 
-Sacré présente: Happiness Therapy Takeover on Fri 25 Sept, Paris. 3 acts on the bill: Crowd Control, Maggy Smiss and Marius Acke. House. Preview the line-up and save it on soundcheck.
+Sacré présente: Happiness Therapy Takeover on Fri 25 Sept, Paris. 3 artists on the bill: Crowd Control, Maggy Smiss and Marius Acke. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ADE FRIDAY: Badhuis invites Boogie House, Panacea, Solis & ELSEWHERE with Tom Novy at Badhuis Amsterdam
 
-ADE FRIDAY: Badhuis invites Boogie House, Panacea, Solis & ELSEWHERE with Tom Novy at Badhuis Amsterdam on Fri 23 Oct, Amsterdam. 7 acts on the bill: Kirilski, Misha (3), NoMore and Pura Pachanga and 3 more. House and Garage. Preview the line-up and save it on soundcheck.
+ADE FRIDAY: Badhuis invites Boogie House, Panacea, Solis & ELSEWHERE with Tom Novy at Badhuis Amsterdam on Fri 23 Oct, Amsterdam. 7 artists on the bill: Kirilski, Misha, NoMore and Pura Pachanga and 3 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

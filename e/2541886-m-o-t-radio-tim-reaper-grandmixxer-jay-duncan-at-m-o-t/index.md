@@ -1,6 +1,6 @@
 # ✦ M.O.T Radio ✦ Tim Reaper + ???, Grandmixxer, Jay Duncan ✦ at M.O.T
 
-✦ M.O.T Radio ✦ Tim Reaper + ???, Grandmixxer, Jay Duncan ✦ on Thu 29 Oct, London. 4 acts on the bill: Grandmixxer, Jay Duncan, Tim Reaper and Woody Boase. Preview the line-up and save it on soundcheck.
+✦ M.O.T Radio ✦ Tim Reaper + ???, Grandmixxer, Jay Duncan ✦ on Thu 29 Oct, London. 4 artists on the bill: Grandmixxer, Jay Duncan, Tim Reaper and Woody Boase. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

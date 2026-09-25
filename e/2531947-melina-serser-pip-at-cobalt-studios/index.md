@@ -1,6 +1,6 @@
 # Melina Serser + PIP at Cobalt Studios
 
-Melina Serser + PIP at Cobalt Studios on Sat 24 Oct, Newcastle. 2 acts on the bill: Melina Serser and PIP.. Preview the line-up and save it on soundcheck.
+Melina Serser + PIP at Cobalt Studios on Sat 24 Oct, Newcastle. 2 artists on the bill: Melina Serser and PIP.. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

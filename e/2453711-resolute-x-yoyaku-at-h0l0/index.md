@@ -1,6 +1,6 @@
 # ReSolute x Yoyaku at H0L0
 
-ReSolute x Yoyaku at H0L0 on Sat 26 Sept, Newyorkcity. 14 acts on the bill: Chez Damier, Garrett David, Gulp and Kian OK and 10 more. Techno and House. Preview the line-up and save it on soundcheck.
+ReSolute x Yoyaku at H0L0 on Sat 26 Sept, New York City. 15 artists on the bill: Chez Damier, Garrett David, Gulp and Henry Chow and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ ReSolute x Yoyaku at H0L0 on Sat 26 Sept, Newyorkcity. 14 acts on the bill: Chez
 - Chez Damier
 - Garrett David
 - Gulp
+- Henry Chow
 - Kian OK
 - limbic sis
 - Lis Sarroca

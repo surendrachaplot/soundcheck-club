@@ -1,6 +1,6 @@
 # cocoon anniversaire essaim YEAR002 - Binh, Mars O10C, Zombies In Miami at essaim
 
-cocoon anniversaire essaim YEAR002 - Binh, Mars O10C, Zombies In Miami on Sat 31 Oct, Paris. 3 acts on the bill: Binh, Mars O10C and Zombies In Miami. Techno. Preview the line-up and save it on soundcheck.
+cocoon anniversaire essaim YEAR002 - Binh, Mars O10C, Zombies In Miami on Sat 31 Oct, Paris. 3 artists on the bill: Binh, Mars O10C and Zombies In Miami. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ★ LOWKEY STARS ☆ at ://about blank
 
-★ LOWKEY STARS ☆ at ://about blank on Fri 4 Dec, Berlin. 1 act on the bill: Bélavie. Trance and Techno. Preview the line-up and save it on soundcheck.
+★ LOWKEY STARS ☆ at ://about blank on Fri 4 Dec, Berlin. 1 artist on the bill: Bélavie. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

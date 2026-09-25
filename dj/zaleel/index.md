@@ -2,7 +2,7 @@
 
 Zaleel is a Bass and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
 
-Zaleel is a bass and pop artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across London and Manchester. Often billed alongside Manara (UK), Basmati (1) and MOYA_. Next up: Colour Factory, London on Sat 26 Sept.
+Zaleel is a bass and pop artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across London and Manchester. Often billed alongside Manara (UK), Basmati and MOYA_. Next up: Colour Factory, London on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # metanoia local rhythm at Beate Uwe
 
-metanoia local rhythm at Beate Uwe on Sun 8 Nov, Berlin. 3 acts on the bill: Coss, David Benjamin and Zettka. Downtempo. Preview the line-up and save it on soundcheck.
+metanoia local rhythm at Beate Uwe on Sun 8 Nov, Berlin. 3 artists on the bill: Coss, David Benjamin and Zettka. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

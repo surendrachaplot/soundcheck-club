@@ -1,6 +1,6 @@
 # Intro to Ableton Lab: Intro to Mixing, Mastering, and Analog Processing at Nowadays
 
-Intro to Ableton Lab: Intro to Mixing, Mastering, and Analog Processing at Nowadays on Wed 30 Sept, Newyorkcity. 2 acts on the bill: JP Solis and The New York Record Club for The Advancement of The Arts. Preview the line-up and save it on soundcheck.
+Intro to Ableton Lab: Intro to Mixing, Mastering, and Analog Processing at Nowadays on Wed 30 Sept, New York City. 2 artists on the bill: JP Solis and The New York Record Club for The Advancement of The Arts. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

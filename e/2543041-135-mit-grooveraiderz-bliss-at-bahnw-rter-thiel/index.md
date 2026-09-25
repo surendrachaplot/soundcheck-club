@@ -1,6 +1,6 @@
 # 135+ mit Grooveraiderz & Bliss at Bahnwärter Thiel
 
-135+ mit Grooveraiderz & Bliss at Bahnwärter Thiel on Thu 29 Oct, Munich. 5 acts on the bill: avely, DENA (IT), L.A.X and Rosan and 1 more. Preview the line-up and save it on soundcheck.
+135+ mit Grooveraiderz & Bliss at Bahnwärter Thiel on Thu 29 Oct, Munich. 5 artists on the bill: avely, DENA (IT), L.A.X and Rosan and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

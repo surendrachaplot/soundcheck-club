@@ -1,6 +1,6 @@
 # Giri x Childhood Intelligence at Giri
 
-Giri x Childhood Intelligence on Fri 2 Oct, Berlin. 2 acts on the bill: E.V.A and S-max. Preview the line-up and save it on soundcheck.
+Giri x Childhood Intelligence on Fri 2 Oct, Berlin. 2 artists on the bill: E.V.A and S-max. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

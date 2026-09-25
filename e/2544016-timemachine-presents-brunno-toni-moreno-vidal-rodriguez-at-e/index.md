@@ -1,6 +1,6 @@
 # TIMEmACHINE presents Brunno, Toni Moreno & Vidal Rodriguez at Esbirra Ibiza
 
-TIMEmACHINE presents Brunno, Toni Moreno & Vidal Rodriguez at Esbirra Ibiza on Sat 17 Oct, Ibiza. 1 act on the bill: Brunno. House and Minimal. Preview the line-up and save it on soundcheck.
+TIMEmACHINE presents Brunno, Toni Moreno & Vidal Rodriguez at Esbirra Ibiza on Sat 17 Oct, Ibiza. 1 artist on the bill: Brunno. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

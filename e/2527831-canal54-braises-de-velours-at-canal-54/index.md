@@ -1,6 +1,6 @@
 # CANAL54 - Braises De Velours at Canal 54
 
-CANAL54 - Braises De Velours at Canal 54 on Fri 25 Sept, Geneva. 1 act on the bill: Braises de Velours. Preview the line-up and save it on soundcheck.
+CANAL54 - Braises De Velours at Canal 54 on Fri 25 Sept, Geneva. 1 artist on the bill: Braises de Velours. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

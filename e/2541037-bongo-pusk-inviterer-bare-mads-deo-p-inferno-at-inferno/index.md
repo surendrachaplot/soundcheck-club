@@ -1,6 +1,6 @@
 # Bongo & Pusk inviterer BARE MADS (deo) på Inferno at Inferno
 
-Bongo & Pusk inviterer BARE MADS (deo) på Inferno on Fri 16 Oct, Copenhagen. 1 act on the bill: Bongo & Pusk. Techno and House. Preview the line-up and save it on soundcheck.
+Bongo & Pusk inviterer BARE MADS (deo) på Inferno on Fri 16 Oct, Copenhagen. 1 artist on the bill: Bongo & Pusk. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

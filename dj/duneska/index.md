@@ -2,7 +2,7 @@
 
 Duneska is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Le Bain, New York City on Fri, 25 Sept 2026.
 
-Duneska is a techno and club artist based in United States of America, tracked on soundcheck, with 41 sets logged across Newyorkcity. Often billed alongside BEARCAT, friedplatano and ARCHANGEL (US). Next up: Le Bain, Newyorkcity on Fri 25 Sept.
+Duneska is a techno and club artist based in United States of America, tracked on soundcheck, with 41 sets logged across New York City. Often billed alongside BEARCAT, friedplatano and ARCHANGEL (US). Next up: Le Bain, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # RSB presents UCAP 003 (Up Close & Personal) with Rob Mello at Ramona
 
-RSB presents UCAP 003 (Up Close & Personal) with Rob Mello at Ramona on Sat 3 Oct, Manchester. 1 act on the bill: Rob Mello. Garage and Deep House. Preview the line-up and save it on soundcheck.
+RSB presents UCAP 003 (Up Close & Personal) with Rob Mello at Ramona on Sat 3 Oct, Manchester. 1 artist on the bill: Rob Mello. Garage and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

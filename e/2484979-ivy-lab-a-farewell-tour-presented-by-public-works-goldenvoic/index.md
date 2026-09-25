@@ -1,6 +1,6 @@
 # Ivy Lab: A FAREWELL TOUR presented by Public Works & Goldenvoice at Public Works
 
-Ivy Lab: A FAREWELL TOUR presented by Public Works & Goldenvoice on Sat 24 Oct, Sanfrancisco. 3 acts on the bill: DJ Dials, Great Dane and Ivy Lab. Preview the line-up and save it on soundcheck.
+Ivy Lab: A FAREWELL TOUR presented by Public Works & Goldenvoice on Sat 24 Oct, San Francisco/Oakland. 3 artists on the bill: DJ Dials, Great Dane and Ivy Lab. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

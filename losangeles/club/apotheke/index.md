@@ -2,7 +2,7 @@
 
 Apotheke is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Potion" on Fri, 25 Sept 2026.
 
-Apotheke is a music venue in Losangeles listed on soundcheck. 4 upcoming gigs, with line-ups including Dirtie Blonde, Gay Felony, Glo Phase and Jen Ferrer and 2 more. Browse upcoming dates, start times and who's playing. 1746 N Spring St, Los Angeles, CA 90012.
+Apotheke is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Dirtie Blonde, Gay Felony, Glo Phase and Jen Ferrer and 2 more. Browse upcoming dates, start times and who's playing. 1746 N Spring St, Los Angeles, CA 90012.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # X São Paulo at Vale do Anhangabaú
 
-X São Paulo at Vale do Anhangabaú on Sat 26 Sept, Saopaulo. 1 act on the bill: Adriatique. Electronica. Preview the line-up and save it on soundcheck.
+X São Paulo at Vale do Anhangabaú on Sat 26 Sept, Sao Paulo. 1 artist on the bill: Adriatique. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

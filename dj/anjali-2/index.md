@@ -2,7 +2,7 @@
 
 Anjali (2) is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sauna Social Club, London on Fri, 25 Sept 2026.
 
-Anjali (2) is a bass and club artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Brussels, London, Manchester and Sheffield. Often billed alongside ex.sses, mi-el and Aisha Mirza. Next up: Sauna Social Club, London on Fri 25 Sept.
+Anjali is a bass and club artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Brussels, London, Manchester and Sheffield. Often billed alongside ex.sses, mi-el and Aisha Mirza. Next up: Sauna Social Club, London on Fri 25 Sept.
 
 ## Upcoming shows
 

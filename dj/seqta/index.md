@@ -2,7 +2,7 @@
 
 Seqta is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Sound House, Dublin on Fri, 25 Sept 2026.
 
-Seqta is a trance and techno artist based in Germany, tracked on soundcheck, with 144 sets logged across Athens, Berlin, Copenhagen and Dublin and 4 more. Often billed alongside DJ Sense, Generali Minerali and HORNS (1). Next up: The Sound House, Dublin on Fri 25 Sept.
+Seqta is a trance and techno artist based in Germany, tracked on soundcheck, with 144 sets logged across Athens, Berlin, Copenhagen and Dublin and 4 more. Often billed alongside DJ Sense, Generali Minerali and HORNS. Next up: The Sound House, Dublin on Fri 25 Sept.
 
 ## Upcoming shows
 

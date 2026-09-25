@@ -1,6 +1,6 @@
 # KARNEVAL!?! – DER TANZ AUF DER MEMBRAN at Stadtgarten Konzertsaal / Cafe
 
-KARNEVAL!?! – DER TANZ AUF DER MEMBRAN at Stadtgarten Konzertsaal / Cafe on Wed 11 Nov, Cologne. 3 acts on the bill: Gourski, LSG and MAURO. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+KARNEVAL!?! – DER TANZ AUF DER MEMBRAN at Stadtgarten Konzertsaal / Cafe on Wed 11 Nov, Cologne. 3 artists on the bill: Gourski, LSG and MAURO. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

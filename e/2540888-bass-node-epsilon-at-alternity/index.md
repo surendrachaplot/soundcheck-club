@@ -1,6 +1,6 @@
 # bass node epsilon at Alternity
 
-bass node epsilon at Alternity on Fri 16 Oct, Toronto. 1 act on the bill: Living~Stone. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+bass node epsilon at Alternity on Fri 16 Oct, Toronto. 1 artist on the bill: Living~Stone. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

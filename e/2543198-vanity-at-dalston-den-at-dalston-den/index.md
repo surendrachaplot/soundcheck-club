@@ -1,6 +1,6 @@
 # VANITY at Dalston Den at Dalston Den
 
-VANITY at Dalston Den on Sat 26 Sept, London. 3 acts on the bill: Dimanté, Francesco Poggi and WOMSO. House and Tech House. Preview the line-up and save it on soundcheck.
+VANITY at Dalston Den on Sat 26 Sept, London. 3 artists on the bill: Dimanté, Francesco Poggi and WOMSO. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

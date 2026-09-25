@@ -1,6 +1,6 @@
 # Noise Complaint! 006 at The Poetry Club
 
-Noise Complaint! 006 at The Poetry Club on Sat 17 Oct, Glasgow. 4 acts on the bill: Danyo, Et Al (1), HUNTRESS and saparilla. Techno and Club. Preview the line-up and save it on soundcheck.
+Noise Complaint! 006 at The Poetry Club on Sat 17 Oct, Glasgow. 4 artists on the bill: Danyo, Et Al, HUNTRESS and saparilla. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TAKEOVER 6IX presents Serafina [EXTENDED SET] at TBA - Warehouse
 
-TAKEOVER 6IX presents Serafina [EXTENDED SET] at TBA - Warehouse on Fri 4 Dec, Toronto. 1 act on the bill: Serafina. Trance and Techno. Preview the line-up and save it on soundcheck.
+TAKEOVER 6IX presents Serafina [EXTENDED SET] at TBA - Warehouse on Fri 4 Dec, Toronto. 1 artist on the bill: Serafina. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

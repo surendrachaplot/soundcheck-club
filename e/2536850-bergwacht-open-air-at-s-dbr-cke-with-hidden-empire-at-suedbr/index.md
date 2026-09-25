@@ -1,6 +1,6 @@
 # BergWacht Open Air at Südbrücke with Hidden Empire at Suedbruecke
 
-BergWacht Open Air at Südbrücke with Hidden Empire at Suedbruecke on Sun 27 Sept, Cologne. 2 acts on the bill: Hidden Empire and Liho. Techno. Preview the line-up and save it on soundcheck.
+BergWacht Open Air at Südbrücke with Hidden Empire at Suedbruecke on Sun 27 Sept, Cologne. 2 artists on the bill: Hidden Empire and Liho. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

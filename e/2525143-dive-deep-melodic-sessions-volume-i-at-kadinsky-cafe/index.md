@@ -1,6 +1,6 @@
 # Dive Deep: Melodic Sessions - Volume I at Kadinsky Cafe
 
-Dive Deep: Melodic Sessions - Volume I at Kadinsky Cafe on Sat 3 Oct, Amsterdam. 3 acts on the bill: Main Identity, Patrick Krause and Usatov. Progressive House and Afro House. Preview the line-up and save it on soundcheck.
+Dive Deep: Melodic Sessions - Volume I at Kadinsky Cafe on Sat 3 Oct, Amsterdam. 3 artists on the bill: Main Identity, Patrick Krause and Usatov. Progressive House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

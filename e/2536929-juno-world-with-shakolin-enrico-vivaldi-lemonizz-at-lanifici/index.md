@@ -1,6 +1,6 @@
 # Juno World with Shakolin, Enrico Vivaldi, Lemonizz at Lanificio 159
 
-Juno World with Shakolin, Enrico Vivaldi, Lemonizz at Lanificio 159 on Fri 9 Oct, Rome. 2 acts on the bill: Enrico Vivaldi and Shakolin. Techno and House. Preview the line-up and save it on soundcheck.
+Juno World with Shakolin, Enrico Vivaldi, Lemonizz at Lanificio 159 on Fri 9 Oct, Rome. 2 artists on the bill: Enrico Vivaldi and Shakolin. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

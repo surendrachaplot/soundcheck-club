@@ -1,6 +1,6 @@
 # orbit at Henkel-Saal
 
-orbit at Henkel-Saal on Fri 9 Oct, Dusseldorf. Preview the line-up and save it on soundcheck.
+orbit at Henkel-Saal on Fri 9 Oct, Düsseldorf. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

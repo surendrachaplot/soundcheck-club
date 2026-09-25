@@ -1,6 +1,6 @@
 # BLINK: Stylo, P.O.U, JJOY, SOOFNIC + MORE at Ministry Of Sound
 
-BLINK: Stylo, P.O.U, JJOY, SOOFNIC + MORE at Ministry Of Sound on Fri 25 Sept, London. 2 acts on the bill: P.O.U and Stylo. House and Tech House. Preview the line-up and save it on soundcheck.
+BLINK: Stylo, P.O.U, JJOY, SOOFNIC + MORE at Ministry Of Sound on Fri 25 Sept, London. 2 artists on the bill: P.O.U and Stylo. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

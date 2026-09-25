@@ -1,6 +1,6 @@
 # mp3 w/ Cinthie, Introspekt, Jennifer Loveless, Konduku & Sansibar at Sonnenraum
 
-mp3 w/ Cinthie, Introspekt, Jennifer Loveless, Konduku & Sansibar at Sonnenraum on Sun 4 Oct, Berlin. 7 acts on the bill: Cinthie, Introspekt, Jennifer Loveless and Konduku and 3 more. House and Bass. Preview the line-up and save it on soundcheck.
+mp3 w/ Cinthie, Introspekt, Jennifer Loveless, Konduku & Sansibar at Sonnenraum on Sun 4 Oct, Berlin. 7 artists on the bill: Cinthie, Introspekt, Jennifer Loveless and Konduku and 3 more. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

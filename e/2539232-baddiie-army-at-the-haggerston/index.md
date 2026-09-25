@@ -1,6 +1,6 @@
 # Baddiie army at The Haggerston
 
-Baddiie army at The Haggerston on Fri 9 Oct, London. 1 act on the bill: PHIZ. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
+Baddiie army at The Haggerston on Fri 9 Oct, London. 1 artist on the bill: PHIZ. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

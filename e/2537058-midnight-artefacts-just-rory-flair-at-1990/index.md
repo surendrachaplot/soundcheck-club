@@ -1,6 +1,6 @@
 # Midnight Artefacts - Just Rory & Flair at 1990
 
-Midnight Artefacts - Just Rory & Flair at 1990 on Sat 26 Sept, Glasgow. 1 act on the bill: Just Rory. House and Disco. Preview the line-up and save it on soundcheck.
+Midnight Artefacts - Just Rory & Flair at 1990 on Sat 26 Sept, Glasgow. 1 artist on the bill: Just Rory. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

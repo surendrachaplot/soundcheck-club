@@ -2,7 +2,7 @@
 
 Carrier is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 25 Sept 2026.
 
-Carrier is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: TRANSMISSION DC, Washingtondc on Fri 25 Sept.
+Carrier is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: TRANSMISSION DC, Washington DC on Fri 25 Sept.
 
 ## Upcoming shows
 

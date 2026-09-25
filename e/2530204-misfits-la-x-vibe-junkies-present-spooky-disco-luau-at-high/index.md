@@ -1,6 +1,6 @@
 # Misfits LA x Vibe Junkies present: Spooky Disco Luau at High Tide
 
-Misfits LA x Vibe Junkies present: Spooky Disco Luau at High Tide on Sat 10 Oct, Losangeles. 1 act on the bill: Kyrxmi. House and Disco. Preview the line-up and save it on soundcheck.
+Misfits LA x Vibe Junkies present: Spooky Disco Luau at High Tide on Sat 10 Oct, Los Angeles. 1 artist on the bill: Kyrxmi. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

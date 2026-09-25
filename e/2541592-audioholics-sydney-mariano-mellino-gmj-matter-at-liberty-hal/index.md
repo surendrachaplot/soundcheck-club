@@ -1,6 +1,6 @@
 # Audioholics Sydney: Mariano Mellino, GMJ, Matter at Liberty Hall
 
-Audioholics Sydney: Mariano Mellino, GMJ, Matter at Liberty Hall on Sun 4 Oct, Sydney. 1 act on the bill: Mariano Mellino. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Audioholics Sydney: Mariano Mellino, GMJ, Matter at Liberty Hall on Sun 4 Oct, Sydney. 1 artist on the bill: Mariano Mellino. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HOUSE2BOUNCE // BISOUX, BILLY, JIPSEY, Lorri Rose at Kavka Oudaan
 
-HOUSE2BOUNCE // BISOUX, BILLY, JIPSEY, Lorri Rose at Kavka Oudaan on Sat 3 Oct, Antwerp. 4 acts on the bill: BILLY, BISOUX, JIPSEY and Lorri Rose. Techno and House. Preview the line-up and save it on soundcheck.
+HOUSE2BOUNCE // BISOUX, BILLY, JIPSEY, Lorri Rose at Kavka Oudaan on Sat 3 Oct, Antwerp. 4 artists on the bill: BILLY, BISOUX, JIPSEY and Lorri Rose. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

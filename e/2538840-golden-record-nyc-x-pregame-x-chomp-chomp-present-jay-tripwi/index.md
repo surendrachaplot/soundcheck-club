@@ -1,6 +1,6 @@
 # Golden Record NYC x pregame x Chomp! Chomp! present Jay Tripwire, Mike Servito at Green Room NYC
 
-Golden Record NYC x pregame x Chomp! Chomp! present Jay Tripwire, Mike Servito at Green Room NYC on Fri 16 Oct, Newyorkcity. 7 acts on the bill: Armii1n, Gee Dee, Haruka and Jay Tripwire and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Golden Record NYC x pregame x Chomp! Chomp! present Jay Tripwire, Mike Servito at Green Room NYC on Fri 16 Oct, New York City. 7 artists on the bill: Armii1n, Gee Dee, Haruka and Jay Tripwire and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

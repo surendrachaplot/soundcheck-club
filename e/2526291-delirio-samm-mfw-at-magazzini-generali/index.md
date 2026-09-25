@@ -1,6 +1,6 @@
 # DELIRIO - Samm - MFW at Magazzini Generali
 
-DELIRIO - Samm - MFW at Magazzini Generali on Thu 24 Sept, Milan. 2 acts on the bill: Samm and Still.i. Preview the line-up and save it on soundcheck.
+DELIRIO - Samm - MFW at Magazzini Generali on Thu 24 Sept, Milan. 2 artists on the bill: Samm and Still.i. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Acid Town at Supermarket
 
-Acid Town at Supermarket on Fri 6 Nov, Zurich. 2 acts on the bill: mvdi and Patrik Widmer. Techno and Acid. Preview the line-up and save it on soundcheck.
+Acid Town at Supermarket on Fri 6 Nov, Zurich. 2 artists on the bill: mvdi and Patrik Widmer. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

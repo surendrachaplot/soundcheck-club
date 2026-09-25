@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 33 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "YBZ INVITES // SIERPINSKI (Frisbee Aerobics)" on Thu, 24 Sept 2026.
+Sneaky Pete's is a music venue in Edinburgh with 34 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "YBZ INVITES // SIERPINSKI (Frisbee Aerobics)" on Thu, 24 Sept 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 33 upcoming gigs, with line-ups including billybawbags, BORLEY, Buckfast Barbie and Buckley (UK) and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 34 upcoming gigs, with line-ups including billybawbags, BORLEY, Buckfast Barbie and Buckley (UK) and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 

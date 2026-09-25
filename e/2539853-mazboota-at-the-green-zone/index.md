@@ -1,6 +1,6 @@
 # Mazboota at The Green Zone
 
-Mazboota at The Green Zone on Thu 24 Sept, Washingtondc. 1 act on the bill: Fady D. House and Disco. Preview the line-up and save it on soundcheck.
+Mazboota at The Green Zone on Thu 24 Sept, Washington DC. 1 artist on the bill: Fady D. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

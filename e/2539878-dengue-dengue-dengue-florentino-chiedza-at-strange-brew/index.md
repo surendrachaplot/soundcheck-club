@@ -1,6 +1,6 @@
 # Dengue Dengue Dengue + Florentino + Chiedza at Strange Brew
 
-Dengue Dengue Dengue + Florentino + Chiedza at Strange Brew on Sat 24 Oct, Bristol. 3 acts on the bill: Chiedza, Dengue Dengue Dengue and Florentino. UK Funky and Reggaeton. Preview the line-up and save it on soundcheck.
+Dengue Dengue Dengue + Florentino + Chiedza at Strange Brew on Sat 24 Oct, Bristol. 3 artists on the bill: Chiedza, Dengue Dengue Dengue and Florentino. UK Funky and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

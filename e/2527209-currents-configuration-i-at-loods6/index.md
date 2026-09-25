@@ -1,6 +1,6 @@
 # Currents - Configuration I at Loods6
 
-Currents - Configuration I at Loods6 on Thu 22 Oct, Amsterdam. 1 act on the bill: Rrose. Preview the line-up and save it on soundcheck.
+Currents - Configuration I at Loods6 on Thu 22 Oct, Amsterdam. 1 artist on the bill: Rrose. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

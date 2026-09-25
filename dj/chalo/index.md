@@ -1,14 +1,14 @@
 # Chalo
 
-Chalo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Fields at Siam Country Club, All on Thu, 3 Dec 2026.
+Chalo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
-Chalo is a techno and house artist tracked on soundcheck, with 29 sets logged across All, Bangkok, Seoul and Singapore. Often billed alongside Vell, DOTT and Elaheh. Next up: The Fields at Siam Country Club, All on Thu 3 Dec.
+Chalo is a techno and house artist tracked on soundcheck, with 29 sets logged across Bangkok, Seoul, Singapore and Thailand. Often billed alongside Vell, DOTT and Elaheh. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 3 Dec 2026 | The Fields at Siam Country Club | All |
+| Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # DJ POOLBOI + sunflwr at The Workmans Club
 
-DJ POOLBOI + sunflwr at The Workmans Club on Sat 7 Nov, Dublin. 2 acts on the bill: dj poolboi and sunflwr. Preview the line-up and save it on soundcheck.
+DJ POOLBOI + sunflwr at The Workmans Club on Sat 7 Nov, Dublin. 2 artists on the bill: dj poolboi and sunflwr. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

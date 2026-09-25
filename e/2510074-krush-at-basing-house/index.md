@@ -1,6 +1,6 @@
 # Krush at Basing House
 
-Krush at Basing House on Sat 10 Oct, London. 2 acts on the bill: B3 and Jerome Six. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Krush at Basing House on Sat 10 Oct, London. 2 artists on the bill: B3 and Jerome Six. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

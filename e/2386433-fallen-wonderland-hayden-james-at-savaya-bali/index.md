@@ -1,6 +1,6 @@
 # Fallen Wonderland - Hayden James at Savaya Bali
 
-Fallen Wonderland - Hayden James at Savaya Bali on Sat 31 Oct, Bali. 1 act on the bill: Hayden James. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Fallen Wonderland - Hayden James at Savaya Bali on Sat 31 Oct, Bali. 1 artist on the bill: Hayden James. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

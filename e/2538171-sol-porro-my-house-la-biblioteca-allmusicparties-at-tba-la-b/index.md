@@ -1,6 +1,6 @@
 # Sol Porro - My House, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo
 
-Sol Porro - My House, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo on Fri 16 Oct, Buenosaires. House. Preview the line-up and save it on soundcheck.
+Sol Porro - My House, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo on Fri 16 Oct, Buenos Aires. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

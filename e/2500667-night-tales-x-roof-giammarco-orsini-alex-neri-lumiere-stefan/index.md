@@ -1,6 +1,6 @@
 # Night Tales x Roof: Giammarco Orsini, Alex Neri, Lumiere & Stefania at Night Tales
 
-Night Tales x Roof: Giammarco Orsini, Alex Neri, Lumiere & Stefania on Sat 17 Oct, London. 4 acts on the bill: Alex Neri, Giammarco Orsini, Lumiere and Stefania. House. Preview the line-up and save it on soundcheck.
+Night Tales x Roof: Giammarco Orsini, Alex Neri, Lumiere & Stefania on Sat 17 Oct, London. 4 artists on the bill: Alex Neri, Giammarco Orsini, Lumiere and Stefania. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

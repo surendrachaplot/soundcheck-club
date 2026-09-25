@@ -1,6 +1,6 @@
 # NIGHT OF THE DAMNED at TBA - Playa Condesa Insurgentes Sur 516
 
-NIGHT OF THE DAMNED at TBA - Playa Condesa Insurgentes Sur 516 on Sat 24 Oct, Mexicocity. 2 acts on the bill: Diego Saaz and YAM YAMS. Techno and House. Preview the line-up and save it on soundcheck.
+NIGHT OF THE DAMNED at TBA - Playa Condesa Insurgentes Sur 516 on Sat 24 Oct, Mexico City. 2 artists on the bill: Diego Saaz and YAM YAMS. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

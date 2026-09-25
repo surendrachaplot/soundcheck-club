@@ -1,6 +1,6 @@
 # HARD TECHNO CHUSEOK NIGHT - MINA X SPECIAL INVITE at Luka
 
-HARD TECHNO CHUSEOK NIGHT - MINA X SPECIAL INVITE at Luka on Thu 24 Sept, Seoul. 3 acts on the bill: D.E.F, PONGPONG and Rivako. Techno and Gabber. Preview the line-up and save it on soundcheck.
+HARD TECHNO CHUSEOK NIGHT - MINA X SPECIAL INVITE at Luka on Thu 24 Sept, Seoul. 3 artists on the bill: D.E.F, PONGPONG and Rivako. Techno and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

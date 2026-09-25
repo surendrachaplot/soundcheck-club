@@ -1,6 +1,6 @@
 # The Knocks at CDMX at Foro Niebla
 
-The Knocks at CDMX at Foro Niebla on Fri 25 Sept, Mexicocity. 1 act on the bill: The Knocks. Electronica. Preview the line-up and save it on soundcheck.
+The Knocks at CDMX at Foro Niebla on Fri 25 Sept, Mexico City. 1 artist on the bill: The Knocks. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Martinez Brothers at Zumana Bali
 
-The Martinez Brothers at Zumana Bali on Fri 25 Sept, Bali. 1 act on the bill: The Martinez Brothers. House and Tech House. Preview the line-up and save it on soundcheck.
+The Martinez Brothers at Zumana Bali on Fri 25 Sept, Bali. 1 artist on the bill: The Martinez Brothers. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

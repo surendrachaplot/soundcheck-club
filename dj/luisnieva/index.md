@@ -2,7 +2,7 @@
 
 Luis Nieva is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
-Luis Nieva is a techno and house artist based in Argentina, tracked on soundcheck, with 7 sets logged across Buenosaires. Often billed alongside Miguel Silver, Omar Amo aka Magoo and Ana Hagen. Next up: TBA - Parque de la Ciudad, CABA, Buenosaires on Sat 14 Nov.
+Luis Nieva is a techno and house artist based in Argentina, tracked on soundcheck, with 7 sets logged across Buenos Aires. Often billed alongside Miguel Silver, Omar Amo aka Magoo and Ana Hagen. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
 ## Upcoming shows
 

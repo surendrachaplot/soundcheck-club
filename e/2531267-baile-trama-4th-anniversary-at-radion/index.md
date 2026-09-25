@@ -1,6 +1,6 @@
 # BAILE TRAMA 4TH ANNIVERSARY at RADION
 
-BAILE TRAMA 4TH ANNIVERSARY at RADION on Fri 16 Oct, Amsterdam. 4 acts on the bill: Brenda (ES), Saint Caboclo, Slim Soledad and Slimfit. Electro and Baile Funk. Preview the line-up and save it on soundcheck.
+BAILE TRAMA 4TH ANNIVERSARY at RADION on Fri 16 Oct, Amsterdam. 4 artists on the bill: Brenda (ES), Saint Caboclo, Slim Soledad and Slimfit. Electro and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

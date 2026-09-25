@@ -1,14 +1,14 @@
 # Pam Anantr
 
-Pam Anantr is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Fields at Siam Country Club, All on Thu, 3 Dec 2026.
+Pam Anantr is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
-Pam Anantr is a house and disco artist tracked on soundcheck, with 59 sets logged across All, Bali, Bangkok and Melbourne and 6 more. Often billed alongside Seelie, Brent Burns and Mr.Mowgli. Next up: The Fields at Siam Country Club, All on Thu 3 Dec.
+Pam Anantr is a house and disco artist tracked on soundcheck, with 59 sets logged across Bali, Bangkok, Melbourne and Osaka and 6 more. Often billed alongside Seelie, Brent Burns and Mr.Mowgli. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 3 Dec 2026 | The Fields at Siam Country Club | All |
+| Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
 

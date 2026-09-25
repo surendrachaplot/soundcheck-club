@@ -1,6 +1,6 @@
 # Marsolo Invites at Mint XL
 
-Marsolo Invites at Mint XL on Fri 9 Oct, Leeds. 1 act on the bill: Marsolo. House. Preview the line-up and save it on soundcheck.
+Marsolo Invites at Mint XL on Fri 9 Oct, Leeds. 1 artist on the bill: Marsolo. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

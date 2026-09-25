@@ -1,6 +1,6 @@
 # Beat Therapy VS. Giddy Up at Boogie
 
-Beat Therapy VS. Giddy Up at Boogie on Fri 9 Oct, Toronto. 1 act on the bill: Dan Medland. House. Preview the line-up and save it on soundcheck.
+Beat Therapy VS. Giddy Up at Boogie on Fri 9 Oct, Toronto. 1 artist on the bill: Dan Medland. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

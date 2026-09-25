@@ -1,6 +1,6 @@
 # ZeeZout ADE - Saturday Daytime at Het Rijk van de Keizer
 
-ZeeZout ADE - Saturday Daytime at Het Rijk van de Keizer on Sat 24 Oct, Amsterdam. 17 acts on the bill: 36framez, Call Super, Doppelgang and Emvae and 13 more. Preview the line-up and save it on soundcheck.
+ZeeZout ADE - Saturday Daytime at Het Rijk van de Keizer on Sat 24 Oct, Amsterdam. 17 artists on the bill: 36framez, Call Super, Doppelgang and Emvae and 13 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

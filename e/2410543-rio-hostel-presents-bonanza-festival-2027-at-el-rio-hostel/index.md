@@ -1,12 +1,12 @@
 # Rio Hostel presents: Bonanza Festival 2027 at El Rio Hostel
 
-Rio Hostel presents: Bonanza Festival 2027 at El Rio Hostel on Wed 3 Mar, All. 35 acts on the bill: Andy Martin, Anna Wall, Bclip and Benny (El Rio Hostel) and 31 more. Preview the line-up and save it on soundcheck.
+Rio Hostel presents: Bonanza Festival 2027 at El Rio Hostel on Wed 3 Mar, Colombia. 35 artists on the bill: Andy Martin, Anna Wall, Bclip and Benny (El Rio Hostel) and 31 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Wed, 3 Mar 2027 |
 | Venue | El Rio Hostel |
-| City | All |
+| City | Colombia |
 
 ## Line-up
 

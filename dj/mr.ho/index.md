@@ -2,7 +2,7 @@
 
 Mr. Ho is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 宀 Club, Hong Kong on Fri, 25 Sept 2026.
 
-Mr. Ho is a house and techno artist based in China, tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Auckland and Bali and 36 more. Often billed alongside Luca Lozano, Wada Yosuke and Mogwaa. Next up: 宀 Club, Hongkong on Fri 25 Sept.
+Mr. Ho is a house and techno artist based in China, tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Auckland and Bali and 36 more. Often billed alongside Luca Lozano, Wada Yosuke and Mogwaa. Next up: 宀 Club, Hong Kong on Fri 25 Sept.
 
 ## Upcoming shows
 

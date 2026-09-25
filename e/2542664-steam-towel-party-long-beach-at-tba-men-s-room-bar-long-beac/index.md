@@ -1,6 +1,6 @@
 # STEAM Towel Party Long Beach at TBA - Men's Room Bar Long Beach
 
-STEAM Towel Party Long Beach at TBA - Men's Room Bar Long Beach on Sat 21 Nov, Losangeles. Deep House and Club. Preview the line-up and save it on soundcheck.
+STEAM Towel Party Long Beach at TBA - Men's Room Bar Long Beach on Sat 21 Nov, Los Angeles. Deep House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

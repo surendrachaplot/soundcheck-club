@@ -1,6 +1,6 @@
 # MYRNE (3 Hour Set) at Standard Time at Standard Time
 
-MYRNE (3 Hour Set) at Standard Time on Thu 1 Oct, Toronto. 1 act on the bill: MYRNE. Preview the line-up and save it on soundcheck.
+MYRNE (3 Hour Set) at Standard Time on Thu 1 Oct, Toronto. 1 artist on the bill: MYRNE. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

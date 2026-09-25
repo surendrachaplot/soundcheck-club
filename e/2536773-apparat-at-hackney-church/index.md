@@ -1,6 +1,6 @@
 # Apparat at Hackney Church
 
-Apparat at Hackney Church on Sat 3 Oct, London. 1 act on the bill: Apparat. Ambient. Preview the line-up and save it on soundcheck.
+Apparat at Hackney Church on Sat 3 Oct, London. 1 artist on the bill: Apparat. Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

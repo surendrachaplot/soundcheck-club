@@ -1,6 +1,6 @@
 # Isla Den - Montréal at Newspeak
 
-Isla Den - Montréal at Newspeak on Fri 25 Sept, Montreal. 4 acts on the bill: Ali RQ, Claireyy, Isla Den and Sportress. Electro and Pop. Preview the line-up and save it on soundcheck.
+Isla Den - Montréal at Newspeak on Fri 25 Sept, Montreal. 4 artists on the bill: Ali RQ, Claireyy, Isla Den and Sportress. Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

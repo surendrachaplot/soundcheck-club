@@ -2,7 +2,7 @@
 
 Roldan is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Specka, Madrid on Sat, 17 Oct 2026.
 
-Roldan is a minimal and house artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona and Madrid. Often billed alongside DËKYR, freedomB and Tief (1). Next up: Specka, Madrid on Sat 17 Oct.
+Roldan is a minimal and house artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona and Madrid. Often billed alongside DËKYR, freedomB and Tief. Next up: Specka, Madrid on Sat 17 Oct.
 
 ## Upcoming shows
 

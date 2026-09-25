@@ -1,6 +1,6 @@
 # elrow Ibiza - CLOSING PARTY at [UNVRS]
 
-elrow Ibiza - CLOSING PARTY at [UNVRS] on Sat 3 Oct, Ibiza. 5 acts on the bill: ATT, Chelina Manuhutu, Ilario Alicante and Paco Osuna and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+elrow Ibiza - CLOSING PARTY at [UNVRS] on Sat 3 Oct, Ibiza. 5 artists on the bill: ATT, Chelina Manuhutu, Ilario Alicante and Paco Osuna and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

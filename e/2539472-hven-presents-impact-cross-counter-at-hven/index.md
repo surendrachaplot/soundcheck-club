@@ -1,6 +1,6 @@
 # HVEN PRESENTS: IMPACT: CROSS COUNTER at HVEN
 
-HVEN PRESENTS: IMPACT: CROSS COUNTER on Sat 26 Sept, Tokyo. 3 acts on the bill: omeme_gangimari, PANICWORKS and YASUKI. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+HVEN PRESENTS: IMPACT: CROSS COUNTER on Sat 26 Sept, Tokyo. 3 artists on the bill: omeme_gangimari, PANICWORKS and YASUKI. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

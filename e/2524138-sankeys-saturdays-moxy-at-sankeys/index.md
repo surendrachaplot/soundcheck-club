@@ -1,6 +1,6 @@
 # Sankeys Saturdays - Moxy at Sankeys
 
-Sankeys Saturdays - Moxy on Sat 24 Oct, Manchester. 1 act on the bill: Darius Syrossian. House. Preview the line-up and save it on soundcheck.
+Sankeys Saturdays - Moxy on Sat 24 Oct, Manchester. 1 artist on the bill: Darius Syrossian. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

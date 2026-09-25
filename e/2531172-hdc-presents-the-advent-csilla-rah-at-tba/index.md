@@ -1,6 +1,6 @@
 # HDC presents: The Advent + CSILLA & RAH at TBA
 
-HDC presents: The Advent + CSILLA & RAH at TBA on Fri 9 Oct, Washingtondc. 3 acts on the bill: CSILLA, RAH (US) and The Advent. Techno. Preview the line-up and save it on soundcheck.
+HDC presents: The Advent + CSILLA & RAH at TBA on Fri 9 Oct, Washington DC. 3 artists on the bill: CSILLA, RAH (US) and The Advent. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

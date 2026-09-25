@@ -1,6 +1,6 @@
 # CARESS SHED at Forestlimit
 
-CARESS SHED at Forestlimit on Thu 8 Oct, Tokyo. 2 acts on the bill: kaolinite and meweta. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+CARESS SHED at Forestlimit on Thu 8 Oct, Tokyo. 2 artists on the bill: kaolinite and meweta. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

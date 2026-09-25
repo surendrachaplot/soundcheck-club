@@ -1,6 +1,6 @@
 # FRAME Showcase with S.H.E., Ario, Bonzo, SEXONTHEDECKS, NACHWIEVORSID, LITO, DWORAK, CALIGO, at Club Frau Holle
 
-FRAME Showcase with S.H.E., Ario, Bonzo, SEXONTHEDECKS, NACHWIEVORSID, LITO, DWORAK, CALIGO, at Club Frau Holle on Sat 26 Sept, Hamburg. 3 acts on the bill: Bonzo, DWORAK and Lito (1). Techno and House. Preview the line-up and save it on soundcheck.
+FRAME Showcase with S.H.E., Ario, Bonzo, SEXONTHEDECKS, NACHWIEVORSID, LITO, DWORAK, CALIGO, at Club Frau Holle on Sat 26 Sept, Hamburg. 3 artists on the bill: Bonzo, DWORAK and Lito. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

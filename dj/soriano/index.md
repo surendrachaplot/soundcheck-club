@@ -2,7 +2,7 @@
 
 SORIANO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at City Hall, Barcelona on Thu, 24 Sept 2026.
 
-SORIANO is a house and techno artist based in Spain, tracked on soundcheck, with 19 sets logged across Bangkok, Barcelona, Frankfurt and Mexicocity and 3 more. Often billed alongside Alphanova, Jo Kazan and ALTRAX. Next up: City Hall, Barcelona on Thu 24 Sept.
+SORIANO is a house and techno artist based in Spain, tracked on soundcheck, with 19 sets logged across Bangkok, Barcelona, Frankfurt and Mexico City and 3 more. Often billed alongside Alphanova, Jo Kazan and ALTRAX. Next up: City Hall, Barcelona on Thu 24 Sept.
 
 ## Upcoming shows
 

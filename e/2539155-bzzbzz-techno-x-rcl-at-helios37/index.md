@@ -1,6 +1,6 @@
 # BZZBZZ TECHNO X RCL at Helios37
 
-BZZBZZ TECHNO X RCL at Helios37 on Sat 10 Oct, Cologne. 5 acts on the bill: Backyard Mix, DJ VENUSSS, HENNESY and SPEEDO (2) and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+BZZBZZ TECHNO X RCL at Helios37 on Sat 10 Oct, Cologne. 5 artists on the bill: Backyard Mix, DJ VENUSSS, HENNESY and SPEEDO and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Autechre (UK) at House of Music Hungary at House of Music Hungary
 
-Autechre (UK) at House of Music Hungary on Thu 8 Oct, Budapest. 3 acts on the bill: Alley Catss, Autechre and Gescom. Experimental and IDM. Preview the line-up and save it on soundcheck.
+Autechre (UK) at House of Music Hungary on Thu 8 Oct, Budapest. 3 artists on the bill: Alley Catss, Autechre and Gescom. Experimental and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

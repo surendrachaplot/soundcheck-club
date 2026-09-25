@@ -2,7 +2,7 @@
 
 RORY KITE is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at CÉ LA VI, London on Sat, 26 Sept 2026.
 
-RORY KITE is an afro house and deep house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London and Newyorkcity. Often billed alongside SOMMERS (UK), Everything Is ART and GENIE (2). Next up: CÉ LA VI, London on Sat 26 Sept.
+RORY KITE is an afro house and deep house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London and New York City. Often billed alongside SOMMERS (UK), Everything Is ART and GENIE. Next up: CÉ LA VI, London on Sat 26 Sept.
 
 ## Upcoming shows
 

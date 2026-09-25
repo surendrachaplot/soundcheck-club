@@ -1,6 +1,6 @@
 # Dusky at Audio SF
 
-Dusky at Audio SF on Fri 11 Dec, Sanfrancisco. Preview the line-up and save it on soundcheck.
+Dusky at Audio SF on Fri 11 Dec, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

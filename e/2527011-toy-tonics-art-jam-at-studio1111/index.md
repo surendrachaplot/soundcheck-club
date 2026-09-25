@@ -1,6 +1,6 @@
 # Toy Tonics Art Jam at Studio1111
 
-Toy Tonics Art Jam at Studio1111 on Fri 4 Dec, Berlin. 2 acts on the bill: Arpy Brown and Lars Eidinger. House and Disco. Preview the line-up and save it on soundcheck.
+Toy Tonics Art Jam at Studio1111 on Fri 4 Dec, Berlin. 2 artists on the bill: Arpy Brown and Lars Eidinger. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

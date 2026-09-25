@@ -2,7 +2,7 @@
 
 Shankz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
-Shankz is a house and techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Losangeles and Newyorkcity. Often billed alongside Azyr, Coco & Breezy and Desa Deca. Next up: TBA, Losangeles on Sun 27 Sept.
+Shankz is a house and techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Los Angeles and New York City. Often billed alongside Azyr, Coco & Breezy and Desa Deca. Next up: TBA, Los Angeles on Sun 27 Sept.
 
 ## Upcoming shows
 

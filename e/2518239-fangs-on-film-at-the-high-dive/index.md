@@ -1,6 +1,6 @@
 # Fangs On Film at The High Dive
 
-Fangs On Film at The High Dive on Sat 24 Oct, Detroit. 2 acts on the bill: Auntie Chanel and Obi-Wan Shinobi. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Fangs On Film at The High Dive on Sat 24 Oct, Detroit. 2 artists on the bill: Auntie Chanel and Obi-Wan Shinobi. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

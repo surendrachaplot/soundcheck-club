@@ -1,6 +1,6 @@
 # LOLSNAKE (Weeeirdos Säule Berlin) >> MAGNUS CC >> MERILIN at BRONX at Eventhuset
 
-LOLSNAKE (Weeeirdos Säule Berlin) >> MAGNUS CC >> MERILIN at BRONX at Eventhuset on Sat 21 Nov, Stockholm. 3 acts on the bill: LOLSNAKE, Magnuscc and MERILIN. Techno. Preview the line-up and save it on soundcheck.
+LOLSNAKE (Weeeirdos Säule Berlin) >> MAGNUS CC >> MERILIN at BRONX at Eventhuset on Sat 21 Nov, Stockholm. 3 artists on the bill: LOLSNAKE, Magnuscc and MERILIN. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

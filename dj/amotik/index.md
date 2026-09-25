@@ -10,7 +10,7 @@ Amotik is a techno and house artist based in United Kingdom, tracked on soundche
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Sub Club Melbourne | Melbourne |
 | Sat, 26 Sept 2026 | Chinese Laundry | Sydney |
-| Sat, 10 Oct 2026 | TBA | Paris |
+| Sat, 10 Oct 2026 | TBA - Paris | Paris |
 | Fri, 16 Oct 2026 | Co.Labs | Brno |
 | Sat, 24 Oct 2026 | Distillery N17 | London |
 

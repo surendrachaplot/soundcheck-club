@@ -1,6 +1,6 @@
 # ADE: Nkisi + Crawler + 2K88, Rainy Miller, Bianca Scout at Muziekgebouw aan t' IJ
 
-ADE: Nkisi + Crawler + 2K88, Rainy Miller, Bianca Scout at Muziekgebouw aan t' IJ on Wed 21 Oct, Amsterdam. 7 acts on the bill: 2K88, Bianca Scout, Castle and Crawler and 3 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+ADE: Nkisi + Crawler + 2K88, Rainy Miller, Bianca Scout at Muziekgebouw aan t' IJ on Wed 21 Oct, Amsterdam. 7 artists on the bill: 2K88, Bianca Scout, Castle and Crawler and 3 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The One Glove Weekender with Macca & Conduit Sound at Night Tales Loft
 
-The One Glove Weekender with Macca & Conduit Sound at Night Tales Loft on Fri 23 Oct, London. 1 act on the bill: Macca.. Preview the line-up and save it on soundcheck.
+The One Glove Weekender with Macca & Conduit Sound at Night Tales Loft on Fri 23 Oct, London. 1 artist on the bill: Macca.. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

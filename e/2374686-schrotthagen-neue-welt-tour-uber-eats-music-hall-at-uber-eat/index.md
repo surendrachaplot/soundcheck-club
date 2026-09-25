@@ -1,6 +1,6 @@
 # Schrotthagen Neue Welt Tour @Uber Eats Music Hall at Uber Eats Music Hall
 
-Schrotthagen Neue Welt Tour @Uber Eats Music Hall on Sat 28 Nov, Berlin. 1 act on the bill: Schrotthagen. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Schrotthagen Neue Welt Tour @Uber Eats Music Hall on Sat 28 Nov, Berlin. 1 artist on the bill: Schrotthagen. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

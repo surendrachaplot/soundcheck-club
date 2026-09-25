@@ -1,6 +1,6 @@
 # Out The Bag presents: Choukroun b2b Monk at Outer Heaven
 
-Out The Bag presents: Choukroun b2b Monk at Outer Heaven on Wed 16 Dec, Newyorkcity. 1 act on the bill: Monk (2). House. Preview the line-up and save it on soundcheck.
+Out The Bag presents: Choukroun b2b Monk at Outer Heaven on Wed 16 Dec, New York City. 1 artist on the bill: Monk. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

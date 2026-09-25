@@ -1,6 +1,6 @@
 # [POSTPONED] Sly5thAve *live at Gretchen
 
-[POSTPONED] Sly5thAve *live at Gretchen on Sun 13 Dec, Berlin. 1 act on the bill: rines. Hip-Hop and Jazz. Preview the line-up and save it on soundcheck.
+[POSTPONED] Sly5thAve *live at Gretchen on Sun 13 Dec, Berlin. 1 artist on the bill: rines. Hip-Hop and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

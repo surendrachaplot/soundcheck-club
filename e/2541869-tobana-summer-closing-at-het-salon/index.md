@@ -1,6 +1,6 @@
 # Tobana summer closing at Het Salon
 
-Tobana summer closing at Het Salon on Fri 25 Sept, Amsterdam. 2 acts on the bill: Idilay and Julian Feierabend. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
+Tobana summer closing at Het Salon on Fri 25 Sept, Amsterdam. 2 artists on the bill: Idilay and Julian Feierabend. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

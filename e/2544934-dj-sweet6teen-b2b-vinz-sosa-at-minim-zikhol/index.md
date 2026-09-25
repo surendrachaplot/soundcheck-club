@@ -1,6 +1,6 @@
 # dj sweet6teen B2B Vinz Sosa at Minimüzikhol
 
-dj sweet6teen B2B Vinz Sosa at Minimüzikhol on Fri 9 Oct, Istanbul. 2 acts on the bill: dj sweet6teen and Vinz Sosa. House. Preview the line-up and save it on soundcheck.
+dj sweet6teen B2B Vinz Sosa at Minimüzikhol on Fri 9 Oct, Istanbul. 2 artists on the bill: dj sweet6teen and Vinz Sosa. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

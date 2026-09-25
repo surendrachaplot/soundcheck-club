@@ -1,6 +1,6 @@
 # Divine Halloween at Divine Bar
 
-Divine Halloween at Divine Bar on Sat 31 Oct, Dortmund-essen. Pop and Club. Preview the line-up and save it on soundcheck.
+Divine Halloween at Divine Bar on Sat 31 Oct, Dortmund Essen. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

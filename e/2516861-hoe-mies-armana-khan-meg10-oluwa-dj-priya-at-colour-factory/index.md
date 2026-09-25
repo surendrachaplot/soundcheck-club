@@ -1,6 +1,6 @@
 # Hoe_mies: ARMANA KHAN, Meg10, Oluwa & DJ PRIYA at Colour Factory
 
-Hoe_mies: ARMANA KHAN, Meg10, Oluwa & DJ PRIYA at Colour Factory on Fri 25 Sept, London. 3 acts on the bill: ARMANA KHAN, DJ PRIYA and Meg10. Club. Preview the line-up and save it on soundcheck.
+Hoe_mies: ARMANA KHAN, Meg10, Oluwa & DJ PRIYA at Colour Factory on Fri 25 Sept, London. 3 artists on the bill: ARMANA KHAN, DJ PRIYA and Meg10. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

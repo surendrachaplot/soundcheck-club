@@ -1,6 +1,6 @@
 # A Warped Halloween: Samurai Breaks, Napes, Settle Down + more at Meraki
 
-A Warped Halloween: Samurai Breaks, Napes, Settle Down + more at Meraki on Sat 31 Oct, Liverpool. 4 acts on the bill: MYOHMY, Napes, Samurai Breaks and Settle Down. Bass and Jungle. Preview the line-up and save it on soundcheck.
+A Warped Halloween: Samurai Breaks, Napes, Settle Down + more at Meraki on Sat 31 Oct, Liverpool. 4 artists on the bill: MYOHMY, Napes, Samurai Breaks and Settle Down. Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

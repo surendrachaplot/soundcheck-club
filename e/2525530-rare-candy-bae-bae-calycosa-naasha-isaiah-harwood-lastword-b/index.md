@@ -1,6 +1,6 @@
 # ★ RARE CANDY ★ BAE BAE + Calycosa + NAASHA + Isaiah Harwood + Lastword + Bobbyy at De La Playa Records & Leisure
 
-★ RARE CANDY ★ BAE BAE + Calycosa + NAASHA + Isaiah Harwood + Lastword + Bobbyy at De La Playa Records & Leisure on Sat 26 Sept, Losangeles. 3 acts on the bill: BAE BAE, Bobbyy and Lastword. Jazz and Ghetto Tech. Preview the line-up and save it on soundcheck.
+★ RARE CANDY ★ BAE BAE + Calycosa + NAASHA + Isaiah Harwood + Lastword + Bobbyy at De La Playa Records & Leisure on Sat 26 Sept, Los Angeles. 3 artists on the bill: BAE BAE, Bobbyy and Lastword. Jazz and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

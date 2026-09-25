@@ -1,6 +1,6 @@
 # Joris Voorn pres. A Trip To Galaxy at LAB theCLUB
 
-Joris Voorn pres. A Trip To Galaxy at LAB theCLUB on Fri 13 Nov, Madrid. 1 act on the bill: Joris Voorn. Techno. Preview the line-up and save it on soundcheck.
+Joris Voorn pres. A Trip To Galaxy at LAB theCLUB on Fri 13 Nov, Madrid. 1 artist on the bill: Joris Voorn. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

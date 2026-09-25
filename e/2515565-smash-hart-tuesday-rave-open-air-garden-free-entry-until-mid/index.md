@@ -1,6 +1,6 @@
 # Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] at Der Weiße Hase
 
-Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] at Der Weiße Hase on Tue 6 Oct, Berlin. 2 acts on the bill: DAZA and Tom Marten. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] at Der Weiße Hase on Tue 6 Oct, Berlin. 2 artists on the bill: DAZA and Tom Marten. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

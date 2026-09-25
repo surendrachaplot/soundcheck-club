@@ -1,6 +1,6 @@
 # GUMGO, Rocket, Minuc at Atdge Seoul
 
-GUMGO, Rocket, Minuc at Atdge Seoul on Fri 25 Sept, Seoul. 2 acts on the bill: GUMGO and Minuc. House and Minimal. Preview the line-up and save it on soundcheck.
+GUMGO, Rocket, Minuc at Atdge Seoul on Fri 25 Sept, Seoul. 2 artists on the bill: GUMGO and Minuc. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

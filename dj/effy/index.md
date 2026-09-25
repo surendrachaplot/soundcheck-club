@@ -1,8 +1,8 @@
 # Effy
 
-Effy is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Warehouse, Leeds on Fri, 25 Sept 2026.
+Effy is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Warehouse, Leeds on Fri, 25 Sept 2026.
 
-Effy is a techno and house artist based in United Kingdom, tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 51 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: The Warehouse, Leeds on Fri 25 Sept.
+Effy is a techno and house artist based in United Kingdom, tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 51 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: The Warehouse, Leeds on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Effy is a techno and house artist based in United Kingdom, tracked on soundcheck
 | Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Sat, 21 Nov 2026 | Pasir Panjang Power Station | Singapore |
 | Sun, 22 Nov 2026 | Aquabeat 01 | Hong Kong |
+| Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 
 ## Recently played
 

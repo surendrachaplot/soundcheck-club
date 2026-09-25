@@ -1,6 +1,6 @@
 # Sounds Like London: OSO:DEN with Scott Diaz & Bear Winder at Ninety One
 
-Sounds Like London: OSO:DEN with Scott Diaz & Bear Winder at Ninety One on Sat 7 Nov, London. 3 acts on the bill: Bear Winder, Scott Diaz and Zak Miller. Garage and Deep House. Preview the line-up and save it on soundcheck.
+Sounds Like London: OSO:DEN with Scott Diaz & Bear Winder at Ninety One on Sat 7 Nov, London. 3 artists on the bill: Bear Winder, Scott Diaz and Zak Miller. Garage and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

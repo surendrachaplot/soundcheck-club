@@ -1,6 +1,6 @@
 # HIVEAHKASHA at Hive Club
 
-HIVEAHKASHA at Hive Club on Sat 17 Oct, Zurich. 1 act on the bill: Vanita. Techno and House. Preview the line-up and save it on soundcheck.
+HIVEAHKASHA at Hive Club on Sat 17 Oct, Zurich. 1 artist on the bill: Vanita. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

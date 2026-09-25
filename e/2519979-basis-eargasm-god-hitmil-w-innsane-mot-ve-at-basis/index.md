@@ -1,6 +1,6 @@
 # BASIS/ EARGASM GOD/ HiTMiLØW/ INNSANE/ MOT!VE at BASIS
 
-BASIS/ EARGASM GOD/ HiTMiLØW/ INNSANE/ MOT!VE on Sat 31 Oct, Utrecht. 2 acts on the bill: EARGASM GOD and HiTMiLØW. Trance. Preview the line-up and save it on soundcheck.
+BASIS/ EARGASM GOD/ HiTMiLØW/ INNSANE/ MOT!VE on Sat 31 Oct, Utrecht. 2 artists on the bill: EARGASM GOD and HiTMiLØW. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Balleremo 0414 pres. CCL b2b Piezo - Extended Set at NAMA - Nuovo Anfiteatro Martesana
 
-Balleremo 0414 pres. CCL b2b Piezo - Extended Set at NAMA - Nuovo Anfiteatro Martesana on Fri 30 Oct, Milan. 3 acts on the bill: biased, CCL and Piezo. Techno and Bass. Preview the line-up and save it on soundcheck.
+Balleremo 0414 pres. CCL b2b Piezo - Extended Set at NAMA - Nuovo Anfiteatro Martesana on Fri 30 Oct, Milan. 3 artists on the bill: biased, CCL and Piezo. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

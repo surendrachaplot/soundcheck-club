@@ -2,7 +2,7 @@
 
 Babybruise is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Astro Cdmx, Mexico City on Fri, 2 Oct 2026.
 
-Babybruise is a latin bass and club artist based in Mexico, tracked on soundcheck, with 43 sets logged across Mexicocity. Often billed alongside fka phaedra, KEBRA and ADAKEO. Next up: Astro Cdmx, Mexicocity on Fri 2 Oct.
+Babybruise is a latin bass and club artist based in Mexico, tracked on soundcheck, with 43 sets logged across Mexico City. Often billed alongside fka phaedra, KEBRA and ADAKEO. Next up: Astro Cdmx, Mexico City on Fri 2 Oct.
 
 ## Upcoming shows
 

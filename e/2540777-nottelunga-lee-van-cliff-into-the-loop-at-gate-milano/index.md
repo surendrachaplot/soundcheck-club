@@ -1,6 +1,6 @@
 # Nottelunga - Lee Van Cliff — Into the Loop at Gate Milano
 
-Nottelunga - Lee Van Cliff — Into the Loop at Gate Milano on Fri 23 Oct, Milan. 2 acts on the bill: Hëit and Lee Van Cliff. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Nottelunga - Lee Van Cliff — Into the Loop at Gate Milano on Fri 23 Oct, Milan. 2 artists on the bill: Hëit and Lee Van Cliff. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

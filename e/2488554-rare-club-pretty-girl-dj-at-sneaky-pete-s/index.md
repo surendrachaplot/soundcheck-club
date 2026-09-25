@@ -1,6 +1,6 @@
 # RARE CLUB // Pretty Girl (DJ) at Sneaky Pete's
 
-RARE CLUB // Pretty Girl (DJ) at Sneaky Pete's on Tue 13 Oct, Edinburgh. 1 act on the bill: Pretty Girl. Preview the line-up and save it on soundcheck.
+RARE CLUB // Pretty Girl (DJ) at Sneaky Pete's on Tue 13 Oct, Edinburgh. 1 artist on the bill: Pretty Girl. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

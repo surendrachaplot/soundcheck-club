@@ -1,6 +1,6 @@
 # UNDERTONE at Mitsuki
 
-UNDERTONE at Mitsuki on Tue 29 Sept, Tokyo. 3 acts on the bill: Celter, levolant and Wada Yosuke. Techno and House. Preview the line-up and save it on soundcheck.
+UNDERTONE at Mitsuki on Tue 29 Sept, Tokyo. 3 artists on the bill: Celter, levolant and Wada Yosuke. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

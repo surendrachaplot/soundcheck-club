@@ -1,6 +1,6 @@
 # End of an Era: Locals at Silent Studios
 
-End of an Era: Locals at Silent Studios on Fri 2 Oct, Auckland. 2 acts on the bill: Cameron Morris and Connor Tomoana. House and Tech House. Preview the line-up and save it on soundcheck.
+End of an Era: Locals at Silent Studios on Fri 2 Oct, Auckland. 2 artists on the bill: Cameron Morris and Connor Tomoana. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Barraca x TheBasement (Halloween) at Barraca
 
-Barraca x TheBasement (Halloween) on Sat 31 Oct, Valencia. 5 acts on the bill: Domen, HearThug, Lucas Cabello and Perc and 1 more. Electronica. Preview the line-up and save it on soundcheck.
+Barraca x TheBasement (Halloween) on Sat 31 Oct, Valencia. 5 artists on the bill: Domen, HearThug, Lucas Cabello and Perc and 1 more. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

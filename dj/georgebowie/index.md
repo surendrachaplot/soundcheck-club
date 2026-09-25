@@ -2,7 +2,7 @@
 
 George Bowie is a Trance and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Vienna's, Glasgow on Sat, 26 Sept 2026.
 
-George Bowie is a trance and disco artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Dundee and Glasgow. Often billed alongside Joe Deacon, Macca (2) and Michael Paterson. Next up: Vienna's, Glasgow on Sat 26 Sept.
+George Bowie is a trance and disco artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Dundee and Glasgow. Often billed alongside Joe Deacon, Macca and Michael Paterson. Next up: Vienna's, Glasgow on Sat 26 Sept.
 
 ## Upcoming shows
 

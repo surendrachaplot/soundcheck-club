@@ -1,6 +1,6 @@
 # INTERTWINED with Дeva (Budapest, HU) at TBA - Colares, Sintra
 
-INTERTWINED with Дeva (Budapest, HU) at TBA - Colares, Sintra on Sat 26 Sept, Lisbon. 1 act on the bill: Tom Select. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
+INTERTWINED with Дeva (Budapest, HU) at TBA - Colares, Sintra on Sat 26 Sept, Lisbon. 1 artist on the bill: Tom Select. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

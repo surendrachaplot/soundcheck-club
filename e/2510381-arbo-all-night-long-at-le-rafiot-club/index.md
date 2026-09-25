@@ -1,6 +1,6 @@
 # ARBO, All Night Long at LE Rafiot Club
 
-ARBO, All Night Long at LE Rafiot Club on Fri 2 Oct, Strasbourg. 1 act on the bill: Arbo. Club and EBM. Preview the line-up and save it on soundcheck.
+ARBO, All Night Long at LE Rafiot Club on Fri 2 Oct, Strasbourg. 1 artist on the bill: Arbo. Club and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

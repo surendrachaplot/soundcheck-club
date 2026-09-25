@@ -1,6 +1,6 @@
 # 23:59 One Night with Felix Kröcher - 4h Set at Uebel & Gefährlich
 
-23:59 One Night with Felix Kröcher - 4h Set at Uebel & Gefährlich on Fri 13 Nov, Hamburg. 1 act on the bill: Felix Kröcher. Preview the line-up and save it on soundcheck.
+23:59 One Night with Felix Kröcher - 4h Set at Uebel & Gefährlich on Fri 13 Nov, Hamburg. 1 artist on the bill: Felix Kröcher. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

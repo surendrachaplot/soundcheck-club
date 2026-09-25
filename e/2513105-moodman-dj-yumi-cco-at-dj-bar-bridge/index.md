@@ -1,6 +1,6 @@
 # Moodman & dj yumi-cco at DJ Bar Bridge
 
-Moodman & dj yumi-cco at DJ Bar Bridge on Fri 23 Oct, Tokyo. 2 acts on the bill: dj yumi-cco and Moodman. House. Preview the line-up and save it on soundcheck.
+Moodman & dj yumi-cco at DJ Bar Bridge on Fri 23 Oct, Tokyo. 2 artists on the bill: dj yumi-cco and Moodman. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

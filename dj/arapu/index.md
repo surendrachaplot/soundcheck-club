@@ -1,14 +1,14 @@
 # Arapu
 
-Arapu is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tunnel, Milan on Fri, 25 Sept 2026.
+Arapu is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Studionotte, Milan on Fri, 25 Sept 2026.
 
-Arapu is a house and minimal artist based in Romania, tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: Tunnel, Milan on Fri 25 Sept.
+Arapu is a house and minimal artist based in Romania, tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: Studionotte, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Tunnel | Milan |
+| Fri, 25 Sept 2026 | Studionotte | Milan |
 | Fri, 2 Oct 2026 | BRET | Amsterdam |
 | Sat, 3 Oct 2026 | Sankeys | Manchester |
 | Sat, 10 Oct 2026 | Plaza Camden | London |

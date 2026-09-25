@@ -1,6 +1,6 @@
 # Generation GBX with George Bowie and friends at Charlies Loft
 
-Generation GBX with George Bowie and friends at Charlies Loft on Fri 2 Oct, Glasgow. 2 acts on the bill: George Bowie and Michael Paterson. Trance and House. Preview the line-up and save it on soundcheck.
+Generation GBX with George Bowie and friends at Charlies Loft on Fri 2 Oct, Glasgow. 2 artists on the bill: George Bowie and Michael Paterson. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

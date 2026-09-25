@@ -1,6 +1,6 @@
 # DJ_Dave at El Rey Theatre
 
-DJ_Dave at El Rey Theatre on Thu 1 Oct, Losangeles. 1 act on the bill: DJ_Dave. Preview the line-up and save it on soundcheck.
+DJ_Dave at El Rey Theatre on Thu 1 Oct, Los Angeles. 1 artist on the bill: DJ_Dave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

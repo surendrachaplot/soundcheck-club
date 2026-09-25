@@ -1,6 +1,6 @@
 # ReSolute presents: Why So Serious! at H0L0
 
-ReSolute presents: Why So Serious! at H0L0 on Sat 31 Oct, Newyorkcity. Techno and House. Preview the line-up and save it on soundcheck.
+ReSolute presents: Why So Serious! at H0L0 on Sat 31 Oct, New York City. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

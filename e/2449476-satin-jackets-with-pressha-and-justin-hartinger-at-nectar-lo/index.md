@@ -1,6 +1,6 @@
 # Satin Jackets with Pressha and Justin Hartinger at Nectar Lounge
 
-Satin Jackets with Pressha and Justin Hartinger at Nectar Lounge on Sat 10 Oct, Seattle. 1 act on the bill: Satin Jackets. Downtempo. Preview the line-up and save it on soundcheck.
+Satin Jackets with Pressha and Justin Hartinger at Nectar Lounge on Sat 10 Oct, Seattle. 1 artist on the bill: Satin Jackets. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

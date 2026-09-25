@@ -1,6 +1,6 @@
 # Collect LX Factory presents C3D-E (live) at Collect LX Factory
 
-Collect LX Factory presents C3D-E (live) on Sat 21 Nov, Lisbon. 3 acts on the bill: C3D-E, Solid-Funk and Ze Salvador. Electronica and Minimal Techno. Preview the line-up and save it on soundcheck.
+Collect LX Factory presents C3D-E (live) on Sat 21 Nov, Lisbon. 3 artists on the bill: C3D-E, Solid-Funk and Ze Salvador. Electronica and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # GOT THE SAUCE + DOUBLE VISION presents OUR HOUSE Vol.5 at Miscellania
 
-GOT THE SAUCE + DOUBLE VISION presents OUR HOUSE Vol.5 at Miscellania on Sat 26 Sept, Melbourne. 3 acts on the bill: Elli Altenberger, Nachö and Nat Wendell. House and Deep House. Preview the line-up and save it on soundcheck.
+GOT THE SAUCE + DOUBLE VISION presents OUR HOUSE Vol.5 at Miscellania on Sat 26 Sept, Melbourne. 3 artists on the bill: Elli Altenberger, Nachö and Nat Wendell. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

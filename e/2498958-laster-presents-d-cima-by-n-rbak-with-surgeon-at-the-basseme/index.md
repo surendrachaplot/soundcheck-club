@@ -1,6 +1,6 @@
 # LASTER presents DÉCIMA by Nørbak with Surgeon at The Bassement
 
-LASTER presents DÉCIMA by Nørbak with Surgeon at The Bassement on Sat 3 Oct, Madrid. 2 acts on the bill: Nørbak and Surgeon. Techno. Preview the line-up and save it on soundcheck.
+LASTER presents DÉCIMA by Nørbak with Surgeon at The Bassement on Sat 3 Oct, Madrid. 2 artists on the bill: Nørbak and Surgeon. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Panic Room x Double Phoque at Panic Room
 
-Panic Room x Double Phoque on Wed 14 Oct, Paris. 1 act on the bill: Vice Experience. Techno and House. Preview the line-up and save it on soundcheck.
+Panic Room x Double Phoque on Wed 14 Oct, Paris. 1 artist on the bill: Vice Experience. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

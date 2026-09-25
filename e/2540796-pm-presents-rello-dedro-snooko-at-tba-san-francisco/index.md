@@ -1,6 +1,6 @@
 # PM presents: Rello, DEDRO, Snooko at TBA - San Francisco
 
-PM presents: Rello, DEDRO, Snooko at TBA - San Francisco on Fri 25 Sept, Sanfrancisco. 2 acts on the bill: Rello and Snooko. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+PM presents: Rello, DEDRO, Snooko at TBA - San Francisco on Fri 25 Sept, San Francisco/Oakland. 2 artists on the bill: Rello and Snooko. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

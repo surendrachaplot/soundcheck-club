@@ -1,6 +1,6 @@
 # Amelie Lens presents AURA at Uber Eats Music Hall
 
-Amelie Lens presents AURA at Uber Eats Music Hall on Fri 2 Oct, Berlin. 2 acts on the bill: Akua and Amelie Lens. Techno. Preview the line-up and save it on soundcheck.
+Amelie Lens presents AURA at Uber Eats Music Hall on Fri 2 Oct, Berlin. 2 artists on the bill: Akua and Amelie Lens. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # By Day W/ Kenny Dope - Benny Rodrigues - Tonno Disko - Coco Coquelicot at Het Sieraad
 
-By Day W/ Kenny Dope - Benny Rodrigues - Tonno Disko - Coco Coquelicot at Het Sieraad on Sat 7 Nov, Amsterdam. 4 acts on the bill: Benny Rodrigues, Coco Coquelicot, Kenny Dope and Tonno Disko. House. Preview the line-up and save it on soundcheck.
+By Day W/ Kenny Dope - Benny Rodrigues - Tonno Disko - Coco Coquelicot at Het Sieraad on Sat 7 Nov, Amsterdam. 4 artists on the bill: Benny Rodrigues, Coco Coquelicot, Kenny Dope and Tonno Disko. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

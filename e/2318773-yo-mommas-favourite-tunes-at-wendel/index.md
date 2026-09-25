@@ -1,6 +1,6 @@
 # Yo Mommas Favourite Tunes at Wendel
 
-Yo Mommas Favourite Tunes at Wendel on Sat 26 Sept, Berlin. 3 acts on the bill: Anton Quasi, EMBEE3 and Nadim. House and Garage. Preview the line-up and save it on soundcheck.
+Yo Mommas Favourite Tunes at Wendel on Sat 26 Sept, Berlin. 3 artists on the bill: Anton Quasi, EMBEE3 and Nadim. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

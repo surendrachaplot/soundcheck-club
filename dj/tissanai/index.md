@@ -2,7 +2,7 @@
 
 Tissanai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Temp., Bangkok on Fri, 25 Sept 2026.
 
-Tissanai is a house and techno artist based in Thailand, tracked on soundcheck, with 12 sets logged across Bangkok and Kualalumpur. Often billed alongside Meltmode (2), IYY (TH) and DOTT. Next up: Bar Temp., Bangkok on Fri 25 Sept.
+Tissanai is a house and techno artist based in Thailand, tracked on soundcheck, with 12 sets logged across Bangkok and Kuala Lumpur. Often billed alongside Meltmode, IYY (TH) and DOTT. Next up: Bar Temp., Bangkok on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Hector Moralez is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 26 Sept 2026.
 
-Hector Moralez is a house and tech house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Amsterdam, Denver, Losangeles and Manchester and 4 more. Often billed alongside J-Dub, DJ Dazy and Jason Hodges. Next up: Benelux BAR, Amsterdam on Sat 26 Sept.
+Hector Moralez is a house and tech house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Amsterdam, Denver, Los Angeles and Manchester and 4 more. Often billed alongside J-Dub, DJ Dazy and Jason Hodges. Next up: Benelux BAR, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 

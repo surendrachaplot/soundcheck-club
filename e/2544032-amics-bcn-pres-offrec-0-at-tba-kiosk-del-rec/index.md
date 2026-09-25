@@ -1,6 +1,6 @@
 # AMICS Bcn Pres. OFFREC.0 at TBA - Kiosk del Rec
 
-AMICS Bcn Pres. OFFREC.0 at TBA - Kiosk del Rec on Sat 7 Nov, Barcelona. 2 acts on the bill: Hades PRX and Toni Amador. Techno and Electro. Preview the line-up and save it on soundcheck.
+AMICS Bcn Pres. OFFREC.0 at TBA - Kiosk del Rec on Sat 7 Nov, Barcelona. 2 artists on the bill: Hades PRX and Toni Amador. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

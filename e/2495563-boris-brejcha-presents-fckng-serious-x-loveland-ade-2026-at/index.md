@@ -1,6 +1,6 @@
 # Boris Brejcha presents Fckng Serious x Loveland - ADE 2026 at Theater Amsterdam
 
-Boris Brejcha presents Fckng Serious x Loveland - ADE 2026 at Theater Amsterdam on Sat 24 Oct, Amsterdam. 3 acts on the bill: Ann Clue, Boris Brejcha and Deniz Bul. Minimal Techno. Preview the line-up and save it on soundcheck.
+Boris Brejcha presents Fckng Serious x Loveland - ADE 2026 at Theater Amsterdam on Sat 24 Oct, Amsterdam. 3 artists on the bill: Ann Clue, Boris Brejcha and Deniz Bul. Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

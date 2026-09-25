@@ -1,6 +1,6 @@
 # CUT SILK and CLAIRE KNIGHT present Slumber Party Massacre w Black Dahlia, Arketek at TBA - Secret Inner West Location
 
-CUT SILK and CLAIRE KNIGHT present Slumber Party Massacre w Black Dahlia, Arketek at TBA - Secret Inner West Location on Fri 30 Oct, Sydney. 4 acts on the bill: Arketek, Black Dahlia, CLAIRE KNIGHT and Postponez. New Wave and Electronica. Preview the line-up and save it on soundcheck.
+CUT SILK and CLAIRE KNIGHT present Slumber Party Massacre w Black Dahlia, Arketek at TBA - Secret Inner West Location on Fri 30 Oct, Sydney. 4 artists on the bill: Arketek, Black Dahlia, CLAIRE KNIGHT and Postponez. New Wave and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

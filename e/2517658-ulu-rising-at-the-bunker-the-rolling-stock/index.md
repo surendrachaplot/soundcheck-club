@@ -1,6 +1,6 @@
 # ULU RISING at The Bunker @ The Rolling Stock
 
-ULU RISING at The Bunker @ The Rolling Stock on Fri 2 Oct, London. 3 acts on the bill: Floyd Lavine, N1NJA and Robin M. House and Afro Tech. Preview the line-up and save it on soundcheck.
+ULU RISING at The Bunker @ The Rolling Stock on Fri 2 Oct, London. 3 artists on the bill: Floyd Lavine, N1NJA and Robin M. House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

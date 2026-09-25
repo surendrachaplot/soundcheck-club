@@ -1,6 +1,6 @@
 # Anjunadeep London at The Cause
 
-Anjunadeep London at The Cause on Sat 12 Dec, London. 14 acts on the bill: ALLKNIGHT, Because of Art, Braxton and Calcou and 10 more. Preview the line-up and save it on soundcheck.
+Anjunadeep London at The Cause on Sat 12 Dec, London. 14 artists on the bill: ALLKNIGHT, Because of Art, Braxton and Calcou and 10 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

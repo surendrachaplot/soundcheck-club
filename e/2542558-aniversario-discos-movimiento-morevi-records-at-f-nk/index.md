@@ -1,6 +1,6 @@
 # Aniversario Discos Movimiento & Morevi Records at Fünk
 
-Aniversario Discos Movimiento & Morevi Records at Fünk on Sat 31 Oct, Mexicocity. 5 acts on the bill: Boyá, Dr. Long, Fadi Mohem and Givi Gelashvili and 1 more. Dub Techno. Preview the line-up and save it on soundcheck.
+Aniversario Discos Movimiento & Morevi Records at Fünk on Sat 31 Oct, Mexico City. 5 artists on the bill: Boyá, Dr. Long, Fadi Mohem and Givi Gelashvili and 1 more. Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

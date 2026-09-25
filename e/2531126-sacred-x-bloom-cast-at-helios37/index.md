@@ -1,6 +1,6 @@
 # sacred x BLOOM:CAST at Helios37
 
-sacred x BLOOM:CAST at Helios37 on Fri 25 Sept, Cologne. 3 acts on the bill: kichererbsenstampf, LSG and VINYA. Trance and Techno. Preview the line-up and save it on soundcheck.
+sacred x BLOOM:CAST at Helios37 on Fri 25 Sept, Cologne. 3 artists on the bill: kichererbsenstampf, LSG and VINYA. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

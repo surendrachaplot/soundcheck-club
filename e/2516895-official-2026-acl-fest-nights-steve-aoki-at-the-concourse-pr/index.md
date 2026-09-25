@@ -1,6 +1,6 @@
 # Official 2026 ACL Fest Nights: Steve Aoki at The Concourse Project
 
-Official 2026 ACL Fest Nights: Steve Aoki at The Concourse Project on Fri 2 Oct, Austin. 1 act on the bill: Steve Aoki. Preview the line-up and save it on soundcheck.
+Official 2026 ACL Fest Nights: Steve Aoki at The Concourse Project on Fri 2 Oct, Austin. 1 artist on the bill: Steve Aoki. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Small Great House 'November Edition' at OXI
 
-Small Great House 'November Edition' at OXI on Sat 7 Nov, Berlin. 1 act on the bill: Damiano von Erckert. House and Disco. Preview the line-up and save it on soundcheck.
+Small Great House 'November Edition' at OXI on Sat 7 Nov, Berlin. 1 artist on the bill: Damiano von Erckert. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

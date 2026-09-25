@@ -1,6 +1,6 @@
 # MISCHIEF NIGHT with Lauren Flax B2B Mike Servito at The Dolphin
 
-MISCHIEF NIGHT with Lauren Flax B2B Mike Servito at The Dolphin on Fri 30 Oct, Philadelphia. 3 acts on the bill: G I N A, Lauren Flax and Mike Servito. Techno and Acid. Preview the line-up and save it on soundcheck.
+MISCHIEF NIGHT with Lauren Flax B2B Mike Servito at The Dolphin on Fri 30 Oct, Philadelphia. 3 artists on the bill: G I N A, Lauren Flax and Mike Servito. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

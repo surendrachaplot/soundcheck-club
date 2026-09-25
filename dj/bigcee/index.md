@@ -2,7 +2,7 @@
 
 Big Cee is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at California Plaza, Los Angeles on Sat, 10 Oct 2026.
 
-Big Cee is a house and deep house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Losangeles and Sanfrancisco. Often billed alongside Marques Wyatt, Anton Tumas and Bollo. Next up: California Plaza, Losangeles on Sat 10 Oct.
+Big Cee is a house and deep house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Los Angeles and San Francisco/Oakland. Often billed alongside Marques Wyatt, Anton Tumas and Bollo. Next up: California Plaza, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 

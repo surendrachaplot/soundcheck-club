@@ -1,6 +1,6 @@
 # bck clubnacht at Kauz
 
-bck clubnacht at Kauz on Fri 25 Sept, Zurich. 4 acts on the bill: Alex Dallas, Carla Durisch, Nici Faerber and THYORA. House and Tech House. Preview the line-up and save it on soundcheck.
+bck clubnacht at Kauz on Fri 25 Sept, Zurich. 4 artists on the bill: Alex Dallas, Carla Durisch, Nici Faerber and THYORA. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

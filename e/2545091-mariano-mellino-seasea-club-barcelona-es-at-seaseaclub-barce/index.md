@@ -1,6 +1,6 @@
 # Mariano Mellino - SEASEA CLUB - Barcelona, ES at Seaseaclub Barcelona
 
-Mariano Mellino - SEASEA CLUB - Barcelona, ES at Seaseaclub Barcelona on Sun 18 Oct, Barcelona. 1 act on the bill: Mariano Mellino. Progressive House. Preview the line-up and save it on soundcheck.
+Mariano Mellino - SEASEA CLUB - Barcelona, ES at Seaseaclub Barcelona on Sun 18 Oct, Barcelona. 1 artist on the bill: Mariano Mellino. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

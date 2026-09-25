@@ -2,7 +2,7 @@
 
 Titonton Duvanté is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Fri, 2 Oct 2026.
 
-Titonton Duvanté is a house and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Austin, Bangkok, Berlin and Boston and 10 more. Often billed alongside Mike Servito, Bryan Kasenic and DJ Stingray 313. Next up: Flash, Washingtondc on Fri 2 Oct.
+Titonton Duvanté is a house and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Austin, Bangkok, Berlin and Boston and 10 more. Often billed alongside Mike Servito, Bryan Kasenic and DJ Stingray 313. Next up: Flash, Washington DC on Fri 2 Oct.
 
 ## Upcoming shows
 

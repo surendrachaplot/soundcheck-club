@@ -1,6 +1,6 @@
 # Swing Dash Xmas Party: Inland Knights + Sash [Risky Disko, Kitchen Radio] at Movers
 
-Swing Dash Xmas Party: Inland Knights + Sash [Risky Disko, Kitchen Radio] at Movers on Sat 19 Dec, Nottingham. 1 act on the bill: Inland Knights. House and Deep House. Preview the line-up and save it on soundcheck.
+Swing Dash Xmas Party: Inland Knights + Sash [Risky Disko, Kitchen Radio] at Movers on Sat 19 Dec, Nottingham. 1 artist on the bill: Inland Knights. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

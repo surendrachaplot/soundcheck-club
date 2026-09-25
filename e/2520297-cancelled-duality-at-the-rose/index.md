@@ -1,6 +1,6 @@
 # [CANCELLED] Duality at The Rose
 
-[CANCELLED] Duality at The Rose on Thu 24 Sept, Newyorkcity. Techno and Afro House. Preview the line-up and save it on soundcheck.
+[CANCELLED] Duality at The Rose on Thu 24 Sept, New York City. Techno and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

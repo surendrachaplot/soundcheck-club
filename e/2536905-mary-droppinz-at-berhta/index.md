@@ -1,6 +1,6 @@
 # Mary Droppinz at BERHTA
 
-Mary Droppinz at BERHTA on Sat 21 Nov, Washingtondc. 1 act on the bill: Mary Droppinz. Bass and Garage. Preview the line-up and save it on soundcheck.
+Mary Droppinz at BERHTA on Sat 21 Nov, Washington DC. 1 artist on the bill: Mary Droppinz. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

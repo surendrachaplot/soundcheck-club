@@ -1,6 +1,6 @@
 # Sundays - Voigtmann, Ste Roberts, Ryan Jones at Vittoria Wharf Studio
 
-Sundays - Voigtmann, Ste Roberts, Ryan Jones at Vittoria Wharf Studio on Sun 25 Oct, London. 3 acts on the bill: Ryan Jones, Ste Roberts and Voigtmann. House and Tech House. Preview the line-up and save it on soundcheck.
+Sundays - Voigtmann, Ste Roberts, Ryan Jones at Vittoria Wharf Studio on Sun 25 Oct, London. 3 artists on the bill: Ryan Jones, Ste Roberts and Voigtmann. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

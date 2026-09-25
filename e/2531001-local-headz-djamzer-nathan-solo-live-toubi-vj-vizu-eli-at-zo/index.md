@@ -1,6 +1,6 @@
 # Local Headz: Djamzer • Nathan Solo (live) • Toubi [VJ Vizu.eli] at Zoo
 
-Local Headz: Djamzer • Nathan Solo (live) • Toubi [VJ Vizu.eli] at Zoo on Fri 2 Oct, Geneva. 3 acts on the bill: Djamzer, Nathan Solo and Toubi. Techno. Preview the line-up and save it on soundcheck.
+Local Headz: Djamzer • Nathan Solo (live) • Toubi [VJ Vizu.eli] at Zoo on Fri 2 Oct, Geneva. 3 artists on the bill: Djamzer, Nathan Solo and Toubi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

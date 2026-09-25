@@ -1,6 +1,6 @@
 # CAPTAIN VINYL at DJ Bar Bridge Shinjuku
 
-CAPTAIN VINYL at DJ Bar Bridge Shinjuku on Tue 27 Oct, Tokyo. 2 acts on the bill: DJ Nori and Muro. House. Preview the line-up and save it on soundcheck.
+CAPTAIN VINYL at DJ Bar Bridge Shinjuku on Tue 27 Oct, Tokyo. 2 artists on the bill: DJ Nori and Muro. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

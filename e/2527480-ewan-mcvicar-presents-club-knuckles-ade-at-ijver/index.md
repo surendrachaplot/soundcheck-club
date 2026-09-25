@@ -1,6 +1,6 @@
 # Ewan McVicar presents Club Knuckles ADE at Ijver
 
-Ewan McVicar presents Club Knuckles ADE at Ijver on Sat 24 Oct, Amsterdam. 5 acts on the bill: Anz, Ewan McVicar, Giulia Tess and Jasper James and 1 more. House. Preview the line-up and save it on soundcheck.
+Ewan McVicar presents Club Knuckles ADE at Ijver on Sat 24 Oct, Amsterdam. 5 artists on the bill: Anz, Ewan McVicar, Giulia Tess and Jasper James and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

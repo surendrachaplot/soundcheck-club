@@ -1,6 +1,6 @@
 # Jorp 1 Release Party at Nublu
 
-Jorp 1 Release Party at Nublu on Fri 25 Sept, Newyorkcity. House and Garage. Preview the line-up and save it on soundcheck.
+Jorp 1 Release Party at Nublu on Fri 25 Sept, New York City. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

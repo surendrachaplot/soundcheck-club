@@ -1,13 +1,14 @@
 # AnD
 
-AnD is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Eivissa Event Ship - Danzigerkade 55, Amsterdam on Fri, 23 Oct 2026.
+AnD is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cinecittà World, Rome on Sat, 17 Oct 2026.
 
-AnD is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 43 more. Often billed alongside CLTX, LESSSS and Cynthia Spiering. Next up: TBA - Eivissa Event Ship - Danzigerkade 55, Amsterdam on Fri 23 Oct.
+AnD is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 43 more. Often billed alongside CLTX, LESSSS and Cynthia Spiering. Next up: Cinecittà World, Rome on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Cinecittà World | Rome |
 | Fri, 23 Oct 2026 | TBA - Eivissa Event Ship - Danzigerkade 55 | Amsterdam |
 
 ## Recently played

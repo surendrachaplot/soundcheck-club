@@ -2,7 +2,7 @@
 
 rodman is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Japan Monterrey, Mexico City on Sat, 26 Sept 2026.
 
-rodman is a techno and electronica artist based in Mexico, tracked on soundcheck, with 53 sets logged across Ibiza and Mexicocity. Often billed alongside Seagit Arc, Fig (DYN) and IRONBOARD. Next up: Japan Monterrey, Mexicocity on Sat 26 Sept.
+rodman is a techno and electronica artist based in Mexico, tracked on soundcheck, with 53 sets logged across Ibiza and Mexico City. Often billed alongside Seagit Arc, Fig (DYN) and IRONBOARD. Next up: Japan Monterrey, Mexico City on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Yanamaste x SMUT x ALL NIGHT LONG at SMUT Athens
 
-Yanamaste x SMUT x ALL NIGHT LONG at SMUT Athens on Tue 27 Oct, Athens. 1 act on the bill: Yanamaste. Techno. Preview the line-up and save it on soundcheck.
+Yanamaste x SMUT x ALL NIGHT LONG at SMUT Athens on Tue 27 Oct, Athens. 1 artist on the bill: Yanamaste. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

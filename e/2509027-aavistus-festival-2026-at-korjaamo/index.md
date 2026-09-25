@@ -1,6 +1,6 @@
 # Aavistus Festival 2026 at Korjaamo
 
-Aavistus Festival 2026 at Korjaamo on Wed 30 Sept, Helsinki. 9 acts on the bill: Aleksi Myllykoski, DJ Aleksi, Fever Dream and Jonas Johansson and 5 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Aavistus Festival 2026 at Korjaamo on Wed 30 Sept, Helsinki. 9 artists on the bill: Aleksi Myllykoski, DJ Aleksi, Fever Dream and Jonas Johansson and 5 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

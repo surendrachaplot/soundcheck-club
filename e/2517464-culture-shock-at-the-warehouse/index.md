@@ -1,6 +1,6 @@
 # Culture Shock at The Warehouse
 
-Culture Shock at The Warehouse on Sat 7 Nov, Leeds. 1 act on the bill: Culture Shock. Preview the line-up and save it on soundcheck.
+Culture Shock at The Warehouse on Sat 7 Nov, Leeds. 1 artist on the bill: Culture Shock. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

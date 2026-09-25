@@ -1,6 +1,6 @@
 # AETHER CLOSING PT.2: THE LAST OF RAW at Aether Club Budapest
 
-AETHER CLOSING PT.2: THE LAST OF RAW at Aether Club Budapest on Sat 26 Sept, Budapest. 9 acts on the bill: Adx, Captain Knuckles, D365 and Erro and 5 more. House. Preview the line-up and save it on soundcheck.
+AETHER CLOSING PT.2: THE LAST OF RAW at Aether Club Budapest on Sat 26 Sept, Budapest. 9 artists on the bill: Adx, Captain Knuckles, D365 and Erro and 5 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

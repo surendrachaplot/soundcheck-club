@@ -1,6 +1,6 @@
 # JERD Supported by novacity at TBA - club (O)Utopos
 
-JERD Supported by novacity at TBA - club (O)Utopos on Sat 14 Nov, Chubu. 3 acts on the bill: CRAZY-T, KAITO. and niwa. Preview the line-up and save it on soundcheck.
+JERD Supported by novacity at TBA - club (O)Utopos on Sat 14 Nov, Chubu. 3 artists on the bill: CRAZY-T, KAITO. and niwa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

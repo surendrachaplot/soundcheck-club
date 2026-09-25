@@ -1,6 +1,6 @@
 # GENESI at Level 1 @ Cannonball Arts
 
-GENESI at Level 1 @ Cannonball Arts on Sat 26 Sept, Seattle. 1 act on the bill: GENESI. House. Preview the line-up and save it on soundcheck.
+GENESI at Level 1 @ Cannonball Arts on Sat 26 Sept, Seattle. 1 artist on the bill: GENESI. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

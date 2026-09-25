@@ -1,6 +1,6 @@
 # Dave Summer - presented by TOP HAUS at 3oz Dive Club
 
-Dave Summer - presented by TOP HAUS at 3oz Dive Club on Fri 23 Oct, Sandiego. Tech House. Preview the line-up and save it on soundcheck.
+Dave Summer - presented by TOP HAUS at 3oz Dive Club on Fri 23 Oct, San Diego. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

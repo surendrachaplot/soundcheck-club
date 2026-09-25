@@ -1,6 +1,6 @@
 # Dynamikos Invites at Amstelhaven
 
-Dynamikos Invites at Amstelhaven on Sat 24 Oct, Amsterdam. 1 act on the bill: Hagelslag. Tech House. Preview the line-up and save it on soundcheck.
+Dynamikos Invites at Amstelhaven on Sat 24 Oct, Amsterdam. 1 artist on the bill: Hagelslag. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Convergence at Upstairs at the 700
 
-Convergence at Upstairs at the 700 on Thu 1 Oct, Philadelphia. 3 acts on the bill: El-D (USA), Headnod and soundsofgreg. Breakbeat and Club. Preview the line-up and save it on soundcheck.
+Convergence at Upstairs at the 700 on Thu 1 Oct, Philadelphia. 3 artists on the bill: El-D (USA), Headnod and soundsofgreg. Breakbeat and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

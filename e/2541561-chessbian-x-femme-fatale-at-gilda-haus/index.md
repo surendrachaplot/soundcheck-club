@@ -1,6 +1,6 @@
 # CHESSBIAN X FEMME FATALE at Gilda Haus
 
-CHESSBIAN X FEMME FATALE at Gilda Haus on Sun 27 Sept, Madrid. 1 act on the bill: BLCKWA. Afrobeat and Reggaeton. Preview the line-up and save it on soundcheck.
+CHESSBIAN X FEMME FATALE at Gilda Haus on Sun 27 Sept, Madrid. 1 artist on the bill: BLCKWA. Afrobeat and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

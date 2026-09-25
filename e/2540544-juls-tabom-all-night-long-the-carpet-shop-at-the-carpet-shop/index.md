@@ -1,6 +1,6 @@
 # Juls - Tabom (All Night Long) - The Carpet Shop at The Carpet Shop
 
-Juls - Tabom (All Night Long) - The Carpet Shop on Fri 20 Nov, London. 1 act on the bill: Juls. Preview the line-up and save it on soundcheck.
+Juls - Tabom (All Night Long) - The Carpet Shop on Fri 20 Nov, London. 1 artist on the bill: Juls. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

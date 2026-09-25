@@ -2,7 +2,7 @@
 
 Joan Cute Sack is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at RADION, Amsterdam on Fri, 2 Oct 2026.
 
-Joan Cute Sack is a techno and baile funk artist based in Australia, tracked on soundcheck, with 7 sets logged across Amsterdam and Rotterdam. Often billed alongside Kaikaina, ADHDJ (2) and Beks. Next up: RADION, Amsterdam on Fri 2 Oct.
+Joan Cute Sack is a techno and baile funk artist based in Australia, tracked on soundcheck, with 7 sets logged across Amsterdam and Rotterdam. Often billed alongside Kaikaina, ADHDJ and Beks. Next up: RADION, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 

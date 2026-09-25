@@ -1,6 +1,6 @@
 # AEREA at Elsewhere
 
-AEREA at Elsewhere on Fri 6 Nov, Newyorkcity. 1 act on the bill: AEREA. Preview the line-up and save it on soundcheck.
+AEREA at Elsewhere on Fri 6 Nov, New York City. 1 artist on the bill: AEREA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

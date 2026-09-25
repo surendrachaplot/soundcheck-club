@@ -1,6 +1,6 @@
 # HOT GIRLS LOVE BASS at Planet Wax
 
-HOT GIRLS LOVE BASS at Planet Wax on Thu 1 Oct, London. 3 acts on the bill: Gem, Little Luce and Miggs. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
+HOT GIRLS LOVE BASS at Planet Wax on Thu 1 Oct, London. 3 artists on the bill: Gem, Little Luce and Miggs. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

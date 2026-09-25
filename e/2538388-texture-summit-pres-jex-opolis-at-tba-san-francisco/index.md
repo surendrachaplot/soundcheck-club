@@ -1,6 +1,6 @@
 # Texture Summit Pres. Jex Opolis at TBA - San Francisco
 
-Texture Summit Pres. Jex Opolis at TBA - San Francisco on Sat 24 Oct, Sanfrancisco. 1 act on the bill: Jex Opolis. House. Preview the line-up and save it on soundcheck.
+Texture Summit Pres. Jex Opolis at TBA - San Francisco on Sat 24 Oct, San Francisco/Oakland. 1 artist on the bill: Jex Opolis. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

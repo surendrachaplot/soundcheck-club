@@ -1,6 +1,6 @@
 # House Mates Invites Gux Jimenez at Timebar
 
-House Mates Invites Gux Jimenez at Timebar on Fri 25 Sept, Stockholm. 2 acts on the bill: Erik Sahl and Gux Jimenez. Progressive House and Afro House. Preview the line-up and save it on soundcheck.
+House Mates Invites Gux Jimenez at Timebar on Fri 25 Sept, Stockholm. 2 artists on the bill: Erik Sahl and Gux Jimenez. Progressive House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

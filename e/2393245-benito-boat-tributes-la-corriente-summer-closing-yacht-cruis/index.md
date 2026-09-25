@@ -1,6 +1,6 @@
 # BENITO BOAT TRIBUTES: La Corriente Summer Closing Yacht Cruise Party at Pier 78 at Hudson River Park
 
-BENITO BOAT TRIBUTES: La Corriente Summer Closing Yacht Cruise Party at Pier 78 at Hudson River Park on Sat 26 Sept, Newyorkcity. Reggaeton. Preview the line-up and save it on soundcheck.
+BENITO BOAT TRIBUTES: La Corriente Summer Closing Yacht Cruise Party at Pier 78 at Hudson River Park on Sat 26 Sept, New York City. Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Thank you thanks giving with Gogo at Cakeshop
 
-Thank you thanks giving with Gogo at Cakeshop on Thu 24 Sept, Seoul. 1 act on the bill: Ligrye. Bass and Electro. Preview the line-up and save it on soundcheck.
+Thank you thanks giving with Gogo at Cakeshop on Thu 24 Sept, Seoul. 1 artist on the bill: Ligrye. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

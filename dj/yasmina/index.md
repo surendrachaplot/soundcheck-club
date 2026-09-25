@@ -2,7 +2,7 @@
 
 YASMINA is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 16 Oct 2026.
 
-YASMINA is an afro house and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, Leipzig and Losangeles and 6 more. Often billed alongside Yasmina Sadiki, DOS (DE) and Farnozz. Next up: 1015 Folsom, Sanfrancisco on Fri 16 Oct.
+YASMINA is an afro house and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, Leipzig and Los Angeles and 6 more. Often billed alongside Yasmina Sadiki, DOS (DE) and Farnozz. Next up: 1015 Folsom, San Francisco/Oakland on Fri 16 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Public Disgrace at TBA - Neukölln
 
-Public Disgrace at TBA - Neukölln on Sun 18 Oct, Berlin. 2 acts on the bill: NiKi K and Young Divorcée. Bass and Electro. Preview the line-up and save it on soundcheck.
+Public Disgrace at TBA - Neukölln on Sun 18 Oct, Berlin. 2 artists on the bill: NiKi K and Young Divorcée. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

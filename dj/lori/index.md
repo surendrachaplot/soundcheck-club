@@ -2,7 +2,7 @@
 
 Lori (1) is a House and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Radio Radio, Amsterdam on Sat, 10 Oct 2026.
 
-Lori (1) is a house and dub artist based in Australia, tracked on soundcheck, with 21 sets logged across Amsterdam, Melbourne, Riga and Sydney and 1 more. Often billed alongside Boris Coelman, Cynthia Spiering and DJ JNETT. Next up: Radio Radio, Amsterdam on Sat 10 Oct.
+Lori is a house and dub artist based in Australia, tracked on soundcheck, with 21 sets logged across Amsterdam, Melbourne, Riga and Sydney and 1 more. Often billed alongside Boris Coelman, Cynthia Spiering and DJ JNETT. Next up: Radio Radio, Amsterdam on Sat 10 Oct.
 
 ## Upcoming shows
 

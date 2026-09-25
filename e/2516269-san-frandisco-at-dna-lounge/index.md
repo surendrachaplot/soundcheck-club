@@ -1,6 +1,6 @@
 # San Frandisco at DNA Lounge
 
-San Frandisco at DNA Lounge on Sat 26 Sept, Sanfrancisco. 2 acts on the bill: Miss Gia and Saint Triste. Techno and Garage. Preview the line-up and save it on soundcheck.
+San Frandisco at DNA Lounge on Sat 26 Sept, San Francisco/Oakland. 2 artists on the bill: Miss Gia and Saint Triste. Techno and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

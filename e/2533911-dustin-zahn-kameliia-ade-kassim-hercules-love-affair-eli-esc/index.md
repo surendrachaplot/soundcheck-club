@@ -1,6 +1,6 @@
 # Dustin Zahn / Kameliia / Ade Kassim / Hercules & Love Affair / Eli Escobar / Andi at BASEMENT
 
-Dustin Zahn / Kameliia / Ade Kassim / Hercules & Love Affair / Eli Escobar / Andi at BASEMENT on Sat 24 Oct, Newyorkcity. 6 acts on the bill: Ade Kassim, Andi, Dustin Zahn and Eli Escobar and 2 more. Preview the line-up and save it on soundcheck.
+Dustin Zahn / Kameliia / Ade Kassim / Hercules & Love Affair / Eli Escobar / Andi at BASEMENT on Sat 24 Oct, New York City. 6 artists on the bill: Ade Kassim, Andi, Dustin Zahn and Eli Escobar and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

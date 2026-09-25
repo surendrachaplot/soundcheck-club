@@ -1,6 +1,6 @@
 # Slipline with Felix Dickinson & Noizar at M.O.T
 
-Slipline with Felix Dickinson & Noizar at M.O.T on Fri 6 Nov, London. 3 acts on the bill: Felix Dickinson, Noizar and Thoughtful Ken. Techno and Electro. Preview the line-up and save it on soundcheck.
+Slipline with Felix Dickinson & Noizar at M.O.T on Fri 6 Nov, London. 3 artists on the bill: Felix Dickinson, Noizar and Thoughtful Ken. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

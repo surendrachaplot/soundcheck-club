@@ -1,6 +1,6 @@
 # Autechre at Cabaret Aléatoire at Cabaret  Aléatoire
 
-Autechre at Cabaret Aléatoire at Cabaret  Aléatoire on Tue 13 Oct, Marseille. 1 act on the bill: Autechre. IDM and Electronica. Preview the line-up and save it on soundcheck.
+Autechre at Cabaret Aléatoire at Cabaret  Aléatoire on Tue 13 Oct, Marseille. 1 artist on the bill: Autechre. IDM and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

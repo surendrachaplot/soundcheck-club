@@ -1,6 +1,6 @@
 # PTS Halloween ϟ Pearson Sound, Shannen SP at Strange Brew
 
-PTS Halloween ϟ Pearson Sound, Shannen SP at Strange Brew on Sat 31 Oct, Bristol. 4 acts on the bill: fig (4), iced lattina, Pearson Sound and Shannen SP. Bass and Club. Preview the line-up and save it on soundcheck.
+PTS Halloween ϟ Pearson Sound, Shannen SP at Strange Brew on Sat 31 Oct, Bristol. 4 artists on the bill: fig, iced lattina, Pearson Sound and Shannen SP. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

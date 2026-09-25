@@ -1,6 +1,6 @@
 # Thread the needle presents: Halloween with NOIDMATE, dj come and Leany at The Model
 
-Thread the needle presents: Halloween with NOIDMATE, dj come and Leany at The Model on Fri 30 Oct, Nottingham. 2 acts on the bill: dj come and NOIDMATE. House and Tech House. Preview the line-up and save it on soundcheck.
+Thread the needle presents: Halloween with NOIDMATE, dj come and Leany at The Model on Fri 30 Oct, Nottingham. 2 artists on the bill: dj come and NOIDMATE. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

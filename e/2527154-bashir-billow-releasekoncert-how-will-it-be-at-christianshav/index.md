@@ -1,6 +1,6 @@
 # Bashir Billow - Releasekoncert: How Will It Be at Christianshavns Beboerhus
 
-Bashir Billow - Releasekoncert: How Will It Be at Christianshavns Beboerhus on Sat 24 Oct, Copenhagen. 2 acts on the bill: KUCHULU and Suzie The Cockroach. Preview the line-up and save it on soundcheck.
+Bashir Billow - Releasekoncert: How Will It Be at Christianshavns Beboerhus on Sat 24 Oct, Copenhagen. 2 artists on the bill: KUCHULU and Suzie The Cockroach. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

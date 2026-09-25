@@ -1,6 +1,6 @@
 # 24 OCT - Thuishaven ADE Saturday Nightshow with Afterjam at Thuishaven
 
-24 OCT - Thuishaven ADE Saturday Nightshow with Afterjam on Sat 24 Oct, Amsterdam. 6 acts on the bill: Jamback, Jhobei, Laura De Greef and Marlie and 2 more. Preview the line-up and save it on soundcheck.
+24 OCT - Thuishaven ADE Saturday Nightshow with Afterjam on Sat 24 Oct, Amsterdam. 6 artists on the bill: Jamback, Jhobei, Laura De Greef and Marlie and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

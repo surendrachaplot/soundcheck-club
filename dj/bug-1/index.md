@@ -2,7 +2,7 @@
 
 Bug (1) is a Trance and New Wave artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kassa Boat, Budapest on Fri, 25 Sept 2026.
 
-Bug (1) is a trance and new wave artist based in Hungary, tracked on soundcheck, with 9 sets logged across Amsterdam, Budapest, Rotterdam and Tokyo. Often billed alongside Kiqo, baeker and Bakey. Next up: Kassa Boat, Budapest on Fri 25 Sept.
+Bug is a trance and new wave artist based in Hungary, tracked on soundcheck, with 9 sets logged across Amsterdam, Budapest, Rotterdam and Tokyo. Often billed alongside Kiqo, baeker and Bakey. Next up: Kassa Boat, Budapest on Fri 25 Sept.
 
 ## Upcoming shows
 

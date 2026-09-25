@@ -1,6 +1,6 @@
 # Carl Stone (JP) / Pablo Arrangoiz (FL) / Free Music (MN) / DJ Ladybug at Glob
 
-Carl Stone (JP) / Pablo Arrangoiz (FL) / Free Music (MN) / DJ Ladybug at Glob on Wed 14 Oct, Denver. 1 act on the bill: Carl Stone. Experimental and Noise. Preview the line-up and save it on soundcheck.
+Carl Stone (JP) / Pablo Arrangoiz (FL) / Free Music (MN) / DJ Ladybug at Glob on Wed 14 Oct, Denver. 1 artist on the bill: Carl Stone. Experimental and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

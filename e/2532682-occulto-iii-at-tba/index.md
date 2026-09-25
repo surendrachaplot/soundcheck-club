@@ -1,6 +1,6 @@
 # Occulto III at TBA
 
-Occulto III at TBA on Sat 26 Sept, Mexicocity. House and Tech House. Preview the line-up and save it on soundcheck.
+Occulto III at TBA on Sat 26 Sept, Mexico City. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

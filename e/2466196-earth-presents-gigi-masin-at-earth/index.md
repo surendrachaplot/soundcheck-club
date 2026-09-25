@@ -1,6 +1,6 @@
 # EartH presents Gigi Masin at EartH
 
-EartH presents Gigi Masin on Wed 18 Nov, London. 1 act on the bill: Gigi Masin. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
+EartH presents Gigi Masin on Wed 18 Nov, London. 1 artist on the bill: Gigi Masin. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

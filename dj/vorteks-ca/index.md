@@ -2,7 +2,7 @@
 
 Vortek's is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Warehouse, Nantes on Fri, 16 Oct 2026.
 
-Vortek's is a techno and hardcore artist based in France, tracked on soundcheck, with 25 sets logged across Antwerp, Barcelona, Brussels and Kualalumpur and 10 more. Often billed alongside CARV, Holy Priest and KARAH. Next up: Warehouse, Nantes on Fri 16 Oct.
+Vortek's is a techno and hardcore artist based in France, tracked on soundcheck, with 25 sets logged across Antwerp, Barcelona, Brussels and Kuala Lumpur and 10 more. Often billed alongside CARV, Holy Priest and KARAH. Next up: Warehouse, Nantes on Fri 16 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # GRASSROOTS - FREE First Fridays - Jungle, Jungle Tek, Breaks - 09/10/26 at Patterns
 
-GRASSROOTS - FREE First Fridays - Jungle, Jungle Tek, Breaks - 09/10/26 at Patterns on Fri 9 Oct, Brighton. 2 acts on the bill: INKY MCKAY and Vergano. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
+GRASSROOTS - FREE First Fridays - Jungle, Jungle Tek, Breaks - 09/10/26 at Patterns on Fri 9 Oct, Brighton. 2 artists on the bill: INKY MCKAY and Vergano. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

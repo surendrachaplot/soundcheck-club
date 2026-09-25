@@ -1,6 +1,6 @@
 # I.T. presents Beyond at Tangent Gallery
 
-I.T. presents Beyond at Tangent Gallery on Fri 30 Oct, Detroit. 1 act on the bill: Daniel Bell. Preview the line-up and save it on soundcheck.
+I.T. presents Beyond at Tangent Gallery on Fri 30 Oct, Detroit. 1 artist on the bill: Daniel Bell. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

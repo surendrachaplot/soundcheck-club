@@ -1,6 +1,6 @@
 # Carl Cox - CLOSING PARTY at [UNVRS]
 
-Carl Cox - CLOSING PARTY at [UNVRS] on Sun 4 Oct, Ibiza. 2 acts on the bill: Carl Cox and Melon Bomb. Techno and House. Preview the line-up and save it on soundcheck.
+Carl Cox - CLOSING PARTY at [UNVRS] on Sun 4 Oct, Ibiza. 2 artists on the bill: Carl Cox and Melon Bomb. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

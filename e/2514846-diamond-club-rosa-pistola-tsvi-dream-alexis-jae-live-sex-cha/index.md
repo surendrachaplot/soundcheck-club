@@ -1,6 +1,6 @@
 # Diamond Club: Rosa Pistola, TSVI, Dream, Alexis Jae(Live) + Sex Change at Paragon
 
-Diamond Club: Rosa Pistola, TSVI, Dream, Alexis Jae(Live) + Sex Change at Paragon on Fri 30 Oct, Newyorkcity. 7 acts on the bill: BLAIZE, DJ Delish, DREAMINSLOW and Girlypop Princess and 3 more. Club and Guaracha. Preview the line-up and save it on soundcheck.
+Diamond Club: Rosa Pistola, TSVI, Dream, Alexis Jae(Live) + Sex Change at Paragon on Fri 30 Oct, New York City. 7 artists on the bill: BLAIZE, DJ Delish, DREAMINSLOW and Girlypop Princess and 3 more. Club and Guaracha. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

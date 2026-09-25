@@ -2,7 +2,7 @@
 
 Facundo Mohrr is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Finca El Recreo, Cafayate, Salta, Buenos Aires on Sat, 10 Oct 2026.
 
-Facundo Mohrr is a deep house and house artist based in Argentina, tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Buenosaires and Denver and 13 more. Often billed alongside Lee Burridge, Tim Green and Maxi Degrassi. Next up: TBA - Finca El Recreo, Cafayate, Salta, Buenosaires on Sat 10 Oct.
+Facundo Mohrr is a deep house and house artist based in Argentina, tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Buenos Aires and Denver and 13 more. Often billed alongside Lee Burridge, Tim Green and Maxi Degrassi. Next up: TBA - Finca El Recreo, Cafayate, Salta, Buenos Aires on Sat 10 Oct.
 
 ## Upcoming shows
 

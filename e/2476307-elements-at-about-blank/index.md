@@ -1,6 +1,6 @@
 # ://elements at ://about blank
 
-://elements at ://about blank on Sat 10 Oct, Berlin. 8 acts on the bill: Biocym, Casual Treatment, Cia Rebeck and deliora and 4 more. Techno and Italo Disco. Preview the line-up and save it on soundcheck.
+://elements at ://about blank on Sat 10 Oct, Berlin. 8 artists on the bill: Biocym, Casual Treatment, Cia Rebeck and deliora and 4 more. Techno and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

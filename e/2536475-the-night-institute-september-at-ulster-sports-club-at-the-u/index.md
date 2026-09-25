@@ -1,6 +1,6 @@
 # The Night Institute: September at Ulster Sports Club at The Ulster Sports Club
 
-The Night Institute: September at Ulster Sports Club at The Ulster Sports Club on Sat 26 Sept, Belfast. 1 act on the bill: Timmy Stewart. House and Acid. Preview the line-up and save it on soundcheck.
+The Night Institute: September at Ulster Sports Club at The Ulster Sports Club on Sat 26 Sept, Belfast. 1 artist on the bill: Timmy Stewart. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

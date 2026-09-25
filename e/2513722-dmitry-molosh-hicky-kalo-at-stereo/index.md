@@ -1,6 +1,6 @@
 # Dmitry Molosh - Hicky & Kalo at Stereo
 
-Dmitry Molosh - Hicky & Kalo at Stereo on Sat 3 Oct, Montreal. 2 acts on the bill: Dmitry Molosh and Hicky & Kalo. Preview the line-up and save it on soundcheck.
+Dmitry Molosh - Hicky & Kalo at Stereo on Sat 3 Oct, Montreal. 2 artists on the bill: Dmitry Molosh and Hicky & Kalo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 livwutang is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 27 Sept 2026.
 
-livwutang is a techno and house artist based in United States of America, tracked on soundcheck, with 196 sets logged across All, Amsterdam, Barcelona and Berlin and 41 more. Often billed alongside Kia (AU), Nick León and Richard Akingbehin. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 27 Sept.
+livwutang is a techno and house artist based in United States of America, tracked on soundcheck, with 196 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 41 more. Often billed alongside Kia (AU), Nick León and Richard Akingbehin. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -15,7 +15,7 @@ livwutang is a techno and house artist based in United States of America, tracke
 | Sat, 24 Oct 2026 | Doka | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 | Sat, 7 Nov 2026 | Yamamori Tengu | Dublin |
-| Wed, 3 Mar 2027 | El Rio Hostel | All |
+| Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
 

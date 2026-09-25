@@ -2,7 +2,7 @@
 
 Dalton Taylor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Green Room NYC, New York City on Fri, 25 Sept 2026.
 
-Dalton Taylor is a techno and house artist based in South Korea, tracked on soundcheck, with 25 sets logged across Chicago, Denver, Detroit and Newyorkcity and 1 more. Often billed alongside Michelle Kay, Ramsey Neville and Adam Braiman. Next up: Green Room NYC, Newyorkcity on Fri 25 Sept.
+Dalton Taylor is a techno and house artist based in South Korea, tracked on soundcheck, with 25 sets logged across Chicago, Denver, Detroit and New York City and 1 more. Often billed alongside Michelle Kay, Ramsey Neville and Adam Braiman. Next up: Green Room NYC, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

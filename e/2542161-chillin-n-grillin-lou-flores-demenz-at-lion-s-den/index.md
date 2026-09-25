@@ -1,6 +1,6 @@
 # Chillin n Grillin: Lou Flores, demenz at Lion's Den
 
-Chillin n Grillin: Lou Flores, demenz at Lion's Den on Sun 27 Sept, Miami. 2 acts on the bill: demenz and Lou Flores. Preview the line-up and save it on soundcheck.
+Chillin n Grillin: Lou Flores, demenz at Lion's Den on Sun 27 Sept, Miami. 2 artists on the bill: demenz and Lou Flores. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

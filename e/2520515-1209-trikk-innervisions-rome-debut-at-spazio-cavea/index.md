@@ -1,6 +1,6 @@
 # 1209 Trikk (INNERVISIONS) — ROME DEBUT at Spazio Cavea
 
-1209 Trikk (INNERVISIONS) — ROME DEBUT at Spazio Cavea on Sat 26 Sept, Rome. 1 act on the bill: Trikk. Electro and Dub Techno. Preview the line-up and save it on soundcheck.
+1209 Trikk (INNERVISIONS) — ROME DEBUT at Spazio Cavea on Sat 26 Sept, Rome. 1 artist on the bill: Trikk. Electro and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

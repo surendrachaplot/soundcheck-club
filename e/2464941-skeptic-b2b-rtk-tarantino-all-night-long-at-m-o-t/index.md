@@ -1,6 +1,6 @@
 # Skeptic b2b RTK Tarantino - All Night Long at M.O.T
 
-Skeptic b2b RTK Tarantino - All Night Long at M.O.T on Fri 25 Sept, London. 2 acts on the bill: RTK Tarantino and Skeptic. Preview the line-up and save it on soundcheck.
+Skeptic b2b RTK Tarantino - All Night Long at M.O.T on Fri 25 Sept, London. 2 artists on the bill: RTK Tarantino and Skeptic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

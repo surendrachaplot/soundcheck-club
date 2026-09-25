@@ -1,6 +1,6 @@
 # NT's Loft: John Tejada & De La Reef at Night Tales Loft
 
-NT's Loft: John Tejada & De La Reef at Night Tales Loft on Sat 3 Oct, London. 2 acts on the bill: De La Reef and John Tejada. House and Tech House. Preview the line-up and save it on soundcheck.
+NT's Loft: John Tejada & De La Reef at Night Tales Loft on Sat 3 Oct, London. 2 artists on the bill: De La Reef and John Tejada. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

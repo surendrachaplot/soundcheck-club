@@ -1,6 +1,6 @@
 # NOVA 001 - First Connection at U9
 
-NOVA 001 - First Connection at U9 on Sat 3 Oct, London. 1 act on the bill: Eugeniu Arny. Techno and House. Preview the line-up and save it on soundcheck.
+NOVA 001 - First Connection at U9 on Sat 3 Oct, London. 1 artist on the bill: Eugeniu Arny. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

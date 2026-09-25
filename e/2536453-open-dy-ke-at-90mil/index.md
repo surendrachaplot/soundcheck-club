@@ -1,6 +1,6 @@
 # OPEN DY*KE at 90mil
 
-OPEN DY*KE at 90mil on Sat 26 Sept, Berlin. 4 acts on the bill: Ami Wokloni, gugol maps, Mahita and Sk [Rain]. Bass and Baile Funk. Preview the line-up and save it on soundcheck.
+OPEN DY*KE at 90mil on Sat 26 Sept, Berlin. 4 artists on the bill: Ami Wokloni, gugol maps, Mahita and Sk [Rain]. Bass and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

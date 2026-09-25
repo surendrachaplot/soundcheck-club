@@ -2,7 +2,7 @@
 
 Dany E is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Theo, Amsterdam on Fri, 25 Sept 2026.
 
-Dany E is a house and deep house artist based in Mexico, tracked on soundcheck, with 16 sets logged across Amsterdam, Ibiza, Mexicocity and Paris. Often billed alongside Barreto, Danesholme and Mejia. Next up: Bar Theo, Amsterdam on Fri 25 Sept.
+Dany E is a house and deep house artist based in Mexico, tracked on soundcheck, with 16 sets logged across Amsterdam, Ibiza, Mexico City and Paris. Often billed alongside Barreto, Danesholme and Mejia. Next up: Bar Theo, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 

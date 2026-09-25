@@ -2,7 +2,7 @@
 
 VenuX is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 28 Oct 2026.
 
-VenuX is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit and Newyorkcity. Often billed alongside ALL EXITS, CRYFXB and Paradøx. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 28 Oct.
+VenuX is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit and New York City. Often billed alongside ALL EXITS, CRYFXB and Paradøx. Next up: Bossa Nova Civic Club, New York City on Wed 28 Oct.
 
 ## Upcoming shows
 

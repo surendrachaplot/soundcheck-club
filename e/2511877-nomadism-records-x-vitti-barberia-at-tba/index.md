@@ -1,6 +1,6 @@
 # Nomadism Records x Vitti Barberia at TBA
 
-Nomadism Records x Vitti Barberia at TBA on Sat 24 Oct, Amsterdam. 2 acts on the bill: Federico Patafi and Hoani Teano. House. Preview the line-up and save it on soundcheck.
+Nomadism Records x Vitti Barberia at TBA on Sat 24 Oct, Amsterdam. 2 artists on the bill: Federico Patafi and Hoani Teano. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

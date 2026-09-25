@@ -1,6 +1,6 @@
 # Reggaeton on Houston - Latin & Reggaeton Party NYC at San Antonios
 
-Reggaeton on Houston - Latin & Reggaeton Party NYC at San Antonios on Sat 3 Oct, Newyorkcity. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
+Reggaeton on Houston - Latin & Reggaeton Party NYC at San Antonios on Sat 3 Oct, New York City. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

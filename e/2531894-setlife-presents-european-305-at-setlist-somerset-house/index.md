@@ -1,6 +1,6 @@
 # SETLIFE presents European 305 at Setlist @ Somerset House
 
-SETLIFE presents European 305 at Setlist @ Somerset House on Sat 17 Oct, London. 2 acts on the bill: European 305 and Jacinta. Afro House and Afrobeats. Preview the line-up and save it on soundcheck.
+SETLIFE presents European 305 at Setlist @ Somerset House on Sat 17 Oct, London. 2 artists on the bill: European 305 and Jacinta. Afro House and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

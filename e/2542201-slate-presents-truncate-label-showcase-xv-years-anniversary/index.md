@@ -1,6 +1,6 @@
 # SLATE presents Truncate LABEL SHOWCASE XV YEARS ANNIVERSARY at NAMA - Nuovo Anfiteatro Martesana
 
-SLATE presents Truncate LABEL SHOWCASE XV YEARS ANNIVERSARY at NAMA - Nuovo Anfiteatro Martesana on Sat 10 Oct, Milan. 7 acts on the bill: Andromeda\Unchained, ARMANDO, Elisa Bee and Hertz Collision and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+SLATE presents Truncate LABEL SHOWCASE XV YEARS ANNIVERSARY at NAMA - Nuovo Anfiteatro Martesana on Sat 10 Oct, Milan. 7 artists on the bill: Andromeda\Unchained, ARMANDO, Elisa Bee and Hertz Collision and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 𖦹 Sybil (All Night Long) at TOPP 𖦹 at renae
 
-𖦹 Sybil (All Night Long) at TOPP 𖦹 at renae on Sat 26 Sept, Manchester. 1 act on the bill: Sybil. Ambient and Dub Techno. Preview the line-up and save it on soundcheck.
+𖦹 Sybil (All Night Long) at TOPP 𖦹 at renae on Sat 26 Sept, Manchester. 1 artist on the bill: Sybil. Ambient and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

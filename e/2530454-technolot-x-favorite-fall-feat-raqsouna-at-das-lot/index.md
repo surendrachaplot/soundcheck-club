@@ -1,6 +1,6 @@
 # TECHNOLOT x FAVORITE FALL feat. Raqsouna at Das Lot
 
-TECHNOLOT x FAVORITE FALL feat. Raqsouna at Das Lot on Sat 26 Sept, Vienna. 1 act on the bill: DIA (GER). Preview the line-up and save it on soundcheck.
+TECHNOLOT x FAVORITE FALL feat. Raqsouna at Das Lot on Sat 26 Sept, Vienna. 1 artist on the bill: DIA (GER). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

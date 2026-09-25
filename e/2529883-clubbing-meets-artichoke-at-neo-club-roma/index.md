@@ -1,6 +1,6 @@
 # clubbing meets ARTICHOKE at NEO CLUB ROMA
 
-clubbing meets ARTICHOKE at NEO CLUB ROMA on Sat 3 Oct, Rome. 1 act on the bill: Mike Steva. House and Club. Preview the line-up and save it on soundcheck.
+clubbing meets ARTICHOKE at NEO CLUB ROMA on Sat 3 Oct, Rome. 1 artist on the bill: Mike Steva. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

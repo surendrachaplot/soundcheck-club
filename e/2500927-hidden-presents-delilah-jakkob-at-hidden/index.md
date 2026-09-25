@@ -1,6 +1,6 @@
 # Hidden presents: Delilah, Jakkob at Hidden
 
-Hidden presents: Delilah, Jakkob on Sat 3 Oct, Manchester. 2 acts on the bill: Delilah and Jakkob. Garage and Tech House. Preview the line-up and save it on soundcheck.
+Hidden presents: Delilah, Jakkob on Sat 3 Oct, Manchester. 2 artists on the bill: Delilah and Jakkob. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

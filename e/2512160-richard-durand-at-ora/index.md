@@ -1,6 +1,6 @@
 # Richard Durand at Ora
 
-Richard Durand at Ora on Fri 25 Sept, Seattle. 1 act on the bill: Richard Durand. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Richard Durand at Ora on Fri 25 Sept, Seattle. 1 artist on the bill: Richard Durand. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

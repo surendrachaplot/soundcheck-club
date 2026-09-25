@@ -1,6 +1,6 @@
 # VBX - Lofi - ADE 23.10 at Lofi
 
-VBX - Lofi - ADE 23.10 on Fri 23 Oct, Amsterdam. 7 acts on the bill: Christian AB, Dresden, E.LINA and Francesco Del Garda and 3 more. Preview the line-up and save it on soundcheck.
+VBX - Lofi - ADE 23.10 on Fri 23 Oct, Amsterdam. 7 artists on the bill: Christian AB, Dresden, E.LINA and Francesco Del Garda and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

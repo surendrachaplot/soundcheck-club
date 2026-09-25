@@ -1,6 +1,6 @@
 # Pharos (DJ Set) at Sneaky Pete's
 
-Pharos (DJ Set) at Sneaky Pete's on Wed 21 Oct, Edinburgh. 1 act on the bill: LOVELL. Electronica. Preview the line-up and save it on soundcheck.
+Pharos (DJ Set) at Sneaky Pete's on Wed 21 Oct, Edinburgh. 1 artist on the bill: LOVELL. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

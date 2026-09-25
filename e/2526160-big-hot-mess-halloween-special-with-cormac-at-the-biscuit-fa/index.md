@@ -1,6 +1,6 @@
 # BIG HOT MESS Halloween Special with Cormac at The Biscuit Factory
 
-BIG HOT MESS Halloween Special with Cormac at The Biscuit Factory on Fri 30 Oct, Edinburgh. 2 acts on the bill: Cormac and Simonotron. House and Italo Disco. Preview the line-up and save it on soundcheck.
+BIG HOT MESS Halloween Special with Cormac at The Biscuit Factory on Fri 30 Oct, Edinburgh. 2 artists on the bill: Cormac and Simonotron. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

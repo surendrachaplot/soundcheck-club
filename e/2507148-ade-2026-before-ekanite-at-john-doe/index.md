@@ -1,6 +1,6 @@
 # ADE 2026 - BEFORE × EKANITE at John Doe
 
-ADE 2026 - BEFORE × EKANITE at John Doe on Fri 23 Oct, Amsterdam. 1 act on the bill: GAB (ES). Techno. Preview the line-up and save it on soundcheck.
+ADE 2026 - BEFORE × EKANITE at John Doe on Fri 23 Oct, Amsterdam. 1 artist on the bill: GAB (ES). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

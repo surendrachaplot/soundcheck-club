@@ -1,6 +1,6 @@
 # Daphni [open-to-close] at Flash
 
-Daphni [open-to-close] at Flash on Thu 24 Sept, Washingtondc. 1 act on the bill: Daphni. House and Tech House. Preview the line-up and save it on soundcheck.
+Daphni [open-to-close] at Flash on Thu 24 Sept, Washington DC. 1 artist on the bill: Daphni. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

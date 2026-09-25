@@ -1,6 +1,6 @@
 # Kin - Alex Coly • nik-ey • Travis Allen • Violet at Radio Radio
 
-Kin - Alex Coly • nik-ey • Travis Allen • Violet at Radio Radio on Thu 24 Sept, Amsterdam. 3 acts on the bill: Alex Coly, nik-ey and Travis Allen. House and Deep House. Preview the line-up and save it on soundcheck.
+Kin - Alex Coly • nik-ey • Travis Allen • Violet at Radio Radio on Thu 24 Sept, Amsterdam. 3 artists on the bill: Alex Coly, nik-ey and Travis Allen. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

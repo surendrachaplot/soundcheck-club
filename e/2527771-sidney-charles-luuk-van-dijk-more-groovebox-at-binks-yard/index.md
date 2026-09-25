@@ -1,6 +1,6 @@
 # Sidney Charles, Luuk van Dijk + MORE - Groovebox at Binks Yard
 
-Sidney Charles, Luuk van Dijk + MORE - Groovebox at Binks Yard on Sat 26 Sept, Nottingham. 3 acts on the bill: Luuk van Dijk, RUZE and Sidney Charles. Tech House. Preview the line-up and save it on soundcheck.
+Sidney Charles, Luuk van Dijk + MORE - Groovebox at Binks Yard on Sat 26 Sept, Nottingham. 3 artists on the bill: Luuk van Dijk, RUZE and Sidney Charles. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BUTTER vol.2 with DJ BASS, LEA, SEVERINO, SOPHIA ZOE at Xolo
 
-BUTTER vol.2 with DJ BASS, LEA, SEVERINO, SOPHIA ZOE at Xolo on Sat 10 Oct, Munich. 1 act on the bill: DJ BASS. House and Tech House. Preview the line-up and save it on soundcheck.
+BUTTER vol.2 with DJ BASS, LEA, SEVERINO, SOPHIA ZOE at Xolo on Sat 10 Oct, Munich. 1 artist on the bill: DJ BASS. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

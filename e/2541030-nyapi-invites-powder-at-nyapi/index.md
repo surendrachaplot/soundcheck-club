@@ -1,6 +1,6 @@
 # Nyapi invites Powder at Nyapi
 
-Nyapi invites Powder on Fri 25 Sept, Seoul. 2 acts on the bill: Kugel and Powder. Preview the line-up and save it on soundcheck.
+Nyapi invites Powder on Fri 25 Sept, Seoul. 2 artists on the bill: Kugel and Powder. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

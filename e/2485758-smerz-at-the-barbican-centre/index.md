@@ -1,6 +1,6 @@
 # Smerz at The Barbican Centre
 
-Smerz at The Barbican Centre on Thu 15 Oct, London. 1 act on the bill: Smerz. Preview the line-up and save it on soundcheck.
+Smerz at The Barbican Centre on Thu 15 Oct, London. 1 artist on the bill: Smerz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

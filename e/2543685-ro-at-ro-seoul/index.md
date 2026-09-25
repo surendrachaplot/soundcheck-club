@@ -1,6 +1,6 @@
 # Ro at RO Seoul
 
-Ro at RO Seoul on Sat 26 Sept, Seoul. 1 act on the bill: RAILROAD MAN. Preview the line-up and save it on soundcheck.
+Ro at RO Seoul on Sat 26 Sept, Seoul. 1 artist on the bill: RAILROAD MAN. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

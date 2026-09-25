@@ -1,6 +1,6 @@
 # Underground Playground: Dave Angel at WaterBear Venue
 
-Underground Playground: Dave Angel at WaterBear Venue on Sat 3 Oct, Brighton. 1 act on the bill: Dave Angel. Techno and Acid. Preview the line-up and save it on soundcheck.
+Underground Playground: Dave Angel at WaterBear Venue on Sat 3 Oct, Brighton. 1 artist on the bill: Dave Angel. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

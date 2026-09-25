@@ -1,6 +1,6 @@
 # Merino (all night long) at LAUT
 
-Merino (all night long) at LAUT on Fri 30 Oct, Barcelona. 1 act on the bill: Merino. Techno and Club. Preview the line-up and save it on soundcheck.
+Merino (all night long) at LAUT on Fri 30 Oct, Barcelona. 1 artist on the bill: Merino. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # abysmo x footwork club bcn: usermame  + AG + Ale Kaldas b2b Kaidara + Titi Calor + Mujipuki at Meteoro
 
-abysmo x footwork club bcn: usermame  + AG + Ale Kaldas b2b Kaidara + Titi Calor + Mujipuki at Meteoro on Sat 10 Oct, Barcelona. 4 acts on the bill: AG (1), Kaidara, Mujipuki and Titi Calor. Footwork and Ghetto Tech. Preview the line-up and save it on soundcheck.
+abysmo x footwork club bcn: usermame  + AG + Ale Kaldas b2b Kaidara + Titi Calor + Mujipuki at Meteoro on Sat 10 Oct, Barcelona. 4 artists on the bill: AG, Kaidara, Mujipuki and Titi Calor. Footwork and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

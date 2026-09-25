@@ -1,6 +1,6 @@
 # Juany Bravo at BCM
 
-Juany Bravo at BCM on Fri 25 Sept, Mallorca. 1 act on the bill: Juany Bravo. House and Latin Bass. Preview the line-up and save it on soundcheck.
+Juany Bravo at BCM on Fri 25 Sept, Mallorca. 1 artist on the bill: Juany Bravo. House and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

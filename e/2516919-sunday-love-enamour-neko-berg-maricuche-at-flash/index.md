@@ -1,6 +1,6 @@
 # Sunday Love: Enamour - Neko Berg - Maricuche at Flash
 
-Sunday Love: Enamour - Neko Berg - Maricuche at Flash on Sun 11 Oct, Washingtondc. 2 acts on the bill: Enamour and Neko Berg. Progressive House and House. Preview the line-up and save it on soundcheck.
+Sunday Love: Enamour - Neko Berg - Maricuche at Flash on Sun 11 Oct, Washington DC. 2 artists on the bill: Enamour and Neko Berg. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

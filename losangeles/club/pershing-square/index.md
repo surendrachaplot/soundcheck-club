@@ -2,7 +2,7 @@
 
 Pershing Square is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "All Day I Dream Of Los Angeles" on Sat, 3 Oct 2026.
 
-Pershing Square is a music venue in Losangeles listed on soundcheck. 1 upcoming gig, with line-ups including Anton Tumas, Birds of Mind, Lee Burridge and Parallelle and 1 more. Browse upcoming dates, start times and who's playing. 532 S Olive Street, Los Angeles, CA 90013, USA.
+Pershing Square is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Anton Tumas, Birds of Mind, Lee Burridge and Parallelle and 1 more. Browse upcoming dates, start times and who's playing. 532 S Olive Street, Los Angeles, CA 90013, USA.
 
 ## What's on
 

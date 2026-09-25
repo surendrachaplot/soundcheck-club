@@ -1,6 +1,6 @@
 # Tengu presents: Prozak's Residency with Papa Nugs & A For Alpha at Yamamori Tengu
 
-Tengu presents: Prozak's Residency with Papa Nugs & A For Alpha at Yamamori Tengu on Fri 30 Oct, Dublin. 3 acts on the bill: A For Alpha, Papa Nugs and Prozak (IRL). Breakbeat and Garage. Preview the line-up and save it on soundcheck.
+Tengu presents: Prozak's Residency with Papa Nugs & A For Alpha at Yamamori Tengu on Fri 30 Oct, Dublin. 3 artists on the bill: A For Alpha, Papa Nugs and Prozak (IRL). Breakbeat and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

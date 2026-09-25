@@ -1,6 +1,6 @@
 # Origins x Small Talk: Alex Kassian & Sinéad at Palais
 
-Origins x Small Talk: Alex Kassian & Sinéad at Palais on Fri 9 Oct, London. 2 acts on the bill: Alex Kassian and Sinéad. Preview the line-up and save it on soundcheck.
+Origins x Small Talk: Alex Kassian & Sinéad at Palais on Fri 9 Oct, London. 2 artists on the bill: Alex Kassian and Sinéad. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

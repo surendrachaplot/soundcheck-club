@@ -2,7 +2,7 @@
 
 Heavy Sick Zero is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "すえぽんリリパ感謝祭" on Sat, 26 Sept 2026.
 
-Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including ato夢, HOBOBRAZIL, KOTARO (2) and MDMC and 2 more. Browse upcoming dates, start times and who's playing. 5-41-8, Nakano-ku Nakano, Tokyo.
+Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including ato夢, HOBOBRAZIL, KOTARO and MDMC and 2 more. Browse upcoming dates, start times and who's playing. 5-41-8, Nakano-ku Nakano, Tokyo.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # SWEDM - The Great Northern at The Great Northern
 
-SWEDM - The Great Northern on Thu 29 Oct, Sanfrancisco. Trance and House. Preview the line-up and save it on soundcheck.
+SWEDM - The Great Northern on Thu 29 Oct, San Francisco/Oakland. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

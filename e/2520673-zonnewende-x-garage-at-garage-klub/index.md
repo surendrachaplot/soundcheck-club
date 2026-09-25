@@ -1,6 +1,6 @@
 # ZONNEWENDE x GARAGE at Garage Klub
 
-ZONNEWENDE x GARAGE at Garage Klub on Fri 9 Oct, Antwerp. 6 acts on the bill: Diffrent, Geheimzinnig Soundsystem, Girls Don't Sync and kneiz and 2 more. Preview the line-up and save it on soundcheck.
+ZONNEWENDE x GARAGE at Garage Klub on Fri 9 Oct, Antwerp. 6 artists on the bill: Diffrent, Geheimzinnig Soundsystem, Girls Don't Sync and kneiz and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

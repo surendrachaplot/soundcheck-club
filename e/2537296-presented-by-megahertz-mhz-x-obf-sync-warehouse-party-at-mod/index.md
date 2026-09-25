@@ -1,6 +1,6 @@
 # presented by MEGAHERTZ: MHZ X Obf Sync Warehouse party at Modeci
 
-presented by MEGAHERTZ: MHZ X Obf Sync Warehouse party at Modeci on Sun 4 Oct, Seoul. 2 acts on the bill: BASKERVILLE and Go Dam. Preview the line-up and save it on soundcheck.
+presented by MEGAHERTZ: MHZ X Obf Sync Warehouse party at Modeci on Sun 4 Oct, Seoul. 2 artists on the bill: BASKERVILLE and Go Dam. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

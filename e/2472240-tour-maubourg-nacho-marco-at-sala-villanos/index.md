@@ -1,6 +1,6 @@
 # Tour-Maubourg + Nacho Marco at Sala Villanos
 
-Tour-Maubourg + Nacho Marco at Sala Villanos on Sat 3 Oct, Madrid. 2 acts on the bill: Nacho Marco and Tour-Maubourg. Electronica. Preview the line-up and save it on soundcheck.
+Tour-Maubourg + Nacho Marco at Sala Villanos on Sat 3 Oct, Madrid. 2 artists on the bill: Nacho Marco and Tour-Maubourg. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TUNNEL FRIDAY at Aoyama Tunnel
 
-TUNNEL FRIDAY at Aoyama Tunnel on Fri 25 Sept, Tokyo. 2 acts on the bill: HEAVEN and Max Essa. Techno and House. Preview the line-up and save it on soundcheck.
+TUNNEL FRIDAY at Aoyama Tunnel on Fri 25 Sept, Tokyo. 2 artists on the bill: HEAVEN and Max Essa. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

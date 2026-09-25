@@ -1,6 +1,6 @@
 # Buit: Kinetic + oma totem at LAUT
 
-Buit: Kinetic + oma totem at LAUT on Fri 9 Oct, Barcelona. 2 acts on the bill: Kinetic (2) and oma totem. Techno and Electro. Preview the line-up and save it on soundcheck.
+Buit: Kinetic + oma totem at LAUT on Fri 9 Oct, Barcelona. 2 artists on the bill: Kinetic and oma totem. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

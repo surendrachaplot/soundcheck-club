@@ -1,6 +1,6 @@
 # KIMYO Night Invites: Yonti ( Berlin ) at Faust
 
-KIMYO Night Invites: Yonti ( Berlin ) at Faust on Sun 4 Oct, Seoul. 6 acts on the bill: Mars Parck, NUSNOOM, TYSN and Uni (3) and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+KIMYO Night Invites: Yonti ( Berlin ) at Faust on Sun 4 Oct, Seoul. 6 artists on the bill: Mars Parck, NUSNOOM, TYSN and Uni and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

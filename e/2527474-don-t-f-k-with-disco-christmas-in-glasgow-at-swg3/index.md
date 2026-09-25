@@ -1,6 +1,6 @@
 # Don't F**k with Disco - Christmas in Glasgow at SWG3
 
-Don't F**k with Disco - Christmas in Glasgow at SWG3 on Fri 11 Dec, Glasgow. 1 act on the bill: Don't F**k with Disco. House and Disco. Preview the line-up and save it on soundcheck.
+Don't F**k with Disco - Christmas in Glasgow at SWG3 on Fri 11 Dec, Glasgow. 1 artist on the bill: Don't F**k with Disco. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

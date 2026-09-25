@@ -1,6 +1,6 @@
 # Sketch Music Takeover - ADE Boat Party at TBA - Eivissa Event Ship - Danzigerkade 55
 
-Sketch Music Takeover - ADE Boat Party at TBA - Eivissa Event Ship - Danzigerkade 55 on Fri 23 Oct, Amsterdam. 2 acts on the bill: AnD and HGods. Techno. Preview the line-up and save it on soundcheck.
+Sketch Music Takeover - ADE Boat Party at TBA - Eivissa Event Ship - Danzigerkade 55 on Fri 23 Oct, Amsterdam. 2 artists on the bill: AnD and HGods. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

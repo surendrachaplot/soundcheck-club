@@ -1,6 +1,6 @@
 # Exquisite Corpse 06 at Vespers Club
 
-Exquisite Corpse 06 at Vespers Club on Sat 31 Oct, London. 9 acts on the bill: AAKAARA, DELARA, Jane Darke and JON KRIEGER and 5 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Exquisite Corpse 06 at Vespers Club on Sat 31 Oct, London. 9 artists on the bill: AAKAARA, DELARA, Jane Darke and JON KRIEGER and 5 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

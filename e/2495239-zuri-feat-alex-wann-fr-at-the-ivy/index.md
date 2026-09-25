@@ -1,6 +1,6 @@
 # ZURI feat. Alex Wann (FR) at The Ivy
 
-ZURI feat. Alex Wann (FR) at The Ivy on Sat 10 Oct, Sydney. 2 acts on the bill: Alex Wann and Maison Ware. House and Afro House. Preview the line-up and save it on soundcheck.
+ZURI feat. Alex Wann (FR) at The Ivy on Sat 10 Oct, Sydney. 2 artists on the bill: Alex Wann and Maison Ware. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

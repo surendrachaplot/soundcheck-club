@@ -1,6 +1,6 @@
 # HOUSE HAFLA - EP.05 at Buddies in Bad Times
 
-HOUSE HAFLA - EP.05 at Buddies in Bad Times on Sat 26 Sept, Toronto. 3 acts on the bill: Rami Nassif, Sandwavv and Shen (2). House and Electronica. Preview the line-up and save it on soundcheck.
+HOUSE HAFLA - EP.05 at Buddies in Bad Times on Sat 26 Sept, Toronto. 3 artists on the bill: Rami Nassif, Sandwavv and Shen. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

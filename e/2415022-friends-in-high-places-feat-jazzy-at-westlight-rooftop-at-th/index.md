@@ -1,6 +1,6 @@
 # Friends In High Places feat. Jazzy at Westlight Rooftop at The William Vale
 
-Friends In High Places feat. Jazzy at Westlight Rooftop at The William Vale on Fri 2 Oct, Newyorkcity. Deep House. Preview the line-up and save it on soundcheck.
+Friends In High Places feat. Jazzy at Westlight Rooftop at The William Vale on Fri 2 Oct, New York City. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

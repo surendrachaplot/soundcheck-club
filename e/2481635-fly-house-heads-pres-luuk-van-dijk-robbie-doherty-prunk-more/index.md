@@ -1,6 +1,6 @@
 # FLY - House Heads pres. Luuk van Dijk, Robbie Doherty & Prunk + more at SWG3
 
-FLY - House Heads pres. Luuk van Dijk, Robbie Doherty & Prunk + more at SWG3 on Fri 25 Sept, Glasgow. 3 acts on the bill: Luuk van Dijk, Prunk and Robbie Doherty. House. Preview the line-up and save it on soundcheck.
+FLY - House Heads pres. Luuk van Dijk, Robbie Doherty & Prunk + more at SWG3 on Fri 25 Sept, Glasgow. 3 artists on the bill: Luuk van Dijk, Prunk and Robbie Doherty. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

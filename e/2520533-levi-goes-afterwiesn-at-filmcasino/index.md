@@ -1,6 +1,6 @@
 # LEVI goes Afterwiesn' at Filmcasino
 
-LEVI goes Afterwiesn' at Filmcasino on Fri 2 Oct, Munich. 1 act on the bill: Levi (AU). Deep House and Afro House. Preview the line-up and save it on soundcheck.
+LEVI goes Afterwiesn' at Filmcasino on Fri 2 Oct, Munich. 1 artist on the bill: Levi (AU). Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

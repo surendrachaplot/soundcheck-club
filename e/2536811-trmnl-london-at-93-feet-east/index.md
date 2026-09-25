@@ -1,6 +1,6 @@
 # TRMNL London at 93 Feet East
 
-TRMNL London at 93 Feet East on Sat 17 Oct, London. 4 acts on the bill: Alexandria, Jordan Masters, Us Two and VITO (UK). House and Tech House. Preview the line-up and save it on soundcheck.
+TRMNL London at 93 Feet East on Sat 17 Oct, London. 4 artists on the bill: Alexandria, Jordan Masters, Us Two and VITO (UK). House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

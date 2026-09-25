@@ -1,6 +1,6 @@
 # TOFFLER presents Chico Rose and friends at Toffler
 
-TOFFLER presents Chico Rose and friends at Toffler on Sat 10 Oct, Rotterdam. 1 act on the bill: Jurgen Booi. Tech House. Preview the line-up and save it on soundcheck.
+TOFFLER presents Chico Rose and friends at Toffler on Sat 10 Oct, Rotterdam. 1 artist on the bill: Jurgen Booi. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nicco Lupen (IT) at Bar v Krymský
 
-Nicco Lupen (IT) at Bar v Krymský on Thu 1 Oct, Prague. 1 act on the bill: Nicco Lupen. House. Preview the line-up and save it on soundcheck.
+Nicco Lupen (IT) at Bar v Krymský on Thu 1 Oct, Prague. 1 artist on the bill: Nicco Lupen. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

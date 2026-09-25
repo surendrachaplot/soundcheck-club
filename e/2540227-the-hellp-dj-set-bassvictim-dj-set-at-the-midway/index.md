@@ -1,6 +1,6 @@
 # The Hellp (DJ Set) & Bassvictim (DJ Set) at The Midway
 
-The Hellp (DJ Set) & Bassvictim (DJ Set) at The Midway on Fri 25 Sept, Sanfrancisco. 1 act on the bill: Bassvictim. Preview the line-up and save it on soundcheck.
+The Hellp (DJ Set) & Bassvictim (DJ Set) at The Midway on Fri 25 Sept, San Francisco/Oakland. 1 artist on the bill: Bassvictim. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

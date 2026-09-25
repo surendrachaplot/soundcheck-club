@@ -2,7 +2,7 @@
 
 Avi Loud is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club Catwalk, Los Angeles on Fri, 25 Sept 2026.
 
-Avi Loud is a house and club artist based in United States of America, tracked on soundcheck, with 47 sets logged across Chicago, Losangeles, Newyorkcity and Sandiego and 2 more. Often billed alongside Liano, Oak City Slums and Andy Oro. Next up: Club Catwalk, Losangeles on Fri 25 Sept.
+Avi Loud is a house and club artist based in United States of America, tracked on soundcheck, with 47 sets logged across Chicago, Los Angeles, New York City and San Diego and 2 more. Often billed alongside Liano, Oak City Slums and Andy Oro. Next up: Club Catwalk, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

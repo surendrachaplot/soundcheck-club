@@ -2,7 +2,7 @@
 
 GIØ (1) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 2 Oct 2026.
 
-GIØ (1) is a techno and trance artist based in Italy, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 13 more. Often billed alongside KUKO, Adrian Mills and HUMAN ERROR. Next up: Lokschuppen Berlin, Berlin on Fri 2 Oct.
+GIØ is a techno and trance artist based in Italy, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 13 more. Often billed alongside KUKO, Adrian Mills and HUMAN ERROR. Next up: Lokschuppen Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 

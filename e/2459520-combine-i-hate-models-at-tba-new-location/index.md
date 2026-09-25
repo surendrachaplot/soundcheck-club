@@ -1,6 +1,6 @@
 # Combine: I Hate Models at TBA - New location
 
-Combine: I Hate Models at TBA - New location on Fri 13 Nov, Toronto. 2 acts on the bill: BUYMEFLOVVERS and I Hate Models. Techno. Preview the line-up and save it on soundcheck.
+Combine: I Hate Models at TBA - New location on Fri 13 Nov, Toronto. 2 artists on the bill: BUYMEFLOVVERS and I Hate Models. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Polka Dot Disco Club x Relentless LOCAL: Halloween ᜊ(°-°)ᜊ at The Art School
 
-Polka Dot Disco Club x Relentless LOCAL: Halloween ᜊ(°-°)ᜊ at The Art School on Sat 31 Oct, Glasgow. 2 acts on the bill: Frankie Elyse and Olympe4000. Club and Electronica. Preview the line-up and save it on soundcheck.
+Polka Dot Disco Club x Relentless LOCAL: Halloween ᜊ(°-°)ᜊ at The Art School on Sat 31 Oct, Glasgow. 2 artists on the bill: Frankie Elyse and Olympe4000. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

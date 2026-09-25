@@ -1,6 +1,6 @@
 # Rhythmwerx W/ Joe Gosling, Means&3rd & Will A at Eastern Bloc Records
 
-Rhythmwerx W/ Joe Gosling, Means&3rd & Will A at Eastern Bloc Records on Sat 26 Sept, Manchester. 3 acts on the bill: Joe Gosling, Means&3rd and Will A. Techno and Acid. Preview the line-up and save it on soundcheck.
+Rhythmwerx W/ Joe Gosling, Means&3rd & Will A at Eastern Bloc Records on Sat 26 Sept, Manchester. 3 artists on the bill: Joe Gosling, Means&3rd and Will A. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

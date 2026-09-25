@@ -1,6 +1,6 @@
 # Index: Kepler at Index
 
-Index: Kepler on Sat 26 Sept, Dublin. 2 acts on the bill: Jake Fitz and Kepler. Electronica. Preview the line-up and save it on soundcheck.
+Index: Kepler on Sat 26 Sept, Dublin. 2 artists on the bill: Jake Fitz and Kepler. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

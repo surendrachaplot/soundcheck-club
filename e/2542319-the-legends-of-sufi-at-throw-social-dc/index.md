@@ -1,6 +1,6 @@
 # THE LEGENDS OF SUFI at Throw Social DC
 
-THE LEGENDS OF SUFI at Throw Social DC on Fri 30 Oct, Washingtondc. Classical and Club. Preview the line-up and save it on soundcheck.
+THE LEGENDS OF SUFI at Throw Social DC on Fri 30 Oct, Washington DC. Classical and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

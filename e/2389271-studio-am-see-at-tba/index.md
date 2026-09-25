@@ -1,6 +1,6 @@
 # Studio am See at TBA
 
-Studio am See at TBA on Sat 26 Sept, Cologne. 1 act on the bill: WOODKIN. Preview the line-up and save it on soundcheck.
+Studio am See at TBA on Sat 26 Sept, Cologne. 1 artist on the bill: WOODKIN. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

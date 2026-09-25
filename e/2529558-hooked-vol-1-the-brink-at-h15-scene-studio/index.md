@@ -1,6 +1,6 @@
 # HOOKED Vol. 1: The Brink at H15 Scene & Studio
 
-HOOKED Vol. 1: The Brink at H15 Scene & Studio on Sat 10 Oct, Copenhagen. 3 acts on the bill: DBADJO, octavate and Redemptive. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+HOOKED Vol. 1: The Brink at H15 Scene & Studio on Sat 10 Oct, Copenhagen. 3 artists on the bill: DBADJO, octavate and Redemptive. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

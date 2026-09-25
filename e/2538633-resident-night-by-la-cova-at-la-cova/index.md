@@ -1,6 +1,6 @@
 # Resident Night by La Cova at La Cova
 
-Resident Night by La Cova on Sat 26 Sept, Hamburg. 2 acts on the bill: doesn't matter (2) and TMB (1). Techno. Preview the line-up and save it on soundcheck.
+Resident Night by La Cova on Sat 26 Sept, Hamburg. 2 artists on the bill: doesn't matter and TMB. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

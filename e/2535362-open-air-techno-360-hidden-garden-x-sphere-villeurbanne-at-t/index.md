@@ -1,6 +1,6 @@
 # OPEN AIR TECHNO 360° - HIDDEN GARDEN x SPHERE - VILLEURBANNE at TBA - PARC DE LA COMMUNE DE PARIS 
 
-OPEN AIR TECHNO 360° - HIDDEN GARDEN x SPHERE - VILLEURBANNE at TBA - PARC DE LA COMMUNE DE PARIS  on Sat 10 Oct, Lyon. 1 act on the bill: Messina. Techno. Preview the line-up and save it on soundcheck.
+OPEN AIR TECHNO 360° - HIDDEN GARDEN x SPHERE - VILLEURBANNE at TBA - PARC DE LA COMMUNE DE PARIS  on Sat 10 Oct, Lyon. 1 artist on the bill: Messina. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

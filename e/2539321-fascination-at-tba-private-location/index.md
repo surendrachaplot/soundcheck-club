@@ -1,6 +1,6 @@
 # FASCINATION at TBA - Private Location
 
-FASCINATION at TBA - Private Location on Sun 25 Oct, Newyorkcity. 2 acts on the bill: Bella Mode and estro. Techno and Electro. Preview the line-up and save it on soundcheck.
+FASCINATION at TBA - Private Location on Sun 25 Oct, New York City. 2 artists on the bill: Bella Mode and estro. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

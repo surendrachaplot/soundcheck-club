@@ -1,6 +1,6 @@
 # ABANDONED FACTORY RESIDENTS VINYL-ONLY NIGHT at Sensorium
 
-ABANDONED FACTORY RESIDENTS VINYL-ONLY NIGHT at Sensorium on Fri 9 Oct, Berlin. 6 acts on the bill: ESSMEE, KLEYN, menicx and NYCTO and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+ABANDONED FACTORY RESIDENTS VINYL-ONLY NIGHT at Sensorium on Fri 9 Oct, Berlin. 6 artists on the bill: ESSMEE, KLEYN, menicx and NYCTO and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

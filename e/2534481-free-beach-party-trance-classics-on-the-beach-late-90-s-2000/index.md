@@ -1,6 +1,6 @@
 # FREE BEACH PARTY: Trance Classics On The Beach (Late 90's/2000's Uplifting Trance) at Almar Beach Club
 
-FREE BEACH PARTY: Trance Classics On The Beach (Late 90's/2000's Uplifting Trance) at Almar Beach Club on Fri 25 Sept, Barcelona. 2 acts on the bill: HAY:LI and Pj Winterman. Trance. Preview the line-up and save it on soundcheck.
+FREE BEACH PARTY: Trance Classics On The Beach (Late 90's/2000's Uplifting Trance) at Almar Beach Club on Fri 25 Sept, Barcelona. 2 artists on the bill: HAY:LI and Pj Winterman. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

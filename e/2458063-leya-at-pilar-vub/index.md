@@ -1,6 +1,6 @@
 # LEYA at Pilar - VUB
 
-LEYA at Pilar - VUB on Tue 29 Sept, Brussels. 1 act on the bill: LEYA. Preview the line-up and save it on soundcheck.
+LEYA at Pilar - VUB on Tue 29 Sept, Brussels. 1 artist on the bill: LEYA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

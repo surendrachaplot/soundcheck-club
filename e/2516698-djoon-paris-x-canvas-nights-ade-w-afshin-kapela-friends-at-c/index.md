@@ -1,6 +1,6 @@
 # Djoon Paris x Canvas Nights [ADE] w/ Afshin - Kapela & friends at Canvas
 
-Djoon Paris x Canvas Nights [ADE] w/ Afshin - Kapela & friends on Fri 23 Oct, Amsterdam. 2 acts on the bill: Afshin and Kapela. Disco and Afro House. Preview the line-up and save it on soundcheck.
+Djoon Paris x Canvas Nights [ADE] w/ Afshin - Kapela & friends on Fri 23 Oct, Amsterdam. 2 artists on the bill: Afshin and Kapela. Disco and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

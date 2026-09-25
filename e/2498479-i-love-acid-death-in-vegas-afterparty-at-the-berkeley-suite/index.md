@@ -1,6 +1,6 @@
 # I Love Acid - Death In Vegas Afterparty at The Berkeley Suite
 
-I Love Acid - Death In Vegas Afterparty at The Berkeley Suite on Fri 16 Oct, Glasgow. 3 acts on the bill: Dixon Avenue Basement Jams, Posthuman and Richard Fearless. Acid. Preview the line-up and save it on soundcheck.
+I Love Acid - Death In Vegas Afterparty at The Berkeley Suite on Fri 16 Oct, Glasgow. 3 artists on the bill: Dixon Avenue Basement Jams, Posthuman and Richard Fearless. Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

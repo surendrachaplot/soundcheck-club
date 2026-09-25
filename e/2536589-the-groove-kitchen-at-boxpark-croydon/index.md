@@ -1,6 +1,6 @@
 # THE GROOVE KITCHEN at Boxpark Croydon
 
-THE GROOVE KITCHEN at Boxpark Croydon on Wed 21 Oct, London. 2 acts on the bill: Blue Revolutions Collective and Shayanna Harris. Funk / Soul and R&B. Preview the line-up and save it on soundcheck.
+THE GROOVE KITCHEN at Boxpark Croydon on Wed 21 Oct, London. 2 artists on the bill: Blue Revolutions Collective and Shayanna Harris. Funk / Soul and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

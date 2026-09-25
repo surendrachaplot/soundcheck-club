@@ -1,6 +1,6 @@
 # NIGHT SHIFT: Barée Masse (Marie), Umami Sound, GueHu, rabiatch at Bulbul Berlin
 
-NIGHT SHIFT: Barée Masse (Marie), Umami Sound, GueHu, rabiatch at Bulbul Berlin on Fri 25 Sept, Berlin. 3 acts on the bill: Barée Masse, rabiatch and Umami Sound. House and Club. Preview the line-up and save it on soundcheck.
+NIGHT SHIFT: Barée Masse (Marie), Umami Sound, GueHu, rabiatch at Bulbul Berlin on Fri 25 Sept, Berlin. 3 artists on the bill: Barée Masse, rabiatch and Umami Sound. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

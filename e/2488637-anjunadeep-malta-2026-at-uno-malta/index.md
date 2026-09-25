@@ -1,6 +1,6 @@
 # ANJUNADEEP MALTA 2026 at UNO MALTA
 
-ANJUNADEEP MALTA 2026 at UNO MALTA on Thu 8 Oct, Malta. 22 acts on the bill: Amtrac, Because of Art, Braxton and Catching Flies and 18 more. Deep House. Preview the line-up and save it on soundcheck.
+ANJUNADEEP MALTA 2026 at UNO MALTA on Thu 8 Oct, Malta. 22 artists on the bill: Amtrac, Because of Art, Braxton and Catching Flies and 18 more. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

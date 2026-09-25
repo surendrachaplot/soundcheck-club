@@ -2,7 +2,7 @@
 
 Veerline and Hunter is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Last Arch, London on Sat, 10 Oct 2026.
 
-Veerline and Hunter are a minimal and house duo based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Kesh (1), Azire and Constratti. Next up: Last Arch, London on Sat 10 Oct.
+Veerline and Hunter are a minimal and house duo based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Kesh, Azire and Constratti. Next up: Last Arch, London on Sat 10 Oct.
 
 ## Upcoming shows
 

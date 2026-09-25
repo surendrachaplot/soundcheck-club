@@ -1,6 +1,6 @@
 # Nosaj Thing x Daito Manabe at Colosseum Filmtheater
 
-Nosaj Thing x Daito Manabe at Colosseum Filmtheater on Thu 5 Nov, Berlin. 2 acts on the bill: Daito Manabe and Nosaj Thing. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Nosaj Thing x Daito Manabe at Colosseum Filmtheater on Thu 5 Nov, Berlin. 2 artists on the bill: Daito Manabe and Nosaj Thing. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

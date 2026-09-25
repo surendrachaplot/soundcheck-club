@@ -1,6 +1,6 @@
 # 𝗠𝗼' 𝗝𝘂𝗶𝗰𝗲 𝗫 𝗖𝘂𝗿𝗳𝗲𝘄 at Club Wintercircus
 
-𝗠𝗼' 𝗝𝘂𝗶𝗰𝗲 𝗫 𝗖𝘂𝗿𝗳𝗲𝘄 at Club Wintercircus on Sat 7 Nov, Ghent. 4 acts on the bill: Forbidden Fruit, Kamma, Masalo and Nico Juice. Preview the line-up and save it on soundcheck.
+𝗠𝗼' 𝗝𝘂𝗶𝗰𝗲 𝗫 𝗖𝘂𝗿𝗳𝗲𝘄 at Club Wintercircus on Sat 7 Nov, Ghent. 4 artists on the bill: Forbidden Fruit, Kamma, Masalo and Nico Juice. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

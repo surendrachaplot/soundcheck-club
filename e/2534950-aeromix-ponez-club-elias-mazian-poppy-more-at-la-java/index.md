@@ -1,6 +1,6 @@
 # Aeromix & Ponez Club: Elias Mazian, Poppy & More at La Java
 
-Aeromix & Ponez Club: Elias Mazian, Poppy & More at La Java on Fri 2 Oct, Paris. 2 acts on the bill: Elias Mazian and Poppy (BE). Progressive House and House. Preview the line-up and save it on soundcheck.
+Aeromix & Ponez Club: Elias Mazian, Poppy & More at La Java on Fri 2 Oct, Paris. 2 artists on the bill: Elias Mazian and Poppy (BE). Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

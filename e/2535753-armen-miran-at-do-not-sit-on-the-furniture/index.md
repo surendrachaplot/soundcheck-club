@@ -1,6 +1,6 @@
 # Armen Miran at Do Not Sit On The Furniture
 
-Armen Miran at Do Not Sit On The Furniture on Fri 13 Nov, Miami. 1 act on the bill: Armen Miran. House and Deep House. Preview the line-up and save it on soundcheck.
+Armen Miran at Do Not Sit On The Furniture on Fri 13 Nov, Miami. 1 artist on the bill: Armen Miran. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

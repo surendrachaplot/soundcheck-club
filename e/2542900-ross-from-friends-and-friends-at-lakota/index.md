@@ -1,6 +1,6 @@
 # Ross From Friends and Friends at Lakota
 
-Ross From Friends and Friends at Lakota on Fri 30 Oct, Bristol. 3 acts on the bill: IZZIT, Laurence Guy and Ross From Friends. House. Preview the line-up and save it on soundcheck.
+Ross From Friends and Friends at Lakota on Fri 30 Oct, Bristol. 3 artists on the bill: IZZIT, Laurence Guy and Ross From Friends. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

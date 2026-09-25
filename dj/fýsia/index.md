@@ -2,7 +2,7 @@
 
 fýsia is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Enter Shibuya, Tokyo on Thu, 24 Sept 2026.
 
-fýsia is a techno and minimal techno artist based in Japan, tracked on soundcheck, with 9 sets logged across Osaka and Tokyo. Often billed alongside HSC (1), A G E and AMG SAIMURA (TECHVANE). Next up: Enter Shibuya, Tokyo on Thu 24 Sept.
+fýsia is a techno and minimal techno artist based in Japan, tracked on soundcheck, with 9 sets logged across Osaka and Tokyo. Often billed alongside HSC, A G E and AMG SAIMURA (TECHVANE). Next up: Enter Shibuya, Tokyo on Thu 24 Sept.
 
 ## Upcoming shows
 

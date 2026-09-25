@@ -1,6 +1,6 @@
 # IN NOCTE VERITAS I Temática RENTRÉE at Specka
 
-IN NOCTE VERITAS I Temática RENTRÉE at Specka on Fri 2 Oct, Madrid. 1 act on the bill: Iñaki Villasante. Techno and Acid. Preview the line-up and save it on soundcheck.
+IN NOCTE VERITAS I Temática RENTRÉE at Specka on Fri 2 Oct, Madrid. 1 artist on the bill: Iñaki Villasante. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

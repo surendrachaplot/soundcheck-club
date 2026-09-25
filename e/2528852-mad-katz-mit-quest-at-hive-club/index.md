@@ -1,6 +1,6 @@
 # Mad Katz mit Quest at Hive Club
 
-Mad Katz mit Quest at Hive Club on Fri 29 Jan, Zurich. 1 act on the bill: Quest (IT). Preview the line-up and save it on soundcheck.
+Mad Katz mit Quest at Hive Club on Fri 29 Jan, Zurich. 1 artist on the bill: Quest (IT). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

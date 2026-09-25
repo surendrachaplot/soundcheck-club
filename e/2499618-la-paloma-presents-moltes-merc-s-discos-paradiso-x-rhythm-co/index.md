@@ -1,6 +1,6 @@
 # La Paloma presents Moltes Mercès: Discos Paradiso x Rhythm Control x Ultra-Local at La Paloma
 
-La Paloma presents Moltes Mercès: Discos Paradiso x Rhythm Control x Ultra-Local on Sat 26 Sept, Barcelona. 4 acts on the bill: Dafunkas, diggm’clua, DJ Bruce Lee and DJ Cobo. House and Disco. Preview the line-up and save it on soundcheck.
+La Paloma presents Moltes Mercès: Discos Paradiso x Rhythm Control x Ultra-Local on Sat 26 Sept, Barcelona. 4 artists on the bill: Dafunkas, diggm’clua, DJ Bruce Lee and DJ Cobo. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

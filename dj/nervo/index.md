@@ -2,7 +2,7 @@
 
 Nervo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-Nervo is a house and electro artist based in Australia, tracked on soundcheck, with 21 sets logged across Bangkok, Barcelona, Boston and Frankfurt and 9 more. Often billed alongside Dimitri Vegas & Like Mike, Robin Schulz and ASK:ME. Next up: NOS Event Center, Losangeles on Fri 30 Oct.
+Nervo is a house and electro artist based in Australia, tracked on soundcheck, with 21 sets logged across Bangkok, Barcelona, Boston and Frankfurt and 9 more. Often billed alongside Dimitri Vegas & Like Mike, Robin Schulz and ASK:ME. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 

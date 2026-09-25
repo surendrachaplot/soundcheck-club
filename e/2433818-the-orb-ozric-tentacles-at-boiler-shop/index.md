@@ -1,6 +1,6 @@
 # The Orb + Ozric Tentacles at Boiler Shop
 
-The Orb + Ozric Tentacles at Boiler Shop on Thu 12 Nov, Newcastle. 1 act on the bill: The Orb. Preview the line-up and save it on soundcheck.
+The Orb + Ozric Tentacles at Boiler Shop on Thu 12 Nov, Newcastle. 1 artist on the bill: The Orb. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

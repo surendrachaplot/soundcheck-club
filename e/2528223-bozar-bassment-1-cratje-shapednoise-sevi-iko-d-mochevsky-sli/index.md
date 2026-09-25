@@ -1,6 +1,6 @@
 # Bozar Bassment #1: cratje – Shapednoise & Sevi Iko Dømochevsky – Slikback at Bozar
 
-Bozar Bassment #1: cratje – Shapednoise & Sevi Iko Dømochevsky – Slikback on Thu 22 Oct, Brussels. 2 acts on the bill: Shapednoise and Slikback. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Bozar Bassment #1: cratje – Shapednoise & Sevi Iko Dømochevsky – Slikback on Thu 22 Oct, Brussels. 2 artists on the bill: Shapednoise and Slikback. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Marco Carola PRESENTS MUSIC ON at Pacha Ibiza
 
-Marco Carola PRESENTS MUSIC ON at Pacha Ibiza on Fri 25 Sept, Ibiza. 6 acts on the bill: Chelina Manuhutu, Ilario Alicante, Leon and Marco Carola and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Marco Carola PRESENTS MUSIC ON at Pacha Ibiza on Fri 25 Sept, Ibiza. 6 artists on the bill: Chelina Manuhutu, Ilario Alicante, Leon and Marco Carola and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

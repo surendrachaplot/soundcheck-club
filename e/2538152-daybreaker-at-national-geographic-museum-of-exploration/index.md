@@ -1,6 +1,6 @@
 # Daybreaker at National Geographic Museum of Exploration
 
-Daybreaker at National Geographic Museum of Exploration on Sat 3 Oct, Washingtondc. 1 act on the bill: Lola Villa. Preview the line-up and save it on soundcheck.
+Daybreaker at National Geographic Museum of Exploration on Sat 3 Oct, Washington DC. 1 artist on the bill: Lola Villa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

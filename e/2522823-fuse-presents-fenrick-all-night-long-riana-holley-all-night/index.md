@@ -1,6 +1,6 @@
 # Fuse presents: Fenrick (all night long) & Riana Holley (all night long) at Fuse
 
-Fuse presents: Fenrick (all night long) & Riana Holley (all night long) on Fri 9 Oct, Brussels. 2 acts on the bill: Fenrick and Riana Holley. Trance. Preview the line-up and save it on soundcheck.
+Fuse presents: Fenrick (all night long) & Riana Holley (all night long) on Fri 9 Oct, Brussels. 2 artists on the bill: Fenrick and Riana Holley. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

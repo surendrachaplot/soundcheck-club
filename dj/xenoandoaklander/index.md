@@ -2,7 +2,7 @@
 
 Xeno & Oaklander is a Industrial and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, New York City on Fri, 25 Sept 2026.
 
-Xeno & Oaklander are an industrial and minimal duo based in United States of America, tracked on soundcheck, with 18 sets logged across Austin, Berlin, Chicago and Losangeles and 6 more. Often billed alongside L.Sangre, Martial Canterel and ADULT.. Next up: TBA, Newyorkcity on Fri 25 Sept.
+Xeno & Oaklander are an industrial and minimal duo based in United States of America, tracked on soundcheck, with 18 sets logged across Austin, Berlin, Chicago and Los Angeles and 6 more. Often billed alongside L.Sangre, Martial Canterel and ADULT.. Next up: TBA, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

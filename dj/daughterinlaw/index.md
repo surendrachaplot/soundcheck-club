@@ -2,7 +2,7 @@
 
 Daughter In Law is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Colorado Charlie, The Hague on Sat, 26 Sept 2026.
 
-Daughter In Law is a house and techno artist based in Switzerland, tracked on soundcheck, with 54 sets logged across Amsterdam, Basel, Frankfurt and Munich and 4 more. Often billed alongside Alex Dallas, De La Maso and M-High. Next up: Colorado Charlie, Thehague on Sat 26 Sept.
+Daughter In Law is a house and techno artist based in Switzerland, tracked on soundcheck, with 54 sets logged across Amsterdam, Basel, Frankfurt and Munich and 4 more. Often billed alongside Alex Dallas, De La Maso and M-High. Next up: Colorado Charlie, The Hague on Sat 26 Sept.
 
 ## Upcoming shows
 

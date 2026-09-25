@@ -1,6 +1,6 @@
 # Arcane XIII ✦ Justice at TBA - Muse Berlin
 
-Arcane XIII ✦ Justice at TBA - Muse Berlin on Sat 3 Oct, Berlin. 3 acts on the bill: DRAHO, Pamela Svart and VIKTORIIA. Techno. Preview the line-up and save it on soundcheck.
+Arcane XIII ✦ Justice at TBA - Muse Berlin on Sat 3 Oct, Berlin. 3 artists on the bill: DRAHO, Pamela Svart and VIKTORIIA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

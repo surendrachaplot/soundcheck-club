@@ -1,6 +1,6 @@
 # (CLOSING) Dure Vie x Prairie du Canal: Julian Muller, Egna, with Us at La Prairie du Canal
 
-(CLOSING) Dure Vie x Prairie du Canal: Julian Muller, Egna, with Us at La Prairie du Canal on Sat 26 Sept, Paris. 3 acts on the bill: Cici That Walk, Egna and Julian Muller. Trance and Techno. Preview the line-up and save it on soundcheck.
+(CLOSING) Dure Vie x Prairie du Canal: Julian Muller, Egna, with Us at La Prairie du Canal on Sat 26 Sept, Paris. 3 artists on the bill: Cici That Walk, Egna and Julian Muller. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

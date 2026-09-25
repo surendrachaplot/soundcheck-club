@@ -1,6 +1,6 @@
 # Club Stars: Dj Sliink, Martyn Bootyspoon b2b Swami Sound, Sevyn, James Bambu(Live) at Paragon
 
-Club Stars: Dj Sliink, Martyn Bootyspoon b2b Swami Sound, Sevyn, James Bambu(Live) at Paragon on Sat 10 Oct, Newyorkcity. 7 acts on the bill: Dj Sliink, KIMKILLA, kyxm and Martyn Bootyspoon and 3 more. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Club Stars: Dj Sliink, Martyn Bootyspoon b2b Swami Sound, Sevyn, James Bambu(Live) at Paragon on Sat 10 Oct, New York City. 7 artists on the bill: Dj Sliink, KIMKILLA, kyxm and Martyn Bootyspoon and 3 more. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

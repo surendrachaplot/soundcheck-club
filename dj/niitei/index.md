@@ -2,7 +2,7 @@
 
 Nii Tei is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club Space Miami, Miami on Fri, 25 Sept 2026.
 
-Nii Tei is a house and deep house artist based in United States of America, tracked on soundcheck, with 95 sets logged across Losangeles, Miami, Newyorkcity and Washingtondc. Often billed alongside Dude Skywalker, Bakke and DIFFER. Next up: Club Space Miami, Miami on Fri 25 Sept.
+Nii Tei is a house and deep house artist based in United States of America, tracked on soundcheck, with 95 sets logged across Los Angeles, Miami, New York City and Washington DC. Often billed alongside Dude Skywalker, Bakke and DIFFER. Next up: Club Space Miami, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # RAW SOUL with Flashbaxx (Live), Svenson, Anton at Giselle
 
-RAW SOUL with Flashbaxx (Live), Svenson, Anton at Giselle on Sat 3 Oct, Dusseldorf. 2 acts on the bill: Flashbaxx and Svensøn. House and Deep House. Preview the line-up and save it on soundcheck.
+RAW SOUL with Flashbaxx (Live), Svenson, Anton at Giselle on Sat 3 Oct, Düsseldorf. 2 artists on the bill: Flashbaxx and Svensøn. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sissi's Saturday with Kara Okay & Emma at SISSI'S Amsterdam
 
-Sissi's Saturday with Kara Okay & Emma at SISSI'S Amsterdam on Sat 10 Oct, Amsterdam. 2 acts on the bill: Emmz and Kara Okay. Preview the line-up and save it on soundcheck.
+Sissi's Saturday with Kara Okay & Emma at SISSI'S Amsterdam on Sat 10 Oct, Amsterdam. 2 artists on the bill: Emmz and Kara Okay. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

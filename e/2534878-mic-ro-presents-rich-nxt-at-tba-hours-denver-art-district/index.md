@@ -1,6 +1,6 @@
 # Mic(RO) presents: Rich NXT at TBA - HOURS (Denver Art District)
 
-Mic(RO) presents: Rich NXT at TBA - HOURS (Denver Art District) on Sat 3 Oct, Denver. 2 acts on the bill: Mic(RO) Dos and Rich NXT. Minimal. Preview the line-up and save it on soundcheck.
+Mic(RO) presents: Rich NXT at TBA - HOURS (Denver Art District) on Sat 3 Oct, Denver. 2 artists on the bill: Mic(RO) Dos and Rich NXT. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

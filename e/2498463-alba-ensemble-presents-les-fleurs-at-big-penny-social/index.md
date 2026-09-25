@@ -1,6 +1,6 @@
 # Alba Ensemble presents: Les Fleurs at Big Penny Social
 
-Alba Ensemble presents: Les Fleurs at Big Penny Social on Sat 7 Nov, London. 1 act on the bill: Jamie Adam. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Alba Ensemble presents: Les Fleurs at Big Penny Social on Sat 7 Nov, London. 1 artist on the bill: Jamie Adam. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

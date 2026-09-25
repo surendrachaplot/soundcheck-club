@@ -1,6 +1,6 @@
 # Nanoos & Company feat. Nanoos - DJ Spinn - DJ Zuni at smartbar
 
-Nanoos & Company feat. Nanoos - DJ Spinn - DJ Zuni at smartbar on Fri 30 Oct, Chicago. 2 acts on the bill: DJ Spinn and Nanoos. House and Footwork. Preview the line-up and save it on soundcheck.
+Nanoos & Company feat. Nanoos - DJ Spinn - DJ Zuni at smartbar on Fri 30 Oct, Chicago. 2 artists on the bill: DJ Spinn and Nanoos. House and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

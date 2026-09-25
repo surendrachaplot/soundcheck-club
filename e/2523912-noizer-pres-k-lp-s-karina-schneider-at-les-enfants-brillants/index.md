@@ -1,6 +1,6 @@
 # Noizer pres. Kølpøs + Karina Schneider at Les Enfants Brillants
 
-Noizer pres. Kølpøs + Karina Schneider at Les Enfants Brillants on Thu 24 Sept, Barcelona. 1 act on the bill: Karina Schneider. Preview the line-up and save it on soundcheck.
+Noizer pres. Kølpøs + Karina Schneider at Les Enfants Brillants on Thu 24 Sept, Barcelona. 1 artist on the bill: Karina Schneider. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ascendant Vierge at Theatre National
 
-Ascendant Vierge at Theatre National on Sun 11 Oct, Brussels. 1 act on the bill: ascendant vierge. Preview the line-up and save it on soundcheck.
+Ascendant Vierge at Theatre National on Sun 11 Oct, Brussels. 1 artist on the bill: ascendant vierge. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

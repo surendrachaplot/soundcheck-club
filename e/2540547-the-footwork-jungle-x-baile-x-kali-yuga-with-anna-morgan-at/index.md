@@ -1,6 +1,6 @@
 # The Footwork Jungle x /baile x KALI YUGA with Anna Morgan at Kaiki
 
-The Footwork Jungle x /baile x KALI YUGA with Anna Morgan at Kaiki on Fri 2 Oct, Tokyo. 8 acts on the bill: Anna Morgan, ceza, DJ PS2 DESBLOQUEADO and Fetus and 4 more. Bass and Footwork. Preview the line-up and save it on soundcheck.
+The Footwork Jungle x /baile x KALI YUGA with Anna Morgan at Kaiki on Fri 2 Oct, Tokyo. 8 artists on the bill: Anna Morgan, ceza, DJ PS2 DESBLOQUEADO and Fetus and 4 more. Bass and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

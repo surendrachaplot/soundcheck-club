@@ -1,6 +1,6 @@
 # Kompáz im Beate Uwe at Beate Uwe
 
-Kompáz im Beate Uwe on Fri 9 Oct, Berlin. 1 act on the bill: Adrija. Electronica. Preview the line-up and save it on soundcheck.
+Kompáz im Beate Uwe on Fri 9 Oct, Berlin. 1 artist on the bill: Adrija. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ruf Dug + Kenji Ikeda at Hang Dai Chinese
 
-Ruf Dug + Kenji Ikeda at Hang Dai Chinese on Sat 26 Sept, Dublin. 1 act on the bill: Ruf Dug. Preview the line-up and save it on soundcheck.
+Ruf Dug + Kenji Ikeda at Hang Dai Chinese on Sat 26 Sept, Dublin. 1 artist on the bill: Ruf Dug. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

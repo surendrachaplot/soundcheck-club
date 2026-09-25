@@ -1,6 +1,6 @@
 # EXPANSIVE at Take Five Cafe
 
-EXPANSIVE at Take Five Cafe on Fri 23 Oct, Bristol. 3 acts on the bill: Cat Caesura, Luchik and Tribal. Techno and House. Preview the line-up and save it on soundcheck.
+EXPANSIVE at Take Five Cafe on Fri 23 Oct, Bristol. 3 artists on the bill: Cat Caesura, Luchik and Tribal. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

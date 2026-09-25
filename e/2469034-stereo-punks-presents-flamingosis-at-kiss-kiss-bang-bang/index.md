@@ -1,6 +1,6 @@
 # Stereo Punks presents Flamingosis at Kiss Kiss Bang Bang
 
-Stereo Punks presents Flamingosis at Kiss Kiss Bang Bang on Thu 22 Oct, Losangeles. Disco and Vaporwave. Preview the line-up and save it on soundcheck.
+Stereo Punks presents Flamingosis at Kiss Kiss Bang Bang on Thu 22 Oct, Los Angeles. Disco and Vaporwave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

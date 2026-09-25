@@ -1,6 +1,6 @@
 # Block x Raw: SHDW at block.
 
-Block x Raw: SHDW at block. on Fri 23 Oct, Dublin. 3 acts on the bill: NILAAA, Phil Bass and SHDW. Electronica. Preview the line-up and save it on soundcheck.
+Block x Raw: SHDW at block. on Fri 23 Oct, Dublin. 3 artists on the bill: NILAAA, Phil Bass and SHDW. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

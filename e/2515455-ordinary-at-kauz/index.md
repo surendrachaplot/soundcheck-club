@@ -1,6 +1,6 @@
 # ordinary at Kauz
 
-ordinary at Kauz on Sat 26 Sept, Zurich. 3 acts on the bill: Cromby, Jenny Cara and Luka (CH). House. Preview the line-up and save it on soundcheck.
+ordinary at Kauz on Sat 26 Sept, Zurich. 3 artists on the bill: Cromby, Jenny Cara and Luka (CH). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

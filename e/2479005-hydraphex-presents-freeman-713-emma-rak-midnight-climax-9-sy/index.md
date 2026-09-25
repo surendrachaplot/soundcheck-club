@@ -1,6 +1,6 @@
 # hydraphex presents: Freeman 713, Emma Rak, Midnight Climax, 9-System, Markie at Underground SF
 
-hydraphex presents: Freeman 713, Emma Rak, Midnight Climax, 9-System, Markie at Underground SF on Sat 21 Nov, Sanfrancisco. 5 acts on the bill: 9-System, Emma Rak, Freeman 713 and Markie and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+hydraphex presents: Freeman 713, Emma Rak, Midnight Climax, 9-System, Markie at Underground SF on Sat 21 Nov, San Francisco/Oakland. 5 artists on the bill: 9-System, Emma Rak, Freeman 713 and Markie and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dean Turnley (Vancouver) at Village Studios
 
-Dean Turnley (Vancouver) at Village Studios on Fri 25 Sept, Vancouver. 1 act on the bill: Dean Turnley. House and Tech House. Preview the line-up and save it on soundcheck.
+Dean Turnley (Vancouver) at Village Studios on Fri 25 Sept, Vancouver. 1 artist on the bill: Dean Turnley. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

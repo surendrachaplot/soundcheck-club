@@ -1,6 +1,6 @@
 # BATHTUB MUSIC - SAUCES at Dr Morse
 
-BATHTUB MUSIC - SAUCES at Dr Morse on Sat 26 Sept, Melbourne. 2 acts on the bill: Dr. Condiments and Ones/Casual Dance. House and Balearic. Preview the line-up and save it on soundcheck.
+BATHTUB MUSIC - SAUCES at Dr Morse on Sat 26 Sept, Melbourne. 2 artists on the bill: Dr. Condiments and Ones/Casual Dance. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

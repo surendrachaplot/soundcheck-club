@@ -1,6 +1,6 @@
 # MTC24 pres FREE TECHNO at Sub Club Melbourne
 
-MTC24 pres FREE TECHNO at Sub Club Melbourne on Fri 23 Oct, Melbourne. 2 acts on the bill: Craig McWhinney and Matt Radovich. Techno. Preview the line-up and save it on soundcheck.
+MTC24 pres FREE TECHNO at Sub Club Melbourne on Fri 23 Oct, Melbourne. 2 artists on the bill: Craig McWhinney and Matt Radovich. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

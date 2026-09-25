@@ -1,6 +1,6 @@
 # Self: Vanessa Bedoret, Magnus Westwell, Needle at The White Hotel
 
-Self: Vanessa Bedoret, Magnus Westwell, Needle at The White Hotel on Thu 8 Oct, Manchester. 2 acts on the bill: Magnus Westwell and Vanessa Bedoret. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Self: Vanessa Bedoret, Magnus Westwell, Needle at The White Hotel on Thu 8 Oct, Manchester. 2 artists on the bill: Magnus Westwell and Vanessa Bedoret. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

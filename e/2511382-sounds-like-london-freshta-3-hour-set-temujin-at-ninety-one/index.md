@@ -1,6 +1,6 @@
 # Sounds Like London: Freshta (3 Hour Set) + Temujin at Ninety One
 
-Sounds Like London: Freshta (3 Hour Set) + Temujin at Ninety One on Sat 17 Oct, London. 2 acts on the bill: Freshta and Temujin. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Sounds Like London: Freshta (3 Hour Set) + Temujin at Ninety One on Sat 17 Oct, London. 2 artists on the bill: Freshta and Temujin. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

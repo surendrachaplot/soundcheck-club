@@ -1,6 +1,6 @@
 # Platonic x 4am Records - Daytime Showcase at TBA - Secret place
 
-Platonic x 4am Records - Daytime Showcase at TBA - Secret place on Sun 4 Oct, Berlin. 4 acts on the bill: DJ Bienveillance, Shakolin, So-Fi and VIKk. Techno and Electro. Preview the line-up and save it on soundcheck.
+Platonic x 4am Records - Daytime Showcase at TBA - Secret place on Sun 4 Oct, Berlin. 4 artists on the bill: DJ Bienveillance, Shakolin, So-Fi and VIKk. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

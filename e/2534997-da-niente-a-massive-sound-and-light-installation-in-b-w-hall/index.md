@@ -1,6 +1,6 @@
 # DA NIENTE: A massive sound and light installation in B&W Hallerne at B&W Hallerne
 
-DA NIENTE: A massive sound and light installation in B&W Hallerne on Fri 9 Oct, Copenhagen. 1 act on the bill: SØS Gunver Ryberg. Electronica. Preview the line-up and save it on soundcheck.
+DA NIENTE: A massive sound and light installation in B&W Hallerne on Fri 9 Oct, Copenhagen. 1 artist on the bill: SØS Gunver Ryberg. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Reload it at Aaja Basement
 
-Reload it at Aaja Basement on Fri 9 Oct, London. 2 acts on the bill: arawzi and Xenia Black. Techno. Preview the line-up and save it on soundcheck.
+Reload it at Aaja Basement on Fri 9 Oct, London. 2 artists on the bill: arawzi and Xenia Black. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

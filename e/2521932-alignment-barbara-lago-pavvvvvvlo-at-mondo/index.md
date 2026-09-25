@@ -1,6 +1,6 @@
 # Alignment / Barbara Lago / pavvvvvvlo at Mondo
 
-Alignment / Barbara Lago / pavvvvvvlo at Mondo on Thu 8 Oct, Madrid. 3 acts on the bill: Alignment, Bárbara Lago and pavvvvvvlo. Preview the line-up and save it on soundcheck.
+Alignment / Barbara Lago / pavvvvvvlo at Mondo on Thu 8 Oct, Madrid. 3 artists on the bill: Alignment, Bárbara Lago and pavvvvvvlo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nido at Akasha Las Dalias Club - Ibiza
 
-Nido at Akasha Las Dalias Club - Ibiza on Sun 27 Sept, Ibiza. 2 acts on the bill: Paloma and Yamil. Preview the line-up and save it on soundcheck.
+Nido at Akasha Las Dalias Club - Ibiza on Sun 27 Sept, Ibiza. 2 artists on the bill: Paloma and Yamil. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

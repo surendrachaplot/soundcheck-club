@@ -1,6 +1,6 @@
 # Maledetta Discoteca goes to Spazio Cavea at Spazio Cavea
 
-Maledetta Discoteca goes to Spazio Cavea on Sun 27 Sept, Rome. 1 act on the bill: Marta Paradise. Electro and Italo Disco. Preview the line-up and save it on soundcheck.
+Maledetta Discoteca goes to Spazio Cavea on Sun 27 Sept, Rome. 1 artist on the bill: Marta Paradise. Electro and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # From House to Disco Club presents Fafi Abdel Nour at Edifício Martinelli
 
-From House to Disco Club presents Fafi Abdel Nour at Edifício Martinelli on Sat 3 Oct, Saopaulo. 4 acts on the bill: Fafi Abdel Nour, From House to Disco, Nana Kohat and Rafa Balera. House and Disco. Preview the line-up and save it on soundcheck.
+From House to Disco Club presents Fafi Abdel Nour at Edifício Martinelli on Sat 3 Oct, Sao Paulo. 4 artists on the bill: Fafi Abdel Nour, From House to Disco, Nana Kohat and Rafa Balera. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

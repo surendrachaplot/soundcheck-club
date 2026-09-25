@@ -2,7 +2,7 @@
 
 PUFF is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Honey's, New York City on Thu, 1 Oct 2026.
 
-PUFF is a club and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Bangkok, Losangeles and Newyorkcity. Often billed alongside Fugitive Artifact, LIONESSA and Preacher's Daughter. Next up: Honey's, Newyorkcity on Thu 1 Oct.
+PUFF is a club and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Bangkok, Los Angeles and New York City. Often billed alongside Fugitive Artifact, LIONESSA and Preacher's Daughter. Next up: Honey's, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 

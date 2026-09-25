@@ -1,6 +1,6 @@
 # Afternooners #5 with DJs Of Norway & Tod Louie at Gehør
 
-Afternooners #5 with DJs Of Norway & Tod Louie at Gehør on Fri 9 Oct, Oslo. 2 acts on the bill: Of Norway and Tod Louie. House. Preview the line-up and save it on soundcheck.
+Afternooners #5 with DJs Of Norway & Tod Louie at Gehør on Fri 9 Oct, Oslo. 2 artists on the bill: Of Norway and Tod Louie. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

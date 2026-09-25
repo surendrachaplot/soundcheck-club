@@ -2,7 +2,7 @@
 
 TBA - Los Angeles is a music venue in Los Angeles with 17 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "WORK OVER/TIME: JIA, MARRØN, NEKTER, Rene Wise, Rrose, Sarah Wreath [Live], & Wata Igarashi" on Fri, 25 Sept 2026.
 
-TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 17 upcoming gigs, with line-ups including Adrian Reyes, Anastasia Giovani, Bart Skils and Blazej Malinowski and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 17 upcoming gigs, with line-ups including Adrian Reyes, Anastasia Giovani, Bart Skils and Blazej Malinowski and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

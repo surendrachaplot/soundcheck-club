@@ -2,7 +2,7 @@
 
 Kale is a Ghetto Tech and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 3oz Dive Club, San Diego on Thu, 24 Sept 2026.
 
-Kale is a ghetto tech and techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across Sandiego. Often billed alongside DJ Freqk3y, DJ Godfather and Jen Cardini. Next up: 3oz Dive Club, Sandiego on Thu 24 Sept.
+Kale is a ghetto tech and techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across San Diego. Often billed alongside DJ Freqk3y, DJ Godfather and Jen Cardini. Next up: 3oz Dive Club, San Diego on Thu 24 Sept.
 
 ## Upcoming shows
 

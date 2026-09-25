@@ -1,6 +1,6 @@
 # Book Club Radio Festival #2 The Outer Rim at Brooklyn Roots Collective
 
-Book Club Radio Festival #2 The Outer Rim at Brooklyn Roots Collective on Fri 2 Oct, Newyorkcity. 18 acts on the bill: Byron The Aquarius, DJ Heather, Fibre and Hiroko Yamamura and 14 more. Techno and House. Preview the line-up and save it on soundcheck.
+Book Club Radio Festival #2 The Outer Rim at Brooklyn Roots Collective on Fri 2 Oct, New York City. 18 artists on the bill: Byron The Aquarius, DJ Heather, Fibre and Hiroko Yamamura and 14 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

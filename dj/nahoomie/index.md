@@ -2,7 +2,7 @@
 
 Nahoomie is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Paloma, Barcelona on Fri, 25 Sept 2026.
 
-Nahoomie is a house and electronica artist based in Spain, tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Madrid and Mexicocity. Often billed alongside Verushka, Alvva and Gazzi. Next up: La Paloma, Barcelona on Fri 25 Sept.
+Nahoomie is a house and electronica artist based in Spain, tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Madrid and Mexico City. Often billed alongside Verushka, Alvva and Gazzi. Next up: La Paloma, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 

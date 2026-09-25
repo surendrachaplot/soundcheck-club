@@ -1,6 +1,6 @@
 # DUBSTATE: mixtress, imad:re, Lilyn at Soup
 
-DUBSTATE: mixtress, imad:re, Lilyn at Soup on Fri 25 Sept, Manchester. 3 acts on the bill: imad:re, Lilyn and mixtress. Breakbeat and Footwork. Preview the line-up and save it on soundcheck.
+DUBSTATE: mixtress, imad:re, Lilyn at Soup on Fri 25 Sept, Manchester. 3 artists on the bill: imad:re, Lilyn and mixtress. Breakbeat and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

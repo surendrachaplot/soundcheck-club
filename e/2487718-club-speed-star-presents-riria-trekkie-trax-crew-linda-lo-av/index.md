@@ -1,6 +1,6 @@
 # club speed.star presents: RIRIA,Trekkie Trax Crew, Linda Lo, Avi Loud at Club Catwalk
 
-club speed.star presents: RIRIA,Trekkie Trax Crew, Linda Lo, Avi Loud at Club Catwalk on Fri 25 Sept, Losangeles. 3 acts on the bill: Avi Loud, Linda Lo and RIRIA. Garage and Club. Preview the line-up and save it on soundcheck.
+club speed.star presents: RIRIA,Trekkie Trax Crew, Linda Lo, Avi Loud at Club Catwalk on Fri 25 Sept, Los Angeles. 3 artists on the bill: Avi Loud, Linda Lo and RIRIA. Garage and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

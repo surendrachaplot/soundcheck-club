@@ -1,6 +1,6 @@
 # M2o MORNING CLUB at Fabbrica del Vapore
 
-M2o MORNING CLUB at Fabbrica del Vapore on Sun 11 Oct, Milan. 1 act on the bill: David Morales. Preview the line-up and save it on soundcheck.
+M2o MORNING CLUB at Fabbrica del Vapore on Sun 11 Oct, Milan. 1 artist on the bill: David Morales. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

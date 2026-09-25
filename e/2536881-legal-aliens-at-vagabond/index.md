@@ -1,6 +1,6 @@
 # Legal Aliens at Vagabond
 
-Legal Aliens at Vagabond on Sat 3 Oct, Washingtondc. 1 act on the bill: D.O.S. House and Tech House. Preview the line-up and save it on soundcheck.
+Legal Aliens at Vagabond on Sat 3 Oct, Washington DC. 1 artist on the bill: D.O.S. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

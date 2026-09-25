@@ -1,6 +1,6 @@
 # DÍA DE MUERTOS Lapi X FURIA X Desculonización at TBA
 
-DÍA DE MUERTOS Lapi X FURIA X Desculonización at TBA on Sat 31 Oct, Mexicocity. Bass and Club. Preview the line-up and save it on soundcheck.
+DÍA DE MUERTOS Lapi X FURIA X Desculonización at TBA on Sat 31 Oct, Mexico City. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

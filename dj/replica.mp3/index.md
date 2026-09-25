@@ -2,7 +2,7 @@
 
 Replica.mp3 is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OIL Club, Shenzhen on Sat, 3 Oct 2026.
 
-Replica.mp3 is a club and pop artist based in China, tracked on soundcheck, with 26 sets logged across Hongkong and Shenzhen. Often billed alongside Beibeilon, Manson and zzm (2). Next up: OIL Club, Shenzhen on Sat 3 Oct.
+Replica.mp3 is a club and pop artist based in China, tracked on soundcheck, with 26 sets logged across Hong Kong and Shenzhen. Often billed alongside Beibeilon, Manson and zzm. Next up: OIL Club, Shenzhen on Sat 3 Oct.
 
 ## Upcoming shows
 

@@ -1,8 +1,8 @@
 # UFO95
 
-UFO95 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+UFO95 is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
-UFO95 is a techno and house artist based in France, tracked on soundcheck, with 158 sets logged across Amsterdam, Austin, Barcelona and Berlin and 51 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
+UFO95 is a techno and house artist based in France, tracked on soundcheck, with 159 sets logged across Amsterdam, Austin, Barcelona and Berlin and 52 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ UFO95 is a techno and house artist based in France, tracked on soundcheck, with 
 | Fri, 25 Sept 2026 | Laboral Ciudad de la Cultura | North |
 | Fri, 25 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 24 Oct 2026 | Paradiso | Amsterdam |
+| Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Sat, 19 Dec 2026 | Azimut Club | Turin |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # SUN DIALED at EQ San Diego
 
-SUN DIALED at EQ San Diego on Sat 26 Sept, Sandiego. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+SUN DIALED at EQ San Diego on Sat 26 Sept, San Diego. Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

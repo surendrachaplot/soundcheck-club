@@ -1,6 +1,6 @@
 # SUBculture Saturdays: Alix Perez at The Red Room
 
-SUBculture Saturdays: Alix Perez at The Red Room on Sat 7 Nov, Vancouver. 1 act on the bill: Alix Perez. Drum & Bass. Preview the line-up and save it on soundcheck.
+SUBculture Saturdays: Alix Perez at The Red Room on Sat 7 Nov, Vancouver. 1 artist on the bill: Alix Perez. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

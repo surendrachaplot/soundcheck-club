@@ -1,6 +1,6 @@
 # DOT at FS.
 
-DOT at FS. on Sat 26 Sept, Tokyo. 3 acts on the bill: has, judgeman and Terax. House. Preview the line-up and save it on soundcheck.
+DOT at FS. on Sat 26 Sept, Tokyo. 3 artists on the bill: has, judgeman and Terax. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

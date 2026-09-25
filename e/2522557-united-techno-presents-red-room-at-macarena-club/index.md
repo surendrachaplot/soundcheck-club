@@ -1,6 +1,6 @@
 # United Techno presents Red Room at Macarena Club
 
-United Techno presents Red Room at Macarena Club on Fri 25 Sept, Barcelona. 2 acts on the bill: Gabo Oliveira and Rods Franchin. Preview the line-up and save it on soundcheck.
+United Techno presents Red Room at Macarena Club on Fri 25 Sept, Barcelona. 2 artists on the bill: Gabo Oliveira and Rods Franchin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

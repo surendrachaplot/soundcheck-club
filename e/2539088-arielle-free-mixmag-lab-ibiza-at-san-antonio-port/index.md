@@ -1,6 +1,6 @@
 # Arielle Free // Mixmag Lab Ibiza at San Antonio Port
 
-Arielle Free // Mixmag Lab Ibiza at San Antonio Port on Sat 26 Sept, Ibiza. 2 acts on the bill: Arielle Free and The Menendez Brothers. House. Preview the line-up and save it on soundcheck.
+Arielle Free // Mixmag Lab Ibiza at San Antonio Port on Sat 26 Sept, Ibiza. 2 artists on the bill: Arielle Free and The Menendez Brothers. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

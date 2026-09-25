@@ -1,6 +1,6 @@
 # Samedia presents Jamz Supernova - Dance Around The World Tour at People's Leisure Club
 
-Samedia presents Jamz Supernova - Dance Around The World Tour at People's Leisure Club on Fri 27 Nov, Edinburgh. 3 acts on the bill: Chris Astrojazz, Jamz Supernova and Samedia Shebeen. House and Amapiano. Preview the line-up and save it on soundcheck.
+Samedia presents Jamz Supernova - Dance Around The World Tour at People's Leisure Club on Fri 27 Nov, Edinburgh. 3 artists on the bill: Chris Astrojazz, Jamz Supernova and Samedia Shebeen. House and Amapiano. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

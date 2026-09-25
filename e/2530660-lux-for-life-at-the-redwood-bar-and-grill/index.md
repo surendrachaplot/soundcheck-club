@@ -1,6 +1,6 @@
 # Lux for Life at The Redwood Bar And Grill
 
-Lux for Life at The Redwood Bar And Grill on Sat 24 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+Lux for Life at The Redwood Bar And Grill on Sat 24 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

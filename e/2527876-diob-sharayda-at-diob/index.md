@@ -1,6 +1,6 @@
 # Ōdiobā: Sharayda at Ōdiobā
 
-Ōdiobā: Sharayda on Fri 25 Sept, Manchester. 1 act on the bill: Sharayda. Preview the line-up and save it on soundcheck.
+Ōdiobā: Sharayda on Fri 25 Sept, Manchester. 1 artist on the bill: Sharayda. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

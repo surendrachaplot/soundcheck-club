@@ -1,6 +1,6 @@
 # PARALLAX | xXETEXx • FeelNature • 7Chakras at PKH Warehouse
 
-PARALLAX | xXETEXx • FeelNature • 7Chakras at PKH Warehouse on Sat 10 Oct, Berlin. 2 acts on the bill: EMIRI TSUKUI and HypoGeo. Experimental and Psytrance. Preview the line-up and save it on soundcheck.
+PARALLAX | xXETEXx • FeelNature • 7Chakras at PKH Warehouse on Sat 10 Oct, Berlin. 2 artists on the bill: EMIRI TSUKUI and HypoGeo. Experimental and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

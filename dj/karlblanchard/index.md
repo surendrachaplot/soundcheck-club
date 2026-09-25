@@ -2,7 +2,7 @@
 
 KARL BLANCHARD is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 26 Sept 2026.
 
-KARL BLANCHARD is a house and deep house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Miami and Newyorkcity. Often billed alongside Black Loops, CISUMMI and DJ SWISHA. Next up: Dead Letter No. 9, Newyorkcity on Sat 26 Sept.
+KARL BLANCHARD is a house and deep house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Miami and New York City. Often billed alongside Black Loops, CISUMMI and DJ SWISHA. Next up: Dead Letter No. 9, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

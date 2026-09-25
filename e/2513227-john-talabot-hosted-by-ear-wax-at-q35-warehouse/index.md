@@ -1,6 +1,6 @@
 # John Talabot hosted by EAR\WAX at Q35 WAREHOUSE
 
-John Talabot hosted by EAR\WAX at Q35 WAREHOUSE on Sat 21 Nov, Turin. 1 act on the bill: John Talabot. House. Preview the line-up and save it on soundcheck.
+John Talabot hosted by EAR\WAX at Q35 WAREHOUSE on Sat 21 Nov, Turin. 1 artist on the bill: John Talabot. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

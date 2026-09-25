@@ -1,6 +1,6 @@
 # Clubnight - Surgeon, Limited Network, SPA Recording at Open Ground
 
-Clubnight - Surgeon, Limited Network, SPA Recording at Open Ground on Sat 31 Oct, Wuppertal. 4 acts on the bill: DJ Brom, Eleftheria, Friday Dunard and Surgeon. Preview the line-up and save it on soundcheck.
+Clubnight - Surgeon, Limited Network, SPA Recording at Open Ground on Sat 31 Oct, Wuppertal. 4 artists on the bill: DJ Brom, Eleftheria, Friday Dunard and Surgeon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

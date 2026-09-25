@@ -2,7 +2,7 @@
 
 George Vidal is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Do Not Sit On The Furniture, Miami on Thu, 24 Sept 2026.
 
-George Vidal is a house and deep house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Austin, Miami and Newyorkcity. Often billed alongside Alain Lopez, Danny Tenaglia and Kike Roldan. Next up: Do Not Sit On The Furniture, Miami on Thu 24 Sept.
+George Vidal is a house and deep house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Austin, Miami and New York City. Often billed alongside Alain Lopez, Danny Tenaglia and Kike Roldan. Next up: Do Not Sit On The Furniture, Miami on Thu 24 Sept.
 
 ## Upcoming shows
 

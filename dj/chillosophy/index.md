@@ -2,7 +2,7 @@
 
 Chillosophy is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Ridgewood Location, New York City on Sat, 5 Dec 2026.
 
-Chillosophy is a techno and tech house artist based in United States of America, tracked on soundcheck, with 63 sets logged across Berlin, Leipzig and Newyorkcity. Often billed alongside baby-g, ACIDMOM and Zombi Adam. Next up: TBA - Secret Ridgewood Location, Newyorkcity on Sat 5 Dec.
+Chillosophy is a techno and tech house artist based in United States of America, tracked on soundcheck, with 63 sets logged across Berlin, Leipzig and New York City. Often billed alongside baby-g, ACIDMOM and Zombi Adam. Next up: TBA - Secret Ridgewood Location, New York City on Sat 5 Dec.
 
 ## Upcoming shows
 

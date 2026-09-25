@@ -2,7 +2,7 @@
 
 Louis Harshman is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KitKatClub, Berlin on Fri, 25 Sept 2026.
 
-Louis Harshman is a techno and trance artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Frankfurt, Hamburg and Nurnberg. Often billed alongside ZOEVITA, Cara Elizabeth and DIE FUNKELZIFFER. Next up: KitKatClub, Berlin on Fri 25 Sept.
+Louis Harshman is a techno and trance artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Frankfurt, Hamburg and Nürnberg. Often billed alongside ZOEVITA, Cara Elizabeth and DIE FUNKELZIFFER. Next up: KitKatClub, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 

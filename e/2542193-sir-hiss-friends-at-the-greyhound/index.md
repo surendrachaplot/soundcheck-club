@@ -1,6 +1,6 @@
 # Sir Hiss & Friends at The Greyhound
 
-Sir Hiss & Friends at The Greyhound on Fri 20 Nov, London. 1 act on the bill: Sir Hiss. Electro and Grime. Preview the line-up and save it on soundcheck.
+Sir Hiss & Friends at The Greyhound on Fri 20 Nov, London. 1 artist on the bill: Sir Hiss. Electro and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

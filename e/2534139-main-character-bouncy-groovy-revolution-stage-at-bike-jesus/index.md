@@ -1,6 +1,6 @@
 # Main Character | Bouncy & Groovy | Revolution Stage at Bike Jesus
 
-Main Character | Bouncy & Groovy | Revolution Stage at Bike Jesus on Fri 9 Oct, Prague. 4 acts on the bill: Big Lil, Diva, Katrixia and XENEA LUMRA. Trance and Techno. Preview the line-up and save it on soundcheck.
+Main Character | Bouncy & Groovy | Revolution Stage at Bike Jesus on Fri 9 Oct, Prague. 4 artists on the bill: Big Lil, Diva, Katrixia and XENEA LUMRA. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

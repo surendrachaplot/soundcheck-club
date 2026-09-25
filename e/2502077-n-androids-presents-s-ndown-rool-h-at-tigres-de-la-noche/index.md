@@ -1,6 +1,6 @@
 # Nü Androids presents SünDown: Rooléh at Tigres de la Noche
 
-Nü Androids presents SünDown: Rooléh at Tigres de la Noche on Sat 31 Oct, Washingtondc. 2 acts on the bill: Mark Azar and Rooléh. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Nü Androids presents SünDown: Rooléh at Tigres de la Noche on Sat 31 Oct, Washington DC. 2 artists on the bill: Mark Azar and Rooléh. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

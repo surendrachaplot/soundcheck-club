@@ -1,6 +1,6 @@
 # Sound Canteen with Gzardin at Orangerie Neukölln
 
-Sound Canteen with Gzardin at Orangerie Neukölln on Fri 25 Sept, Berlin. 1 act on the bill: Gzardin. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Sound Canteen with Gzardin at Orangerie Neukölln on Fri 25 Sept, Berlin. 1 artist on the bill: Gzardin. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

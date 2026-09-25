@@ -1,6 +1,6 @@
 # Night Tales: Luke Una (All Night Long) - The 'É Soul Cultura' Residency [4 Fridays In October] at Night Tales
 
-Night Tales: Luke Una (All Night Long) - The 'É Soul Cultura' Residency [4 Fridays In October] on Fri 30 Oct, London. 1 act on the bill: Luke Una. House. Preview the line-up and save it on soundcheck.
+Night Tales: Luke Una (All Night Long) - The 'É Soul Cultura' Residency [4 Fridays In October] on Fri 30 Oct, London. 1 artist on the bill: Luke Una. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Toolboxxx PRESENTS Temudo & Paula Koski at Artheater
 
-Toolboxxx PRESENTS Temudo & Paula Koski at Artheater on Fri 11 Dec, Cologne. 4 acts on the bill: Elisen, HWRD, Paula Koski and Temudo. Techno. Preview the line-up and save it on soundcheck.
+Toolboxxx PRESENTS Temudo & Paula Koski at Artheater on Fri 11 Dec, Cologne. 4 artists on the bill: Elisen, HWRD, Paula Koski and Temudo. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

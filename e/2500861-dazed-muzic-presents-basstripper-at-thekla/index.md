@@ -1,6 +1,6 @@
 # Dazed Muzic presents: Basstripper at Thekla
 
-Dazed Muzic presents: Basstripper at Thekla on Fri 20 Nov, Bristol. 3 acts on the bill: Basstripper, Diagnostix and Jakes. Drum & Bass. Preview the line-up and save it on soundcheck.
+Dazed Muzic presents: Basstripper at Thekla on Fri 20 Nov, Bristol. 3 artists on the bill: Basstripper, Diagnostix and Jakes. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Joe Claussell, Vlada Janjić, Nikola Vemić, Marko Milosavljević at Karmakoma
 
-Joe Claussell, Vlada Janjić, Nikola Vemić, Marko Milosavljević at Karmakoma on Sat 26 Sept, Belgrade. 2 acts on the bill: Joe Claussell and Nikola Vemic. House. Preview the line-up and save it on soundcheck.
+Joe Claussell, Vlada Janjić, Nikola Vemić, Marko Milosavljević at Karmakoma on Sat 26 Sept, Belgrade. 2 artists on the bill: Joe Claussell and Nikola Vemic. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

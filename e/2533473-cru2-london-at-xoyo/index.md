@@ -1,6 +1,6 @@
 # Cru2 London at XOYO
 
-Cru2 London at XOYO on Sat 10 Oct, London. 2 acts on the bill: Chad Harrison and Mike Delinquent. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Cru2 London at XOYO on Sat 10 Oct, London. 2 artists on the bill: Chad Harrison and Mike Delinquent. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

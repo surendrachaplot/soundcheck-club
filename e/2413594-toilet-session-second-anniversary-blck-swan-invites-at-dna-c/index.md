@@ -1,6 +1,6 @@
 # TOILET SESSION SECOND ANNIVERSARY: BLCK SWAN INVITES at DNA. CLUB
 
-TOILET SESSION SECOND ANNIVERSARY: BLCK SWAN INVITES at DNA. CLUB on Sat 26 Sept, Berlin. 10 acts on the bill: Alex Friday, BELLAHONEYBB, Blck-Swan and Claudio Zanon and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
+TOILET SESSION SECOND ANNIVERSARY: BLCK SWAN INVITES at DNA. CLUB on Sat 26 Sept, Berlin. 10 artists on the bill: Alex Friday, BELLAHONEYBB, Blck-Swan and Claudio Zanon and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

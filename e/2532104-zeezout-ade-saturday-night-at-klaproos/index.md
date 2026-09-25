@@ -1,6 +1,6 @@
 # ZeeZout ADE - Saturday Night at Klaproos
 
-ZeeZout ADE - Saturday Night at Klaproos on Sat 24 Oct, Amsterdam. 5 acts on the bill: LYLO (NL), OK Williams, Optimo (Espacio) and Pariah and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+ZeeZout ADE - Saturday Night at Klaproos on Sat 24 Oct, Amsterdam. 5 artists on the bill: LYLO (NL), OK Williams, Optimo (Espacio) and Pariah and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

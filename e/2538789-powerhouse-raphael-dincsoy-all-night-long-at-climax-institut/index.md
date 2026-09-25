@@ -1,6 +1,6 @@
 # Powerhouse: Raphael Dincsoy (all night long) at Climax-Institutes
 
-Powerhouse: Raphael Dincsoy (all night long) at Climax-Institutes on Fri 25 Sept, Stuttgart. 4 acts on the bill: Direkt, Pressure (2), Raphael Dincsoy and RaW. Techno and House. Preview the line-up and save it on soundcheck.
+Powerhouse: Raphael Dincsoy (all night long) at Climax-Institutes on Fri 25 Sept, Stuttgart. 4 artists on the bill: Direkt, Pressure, Raphael Dincsoy and RaW. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # STELLA BOSSI & Blame The Mono at Oddity Club
 
-STELLA BOSSI & Blame The Mono at Oddity Club on Sat 24 Oct, Athens. 4 acts on the bill: Blame The Mono, Freeflow, Philip Paul and STELLA BOSSI. Preview the line-up and save it on soundcheck.
+STELLA BOSSI & Blame The Mono at Oddity Club on Sat 24 Oct, Athens. 4 artists on the bill: Blame The Mono, Freeflow, Philip Paul and STELLA BOSSI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

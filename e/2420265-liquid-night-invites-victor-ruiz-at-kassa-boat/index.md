@@ -1,6 +1,6 @@
 # Liquid Night invites Victor Ruiz at Kassa Boat
 
-Liquid Night invites Victor Ruiz at Kassa Boat on Sat 10 Oct, Budapest. 5 acts on the bill: Dolça van Leeuwen, Dreadsun, Dual DeStress and NoNameLeft and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Liquid Night invites Victor Ruiz at Kassa Boat on Sat 10 Oct, Budapest. 5 artists on the bill: Dolça van Leeuwen, Dreadsun, Dual DeStress and NoNameLeft and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

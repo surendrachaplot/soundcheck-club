@@ -1,6 +1,6 @@
 # Menace at TBA - Secret Location (near Frankfurter Allee)
 
-Menace at TBA - Secret Location (near Frankfurter Allee) on Wed 7 Oct, London. 3 acts on the bill: Forward Sisters, ophélie and Wallauer. Ambient and Dub. Preview the line-up and save it on soundcheck.
+Menace at TBA - Secret Location (near Frankfurter Allee) on Wed 7 Oct, London. 3 artists on the bill: Forward Sisters, ophélie and Wallauer. Ambient and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # A.M.C presents: Grassroots Energy (Milton Keynes) at Unit Nine
 
-A.M.C presents: Grassroots Energy (Milton Keynes) at Unit Nine on Sat 26 Sept, South-east. 2 acts on the bill: A.M.C. and Phantom. Preview the line-up and save it on soundcheck.
+A.M.C presents: Grassroots Energy (Milton Keynes) at Unit Nine on Sat 26 Sept, South East. 2 artists on the bill: A.M.C. and Phantom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

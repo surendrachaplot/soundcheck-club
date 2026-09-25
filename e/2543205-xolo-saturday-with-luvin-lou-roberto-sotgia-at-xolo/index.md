@@ -1,6 +1,6 @@
 # Xolo Saturday with Luvin Lou & Roberto Sotgia at Xolo
 
-Xolo Saturday with Luvin Lou & Roberto Sotgia on Sat 26 Sept, Munich. 2 acts on the bill: Luvin'Lou and Roberto Sotgia. Techno and House. Preview the line-up and save it on soundcheck.
+Xolo Saturday with Luvin Lou & Roberto Sotgia on Sat 26 Sept, Munich. 2 artists on the bill: Luvin'Lou and Roberto Sotgia. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

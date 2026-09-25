@@ -1,6 +1,6 @@
 # sometimes even a strange beauty at the inner circle vienna / wien
 
-sometimes even a strange beauty at the inner circle vienna / wien on Sat 26 Sept, Vienna. 1 act on the bill: Techflex. Techno. Preview the line-up and save it on soundcheck.
+sometimes even a strange beauty at the inner circle vienna / wien on Sat 26 Sept, Vienna. 1 artist on the bill: Techflex. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

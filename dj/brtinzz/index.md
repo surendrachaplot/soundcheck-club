@@ -1,14 +1,14 @@
 # Brtinzz
 
-Brtinzz is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Canava House, All on Sat, 26 Sept 2026.
+Brtinzz is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Canava House, Slovenia on Sat, 26 Sept 2026.
 
-Brtinzz is a techno and trance artist based in Slovenia, tracked on soundcheck, with 39 sets logged across All, Amsterdam, Barcelona and Belgrade and 8 more. Often billed alongside GLIA, Manrick Stapez and PHLOXO. Next up: Canava House, All on Sat 26 Sept.
+Brtinzz is a techno and trance artist based in Slovenia, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 8 more. Often billed alongside GLIA, Manrick Stapez and PHLOXO. Next up: Canava House, Slovenia on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Canava House | All |
+| Sat, 26 Sept 2026 | Canava House | Slovenia |
 | Fri, 2 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 23 Oct 2026 | Bar Broei | Ghent |
 | Sat, 24 Oct 2026 | BASIS | Utrecht |

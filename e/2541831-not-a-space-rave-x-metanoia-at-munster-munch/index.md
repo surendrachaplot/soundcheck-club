@@ -1,6 +1,6 @@
 # NOT A SPACE RAVE X Metanoia at Munster Munch
 
-NOT A SPACE RAVE X Metanoia at Munster Munch on Sat 3 Oct, London. 3 acts on the bill: calypso, Dimanté and LeNil. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+NOT A SPACE RAVE X Metanoia at Munster Munch on Sat 3 Oct, London. 3 artists on the bill: calypso, Dimanté and LeNil. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

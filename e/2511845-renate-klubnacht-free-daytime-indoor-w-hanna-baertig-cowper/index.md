@@ -1,6 +1,6 @@
 # Renate Klubnacht + Free Daytime Indoor w/ Hanna Baertig, Cowper, Infamous Ali, sleeptwitch at Renate
 
-Renate Klubnacht + Free Daytime Indoor w/ Hanna Baertig, Cowper, Infamous Ali, sleeptwitch on Sat 26 Sept, Berlin. 15 acts on the bill: BBYG, Celex, Chaques and Cowper and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Free Daytime Indoor w/ Hanna Baertig, Cowper, Infamous Ali, sleeptwitch on Sat 26 Sept, Berlin. 15 artists on the bill: BBYG, Celex, Chaques and Cowper and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

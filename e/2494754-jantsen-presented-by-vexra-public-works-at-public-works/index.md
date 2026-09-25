@@ -1,6 +1,6 @@
 # JANTSEN PRESENTED BY VEXRA & Public Works at Public Works
 
-JANTSEN PRESENTED BY VEXRA & Public Works on Sat 3 Oct, Sanfrancisco. Preview the line-up and save it on soundcheck.
+JANTSEN PRESENTED BY VEXRA & Public Works on Sat 3 Oct, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

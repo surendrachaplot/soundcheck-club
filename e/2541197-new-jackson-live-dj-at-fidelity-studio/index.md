@@ -1,6 +1,6 @@
 # New Jackson (Live/DJ) at Fidelity Studio
 
-New Jackson (Live/DJ) at Fidelity Studio on Sat 7 Nov, Dublin. 1 act on the bill: New Jackson. Preview the line-up and save it on soundcheck.
+New Jackson (Live/DJ) at Fidelity Studio on Sat 7 Nov, Dublin. 1 artist on the bill: New Jackson. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

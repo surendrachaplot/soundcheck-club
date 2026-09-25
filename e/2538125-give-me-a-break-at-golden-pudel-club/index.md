@@ -1,6 +1,6 @@
 # Give Me A Break at Golden Pudel Club
 
-Give Me A Break at Golden Pudel Club on Thu 1 Oct, Hamburg. 5 acts on the bill: Farsight, Ivaldo Gino, Nassstya and PUSS1 BABA and 1 more. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+Give Me A Break at Golden Pudel Club on Thu 1 Oct, Hamburg. 5 artists on the bill: Farsight, Ivaldo Gino, Nassstya and PUSS1 BABA and 1 more. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KEEP ON with ButhoTheWarrior at La Cheetah Club
 
-KEEP ON with ButhoTheWarrior at La Cheetah Club on Sun 27 Sept, Glasgow. 3 acts on the bill: ButhoTheWarrior, David Barbarossa and OOFT. Disco and Afrobeat. Preview the line-up and save it on soundcheck.
+KEEP ON with ButhoTheWarrior at La Cheetah Club on Sun 27 Sept, Glasgow. 3 artists on the bill: ButhoTheWarrior, David Barbarossa and OOFT. Disco and Afrobeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

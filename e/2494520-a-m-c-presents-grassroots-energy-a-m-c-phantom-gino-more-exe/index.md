@@ -1,6 +1,6 @@
 # A.M.C presents Grassroots Energy - A.M.C + PHANTOM, GINO + more - Exeter at Move
 
-A.M.C presents Grassroots Energy - A.M.C + PHANTOM, GINO + more - Exeter at Move on Fri 13 Nov, West-wales. 1 act on the bill: A.M.C.. Preview the line-up and save it on soundcheck.
+A.M.C presents Grassroots Energy - A.M.C + PHANTOM, GINO + more - Exeter at Move on Fri 13 Nov, West Wales. 1 artist on the bill: A.M.C.. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

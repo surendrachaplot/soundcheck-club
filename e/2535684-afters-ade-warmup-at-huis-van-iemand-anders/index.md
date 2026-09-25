@@ -1,6 +1,6 @@
 # Afters: ADE Warmup at Huis van Iemand Anders
 
-Afters: ADE Warmup at Huis van Iemand Anders on Fri 16 Oct, Amsterdam. 1 act on the bill: NoMore. House and Deep House. Preview the line-up and save it on soundcheck.
+Afters: ADE Warmup at Huis van Iemand Anders on Fri 16 Oct, Amsterdam. 1 artist on the bill: NoMore. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

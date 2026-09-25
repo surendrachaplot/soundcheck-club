@@ -1,6 +1,6 @@
 # Nightmare on Nightcore St at TBA - 818-724-7836
 
-Nightmare on Nightcore St at TBA - 818-724-7836 on Fri 30 Oct, Losangeles. 3 acts on the bill: BL4ZE, S0 CYB3R and T3KNO. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Nightmare on Nightcore St at TBA - 818-724-7836 on Fri 30 Oct, Los Angeles. 3 artists on the bill: BL4ZE, S0 CYB3R and T3KNO. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

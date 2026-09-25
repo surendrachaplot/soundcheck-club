@@ -1,6 +1,6 @@
 # Romare (Live) at Belgrave Music Hall
 
-Romare (Live) at Belgrave Music Hall on Thu 29 Oct, Leeds. 1 act on the bill: Romare. House. Preview the line-up and save it on soundcheck.
+Romare (Live) at Belgrave Music Hall on Thu 29 Oct, Leeds. 1 artist on the bill: Romare. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

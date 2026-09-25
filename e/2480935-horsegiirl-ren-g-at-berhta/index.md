@@ -1,6 +1,6 @@
 # horsegiirL, Ren G at BERHTA
 
-horsegiirL, Ren G at BERHTA on Sat 24 Oct, Washingtondc. 1 act on the bill: horsegiirL. Electronica. Preview the line-up and save it on soundcheck.
+horsegiirL, Ren G at BERHTA on Sat 24 Oct, Washington DC. 1 artist on the bill: horsegiirL. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

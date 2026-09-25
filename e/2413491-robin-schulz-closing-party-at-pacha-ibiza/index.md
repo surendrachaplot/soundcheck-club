@@ -1,6 +1,6 @@
 # Robin Schulz - CLOSING PARTY at Pacha Ibiza
 
-Robin Schulz - CLOSING PARTY at Pacha Ibiza on Sat 3 Oct, Ibiza. 4 acts on the bill: Alle Farben, LOVRA, Oliver Heldens and Robin Schulz. House. Preview the line-up and save it on soundcheck.
+Robin Schulz - CLOSING PARTY at Pacha Ibiza on Sat 3 Oct, Ibiza. 4 artists on the bill: Alle Farben, LOVRA, Oliver Heldens and Robin Schulz. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

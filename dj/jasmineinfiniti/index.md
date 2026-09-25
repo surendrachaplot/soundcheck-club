@@ -2,7 +2,7 @@
 
 Jasmine Infiniti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at El Rio, San Francisco/Oakland on Wed, 14 Oct 2026.
 
-Jasmine Infiniti is a techno and house artist based in United States of America, tracked on soundcheck, with 79 sets logged across Auckland, Barcelona, Berlin and Chicago and 17 more. Often billed alongside TYGAPAW, Cali Rose and Cisne. Next up: El Rio, Sanfrancisco on Wed 14 Oct.
+Jasmine Infiniti is a techno and house artist based in United States of America, tracked on soundcheck, with 79 sets logged across Auckland, Barcelona, Berlin and Chicago and 17 more. Often billed alongside TYGAPAW, Cali Rose and Cisne. Next up: El Rio, San Francisco/Oakland on Wed 14 Oct.
 
 ## Upcoming shows
 

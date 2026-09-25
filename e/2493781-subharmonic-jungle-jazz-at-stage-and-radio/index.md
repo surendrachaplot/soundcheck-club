@@ -1,6 +1,6 @@
 # SubHarmonic: Jungle & Jazz at Stage and Radio
 
-SubHarmonic: Jungle & Jazz at Stage and Radio on Sat 10 Oct, Manchester. 3 acts on the bill: adamine, simmo and Sweetly. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+SubHarmonic: Jungle & Jazz at Stage and Radio on Sat 10 Oct, Manchester. 3 artists on the bill: adamine, simmo and Sweetly. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

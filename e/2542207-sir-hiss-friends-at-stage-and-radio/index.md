@@ -1,6 +1,6 @@
 # Sir Hiss & Friends at Stage and Radio
 
-Sir Hiss & Friends at Stage and Radio on Sat 28 Nov, Manchester. 1 act on the bill: Sir Hiss. Electro and Grime. Preview the line-up and save it on soundcheck.
+Sir Hiss & Friends at Stage and Radio on Sat 28 Nov, Manchester. 1 artist on the bill: Sir Hiss. Electro and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

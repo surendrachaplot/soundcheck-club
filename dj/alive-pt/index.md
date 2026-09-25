@@ -2,7 +2,7 @@
 
 Alive is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Alive is a house and techno artist based in Portugal, tracked on soundcheck, with 9 sets logged across Athens, Lisbon, Losangeles and Manchester and 1 more. Often billed alongside Andy C, Carlos Regadas and Pedro Tabuada. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Alive is a house and techno artist based in Portugal, tracked on soundcheck, with 9 sets logged across Athens, Lisbon, Los Angeles and Manchester and 1 more. Often billed alongside Andy C, Carlos Regadas and Pedro Tabuada. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 

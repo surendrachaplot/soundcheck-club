@@ -2,7 +2,7 @@
 
 Elli Arakawa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
-Elli Arakawa is a techno and house artist based in Japan, tracked on soundcheck, with 31 sets logged across Amsterdam, Bangkok, Hongkong and Melbourne and 4 more. Often billed alongside DJ Yazi, DJ Gordon and DJ Nobu. Next up: Tai Tong Organic Ecopark, Hongkong on Sat 14 Nov.
+Elli Arakawa is a techno and house artist based in Japan, tracked on soundcheck, with 31 sets logged across Amsterdam, Bangkok, Hong Kong and Melbourne and 4 more. Often billed alongside DJ Yazi, DJ Gordon and DJ Nobu. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
 
 ## Upcoming shows
 

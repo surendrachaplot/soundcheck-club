@@ -1,6 +1,6 @@
 # DUSK presents: Cinna Peyghamy, Detraex Corp, Psyclo at Vespers Club
 
-DUSK presents: Cinna Peyghamy, Detraex Corp, Psyclo at Vespers Club on Thu 12 Nov, London. 3 acts on the bill: Cinna Peyghamy, Psyclo and SKYAPNEA. Dub and Experimental. Preview the line-up and save it on soundcheck.
+DUSK presents: Cinna Peyghamy, Detraex Corp, Psyclo at Vespers Club on Thu 12 Nov, London. 3 artists on the bill: Cinna Peyghamy, Psyclo and SKYAPNEA. Dub and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

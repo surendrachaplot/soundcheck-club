@@ -1,6 +1,6 @@
 # Awakenings ADE - Prophecy by Prospa at Sugarfactory
 
-Awakenings ADE - Prophecy by Prospa at Sugarfactory on Sun 25 Oct, Amsterdam. 5 acts on the bill: ISAbella, Job de Jong, Prospa and Tommy Phillips and 1 more. House. Preview the line-up and save it on soundcheck.
+Awakenings ADE - Prophecy by Prospa at Sugarfactory on Sun 25 Oct, Amsterdam. 5 artists on the bill: ISAbella, Job de Jong, Prospa and Tommy Phillips and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

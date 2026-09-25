@@ -2,7 +2,7 @@
 
 Alex M.O.R.P.H. is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 528 Ibiza, Ibiza on Thu, 24 Sept 2026.
 
-Alex M.O.R.P.H. is a trance and progressive house artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Ibiza, London and Newyorkcity and 4 more. Often billed alongside Aly & Fila, Paul Van Dyk and Ciaran McAuley. Next up: 528 Ibiza, Ibiza on Thu 24 Sept.
+Alex M.O.R.P.H. is a trance and progressive house artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Ibiza, London and New York City and 4 more. Often billed alongside Aly & Fila, Paul Van Dyk and Ciaran McAuley. Next up: 528 Ibiza, Ibiza on Thu 24 Sept.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Nimue is a House and Classical artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tausend, Berlin on Thu, 24 Sept 2026.
 
-Nimue is a house and classical artist based in Italy, tracked on soundcheck, with 18 sets logged across Berlin, Lisbon, Madrid and Mexicocity. Often billed alongside AB, DECO (MX) and Juan Soto. Next up: Tausend, Berlin on Thu 24 Sept.
+Nimue is a house and classical artist based in Italy, tracked on soundcheck, with 18 sets logged across Berlin, Lisbon, Madrid and Mexico City. Often billed alongside AB, DECO (MX) and Juan Soto. Next up: Tausend, Berlin on Thu 24 Sept.
 
 ## Upcoming shows
 

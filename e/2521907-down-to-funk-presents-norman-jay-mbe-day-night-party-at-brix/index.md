@@ -1,6 +1,6 @@
 # DOWN TO FUNK PRESENTS: Norman Jay MBE - Day & Night Party at Brixton Jamm
 
-DOWN TO FUNK PRESENTS: Norman Jay MBE - Day & Night Party at Brixton Jamm on Sat 26 Sept, London. 2 acts on the bill: Norman Jay and Tooke. House and Disco. Preview the line-up and save it on soundcheck.
+DOWN TO FUNK PRESENTS: Norman Jay MBE - Day & Night Party at Brixton Jamm on Sat 26 Sept, London. 2 artists on the bill: Norman Jay and Tooke. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

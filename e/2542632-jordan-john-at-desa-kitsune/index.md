@@ -1,6 +1,6 @@
 # JORDAN JOHN at Desa Kitsune
 
-JORDAN JOHN at Desa Kitsune on Tue 3 Nov, Bali. 1 act on the bill: Jordan John. Techno and Deep House. Preview the line-up and save it on soundcheck.
+JORDAN JOHN at Desa Kitsune on Tue 3 Nov, Bali. 1 artist on the bill: Jordan John. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

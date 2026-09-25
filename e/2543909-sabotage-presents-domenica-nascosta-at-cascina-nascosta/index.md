@@ -1,6 +1,6 @@
 # Sabotage presents Domenica Nascosta at Cascina nascosta
 
-Sabotage presents Domenica Nascosta at Cascina nascosta on Sun 4 Oct, Milan. 5 acts on the bill: ARMANDO, Duwe, LEMME and Lovin Duo and 1 more. Acid and Electronica. Preview the line-up and save it on soundcheck.
+Sabotage presents Domenica Nascosta at Cascina nascosta on Sun 4 Oct, Milan. 5 artists on the bill: ARMANDO, Duwe, LEMME and Lovin Duo and 1 more. Acid and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RekTek presents Casnova at Distrikt
 
-RekTek presents Casnova at Distrikt on Fri 2 Oct, Leeds. 1 act on the bill: Casnova. House and Garage. Preview the line-up and save it on soundcheck.
+RekTek presents Casnova at Distrikt on Fri 2 Oct, Leeds. 1 artist on the bill: Casnova. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

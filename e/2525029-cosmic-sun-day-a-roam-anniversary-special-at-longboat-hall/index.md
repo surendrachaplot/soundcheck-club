@@ -1,6 +1,6 @@
 # cosmic sun day: a roam anniversary special at Longboat Hall
 
-cosmic sun day: a roam anniversary special at Longboat Hall on Sun 18 Oct, Toronto. 2 acts on the bill: Joe Claussell and Skratch Bastid. Deep House and Jazz. Preview the line-up and save it on soundcheck.
+cosmic sun day: a roam anniversary special at Longboat Hall on Sun 18 Oct, Toronto. 2 artists on the bill: Joe Claussell and Skratch Bastid. Deep House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

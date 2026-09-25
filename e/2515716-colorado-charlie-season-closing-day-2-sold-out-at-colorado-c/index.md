@@ -1,6 +1,6 @@
 # Colorado Charlie - Season Closing Day 2 (SOLD OUT) at Colorado Charlie
 
-Colorado Charlie - Season Closing Day 2 (SOLD OUT) on Sat 26 Sept, Thehague. 5 acts on the bill: Daughter In Law, Job de Jong, LI-YU and Michel de Hey and 1 more. House. Preview the line-up and save it on soundcheck.
+Colorado Charlie - Season Closing Day 2 (SOLD OUT) on Sat 26 Sept, The Hague. 5 artists on the bill: Daughter In Law, Job de Jong, LI-YU and Michel de Hey and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

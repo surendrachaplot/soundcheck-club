@@ -1,6 +1,6 @@
 # Ivy Lab: A Farewell Tour at SILO
 
-Ivy Lab: A Farewell Tour at SILO on Sat 10 Oct, Newyorkcity. 1 act on the bill: Ivy Lab. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Ivy Lab: A Farewell Tour at SILO on Sat 10 Oct, New York City. 1 artist on the bill: Ivy Lab. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

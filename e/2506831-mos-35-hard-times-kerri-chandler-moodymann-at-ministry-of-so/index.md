@@ -1,6 +1,6 @@
 # MoS 35: Hard Times: Kerri Chandler & Moodymann at Ministry Of Sound
 
-MoS 35: Hard Times: Kerri Chandler & Moodymann at Ministry Of Sound on Sat 3 Oct, London. 6 acts on the bill: Booker T, Flo Real, Kerri Chandler and Moodymann and 2 more. House. Preview the line-up and save it on soundcheck.
+MoS 35: Hard Times: Kerri Chandler & Moodymann at Ministry Of Sound on Sat 3 Oct, London. 6 artists on the bill: Booker T, Flo Real, Kerri Chandler and Moodymann and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

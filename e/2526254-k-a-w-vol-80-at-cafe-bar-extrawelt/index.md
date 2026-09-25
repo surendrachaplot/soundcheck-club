@@ -1,6 +1,6 @@
 # K(・A・)W Vol,80 at Cafe & Bar Extrawelt
 
-K(・A・)W Vol,80 at Cafe & Bar Extrawelt on Sat 17 Oct, Tokyo. 1 act on the bill: Kaw (1). Electro and Experimental. Preview the line-up and save it on soundcheck.
+K(・A・)W Vol,80 at Cafe & Bar Extrawelt on Sat 17 Oct, Tokyo. 1 artist on the bill: Kaw. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

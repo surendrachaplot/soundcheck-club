@@ -1,6 +1,6 @@
 # CLOWNZONE - Goth Clown Night at F8 1192 Folsom
 
-CLOWNZONE - Goth Clown Night at F8 1192 Folsom on Tue 6 Oct, Sanfrancisco. 2 acts on the bill: Byter and Hex Embrace. Club and EBM. Preview the line-up and save it on soundcheck.
+CLOWNZONE - Goth Clown Night at F8 1192 Folsom on Tue 6 Oct, San Francisco/Oakland. 2 artists on the bill: Byter and Hex Embrace. Club and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

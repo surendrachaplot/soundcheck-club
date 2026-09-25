@@ -1,6 +1,6 @@
 # SOAP x The Lounge presents: Club Angel & SHUFFA at Centre Point
 
-SOAP x The Lounge presents: Club Angel & SHUFFA at Centre Point on Sat 17 Oct, Dublin. 3 acts on the bill: charlois, Club Angel and SHUFFA. Preview the line-up and save it on soundcheck.
+SOAP x The Lounge presents: Club Angel & SHUFFA at Centre Point on Sat 17 Oct, Dublin. 3 artists on the bill: charlois, Club Angel and SHUFFA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

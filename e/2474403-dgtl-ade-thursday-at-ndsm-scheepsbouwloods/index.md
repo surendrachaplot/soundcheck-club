@@ -1,6 +1,6 @@
 # DGTL ADE Thursday at NDSM Scheepsbouwloods
 
-DGTL ADE Thursday at NDSM Scheepsbouwloods on Thu 22 Oct, Amsterdam. 9 acts on the bill: Benwal, DJ EZ, Dr Dubplate and Helena Lauwaert and 5 more. Trance and Garage. Preview the line-up and save it on soundcheck.
+DGTL ADE Thursday at NDSM Scheepsbouwloods on Thu 22 Oct, Amsterdam. 9 artists on the bill: Benwal, DJ EZ, Dr Dubplate and Helena Lauwaert and 5 more. Trance and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

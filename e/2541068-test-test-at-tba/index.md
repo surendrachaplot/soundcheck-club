@@ -1,6 +1,6 @@
 # Test Test at TBA
 
-Test Test at TBA on Wed 21 Oct, Amsterdam. 1 act on the bill: OGUZ. Electro. Preview the line-up and save it on soundcheck.
+Test Test at TBA on Wed 21 Oct, Amsterdam. 1 artist on the bill: OGUZ. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

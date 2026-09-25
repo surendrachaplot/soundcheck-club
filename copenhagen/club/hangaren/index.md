@@ -17,7 +17,7 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 15 upcoming gigs, 
 | Sat, 17 Oct 2026 | Mika Heggemann, Cara Elizabeth, David Garset | Cara Elizabeth, David Garset, Mika Heggemann |
 | Fri, 23 Oct 2026 | KUSS, Miss Puppy, Mëtro | KUSS, Miss Puppy, Mëtro |
 | Sat, 24 Oct 2026 | CAIVA, Vixen, steamboi | CAIVA, Vixen, steamboi |
-| Fri, 6 Nov 2026 | fumi | fumi (DE) |
+| Fri, 6 Nov 2026 | fumi, Sylvia, David Garset, Milo Makua | David Garset, Milo Makua, Sylvia (ES), fumi (DE) |
 
 ## Address
 

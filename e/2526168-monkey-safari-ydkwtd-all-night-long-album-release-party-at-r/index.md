@@ -1,6 +1,6 @@
 # Monkey Safari - YDKWTD - (All Night Long) Album Release Party at Ritter Butzke
 
-Monkey Safari - YDKWTD - (All Night Long) Album Release Party at Ritter Butzke on Sat 14 Nov, Berlin. 1 act on the bill: Monkey Safari. Techno. Preview the line-up and save it on soundcheck.
+Monkey Safari - YDKWTD - (All Night Long) Album Release Party at Ritter Butzke on Sat 14 Nov, Berlin. 1 artist on the bill: Monkey Safari. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

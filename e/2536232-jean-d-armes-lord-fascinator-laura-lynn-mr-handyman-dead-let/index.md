@@ -1,6 +1,6 @@
 # Jean d'Armes, Lord Fascinator, Laura Lynn, Mr. Handyman - Dead Letter No.9 at Dead Letter No. 9
 
-Jean d'Armes, Lord Fascinator, Laura Lynn, Mr. Handyman - Dead Letter No.9 at Dead Letter No. 9 on Fri 16 Oct, Newyorkcity. 2 acts on the bill: Laura Lynn and Lord Fascinator. House. Preview the line-up and save it on soundcheck.
+Jean d'Armes, Lord Fascinator, Laura Lynn, Mr. Handyman - Dead Letter No.9 at Dead Letter No. 9 on Fri 16 Oct, New York City. 2 artists on the bill: Laura Lynn and Lord Fascinator. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

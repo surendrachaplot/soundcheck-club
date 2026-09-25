@@ -1,6 +1,6 @@
 # Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew at Culture Cafe
 
-Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew at Culture Cafe on Tue 6 Oct, Bangkok. 1 act on the bill: MOODYBOOM. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew at Culture Cafe on Tue 6 Oct, Bangkok. 1 artist on the bill: MOODYBOOM. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

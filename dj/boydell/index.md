@@ -2,7 +2,7 @@
 
 Boydell is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Elsewhere, New York City on Thu, 1 Oct 2026.
 
-Boydell is a garage and dubstep artist based in United States of America, tracked on soundcheck, with 17 sets logged across Kualalumpur and Newyorkcity. Often billed alongside Peregrine (US), BUNZ and ALEX PAN. Next up: Elsewhere, Newyorkcity on Thu 1 Oct.
+Boydell is a garage and dubstep artist based in United States of America, tracked on soundcheck, with 17 sets logged across Kuala Lumpur and New York City. Often billed alongside Peregrine (US), BUNZ and ALEX PAN. Next up: Elsewhere, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 

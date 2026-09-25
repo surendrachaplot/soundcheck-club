@@ -1,6 +1,6 @@
 # Looking for Amanda at Malaga Sin City
 
-Looking for Amanda at Malaga Sin City on Sat 26 Sept, Milan. 3 acts on the bill: Avikal, David Bes and Stefano Riva. Minimal. Preview the line-up and save it on soundcheck.
+Looking for Amanda at Malaga Sin City on Sat 26 Sept, Milan. 3 artists on the bill: Avikal, David Bes and Stefano Riva. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

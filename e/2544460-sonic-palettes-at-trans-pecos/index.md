@@ -1,6 +1,6 @@
 # SONIC PALETTES at Trans-Pecos
 
-SONIC PALETTES at Trans-Pecos on Fri 23 Oct, Newyorkcity. 6 acts on the bill: ARCHANGEL (US), Bodegaparty, g.io and Griffin Maxwell Brooks and 2 more. Footwork and Electronica. Preview the line-up and save it on soundcheck.
+SONIC PALETTES at Trans-Pecos on Fri 23 Oct, New York City. 6 artists on the bill: ARCHANGEL (US), Bodegaparty, g.io and Griffin Maxwell Brooks and 2 more. Footwork and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

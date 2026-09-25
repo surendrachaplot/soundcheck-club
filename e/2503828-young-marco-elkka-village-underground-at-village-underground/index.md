@@ -1,6 +1,6 @@
 # Young Marco & Elkka - Village Underground at Village Underground
 
-Young Marco & Elkka - Village Underground on Sat 10 Oct, London. 2 acts on the bill: Elkka and Young Marco. House. Preview the line-up and save it on soundcheck.
+Young Marco & Elkka - Village Underground on Sat 10 Oct, London. 2 artists on the bill: Elkka and Young Marco. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

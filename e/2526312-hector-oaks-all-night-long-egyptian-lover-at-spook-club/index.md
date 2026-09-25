@@ -1,6 +1,6 @@
 # Hector Oaks all night long + Egyptian Lover at Spook Club
 
-Hector Oaks all night long + Egyptian Lover at Spook Club on Sat 7 Nov, Valencia. 2 acts on the bill: Egyptian Lover and Héctor Oaks. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Hector Oaks all night long + Egyptian Lover at Spook Club on Sat 7 Nov, Valencia. 2 artists on the bill: Egyptian Lover and Héctor Oaks. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

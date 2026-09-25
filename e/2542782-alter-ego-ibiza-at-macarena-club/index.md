@@ -1,6 +1,6 @@
 # Alter Ego Ibiza at Macarena Club
 
-Alter Ego Ibiza at Macarena Club on Fri 9 Oct, Barcelona. 1 act on the bill: Hofer66. Preview the line-up and save it on soundcheck.
+Alter Ego Ibiza at Macarena Club on Fri 9 Oct, Barcelona. 1 artist on the bill: Hofer66. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

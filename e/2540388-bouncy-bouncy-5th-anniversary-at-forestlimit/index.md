@@ -1,6 +1,6 @@
 # BOUNCY BOUNCY 5th Anniversary at Forestlimit
 
-BOUNCY BOUNCY 5th Anniversary at Forestlimit on Fri 9 Oct, Tokyo. 3 acts on the bill: echocatcher, MileZ and ZHUO. Techno and Bass. Preview the line-up and save it on soundcheck.
+BOUNCY BOUNCY 5th Anniversary at Forestlimit on Fri 9 Oct, Tokyo. 3 artists on the bill: echocatcher, MileZ and ZHUO. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

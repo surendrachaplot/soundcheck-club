@@ -2,7 +2,7 @@
 
 Lucas Croon is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Salon des Amateurs, Düsseldorf on Sat, 10 Oct 2026.
 
-Lucas Croon is a house and electronica artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Bristol, Cologne and Dusseldorf and 2 more. Often billed alongside An-i, Andrea Zucca and Kayne the Hermit. Next up: Salon des Amateurs, Dusseldorf on Sat 10 Oct.
+Lucas Croon is a house and electronica artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Bristol, Cologne and Düsseldorf and 2 more. Often billed alongside An-i, Andrea Zucca and Kayne the Hermit. Next up: Salon des Amateurs, Düsseldorf on Sat 10 Oct.
 
 ## Upcoming shows
 

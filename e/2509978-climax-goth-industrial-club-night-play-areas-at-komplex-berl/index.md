@@ -1,6 +1,6 @@
 # Climax - Goth / Industrial club night + play areas at Komplex Berlin
 
-Climax - Goth / Industrial club night + play areas at Komplex Berlin on Sat 3 Oct, Berlin. 1 act on the bill: Mira Iranpour. EBM and Industrial. Preview the line-up and save it on soundcheck.
+Climax - Goth / Industrial club night + play areas at Komplex Berlin on Sat 3 Oct, Berlin. 1 artist on the bill: Mira Iranpour. EBM and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

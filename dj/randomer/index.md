@@ -1,14 +1,15 @@
 # Randomer
 
-Randomer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Blank Site, Seoul on Fri, 25 Sept 2026.
+Randomer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Blank Site, Seoul on Fri, 25 Sept 2026.
 
-Randomer is a techno and house artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Barcelona and Basel and 38 more. Often billed alongside AADJA, Anetha and Clouds. Next up: Blank Site, Seoul on Fri 25 Sept.
+Randomer is a techno and house artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Austin, Barcelona and Basel and 38 more. Often billed alongside AADJA, Anetha and Clouds. Next up: Blank Site, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Blank Site | Seoul |
+| Fri, 2 Oct 2026 | La Gravière | Geneva |
 | Sat, 31 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Kat Kat Tat at Teritorija
 
-Kat Kat Tat at Teritorija on Sat 26 Sept, Riga. 1 act on the bill: Kat Kat Tat. House. Preview the line-up and save it on soundcheck.
+Kat Kat Tat at Teritorija on Sat 26 Sept, Riga. 1 artist on the bill: Kat Kat Tat. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

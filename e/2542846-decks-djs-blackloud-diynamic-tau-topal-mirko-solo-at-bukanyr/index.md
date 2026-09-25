@@ -1,6 +1,6 @@
 # Decks - djs Blackloud (Diynamic, TAU), Topal, Mirko Solo at Bukanyr Boat
 
-Decks - djs Blackloud (Diynamic, TAU), Topal, Mirko Solo at Bukanyr Boat on Fri 30 Oct, Prague. 2 acts on the bill: Blackloud and Topal. Techno and House. Preview the line-up and save it on soundcheck.
+Decks - djs Blackloud (Diynamic, TAU), Topal, Mirko Solo at Bukanyr Boat on Fri 30 Oct, Prague. 2 artists on the bill: Blackloud and Topal. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

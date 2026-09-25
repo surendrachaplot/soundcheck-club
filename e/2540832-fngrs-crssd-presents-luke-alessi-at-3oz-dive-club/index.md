@@ -1,6 +1,6 @@
 # FNGRS CRSSD presents Luke Alessi at 3oz Dive Club
 
-FNGRS CRSSD presents Luke Alessi at 3oz Dive Club on Fri 13 Nov, Sandiego. 1 act on the bill: Luke Alessi. Preview the line-up and save it on soundcheck.
+FNGRS CRSSD presents Luke Alessi at 3oz Dive Club on Fri 13 Nov, San Diego. 1 artist on the bill: Luke Alessi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

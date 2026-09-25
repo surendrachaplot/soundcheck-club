@@ -1,6 +1,6 @@
 # DOPAEMINE Collective presenta DOSE.002 at Bardo Speakeasy
 
-DOPAEMINE Collective presenta DOSE.002 at Bardo Speakeasy on Thu 1 Oct, Mexicocity. 1 act on the bill: Kimm Laara. House and Deep House. Preview the line-up and save it on soundcheck.
+DOPAEMINE Collective presenta DOSE.002 at Bardo Speakeasy on Thu 1 Oct, Mexico City. 1 artist on the bill: Kimm Laara. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

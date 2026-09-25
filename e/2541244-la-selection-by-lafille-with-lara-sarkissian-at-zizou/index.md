@@ -1,6 +1,6 @@
 # LA Selection by LAfille with Lara Sarkissian at Zizou
 
-LA Selection by LAfille with Lara Sarkissian at Zizou on Fri 2 Oct, Losangeles. House and Disco. Preview the line-up and save it on soundcheck.
+LA Selection by LAfille with Lara Sarkissian at Zizou on Fri 2 Oct, Los Angeles. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nachtwerk XXL Pres: USH I FUMI I CEEJAY I BLURREDMOVEMENT at Arzenal
 
-Nachtwerk XXL Pres: USH I FUMI I CEEJAY I BLURREDMOVEMENT at Arzenal on Fri 16 Oct, Budapest. 1 act on the bill: FUMI. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Nachtwerk XXL Pres: USH I FUMI I CEEJAY I BLURREDMOVEMENT at Arzenal on Fri 16 Oct, Budapest. 1 artist on the bill: FUMI. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

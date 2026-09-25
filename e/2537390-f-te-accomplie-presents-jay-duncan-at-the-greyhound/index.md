@@ -1,6 +1,6 @@
 # fête accomplie presents: Jay Duncan at The Greyhound
 
-fête accomplie presents: Jay Duncan at The Greyhound on Fri 13 Nov, London. 5 acts on the bill: DJ Tutorial, flxclxc, FRNTLEFT and Jay Duncan and 1 more. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+fête accomplie presents: Jay Duncan at The Greyhound on Fri 13 Nov, London. 5 artists on the bill: DJ Tutorial, flxclxc, FRNTLEFT and Jay Duncan and 1 more. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

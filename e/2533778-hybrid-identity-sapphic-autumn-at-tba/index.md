@@ -1,6 +1,6 @@
 # Hybrid Identity: sapphic autumn at TBA
 
-Hybrid Identity: sapphic autumn at TBA on Fri 9 Oct, Newyorkcity. 6 acts on the bill: Antenes, Constructible, Emsho and Ron Like Hell and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Hybrid Identity: sapphic autumn at TBA on Fri 9 Oct, New York City. 6 artists on the bill: Antenes, Constructible, Emsho and Ron Like Hell and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Avo (ES) is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at feedbk, New York City on Fri, 25 Sept 2026.
 
-Avo (ES) is a house and electronica artist based in Spain, tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Chicago and London and 7 more. Often billed alongside Cesc (ES), DANIL0 and Jorge Escribano. Next up: feedbk, Newyorkcity on Fri 25 Sept.
+Avo (ES) is a house and electronica artist based in Spain, tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Chicago and London and 7 more. Often billed alongside Cesc (ES), DANIL0 and Jorge Escribano. Next up: feedbk, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

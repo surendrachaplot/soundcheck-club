@@ -1,6 +1,6 @@
 # EHFM Club Night at Sneaky Pete's
 
-EHFM Club Night at Sneaky Pete's on Sat 3 Oct, Edinburgh. 4 acts on the bill: Lewis Lowe, Moray Leisure Centre, Rosehips and St Sunday. Bass and Club. Preview the line-up and save it on soundcheck.
+EHFM Club Night at Sneaky Pete's on Sat 3 Oct, Edinburgh. 4 artists on the bill: Lewis Lowe, Moray Leisure Centre, Rosehips and St Sunday. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

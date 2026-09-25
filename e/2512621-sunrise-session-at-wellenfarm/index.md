@@ -1,6 +1,6 @@
 # Sunrise Session at Wellenfarm
 
-Sunrise Session at Wellenfarm on Sat 10 Oct, Berlin. 1 act on the bill: Segun. Trance and Techno. Preview the line-up and save it on soundcheck.
+Sunrise Session at Wellenfarm on Sat 10 Oct, Berlin. 1 artist on the bill: Segun. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Pheebs is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Mash House, Edinburgh on Fri, 9 Oct 2026.
 
-Pheebs is a house and garage artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Edinburgh, London and Melbourne. Often billed alongside Ben Kok (2), BASTI(UK) and Discgrace. Next up: The Mash House, Edinburgh on Fri 9 Oct.
+Pheebs is a house and garage artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Edinburgh, London and Melbourne. Often billed alongside Ben Kok, BASTI(UK) and Discgrace. Next up: The Mash House, Edinburgh on Fri 9 Oct.
 
 ## Upcoming shows
 

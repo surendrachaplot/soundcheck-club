@@ -1,6 +1,6 @@
 # VTSS, HEN YANNI, Agathe Mougin at Silencio
 
-VTSS, HEN YANNI, Agathe Mougin at Silencio on Fri 2 Oct, Paris. 3 acts on the bill: Agathe Mougin, HEN YANNI and VTSS. Preview the line-up and save it on soundcheck.
+VTSS, HEN YANNI, Agathe Mougin at Silencio on Fri 2 Oct, Paris. 3 artists on the bill: Agathe Mougin, HEN YANNI and VTSS. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ADE - PIP GOES Skatecafe at Skatecafe
 
-ADE - PIP GOES Skatecafe on Fri 23 Oct, Amsterdam. 7 acts on the bill: David Vunk, Itz3bby, Izzy and Jeans (NL) and 3 more. House and Garage. Preview the line-up and save it on soundcheck.
+ADE - PIP GOES Skatecafe on Fri 23 Oct, Amsterdam. 7 artists on the bill: David Vunk, Itz3bby, Izzy and Jeans (NL) and 3 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cloonee presents Hellbent Liverpool at Blackstone Street Warehouse
 
-Cloonee presents Hellbent Liverpool at Blackstone Street Warehouse on Sat 7 Nov, Liverpool. 5 acts on the bill: Bontan, Cloonee, Delilah and Jamback and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Cloonee presents Hellbent Liverpool at Blackstone Street Warehouse on Sat 7 Nov, Liverpool. 5 artists on the bill: Bontan, Cloonee, Delilah and Jamback and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

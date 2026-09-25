@@ -1,6 +1,6 @@
 # REDBAR THURSDAY at Red Bar
 
-REDBAR THURSDAY at Red Bar on Thu 24 Sept, Tokyo. 2 acts on the bill: Ippei and Junya. Techno and House. Preview the line-up and save it on soundcheck.
+REDBAR THURSDAY at Red Bar on Thu 24 Sept, Tokyo. 2 artists on the bill: Ippei and Junya. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

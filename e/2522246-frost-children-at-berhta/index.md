@@ -1,6 +1,6 @@
 # Frost Children at BERHTA
 
-Frost Children at BERHTA on Sat 14 Nov, Washingtondc. 1 act on the bill: Frost Children. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
+Frost Children at BERHTA on Sat 14 Nov, Washington DC. 1 artist on the bill: Frost Children. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

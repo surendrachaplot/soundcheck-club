@@ -1,6 +1,6 @@
 # YODO GROOVE HALLOWEEN at Yodo Groove (Yodobashi Ikebukuro)
 
-YODO GROOVE HALLOWEEN at Yodo Groove (Yodobashi Ikebukuro) on Sat 31 Oct, Tokyo. 1 act on the bill: Ken Ishii. Techno. Preview the line-up and save it on soundcheck.
+YODO GROOVE HALLOWEEN at Yodo Groove (Yodobashi Ikebukuro) on Sat 31 Oct, Tokyo. 1 artist on the bill: Ken Ishii. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

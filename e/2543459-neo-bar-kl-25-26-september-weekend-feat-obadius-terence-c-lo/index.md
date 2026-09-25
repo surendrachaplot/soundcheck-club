@@ -1,6 +1,6 @@
 # Neo Bar KL 25,26 September Weekend feat. Obadius, Terence C, Low, Biscuit at TBA - Neo Bar KL- Ilham Tower , Level 37, Jalan Binjai 8, 50450
 
-Neo Bar KL 25,26 September Weekend feat. Obadius, Terence C, Low, Biscuit at TBA - Neo Bar KL- Ilham Tower , Level 37, Jalan Binjai 8, 50450 on Fri 25 Sept, Kualalumpur. 4 acts on the bill: Biscuit (MY), DJ Low (2), Obadius and Terence C. Drum & Bass and Italo Disco. Preview the line-up and save it on soundcheck.
+Neo Bar KL 25,26 September Weekend feat. Obadius, Terence C, Low, Biscuit at TBA - Neo Bar KL- Ilham Tower , Level 37, Jalan Binjai 8, 50450 on Fri 25 Sept, Kuala Lumpur. 4 artists on the bill: Biscuit (MY), DJ Low, Obadius and Terence C. Drum & Bass and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

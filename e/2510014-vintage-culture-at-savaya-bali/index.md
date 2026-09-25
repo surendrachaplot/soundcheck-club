@@ -1,6 +1,6 @@
 # Vintage Culture at Savaya Bali
 
-Vintage Culture at Savaya Bali on Sat 19 Dec, Bali. 1 act on the bill: Vintage Culture. House. Preview the line-up and save it on soundcheck.
+Vintage Culture at Savaya Bali on Sat 19 Dec, Bali. 1 artist on the bill: Vintage Culture. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

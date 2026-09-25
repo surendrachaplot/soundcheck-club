@@ -1,6 +1,6 @@
 # Afrojack presents: CONTROL at Shrine Auditorium and Expo Hall
 
-Afrojack presents: CONTROL at Shrine Auditorium and Expo Hall on Fri 27 Nov, Losangeles. 1 act on the bill: Afrojack. House and Electro. Preview the line-up and save it on soundcheck.
+Afrojack presents: CONTROL at Shrine Auditorium and Expo Hall on Fri 27 Nov, Los Angeles. 1 artist on the bill: Afrojack. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

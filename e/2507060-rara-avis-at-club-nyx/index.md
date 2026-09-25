@@ -1,6 +1,6 @@
 # RARA AVIS at Club NYX
 
-RARA AVIS at Club NYX on Sat 24 Oct, Amsterdam. 4 acts on the bill: DJ SEXSTASY, Spikey Lee, TEKNA and The Groovejet. Techno and House. Preview the line-up and save it on soundcheck.
+RARA AVIS at Club NYX on Sat 24 Oct, Amsterdam. 4 artists on the bill: DJ SEXSTASY, Spikey Lee, TEKNA and The Groovejet. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

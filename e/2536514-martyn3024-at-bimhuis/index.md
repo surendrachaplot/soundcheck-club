@@ -1,6 +1,6 @@
 # Martyn3024 at Bimhuis
 
-Martyn3024 at Bimhuis on Wed 21 Oct, Amsterdam. 1 act on the bill: Martyn. Electro and Jazz. Preview the line-up and save it on soundcheck.
+Martyn3024 at Bimhuis on Wed 21 Oct, Amsterdam. 1 artist on the bill: Martyn. Electro and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

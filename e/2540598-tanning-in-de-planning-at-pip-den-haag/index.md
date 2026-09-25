@@ -1,6 +1,6 @@
 # TANNING IN DE PLANNING at PIP Den Haag
 
-TANNING IN DE PLANNING at PIP Den Haag on Sat 19 Dec, Thehague. Preview the line-up and save it on soundcheck.
+TANNING IN DE PLANNING at PIP Den Haag on Sat 19 Dec, The Hague. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

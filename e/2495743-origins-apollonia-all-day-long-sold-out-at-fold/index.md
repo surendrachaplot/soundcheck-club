@@ -1,6 +1,6 @@
 # Origins: Apollonia - All Day Long [SOLD OUT] at FOLD
 
-Origins: Apollonia - All Day Long [SOLD OUT] at FOLD on Sat 10 Oct, London. 4 acts on the bill: Apollonia, Dan Ghenacia, Dyed Soundorom and Shonky. Preview the line-up and save it on soundcheck.
+Origins: Apollonia - All Day Long [SOLD OUT] at FOLD on Sat 10 Oct, London. 4 artists on the bill: Apollonia, Dan Ghenacia, Dyed Soundorom and Shonky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

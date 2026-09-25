@@ -1,6 +1,6 @@
 # ADE - Shanti Celeste Curates VBX at Skatecafe
 
-ADE - Shanti Celeste Curates VBX at Skatecafe on Thu 22 Oct, Amsterdam. 7 acts on the bill: A For Alpha, Doudou MD, Hylke and Jennifer Loveless and 3 more. Preview the line-up and save it on soundcheck.
+ADE - Shanti Celeste Curates VBX at Skatecafe on Thu 22 Oct, Amsterdam. 7 artists on the bill: A For Alpha, Doudou MD, Hylke and Jennifer Loveless and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

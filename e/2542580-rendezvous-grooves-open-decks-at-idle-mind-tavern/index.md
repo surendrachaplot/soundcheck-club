@@ -1,6 +1,6 @@
 # Rendezvous Grooves Open Decks at Idle Mind Tavern
 
-Rendezvous Grooves Open Decks at Idle Mind Tavern on Thu 24 Sept, Newyorkcity. House. Preview the line-up and save it on soundcheck.
+Rendezvous Grooves Open Decks at Idle Mind Tavern on Thu 24 Sept, New York City. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

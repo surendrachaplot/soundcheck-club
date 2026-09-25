@@ -1,6 +1,6 @@
 # GR:IT at Baalsaal
 
-GR:IT at Baalsaal on Fri 25 Sept, Hamburg. 3 acts on the bill: formula303, Linh (2) and shaccø. Techno. Preview the line-up and save it on soundcheck.
+GR:IT at Baalsaal on Fri 25 Sept, Hamburg. 3 artists on the bill: formula303, Linh and shaccø. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

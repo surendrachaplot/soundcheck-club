@@ -1,6 +1,6 @@
 # X-RAY: Roll Deep at Fuchs2
 
-X-RAY: Roll Deep at Fuchs2 on Sat 26 Sept, Prague. 8 acts on the bill: Dj Alyaz, Double J, fahell and JohnyM and 4 more. Grime. Preview the line-up and save it on soundcheck.
+X-RAY: Roll Deep at Fuchs2 on Sat 26 Sept, Prague. 8 artists on the bill: Dj Alyaz, Double J, fahell and JohnyM and 4 more. Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

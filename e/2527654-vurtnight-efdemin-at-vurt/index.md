@@ -1,6 +1,6 @@
 # vurtnight Efdemin at vurt.
 
-vurtnight Efdemin at vurt. on Fri 25 Sept, Seoul. 3 acts on the bill: Djilogue, Efdemin and SUNA. Techno. Preview the line-up and save it on soundcheck.
+vurtnight Efdemin at vurt. on Fri 25 Sept, Seoul. 3 artists on the bill: Djilogue, Efdemin and SUNA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

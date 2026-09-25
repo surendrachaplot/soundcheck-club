@@ -1,6 +1,6 @@
 # MAK 10 & Friends: Lethal Bizzle, Maximum, Izzy Bossy & more at Ministry Of Sound
 
-MAK 10 & Friends: Lethal Bizzle, Maximum, Izzy Bossy & more at Ministry Of Sound on Sat 17 Oct, London. 10 acts on the bill: Beezo, Bobbi, Capo Lee and Freja and 6 more. House and Grime. Preview the line-up and save it on soundcheck.
+MAK 10 & Friends: Lethal Bizzle, Maximum, Izzy Bossy & more at Ministry Of Sound on Sat 17 Oct, London. 10 artists on the bill: Beezo, Bobbi, Capo Lee and Freja and 6 more. House and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

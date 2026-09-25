@@ -1,6 +1,6 @@
 # Dillstradamus at New City Gas
 
-Dillstradamus at New City Gas on Sat 17 Oct, Montreal. 2 acts on the bill: Dillon Francis and Rusko. Preview the line-up and save it on soundcheck.
+Dillstradamus at New City Gas on Sat 17 Oct, Montreal. 2 artists on the bill: Dillon Francis and Rusko. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

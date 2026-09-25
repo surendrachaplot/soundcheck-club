@@ -1,6 +1,6 @@
 # Ypnotika x PVC at RADION
 
-Ypnotika x PVC at RADION on Sat 3 Oct, Amsterdam. 5 acts on the bill: Denise Rabe, R/D/V, Sploofi and Takaaki Itoh and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Ypnotika x PVC at RADION on Sat 3 Oct, Amsterdam. 5 artists on the bill: Denise Rabe, R/D/V, Sploofi and Takaaki Itoh and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

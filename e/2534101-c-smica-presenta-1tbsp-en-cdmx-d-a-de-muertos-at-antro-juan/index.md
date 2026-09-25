@@ -1,6 +1,6 @@
 # CÓSMICA presenta: 1tbsp en CDMX · Día de Muertos at Antro Juan
 
-CÓSMICA presenta: 1tbsp en CDMX · Día de Muertos at Antro Juan on Sun 1 Nov, Mexicocity. 2 acts on the bill: 1tbsp and Chico Sonido. Tech House and Club. Preview the line-up and save it on soundcheck.
+CÓSMICA presenta: 1tbsp en CDMX · Día de Muertos at Antro Juan on Sun 1 Nov, Mexico City. 2 artists on the bill: 1tbsp and Chico Sonido. Tech House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

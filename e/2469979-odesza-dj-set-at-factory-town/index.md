@@ -1,6 +1,6 @@
 # ODESZA (DJ Set) at Factory Town
 
-ODESZA (DJ Set) at Factory Town on Sat 14 Nov, Miami. 3 acts on the bill: Bob Moses, Boys Noize and ODESZA. Preview the line-up and save it on soundcheck.
+ODESZA (DJ Set) at Factory Town on Sat 14 Nov, Miami. 3 artists on the bill: Bob Moses, Boys Noize and ODESZA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

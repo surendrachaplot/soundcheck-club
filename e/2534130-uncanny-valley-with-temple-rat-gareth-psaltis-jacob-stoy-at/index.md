@@ -1,6 +1,6 @@
 # Uncanny Valley with Temple Rat, Gareth Psaltis, Jacob Stoy at Morphine Raum
 
-Uncanny Valley with Temple Rat, Gareth Psaltis, Jacob Stoy at Morphine Raum on Wed 7 Oct, Berlin. 3 acts on the bill: Gareth Psaltis, Jacob Stoy and Temple Rat. Breakbeat and Ambient. Preview the line-up and save it on soundcheck.
+Uncanny Valley with Temple Rat, Gareth Psaltis, Jacob Stoy at Morphine Raum on Wed 7 Oct, Berlin. 3 artists on the bill: Gareth Psaltis, Jacob Stoy and Temple Rat. Breakbeat and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

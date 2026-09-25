@@ -1,6 +1,6 @@
 # Nü Androids presents: Indo Warehouse at A.i Warehouse
 
-Nü Androids presents: Indo Warehouse at A.i Warehouse on Sat 26 Sept, Washingtondc. 2 acts on the bill: Kahani and Kunal Merchant. House. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Indo Warehouse at A.i Warehouse on Sat 26 Sept, Washington DC. 2 artists on the bill: Kahani and Kunal Merchant. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

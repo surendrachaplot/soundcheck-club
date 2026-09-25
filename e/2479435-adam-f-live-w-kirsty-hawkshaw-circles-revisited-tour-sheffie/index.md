@@ -1,6 +1,6 @@
 # Adam F Live W/ Kirsty Hawkshaw: Circles Revisited Tour Sheffield at FORGE
 
-Adam F Live W/ Kirsty Hawkshaw: Circles Revisited Tour Sheffield at FORGE on Fri 27 Nov, Sheffield. 2 acts on the bill: Adam F and Harry Shotta. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Adam F Live W/ Kirsty Hawkshaw: Circles Revisited Tour Sheffield at FORGE on Fri 27 Nov, Sheffield. 2 artists on the bill: Adam F and Harry Shotta. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

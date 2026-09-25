@@ -1,6 +1,6 @@
 # RUDE with Fanny, Clarry Berry, Meta Chrom and many more at elipamanoke
 
-RUDE with Fanny, Clarry Berry, Meta Chrom and many more at elipamanoke on Sat 26 Sept, Leipzig. 7 acts on the bill: DJ Luiser, DJ Würlpool, DYNASTY and L3OO and 3 more. Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
+RUDE with Fanny, Clarry Berry, Meta Chrom and many more at elipamanoke on Sat 26 Sept, Leipzig. 7 artists on the bill: DJ Luiser, DJ Würlpool, DYNASTY and L3OO and 3 more. Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

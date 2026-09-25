@@ -1,6 +1,6 @@
 # Reprobeats #5: Lobsta B, Milzy, Harmful Logic + more at The DBA
 
-Reprobeats #5: Lobsta B, Milzy, Harmful Logic + more at The DBA on Sat 17 Oct, Manchester. 6 acts on the bill: Aerbreak, D-Luc-D, DJ SARIA and Harmful Logic and 2 more. Hardcore and Bass. Preview the line-up and save it on soundcheck.
+Reprobeats #5: Lobsta B, Milzy, Harmful Logic + more at The DBA on Sat 17 Oct, Manchester. 6 artists on the bill: Aerbreak, D-Luc-D, DJ SARIA and Harmful Logic and 2 more. Hardcore and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

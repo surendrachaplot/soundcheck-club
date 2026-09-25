@@ -1,6 +1,6 @@
 # ONíRICA pres Chris Avantgarde at INPUT High Fidelity Dance Club
 
-ONíRICA pres Chris Avantgarde at INPUT High Fidelity Dance Club on Sat 28 Nov, Barcelona. 2 acts on the bill: Chris Avantgarde and Oriol Calvo. Deep House. Preview the line-up and save it on soundcheck.
+ONíRICA pres Chris Avantgarde at INPUT High Fidelity Dance Club on Sat 28 Nov, Barcelona. 2 artists on the bill: Chris Avantgarde and Oriol Calvo. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

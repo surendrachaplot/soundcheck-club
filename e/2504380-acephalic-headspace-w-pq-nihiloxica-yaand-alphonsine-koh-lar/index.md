@@ -1,6 +1,6 @@
 # ACEPHALIC HEADSPACE w PQ (Nihiloxica), YAAND, Alphonsine Koh, Lars Noll at TBA - check telegram
 
-ACEPHALIC HEADSPACE w PQ (Nihiloxica), YAAND, Alphonsine Koh, Lars Noll at TBA - check telegram on Sat 26 Sept, Berlin. 8 acts on the bill: Alphonsine Koh, Anna Butter, DON'T DJ and Lü (Luis Küffner) and 4 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
+ACEPHALIC HEADSPACE w PQ (Nihiloxica), YAAND, Alphonsine Koh, Lars Noll at TBA - check telegram on Sat 26 Sept, Berlin. 8 artists on the bill: Alphonsine Koh, Anna Butter, DON'T DJ and Lü (Luis Küffner) and 4 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

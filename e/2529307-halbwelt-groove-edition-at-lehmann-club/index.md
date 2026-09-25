@@ -1,6 +1,6 @@
 # HALBWELT GROOVE EDITION at Lehmann Club
 
-HALBWELT GROOVE EDITION at Lehmann Club on Fri 25 Sept, Stuttgart. 4 acts on the bill: dasstudach, Klaps, NIKO THE K1D and SHOKI287. Preview the line-up and save it on soundcheck.
+HALBWELT GROOVE EDITION at Lehmann Club on Fri 25 Sept, Stuttgart. 4 artists on the bill: dasstudach, Klaps, NIKO THE K1D and SHOKI287. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

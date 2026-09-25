@@ -1,6 +1,6 @@
 # Forbass & Tendence 15 Years at Central 1926
 
-Forbass & Tendence 15 Years at Central 1926 on Sat 26 Sept, Saopaulo. 2 acts on the bill: DJ Marky and MC Fox. Drum & Bass. Preview the line-up and save it on soundcheck.
+Forbass & Tendence 15 Years at Central 1926 on Sat 26 Sept, Sao Paulo. 2 artists on the bill: DJ Marky and MC Fox. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

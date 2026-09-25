@@ -1,6 +1,6 @@
 # 13 YRS Rebellion der Träumer* at Renate
 
-13 YRS Rebellion der Träumer* at Renate on Fri 16 Oct, Berlin. 53 acts on the bill: Adri Tüde, Andreas Rauscher, Apolonia and Borella and 49 more. Techno and House. Preview the line-up and save it on soundcheck.
+13 YRS Rebellion der Träumer* at Renate on Fri 16 Oct, Berlin. 53 artists on the bill: Adri Tüde, Andreas Rauscher, Apolonia and Borella and 49 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Log - IGNITION: INVITES PEAKSOU at Bad Bobs (Rooftop Terrace), Temple Bar
 
-The Log - IGNITION: INVITES PEAKSOU at Bad Bobs (Rooftop Terrace), Temple Bar on Fri 9 Oct, Dublin. 1 act on the bill: PEAKSOU. Trance and House. Preview the line-up and save it on soundcheck.
+The Log - IGNITION: INVITES PEAKSOU at Bad Bobs (Rooftop Terrace), Temple Bar on Fri 9 Oct, Dublin. 1 artist on the bill: PEAKSOU. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

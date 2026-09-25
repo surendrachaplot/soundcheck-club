@@ -1,6 +1,6 @@
 # Pre- HALLOWEEN TURN UP at TV Lounge
 
-Pre- HALLOWEEN TURN UP at TV Lounge on Fri 30 Oct, Detroit. 2 acts on the bill: Bruce Bailey and LADYMONIX. House. Preview the line-up and save it on soundcheck.
+Pre- HALLOWEEN TURN UP at TV Lounge on Fri 30 Oct, Detroit. 2 artists on the bill: Bruce Bailey and LADYMONIX. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

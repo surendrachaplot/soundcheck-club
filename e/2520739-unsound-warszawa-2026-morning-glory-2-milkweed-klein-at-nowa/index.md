@@ -1,6 +1,6 @@
 # Unsound Warszawa 2026: MORNING GLORY 2 - Milkweed / Klein at Nowa Miodowa
 
-Unsound Warszawa 2026: MORNING GLORY 2 - Milkweed / Klein at Nowa Miodowa on Sun 4 Oct, Warsaw. 1 act on the bill: Klein. Preview the line-up and save it on soundcheck.
+Unsound Warszawa 2026: MORNING GLORY 2 - Milkweed / Klein at Nowa Miodowa on Sun 4 Oct, Warsaw. 1 artist on the bill: Klein. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

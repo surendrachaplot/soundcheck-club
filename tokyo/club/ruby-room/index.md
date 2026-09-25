@@ -2,7 +2,7 @@
 
 Ruby Room is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Free Party Shibuya with bands and DJs" on Thu, 24 Sept 2026.
 
-Ruby Room is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Alba (2), Autogenesis, Hypnotic Black Magic and Takumi's Afterparty. Browse upcoming dates, start times and who's playing. 2-25-17 Dogenzaka,  Shibuya-ku, Tokyo, 150-0043 Japan.
+Ruby Room is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Alba, Autogenesis, Hypnotic Black Magic and Takumi's Afterparty. Browse upcoming dates, start times and who's playing. 2-25-17 Dogenzaka,  Shibuya-ku, Tokyo, 150-0043 Japan.
 
 ## What's on
 

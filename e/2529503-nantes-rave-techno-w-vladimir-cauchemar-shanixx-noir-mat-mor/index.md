@@ -1,6 +1,6 @@
 # Nantes Rave Techno W/ Vladimir Cauchemar, Shanixx, Noir Mat & More at Warehouse
 
-Nantes Rave Techno W/ Vladimir Cauchemar, Shanixx, Noir Mat & More at Warehouse on Fri 30 Oct, Nantes. 4 acts on the bill: Azhar Sistorms, BSD, Shanixx and Vladimir Cauchemar. Techno. Preview the line-up and save it on soundcheck.
+Nantes Rave Techno W/ Vladimir Cauchemar, Shanixx, Noir Mat & More at Warehouse on Fri 30 Oct, Nantes. 4 artists on the bill: Azhar Sistorms, BSD, Shanixx and Vladimir Cauchemar. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

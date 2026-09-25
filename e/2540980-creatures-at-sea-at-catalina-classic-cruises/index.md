@@ -1,6 +1,6 @@
 # Creatures At Sea at Catalina Classic Cruises
 
-Creatures At Sea at Catalina Classic Cruises on Sat 14 Nov, Losangeles. 3 acts on the bill: Sacha Robotti, SHAPESHFTR and Thee Mike B. House and Tech House. Preview the line-up and save it on soundcheck.
+Creatures At Sea at Catalina Classic Cruises on Sat 14 Nov, Los Angeles. 3 artists on the bill: Sacha Robotti, SHAPESHFTR and Thee Mike B. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

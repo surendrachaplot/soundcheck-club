@@ -1,6 +1,6 @@
 # Empress: Abyss Witch Couture Runway'26 at People's Leisure Club
 
-Empress: Abyss Witch Couture Runway'26 at People's Leisure Club on Thu 1 Oct, Edinburgh. 2 acts on the bill: Lucid (Sco) and NEONVITA. Techno. Preview the line-up and save it on soundcheck.
+Empress: Abyss Witch Couture Runway'26 at People's Leisure Club on Thu 1 Oct, Edinburgh. 2 artists on the bill: Lucid (Sco) and NEONVITA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

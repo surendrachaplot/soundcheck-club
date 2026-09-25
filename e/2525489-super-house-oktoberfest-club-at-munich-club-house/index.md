@@ -1,6 +1,6 @@
 # Super House Oktoberfest Club at Munich Club House
 
-Super House Oktoberfest Club at Munich Club House on Fri 2 Oct, Munich. 2 acts on the bill: CHOOSE WHITE and Felipe de M.. House and Pop. Preview the line-up and save it on soundcheck.
+Super House Oktoberfest Club at Munich Club House on Fri 2 Oct, Munich. 2 artists on the bill: CHOOSE WHITE and Felipe de M.. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

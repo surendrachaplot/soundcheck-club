@@ -1,6 +1,6 @@
 # Emika - Fountain Immersive (Dolby Atmos Pre-Release Listening Event) - London at Cinema Room, All is Joy
 
-Emika - Fountain Immersive (Dolby Atmos Pre-Release Listening Event) - London at Cinema Room, All is Joy on Mon 26 Oct, London. 1 act on the bill: Emika. Classical and Electronica. Preview the line-up and save it on soundcheck.
+Emika - Fountain Immersive (Dolby Atmos Pre-Release Listening Event) - London at Cinema Room, All is Joy on Mon 26 Oct, London. 1 artist on the bill: Emika. Classical and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

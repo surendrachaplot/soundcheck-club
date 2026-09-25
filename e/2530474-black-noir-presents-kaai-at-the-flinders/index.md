@@ -1,6 +1,6 @@
 # BLACK NOIR presents: KAAI at The Flinders
 
-BLACK NOIR presents: KAAI at The Flinders on Fri 9 Oct, Sydney. 5 acts on the bill: 2LUX, KAAI, keanu (3) and ORKA and 1 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+BLACK NOIR presents: KAAI at The Flinders on Fri 9 Oct, Sydney. 5 artists on the bill: 2LUX, KAAI, keanu and ORKA and 1 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

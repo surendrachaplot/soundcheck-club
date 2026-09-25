@@ -2,7 +2,7 @@
 
 Bernhard Groeger is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Die Rakete, Nürnberg on Sat, 26 Sept 2026.
 
-Bernhard Groeger is a techno and tech house artist based in Germany, tracked on soundcheck, with 58 sets logged across Munich and Nurnberg. Often billed alongside MILAN MILANO, Julian Haffner and Lena Brysch. Next up: Die Rakete, Nurnberg on Sat 26 Sept.
+Bernhard Groeger is a techno and tech house artist based in Germany, tracked on soundcheck, with 58 sets logged across Munich and Nürnberg. Often billed alongside MILAN MILANO, Julian Haffner and Lena Brysch. Next up: Die Rakete, Nürnberg on Sat 26 Sept.
 
 ## Upcoming shows
 

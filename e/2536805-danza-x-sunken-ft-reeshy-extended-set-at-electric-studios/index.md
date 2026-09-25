@@ -1,6 +1,6 @@
 # Danza x SuNKeN ft Reeshy (extended set) at Electric Studios
 
-Danza x SuNKeN ft Reeshy (extended set) at Electric Studios on Fri 25 Sept, Sheffield. 1 act on the bill: Reeshy. Preview the line-up and save it on soundcheck.
+Danza x SuNKeN ft Reeshy (extended set) at Electric Studios on Fri 25 Sept, Sheffield. 1 artist on the bill: Reeshy. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

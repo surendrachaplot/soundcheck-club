@@ -2,7 +2,7 @@
 
 Airport Düsseldorf is a music venue in Düsseldorf with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Hawā Halloween - Friday, 31.10.2026" on Sat, 31 Oct 2026.
 
-Airport Düsseldorf is a music venue in Dusseldorf listed on soundcheck. 1 upcoming gig, with line-ups including Jonathan Kaspar. Browse upcoming dates, start times and who's playing. Flughafenstraße 105, 40474 Düsseldorf.
+Airport Düsseldorf is a music venue in Düsseldorf listed on soundcheck. 1 upcoming gig, with line-ups including Jonathan Kaspar. Browse upcoming dates, start times and who's playing. Flughafenstraße 105, 40474 Düsseldorf.
 
 ## What's on
 

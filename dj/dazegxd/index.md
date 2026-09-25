@@ -2,7 +2,7 @@
 
 Dazegxd is a Jungle and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Public Works, San Francisco/Oakland on Sat, 7 Nov 2026.
 
-Dazegxd is a jungle and house artist based in United States of America, tracked on soundcheck, with 103 sets logged across Austin, Boston, Bristol and Chicago and 15 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: Public Works, Sanfrancisco on Sat 7 Nov.
+Dazegxd is a jungle and house artist based in United States of America, tracked on soundcheck, with 103 sets logged across Austin, Boston, Bristol and Chicago and 15 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: Public Works, San Francisco/Oakland on Sat 7 Nov.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Addsound is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Strange Brew, Bristol on Fri, 25 Sept 2026.
 
-Addsound is a techno and club artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Ellie Anderson, Fern (5) and Fez the Kid. Next up: Strange Brew, Bristol on Fri 25 Sept.
+Addsound is a techno and club artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Ellie Anderson, Fern and Fez the Kid. Next up: Strange Brew, Bristol on Fri 25 Sept.
 
 ## Upcoming shows
 

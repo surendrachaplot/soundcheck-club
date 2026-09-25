@@ -2,7 +2,7 @@
 
 OneCanChan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Yamamori Tengu, Dublin on Sat, 24 Oct 2026.
 
-OneCanChan is a house and techno artist based in Ireland, tracked on soundcheck, with 24 sets logged across Cork and Dublin. Often billed alongside Katma, Collie (1) and K-LAH. Next up: Yamamori Tengu, Dublin on Sat 24 Oct.
+OneCanChan is a house and techno artist based in Ireland, tracked on soundcheck, with 24 sets logged across Cork and Dublin. Often billed alongside Katma, Collie and K-LAH. Next up: Yamamori Tengu, Dublin on Sat 24 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Dahlia Stereo: Wicked Can't Run with Sarah Sweeney, Lil' Minx, Miss Jackson & Timo-G at Dahlia Stereo
 
-Dahlia Stereo: Wicked Can't Run with Sarah Sweeney, Lil' Minx, Miss Jackson & Timo-G on Sat 26 Sept, Manchester. 4 acts on the bill: Laura Jackson, Lil' Minx, Sarah Sweeney and Timo-G. Broken Beat and Afro House. Preview the line-up and save it on soundcheck.
+Dahlia Stereo: Wicked Can't Run with Sarah Sweeney, Lil' Minx, Miss Jackson & Timo-G on Sat 26 Sept, Manchester. 4 artists on the bill: Laura Jackson, Lil' Minx, Sarah Sweeney and Timo-G. Broken Beat and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

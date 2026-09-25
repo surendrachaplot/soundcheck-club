@@ -1,6 +1,6 @@
 # LOOP NYD FESTIVAL 2027 at Fabrik
 
-LOOP NYD FESTIVAL 2027 at Fabrik on Fri 1 Jan, Madrid. 3 acts on the bill: fumi (DE), Marco Carola and Paco Osuna. Preview the line-up and save it on soundcheck.
+LOOP NYD FESTIVAL 2027 at Fabrik on Fri 1 Jan, Madrid. 3 artists on the bill: fumi (DE), Marco Carola and Paco Osuna. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

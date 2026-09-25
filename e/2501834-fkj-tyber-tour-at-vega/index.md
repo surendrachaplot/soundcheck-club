@@ -1,6 +1,6 @@
 # FKJ - Tyber Tour at VEGA
 
-FKJ - Tyber Tour at VEGA on Tue 20 Oct, Copenhagen. 1 act on the bill: FKJ. Preview the line-up and save it on soundcheck.
+FKJ - Tyber Tour at VEGA on Tue 20 Oct, Copenhagen. 1 artist on the bill: FKJ. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

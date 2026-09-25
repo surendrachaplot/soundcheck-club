@@ -1,6 +1,6 @@
 # Marius Bø (Ute.Rec) - All night at The Villa
 
-Marius Bø (Ute.Rec) - All night at The Villa on Fri 23 Oct, Oslo. 1 act on the bill: Marius Bø. Trance and Techno. Preview the line-up and save it on soundcheck.
+Marius Bø (Ute.Rec) - All night at The Villa on Fri 23 Oct, Oslo. 1 artist on the bill: Marius Bø. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

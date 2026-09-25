@@ -2,7 +2,7 @@
 
 RIGO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 26 Sept 2026.
 
-RIGO is a techno and trance artist tracked on soundcheck, with 33 sets logged across Berlin, Dusseldorf, Lyon and Nantes and 1 more. Often billed alongside CallBackSami, P errine and oror. Next up: Cabaret Sauvage, Paris on Sat 26 Sept.
+RIGO is a techno and trance artist tracked on soundcheck, with 33 sets logged across Berlin, Düsseldorf, Lyon and Nantes and 1 more. Often billed alongside CallBackSami, P errine and oror. Next up: Cabaret Sauvage, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 

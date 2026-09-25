@@ -1,6 +1,6 @@
 # Achromatic presents: RIRIA at Tigres de la Noche
 
-Achromatic presents: RIRIA at Tigres de la Noche on Fri 2 Oct, Washingtondc. 1 act on the bill: RIRIA. Drum & Bass and Club. Preview the line-up and save it on soundcheck.
+Achromatic presents: RIRIA at Tigres de la Noche on Fri 2 Oct, Washington DC. 1 artist on the bill: RIRIA. Drum & Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

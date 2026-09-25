@@ -1,6 +1,6 @@
 # Brussels Rave Night: Acid Edition at Barrio Cafe
 
-Brussels Rave Night: Acid Edition at Barrio Cafe on Fri 16 Oct, Brussels. 1 act on the bill: Minopolska. Techno and Acid. Preview the line-up and save it on soundcheck.
+Brussels Rave Night: Acid Edition at Barrio Cafe on Fri 16 Oct, Brussels. 1 artist on the bill: Minopolska. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

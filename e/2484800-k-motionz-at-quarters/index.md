@@ -1,6 +1,6 @@
 # K Motionz at Quarters
 
-K Motionz at Quarters on Fri 6 Nov, Brighton. 1 act on the bill: K Motionz. Drum & Bass. Preview the line-up and save it on soundcheck.
+K Motionz at Quarters on Fri 6 Nov, Brighton. 1 artist on the bill: K Motionz. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

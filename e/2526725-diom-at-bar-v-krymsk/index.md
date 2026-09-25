@@ -1,6 +1,6 @@
 # Diom at Bar v Krymský
 
-Diom at Bar v Krymský on Sat 10 Oct, Prague. 1 act on the bill: Diome. Deep House. Preview the line-up and save it on soundcheck.
+Diom at Bar v Krymský on Sat 10 Oct, Prague. 1 artist on the bill: Diome. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

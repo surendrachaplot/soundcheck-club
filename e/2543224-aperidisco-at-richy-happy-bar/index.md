@@ -1,6 +1,6 @@
 # APERIDISCO at Richy Happy Bar
 
-APERIDISCO at Richy Happy Bar on Sat 26 Sept, Prague. 1 act on the bill: Nicco Lupen. House and Disco. Preview the line-up and save it on soundcheck.
+APERIDISCO at Richy Happy Bar on Sat 26 Sept, Prague. 1 artist on the bill: Nicco Lupen. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

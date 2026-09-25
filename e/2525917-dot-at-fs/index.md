@@ -1,6 +1,6 @@
 # DOT at FS.
 
-DOT at FS. on Fri 25 Sept, Tokyo. 14 acts on the bill: Dam Swindle, Dance, DARIUS and Daul and 10 more. House and R&B. Preview the line-up and save it on soundcheck.
+DOT at FS. on Fri 25 Sept, Tokyo. 14 artists on the bill: Dam Swindle, Dance, DARIUS and Daul and 10 more. House and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

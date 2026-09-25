@@ -1,6 +1,6 @@
 # COSMIC CODE INVITES Aliens TO SECRET RAVE at Secret Location
 
-COSMIC CODE INVITES Aliens TO SECRET RAVE at Secret Location on Sat 26 Sept, London. 3 acts on the bill: Jonny Lust, Omi on Acid and Sylvie Maziarz. Techno and Electro. Preview the line-up and save it on soundcheck.
+COSMIC CODE INVITES Aliens TO SECRET RAVE at Secret Location on Sat 26 Sept, London. 3 artists on the bill: Jonny Lust, Omi on Acid and Sylvie Maziarz. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

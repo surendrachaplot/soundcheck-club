@@ -1,6 +1,6 @@
 # T-Motion at Patronaat
 
-T-Motion at Patronaat on Fri 9 Oct, Amsterdam. 2 acts on the bill: Alexander Koning and Secret Cinema. Techno and House. Preview the line-up and save it on soundcheck.
+T-Motion at Patronaat on Fri 9 Oct, Amsterdam. 2 artists on the bill: Alexander Koning and Secret Cinema. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

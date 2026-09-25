@@ -1,6 +1,6 @@
 # ØTTA - HOTTIES ALBUM TOUR at Colour Factory
 
-ØTTA - HOTTIES ALBUM TOUR at Colour Factory on Sat 21 Nov, London. 1 act on the bill: ØTTA. Preview the line-up and save it on soundcheck.
+ØTTA - HOTTIES ALBUM TOUR at Colour Factory on Sat 21 Nov, London. 1 artist on the bill: ØTTA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

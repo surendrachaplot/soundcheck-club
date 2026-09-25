@@ -1,6 +1,6 @@
 # Frædag: Tony Humphries + G-HA & Olanskii + Øyvind Morken at Jaeger
 
-Frædag: Tony Humphries + G-HA & Olanskii + Øyvind Morken at Jaeger on Fri 25 Sept, Oslo. 4 acts on the bill: G-HA, Olanskii, Øyvind Morken and Tony Humphries. Disco. Preview the line-up and save it on soundcheck.
+Frædag: Tony Humphries + G-HA & Olanskii + Øyvind Morken at Jaeger on Fri 25 Sept, Oslo. 4 artists on the bill: G-HA, Olanskii, Øyvind Morken and Tony Humphries. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

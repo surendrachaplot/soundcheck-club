@@ -1,6 +1,6 @@
 # WAVE - Deep House & Visuals at Noon + Cafe
 
-WAVE - Deep House & Visuals at Noon + Cafe on Fri 2 Oct, Osaka. 3 acts on the bill: Junki Akutagawa, KONDO Mitsuo and yu-more. House and Deep House. Preview the line-up and save it on soundcheck.
+WAVE - Deep House & Visuals at Noon + Cafe on Fri 2 Oct, Osaka. 3 artists on the bill: Junki Akutagawa, KONDO Mitsuo and yu-more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Midsummer Night's Dream at OT301
 
-Midsummer Night's Dream at OT301 on Fri 25 Sept, Amsterdam. 3 acts on the bill: baby ganoush, t0ni and ultra caro. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Midsummer Night's Dream at OT301 on Fri 25 Sept, Amsterdam. 3 artists on the bill: baby ganoush, t0ni and ultra caro. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

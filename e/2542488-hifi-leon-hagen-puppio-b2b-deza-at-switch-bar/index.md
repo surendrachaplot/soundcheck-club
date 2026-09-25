@@ -1,6 +1,6 @@
 # HiFi: Leon Hagen, Puppio B2B Deza at Switch Bar
 
-HiFi: Leon Hagen, Puppio B2B Deza at Switch Bar on Thu 24 Sept, Barcelona. 1 act on the bill: Leon Hagen. Preview the line-up and save it on soundcheck.
+HiFi: Leon Hagen, Puppio B2B Deza at Switch Bar on Thu 24 Sept, Barcelona. 1 artist on the bill: Leon Hagen. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

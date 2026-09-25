@@ -1,6 +1,6 @@
 # AUTECHRE IN BELGRADE at Ložionica
 
-AUTECHRE IN BELGRADE at Ložionica on Thu 1 Oct, Belgrade. 1 act on the bill: Autechre. IDM. Preview the line-up and save it on soundcheck.
+AUTECHRE IN BELGRADE at Ložionica on Thu 1 Oct, Belgrade. 1 artist on the bill: Autechre. IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

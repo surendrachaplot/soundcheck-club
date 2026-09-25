@@ -1,6 +1,6 @@
 # Drunken Kong (Japan/Drumcode) at elsewhere
 
-Drunken Kong (Japan/Drumcode) at elsewhere on Sat 24 Oct, Brisbane. 1 act on the bill: Drunken Kong. Techno. Preview the line-up and save it on soundcheck.
+Drunken Kong (Japan/Drumcode) at elsewhere on Sat 24 Oct, Brisbane. 1 artist on the bill: Drunken Kong. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

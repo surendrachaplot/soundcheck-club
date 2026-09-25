@@ -1,6 +1,6 @@
 # Five Finger Disco: Summer Series CLOSER at 7th West
 
-Five Finger Disco: Summer Series CLOSER at 7th West on Sun 27 Sept, Sanfrancisco. 5 acts on the bill: Blu Moon, Charles Hawthorne, David Harness and KKINGBOO and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+Five Finger Disco: Summer Series CLOSER at 7th West on Sun 27 Sept, San Francisco/Oakland. 5 artists on the bill: Blu Moon, Charles Hawthorne, David Harness and KKINGBOO and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

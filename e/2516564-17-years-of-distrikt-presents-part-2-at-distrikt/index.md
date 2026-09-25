@@ -1,6 +1,6 @@
 # 17 years of Distrikt presents (Part 2) at Distrikt
 
-17 years of Distrikt presents (Part 2) on Sat 17 Oct, Leeds. 9 acts on the bill: Arty, Binyamhn, Charlotte Ord and Gene On Earth and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
+17 years of Distrikt presents (Part 2) on Sat 17 Oct, Leeds. 9 artists on the bill: Arty, Binyamhn, Charlotte Ord and Gene On Earth and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

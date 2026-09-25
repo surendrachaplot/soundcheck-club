@@ -1,6 +1,6 @@
 # BASS SUMMIT: London Elektricity, Natty Lou, Jewelz Blu at Danzhaus/The Gingerbread House
 
-BASS SUMMIT: London Elektricity, Natty Lou, Jewelz Blu at Danzhaus/The Gingerbread House on Sat 10 Oct, Sanfrancisco. 2 acts on the bill: London Elektricity and NAYAN. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+BASS SUMMIT: London Elektricity, Natty Lou, Jewelz Blu at Danzhaus/The Gingerbread House on Sat 10 Oct, San Francisco/Oakland. 2 artists on the bill: London Elektricity and NAYAN. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

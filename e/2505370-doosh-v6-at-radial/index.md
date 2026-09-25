@@ -1,6 +1,6 @@
 # DOOSH V6 at radial
 
-DOOSH V6 at radial on Sat 10 Oct, London. 3 acts on the bill: D.G., FIDDI and Tom and Tommer. House and Acid. Preview the line-up and save it on soundcheck.
+DOOSH V6 at radial on Sat 10 Oct, London. 3 artists on the bill: D.G., FIDDI and Tom and Tommer. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

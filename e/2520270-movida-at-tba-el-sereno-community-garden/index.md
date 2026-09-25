@@ -1,6 +1,6 @@
 # MOVIDA at TBA - El Sereno Community Garden
 
-MOVIDA at TBA - El Sereno Community Garden on Sun 27 Sept, Losangeles. Preview the line-up and save it on soundcheck.
+MOVIDA at TBA - El Sereno Community Garden on Sun 27 Sept, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

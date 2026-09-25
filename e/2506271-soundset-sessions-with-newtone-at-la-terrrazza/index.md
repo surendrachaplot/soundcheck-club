@@ -1,6 +1,6 @@
 # Soundset Sessions with NewTone at La Terrrazza
 
-Soundset Sessions with NewTone at La Terrrazza on Thu 1 Oct, Barcelona. 3 acts on the bill: CLANDESTINE (2), NewTone and REGOR_. Trance and House. Preview the line-up and save it on soundcheck.
+Soundset Sessions with NewTone at La Terrrazza on Thu 1 Oct, Barcelona. 3 artists on the bill: CLANDESTINE, NewTone and REGOR_. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

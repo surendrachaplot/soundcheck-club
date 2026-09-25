@@ -2,7 +2,7 @@
 
 Benson is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 25 Sept 2026.
 
-Benson is a house and tech house artist based in Germany, tracked on soundcheck, with 6 sets logged across Dublin, Manchester and Newyorkcity. Often billed alongside DIEBYVEG, Prozak (IRL) and Adapter. Next up: Yamamori Tengu, Dublin on Fri 25 Sept.
+Benson is a house and tech house artist based in Germany, tracked on soundcheck, with 6 sets logged across Dublin, Manchester and New York City. Often billed alongside DIEBYVEG, Prozak (IRL) and Adapter. Next up: Yamamori Tengu, Dublin on Fri 25 Sept.
 
 ## Upcoming shows
 

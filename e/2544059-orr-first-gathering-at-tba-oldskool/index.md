@@ -1,6 +1,6 @@
 # ORR First Gathering at TBA - Oldskool 
 
-ORR First Gathering at TBA - Oldskool  on Sat 3 Oct, Istanbul. 3 acts on the bill: BasicDisarm, Fosil and Luna Fosepthicc. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+ORR First Gathering at TBA - Oldskool  on Sat 3 Oct, Istanbul. 3 artists on the bill: BasicDisarm, Fosil and Luna Fosepthicc. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

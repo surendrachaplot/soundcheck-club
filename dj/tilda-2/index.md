@@ -2,7 +2,7 @@
 
 TILDA (2) is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Gare / Le Gore, Paris on Sat, 26 Sept 2026.
 
-TILDA (2) is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across London, Manchester, Newcastle and Paris and 1 more. Often billed alongside Amelia Leigh, CICELY and Abby Daze. Next up: La Gare / Le Gore, Paris on Sat 26 Sept.
+TILDA is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across London, Manchester, Newcastle and Paris and 1 more. Often billed alongside Amelia Leigh, CICELY and Abby Daze. Next up: La Gare / Le Gore, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 

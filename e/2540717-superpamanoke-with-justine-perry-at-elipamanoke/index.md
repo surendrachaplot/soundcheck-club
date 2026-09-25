@@ -1,6 +1,6 @@
 # SUPERPAMANOKE with Justine Perry at elipamanoke
 
-SUPERPAMANOKE with Justine Perry at elipamanoke on Sat 17 Oct, Leipzig. 1 act on the bill: Justine Perry. Techno. Preview the line-up and save it on soundcheck.
+SUPERPAMANOKE with Justine Perry at elipamanoke on Sat 17 Oct, Leipzig. 1 artist on the bill: Justine Perry. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

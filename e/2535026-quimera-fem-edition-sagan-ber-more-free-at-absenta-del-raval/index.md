@@ -1,6 +1,6 @@
 # Quimera — FEM EDITION: SAGAN (BER) & MORE — FREE at Absenta del Raval
 
-Quimera — FEM EDITION: SAGAN (BER) & MORE — FREE at Absenta del Raval on Sun 27 Sept, Barcelona. 1 act on the bill: DROP Dance Society. Techno and House. Preview the line-up and save it on soundcheck.
+Quimera — FEM EDITION: SAGAN (BER) & MORE — FREE at Absenta del Raval on Sun 27 Sept, Barcelona. 1 artist on the bill: DROP Dance Society. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Uncut Jams: Elijah Something, Cassette at The Lass O'Gowrie Hotel
 
-Uncut Jams: Elijah Something, Cassette at The Lass O'Gowrie Hotel on Sat 24 Oct, Sydney. 2 acts on the bill: Cassette and Elijah Something. House and Electronica. Preview the line-up and save it on soundcheck.
+Uncut Jams: Elijah Something, Cassette at The Lass O'Gowrie Hotel on Sat 24 Oct, Sydney. 2 artists on the bill: Cassette and Elijah Something. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

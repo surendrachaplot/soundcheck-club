@@ -1,6 +1,6 @@
 # STRICTLY 90's at Podlasie Club
 
-STRICTLY 90's at Podlasie Club on Fri 25 Sept, Chicago. 3 acts on the bill: Czboogie, Gant-Man and John Simmons. House. Preview the line-up and save it on soundcheck.
+STRICTLY 90's at Podlasie Club on Fri 25 Sept, Chicago. 3 artists on the bill: Czboogie, Gant-Man and John Simmons. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

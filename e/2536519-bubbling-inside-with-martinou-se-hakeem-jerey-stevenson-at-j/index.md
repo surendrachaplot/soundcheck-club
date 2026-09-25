@@ -1,6 +1,6 @@
 # Bubbling Inside with Martinou (SE), HAKEEM & Jerey Stevenson at Jolene
 
-Bubbling Inside with Martinou (SE), HAKEEM & Jerey Stevenson at Jolene on Fri 2 Oct, Copenhagen. 3 acts on the bill: HAKEEM (2), Jerey Stevenson and Martinou. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Bubbling Inside with Martinou (SE), HAKEEM & Jerey Stevenson at Jolene on Fri 2 Oct, Copenhagen. 3 artists on the bill: HAKEEM, Jerey Stevenson and Martinou. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

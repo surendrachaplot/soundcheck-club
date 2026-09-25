@@ -1,6 +1,6 @@
 # Dirty Rabbit Saturday party at Dirty Rabbit Hidden Bar
 
-Dirty Rabbit Saturday party at Dirty Rabbit Hidden Bar on Sat 26 Sept, Bangkok. 1 act on the bill: OPTIKZ. Techno. Preview the line-up and save it on soundcheck.
+Dirty Rabbit Saturday party at Dirty Rabbit Hidden Bar on Sat 26 Sept, Bangkok. 1 artist on the bill: OPTIKZ. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

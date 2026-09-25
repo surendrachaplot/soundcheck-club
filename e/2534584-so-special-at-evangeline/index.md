@@ -1,6 +1,6 @@
 # So Special at Evangeline
 
-So Special at Evangeline on Sat 26 Sept, Toronto. 1 act on the bill: Just Jenneh. Preview the line-up and save it on soundcheck.
+So Special at Evangeline on Sat 26 Sept, Toronto. 1 artist on the bill: Just Jenneh. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 444: Jayron Kichta Eskha at 821 Runnymede Rd
 
-444: Jayron Kichta Eskha at 821 Runnymede Rd on Sat 10 Oct, Toronto. 2 acts on the bill: Eskha and Kichta. Trance and Techno. Preview the line-up and save it on soundcheck.
+444: Jayron Kichta Eskha at 821 Runnymede Rd on Sat 10 Oct, Toronto. 2 artists on the bill: Eskha and Kichta. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

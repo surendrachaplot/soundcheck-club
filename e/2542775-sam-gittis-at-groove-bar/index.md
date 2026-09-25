@@ -1,6 +1,6 @@
 # Sam Gittis at Groove Bar
 
-Sam Gittis at Groove Bar on Fri 25 Sept, Prague. 1 act on the bill: Sam Gittis. House. Preview the line-up and save it on soundcheck.
+Sam Gittis at Groove Bar on Fri 25 Sept, Prague. 1 artist on the bill: Sam Gittis. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

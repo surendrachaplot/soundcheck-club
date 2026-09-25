@@ -1,6 +1,6 @@
 # Andy C (Day Party) at Quarters
 
-Andy C (Day Party) at Quarters on Sat 7 Nov, Brighton. 1 act on the bill: Andy C. Drum & Bass. Preview the line-up and save it on soundcheck.
+Andy C (Day Party) at Quarters on Sat 7 Nov, Brighton. 1 artist on the bill: Andy C. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

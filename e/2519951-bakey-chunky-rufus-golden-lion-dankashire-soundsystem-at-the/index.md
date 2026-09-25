@@ -1,6 +1,6 @@
 # Bakey, Chunky, Rufus! @ Golden Lion // Dankashire Soundsystem at The Golden Lion
 
-Bakey, Chunky, Rufus! @ Golden Lion // Dankashire Soundsystem at The Golden Lion on Sat 3 Oct, Manchester. 3 acts on the bill: Bakey, Chunky and Rufus!. Garage and Dubstep. Preview the line-up and save it on soundcheck.
+Bakey, Chunky, Rufus! @ Golden Lion // Dankashire Soundsystem at The Golden Lion on Sat 3 Oct, Manchester. 3 artists on the bill: Bakey, Chunky and Rufus!. Garage and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

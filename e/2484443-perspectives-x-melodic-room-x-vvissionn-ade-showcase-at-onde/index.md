@@ -1,6 +1,6 @@
 # Perspectives x Melodic Room x VVISSIONN ADE Showcase at Onder Hans
 
-Perspectives x Melodic Room x VVISSIONN ADE Showcase at Onder Hans on Fri 23 Oct, Amsterdam. 23 acts on the bill: Almost Human (DJ), Althoff, Cris-H and Darin Epsilon and 19 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Perspectives x Melodic Room x VVISSIONN ADE Showcase at Onder Hans on Fri 23 Oct, Amsterdam. 23 artists on the bill: Almost Human (DJ), Althoff, Cris-H and Darin Epsilon and 19 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

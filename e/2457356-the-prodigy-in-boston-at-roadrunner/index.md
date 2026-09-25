@@ -1,6 +1,6 @@
 # The Prodigy in Boston at Roadrunner
 
-The Prodigy in Boston at Roadrunner on Thu 24 Sept, Boston. 1 act on the bill: The Prodigy. Preview the line-up and save it on soundcheck.
+The Prodigy in Boston at Roadrunner on Thu 24 Sept, Boston. 1 artist on the bill: The Prodigy. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

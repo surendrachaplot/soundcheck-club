@@ -1,6 +1,6 @@
 # FADED PRESENTS PROJECT: Shared Crate at Club Makossa
 
-FADED PRESENTS PROJECT: Shared Crate at Club Makossa on Thu 22 Oct, London. 1 act on the bill: BIDOIS. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+FADED PRESENTS PROJECT: Shared Crate at Club Makossa on Thu 22 Oct, London. 1 artist on the bill: BIDOIS. Drum & Bass and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

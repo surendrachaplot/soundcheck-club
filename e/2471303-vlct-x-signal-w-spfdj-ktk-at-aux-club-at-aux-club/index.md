@@ -1,6 +1,6 @@
 # VLCT x SIGNAL w/ SPFDJ & KTK at aux: club at AUX Club
 
-VLCT x SIGNAL w/ SPFDJ & KTK at aux: club at AUX Club on Sat 26 Sept, Athens. 3 acts on the bill: KTK (DE), SALIN and SPFDJ. Trance and Techno. Preview the line-up and save it on soundcheck.
+VLCT x SIGNAL w/ SPFDJ & KTK at aux: club at AUX Club on Sat 26 Sept, Athens. 3 artists on the bill: KTK (DE), SALIN and SPFDJ. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

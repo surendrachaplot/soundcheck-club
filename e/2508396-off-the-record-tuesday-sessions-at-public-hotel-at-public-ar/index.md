@@ -1,6 +1,6 @@
 # Off The Record - Tuesday Sessions at PUBLIC Hotel at Public Arts
 
-Off The Record - Tuesday Sessions at PUBLIC Hotel at Public Arts on Tue 29 Sept, Newyorkcity. House and Electronica. Preview the line-up and save it on soundcheck.
+Off The Record - Tuesday Sessions at PUBLIC Hotel at Public Arts on Tue 29 Sept, New York City. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

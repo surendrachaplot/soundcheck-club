@@ -2,7 +2,7 @@
 
 THE MAGICK BAR is a music venue in Rome with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "THE MAGICK BAR presents: Gattonero, Sunday Bath" on Thu, 24 Sept 2026.
 
-THE MAGICK BAR is a music venue in Rome listed on soundcheck. 3 upcoming gigs, with line-ups including Brasi, Gattonero, Hugo Sanchez and Luc (1) and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
+THE MAGICK BAR is a music venue in Rome listed on soundcheck. 3 upcoming gigs, with line-ups including Brasi, Gattonero, Hugo Sanchez and Luc and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
 ## What's on
 

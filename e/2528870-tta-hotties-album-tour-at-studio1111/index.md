@@ -1,6 +1,6 @@
 # ØTTA HOTTIES ALBUM TOUR at Studio1111
 
-ØTTA HOTTIES ALBUM TOUR at Studio1111 on Thu 19 Nov, Berlin. 1 act on the bill: ØTTA. Preview the line-up and save it on soundcheck.
+ØTTA HOTTIES ALBUM TOUR at Studio1111 on Thu 19 Nov, Berlin. 1 artist on the bill: ØTTA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

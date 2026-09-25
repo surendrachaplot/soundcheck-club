@@ -1,6 +1,6 @@
 # PHANTOM CURRENT — 17 OCTOBER 2026 at TBA - Los Angeles
 
-PHANTOM CURRENT — 17 OCTOBER 2026 at TBA - Los Angeles on Sat 17 Oct, Losangeles. Electro and Deep House. Preview the line-up and save it on soundcheck.
+PHANTOM CURRENT — 17 OCTOBER 2026 at TBA - Los Angeles on Sat 17 Oct, Los Angeles. Electro and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

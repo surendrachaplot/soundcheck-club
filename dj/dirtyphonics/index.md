@@ -2,7 +2,7 @@
 
 Dirtyphonics is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spin, San Diego on Fri, 16 Oct 2026.
 
-Dirtyphonics is a drum & bass and bass artist based in France, tracked on soundcheck, with 24 sets logged across Amsterdam, Auckland, Brisbane and Brussels and 12 more. Often billed alongside Black Sun Empire, Koven and Mandragora. Next up: Spin, Sandiego on Fri 16 Oct.
+Dirtyphonics is a drum & bass and bass artist based in France, tracked on soundcheck, with 24 sets logged across Amsterdam, Auckland, Brisbane and Brussels and 12 more. Often billed alongside Black Sun Empire, Koven and Mandragora. Next up: Spin, San Diego on Fri 16 Oct.
 
 ## Upcoming shows
 

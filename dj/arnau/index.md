@@ -2,7 +2,7 @@
 
 Arnau is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sat, 26 Sept 2026.
 
-Arnau is a house and electronica artist based in Spain, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Thehague. Often billed alongside Lexmic, Arnau Obiols and Edenfranz. Next up: Sunseabar Beach Club, Barcelona on Sat 26 Sept.
+Arnau is a house and electronica artist based in Spain, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and The Hague. Often billed alongside Lexmic, Arnau Obiols and Edenfranz. Next up: Sunseabar Beach Club, Barcelona on Sat 26 Sept.
 
 ## Upcoming shows
 

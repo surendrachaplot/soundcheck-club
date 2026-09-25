@@ -1,6 +1,6 @@
 # The History of Jungle: Manchester at NOWHERE
 
-The History of Jungle: Manchester at NOWHERE on Sat 3 Oct, Manchester. 14 acts on the bill: Dillinja, DJ Brockie, DJ Hype and DJ Phantasy and 10 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+The History of Jungle: Manchester at NOWHERE on Sat 3 Oct, Manchester. 14 artists on the bill: Dillinja, DJ Brockie, DJ Hype and DJ Phantasy and 10 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

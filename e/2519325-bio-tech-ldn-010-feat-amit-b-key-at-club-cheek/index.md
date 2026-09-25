@@ -1,6 +1,6 @@
 # BIO-TECH LDN 010 feat Amit & B-Key at Club Cheek
 
-BIO-TECH LDN 010 feat Amit & B-Key at Club Cheek on Sat 7 Nov, London. 4 acts on the bill: Amit, Facs, Primitivizm and Xanadu. Drum & Bass and Ambient. Preview the line-up and save it on soundcheck.
+BIO-TECH LDN 010 feat Amit & B-Key at Club Cheek on Sat 7 Nov, London. 4 artists on the bill: Amit, Facs, Primitivizm and Xanadu. Drum & Bass and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

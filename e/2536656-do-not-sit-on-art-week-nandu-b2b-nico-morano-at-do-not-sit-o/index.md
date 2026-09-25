@@ -1,6 +1,6 @@
 # Do Not Sit on Art Week: Nandu b2b Nico Morano at Do Not Sit On The Furniture
 
-Do Not Sit on Art Week: Nandu b2b Nico Morano at Do Not Sit On The Furniture on Thu 3 Dec, Miami. 2 acts on the bill: Nandu and Nico Morano. House and Afro House. Preview the line-up and save it on soundcheck.
+Do Not Sit on Art Week: Nandu b2b Nico Morano at Do Not Sit On The Furniture on Thu 3 Dec, Miami. 2 artists on the bill: Nandu and Nico Morano. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

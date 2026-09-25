@@ -1,6 +1,6 @@
 # Jovonn, Queenie Jr, Dj Hermano at Salon Daomé
 
-Jovonn, Queenie Jr, Dj Hermano at Salon Daomé on Fri 25 Sept, Montreal. 3 acts on the bill: Dj Hermano, Jovonn and Queenie Jr. House. Preview the line-up and save it on soundcheck.
+Jovonn, Queenie Jr, Dj Hermano at Salon Daomé on Fri 25 Sept, Montreal. 3 artists on the bill: Dj Hermano, Jovonn and Queenie Jr. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

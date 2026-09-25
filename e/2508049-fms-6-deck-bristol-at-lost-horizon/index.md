@@ -1,6 +1,6 @@
 # FMS 6 Deck - Bristol at Lost Horizon
 
-FMS 6 Deck - Bristol at Lost Horizon on Fri 9 Oct, Bristol. 1 act on the bill: Licia. Drum & Bass. Preview the line-up and save it on soundcheck.
+FMS 6 Deck - Bristol at Lost Horizon on Fri 9 Oct, Bristol. 1 artist on the bill: Licia. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

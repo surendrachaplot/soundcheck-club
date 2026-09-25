@@ -2,7 +2,7 @@
 
 Siia is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Boston on Fri, 2 Oct 2026.
 
-Siia is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Boston and Newyorkcity. Often billed alongside FRANZIV, AleBCostantino and ViV:On. Next up: TBA, Boston on Fri 2 Oct.
+Siia is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Boston and New York City. Often billed alongside FRANZIV, AleBCostantino and ViV:On. Next up: TBA, Boston on Fri 2 Oct.
 
 ## Upcoming shows
 

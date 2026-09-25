@@ -1,6 +1,6 @@
 # FEMQUENCY: FLINTA* DJ-Workshop ( + Panel & Showcase) at Beate Uwe
 
-FEMQUENCY: FLINTA* DJ-Workshop ( + Panel & Showcase) at Beate Uwe on Sat 3 Oct, Berlin. 2 acts on the bill: CAMI (DE) and Laura Sí. Preview the line-up and save it on soundcheck.
+FEMQUENCY: FLINTA* DJ-Workshop ( + Panel & Showcase) at Beate Uwe on Sat 3 Oct, Berlin. 2 artists on the bill: CAMI (DE) and Laura Sí. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

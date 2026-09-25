@@ -1,6 +1,6 @@
 # Abstraxion × Encore Encore - Pour Correns @ Petit Cab at Petit CAB
 
-Abstraxion × Encore Encore - Pour Correns @ Petit Cab at Petit CAB on Fri 2 Oct, Marseille. 1 act on the bill: Abstraxion. Techno. Preview the line-up and save it on soundcheck.
+Abstraxion × Encore Encore - Pour Correns @ Petit Cab at Petit CAB on Fri 2 Oct, Marseille. 1 artist on the bill: Abstraxion. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

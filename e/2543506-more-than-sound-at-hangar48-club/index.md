@@ -1,6 +1,6 @@
 # More Than Sound at Hangar48 Club
 
-More Than Sound at Hangar48 Club on Sat 10 Oct, Madrid. 1 act on the bill: JHONSON.. Techno. Preview the line-up and save it on soundcheck.
+More Than Sound at Hangar48 Club on Sat 10 Oct, Madrid. 1 artist on the bill: JHONSON.. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

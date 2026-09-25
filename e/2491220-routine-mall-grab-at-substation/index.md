@@ -1,6 +1,6 @@
 # Routine: Mall Grab at Substation
 
-Routine: Mall Grab at Substation on Thu 29 Oct, Seattle. 2 acts on the bill: Austin R and Mall Grab. Techno and House. Preview the line-up and save it on soundcheck.
+Routine: Mall Grab at Substation on Thu 29 Oct, Seattle. 2 artists on the bill: Austin R and Mall Grab. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

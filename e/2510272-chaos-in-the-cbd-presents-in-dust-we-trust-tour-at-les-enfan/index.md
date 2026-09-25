@@ -1,6 +1,6 @@
 # Chaos In The CBD presents: In Dust We Trust Tour at Les Enfants Brillants
 
-Chaos In The CBD presents: In Dust We Trust Tour at Les Enfants Brillants on Sun 11 Oct, Barcelona. 2 acts on the bill: Baldo and Chaos In The CBD. House and Deep House. Preview the line-up and save it on soundcheck.
+Chaos In The CBD presents: In Dust We Trust Tour at Les Enfants Brillants on Sun 11 Oct, Barcelona. 2 artists on the bill: Baldo and Chaos In The CBD. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

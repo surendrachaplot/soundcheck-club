@@ -1,6 +1,6 @@
 # KOMAoto: jackzebra at The White Hotel
 
-KOMAoto: jackzebra at The White Hotel on Fri 25 Sept, Manchester. 4 acts on the bill: Kekeneko, Kop-Z, roop and Unit YoRHa. Hip-Hop and Experimental. Preview the line-up and save it on soundcheck.
+KOMAoto: jackzebra at The White Hotel on Fri 25 Sept, Manchester. 4 artists on the bill: Kekeneko, Kop-Z, roop and Unit YoRHa. Hip-Hop and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

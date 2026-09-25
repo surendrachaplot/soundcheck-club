@@ -1,6 +1,6 @@
 # D.Dan at VENT
 
-D.Dan at VENT on Sun 11 Oct, Tokyo. 7 acts on the bill: D.Dan, Eichi Abe, KOSHIRO and Mari Sakurai and 3 more. Techno. Preview the line-up and save it on soundcheck.
+D.Dan at VENT on Sun 11 Oct, Tokyo. 7 artists on the bill: D.Dan, Eichi Abe, KOSHIRO and Mari Sakurai and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

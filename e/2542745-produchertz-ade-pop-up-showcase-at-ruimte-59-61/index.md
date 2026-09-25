@@ -1,6 +1,6 @@
 # PRODUCHERTZ ADE POP-UP SHOWCASE at Ruimte 59.61
 
-PRODUCHERTZ ADE POP-UP SHOWCASE at Ruimte 59.61 on Fri 23 Oct, Amsterdam. 13 acts on the bill: AELVA K, Alex Micca, Caterina Carrera and DA SEYKO and 9 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+PRODUCHERTZ ADE POP-UP SHOWCASE at Ruimte 59.61 on Fri 23 Oct, Amsterdam. 13 artists on the bill: AELVA K, Alex Micca, Caterina Carrera and DA SEYKO and 9 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

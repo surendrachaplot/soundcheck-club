@@ -1,6 +1,6 @@
 # DRILLA by Alarico - Official Launch at Flint Space
 
-DRILLA by Alarico - Official Launch at Flint Space on Thu 22 Oct, Amsterdam. 1 act on the bill: Alarico. Preview the line-up and save it on soundcheck.
+DRILLA by Alarico - Official Launch at Flint Space on Thu 22 Oct, Amsterdam. 1 artist on the bill: Alarico. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

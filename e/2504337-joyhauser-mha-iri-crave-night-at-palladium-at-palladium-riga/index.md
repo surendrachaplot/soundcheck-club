@@ -1,6 +1,6 @@
 # Joyhauser & Mha iri - CRAVE NIGHT at Palladium at Palladium Riga
 
-Joyhauser & Mha iri - CRAVE NIGHT at Palladium at Palladium Riga on Fri 9 Oct, Riga. 2 acts on the bill: Joyhauser and Mha iri. Techno. Preview the line-up and save it on soundcheck.
+Joyhauser & Mha iri - CRAVE NIGHT at Palladium at Palladium Riga on Fri 9 Oct, Riga. 2 artists on the bill: Joyhauser and Mha iri. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

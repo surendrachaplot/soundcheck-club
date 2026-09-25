@@ -1,6 +1,6 @@
 # Zenyth X Euphoria at TBA
 
-Zenyth X Euphoria at TBA on Sat 10 Oct, Bucharest. 3 acts on the bill: Kanghu, Michael Ius and Synthetica. Acid and Industrial. Preview the line-up and save it on soundcheck.
+Zenyth X Euphoria at TBA on Sat 10 Oct, Bucharest. 3 artists on the bill: Kanghu, Michael Ius and Synthetica. Acid and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

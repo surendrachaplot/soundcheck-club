@@ -1,6 +1,6 @@
 # [CANCELLED] Jackies Barcelona - Louie Vega at La Terrrazza
 
-[CANCELLED] Jackies Barcelona - Louie Vega at La Terrrazza on Fri 6 Nov, Barcelona. 1 act on the bill: Louie Vega. House and Disco. Preview the line-up and save it on soundcheck.
+[CANCELLED] Jackies Barcelona - Louie Vega at La Terrrazza on Fri 6 Nov, Barcelona. 1 artist on the bill: Louie Vega. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

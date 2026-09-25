@@ -1,6 +1,6 @@
 # Deadmau5 at East End at Navy Pier
 
-Deadmau5 at East End at Navy Pier on Sat 17 Oct, Chicago. 1 act on the bill: Deadmau5. Progressive House and Electro. Preview the line-up and save it on soundcheck.
+Deadmau5 at East End at Navy Pier on Sat 17 Oct, Chicago. 1 artist on the bill: Deadmau5. Progressive House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

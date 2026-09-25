@@ -1,6 +1,6 @@
 # Audio Obscura ADE at The Loft x Angels by Cloudy at The Loft Amsterdam
 
-Audio Obscura ADE at The Loft x Angels by Cloudy at The Loft Amsterdam on Sun 25 Oct, Amsterdam. 1 act on the bill: Cloudy. Techno. Preview the line-up and save it on soundcheck.
+Audio Obscura ADE at The Loft x Angels by Cloudy at The Loft Amsterdam on Sun 25 Oct, Amsterdam. 1 artist on the bill: Cloudy. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

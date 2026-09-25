@@ -1,6 +1,6 @@
 # Strictly Vinyl free Thursdays the Autumn / Winter DJ sessions at 26 Curtain Road
 
-Strictly Vinyl free Thursdays the Autumn / Winter DJ sessions at 26 Curtain Road on Thu 1 Oct, London. 1 act on the bill: Neil Thornton. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
+Strictly Vinyl free Thursdays the Autumn / Winter DJ sessions at 26 Curtain Road on Thu 1 Oct, London. 1 artist on the bill: Neil Thornton. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

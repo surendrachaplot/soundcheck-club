@@ -1,6 +1,6 @@
 # SIMONEANCI ‣ Rui Alves ‣ SLIM J - SUNDAY 29 NOV × CARMO • FREE at Carmo Rooftop
 
-SIMONEANCI ‣ Rui Alves ‣ SLIM J - SUNDAY 29 NOV × CARMO • FREE at Carmo Rooftop on Sun 29 Nov, Lisbon. 2 acts on the bill: Rui Alves and SLIM J. Techno and House. Preview the line-up and save it on soundcheck.
+SIMONEANCI ‣ Rui Alves ‣ SLIM J - SUNDAY 29 NOV × CARMO • FREE at Carmo Rooftop on Sun 29 Nov, Lisbon. 2 artists on the bill: Rui Alves and SLIM J. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

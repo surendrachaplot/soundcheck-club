@@ -1,6 +1,6 @@
 # KINYXX Madrid - Halloween Edition at Strong the Club
 
-KINYXX Madrid - Halloween Edition at Strong the Club on Sun 1 Nov, Madrid. 1 act on the bill: KSAL. Techno and House. Preview the line-up and save it on soundcheck.
+KINYXX Madrid - Halloween Edition at Strong the Club on Sun 1 Nov, Madrid. 1 artist on the bill: KSAL. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

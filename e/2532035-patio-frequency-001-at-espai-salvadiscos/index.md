@@ -1,6 +1,6 @@
 # Patio Frequency #001 at Espai Salvadiscos
 
-Patio Frequency #001 at Espai Salvadiscos on Sat 26 Sept, Barcelona. 1 act on the bill: Martyon. Preview the line-up and save it on soundcheck.
+Patio Frequency #001 at Espai Salvadiscos on Sat 26 Sept, Barcelona. 1 artist on the bill: Martyon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

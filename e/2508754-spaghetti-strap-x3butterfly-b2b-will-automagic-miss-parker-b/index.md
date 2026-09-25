@@ -1,6 +1,6 @@
 # Spaghetti Strap: x3butterfly b2b Will Automagic, Miss Parker b2b SPRKLBB, Princess Peggie at Signal
 
-Spaghetti Strap: x3butterfly b2b Will Automagic, Miss Parker b2b SPRKLBB, Princess Peggie at Signal on Sun 27 Sept, Newyorkcity. 6 acts on the bill: Miss Parker, PEPIITA, Princess Peggie and SPRKLBB and 2 more. Preview the line-up and save it on soundcheck.
+Spaghetti Strap: x3butterfly b2b Will Automagic, Miss Parker b2b SPRKLBB, Princess Peggie at Signal on Sun 27 Sept, New York City. 6 artists on the bill: Miss Parker, PEPIITA, Princess Peggie and SPRKLBB and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

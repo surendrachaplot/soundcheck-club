@@ -1,6 +1,6 @@
 # Davey Ultra and DJ Uncles at Moonglow at Moonglow Oakland
 
-Davey Ultra and DJ Uncles at Moonglow at Moonglow Oakland on Fri 25 Sept, Sanfrancisco. 1 act on the bill: Davey Ultra. House and Bass. Preview the line-up and save it on soundcheck.
+Davey Ultra and DJ Uncles at Moonglow at Moonglow Oakland on Fri 25 Sept, San Francisco/Oakland. 1 artist on the bill: Davey Ultra. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

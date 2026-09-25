@@ -1,6 +1,6 @@
 # Mood Ring 9th Anniversary ~ Day One at Mood Ring
 
-Mood Ring 9th Anniversary ~ Day One on Fri 25 Sept, Newyorkcity. 6 acts on the bill: Haruka (US), Kaili, Kweku and LANSUH and 2 more. Preview the line-up and save it on soundcheck.
+Mood Ring 9th Anniversary ~ Day One on Fri 25 Sept, New York City. 6 artists on the bill: Haruka (US), Kaili, Kweku and LANSUH and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

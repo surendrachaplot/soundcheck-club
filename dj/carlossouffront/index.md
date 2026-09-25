@@ -2,7 +2,7 @@
 
 Carlos Souffront is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Green Room NYC, New York City on Fri, 2 Oct 2026.
 
-Carlos Souffront is a techno and acid artist based in United States of America, tracked on soundcheck, with 110 sets logged across Austin, Belgrade, Berlin and Boston and 16 more. Often billed alongside Mike Servito, Patrick Russell and Derek Plaslaiko. Next up: Green Room NYC, Newyorkcity on Fri 2 Oct.
+Carlos Souffront is a techno and acid artist based in United States of America, tracked on soundcheck, with 110 sets logged across Austin, Belgrade, Berlin and Boston and 16 more. Often billed alongside Mike Servito, Patrick Russell and Derek Plaslaiko. Next up: Green Room NYC, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 

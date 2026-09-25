@@ -1,6 +1,6 @@
 # 2200 at Sigurd CPH
 
-2200 at Sigurd CPH on Fri 25 Sept, Copenhagen. 1 act on the bill: Lisa Fosmark. House. Preview the line-up and save it on soundcheck.
+2200 at Sigurd CPH on Fri 25 Sept, Copenhagen. 1 artist on the bill: Lisa Fosmark. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

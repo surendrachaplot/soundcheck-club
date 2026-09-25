@@ -1,6 +1,6 @@
 # Mungo's HiFi (Full Soundsystem) - Halloween Daytime Session at Village Underground
 
-Mungo's HiFi (Full Soundsystem) - Halloween Daytime Session at Village Underground on Sat 31 Oct, London. 1 act on the bill: Mungo's Hi Fi. Bass and Dub. Preview the line-up and save it on soundcheck.
+Mungo's HiFi (Full Soundsystem) - Halloween Daytime Session at Village Underground on Sat 31 Oct, London. 1 artist on the bill: Mungo's Hi Fi. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

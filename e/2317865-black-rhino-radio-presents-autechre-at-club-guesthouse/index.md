@@ -1,6 +1,6 @@
 # Black Rhino Radio presents: Autechre at Club Guesthouse
 
-Black Rhino Radio presents: Autechre at Club Guesthouse on Wed 7 Oct, Bucharest. 1 act on the bill: Autechre. IDM. Preview the line-up and save it on soundcheck.
+Black Rhino Radio presents: Autechre at Club Guesthouse on Wed 7 Oct, Bucharest. 1 artist on the bill: Autechre. IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

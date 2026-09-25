@@ -1,6 +1,6 @@
 # Half Baked x Les Enfants at SEASEACLUB with Margaret Dygas, Tristan da Cunha & More at Seaseaclub Barcelona
 
-Half Baked x Les Enfants at SEASEACLUB with Margaret Dygas, Tristan da Cunha & More at Seaseaclub Barcelona on Sat 21 Nov, Barcelona. 5 acts on the bill: Alec Falconer, INDRA TRAFERRI, Margaret Dygas and Sam Bangura and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
+Half Baked x Les Enfants at SEASEACLUB with Margaret Dygas, Tristan da Cunha & More at Seaseaclub Barcelona on Sat 21 Nov, Barcelona. 5 artists on the bill: Alec Falconer, INDRA TRAFERRI, Margaret Dygas and Sam Bangura and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

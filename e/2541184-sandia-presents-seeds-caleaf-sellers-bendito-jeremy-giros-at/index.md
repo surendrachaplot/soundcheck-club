@@ -1,6 +1,6 @@
 # SanDia presents SEEDS: Caleaf Sellers, Bendito, Jeremy Giros at TBA - SpinnaVerse BK
 
-SanDia presents SEEDS: Caleaf Sellers, Bendito, Jeremy Giros at TBA - SpinnaVerse BK on Sun 4 Oct, Newyorkcity. 2 acts on the bill: Bendito and Jeremy Giros. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+SanDia presents SEEDS: Caleaf Sellers, Bendito, Jeremy Giros at TBA - SpinnaVerse BK on Sun 4 Oct, New York City. 2 artists on the bill: Bendito and Jeremy Giros. Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

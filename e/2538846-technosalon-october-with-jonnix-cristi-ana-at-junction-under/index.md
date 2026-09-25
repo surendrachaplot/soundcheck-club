@@ -1,6 +1,6 @@
 # TechnoSalon October - with Jonnix & CRISTI:ANA at Junction Underground
 
-TechnoSalon October - with Jonnix & CRISTI:ANA at Junction Underground on Fri 9 Oct, Toronto. 2 acts on the bill: CRISTI:ANA and Jonnix. Techno and Industrial. Preview the line-up and save it on soundcheck.
+TechnoSalon October - with Jonnix & CRISTI:ANA at Junction Underground on Fri 9 Oct, Toronto. 2 artists on the bill: CRISTI:ANA and Jonnix. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Stephan Bodzin at Savaya Bali
 
-Stephan Bodzin at Savaya Bali on Sat 26 Sept, Bali. 1 act on the bill: Stephan Bodzin. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Stephan Bodzin at Savaya Bali on Sat 26 Sept, Bali. 1 artist on the bill: Stephan Bodzin. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

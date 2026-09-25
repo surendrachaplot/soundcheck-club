@@ -1,6 +1,6 @@
 # sWARM signals 11: Techno, IDM - Community fundraiser at Aaja Basement
 
-sWARM signals 11: Techno, IDM - Community fundraiser at Aaja Basement on Sat 10 Oct, London. 3 acts on the bill: madsmadsmads, MAL33T and metrologic. Techno and IDM. Preview the line-up and save it on soundcheck.
+sWARM signals 11: Techno, IDM - Community fundraiser at Aaja Basement on Sat 10 Oct, London. 3 artists on the bill: madsmadsmads, MAL33T and metrologic. Techno and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

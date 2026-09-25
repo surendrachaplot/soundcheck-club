@@ -1,6 +1,6 @@
 # Psyched! Fest 2026 at Monarch
 
-Psyched! Fest 2026 at Monarch on Fri 23 Oct, Sanfrancisco. 14 acts on the bill: 2AT, BOYPRINCESS, Femme Jatale and GHOST MILK and 10 more. Baile Funk and Latin Bass. Preview the line-up and save it on soundcheck.
+Psyched! Fest 2026 at Monarch on Fri 23 Oct, San Francisco/Oakland. 14 artists on the bill: 2AT, BOYPRINCESS, Femme Jatale and GHOST MILK and 10 more. Baile Funk and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

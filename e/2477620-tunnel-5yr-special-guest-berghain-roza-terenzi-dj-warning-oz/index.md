@@ -1,6 +1,6 @@
 # TUNNEL 5YR: Special Guest (Berghain), ROZA Terenzi, Dj Warning & OZA at TBA
 
-TUNNEL 5YR: Special Guest (Berghain), ROZA Terenzi, Dj Warning & OZA at TBA on Sat 5 Dec, Losangeles. 3 acts on the bill: Dj Warning, OZA and Roza Terenzi. Techno and House. Preview the line-up and save it on soundcheck.
+TUNNEL 5YR: Special Guest (Berghain), ROZA Terenzi, Dj Warning & OZA at TBA on Sat 5 Dec, Los Angeles. 3 artists on the bill: Dj Warning, OZA and Roza Terenzi. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 THABLACKGOD is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
-THABLACKGOD is a club and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Newyorkcity and Washingtondc. Often billed alongside GET FACE, znorthy and Franxx. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
+THABLACKGOD is a club and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across New York City and Washington DC. Often billed alongside GET FACE, znorthy and Franxx. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
 ## Upcoming shows
 

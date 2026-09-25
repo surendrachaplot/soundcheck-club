@@ -1,6 +1,6 @@
 # SUNDAY at Mastak
 
-SUNDAY at Mastak on Sun 27 Sept, Warsaw. 1 act on the bill: Ingesz. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+SUNDAY at Mastak on Sun 27 Sept, Warsaw. 1 artist on the bill: Ingesz. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

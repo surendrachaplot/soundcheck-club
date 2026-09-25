@@ -1,6 +1,6 @@
 # Traum Nacht: Y U QT, Lauravioli, NC at TRAUM
 
-Traum Nacht: Y U QT, Lauravioli, NC at TRAUM on Fri 25 Sept, Antwerp. 2 acts on the bill: Lauravioli and Y U QT. Bass. Preview the line-up and save it on soundcheck.
+Traum Nacht: Y U QT, Lauravioli, NC at TRAUM on Fri 25 Sept, Antwerp. 2 artists on the bill: Lauravioli and Y U QT. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

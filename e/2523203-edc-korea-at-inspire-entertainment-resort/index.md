@@ -1,6 +1,6 @@
 # EDC Korea at Inspire Entertainment Resort
 
-EDC Korea at Inspire Entertainment Resort on Sat 3 Oct, Seoul. 7 acts on the bill: ALY, Aurede, Casepeat and Eliana and 3 more. Preview the line-up and save it on soundcheck.
+EDC Korea at Inspire Entertainment Resort on Sat 3 Oct, Seoul. 7 artists on the bill: ALY, Aurede, Casepeat and Eliana and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

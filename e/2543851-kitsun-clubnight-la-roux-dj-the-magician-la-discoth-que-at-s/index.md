@@ -1,6 +1,6 @@
 # KITSUNÉ CLUBNIGHT La Roux (DJ), The Magician, LA DISCOTHÈQUE at Silencio
 
-KITSUNÉ CLUBNIGHT La Roux (DJ), The Magician, LA DISCOTHÈQUE at Silencio on Wed 30 Sept, Paris. 2 acts on the bill: La Roux and The Magician. Preview the line-up and save it on soundcheck.
+KITSUNÉ CLUBNIGHT La Roux (DJ), The Magician, LA DISCOTHÈQUE at Silencio on Wed 30 Sept, Paris. 2 artists on the bill: La Roux and The Magician. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PIP x TRESOR at PIP Den Haag
 
-PIP x TRESOR at PIP Den Haag on Sat 12 Dec, Thehague. Techno and House. Preview the line-up and save it on soundcheck.
+PIP x TRESOR at PIP Den Haag on Sat 12 Dec, The Hague. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

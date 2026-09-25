@@ -1,6 +1,6 @@
 # XVII @ Theata LONDON ---- OMAKS - FUMI at Theata
 
-XVII @ Theata LONDON ---- OMAKS - FUMI on Sat 26 Sept, London. 6 acts on the bill: Anela, Erica (IT), FUMI and Maugeri and 2 more. Techno. Preview the line-up and save it on soundcheck.
+XVII @ Theata LONDON ---- OMAKS - FUMI on Sat 26 Sept, London. 6 artists on the bill: Anela, Erica (IT), FUMI and Maugeri and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

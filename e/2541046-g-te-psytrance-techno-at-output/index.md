@@ -1,6 +1,6 @@
 # G∀TE {Psytrance & Techno} at Output
 
-G∀TE {Psytrance & Techno} at Output on Fri 6 Nov, Tokyo. 2 acts on the bill: ENTHUSE and YAI.. Trance and Techno. Preview the line-up and save it on soundcheck.
+G∀TE {Psytrance & Techno} at Output on Fri 6 Nov, Tokyo. 2 artists on the bill: ENTHUSE and YAI.. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

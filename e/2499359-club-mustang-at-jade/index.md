@@ -1,6 +1,6 @@
 # Club Mustang at Jade
 
-Club Mustang at Jade on Fri 25 Sept, Newyorkcity. 2 acts on the bill: boy_c0ded and esme2k. Experimental and Club. Preview the line-up and save it on soundcheck.
+Club Mustang at Jade on Fri 25 Sept, New York City. 2 artists on the bill: boy_c0ded and esme2k. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

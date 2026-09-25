@@ -2,7 +2,7 @@
 
 Tosh (2) is a Minimal and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Socore Factory, Osaka on Fri, 30 Oct 2026.
 
-Tosh (2) is a minimal and dub artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Munich and Osaka and 2 more. Often billed alongside Vuur, Pelanoir and Redleg On A Roll. Next up: Socore Factory, Osaka on Fri 30 Oct.
+Tosh is a minimal and dub artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Munich and Osaka and 2 more. Often billed alongside Vuur, Pelanoir and Redleg On A Roll. Next up: Socore Factory, Osaka on Fri 30 Oct.
 
 ## Upcoming shows
 

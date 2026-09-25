@@ -1,14 +1,15 @@
 # Justin Tinderdate
 
-Justin Tinderdate is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OST, Berlin on Sat, 3 Oct 2026.
+Justin Tinderdate is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OST, Berlin on Sat, 3 Oct 2026.
 
-Justin Tinderdate is a techno and trance artist based in Germany, tracked on soundcheck, with 130 sets logged across Amsterdam, Basel, Berlin and Budapest and 18 more. Often billed alongside Elotrance, Cleopard2000 and Trancemaster Krause. Next up: OST, Berlin on Sat 3 Oct.
+Justin Tinderdate is a techno and trance artist based in Germany, tracked on soundcheck, with 131 sets logged across Amsterdam, Basel, Berlin and Budapest and 18 more. Often billed alongside Elotrance, Cleopard2000 and Trancemaster Krause. Next up: OST, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | OST | Berlin |
+| Wed, 7 Oct 2026 | Phantom Bar Berlin | Berlin |
 | Tue, 10 Nov 2026 | Mia Mao | Paris |
 
 ## Recently played

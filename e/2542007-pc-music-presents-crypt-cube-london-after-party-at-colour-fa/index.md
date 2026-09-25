@@ -1,6 +1,6 @@
 # PC Music presents: Crypt Cube: London After Party at Colour Factory
 
-PC Music presents: Crypt Cube: London After Party at Colour Factory on Sat 31 Oct, London. 9 acts on the bill: CITYTRONIX, Hannah Diamond, Kane West and Koreless and 5 more. Preview the line-up and save it on soundcheck.
+PC Music presents: Crypt Cube: London After Party at Colour Factory on Sat 31 Oct, London. 9 artists on the bill: CITYTRONIX, Hannah Diamond, Kane West and Koreless and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

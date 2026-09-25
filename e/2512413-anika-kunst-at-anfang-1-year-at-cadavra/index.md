@@ -1,6 +1,6 @@
 # Anika Kunst at ANFANG / 1 YEAR at Cadavra
 
-Anika Kunst at ANFANG / 1 YEAR at Cadavra on Thu 24 Sept, Madrid. 4 acts on the bill: Agulla, Anika Kunst, Unkle Fon and Vitreoux. Techno. Preview the line-up and save it on soundcheck.
+Anika Kunst at ANFANG / 1 YEAR at Cadavra on Thu 24 Sept, Madrid. 4 artists on the bill: Agulla, Anika Kunst, Unkle Fon and Vitreoux. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

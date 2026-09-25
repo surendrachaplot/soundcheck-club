@@ -1,6 +1,6 @@
 # Marcellus Pittman at VENT
 
-Marcellus Pittman at VENT on Sat 14 Nov, Tokyo. 1 act on the bill: Marcellus Pittman. House. Preview the line-up and save it on soundcheck.
+Marcellus Pittman at VENT on Sat 14 Nov, Tokyo. 1 artist on the bill: Marcellus Pittman. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

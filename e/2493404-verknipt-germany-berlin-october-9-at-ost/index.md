@@ -1,6 +1,6 @@
 # VERKNIPT Germany - Berlin - October 9 at OST
 
-VERKNIPT Germany - Berlin - October 9 at OST on Fri 9 Oct, Berlin. 7 acts on the bill: ANDATA, Charleen Herzig, Johannes Schuster and Niotech and 3 more. Techno. Preview the line-up and save it on soundcheck.
+VERKNIPT Germany - Berlin - October 9 at OST on Fri 9 Oct, Berlin. 7 artists on the bill: ANDATA, Charleen Herzig, Johannes Schuster and Niotech and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

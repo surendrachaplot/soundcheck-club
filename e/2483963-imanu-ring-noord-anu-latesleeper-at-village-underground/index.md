@@ -1,6 +1,6 @@
 # Imanu, ring noord, anu, latesleeper at Village Underground
 
-Imanu, ring noord, anu, latesleeper at Village Underground on Fri 2 Oct, London. 2 acts on the bill: anu and Imanu. Preview the line-up and save it on soundcheck.
+Imanu, ring noord, anu, latesleeper at Village Underground on Fri 2 Oct, London. 2 artists on the bill: anu and Imanu. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

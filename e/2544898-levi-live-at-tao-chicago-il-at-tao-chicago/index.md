@@ -1,6 +1,6 @@
 # Levi Live at TAO Chicago, IL at TAO Chicago
 
-Levi Live at TAO Chicago, IL on Sat 31 Oct, Chicago. 1 act on the bill: Levi (AU). Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Levi Live at TAO Chicago, IL on Sat 31 Oct, Chicago. 1 artist on the bill: Levi (AU). Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

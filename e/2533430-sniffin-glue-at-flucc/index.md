@@ -1,6 +1,6 @@
 # Sniffin´ Glue at FLUCC
 
-Sniffin´ Glue at FLUCC on Fri 25 Sept, Vienna. 1 act on the bill: Ora Et Labora. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+Sniffin´ Glue at FLUCC on Fri 25 Sept, Vienna. 1 artist on the bill: Ora Et Labora. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Terminal V London at DRUMSHEDS
 
-Terminal V London at DRUMSHEDS on Fri 23 Oct, London. 17 acts on the bill: 6 SENSE, 999999999, Cara Elizabeth and Charlie Sparks and 13 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Terminal V London at DRUMSHEDS on Fri 23 Oct, London. 17 artists on the bill: 6 SENSE, 999999999, Cara Elizabeth and Charlie Sparks and 13 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

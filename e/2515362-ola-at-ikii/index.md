@@ -1,6 +1,6 @@
 # OLA at Ikii
 
-OLA at Ikii on Fri 23 Oct, Berlin. 3 acts on the bill: Alejandro Mosso, cadeu and Mad Dim. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+OLA at Ikii on Fri 23 Oct, Berlin. 3 artists on the bill: Alejandro Mosso, cadeu and Mad Dim. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

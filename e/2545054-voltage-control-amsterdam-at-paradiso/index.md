@@ -1,6 +1,6 @@
 # Voltage Control Amsterdam at Paradiso
 
-Voltage Control Amsterdam at Paradiso on Sun 27 Sept, Amsterdam. 1 act on the bill: Alberta Balsam. Experimental and Dub Techno. Preview the line-up and save it on soundcheck.
+Voltage Control Amsterdam at Paradiso on Sun 27 Sept, Amsterdam. 1 artist on the bill: Alberta Balsam. Experimental and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Audio Club, Geneva on Fri, 2 Oct 2026.
+Anfisa Letyago is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Audio Club, Geneva on Fri, 2 Oct 2026.
 
-Anfisa Letyago is a techno and house artist based in Italy, tracked on soundcheck, with 164 sets logged across All, Amsterdam, Antwerp and Athens and 53 more. Often billed alongside Enrico Sangiuliano, Eli Brown and Héctor Oaks. Next up: Audio Club, Geneva on Fri 2 Oct.
+Anfisa Letyago is a techno and house artist based in Italy, tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Enrico Sangiuliano, Eli Brown and Héctor Oaks. Next up: Audio Club, Geneva on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,8 +16,9 @@ Anfisa Letyago is a techno and house artist based in Italy, tracked on soundchec
 | Sat, 17 Oct 2026 | TBA - Toronto | Toronto |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
+| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
-| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | All |
+| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played
 

@@ -2,7 +2,7 @@
 
 Konnin is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 24 Sept 2026.
 
-Konnin is a house and electronica artist based in Brazil, tracked on soundcheck, with 26 sets logged across Barcelona, Boston and Saopaulo. Often billed alongside LM, Brieela and Histoire d'un Soir. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 24 Sept.
+Konnin is a house and electronica artist based in Brazil, tracked on soundcheck, with 26 sets logged across Barcelona, Boston and Sao Paulo. Often billed alongside LM, Brieela and Histoire d'un Soir. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 24 Sept.
 
 ## Upcoming shows
 

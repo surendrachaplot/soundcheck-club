@@ -1,6 +1,6 @@
 # Elysium — 2 Years: Dana Ruh, Omar & TRAJANO at Armazem Solon
 
-Elysium — 2 Years: Dana Ruh, Omar & TRAJANO at Armazem Solon on Sat 26 Sept, Saopaulo. 3 acts on the bill: Dana Ruh, OMAR (UY) and TRAJANO. Techno and House. Preview the line-up and save it on soundcheck.
+Elysium — 2 Years: Dana Ruh, Omar & TRAJANO at Armazem Solon on Sat 26 Sept, Sao Paulo. 3 artists on the bill: Dana Ruh, OMAR (UY) and TRAJANO. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

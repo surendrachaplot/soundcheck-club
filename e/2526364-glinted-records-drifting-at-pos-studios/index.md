@@ -1,6 +1,6 @@
 # Glinted Records Drifting at pos studios
 
-Glinted Records Drifting at pos studios on Sun 4 Oct, Amsterdam. 2 acts on the bill: Girl Downstairs and Unknown Mobile. Preview the line-up and save it on soundcheck.
+Glinted Records Drifting at pos studios on Sun 4 Oct, Amsterdam. 2 artists on the bill: Girl Downstairs and Unknown Mobile. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

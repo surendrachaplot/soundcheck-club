@@ -1,6 +1,6 @@
 # Ten Twenty Vision presents: Sam Girling at The Model
 
-Ten Twenty Vision presents: Sam Girling at The Model on Fri 2 Oct, Nottingham. 1 act on the bill: Sam Girling. House and Garage. Preview the line-up and save it on soundcheck.
+Ten Twenty Vision presents: Sam Girling at The Model on Fri 2 Oct, Nottingham. 1 artist on the bill: Sam Girling. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Queer Theory Halloween at Drygate
 
-Queer Theory Halloween at Drygate on Fri 30 Oct, Glasgow. 1 act on the bill: Frankie Elyse. House and Electro. Preview the line-up and save it on soundcheck.
+Queer Theory Halloween at Drygate on Fri 30 Oct, Glasgow. 1 artist on the bill: Frankie Elyse. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

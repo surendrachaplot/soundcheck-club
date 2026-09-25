@@ -1,6 +1,6 @@
 # fabric: Max Cooper (All Night Long), DVS1, Dasha Rush, Jasmín, Pattn, Redfreya, Moritz at fabric
 
-fabric: Max Cooper (All Night Long), DVS1, Dasha Rush, Jasmín, Pattn, Redfreya, Moritz on Sat 3 Oct, London. 7 acts on the bill: Dasha Rush, DVS1, Jasmín and Max Cooper and 3 more. Preview the line-up and save it on soundcheck.
+fabric: Max Cooper (All Night Long), DVS1, Dasha Rush, Jasmín, Pattn, Redfreya, Moritz on Sat 3 Oct, London. 7 artists on the bill: Dasha Rush, DVS1, Jasmín and Max Cooper and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

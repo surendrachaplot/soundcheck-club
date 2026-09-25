@@ -1,6 +1,6 @@
 # TENBIN at Enter Shibuya
 
-TENBIN at Enter Shibuya on Thu 8 Oct, Tokyo. 1 act on the bill: Shoma fr,dambosound. Electronica. Preview the line-up and save it on soundcheck.
+TENBIN at Enter Shibuya on Thu 8 Oct, Tokyo. 1 artist on the bill: Shoma fr,dambosound. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

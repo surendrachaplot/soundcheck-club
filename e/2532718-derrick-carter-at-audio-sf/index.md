@@ -1,6 +1,6 @@
 # Derrick Carter at Audio SF
 
-Derrick Carter at Audio SF on Sat 7 Nov, Sanfrancisco. 2 acts on the bill: Derrick Carter and Jimmy B. Preview the line-up and save it on soundcheck.
+Derrick Carter at Audio SF on Sat 7 Nov, San Francisco/Oakland. 2 artists on the bill: Derrick Carter and Jimmy B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

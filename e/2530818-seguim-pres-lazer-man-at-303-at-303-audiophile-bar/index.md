@@ -1,6 +1,6 @@
 # Seguim pres. Lazer Man at 303 at 303 Audiophile Bar
 
-Seguim pres. Lazer Man at 303 at 303 Audiophile Bar on Sat 24 Oct, Barcelona. 2 acts on the bill: Alex Garcia (2) and Vince Void. House. Preview the line-up and save it on soundcheck.
+Seguim pres. Lazer Man at 303 at 303 Audiophile Bar on Sat 24 Oct, Barcelona. 2 artists on the bill: Alex Garcia and Vince Void. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

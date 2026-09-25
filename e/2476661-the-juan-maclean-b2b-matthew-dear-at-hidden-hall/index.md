@@ -1,6 +1,6 @@
 # The Juan Maclean B2B Matthew Dear at Hidden Hall
 
-The Juan Maclean B2B Matthew Dear at Hidden Hall on Fri 2 Oct, Seattle. 2 acts on the bill: Juan Maclean and Matthew Dear. House. Preview the line-up and save it on soundcheck.
+The Juan Maclean B2B Matthew Dear at Hidden Hall on Fri 2 Oct, Seattle. 2 artists on the bill: Juan Maclean and Matthew Dear. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

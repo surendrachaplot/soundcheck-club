@@ -1,6 +1,6 @@
 # Rooms Full A Culture at Rock n Roll Circus
 
-Rooms Full A Culture at Rock n Roll Circus on Sat 31 Oct, Leeds. 2 acts on the bill: Anatta Sound and Being One. Dub. Preview the line-up and save it on soundcheck.
+Rooms Full A Culture at Rock n Roll Circus on Sat 31 Oct, Leeds. 2 artists on the bill: Anatta Sound and Being One. Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

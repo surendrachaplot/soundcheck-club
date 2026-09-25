@@ -1,6 +1,6 @@
 # MEZAME FESTIVAL : james K, James Ferraro, & drumloop at Co-Cathedral of St. Joseph
 
-MEZAME FESTIVAL : james K, James Ferraro, & drumloop at Co-Cathedral of St. Joseph on Fri 25 Sept, Newyorkcity. 2 acts on the bill: James Ferraro and james K. Experimental and Vaporwave. Preview the line-up and save it on soundcheck.
+MEZAME FESTIVAL : james K, James Ferraro, & drumloop at Co-Cathedral of St. Joseph on Fri 25 Sept, New York City. 2 artists on the bill: James Ferraro and james K. Experimental and Vaporwave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

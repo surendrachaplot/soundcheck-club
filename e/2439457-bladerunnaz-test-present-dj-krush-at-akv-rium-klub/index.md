@@ -1,6 +1,6 @@
 # Bladerunnaz & Test present: DJ Krush at Akvárium Klub
 
-Bladerunnaz & Test present: DJ Krush at Akvárium Klub on Sat 24 Oct, Budapest. 1 act on the bill: DJ Krush. Breakbeat and Hip-Hop. Preview the line-up and save it on soundcheck.
+Bladerunnaz & Test present: DJ Krush at Akvárium Klub on Sat 24 Oct, Budapest. 1 artist on the bill: DJ Krush. Breakbeat and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

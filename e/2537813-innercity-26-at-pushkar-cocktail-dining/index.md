@@ -1,6 +1,6 @@
 # INNERCITY 26 at Pushkar Cocktail & Dining
 
-INNERCITY 26 at Pushkar Cocktail & Dining on Sat 17 Oct, Birmingham. 3 acts on the bill: Danny Ghost, Mr. Limey and N:Fostell. Garage and Afro House. Preview the line-up and save it on soundcheck.
+INNERCITY 26 at Pushkar Cocktail & Dining on Sat 17 Oct, Birmingham. 3 artists on the bill: Danny Ghost, Mr. Limey and N:Fostell. Garage and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

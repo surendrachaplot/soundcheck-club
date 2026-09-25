@@ -1,6 +1,6 @@
 # San Francisco Halloween Pub Crawl: Crawloween at Mayes Oyster House
 
-San Francisco Halloween Pub Crawl: Crawloween at Mayes Oyster House on Sat 31 Oct, Sanfrancisco. Pop and Club. Preview the line-up and save it on soundcheck.
+San Francisco Halloween Pub Crawl: Crawloween at Mayes Oyster House on Sat 31 Oct, San Francisco/Oakland. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

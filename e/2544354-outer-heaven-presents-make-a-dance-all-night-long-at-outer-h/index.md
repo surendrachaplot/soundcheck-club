@@ -1,6 +1,6 @@
 # Outer Heaven presents: Make A Dance [All Night Long] at Outer Heaven
 
-Outer Heaven presents: Make A Dance [All Night Long] on Fri 13 Nov, Newyorkcity. 1 act on the bill: Make A Dance. House and Acid. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Make A Dance [All Night Long] on Fri 13 Nov, New York City. 1 artist on the bill: Make A Dance. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

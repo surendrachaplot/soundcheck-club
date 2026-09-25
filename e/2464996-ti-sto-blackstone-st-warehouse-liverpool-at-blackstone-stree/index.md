@@ -1,6 +1,6 @@
 # Tiësto - Blackstone St Warehouse - Liverpool at Blackstone Street Warehouse
 
-Tiësto - Blackstone St Warehouse - Liverpool at Blackstone Street Warehouse on Sat 12 Dec, Liverpool. 1 act on the bill: Tiesto. Trance. Preview the line-up and save it on soundcheck.
+Tiësto - Blackstone St Warehouse - Liverpool at Blackstone Street Warehouse on Sat 12 Dec, Liverpool. 1 artist on the bill: Tiesto. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

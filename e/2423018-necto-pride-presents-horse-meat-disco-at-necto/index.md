@@ -1,6 +1,6 @@
 # Necto Pride presents: Horse Meat Disco at Necto
 
-Necto Pride presents: Horse Meat Disco on Fri 9 Oct, Detroit. 2 acts on the bill: DJ Holographic and Horse Meat Disco. House and Disco. Preview the line-up and save it on soundcheck.
+Necto Pride presents: Horse Meat Disco on Fri 9 Oct, Detroit. 2 artists on the bill: DJ Holographic and Horse Meat Disco. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

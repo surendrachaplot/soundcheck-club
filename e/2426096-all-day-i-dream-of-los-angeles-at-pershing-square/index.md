@@ -1,6 +1,6 @@
 # All Day I Dream Of Los Angeles at Pershing Square
 
-All Day I Dream Of Los Angeles at Pershing Square on Sat 3 Oct, Losangeles. 5 acts on the bill: Anton Tumas, Birds of Mind, Lee Burridge and Parallelle and 1 more. Deep House. Preview the line-up and save it on soundcheck.
+All Day I Dream Of Los Angeles at Pershing Square on Sat 3 Oct, Los Angeles. 5 artists on the bill: Anton Tumas, Birds of Mind, Lee Burridge and Parallelle and 1 more. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

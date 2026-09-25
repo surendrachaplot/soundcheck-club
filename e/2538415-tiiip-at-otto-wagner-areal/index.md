@@ -1,6 +1,6 @@
 # TIIIP at Otto Wagner Areal
 
-TIIIP at Otto Wagner Areal on Fri 2 Oct, Vienna. 6 acts on the bill: Dan Lodig, Kiawash, S.verin and Sarmabot and 2 more. Preview the line-up and save it on soundcheck.
+TIIIP at Otto Wagner Areal on Fri 2 Oct, Vienna. 6 artists on the bill: Dan Lodig, Kiawash, S.verin and Sarmabot and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

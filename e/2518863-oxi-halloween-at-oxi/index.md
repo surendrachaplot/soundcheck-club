@@ -1,6 +1,6 @@
 # OXI Halloween at OXI
 
-OXI Halloween on Sat 31 Oct, Berlin. 7 acts on the bill: CatMint, Clarisse, Cobahn and Connor Wall and 3 more. Techno. Preview the line-up and save it on soundcheck.
+OXI Halloween on Sat 31 Oct, Berlin. 7 artists on the bill: CatMint, Clarisse, Cobahn and Connor Wall and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

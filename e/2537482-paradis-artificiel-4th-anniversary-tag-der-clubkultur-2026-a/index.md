@@ -1,6 +1,6 @@
 # Paradis Artificiel (4TH ANNIVERSARY) ✦ TAG DER CLUBKULTUR 2026 at Crack Bellmer
 
-Paradis Artificiel (4TH ANNIVERSARY) ✦ TAG DER CLUBKULTUR 2026 at Crack Bellmer on Sat 10 Oct, Berlin. 3 acts on the bill: Bconscious, Gforty and Guido Iacovitti. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Paradis Artificiel (4TH ANNIVERSARY) ✦ TAG DER CLUBKULTUR 2026 at Crack Bellmer on Sat 10 Oct, Berlin. 3 artists on the bill: Bconscious, Gforty and Guido Iacovitti. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

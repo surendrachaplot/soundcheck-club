@@ -1,6 +1,6 @@
 # NT's Loft: Tonno Disko, Jamie 3:26, Leroy Rey & Malindi at Night Tales Loft
 
-NT's Loft: Tonno Disko, Jamie 3:26, Leroy Rey & Malindi at Night Tales Loft on Fri 25 Sept, London. 3 acts on the bill: Jamie 3:26, Leroy Rey and Tonno Disko. Preview the line-up and save it on soundcheck.
+NT's Loft: Tonno Disko, Jamie 3:26, Leroy Rey & Malindi at Night Tales Loft on Fri 25 Sept, London. 3 artists on the bill: Jamie 3:26, Leroy Rey and Tonno Disko. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

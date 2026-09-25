@@ -1,6 +1,6 @@
 # FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) at Noxe Barcelona
 
-FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) at Noxe Barcelona on Tue 29 Sept, Barcelona. 2 acts on the bill: Sarah Andersson and Vikki. House. Preview the line-up and save it on soundcheck.
+FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) at Noxe Barcelona on Tue 29 Sept, Barcelona. 2 artists on the bill: Sarah Andersson and Vikki. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

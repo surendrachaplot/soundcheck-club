@@ -1,6 +1,6 @@
 # Nomadism Records x Cartel - Saturday Session at TBA
 
-Nomadism Records x Cartel - Saturday Session at TBA on Sat 24 Oct, Amsterdam. 2 acts on the bill: Hoani Teano and Plab On. House. Preview the line-up and save it on soundcheck.
+Nomadism Records x Cartel - Saturday Session at TBA on Sat 24 Oct, Amsterdam. 2 artists on the bill: Hoani Teano and Plab On. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

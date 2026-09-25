@@ -1,14 +1,15 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+dj sweet6teen is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-dj sweet6teen is a house and techno artist based in Germany, tracked on soundcheck, with 247 sets logged across All, Amsterdam, Antwerp and Bangkok and 47 more. Often billed alongside Angel D'lite, Sansibar and Peach. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+dj sweet6teen is a house and techno artist based in Germany, tracked on soundcheck, with 248 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 47 more. Often billed alongside Angel D'lite, Sansibar and Peach. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
+| Sat, 3 Oct 2026 | Club Guesthouse | Bucharest |
 | Fri, 9 Oct 2026 | Minimüzikhol | Istanbul |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sat, 17 Oct 2026 | Under The Arches | Leeds |
@@ -19,7 +20,6 @@ dj sweet6teen is a house and techno artist based in Germany, tracked on soundche
 | Sat, 14 Nov 2026 | Azimut Club | Turin |
 | Fri, 20 Nov 2026 | Cobalt Studios | Newcastle |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
-| Fri, 11 Dec 2026 | Wigwam | Dublin |
 
 ## Recently played
 

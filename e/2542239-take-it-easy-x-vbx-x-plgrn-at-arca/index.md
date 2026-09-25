@@ -1,6 +1,6 @@
 # Take It Easy x VBX x PLGRN at Arca
 
-Take It Easy x VBX x PLGRN at Arca on Sat 17 Oct, Milan. 4 acts on the bill: Alexia Glensy, Cassy, Fabio Alampi and KARBONI. Techno and House. Preview the line-up and save it on soundcheck.
+Take It Easy x VBX x PLGRN at Arca on Sat 17 Oct, Milan. 4 artists on the bill: Alexia Glensy, Cassy, Fabio Alampi and KARBONI. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

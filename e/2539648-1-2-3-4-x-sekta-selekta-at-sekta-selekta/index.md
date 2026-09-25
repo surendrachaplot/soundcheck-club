@@ -1,6 +1,6 @@
 # 1-2-3-4 x Sekta Selekta at Sekta Selekta
 
-1-2-3-4 x Sekta Selekta on Sat 26 Sept, Krakow. 4 acts on the bill: Kurilo, O'FortyFour, Salut 80 and Verde. Preview the line-up and save it on soundcheck.
+1-2-3-4 x Sekta Selekta on Sat 26 Sept, Krakow. 4 artists on the bill: Kurilo, O'FortyFour, Salut 80 and Verde. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

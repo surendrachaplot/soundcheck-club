@@ -1,6 +1,6 @@
 # Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet at InDeep'n'Dance Records
 
-Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet at InDeep'n'Dance Records on Thu 22 Oct, Amsterdam. 2 acts on the bill: Luton and Scepa. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet at InDeep'n'Dance Records on Thu 22 Oct, Amsterdam. 2 artists on the bill: Luton and Scepa. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

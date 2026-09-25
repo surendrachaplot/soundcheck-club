@@ -1,6 +1,6 @@
 # Club Romantico x MOT: Dengue Dengue Dengue, Florentino & Pochola at M.O.T
 
-Club Romantico x MOT: Dengue Dengue Dengue, Florentino & Pochola at M.O.T on Fri 23 Oct, London. 3 acts on the bill: Dengue Dengue Dengue, Florentino and Pochola. Preview the line-up and save it on soundcheck.
+Club Romantico x MOT: Dengue Dengue Dengue, Florentino & Pochola at M.O.T on Fri 23 Oct, London. 3 artists on the bill: Dengue Dengue Dengue, Florentino and Pochola. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

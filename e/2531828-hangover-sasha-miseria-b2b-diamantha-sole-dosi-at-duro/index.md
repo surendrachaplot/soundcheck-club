@@ -1,6 +1,6 @@
 # HANGOVER // Sasha - MISERIA b2b Diamantha - SOLE DOSI at DURO
 
-HANGOVER // Sasha - MISERIA b2b Diamantha - SOLE DOSI at DURO on Sun 27 Sept, Milan. 4 acts on the bill: Diamantha, MISERIA, Sasha (2) and SOLE DOSI. House and Tech House. Preview the line-up and save it on soundcheck.
+HANGOVER // Sasha - MISERIA b2b Diamantha - SOLE DOSI at DURO on Sun 27 Sept, Milan. 4 artists on the bill: Diamantha, MISERIA, Sasha and SOLE DOSI. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dinner to Dance at Multi Story
 
-Dinner to Dance at Multi Story on Sat 26 Sept, London. 1 act on the bill: Connor Gray. House and Disco. Preview the line-up and save it on soundcheck.
+Dinner to Dance at Multi Story on Sat 26 Sept, London. 1 artist on the bill: Connor Gray. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

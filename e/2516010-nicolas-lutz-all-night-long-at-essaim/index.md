@@ -1,6 +1,6 @@
 # Nicolas Lutz - all night long at essaim
 
-Nicolas Lutz - all night long at essaim on Sat 7 Nov, Paris. 1 act on the bill: Nicolas Lutz. Techno. Preview the line-up and save it on soundcheck.
+Nicolas Lutz - all night long at essaim on Sat 7 Nov, Paris. 1 artist on the bill: Nicolas Lutz. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

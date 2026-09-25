@@ -1,6 +1,6 @@
 # SWIM - Live with Orchestra at Hackney Church
 
-SWIM - Live with Orchestra at Hackney Church on Sat 21 Nov, London. 1 act on the bill: SWIM (AU). Techno and Experimental. Preview the line-up and save it on soundcheck.
+SWIM - Live with Orchestra at Hackney Church on Sat 21 Nov, London. 1 artist on the bill: SWIM (AU). Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Airport pres. TERMINAL SCHRANZ at Airport Würzburg
 
-Airport pres. TERMINAL SCHRANZ at Airport Würzburg on Fri 30 Oct, Nurnberg. 5 acts on the bill: Mantraa, Noise Not War, O.B.I. (DE) and Obscure Shape and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Airport pres. TERMINAL SCHRANZ at Airport Würzburg on Fri 30 Oct, Nürnberg. 5 artists on the bill: Mantraa, Noise Not War, O.B.I. (DE) and Obscure Shape and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

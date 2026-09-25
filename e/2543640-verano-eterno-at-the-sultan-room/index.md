@@ -1,6 +1,6 @@
 # Verano Eterno at The Sultan Room
 
-Verano Eterno at The Sultan Room on Sat 26 Sept, Newyorkcity. House and Disco. Preview the line-up and save it on soundcheck.
+Verano Eterno at The Sultan Room on Sat 26 Sept, New York City. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

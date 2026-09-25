@@ -1,6 +1,6 @@
 # House Of Horrors at Basing House
 
-House Of Horrors at Basing House on Sat 31 Oct, London. 4 acts on the bill: A-Sides, Jumping Jack Frost, Marly Marl and TC. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+House Of Horrors at Basing House on Sat 31 Oct, London. 4 artists on the bill: A-Sides, Jumping Jack Frost, Marly Marl and TC. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

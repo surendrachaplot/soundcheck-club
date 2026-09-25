@@ -1,6 +1,6 @@
 # SUBCERO CLUB x Spot at Subcero Club
 
-SUBCERO CLUB x Spot at Subcero Club on Thu 5 Nov, Madrid. 1 act on the bill: Prato. Electronica. Preview the line-up and save it on soundcheck.
+SUBCERO CLUB x Spot at Subcero Club on Thu 5 Nov, Madrid. 1 artist on the bill: Prato. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

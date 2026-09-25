@@ -1,6 +1,6 @@
 # clipp.art & WIP Music present Rich Medina (USA) at Oxford Art Factory
 
-clipp.art & WIP Music present Rich Medina (USA) at Oxford Art Factory on Sat 10 Oct, Sydney. 3 acts on the bill: Jane Decks, Mikekon and Rich Medina. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+clipp.art & WIP Music present Rich Medina (USA) at Oxford Art Factory on Sat 10 Oct, Sydney. 3 artists on the bill: Jane Decks, Mikekon and Rich Medina. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

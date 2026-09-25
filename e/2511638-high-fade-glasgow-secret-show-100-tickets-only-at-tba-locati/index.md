@@ -1,6 +1,6 @@
 # High Fade Glasgow Secret Show - 100 tickets only at TBA - Location Announced on the day. Join the Fade Fam chat for details. 
 
-High Fade Glasgow Secret Show - 100 tickets only at TBA - Location Announced on the day. Join the Fade Fam chat for details.  on Sun 29 Nov, Glasgow. 1 act on the bill: High Fade. Funk / Soul. Preview the line-up and save it on soundcheck.
+High Fade Glasgow Secret Show - 100 tickets only at TBA - Location Announced on the day. Join the Fade Fam chat for details.  on Sun 29 Nov, Glasgow. 1 artist on the bill: High Fade. Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

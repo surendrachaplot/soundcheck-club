@@ -1,6 +1,6 @@
 # 2ManyDJs (DJ Set) at Vicar Street
 
-2ManyDJs (DJ Set) at Vicar Street on Sun 25 Oct, Dublin. 2 acts on the bill: 2ManyDJs and KORMAC. Preview the line-up and save it on soundcheck.
+2ManyDJs (DJ Set) at Vicar Street on Sun 25 Oct, Dublin. 2 artists on the bill: 2ManyDJs and KORMAC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

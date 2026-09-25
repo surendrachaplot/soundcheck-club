@@ -1,6 +1,6 @@
 # TECHNODROME: Alexander Kowalski, MVPDJ, Super Pä at EL SÓTANO
 
-TECHNODROME: Alexander Kowalski, MVPDJ, Super Pä at EL SÓTANO on Sat 7 Nov, Madrid. 2 acts on the bill: Alexander Kowalski and MVPDJ. Techno. Preview the line-up and save it on soundcheck.
+TECHNODROME: Alexander Kowalski, MVPDJ, Super Pä at EL SÓTANO on Sat 7 Nov, Madrid. 2 artists on the bill: Alexander Kowalski and MVPDJ. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

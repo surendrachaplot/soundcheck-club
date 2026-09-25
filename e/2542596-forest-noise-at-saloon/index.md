@@ -1,6 +1,6 @@
 # FOREST NOISE at Saloon
 
-FOREST NOISE at Saloon on Sun 11 Oct, Tokyo. 2 acts on the bill: FELINE (JP) and S.H.V. Preview the line-up and save it on soundcheck.
+FOREST NOISE at Saloon on Sun 11 Oct, Tokyo. 2 artists on the bill: FELINE (JP) and S.H.V. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

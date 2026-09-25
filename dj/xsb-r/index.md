@@ -2,7 +2,7 @@
 
 XSB-R is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Artbean Coffee Roasters, New York City on Sun, 27 Sept 2026.
 
-XSB-R is a techno and ebm artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity. Often billed alongside Moment of Terror, Charity Kill and DJ Flesh_Bot. Next up: Artbean Coffee Roasters, Newyorkcity on Sun 27 Sept.
+XSB-R is a techno and ebm artist based in United States of America, tracked on soundcheck, with 24 sets logged across New York City. Often billed alongside Moment of Terror, Charity Kill and DJ Flesh_Bot. Next up: Artbean Coffee Roasters, New York City on Sun 27 Sept.
 
 ## Upcoming shows
 

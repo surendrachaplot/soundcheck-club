@@ -1,6 +1,6 @@
 # Off The Record at PUBLIC Hotel at Public Arts
 
-Off The Record at PUBLIC Hotel at Public Arts on Sat 7 Nov, Newyorkcity. House and Electronica. Preview the line-up and save it on soundcheck.
+Off The Record at PUBLIC Hotel at Public Arts on Sat 7 Nov, New York City. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

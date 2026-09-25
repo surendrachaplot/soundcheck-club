@@ -1,6 +1,6 @@
 # Jamie Jones Paradise at [UNVRS]
 
-Jamie Jones Paradise at [UNVRS] on Wed 30 Sept, Ibiza. 7 acts on the bill: Calvin Clarke, Ciclo, Damian Lazarus and Jamie Jones and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Jamie Jones Paradise at [UNVRS] on Wed 30 Sept, Ibiza. 7 artists on the bill: Calvin Clarke, Ciclo, Damian Lazarus and Jamie Jones and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # POLLEN: 90mil radio festival at 90mil
 
-POLLEN: 90mil radio festival on Fri 25 Sept, Berlin. 18 acts on the bill: 3rd Party Influence, Bernhard Hollinger, Broshuda and Depuratumba and 14 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+POLLEN: 90mil radio festival on Fri 25 Sept, Berlin. 18 artists on the bill: 3rd Party Influence, Bernhard Hollinger, Broshuda and Depuratumba and 14 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

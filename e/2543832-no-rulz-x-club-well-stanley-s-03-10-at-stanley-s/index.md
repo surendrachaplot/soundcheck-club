@@ -1,6 +1,6 @@
 # No Rulz x Club Well - Stanley's 03/10 at Stanley's
 
-No Rulz x Club Well - Stanley's 03/10 on Sat 3 Oct, Sydney. 4 acts on the bill: A.Well, Chris Stevo, Miliard and Tommy Craig. House and Tech House. Preview the line-up and save it on soundcheck.
+No Rulz x Club Well - Stanley's 03/10 on Sat 3 Oct, Sydney. 4 artists on the bill: A.Well, Chris Stevo, Miliard and Tommy Craig. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # x3butterfly a Mexican/American DJ and producer from Detroit at Eventhuset
 
-x3butterfly a Mexican/American DJ and producer from Detroit at Eventhuset on Sat 24 Oct, Stockholm. 1 act on the bill: x3butterfly. Techno and House. Preview the line-up and save it on soundcheck.
+x3butterfly a Mexican/American DJ and producer from Detroit at Eventhuset on Sat 24 Oct, Stockholm. 1 artist on the bill: x3butterfly. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

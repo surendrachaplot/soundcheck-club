@@ -2,7 +2,7 @@
 
 Dj Cherry is a Techno and Dembow artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Le Club Igualada, Barcelona on Fri, 9 Oct 2026.
 
-Dj Cherry is a techno and dembow artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona, Ibiza and Sanfrancisco. Often billed alongside Kleyver Reyes, 3Letters and DJ JUANNY. Next up: Le Club Igualada, Barcelona on Fri 9 Oct.
+Dj Cherry is a techno and dembow artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona, Ibiza and San Francisco/Oakland. Often billed alongside Kleyver Reyes, 3Letters and DJ JUANNY. Next up: Le Club Igualada, Barcelona on Fri 9 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # SHIBUI x Yum Yum Records (No90 Hideout) at NUMBER 90 LONDON
 
-SHIBUI x Yum Yum Records (No90 Hideout) at NUMBER 90 LONDON on Sat 17 Oct, London. 1 act on the bill: James Andrew. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+SHIBUI x Yum Yum Records (No90 Hideout) at NUMBER 90 LONDON on Sat 17 Oct, London. 1 artist on the bill: James Andrew. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

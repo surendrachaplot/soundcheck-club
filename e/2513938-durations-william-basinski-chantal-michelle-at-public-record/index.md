@@ -1,6 +1,6 @@
 # DURATIONS: William Basinski, Chantal Michelle at public records
 
-DURATIONS: William Basinski, Chantal Michelle at public records on Wed 11 Nov, Newyorkcity. 2 acts on the bill: Chantal Michelle and William Basinski. Preview the line-up and save it on soundcheck.
+DURATIONS: William Basinski, Chantal Michelle at public records on Wed 11 Nov, New York City. 2 artists on the bill: Chantal Michelle and William Basinski. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

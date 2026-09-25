@@ -1,6 +1,6 @@
 # The Basement Project (Masquerade) at Cloud & Spirits
 
-The Basement Project (Masquerade) at Cloud & Spirits on Fri 30 Oct, Boston. 1 act on the bill: DJ Bookworm. Progressive House and House. Preview the line-up and save it on soundcheck.
+The Basement Project (Masquerade) at Cloud & Spirits on Fri 30 Oct, Boston. 1 artist on the bill: DJ Bookworm. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

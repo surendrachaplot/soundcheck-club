@@ -1,6 +1,6 @@
 # Kastel wt/ LET'S PROJECT PRESENTS :+ FAITH + MADE OF SOUND + BERAT HALLAÇ & YUJI SOSA many more at Kastel
 
-Kastel wt/ LET'S PROJECT PRESENTS :+ FAITH + MADE OF SOUND + BERAT HALLAÇ & YUJI SOSA many more on Fri 25 Sept, Istanbul. 1 act on the bill: FAITH. House. Preview the line-up and save it on soundcheck.
+Kastel wt/ LET'S PROJECT PRESENTS :+ FAITH + MADE OF SOUND + BERAT HALLAÇ & YUJI SOSA many more on Fri 25 Sept, Istanbul. 1 artist on the bill: FAITH. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

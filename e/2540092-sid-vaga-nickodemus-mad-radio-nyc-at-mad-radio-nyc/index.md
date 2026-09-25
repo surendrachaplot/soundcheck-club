@@ -1,6 +1,6 @@
 # Sid Vaga & Nickodemus @ MAD Radio NYC at MAD Radio NYC
 
-Sid Vaga & Nickodemus @ MAD Radio NYC on Thu 24 Sept, Newyorkcity. House and Afro House. Preview the line-up and save it on soundcheck.
+Sid Vaga & Nickodemus @ MAD Radio NYC on Thu 24 Sept, New York City. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

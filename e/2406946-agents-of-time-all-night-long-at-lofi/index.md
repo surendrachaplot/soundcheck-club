@@ -1,6 +1,6 @@
 # Agents Of Time - all night long at Lofi
 
-Agents Of Time - all night long at Lofi on Fri 20 Nov, Amsterdam. 1 act on the bill: Agents Of Time. Preview the line-up and save it on soundcheck.
+Agents Of Time - all night long at Lofi on Fri 20 Nov, Amsterdam. 1 artist on the bill: Agents Of Time. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

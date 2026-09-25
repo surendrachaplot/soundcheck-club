@@ -1,6 +1,6 @@
 # Session Victim (Live Show) at The Jazz Cafe
 
-Session Victim (Live Show) at The Jazz Cafe on Fri 11 Dec, London. 1 act on the bill: Session Victim. Preview the line-up and save it on soundcheck.
+Session Victim (Live Show) at The Jazz Cafe on Fri 11 Dec, London. 1 artist on the bill: Session Victim. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

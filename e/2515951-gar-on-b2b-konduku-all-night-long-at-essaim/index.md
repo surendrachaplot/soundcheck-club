@@ -1,6 +1,6 @@
 # Garçon b2b Konduku - all night long at essaim
 
-Garçon b2b Konduku - all night long at essaim on Sat 17 Oct, Paris. 2 acts on the bill: Garçon and Konduku. Techno. Preview the line-up and save it on soundcheck.
+Garçon b2b Konduku - all night long at essaim on Sat 17 Oct, Paris. 2 artists on the bill: Garçon and Konduku. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

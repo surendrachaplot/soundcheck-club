@@ -1,6 +1,6 @@
 # Takuya Nakamura at The Foundry
 
-Takuya Nakamura at The Foundry on Thu 3 Dec, Philadelphia. 1 act on the bill: Takuya Nakamura. Jazz and Jungle. Preview the line-up and save it on soundcheck.
+Takuya Nakamura at The Foundry on Thu 3 Dec, Philadelphia. 1 artist on the bill: Takuya Nakamura. Jazz and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

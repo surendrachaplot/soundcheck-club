@@ -1,6 +1,6 @@
 # Frenzy 7YRS WKNDR at RADION
 
-Frenzy 7YRS WKNDR at RADION on Sat 7 Nov, Amsterdam. 7 acts on the bill: Beau Didier, Byron Yeates, Elli Acula and Isaiah (NL) and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Frenzy 7YRS WKNDR at RADION on Sat 7 Nov, Amsterdam. 7 artists on the bill: Beau Didier, Byron Yeates, Elli Acula and Isaiah (NL) and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

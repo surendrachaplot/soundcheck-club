@@ -1,6 +1,6 @@
 # Palau Sessions Season II Re:Create at Palau Dalmases
 
-Palau Sessions Season II Re:Create at Palau Dalmases on Thu 24 Sept, Barcelona. 1 act on the bill: emme (2). Preview the line-up and save it on soundcheck.
+Palau Sessions Season II Re:Create at Palau Dalmases on Thu 24 Sept, Barcelona. 1 artist on the bill: emme. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

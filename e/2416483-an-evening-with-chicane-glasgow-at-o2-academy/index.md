@@ -1,6 +1,6 @@
 # An Evening With Chicane - Glasgow at O2 Academy
 
-An Evening With Chicane - Glasgow at O2 Academy on Sat 14 Nov, Glasgow. 1 act on the bill: Chicane. Trance. Preview the line-up and save it on soundcheck.
+An Evening With Chicane - Glasgow at O2 Academy on Sat 14 Nov, Glasgow. 1 artist on the bill: Chicane. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

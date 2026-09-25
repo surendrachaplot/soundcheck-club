@@ -1,6 +1,6 @@
 # Lifesavers with Ultradyne, saylem celeste, Chung & Jordy at Bossa Nova Civic Club
 
-Lifesavers with Ultradyne, saylem celeste, Chung & Jordy at Bossa Nova Civic Club on Fri 25 Sept, Newyorkcity. 3 acts on the bill: Chung, Jordyflower and saylem celeste. Electro. Preview the line-up and save it on soundcheck.
+Lifesavers with Ultradyne, saylem celeste, Chung & Jordy at Bossa Nova Civic Club on Fri 25 Sept, New York City. 3 artists on the bill: Chung, Jordyflower and saylem celeste. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

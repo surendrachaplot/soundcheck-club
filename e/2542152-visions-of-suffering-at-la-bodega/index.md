@@ -1,6 +1,6 @@
 # Visions Of Suffering at La Bodega
 
-Visions Of Suffering at La Bodega on Fri 30 Oct, Hamburg. 1 act on the bill: Sisyphos. Psytrance. Preview the line-up and save it on soundcheck.
+Visions Of Suffering at La Bodega on Fri 30 Oct, Hamburg. 1 artist on the bill: Sisyphos. Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

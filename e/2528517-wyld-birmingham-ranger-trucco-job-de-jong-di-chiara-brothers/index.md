@@ -1,6 +1,6 @@
 # WYLD Birmingham: Ranger Trucco, Job de Jong, Di Chiara Brothers at Lab11
 
-WYLD Birmingham: Ranger Trucco, Job de Jong, Di Chiara Brothers at Lab11 on Sat 14 Nov, Birmingham. 6 acts on the bill: ADR (UK), Di Chiara Brothers, EVIE UK and FINKY and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+WYLD Birmingham: Ranger Trucco, Job de Jong, Di Chiara Brothers at Lab11 on Sat 14 Nov, Birmingham. 6 artists on the bill: ADR (UK), Di Chiara Brothers, EVIE UK and FINKY and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

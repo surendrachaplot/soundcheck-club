@@ -1,6 +1,6 @@
 # INCOGNITO x Metalheadz: Goldie, Photek, DRS, Diverge at TBA - Los Angeles (Warehouse)
 
-INCOGNITO x Metalheadz: Goldie, Photek, DRS, Diverge at TBA - Los Angeles (Warehouse) on Fri 11 Dec, Losangeles. 4 acts on the bill: Diverge, DRS, Goldie and Photek. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+INCOGNITO x Metalheadz: Goldie, Photek, DRS, Diverge at TBA - Los Angeles (Warehouse) on Fri 11 Dec, Los Angeles. 4 artists on the bill: Diverge, DRS, Goldie and Photek. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nico Moreno at Echostage
 
-Nico Moreno at Echostage on Fri 6 Nov, Washingtondc. 1 act on the bill: Nico Moreno. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Nico Moreno at Echostage on Fri 6 Nov, Washington DC. 1 artist on the bill: Nico Moreno. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

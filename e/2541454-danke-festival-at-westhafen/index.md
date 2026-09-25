@@ -1,6 +1,6 @@
 # DANKE Festival at Westhafen
 
-DANKE Festival at Westhafen on Sat 26 Sept, Leipzig. 8 acts on the bill: Benleh, Cafgar, Felix Schwarzenberger and GI.O and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+DANKE Festival at Westhafen on Sat 26 Sept, Leipzig. 8 artists on the bill: Benleh, Cafgar, Felix Schwarzenberger and GI.O and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

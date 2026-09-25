@@ -1,6 +1,6 @@
 # The LRBB - THE liL RAY BIRTHDAY BASH at Bogart House
 
-The LRBB - THE liL RAY BIRTHDAY BASH at Bogart House on Fri 25 Sept, Newyorkcity. House and Deep House. Preview the line-up and save it on soundcheck.
+The LRBB - THE liL RAY BIRTHDAY BASH at Bogart House on Fri 25 Sept, New York City. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

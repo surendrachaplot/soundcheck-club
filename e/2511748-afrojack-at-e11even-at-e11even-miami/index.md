@@ -1,6 +1,6 @@
 # Afrojack at E11EVEN at E11EVEN MIAMI
 
-Afrojack at E11EVEN at E11EVEN MIAMI on Fri 25 Sept, Miami. 1 act on the bill: Afrojack. Preview the line-up and save it on soundcheck.
+Afrojack at E11EVEN at E11EVEN MIAMI on Fri 25 Sept, Miami. 1 artist on the bill: Afrojack. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

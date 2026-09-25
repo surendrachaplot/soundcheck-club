@@ -1,6 +1,6 @@
 # Mono Culture & Jersey the Devil presents at The Poetry Club
 
-Mono Culture & Jersey the Devil presents at The Poetry Club on Sat 26 Sept, Glasgow. 3 acts on the bill: HEATNAVI, Maskka and Mellin. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Mono Culture & Jersey the Devil presents at The Poetry Club on Sat 26 Sept, Glasgow. 3 artists on the bill: HEATNAVI, Maskka and Mellin. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

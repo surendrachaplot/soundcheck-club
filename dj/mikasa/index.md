@@ -2,7 +2,7 @@
 
 Mikasa is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Night Club 101, New York City on Fri, 9 Oct 2026.
 
-Mikasa is a hardcore and gabber artist based in United States of America, tracked on soundcheck, with 15 sets logged across Istanbul, Newyorkcity, Osaka and Tokyo. Often billed alongside KYLE MIKASA, TCJ (2) and RICKY. Next up: Night Club 101, Newyorkcity on Fri 9 Oct.
+Mikasa is a hardcore and gabber artist based in United States of America, tracked on soundcheck, with 15 sets logged across Istanbul, New York City, Osaka and Tokyo. Often billed alongside KYLE MIKASA, TCJ and RICKY. Next up: Night Club 101, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 

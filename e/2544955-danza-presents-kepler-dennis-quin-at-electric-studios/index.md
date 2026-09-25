@@ -1,6 +1,6 @@
 # Danza presents Kepler, Dennis Quin at Electric Studios
 
-Danza presents Kepler, Dennis Quin at Electric Studios on Sat 21 Nov, Sheffield. 1 act on the bill: Dennis Quin. Preview the line-up and save it on soundcheck.
+Danza presents Kepler, Dennis Quin at Electric Studios on Sat 21 Nov, Sheffield. 1 artist on the bill: Dennis Quin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

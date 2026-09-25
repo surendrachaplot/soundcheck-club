@@ -2,7 +2,7 @@
 
 Esteban De Haro is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
 
-Esteban De Haro is a house and minimal artist tracked on soundcheck, with 21 sets logged across Berlin, Hamburg, Mexicocity and Prague. Often billed alongside Flandez, Pia Kauitl and Audio Werner. Next up: Jonny Knüppel, Berlin on Fri 25 Sept.
+Esteban De Haro is a house and minimal artist tracked on soundcheck, with 21 sets logged across Berlin, Hamburg, Mexico City and Prague. Often billed alongside Flandez, Pia Kauitl and Audio Werner. Next up: Jonny Knüppel, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 

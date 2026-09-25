@@ -1,6 +1,6 @@
 # Goaultrabeat - Hotel Butterfly at Hotel Butterfly
 
-Goaultrabeat - Hotel Butterfly on Thu 24 Sept, Rome. 2 acts on the bill: Daniele Pavoni and FRANKIEE. Techno and Electro. Preview the line-up and save it on soundcheck.
+Goaultrabeat - Hotel Butterfly on Thu 24 Sept, Rome. 2 artists on the bill: Daniele Pavoni and FRANKIEE. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

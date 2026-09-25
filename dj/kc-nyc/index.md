@@ -2,7 +2,7 @@
 
 KC (NYC) is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Substance Skatepark, New York City on Sat, 7 Nov 2026.
 
-KC (NYC) is a techno and garage artist based in United States of America, tracked on soundcheck, with 32 sets logged across Newyorkcity. Often billed alongside ceviché, dj mangovape and tyler.xls. Next up: Substance Skatepark, Newyorkcity on Sat 7 Nov.
+KC (NYC) is a techno and garage artist based in United States of America, tracked on soundcheck, with 32 sets logged across New York City. Often billed alongside ceviché, dj mangovape and tyler.xls. Next up: Substance Skatepark, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Transmissons x Breakfast Club Afterparty at Starlane Pizza Bar
 
-Transmissons x Breakfast Club Afterparty at Starlane Pizza Bar on Sat 3 Oct, London. 3 acts on the bill: Eversines, Inner Zone and Marie K (1). Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Transmissons x Breakfast Club Afterparty at Starlane Pizza Bar on Sat 3 Oct, London. 3 artists on the bill: Eversines, Inner Zone and Marie K. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

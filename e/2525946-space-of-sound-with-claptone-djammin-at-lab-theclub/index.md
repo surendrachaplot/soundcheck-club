@@ -1,6 +1,6 @@
 # Space of Sound with Claptone, Djammin at LAB theCLUB
 
-Space of Sound with Claptone, Djammin at LAB theCLUB on Sat 7 Nov, Madrid. 2 acts on the bill: Claptone and Djammin. House. Preview the line-up and save it on soundcheck.
+Space of Sound with Claptone, Djammin at LAB theCLUB on Sat 7 Nov, Madrid. 2 artists on the bill: Claptone and Djammin. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

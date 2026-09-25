@@ -1,6 +1,6 @@
 # Ivy Lab: A Farewell Tour (Bristol - Final Ever Set) at Thekla
 
-Ivy Lab: A Farewell Tour (Bristol - Final Ever Set) at Thekla on Fri 27 Nov, Bristol. 1 act on the bill: Ivy Lab. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Ivy Lab: A Farewell Tour (Bristol - Final Ever Set) at Thekla on Fri 27 Nov, Bristol. 1 artist on the bill: Ivy Lab. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

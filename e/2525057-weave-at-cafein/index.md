@@ -1,6 +1,6 @@
 # WEAVE at Cafein
 
-WEAVE at Cafein on Mon 28 Sept, Tokyo. 1 act on the bill: liberty (JP). House and Balearic. Preview the line-up and save it on soundcheck.
+WEAVE at Cafein on Mon 28 Sept, Tokyo. 1 artist on the bill: liberty (JP). House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

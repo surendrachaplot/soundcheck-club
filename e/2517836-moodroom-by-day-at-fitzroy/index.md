@@ -1,6 +1,6 @@
 # Moodroom By Day at Fitzroy
 
-Moodroom By Day at Fitzroy on Sat 3 Oct, Berlin. 2 acts on the bill: CJ Schneider and Martha O.. House. Preview the line-up and save it on soundcheck.
+Moodroom By Day at Fitzroy on Sat 3 Oct, Berlin. 2 artists on the bill: CJ Schneider and Martha O.. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

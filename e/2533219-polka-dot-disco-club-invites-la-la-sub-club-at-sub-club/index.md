@@ -1,6 +1,6 @@
 # Polka Dot Disco Club invites La La ♡ Sub Club ‪‪♡ at Sub Club
 
-Polka Dot Disco Club invites La La ♡ Sub Club ‪‪♡ on Fri 25 Sept, Glasgow. 3 acts on the bill: Frankie Elyse, La La and Peeve. House and Tech House. Preview the line-up and save it on soundcheck.
+Polka Dot Disco Club invites La La ♡ Sub Club ‪‪♡ on Fri 25 Sept, Glasgow. 3 artists on the bill: Frankie Elyse, La La and Peeve. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

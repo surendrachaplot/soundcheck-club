@@ -1,6 +1,6 @@
 # Granville Collective - Leeds w/ Bobby at Eiger Studios
 
-Granville Collective - Leeds w/ Bobby at Eiger Studios on Sat 14 Nov, Leeds. 2 acts on the bill: Bobby. and LEN.. Electro and Minimal. Preview the line-up and save it on soundcheck.
+Granville Collective - Leeds w/ Bobby at Eiger Studios on Sat 14 Nov, Leeds. 2 artists on the bill: Bobby. and LEN.. Electro and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

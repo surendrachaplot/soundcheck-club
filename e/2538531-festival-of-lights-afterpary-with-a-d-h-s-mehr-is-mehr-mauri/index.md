@@ -1,6 +1,6 @@
 # Festival of Lights Afterpary with A.D.H.S, Mehr is Mehr, Maurice Mino, ZweiE, Manu Strasse at PKH Warehouse
 
-Festival of Lights Afterpary with A.D.H.S, Mehr is Mehr, Maurice Mino, ZweiE, Manu Strasse at PKH Warehouse on Thu 15 Oct, Berlin. 5 acts on the bill: A.D.H.S., Manu Strasse, Maurice Mino and Mehr is Mehr and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Festival of Lights Afterpary with A.D.H.S, Mehr is Mehr, Maurice Mino, ZweiE, Manu Strasse at PKH Warehouse on Thu 15 Oct, Berlin. 5 artists on the bill: A.D.H.S., Manu Strasse, Maurice Mino and Mehr is Mehr and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

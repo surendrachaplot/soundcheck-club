@@ -1,6 +1,6 @@
 # SWING pres. Hot Since 82 at Seaseaclub Barcelona
 
-SWING pres. Hot Since 82 at Seaseaclub Barcelona on Sun 11 Oct, Barcelona. 1 act on the bill: Hot Since 82. House and Tech House. Preview the line-up and save it on soundcheck.
+SWING pres. Hot Since 82 at Seaseaclub Barcelona on Sun 11 Oct, Barcelona. 1 artist on the bill: Hot Since 82. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

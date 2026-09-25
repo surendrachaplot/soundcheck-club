@@ -1,6 +1,6 @@
 # DELUXE. x underiolo FREE ENTRY at underiolo
 
-DELUXE. x underiolo FREE ENTRY on Thu 24 Sept, Warsaw. 3 acts on the bill: Andy Soul, BROTHER TIM and margas. House and Garage. Preview the line-up and save it on soundcheck.
+DELUXE. x underiolo FREE ENTRY on Thu 24 Sept, Warsaw. 3 artists on the bill: Andy Soul, BROTHER TIM and margas. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

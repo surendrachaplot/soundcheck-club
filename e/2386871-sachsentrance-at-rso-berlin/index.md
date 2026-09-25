@@ -1,6 +1,6 @@
 # Sachsentrance at RSO.BERLIN
 
-Sachsentrance at RSO.BERLIN on Fri 13 Nov, Berlin. 6 acts on the bill: Anna Ullrich, DJ GUESTLIST, RaverPik and Sabu! and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Sachsentrance at RSO.BERLIN on Fri 13 Nov, Berlin. 6 artists on the bill: Anna Ullrich, DJ GUESTLIST, RaverPik and Sabu! and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

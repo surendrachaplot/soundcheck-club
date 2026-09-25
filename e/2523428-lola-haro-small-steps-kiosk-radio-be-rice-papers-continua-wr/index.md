@@ -1,6 +1,6 @@
 # Lola Haro (Small Steps, Kiosk Radio /BE), Rice Papers (Continua, WRD /IT) hosted by Continua at Azimut Club
 
-Lola Haro (Small Steps, Kiosk Radio /BE), Rice Papers (Continua, WRD /IT) hosted by Continua at Azimut Club on Fri 18 Dec, Turin. 1 act on the bill: Lola Haro. Preview the line-up and save it on soundcheck.
+Lola Haro (Small Steps, Kiosk Radio /BE), Rice Papers (Continua, WRD /IT) hosted by Continua at Azimut Club on Fri 18 Dec, Turin. 1 artist on the bill: Lola Haro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

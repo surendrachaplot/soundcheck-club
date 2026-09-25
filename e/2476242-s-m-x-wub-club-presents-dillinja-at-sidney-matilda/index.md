@@ -1,6 +1,6 @@
 # S&M x Wub Club presents: Dillinja at Sidney & Matilda
 
-S&M x Wub Club presents: Dillinja at Sidney & Matilda on Fri 23 Oct, Sheffield. 2 acts on the bill: Charla Green and Dillinja. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+S&M x Wub Club presents: Dillinja at Sidney & Matilda on Fri 23 Oct, Sheffield. 2 artists on the bill: Charla Green and Dillinja. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

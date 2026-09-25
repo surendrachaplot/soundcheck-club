@@ -1,6 +1,6 @@
 # Tresor New Faces hosted by Scheißmukke at Tresor / Globus
 
-Tresor New Faces hosted by Scheißmukke at Tresor / Globus on Wed 28 Oct, Berlin. 1 act on the bill: Miss Italia. Techno. Preview the line-up and save it on soundcheck.
+Tresor New Faces hosted by Scheißmukke at Tresor / Globus on Wed 28 Oct, Berlin. 1 artist on the bill: Miss Italia. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Thunderpony's Saloon: JACK MARLOW at Floyd
 
-Thunderpony's Saloon: JACK MARLOW at Floyd on Fri 23 Oct, Miami. 3 acts on the bill: JACK MARLOW, Snooko and Thunderpony. House and Garage. Preview the line-up and save it on soundcheck.
+Thunderpony's Saloon: JACK MARLOW at Floyd on Fri 23 Oct, Miami. 3 artists on the bill: JACK MARLOW, Snooko and Thunderpony. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

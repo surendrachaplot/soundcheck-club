@@ -1,6 +1,6 @@
 # BECCA SORANA + Blonde Brunette - House music - Free Entry at Can Luis
 
-BECCA SORANA + Blonde Brunette - House music - Free Entry at Can Luis on Fri 25 Sept, Barcelona. 2 acts on the bill: BECCA SORANA and Blonde Brunette. House and Tech House. Preview the line-up and save it on soundcheck.
+BECCA SORANA + Blonde Brunette - House music - Free Entry at Can Luis on Fri 25 Sept, Barcelona. 2 artists on the bill: BECCA SORANA and Blonde Brunette. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ECZODIA X NO LABEL CDMX at TBA - CDMX
 
-ECZODIA X NO LABEL CDMX at TBA - CDMX on Sat 14 Nov, Mexicocity. 1 act on the bill: ECZODIA. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+ECZODIA X NO LABEL CDMX at TBA - CDMX on Sat 14 Nov, Mexico City. 1 artist on the bill: ECZODIA. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

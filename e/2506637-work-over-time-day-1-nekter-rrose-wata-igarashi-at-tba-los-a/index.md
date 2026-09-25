@@ -1,6 +1,6 @@
 # WORK OVER/TIME Day 1: NEKTER, Rrose, & Wata Igarashi at TBA - Los Angeles
 
-WORK OVER/TIME Day 1: NEKTER, Rrose, & Wata Igarashi at TBA - Los Angeles on Fri 25 Sept, Losangeles. 3 acts on the bill: NEKTER, Rrose and Wata Igarashi. Techno. Preview the line-up and save it on soundcheck.
+WORK OVER/TIME Day 1: NEKTER, Rrose, & Wata Igarashi at TBA - Los Angeles on Fri 25 Sept, Los Angeles. 3 artists on the bill: NEKTER, Rrose and Wata Igarashi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

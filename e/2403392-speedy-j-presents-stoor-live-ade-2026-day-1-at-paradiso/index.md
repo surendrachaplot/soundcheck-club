@@ -1,6 +1,6 @@
 # Speedy J presents STOOR Live - ADE 2026 (Day 1) at Paradiso
 
-Speedy J presents STOOR Live - ADE 2026 (Day 1) at Paradiso on Sat 24 Oct, Amsterdam. 5 acts on the bill: JakoJako, Lady Starlight, Rødhåd and Speedy J and 1 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Speedy J presents STOOR Live - ADE 2026 (Day 1) at Paradiso on Sat 24 Oct, Amsterdam. 5 artists on the bill: JakoJako, Lady Starlight, Rødhåd and Speedy J and 1 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

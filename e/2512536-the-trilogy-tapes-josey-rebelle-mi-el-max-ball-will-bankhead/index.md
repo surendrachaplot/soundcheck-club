@@ -1,6 +1,6 @@
 # The Trilogy Tapes: Josey Rebelle / mi-el / Max Ball / Will Bankhead at The White Hotel
 
-The Trilogy Tapes: Josey Rebelle / mi-el / Max Ball / Will Bankhead at The White Hotel on Fri 9 Oct, Manchester. 3 acts on the bill: Josey Rebelle, mi-el and Will Bankhead. Preview the line-up and save it on soundcheck.
+The Trilogy Tapes: Josey Rebelle / mi-el / Max Ball / Will Bankhead at The White Hotel on Fri 9 Oct, Manchester. 3 artists on the bill: Josey Rebelle, mi-el and Will Bankhead. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

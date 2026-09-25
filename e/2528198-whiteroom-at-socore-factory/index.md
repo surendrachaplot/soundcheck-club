@@ -1,6 +1,6 @@
 # WHITEROOM at Socore Factory
 
-WHITEROOM at Socore Factory on Fri 30 Oct, Osaka. 3 acts on the bill: ALUCA, SPOT (JPN) and Tosh (2). Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+WHITEROOM at Socore Factory on Fri 30 Oct, Osaka. 3 artists on the bill: ALUCA, SPOT (JPN) and Tosh. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MAS: 3rd Birthday with Or:la, Frank Haag[mcr debut], Bobby Scallop + Fenton Haslam at Soup
 
-MAS: 3rd Birthday with Or:la, Frank Haag[mcr debut], Bobby Scallop + Fenton Haslam at Soup on Fri 18 Dec, Manchester. 4 acts on the bill: Bobby Scallop, Fenton Haslam, Frank Haag and Or:la. Techno and Tech House. Preview the line-up and save it on soundcheck.
+MAS: 3rd Birthday with Or:la, Frank Haag[mcr debut], Bobby Scallop + Fenton Haslam at Soup on Fri 18 Dec, Manchester. 4 artists on the bill: Bobby Scallop, Fenton Haslam, Frank Haag and Or:la. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

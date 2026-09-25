@@ -1,6 +1,6 @@
 # GLOSS at Système
 
-GLOSS at Système on Fri 23 Oct, Montreal. 3 acts on the bill: DJ Primo, Frankie Teardrop and Syd Woz. Preview the line-up and save it on soundcheck.
+GLOSS at Système on Fri 23 Oct, Montreal. 3 artists on the bill: DJ Primo, Frankie Teardrop and Syd Woz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

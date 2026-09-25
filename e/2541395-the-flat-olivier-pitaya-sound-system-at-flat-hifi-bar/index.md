@@ -1,6 +1,6 @@
 # THE FLAT : Olivier (Pitaya Sound System) at Flat HiFi Bar
 
-THE FLAT : Olivier (Pitaya Sound System) at Flat HiFi Bar on Fri 25 Sept, Madrid. 1 act on the bill: Pitaya Soundsystem. Electronica. Preview the line-up and save it on soundcheck.
+THE FLAT : Olivier (Pitaya Sound System) at Flat HiFi Bar on Fri 25 Sept, Madrid. 1 artist on the bill: Pitaya Soundsystem. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

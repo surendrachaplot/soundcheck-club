@@ -1,6 +1,6 @@
 # Men (L-Men-T) at Moog Club
 
-Men (L-Men-T) at Moog Club on Wed 30 Sept, Barcelona. 1 act on the bill: DJ MEN. Techno. Preview the line-up and save it on soundcheck.
+Men (L-Men-T) at Moog Club on Wed 30 Sept, Barcelona. 1 artist on the bill: DJ MEN. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

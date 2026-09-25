@@ -1,6 +1,6 @@
 # Chris Luno - Sydney, Sunset Cruise (Public Holiday Eve) at Sydney Glass Island
 
-Chris Luno - Sydney, Sunset Cruise (Public Holiday Eve) at Sydney Glass Island on Sun 4 Oct, Sydney. 1 act on the bill: Chris Luno. House and Deep House. Preview the line-up and save it on soundcheck.
+Chris Luno - Sydney, Sunset Cruise (Public Holiday Eve) at Sydney Glass Island on Sun 4 Oct, Sydney. 1 artist on the bill: Chris Luno. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

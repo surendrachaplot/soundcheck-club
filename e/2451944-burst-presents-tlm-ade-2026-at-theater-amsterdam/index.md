@@ -1,6 +1,6 @@
 # BURST presents TLM - ADE 2026 at Theater Amsterdam
 
-BURST presents TLM - ADE 2026 at Theater Amsterdam on Fri 23 Oct, Amsterdam. 4 acts on the bill: Lucky Done Gone, Moody Mehran, Tjade and TLM (NL). Trance and House. Preview the line-up and save it on soundcheck.
+BURST presents TLM - ADE 2026 at Theater Amsterdam on Fri 23 Oct, Amsterdam. 4 artists on the bill: Lucky Done Gone, Moody Mehran, Tjade and TLM (NL). Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

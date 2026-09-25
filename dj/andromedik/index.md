@@ -1,13 +1,14 @@
 # Andromedik
 
-Andromedik is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Antwerp Expo, Antwerp on Fri, 30 Oct 2026.
+Andromedik is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Aladin Music Hall, Bremen on Fri, 2 Oct 2026.
 
-Andromedik is a drum & bass and bass artist based in Belgium, tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Brisbane and Brussels and 11 more. Often billed alongside Jacidorex, Ava Eva and BAVR. Next up: Antwerp Expo, Antwerp on Fri 30 Oct.
+Andromedik is a drum & bass and bass artist based in Belgium, tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Bremen and Brisbane and 12 more. Often billed alongside Jacidorex, A Little Sound and Ava Eva. Next up: Aladin Music Hall, Bremen on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Aladin Music Hall | Bremen |
 | Fri, 30 Oct 2026 | Antwerp Expo | Antwerp |
 | Sat, 5 Dec 2026 | The Nest | Nottingham |
 
@@ -24,6 +25,6 @@ Andromedik is a drum & bass and bass artist based in Belgium, tracked on soundch
 
 ## Shares bills with
 
-Jacidorex, Ava Eva, BAVR
+Jacidorex, A Little Sound, Ava Eva
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andromedik/)*

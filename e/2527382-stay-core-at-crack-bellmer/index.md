@@ -1,6 +1,6 @@
 # STAY CORE at Crack Bellmer
 
-STAY CORE at Crack Bellmer on Sat 3 Oct, Berlin. 4 acts on the bill: Ahni, Fukinsei, Marie Midori and Supergross. Bass and Tech House. Preview the line-up and save it on soundcheck.
+STAY CORE at Crack Bellmer on Sat 3 Oct, Berlin. 4 artists on the bill: Ahni, Fukinsei, Marie Midori and Supergross. Bass and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

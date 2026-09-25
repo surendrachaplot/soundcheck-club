@@ -1,6 +1,6 @@
 # Le Cannibale Triennale - JASSS, Valentina Magaletti at Voce - Triennale
 
-Le Cannibale Triennale - JASSS, Valentina Magaletti at Voce - Triennale on Sat 17 Oct, Milan. 2 acts on the bill: JASSS and Valentina Magaletti. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Le Cannibale Triennale - JASSS, Valentina Magaletti at Voce - Triennale on Sat 17 Oct, Milan. 2 artists on the bill: JASSS and Valentina Magaletti. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

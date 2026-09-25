@@ -2,7 +2,7 @@
 
 Dj Kerry is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
-Dj Kerry is a house and disco artist based in United States of America, tracked on soundcheck, with 47 sets logged across Losangeles, Newyorkcity, Osaka and Sanfrancisco and 1 more. Often billed alongside Stacy Christine, Heidi Lawden and Masha Mar. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Losangeles on Sat 14 Nov.
+Dj Kerry is a house and disco artist based in United States of America, tracked on soundcheck, with 47 sets logged across Los Angeles, New York City, Osaka and San Francisco/Oakland and 1 more. Often billed alongside Stacy Christine, Heidi Lawden and Masha Mar. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 

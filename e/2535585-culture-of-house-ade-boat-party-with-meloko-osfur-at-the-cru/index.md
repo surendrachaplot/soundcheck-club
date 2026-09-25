@@ -1,6 +1,6 @@
 # Culture of House | ADE Boat Party with Meloko, OSFUR at The Cruise Club
 
-Culture of House | ADE Boat Party with Meloko, OSFUR at The Cruise Club on Sat 24 Oct, Amsterdam. 5 acts on the bill: Fiction Official, LAMPETEE, Melokolektiv and OSFUR and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Culture of House | ADE Boat Party with Meloko, OSFUR at The Cruise Club on Sat 24 Oct, Amsterdam. 5 artists on the bill: Fiction Official, LAMPETEE, Melokolektiv and OSFUR and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DJ Krush 'TOKYØHUM' JAPAN TOUR 2026 in Kyoto at Club Metro
 
-DJ Krush 'TOKYØHUM' JAPAN TOUR 2026 in Kyoto at Club Metro on Sat 28 Nov, Kyoto. 1 act on the bill: DJ Krush. Hip-Hop. Preview the line-up and save it on soundcheck.
+DJ Krush 'TOKYØHUM' JAPAN TOUR 2026 in Kyoto at Club Metro on Sat 28 Nov, Kyoto. 1 artist on the bill: DJ Krush. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

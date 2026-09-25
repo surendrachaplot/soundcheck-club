@@ -1,6 +1,6 @@
 # VLCT ZERO x SIGNAL 12 HOURS w/ Function, Philippa Pacho, BLANKA at AUX Club
 
-VLCT ZERO x SIGNAL 12 HOURS w/ Function, Philippa Pacho, BLANKA at AUX Club on Tue 27 Oct, Athens. 7 acts on the bill: BLANKA, Cirkle, Danya (DE) and Function and 3 more. Techno. Preview the line-up and save it on soundcheck.
+VLCT ZERO x SIGNAL 12 HOURS w/ Function, Philippa Pacho, BLANKA at AUX Club on Tue 27 Oct, Athens. 7 artists on the bill: BLANKA, Cirkle, Danya (DE) and Function and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

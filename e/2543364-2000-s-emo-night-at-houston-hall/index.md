@@ -1,6 +1,6 @@
 # 2000's Emo Night at Houston Hall
 
-2000's Emo Night at Houston Hall on Fri 25 Sept, Newyorkcity. Pop and Club. Preview the line-up and save it on soundcheck.
+2000's Emo Night at Houston Hall on Fri 25 Sept, New York City. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

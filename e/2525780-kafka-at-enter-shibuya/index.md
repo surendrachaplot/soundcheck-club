@@ -1,6 +1,6 @@
 # KAFKA at Enter Shibuya
 
-KAFKA at Enter Shibuya on Thu 24 Sept, Tokyo. 2 acts on the bill: fýsia and uuu7. Techno. Preview the line-up and save it on soundcheck.
+KAFKA at Enter Shibuya on Thu 24 Sept, Tokyo. 2 artists on the bill: fýsia and uuu7. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

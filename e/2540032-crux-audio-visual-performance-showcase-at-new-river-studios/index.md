@@ -1,6 +1,6 @@
 # CRUX Audio-Visual Performance Showcase at New River Studios
 
-CRUX Audio-Visual Performance Showcase at New River Studios on Sun 11 Oct, London. 1 act on the bill: Alien Alarms. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+CRUX Audio-Visual Performance Showcase at New River Studios on Sun 11 Oct, London. 1 artist on the bill: Alien Alarms. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

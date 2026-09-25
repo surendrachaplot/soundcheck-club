@@ -1,6 +1,6 @@
 # Awakenings ADE - Adriatique All Night Long at Sugarfactory
 
-Awakenings ADE - Adriatique All Night Long at Sugarfactory on Sat 24 Oct, Amsterdam. 2 acts on the bill: Adriatique and Brina Knauss. Techno. Preview the line-up and save it on soundcheck.
+Awakenings ADE - Adriatique All Night Long at Sugarfactory on Sat 24 Oct, Amsterdam. 2 artists on the bill: Adriatique and Brina Knauss. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

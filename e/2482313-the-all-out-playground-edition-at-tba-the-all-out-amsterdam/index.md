@@ -1,6 +1,6 @@
 # The All Out - Playground Edition at TBA - The All Out, Amsterdam
 
-The All Out - Playground Edition at TBA - The All Out, Amsterdam on Sat 31 Oct, Amsterdam. 2 acts on the bill: Aries and Urban. Pop and R&B. Preview the line-up and save it on soundcheck.
+The All Out - Playground Edition at TBA - The All Out, Amsterdam on Sat 31 Oct, Amsterdam. 2 artists on the bill: Aries and Urban. Pop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

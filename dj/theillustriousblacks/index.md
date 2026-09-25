@@ -2,7 +2,7 @@
 
 The Illustrious Blacks is a House and Disco artist with 17 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Flea Theater, New York City on Fri, 25 Sept 2026.
 
-The Illustrious Blacks is a house and disco artist based in United States of America, tracked on soundcheck, with 79 sets logged across Berlin, Boston, Detroit and Hongkong and 13 more. Often billed alongside Boris, Gabrielle Kwarteng and Hercules & Love Affair. Next up: The Flea Theater, Newyorkcity on Fri 25 Sept.
+The Illustrious Blacks is a house and disco artist based in United States of America, tracked on soundcheck, with 79 sets logged across Berlin, Boston, Detroit and Hong Kong and 13 more. Often billed alongside Boris, Gabrielle Kwarteng and Hercules & Love Affair. Next up: The Flea Theater, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Techno is The Answe w. Hector Oaks [KAOS] (Vinyl Set) at Abyss Shanghai
 
-Techno is The Answe w. Hector Oaks [KAOS] (Vinyl Set) at Abyss Shanghai on Thu 24 Sept, Shanghai. 3 acts on the bill: GaoQiao, Héctor Oaks and WATARU. Preview the line-up and save it on soundcheck.
+Techno is The Answe w. Hector Oaks [KAOS] (Vinyl Set) at Abyss Shanghai on Thu 24 Sept, Shanghai. 3 artists on the bill: GaoQiao, Héctor Oaks and WATARU. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

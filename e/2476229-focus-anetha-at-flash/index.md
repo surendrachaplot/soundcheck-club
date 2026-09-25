@@ -1,6 +1,6 @@
 # FOCUS: Anetha at Flash
 
-FOCUS: Anetha at Flash on Thu 19 Nov, Washingtondc. 1 act on the bill: Anetha. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+FOCUS: Anetha at Flash on Thu 19 Nov, Washington DC. 1 artist on the bill: Anetha. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

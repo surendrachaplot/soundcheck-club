@@ -1,6 +1,6 @@
 # Oxygène // Marie Montexier - MCMXC at DURO
 
-Oxygène // Marie Montexier - MCMXC at DURO on Sat 26 Sept, Milan. 1 act on the bill: Marie Montexier. Techno. Preview the line-up and save it on soundcheck.
+Oxygène // Marie Montexier - MCMXC at DURO on Sat 26 Sept, Milan. 1 artist on the bill: Marie Montexier. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

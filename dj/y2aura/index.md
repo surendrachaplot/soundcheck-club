@@ -2,7 +2,7 @@
 
 y2aura is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location, New York City on Thu, 29 Oct 2026.
 
-y2aura is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 32 sets logged across Newyorkcity. Often billed alongside WADDLE, NIJEII and duco. Next up: TBA - Secret Location, Newyorkcity on Thu 29 Oct.
+y2aura is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 32 sets logged across New York City. Often billed alongside WADDLE, NIJEII and duco. Next up: TBA - Secret Location, New York City on Thu 29 Oct.
 
 ## Upcoming shows
 

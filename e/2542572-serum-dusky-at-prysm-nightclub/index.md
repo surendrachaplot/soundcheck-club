@@ -1,6 +1,6 @@
 # Serum: Dusky at Prysm Nightclub
 
-Serum: Dusky at Prysm Nightclub on Sat 10 Oct, Chicago. 1 act on the bill: Dusky. House. Preview the line-up and save it on soundcheck.
+Serum: Dusky at Prysm Nightclub on Sat 10 Oct, Chicago. 1 artist on the bill: Dusky. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

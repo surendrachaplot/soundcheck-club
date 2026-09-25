@@ -1,6 +1,6 @@
 # Tempio Radio Notturna: Sasa, Alfa Cornae, KAMA at Tempio del Futuro Perduto
 
-Tempio Radio Notturna: Sasa, Alfa Cornae, KAMA at Tempio del Futuro Perduto on Thu 22 Oct, Milan. 2 acts on the bill: Alfa Cornae and KAMA. Preview the line-up and save it on soundcheck.
+Tempio Radio Notturna: Sasa, Alfa Cornae, KAMA at Tempio del Futuro Perduto on Thu 22 Oct, Milan. 2 artists on the bill: Alfa Cornae and KAMA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

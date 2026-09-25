@@ -2,7 +2,7 @@
 
 Lukas Akata is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ono2, Frankfurt on Fri, 25 Sept 2026.
 
-Lukas Akata is an electro and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Frankfurt. Often billed alongside Q-Bit, STRESS (2) and Aquatic Reflector. Next up: Ono2, Frankfurt on Fri 25 Sept.
+Lukas Akata is an electro and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Frankfurt. Often billed alongside Q-Bit, STRESS and Aquatic Reflector. Next up: Ono2, Frankfurt on Fri 25 Sept.
 
 ## Upcoming shows
 

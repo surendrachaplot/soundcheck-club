@@ -1,6 +1,6 @@
 # SHEAR (TECHNO) at Z Maruyama
 
-SHEAR (TECHNO) at Z Maruyama on Sat 10 Oct, Tokyo. 4 acts on the bill: Kaori Watt, Nakadia, SENNY D and Shogo Ito. Techno. Preview the line-up and save it on soundcheck.
+SHEAR (TECHNO) at Z Maruyama on Sat 10 Oct, Tokyo. 4 artists on the bill: Kaori Watt, Nakadia, SENNY D and Shogo Ito. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

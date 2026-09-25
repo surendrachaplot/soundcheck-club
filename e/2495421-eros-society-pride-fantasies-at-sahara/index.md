@@ -1,6 +1,6 @@
 # Eros Society - Pride Fantasies at Sahara
 
-Eros Society - Pride Fantasies at Sahara on Fri 25 Sept, Rotterdam. 2 acts on the bill: Jordy Jordos and Spikey Lee. Techno. Preview the line-up and save it on soundcheck.
+Eros Society - Pride Fantasies at Sahara on Fri 25 Sept, Rotterdam. 2 artists on the bill: Jordy Jordos and Spikey Lee. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TIME HOLE -REALROCKDESIGN 30TH ANNIVERSARY- (TECHNO/HOUSE) at WOMB
 
-TIME HOLE -REALROCKDESIGN 30TH ANNIVERSARY- (TECHNO/HOUSE) at WOMB on Sat 10 Oct, Tokyo. 8 acts on the bill: Akie, CHIDA, DOTT and Kikiorix and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+TIME HOLE -REALROCKDESIGN 30TH ANNIVERSARY- (TECHNO/HOUSE) at WOMB on Sat 10 Oct, Tokyo. 8 artists on the bill: Akie, CHIDA, DOTT and Kikiorix and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

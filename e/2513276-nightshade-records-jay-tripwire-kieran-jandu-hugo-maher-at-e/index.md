@@ -1,6 +1,6 @@
 # Nightshade Records - Jay Tripwire / Kieran Jandu & Hugo Maher at Eastern Bloc Records
 
-Nightshade Records - Jay Tripwire / Kieran Jandu & Hugo Maher at Eastern Bloc Records on Fri 27 Nov, Manchester. 2 acts on the bill: Jay Tripwire and Kieran Jandu. Tech House and Dub Techno. Preview the line-up and save it on soundcheck.
+Nightshade Records - Jay Tripwire / Kieran Jandu & Hugo Maher at Eastern Bloc Records on Fri 27 Nov, Manchester. 2 artists on the bill: Jay Tripwire and Kieran Jandu. Tech House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

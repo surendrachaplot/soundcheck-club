@@ -1,6 +1,6 @@
 # Nikki Nair - World Renowned at Venue MOT at M.O.T
 
-Nikki Nair - World Renowned at Venue MOT at M.O.T on Sat 31 Oct, London. 1 act on the bill: Nikki Nair. Preview the line-up and save it on soundcheck.
+Nikki Nair - World Renowned at Venue MOT at M.O.T on Sat 31 Oct, London. 1 artist on the bill: Nikki Nair. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

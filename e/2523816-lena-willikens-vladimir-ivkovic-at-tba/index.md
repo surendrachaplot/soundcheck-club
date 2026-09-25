@@ -1,6 +1,6 @@
 # Lena Willikens & Vladimir Ivkovic at TBA
 
-Lena Willikens & Vladimir Ivkovic at TBA on Fri 16 Oct, Detroit. 2 acts on the bill: Lena Willikens and Vladimir Ivkovic. Preview the line-up and save it on soundcheck.
+Lena Willikens & Vladimir Ivkovic at TBA on Fri 16 Oct, Detroit. 2 artists on the bill: Lena Willikens and Vladimir Ivkovic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Com Truise at Kingdom Nightclub
 
-Com Truise at Kingdom Nightclub on Fri 13 Nov, Austin. 1 act on the bill: Com Truise. Electronica. Preview the line-up and save it on soundcheck.
+Com Truise at Kingdom Nightclub on Fri 13 Nov, Austin. 1 artist on the bill: Com Truise. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

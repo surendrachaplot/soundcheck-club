@@ -1,6 +1,6 @@
 # Reconnect with Schwesta P at Neue Welle
 
-Reconnect with Schwesta P at Neue Welle on Sat 7 Nov, Leipzig. 4 acts on the bill: adamoandiamo, gin (DE), LUNA.le and Schwesta P. Trance and House. Preview the line-up and save it on soundcheck.
+Reconnect with Schwesta P at Neue Welle on Sat 7 Nov, Leipzig. 4 artists on the bill: adamoandiamo, gin (DE), LUNA.le and Schwesta P. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

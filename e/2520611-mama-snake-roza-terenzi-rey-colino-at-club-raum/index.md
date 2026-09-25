@@ -1,6 +1,6 @@
 # Mama Snake, Roza Terenzi, Rey Colino at CLUB RAUM
 
-Mama Snake, Roza Terenzi, Rey Colino at CLUB RAUM on Sat 3 Oct, Amsterdam. 3 acts on the bill: Mama Snake, Rey Colino and Roza Terenzi. Preview the line-up and save it on soundcheck.
+Mama Snake, Roza Terenzi, Rey Colino at CLUB RAUM on Sat 3 Oct, Amsterdam. 3 artists on the bill: Mama Snake, Rey Colino and Roza Terenzi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

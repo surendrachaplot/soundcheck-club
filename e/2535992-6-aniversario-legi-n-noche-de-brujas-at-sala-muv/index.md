@@ -1,6 +1,6 @@
 # 6 Aniversario LEGIØN noche de brujas at Sala Muv
 
-6 Aniversario LEGIØN noche de brujas at Sala Muv on Fri 9 Oct, Madrid. 1 act on the bill: Francesco. Techno and Industrial. Preview the line-up and save it on soundcheck.
+6 Aniversario LEGIØN noche de brujas at Sala Muv on Fri 9 Oct, Madrid. 1 artist on the bill: Francesco. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

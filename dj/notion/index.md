@@ -2,7 +2,7 @@
 
 Notion is a Garage and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, New York City on Fri, 25 Sept 2026.
 
-Notion is a garage and house artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Oppidan, Conducta and Interplanetary Criminal. Next up: TBA, Newyorkcity on Fri 25 Sept.
+Notion is a garage and house artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Oppidan, Conducta and Interplanetary Criminal. Next up: TBA, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

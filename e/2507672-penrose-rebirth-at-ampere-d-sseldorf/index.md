@@ -1,6 +1,6 @@
 # penrose rebirth at Ampere Düsseldorf
 
-penrose rebirth at Ampere Düsseldorf on Sat 24 Oct, Dusseldorf. Trance and Techno. Preview the line-up and save it on soundcheck.
+penrose rebirth at Ampere Düsseldorf on Sat 24 Oct, Düsseldorf. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

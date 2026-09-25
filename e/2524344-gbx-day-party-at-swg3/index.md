@@ -1,6 +1,6 @@
 # GBX Day Party at SWG3
 
-GBX Day Party at SWG3 on Sat 7 Nov, Glasgow. 8 acts on the bill: George Bowie, Macca (2), MC Finchy and MC Stompin and 4 more. Trance. Preview the line-up and save it on soundcheck.
+GBX Day Party at SWG3 on Sat 7 Nov, Glasgow. 8 artists on the bill: George Bowie, Macca, MC Finchy and MC Stompin and 4 more. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

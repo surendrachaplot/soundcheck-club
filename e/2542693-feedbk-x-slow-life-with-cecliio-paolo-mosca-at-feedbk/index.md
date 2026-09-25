@@ -1,6 +1,6 @@
 # feedbk x slow life with Cecliio, Paolo Mosca at feedbk
 
-feedbk x slow life with Cecliio, Paolo Mosca on Sun 18 Oct, Newyorkcity. 2 acts on the bill: Cecilio and Paolo Mosca. Preview the line-up and save it on soundcheck.
+feedbk x slow life with Cecliio, Paolo Mosca on Sun 18 Oct, New York City. 2 artists on the bill: Cecilio and Paolo Mosca. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

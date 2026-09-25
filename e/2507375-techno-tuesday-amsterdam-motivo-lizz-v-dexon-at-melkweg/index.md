@@ -1,6 +1,6 @@
 # Techno Tuesday Amsterdam, Motivo, Lizz V, Dexon at Melkweg
 
-Techno Tuesday Amsterdam, Motivo, Lizz V, Dexon at Melkweg on Tue 29 Sept, Amsterdam. 3 acts on the bill: Dexon, Lizz V and MOTIVO MODERNO. Techno. Preview the line-up and save it on soundcheck.
+Techno Tuesday Amsterdam, Motivo, Lizz V, Dexon at Melkweg on Tue 29 Sept, Amsterdam. 3 artists on the bill: Dexon, Lizz V and MOTIVO MODERNO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

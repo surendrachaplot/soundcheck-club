@@ -1,6 +1,6 @@
 # BOO! Send in the Clowns at TRAUM
 
-BOO! Send in the Clowns at TRAUM on Sat 31 Oct, Antwerp. 4 acts on the bill: Dana Montana, JEKKAMAÏ, Kathleen C and Rostgoed. Preview the line-up and save it on soundcheck.
+BOO! Send in the Clowns at TRAUM on Sat 31 Oct, Antwerp. 4 artists on the bill: Dana Montana, JEKKAMAÏ, Kathleen C and Rostgoed. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

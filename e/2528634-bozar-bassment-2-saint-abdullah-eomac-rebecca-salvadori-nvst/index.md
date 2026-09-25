@@ -1,6 +1,6 @@
 # Bozar Bassment #2: Saint Abdullah, Eomac & Rebecca Salvadori - NVST & Mika Oki at Bozar
 
-Bozar Bassment #2: Saint Abdullah, Eomac & Rebecca Salvadori - NVST & Mika Oki on Thu 19 Nov, Brussels. 4 acts on the bill: Eomac, Mika Oki, NVST and Rebecca Salvadori (2). Electro and Experimental. Preview the line-up and save it on soundcheck.
+Bozar Bassment #2: Saint Abdullah, Eomac & Rebecca Salvadori - NVST & Mika Oki on Thu 19 Nov, Brussels. 4 artists on the bill: Eomac, Mika Oki, NVST and Rebecca Salvadori. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

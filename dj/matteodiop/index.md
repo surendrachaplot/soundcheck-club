@@ -2,7 +2,7 @@
 
 Matteo Diop is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Rex Club, Paris on Thu, 24 Sept 2026.
 
-Matteo Diop is a house and tech house artist based in France, tracked on soundcheck, with 26 sets logged across London, Munich, Naples and Newyorkcity and 1 more. Often billed alongside II FACES, Arthur Nozen and Parea (FR). Next up: Rex Club, Paris on Thu 24 Sept.
+Matteo Diop is a house and tech house artist based in France, tracked on soundcheck, with 26 sets logged across London, Munich, Naples and New York City and 1 more. Often billed alongside II FACES, Arthur Nozen and Parea (FR). Next up: Rex Club, Paris on Thu 24 Sept.
 
 ## Upcoming shows
 

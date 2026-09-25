@@ -1,6 +1,6 @@
 # Wololo Sound showcase: Johannes Schuster + Luxi Villar + Ruiso + Invitados at Spook Club
 
-Wololo Sound showcase: Johannes Schuster + Luxi Villar + Ruiso + Invitados at Spook Club on Sat 3 Oct, Valencia. 5 acts on the bill: Highrise, Johannes Schuster, Luxi Villar and Nahum Korm and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Wololo Sound showcase: Johannes Schuster + Luxi Villar + Ruiso + Invitados at Spook Club on Sat 3 Oct, Valencia. 5 artists on the bill: Highrise, Johannes Schuster, Luxi Villar and Nahum Korm and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

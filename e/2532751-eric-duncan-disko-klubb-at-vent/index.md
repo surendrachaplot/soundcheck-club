@@ -1,6 +1,6 @@
 # Eric Duncan / DISKO KLUBB at VENT
 
-Eric Duncan / DISKO KLUBB at VENT on Fri 23 Oct, Tokyo. 5 acts on the bill: Eric Duncan, HARUTO, Monkey Timers and Rami and 1 more. House. Preview the line-up and save it on soundcheck.
+Eric Duncan / DISKO KLUBB at VENT on Fri 23 Oct, Tokyo. 5 artists on the bill: Eric Duncan, HARUTO, Monkey Timers and Rami and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

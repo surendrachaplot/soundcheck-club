@@ -1,6 +1,6 @@
 # 1994 Orgasmico at The Classic Grand
 
-1994 Orgasmico at The Classic Grand on Sat 5 Dec, Glasgow. 1 act on the bill: Joe Deacon. Trance and Hardcore. Preview the line-up and save it on soundcheck.
+1994 Orgasmico at The Classic Grand on Sat 5 Dec, Glasgow. 1 artist on the bill: Joe Deacon. Trance and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

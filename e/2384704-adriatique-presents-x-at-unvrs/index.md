@@ -1,6 +1,6 @@
 # Adriatique presents X at [UNVRS]
 
-Adriatique presents X at [UNVRS] on Thu 24 Sept, Ibiza. 1 act on the bill: Adriatique. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Adriatique presents X at [UNVRS] on Thu 24 Sept, Ibiza. 1 artist on the bill: Adriatique. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

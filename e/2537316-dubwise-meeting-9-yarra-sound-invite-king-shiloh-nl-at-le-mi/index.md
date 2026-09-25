@@ -1,6 +1,6 @@
 # DUBWISE MEETING #9 - Yarra Sound invite King Shiloh (NL) at Le Ministère
 
-DUBWISE MEETING #9 - Yarra Sound invite King Shiloh (NL) at Le Ministère on Sat 17 Oct, Montreal. 2 acts on the bill: King Shiloh and Yarra Sound. Bass and Dub. Preview the line-up and save it on soundcheck.
+DUBWISE MEETING #9 - Yarra Sound invite King Shiloh (NL) at Le Ministère on Sat 17 Oct, Montreal. 2 artists on the bill: King Shiloh and Yarra Sound. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

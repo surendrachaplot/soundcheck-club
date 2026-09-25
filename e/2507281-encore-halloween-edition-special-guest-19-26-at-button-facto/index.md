@@ -1,6 +1,6 @@
 # ENCORE halloween edition - special guest 19:26 at Button Factory
 
-ENCORE halloween edition - special guest 19:26 at Button Factory on Fri 30 Oct, Dublin. 1 act on the bill: 19:26. Electro. Preview the line-up and save it on soundcheck.
+ENCORE halloween edition - special guest 19:26 at Button Factory on Fri 30 Oct, Dublin. 1 artist on the bill: 19:26. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Oliver Heldens - PM Open Air, Oasis Costanera - ALLMusicParties at TBA - Oasis, Costanera
 
-Oliver Heldens - PM Open Air, Oasis Costanera - ALLMusicParties at TBA - Oasis, Costanera on Fri 30 Oct, Buenosaires. 1 act on the bill: Oliver Heldens. House and Deep House. Preview the line-up and save it on soundcheck.
+Oliver Heldens - PM Open Air, Oasis Costanera - ALLMusicParties at TBA - Oasis, Costanera on Fri 30 Oct, Buenos Aires. 1 artist on the bill: Oliver Heldens. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

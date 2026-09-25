@@ -2,7 +2,7 @@
 
 Goth-Trad is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at clubasia, Tokyo on Sat, 26 Sept 2026.
 
-Goth-Trad is a dubstep and bass artist based in Japan, tracked on soundcheck, with 86 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside HELKTRAM, CITY1 and EVE (1). Next up: clubasia, Tokyo on Sat 26 Sept.
+Goth-Trad is a dubstep and bass artist based in Japan, tracked on soundcheck, with 86 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside HELKTRAM, CITY1 and EVE. Next up: clubasia, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # NOUGHTIES - A queer multi-genre party FREE at Two Tribes CAMPFIRE
 
-NOUGHTIES - A queer multi-genre party FREE at Two Tribes CAMPFIRE on Fri 16 Oct, London. 1 act on the bill: Glitch (LDN). House and Garage. Preview the line-up and save it on soundcheck.
+NOUGHTIES - A queer multi-genre party FREE at Two Tribes CAMPFIRE on Fri 16 Oct, London. 1 artist on the bill: Glitch (LDN). House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

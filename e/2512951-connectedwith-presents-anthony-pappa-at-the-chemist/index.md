@@ -1,6 +1,6 @@
 # CONNECTEDwith presents Anthony Pappa at The Chemist
 
-CONNECTEDwith presents Anthony Pappa at The Chemist on Sat 26 Sept, Boston. 2 acts on the bill: Anthony Pappa and Brian Gravel. Progressive House and House. Preview the line-up and save it on soundcheck.
+CONNECTEDwith presents Anthony Pappa at The Chemist on Sat 26 Sept, Boston. 2 artists on the bill: Anthony Pappa and Brian Gravel. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

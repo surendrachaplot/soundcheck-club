@@ -2,7 +2,7 @@
 
 Franky Boissy is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Midway, San Francisco/Oakland on Sun, 11 Oct 2026.
 
-Franky Boissy is a house and disco artist based in United States of America, tracked on soundcheck, with 16 sets logged across Sanfrancisco. Often billed alongside Julius Papp, Miguel Migs and Mr. V. Next up: The Midway, Sanfrancisco on Sun 11 Oct.
+Franky Boissy is a house and disco artist based in United States of America, tracked on soundcheck, with 16 sets logged across San Francisco/Oakland. Often billed alongside Julius Papp, Miguel Migs and Mr. V. Next up: The Midway, San Francisco/Oakland on Sun 11 Oct.
 
 ## Upcoming shows
 

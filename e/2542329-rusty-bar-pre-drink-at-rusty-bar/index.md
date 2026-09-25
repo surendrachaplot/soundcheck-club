@@ -1,6 +1,6 @@
 # Rusty Bar: Pre-Drink at Rusty Bar
 
-Rusty Bar: Pre-Drink on Fri 25 Sept, Malta. 1 act on the bill: Praag. House. Preview the line-up and save it on soundcheck.
+Rusty Bar: Pre-Drink on Fri 25 Sept, Malta. 1 artist on the bill: Praag. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

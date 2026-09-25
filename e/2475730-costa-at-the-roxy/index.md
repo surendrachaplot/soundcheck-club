@@ -1,6 +1,6 @@
 # Costa at The Roxy
 
-Costa at The Roxy on Fri 25 Sept, Losangeles. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Costa at The Roxy on Fri 25 Sept, Los Angeles. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

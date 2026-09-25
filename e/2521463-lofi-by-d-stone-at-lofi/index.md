@@ -1,6 +1,6 @@
 # Lofi by D Stone at Lofi
 
-Lofi by D Stone on Fri 9 Oct, Amsterdam. 4 acts on the bill: D Stone, ESTRELLA, La La and Tsepo. Preview the line-up and save it on soundcheck.
+Lofi by D Stone on Fri 9 Oct, Amsterdam. 4 artists on the bill: D Stone, ESTRELLA, La La and Tsepo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

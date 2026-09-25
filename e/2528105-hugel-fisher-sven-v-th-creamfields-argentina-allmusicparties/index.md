@@ -1,6 +1,6 @@
 # Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties at TBA - Parque de la Ciudad, CABA
 
-Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties at TBA - Parque de la Ciudad, CABA on Sat 14 Nov, Buenosaires. 26 acts on the bill: Âme, Ana Hagen, Anfisa Letyago and Charlotte de Witte and 22 more. Techno and House. Preview the line-up and save it on soundcheck.
+Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties at TBA - Parque de la Ciudad, CABA on Sat 14 Nov, Buenos Aires. 26 artists on the bill: Âme, Ana Hagen, Anfisa Letyago and Charlotte de Witte and 22 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

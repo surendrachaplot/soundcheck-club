@@ -1,6 +1,6 @@
 # BEAUZ at BERHTA
 
-BEAUZ at BERHTA on Fri 20 Nov, Washingtondc. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+BEAUZ at BERHTA on Fri 20 Nov, Washington DC. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

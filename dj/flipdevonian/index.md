@@ -2,7 +2,7 @@
 
 Flip Devonian is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fabrica Abandonada, Sao Paulo on Sat, 26 Sept 2026.
 
-Flip Devonian is a techno and acid artist based in Brazil, tracked on soundcheck, with 17 sets logged across Buenosaires and Saopaulo. Often billed alongside Kharsek, Anders (BR) and Fracta. Next up: Fabrica Abandonada, Saopaulo on Sat 26 Sept.
+Flip Devonian is a techno and acid artist based in Brazil, tracked on soundcheck, with 17 sets logged across Buenos Aires and Sao Paulo. Often billed alongside Kharsek, Anders (BR) and Fracta. Next up: Fabrica Abandonada, Sao Paulo on Sat 26 Sept.
 
 ## Upcoming shows
 

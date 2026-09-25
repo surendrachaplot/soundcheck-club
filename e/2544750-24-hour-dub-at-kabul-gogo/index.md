@@ -1,6 +1,6 @@
 # 24 HOUR DUB at KABUL à GoGo
 
-24 HOUR DUB at KABUL à GoGo on Sat 7 Nov, Utrecht. 12 acts on the bill: Aba Shanti-I, Azu Tiwaline, CARISTA and Chinnamasta and 8 more. Preview the line-up and save it on soundcheck.
+24 HOUR DUB at KABUL à GoGo on Sat 7 Nov, Utrecht. 12 artists on the bill: Aba Shanti-I, Azu Tiwaline, CARISTA and Chinnamasta and 8 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

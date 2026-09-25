@@ -2,7 +2,7 @@
 
 Nelson Reis is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Quarters, Brighton on Sat, 17 Oct 2026.
 
-Nelson Reis is a tech house and house artist based in Portugal, tracked on soundcheck, with 30 sets logged across Brighton, Brussels and Ibiza. Often billed alongside Em i6, Priestland (2) and Ivan Pica. Next up: Quarters, Brighton on Sat 17 Oct.
+Nelson Reis is a tech house and house artist based in Portugal, tracked on soundcheck, with 30 sets logged across Brighton, Brussels and Ibiza. Often billed alongside Em i6, Priestland and Ivan Pica. Next up: Quarters, Brighton on Sat 17 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Staygold presents: Skins & Prints at Beate Uwe
 
-Staygold presents: Skins & Prints at Beate Uwe on Fri 30 Oct, Berlin. 6 acts on the bill: ALXJ, Hyperbole, Jack Clark and Mambi Dexter and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Staygold presents: Skins & Prints at Beate Uwe on Fri 30 Oct, Berlin. 6 artists on the bill: ALXJ, Hyperbole, Jack Clark and Mambi Dexter and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

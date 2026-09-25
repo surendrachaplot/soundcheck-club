@@ -1,6 +1,6 @@
 # Township Rebellion - Extended Set at Kesselhaus
 
-Township Rebellion - Extended Set at Kesselhaus on Sat 21 Nov, Berlin. 1 act on the bill: Township Rebellion. Techno. Preview the line-up and save it on soundcheck.
+Township Rebellion - Extended Set at Kesselhaus on Sat 21 Nov, Berlin. 1 artist on the bill: Township Rebellion. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

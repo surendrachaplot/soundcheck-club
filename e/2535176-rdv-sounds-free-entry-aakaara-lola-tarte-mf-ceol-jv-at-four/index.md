@@ -1,6 +1,6 @@
 # RDV Sounds - FREE ENTRY - AAKAARA, LOLA TARTE, MF CEOL, JV at Four Quarters
 
-RDV Sounds - FREE ENTRY - AAKAARA, LOLA TARTE, MF CEOL, JV at Four Quarters on Sat 10 Oct, London. 2 acts on the bill: AAKAARA and JV (5). Techno and Jungle. Preview the line-up and save it on soundcheck.
+RDV Sounds - FREE ENTRY - AAKAARA, LOLA TARTE, MF CEOL, JV at Four Quarters on Sat 10 Oct, London. 2 artists on the bill: AAKAARA and JV. Techno and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

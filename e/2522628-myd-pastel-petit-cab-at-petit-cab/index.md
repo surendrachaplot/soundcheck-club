@@ -1,6 +1,6 @@
 # Myd + Pastel @ Petit Cab at Petit CAB
 
-Myd + Pastel @ Petit Cab at Petit CAB on Fri 16 Oct, Marseille. 2 acts on the bill: Myd and Pastel. House. Preview the line-up and save it on soundcheck.
+Myd + Pastel @ Petit Cab at Petit CAB on Fri 16 Oct, Marseille. 2 artists on the bill: Myd and Pastel. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

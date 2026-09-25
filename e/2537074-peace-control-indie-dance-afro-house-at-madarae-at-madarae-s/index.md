@@ -1,6 +1,6 @@
 # Peace Control (Indie Dance & Afro House) at MadaRae at Madarae San Francisco
 
-Peace Control (Indie Dance & Afro House) at MadaRae at Madarae San Francisco on Sat 26 Sept, Sanfrancisco. 1 act on the bill: Peace Control. Preview the line-up and save it on soundcheck.
+Peace Control (Indie Dance & Afro House) at MadaRae at Madarae San Francisco on Sat 26 Sept, San Francisco/Oakland. 1 artist on the bill: Peace Control. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

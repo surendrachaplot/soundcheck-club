@@ -1,6 +1,6 @@
 # Expert Death 13: Gaetano Parisio, Tasha, Ilya-Gurin Babayeu + drysu at Ormside Projects
 
-Expert Death 13: Gaetano Parisio, Tasha, Ilya-Gurin Babayeu + drysu at Ormside Projects on Fri 6 Nov, London. 4 acts on the bill: drysu, Gaetano Parisio, Ilya Gurin-Babayeu and Tasha. Techno and Bass. Preview the line-up and save it on soundcheck.
+Expert Death 13: Gaetano Parisio, Tasha, Ilya-Gurin Babayeu + drysu at Ormside Projects on Fri 6 Nov, London. 4 artists on the bill: drysu, Gaetano Parisio, Ilya Gurin-Babayeu and Tasha. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

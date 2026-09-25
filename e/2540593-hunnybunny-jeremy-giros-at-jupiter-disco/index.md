@@ -1,6 +1,6 @@
 # HunnyBunny + Jeremy Giros at Jupiter Disco
 
-HunnyBunny + Jeremy Giros at Jupiter Disco on Sat 17 Oct, Newyorkcity. 2 acts on the bill: HunnyBunny and Jeremy Giros. Preview the line-up and save it on soundcheck.
+HunnyBunny + Jeremy Giros at Jupiter Disco on Sat 17 Oct, New York City. 2 artists on the bill: HunnyBunny and Jeremy Giros. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

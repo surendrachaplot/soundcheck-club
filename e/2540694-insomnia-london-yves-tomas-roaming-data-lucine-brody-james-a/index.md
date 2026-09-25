@@ -1,6 +1,6 @@
 # Insomnia London: Yves Tomas, Roaming Data, Lucine, Brody James at Phonox
 
-Insomnia London: Yves Tomas, Roaming Data, Lucine, Brody James at Phonox on Thu 29 Oct, London. 4 acts on the bill: Brody James, Lucine, Roaming Data and Yves Tomas. House and Bass. Preview the line-up and save it on soundcheck.
+Insomnia London: Yves Tomas, Roaming Data, Lucine, Brody James at Phonox on Thu 29 Oct, London. 4 artists on the bill: Brody James, Lucine, Roaming Data and Yves Tomas. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

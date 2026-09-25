@@ -1,6 +1,6 @@
 # No Sundays Without Techno at John Doe
 
-No Sundays Without Techno at John Doe on Sun 27 Sept, Amsterdam. 1 act on the bill: Alex Sharp. Techno. Preview the line-up and save it on soundcheck.
+No Sundays Without Techno at John Doe on Sun 27 Sept, Amsterdam. 1 artist on the bill: Alex Sharp. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

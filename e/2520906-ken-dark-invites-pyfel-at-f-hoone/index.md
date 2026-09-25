@@ -1,6 +1,6 @@
 # Ken Dark Invites PYFEL at F-hoone
 
-Ken Dark Invites PYFEL at F-hoone on Fri 25 Sept, Tallinn. 1 act on the bill: Ken Dark. Preview the line-up and save it on soundcheck.
+Ken Dark Invites PYFEL at F-hoone on Fri 25 Sept, Tallinn. 1 artist on the bill: Ken Dark. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

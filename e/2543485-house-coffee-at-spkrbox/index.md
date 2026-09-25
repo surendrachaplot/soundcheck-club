@@ -1,6 +1,6 @@
 # House Coffee at Spkrbox
 
-House Coffee at Spkrbox on Sat 26 Sept, Detroit. 2 acts on the bill: Curmudgeon and Jorissen. Techno and House. Preview the line-up and save it on soundcheck.
+House Coffee at Spkrbox on Sat 26 Sept, Detroit. 2 artists on the bill: Curmudgeon and Jorissen. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

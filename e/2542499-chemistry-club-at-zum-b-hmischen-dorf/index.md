@@ -1,6 +1,6 @@
 # Chemistry Club at Zum Böhmischen Dorf
 
-Chemistry Club at Zum Böhmischen Dorf on Fri 2 Oct, Berlin. 3 acts on the bill: Adam Winchester, bad_dubs and Wedge. Dub and Club. Preview the line-up and save it on soundcheck.
+Chemistry Club at Zum Böhmischen Dorf on Fri 2 Oct, Berlin. 3 artists on the bill: Adam Winchester, bad_dubs and Wedge. Dub and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

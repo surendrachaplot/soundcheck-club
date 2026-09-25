@@ -1,6 +1,6 @@
 # Platz fur Tanz x Teritorija: Marco Ramos (NL) at Teritorija
 
-Platz fur Tanz x Teritorija: Marco Ramos (NL) on Fri 18 Dec, Riga. 2 acts on the bill: Ksenia Kamikaza and Marco Ramos. Techno and House. Preview the line-up and save it on soundcheck.
+Platz fur Tanz x Teritorija: Marco Ramos (NL) on Fri 18 Dec, Riga. 2 artists on the bill: Ksenia Kamikaza and Marco Ramos. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

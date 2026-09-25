@@ -1,6 +1,6 @@
 # WHATEVER DAY TO NIGHT RAVE at TBA
 
-WHATEVER DAY TO NIGHT RAVE at TBA on Sun 27 Sept, Losangeles. 5 acts on the bill: Heidi Lawden, KNOXDOTMP3, Rob Aquino and Star Amerasu and 1 more. Tech House and Acid. Preview the line-up and save it on soundcheck.
+WHATEVER DAY TO NIGHT RAVE at TBA on Sun 27 Sept, Los Angeles. 5 artists on the bill: Heidi Lawden, KNOXDOTMP3, Rob Aquino and Star Amerasu and 1 more. Tech House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

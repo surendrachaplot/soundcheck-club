@@ -1,6 +1,6 @@
 # 今夜もランデヴー 9th Anniversary at Socore Factory
 
-今夜もランデヴー 9th Anniversary at Socore Factory on Sat 26 Sept, Osaka. 2 acts on the bill: Koma (1) and Marie (2). Latin Bass. Preview the line-up and save it on soundcheck.
+今夜もランデヴー 9th Anniversary at Socore Factory on Sat 26 Sept, Osaka. 2 artists on the bill: Koma and Marie. Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

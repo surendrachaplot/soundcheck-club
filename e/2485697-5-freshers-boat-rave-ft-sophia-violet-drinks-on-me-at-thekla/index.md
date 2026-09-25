@@ -1,6 +1,6 @@
 # £5 Freshers Boat Rave ft Sophia Violet & Drinks On Me at Thekla
 
-£5 Freshers Boat Rave ft Sophia Violet & Drinks On Me at Thekla on Fri 25 Sept, Bristol. 2 acts on the bill: Drinks On Me and Sophia Violet. Garage. Preview the line-up and save it on soundcheck.
+£5 Freshers Boat Rave ft Sophia Violet & Drinks On Me at Thekla on Fri 25 Sept, Bristol. 2 artists on the bill: Drinks On Me and Sophia Violet. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Loft: Jamie Fielding (All Night Long) at The Loft
 
-The Loft: Jamie Fielding (All Night Long) on Thu 19 Nov, Manchester. 1 act on the bill: Jamie Fielding. Preview the line-up and save it on soundcheck.
+The Loft: Jamie Fielding (All Night Long) on Thu 19 Nov, Manchester. 1 artist on the bill: Jamie Fielding. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

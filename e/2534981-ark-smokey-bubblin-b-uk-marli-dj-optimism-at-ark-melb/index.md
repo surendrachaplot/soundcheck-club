@@ -1,6 +1,6 @@
 # ark // Smokey Bubblin' B [UK] - Marli - DJ Optimism at ark (Melb)
 
-ark // Smokey Bubblin' B [UK] - Marli - DJ Optimism at ark (Melb) on Sat 5 Dec, Melbourne. 3 acts on the bill: DJ Optimism, Marli and Smokey Bubblin' B. House and Garage. Preview the line-up and save it on soundcheck.
+ark // Smokey Bubblin' B [UK] - Marli - DJ Optimism at ark (Melb) on Sat 5 Dec, Melbourne. 3 artists on the bill: DJ Optimism, Marli and Smokey Bubblin' B. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

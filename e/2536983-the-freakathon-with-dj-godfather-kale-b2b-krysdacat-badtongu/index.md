@@ -1,6 +1,6 @@
 # The Freakathon with DJ Godfather, Kale b2b Krysdacat, badtongUe, & Kieran Ishimaru at 3oz Dive Club
 
-The Freakathon with DJ Godfather, Kale b2b Krysdacat, badtongUe, & Kieran Ishimaru at 3oz Dive Club on Sat 3 Oct, Sandiego. 4 acts on the bill: badtongUe, DJ Godfather, Kale and KrysDaCat (2). Electro and Ghetto Tech. Preview the line-up and save it on soundcheck.
+The Freakathon with DJ Godfather, Kale b2b Krysdacat, badtongUe, & Kieran Ishimaru at 3oz Dive Club on Sat 3 Oct, San Diego. 4 artists on the bill: badtongUe, DJ Godfather, Kale and KrysDaCat. Electro and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

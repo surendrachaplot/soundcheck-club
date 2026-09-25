@@ -2,7 +2,7 @@
 
 Touch Base is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Honey's, New York City on Fri, 9 Oct 2026.
 
-Touch Base is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Manchester, Newyorkcity and Tokyo. Often billed alongside ceviché, Choo Choo and SHRAY. Next up: Honey's, Newyorkcity on Fri 9 Oct.
+Touch Base is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Manchester, New York City and Tokyo. Often billed alongside ceviché, Choo Choo and SHRAY. Next up: Honey's, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 

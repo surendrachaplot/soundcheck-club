@@ -1,6 +1,6 @@
 # The Loft: Isaac Carter at The Loft
 
-The Loft: Isaac Carter on Thu 29 Oct, Manchester. 2 acts on the bill: Isaac Carter and LILI. Preview the line-up and save it on soundcheck.
+The Loft: Isaac Carter on Thu 29 Oct, Manchester. 2 artists on the bill: Isaac Carter and LILI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

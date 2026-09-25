@@ -1,6 +1,6 @@
 # sinuous sound at Honey's
 
-sinuous sound at Honey's on Thu 1 Oct, Newyorkcity. 3 acts on the bill: Preacher's Daughter, PUFF and senoritajuicy. Techno and Club. Preview the line-up and save it on soundcheck.
+sinuous sound at Honey's on Thu 1 Oct, New York City. 3 artists on the bill: Preacher's Daughter, PUFF and senoritajuicy. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BACK TO THE HITS ROOFTOP PARTY at Hotel Negresco Princess
 
-BACK TO THE HITS ROOFTOP PARTY at Hotel Negresco Princess on Wed 30 Sept, Barcelona. 1 act on the bill: Helen Me Lia. Disco. Preview the line-up and save it on soundcheck.
+BACK TO THE HITS ROOFTOP PARTY at Hotel Negresco Princess on Wed 30 Sept, Barcelona. 1 artist on the bill: Helen Me Lia. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

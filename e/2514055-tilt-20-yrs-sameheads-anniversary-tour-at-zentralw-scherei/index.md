@@ -1,6 +1,6 @@
 # TILT / 20 YRS SAMEHEADS ANNIVERSARY TOUR at Zentralwäscherei
 
-TILT / 20 YRS SAMEHEADS ANNIVERSARY TOUR at Zentralwäscherei on Sat 26 Sept, Zurich. 3 acts on the bill: Elena Colombi, Fantastic Twins and OG Juan. Club and Electronica. Preview the line-up and save it on soundcheck.
+TILT / 20 YRS SAMEHEADS ANNIVERSARY TOUR at Zentralwäscherei on Sat 26 Sept, Zurich. 3 artists on the bill: Elena Colombi, Fantastic Twins and OG Juan. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BRVJ presents LUNAR PALACE / 月下宫殿 at Cakeshop
 
-BRVJ presents LUNAR PALACE / 月下宫殿 at Cakeshop on Fri 2 Oct, Seoul. 2 acts on the bill: Excultist and HYUNHXEE. Acid and Club. Preview the line-up and save it on soundcheck.
+BRVJ presents LUNAR PALACE / 月下宫殿 at Cakeshop on Fri 2 Oct, Seoul. 2 artists on the bill: Excultist and HYUNHXEE. Acid and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ROTE8 Warehouse: Phil Berg / Kr!z at TBA
 
-ROTE8 Warehouse: Phil Berg / Kr!z at TBA on Sat 3 Oct, Toronto. 4 acts on the bill: Darkova, Kr!z, Lee Osborne and Phil Berg. Techno and Electronica. Preview the line-up and save it on soundcheck.
+ROTE8 Warehouse: Phil Berg / Kr!z at TBA on Sat 3 Oct, Toronto. 4 artists on the bill: Darkova, Kr!z, Lee Osborne and Phil Berg. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

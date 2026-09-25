@@ -1,6 +1,6 @@
 # KLAM OPEN AIR at PARCO ALFA ROMEO - #MFW2026 at Parco Industria Alfa Romeo
 
-KLAM OPEN AIR at PARCO ALFA ROMEO - #MFW2026 at Parco Industria Alfa Romeo on Sat 26 Sept, Milan. 2 acts on the bill: Dan Fresco and Dr.Cape. House and Tech House. Preview the line-up and save it on soundcheck.
+KLAM OPEN AIR at PARCO ALFA ROMEO - #MFW2026 at Parco Industria Alfa Romeo on Sat 26 Sept, Milan. 2 artists on the bill: Dan Fresco and Dr.Cape. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

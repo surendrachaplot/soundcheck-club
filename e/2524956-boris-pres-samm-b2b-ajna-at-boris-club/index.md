@@ -1,6 +1,6 @@
 # Boris pres. SAMM B2B AJNA at BORIS CLUB
 
-Boris pres. SAMM B2B AJNA at BORIS CLUB on Sat 3 Oct, Barcelona. 3 acts on the bill: AJNA, HeAndMe and Samm (BE). House and Deep House. Preview the line-up and save it on soundcheck.
+Boris pres. SAMM B2B AJNA at BORIS CLUB on Sat 3 Oct, Barcelona. 3 artists on the bill: AJNA, HeAndMe and Samm (BE). House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

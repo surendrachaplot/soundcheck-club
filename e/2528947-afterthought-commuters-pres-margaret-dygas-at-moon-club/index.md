@@ -1,6 +1,6 @@
 # Afterthought & commuters Pres. Margaret Dygas at Moon Club
 
-Afterthought & commuters Pres. Margaret Dygas at Moon Club on Sat 3 Oct, Bristol. 4 acts on the bill: Jake Moree, Josh Clark, Margaret Dygas and rasel h. Electronica and Minimal Techno. Preview the line-up and save it on soundcheck.
+Afterthought & commuters Pres. Margaret Dygas at Moon Club on Sat 3 Oct, Bristol. 4 artists on the bill: Jake Moree, Josh Clark, Margaret Dygas and rasel h. Electronica and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

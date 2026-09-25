@@ -1,6 +1,6 @@
 # Pablo Bozzi + Cuba - Switch PORTO at Switch
 
-Pablo Bozzi + Cuba - Switch PORTO on Fri 25 Sept, Porto. 2 acts on the bill: Cuba (PT) and Pablo Bozzi. Preview the line-up and save it on soundcheck.
+Pablo Bozzi + Cuba - Switch PORTO on Fri 25 Sept, Porto. 2 artists on the bill: Cuba (PT) and Pablo Bozzi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

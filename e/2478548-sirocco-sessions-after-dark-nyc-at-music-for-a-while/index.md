@@ -1,6 +1,6 @@
 # Sirocco Sessions: After Dark NYC at Music For A While
 
-Sirocco Sessions: After Dark NYC at Music For A While on Fri 25 Sept, Newyorkcity. 2 acts on the bill: Kice and Violin Girl. House. Preview the line-up and save it on soundcheck.
+Sirocco Sessions: After Dark NYC at Music For A While on Fri 25 Sept, New York City. 2 artists on the bill: Kice and Violin Girl. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

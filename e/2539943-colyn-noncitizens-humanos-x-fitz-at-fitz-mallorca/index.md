@@ -1,6 +1,6 @@
 # Colyn & Noncitizens - HUMANOS x FITZ at Fitz Mallorca
 
-Colyn & Noncitizens - HUMANOS x FITZ at Fitz Mallorca on Sat 26 Sept, Mallorca. 2 acts on the bill: Colyn and Noncitizens. Preview the line-up and save it on soundcheck.
+Colyn & Noncitizens - HUMANOS x FITZ at Fitz Mallorca on Sat 26 Sept, Mallorca. 2 artists on the bill: Colyn and Noncitizens. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

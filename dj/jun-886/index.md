@@ -2,7 +2,7 @@
 
 Jun (+886) is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at VENT, Tokyo on Sat, 31 Oct 2026.
 
-Jun (+886) is a techno and hip-hop artist based in Taiwan, tracked on soundcheck, with 22 sets logged across Newyorkcity, Osaka and Tokyo. Often billed alongside Drunken Kong, Ken Ishii and LiaRako. Next up: VENT, Tokyo on Sat 31 Oct.
+Jun (+886) is a techno and hip-hop artist based in Taiwan, tracked on soundcheck, with 22 sets logged across New York City, Osaka and Tokyo. Often billed alongside Drunken Kong, Ken Ishii and LiaRako. Next up: VENT, Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 

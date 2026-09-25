@@ -1,6 +1,6 @@
 # Harbourlife 2026 at Fleet Steps - Mrs Macquaries Point
 
-Harbourlife 2026 at Fleet Steps - Mrs Macquaries Point on Sat 21 Nov, Sydney. 10 acts on the bill: Bella Backe, Ben Sterling, Honey Dijon and HoneyLuv and 6 more. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Harbourlife 2026 at Fleet Steps - Mrs Macquaries Point on Sat 21 Nov, Sydney. 10 artists on the bill: Bella Backe, Ben Sterling, Honey Dijon and HoneyLuv and 6 more. Drum & Bass and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

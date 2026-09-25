@@ -1,6 +1,6 @@
 # RX Fridaze: Patrick Mason at Flux
 
-RX Fridaze: Patrick Mason at Flux on Fri 27 Nov, Istanbul. 1 act on the bill: Patrick Mason. Techno. Preview the line-up and save it on soundcheck.
+RX Fridaze: Patrick Mason at Flux on Fri 27 Nov, Istanbul. 1 artist on the bill: Patrick Mason. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

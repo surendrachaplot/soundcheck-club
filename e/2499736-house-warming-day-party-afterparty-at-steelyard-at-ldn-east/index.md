@@ -1,6 +1,6 @@
 # House Warming Day Party (afterparty at Steelyard) at LDN East
 
-House Warming Day Party (afterparty at Steelyard) at LDN East on Sat 24 Oct, London. 9 acts on the bill: Beezo, Golden Lady, Jerome Six and kismet and 5 more. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+House Warming Day Party (afterparty at Steelyard) at LDN East on Sat 24 Oct, London. 9 artists on the bill: Beezo, Golden Lady, Jerome Six and kismet and 5 more. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

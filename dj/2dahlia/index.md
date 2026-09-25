@@ -2,7 +2,7 @@
 
 2dahlia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun, 27 Sept 2026.
 
-2dahlia is a techno and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Sanfrancisco. Often billed alongside jcore, Myca and Del (4). Next up: TBA - email histrionixxsf@gmail.com day of event, Sanfrancisco on Sun 27 Sept.
+2dahlia is a techno and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across San Francisco/Oakland. Often billed alongside jcore, Myca and Del. Next up: TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun 27 Sept.
 
 ## Upcoming shows
 

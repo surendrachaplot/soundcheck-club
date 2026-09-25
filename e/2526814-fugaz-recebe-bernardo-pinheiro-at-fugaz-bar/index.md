@@ -1,6 +1,6 @@
 # Fugaz recebe Bernardo Pinheiro at Fugaz Bar
 
-Fugaz recebe Bernardo Pinheiro at Fugaz Bar on Thu 24 Sept, Saopaulo. Preview the line-up and save it on soundcheck.
+Fugaz recebe Bernardo Pinheiro at Fugaz Bar on Thu 24 Sept, Sao Paulo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

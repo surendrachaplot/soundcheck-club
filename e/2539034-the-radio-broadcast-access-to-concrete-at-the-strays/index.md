@@ -1,6 +1,6 @@
 # The Radio Broadcast/ Access To Concrete at The Strays
 
-The Radio Broadcast/ Access To Concrete at The Strays on Wed 14 Oct, Detroit. 1 act on the bill: Ghoztbomb. Experimental and Industrial. Preview the line-up and save it on soundcheck.
+The Radio Broadcast/ Access To Concrete at The Strays on Wed 14 Oct, Detroit. 1 artist on the bill: Ghoztbomb. Experimental and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

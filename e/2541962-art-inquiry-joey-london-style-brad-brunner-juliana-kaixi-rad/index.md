@@ -1,6 +1,6 @@
 # Art Inquiry // Joey London Style, Brad Brunner, Juliana Kaixi, Radul at Grand Hotel Bucharest
 
-Art Inquiry // Joey London Style, Brad Brunner, Juliana Kaixi, Radul at Grand Hotel Bucharest on Sat 17 Oct, Bucharest. 1 act on the bill: Joey London. House and Tech House. Preview the line-up and save it on soundcheck.
+Art Inquiry // Joey London Style, Brad Brunner, Juliana Kaixi, Radul at Grand Hotel Bucharest on Sat 17 Oct, Bucharest. 1 artist on the bill: Joey London. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

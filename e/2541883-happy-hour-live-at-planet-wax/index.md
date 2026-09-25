@@ -1,6 +1,6 @@
 # HAPPY HOUR LIVE at Planet Wax
 
-HAPPY HOUR LIVE at Planet Wax on Fri 2 Oct, London. 3 acts on the bill: Controlled Weirdness, Dexta and Uncle G. Drum & Bass and Electro. Preview the line-up and save it on soundcheck.
+HAPPY HOUR LIVE at Planet Wax on Fri 2 Oct, London. 3 artists on the bill: Controlled Weirdness, Dexta and Uncle G. Drum & Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

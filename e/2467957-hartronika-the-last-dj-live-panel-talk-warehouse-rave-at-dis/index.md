@@ -1,6 +1,6 @@
 # Hartronika: The Last DJ (live), panel talk & warehouse rave at Distillery N17
 
-Hartronika: The Last DJ (live), panel talk & warehouse rave at Distillery N17 on Fri 25 Sept, London. 7 acts on the bill: Engineer (Live), Jarvis Bitcoin, Johana and LIZAZA and 3 more. Techno and Club. Preview the line-up and save it on soundcheck.
+Hartronika: The Last DJ (live), panel talk & warehouse rave at Distillery N17 on Fri 25 Sept, London. 7 artists on the bill: Engineer (Live), Jarvis Bitcoin, Johana and LIZAZA and 3 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

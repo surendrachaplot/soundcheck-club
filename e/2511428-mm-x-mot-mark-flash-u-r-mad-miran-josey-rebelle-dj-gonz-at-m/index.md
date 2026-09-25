@@ -1,6 +1,6 @@
 # ✣ mm x MOT ✣ Mark Flash (U.R), mad miran & Josey Rebelle, DJ Gonz at M.O.T
 
-✣ mm x MOT ✣ Mark Flash (U.R), mad miran & Josey Rebelle, DJ Gonz at M.O.T on Sat 10 Oct, London. 4 acts on the bill: DJ Gonz, Josey Rebelle, mad miran and Mark Flash. Techno. Preview the line-up and save it on soundcheck.
+✣ mm x MOT ✣ Mark Flash (U.R), mad miran & Josey Rebelle, DJ Gonz at M.O.T on Sat 10 Oct, London. 4 artists on the bill: DJ Gonz, Josey Rebelle, mad miran and Mark Flash. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

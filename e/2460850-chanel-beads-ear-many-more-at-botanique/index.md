@@ -1,6 +1,6 @@
 # Chanel Beads - ear & many more at Botanique
 
-Chanel Beads - ear & many more at Botanique on Sun 1 Nov, Brussels. 6 acts on the bill: A Good Year, feeo, Loukeman and Patch+ and 2 more. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Chanel Beads - ear & many more at Botanique on Sun 1 Nov, Brussels. 6 artists on the bill: A Good Year, feeo, Loukeman and Patch+ and 2 more. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

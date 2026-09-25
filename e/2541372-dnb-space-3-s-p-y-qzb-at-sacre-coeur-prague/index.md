@@ -1,6 +1,6 @@
 # DNB[SPACE] 3: S.P.Y & QZB at Sacre Coeur Prague
 
-DNB[SPACE] 3: S.P.Y & QZB at Sacre Coeur Prague on Fri 23 Oct, Prague. 3 acts on the bill: Eska, Markee Ledge and S.P.Y. Drum & Bass. Preview the line-up and save it on soundcheck.
+DNB[SPACE] 3: S.P.Y & QZB at Sacre Coeur Prague on Fri 23 Oct, Prague. 3 artists on the bill: Eska, Markee Ledge and S.P.Y. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

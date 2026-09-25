@@ -1,6 +1,6 @@
 # Origins: 1-800 GIRLS [All Night Long] at Night Tales
 
-Origins: 1-800 GIRLS [All Night Long] at Night Tales on Sat 28 Nov, London. 1 act on the bill: 1-800 GIRLS. House and Electro. Preview the line-up and save it on soundcheck.
+Origins: 1-800 GIRLS [All Night Long] at Night Tales on Sat 28 Nov, London. 1 artist on the bill: 1-800 GIRLS. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RAW: ANNĒ & Elli Acula & Inox Traxx & LPV at Gate Milano
 
-RAW: ANNĒ & Elli Acula & Inox Traxx & LPV at Gate Milano on Fri 2 Oct, Milan. 4 acts on the bill: ANNĒ, Elli Acula, Inox Traxx and LPV. Techno. Preview the line-up and save it on soundcheck.
+RAW: ANNĒ & Elli Acula & Inox Traxx & LPV at Gate Milano on Fri 2 Oct, Milan. 4 artists on the bill: ANNĒ, Elli Acula, Inox Traxx and LPV. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

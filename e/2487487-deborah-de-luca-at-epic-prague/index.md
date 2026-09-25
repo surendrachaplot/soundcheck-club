@@ -1,6 +1,6 @@
 # Deborah De Luca at Epic Prague
 
-Deborah De Luca at Epic Prague on Fri 25 Sept, Prague. 1 act on the bill: Deborah De Luca. Techno. Preview the line-up and save it on soundcheck.
+Deborah De Luca at Epic Prague on Fri 25 Sept, Prague. 1 artist on the bill: Deborah De Luca. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

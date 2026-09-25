@@ -1,6 +1,6 @@
 # move my way festival / eora / Carriageworks at Carriageworks
 
-move my way festival / eora / Carriageworks on Sat 3 Oct, Sydney. 10 acts on the bill: Coco Maria, Ezra Collective, Jamz Supernova and Kokoroko and 6 more. Preview the line-up and save it on soundcheck.
+move my way festival / eora / Carriageworks on Sat 3 Oct, Sydney. 10 artists on the bill: Coco Maria, Ezra Collective, Jamz Supernova and Kokoroko and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

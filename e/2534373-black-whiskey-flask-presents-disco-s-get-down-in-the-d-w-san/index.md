@@ -1,6 +1,6 @@
 # Black Whiskey Flask presents Disco's Get Down in the D w Santonio Echols at Corktown Tavern
 
-Black Whiskey Flask presents Disco's Get Down in the D w Santonio Echols at Corktown Tavern on Sat 17 Oct, Detroit. 6 acts on the bill: Andrea Kalajian, Brent Shay, Marcus NF Harris and Pitchblnd and 2 more. House and Bass. Preview the line-up and save it on soundcheck.
+Black Whiskey Flask presents Disco's Get Down in the D w Santonio Echols at Corktown Tavern on Sat 17 Oct, Detroit. 6 artists on the bill: Andrea Kalajian, Brent Shay, Marcus NF Harris and Pitchblnd and 2 more. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

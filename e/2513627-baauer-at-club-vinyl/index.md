@@ -1,6 +1,6 @@
 # Baauer at Club Vinyl
 
-Baauer at Club Vinyl on Fri 2 Oct, Denver. 1 act on the bill: Baauer. House. Preview the line-up and save it on soundcheck.
+Baauer at Club Vinyl on Fri 2 Oct, Denver. 1 artist on the bill: Baauer. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 5:14 Sessions with RURU [All Night Long] at Le Red Room
 
-5:14 Sessions with RURU [All Night Long] at Le Red Room on Tue 29 Sept, Montreal. 1 act on the bill: DJ RURU. Techno and Acid. Preview the line-up and save it on soundcheck.
+5:14 Sessions with RURU [All Night Long] at Le Red Room on Tue 29 Sept, Montreal. 1 artist on the bill: DJ RURU. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Midnight Mass II: Scaler, Bonnacons of Doom & more at Quarry
 
-Midnight Mass II: Scaler, Bonnacons of Doom & more at Quarry on Fri 30 Oct, Liverpool. 2 acts on the bill: Quieting and Those Holy (2). Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Midnight Mass II: Scaler, Bonnacons of Doom & more at Quarry on Fri 30 Oct, Liverpool. 2 artists on the bill: Quieting and Those Holy. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

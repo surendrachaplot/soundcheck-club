@@ -1,6 +1,6 @@
 # CLUB YAOI x grandefille présentent CLUB YURI at La Machine Du Moulin Rouge
 
-CLUB YAOI x grandefille présentent CLUB YURI at La Machine Du Moulin Rouge on Sat 3 Oct, Paris. 3 acts on the bill: encore une autre, Kenzzza and Meli Mena. Bass and Club. Preview the line-up and save it on soundcheck.
+CLUB YAOI x grandefille présentent CLUB YURI at La Machine Du Moulin Rouge on Sat 3 Oct, Paris. 3 artists on the bill: encore une autre, Kenzzza and Meli Mena. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin
 
-wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 4 Oct, Berlin. 2 acts on the bill: GM1 (IT) and Jasonmagkatzen. Trance and Techno. Preview the line-up and save it on soundcheck.
+wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 4 Oct, Berlin. 2 artists on the bill: GM1 (IT) and Jasonmagkatzen. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

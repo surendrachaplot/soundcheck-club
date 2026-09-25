@@ -1,6 +1,6 @@
 # Process Club Night - Fred P, Nolid at Process PDX
 
-Process Club Night - Fred P, Nolid at Process PDX on Fri 2 Oct, Portland. 2 acts on the bill: Fred P and Nolid. Techno and House. Preview the line-up and save it on soundcheck.
+Process Club Night - Fred P, Nolid at Process PDX on Fri 2 Oct, Portland. 2 artists on the bill: Fred P and Nolid. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

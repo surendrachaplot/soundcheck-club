@@ -1,6 +1,6 @@
 # DC Salas & Magma invite - Amsterdam Dance Event at De Sering
 
-DC Salas & Magma invite - Amsterdam Dance Event at De Sering on Thu 22 Oct, Amsterdam. 4 acts on the bill: Ava Eva, Bon Public, DC Salas and Enrica Falqui. House and Electro. Preview the line-up and save it on soundcheck.
+DC Salas & Magma invite - Amsterdam Dance Event at De Sering on Thu 22 Oct, Amsterdam. 4 artists on the bill: Ava Eva, Bon Public, DC Salas and Enrica Falqui. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # X-Coast (open to close), 6 SENSE, K.ONE, PAN!C ROOM at Elsewhere
 
-X-Coast (open to close), 6 SENSE, K.ONE, PAN!C ROOM at Elsewhere on Sat 14 Nov, Newyorkcity. 6 acts on the bill: 6 SENSE, duco, NIJEII and WADDLE and 2 more. Preview the line-up and save it on soundcheck.
+X-Coast (open to close), 6 SENSE, K.ONE, PAN!C ROOM at Elsewhere on Sat 14 Nov, New York City. 6 artists on the bill: 6 SENSE, duco, NIJEII and WADDLE and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

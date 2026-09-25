@@ -2,7 +2,7 @@
 
 JIA is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 25 Sept 2026.
 
-JIA is a techno and acid artist based in Guam, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Chicago and Detroit and 14 more. Often billed alongside NEKTER, Jonny Maven and 999999999. Next up: TBA - Los Angeles, Losangeles on Fri 25 Sept.
+JIA is a techno and acid artist based in Guam, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Chicago and Detroit and 14 more. Often billed alongside NEKTER, Jonny Maven and 999999999. Next up: TBA - Los Angeles, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

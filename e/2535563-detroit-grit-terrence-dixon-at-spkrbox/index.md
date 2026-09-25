@@ -1,6 +1,6 @@
 # Detroit Grit - Terrence Dixon at Spkrbox
 
-Detroit Grit - Terrence Dixon at Spkrbox on Sat 26 Sept, Detroit. 4 acts on the bill: Brent Shay, Cody Hammer, madeera and Terrence Dixon. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Detroit Grit - Terrence Dixon at Spkrbox on Sat 26 Sept, Detroit. 4 artists on the bill: Brent Shay, Cody Hammer, madeera and Terrence Dixon. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

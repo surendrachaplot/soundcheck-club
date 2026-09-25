@@ -1,6 +1,6 @@
 # Dead You at The Redwood Bar And Grill
 
-Dead You at The Redwood Bar And Grill on Sun 4 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+Dead You at The Redwood Bar And Grill on Sun 4 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

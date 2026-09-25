@@ -1,6 +1,6 @@
 # Intercell x Yanamaste Invites - ADE By Night at Bajes Amsterdam
 
-Intercell x Yanamaste Invites - ADE By Night at Bajes Amsterdam on Sat 24 Oct, Amsterdam. 6 acts on the bill: Alarico, AMORAL, BLANKA and Freddy K and 2 more. Preview the line-up and save it on soundcheck.
+Intercell x Yanamaste Invites - ADE By Night at Bajes Amsterdam on Sat 24 Oct, Amsterdam. 6 artists on the bill: Alarico, AMORAL, BLANKA and Freddy K and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

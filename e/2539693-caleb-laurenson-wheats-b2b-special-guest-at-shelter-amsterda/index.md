@@ -1,6 +1,6 @@
 # Caleb Laurenson, Wheats b2b special guest at Shelter Amsterdam
 
-Caleb Laurenson, Wheats b2b special guest at Shelter Amsterdam on Fri 20 Nov, Amsterdam. 5 acts on the bill: Caleb Laurenson, DJ ORA, IDEMI and Lily C-D and 1 more. House. Preview the line-up and save it on soundcheck.
+Caleb Laurenson, Wheats b2b special guest at Shelter Amsterdam on Fri 20 Nov, Amsterdam. 5 artists on the bill: Caleb Laurenson, DJ ORA, IDEMI and Lily C-D and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

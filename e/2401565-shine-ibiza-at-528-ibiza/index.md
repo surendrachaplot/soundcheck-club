@@ -1,6 +1,6 @@
 # SHINE IBIZA at 528 Ibiza
 
-SHINE IBIZA at 528 Ibiza on Thu 24 Sept, Ibiza. 7 acts on the bill: Alex M.O.R.P.H., Aly & Fila, Ciaran McAuley and Edele Andaya and 3 more. Preview the line-up and save it on soundcheck.
+SHINE IBIZA at 528 Ibiza on Thu 24 Sept, Ibiza. 7 artists on the bill: Alex M.O.R.P.H., Aly & Fila, Ciaran McAuley and Edele Andaya and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

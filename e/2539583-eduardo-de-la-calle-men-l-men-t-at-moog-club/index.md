@@ -1,6 +1,6 @@
 # Eduardo de la Calle + Men (L-Men-T) at Moog Club
 
-Eduardo de la Calle + Men (L-Men-T) at Moog Club on Wed 21 Oct, Barcelona. 2 acts on the bill: DJ MEN and Eduardo de la Calle. Techno. Preview the line-up and save it on soundcheck.
+Eduardo de la Calle + Men (L-Men-T) at Moog Club on Wed 21 Oct, Barcelona. 2 artists on the bill: DJ MEN and Eduardo de la Calle. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

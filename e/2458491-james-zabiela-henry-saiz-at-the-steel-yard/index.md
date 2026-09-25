@@ -1,6 +1,6 @@
 # James Zabiela, Henry Saiz at The Steel Yard
 
-James Zabiela, Henry Saiz at The Steel Yard on Fri 25 Sept, London. 4 acts on the bill: AVANTIME, Dari-A, Henry Saiz and James Zabiela. Progressive House and House. Preview the line-up and save it on soundcheck.
+James Zabiela, Henry Saiz at The Steel Yard on Fri 25 Sept, London. 4 artists on the bill: AVANTIME, Dari-A, Henry Saiz and James Zabiela. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

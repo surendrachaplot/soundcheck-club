@@ -1,6 +1,6 @@
 # Music On São Paulo at Vale do Anhangabaú
 
-Music On São Paulo at Vale do Anhangabaú on Sat 7 Nov, Saopaulo. 1 act on the bill: Marco Carola. Tech House. Preview the line-up and save it on soundcheck.
+Music On São Paulo at Vale do Anhangabaú on Sat 7 Nov, Sao Paulo. 1 artist on the bill: Marco Carola. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

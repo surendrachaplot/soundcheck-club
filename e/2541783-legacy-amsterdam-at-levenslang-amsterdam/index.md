@@ -1,6 +1,6 @@
 # Legacy Amsterdam at Levenslang Amsterdam
 
-Legacy Amsterdam at Levenslang Amsterdam on Sat 3 Oct, Amsterdam. 2 acts on the bill: Akemiö Grey and Gysèle. Preview the line-up and save it on soundcheck.
+Legacy Amsterdam at Levenslang Amsterdam on Sat 3 Oct, Amsterdam. 2 artists on the bill: Akemiö Grey and Gysèle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dogshow at Village Underground
 
-Dogshow at Village Underground on Fri 2 Oct, London. 1 act on the bill: Dogshow. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Dogshow at Village Underground on Fri 2 Oct, London. 1 artist on the bill: Dogshow. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

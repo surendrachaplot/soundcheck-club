@@ -1,6 +1,6 @@
 # ADE RAVING CHARLIE: Hard Techno / Rave at De Sering
 
-ADE RAVING CHARLIE: Hard Techno / Rave at De Sering on Wed 21 Oct, Amsterdam. 3 acts on the bill: AEZARYA, SWAGGER and Zeyvers. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+ADE RAVING CHARLIE: Hard Techno / Rave at De Sering on Wed 21 Oct, Amsterdam. 3 artists on the bill: AEZARYA, SWAGGER and Zeyvers. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

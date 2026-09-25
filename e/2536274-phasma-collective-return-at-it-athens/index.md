@@ -1,6 +1,6 @@
 # Phasma Collective Return at IT Athens
 
-Phasma Collective Return at IT Athens on Sat 26 Sept, Athens. 1 act on the bill: zøntanos. Preview the line-up and save it on soundcheck.
+Phasma Collective Return at IT Athens on Sat 26 Sept, Athens. 1 artist on the bill: zøntanos. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

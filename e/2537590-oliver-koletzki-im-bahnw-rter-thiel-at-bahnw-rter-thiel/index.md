@@ -1,6 +1,6 @@
 # Oliver Koletzki im Bahnwärter Thiel at Bahnwärter Thiel
 
-Oliver Koletzki im Bahnwärter Thiel on Fri 9 Oct, Munich. 5 acts on the bill: Bi Män, LARIFARI, Oliver Koletzki and Thilo Who and 1 more. Preview the line-up and save it on soundcheck.
+Oliver Koletzki im Bahnwärter Thiel on Fri 9 Oct, Munich. 5 artists on the bill: Bi Män, LARIFARI, Oliver Koletzki and Thilo Who and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

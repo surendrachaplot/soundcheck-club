@@ -1,6 +1,6 @@
 # Flugmodus mit Max Marlon at Bahnwärter Thiel
 
-Flugmodus mit Max Marlon at Bahnwärter Thiel on Fri 30 Oct, Munich. 2 acts on the bill: Bertolt Frech and s.west. Preview the line-up and save it on soundcheck.
+Flugmodus mit Max Marlon at Bahnwärter Thiel on Fri 30 Oct, Munich. 2 artists on the bill: Bertolt Frech and s.west. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CRi at Spybar
 
-CRi at Spybar on Sat 26 Sept, Chicago. 1 act on the bill: CRi. Electronica. Preview the line-up and save it on soundcheck.
+CRi at Spybar on Sat 26 Sept, Chicago. 1 artist on the bill: CRi. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

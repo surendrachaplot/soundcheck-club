@@ -1,6 +1,6 @@
 # Zaki & Manish - Day Into Night at The BBE Store
 
-Zaki & Manish - Day Into Night at The BBE Store on Sat 26 Sept, London. 2 acts on the bill: Manish and Zaki. Deep House and Disco. Preview the line-up and save it on soundcheck.
+Zaki & Manish - Day Into Night at The BBE Store on Sat 26 Sept, London. 2 artists on the bill: Manish and Zaki. Deep House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

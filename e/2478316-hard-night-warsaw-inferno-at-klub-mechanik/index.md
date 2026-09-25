@@ -1,6 +1,6 @@
 # HARD NIGHT WARSAW: Inferno at Klub Mechanik
 
-HARD NIGHT WARSAW: Inferno at Klub Mechanik on Fri 16 Oct, Warsaw. 1 act on the bill: Inferno. Techno and Industrial. Preview the line-up and save it on soundcheck.
+HARD NIGHT WARSAW: Inferno at Klub Mechanik on Fri 16 Oct, Warsaw. 1 artist on the bill: Inferno. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 RECLUSE (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ritter Butzke, Berlin on Fri, 25 Sept 2026.
 
-RECLUSE (2) is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Kyoto and Melbourne. Often billed alongside CUT:NA, Louchi and ATARANGI. Next up: Ritter Butzke, Berlin on Fri 25 Sept.
+RECLUSE is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Kyoto and Melbourne. Often billed alongside CUT:NA, Louchi and ATARANGI. Next up: Ritter Butzke, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 

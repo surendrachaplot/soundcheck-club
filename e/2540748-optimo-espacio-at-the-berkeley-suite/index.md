@@ -1,6 +1,6 @@
 # Optimo (Espacio) at The Berkeley Suite
 
-Optimo (Espacio) at The Berkeley Suite on Sat 3 Oct, Glasgow. 1 act on the bill: Optimo (Espacio). Acid and EBM. Preview the line-up and save it on soundcheck.
+Optimo (Espacio) at The Berkeley Suite on Sat 3 Oct, Glasgow. 1 artist on the bill: Optimo (Espacio). Acid and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

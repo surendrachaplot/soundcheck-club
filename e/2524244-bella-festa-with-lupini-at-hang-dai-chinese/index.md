@@ -1,6 +1,6 @@
 # Bella Festa with Lupini at Hang Dai Chinese
 
-Bella Festa with Lupini at Hang Dai Chinese on Fri 16 Oct, Dublin. 2 acts on the bill: Aidan and Lupini. House and Acid. Preview the line-up and save it on soundcheck.
+Bella Festa with Lupini at Hang Dai Chinese on Fri 16 Oct, Dublin. 2 artists on the bill: Aidan and Lupini. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

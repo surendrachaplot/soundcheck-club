@@ -1,6 +1,6 @@
 # PISTIL SELECTORS: THANKS GIVING SPECIAL at Pistil
 
-PISTIL SELECTORS: THANKS GIVING SPECIAL at Pistil on Thu 24 Sept, Seoul. 4 acts on the bill: Arexibo, Haney Lee, Hyejin and Shins. Preview the line-up and save it on soundcheck.
+PISTIL SELECTORS: THANKS GIVING SPECIAL at Pistil on Thu 24 Sept, Seoul. 4 artists on the bill: Arexibo, Haney Lee, Hyejin and Shins. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

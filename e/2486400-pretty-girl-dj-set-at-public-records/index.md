@@ -1,6 +1,6 @@
 # Pretty Girl [DJ Set] at public records
 
-Pretty Girl [DJ Set] at public records on Thu 8 Oct, Newyorkcity. 1 act on the bill: Pretty Girl. Preview the line-up and save it on soundcheck.
+Pretty Girl [DJ Set] at public records on Thu 8 Oct, New York City. 1 artist on the bill: Pretty Girl. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

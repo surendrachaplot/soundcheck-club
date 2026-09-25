@@ -1,6 +1,6 @@
 # Uferhouse (Partopreno x Cloud Nine) at Ipse
 
-Uferhouse (Partopreno x Cloud Nine) at Ipse on Sun 27 Sept, Berlin. 4 acts on the bill: Cosmic Cherry, fake maybach, Nina Gaia and Trax (2). Progressive House and House. Preview the line-up and save it on soundcheck.
+Uferhouse (Partopreno x Cloud Nine) at Ipse on Sun 27 Sept, Berlin. 4 artists on the bill: Cosmic Cherry, fake maybach, Nina Gaia and Trax. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

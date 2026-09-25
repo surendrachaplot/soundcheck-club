@@ -1,6 +1,6 @@
 # Outer Heaven presents: Matteo Dio b2b Parea at Outer Heaven
 
-Outer Heaven presents: Matteo Dio b2b Parea on Wed 28 Oct, Newyorkcity. 2 acts on the bill: Matteo Diop and Parea (FR). Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Matteo Dio b2b Parea on Wed 28 Oct, New York City. 2 artists on the bill: Matteo Diop and Parea (FR). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

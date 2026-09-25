@@ -1,6 +1,6 @@
 # barn: 172. The Equation (AceMo & Swami Sound) at Barn Radio
 
-barn: 172. The Equation (AceMo & Swami Sound) at Barn Radio on Sat 3 Oct, Portland. 2 acts on the bill: AceMo and Swami Sound. Techno and Club. Preview the line-up and save it on soundcheck.
+barn: 172. The Equation (AceMo & Swami Sound) at Barn Radio on Sat 3 Oct, Portland. 2 artists on the bill: AceMo and Swami Sound. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

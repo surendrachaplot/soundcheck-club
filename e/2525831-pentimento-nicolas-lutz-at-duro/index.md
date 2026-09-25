@@ -1,6 +1,6 @@
 # Pentimento // Nicolas Lutz at DURO
 
-Pentimento // Nicolas Lutz at DURO on Fri 13 Nov, Milan. 2 acts on the bill: Nicola Mazzetti and Nicolas Lutz. Techno and House. Preview the line-up and save it on soundcheck.
+Pentimento // Nicolas Lutz at DURO on Fri 13 Nov, Milan. 2 artists on the bill: Nicola Mazzetti and Nicolas Lutz. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

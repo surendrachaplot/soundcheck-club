@@ -1,6 +1,6 @@
 # Aera + MËHILL at M.N.Roy
 
-Aera + MËHILL at M.N.Roy on Fri 25 Sept, Mexicocity. 2 acts on the bill: Aera and Mehill. Preview the line-up and save it on soundcheck.
+Aera + MËHILL at M.N.Roy on Fri 25 Sept, Mexico City. 2 artists on the bill: Aera and Mehill. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

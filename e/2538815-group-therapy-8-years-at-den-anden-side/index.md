@@ -1,6 +1,6 @@
 # GROUP THERAPY 8 YEARS at Den Anden Side
 
-GROUP THERAPY 8 YEARS at Den Anden Side on Sat 10 Oct, Copenhagen. 7 acts on the bill: Aldonna, DJ Woo Girl, Frederik Tollund and Lakuti and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+GROUP THERAPY 8 YEARS at Den Anden Side on Sat 10 Oct, Copenhagen. 7 artists on the bill: Aldonna, DJ Woo Girl, Frederik Tollund and Lakuti and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

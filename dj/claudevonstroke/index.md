@@ -2,7 +2,7 @@
 
 Claude VonStroke is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
-Claude VonStroke is a house and tech house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Amsterdam, Austin, Berlin and Bristol and 21 more. Often billed alongside Green Velvet, Ardalan and Boys Noize. Next up: TBA - Arts District Los Angeles, Losangeles on Sat 31 Oct.
+Claude VonStroke is a house and tech house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Amsterdam, Austin, Berlin and Bristol and 21 more. Often billed alongside Green Velvet, Ardalan and Boys Noize. Next up: TBA - Arts District Los Angeles, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 

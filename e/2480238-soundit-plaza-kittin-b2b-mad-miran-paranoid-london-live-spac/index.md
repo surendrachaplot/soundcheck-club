@@ -1,6 +1,6 @@
 # SOUNDIT Plaza: Kittin b2b mad miran, Paranoid London live, Spacer, Kudi b2b PEBE at Plaza Monumental de Barcelona
 
-SOUNDIT Plaza: Kittin b2b mad miran, Paranoid London live, Spacer, Kudi b2b PEBE at Plaza Monumental de Barcelona on Sat 14 Nov, Barcelona. 4 acts on the bill: mad miran, Miss Kittin, Paranoid London and Spacer. Preview the line-up and save it on soundcheck.
+SOUNDIT Plaza: Kittin b2b mad miran, Paranoid London live, Spacer, Kudi b2b PEBE at Plaza Monumental de Barcelona on Sat 14 Nov, Barcelona. 4 artists on the bill: mad miran, Miss Kittin, Paranoid London and Spacer. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

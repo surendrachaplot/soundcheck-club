@@ -1,6 +1,6 @@
 # $HOTTA RAVE at EXIT Glasgow
 
-$HOTTA RAVE at EXIT Glasgow on Fri 4 Dec, Glasgow. 3 acts on the bill: KD22LR, Nusheen and Tom Boogizm. Club. Preview the line-up and save it on soundcheck.
+$HOTTA RAVE at EXIT Glasgow on Fri 4 Dec, Glasgow. 3 artists on the bill: KD22LR, Nusheen and Tom Boogizm. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

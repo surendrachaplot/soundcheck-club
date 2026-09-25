@@ -1,6 +1,6 @@
 # DJ MANDY presents The Raveyard at Fonda Theatre
 
-DJ MANDY presents The Raveyard at Fonda Theatre on Fri 30 Oct, Losangeles. 1 act on the bill: DJ MANDY. Preview the line-up and save it on soundcheck.
+DJ MANDY presents The Raveyard at Fonda Theatre on Fri 30 Oct, Los Angeles. 1 artist on the bill: DJ MANDY. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

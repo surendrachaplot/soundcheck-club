@@ -1,6 +1,6 @@
 # 21 Sep - 27 Sep at Stoked&stoned
 
-21 Sep - 27 Sep at Stoked&stoned on Mon 21 Sept, Seoul. 12 acts on the bill: Closet Yi, Daul, DJ Botermelk and Jenna and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
+21 Sep - 27 Sep at Stoked&stoned on Mon 21 Sept, Seoul. 12 artists on the bill: Closet Yi, Daul, DJ Botermelk and Jenna and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

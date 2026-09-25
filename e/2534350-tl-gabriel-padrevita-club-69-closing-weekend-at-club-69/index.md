@@ -1,6 +1,6 @@
 # TLØ & Gabriel Padrevita [Club 69 CLOSING WEEKEND] at Club 69
 
-TLØ & Gabriel Padrevita [Club 69 CLOSING WEEKEND] on Fri 9 Oct, Glasgow. 1 act on the bill: Gabriel Padrevita. Techno. Preview the line-up and save it on soundcheck.
+TLØ & Gabriel Padrevita [Club 69 CLOSING WEEKEND] on Fri 9 Oct, Glasgow. 1 artist on the bill: Gabriel Padrevita. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

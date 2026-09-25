@@ -1,6 +1,6 @@
 # BASIS/ Stan Christ all night long at BASIS
 
-BASIS/ Stan Christ all night long on Fri 25 Sept, Utrecht. 1 act on the bill: Stan Christ. Techno and Industrial. Preview the line-up and save it on soundcheck.
+BASIS/ Stan Christ all night long on Fri 25 Sept, Utrecht. 1 artist on the bill: Stan Christ. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

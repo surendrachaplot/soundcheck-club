@@ -1,6 +1,6 @@
 # ALIVE x BlackWorks presents Fatima Hajji & Fake Friends at E1
 
-ALIVE x BlackWorks presents Fatima Hajji & Fake Friends at E1 on Fri 20 Nov, London. 5 acts on the bill: Airod, Dexphase, Fatima Hajji and Jacidorex and 1 more. Techno. Preview the line-up and save it on soundcheck.
+ALIVE x BlackWorks presents Fatima Hajji & Fake Friends at E1 on Fri 20 Nov, London. 5 artists on the bill: Airod, Dexphase, Fatima Hajji and Jacidorex and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

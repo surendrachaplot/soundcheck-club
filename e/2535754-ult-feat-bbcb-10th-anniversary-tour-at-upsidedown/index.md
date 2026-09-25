@@ -1,6 +1,6 @@
 # ULT feat. BBCB 10th Anniversary Tour at Upsidedown
 
-ULT feat. BBCB 10th Anniversary Tour at Upsidedown on Sat 26 Sept, Osaka. 3 acts on the bill: HSC (1), Kim.Qna and Tui (1). Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
+ULT feat. BBCB 10th Anniversary Tour at Upsidedown on Sat 26 Sept, Osaka. 3 artists on the bill: HSC, Kim.Qna and Tui. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

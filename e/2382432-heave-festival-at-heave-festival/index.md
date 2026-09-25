@@ -1,6 +1,6 @@
 # Heave Festival at Heave Festival
 
-Heave Festival on Fri 25 Sept, Madrid. 19 acts on the bill: Baldman, Bibi, Bleach and BOUNCE BRIGADE and 15 more. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Heave Festival on Fri 25 Sept, Madrid. 19 artists on the bill: Baldman, Bibi, Bleach and BOUNCE BRIGADE and 15 more. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

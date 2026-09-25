@@ -1,6 +1,6 @@
 # FILTH: BLANC at The White Hotel
 
-FILTH: BLANC at The White Hotel on Thu 1 Oct, Manchester. 5 acts on the bill: Connor (UK), Deventi, Egui and Franco Rossi and 1 more. Techno. Preview the line-up and save it on soundcheck.
+FILTH: BLANC at The White Hotel on Thu 1 Oct, Manchester. 5 artists on the bill: Connor (UK), Deventi, Egui and Franco Rossi and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

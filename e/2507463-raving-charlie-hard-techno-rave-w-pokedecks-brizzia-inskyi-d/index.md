@@ -1,6 +1,6 @@
 # RAVING CHARLIE: Hard Techno / Rave w/ POKEDECKS / BRIZZIA / INSKYI / DEVØX at nachbar
 
-RAVING CHARLIE: Hard Techno / Rave w/ POKEDECKS / BRIZZIA / INSKYI / DEVØX at nachbar on Wed 30 Sept, Amsterdam. 1 act on the bill: DEVØX. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+RAVING CHARLIE: Hard Techno / Rave w/ POKEDECKS / BRIZZIA / INSKYI / DEVØX at nachbar on Wed 30 Sept, Amsterdam. 1 artist on the bill: DEVØX. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 YuYu Cine Club is a music venue in Mexico City with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Yu Yu Cine Club: Softi, Remille, Seagit Arc" on Fri, 25 Sept 2026.
 
-YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 11 upcoming gigs, with line-ups including acidheaven, Astroboii, Bastard Love and Bluecommand and 2 more. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
+YuYu Cine Club is a music venue in Mexico City listed on soundcheck. 11 upcoming gigs, with line-ups including acidheaven, Astroboii, Bastard Love and Bluecommand and 2 more. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
 
 ## What's on
 

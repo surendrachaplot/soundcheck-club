@@ -1,6 +1,6 @@
 # Saturday, October 17, 2026 at teller
 
-Saturday, October 17, 2026 at teller on Sat 17 Oct, Seoul. 3 acts on the bill: Lyumin, Mihak and Young Sun. Preview the line-up and save it on soundcheck.
+Saturday, October 17, 2026 at teller on Sat 17 Oct, Seoul. 3 artists on the bill: Lyumin, Mihak and Young Sun. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

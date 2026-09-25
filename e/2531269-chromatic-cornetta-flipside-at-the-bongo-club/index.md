@@ -1,6 +1,6 @@
 # Chromatic: Cornetta + Flipside at The Bongo Club
 
-Chromatic: Cornetta + Flipside at The Bongo Club on Sat 26 Sept, Edinburgh. 4 acts on the bill: Cornetta, FLIPSIDE., Lara Sinclair and ZO3 (1). Techno and Bass. Preview the line-up and save it on soundcheck.
+Chromatic: Cornetta + Flipside at The Bongo Club on Sat 26 Sept, Edinburgh. 4 artists on the bill: Cornetta, FLIPSIDE., Lara Sinclair and ZO3. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

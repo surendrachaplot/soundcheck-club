@@ -1,6 +1,6 @@
 # DAD FOLSOM FRIDAY - Sindri & Stefan Ways at F8 1192 Folsom
 
-DAD FOLSOM FRIDAY - Sindri & Stefan Ways at F8 1192 Folsom on Fri 25 Sept, Sanfrancisco. 2 acts on the bill: Sindri and StormyRoxx. House and Disco. Preview the line-up and save it on soundcheck.
+DAD FOLSOM FRIDAY - Sindri & Stefan Ways at F8 1192 Folsom on Fri 25 Sept, San Francisco/Oakland. 2 artists on the bill: Sindri and StormyRoxx. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

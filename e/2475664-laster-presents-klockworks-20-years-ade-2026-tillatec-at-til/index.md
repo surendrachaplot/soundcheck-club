@@ -1,6 +1,6 @@
 # LASTER presents KLOCKWORKS 20 YEARS - ADE 2026 - TILLATEC at TILLATEC
 
-LASTER presents KLOCKWORKS 20 YEARS - ADE 2026 - TILLATEC on Wed 21 Oct, Amsterdam. 6 acts on the bill: Ben Klock, DVS1, Laia and Roll Dann and 2 more. Techno. Preview the line-up and save it on soundcheck.
+LASTER presents KLOCKWORKS 20 YEARS - ADE 2026 - TILLATEC on Wed 21 Oct, Amsterdam. 6 artists on the bill: Ben Klock, DVS1, Laia and Roll Dann and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

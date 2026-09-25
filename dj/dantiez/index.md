@@ -2,7 +2,7 @@
 
 Dantiez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paragon, New York City on Fri, 2 Oct 2026.
 
-Dantiez is a house and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Detroit, Losangeles, Miami and Montreal and 1 more. Often billed alongside Damarii Saunderson, JMT (2) and Kevin Saunderson. Next up: Paragon, Newyorkcity on Fri 2 Oct.
+Dantiez is a house and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Detroit, Los Angeles, Miami and Montreal and 1 more. Often billed alongside Damarii Saunderson, JMT and Kevin Saunderson. Next up: Paragon, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # blip with Luca Dioguardi + peratek, Phil Smart, pudding, foxtrot at TBA - Secret Warehouse Location
 
-blip with Luca Dioguardi + peratek, Phil Smart, pudding, foxtrot at TBA - Secret Warehouse Location on Sat 17 Oct, Brisbane. 4 acts on the bill: Foxtrot (2), Luca Dioguardi, Phil Smart and pudding. Minimal. Preview the line-up and save it on soundcheck.
+blip with Luca Dioguardi + peratek, Phil Smart, pudding, foxtrot at TBA - Secret Warehouse Location on Sat 17 Oct, Brisbane. 4 artists on the bill: Foxtrot, Luca Dioguardi, Phil Smart and pudding. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Horsepower Productions with Raw Future Sound & Saber Rider at Romantso
 
-Horsepower Productions with Raw Future Sound & Saber Rider at Romantso on Sat 3 Oct, Athens. 3 acts on the bill: Benny Ill, Horsepower Productions and Saber Rider. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Horsepower Productions with Raw Future Sound & Saber Rider at Romantso on Sat 3 Oct, Athens. 3 artists on the bill: Benny Ill, Horsepower Productions and Saber Rider. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

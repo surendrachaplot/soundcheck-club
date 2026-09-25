@@ -1,6 +1,6 @@
 # Oslo Word: Susobrino + Technocute at Jaeger
 
-Oslo Word: Susobrino + Technocute at Jaeger on Wed 28 Oct, Oslo. 2 acts on the bill: Susobrino and Technocute. Techno and Latin Bass. Preview the line-up and save it on soundcheck.
+Oslo Word: Susobrino + Technocute at Jaeger on Wed 28 Oct, Oslo. 2 artists on the bill: Susobrino and Technocute. Techno and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

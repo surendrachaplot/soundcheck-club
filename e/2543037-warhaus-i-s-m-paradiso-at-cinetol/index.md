@@ -1,6 +1,6 @@
 # Warhaus - i.s.m paradiso at Cinetol
 
-Warhaus - i.s.m paradiso at Cinetol on Fri 23 Oct, Amsterdam. 1 act on the bill: Warhaus. Electronica. Preview the line-up and save it on soundcheck.
+Warhaus - i.s.m paradiso at Cinetol on Fri 23 Oct, Amsterdam. 1 artist on the bill: Warhaus. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DJ Krush (Japan) - Stockholm at Kollektivet Livet Bar & Scen
 
-DJ Krush (Japan) - Stockholm at Kollektivet Livet Bar & Scen on Wed 28 Oct, Stockholm. 1 act on the bill: DJ Krush. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+DJ Krush (Japan) - Stockholm at Kollektivet Livet Bar & Scen on Wed 28 Oct, Stockholm. 1 artist on the bill: DJ Krush. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

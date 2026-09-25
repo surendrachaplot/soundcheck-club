@@ -2,7 +2,7 @@
 
 TBA - San Francisco is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "MÜLL Folsom: Rene Wise - Jen Cardini - Fawks - Kudeki" on Fri, 25 Sept 2026.
 
-TBA - San Francisco is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming gigs, with line-ups including Fawks, Jen Cardini, Jex Opolis and Kudeki and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 4 upcoming gigs, with line-ups including Fawks, Jen Cardini, Jex Opolis and Kudeki and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

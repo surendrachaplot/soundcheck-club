@@ -2,7 +2,7 @@
 
 Coco Maria is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 27 Sept 2026.
 
-Coco Maria is a house and disco artist based in Mexico, tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: Sunday Sunday, Mexicocity on Sun 27 Sept.
+Coco Maria is a house and disco artist based in Mexico, tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: Sunday Sunday, Mexico City on Sun 27 Sept.
 
 ## Upcoming shows
 

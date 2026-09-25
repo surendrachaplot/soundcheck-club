@@ -1,6 +1,6 @@
 # CamelPhat presents Summer of Love - CLOSING PARTY at Hï Ibiza
 
-CamelPhat presents Summer of Love - CLOSING PARTY at Hï Ibiza on Fri 2 Oct, Ibiza. 4 acts on the bill: CamelPhat, Edd (1), Ewan McVicar and Jayda G. Techno and House. Preview the line-up and save it on soundcheck.
+CamelPhat presents Summer of Love - CLOSING PARTY at Hï Ibiza on Fri 2 Oct, Ibiza. 4 artists on the bill: CamelPhat, Edd, Ewan McVicar and Jayda G. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

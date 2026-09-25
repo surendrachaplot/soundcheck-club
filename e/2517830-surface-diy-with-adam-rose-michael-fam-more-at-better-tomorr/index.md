@@ -1,6 +1,6 @@
 # Surface DIY with Adam Rose, Michael Fam + more at Better Tomorrow
 
-Surface DIY with Adam Rose, Michael Fam + more at Better Tomorrow on Thu 24 Sept, Losangeles. 3 acts on the bill: Adam Rose, Capes and Michael Fam. House and Tech House. Preview the line-up and save it on soundcheck.
+Surface DIY with Adam Rose, Michael Fam + more at Better Tomorrow on Thu 24 Sept, Los Angeles. 3 artists on the bill: Adam Rose, Capes and Michael Fam. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

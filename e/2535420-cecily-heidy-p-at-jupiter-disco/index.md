@@ -1,6 +1,6 @@
 # Cecily + Heidy P at Jupiter Disco
 
-Cecily + Heidy P at Jupiter Disco on Fri 23 Oct, Newyorkcity. 1 act on the bill: Heidy.P. Preview the line-up and save it on soundcheck.
+Cecily + Heidy P at Jupiter Disco on Fri 23 Oct, New York City. 1 artist on the bill: Heidy.P. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

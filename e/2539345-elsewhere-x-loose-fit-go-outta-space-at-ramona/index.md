@@ -1,6 +1,6 @@
 # Elsewhere X Loose Fit Go Outta Space at Ramona
 
-Elsewhere X Loose Fit Go Outta Space at Ramona on Sat 31 Oct, Manchester. 5 acts on the bill: DJ POLLY, LIZ-ZIE (2), LUMIINA and Pearlz and 1 more. House and Garage. Preview the line-up and save it on soundcheck.
+Elsewhere X Loose Fit Go Outta Space at Ramona on Sat 31 Oct, Manchester. 5 artists on the bill: DJ POLLY, LIZ-ZIE, LUMIINA and Pearlz and 1 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

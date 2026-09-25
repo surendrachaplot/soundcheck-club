@@ -1,6 +1,6 @@
 # Elektronik 1 at Bar Temp.
 
-Elektronik 1 at Bar Temp. on Thu 24 Sept, Bangkok. 2 acts on the bill: Eizu 映図 and Esof. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Elektronik 1 at Bar Temp. on Thu 24 Sept, Bangkok. 2 artists on the bill: Eizu 映図 and Esof. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

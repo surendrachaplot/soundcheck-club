@@ -1,6 +1,6 @@
 # Openings dinner - Arigato Show (ADE special) at Blast Galaxy
 
-Openings dinner - Arigato Show (ADE special) at Blast Galaxy on Wed 21 Oct, Amsterdam. 4 acts on the bill: HIBIKI, Naluu, REO MATSUMOTO and San Proper. Preview the line-up and save it on soundcheck.
+Openings dinner - Arigato Show (ADE special) at Blast Galaxy on Wed 21 Oct, Amsterdam. 4 artists on the bill: HIBIKI, Naluu, REO MATSUMOTO and San Proper. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

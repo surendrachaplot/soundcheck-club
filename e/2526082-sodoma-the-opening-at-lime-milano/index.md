@@ -1,6 +1,6 @@
 # SODOMA - The Opening at Lime Milano
 
-SODOMA - The Opening at Lime Milano on Sat 3 Oct, Milan. 2 acts on the bill: Common Poetry and Obi Baby. Techno. Preview the line-up and save it on soundcheck.
+SODOMA - The Opening at Lime Milano on Sat 3 Oct, Milan. 2 artists on the bill: Common Poetry and Obi Baby. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

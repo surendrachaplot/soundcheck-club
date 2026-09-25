@@ -1,6 +1,6 @@
 # Midnight Caviar x Elevation present Hardt Antoine, SKALA at Signal
 
-Midnight Caviar x Elevation present Hardt Antoine, SKALA at Signal on Sat 17 Oct, Newyorkcity. 6 acts on the bill: Christian Voldstad, Hardt Antoine, HOVR and Lovecraft and 2 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Midnight Caviar x Elevation present Hardt Antoine, SKALA at Signal on Sat 17 Oct, New York City. 6 artists on the bill: Christian Voldstad, Hardt Antoine, HOVR and Lovecraft and 2 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

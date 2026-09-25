@@ -1,6 +1,6 @@
 # 'MELTDØWN' vol.17 -HARD TECHNO / HARDCORE TECHNO RAVE- at Triangle
 
-'MELTDØWN' vol.17 -HARD TECHNO / HARDCORE TECHNO RAVE- at Triangle on Sat 3 Oct, Osaka. 4 acts on the bill: INDEX (3), MAX DURANTE, w (MELTDØWN) and 死者蘇生CH. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+'MELTDØWN' vol.17 -HARD TECHNO / HARDCORE TECHNO RAVE- at Triangle on Sat 3 Oct, Osaka. 4 artists on the bill: INDEX, MAX DURANTE, w (MELTDØWN) and 死者蘇生CH. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

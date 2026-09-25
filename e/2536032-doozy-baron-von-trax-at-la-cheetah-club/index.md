@@ -1,6 +1,6 @@
 # DOOZY / Baron Von Trax at La Cheetah Club
 
-DOOZY / Baron Von Trax at La Cheetah Club on Sat 17 Oct, Glasgow. 1 act on the bill: Baron Von Trax. Trance and House. Preview the line-up and save it on soundcheck.
+DOOZY / Baron Von Trax at La Cheetah Club on Sat 17 Oct, Glasgow. 1 artist on the bill: Baron Von Trax. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

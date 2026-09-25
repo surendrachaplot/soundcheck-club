@@ -1,6 +1,6 @@
 # DJ MANDY at Night We Met
 
-DJ MANDY at Night We Met on Fri 2 Oct, Nashville. 2 acts on the bill: Arht and DJ MANDY. House and Pop. Preview the line-up and save it on soundcheck.
+DJ MANDY at Night We Met on Fri 2 Oct, Nashville. 2 artists on the bill: Arht and DJ MANDY. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # JØASE x OMT Records - FREE INDOOR FESTIVAL - TECHNO & HOUSE at Panama
 
-JØASE x OMT Records - FREE INDOOR FESTIVAL - TECHNO & HOUSE at Panama on Fri 25 Sept, Amsterdam. 3 acts on the bill: andela, JØASE and Stephen William. Techno and House. Preview the line-up and save it on soundcheck.
+JØASE x OMT Records - FREE INDOOR FESTIVAL - TECHNO & HOUSE at Panama on Fri 25 Sept, Amsterdam. 3 artists on the bill: andela, JØASE and Stephen William. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

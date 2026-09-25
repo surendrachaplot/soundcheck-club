@@ -1,6 +1,6 @@
 # Audio Obscura ADE x Thusday House Night at RAWFACTORY
 
-Audio Obscura ADE x Thusday House Night at RAWFACTORY on Thu 22 Oct, Amsterdam. 7 acts on the bill: Archie Hamilton, Boss Priester, Cam Stockman and IDEMI and 3 more. House. Preview the line-up and save it on soundcheck.
+Audio Obscura ADE x Thusday House Night at RAWFACTORY on Thu 22 Oct, Amsterdam. 7 artists on the bill: Archie Hamilton, Boss Priester, Cam Stockman and IDEMI and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

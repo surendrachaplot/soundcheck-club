@@ -2,7 +2,7 @@
 
 Niyah West is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at H0L0, New York City on Fri, 25 Sept 2026.
 
-Niyah West is a house and techno artist based in United States of America, tracked on soundcheck, with 108 sets logged across Berlin, Copenhagen, Detroit and Losangeles and 3 more. Often billed alongside DJ Shannon, theoretic and Kilopatrah Jones. Next up: H0L0, Newyorkcity on Fri 25 Sept.
+Niyah West is a house and techno artist based in United States of America, tracked on soundcheck, with 108 sets logged across Berlin, Copenhagen, Detroit and Los Angeles and 3 more. Often billed alongside DJ Shannon, theoretic and Kilopatrah Jones. Next up: H0L0, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

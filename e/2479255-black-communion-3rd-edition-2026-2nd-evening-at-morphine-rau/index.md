@@ -1,6 +1,6 @@
 # Black Communion 3rd Edition 2026 2nd Evening at Morphine Raum
 
-Black Communion 3rd Edition 2026 2nd Evening at Morphine Raum on Fri 25 Sept, Berlin. 2 acts on the bill: AFRORACK and Opoku. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Black Communion 3rd Edition 2026 2nd Evening at Morphine Raum on Fri 25 Sept, Berlin. 2 artists on the bill: AFRORACK and Opoku. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

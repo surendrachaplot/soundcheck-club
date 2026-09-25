@@ -1,6 +1,6 @@
 # Wir Kinder vom Hawerkamp - Keller Edition at Fusion Club
 
-Wir Kinder vom Hawerkamp - Keller Edition at Fusion Club on Fri 2 Oct, Munster. 2 acts on the bill: ACCUL and Dennis Siemion. Techno. Preview the line-up and save it on soundcheck.
+Wir Kinder vom Hawerkamp - Keller Edition at Fusion Club on Fri 2 Oct, Munster. 2 artists on the bill: ACCUL and Dennis Siemion. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

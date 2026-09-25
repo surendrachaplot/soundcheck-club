@@ -1,6 +1,6 @@
 # YN x BCCO at Grelle Forelle
 
-YN x BCCO at Grelle Forelle on Sat 26 Sept, Vienna. 5 acts on the bill: FENIM0RE, future.666, FX-31 and KAROLINA and 1 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+YN x BCCO at Grelle Forelle on Sat 26 Sept, Vienna. 5 artists on the bill: FENIM0RE, future.666, FX-31 and KAROLINA and 1 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

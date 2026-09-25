@@ -1,6 +1,6 @@
 # Neowarras at 16 Toneladas
 
-Neowarras at 16 Toneladas on Fri 25 Sept, Valencia. 3 acts on the bill: DIORA, FAG HAG and Xenia. Preview the line-up and save it on soundcheck.
+Neowarras at 16 Toneladas on Fri 25 Sept, Valencia. 3 artists on the bill: DIORA, FAG HAG and Xenia. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

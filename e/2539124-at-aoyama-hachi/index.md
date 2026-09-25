@@ -1,6 +1,6 @@
 # 交層 at Aoyama Hachi
 
-交層 at Aoyama Hachi on Sun 11 Oct, Tokyo. 6 acts on the bill: Haruka Takizawa, HELIOT, KAIKAI and Krankent and 2 more. Techno. Preview the line-up and save it on soundcheck.
+交層 at Aoyama Hachi on Sun 11 Oct, Tokyo. 6 artists on the bill: Haruka Takizawa, HELIOT, KAIKAI and Krankent and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

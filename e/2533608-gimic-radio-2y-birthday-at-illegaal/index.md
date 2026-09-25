@@ -1,6 +1,6 @@
 # ✮⋆ GIMIC Radio - 2Y BIRTHDAY ⭒⋆⍣ at Illegaal
 
-✮⋆ GIMIC Radio - 2Y BIRTHDAY ⭒⋆⍣ at Illegaal on Sat 3 Oct, Brussels. 6 acts on the bill: Godero, Kathleen C, Malo Z and Melissa Juice and 2 more. Tech House and Club. Preview the line-up and save it on soundcheck.
+✮⋆ GIMIC Radio - 2Y BIRTHDAY ⭒⋆⍣ at Illegaal on Sat 3 Oct, Brussels. 6 artists on the bill: Godero, Kathleen C, Malo Z and Melissa Juice and 2 more. Tech House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

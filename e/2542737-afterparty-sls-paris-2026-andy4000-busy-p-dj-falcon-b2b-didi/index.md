@@ -1,6 +1,6 @@
 # Afterparty SLS Paris 2026: Andy4000, Busy P, DJ Falcon b2b Didi Han, DJ SWISHA at Rex Club
 
-Afterparty SLS Paris 2026: Andy4000, Busy P, DJ Falcon b2b Didi Han, DJ SWISHA at Rex Club on Sat 3 Oct, Paris. 4 acts on the bill: Andy4000, Busy P, Didi Han and DJ SWISHA. House and Electro. Preview the line-up and save it on soundcheck.
+Afterparty SLS Paris 2026: Andy4000, Busy P, DJ Falcon b2b Didi Han, DJ SWISHA at Rex Club on Sat 3 Oct, Paris. 4 artists on the bill: Andy4000, Busy P, Didi Han and DJ SWISHA. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

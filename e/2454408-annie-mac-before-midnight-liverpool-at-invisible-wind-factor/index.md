@@ -1,6 +1,6 @@
 # Annie Mac - Before Midnight - Liverpool at Invisible Wind Factory
 
-Annie Mac - Before Midnight - Liverpool at Invisible Wind Factory on Fri 16 Oct, Liverpool. 1 act on the bill: Annie Mac. House and Electro. Preview the line-up and save it on soundcheck.
+Annie Mac - Before Midnight - Liverpool at Invisible Wind Factory on Fri 16 Oct, Liverpool. 1 artist on the bill: Annie Mac. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

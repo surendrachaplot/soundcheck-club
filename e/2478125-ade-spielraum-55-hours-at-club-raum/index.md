@@ -1,6 +1,6 @@
 # ADE - SPIELRAUM: 55 HOURS at CLUB RAUM
 
-ADE - SPIELRAUM: 55 HOURS at CLUB RAUM on Fri 23 Oct, Amsterdam. 35 acts on the bill: Alex Kassian, BASHKKA, Clarisa Kimskii and D.Dan and 31 more. Preview the line-up and save it on soundcheck.
+ADE - SPIELRAUM: 55 HOURS at CLUB RAUM on Fri 23 Oct, Amsterdam. 35 artists on the bill: Alex Kassian, BASHKKA, Clarisa Kimskii and D.Dan and 31 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

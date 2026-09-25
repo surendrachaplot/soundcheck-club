@@ -1,6 +1,6 @@
 # NITRO: DXPE B2B GNS + Tasuik + PÜCH B2B JRG + MVPDJ at The Bassement
 
-NITRO: DXPE B2B GNS + Tasuik + PÜCH B2B JRG + MVPDJ at The Bassement on Thu 1 Oct, Madrid. 6 acts on the bill: DXPE (ES), GNS (1), JRG and MVPDJ and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+NITRO: DXPE B2B GNS + Tasuik + PÜCH B2B JRG + MVPDJ at The Bassement on Thu 1 Oct, Madrid. 6 artists on the bill: DXPE (ES), GNS, JRG and MVPDJ and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

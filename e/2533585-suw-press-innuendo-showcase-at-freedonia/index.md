@@ -1,6 +1,6 @@
 # SUW press INNUENDO SHOWCASE at Freedonia
 
-SUW press INNUENDO SHOWCASE at Freedonia on Sat 26 Sept, Barcelona. 3 acts on the bill: EFÍMERO, SABALZA and VAKURI. Electronica. Preview the line-up and save it on soundcheck.
+SUW press INNUENDO SHOWCASE at Freedonia on Sat 26 Sept, Barcelona. 3 artists on the bill: EFÍMERO, SABALZA and VAKURI. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

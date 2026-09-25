@@ -1,6 +1,6 @@
 # Dubplates & Dragons Wednesdayz at Hollywood Live
 
-Dubplates & Dragons Wednesdayz at Hollywood Live on Wed 7 Oct, Miami. 1 act on the bill: Sel.6. Drum & Bass and Electro. Preview the line-up and save it on soundcheck.
+Dubplates & Dragons Wednesdayz at Hollywood Live on Wed 7 Oct, Miami. 1 artist on the bill: Sel.6. Drum & Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

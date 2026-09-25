@@ -2,7 +2,7 @@
 
 HOOCHIE (1) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, San Diego on Sat, 10 Oct 2026.
 
-HOOCHIE (1) is a techno and acid artist based in United States of America, tracked on soundcheck, with 7 sets logged across Sandiego. Often billed alongside AKONA, AMZEL and ARP8. Next up: TBA, Sandiego on Sat 10 Oct.
+HOOCHIE is a techno and acid artist based in United States of America, tracked on soundcheck, with 7 sets logged across San Diego. Often billed alongside AKONA, AMZEL and ARP8. Next up: TBA, San Diego on Sat 10 Oct.
 
 ## Upcoming shows
 

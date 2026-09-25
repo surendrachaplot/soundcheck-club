@@ -2,7 +2,7 @@
 
 BAAWLA is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cakeshop, Seoul on Fri, 25 Sept 2026.
 
-BAAWLA is a garage and club artist based in South Korea, tracked on soundcheck, with 37 sets logged across Bangkok, Bristol, Hongkong and London and 1 more. Often billed alongside rom (6), AEIDA and Coziest. Next up: Cakeshop, Seoul on Fri 25 Sept.
+BAAWLA is a garage and club artist based in South Korea, tracked on soundcheck, with 37 sets logged across Bangkok, Bristol, Hong Kong and London and 1 more. Often billed alongside rom, AEIDA and Coziest. Next up: Cakeshop, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 

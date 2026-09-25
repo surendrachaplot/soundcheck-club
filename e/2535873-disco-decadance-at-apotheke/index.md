@@ -1,6 +1,6 @@
 # Disco Decadance at Apotheke
 
-Disco Decadance at Apotheke on Sat 3 Oct, Losangeles. 2 acts on the bill: Dirtie Blonde and JESSICA JANE. House and Disco. Preview the line-up and save it on soundcheck.
+Disco Decadance at Apotheke on Sat 3 Oct, Los Angeles. 2 artists on the bill: Dirtie Blonde and JESSICA JANE. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

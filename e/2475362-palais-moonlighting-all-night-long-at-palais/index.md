@@ -1,6 +1,6 @@
 # Palais: Moonlighting (All Night Long) at Palais
 
-Palais: Moonlighting (All Night Long) on Sat 26 Sept, London. 3 acts on the bill: Leanne Wright, MarshmeLLo and Zakia. Preview the line-up and save it on soundcheck.
+Palais: Moonlighting (All Night Long) on Sat 26 Sept, London. 3 artists on the bill: Leanne Wright, MarshmeLLo and Zakia. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

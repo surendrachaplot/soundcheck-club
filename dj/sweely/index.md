@@ -2,7 +2,7 @@
 
 Sweely is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 9 Oct 2026.
 
-Sweely is a house and techno artist based in France, tracked on soundcheck, with 177 sets logged across All, Amsterdam, Athens and Barcelona and 47 more. Often billed alongside Enzo Siragusa, The Ghost and Traumer. Next up: Les Enfants Brillants, Barcelona on Fri 9 Oct.
+Sweely is a house and techno artist based in France, tracked on soundcheck, with 177 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 47 more. Often billed alongside Enzo Siragusa, The Ghost and Traumer. Next up: Les Enfants Brillants, Barcelona on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,7 +14,7 @@ Sweely is a house and techno artist based in France, tracked on soundcheck, with
 | Fri, 6 Nov 2026 | Flash | Washington DC |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
-| Thu, 3 Dec 2026 | The Fields at Siam Country Club | All |
+| Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
 

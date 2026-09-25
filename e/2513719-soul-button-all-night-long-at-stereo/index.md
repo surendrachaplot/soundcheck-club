@@ -1,6 +1,6 @@
 # Soul Button (All Night Long) at Stereo
 
-Soul Button (All Night Long) at Stereo on Sat 26 Sept, Montreal. 1 act on the bill: Soul Button. Preview the line-up and save it on soundcheck.
+Soul Button (All Night Long) at Stereo on Sat 26 Sept, Montreal. 1 artist on the bill: Soul Button. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PC Music presents: Pop Crypt: Crypt Cube at Colour Factory
 
-PC Music presents: Pop Crypt: Crypt Cube at Colour Factory on Sat 31 Oct, London. 4 acts on the bill: GFOTY, GRRL, Iglooghost and Sophia Stel. Preview the line-up and save it on soundcheck.
+PC Music presents: Pop Crypt: Crypt Cube at Colour Factory on Sat 31 Oct, London. 4 artists on the bill: GFOTY, GRRL, Iglooghost and Sophia Stel. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

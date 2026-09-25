@@ -1,6 +1,6 @@
 # Marco Shuttle, Sunil Sharpe, Maria Cue at CLUB RAUM
 
-Marco Shuttle, Sunil Sharpe, Maria Cue at CLUB RAUM on Sat 26 Sept, Amsterdam. 3 acts on the bill: Marco Shuttle, Maria Cue and Sunil Sharpe. Preview the line-up and save it on soundcheck.
+Marco Shuttle, Sunil Sharpe, Maria Cue at CLUB RAUM on Sat 26 Sept, Amsterdam. 3 artists on the bill: Marco Shuttle, Maria Cue and Sunil Sharpe. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

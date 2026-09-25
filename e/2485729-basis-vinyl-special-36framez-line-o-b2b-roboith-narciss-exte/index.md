@@ -1,6 +1,6 @@
 # BASIS Vinyl Special/ 36framez/ Line-O b2b ROBOITH/ Narciss [extended set] at BASIS
 
-BASIS Vinyl Special/ 36framez/ Line-O b2b ROBOITH/ Narciss [extended set] on Sat 10 Oct, Utrecht. 2 acts on the bill: 36framez and Narciss. Trance and House. Preview the line-up and save it on soundcheck.
+BASIS Vinyl Special/ 36framez/ Line-O b2b ROBOITH/ Narciss [extended set] on Sat 10 Oct, Utrecht. 2 artists on the bill: 36framez and Narciss. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

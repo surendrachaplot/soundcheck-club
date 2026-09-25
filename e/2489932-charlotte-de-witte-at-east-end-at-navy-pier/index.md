@@ -1,6 +1,6 @@
 # Charlotte de Witte at East End at Navy Pier
 
-Charlotte de Witte at East End at Navy Pier on Fri 16 Oct, Chicago. 1 act on the bill: Charlotte de Witte. Techno. Preview the line-up and save it on soundcheck.
+Charlotte de Witte at East End at Navy Pier on Fri 16 Oct, Chicago. 1 artist on the bill: Charlotte de Witte. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

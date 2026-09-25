@@ -1,6 +1,6 @@
 # PIP presents PARISH at PIP Den Haag
 
-PIP presents PARISH at PIP Den Haag on Sat 17 Oct, Thehague. 2 acts on the bill: PR1N6666R1R1 and Wolf Cutt. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
+PIP presents PARISH at PIP Den Haag on Sat 17 Oct, The Hague. 2 artists on the bill: PR1N6666R1R1 and Wolf Cutt. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

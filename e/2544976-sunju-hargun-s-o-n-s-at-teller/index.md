@@ -1,6 +1,6 @@
 # Sunju Hargun / S.O.N.S at teller
 
-Sunju Hargun / S.O.N.S at teller on Thu 8 Oct, Seoul. 2 acts on the bill: S.O.N.S and Sunju Hargun. Trance and Minimal Techno. Preview the line-up and save it on soundcheck.
+Sunju Hargun / S.O.N.S at teller on Thu 8 Oct, Seoul. 2 artists on the bill: S.O.N.S and Sunju Hargun. Trance and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

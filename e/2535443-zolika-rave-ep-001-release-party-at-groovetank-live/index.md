@@ -1,6 +1,6 @@
 # ZOLIKA - RAVE EP 001 Release Party at Groovetank Live
 
-ZOLIKA - RAVE EP 001 Release Party at Groovetank Live on Sat 3 Oct, London. 1 act on the bill: ZOLIKA. Techno. Preview the line-up and save it on soundcheck.
+ZOLIKA - RAVE EP 001 Release Party at Groovetank Live on Sat 3 Oct, London. 1 artist on the bill: ZOLIKA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

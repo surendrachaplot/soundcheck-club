@@ -1,6 +1,6 @@
 # EMAREUK & Saga Sonica PRESENT Yazzus & Kris Baha at Low Profile Studios
 
-EMAREUK & Saga Sonica PRESENT Yazzus & Kris Baha at Low Profile Studios on Sat 26 Sept, London. 4 acts on the bill: Kris Baha, Leaches, Ununu and Yazzus. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+EMAREUK & Saga Sonica PRESENT Yazzus & Kris Baha at Low Profile Studios on Sat 26 Sept, London. 4 artists on the bill: Kris Baha, Leaches, Ununu and Yazzus. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

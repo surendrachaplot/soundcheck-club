@@ -1,6 +1,6 @@
 # AMPLIFICA at Distillery N17
 
-AMPLIFICA at Distillery N17 on Sun 27 Sept, London. 3 acts on the bill: Fresh Lov3, Mowie and MSO (1). Experimental. Preview the line-up and save it on soundcheck.
+AMPLIFICA at Distillery N17 on Sun 27 Sept, London. 3 artists on the bill: Fresh Lov3, Mowie and MSO. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

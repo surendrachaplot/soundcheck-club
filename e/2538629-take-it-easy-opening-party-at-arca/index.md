@@ -1,6 +1,6 @@
 # Take It Easy Opening Party at Arca
 
-Take It Easy Opening Party at Arca on Sat 3 Oct, Milan. 4 acts on the bill: Bugsy, Fabio Alampi, Love Connection and Tayga. Techno and House. Preview the line-up and save it on soundcheck.
+Take It Easy Opening Party at Arca on Sat 3 Oct, Milan. 4 artists on the bill: Bugsy, Fabio Alampi, Love Connection and Tayga. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

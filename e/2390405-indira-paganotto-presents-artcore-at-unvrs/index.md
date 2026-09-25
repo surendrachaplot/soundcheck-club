@@ -1,6 +1,6 @@
 # Indira Paganotto presents ArtCore at [UNVRS]
 
-Indira Paganotto presents ArtCore at [UNVRS] on Thu 8 Oct, Ibiza. 5 acts on the bill: Anna Unusyan, Azyr, I Hate Models and Indira Paganotto and 1 more. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Indira Paganotto presents ArtCore at [UNVRS] on Thu 8 Oct, Ibiza. 5 artists on the bill: Anna Unusyan, Azyr, I Hate Models and Indira Paganotto and 1 more. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

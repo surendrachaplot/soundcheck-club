@@ -1,6 +1,6 @@
 # PLGRN X Threads & Thrills W/ Terry Francis at 93 Feet East
 
-PLGRN X Threads & Thrills W/ Terry Francis at 93 Feet East on Sun 27 Sept, London. 4 acts on the bill: KARBONI, Terry Francis, Tony Serban and TrebleMakers. Electronica and Minimal Techno. Preview the line-up and save it on soundcheck.
+PLGRN X Threads & Thrills W/ Terry Francis at 93 Feet East on Sun 27 Sept, London. 4 artists on the bill: KARBONI, Terry Francis, Tony Serban and TrebleMakers. Electronica and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

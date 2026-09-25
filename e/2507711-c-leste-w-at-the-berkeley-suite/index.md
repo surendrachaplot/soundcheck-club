@@ -1,6 +1,6 @@
 # Céleste W/ ***** ******* at The Berkeley Suite
 
-Céleste W/ ***** ******* at The Berkeley Suite on Fri 30 Oct, Glasgow. 1 act on the bill: Céleste. Preview the line-up and save it on soundcheck.
+Céleste W/ ***** ******* at The Berkeley Suite on Fri 30 Oct, Glasgow. 1 artist on the bill: Céleste. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

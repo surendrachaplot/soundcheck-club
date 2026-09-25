@@ -1,6 +1,6 @@
 # 18 Jahre BergWacht in Odonien with Solee, Moto Moto, Daniel Krau uvm at Odonien
 
-18 Jahre BergWacht in Odonien with Solee, Moto Moto, Daniel Krau uvm on Sat 10 Oct, Cologne. 3 acts on the bill: Liho, Moto Moto and Solee. Techno. Preview the line-up and save it on soundcheck.
+18 Jahre BergWacht in Odonien with Solee, Moto Moto, Daniel Krau uvm on Sat 10 Oct, Cologne. 3 artists on the bill: Liho, Moto Moto and Solee. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

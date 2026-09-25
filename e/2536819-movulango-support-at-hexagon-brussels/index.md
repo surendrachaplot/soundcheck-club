@@ -1,6 +1,6 @@
 # Movulango + support at Hexagon Brussels
 
-Movulango + support at Hexagon Brussels on Sat 10 Oct, Brussels. 1 act on the bill: Movulango. Preview the line-up and save it on soundcheck.
+Movulango + support at Hexagon Brussels on Sat 10 Oct, Brussels. 1 artist on the bill: Movulango. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Glayden (FI) / BLÅ at Blå
 
-Glayden (FI) / BLÅ at Blå on Fri 25 Sept, Oslo. 1 act on the bill: Glayden. Preview the line-up and save it on soundcheck.
+Glayden (FI) / BLÅ at Blå on Fri 25 Sept, Oslo. 1 artist on the bill: Glayden. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

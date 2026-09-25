@@ -1,6 +1,6 @@
 # Zurück Nach Vorne at Südpol
 
-Zurück Nach Vorne at Südpol on Sat 10 Oct, Hamburg. 6 acts on the bill: Hans Hammer, Josefina Tapia, Olga Korol and Per Hammar and 2 more. Preview the line-up and save it on soundcheck.
+Zurück Nach Vorne at Südpol on Sat 10 Oct, Hamburg. 6 artists on the bill: Hans Hammer, Josefina Tapia, Olga Korol and Per Hammar and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

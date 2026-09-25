@@ -2,7 +2,7 @@
 
 Pole Folder is a Progressive House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Akhnaton, Amsterdam on Sat, 24 Oct 2026.
 
-Pole Folder is a progressive house and minimal techno artist based in Belgium, tracked on soundcheck, with 15 sets logged across Amsterdam, Antwerp, Buenosaires and Glasgow and 2 more. Often billed alongside Hernan Cattaneo, Akira and Alain Pauwels. Next up: Akhnaton, Amsterdam on Sat 24 Oct.
+Pole Folder is a progressive house and minimal techno artist based in Belgium, tracked on soundcheck, with 15 sets logged across Amsterdam, Antwerp, Buenos Aires and Glasgow and 2 more. Often billed alongside Hernan Cattaneo, Akira and Alain Pauwels. Next up: Akhnaton, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Cristoph at Audio SF
 
-Cristoph at Audio SF on Fri 18 Dec, Sanfrancisco. 1 act on the bill: Cristoph. Preview the line-up and save it on soundcheck.
+Cristoph at Audio SF on Fri 18 Dec, San Francisco/Oakland. 1 artist on the bill: Cristoph. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

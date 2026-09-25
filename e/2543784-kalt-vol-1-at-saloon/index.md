@@ -1,6 +1,6 @@
 # KALT Vol.1 at Saloon
 
-KALT Vol.1 at Saloon on Thu 15 Oct, Tokyo. 2 acts on the bill: Dayzero and Kombé. Preview the line-up and save it on soundcheck.
+KALT Vol.1 at Saloon on Thu 15 Oct, Tokyo. 2 artists on the bill: Dayzero and Kombé. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

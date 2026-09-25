@@ -1,6 +1,6 @@
 # NEXUS: FRIDAY BEAT INFERNO at Village Underground Lisboa
 
-NEXUS: FRIDAY BEAT INFERNO at Village Underground Lisboa on Fri 30 Oct, Lisbon. 1 act on the bill: Camps (1). Amapiano and Afro Tech. Preview the line-up and save it on soundcheck.
+NEXUS: FRIDAY BEAT INFERNO at Village Underground Lisboa on Fri 30 Oct, Lisbon. 1 artist on the bill: Camps. Amapiano and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

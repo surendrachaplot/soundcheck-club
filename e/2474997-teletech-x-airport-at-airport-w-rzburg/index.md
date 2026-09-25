@@ -1,6 +1,6 @@
 # TELETECH X AIRPORT at Airport Würzburg
 
-TELETECH X AIRPORT at Airport Würzburg on Fri 16 Oct, Nurnberg. 13 acts on the bill: dasstudach, DJ maddog, GLASSBASS and Kander and 9 more. Techno. Preview the line-up and save it on soundcheck.
+TELETECH X AIRPORT at Airport Würzburg on Fri 16 Oct, Nürnberg. 13 artists on the bill: dasstudach, DJ maddog, GLASSBASS and Kander and 9 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

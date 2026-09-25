@@ -2,7 +2,7 @@
 
 Jakob Mäder is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
 
-Jakob Mäder is a house and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Dusseldorf, Frankfurt and Hamburg and 2 more. Often billed alongside Miss Evoice, Dejago and Brian Ring. Next up: Kater, Berlin on Fri 2 Oct.
+Jakob Mäder is a house and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Düsseldorf, Frankfurt and Hamburg and 2 more. Often billed alongside Miss Evoice, Dejago and Brian Ring. Next up: Kater, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 

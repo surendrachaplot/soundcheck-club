@@ -2,7 +2,7 @@
 
 TAIYO (2) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Aoyama Hachi, Tokyo on Sun, 27 Sept 2026.
 
-TAIYO (2) is a techno and industrial artist based in Japan, tracked on soundcheck, with 16 sets logged across Osaka and Tokyo. Often billed alongside EVE (1), KYLE MIKASA and RICKY. Next up: Aoyama Hachi, Tokyo on Sun 27 Sept.
+TAIYO is a techno and industrial artist based in Japan, tracked on soundcheck, with 16 sets logged across Osaka and Tokyo. Often billed alongside EVE, KYLE MIKASA and RICKY. Next up: Aoyama Hachi, Tokyo on Sun 27 Sept.
 
 ## Upcoming shows
 

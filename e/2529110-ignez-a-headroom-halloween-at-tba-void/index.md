@@ -1,6 +1,6 @@
 # Ignez: A Headroom Halloween at TBA - VOID
 
-Ignez: A Headroom Halloween at TBA - VOID on Sat 31 Oct, Denver. 4 acts on the bill: Hermans, Ignez, Kyle Kerns and ZIL (US). Techno and House. Preview the line-up and save it on soundcheck.
+Ignez: A Headroom Halloween at TBA - VOID on Sat 31 Oct, Denver. 4 artists on the bill: Hermans, Ignez, Kyle Kerns and ZIL (US). Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # WKND X SPEECHLESS at Weekend
 
-WKND X SPEECHLESS at Weekend on Fri 18 Dec, Berlin. 1 act on the bill: Pascale Voltaire. Techno and House. Preview the line-up and save it on soundcheck.
+WKND X SPEECHLESS at Weekend on Fri 18 Dec, Berlin. 1 artist on the bill: Pascale Voltaire. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

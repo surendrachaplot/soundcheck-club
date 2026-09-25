@@ -1,6 +1,6 @@
 # Jezabel x Doka Studio with David Vunk - Kahorsa - MMIV at Doka
 
-Jezabel x Doka Studio with David Vunk - Kahorsa - MMIV on Sat 31 Oct, Amsterdam. 3 acts on the bill: David Vunk, MMIV and Shady Lady. Italo Disco. Preview the line-up and save it on soundcheck.
+Jezabel x Doka Studio with David Vunk - Kahorsa - MMIV on Sat 31 Oct, Amsterdam. 3 artists on the bill: David Vunk, MMIV and Shady Lady. Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

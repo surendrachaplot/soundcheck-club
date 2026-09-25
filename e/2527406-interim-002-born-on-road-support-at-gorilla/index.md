@@ -1,6 +1,6 @@
 # Interim_002: Born On Road + Support at Gorilla
 
-Interim_002: Born On Road + Support at Gorilla on Thu 22 Oct, Manchester. 4 acts on the bill: Aries, DAIZ, Kelvin 373 and Simmo.. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Interim_002: Born On Road + Support at Gorilla on Thu 22 Oct, Manchester. 4 artists on the bill: Aries, DAIZ, Kelvin 373 and Simmo.. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

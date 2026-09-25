@@ -1,6 +1,6 @@
 # KCRW presents Tricky at The Bellwether
 
-KCRW presents Tricky at The Bellwether on Thu 24 Sept, Losangeles. R&B and Electronica. Preview the line-up and save it on soundcheck.
+KCRW presents Tricky at The Bellwether on Thu 24 Sept, Los Angeles. R&B and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

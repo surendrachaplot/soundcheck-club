@@ -2,7 +2,7 @@
 
 Dreimal T is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
 
-Dreimal T is a techno and house artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Leipzig, Munich and Warsaw. Often billed alongside degen, Leone Knight and mole (2). Next up: Distillery, Leipzig on Sat 26 Sept.
+Dreimal T is a techno and house artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Leipzig, Munich and Warsaw. Often billed alongside degen, Leone Knight and mole. Next up: Distillery, Leipzig on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # UNFACED with ECZODIA, Jacidorex, Protokseed, VILAIN at C12
 
-UNFACED with ECZODIA, Jacidorex, Protokseed, VILAIN at C12 on Fri 25 Sept, Brussels. 5 acts on the bill: ECZODIA, Heavora, Jacidorex and Protokseed and 1 more. Techno. Preview the line-up and save it on soundcheck.
+UNFACED with ECZODIA, Jacidorex, Protokseed, VILAIN at C12 on Fri 25 Sept, Brussels. 5 artists on the bill: ECZODIA, Heavora, Jacidorex and Protokseed and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

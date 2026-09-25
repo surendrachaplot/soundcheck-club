@@ -1,6 +1,6 @@
 # Tomodachi w/ Cabanne at Tomodachi
 
-Tomodachi w/ Cabanne on Fri 25 Sept, Ibiza. 1 act on the bill: Cabanne. House and Minimal. Preview the line-up and save it on soundcheck.
+Tomodachi w/ Cabanne on Fri 25 Sept, Ibiza. 1 artist on the bill: Cabanne. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

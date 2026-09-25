@@ -1,6 +1,6 @@
 # STUDIO 69 w/ DJ ASS TITS, DJ BUSINESS, Wall Ra at Goldener Reiter
 
-STUDIO 69 w/ DJ ASS TITS, DJ BUSINESS, Wall Ra at Goldener Reiter on Sat 17 Oct, Munich. 3 acts on the bill: DJ ASS TITS, DJ Business (2) and Wall Ra. House and Bass. Preview the line-up and save it on soundcheck.
+STUDIO 69 w/ DJ ASS TITS, DJ BUSINESS, Wall Ra at Goldener Reiter on Sat 17 Oct, Munich. 3 artists on the bill: DJ ASS TITS, DJ Business and Wall Ra. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Radio Hito + Suzan Peeters at Beursschouwburg
 
-Radio Hito + Suzan Peeters at Beursschouwburg on Fri 9 Oct, Brussels. 1 act on the bill: Radio Hito. Preview the line-up and save it on soundcheck.
+Radio Hito + Suzan Peeters at Beursschouwburg on Fri 9 Oct, Brussels. 1 artist on the bill: Radio Hito. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

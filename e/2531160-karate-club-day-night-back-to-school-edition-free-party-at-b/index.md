@@ -1,6 +1,6 @@
 # Karate Club [Day&Night]: Back to School Edition (Free party) at Bike Jesus
 
-Karate Club [Day&Night]: Back to School Edition (Free party) at Bike Jesus on Sat 26 Sept, Prague. 7 acts on the bill: 3TB (1), aláya, Jemazzz and Misha Jaru and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Karate Club [Day&Night]: Back to School Edition (Free party) at Bike Jesus on Sat 26 Sept, Prague. 7 artists on the bill: 3TB, aláya, Jemazzz and Misha Jaru and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

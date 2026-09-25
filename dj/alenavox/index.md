@@ -2,7 +2,7 @@
 
 Alena Vox is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location , Mexico City on Sat, 10 Oct 2026.
 
-Alena Vox is a house and deep house artist based in Mexico, tracked on soundcheck, with 70 sets logged across Mexicocity, Portland and Sandiego. Often billed alongside Duke Skylocker (Disco Dust), Miss Voltaghe and Rubinskee. Next up: TBA - Secret Location , Mexicocity on Sat 10 Oct.
+Alena Vox is a house and deep house artist based in Mexico, tracked on soundcheck, with 70 sets logged across Mexico City, Portland and San Diego. Often billed alongside Duke Skylocker (Disco Dust), Miss Voltaghe and Rubinskee. Next up: TBA - Secret Location , Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 

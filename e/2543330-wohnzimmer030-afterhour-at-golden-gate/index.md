@@ -1,6 +1,6 @@
 # Wohnzimmer030 + Afterhour at Golden Gate
 
-Wohnzimmer030 + Afterhour at Golden Gate on Fri 2 Oct, Berlin. 7 acts on the bill: Ana Molina, Anestis, Badanka and heinrich grooves and 3 more. Preview the line-up and save it on soundcheck.
+Wohnzimmer030 + Afterhour at Golden Gate on Fri 2 Oct, Berlin. 7 artists on the bill: Ana Molina, Anestis, Badanka and heinrich grooves and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

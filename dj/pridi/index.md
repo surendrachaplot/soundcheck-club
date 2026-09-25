@@ -2,7 +2,7 @@
 
 Pridi is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at UMI, Brussels on Sat, 26 Sept 2026.
 
-Pridi is a tech house and house artist based in Belarus, tracked on soundcheck, with 28 sets logged across Antwerp, Berlin, Brussels and Hamburg and 3 more. Often billed alongside Plastik (1), Ilya Semashkevich and Shjva. Next up: UMI, Brussels on Sat 26 Sept.
+Pridi is a tech house and house artist based in Belarus, tracked on soundcheck, with 28 sets logged across Antwerp, Berlin, Brussels and Hamburg and 3 more. Often billed alongside Plastik, Ilya Semashkevich and Shjva. Next up: UMI, Brussels on Sat 26 Sept.
 
 ## Upcoming shows
 

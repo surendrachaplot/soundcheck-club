@@ -1,6 +1,6 @@
 # Sacré présente: Bag Raiders & Dessins Nuls Animés at Sacré
 
-Sacré présente: Bag Raiders & Dessins Nuls Animés on Sat 3 Oct, Paris. 1 act on the bill: Bag Raiders. House. Preview the line-up and save it on soundcheck.
+Sacré présente: Bag Raiders & Dessins Nuls Animés on Sat 3 Oct, Paris. 1 artist on the bill: Bag Raiders. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

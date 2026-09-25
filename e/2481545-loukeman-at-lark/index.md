@@ -1,6 +1,6 @@
 # Loukeman at Lark
 
-Loukeman at Lark on Thu 29 Oct, Berlin. 1 act on the bill: Loukeman. Ambient and Club. Preview the line-up and save it on soundcheck.
+Loukeman at Lark on Thu 29 Oct, Berlin. 1 artist on the bill: Loukeman. Ambient and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

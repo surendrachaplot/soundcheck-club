@@ -1,6 +1,6 @@
 # 'Some Like It Early' presents: Colleen 'Cosmo' Murphy at Cobalt Studios
 
-'Some Like It Early' presents: Colleen 'Cosmo' Murphy at Cobalt Studios on Sat 17 Oct, Newcastle. 1 act on the bill: Colleen 'Cosmo' Murphy. Preview the line-up and save it on soundcheck.
+'Some Like It Early' presents: Colleen 'Cosmo' Murphy at Cobalt Studios on Sat 17 Oct, Newcastle. 1 artist on the bill: Colleen 'Cosmo' Murphy. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

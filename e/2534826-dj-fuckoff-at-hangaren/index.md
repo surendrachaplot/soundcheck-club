@@ -1,6 +1,6 @@
 # DJ Fuckoff at Hangaren
 
-DJ Fuckoff at Hangaren on Sat 5 Dec, Copenhagen. 1 act on the bill: DJ Fuckoff. Trance and House. Preview the line-up and save it on soundcheck.
+DJ Fuckoff at Hangaren on Sat 5 Dec, Copenhagen. 1 artist on the bill: DJ Fuckoff. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

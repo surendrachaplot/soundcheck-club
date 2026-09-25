@@ -1,6 +1,6 @@
 # Knight Club: Spray at Floyd
 
-Knight Club: Spray at Floyd on Sun 27 Sept, Miami. 2 acts on the bill: Cole Knight and Spray. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+Knight Club: Spray at Floyd on Sun 27 Sept, Miami. 2 artists on the bill: Cole Knight and Spray. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

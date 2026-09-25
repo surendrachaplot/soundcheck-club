@@ -1,6 +1,6 @@
 # Vitess To Grand V 𝘈𝘭𝘭 𝘓𝘪𝘷𝘦 𝘓𝘰𝘯𝘨 au Cabaret Sauvage at Cabaret Sauvage
 
-Vitess To Grand V 𝘈𝘭𝘭 𝘓𝘪𝘷𝘦 𝘓𝘰𝘯𝘨 au Cabaret Sauvage on Fri 20 Nov, Paris. 2 acts on the bill: Grand V and Vitess. Trance and House. Preview the line-up and save it on soundcheck.
+Vitess To Grand V 𝘈𝘭𝘭 𝘓𝘪𝘷𝘦 𝘓𝘰𝘯𝘨 au Cabaret Sauvage on Fri 20 Nov, Paris. 2 artists on the bill: Grand V and Vitess. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

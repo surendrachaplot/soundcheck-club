@@ -1,6 +1,6 @@
 # tear club is back ★ at La Machine Du Moulin Rouge
 
-tear club is back ★ at La Machine Du Moulin Rouge on Sat 10 Oct, Paris. 7 acts on the bill: amne, Blood of Aza, fetva and Golce and 3 more. Experimental and Club. Preview the line-up and save it on soundcheck.
+tear club is back ★ at La Machine Du Moulin Rouge on Sat 10 Oct, Paris. 7 artists on the bill: amne, Blood of Aza, fetva and Golce and 3 more. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

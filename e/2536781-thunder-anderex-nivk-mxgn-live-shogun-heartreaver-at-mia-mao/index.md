@@ -1,6 +1,6 @@
 # Thunder: Anderex, Nivk, MXGN (Live), Shogun, Heartreaver at Mia Mao
 
-Thunder: Anderex, Nivk, MXGN (Live), Shogun, Heartreaver at Mia Mao on Fri 23 Oct, Paris. 2 acts on the bill: MXGN and Shogun. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Thunder: Anderex, Nivk, MXGN (Live), Shogun, Heartreaver at Mia Mao on Fri 23 Oct, Paris. 2 artists on the bill: MXGN and Shogun. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

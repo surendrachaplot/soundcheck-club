@@ -2,7 +2,7 @@
 
 Oso Feo (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 23 Oct 2026.
 
-Oso Feo (2) is a techno and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Newyorkcity, Portland and Sanfrancisco. Often billed alongside Eichef, Mozhgan and llloyd (US). Next up: Underground SF, Sanfrancisco on Fri 23 Oct.
+Oso Feo is a techno and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across New York City, Portland and San Francisco/Oakland. Often billed alongside Eichef, Mozhgan and llloyd (US). Next up: Underground SF, San Francisco/Oakland on Fri 23 Oct.
 
 ## Upcoming shows
 

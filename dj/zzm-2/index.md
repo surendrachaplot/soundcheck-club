@@ -2,7 +2,7 @@
 
 zzm (2) is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OIL Club, Shenzhen on Wed, 30 Sept 2026.
 
-zzm (2) is a club and techno artist based in China, tracked on soundcheck, with 66 sets logged across Seoul and Shenzhen. Often billed alongside DJ 86, Beibeilon and Sirens. Next up: OIL Club, Shenzhen on Wed 30 Sept.
+zzm is a club and techno artist based in China, tracked on soundcheck, with 66 sets logged across Seoul and Shenzhen. Often billed alongside DJ 86, Beibeilon and Sirens. Next up: OIL Club, Shenzhen on Wed 30 Sept.
 
 ## Upcoming shows
 

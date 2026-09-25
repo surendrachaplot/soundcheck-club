@@ -1,6 +1,6 @@
 # License To Jungle: Gremlinz b2b Vega at Wharf Chambers
 
-License To Jungle: Gremlinz b2b Vega at Wharf Chambers on Fri 25 Sept, Leeds. 4 acts on the bill: Diverge, Gremlinz, Ruffhouse and Solo (3). Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+License To Jungle: Gremlinz b2b Vega at Wharf Chambers on Fri 25 Sept, Leeds. 4 artists on the bill: Diverge, Gremlinz, Ruffhouse and Solo. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

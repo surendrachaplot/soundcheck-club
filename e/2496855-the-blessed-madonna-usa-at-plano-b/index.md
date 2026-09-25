@@ -1,6 +1,6 @@
 # The Blessed Madonna (USA) at Plano B
 
-The Blessed Madonna (USA) at Plano B on Sat 5 Dec, Porto. 1 act on the bill: The Blessed Madonna. Techno and House. Preview the line-up and save it on soundcheck.
+The Blessed Madonna (USA) at Plano B on Sat 5 Dec, Porto. 1 artist on the bill: The Blessed Madonna. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

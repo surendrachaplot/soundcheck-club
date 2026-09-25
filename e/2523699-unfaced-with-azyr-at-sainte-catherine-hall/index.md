@@ -1,6 +1,6 @@
 # UNFACED with Azyr at Sainte-Catherine Hall
 
-UNFACED with Azyr at Sainte-Catherine Hall on Fri 23 Oct, Montreal. 3 acts on the bill: Alley Kay, Azyr and LAPA XII. Techno. Preview the line-up and save it on soundcheck.
+UNFACED with Azyr at Sainte-Catherine Hall on Fri 23 Oct, Montreal. 3 artists on the bill: Alley Kay, Azyr and LAPA XII. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

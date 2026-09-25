@@ -1,6 +1,6 @@
 # A Day with Dimitri From Paris at Night Tales
 
-A Day with Dimitri From Paris at Night Tales on Sat 28 Nov, London. 1 act on the bill: Dimitri From Paris. House and Disco. Preview the line-up and save it on soundcheck.
+A Day with Dimitri From Paris at Night Tales on Sat 28 Nov, London. 1 artist on the bill: Dimitri From Paris. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

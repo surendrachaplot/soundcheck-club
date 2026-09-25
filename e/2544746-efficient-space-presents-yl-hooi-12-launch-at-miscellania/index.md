@@ -1,6 +1,6 @@
 # Efficient Space presents: YL HOOI 12" Launch at Miscellania
 
-Efficient Space presents: YL HOOI 12" Launch at Miscellania on Fri 2 Oct, Melbourne. 2 acts on the bill: Darcy Justice and DJ Mum. Preview the line-up and save it on soundcheck.
+Efficient Space presents: YL HOOI 12" Launch at Miscellania on Fri 2 Oct, Melbourne. 2 artists on the bill: Darcy Justice and DJ Mum. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

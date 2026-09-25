@@ -2,7 +2,7 @@
 
 yaego is a Electronica and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BERHTA, Washington DC on Sat, 31 Oct 2026.
 
-yaego is an electronica and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across London, Losangeles, Mexicocity and Miami and 5 more. Often billed alongside CFCF, Doss and POiSON GiRL FRiEND. Next up: BERHTA, Washingtondc on Sat 31 Oct.
+yaego is an electronica and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across London, Los Angeles, Mexico City and Miami and 5 more. Often billed alongside CFCF, Doss and POiSON GiRL FRiEND. Next up: BERHTA, Washington DC on Sat 31 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # observer radar Pres. APRILE,DON,PABLO MAYORGA,ENZOSLAV at Absenta del Raval
 
-observer radar Pres. APRILE,DON,PABLO MAYORGA,ENZOSLAV at Absenta del Raval on Wed 30 Sept, Barcelona. 2 acts on the bill: Dön (1) and ENZOSLAV. Techno and Electronica. Preview the line-up and save it on soundcheck.
+observer radar Pres. APRILE,DON,PABLO MAYORGA,ENZOSLAV at Absenta del Raval on Wed 30 Sept, Barcelona. 2 artists on the bill: Dön and ENZOSLAV. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

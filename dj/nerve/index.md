@@ -2,7 +2,7 @@
 
 Nerve is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
 
-Nerve is a bass and experimental artist based in Australia, tracked on soundcheck, with 10 sets logged across Berlin, Hongkong, Melbourne and Sydney. Often billed alongside Emelyne, Moopie and Sybil. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
+Nerve is a bass and experimental artist based in Australia, tracked on soundcheck, with 10 sets logged across Berlin, Hong Kong, Melbourne and Sydney. Often billed alongside Emelyne, Moopie and Sybil. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 

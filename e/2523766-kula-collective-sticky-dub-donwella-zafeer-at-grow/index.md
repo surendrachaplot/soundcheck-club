@@ -1,6 +1,6 @@
 # Kula Collective: Sticky Dub, donwella, Zafeer at Grow
 
-Kula Collective: Sticky Dub, donwella, Zafeer at Grow on Sat 26 Sept, London. 2 acts on the bill: donwella and Sticky Dub. House and Broken Beat. Preview the line-up and save it on soundcheck.
+Kula Collective: Sticky Dub, donwella, Zafeer at Grow on Sat 26 Sept, London. 2 artists on the bill: donwella and Sticky Dub. House and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

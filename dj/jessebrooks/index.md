@@ -2,7 +2,7 @@
 
 Jesse Brooks is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
-Jesse Brooks is a house and breakbeat artist based in United States of America, tracked on soundcheck, with 15 sets logged across Losangeles. Often billed alongside Fester, Animal Kontrol and Danny Zee. Next up: TBA, Losangeles on Sun 27 Sept.
+Jesse Brooks is a house and breakbeat artist based in United States of America, tracked on soundcheck, with 15 sets logged across Los Angeles. Often billed alongside Fester, Animal Kontrol and Danny Zee. Next up: TBA, Los Angeles on Sun 27 Sept.
 
 ## Upcoming shows
 

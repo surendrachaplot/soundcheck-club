@@ -1,6 +1,6 @@
 # Time Warp Los Angeles 2026 at Ace*Mission Studios
 
-Time Warp Los Angeles 2026 at Ace*Mission Studios on Fri 27 Nov, Losangeles. Techno and House. Preview the line-up and save it on soundcheck.
+Time Warp Los Angeles 2026 at Ace*Mission Studios on Fri 27 Nov, Los Angeles. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

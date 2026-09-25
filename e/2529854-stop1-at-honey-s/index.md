@@ -1,6 +1,6 @@
 # Stop1 at Honey's
 
-Stop1 at Honey's on Sat 26 Sept, Newyorkcity. 8 acts on the bill: Aria Pash, Iggy Nuclear, Kettle and MIARISUA and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Stop1 at Honey's on Sat 26 Sept, New York City. 8 artists on the bill: Aria Pash, Iggy Nuclear, Kettle and MIARISUA and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

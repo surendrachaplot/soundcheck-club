@@ -12,7 +12,7 @@ Bal Chavaux is a music venue in Paris listed on soundcheck. 6 upcoming gigs, wit
 | Sat, 3 Oct 2026 | TETE VIDE à Bal Chavaux: Ma Sha, Aloka, Acide Plastique b2b b3bz, Xea b2b Hyperlison | Aloka, Hyperlison, Ma Sha, acideplastique, b3bz, xea (1) |
 | Fri, 9 Oct 2026 | Volteface Anniversary | Adam Pits, Dual Monitor, Egna, Kasper Marott, MARIAD |
 | Sat, 17 Oct 2026 | House An Nou | Tijo Aimé |
-| Sat, 24 Oct 2026 | VOLTAGE + D.KO Records : Canine Cracks (live), Vardae, Jan Loup, Camion Bazar | Camion Bazar, Canine Cracks, Jan Loup, Vardae |
+| Sat, 24 Oct 2026 | VOLTAGE + D.KO Records : Canine Cracks (live), Vardae, Jan Loup, Camion Bazar, GGGG | Camion Bazar, Canine Cracks, GGGG, Jan Loup, Vardae |
 | Sat, 31 Oct 2026 | Discoquette Halloween: Carrie | Azo, Cheriii, Fenouil2000 |
 
 ## Address

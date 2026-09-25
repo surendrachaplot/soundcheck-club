@@ -1,6 +1,6 @@
 # Bitch Planet: Barbazon presents Big Freedia at Don Quixote
 
-Bitch Planet: Barbazon presents Big Freedia at Don Quixote on Fri 6 Nov, Losangeles. 3 acts on the bill: Cquestt, Star Amerasu and UNiiQU3. Club. Preview the line-up and save it on soundcheck.
+Bitch Planet: Barbazon presents Big Freedia at Don Quixote on Fri 6 Nov, Los Angeles. 3 artists on the bill: Cquestt, Star Amerasu and UNiiQU3. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

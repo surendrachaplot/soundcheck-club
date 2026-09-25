@@ -1,6 +1,6 @@
 # Canned Heat with Roland Gonzales at Sans Soleil
 
-Canned Heat with Roland Gonzales at Sans Soleil on Sun 25 Oct, Montreal. 1 act on the bill: Roland Gonzales. House and Disco. Preview the line-up and save it on soundcheck.
+Canned Heat with Roland Gonzales at Sans Soleil on Sun 25 Oct, Montreal. 1 artist on the bill: Roland Gonzales. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

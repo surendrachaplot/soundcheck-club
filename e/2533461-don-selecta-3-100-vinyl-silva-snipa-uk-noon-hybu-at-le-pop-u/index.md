@@ -1,6 +1,6 @@
 # DON SELECTA #3 (100% Vinyl): Silva Snipa (UK), NOON, Hybu at Le Pop-Up du Label
 
-DON SELECTA #3 (100% Vinyl): Silva Snipa (UK), NOON, Hybu at Le Pop-Up du Label on Fri 2 Oct, Paris. 3 acts on the bill: Hybu, NOON and Silva Snipa. Bass and Jungle. Preview the line-up and save it on soundcheck.
+DON SELECTA #3 (100% Vinyl): Silva Snipa (UK), NOON, Hybu at Le Pop-Up du Label on Fri 2 Oct, Paris. 3 artists on the bill: Hybu, NOON and Silva Snipa. Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

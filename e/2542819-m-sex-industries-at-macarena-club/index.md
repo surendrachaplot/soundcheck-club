@@ -1,6 +1,6 @@
 # Müsex Industries at Macarena Club
 
-Müsex Industries at Macarena Club on Fri 16 Oct, Barcelona. 2 acts on the bill: Iñigo Díaz and Regina Star. Preview the line-up and save it on soundcheck.
+Müsex Industries at Macarena Club on Fri 16 Oct, Barcelona. 2 artists on the bill: Iñigo Díaz and Regina Star. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

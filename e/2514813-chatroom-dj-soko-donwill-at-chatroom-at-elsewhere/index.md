@@ -1,6 +1,6 @@
 # Chatroom: DJ Soko + Donwill at Chatroom at Elsewhere
 
-Chatroom: DJ Soko + Donwill at Chatroom at Elsewhere on Sat 26 Sept, Newyorkcity. 1 act on the bill: Donwill. Preview the line-up and save it on soundcheck.
+Chatroom: DJ Soko + Donwill at Chatroom at Elsewhere on Sat 26 Sept, New York City. 1 artist on the bill: Donwill. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

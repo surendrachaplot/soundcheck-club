@@ -1,6 +1,6 @@
 # Convida x Groovy Castle at Système
 
-Convida x Groovy Castle at Système on Fri 25 Sept, Montreal. 2 acts on the bill: Barbara Boeing and Jean Pascal Groove. Preview the line-up and save it on soundcheck.
+Convida x Groovy Castle at Système on Fri 25 Sept, Montreal. 2 artists on the bill: Barbara Boeing and Jean Pascal Groove. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

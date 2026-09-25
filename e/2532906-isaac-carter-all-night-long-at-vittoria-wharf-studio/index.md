@@ -1,6 +1,6 @@
 # Isaac Carter - All Night Long at Vittoria Wharf Studio
 
-Isaac Carter - All Night Long at Vittoria Wharf Studio on Sat 21 Nov, London. 1 act on the bill: Isaac Carter. House and Tech House. Preview the line-up and save it on soundcheck.
+Isaac Carter - All Night Long at Vittoria Wharf Studio on Sat 21 Nov, London. 1 artist on the bill: Isaac Carter. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

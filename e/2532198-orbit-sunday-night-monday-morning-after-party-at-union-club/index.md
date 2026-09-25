@@ -1,6 +1,6 @@
 # Orbit Sunday night / Monday morning after party at Union Club, Vauxhall
 
-Orbit Sunday night / Monday morning after party at Union Club, Vauxhall on Sun 18 Oct, London. 1 act on the bill: Thomas Galbardi. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Orbit Sunday night / Monday morning after party at Union Club, Vauxhall on Sun 18 Oct, London. 1 artist on the bill: Thomas Galbardi. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

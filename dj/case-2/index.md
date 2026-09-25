@@ -2,7 +2,7 @@
 
 Case (2) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Fox and Firkin, London on Thu, 24 Sept 2026.
 
-Case (2) is an electro and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Emerald, Klose One and D.N.S. Next up: The Fox and Firkin, London on Thu 24 Sept.
+Case is an electro and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Emerald, Klose One and D.N.S. Next up: The Fox and Firkin, London on Thu 24 Sept.
 
 ## Upcoming shows
 

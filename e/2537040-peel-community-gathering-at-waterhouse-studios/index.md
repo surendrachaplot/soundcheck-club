@@ -1,6 +1,6 @@
 # PEEL Community Gathering at Waterhouse Studios
 
-PEEL Community Gathering at Waterhouse Studios on Sat 3 Oct, Amsterdam. 4 acts on the bill: Encomio, Kaikaina, Terrakin and Uksimo. Preview the line-up and save it on soundcheck.
+PEEL Community Gathering at Waterhouse Studios on Sat 3 Oct, Amsterdam. 4 artists on the bill: Encomio, Kaikaina, Terrakin and Uksimo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

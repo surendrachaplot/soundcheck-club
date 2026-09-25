@@ -1,6 +1,6 @@
 # Feel The Real: Rap Saunders, Frederick at People's Leisure Club
 
-Feel The Real: Rap Saunders, Frederick at People's Leisure Club on Sat 7 Nov, Edinburgh. 2 acts on the bill: Frederick (UK) and Rap Saunders. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Feel The Real: Rap Saunders, Frederick at People's Leisure Club on Sat 7 Nov, Edinburgh. 2 artists on the bill: Frederick (UK) and Rap Saunders. Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

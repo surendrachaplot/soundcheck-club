@@ -1,6 +1,6 @@
 # Klangkarussell pres. Bias Beach at Ritter Butzke
 
-Klangkarussell pres. Bias Beach at Ritter Butzke on Sat 21 Nov, Berlin. 1 act on the bill: Klangkarussell. Techno. Preview the line-up and save it on soundcheck.
+Klangkarussell pres. Bias Beach at Ritter Butzke on Sat 21 Nov, Berlin. 1 artist on the bill: Klangkarussell. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

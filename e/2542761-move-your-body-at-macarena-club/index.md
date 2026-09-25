@@ -1,6 +1,6 @@
 # Move Your Body at Macarena Club
 
-Move Your Body at Macarena Club on Sun 4 Oct, Barcelona. 2 acts on the bill: Cabanelas and Villaça. Preview the line-up and save it on soundcheck.
+Move Your Body at Macarena Club on Sun 4 Oct, Barcelona. 2 artists on the bill: Cabanelas and Villaça. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

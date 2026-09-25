@@ -2,7 +2,7 @@
 
 Ana Luisa is a Latin Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cafeteria, Toronto on Fri, 25 Sept 2026.
 
-Ana Luisa is a latin bass and club artist based in Venezuela, tracked on soundcheck, with 63 sets logged across Montreal, Toronto and Vancouver. Often billed alongside Sofia Fly, Litney and HVN (1). Next up: Cafeteria, Toronto on Fri 25 Sept.
+Ana Luisa is a latin bass and club artist based in Venezuela, tracked on soundcheck, with 63 sets logged across Montreal, Toronto and Vancouver. Often billed alongside Sofia Fly, Litney and HVN. Next up: Cafeteria, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 

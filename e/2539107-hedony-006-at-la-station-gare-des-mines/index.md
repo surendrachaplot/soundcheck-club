@@ -1,6 +1,6 @@
 # HEDONY 006 at La Station - Gare des Mines
 
-HEDONY 006 at La Station - Gare des Mines on Sun 11 Oct, Paris. 3 acts on the bill: A.Litique, Equus Belli and Litoshka. Techno. Preview the line-up and save it on soundcheck.
+HEDONY 006 at La Station - Gare des Mines on Sun 11 Oct, Paris. 3 artists on the bill: A.Litique, Equus Belli and Litoshka. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

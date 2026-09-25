@@ -1,6 +1,6 @@
 # Hoxton Cabal: sima k, Benebe, Josh Hurst (Vinyl Only) at Hoxton Cabin
 
-Hoxton Cabal: sima k, Benebe, Josh Hurst (Vinyl Only) at Hoxton Cabin on Fri 9 Oct, London. 2 acts on the bill: Benebe and sima k. House and Acid. Preview the line-up and save it on soundcheck.
+Hoxton Cabal: sima k, Benebe, Josh Hurst (Vinyl Only) at Hoxton Cabin on Fri 9 Oct, London. 2 artists on the bill: Benebe and sima k. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

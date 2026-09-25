@@ -1,6 +1,6 @@
 # DRUCK at TBA
 
-DRUCK at TBA on Thu 8 Oct, Mexicocity. Techno and Electronica. Preview the line-up and save it on soundcheck.
+DRUCK at TBA on Thu 8 Oct, Mexico City. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

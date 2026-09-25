@@ -1,6 +1,6 @@
 # The Gasolina Reggaeton Party Nightclub at Nexo
 
-The Gasolina Reggaeton Party Nightclub at Nexo on Sat 3 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+The Gasolina Reggaeton Party Nightclub at Nexo on Sat 3 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

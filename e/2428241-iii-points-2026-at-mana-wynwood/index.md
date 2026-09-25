@@ -1,6 +1,6 @@
 # III Points 2026 at Mana Wynwood
 
-III Points 2026 at Mana Wynwood on Fri 16 Oct, Miami. 218 acts on the bill: ¥ØU$UK€ ¥UK1MAT$U, 619!, 999999999 and AABEL and 214 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+III Points 2026 at Mana Wynwood on Fri 16 Oct, Miami. 218 artists on the bill: ¥ØU$UK€ ¥UK1MAT$U, 619!, 999999999 and AABEL and 214 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

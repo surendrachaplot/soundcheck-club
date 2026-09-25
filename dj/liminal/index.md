@@ -2,7 +2,7 @@
 
 Liminal is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spkrbox, Detroit on Thu, 29 Oct 2026.
 
-Liminal is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Berlin and Detroit. Often billed alongside Tylr, .hisham and AIDEL. Next up: Spkrbox, Detroit on Thu 29 Oct.
+Liminal is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Berlin and Detroit. Often billed alongside .hisham, Tylr and AIDEL. Next up: Spkrbox, Detroit on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ Liminal is a techno and house artist based in United States of America, tracked 
 
 ## Shares bills with
 
-Tylr, .hisham, AIDEL
+.hisham, Tylr, AIDEL
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liminal/)*

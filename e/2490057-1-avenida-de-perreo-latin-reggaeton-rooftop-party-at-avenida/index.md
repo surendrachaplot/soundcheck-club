@@ -1,6 +1,6 @@
 # #1 AVENIDA DE PERREO - Latin Reggaeton Rooftop Party at Avenida NYC
 
-#1 AVENIDA DE PERREO - Latin Reggaeton Rooftop Party at Avenida NYC on Fri 2 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+#1 AVENIDA DE PERREO - Latin Reggaeton Rooftop Party at Avenida NYC on Fri 2 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

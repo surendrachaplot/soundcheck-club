@@ -1,6 +1,6 @@
 # Boddhi Satva invite Blck Mamba & Fresh Nunas at Djoon
 
-Boddhi Satva invite Blck Mamba & Fresh Nunas at Djoon on Sat 26 Sept, Paris. 2 acts on the bill: Blck Mamba and Boddhi Satva. House and Afro House. Preview the line-up and save it on soundcheck.
+Boddhi Satva invite Blck Mamba & Fresh Nunas at Djoon on Sat 26 Sept, Paris. 2 artists on the bill: Blck Mamba and Boddhi Satva. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

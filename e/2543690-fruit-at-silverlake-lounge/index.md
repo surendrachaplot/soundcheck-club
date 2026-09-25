@@ -1,6 +1,6 @@
 # Fruit at Silverlake Lounge
 
-Fruit at Silverlake Lounge on Sat 26 Sept, Losangeles. House and Disco. Preview the line-up and save it on soundcheck.
+Fruit at Silverlake Lounge on Sat 26 Sept, Los Angeles. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

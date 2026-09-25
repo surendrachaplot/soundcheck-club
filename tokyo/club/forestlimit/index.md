@@ -1,8 +1,8 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "'Viva! party'" on Thu, 24 Sept 2026.
+Forestlimit is a music venue in Tokyo with 23 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "'Viva! party'" on Thu, 24 Sept 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including Acidclank, Aki Dolanikov, ANiIIIIiiiKii and Ayato and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 23 upcoming gigs, with line-ups including Acidclank, Aki Dolanikov, ANiIIIIiiiKii and Ayato and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 

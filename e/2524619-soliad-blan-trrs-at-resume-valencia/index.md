@@ -1,6 +1,6 @@
 # Soliad, blan.trrs at Resume Valencia
 
-Soliad, blan.trrs at Resume Valencia on Fri 25 Sept, Valencia. 2 acts on the bill: blan.trrs and Soliad. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Soliad, blan.trrs at Resume Valencia on Fri 25 Sept, Valencia. 2 artists on the bill: blan.trrs and Soliad. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

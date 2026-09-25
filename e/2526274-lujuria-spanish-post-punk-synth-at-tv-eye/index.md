@@ -1,6 +1,6 @@
 # Lujuria: Spanish Post Punk & Synth at TV EYE
 
-Lujuria: Spanish Post Punk & Synth at TV EYE on Sat 26 Sept, Newyorkcity. 1 act on the bill: Ivy Oh. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
+Lujuria: Spanish Post Punk & Synth at TV EYE on Sat 26 Sept, New York City. 1 artist on the bill: Ivy Oh. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

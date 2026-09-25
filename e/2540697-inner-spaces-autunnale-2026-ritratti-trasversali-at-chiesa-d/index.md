@@ -1,6 +1,6 @@
 # INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI at Chiesa di San Fedele
 
-INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI at Chiesa di San Fedele on Mon 30 Nov, Milan. 1 act on the bill: Robert Lippok. Preview the line-up and save it on soundcheck.
+INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI at Chiesa di San Fedele on Mon 30 Nov, Milan. 1 artist on the bill: Robert Lippok. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

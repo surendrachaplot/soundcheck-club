@@ -2,7 +2,7 @@
 
 Isaac Soto is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at nueve cero nueve, Mexico City on Thu, 24 Sept 2026.
 
-Isaac Soto is an experimental and electronica artist based in Mexico, tracked on soundcheck, with 19 sets logged across Detroit and Mexicocity. Often billed alongside Jiony, MNTY and Omer Tayar. Next up: nueve cero nueve, Mexicocity on Thu 24 Sept.
+Isaac Soto is an experimental and electronica artist based in Mexico, tracked on soundcheck, with 19 sets logged across Detroit and Mexico City. Often billed alongside Jiony, MNTY and Omer Tayar. Next up: nueve cero nueve, Mexico City on Thu 24 Sept.
 
 ## Upcoming shows
 

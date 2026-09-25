@@ -1,6 +1,6 @@
 # AUSCULT - 001 at TBA - STÜCK, DALSTON
 
-AUSCULT - 001 at TBA - STÜCK, DALSTON on Thu 1 Oct, London. 1 act on the bill: sweetestcape. Experimental and Dub Techno. Preview the line-up and save it on soundcheck.
+AUSCULT - 001 at TBA - STÜCK, DALSTON on Thu 1 Oct, London. 1 artist on the bill: sweetestcape. Experimental and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

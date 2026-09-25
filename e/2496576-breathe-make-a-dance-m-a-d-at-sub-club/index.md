@@ -1,6 +1,6 @@
 # Breathe: Make A Dance (M.A.D) at Sub Club
 
-Breathe: Make A Dance (M.A.D) at Sub Club on Fri 23 Oct, Glasgow. 2 acts on the bill: Breathe and Make A Dance. House and Deep House. Preview the line-up and save it on soundcheck.
+Breathe: Make A Dance (M.A.D) at Sub Club on Fri 23 Oct, Glasgow. 2 artists on the bill: Breathe and Make A Dance. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

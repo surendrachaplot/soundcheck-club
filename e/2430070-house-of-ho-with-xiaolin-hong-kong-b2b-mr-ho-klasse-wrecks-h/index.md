@@ -1,6 +1,6 @@
 # House of Ho with Xiaolin (宀, Hong Kong) b2b Mr. Ho (Klasse Wrecks, Hong Kong) at 宀 Club
 
-House of Ho with Xiaolin (宀, Hong Kong) b2b Mr. Ho (Klasse Wrecks, Hong Kong) at 宀 Club on Fri 25 Sept, Hongkong. 2 acts on the bill: Mr. Ho and Xiaolin. Techno and House. Preview the line-up and save it on soundcheck.
+House of Ho with Xiaolin (宀, Hong Kong) b2b Mr. Ho (Klasse Wrecks, Hong Kong) at 宀 Club on Fri 25 Sept, Hong Kong. 2 artists on the bill: Mr. Ho and Xiaolin. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

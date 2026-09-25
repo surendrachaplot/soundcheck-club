@@ -1,6 +1,6 @@
 # Below Zero + Meraki present Papa Nugs at Meraki
 
-Below Zero + Meraki present Papa Nugs on Fri 16 Oct, Liverpool. 3 acts on the bill: F3rg13, Papa Nugs and TJOS. House and Garage. Preview the line-up and save it on soundcheck.
+Below Zero + Meraki present Papa Nugs on Fri 16 Oct, Liverpool. 3 artists on the bill: F3rg13, Papa Nugs and TJOS. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

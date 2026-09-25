@@ -1,6 +1,6 @@
 # Nonstop: EscaFlowne, Honey Bun, Main Phase, Nicola Cruz, Peach, Rose Kourts at Nowadays
 
-Nonstop: EscaFlowne, Honey Bun, Main Phase, Nicola Cruz, Peach, Rose Kourts at Nowadays on Sat 17 Oct, Newyorkcity. 6 acts on the bill: EscaFlowne, Honey Bun, Main Phase and Nicola Cruz and 2 more. House and Bass. Preview the line-up and save it on soundcheck.
+Nonstop: EscaFlowne, Honey Bun, Main Phase, Nicola Cruz, Peach, Rose Kourts at Nowadays on Sat 17 Oct, New York City. 6 artists on the bill: EscaFlowne, Honey Bun, Main Phase and Nicola Cruz and 2 more. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Outer Heaven presents: Jack Mulqueen at Outer Heaven
 
-Outer Heaven presents: Jack Mulqueen on Sat 21 Nov, Newyorkcity. 1 act on the bill: Jack Mulqueen. House. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Jack Mulqueen on Sat 21 Nov, New York City. 1 artist on the bill: Jack Mulqueen. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

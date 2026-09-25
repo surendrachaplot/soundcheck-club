@@ -1,6 +1,6 @@
 # CHIRI - Kenny Larkin - Robert Hood - + Under Club ( GASCÓN 1040 ) at Under Club
 
-CHIRI - Kenny Larkin - Robert Hood - + Under Club ( GASCÓN 1040 ) on Sun 22 Nov, Buenosaires. 2 acts on the bill: Kenny Larkin and Robert Hood. Techno. Preview the line-up and save it on soundcheck.
+CHIRI - Kenny Larkin - Robert Hood - + Under Club ( GASCÓN 1040 ) on Sun 22 Nov, Buenos Aires. 2 artists on the bill: Kenny Larkin and Robert Hood. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

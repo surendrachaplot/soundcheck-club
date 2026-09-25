@@ -1,6 +1,6 @@
 # Lost In Disco at The Social
 
-Lost In Disco at The Social on Sat 17 Oct, London. 2 acts on the bill: Jason Regan and The Sheen Resistance. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Lost In Disco at The Social on Sat 17 Oct, London. 2 artists on the bill: Jason Regan and The Sheen Resistance. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Foggy Sunday at Spkrbox
 
-Foggy Sunday at Spkrbox on Sun 27 Sept, Detroit. 1 act on the bill: Dru Ruiz. Techno and House. Preview the line-up and save it on soundcheck.
+Foggy Sunday at Spkrbox on Sun 27 Sept, Detroit. 1 artist on the bill: Dru Ruiz. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Razor-N-Tape presents A Joyful Noise - Live From public records Album Release Show at public records
 
-Razor-N-Tape presents A Joyful Noise - Live From public records Album Release Show on Thu 15 Oct, Newyorkcity. 7 acts on the bill: Aaron Dae, Brandon Markell Holmes, Jason Lindner and JKriv and 3 more. Preview the line-up and save it on soundcheck.
+Razor-N-Tape presents A Joyful Noise - Live From public records Album Release Show on Thu 15 Oct, New York City. 7 artists on the bill: Aaron Dae, Brandon Markell Holmes, Jason Lindner and JKriv and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

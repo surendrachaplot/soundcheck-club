@@ -1,6 +1,6 @@
 # Riktus with Shogun (Usa / Portugal Debut) at Ministerium Club
 
-Riktus with Shogun (Usa / Portugal Debut) at Ministerium Club on Thu 24 Sept, Lisbon. 8 acts on the bill: Cruzz, KICKREY, Madson Carpenter and NOQIA and 4 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Riktus with Shogun (Usa / Portugal Debut) at Ministerium Club on Thu 24 Sept, Lisbon. 8 artists on the bill: Cruzz, KICKREY, Madson Carpenter and NOQIA and 4 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

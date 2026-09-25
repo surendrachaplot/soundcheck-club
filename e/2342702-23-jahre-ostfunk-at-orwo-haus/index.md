@@ -1,6 +1,6 @@
 # 23 Jahre Ostfunk at ORWO Haus
 
-23 Jahre Ostfunk at ORWO Haus on Sat 21 Nov, Berlin. 3 acts on the bill: Basstronauten, Daniel Boon and Dr. Motte. Techno and Tech House. Preview the line-up and save it on soundcheck.
+23 Jahre Ostfunk at ORWO Haus on Sat 21 Nov, Berlin. 3 artists on the bill: Basstronauten, Daniel Boon and Dr. Motte. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

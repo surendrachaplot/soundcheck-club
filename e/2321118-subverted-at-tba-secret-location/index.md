@@ -1,6 +1,6 @@
 # Subverted at TBA - Secret Location
 
-Subverted at TBA - Secret Location on Fri 2 Oct, Berlin. 4 acts on the bill: GLASSBASS, KEROSENE (ZA), truthspeaker and Vex Noir. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Subverted at TBA - Secret Location on Fri 2 Oct, Berlin. 4 artists on the bill: GLASSBASS, KEROSENE (ZA), truthspeaker and Vex Noir. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

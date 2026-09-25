@@ -1,6 +1,6 @@
 # De Binnenstad x SUPERSTRINGS Invites at Ijver
 
-De Binnenstad x SUPERSTRINGS Invites at Ijver on Sat 24 Oct, Amsterdam. 7 acts on the bill: Angie (FR), CIS (3), DJ IP and Eva Vrijdag and 3 more. Trance and House. Preview the line-up and save it on soundcheck.
+De Binnenstad x SUPERSTRINGS Invites at Ijver on Sat 24 Oct, Amsterdam. 7 artists on the bill: Angie (FR), CIS, DJ IP and Eva Vrijdag and 3 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

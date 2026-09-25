@@ -1,6 +1,6 @@
 # UNLEASHED by UNDR - Kinky Techno Halloween at Insomnia
 
-UNLEASHED by UNDR - Kinky Techno Halloween at Insomnia on Sat 31 Oct, Berlin. 3 acts on the bill: BOHO, Jakob Lesch and Miss Unleashed. Techno. Preview the line-up and save it on soundcheck.
+UNLEASHED by UNDR - Kinky Techno Halloween at Insomnia on Sat 31 Oct, Berlin. 3 artists on the bill: BOHO, Jakob Lesch and Miss Unleashed. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

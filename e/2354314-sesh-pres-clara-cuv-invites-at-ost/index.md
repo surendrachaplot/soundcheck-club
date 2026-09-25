@@ -1,6 +1,6 @@
 # SESH pres. Clara Cuvé invites at OST
 
-SESH pres. Clara Cuvé invites at OST on Fri 6 Nov, Berlin. 8 acts on the bill: ALT8, CALLUSH, Clara Cuvé and DJ Cringey and 4 more. Preview the line-up and save it on soundcheck.
+SESH pres. Clara Cuvé invites at OST on Fri 6 Nov, Berlin. 8 artists on the bill: ALT8, CALLUSH, Clara Cuvé and DJ Cringey and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

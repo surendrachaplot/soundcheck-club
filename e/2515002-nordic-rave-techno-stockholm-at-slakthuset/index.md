@@ -1,6 +1,6 @@
 # NORDIC RAVE - TECHNO STOCKHOLM at Slakthuset
 
-NORDIC RAVE - TECHNO STOCKHOLM at Slakthuset on Fri 25 Sept, Stockholm. 5 acts on the bill: Anneli, Bara W, Dual Drive and Solo Viking and 1 more. Preview the line-up and save it on soundcheck.
+NORDIC RAVE - TECHNO STOCKHOLM at Slakthuset on Fri 25 Sept, Stockholm. 5 artists on the bill: Anneli, Bara W, Dual Drive and Solo Viking and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

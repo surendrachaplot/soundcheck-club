@@ -1,6 +1,6 @@
 # Indie and Friends Party at Drucklufthaus
 
-Indie and Friends Party at Drucklufthaus on Sat 17 Oct, Dortmund-essen. Pop and Post-Punk. Preview the line-up and save it on soundcheck.
+Indie and Friends Party at Drucklufthaus on Sat 17 Oct, Dortmund Essen. Pop and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

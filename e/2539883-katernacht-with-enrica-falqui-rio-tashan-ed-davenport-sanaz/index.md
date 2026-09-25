@@ -1,6 +1,6 @@
 # Katernacht with Enrica Falqui, Rio Tashan, Ed Davenport, Sanaz + more at Kater
 
-Katernacht with Enrica Falqui, Rio Tashan, Ed Davenport, Sanaz + more on Sat 14 Nov, Berlin. 9 acts on the bill: BUSSI, Ed Davenport, Enrica Falqui and James Lotion and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Katernacht with Enrica Falqui, Rio Tashan, Ed Davenport, Sanaz + more on Sat 14 Nov, Berlin. 9 artists on the bill: BUSSI, Ed Davenport, Enrica Falqui and James Lotion and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

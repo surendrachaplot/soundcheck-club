@@ -1,6 +1,6 @@
 # MARRØN ext set (EersteCommunie /NL), Andrea Perna (WRD /IT), Aberra (WRD /IT) at Q35 WAREHOUSE at Q35 WAREHOUSE
 
-MARRØN ext set (EersteCommunie /NL), Andrea Perna (WRD /IT), Aberra (WRD /IT) at Q35 WAREHOUSE on Sat 28 Nov, Turin. 3 acts on the bill: Aberra, MARRØN and Rytm. Techno. Preview the line-up and save it on soundcheck.
+MARRØN ext set (EersteCommunie /NL), Andrea Perna (WRD /IT), Aberra (WRD /IT) at Q35 WAREHOUSE on Sat 28 Nov, Turin. 3 artists on the bill: Aberra, MARRØN and Rytm. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

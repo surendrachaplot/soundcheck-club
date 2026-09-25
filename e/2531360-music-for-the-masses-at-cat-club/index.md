@@ -1,6 +1,6 @@
 # Music for the Masses at Cat Club
 
-Music for the Masses at Cat Club on Fri 2 Oct, Sanfrancisco. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+Music for the Masses at Cat Club on Fri 2 Oct, San Francisco/Oakland. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

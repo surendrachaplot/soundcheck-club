@@ -1,6 +1,6 @@
 # HEADACHE LIVE AT Mooi Space at Mooi Space
 
-HEADACHE LIVE AT Mooi Space on Sat 7 Nov, Toronto. 1 act on the bill: Vegyn. Preview the line-up and save it on soundcheck.
+HEADACHE LIVE AT Mooi Space on Sat 7 Nov, Toronto. 1 artist on the bill: Vegyn. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

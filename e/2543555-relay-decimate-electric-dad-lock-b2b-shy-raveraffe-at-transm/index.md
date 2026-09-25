@@ -1,6 +1,6 @@
 # Relay: Decimate, Electric Dad, Lock B2b Shy, Raveraffe at TRANSMISSION DC
 
-Relay: Decimate, Electric Dad, Lock B2b Shy, Raveraffe at TRANSMISSION DC on Wed 14 Oct, Washingtondc. Preview the line-up and save it on soundcheck.
+Relay: Decimate, Electric Dad, Lock B2b Shy, Raveraffe at TRANSMISSION DC on Wed 14 Oct, Washington DC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

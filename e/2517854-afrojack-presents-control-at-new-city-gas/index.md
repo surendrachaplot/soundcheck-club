@@ -1,6 +1,6 @@
 # Afrojack presents: CONTROL at New City Gas
 
-Afrojack presents: CONTROL at New City Gas on Sat 3 Oct, Montreal. 2 acts on the bill: Afrojack and Torren Foot. Preview the line-up and save it on soundcheck.
+Afrojack presents: CONTROL at New City Gas on Sat 3 Oct, Montreal. 2 artists on the bill: Afrojack and Torren Foot. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

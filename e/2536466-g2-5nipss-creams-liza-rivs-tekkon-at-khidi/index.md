@@ -1,6 +1,6 @@
 # G2: 5nipss, Creams, Liza Rivs, Tekkon at KHIDI
 
-G2: 5nipss, Creams, Liza Rivs, Tekkon at KHIDI on Sat 26 Sept, Tbilisi. 2 acts on the bill: Creams and Liza Rivs. Preview the line-up and save it on soundcheck.
+G2: 5nipss, Creams, Liza Rivs, Tekkon at KHIDI on Sat 26 Sept, Tbilisi. 2 artists on the bill: Creams and Liza Rivs. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

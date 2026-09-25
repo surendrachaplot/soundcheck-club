@@ -1,6 +1,6 @@
 # PARALLEL NIGHT - COSMIC EDITON Φ HARD MUSIC EVENT at Superlove
 
-PARALLEL NIGHT - COSMIC EDITON Φ HARD MUSIC EVENT at Superlove on Thu 24 Sept, Milan. 1 act on the bill: Flaiv Đarkø. Techno and Industrial. Preview the line-up and save it on soundcheck.
+PARALLEL NIGHT - COSMIC EDITON Φ HARD MUSIC EVENT at Superlove on Thu 24 Sept, Milan. 1 artist on the bill: Flaiv Đarkø. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

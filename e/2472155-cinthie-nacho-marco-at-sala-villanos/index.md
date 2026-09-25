@@ -1,6 +1,6 @@
 # Cinthie + Nacho Marco at Sala Villanos
 
-Cinthie + Nacho Marco at Sala Villanos on Fri 13 Nov, Madrid. 2 acts on the bill: Cinthie and Nacho Marco. Electronica. Preview the line-up and save it on soundcheck.
+Cinthie + Nacho Marco at Sala Villanos on Fri 13 Nov, Madrid. 2 artists on the bill: Cinthie and Nacho Marco. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

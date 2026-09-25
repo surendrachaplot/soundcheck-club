@@ -1,6 +1,6 @@
 # nimino at Pumpehuset
 
-nimino at Pumpehuset on Thu 15 Oct, Copenhagen. 1 act on the bill: nimino. House. Preview the line-up and save it on soundcheck.
+nimino at Pumpehuset on Thu 15 Oct, Copenhagen. 1 artist on the bill: nimino. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

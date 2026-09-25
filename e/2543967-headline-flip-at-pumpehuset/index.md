@@ -1,6 +1,6 @@
 # Headline Flip at Pumpehuset
 
-Headline Flip at Pumpehuset on Thu 5 Nov, Copenhagen. 1 act on the bill: MASIV. Preview the line-up and save it on soundcheck.
+Headline Flip at Pumpehuset on Thu 5 Nov, Copenhagen. 1 artist on the bill: MASIV. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

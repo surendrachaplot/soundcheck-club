@@ -1,6 +1,6 @@
 # ALLNIGHTY RSS Disco at Nachtasyl
 
-ALLNIGHTY RSS Disco at Nachtasyl on Sat 10 Oct, Hamburg. 1 act on the bill: RSS Disco. House and Disco. Preview the line-up and save it on soundcheck.
+ALLNIGHTY RSS Disco at Nachtasyl on Sat 10 Oct, Hamburg. 1 artist on the bill: RSS Disco. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

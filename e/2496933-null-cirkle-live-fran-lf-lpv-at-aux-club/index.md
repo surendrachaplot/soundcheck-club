@@ -1,6 +1,6 @@
 # null ✣ Cirkle [Live] ✣ Fran LF ✣ LPV at AUX Club
 
-null ✣ Cirkle [Live] ✣ Fran LF ✣ LPV at AUX Club on Fri 25 Sept, Athens. 6 acts on the bill: Alma Libre, Cirkle, Fran LF and LPV and 2 more. Techno. Preview the line-up and save it on soundcheck.
+null ✣ Cirkle [Live] ✣ Fran LF ✣ LPV at AUX Club on Fri 25 Sept, Athens. 6 artists on the bill: Alma Libre, Cirkle, Fran LF and LPV and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

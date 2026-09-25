@@ -1,6 +1,6 @@
 # Sticks and Stones with Anders Navigare Kalumet Glook at Atno
 
-Sticks and Stones with Anders Navigare Kalumet Glook at Atno on Sat 10 Oct, Budapest. 2 acts on the bill: Erro and Kalumet. Techno. Preview the line-up and save it on soundcheck.
+Sticks and Stones with Anders Navigare Kalumet Glook at Atno on Sat 10 Oct, Budapest. 2 artists on the bill: Erro and Kalumet. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

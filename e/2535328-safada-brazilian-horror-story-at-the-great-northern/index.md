@@ -1,6 +1,6 @@
 # Safada: Brazilian Horror Story at The Great Northern
 
-Safada: Brazilian Horror Story at The Great Northern on Sat 24 Oct, Sanfrancisco. 2 acts on the bill: Kevin Karrera and Profesito. Tech House and Baile Funk. Preview the line-up and save it on soundcheck.
+Safada: Brazilian Horror Story at The Great Northern on Sat 24 Oct, San Francisco/Oakland. 2 artists on the bill: Kevin Karrera and Profesito. Tech House and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BEFORE x EKANITE: ADE 30 YEARS at John Doe
 
-BEFORE x EKANITE: ADE 30 YEARS at John Doe on Fri 23 Oct, Amsterdam. 1 act on the bill: GAB (ES). House and Bass. Preview the line-up and save it on soundcheck.
+BEFORE x EKANITE: ADE 30 YEARS at John Doe on Fri 23 Oct, Amsterdam. 1 artist on the bill: GAB (ES). House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ADVANCED CRYPTO RECOVERY EXPERT- PRIMATZ GUARD at TBA - San 
 
-ADVANCED CRYPTO RECOVERY EXPERT- PRIMATZ GUARD at TBA - San  on Sat 26 Sept, Sanfrancisco. Deep House and Classical. Preview the line-up and save it on soundcheck.
+ADVANCED CRYPTO RECOVERY EXPERT- PRIMATZ GUARD at TBA - San  on Sat 26 Sept, San Francisco/Oakland. Deep House and Classical. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Trancegedance - Halloween Special at elipamanoke
 
-Trancegedance - Halloween Special at elipamanoke on Fri 30 Oct, Leipzig. 4 acts on the bill: Acid Goldee, ch4r20tte, GoaGraf and monotony. Trance. Preview the line-up and save it on soundcheck.
+Trancegedance - Halloween Special at elipamanoke on Fri 30 Oct, Leipzig. 4 artists on the bill: Acid Goldee, ch4r20tte, GoaGraf and monotony. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

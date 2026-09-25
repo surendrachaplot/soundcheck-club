@@ -1,6 +1,6 @@
 # Interstellar Funk, Carlos Valdes at Klymax Discotheque
 
-Interstellar Funk, Carlos Valdes at Klymax Discotheque on Fri 25 Sept, Bali. 2 acts on the bill: Carlos Valdes and Interstellar Funk. Preview the line-up and save it on soundcheck.
+Interstellar Funk, Carlos Valdes at Klymax Discotheque on Fri 25 Sept, Bali. 2 artists on the bill: Carlos Valdes and Interstellar Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

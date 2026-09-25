@@ -2,7 +2,7 @@
 
 Inter-City is a music venue in The Hague with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "PIP Stage w/ Vladimir Ivkovic B2B Intergalactic Gary at DISCO FETISH XXL" on Sat, 26 Sept 2026.
 
-Inter-City is a music venue in Thehague listed on soundcheck. 2 upcoming gigs, with line-ups including Alden Tyrell, Droom, Dynamic D and Esther Dune and 2 more. Browse upcoming dates, start times and who's playing.
+Inter-City is a music venue in The Hague listed on soundcheck. 2 upcoming gigs, with line-ups including Alden Tyrell, Droom, Dynamic D and Esther Dune and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

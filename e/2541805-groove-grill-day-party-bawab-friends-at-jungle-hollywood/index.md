@@ -1,6 +1,6 @@
 # Groove & Grill Day Party - bawab + Friends at Jungle Hollywood
 
-Groove & Grill Day Party - bawab + Friends at Jungle Hollywood on Sat 26 Sept, Losangeles. 2 acts on the bill: bawab and ITSBEN. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Groove & Grill Day Party - bawab + Friends at Jungle Hollywood on Sat 26 Sept, Los Angeles. 2 artists on the bill: bawab and ITSBEN. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

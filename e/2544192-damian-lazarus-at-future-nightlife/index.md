@@ -1,6 +1,6 @@
 # Damian Lazarus at Future Nightlife
 
-Damian Lazarus at Future Nightlife on Fri 30 Oct, Toronto. 1 act on the bill: Damian Lazarus. Preview the line-up and save it on soundcheck.
+Damian Lazarus at Future Nightlife on Fri 30 Oct, Toronto. 1 artist on the bill: Damian Lazarus. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

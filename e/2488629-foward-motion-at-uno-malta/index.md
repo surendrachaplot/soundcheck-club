@@ -1,6 +1,6 @@
 # Foward Motion at UNO MALTA
 
-Foward Motion at UNO MALTA on Thu 24 Sept, Malta. 28 acts on the bill: Amine Edge, Aston Evans, Billy Cocks and Boon (UK) and 24 more. House. Preview the line-up and save it on soundcheck.
+Foward Motion at UNO MALTA on Thu 24 Sept, Malta. 28 artists on the bill: Amine Edge, Aston Evans, Billy Cocks and Boon (UK) and 24 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

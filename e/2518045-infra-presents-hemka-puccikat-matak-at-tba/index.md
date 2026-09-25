@@ -1,6 +1,6 @@
 # Infra presents: Hemka, PucciKat, Matak at TBA
 
-Infra presents: Hemka, PucciKat, Matak at TBA on Sat 26 Sept, Boston. 1 act on the bill: Hemka. Techno. Preview the line-up and save it on soundcheck.
+Infra presents: Hemka, PucciKat, Matak at TBA on Sat 26 Sept, Boston. 1 artist on the bill: Hemka. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

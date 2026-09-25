@@ -1,6 +1,6 @@
 # LAB. pres. THE DAY SESSION at Maison25
 
-LAB. pres. THE DAY SESSION at Maison25 on Sat 26 Sept, Zurich. 3 acts on the bill: KAïA (2), kso12 and Thomas Bianco. Preview the line-up and save it on soundcheck.
+LAB. pres. THE DAY SESSION at Maison25 on Sat 26 Sept, Zurich. 3 artists on the bill: KAïA, kso12 and Thomas Bianco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

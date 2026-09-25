@@ -1,6 +1,6 @@
 # Heaps Gay OFFENSIVE TRADE at TBA
 
-Heaps Gay OFFENSIVE TRADE at TBA on Sat 14 Nov, Sydney. 4 acts on the bill: ATARANGI, CCL, Chippy Nonstop and Hercules & Love Affair. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+Heaps Gay OFFENSIVE TRADE at TBA on Sat 14 Nov, Sydney. 4 artists on the bill: ATARANGI, CCL, Chippy Nonstop and Hercules & Love Affair. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PROMISCUOUS: A 2000's CLUB BANGERS THROWBACKS PARTY at Catch One
 
-PROMISCUOUS: A 2000's CLUB BANGERS THROWBACKS PARTY at Catch One on Fri 25 Sept, Losangeles. Preview the line-up and save it on soundcheck.
+PROMISCUOUS: A 2000's CLUB BANGERS THROWBACKS PARTY at Catch One on Fri 25 Sept, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

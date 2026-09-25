@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: Time x Discos Sentimiento with acidheaven (Maricas) at YuYu Cine Club
 
-Yu Yu Cine Club: Time x Discos Sentimiento with acidheaven (Maricas) at YuYu Cine Club on Fri 9 Oct, Mexicocity. 5 acts on the bill: acidheaven, Bluecommand, Makrina and Octoptic and 1 more. Preview the line-up and save it on soundcheck.
+Yu Yu Cine Club: Time x Discos Sentimiento with acidheaven (Maricas) at YuYu Cine Club on Fri 9 Oct, Mexico City. 5 artists on the bill: acidheaven, Bluecommand, Makrina and Octoptic and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

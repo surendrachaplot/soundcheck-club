@@ -2,7 +2,7 @@
 
 Yuca Frita is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Danzhaus/The Gingerbread House, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-Yuca Frita is a club and latin bass artist based in United States of America, tracked on soundcheck, with 49 sets logged across Sanfrancisco. Often billed alongside DJ JUANNY, Discnogirl and RITCHRD. Next up: Danzhaus/The Gingerbread House, Sanfrancisco on Fri 25 Sept.
+Yuca Frita is a club and latin bass artist based in United States of America, tracked on soundcheck, with 49 sets logged across San Francisco/Oakland. Often billed alongside DJ JUANNY, Discnogirl and RITCHRD. Next up: Danzhaus/The Gingerbread House, San Francisco/Oakland on Fri 25 Sept.
 
 ## Upcoming shows
 

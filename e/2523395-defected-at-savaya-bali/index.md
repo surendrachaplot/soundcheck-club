@@ -1,6 +1,6 @@
 # Defected at Savaya Bali
 
-Defected at Savaya Bali on Fri 4 Dec, Bali. 2 acts on the bill: Sam Divine and TSHA. House. Preview the line-up and save it on soundcheck.
+Defected at Savaya Bali on Fri 4 Dec, Bali. 2 artists on the bill: Sam Divine and TSHA. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

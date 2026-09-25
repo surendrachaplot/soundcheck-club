@@ -1,6 +1,6 @@
 # It's October 3rd at Club Waziema
 
-It's October 3rd at Club Waziema on Sat 3 Oct, Sanfrancisco. 1 act on the bill: YING. Bass and Club. Preview the line-up and save it on soundcheck.
+It's October 3rd at Club Waziema on Sat 3 Oct, San Francisco/Oakland. 1 artist on the bill: YING. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Routine: Dublon at Substation
 
-Routine: Dublon at Substation on Thu 8 Oct, Seattle. 2 acts on the bill: alexia.f and Dublon. House and Jazz. Preview the line-up and save it on soundcheck.
+Routine: Dublon at Substation on Thu 8 Oct, Seattle. 2 artists on the bill: alexia.f and Dublon. House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

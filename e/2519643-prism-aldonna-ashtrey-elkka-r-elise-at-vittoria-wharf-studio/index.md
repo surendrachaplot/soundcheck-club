@@ -1,6 +1,6 @@
 # PRISM: Aldonna, ASHTREY, Elkka, r:elise at Vittoria Wharf Studio
 
-PRISM: Aldonna, ASHTREY, Elkka, r:elise at Vittoria Wharf Studio on Sat 17 Oct, London. 4 acts on the bill: Aldonna, ASHTREY, Elkka and r:elise. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+PRISM: Aldonna, ASHTREY, Elkka, r:elise at Vittoria Wharf Studio on Sat 17 Oct, London. 4 artists on the bill: Aldonna, ASHTREY, Elkka and r:elise. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

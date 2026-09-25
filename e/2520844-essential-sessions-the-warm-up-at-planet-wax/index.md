@@ -1,6 +1,6 @@
 # ESSENTIAL SESSIONS: The Warm Up at Planet Wax
 
-ESSENTIAL SESSIONS: The Warm Up at Planet Wax on Sat 14 Nov, London. 3 acts on the bill: Daniel Ward, Lawrence Anthony and Shane Blitz. House and Garage. Preview the line-up and save it on soundcheck.
+ESSENTIAL SESSIONS: The Warm Up at Planet Wax on Sat 14 Nov, London. 3 artists on the bill: Daniel Ward, Lawrence Anthony and Shane Blitz. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

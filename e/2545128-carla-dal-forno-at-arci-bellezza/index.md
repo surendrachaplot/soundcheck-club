@@ -1,6 +1,6 @@
 # Carla dal Forno at Arci Bellezza
 
-Carla dal Forno at Arci Bellezza on Sat 26 Sept, Milan. 1 act on the bill: Carla dal Forno. Pop and Post-Punk. Preview the line-up and save it on soundcheck.
+Carla dal Forno at Arci Bellezza on Sat 26 Sept, Milan. 1 artist on the bill: Carla dal Forno. Pop and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

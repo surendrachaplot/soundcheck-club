@@ -1,6 +1,6 @@
 # Halloween Nonstop: DJ Stingray, Convextion, Rene Wise, Juliana Huxtable, DJ Koolt + more at Nowadays
 
-Halloween Nonstop: DJ Stingray, Convextion, Rene Wise, Juliana Huxtable, DJ Koolt + more at Nowadays on Fri 30 Oct, Newyorkcity. 14 acts on the bill: ābnamā, Convextion, cotton and DJ G. and 10 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Halloween Nonstop: DJ Stingray, Convextion, Rene Wise, Juliana Huxtable, DJ Koolt + more at Nowadays on Fri 30 Oct, New York City. 14 artists on the bill: ābnamā, Convextion, cotton and DJ G. and 10 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

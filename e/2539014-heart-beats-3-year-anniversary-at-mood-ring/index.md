@@ -1,6 +1,6 @@
 # Heart Beats 3 Year Anniversary at Mood Ring
 
-Heart Beats 3 Year Anniversary at Mood Ring on Thu 1 Oct, Newyorkcity. 4 acts on the bill: Arielle Lana, DAYE., Kassita and WTCHCRFT. Preview the line-up and save it on soundcheck.
+Heart Beats 3 Year Anniversary at Mood Ring on Thu 1 Oct, New York City. 4 artists on the bill: Arielle Lana, DAYE., Kassita and WTCHCRFT. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

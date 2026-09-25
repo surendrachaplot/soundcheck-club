@@ -1,6 +1,6 @@
 # Carousel Fridays x Curated pres. Laura King at Carousel Bar & Ballroom
 
-Carousel Fridays x Curated pres. Laura King at Carousel Bar & Ballroom on Fri 23 Oct, Sydney. 1 act on the bill: Laura King. Techno and Acid. Preview the line-up and save it on soundcheck.
+Carousel Fridays x Curated pres. Laura King at Carousel Bar & Ballroom on Fri 23 Oct, Sydney. 1 artist on the bill: Laura King. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

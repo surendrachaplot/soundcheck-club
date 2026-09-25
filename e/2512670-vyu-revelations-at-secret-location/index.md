@@ -1,6 +1,6 @@
 # VYU: Revelations at Secret Location
 
-VYU: Revelations at Secret Location on Sat 10 Oct, London. 3 acts on the bill: Kakura, N1NJA and VIZANO. Deep House and Afro Tech. Preview the line-up and save it on soundcheck.
+VYU: Revelations at Secret Location on Sat 10 Oct, London. 3 artists on the bill: Kakura, N1NJA and VIZANO. Deep House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

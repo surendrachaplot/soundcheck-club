@@ -1,6 +1,6 @@
 # Insomnia London: Shirley Temper, Tino & Ned Spencer at Phonox
 
-Insomnia London: Shirley Temper, Tino & Ned Spencer at Phonox on Thu 8 Oct, London. 3 acts on the bill: Ned Spencer, Shirley Temper and TINO (2). House and Bass. Preview the line-up and save it on soundcheck.
+Insomnia London: Shirley Temper, Tino & Ned Spencer at Phonox on Thu 8 Oct, London. 3 artists on the bill: Ned Spencer, Shirley Temper and TINO. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

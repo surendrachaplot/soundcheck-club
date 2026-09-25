@@ -1,6 +1,6 @@
 # Arcane Grace at The Redwood Bar And Grill
 
-Arcane Grace at The Redwood Bar And Grill on Sat 26 Sept, Losangeles. Preview the line-up and save it on soundcheck.
+Arcane Grace at The Redwood Bar And Grill on Sat 26 Sept, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

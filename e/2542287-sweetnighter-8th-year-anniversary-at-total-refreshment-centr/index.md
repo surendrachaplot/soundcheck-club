@@ -1,6 +1,6 @@
 # Sweetnighter: 8th Year Anniversary at Total Refreshment Centre
 
-Sweetnighter: 8th Year Anniversary at Total Refreshment Centre on Sat 10 Oct, London. 2 acts on the bill: Andrea Montalto and Joseph Russell. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Sweetnighter: 8th Year Anniversary at Total Refreshment Centre on Sat 10 Oct, London. 2 artists on the bill: Andrea Montalto and Joseph Russell. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

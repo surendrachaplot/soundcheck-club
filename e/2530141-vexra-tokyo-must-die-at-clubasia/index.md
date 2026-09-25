@@ -1,6 +1,6 @@
 # VEXRA TOKYO: MUST DIE at clubasia
 
-VEXRA TOKYO: MUST DIE at clubasia on Sat 7 Nov, Tokyo. 2 acts on the bill: kors k and Rëgret. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+VEXRA TOKYO: MUST DIE at clubasia on Sat 7 Nov, Tokyo. 2 artists on the bill: kors k and Rëgret. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

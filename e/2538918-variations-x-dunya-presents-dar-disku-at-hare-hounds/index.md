@@ -1,6 +1,6 @@
 # Variations X DUNYA presents - DAR DISKU at Hare & Hounds
 
-Variations X DUNYA presents - DAR DISKU at Hare & Hounds on Sat 17 Oct, Birmingham. 1 act on the bill: DAR DISKU. House and Disco. Preview the line-up and save it on soundcheck.
+Variations X DUNYA presents - DAR DISKU at Hare & Hounds on Sat 17 Oct, Birmingham. 1 artist on the bill: DAR DISKU. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

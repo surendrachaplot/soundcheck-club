@@ -1,6 +1,6 @@
 # Vrijdag is NYX: Halloween at Club NYX
 
-Vrijdag is NYX: Halloween at Club NYX on Fri 30 Oct, Amsterdam. 5 acts on the bill: Aiscream, Edward Meunier, Emma Champagne Queen and Joseph Steel and 1 more. Techno and Pop. Preview the line-up and save it on soundcheck.
+Vrijdag is NYX: Halloween at Club NYX on Fri 30 Oct, Amsterdam. 5 artists on the bill: Aiscream, Edward Meunier, Emma Champagne Queen and Joseph Steel and 1 more. Techno and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

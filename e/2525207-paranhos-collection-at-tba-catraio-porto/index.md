@@ -1,6 +1,6 @@
 # Paranhos Collection at TBA - Catraio (Porto)
 
-Paranhos Collection at TBA - Catraio (Porto) on Sat 26 Sept, Porto. 1 act on the bill: Paranhos Collection. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+Paranhos Collection at TBA - Catraio (Porto) on Sat 26 Sept, Porto. 1 artist on the bill: Paranhos Collection. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

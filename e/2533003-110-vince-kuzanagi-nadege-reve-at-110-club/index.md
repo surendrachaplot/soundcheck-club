@@ -1,6 +1,6 @@
 # 110: Vince Kuzanagi + Nadege Reve at 110.Club
 
-110: Vince Kuzanagi + Nadege Reve at 110.Club on Fri 30 Oct, Lyon. 1 act on the bill: Vince Kuzanagi. Techno. Preview the line-up and save it on soundcheck.
+110: Vince Kuzanagi + Nadege Reve at 110.Club on Fri 30 Oct, Lyon. 1 artist on the bill: Vince Kuzanagi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # GEEK BAR presents 「C.S.C.S.」Vol.1 at Daikanyama ORD.
 
-GEEK BAR presents 「C.S.C.S.」Vol.1 at Daikanyama ORD. on Sun 27 Sept, Tokyo. 2 acts on the bill: SAKURA TSURUTA and Submerse. Preview the line-up and save it on soundcheck.
+GEEK BAR presents 「C.S.C.S.」Vol.1 at Daikanyama ORD. on Sun 27 Sept, Tokyo. 2 artists on the bill: SAKURA TSURUTA and Submerse. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

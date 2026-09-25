@@ -1,6 +1,6 @@
 # GOOD EVENiNG at NICO'S at Baby Battista @ Nico's
 
-GOOD EVENiNG at NICO'S at Baby Battista @ Nico's on Fri 25 Sept, Losangeles. Techno and House. Preview the line-up and save it on soundcheck.
+GOOD EVENiNG at NICO'S at Baby Battista @ Nico's on Fri 25 Sept, Los Angeles. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

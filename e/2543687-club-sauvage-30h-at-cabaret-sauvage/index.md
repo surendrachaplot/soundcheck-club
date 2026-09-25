@@ -1,6 +1,6 @@
 # ¡Club Sauvage 30h at Cabaret Sauvage
 
-¡Club Sauvage 30h at Cabaret Sauvage on Fri 27 Nov, Paris. 10 acts on the bill: BAB MUSIQUE, Chinau, Dave Lee and DJ Spen and 6 more. House and Disco. Preview the line-up and save it on soundcheck.
+¡Club Sauvage 30h at Cabaret Sauvage on Fri 27 Nov, Paris. 10 artists on the bill: BAB MUSIQUE, Chinau, Dave Lee and DJ Spen and 6 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Laster Club presents INTERNATIONAL RESIDENTS NIGHT with The Lady Machine & Setaoc Mass at The Bassement
 
-Laster Club presents INTERNATIONAL RESIDENTS NIGHT with The Lady Machine & Setaoc Mass at The Bassement on Fri 9 Oct, Madrid. 2 acts on the bill: Setaoc Mass and The Lady Machine. Techno. Preview the line-up and save it on soundcheck.
+Laster Club presents INTERNATIONAL RESIDENTS NIGHT with The Lady Machine & Setaoc Mass at The Bassement on Fri 9 Oct, Madrid. 2 artists on the bill: Setaoc Mass and The Lady Machine. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

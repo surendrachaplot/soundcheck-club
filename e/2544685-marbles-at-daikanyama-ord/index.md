@@ -1,6 +1,6 @@
 # marbles. at Daikanyama ORD.
 
-marbles. at Daikanyama ORD. on Sun 25 Oct, Tokyo. 3 acts on the bill: KAKERU, Lucci (CA) and YUKI (JP). Preview the line-up and save it on soundcheck.
+marbles. at Daikanyama ORD. on Sun 25 Oct, Tokyo. 3 artists on the bill: KAKERU, Lucci (CA) and YUKI (JP). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

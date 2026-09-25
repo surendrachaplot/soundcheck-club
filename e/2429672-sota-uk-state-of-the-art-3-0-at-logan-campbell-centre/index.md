@@ -1,6 +1,6 @@
 # SOTA (UK) “STATE OF THE ART 3.0” at Logan Campbell Centre
 
-SOTA (UK) “STATE OF THE ART 3.0” at Logan Campbell Centre on Fri 25 Sept, Auckland. 1 act on the bill: SOTA. Drum & Bass. Preview the line-up and save it on soundcheck.
+SOTA (UK) “STATE OF THE ART 3.0” at Logan Campbell Centre on Fri 25 Sept, Auckland. 1 artist on the bill: SOTA. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

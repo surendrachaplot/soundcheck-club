@@ -1,6 +1,6 @@
 # TRANCE ESSENTIALS presents Ⅶ X TOKYO 10th BIRTHDAY WEEKENDER at ZEROTOKYO
 
-TRANCE ESSENTIALS presents Ⅶ X TOKYO 10th BIRTHDAY WEEKENDER at ZEROTOKYO on Sat 5 Dec, Tokyo. 5 acts on the bill: AVALON, DJ 34, Greg Downey and John Askew and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+TRANCE ESSENTIALS presents Ⅶ X TOKYO 10th BIRTHDAY WEEKENDER at ZEROTOKYO on Sat 5 Dec, Tokyo. 5 artists on the bill: AVALON, DJ 34, Greg Downey and John Askew and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Intercell x Glitch | ADE By Night at H7 Warehouse
 
-Intercell x Glitch | ADE By Night at H7 Warehouse on Fri 23 Oct, Amsterdam. 6 acts on the bill: Bella Claxton, Budg, DJ AYA and LAMMER and 2 more. Preview the line-up and save it on soundcheck.
+Intercell x Glitch | ADE By Night at H7 Warehouse on Fri 23 Oct, Amsterdam. 6 artists on the bill: Bella Claxton, Budg, DJ AYA and LAMMER and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DARKMASS Lasociaciøn ||| Raul Parra • AMBRA • LAPUTASOFI • BIGOT3X • ZBZ at Lasociaciøn
 
-DARKMASS Lasociaciøn ||| Raul Parra • AMBRA • LAPUTASOFI • BIGOT3X • ZBZ on Fri 16 Oct, Madrid. 3 acts on the bill: AMBRA, Bigot3x (2) and Raul Parra. Techno. Preview the line-up and save it on soundcheck.
+DARKMASS Lasociaciøn ||| Raul Parra • AMBRA • LAPUTASOFI • BIGOT3X • ZBZ on Fri 16 Oct, Madrid. 3 artists on the bill: AMBRA, Bigot3x and Raul Parra. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Galop Galop: VCL, Jean Terechkova, Dxpe, KLING&KLANG, Nøcta at Virage
 
-Galop Galop: VCL, Jean Terechkova, Dxpe, KLING&KLANG, Nøcta at Virage on Sat 24 Oct, Paris. 3 acts on the bill: Dxpe, KLING&KLANG and VCL (FR). Trance and Techno. Preview the line-up and save it on soundcheck.
+Galop Galop: VCL, Jean Terechkova, Dxpe, KLING&KLANG, Nøcta at Virage on Sat 24 Oct, Paris. 3 artists on the bill: Dxpe, KLING&KLANG and VCL (FR). Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # My Home Is The Rave (Christchurch) at Wolfbrook Arena
 
-My Home Is The Rave (Christchurch) at Wolfbrook Arena on Fri 20 Nov, Christchurch. 4 acts on the bill: Eksman, Hedex, Mozey and Simula. Preview the line-up and save it on soundcheck.
+My Home Is The Rave (Christchurch) at Wolfbrook Arena on Fri 20 Nov, Christchurch. 4 artists on the bill: Eksman, Hedex, Mozey and Simula. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

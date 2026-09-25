@@ -1,6 +1,6 @@
 # Billy Scurry, Liam Dollard and Pat Hyland in Hang Dai at Hang Dai Chinese
 
-Billy Scurry, Liam Dollard and Pat Hyland in Hang Dai at Hang Dai Chinese on Sat 3 Oct, Dublin. 1 act on the bill: Billy Scurry. Preview the line-up and save it on soundcheck.
+Billy Scurry, Liam Dollard and Pat Hyland in Hang Dai at Hang Dai Chinese on Sat 3 Oct, Dublin. 1 artist on the bill: Billy Scurry. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

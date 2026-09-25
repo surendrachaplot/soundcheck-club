@@ -1,6 +1,6 @@
 # Say Yes pres. Steven Shade (Berlin) / STK at STK 47 WAREHOUSE
 
-Say Yes pres. Steven Shade (Berlin) / STK at STK 47 WAREHOUSE on Fri 25 Sept, Krakow. 4 acts on the bill: 4\4, Kola (PL), Kowa and Steven Shade. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Say Yes pres. Steven Shade (Berlin) / STK at STK 47 WAREHOUSE on Fri 25 Sept, Krakow. 4 artists on the bill: 4\4, Kola (PL), Kowa and Steven Shade. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

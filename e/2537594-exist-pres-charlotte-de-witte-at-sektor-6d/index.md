@@ -1,6 +1,6 @@
 # EXIST pres. CHARLOTTE DE WITTE at Sektor 6D
 
-EXIST pres. CHARLOTTE DE WITTE at Sektor 6D on Fri 25 Sept, Warsaw. 5 acts on the bill: Charlotte de Witte, Chris Liebing, Danté and Inox Traxx and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+EXIST pres. CHARLOTTE DE WITTE at Sektor 6D on Fri 25 Sept, Warsaw. 5 artists on the bill: Charlotte de Witte, Chris Liebing, Danté and Inox Traxx and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

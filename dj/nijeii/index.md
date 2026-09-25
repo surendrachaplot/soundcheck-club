@@ -2,7 +2,7 @@
 
 NIJEII is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Elsewhere, New York City on Sat, 14 Nov 2026.
 
-NIJEII is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 30 sets logged across Newyorkcity and Seoul. Often billed alongside WADDLE, duco and y2aura. Next up: Elsewhere, Newyorkcity on Sat 14 Nov.
+NIJEII is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 30 sets logged across New York City and Seoul. Often billed alongside WADDLE, duco and y2aura. Next up: Elsewhere, New York City on Sat 14 Nov.
 
 ## Upcoming shows
 

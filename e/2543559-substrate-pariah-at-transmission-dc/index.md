@@ -1,6 +1,6 @@
 # SUBSTRATE: Pariah at TRANSMISSION DC
 
-SUBSTRATE: Pariah at TRANSMISSION DC on Fri 6 Nov, Washingtondc. 1 act on the bill: Pariah. Preview the line-up and save it on soundcheck.
+SUBSTRATE: Pariah at TRANSMISSION DC on Fri 6 Nov, Washington DC. 1 artist on the bill: Pariah. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

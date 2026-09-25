@@ -1,6 +1,6 @@
 # Yoyaku World Tour 2026 - Guadalajara at TBA - Sala Roxy
 
-Yoyaku World Tour 2026 - Guadalajara at TBA - Sala Roxy on Sat 7 Nov, Mexicocity. House and Deep House. Preview the line-up and save it on soundcheck.
+Yoyaku World Tour 2026 - Guadalajara at TBA - Sala Roxy on Sat 7 Nov, Mexico City. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

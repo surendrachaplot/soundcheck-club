@@ -1,6 +1,6 @@
 # DE DANSVLOER / kimmah (all night long) at NAR
 
-DE DANSVLOER / kimmah (all night long) at NAR on Thu 24 Sept, Utrecht. 1 act on the bill: kimmah. Preview the line-up and save it on soundcheck.
+DE DANSVLOER / kimmah (all night long) at NAR on Thu 24 Sept, Utrecht. 1 artist on the bill: kimmah. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

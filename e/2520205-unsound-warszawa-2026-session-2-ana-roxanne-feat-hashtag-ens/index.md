@@ -1,6 +1,6 @@
 # Unsound Warszawa 2026: Session 2 - Ana Roxanne feat. Hashtag Ensemble at Arkady Kubickiego - Zamek Królewski w Warszawie
 
-Unsound Warszawa 2026: Session 2 - Ana Roxanne feat. Hashtag Ensemble at Arkady Kubickiego - Zamek Królewski w Warszawie on Sat 3 Oct, Warsaw. 1 act on the bill: Ana Roxanne. Preview the line-up and save it on soundcheck.
+Unsound Warszawa 2026: Session 2 - Ana Roxanne feat. Hashtag Ensemble at Arkady Kubickiego - Zamek Królewski w Warszawie on Sat 3 Oct, Warsaw. 1 artist on the bill: Ana Roxanne. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

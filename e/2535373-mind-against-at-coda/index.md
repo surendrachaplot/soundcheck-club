@@ -1,6 +1,6 @@
 # Mind Against at Coda
 
-Mind Against at Coda on Sat 10 Oct, Toronto. 1 act on the bill: Mind Against. Preview the line-up and save it on soundcheck.
+Mind Against at Coda on Sat 10 Oct, Toronto. 1 artist on the bill: Mind Against. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

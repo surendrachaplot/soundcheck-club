@@ -1,6 +1,6 @@
 # NANTES RAVE TECHNO XXL with NOVAH, MATRAKK, Maudux, DJ Caline, Mosmoz at Warehouse
 
-NANTES RAVE TECHNO XXL with NOVAH, MATRAKK, Maudux, DJ Caline, Mosmoz at Warehouse on Fri 9 Oct, Nantes. 4 acts on the bill: DJ Caline, MATRAKK, Maudux and NOVAH. Trance and Techno. Preview the line-up and save it on soundcheck.
+NANTES RAVE TECHNO XXL with NOVAH, MATRAKK, Maudux, DJ Caline, Mosmoz at Warehouse on Fri 9 Oct, Nantes. 4 artists on the bill: DJ Caline, MATRAKK, Maudux and NOVAH. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

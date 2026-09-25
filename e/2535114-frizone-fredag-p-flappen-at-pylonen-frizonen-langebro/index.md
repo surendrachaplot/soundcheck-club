@@ -1,6 +1,6 @@
 # Frizone Fredag på Flappen at Pylonen - Frizonen Langebro
 
-Frizone Fredag på Flappen at Pylonen - Frizonen Langebro on Fri 9 Oct, Copenhagen. 2 acts on the bill: Dennis DAFG and Entree. Preview the line-up and save it on soundcheck.
+Frizone Fredag på Flappen at Pylonen - Frizonen Langebro on Fri 9 Oct, Copenhagen. 2 artists on the bill: Dennis DAFG and Entree. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

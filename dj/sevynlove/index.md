@@ -2,7 +2,7 @@
 
 Sevyn Love is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nowadays, New York City on Thu, 24 Sept 2026.
 
-Sevyn Love is a techno and house artist based in United States of America, tracked on soundcheck, with 76 sets logged across Newyorkcity and Philadelphia. Often billed alongside DJPT, LOKA (US) and DJ DEADNAME. Next up: Nowadays, Newyorkcity on Thu 24 Sept.
+Sevyn Love is a techno and house artist based in United States of America, tracked on soundcheck, with 76 sets logged across New York City and Philadelphia. Often billed alongside DJPT, LOKA (US) and DJ DEADNAME. Next up: Nowadays, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

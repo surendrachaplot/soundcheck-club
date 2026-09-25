@@ -1,6 +1,6 @@
 # 15 Years Gretchen: Takuya Nakamura at Gretchen
 
-15 Years Gretchen: Takuya Nakamura on Sun 18 Oct, Berlin. 1 act on the bill: Takuya Nakamura. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+15 Years Gretchen: Takuya Nakamura on Sun 18 Oct, Berlin. 1 artist on the bill: Takuya Nakamura. Jazz and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

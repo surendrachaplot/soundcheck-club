@@ -1,6 +1,6 @@
 # Tengu presents: Prozak's Residency with Lorcan Kelly b2b DIEBYVEG + Benson at Yamamori Tengu
 
-Tengu presents: Prozak's Residency with Lorcan Kelly b2b DIEBYVEG + Benson at Yamamori Tengu on Fri 25 Sept, Dublin. 4 acts on the bill: Benson, DIEBYVEG, Lorcan Kelly and Prozak (IRL). House and Garage. Preview the line-up and save it on soundcheck.
+Tengu presents: Prozak's Residency with Lorcan Kelly b2b DIEBYVEG + Benson at Yamamori Tengu on Fri 25 Sept, Dublin. 4 artists on the bill: Benson, DIEBYVEG, Lorcan Kelly and Prozak (IRL). House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

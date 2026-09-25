@@ -1,6 +1,6 @@
 # Cabros Chicos - Underground Y2K & Top 40 Parrty (18+) at Mehanata Bar
 
-Cabros Chicos - Underground Y2K & Top 40 Parrty (18+) at Mehanata Bar on Fri 25 Sept, Newyorkcity. Pop. Preview the line-up and save it on soundcheck.
+Cabros Chicos - Underground Y2K & Top 40 Parrty (18+) at Mehanata Bar on Fri 25 Sept, New York City. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dusky, dj poolboi (open to close), Rae Sada at Elsewhere
 
-Dusky, dj poolboi (open to close), Rae Sada at Elsewhere on Fri 2 Oct, Newyorkcity. 2 acts on the bill: dj poolboi and Dusky. Preview the line-up and save it on soundcheck.
+Dusky, dj poolboi (open to close), Rae Sada at Elsewhere on Fri 2 Oct, New York City. 2 artists on the bill: dj poolboi and Dusky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

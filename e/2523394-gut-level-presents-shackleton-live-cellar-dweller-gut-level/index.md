@@ -1,6 +1,6 @@
 # Gut Level presents: Shackleton (live), Cellar Dweller & Gut Level DJs at Gut Level
 
-Gut Level presents: Shackleton (live), Cellar Dweller & Gut Level DJs on Fri 25 Sept, Sheffield. 1 act on the bill: Shackleton. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Gut Level presents: Shackleton (live), Cellar Dweller & Gut Level DJs on Fri 25 Sept, Sheffield. 1 artist on the bill: Shackleton. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

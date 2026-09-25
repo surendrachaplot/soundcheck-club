@@ -1,6 +1,6 @@
 # UKG Brunch - Bristol Ft. Kele Le Roc, Sweet Female Attitude at Document
 
-UKG Brunch - Bristol Ft. Kele Le Roc, Sweet Female Attitude at Document on Sat 7 Nov, Bristol. 2 acts on the bill: Kele Le Roc and Sweet Female Attitude. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
+UKG Brunch - Bristol Ft. Kele Le Roc, Sweet Female Attitude at Document on Sat 7 Nov, Bristol. 2 artists on the bill: Kele Le Roc and Sweet Female Attitude. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

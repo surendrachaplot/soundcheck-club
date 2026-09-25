@@ -2,7 +2,7 @@
 
 TBA - Los Angeles (Warehouse) is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "INCOGNITO presents Zenker Brothers (Extended Set)" on Sat, 3 Oct 2026.
 
-TBA - Los Angeles (Warehouse) is a music venue in Losangeles listed on soundcheck. 4 upcoming gigs, with line-ups including Bloody Mary, Bryan Gee, Diverge and DJ Noir and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Los Angeles (Warehouse) is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Bloody Mary, Bryan Gee, Diverge and DJ Noir and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

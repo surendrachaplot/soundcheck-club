@@ -1,6 +1,6 @@
 # Hashtronaut at The Redwood Bar And Grill
 
-Hashtronaut at The Redwood Bar And Grill on Thu 8 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+Hashtronaut at The Redwood Bar And Grill on Thu 8 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

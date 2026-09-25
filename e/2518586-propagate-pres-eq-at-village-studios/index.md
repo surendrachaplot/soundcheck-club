@@ -1,6 +1,6 @@
 # Propagate pres. EQ at Village Studios
 
-Propagate pres. EQ at Village Studios on Thu 22 Oct, Vancouver. 3 acts on the bill: BINKY, Brendocha and EQ (Estratosfera + Qiri). Pop and Club. Preview the line-up and save it on soundcheck.
+Propagate pres. EQ at Village Studios on Thu 22 Oct, Vancouver. 3 artists on the bill: BINKY, Brendocha and EQ (Estratosfera + Qiri). Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

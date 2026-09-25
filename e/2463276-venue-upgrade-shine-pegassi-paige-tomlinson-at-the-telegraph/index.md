@@ -1,6 +1,6 @@
 # [VENUE UPGRADE] SHINE -- Pegassi + Paige Tomlinson at The Telegraph Building
 
-[VENUE UPGRADE] SHINE -- Pegassi + Paige Tomlinson at The Telegraph Building on Sat 3 Oct, Belfast. 3 acts on the bill: CIAN__, Paige Tomlinson and Pegassi. Preview the line-up and save it on soundcheck.
+[VENUE UPGRADE] SHINE -- Pegassi + Paige Tomlinson at The Telegraph Building on Sat 3 Oct, Belfast. 3 artists on the bill: CIAN__, Paige Tomlinson and Pegassi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

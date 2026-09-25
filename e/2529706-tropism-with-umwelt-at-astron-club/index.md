@@ -1,6 +1,6 @@
 # TROPISM with Umwelt at Astron Club
 
-TROPISM with Umwelt at Astron Club on Fri 9 Oct, Athens. 3 acts on the bill: BMSK, Kazteins and Umwelt. Electro and Acid. Preview the line-up and save it on soundcheck.
+TROPISM with Umwelt at Astron Club on Fri 9 Oct, Athens. 3 artists on the bill: BMSK, Kazteins and Umwelt. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Texture with Andy Martin + Belle Island in Room 2 at Menjo's
 
-Texture with Andy Martin + Belle Island in Room 2 at Menjo's on Fri 25 Sept, Detroit. 7 acts on the bill: Amino, Andy Martin, Father Dukes and Green River Haze and 3 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Texture with Andy Martin + Belle Island in Room 2 at Menjo's on Fri 25 Sept, Detroit. 7 artists on the bill: Amino, Andy Martin, Father Dukes and Green River Haze and 3 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

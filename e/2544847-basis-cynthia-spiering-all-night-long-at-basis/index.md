@@ -1,6 +1,6 @@
 # BASIS/ Cynthia Spiering All Night Long at BASIS
 
-BASIS/ Cynthia Spiering All Night Long on Sat 14 Nov, Utrecht. 1 act on the bill: Cynthia Spiering. Techno. Preview the line-up and save it on soundcheck.
+BASIS/ Cynthia Spiering All Night Long on Sat 14 Nov, Utrecht. 1 artist on the bill: Cynthia Spiering. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

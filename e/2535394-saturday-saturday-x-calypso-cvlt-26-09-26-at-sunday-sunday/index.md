@@ -1,6 +1,6 @@
 # Saturday Saturday x Calypso Cvlt: 26.09.26 at Sunday Sunday
 
-Saturday Saturday x Calypso Cvlt: 26.09.26 at Sunday Sunday on Sat 26 Sept, Mexicocity. 4 acts on the bill: Binh, Iñigo Vontier, Leo Leal and SABRINA (3). House and Italo Disco. Preview the line-up and save it on soundcheck.
+Saturday Saturday x Calypso Cvlt: 26.09.26 at Sunday Sunday on Sat 26 Sept, Mexico City. 4 artists on the bill: Binh, Iñigo Vontier, Leo Leal and SABRINA. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

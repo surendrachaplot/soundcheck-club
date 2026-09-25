@@ -1,6 +1,6 @@
 # Rinse FM: Yung Singh at Sneaky Pete's
 
-Rinse FM: Yung Singh at Sneaky Pete's on Fri 30 Oct, Edinburgh. 1 act on the bill: Yung Singh. Preview the line-up and save it on soundcheck.
+Rinse FM: Yung Singh at Sneaky Pete's on Fri 30 Oct, Edinburgh. 1 artist on the bill: Yung Singh. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

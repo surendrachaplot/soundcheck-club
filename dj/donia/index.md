@@ -1,14 +1,13 @@
 # DONIA
 
-DONIA is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pilar - VUB, Brussels on Thu, 24 Sept 2026.
+DONIA is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Beursschouwburg, Brussels on Fri, 6 Nov 2026.
 
-DONIA is a techno and bass artist based in Belgium, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Kamoun, Aroh and Mankiyan. Next up: Pilar - VUB, Brussels on Thu 24 Sept.
+DONIA is a techno and bass artist based in Belgium, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Kamoun, Aroh and Mankiyan. Next up: Beursschouwburg, Brussels on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Pilar - VUB | Brussels |
 | Fri, 6 Nov 2026 | Beursschouwburg | Brussels |
 
 ## Recently played

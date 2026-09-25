@@ -1,6 +1,6 @@
 # Saturday's Prescription - DiSALAZAR at Dr. Dou Social Club
 
-Saturday's Prescription - DiSALAZAR at Dr. Dou Social Club on Sat 26 Sept, Barcelona. 1 act on the bill: DiSALAZAR. Preview the line-up and save it on soundcheck.
+Saturday's Prescription - DiSALAZAR at Dr. Dou Social Club on Sat 26 Sept, Barcelona. 1 artist on the bill: DiSALAZAR. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

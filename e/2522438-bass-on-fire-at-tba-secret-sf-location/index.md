@@ -1,6 +1,6 @@
 # Bass on Fire at TBA - SECRET SF LOCATION
 
-Bass on Fire at TBA - SECRET SF LOCATION on Sat 26 Sept, Sanfrancisco. House and Dubstep. Preview the line-up and save it on soundcheck.
+Bass on Fire at TBA - SECRET SF LOCATION on Sat 26 Sept, San Francisco/Oakland. House and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

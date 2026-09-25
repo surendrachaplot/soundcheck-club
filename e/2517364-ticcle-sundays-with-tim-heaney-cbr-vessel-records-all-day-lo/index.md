@@ -1,6 +1,6 @@
 # ticcle sundays with Tim Heaney (CBR/Vessel Records) (all day long) at Ticcle
 
-ticcle sundays with Tim Heaney (CBR/Vessel Records) (all day long) at Ticcle on Sun 29 Nov, Hobart. 1 act on the bill: Tim Heaney. Preview the line-up and save it on soundcheck.
+ticcle sundays with Tim Heaney (CBR/Vessel Records) (all day long) at Ticcle on Sun 29 Nov, Hobart. 1 artist on the bill: Tim Heaney. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

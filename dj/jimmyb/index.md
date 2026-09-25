@@ -2,7 +2,7 @@
 
 Jimmy B is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Audio SF, San Francisco/Oakland on Sat, 7 Nov 2026.
 
-Jimmy B is a house and techno artist based in United States of America, tracked on soundcheck, with 64 sets logged across Losangeles and Sanfrancisco. Often billed alongside Eichef, Zoz and Louiv. Next up: Audio SF, Sanfrancisco on Sat 7 Nov.
+Jimmy B is a house and techno artist based in United States of America, tracked on soundcheck, with 64 sets logged across Los Angeles and San Francisco/Oakland. Often billed alongside Eichef, Zoz and Louiv. Next up: Audio SF, San Francisco/Oakland on Sat 7 Nov.
 
 ## Upcoming shows
 

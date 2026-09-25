@@ -2,7 +2,7 @@
 
 at-at is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Foundry, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-at-at is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Losangeles and Sanfrancisco. Often billed alongside Skiis, Zero Idea and Vertigo. Next up: The Foundry, Sanfrancisco on Sat 31 Oct.
+at-at is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Los Angeles and San Francisco/Oakland. Often billed alongside Skiis, Zero Idea and Vertigo. Next up: The Foundry, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 

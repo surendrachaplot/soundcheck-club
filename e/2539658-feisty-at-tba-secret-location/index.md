@@ -1,6 +1,6 @@
 # feisty at TBA - Secret Location
 
-feisty at TBA - Secret Location on Fri 25 Sept, Berlin. 3 acts on the bill: Paulita, Sonny Daze and Viktor Roshu. Preview the line-up and save it on soundcheck.
+feisty at TBA - Secret Location on Fri 25 Sept, Berlin. 3 artists on the bill: Paulita, Sonny Daze and Viktor Roshu. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

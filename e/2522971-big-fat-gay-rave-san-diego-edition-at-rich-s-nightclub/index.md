@@ -1,6 +1,6 @@
 # Big Fat Gay Rave: San Diego Edition at Rich's Nightclub
 
-Big Fat Gay Rave: San Diego Edition at Rich's Nightclub on Thu 24 Sept, Sandiego. House and Tech House. Preview the line-up and save it on soundcheck.
+Big Fat Gay Rave: San Diego Edition at Rich's Nightclub on Thu 24 Sept, San Diego. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

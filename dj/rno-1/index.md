@@ -1,14 +1,14 @@
 # RNO (1)
 
-RNO (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+RNO (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-RNO (1) is a techno and house artist based in Greece, tracked on soundcheck, with 51 sets logged across All, Athens and Mykonos. Often billed alongside 22 (1), Innassi and Liou. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+RNO is a techno and house artist based in Greece, tracked on soundcheck, with 51 sets logged across Athens, Greece and Mykonos. Often billed alongside 22, Innassi and Liou. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 
 ## Recently played
 

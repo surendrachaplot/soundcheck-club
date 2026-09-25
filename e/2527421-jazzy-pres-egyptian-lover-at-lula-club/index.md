@@ -1,6 +1,6 @@
 # Jazzy pres. Egyptian Lover at Lula Club
 
-Jazzy pres. Egyptian Lover at Lula Club on Sun 8 Nov, Madrid. 1 act on the bill: Egyptian Lover. Preview the line-up and save it on soundcheck.
+Jazzy pres. Egyptian Lover at Lula Club on Sun 8 Nov, Madrid. 1 artist on the bill: Egyptian Lover. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

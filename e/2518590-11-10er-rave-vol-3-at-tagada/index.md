@@ -1,6 +1,6 @@
 # 11,10er Rave Vol. 3 at Tagada
 
-11,10er Rave Vol. 3 at Tagada on Sat 3 Oct, Vienna. 1 act on the bill: Who is ela¿. Trance and Techno. Preview the line-up and save it on soundcheck.
+11,10er Rave Vol. 3 at Tagada on Sat 3 Oct, Vienna. 1 artist on the bill: Who is ela¿. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

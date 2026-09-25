@@ -2,7 +2,7 @@
 
 La Mala Noche is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 17 Oct 2026.
 
-La Mala Noche is a techno and house artist tracked on soundcheck, with 43 sets logged across Losangeles, Portland and Seattle. Often billed alongside ACHAMA, Claudia LB and DJ Raine. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 17 Oct.
+La Mala Noche is a techno and house artist tracked on soundcheck, with 43 sets logged across Los Angeles, Portland and Seattle. Often billed alongside ACHAMA, Claudia LB and DJ Raine. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 17 Oct.
 
 ## Upcoming shows
 

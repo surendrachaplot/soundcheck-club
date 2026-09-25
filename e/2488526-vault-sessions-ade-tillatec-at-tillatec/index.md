@@ -1,6 +1,6 @@
 # Vault Sessions ADE - TILLATEC at TILLATEC
 
-Vault Sessions ADE - TILLATEC on Thu 22 Oct, Amsterdam. 13 acts on the bill: Blasha & Allatt, D.Dan, DJ Nobu and Ecilo and 9 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Vault Sessions ADE - TILLATEC on Thu 22 Oct, Amsterdam. 13 artists on the bill: Blasha & Allatt, D.Dan, DJ Nobu and Ecilo and 9 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

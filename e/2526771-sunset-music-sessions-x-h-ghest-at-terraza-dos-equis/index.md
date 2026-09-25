@@ -1,6 +1,6 @@
 # Sunset Music Sessions x HÏGHEST at Terraza Dos Equis
 
-Sunset Music Sessions x HÏGHEST at Terraza Dos Equis on Sat 10 Oct, Mexicocity. House. Preview the line-up and save it on soundcheck.
+Sunset Music Sessions x HÏGHEST at Terraza Dos Equis on Sat 10 Oct, Mexico City. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

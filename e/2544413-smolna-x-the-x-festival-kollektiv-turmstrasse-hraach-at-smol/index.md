@@ -1,6 +1,6 @@
 # Smolna x The X Festival: Kollektiv Turmstrasse, Hraach at Smolna
 
-Smolna x The X Festival: Kollektiv Turmstrasse, Hraach on Fri 9 Oct, Warsaw. 4 acts on the bill: CJ Art, Essex, Hraach and Kollektiv Turmstrasse. Techno and House. Preview the line-up and save it on soundcheck.
+Smolna x The X Festival: Kollektiv Turmstrasse, Hraach on Fri 9 Oct, Warsaw. 4 artists on the bill: CJ Art, Essex, Hraach and Kollektiv Turmstrasse. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

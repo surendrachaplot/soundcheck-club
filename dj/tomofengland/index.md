@@ -2,7 +2,7 @@
 
 Tom of England is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Better Tomorrow, Los Angeles on Sun, 4 Oct 2026.
 
-Tom of England is a house and disco artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Athens, Bali, Berlin and Bristol and 10 more. Often billed alongside Paul Nickerson, Capablanca and DJ M3. Next up: Better Tomorrow, Losangeles on Sun 4 Oct.
+Tom of England is a house and disco artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Athens, Bali, Berlin and Bristol and 10 more. Often billed alongside Paul Nickerson, Capablanca and DJ M3. Next up: Better Tomorrow, Los Angeles on Sun 4 Oct.
 
 ## Upcoming shows
 

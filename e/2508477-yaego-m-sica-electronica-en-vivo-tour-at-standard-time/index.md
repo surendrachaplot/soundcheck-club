@@ -1,6 +1,6 @@
 # yaego música electronica en vivo Tour at Standard Time
 
-yaego música electronica en vivo Tour at Standard Time on Fri 13 Nov, Toronto. 1 act on the bill: yaego. Preview the line-up and save it on soundcheck.
+yaego música electronica en vivo Tour at Standard Time on Fri 13 Nov, Toronto. 1 artist on the bill: yaego. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

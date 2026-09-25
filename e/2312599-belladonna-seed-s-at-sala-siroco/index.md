@@ -1,6 +1,6 @@
 # Belladonna SEED's at Sala Siroco
 
-Belladonna SEED's at Sala Siroco on Wed 4 Nov, Madrid. 1 act on the bill: Leofix. Trance and Techno. Preview the line-up and save it on soundcheck.
+Belladonna SEED's at Sala Siroco on Wed 4 Nov, Madrid. 1 artist on the bill: Leofix. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

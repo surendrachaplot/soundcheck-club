@@ -1,6 +1,6 @@
 # KILIMANJARO Live at Yes
 
-KILIMANJARO Live at Yes on Wed 25 Nov, Manchester. 1 act on the bill: KILIMANJARO. House and Afro House. Preview the line-up and save it on soundcheck.
+KILIMANJARO Live at Yes on Wed 25 Nov, Manchester. 1 artist on the bill: KILIMANJARO. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

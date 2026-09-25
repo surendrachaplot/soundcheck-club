@@ -1,6 +1,6 @@
 # RAW CUTS x House of Yes: DJ Minx, Bridge at House of Yes
 
-RAW CUTS x House of Yes: DJ Minx, Bridge on Sat 3 Oct, Newyorkcity. 2 acts on the bill: Bridge (NY) and DJ Minx. House and Club. Preview the line-up and save it on soundcheck.
+RAW CUTS x House of Yes: DJ Minx, Bridge on Sat 3 Oct, New York City. 2 artists on the bill: Bridge (NY) and DJ Minx. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

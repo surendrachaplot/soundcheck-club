@@ -1,6 +1,6 @@
 # Heith und Tarawangsawelas: Duori at Volksbühne
 
-Heith und Tarawangsawelas: Duori at Volksbühne on Fri 9 Oct, Berlin. 1 act on the bill: Heith. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Heith und Tarawangsawelas: Duori at Volksbühne on Fri 9 Oct, Berlin. 1 artist on the bill: Heith. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

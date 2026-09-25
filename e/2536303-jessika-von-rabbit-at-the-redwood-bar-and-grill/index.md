@@ -1,6 +1,6 @@
 # Jessika Von Rabbit at The Redwood Bar And Grill
 
-Jessika Von Rabbit at The Redwood Bar And Grill on Fri 23 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+Jessika Von Rabbit at The Redwood Bar And Grill on Fri 23 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

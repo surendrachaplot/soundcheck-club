@@ -1,6 +1,6 @@
 # Postal: ZO3 at Sneaky Pete's
 
-Postal: ZO3 at Sneaky Pete's on Sun 4 Oct, Edinburgh. 1 act on the bill: ZO3 (1). Bass and Club. Preview the line-up and save it on soundcheck.
+Postal: ZO3 at Sneaky Pete's on Sun 4 Oct, Edinburgh. 1 artist on the bill: ZO3. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

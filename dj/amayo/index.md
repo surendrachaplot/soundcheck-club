@@ -2,7 +2,7 @@
 
 AMAYO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 10 Oct 2026.
 
-AMAYO is a techno and trance artist based in France, tracked on soundcheck, with 24 sets logged across Brussels, Lyon and Paris. Often billed alongside Karenine, USLSS and ANKA (4). Next up: La Machine Du Moulin Rouge, Paris on Sat 10 Oct.
+AMAYO is a techno and trance artist based in France, tracked on soundcheck, with 24 sets logged across Brussels, Lyon and Paris. Often billed alongside Karenine, USLSS and ANKA. Next up: La Machine Du Moulin Rouge, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 

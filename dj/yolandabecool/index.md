@@ -2,7 +2,7 @@
 
 Yolanda Be Cool is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tumbalong Park, Sydney on Fri, 30 Oct 2026.
 
-Yolanda Be Cool is a house and tech house artist based in Australia, tracked on soundcheck, with 23 sets logged across Auckland, Bali, Losangeles and Melbourne and 6 more. Often billed alongside Bella Backe, Chris Lake and HoneyLuv. Next up: Tumbalong Park, Sydney on Fri 30 Oct.
+Yolanda Be Cool is a house and tech house artist based in Australia, tracked on soundcheck, with 23 sets logged across Auckland, Bali, Los Angeles and Melbourne and 6 more. Often billed alongside Bella Backe, Chris Lake and HoneyLuv. Next up: Tumbalong Park, Sydney on Fri 30 Oct.
 
 ## Upcoming shows
 

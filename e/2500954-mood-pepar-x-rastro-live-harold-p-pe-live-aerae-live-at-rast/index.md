@@ -1,6 +1,6 @@
 # Mood Pepar x Rastro Live - harold., Pépe (live), AERAE (live) at Rastro Live Studio
 
-Mood Pepar x Rastro Live - harold., Pépe (live), AERAE (live) at Rastro Live Studio on Fri 25 Sept, Madrid. 3 acts on the bill: AERAE, harold. (ES) and Pépe. Electro. Preview the line-up and save it on soundcheck.
+Mood Pepar x Rastro Live - harold., Pépe (live), AERAE (live) at Rastro Live Studio on Fri 25 Sept, Madrid. 3 artists on the bill: AERAE, harold. (ES) and Pépe. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

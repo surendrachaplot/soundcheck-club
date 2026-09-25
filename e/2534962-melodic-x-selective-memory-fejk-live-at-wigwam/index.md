@@ -1,6 +1,6 @@
 # Melodic x Selective Memory: Fejká Live at Wigwam
 
-Melodic x Selective Memory: Fejká Live at Wigwam on Fri 27 Nov, Dublin. 2 acts on the bill: Fejká and Mulljoy. Deep House and Electronica. Preview the line-up and save it on soundcheck.
+Melodic x Selective Memory: Fejká Live at Wigwam on Fri 27 Nov, Dublin. 2 artists on the bill: Fejká and Mulljoy. Deep House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

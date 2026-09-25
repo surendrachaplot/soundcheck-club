@@ -1,6 +1,6 @@
 # World League with Sven Väth at Pacha
 
-World League with Sven Väth at Pacha on Fri 11 Dec, Munich. 1 act on the bill: Sven Vath. Techno. Preview the line-up and save it on soundcheck.
+World League with Sven Väth at Pacha on Fri 11 Dec, Munich. 1 artist on the bill: Sven Vath. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

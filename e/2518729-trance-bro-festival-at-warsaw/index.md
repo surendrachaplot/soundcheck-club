@@ -1,6 +1,6 @@
 # Trance, Bro! Festival at Warsaw
 
-Trance, Bro! Festival at Warsaw on Sat 5 Dec, Newyorkcity. 4 acts on the bill: Billy Gillies, John O'Callaghan, Sander van Doorn and Solarstone. Trance and Techno. Preview the line-up and save it on soundcheck.
+Trance, Bro! Festival at Warsaw on Sat 5 Dec, New York City. 4 artists on the bill: Billy Gillies, John O'Callaghan, Sander van Doorn and Solarstone. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

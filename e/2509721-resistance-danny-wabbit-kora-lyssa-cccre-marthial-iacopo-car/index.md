@@ -1,6 +1,6 @@
 # RESISTANCE: Danny Wabbit, Kora Lyssa, cccre, Marthial, Iacopo Carli at Tempio del Futuro Perduto
 
-RESISTANCE: Danny Wabbit, Kora Lyssa, cccre, Marthial, Iacopo Carli at Tempio del Futuro Perduto on Sat 10 Oct, Milan. 5 acts on the bill: cccre, Danny Wabbit, Iacopo Carli and Kora Lyssa and 1 more. Preview the line-up and save it on soundcheck.
+RESISTANCE: Danny Wabbit, Kora Lyssa, cccre, Marthial, Iacopo Carli at Tempio del Futuro Perduto on Sat 10 Oct, Milan. 5 artists on the bill: cccre, Danny Wabbit, Iacopo Carli and Kora Lyssa and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

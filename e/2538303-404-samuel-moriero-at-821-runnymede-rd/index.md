@@ -1,6 +1,6 @@
 # 404: Samuel Moriero at 821 Runnymede Rd
 
-404: Samuel Moriero at 821 Runnymede Rd on Fri 16 Oct, Toronto. 1 act on the bill: Samuel Moriero (2). Techno. Preview the line-up and save it on soundcheck.
+404: Samuel Moriero at 821 Runnymede Rd on Fri 16 Oct, Toronto. 1 artist on the bill: Samuel Moriero. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

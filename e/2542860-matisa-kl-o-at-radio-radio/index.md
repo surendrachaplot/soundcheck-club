@@ -1,6 +1,6 @@
 # Matisa • Kléo at Radio Radio
 
-Matisa • Kléo at Radio Radio on Fri 9 Oct, Amsterdam. 2 acts on the bill: Kléo and Matisa. House. Preview the line-up and save it on soundcheck.
+Matisa • Kléo at Radio Radio on Fri 9 Oct, Amsterdam. 2 artists on the bill: Kléo and Matisa. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

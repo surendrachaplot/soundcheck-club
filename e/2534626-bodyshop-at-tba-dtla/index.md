@@ -1,6 +1,6 @@
 # bodyshop at TBA - DTLA
 
-bodyshop at TBA - DTLA on Sat 17 Oct, Losangeles. 4 acts on the bill: MORENXXX, Neueportrait, Noah Selene and REDLINERS. Techno. Preview the line-up and save it on soundcheck.
+bodyshop at TBA - DTLA on Sat 17 Oct, Los Angeles. 4 artists on the bill: MORENXXX, Neueportrait, Noah Selene and REDLINERS. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

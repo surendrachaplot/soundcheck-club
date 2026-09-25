@@ -1,6 +1,6 @@
 # Wild Gemischt Festival #1 at Wild im West
 
-Wild Gemischt Festival #1 at Wild im West on Sat 3 Oct, Vienna. 2 acts on the bill: Lila Gold (2) and NHOAH. Trance and Techno. Preview the line-up and save it on soundcheck.
+Wild Gemischt Festival #1 at Wild im West on Sat 3 Oct, Vienna. 2 artists on the bill: Lila Gold and NHOAH. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

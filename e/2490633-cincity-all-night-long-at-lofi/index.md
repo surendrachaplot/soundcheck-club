@@ -1,6 +1,6 @@
 # Cincity [all night long] at Lofi
 
-Cincity [all night long] at Lofi on Sat 10 Oct, Amsterdam. 1 act on the bill: Cincity. Preview the line-up and save it on soundcheck.
+Cincity [all night long] at Lofi on Sat 10 Oct, Amsterdam. 1 artist on the bill: Cincity. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

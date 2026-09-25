@@ -1,6 +1,6 @@
 # I AM A RAVER presents NANNA MAKINA at Vienna's
 
-I AM A RAVER presents NANNA MAKINA at Vienna's on Fri 13 Nov, Glasgow. 1 act on the bill: Nanna Makina. Trance. Preview the line-up and save it on soundcheck.
+I AM A RAVER presents NANNA MAKINA at Vienna's on Fri 13 Nov, Glasgow. 1 artist on the bill: Nanna Makina. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

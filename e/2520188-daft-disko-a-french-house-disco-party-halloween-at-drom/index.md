@@ -1,6 +1,6 @@
 # DAFT DISKO [A FRENCH HOUSE & DISCO PARTY] HALLOWEEN at Drom
 
-DAFT DISKO [A FRENCH HOUSE & DISCO PARTY] HALLOWEEN at Drom on Sat 31 Oct, Newyorkcity. Disco. Preview the line-up and save it on soundcheck.
+DAFT DISKO [A FRENCH HOUSE & DISCO PARTY] HALLOWEEN at Drom on Sat 31 Oct, New York City. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

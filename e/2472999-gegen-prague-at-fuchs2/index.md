@@ -1,6 +1,6 @@
 # GEGEN PRAGUE at Fuchs2
 
-GEGEN PRAGUE at Fuchs2 on Sat 3 Oct, Prague. 4 acts on the bill: Cristian Marras, jardabpm, Mar/us and Samantha Togni. Techno. Preview the line-up and save it on soundcheck.
+GEGEN PRAGUE at Fuchs2 on Sat 3 Oct, Prague. 4 artists on the bill: Cristian Marras, jardabpm, Mar/us and Samantha Togni. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

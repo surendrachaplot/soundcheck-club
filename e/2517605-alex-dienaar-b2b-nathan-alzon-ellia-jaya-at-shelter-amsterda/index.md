@@ -1,6 +1,6 @@
 # Alex Dienaar b2b Nathan Alzon, Ellia Jaya at Shelter Amsterdam
 
-Alex Dienaar b2b Nathan Alzon, Ellia Jaya at Shelter Amsterdam on Fri 2 Oct, Amsterdam. 5 acts on the bill: Ellia Jaya, Joris van Gelder, Nathan Alzon and Shanne and 1 more. House. Preview the line-up and save it on soundcheck.
+Alex Dienaar b2b Nathan Alzon, Ellia Jaya at Shelter Amsterdam on Fri 2 Oct, Amsterdam. 5 artists on the bill: Ellia Jaya, Joris van Gelder, Nathan Alzon and Shanne and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Conduit 001 with Sticky Dub, Lila, yeahitsrenee, Benno & Beat Detective at 24 Kitchen Street
 
-Conduit 001 with Sticky Dub, Lila, yeahitsrenee, Benno & Beat Detective at 24 Kitchen Street on Fri 25 Sept, Liverpool. 5 acts on the bill: Beat Detective, Benno, LILA (1) and Sticky Dub and 1 more. House and Broken Beat. Preview the line-up and save it on soundcheck.
+Conduit 001 with Sticky Dub, Lila, yeahitsrenee, Benno & Beat Detective at 24 Kitchen Street on Fri 25 Sept, Liverpool. 5 artists on the bill: Beat Detective, Benno, LILA and Sticky Dub and 1 more. House and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

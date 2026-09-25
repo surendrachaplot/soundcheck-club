@@ -1,6 +1,6 @@
 # Stuck in a Loop - (hard)house to techno with IVVAAN & INAKARA at John Doe
 
-Stuck in a Loop - (hard)house to techno with IVVAAN & INAKARA at John Doe on Sat 17 Oct, Amsterdam. 1 act on the bill: INAKARA. Trance and Techno. Preview the line-up and save it on soundcheck.
+Stuck in a Loop - (hard)house to techno with IVVAAN & INAKARA at John Doe on Sat 17 Oct, Amsterdam. 1 artist on the bill: INAKARA. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

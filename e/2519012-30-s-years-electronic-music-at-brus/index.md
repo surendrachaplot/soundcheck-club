@@ -1,6 +1,6 @@
 # 30´s years Electronic Music at BRUS
 
-30´s years Electronic Music at BRUS on Sat 17 Oct, Copenhagen. 2 acts on the bill: Bass and Progressive. Techno. Preview the line-up and save it on soundcheck.
+30´s years Electronic Music at BRUS on Sat 17 Oct, Copenhagen. 2 artists on the bill: Bass and Progressive. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

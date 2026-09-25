@@ -1,6 +1,6 @@
 # Glasstattoo at The Art School
 
-Glasstattoo at The Art School on Sat 7 Nov, Glasgow. 1 act on the bill: ACHIRĀ. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Glasstattoo at The Art School on Sat 7 Nov, Glasgow. 1 artist on the bill: ACHIRĀ. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

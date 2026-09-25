@@ -1,6 +1,6 @@
 # Gentleman's Dub Club at Wylam Brewery
 
-Gentleman's Dub Club at Wylam Brewery on Thu 5 Nov, Newcastle. 1 act on the bill: Gentleman's Dub Club. Preview the line-up and save it on soundcheck.
+Gentleman's Dub Club at Wylam Brewery on Thu 5 Nov, Newcastle. 1 artist on the bill: Gentleman's Dub Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

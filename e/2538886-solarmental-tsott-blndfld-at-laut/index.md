@@ -1,6 +1,6 @@
 # Solarmental + Tsott + BLNDFLD at LAUT
 
-Solarmental + Tsott + BLNDFLD at LAUT on Sat 24 Oct, Barcelona. 3 acts on the bill: BLNDFLD, Solarmental and Tsott. Techno. Preview the line-up and save it on soundcheck.
+Solarmental + Tsott + BLNDFLD at LAUT on Sat 24 Oct, Barcelona. 3 artists on the bill: BLNDFLD, Solarmental and Tsott. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

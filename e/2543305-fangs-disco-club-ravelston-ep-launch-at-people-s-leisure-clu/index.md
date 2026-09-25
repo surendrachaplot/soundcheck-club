@@ -1,6 +1,6 @@
 # Fangs Disco Club: Ravelston EP Launch at People's Leisure Club
 
-Fangs Disco Club: Ravelston EP Launch at People's Leisure Club on Sat 10 Oct, Edinburgh. 3 acts on the bill: Jacuzzi General, Nikki Kent and Ravelston. Balearic and Electronica. Preview the line-up and save it on soundcheck.
+Fangs Disco Club: Ravelston EP Launch at People's Leisure Club on Sat 10 Oct, Edinburgh. 3 artists on the bill: Jacuzzi General, Nikki Kent and Ravelston. Balearic and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

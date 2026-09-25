@@ -1,6 +1,6 @@
 # Boris Coelman, De Sluwe Vos, Merel Helderman at Shelter Amsterdam
 
-Boris Coelman, De Sluwe Vos, Merel Helderman at Shelter Amsterdam on Fri 30 Oct, Amsterdam. 4 acts on the bill: Boris Coelman, De Sluwe Vos, Lo Ds and Merel Helderman. House. Preview the line-up and save it on soundcheck.
+Boris Coelman, De Sluwe Vos, Merel Helderman at Shelter Amsterdam on Fri 30 Oct, Amsterdam. 4 artists on the bill: Boris Coelman, De Sluwe Vos, Lo Ds and Merel Helderman. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

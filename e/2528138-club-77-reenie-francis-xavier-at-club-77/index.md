@@ -1,6 +1,6 @@
 # Club 77: Reenie, Francis Xavier at Club 77
 
-Club 77: Reenie, Francis Xavier on Sat 10 Oct, Sydney. 2 acts on the bill: Francis Xavier and Reenie. Techno and House. Preview the line-up and save it on soundcheck.
+Club 77: Reenie, Francis Xavier on Sat 10 Oct, Sydney. 2 artists on the bill: Francis Xavier and Reenie. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

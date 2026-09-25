@@ -1,6 +1,6 @@
 # Unsound Warszawa 2026: CIRCUIT BREAKER - Blackhaine / Tim Hecker / Pink Siifu / Hekt + more at OCZKI
 
-Unsound Warszawa 2026: CIRCUIT BREAKER - Blackhaine / Tim Hecker / Pink Siifu / Hekt + more at OCZKI on Sun 4 Oct, Warsaw. 7 acts on the bill: Blackhaine, Debit, gummi and Hekt and 3 more. Preview the line-up and save it on soundcheck.
+Unsound Warszawa 2026: CIRCUIT BREAKER - Blackhaine / Tim Hecker / Pink Siifu / Hekt + more at OCZKI on Sun 4 Oct, Warsaw. 7 artists on the bill: Blackhaine, Debit, gummi and Hekt and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

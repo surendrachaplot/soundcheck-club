@@ -1,6 +1,6 @@
 # Amelia Holt, fleet.dreams & NAP at Mansions
 
-Amelia Holt, fleet.dreams & NAP at Mansions on Sat 26 Sept, Newyorkcity. 3 acts on the bill: Amelia Holt, fleet.dreams and NAP (MX). Techno and House. Preview the line-up and save it on soundcheck.
+Amelia Holt, fleet.dreams & NAP at Mansions on Sat 26 Sept, New York City. 3 artists on the bill: Amelia Holt, fleet.dreams and NAP (MX). Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

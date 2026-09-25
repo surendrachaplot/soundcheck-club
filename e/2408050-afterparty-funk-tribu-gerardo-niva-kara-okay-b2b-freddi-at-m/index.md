@@ -1,6 +1,6 @@
 # AFTERPARTY: Funk Tribu / Gerardo Niva / Kara Okay B2B Freddi at Mondo
 
-AFTERPARTY: Funk Tribu / Gerardo Niva / Kara Okay B2B Freddi at Mondo on Sat 26 Sept, Madrid. 4 acts on the bill: Freddi, Funk Tribu, Gerardo Niva and Kara Okay. Preview the line-up and save it on soundcheck.
+AFTERPARTY: Funk Tribu / Gerardo Niva / Kara Okay B2B Freddi at Mondo on Sat 26 Sept, Madrid. 4 artists on the bill: Freddi, Funk Tribu, Gerardo Niva and Kara Okay. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

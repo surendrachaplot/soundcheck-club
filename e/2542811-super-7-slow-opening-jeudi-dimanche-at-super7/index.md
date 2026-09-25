@@ -1,6 +1,6 @@
 # Super 7 : slow opening — jeudi à dimanche at Super7
 
-Super 7 : slow opening — jeudi à dimanche at Super7 on Thu 24 Sept, Lyon. 10 acts on the bill: Axymt., Farah (2), IMA:R and ISA and 6 more. Preview the line-up and save it on soundcheck.
+Super 7 : slow opening — jeudi à dimanche at Super7 on Thu 24 Sept, Lyon. 10 artists on the bill: Axymt., Farah, IMA:R and ISA and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

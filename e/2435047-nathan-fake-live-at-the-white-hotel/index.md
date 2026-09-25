@@ -1,6 +1,6 @@
 # Nathan Fake (Live) at The White Hotel
 
-Nathan Fake (Live) at The White Hotel on Thu 29 Oct, Manchester. 1 act on the bill: Nathan Fake. Preview the line-up and save it on soundcheck.
+Nathan Fake (Live) at The White Hotel on Thu 29 Oct, Manchester. 1 artist on the bill: Nathan Fake. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

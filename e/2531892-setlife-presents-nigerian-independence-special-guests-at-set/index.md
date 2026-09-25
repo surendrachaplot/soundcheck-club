@@ -1,6 +1,6 @@
 # SETLIFE presents Nigerian Independence  Special Guests at Setlist @ Somerset House
 
-SETLIFE presents Nigerian Independence  Special Guests at Setlist @ Somerset House on Sat 3 Oct, London. 1 act on the bill: Tayo Iku. Afrobeat and Afrobeats. Preview the line-up and save it on soundcheck.
+SETLIFE presents Nigerian Independence  Special Guests at Setlist @ Somerset House on Sat 3 Oct, London. 1 artist on the bill: Tayo Iku. Afrobeat and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

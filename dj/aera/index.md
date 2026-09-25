@@ -2,7 +2,7 @@
 
 Aera is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at M.N.Roy, Mexico City on Fri, 25 Sept 2026.
 
-Aera is a techno and house artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 18 more. Often billed alongside Ivory, Mehill and Steve Challier. Next up: M.N.Roy, Mexicocity on Fri 25 Sept.
+Aera is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 18 more. Often billed alongside Ivory, Mehill and Steve Challier. Next up: M.N.Roy, Mexico City on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Aera is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
+- Drama Radio Bar, Mexico City — Tue, 22 Sept 2026
 - Kater, Berlin — Fri, 11 Sept 2026
 - Studio Club Malaga, Malaga — Sat, 28 Feb 2026
 - Kater, Berlin — Fri, 6 Feb 2026
@@ -20,7 +21,6 @@ Aera is a techno and house artist based in Germany, tracked on soundcheck, with 
 - Volt Club Milano, Milan — Sat, 10 Jan 2026
 - Do Not Sit On The Furniture, Miami — Thu, 24 Jul 2025
 - M.N.Roy, Mexico City — Fri, 11 Jul 2025
-- TBA, Los Angeles — Sat, 5 Jul 2025
 
 ## Shares bills with
 

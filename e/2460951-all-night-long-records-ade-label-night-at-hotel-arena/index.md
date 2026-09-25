@@ -1,6 +1,6 @@
 # All Night Long Records ADE Label Night at Hotel Arena
 
-All Night Long Records ADE Label Night at Hotel Arena on Thu 22 Oct, Amsterdam. 3 acts on the bill: Acid Arab, Mandragora and NTO. Techno and House. Preview the line-up and save it on soundcheck.
+All Night Long Records ADE Label Night at Hotel Arena on Thu 22 Oct, Amsterdam. 3 artists on the bill: Acid Arab, Mandragora and NTO. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

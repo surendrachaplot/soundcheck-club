@@ -1,6 +1,6 @@
 # Part Time Locals - djs Radul (RO), Sam Gittis & friends at Bukanyr Boat
 
-Part Time Locals - djs Radul (RO), Sam Gittis & friends at Bukanyr Boat on Sat 26 Sept, Prague. 2 acts on the bill: Radul and Sam Gittis. Techno and House. Preview the line-up and save it on soundcheck.
+Part Time Locals - djs Radul (RO), Sam Gittis & friends at Bukanyr Boat on Sat 26 Sept, Prague. 2 artists on the bill: Radul and Sam Gittis. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

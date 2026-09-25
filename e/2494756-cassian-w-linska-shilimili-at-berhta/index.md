@@ -1,6 +1,6 @@
 # Cassian w. Linska, shilimili at BERHTA
 
-Cassian w. Linska, shilimili at BERHTA on Fri 25 Sept, Washingtondc. 3 acts on the bill: Cassian, Linska and shilimili. Techno and House. Preview the line-up and save it on soundcheck.
+Cassian w. Linska, shilimili at BERHTA on Fri 25 Sept, Washington DC. 3 artists on the bill: Cassian, Linska and shilimili. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

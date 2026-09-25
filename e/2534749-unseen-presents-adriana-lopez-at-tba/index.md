@@ -1,6 +1,6 @@
 # UNSEEN presents: Adriana Lopez at TBA
 
-UNSEEN presents: Adriana Lopez at TBA on Sat 31 Oct, Denver. 3 acts on the bill: Adriana Lopez, Andrew Bon Bosher and Fiat Luxx. Techno. Preview the line-up and save it on soundcheck.
+UNSEEN presents: Adriana Lopez at TBA on Sat 31 Oct, Denver. 3 artists on the bill: Adriana Lopez, Andrew Bon Bosher and Fiat Luxx. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

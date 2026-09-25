@@ -1,6 +1,6 @@
 # Skream: Open To Close [Club 69 CLOSING WEEKEND] at Club 69
 
-Skream: Open To Close [Club 69 CLOSING WEEKEND] on Thu 8 Oct, Glasgow. 1 act on the bill: Skream. Techno and House. Preview the line-up and save it on soundcheck.
+Skream: Open To Close [Club 69 CLOSING WEEKEND] on Thu 8 Oct, Glasgow. 1 artist on the bill: Skream. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

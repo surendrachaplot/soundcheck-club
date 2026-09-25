@@ -2,7 +2,7 @@
 
 Mandarine Park & Tent is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Underworld / Mariano Mellino - MANDARINE PARK, BS. AS" on Thu, 26 Nov 2026.
 
-Mandarine Park & Tent is a music venue in Buenosaires listed on soundcheck. 1 upcoming gig, with line-ups including Mariano Mellino and Underworld. Browse upcoming dates, start times and who's playing. Punta Carrasco, Av. Costanera Norte y Sarmiento, Buenos Aires, Argentina.
+Mandarine Park & Tent is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig, with line-ups including Mariano Mellino and Underworld. Browse upcoming dates, start times and who's playing. Punta Carrasco, Av. Costanera Norte y Sarmiento, Buenos Aires, Argentina.
 
 ## What's on
 

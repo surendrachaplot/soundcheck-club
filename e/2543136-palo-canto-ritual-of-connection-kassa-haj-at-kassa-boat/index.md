@@ -1,6 +1,6 @@
 # Palo Canto - Ritual of Connection // Kassa Hajó at Kassa Boat
 
-Palo Canto - Ritual of Connection // Kassa Hajó at Kassa Boat on Fri 27 Nov, Budapest. 1 act on the bill: Palo Canto. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
+Palo Canto - Ritual of Connection // Kassa Hajó at Kassa Boat on Fri 27 Nov, Budapest. 1 artist on the bill: Palo Canto. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

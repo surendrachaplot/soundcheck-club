@@ -1,14 +1,14 @@
 # Tonio Barrientos
 
-Tonio Barrientos is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Saalbach-Hinterglemm, All on Thu, 10 Dec 2026.
+Tonio Barrientos is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
-Tonio Barrientos is an electro and tech house artist based in Germany, tracked on soundcheck, with 16 sets logged across All, Berlin, Frankfurt and Munich. Often billed alongside Chris Di Perri, Alma Gold and Chicks Luv Us. Next up: Saalbach-Hinterglemm, All on Thu 10 Dec.
+Tonio Barrientos is an electro and tech house artist based in Germany, tracked on soundcheck, with 16 sets logged across Austria, Berlin, Frankfurt and Munich. Often billed alongside Chris Di Perri, Alma Gold and Chicks Luv Us. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | All |
+| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played
 

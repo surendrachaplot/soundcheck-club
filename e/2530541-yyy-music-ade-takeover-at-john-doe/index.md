@@ -1,6 +1,6 @@
 # YYY Music ADE Takeover at John Doe
 
-YYY Music ADE Takeover at John Doe on Thu 22 Oct, Amsterdam. 3 acts on the bill: DJ Dextro, Miguel Peres and Myne. Techno. Preview the line-up and save it on soundcheck.
+YYY Music ADE Takeover at John Doe on Thu 22 Oct, Amsterdam. 3 artists on the bill: DJ Dextro, Miguel Peres and Myne. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

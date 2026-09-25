@@ -1,6 +1,6 @@
 # House Worx presents: EXPERIENCE PLEZUR at Catch One
 
-House Worx presents: EXPERIENCE PLEZUR at Catch One on Sat 26 Sept, Losangeles. Preview the line-up and save it on soundcheck.
+House Worx presents: EXPERIENCE PLEZUR at Catch One on Sat 26 Sept, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

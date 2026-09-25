@@ -1,6 +1,6 @@
 # SHEENA IS presents GIRLS IN YOUR AREA + TAMI T at Lido Berlin
 
-SHEENA IS presents GIRLS IN YOUR AREA + TAMI T at Lido Berlin on Fri 16 Oct, Berlin. 1 act on the bill: BLEACH.LIVE. Preview the line-up and save it on soundcheck.
+SHEENA IS presents GIRLS IN YOUR AREA + TAMI T at Lido Berlin on Fri 16 Oct, Berlin. 1 artist on the bill: BLEACH.LIVE. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Discos Movimiento presenta: TraTraTrax Privaditos 26 Tour CDMX at TBA
 
-Discos Movimiento presenta: TraTraTrax Privaditos 26 Tour CDMX at TBA on Sat 5 Dec, Mexicocity. 6 acts on the bill: 1OO1O, Ben UFO, Gabrielle Kwarteng and MNTY and 2 more. Techno and Latin Bass. Preview the line-up and save it on soundcheck.
+Discos Movimiento presenta: TraTraTrax Privaditos 26 Tour CDMX at TBA on Sat 5 Dec, Mexico City. 6 artists on the bill: 1OO1O, Ben UFO, Gabrielle Kwarteng and MNTY and 2 more. Techno and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

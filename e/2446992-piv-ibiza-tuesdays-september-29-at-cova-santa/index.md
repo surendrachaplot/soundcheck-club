@@ -1,6 +1,6 @@
 # PIV IBIZA TUESDAYS - September 29 at Cova Santa
 
-PIV IBIZA TUESDAYS - September 29 at Cova Santa on Tue 29 Sept, Ibiza. 7 acts on the bill: Boss Priester, Julian Anthony, Klaudie and Laidlaw and 3 more. Preview the line-up and save it on soundcheck.
+PIV IBIZA TUESDAYS - September 29 at Cova Santa on Tue 29 Sept, Ibiza. 7 artists on the bill: Boss Priester, Julian Anthony, Klaudie and Laidlaw and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Korai Electric, Önismereti Diszkó at Viadukt at Viadukt Bar
 
-Korai Electric, Önismereti Diszkó at Viadukt at Viadukt Bar on Fri 2 Oct, Budapest. 1 act on the bill: Ben Dover. Experimental and Psytrance. Preview the line-up and save it on soundcheck.
+Korai Electric, Önismereti Diszkó at Viadukt at Viadukt Bar on Fri 2 Oct, Budapest. 1 artist on the bill: Ben Dover. Experimental and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

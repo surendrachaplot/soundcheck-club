@@ -1,6 +1,6 @@
 # F90 Münster at Amp
 
-F90 Münster at Amp on Fri 9 Oct, Munster. 6 acts on the bill: Delm, DJ Zugzwang, GEORGE aka DR.RADSPORT and KLING&KLANG and 2 more. Trance. Preview the line-up and save it on soundcheck.
+F90 Münster at Amp on Fri 9 Oct, Munster. 6 artists on the bill: Delm, DJ Zugzwang, GEORGE aka DR.RADSPORT and KLING&KLANG and 2 more. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

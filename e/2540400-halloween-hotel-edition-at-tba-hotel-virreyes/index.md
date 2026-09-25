@@ -1,6 +1,6 @@
 # Halloween Hotel Edition at TBA - Hotel Virreyes
 
-Halloween Hotel Edition at TBA - Hotel Virreyes on Sat 17 Oct, Mexicocity. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Halloween Hotel Edition at TBA - Hotel Virreyes on Sat 17 Oct, Mexico City. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

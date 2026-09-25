@@ -1,6 +1,6 @@
 # BAILE ANTICOLONIAL | Sudar + Plasma at El Pumarejo Barcelona
 
-BAILE ANTICOLONIAL | Sudar + Plasma at El Pumarejo Barcelona on Sat 10 Oct, Barcelona. 6 acts on the bill: AMANTRA, Julio César, KINDA and Kontronatura and 2 more. Bass and Baile Funk. Preview the line-up and save it on soundcheck.
+BAILE ANTICOLONIAL | Sudar + Plasma at El Pumarejo Barcelona on Sat 10 Oct, Barcelona. 6 artists on the bill: AMANTRA, Julio César, KINDA and Kontronatura and 2 more. Bass and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 23:59: EARGASM GOD, DBBD, Paralich, AREA ØNE at Kilomètre25
 
-23:59: EARGASM GOD, DBBD, Paralich, AREA ØNE at Kilomètre25 on Sat 3 Oct, Paris. 4 acts on the bill: AREA ØNE, DBBD, EARGASM GOD and Paralich. Techno. Preview the line-up and save it on soundcheck.
+23:59: EARGASM GOD, DBBD, Paralich, AREA ØNE at Kilomètre25 on Sat 3 Oct, Paris. 4 artists on the bill: AREA ØNE, DBBD, EARGASM GOD and Paralich. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Jewelry Box III at Bossa Nova Civic Club
 
-The Jewelry Box III at Bossa Nova Civic Club on Thu 24 Sept, Newyorkcity. 2 acts on the bill: SEXINCHURCH and WTCHCRFT. Techno and Club. Preview the line-up and save it on soundcheck.
+The Jewelry Box III at Bossa Nova Civic Club on Thu 24 Sept, New York City. 2 artists on the bill: SEXINCHURCH and WTCHCRFT. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

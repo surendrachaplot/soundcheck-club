@@ -1,6 +1,6 @@
 # Urban Jam - HIPHOP - at ZEROTOKYO
 
-Urban Jam - HIPHOP - at ZEROTOKYO on Sat 26 Sept, Tokyo. 2 acts on the bill: HATSUYUKI and KAZBONGO. Hip-Hop. Preview the line-up and save it on soundcheck.
+Urban Jam - HIPHOP - at ZEROTOKYO on Sat 26 Sept, Tokyo. 2 artists on the bill: HATSUYUKI and KAZBONGO. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

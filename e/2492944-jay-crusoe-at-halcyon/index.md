@@ -1,6 +1,6 @@
 # JAY CRUSOE at Halcyon
 
-JAY CRUSOE at Halcyon on Fri 2 Oct, Sanfrancisco. Preview the line-up and save it on soundcheck.
+JAY CRUSOE at Halcyon on Fri 2 Oct, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

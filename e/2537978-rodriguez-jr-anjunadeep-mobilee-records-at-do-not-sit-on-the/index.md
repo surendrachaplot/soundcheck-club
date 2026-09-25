@@ -1,6 +1,6 @@
 # Rodriguez Jr. [Anjunadeep / Mobilee Records] at Do Not Sit On The Furniture
 
-Rodriguez Jr. [Anjunadeep / Mobilee Records] at Do Not Sit On The Furniture on Fri 20 Nov, Miami. 1 act on the bill: Rodriguez Jr.. House and Deep House. Preview the line-up and save it on soundcheck.
+Rodriguez Jr. [Anjunadeep / Mobilee Records] at Do Not Sit On The Furniture on Fri 20 Nov, Miami. 1 artist on the bill: Rodriguez Jr.. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

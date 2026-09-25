@@ -1,6 +1,6 @@
 # ADE Sunday with Joseph Capriati at BRET
 
-ADE Sunday with Joseph Capriati at BRET on Sun 25 Oct, Amsterdam. 2 acts on the bill: Cristina Lazic and Joseph Capriati. Tech House. Preview the line-up and save it on soundcheck.
+ADE Sunday with Joseph Capriati at BRET on Sun 25 Oct, Amsterdam. 2 artists on the bill: Cristina Lazic and Joseph Capriati. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

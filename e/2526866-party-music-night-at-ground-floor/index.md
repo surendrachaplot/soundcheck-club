@@ -1,6 +1,6 @@
 # Party Music Night at Ground Floor
 
-Party Music Night at Ground Floor on Fri 2 Oct, Philadelphia. 2 acts on the bill: Dj Caution and DJ Sega. Club. Preview the line-up and save it on soundcheck.
+Party Music Night at Ground Floor on Fri 2 Oct, Philadelphia. 2 artists on the bill: Dj Caution and DJ Sega. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

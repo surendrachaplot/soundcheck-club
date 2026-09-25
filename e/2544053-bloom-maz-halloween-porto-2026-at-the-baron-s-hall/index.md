@@ -1,6 +1,6 @@
 # Bloom & Maz Halloween - Porto 2026 at The Baron"s Hall
 
-Bloom & Maz Halloween - Porto 2026 at The Baron"s Hall on Sat 31 Oct, Porto. 1 act on the bill: Maz (BR). Electronica. Preview the line-up and save it on soundcheck.
+Bloom & Maz Halloween - Porto 2026 at The Baron"s Hall on Sat 31 Oct, Porto. 1 artist on the bill: Maz (BR). Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Old School R&B • Hip Hop • Latin & Caribbean vibes at Club Leidse
 
-Old School R&B • Hip Hop • Latin & Caribbean vibes at Club Leidse on Fri 2 Oct, Amsterdam. 2 acts on the bill: Oscar Osorio and Rishi Romero. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Old School R&B • Hip Hop • Latin & Caribbean vibes at Club Leidse on Fri 2 Oct, Amsterdam. 2 artists on the bill: Oscar Osorio and Rishi Romero. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

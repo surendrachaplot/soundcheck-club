@@ -1,6 +1,6 @@
 # Pendulum by Steve Lawler at Aire Miami
 
-Pendulum by Steve Lawler at Aire Miami on Sat 26 Sept, Miami. 2 acts on the bill: Ella Romand and Steve Lawler. Progressive House and Afro Tech. Preview the line-up and save it on soundcheck.
+Pendulum by Steve Lawler at Aire Miami on Sat 26 Sept, Miami. 2 artists on the bill: Ella Romand and Steve Lawler. Progressive House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

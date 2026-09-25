@@ -1,6 +1,6 @@
 # LAST/RAVE 3-YEAR ANNIVERSARY with Trypdø at Tranzit
 
-LAST/RAVE 3-YEAR ANNIVERSARY with Trypdø at Tranzit on Fri 9 Oct, Hamburg. 4 acts on the bill: 333CXT, Natta, Trypdø and VECTA. Techno. Preview the line-up and save it on soundcheck.
+LAST/RAVE 3-YEAR ANNIVERSARY with Trypdø at Tranzit on Fri 9 Oct, Hamburg. 4 artists on the bill: 333CXT, Natta, Trypdø and VECTA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PW Season Closing Weekend • Giammarco Orsini (all night long) at Platforma Wolff
 
-PW Season Closing Weekend • Giammarco Orsini (all night long) at Platforma Wolff on Fri 25 Sept, Bucharest. 1 act on the bill: Giammarco Orsini. Techno and House. Preview the line-up and save it on soundcheck.
+PW Season Closing Weekend • Giammarco Orsini (all night long) at Platforma Wolff on Fri 25 Sept, Bucharest. 1 artist on the bill: Giammarco Orsini. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

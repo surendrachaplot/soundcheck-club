@@ -1,6 +1,6 @@
 # THE GET DOWN with Mandel Turner, Balthazar Martinez, Yuval at Paloma
 
-THE GET DOWN with Mandel Turner, Balthazar Martinez, Yuval at Paloma on Fri 2 Oct, Berlin. 3 acts on the bill: Balthazar Martinez, Mandel Turner and Yuval. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+THE GET DOWN with Mandel Turner, Balthazar Martinez, Yuval at Paloma on Fri 2 Oct, Berlin. 3 artists on the bill: Balthazar Martinez, Mandel Turner and Yuval. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Black House Radio: CHURCH at Pico Union Project
 
-Black House Radio: CHURCH at Pico Union Project on Sun 27 Sept, Losangeles. 4 acts on the bill: Calvin Dunn, DJ Shannon, DJ Spen and Michael Donte. House. Preview the line-up and save it on soundcheck.
+Black House Radio: CHURCH at Pico Union Project on Sun 27 Sept, Los Angeles. 4 artists on the bill: Calvin Dunn, DJ Shannon, DJ Spen and Michael Donte. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

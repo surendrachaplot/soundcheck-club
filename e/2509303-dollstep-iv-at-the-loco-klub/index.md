@@ -1,6 +1,6 @@
 # DOLLSTEP IV at The Loco Klub
 
-DOLLSTEP IV at The Loco Klub on Sat 3 Oct, Bristol. 3 acts on the bill: Alif Hilal, Jess Hands and LYZANDER. Techno and Dubstep. Preview the line-up and save it on soundcheck.
+DOLLSTEP IV at The Loco Klub on Sat 3 Oct, Bristol. 3 artists on the bill: Alif Hilal, Jess Hands and LYZANDER. Techno and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

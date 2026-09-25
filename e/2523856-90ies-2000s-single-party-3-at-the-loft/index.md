@@ -1,6 +1,6 @@
 # 90ies & 2000s SINGLE Party <3 at The Loft
 
-90ies & 2000s SINGLE Party <3 at The Loft on Sat 26 Sept, Vienna. 1 act on the bill: AVO2X. Disco and Pop. Preview the line-up and save it on soundcheck.
+90ies & 2000s SINGLE Party <3 at The Loft on Sat 26 Sept, Vienna. 1 artist on the bill: AVO2X. Disco and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

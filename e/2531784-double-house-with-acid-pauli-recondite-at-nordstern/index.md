@@ -1,6 +1,6 @@
 # Double House with Acid Pauli & Recondite at Nordstern
 
-Double House with Acid Pauli & Recondite at Nordstern on Sat 17 Oct, Basel. 7 acts on the bill: Acid Pauli, Agonis, Dan Dara and Erti Lutaj and 3 more. Preview the line-up and save it on soundcheck.
+Double House with Acid Pauli & Recondite at Nordstern on Sat 17 Oct, Basel. 7 artists on the bill: Acid Pauli, Agonis, Dan Dara and Erti Lutaj and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KEEP HUSH × NOSLEEP with BIG SEXXY BASS & WHAT'S ON Joseysradios at Ääniwalli
 
-KEEP HUSH × NOSLEEP with BIG SEXXY BASS & WHAT'S ON Joseysradios at Ääniwalli on Sat 26 Sept, Helsinki. 7 acts on the bill: Bucktooth T, Joseysradios, KOFU and moimar and 3 more. Preview the line-up and save it on soundcheck.
+KEEP HUSH × NOSLEEP with BIG SEXXY BASS & WHAT'S ON Joseysradios at Ääniwalli on Sat 26 Sept, Helsinki. 7 artists on the bill: Bucktooth T, Joseysradios, KOFU and moimar and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Modestep at La Maroquinerie
 
-Modestep at La Maroquinerie on Wed 2 Dec, Paris. 1 act on the bill: Modestep. Dubstep. Preview the line-up and save it on soundcheck.
+Modestep at La Maroquinerie on Wed 2 Dec, Paris. 1 artist on the bill: Modestep. Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

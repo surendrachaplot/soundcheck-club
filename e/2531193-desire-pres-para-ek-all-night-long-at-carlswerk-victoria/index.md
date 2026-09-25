@@ -1,6 +1,6 @@
 # Desire pres. Paraçek All Night long at Carlswerk Victoria
 
-Desire pres. Paraçek All Night long at Carlswerk Victoria on Sat 24 Oct, Cologne. 1 act on the bill: Paraçek. Preview the line-up and save it on soundcheck.
+Desire pres. Paraçek All Night long at Carlswerk Victoria on Sat 24 Oct, Cologne. 1 artist on the bill: Paraçek. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KLAASH at Sameheads
 
-KLAASH at Sameheads on Fri 16 Oct, Berlin. 5 acts on the bill: Caillou, Electrosexual, Melanie Havens and Paty Vapor and 1 more. Preview the line-up and save it on soundcheck.
+KLAASH at Sameheads on Fri 16 Oct, Berlin. 5 artists on the bill: Caillou, Electrosexual, Melanie Havens and Paty Vapor and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

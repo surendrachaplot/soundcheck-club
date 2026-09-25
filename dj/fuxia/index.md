@@ -2,7 +2,7 @@
 
 fuxia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 10 Oct 2026.
 
-fuxia is a techno and electro artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Buenosaires, Leipzig and Munich. Often billed alongside Pascal Rudert, Aio and Konfusia. Next up: Bahnwärter Thiel, Munich on Sat 10 Oct.
+fuxia is a techno and electro artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Buenos Aires, Leipzig and Munich. Often billed alongside Pascal Rudert, Aio and Konfusia. Next up: Bahnwärter Thiel, Munich on Sat 10 Oct.
 
 ## Upcoming shows
 

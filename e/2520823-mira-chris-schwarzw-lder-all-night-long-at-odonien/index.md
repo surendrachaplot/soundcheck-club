@@ -1,6 +1,6 @@
 # Mira & Chris Schwarzwälder -All Night Long- at Odonien
 
-Mira & Chris Schwarzwälder -All Night Long- at Odonien on Fri 20 Nov, Cologne. 2 acts on the bill: Chris Schwarzwälder and Mira. Techno and House. Preview the line-up and save it on soundcheck.
+Mira & Chris Schwarzwälder -All Night Long- at Odonien on Fri 20 Nov, Cologne. 2 artists on the bill: Chris Schwarzwälder and Mira. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Denis Sulta December Residency at Phonox
 
-Denis Sulta December Residency at Phonox on Fri 4 Dec, London. 1 act on the bill: Denis Sulta. Techno and House. Preview the line-up and save it on soundcheck.
+Denis Sulta December Residency at Phonox on Fri 4 Dec, London. 1 artist on the bill: Denis Sulta. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dreem Teem & Friends - 30th Anniversary Party at Night Tales
 
-Dreem Teem & Friends - 30th Anniversary Party at Night Tales on Sun 1 Nov, London. 5 acts on the bill: DJ Spoony, MC PSG, Mike ruff cut Lloyd and Mikee B and 1 more. Garage. Preview the line-up and save it on soundcheck.
+Dreem Teem & Friends - 30th Anniversary Party at Night Tales on Sun 1 Nov, London. 5 artists on the bill: DJ Spoony, MC PSG, Mike ruff cut Lloyd and Mikee B and 1 more. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

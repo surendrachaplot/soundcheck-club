@@ -2,7 +2,7 @@
 
 gyrofield is a Drum & Bass and Bass artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 25 Sept 2026.
 
-gyrofield is a drum & bass and bass artist based in Netherlands, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 27 more. Often billed alongside Mala, DjRUM and KAVARI. Next up: TRANSMISSION DC, Washingtondc on Fri 25 Sept.
+gyrofield is a drum & bass and bass artist based in Netherlands, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 27 more. Often billed alongside Mala, DjRUM and KAVARI. Next up: TRANSMISSION DC, Washington DC on Fri 25 Sept.
 
 ## Upcoming shows
 

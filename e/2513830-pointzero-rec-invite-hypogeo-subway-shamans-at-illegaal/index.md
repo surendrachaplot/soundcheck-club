@@ -1,6 +1,6 @@
 # Pointzero Rec Invite HypoGeo - Subway Shamans at Illegaal
 
-Pointzero Rec Invite HypoGeo - Subway Shamans at Illegaal on Sat 17 Oct, Brussels. 1 act on the bill: HypoGeo. Acid and Psytrance. Preview the line-up and save it on soundcheck.
+Pointzero Rec Invite HypoGeo - Subway Shamans at Illegaal on Sat 17 Oct, Brussels. 1 artist on the bill: HypoGeo. Acid and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

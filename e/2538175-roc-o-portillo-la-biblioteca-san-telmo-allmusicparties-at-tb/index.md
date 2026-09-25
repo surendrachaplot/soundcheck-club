@@ -1,6 +1,6 @@
 # Rocío Portillo - La Biblioteca, San Telmo - ALLMusicParties at TBA - La Biblioteca, San Telmo
 
-Rocío Portillo - La Biblioteca, San Telmo - ALLMusicParties at TBA - La Biblioteca, San Telmo on Sat 24 Oct, Buenosaires. Progressive House. Preview the line-up and save it on soundcheck.
+Rocío Portillo - La Biblioteca, San Telmo - ALLMusicParties at TBA - La Biblioteca, San Telmo on Sat 24 Oct, Buenos Aires. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

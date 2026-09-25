@@ -1,6 +1,6 @@
 # Intercell Ghent at TBA
 
-Intercell Ghent at TBA on Wed 11 Nov, Ghent. 6 acts on the bill: Ava Eva, Bibi Seck, Fafi Abdel Nour and Ned Bennett and 2 more. Preview the line-up and save it on soundcheck.
+Intercell Ghent at TBA on Wed 11 Nov, Ghent. 6 artists on the bill: Ava Eva, Bibi Seck, Fafi Abdel Nour and Ned Bennett and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

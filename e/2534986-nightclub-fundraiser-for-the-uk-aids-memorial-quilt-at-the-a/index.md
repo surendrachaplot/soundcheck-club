@@ -1,6 +1,6 @@
 # NIGHTCLUB FUNDRAISER FOR THE UK AIDS MEMORIAL QUILT at The Art School
 
-NIGHTCLUB FUNDRAISER FOR THE UK AIDS MEMORIAL QUILT at The Art School on Thu 24 Sept, Glasgow. 5 acts on the bill: Bonzai Bonner, Colin, Gabor Matty and Junglehussi and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+NIGHTCLUB FUNDRAISER FOR THE UK AIDS MEMORIAL QUILT at The Art School on Thu 24 Sept, Glasgow. 5 artists on the bill: Bonzai Bonner, Colin, Gabor Matty and Junglehussi and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

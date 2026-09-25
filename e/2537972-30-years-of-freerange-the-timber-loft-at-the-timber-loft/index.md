@@ -1,6 +1,6 @@
 # 30 Years Of Freerange @ The Timber Loft at The Timber Loft
 
-30 Years Of Freerange @ The Timber Loft on Sun 22 Nov, London. 5 acts on the bill: Atjazz, Conrad Lee, Hudson’s Choice and Jimpster and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
+30 Years Of Freerange @ The Timber Loft on Sun 22 Nov, London. 5 artists on the bill: Atjazz, Conrad Lee, Hudson’s Choice and Jimpster and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

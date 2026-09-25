@@ -1,6 +1,6 @@
 # AIRPORT X 808 STUDIOS at Airport Würzburg
 
-AIRPORT X 808 STUDIOS at Airport Würzburg on Fri 11 Dec, Nurnberg. 1 act on the bill: OGUZ. Techno. Preview the line-up and save it on soundcheck.
+AIRPORT X 808 STUDIOS at Airport Würzburg on Fri 11 Dec, Nürnberg. 1 artist on the bill: OGUZ. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

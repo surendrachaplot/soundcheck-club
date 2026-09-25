@@ -1,6 +1,6 @@
 # scribble.mp3 pres. Felisha Ledesma & Angelo Harmsworth + Francesco Corvi & Nocturnerror at Silent Green
 
-scribble.mp3 pres. Felisha Ledesma & Angelo Harmsworth + Francesco Corvi & Nocturnerror at Silent Green on Thu 1 Oct, Berlin. 4 acts on the bill: Angelo Harmsworth, Felisha Ledesma, Francesco Corvi and Nocturnerror. Experimental. Preview the line-up and save it on soundcheck.
+scribble.mp3 pres. Felisha Ledesma & Angelo Harmsworth + Francesco Corvi & Nocturnerror at Silent Green on Thu 1 Oct, Berlin. 4 artists on the bill: Angelo Harmsworth, Felisha Ledesma, Francesco Corvi and Nocturnerror. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

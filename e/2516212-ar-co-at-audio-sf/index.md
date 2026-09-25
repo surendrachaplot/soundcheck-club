@@ -1,6 +1,6 @@
 # AR/CO at Audio SF
 
-AR/CO at Audio SF on Fri 6 Nov, Sanfrancisco. Preview the line-up and save it on soundcheck.
+AR/CO at Audio SF on Fri 6 Nov, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

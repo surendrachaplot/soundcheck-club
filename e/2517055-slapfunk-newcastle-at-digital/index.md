@@ -1,6 +1,6 @@
 # Slapfunk Newcastle at Digital
 
-Slapfunk Newcastle at Digital on Fri 13 Nov, Newcastle. 5 acts on the bill: Doudou MD, Dungeon Meat, Samuel Deep and The Ghost and 1 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Slapfunk Newcastle at Digital on Fri 13 Nov, Newcastle. 5 artists on the bill: Doudou MD, Dungeon Meat, Samuel Deep and The Ghost and 1 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

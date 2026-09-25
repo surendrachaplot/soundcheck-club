@@ -1,6 +1,6 @@
 # Power House at Paloma
 
-Power House at Paloma on Sat 24 Oct, Berlin. 2 acts on the bill: Finn Johannsen and Pal Joey. House. Preview the line-up and save it on soundcheck.
+Power House at Paloma on Sat 24 Oct, Berlin. 2 artists on the bill: Finn Johannsen and Pal Joey. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

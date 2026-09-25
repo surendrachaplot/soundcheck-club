@@ -1,6 +1,6 @@
 # KIMCHI X REI at Rei Bar
 
-KIMCHI X REI at Rei Bar on Sat 26 Sept, Berlin. 4 acts on the bill: GRETA (2), Katsuya Sano, ki:ke and Kim Bruun. Downtempo and Acid. Preview the line-up and save it on soundcheck.
+KIMCHI X REI at Rei Bar on Sat 26 Sept, Berlin. 4 artists on the bill: GRETA, Katsuya Sano, ki:ke and Kim Bruun. Downtempo and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

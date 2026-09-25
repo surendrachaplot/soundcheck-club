@@ -1,6 +1,6 @@
 # Equalize with Stefan Goldmann (Macro, from Berlin) - Das Berghain in Osaka! - at Compufunk Records
 
-Equalize with Stefan Goldmann (Macro, from Berlin) - Das Berghain in Osaka! - at Compufunk Records on Sat 10 Oct, Osaka. 2 acts on the bill: Ryoma Sasaki and Stefan Goldmann. Techno and House. Preview the line-up and save it on soundcheck.
+Equalize with Stefan Goldmann (Macro, from Berlin) - Das Berghain in Osaka! - at Compufunk Records on Sat 10 Oct, Osaka. 2 artists on the bill: Ryoma Sasaki and Stefan Goldmann. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

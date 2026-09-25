@@ -1,6 +1,6 @@
 # Mau P - BADDEST BEHAVIOUR at Pacha Ibiza
 
-Mau P - BADDEST BEHAVIOUR at Pacha Ibiza on Wed 30 Sept, Ibiza. 1 act on the bill: Mau P. House. Preview the line-up and save it on soundcheck.
+Mau P - BADDEST BEHAVIOUR at Pacha Ibiza on Wed 30 Sept, Ibiza. 1 artist on the bill: Mau P. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

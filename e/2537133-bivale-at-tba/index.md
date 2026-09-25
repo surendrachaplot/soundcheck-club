@@ -1,6 +1,6 @@
 # Bivale at TBA
 
-Bivale at TBA on Sat 26 Sept, Sydney. 2 acts on the bill: Mash and Unpin. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+Bivale at TBA on Sat 26 Sept, Sydney. 2 artists on the bill: Mash and Unpin. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

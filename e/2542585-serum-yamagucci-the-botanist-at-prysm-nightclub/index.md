@@ -1,6 +1,6 @@
 # Serum: Yamagucci + The Botanist at Prysm Nightclub
 
-Serum: Yamagucci + The Botanist at Prysm Nightclub on Sat 28 Nov, Chicago. 2 acts on the bill: The Botanist and Yamagucci. House and Tech House. Preview the line-up and save it on soundcheck.
+Serum: Yamagucci + The Botanist at Prysm Nightclub on Sat 28 Nov, Chicago. 2 artists on the bill: The Botanist and Yamagucci. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

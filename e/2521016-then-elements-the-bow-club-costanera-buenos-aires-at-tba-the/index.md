@@ -1,6 +1,6 @@
 # Then, Elements, The Bow Club, Costanera Buenos Aires at TBA - The Bow Club, Costanera
 
-Then, Elements, The Bow Club, Costanera Buenos Aires at TBA - The Bow Club, Costanera on Fri 16 Oct, Buenosaires. 1 act on the bill: TH;EN. Progressive House. Preview the line-up and save it on soundcheck.
+Then, Elements, The Bow Club, Costanera Buenos Aires at TBA - The Bow Club, Costanera on Fri 16 Oct, Buenos Aires. 1 artist on the bill: TH;EN. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

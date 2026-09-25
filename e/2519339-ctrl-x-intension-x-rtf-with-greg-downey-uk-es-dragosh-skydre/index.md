@@ -1,6 +1,6 @@
 # ctrl x inTension x RTF with Greg Downey [UK/ES], dragosh, SkyDreamer at control
 
-ctrl x inTension x RTF with Greg Downey [UK/ES], dragosh, SkyDreamer at control on Sat 21 Nov, Bucharest. 2 acts on the bill: dragosh (RO) and Greg Downey. Trance and Techno. Preview the line-up and save it on soundcheck.
+ctrl x inTension x RTF with Greg Downey [UK/ES], dragosh, SkyDreamer at control on Sat 21 Nov, Bucharest. 2 artists on the bill: dragosh (RO) and Greg Downey. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

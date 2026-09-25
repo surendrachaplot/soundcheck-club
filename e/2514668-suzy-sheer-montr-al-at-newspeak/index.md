@@ -1,6 +1,6 @@
 # Suzy Sheer - Montréal at Newspeak
 
-Suzy Sheer - Montréal at Newspeak on Fri 6 Nov, Montreal. 1 act on the bill: Patch+. Electro and Pop. Preview the line-up and save it on soundcheck.
+Suzy Sheer - Montréal at Newspeak on Fri 6 Nov, Montreal. 1 artist on the bill: Patch+. Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

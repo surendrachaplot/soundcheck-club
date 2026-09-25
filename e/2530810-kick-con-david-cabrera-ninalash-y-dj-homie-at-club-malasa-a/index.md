@@ -1,6 +1,6 @@
 # Kick con David Cabrera, Ninalash! y Dj Homie at Club Malasaña
 
-Kick con David Cabrera, Ninalash! y Dj Homie at Club Malasaña on Sat 26 Sept, Madrid. 3 acts on the bill: David Cabrera, Dj Homie and Ninalash!. House and Electronica. Preview the line-up and save it on soundcheck.
+Kick con David Cabrera, Ninalash! y Dj Homie at Club Malasaña on Sat 26 Sept, Madrid. 3 artists on the bill: David Cabrera, Dj Homie and Ninalash!. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

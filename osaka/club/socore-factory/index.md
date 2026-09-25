@@ -1,14 +1,13 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 34 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Deux Yan from: The Netherlands JAPAN TOUR in Osaka" on Thu, 24 Sept 2026.
+Socore Factory is a music venue in Osaka with 33 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "DEAD FISH JAPAN TOUR 2026" on Fri, 25 Sept 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 34 upcoming gigs, with line-ups including Akira, ALUCA, Fluid and GEBO and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 33 upcoming gigs, with line-ups including Akira, ALUCA, Fluid and GEBO and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Deux Yan from: The Netherlands JAPAN TOUR in Osaka | Lhinen, WÖNDER GIRL |
 | Fri, 25 Sept 2026 | DEAD FISH JAPAN TOUR 2026 |  |
 | Sat, 26 Sept 2026 | 今夜もランデヴー 9th Anniversary | Koma (1), Marie (2) |
 | Wed, 30 Sept 2026 | HOOFIT | Mash |
@@ -18,6 +17,7 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 34 upcoming gigs,
 | Mon, 5 Oct 2026 | ZVocal vol.67 |  |
 | Thu, 8 Oct 2026 | FINALLY | MIYUU |
 | Fri, 9 Oct 2026 | mophing people presents 'res andres' Release Japan Tour 2026 |  |
+| Sat, 10 Oct 2026 | SKA TOWN OSAKA vol.2 presented by vongsign | Warung |
 
 ## Address
 

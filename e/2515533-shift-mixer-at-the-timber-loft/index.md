@@ -1,6 +1,6 @@
 # SHIFT_Mixer at The Timber Loft
 
-SHIFT_Mixer at The Timber Loft on Fri 25 Sept, London. 1 act on the bill: Nicholsandroark. House and Deep House. Preview the line-up and save it on soundcheck.
+SHIFT_Mixer at The Timber Loft on Fri 25 Sept, London. 1 artist on the bill: Nicholsandroark. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

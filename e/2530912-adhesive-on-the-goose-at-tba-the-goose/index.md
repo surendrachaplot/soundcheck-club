@@ -1,6 +1,6 @@
 # Adhesive On The Goose at TBA - The Goose
 
-Adhesive On The Goose at TBA - The Goose on Sat 26 Sept, London. 2 acts on the bill: Finthehuman and Luca and Sol. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Adhesive On The Goose at TBA - The Goose on Sat 26 Sept, London. 2 artists on the bill: Finthehuman and Luca and Sol. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

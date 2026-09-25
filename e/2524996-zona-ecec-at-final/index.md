@@ -1,6 +1,6 @@
 # ZONA: ecec at Final
 
-ZONA: ecec at Final on Sat 26 Sept, Taipei. 1 act on the bill: ecec. Preview the line-up and save it on soundcheck.
+ZONA: ecec at Final on Sat 26 Sept, Taipei. 1 artist on the bill: ecec. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

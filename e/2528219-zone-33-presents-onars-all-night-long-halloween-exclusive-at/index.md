@@ -1,6 +1,6 @@
 # ZONE 33 PRESENTS: ONARSÉ ALL NIGHT LONG [HALLOWEEN EXCLUSIVE] at TBA - SECRET LOCATION SMS/EMAILED 3HRS PRIOR
 
-ZONE 33 PRESENTS: ONARSÉ ALL NIGHT LONG [HALLOWEEN EXCLUSIVE] at TBA - SECRET LOCATION SMS/EMAILED 3HRS PRIOR on Sat 31 Oct, Sydney. 1 act on the bill: ONARSÉ. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+ZONE 33 PRESENTS: ONARSÉ ALL NIGHT LONG [HALLOWEEN EXCLUSIVE] at TBA - SECRET LOCATION SMS/EMAILED 3HRS PRIOR on Sat 31 Oct, Sydney. 1 artist on the bill: ONARSÉ. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

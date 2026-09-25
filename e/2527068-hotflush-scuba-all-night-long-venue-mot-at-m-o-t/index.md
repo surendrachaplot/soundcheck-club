@@ -1,6 +1,6 @@
 # Hotflush: Scuba (All Night Long) - Venue MOT at M.O.T
 
-Hotflush: Scuba (All Night Long) - Venue MOT at M.O.T on Sat 14 Nov, London. 1 act on the bill: Scuba. Preview the line-up and save it on soundcheck.
+Hotflush: Scuba (All Night Long) - Venue MOT at M.O.T on Sat 14 Nov, London. 1 artist on the bill: Scuba. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

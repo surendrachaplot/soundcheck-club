@@ -1,6 +1,6 @@
 # SHINE -- Skin On Skin at The Telegraph Building
 
-SHINE -- Skin On Skin at The Telegraph Building on Fri 16 Oct, Belfast. 1 act on the bill: Skin On Skin. Preview the line-up and save it on soundcheck.
+SHINE -- Skin On Skin at The Telegraph Building on Fri 16 Oct, Belfast. 1 artist on the bill: Skin On Skin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

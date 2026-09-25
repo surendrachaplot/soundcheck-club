@@ -1,6 +1,6 @@
 # Demi Riquísimo & Grace Sands at Ambers at Amber's
 
-Demi Riquísimo & Grace Sands at Ambers at Amber's on Thu 29 Oct, Manchester. 2 acts on the bill: Demi Riquisimo and Grace Sands. House and Disco. Preview the line-up and save it on soundcheck.
+Demi Riquísimo & Grace Sands at Ambers at Amber's on Thu 29 Oct, Manchester. 2 artists on the bill: Demi Riquisimo and Grace Sands. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

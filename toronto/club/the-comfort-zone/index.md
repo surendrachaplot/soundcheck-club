@@ -8,7 +8,7 @@ The Comfort Zone is a music venue in Toronto listed on soundcheck. 8 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Stinny Stone | Cobb Douglas, Kaylub, Shaingel, Stinny Stone, UNCL Mike |
+| Fri, 25 Sept 2026 | Stinny Stone | Cobb Douglas, Kaylub, Stinny Stone, UNCL Mike |
 | Sat, 26 Sept 2026 | Morning Mass pres. Stefano Noferini | Manzone & Strong, Stefano Noferini, Theta State |
 | Sat, 17 Oct 2026 | Morning Mass pres. Harry Romero | Harry Romero, Manzone & Strong, Theta State |
 | Fri, 30 Oct 2026 | 404: DURDENHAUER & NYCO | DURDENHAUER, KILL 9 1, NYCO (NL), THREECARDMONTY, VENN |

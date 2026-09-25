@@ -1,6 +1,6 @@
 # Sutcliffe No More + Control + Kommando // Slaughterhouse, Berlin at Slaughterhouse am Kulturfabrik Moabit
 
-Sutcliffe No More + Control + Kommando // Slaughterhouse, Berlin at Slaughterhouse am Kulturfabrik Moabit on Sat 14 Nov, Berlin. 1 act on the bill: Philipp Strobel. Industrial and Noise. Preview the line-up and save it on soundcheck.
+Sutcliffe No More + Control + Kommando // Slaughterhouse, Berlin at Slaughterhouse am Kulturfabrik Moabit on Sat 14 Nov, Berlin. 1 artist on the bill: Philipp Strobel. Industrial and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

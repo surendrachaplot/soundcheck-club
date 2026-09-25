@@ -1,6 +1,6 @@
 # De Novo presents: It's db, CatLadyHi, Bahng, Eric Modz, Zaid K, Miss Hazard, Serapher, ceviché at Dead Letter No. 9
 
-De Novo presents: It's db, CatLadyHi, Bahng, Eric Modz, Zaid K, Miss Hazard, Serapher, ceviché at Dead Letter No. 9 on Thu 24 Sept, Newyorkcity. 4 acts on the bill: CatLadyHi, ceviché, Eric Modz and Miss Hazard. House and Electro. Preview the line-up and save it on soundcheck.
+De Novo presents: It's db, CatLadyHi, Bahng, Eric Modz, Zaid K, Miss Hazard, Serapher, ceviché at Dead Letter No. 9 on Thu 24 Sept, New York City. 4 artists on the bill: CatLadyHi, ceviché, Eric Modz and Miss Hazard. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

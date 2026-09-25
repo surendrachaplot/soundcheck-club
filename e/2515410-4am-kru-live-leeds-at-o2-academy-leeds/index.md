@@ -1,6 +1,6 @@
 # 4am Kru (Live) - Leeds at O2 Academy Leeds
 
-4am Kru (Live) - Leeds at O2 Academy Leeds on Fri 9 Oct, Leeds. 4 acts on the bill: 4am Kru, Becking, Fez the Kid and Silva Snipa. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+4am Kru (Live) - Leeds at O2 Academy Leeds on Fri 9 Oct, Leeds. 4 artists on the bill: 4am Kru, Becking, Fez the Kid and Silva Snipa. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

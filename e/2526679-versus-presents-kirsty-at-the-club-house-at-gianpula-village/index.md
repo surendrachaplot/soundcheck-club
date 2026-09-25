@@ -1,6 +1,6 @@
 # VERSUS presents KIRSTY at The Club House at Gianpula Village
 
-VERSUS presents KIRSTY at The Club House at Gianpula Village on Sat 3 Oct, Malta. 4 acts on the bill: KIRSTY, NEVYALC, PEACHY and TRÏÏSS. Techno and Gabber. Preview the line-up and save it on soundcheck.
+VERSUS presents KIRSTY at The Club House at Gianpula Village on Sat 3 Oct, Malta. 4 artists on the bill: KIRSTY, NEVYALC, PEACHY and TRÏÏSS. Techno and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

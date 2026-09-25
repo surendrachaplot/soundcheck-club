@@ -1,6 +1,6 @@
 # Peach Legends UK Tour - Tunnel Club, Birmingham at Tunnel Club
 
-Peach Legends UK Tour - Tunnel Club, Birmingham on Sat 12 Dec, Birmingham. 3 acts on the bill: Chris Bayne, Fisha and Signum. Trance and Club. Preview the line-up and save it on soundcheck.
+Peach Legends UK Tour - Tunnel Club, Birmingham on Sat 12 Dec, Birmingham. 3 artists on the bill: Chris Bayne, Fisha and Signum. Trance and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

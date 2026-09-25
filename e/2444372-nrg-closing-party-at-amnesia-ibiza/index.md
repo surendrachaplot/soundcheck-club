@@ -1,6 +1,6 @@
 # NRG Closing Party at Amnesia Ibiza
 
-NRG Closing Party at Amnesia Ibiza on Mon 28 Sept, Ibiza. 5 acts on the bill: Ben Hemsley, DART, Kyle Starkey and Paige Tomlinson and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+NRG Closing Party at Amnesia Ibiza on Mon 28 Sept, Ibiza. 5 artists on the bill: Ben Hemsley, DART, Kyle Starkey and Paige Tomlinson and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

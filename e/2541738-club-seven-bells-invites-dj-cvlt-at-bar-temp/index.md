@@ -1,6 +1,6 @@
 # Club Seven Bells invites DJ CVLT at Bar Temp.
 
-Club Seven Bells invites DJ CVLT at Bar Temp. on Fri 23 Oct, Bangkok. 1 act on the bill: DZ GAS. Acid and EBM. Preview the line-up and save it on soundcheck.
+Club Seven Bells invites DJ CVLT at Bar Temp. on Fri 23 Oct, Bangkok. 1 artist on the bill: DZ GAS. Acid and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

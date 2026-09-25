@@ -1,6 +1,6 @@
 # 3xNYX: Burn the House Down at Club NYX
 
-3xNYX: Burn the House Down at Club NYX on Sat 26 Sept, Amsterdam. 5 acts on the bill: Babs op de beat, Edward Meunier, MeRas and Soulfania and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+3xNYX: Burn the House Down at Club NYX on Sat 26 Sept, Amsterdam. 5 artists on the bill: Babs op de beat, Edward Meunier, MeRas and Soulfania and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

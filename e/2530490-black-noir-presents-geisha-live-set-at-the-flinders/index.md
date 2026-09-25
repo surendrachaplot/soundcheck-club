@@ -1,6 +1,6 @@
 # BLACK NOIR presents: GEISHA LIVE SET at The Flinders
 
-BLACK NOIR presents: GEISHA LIVE SET at The Flinders on Sat 7 Nov, Sydney. 1 act on the bill: <777>. Techno. Preview the line-up and save it on soundcheck.
+BLACK NOIR presents: GEISHA LIVE SET at The Flinders on Sat 7 Nov, Sydney. 1 artist on the bill: <777>. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

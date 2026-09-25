@@ -1,6 +1,6 @@
 # OCHOK with Kill Them with Colour at Soluna
 
-OCHOK with Kill Them with Colour at Soluna on Fri 25 Sept, Toronto. 1 act on the bill: Kill Them With Colour. Preview the line-up and save it on soundcheck.
+OCHOK with Kill Them with Colour at Soluna on Fri 25 Sept, Toronto. 1 artist on the bill: Kill Them With Colour. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Terminal Turkiye Launch Event: Alican at Flux
 
-Terminal Turkiye Launch Event: Alican at Flux on Fri 9 Oct, Istanbul. 1 act on the bill: Alican. House and Electronica. Preview the line-up and save it on soundcheck.
+Terminal Turkiye Launch Event: Alican at Flux on Fri 9 Oct, Istanbul. 1 artist on the bill: Alican. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

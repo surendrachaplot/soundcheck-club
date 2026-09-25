@@ -1,6 +1,6 @@
 # weeeirdos at Berghain | Panorama Bar | Säule
 
-weeeirdos at Berghain | Panorama Bar | Säule on Thu 8 Oct, Berlin. 5 acts on the bill: BRALLE, Budino, LOLSNAKE and SALOME and 1 more. Preview the line-up and save it on soundcheck.
+weeeirdos at Berghain | Panorama Bar | Säule on Thu 8 Oct, Berlin. 5 artists on the bill: BRALLE, Budino, LOLSNAKE and SALOME and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

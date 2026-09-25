@@ -1,6 +1,6 @@
 # Urban Spree KLUBNACHT 005 at Urban Spree
 
-Urban Spree KLUBNACHT 005 on Sat 26 Sept, Berlin. 3 acts on the bill: Albert Kraft, Daraio and Key Clef. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Urban Spree KLUBNACHT 005 on Sat 26 Sept, Berlin. 3 artists on the bill: Albert Kraft, Daraio and Key Clef. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

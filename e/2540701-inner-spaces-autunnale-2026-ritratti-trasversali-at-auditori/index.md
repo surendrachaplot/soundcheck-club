@@ -1,6 +1,6 @@
 # INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI at Auditorium San Fedele
 
-INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI at Auditorium San Fedele on Mon 14 Dec, Milan. 2 acts on the bill: Luigi Tozzi and Pole. Preview the line-up and save it on soundcheck.
+INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI at Auditorium San Fedele on Mon 14 Dec, Milan. 2 artists on the bill: Luigi Tozzi and Pole. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

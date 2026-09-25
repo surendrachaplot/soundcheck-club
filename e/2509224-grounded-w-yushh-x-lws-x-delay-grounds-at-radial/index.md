@@ -1,6 +1,6 @@
 # grounded w. Yushh x LWS x Delay Grounds at radial
 
-grounded w. Yushh x LWS x Delay Grounds at radial on Fri 30 Oct, London. 5 acts on the bill: carmen (7), Delay Grounds, Djuar and LWS and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+grounded w. Yushh x LWS x Delay Grounds at radial on Fri 30 Oct, London. 5 artists on the bill: carmen, Delay Grounds, Djuar and LWS and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

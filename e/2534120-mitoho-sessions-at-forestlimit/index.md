@@ -1,6 +1,6 @@
 # 【MITOHO SESSIONS】 at Forestlimit
 
-【MITOHO SESSIONS】 at Forestlimit on Sun 6 Dec, Tokyo. 1 act on the bill: Ayato. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+【MITOHO SESSIONS】 at Forestlimit on Sun 6 Dec, Tokyo. 1 artist on the bill: Ayato. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

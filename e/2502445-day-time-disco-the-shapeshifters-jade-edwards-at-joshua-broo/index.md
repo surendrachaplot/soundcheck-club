@@ -1,6 +1,6 @@
 # Day Time Disco: The Shapeshifters + Jade Edwards at Joshua Brooks
 
-Day Time Disco: The Shapeshifters + Jade Edwards at Joshua Brooks on Sat 10 Oct, Manchester. 2 acts on the bill: Jade Edwards and The Shapeshifters. House and Disco. Preview the line-up and save it on soundcheck.
+Day Time Disco: The Shapeshifters + Jade Edwards at Joshua Brooks on Sat 10 Oct, Manchester. 2 artists on the bill: Jade Edwards and The Shapeshifters. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

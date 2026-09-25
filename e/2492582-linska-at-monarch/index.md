@@ -1,6 +1,6 @@
 # Linska at Monarch
 
-Linska at Monarch on Fri 9 Oct, Sanfrancisco. 1 act on the bill: Linska. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Linska at Monarch on Fri 9 Oct, San Francisco/Oakland. 1 artist on the bill: Linska. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SHAME! with Guests of Honour CABARET VOLTAIRE! [Afterparty] at TBA
 
-SHAME! with Guests of Honour CABARET VOLTAIRE! [Afterparty] at TBA on Fri 25 Sept, Newyorkcity. 2 acts on the bill: L.Sangre and Xeno & Oaklander. Industrial and Post-Punk. Preview the line-up and save it on soundcheck.
+SHAME! with Guests of Honour CABARET VOLTAIRE! [Afterparty] at TBA on Fri 25 Sept, New York City. 2 artists on the bill: L.Sangre and Xeno & Oaklander. Industrial and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

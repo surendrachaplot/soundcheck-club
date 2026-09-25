@@ -1,6 +1,6 @@
 # CONCRETE JUNGLE #2 at Bossa Nova Civic Club
 
-CONCRETE JUNGLE #2 at Bossa Nova Civic Club on Thu 8 Oct, Newyorkcity. 1 act on the bill: Honey Bun. Jungle. Preview the line-up and save it on soundcheck.
+CONCRETE JUNGLE #2 at Bossa Nova Civic Club on Thu 8 Oct, New York City. 1 artist on the bill: Honey Bun. Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

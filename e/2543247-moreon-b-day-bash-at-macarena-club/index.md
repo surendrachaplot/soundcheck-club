@@ -1,6 +1,6 @@
 # Moreon B-Day Bash at Macarena Club
 
-Moreon B-Day Bash at Macarena Club on Sat 24 Oct, Barcelona. 3 acts on the bill: Baffa, LM and Moreon. Preview the line-up and save it on soundcheck.
+Moreon B-Day Bash at Macarena Club on Sat 24 Oct, Barcelona. 3 artists on the bill: Baffa, LM and Moreon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

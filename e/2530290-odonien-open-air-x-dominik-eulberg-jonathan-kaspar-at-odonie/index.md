@@ -1,6 +1,6 @@
 # Odonien Open Air x Dominik Eulberg & Jonathan Kaspar at Odonien
 
-Odonien Open Air x Dominik Eulberg & Jonathan Kaspar on Sat 26 Sept, Cologne. 2 acts on the bill: Dominik Eulberg and Jonathan Kaspar. Techno and House. Preview the line-up and save it on soundcheck.
+Odonien Open Air x Dominik Eulberg & Jonathan Kaspar on Sat 26 Sept, Cologne. 2 artists on the bill: Dominik Eulberg and Jonathan Kaspar. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

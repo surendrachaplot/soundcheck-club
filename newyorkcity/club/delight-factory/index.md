@@ -2,7 +2,7 @@
 
 Delight Factory is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Pataphysics 021" on Sat, 26 Sept 2026.
 
-Delight Factory is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including Bearded Twin, Ezekiel Honig, joshue ott and Todd Polenberg. Browse upcoming dates, start times and who's playing. 303 Saratoga Avenue, Brooklyn NY 11233.
+Delight Factory is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Bearded Twin, Ezekiel Honig, joshue ott and Todd Polenberg. Browse upcoming dates, start times and who's playing. 303 Saratoga Avenue, Brooklyn NY 11233.
 
 ## What's on
 

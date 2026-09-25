@@ -1,6 +1,6 @@
 # Diz, Colette, Lisa Shaw, Derrick Wize, Dayhota & Din9o at Jungle Hollywood
 
-Diz, Colette, Lisa Shaw, Derrick Wize, Dayhota & Din9o at Jungle Hollywood on Sat 24 Oct, Losangeles. 4 acts on the bill: Derrick Wize, Diz (1), DJ Colette and Lisa Shaw. House and Deep House. Preview the line-up and save it on soundcheck.
+Diz, Colette, Lisa Shaw, Derrick Wize, Dayhota & Din9o at Jungle Hollywood on Sat 24 Oct, Los Angeles. 4 artists on the bill: Derrick Wize, Diz, DJ Colette and Lisa Shaw. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

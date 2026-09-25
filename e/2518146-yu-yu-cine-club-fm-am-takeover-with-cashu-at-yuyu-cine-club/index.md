@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: FM/AM takeover with Cashu at YuYu Cine Club
 
-Yu Yu Cine Club: FM/AM takeover with Cashu at YuYu Cine Club on Sat 26 Sept, Mexicocity. 1 act on the bill: Cashu. Preview the line-up and save it on soundcheck.
+Yu Yu Cine Club: FM/AM takeover with Cashu at YuYu Cine Club on Sat 26 Sept, Mexico City. 1 artist on the bill: Cashu. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

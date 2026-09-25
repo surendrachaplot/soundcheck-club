@@ -1,6 +1,6 @@
 # SOUND: Killa P & James Hometown at Stereo
 
-SOUND: Killa P & James Hometown at Stereo on Sat 17 Oct, Glasgow. 3 acts on the bill: Hometown Sound, James Hometown and Killa P. Dubstep and Grime. Preview the line-up and save it on soundcheck.
+SOUND: Killa P & James Hometown at Stereo on Sat 17 Oct, Glasgow. 3 artists on the bill: Hometown Sound, James Hometown and Killa P. Dubstep and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

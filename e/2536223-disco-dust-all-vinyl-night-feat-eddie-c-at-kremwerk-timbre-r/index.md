@@ -1,6 +1,6 @@
 # Disco Dust: All Vinyl Night feat. Eddie C at Kremwerk-Timbre Room-Cherry Complex
 
-Disco Dust: All Vinyl Night feat. Eddie C at Kremwerk-Timbre Room-Cherry Complex on Sat 10 Oct, Seattle. 2 acts on the bill: Eddie C and Théque Support. House and Disco. Preview the line-up and save it on soundcheck.
+Disco Dust: All Vinyl Night feat. Eddie C at Kremwerk-Timbre Room-Cherry Complex on Sat 10 Oct, Seattle. 2 artists on the bill: Eddie C and Théque Support. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mark Broom, Julia Govor / Blue Hour, Neel / Yasmeenah at public records
 
-Mark Broom, Julia Govor / Blue Hour, Neel / Yasmeenah at public records on Fri 30 Oct, Newyorkcity. 5 acts on the bill: Blue Hour, Julia Govor, Mark Broom and Neel and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Mark Broom, Julia Govor / Blue Hour, Neel / Yasmeenah at public records on Fri 30 Oct, New York City. 5 artists on the bill: Blue Hour, Julia Govor, Mark Broom and Neel and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

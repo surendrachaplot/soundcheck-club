@@ -1,6 +1,6 @@
 # FILTER 6YR W Diego Krause [DE] at B2 Rīga
 
-FILTER 6YR W Diego Krause [DE] at B2 Rīga on Fri 16 Oct, Riga. 4 acts on the bill: Diego Krause, KIRHA, PUPA and Will Sonic. House. Preview the line-up and save it on soundcheck.
+FILTER 6YR W Diego Krause [DE] at B2 Rīga on Fri 16 Oct, Riga. 4 artists on the bill: Diego Krause, KIRHA, PUPA and Will Sonic. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

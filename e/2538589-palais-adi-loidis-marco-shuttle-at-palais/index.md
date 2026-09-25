@@ -1,6 +1,6 @@
 # Palais: Adi, Loidis & Marco Shuttle at Palais
 
-Palais: Adi, Loidis & Marco Shuttle on Fri 13 Nov, London. 3 acts on the bill: Adi (CO), Loidis and Marco Shuttle. Techno. Preview the line-up and save it on soundcheck.
+Palais: Adi, Loidis & Marco Shuttle on Fri 13 Nov, London. 3 artists on the bill: Adi (CO), Loidis and Marco Shuttle. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

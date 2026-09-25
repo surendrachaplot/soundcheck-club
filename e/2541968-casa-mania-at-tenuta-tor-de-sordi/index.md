@@ -1,6 +1,6 @@
 # Casa Mania at Tenuta Tor De' Sordi
 
-Casa Mania at Tenuta Tor De' Sordi on Sat 10 Oct, Rome. 9 acts on the bill: Alessandro Addi, Andrea Saba, Automatic Writing and DJ Senc and 5 more. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+Casa Mania at Tenuta Tor De' Sordi on Sat 10 Oct, Rome. 9 artists on the bill: Alessandro Addi, Andrea Saba, Automatic Writing and DJ Senc and 5 more. Minimal and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Derrick Mckenzie (Jamiroquai) Dj Set at Bar Oriente
 
-Derrick Mckenzie (Jamiroquai) Dj Set at Bar Oriente on Sat 26 Sept, Mexicocity. 1 act on the bill: Monsieur Van Pratt. House. Preview the line-up and save it on soundcheck.
+Derrick Mckenzie (Jamiroquai) Dj Set at Bar Oriente on Sat 26 Sept, Mexico City. 1 artist on the bill: Monsieur Van Pratt. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

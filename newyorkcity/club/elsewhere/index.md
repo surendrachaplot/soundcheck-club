@@ -2,7 +2,7 @@
 
 Elsewhere is a music venue in New York City with 26 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Darby, MiiNDS" on Thu, 24 Sept 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 26 upcoming gigs, with line-ups including 444 (1), 6 SENSE, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in New York City listed on soundcheck. 26 upcoming gigs, with line-ups including 444, 6 SENSE, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 

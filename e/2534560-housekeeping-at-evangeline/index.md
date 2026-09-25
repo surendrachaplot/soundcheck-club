@@ -1,6 +1,6 @@
 # Housekeeping at Evangeline
 
-Housekeeping at Evangeline on Fri 25 Sept, Toronto. 2 acts on the bill: Bretty Boop and Dylan Fly. Preview the line-up and save it on soundcheck.
+Housekeeping at Evangeline on Fri 25 Sept, Toronto. 2 artists on the bill: Bretty Boop and Dylan Fly. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

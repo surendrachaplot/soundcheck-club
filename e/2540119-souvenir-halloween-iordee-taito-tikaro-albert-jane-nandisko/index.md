@@ -1,6 +1,6 @@
 # SOUVENIR Halloween [Iordee, Taito Tikaro, Albert Jane, Nandisko & Joan Ibañez] at M7 Club
 
-SOUVENIR Halloween [Iordee, Taito Tikaro, Albert Jane, Nandisko & Joan Ibañez] at M7 Club on Sat 31 Oct, Barcelona. 1 act on the bill: Nandisko (2). Progressive House and House. Preview the line-up and save it on soundcheck.
+SOUVENIR Halloween [Iordee, Taito Tikaro, Albert Jane, Nandisko & Joan Ibañez] at M7 Club on Sat 31 Oct, Barcelona. 1 artist on the bill: Nandisko. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

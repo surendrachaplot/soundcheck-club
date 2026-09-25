@@ -1,6 +1,6 @@
 # widdows95 all nite long part 2 at The Lido
 
-widdows95 all nite long part 2 at The Lido on Tue 29 Sept, Vancouver. 1 act on the bill: widdows95. Progressive House and House. Preview the line-up and save it on soundcheck.
+widdows95 all nite long part 2 at The Lido on Tue 29 Sept, Vancouver. 1 artist on the bill: widdows95. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

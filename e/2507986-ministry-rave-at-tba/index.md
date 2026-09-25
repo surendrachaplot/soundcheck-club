@@ -1,6 +1,6 @@
 # MINISTRY RAVE at TBA
 
-MINISTRY RAVE at TBA on Sat 5 Dec, Prague. 1 act on the bill: Winson Ngoh. Preview the line-up and save it on soundcheck.
+MINISTRY RAVE at TBA on Sat 5 Dec, Prague. 1 artist on the bill: Winson Ngoh. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

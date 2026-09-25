@@ -1,6 +1,6 @@
 # RITUAL (Bali) with Naughty Corner, Bali Live Sessions & Lunar Disco at Sunset Beach Bali
 
-RITUAL (Bali) with Naughty Corner, Bali Live Sessions & Lunar Disco at Sunset Beach Bali on Sun 18 Oct, Bali. 1 act on the bill: Lunar Disco. Preview the line-up and save it on soundcheck.
+RITUAL (Bali) with Naughty Corner, Bali Live Sessions & Lunar Disco at Sunset Beach Bali on Sun 18 Oct, Bali. 1 artist on the bill: Lunar Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

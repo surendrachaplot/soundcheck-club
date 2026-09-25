@@ -1,6 +1,6 @@
 # SYNTRA004 Isabel Soto at Volnost
 
-SYNTRA004 Isabel Soto at Volnost on Sat 26 Sept, Seoul. 7 acts on the bill: Boyoon, Hansy, Hyerang and Isabel Soto and 3 more. Techno. Preview the line-up and save it on soundcheck.
+SYNTRA004 Isabel Soto at Volnost on Sat 26 Sept, Seoul. 7 artists on the bill: Boyoon, Hansy, Hyerang and Isabel Soto and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

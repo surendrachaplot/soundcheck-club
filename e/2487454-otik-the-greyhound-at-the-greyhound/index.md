@@ -1,6 +1,6 @@
 # Otik - The Greyhound at The Greyhound
 
-Otik - The Greyhound on Sat 10 Oct, London. 1 act on the bill: Otik. Preview the line-up and save it on soundcheck.
+Otik - The Greyhound on Sat 10 Oct, London. 1 artist on the bill: Otik. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

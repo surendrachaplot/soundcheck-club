@@ -1,6 +1,6 @@
 # ROMANZE meets TECHTATION (AB 2 UHR FREIER EINTRITT FÜR TECHTATION GÄSTE) at Romantica
 
-ROMANZE meets TECHTATION (AB 2 UHR FREIER EINTRITT FÜR TECHTATION GÄSTE) at Romantica on Fri 25 Sept, Stuttgart. 2 acts on the bill: Femcat and Nick Hurton. Techno. Preview the line-up and save it on soundcheck.
+ROMANZE meets TECHTATION (AB 2 UHR FREIER EINTRITT FÜR TECHTATION GÄSTE) at Romantica on Fri 25 Sept, Stuttgart. 2 artists on the bill: Femcat and Nick Hurton. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

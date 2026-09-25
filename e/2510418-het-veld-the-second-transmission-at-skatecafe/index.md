@@ -1,6 +1,6 @@
 # het veld: The Second Transmission at Skatecafe
 
-het veld: The Second Transmission at Skatecafe on Fri 2 Oct, Amsterdam. 5 acts on the bill: Bibtiana, gau7t, LOU FRE$H and Mathiéux and 1 more. Garage and Club. Preview the line-up and save it on soundcheck.
+het veld: The Second Transmission at Skatecafe on Fri 2 Oct, Amsterdam. 5 artists on the bill: Bibtiana, gau7t, LOU FRE$H and Mathiéux and 1 more. Garage and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

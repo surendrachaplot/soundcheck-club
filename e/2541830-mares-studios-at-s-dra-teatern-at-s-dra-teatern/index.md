@@ -1,6 +1,6 @@
 # Mares Studios at Södra Teatern at Södra Teatern
 
-Mares Studios at Södra Teatern on Sat 26 Sept, Stockholm. 2 acts on the bill: Drux (SE) and Silver (UK). Preview the line-up and save it on soundcheck.
+Mares Studios at Södra Teatern on Sat 26 Sept, Stockholm. 2 artists on the bill: Drux (SE) and Silver (UK). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

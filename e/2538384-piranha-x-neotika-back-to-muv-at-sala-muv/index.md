@@ -1,6 +1,6 @@
 # PIRANHA X NEOTIKA: BACK TO MUV at Sala Muv
 
-PIRANHA X NEOTIKA: BACK TO MUV at Sala Muv on Sat 26 Sept, Madrid. 3 acts on the bill: JAWS, Larouge and Nigabba. Techno and Industrial. Preview the line-up and save it on soundcheck.
+PIRANHA X NEOTIKA: BACK TO MUV at Sala Muv on Sat 26 Sept, Madrid. 3 artists on the bill: JAWS, Larouge and Nigabba. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

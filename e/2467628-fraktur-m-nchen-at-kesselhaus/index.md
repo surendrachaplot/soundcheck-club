@@ -1,6 +1,6 @@
 # Fraktur München at Kesselhaus
 
-Fraktur München at Kesselhaus on Fri 30 Oct, Munich. 2 acts on the bill: Alfred Heinrichs and Mark Dekoda. Techno. Preview the line-up and save it on soundcheck.
+Fraktur München at Kesselhaus on Fri 30 Oct, Munich. 2 artists on the bill: Alfred Heinrichs and Mark Dekoda. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

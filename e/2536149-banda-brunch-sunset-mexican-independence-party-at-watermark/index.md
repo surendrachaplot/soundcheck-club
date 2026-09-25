@@ -1,6 +1,6 @@
 # Banda Brunch - Sunset Mexican Independence Party at Watermark Beach NYC at Pier 15
 
-Banda Brunch - Sunset Mexican Independence Party at Watermark Beach NYC at Pier 15 on Sun 27 Sept, Newyorkcity. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
+Banda Brunch - Sunset Mexican Independence Party at Watermark Beach NYC at Pier 15 on Sun 27 Sept, New York City. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

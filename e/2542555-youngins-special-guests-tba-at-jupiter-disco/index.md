@@ -1,6 +1,6 @@
 # Youngins: Special Guests TBA at Jupiter Disco
 
-Youngins: Special Guests TBA at Jupiter Disco on Sat 24 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+Youngins: Special Guests TBA at Jupiter Disco on Sat 24 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

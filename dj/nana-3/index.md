@@ -2,7 +2,7 @@
 
 NANA (3) is a Hip-Hop and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at or, Tokyo on Fri, 25 Sept 2026.
 
-NANA (3) is a hip-hop and psytrance artist based in Greece, tracked on soundcheck, with 21 sets logged across Athens, Madrid, Seoul and Tokyo. Often billed alongside SALIN, Até. and Jinzo. Next up: or, Tokyo on Fri 25 Sept.
+NANA is a hip-hop and psytrance artist based in Greece, tracked on soundcheck, with 21 sets logged across Athens, Madrid, Seoul and Tokyo. Often billed alongside SALIN, Até. and Jinzo. Next up: or, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 

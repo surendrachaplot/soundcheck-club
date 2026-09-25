@@ -1,6 +1,6 @@
 # Mira Festival 2026 at Fira Barcelona
 
-Mira Festival 2026 at Fira Barcelona on Fri 6 Nov, Barcelona. 21 acts on the bill: Anthony Rother, Arca, Daito Manabe and Debit and 17 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Mira Festival 2026 at Fira Barcelona on Fri 6 Nov, Barcelona. 21 artists on the bill: Anthony Rother, Arca, Daito Manabe and Debit and 17 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

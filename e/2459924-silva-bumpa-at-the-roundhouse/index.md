@@ -1,6 +1,6 @@
 # Silva Bumpa at The Roundhouse
 
-Silva Bumpa at The Roundhouse on Fri 2 Oct, London. 1 act on the bill: Silva Bumpa. House and Garage. Preview the line-up and save it on soundcheck.
+Silva Bumpa at The Roundhouse on Fri 2 Oct, London. 1 artist on the bill: Silva Bumpa. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

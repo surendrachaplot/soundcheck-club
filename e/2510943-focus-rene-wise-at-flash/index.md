@@ -1,6 +1,6 @@
 # FOCUS: Rene Wise at Flash
 
-FOCUS: Rene Wise at Flash on Fri 30 Oct, Washingtondc. 2 acts on the bill: Claudius and Rene Wise. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+FOCUS: Rene Wise at Flash on Fri 30 Oct, Washington DC. 2 artists on the bill: Claudius and Rene Wise. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

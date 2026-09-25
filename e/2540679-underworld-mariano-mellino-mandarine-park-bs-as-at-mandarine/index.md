@@ -1,6 +1,6 @@
 # Underworld / Mariano Mellino - MANDARINE PARK, BS. AS at Mandarine Park & Tent
 
-Underworld / Mariano Mellino - MANDARINE PARK, BS. AS at Mandarine Park & Tent on Thu 26 Nov, Buenosaires. 2 acts on the bill: Mariano Mellino and Underworld. Preview the line-up and save it on soundcheck.
+Underworld / Mariano Mellino - MANDARINE PARK, BS. AS at Mandarine Park & Tent on Thu 26 Nov, Buenos Aires. 2 artists on the bill: Mariano Mellino and Underworld. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

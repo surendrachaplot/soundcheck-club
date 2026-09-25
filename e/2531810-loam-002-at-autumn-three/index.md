@@ -1,6 +1,6 @@
 # LOAM 002 at Autumn Three
 
-LOAM 002 at Autumn Three on Thu 8 Oct, London. 4 acts on the bill: Field Case, luvandula, Nanzhen Yang and TSUNIMAN. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+LOAM 002 at Autumn Three on Thu 8 Oct, London. 4 artists on the bill: Field Case, luvandula, Nanzhen Yang and TSUNIMAN. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

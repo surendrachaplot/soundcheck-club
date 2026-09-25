@@ -1,6 +1,6 @@
 # Reflect Recordings and Fractured Imprint present KILL YOUR IDOLS at TBA
 
-Reflect Recordings and Fractured Imprint present KILL YOUR IDOLS at TBA on Sat 21 Nov, Newyorkcity. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Reflect Recordings and Fractured Imprint present KILL YOUR IDOLS at TBA on Sat 21 Nov, New York City. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

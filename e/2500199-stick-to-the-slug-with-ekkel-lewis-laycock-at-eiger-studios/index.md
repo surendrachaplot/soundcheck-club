@@ -1,6 +1,6 @@
 # Stick To The Slug with Ekkel & Lewis Laycock at Eiger Studios
 
-Stick To The Slug with Ekkel & Lewis Laycock at Eiger Studios on Sat 10 Oct, Leeds. 1 act on the bill: Ekkel. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Stick To The Slug with Ekkel & Lewis Laycock at Eiger Studios on Sat 10 Oct, Leeds. 1 artist on the bill: Ekkel. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

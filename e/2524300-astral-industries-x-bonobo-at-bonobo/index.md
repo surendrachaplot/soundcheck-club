@@ -1,6 +1,6 @@
 # Astral Industries x Bonobo at Bonobo
 
-Astral Industries x Bonobo on Sat 3 Oct, Tokyo. 10 acts on the bill: Ario, DJ Morita, DOC (2) and Gojitmal and 6 more. Techno and Ambient. Preview the line-up and save it on soundcheck.
+Astral Industries x Bonobo on Sat 3 Oct, Tokyo. 10 artists on the bill: Ario, DJ Morita, DOC and Gojitmal and 6 more. Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NOCASINO's Deep End Tour: NYC at KEYBAR
 
-NOCASINO's Deep End Tour: NYC at KEYBAR on Sat 26 Sept, Newyorkcity. 2 acts on the bill: cortisoul and NOCASINO. House and Deep House. Preview the line-up and save it on soundcheck.
+NOCASINO's Deep End Tour: NYC at KEYBAR on Sat 26 Sept, New York City. 2 artists on the bill: cortisoul and NOCASINO. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

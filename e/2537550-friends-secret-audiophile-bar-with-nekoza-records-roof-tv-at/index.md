@@ -1,6 +1,6 @@
 # &Friends •Secret Audiophile bar• with NEKOZA Records & Roof.tv at TBA - Secret Audiophile - C/ Badajoz 115
 
-&Friends •Secret Audiophile bar• with NEKOZA Records & Roof.tv at TBA - Secret Audiophile - C/ Badajoz 115 on Sat 3 Oct, Barcelona. 3 acts on the bill: Pol K, Rele and Tommaso Pizzelli. Preview the line-up and save it on soundcheck.
+&Friends •Secret Audiophile bar• with NEKOZA Records & Roof.tv at TBA - Secret Audiophile - C/ Badajoz 115 on Sat 3 Oct, Barcelona. 3 artists on the bill: Pol K, Rele and Tommaso Pizzelli. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

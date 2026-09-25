@@ -1,6 +1,6 @@
 # Lanna Festival 2026 at Laboral Ciudad de la Cultura
 
-Lanna Festival 2026 at Laboral Ciudad de la Cultura on Fri 25 Sept, North. 29 acts on the bill: Annie Hall, Christian Wunsch, Dj Manglés and DJ Nobu and 25 more. Preview the line-up and save it on soundcheck.
+Lanna Festival 2026 at Laboral Ciudad de la Cultura on Fri 25 Sept, North. 29 artists on the bill: Annie Hall, Christian Wunsch, Dj Manglés and DJ Nobu and 25 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

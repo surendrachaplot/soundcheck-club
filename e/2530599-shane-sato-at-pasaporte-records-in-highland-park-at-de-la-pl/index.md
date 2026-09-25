@@ -1,6 +1,6 @@
 # Shane Sato at Pasaporte Records in Highland Park at De La Playa Records & Leisure
 
-Shane Sato at Pasaporte Records in Highland Park at De La Playa Records & Leisure on Fri 2 Oct, Losangeles. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Shane Sato at Pasaporte Records in Highland Park at De La Playa Records & Leisure on Fri 2 Oct, Los Angeles. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

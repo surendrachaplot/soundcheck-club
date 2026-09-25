@@ -1,6 +1,6 @@
 # Nanna Makina @ Harleys at Harleys Sky Bar
 
-Nanna Makina @ Harleys at Harleys Sky Bar on Sat 17 Oct, Glasgow. 1 act on the bill: Nanna Makina. Trance. Preview the line-up and save it on soundcheck.
+Nanna Makina @ Harleys at Harleys Sky Bar on Sat 17 Oct, Glasgow. 1 artist on the bill: Nanna Makina. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

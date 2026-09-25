@@ -1,6 +1,6 @@
 # Halloween del Perreo Parrty Reggaeton Bar at San Antonios
 
-Halloween del Perreo Parrty Reggaeton Bar at San Antonios on Thu 29 Oct, Newyorkcity. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
+Halloween del Perreo Parrty Reggaeton Bar at San Antonios on Thu 29 Oct, New York City. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

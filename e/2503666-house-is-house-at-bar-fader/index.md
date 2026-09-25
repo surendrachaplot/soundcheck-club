@@ -1,6 +1,6 @@
 # HOUSE is HOUSE at Bar Fader
 
-HOUSE is HOUSE at Bar Fader on Sun 27 Sept, Osaka. 3 acts on the bill: coolsurf, FUMiC and TERU. House and Disco. Preview the line-up and save it on soundcheck.
+HOUSE is HOUSE at Bar Fader on Sun 27 Sept, Osaka. 3 artists on the bill: coolsurf, FUMiC and TERU. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

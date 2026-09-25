@@ -1,6 +1,6 @@
 # Technoabteil with A.N.I., dasstudach, IGDA at MÄX
 
-Technoabteil with A.N.I., dasstudach, IGDA at MÄX on Fri 2 Oct, Zurich. 5 acts on the bill: A.N.I., dasstudach, davyboi and Dekerim and 1 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Technoabteil with A.N.I., dasstudach, IGDA at MÄX on Fri 2 Oct, Zurich. 5 artists on the bill: A.N.I., dasstudach, davyboi and Dekerim and 1 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

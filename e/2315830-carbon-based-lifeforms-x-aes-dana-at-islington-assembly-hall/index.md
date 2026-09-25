@@ -1,6 +1,6 @@
 # Carbon Based Lifeforms x Aes Dana at Islington Assembly Hall
 
-Carbon Based Lifeforms x Aes Dana at Islington Assembly Hall on Sat 3 Oct, London. 2 acts on the bill: Aes Dana and Carbon Based Lifeforms. Trance and Electronica. Preview the line-up and save it on soundcheck.
+Carbon Based Lifeforms x Aes Dana at Islington Assembly Hall on Sat 3 Oct, London. 2 artists on the bill: Aes Dana and Carbon Based Lifeforms. Trance and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

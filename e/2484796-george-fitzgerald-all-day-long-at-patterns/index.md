@@ -1,6 +1,6 @@
 # George FitzGerald (All Day Long) at Patterns
 
-George FitzGerald (All Day Long) at Patterns on Sat 5 Dec, Brighton. 1 act on the bill: George FitzGerald. Preview the line-up and save it on soundcheck.
+George FitzGerald (All Day Long) at Patterns on Sat 5 Dec, Brighton. 1 artist on the bill: George FitzGerald. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

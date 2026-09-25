@@ -1,6 +1,6 @@
 # Freshers at Munster Munch
 
-Freshers at Munster Munch on Fri 25 Sept, London. 1 act on the bill: DJ Leeloo. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Freshers at Munster Munch on Fri 25 Sept, London. 1 artist on the bill: DJ Leeloo. Drum & Bass and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KINKY RAW NÜRNBERG at Z-Bau
 
-KINKY RAW NÜRNBERG at Z-Bau on Sat 3 Oct, Nurnberg. 1 act on the bill: maniaclina. Trance and Techno. Preview the line-up and save it on soundcheck.
+KINKY RAW NÜRNBERG at Z-Bau on Sat 3 Oct, Nürnberg. 1 artist on the bill: maniaclina. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

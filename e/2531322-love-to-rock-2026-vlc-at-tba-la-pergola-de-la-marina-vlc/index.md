@@ -1,6 +1,6 @@
 # Love To Rock 2026 (Vlc) at TBA - La Pergola de La Marina (Vlc)
 
-Love To Rock 2026 (Vlc) at TBA - La Pergola de La Marina (Vlc) on Fri 2 Oct, Valencia. 1 act on the bill: Maadraassoo. Electro. Preview the line-up and save it on soundcheck.
+Love To Rock 2026 (Vlc) at TBA - La Pergola de La Marina (Vlc) on Fri 2 Oct, Valencia. 1 artist on the bill: Maadraassoo. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

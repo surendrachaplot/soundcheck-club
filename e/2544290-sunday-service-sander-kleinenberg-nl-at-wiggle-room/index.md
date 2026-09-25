@@ -1,6 +1,6 @@
 # Sunday SerVice: Sander Kleinenberg [NL] at Wiggle Room
 
-Sunday SerVice: Sander Kleinenberg [NL] at Wiggle Room on Sun 18 Oct, Toronto. 3 acts on the bill: Manzone & Strong, Sander Kleinenberg and TAKiN. House and Tech House. Preview the line-up and save it on soundcheck.
+Sunday SerVice: Sander Kleinenberg [NL] at Wiggle Room on Sun 18 Oct, Toronto. 3 artists on the bill: Manzone & Strong, Sander Kleinenberg and TAKiN. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 2905Records The Next Chapter at Yellow Submarine Bar
 
-2905Records The Next Chapter at Yellow Submarine Bar on Sat 26 Sept, Liverpool. 1 act on the bill: Amba. House and Tech House. Preview the line-up and save it on soundcheck.
+2905Records The Next Chapter at Yellow Submarine Bar on Sat 26 Sept, Liverpool. 1 artist on the bill: Amba. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

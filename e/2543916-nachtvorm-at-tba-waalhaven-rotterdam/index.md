@@ -1,6 +1,6 @@
 # NACHTVORM at TBA - Waalhaven Rotterdam
 
-NACHTVORM at TBA - Waalhaven Rotterdam on Sat 26 Sept, Amsterdam. 2 acts on the bill: Kade Noir and VAREX. Techno. Preview the line-up and save it on soundcheck.
+NACHTVORM at TBA - Waalhaven Rotterdam on Sat 26 Sept, Amsterdam. 2 artists on the bill: Kade Noir and VAREX. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tomorrowland Rooftop Sessoons at Tomorrowland Store Ibiza
 
-Tomorrowland Rooftop Sessoons at Tomorrowland Store Ibiza on Fri 9 Oct, Ibiza. 1 act on the bill: Sebastiaan Hooft. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Tomorrowland Rooftop Sessoons at Tomorrowland Store Ibiza on Fri 9 Oct, Ibiza. 1 artist on the bill: Sebastiaan Hooft. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

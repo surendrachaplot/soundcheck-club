@@ -1,6 +1,6 @@
 # Soundvision presents … Expmental ADE Networking at Blend XL
 
-Soundvision presents … Expmental ADE Networking at Blend XL on Sat 24 Oct, Amsterdam. 2 acts on the bill: ChillOhm and Eddy Romero. House and Tech House. Preview the line-up and save it on soundcheck.
+Soundvision presents … Expmental ADE Networking at Blend XL on Sat 24 Oct, Amsterdam. 2 artists on the bill: ChillOhm and Eddy Romero. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

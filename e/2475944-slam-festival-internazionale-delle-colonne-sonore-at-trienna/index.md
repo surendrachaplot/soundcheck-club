@@ -1,6 +1,6 @@
 # SLAM – Festival Internazionale delle Colonne Sonore at Triennale di Milano
 
-SLAM – Festival Internazionale delle Colonne Sonore at Triennale di Milano on Fri 11 Dec, Milan. 3 acts on the bill: Chassol, Hania Rani and Jeff Mills. Electronica. Preview the line-up and save it on soundcheck.
+SLAM – Festival Internazionale delle Colonne Sonore at Triennale di Milano on Fri 11 Dec, Milan. 3 artists on the bill: Chassol, Hania Rani and Jeff Mills. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

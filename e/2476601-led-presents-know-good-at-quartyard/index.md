@@ -1,6 +1,6 @@
 # LED presents Know Good at Quartyard
 
-LED presents Know Good at Quartyard on Sat 17 Oct, Sandiego. Preview the line-up and save it on soundcheck.
+LED presents Know Good at Quartyard on Sat 17 Oct, San Diego. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

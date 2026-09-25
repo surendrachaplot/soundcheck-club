@@ -1,6 +1,6 @@
 # WORKSHOP by Key Clef - Mental Continuum at Urban Spree
 
-WORKSHOP by Key Clef - Mental Continuum at Urban Spree on Thu 8 Oct, Berlin. 1 act on the bill: Key Clef. Electronica. Preview the line-up and save it on soundcheck.
+WORKSHOP by Key Clef - Mental Continuum at Urban Spree on Thu 8 Oct, Berlin. 1 artist on the bill: Key Clef. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

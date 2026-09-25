@@ -1,6 +1,6 @@
 # Sissi's Friday with SWAY, Mowgli & Ays at SISSI'S Amsterdam
 
-Sissi's Friday with SWAY, Mowgli & Ays at SISSI'S Amsterdam on Fri 2 Oct, Amsterdam. 2 acts on the bill: Ays (NL) and Mowgli (NL). House and Italo Disco. Preview the line-up and save it on soundcheck.
+Sissi's Friday with SWAY, Mowgli & Ays at SISSI'S Amsterdam on Fri 2 Oct, Amsterdam. 2 artists on the bill: Ays (NL) and Mowgli (NL). House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

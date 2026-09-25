@@ -2,7 +2,7 @@
 
 SOLTERA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Airliner, Los Angeles on Sat, 3 Oct 2026.
 
-SOLTERA is a house and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Barcelona, Brisbane, Denver and London and 10 more. Often billed alongside 1tbsp, Killian and Bitter Babe. Next up: The Airliner, Losangeles on Sat 3 Oct.
+SOLTERA is a house and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Barcelona, Brisbane, Denver and London and 10 more. Often billed alongside 1tbsp, Killian and Bitter Babe. Next up: The Airliner, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 

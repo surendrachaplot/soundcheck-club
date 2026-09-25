@@ -1,6 +1,6 @@
 # Franc Moody DJ Set, Cody Currie (open to close) at Elsewhere
 
-Franc Moody DJ Set, Cody Currie (open to close) at Elsewhere on Fri 23 Oct, Newyorkcity. 1 act on the bill: Cody Currie. Preview the line-up and save it on soundcheck.
+Franc Moody DJ Set, Cody Currie (open to close) at Elsewhere on Fri 23 Oct, New York City. 1 artist on the bill: Cody Currie. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Michael Gray - Day Time Disco - Joshua Brooks Manchester at Joshua Brooks
 
-Michael Gray - Day Time Disco - Joshua Brooks Manchester on Sat 28 Nov, Manchester. 1 act on the bill: Michael Gray. House and Disco. Preview the line-up and save it on soundcheck.
+Michael Gray - Day Time Disco - Joshua Brooks Manchester on Sat 28 Nov, Manchester. 1 artist on the bill: Michael Gray. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

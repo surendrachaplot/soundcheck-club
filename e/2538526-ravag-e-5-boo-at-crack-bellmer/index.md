@@ -1,6 +1,6 @@
 # RAVAGÉE 5 - BOO at Crack Bellmer
 
-RAVAGÉE 5 - BOO at Crack Bellmer on Sat 31 Oct, Berlin. 1 act on the bill: Smuda. Techno and Tech House. Preview the line-up and save it on soundcheck.
+RAVAGÉE 5 - BOO at Crack Bellmer on Sat 31 Oct, Berlin. 1 artist on the bill: Smuda. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

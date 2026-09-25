@@ -1,6 +1,6 @@
 # GENAU: Kaiser (K S R / IT) at not|or|ius Club
 
-GENAU: Kaiser (K S R / IT) at not|or|ius Club on Sat 26 Sept, Turin. 1 act on the bill: Kaiser (K S R). Techno. Preview the line-up and save it on soundcheck.
+GENAU: Kaiser (K S R / IT) at not|or|ius Club on Sat 26 Sept, Turin. 1 artist on the bill: Kaiser (K S R). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

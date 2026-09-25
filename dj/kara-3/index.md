@@ -2,7 +2,7 @@
 
 Kara (3) is a Drum & Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
-Kara (3) is a drum & bass and dub artist based in Italy, tracked on soundcheck, with 9 sets logged across Amsterdam, Brighton and Milan. Often billed alongside Odd Shy Guy, Al Paino and Nicodemo. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
+Kara is a drum & bass and dub artist based in Italy, tracked on soundcheck, with 9 sets logged across Amsterdam, Brighton and Milan. Often billed alongside Odd Shy Guy, Al Paino and Nicodemo. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Kylie Wears Berghaus with Eclair Fifi at Lost Horizon
 
-Kylie Wears Berghaus with Eclair Fifi at Lost Horizon on Fri 25 Sept, Bristol. 2 acts on the bill: Eclair Fifi and Kylie Wears Berghaus. Techno and Acid. Preview the line-up and save it on soundcheck.
+Kylie Wears Berghaus with Eclair Fifi at Lost Horizon on Fri 25 Sept, Bristol. 2 artists on the bill: Eclair Fifi and Kylie Wears Berghaus. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

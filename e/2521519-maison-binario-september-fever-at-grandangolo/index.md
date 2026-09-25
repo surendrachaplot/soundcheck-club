@@ -1,6 +1,6 @@
 # MAISON BINARIO 'SEPTEMBER FEVER' at Grandangolo
 
-MAISON BINARIO 'SEPTEMBER FEVER' at Grandangolo on Fri 25 Sept, Rome. 2 acts on the bill: ALDAVE and Larry Masmero. House and Electronica. Preview the line-up and save it on soundcheck.
+MAISON BINARIO 'SEPTEMBER FEVER' at Grandangolo on Fri 25 Sept, Rome. 2 artists on the bill: ALDAVE and Larry Masmero. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

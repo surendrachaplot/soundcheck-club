@@ -1,6 +1,6 @@
 # GET FUNKY - THE FINAL ROUND - SATURDAY 10TH OCTOBER at Groove Gardens
 
-GET FUNKY - THE FINAL ROUND - SATURDAY 10TH OCTOBER at Groove Gardens on Sat 10 Oct, Malta. 2 acts on the bill: Abdy and Miss Roberta. Techno and House. Preview the line-up and save it on soundcheck.
+GET FUNKY - THE FINAL ROUND - SATURDAY 10TH OCTOBER at Groove Gardens on Sat 10 Oct, Malta. 2 artists on the bill: Abdy and Miss Roberta. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

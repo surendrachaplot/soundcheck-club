@@ -1,6 +1,6 @@
 # Me Me Me with Bradley Zero b2b Man Power at Are You Affiliated
 
-Me Me Me with Bradley Zero b2b Man Power at Are You Affiliated on Sat 5 Dec, Newcastle. 2 acts on the bill: Bradley Zero and Man Power. Preview the line-up and save it on soundcheck.
+Me Me Me with Bradley Zero b2b Man Power at Are You Affiliated on Sat 5 Dec, Newcastle. 2 artists on the bill: Bradley Zero and Man Power. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

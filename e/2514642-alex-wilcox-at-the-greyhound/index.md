@@ -1,6 +1,6 @@
 # Alex Wilcox at The Greyhound
 
-Alex Wilcox at The Greyhound on Thu 12 Nov, London. 1 act on the bill: Alex Wilcox. Techno and Post-Punk. Preview the line-up and save it on soundcheck.
+Alex Wilcox at The Greyhound on Thu 12 Nov, London. 1 artist on the bill: Alex Wilcox. Techno and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

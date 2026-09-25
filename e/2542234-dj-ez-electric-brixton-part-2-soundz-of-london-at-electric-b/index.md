@@ -1,6 +1,6 @@
 # DJ EZ - Electric Brixton Part 2 - Soundz of London at Electric Brixton
 
-DJ EZ - Electric Brixton Part 2 - Soundz of London on Sat 14 Nov, London. 1 act on the bill: DJ EZ. Bass and Garage. Preview the line-up and save it on soundcheck.
+DJ EZ - Electric Brixton Part 2 - Soundz of London on Sat 14 Nov, London. 1 artist on the bill: DJ EZ. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

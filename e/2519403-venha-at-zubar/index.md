@@ -1,6 +1,6 @@
 # Venha at ZUBAR
 
-Venha at ZUBAR on Sun 27 Sept, Tokyo. 2 acts on the bill: Hitch and KIMURA. Preview the line-up and save it on soundcheck.
+Venha at ZUBAR on Sun 27 Sept, Tokyo. 2 artists on the bill: Hitch and KIMURA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bergson x Grey Scale presents Rue Oberkampf, Tobias Bernstrup & Philipp Strobel at Bergson Kunstkraftwerk
 
-Bergson x Grey Scale presents Rue Oberkampf, Tobias Bernstrup & Philipp Strobel at Bergson Kunstkraftwerk on Fri 23 Oct, Munich. 1 act on the bill: Philipp Strobel. New Wave and Electronica. Preview the line-up and save it on soundcheck.
+Bergson x Grey Scale presents Rue Oberkampf, Tobias Bernstrup & Philipp Strobel at Bergson Kunstkraftwerk on Fri 23 Oct, Munich. 1 artist on the bill: Philipp Strobel. New Wave and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

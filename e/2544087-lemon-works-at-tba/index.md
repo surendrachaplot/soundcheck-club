@@ -1,6 +1,6 @@
 # Lemon Works at TBA
 
-Lemon Works at TBA on Fri 16 Oct, Amsterdam. 1 act on the bill: Mattia Rizzi. House and Electro. Preview the line-up and save it on soundcheck.
+Lemon Works at TBA on Fri 16 Oct, Amsterdam. 1 artist on the bill: Mattia Rizzi. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

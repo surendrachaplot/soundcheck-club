@@ -1,6 +1,6 @@
 # TAKE-R: TAKEOVER Planet Wax at Planet Wax
 
-TAKE-R: TAKEOVER Planet Wax on Thu 15 Oct, London. 2 acts on the bill: BROM and tasha.mp4. Garage and Grime. Preview the line-up and save it on soundcheck.
+TAKE-R: TAKEOVER Planet Wax on Thu 15 Oct, London. 2 artists on the bill: BROM and tasha.mp4. Garage and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

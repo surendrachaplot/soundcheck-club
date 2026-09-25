@@ -1,6 +1,6 @@
 # [CANCELLED] Faded: OPEN DECKS (Back2Back special) at Lab.Club
 
-[CANCELLED] Faded: OPEN DECKS (Back2Back special) at Lab.Club on Thu 10 Dec, London. 1 act on the bill: Faded Society. Preview the line-up and save it on soundcheck.
+[CANCELLED] Faded: OPEN DECKS (Back2Back special) at Lab.Club on Thu 10 Dec, London. 1 artist on the bill: Faded Society. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

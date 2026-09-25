@@ -1,6 +1,6 @@
 # Jares, Just Sky at Salon Daomé
 
-Jares, Just Sky at Salon Daomé on Sat 26 Sept, Montreal. 1 act on the bill: Jares. Preview the line-up and save it on soundcheck.
+Jares, Just Sky at Salon Daomé on Sat 26 Sept, Montreal. 1 artist on the bill: Jares. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

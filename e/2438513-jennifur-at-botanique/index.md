@@ -1,6 +1,6 @@
 # Jennifur at Botanique
 
-Jennifur at Botanique on Fri 23 Oct, Brussels. 1 act on the bill: Jennifur. Electro. Preview the line-up and save it on soundcheck.
+Jennifur at Botanique on Fri 23 Oct, Brussels. 1 artist on the bill: Jennifur. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

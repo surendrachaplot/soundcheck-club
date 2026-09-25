@@ -1,6 +1,6 @@
 # HOLIDAY ORDERS -SLOWMOTIONの夜- at BAR Inc
 
-HOLIDAY ORDERS -SLOWMOTIONの夜- at BAR Inc on Sun 27 Sept, Osaka. 3 acts on the bill: AOKI takamasa, Endurance and Loe (JP). Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+HOLIDAY ORDERS -SLOWMOTIONの夜- at BAR Inc on Sun 27 Sept, Osaka. 3 artists on the bill: AOKI takamasa, Endurance and Loe (JP). Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

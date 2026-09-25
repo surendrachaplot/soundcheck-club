@@ -1,6 +1,6 @@
 # Automatic x imagine FAMILY at Fvtvr
 
-Automatic x imagine FAMILY at Fvtvr on Fri 6 Nov, Paris. 13 acts on the bill: ABI (FR), Aline Brooklyn, Automatic Writing and Charonne and 9 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Automatic x imagine FAMILY at Fvtvr on Fri 6 Nov, Paris. 13 artists on the bill: ABI (FR), Aline Brooklyn, Automatic Writing and Charonne and 9 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

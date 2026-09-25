@@ -1,6 +1,6 @@
 # Factory 93 presents: Amelie Lens at Grand Park Block 2 at Grand Park
 
-Factory 93 presents: Amelie Lens at Grand Park Block 2 on Sat 26 Sept, Losangeles. 4 acts on the bill: Amelie Lens, Anastasia Giovani, Regal and Truncate. Techno and Acid. Preview the line-up and save it on soundcheck.
+Factory 93 presents: Amelie Lens at Grand Park Block 2 on Sat 26 Sept, Los Angeles. 4 artists on the bill: Amelie Lens, Anastasia Giovani, Regal and Truncate. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

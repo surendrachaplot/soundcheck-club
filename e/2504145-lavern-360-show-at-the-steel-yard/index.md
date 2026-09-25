@@ -1,6 +1,6 @@
 # LAVERN: 360 Show at The Steel Yard
 
-LAVERN: 360 Show at The Steel Yard on Fri 23 Oct, London. 1 act on the bill: LAVERN. Progressive House and House. Preview the line-up and save it on soundcheck.
+LAVERN: 360 Show at The Steel Yard on Fri 23 Oct, London. 1 artist on the bill: LAVERN. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

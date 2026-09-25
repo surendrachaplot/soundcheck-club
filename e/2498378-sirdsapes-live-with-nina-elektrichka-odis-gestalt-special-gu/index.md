@@ -1,6 +1,6 @@
 # SIRDSAPES (LIVE) with Nina Elektrichka, Odis (Gestalt) + Special Guests at Laska V21
 
-SIRDSAPES (LIVE) with Nina Elektrichka, Odis (Gestalt) + Special Guests at Laska V21 on Fri 9 Oct, Riga. 3 acts on the bill: Nina Elektrichka, Odis and SIRDSAPES. Breakbeat and Broken Beat. Preview the line-up and save it on soundcheck.
+SIRDSAPES (LIVE) with Nina Elektrichka, Odis (Gestalt) + Special Guests at Laska V21 on Fri 9 Oct, Riga. 3 artists on the bill: Nina Elektrichka, Odis and SIRDSAPES. Breakbeat and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Benjaming Berg curates at Shelter Amsterdam
 
-Benjaming Berg curates at Shelter Amsterdam on Fri 6 Nov, Amsterdam. 4 acts on the bill: Benjamin Berg, Katia Curie, Ranerro and XDB. House. Preview the line-up and save it on soundcheck.
+Benjaming Berg curates at Shelter Amsterdam on Fri 6 Nov, Amsterdam. 4 artists on the bill: Benjamin Berg, Katia Curie, Ranerro and XDB. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

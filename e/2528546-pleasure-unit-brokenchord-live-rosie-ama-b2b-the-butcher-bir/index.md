@@ -1,6 +1,6 @@
 # Pleasure Unit: Brokenchord (Live), Rosie Ama b2b the butcher bird, Nick Stephens, Harry James at The Social
 
-Pleasure Unit: Brokenchord (Live), Rosie Ama b2b the butcher bird, Nick Stephens, Harry James at The Social on Fri 9 Oct, London. 4 acts on the bill: Brokenchord, Harry James, Rosie Ama and the butcher bird. Preview the line-up and save it on soundcheck.
+Pleasure Unit: Brokenchord (Live), Rosie Ama b2b the butcher bird, Nick Stephens, Harry James at The Social on Fri 9 Oct, London. 4 artists on the bill: Brokenchord, Harry James, Rosie Ama and the butcher bird. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

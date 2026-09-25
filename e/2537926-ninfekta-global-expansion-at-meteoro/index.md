@@ -1,6 +1,6 @@
 # Ninfekta - Global Expansion at Meteoro
 
-Ninfekta - Global Expansion at Meteoro on Sat 26 Sept, Barcelona. 4 acts on the bill: Brianathegemini, gitano del futuro, LAINX and SANTZZ. Hardcore and Guaracha. Preview the line-up and save it on soundcheck.
+Ninfekta - Global Expansion at Meteoro on Sat 26 Sept, Barcelona. 4 artists on the bill: Brianathegemini, gitano del futuro, LAINX and SANTZZ. Hardcore and Guaracha. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

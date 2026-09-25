@@ -1,6 +1,6 @@
 # dj yumi-cco & TR at DJ Bar Bridge Shinjuku
 
-dj yumi-cco & TR at DJ Bar Bridge Shinjuku on Mon 5 Oct, Tokyo. 1 act on the bill: dj yumi-cco. House. Preview the line-up and save it on soundcheck.
+dj yumi-cco & TR at DJ Bar Bridge Shinjuku on Mon 5 Oct, Tokyo. 1 artist on the bill: dj yumi-cco. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

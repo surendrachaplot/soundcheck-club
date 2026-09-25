@@ -1,6 +1,6 @@
 # Dance No Evil 2nd Birthday: London Debut at TBA - Secret North London Location
 
-Dance No Evil 2nd Birthday: London Debut at TBA - Secret North London Location on Sat 24 Oct, London. 4 acts on the bill: Brewboy, Dance No Evil, Lewis Robertson and Speki C. Bass and Electro. Preview the line-up and save it on soundcheck.
+Dance No Evil 2nd Birthday: London Debut at TBA - Secret North London Location on Sat 24 Oct, London. 4 artists on the bill: Brewboy, Dance No Evil, Lewis Robertson and Speki C. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

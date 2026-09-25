@@ -1,6 +1,6 @@
 # FĀLĀ at Mastak
 
-FĀLĀ at Mastak on Fri 9 Oct, Warsaw. 3 acts on the bill: Marboc, Nightfall and Sickdat. Techno and Electronica. Preview the line-up and save it on soundcheck.
+FĀLĀ at Mastak on Fri 9 Oct, Warsaw. 3 artists on the bill: Marboc, Nightfall and Sickdat. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

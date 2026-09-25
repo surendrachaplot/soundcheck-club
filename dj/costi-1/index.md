@@ -2,7 +2,7 @@
 
 costi (1) is a Experimental and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Unit 58, London on Fri, 9 Oct 2026.
 
-costi (1) is an experimental and post-punk artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London and Marseille. Often billed alongside Ushko, kemitstry and BJ Holy. Next up: Unit 58, London on Fri 9 Oct.
+costi is an experimental and post-punk artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London and Marseille. Often billed alongside Ushko, kemitstry and BJ Holy. Next up: Unit 58, London on Fri 9 Oct.
 
 ## Upcoming shows
 

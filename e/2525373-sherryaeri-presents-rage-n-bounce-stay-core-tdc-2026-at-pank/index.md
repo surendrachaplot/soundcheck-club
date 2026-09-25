@@ -1,6 +1,6 @@
 # Sherryaeri presents: Rage'N'Bounce - Stay Core - TDC 2026 at Panke
 
-Sherryaeri presents: Rage'N'Bounce - Stay Core - TDC 2026 at Panke on Thu 8 Oct, Berlin. 3 acts on the bill: Jana, Sherryaeri and Soyklo. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
+Sherryaeri presents: Rage'N'Bounce - Stay Core - TDC 2026 at Panke on Thu 8 Oct, Berlin. 3 artists on the bill: Jana, Sherryaeri and Soyklo. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

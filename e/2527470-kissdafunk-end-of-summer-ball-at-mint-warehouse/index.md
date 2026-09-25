@@ -1,6 +1,6 @@
 # Kissdafunk: End Of Summer Ball at Mint Warehouse
 
-Kissdafunk: End Of Summer Ball at Mint Warehouse on Sat 26 Sept, Leeds. 3 acts on the bill: FILTHY RICH, Rob Tissera and Stupid Fresh. House and Electro. Preview the line-up and save it on soundcheck.
+Kissdafunk: End Of Summer Ball at Mint Warehouse on Sat 26 Sept, Leeds. 3 artists on the bill: FILTHY RICH, Rob Tissera and Stupid Fresh. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

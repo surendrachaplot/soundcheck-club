@@ -1,12 +1,12 @@
 # Rave On Snow 2026 at Saalbach-Hinterglemm
 
-Rave On Snow 2026 at Saalbach-Hinterglemm on Thu 10 Dec, All. 53 acts on the bill: AKA AKA, Alex Bau, Anfisa Letyago and Angel Costa and 49 more. Preview the line-up and save it on soundcheck.
+Rave On Snow 2026 at Saalbach-Hinterglemm on Thu 10 Dec, Austria. 53 artists on the bill: AKA AKA, Alex Bau, Anfisa Letyago and Angel Costa and 49 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 10 Dec 2026 |
 | Venue | Saalbach-Hinterglemm |
-| City | All |
+| City | Austria |
 
 ## Line-up
 

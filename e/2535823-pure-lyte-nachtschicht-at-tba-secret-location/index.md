@@ -1,6 +1,6 @@
 # pure.lyte - Nachtschicht at TBA - Secret Location
 
-pure.lyte - Nachtschicht at TBA - Secret Location on Fri 23 Oct, Berlin. 5 acts on the bill: Baerbel, CosmiKat, HANNAHHANSEN and Roman Adam and 1 more. Techno. Preview the line-up and save it on soundcheck.
+pure.lyte - Nachtschicht at TBA - Secret Location on Fri 23 Oct, Berlin. 5 artists on the bill: Baerbel, CosmiKat, HANNAHHANSEN and Roman Adam and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

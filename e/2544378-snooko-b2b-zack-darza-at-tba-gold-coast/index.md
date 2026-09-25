@@ -1,6 +1,6 @@
 # Snooko B2B Zack Darza at TBA - Gold Coast
 
-Snooko B2B Zack Darza at TBA - Gold Coast on Fri 16 Oct, Chicago. 1 act on the bill: Snooko. House and Bass. Preview the line-up and save it on soundcheck.
+Snooko B2B Zack Darza at TBA - Gold Coast on Fri 16 Oct, Chicago. 1 artist on the bill: Snooko. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

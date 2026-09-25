@@ -1,6 +1,6 @@
 # Halloween Dance with DJ Travella & DJ N Fox at Jumbi
 
-Halloween Dance with DJ Travella & DJ N Fox at Jumbi on Sat 31 Oct, London. 3 acts on the bill: DJ Nigga Fox, DJ Travella and Yemz. Kuduro and Singeli. Preview the line-up and save it on soundcheck.
+Halloween Dance with DJ Travella & DJ N Fox at Jumbi on Sat 31 Oct, London. 3 artists on the bill: DJ Nigga Fox, DJ Travella and Yemz. Kuduro and Singeli. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

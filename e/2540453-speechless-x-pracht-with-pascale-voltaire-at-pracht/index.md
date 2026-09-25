@@ -1,6 +1,6 @@
 # SPEECHLESS x Pracht with Pascale Voltaire at Pracht
 
-SPEECHLESS x Pracht with Pascale Voltaire on Fri 30 Oct, Frankfurt. 2 acts on the bill: Andrea Castells and Pascale Voltaire. Techno and House. Preview the line-up and save it on soundcheck.
+SPEECHLESS x Pracht with Pascale Voltaire on Fri 30 Oct, Frankfurt. 2 artists on the bill: Andrea Castells and Pascale Voltaire. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

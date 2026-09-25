@@ -1,6 +1,6 @@
 # The Scrub Jays at The Redwood Bar And Grill
 
-The Scrub Jays at The Redwood Bar And Grill on Sun 18 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+The Scrub Jays at The Redwood Bar And Grill on Sun 18 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

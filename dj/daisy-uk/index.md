@@ -2,7 +2,7 @@
 
 DAISY is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Night Tales Loft, London on Fri, 2 Oct 2026.
 
-DAISY is a garage and house artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 12 more. Often billed alongside Silva Bumpa, Oldboy (2) and Prozak (IRL). Next up: Night Tales Loft, London on Fri 2 Oct.
+DAISY is a garage and house artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 12 more. Often billed alongside Silva Bumpa, Oldboy and Prozak (IRL). Next up: Night Tales Loft, London on Fri 2 Oct.
 
 ## Upcoming shows
 

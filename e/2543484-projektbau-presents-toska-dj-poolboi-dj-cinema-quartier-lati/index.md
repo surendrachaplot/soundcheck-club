@@ -1,6 +1,6 @@
 # Projektbau presents TOSKA: dj poolboi, DJ Cinema Quartier Latin, Projektbau at Lark
 
-Projektbau presents TOSKA: dj poolboi, DJ Cinema Quartier Latin, Projektbau at Lark on Thu 22 Oct, Berlin. 4 acts on the bill: DJ Cinéma Quartier Latin, dj poolboi, KINTEL and Projektbau. House and Garage. Preview the line-up and save it on soundcheck.
+Projektbau presents TOSKA: dj poolboi, DJ Cinema Quartier Latin, Projektbau at Lark on Thu 22 Oct, Berlin. 4 artists on the bill: DJ Cinéma Quartier Latin, dj poolboi, KINTEL and Projektbau. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

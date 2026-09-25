@@ -1,6 +1,6 @@
 # INSIDE 86 at DETROIT CLUB
 
-INSIDE 86 at DETROIT CLUB on Fri 9 Oct, Barcelona. 2 acts on the bill: Eli Ercolani and Guille Gironde (2). House and Garage. Preview the line-up and save it on soundcheck.
+INSIDE 86 at DETROIT CLUB on Fri 9 Oct, Barcelona. 2 artists on the bill: Eli Ercolani and Guille Gironde. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

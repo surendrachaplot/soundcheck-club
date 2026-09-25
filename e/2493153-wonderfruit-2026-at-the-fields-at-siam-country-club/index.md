@@ -1,12 +1,12 @@
 # Wonderfruit 2026 at The Fields at Siam Country Club
 
-Wonderfruit 2026 at The Fields at Siam Country Club on Thu 3 Dec, All. 37 acts on the bill: Alex Albrecht, Bins, Bouffant Bouffant and Chalo and 33 more. Preview the line-up and save it on soundcheck.
+Wonderfruit 2026 at The Fields at Siam Country Club on Thu 3 Dec, Thailand. 37 artists on the bill: Alex Albrecht, Bins, Bouffant Bouffant and Chalo and 33 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 3 Dec 2026 |
 | Venue | The Fields at Siam Country Club |
-| City | All |
+| City | Thailand |
 
 ## Line-up
 

@@ -1,6 +1,6 @@
 # Mode Festival 2026 at Cockatoo Island
 
-Mode Festival 2026 at Cockatoo Island on Sun 4 Oct, Sydney. 28 acts on the bill: Alilia, anusha, Ash Lauryn and Avalon Emerson and 24 more. Preview the line-up and save it on soundcheck.
+Mode Festival 2026 at Cockatoo Island on Sun 4 Oct, Sydney. 28 artists on the bill: Alilia, anusha, Ash Lauryn and Avalon Emerson and 24 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

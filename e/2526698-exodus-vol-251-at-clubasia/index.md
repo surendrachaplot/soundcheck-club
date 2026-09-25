@@ -1,6 +1,6 @@
 # EXODUS vol. 251 at clubasia
 
-EXODUS vol. 251 at clubasia on Wed 23 Sept, Tokyo. 5 acts on the bill: Coretex, FUJI TRILL, Jellyf!sh and KANT and 1 more. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
+EXODUS vol. 251 at clubasia on Wed 23 Sept, Tokyo. 5 artists on the bill: Coretex, FUJI TRILL, Jellyf!sh and KANT and 1 more. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

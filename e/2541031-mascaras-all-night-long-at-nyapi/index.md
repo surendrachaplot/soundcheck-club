@@ -1,6 +1,6 @@
 # Mascaras All-night-long at Nyapi
 
-Mascaras All-night-long at Nyapi on Sat 26 Sept, Seoul. 1 act on the bill: CHIDA. Preview the line-up and save it on soundcheck.
+Mascaras All-night-long at Nyapi on Sat 26 Sept, Seoul. 1 artist on the bill: CHIDA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

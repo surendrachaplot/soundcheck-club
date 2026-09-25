@@ -1,6 +1,6 @@
 # CHARLES D at Halcyon
 
-CHARLES D at Halcyon on Fri 25 Sept, Sanfrancisco. 1 act on the bill: Charles D (US). Techno. Preview the line-up and save it on soundcheck.
+CHARLES D at Halcyon on Fri 25 Sept, San Francisco/Oakland. 1 artist on the bill: Charles D (US). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

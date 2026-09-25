@@ -1,6 +1,6 @@
 # Tim Reaper, Jay Carder + DJ Cosworth - Halloween Rave at Gaffe
 
-Tim Reaper, Jay Carder + DJ Cosworth - Halloween Rave at Gaffe on Fri 30 Oct, London. 3 acts on the bill: DJ Cosworth, Jay Carder and Tim Reaper. Preview the line-up and save it on soundcheck.
+Tim Reaper, Jay Carder + DJ Cosworth - Halloween Rave at Gaffe on Fri 30 Oct, London. 3 artists on the bill: DJ Cosworth, Jay Carder and Tim Reaper. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

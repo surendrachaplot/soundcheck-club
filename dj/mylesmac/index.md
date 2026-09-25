@@ -2,7 +2,7 @@
 
 Myles Mac is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Solace, Melbourne on Thu, 24 Sept 2026.
 
-Myles Mac is a house and techno artist based in Australia, tracked on soundcheck, with 83 sets logged across Berlin, Copenhagen, London and Losangeles and 5 more. Often billed alongside DJ Possum, Andy Hart and Bex. Next up: Solace, Melbourne on Thu 24 Sept.
+Myles Mac is a house and techno artist based in Australia, tracked on soundcheck, with 83 sets logged across Berlin, Copenhagen, London and Los Angeles and 5 more. Often billed alongside DJ Possum, Andy Hart and Bex. Next up: Solace, Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 

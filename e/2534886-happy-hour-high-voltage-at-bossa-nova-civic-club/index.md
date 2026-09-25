@@ -1,6 +1,6 @@
 # Happy Hour: High Voltage at Bossa Nova Civic Club
 
-Happy Hour: High Voltage at Bossa Nova Civic Club on Fri 25 Sept, Newyorkcity. 1 act on the bill: shirlz. Techno and House. Preview the line-up and save it on soundcheck.
+Happy Hour: High Voltage at Bossa Nova Civic Club on Fri 25 Sept, New York City. 1 artist on the bill: shirlz. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

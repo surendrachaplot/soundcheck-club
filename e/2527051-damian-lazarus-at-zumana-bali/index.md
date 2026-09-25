@@ -1,6 +1,6 @@
 # Damian Lazarus at Zumana Bali
 
-Damian Lazarus at Zumana Bali on Wed 25 Nov, Bali. 1 act on the bill: Damian Lazarus. Techno and House. Preview the line-up and save it on soundcheck.
+Damian Lazarus at Zumana Bali on Wed 25 Nov, Bali. 1 artist on the bill: Damian Lazarus. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

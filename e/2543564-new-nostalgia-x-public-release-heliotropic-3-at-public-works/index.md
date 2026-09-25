@@ -1,6 +1,6 @@
 # New Nostalgia x Public Release: Heliotropic 3 at Public Works
 
-New Nostalgia x Public Release: Heliotropic 3 at Public Works on Thu 15 Oct, Sanfrancisco. Preview the line-up and save it on soundcheck.
+New Nostalgia x Public Release: Heliotropic 3 at Public Works on Thu 15 Oct, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

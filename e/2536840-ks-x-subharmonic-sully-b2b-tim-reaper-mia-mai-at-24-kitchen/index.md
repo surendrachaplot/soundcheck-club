@@ -1,6 +1,6 @@
 # KS X SubHarmonic: Sully b2b Tim Reaper & Mia Mai at 24 Kitchen Street
 
-KS X SubHarmonic: Sully b2b Tim Reaper & Mia Mai at 24 Kitchen Street on Sat 24 Oct, Liverpool. 3 acts on the bill: Mia Mai, Sully and Tim Reaper. Bass and Jungle. Preview the line-up and save it on soundcheck.
+KS X SubHarmonic: Sully b2b Tim Reaper & Mia Mai at 24 Kitchen Street on Sat 24 Oct, Liverpool. 3 artists on the bill: Mia Mai, Sully and Tim Reaper. Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Organïk XXL 2026 - INDOOR at Parc Des Expositions
 
-Organïk XXL 2026 - INDOOR at Parc Des Expositions on Sat 19 Dec, Paris. 6 acts on the bill: 6EJOU, AISHA, ANXHELA and DJ Mad Dog and 2 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Organïk XXL 2026 - INDOOR at Parc Des Expositions on Sat 19 Dec, Paris. 6 artists on the bill: 6EJOU, AISHA, ANXHELA and DJ Mad Dog and 2 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

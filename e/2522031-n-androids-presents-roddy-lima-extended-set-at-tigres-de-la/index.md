@@ -1,6 +1,6 @@
 # Nü Androids presents: Roddy Lima (Extended Set) at Tigres de la Noche
 
-Nü Androids presents: Roddy Lima (Extended Set) at Tigres de la Noche on Fri 6 Nov, Washingtondc. House and Tech House. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Roddy Lima (Extended Set) at Tigres de la Noche on Fri 6 Nov, Washington DC. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PULLPPURI MIXTAPE (BY DDULDAN & TOKIROIMAKAI) RELEASE PARTY at Modeci
 
-PULLPPURI MIXTAPE (BY DDULDAN & TOKIROIMAKAI) RELEASE PARTY at Modeci on Sat 26 Sept, Seoul. 4 acts on the bill: DJ yesyes, Guinneissik, Moruka and Yeong Die. Hardcore and Electronica. Preview the line-up and save it on soundcheck.
+PULLPPURI MIXTAPE (BY DDULDAN & TOKIROIMAKAI) RELEASE PARTY at Modeci on Sat 26 Sept, Seoul. 4 artists on the bill: DJ yesyes, Guinneissik, Moruka and Yeong Die. Hardcore and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

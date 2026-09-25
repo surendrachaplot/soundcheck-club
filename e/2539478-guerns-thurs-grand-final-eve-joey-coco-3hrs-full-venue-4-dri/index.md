@@ -1,6 +1,6 @@
 # Guerns Thurs: Grand Final Eve: Joey Coco [3hrs] - Full Venue + $4 Drinks* at New Guernica
 
-Guerns Thurs: Grand Final Eve: Joey Coco [3hrs] - Full Venue + $4 Drinks* at New Guernica on Thu 24 Sept, Melbourne. 5 acts on the bill: AUNTY H!ST@M!NE, Joey Coco, Liho and Mitch Tonta and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Guerns Thurs: Grand Final Eve: Joey Coco [3hrs] - Full Venue + $4 Drinks* at New Guernica on Thu 24 Sept, Melbourne. 5 artists on the bill: AUNTY H!ST@M!NE, Joey Coco, Liho and Mitch Tonta and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

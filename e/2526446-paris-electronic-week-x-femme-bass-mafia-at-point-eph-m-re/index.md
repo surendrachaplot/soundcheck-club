@@ -1,6 +1,6 @@
 # Paris Electronic Week x Femme Bass Mafia at Point Ephémère
 
-Paris Electronic Week x Femme Bass Mafia at Point Ephémère on Wed 30 Sept, Paris. 4 acts on the bill: Carré, Dangermami, Mama Lior and Ponyo. Techno and Bass. Preview the line-up and save it on soundcheck.
+Paris Electronic Week x Femme Bass Mafia at Point Ephémère on Wed 30 Sept, Paris. 4 artists on the bill: Carré, Dangermami, Mama Lior and Ponyo. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

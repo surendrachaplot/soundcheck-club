@@ -1,6 +1,6 @@
 # Alpaka x Sophie Joe: 'Undercover' EP Release at Not For Sale Gallery
 
-Alpaka x Sophie Joe: 'Undercover' EP Release at Not For Sale Gallery on Fri 2 Oct, London. 1 act on the bill: Sophie Joe. House and Electronica. Preview the line-up and save it on soundcheck.
+Alpaka x Sophie Joe: 'Undercover' EP Release at Not For Sale Gallery on Fri 2 Oct, London. 1 artist on the bill: Sophie Joe. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

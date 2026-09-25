@@ -1,6 +1,6 @@
 # DOLLS AFTER DARK at Invisible Wind Factory
 
-DOLLS AFTER DARK at Invisible Wind Factory on Fri 13 Nov, Liverpool. 3 acts on the bill: blvk.velvet, Matica and TAMAN (2). Techno and Club. Preview the line-up and save it on soundcheck.
+DOLLS AFTER DARK at Invisible Wind Factory on Fri 13 Nov, Liverpool. 3 artists on the bill: blvk.velvet, Matica and TAMAN. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # APERITIVO ITALIANO – THE AFTER WORK SPECIAL at RIVA Bar Munich
 
-APERITIVO ITALIANO – THE AFTER WORK SPECIAL at RIVA Bar Munich on Thu 26 Nov, Munich. 1 act on the bill: Robert James Perkins. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+APERITIVO ITALIANO – THE AFTER WORK SPECIAL at RIVA Bar Munich on Thu 26 Nov, Munich. 1 artist on the bill: Robert James Perkins. Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

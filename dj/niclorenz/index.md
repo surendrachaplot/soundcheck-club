@@ -2,7 +2,7 @@
 
 Nic Lorenz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ruby Emma Hotel & Bar, Amsterdam on Fri, 23 Oct 2026.
 
-Nic Lorenz is a techno and house artist based in Germany, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 4 more. Often billed alongside Avocado, Chris Di Perri and Dave Dinger. Next up: Ruby Emma Hotel & Bar, Amsterdam on Fri 23 Oct.
+Nic Lorenz is a techno and house artist based in Germany, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Cologne and Düsseldorf and 4 more. Often billed alongside Avocado, Chris Di Perri and Dave Dinger. Next up: Ruby Emma Hotel & Bar, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 

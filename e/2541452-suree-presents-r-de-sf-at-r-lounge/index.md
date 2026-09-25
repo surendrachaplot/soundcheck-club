@@ -1,6 +1,6 @@
 # -Suree presents- R de Sf スペシャル at R Lounge
 
--Suree presents- R de Sf スペシャル at R Lounge on Wed 23 Sept, Tokyo. 1 act on the bill: Shuichiro Suzuki. House and Pop. Preview the line-up and save it on soundcheck.
+-Suree presents- R de Sf スペシャル at R Lounge on Wed 23 Sept, Tokyo. 1 artist on the bill: Shuichiro Suzuki. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

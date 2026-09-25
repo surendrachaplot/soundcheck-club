@@ -1,6 +1,6 @@
 # RAUM Invites Hamam Nights at CLUB RAUM
 
-RAUM Invites Hamam Nights at CLUB RAUM on Fri 27 Nov, Amsterdam. 3 acts on the bill: Hyperaktivist, Josh Caffé and Sedef Adasï. Preview the line-up and save it on soundcheck.
+RAUM Invites Hamam Nights at CLUB RAUM on Fri 27 Nov, Amsterdam. 3 artists on the bill: Hyperaktivist, Josh Caffé and Sedef Adasï. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

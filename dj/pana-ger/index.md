@@ -2,7 +2,7 @@
 
 PANA (Ger) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OST, Berlin on Fri, 6 Nov 2026.
 
-PANA (Ger) is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Basel, Berlin, Cologne and Newyorkcity and 2 more. Often billed alongside DJ Cringey, Athina and MCR-T. Next up: OST, Berlin on Fri 6 Nov.
+PANA (Ger) is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Basel, Berlin, Cologne and New York City and 2 more. Often billed alongside DJ Cringey, Athina and MCR-T. Next up: OST, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 

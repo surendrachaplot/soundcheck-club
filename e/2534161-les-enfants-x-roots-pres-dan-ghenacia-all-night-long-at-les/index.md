@@ -1,6 +1,6 @@
 # Les Enfants x Roots pres. Dan Ghenacia All Night Long at Les Enfants Brillants
 
-Les Enfants x Roots pres. Dan Ghenacia All Night Long at Les Enfants Brillants on Fri 20 Nov, Barcelona. 1 act on the bill: Dan Ghenacia. House and Electro. Preview the line-up and save it on soundcheck.
+Les Enfants x Roots pres. Dan Ghenacia All Night Long at Les Enfants Brillants on Fri 20 Nov, Barcelona. 1 artist on the bill: Dan Ghenacia. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Selecta'S BACK - CLUB SEASON OPENING at Turbina
 
-Selecta'S BACK - CLUB SEASON OPENING at Turbina on Sat 10 Oct, Budapest. 1 act on the bill: quera. House and Garage. Preview the line-up and save it on soundcheck.
+Selecta'S BACK - CLUB SEASON OPENING at Turbina on Sat 10 Oct, Budapest. 1 artist on the bill: quera. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

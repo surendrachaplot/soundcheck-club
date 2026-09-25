@@ -1,6 +1,6 @@
 # Knistern at Richten25
 
-Knistern at Richten25 on Sun 4 Oct, Berlin. 2 acts on the bill: Nour Sokhon and Otis Mensah. Hip-Hop and Experimental. Preview the line-up and save it on soundcheck.
+Knistern at Richten25 on Sun 4 Oct, Berlin. 2 artists on the bill: Nour Sokhon and Otis Mensah. Hip-Hop and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

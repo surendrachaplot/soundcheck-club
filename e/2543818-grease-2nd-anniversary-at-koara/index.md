@@ -1,6 +1,6 @@
 # GREASE 2nd Anniversary at Koara
 
-GREASE 2nd Anniversary at Koara on Sat 3 Oct, Tokyo. 2 acts on the bill: 3rill and Keigo. House. Preview the line-up and save it on soundcheck.
+GREASE 2nd Anniversary at Koara on Sat 3 Oct, Tokyo. 2 artists on the bill: 3rill and Keigo. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

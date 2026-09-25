@@ -1,6 +1,6 @@
 # VG+ with Carl H (Animals on Psychedelics, Cleethorpes) + maxi.milian (VG+, Hong Kong) at 宀 Club
 
-VG+ with Carl H (Animals on Psychedelics, Cleethorpes) + maxi.milian (VG+, Hong Kong) at 宀 Club on Sat 10 Oct, Hongkong. 2 acts on the bill: Carl H and maxi.milian. Trance and House. Preview the line-up and save it on soundcheck.
+VG+ with Carl H (Animals on Psychedelics, Cleethorpes) + maxi.milian (VG+, Hong Kong) at 宀 Club on Sat 10 Oct, Hong Kong. 2 artists on the bill: Carl H and maxi.milian. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

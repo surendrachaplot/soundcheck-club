@@ -1,6 +1,6 @@
 # Gusano Club Aniversario W/ Santiago Ritacco at Cafe La Palma
 
-Gusano Club Aniversario W/ Santiago Ritacco at Cafe La Palma on Sat 26 Sept, Madrid. 3 acts on the bill: Lucien (3), Posada and Santiago Ritacco. House and Electro. Preview the line-up and save it on soundcheck.
+Gusano Club Aniversario W/ Santiago Ritacco at Cafe La Palma on Sat 26 Sept, Madrid. 3 artists on the bill: Lucien, Posada and Santiago Ritacco. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

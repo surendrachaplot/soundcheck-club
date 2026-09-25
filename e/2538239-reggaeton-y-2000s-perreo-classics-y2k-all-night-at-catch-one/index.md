@@ -1,6 +1,6 @@
 # REGGAETON Y 2000s (Perreo Classics + Y2K All Night!) at Catch One
 
-REGGAETON Y 2000s (Perreo Classics + Y2K All Night!) at Catch One on Sat 26 Sept, Losangeles. Preview the line-up and save it on soundcheck.
+REGGAETON Y 2000s (Perreo Classics + Y2K All Night!) at Catch One on Sat 26 Sept, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

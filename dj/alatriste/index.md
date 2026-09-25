@@ -2,7 +2,7 @@
 
 Alatriste is a House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Mexico City on Fri, 25 Sept 2026.
 
-Alatriste is a house and latin bass artist based in United States of America, tracked on soundcheck, with 28 sets logged across Losangeles and Mexicocity. Often billed alongside Cinema Paradisco, Enya Botello and Disco 86. Next up: TBA, Mexicocity on Fri 25 Sept.
+Alatriste is a house and latin bass artist based in United States of America, tracked on soundcheck, with 28 sets logged across Los Angeles and Mexico City. Often billed alongside Cinema Paradisco, Enya Botello and Disco 86. Next up: TBA, Mexico City on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Jamz Supernova at Headrow House
 
-Jamz Supernova at Headrow House on Fri 6 Nov, Leeds. 1 act on the bill: Jamz Supernova. Preview the line-up and save it on soundcheck.
+Jamz Supernova at Headrow House on Fri 6 Nov, Leeds. 1 artist on the bill: Jamz Supernova. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

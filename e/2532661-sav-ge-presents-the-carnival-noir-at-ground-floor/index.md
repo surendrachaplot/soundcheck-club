@@ -1,6 +1,6 @@
 # SAVÁGE PRESENTS: THE CARNIVAL NOIR at Ground Floor
 
-SAVÁGE PRESENTS: THE CARNIVAL NOIR at Ground Floor on Fri 25 Sept, Philadelphia. 2 acts on the bill: IANN (US) and Shadow Walker. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+SAVÁGE PRESENTS: THE CARNIVAL NOIR at Ground Floor on Fri 25 Sept, Philadelphia. 2 artists on the bill: IANN (US) and Shadow Walker. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

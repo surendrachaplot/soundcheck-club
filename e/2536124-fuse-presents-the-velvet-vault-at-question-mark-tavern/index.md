@@ -1,6 +1,6 @@
 # FUSE presents: The Velvet Vault at Question Mark Tavern
 
-FUSE presents: The Velvet Vault at Question Mark Tavern on Fri 25 Sept, Sanfrancisco. House and Tech House. Preview the line-up and save it on soundcheck.
+FUSE presents: The Velvet Vault at Question Mark Tavern on Fri 25 Sept, San Francisco/Oakland. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

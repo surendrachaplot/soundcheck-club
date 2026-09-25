@@ -1,6 +1,6 @@
 # Amtrac at Webster Hall
 
-Amtrac at Webster Hall on Sat 12 Dec, Newyorkcity. 1 act on the bill: Amtrac. Preview the line-up and save it on soundcheck.
+Amtrac at Webster Hall on Sat 12 Dec, New York City. 1 artist on the bill: Amtrac. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

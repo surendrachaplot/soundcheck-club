@@ -1,6 +1,6 @@
 # Mount Kimbie DJ pres. TunnelVision with upsammy at Centre Point
 
-Mount Kimbie DJ pres. TunnelVision with upsammy at Centre Point on Sat 3 Oct, Dublin. 2 acts on the bill: Mount Kimbie and upsammy. Preview the line-up and save it on soundcheck.
+Mount Kimbie DJ pres. TunnelVision with upsammy at Centre Point on Sat 3 Oct, Dublin. 2 artists on the bill: Mount Kimbie and upsammy. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

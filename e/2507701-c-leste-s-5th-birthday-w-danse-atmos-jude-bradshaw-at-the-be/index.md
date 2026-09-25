@@ -1,6 +1,6 @@
 # Céleste's 5th Birthday W/ Danse Atmos & Jude Bradshaw at The Berkeley Suite
 
-Céleste's 5th Birthday W/ Danse Atmos & Jude Bradshaw at The Berkeley Suite on Fri 25 Sept, Glasgow. 3 acts on the bill: Céleste, Danse Atmos and Jude Bradshaw. Preview the line-up and save it on soundcheck.
+Céleste's 5th Birthday W/ Danse Atmos & Jude Bradshaw at The Berkeley Suite on Fri 25 Sept, Glasgow. 3 artists on the bill: Céleste, Danse Atmos and Jude Bradshaw. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

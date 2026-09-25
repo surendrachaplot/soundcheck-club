@@ -2,7 +2,7 @@
 
 Bendito is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - SpinnaVerse BK, New York City on Sun, 4 Oct 2026.
 
-Bendito is a house and disco artist based in United States of America, tracked on soundcheck, with 88 sets logged across Chicago, Houston, London and Montreal and 3 more. Often billed alongside Jeremy Giros, Donis and Elephantglasses. Next up: TBA - SpinnaVerse BK, Newyorkcity on Sun 4 Oct.
+Bendito is a house and disco artist based in United States of America, tracked on soundcheck, with 88 sets logged across Chicago, Houston, London and Montreal and 3 more. Often billed alongside Jeremy Giros, Donis and Elephantglasses. Next up: TBA - SpinnaVerse BK, New York City on Sun 4 Oct.
 
 ## Upcoming shows
 

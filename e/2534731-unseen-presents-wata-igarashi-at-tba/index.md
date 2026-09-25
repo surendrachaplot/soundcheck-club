@@ -1,6 +1,6 @@
 # UNSEEN presents: Wata Igarashi at TBA
 
-UNSEEN presents: Wata Igarashi at TBA on Fri 2 Oct, Denver. 3 acts on the bill: FCKDSKO, quang.oi and Wata Igarashi. Techno. Preview the line-up and save it on soundcheck.
+UNSEEN presents: Wata Igarashi at TBA on Fri 2 Oct, Denver. 3 artists on the bill: FCKDSKO, quang.oi and Wata Igarashi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

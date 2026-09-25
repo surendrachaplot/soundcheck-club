@@ -2,7 +2,7 @@
 
 Johana is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Distillery N17, London on Fri, 25 Sept 2026.
 
-Johana is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Belgrade and London. Often billed alongside Amor Ante, Feloneezy and New Flesh (2). Next up: Distillery N17, London on Fri 25 Sept.
+Johana is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Belgrade and London. Often billed alongside Amor Ante, Feloneezy and New Flesh. Next up: Distillery N17, London on Fri 25 Sept.
 
 ## Upcoming shows
 

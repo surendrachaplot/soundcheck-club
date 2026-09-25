@@ -1,6 +1,6 @@
 # Elsewhere presents: MAታA Boat Party at Circle Line Cruises
 
-Elsewhere presents: MAታA Boat Party at Circle Line Cruises on Sat 26 Sept, Newyorkcity. 5 acts on the bill: Dj Nico, Eden (AU), FATHER and LILLA and 1 more. Preview the line-up and save it on soundcheck.
+Elsewhere presents: MAታA Boat Party at Circle Line Cruises on Sat 26 Sept, New York City. 5 artists on the bill: Dj Nico, Eden (AU), FATHER and LILLA and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

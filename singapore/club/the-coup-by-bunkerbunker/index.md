@@ -2,7 +2,7 @@
 
 The Coup by BUNKERBUNKER!! is a music venue in Singapore with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Low End 010" on Sat, 26 Sept 2026.
 
-The Coup by BUNKERBUNKER!! is a music venue in Singapore listed on soundcheck. 2 upcoming gigs, with line-ups including Bass, INFRA-24 and Krstn (2). Browse upcoming dates, start times and who's playing. 7 Ann Siang Hill, Singapore 069791.
+The Coup by BUNKERBUNKER!! is a music venue in Singapore listed on soundcheck. 2 upcoming gigs, with line-ups including Bass, INFRA-24 and Krstn. Browse upcoming dates, start times and who's playing. 7 Ann Siang Hill, Singapore 069791.
 
 ## What's on
 

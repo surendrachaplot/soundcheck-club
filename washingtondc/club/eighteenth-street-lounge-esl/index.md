@@ -2,7 +2,7 @@
 
 Eighteenth Street Lounge (ESL) is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "ESL presents: SoundRoom Live series - MicFreack / Maximiliano" on Sat, 26 Sept 2026.
 
-Eighteenth Street Lounge (ESL) is a music venue in Washingtondc listed on soundcheck. 3 upcoming gigs, with line-ups including markintheDark, MAXIMILIANO (US), Micfreak and MÖSEE and 1 more. Browse upcoming dates, start times and who's playing. 1230 9th Street Washington, DC.
+Eighteenth Street Lounge (ESL) is a music venue in Washington DC listed on soundcheck. 3 upcoming gigs, with line-ups including markintheDark, MAXIMILIANO (US), Micfreak and MÖSEE and 1 more. Browse upcoming dates, start times and who's playing. 1230 9th Street Washington, DC.
 
 ## What's on
 

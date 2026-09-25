@@ -1,6 +1,6 @@
 # RAZZCLUBS: Lizz presenta La Chismoteka: Dale Mami + BADSISTA The residency & MORE at Razzmatazz
 
-RAZZCLUBS: Lizz presenta La Chismoteka: Dale Mami + BADSISTA The residency & MORE at Razzmatazz on Fri 25 Sept, Barcelona. 7 acts on the bill: Antiribeiro, BADSISTA, egomania and M8NSE and 3 more. Preview the line-up and save it on soundcheck.
+RAZZCLUBS: Lizz presenta La Chismoteka: Dale Mami + BADSISTA The residency & MORE at Razzmatazz on Fri 25 Sept, Barcelona. 7 artists on the bill: Antiribeiro, BADSISTA, egomania and M8NSE and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

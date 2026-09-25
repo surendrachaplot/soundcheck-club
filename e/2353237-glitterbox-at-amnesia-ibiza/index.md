@@ -1,6 +1,6 @@
 # Glitterbox at Amnesia Ibiza
 
-Glitterbox at Amnesia Ibiza on Fri 25 Sept, Ibiza. 7 acts on the bill: Basement Jaxx, Dan Shake, L3Ni and Luke Solomon and 3 more. House. Preview the line-up and save it on soundcheck.
+Glitterbox at Amnesia Ibiza on Fri 25 Sept, Ibiza. 7 artists on the bill: Basement Jaxx, Dan Shake, L3Ni and Luke Solomon and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

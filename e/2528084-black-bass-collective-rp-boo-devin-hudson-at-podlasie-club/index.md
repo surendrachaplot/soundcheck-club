@@ -1,6 +1,6 @@
 # BLACK BASS COLLECTIVE, RP Boo, Devin Hudson at Podlasie Club
 
-BLACK BASS COLLECTIVE, RP Boo, Devin Hudson at Podlasie Club on Sat 26 Sept, Chicago. 2 acts on the bill: Devin Hudson and RP Boo. Preview the line-up and save it on soundcheck.
+BLACK BASS COLLECTIVE, RP Boo, Devin Hudson at Podlasie Club on Sat 26 Sept, Chicago. 2 artists on the bill: Devin Hudson and RP Boo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

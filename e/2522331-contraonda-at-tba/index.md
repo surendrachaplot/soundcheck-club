@@ -1,6 +1,6 @@
 # CONTRAONDA at TBA
 
-CONTRAONDA at TBA on Fri 30 Oct, Mexicocity. 2 acts on the bill: Jody Wisternoff and Spencer Brown. Preview the line-up and save it on soundcheck.
+CONTRAONDA at TBA on Fri 30 Oct, Mexico City. 2 artists on the bill: Jody Wisternoff and Spencer Brown. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

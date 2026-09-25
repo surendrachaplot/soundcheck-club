@@ -2,7 +2,7 @@
 
 Natta is a Techno and Dancehall artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Cova, Hamburg on Fri, 9 Oct 2026.
 
-Natta is a techno and dancehall artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Hamburg and Lyon. Often billed alongside KISSA, TZO (1) and 333CXT. Next up: La Cova, Hamburg on Fri 9 Oct.
+Natta is a techno and dancehall artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Hamburg and Lyon. Often billed alongside KISSA, TZO and 333CXT. Next up: La Cova, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 

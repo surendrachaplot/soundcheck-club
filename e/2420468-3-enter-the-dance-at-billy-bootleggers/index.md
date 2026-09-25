@@ -1,6 +1,6 @@
 # :3 Enter The Dance at Billy Bootleggers
 
-:3 Enter The Dance at Billy Bootleggers on Sat 3 Oct, Nottingham. 3 acts on the bill: FKA Hardcore, LUNAx3 and RUBY RAWR. Hardcore and Bass. Preview the line-up and save it on soundcheck.
+:3 Enter The Dance at Billy Bootleggers on Sat 3 Oct, Nottingham. 3 artists on the bill: FKA Hardcore, LUNAx3 and RUBY RAWR. Hardcore and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Post Panic 3rd Anniversary at TBA
 
-Post Panic 3rd Anniversary at TBA on Fri 2 Oct, Barcelona. 4 acts on the bill: Balou (2), Demofather, Hicham (FR) and Waffle. Trance and House. Preview the line-up and save it on soundcheck.
+Post Panic 3rd Anniversary at TBA on Fri 2 Oct, Barcelona. 4 artists on the bill: Balou, Demofather, Hicham (FR) and Waffle. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

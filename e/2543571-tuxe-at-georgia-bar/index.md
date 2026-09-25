@@ -1,6 +1,6 @@
 # Tuxe at Georgia Bar
 
-Tuxe at Georgia Bar on Sat 26 Sept, Berlin. 1 act on the bill: Tuxe. Techno and Bass. Preview the line-up and save it on soundcheck.
+Tuxe at Georgia Bar on Sat 26 Sept, Berlin. 1 artist on the bill: Tuxe. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

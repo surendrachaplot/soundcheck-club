@@ -1,6 +1,6 @@
 # Lakes Festival 2026 at TBA - Hagley Park
 
-Lakes Festival 2026 at TBA - Hagley Park on Mon 28 Dec, Christchurch. 8 acts on the bill: Armand Van Helden, Break, Dean Turnley and Lens (2) and 4 more. Preview the line-up and save it on soundcheck.
+Lakes Festival 2026 at TBA - Hagley Park on Mon 28 Dec, Christchurch. 8 artists on the bill: Armand Van Helden, Break, Dean Turnley and Lens and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

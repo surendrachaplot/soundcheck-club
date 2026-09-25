@@ -1,6 +1,6 @@
 # Resonate x LOST: Main Phase & High Fidelity (ANL) at Wigwam
 
-Resonate x LOST: Main Phase & High Fidelity (ANL) at Wigwam on Fri 2 Oct, Dublin. 2 acts on the bill: High Fidelity and Main Phase. Garage and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Resonate x LOST: Main Phase & High Fidelity (ANL) at Wigwam on Fri 2 Oct, Dublin. 2 artists on the bill: High Fidelity and Main Phase. Garage and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

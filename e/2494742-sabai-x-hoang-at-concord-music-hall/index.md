@@ -1,6 +1,6 @@
 # SABAI x HOANG at Concord Music Hall
 
-SABAI x HOANG at Concord Music Hall on Fri 9 Oct, Chicago. 1 act on the bill: Somna. House and Bass. Preview the line-up and save it on soundcheck.
+SABAI x HOANG at Concord Music Hall on Fri 9 Oct, Chicago. 1 artist on the bill: Somna. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

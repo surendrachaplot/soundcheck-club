@@ -1,6 +1,6 @@
 # MIXED FEELINGS w. YOOFIL, Moni von Pisani, Nicki Spumante at Klunkerkranich
 
-MIXED FEELINGS w. YOOFIL, Moni von Pisani, Nicki Spumante at Klunkerkranich on Sat 26 Sept, Berlin. 2 acts on the bill: Moni von Pisani and Nicki Spumante. House and Disco. Preview the line-up and save it on soundcheck.
+MIXED FEELINGS w. YOOFIL, Moni von Pisani, Nicki Spumante at Klunkerkranich on Sat 26 Sept, Berlin. 2 artists on the bill: Moni von Pisani and Nicki Spumante. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EELF x ADE: Target Demographic, Shaolin Cowboy, GEE LEE, Pijus, upper class and Ysheso_ at Waterhouse Studios
 
-EELF x ADE: Target Demographic, Shaolin Cowboy, GEE LEE, Pijus, upper class and Ysheso_ at Waterhouse Studios on Thu 22 Oct, Amsterdam. 6 acts on the bill: GEE LEE, Pijus, Shaolin Cowboy and Target Demographic and 2 more. Breakbeat and House. Preview the line-up and save it on soundcheck.
+EELF x ADE: Target Demographic, Shaolin Cowboy, GEE LEE, Pijus, upper class and Ysheso_ at Waterhouse Studios on Thu 22 Oct, Amsterdam. 6 artists on the bill: GEE LEE, Pijus, Shaolin Cowboy and Target Demographic and 2 more. Breakbeat and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

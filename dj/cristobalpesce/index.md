@@ -1,8 +1,8 @@
 # Cristobal Pesce
 
-Cristobal Pesce is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Brooklyn, New York City on Fri, 9 Oct 2026.
+Cristobal Pesce is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Brooklyn, New York City on Fri, 9 Oct 2026.
 
-Cristobal Pesce is a techno and trance artist based in Chile, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 24 more. Often billed alongside 999999999, Clara Cuvé and Indira Paganotto. Next up: TBA - Brooklyn, Newyorkcity on Fri 9 Oct.
+Cristobal Pesce is a techno and trance artist based in Chile, tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside Clara Cuvé, 999999999 and Indira Paganotto. Next up: TBA - Brooklyn, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Cristobal Pesce is a techno and trance artist based in Chile, tracked on soundch
 | Sat, 17 Oct 2026 | TBA | Vancouver |
 | Fri, 30 Oct 2026 | Parc del Fòrum | Barcelona |
 | Fri, 6 Nov 2026 | 74 Hall | Istanbul |
+| Sat, 7 Nov 2026 | Smolna | Warsaw |
+| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Fri, 20 Nov 2026 | Sonora Garden | Sao Paulo |
 | Fri, 11 Dec 2026 | Club Ciudad de Buenos Aires | Buenos Aires |
@@ -29,6 +31,6 @@ Cristobal Pesce is a techno and trance artist based in Chile, tracked on soundch
 
 ## Shares bills with
 
-999999999, Clara Cuvé, Indira Paganotto
+Clara Cuvé, 999999999, Indira Paganotto
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalpesce/)*

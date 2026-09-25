@@ -1,6 +1,6 @@
 # dtekk b2b Lake Haze, Quantum Eraser at Gare Porto
 
-dtekk b2b Lake Haze, Quantum Eraser at Gare Porto on Fri 25 Sept, Porto. 2 acts on the bill: dtekk and Lake Haze. Techno and Electronica. Preview the line-up and save it on soundcheck.
+dtekk b2b Lake Haze, Quantum Eraser at Gare Porto on Fri 25 Sept, Porto. 2 artists on the bill: dtekk and Lake Haze. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

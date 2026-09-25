@@ -2,7 +2,7 @@
 
 dj goodboy (BK) is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jupiter Disco, New York City on Fri, 25 Sept 2026.
 
-dj goodboy (BK) is a breakbeat and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Pedestrian Access, Spiral Eddie and ECKOL. Next up: Jupiter Disco, Newyorkcity on Fri 25 Sept.
+dj goodboy (BK) is a breakbeat and house artist based in Canada, tracked on soundcheck, with 10 sets logged across New York City and San Francisco/Oakland. Often billed alongside Pedestrian Access, Spiral Eddie and ECKOL. Next up: Jupiter Disco, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Infinite Beats at Alcove Nottingham
 
-Infinite Beats at Alcove Nottingham on Sat 31 Oct, Nottingham. 1 act on the bill: Ian Bircher. Progressive House and Breakbeat. Preview the line-up and save it on soundcheck.
+Infinite Beats at Alcove Nottingham on Sat 31 Oct, Nottingham. 1 artist on the bill: Ian Bircher. Progressive House and Breakbeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

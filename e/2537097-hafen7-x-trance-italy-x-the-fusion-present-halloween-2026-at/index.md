@@ -1,6 +1,6 @@
 # Hafen7 x Trance Italy x The Fusion present Halloween 2026 at Hafen7
 
-Hafen7 x Trance Italy x The Fusion present Halloween 2026 on Sat 31 Oct, Dusseldorf. 5 acts on the bill: ADEMES, AMO, CRITICAL ERROR 404 and NYXEA and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Hafen7 x Trance Italy x The Fusion present Halloween 2026 on Sat 31 Oct, Düsseldorf. 5 artists on the bill: ADEMES, AMO, CRITICAL ERROR 404 and NYXEA and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

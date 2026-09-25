@@ -1,6 +1,6 @@
 # Tokyo Halloween Monster Ball at Fai Aoyama
 
-Tokyo Halloween Monster Ball at Fai Aoyama on Fri 30 Oct, Tokyo. 5 acts on the bill: Kotatsu, Nono THING, Sonic Smile and tuzuRa and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Tokyo Halloween Monster Ball at Fai Aoyama on Fri 30 Oct, Tokyo. 5 artists on the bill: Kotatsu, Nono THING, Sonic Smile and tuzuRa and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

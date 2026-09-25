@@ -1,6 +1,6 @@
 # HOTLADEN #4 at Kramladen
 
-HOTLADEN #4 at Kramladen on Fri 2 Oct, Vienna. 2 acts on the bill: Jules and Lila Gold (2). Preview the line-up and save it on soundcheck.
+HOTLADEN #4 at Kramladen on Fri 2 Oct, Vienna. 2 artists on the bill: Jules and Lila Gold. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

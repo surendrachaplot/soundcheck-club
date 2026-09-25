@@ -1,6 +1,6 @@
 # Henri Bergmann x Brisbane at The Brightside
 
-Henri Bergmann x Brisbane at The Brightside on Sun 27 Sept, Brisbane. 1 act on the bill: Henri Bergmann. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Henri Bergmann x Brisbane at The Brightside on Sun 27 Sept, Brisbane. 1 artist on the bill: Henri Bergmann. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sights & Sounds at The Chocolate Factory
 
-Sights & Sounds at The Chocolate Factory on Sat 10 Oct, Newyorkcity. Techno and House. Preview the line-up and save it on soundcheck.
+Sights & Sounds at The Chocolate Factory on Sat 10 Oct, New York City. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

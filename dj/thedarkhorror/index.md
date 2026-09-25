@@ -2,7 +2,7 @@
 
 The Dark Horror is a Hardcore and Gabber artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
-The Dark Horror is a hardcore and gabber artist based in Belgium, tracked on soundcheck, with 24 sets logged across Antwerp, Barcelona, Brussels and Cologne and 8 more. Often billed alongside Pinotello, Dimitri K and Lekkerfaces. Next up: Westfalenhallen, Dortmund-essen on Sat 3 Oct.
+The Dark Horror is a hardcore and gabber artist based in Belgium, tracked on soundcheck, with 24 sets logged across Antwerp, Barcelona, Brussels and Cologne and 8 more. Often billed alongside Pinotello, Dimitri K and Lekkerfaces. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
 
 ## Upcoming shows
 

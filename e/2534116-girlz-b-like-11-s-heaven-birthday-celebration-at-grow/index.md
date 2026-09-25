@@ -1,6 +1,6 @@
 # GIRLZ B LIKE: 11's HEAVEN Birthday Celebration at Grow
 
-GIRLZ B LIKE: 11's HEAVEN Birthday Celebration at Grow on Sat 24 Oct, London. 1 act on the bill: Marcia Carr. House and Disco. Preview the line-up and save it on soundcheck.
+GIRLZ B LIKE: 11's HEAVEN Birthday Celebration at Grow on Sat 24 Oct, London. 1 artist on the bill: Marcia Carr. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

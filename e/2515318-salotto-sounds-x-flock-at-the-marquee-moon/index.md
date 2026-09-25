@@ -1,6 +1,6 @@
 # Salotto Sounds X Flock at The Marquee Moon
 
-Salotto Sounds X Flock at The Marquee Moon on Sat 26 Sept, London. 3 acts on the bill: Alfaz, Bowlcut and Steely. House and Disco. Preview the line-up and save it on soundcheck.
+Salotto Sounds X Flock at The Marquee Moon on Sat 26 Sept, London. 3 artists on the bill: Alfaz, Bowlcut and Steely. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

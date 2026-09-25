@@ -1,6 +1,6 @@
 # feedbk - industry opening with TBA at feedbk
 
-feedbk - industry opening with TBA on Thu 1 Oct, Newyorkcity. Techno and House. Preview the line-up and save it on soundcheck.
+feedbk - industry opening with TBA on Thu 1 Oct, New York City. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

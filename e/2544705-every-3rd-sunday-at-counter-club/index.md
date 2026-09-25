@@ -1,6 +1,6 @@
 # EVERY 3RD SUNDAY at COUNTER CLUB
 
-EVERY 3RD SUNDAY at COUNTER CLUB on Sun 18 Oct, Tokyo. 1 act on the bill: Jean (3). Preview the line-up and save it on soundcheck.
+EVERY 3RD SUNDAY at COUNTER CLUB on Sun 18 Oct, Tokyo. 1 artist on the bill: Jean. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PLAY pres Ilario Alicante at Cocoa Mataró
 
-PLAY pres Ilario Alicante at Cocoa Mataró on Sat 3 Oct, Barcelona. 4 acts on the bill: DIROS, Giuseppe Martini, Ilario Alicante and Sebastián Peña. Tech House. Preview the line-up and save it on soundcheck.
+PLAY pres Ilario Alicante at Cocoa Mataró on Sat 3 Oct, Barcelona. 4 artists on the bill: DIROS, Giuseppe Martini, Ilario Alicante and Sebastián Peña. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

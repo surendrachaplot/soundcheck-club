@@ -2,7 +2,7 @@
 
 Thibo Verbeke is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tigullio, Malta on Sat, 26 Sept 2026.
 
-Thibo Verbeke is a techno and trance artist based in Belgium, tracked on soundcheck, with 9 sets logged across Malta. Often billed alongside Billy Hills, MAMO (2) and Naomi Baldacchino. Next up: Tigullio, Malta on Sat 26 Sept.
+Thibo Verbeke is a techno and trance artist based in Belgium, tracked on soundcheck, with 9 sets logged across Malta. Often billed alongside Billy Hills, MAMO and Naomi Baldacchino. Next up: Tigullio, Malta on Sat 26 Sept.
 
 ## Upcoming shows
 

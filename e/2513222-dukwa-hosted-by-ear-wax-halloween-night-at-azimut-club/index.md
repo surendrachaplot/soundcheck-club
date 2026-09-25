@@ -1,6 +1,6 @@
 # Dukwa hosted by EAR\WAX halloween night at Azimut Club
 
-Dukwa hosted by EAR\WAX halloween night at Azimut Club on Sat 31 Oct, Turin. 1 act on the bill: Dukwa. House. Preview the line-up and save it on soundcheck.
+Dukwa hosted by EAR\WAX halloween night at Azimut Club on Sat 31 Oct, Turin. 1 artist on the bill: Dukwa. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

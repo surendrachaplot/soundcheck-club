@@ -1,6 +1,6 @@
 # TNWM: Crane Sessions - Ivory, Tim Engelhardt, Tommy Farrow (ADE 2026) at Crane Hotel Faralda
 
-TNWM: Crane Sessions - Ivory, Tim Engelhardt, Tommy Farrow (ADE 2026) at Crane Hotel Faralda on Thu 22 Oct, Amsterdam. 3 acts on the bill: Ivory, Tim Engelhardt and Tommy Farrow. Progressive House and House. Preview the line-up and save it on soundcheck.
+TNWM: Crane Sessions - Ivory, Tim Engelhardt, Tommy Farrow (ADE 2026) at Crane Hotel Faralda on Thu 22 Oct, Amsterdam. 3 artists on the bill: Ivory, Tim Engelhardt and Tommy Farrow. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

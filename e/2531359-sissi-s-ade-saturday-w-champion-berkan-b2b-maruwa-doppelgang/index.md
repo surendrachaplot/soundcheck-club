@@ -1,6 +1,6 @@
 # Sissi's ADE Saturday w/ Champion, Berkan b2b Maruwa, Doppelgang at SISSI'S Amsterdam
 
-Sissi's ADE Saturday w/ Champion, Berkan b2b Maruwa, Doppelgang at SISSI'S Amsterdam on Sat 24 Oct, Amsterdam. 11 acts on the bill: A For Alpha, bebe bad, Berkan V8 and Champion and 7 more. House and Bass. Preview the line-up and save it on soundcheck.
+Sissi's ADE Saturday w/ Champion, Berkan b2b Maruwa, Doppelgang at SISSI'S Amsterdam on Sat 24 Oct, Amsterdam. 11 artists on the bill: A For Alpha, bebe bad, Berkan V8 and Champion and 7 more. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

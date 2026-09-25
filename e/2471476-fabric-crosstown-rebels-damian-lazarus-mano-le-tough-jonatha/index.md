@@ -1,6 +1,6 @@
 # fabric: Crosstown Rebels - Damian Lazarus, Mano Le Tough, Jonathan Kaspar, OMRI + more at fabric
 
-fabric: Crosstown Rebels - Damian Lazarus, Mano Le Tough, Jonathan Kaspar, OMRI + more on Sat 26 Sept, London. 6 acts on the bill: Culoe De Song, Damian Lazarus, Jonathan Kaspar and Mano Le Tough and 2 more. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+fabric: Crosstown Rebels - Damian Lazarus, Mano Le Tough, Jonathan Kaspar, OMRI + more on Sat 26 Sept, London. 6 artists on the bill: Culoe De Song, Damian Lazarus, Jonathan Kaspar and Mano Le Tough and 2 more. Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Channel One Sound System UK Tour: Brighton at Volks
 
-Channel One Sound System UK Tour: Brighton at Volks on Fri 9 Oct, Brighton. 1 act on the bill: Channel One Sound. Dub. Preview the line-up and save it on soundcheck.
+Channel One Sound System UK Tour: Brighton at Volks on Fri 9 Oct, Brighton. 1 artist on the bill: Channel One Sound. Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

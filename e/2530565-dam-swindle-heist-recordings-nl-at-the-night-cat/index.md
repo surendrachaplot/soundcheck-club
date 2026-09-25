@@ -1,6 +1,6 @@
 # Dam Swindle (Heist Recordings, NL) at The Night Cat
 
-Dam Swindle (Heist Recordings, NL) at The Night Cat on Mon 2 Nov, Melbourne. 2 acts on the bill: Dam Swindle and dozie (uk). Preview the line-up and save it on soundcheck.
+Dam Swindle (Heist Recordings, NL) at The Night Cat on Mon 2 Nov, Melbourne. 2 artists on the bill: Dam Swindle and dozie (uk). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

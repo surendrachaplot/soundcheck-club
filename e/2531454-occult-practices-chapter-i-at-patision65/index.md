@@ -1,6 +1,6 @@
 # Occult Practices Chapter I at Patision65
 
-Occult Practices Chapter I at Patision65 on Sat 31 Oct, Athens. 3 acts on the bill: Anatolian Weapons, Eleusinia Mysteria and Re/Act. Techno and Post-Punk. Preview the line-up and save it on soundcheck.
+Occult Practices Chapter I at Patision65 on Sat 31 Oct, Athens. 3 artists on the bill: Anatolian Weapons, Eleusinia Mysteria and Re/Act. Techno and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

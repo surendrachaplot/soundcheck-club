@@ -1,6 +1,6 @@
 # Full Circle vol 15 with Nicholas Latiff, Sian, Nomingia, Anthony Cruz & Double Dipp at Schubas
 
-Full Circle vol 15 with Nicholas Latiff, Sian, Nomingia, Anthony Cruz & Double Dipp at Schubas on Fri 25 Sept, Chicago. 3 acts on the bill: Anthony Cruz, Double Dipp and Nicholas Latiff. House and Minimal. Preview the line-up and save it on soundcheck.
+Full Circle vol 15 with Nicholas Latiff, Sian, Nomingia, Anthony Cruz & Double Dipp at Schubas on Fri 25 Sept, Chicago. 3 artists on the bill: Anthony Cruz, Double Dipp and Nicholas Latiff. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

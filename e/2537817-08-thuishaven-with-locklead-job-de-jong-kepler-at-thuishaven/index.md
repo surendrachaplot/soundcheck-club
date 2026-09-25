@@ -1,6 +1,6 @@
 # 08 - Thuishaven with Locklead / Job de Jong / Kepler at Thuishaven
 
-08 - Thuishaven with Locklead / Job de Jong / Kepler on Sun 8 Nov, Amsterdam. 7 acts on the bill: A For Alpha, Job de Jong, Kepler and Locklead and 3 more. Preview the line-up and save it on soundcheck.
+08 - Thuishaven with Locklead / Job de Jong / Kepler on Sun 8 Nov, Amsterdam. 7 artists on the bill: A For Alpha, Job de Jong, Kepler and Locklead and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

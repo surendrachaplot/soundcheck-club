@@ -1,6 +1,6 @@
 # BASS3 x Mint Warehouse Loft show at Mint Warehouse
 
-BASS3 x Mint Warehouse Loft show on Sat 24 Oct, Leeds. 2 acts on the bill: EVIE UK and Jacob Matthews. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+BASS3 x Mint Warehouse Loft show on Sat 24 Oct, Leeds. 2 artists on the bill: EVIE UK and Jacob Matthews. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 30th ADE: Only Mistakes - Kikko INVITES at Toekomstmuziek
 
-30th ADE: Only Mistakes - Kikko INVITES at Toekomstmuziek on Sun 25 Oct, Amsterdam. 3 acts on the bill: Biagio Ess, Kikko and Stefan Andrei. House and Tech House. Preview the line-up and save it on soundcheck.
+30th ADE: Only Mistakes - Kikko INVITES at Toekomstmuziek on Sun 25 Oct, Amsterdam. 3 artists on the bill: Biagio Ess, Kikko and Stefan Andrei. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

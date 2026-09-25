@@ -2,7 +2,7 @@
 
 LEISAN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
 
-LEISAN is a house and techno artist based in Russia, tracked on soundcheck, with 30 sets logged across Boston, Ibiza, Losangeles and Miami and 2 more. Often billed alongside ALKMST, Adam Rose and Afriqua. Next up: TBA - Private Location, Sandiego on Sat 31 Oct.
+LEISAN is a house and techno artist based in Russia, tracked on soundcheck, with 30 sets logged across Boston, Ibiza, Los Angeles and Miami and 2 more. Often billed alongside ALKMST, Adam Rose and Afriqua. Next up: TBA - Private Location, San Diego on Sat 31 Oct.
 
 ## Upcoming shows
 

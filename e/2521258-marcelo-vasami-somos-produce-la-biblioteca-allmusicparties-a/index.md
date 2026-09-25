@@ -1,6 +1,6 @@
 # Marcelo Vasami - Somos Produce, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo
 
-Marcelo Vasami - Somos Produce, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo on Sat 10 Oct, Buenosaires. 1 act on the bill: Marcelo Vasami. Progressive House. Preview the line-up and save it on soundcheck.
+Marcelo Vasami - Somos Produce, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo on Sat 10 Oct, Buenos Aires. 1 artist on the bill: Marcelo Vasami. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

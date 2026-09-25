@@ -1,6 +1,6 @@
 # Hardt Antoine pres. TGTHER: Trikk, MĪMĪ x FY, Pattn at THE OTHER SIDE
 
-Hardt Antoine pres. TGTHER: Trikk, MĪMĪ x FY, Pattn at THE OTHER SIDE on Wed 21 Oct, Amsterdam. 4 acts on the bill: Hardt Antoine, MĪMĪ x FY, Pattn and Trikk. Preview the line-up and save it on soundcheck.
+Hardt Antoine pres. TGTHER: Trikk, MĪMĪ x FY, Pattn at THE OTHER SIDE on Wed 21 Oct, Amsterdam. 4 artists on the bill: Hardt Antoine, MĪMĪ x FY, Pattn and Trikk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

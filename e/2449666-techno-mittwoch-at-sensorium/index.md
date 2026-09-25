@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 21 Oct, Berlin. 3 acts on the bill: Daviti, PETDuo and Viktor Kampf. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 21 Oct, Berlin. 3 artists on the bill: Daviti, PETDuo and Viktor Kampf. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

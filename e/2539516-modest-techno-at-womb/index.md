@@ -1,6 +1,6 @@
 # Modest (TECHNO) at WOMB
 
-Modest (TECHNO) at WOMB on Fri 9 Oct, Tokyo. 7 acts on the bill: Atsuki, KABUTO, Karuta and KILLER BONG and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Modest (TECHNO) at WOMB on Fri 9 Oct, Tokyo. 7 artists on the bill: Atsuki, KABUTO, Karuta and KILLER BONG and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,13 @@
 # Blockhead
 
-Blockhead is a Hip-Hop and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Betty, Hamburg on Thu, 24 Sept 2026.
+Blockhead is a Hip-Hop and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kantine am Berghain, Berlin on Fri, 25 Sept 2026.
 
-Blockhead is a hip-hop and downtempo artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam, Austin, Berlin and Hamburg and 7 more. Often billed alongside Eliot Lipp, Teebs and Break Science. Next up: TBA - Betty, Hamburg on Thu 24 Sept.
+Blockhead is a hip-hop and downtempo artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam, Austin, Berlin and Hamburg and 7 more. Often billed alongside Eliot Lipp, Teebs and Break Science. Next up: Kantine am Berghain, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | TBA - Betty | Hamburg |
 | Fri, 25 Sept 2026 | Kantine am Berghain | Berlin |
 
 ## Recently played

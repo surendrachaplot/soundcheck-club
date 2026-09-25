@@ -1,6 +1,6 @@
 # Funke is Supergay at Funke
 
-Funke is Supergay on Fri 23 Oct, Ghent. 4 acts on the bill: DJ TEETH, Timmerman, Uni Son and Violently Happy. Trance and House. Preview the line-up and save it on soundcheck.
+Funke is Supergay on Fri 23 Oct, Ghent. 4 artists on the bill: DJ TEETH, Timmerman, Uni Son and Violently Happy. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

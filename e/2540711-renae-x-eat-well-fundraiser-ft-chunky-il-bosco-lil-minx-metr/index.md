@@ -1,6 +1,6 @@
 # renae x Eat Well Fundraiser ft. Chunky, Il Bosco, Lil' Minx, Metrodome, Sarah Sweeney & Synna G at renae
 
-renae x Eat Well Fundraiser ft. Chunky, Il Bosco, Lil' Minx, Metrodome, Sarah Sweeney & Synna G on Thu 8 Oct, Manchester. 5 acts on the bill: Chunky, Il Bosco, Lil' Minx and Metrodome and 1 more. Preview the line-up and save it on soundcheck.
+renae x Eat Well Fundraiser ft. Chunky, Il Bosco, Lil' Minx, Metrodome, Sarah Sweeney & Synna G on Thu 8 Oct, Manchester. 5 artists on the bill: Chunky, Il Bosco, Lil' Minx and Metrodome and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

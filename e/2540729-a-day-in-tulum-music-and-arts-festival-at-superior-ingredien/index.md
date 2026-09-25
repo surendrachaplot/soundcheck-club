@@ -1,6 +1,6 @@
 # A Day In Tulum Music and Arts Festival at Superior Ingredients
 
-A Day In Tulum Music and Arts Festival at Superior Ingredients on Sun 25 Oct, Newyorkcity. 3 acts on the bill: FI-LO, Kuff and ROBIDIO. Minimal and Afro Tech. Preview the line-up and save it on soundcheck.
+A Day In Tulum Music and Arts Festival at Superior Ingredients on Sun 25 Oct, New York City. 3 artists on the bill: FI-LO, Kuff and ROBIDIO. Minimal and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

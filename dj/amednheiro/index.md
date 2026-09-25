@@ -2,7 +2,7 @@
 
 Amed Nheiro is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ÆDEN, Berlin on Sat, 26 Sept 2026.
 
-Amed Nheiro is a house and disco artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Dj OmarO, NAIR (IN) and H7 (3). Next up: ÆDEN, Berlin on Sat 26 Sept.
+Amed Nheiro is a house and disco artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Dj OmarO, NAIR (IN) and H7. Next up: ÆDEN, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 

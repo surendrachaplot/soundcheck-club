@@ -1,6 +1,6 @@
 # Hernan Cattaneo b2b Nick Warren - 6hrs ADE at WestWeelde
 
-Hernan Cattaneo b2b Nick Warren - 6hrs ADE at WestWeelde on Wed 21 Oct, Amsterdam. 2 acts on the bill: Hernan Cattaneo and Nick Warren. Progressive House and House. Preview the line-up and save it on soundcheck.
+Hernan Cattaneo b2b Nick Warren - 6hrs ADE at WestWeelde on Wed 21 Oct, Amsterdam. 2 artists on the bill: Hernan Cattaneo and Nick Warren. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

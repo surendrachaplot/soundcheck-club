@@ -1,6 +1,6 @@
 # Invincible Fest pres Digitalism live at Hacienda Club
 
-Invincible Fest pres Digitalism live at Hacienda Club on Sat 17 Oct, Rome. 1 act on the bill: Digitalism. Electro. Preview the line-up and save it on soundcheck.
+Invincible Fest pres Digitalism live at Hacienda Club on Sat 17 Oct, Rome. 1 artist on the bill: Digitalism. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

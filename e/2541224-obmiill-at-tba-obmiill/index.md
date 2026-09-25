@@ -1,6 +1,6 @@
 # OBMIILL at TBA - obmiill
 
-OBMIILL at TBA - obmiill on Sat 17 Oct, Barcelona. 1 act on the bill: ALEKSANDRE. Techno and Club. Preview the line-up and save it on soundcheck.
+OBMIILL at TBA - obmiill on Sat 17 Oct, Barcelona. 1 artist on the bill: ALEKSANDRE. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

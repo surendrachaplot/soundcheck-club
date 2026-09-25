@@ -1,6 +1,6 @@
 # Christian Löffler ∞ ROXY Prague at Roxy
 
-Christian Löffler ∞ ROXY Prague at Roxy on Fri 9 Oct, Prague. 1 act on the bill: Christian Löffler. Ambient and Minimal Techno. Preview the line-up and save it on soundcheck.
+Christian Löffler ∞ ROXY Prague at Roxy on Fri 9 Oct, Prague. 1 artist on the bill: Christian Löffler. Ambient and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

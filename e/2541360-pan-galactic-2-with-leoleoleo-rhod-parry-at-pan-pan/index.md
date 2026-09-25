@@ -1,6 +1,6 @@
 # Pan Galactic 2 with leoleoleo & Rhod Parry at Pan-Pan
 
-Pan Galactic 2 with leoleoleo & Rhod Parry at Pan-Pan on Sat 10 Oct, Birmingham. 2 acts on the bill: leoleoleo and Rhod Parry. Techno and Garage. Preview the line-up and save it on soundcheck.
+Pan Galactic 2 with leoleoleo & Rhod Parry at Pan-Pan on Sat 10 Oct, Birmingham. 2 artists on the bill: leoleoleo and Rhod Parry. Techno and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

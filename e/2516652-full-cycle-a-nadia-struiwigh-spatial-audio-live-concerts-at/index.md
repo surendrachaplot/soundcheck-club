@@ -1,6 +1,6 @@
 # FULL CYCLE: A# + Nadia Struiwigh [Spatial Audio Live Concerts] at THE OTHER SIDE
 
-FULL CYCLE: A# + Nadia Struiwigh [Spatial Audio Live Concerts] at THE OTHER SIDE on Wed 21 Oct, Amsterdam. 5 acts on the bill: Alberta Balsam, Bastian Benjamin, French II and Milio and 1 more. IDM and Electronica. Preview the line-up and save it on soundcheck.
+FULL CYCLE: A# + Nadia Struiwigh [Spatial Audio Live Concerts] at THE OTHER SIDE on Wed 21 Oct, Amsterdam. 5 artists on the bill: Alberta Balsam, Bastian Benjamin, French II and Milio and 1 more. IDM and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kepler presents CONTACT HALLOWEEN at Mint Warehouse
 
-Kepler presents CONTACT HALLOWEEN at Mint Warehouse on Sat 31 Oct, Leeds. 5 acts on the bill: Boss Priester, bullet tooth, Dr Dubplate and Emma 2000 and 1 more. House. Preview the line-up and save it on soundcheck.
+Kepler presents CONTACT HALLOWEEN at Mint Warehouse on Sat 31 Oct, Leeds. 5 artists on the bill: Boss Priester, bullet tooth, Dr Dubplate and Emma 2000 and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

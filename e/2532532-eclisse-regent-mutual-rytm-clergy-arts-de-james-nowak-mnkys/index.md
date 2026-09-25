@@ -1,6 +1,6 @@
 # Eclisse: Regent (Mutual Rytm, Clergy, ARTS /DE) James Nowak, mnkys at Astoria
 
-Eclisse: Regent (Mutual Rytm, Clergy, ARTS /DE) James Nowak, mnkys at Astoria on Fri 9 Oct, Turin. 3 acts on the bill: Hellcatz, mnkys and Regent. Techno. Preview the line-up and save it on soundcheck.
+Eclisse: Regent (Mutual Rytm, Clergy, ARTS /DE) James Nowak, mnkys at Astoria on Fri 9 Oct, Turin. 3 artists on the bill: Hellcatz, mnkys and Regent. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

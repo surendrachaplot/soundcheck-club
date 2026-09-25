@@ -1,6 +1,6 @@
 # Making Time PURE HALLOWEEN with Boy Harsher, Model/Actriz, Conducta, Marie Davidson & MORE at Franklin Music Hall
 
-Making Time PURE HALLOWEEN with Boy Harsher, Model/Actriz, Conducta, Marie Davidson & MORE at Franklin Music Hall on Sat 31 Oct, Philadelphia. 5 acts on the bill: Boy Harsher, Conducta, Dave P and Kassie Krut and 1 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Making Time PURE HALLOWEEN with Boy Harsher, Model/Actriz, Conducta, Marie Davidson & MORE at Franklin Music Hall on Sat 31 Oct, Philadelphia. 5 artists on the bill: Boy Harsher, Conducta, Dave P and Kassie Krut and 1 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

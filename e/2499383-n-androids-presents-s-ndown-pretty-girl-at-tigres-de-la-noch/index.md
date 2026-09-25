@@ -1,6 +1,6 @@
 # Nü Androids presents SünDown: Pretty Girl at Tigres de la Noche
 
-Nü Androids presents SünDown: Pretty Girl at Tigres de la Noche on Sat 10 Oct, Washingtondc. Techno and House. Preview the line-up and save it on soundcheck.
+Nü Androids presents SünDown: Pretty Girl at Tigres de la Noche on Sat 10 Oct, Washington DC. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

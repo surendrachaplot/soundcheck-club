@@ -1,6 +1,6 @@
 # Synapse & Rhythmic Steps with Atno at Atno
 
-Synapse & Rhythmic Steps with Atno on Sat 3 Oct, Budapest. 4 acts on the bill: bxrnadetth, Korosi, ML91 and Octile. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Synapse & Rhythmic Steps with Atno on Sat 3 Oct, Budapest. 4 artists on the bill: bxrnadetth, Korosi, ML91 and Octile. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

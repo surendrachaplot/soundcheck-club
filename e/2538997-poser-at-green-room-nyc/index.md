@@ -1,6 +1,6 @@
 # POSER at Green Room NYC
 
-POSER at Green Room NYC on Sat 3 Oct, Newyorkcity. 6 acts on the bill: BEIGE, Griffin Maxwell Brooks, Josh Caffé and Josh Steers and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+POSER at Green Room NYC on Sat 3 Oct, New York City. 6 artists on the bill: BEIGE, Griffin Maxwell Brooks, Josh Caffé and Josh Steers and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

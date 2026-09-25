@@ -1,6 +1,6 @@
 # Lee Burridge at VENT
 
-Lee Burridge at VENT on Fri 6 Nov, Tokyo. 1 act on the bill: Lee Burridge. House. Preview the line-up and save it on soundcheck.
+Lee Burridge at VENT on Fri 6 Nov, Tokyo. 1 artist on the bill: Lee Burridge. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

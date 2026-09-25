@@ -1,6 +1,6 @@
 # Soul Jam: Donna Gibson at Sneaky Pete's
 
-Soul Jam: Donna Gibson at Sneaky Pete's on Sat 26 Sept, Edinburgh. 3 acts on the bill: Donna Gibson, Percy Main and Tuesday Gonzalez. Disco and Balearic. Preview the line-up and save it on soundcheck.
+Soul Jam: Donna Gibson at Sneaky Pete's on Sat 26 Sept, Edinburgh. 3 artists on the bill: Donna Gibson, Percy Main and Tuesday Gonzalez. Disco and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

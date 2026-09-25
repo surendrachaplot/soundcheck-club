@@ -1,6 +1,6 @@
 # DAHLIA STEREO with Dam Swindle (Album Tour) at Dahlia Stereo
 
-DAHLIA STEREO with Dam Swindle (Album Tour) at Dahlia Stereo on Thu 3 Dec, Manchester. 1 act on the bill: Dam Swindle. House and Disco. Preview the line-up and save it on soundcheck.
+DAHLIA STEREO with Dam Swindle (Album Tour) at Dahlia Stereo on Thu 3 Dec, Manchester. 1 artist on the bill: Dam Swindle. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

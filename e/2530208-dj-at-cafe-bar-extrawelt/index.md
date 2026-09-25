@@ -1,6 +1,6 @@
 # dj木曜怪 at Cafe & Bar Extrawelt
 
-dj木曜怪 at Cafe & Bar Extrawelt on Thu 19 Nov, Tokyo. 2 acts on the bill: Kaw (1) and YU-MA. Techno and House. Preview the line-up and save it on soundcheck.
+dj木曜怪 at Cafe & Bar Extrawelt on Thu 19 Nov, Tokyo. 2 artists on the bill: Kaw and YU-MA. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 SHDW is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BASEMENT, New York City on Fri, 25 Sept 2026.
 
-SHDW is a techno and house artist based in Germany, tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: BASEMENT, Newyorkcity on Fri 25 Sept.
+SHDW is a techno and house artist based in Germany, tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: BASEMENT, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

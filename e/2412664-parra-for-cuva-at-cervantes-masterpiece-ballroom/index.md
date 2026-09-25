@@ -1,6 +1,6 @@
 # Parra for Cuva at Cervantes' Masterpiece Ballroom
 
-Parra for Cuva at Cervantes' Masterpiece Ballroom on Thu 5 Nov, Denver. 1 act on the bill: Parra for Cuva. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
+Parra for Cuva at Cervantes' Masterpiece Ballroom on Thu 5 Nov, Denver. 1 artist on the bill: Parra for Cuva. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

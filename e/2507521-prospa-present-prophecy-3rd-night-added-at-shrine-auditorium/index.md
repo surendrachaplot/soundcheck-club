@@ -1,6 +1,6 @@
 # Prospa present Prophecy - 3rd night added at Shrine Auditorium and Expo Hall
 
-Prospa present Prophecy - 3rd night added at Shrine Auditorium and Expo Hall on Wed 14 Oct, Losangeles. 1 act on the bill: Prospa. House and Tech House. Preview the line-up and save it on soundcheck.
+Prospa present Prophecy - 3rd night added at Shrine Auditorium and Expo Hall on Wed 14 Oct, Los Angeles. 1 artist on the bill: Prospa. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

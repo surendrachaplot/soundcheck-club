@@ -1,6 +1,6 @@
 # 18h Outdoor&Indoor Rave I Oliver Koletzki, Rheinfeuern uvm at Odonien
 
-18h Outdoor&Indoor Rave I Oliver Koletzki, Rheinfeuern uvm at Odonien on Wed 11 Nov, Cologne. 1 act on the bill: Oliver Koletzki. Techno and House. Preview the line-up and save it on soundcheck.
+18h Outdoor&Indoor Rave I Oliver Koletzki, Rheinfeuern uvm at Odonien on Wed 11 Nov, Cologne. 1 artist on the bill: Oliver Koletzki. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Motel Flamingo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Oriente, Mexico City on Thu, 24 Sept 2026.
 
-Motel Flamingo is a house and disco artist based in Mexico, tracked on soundcheck, with 10 sets logged across Mexicocity. Often billed alongside Blanco, Chema Diaz and Diego Walle. Next up: Bar Oriente, Mexicocity on Thu 24 Sept.
+Motel Flamingo is a house and disco artist based in Mexico, tracked on soundcheck, with 10 sets logged across Mexico City. Often billed alongside Blanco, Chema Diaz and Diego Walle. Next up: Bar Oriente, Mexico City on Thu 24 Sept.
 
 ## Upcoming shows
 

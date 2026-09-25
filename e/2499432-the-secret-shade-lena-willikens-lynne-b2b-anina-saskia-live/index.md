@@ -1,6 +1,6 @@
 # The Secret Shade: Lena Willikens, Lynne b2b Anina, Saskia (live) at Strange Brew
 
-The Secret Shade: Lena Willikens, Lynne b2b Anina, Saskia (live) at Strange Brew on Fri 9 Oct, Bristol. 4 acts on the bill: Anina, Lena Willikens, Lynne and Saskia. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+The Secret Shade: Lena Willikens, Lynne b2b Anina, Saskia (live) at Strange Brew on Fri 9 Oct, Bristol. 4 artists on the bill: Anina, Lena Willikens, Lynne and Saskia. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

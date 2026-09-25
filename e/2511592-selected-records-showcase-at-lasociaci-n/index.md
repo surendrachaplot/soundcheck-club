@@ -1,6 +1,6 @@
 # Selected Records Showcase at Lasociaciøn
 
-Selected Records Showcase at Lasociaciøn on Sat 26 Sept, Madrid. 3 acts on the bill: Angelo Stasi, G4G0 and Gabriel D'or & Bordoy. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Selected Records Showcase at Lasociaciøn on Sat 26 Sept, Madrid. 3 artists on the bill: Angelo Stasi, G4G0 and Gabriel D'or & Bordoy. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

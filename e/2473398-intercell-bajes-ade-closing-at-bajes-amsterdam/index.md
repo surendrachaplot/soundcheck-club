@@ -1,6 +1,6 @@
 # Intercell Bajes ADE Closing at Bajes Amsterdam
 
-Intercell Bajes ADE Closing at Bajes Amsterdam on Sun 25 Oct, Amsterdam. 11 acts on the bill: Aldonna, BASHKKA, Chlär and Chloé Caillet and 7 more. Preview the line-up and save it on soundcheck.
+Intercell Bajes ADE Closing at Bajes Amsterdam on Sun 25 Oct, Amsterdam. 11 artists on the bill: Aldonna, BASHKKA, Chlär and Chloé Caillet and 7 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FORMAT: Colin Benders / Henning Baer / Measure Divide / Geneva at TBA - Secret Location
 
-FORMAT: Colin Benders / Henning Baer / Measure Divide / Geneva at TBA - Secret Location on Sun 11 Oct, Toronto. 4 acts on the bill: Colin Benders, Geneva (2), Henning Baer and Measure Divide. Techno. Preview the line-up and save it on soundcheck.
+FORMAT: Colin Benders / Henning Baer / Measure Divide / Geneva at TBA - Secret Location on Sun 11 Oct, Toronto. 4 artists on the bill: Colin Benders, Geneva, Henning Baer and Measure Divide. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

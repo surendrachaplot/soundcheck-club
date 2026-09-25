@@ -2,7 +2,7 @@
 
 Lazy Susan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Quadraphonic Club, Melbourne on Sat, 26 Sept 2026.
 
-Lazy Susan is a house and techno artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne, Mexicocity and Sydney. Often billed alongside Kato, AAK (MX) and Alina (1). Next up: The Quadraphonic Club, Melbourne on Sat 26 Sept.
+Lazy Susan is a house and techno artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne, Mexico City and Sydney. Often billed alongside Kato, AAK (MX) and Alina. Next up: The Quadraphonic Club, Melbourne on Sat 26 Sept.
 
 ## Upcoming shows
 

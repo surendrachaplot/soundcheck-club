@@ -1,6 +1,6 @@
 # PRAYER SESSIONS (After Reception for Akiyuki Tsuru Solo Exhibition) at Casablanca Namba Riverside
 
-PRAYER SESSIONS (After Reception for Akiyuki Tsuru Solo Exhibition) at Casablanca Namba Riverside on Sun 11 Oct, Osaka. 2 acts on the bill: MAX PELA and RICHKID. Preview the line-up and save it on soundcheck.
+PRAYER SESSIONS (After Reception for Akiyuki Tsuru Solo Exhibition) at Casablanca Namba Riverside on Sun 11 Oct, Osaka. 2 artists on the bill: MAX PELA and RICHKID. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

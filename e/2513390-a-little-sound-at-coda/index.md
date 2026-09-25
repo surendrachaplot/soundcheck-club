@@ -1,6 +1,6 @@
 # A Little Sound at Coda
 
-A Little Sound at Coda on Fri 9 Oct, Toronto. 1 act on the bill: A Little Sound. Drum & Bass. Preview the line-up and save it on soundcheck.
+A Little Sound at Coda on Fri 9 Oct, Toronto. 1 artist on the bill: A Little Sound. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Channel One Sound System UK Tour: Sheffield at Electric Studios
 
-Channel One Sound System UK Tour: Sheffield at Electric Studios on Thu 5 Nov, Sheffield. 1 act on the bill: Channel One Sound. Dub. Preview the line-up and save it on soundcheck.
+Channel One Sound System UK Tour: Sheffield at Electric Studios on Thu 5 Nov, Sheffield. 1 artist on the bill: Channel One Sound. Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

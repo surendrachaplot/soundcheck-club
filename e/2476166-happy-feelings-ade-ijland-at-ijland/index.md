@@ -1,6 +1,6 @@
 # Happy Feelings ADE - Ijland at Ijland
 
-Happy Feelings ADE - Ijland on Sat 24 Oct, Amsterdam. 5 acts on the bill: KIM SWIM, Lucky Done Gone, Mike Momburg and Moody Mehran and 1 more. House and Garage. Preview the line-up and save it on soundcheck.
+Happy Feelings ADE - Ijland on Sat 24 Oct, Amsterdam. 5 artists on the bill: KIM SWIM, Lucky Done Gone, Mike Momburg and Moody Mehran and 1 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

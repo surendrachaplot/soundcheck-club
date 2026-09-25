@@ -2,7 +2,7 @@
 
 Opuntia is a Electronica and Classical artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
-Opuntia is an electronica and classical artist based in Switzerland, tracked on soundcheck, with 13 sets logged across Mexicocity, Milan and Monterrey. Often billed alongside AAAA, Buena Tarde and Ejival. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
+Opuntia is an electronica and classical artist based in Switzerland, tracked on soundcheck, with 13 sets logged across Mexico City, Milan and Monterrey. Often billed alongside AAAA, Buena Tarde and Ejival. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
 ## Upcoming shows
 

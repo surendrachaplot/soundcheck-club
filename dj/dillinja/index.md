@@ -1,14 +1,15 @@
 # Dillinja
 
-Dillinja is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Phonox, London on Fri, 25 Sept 2026.
+Dillinja is a Drum & Bass and Jungle artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Phonox, London on Fri, 25 Sept 2026.
 
-Dillinja is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 29 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: Phonox, London on Fri 25 Sept.
+Dillinja is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 30 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: Phonox, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Phonox | London |
+| Fri, 2 Oct 2026 | Le Bikini | South-west |
 | Sat, 3 Oct 2026 | NOWHERE | Manchester |
 | Sat, 3 Oct 2026 | Hootananny Brixton | London |
 | Sat, 10 Oct 2026 | Cakeshop | Seoul |

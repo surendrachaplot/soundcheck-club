@@ -1,6 +1,6 @@
 # Boris Club at BORIS CLUB
 
-Boris Club at BORIS CLUB on Fri 9 Oct, Barcelona. 2 acts on the bill: Marcel BS and Odrik. House. Preview the line-up and save it on soundcheck.
+Boris Club at BORIS CLUB on Fri 9 Oct, Barcelona. 2 artists on the bill: Marcel BS and Odrik. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

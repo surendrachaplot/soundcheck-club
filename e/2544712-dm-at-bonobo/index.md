@@ -1,6 +1,6 @@
 # DM at Bonobo
 
-DM at Bonobo on Fri 25 Sept, Tokyo. 2 acts on the bill: KEi and moge!. Preview the line-up and save it on soundcheck.
+DM at Bonobo on Fri 25 Sept, Tokyo. 2 artists on the bill: KEi and moge!. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Swing Dash Halloween: Alien Communications, Elegance Of The Damned [live] & Mush Love at Movers
 
-Swing Dash Halloween: Alien Communications, Elegance Of The Damned [live] & Mush Love at Movers on Fri 30 Oct, Nottingham. 3 acts on the bill: Alien Communications, Elegance Of The Damned and Mush Love (UK). Tech House and Electro. Preview the line-up and save it on soundcheck.
+Swing Dash Halloween: Alien Communications, Elegance Of The Damned [live] & Mush Love at Movers on Fri 30 Oct, Nottingham. 3 artists on the bill: Alien Communications, Elegance Of The Damned and Mush Love (UK). Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

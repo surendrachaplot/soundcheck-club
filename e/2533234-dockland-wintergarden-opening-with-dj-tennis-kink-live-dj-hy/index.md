@@ -1,6 +1,6 @@
 # Dockland Wintergarden Opening with DJ Tennis, KiNK live, DJ Hyperdrive, a.m at Dockland
 
-Dockland Wintergarden Opening with DJ Tennis, KiNK live, DJ Hyperdrive, a.m on Sat 3 Oct, Munster. 6 acts on the bill: DJ Hyperdrive, DJ Tennis, Efe Jackson and KiNK and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Dockland Wintergarden Opening with DJ Tennis, KiNK live, DJ Hyperdrive, a.m on Sat 3 Oct, Munster. 6 artists on the bill: DJ Hyperdrive, DJ Tennis, Efe Jackson and KiNK and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

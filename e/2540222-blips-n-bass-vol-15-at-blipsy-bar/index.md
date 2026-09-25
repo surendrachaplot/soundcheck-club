@@ -1,6 +1,6 @@
 # Blips n Bass vol 15 at Blipsy Bar
 
-Blips n Bass vol 15 at Blipsy Bar on Thu 24 Sept, Losangeles. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Blips n Bass vol 15 at Blipsy Bar on Thu 24 Sept, Los Angeles. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,13 +1,14 @@
 # Louise Plus One
 
-Louise Plus One is a Jungle and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Fox and Firkin, London on Sat, 26 Sept 2026.
+Louise Plus One is a Jungle and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spanners, London on Fri, 25 Sept 2026.
 
-Louise Plus One is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 119 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Hughesee, Equinox (UK) and DJ Azure. Next up: The Fox and Firkin, London on Sat 26 Sept.
+Louise Plus One is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 120 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Hughesee, Equinox (UK) and DJ Azure. Next up: Spanners, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Spanners | London |
 | Sat, 26 Sept 2026 | The Fox and Firkin | London |
 | Fri, 2 Oct 2026 | FORGE | Sheffield |
 | Sat, 17 Oct 2026 | M.O.T | London |

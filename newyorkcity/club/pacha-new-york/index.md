@@ -2,7 +2,7 @@
 
 Pacha New York is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sonny Fodera with Armand Van Helden" on Fri, 25 Sept 2026.
 
-Pacha New York is a music venue in Newyorkcity listed on soundcheck. 9 upcoming gigs, with line-ups including Armand Van Helden, Black Coffee, BLOND:ISH and Francis Mercier and 2 more. Browse upcoming dates, start times and who's playing. 140 Stewart Ave, Brooklyn, NY 11237.
+Pacha New York is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Armand Van Helden, Black Coffee, BLOND:ISH and Francis Mercier and 2 more. Browse upcoming dates, start times and who's playing. 140 Stewart Ave, Brooklyn, NY 11237.
 
 ## What's on
 

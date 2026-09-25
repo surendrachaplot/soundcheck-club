@@ -1,6 +1,6 @@
 # Kiku Room presents: Dream Come True with Zone Plus at Kiku Room
 
-Kiku Room presents: Dream Come True with Zone Plus on Thu 24 Sept, Sandiego. 2 acts on the bill: Megalina and Zone+. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+Kiku Room presents: Dream Come True with Zone Plus on Thu 24 Sept, San Diego. 2 artists on the bill: Megalina and Zone+. Minimal and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

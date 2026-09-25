@@ -1,6 +1,6 @@
 # DJ Godfather, BAE BAE, SYMØNNE at TBA - Downtown LA
 
-DJ Godfather, BAE BAE, SYMØNNE at TBA - Downtown LA on Fri 2 Oct, Losangeles. 3 acts on the bill: BAE BAE, DJ Godfather and Symonne. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
+DJ Godfather, BAE BAE, SYMØNNE at TBA - Downtown LA on Fri 2 Oct, Los Angeles. 3 artists on the bill: BAE BAE, DJ Godfather and Symonne. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

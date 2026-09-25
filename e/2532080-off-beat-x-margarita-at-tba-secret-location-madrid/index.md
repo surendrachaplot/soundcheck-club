@@ -1,6 +1,6 @@
 # Off-Beat x Margarita at TBA - Secret Location (Madrid)
 
-Off-Beat x Margarita at TBA - Secret Location (Madrid) on Sat 3 Oct, Madrid. 8 acts on the bill: berta (ES), Jorge Escribano, Lukas Klötz and Montse and 4 more. House. Preview the line-up and save it on soundcheck.
+Off-Beat x Margarita at TBA - Secret Location (Madrid) on Sat 3 Oct, Madrid. 8 artists on the bill: berta (ES), Jorge Escribano, Lukas Klötz and Montse and 4 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

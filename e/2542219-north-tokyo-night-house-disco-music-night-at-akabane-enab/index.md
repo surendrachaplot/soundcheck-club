@@ -1,6 +1,6 @@
 # North Tokyo Night: House & Disco Music Night at Akabane Enab
 
-North Tokyo Night: House & Disco Music Night at Akabane Enab on Fri 16 Oct, Tokyo. 2 acts on the bill: DJ ISE and Neri. House. Preview the line-up and save it on soundcheck.
+North Tokyo Night: House & Disco Music Night at Akabane Enab on Fri 16 Oct, Tokyo. 2 artists on the bill: DJ ISE and Neri. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

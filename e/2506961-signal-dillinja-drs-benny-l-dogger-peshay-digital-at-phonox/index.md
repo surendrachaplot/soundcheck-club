@@ -1,6 +1,6 @@
 # Signal: Dillinja, DRS, Benny L, Dogger, Peshay, Digital at Phonox
 
-Signal: Dillinja, DRS, Benny L, Dogger, Peshay, Digital at Phonox on Fri 25 Sept, London. 5 acts on the bill: Benny L, Dillinja, dogger and DRS and 1 more. Preview the line-up and save it on soundcheck.
+Signal: Dillinja, DRS, Benny L, Dogger, Peshay, Digital at Phonox on Fri 25 Sept, London. 5 artists on the bill: Benny L, Dillinja, dogger and DRS and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

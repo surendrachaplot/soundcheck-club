@@ -1,6 +1,6 @@
 # Enrenou pres. Vass + Javier Carballo at Les Enfants Brillants
 
-Enrenou pres. Vass + Javier Carballo at Les Enfants Brillants on Sat 10 Oct, Barcelona. 2 acts on the bill: Javier Carballo and Vass. Techno and Electro. Preview the line-up and save it on soundcheck.
+Enrenou pres. Vass + Javier Carballo at Les Enfants Brillants on Sat 10 Oct, Barcelona. 2 artists on the bill: Javier Carballo and Vass. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

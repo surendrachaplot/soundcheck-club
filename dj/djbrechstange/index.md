@@ -2,7 +2,7 @@
 
 DJ BRECHSTANGE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Humboldthain Club, Berlin on Sat, 3 Oct 2026.
 
-DJ BRECHSTANGE is a techno and trance artist based in Germany, tracked on soundcheck, with 31 sets logged across Athens, Berlin, Frankfurt and Krakow. Often billed alongside DiskoJochen, HØLLE (2) and DJ TIPSTER. Next up: Humboldthain Club, Berlin on Sat 3 Oct.
+DJ BRECHSTANGE is a techno and trance artist based in Germany, tracked on soundcheck, with 31 sets logged across Athens, Berlin, Frankfurt and Krakow. Often billed alongside DiskoJochen, HØLLE and DJ TIPSTER. Next up: Humboldthain Club, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 

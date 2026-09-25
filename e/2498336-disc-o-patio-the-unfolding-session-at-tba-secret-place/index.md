@@ -1,6 +1,6 @@
 # disc·o·patio: the unfolding session at TBA - SECRET PLACE
 
-disc·o·patio: the unfolding session at TBA - SECRET PLACE on Sat 26 Sept, Lyon. 5 acts on the bill: Das Firmament, Exkursion, Innuendo and Sanctus Libido and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+disc·o·patio: the unfolding session at TBA - SECRET PLACE on Sat 26 Sept, Lyon. 5 artists on the bill: Das Firmament, Exkursion, Innuendo and Sanctus Libido and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

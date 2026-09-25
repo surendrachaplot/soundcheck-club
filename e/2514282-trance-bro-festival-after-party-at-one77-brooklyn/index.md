@@ -1,6 +1,6 @@
 # Trance, Bro! Festival - After Party at One77 Brooklyn
 
-Trance, Bro! Festival - After Party at One77 Brooklyn on Sat 5 Dec, Newyorkcity. Trance and Techno. Preview the line-up and save it on soundcheck.
+Trance, Bro! Festival - After Party at One77 Brooklyn on Sat 5 Dec, New York City. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

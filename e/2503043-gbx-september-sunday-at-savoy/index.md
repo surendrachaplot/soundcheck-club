@@ -1,6 +1,6 @@
 # GBX September Sunday at Savoy
 
-GBX September Sunday at Savoy on Sun 27 Sept, Glasgow. 1 act on the bill: George Bowie. Trance. Preview the line-up and save it on soundcheck.
+GBX September Sunday at Savoy on Sun 27 Sept, Glasgow. 1 artist on the bill: George Bowie. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

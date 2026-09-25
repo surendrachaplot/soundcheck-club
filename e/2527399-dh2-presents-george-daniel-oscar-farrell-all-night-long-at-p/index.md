@@ -1,6 +1,6 @@
 # dh2 presents George Daniel & Oscar Farrell (All Night Long) at Palais
 
-dh2 presents George Daniel & Oscar Farrell (All Night Long) at Palais on Fri 30 Oct, London. 2 acts on the bill: George Daniel and Oscar Farrell. Preview the line-up and save it on soundcheck.
+dh2 presents George Daniel & Oscar Farrell (All Night Long) at Palais on Fri 30 Oct, London. 2 artists on the bill: George Daniel and Oscar Farrell. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Divine Playhouse Presents: A Delicious Indiscretion at TBA - Museum of Contemporary Art Australia
 
-Divine Playhouse Presents: A Delicious Indiscretion at TBA - Museum of Contemporary Art Australia on Thu 29 Oct, Sydney. 1 act on the bill: La Figa. House and Club. Preview the line-up and save it on soundcheck.
+Divine Playhouse Presents: A Delicious Indiscretion at TBA - Museum of Contemporary Art Australia on Thu 29 Oct, Sydney. 1 artist on the bill: La Figa. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

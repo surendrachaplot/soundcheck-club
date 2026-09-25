@@ -1,6 +1,6 @@
 # After Last Night at Macarena Club
 
-After Last Night at Macarena Club on Sat 26 Sept, Barcelona. 2 acts on the bill: Fabio Fortino and John Schüller. Preview the line-up and save it on soundcheck.
+After Last Night at Macarena Club on Sat 26 Sept, Barcelona. 2 artists on the bill: Fabio Fortino and John Schüller. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ESTRØ at New Guernica
 
-ESTRØ at New Guernica on Fri 16 Oct, Melbourne. 3 acts on the bill: Aaliyah Salem, bbsanii and Haus of Ralph. Bass. Preview the line-up and save it on soundcheck.
+ESTRØ at New Guernica on Fri 16 Oct, Melbourne. 3 artists on the bill: Aaliyah Salem, bbsanii and Haus of Ralph. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

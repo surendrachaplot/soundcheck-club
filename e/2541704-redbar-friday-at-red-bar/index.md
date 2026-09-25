@@ -1,6 +1,6 @@
 # REDBAR FRIDAY at Red Bar
 
-REDBAR FRIDAY at Red Bar on Fri 25 Sept, Tokyo. 3 acts on the bill: Dazzle Drums, RINALUCKY and Sakuma. Techno and House. Preview the line-up and save it on soundcheck.
+REDBAR FRIDAY at Red Bar on Fri 25 Sept, Tokyo. 3 artists on the bill: Dazzle Drums, RINALUCKY and Sakuma. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

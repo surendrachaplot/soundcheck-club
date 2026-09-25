@@ -2,7 +2,7 @@
 
 Petal Supply is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Elsewhere, New York City on Sat, 31 Oct 2026.
 
-Petal Supply is a club and pop artist based in Canada, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside umru, HVN (1) and Ard1n. Next up: Elsewhere, Newyorkcity on Sat 31 Oct.
+Petal Supply is a club and pop artist based in Canada, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside umru, HVN and Ard1n. Next up: Elsewhere, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 

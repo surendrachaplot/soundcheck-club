@@ -1,6 +1,6 @@
 # Gigi Masin (IT) at Kuudes Linja
 
-Gigi Masin (IT) at Kuudes Linja on Fri 20 Nov, Helsinki. 1 act on the bill: Gigi Masin. Electro and Ambient. Preview the line-up and save it on soundcheck.
+Gigi Masin (IT) at Kuudes Linja on Fri 20 Nov, Helsinki. 1 artist on the bill: Gigi Masin. Electro and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

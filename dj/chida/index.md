@@ -2,7 +2,7 @@
 
 CHIDA is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Azumaya, Tokyo on Thu, 24 Sept 2026.
 
-CHIDA is a house and techno artist based in Japan, tracked on soundcheck, with 191 sets logged across All, Amsterdam, Berlin and Bristol and 10 more. Often billed alongside YAMARCHY, FFAN and FU (JP). Next up: Azumaya, Tokyo on Thu 24 Sept.
+CHIDA is a house and techno artist based in Japan, tracked on soundcheck, with 191 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 10 more. Often billed alongside YAMARCHY, FFAN and FU (JP). Next up: Azumaya, Tokyo on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -15,7 +15,7 @@ CHIDA is a house and techno artist based in Japan, tracked on soundcheck, with 1
 | Sat, 10 Oct 2026 | WOMB | Tokyo |
 | Sat, 17 Oct 2026 | MIDNIGHT EAST | Tokyo |
 | Sat, 24 Oct 2026 | WOMB | Tokyo |
-| Thu, 3 Dec 2026 | The Fields at Siam Country Club | All |
+| Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
 

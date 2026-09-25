@@ -1,6 +1,6 @@
 # Curated by Phemia: Justine Perry, Pooja B, Phemia at TRAUM
 
-Curated by Phemia: Justine Perry, Pooja B, Phemia at TRAUM on Fri 30 Oct, Antwerp. 3 acts on the bill: Justine Perry, Phemia and Pooja B. Techno. Preview the line-up and save it on soundcheck.
+Curated by Phemia: Justine Perry, Pooja B, Phemia at TRAUM on Fri 30 Oct, Antwerp. 3 artists on the bill: Justine Perry, Phemia and Pooja B. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

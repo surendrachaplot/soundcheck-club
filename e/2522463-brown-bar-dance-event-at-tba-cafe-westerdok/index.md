@@ -1,6 +1,6 @@
 # BROWN BAR DANCE EVENT at TBA - Cafe Westerdok
 
-BROWN BAR DANCE EVENT at TBA - Cafe Westerdok on Sun 25 Oct, Amsterdam. 2 acts on the bill: Field Notes DJs and U-BEND. Acid and Balearic. Preview the line-up and save it on soundcheck.
+BROWN BAR DANCE EVENT at TBA - Cafe Westerdok on Sun 25 Oct, Amsterdam. 2 artists on the bill: Field Notes DJs and U-BEND. Acid and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

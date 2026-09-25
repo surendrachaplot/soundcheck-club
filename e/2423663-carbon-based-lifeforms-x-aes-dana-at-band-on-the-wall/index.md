@@ -1,6 +1,6 @@
 # Carbon Based Lifeforms x AES Dana at Band on the Wall
 
-Carbon Based Lifeforms x AES Dana at Band on the Wall on Fri 2 Oct, Manchester. 2 acts on the bill: Aes Dana and Carbon Based Lifeforms. Trance and Ambient. Preview the line-up and save it on soundcheck.
+Carbon Based Lifeforms x AES Dana at Band on the Wall on Fri 2 Oct, Manchester. 2 artists on the bill: Aes Dana and Carbon Based Lifeforms. Trance and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

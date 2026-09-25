@@ -1,8 +1,8 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Smolna: EARGASM GOD Invites" on Fri, 25 Sept 2026.
+Smolna is a music venue in Warsaw with 28 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Smolna: EARGASM GOD Invites" on Fri, 25 Sept 2026.
 
-Smolna is a music venue in Warsaw listed on soundcheck. 14 upcoming gigs, with line-ups including Alinka, Ane, Anetha and Arude and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
+Smolna is a music venue in Warsaw listed on soundcheck. 28 upcoming gigs, with line-ups including Alinka, Âme, Ane and Anetha and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Smolna is a music venue in Warsaw listed on soundcheck. 14 upcoming gigs, with l
 | Thu, 8 Oct 2026 | SMLИ Thursday x Academy Showcase: Mordeaux, Violent, Theviacya, Vozny | Mordeaux, Theviacya, Violent |
 | Fri, 9 Oct 2026 | Smolna x The X Festival: Kollektiv Turmstrasse, Hraach | CJ Art, Essex, Hraach, Kollektiv Turmstrasse |
 | Sat, 10 Oct 2026 | Smolna: Charlie Sparks, shot by stanley | Charlie Sparks, Pysh, shot by stanley, vitcat (3) |
-| Fri, 16 Oct 2026 | Smolna: Worakls, Will Spleen, Just2 | CZART, Just2, Worakls, deafcandance |
+| Thu, 15 Oct 2026 | Smolna Tribe: Phao Sanato |  |
 
 ## Address
 

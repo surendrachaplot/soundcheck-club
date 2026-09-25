@@ -1,6 +1,6 @@
 # RKP presents ADE Showcase at Veronica Schip
 
-RKP presents ADE Showcase at Veronica Schip on Fri 23 Oct, Amsterdam. 6 acts on the bill: Baliology, DJ Ruby, Emi Galvan and NOIYSE PROJECT and 2 more. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+RKP presents ADE Showcase at Veronica Schip on Fri 23 Oct, Amsterdam. 6 artists on the bill: Baliology, DJ Ruby, Emi Galvan and NOIYSE PROJECT and 2 more. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

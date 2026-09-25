@@ -1,6 +1,6 @@
 # Nido local - Man/Ipulate & Zoubir at Nido Marseille
 
-Nido local - Man/Ipulate & Zoubir at Nido Marseille on Fri 2 Oct, Marseille. 1 act on the bill: Man/Ipulate. Preview the line-up and save it on soundcheck.
+Nido local - Man/Ipulate & Zoubir at Nido Marseille on Fri 2 Oct, Marseille. 1 artist on the bill: Man/Ipulate. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

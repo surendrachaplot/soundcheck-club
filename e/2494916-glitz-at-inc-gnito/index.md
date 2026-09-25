@@ -1,6 +1,6 @@
 # Glitz at Incógnito
 
-Glitz at Incógnito on Fri 2 Oct, Lisbon. 1 act on the bill: Glitz. EBM and Italo Disco. Preview the line-up and save it on soundcheck.
+Glitz at Incógnito on Fri 2 Oct, Lisbon. 1 artist on the bill: Glitz. EBM and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

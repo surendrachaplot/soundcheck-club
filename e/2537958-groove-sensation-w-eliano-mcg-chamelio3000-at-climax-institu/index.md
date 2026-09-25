@@ -1,6 +1,6 @@
 # GROOVE SENSATION w/Eliano, MCG, Chamelio3000 at Climax-Institutes
 
-GROOVE SENSATION w/Eliano, MCG, Chamelio3000 at Climax-Institutes on Sat 26 Sept, Stuttgart. 2 acts on the bill: Chamelio 3000 and Michael Clash Gottschalk. Techno and House. Preview the line-up and save it on soundcheck.
+GROOVE SENSATION w/Eliano, MCG, Chamelio3000 at Climax-Institutes on Sat 26 Sept, Stuttgart. 2 artists on the bill: Chamelio 3000 and Michael Clash Gottschalk. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

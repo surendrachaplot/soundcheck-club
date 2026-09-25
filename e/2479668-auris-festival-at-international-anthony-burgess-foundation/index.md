@@ -1,6 +1,6 @@
 # Auris Festival at International Anthony Burgess Foundation
 
-Auris Festival at International Anthony Burgess Foundation on Fri 9 Oct, Manchester. 6 acts on the bill: Hayley Suviste, Jose Macabra, Lola de la Mata and Mick Harris and 2 more. Experimental. Preview the line-up and save it on soundcheck.
+Auris Festival at International Anthony Burgess Foundation on Fri 9 Oct, Manchester. 6 artists on the bill: Hayley Suviste, Jose Macabra, Lola de la Mata and Mick Harris and 2 more. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

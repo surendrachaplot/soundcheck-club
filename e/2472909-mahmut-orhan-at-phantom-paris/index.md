@@ -1,6 +1,6 @@
 # Mahmut Orhan at Phantom, Paris
 
-Mahmut Orhan at Phantom, Paris on Sat 24 Oct, Paris. 1 act on the bill: Mahmut Orhan. Preview the line-up and save it on soundcheck.
+Mahmut Orhan at Phantom, Paris on Sat 24 Oct, Paris. 1 artist on the bill: Mahmut Orhan. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

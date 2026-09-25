@@ -1,6 +1,6 @@
 # Superior Ingredients Halloween 10/31 - The Room at Superior Ingredients
 
-Superior Ingredients Halloween 10/31 - The Room on Sat 31 Oct, Newyorkcity. Techno and EBM. Preview the line-up and save it on soundcheck.
+Superior Ingredients Halloween 10/31 - The Room on Sat 31 Oct, New York City. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

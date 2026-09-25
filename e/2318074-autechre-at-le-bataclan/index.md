@@ -1,6 +1,6 @@
 # Autechre at Le Bataclan
 
-Autechre at Le Bataclan on Wed 14 Oct, Paris. 1 act on the bill: Autechre. IDM and Electronica. Preview the line-up and save it on soundcheck.
+Autechre at Le Bataclan on Wed 14 Oct, Paris. 1 artist on the bill: Autechre. IDM and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

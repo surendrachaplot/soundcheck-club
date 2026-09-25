@@ -2,7 +2,7 @@
 
 Lufer is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bsmnt, Boston on Thu, 24 Sept 2026.
 
-Lufer is a techno and tech house artist based in Colombia, tracked on soundcheck, with 30 sets logged across Boston, Melbourne and Newyorkcity. Often billed alongside The Consciousness, Egg In The Morning and ANDRÉS GARCIL. Next up: Bsmnt, Boston on Thu 24 Sept.
+Lufer is a techno and tech house artist based in Colombia, tracked on soundcheck, with 30 sets logged across Boston, Melbourne and New York City. Often billed alongside The Consciousness, Egg In The Morning and ANDRÉS GARCIL. Next up: Bsmnt, Boston on Thu 24 Sept.
 
 ## Upcoming shows
 

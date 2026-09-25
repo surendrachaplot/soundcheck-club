@@ -1,8 +1,8 @@
 # San Holo
 
-San Holo is a Bass and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Radius, Chicago on Fri, 25 Sept 2026.
+San Holo is a Bass and Experimental artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Radius, Chicago on Fri, 25 Sept 2026.
 
-San Holo is a bass and experimental artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Austin, Boston and Chicago and 12 more. Often billed alongside 6EJOU, 999999999 and ALCATRAZ. Next up: Radius, Chicago on Fri 25 Sept.
+San Holo is a bass and experimental artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Austin, Boston and Chicago and 13 more. Often billed alongside Boys Noize, I Hate Models and KlangKuenstler. Next up: Radius, Chicago on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ San Holo is a bass and experimental artist based in Netherlands, tracked on soun
 | Fri, 9 Oct 2026 | Big Night Live | Boston |
 | Sat, 17 Oct 2026 | Echostage | Washington DC |
 | Wed, 21 Oct 2026 | Melkweg | Amsterdam |
+| Fri, 6 Nov 2026 | Tinker Field | Orlando |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ San Holo is a bass and experimental artist based in Netherlands, tracked on soun
 
 ## Shares bills with
 
-6EJOU, 999999999, ALCATRAZ
+Boys Noize, I Hate Models, KlangKuenstler
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanholo/)*

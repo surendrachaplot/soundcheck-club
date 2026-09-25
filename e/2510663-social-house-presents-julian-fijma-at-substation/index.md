@@ -1,6 +1,6 @@
 # Social House presents: Julian Fijma at Substation
 
-Social House presents: Julian Fijma at Substation on Wed 18 Nov, Seattle. 1 act on the bill: Julian Fijma. House. Preview the line-up and save it on soundcheck.
+Social House presents: Julian Fijma at Substation on Wed 18 Nov, Seattle. 1 artist on the bill: Julian Fijma. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

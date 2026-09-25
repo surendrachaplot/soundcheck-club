@@ -1,6 +1,6 @@
 # Polyamor at OST
 
-Polyamor at OST on Sat 3 Oct, Berlin. 10 acts on the bill: Alas (2), Cleopard2000, Elotrance and HiTMiLØW and 6 more. Preview the line-up and save it on soundcheck.
+Polyamor at OST on Sat 3 Oct, Berlin. 10 artists on the bill: Alas, Cleopard2000, Elotrance and HiTMiLØW and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Day Cart is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jupiter Disco, New York City on Thu, 8 Oct 2026.
 
-Day Cart is a techno and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Newyorkcity. Often billed alongside Wig-Wam, Devoye and IMOGEN. Next up: Jupiter Disco, Newyorkcity on Thu 8 Oct.
+Day Cart is a techno and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across New York City. Often billed alongside Wig-Wam, Devoye and IMOGEN. Next up: Jupiter Disco, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 

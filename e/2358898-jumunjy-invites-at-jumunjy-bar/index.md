@@ -1,6 +1,6 @@
 # Jumunjy Invites at Jumunjy Bar
 
-Jumunjy Invites at Jumunjy Bar on Sat 17 Oct, London. 2 acts on the bill: Benny Page and Deekline. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Jumunjy Invites at Jumunjy Bar on Sat 17 Oct, London. 2 artists on the bill: Benny Page and Deekline. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

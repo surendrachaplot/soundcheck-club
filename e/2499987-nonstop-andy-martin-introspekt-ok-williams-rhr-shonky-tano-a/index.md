@@ -1,6 +1,6 @@
 # Nonstop: Andy Martin, Introspekt, OK Williams, RHR, Shonky, Tano at Nowadays
 
-Nonstop: Andy Martin, Introspekt, OK Williams, RHR, Shonky, Tano at Nowadays on Sat 26 Sept, Newyorkcity. 6 acts on the bill: Andy Martin, Introspekt, OK Williams and RHR and 2 more. Bass and Dub. Preview the line-up and save it on soundcheck.
+Nonstop: Andy Martin, Introspekt, OK Williams, RHR, Shonky, Tano at Nowadays on Sat 26 Sept, New York City. 6 artists on the bill: Andy Martin, Introspekt, OK Williams and RHR and 2 more. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

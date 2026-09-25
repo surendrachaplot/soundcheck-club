@@ -1,6 +1,6 @@
 # NIGHT TALES at TBA - East Van location 
 
-NIGHT TALES at TBA - East Van location  on Sat 3 Oct, Vancouver. 3 acts on the bill: Fisher Bryce, Sharlese and ZIGGY ZAYA. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+NIGHT TALES at TBA - East Van location  on Sat 3 Oct, Vancouver. 3 artists on the bill: Fisher Bryce, Sharlese and ZIGGY ZAYA. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

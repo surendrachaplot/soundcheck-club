@@ -1,6 +1,6 @@
 # SCENARIOS - Emanuel Satie, MAGA, Sean Doron at Lula Club
 
-SCENARIOS - Emanuel Satie, MAGA, Sean Doron at Lula Club on Fri 25 Sept, Madrid. 3 acts on the bill: Emanuel Satie, MAGA and Sean Doron. Preview the line-up and save it on soundcheck.
+SCENARIOS - Emanuel Satie, MAGA, Sean Doron at Lula Club on Fri 25 Sept, Madrid. 3 artists on the bill: Emanuel Satie, MAGA and Sean Doron. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

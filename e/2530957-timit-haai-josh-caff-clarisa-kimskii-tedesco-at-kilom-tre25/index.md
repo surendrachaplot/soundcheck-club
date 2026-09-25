@@ -1,6 +1,6 @@
 # TIMIT: HAAi, Josh Caffé, Clarisa Kimskii, TEDESCO at Kilomètre25
 
-TIMIT: HAAi, Josh Caffé, Clarisa Kimskii, TEDESCO at Kilomètre25 on Sat 26 Sept, Paris. 4 acts on the bill: Clarisa Kimskii, HAAi, Josh Caffé and TEDESCO. House and Electro. Preview the line-up and save it on soundcheck.
+TIMIT: HAAi, Josh Caffé, Clarisa Kimskii, TEDESCO at Kilomètre25 on Sat 26 Sept, Paris. 4 artists on the bill: Clarisa Kimskii, HAAi, Josh Caffé and TEDESCO. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

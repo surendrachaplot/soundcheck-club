@@ -1,6 +1,6 @@
 # T4TB2B // HALLOWEEN at The Oh Yeah Centre
 
-T4TB2B // HALLOWEEN at The Oh Yeah Centre on Sat 31 Oct, Belfast. 2 acts on the bill: Katiee.eem and Popper Cherry. Preview the line-up and save it on soundcheck.
+T4TB2B // HALLOWEEN at The Oh Yeah Centre on Sat 31 Oct, Belfast. 2 artists on the bill: Katiee.eem and Popper Cherry. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

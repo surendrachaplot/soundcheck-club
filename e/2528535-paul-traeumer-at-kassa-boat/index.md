@@ -1,6 +1,6 @@
 # Paul Traeumer at Kassa Boat
 
-Paul Traeumer at Kassa Boat on Thu 24 Sept, Budapest. 2 acts on the bill: Paul Traeumer and vekt. Preview the line-up and save it on soundcheck.
+Paul Traeumer at Kassa Boat on Thu 24 Sept, Budapest. 2 artists on the bill: Paul Traeumer and vekt. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

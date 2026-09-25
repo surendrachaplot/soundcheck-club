@@ -1,6 +1,6 @@
 # Tall People Night in Barcelona at TBA - Sky Sinner Barcelona
 
-Tall People Night in Barcelona at TBA - Sky Sinner Barcelona on Fri 2 Oct, Barcelona. 2 acts on the bill: DJ Howard and Founder. Pop and Reggaeton. Preview the line-up and save it on soundcheck.
+Tall People Night in Barcelona at TBA - Sky Sinner Barcelona on Fri 2 Oct, Barcelona. 2 artists on the bill: DJ Howard and Founder. Pop and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

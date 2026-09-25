@@ -1,6 +1,6 @@
 # LOVEDANCIN' Vienna at Funkhaus
 
-LOVEDANCIN' Vienna at Funkhaus on Fri 18 Dec, Vienna. 2 acts on the bill: Gerd Janson and Tom Kutsche. House and Disco. Preview the line-up and save it on soundcheck.
+LOVEDANCIN' Vienna at Funkhaus on Fri 18 Dec, Vienna. 2 artists on the bill: Gerd Janson and Tom Kutsche. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

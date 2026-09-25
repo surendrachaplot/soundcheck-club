@@ -1,6 +1,6 @@
 # COEO + Jesús González + Luis Demodé at Sala Villanos
 
-COEO + Jesús González + Luis Demodé at Sala Villanos on Sat 14 Nov, Madrid. 1 act on the bill: COEO. Electronica. Preview the line-up and save it on soundcheck.
+COEO + Jesús González + Luis Demodé at Sala Villanos on Sat 14 Nov, Madrid. 1 artist on the bill: COEO. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

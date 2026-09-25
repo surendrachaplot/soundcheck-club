@@ -1,6 +1,6 @@
 # BerettaMusic & Roar Brewing - Pop-up Market at TBA - Roar Brewing
 
-BerettaMusic & Roar Brewing - Pop-up Market at TBA - Roar Brewing on Sat 26 Sept, Detroit. 3 acts on the bill: Dj Ryte Nou, Marcus NF Harris and Ryan Sadorus. House and Deep House. Preview the line-up and save it on soundcheck.
+BerettaMusic & Roar Brewing - Pop-up Market at TBA - Roar Brewing on Sat 26 Sept, Detroit. 3 artists on the bill: Dj Ryte Nou, Marcus NF Harris and Ryan Sadorus. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

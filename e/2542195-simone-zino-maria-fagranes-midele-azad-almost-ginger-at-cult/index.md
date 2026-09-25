@@ -1,6 +1,6 @@
 # Simone Zino / Maria Fagranes / Midele / AZADÎ / Almost Ginger at Culture Box
 
-Simone Zino / Maria Fagranes / Midele / AZADÎ / Almost Ginger at Culture Box on Fri 20 Nov, Copenhagen. 3 acts on the bill: AZADÎ, Midele and Simone Zino. Techno and House. Preview the line-up and save it on soundcheck.
+Simone Zino / Maria Fagranes / Midele / AZADÎ / Almost Ginger at Culture Box on Fri 20 Nov, Copenhagen. 3 artists on the bill: AZADÎ, Midele and Simone Zino. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Aguma + Safia Nihil + IRL + Element Kuuda - DOUBLE RELEASE PARTY at White Wall Studio
 
-Aguma + Safia Nihil + IRL + Element Kuuda - DOUBLE RELEASE PARTY at White Wall Studio on Sat 24 Oct, Montreal. 2 acts on the bill: Aguma and Safia Nihil. Ambient and Dub. Preview the line-up and save it on soundcheck.
+Aguma + Safia Nihil + IRL + Element Kuuda - DOUBLE RELEASE PARTY at White Wall Studio on Sat 24 Oct, Montreal. 2 artists on the bill: Aguma and Safia Nihil. Ambient and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

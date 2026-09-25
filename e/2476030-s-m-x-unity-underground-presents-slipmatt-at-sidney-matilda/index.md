@@ -1,6 +1,6 @@
 # S&M X Unity Underground presents: Slipmatt at Sidney & Matilda
 
-S&M X Unity Underground presents: Slipmatt at Sidney & Matilda on Fri 16 Oct, Sheffield. 3 acts on the bill: Dead Man's Chest, King Chuga and Slipmatt. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
+S&M X Unity Underground presents: Slipmatt at Sidney & Matilda on Fri 16 Oct, Sheffield. 3 artists on the bill: Dead Man's Chest, King Chuga and Slipmatt. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

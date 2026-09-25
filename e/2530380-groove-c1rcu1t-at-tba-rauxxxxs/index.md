@@ -1,6 +1,6 @@
 # GROOVE C1RCU1T at TBA - Rauxxxxs
 
-GROOVE C1RCU1T at TBA - Rauxxxxs on Sat 14 Nov, Berlin. 3 acts on the bill: G4F4RØU, Re. (1) and Zelyna je Belle. Techno. Preview the line-up and save it on soundcheck.
+GROOVE C1RCU1T at TBA - Rauxxxxs on Sat 14 Nov, Berlin. 3 artists on the bill: G4F4RØU, Re. and Zelyna je Belle. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

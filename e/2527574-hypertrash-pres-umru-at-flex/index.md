@@ -1,6 +1,6 @@
 # ★ HYPERTRASH pres. umru ★ at Flex
 
-★ HYPERTRASH pres. umru ★ at Flex on Sat 3 Oct, Vienna. 7 acts on the bill: DJ DIAMOND (2), ephemer (4), esti.d and hapuk and 3 more. Techno and Pop. Preview the line-up and save it on soundcheck.
+★ HYPERTRASH pres. umru ★ at Flex on Sat 3 Oct, Vienna. 7 artists on the bill: DJ DIAMOND, ephemer, esti.d and hapuk and 3 more. Techno and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

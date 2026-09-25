@@ -2,7 +2,7 @@
 
 Lvca is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cascina nascosta, Milan on Sun, 4 Oct 2026.
 
-Lvca is a house and electronica artist tracked on soundcheck, with 55 sets logged across Barcelona, London, Mexicocity and Milan and 5 more. Often billed alongside Lovin Duo, Erika Gueli and Sunrush. Next up: Cascina nascosta, Milan on Sun 4 Oct.
+Lvca is a house and electronica artist tracked on soundcheck, with 55 sets logged across Barcelona, London, Mexico City and Milan and 5 more. Often billed alongside Lovin Duo, Erika Gueli and Sunrush. Next up: Cascina nascosta, Milan on Sun 4 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Highlife pres. Esa Williams (SA/UK) at Artlab
 
-Highlife pres. Esa Williams (SA/UK) at Artlab on Sat 3 Oct, Buenosaires. 2 acts on the bill: Esa and Harari. House and Disco. Preview the line-up and save it on soundcheck.
+Highlife pres. Esa Williams (SA/UK) at Artlab on Sat 3 Oct, Buenos Aires. 2 artists on the bill: Esa and Harari. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

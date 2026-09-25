@@ -1,6 +1,6 @@
 # DAHLIA STEREO with Jamz Supernova (LP launch) & Strategy at Dahlia Stereo
 
-DAHLIA STEREO with Jamz Supernova (LP launch) & Strategy at Dahlia Stereo on Thu 24 Sept, Manchester. 1 act on the bill: Jamz Supernova. House and Latin Bass. Preview the line-up and save it on soundcheck.
+DAHLIA STEREO with Jamz Supernova (LP launch) & Strategy at Dahlia Stereo on Thu 24 Sept, Manchester. 1 artist on the bill: Jamz Supernova. House and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

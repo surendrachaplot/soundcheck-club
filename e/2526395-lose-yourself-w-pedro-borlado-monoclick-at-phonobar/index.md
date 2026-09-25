@@ -1,6 +1,6 @@
 # Lose Yourself w/Pedro Borlado & Monoclick at Phonobar
 
-Lose Yourself w/Pedro Borlado & Monoclick at Phonobar on Sat 26 Sept, Sanfrancisco. 2 acts on the bill: Monoclick and Pedro Borlado. House and Deep House. Preview the line-up and save it on soundcheck.
+Lose Yourself w/Pedro Borlado & Monoclick at Phonobar on Sat 26 Sept, San Francisco/Oakland. 2 artists on the bill: Monoclick and Pedro Borlado. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Audio Halloween with Darude at Audio SF
 
-Audio Halloween with Darude at Audio SF on Fri 30 Oct, Sanfrancisco. Preview the line-up and save it on soundcheck.
+Audio Halloween with Darude at Audio SF on Fri 30 Oct, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

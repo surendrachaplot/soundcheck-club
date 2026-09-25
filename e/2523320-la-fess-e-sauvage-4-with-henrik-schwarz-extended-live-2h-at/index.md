@@ -1,6 +1,6 @@
 # ¡La fessée Sauvage #4 with Henrik Schwarz (Extended Live 2h) at Cabaret Sauvage
 
-¡La fessée Sauvage #4 with Henrik Schwarz (Extended Live 2h) at Cabaret Sauvage on Fri 9 Oct, Paris. 1 act on the bill: Henrik Schwarz. House and Deep House. Preview the line-up and save it on soundcheck.
+¡La fessée Sauvage #4 with Henrik Schwarz (Extended Live 2h) at Cabaret Sauvage on Fri 9 Oct, Paris. 1 artist on the bill: Henrik Schwarz. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

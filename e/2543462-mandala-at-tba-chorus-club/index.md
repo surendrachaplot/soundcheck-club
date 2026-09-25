@@ -1,6 +1,6 @@
 # MANDALA at TBA - Chorus Club
 
-MANDALA at TBA - Chorus Club on Sat 26 Sept, Rome. 2 acts on the bill: Mimmo Errico and Viktor Martini. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+MANDALA at TBA - Chorus Club on Sat 26 Sept, Rome. 2 artists on the bill: Mimmo Errico and Viktor Martini. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

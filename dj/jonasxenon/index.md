@@ -2,7 +2,7 @@
 
 Jonas Xenon is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
 
-Jonas Xenon is a techno and trance artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Dublin, Edinburgh and Newyorkcity and 6 more. Often billed alongside Mython, E2NMN and Perc. Next up: Tresor / Globus, Berlin on Fri 9 Oct.
+Jonas Xenon is a techno and trance artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Dublin, Edinburgh and New York City and 6 more. Often billed alongside Mython, E2NMN and Perc. Next up: Tresor / Globus, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 

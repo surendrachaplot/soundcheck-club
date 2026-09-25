@@ -1,6 +1,6 @@
 # Space Sunset Rituals feat. John Fritz at Space Eat & Dance
 
-Space Sunset Rituals feat. John Fritz at Space Eat & Dance on Sat 26 Sept, Ibiza. 1 act on the bill: John Fritz. House. Preview the line-up and save it on soundcheck.
+Space Sunset Rituals feat. John Fritz at Space Eat & Dance on Sat 26 Sept, Ibiza. 1 artist on the bill: John Fritz. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

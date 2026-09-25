@@ -1,6 +1,6 @@
 # Rossi at 1015 Folsom
 
-Rossi at 1015 Folsom on Thu 29 Oct, Sanfrancisco. 1 act on the bill: Rossi. House. Preview the line-up and save it on soundcheck.
+Rossi at 1015 Folsom on Thu 29 Oct, San Francisco/Oakland. 1 artist on the bill: Rossi. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

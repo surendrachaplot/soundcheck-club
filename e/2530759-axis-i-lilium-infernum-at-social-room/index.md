@@ -1,6 +1,6 @@
 # AXIS I LILIUM INFERNUM at Social Room
 
-AXIS I LILIUM INFERNUM at Social Room on Fri 9 Oct, Hongkong. 1 act on the bill: SARS. Broken Beat and Industrial. Preview the line-up and save it on soundcheck.
+AXIS I LILIUM INFERNUM at Social Room on Fri 9 Oct, Hong Kong. 1 artist on the bill: SARS. Broken Beat and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

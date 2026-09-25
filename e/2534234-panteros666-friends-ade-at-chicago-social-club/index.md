@@ -1,6 +1,6 @@
 # Panteros666 & Friends ADE at Chicago Social Club
 
-Panteros666 & Friends ADE at Chicago Social Club on Fri 23 Oct, Amsterdam. 3 acts on the bill: AMMARA, LB aka LABAT and Panteros666. Trance. Preview the line-up and save it on soundcheck.
+Panteros666 & Friends ADE at Chicago Social Club on Fri 23 Oct, Amsterdam. 3 artists on the bill: AMMARA, LB aka LABAT and Panteros666. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

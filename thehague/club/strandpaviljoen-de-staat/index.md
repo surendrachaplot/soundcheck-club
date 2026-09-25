@@ -2,7 +2,7 @@
 
 Strandpaviljoen De Staat is a music venue in The Hague with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "TOTAL ECLIPSE" on Sat, 26 Sept 2026.
 
-Strandpaviljoen De Staat is a music venue in Thehague listed on soundcheck. 1 upcoming gig, with line-ups including Conrad Soundsystem, Nuno dos Santos and Remy Unger. Browse upcoming dates, start times and who's playing. Strand Zuid 4, 2583 ZZ, The Hague, Netherlands.
+Strandpaviljoen De Staat is a music venue in The Hague listed on soundcheck. 1 upcoming gig, with line-ups including Conrad Soundsystem, Nuno dos Santos and Remy Unger. Browse upcoming dates, start times and who's playing. Strand Zuid 4, 2583 ZZ, The Hague, Netherlands.
 
 ## What's on
 

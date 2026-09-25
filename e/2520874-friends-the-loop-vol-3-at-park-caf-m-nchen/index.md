@@ -1,6 +1,6 @@
 # friends. THE LOOP Vol. 3 at Park Café München
 
-friends. THE LOOP Vol. 3 at Park Café München on Thu 24 Sept, Munich. 12 acts on the bill: Alice DiMar, Amber (NL), Artur Bredo and diskoheinz and 8 more. House and Tech House. Preview the line-up and save it on soundcheck.
+friends. THE LOOP Vol. 3 at Park Café München on Thu 24 Sept, Munich. 12 artists on the bill: Alice DiMar, Amber (NL), Artur Bredo and diskoheinz and 8 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

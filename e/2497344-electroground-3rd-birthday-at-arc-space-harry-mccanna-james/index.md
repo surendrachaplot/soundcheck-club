@@ -1,6 +1,6 @@
 # Electroground 3rd birthday at Arc Space - Harry McCanna, James Tristan, Mush Love & rPal at Arc Space
 
-Electroground 3rd birthday at Arc Space - Harry McCanna, James Tristan, Mush Love & rPal on Sat 26 Sept, Nottingham. 4 acts on the bill: Harry McCanna, James Tristan, Mush Love (UK) and rPal. Techno and House. Preview the line-up and save it on soundcheck.
+Electroground 3rd birthday at Arc Space - Harry McCanna, James Tristan, Mush Love & rPal on Sat 26 Sept, Nottingham. 4 artists on the bill: Harry McCanna, James Tristan, Mush Love (UK) and rPal. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

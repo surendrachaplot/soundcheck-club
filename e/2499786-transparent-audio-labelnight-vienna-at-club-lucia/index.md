@@ -1,6 +1,6 @@
 # Transparent Audio Labelnight Vienna at Club Lucia
 
-Transparent Audio Labelnight Vienna at Club Lucia on Fri 25 Sept, Vienna. 2 acts on the bill: Geostatic and Spektiv. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Transparent Audio Labelnight Vienna at Club Lucia on Fri 25 Sept, Vienna. 2 artists on the bill: Geostatic and Spektiv. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

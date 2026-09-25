@@ -1,6 +1,6 @@
 # Alarico x SMUT x ALL NIGHT LONG at SMUT Athens
 
-Alarico x SMUT x ALL NIGHT LONG at SMUT Athens on Sat 19 Dec, Athens. 1 act on the bill: Alarico. Techno. Preview the line-up and save it on soundcheck.
+Alarico x SMUT x ALL NIGHT LONG at SMUT Athens on Sat 19 Dec, Athens. 1 artist on the bill: Alarico. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

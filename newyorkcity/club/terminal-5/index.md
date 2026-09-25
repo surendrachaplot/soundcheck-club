@@ -2,7 +2,7 @@
 
 Terminal 5 is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Kruder & Dorfmeister" on Thu, 1 Oct 2026.
 
-Terminal 5 is a music venue in Newyorkcity listed on soundcheck. 3 upcoming gigs, with line-ups including Kruder & Dorfmeister, nimino and Overmono. Browse upcoming dates, start times and who's playing. 610 West 56th Street; New York, NY 10019; United States.
+Terminal 5 is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including Kruder & Dorfmeister, nimino and Overmono. Browse upcoming dates, start times and who's playing. 610 West 56th Street; New York, NY 10019; United States.
 
 ## What's on
 

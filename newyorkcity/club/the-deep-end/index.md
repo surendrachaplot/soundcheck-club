@@ -2,7 +2,7 @@
 
 The Deep End is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sector of Groove presents: CONVERGENCE" on Fri, 25 Sept 2026.
 
-The Deep End is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including S7IK, a.gar, ELIVVATE and MiGS718 and 2 more. Browse upcoming dates, start times and who's playing. 1080 Wyckoff Ave, Ridgewood, NY 11385, USA.
+The Deep End is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including S7IK, a.gar, ELIVVATE and MiGS718 and 2 more. Browse upcoming dates, start times and who's playing. 1080 Wyckoff Ave, Ridgewood, NY 11385, USA.
 
 ## What's on
 

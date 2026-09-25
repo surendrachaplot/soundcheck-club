@@ -1,6 +1,6 @@
 # Roll As One: YOZÉ / avoN / UBER KNAST / Sóltmänn / Ziggy Stardubb / Aerocell B2B HIGHL4ND3R at Culture Box
 
-Roll As One: YOZÉ / avoN / UBER KNAST / Sóltmänn / Ziggy Stardubb / Aerocell B2B HIGHL4ND3R at Culture Box on Sat 10 Oct, Copenhagen. 5 acts on the bill: Aerocell, avoN, UBER KNAST and YOZÉ and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Roll As One: YOZÉ / avoN / UBER KNAST / Sóltmänn / Ziggy Stardubb / Aerocell B2B HIGHL4ND3R at Culture Box on Sat 10 Oct, Copenhagen. 5 artists on the bill: Aerocell, avoN, UBER KNAST and YOZÉ and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

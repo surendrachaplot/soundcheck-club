@@ -1,6 +1,6 @@
 # Festival Ano Q 2026 at Galeria Zé Dos Bois
 
-Festival Ano Q 2026 at Galeria Zé Dos Bois on Fri 25 Sept, Lisbon. 3 acts on the bill: Nazar, Phoebe (1) and Tendency. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Festival Ano Q 2026 at Galeria Zé Dos Bois on Fri 25 Sept, Lisbon. 3 artists on the bill: Nazar, Phoebe and Tendency. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

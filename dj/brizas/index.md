@@ -1,14 +1,15 @@
 # Brizas
 
-Brizas is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 24 Sept 2026.
+Brizas is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 24 Sept 2026.
 
-Brizas is a house and deep house artist based in Guatemala, tracked on soundcheck, with 59 sets logged across Barcelona and Berlin. Often billed alongside MAF, Derovio and Lupe Republic. Next up: 303 Audiophile Bar, Barcelona on Thu 24 Sept.
+Brizas is a house and deep house artist based in Guatemala, tracked on soundcheck, with 60 sets logged across Barcelona and Berlin. Often billed alongside Derovio, MAF and Adrian Grösser. Next up: 303 Audiophile Bar, Barcelona on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | 303 Audiophile Bar | Barcelona |
+| Sun, 11 Oct 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Sun, 8 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
@@ -24,6 +25,6 @@ Brizas is a house and deep house artist based in Guatemala, tracked on soundchec
 
 ## Shares bills with
 
-MAF, Derovio, Lupe Republic
+Derovio, MAF, Adrian Grösser
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brizas/)*

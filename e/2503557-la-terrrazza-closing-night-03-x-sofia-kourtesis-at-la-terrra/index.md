@@ -1,6 +1,6 @@
 # La Terrrazza Closing Night 03 x Sofia Kourtesis at La Terrrazza
 
-La Terrrazza Closing Night 03 x Sofia Kourtesis on Sun 11 Oct, Barcelona. 1 act on the bill: Sofia Kourtesis. Club and Electronica. Preview the line-up and save it on soundcheck.
+La Terrrazza Closing Night 03 x Sofia Kourtesis on Sun 11 Oct, Barcelona. 1 artist on the bill: Sofia Kourtesis. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

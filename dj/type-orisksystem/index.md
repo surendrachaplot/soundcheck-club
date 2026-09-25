@@ -2,7 +2,7 @@
 
 TYPE-O RISK SYSTEM is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Asakusa Stella, Tokyo on Sat, 14 Nov 2026.
 
-TYPE-O RISK SYSTEM is a techno and industrial artist based in Japan, tracked on soundcheck, with 47 sets logged across Osaka and Tokyo. Often billed alongside EVE (1), KAMIKAZE and YPF. Next up: Asakusa Stella, Tokyo on Sat 14 Nov.
+TYPE-O RISK SYSTEM is a techno and industrial artist based in Japan, tracked on soundcheck, with 47 sets logged across Osaka and Tokyo. Often billed alongside EVE, KAMIKAZE and YPF. Next up: Asakusa Stella, Tokyo on Sat 14 Nov.
 
 ## Upcoming shows
 

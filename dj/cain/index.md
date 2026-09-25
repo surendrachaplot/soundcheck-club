@@ -2,7 +2,7 @@
 
 CAIN is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at export, Rotterdam on Sat, 7 Nov 2026.
 
-CAIN is a techno and drum & bass artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Berlin, Buenosaires, Glasgow and London and 1 more. Often billed alongside Upzet, Honschu Lee and Anton Quasi. Next up: export, Rotterdam on Sat 7 Nov.
+CAIN is a techno and drum & bass artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Berlin, Buenos Aires, Glasgow and London and 1 more. Often billed alongside Upzet, Honschu Lee and Anton Quasi. Next up: export, Rotterdam on Sat 7 Nov.
 
 ## Upcoming shows
 

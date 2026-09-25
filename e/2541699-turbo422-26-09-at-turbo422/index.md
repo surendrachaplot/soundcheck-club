@@ -1,6 +1,6 @@
 # Turbo422 > 26.09 at Turbo422
 
-Turbo422 > 26.09 on Sat 26 Sept, Melbourne. 1 act on the bill: Pvrtal. Techno and House. Preview the line-up and save it on soundcheck.
+Turbo422 > 26.09 on Sat 26 Sept, Melbourne. 1 artist on the bill: Pvrtal. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

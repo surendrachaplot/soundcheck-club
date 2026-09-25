@@ -1,6 +1,6 @@
 # C12 Nite with DJ Fuckoff & Helena Lauwaert JEKKAMAÏ at C12
 
-C12 Nite with DJ Fuckoff & Helena Lauwaert JEKKAMAÏ on Sat 26 Sept, Brussels. 3 acts on the bill: DJ Fuckoff, Helena Lauwaert and JEKKAMAÏ. House and Garage. Preview the line-up and save it on soundcheck.
+C12 Nite with DJ Fuckoff & Helena Lauwaert JEKKAMAÏ on Sat 26 Sept, Brussels. 3 artists on the bill: DJ Fuckoff, Helena Lauwaert and JEKKAMAÏ. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

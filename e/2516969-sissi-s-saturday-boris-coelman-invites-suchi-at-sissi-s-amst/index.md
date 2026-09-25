@@ -1,6 +1,6 @@
 # Sissi's Saturday: Boris Coelman invites SUCHI at SISSI'S Amsterdam
 
-Sissi's Saturday: Boris Coelman invites SUCHI at SISSI'S Amsterdam on Sat 3 Oct, Amsterdam. 2 acts on the bill: Boris Coelman and SUCHI. Progressive House and House. Preview the line-up and save it on soundcheck.
+Sissi's Saturday: Boris Coelman invites SUCHI at SISSI'S Amsterdam on Sat 3 Oct, Amsterdam. 2 artists on the bill: Boris Coelman and SUCHI. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

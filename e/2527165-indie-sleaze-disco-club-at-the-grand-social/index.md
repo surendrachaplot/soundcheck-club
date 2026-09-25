@@ -1,6 +1,6 @@
 # Indie Sleaze Disco Club at The Grand Social
 
-Indie Sleaze Disco Club at The Grand Social on Sat 26 Sept, Dublin. 1 act on the bill: Nialler9. Electro and Pop. Preview the line-up and save it on soundcheck.
+Indie Sleaze Disco Club at The Grand Social on Sat 26 Sept, Dublin. 1 artist on the bill: Nialler9. Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

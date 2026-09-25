@@ -1,6 +1,6 @@
 # Häppeninki: Project Blacksite 2.0 at TBA - Fame Night Club Tampere
 
-Häppeninki: Project Blacksite 2.0 at TBA - Fame Night Club Tampere on Sat 17 Oct, Helsinki. 3 acts on the bill: C4KE, DJ Ricky and KUSS. Techno. Preview the line-up and save it on soundcheck.
+Häppeninki: Project Blacksite 2.0 at TBA - Fame Night Club Tampere on Sat 17 Oct, Helsinki. 3 artists on the bill: C4KE, DJ Ricky and KUSS. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Fuse presents: Polar Inertia (live) & Luigi Tozzi (live) at Fuse
 
-Fuse presents: Polar Inertia (live) & Luigi Tozzi (live) on Sat 26 Sept, Brussels. 5 acts on the bill: Luigi Tozzi, Polar Inertia, T.A.M.22 and Yogg and 1 more. Preview the line-up and save it on soundcheck.
+Fuse presents: Polar Inertia (live) & Luigi Tozzi (live) on Sat 26 Sept, Brussels. 5 artists on the bill: Luigi Tozzi, Polar Inertia, T.A.M.22 and Yogg and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

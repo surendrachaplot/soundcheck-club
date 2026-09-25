@@ -1,6 +1,6 @@
 # Toshiyuki Goto & KON at DJ Bar Bridge
 
-Toshiyuki Goto & KON at DJ Bar Bridge on Sat 3 Oct, Tokyo. 1 act on the bill: Toshiyuki Goto. House. Preview the line-up and save it on soundcheck.
+Toshiyuki Goto & KON at DJ Bar Bridge on Sat 3 Oct, Tokyo. 1 artist on the bill: Toshiyuki Goto. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

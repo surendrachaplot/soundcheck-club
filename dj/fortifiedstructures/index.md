@@ -2,7 +2,7 @@
 
 FortifiedStructures is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at XTC Bushwick, New York City on Sat, 26 Sept 2026.
 
-FortifiedStructures is a techno and hardcore artist based in Canada, tracked on soundcheck, with 15 sets logged across Boston, Losangeles, Montreal and Newyorkcity and 2 more. Often billed alongside Dazegxd, Dev/Null and HARDKORE. Next up: XTC Bushwick, Newyorkcity on Sat 26 Sept.
+FortifiedStructures is a techno and hardcore artist based in Canada, tracked on soundcheck, with 15 sets logged across Boston, Los Angeles, Montreal and New York City and 2 more. Often billed alongside Dazegxd, Dev/Null and HARDKORE. Next up: XTC Bushwick, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

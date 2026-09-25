@@ -1,6 +1,6 @@
 # Halloween: Cassie Raptor + DYEN + A.N.I. & Total with ines isla & Special-k with Laia + Sugar Free at Spook Club
 
-Halloween: Cassie Raptor + DYEN + A.N.I. & Total with ines isla & Special-k with Laia + Sugar Free at Spook Club on Sat 31 Oct, Valencia. 14 acts on the bill: A.N.I., Angelinanyulí, Ariezzz and Cassie Raptor and 10 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Halloween: Cassie Raptor + DYEN + A.N.I. & Total with ines isla & Special-k with Laia + Sugar Free at Spook Club on Sat 31 Oct, Valencia. 14 artists on the bill: A.N.I., Angelinanyulí, Ariezzz and Cassie Raptor and 10 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

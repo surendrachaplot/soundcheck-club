@@ -1,6 +1,6 @@
 # RITUALISMO at Malaga Sin City
 
-RITUALISMO at Malaga Sin City on Fri 25 Sept, Milan. 1 act on the bill: Sinai (1). Electronica. Preview the line-up and save it on soundcheck.
+RITUALISMO at Malaga Sin City on Fri 25 Sept, Milan. 1 artist on the bill: Sinai. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

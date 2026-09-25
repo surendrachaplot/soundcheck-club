@@ -1,6 +1,6 @@
 # Lucid at King Tut's Wah Wah Hut
 
-Lucid at King Tut's Wah Wah Hut on Thu 29 Oct, Glasgow. 3 acts on the bill: Carmen Baía, Danse Atmos and Frankie Elyse. Electronica. Preview the line-up and save it on soundcheck.
+Lucid at King Tut's Wah Wah Hut on Thu 29 Oct, Glasgow. 3 artists on the bill: Carmen Baía, Danse Atmos and Frankie Elyse. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

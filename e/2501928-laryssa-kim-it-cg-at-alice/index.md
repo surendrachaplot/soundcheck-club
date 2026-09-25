@@ -1,6 +1,6 @@
 # Laryssa Kim (IT/CG) at ALICE
 
-Laryssa Kim (IT/CG) at ALICE on Wed 30 Sept, Copenhagen. 1 act on the bill: Laryssa Kim. Preview the line-up and save it on soundcheck.
+Laryssa Kim (IT/CG) at ALICE on Wed 30 Sept, Copenhagen. 1 artist on the bill: Laryssa Kim. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

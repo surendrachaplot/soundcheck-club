@@ -2,7 +2,7 @@
 
 Kane West is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Colour Factory, London on Sat, 31 Oct 2026.
 
-Kane West is a club and pop artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London and Newyorkcity. Often billed alongside Hannah Diamond, THELIMITDOESNOTEXIST and AC (dot robot). Next up: Colour Factory, London on Sat 31 Oct.
+Kane West is a club and pop artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London and New York City. Often billed alongside Hannah Diamond, THELIMITDOESNOTEXIST and AC (dot robot). Next up: Colour Factory, London on Sat 31 Oct.
 
 ## Upcoming shows
 

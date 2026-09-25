@@ -1,6 +1,6 @@
 # Rooléh + NIIKA at Volt Club Milano
 
-Rooléh + NIIKA at Volt Club Milano on Thu 1 Oct, Milan. 2 acts on the bill: NIIKA and Rooléh. House and Tech House. Preview the line-up and save it on soundcheck.
+Rooléh + NIIKA at Volt Club Milano on Thu 1 Oct, Milan. 2 artists on the bill: NIIKA and Rooléh. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

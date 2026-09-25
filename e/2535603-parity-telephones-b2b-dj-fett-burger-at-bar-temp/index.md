@@ -1,6 +1,6 @@
 # Parity - Telephones B2B DJ Fett Burger at Bar Temp.
 
-Parity - Telephones B2B DJ Fett Burger at Bar Temp. on Fri 30 Oct, Bangkok. 3 acts on the bill: Brent Burns, DJ Fett Burger and Telephones. House and Balearic. Preview the line-up and save it on soundcheck.
+Parity - Telephones B2B DJ Fett Burger at Bar Temp. on Fri 30 Oct, Bangkok. 3 artists on the bill: Brent Burns, DJ Fett Burger and Telephones. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

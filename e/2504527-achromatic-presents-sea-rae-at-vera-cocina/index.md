@@ -1,6 +1,6 @@
 # Achromatic presents: SEA RAE at Vera Cocina & بار
 
-Achromatic presents: SEA RAE at Vera Cocina & بار on Fri 25 Sept, Washingtondc. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+Achromatic presents: SEA RAE at Vera Cocina & بار on Fri 25 Sept, Washington DC. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

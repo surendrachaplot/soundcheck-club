@@ -1,6 +1,6 @@
 # INSERT COIN ARCADE RAVE at Dave & Buster's San Diego
 
-INSERT COIN ARCADE RAVE at Dave & Buster's San Diego on Fri 25 Sept, Sandiego. House and Tech House. Preview the line-up and save it on soundcheck.
+INSERT COIN ARCADE RAVE at Dave & Buster's San Diego on Fri 25 Sept, San Diego. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

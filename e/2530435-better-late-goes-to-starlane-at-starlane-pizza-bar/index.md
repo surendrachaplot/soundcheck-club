@@ -1,6 +1,6 @@
 # Better Late Goes to Starlane at Starlane Pizza Bar
 
-Better Late Goes to Starlane at Starlane Pizza Bar on Sat 3 Oct, London. 2 acts on the bill: Malachy and MUNNI. House and Garage. Preview the line-up and save it on soundcheck.
+Better Late Goes to Starlane at Starlane Pizza Bar on Sat 3 Oct, London. 2 artists on the bill: Malachy and MUNNI. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

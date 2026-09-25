@@ -1,6 +1,6 @@
 # Frenzy x shockwerk at RADION
 
-Frenzy x shockwerk at RADION on Sat 26 Sept, Amsterdam. 9 acts on the bill: Beau Didier, Comrade Winston, Daichi Wada and HERMETICA and 5 more. Techno. Preview the line-up and save it on soundcheck.
+Frenzy x shockwerk at RADION on Sat 26 Sept, Amsterdam. 9 artists on the bill: Beau Didier, Comrade Winston, Daichi Wada and HERMETICA and 5 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

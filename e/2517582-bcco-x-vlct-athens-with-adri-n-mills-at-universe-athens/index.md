@@ -1,6 +1,6 @@
 # BCCO x VLCT ATHENS with Adrián Mills at Universe Athens
 
-BCCO x VLCT ATHENS with Adrián Mills at Universe Athens on Sat 17 Oct, Athens. 5 acts on the bill: Adrian Mills, Até., DJ Hyperdrive and ELISAVETA and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+BCCO x VLCT ATHENS with Adrián Mills at Universe Athens on Sat 17 Oct, Athens. 5 artists on the bill: Adrian Mills, Até., DJ Hyperdrive and ELISAVETA and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

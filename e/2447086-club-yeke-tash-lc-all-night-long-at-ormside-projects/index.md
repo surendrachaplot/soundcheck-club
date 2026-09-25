@@ -1,6 +1,6 @@
 # CLUB YEKE: Tash LC – All Night Long at Ormside Projects
 
-CLUB YEKE: Tash LC – All Night Long at Ormside Projects on Fri 16 Oct, London. 1 act on the bill: Tash LC. Preview the line-up and save it on soundcheck.
+CLUB YEKE: Tash LC – All Night Long at Ormside Projects on Fri 16 Oct, London. 1 artist on the bill: Tash LC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Volkoder at Coda
 
-Volkoder at Coda on Sat 21 Nov, Toronto. 1 act on the bill: Volkoder. Preview the line-up and save it on soundcheck.
+Volkoder at Coda on Sat 21 Nov, Toronto. 1 artist on the bill: Volkoder. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

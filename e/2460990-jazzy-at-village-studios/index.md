@@ -1,6 +1,6 @@
 # Jazzy at Village Studios
 
-Jazzy at Village Studios on Sun 11 Oct, Vancouver. 1 act on the bill: Jazzy (IRL). Pop and Electronica. Preview the line-up and save it on soundcheck.
+Jazzy at Village Studios on Sun 11 Oct, Vancouver. 1 artist on the bill: Jazzy (IRL). Pop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

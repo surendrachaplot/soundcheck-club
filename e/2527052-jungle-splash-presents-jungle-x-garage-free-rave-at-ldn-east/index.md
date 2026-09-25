@@ -1,6 +1,6 @@
 # Jungle Splash presents Jungle X Garage Free Rave at LDN East
 
-Jungle Splash presents Jungle X Garage Free Rave at LDN East on Sat 26 Sept, London. 11 acts on the bill: DJ Brockie, DJ Perception, Flame Jade and Garage and 7 more. Garage and Jungle. Preview the line-up and save it on soundcheck.
+Jungle Splash presents Jungle X Garage Free Rave at LDN East on Sat 26 Sept, London. 11 artists on the bill: DJ Brockie, DJ Perception, Flame Jade and Garage and 7 more. Garage and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

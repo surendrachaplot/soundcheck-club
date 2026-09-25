@@ -2,7 +2,7 @@
 
 Ammé is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Colorado Charlie, The Hague on Fri, 25 Sept 2026.
 
-Ammé is a house and tech house artist based in Netherlands, tracked on soundcheck, with 70 sets logged across Amsterdam, Ibiza, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, Michel de Hey and Easttown. Next up: Colorado Charlie, Thehague on Fri 25 Sept.
+Ammé is a house and tech house artist based in Netherlands, tracked on soundcheck, with 70 sets logged across Amsterdam, Ibiza, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, Michel de Hey and Easttown. Next up: Colorado Charlie, The Hague on Fri 25 Sept.
 
 ## Upcoming shows
 

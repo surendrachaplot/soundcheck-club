@@ -2,7 +2,7 @@
 
 Bar Bonobo is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Secret Tempo: theguyfromathens" on Thu, 24 Sept 2026.
 
-Bar Bonobo is a music venue in Newyorkcity listed on soundcheck. 6 upcoming gigs, with line-ups including Blvck Truffle, Carozilla and The Flair. Browse upcoming dates, start times and who's playing. 84 8th Ave, New York, NY 10011.
+Bar Bonobo is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Blvck Truffle, Carozilla and The Flair. Browse upcoming dates, start times and who's playing. 84 8th Ave, New York, NY 10011.
 
 ## What's on
 

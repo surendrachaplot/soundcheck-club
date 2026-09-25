@@ -1,6 +1,6 @@
 # Dr Meaker The Distored Sun Tour at Soup
 
-Dr Meaker The Distored Sun Tour at Soup on Sat 10 Oct, Manchester. 1 act on the bill: Dr Meaker. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Dr Meaker The Distored Sun Tour at Soup on Sat 10 Oct, Manchester. 1 artist on the bill: Dr Meaker. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

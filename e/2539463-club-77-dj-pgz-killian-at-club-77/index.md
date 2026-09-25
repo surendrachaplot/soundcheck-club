@@ -1,6 +1,6 @@
 # Club 77: DJ PGZ, Killian at Club 77
 
-Club 77: DJ PGZ, Killian on Sat 17 Oct, Sydney. 2 acts on the bill: DJ PGZ and Killian. Techno and House. Preview the line-up and save it on soundcheck.
+Club 77: DJ PGZ, Killian on Sat 17 Oct, Sydney. 2 artists on the bill: DJ PGZ and Killian. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

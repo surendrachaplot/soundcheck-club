@@ -1,6 +1,6 @@
 # Gianca meets RIVIERA GANG at Gianca - Murazzi
 
-Gianca meets RIVIERA GANG at Gianca - Murazzi on Sat 3 Oct, Turin. 3 acts on the bill: Andrea Introvigne, Paul Acquaviva and Sunny. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Gianca meets RIVIERA GANG at Gianca - Murazzi on Sat 3 Oct, Turin. 3 artists on the bill: Andrea Introvigne, Paul Acquaviva and Sunny. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

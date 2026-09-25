@@ -1,6 +1,6 @@
 # Dolls Night - Paranormal (Year 2) at Paris Bar
 
-Dolls Night - Paranormal (Year 2) at Paris Bar on Fri 23 Oct, Detroit. 4 acts on the bill: Doula, joycxi, Tangle Garden (3) and Venn Diagramm. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Dolls Night - Paranormal (Year 2) at Paris Bar on Fri 23 Oct, Detroit. 4 artists on the bill: Doula, joycxi, Tangle Garden and Venn Diagramm. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # House Music Icons with The Shapeshifters, Hector Romero, Rissa Garcia at One77 Brooklyn
 
-House Music Icons with The Shapeshifters, Hector Romero, Rissa Garcia at One77 Brooklyn on Sat 26 Sept, Newyorkcity. 3 acts on the bill: Hector Romero, Rissa Garcia and The Shapeshifters. House and Disco. Preview the line-up and save it on soundcheck.
+House Music Icons with The Shapeshifters, Hector Romero, Rissa Garcia at One77 Brooklyn on Sat 26 Sept, New York City. 3 artists on the bill: Hector Romero, Rissa Garcia and The Shapeshifters. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

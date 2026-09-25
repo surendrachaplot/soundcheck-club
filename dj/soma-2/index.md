@@ -2,7 +2,7 @@
 
 Soma (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Triangle, Osaka on Sun, 11 Oct 2026.
 
-Soma (2) is a techno and house artist based in Italy, tracked on soundcheck, with 16 sets logged across Athens, Berlin, Dublin and London and 3 more. Often billed alongside KEi, NOËL and Rikuto Shibazaki. Next up: Triangle, Osaka on Sun 11 Oct.
+Soma is a techno and house artist based in Italy, tracked on soundcheck, with 16 sets logged across Athens, Berlin, Dublin and London and 3 more. Often billed alongside KEi, NOËL and Rikuto Shibazaki. Next up: Triangle, Osaka on Sun 11 Oct.
 
 ## Upcoming shows
 

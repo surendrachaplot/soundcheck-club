@@ -1,6 +1,6 @@
 # Chinese Laundry Invites Headhunters [GUY CONTACT & SOLAR SUITE] + Amotik [DE] at Chinese Laundry
 
-Chinese Laundry Invites Headhunters [GUY CONTACT & SOLAR SUITE] + Amotik [DE] on Sat 26 Sept, Sydney. 2 acts on the bill: Amotik and Headhunters. Techno and House. Preview the line-up and save it on soundcheck.
+Chinese Laundry Invites Headhunters [GUY CONTACT & SOLAR SUITE] + Amotik [DE] on Sat 26 Sept, Sydney. 2 artists on the bill: Amotik and Headhunters. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

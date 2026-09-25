@@ -1,6 +1,6 @@
 # ATARASHI Paris at T7 with Seth Troxler, Dennis Cruz, Miguelle & Tons & Co at T7 Paris
 
-ATARASHI Paris at T7 with Seth Troxler, Dennis Cruz, Miguelle & Tons & Co at T7 Paris on Fri 2 Oct, Paris. 3 acts on the bill: Dennis Cruz, Matteo Diop and Seth Troxler. House and Tech House. Preview the line-up and save it on soundcheck.
+ATARASHI Paris at T7 with Seth Troxler, Dennis Cruz, Miguelle & Tons & Co at T7 Paris on Fri 2 Oct, Paris. 3 artists on the bill: Dennis Cruz, Matteo Diop and Seth Troxler. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

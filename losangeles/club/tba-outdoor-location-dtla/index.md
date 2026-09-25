@@ -2,7 +2,7 @@
 
 TBA - Outdoor Location - DTLA  is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Halloween Closing Party with Tomoki Tamura (LA Debut) , Ika & Usherenko & Very Special Guest" on Sun, 1 Nov 2026.
 
-TBA - Outdoor Location - DTLA  is a music venue in Losangeles listed on soundcheck. 1 upcoming gig, with line-ups including Enzo Muro, Ika (GE), Kana Hishiya and Tomoki Tamura and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Outdoor Location - DTLA  is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Enzo Muro, Ika (GE), Kana Hishiya and Tomoki Tamura and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Luke Una at Hare & Hounds
 
-Luke Una at Hare & Hounds on Sun 11 Oct, Birmingham. 1 act on the bill: Luke Una. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Luke Una at Hare & Hounds on Sun 11 Oct, Birmingham. 1 artist on the bill: Luke Una. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Cut Copy is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Meow Wolf Denver, Denver on Sat, 7 Nov 2026.
 
-Cut Copy is a house and electronica artist based in Australia, tracked on soundcheck, with 14 sets logged across Chicago, Denver, Losangeles and Melbourne and 5 more. Often billed alongside Crazy P, nimino and Alignment. Next up: Meow Wolf Denver, Denver on Sat 7 Nov.
+Cut Copy is a house and electronica artist based in Australia, tracked on soundcheck, with 14 sets logged across Chicago, Denver, Los Angeles and Melbourne and 5 more. Often billed alongside Crazy P, nimino and Alignment. Next up: Meow Wolf Denver, Denver on Sat 7 Nov.
 
 ## Upcoming shows
 

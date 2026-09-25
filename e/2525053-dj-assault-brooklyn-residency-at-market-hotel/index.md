@@ -1,6 +1,6 @@
 # DJ Assault BROOKLYN RESIDENCY at Market Hotel
 
-DJ Assault BROOKLYN RESIDENCY at Market Hotel on Sat 26 Sept, Newyorkcity. 3 acts on the bill: DJ Assault, purp and Sausha. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
+DJ Assault BROOKLYN RESIDENCY at Market Hotel on Sat 26 Sept, New York City. 3 artists on the bill: DJ Assault, purp and Sausha. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

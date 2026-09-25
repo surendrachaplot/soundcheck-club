@@ -2,7 +2,7 @@
 
 Erick E is a House and Acid artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ijland, Amsterdam on Sat, 3 Oct 2026.
 
-Erick E is a house and acid artist based in Netherlands, tracked on soundcheck, with 63 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: Ijland, Amsterdam on Sat 3 Oct.
+Erick E is a house and acid artist based in Netherlands, tracked on soundcheck, with 63 sets logged across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: Ijland, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 

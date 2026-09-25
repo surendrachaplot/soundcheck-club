@@ -1,6 +1,6 @@
 # Sound Service Station: Dub Epistemologies: Rhythm & Sound - w/ The Artists (w/ Ashley Holmes) at The System
 
-Sound Service Station: Dub Epistemologies: Rhythm & Sound - w/ The Artists (w/ Ashley Holmes) at The System on Thu 26 Nov, Sheffield. 1 act on the bill: Ashley Holmes. Dub. Preview the line-up and save it on soundcheck.
+Sound Service Station: Dub Epistemologies: Rhythm & Sound - w/ The Artists (w/ Ashley Holmes) at The System on Thu 26 Nov, Sheffield. 1 artist on the bill: Ashley Holmes. Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

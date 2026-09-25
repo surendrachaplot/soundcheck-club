@@ -1,6 +1,6 @@
 # POOL OF THE DAMNED at TBA - Ainā Rooftop, Vermont 29, Nápoles, CDMX 
 
-POOL OF THE DAMNED at TBA - Ainā Rooftop, Vermont 29, Nápoles, CDMX  on Sat 24 Oct, Mexicocity. 2 acts on the bill: Diego Saaz and YAM YAMS. House and Tech House. Preview the line-up and save it on soundcheck.
+POOL OF THE DAMNED at TBA - Ainā Rooftop, Vermont 29, Nápoles, CDMX  on Sat 24 Oct, Mexico City. 2 artists on the bill: Diego Saaz and YAM YAMS. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Give a f*ck. Vote. at nami record bar
 
-Give a f*ck. Vote. at nami record bar on Fri 25 Sept, Auckland. 1 act on the bill: Dylan Biscuit. House. Preview the line-up and save it on soundcheck.
+Give a f*ck. Vote. at nami record bar on Fri 25 Sept, Auckland. 1 artist on the bill: Dylan Biscuit. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

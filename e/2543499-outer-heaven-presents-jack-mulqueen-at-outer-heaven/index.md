@@ -1,6 +1,6 @@
 # Outer Heaven presents: Jack Mulqueen at Outer Heaven
 
-Outer Heaven presents: Jack Mulqueen on Fri 23 Oct, Newyorkcity. 3 acts on the bill: Bella Mutino, Jack Mulqueen and RICCI (US). House. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Jack Mulqueen on Fri 23 Oct, New York City. 3 artists on the bill: Bella Mutino, Jack Mulqueen and RICCI (US). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

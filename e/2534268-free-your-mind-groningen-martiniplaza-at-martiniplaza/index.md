@@ -1,6 +1,6 @@
 # Free Your Mind Groningen Martiniplaza at Martiniplaza
 
-Free Your Mind Groningen Martiniplaza on Sat 21 Nov, Amsterdam. 17 acts on the bill: AAT (NL), Benny Rodrigues, Chris Liebing and Diffrent and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
+Free Your Mind Groningen Martiniplaza on Sat 21 Nov, Amsterdam. 17 artists on the bill: AAT (NL), Benny Rodrigues, Chris Liebing and Diffrent and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

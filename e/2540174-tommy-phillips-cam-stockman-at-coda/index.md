@@ -1,6 +1,6 @@
 # Tommy Phillips + Cam Stockman at Coda
 
-Tommy Phillips + Cam Stockman at Coda on Fri 4 Dec, Toronto. 2 acts on the bill: Cam Stockman and Tommy Phillips. Preview the line-up and save it on soundcheck.
+Tommy Phillips + Cam Stockman at Coda on Fri 4 Dec, Toronto. 2 artists on the bill: Cam Stockman and Tommy Phillips. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

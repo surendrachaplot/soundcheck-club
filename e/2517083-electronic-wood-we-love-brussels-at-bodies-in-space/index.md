@@ -1,6 +1,6 @@
 # Electronic Wood - We Love Brussels at Bodies in Space
 
-Electronic Wood - We Love Brussels at Bodies in Space on Sat 26 Sept, Brussels. 7 acts on the bill: CP, Deg, Don Cabron and Neon and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Electronic Wood - We Love Brussels at Bodies in Space on Sat 26 Sept, Brussels. 7 artists on the bill: CP, Deg, Don Cabron and Neon and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

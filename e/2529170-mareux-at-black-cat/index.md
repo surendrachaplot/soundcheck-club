@@ -1,6 +1,6 @@
 # Mareux at Black Cat
 
-Mareux at Black Cat on Thu 10 Dec, Washingtondc. Electro and Post-Punk. Preview the line-up and save it on soundcheck.
+Mareux at Black Cat on Thu 10 Dec, Washington DC. Electro and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

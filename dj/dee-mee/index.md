@@ -2,7 +2,7 @@
 
 DEE-MEE is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Rebecca's, New York City on Fri, 2 Oct 2026.
 
-DEE-MEE is a baile funk and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside MOTANYC, Vesi and AJACENT. Next up: Rebecca's, Newyorkcity on Fri 2 Oct.
+DEE-MEE is a baile funk and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across New York City. Often billed alongside MOTANYC, Vesi and AJACENT. Next up: Rebecca's, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 

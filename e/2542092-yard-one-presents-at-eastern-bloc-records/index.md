@@ -1,6 +1,6 @@
 # Yard One presents at Eastern Bloc Records
 
-Yard One presents at Eastern Bloc Records on Sat 31 Oct, Manchester. 3 acts on the bill: Means&3rd, Sam The Bastard and Yard One. Techno and House. Preview the line-up and save it on soundcheck.
+Yard One presents at Eastern Bloc Records on Sat 31 Oct, Manchester. 3 artists on the bill: Means&3rd, Sam The Bastard and Yard One. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

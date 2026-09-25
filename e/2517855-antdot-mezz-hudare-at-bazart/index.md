@@ -1,6 +1,6 @@
 # Antdot, Mezz, Hudare at Bazart
 
-Antdot, Mezz, Hudare at Bazart on Thu 15 Oct, Montreal. 1 act on the bill: Antdot. Preview the line-up and save it on soundcheck.
+Antdot, Mezz, Hudare at Bazart on Thu 15 Oct, Montreal. 1 artist on the bill: Antdot. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

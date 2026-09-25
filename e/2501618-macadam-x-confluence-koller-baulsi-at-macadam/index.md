@@ -1,6 +1,6 @@
 # Macadam x Confluence • KOLLER ~ BAULSI at Macadam
 
-Macadam x Confluence • KOLLER ~ BAULSI on Thu 24 Sept, Nantes. 2 acts on the bill: BAULSI and KOLLER. Trance and Techno. Preview the line-up and save it on soundcheck.
+Macadam x Confluence • KOLLER ~ BAULSI on Thu 24 Sept, Nantes. 2 artists on the bill: BAULSI and KOLLER. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

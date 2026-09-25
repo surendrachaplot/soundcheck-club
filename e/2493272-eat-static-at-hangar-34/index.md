@@ -1,6 +1,6 @@
 # Eat Static at Hangar 34
 
-Eat Static at Hangar 34 on Fri 6 Nov, Liverpool. 1 act on the bill: Eat Static. Electro and Electronica. Preview the line-up and save it on soundcheck.
+Eat Static at Hangar 34 on Fri 6 Nov, Liverpool. 1 artist on the bill: Eat Static. Electro and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

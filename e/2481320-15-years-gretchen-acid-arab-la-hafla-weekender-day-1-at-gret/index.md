@@ -1,6 +1,6 @@
 # 15 Years Gretchen:Acid Arab - LA HAFLA WEEKENDER Day 1 at Gretchen
 
-15 Years Gretchen:Acid Arab - LA HAFLA WEEKENDER Day 1 on Thu 15 Oct, Berlin. 1 act on the bill: Acid Arab. Electronica. Preview the line-up and save it on soundcheck.
+15 Years Gretchen:Acid Arab - LA HAFLA WEEKENDER Day 1 on Thu 15 Oct, Berlin. 1 artist on the bill: Acid Arab. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

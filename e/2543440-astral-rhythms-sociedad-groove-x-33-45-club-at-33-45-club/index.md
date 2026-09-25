@@ -1,6 +1,6 @@
 # Astral Rhythms, Sociedad Groove x 33/45 Club at 33/45 Club
 
-Astral Rhythms, Sociedad Groove x 33/45 Club on Sat 10 Oct, Valencia. 2 acts on the bill: H-R-Z and SYM. Techno and Electro. Preview the line-up and save it on soundcheck.
+Astral Rhythms, Sociedad Groove x 33/45 Club on Sat 10 Oct, Valencia. 2 artists on the bill: H-R-Z and SYM. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BLOOD FEAST at Casa Nube Wynwood
 
-BLOOD FEAST at Casa Nube Wynwood on Fri 2 Oct, Miami. 8 acts on the bill: Cobb Douglas, Dadrev, DomnRob and Franky De Rey and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+BLOOD FEAST at Casa Nube Wynwood on Fri 2 Oct, Miami. 8 artists on the bill: Cobb Douglas, Dadrev, DomnRob and Franky De Rey and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

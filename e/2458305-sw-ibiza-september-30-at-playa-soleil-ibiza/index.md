@@ -1,6 +1,6 @@
 # SW ♡ IBIZA SEPTEMBER 30 at Playa Soleil Ibiza
 
-SW ♡ IBIZA SEPTEMBER 30 at Playa Soleil Ibiza on Wed 30 Sept, Ibiza. 4 acts on the bill: Gescu, Jean Pierre, Luigi Rossi and Manda Moor. Preview the line-up and save it on soundcheck.
+SW ♡ IBIZA SEPTEMBER 30 at Playa Soleil Ibiza on Wed 30 Sept, Ibiza. 4 artists on the bill: Gescu, Jean Pierre, Luigi Rossi and Manda Moor. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

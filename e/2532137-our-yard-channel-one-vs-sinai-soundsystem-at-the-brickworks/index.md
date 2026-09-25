@@ -1,6 +1,6 @@
 # Our Yard: CHANNEL ONE vs Sinai SoundSystem at The Brickworks
 
-Our Yard: CHANNEL ONE vs Sinai SoundSystem at The Brickworks on Sat 24 Oct, Nottingham. 1 act on the bill: Channel One Sound. Dub. Preview the line-up and save it on soundcheck.
+Our Yard: CHANNEL ONE vs Sinai SoundSystem at The Brickworks on Sat 24 Oct, Nottingham. 1 artist on the bill: Channel One Sound. Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

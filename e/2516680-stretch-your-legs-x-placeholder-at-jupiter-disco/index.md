@@ -1,6 +1,6 @@
 # Stretch Your Legs x [PLACEHOLDER] at Jupiter Disco
 
-Stretch Your Legs x [PLACEHOLDER] at Jupiter Disco on Fri 25 Sept, Newyorkcity. 4 acts on the bill: dj goodboy (BK), Leg Room, Mommy Husband and Pedestrian Access. Preview the line-up and save it on soundcheck.
+Stretch Your Legs x [PLACEHOLDER] at Jupiter Disco on Fri 25 Sept, New York City. 4 artists on the bill: dj goodboy (BK), Leg Room, Mommy Husband and Pedestrian Access. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

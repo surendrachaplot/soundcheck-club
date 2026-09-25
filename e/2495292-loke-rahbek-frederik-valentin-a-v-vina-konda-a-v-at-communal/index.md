@@ -1,6 +1,6 @@
 # Loke Rahbek & Frederik Valentin A/V + Vina Konda A/V at Communale Saint-Ouen
 
-Loke Rahbek & Frederik Valentin A/V + Vina Konda A/V at Communale Saint-Ouen on Thu 12 Nov, Paris. 2 acts on the bill: Loke Rahbek and Vina Konda. Ambient. Preview the line-up and save it on soundcheck.
+Loke Rahbek & Frederik Valentin A/V + Vina Konda A/V at Communale Saint-Ouen on Thu 12 Nov, Paris. 2 artists on the bill: Loke Rahbek and Vina Konda. Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

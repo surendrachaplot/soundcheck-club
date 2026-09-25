@@ -1,14 +1,15 @@
 # Wotton
 
-Wotton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Sound House, Dublin on Fri, 23 Oct 2026.
+Wotton is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Sound House, Dublin on Fri, 23 Oct 2026.
 
-Wotton is a techno and house artist based in Italy, tracked on soundcheck, with 15 sets logged across Berlin, Dublin, London and Madrid and 1 more. Often billed alongside Danja Uosh, Minimal Larsen and Puro. Next up: The Sound House, Dublin on Fri 23 Oct.
+Wotton is a techno and house artist based in Italy, tracked on soundcheck, with 16 sets logged across Berlin, Dublin, London and Madrid and 1 more. Often billed alongside Danja Uosh, Minimal Larsen and Puro. Next up: The Sound House, Dublin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | The Sound House | Dublin |
+| Sat, 14 Nov 2026 | Wigwam | Dublin |
 
 ## Recently played
 

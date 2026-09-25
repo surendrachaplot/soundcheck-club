@@ -1,6 +1,6 @@
 # PTO: Joyhauser at Noto Philadelphia
 
-PTO: Joyhauser at Noto Philadelphia on Thu 5 Nov, Philadelphia. 2 acts on the bill: ANDi MANDi and Joyhauser. Techno. Preview the line-up and save it on soundcheck.
+PTO: Joyhauser at Noto Philadelphia on Thu 5 Nov, Philadelphia. 2 artists on the bill: ANDi MANDi and Joyhauser. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

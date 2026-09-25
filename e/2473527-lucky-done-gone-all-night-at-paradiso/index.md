@@ -1,6 +1,6 @@
 # Lucky Done Gone - All Night at Paradiso
 
-Lucky Done Gone - All Night at Paradiso on Fri 27 Nov, Amsterdam. 1 act on the bill: Lucky Done Gone. Techno and House. Preview the line-up and save it on soundcheck.
+Lucky Done Gone - All Night at Paradiso on Fri 27 Nov, Amsterdam. 1 artist on the bill: Lucky Done Gone. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

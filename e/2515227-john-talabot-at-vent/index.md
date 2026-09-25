@@ -1,6 +1,6 @@
 # John Talabot at VENT
 
-John Talabot at VENT on Sat 3 Oct, Tokyo. 6 acts on the bill: Abiu, Chihoshi, John Talabot and Kurea and 2 more. House. Preview the line-up and save it on soundcheck.
+John Talabot at VENT on Sat 3 Oct, Tokyo. 6 artists on the bill: Abiu, Chihoshi, John Talabot and Kurea and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

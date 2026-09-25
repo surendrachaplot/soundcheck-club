@@ -1,6 +1,6 @@
 # SET w/Patrice Baumel & Armen Miran under the 6th Bridge in LA at TBA - Downtown LA
 
-SET w/Patrice Baumel & Armen Miran under the 6th Bridge in LA at TBA - Downtown LA on Wed 25 Nov, Losangeles. 2 acts on the bill: Armen Miran and Patrice Bäumel. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+SET w/Patrice Baumel & Armen Miran under the 6th Bridge in LA at TBA - Downtown LA on Wed 25 Nov, Los Angeles. 2 artists on the bill: Armen Miran and Patrice Bäumel. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

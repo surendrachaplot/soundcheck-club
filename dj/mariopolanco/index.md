@@ -2,7 +2,7 @@
 
 Mario Polanco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Green Room NYC, New York City on Sat, 10 Oct 2026.
 
-Mario Polanco is a house and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity. Often billed alongside Miss Gypsy, Martín Y Corazón and Greg Paulus. Next up: Green Room NYC, Newyorkcity on Sat 10 Oct.
+Mario Polanco is a house and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across New York City. Often billed alongside Miss Gypsy, Martín Y Corazón and Greg Paulus. Next up: Green Room NYC, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 

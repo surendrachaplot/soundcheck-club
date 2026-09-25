@@ -1,6 +1,6 @@
 # LED presents Eazybaked with Richard Finger at Beach House San Diego
 
-LED presents Eazybaked with Richard Finger at Beach House San Diego on Sat 24 Oct, Sandiego. Preview the line-up and save it on soundcheck.
+LED presents Eazybaked with Richard Finger at Beach House San Diego on Sat 24 Oct, San Diego. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

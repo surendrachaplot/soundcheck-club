@@ -1,6 +1,6 @@
 # MUSIC FOR THE MASSES [DARK '80s NEW WAVE NITE] at TV EYE
 
-MUSIC FOR THE MASSES [DARK '80s NEW WAVE NITE] at TV EYE on Sat 26 Sept, Newyorkcity. New Wave. Preview the line-up and save it on soundcheck.
+MUSIC FOR THE MASSES [DARK '80s NEW WAVE NITE] at TV EYE on Sat 26 Sept, New York City. New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

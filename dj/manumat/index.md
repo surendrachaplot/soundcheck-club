@@ -2,7 +2,7 @@
 
 Manumat is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lion's Den, Miami on Sat, 26 Sept 2026.
 
-Manumat is a deep house and house artist based in Colombia, tracked on soundcheck, with 31 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Fiin, Afterclapp and Apache. Next up: Lion's Den, Miami on Sat 26 Sept.
+Manumat is a deep house and house artist based in Colombia, tracked on soundcheck, with 31 sets logged across Mexico City, Miami and New York City. Often billed alongside Fiin, Afterclapp and Apache. Next up: Lion's Den, Miami on Sat 26 Sept.
 
 ## Upcoming shows
 

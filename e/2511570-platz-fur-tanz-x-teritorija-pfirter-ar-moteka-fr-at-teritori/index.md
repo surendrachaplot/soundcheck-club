@@ -1,6 +1,6 @@
 # Platz fur Tanz x Teritorija: Pfirter (AR), Moteka (FR) at Teritorija
 
-Platz fur Tanz x Teritorija: Pfirter (AR), Moteka (FR) on Fri 20 Nov, Riga. 3 acts on the bill: Ksenia Kamikaza, Moteka and Pfirter. Techno and House. Preview the line-up and save it on soundcheck.
+Platz fur Tanz x Teritorija: Pfirter (AR), Moteka (FR) on Fri 20 Nov, Riga. 3 artists on the bill: Ksenia Kamikaza, Moteka and Pfirter. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

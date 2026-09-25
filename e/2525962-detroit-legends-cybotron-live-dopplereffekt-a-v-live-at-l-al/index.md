@@ -1,6 +1,6 @@
 # DETROIT LEGENDS : CYBOTRON (LIVE) + DOPPLEREFFEKT (A/V LIVE) at L'Alhambra
 
-DETROIT LEGENDS : CYBOTRON (LIVE) + DOPPLEREFFEKT (A/V LIVE) at L'Alhambra on Thu 8 Oct, Geneva. 2 acts on the bill: Dopplereffekt and Orphia. Preview the line-up and save it on soundcheck.
+DETROIT LEGENDS : CYBOTRON (LIVE) + DOPPLEREFFEKT (A/V LIVE) at L'Alhambra on Thu 8 Oct, Geneva. 2 artists on the bill: Dopplereffekt and Orphia. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

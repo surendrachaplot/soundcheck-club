@@ -1,6 +1,6 @@
 # ALIVE: DYEN (ALL NIGHT LONG) + LeStrange at E1
 
-ALIVE: DYEN (ALL NIGHT LONG) + LeStrange at E1 on Fri 25 Sept, London. 2 acts on the bill: DYEN and LeStrange. Techno. Preview the line-up and save it on soundcheck.
+ALIVE: DYEN (ALL NIGHT LONG) + LeStrange at E1 on Fri 25 Sept, London. 2 artists on the bill: DYEN and LeStrange. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

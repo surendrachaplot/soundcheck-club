@@ -1,6 +1,6 @@
 # ✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹ at M.O.T
 
-✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹ on Sat 26 Sept, London. 24 acts on the bill: Angel D'lite, Authentically Plastic, Beneath and Daksh and 20 more. Preview the line-up and save it on soundcheck.
+✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹ on Sat 26 Sept, London. 24 artists on the bill: Angel D'lite, Authentically Plastic, Beneath and Daksh and 20 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

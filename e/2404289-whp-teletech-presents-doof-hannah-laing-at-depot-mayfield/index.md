@@ -1,6 +1,6 @@
 # WHP + Teletech presents DOOF - Hannah Laing at Depot Mayfield
 
-WHP + Teletech presents DOOF - Hannah Laing at Depot Mayfield on Fri 16 Oct, Manchester. 1 act on the bill: Hannah Laing. Techno and House. Preview the line-up and save it on soundcheck.
+WHP + Teletech presents DOOF - Hannah Laing at Depot Mayfield on Fri 16 Oct, Manchester. 1 artist on the bill: Hannah Laing. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

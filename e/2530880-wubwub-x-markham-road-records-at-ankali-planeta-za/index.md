@@ -1,6 +1,6 @@
 # #wubwub x Markham Road Records at Ankali & Planeta Za
 
-#wubwub x Markham Road Records at Ankali & Planeta Za on Fri 9 Oct, Prague. 4 acts on the bill: basic chanel, DDAT, Jan Loup and Westdale. Preview the line-up and save it on soundcheck.
+#wubwub x Markham Road Records at Ankali & Planeta Za on Fri 9 Oct, Prague. 4 artists on the bill: basic chanel, DDAT, Jan Loup and Westdale. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

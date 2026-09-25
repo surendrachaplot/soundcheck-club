@@ -1,6 +1,6 @@
 # Nido label night: Heavydance - BlueSky, Maj.Tom, Mel, Taiel & Vivi at Nido Marseille
 
-Nido label night: Heavydance - BlueSky, Maj.Tom, Mel, Taiel & Vivi at Nido Marseille on Fri 20 Nov, Marseille. 2 acts on the bill: Maj.Tom and Mel. Preview the line-up and save it on soundcheck.
+Nido label night: Heavydance - BlueSky, Maj.Tom, Mel, Taiel & Vivi at Nido Marseille on Fri 20 Nov, Marseille. 2 artists on the bill: Maj.Tom and Mel. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

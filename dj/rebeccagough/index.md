@@ -2,7 +2,7 @@
 
 Rebecca Gough is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
 
-Rebecca Gough is a techno and house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Dusseldorf, Glasgow and London. Often billed alongside Redfreya, Gus Emmett and TIMANTI. Next up: FOLD, London on Sat 26 Sept.
+Rebecca Gough is a techno and house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Düsseldorf, Glasgow and London. Often billed alongside Redfreya, Gus Emmett and TIMANTI. Next up: FOLD, London on Sat 26 Sept.
 
 ## Upcoming shows
 

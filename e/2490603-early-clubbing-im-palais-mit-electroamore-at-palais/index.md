@@ -1,6 +1,6 @@
 # Early Clubbing im Palais mit Electroamore at Palais
 
-Early Clubbing im Palais mit Electroamore on Fri 9 Oct, Munich. 2 acts on the bill: DJ FM & DJ FREUND and RONNY. Techno and Electro. Preview the line-up and save it on soundcheck.
+Early Clubbing im Palais mit Electroamore on Fri 9 Oct, Munich. 2 artists on the bill: DJ FM & DJ FREUND and RONNY. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

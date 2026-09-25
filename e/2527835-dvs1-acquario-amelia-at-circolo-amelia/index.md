@@ -1,6 +1,6 @@
 # DVS1 // Acquario (Amelia) at Circolo Amelia
 
-DVS1 // Acquario (Amelia) at Circolo Amelia on Fri 6 Nov, Milan. 2 acts on the bill: DVS1 and Essē (IT). Techno. Preview the line-up and save it on soundcheck.
+DVS1 // Acquario (Amelia) at Circolo Amelia on Fri 6 Nov, Milan. 2 artists on the bill: DVS1 and Essē (IT). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

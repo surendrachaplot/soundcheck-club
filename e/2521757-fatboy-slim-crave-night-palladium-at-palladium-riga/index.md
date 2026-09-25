@@ -1,6 +1,6 @@
 # Fatboy Slim - CRAVE NIGHT @Palladium at Palladium Riga
 
-Fatboy Slim - CRAVE NIGHT @Palladium at Palladium Riga on Fri 20 Nov, Riga. 1 act on the bill: Fatboy Slim. House and Electronica. Preview the line-up and save it on soundcheck.
+Fatboy Slim - CRAVE NIGHT @Palladium at Palladium Riga on Fri 20 Nov, Riga. 1 artist on the bill: Fatboy Slim. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

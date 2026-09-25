@@ -1,6 +1,6 @@
 # Mint presents Fish56Octagon, Kara Okay at Mint Warehouse
 
-Mint presents Fish56Octagon, Kara Okay at Mint Warehouse on Fri 4 Dec, Leeds. 2 acts on the bill: Fish56Octagon and Kara Okay. Trance and House. Preview the line-up and save it on soundcheck.
+Mint presents Fish56Octagon, Kara Okay at Mint Warehouse on Fri 4 Dec, Leeds. 2 artists on the bill: Fish56Octagon and Kara Okay. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

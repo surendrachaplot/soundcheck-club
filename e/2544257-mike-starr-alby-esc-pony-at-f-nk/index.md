@@ -1,6 +1,6 @@
 # Mike Starr + Alby Esc + Pony at Fünk
 
-Mike Starr + Alby Esc + Pony at Fünk on Fri 16 Oct, Mexicocity. 2 acts on the bill: Alby Esc and Mike Starr. House. Preview the line-up and save it on soundcheck.
+Mike Starr + Alby Esc + Pony at Fünk on Fri 16 Oct, Mexico City. 2 artists on the bill: Alby Esc and Mike Starr. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

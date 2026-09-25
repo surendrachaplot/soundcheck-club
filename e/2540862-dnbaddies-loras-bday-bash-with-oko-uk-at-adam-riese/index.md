@@ -1,6 +1,6 @@
 # DnBaddies - Loras BDAY BASH - with OKO (UK) at Adam Riese
 
-DnBaddies - Loras BDAY BASH - with OKO (UK) at Adam Riese on Fri 16 Oct, Frankfurt. 2 acts on the bill: Lora (1) and OKO (1). Drum & Bass. Preview the line-up and save it on soundcheck.
+DnBaddies - Loras BDAY BASH - with OKO (UK) at Adam Riese on Fri 16 Oct, Frankfurt. 2 artists on the bill: Lora and OKO. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

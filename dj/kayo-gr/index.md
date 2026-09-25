@@ -2,7 +2,7 @@
 
 Kayo is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at COUNTER CLUB, Tokyo on Sat, 26 Sept 2026.
 
-Kayo is a disco and techno artist based in Greece, tracked on soundcheck, with 22 sets logged across Athens, Liverpool, Losangeles and Tokyo. Often billed alongside Raise (2), Seemo and Caelĩna. Next up: COUNTER CLUB, Tokyo on Sat 26 Sept.
+Kayo is a disco and techno artist based in Greece, tracked on soundcheck, with 22 sets logged across Athens, Liverpool, Los Angeles and Tokyo. Often billed alongside Raise, Seemo and Caelĩna. Next up: COUNTER CLUB, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 

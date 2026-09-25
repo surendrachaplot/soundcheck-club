@@ -1,6 +1,6 @@
 # Black Noir x Factory 19 Present: Producer Accelerator Workshop at TBA
 
-Black Noir x Factory 19 Present: Producer Accelerator Workshop at TBA on Sun 1 Nov, Sydney. 1 act on the bill: Mickey Nox. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Black Noir x Factory 19 Present: Producer Accelerator Workshop at TBA on Sun 1 Nov, Sydney. 1 artist on the bill: Mickey Nox. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

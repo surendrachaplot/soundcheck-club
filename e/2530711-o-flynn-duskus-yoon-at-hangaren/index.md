@@ -1,6 +1,6 @@
 # O'Flynn, Duskus, YOON at Hangaren
 
-O'Flynn, Duskus, YOON at Hangaren on Fri 9 Oct, Copenhagen. 3 acts on the bill: Duskus, O'Flynn and YOON. House. Preview the line-up and save it on soundcheck.
+O'Flynn, Duskus, YOON at Hangaren on Fri 9 Oct, Copenhagen. 3 artists on the bill: Duskus, O'Flynn and YOON. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

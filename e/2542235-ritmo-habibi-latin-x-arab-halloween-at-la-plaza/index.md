@@ -1,6 +1,6 @@
 # RITMO HABIBI: LATIN X ARAB HALLOWEEN at La Plaza
 
-RITMO HABIBI: LATIN X ARAB HALLOWEEN at La Plaza on Thu 29 Oct, Toronto. 3 acts on the bill: ESCOBUTT, Momocita and Sandwavv. Preview the line-up and save it on soundcheck.
+RITMO HABIBI: LATIN X ARAB HALLOWEEN at La Plaza on Thu 29 Oct, Toronto. 3 artists on the bill: ESCOBUTT, Momocita and Sandwavv. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

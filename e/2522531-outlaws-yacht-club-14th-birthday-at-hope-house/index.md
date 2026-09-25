@@ -1,6 +1,6 @@
 # Outlaws Yacht Club 14th Birthday at Hope House
 
-Outlaws Yacht Club 14th Birthday at Hope House on Sat 26 Sept, Leeds. 3 acts on the bill: Ana K Miller, Moses Joses and Pigeon Steve. Acid and Industrial. Preview the line-up and save it on soundcheck.
+Outlaws Yacht Club 14th Birthday at Hope House on Sat 26 Sept, Leeds. 3 artists on the bill: Ana K Miller, Moses Joses and Pigeon Steve. Acid and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

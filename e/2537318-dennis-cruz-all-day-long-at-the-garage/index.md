@@ -1,6 +1,6 @@
 # Dennis Cruz - ALL DAY LONG at The Garage
 
-Dennis Cruz - ALL DAY LONG at The Garage on Sat 17 Oct, Madrid. 1 act on the bill: Dennis Cruz. Tech House. Preview the line-up and save it on soundcheck.
+Dennis Cruz - ALL DAY LONG at The Garage on Sat 17 Oct, Madrid. 1 artist on the bill: Dennis Cruz. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

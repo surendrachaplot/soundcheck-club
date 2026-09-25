@@ -1,6 +1,6 @@
 # Diplo at Savaya Bali
 
-Diplo at Savaya Bali on Thu 8 Oct, Bali. 1 act on the bill: Diplo. House and Deep House. Preview the line-up and save it on soundcheck.
+Diplo at Savaya Bali on Thu 8 Oct, Bali. 1 artist on the bill: Diplo. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

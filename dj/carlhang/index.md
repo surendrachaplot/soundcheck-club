@@ -2,7 +2,7 @@
 
 Carl Hang is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Badehaus Berlin, Berlin on Thu, 24 Sept 2026.
 
-Carl Hang is a house and techno artist based in Germany, tracked on soundcheck, with 103 sets logged across Basel, Berlin, Cologne and Hamburg and 7 more. Often billed alongside Wall Ra, DJ Business (2) and Multifun. Next up: Badehaus Berlin, Berlin on Thu 24 Sept.
+Carl Hang is a house and techno artist based in Germany, tracked on soundcheck, with 103 sets logged across Basel, Berlin, Cologne and Hamburg and 7 more. Often billed alongside Wall Ra, DJ Business and Multifun. Next up: Badehaus Berlin, Berlin on Thu 24 Sept.
 
 ## Upcoming shows
 

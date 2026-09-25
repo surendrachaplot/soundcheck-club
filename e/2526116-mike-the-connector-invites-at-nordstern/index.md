@@ -1,6 +1,6 @@
 # Mike The Connector Invites at Nordstern
 
-Mike The Connector Invites at Nordstern on Fri 2 Oct, Basel. 3 acts on the bill: Mike The Connector, OG Lotti and Scar. Preview the line-up and save it on soundcheck.
+Mike The Connector Invites at Nordstern on Fri 2 Oct, Basel. 3 artists on the bill: Mike The Connector, OG Lotti and Scar. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

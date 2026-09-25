@@ -1,6 +1,6 @@
 # Lost Kings at The Independent
 
-Lost Kings at The Independent on Thu 15 Oct, Sanfrancisco. House and Bass. Preview the line-up and save it on soundcheck.
+Lost Kings at The Independent on Thu 15 Oct, San Francisco/Oakland. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

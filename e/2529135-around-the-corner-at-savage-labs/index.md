@@ -1,6 +1,6 @@
 # Around The Corner at Savage Labs
 
-Around The Corner at Savage Labs on Fri 2 Oct, Miami. 1 act on the bill: 3AM. Club. Preview the line-up and save it on soundcheck.
+Around The Corner at Savage Labs on Fri 2 Oct, Miami. 1 artist on the bill: 3AM. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

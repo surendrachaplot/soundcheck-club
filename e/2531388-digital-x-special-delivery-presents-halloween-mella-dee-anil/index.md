@@ -1,6 +1,6 @@
 # Digital x Special Delivery presents: Halloween - Mella Dee, Anil Aras, Niva at Ouseburn Garden
 
-Digital x Special Delivery presents: Halloween - Mella Dee, Anil Aras, Niva at Ouseburn Garden on Sat 31 Oct, Newcastle. 3 acts on the bill: Anil Aras, Mella Dee and Niva. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Digital x Special Delivery presents: Halloween - Mella Dee, Anil Aras, Niva at Ouseburn Garden on Sat 31 Oct, Newcastle. 3 artists on the bill: Anil Aras, Mella Dee and Niva. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

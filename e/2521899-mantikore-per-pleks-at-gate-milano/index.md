@@ -1,6 +1,6 @@
 # Mantikore: Per Pleks at Gate Milano
 
-Mantikore: Per Pleks at Gate Milano on Sat 14 Nov, Milan. 3 acts on the bill: HEMPTOTE, Per Pleks and Pura Solenne. Preview the line-up and save it on soundcheck.
+Mantikore: Per Pleks at Gate Milano on Sat 14 Nov, Milan. 3 artists on the bill: HEMPTOTE, Per Pleks and Pura Solenne. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

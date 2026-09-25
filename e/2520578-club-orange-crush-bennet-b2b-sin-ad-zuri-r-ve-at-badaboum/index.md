@@ -1,6 +1,6 @@
 # Club — Orange Crush: Bennet B2B Sinéad, Zuri, RĒVE at Badaboum
 
-Club — Orange Crush: Bennet B2B Sinéad, Zuri, RĒVE at Badaboum on Fri 2 Oct, Paris. 3 acts on the bill: Bennet (DE), Sinéad and Zuri. House and Tech House. Preview the line-up and save it on soundcheck.
+Club — Orange Crush: Bennet B2B Sinéad, Zuri, RĒVE at Badaboum on Fri 2 Oct, Paris. 3 artists on the bill: Bennet (DE), Sinéad and Zuri. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

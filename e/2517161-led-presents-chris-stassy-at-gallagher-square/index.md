@@ -1,6 +1,6 @@
 # LED presents Chris Stassy at Gallagher Square
 
-LED presents Chris Stassy at Gallagher Square on Sat 31 Oct, Sandiego. 1 act on the bill: CHRIS STASSY. Preview the line-up and save it on soundcheck.
+LED presents Chris Stassy at Gallagher Square on Sat 31 Oct, San Diego. 1 artist on the bill: CHRIS STASSY. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

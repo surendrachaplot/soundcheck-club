@@ -1,6 +1,6 @@
 # The Essential Christmas Special at The City Pride
 
-The Essential Christmas Special at The City Pride on Sat 5 Dec, London. 2 acts on the bill: Daniel Ward and Hermit. House and Garage. Preview the line-up and save it on soundcheck.
+The Essential Christmas Special at The City Pride on Sat 5 Dec, London. 2 artists on the bill: Daniel Ward and Hermit. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

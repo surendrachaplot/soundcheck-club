@@ -1,6 +1,6 @@
 # U and D Halloween at UTOPIA / DYSTOPIA
 
-U and D Halloween at UTOPIA / DYSTOPIA on Fri 9 Oct, Tokyo. 5 acts on the bill: Gewnky, Natasha, omeme_gangimari and vivi and 1 more. Preview the line-up and save it on soundcheck.
+U and D Halloween at UTOPIA / DYSTOPIA on Fri 9 Oct, Tokyo. 5 artists on the bill: Gewnky, Natasha, omeme_gangimari and vivi and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

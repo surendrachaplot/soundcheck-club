@@ -1,6 +1,6 @@
 # Lizdek with Synova at The Pearl
 
-Lizdek with Synova at The Pearl on Thu 29 Oct, Vancouver. 1 act on the bill: Lizdek. Preview the line-up and save it on soundcheck.
+Lizdek with Synova at The Pearl on Thu 29 Oct, Vancouver. 1 artist on the bill: Lizdek. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

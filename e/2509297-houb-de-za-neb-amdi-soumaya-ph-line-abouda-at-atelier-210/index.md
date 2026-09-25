@@ -1,6 +1,6 @@
 # HOUB de Zaïneb Ḥamdi & Soumaya Phéline Abouda at Atelier 210
 
-HOUB de Zaïneb Ḥamdi & Soumaya Phéline Abouda at Atelier 210 on Thu 12 Nov, Brussels. 1 act on the bill: Soumaya Phéline. Preview the line-up and save it on soundcheck.
+HOUB de Zaïneb Ḥamdi & Soumaya Phéline Abouda at Atelier 210 on Thu 12 Nov, Brussels. 1 artist on the bill: Soumaya Phéline. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Vinylschleifer StepBack at Distillery
 
-Vinylschleifer StepBack at Distillery on Sat 24 Oct, Leipzig. 5 acts on the bill: Da Voice, Hanno Hinkelbein, Jerome Hill and Lydmate and 1 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+Vinylschleifer StepBack at Distillery on Sat 24 Oct, Leipzig. 5 artists on the bill: Da Voice, Hanno Hinkelbein, Jerome Hill and Lydmate and 1 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

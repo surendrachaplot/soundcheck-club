@@ -2,7 +2,7 @@
 
 belizenotbrazil is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sinners and Saints, Washington DC on Sat, 3 Oct 2026.
 
-belizenotbrazil is a club and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Washingtondc. Often billed alongside Mooncrumb, JACKIECHANSDOG and Sküp. Next up: Sinners and Saints, Washingtondc on Sat 3 Oct.
+belizenotbrazil is a club and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Washington DC. Often billed alongside Mooncrumb, JACKIECHANSDOG and Sküp. Next up: Sinners and Saints, Washington DC on Sat 3 Oct.
 
 ## Upcoming shows
 

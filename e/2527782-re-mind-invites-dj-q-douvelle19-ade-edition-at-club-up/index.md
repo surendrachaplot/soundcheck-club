@@ -1,6 +1,6 @@
 # Re'Mind invites DJ Q & Douvelle19 - ADE edition at Club Up
 
-Re'Mind invites DJ Q & Douvelle19 - ADE edition at Club Up on Wed 21 Oct, Amsterdam. 4 acts on the bill: Becking, DJ Q, Douvelle19 and Mar'One. Bass and Garage. Preview the line-up and save it on soundcheck.
+Re'Mind invites DJ Q & Douvelle19 - ADE edition at Club Up on Wed 21 Oct, Amsterdam. 4 artists on the bill: Becking, DJ Q, Douvelle19 and Mar'One. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

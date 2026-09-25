@@ -1,6 +1,6 @@
 # Two Shell and Nautiluss presented by Standard Time x Not Dead Yet at Standard Time
 
-Two Shell and Nautiluss presented by Standard Time x Not Dead Yet on Fri 25 Sept, Toronto. 2 acts on the bill: Nautiluss and Two Shell. Preview the line-up and save it on soundcheck.
+Two Shell and Nautiluss presented by Standard Time x Not Dead Yet on Fri 25 Sept, Toronto. 2 artists on the bill: Nautiluss and Two Shell. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

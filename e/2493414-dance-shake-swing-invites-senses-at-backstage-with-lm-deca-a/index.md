@@ -1,6 +1,6 @@
 # Dance, Shake, Swing! Invites SENSES at Backstage with LM & Deca at La Textil Collective
 
-Dance, Shake, Swing! Invites SENSES at Backstage with LM & Deca at La Textil Collective on Sat 3 Oct, Barcelona. 2 acts on the bill: DECA (VE) and LM. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Dance, Shake, Swing! Invites SENSES at Backstage with LM & Deca at La Textil Collective on Sat 3 Oct, Barcelona. 2 artists on the bill: DECA (VE) and LM. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

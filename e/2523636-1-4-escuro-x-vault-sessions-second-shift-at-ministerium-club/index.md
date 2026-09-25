@@ -1,6 +1,6 @@
 # 1/4 Escuro x Vault Sessions Second Shift at Ministerium Club
 
-1/4 Escuro x Vault Sessions Second Shift at Ministerium Club on Sat 26 Sept, Lisbon. 4 acts on the bill: aalice, Client, John Wick and Salbany. Techno. Preview the line-up and save it on soundcheck.
+1/4 Escuro x Vault Sessions Second Shift at Ministerium Club on Sat 26 Sept, Lisbon. 4 artists on the bill: aalice, Client, John Wick and Salbany. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

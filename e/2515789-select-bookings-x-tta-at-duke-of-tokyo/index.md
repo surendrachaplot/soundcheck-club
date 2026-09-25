@@ -1,6 +1,6 @@
 # select bookings X TTA at Duke Of Tokyo
 
-select bookings X TTA at Duke Of Tokyo on Wed 21 Oct, Amsterdam. 4 acts on the bill: Chad Andrew, Just_Me, Saktu and SaPu. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+select bookings X TTA at Duke Of Tokyo on Wed 21 Oct, Amsterdam. 4 artists on the bill: Chad Andrew, Just_Me, Saktu and SaPu. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Techno Agency x O.S.M.W.S.T.A x T6E RESILIENCE at The Vault at Gianpula Village
 
-Techno Agency x O.S.M.W.S.T.A x T6E RESILIENCE at The Vault at Gianpula Village on Sat 10 Oct, Malta. 4 acts on the bill: DJ SIN, Marixia, Philip Ackowsky and Tino. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Techno Agency x O.S.M.W.S.T.A x T6E RESILIENCE at The Vault at Gianpula Village on Sat 10 Oct, Malta. 4 artists on the bill: DJ SIN, Marixia, Philip Ackowsky and Tino. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

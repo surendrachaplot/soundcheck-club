@@ -1,6 +1,6 @@
 # Dusty Vinyl Bar at Dusty Vinyl
 
-Dusty Vinyl Bar on Fri 9 Oct, Losangeles. House. Preview the line-up and save it on soundcheck.
+Dusty Vinyl Bar on Fri 9 Oct, Los Angeles. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Minashi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club Cheek, London on Sat, 31 Oct 2026.
 
-Minashi is a techno and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London. Often billed alongside Easily Pleased, elshazly and becks (2). Next up: Club Cheek, London on Sat 31 Oct.
+Minashi is a techno and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London. Often billed alongside Easily Pleased, elshazly and becks. Next up: Club Cheek, London on Sat 31 Oct.
 
 ## Upcoming shows
 

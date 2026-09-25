@@ -2,7 +2,7 @@
 
 Devoye is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Sat, 10 Oct 2026.
 
-Devoye is a techno and house artist based in United States of America, tracked on soundcheck, with 169 sets logged across Berlin, Boston, Detroit and Losangeles and 4 more. Often billed alongside Miss Parker, Rose Kourts and Shyboi. Next up: Signal, Newyorkcity on Sat 10 Oct.
+Devoye is a techno and house artist based in United States of America, tracked on soundcheck, with 169 sets logged across Berlin, Boston, Detroit and Los Angeles and 4 more. Often billed alongside Miss Parker, Rose Kourts and Shyboi. Next up: Signal, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 

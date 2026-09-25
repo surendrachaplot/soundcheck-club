@@ -1,6 +1,6 @@
 # 303 Rave x Vinka Wydro at Oddity Athens at Oddity Club
 
-303 Rave x Vinka Wydro at Oddity Athens at Oddity Club on Sat 10 Oct, Athens. 5 acts on the bill: Christian Cambas, Deherian, SCTR (2) and Tanison and 1 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+303 Rave x Vinka Wydro at Oddity Athens at Oddity Club on Sat 10 Oct, Athens. 5 artists on the bill: Christian Cambas, Deherian, SCTR and Tanison and 1 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

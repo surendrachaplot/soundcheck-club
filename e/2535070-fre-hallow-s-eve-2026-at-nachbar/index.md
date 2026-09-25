@@ -1,6 +1,6 @@
 # Freï: Hallow's Eve 2026 at nachbar
 
-Freï: Hallow's Eve 2026 at nachbar on Sat 31 Oct, Amsterdam. 4 acts on the bill: bebe bad, Introspekt, MALLAURY and Miley Serious. Techno and Bass. Preview the line-up and save it on soundcheck.
+Freï: Hallow's Eve 2026 at nachbar on Sat 31 Oct, Amsterdam. 4 artists on the bill: bebe bad, Introspekt, MALLAURY and Miley Serious. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

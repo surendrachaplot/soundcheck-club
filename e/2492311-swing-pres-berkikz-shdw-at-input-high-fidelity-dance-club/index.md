@@ -1,6 +1,6 @@
 # SWING pres ÜBERKIKZ & SHDW at INPUT High Fidelity Dance Club
 
-SWING pres ÜBERKIKZ & SHDW at INPUT High Fidelity Dance Club on Fri 2 Oct, Barcelona. 3 acts on the bill: Hades PRX, SHDW and ÜBERKIKZ. Techno. Preview the line-up and save it on soundcheck.
+SWING pres ÜBERKIKZ & SHDW at INPUT High Fidelity Dance Club on Fri 2 Oct, Barcelona. 3 artists on the bill: Hades PRX, SHDW and ÜBERKIKZ. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

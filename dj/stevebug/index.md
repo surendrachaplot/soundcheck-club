@@ -2,7 +2,7 @@
 
 Steve Bug is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Timber Loft, London on Sun, 11 Oct 2026.
 
-Steve Bug is a house and techno artist based in Germany, tracked on soundcheck, with 53 sets logged across All, Amsterdam, Auckland and Barcelona and 29 more. Often billed alongside Mathias Kaden, Steve Challier and miAs. Next up: The Timber Loft, London on Sun 11 Oct.
+Steve Bug is a house and techno artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Auckland, Austria and Barcelona and 29 more. Often billed alongside Mathias Kaden, Steve Challier and miAs. Next up: The Timber Loft, London on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,7 +12,7 @@ Steve Bug is a house and techno artist based in Germany, tracked on soundcheck, 
 | Sat, 24 Oct 2026 | Kaap Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 | Sat, 7 Nov 2026 | Silent Studios | Auckland |
-| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | All |
+| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played
 

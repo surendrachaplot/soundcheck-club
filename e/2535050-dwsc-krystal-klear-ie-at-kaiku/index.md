@@ -1,6 +1,6 @@
 # DWSC: Krystal Klear (IE) at Kaiku
 
-DWSC: Krystal Klear (IE) at Kaiku on Sat 26 Sept, Helsinki. 4 acts on the bill: DJ Aleksi, Krystal Klear, Maria Kata and Victoria. Preview the line-up and save it on soundcheck.
+DWSC: Krystal Klear (IE) at Kaiku on Sat 26 Sept, Helsinki. 4 artists on the bill: DJ Aleksi, Krystal Klear, Maria Kata and Victoria. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sundrift x Club Dabke pres. Dj Habibbeats + Chamos + Special K at Bella Vista Hotel
 
-Sundrift x Club Dabke pres. Dj Habibbeats + Chamos + Special K at Bella Vista Hotel on Sat 5 Dec, Sydney. 2 acts on the bill: Nadz and Special K (SY). House and Afro House. Preview the line-up and save it on soundcheck.
+Sundrift x Club Dabke pres. Dj Habibbeats + Chamos + Special K at Bella Vista Hotel on Sat 5 Dec, Sydney. 2 artists on the bill: Nadz and Special K (SY). House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

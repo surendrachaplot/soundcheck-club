@@ -1,6 +1,6 @@
 # GROOVI -CLUBLESS [free entry] at The B Side Berlin
 
-GROOVI -CLUBLESS [free entry] at The B Side Berlin on Wed 30 Sept, Berlin. 3 acts on the bill: Eleonor Bianchi, Linda shiro and UniKhatu. Techno. Preview the line-up and save it on soundcheck.
+GROOVI -CLUBLESS [free entry] at The B Side Berlin on Wed 30 Sept, Berlin. 3 artists on the bill: Eleonor Bianchi, Linda shiro and UniKhatu. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

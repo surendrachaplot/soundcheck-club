@@ -1,6 +1,6 @@
 # RE:TURN presents: Ornery X FREEGO X Zutri at Matrix Club Berlin (Techno Stage)
 
-RE:TURN presents: Ornery X FREEGO X Zutri at Matrix Club Berlin (Techno Stage) on Sat 26 Sept, Berlin. 3 acts on the bill: FREEGO, Ornery and Zutri. Techno and Electronica. Preview the line-up and save it on soundcheck.
+RE:TURN presents: Ornery X FREEGO X Zutri at Matrix Club Berlin (Techno Stage) on Sat 26 Sept, Berlin. 3 artists on the bill: FREEGO, Ornery and Zutri. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

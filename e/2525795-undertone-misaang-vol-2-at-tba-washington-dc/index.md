@@ -1,6 +1,6 @@
 # Undertone: MISAANG [미상] Vol. 2 at TBA - Washington DC 
 
-Undertone: MISAANG [미상] Vol. 2 at TBA - Washington DC  on Sat 26 Sept, Washingtondc. Trance and Techno. Preview the line-up and save it on soundcheck.
+Undertone: MISAANG [미상] Vol. 2 at TBA - Washington DC  on Sat 26 Sept, Washington DC. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

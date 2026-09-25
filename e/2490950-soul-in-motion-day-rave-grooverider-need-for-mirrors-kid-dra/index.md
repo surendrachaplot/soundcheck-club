@@ -1,6 +1,6 @@
 # Soul In Motion - Day Rave: Grooverider . Need For Mirrors . Kid Drama . Channell . Basic Rhythm at Phonox
 
-Soul In Motion - Day Rave: Grooverider . Need For Mirrors . Kid Drama . Channell . Basic Rhythm at Phonox on Sat 3 Oct, London. 7 acts on the bill: Basic Rhythm, Channell, Grooverider and Kid Drama and 3 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Soul In Motion - Day Rave: Grooverider . Need For Mirrors . Kid Drama . Channell . Basic Rhythm at Phonox on Sat 3 Oct, London. 7 artists on the bill: Basic Rhythm, Channell, Grooverider and Kid Drama and 3 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

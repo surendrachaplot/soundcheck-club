@@ -1,6 +1,6 @@
 # The One Glove Weekender with Macca & Sofie K at Night Tales Loft
 
-The One Glove Weekender with Macca & Sofie K at Night Tales Loft on Sat 24 Oct, London. 2 acts on the bill: Macca. and Sofie K. Preview the line-up and save it on soundcheck.
+The One Glove Weekender with Macca & Sofie K at Night Tales Loft on Sat 24 Oct, London. 2 artists on the bill: Macca. and Sofie K. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

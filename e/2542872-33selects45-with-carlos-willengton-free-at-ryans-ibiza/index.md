@@ -1,6 +1,6 @@
 # 33SELECTS45 with Carlos Willengton / FREE at Ryans Ibiza
 
-33SELECTS45 with Carlos Willengton / FREE at Ryans Ibiza on Thu 8 Oct, Ibiza. 1 act on the bill: Carlos Willengton. House. Preview the line-up and save it on soundcheck.
+33SELECTS45 with Carlos Willengton / FREE at Ryans Ibiza on Thu 8 Oct, Ibiza. 1 artist on the bill: Carlos Willengton. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jackies Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum
 
-Jackies Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum on Sat 31 Oct, Barcelona. 6 acts on the bill: Claptone, Matisa, Mr. Belt & Wezol and Paul Reynolds and 2 more. Hardcore. Preview the line-up and save it on soundcheck.
+Jackies Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum on Sat 31 Oct, Barcelona. 6 artists on the bill: Claptone, Matisa, Mr. Belt & Wezol and Paul Reynolds and 2 more. Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

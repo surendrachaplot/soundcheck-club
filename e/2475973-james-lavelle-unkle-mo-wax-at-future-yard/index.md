@@ -1,6 +1,6 @@
 # James Lavelle (UNKLE/MO'WAX) at Future Yard
 
-James Lavelle (UNKLE/MO'WAX) at Future Yard on Sat 3 Oct, Liverpool. 2 acts on the bill: James Lavelle and UNKLE. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+James Lavelle (UNKLE/MO'WAX) at Future Yard on Sat 3 Oct, Liverpool. 2 artists on the bill: James Lavelle and UNKLE. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

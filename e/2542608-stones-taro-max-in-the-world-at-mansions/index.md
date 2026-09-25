@@ -1,6 +1,6 @@
 # Stones Taro & Max In The World at Mansions
 
-Stones Taro & Max In The World at Mansions on Thu 24 Sept, Newyorkcity. 2 acts on the bill: Max In The World and Stones Taro. Techno and House. Preview the line-up and save it on soundcheck.
+Stones Taro & Max In The World at Mansions on Thu 24 Sept, New York City. 2 artists on the bill: Max In The World and Stones Taro. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

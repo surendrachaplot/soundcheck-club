@@ -1,6 +1,6 @@
 # SKIN CALIENTE: Groovemami + PUTAGATALSOL + Raner Baumgartner at Skin Club
 
-SKIN CALIENTE: Groovemami + PUTAGATALSOL + Raner Baumgartner at Skin Club on Sat 26 Sept, Madrid. 2 acts on the bill: Groovemami and Raner Baumgartner. Preview the line-up and save it on soundcheck.
+SKIN CALIENTE: Groovemami + PUTAGATALSOL + Raner Baumgartner at Skin Club on Sat 26 Sept, Madrid. 2 artists on the bill: Groovemami and Raner Baumgartner. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

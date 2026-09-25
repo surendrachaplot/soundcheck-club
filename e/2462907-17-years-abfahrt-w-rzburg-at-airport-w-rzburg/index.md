@@ -1,6 +1,6 @@
 # 17 YEARS ABFAHRT WÜRZBURG at Airport Würzburg
 
-17 YEARS ABFAHRT WÜRZBURG at Airport Würzburg on Sat 19 Dec, Nurnberg. Techno. Preview the line-up and save it on soundcheck.
+17 YEARS ABFAHRT WÜRZBURG at Airport Würzburg on Sat 19 Dec, Nürnberg. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

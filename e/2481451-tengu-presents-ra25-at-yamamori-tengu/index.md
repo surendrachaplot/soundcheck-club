@@ -1,6 +1,6 @@
 # Tengu presents: RA25 at Yamamori Tengu
 
-Tengu presents: RA25 at Yamamori Tengu on Sat 7 Nov, Dublin. 5 acts on the bill: Batu, livwutang, Loidis and Martyn and 1 more. Preview the line-up and save it on soundcheck.
+Tengu presents: RA25 at Yamamori Tengu on Sat 7 Nov, Dublin. 5 artists on the bill: Batu, livwutang, Loidis and Martyn and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Black Coffee at Hï Ibiza
 
-Black Coffee at Hï Ibiza on Sat 26 Sept, Ibiza. 4 acts on the bill: AMÉMÉ, Black Coffee, DJ EZ and Marco Carola. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Black Coffee at Hï Ibiza on Sat 26 Sept, Ibiza. 4 artists on the bill: AMÉMÉ, Black Coffee, DJ EZ and Marco Carola. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Disco Express: Rome at Alcazar Live
 
-The Disco Express: Rome at Alcazar Live on Fri 13 Nov, Rome. 2 acts on the bill: Bustin' Loose and Lela Xein. House and Disco. Preview the line-up and save it on soundcheck.
+The Disco Express: Rome at Alcazar Live on Fri 13 Nov, Rome. 2 artists on the bill: Bustin' Loose and Lela Xein. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

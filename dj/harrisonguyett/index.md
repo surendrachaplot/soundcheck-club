@@ -1,14 +1,14 @@
 # harrison guyett
 
-harrison guyett is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, All on Fri, 27 Nov 2026.
+harrison guyett is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Tunisia on Fri, 27 Nov 2026.
 
-harrison guyett is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across All, Liverpool, London and Manchester. Often billed alongside Kian OK, Nina Yamada and Apiento. Next up: TBA, All on Fri 27 Nov.
+harrison guyett is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Liverpool, London, Manchester and Tunisia. Often billed alongside Kian OK, Nina Yamada and Apiento. Next up: TBA, Tunisia on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TBA | All |
+| Fri, 27 Nov 2026 | TBA | Tunisia |
 
 ## Recently played
 

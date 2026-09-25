@@ -1,6 +1,6 @@
 # Machine Soul (Live Techno) at BPM Cafe
 
-Machine Soul (Live Techno) at BPM Cafe on Fri 6 Nov, Birmingham. 1 act on the bill: Spryt Electra. Techno. Preview the line-up and save it on soundcheck.
+Machine Soul (Live Techno) at BPM Cafe on Fri 6 Nov, Birmingham. 1 artist on the bill: Spryt Electra. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VOID - SANTA TECHNO - free entry till 1:00 with RSVP at Main Club
 
-VOID - SANTA TECHNO - free entry till 1:00 with RSVP at Main Club on Thu 24 Sept, Milan. 3 acts on the bill: Andrea Isella, HydraTek and Richey V. Techno and Electronica. Preview the line-up and save it on soundcheck.
+VOID - SANTA TECHNO - free entry till 1:00 with RSVP at Main Club on Thu 24 Sept, Milan. 3 artists on the bill: Andrea Isella, HydraTek and Richey V. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

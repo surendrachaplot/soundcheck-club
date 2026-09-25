@@ -1,6 +1,6 @@
 # ddr.10 Weekender at Flux Studios D2
 
-ddr.10 Weekender at Flux Studios D2 on Sat 31 Oct, Dublin. 7 acts on the bill: Chord Memory, don rosco, Donal Dineen and Kate Butler and 3 more. Experimental and Club. Preview the line-up and save it on soundcheck.
+ddr.10 Weekender at Flux Studios D2 on Sat 31 Oct, Dublin. 7 artists on the bill: Chord Memory, don rosco, Donal Dineen and Kate Butler and 3 more. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

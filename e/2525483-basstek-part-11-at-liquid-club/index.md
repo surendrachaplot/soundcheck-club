@@ -1,6 +1,6 @@
 # BASSTEK - PART 11 at Liquid Club
 
-BASSTEK - PART 11 at Liquid Club on Fri 9 Oct, Malta. 4 acts on the bill: Billy Hills, DJ Bax, Thibo Verbeke and Unicorn on Ketamine. Techno and Gabber. Preview the line-up and save it on soundcheck.
+BASSTEK - PART 11 at Liquid Club on Fri 9 Oct, Malta. 4 artists on the bill: Billy Hills, DJ Bax, Thibo Verbeke and Unicorn on Ketamine. Techno and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

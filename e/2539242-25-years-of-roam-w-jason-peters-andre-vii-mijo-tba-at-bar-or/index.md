@@ -1,6 +1,6 @@
 # 25 Years of Roam w/Jason Peters, Andre VII, Mijo, TBA at Bar Oriente
 
-25 Years of Roam w/Jason Peters, Andre VII, Mijo, TBA at Bar Oriente on Fri 13 Nov, Mexicocity. 3 acts on the bill: Andre VII, Jason Peters and Mijo. Acid and Italo Disco. Preview the line-up and save it on soundcheck.
+25 Years of Roam w/Jason Peters, Andre VII, Mijo, TBA at Bar Oriente on Fri 13 Nov, Mexico City. 3 artists on the bill: Andre VII, Jason Peters and Mijo. Acid and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

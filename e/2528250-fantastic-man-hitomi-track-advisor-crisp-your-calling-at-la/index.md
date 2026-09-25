@@ -1,6 +1,6 @@
 # Fantastic Man, Hitomi, Track Advisor & Crisp: Your Calling at La Java
 
-Fantastic Man, Hitomi, Track Advisor & Crisp: Your Calling at La Java on Sat 26 Sept, Paris. 3 acts on the bill: Fantastic Man, Hitomi (DE) and Track Advisor. House and Electro. Preview the line-up and save it on soundcheck.
+Fantastic Man, Hitomi, Track Advisor & Crisp: Your Calling at La Java on Sat 26 Sept, Paris. 3 artists on the bill: Fantastic Man, Hitomi (DE) and Track Advisor. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

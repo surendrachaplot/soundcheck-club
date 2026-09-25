@@ -1,6 +1,6 @@
 # Love is the answer...presents BEN PARK at Stage & Radio [FREE RAVE] at Stage and Radio
 
-Love is the answer...presents BEN PARK at Stage & Radio [FREE RAVE] at Stage and Radio on Fri 16 Oct, Manchester. 1 act on the bill: j:me. House and Tech House. Preview the line-up and save it on soundcheck.
+Love is the answer...presents BEN PARK at Stage & Radio [FREE RAVE] at Stage and Radio on Fri 16 Oct, Manchester. 1 artist on the bill: j:me. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

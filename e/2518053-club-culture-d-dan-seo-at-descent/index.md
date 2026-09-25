@@ -1,6 +1,6 @@
 # Club Culture: D.Dan & Seo at Descent
 
-Club Culture: D.Dan & Seo at Descent on Fri 4 Dec, Boston. 2 acts on the bill: D.Dan and Seo (US). Techno. Preview the line-up and save it on soundcheck.
+Club Culture: D.Dan & Seo at Descent on Fri 4 Dec, Boston. 2 artists on the bill: D.Dan and Seo (US). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

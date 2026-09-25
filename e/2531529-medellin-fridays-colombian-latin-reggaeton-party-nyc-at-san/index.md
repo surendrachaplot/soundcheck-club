@@ -1,6 +1,6 @@
 # Medellin Fridays - Colombian Latin & Reggaeton Party NYC at San Antonios
 
-Medellin Fridays - Colombian Latin & Reggaeton Party NYC at San Antonios on Fri 20 Nov, Newyorkcity. Reggaeton. Preview the line-up and save it on soundcheck.
+Medellin Fridays - Colombian Latin & Reggaeton Party NYC at San Antonios on Fri 20 Nov, New York City. Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

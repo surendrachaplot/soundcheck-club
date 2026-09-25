@@ -1,6 +1,6 @@
 # Home & Abroad at The Sultan Room
 
-Home & Abroad at The Sultan Room on Sat 3 Oct, Newyorkcity. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
+Home & Abroad at The Sultan Room on Sat 3 Oct, New York City. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

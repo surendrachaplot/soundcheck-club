@@ -1,6 +1,6 @@
 # Oriental Nights & Elemental Remembrance - A Sun & Earth Experience with Organic Electronic Music at Sensorium
 
-Oriental Nights & Elemental Remembrance - A Sun & Earth Experience with Organic Electronic Music at Sensorium on Sat 26 Sept, Berlin. 4 acts on the bill: Abdallah and I, Andeel, Jemski. and Lara Elfara. Downtempo and Psytrance. Preview the line-up and save it on soundcheck.
+Oriental Nights & Elemental Remembrance - A Sun & Earth Experience with Organic Electronic Music at Sensorium on Sat 26 Sept, Berlin. 4 artists on the bill: Abdallah and I, Andeel, Jemski. and Lara Elfara. Downtempo and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

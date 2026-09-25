@@ -1,6 +1,6 @@
 # 14 YEARS OF TOLDI at Toldi Klub
 
-14 YEARS OF TOLDI at Toldi Klub on Fri 25 Sept, Budapest. 6 acts on the bill: Kin Teal, KOBANYA3000, Maron and Mirmur and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+14 YEARS OF TOLDI at Toldi Klub on Fri 25 Sept, Budapest. 6 artists on the bill: Kin Teal, KOBANYA3000, Maron and Mirmur and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

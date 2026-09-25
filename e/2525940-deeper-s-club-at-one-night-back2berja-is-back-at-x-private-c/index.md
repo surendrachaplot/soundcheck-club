@@ -1,6 +1,6 @@
 # Deeper's Club at ONE NIGHT. BACK2BERJA IS BACK at X Private Club
 
-Deeper's Club at ONE NIGHT. BACK2BERJA IS BACK at X Private Club on Sat 10 Oct, Madrid. 2 acts on the bill: Mario Mendoza and Vico Deep. Techno and House. Preview the line-up and save it on soundcheck.
+Deeper's Club at ONE NIGHT. BACK2BERJA IS BACK at X Private Club on Sat 10 Oct, Madrid. 2 artists on the bill: Mario Mendoza and Vico Deep. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

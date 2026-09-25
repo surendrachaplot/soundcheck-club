@@ -1,6 +1,6 @@
 # Kiosk Radio x The Lot Radio x Doka Studio [ADE] at Doka
 
-Kiosk Radio x The Lot Radio x Doka Studio [ADE] on Sat 24 Oct, Amsterdam. 4 acts on the bill: babyschön, livwutang, Lloydski and Orpheu The Wizard. Techno and House. Preview the line-up and save it on soundcheck.
+Kiosk Radio x The Lot Radio x Doka Studio [ADE] on Sat 24 Oct, Amsterdam. 4 artists on the bill: babyschön, livwutang, Lloydski and Orpheu The Wizard. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

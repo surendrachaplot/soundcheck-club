@@ -1,6 +1,6 @@
 # THIS. presents: Yesca at A L P H A B E T
 
-THIS. presents: Yesca at A L P H A B E T on Sat 17 Oct, Brighton. 1 act on the bill: Yesca. Techno and House. Preview the line-up and save it on soundcheck.
+THIS. presents: Yesca at A L P H A B E T on Sat 17 Oct, Brighton. 1 artist on the bill: Yesca. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

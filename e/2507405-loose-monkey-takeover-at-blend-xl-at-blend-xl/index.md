@@ -1,6 +1,6 @@
 # LOOSE MONKEY TAKEOVER AT Blend XL at Blend XL
 
-LOOSE MONKEY TAKEOVER AT Blend XL on Fri 23 Oct, Amsterdam. 5 acts on the bill: Camilo Do Santos, LOUDER BROS. DEPARTMENT, MR. SKIN and Toti Coco and 1 more. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+LOOSE MONKEY TAKEOVER AT Blend XL on Fri 23 Oct, Amsterdam. 5 artists on the bill: Camilo Do Santos, LOUDER BROS. DEPARTMENT, MR. SKIN and Toti Coco and 1 more. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

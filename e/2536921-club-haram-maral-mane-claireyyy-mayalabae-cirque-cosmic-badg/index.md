@@ -1,6 +1,6 @@
 # Club Haram: Maral Mane, Claireyyy, mayalabae, Cirque Cosmic, Badgalquirit at Bar Datcha
 
-Club Haram: Maral Mane, Claireyyy, mayalabae, Cirque Cosmic, Badgalquirit at Bar Datcha on Sat 10 Oct, Montreal. 5 acts on the bill: Badgalquirit, Cirque Cosmic, Claireyy and Maral Mane and 1 more. Preview the line-up and save it on soundcheck.
+Club Haram: Maral Mane, Claireyyy, mayalabae, Cirque Cosmic, Badgalquirit at Bar Datcha on Sat 10 Oct, Montreal. 5 artists on the bill: Badgalquirit, Cirque Cosmic, Claireyy and Maral Mane and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

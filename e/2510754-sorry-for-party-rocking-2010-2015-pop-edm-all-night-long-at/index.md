@@ -1,6 +1,6 @@
 # SORRY FOR PARTY ROCKING (2010-2015 Pop & EDM All Night Long!) at Union Stage
 
-SORRY FOR PARTY ROCKING (2010-2015 Pop & EDM All Night Long!) at Union Stage on Fri 25 Sept, Washingtondc. Preview the line-up and save it on soundcheck.
+SORRY FOR PARTY ROCKING (2010-2015 Pop & EDM All Night Long!) at Union Stage on Fri 25 Sept, Washington DC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

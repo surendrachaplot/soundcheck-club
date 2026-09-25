@@ -1,6 +1,6 @@
 # The Many Directions of Herbie Hancock with Marcus J. Moore at Silence Please
 
-The Many Directions of Herbie Hancock with Marcus J. Moore at Silence Please on Fri 9 Oct, Newyorkcity. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+The Many Directions of Herbie Hancock with Marcus J. Moore at Silence Please on Fri 9 Oct, New York City. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

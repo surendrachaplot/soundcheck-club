@@ -1,6 +1,6 @@
 # Funk Tribu at Gate Milano
 
-Funk Tribu at Gate Milano on Fri 13 Nov, Milan. 3 acts on the bill: Funk Tribu, GLADJEE and RESA UTOPICA. Preview the line-up and save it on soundcheck.
+Funk Tribu at Gate Milano on Fri 13 Nov, Milan. 3 artists on the bill: Funk Tribu, GLADJEE and RESA UTOPICA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

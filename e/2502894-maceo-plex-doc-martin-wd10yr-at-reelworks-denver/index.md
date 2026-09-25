@@ -1,6 +1,6 @@
 # Maceo Plex, Doc Martin - WD10YR at Reelworks Denver
 
-Maceo Plex, Doc Martin - WD10YR at Reelworks Denver on Fri 9 Oct, Denver. 2 acts on the bill: Doc Martin and Maceo Plex. Preview the line-up and save it on soundcheck.
+Maceo Plex, Doc Martin - WD10YR at Reelworks Denver on Fri 9 Oct, Denver. 2 artists on the bill: Doc Martin and Maceo Plex. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Eptic at SILO
 
-Eptic at SILO on Fri 20 Nov, Newyorkcity. 1 act on the bill: Eptic. Dubstep. Preview the line-up and save it on soundcheck.
+Eptic at SILO on Fri 20 Nov, New York City. 1 artist on the bill: Eptic. Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

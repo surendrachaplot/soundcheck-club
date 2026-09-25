@@ -1,6 +1,6 @@
 # SHINE -- Takuya Nakamura at The Limelight
 
-SHINE -- Takuya Nakamura at The Limelight on Fri 30 Oct, Belfast. 2 acts on the bill: Crilli DNB and Takuya Nakamura. Preview the line-up and save it on soundcheck.
+SHINE -- Takuya Nakamura at The Limelight on Fri 30 Oct, Belfast. 2 artists on the bill: Crilli DNB and Takuya Nakamura. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # High Fade presents 'Twice As Nice' London at UNLOCKED
 
-High Fade presents 'Twice As Nice' London at UNLOCKED on Sat 3 Oct, London. 1 act on the bill: High Fade. Preview the line-up and save it on soundcheck.
+High Fade presents 'Twice As Nice' London at UNLOCKED on Sat 3 Oct, London. 1 artist on the bill: High Fade. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

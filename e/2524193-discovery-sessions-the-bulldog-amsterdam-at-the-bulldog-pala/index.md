@@ -1,6 +1,6 @@
 # Discovery Sessions: The Bulldog Amsterdam at The Bulldog Palace
 
-Discovery Sessions: The Bulldog Amsterdam at The Bulldog Palace on Thu 22 Oct, Amsterdam. 7 acts on the bill: Ben Kim, Danny Snowden, DXNBY and Goosey and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Discovery Sessions: The Bulldog Amsterdam at The Bulldog Palace on Thu 22 Oct, Amsterdam. 7 artists on the bill: Ben Kim, Danny Snowden, DXNBY and Goosey and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

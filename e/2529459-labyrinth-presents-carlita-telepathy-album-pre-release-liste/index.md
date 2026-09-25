@@ -1,6 +1,6 @@
 # Labyrinth presents: Carlita TELEPATHY Album Pre-release Listening Party at UNLOCKED
 
-Labyrinth presents: Carlita TELEPATHY Album Pre-release Listening Party at UNLOCKED on Fri 16 Oct, London. 1 act on the bill: Carlita. Tech House and Electronica. Preview the line-up and save it on soundcheck.
+Labyrinth presents: Carlita TELEPATHY Album Pre-release Listening Party at UNLOCKED on Fri 16 Oct, London. 1 artist on the bill: Carlita. Tech House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

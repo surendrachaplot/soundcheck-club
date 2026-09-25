@@ -1,6 +1,6 @@
 # Yung Sing + RIRIA at Quarters
 
-Yung Sing + RIRIA at Quarters on Fri 13 Nov, Brighton. 2 acts on the bill: RIRIA and Yung Singh. Preview the line-up and save it on soundcheck.
+Yung Sing + RIRIA at Quarters on Fri 13 Nov, Brighton. 2 artists on the bill: RIRIA and Yung Singh. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

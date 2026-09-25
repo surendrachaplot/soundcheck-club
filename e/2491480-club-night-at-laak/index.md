@@ -1,6 +1,6 @@
 # Club Night at Laak
 
-Club Night at Laak on Sat 5 Dec, Thehague. Preview the line-up and save it on soundcheck.
+Club Night at Laak on Sat 5 Dec, The Hague. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Halloween Party at Jardin Hospice
 
-Halloween Party at Jardin Hospice on Sat 31 Oct, Brussels. 2 acts on the bill: Don Cabron and RELO4D. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Halloween Party at Jardin Hospice on Sat 31 Oct, Brussels. 2 artists on the bill: Don Cabron and RELO4D. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

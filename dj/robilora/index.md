@@ -2,14 +2,14 @@
 
 Robi Lora is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Smolna, Warsaw on Sat, 26 Sept 2026.
 
-Robi Lora is a house and tech house artist based in Poland, tracked on soundcheck, with 19 sets logged across All, Krakow, London and Warsaw. Often billed alongside Mabu, HANICZ and KEVS. Next up: Smolna, Warsaw on Sat 26 Sept.
+Robi Lora is a house and tech house artist based in Poland, tracked on soundcheck, with 19 sets logged across Krakow, London, Poland and Warsaw. Often billed alongside Mabu, HANICZ and KEVS. Next up: Smolna, Warsaw on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Smolna | Warsaw |
-| Sat, 3 Oct 2026 | Jazzclub Hipoza | All |
+| Sat, 3 Oct 2026 | Jazzclub Hipoza | Poland |
 
 ## Recently played
 

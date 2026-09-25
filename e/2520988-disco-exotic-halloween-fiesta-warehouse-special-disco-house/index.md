@@ -1,6 +1,6 @@
 # Disco Exotic HALLOWEEN FIESTA - Warehouse Special (Disco, House + World Boogie) with Grace Sands at Unit 58
 
-Disco Exotic HALLOWEEN FIESTA - Warehouse Special (Disco, House + World Boogie) with Grace Sands at Unit 58 on Sat 31 Oct, London. 6 acts on the bill: Al Gray, boogielou, Grace Sands and Pempsey and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
+Disco Exotic HALLOWEEN FIESTA - Warehouse Special (Disco, House + World Boogie) with Grace Sands at Unit 58 on Sat 31 Oct, London. 6 artists on the bill: Al Gray, boogielou, Grace Sands and Pempsey and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

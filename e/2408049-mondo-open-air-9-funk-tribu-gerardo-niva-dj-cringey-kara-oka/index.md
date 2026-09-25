@@ -1,6 +1,6 @@
 # Mondo OPEN AIR #9: Funk Tribu / Gerardo Niva / DJ Cringey / Kara Okay / Freddi at Mondo Open Air
 
-Mondo OPEN AIR #9: Funk Tribu / Gerardo Niva / DJ Cringey / Kara Okay / Freddi at Mondo Open Air on Sat 26 Sept, Madrid. 5 acts on the bill: DJ Cringey, Freddi, Funk Tribu and Gerardo Niva and 1 more. Preview the line-up and save it on soundcheck.
+Mondo OPEN AIR #9: Funk Tribu / Gerardo Niva / DJ Cringey / Kara Okay / Freddi at Mondo Open Air on Sat 26 Sept, Madrid. 5 artists on the bill: DJ Cringey, Freddi, Funk Tribu and Gerardo Niva and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

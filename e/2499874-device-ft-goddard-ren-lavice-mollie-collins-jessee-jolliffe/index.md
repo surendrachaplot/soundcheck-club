@@ -1,6 +1,6 @@
 # DeVice ft goddard. René LaVice, Mollie Collins, Jessee, Jolliffe, DREAD MC at Onyx (E1)
 
-DeVice ft goddard. René LaVice, Mollie Collins, Jessee, Jolliffe, DREAD MC at Onyx (E1) on Sat 14 Nov, London. 8 acts on the bill: DREAD MC, goddard., Jessee and Jolliffe and 4 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+DeVice ft goddard. René LaVice, Mollie Collins, Jessee, Jolliffe, DREAD MC at Onyx (E1) on Sat 14 Nov, London. 8 artists on the bill: DREAD MC, goddard., Jessee and Jolliffe and 4 more. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

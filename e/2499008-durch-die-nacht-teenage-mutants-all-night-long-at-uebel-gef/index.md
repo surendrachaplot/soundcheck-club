@@ -1,6 +1,6 @@
 # DURCH DIE NACHT — Teenage Mutants ALL NIGHT LONG at Uebel & Gefährlich
 
-DURCH DIE NACHT — Teenage Mutants ALL NIGHT LONG at Uebel & Gefährlich on Sat 21 Nov, Hamburg. 3 acts on the bill: Lanka, Sophie Cut and Teenage Mutants. Trance and Techno. Preview the line-up and save it on soundcheck.
+DURCH DIE NACHT — Teenage Mutants ALL NIGHT LONG at Uebel & Gefährlich on Sat 21 Nov, Hamburg. 3 artists on the bill: Lanka, Sophie Cut and Teenage Mutants. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

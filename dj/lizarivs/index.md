@@ -2,7 +2,7 @@
 
 Liza Rivs is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at KHIDI, Tbilisi on Fri, 25 Sept 2026.
 
-Liza Rivs is a techno and experimental artist based in Georgia, tracked on soundcheck, with 62 sets logged across Berlin, London, Losangeles and Lyon and 8 more. Often billed alongside Boyd Schidt, Frequency Shifter and Puritan. Next up: KHIDI, Tbilisi on Fri 25 Sept.
+Liza Rivs is a techno and experimental artist based in Georgia, tracked on soundcheck, with 62 sets logged across Berlin, London, Los Angeles and Lyon and 8 more. Often billed alongside Boyd Schidt, Frequency Shifter and Puritan. Next up: KHIDI, Tbilisi on Fri 25 Sept.
 
 ## Upcoming shows
 

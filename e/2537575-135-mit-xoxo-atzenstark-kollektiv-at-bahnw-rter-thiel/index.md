@@ -1,6 +1,6 @@
 # 135+ mit XOXO & Atzenstark Kollektiv at Bahnwärter Thiel
 
-135+ mit XOXO & Atzenstark Kollektiv at Bahnwärter Thiel on Thu 1 Oct, Munich. 1 act on the bill: Atzlina. Preview the line-up and save it on soundcheck.
+135+ mit XOXO & Atzenstark Kollektiv at Bahnwärter Thiel on Thu 1 Oct, Munich. 1 artist on the bill: Atzlina. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

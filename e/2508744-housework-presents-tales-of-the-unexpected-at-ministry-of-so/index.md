@@ -1,6 +1,6 @@
 # Housework presents Tales of the Unexpected at Ministry Of Sound
 
-Housework presents Tales of the Unexpected at Ministry Of Sound on Sat 10 Oct, London. 5 acts on the bill: Jonathan Ulysses, Lizzie Curious, Pagano and Rob Tissera and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Housework presents Tales of the Unexpected at Ministry Of Sound on Sat 10 Oct, London. 5 artists on the bill: Jonathan Ulysses, Lizzie Curious, Pagano and Rob Tissera and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

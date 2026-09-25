@@ -1,6 +1,6 @@
 # Early Doors Club 18 at The Cut
 
-Early Doors Club 18 at The Cut on Sat 24 Oct, Newcastle. 1 act on the bill: Danny Jarvis. Preview the line-up and save it on soundcheck.
+Early Doors Club 18 at The Cut on Sat 24 Oct, Newcastle. 1 artist on the bill: Danny Jarvis. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

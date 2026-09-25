@@ -2,7 +2,7 @@
 
 Frank & Tony is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at public records, New York City on Sun, 11 Oct 2026.
 
-Frank & Tony are a deep house and house duo based in United States of America, tracked on soundcheck, with 42 sets logged across Boston, Detroit, Losangeles and Miami and 4 more. Often billed alongside DJ Sprinkles, Donis and Ge-ology. Next up: public records, Newyorkcity on Sun 11 Oct.
+Frank & Tony are a deep house and house duo based in United States of America, tracked on soundcheck, with 42 sets logged across Boston, Detroit, Los Angeles and Miami and 4 more. Often billed alongside DJ Sprinkles, Donis and Ge-ology. Next up: public records, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 

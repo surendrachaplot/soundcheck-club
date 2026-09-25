@@ -1,6 +1,6 @@
 # renae: Sticky Heat at renae
 
-renae: Sticky Heat on Sat 26 Sept, Manchester. 2 acts on the bill: Chris Massey and Muddy Feet. Preview the line-up and save it on soundcheck.
+renae: Sticky Heat on Sat 26 Sept, Manchester. 2 artists on the bill: Chris Massey and Muddy Feet. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

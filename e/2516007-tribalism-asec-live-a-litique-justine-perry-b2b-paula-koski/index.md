@@ -1,6 +1,6 @@
 # tribalism - ASEC Live, A.Litique, Justine Perry b2b Paula Koski at essaim
 
-tribalism - ASEC Live, A.Litique, Justine Perry b2b Paula Koski at essaim on Fri 6 Nov, Paris. 4 acts on the bill: A.Litique, ASEC, Justine Perry and Paula Koski. Techno. Preview the line-up and save it on soundcheck.
+tribalism - ASEC Live, A.Litique, Justine Perry b2b Paula Koski at essaim on Fri 6 Nov, Paris. 4 artists on the bill: A.Litique, ASEC, Justine Perry and Paula Koski. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

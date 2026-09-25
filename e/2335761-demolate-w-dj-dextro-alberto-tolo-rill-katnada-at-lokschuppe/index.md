@@ -1,6 +1,6 @@
 # DEMOLATE w./ DJ Dextro, Alberto Tolo, Rill, Katnada at Lokschuppen Berlin
 
-DEMOLATE w./ DJ Dextro, Alberto Tolo, Rill, Katnada at Lokschuppen Berlin on Fri 9 Oct, Berlin. 8 acts on the bill: Alberto Tolo, Artifex (DE), DJ Dextro and Gloria Rose and 4 more. Techno. Preview the line-up and save it on soundcheck.
+DEMOLATE w./ DJ Dextro, Alberto Tolo, Rill, Katnada at Lokschuppen Berlin on Fri 9 Oct, Berlin. 8 artists on the bill: Alberto Tolo, Artifex (DE), DJ Dextro and Gloria Rose and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

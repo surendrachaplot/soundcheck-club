@@ -1,6 +1,6 @@
 # Cut Copy [DJ Set] at Night We Met
 
-Cut Copy [DJ Set] at Night We Met on Thu 12 Nov, Nashville. 1 act on the bill: Cut Copy. House and Pop. Preview the line-up and save it on soundcheck.
+Cut Copy [DJ Set] at Night We Met on Thu 12 Nov, Nashville. 1 artist on the bill: Cut Copy. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

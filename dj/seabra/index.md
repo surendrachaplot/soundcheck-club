@@ -2,7 +2,7 @@
 
 Seabra is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Plantation, Paris on Fri, 2 Oct 2026.
 
-Seabra is a house and pop artist based in France, tracked on soundcheck, with 9 sets logged across Paris and Saopaulo. Often billed alongside Blinkduus Dischetto (2), Von Riu and Amine S. Next up: Plantation, Paris on Fri 2 Oct.
+Seabra is a house and pop artist based in France, tracked on soundcheck, with 9 sets logged across Paris and Sao Paulo. Often billed alongside Blinkduus Dischetto, Von Riu and Amine S. Next up: Plantation, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 

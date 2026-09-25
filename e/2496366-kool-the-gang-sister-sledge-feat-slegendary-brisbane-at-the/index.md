@@ -1,6 +1,6 @@
 # Kool & The Gang + Sister Sledge feat. Slegendary [Brisbane] at The Fortitude Music Hall
 
-Kool & The Gang + Sister Sledge feat. Slegendary [Brisbane] at The Fortitude Music Hall on Thu 26 Nov, Brisbane. 1 act on the bill: Sampology. Preview the line-up and save it on soundcheck.
+Kool & The Gang + Sister Sledge feat. Slegendary [Brisbane] at The Fortitude Music Hall on Thu 26 Nov, Brisbane. 1 artist on the bill: Sampology. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

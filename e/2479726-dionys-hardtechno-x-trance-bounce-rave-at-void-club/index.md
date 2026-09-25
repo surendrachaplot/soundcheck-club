@@ -1,6 +1,6 @@
 # Dionys: Hardtechno x Trance/Bounce Rave at Void Club
 
-Dionys: Hardtechno x Trance/Bounce Rave at Void Club on Sat 12 Dec, Berlin. 1 act on the bill: Brizze. Trance and Techno. Preview the line-up and save it on soundcheck.
+Dionys: Hardtechno x Trance/Bounce Rave at Void Club on Sat 12 Dec, Berlin. 1 artist on the bill: Brizze. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

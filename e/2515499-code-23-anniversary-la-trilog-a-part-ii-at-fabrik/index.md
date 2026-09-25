@@ -1,6 +1,6 @@
 # CODE 23 Anniversary: La Trilogía [Part II] at Fabrik
 
-CODE 23 Anniversary: La Trilogía [Part II] at Fabrik on Sat 14 Nov, Madrid. 25 acts on the bill: Alienata, BIIA, BLANKA and Boris S. and 21 more. Techno. Preview the line-up and save it on soundcheck.
+CODE 23 Anniversary: La Trilogía [Part II] at Fabrik on Sat 14 Nov, Madrid. 25 artists on the bill: Alienata, BIIA, BLANKA and Boris S. and 21 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

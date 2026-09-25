@@ -1,6 +1,6 @@
 # X Season: Undercatt at Apophis Club
 
-X Season: Undercatt at Apophis Club on Sat 17 Oct, Milan. 2 acts on the bill: Aurory and Undercatt. Techno and Electronica. Preview the line-up and save it on soundcheck.
+X Season: Undercatt at Apophis Club on Sat 17 Oct, Milan. 2 artists on the bill: Aurory and Undercatt. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

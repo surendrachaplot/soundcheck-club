@@ -1,6 +1,6 @@
 # RUSH - Cari Lekebusch 90's hybrid set at The Art School
 
-RUSH - Cari Lekebusch 90's hybrid set at The Art School on Fri 2 Oct, Glasgow. 2 acts on the bill: Bash Man and Cari Lekebusch. Techno and Acid. Preview the line-up and save it on soundcheck.
+RUSH - Cari Lekebusch 90's hybrid set at The Art School on Fri 2 Oct, Glasgow. 2 artists on the bill: Bash Man and Cari Lekebusch. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

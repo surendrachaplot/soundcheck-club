@@ -1,6 +1,6 @@
 # MONOLITH 004: RELOADED at Geary Avenue Warehouse Project
 
-MONOLITH 004: RELOADED at Geary Avenue Warehouse Project on Fri 6 Nov, Toronto. 1 act on the bill: ANTON BASHKOV. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+MONOLITH 004: RELOADED at Geary Avenue Warehouse Project on Fri 6 Nov, Toronto. 1 artist on the bill: ANTON BASHKOV. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

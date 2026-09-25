@@ -1,6 +1,6 @@
 # GFOTY takes over NYC at Market Hotel
 
-GFOTY takes over NYC at Market Hotel on Fri 9 Oct, Newyorkcity. 3 acts on the bill: DJ Thank You, GFOTY and THELIMITDOESNOTEXIST. Pop and Club. Preview the line-up and save it on soundcheck.
+GFOTY takes over NYC at Market Hotel on Fri 9 Oct, New York City. 3 artists on the bill: DJ Thank You, GFOTY and THELIMITDOESNOTEXIST. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

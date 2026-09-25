@@ -1,6 +1,6 @@
 # Parra Vie Events: Maya Vol 3 at Maya Marylebone
 
-Parra Vie Events: Maya Vol 3 at Maya Marylebone on Sat 10 Oct, London. 3 acts on the bill: 2Doters, HUGØ and Parra Vie. Progressive House and Afro House. Preview the line-up and save it on soundcheck.
+Parra Vie Events: Maya Vol 3 at Maya Marylebone on Sat 10 Oct, London. 3 artists on the bill: 2Doters, HUGØ and Parra Vie. Progressive House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

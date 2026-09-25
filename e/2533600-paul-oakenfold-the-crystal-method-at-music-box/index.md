@@ -1,6 +1,6 @@
 # Paul Oakenfold + The Crystal Method at Music Box
 
-Paul Oakenfold + The Crystal Method at Music Box on Fri 6 Nov, Sandiego. 2 acts on the bill: Paul Oakenfold and The Crystal Method. Trance and Psytrance. Preview the line-up and save it on soundcheck.
+Paul Oakenfold + The Crystal Method at Music Box on Fri 6 Nov, San Diego. 2 artists on the bill: Paul Oakenfold and The Crystal Method. Trance and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

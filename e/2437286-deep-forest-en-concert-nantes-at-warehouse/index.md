@@ -1,6 +1,6 @@
 # Deep Forest en concert à Nantes at Warehouse
 
-Deep Forest en concert à Nantes at Warehouse on Wed 28 Oct, Nantes. 1 act on the bill: Deep Forest. Electro. Preview the line-up and save it on soundcheck.
+Deep Forest en concert à Nantes at Warehouse on Wed 28 Oct, Nantes. 1 artist on the bill: Deep Forest. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

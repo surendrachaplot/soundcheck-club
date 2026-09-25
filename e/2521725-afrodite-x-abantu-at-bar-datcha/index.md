@@ -1,6 +1,6 @@
 # Afrodite X Abantu at Bar Datcha
 
-Afrodite X Abantu at Bar Datcha on Fri 25 Sept, Montreal. 1 act on the bill: Koppi. Preview the line-up and save it on soundcheck.
+Afrodite X Abantu at Bar Datcha on Fri 25 Sept, Montreal. 1 artist on the bill: Koppi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

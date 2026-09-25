@@ -1,6 +1,6 @@
 # Schak at NX Newcastle
 
-Schak at NX Newcastle on Fri 18 Dec, Newcastle. 1 act on the bill: Schak. Preview the line-up and save it on soundcheck.
+Schak at NX Newcastle on Fri 18 Dec, Newcastle. 1 artist on the bill: Schak. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # wooboodoo on a boat 4 - Babour Sauvage at Babour Sauvage
 
-wooboodoo on a boat 4 - Babour Sauvage on Sat 3 Oct, Paris. 2 acts on the bill: Kabaka and Rossa. Techno and Tech House. Preview the line-up and save it on soundcheck.
+wooboodoo on a boat 4 - Babour Sauvage on Sat 3 Oct, Paris. 2 artists on the bill: Kabaka and Rossa. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

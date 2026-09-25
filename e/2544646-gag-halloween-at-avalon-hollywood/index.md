@@ -1,6 +1,6 @@
 # GAG Halloween at Avalon Hollywood
 
-GAG Halloween at Avalon Hollywood on Thu 29 Oct, Losangeles. Club. Preview the line-up and save it on soundcheck.
+GAG Halloween at Avalon Hollywood on Thu 29 Oct, Los Angeles. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

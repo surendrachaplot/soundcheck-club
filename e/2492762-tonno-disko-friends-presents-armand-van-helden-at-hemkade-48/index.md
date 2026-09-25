@@ -1,6 +1,6 @@
 # Tonno Disko & Friends presents: Armand Van Helden at Hemkade 48
 
-Tonno Disko & Friends presents: Armand Van Helden at Hemkade 48 on Sat 24 Oct, Amsterdam. 2 acts on the bill: Armand Van Helden and Tonno Disko. Preview the line-up and save it on soundcheck.
+Tonno Disko & Friends presents: Armand Van Helden at Hemkade 48 on Sat 24 Oct, Amsterdam. 2 artists on the bill: Armand Van Helden and Tonno Disko. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

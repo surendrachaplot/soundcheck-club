@@ -1,6 +1,6 @@
 # The Dyke Agenda at The Redwood Bar And Grill
 
-The Dyke Agenda at The Redwood Bar And Grill on Sun 25 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+The Dyke Agenda at The Redwood Bar And Grill on Sun 25 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

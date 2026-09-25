@@ -1,6 +1,6 @@
 # ANTIHOUR - Party minus Antisemitismus at ://about blank
 
-ANTIHOUR - Party minus Antisemitismus at ://about blank on Sat 7 Nov, Berlin. 3 acts on the bill: deliora, Saturator and Staím. Trance and Techno. Preview the line-up and save it on soundcheck.
+ANTIHOUR - Party minus Antisemitismus at ://about blank on Sat 7 Nov, Berlin. 3 artists on the bill: deliora, Saturator and Staím. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

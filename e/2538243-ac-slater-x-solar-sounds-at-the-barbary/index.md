@@ -1,6 +1,6 @@
 # AC Slater x SOLAR SOUNDS at The Barbary
 
-AC Slater x SOLAR SOUNDS at The Barbary on Sat 26 Sept, Philadelphia. 2 acts on the bill: AC Slater and DELACOUR. House and Minimal. Preview the line-up and save it on soundcheck.
+AC Slater x SOLAR SOUNDS at The Barbary on Sat 26 Sept, Philadelphia. 2 artists on the bill: AC Slater and DELACOUR. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Dwarde is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Social Room, Hong Kong on Fri, 25 Sept 2026.
 
-Dwarde is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 25 more. Often billed alongside Tim Reaper, Coco Bryce and Hughesee. Next up: Social Room, Hongkong on Fri 25 Sept.
+Dwarde is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 25 more. Often billed alongside Tim Reaper, Coco Bryce and Hughesee. Next up: Social Room, Hong Kong on Fri 25 Sept.
 
 ## Upcoming shows
 

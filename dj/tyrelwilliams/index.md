@@ -2,7 +2,7 @@
 
 Tyrel Williams is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Elastic Arts, Chicago on Sat, 31 Oct 2026.
 
-Tyrel Williams is a house and acid artist based in United States of America, tracked on soundcheck, with 54 sets logged across Berlin, Chicago, Detroit and Losangeles and 5 more. Often billed alongside Solar, C.L.A.W.S. and Mozhgan. Next up: Elastic Arts, Chicago on Sat 31 Oct.
+Tyrel Williams is a house and acid artist based in United States of America, tracked on soundcheck, with 54 sets logged across Berlin, Chicago, Detroit and Los Angeles and 5 more. Often billed alongside Solar, C.L.A.W.S. and Mozhgan. Next up: Elastic Arts, Chicago on Sat 31 Oct.
 
 ## Upcoming shows
 

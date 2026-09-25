@@ -1,6 +1,6 @@
 # Steppin' Into Tomorrow x Doka Studio with mo w/rights - Lucas Benjamin at Doka
 
-Steppin' Into Tomorrow x Doka Studio with mo w/rights - Lucas Benjamin on Sun 27 Sept, Amsterdam. 2 acts on the bill: Lucas Benjamin and Mo Wrights. Preview the line-up and save it on soundcheck.
+Steppin' Into Tomorrow x Doka Studio with mo w/rights - Lucas Benjamin on Sun 27 Sept, Amsterdam. 2 artists on the bill: Lucas Benjamin and Mo Wrights. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

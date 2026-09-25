@@ -1,6 +1,6 @@
 # LITTLE HOUSE at ZUBAR
 
-LITTLE HOUSE at ZUBAR on Wed 21 Oct, Tokyo. 2 acts on the bill: Makoto and T A K A. House. Preview the line-up and save it on soundcheck.
+LITTLE HOUSE at ZUBAR on Wed 21 Oct, Tokyo. 2 artists on the bill: Makoto and T A K A. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

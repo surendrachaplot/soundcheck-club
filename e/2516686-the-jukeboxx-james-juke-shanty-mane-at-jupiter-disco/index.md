@@ -1,6 +1,6 @@
 # The Jukeboxx: James Juke + shanty mane at Jupiter Disco
 
-The Jukeboxx: James Juke + shanty mane at Jupiter Disco on Sat 26 Sept, Newyorkcity. 2 acts on the bill: James Juke and shanty mane. Preview the line-up and save it on soundcheck.
+The Jukeboxx: James Juke + shanty mane at Jupiter Disco on Sat 26 Sept, New York City. 2 artists on the bill: James Juke and shanty mane. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

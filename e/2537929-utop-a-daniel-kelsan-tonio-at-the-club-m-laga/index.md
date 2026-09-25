@@ -1,6 +1,6 @@
 # UTOPÍA: Daniel Kelsan + tonio at The Club (Málaga)
 
-UTOPÍA: Daniel Kelsan + tonio at The Club (Málaga) on Sat 26 Sept, Malaga. 1 act on the bill: Daniel Kelsan. Preview the line-up and save it on soundcheck.
+UTOPÍA: Daniel Kelsan + tonio at The Club (Málaga) on Sat 26 Sept, Malaga. 1 artist on the bill: Daniel Kelsan. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

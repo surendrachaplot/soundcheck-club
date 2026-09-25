@@ -2,7 +2,7 @@
 
 Marius Lehnert is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pracht, Frankfurt on Fri, 2 Oct 2026.
 
-Marius Lehnert is a house and techno artist based in Germany, tracked on soundcheck, with 89 sets logged across All, Berlin, Copenhagen and Frankfurt and 5 more. Often billed alongside Alexander Maier, Dejago and Dominik Eulberg. Next up: Pracht, Frankfurt on Fri 2 Oct.
+Marius Lehnert is a house and techno artist based in Germany, tracked on soundcheck, with 89 sets logged across Austria, Berlin, Copenhagen and Frankfurt and 5 more. Often billed alongside Alexander Maier, Dejago and Dominik Eulberg. Next up: Pracht, Frankfurt on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,7 +13,7 @@ Marius Lehnert is a house and techno artist based in Germany, tracked on soundch
 | Sat, 24 Oct 2026 | Fridas Pier | Stuttgart |
 | Sat, 14 Nov 2026 | Im Wizemann | Stuttgart |
 | Sat, 21 Nov 2026 | Fridas Pier | Stuttgart |
-| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | All |
+| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played
 

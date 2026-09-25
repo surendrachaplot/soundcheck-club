@@ -1,6 +1,6 @@
 # Mercury Prize Fringe Event: Public House Hifi presents Tommy Caulker (World Headquarters) at Gingerino's Pizza
 
-Mercury Prize Fringe Event: Public House Hifi presents Tommy Caulker (World Headquarters) at Gingerino's Pizza on Sat 17 Oct, Newcastle. 2 acts on the bill: Diz Jockey and Vinny Vins. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Mercury Prize Fringe Event: Public House Hifi presents Tommy Caulker (World Headquarters) at Gingerino's Pizza on Sat 17 Oct, Newcastle. 2 artists on the bill: Diz Jockey and Vinny Vins. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

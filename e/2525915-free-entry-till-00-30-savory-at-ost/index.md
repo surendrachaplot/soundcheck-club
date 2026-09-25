@@ -1,6 +1,6 @@
 # [FREE ENTRY TILL 00:30] SAVORY at OST
 
-[FREE ENTRY TILL 00:30] SAVORY at OST on Thu 15 Oct, Berlin. 1 act on the bill: ĀFRAME. Techno. Preview the line-up and save it on soundcheck.
+[FREE ENTRY TILL 00:30] SAVORY at OST on Thu 15 Oct, Berlin. 1 artist on the bill: ĀFRAME. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,14 @@
 # Angie (FR)
 
-Angie (FR) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
+Angie (FR) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
 
-Angie (FR) is a techno and trance artist based in France, tracked on soundcheck, with 40 sets logged across All, Amsterdam, Athens and Cologne and 3 more. Often billed alongside In-Tan, Alpha Tracks and Cattoni. Next up: Etko, All on Fri 25 Sept.
+Angie (FR) is a techno and trance artist based in France, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Cologne and Cyprus and 3 more. Often billed alongside In-Tan, Alpha Tracks and Cattoni. Next up: Etko, Cyprus on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Etko | All |
+| Fri, 25 Sept 2026 | Etko | Cyprus |
 | Sat, 24 Oct 2026 | Ijver | Amsterdam |
 
 ## Recently played

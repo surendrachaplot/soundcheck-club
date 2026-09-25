@@ -1,6 +1,6 @@
 # Novel presents Tjade at Smith St Hotel
 
-Novel presents Tjade at Smith St Hotel on Fri 2 Oct, Melbourne. 1 act on the bill: Tjade. Preview the line-up and save it on soundcheck.
+Novel presents Tjade at Smith St Hotel on Fri 2 Oct, Melbourne. 1 artist on the bill: Tjade. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

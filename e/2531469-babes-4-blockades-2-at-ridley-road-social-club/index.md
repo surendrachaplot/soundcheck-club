@@ -1,6 +1,6 @@
 # Babes 4 Blockades #2 at Ridley Road Social Club
 
-Babes 4 Blockades #2 at Ridley Road Social Club on Sat 26 Sept, London. 1 act on the bill: Jlte. Techno and Garage. Preview the line-up and save it on soundcheck.
+Babes 4 Blockades #2 at Ridley Road Social Club on Sat 26 Sept, London. 1 artist on the bill: Jlte. Techno and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

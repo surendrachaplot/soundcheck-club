@@ -1,6 +1,6 @@
 # RITUAL II with Felicie, Phara, Truncate, Uncertain at Club Exil
 
-RITUAL II with Felicie, Phara, Truncate, Uncertain at Club Exil on Fri 2 Oct, Vienna. 4 acts on the bill: Félicie, Phara, Truncate and Uncertain. Techno. Preview the line-up and save it on soundcheck.
+RITUAL II with Felicie, Phara, Truncate, Uncertain at Club Exil on Fri 2 Oct, Vienna. 4 artists on the bill: Félicie, Phara, Truncate and Uncertain. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

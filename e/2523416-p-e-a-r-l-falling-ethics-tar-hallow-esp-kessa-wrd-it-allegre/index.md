@@ -1,6 +1,6 @@
 # P.E.A.R.L. (Falling Ethics, Tar Hallow /ESP), Kessa (WRD /IT), Allegretti (WRD /IT) at Azimut Club
 
-P.E.A.R.L. (Falling Ethics, Tar Hallow /ESP), Kessa (WRD /IT), Allegretti (WRD /IT) at Azimut Club on Sat 21 Nov, Turin. 3 acts on the bill: Allegretti, Kessa and P.E.A.R.L.. Techno. Preview the line-up and save it on soundcheck.
+P.E.A.R.L. (Falling Ethics, Tar Hallow /ESP), Kessa (WRD /IT), Allegretti (WRD /IT) at Azimut Club on Sat 21 Nov, Turin. 3 artists on the bill: Allegretti, Kessa and P.E.A.R.L.. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

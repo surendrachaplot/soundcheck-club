@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 7 Oct, Berlin. 4 acts on the bill: Eleonor Bianchi, Fugist, k.meower and peak2soon. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 7 Oct, Berlin. 4 artists on the bill: Eleonor Bianchi, Fugist, k.meower and peak2soon. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

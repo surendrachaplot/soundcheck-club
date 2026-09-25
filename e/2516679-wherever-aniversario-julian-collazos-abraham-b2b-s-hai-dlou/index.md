@@ -1,6 +1,6 @@
 # Wherever ANIVERSARIO: Julian Collazos, Abraham B2B S.HAI, DLOU B2B Yins, Hadex B2B Sergiodnine at EL SÓTANO
 
-Wherever ANIVERSARIO: Julian Collazos, Abraham B2B S.HAI, DLOU B2B Yins, Hadex B2B Sergiodnine at EL SÓTANO on Fri 25 Sept, Madrid. 2 acts on the bill: DLOU and Yins. House and Tech House. Preview the line-up and save it on soundcheck.
+Wherever ANIVERSARIO: Julian Collazos, Abraham B2B S.HAI, DLOU B2B Yins, Hadex B2B Sergiodnine at EL SÓTANO on Fri 25 Sept, Madrid. 2 artists on the bill: DLOU and Yins. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Sleazebag is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at M.O.T, London on Fri, 9 Oct 2026.
 
-Sleazebag is a drum & bass and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Bristol and London. Often billed alongside Krash Dubs, PEPPA (2) and Rodney. Next up: M.O.T, London on Fri 9 Oct.
+Sleazebag is a drum & bass and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Bristol and London. Often billed alongside Krash Dubs, PEPPA and Rodney. Next up: M.O.T, London on Fri 9 Oct.
 
 ## Upcoming shows
 

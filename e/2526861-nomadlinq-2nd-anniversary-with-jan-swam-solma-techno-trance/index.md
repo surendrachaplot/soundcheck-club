@@ -1,6 +1,6 @@
 # Nomadlinq -2nd anniversary- with Jan Swam,Solma [Techno,Trance,Bass] at Circus Tokyo
 
-Nomadlinq -2nd anniversary- with Jan Swam,Solma [Techno,Trance,Bass] at Circus Tokyo on Sat 3 Oct, Tokyo. 11 acts on the bill: Jan Swam, jo (53), Kaibshr and Kotaro Shimizu and 7 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Nomadlinq -2nd anniversary- with Jan Swam,Solma [Techno,Trance,Bass] at Circus Tokyo on Sat 3 Oct, Tokyo. 11 artists on the bill: Jan Swam, jo, Kaibshr and Kotaro Shimizu and 7 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ashvale W/ Heartbreak Hombres (Baby Rollén & Wilba) at The Glove That Fits
 
-Ashvale W/ Heartbreak Hombres (Baby Rollén & Wilba) at The Glove That Fits on Fri 16 Oct, London. 2 acts on the bill: Baby Rollén and Wilba. Tech House. Preview the line-up and save it on soundcheck.
+Ashvale W/ Heartbreak Hombres (Baby Rollén & Wilba) at The Glove That Fits on Fri 16 Oct, London. 2 artists on the bill: Baby Rollén and Wilba. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

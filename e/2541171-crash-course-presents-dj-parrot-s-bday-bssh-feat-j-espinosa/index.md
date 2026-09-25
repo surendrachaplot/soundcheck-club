@@ -1,6 +1,6 @@
 # Crash Course presents DJ Parrot's Bday Bssh feat. J Espinosa at F8 1192 Folsom
 
-Crash Course presents DJ Parrot's Bday Bssh feat. J Espinosa at F8 1192 Folsom on Wed 14 Oct, Sanfrancisco. 2 acts on the bill: DJ Parrot and Velvet Pistol. House and Tech House. Preview the line-up and save it on soundcheck.
+Crash Course presents DJ Parrot's Bday Bssh feat. J Espinosa at F8 1192 Folsom on Wed 14 Oct, San Francisco/Oakland. 2 artists on the bill: DJ Parrot and Velvet Pistol. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

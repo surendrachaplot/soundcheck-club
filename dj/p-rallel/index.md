@@ -1,14 +1,14 @@
 # p-rallel
 
-p-rallel is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Brick Street, Liverpool on Fri, 25 Sept 2026.
+p-rallel is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 24 Kitchen Street, Liverpool on Fri, 25 Sept 2026.
 
-p-rallel is a garage and house artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 21 more. Often billed alongside Casnova, Dr Dubplate and Special Request. Next up: Brick Street, Liverpool on Fri 25 Sept.
+p-rallel is a garage and house artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 21 more. Often billed alongside Casnova, Dr Dubplate and Special Request. Next up: 24 Kitchen Street, Liverpool on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Brick Street | Liverpool |
+| Fri, 25 Sept 2026 | 24 Kitchen Street | Liverpool |
 | Sat, 24 Oct 2026 | Patterns | Brighton |
 | Fri, 30 Oct 2026 | Phonox | London |
 | Sat, 31 Oct 2026 | Phonox | London |

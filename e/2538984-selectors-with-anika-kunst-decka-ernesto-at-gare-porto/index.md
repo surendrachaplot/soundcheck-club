@@ -1,6 +1,6 @@
 # Selectors with Anika Kunst, Decka, Ernesto at Gare Porto
 
-Selectors with Anika Kunst, Decka, Ernesto at Gare Porto on Fri 2 Oct, Porto. 3 acts on the bill: Anika Kunst, Decka and Ernesto. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Selectors with Anika Kunst, Decka, Ernesto at Gare Porto on Fri 2 Oct, Porto. 3 artists on the bill: Anika Kunst, Decka and Ernesto. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

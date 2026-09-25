@@ -1,6 +1,6 @@
 # The North Quarter: DLR, Fox, LSB, Redeyes, T-Man, Vanity Roxane, Zero T at Phonox
 
-The North Quarter: DLR, Fox, LSB, Redeyes, T-Man, Vanity Roxane, Zero T at Phonox on Sat 24 Oct, London. 7 acts on the bill: DLR, LSB, MC Fox and Redeyes and 3 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+The North Quarter: DLR, Fox, LSB, Redeyes, T-Man, Vanity Roxane, Zero T at Phonox on Sat 24 Oct, London. 7 artists on the bill: DLR, LSB, MC Fox and Redeyes and 3 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

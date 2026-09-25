@@ -1,6 +1,6 @@
 # KAZ at Le Son de la Terre
 
-KAZ at Le Son de la Terre on Fri 25 Sept, Paris. 1 act on the bill: DJ Ketchup Afro. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+KAZ at Le Son de la Terre on Fri 25 Sept, Paris. 1 artist on the bill: DJ Ketchup Afro. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

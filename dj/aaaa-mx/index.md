@@ -2,7 +2,7 @@
 
 AAAA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
-AAAA is a techno and house artist based in Mexico, tracked on soundcheck, with 78 sets logged across Losangeles, Mexicocity, Monterrey and Montreal and 3 more. Often billed alongside sadgal, Enya Botello and Ann García. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
+AAAA is a techno and house artist based in Mexico, tracked on soundcheck, with 78 sets logged across Los Angeles, Mexico City, Monterrey and Montreal and 3 more. Often billed alongside sadgal, Enya Botello and Ann García. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
 ## Upcoming shows
 

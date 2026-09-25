@@ -1,6 +1,6 @@
 # DyK2k GiRL rAvE <3 at TBA - Inner West Warehouse
 
-DyK2k GiRL rAvE <3 at TBA - Inner West Warehouse on Fri 25 Sept, Sydney. 2 acts on the bill: Crescendoll (AU) and epoca_lipstick. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+DyK2k GiRL rAvE <3 at TBA - Inner West Warehouse on Fri 25 Sept, Sydney. 2 artists on the bill: Crescendoll (AU) and epoca_lipstick. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RUZE - Joshua Brooks Manchester at Joshua Brooks
 
-RUZE - Joshua Brooks Manchester on Sat 17 Oct, Manchester. 1 act on the bill: RUZE. House. Preview the line-up and save it on soundcheck.
+RUZE - Joshua Brooks Manchester on Sat 17 Oct, Manchester. 1 artist on the bill: RUZE. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

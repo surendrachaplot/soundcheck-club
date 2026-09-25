@@ -1,6 +1,6 @@
 # Andromedik Invites - The Final Edition at Antwerp Expo
 
-Andromedik Invites - The Final Edition at Antwerp Expo on Fri 30 Oct, Antwerp. 5 acts on the bill: Andromedik, Koven, Licia and Maze (FR) and 1 more. Preview the line-up and save it on soundcheck.
+Andromedik Invites - The Final Edition at Antwerp Expo on Fri 30 Oct, Antwerp. 5 artists on the bill: Andromedik, Koven, Licia and Maze (FR) and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tinlicker ∞ ROXY Prague at Roxy
 
-Tinlicker ∞ ROXY Prague at Roxy on Sat 21 Nov, Prague. 1 act on the bill: Tinlicker. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Tinlicker ∞ ROXY Prague at Roxy on Sat 21 Nov, Prague. 1 artist on the bill: Tinlicker. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Eli Nissan is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 26 Sept 2026.
 
-Eli Nissan is a progressive house and house artist based in Israel, tracked on soundcheck, with 36 sets logged across Amsterdam, Auckland, Barcelona and Budapest and 13 more. Often billed alongside Khen, Roy Rosenfeld and Sebastien Leger. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Sat 26 Sept.
+Eli Nissan is a progressive house and house artist based in Israel, tracked on soundcheck, with 36 sets logged across Amsterdam, Auckland, Barcelona and Budapest and 13 more. Often billed alongside Khen, Roy Rosenfeld and Sebastien Leger. Next up: TBA - La Biblioteca, San Telmo, Buenos Aires on Sat 26 Sept.
 
 ## Upcoming shows
 

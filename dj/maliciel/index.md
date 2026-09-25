@@ -2,7 +2,7 @@
 
 MALICIEL is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-MALICIEL is a techno and club artist based in Brazil, tracked on soundcheck, with 11 sets logged across Sanfrancisco. Often billed alongside ANDYLAND, QUEENIE (US) and arktoi. Next up: TBA - SECRET SF LOCATION, Sanfrancisco on Fri 25 Sept.
+MALICIEL is a techno and club artist based in Brazil, tracked on soundcheck, with 11 sets logged across San Francisco/Oakland. Often billed alongside ANDYLAND, QUEENIE (US) and arktoi. Next up: TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri 25 Sept.
 
 ## Upcoming shows
 

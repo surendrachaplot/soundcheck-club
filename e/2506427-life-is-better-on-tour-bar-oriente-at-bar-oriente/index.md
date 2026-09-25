@@ -1,6 +1,6 @@
 # LIFE IS BETTER ON TOUR @ Bar Oriente at Bar Oriente
 
-LIFE IS BETTER ON TOUR @ Bar Oriente on Sat 17 Oct, Mexicocity. 1 act on the bill: c3rpa. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+LIFE IS BETTER ON TOUR @ Bar Oriente on Sat 17 Oct, Mexico City. 1 artist on the bill: c3rpa. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

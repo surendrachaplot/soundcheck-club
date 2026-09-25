@@ -1,6 +1,6 @@
 # YokoO at Do Not Sit On The Furniture
 
-YokoO at Do Not Sit On The Furniture on Fri 9 Oct, Miami. 2 acts on the bill: baez and YokoO. House and Deep House. Preview the line-up and save it on soundcheck.
+YokoO at Do Not Sit On The Furniture on Fri 9 Oct, Miami. 2 artists on the bill: baez and YokoO. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

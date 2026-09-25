@@ -2,7 +2,7 @@
 
 Jenn Gunn (2) is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sub Club, Glasgow on Fri, 16 Oct 2026.
 
-Jenn Gunn (2) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside C Frame, Gourlay and Et Al (1). Next up: Sub Club, Glasgow on Fri 16 Oct.
+Jenn Gunn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside C Frame, Gourlay and Et Al. Next up: Sub Club, Glasgow on Fri 16 Oct.
 
 ## Upcoming shows
 

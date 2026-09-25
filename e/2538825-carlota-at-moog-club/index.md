@@ -1,6 +1,6 @@
 # Carlota at Moog Club
 
-Carlota at Moog Club on Thu 8 Oct, Barcelona. 1 act on the bill: carlota.. Techno. Preview the line-up and save it on soundcheck.
+Carlota at Moog Club on Thu 8 Oct, Barcelona. 1 artist on the bill: carlota.. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

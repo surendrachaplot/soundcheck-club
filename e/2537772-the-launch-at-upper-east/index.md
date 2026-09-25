@@ -1,6 +1,6 @@
 # The Launch at Upper East
 
-The Launch at Upper East on Fri 20 Nov, London. 1 act on the bill: M HIX. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+The Launch at Upper East on Fri 20 Nov, London. 1 artist on the bill: M HIX. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BUSS IT (Dancehall, Bashment, Jersey Club + MORE) - Free Entry at Club Makossa
 
-BUSS IT (Dancehall, Bashment, Jersey Club + MORE) - Free Entry at Club Makossa on Thu 24 Sept, London. 1 act on the bill: M4YA. Baile Funk and Dancehall. Preview the line-up and save it on soundcheck.
+BUSS IT (Dancehall, Bashment, Jersey Club + MORE) - Free Entry at Club Makossa on Thu 24 Sept, London. 1 artist on the bill: M4YA. Baile Funk and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

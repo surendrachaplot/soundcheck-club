@@ -1,6 +1,6 @@
 # THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘏𝘙𝘌𝘌 𝘍𝘓𝘖𝘖𝘙𝘚) at Süss War Gestern
 
-THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘏𝘙𝘌𝘌 𝘍𝘓𝘖𝘖𝘙𝘚) at Süss War Gestern on Sat 7 Nov, Berlin. 3 acts on the bill: Better Call Paul, Nikklaas and oulcan. House and Disco. Preview the line-up and save it on soundcheck.
+THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘏𝘙𝘌𝘌 𝘍𝘓𝘖𝘖𝘙𝘚) at Süss War Gestern on Sat 7 Nov, Berlin. 3 artists on the bill: Better Call Paul, Nikklaas and oulcan. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cut Copy (dj), Disco Bambino, Kristine Barilli at Elsewhere
 
-Cut Copy (dj), Disco Bambino, Kristine Barilli at Elsewhere on Fri 13 Nov, Newyorkcity. 2 acts on the bill: Cut Copy and Kristine Barilli. Preview the line-up and save it on soundcheck.
+Cut Copy (dj), Disco Bambino, Kristine Barilli at Elsewhere on Fri 13 Nov, New York City. 2 artists on the bill: Cut Copy and Kristine Barilli. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

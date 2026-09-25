@@ -1,6 +1,6 @@
 # Hugel presents Make The Girls Dance - CLOSING PARTY at Hï Ibiza
 
-Hugel presents Make The Girls Dance - CLOSING PARTY at Hï Ibiza on Thu 24 Sept, Ibiza. 6 acts on the bill: Adam Beyer, Hugel, Juany Bravo and Miss Monique and 2 more. House and Afro House. Preview the line-up and save it on soundcheck.
+Hugel presents Make The Girls Dance - CLOSING PARTY at Hï Ibiza on Thu 24 Sept, Ibiza. 6 artists on the bill: Adam Beyer, Hugel, Juany Bravo and Miss Monique and 2 more. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

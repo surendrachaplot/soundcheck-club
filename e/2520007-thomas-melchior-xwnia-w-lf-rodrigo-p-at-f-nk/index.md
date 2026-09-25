@@ -1,6 +1,6 @@
 # Thomas Melchior + Xwnia Wölf + Rodrigo P at Fünk
 
-Thomas Melchior + Xwnia Wölf + Rodrigo P at Fünk on Fri 25 Sept, Mexicocity. 3 acts on the bill: Rodrigo P., Thomas Melchior and Xwnia Wölf. House and Minimal. Preview the line-up and save it on soundcheck.
+Thomas Melchior + Xwnia Wölf + Rodrigo P at Fünk on Fri 25 Sept, Mexico City. 3 artists on the bill: Rodrigo P., Thomas Melchior and Xwnia Wölf. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

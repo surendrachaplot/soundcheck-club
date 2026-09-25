@@ -1,6 +1,6 @@
 # Subculture w/ Stevie Cox + Avalon Emerson at Sub Club
 
-Subculture w/ Stevie Cox + Avalon Emerson at Sub Club on Sat 24 Oct, Glasgow. 2 acts on the bill: Avalon Emerson and Stevie Cox. Preview the line-up and save it on soundcheck.
+Subculture w/ Stevie Cox + Avalon Emerson at Sub Club on Sat 24 Oct, Glasgow. 2 artists on the bill: Avalon Emerson and Stevie Cox. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

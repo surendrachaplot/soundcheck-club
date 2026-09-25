@@ -1,6 +1,6 @@
 # ONYX: 'ONE LAST DANCE' w / Paraçek, two girls one mom, HANÀ at OST
 
-ONYX: 'ONE LAST DANCE' w / Paraçek, two girls one mom, HANÀ at OST on Fri 20 Nov, Berlin. 6 acts on the bill: Bruno Brero, CARGO (DE), HANÀ and KARISH and 2 more. Trance. Preview the line-up and save it on soundcheck.
+ONYX: 'ONE LAST DANCE' w / Paraçek, two girls one mom, HANÀ at OST on Fri 20 Nov, Berlin. 6 artists on the bill: Bruno Brero, CARGO (DE), HANÀ and KARISH and 2 more. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

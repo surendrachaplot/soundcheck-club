@@ -1,6 +1,6 @@
 # retropxssy: Into The Portal at Fuzzbrain Studios
 
-retropxssy: Into The Portal at Fuzzbrain Studios on Sat 10 Oct, London. 2 acts on the bill: JoeJas and retropxssy. Hip-Hop and Experimental. Preview the line-up and save it on soundcheck.
+retropxssy: Into The Portal at Fuzzbrain Studios on Sat 10 Oct, London. 2 artists on the bill: JoeJas and retropxssy. Hip-Hop and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

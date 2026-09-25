@@ -1,6 +1,6 @@
 # All Day I Dream of Sydney at The Ivy
 
-All Day I Dream of Sydney at The Ivy on Sat 28 Nov, Sydney. 3 acts on the bill: Double Touch, Lee Burridge and Lost Desert. House and Deep House. Preview the line-up and save it on soundcheck.
+All Day I Dream of Sydney at The Ivy on Sat 28 Nov, Sydney. 3 artists on the bill: Double Touch, Lee Burridge and Lost Desert. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 SUCIA! is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Ground at Club Space, Miami on Fri, 23 Oct 2026.
 
-SUCIA! is a club and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside Mars Kasei, Sel.6 and Chiara Noriko. Next up: The Ground at Club Space, Miami on Fri 23 Oct.
+SUCIA! is a club and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Chicago, Los Angeles, Miami and New York City and 1 more. Often billed alongside Mars Kasei, Sel.6 and Chiara Noriko. Next up: The Ground at Club Space, Miami on Fri 23 Oct.
 
 ## Upcoming shows
 

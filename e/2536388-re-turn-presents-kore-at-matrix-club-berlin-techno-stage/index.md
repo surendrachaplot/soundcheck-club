@@ -1,6 +1,6 @@
 # RE:TURN presents: KORE at Matrix Club Berlin (Techno Stage)
 
-RE:TURN presents: KORE at Matrix Club Berlin (Techno Stage) on Fri 25 Sept, Berlin. 1 act on the bill: KORE. Techno and Hard Drum. Preview the line-up and save it on soundcheck.
+RE:TURN presents: KORE at Matrix Club Berlin (Techno Stage) on Fri 25 Sept, Berlin. 1 artist on the bill: KORE. Techno and Hard Drum. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

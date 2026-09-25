@@ -1,6 +1,6 @@
 # Infra presents: Annie Lew, Seo, & RDXT at TBA
 
-Infra presents: Annie Lew, Seo, & RDXT at TBA on Thu 24 Sept, Boston. 2 acts on the bill: Annie Lew and Seo (US). Techno. Preview the line-up and save it on soundcheck.
+Infra presents: Annie Lew, Seo, & RDXT at TBA on Thu 24 Sept, Boston. 2 artists on the bill: Annie Lew and Seo (US). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

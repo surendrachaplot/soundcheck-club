@@ -1,6 +1,6 @@
 # Mykki Blanco (US) at ALICE
 
-Mykki Blanco (US) at ALICE on Wed 14 Oct, Copenhagen. 1 act on the bill: Mykki Blanco. Preview the line-up and save it on soundcheck.
+Mykki Blanco (US) at ALICE on Wed 14 Oct, Copenhagen. 1 artist on the bill: Mykki Blanco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

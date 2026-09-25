@@ -2,7 +2,7 @@
 
 Fido Dido is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Toronto on Sun, 11 Oct 2026.
 
-Fido Dido is an afro house and house artist based in Canada, tracked on soundcheck, with 12 sets logged across Toronto. Often billed alongside Valeria Wardini, Akkai (2) and Razaq El Toro. Next up: TBA, Toronto on Sun 11 Oct.
+Fido Dido is an afro house and house artist based in Canada, tracked on soundcheck, with 12 sets logged across Toronto. Often billed alongside Valeria Wardini, Akkai and Razaq El Toro. Next up: TBA, Toronto on Sun 11 Oct.
 
 ## Upcoming shows
 

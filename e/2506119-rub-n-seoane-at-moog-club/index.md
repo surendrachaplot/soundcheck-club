@@ -1,6 +1,6 @@
 # Rubén Seoane at Moog Club
 
-Rubén Seoane at Moog Club on Tue 29 Sept, Barcelona. 1 act on the bill: Rubén Seoane. Techno. Preview the line-up and save it on soundcheck.
+Rubén Seoane at Moog Club on Tue 29 Sept, Barcelona. 1 artist on the bill: Rubén Seoane. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

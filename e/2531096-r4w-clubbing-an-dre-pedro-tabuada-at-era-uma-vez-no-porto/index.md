@@ -1,6 +1,6 @@
 # R4W Clubbing / An_Dre & Pedro Tabuada at Era uma vez no Porto
 
-R4W Clubbing / An_Dre & Pedro Tabuada at Era uma vez no Porto on Sat 26 Sept, Porto. 1 act on the bill: Pedro Tabuada. Techno and House. Preview the line-up and save it on soundcheck.
+R4W Clubbing / An_Dre & Pedro Tabuada at Era uma vez no Porto on Sat 26 Sept, Porto. 1 artist on the bill: Pedro Tabuada. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

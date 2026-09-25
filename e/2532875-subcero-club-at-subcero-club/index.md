@@ -1,6 +1,6 @@
 # SUBCERO CLUB at Subcero Club
 
-SUBCERO CLUB at Subcero Club on Fri 25 Sept, Madrid. 2 acts on the bill: Foie Gras and Paki. House. Preview the line-up and save it on soundcheck.
+SUBCERO CLUB at Subcero Club on Fri 25 Sept, Madrid. 2 artists on the bill: Foie Gras and Paki. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

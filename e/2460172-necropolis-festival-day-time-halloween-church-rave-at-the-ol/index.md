@@ -1,6 +1,6 @@
 # Necropolis Festival - Day Time Halloween Church Rave at The Old Church
 
-Necropolis Festival - Day Time Halloween Church Rave at The Old Church on Sat 31 Oct, London. 2 acts on the bill: Arrosa and Ricardo Castro. Techno and EBM. Preview the line-up and save it on soundcheck.
+Necropolis Festival - Day Time Halloween Church Rave at The Old Church on Sat 31 Oct, London. 2 artists on the bill: Arrosa and Ricardo Castro. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

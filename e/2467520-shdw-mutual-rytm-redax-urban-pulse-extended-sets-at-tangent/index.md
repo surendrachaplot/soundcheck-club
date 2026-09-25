@@ -1,6 +1,6 @@
 # SHDW (Mutual Rytm) & Redax (Urban Pulse) Extended Sets at Tangent Gallery
 
-SHDW (Mutual Rytm) & Redax (Urban Pulse) Extended Sets at Tangent Gallery on Sat 26 Sept, Detroit. 2 acts on the bill: Redax and SHDW. Techno. Preview the line-up and save it on soundcheck.
+SHDW (Mutual Rytm) & Redax (Urban Pulse) Extended Sets at Tangent Gallery on Sat 26 Sept, Detroit. 2 artists on the bill: Redax and SHDW. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

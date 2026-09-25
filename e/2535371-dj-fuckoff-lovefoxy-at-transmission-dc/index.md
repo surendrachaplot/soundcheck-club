@@ -1,6 +1,6 @@
 # Dj Fuckoff & Lovefoxy at TRANSMISSION DC
 
-Dj Fuckoff & Lovefoxy at TRANSMISSION DC on Fri 16 Oct, Washingtondc. 3 acts on the bill: DJ Fuckoff, DJ Pearl and LOVEFOXY. Breakbeat and Club. Preview the line-up and save it on soundcheck.
+Dj Fuckoff & Lovefoxy at TRANSMISSION DC on Fri 16 Oct, Washington DC. 3 artists on the bill: DJ Fuckoff, DJ Pearl and LOVEFOXY. Breakbeat and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

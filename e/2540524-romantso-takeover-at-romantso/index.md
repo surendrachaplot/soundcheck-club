@@ -1,6 +1,6 @@
 # Romantso TAKEOVER at Romantso
 
-Romantso TAKEOVER on Fri 25 Sept, Athens. 3 acts on the bill: CHEX, Nivk Jane and VSSLS. Trance and Techno. Preview the line-up and save it on soundcheck.
+Romantso TAKEOVER on Fri 25 Sept, Athens. 3 artists on the bill: CHEX, Nivk Jane and VSSLS. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

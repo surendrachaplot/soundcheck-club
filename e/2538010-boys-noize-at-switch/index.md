@@ -1,6 +1,6 @@
 # Boys Noize at Switch
 
-Boys Noize at Switch on Fri 2 Oct, Porto. 1 act on the bill: Boys Noize. Preview the line-up and save it on soundcheck.
+Boys Noize at Switch on Fri 2 Oct, Porto. 1 artist on the bill: Boys Noize. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

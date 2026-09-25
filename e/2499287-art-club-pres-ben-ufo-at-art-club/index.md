@@ -1,6 +1,6 @@
 # Art Club pres. Ben UFO at Art Club
 
-Art Club pres. Ben UFO on Fri 25 Sept, Houston. 1 act on the bill: Ben UFO. Techno and Dubstep. Preview the line-up and save it on soundcheck.
+Art Club pres. Ben UFO on Fri 25 Sept, Houston. 1 artist on the bill: Ben UFO. Techno and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

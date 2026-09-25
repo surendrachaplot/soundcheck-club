@@ -1,6 +1,6 @@
 # p-rallel: Nevermind UK Tour at Patterns
 
-p-rallel: Nevermind UK Tour at Patterns on Sat 24 Oct, Brighton. 1 act on the bill: p-rallel. House and Bass. Preview the line-up and save it on soundcheck.
+p-rallel: Nevermind UK Tour at Patterns on Sat 24 Oct, Brighton. 1 artist on the bill: p-rallel. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

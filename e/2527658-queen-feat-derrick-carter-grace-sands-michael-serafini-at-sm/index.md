@@ -1,6 +1,6 @@
 # Queen! feat. Derrick Carter - Grace Sands - Michael Serafini at smartbar
 
-Queen! feat. Derrick Carter - Grace Sands - Michael Serafini at smartbar on Sun 11 Oct, Chicago. 3 acts on the bill: Derrick Carter, Grace Sands and Michael Serafini. House and Deep House. Preview the line-up and save it on soundcheck.
+Queen! feat. Derrick Carter - Grace Sands - Michael Serafini at smartbar on Sun 11 Oct, Chicago. 3 artists on the bill: Derrick Carter, Grace Sands and Michael Serafini. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

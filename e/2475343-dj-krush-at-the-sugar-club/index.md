@@ -1,6 +1,6 @@
 # DJ Krush at The Sugar Club
 
-DJ Krush at The Sugar Club on Sat 3 Oct, Dublin. 1 act on the bill: DJ Krush. Preview the line-up and save it on soundcheck.
+DJ Krush at The Sugar Club on Sat 3 Oct, Dublin. 1 artist on the bill: DJ Krush. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

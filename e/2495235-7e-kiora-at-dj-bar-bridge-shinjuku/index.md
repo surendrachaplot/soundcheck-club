@@ -1,6 +1,6 @@
 # 7e & Kiora at DJ Bar Bridge Shinjuku
 
-7e & Kiora at DJ Bar Bridge Shinjuku on Thu 24 Sept, Tokyo. 1 act on the bill: 7e. House. Preview the line-up and save it on soundcheck.
+7e & Kiora at DJ Bar Bridge Shinjuku on Thu 24 Sept, Tokyo. 1 artist on the bill: 7e. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

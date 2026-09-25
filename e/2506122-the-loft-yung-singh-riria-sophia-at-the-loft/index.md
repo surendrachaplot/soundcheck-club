@@ -1,6 +1,6 @@
 # The Loft: Yung Singh, RIRIA & SOPHIA at The Loft
 
-The Loft: Yung Singh, RIRIA & SOPHIA on Sat 14 Nov, Manchester. 2 acts on the bill: RIRIA and Yung Singh. Preview the line-up and save it on soundcheck.
+The Loft: Yung Singh, RIRIA & SOPHIA on Sat 14 Nov, Manchester. 2 artists on the bill: RIRIA and Yung Singh. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

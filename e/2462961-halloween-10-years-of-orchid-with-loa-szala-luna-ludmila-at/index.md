@@ -1,6 +1,6 @@
 # Halloween: 10 YEARS OF ORCHID with Loa Szala & Luna Ludmila at Cadavra
 
-Halloween: 10 YEARS OF ORCHID with Loa Szala & Luna Ludmila at Cadavra on Sat 31 Oct, Madrid. 5 acts on the bill: BOTHER, Loa Szala, Luna Ludmila and Martin Balladares and 1 more. Electronica. Preview the line-up and save it on soundcheck.
+Halloween: 10 YEARS OF ORCHID with Loa Szala & Luna Ludmila at Cadavra on Sat 31 Oct, Madrid. 5 artists on the bill: BOTHER, Loa Szala, Luna Ludmila and Martin Balladares and 1 more. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

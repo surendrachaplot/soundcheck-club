@@ -1,6 +1,6 @@
 # DOTT b2b Rhom Omit at Elsewhere
 
-DOTT b2b Rhom Omit at Elsewhere on Sat 26 Sept, Bangkok. 2 acts on the bill: DOTT and Rhom Omit. Techno and House. Preview the line-up and save it on soundcheck.
+DOTT b2b Rhom Omit at Elsewhere on Sat 26 Sept, Bangkok. 2 artists on the bill: DOTT and Rhom Omit. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

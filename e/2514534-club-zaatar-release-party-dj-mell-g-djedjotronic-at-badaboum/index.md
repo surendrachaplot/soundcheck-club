@@ -1,6 +1,6 @@
 # Club — Zaatar Release Party: DJ MELL G, Djedjotronic at Badaboum
 
-Club — Zaatar Release Party: DJ MELL G, Djedjotronic at Badaboum on Sat 26 Sept, Paris. 4 acts on the bill: cfds, DJ MELL G, Djedjotronic and Zaatar. Techno and EBM. Preview the line-up and save it on soundcheck.
+Club — Zaatar Release Party: DJ MELL G, Djedjotronic at Badaboum on Sat 26 Sept, Paris. 4 artists on the bill: cfds, DJ MELL G, Djedjotronic and Zaatar. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

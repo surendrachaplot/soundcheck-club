@@ -2,7 +2,7 @@
 
 Rebolledo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Knockdown Center, New York City on Sun, 4 Oct 2026.
 
-Rebolledo is a house and techno artist based in Mexico, tracked on soundcheck, with 72 sets logged across Austin, Barcelona, Berlin and Ibiza and 13 more. Often billed alongside Daniel Weil, Metrika and Paulor. Next up: Knockdown Center, Newyorkcity on Sun 4 Oct.
+Rebolledo is a house and techno artist based in Mexico, tracked on soundcheck, with 72 sets logged across Austin, Barcelona, Berlin and Ibiza and 13 more. Often billed alongside Daniel Weil, Metrika and Paulor. Next up: Knockdown Center, New York City on Sun 4 Oct.
 
 ## Upcoming shows
 

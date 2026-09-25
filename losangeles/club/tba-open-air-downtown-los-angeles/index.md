@@ -2,7 +2,7 @@
 
 TBA - Open Air: Downtown Los Angeles is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Midnight Lovers with Eli Escobar (Open to Close)" on Sat, 3 Oct 2026.
 
-TBA - Open Air: Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 2 upcoming gigs, with line-ups including Dekmantel Soundsystem, Eli Escobar and Make A Dance. Browse upcoming dates, start times and who's playing.
+TBA - Open Air: Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Dekmantel Soundsystem, Eli Escobar and Make A Dance. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

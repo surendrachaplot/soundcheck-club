@@ -1,6 +1,6 @@
 # Clubnight - Kapsela, 10 Years of Illusion at Open Ground
 
-Clubnight - Kapsela, 10 Years of Illusion at Open Ground on Sat 24 Oct, Wuppertal. 5 acts on the bill: DjRUM, Elke, Mika Oki and Objekt and 1 more. Preview the line-up and save it on soundcheck.
+Clubnight - Kapsela, 10 Years of Illusion at Open Ground on Sat 24 Oct, Wuppertal. 5 artists on the bill: DjRUM, Elke, Mika Oki and Objekt and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

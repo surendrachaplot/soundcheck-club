@@ -1,6 +1,6 @@
 # Crime x Burn Energy Tour with MCR-T at Turbina
 
-Crime x Burn Energy Tour with MCR-T at Turbina on Sat 17 Oct, Budapest. 9 acts on the bill: Akác, CRIME, Gingershot and Maron and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Crime x Burn Energy Tour with MCR-T at Turbina on Sat 17 Oct, Budapest. 9 artists on the bill: Akác, CRIME, Gingershot and Maron and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

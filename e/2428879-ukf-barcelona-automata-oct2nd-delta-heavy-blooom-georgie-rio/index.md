@@ -1,6 +1,6 @@
 # UKF BARCELONA & AUTOMATA OCT2ND · Delta Heavy, Blooom, Georgie Riot + MORE at Sala Dresden
 
-UKF BARCELONA & AUTOMATA OCT2ND · Delta Heavy, Blooom, Georgie Riot + MORE at Sala Dresden on Fri 2 Oct, Barcelona. 5 acts on the bill: BALA (3), Blooom, Delta Heavy and Georgie Riot and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+UKF BARCELONA & AUTOMATA OCT2ND · Delta Heavy, Blooom, Georgie Riot + MORE at Sala Dresden on Fri 2 Oct, Barcelona. 5 artists on the bill: BALA, Blooom, Delta Heavy and Georgie Riot and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

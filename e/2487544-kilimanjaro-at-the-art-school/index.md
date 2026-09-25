@@ -1,6 +1,6 @@
 # KILIMANJARO at The Art School
 
-KILIMANJARO at The Art School on Tue 24 Nov, Glasgow. 1 act on the bill: KILIMANJARO. House and Afro House. Preview the line-up and save it on soundcheck.
+KILIMANJARO at The Art School on Tue 24 Nov, Glasgow. 1 artist on the bill: KILIMANJARO. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

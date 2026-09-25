@@ -1,6 +1,6 @@
 # DANCE - Powerful Dance Journeys at Brighthelm Centre
 
-DANCE - Powerful Dance Journeys at Brighthelm Centre on Sat 10 Oct, Brighton. 1 act on the bill: Nathan Godolphin. Experimental and Club. Preview the line-up and save it on soundcheck.
+DANCE - Powerful Dance Journeys at Brighthelm Centre on Sat 10 Oct, Brighton. 1 artist on the bill: Nathan Godolphin. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

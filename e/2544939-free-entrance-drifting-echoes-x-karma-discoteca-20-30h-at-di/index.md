@@ -1,6 +1,6 @@
 # FREE ENTRANCE - DRIFTING ECHOES X KARMA DISCOTECA - 20:30h at Discoteca Karma
 
-FREE ENTRANCE - DRIFTING ECHOES X KARMA DISCOTECA - 20:30h at Discoteca Karma on Sat 26 Sept, Barcelona. 5 acts on the bill: Agustin Bosco, FREDDIESS, Hermansen and Martin Luraschi and 1 more. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+FREE ENTRANCE - DRIFTING ECHOES X KARMA DISCOTECA - 20:30h at Discoteca Karma on Sat 26 Sept, Barcelona. 5 artists on the bill: Agustin Bosco, FREDDIESS, Hermansen and Martin Luraschi and 1 more. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

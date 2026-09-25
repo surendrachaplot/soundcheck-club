@@ -1,6 +1,6 @@
 # Running Clouds presents: David Lindmer, Oscar L, EZE RAMIREZ, & Amiti at SILO
 
-Running Clouds presents: David Lindmer, Oscar L, EZE RAMIREZ, & Amiti at SILO on Sat 17 Oct, Newyorkcity. 4 acts on the bill: Amiti, David Lindmer, EZE RAMIREZ and Oscar L. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Running Clouds presents: David Lindmer, Oscar L, EZE RAMIREZ, & Amiti at SILO on Sat 17 Oct, New York City. 4 artists on the bill: Amiti, David Lindmer, EZE RAMIREZ and Oscar L. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

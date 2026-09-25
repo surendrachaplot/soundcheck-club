@@ -1,6 +1,6 @@
 # GLOW Block Party: Diplo, Westend, Anabel Englund, Monty Kiddo at TBA - 600 Pennsylvania Ave, NW
 
-GLOW Block Party: Diplo, Westend, Anabel Englund, Monty Kiddo at TBA - 600 Pennsylvania Ave, NW on Sat 3 Oct, Washingtondc. 4 acts on the bill: Anabel Englund, Diplo, Fátima and Guillermo. House and Tech House. Preview the line-up and save it on soundcheck.
+GLOW Block Party: Diplo, Westend, Anabel Englund, Monty Kiddo at TBA - 600 Pennsylvania Ave, NW on Sat 3 Oct, Washington DC. 4 artists on the bill: Anabel Englund, Diplo, Fátima and Guillermo. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

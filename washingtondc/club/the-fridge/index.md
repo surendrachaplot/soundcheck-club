@@ -2,7 +2,7 @@
 
 The Fridge is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "ERODE, THE TEST DREAM" on Mon, 28 Sept 2026.
 
-The Fridge is a music venue in Washingtondc listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 516 8th St SE Rear Alley, Washington, DC 20003; United States.
+The Fridge is a music venue in Washington DC listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 516 8th St SE Rear Alley, Washington, DC 20003; United States.
 
 ## What's on
 

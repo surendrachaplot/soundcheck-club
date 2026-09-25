@@ -1,6 +1,6 @@
 # cater2u halloween: y2k, 2010's, house dance party at Gold Diggers
 
-cater2u halloween: y2k, 2010's, house dance party at Gold Diggers on Thu 8 Oct, Losangeles. House and Club. Preview the line-up and save it on soundcheck.
+cater2u halloween: y2k, 2010's, house dance party at Gold Diggers on Thu 8 Oct, Los Angeles. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

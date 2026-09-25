@@ -1,6 +1,6 @@
 # Berrylectro x HIGHVOLTAGE - RAVE at Club Sam's
 
-Berrylectro x HIGHVOLTAGE - RAVE at Club Sam's on Sat 17 Oct, Bielefeld. 2 acts on the bill: AMBAM and Mike Stevens. Trance and Techno. Preview the line-up and save it on soundcheck.
+Berrylectro x HIGHVOLTAGE - RAVE at Club Sam's on Sat 17 Oct, Bielefeld. 2 artists on the bill: AMBAM and Mike Stevens. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

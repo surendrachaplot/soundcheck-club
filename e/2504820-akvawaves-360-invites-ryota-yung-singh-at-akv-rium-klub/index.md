@@ -1,6 +1,6 @@
 # AkvaWaves 360 invites: Ryota, Yung Singh at Akvárium Klub
 
-AkvaWaves 360 invites: Ryota, Yung Singh at Akvárium Klub on Fri 16 Oct, Budapest. 2 acts on the bill: Ryota and Yung Singh. Drum & Bass. Preview the line-up and save it on soundcheck.
+AkvaWaves 360 invites: Ryota, Yung Singh at Akvárium Klub on Fri 16 Oct, Budapest. 2 artists on the bill: Ryota and Yung Singh. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

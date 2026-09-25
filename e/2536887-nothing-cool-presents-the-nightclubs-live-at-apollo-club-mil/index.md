@@ -1,6 +1,6 @@
 # Nothing Cool presents The Nightclubs (live) at Apollo Club Milano
 
-Nothing Cool presents The Nightclubs (live) at Apollo Club Milano on Sat 26 Sept, Milan. 3 acts on the bill: Bitter Saint, GABRIELEFEDELE and rar3. House and Electro. Preview the line-up and save it on soundcheck.
+Nothing Cool presents The Nightclubs (live) at Apollo Club Milano on Sat 26 Sept, Milan. 3 artists on the bill: Bitter Saint, GABRIELEFEDELE and rar3. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

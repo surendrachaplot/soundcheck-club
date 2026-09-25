@@ -1,6 +1,6 @@
 # Finesse: Ángel Negrín at Nice N Sleazy
 
-Finesse: Ángel Negrín at Nice N Sleazy on Sat 10 Oct, Glasgow. 4 acts on the bill: Angel Negrin, ITEM9, SunēX and TiLA. Techno. Preview the line-up and save it on soundcheck.
+Finesse: Ángel Negrín at Nice N Sleazy on Sat 10 Oct, Glasgow. 4 artists on the bill: Angel Negrin, ITEM9, SunēX and TiLA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

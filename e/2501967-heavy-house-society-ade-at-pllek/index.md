@@ -1,6 +1,6 @@
 # Heavy House Society ADE at Pllek
 
-Heavy House Society ADE at Pllek on Sat 24 Oct, Amsterdam. 9 acts on the bill: Boss Priester, Cam Stockman, Dennis Quin and Hidde van Wee and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Heavy House Society ADE at Pllek on Sat 24 Oct, Amsterdam. 9 artists on the bill: Boss Priester, Cam Stockman, Dennis Quin and Hidde van Wee and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

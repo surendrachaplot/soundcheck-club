@@ -1,6 +1,6 @@
 # Nido invite - Admo (live) & Molto at Nido Marseille
 
-Nido invite - Admo (live) & Molto at Nido Marseille on Fri 25 Sept, Marseille. 2 acts on the bill: Admo and Molto. Preview the line-up and save it on soundcheck.
+Nido invite - Admo (live) & Molto at Nido Marseille on Fri 25 Sept, Marseille. 2 artists on the bill: Admo and Molto. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

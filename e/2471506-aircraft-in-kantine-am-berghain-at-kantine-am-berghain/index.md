@@ -1,6 +1,6 @@
 # Aircraft in Kantine am Berghain at Kantine am Berghain
 
-Aircraft in Kantine am Berghain on Mon 28 Sept, Berlin. 1 act on the bill: Aircraft. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+Aircraft in Kantine am Berghain on Mon 28 Sept, Berlin. 1 artist on the bill: Aircraft. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

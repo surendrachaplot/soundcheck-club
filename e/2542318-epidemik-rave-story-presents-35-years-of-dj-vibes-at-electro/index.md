@@ -1,6 +1,6 @@
 # Epidemik & Rave Story presents 35 Years of DJ Vibes at Electrowerkz
 
-Epidemik & Rave Story presents 35 Years of DJ Vibes at Electrowerkz on Sat 17 Oct, London. 18 acts on the bill: Arkyn, Bass, Billy Daniel Bunter and Charlotte Devaney and 14 more. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
+Epidemik & Rave Story presents 35 Years of DJ Vibes at Electrowerkz on Sat 17 Oct, London. 18 artists on the bill: Arkyn, Bass, Billy Daniel Bunter and Charlotte Devaney and 14 more. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

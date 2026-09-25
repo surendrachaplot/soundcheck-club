@@ -1,6 +1,6 @@
 # Mark Farina's Mushroom Jazz - Halloween Edition with Nutritious at ZeyZey
 
-Mark Farina's Mushroom Jazz - Halloween Edition with Nutritious at ZeyZey on Sat 31 Oct, Miami. 2 acts on the bill: Mark Farina and Nutritious. Downtempo. Preview the line-up and save it on soundcheck.
+Mark Farina's Mushroom Jazz - Halloween Edition with Nutritious at ZeyZey on Sat 31 Oct, Miami. 2 artists on the bill: Mark Farina and Nutritious. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

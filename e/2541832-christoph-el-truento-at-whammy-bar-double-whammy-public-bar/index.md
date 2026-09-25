@@ -1,6 +1,6 @@
 # Christoph El Truento at Whammy Bar/Double Whammy/Public Bar
 
-Christoph El Truento at Whammy Bar/Double Whammy/Public Bar on Fri 25 Sept, Auckland. 1 act on the bill: Christoph El Truento. Jazz and Footwork. Preview the line-up and save it on soundcheck.
+Christoph El Truento at Whammy Bar/Double Whammy/Public Bar on Fri 25 Sept, Auckland. 1 artist on the bill: Christoph El Truento. Jazz and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

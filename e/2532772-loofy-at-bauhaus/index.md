@@ -1,6 +1,6 @@
 # Loofy at Bauhaus
 
-Loofy at Bauhaus on Sat 3 Oct, Houston. 1 act on the bill: Loofy. Techno and House. Preview the line-up and save it on soundcheck.
+Loofy at Bauhaus on Sat 3 Oct, Houston. 1 artist on the bill: Loofy. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SUBOTNIK PT 13 // TRANCE BOUNCE // Limoncello kichererbsenstampf at Neue Welle
 
-SUBOTNIK PT 13 // TRANCE BOUNCE // Limoncello kichererbsenstampf at Neue Welle on Sat 10 Oct, Leipzig. 4 acts on the bill: kichererbsenstampf, Limoncello, Richie Rollin and VLUNA. Trance. Preview the line-up and save it on soundcheck.
+SUBOTNIK PT 13 // TRANCE BOUNCE // Limoncello kichererbsenstampf at Neue Welle on Sat 10 Oct, Leipzig. 4 artists on the bill: kichererbsenstampf, Limoncello, Richie Rollin and VLUNA. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

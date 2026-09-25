@@ -1,6 +1,6 @@
 # AVA London 2026 at Various Venues
 
-AVA London 2026 at Various Venues on Thu 24 Sept, London. 26 acts on the bill: AliA, Bitter Babe, Blawan and Body Clinic and 22 more. Preview the line-up and save it on soundcheck.
+AVA London 2026 at Various Venues on Thu 24 Sept, London. 26 artists on the bill: AliA, Bitter Babe, Blawan and Body Clinic and 22 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

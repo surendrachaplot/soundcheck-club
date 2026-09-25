@@ -1,6 +1,6 @@
 # Mochakk at Big Night Live
 
-Mochakk at Big Night Live on Thu 29 Oct, Boston. 1 act on the bill: Mochakk. House and Tech House. Preview the line-up and save it on soundcheck.
+Mochakk at Big Night Live on Thu 29 Oct, Boston. 1 artist on the bill: Mochakk. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

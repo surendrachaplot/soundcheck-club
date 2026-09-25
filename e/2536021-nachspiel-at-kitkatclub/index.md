@@ -1,6 +1,6 @@
 # Nachspiel at KitKatClub
 
-Nachspiel at KitKatClub on Sun 25 Oct, Berlin. 1 act on the bill: Daora. Techno and Electro. Preview the line-up and save it on soundcheck.
+Nachspiel at KitKatClub on Sun 25 Oct, Berlin. 1 artist on the bill: Daora. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Modestep Live at The Steel Yard
 
-Modestep Live at The Steel Yard on Fri 4 Dec, London. 1 act on the bill: Modestep. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Modestep Live at The Steel Yard on Fri 4 Dec, London. 1 artist on the bill: Modestep. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

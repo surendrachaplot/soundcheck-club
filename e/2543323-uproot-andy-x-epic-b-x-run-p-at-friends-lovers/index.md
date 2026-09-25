@@ -1,6 +1,6 @@
 # Uproot Andy x Epic B x Run P at Friends & Lovers
 
-Uproot Andy x Epic B x Run P at Friends & Lovers on Sat 26 Sept, Newyorkcity. 2 acts on the bill: Run P. and Uproot Andy. Afrobeat and Dancehall. Preview the line-up and save it on soundcheck.
+Uproot Andy x Epic B x Run P at Friends & Lovers on Sat 26 Sept, New York City. 2 artists on the bill: Run P. and Uproot Andy. Afrobeat and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

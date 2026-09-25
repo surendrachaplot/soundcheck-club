@@ -1,14 +1,13 @@
 # Ernest
 
-Ernest is a music venue in Newcastle with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Decks Down Front with James Worker" on Thu, 24 Sept 2026.
+Ernest is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Decks Down Front with Lozz Triggs & Lyle" on Fri, 25 Sept 2026.
 
-Ernest is a music venue in Newcastle listed on soundcheck. 7 upcoming gigs, with line-ups including Henry Wilson, James Worker and Lyle. Browse upcoming dates, start times and who's playing. 1 Boyd Street, Ouseburn, Newcastle, NE2 1AP.
+Ernest is a music venue in Newcastle listed on soundcheck. 6 upcoming gigs, with line-ups including Henry Wilson and Lyle. Browse upcoming dates, start times and who's playing. 1 Boyd Street, Ouseburn, Newcastle, NE2 1AP.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Decks Down Front with James Worker | James Worker |
 | Fri, 25 Sept 2026 | Decks Down Front with Lozz Triggs & Lyle | Lyle |
 | Sat, 26 Sept 2026 | Decks Down Front with Finding Finley & Henry Wilson | Henry Wilson |
 | Sat, 3 Oct 2026 | 6JJACOB: ALL NIGHT LONG |  |

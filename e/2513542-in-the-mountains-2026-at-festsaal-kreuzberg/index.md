@@ -1,6 +1,6 @@
 # In the Mountains 2026 at Festsaal Kreuzberg
 
-In the Mountains 2026 at Festsaal Kreuzberg on Sat 26 Sept, Berlin. 2 acts on the bill: Citizens Union and Lychee (AM). Preview the line-up and save it on soundcheck.
+In the Mountains 2026 at Festsaal Kreuzberg on Sat 26 Sept, Berlin. 2 artists on the bill: Citizens Union and Lychee (AM). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

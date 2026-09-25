@@ -1,6 +1,6 @@
 # Paralich ALL NIGHT LONG DEAD END FREE/INGYENES Arzenal at Arzenal
 
-Paralich ALL NIGHT LONG DEAD END FREE/INGYENES Arzenal on Sat 14 Nov, Budapest. 2 acts on the bill: Paralich and Valenthin. Preview the line-up and save it on soundcheck.
+Paralich ALL NIGHT LONG DEAD END FREE/INGYENES Arzenal on Sat 14 Nov, Budapest. 2 artists on the bill: Paralich and Valenthin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Distrikt presents x Toasted Records Cap B2B E.LINA, Edward, Hamish & Toby at Distrikt
 
-Distrikt presents x Toasted Records Cap B2B E.LINA, Edward, Hamish & Toby on Sat 26 Sept, Leeds. 8 acts on the bill: Cap, E.LINA, Edward and Hamish & Toby and 4 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Distrikt presents x Toasted Records Cap B2B E.LINA, Edward, Hamish & Toby on Sat 26 Sept, Leeds. 8 artists on the bill: Cap, E.LINA, Edward and Hamish & Toby and 4 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

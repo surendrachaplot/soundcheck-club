@@ -1,6 +1,6 @@
 # Buckley Curates: Buckley B2B Just Jane (All Night Long) at The Croft
 
-Buckley Curates: Buckley B2B Just Jane (All Night Long) at The Croft on Fri 9 Oct, Bristol. 2 acts on the bill: Buckley (UK) and Just Jane. Preview the line-up and save it on soundcheck.
+Buckley Curates: Buckley B2B Just Jane (All Night Long) at The Croft on Fri 9 Oct, Bristol. 2 artists on the bill: Buckley (UK) and Just Jane. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

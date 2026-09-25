@@ -1,6 +1,6 @@
 # Sigma Ibiza presents: Lucas vazz (Berlin), Fefe Klotz, Cris Kai, Ignacio Aguirre at Sigma
 
-Sigma Ibiza presents: Lucas vazz (Berlin), Fefe Klotz, Cris Kai, Ignacio Aguirre on Fri 2 Oct, Ibiza. 2 acts on the bill: Cris Kai and Lucas Vazz. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Sigma Ibiza presents: Lucas vazz (Berlin), Fefe Klotz, Cris Kai, Ignacio Aguirre on Fri 2 Oct, Ibiza. 2 artists on the bill: Cris Kai and Lucas Vazz. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

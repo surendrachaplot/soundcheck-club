@@ -2,7 +2,7 @@
 
 Boo Williams is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The 1896, New York City on Sat, 17 Oct 2026.
 
-Boo Williams is a house and deep house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Austin, Belgrade, Berlin and Chicago and 3 more. Often billed alongside Glenn Underground, Mike Dunn and RIRKIN. Next up: The 1896, Newyorkcity on Sat 17 Oct.
+Boo Williams is a house and deep house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Austin, Belgrade, Berlin and Chicago and 3 more. Often billed alongside Glenn Underground, Mike Dunn and RIRKIN. Next up: The 1896, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 

@@ -1,8 +1,8 @@
 # bbsanii
 
-bbsanii is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 25 Sept 2026.
+bbsanii is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 25 Sept 2026.
 
-bbsanii is a techno and house artist based in Australia, tracked on soundcheck, with 32 sets logged across Melbourne. Often billed alongside JUPiTA, Tina Disco and Aaliyah Salem. Next up: Revolver Upstairs, Melbourne on Fri 25 Sept.
+bbsanii is a techno and house artist based in Australia, tracked on soundcheck, with 33 sets logged across Melbourne and Victoria. Often billed alongside JUPiTA, Tina Disco and Aaliyah Salem. Next up: Revolver Upstairs, Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ bbsanii is a techno and house artist based in Australia, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Revolver Upstairs | Melbourne |
 | Fri, 16 Oct 2026 | New Guernica | Melbourne |
+| Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 
 ## Recently played
 

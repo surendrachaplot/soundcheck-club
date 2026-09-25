@@ -1,8 +1,8 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pacha New York, New York City on Fri, 25 Sept 2026.
+Armand Van Helden is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pacha New York, New York City on Fri, 25 Sept 2026.
 
-Armand Van Helden is a house and disco artist based in United States of America, tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Pacha New York, Newyorkcity on Fri 25 Sept.
+Armand Van Helden is a house and tech house artist based in United States of America, tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Auckland and Barcelona and 35 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Pacha New York, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,9 +12,12 @@ Armand Van Helden is a house and disco artist based in United States of America,
 | Sun, 27 Sept 2026 | Los Angeles State Historic Park | Los Angeles |
 | Sat, 24 Oct 2026 | Hemkade 48 | Amsterdam |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
+| Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Fri, 27 Nov 2026 | Grand Central Hall | Liverpool |
+| Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 | Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
+| Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 
 ## Recently played
 

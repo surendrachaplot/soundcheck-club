@@ -2,7 +2,7 @@
 
 Webster Hall is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Kybba" on Fri, 25 Sept 2026.
 
-Webster Hall is a music venue in Newyorkcity listed on soundcheck. 5 upcoming gigs, with line-ups including 444 (1), Amtrac, DJ Habibeats and Ushka. Browse upcoming dates, start times and who's playing. 125 East 11th Street; New York, NY 10003; United States.
+Webster Hall is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including 444, Amtrac, DJ Habibeats and Ushka. Browse upcoming dates, start times and who's playing. 125 East 11th Street; New York, NY 10003; United States.
 
 ## What's on
 

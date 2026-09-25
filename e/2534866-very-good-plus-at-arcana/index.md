@@ -1,6 +1,6 @@
 # Very Good Plus at Arcana
 
-Very Good Plus at Arcana on Sat 26 Sept, Sanfrancisco. 2 acts on the bill: Albion Street Music and B.Love. House and Tech House. Preview the line-up and save it on soundcheck.
+Very Good Plus at Arcana on Sat 26 Sept, San Francisco/Oakland. 2 artists on the bill: Albion Street Music and B.Love. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

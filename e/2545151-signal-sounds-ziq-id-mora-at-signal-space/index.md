@@ -1,6 +1,6 @@
 # Signal Sounds: µ-Ziq & ID:Mora at Signal Space
 
-Signal Sounds: µ-Ziq & ID:Mora at Signal Space on Fri 23 Oct, Prague. 1 act on the bill: µ-Ziq. IDM and Drill. Preview the line-up and save it on soundcheck.
+Signal Sounds: µ-Ziq & ID:Mora at Signal Space on Fri 23 Oct, Prague. 1 artist on the bill: µ-Ziq. IDM and Drill. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

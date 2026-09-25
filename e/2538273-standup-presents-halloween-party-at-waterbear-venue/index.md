@@ -1,6 +1,6 @@
 # StandUP presents: Halloween Party at WaterBear Venue
 
-StandUP presents: Halloween Party at WaterBear Venue on Sat 31 Oct, Brighton. 1 act on the bill: Oren (IT). Progressive House and Electro. Preview the line-up and save it on soundcheck.
+StandUP presents: Halloween Party at WaterBear Venue on Sat 31 Oct, Brighton. 1 artist on the bill: Oren (IT). Progressive House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

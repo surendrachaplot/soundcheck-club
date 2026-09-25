@@ -1,6 +1,6 @@
 # Paranormal Disco at The Model
 
-Paranormal Disco at The Model on Sat 31 Oct, Nottingham. 5 acts on the bill: Brad Bradley, Burly Chassis, dj come and rPal and 1 more. Tech House and Italo Disco. Preview the line-up and save it on soundcheck.
+Paranormal Disco at The Model on Sat 31 Oct, Nottingham. 5 artists on the bill: Brad Bradley, Burly Chassis, dj come and rPal and 1 more. Tech House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # INTERSECT at Rote Flora
 
-INTERSECT at Rote Flora on Sat 17 Oct, Hamburg. 1 act on the bill: Val Vashar. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+INTERSECT at Rote Flora on Sat 17 Oct, Hamburg. 1 artist on the bill: Val Vashar. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BALAGAN 26.09 at Moon Club
 
-BALAGAN 26.09 at Moon Club on Sat 26 Sept, Lisbon. 3 acts on the bill: ANÍBAL, Djooke and Onio (PT). Techno. Preview the line-up and save it on soundcheck.
+BALAGAN 26.09 at Moon Club on Sat 26 Sept, Lisbon. 3 artists on the bill: ANÍBAL, Djooke and Onio (PT). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

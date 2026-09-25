@@ -1,6 +1,6 @@
 # U.22 X Dreamachine Festival: Dmra (Live), Madge, Sarra Wild at Unité.22
 
-U.22 X Dreamachine Festival: Dmra (Live), Madge, Sarra Wild at Unité.22 on Fri 25 Sept, Marseille. 1 act on the bill: Sarra Wild. Techno and IDM. Preview the line-up and save it on soundcheck.
+U.22 X Dreamachine Festival: Dmra (Live), Madge, Sarra Wild at Unité.22 on Fri 25 Sept, Marseille. 1 artist on the bill: Sarra Wild. Techno and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

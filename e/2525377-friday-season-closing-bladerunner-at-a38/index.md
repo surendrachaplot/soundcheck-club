@@ -1,6 +1,6 @@
 # Friday Season Closing: Bladerunner at A38
 
-Friday Season Closing: Bladerunner at A38 on Fri 2 Oct, Budapest. 2 acts on the bill: Bladerunner and Markov. Drum & Bass. Preview the line-up and save it on soundcheck.
+Friday Season Closing: Bladerunner at A38 on Fri 2 Oct, Budapest. 2 artists on the bill: Bladerunner and Markov. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Passion DEEZ & Friends w/ special guest at nachbar
 
-Passion DEEZ & Friends w/ special guest at nachbar on Thu 24 Sept, Amsterdam. 1 act on the bill: Passion DEEZ. Preview the line-up and save it on soundcheck.
+Passion DEEZ & Friends w/ special guest at nachbar on Thu 24 Sept, Amsterdam. 1 artist on the bill: Passion DEEZ. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

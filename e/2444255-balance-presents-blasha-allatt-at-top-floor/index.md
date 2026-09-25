@@ -1,6 +1,6 @@
 # Balance presents Blasha & Allatt at Top Floor
 
-Balance presents Blasha & Allatt at Top Floor on Fri 2 Oct, Newcastle. 1 act on the bill: Blasha & Allatt. Techno. Preview the line-up and save it on soundcheck.
+Balance presents Blasha & Allatt at Top Floor on Fri 2 Oct, Newcastle. 1 artist on the bill: Blasha & Allatt. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

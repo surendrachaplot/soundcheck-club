@@ -1,6 +1,6 @@
 # <3<3 Y2K NITE - CASUAL LOOK B2B PEARL NECKLACE <3<3 at Nice N Sleazy
 
-<3<3 Y2K NITE - CASUAL LOOK B2B PEARL NECKLACE <3<3 at Nice N Sleazy on Sat 26 Sept, Glasgow. 1 act on the bill: Casual Look. Garage and Pop. Preview the line-up and save it on soundcheck.
+<3<3 Y2K NITE - CASUAL LOOK B2B PEARL NECKLACE <3<3 at Nice N Sleazy on Sat 26 Sept, Glasgow. 1 artist on the bill: Casual Look. Garage and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

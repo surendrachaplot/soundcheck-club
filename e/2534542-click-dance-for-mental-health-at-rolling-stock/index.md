@@ -1,6 +1,6 @@
 # Click - Dance for Mental Health at Rolling Stock
 
-Click - Dance for Mental Health at Rolling Stock on Sat 17 Oct, London. 3 acts on the bill: George Peck, J:MoB and THIRZA. House. Preview the line-up and save it on soundcheck.
+Click - Dance for Mental Health at Rolling Stock on Sat 17 Oct, London. 3 artists on the bill: George Peck, J:MoB and THIRZA. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

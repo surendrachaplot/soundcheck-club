@@ -1,6 +1,6 @@
 # Cheeky Monday: Gremlinz at Melkweg
 
-Cheeky Monday: Gremlinz at Melkweg on Mon 5 Oct, Amsterdam. 1 act on the bill: Gremlinz. Drum & Bass. Preview the line-up and save it on soundcheck.
+Cheeky Monday: Gremlinz at Melkweg on Mon 5 Oct, Amsterdam. 1 artist on the bill: Gremlinz. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cermak Hall at TBA
 
-Cermak Hall at TBA on Sat 10 Oct, Chicago. 1 act on the bill: Maddix. Preview the line-up and save it on soundcheck.
+Cermak Hall at TBA on Sat 10 Oct, Chicago. 1 artist on the bill: Maddix. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

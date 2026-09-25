@@ -2,7 +2,7 @@
 
 ephemer (4) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Flex, Vienna on Sat, 3 Oct 2026.
 
-ephemer (4) is a techno and bass artist based in Paraguay, tracked on soundcheck, with 38 sets logged across Berlin, Hongkong, London and Prague and 2 more. Often billed alongside DJ Once, Lucia Kagramanyan and Antonia XM. Next up: Flex, Vienna on Sat 3 Oct.
+ephemer is a techno and bass artist based in Paraguay, tracked on soundcheck, with 38 sets logged across Berlin, Hong Kong, London and Prague and 2 more. Often billed alongside DJ Once, Lucia Kagramanyan and Antonia XM. Next up: Flex, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 

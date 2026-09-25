@@ -1,6 +1,6 @@
 # AGGREGATE Festival Berlin - new music for pipe organs at Konzerthaus Berlin
 
-AGGREGATE Festival Berlin - new music for pipe organs at Konzerthaus Berlin on Wed 30 Sept, Berlin. 3 acts on the bill: Efdemin, Laurie Spiegel and Rrose. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+AGGREGATE Festival Berlin - new music for pipe organs at Konzerthaus Berlin on Wed 30 Sept, Berlin. 3 artists on the bill: Efdemin, Laurie Spiegel and Rrose. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sights & Sounds: Zombies In Miami at The Chocolate Factory
 
-Sights & Sounds: Zombies In Miami at The Chocolate Factory on Sat 7 Nov, Newyorkcity. 1 act on the bill: Zombies In Miami. Techno and House. Preview the line-up and save it on soundcheck.
+Sights & Sounds: Zombies In Miami at The Chocolate Factory on Sat 7 Nov, New York City. 1 artist on the bill: Zombies In Miami. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

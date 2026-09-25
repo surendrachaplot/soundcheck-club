@@ -1,6 +1,6 @@
 # Surface DIY 12hr Thanksgiving Marathon at TBA
 
-Surface DIY 12hr Thanksgiving Marathon at TBA on Wed 25 Nov, Losangeles. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Surface DIY 12hr Thanksgiving Marathon at TBA on Wed 25 Nov, Los Angeles. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

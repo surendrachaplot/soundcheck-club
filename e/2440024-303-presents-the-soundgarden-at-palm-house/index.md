@@ -1,6 +1,6 @@
 # 303 Presents The Soundgarden at Palm House
 
-303 Presents The Soundgarden at Palm House on Sat 3 Oct, Liverpool. 3 acts on the bill: Danny Howells, Gustin and Nick Warren. House and Acid. Preview the line-up and save it on soundcheck.
+303 Presents The Soundgarden at Palm House on Sat 3 Oct, Liverpool. 3 artists on the bill: Danny Howells, Gustin and Nick Warren. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

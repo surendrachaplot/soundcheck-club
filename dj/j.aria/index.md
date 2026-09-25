@@ -2,7 +2,7 @@
 
 J. Aria is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Scala, London on Fri, 25 Sept 2026.
 
-J. Aria is a house and techno artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Berlin, Bristol, London and Newyorkcity. Often billed alongside Joshua James, Nadine Noor and ASHTREY. Next up: The Scala, London on Fri 25 Sept.
+J. Aria is a house and techno artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Berlin, Bristol, London and New York City. Often billed alongside Joshua James, Nadine Noor and ASHTREY. Next up: The Scala, London on Fri 25 Sept.
 
 ## Upcoming shows
 

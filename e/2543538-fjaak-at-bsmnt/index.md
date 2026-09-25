@@ -1,6 +1,6 @@
 # FJAAK at Bsmnt
 
-FJAAK at Bsmnt on Thu 24 Sept, Boston. 1 act on the bill: FJAAK. Techno and Tech House. Preview the line-up and save it on soundcheck.
+FJAAK at Bsmnt on Thu 24 Sept, Boston. 1 artist on the bill: FJAAK. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

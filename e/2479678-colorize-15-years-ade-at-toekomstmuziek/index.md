@@ -1,6 +1,6 @@
 # Colorize: 15 Years - ADE at Toekomstmuziek
 
-Colorize: 15 Years - ADE at Toekomstmuziek on Thu 22 Oct, Amsterdam. 14 acts on the bill: Alex Breitling, ALLKNIGHT, Datskie and Estiva and 10 more. Preview the line-up and save it on soundcheck.
+Colorize: 15 Years - ADE at Toekomstmuziek on Thu 22 Oct, Amsterdam. 14 artists on the bill: Alex Breitling, ALLKNIGHT, Datskie and Estiva and 10 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

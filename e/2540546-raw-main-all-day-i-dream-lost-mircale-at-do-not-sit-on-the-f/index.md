@@ -1,6 +1,6 @@
 # Raw Main [All Day I Dream / Lost Mircale] at Do Not Sit On The Furniture
 
-Raw Main [All Day I Dream / Lost Mircale] at Do Not Sit On The Furniture on Sat 28 Nov, Miami. 2 acts on the bill: Jessy Nimni and Raw Main. House and Deep House. Preview the line-up and save it on soundcheck.
+Raw Main [All Day I Dream / Lost Mircale] at Do Not Sit On The Furniture on Sat 28 Nov, Miami. 2 artists on the bill: Jessy Nimni and Raw Main. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

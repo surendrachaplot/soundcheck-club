@@ -1,6 +1,6 @@
 # Defected Malta at TBA - Various Venues
 
-Defected Malta at TBA - Various Venues on Thu 1 Oct, Malta. 56 acts on the bill: Aline Rocha, Anane, Catz 'N Dogz and Chez Damier and 52 more. House. Preview the line-up and save it on soundcheck.
+Defected Malta at TBA - Various Venues on Thu 1 Oct, Malta. 56 artists on the bill: Aline Rocha, Anane, Catz 'N Dogz and Chez Damier and 52 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

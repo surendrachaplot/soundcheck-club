@@ -1,6 +1,6 @@
 # Ambient Sauna • ANNX & Jezebelle at Sauna Social Club
 
-Ambient Sauna • ANNX & Jezebelle at Sauna Social Club on Sun 4 Oct, London. 2 acts on the bill: ANNX and Jezebelle. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
+Ambient Sauna • ANNX & Jezebelle at Sauna Social Club on Sun 4 Oct, London. 2 artists on the bill: ANNX and Jezebelle. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

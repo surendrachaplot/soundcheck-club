@@ -1,6 +1,6 @@
 # DEATHPACT: From Darkness, Comes Light: Eclipsed presented by Public Works & DJ Dials at Public Works
 
-DEATHPACT: From Darkness, Comes Light: Eclipsed presented by Public Works & DJ Dials on Sat 21 Nov, Sanfrancisco. Preview the line-up and save it on soundcheck.
+DEATHPACT: From Darkness, Comes Light: Eclipsed presented by Public Works & DJ Dials on Sat 21 Nov, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

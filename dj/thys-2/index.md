@@ -2,7 +2,7 @@
 
 THYS (2) is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pracht, Frankfurt on Sat, 26 Sept 2026.
 
-THYS (2) is a progressive house and electronica artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Frankfurt. Often billed alongside ABADIR, Bill Kouligas and Binghi. Next up: Pracht, Frankfurt on Sat 26 Sept.
+THYS is a progressive house and electronica artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Frankfurt. Often billed alongside ABADIR, Bill Kouligas and Binghi. Next up: Pracht, Frankfurt on Sat 26 Sept.
 
 ## Upcoming shows
 

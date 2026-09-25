@@ -1,6 +1,6 @@
 # East End Dubs at NX Newcastle
 
-East End Dubs at NX Newcastle on Fri 13 Nov, Newcastle. 3 acts on the bill: East End Dubs, Kitty Hall and Wildish. Techno and Tech House. Preview the line-up and save it on soundcheck.
+East End Dubs at NX Newcastle on Fri 13 Nov, Newcastle. 3 artists on the bill: East End Dubs, Kitty Hall and Wildish. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

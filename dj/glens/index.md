@@ -2,7 +2,7 @@
 
 Glen S is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Night Cat, Melbourne on Sat, 26 Sept 2026.
 
-Glen S is a progressive house and house artist based in Australia, tracked on soundcheck, with 32 sets logged across Berlin, Chicago, Copenhagen and Hongkong and 8 more. Often billed alongside Abdul Raeva, Akirahawks and BBYG. Next up: The Night Cat, Melbourne on Sat 26 Sept.
+Glen S is a progressive house and house artist based in Australia, tracked on soundcheck, with 32 sets logged across Berlin, Chicago, Copenhagen and Hong Kong and 8 more. Often billed alongside Abdul Raeva, Akirahawks and BBYG. Next up: The Night Cat, Melbourne on Sat 26 Sept.
 
 ## Upcoming shows
 

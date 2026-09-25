@@ -1,6 +1,6 @@
 # DEN/TEC X CODE RED PRESENT: MADGRRL at TBA - Void Studios
 
-DEN/TEC X CODE RED PRESENT: MADGRRL at TBA - Void Studios on Sat 10 Oct, Denver. 2 acts on the bill: Lorely Mur and MADGRRL. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+DEN/TEC X CODE RED PRESENT: MADGRRL at TBA - Void Studios on Sat 10 Oct, Denver. 2 artists on the bill: Lorely Mur and MADGRRL. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

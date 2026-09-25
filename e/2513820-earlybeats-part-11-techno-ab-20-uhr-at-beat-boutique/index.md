@@ -1,6 +1,6 @@
 # EarlyBeats - Part 11 - Techno ab 20 Uhr at Beat Boutique
 
-EarlyBeats - Part 11 - Techno ab 20 Uhr at Beat Boutique on Sat 28 Nov, Hamburg. 2 acts on the bill: NoraDrenalin and STOECKER_. Techno and Tech House. Preview the line-up and save it on soundcheck.
+EarlyBeats - Part 11 - Techno ab 20 Uhr at Beat Boutique on Sat 28 Nov, Hamburg. 2 artists on the bill: NoraDrenalin and STOECKER_. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

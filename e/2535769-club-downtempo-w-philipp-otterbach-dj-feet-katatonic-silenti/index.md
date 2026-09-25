@@ -1,6 +1,6 @@
 # Club Downtempo w/ Philipp Otterbach / DJ Feet / Katatonic Silentio / Utopian at TBA - Secret Location (Madrid)
 
-Club Downtempo w/ Philipp Otterbach / DJ Feet / Katatonic Silentio / Utopian at TBA - Secret Location (Madrid) on Sat 3 Oct, Madrid. 3 acts on the bill: DJ Feet, Katatonic Silentio and Philipp Otterbach. Downtempo and Club. Preview the line-up and save it on soundcheck.
+Club Downtempo w/ Philipp Otterbach / DJ Feet / Katatonic Silentio / Utopian at TBA - Secret Location (Madrid) on Sat 3 Oct, Madrid. 3 artists on the bill: DJ Feet, Katatonic Silentio and Philipp Otterbach. Downtempo and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

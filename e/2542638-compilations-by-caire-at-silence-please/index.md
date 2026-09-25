@@ -1,6 +1,6 @@
 # Compilations by Caire at Silence Please
 
-Compilations by Caire at Silence Please on Thu 24 Sept, Newyorkcity. 1 act on the bill: Caire. Downtempo. Preview the line-up and save it on soundcheck.
+Compilations by Caire at Silence Please on Thu 24 Sept, New York City. 1 artist on the bill: Caire. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

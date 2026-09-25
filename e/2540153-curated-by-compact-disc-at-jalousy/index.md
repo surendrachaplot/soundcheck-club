@@ -1,6 +1,6 @@
 # Curated By Compact Disc at Jalousy
 
-Curated By Compact Disc at Jalousy on Sat 26 Sept, Brussels. 1 act on the bill: Sofiia Zoloto. Tech House and Electro. Preview the line-up and save it on soundcheck.
+Curated By Compact Disc at Jalousy on Sat 26 Sept, Brussels. 1 artist on the bill: Sofiia Zoloto. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

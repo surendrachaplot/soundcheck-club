@@ -2,7 +2,7 @@
 
 indek is a Breakcore and IDM artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at RAUM RESONANZ KÖRPER (RRK), Munich on Thu, 1 Oct 2026.
 
-indek is a breakcore and idm artist based in United States of America, tracked on soundcheck, with 4 sets logged across Leeds, London, Munich and Nurnberg. Often billed alongside Nixtrove and Ans M. Next up: RAUM RESONANZ KÖRPER (RRK), Munich on Thu 1 Oct.
+indek is a breakcore and idm artist based in United States of America, tracked on soundcheck, with 4 sets logged across Leeds, London, Munich and Nürnberg. Often billed alongside Nixtrove and Ans M. Next up: RAUM RESONANZ KÖRPER (RRK), Munich on Thu 1 Oct.
 
 ## Upcoming shows
 

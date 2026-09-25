@@ -1,6 +1,6 @@
 # Super Discount Festival at 104 CENTQUATRE
 
-Super Discount Festival at 104 CENTQUATRE on Fri 18 Dec, Paris. 7 acts on the bill: Etienne De Crecy, Felix Da Housecat, Jayda G and Kenny Dope and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Super Discount Festival at 104 CENTQUATRE on Fri 18 Dec, Paris. 7 artists on the bill: Etienne De Crecy, Felix Da Housecat, Jayda G and Kenny Dope and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

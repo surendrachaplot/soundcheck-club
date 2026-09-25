@@ -1,6 +1,6 @@
 # Pulse presents: Under The Arch at Bread & Butter Arch
 
-Pulse presents: Under The Arch at Bread & Butter Arch on Sat 3 Oct, London. 4 acts on the bill: Headrow, HIFEELINGS, Sensu (2) and Wi-Fai. Bass and Garage. Preview the line-up and save it on soundcheck.
+Pulse presents: Under The Arch at Bread & Butter Arch on Sat 3 Oct, London. 4 artists on the bill: Headrow, HIFEELINGS, Sensu and Wi-Fai. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

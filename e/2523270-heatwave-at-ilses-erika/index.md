@@ -1,6 +1,6 @@
 # Heatwave at Ilses Erika
 
-Heatwave at Ilses Erika on Fri 25 Sept, Leipzig. 1 act on the bill: stinia3000. Italo Disco. Preview the line-up and save it on soundcheck.
+Heatwave at Ilses Erika on Fri 25 Sept, Leipzig. 1 artist on the bill: stinia3000. Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

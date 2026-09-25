@@ -1,6 +1,6 @@
 # Hot Meal pres. Mija Invites at Basement (Amsterdam)
 
-Hot Meal pres. Mija Invites at Basement (Amsterdam) on Fri 23 Oct, Amsterdam. 3 acts on the bill: camoufly, Dr. G and Mija. Preview the line-up and save it on soundcheck.
+Hot Meal pres. Mija Invites at Basement (Amsterdam) on Fri 23 Oct, Amsterdam. 3 artists on the bill: camoufly, Dr. G and Mija. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

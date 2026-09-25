@@ -1,6 +1,6 @@
 # Undergroove: Arval invites Certain People at Doggy Klœb
 
-Undergroove: Arval invites Certain People at Doggy Klœb on Fri 25 Sept, Malaga. 2 acts on the bill: Arval and Certain People. Minimal and Electronica. Preview the line-up and save it on soundcheck.
+Undergroove: Arval invites Certain People at Doggy Klœb on Fri 25 Sept, Malaga. 2 artists on the bill: Arval and Certain People. Minimal and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

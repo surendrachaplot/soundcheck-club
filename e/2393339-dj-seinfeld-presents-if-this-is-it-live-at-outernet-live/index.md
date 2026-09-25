@@ -1,6 +1,6 @@
 # DJ Seinfeld presents 'If This Is It' LIVE at Outernet Live
 
-DJ Seinfeld presents 'If This Is It' LIVE at Outernet Live on Thu 1 Oct, London. 1 act on the bill: DJ Seinfeld. House and Tech House. Preview the line-up and save it on soundcheck.
+DJ Seinfeld presents 'If This Is It' LIVE at Outernet Live on Thu 1 Oct, London. 1 artist on the bill: DJ Seinfeld. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

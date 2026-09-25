@@ -1,6 +1,6 @@
 # Flower Factory feat. Shaun J. Wright at Zebbie's Garden
 
-Flower Factory feat. Shaun J. Wright at Zebbie's Garden on Sun 11 Oct, Washingtondc. 5 acts on the bill: Gail Force One, Joann Fabrixx, Prince Rose and PWRPUFF and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Flower Factory feat. Shaun J. Wright at Zebbie's Garden on Sun 11 Oct, Washington DC. 5 artists on the bill: Gail Force One, Joann Fabrixx, Prince Rose and PWRPUFF and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Locura Groovy at Bollwerk Cologne
 
-Locura Groovy at Bollwerk Cologne on Sat 26 Sept, Cologne. 2 acts on the bill: Dj Kuschelschal and Raul Parra. Industrial and Electronica. Preview the line-up and save it on soundcheck.
+Locura Groovy at Bollwerk Cologne on Sat 26 Sept, Cologne. 2 artists on the bill: Dj Kuschelschal and Raul Parra. Industrial and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

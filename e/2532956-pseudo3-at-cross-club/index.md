@@ -1,6 +1,6 @@
 # PSEUDO3 at Cross Club
 
-PSEUDO3 at Cross Club on Thu 1 Oct, Prague. 1 act on the bill: NOSTÆ ox. Drum & Bass and Dub. Preview the line-up and save it on soundcheck.
+PSEUDO3 at Cross Club on Thu 1 Oct, Prague. 1 artist on the bill: NOSTÆ ox. Drum & Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

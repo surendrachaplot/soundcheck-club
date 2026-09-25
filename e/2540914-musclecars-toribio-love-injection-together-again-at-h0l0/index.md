@@ -1,6 +1,6 @@
 # MUSCLECARS, Toribio, Love Injection: Together Again at H0L0
 
-MUSCLECARS, Toribio, Love Injection: Together Again at H0L0 on Sat 12 Dec, Newyorkcity. 3 acts on the bill: Love Injection, MUSCLECARS and Toribio. House and Deep House. Preview the line-up and save it on soundcheck.
+MUSCLECARS, Toribio, Love Injection: Together Again at H0L0 on Sat 12 Dec, New York City. 3 artists on the bill: Love Injection, MUSCLECARS and Toribio. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

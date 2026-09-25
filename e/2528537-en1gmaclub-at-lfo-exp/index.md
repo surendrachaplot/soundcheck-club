@@ -1,6 +1,6 @@
 # EN1GMACLUB at LFO.exp
 
-EN1GMACLUB at LFO.exp on Fri 9 Oct, Madrid. 4 acts on the bill: Alinka, FUKCNORMAL, lesbiannette and Wurmk. Preview the line-up and save it on soundcheck.
+EN1GMACLUB at LFO.exp on Fri 9 Oct, Madrid. 4 artists on the bill: Alinka, FUKCNORMAL, lesbiannette and Wurmk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Free Your Mind x Teletech: 4 the People at Hemkade 48
 
-Free Your Mind x Teletech: 4 the People at Hemkade 48 on Thu 22 Oct, Amsterdam. 7 acts on the bill: 6EJOU, ANXHELA, DYEN and Mad Dog and 3 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Free Your Mind x Teletech: 4 the People at Hemkade 48 on Thu 22 Oct, Amsterdam. 7 artists on the bill: 6EJOU, ANXHELA, DYEN and Mad Dog and 3 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FNGRS CRSSD x knownunknown present BAUGRUPPE90 + 6 SENSE at Spin
 
-FNGRS CRSSD x knownunknown present BAUGRUPPE90 + 6 SENSE at Spin on Sat 7 Nov, Sandiego. 2 acts on the bill: 6 SENSE and BAUGRUPPE90. Preview the line-up and save it on soundcheck.
+FNGRS CRSSD x knownunknown present BAUGRUPPE90 + 6 SENSE at Spin on Sat 7 Nov, San Diego. 2 artists on the bill: 6 SENSE and BAUGRUPPE90. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

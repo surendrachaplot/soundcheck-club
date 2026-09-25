@@ -1,6 +1,6 @@
 # SWEET N SOUR at Planet Wax
 
-SWEET N SOUR at Planet Wax on Fri 25 Sept, London. 3 acts on the bill: OB, tmk (CZ) and WYR (UK). Drum & Bass. Preview the line-up and save it on soundcheck.
+SWEET N SOUR at Planet Wax on Fri 25 Sept, London. 3 artists on the bill: OB, tmk (CZ) and WYR (UK). Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

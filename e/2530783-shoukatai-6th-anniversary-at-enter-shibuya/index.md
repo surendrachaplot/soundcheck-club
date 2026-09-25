@@ -1,6 +1,6 @@
 # 松果体 =shoukatai= 6th Anniversary at Enter Shibuya
 
-松果体 =shoukatai= 6th Anniversary at Enter Shibuya on Fri 2 Oct, Tokyo. 5 acts on the bill: age (1), Lisa Mizuno, NYAO and Toki Fuko and 1 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
+松果体 =shoukatai= 6th Anniversary at Enter Shibuya on Fri 2 Oct, Tokyo. 5 artists on the bill: age, Lisa Mizuno, NYAO and Toki Fuko and 1 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

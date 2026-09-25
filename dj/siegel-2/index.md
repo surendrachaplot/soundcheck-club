@@ -2,7 +2,7 @@
 
 SIEGEL (2) is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jolene Downtown Miami, Miami on Sat, 26 Sept 2026.
 
-SIEGEL (2) is a house and tech house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Losangeles, Miami, Montreal and Newyorkcity. Often billed alongside Cami di Marzo, DIFFER and JOVIGIBS. Next up: Jolene Downtown Miami, Miami on Sat 26 Sept.
+SIEGEL is a house and tech house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Los Angeles, Miami, Montreal and New York City. Often billed alongside Cami di Marzo, DIFFER and JOVIGIBS. Next up: Jolene Downtown Miami, Miami on Sat 26 Sept.
 
 ## Upcoming shows
 

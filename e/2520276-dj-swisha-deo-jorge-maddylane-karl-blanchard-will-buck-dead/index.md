@@ -1,6 +1,6 @@
 # DJ SWISHA, Deo'jorge, Maddylane, KARL BLANCHARD, Will Buck - Dead Letter No.9 at Dead Letter No. 9
 
-DJ SWISHA, Deo'jorge, Maddylane, KARL BLANCHARD, Will Buck - Dead Letter No.9 at Dead Letter No. 9 on Sat 26 Sept, Newyorkcity. 5 acts on the bill: Deo'jorge, DJ SWISHA, KARL BLANCHARD and Maddylane and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+DJ SWISHA, Deo'jorge, Maddylane, KARL BLANCHARD, Will Buck - Dead Letter No.9 at Dead Letter No. 9 on Sat 26 Sept, New York City. 5 artists on the bill: Deo'jorge, DJ SWISHA, KARL BLANCHARD and Maddylane and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

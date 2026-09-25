@@ -1,6 +1,6 @@
 # Rings Of Neptune: Atree, Cleymoore, Rubi at Club der Visionaere
 
-Rings Of Neptune: Atree, Cleymoore, Rubi at Club der Visionaere on Sat 26 Sept, Berlin. 3 acts on the bill: Atree, Cleymoore and rubi*. Preview the line-up and save it on soundcheck.
+Rings Of Neptune: Atree, Cleymoore, Rubi at Club der Visionaere on Sat 26 Sept, Berlin. 3 artists on the bill: Atree, Cleymoore and rubi*. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

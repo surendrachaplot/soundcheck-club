@@ -1,6 +1,6 @@
 # DIAVOLI in Paris - with NZIRIA, S I I N K + special guest // talk with gabritvb at Le Zeralda
 
-DIAVOLI in Paris - with NZIRIA, S I I N K + special guest // talk with gabritvb at Le Zeralda on Tue 29 Sept, Paris. 1 act on the bill: NZIRIA. Hardcore and Club. Preview the line-up and save it on soundcheck.
+DIAVOLI in Paris - with NZIRIA, S I I N K + special guest // talk with gabritvb at Le Zeralda on Tue 29 Sept, Paris. 1 artist on the bill: NZIRIA. Hardcore and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

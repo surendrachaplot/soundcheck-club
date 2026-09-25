@@ -1,14 +1,14 @@
 # Samir Chani
 
-Samir Chani is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+Samir Chani is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Samir Chani is a house and techno artist based in Luxembourg, tracked on soundcheck, with 12 sets logged across All, Brussels, London and Valencia. Often billed alongside Mauro Ferno, Elia Nafzger and Laimonas. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+Samir Chani is a house and techno artist based in Luxembourg, tracked on soundcheck, with 12 sets logged across Brussels, Greece, London and Valencia. Often billed alongside Mauro Ferno, Elia Nafzger and Laimonas. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Sat, 14 Nov 2026 | fabric | London |
 
 ## Recently played

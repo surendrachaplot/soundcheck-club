@@ -1,6 +1,6 @@
 # Crucast X HIGH TEA ADE at Ijland
 
-Crucast X HIGH TEA ADE at Ijland on Thu 22 Oct, Amsterdam. 3 acts on the bill: Benny L, Mozey and Skantia. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+Crucast X HIGH TEA ADE at Ijland on Thu 22 Oct, Amsterdam. 3 artists on the bill: Benny L, Mozey and Skantia. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: D. Tiffany at YuYu Cine Club
 
-Yu Yu Cine Club: D. Tiffany at YuYu Cine Club on Fri 23 Oct, Mexicocity. 2 acts on the bill: D. Tiffany and NAP (MX). Preview the line-up and save it on soundcheck.
+Yu Yu Cine Club: D. Tiffany at YuYu Cine Club on Fri 23 Oct, Mexico City. 2 artists on the bill: D. Tiffany and NAP (MX). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

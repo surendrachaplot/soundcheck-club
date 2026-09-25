@@ -9,7 +9,7 @@ Patterns is a music venue in Brighton listed on soundcheck. 17 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Freshly Baked - Basement Rave | INKY MCKAY, Ned Spencer (2), RACH!, STEADY |
-| Sat, 26 Sept 2026 | Boudica Goes to Brighton with Boris (Berghain / Brighton Debut), Samantha Togni, Yiota | Boris, Samantha Togni, Yiota |
+| Sat, 26 Sept 2026 | Boudica Goes to Brighton with Boris (Berghain / Brighton Debut), Samantha Togni, Yiota | Boris, Samantha Togni, SuperCLAUD, Yiota |
 | Fri, 2 Oct 2026 | club 2010: Freshers 2016 |  |
 | Sun, 4 Oct 2026 | Brighton Sundae with WheelUP | WheelUP |
 | Fri, 9 Oct 2026 | GRASSROOTS - FREE First Fridays - Jungle, Jungle Tek, Breaks - 09/10/26 | INKY MCKAY, Vergano |

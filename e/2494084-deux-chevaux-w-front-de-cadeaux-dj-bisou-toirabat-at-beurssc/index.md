@@ -1,6 +1,6 @@
 # Deux Chevaux w/ Front de Cadeaux + DJ Bisou & Toirabat at Beursschouwburg
 
-Deux Chevaux w/ Front de Cadeaux + DJ Bisou & Toirabat at Beursschouwburg on Fri 16 Oct, Brussels. 3 acts on the bill: DJ Bisou, Front De Cadeaux and Toirabat. Preview the line-up and save it on soundcheck.
+Deux Chevaux w/ Front de Cadeaux + DJ Bisou & Toirabat at Beursschouwburg on Fri 16 Oct, Brussels. 3 artists on the bill: DJ Bisou, Front De Cadeaux and Toirabat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # That Garage Sound x Ghosts of Garage - ADE at Club Up
 
-That Garage Sound x Ghosts of Garage - ADE at Club Up on Sat 24 Oct, Amsterdam. 9 acts on the bill: Chunky, Ive Lovers, Jeremy Sylvester and LARISHKA (UK) and 5 more. Garage. Preview the line-up and save it on soundcheck.
+That Garage Sound x Ghosts of Garage - ADE at Club Up on Sat 24 Oct, Amsterdam. 9 artists on the bill: Chunky, Ive Lovers, Jeremy Sylvester and LARISHKA (UK) and 5 more. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

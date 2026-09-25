@@ -1,6 +1,6 @@
 # ANALOG // Jay Tripwire & Tyler Stadius  // Vinyl Set at Gorg-O-Mish
 
-ANALOG // Jay Tripwire & Tyler Stadius  // Vinyl Set at Gorg-O-Mish on Fri 25 Sept, Vancouver. 1 act on the bill: Jay Tripwire. Preview the line-up and save it on soundcheck.
+ANALOG // Jay Tripwire & Tyler Stadius  // Vinyl Set at Gorg-O-Mish on Fri 25 Sept, Vancouver. 1 artist on the bill: Jay Tripwire. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

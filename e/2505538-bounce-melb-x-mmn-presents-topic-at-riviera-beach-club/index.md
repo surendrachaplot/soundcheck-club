@@ -1,6 +1,6 @@
 # Bounce Melb X MMN presents TOPIC at Riviera Beach Club
 
-Bounce Melb X MMN presents TOPIC at Riviera Beach Club on Sun 1 Nov, Melbourne. 1 act on the bill: Dj Bouncy. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Bounce Melb X MMN presents TOPIC at Riviera Beach Club on Sun 1 Nov, Melbourne. 1 artist on the bill: Dj Bouncy. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

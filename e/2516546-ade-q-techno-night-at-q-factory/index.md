@@ -1,6 +1,6 @@
 # ADE Q-Techno Night at Q-Factory
 
-ADE Q-Techno Night at Q-Factory on Wed 21 Oct, Amsterdam. 9 acts on the bill: A*S*Y*S (2), Alan Fitzpatrick, Bermio and Daniel Plainview and 5 more. Techno. Preview the line-up and save it on soundcheck.
+ADE Q-Techno Night at Q-Factory on Wed 21 Oct, Amsterdam. 9 artists on the bill: A*S*Y*S, Alan Fitzpatrick, Bermio and Daniel Plainview and 5 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Takuya Nakamura at ZeyZey
 
-Takuya Nakamura at ZeyZey on Sat 12 Dec, Miami. 1 act on the bill: Takuya Nakamura. Jazz and Jungle. Preview the line-up and save it on soundcheck.
+Takuya Nakamura at ZeyZey on Sat 12 Dec, Miami. 1 artist on the bill: Takuya Nakamura. Jazz and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

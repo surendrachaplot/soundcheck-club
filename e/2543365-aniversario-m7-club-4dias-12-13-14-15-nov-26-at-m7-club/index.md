@@ -1,6 +1,6 @@
 # ANIVERSARIO M7 CLUB (4Dias_12/13/14/15 NOV 26) at M7 Club
 
-ANIVERSARIO M7 CLUB (4Dias_12/13/14/15 NOV 26) at M7 Club on Thu 12 Nov, Barcelona. 6 acts on the bill: ArceX, BreakStyle, DAISY and Eva Toya and 2 more. Preview the line-up and save it on soundcheck.
+ANIVERSARIO M7 CLUB (4Dias_12/13/14/15 NOV 26) at M7 Club on Thu 12 Nov, Barcelona. 6 artists on the bill: ArceX, BreakStyle, DAISY and Eva Toya and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

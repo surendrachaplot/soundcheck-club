@@ -2,7 +2,7 @@
 
 Adriana (1) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Melbourne on Sat, 26 Sept 2026.
 
-Adriana (1) is a house and disco artist based in Australia, tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Auckland and Berlin and 7 more. Often billed alongside Zjoso, Elsie and Milo Eastwood. Next up: TBA, Melbourne on Sat 26 Sept.
+Adriana is a house and disco artist based in Australia, tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Auckland and Berlin and 7 more. Often billed alongside Zjoso, Elsie and Milo Eastwood. Next up: TBA, Melbourne on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Dante's Hifi+ Five Year Anniversary at Dante's HiFi
 
-Dante's Hifi+ Five Year Anniversary at Dante's HiFi on Thu 24 Sept, Miami. 2 acts on the bill: Arturo (3) and Dvize. Preview the line-up and save it on soundcheck.
+Dante's Hifi+ Five Year Anniversary at Dante's HiFi on Thu 24 Sept, Miami. 2 artists on the bill: Arturo and Dvize. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

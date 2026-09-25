@@ -1,6 +1,6 @@
 # subbacultcha presents: carla dal forno + ebby [sold out] at murmur
 
-subbacultcha presents: carla dal forno + ebby [sold out] at murmur on Thu 24 Sept, Amsterdam. 1 act on the bill: Carla dal Forno. Preview the line-up and save it on soundcheck.
+subbacultcha presents: carla dal forno + ebby [sold out] at murmur on Thu 24 Sept, Amsterdam. 1 artist on the bill: Carla dal Forno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

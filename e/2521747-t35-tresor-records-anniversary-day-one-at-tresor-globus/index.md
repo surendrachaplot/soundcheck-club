@@ -1,6 +1,6 @@
 # T35: Tresor Records Anniversary DAY ONE at Tresor / Globus
 
-T35: Tresor Records Anniversary DAY ONE at Tresor / Globus on Fri 2 Oct, Berlin. 10 acts on the bill: Briain, Dreimal T, Function and MAEDON and 6 more. Preview the line-up and save it on soundcheck.
+T35: Tresor Records Anniversary DAY ONE at Tresor / Globus on Fri 2 Oct, Berlin. 10 artists on the bill: Briain, Dreimal T, Function and MAEDON and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

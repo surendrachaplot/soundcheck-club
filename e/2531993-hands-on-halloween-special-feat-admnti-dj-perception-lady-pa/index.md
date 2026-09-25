@@ -1,6 +1,6 @@
 # HANDS ON: Halloween Special feat. ADMNTi, DJ Perception, Lady Passion & Jack Ling at Starlane Pizza Bar
 
-HANDS ON: Halloween Special feat. ADMNTi, DJ Perception, Lady Passion & Jack Ling at Starlane Pizza Bar on Sat 31 Oct, London. 5 acts on the bill: ADMNTi, DJ Perception, Jack Ling and Lady Passion and 1 more. Garage and Tech House. Preview the line-up and save it on soundcheck.
+HANDS ON: Halloween Special feat. ADMNTi, DJ Perception, Lady Passion & Jack Ling at Starlane Pizza Bar on Sat 31 Oct, London. 5 artists on the bill: ADMNTi, DJ Perception, Jack Ling and Lady Passion and 1 more. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

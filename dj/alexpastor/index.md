@@ -1,14 +1,14 @@
 # Alex Pastor
 
-Alex Pastor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+Alex Pastor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Alex Pastor is a house and techno artist based in United States of America, tracked on soundcheck, with 54 sets logged across All, Amsterdam, Boston and Chicago and 9 more. Often billed alongside Kev Gee, John Patrick and Connor Mikami. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+Alex Pastor is a house and techno artist based in United States of America, tracked on soundcheck, with 54 sets logged across Amsterdam, Boston, Chicago and Denver and 9 more. Often billed alongside Kev Gee, John Patrick and Connor Mikami. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 
 ## Recently played
 

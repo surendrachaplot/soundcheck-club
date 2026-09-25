@@ -1,6 +1,6 @@
 # DJ Assault at The Pearl
 
-DJ Assault at The Pearl on Sat 3 Oct, Vancouver. 1 act on the bill: DJ Assault. Ghetto Tech. Preview the line-up and save it on soundcheck.
+DJ Assault at The Pearl on Sat 3 Oct, Vancouver. 1 artist on the bill: DJ Assault. Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

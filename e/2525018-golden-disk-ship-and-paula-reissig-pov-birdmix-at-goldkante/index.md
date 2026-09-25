@@ -1,6 +1,6 @@
 # Golden Diskó Ship and Paula Reissig: POV:BirdMix at Goldkante
 
-Golden Diskó Ship and Paula Reissig: POV:BirdMix at Goldkante on Thu 8 Oct, Bochum. 1 act on the bill: Golden Diskó Ship. Experimental and Pop. Preview the line-up and save it on soundcheck.
+Golden Diskó Ship and Paula Reissig: POV:BirdMix at Goldkante on Thu 8 Oct, Bochum. 1 artist on the bill: Golden Diskó Ship. Experimental and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

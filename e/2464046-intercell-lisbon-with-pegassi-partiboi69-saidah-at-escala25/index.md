@@ -1,6 +1,6 @@
 # Intercell Lisbon with Pegassi, Partiboi69, SAIDAH at Escala25
 
-Intercell Lisbon with Pegassi, Partiboi69, SAIDAH at Escala25 on Sat 10 Oct, Lisbon. 5 acts on the bill: Djooke, Nicolle Velcro, Partiboi69 and Pegassi and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Intercell Lisbon with Pegassi, Partiboi69, SAIDAH at Escala25 on Sat 10 Oct, Lisbon. 5 artists on the bill: Djooke, Nicolle Velcro, Partiboi69 and Pegassi and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

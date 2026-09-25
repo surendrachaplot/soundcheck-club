@@ -1,6 +1,6 @@
 # ATARASHI Paris at YOYO with Marco Carola, Ale De Tuglie & II FACES at YoYo - Palais de Tokyo
 
-ATARASHI Paris at YOYO with Marco Carola, Ale De Tuglie & II FACES at YoYo - Palais de Tokyo on Sat 3 Oct, Paris. 3 acts on the bill: Ale De Tuglie, II FACES and Marco Carola. House and Tech House. Preview the line-up and save it on soundcheck.
+ATARASHI Paris at YOYO with Marco Carola, Ale De Tuglie & II FACES at YoYo - Palais de Tokyo on Sat 3 Oct, Paris. 3 artists on the bill: Ale De Tuglie, II FACES and Marco Carola. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

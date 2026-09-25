@@ -1,6 +1,6 @@
 # Tendancedance with Cerise & SBSTRD & Voice of User at Tendance
 
-Tendancedance with Cerise & SBSTRD & Voice of User on Wed 30 Sept, Prague. 2 acts on the bill: SBSTRD and Voice of User. Preview the line-up and save it on soundcheck.
+Tendancedance with Cerise & SBSTRD & Voice of User on Wed 30 Sept, Prague. 2 artists on the bill: SBSTRD and Voice of User. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

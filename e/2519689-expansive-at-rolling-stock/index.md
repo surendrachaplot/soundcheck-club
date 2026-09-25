@@ -1,6 +1,6 @@
 # EXPANSIVE at Rolling Stock
 
-EXPANSIVE at Rolling Stock on Fri 27 Nov, London. 4 acts on the bill: Cat Caesura, Larnie, Spinks and Tribal. Techno and House. Preview the line-up and save it on soundcheck.
+EXPANSIVE at Rolling Stock on Fri 27 Nov, London. 4 artists on the bill: Cat Caesura, Larnie, Spinks and Tribal. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

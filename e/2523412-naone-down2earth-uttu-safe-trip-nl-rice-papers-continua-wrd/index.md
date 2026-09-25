@@ -1,6 +1,6 @@
 # Naone (down2earth, UTTU, Safe Trip /NL), Rice Papers (Continua, WRD /IT) hosted by Continua at Azimut Club
 
-Naone (down2earth, UTTU, Safe Trip /NL), Rice Papers (Continua, WRD /IT) hosted by Continua at Azimut Club on Fri 20 Nov, Turin. 1 act on the bill: Naone. Preview the line-up and save it on soundcheck.
+Naone (down2earth, UTTU, Safe Trip /NL), Rice Papers (Continua, WRD /IT) hosted by Continua at Azimut Club on Fri 20 Nov, Turin. 1 artist on the bill: Naone. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

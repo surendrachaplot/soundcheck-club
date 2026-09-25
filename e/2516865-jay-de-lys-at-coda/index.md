@@ -1,6 +1,6 @@
 # Jay de Lys at Coda
 
-Jay de Lys at Coda on Sat 3 Oct, Toronto. 1 act on the bill: Jay de Lys. Preview the line-up and save it on soundcheck.
+Jay de Lys at Coda on Sat 3 Oct, Toronto. 1 artist on the bill: Jay de Lys. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

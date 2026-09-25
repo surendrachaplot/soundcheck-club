@@ -2,7 +2,7 @@
 
 Greg (2) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
-Greg (2) is a bass and techno artist based in Mauritius, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Tatyana Jane, Busy P and Dangermami. Next up: DRUMSHEDS, London on Sat 17 Oct.
+Greg is a bass and techno artist based in Mauritius, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Tatyana Jane, Busy P and Dangermami. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # INTERMIX (TECHNO) at Z Maruyama
 
-INTERMIX (TECHNO) at Z Maruyama on Thu 24 Sept, Tokyo. 2 acts on the bill: ATAMI and NATSUMI. Techno. Preview the line-up and save it on soundcheck.
+INTERMIX (TECHNO) at Z Maruyama on Thu 24 Sept, Tokyo. 2 artists on the bill: ATAMI and NATSUMI. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

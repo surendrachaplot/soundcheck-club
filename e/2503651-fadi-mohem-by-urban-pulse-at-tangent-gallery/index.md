@@ -1,6 +1,6 @@
 # Fadi Mohem by Urban Pulse at Tangent Gallery
 
-Fadi Mohem by Urban Pulse at Tangent Gallery on Sat 21 Nov, Detroit. 1 act on the bill: Fadi Mohem. Techno. Preview the line-up and save it on soundcheck.
+Fadi Mohem by Urban Pulse at Tangent Gallery on Sat 21 Nov, Detroit. 1 artist on the bill: Fadi Mohem. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

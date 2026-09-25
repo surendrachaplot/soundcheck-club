@@ -1,6 +1,6 @@
 # CALIGO VOL 1 at Amnesia
 
-CALIGO VOL 1 at Amnesia on Thu 24 Sept, Bangkok. 1 act on the bill: Giantsiam. Trance and Techno. Preview the line-up and save it on soundcheck.
+CALIGO VOL 1 at Amnesia on Thu 24 Sept, Bangkok. 1 artist on the bill: Giantsiam. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

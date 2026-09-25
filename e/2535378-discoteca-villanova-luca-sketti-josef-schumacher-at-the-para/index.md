@@ -1,6 +1,6 @@
 # DISCOTECA - Villanova, Luca Sketti, Josef Schumacher at The Paradise Now
 
-DISCOTECA - Villanova, Luca Sketti, Josef Schumacher at The Paradise Now on Fri 25 Sept, Dusseldorf. 2 acts on the bill: Josef Schumacher and Villanova. House. Preview the line-up and save it on soundcheck.
+DISCOTECA - Villanova, Luca Sketti, Josef Schumacher at The Paradise Now on Fri 25 Sept, Düsseldorf. 2 artists on the bill: Josef Schumacher and Villanova. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

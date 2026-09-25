@@ -2,7 +2,7 @@
 
 CLEAR UK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
 
-CLEAR UK is a house and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Edinburgh and Glasgow. Often billed alongside Dev Kandak, Mixfits (2) and Brad Herbert. Next up: The Mash House, Edinburgh on Sat 10 Oct.
+CLEAR UK is a house and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Edinburgh and Glasgow. Often billed alongside Dev Kandak, Mixfits and Brad Herbert. Next up: The Mash House, Edinburgh on Sat 10 Oct.
 
 ## Upcoming shows
 

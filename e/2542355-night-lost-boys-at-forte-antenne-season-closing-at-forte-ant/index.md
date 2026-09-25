@@ -1,6 +1,6 @@
 # [NIGHT] Lost Boys at Forte Antenne - Season Closing at Forte Antenne
 
-[NIGHT] Lost Boys at Forte Antenne - Season Closing on Sat 3 Oct, Rome. 7 acts on the bill: Brasi, Cinthie, Dante (H501) and Ferrari and 3 more. Preview the line-up and save it on soundcheck.
+[NIGHT] Lost Boys at Forte Antenne - Season Closing on Sat 3 Oct, Rome. 7 artists on the bill: Brasi, Cinthie, Dante (H501) and Ferrari and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

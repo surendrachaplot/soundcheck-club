@@ -2,7 +2,7 @@
 
 Lúnasa is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Daylight, Dublin on Sat, 26 Sept 2026.
 
-Lúnasa is a bass and techno artist based in Ireland, tracked on soundcheck, with 39 sets logged across Dublin, Galway, Glasgow and Limerick and 1 more. Often billed alongside Rhyzine, JWY (1) and Naoise. Next up: TBA - Daylight, Dublin on Sat 26 Sept.
+Lúnasa is a bass and techno artist based in Ireland, tracked on soundcheck, with 39 sets logged across Dublin, Galway, Glasgow and Limerick and 1 more. Often billed alongside Rhyzine, JWY and Naoise. Next up: TBA - Daylight, Dublin on Sat 26 Sept.
 
 ## Upcoming shows
 

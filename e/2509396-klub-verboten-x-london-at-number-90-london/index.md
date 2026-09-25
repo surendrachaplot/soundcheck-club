@@ -1,6 +1,6 @@
 # Klub Verboten x LONDON at NUMBER 90 LONDON
 
-Klub Verboten x LONDON at NUMBER 90 LONDON on Fri 9 Oct, London. 4 acts on the bill: Desiree', Jeneva, Sybil and TSUNIMAN. Techno. Preview the line-up and save it on soundcheck.
+Klub Verboten x LONDON at NUMBER 90 LONDON on Fri 9 Oct, London. 4 artists on the bill: Desiree', Jeneva, Sybil and TSUNIMAN. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

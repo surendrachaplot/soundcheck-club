@@ -1,6 +1,6 @@
 # Full Dose Soundclash with Dj Superherb , Miles J Paralysis , Wolf Moon & The Ancient Beast at The Rum Shack
 
-Full Dose Soundclash with Dj Superherb , Miles J Paralysis , Wolf Moon & The Ancient Beast at The Rum Shack on Fri 9 Oct, Glasgow. 1 act on the bill: Miles J Paralysis. Bass and Dub. Preview the line-up and save it on soundcheck.
+Full Dose Soundclash with Dj Superherb , Miles J Paralysis , Wolf Moon & The Ancient Beast at The Rum Shack on Fri 9 Oct, Glasgow. 1 artist on the bill: Miles J Paralysis. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

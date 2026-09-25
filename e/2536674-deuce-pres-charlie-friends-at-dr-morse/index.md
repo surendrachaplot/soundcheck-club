@@ -1,6 +1,6 @@
 # Deuce pres. Charlie & Friends at Dr Morse
 
-Deuce pres. Charlie & Friends at Dr Morse on Fri 25 Sept, Melbourne. 9 acts on the bill: Ambedo, anna(n), Charlotte Rooney and Hannah D and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Deuce pres. Charlie & Friends at Dr Morse on Fri 25 Sept, Melbourne. 9 artists on the bill: Ambedo, anna(n), Charlotte Rooney and Hannah D and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

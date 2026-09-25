@@ -1,6 +1,6 @@
 # Resonate Mcr pres. 30 Years of Freerange at The Yard
 
-Resonate Mcr pres. 30 Years of Freerange at The Yard on Sat 10 Oct, Manchester. 2 acts on the bill: Black Loops and Jimpster. House and Deep House. Preview the line-up and save it on soundcheck.
+Resonate Mcr pres. 30 Years of Freerange at The Yard on Sat 10 Oct, Manchester. 2 artists on the bill: Black Loops and Jimpster. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 17 years of Distrikt presents (Part 1) at Distrikt
 
-17 years of Distrikt presents (Part 1) on Fri 16 Oct, Leeds. 6 acts on the bill: DAISY, Katie, Mason Talbot and n4tee and 2 more. Garage and Tech House. Preview the line-up and save it on soundcheck.
+17 years of Distrikt presents (Part 1) on Fri 16 Oct, Leeds. 6 artists on the bill: DAISY, Katie, Mason Talbot and n4tee and 2 more. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

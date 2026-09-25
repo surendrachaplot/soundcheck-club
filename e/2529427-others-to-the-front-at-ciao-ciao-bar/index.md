@@ -1,6 +1,6 @@
 # Others To The Front at ciao ciao Bar
 
-Others To The Front at ciao ciao Bar on Fri 9 Oct, Berlin. 2 acts on the bill: boyyyish and materia hache. House and Disco. Preview the line-up and save it on soundcheck.
+Others To The Front at ciao ciao Bar on Fri 9 Oct, Berlin. 2 artists on the bill: boyyyish and materia hache. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

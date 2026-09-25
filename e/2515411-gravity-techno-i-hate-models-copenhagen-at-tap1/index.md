@@ -1,6 +1,6 @@
 # Gravity Techno: I Hate Models - Copenhagen at Tap1
 
-Gravity Techno: I Hate Models - Copenhagen at Tap1 on Fri 4 Dec, Copenhagen. 1 act on the bill: I Hate Models. Techno. Preview the line-up and save it on soundcheck.
+Gravity Techno: I Hate Models - Copenhagen at Tap1 on Fri 4 Dec, Copenhagen. 1 artist on the bill: I Hate Models. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

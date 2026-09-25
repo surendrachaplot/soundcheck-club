@@ -1,6 +1,6 @@
 # PANDEMIC W/ Vortek's - Dr Donk - Noiseflow - Kruella - Pa//ra - Nemesys at Warehouse
 
-PANDEMIC W/ Vortek's - Dr Donk - Noiseflow - Kruella - Pa//ra - Nemesys at Warehouse on Fri 16 Oct, Nantes. 2 acts on the bill: Dr Donk and Vortek's. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+PANDEMIC W/ Vortek's - Dr Donk - Noiseflow - Kruella - Pa//ra - Nemesys at Warehouse on Fri 16 Oct, Nantes. 2 artists on the bill: Dr Donk and Vortek's. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

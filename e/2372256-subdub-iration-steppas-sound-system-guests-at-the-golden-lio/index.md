@@ -1,6 +1,6 @@
 # SUBDUB - Iration Steppas Sound System & guests at The Golden Lion
 
-SUBDUB - Iration Steppas Sound System & guests at The Golden Lion on Fri 9 Oct, Manchester. 5 acts on the bill: Breakfake, Felixculpah, Iration Steppas and NikNak and 1 more. Dub and Dubstep. Preview the line-up and save it on soundcheck.
+SUBDUB - Iration Steppas Sound System & guests at The Golden Lion on Fri 9 Oct, Manchester. 5 artists on the bill: Breakfake, Felixculpah, Iration Steppas and NikNak and 1 more. Dub and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

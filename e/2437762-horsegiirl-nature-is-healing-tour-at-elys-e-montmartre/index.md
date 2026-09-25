@@ -1,6 +1,6 @@
 # horsegiirL NATURE IS HEALING tour at Elysée Montmartre
 
-horsegiirL NATURE IS HEALING tour at Elysée Montmartre on Fri 27 Nov, Paris. 2 acts on the bill: DJ_Dave and horsegiirL. Preview the line-up and save it on soundcheck.
+horsegiirL NATURE IS HEALING tour at Elysée Montmartre on Fri 27 Nov, Paris. 2 artists on the bill: DJ_Dave and horsegiirL. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Burden - Suki10c - BIRMINGHAM at Suki10c
 
-Burden - Suki10c - BIRMINGHAM on Fri 9 Oct, Birmingham. 2 acts on the bill: Alex Von Martin and Burden. Techno. Preview the line-up and save it on soundcheck.
+Burden - Suki10c - BIRMINGHAM on Fri 9 Oct, Birmingham. 2 artists on the bill: Alex Von Martin and Burden. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

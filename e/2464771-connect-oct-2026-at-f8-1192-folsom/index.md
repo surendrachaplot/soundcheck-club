@@ -1,6 +1,6 @@
 # CONNECT OCT 2026 at F8 1192 Folsom
 
-CONNECT OCT 2026 at F8 1192 Folsom on Thu 1 Oct, Sanfrancisco. 1 act on the bill: JustJovani. Techno. Preview the line-up and save it on soundcheck.
+CONNECT OCT 2026 at F8 1192 Folsom on Thu 1 Oct, San Francisco/Oakland. 1 artist on the bill: JustJovani. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

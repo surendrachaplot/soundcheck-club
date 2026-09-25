@@ -1,6 +1,6 @@
 # BASHKKA (Club RAUM, Blitz /DE), Rice Papers (Continua, WRD /IT) hosted by Continua at Azimut Club
 
-BASHKKA (Club RAUM, Blitz /DE), Rice Papers (Continua, WRD /IT) hosted by Continua at Azimut Club on Fri 25 Sept, Turin. 1 act on the bill: BASHKKA. Preview the line-up and save it on soundcheck.
+BASHKKA (Club RAUM, Blitz /DE), Rice Papers (Continua, WRD /IT) hosted by Continua at Azimut Club on Fri 25 Sept, Turin. 1 artist on the bill: BASHKKA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

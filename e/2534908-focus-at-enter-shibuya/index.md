@@ -1,6 +1,6 @@
 # FOCUS at Enter Shibuya
 
-FOCUS at Enter Shibuya on Sat 3 Oct, Tokyo. 7 acts on the bill: Blackship, Daitto, KUNPEI and LogicBeat and 3 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+FOCUS at Enter Shibuya on Sat 3 Oct, Tokyo. 7 artists on the bill: Blackship, Daitto, KUNPEI and LogicBeat and 3 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

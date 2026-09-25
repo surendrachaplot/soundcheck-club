@@ -1,6 +1,6 @@
 # Daniel Avery at Halle Tropisme
 
-Daniel Avery at Halle Tropisme on Sun 4 Oct, Montpellier. 1 act on the bill: Daniel Avery. Preview the line-up and save it on soundcheck.
+Daniel Avery at Halle Tropisme on Sun 4 Oct, Montpellier. 1 artist on the bill: Daniel Avery. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

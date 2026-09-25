@@ -1,6 +1,6 @@
 # Frenzy x RAW ADE at RADION
 
-Frenzy x RAW ADE at RADION on Wed 21 Oct, Amsterdam. 7 acts on the bill: Beau Didier, Danny Wabbit, Elisa Batti and Kaiser (K S R) and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Frenzy x RAW ADE at RADION on Wed 21 Oct, Amsterdam. 7 artists on the bill: Beau Didier, Danny Wabbit, Elisa Batti and Kaiser (K S R) and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

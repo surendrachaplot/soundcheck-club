@@ -1,6 +1,6 @@
 # Mind Enterprises at Brooklyn Steel
 
-Mind Enterprises at Brooklyn Steel on Sat 10 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+Mind Enterprises at Brooklyn Steel on Sat 10 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

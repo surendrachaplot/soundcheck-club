@@ -1,6 +1,6 @@
 # 𖤓SOLASTA LAUNCH PARTY𖤓 at The Bongo Club
 
-𖤓SOLASTA LAUNCH PARTY𖤓 at The Bongo Club on Thu 1 Oct, Edinburgh. 3 acts on the bill: FIFI (2), Maya Hacker and YVI. Jungle and Electronica. Preview the line-up and save it on soundcheck.
+𖤓SOLASTA LAUNCH PARTY𖤓 at The Bongo Club on Thu 1 Oct, Edinburgh. 3 artists on the bill: FIFI, Maya Hacker and YVI. Jungle and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

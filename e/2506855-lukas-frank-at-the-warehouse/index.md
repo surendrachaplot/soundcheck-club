@@ -1,6 +1,6 @@
 # LUKAS & FRANK at The Warehouse
 
-LUKAS & FRANK at The Warehouse on Thu 19 Nov, Leeds. 1 act on the bill: LUKAS & FRANK. Afro House. Preview the line-up and save it on soundcheck.
+LUKAS & FRANK at The Warehouse on Thu 19 Nov, Leeds. 1 artist on the bill: LUKAS & FRANK. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

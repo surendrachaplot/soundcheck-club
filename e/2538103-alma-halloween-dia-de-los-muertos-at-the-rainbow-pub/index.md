@@ -1,6 +1,6 @@
 # Alma Halloween Dia De los Muertos at The Rainbow Pub
 
-Alma Halloween Dia De los Muertos at The Rainbow Pub on Sat 31 Oct, Birmingham. 2 acts on the bill: Belms and Igor Carmo. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
+Alma Halloween Dia De los Muertos at The Rainbow Pub on Sat 31 Oct, Birmingham. 2 artists on the bill: Belms and Igor Carmo. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

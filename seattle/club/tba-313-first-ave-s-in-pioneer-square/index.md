@@ -2,7 +2,7 @@
 
 TBA - 313 FIRST AVE S in Pioneer Square is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "CRUSH: TREKKIE TRAX W Nakamura Minami SEATTLE" on Sat, 3 Oct 2026.
 
-TBA - 313 FIRST AVE S in Pioneer Square is a music venue in Seattle listed on soundcheck. 1 upcoming gig, with line-ups including ACHAMA, Draz (2), Nakamura Minami and noRecall. Browse upcoming dates, start times and who's playing.
+TBA - 313 FIRST AVE S in Pioneer Square is a music venue in Seattle listed on soundcheck. 1 upcoming gig, with line-ups including ACHAMA, Draz, Nakamura Minami and noRecall. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

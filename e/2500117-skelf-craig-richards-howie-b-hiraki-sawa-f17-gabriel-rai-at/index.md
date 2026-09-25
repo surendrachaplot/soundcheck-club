@@ -1,6 +1,6 @@
 # SKELF - Craig Richards, Howie B & Hiraki Sawa, F17 & Gabriel Rai at The Old Blue Last
 
-SKELF - Craig Richards, Howie B & Hiraki Sawa, F17 & Gabriel Rai at The Old Blue Last on Thu 24 Sept, London. 2 acts on the bill: Craig Richards and Howie B. Electronica. Preview the line-up and save it on soundcheck.
+SKELF - Craig Richards, Howie B & Hiraki Sawa, F17 & Gabriel Rai at The Old Blue Last on Thu 24 Sept, London. 2 artists on the bill: Craig Richards and Howie B. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

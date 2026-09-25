@@ -1,6 +1,6 @@
 # Crossy presents: The Breakthrough - Nottingham at Stealth
 
-Crossy presents: The Breakthrough - Nottingham at Stealth on Fri 20 Nov, Nottingham. 1 act on the bill: Crossy. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Crossy presents: The Breakthrough - Nottingham at Stealth on Fri 20 Nov, Nottingham. 1 artist on the bill: Crossy. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

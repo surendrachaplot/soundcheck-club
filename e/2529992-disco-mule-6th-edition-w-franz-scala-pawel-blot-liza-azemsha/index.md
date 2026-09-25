@@ -1,6 +1,6 @@
 # Disco Mule — 6th Edition w/ Franz Scala, Pawel Blot, Liza Azemsha & Studio Malo at B-SIDE
 
-Disco Mule — 6th Edition w/ Franz Scala, Pawel Blot, Liza Azemsha & Studio Malo at B-SIDE on Sat 10 Oct, Warsaw. 3 acts on the bill: Franz Scala, Liza Azemsha and Pawel Blot. EBM and Italo Disco. Preview the line-up and save it on soundcheck.
+Disco Mule — 6th Edition w/ Franz Scala, Pawel Blot, Liza Azemsha & Studio Malo at B-SIDE on Sat 10 Oct, Warsaw. 3 artists on the bill: Franz Scala, Liza Azemsha and Pawel Blot. EBM and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

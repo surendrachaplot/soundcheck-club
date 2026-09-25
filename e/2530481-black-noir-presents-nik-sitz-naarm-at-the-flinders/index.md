@@ -1,6 +1,6 @@
 # BLACK NOIR presents: NIK SITZ [NAARM] at The Flinders
 
-BLACK NOIR presents: NIK SITZ [NAARM] at The Flinders on Sat 17 Oct, Sydney. 1 act on the bill: Kit Kat. Techno and Industrial. Preview the line-up and save it on soundcheck.
+BLACK NOIR presents: NIK SITZ [NAARM] at The Flinders on Sat 17 Oct, Sydney. 1 artist on the bill: Kit Kat. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

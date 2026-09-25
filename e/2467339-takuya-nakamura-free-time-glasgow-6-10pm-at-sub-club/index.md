@@ -1,6 +1,6 @@
 # Takuya Nakamura: Free Time - Glasgow 6-10pm at Sub Club
 
-Takuya Nakamura: Free Time - Glasgow 6-10pm at Sub Club on Sat 24 Oct, Glasgow. 1 act on the bill: Takuya Nakamura. Jazz and Jungle. Preview the line-up and save it on soundcheck.
+Takuya Nakamura: Free Time - Glasgow 6-10pm at Sub Club on Sat 24 Oct, Glasgow. 1 artist on the bill: Takuya Nakamura. Jazz and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

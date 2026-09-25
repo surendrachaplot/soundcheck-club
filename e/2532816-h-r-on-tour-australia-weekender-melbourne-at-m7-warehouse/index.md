@@ -1,6 +1,6 @@
 # HÖR ON TOUR: Australia Weekender - Melbourne at M7 Warehouse
 
-HÖR ON TOUR: Australia Weekender - Melbourne at M7 Warehouse on Fri 9 Oct, Melbourne. 3 acts on the bill: IKKIMEL, Luke Hovey and Mija. Preview the line-up and save it on soundcheck.
+HÖR ON TOUR: Australia Weekender - Melbourne at M7 Warehouse on Fri 9 Oct, Melbourne. 3 artists on the bill: IKKIMEL, Luke Hovey and Mija. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

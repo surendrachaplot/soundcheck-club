@@ -1,6 +1,6 @@
 # Deep Steppe & Handpicked presents..Subb-an + Halo Varga + Babylon Beach at TBA
 
-Deep Steppe & Handpicked presents..Subb-an + Halo Varga + Babylon Beach at TBA on Fri 16 Oct, Losangeles. 3 acts on the bill: Adam Rose, Halo Varga and Subb-an. House and Minimal. Preview the line-up and save it on soundcheck.
+Deep Steppe & Handpicked presents..Subb-an + Halo Varga + Babylon Beach at TBA on Fri 16 Oct, Los Angeles. 3 artists on the bill: Adam Rose, Halo Varga and Subb-an. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

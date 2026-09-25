@@ -1,6 +1,6 @@
 # SHIBUYA DARKCULT VOL.3 at Shibuya XXI
 
-SHIBUYA DARKCULT VOL.3 at Shibuya XXI on Fri 6 Nov, Tokyo. 1 act on the bill: milltea. Club. Preview the line-up and save it on soundcheck.
+SHIBUYA DARKCULT VOL.3 at Shibuya XXI on Fri 6 Nov, Tokyo. 1 artist on the bill: milltea. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BOUND Blackout: Laure Croft / SKIN / Katie Rex / Kim Anh / Dj Warning / likeholywine / nonsuit at BASEMENT
 
-BOUND Blackout: Laure Croft / SKIN / Katie Rex / Kim Anh / Dj Warning / likeholywine / nonsuit at BASEMENT on Fri 30 Oct, Newyorkcity. 7 acts on the bill: Dj Warning, Katie Rex, Kim Anh and Laure Croft and 3 more. Preview the line-up and save it on soundcheck.
+BOUND Blackout: Laure Croft / SKIN / Katie Rex / Kim Anh / Dj Warning / likeholywine / nonsuit at BASEMENT on Fri 30 Oct, New York City. 7 artists on the bill: Dj Warning, Katie Rex, Kim Anh and Laure Croft and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

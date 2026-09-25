@@ -1,6 +1,6 @@
 # MAD Records LAB: THE GROOVE w/ James Park & Onakan Disko at MAD Radio NYC
 
-MAD Records LAB: THE GROOVE w/ James Park & Onakan Disko at MAD Radio NYC on Fri 30 Oct, Newyorkcity. 2 acts on the bill: James Park. and Onakan Disko. Disco and Balearic. Preview the line-up and save it on soundcheck.
+MAD Records LAB: THE GROOVE w/ James Park & Onakan Disko at MAD Radio NYC on Fri 30 Oct, New York City. 2 artists on the bill: James Park. and Onakan Disko. Disco and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

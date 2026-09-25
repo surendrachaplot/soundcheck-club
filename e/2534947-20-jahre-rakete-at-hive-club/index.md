@@ -1,6 +1,6 @@
 # 20 Jahre Rakete at Hive Club
 
-20 Jahre Rakete at Hive Club on Sat 26 Sept, Zurich. 17 acts on the bill: ACID FLORA, Animal Trainer, Anthik and Bomchello and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
+20 Jahre Rakete at Hive Club on Sat 26 Sept, Zurich. 17 artists on the bill: ACID FLORA, Animal Trainer, Anthik and Bomchello and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

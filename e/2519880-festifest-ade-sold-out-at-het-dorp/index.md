@@ -1,6 +1,6 @@
 # Festifest ADE (Sold Out) at Het Dorp
 
-Festifest ADE (Sold Out) at Het Dorp on Fri 23 Oct, Amsterdam. 8 acts on the bill: BELLA (NL), Demi Riquisimo, Evi (1) and Fabrizio Mammarella and 4 more. House and Disco. Preview the line-up and save it on soundcheck.
+Festifest ADE (Sold Out) at Het Dorp on Fri 23 Oct, Amsterdam. 8 artists on the bill: BELLA (NL), Demi Riquisimo, Evi and Fabrizio Mammarella and 4 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

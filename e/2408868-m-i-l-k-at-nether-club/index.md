@@ -1,6 +1,6 @@
 # M.I.L.K at Nether Club
 
-M.I.L.K at Nether Club on Fri 18 Dec, Bucharest. 4 acts on the bill: AMEDEUS, Amnesico, KATHERYNE and Stefan Hernandez. Techno. Preview the line-up and save it on soundcheck.
+M.I.L.K at Nether Club on Fri 18 Dec, Bucharest. 4 artists on the bill: AMEDEUS, Amnesico, KATHERYNE and Stefan Hernandez. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

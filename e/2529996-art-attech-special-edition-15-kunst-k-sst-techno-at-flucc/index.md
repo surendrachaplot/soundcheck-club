@@ -1,6 +1,6 @@
 # Art Attech - Special Edition #15 - Kunst küsst Techno at FLUCC
 
-Art Attech - Special Edition #15 - Kunst küsst Techno at FLUCC on Fri 2 Oct, Vienna. 6 acts on the bill: Ele Luz, KAROLINA, MELIMEKO and SAMDMA and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Art Attech - Special Edition #15 - Kunst küsst Techno at FLUCC on Fri 2 Oct, Vienna. 6 artists on the bill: Ele Luz, KAROLINA, MELIMEKO and SAMDMA and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

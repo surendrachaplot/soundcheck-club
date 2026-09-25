@@ -1,6 +1,6 @@
 # Omni presents: Dou Dou MD at Wigwam
 
-Omni presents: Dou Dou MD at Wigwam on Sat 3 Oct, Dublin. 3 acts on the bill: Doudou MD, Surferboy and Tunney. Minimal. Preview the line-up and save it on soundcheck.
+Omni presents: Dou Dou MD at Wigwam on Sat 3 Oct, Dublin. 3 artists on the bill: Doudou MD, Surferboy and Tunney. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

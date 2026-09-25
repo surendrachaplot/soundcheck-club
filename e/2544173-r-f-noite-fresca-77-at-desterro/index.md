@@ -1,6 +1,6 @@
 # [R\F] Noite Fresca #77 at Desterro
 
-[R\F] Noite Fresca #77 at Desterro on Thu 24 Sept, Lisbon. 1 act on the bill: DJ Privilégio. House and Jazz. Preview the line-up and save it on soundcheck.
+[R\F] Noite Fresca #77 at Desterro on Thu 24 Sept, Lisbon. 1 artist on the bill: DJ Privilégio. House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

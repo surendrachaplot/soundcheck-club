@@ -1,6 +1,6 @@
 # WAIWAI WANAME at Club Metro
 
-WAIWAI WANAME at Club Metro on Fri 2 Oct, Kyoto. 1 act on the bill: HOBOBRAZIL. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+WAIWAI WANAME at Club Metro on Fri 2 Oct, Kyoto. 1 artist on the bill: HOBOBRAZIL. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

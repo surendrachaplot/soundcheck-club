@@ -1,6 +1,6 @@
 # Marcellus Pittman Japan Tour at Joule
 
-Marcellus Pittman Japan Tour at Joule on Sat 7 Nov, Osaka. 1 act on the bill: Marcellus Pittman. House. Preview the line-up and save it on soundcheck.
+Marcellus Pittman Japan Tour at Joule on Sat 7 Nov, Osaka. 1 artist on the bill: Marcellus Pittman. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

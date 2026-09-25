@@ -1,6 +1,6 @@
 # C12 Halloween with Luke Slater, Kasper Marott, Clara D, Paulo Sea at C12
 
-C12 Halloween with Luke Slater, Kasper Marott, Clara D, Paulo Sea on Sat 31 Oct, Brussels. 6 acts on the bill: Altinbas, Clara D, Kasper Marott and Luke Slater and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+C12 Halloween with Luke Slater, Kasper Marott, Clara D, Paulo Sea on Sat 31 Oct, Brussels. 6 artists on the bill: Altinbas, Clara D, Kasper Marott and Luke Slater and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

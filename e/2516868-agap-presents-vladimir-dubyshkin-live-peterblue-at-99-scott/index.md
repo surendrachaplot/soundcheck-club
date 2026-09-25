@@ -1,6 +1,6 @@
 # AGAPĒ PRESENTS: Vladimir Dubyshkin (LIVE) + PETERBLUE at 99 Scott Ave
 
-AGAPĒ PRESENTS: Vladimir Dubyshkin (LIVE) + PETERBLUE at 99 Scott Ave on Fri 2 Oct, Newyorkcity. 3 acts on the bill: A.K.R, PETERBLUE and Vladimir Dubyshkin. Trance and Techno. Preview the line-up and save it on soundcheck.
+AGAPĒ PRESENTS: Vladimir Dubyshkin (LIVE) + PETERBLUE at 99 Scott Ave on Fri 2 Oct, New York City. 3 artists on the bill: A.K.R, PETERBLUE and Vladimir Dubyshkin. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

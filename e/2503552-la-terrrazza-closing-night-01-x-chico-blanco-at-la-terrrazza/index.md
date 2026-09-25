@@ -1,6 +1,6 @@
 # La Terrrazza Closing Night 01 x Chico Blanco at La Terrrazza
 
-La Terrrazza Closing Night 01 x Chico Blanco on Fri 9 Oct, Barcelona. 1 act on the bill: Chico Blanco. Club and Electronica. Preview the line-up and save it on soundcheck.
+La Terrrazza Closing Night 01 x Chico Blanco on Fri 9 Oct, Barcelona. 1 artist on the bill: Chico Blanco. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

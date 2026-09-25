@@ -1,6 +1,6 @@
 # MYST: Nesi, Adán Dani, Alvaro Valero, Maria Caponne, Lowking at EL SÓTANO
 
-MYST: Nesi, Adán Dani, Alvaro Valero, Maria Caponne, Lowking at EL SÓTANO on Fri 9 Oct, Madrid. 1 act on the bill: Nesi. House. Preview the line-up and save it on soundcheck.
+MYST: Nesi, Adán Dani, Alvaro Valero, Maria Caponne, Lowking at EL SÓTANO on Fri 9 Oct, Madrid. 1 artist on the bill: Nesi. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MARO at El Rey Theatre
 
-MARO at El Rey Theatre on Tue 13 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+MARO at El Rey Theatre on Tue 13 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

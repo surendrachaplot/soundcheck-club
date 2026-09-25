@@ -1,6 +1,6 @@
 # CLOCK OUT at NWHR
 
-CLOCK OUT at NWHR on Fri 9 Oct, Montreal. 3 acts on the bill: BPlease, Kanatonik and No Police. Techno. Preview the line-up and save it on soundcheck.
+CLOCK OUT at NWHR on Fri 9 Oct, Montreal. 3 artists on the bill: BPlease, Kanatonik and No Police. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

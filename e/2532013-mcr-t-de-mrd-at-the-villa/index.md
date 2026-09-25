@@ -1,6 +1,6 @@
 # MCR-T (DE) & MRD at The Villa
 
-MCR-T (DE) & MRD at The Villa on Fri 2 Oct, Oslo. 2 acts on the bill: MCR-T and MRD (NO). Techno and Bass. Preview the line-up and save it on soundcheck.
+MCR-T (DE) & MRD at The Villa on Fri 2 Oct, Oslo. 2 artists on the bill: MCR-T and MRD (NO). Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

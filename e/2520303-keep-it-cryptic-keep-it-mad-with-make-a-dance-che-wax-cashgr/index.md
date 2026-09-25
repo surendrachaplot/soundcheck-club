@@ -1,6 +1,6 @@
 # Keep It Cryptic Keep It Mad with Make A Dance, Che Wax, Cashgrab, & Operation Mindfunk at The Golden Lion
 
-Keep It Cryptic Keep It Mad with Make A Dance, Che Wax, Cashgrab, & Operation Mindfunk at The Golden Lion on Fri 30 Oct, Manchester. 2 acts on the bill: CHÉ WAX and Make A Dance. Preview the line-up and save it on soundcheck.
+Keep It Cryptic Keep It Mad with Make A Dance, Che Wax, Cashgrab, & Operation Mindfunk at The Golden Lion on Fri 30 Oct, Manchester. 2 artists on the bill: CHÉ WAX and Make A Dance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

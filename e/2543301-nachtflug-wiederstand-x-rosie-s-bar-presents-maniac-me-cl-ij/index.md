@@ -1,6 +1,6 @@
 # Nachtflug wiederstand X Rosie's Bar presents: maniac&me & CL-IJUD at Rosie's Bar
 
-Nachtflug wiederstand X Rosie's Bar presents: maniac&me & CL-IJUD on Fri 9 Oct, Berlin. 2 acts on the bill: CL-ljud and maniac&me. House. Preview the line-up and save it on soundcheck.
+Nachtflug wiederstand X Rosie's Bar presents: maniac&me & CL-IJUD on Fri 9 Oct, Berlin. 2 artists on the bill: CL-ljud and maniac&me. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

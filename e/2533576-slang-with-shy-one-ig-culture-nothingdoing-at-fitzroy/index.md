@@ -1,6 +1,6 @@
 # SLANG with Shy One, IG Culture & NothingDoing at Fitzroy
 
-SLANG with Shy One, IG Culture & NothingDoing at Fitzroy on Fri 30 Oct, Berlin. 3 acts on the bill: IG Culture, NothingDoing and Shy One. House and Broken Beat. Preview the line-up and save it on soundcheck.
+SLANG with Shy One, IG Culture & NothingDoing at Fitzroy on Fri 30 Oct, Berlin. 3 artists on the bill: IG Culture, NothingDoing and Shy One. House and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kangkao RED LINE at Dual
 
-Kangkao RED LINE at Dual on Sat 26 Sept, Bangkok. 5 acts on the bill: DJ TADA, Issasha, Jirus (MELA) and Meltmode (2) and 1 more. Electro and Minimal Techno. Preview the line-up and save it on soundcheck.
+Kangkao RED LINE at Dual on Sat 26 Sept, Bangkok. 5 artists on the bill: DJ TADA, Issasha, Jirus (MELA) and Meltmode and 1 more. Electro and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

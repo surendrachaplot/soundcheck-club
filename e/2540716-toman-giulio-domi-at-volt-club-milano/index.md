@@ -1,6 +1,6 @@
 # Toman + Giulio Domi at Volt Club Milano
 
-Toman + Giulio Domi at Volt Club Milano on Sat 17 Oct, Milan. 2 acts on the bill: Giulio Domi and Toman. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Toman + Giulio Domi at Volt Club Milano on Sat 17 Oct, Milan. 2 artists on the bill: Giulio Domi and Toman. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

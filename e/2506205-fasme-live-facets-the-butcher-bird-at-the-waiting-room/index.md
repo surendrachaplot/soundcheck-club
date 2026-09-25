@@ -1,6 +1,6 @@
 # Fasme (Live) + Facets + the butcher bird at The Waiting Room
 
-Fasme (Live) + Facets + the butcher bird at The Waiting Room on Fri 25 Sept, London. 3 acts on the bill: Facets, Fasme and the butcher bird. Preview the line-up and save it on soundcheck.
+Fasme (Live) + Facets + the butcher bird at The Waiting Room on Fri 25 Sept, London. 3 artists on the bill: Facets, Fasme and the butcher bird. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

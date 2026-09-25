@@ -2,7 +2,7 @@
 
 1-DRINK (2) is a House and Noise artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at VENT, Tokyo on Sat, 10 Oct 2026.
 
-1-DRINK (2) is a house and noise artist based in Japan, tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside ShioriyBradshaw, 7e and Albino Sound. Next up: VENT, Tokyo on Sat 10 Oct.
+1-DRINK is a house and noise artist based in Japan, tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside ShioriyBradshaw, 7e and Albino Sound. Next up: VENT, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 

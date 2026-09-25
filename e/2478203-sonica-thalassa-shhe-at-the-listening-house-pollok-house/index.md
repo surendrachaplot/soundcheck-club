@@ -1,6 +1,6 @@
 # Sonica: THALASSA - SHHE at The Listening House | Pollok House
 
-Sonica: THALASSA - SHHE at The Listening House | Pollok House on Sat 26 Sept, Glasgow. 1 act on the bill: SHHE. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Sonica: THALASSA - SHHE at The Listening House | Pollok House on Sat 26 Sept, Glasgow. 1 artist on the bill: SHHE. Ambient and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

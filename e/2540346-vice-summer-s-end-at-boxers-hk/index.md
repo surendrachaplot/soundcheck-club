@@ -1,6 +1,6 @@
 # VICE: Summer's End at Boxers HK
 
-VICE: Summer's End at Boxers HK on Sat 26 Sept, Newyorkcity. 3 acts on the bill: Edward Frame, Grant Tyler and Jaesyun. House and Tech House. Preview the line-up and save it on soundcheck.
+VICE: Summer's End at Boxers HK on Sat 26 Sept, New York City. 3 artists on the bill: Edward Frame, Grant Tyler and Jaesyun. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

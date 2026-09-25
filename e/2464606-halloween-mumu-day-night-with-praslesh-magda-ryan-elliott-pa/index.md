@@ -1,6 +1,6 @@
 # Halloween mUmU day/night with Praslesh, Magda, Ryan Elliott, Pancratio at Invisible Wind Factory
 
-Halloween mUmU day/night with Praslesh, Magda, Ryan Elliott, Pancratio at Invisible Wind Factory on Sat 31 Oct, Liverpool. 5 acts on the bill: Lee Rands, Magda, Pancratio and Praslesh and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Halloween mUmU day/night with Praslesh, Magda, Ryan Elliott, Pancratio at Invisible Wind Factory on Sat 31 Oct, Liverpool. 5 artists on the bill: Lee Rands, Magda, Pancratio and Praslesh and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The KLF: 23 Seconds to Eternity at Viff Centre
 
-The KLF: 23 Seconds to Eternity at Viff Centre on Sat 3 Oct, Vancouver. 1 act on the bill: CHXMERAS. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+The KLF: 23 Seconds to Eternity at Viff Centre on Sat 3 Oct, Vancouver. 1 artist on the bill: CHXMERAS. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

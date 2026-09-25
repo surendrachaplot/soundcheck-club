@@ -1,6 +1,6 @@
 # minimal • vision / the first glimpse at Ijcatcher
 
-minimal • vision / the first glimpse at Ijcatcher on Sat 26 Sept, Amsterdam. 2 acts on the bill: Bart Simple and TIDEE. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+minimal • vision / the first glimpse at Ijcatcher on Sat 26 Sept, Amsterdam. 2 artists on the bill: Bart Simple and TIDEE. Minimal and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

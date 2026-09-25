@@ -1,6 +1,6 @@
 # Wyldhearts at 3 Clubs 1 Rave at Artheater
 
-Wyldhearts at 3 Clubs 1 Rave at Artheater on Sat 26 Sept, Cologne. 9 acts on the bill: Atzendent, BabaBass3000, Baumeister98 and Ferrand and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Wyldhearts at 3 Clubs 1 Rave at Artheater on Sat 26 Sept, Cologne. 9 artists on the bill: Atzendent, BabaBass3000, Baumeister98 and Ferrand and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

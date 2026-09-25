@@ -1,6 +1,6 @@
 # Detroit Love: Carl Craig b2b Seth Troxler, Roni Amitai at BERHTA
 
-Detroit Love: Carl Craig b2b Seth Troxler, Roni Amitai at BERHTA on Fri 27 Nov, Washingtondc. 3 acts on the bill: Carl Craig, Roni Amitai and Seth Troxler. Techno and House. Preview the line-up and save it on soundcheck.
+Detroit Love: Carl Craig b2b Seth Troxler, Roni Amitai at BERHTA on Fri 27 Nov, Washington DC. 3 artists on the bill: Carl Craig, Roni Amitai and Seth Troxler. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

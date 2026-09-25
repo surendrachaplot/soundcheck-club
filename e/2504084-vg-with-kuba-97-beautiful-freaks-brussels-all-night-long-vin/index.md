@@ -1,6 +1,6 @@
 # VG+ with Kuba'97 (Beautiful Freaks, Brussels) [All Night Long Vinyl Set] at 宀 Club
 
-VG+ with Kuba'97 (Beautiful Freaks, Brussels) [All Night Long Vinyl Set] at 宀 Club on Sat 14 Nov, Hongkong. 1 act on the bill: Kuba'97. Trance. Preview the line-up and save it on soundcheck.
+VG+ with Kuba'97 (Beautiful Freaks, Brussels) [All Night Long Vinyl Set] at 宀 Club on Sat 14 Nov, Hong Kong. 1 artist on the bill: Kuba'97. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Stanton Warriors presents: Stanton Sessions at The Steel Yard
 
-Stanton Warriors presents: Stanton Sessions at The Steel Yard on Sat 10 Oct, London. 1 act on the bill: Stanton Warriors. Breakbeat and Club. Preview the line-up and save it on soundcheck.
+Stanton Warriors presents: Stanton Sessions at The Steel Yard on Sat 10 Oct, London. 1 artist on the bill: Stanton Warriors. Breakbeat and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

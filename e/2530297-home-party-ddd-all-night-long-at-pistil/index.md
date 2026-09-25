@@ -1,6 +1,6 @@
 # HOME PARTY: DDD ALL NIGHT LONG at Pistil
 
-HOME PARTY: DDD ALL NIGHT LONG at Pistil on Fri 2 Oct, Seoul. 1 act on the bill: DDD (2). Techno and Electro. Preview the line-up and save it on soundcheck.
+HOME PARTY: DDD ALL NIGHT LONG at Pistil on Fri 2 Oct, Seoul. 1 artist on the bill: DDD. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

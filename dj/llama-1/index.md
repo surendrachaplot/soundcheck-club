@@ -2,7 +2,7 @@
 
 llama (1) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Stoked&stoned, Seoul on Fri, 25 Sept 2026.
 
-llama (1) is a house and club artist based in South Korea, tracked on soundcheck, with 31 sets logged across Seoul. Often billed alongside Gyusco, Youngseok and KIKOH. Next up: Stoked&stoned, Seoul on Fri 25 Sept.
+llama is a house and club artist based in South Korea, tracked on soundcheck, with 31 sets logged across Seoul. Often billed alongside Gyusco, Youngseok and KIKOH. Next up: Stoked&stoned, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 

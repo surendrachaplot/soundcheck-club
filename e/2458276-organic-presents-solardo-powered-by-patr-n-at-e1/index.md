@@ -1,6 +1,6 @@
 # Organic presents Solardo  powered by PATRÓN at E1
 
-Organic presents Solardo  powered by PATRÓN at E1 on Sat 26 Sept, London. 4 acts on the bill: Duat, Eva Banks, Greggio and Solardo. House and Tech House. Preview the line-up and save it on soundcheck.
+Organic presents Solardo  powered by PATRÓN at E1 on Sat 26 Sept, London. 4 artists on the bill: Duat, Eva Banks, Greggio and Solardo. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

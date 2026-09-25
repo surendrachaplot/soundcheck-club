@@ -1,6 +1,6 @@
 # Malive (Maccabi House, MoBlack, Kompakt, Dynamic) at Madarae San Francisco
 
-Malive (Maccabi House, MoBlack, Kompakt, Dynamic) at Madarae San Francisco on Fri 9 Oct, Sanfrancisco. 1 act on the bill: Malive. Preview the line-up and save it on soundcheck.
+Malive (Maccabi House, MoBlack, Kompakt, Dynamic) at Madarae San Francisco on Fri 9 Oct, San Francisco/Oakland. 1 artist on the bill: Malive. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

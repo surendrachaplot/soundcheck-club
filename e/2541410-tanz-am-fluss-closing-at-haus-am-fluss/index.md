@@ -1,6 +1,6 @@
 # Tanz am Fluss Closing at Haus am Fluss
 
-Tanz am Fluss Closing at Haus am Fluss on Sat 26 Sept, Zurich. 2 acts on the bill: Les Deux and PAULI (3). Preview the line-up and save it on soundcheck.
+Tanz am Fluss Closing at Haus am Fluss on Sat 26 Sept, Zurich. 2 artists on the bill: Les Deux and PAULI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

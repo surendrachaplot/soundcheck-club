@@ -2,7 +2,7 @@
 
 M E I is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at or, Tokyo on Fri, 25 Sept 2026.
 
-M E I is a techno and hip-hop artist based in Canada, tracked on soundcheck, with 7 sets logged across Montreal and Tokyo. Often billed alongside Amu (1), Assassin and Drunken Kong. Next up: or, Tokyo on Fri 25 Sept.
+M E I is a techno and hip-hop artist based in Canada, tracked on soundcheck, with 7 sets logged across Montreal and Tokyo. Often billed alongside Amu, Assassin and Drunken Kong. Next up: or, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 

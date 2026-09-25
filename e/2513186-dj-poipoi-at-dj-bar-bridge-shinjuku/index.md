@@ -1,6 +1,6 @@
 # DJ POIPOI at DJ Bar Bridge Shinjuku
 
-DJ POIPOI at DJ Bar Bridge Shinjuku on Sat 24 Oct, Tokyo. 1 act on the bill: DJ POIPOI. House. Preview the line-up and save it on soundcheck.
+DJ POIPOI at DJ Bar Bridge Shinjuku on Sat 24 Oct, Tokyo. 1 artist on the bill: DJ POIPOI. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

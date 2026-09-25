@@ -2,7 +2,7 @@
 
 Nitefreak is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Culture, Washington DC on Fri, 25 Sept 2026.
 
-Nitefreak is an afro house and house artist based in Zimbabwe, tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Austin and Bali and 20 more. Often billed alongside Francis Mercier, MoBlack and Bun Xapa. Next up: Culture, Washingtondc on Fri 25 Sept.
+Nitefreak is an afro house and house artist based in Zimbabwe, tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Austin and Bali and 20 more. Often billed alongside Francis Mercier, MoBlack and Bun Xapa. Next up: Culture, Washington DC on Fri 25 Sept.
 
 ## Upcoming shows
 

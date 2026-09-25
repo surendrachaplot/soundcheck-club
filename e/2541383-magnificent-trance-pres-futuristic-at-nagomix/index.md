@@ -1,6 +1,6 @@
 # Magnificent Trance Pres. 'FUTURISTIC' at Nagomix
 
-Magnificent Trance Pres. 'FUTURISTIC' at Nagomix on Fri 25 Sept, Tokyo. 4 acts on the bill: Gilles de la Mare, Jay Turio, Okamon and SEiYA (JP). Trance and Techno. Preview the line-up and save it on soundcheck.
+Magnificent Trance Pres. 'FUTURISTIC' at Nagomix on Fri 25 Sept, Tokyo. 4 artists on the bill: Gilles de la Mare, Jay Turio, Okamon and SEiYA (JP). Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

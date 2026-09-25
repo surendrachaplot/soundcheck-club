@@ -1,6 +1,6 @@
 # Toy Tonics at PRST
 
-Toy Tonics at PRST on Sat 26 Sept, Vienna. 3 acts on the bill: Davide Dev, Miss Nasty and Stump Valley. House and Disco. Preview the line-up and save it on soundcheck.
+Toy Tonics at PRST on Sat 26 Sept, Vienna. 3 artists on the bill: Davide Dev, Miss Nasty and Stump Valley. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

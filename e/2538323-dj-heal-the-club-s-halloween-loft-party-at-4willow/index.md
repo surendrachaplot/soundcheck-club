@@ -1,6 +1,6 @@
 # DJ heal the club's halloween loft party at 4willow
 
-DJ heal the club's halloween loft party at 4willow on Fri 30 Oct, Newyorkcity. 1 act on the bill: DJ heal the club. R&B and Afro House. Preview the line-up and save it on soundcheck.
+DJ heal the club's halloween loft party at 4willow on Fri 30 Oct, New York City. 1 artist on the bill: DJ heal the club. R&B and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cassius CLUB at Lula Club
 
-Cassius CLUB at Lula Club on Sat 28 Nov, Madrid. 1 act on the bill: Cassius. Preview the line-up and save it on soundcheck.
+Cassius CLUB at Lula Club on Sat 28 Nov, Madrid. 1 artist on the bill: Cassius. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

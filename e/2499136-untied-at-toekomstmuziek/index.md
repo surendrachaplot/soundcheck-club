@@ -1,6 +1,6 @@
 # UNTIED at Toekomstmuziek
 
-UNTIED at Toekomstmuziek on Fri 2 Oct, Amsterdam. 3 acts on the bill: Drabes, LIKE61 and Meestro. House and Disco. Preview the line-up and save it on soundcheck.
+UNTIED at Toekomstmuziek on Fri 2 Oct, Amsterdam. 3 artists on the bill: Drabes, LIKE61 and Meestro. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

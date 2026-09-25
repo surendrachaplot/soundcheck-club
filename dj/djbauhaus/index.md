@@ -2,7 +2,7 @@
 
 Dj Bauhaus is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at CHICO, Mexico City on Sat, 3 Oct 2026.
 
-Dj Bauhaus is a house and electronica artist based in Mexico, tracked on soundcheck, with 13 sets logged across Mexicocity. Often billed alongside Bluecommand, Mijo and Phanta. Next up: CHICO, Mexicocity on Sat 3 Oct.
+Dj Bauhaus is a house and electronica artist based in Mexico, tracked on soundcheck, with 13 sets logged across Mexico City. Often billed alongside Bluecommand, Mijo and Phanta. Next up: CHICO, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 

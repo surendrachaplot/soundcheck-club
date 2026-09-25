@@ -2,7 +2,7 @@
 
 Korra the Kid is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
 
-Korra the Kid is a bass and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Portland, Sanfrancisco and Seattle. Often billed alongside Mirin Doja, DJ WIFI and Succubass. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
+Korra the Kid is a bass and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Portland, San Francisco/Oakland and Seattle. Often billed alongside Mirin Doja, DJ WIFI and Succubass. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
 
 ## Upcoming shows
 

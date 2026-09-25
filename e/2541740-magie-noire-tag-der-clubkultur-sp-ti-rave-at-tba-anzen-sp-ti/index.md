@@ -1,6 +1,6 @@
 # MAGIE NOIRE  (Tag der Clubkultur) Späti Rave at TBA - ANZEN Späti
 
-MAGIE NOIRE  (Tag der Clubkultur) Späti Rave at TBA - ANZEN Späti on Sat 10 Oct, Berlin. 4 acts on the bill: Marcey99, Parisha, Reanna Peris and The Blackmailer. Techno. Preview the line-up and save it on soundcheck.
+MAGIE NOIRE  (Tag der Clubkultur) Späti Rave at TBA - ANZEN Späti on Sat 10 Oct, Berlin. 4 artists on the bill: Marcey99, Parisha, Reanna Peris and The Blackmailer. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

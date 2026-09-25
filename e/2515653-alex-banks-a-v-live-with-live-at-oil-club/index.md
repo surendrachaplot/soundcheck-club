@@ -1,6 +1,6 @@
 # 小计划呈现 Alex Banks A/V live 中国巡演 with 吴卓玲 live at OIL Club
 
-小计划呈现 Alex Banks A/V live 中国巡演 with 吴卓玲 live at OIL Club on Thu 24 Sept, Shenzhen. 1 act on the bill: Alex Banks. Electro and IDM. Preview the line-up and save it on soundcheck.
+小计划呈现 Alex Banks A/V live 中国巡演 with 吴卓玲 live at OIL Club on Thu 24 Sept, Shenzhen. 1 artist on the bill: Alex Banks. Electro and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

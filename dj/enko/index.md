@@ -1,14 +1,15 @@
 # Enkō
 
-Enkō is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Collect LX Factory, Lisbon on Thu, 15 Oct 2026.
+Enkō is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Collect LX Factory, Lisbon on Thu, 15 Oct 2026.
 
-Enkō is a techno and house artist based in Portugal, tracked on soundcheck, with 59 sets logged across Lisbon, Lyon, Paris and Porto. Often billed alongside CRAVO, Tauer and John-E. Next up: Collect LX Factory, Lisbon on Thu 15 Oct.
+Enkō is a techno and house artist based in Portugal, tracked on soundcheck, with 60 sets logged across Lisbon, Lyon, Paris and Porto. Often billed alongside CRAVO, Tauer and John-E. Next up: Collect LX Factory, Lisbon on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Collect LX Factory | Lisbon |
+| Fri, 16 Oct 2026 | Village Underground Lisboa | Lisbon |
 
 ## Recently played
 

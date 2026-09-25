@@ -1,6 +1,6 @@
 # Input x CYBERSOUL at Bossa Nova Civic Club
 
-Input x CYBERSOUL at Bossa Nova Civic Club on Tue 13 Oct, Newyorkcity. 8 acts on the bill: CAMILLA, DAYE., GEOTHEORY and Joshua Orange and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Input x CYBERSOUL at Bossa Nova Civic Club on Tue 13 Oct, New York City. 8 artists on the bill: CAMILLA, DAYE., GEOTHEORY and Joshua Orange and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

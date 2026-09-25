@@ -1,6 +1,6 @@
 # ØXYL: BYORN, TESTPRESS, NYRA, SIKOTI, MEYEM & MORE at Kilomètre25
 
-ØXYL: BYORN, TESTPRESS, NYRA, SIKOTI, MEYEM & MORE at Kilomètre25 on Fri 9 Oct, Paris. 5 acts on the bill: Mando, MEYEM, NYRA (DE) and SIKOTI and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+ØXYL: BYORN, TESTPRESS, NYRA, SIKOTI, MEYEM & MORE at Kilomètre25 on Fri 9 Oct, Paris. 5 artists on the bill: Mando, MEYEM, NYRA (DE) and SIKOTI and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

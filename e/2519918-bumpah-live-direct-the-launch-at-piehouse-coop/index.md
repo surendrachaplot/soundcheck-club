@@ -1,6 +1,6 @@
 # BUMPAH: LIVE & DIRECT - THE LAUNCH at Piehouse Coop
 
-BUMPAH: LIVE & DIRECT - THE LAUNCH at Piehouse Coop on Thu 24 Sept, London. 2 acts on the bill: M.I.C (The Master of Inane Conversation) and Princess Xixi. Bass and R&B. Preview the line-up and save it on soundcheck.
+BUMPAH: LIVE & DIRECT - THE LAUNCH at Piehouse Coop on Thu 24 Sept, London. 2 artists on the bill: M.I.C (The Master of Inane Conversation) and Princess Xixi. Bass and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

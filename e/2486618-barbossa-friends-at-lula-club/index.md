@@ -1,6 +1,6 @@
 # BARBOSSA & FRIENDS at Lula Club
 
-BARBOSSA & FRIENDS at Lula Club on Sat 26 Sept, Madrid. 1 act on the bill: Torrione. Preview the line-up and save it on soundcheck.
+BARBOSSA & FRIENDS at Lula Club on Sat 26 Sept, Madrid. 1 artist on the bill: Torrione. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

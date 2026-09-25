@@ -1,6 +1,6 @@
 # Suziri: Jorge Ramiro + Gisa + Blanch / Bar: Gonzabraa + Ceskiavikus + Nico Grossi at Oven Club
 
-Suziri: Jorge Ramiro + Gisa + Blanch / Bar: Gonzabraa + Ceskiavikus + Nico Grossi at Oven Club on Fri 25 Sept, Valencia. 2 acts on the bill: BAR (DE) and Blanch. House and Tech House. Preview the line-up and save it on soundcheck.
+Suziri: Jorge Ramiro + Gisa + Blanch / Bar: Gonzabraa + Ceskiavikus + Nico Grossi at Oven Club on Fri 25 Sept, Valencia. 2 artists on the bill: BAR (DE) and Blanch. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

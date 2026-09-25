@@ -1,6 +1,6 @@
 # Electrostad: FREE AFTER PARTY with PINI B2B Victor Hugo, HOFF B2B INOFF at Sidecar
 
-Electrostad: FREE AFTER PARTY with PINI B2B Victor Hugo, HOFF B2B INOFF at Sidecar on Sun 27 Sept, Barcelona. 3 acts on the bill: INOFF, PINI and Victor Hugo. House and Electronica. Preview the line-up and save it on soundcheck.
+Electrostad: FREE AFTER PARTY with PINI B2B Victor Hugo, HOFF B2B INOFF at Sidecar on Sun 27 Sept, Barcelona. 3 artists on the bill: INOFF, PINI and Victor Hugo. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

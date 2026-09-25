@@ -1,6 +1,6 @@
 # John Talabot (ES) at Plano B
 
-John Talabot (ES) at Plano B on Fri 25 Sept, Porto. 1 act on the bill: John Talabot. Techno and Electro. Preview the line-up and save it on soundcheck.
+John Talabot (ES) at Plano B on Fri 25 Sept, Porto. 1 artist on the bill: John Talabot. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

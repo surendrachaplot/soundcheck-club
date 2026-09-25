@@ -1,6 +1,6 @@
 # Render with Jade Seatle, Seb Odyssey, DJ Delivero at Masada
 
-Render with Jade Seatle, Seb Odyssey, DJ Delivero at Masada on Sun 11 Oct, Milan. 4 acts on the bill: DJ Delivero, Jade Seatle, Outburst Knobs and Seb Odyssey. Deep House. Preview the line-up and save it on soundcheck.
+Render with Jade Seatle, Seb Odyssey, DJ Delivero at Masada on Sun 11 Oct, Milan. 4 artists on the bill: DJ Delivero, Jade Seatle, Outburst Knobs and Seb Odyssey. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

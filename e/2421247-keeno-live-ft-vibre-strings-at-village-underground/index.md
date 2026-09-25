@@ -1,6 +1,6 @@
 # Keeno LIVE ft Vibre Strings at Village Underground
 
-Keeno LIVE ft Vibre Strings at Village Underground on Sat 28 Nov, London. 1 act on the bill: Keeno. Drum & Bass. Preview the line-up and save it on soundcheck.
+Keeno LIVE ft Vibre Strings at Village Underground on Sat 28 Nov, London. 1 artist on the bill: Keeno. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

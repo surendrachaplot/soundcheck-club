@@ -1,6 +1,6 @@
 # LaPuta Records - TBA at TBA
 
-LaPuta Records - TBA on Fri 9 Oct, Berlin. 3 acts on the bill: Culo Sucio, Daniel Jaramillo and DAZA. House and Acid. Preview the line-up and save it on soundcheck.
+LaPuta Records - TBA on Fri 9 Oct, Berlin. 3 artists on the bill: Culo Sucio, Daniel Jaramillo and DAZA. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

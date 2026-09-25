@@ -1,6 +1,6 @@
 # CHRIS STASSY – LONDON WEEKENDER - Phonox at Phonox
 
-CHRIS STASSY – LONDON WEEKENDER - Phonox on Sat 5 Dec, London. 1 act on the bill: CHRIS STASSY. House and Tech House. Preview the line-up and save it on soundcheck.
+CHRIS STASSY – LONDON WEEKENDER - Phonox on Sat 5 Dec, London. 1 artist on the bill: CHRIS STASSY. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Research at TBA - Announced to Ticketholders Day Of
 
-Research at TBA - Announced to Ticketholders Day Of on Sat 10 Oct, Seattle. 2 acts on the bill: x1aoy3 and Zenker Brothers. Techno. Preview the line-up and save it on soundcheck.
+Research at TBA - Announced to Ticketholders Day Of on Sat 10 Oct, Seattle. 2 artists on the bill: x1aoy3 and Zenker Brothers. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # COUNTDOWN at Sigurd CPH
 
-COUNTDOWN at Sigurd CPH on Sat 3 Oct, Copenhagen. 2 acts on the bill: DJ Nap and Qwenty. House and Garage. Preview the line-up and save it on soundcheck.
+COUNTDOWN at Sigurd CPH on Sat 3 Oct, Copenhagen. 2 artists on the bill: DJ Nap and Qwenty. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

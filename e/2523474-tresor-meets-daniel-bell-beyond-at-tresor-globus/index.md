@@ -1,6 +1,6 @@
 # Tresor meets Daniel Bell: BEYOND at Tresor / Globus
 
-Tresor meets Daniel Bell: BEYOND at Tresor / Globus on Fri 23 Oct, Berlin. 5 acts on the bill: Adam X, Daniel Bell, Ecilo and Peryl and 1 more. Preview the line-up and save it on soundcheck.
+Tresor meets Daniel Bell: BEYOND at Tresor / Globus on Fri 23 Oct, Berlin. 5 artists on the bill: Adam X, Daniel Bell, Ecilo and Peryl and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

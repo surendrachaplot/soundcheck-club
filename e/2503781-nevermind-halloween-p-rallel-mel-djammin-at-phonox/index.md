@@ -1,6 +1,6 @@
 # NEVERMIND HALLOWEEN: p-rallel, Melé, Djammin at Phonox
 
-NEVERMIND HALLOWEEN: p-rallel, Melé, Djammin at Phonox on Fri 30 Oct, London. 3 acts on the bill: Djammin, Melé and p-rallel. Bass and Garage. Preview the line-up and save it on soundcheck.
+NEVERMIND HALLOWEEN: p-rallel, Melé, Djammin at Phonox on Fri 30 Oct, London. 3 artists on the bill: Djammin, Melé and p-rallel. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

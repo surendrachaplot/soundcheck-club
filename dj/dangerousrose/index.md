@@ -2,7 +2,7 @@
 
 Dangerous Rose is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Xanadu, New York City on Fri, 30 Oct 2026.
 
-Dangerous Rose is a techno and house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Amsterdam, Ibiza, Losangeles and Miami and 1 more. Often billed alongside Makadsi, FASHION (US) and Memphy. Next up: Xanadu, Newyorkcity on Fri 30 Oct.
+Dangerous Rose is a techno and house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Amsterdam, Ibiza, Los Angeles and Miami and 1 more. Often billed alongside Makadsi, FASHION (US) and Memphy. Next up: Xanadu, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 

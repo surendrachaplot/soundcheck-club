@@ -1,6 +1,6 @@
 # Traum Nacht: Ellen Allien, Clara D, Phemia at TRAUM
 
-Traum Nacht: Ellen Allien, Clara D, Phemia at TRAUM on Sat 28 Nov, Antwerp. 3 acts on the bill: Clara D, Ellen Allien and Phemia. Techno. Preview the line-up and save it on soundcheck.
+Traum Nacht: Ellen Allien, Clara D, Phemia at TRAUM on Sat 28 Nov, Antwerp. 3 artists on the bill: Clara D, Ellen Allien and Phemia. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

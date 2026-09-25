@@ -1,6 +1,6 @@
 # KINSHIP at TBA - Warehouse Location
 
-KINSHIP at TBA - Warehouse Location on Sat 3 Oct, Philadelphia. 4 acts on the bill: Aloysia, human plushie, Miss Parker and Sambee. Techno and House. Preview the line-up and save it on soundcheck.
+KINSHIP at TBA - Warehouse Location on Sat 3 Oct, Philadelphia. 4 artists on the bill: Aloysia, human plushie, Miss Parker and Sambee. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

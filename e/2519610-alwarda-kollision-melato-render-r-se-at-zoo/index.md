@@ -1,6 +1,6 @@
 # ALWARDA: Kollision • Melato • Render • Rōse at Zoo
 
-ALWARDA: Kollision • Melato • Render • Rōse at Zoo on Sat 26 Sept, Geneva. 1 act on the bill: Kollision. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+ALWARDA: Kollision • Melato • Render • Rōse at Zoo on Sat 26 Sept, Geneva. 1 artist on the bill: Kollision. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

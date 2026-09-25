@@ -1,6 +1,6 @@
-# b2b2b ~ zeroday & VIKKI b-day bash at Mastak
+# b2b2b — zeroday & VIKKI b-day bash at Mastak
 
-b2b2b ~ zeroday & VIKKI b-day bash at Mastak on Sat 3 Oct, Warsaw. 2 acts on the bill: VIKKI_ and zeroday. Tech House and Electro. Preview the line-up and save it on soundcheck.
+b2b2b — zeroday & VIKKI b-day bash at Mastak on Sat 3 Oct, Warsaw. 2 artists on the bill: VIKKI_ and zeroday. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

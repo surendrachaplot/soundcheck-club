@@ -1,6 +1,6 @@
 # Grid - Goodbye Edition at Amigo
 
-Grid - Goodbye Edition at Amigo on Fri 16 Oct, Ghent. 8 acts on the bill: AliA, Casper, clïo and Erykah and 4 more. Preview the line-up and save it on soundcheck.
+Grid - Goodbye Edition at Amigo on Fri 16 Oct, Ghent. 8 artists on the bill: AliA, Casper, clïo and Erykah and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ATW pres. Interplanetary Criminal + Guests at The Prospect Building
 
-ATW pres. Interplanetary Criminal + Guests at The Prospect Building on Sat 28 Nov, Bristol. 1 act on the bill: Interplanetary Criminal. Bass and Garage. Preview the line-up and save it on soundcheck.
+ATW pres. Interplanetary Criminal + Guests at The Prospect Building on Sat 28 Nov, Bristol. 1 artist on the bill: Interplanetary Criminal. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

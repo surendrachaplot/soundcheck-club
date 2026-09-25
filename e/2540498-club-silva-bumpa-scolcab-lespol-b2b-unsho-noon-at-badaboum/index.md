@@ -1,6 +1,6 @@
 # Club — Silva Bumpa, Scolcab, Lespol b2b Unsho, NOON at Badaboum
 
-Club — Silva Bumpa, Scolcab, Lespol b2b Unsho, NOON at Badaboum on Fri 30 Oct, Paris. 4 acts on the bill: Halfpipe Records, NOON, Silva Bumpa and Unsho. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+Club — Silva Bumpa, Scolcab, Lespol b2b Unsho, NOON at Badaboum on Fri 30 Oct, Paris. 4 artists on the bill: Halfpipe Records, NOON, Silva Bumpa and Unsho. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

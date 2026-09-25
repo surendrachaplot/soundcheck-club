@@ -1,6 +1,6 @@
 # FF Newsroom presents: RealYungPhil, Gud, Wosum & Stacey at 170 Russell
 
-FF Newsroom presents: RealYungPhil, Gud, Wosum & Stacey at 170 Russell on Fri 23 Oct, Melbourne. 2 acts on the bill: Woesum and Yung Gud. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+FF Newsroom presents: RealYungPhil, Gud, Wosum & Stacey at 170 Russell on Fri 23 Oct, Melbourne. 2 artists on the bill: Woesum and Yung Gud. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

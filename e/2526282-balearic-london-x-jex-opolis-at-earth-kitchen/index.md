@@ -1,6 +1,6 @@
 # Balearic London x Jex Opolis at EartH Kitchen
 
-Balearic London x Jex Opolis at EartH Kitchen on Fri 20 Nov, London. 5 acts on the bill: Ariane V, Balearic London, Ben Gomori and Gaucho (UK) and 1 more. House and Balearic. Preview the line-up and save it on soundcheck.
+Balearic London x Jex Opolis at EartH Kitchen on Fri 20 Nov, London. 5 artists on the bill: Ariane V, Balearic London, Ben Gomori and Gaucho (UK) and 1 more. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

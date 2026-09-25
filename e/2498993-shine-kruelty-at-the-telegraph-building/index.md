@@ -1,6 +1,6 @@
 # SHINE -- KRUELTY at The Telegraph Building
 
-SHINE -- KRUELTY at The Telegraph Building on Sat 10 Oct, Belfast. 1 act on the bill: KRUELTY. Preview the line-up and save it on soundcheck.
+SHINE -- KRUELTY at The Telegraph Building on Sat 10 Oct, Belfast. 1 artist on the bill: KRUELTY. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

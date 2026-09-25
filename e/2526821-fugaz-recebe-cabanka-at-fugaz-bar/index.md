@@ -1,6 +1,6 @@
 # Fugaz recebe Cabanka at Fugaz Bar
 
-Fugaz recebe Cabanka at Fugaz Bar on Sat 26 Sept, Saopaulo. Preview the line-up and save it on soundcheck.
+Fugaz recebe Cabanka at Fugaz Bar on Sat 26 Sept, Sao Paulo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

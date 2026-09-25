@@ -1,6 +1,6 @@
 # CREATIONOFEDEN presents GARAGE TRANSMISSION at Pisco Bar
 
-CREATIONOFEDEN presents GARAGE TRANSMISSION at Pisco Bar on Sat 10 Oct, Kualalumpur. House and Garage. Preview the line-up and save it on soundcheck.
+CREATIONOFEDEN presents GARAGE TRANSMISSION at Pisco Bar on Sat 10 Oct, Kuala Lumpur. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

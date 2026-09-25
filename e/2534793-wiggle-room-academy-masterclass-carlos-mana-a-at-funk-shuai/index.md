@@ -1,6 +1,6 @@
 # Wiggle Room Academy Masterclass: Carlos Manaça at Funk'shuai
 
-Wiggle Room Academy Masterclass: Carlos Manaça at Funk'shuai on Sat 26 Sept, Toronto. 1 act on the bill: Carlos Manaça. Tech House. Preview the line-up and save it on soundcheck.
+Wiggle Room Academy Masterclass: Carlos Manaça at Funk'shuai on Sat 26 Sept, Toronto. 1 artist on the bill: Carlos Manaça. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SG Lewis - The Great Northern at The Great Northern
 
-SG Lewis - The Great Northern on Sun 27 Sept, Sanfrancisco. 3 acts on the bill: PUFFIE, SG Lewis and starfari. House and Electronica. Preview the line-up and save it on soundcheck.
+SG Lewis - The Great Northern on Sun 27 Sept, San Francisco/Oakland. 3 artists on the bill: PUFFIE, SG Lewis and starfari. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Club Copine Sapphic Discothèque at Hope House
 
-Club Copine Sapphic Discothèque at Hope House on Sat 3 Oct, Leeds. 1 act on the bill: 2QUID. Breakbeat and Latin Bass. Preview the line-up and save it on soundcheck.
+Club Copine Sapphic Discothèque at Hope House on Sat 3 Oct, Leeds. 1 artist on the bill: 2QUID. Breakbeat and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

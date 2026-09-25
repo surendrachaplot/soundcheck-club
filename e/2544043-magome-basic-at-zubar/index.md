@@ -1,6 +1,6 @@
 # MAGOME BASIC at ZUBAR
 
-MAGOME BASIC at ZUBAR on Sun 18 Oct, Tokyo. 1 act on the bill: Emerson. Preview the line-up and save it on soundcheck.
+MAGOME BASIC at ZUBAR on Sun 18 Oct, Tokyo. 1 artist on the bill: Emerson. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

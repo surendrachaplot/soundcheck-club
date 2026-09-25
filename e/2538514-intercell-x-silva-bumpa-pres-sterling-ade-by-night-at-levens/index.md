@@ -1,6 +1,6 @@
 # Intercell x Silva Bumpa pres. STERLING - ADE By Night at Levenslang Amsterdam
 
-Intercell x Silva Bumpa pres. STERLING - ADE By Night at Levenslang Amsterdam on Thu 22 Oct, Amsterdam. 5 acts on the bill: Kepler, Laura Meester, Prozak (IRL) and Silva Bumpa and 1 more. Preview the line-up and save it on soundcheck.
+Intercell x Silva Bumpa pres. STERLING - ADE By Night at Levenslang Amsterdam on Thu 22 Oct, Amsterdam. 5 artists on the bill: Kepler, Laura Meester, Prozak (IRL) and Silva Bumpa and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

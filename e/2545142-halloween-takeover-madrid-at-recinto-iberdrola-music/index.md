@@ -1,6 +1,6 @@
 # Halloween Takeover Madrid at Recinto Iberdrola Music
 
-Halloween Takeover Madrid at Recinto Iberdrola Music on Sat 31 Oct, Madrid. 3 acts on the bill: Colyn, Maceo Plex and Mariano Mellino. Preview the line-up and save it on soundcheck.
+Halloween Takeover Madrid at Recinto Iberdrola Music on Sat 31 Oct, Madrid. 3 artists on the bill: Colyn, Maceo Plex and Mariano Mellino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kosmopolis powered by Au. Die Agentur at Fitzroy
 
-Kosmopolis powered by Au. Die Agentur at Fitzroy on Thu 24 Sept, Berlin. 4 acts on the bill: 5RVZ, BLUME, Harald Uunk and Neutran. Experimental. Preview the line-up and save it on soundcheck.
+Kosmopolis powered by Au. Die Agentur at Fitzroy on Thu 24 Sept, Berlin. 4 artists on the bill: 5RVZ, BLUME, Harald Uunk and Neutran. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KIZZI & Friends at The Jazz Cafe
 
-KIZZI & Friends at The Jazz Cafe on Fri 9 Oct, London. 4 acts on the bill: AMARI, Gunni, Nadine Noor and vish. Preview the line-up and save it on soundcheck.
+KIZZI & Friends at The Jazz Cafe on Fri 9 Oct, London. 4 artists on the bill: AMARI, Gunni, Nadine Noor and vish. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

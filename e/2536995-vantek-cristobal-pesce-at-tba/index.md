@@ -1,6 +1,6 @@
 # VANTEK: Cristobal Pesce at TBA
 
-VANTEK: Cristobal Pesce at TBA on Sat 17 Oct, Vancouver. 1 act on the bill: Cristobal Pesce. Techno. Preview the line-up and save it on soundcheck.
+VANTEK: Cristobal Pesce at TBA on Sat 17 Oct, Vancouver. 1 artist on the bill: Cristobal Pesce. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

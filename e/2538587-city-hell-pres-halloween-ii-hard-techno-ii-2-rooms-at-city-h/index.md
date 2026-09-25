@@ -1,6 +1,6 @@
 # CITY HELL pres. ?????? HALLOWEEN II Hard Techno II 2 Rooms at City Hall
 
-CITY HELL pres. ?????? HALLOWEEN II Hard Techno II 2 Rooms at City Hall on Thu 29 Oct, Barcelona. 1 act on the bill: Kynexis. Techno. Preview the line-up and save it on soundcheck.
+CITY HELL pres. ?????? HALLOWEEN II Hard Techno II 2 Rooms at City Hall on Thu 29 Oct, Barcelona. 1 artist on the bill: Kynexis. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

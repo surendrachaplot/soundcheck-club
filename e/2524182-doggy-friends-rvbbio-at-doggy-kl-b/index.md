@@ -1,6 +1,6 @@
 # Doggy & Friends: Rvbbio at Doggy Klœb
 
-Doggy & Friends: Rvbbio at Doggy Klœb on Thu 24 Sept, Malaga. 1 act on the bill: rubbio. Electronica. Preview the line-up and save it on soundcheck.
+Doggy & Friends: Rvbbio at Doggy Klœb on Thu 24 Sept, Malaga. 1 artist on the bill: rubbio. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

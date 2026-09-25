@@ -2,7 +2,7 @@
 
 Boots & Kats is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Thompsons Garage, Belfast on Sat, 26 Sept 2026.
 
-Boots & Kats are a house and italo disco duo tracked on soundcheck, with 10 sets logged across Belfast, Dublin and Vancouver. Often billed alongside Surka (1), Collie (1) and George Feely. Next up: Thompsons Garage, Belfast on Sat 26 Sept.
+Boots & Kats are a house and italo disco duo tracked on soundcheck, with 10 sets logged across Belfast, Dublin and Vancouver. Often billed alongside Surka, Collie and George Feely. Next up: Thompsons Garage, Belfast on Sat 26 Sept.
 
 ## Upcoming shows
 

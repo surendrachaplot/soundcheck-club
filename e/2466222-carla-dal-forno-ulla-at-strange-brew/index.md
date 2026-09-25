@@ -1,6 +1,6 @@
 # Carla dal Forno + Ulla at Strange Brew
 
-Carla dal Forno + Ulla at Strange Brew on Fri 2 Oct, Bristol. 2 acts on the bill: Carla dal Forno and Ulla. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Carla dal Forno + Ulla at Strange Brew on Fri 2 Oct, Bristol. 2 artists on the bill: Carla dal Forno and Ulla. Ambient and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

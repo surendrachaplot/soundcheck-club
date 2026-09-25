@@ -1,6 +1,6 @@
 # Label Night: Time Passages: Binh, Tal Fussman & Shvili at Nowadays
 
-Label Night: Time Passages: Binh, Tal Fussman & Shvili at Nowadays on Fri 25 Sept, Newyorkcity. 3 acts on the bill: Binh, Shvili and Tal Fussman. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Label Night: Time Passages: Binh, Tal Fussman & Shvili at Nowadays on Fri 25 Sept, New York City. 3 artists on the bill: Binh, Shvili and Tal Fussman. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

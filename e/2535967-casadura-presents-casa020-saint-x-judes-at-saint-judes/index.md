@@ -1,6 +1,6 @@
 # CASADURA PRESENTS: CASA020 Saint X Judes at Saint Judes
 
-CASADURA PRESENTS: CASA020 Saint X Judes at Saint Judes on Fri 25 Sept, Glasgow. 1 act on the bill: Calder. Trance and House. Preview the line-up and save it on soundcheck.
+CASADURA PRESENTS: CASA020 Saint X Judes at Saint Judes on Fri 25 Sept, Glasgow. 1 artist on the bill: Calder. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

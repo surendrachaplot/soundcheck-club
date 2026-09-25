@@ -1,6 +1,6 @@
 # in.between pres. The Hacker [daytime event 16:00-22:00] at Fridas Pier
 
-in.between pres. The Hacker [daytime event 16:00-22:00] at Fridas Pier on Sat 17 Oct, Stuttgart. 3 acts on the bill: Raphael Dincsoy, Sibel and The Hacker. Electro. Preview the line-up and save it on soundcheck.
+in.between pres. The Hacker [daytime event 16:00-22:00] at Fridas Pier on Sat 17 Oct, Stuttgart. 3 artists on the bill: Raphael Dincsoy, Sibel and The Hacker. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

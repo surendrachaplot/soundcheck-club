@@ -1,6 +1,6 @@
 # Armina x Karmic, La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo
 
-Armina x Karmic, La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo on Fri 25 Sept, Buenosaires. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Armina x Karmic, La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo on Fri 25 Sept, Buenos Aires. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

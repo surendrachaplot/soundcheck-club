@@ -1,6 +1,6 @@
 # MOAB - Xiaolin at DURO
 
-MOAB - Xiaolin at DURO on Fri 20 Nov, Milan. 1 act on the bill: Xiaolin. Techno. Preview the line-up and save it on soundcheck.
+MOAB - Xiaolin at DURO on Fri 20 Nov, Milan. 1 artist on the bill: Xiaolin. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Garage Garden & Friends: Bricks Bar Takeover at Bricks
 
-Garage Garden & Friends: Bricks Bar Takeover on Fri 25 Sept, London. 3 acts on the bill: AHARDS, Knock Down Ginger and RHD (1). House and Garage. Preview the line-up and save it on soundcheck.
+Garage Garden & Friends: Bricks Bar Takeover on Fri 25 Sept, London. 3 artists on the bill: AHARDS, Knock Down Ginger and RHD. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

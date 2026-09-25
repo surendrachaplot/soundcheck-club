@@ -1,6 +1,6 @@
 # Freddy K, Ms. K, Andree Bohlin at Under Bron
 
-Freddy K, Ms. K, Andree Bohlin at Under Bron on Fri 9 Oct, Stockholm. 3 acts on the bill: Andree Bohlin, Freddy K and Ms. K. Techno and House. Preview the line-up and save it on soundcheck.
+Freddy K, Ms. K, Andree Bohlin at Under Bron on Fri 9 Oct, Stockholm. 3 artists on the bill: Andree Bohlin, Freddy K and Ms. K. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

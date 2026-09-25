@@ -1,6 +1,6 @@
 # Nicole Moudaber (All Night Long - UK Premiere) at E1
 
-Nicole Moudaber (All Night Long - UK Premiere) at E1 on Sat 3 Oct, London. 1 act on the bill: Nicole Moudaber. Tech House. Preview the line-up and save it on soundcheck.
+Nicole Moudaber (All Night Long - UK Premiere) at E1 on Sat 3 Oct, London. 1 artist on the bill: Nicole Moudaber. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

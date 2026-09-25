@@ -1,6 +1,6 @@
 # Horst Club & MISSFITTE & Body Language at ASIAT Park
 
-Horst Club & MISSFITTE & Body Language at ASIAT Park on Sat 28 Nov, Brussels. 17 acts on the bill: 131bpm, Camilla Rae, DJ ATHOME and DJ Fuckoff and 13 more. Preview the line-up and save it on soundcheck.
+Horst Club & MISSFITTE & Body Language at ASIAT Park on Sat 28 Nov, Brussels. 17 artists on the bill: 131bpm, Camilla Rae, DJ ATHOME and DJ Fuckoff and 13 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

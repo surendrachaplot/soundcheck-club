@@ -1,6 +1,6 @@
 # Bin Juice presents: Queer Rave with Marie Malarie and Josh Bell at Cobalt Studios
 
-Bin Juice presents: Queer Rave with Marie Malarie and Josh Bell at Cobalt Studios on Sat 10 Oct, Newcastle. 2 acts on the bill: Josh Bell and Marie Malarie. Preview the line-up and save it on soundcheck.
+Bin Juice presents: Queer Rave with Marie Malarie and Josh Bell at Cobalt Studios on Sat 10 Oct, Newcastle. 2 artists on the bill: Josh Bell and Marie Malarie. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AVIDD Prologue #2 PROGRESSIVE HOUSE ROOFTOP at Yodo Groove (Yodobashi Ikebukuro)
 
-AVIDD Prologue #2 PROGRESSIVE HOUSE ROOFTOP at Yodo Groove (Yodobashi Ikebukuro) on Sun 18 Oct, Tokyo. 1 act on the bill: Nosh. Progressive House and Electro. Preview the line-up and save it on soundcheck.
+AVIDD Prologue #2 PROGRESSIVE HOUSE ROOFTOP at Yodo Groove (Yodobashi Ikebukuro) on Sun 18 Oct, Tokyo. 1 artist on the bill: Nosh. Progressive House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

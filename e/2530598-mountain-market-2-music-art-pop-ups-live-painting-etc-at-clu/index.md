@@ -1,6 +1,6 @@
 # Mountain Market 2　Music, Art, Pop-Ups, Live Painting etc at Club Daphnia
 
-Mountain Market 2　Music, Art, Pop-Ups, Live Painting etc at Club Daphnia on Tue 3 Nov, Osaka. 3 acts on the bill: BeNi, KA4U and Limited Toss. Experimental and Footwork. Preview the line-up and save it on soundcheck.
+Mountain Market 2　Music, Art, Pop-Ups, Live Painting etc at Club Daphnia on Tue 3 Nov, Osaka. 3 artists on the bill: BeNi, KA4U and Limited Toss. Experimental and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

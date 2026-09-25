@@ -1,6 +1,6 @@
 # Tropicana Records at Lux Fragil
 
-Tropicana Records at Lux Fragil on Thu 24 Sept, Lisbon. 1 act on the bill: Megatronic. Preview the line-up and save it on soundcheck.
+Tropicana Records at Lux Fragil on Thu 24 Sept, Lisbon. 1 artist on the bill: Megatronic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dusky presents SIGNALS TOUR / Samuel Rees / DRØZE / SÓLTMÄNN / RÓS at Culture Box
 
-Dusky presents SIGNALS TOUR / Samuel Rees / DRØZE / SÓLTMÄNN / RÓS at Culture Box on Fri 13 Nov, Copenhagen. 3 acts on the bill: DRØZE, Dusky and Samuel Rees. Techno and House. Preview the line-up and save it on soundcheck.
+Dusky presents SIGNALS TOUR / Samuel Rees / DRØZE / SÓLTMÄNN / RÓS at Culture Box on Fri 13 Nov, Copenhagen. 3 artists on the bill: DRØZE, Dusky and Samuel Rees. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

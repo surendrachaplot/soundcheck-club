@@ -1,6 +1,6 @@
 # TAKTLOS • EOS FESTIVAL • 4 FLOORS at Delta Gelände
 
-TAKTLOS • EOS FESTIVAL • 4 FLOORS at Delta Gelände on Fri 2 Oct, Dortmund-essen. 4 acts on the bill: Nachtigaller, V, WHOSJERRE and Won. Trance and Techno. Preview the line-up and save it on soundcheck.
+TAKTLOS • EOS FESTIVAL • 4 FLOORS at Delta Gelände on Fri 2 Oct, Dortmund Essen. 4 artists on the bill: Nachtigaller, V, WHOSJERRE and Won. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

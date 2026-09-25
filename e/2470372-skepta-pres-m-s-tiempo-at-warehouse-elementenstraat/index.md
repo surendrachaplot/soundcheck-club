@@ -1,6 +1,6 @@
 # Skepta pres. Más Tiempo at Warehouse Elementenstraat
 
-Skepta pres. Más Tiempo at Warehouse Elementenstraat on Sat 24 Oct, Amsterdam. 1 act on the bill: Skepta. Preview the line-up and save it on soundcheck.
+Skepta pres. Más Tiempo at Warehouse Elementenstraat on Sat 24 Oct, Amsterdam. 1 artist on the bill: Skepta. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

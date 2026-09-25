@@ -1,6 +1,6 @@
 # [FREE ENTRY TILL 00:30] SAVORY at OST
 
-[FREE ENTRY TILL 00:30] SAVORY at OST on Thu 1 Oct, Berlin. 2 acts on the bill: Iguana (2) and WAN.1. Techno. Preview the line-up and save it on soundcheck.
+[FREE ENTRY TILL 00:30] SAVORY at OST on Thu 1 Oct, Berlin. 2 artists on the bill: Iguana and WAN.1. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

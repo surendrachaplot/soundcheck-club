@@ -1,6 +1,6 @@
 # Paris Electronic Week - Pass convention at Mains D'œuvres
 
-Paris Electronic Week - Pass convention at Mains D'œuvres on Fri 2 Oct, Paris. 4 acts on the bill: Harey izé, HORS-SOL, Israfil and Maliman. Preview the line-up and save it on soundcheck.
+Paris Electronic Week - Pass convention at Mains D'œuvres on Fri 2 Oct, Paris. 4 artists on the bill: Harey izé, HORS-SOL, Israfil and Maliman. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

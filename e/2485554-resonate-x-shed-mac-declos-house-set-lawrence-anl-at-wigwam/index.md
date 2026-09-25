@@ -1,6 +1,6 @@
 # Resonate x SHED: Mac Declos (House Set) + LAWRENCE (ANL) at Wigwam
 
-Resonate x SHED: Mac Declos (House Set) + LAWRENCE (ANL) at Wigwam on Fri 23 Oct, Dublin. 2 acts on the bill: LAWRENCE DJ and Mac Declos. Techno and House. Preview the line-up and save it on soundcheck.
+Resonate x SHED: Mac Declos (House Set) + LAWRENCE (ANL) at Wigwam on Fri 23 Oct, Dublin. 2 artists on the bill: LAWRENCE DJ and Mac Declos. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

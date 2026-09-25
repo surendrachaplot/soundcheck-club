@@ -1,6 +1,6 @@
 # GREEN LIFE ENT. 15YR ANNIVERSARY + WELCOME BACK Jesse Saunders + Thee-O'S BIRTHDAY BASH at Soulwerks
 
-GREEN LIFE ENT. 15YR ANNIVERSARY + WELCOME BACK Jesse Saunders + Thee-O'S BIRTHDAY BASH at Soulwerks on Sun 15 Nov, Losangeles. 5 acts on the bill: Bret Wallace, DJ Colette, Donald Glaude and Jesse Saunders and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+GREEN LIFE ENT. 15YR ANNIVERSARY + WELCOME BACK Jesse Saunders + Thee-O'S BIRTHDAY BASH at Soulwerks on Sun 15 Nov, Los Angeles. 5 artists on the bill: Bret Wallace, DJ Colette, Donald Glaude and Jesse Saunders and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

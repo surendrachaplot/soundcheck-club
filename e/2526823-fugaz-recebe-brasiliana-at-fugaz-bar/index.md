@@ -1,6 +1,6 @@
 # Fugaz recebe BrasiliAna at Fugaz Bar
 
-Fugaz recebe BrasiliAna at Fugaz Bar on Wed 30 Sept, Saopaulo. Preview the line-up and save it on soundcheck.
+Fugaz recebe BrasiliAna at Fugaz Bar on Wed 30 Sept, Sao Paulo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

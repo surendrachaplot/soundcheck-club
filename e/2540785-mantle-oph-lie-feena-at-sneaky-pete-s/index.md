@@ -1,6 +1,6 @@
 # mantle: ophélie 𖦹 Feena at Sneaky Pete's
 
-mantle: ophélie 𖦹 Feena at Sneaky Pete's on Fri 9 Oct, Edinburgh. 2 acts on the bill: Feena and ophélie. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+mantle: ophélie 𖦹 Feena at Sneaky Pete's on Fri 9 Oct, Edinburgh. 2 artists on the bill: Feena and ophélie. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

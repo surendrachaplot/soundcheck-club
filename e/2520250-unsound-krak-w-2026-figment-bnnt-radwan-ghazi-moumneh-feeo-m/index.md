@@ -1,6 +1,6 @@
 # Unsound Kraków 2026: FIGMENT - BNNT & Radwan Ghazi Moumneh / feeo / Milan W at Manggha
 
-Unsound Kraków 2026: FIGMENT - BNNT & Radwan Ghazi Moumneh / feeo / Milan W at Manggha on Sat 10 Oct, Krakow. 2 acts on the bill: feeo and Milan W.. Preview the line-up and save it on soundcheck.
+Unsound Kraków 2026: FIGMENT - BNNT & Radwan Ghazi Moumneh / feeo / Milan W at Manggha on Sat 10 Oct, Krakow. 2 artists on the bill: feeo and Milan W.. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

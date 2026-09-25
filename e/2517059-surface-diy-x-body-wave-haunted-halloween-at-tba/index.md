@@ -1,6 +1,6 @@
 # Surface DIY x Body Wave: Haunted Halloween at TBA
 
-Surface DIY x Body Wave: Haunted Halloween at TBA on Thu 29 Oct, Losangeles. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Surface DIY x Body Wave: Haunted Halloween at TBA on Thu 29 Oct, Los Angeles. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

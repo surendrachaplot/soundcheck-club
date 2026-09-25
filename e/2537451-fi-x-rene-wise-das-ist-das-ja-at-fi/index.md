@@ -1,6 +1,6 @@
 # fi x Rene Wise & Das Ist Das Ja at fi
 
-fi x Rene Wise & Das Ist Das Ja on Sat 10 Oct, Cologne. 4 acts on the bill: 0megavybe, Mariami, Medea and Rene Wise. Techno and House. Preview the line-up and save it on soundcheck.
+fi x Rene Wise & Das Ist Das Ja on Sat 10 Oct, Cologne. 4 artists on the bill: 0megavybe, Mariami, Medea and Rene Wise. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

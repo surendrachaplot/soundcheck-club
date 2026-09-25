@@ -1,6 +1,6 @@
 # ONE BUNDLE Cinema Mixer at Prachtwerk Berlin
 
-ONE BUNDLE Cinema Mixer at Prachtwerk Berlin on Fri 25 Sept, Berlin. 1 act on the bill: DEEOXID. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+ONE BUNDLE Cinema Mixer at Prachtwerk Berlin on Fri 25 Sept, Berlin. 1 artist on the bill: DEEOXID. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

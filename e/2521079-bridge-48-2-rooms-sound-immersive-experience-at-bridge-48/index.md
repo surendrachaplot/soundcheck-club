@@ -1,6 +1,6 @@
 # BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48
 
-BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48 on Fri 25 Sept, Barcelona. 2 acts on the bill: Howard and Simone. Techno and House. Preview the line-up and save it on soundcheck.
+BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48 on Fri 25 Sept, Barcelona. 2 artists on the bill: Howard and Simone. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # eastern bloc presents Sam Redmore at Eastern Bloc Records
 
-eastern bloc presents Sam Redmore at Eastern Bloc Records on Sat 21 Nov, Manchester. 2 acts on the bill: Jim Bane and Sam Redmore. Electronica. Preview the line-up and save it on soundcheck.
+eastern bloc presents Sam Redmore at Eastern Bloc Records on Sat 21 Nov, Manchester. 2 artists on the bill: Jim Bane and Sam Redmore. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

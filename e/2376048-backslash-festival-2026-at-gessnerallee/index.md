@@ -1,6 +1,6 @@
 # Backslash Festival 2026 at Gessnerallee
 
-Backslash Festival 2026 at Gessnerallee on Fri 2 Oct, Zurich. 8 acts on the bill: 36birds, Aa Sudd, Buttechno and ophélie and 4 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Backslash Festival 2026 at Gessnerallee on Fri 2 Oct, Zurich. 8 artists on the bill: 36birds, Aa Sudd, Buttechno and ophélie and 4 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

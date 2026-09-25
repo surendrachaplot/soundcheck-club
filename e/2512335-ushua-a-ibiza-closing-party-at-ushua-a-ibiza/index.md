@@ -1,6 +1,6 @@
 # Ushuaïa Ibiza CLOSING PARTY at Ushuaïa Ibiza
 
-Ushuaïa Ibiza CLOSING PARTY on Sat 10 Oct, Ibiza. 15 acts on the bill: Andrea Oliva, Butch (JP), East End Dubs and Eliza Rose and 11 more. Preview the line-up and save it on soundcheck.
+Ushuaïa Ibiza CLOSING PARTY on Sat 10 Oct, Ibiza. 15 artists on the bill: Andrea Oliva, Butch (JP), East End Dubs and Eliza Rose and 11 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

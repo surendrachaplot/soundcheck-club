@@ -1,6 +1,6 @@
 # Don't Let Daddy Know Poland at Ergo Arena
 
-Don't Let Daddy Know Poland at Ergo Arena on Sat 13 Feb, Gdansk. 4 acts on the bill: Morten, R3hab, Showtek and Space 92. Preview the line-up and save it on soundcheck.
+Don't Let Daddy Know Poland at Ergo Arena on Sat 13 Feb, Gdansk. 4 artists on the bill: Morten, R3hab, Showtek and Space 92. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

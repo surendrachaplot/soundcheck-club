@@ -1,6 +1,6 @@
 # MoS Birthday - 35 years: URGE: Loco Dice at Ministry Of Sound
 
-MoS Birthday - 35 years: URGE: Loco Dice at Ministry Of Sound on Sat 3 Oct, London. 2 acts on the bill: Joëlla Jackson and Loco Dice. House and Tech House. Preview the line-up and save it on soundcheck.
+MoS Birthday - 35 years: URGE: Loco Dice at Ministry Of Sound on Sat 3 Oct, London. 2 artists on the bill: Joëlla Jackson and Loco Dice. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

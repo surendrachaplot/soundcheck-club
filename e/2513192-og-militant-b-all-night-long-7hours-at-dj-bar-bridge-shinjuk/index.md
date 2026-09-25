@@ -1,6 +1,6 @@
 # OG Militant B -ALL NIGHT LONG- (7hours) at DJ Bar Bridge Shinjuku
 
-OG Militant B -ALL NIGHT LONG- (7hours) at DJ Bar Bridge Shinjuku on Wed 28 Oct, Tokyo. 1 act on the bill: OG Militant B. House and Dub. Preview the line-up and save it on soundcheck.
+OG Militant B -ALL NIGHT LONG- (7hours) at DJ Bar Bridge Shinjuku on Wed 28 Oct, Tokyo. 1 artist on the bill: OG Militant B. House and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

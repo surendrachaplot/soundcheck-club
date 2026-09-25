@@ -2,7 +2,7 @@
 
 CYB3R T0NIN is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 2 Oct 2026.
 
-CYB3R T0NIN is a club and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Newyorkcity and Washingtondc. Often billed alongside DJ KORIS, Mrs. Qbert and JACKIECHANSDOG. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 2 Oct.
+CYB3R T0NIN is a club and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across New York City and Washington DC. Often billed alongside DJ KORIS, Mrs. Qbert and JACKIECHANSDOG. Next up: Bossa Nova Civic Club, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 

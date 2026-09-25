@@ -1,6 +1,6 @@
 # HAUS 33 x NACHTSCHICHT at E-Werk Kulturzentrum
 
-HAUS 33 x NACHTSCHICHT at E-Werk Kulturzentrum on Sat 17 Oct, Nurnberg. 12 acts on the bill: ANDATA, DJ Nicelife, Dominique Lamee and Keyklau and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+HAUS 33 x NACHTSCHICHT at E-Werk Kulturzentrum on Sat 17 Oct, Nürnberg. 12 artists on the bill: ANDATA, DJ Nicelife, Dominique Lamee and Keyklau and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

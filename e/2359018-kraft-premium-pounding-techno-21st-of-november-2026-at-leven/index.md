@@ -1,6 +1,6 @@
 # KRAFT Premium Pounding Techno 21st of November 2026 at Levenslang Amsterdam
 
-KRAFT Premium Pounding Techno 21st of November 2026 at Levenslang Amsterdam on Sat 21 Nov, Amsterdam. 4 acts on the bill: Alex Di Stefano, HOF (DE), Rachelle Grooten and TheKoosy. Techno and Acid. Preview the line-up and save it on soundcheck.
+KRAFT Premium Pounding Techno 21st of November 2026 at Levenslang Amsterdam on Sat 21 Nov, Amsterdam. 4 artists on the bill: Alex Di Stefano, HOF (DE), Rachelle Grooten and TheKoosy. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

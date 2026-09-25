@@ -1,8 +1,8 @@
 # Hare & Hounds
 
-Hare & Hounds is a music venue in Birmingham with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "I Love Acid presents Luke Vibert" on Fri, 25 Sept 2026.
+Hare & Hounds is a music venue in Birmingham with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "I Love Acid presents Luke Vibert" on Fri, 25 Sept 2026.
 
-Hare & Hounds is a music venue in Birmingham listed on soundcheck. 9 upcoming gigs, with line-ups including DAR DISKU, Greg Wilson, Horse Meat Disco and Kylie Wears Berghaus and 2 more. Browse upcoming dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
+Hare & Hounds is a music venue in Birmingham listed on soundcheck. 10 upcoming gigs, with line-ups including DAR DISKU, DJ Flight, DRS and Greg Wilson and 2 more. Browse upcoming dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 9 upcoming gi
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | I Love Acid presents Luke Vibert | Luke Vibert, Nightwave, Posthuman |
 | Sat, 3 Oct 2026 | whiplash ft. grace sands // emilia g // spring // yshee black |  |
+| Sat, 3 Oct 2026 | Space Cadet DRS, DJ Flight, Anile, SL8R | DJ Flight, DRS, SL8R |
 | Fri, 9 Oct 2026 | Kylie Wears Berghaus | Kylie Wears Berghaus |
 | Sun, 11 Oct 2026 | Luke Una | Luke Una |
 | Sat, 17 Oct 2026 | Variations X DUNYA presents - DAR DISKU | DAR DISKU |

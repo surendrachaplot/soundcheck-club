@@ -8,7 +8,7 @@ ZIRKA is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with lin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | LAN/WAN | Martyna Basta |
+| Fri, 25 Sept 2026 | LAN/WAN | Luis Tischer, Martyna Basta |
 | Sat, 26 Sept 2026 | Contrasts In Sync | 600-cell, Apua, Blond Felice, DJ Aquaplaning, Flo Scheuer, Monaco Marco |
 
 ## Address

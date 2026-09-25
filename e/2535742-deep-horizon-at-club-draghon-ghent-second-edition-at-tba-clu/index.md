@@ -1,6 +1,6 @@
 # Deep Horizon at Club Draghon, Ghent (SECOND EDITION) at TBA - Club Draghon
 
-Deep Horizon at Club Draghon, Ghent (SECOND EDITION) at TBA - Club Draghon on Fri 2 Oct, Ghent. 2 acts on the bill: Harry Oliver and Keleo. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Deep Horizon at Club Draghon, Ghent (SECOND EDITION) at TBA - Club Draghon on Fri 2 Oct, Ghent. 2 artists on the bill: Harry Oliver and Keleo. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

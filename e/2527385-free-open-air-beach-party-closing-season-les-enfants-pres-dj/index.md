@@ -1,6 +1,6 @@
 # FREE OPEN AIR BEACH PARTY - CLOSING SEASON Les Enfants pres. Djebali at Sunseabar Beach Club
 
-FREE OPEN AIR BEACH PARTY - CLOSING SEASON Les Enfants pres. Djebali at Sunseabar Beach Club on Sun 27 Sept, Barcelona. 4 acts on the bill: Alvaro Medina, Djebali, Hitch and Jones May. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+FREE OPEN AIR BEACH PARTY - CLOSING SEASON Les Enfants pres. Djebali at Sunseabar Beach Club on Sun 27 Sept, Barcelona. 4 artists on the bill: Alvaro Medina, Djebali, Hitch and Jones May. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

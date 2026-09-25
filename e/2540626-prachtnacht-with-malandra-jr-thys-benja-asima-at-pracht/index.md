@@ -1,6 +1,6 @@
 # PrachtNACHT with Malandra JR, THYS, Benja Asima at Pracht
 
-PrachtNACHT with Malandra JR, THYS, Benja Asima on Sat 26 Sept, Frankfurt. 3 acts on the bill: Benja Asima, Malandra JR and THYS (2). Progressive House and House. Preview the line-up and save it on soundcheck.
+PrachtNACHT with Malandra JR, THYS, Benja Asima on Sat 26 Sept, Frankfurt. 3 artists on the bill: Benja Asima, Malandra JR and THYS. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

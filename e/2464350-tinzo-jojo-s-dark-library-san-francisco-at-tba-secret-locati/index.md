@@ -1,6 +1,6 @@
 # Tinzo + Jojo's Dark Library - San Francisco at TBA - SECRET LOCATION
 
-Tinzo + Jojo's Dark Library - San Francisco at TBA - SECRET LOCATION on Sat 24 Oct, Sanfrancisco. 2 acts on the bill: Jojo Lorenzo and Tinzo. House and New Wave. Preview the line-up and save it on soundcheck.
+Tinzo + Jojo's Dark Library - San Francisco at TBA - SECRET LOCATION on Sat 24 Oct, San Francisco/Oakland. 2 artists on the bill: Jojo Lorenzo and Tinzo. House and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

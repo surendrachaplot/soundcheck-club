@@ -1,6 +1,6 @@
 # Dansu Discs: Lucas Alexander, RTK Tarantino, Lauren Steel at Patterns
 
-Dansu Discs: Lucas Alexander, RTK Tarantino, Lauren Steel at Patterns on Fri 30 Oct, Brighton. 3 acts on the bill: Lauren Steel, Lucas Alexander and RTK Tarantino. Garage and Tech House. Preview the line-up and save it on soundcheck.
+Dansu Discs: Lucas Alexander, RTK Tarantino, Lauren Steel at Patterns on Fri 30 Oct, Brighton. 3 artists on the bill: Lauren Steel, Lucas Alexander and RTK Tarantino. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

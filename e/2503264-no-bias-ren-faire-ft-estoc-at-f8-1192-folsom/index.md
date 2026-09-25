@@ -1,6 +1,6 @@
 # NO BIAS REN FAIRE FT. estoc at F8 1192 Folsom
 
-NO BIAS REN FAIRE FT. estoc at F8 1192 Folsom on Fri 23 Oct, Sanfrancisco. 6 acts on the bill: bastiengoat, Bored Lord, estoc and FREAK POV and 2 more. Dubstep and Club. Preview the line-up and save it on soundcheck.
+NO BIAS REN FAIRE FT. estoc at F8 1192 Folsom on Fri 23 Oct, San Francisco/Oakland. 6 artists on the bill: bastiengoat, Bored Lord, estoc and FREAK POV and 2 more. Dubstep and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

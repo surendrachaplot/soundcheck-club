@@ -2,7 +2,7 @@
 
 Yamashiro Hollywood is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Expression Halloween" on Sat, 31 Oct 2026.
 
-Yamashiro Hollywood is a music venue in Losangeles listed on soundcheck. 1 upcoming gig, with line-ups including Dave Aju, Heidi Lawden, Masha Mar and Tavish and 1 more. Browse upcoming dates, start times and who's playing. 1999 N Sycamore Ave, Los Angeles, CA 90068, USA.
+Yamashiro Hollywood is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Dave Aju, Heidi Lawden, Masha Mar and Tavish and 1 more. Browse upcoming dates, start times and who's playing. 1999 N Sycamore Ave, Los Angeles, CA 90068, USA.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # J1 - Freddy K at Jasna 1
 
-J1 - Freddy K at Jasna 1 on Fri 20 Nov, Warsaw. 1 act on the bill: Freddy K. Preview the line-up and save it on soundcheck.
+J1 - Freddy K at Jasna 1 on Fri 20 Nov, Warsaw. 1 artist on the bill: Freddy K. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

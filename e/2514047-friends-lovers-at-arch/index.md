@@ -1,6 +1,6 @@
 # FRIENDS&LOVERS at Arch
 
-FRIENDS&LOVERS at Arch on Sun 22 Nov, Tokyo. 5 acts on the bill: crazist, DJ POIPOI, MAXIM (8) and RUKE and 1 more. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+FRIENDS&LOVERS at Arch on Sun 22 Nov, Tokyo. 5 artists on the bill: crazist, DJ POIPOI, MAXIM and RUKE and 1 more. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Star Eyes is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 21 Nov 2026.
 
-Star Eyes is a jungle and bass artist based in United States of America, tracked on soundcheck, with 45 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Bianca Oblivion, sports and Anna Morgan. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 21 Nov.
+Star Eyes is a jungle and bass artist based in United States of America, tracked on soundcheck, with 45 sets logged across Los Angeles, New York City and San Diego. Often billed alongside Bianca Oblivion, sports and Anna Morgan. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 21 Nov.
 
 ## Upcoming shows
 

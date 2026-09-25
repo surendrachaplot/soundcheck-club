@@ -2,7 +2,7 @@
 
 ESTRELLA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lofi, Amsterdam on Fri, 9 Oct 2026.
 
-ESTRELLA is a house and techno artist based in Netherlands, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Rotterdam and Sanfrancisco and 1 more. Often billed alongside Tsepo, Andy (NL) and Crinkhoff. Next up: Lofi, Amsterdam on Fri 9 Oct.
+ESTRELLA is a house and techno artist based in Netherlands, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Rotterdam and San Francisco/Oakland and 1 more. Often billed alongside Tsepo, Andy (NL) and Crinkhoff. Next up: Lofi, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 

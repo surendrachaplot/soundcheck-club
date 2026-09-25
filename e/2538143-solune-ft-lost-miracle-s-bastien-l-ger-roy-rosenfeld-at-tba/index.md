@@ -1,6 +1,6 @@
 # SOLUNE ft LOST MIRACLE (Sébastien Léger & Roy Rosenfeld) at TBA - Private Location
 
-SOLUNE ft LOST MIRACLE (Sébastien Léger & Roy Rosenfeld) at TBA - Private Location on Sun 1 Nov, Sandiego. 2 acts on the bill: Roy Rosenfeld and Sebastien Leger. House. Preview the line-up and save it on soundcheck.
+SOLUNE ft LOST MIRACLE (Sébastien Léger & Roy Rosenfeld) at TBA - Private Location on Sun 1 Nov, San Diego. 2 artists on the bill: Roy Rosenfeld and Sebastien Leger. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

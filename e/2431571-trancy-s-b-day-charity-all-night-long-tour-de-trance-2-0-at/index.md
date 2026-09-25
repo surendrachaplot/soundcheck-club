@@ -1,6 +1,6 @@
 # TRANCY'S B-DAY CHARITY ALL NIGHT LONG: TOUR DE TRANCE 2.0 at Lokschuppen Berlin
 
-TRANCY'S B-DAY CHARITY ALL NIGHT LONG: TOUR DE TRANCE 2.0 at Lokschuppen Berlin on Wed 18 Nov, Berlin. 1 act on the bill: Trancemaster Krause. Trance. Preview the line-up and save it on soundcheck.
+TRANCY'S B-DAY CHARITY ALL NIGHT LONG: TOUR DE TRANCE 2.0 at Lokschuppen Berlin on Wed 18 Nov, Berlin. 1 artist on the bill: Trancemaster Krause. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DAR DISKU [BH/UK] at control
 
-DAR DISKU [BH/UK] at control on Fri 30 Oct, Bucharest. 1 act on the bill: DAR DISKU. House and Disco. Preview the line-up and save it on soundcheck.
+DAR DISKU [BH/UK] at control on Fri 30 Oct, Bucharest. 1 artist on the bill: DAR DISKU. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

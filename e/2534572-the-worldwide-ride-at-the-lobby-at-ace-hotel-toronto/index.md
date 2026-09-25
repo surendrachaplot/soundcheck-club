@@ -1,6 +1,6 @@
 # The Worldwide Ride at The Lobby at Ace Hotel Toronto
 
-The Worldwide Ride at The Lobby at Ace Hotel Toronto on Sat 26 Sept, Toronto. 1 act on the bill: Hedspin. Preview the line-up and save it on soundcheck.
+The Worldwide Ride at The Lobby at Ace Hotel Toronto on Sat 26 Sept, Toronto. 1 artist on the bill: Hedspin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

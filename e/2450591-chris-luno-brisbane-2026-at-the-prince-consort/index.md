@@ -1,6 +1,6 @@
 # Chris Luno — Brisbane 2026 at The Prince Consort
 
-Chris Luno — Brisbane 2026 at The Prince Consort on Fri 2 Oct, Brisbane. 1 act on the bill: Chris Luno. House and Deep House. Preview the line-up and save it on soundcheck.
+Chris Luno — Brisbane 2026 at The Prince Consort on Fri 2 Oct, Brisbane. 1 artist on the bill: Chris Luno. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # slow opening — day03 : BŒUF & BROCOLI • FARAH & Mouataz • SAYAN • Waxist at Super7
 
-slow opening — day03 : BŒUF & BROCOLI • FARAH & Mouataz • SAYAN • Waxist at Super7 on Sat 26 Sept, Lyon. 3 acts on the bill: Farah (2), Mouataz and Waxist. Preview the line-up and save it on soundcheck.
+slow opening — day03 : BŒUF & BROCOLI • FARAH & Mouataz • SAYAN • Waxist at Super7 on Sat 26 Sept, Lyon. 3 artists on the bill: Farah, Mouataz and Waxist. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

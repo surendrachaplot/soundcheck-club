@@ -2,7 +2,7 @@
 
 David Paul is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Address will be sent out day of show, Los Angeles on Sat, 10 Oct 2026.
 
-David Paul is a techno and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Losangeles and Sanfrancisco. Often billed alongside D.SANTIS, Emanate and Berry B (2). Next up: TBA - Address will be sent out day of show, Losangeles on Sat 10 Oct.
+David Paul is a techno and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Los Angeles and San Francisco/Oakland. Often billed alongside D.SANTIS, Emanate and Berry B. Next up: TBA - Address will be sent out day of show, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 

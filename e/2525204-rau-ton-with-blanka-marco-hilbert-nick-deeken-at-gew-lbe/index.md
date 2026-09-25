@@ -1,6 +1,6 @@
 # rau.ton with BLANKA, Marco Hilbert, Nick Deeken at Gewölbe
 
-rau.ton with BLANKA, Marco Hilbert, Nick Deeken at Gewölbe on Fri 2 Oct, Cologne. 3 acts on the bill: BLANKA, Marco Hilbert (2) and Nick Deeken. Techno. Preview the line-up and save it on soundcheck.
+rau.ton with BLANKA, Marco Hilbert, Nick Deeken at Gewölbe on Fri 2 Oct, Cologne. 3 artists on the bill: BLANKA, Marco Hilbert and Nick Deeken. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

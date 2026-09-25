@@ -1,6 +1,6 @@
 # Friday, October 09, 2026 at teller
 
-Friday, October 09, 2026 at teller on Fri 9 Oct, Seoul. 3 acts on the bill: Dakim, Lyumin and Young Sun. Preview the line-up and save it on soundcheck.
+Friday, October 09, 2026 at teller on Fri 9 Oct, Seoul. 3 artists on the bill: Dakim, Lyumin and Young Sun. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

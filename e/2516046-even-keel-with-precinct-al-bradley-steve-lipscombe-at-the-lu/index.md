@@ -1,6 +1,6 @@
 # even keel with precinct: Al Bradley & Steve Lipscombe at The Lubber Fiend
 
-even keel with precinct: Al Bradley & Steve Lipscombe at The Lubber Fiend on Sat 10 Oct, Newcastle. 1 act on the bill: Al Bradley. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+even keel with precinct: Al Bradley & Steve Lipscombe at The Lubber Fiend on Sat 10 Oct, Newcastle. 1 artist on the bill: Al Bradley. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

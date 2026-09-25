@@ -1,6 +1,6 @@
 # unceen with Afem Syko at Südpol
 
-unceen with Afem Syko at Südpol on Fri 23 Oct, Hamburg. 6 acts on the bill: Afem Syko, HugoBass303, Nettta and NSLZ and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
+unceen with Afem Syko at Südpol on Fri 23 Oct, Hamburg. 6 artists on the bill: Afem Syko, HugoBass303, Nettta and NSLZ and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

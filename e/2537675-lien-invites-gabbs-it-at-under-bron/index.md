@@ -1,6 +1,6 @@
 # Lien invites: Gabbs (IT) at Under Bron
 
-Lien invites: Gabbs (IT) at Under Bron on Sat 24 Oct, Stockholm. 2 acts on the bill: Daniel Lien and Gabbs. Techno and House. Preview the line-up and save it on soundcheck.
+Lien invites: Gabbs (IT) at Under Bron on Sat 24 Oct, Stockholm. 2 artists on the bill: Daniel Lien and Gabbs. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

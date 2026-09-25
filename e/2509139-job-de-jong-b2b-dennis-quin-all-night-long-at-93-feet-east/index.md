@@ -1,6 +1,6 @@
 # Job de Jong b2b Dennis Quin - All Night Long at 93 Feet East
 
-Job de Jong b2b Dennis Quin - All Night Long at 93 Feet East on Fri 20 Nov, London. 2 acts on the bill: Dennis Quin and Job de Jong. House and Tech House. Preview the line-up and save it on soundcheck.
+Job de Jong b2b Dennis Quin - All Night Long at 93 Feet East on Fri 20 Nov, London. 2 artists on the bill: Dennis Quin and Job de Jong. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

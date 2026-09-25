@@ -2,7 +2,7 @@
 
 GodDam is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - bamboo.base.camping, Nakhon Nayok, Bangkok on Fri, 11 Dec 2026.
 
-GodDam is a techno and electro artist based in Thailand, tracked on soundcheck, with 43 sets logged across Bangkok and Washingtondc. Often billed alongside DJ Krit Morton, Gishiyama and Yoongying. Next up: TBA - bamboo.base.camping, Nakhon Nayok, Bangkok on Fri 11 Dec.
+GodDam is a techno and electro artist based in Thailand, tracked on soundcheck, with 43 sets logged across Bangkok and Washington DC. Often billed alongside DJ Krit Morton, Gishiyama and Yoongying. Next up: TBA - bamboo.base.camping, Nakhon Nayok, Bangkok on Fri 11 Dec.
 
 ## Upcoming shows
 

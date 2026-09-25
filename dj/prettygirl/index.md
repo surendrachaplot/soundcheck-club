@@ -2,7 +2,7 @@
 
 Pretty Girl is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at public records, New York City on Thu, 8 Oct 2026.
 
-Pretty Girl is a house and techno artist based in Australia, tracked on soundcheck, with 71 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 23 more. Often billed alongside Interplanetary Criminal, KI/KI and KETTAMA. Next up: public records, Newyorkcity on Thu 8 Oct.
+Pretty Girl is a house and techno artist based in Australia, tracked on soundcheck, with 71 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 23 more. Often billed alongside Interplanetary Criminal, KI/KI and KETTAMA. Next up: public records, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Andy Caruso is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gwenda, London on Fri, 2 Oct 2026.
 
-Andy Caruso is a disco and deep house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London, Mexicocity and Milan. Often billed alongside Davide Del Vecchio, LOVE SOUND SYSTEM and BODYHEAT. Next up: Gwenda, London on Fri 2 Oct.
+Andy Caruso is a disco and deep house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London, Mexico City and Milan. Often billed alongside Davide Del Vecchio, LOVE SOUND SYSTEM and BODYHEAT. Next up: Gwenda, London on Fri 2 Oct.
 
 ## Upcoming shows
 

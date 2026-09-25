@@ -1,6 +1,6 @@
 # DJ Nori & 246 at DJ Bar Bridge
 
-DJ Nori & 246 at DJ Bar Bridge on Fri 25 Sept, Tokyo. 2 acts on the bill: DJ Nori and DJ246. House. Preview the line-up and save it on soundcheck.
+DJ Nori & 246 at DJ Bar Bridge on Fri 25 Sept, Tokyo. 2 artists on the bill: DJ Nori and DJ246. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

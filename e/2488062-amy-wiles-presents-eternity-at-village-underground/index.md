@@ -1,6 +1,6 @@
 # Amy Wiles presents Eternity at Village Underground
 
-Amy Wiles presents Eternity at Village Underground on Sat 3 Oct, London. 3 acts on the bill: Amy Wiles, Body Clinic and DOREY. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Amy Wiles presents Eternity at Village Underground on Sat 3 Oct, London. 3 artists on the bill: Amy Wiles, Body Clinic and DOREY. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

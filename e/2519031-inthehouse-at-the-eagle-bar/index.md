@@ -1,6 +1,6 @@
 # InTheHouse at The Eagle Bar
 
-InTheHouse at The Eagle Bar on Fri 9 Oct, Manchester. 1 act on the bill: WÏLES. House. Preview the line-up and save it on soundcheck.
+InTheHouse at The Eagle Bar on Fri 9 Oct, Manchester. 1 artist on the bill: WÏLES. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

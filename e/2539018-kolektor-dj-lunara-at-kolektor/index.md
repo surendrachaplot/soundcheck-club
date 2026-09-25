@@ -1,6 +1,6 @@
 # KOLEKTOR: DJ Lunara at Kolektor
 
-KOLEKTOR: DJ Lunara at Kolektor on Sat 26 Sept, Prague. 1 act on the bill: DJ LUNARA. Preview the line-up and save it on soundcheck.
+KOLEKTOR: DJ Lunara at Kolektor on Sat 26 Sept, Prague. 1 artist on the bill: DJ LUNARA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

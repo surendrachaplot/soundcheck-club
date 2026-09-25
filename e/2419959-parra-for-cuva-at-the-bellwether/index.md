@@ -1,6 +1,6 @@
 # Parra for Cuva at The Bellwether
 
-Parra for Cuva at The Bellwether on Sat 31 Oct, Losangeles. 1 act on the bill: Parra for Cuva. House and Electronica. Preview the line-up and save it on soundcheck.
+Parra for Cuva at The Bellwether on Sat 31 Oct, Los Angeles. 1 artist on the bill: Parra for Cuva. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

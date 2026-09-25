@@ -1,6 +1,6 @@
 # Mood II Swing, Elsa Bernini, Seabra & More: De La Groove at La Java
 
-Mood II Swing, Elsa Bernini, Seabra & More: De La Groove at La Java on Sat 24 Oct, Paris. 5 acts on the bill: Chinau, Elsa Bernini, Knuckle G and Mood II Swing and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+Mood II Swing, Elsa Bernini, Seabra & More: De La Groove at La Java on Sat 24 Oct, Paris. 5 artists on the bill: Chinau, Elsa Bernini, Knuckle G and Mood II Swing and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

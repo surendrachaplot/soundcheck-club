@@ -1,6 +1,6 @@
 # Moist Liquid Sunrise at Paloma
 
-Moist Liquid Sunrise at Paloma on Fri 25 Sept, Berlin. 1 act on the bill: DJ Fett Burger. Preview the line-up and save it on soundcheck.
+Moist Liquid Sunrise at Paloma on Fri 25 Sept, Berlin. 1 artist on the bill: DJ Fett Burger. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

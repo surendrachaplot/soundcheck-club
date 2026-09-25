@@ -2,7 +2,7 @@
 
 El Rey Theatre is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "DJ_Dave" on Thu, 1 Oct 2026.
 
-El Rey Theatre is a music venue in Losangeles listed on soundcheck. 4 upcoming gigs, with line-ups including DJ_Dave. Browse upcoming dates, start times and who's playing. 5515 Wilshire Blvd, Los Angeles, CA 90036.
+El Rey Theatre is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including DJ_Dave. Browse upcoming dates, start times and who's playing. 5515 Wilshire Blvd, Los Angeles, CA 90036.
 
 ## What's on
 

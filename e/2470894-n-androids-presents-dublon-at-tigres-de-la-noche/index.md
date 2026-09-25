@@ -1,6 +1,6 @@
 # Nü Androids presents: dublon at Tigres de la Noche
 
-Nü Androids presents: dublon at Tigres de la Noche on Thu 24 Sept, Washingtondc. 1 act on the bill: Dublon. Progressive House and Jazz. Preview the line-up and save it on soundcheck.
+Nü Androids presents: dublon at Tigres de la Noche on Thu 24 Sept, Washington DC. 1 artist on the bill: Dublon. Progressive House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

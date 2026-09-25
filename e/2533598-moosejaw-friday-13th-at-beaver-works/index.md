@@ -1,6 +1,6 @@
 # Moosejaw Friday 13th at Beaver Works
 
-Moosejaw Friday 13th at Beaver Works on Fri 13 Nov, Leeds. 2 acts on the bill: Chinese Daughter and Sully. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Moosejaw Friday 13th at Beaver Works on Fri 13 Nov, Leeds. 2 artists on the bill: Chinese Daughter and Sully. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

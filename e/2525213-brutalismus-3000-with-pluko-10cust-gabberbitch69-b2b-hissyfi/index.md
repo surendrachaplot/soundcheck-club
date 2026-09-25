@@ -1,6 +1,6 @@
 # Brutalismus 3000 with pluko, 10cust, Gabberbitch69 b2b HissyFit at Echostage
 
-Brutalismus 3000 with pluko, 10cust, Gabberbitch69 b2b HissyFit at Echostage on Fri 13 Nov, Washingtondc. 4 acts on the bill: 10cust, Brutalismus 3000, Gabberbitch69 and Hissy Fit. Techno and Gabber. Preview the line-up and save it on soundcheck.
+Brutalismus 3000 with pluko, 10cust, Gabberbitch69 b2b HissyFit at Echostage on Fri 13 Nov, Washington DC. 4 artists on the bill: 10cust, Brutalismus 3000, Gabberbitch69 and Hissy Fit. Techno and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

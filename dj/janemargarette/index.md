@@ -2,7 +2,7 @@
 
 Jane Margarette is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - DTLA, Los Angeles on Fri, 9 Oct 2026.
 
-Jane Margarette is a techno and experimental artist based in United States of America, tracked on soundcheck, with 20 sets logged across Losangeles and Newyorkcity. Often billed alongside Luke Mele, Amelia Holt and Danny Goliger. Next up: TBA - DTLA, Losangeles on Fri 9 Oct.
+Jane Margarette is a techno and experimental artist based in United States of America, tracked on soundcheck, with 20 sets logged across Los Angeles and New York City. Often billed alongside Luke Mele, Amelia Holt and Danny Goliger. Next up: TBA - DTLA, Los Angeles on Fri 9 Oct.
 
 ## Upcoming shows
 

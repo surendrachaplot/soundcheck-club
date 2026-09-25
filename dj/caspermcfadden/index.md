@@ -2,7 +2,7 @@
 
 Casper McFadden is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Premises, Chicago on Sat, 26 Sept 2026.
 
-Casper McFadden is a hardcore and breakcore artist based in United States of America, tracked on soundcheck, with 25 sets logged across Austin, Boston, Chicago and Losangeles and 1 more. Often billed alongside 99jakes, MANAPOOL and Yesterdayneverhappened. Next up: TBA - Premises, Chicago on Sat 26 Sept.
+Casper McFadden is a hardcore and breakcore artist based in United States of America, tracked on soundcheck, with 25 sets logged across Austin, Boston, Chicago and Los Angeles and 1 more. Often billed alongside 99jakes, MANAPOOL and Yesterdayneverhappened. Next up: TBA - Premises, Chicago on Sat 26 Sept.
 
 ## Upcoming shows
 

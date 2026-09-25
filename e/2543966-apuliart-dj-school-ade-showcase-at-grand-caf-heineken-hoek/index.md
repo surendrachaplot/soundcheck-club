@@ -1,6 +1,6 @@
 # ApuliArt DJ School ADE Showcase at Grand Café Heineken Hoek
 
-ApuliArt DJ School ADE Showcase at Grand Café Heineken Hoek on Thu 22 Oct, Amsterdam. 1 act on the bill: Gabriele Congedo. House and Deep House. Preview the line-up and save it on soundcheck.
+ApuliArt DJ School ADE Showcase at Grand Café Heineken Hoek on Thu 22 Oct, Amsterdam. 1 artist on the bill: Gabriele Congedo. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

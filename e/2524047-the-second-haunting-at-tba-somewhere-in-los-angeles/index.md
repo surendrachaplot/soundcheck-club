@@ -1,6 +1,6 @@
 # The Second Haunting at TBA - Somewhere in Los Angeles
 
-The Second Haunting at TBA - Somewhere in Los Angeles on Sat 17 Oct, Losangeles. 1 act on the bill: Tattoopudge. Techno and House. Preview the line-up and save it on soundcheck.
+The Second Haunting at TBA - Somewhere in Los Angeles on Sat 17 Oct, Los Angeles. 1 artist on the bill: Tattoopudge. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

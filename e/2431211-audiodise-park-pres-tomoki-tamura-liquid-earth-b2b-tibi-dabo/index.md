@@ -1,6 +1,6 @@
 # AUDIODISE PARK pres. Tomoki Tamura & Liquid Earth b2b Tibi Dabo at Audiodise Park Montjuic
 
-AUDIODISE PARK pres. Tomoki Tamura & Liquid Earth b2b Tibi Dabo at Audiodise Park Montjuic on Sun 27 Sept, Barcelona. 5 acts on the bill: Adria (ES), Liquid Earth, Pau Rosés and Tibi Dabo and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+AUDIODISE PARK pres. Tomoki Tamura & Liquid Earth b2b Tibi Dabo at Audiodise Park Montjuic on Sun 27 Sept, Barcelona. 5 artists on the bill: Adria (ES), Liquid Earth, Pau Rosés and Tibi Dabo and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

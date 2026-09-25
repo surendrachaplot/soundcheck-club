@@ -1,6 +1,6 @@
 # pregame presents: Monk Birthday Bash at Outer Heaven
 
-pregame presents: Monk Birthday Bash at Outer Heaven on Fri 9 Oct, Newyorkcity. 4 acts on the bill: Armii1n, John Everett, Monk (2) and Zayd. House. Preview the line-up and save it on soundcheck.
+pregame presents: Monk Birthday Bash at Outer Heaven on Fri 9 Oct, New York City. 4 artists on the bill: Armii1n, John Everett, Monk and Zayd. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

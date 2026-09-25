@@ -1,6 +1,6 @@
 # Burrata x Ayahuasca: Chris Schwarzwälder & Madmotormiquel at La Nuit
 
-Burrata x Ayahuasca: Chris Schwarzwälder & Madmotormiquel at La Nuit on Fri 2 Oct, Paris. 2 acts on the bill: Chris Schwarzwälder and Madmotormiquel. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Burrata x Ayahuasca: Chris Schwarzwälder & Madmotormiquel at La Nuit on Fri 2 Oct, Paris. 2 artists on the bill: Chris Schwarzwälder and Madmotormiquel. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

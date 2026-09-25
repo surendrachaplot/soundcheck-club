@@ -2,7 +2,7 @@
 
 Conrad Taylor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ritter Butzke, Berlin on Sat, 3 Oct 2026.
 
-Conrad Taylor is a techno and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Austin, Berlin, Newyorkcity and Paris and 4 more. Often billed alongside Flash Gea, Adrian Mills and BIIANCO. Next up: Ritter Butzke, Berlin on Sat 3 Oct.
+Conrad Taylor is a techno and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Austin, Berlin, New York City and Paris and 4 more. Often billed alongside Flash Gea, Adrian Mills and BIIANCO. Next up: Ritter Butzke, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 

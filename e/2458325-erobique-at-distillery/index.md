@@ -1,6 +1,6 @@
 # Erobique at Distillery
 
-Erobique at Distillery on Thu 29 Oct, Leipzig. 1 act on the bill: Erobique. Preview the line-up and save it on soundcheck.
+Erobique at Distillery on Thu 29 Oct, Leipzig. 1 artist on the bill: Erobique. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

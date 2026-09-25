@@ -1,6 +1,6 @@
 # Love Injection Invites: Pete BBE, Johnny Reckless, Jeff Higgins, hyanna & Alyssa Stowers at public records
 
-Love Injection Invites: Pete BBE, Johnny Reckless, Jeff Higgins, hyanna & Alyssa Stowers at public records on Sat 24 Oct, Newyorkcity. 2 acts on the bill: hyanna and Love Injection. House. Preview the line-up and save it on soundcheck.
+Love Injection Invites: Pete BBE, Johnny Reckless, Jeff Higgins, hyanna & Alyssa Stowers at public records on Sat 24 Oct, New York City. 2 artists on the bill: hyanna and Love Injection. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

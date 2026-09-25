@@ -1,6 +1,6 @@
 # HALLOWEEN NIGHT: Vendex - Extended Set [4 Hours] at Brooklyn Roots Collective
 
-HALLOWEEN NIGHT: Vendex - Extended Set [4 Hours] at Brooklyn Roots Collective on Fri 23 Oct, Newyorkcity. 1 act on the bill: Vendex. Techno and Industrial. Preview the line-up and save it on soundcheck.
+HALLOWEEN NIGHT: Vendex - Extended Set [4 Hours] at Brooklyn Roots Collective on Fri 23 Oct, New York City. 1 artist on the bill: Vendex. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

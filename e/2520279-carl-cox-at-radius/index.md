@@ -1,6 +1,6 @@
 # Carl Cox at Radius
 
-Carl Cox at Radius on Sat 7 Nov, Chicago. 2 acts on the bill: Carl Cox and Toman. Techno and House. Preview the line-up and save it on soundcheck.
+Carl Cox at Radius on Sat 7 Nov, Chicago. 2 artists on the bill: Carl Cox and Toman. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

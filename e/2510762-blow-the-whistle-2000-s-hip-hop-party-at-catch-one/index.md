@@ -1,6 +1,6 @@
 # BLOW THE WHISTLE (2000's Hip Hop Party!) at Catch One
 
-BLOW THE WHISTLE (2000's Hip Hop Party!) at Catch One on Fri 25 Sept, Losangeles. Preview the line-up and save it on soundcheck.
+BLOW THE WHISTLE (2000's Hip Hop Party!) at Catch One on Fri 25 Sept, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

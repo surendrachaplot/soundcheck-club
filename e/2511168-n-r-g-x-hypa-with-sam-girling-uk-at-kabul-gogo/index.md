@@ -1,6 +1,6 @@
 # N-R-G x Hypa with Sam Girling (UK) at KABUL à GoGo
 
-N-R-G x Hypa with Sam Girling (UK) at KABUL à GoGo on Fri 25 Sept, Utrecht. 3 acts on the bill: Magas (2), osoulsconcept and Sam Girling. Bass and Garage. Preview the line-up and save it on soundcheck.
+N-R-G x Hypa with Sam Girling (UK) at KABUL à GoGo on Fri 25 Sept, Utrecht. 3 artists on the bill: Magas, osoulsconcept and Sam Girling. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

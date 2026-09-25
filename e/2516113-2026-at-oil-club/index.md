@@ -1,6 +1,6 @@
 # 交流方式北京模块节2026预热派对 at OIL Club
 
-交流方式北京模块节2026预热派对 at OIL Club on Thu 15 Oct, Shenzhen. 2 acts on the bill: SPEKT2 and SPOTLITE. Techno. Preview the line-up and save it on soundcheck.
+交流方式北京模块节2026预热派对 at OIL Club on Thu 15 Oct, Shenzhen. 2 artists on the bill: SPEKT2 and SPOTLITE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

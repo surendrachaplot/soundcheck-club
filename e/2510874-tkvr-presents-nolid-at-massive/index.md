@@ -1,6 +1,6 @@
 # TKVR presents: Nolid at Massive
 
-TKVR presents: Nolid at Massive on Thu 15 Oct, Seattle. 1 act on the bill: Nolid. Techno and Club. Preview the line-up and save it on soundcheck.
+TKVR presents: Nolid at Massive on Thu 15 Oct, Seattle. 1 artist on the bill: Nolid. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

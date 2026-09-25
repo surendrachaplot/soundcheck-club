@@ -1,6 +1,6 @@
 # Funkey (Halloween) at BORIS CLUB
 
-Funkey (Halloween) at BORIS CLUB on Sat 31 Oct, Barcelona. 1 act on the bill: Jordi Carreras. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Funkey (Halloween) at BORIS CLUB on Sat 31 Oct, Barcelona. 1 artist on the bill: Jordi Carreras. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

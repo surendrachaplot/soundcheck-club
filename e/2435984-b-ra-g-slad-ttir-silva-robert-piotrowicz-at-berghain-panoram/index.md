@@ -1,6 +1,6 @@
 # Bára Gísladóttir »Silva« & Robert Piotrowicz at Berghain | Panorama Bar | Säule
 
-Bára Gísladóttir »Silva« & Robert Piotrowicz at Berghain | Panorama Bar | Säule on Wed 25 Nov, Berlin. 1 act on the bill: Robert Piotrowicz. Drone and Noise. Preview the line-up and save it on soundcheck.
+Bára Gísladóttir »Silva« & Robert Piotrowicz at Berghain | Panorama Bar | Säule on Wed 25 Nov, Berlin. 1 artist on the bill: Robert Piotrowicz. Drone and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

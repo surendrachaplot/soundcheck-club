@@ -1,6 +1,6 @@
 # Gabber Eleganza All Night Long (Never Sleep /IT) at Q35 WAREHOUSE
 
-Gabber Eleganza All Night Long (Never Sleep /IT) at Q35 WAREHOUSE on Sat 14 Nov, Turin. 1 act on the bill: Gabber Eleganza. Preview the line-up and save it on soundcheck.
+Gabber Eleganza All Night Long (Never Sleep /IT) at Q35 WAREHOUSE on Sat 14 Nov, Turin. 1 artist on the bill: Gabber Eleganza. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ardio presents: Ardio + Cutbird at Jupiter Disco
 
-Ardio presents: Ardio + Cutbird at Jupiter Disco on Thu 15 Oct, Newyorkcity. 1 act on the bill: Ardio Zemog. Preview the line-up and save it on soundcheck.
+Ardio presents: Ardio + Cutbird at Jupiter Disco on Thu 15 Oct, New York City. 1 artist on the bill: Ardio Zemog. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Traum Nacht: Vlada, mad miran, Kuba '97 at TRAUM
 
-Traum Nacht: Vlada, mad miran, Kuba '97 at TRAUM on Sat 3 Oct, Antwerp. 3 acts on the bill: Kuba'97, mad miran and Vlada. Techno. Preview the line-up and save it on soundcheck.
+Traum Nacht: Vlada, mad miran, Kuba '97 at TRAUM on Sat 3 Oct, Antwerp. 3 artists on the bill: Kuba'97, mad miran and Vlada. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

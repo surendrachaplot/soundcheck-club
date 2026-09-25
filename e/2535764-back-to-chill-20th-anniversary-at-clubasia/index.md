@@ -1,6 +1,6 @@
 # Back To Chill 20th Anniversary at clubasia
 
-Back To Chill 20th Anniversary at clubasia on Sat 26 Sept, Tokyo. 14 acts on the bill: Acrocanthosaurus, BLUEMEW, CITY1 and Dx and 10 more. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Back To Chill 20th Anniversary at clubasia on Sat 26 Sept, Tokyo. 14 artists on the bill: Acrocanthosaurus, BLUEMEW, CITY1 and Dx and 10 more. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

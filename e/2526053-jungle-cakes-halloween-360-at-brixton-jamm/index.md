@@ -1,6 +1,6 @@
 # Jungle Cakes Halloween 360 at Brixton Jamm
 
-Jungle Cakes Halloween 360 at Brixton Jamm on Fri 30 Oct, London. 8 acts on the bill: Benny Page, CHICCA, Deekline and DJ Millz and 4 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Jungle Cakes Halloween 360 at Brixton Jamm on Fri 30 Oct, London. 8 artists on the bill: Benny Page, CHICCA, Deekline and DJ Millz and 4 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

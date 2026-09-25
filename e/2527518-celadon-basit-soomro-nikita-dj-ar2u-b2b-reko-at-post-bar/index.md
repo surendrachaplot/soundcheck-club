@@ -1,6 +1,6 @@
 # Celadon, Basit Soomro, Nikita DJ, Ar2u, b2b Reko at Post Bar
 
-Celadon, Basit Soomro, Nikita DJ, Ar2u, b2b Reko at Post Bar on Fri 25 Sept, Helsinki. 1 act on the bill: Basit Soomro. Preview the line-up and save it on soundcheck.
+Celadon, Basit Soomro, Nikita DJ, Ar2u, b2b Reko at Post Bar on Fri 25 Sept, Helsinki. 1 artist on the bill: Basit Soomro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

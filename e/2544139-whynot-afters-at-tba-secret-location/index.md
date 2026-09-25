@@ -1,6 +1,6 @@
 # WHYNOT AFTERS at TBA - Secret Location
 
-WHYNOT AFTERS at TBA - Secret Location on Sat 26 Sept, Malta. 4 acts on the bill: Andrea Giordani, Florian François, Joshua Calleja and Sofried. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+WHYNOT AFTERS at TBA - Secret Location on Sat 26 Sept, Malta. 4 artists on the bill: Andrea Giordani, Florian François, Joshua Calleja and Sofried. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

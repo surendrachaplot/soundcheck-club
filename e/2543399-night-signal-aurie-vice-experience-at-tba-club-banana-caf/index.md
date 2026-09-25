@@ -1,6 +1,6 @@
 # Night Signal: Aurie, Vice Experience at TBA - Club Banana Café
 
-Night Signal: Aurie, Vice Experience at TBA - Club Banana Café on Fri 25 Sept, Paris. 1 act on the bill: Vice Experience. Techno and House. Preview the line-up and save it on soundcheck.
+Night Signal: Aurie, Vice Experience at TBA - Club Banana Café on Fri 25 Sept, Paris. 1 artist on the bill: Vice Experience. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Zeigler is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at H0L0, New York City on Fri, 25 Sept 2026.
 
-Zeigler is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Montreal, Newyorkcity and Philadelphia. Often billed alongside maenad, SWIMMIE and Scruff Angel. Next up: H0L0, Newyorkcity on Fri 25 Sept.
+Zeigler is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Montreal, New York City and Philadelphia. Often billed alongside maenad, SWIMMIE and Scruff Angel. Next up: H0L0, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

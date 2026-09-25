@@ -1,6 +1,6 @@
 # NEPTUNE SHOREDITCH: UNDERGROUND HOUSE & GARAGE at Parallel 45
 
-NEPTUNE SHOREDITCH: UNDERGROUND HOUSE & GARAGE at Parallel 45 on Fri 25 Sept, London. 3 acts on the bill: DAMPY, Kat Bendis and MELISSA DUST. House and Garage. Preview the line-up and save it on soundcheck.
+NEPTUNE SHOREDITCH: UNDERGROUND HOUSE & GARAGE at Parallel 45 on Fri 25 Sept, London. 3 artists on the bill: DAMPY, Kat Bendis and MELISSA DUST. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 5 Years of Habibti Nation: PAYDAR (UK Debut), Hiba Salameh, LUMA & Özten at Colour Factory
 
-5 Years of Habibti Nation: PAYDAR (UK Debut), Hiba Salameh, LUMA & Özten at Colour Factory on Fri 16 Oct, London. 3 acts on the bill: LUMA (UK), Özten and PAYDAR. Club and Electronica. Preview the line-up and save it on soundcheck.
+5 Years of Habibti Nation: PAYDAR (UK Debut), Hiba Salameh, LUMA & Özten at Colour Factory on Fri 16 Oct, London. 3 artists on the bill: LUMA (UK), Özten and PAYDAR. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

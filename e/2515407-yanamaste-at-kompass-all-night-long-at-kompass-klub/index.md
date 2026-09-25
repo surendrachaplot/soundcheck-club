@@ -1,6 +1,6 @@
 # Yanamaste at Kompass (ALL NIGHT LONG) at Kompass Klub
 
-Yanamaste at Kompass (ALL NIGHT LONG) at Kompass Klub on Fri 9 Oct, Ghent. 2 acts on the bill: Clara D and Yanamaste. Techno. Preview the line-up and save it on soundcheck.
+Yanamaste at Kompass (ALL NIGHT LONG) at Kompass Klub on Fri 9 Oct, Ghent. 2 artists on the bill: Clara D and Yanamaste. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

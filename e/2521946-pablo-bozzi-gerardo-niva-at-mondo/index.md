@@ -1,6 +1,6 @@
 # Pablo Bozzi / Gerardo Niva at Mondo
 
-Pablo Bozzi / Gerardo Niva at Mondo on Sat 24 Oct, Madrid. 2 acts on the bill: Gerardo Niva and Pablo Bozzi. Preview the line-up and save it on soundcheck.
+Pablo Bozzi / Gerardo Niva at Mondo on Sat 24 Oct, Madrid. 2 artists on the bill: Gerardo Niva and Pablo Bozzi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

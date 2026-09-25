@@ -2,7 +2,7 @@
 
 Lil Tony is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kaiku, Helsinki on Fri, 25 Sept 2026.
 
-Lil Tony is a house and techno artist based in Finland, tracked on soundcheck, with 86 sets logged across Helsinki, Newyorkcity and Tokyo. Often billed alongside CEB (FI), HiToshi and Katerina. Next up: Kaiku, Helsinki on Fri 25 Sept.
+Lil Tony is a house and techno artist based in Finland, tracked on soundcheck, with 86 sets logged across Helsinki, New York City and Tokyo. Often billed alongside CEB (FI), HiToshi and Katerina. Next up: Kaiku, Helsinki on Fri 25 Sept.
 
 ## Upcoming shows
 

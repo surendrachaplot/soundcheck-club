@@ -1,6 +1,6 @@
 # Anyma presents Æden - Sydney at The Domain
 
-Anyma presents Æden - Sydney at The Domain on Sat 17 Oct, Sydney. 1 act on the bill: Anyma. Preview the line-up and save it on soundcheck.
+Anyma presents Æden - Sydney at The Domain on Sat 17 Oct, Sydney. 1 artist on the bill: Anyma. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Franke Estevez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - SpinnaVerse BK, New York City on Fri, 25 Sept 2026.
 
-Franke Estevez is a house and deep house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside merlin bobb, DJ Spinna and Donis. Next up: TBA - SpinnaVerse BK, Newyorkcity on Fri 25 Sept.
+Franke Estevez is a house and deep house artist based in United States of America, tracked on soundcheck, with 6 sets logged across New York City. Often billed alongside merlin bobb, DJ Spinna and Donis. Next up: TBA - SpinnaVerse BK, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # La Mona Avec Coflo at La Bellevilloise
 
-La Mona Avec Coflo at La Bellevilloise on Sat 26 Sept, Paris. 2 acts on the bill: Coflo and Nick V. House. Preview the line-up and save it on soundcheck.
+La Mona Avec Coflo at La Bellevilloise on Sat 26 Sept, Paris. 2 artists on the bill: Coflo and Nick V. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

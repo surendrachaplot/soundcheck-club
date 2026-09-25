@@ -1,6 +1,6 @@
 # Bel Cobain at Belgrave Music Hall
 
-Bel Cobain at Belgrave Music Hall on Wed 14 Oct, Leeds. 1 act on the bill: Bel Cobain. Preview the line-up and save it on soundcheck.
+Bel Cobain at Belgrave Music Hall on Wed 14 Oct, Leeds. 1 artist on the bill: Bel Cobain. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

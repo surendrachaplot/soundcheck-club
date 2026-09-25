@@ -1,6 +1,6 @@
 # CHILLERS - Ambient Music & Tisane at THC MILANO
 
-CHILLERS - Ambient Music & Tisane at THC MILANO on Sun 27 Sept, Milan. 3 acts on the bill: IDRA, Sally Bumps and Telling Silence. Ambient and Drone. Preview the line-up and save it on soundcheck.
+CHILLERS - Ambient Music & Tisane at THC MILANO on Sun 27 Sept, Milan. 3 artists on the bill: IDRA, Sally Bumps and Telling Silence. Ambient and Drone. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

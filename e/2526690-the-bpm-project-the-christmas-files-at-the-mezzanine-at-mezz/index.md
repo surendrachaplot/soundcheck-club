@@ -1,6 +1,6 @@
 # The BPM Project: THE CHRISTMAS FILES at the Mezzanine at Mezzanine - Tooting
 
-The BPM Project: THE CHRISTMAS FILES at the Mezzanine at Mezzanine - Tooting on Sat 19 Dec, London. 1 act on the bill: Tommy Eats. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+The BPM Project: THE CHRISTMAS FILES at the Mezzanine at Mezzanine - Tooting on Sat 19 Dec, London. 1 artist on the bill: Tommy Eats. Drum & Bass and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

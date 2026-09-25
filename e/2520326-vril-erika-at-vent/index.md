@@ -1,6 +1,6 @@
 # .VRIL , Erika at VENT
 
-.VRIL , Erika at VENT on Fri 25 Sept, Tokyo. 7 acts on the bill: .VRIL, AKIRAM EN, Erika and NYAO and 3 more. Trance. Preview the line-up and save it on soundcheck.
+.VRIL , Erika at VENT on Fri 25 Sept, Tokyo. 7 artists on the bill: .VRIL, AKIRAM EN, Erika and NYAO and 3 more. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

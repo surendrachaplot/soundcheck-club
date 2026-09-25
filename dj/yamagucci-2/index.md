@@ -2,7 +2,7 @@
 
 Yamagucci (2) is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
 
-Yamagucci (2) is a house and electronica artist based in United States of America, tracked on soundcheck, with 7 sets logged across Amsterdam, Losangeles, Newyorkcity and Porto and 2 more. Often billed alongside Adam Ten, Antdot and Bedouin. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
+Yamagucci is a house and electronica artist based in United States of America, tracked on soundcheck, with 7 sets logged across Amsterdam, Los Angeles, New York City and Porto and 2 more. Often billed alongside Adam Ten, Antdot and Bedouin. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 

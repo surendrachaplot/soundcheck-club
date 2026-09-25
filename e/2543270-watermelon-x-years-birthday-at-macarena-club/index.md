@@ -1,6 +1,6 @@
 # Watermelon X Years Birthday at Macarena Club
 
-Watermelon X Years Birthday at Macarena Club on Sat 31 Oct, Barcelona. 2 acts on the bill: Farres and Triad (Es). Preview the line-up and save it on soundcheck.
+Watermelon X Years Birthday at Macarena Club on Sat 31 Oct, Barcelona. 2 artists on the bill: Farres and Triad (Es). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

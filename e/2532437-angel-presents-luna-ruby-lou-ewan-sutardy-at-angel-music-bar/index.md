@@ -1,6 +1,6 @@
 # Angel presents Luna, Ruby Lou, Ewan Sutardy at Angel Music Bar
 
-Angel presents Luna, Ruby Lou, Ewan Sutardy at Angel Music Bar on Sat 26 Sept, Melbourne. 3 acts on the bill: Ham (5), Luna (1) and Ruby Lou. Preview the line-up and save it on soundcheck.
+Angel presents Luna, Ruby Lou, Ewan Sutardy at Angel Music Bar on Sat 26 Sept, Melbourne. 3 artists on the bill: Ham, Luna and Ruby Lou. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

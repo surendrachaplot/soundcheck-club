@@ -2,7 +2,7 @@
 
 Sausha is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paragon, New York City on Fri, 25 Sept 2026.
 
-Sausha is a techno and club artist based in Colombia, tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Chicago and Copenhagen and 12 more. Often billed alongside Via App, FASHION (US) and LSDXOXO. Next up: Paragon, Newyorkcity on Fri 25 Sept.
+Sausha is a techno and club artist based in Colombia, tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Chicago and Copenhagen and 12 more. Often billed alongside Via App, FASHION (US) and LSDXOXO. Next up: Paragon, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

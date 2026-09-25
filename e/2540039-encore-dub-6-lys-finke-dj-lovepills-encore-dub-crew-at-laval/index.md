@@ -1,6 +1,6 @@
 # ENCORE DUB #6 : LYS FINKE, DJ LOVEPILLS, ENCORE DUB CREW at Lavallée
 
-ENCORE DUB #6 : LYS FINKE, DJ LOVEPILLS, ENCORE DUB CREW at Lavallée on Fri 16 Oct, Brussels. 2 acts on the bill: Carrageenan and EliseThere. Dub. Preview the line-up and save it on soundcheck.
+ENCORE DUB #6 : LYS FINKE, DJ LOVEPILLS, ENCORE DUB CREW at Lavallée on Fri 16 Oct, Brussels. 2 artists on the bill: Carrageenan and EliseThere. Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

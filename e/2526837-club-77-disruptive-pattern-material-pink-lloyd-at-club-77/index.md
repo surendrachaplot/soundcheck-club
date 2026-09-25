@@ -1,6 +1,6 @@
 # Club 77: Disruptive Pattern Material, Pink Lloyd at Club 77
 
-Club 77: Disruptive Pattern Material, Pink Lloyd on Sat 3 Oct, Sydney. 1 act on the bill: Disruptive Pattern Material. Techno and House. Preview the line-up and save it on soundcheck.
+Club 77: Disruptive Pattern Material, Pink Lloyd on Sat 3 Oct, Sydney. 1 artist on the bill: Disruptive Pattern Material. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

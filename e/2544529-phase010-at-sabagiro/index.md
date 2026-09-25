@@ -1,6 +1,6 @@
 # PHASE010 at Sabagiro
 
-PHASE010 at Sabagiro on Sat 26 Sept, Tbilisi. 2 acts on the bill: Generali Minerali and Katyanot. Preview the line-up and save it on soundcheck.
+PHASE010 at Sabagiro on Sat 26 Sept, Tbilisi. 2 artists on the bill: Generali Minerali and Katyanot. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

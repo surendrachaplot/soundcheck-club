@@ -1,6 +1,6 @@
 # INFRARED.FM // Sunday Sessions at Planet Wax
 
-INFRARED.FM // Sunday Sessions at Planet Wax on Sun 4 Oct, London. 3 acts on the bill: Azure, DJ Doubt and Interlude. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
+INFRARED.FM // Sunday Sessions at Planet Wax on Sun 4 Oct, London. 3 artists on the bill: Azure, DJ Doubt and Interlude. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

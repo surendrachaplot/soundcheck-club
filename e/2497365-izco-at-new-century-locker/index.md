@@ -1,6 +1,6 @@
 # Izco at New Century Locker
 
-Izco at New Century Locker on Sat 24 Oct, Manchester. 1 act on the bill: Izco. Garage and Jazz. Preview the line-up and save it on soundcheck.
+Izco at New Century Locker on Sat 24 Oct, Manchester. 1 artist on the bill: Izco. Garage and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

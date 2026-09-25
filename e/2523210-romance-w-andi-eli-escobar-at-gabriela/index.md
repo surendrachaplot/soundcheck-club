@@ -1,6 +1,6 @@
 # ROMANCE w Andi + Eli Escobar at Gabriela
 
-ROMANCE w Andi + Eli Escobar at Gabriela on Thu 24 Sept, Newyorkcity. 2 acts on the bill: Andi and Eli Escobar. Electro and Pop. Preview the line-up and save it on soundcheck.
+ROMANCE w Andi + Eli Escobar at Gabriela on Thu 24 Sept, New York City. 2 artists on the bill: Andi and Eli Escobar. Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CHLOE CAILLET, Bella Sarris, CARISTA, ISAbella, Makadsi at Fvtvr
 
-CHLOE CAILLET, Bella Sarris, CARISTA, ISAbella, Makadsi at Fvtvr on Fri 2 Oct, Paris. 5 acts on the bill: Bella Sarris, CARISTA, Chloé Caillet and ISAbella and 1 more. House. Preview the line-up and save it on soundcheck.
+CHLOE CAILLET, Bella Sarris, CARISTA, ISAbella, Makadsi at Fvtvr on Fri 2 Oct, Paris. 5 artists on the bill: Bella Sarris, CARISTA, Chloé Caillet and ISAbella and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

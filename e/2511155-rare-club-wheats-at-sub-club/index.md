@@ -1,6 +1,6 @@
 # RARE Club // Wheats at Sub Club
 
-RARE Club // Wheats at Sub Club on Thu 12 Nov, Glasgow. 2 acts on the bill: gau7t and Wheats. House and Tech House. Preview the line-up and save it on soundcheck.
+RARE Club // Wheats at Sub Club on Thu 12 Nov, Glasgow. 2 artists on the bill: gau7t and Wheats. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

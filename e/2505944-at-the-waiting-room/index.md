@@ -1,6 +1,6 @@
 # 𝑶𝑫𝒀𝑺𝑺𝑬𝒀:𝑪𝑳𝑼𝑩 at The Waiting Room
 
-𝑶𝑫𝒀𝑺𝑺𝑬𝒀:𝑪𝑳𝑼𝑩 at The Waiting Room on Sat 26 Sept, London. 2 acts on the bill: Graftak and METALLIC LOVER. EBM and Italo Disco. Preview the line-up and save it on soundcheck.
+𝑶𝑫𝒀𝑺𝑺𝑬𝒀:𝑪𝑳𝑼𝑩 at The Waiting Room on Sat 26 Sept, London. 2 artists on the bill: Graftak and METALLIC LOVER. EBM and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

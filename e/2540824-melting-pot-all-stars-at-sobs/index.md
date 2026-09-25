@@ -1,6 +1,6 @@
 # MELTING POT ALL-STARS at SOBs
 
-MELTING POT ALL-STARS at SOBs on Sat 24 Oct, Newyorkcity. Experimental. Preview the line-up and save it on soundcheck.
+MELTING POT ALL-STARS at SOBs on Sat 24 Oct, New York City. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

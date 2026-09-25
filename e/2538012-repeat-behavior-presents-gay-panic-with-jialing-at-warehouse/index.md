@@ -1,6 +1,6 @@
 # Repeat Behavior presents GAY PANIC! with JIALING at Warehouse on Watts
 
-Repeat Behavior presents GAY PANIC! with JIALING at Warehouse on Watts on Sat 24 Oct, Philadelphia. 4 acts on the bill: DJ Love, JIALING, kraftwitch and ONEELEVEN. Techno and Club. Preview the line-up and save it on soundcheck.
+Repeat Behavior presents GAY PANIC! with JIALING at Warehouse on Watts on Sat 24 Oct, Philadelphia. 4 artists on the bill: DJ Love, JIALING, kraftwitch and ONEELEVEN. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Disko Souk: John Morales, Femdelic, The Brahma (Special Disco Night) at Lark
 
-Disko Souk: John Morales, Femdelic, The Brahma (Special Disco Night) at Lark on Fri 6 Nov, Berlin. 3 acts on the bill: Femdelic, John Morales and The Brahma. Disco. Preview the line-up and save it on soundcheck.
+Disko Souk: John Morales, Femdelic, The Brahma (Special Disco Night) at Lark on Fri 6 Nov, Berlin. 3 artists on the bill: Femdelic, John Morales and The Brahma. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

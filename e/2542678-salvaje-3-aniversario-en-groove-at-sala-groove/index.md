@@ -1,6 +1,6 @@
 # SALVAJE 3 ANIVERSARIO EN GROOVE at Sala Groove
 
-SALVAJE 3 ANIVERSARIO EN GROOVE at Sala Groove on Sat 21 Nov, Madrid. 1 act on the bill: Yves Deruyter. Electronica. Preview the line-up and save it on soundcheck.
+SALVAJE 3 ANIVERSARIO EN GROOVE at Sala Groove on Sat 21 Nov, Madrid. 1 artist on the bill: Yves Deruyter. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Climate 24 hours: Peach, DJ Travella live, livwutang at Backsteinboot
 
-Climate 24 hours: Peach, DJ Travella live, livwutang at Backsteinboot on Sat 10 Oct, Berlin. 8 acts on the bill: DJ Travella, Gabrielle Kwarteng, Kikelomo and Kontronatura and 4 more. Preview the line-up and save it on soundcheck.
+Climate 24 hours: Peach, DJ Travella live, livwutang at Backsteinboot on Sat 10 Oct, Berlin. 8 artists on the bill: DJ Travella, Gabrielle Kwarteng, Kikelomo and Kontronatura and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

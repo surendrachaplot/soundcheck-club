@@ -1,6 +1,6 @@
 # Marsolo at Monarch
 
-Marsolo at Monarch on Fri 20 Nov, Sanfrancisco. 1 act on the bill: Marsolo. Preview the line-up and save it on soundcheck.
+Marsolo at Monarch on Fri 20 Nov, San Francisco/Oakland. 1 artist on the bill: Marsolo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

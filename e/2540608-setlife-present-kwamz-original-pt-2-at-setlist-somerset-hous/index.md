@@ -1,6 +1,6 @@
 # SETLIFE present KWAMZ ORIGINAL PT 2 at Setlist @ Somerset House
 
-SETLIFE present KWAMZ ORIGINAL PT 2 at Setlist @ Somerset House on Sat 14 Nov, London. 1 act on the bill: Jacinta. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
+SETLIFE present KWAMZ ORIGINAL PT 2 at Setlist @ Somerset House on Sat 14 Nov, London. 1 artist on the bill: Jacinta. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

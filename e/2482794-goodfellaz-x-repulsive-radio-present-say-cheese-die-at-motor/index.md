@@ -1,6 +1,6 @@
 # GOODFELLAZ X REPULSIVE RADIO PRESENT: SAY CHEESE & DIE at Motorista Studio
 
-GOODFELLAZ X REPULSIVE RADIO PRESENT: SAY CHEESE & DIE at Motorista Studio on Fri 16 Oct, Toronto. 4 acts on the bill: 666.pastel, Rareasfck, xeon æon and XXHARDBIT3S. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+GOODFELLAZ X REPULSIVE RADIO PRESENT: SAY CHEESE & DIE at Motorista Studio on Fri 16 Oct, Toronto. 4 artists on the bill: 666.pastel, Rareasfck, xeon æon and XXHARDBIT3S. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

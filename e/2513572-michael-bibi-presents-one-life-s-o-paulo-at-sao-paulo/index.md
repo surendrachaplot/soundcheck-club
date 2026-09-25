@@ -1,6 +1,6 @@
 # Michael Bibi presents One Life São Paulo at Sao Paulo
 
-Michael Bibi presents One Life São Paulo at Sao Paulo on Sat 28 Nov, Saopaulo. 1 act on the bill: Michael Bibi. Tech House. Preview the line-up and save it on soundcheck.
+Michael Bibi presents One Life São Paulo at Sao Paulo on Sat 28 Nov, Sao Paulo. 1 artist on the bill: Michael Bibi. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

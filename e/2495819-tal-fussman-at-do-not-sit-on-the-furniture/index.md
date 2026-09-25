@@ -1,6 +1,6 @@
 # Tal Fussman at Do Not Sit On The Furniture
 
-Tal Fussman at Do Not Sit On The Furniture on Fri 2 Oct, Miami. 1 act on the bill: Tal Fussman. House and Deep House. Preview the line-up and save it on soundcheck.
+Tal Fussman at Do Not Sit On The Furniture on Fri 2 Oct, Miami. 1 artist on the bill: Tal Fussman. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ELECTRONIC BODY MUSIC at Volnost
 
-ELECTRONIC BODY MUSIC at Volnost on Fri 25 Sept, Seoul. 2 acts on the bill: FECROMASS and Ottoman Grüw. Techno and EBM. Preview the line-up and save it on soundcheck.
+ELECTRONIC BODY MUSIC at Volnost on Fri 25 Sept, Seoul. 2 artists on the bill: FECROMASS and Ottoman Grüw. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

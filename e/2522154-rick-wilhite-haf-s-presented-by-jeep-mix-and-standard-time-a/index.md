@@ -1,6 +1,6 @@
 # Rick Wilhite, HAF S  presented by Jeep Mix and Standard Time at Standard Time
 
-Rick Wilhite, HAF S  presented by Jeep Mix and Standard Time on Sat 24 Oct, Toronto. 2 acts on the bill: HXF (JEEP MIX) and Rick Wilhite. Preview the line-up and save it on soundcheck.
+Rick Wilhite, HAF S  presented by Jeep Mix and Standard Time on Sat 24 Oct, Toronto. 2 artists on the bill: HXF (JEEP MIX) and Rick Wilhite. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

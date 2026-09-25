@@ -1,6 +1,6 @@
 # VANTEK X LIVID: Pawlowski at TBA
 
-VANTEK X LIVID: Pawlowski at TBA on Fri 9 Oct, Vancouver. 4 acts on the bill: Behrad Tehrani, C-Star, Pawlowski and SÜRVIVØR. Techno. Preview the line-up and save it on soundcheck.
+VANTEK X LIVID: Pawlowski at TBA on Fri 9 Oct, Vancouver. 4 artists on the bill: Behrad Tehrani, C-Star, Pawlowski and SÜRVIVØR. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

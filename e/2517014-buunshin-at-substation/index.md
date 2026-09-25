@@ -1,6 +1,6 @@
 # Buunshin at Substation
 
-Buunshin at Substation on Sun 22 Nov, Seattle. 1 act on the bill: Buunshin. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Buunshin at Substation on Sun 22 Nov, Seattle. 1 artist on the bill: Buunshin. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

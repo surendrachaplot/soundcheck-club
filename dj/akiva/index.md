@@ -2,7 +2,7 @@
 
 AKIVA is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kashmir Lounge, Amsterdam on Wed, 21 Oct 2026.
 
-AKIVA is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Amsterdam and Losangeles. Often billed alongside Aubrey Fry, Stefan Medici and Covsky. Next up: Kashmir Lounge, Amsterdam on Wed 21 Oct.
+AKIVA is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Amsterdam and Los Angeles. Often billed alongside Aubrey Fry, Stefan Medici and Covsky. Next up: Kashmir Lounge, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 

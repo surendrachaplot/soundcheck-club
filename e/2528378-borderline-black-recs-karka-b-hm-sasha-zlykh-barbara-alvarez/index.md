@@ -1,6 +1,6 @@
 # Borderline Black Recs: Karka Böhm, Sasha Zlykh, Barbara Alvarez, Martinii at TBA - Secret Location
 
-Borderline Black Recs: Karka Böhm, Sasha Zlykh, Barbara Alvarez, Martinii at TBA - Secret Location on Sat 26 Sept, Berlin. 3 acts on the bill: Barbara Alvarez, Karla Böhm and Sasha Zlykh. House and Minimal. Preview the line-up and save it on soundcheck.
+Borderline Black Recs: Karka Böhm, Sasha Zlykh, Barbara Alvarez, Martinii at TBA - Secret Location on Sat 26 Sept, Berlin. 3 artists on the bill: Barbara Alvarez, Karla Böhm and Sasha Zlykh. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

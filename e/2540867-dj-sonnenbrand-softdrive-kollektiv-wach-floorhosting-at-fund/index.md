@@ -1,6 +1,6 @@
 # DJ Sonnenbrand // Softdrive // KOLLEKTIV WACH FLOORHOSTING at Fundbureau
 
-DJ Sonnenbrand // Softdrive // KOLLEKTIV WACH FLOORHOSTING at Fundbureau on Sat 3 Oct, Hamburg. 2 acts on the bill: DJ Sonnenbrand and Softdrive. Trance and Techno. Preview the line-up and save it on soundcheck.
+DJ Sonnenbrand // Softdrive // KOLLEKTIV WACH FLOORHOSTING at Fundbureau on Sat 3 Oct, Hamburg. 2 artists on the bill: DJ Sonnenbrand and Softdrive. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

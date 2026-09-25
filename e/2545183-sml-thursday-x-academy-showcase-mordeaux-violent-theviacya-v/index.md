@@ -1,6 +1,6 @@
 # SMLИ Thursday x Academy Showcase: Mordeaux, Violent, Theviacya, Vozny at Smolna
 
-SMLИ Thursday x Academy Showcase: Mordeaux, Violent, Theviacya, Vozny at Smolna on Thu 8 Oct, Warsaw. 3 acts on the bill: Mordeaux, Theviacya and Violent. Techno. Preview the line-up and save it on soundcheck.
+SMLИ Thursday x Academy Showcase: Mordeaux, Violent, Theviacya, Vozny at Smolna on Thu 8 Oct, Warsaw. 3 artists on the bill: Mordeaux, Theviacya and Violent. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

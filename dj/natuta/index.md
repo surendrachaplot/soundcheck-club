@@ -1,14 +1,15 @@
 # Natuta
 
-Natuta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KREUZWERK, Berlin on Fri, 2 Oct 2026.
+Natuta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at KREUZWERK, Berlin on Fri, 2 Oct 2026.
 
-Natuta is a techno and house artist based in Georgia, tracked on soundcheck, with 46 sets logged across Berlin, Leipzig, Losangeles and Newyorkcity and 2 more. Often billed alongside Citizens Union, Juliana Huxtable and VINVAR. Next up: KREUZWERK, Berlin on Fri 2 Oct.
+Natuta is a techno and house artist based in Georgia, tracked on soundcheck, with 47 sets logged across Berlin, Leipzig, Los Angeles and New York City and 2 more. Often billed alongside Citizens Union, Juliana Huxtable and VINVAR. Next up: KREUZWERK, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | KREUZWERK | Berlin |
+| Sat, 24 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 

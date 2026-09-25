@@ -1,6 +1,6 @@
 # Sirens x DX3: Man Power at TBA - Downtown Los Angeles
 
-Sirens x DX3: Man Power at TBA - Downtown Los Angeles on Sat 10 Oct, Losangeles. 4 acts on the bill: Capes, Man Power, SONNS and Tavish. House and Disco. Preview the line-up and save it on soundcheck.
+Sirens x DX3: Man Power at TBA - Downtown Los Angeles on Sat 10 Oct, Los Angeles. 4 artists on the bill: Capes, Man Power, SONNS and Tavish. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hard Mondays Amsterdam - HARD TECHNO NIGHT at John Doe
 
-Hard Mondays Amsterdam - HARD TECHNO NIGHT at John Doe on Mon 26 Oct, Amsterdam. 1 act on the bill: NO1ELSE. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+Hard Mondays Amsterdam - HARD TECHNO NIGHT at John Doe on Mon 26 Oct, Amsterdam. 1 artist on the bill: NO1ELSE. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

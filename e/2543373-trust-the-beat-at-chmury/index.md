@@ -1,6 +1,6 @@
 # Trust The Beat at Chmury
 
-Trust The Beat at Chmury on Sat 26 Sept, Warsaw. 1 act on the bill: SOLOWINSKI. House and Acid. Preview the line-up and save it on soundcheck.
+Trust The Beat at Chmury on Sat 26 Sept, Warsaw. 1 artist on the bill: SOLOWINSKI. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

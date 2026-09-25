@@ -1,6 +1,6 @@
 # Friction: Psyk (Non Series / Mote Evolver) at TBA
 
-Friction: Psyk (Non Series / Mote Evolver) at TBA on Sat 21 Nov, Vancouver. 1 act on the bill: Psyk. Techno. Preview the line-up and save it on soundcheck.
+Friction: Psyk (Non Series / Mote Evolver) at TBA on Sat 21 Nov, Vancouver. 1 artist on the bill: Psyk. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

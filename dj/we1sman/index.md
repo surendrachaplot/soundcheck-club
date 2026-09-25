@@ -2,7 +2,7 @@
 
 we1sman is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
 
-we1sman is a techno and club artist based in United States of America, tracked on soundcheck, with 141 sets logged across Denver, Detroit and Newyorkcity. Often billed alongside Wax Assassin, jamea. and LATEX GIRL. Next up: Menjo's, Detroit on Sat 26 Sept.
+we1sman is a techno and club artist based in United States of America, tracked on soundcheck, with 141 sets logged across Denver, Detroit and New York City. Often billed alongside Wax Assassin, jamea. and LATEX GIRL. Next up: Menjo's, Detroit on Sat 26 Sept.
 
 ## Upcoming shows
 

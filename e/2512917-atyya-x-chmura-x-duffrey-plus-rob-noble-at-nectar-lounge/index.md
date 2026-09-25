@@ -1,6 +1,6 @@
 # ATYYA x CHMURA x DUFFREY plus Rob Noble at Nectar Lounge
 
-ATYYA x CHMURA x DUFFREY plus Rob Noble at Nectar Lounge on Sat 19 Dec, Seattle. 1 act on the bill: ATYYA. Bass and Downtempo. Preview the line-up and save it on soundcheck.
+ATYYA x CHMURA x DUFFREY plus Rob Noble at Nectar Lounge on Sat 19 Dec, Seattle. 1 artist on the bill: ATYYA. Bass and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

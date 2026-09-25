@@ -1,6 +1,6 @@
 # Outer Heaven presents: Nuno Carneiro at Outer Heaven
 
-Outer Heaven presents: Nuno Carneiro on Wed 4 Nov, Newyorkcity. 1 act on the bill: Nuno Carneiro. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Nuno Carneiro on Wed 4 Nov, New York City. 1 artist on the bill: Nuno Carneiro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

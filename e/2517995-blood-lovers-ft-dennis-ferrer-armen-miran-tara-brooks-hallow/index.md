@@ -1,6 +1,6 @@
 # BLOOD LOVERS ft Dennis Ferrer, Armen Miran, & Tara Brooks - Halloween Night in Balboa Park at Balboa Park
 
-BLOOD LOVERS ft Dennis Ferrer, Armen Miran, & Tara Brooks - Halloween Night in Balboa Park on Sat 31 Oct, Sandiego. 3 acts on the bill: Armen Miran, Dennis Ferrer and Tara Brooks. House. Preview the line-up and save it on soundcheck.
+BLOOD LOVERS ft Dennis Ferrer, Armen Miran, & Tara Brooks - Halloween Night in Balboa Park on Sat 31 Oct, San Diego. 3 artists on the bill: Armen Miran, Dennis Ferrer and Tara Brooks. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

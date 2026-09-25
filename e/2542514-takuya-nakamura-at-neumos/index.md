@@ -1,6 +1,6 @@
 # Takuya Nakamura at Neumos
 
-Takuya Nakamura at Neumos on Thu 17 Dec, Seattle. 1 act on the bill: Takuya Nakamura. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Takuya Nakamura at Neumos on Thu 17 Dec, Seattle. 1 artist on the bill: Takuya Nakamura. Drum & Bass and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

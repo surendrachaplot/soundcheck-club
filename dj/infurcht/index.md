@@ -2,7 +2,7 @@
 
 In Furcht is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
 
-In Furcht is a techno and hardcore artist based in Germany, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 13 more. Often billed alongside Neon Graveyard, Kander and 7CIRCLE. Next up: Airport Würzburg, Nurnberg on Fri 2 Oct.
+In Furcht is a techno and hardcore artist based in Germany, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Cologne and Düsseldorf and 13 more. Often billed alongside Neon Graveyard, Kander and 7CIRCLE. Next up: Airport Würzburg, Nürnberg on Fri 2 Oct.
 
 ## Upcoming shows
 

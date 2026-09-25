@@ -2,7 +2,7 @@
 
 Lupreme is a Reggaeton and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Lupreme is a reggaeton and electronica artist based in United States of America, tracked on soundcheck, with 10 sets logged across Miami and Newyorkcity. Often billed alongside Berrakka, DAY/DEM and Duality (US). Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Lupreme is a reggaeton and electronica artist based in United States of America, tracked on soundcheck, with 10 sets logged across Miami and New York City. Often billed alongside Berrakka, DAY/DEM and Duality (US). Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 

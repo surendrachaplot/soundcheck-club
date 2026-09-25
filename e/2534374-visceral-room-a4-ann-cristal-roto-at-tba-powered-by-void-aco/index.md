@@ -1,6 +1,6 @@
 # Visceral Room  A4, Ann, Cristal Roto at TBA - Powered by: Void Acoustics
 
-Visceral Room  A4, Ann, Cristal Roto at TBA - Powered by: Void Acoustics on Fri 2 Oct, Madrid. 4 acts on the bill: A4 (2), Cristal Roto, Fgdj and H0H. Techno. Preview the line-up and save it on soundcheck.
+Visceral Room  A4, Ann, Cristal Roto at TBA - Powered by: Void Acoustics on Fri 2 Oct, Madrid. 4 artists on the bill: A4, Cristal Roto, Fgdj and H0H. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

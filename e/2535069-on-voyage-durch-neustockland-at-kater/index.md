@@ -1,6 +1,6 @@
 # ON! Voyage durch Neustockland at Kater
 
-ON! Voyage durch Neustockland at Kater on Sat 7 Nov, Berlin. 13 acts on the bill: AALIYAH, Adri Tüde, Baerbel and diladï and 9 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+ON! Voyage durch Neustockland at Kater on Sat 7 Nov, Berlin. 13 artists on the bill: AALIYAH, Adri Tüde, Baerbel and diladï and 9 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

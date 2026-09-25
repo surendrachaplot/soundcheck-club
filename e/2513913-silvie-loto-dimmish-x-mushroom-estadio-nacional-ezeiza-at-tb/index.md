@@ -1,6 +1,6 @@
 # Silvie Loto + Dimmish x Mushroom – Estadio Nacional Ezeiza at TBA - Estadio Nacional, Ezeiza
 
-Silvie Loto + Dimmish x Mushroom – Estadio Nacional Ezeiza at TBA - Estadio Nacional, Ezeiza on Sun 11 Oct, Buenosaires. 2 acts on the bill: Dimmish and Silvie Loto. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Silvie Loto + Dimmish x Mushroom – Estadio Nacional Ezeiza at TBA - Estadio Nacional, Ezeiza on Sun 11 Oct, Buenos Aires. 2 artists on the bill: Dimmish and Silvie Loto. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

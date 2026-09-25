@@ -1,6 +1,6 @@
 # Hard Techno Rave feat. AWWAA - Unlimited Drinks by INAKOMA at Amnesia
 
-Hard Techno Rave feat. AWWAA - Unlimited Drinks by INAKOMA at Amnesia on Fri 25 Sept, Bangkok. 2 acts on the bill: LonSkii and Sam Laxton. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Hard Techno Rave feat. AWWAA - Unlimited Drinks by INAKOMA at Amnesia on Fri 25 Sept, Bangkok. 2 artists on the bill: LonSkii and Sam Laxton. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

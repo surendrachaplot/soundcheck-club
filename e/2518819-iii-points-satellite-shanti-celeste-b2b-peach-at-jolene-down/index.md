@@ -1,6 +1,6 @@
 # III Points Satellite: Shanti Celeste b2b Peach at Jolene Downtown Miami
 
-III Points Satellite: Shanti Celeste b2b Peach at Jolene Downtown Miami on Thu 15 Oct, Miami. 4 acts on the bill: Gio Elia, Peach, Shanti Celeste and Sister System. House and Tech House. Preview the line-up and save it on soundcheck.
+III Points Satellite: Shanti Celeste b2b Peach at Jolene Downtown Miami on Thu 15 Oct, Miami. 4 artists on the bill: Gio Elia, Peach, Shanti Celeste and Sister System. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

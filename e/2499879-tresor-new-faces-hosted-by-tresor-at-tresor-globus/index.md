@@ -1,6 +1,6 @@
 # Tresor New Faces hosted by Tresor at Tresor / Globus
 
-Tresor New Faces hosted by Tresor at Tresor / Globus on Wed 30 Sept, Berlin. 5 acts on the bill: Auryn, INDACID, MIHEMI and Miss Italia and 1 more. Preview the line-up and save it on soundcheck.
+Tresor New Faces hosted by Tresor at Tresor / Globus on Wed 30 Sept, Berlin. 5 artists on the bill: Auryn, INDACID, MIHEMI and Miss Italia and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

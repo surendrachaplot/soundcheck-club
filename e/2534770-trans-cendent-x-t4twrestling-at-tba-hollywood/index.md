@@ -1,6 +1,6 @@
 # Trans*cendent x T4TWrestling at TBA - Hollywood
 
-Trans*cendent x T4TWrestling at TBA - Hollywood on Fri 2 Oct, Losangeles. 2 acts on the bill: Ava Blank and Eva Myra May. Trance and Techno. Preview the line-up and save it on soundcheck.
+Trans*cendent x T4TWrestling at TBA - Hollywood on Fri 2 Oct, Los Angeles. 2 artists on the bill: Ava Blank and Eva Myra May. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

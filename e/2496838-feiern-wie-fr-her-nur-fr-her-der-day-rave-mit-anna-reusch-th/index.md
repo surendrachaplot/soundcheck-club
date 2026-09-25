@@ -1,6 +1,6 @@
 # Feiern wie früher - nur früher! Der DAY RAVE mit Anna Reusch & Thomas Schumacher at Lieberscholli
 
-Feiern wie früher - nur früher! Der DAY RAVE mit Anna Reusch & Thomas Schumacher at Lieberscholli on Sat 24 Oct, Munich. 3 acts on the bill: Anna Reusch, JessRey and Thomas Schumacher. Techno. Preview the line-up and save it on soundcheck.
+Feiern wie früher - nur früher! Der DAY RAVE mit Anna Reusch & Thomas Schumacher at Lieberscholli on Sat 24 Oct, Munich. 3 artists on the bill: Anna Reusch, JessRey and Thomas Schumacher. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

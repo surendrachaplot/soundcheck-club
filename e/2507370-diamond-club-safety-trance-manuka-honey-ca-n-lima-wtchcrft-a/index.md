@@ -1,6 +1,6 @@
 # Diamond CLUB: Safety Trance, Manuka Honey, Caín Lima + WTCHCRFT at Paragon
 
-Diamond CLUB: Safety Trance, Manuka Honey, Caín Lima + WTCHCRFT at Paragon on Sat 24 Oct, Newyorkcity. 5 acts on the bill: Caín Lima, Manuka Honey, Safety Trance and Simzii and 1 more. Techno and Reggaeton. Preview the line-up and save it on soundcheck.
+Diamond CLUB: Safety Trance, Manuka Honey, Caín Lima + WTCHCRFT at Paragon on Sat 24 Oct, New York City. 5 artists on the bill: Caín Lima, Manuka Honey, Safety Trance and Simzii and 1 more. Techno and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

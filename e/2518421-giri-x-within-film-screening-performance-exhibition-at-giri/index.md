@@ -1,6 +1,6 @@
 # Giri x Within (Film screening, Performance, Exhibition) at Giri
 
-Giri x Within (Film screening, Performance, Exhibition) on Sat 26 Sept, Berlin. 4 acts on the bill: Aunty Nora, aya, Lixi and Sub Sahara. Techno. Preview the line-up and save it on soundcheck.
+Giri x Within (Film screening, Performance, Exhibition) on Sat 26 Sept, Berlin. 4 artists on the bill: Aunty Nora, aya, Lixi and Sub Sahara. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hyperlink Groove Madrid at Sala Groove
 
-Hyperlink Groove Madrid at Sala Groove on Sat 3 Oct, Madrid. 5 acts on the bill: DJ Lukas, Fernanda Martins, GNRØ and Golpe and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Hyperlink Groove Madrid at Sala Groove on Sat 3 Oct, Madrid. 5 artists on the bill: DJ Lukas, Fernanda Martins, GNRØ and Golpe and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

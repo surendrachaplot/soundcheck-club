@@ -1,6 +1,6 @@
 # 05 DEC - Thuishaven with Bart Skils 5HRS at Thuishaven
 
-05 DEC - Thuishaven with Bart Skils 5HRS on Sat 5 Dec, Amsterdam. 1 act on the bill: Bart Skils. Preview the line-up and save it on soundcheck.
+05 DEC - Thuishaven with Bart Skils 5HRS on Sat 5 Dec, Amsterdam. 1 artist on the bill: Bart Skils. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

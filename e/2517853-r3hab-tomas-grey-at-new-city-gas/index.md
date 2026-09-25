@@ -1,6 +1,6 @@
 # R3hab, Tomas grey at New City Gas
 
-R3hab, Tomas grey at New City Gas on Sat 26 Sept, Montreal. 1 act on the bill: R3hab. Preview the line-up and save it on soundcheck.
+R3hab, Tomas grey at New City Gas on Sat 26 Sept, Montreal. 1 artist on the bill: R3hab. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jalowey at TBA - Foro Ying
 
-Jalowey at TBA - Foro Ying on Sat 31 Oct, Mexicocity. 2 acts on the bill: Dread (Poland) and Ezya. Preview the line-up and save it on soundcheck.
+Jalowey at TBA - Foro Ying on Sat 31 Oct, Mexico City. 2 artists on the bill: Dread (Poland) and Ezya. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

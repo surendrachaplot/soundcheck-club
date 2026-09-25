@@ -1,6 +1,6 @@
 # Gondel at Salon des Amateurs
 
-Gondel at Salon des Amateurs on Fri 30 Oct, Dusseldorf. 4 acts on the bill: Die Wilde Jagd, Jimu Kobayashi, Maria Wildeis and Voltmar. Preview the line-up and save it on soundcheck.
+Gondel at Salon des Amateurs on Fri 30 Oct, Düsseldorf. 4 artists on the bill: Die Wilde Jagd, Jimu Kobayashi, Maria Wildeis and Voltmar. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

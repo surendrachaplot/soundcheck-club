@@ -1,6 +1,6 @@
 # Knicks Watch Party: Season Opener at SOBs
 
-Knicks Watch Party: Season Opener at SOBs on Tue 20 Oct, Newyorkcity. Club. Preview the line-up and save it on soundcheck.
+Knicks Watch Party: Season Opener at SOBs on Tue 20 Oct, New York City. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

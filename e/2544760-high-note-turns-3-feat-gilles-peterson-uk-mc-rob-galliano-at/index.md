@@ -1,6 +1,6 @@
 # High Note Turns 3 feat. Gilles Peterson (UK) + MC Rob Galliano at Northcote Theatre
 
-High Note Turns 3 feat. Gilles Peterson (UK) + MC Rob Galliano at Northcote Theatre on Sat 14 Nov, Melbourne. 5 acts on the bill: DJ Matab, Gilles Peterson, Marley Swain and RAH (1) and 1 more. Preview the line-up and save it on soundcheck.
+High Note Turns 3 feat. Gilles Peterson (UK) + MC Rob Galliano at Northcote Theatre on Sat 14 Nov, Melbourne. 5 artists on the bill: DJ Matab, Gilles Peterson, Marley Swain and RAH and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

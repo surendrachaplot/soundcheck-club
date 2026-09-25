@@ -1,6 +1,6 @@
 # SILOWEEN: Asylum feat. Maesic at SILO
 
-SILOWEEN: Asylum feat. Maesic on Fri 30 Oct, Newyorkcity. Techno and Afro House. Preview the line-up and save it on soundcheck.
+SILOWEEN: Asylum feat. Maesic on Fri 30 Oct, New York City. Techno and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

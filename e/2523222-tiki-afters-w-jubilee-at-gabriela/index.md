@@ -1,6 +1,6 @@
 # TIKI AFTERS w Jubilee at Gabriela
 
-TIKI AFTERS w Jubilee at Gabriela on Sun 27 Sept, Newyorkcity. 1 act on the bill: Jubilee. Electro and Acid. Preview the line-up and save it on soundcheck.
+TIKI AFTERS w Jubilee at Gabriela on Sun 27 Sept, New York City. 1 artist on the bill: Jubilee. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

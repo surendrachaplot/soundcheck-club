@@ -1,6 +1,6 @@
 # Anjunadeep Open Air [Sydney] at Tumbalong Park
 
-Anjunadeep Open Air [Sydney] at Tumbalong Park on Sat 28 Nov, Sydney. 5 acts on the bill: Catching Flies, Dosem, Eli & Fur and Jody Wisternoff and 1 more. Preview the line-up and save it on soundcheck.
+Anjunadeep Open Air [Sydney] at Tumbalong Park on Sat 28 Nov, Sydney. 5 artists on the bill: Catching Flies, Dosem, Eli & Fur and Jody Wisternoff and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

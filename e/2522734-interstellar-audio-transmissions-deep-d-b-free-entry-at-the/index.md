@@ -1,6 +1,6 @@
 # Interstellar Audio: Transmissions - Deep D&B - FREE ENTRY at The Chapel Angel Microbrewery
 
-Interstellar Audio: Transmissions - Deep D&B - FREE ENTRY at The Chapel Angel Microbrewery on Thu 24 Sept, Nottingham. 2 acts on the bill: Cellar (2) and K2T (1). Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Interstellar Audio: Transmissions - Deep D&B - FREE ENTRY at The Chapel Angel Microbrewery on Thu 24 Sept, Nottingham. 2 artists on the bill: Cellar and K2T. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

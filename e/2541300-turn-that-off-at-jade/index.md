@@ -1,6 +1,6 @@
 # TURN THAT OFF at Jade
 
-TURN THAT OFF at Jade on Fri 16 Oct, Newyorkcity. Techno and Pop. Preview the line-up and save it on soundcheck.
+TURN THAT OFF at Jade on Fri 16 Oct, New York City. Techno and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

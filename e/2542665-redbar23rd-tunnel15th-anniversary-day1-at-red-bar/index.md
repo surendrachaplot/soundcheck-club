@@ -1,6 +1,6 @@
 # REDBAR23rd & TUNNEL15th ANNIVERSARY - DAY1 at Red Bar
 
-REDBAR23rd & TUNNEL15th ANNIVERSARY - DAY1 at Red Bar on Fri 2 Oct, Tokyo. 5 acts on the bill: Dazzle Drums, DJ Shibata, FELINE (JP) and P-YAN and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+REDBAR23rd & TUNNEL15th ANNIVERSARY - DAY1 at Red Bar on Fri 2 Oct, Tokyo. 5 artists on the bill: Dazzle Drums, DJ Shibata, FELINE (JP) and P-YAN and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

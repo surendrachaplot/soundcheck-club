@@ -2,7 +2,7 @@
 
 Cleymoore is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club der Visionaere, Berlin on Sat, 26 Sept 2026.
 
-Cleymoore is a house and techno artist based in Portugal, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside rubi*, Atree and ALINA (3). Next up: Club der Visionaere, Berlin on Sat 26 Sept.
+Cleymoore is a house and techno artist based in Portugal, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 6 more. Often billed alongside rubi*, Atree and ALINA. Next up: Club der Visionaere, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 

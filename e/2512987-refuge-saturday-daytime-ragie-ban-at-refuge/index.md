@@ -1,6 +1,6 @@
 # Refuge Saturday Daytime: Ragie Ban at Refuge
 
-Refuge Saturday Daytime: Ragie Ban on Sat 26 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+Refuge Saturday Daytime: Ragie Ban on Sat 26 Sept, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

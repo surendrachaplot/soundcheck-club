@@ -2,7 +2,7 @@
 
 Tai Tong Organic Ecopark is a music venue in Hong Kong with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Shi Fu Miz Festival - 10 Year Anniversary" on Sat, 14 Nov 2026.
 
-Tai Tong Organic Ecopark is a music venue in Hongkong listed on soundcheck. 1 upcoming gig, with line-ups including 1908, AngeliKa, Chez Damier and DJ Kirby and 2 more. Browse upcoming dates, start times and who's playing.
+Tai Tong Organic Ecopark is a music venue in Hong Kong listed on soundcheck. 1 upcoming gig, with line-ups including 1908, AngeliKa, Chez Damier and DJ Kirby and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

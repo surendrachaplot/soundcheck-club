@@ -1,6 +1,6 @@
 # Sam Alfred at Magic Stick
 
-Sam Alfred at Magic Stick on Fri 2 Oct, Detroit. 1 act on the bill: Sam Alfred. Preview the line-up and save it on soundcheck.
+Sam Alfred at Magic Stick on Fri 2 Oct, Detroit. 1 artist on the bill: Sam Alfred. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

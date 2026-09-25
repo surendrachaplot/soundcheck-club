@@ -2,7 +2,7 @@
 
 Kairi Komoda is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Z Maruyama, Tokyo on Fri, 25 Sept 2026.
 
-Kairi Komoda is a house and techno artist based in Japan, tracked on soundcheck, with 65 sets logged across Osaka, Seoul and Tokyo. Often billed alongside ueue (2), MINAMI and The Library. Next up: Z Maruyama, Tokyo on Fri 25 Sept.
+Kairi Komoda is a house and techno artist based in Japan, tracked on soundcheck, with 65 sets logged across Osaka, Seoul and Tokyo. Often billed alongside ueue, MINAMI and The Library. Next up: Z Maruyama, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 

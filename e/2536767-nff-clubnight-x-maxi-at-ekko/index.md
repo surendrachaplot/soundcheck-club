@@ -1,6 +1,6 @@
 # NFF Clubnight x MAXI at EKKO
 
-NFF Clubnight x MAXI at EKKO on Sat 26 Sept, Utrecht. 1 act on the bill: Neon Wasabi. Breakbeat and Experimental. Preview the line-up and save it on soundcheck.
+NFF Clubnight x MAXI at EKKO on Sat 26 Sept, Utrecht. 1 artist on the bill: Neon Wasabi. Breakbeat and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ADE - Rush Hour [sold out] at Lofi
 
-ADE - Rush Hour [sold out] at Lofi on Sat 24 Oct, Amsterdam. 7 acts on the bill: Antal, Arp Frique, Ays (NL) and Gigi Testa and 3 more. Preview the line-up and save it on soundcheck.
+ADE - Rush Hour [sold out] at Lofi on Sat 24 Oct, Amsterdam. 7 artists on the bill: Antal, Arp Frique, Ays (NL) and Gigi Testa and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

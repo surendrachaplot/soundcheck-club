@@ -1,6 +1,6 @@
 # Hertz 헤르츠 Selectors: AND 1 chani Jucid at Hertz
 
-Hertz 헤르츠 Selectors: AND 1 chani Jucid on Fri 25 Sept, Seoul. 3 acts on the bill: AND1 (2), chani and Jucid. Deep House and Club. Preview the line-up and save it on soundcheck.
+Hertz 헤르츠 Selectors: AND 1 chani Jucid on Fri 25 Sept, Seoul. 3 artists on the bill: AND1, chani and Jucid. Deep House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

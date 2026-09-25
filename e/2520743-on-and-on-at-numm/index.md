@@ -1,6 +1,6 @@
 # On and On at Numm
 
-On and On at Numm on Sat 26 Sept, Tokyo. 1 act on the bill: DNG (1). Preview the line-up and save it on soundcheck.
+On and On at Numm on Sat 26 Sept, Tokyo. 1 artist on the bill: DNG. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

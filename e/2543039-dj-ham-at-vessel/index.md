@@ -1,6 +1,6 @@
 # DJ HAM at Vessel
 
-DJ HAM at Vessel on Sat 26 Sept, Edinburgh. 1 act on the bill: DJ HAM (2). Preview the line-up and save it on soundcheck.
+DJ HAM at Vessel on Sat 26 Sept, Edinburgh. 1 artist on the bill: DJ HAM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

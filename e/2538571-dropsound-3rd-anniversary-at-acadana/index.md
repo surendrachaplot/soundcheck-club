@@ -1,6 +1,6 @@
 # DROPSOUND 3RD ANNIVERSARY at Acadana
 
-DROPSOUND 3RD ANNIVERSARY at Acadana on Sat 3 Oct, Hongkong. 10 acts on the bill: ADRIANNA.C, Charlieowo, Dan-neo and Francis_kkk and 6 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+DROPSOUND 3RD ANNIVERSARY at Acadana on Sat 3 Oct, Hong Kong. 10 artists on the bill: ADRIANNA.C, Charlieowo, Dan-neo and Francis_kkk and 6 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

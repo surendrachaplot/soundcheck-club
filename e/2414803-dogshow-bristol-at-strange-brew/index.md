@@ -1,6 +1,6 @@
 # Dogshow - Bristol at Strange Brew
 
-Dogshow - Bristol at Strange Brew on Sat 3 Oct, Bristol. 1 act on the bill: Dogshow. Disco and Electronica. Preview the line-up and save it on soundcheck.
+Dogshow - Bristol at Strange Brew on Sat 3 Oct, Bristol. 1 artist on the bill: Dogshow. Disco and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

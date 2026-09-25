@@ -1,6 +1,6 @@
 # Open Decks with STEEN and MatchMyFreq Society at SILO
 
-Open Decks with STEEN and MatchMyFreq Society at SILO on Wed 21 Oct, Newyorkcity. 1 act on the bill: STEEN. Techno and House. Preview the line-up and save it on soundcheck.
+Open Decks with STEEN and MatchMyFreq Society at SILO on Wed 21 Oct, New York City. 1 artist on the bill: STEEN. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

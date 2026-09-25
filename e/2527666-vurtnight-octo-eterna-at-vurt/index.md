@@ -1,6 +1,6 @@
 # vurtnight Octo Åeterna at vurt.
 
-vurtnight Octo Åeterna at vurt. on Sat 26 Sept, Seoul. 3 acts on the bill: GOBI, Octo Åeterna and SUZAN (2). Techno. Preview the line-up and save it on soundcheck.
+vurtnight Octo Åeterna at vurt. on Sat 26 Sept, Seoul. 3 artists on the bill: GOBI, Octo Åeterna and SUZAN. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

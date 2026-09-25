@@ -1,6 +1,6 @@
 # Glenn Underground (Extended Set) at The Jazz Cafe
 
-Glenn Underground (Extended Set) at The Jazz Cafe on Fri 23 Oct, London. 2 acts on the bill: DREY (UK) and Glenn Underground. Preview the line-up and save it on soundcheck.
+Glenn Underground (Extended Set) at The Jazz Cafe on Fri 23 Oct, London. 2 artists on the bill: DREY (UK) and Glenn Underground. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

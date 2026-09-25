@@ -1,6 +1,6 @@
 # [CANCELLED] DJ Rozwell - Detroit at The High Dive
 
-[CANCELLED] DJ Rozwell - Detroit at The High Dive on Fri 25 Sept, Detroit. 1 act on the bill: XXHARDBIT3S. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+[CANCELLED] DJ Rozwell - Detroit at The High Dive on Fri 25 Sept, Detroit. 1 artist on the bill: XXHARDBIT3S. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

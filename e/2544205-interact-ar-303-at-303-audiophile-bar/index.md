@@ -1,6 +1,6 @@
 # InterAct ar 303 at 303 Audiophile Bar
 
-InterAct ar 303 at 303 Audiophile Bar on Thu 15 Oct, Barcelona. 4 acts on the bill: Ivan Pugliares, Lea Corio, Lupe Republic and Reezar. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+InterAct ar 303 at 303 Audiophile Bar on Thu 15 Oct, Barcelona. 4 artists on the bill: Ivan Pugliares, Lea Corio, Lupe Republic and Reezar. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

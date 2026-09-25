@@ -1,6 +1,6 @@
 # Birthrite (Volume XIV) at The Chocolate Factory
 
-Birthrite (Volume XIV) at The Chocolate Factory on Sat 26 Sept, Newyorkcity. 5 acts on the bill: ALEXIS DE LA ROSA, Boy Cordero, HoneyCafe and Jay Vic and 1 more. House and Afro Tech. Preview the line-up and save it on soundcheck.
+Birthrite (Volume XIV) at The Chocolate Factory on Sat 26 Sept, New York City. 5 artists on the bill: ALEXIS DE LA ROSA, Boy Cordero, HoneyCafe and Jay Vic and 1 more. House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

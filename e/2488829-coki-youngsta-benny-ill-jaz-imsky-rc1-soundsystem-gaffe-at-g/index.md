@@ -1,6 +1,6 @@
 # Coki, Youngsta, Benny Ill, JAZ IMSKY, RC1 Soundsystem - Gaffe at Gaffe
 
-Coki, Youngsta, Benny Ill, JAZ IMSKY, RC1 Soundsystem - Gaffe on Sat 10 Oct, London. 4 acts on the bill: Benny Ill, Coki, JAZ IMSKY and Youngsta. Preview the line-up and save it on soundcheck.
+Coki, Youngsta, Benny Ill, JAZ IMSKY, RC1 Soundsystem - Gaffe on Sat 10 Oct, London. 4 artists on the bill: Benny Ill, Coki, JAZ IMSKY and Youngsta. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

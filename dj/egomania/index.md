@@ -1,8 +1,8 @@
 # egomania
 
-egomania is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Razzmatazz, Barcelona on Fri, 25 Sept 2026.
+egomania is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Razzmatazz, Barcelona on Fri, 25 Sept 2026.
 
-egomania is a hardcore and techno artist based in Japan, tracked on soundcheck, with 45 sets logged across Barcelona and Tokyo. Often billed alongside KAMIKAZE, Sonia Lagoon (2) and KYLE MIKASA. Next up: Razzmatazz, Barcelona on Fri 25 Sept.
+egomania is a hardcore and techno artist based in Japan, tracked on soundcheck, with 46 sets logged across Barcelona and Tokyo. Often billed alongside KAMIKAZE, Sonia Lagoon and KYLE MIKASA. Next up: Razzmatazz, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ egomania is a hardcore and techno artist based in Japan, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Razzmatazz | Barcelona |
 | Fri, 23 Oct 2026 | clubasia | Tokyo |
+| Fri, 23 Oct 2026 | Forestlimit | Tokyo |
 
 ## Recently played
 

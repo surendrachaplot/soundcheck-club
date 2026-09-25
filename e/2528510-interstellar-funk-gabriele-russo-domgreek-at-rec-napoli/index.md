@@ -1,6 +1,6 @@
 # Interstellar Funk, Gabriele Russo, Domgreek at REC Napoli
 
-Interstellar Funk, Gabriele Russo, Domgreek at REC Napoli on Sat 31 Oct, Naples. 2 acts on the bill: Gabriele Russo and Interstellar Funk. Preview the line-up and save it on soundcheck.
+Interstellar Funk, Gabriele Russo, Domgreek at REC Napoli on Sat 31 Oct, Naples. 2 artists on the bill: Gabriele Russo and Interstellar Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

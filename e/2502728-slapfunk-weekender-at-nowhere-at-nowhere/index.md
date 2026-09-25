@@ -1,6 +1,6 @@
 # SlapFunk Weekender at NOWHERE at NOWHERE
 
-SlapFunk Weekender at NOWHERE on Sat 28 Nov, Manchester. 8 acts on the bill: Alexander Skancke, Captain Wallop, DJ Senc and Doudou MD and 4 more. Preview the line-up and save it on soundcheck.
+SlapFunk Weekender at NOWHERE on Sat 28 Nov, Manchester. 8 artists on the bill: Alexander Skancke, Captain Wallop, DJ Senc and Doudou MD and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

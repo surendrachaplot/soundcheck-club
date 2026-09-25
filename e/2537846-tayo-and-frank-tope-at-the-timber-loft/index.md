@@ -1,6 +1,6 @@
 # Tayo and Frank Tope at The Timber Loft
 
-Tayo and Frank Tope at The Timber Loft on Sun 15 Nov, London. 2 acts on the bill: Frank Tope and Tayo. Preview the line-up and save it on soundcheck.
+Tayo and Frank Tope at The Timber Loft on Sun 15 Nov, London. 2 artists on the bill: Frank Tope and Tayo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

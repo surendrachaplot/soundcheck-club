@@ -1,6 +1,6 @@
 # Harbour 7th Anniversary with Marco Shuttle and Harbour Crew at Harbour Music Shelter
 
-Harbour 7th Anniversary with Marco Shuttle and Harbour Crew at Harbour Music Shelter on Sun 4 Oct, Lisbon. 1 act on the bill: Marco Shuttle. Techno and House. Preview the line-up and save it on soundcheck.
+Harbour 7th Anniversary with Marco Shuttle and Harbour Crew at Harbour Music Shelter on Sun 4 Oct, Lisbon. 1 artist on the bill: Marco Shuttle. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

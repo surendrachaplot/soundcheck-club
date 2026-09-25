@@ -1,6 +1,6 @@
 # Tinzo + Jojo's Dark Library - Los Angeles at Don Quixote
 
-Tinzo + Jojo's Dark Library - Los Angeles at Don Quixote on Fri 16 Oct, Losangeles. 2 acts on the bill: Jojo Lorenzo and Tinzo. House and New Wave. Preview the line-up and save it on soundcheck.
+Tinzo + Jojo's Dark Library - Los Angeles at Don Quixote on Fri 16 Oct, Los Angeles. 2 artists on the bill: Jojo Lorenzo and Tinzo. House and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

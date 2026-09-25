@@ -1,6 +1,6 @@
 # Anso + ELMER DAVY + Emi Koto + Rachael + Skinner + Xorpel - ÉNFASIS at TBA - LFO
 
-Anso + ELMER DAVY + Emi Koto + Rachael + Skinner + Xorpel - ÉNFASIS at TBA - LFO on Sat 24 Oct, Madrid. 5 acts on the bill: Anso, ELMER DAVY, Emi Koto and Rachael (ES) and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+Anso + ELMER DAVY + Emi Koto + Rachael + Skinner + Xorpel - ÉNFASIS at TBA - LFO on Sat 24 Oct, Madrid. 5 artists on the bill: Anso, ELMER DAVY, Emi Koto and Rachael (ES) and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

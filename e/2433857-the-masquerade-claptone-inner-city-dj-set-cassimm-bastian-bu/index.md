@@ -1,6 +1,6 @@
 # The Masquerade: Claptone, Inner City DJ Set, CASSIMM, Bastian Bux at Chinois Ibiza
 
-The Masquerade: Claptone, Inner City DJ Set, CASSIMM, Bastian Bux at Chinois Ibiza on Sat 26 Sept, Ibiza. 4 acts on the bill: Bastian Bux, CASSIMM, Claptone and Inner City. House and Tech House. Preview the line-up and save it on soundcheck.
+The Masquerade: Claptone, Inner City DJ Set, CASSIMM, Bastian Bux at Chinois Ibiza on Sat 26 Sept, Ibiza. 4 artists on the bill: Bastian Bux, CASSIMM, Claptone and Inner City. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

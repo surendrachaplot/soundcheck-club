@@ -1,6 +1,6 @@
 # Tresor Klubnacht at Tresor / Globus
 
-Tresor Klubnacht at Tresor / Globus on Sat 31 Oct, Berlin. 6 acts on the bill: Caniche, Ndrx, OLIV and TAFKAMP and 2 more. Preview the line-up and save it on soundcheck.
+Tresor Klubnacht at Tresor / Globus on Sat 31 Oct, Berlin. 6 artists on the bill: Caniche, Ndrx, OLIV and TAFKAMP and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

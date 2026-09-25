@@ -1,6 +1,6 @@
 # FORTY YEARS OF DANCE at The Miller
 
-FORTY YEARS OF DANCE at The Miller on Fri 25 Sept, London. 1 act on the bill: HADDI. House and Tech House. Preview the line-up and save it on soundcheck.
+FORTY YEARS OF DANCE at The Miller on Fri 25 Sept, London. 1 artist on the bill: HADDI. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FSTM ADE Take Over at Skatecafe
 
-FSTM ADE Take Over at Skatecafe on Sun 25 Oct, Amsterdam. 10 acts on the bill: Blasha & Allatt, Call Super, DJ Masda and Eris Drew and 6 more. Preview the line-up and save it on soundcheck.
+FSTM ADE Take Over at Skatecafe on Sun 25 Oct, Amsterdam. 10 artists on the bill: Blasha & Allatt, Call Super, DJ Masda and Eris Drew and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

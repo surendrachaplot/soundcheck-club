@@ -1,6 +1,6 @@
 # BOOHAUS at Club Bermellón
 
-BOOHAUS at Club Bermellón on Sat 31 Oct, Mexicocity. Techno and House. Preview the line-up and save it on soundcheck.
+BOOHAUS at Club Bermellón on Sat 31 Oct, Mexico City. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

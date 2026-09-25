@@ -2,7 +2,7 @@
 
 Somna is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Concord Music Hall, Chicago on Fri, 9 Oct 2026.
 
-Somna is a trance and techno artist based in Canada, tracked on soundcheck, with 6 sets logged across Amsterdam, Chicago, London and Sandiego and 2 more. Often billed alongside Andy Moor, Rinaly and AEMI. Next up: Concord Music Hall, Chicago on Fri 9 Oct.
+Somna is a trance and techno artist based in Canada, tracked on soundcheck, with 6 sets logged across Amsterdam, Chicago, London and San Diego and 2 more. Often billed alongside Andy Moor, Rinaly and AEMI. Next up: Concord Music Hall, Chicago on Fri 9 Oct.
 
 ## Upcoming shows
 

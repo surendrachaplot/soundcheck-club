@@ -1,6 +1,6 @@
 # NEON DREAMS COLOGNE at Artheater
 
-NEON DREAMS COLOGNE at Artheater on Fri 2 Oct, Cologne. 8 acts on the bill: Amøn, Blame The Mono, DICE and DJ Achim Feuervogel and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+NEON DREAMS COLOGNE at Artheater on Fri 2 Oct, Cologne. 8 artists on the bill: Amøn, Blame The Mono, DICE and DJ Achim Feuervogel and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

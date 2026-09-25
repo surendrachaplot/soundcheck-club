@@ -1,6 +1,6 @@
 # Markus Schulz (All Night Long) at Stereo
 
-Markus Schulz (All Night Long) at Stereo on Sun 11 Oct, Montreal. 1 act on the bill: Markus Schulz. Preview the line-up and save it on soundcheck.
+Markus Schulz (All Night Long) at Stereo on Sun 11 Oct, Montreal. 1 artist on the bill: Markus Schulz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

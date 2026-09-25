@@ -1,6 +1,6 @@
 # madgone/Les Ratz at Poly
 
-madgone/Les Ratz at Poly on Fri 25 Sept, Lyon. 1 act on the bill: Baptiste Coppel. Progressive House and Electro. Preview the line-up and save it on soundcheck.
+madgone/Les Ratz at Poly on Fri 25 Sept, Lyon. 1 artist on the bill: Baptiste Coppel. Progressive House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

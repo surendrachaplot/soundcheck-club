@@ -1,6 +1,6 @@
 # Breaka, Kassian, Jay Carder, Everson x DR3SSA at The Fox and Firkin
 
-Breaka, Kassian, Jay Carder, Everson x DR3SSA at The Fox and Firkin on Sat 3 Oct, London. 3 acts on the bill: Breaka, Jay Carder and Kassian. Techno and Bass. Preview the line-up and save it on soundcheck.
+Breaka, Kassian, Jay Carder, Everson x DR3SSA at The Fox and Firkin on Sat 3 Oct, London. 3 artists on the bill: Breaka, Jay Carder and Kassian. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

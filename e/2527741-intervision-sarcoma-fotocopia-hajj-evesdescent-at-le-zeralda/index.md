@@ -1,6 +1,6 @@
 # Intervision : Sarcoma, Fotocopia, Hajj, Evesdescent ... at Le Zeralda
 
-Intervision : Sarcoma, Fotocopia, Hajj, Evesdescent ... at Le Zeralda on Fri 25 Sept, Paris. 1 act on the bill: Hajj. Preview the line-up and save it on soundcheck.
+Intervision : Sarcoma, Fotocopia, Hajj, Evesdescent ... at Le Zeralda on Fri 25 Sept, Paris. 1 artist on the bill: Hajj. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

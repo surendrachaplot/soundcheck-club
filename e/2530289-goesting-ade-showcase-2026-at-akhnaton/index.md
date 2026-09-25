@@ -1,6 +1,6 @@
 # GOESTING ADE Showcase 2026 at Akhnaton
 
-GOESTING ADE Showcase 2026 at Akhnaton on Sat 24 Oct, Amsterdam. 7 acts on the bill: Alísha, Baliology, DJ Ruby and Kostya Outta and 3 more. Progressive House. Preview the line-up and save it on soundcheck.
+GOESTING ADE Showcase 2026 at Akhnaton on Sat 24 Oct, Amsterdam. 7 artists on the bill: Alísha, Baliology, DJ Ruby and Kostya Outta and 3 more. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

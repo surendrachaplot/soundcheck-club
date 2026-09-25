@@ -1,6 +1,6 @@
 # Animal Farm: MARRØN - Quail + AXION at Sub Club
 
-Animal Farm: MARRØN - Quail + AXION at Sub Club on Fri 30 Oct, Glasgow. 3 acts on the bill: AXION, MARRØN and Quail. Techno. Preview the line-up and save it on soundcheck.
+Animal Farm: MARRØN - Quail + AXION at Sub Club on Fri 30 Oct, Glasgow. 3 artists on the bill: AXION, MARRØN and Quail. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

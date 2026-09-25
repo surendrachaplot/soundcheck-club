@@ -1,6 +1,6 @@
 # SONO - JAYC and More at Oosterbar
 
-SONO - JAYC and More at Oosterbar on Sat 3 Oct, Amsterdam. 1 act on the bill: Ken Spieker. House and Tech House. Preview the line-up and save it on soundcheck.
+SONO - JAYC and More at Oosterbar on Sat 3 Oct, Amsterdam. 1 artist on the bill: Ken Spieker. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

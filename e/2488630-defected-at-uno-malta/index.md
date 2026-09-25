@@ -1,6 +1,6 @@
 # Defected at UNO MALTA
 
-Defected at UNO MALTA on Thu 1 Oct, Malta. 61 acts on the bill: Aline Rocha, Andrea Oliva, Catz 'N Dogz and Chesster and 57 more. House. Preview the line-up and save it on soundcheck.
+Defected at UNO MALTA on Thu 1 Oct, Malta. 61 artists on the bill: Aline Rocha, Andrea Oliva, Catz 'N Dogz and Chesster and 57 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Paraiso Disco: House, Disco, Classics with Jafunk at Night Tales
 
-Paraiso Disco: House, Disco, Classics with Jafunk at Night Tales on Sat 14 Nov, London. 1 act on the bill: Jafunk. House and Disco. Preview the line-up and save it on soundcheck.
+Paraiso Disco: House, Disco, Classics with Jafunk at Night Tales on Sat 14 Nov, London. 1 artist on the bill: Jafunk. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

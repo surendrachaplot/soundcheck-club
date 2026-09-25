@@ -1,6 +1,6 @@
 # Schlau at TBA - Ziecret Location
 
-Schlau at TBA - Ziecret Location on Fri 9 Oct, Berlin. 4 acts on the bill: ASIA (DE), Gustavo, Jorge Escribano and Ramî. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Schlau at TBA - Ziecret Location on Fri 9 Oct, Berlin. 4 artists on the bill: ASIA (DE), Gustavo, Jorge Escribano and Ramî. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

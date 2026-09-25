@@ -1,6 +1,6 @@
 # Mark Ernestus (DE / Basic Channel) - 3 Hours at The Villa
 
-Mark Ernestus (DE / Basic Channel) - 3 Hours at The Villa on Fri 13 Nov, Oslo. 1 act on the bill: Mark Ernestus. Bass and Dub. Preview the line-up and save it on soundcheck.
+Mark Ernestus (DE / Basic Channel) - 3 Hours at The Villa on Fri 13 Nov, Oslo. 1 artist on the bill: Mark Ernestus. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

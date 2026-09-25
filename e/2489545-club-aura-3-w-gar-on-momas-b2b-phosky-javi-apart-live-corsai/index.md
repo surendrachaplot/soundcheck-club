@@ -1,6 +1,6 @@
 # Club Aura # 3 w/ Garçon, Momasé b2b Phosky, Javi.apart (Live), Corsair y Marta LOFI (Live AV) at LAUT
 
-Club Aura # 3 w/ Garçon, Momasé b2b Phosky, Javi.apart (Live), Corsair y Marta LOFI (Live AV) at LAUT on Sun 11 Oct, Barcelona. 4 acts on the bill: Garçon, Josh Hoppen, Momasé and Phosky. Techno and Ambient. Preview the line-up and save it on soundcheck.
+Club Aura # 3 w/ Garçon, Momasé b2b Phosky, Javi.apart (Live), Corsair y Marta LOFI (Live AV) at LAUT on Sun 11 Oct, Barcelona. 4 artists on the bill: Garçon, Josh Hoppen, Momasé and Phosky. Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

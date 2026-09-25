@@ -1,6 +1,6 @@
 # I Love Acid presents Luke Vibert at Hare & Hounds
 
-I Love Acid presents Luke Vibert at Hare & Hounds on Fri 25 Sept, Birmingham. 3 acts on the bill: Luke Vibert, Nightwave and Posthuman. Acid. Preview the line-up and save it on soundcheck.
+I Love Acid presents Luke Vibert at Hare & Hounds on Fri 25 Sept, Birmingham. 3 artists on the bill: Luke Vibert, Nightwave and Posthuman. Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

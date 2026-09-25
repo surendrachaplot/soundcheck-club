@@ -1,6 +1,6 @@
 # ERODE, THE TEST DREAM at The Fridge
 
-ERODE, THE TEST DREAM at The Fridge on Mon 28 Sept, Washingtondc. Preview the line-up and save it on soundcheck.
+ERODE, THE TEST DREAM at The Fridge on Mon 28 Sept, Washington DC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

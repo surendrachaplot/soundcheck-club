@@ -1,6 +1,6 @@
 # Phoenix Rising Psychedelic Speakeasy at Analog at Hutton Hotel
 
-Phoenix Rising Psychedelic Speakeasy at Analog at Hutton Hotel on Thu 5 Nov, Nashville. 1 act on the bill: Nutritious. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
+Phoenix Rising Psychedelic Speakeasy at Analog at Hutton Hotel on Thu 5 Nov, Nashville. 1 artist on the bill: Nutritious. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

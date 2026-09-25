@@ -1,6 +1,6 @@
 # Marigold pres S3PPA [NL] & APRD [NL] - [BYO Warehouse Coburg] at TBA - Coburg warehouse 
 
-Marigold pres S3PPA [NL] & APRD [NL] - [BYO Warehouse Coburg] at TBA - Coburg warehouse  on Fri 25 Sept, Melbourne. 3 acts on the bill: JOVE, PEACHI and S3PPA. Trance and House. Preview the line-up and save it on soundcheck.
+Marigold pres S3PPA [NL] & APRD [NL] - [BYO Warehouse Coburg] at TBA - Coburg warehouse  on Fri 25 Sept, Melbourne. 3 artists on the bill: JOVE, PEACHI and S3PPA. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

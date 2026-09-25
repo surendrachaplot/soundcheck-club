@@ -1,6 +1,6 @@
 # Resonance Collective presents Julia Edith Rigby and Kafele Williams at First Congregational Church of Los Angeles
 
-Resonance Collective presents Julia Edith Rigby and Kafele Williams at First Congregational Church of Los Angeles on Sun 27 Sept, Losangeles. Experimental. Preview the line-up and save it on soundcheck.
+Resonance Collective presents Julia Edith Rigby and Kafele Williams at First Congregational Church of Los Angeles on Sun 27 Sept, Los Angeles. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

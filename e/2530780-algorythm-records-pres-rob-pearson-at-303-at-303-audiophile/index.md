@@ -1,6 +1,6 @@
 # Algorythm Records pres. Rob Pearson at 303 at 303 Audiophile Bar
 
-Algorythm Records pres. Rob Pearson at 303 at 303 Audiophile Bar on Fri 2 Oct, Barcelona. 3 acts on the bill: FRAXA, Pol K and Rob Pearson. House and Minimal. Preview the line-up and save it on soundcheck.
+Algorythm Records pres. Rob Pearson at 303 at 303 Audiophile Bar on Fri 2 Oct, Barcelona. 3 artists on the bill: FRAXA, Pol K and Rob Pearson. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

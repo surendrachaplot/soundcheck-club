@@ -1,6 +1,6 @@
 # MADE IN SA - LONDON with Beebar, DA GIFTO & ARTIST LEBO at N7
 
-MADE IN SA - LONDON with Beebar, DA GIFTO & ARTIST LEBO at N7 on Fri 25 Sept, London. 1 act on the bill: Beebar. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+MADE IN SA - LONDON with Beebar, DA GIFTO & ARTIST LEBO at N7 on Fri 25 Sept, London. 1 artist on the bill: Beebar. Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

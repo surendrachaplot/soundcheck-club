@@ -1,6 +1,6 @@
 # MRR pres. BENSON b2b LO'99 at Revolver Upstairs
 
-MRR pres. BENSON b2b LO'99 at Revolver Upstairs on Fri 9 Oct, Melbourne. 1 act on the bill: 1NN3R53LF. House and Garage. Preview the line-up and save it on soundcheck.
+MRR pres. BENSON b2b LO'99 at Revolver Upstairs on Fri 9 Oct, Melbourne. 1 artist on the bill: 1NN3R53LF. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HET VELD: THE SECOND TRANSMISSION at Skatecafe
 
-HET VELD: THE SECOND TRANSMISSION at Skatecafe on Fri 2 Oct, Amsterdam. 4 acts on the bill: gau7t, LOU FRE$H, Mathiéux and MESSIE. House and Garage. Preview the line-up and save it on soundcheck.
+HET VELD: THE SECOND TRANSMISSION at Skatecafe on Fri 2 Oct, Amsterdam. 4 artists on the bill: gau7t, LOU FRE$H, Mathiéux and MESSIE. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

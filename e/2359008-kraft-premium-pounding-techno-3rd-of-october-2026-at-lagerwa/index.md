@@ -1,6 +1,6 @@
 # KRAFT Premium Pounding Techno 3rd of October 2026 at Lagerwal
 
-KRAFT Premium Pounding Techno 3rd of October 2026 at Lagerwal on Sat 3 Oct, Amsterdam. 3 acts on the bill: Avis Vox, DJ Jordan and TheKoosy. Techno and Acid. Preview the line-up and save it on soundcheck.
+KRAFT Premium Pounding Techno 3rd of October 2026 at Lagerwal on Sat 3 Oct, Amsterdam. 3 artists on the bill: Avis Vox, DJ Jordan and TheKoosy. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

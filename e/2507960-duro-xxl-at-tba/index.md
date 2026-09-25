@@ -1,6 +1,6 @@
 # DURO XXL at TBA
 
-DURO XXL at TBA on Sun 11 Oct, Barcelona. 1 act on the bill: Winson Ngoh. Preview the line-up and save it on soundcheck.
+DURO XXL at TBA on Sun 11 Oct, Barcelona. 1 artist on the bill: Winson Ngoh. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

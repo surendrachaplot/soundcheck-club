@@ -1,6 +1,6 @@
 # for folx sake (folk dance meets techno) at TBA - a soft opening (by the Morgan L - rsvp for addy!)
 
-for folx sake (folk dance meets techno) at TBA - a soft opening (by the Morgan L - rsvp for addy!) on Sat 26 Sept, Newyorkcity. 1 act on the bill: ConCon. Techno. Preview the line-up and save it on soundcheck.
+for folx sake (folk dance meets techno) at TBA - a soft opening (by the Morgan L - rsvp for addy!) on Sat 26 Sept, New York City. 1 artist on the bill: ConCon. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

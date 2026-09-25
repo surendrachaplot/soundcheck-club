@@ -1,6 +1,6 @@
 # 240KMH F2F Melbourne at Pica (Port Melbourne Industrial Centre for the Arts)
 
-240KMH F2F Melbourne at Pica (Port Melbourne Industrial Centre for the Arts) on Thu 24 Sept, Melbourne. 10 acts on the bill: AMMARA, ANXHELA, BYØRN and EMILIJA and 6 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+240KMH F2F Melbourne at Pica (Port Melbourne Industrial Centre for the Arts) on Thu 24 Sept, Melbourne. 10 artists on the bill: AMMARA, ANXHELA, BYØRN and EMILIJA and 6 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

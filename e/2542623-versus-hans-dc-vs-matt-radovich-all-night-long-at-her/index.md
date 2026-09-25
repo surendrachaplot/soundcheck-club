@@ -1,6 +1,6 @@
 # VERSUS - Hans DC vs Matt Radovich - All Night Long at Her
 
-VERSUS - Hans DC vs Matt Radovich - All Night Long at Her on Sat 26 Sept, Melbourne. 1 act on the bill: Matt Radovich. Techno and Club. Preview the line-up and save it on soundcheck.
+VERSUS - Hans DC vs Matt Radovich - All Night Long at Her on Sat 26 Sept, Melbourne. 1 artist on the bill: Matt Radovich. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

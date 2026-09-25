@@ -1,6 +1,6 @@
 # Morning Mass pres. Harry Romero at The Comfort Zone
 
-Morning Mass pres. Harry Romero at The Comfort Zone on Sat 17 Oct, Toronto. 3 acts on the bill: Harry Romero, Manzone & Strong and Theta State. Techno. Preview the line-up and save it on soundcheck.
+Morning Mass pres. Harry Romero at The Comfort Zone on Sat 17 Oct, Toronto. 3 artists on the bill: Harry Romero, Manzone & Strong and Theta State. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

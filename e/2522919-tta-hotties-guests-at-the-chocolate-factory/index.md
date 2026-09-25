@@ -1,6 +1,6 @@
 # ØTTA (Hotties) & Guests at The Chocolate Factory
 
-ØTTA (Hotties) & Guests at The Chocolate Factory on Sat 7 Nov, Newyorkcity. 1 act on the bill: ØTTA. Trance and Techno. Preview the line-up and save it on soundcheck.
+ØTTA (Hotties) & Guests at The Chocolate Factory on Sat 7 Nov, New York City. 1 artist on the bill: ØTTA. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

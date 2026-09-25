@@ -1,6 +1,6 @@
 # koti parti playground #2 at The DBA
 
-koti parti playground #2 at The DBA on Wed 30 Sept, Manchester. 2 acts on the bill: FAGASH and Jarvis Bitcoin. Bass and Club. Preview the line-up and save it on soundcheck.
+koti parti playground #2 at The DBA on Wed 30 Sept, Manchester. 2 artists on the bill: FAGASH and Jarvis Bitcoin. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

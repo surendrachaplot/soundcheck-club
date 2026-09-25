@@ -1,6 +1,6 @@
 # Wiggle Halloween Spookathon at Gaffe
 
-Wiggle Halloween Spookathon at Gaffe on Sat 31 Oct, London. 8 acts on the bill: 3 Minds, Eddie Richards, Georgia Girl and Harry McCanna and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Wiggle Halloween Spookathon at Gaffe on Sat 31 Oct, London. 8 artists on the bill: 3 Minds, Eddie Richards, Georgia Girl and Harry McCanna and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Miguel Bastida - Área Costanera Quilmes - ALLMusicParties at TBA - Area Costanera, Quilmes
 
-Miguel Bastida - Área Costanera Quilmes - ALLMusicParties at TBA - Area Costanera, Quilmes on Sun 11 Oct, Buenosaires. 1 act on the bill: Miguel Bastida. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Miguel Bastida - Área Costanera Quilmes - ALLMusicParties at TBA - Area Costanera, Quilmes on Sun 11 Oct, Buenos Aires. 1 artist on the bill: Miguel Bastida. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

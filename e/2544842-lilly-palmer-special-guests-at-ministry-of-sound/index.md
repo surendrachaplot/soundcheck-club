@@ -1,6 +1,6 @@
 # Lilly Palmer + SPECIAL GUESTS at Ministry Of Sound
 
-Lilly Palmer + SPECIAL GUESTS at Ministry Of Sound on Sat 7 Nov, London. 5 acts on the bill: Chanel Carmichael, Leena Punks, Lilly Palmer and P.O.U and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Lilly Palmer + SPECIAL GUESTS at Ministry Of Sound on Sat 7 Nov, London. 5 artists on the bill: Chanel Carmichael, Leena Punks, Lilly Palmer and P.O.U and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

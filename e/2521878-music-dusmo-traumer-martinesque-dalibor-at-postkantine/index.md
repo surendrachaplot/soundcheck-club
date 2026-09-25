@@ -1,6 +1,6 @@
 # music.dusmo: Traumer · Martinesque · Dalibor at Postkantine
 
-music.dusmo: Traumer · Martinesque · Dalibor at Postkantine on Sat 26 Sept, Basel. 2 acts on the bill: Martinesque and Traumer. Preview the line-up and save it on soundcheck.
+music.dusmo: Traumer · Martinesque · Dalibor at Postkantine on Sat 26 Sept, Basel. 2 artists on the bill: Martinesque and Traumer. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

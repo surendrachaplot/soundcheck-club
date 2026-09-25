@@ -1,6 +1,6 @@
 # Future Yard presents BODEGA at Future Yard
 
-Future Yard presents BODEGA on Fri 27 Nov, Liverpool. 1 act on the bill: Bodega. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
+Future Yard presents BODEGA on Fri 27 Nov, Liverpool. 1 artist on the bill: Bodega. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

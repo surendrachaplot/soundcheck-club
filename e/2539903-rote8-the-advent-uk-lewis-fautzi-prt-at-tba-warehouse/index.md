@@ -1,6 +1,6 @@
 # ROTE8: The Advent (UK) & Lewis Fautzi (PRT) at TBA - Warehouse
 
-ROTE8: The Advent (UK) & Lewis Fautzi (PRT) at TBA - Warehouse on Sat 10 Oct, Toronto. 4 acts on the bill: Lee Osborne, Lewis Fautzi, Marivs and The Advent. Techno and Electronica. Preview the line-up and save it on soundcheck.
+ROTE8: The Advent (UK) & Lewis Fautzi (PRT) at TBA - Warehouse on Sat 10 Oct, Toronto. 4 artists on the bill: Lee Osborne, Lewis Fautzi, Marivs and The Advent. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

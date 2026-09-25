@@ -1,6 +1,6 @@
 # manic.monday mit Sebastian Rebig at Minimal Bar
 
-manic.monday mit Sebastian Rebig at Minimal Bar on Mon 26 Oct, Berlin. 1 act on the bill: Sebastian Rebig. Preview the line-up and save it on soundcheck.
+manic.monday mit Sebastian Rebig at Minimal Bar on Mon 26 Oct, Berlin. 1 artist on the bill: Sebastian Rebig. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

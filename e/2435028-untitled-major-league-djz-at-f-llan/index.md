@@ -1,6 +1,6 @@
 # UNTITLED: Major League Djz at Fållan
 
-UNTITLED: Major League Djz at Fållan on Fri 11 Dec, Stockholm. 2 acts on the bill: JAMIIE and Major League Djz. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+UNTITLED: Major League Djz at Fållan on Fri 11 Dec, Stockholm. 2 artists on the bill: JAMIIE and Major League Djz. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

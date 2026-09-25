@@ -1,6 +1,6 @@
 # Kumquat 10 Years Anniversary in Paris – All Day Long at Auber Garden
 
-Kumquat 10 Years Anniversary in Paris – All Day Long at Auber Garden on Sat 26 Sept, Paris. 3 acts on the bill: ABI (FR), One Tough Cookie and Venard. House and Minimal. Preview the line-up and save it on soundcheck.
+Kumquat 10 Years Anniversary in Paris – All Day Long at Auber Garden on Sat 26 Sept, Paris. 3 artists on the bill: ABI (FR), One Tough Cookie and Venard. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

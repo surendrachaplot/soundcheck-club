@@ -1,6 +1,6 @@
 # Beate Invites /// HOUSE QUEENS at Beate Uwe
 
-Beate Invites /// HOUSE QUEENS at Beate Uwe on Sat 21 Nov, Berlin. 7 acts on the bill: Cardi-O, Kristina Sheli, LIZZN and MC-K and 3 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Beate Invites /// HOUSE QUEENS at Beate Uwe on Sat 21 Nov, Berlin. 7 artists on the bill: Cardi-O, Kristina Sheli, LIZZN and MC-K and 3 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

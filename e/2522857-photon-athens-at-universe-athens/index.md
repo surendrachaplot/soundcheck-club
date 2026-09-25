@@ -1,6 +1,6 @@
 # PHOTON ATHENS at Universe Athens
 
-PHOTON ATHENS at Universe Athens on Sat 7 Nov, Athens. 5 acts on the bill: Ben Klock, Cirkle, Colin Benders and MARRØN and 1 more. Preview the line-up and save it on soundcheck.
+PHOTON ATHENS at Universe Athens on Sat 7 Nov, Athens. 5 artists on the bill: Ben Klock, Cirkle, Colin Benders and MARRØN and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Miscmeg is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Miscellania, Melbourne on Fri, 25 Sept 2026.
 
-Miscmeg is a tech house and techno artist tracked on soundcheck, with 67 sets logged across Berlin, Copenhagen, Melbourne and Newyorkcity. Often billed alongside Reptant, Paper-Cuts and Moopie. Next up: Miscellania, Melbourne on Fri 25 Sept.
+Miscmeg is a tech house and techno artist tracked on soundcheck, with 67 sets logged across Berlin, Copenhagen, Melbourne and New York City. Often billed alongside Reptant, Paper-Cuts and Moopie. Next up: Miscellania, Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 

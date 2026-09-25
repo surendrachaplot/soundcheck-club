@@ -1,6 +1,6 @@
 # Rafael Cerato at Suma Han
 
-Rafael Cerato at Suma Han on Sat 26 Sept, Istanbul. 1 act on the bill: Rafael Cerato. Tech House and Club. Preview the line-up and save it on soundcheck.
+Rafael Cerato at Suma Han on Sat 26 Sept, Istanbul. 1 artist on the bill: Rafael Cerato. Tech House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

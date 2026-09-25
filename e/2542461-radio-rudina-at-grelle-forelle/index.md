@@ -1,6 +1,6 @@
 # Radio Rudina at Grelle Forelle
 
-Radio Rudina at Grelle Forelle on Sat 10 Oct, Vienna. 6 acts on the bill: AEND, Bambi-S, CHERCHES and COBRA and 2 more. House and Garage. Preview the line-up and save it on soundcheck.
+Radio Rudina at Grelle Forelle on Sat 10 Oct, Vienna. 6 artists on the bill: AEND, Bambi-S, CHERCHES and COBRA and 2 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

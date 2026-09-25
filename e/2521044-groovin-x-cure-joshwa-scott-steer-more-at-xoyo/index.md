@@ -1,6 +1,6 @@
 # Groovin' x Cure || Joshwa, SCOTT STEER + more at XOYO
 
-Groovin' x Cure || Joshwa, SCOTT STEER + more at XOYO on Sat 17 Oct, London. 2 acts on the bill: Joshwa and Micah Baxter. House and Tech House. Preview the line-up and save it on soundcheck.
+Groovin' x Cure || Joshwa, SCOTT STEER + more at XOYO on Sat 17 Oct, London. 2 artists on the bill: Joshwa and Micah Baxter. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

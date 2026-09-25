@@ -1,6 +1,6 @@
 # Mister Teaser + ERRE at TBA - Madame Travessa (Porto)
 
-Mister Teaser + ERRE at TBA - Madame Travessa (Porto) on Fri 25 Sept, Porto. 1 act on the bill: Mister Teaser. Electro and Electronica. Preview the line-up and save it on soundcheck.
+Mister Teaser + ERRE at TBA - Madame Travessa (Porto) on Fri 25 Sept, Porto. 1 artist on the bill: Mister Teaser. Electro and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

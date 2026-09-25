@@ -1,6 +1,6 @@
 # Mood at TBA
 
-Mood at TBA on Sat 3 Oct, Portland. 1 act on the bill: Vignette. House. Preview the line-up and save it on soundcheck.
+Mood at TBA on Sat 3 Oct, Portland. 1 artist on the bill: Vignette. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

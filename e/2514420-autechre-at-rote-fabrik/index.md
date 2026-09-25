@@ -1,6 +1,6 @@
 # Autechre at Rote Fabrik
 
-Autechre at Rote Fabrik on Fri 25 Sept, Zurich. 1 act on the bill: Autechre. Preview the line-up and save it on soundcheck.
+Autechre at Rote Fabrik on Fri 25 Sept, Zurich. 1 artist on the bill: Autechre. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

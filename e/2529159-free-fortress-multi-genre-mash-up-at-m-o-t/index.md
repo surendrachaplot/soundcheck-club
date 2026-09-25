@@ -1,6 +1,6 @@
 # [FREE] FORTRESS - Multi Genre Mash Up at M.O.T
 
-[FREE] FORTRESS - Multi Genre Mash Up at M.O.T on Thu 22 Oct, London. 5 acts on the bill: elesdj, MIDRIB, nowah and Tallboy and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+[FREE] FORTRESS - Multi Genre Mash Up at M.O.T on Thu 22 Oct, London. 5 artists on the bill: elesdj, MIDRIB, nowah and Tallboy and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

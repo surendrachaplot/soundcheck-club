@@ -1,6 +1,6 @@
 # Freeze HiFi Saturday Nights - Ian Longo Classic House Vinyl Set plus Residents at Freeze HiFi
 
-Freeze HiFi Saturday Nights - Ian Longo Classic House Vinyl Set plus Residents on Sat 26 Sept, Liverpool. 1 act on the bill: Subcisco. House. Preview the line-up and save it on soundcheck.
+Freeze HiFi Saturday Nights - Ian Longo Classic House Vinyl Set plus Residents on Sat 26 Sept, Liverpool. 1 artist on the bill: Subcisco. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

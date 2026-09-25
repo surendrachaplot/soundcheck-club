@@ -1,14 +1,15 @@
 # CZART
 
-CZART is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Smolna, Warsaw on Fri, 16 Oct 2026.
+CZART is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Smolna, Warsaw on Fri, 16 Oct 2026.
 
-CZART is a house and techno artist based in Poland, tracked on soundcheck, with 14 sets logged across Warsaw. Often billed alongside SIBIGA, Kasia DVD and PNST. Next up: Smolna, Warsaw on Fri 16 Oct.
+CZART is a techno and house artist based in Poland, tracked on soundcheck, with 15 sets logged across Warsaw. Often billed alongside SIBIGA, Kasia DVD and PNST. Next up: Smolna, Warsaw on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Smolna | Warsaw |
+| Fri, 13 Nov 2026 | Smolna | Warsaw |
 
 ## Recently played
 

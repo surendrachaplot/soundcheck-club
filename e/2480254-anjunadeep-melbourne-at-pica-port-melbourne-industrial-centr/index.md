@@ -1,6 +1,6 @@
 # Anjunadeep [Melbourne] at Pica (Port Melbourne Industrial Centre for the Arts)
 
-Anjunadeep [Melbourne] at Pica (Port Melbourne Industrial Centre for the Arts) on Sat 5 Dec, Melbourne. 5 acts on the bill: Catching Flies, Dosem, Eli & Fur and Jody Wisternoff and 1 more. Preview the line-up and save it on soundcheck.
+Anjunadeep [Melbourne] at Pica (Port Melbourne Industrial Centre for the Arts) on Sat 5 Dec, Melbourne. 5 artists on the bill: Catching Flies, Dosem, Eli & Fur and Jody Wisternoff and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

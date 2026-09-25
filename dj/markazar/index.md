@@ -2,7 +2,7 @@
 
 Mark Azar is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tigres de la Noche, Washington DC on Sat, 31 Oct 2026.
 
-Mark Azar is a house and tech house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Miami, Newyorkcity and Washingtondc. Often billed alongside AJAMU, Mazlow and Bridget. Next up: Tigres de la Noche, Washingtondc on Sat 31 Oct.
+Mark Azar is a house and tech house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Miami, New York City and Washington DC. Often billed alongside AJAMU, Mazlow and Bridget. Next up: Tigres de la Noche, Washington DC on Sat 31 Oct.
 
 ## Upcoming shows
 

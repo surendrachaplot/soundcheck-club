@@ -2,7 +2,7 @@
 
 Alistair is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at House of Yes, New York City on Sat, 26 Sept 2026.
 
-Alistair is a house and techno artist based in Brazil, tracked on soundcheck, with 5 sets logged across London, Newyorkcity and Saopaulo. Often billed alongside Tessuto, Angelica Moller and Anhanguera. Next up: House of Yes, Newyorkcity on Sat 26 Sept.
+Alistair is a house and techno artist based in Brazil, tracked on soundcheck, with 5 sets logged across London, New York City and Sao Paulo. Often billed alongside Tessuto, Angelica Moller and Anhanguera. Next up: House of Yes, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

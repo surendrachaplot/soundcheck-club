@@ -1,6 +1,6 @@
 # MAD KATZ mit Marcel Dettmann & Rene Wise at Hive Club
 
-MAD KATZ mit Marcel Dettmann & Rene Wise at Hive Club on Fri 18 Dec, Zurich. 2 acts on the bill: Marcel Dettmann and Rene Wise. Preview the line-up and save it on soundcheck.
+MAD KATZ mit Marcel Dettmann & Rene Wise at Hive Club on Fri 18 Dec, Zurich. 2 artists on the bill: Marcel Dettmann and Rene Wise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MIRA RIO apresenta Mad Professor at Quinta Mira Rio
 
-MIRA RIO apresenta Mad Professor at Quinta Mira Rio on Fri 25 Sept, Lisbon. 3 acts on the bill: ANYA JAVYBZ, Mad Professor and Seiji Ono. Preview the line-up and save it on soundcheck.
+MIRA RIO apresenta Mad Professor at Quinta Mira Rio on Fri 25 Sept, Lisbon. 3 artists on the bill: ANYA JAVYBZ, Mad Professor and Seiji Ono. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

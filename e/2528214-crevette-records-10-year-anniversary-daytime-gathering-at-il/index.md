@@ -1,6 +1,6 @@
 # CREVETTE RECORDS - 10 YEAR ANNIVERSARY - DAYTIME GATHERING at Illegaal
 
-CREVETTE RECORDS - 10 YEAR ANNIVERSARY - DAYTIME GATHERING at Illegaal on Sat 24 Oct, Brussels. 3 acts on the bill: Kuba'97, Leef and Malo Z. Techno and House. Preview the line-up and save it on soundcheck.
+CREVETTE RECORDS - 10 YEAR ANNIVERSARY - DAYTIME GATHERING at Illegaal on Sat 24 Oct, Brussels. 3 artists on the bill: Kuba'97, Leef and Malo Z. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

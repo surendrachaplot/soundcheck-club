@@ -2,7 +2,7 @@
 
 Moonglow Oakland is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "DJ CARO at Moonglow" on Thu, 24 Sept 2026.
 
-Moonglow Oakland is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming gigs, with line-ups including Davey Ultra and DJ CARO. Browse upcoming dates, start times and who's playing. 1900 Telegraph Ave, Oakland, CA 94612, USA.
+Moonglow Oakland is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs, with line-ups including Davey Ultra and DJ CARO. Browse upcoming dates, start times and who's playing. 1900 Telegraph Ave, Oakland, CA 94612, USA.
 
 ## What's on
 

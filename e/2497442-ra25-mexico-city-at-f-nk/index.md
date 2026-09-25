@@ -1,6 +1,6 @@
 # RA25: Mexico City at Fünk
 
-RA25: Mexico City at Fünk on Sat 17 Oct, Mexicocity. 4 acts on the bill: BADSISTA, Bluecommand, Pearson Sound and Valeriana. Preview the line-up and save it on soundcheck.
+RA25: Mexico City at Fünk on Sat 17 Oct, Mexico City. 4 artists on the bill: BADSISTA, Bluecommand, Pearson Sound and Valeriana. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

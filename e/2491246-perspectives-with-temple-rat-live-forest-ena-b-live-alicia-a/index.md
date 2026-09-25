@@ -1,6 +1,6 @@
 # perspectives• with temple rat (live), forest, ena b. (live), alicia and annx at Club Cheek
 
-perspectives• with temple rat (live), forest, ena b. (live), alicia and annx at Club Cheek on Sun 27 Sept, London. 5 acts on the bill: Alicia (UK), ANNX, ena b. and Forest and 1 more. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+perspectives• with temple rat (live), forest, ena b. (live), alicia and annx at Club Cheek on Sun 27 Sept, London. 5 artists on the bill: Alicia (UK), ANNX, ena b. and Forest and 1 more. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

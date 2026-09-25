@@ -1,6 +1,6 @@
 # MIS·BEHAVE at Mellowpark
 
-MIS·BEHAVE at Mellowpark on Sat 26 Sept, Berlin. 8 acts on the bill: DJ SPORTSCHUH, Euphrat, francesca (DE) and KLATTE and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+MIS·BEHAVE at Mellowpark on Sat 26 Sept, Berlin. 8 artists on the bill: DJ SPORTSCHUH, Euphrat, francesca (DE) and KLATTE and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

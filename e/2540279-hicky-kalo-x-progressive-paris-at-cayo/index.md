@@ -1,6 +1,6 @@
 # Hicky & Kalo x PROGRESSIVE PARIS at Cayo
 
-Hicky & Kalo x PROGRESSIVE PARIS at Cayo on Sat 17 Oct, Paris. 1 act on the bill: Hicky & Kalo. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
+Hicky & Kalo x PROGRESSIVE PARIS at Cayo on Sat 17 Oct, Paris. 1 artist on the bill: Hicky & Kalo. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

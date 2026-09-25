@@ -1,6 +1,6 @@
 # The Disco Express: Mexico City at Departamento
 
-The Disco Express: Mexico City at Departamento on Fri 25 Sept, Mexicocity. 3 acts on the bill: EsLozano, Flow de Luna and Nico Raibak. House and Disco. Preview the line-up and save it on soundcheck.
+The Disco Express: Mexico City at Departamento on Fri 25 Sept, Mexico City. 3 artists on the bill: EsLozano, Flow de Luna and Nico Raibak. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

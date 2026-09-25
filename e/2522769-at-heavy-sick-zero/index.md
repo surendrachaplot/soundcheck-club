@@ -1,6 +1,6 @@
 # すえぽんリリパ感謝祭 at Heavy Sick Zero
 
-すえぽんリリパ感謝祭 at Heavy Sick Zero on Sat 26 Sept, Tokyo. 4 acts on the bill: HOBOBRAZIL, KOTARO (2), MDMC and monielu.h. Electro and Acid. Preview the line-up and save it on soundcheck.
+すえぽんリリパ感謝祭 at Heavy Sick Zero on Sat 26 Sept, Tokyo. 4 artists on the bill: HOBOBRAZIL, KOTARO, MDMC and monielu.h. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

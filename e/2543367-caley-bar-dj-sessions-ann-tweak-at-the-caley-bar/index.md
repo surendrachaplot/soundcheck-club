@@ -1,6 +1,6 @@
 # Caley Bar DJ Sessions: Ann Tweak at The Caley Bar
 
-Caley Bar DJ Sessions: Ann Tweak at The Caley Bar on Fri 25 Sept, Edinburgh. 1 act on the bill: Ann Tweak. Disco. Preview the line-up and save it on soundcheck.
+Caley Bar DJ Sessions: Ann Tweak at The Caley Bar on Fri 25 Sept, Edinburgh. 1 artist on the bill: Ann Tweak. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

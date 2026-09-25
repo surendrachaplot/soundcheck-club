@@ -1,6 +1,6 @@
 # KRYLA at Stereo
 
-KRYLA at Stereo on Fri 9 Oct, Glasgow. 4 acts on the bill: Gourlay, Iona.Violet, naidonovka and Quail. Techno. Preview the line-up and save it on soundcheck.
+KRYLA at Stereo on Fri 9 Oct, Glasgow. 4 artists on the bill: Gourlay, Iona.Violet, naidonovka and Quail. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

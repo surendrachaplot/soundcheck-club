@@ -1,6 +1,6 @@
 # Sameheads x Salon des Amateurs at Salon des Amateurs
 
-Sameheads x Salon des Amateurs on Sat 10 Oct, Dusseldorf. 3 acts on the bill: An-i, Lucas Croon and Tornado Wallace. Preview the line-up and save it on soundcheck.
+Sameheads x Salon des Amateurs on Sat 10 Oct, Düsseldorf. 3 artists on the bill: An-i, Lucas Croon and Tornado Wallace. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Potion at Apotheke
 
-Potion at Apotheke on Fri 25 Sept, Losangeles. 2 acts on the bill: Glo Phase and Shark. House and Disco. Preview the line-up and save it on soundcheck.
+Potion at Apotheke on Fri 25 Sept, Los Angeles. 2 artists on the bill: Glo Phase and Shark. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

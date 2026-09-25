@@ -2,7 +2,7 @@
 
 EscaFlowne is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nowadays, New York City on Sat, 17 Oct 2026.
 
-EscaFlowne is a techno and house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Denver, Losangeles, Mexicocity and Newyorkcity and 2 more. Often billed alongside fleet.dreams, Nick Boyd and Rose Kourts. Next up: Nowadays, Newyorkcity on Sat 17 Oct.
+EscaFlowne is a techno and house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Denver, Los Angeles, Mexico City and New York City and 2 more. Often billed alongside fleet.dreams, Nick Boyd and Rose Kourts. Next up: Nowadays, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # RAVELAND: Gabber, Hardcore & Hardstyle at John Doe
 
-RAVELAND: Gabber, Hardcore & Hardstyle at John Doe on Wed 30 Sept, Amsterdam. 2 acts on the bill: Robin Hastings and saskia laval. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+RAVELAND: Gabber, Hardcore & Hardstyle at John Doe on Wed 30 Sept, Amsterdam. 2 artists on the bill: Robin Hastings and saskia laval. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

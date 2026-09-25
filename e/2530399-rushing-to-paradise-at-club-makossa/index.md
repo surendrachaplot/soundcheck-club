@@ -1,6 +1,6 @@
 # Rushing To Paradise at Club Makossa
 
-Rushing To Paradise at Club Makossa on Thu 8 Oct, London. 1 act on the bill: DAMO. House and Disco. Preview the line-up and save it on soundcheck.
+Rushing To Paradise at Club Makossa on Thu 8 Oct, London. 1 artist on the bill: DAMO. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

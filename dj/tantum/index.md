@@ -2,7 +2,7 @@
 
 Tantum is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pasaje America, Mexico City on Sat, 26 Sept 2026.
 
-Tantum is a progressive house and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Buenosaires and Madrid and 3 more. Often billed alongside Hyunji-A, Guy J and Max Hendricks. Next up: Pasaje America, Mexicocity on Sat 26 Sept.
+Tantum is a progressive house and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Buenos Aires and Madrid and 3 more. Often billed alongside Hyunji-A, Guy J and Max Hendricks. Next up: Pasaje America, Mexico City on Sat 26 Sept.
 
 ## Upcoming shows
 

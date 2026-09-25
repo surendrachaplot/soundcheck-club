@@ -1,6 +1,6 @@
 # Jungle, Breaks, D&B, Bass Music - Mantra & Dwarde [UK] at Social Room
 
-Jungle, Breaks, D&B, Bass Music - Mantra & Dwarde [UK] at Social Room on Fri 25 Sept, Hongkong. 7 acts on the bill: 1908, DJ FU (2), Dwarde and GONG! and 3 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Jungle, Breaks, D&B, Bass Music - Mantra & Dwarde [UK] at Social Room on Fri 25 Sept, Hong Kong. 7 artists on the bill: 1908, DJ FU, Dwarde and GONG! and 3 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Frædag x MUD X SSO: Kevin Sanderson + Waajeed + R-ZO at Jaeger
 
-Frædag x MUD X SSO: Kevin Sanderson + Waajeed + R-ZO at Jaeger on Fri 2 Oct, Oslo. 5 acts on the bill: G-HA, Kevin Saunderson, Olanskii and Soldal and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Frædag x MUD X SSO: Kevin Sanderson + Waajeed + R-ZO at Jaeger on Fri 2 Oct, Oslo. 5 artists on the bill: G-HA, Kevin Saunderson, Olanskii and Soldal and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

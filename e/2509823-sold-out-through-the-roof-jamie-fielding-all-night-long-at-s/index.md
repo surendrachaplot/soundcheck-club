@@ -1,6 +1,6 @@
 # *SOLD OUT* Through The Roof // Jamie Fielding [All Night Long] at Sub Club
 
-*SOLD OUT* Through The Roof // Jamie Fielding [All Night Long] at Sub Club on Sun 13 Dec, Glasgow. 1 act on the bill: Jamie Fielding. House and Minimal. Preview the line-up and save it on soundcheck.
+*SOLD OUT* Through The Roof // Jamie Fielding [All Night Long] at Sub Club on Sun 13 Dec, Glasgow. 1 artist on the bill: Jamie Fielding. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

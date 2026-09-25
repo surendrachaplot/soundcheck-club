@@ -2,7 +2,7 @@
 
 ML (1) is a Club and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Botanique, Brussels on Sat, 28 Nov 2026.
 
-ML (1) is a club and drum & bass artist based in Germany, tracked on soundcheck, with 18 sets logged across Austin, Berlin, Bristol and Brussels and 1 more. Often billed alongside Ozan Maral, Jürgen Ratan and Nosedrip. Next up: Botanique, Brussels on Sat 28 Nov.
+ML is a club and drum & bass artist based in Germany, tracked on soundcheck, with 18 sets logged across Austin, Berlin, Bristol and Brussels and 1 more. Often billed alongside Ozan Maral, Jürgen Ratan and Nosedrip. Next up: Botanique, Brussels on Sat 28 Nov.
 
 ## Upcoming shows
 

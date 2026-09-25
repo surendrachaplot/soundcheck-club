@@ -1,6 +1,6 @@
 # ESSENCE - House - Melodic Techno - Techno at Lastriko
 
-ESSENCE - House - Melodic Techno - Techno at Lastriko on Sat 17 Oct, Krakow. 2 acts on the bill: Oscar Thous and SA:FIR. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+ESSENCE - House - Melodic Techno - Techno at Lastriko on Sat 17 Oct, Krakow. 2 artists on the bill: Oscar Thous and SA:FIR. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

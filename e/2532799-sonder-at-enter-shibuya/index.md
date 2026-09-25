@@ -1,6 +1,6 @@
 # SONDER at Enter Shibuya
 
-SONDER at Enter Shibuya on Sat 26 Sept, Tokyo. 4 acts on the bill: Andreas Vural, B (379), Katz 25 and TARO TOKO. Tech House. Preview the line-up and save it on soundcheck.
+SONDER at Enter Shibuya on Sat 26 Sept, Tokyo. 4 artists on the bill: Andreas Vural, B, Katz 25 and TARO TOKO. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

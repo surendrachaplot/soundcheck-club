@@ -2,7 +2,7 @@
 
 Objekt is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at St. Bartholomew's Church, New York City on Sat, 26 Sept 2026.
 
-Objekt is a techno and bass artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Auckland and Austin and 57 more. Often billed alongside CCL, DjRUM and Call Super. Next up: St. Bartholomew's Church, Newyorkcity on Sat 26 Sept.
+Objekt is a techno and bass artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Auckland and Austin and 57 more. Often billed alongside CCL, DjRUM and Call Super. Next up: St. Bartholomew's Church, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

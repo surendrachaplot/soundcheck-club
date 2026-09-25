@@ -1,6 +1,6 @@
 # Sounds Like London: Roska, Klose One + Mike Chin at Ninety One
 
-Sounds Like London: Roska, Klose One + Mike Chin at Ninety One on Sat 24 Oct, London. 2 acts on the bill: Klose One and Roska. Garage and UK Funky. Preview the line-up and save it on soundcheck.
+Sounds Like London: Roska, Klose One + Mike Chin at Ninety One on Sat 24 Oct, London. 2 artists on the bill: Klose One and Roska. Garage and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

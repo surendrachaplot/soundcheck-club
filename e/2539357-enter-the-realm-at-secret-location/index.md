@@ -1,6 +1,6 @@
 # ENTER THE REALM at Secret Location
 
-ENTER THE REALM at Secret Location on Sat 26 Sept, London. 1 act on the bill: Gareth Wild. Techno and House. Preview the line-up and save it on soundcheck.
+ENTER THE REALM at Secret Location on Sat 26 Sept, London. 1 artist on the bill: Gareth Wild. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

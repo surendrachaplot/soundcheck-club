@@ -1,6 +1,6 @@
 # SUNANDBASS Recordings x Integral Records x Makino at Notting Hill Arts Club
 
-SUNANDBASS Recordings x Integral Records x Makino at Notting Hill Arts Club on Fri 25 Sept, London. 4 acts on the bill: Bailey (UK), DJ Emma G, Fonts and Zar.. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+SUNANDBASS Recordings x Integral Records x Makino at Notting Hill Arts Club on Fri 25 Sept, London. 4 artists on the bill: Bailey (UK), DJ Emma G, Fonts and Zar.. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

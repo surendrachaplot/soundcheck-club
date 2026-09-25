@@ -1,6 +1,6 @@
 # Echoes at Blackbox.
 
-Echoes at Blackbox. on Fri 13 Nov, Nurnberg. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Echoes at Blackbox. on Fri 13 Nov, Nürnberg. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

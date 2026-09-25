@@ -1,6 +1,6 @@
 # Mala Junta: Yazzus / Akua / FASHION / DJ TOOL / Kilopatrah Jones / Alfonso Javier at BASEMENT
 
-Mala Junta: Yazzus / Akua / FASHION / DJ TOOL / Kilopatrah Jones / Alfonso Javier at BASEMENT on Sat 10 Oct, Newyorkcity. 6 acts on the bill: Akua, Alfonso Javier, DJ TOOL and FASHION (US) and 2 more. Preview the line-up and save it on soundcheck.
+Mala Junta: Yazzus / Akua / FASHION / DJ TOOL / Kilopatrah Jones / Alfonso Javier at BASEMENT on Sat 10 Oct, New York City. 6 artists on the bill: Akua, Alfonso Javier, DJ TOOL and FASHION (US) and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

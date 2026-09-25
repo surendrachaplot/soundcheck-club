@@ -1,6 +1,6 @@
 # Polka Dot Disco Club invites SHERELLE ♡ Sub Club ‪‪♡ at Sub Club
 
-Polka Dot Disco Club invites SHERELLE ♡ Sub Club ‪‪♡ on Fri 6 Nov, Glasgow. 2 acts on the bill: Frankie Elyse and SHERELLE. Footwork and Jungle. Preview the line-up and save it on soundcheck.
+Polka Dot Disco Club invites SHERELLE ♡ Sub Club ‪‪♡ on Fri 6 Nov, Glasgow. 2 artists on the bill: Frankie Elyse and SHERELLE. Footwork and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

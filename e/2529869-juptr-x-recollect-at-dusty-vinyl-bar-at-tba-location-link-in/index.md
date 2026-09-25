@@ -1,6 +1,6 @@
 # JUPTR X RECOLLECT AT DUSTY VINYL BAR at TBA - Location Link in Bio on Instagram @recollectunderground
 
-JUPTR X RECOLLECT AT DUSTY VINYL BAR at TBA - Location Link in Bio on Instagram @recollectunderground on Fri 25 Sept, Losangeles. 2 acts on the bill: Aplex and Plavka. House. Preview the line-up and save it on soundcheck.
+JUPTR X RECOLLECT AT DUSTY VINYL BAR at TBA - Location Link in Bio on Instagram @recollectunderground on Fri 25 Sept, Los Angeles. 2 artists on the bill: Aplex and Plavka. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

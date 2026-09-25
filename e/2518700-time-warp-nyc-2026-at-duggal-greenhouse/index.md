@@ -1,6 +1,6 @@
 # Time Warp NYC 2026 at Duggal Greenhouse
 
-Time Warp NYC 2026 at Duggal Greenhouse on Fri 20 Nov, Newyorkcity. 21 acts on the bill: Adiel, Âme, Anetha and Annie Lew and 17 more. Techno and House. Preview the line-up and save it on soundcheck.
+Time Warp NYC 2026 at Duggal Greenhouse on Fri 20 Nov, New York City. 21 artists on the bill: Adiel, Âme, Anetha and Annie Lew and 17 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

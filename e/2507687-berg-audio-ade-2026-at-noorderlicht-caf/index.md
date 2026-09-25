@@ -1,6 +1,6 @@
 # Berg Audio • ADE 2026 at Noorderlicht Café
 
-Berg Audio • ADE 2026 at Noorderlicht Café on Sun 25 Oct, Amsterdam. 8 acts on the bill: Andre Kronert, Andrey Pushkarev, Celine Roman and COZi and 4 more. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Berg Audio • ADE 2026 at Noorderlicht Café on Sun 25 Oct, Amsterdam. 8 artists on the bill: Andre Kronert, Andrey Pushkarev, Celine Roman and COZi and 4 more. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

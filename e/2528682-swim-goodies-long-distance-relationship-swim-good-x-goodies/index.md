@@ -1,6 +1,6 @@
 # Swim GOODIES: long distance relationship (Swim Good x GOODIES) at Lieberscholli
 
-Swim GOODIES: long distance relationship (Swim Good x GOODIES) at Lieberscholli on Fri 9 Oct, Munich. 3 acts on the bill: ALBA (3), Sonia Sol and Stimulus. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Swim GOODIES: long distance relationship (Swim Good x GOODIES) at Lieberscholli on Fri 9 Oct, Munich. 3 artists on the bill: ALBA, Sonia Sol and Stimulus. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

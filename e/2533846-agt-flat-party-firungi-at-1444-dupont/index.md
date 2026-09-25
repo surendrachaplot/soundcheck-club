@@ -1,6 +1,6 @@
 # AGT FLAT PARTY - Firungi at 1444 Dupont
 
-AGT FLAT PARTY - Firungi at 1444 Dupont on Fri 16 Oct, Toronto. 2 acts on the bill: Firungi and ZZORAWAR. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+AGT FLAT PARTY - Firungi at 1444 Dupont on Fri 16 Oct, Toronto. 2 artists on the bill: Firungi and ZZORAWAR. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

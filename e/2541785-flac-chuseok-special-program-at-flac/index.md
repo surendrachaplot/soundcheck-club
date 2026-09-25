@@ -1,6 +1,6 @@
 # Flac: Chuseok Special Program at Flac
 
-Flac: Chuseok Special Program on Sat 26 Sept, Seoul. 1 act on the bill: Sudowoo. House and Tech House. Preview the line-up and save it on soundcheck.
+Flac: Chuseok Special Program on Sat 26 Sept, Seoul. 1 artist on the bill: Sudowoo. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

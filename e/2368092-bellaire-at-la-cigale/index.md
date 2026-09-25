@@ -1,6 +1,6 @@
 # Bellaire at La Cigale
 
-Bellaire at La Cigale on Thu 8 Oct, Paris. 1 act on the bill: Bellaire. House and Disco. Preview the line-up and save it on soundcheck.
+Bellaire at La Cigale on Thu 8 Oct, Paris. 1 artist on the bill: Bellaire. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

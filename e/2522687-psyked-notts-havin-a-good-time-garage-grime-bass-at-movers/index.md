@@ -1,6 +1,6 @@
 # Psyked Notts: Havin' A Good Time [GARAGE, GRIME, BASS] at Movers
 
-Psyked Notts: Havin' A Good Time [GARAGE, GRIME, BASS] at Movers on Thu 24 Sept, Nottingham. 2 acts on the bill: Milzy and TABZ. Garage and Grime. Preview the line-up and save it on soundcheck.
+Psyked Notts: Havin' A Good Time [GARAGE, GRIME, BASS] at Movers on Thu 24 Sept, Nottingham. 2 artists on the bill: Milzy and TABZ. Garage and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

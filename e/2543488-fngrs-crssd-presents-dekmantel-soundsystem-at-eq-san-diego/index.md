@@ -1,6 +1,6 @@
 # FNGRS CRSSD presents Dekmantel Soundsystem at EQ San Diego
 
-FNGRS CRSSD presents Dekmantel Soundsystem at EQ San Diego on Fri 13 Nov, Sandiego. 3 acts on the bill: Dekmantel Soundsystem, Max Web and Naone. Preview the line-up and save it on soundcheck.
+FNGRS CRSSD presents Dekmantel Soundsystem at EQ San Diego on Fri 13 Nov, San Diego. 3 artists on the bill: Dekmantel Soundsystem, Max Web and Naone. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

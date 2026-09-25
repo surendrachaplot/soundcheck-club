@@ -2,7 +2,7 @@
 
 TBA - Grand Hall, La Plata is a music venue in Buenos Aires with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Mateo Dufour - Circus, Grand Hall La Plata - ALLMusicParties" on Sat, 26 Sept 2026.
 
-TBA - Grand Hall, La Plata is a music venue in Buenosaires listed on soundcheck. 3 upcoming gigs, with line-ups including BLANCAh and Mateo Dufour. Browse upcoming dates, start times and who's playing.
+TBA - Grand Hall, La Plata is a music venue in Buenos Aires listed on soundcheck. 3 upcoming gigs, with line-ups including BLANCAh and Mateo Dufour. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

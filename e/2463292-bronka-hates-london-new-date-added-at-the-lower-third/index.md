@@ -1,6 +1,6 @@
 # BRONKA HATES LONDON - New Date Added at The Lower Third
 
-BRONKA HATES LONDON - New Date Added at The Lower Third on Fri 16 Oct, London. 1 act on the bill: Bronka. Baile Funk and Latin Bass. Preview the line-up and save it on soundcheck.
+BRONKA HATES LONDON - New Date Added at The Lower Third on Fri 16 Oct, London. 1 artist on the bill: Bronka. Baile Funk and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

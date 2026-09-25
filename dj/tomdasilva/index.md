@@ -2,7 +2,7 @@
 
 Tom Da Silva is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Shelter Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
-Tom Da Silva is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Ibiza, Liverpool and London. Often billed alongside Phill de Janeiro, James Lavelle (2) and Jude Lenihan. Next up: Shelter Amsterdam, Amsterdam on Wed 21 Oct.
+Tom Da Silva is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Ibiza, Liverpool and London. Often billed alongside Phill de Janeiro, James Lavelle and Jude Lenihan. Next up: Shelter Amsterdam, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Positive Education 2026 at Cité du Design Saint Etienne
 
-Positive Education 2026 at Cité du Design Saint Etienne on Fri 6 Nov, Central. 45 acts on the bill: 69DB, A Guy Called Gerald, Aawadh and ABADIR and 41 more. Preview the line-up and save it on soundcheck.
+Positive Education 2026 at Cité du Design Saint Etienne on Fri 6 Nov, Central. 45 artists on the bill: 69DB, A Guy Called Gerald, Aawadh and ABADIR and 41 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

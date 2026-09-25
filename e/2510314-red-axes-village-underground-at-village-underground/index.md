@@ -1,6 +1,6 @@
 # Red Axes - Village Underground at Village Underground
 
-Red Axes - Village Underground on Fri 13 Nov, London. 2 acts on the bill: Harri Pepper and Red Axes. Techno and House. Preview the line-up and save it on soundcheck.
+Red Axes - Village Underground on Fri 13 Nov, London. 2 artists on the bill: Harri Pepper and Red Axes. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

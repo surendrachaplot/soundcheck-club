@@ -1,6 +1,6 @@
 # Night at Chateau Moderne at Château Moderne
 
-Night at Chateau Moderne at Château Moderne on Fri 25 Sept, Brussels. 1 act on the bill: Kat (BE). Techno and EBM. Preview the line-up and save it on soundcheck.
+Night at Chateau Moderne at Château Moderne on Fri 25 Sept, Brussels. 1 artist on the bill: Kat (BE). Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Andre Cascais at 5A
 
-Andre Cascais at 5A on Fri 25 Sept, Lisbon. 1 act on the bill: Andre Cascais. Preview the line-up and save it on soundcheck.
+Andre Cascais at 5A on Fri 25 Sept, Lisbon. 1 artist on the bill: Andre Cascais. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

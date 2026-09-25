@@ -1,6 +1,6 @@
 # Arder: Sev Dah at NWHR
 
-Arder: Sev Dah at NWHR on Sat 7 Nov, Montreal. 1 act on the bill: Sev Dah. Techno. Preview the line-up and save it on soundcheck.
+Arder: Sev Dah at NWHR on Sat 7 Nov, Montreal. 1 artist on the bill: Sev Dah. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

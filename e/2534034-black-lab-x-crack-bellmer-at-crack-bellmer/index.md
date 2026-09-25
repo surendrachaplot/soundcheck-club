@@ -1,6 +1,6 @@
 # Black Lab x Crack Bellmer at Crack Bellmer
 
-Black Lab x Crack Bellmer on Sat 17 Oct, Berlin. 2 acts on the bill: Minù Jr and Salem Unsigned. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Black Lab x Crack Bellmer on Sat 17 Oct, Berlin. 2 artists on the bill: Minù Jr and Salem Unsigned. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

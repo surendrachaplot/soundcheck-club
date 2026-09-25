@@ -1,6 +1,6 @@
 # Sih-Lest presents: IDEMI at The Berkeley Suite
 
-Sih-Lest presents: IDEMI at The Berkeley Suite on Thu 15 Oct, Glasgow. 1 act on the bill: IDEMI. Preview the line-up and save it on soundcheck.
+Sih-Lest presents: IDEMI at The Berkeley Suite on Thu 15 Oct, Glasgow. 1 artist on the bill: IDEMI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

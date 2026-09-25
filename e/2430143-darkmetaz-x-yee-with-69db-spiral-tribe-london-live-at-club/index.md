@@ -1,6 +1,6 @@
 # Darkmetaz x Yee with 69DB (Spiral Tribe, London) [LIVE] at 宀 Club
 
-Darkmetaz x Yee with 69DB (Spiral Tribe, London) [LIVE] at 宀 Club on Fri 9 Oct, Hongkong. 4 acts on the bill: 69DB, JFÜNG, Oscar Days and TUESDAY. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Darkmetaz x Yee with 69DB (Spiral Tribe, London) [LIVE] at 宀 Club on Fri 9 Oct, Hong Kong. 4 artists on the bill: 69DB, JFÜNG, Oscar Days and TUESDAY. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DURATIONS: Yu Su, Ghost Dubs, K Wata, Ayanna Heaven at public records
 
-DURATIONS: Yu Su, Ghost Dubs, K Wata, Ayanna Heaven at public records on Sun 15 Nov, Newyorkcity. 4 acts on the bill: Ayanna Heaven, Ghost Dubs, K Wata and Yu Su. Preview the line-up and save it on soundcheck.
+DURATIONS: Yu Su, Ghost Dubs, K Wata, Ayanna Heaven at public records on Sun 15 Nov, New York City. 4 artists on the bill: Ayanna Heaven, Ghost Dubs, K Wata and Yu Su. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

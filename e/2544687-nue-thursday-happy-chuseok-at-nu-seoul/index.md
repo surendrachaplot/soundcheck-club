@@ -1,6 +1,6 @@
 # Nue thursday / HAPPY CHUSEOK at Nué Seoul
 
-Nue thursday / HAPPY CHUSEOK at Nué Seoul on Thu 24 Sept, Seoul. 3 acts on the bill: DJ Botermelk, Rob Goodspeed and Shlemba. Preview the line-up and save it on soundcheck.
+Nue thursday / HAPPY CHUSEOK at Nué Seoul on Thu 24 Sept, Seoul. 3 artists on the bill: DJ Botermelk, Rob Goodspeed and Shlemba. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

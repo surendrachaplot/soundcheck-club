@@ -2,7 +2,7 @@
 
 David Hasert is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
-David Hasert is a techno and house artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Cologne, Dusseldorf and Hamburg and 1 more. Often billed alongside LALENA, Diode Eins and Avocado. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
+David Hasert is a techno and house artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Cologne, Düsseldorf and Hamburg and 1 more. Often billed alongside LALENA, Diode Eins and Avocado. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # LESS DRAMA MORE TECHNO [September issue] at Nouveau Casino
 
-LESS DRAMA MORE TECHNO [September issue] at Nouveau Casino on Sat 26 Sept, Paris. 3 acts on the bill: Ben Manson, DJ Clark Kent and Mr Cozzo. Techno. Preview the line-up and save it on soundcheck.
+LESS DRAMA MORE TECHNO [September issue] at Nouveau Casino on Sat 26 Sept, Paris. 3 artists on the bill: Ben Manson, DJ Clark Kent and Mr Cozzo. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

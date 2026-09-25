@@ -1,6 +1,6 @@
 # Pikete x Club Bebe (Van): CUERPOS at ESC
 
-Pikete x Club Bebe (Van): CUERPOS at ESC on Sat 3 Oct, Montreal. 7 acts on the bill: BADJUDA, BINKY, Brendocha and CUERPOS and 3 more. Baile Funk and Latin Bass. Preview the line-up and save it on soundcheck.
+Pikete x Club Bebe (Van): CUERPOS at ESC on Sat 3 Oct, Montreal. 7 artists on the bill: BADJUDA, BINKY, Brendocha and CUERPOS and 3 more. Baile Funk and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

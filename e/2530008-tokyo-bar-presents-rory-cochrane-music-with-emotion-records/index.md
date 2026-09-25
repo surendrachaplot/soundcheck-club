@@ -1,6 +1,6 @@
 # Tokyo Bar presents Rory Cochrane (Music With Emotion Records) at Tokyo Bar
 
-Tokyo Bar presents Rory Cochrane (Music With Emotion Records) on Sat 26 Sept, Newcastle. 1 act on the bill: Rory Cochrane. House and Deep House. Preview the line-up and save it on soundcheck.
+Tokyo Bar presents Rory Cochrane (Music With Emotion Records) on Sat 26 Sept, Newcastle. 1 artist on the bill: Rory Cochrane. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

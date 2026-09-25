@@ -1,6 +1,6 @@
 # P/NK BARCELONA at TBA - secret location
 
-P/NK BARCELONA at TBA - secret location on Fri 25 Sept, Barcelona. 4 acts on the bill: CLTX, Cosmo X, Jesooria and La Kosh. Techno. Preview the line-up and save it on soundcheck.
+P/NK BARCELONA at TBA - secret location on Fri 25 Sept, Barcelona. 4 artists on the bill: CLTX, Cosmo X, Jesooria and La Kosh. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

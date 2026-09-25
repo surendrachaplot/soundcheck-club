@@ -1,6 +1,6 @@
 # Thrive Inside #3 at Avalon Cafe Bermondsey
 
-Thrive Inside #3 at Avalon Cafe Bermondsey on Sat 3 Oct, London. 1 act on the bill: Alex Iza. Garage and Reggaeton. Preview the line-up and save it on soundcheck.
+Thrive Inside #3 at Avalon Cafe Bermondsey on Sat 3 Oct, London. 1 artist on the bill: Alex Iza. Garage and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

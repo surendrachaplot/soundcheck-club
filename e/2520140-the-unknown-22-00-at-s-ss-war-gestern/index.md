@@ -1,6 +1,6 @@
 # THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘏𝘙𝘌𝘌 𝘍𝘓𝘖𝘖𝘙𝘚) at Süss War Gestern
 
-THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘏𝘙𝘌𝘌 𝘍𝘓𝘖𝘖𝘙𝘚) at Süss War Gestern on Sat 3 Oct, Berlin. 3 acts on the bill: Bruder Jakob, Gregor Rost and Julien Josh. House and Disco. Preview the line-up and save it on soundcheck.
+THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘏𝘙𝘌𝘌 𝘍𝘓𝘖𝘖𝘙𝘚) at Süss War Gestern on Sat 3 Oct, Berlin. 3 artists on the bill: Bruder Jakob, Gregor Rost and Julien Josh. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

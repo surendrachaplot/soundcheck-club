@@ -1,6 +1,6 @@
 # Dan Fresco presents Vienna X Infusion at World Headquarters
 
-Dan Fresco presents Vienna X Infusion at World Headquarters on Fri 2 Oct, Newcastle. 3 acts on the bill: Dan Fresco, DXNBY and Reuben Valentine. House and Garage. Preview the line-up and save it on soundcheck.
+Dan Fresco presents Vienna X Infusion at World Headquarters on Fri 2 Oct, Newcastle. 3 artists on the bill: Dan Fresco, DXNBY and Reuben Valentine. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

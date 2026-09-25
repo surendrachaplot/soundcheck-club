@@ -2,7 +2,7 @@
 
 GENIE (2) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Theata, London on Sat, 3 Oct 2026.
 
-GENIE (2) is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside NATHAN HALFON, Parra Vie and RORY KITE. Next up: Theata, London on Sat 3 Oct.
+GENIE is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside NATHAN HALFON, Parra Vie and RORY KITE. Next up: Theata, London on Sat 3 Oct.
 
 ## Upcoming shows
 

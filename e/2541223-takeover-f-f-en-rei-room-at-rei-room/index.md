@@ -1,6 +1,6 @@
 # Takeover f&f en Rei Room at Rei Room
 
-Takeover f&f en Rei Room on Fri 25 Sept, Mexicocity. 1 act on the bill: Lao (MX). Hip-Hop and Reggaeton. Preview the line-up and save it on soundcheck.
+Takeover f&f en Rei Room on Fri 25 Sept, Mexico City. 1 artist on the bill: Lao (MX). Hip-Hop and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 180 min with Barker (live) at ZENNER
 
-180 min with Barker (live) at ZENNER on Thu 24 Sept, Berlin. 2 acts on the bill: Barker and machìna. Preview the line-up and save it on soundcheck.
+180 min with Barker (live) at ZENNER on Thu 24 Sept, Berlin. 2 artists on the bill: Barker and machìna. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

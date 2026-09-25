@@ -1,6 +1,6 @@
 # AFTER PARTY AT FOX IN THE BOX (OPEN UNTIL 10 AM! ) at Union Club, Vauxhall
 
-AFTER PARTY AT FOX IN THE BOX (OPEN UNTIL 10 AM! ) at Union Club, Vauxhall on Fri 2 Oct, London. 2 acts on the bill: Enrico Chirchiello and Max Delta. Techno and Tech House. Preview the line-up and save it on soundcheck.
+AFTER PARTY AT FOX IN THE BOX (OPEN UNTIL 10 AM! ) at Union Club, Vauxhall on Fri 2 Oct, London. 2 artists on the bill: Enrico Chirchiello and Max Delta. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

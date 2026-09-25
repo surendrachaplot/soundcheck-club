@@ -1,6 +1,6 @@
 # Chris IDH by Sound of Cloud at Eden NYC
 
-Chris IDH by Sound of Cloud at Eden NYC on Sat 10 Oct, Newyorkcity. 1 act on the bill: Chris IDH. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Chris IDH by Sound of Cloud at Eden NYC on Sat 10 Oct, New York City. 1 artist on the bill: Chris IDH. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

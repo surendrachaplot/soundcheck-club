@@ -1,6 +1,6 @@
 # Turno: Sydney at Carousel Bar & Ballroom
 
-Turno: Sydney at Carousel Bar & Ballroom on Fri 30 Oct, Sydney. 2 acts on the bill: Turno and UBERMOON. Drum & Bass. Preview the line-up and save it on soundcheck.
+Turno: Sydney at Carousel Bar & Ballroom on Fri 30 Oct, Sydney. 2 artists on the bill: Turno and UBERMOON. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

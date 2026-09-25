@@ -1,6 +1,6 @@
 # Pawlowski at Halcyon
 
-Pawlowski at Halcyon on Sat 10 Oct, Sanfrancisco. 1 act on the bill: Pawlowski. Techno. Preview the line-up and save it on soundcheck.
+Pawlowski at Halcyon on Sat 10 Oct, San Francisco/Oakland. 1 artist on the bill: Pawlowski. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

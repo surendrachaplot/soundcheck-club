@@ -1,6 +1,6 @@
 # Yabi at Lucky's
 
-Yabi at Lucky's on Fri 25 Sept, Dublin. 1 act on the bill: YABI (1). Preview the line-up and save it on soundcheck.
+Yabi at Lucky's on Fri 25 Sept, Dublin. 1 artist on the bill: YABI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

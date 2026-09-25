@@ -1,6 +1,6 @@
 # [CANCELLED] REINKARNATION with Secret Act, Nano Viola, Ephy Pinkman, LISTORIO at Lokschuppen Berlin
 
-[CANCELLED] REINKARNATION with Secret Act, Nano Viola, Ephy Pinkman, LISTORIO at Lokschuppen Berlin on Sat 17 Oct, Berlin. 8 acts on the bill: bbymeister, Blossmbae, Feta Felice and Jacky Ickx and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+[CANCELLED] REINKARNATION with Secret Act, Nano Viola, Ephy Pinkman, LISTORIO at Lokschuppen Berlin on Sat 17 Oct, Berlin. 8 artists on the bill: bbymeister, Blossmbae, Feta Felice and Jacky Ickx and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

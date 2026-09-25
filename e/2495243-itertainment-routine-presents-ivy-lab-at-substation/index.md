@@ -1,6 +1,6 @@
 # Itertainment & Routine presents: Ivy Lab at Substation
 
-Itertainment & Routine presents: Ivy Lab at Substation on Sat 26 Sept, Seattle. 2 acts on the bill: Cesco and Ivy Lab. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Itertainment & Routine presents: Ivy Lab at Substation on Sat 26 Sept, Seattle. 2 artists on the bill: Cesco and Ivy Lab. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

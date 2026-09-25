@@ -1,6 +1,6 @@
 # Reflected Radio [REC005] at P61 Gallery
 
-Reflected Radio [REC005] at P61 Gallery on Fri 25 Sept, Berlin. 5 acts on the bill: GLIA, Iguana (2), Impulsive Behaviour and KLEA and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Reflected Radio [REC005] at P61 Gallery on Fri 25 Sept, Berlin. 5 artists on the bill: GLIA, Iguana, Impulsive Behaviour and KLEA and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Siku Series 6th Anniversary at Les Enfants Brillants
 
-Siku Series 6th Anniversary at Les Enfants Brillants on Fri 27 Nov, Barcelona. 2 acts on the bill: Fabrega and Marco Spalletta. Preview the line-up and save it on soundcheck.
+Siku Series 6th Anniversary at Les Enfants Brillants on Fri 27 Nov, Barcelona. 2 artists on the bill: Fabrega and Marco Spalletta. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

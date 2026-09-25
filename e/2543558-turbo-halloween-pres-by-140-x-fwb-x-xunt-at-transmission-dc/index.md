@@ -1,6 +1,6 @@
 # Turbo Halloween Pres By 140+ X Fwb X Xunt at TRANSMISSION DC
 
-Turbo Halloween Pres By 140+ X Fwb X Xunt at TRANSMISSION DC on Sat 31 Oct, Washingtondc. Club and Gabber. Preview the line-up and save it on soundcheck.
+Turbo Halloween Pres By 140+ X Fwb X Xunt at TRANSMISSION DC on Sat 31 Oct, Washington DC. Club and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

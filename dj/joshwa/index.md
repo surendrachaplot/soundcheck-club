@@ -2,7 +2,7 @@
 
 Joshwa (IT) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
-Joshwa (IT) is a house and tech house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Austin, Boston and Chicago and 7 more. Often billed alongside Archie Hamilton, Seven Lions and Alex Mills. Next up: NOS Event Center, Los-angeles on Thu 31 Dec.
+Joshwa (IT) is a house and tech house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Austin, Boston and Chicago and 6 more. Often billed alongside Archie Hamilton, Seven Lions and Alex Mills. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
 ## Upcoming shows
 

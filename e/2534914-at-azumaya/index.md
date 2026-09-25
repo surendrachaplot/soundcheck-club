@@ -1,6 +1,6 @@
 # 四刻共鳴 at Azumaya
 
-四刻共鳴 at Azumaya on Wed 7 Oct, Tokyo. 1 act on the bill: Terax. House. Preview the line-up and save it on soundcheck.
+四刻共鳴 at Azumaya on Wed 7 Oct, Tokyo. 1 artist on the bill: Terax. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

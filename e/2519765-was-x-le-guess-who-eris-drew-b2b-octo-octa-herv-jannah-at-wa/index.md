@@ -1,6 +1,6 @@
 # WAS. x Le Guess Who? // Eris Drew b2b Octo Octa • Hervé • jannah at WAS.
 
-WAS. x Le Guess Who? // Eris Drew b2b Octo Octa • Hervé • jannah on Sat 7 Nov, Utrecht. 4 acts on the bill: Eris Drew, Hervé, jannah and Octo Octa. House. Preview the line-up and save it on soundcheck.
+WAS. x Le Guess Who? // Eris Drew b2b Octo Octa • Hervé • jannah on Sat 7 Nov, Utrecht. 4 artists on the bill: Eris Drew, Hervé, jannah and Octo Octa. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

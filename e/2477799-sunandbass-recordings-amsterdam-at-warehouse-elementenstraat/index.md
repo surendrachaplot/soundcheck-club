@@ -1,6 +1,6 @@
 # SUNANDBASS Recordings Amsterdam at Warehouse Elementenstraat
 
-SUNANDBASS Recordings Amsterdam at Warehouse Elementenstraat on Sat 21 Nov, Amsterdam. 18 acts on the bill: A-Sides, A.M.C., b-line and BassLayerz and 14 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+SUNANDBASS Recordings Amsterdam at Warehouse Elementenstraat on Sat 21 Nov, Amsterdam. 18 artists on the bill: A-Sides, A.M.C., b-line and BassLayerz and 14 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

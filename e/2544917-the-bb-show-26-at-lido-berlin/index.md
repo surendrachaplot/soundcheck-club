@@ -1,6 +1,6 @@
 # THE BB SHOW 26 at Lido Berlin
 
-THE BB SHOW 26 at Lido Berlin on Sat 12 Dec, Berlin. 1 act on the bill: BLEACH.LIVE. Preview the line-up and save it on soundcheck.
+THE BB SHOW 26 at Lido Berlin on Sat 12 Dec, Berlin. 1 artist on the bill: BLEACH.LIVE. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

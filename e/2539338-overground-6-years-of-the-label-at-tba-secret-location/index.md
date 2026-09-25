@@ -1,6 +1,6 @@
 # Overground - 6 Years Of The Label at TBA - Secret Location
 
-Overground - 6 Years Of The Label at TBA - Secret Location on Sat 3 Oct, Berlin. 4 acts on the bill: Ancut, Eliza (2), Rickie (Overground) and Robs (1). Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Overground - 6 Years Of The Label at TBA - Secret Location on Sat 3 Oct, Berlin. 4 artists on the bill: Ancut, Eliza, Rickie (Overground) and Robs. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

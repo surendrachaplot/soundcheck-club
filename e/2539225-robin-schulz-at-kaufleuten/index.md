@@ -1,6 +1,6 @@
 # Robin Schulz at Kaufleuten
 
-Robin Schulz at Kaufleuten on Fri 16 Oct, Zurich. 1 act on the bill: Robin Schulz. House and Deep House. Preview the line-up and save it on soundcheck.
+Robin Schulz at Kaufleuten on Fri 16 Oct, Zurich. 1 artist on the bill: Robin Schulz. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # San Holo: True Love in a Made Up World at Big Night Live
 
-San Holo: True Love in a Made Up World at Big Night Live on Fri 9 Oct, Boston. 1 act on the bill: San Holo. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+San Holo: True Love in a Made Up World at Big Night Live on Fri 9 Oct, Boston. 1 artist on the bill: San Holo. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

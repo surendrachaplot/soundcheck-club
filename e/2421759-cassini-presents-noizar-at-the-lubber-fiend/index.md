@@ -1,6 +1,6 @@
 # Cassini presents: Noizar at The Lubber Fiend
 
-Cassini presents: Noizar at The Lubber Fiend on Sat 3 Oct, Newcastle. 1 act on the bill: Noizar. Electro and Minimal Techno. Preview the line-up and save it on soundcheck.
+Cassini presents: Noizar at The Lubber Fiend on Sat 3 Oct, Newcastle. 1 artist on the bill: Noizar. Electro and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

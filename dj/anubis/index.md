@@ -2,7 +2,7 @@
 
 Anubis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Spkrbox, Detroit on Thu, 24 Sept 2026.
 
-Anubis is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Antwerp, Austin, Detroit and Frankfurt and 1 more. Often billed alongside Sober (1), Proxy and AG (NYC). Next up: Spkrbox, Detroit on Thu 24 Sept.
+Anubis is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Antwerp, Austin, Detroit and Frankfurt and 1 more. Often billed alongside Sober, Proxy and AG (NYC). Next up: Spkrbox, Detroit on Thu 24 Sept.
 
 ## Upcoming shows
 

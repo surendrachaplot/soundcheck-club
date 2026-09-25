@@ -1,6 +1,6 @@
 # Bimbo Beats at Mono
 
-Bimbo Beats at Mono on Fri 25 Sept, Rotterdam. 3 acts on the bill: AMBRR, ARRA and Slimfit. Club and Latin Bass. Preview the line-up and save it on soundcheck.
+Bimbo Beats at Mono on Fri 25 Sept, Rotterdam. 3 artists on the bill: AMBRR, ARRA and Slimfit. Club and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

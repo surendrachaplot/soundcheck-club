@@ -1,6 +1,6 @@
 # noir 002 at Centrála
 
-noir 002 at Centrála on Sat 24 Oct, Prague. 4 acts on the bill: mmmm (1), Polish, valeria noir and WAISS. Industrial and Gabber. Preview the line-up and save it on soundcheck.
+noir 002 at Centrála on Sat 24 Oct, Prague. 4 artists on the bill: mmmm, Polish, valeria noir and WAISS. Industrial and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Animal Farm pres. LICHTRAUM: Stephanie Sykes - Cirkle (live) [10hr event] at Argyle Arcade (Buchanan Street Entrance)
 
-Animal Farm pres. LICHTRAUM: Stephanie Sykes - Cirkle (live) [10hr event] at Argyle Arcade (Buchanan Street Entrance) on Sat 28 Nov, Glasgow. 6 acts on the bill: Aileron, AXION, Cirkle and LAZLO and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Animal Farm pres. LICHTRAUM: Stephanie Sykes - Cirkle (live) [10hr event] at Argyle Arcade (Buchanan Street Entrance) on Sat 28 Nov, Glasgow. 6 artists on the bill: Aileron, AXION, Cirkle and LAZLO and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

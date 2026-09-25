@@ -1,6 +1,6 @@
 # SHINE -- ALISHA at The Limelight
 
-SHINE -- ALISHA at The Limelight on Fri 2 Oct, Belfast. 2 acts on the bill: ALISHA and Jake Fitz. Preview the line-up and save it on soundcheck.
+SHINE -- ALISHA at The Limelight on Fri 2 Oct, Belfast. 2 artists on the bill: ALISHA and Jake Fitz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VAN DER WIESE - HardWanted x TribeDistrict - KRK at STK 47 WAREHOUSE
 
-VAN DER WIESE - HardWanted x TribeDistrict - KRK at STK 47 WAREHOUSE on Fri 23 Oct, Krakow. 1 act on the bill: KRZ (PL). Techno and Hardcore. Preview the line-up and save it on soundcheck.
+VAN DER WIESE - HardWanted x TribeDistrict - KRK at STK 47 WAREHOUSE on Fri 23 Oct, Krakow. 1 artist on the bill: KRZ (PL). Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

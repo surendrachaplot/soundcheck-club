@@ -1,6 +1,6 @@
 # FNGRS CRSSD presents Palms Beach Club with Prospa at Beach House San Diego
 
-FNGRS CRSSD presents Palms Beach Club with Prospa at Beach House San Diego on Sun 18 Oct, Sandiego. 2 acts on the bill: FLETCH and Prospa. Preview the line-up and save it on soundcheck.
+FNGRS CRSSD presents Palms Beach Club with Prospa at Beach House San Diego on Sun 18 Oct, San Diego. 2 artists on the bill: FLETCH and Prospa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

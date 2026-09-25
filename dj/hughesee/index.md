@@ -1,13 +1,14 @@
 # Hughesee
 
-Hughesee is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at M.O.T, London on Sat, 17 Oct 2026.
+Hughesee is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spanners, London on Fri, 25 Sept 2026.
 
-Hughesee is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 107 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 4 more. Often billed alongside Louise Plus One, Equinox (UK) and DJ Azure. Next up: M.O.T, London on Sat 17 Oct.
+Hughesee is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 4 more. Often billed alongside Louise Plus One, Equinox (UK) and DJ Azure. Next up: Spanners, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Spanners | London |
 | Sat, 17 Oct 2026 | M.O.T | London |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Oriental Techno Club - 東極玄音寺: vvekapipo, SENAIDA, Morva at Tempio del Futuro Perduto
 
-Oriental Techno Club - 東極玄音寺: vvekapipo, SENAIDA, Morva at Tempio del Futuro Perduto on Fri 2 Oct, Milan. 3 acts on the bill: SENAIDA, vvekapipo and Zenyee. Preview the line-up and save it on soundcheck.
+Oriental Techno Club - 東極玄音寺: vvekapipo, SENAIDA, Morva at Tempio del Futuro Perduto on Fri 2 Oct, Milan. 3 artists on the bill: SENAIDA, vvekapipo and Zenyee. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

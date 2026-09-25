@@ -1,6 +1,6 @@
 # Sunday Skate Club: DJ Big Bob vs 4AM NYC - Club Flush: Smurfo Udirty at Xanadu
 
-Sunday Skate Club: DJ Big Bob vs 4AM NYC - Club Flush: Smurfo Udirty at Xanadu on Sun 27 Sept, Newyorkcity. 1 act on the bill: SMURFOUDIRTY. House. Preview the line-up and save it on soundcheck.
+Sunday Skate Club: DJ Big Bob vs 4AM NYC - Club Flush: Smurfo Udirty at Xanadu on Sun 27 Sept, New York City. 1 artist on the bill: SMURFOUDIRTY. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

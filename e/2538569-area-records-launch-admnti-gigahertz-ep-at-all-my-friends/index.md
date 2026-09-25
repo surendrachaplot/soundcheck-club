@@ -1,6 +1,6 @@
 # Area Records Launch - ADMNTi GigaHertZ EP at All My Friends
 
-Area Records Launch - ADMNTi GigaHertZ EP at All My Friends on Thu 22 Oct, London. 1 act on the bill: ADMNTi. Tech House. Preview the line-up and save it on soundcheck.
+Area Records Launch - ADMNTi GigaHertZ EP at All My Friends on Thu 22 Oct, London. 1 artist on the bill: ADMNTi. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

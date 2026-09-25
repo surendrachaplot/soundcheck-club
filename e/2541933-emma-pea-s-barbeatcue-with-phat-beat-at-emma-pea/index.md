@@ -1,6 +1,6 @@
 # Emma Pea's 'barbeatcue' with Phat Beat at Emma Pea
 
-Emma Pea's 'barbeatcue' with Phat Beat on Fri 6 Nov, Berlin. 1 act on the bill: Phat Beat. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Emma Pea's 'barbeatcue' with Phat Beat on Fri 6 Nov, Berlin. 1 artist on the bill: Phat Beat. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

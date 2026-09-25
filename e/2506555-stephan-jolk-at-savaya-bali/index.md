@@ -1,6 +1,6 @@
 # Stephan Jolk at Savaya Bali
 
-Stephan Jolk at Savaya Bali on Sat 3 Oct, Bali. 1 act on the bill: Stephan Jolk. Deep House. Preview the line-up and save it on soundcheck.
+Stephan Jolk at Savaya Bali on Sat 3 Oct, Bali. 1 artist on the bill: Stephan Jolk. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

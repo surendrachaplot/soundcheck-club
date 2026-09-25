@@ -1,6 +1,6 @@
 # Satori at Lula Club
 
-Satori at Lula Club on Sat 12 Dec, Madrid. 1 act on the bill: Satori. Preview the line-up and save it on soundcheck.
+Satori at Lula Club on Sat 12 Dec, Madrid. 1 artist on the bill: Satori. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

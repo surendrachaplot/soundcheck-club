@@ -1,6 +1,6 @@
 # The Occasional Thursday Party with London Elektricity at Marble Bar
 
-The Occasional Thursday Party with London Elektricity at Marble Bar on Thu 8 Oct, Detroit. 4 acts on the bill: London Elektricity, Pat Osiris, Roque Ybarra and XVEVESX. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
+The Occasional Thursday Party with London Elektricity at Marble Bar on Thu 8 Oct, Detroit. 4 artists on the bill: London Elektricity, Pat Osiris, Roque Ybarra and XVEVESX. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

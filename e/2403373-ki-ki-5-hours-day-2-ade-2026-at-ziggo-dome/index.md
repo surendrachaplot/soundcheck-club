@@ -1,6 +1,6 @@
 # KI/KI 5 HOURS DAY/2 - ADE 2026 at Ziggo Dome
 
-KI/KI 5 HOURS DAY/2 - ADE 2026 at Ziggo Dome on Fri 23 Oct, Amsterdam. 1 act on the bill: KI/KI. Preview the line-up and save it on soundcheck.
+KI/KI 5 HOURS DAY/2 - ADE 2026 at Ziggo Dome on Fri 23 Oct, Amsterdam. 1 artist on the bill: KI/KI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CODED Thursdays w/ Boyfriend Dick, DROPO at Club Rawhide
 
-CODED Thursdays w/ Boyfriend Dick, DROPO at Club Rawhide on Thu 24 Sept, Newyorkcity. 2 acts on the bill: Boyfriend Dick and DROPO. Techno and House. Preview the line-up and save it on soundcheck.
+CODED Thursdays w/ Boyfriend Dick, DROPO at Club Rawhide on Thu 24 Sept, New York City. 2 artists on the bill: Boyfriend Dick and DROPO. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

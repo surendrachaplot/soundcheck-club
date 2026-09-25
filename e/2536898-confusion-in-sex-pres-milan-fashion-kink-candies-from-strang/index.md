@@ -1,6 +1,6 @@
 # CONFUSION IN SEX pres. MILAN FASHION KINK - Candies from Strangers - MILAN FASHION WEEK EDITION at CIRCOLO BOTULINO
 
-CONFUSION IN SEX pres. MILAN FASHION KINK - Candies from Strangers - MILAN FASHION WEEK EDITION at CIRCOLO BOTULINO on Fri 25 Sept, Milan. 1 act on the bill: Candies from Strangers. Techno and Industrial. Preview the line-up and save it on soundcheck.
+CONFUSION IN SEX pres. MILAN FASHION KINK - Candies from Strangers - MILAN FASHION WEEK EDITION at CIRCOLO BOTULINO on Fri 25 Sept, Milan. 1 artist on the bill: Candies from Strangers. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

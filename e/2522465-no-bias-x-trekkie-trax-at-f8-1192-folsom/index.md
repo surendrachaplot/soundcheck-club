@@ -1,6 +1,6 @@
 # NO BIAS x TREKKIE TRAX at F8 1192 Folsom
 
-NO BIAS x TREKKIE TRAX at F8 1192 Folsom on Fri 2 Oct, Sanfrancisco. 7 acts on the bill: Andrew (TREKKIE TRAX), Carpainter, Discnogirl and Mars Kasei and 3 more. Bass and Club. Preview the line-up and save it on soundcheck.
+NO BIAS x TREKKIE TRAX at F8 1192 Folsom on Fri 2 Oct, San Francisco/Oakland. 7 artists on the bill: Andrew (TREKKIE TRAX), Carpainter, Discnogirl and Mars Kasei and 3 more. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

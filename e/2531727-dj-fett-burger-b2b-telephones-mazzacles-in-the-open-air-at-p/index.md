@@ -1,6 +1,6 @@
 # DJ Fett Burger b2b Telephones + Mazzacles in the open air at Poor Toms Oltra
 
-DJ Fett Burger b2b Telephones + Mazzacles in the open air at Poor Toms Oltra on Sun 18 Oct, Sydney. 3 acts on the bill: DJ Fett Burger, Mazzacles and Telephones. House and Balearic. Preview the line-up and save it on soundcheck.
+DJ Fett Burger b2b Telephones + Mazzacles in the open air at Poor Toms Oltra on Sun 18 Oct, Sydney. 3 artists on the bill: DJ Fett Burger, Mazzacles and Telephones. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AFTER FORTUNA at Circolo Amelia
 
-AFTER FORTUNA at Circolo Amelia on Sun 27 Sept, Milan. 8 acts on the bill: AMBRA, Fatima Koanda, Filibalou and Kongas and 4 more. House and Deep House. Preview the line-up and save it on soundcheck.
+AFTER FORTUNA at Circolo Amelia on Sun 27 Sept, Milan. 8 artists on the bill: AMBRA, Fatima Koanda, Filibalou and Kongas and 4 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

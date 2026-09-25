@@ -1,6 +1,6 @@
 # Signal to Noise! Experimental Electronic Sound Works at Golden Goose Theatre
 
-Signal to Noise! Experimental Electronic Sound Works at Golden Goose Theatre on Sun 25 Oct, London. 1 act on the bill: Arconic. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Signal to Noise! Experimental Electronic Sound Works at Golden Goose Theatre on Sun 25 Oct, London. 1 artist on the bill: Arconic. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

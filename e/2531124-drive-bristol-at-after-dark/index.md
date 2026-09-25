@@ -1,6 +1,6 @@
 # Drive Bristol at After Dark
 
-Drive Bristol at After Dark on Fri 2 Oct, Bristol. 2 acts on the bill: Dressed To Sweat and Hayliegh. House and Minimal. Preview the line-up and save it on soundcheck.
+Drive Bristol at After Dark on Fri 2 Oct, Bristol. 2 artists on the bill: Dressed To Sweat and Hayliegh. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

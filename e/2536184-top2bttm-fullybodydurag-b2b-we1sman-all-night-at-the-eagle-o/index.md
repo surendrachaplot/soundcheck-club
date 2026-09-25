@@ -1,6 +1,6 @@
 # TOP2BTTM: FULLYBODYDURAG B2B we1sman ALL NIGHT at The Eagle of Detroit
 
-TOP2BTTM: FULLYBODYDURAG B2B we1sman ALL NIGHT at The Eagle of Detroit on Fri 2 Oct, Detroit. 2 acts on the bill: Fullbodydurag and we1sman. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+TOP2BTTM: FULLYBODYDURAG B2B we1sman ALL NIGHT at The Eagle of Detroit on Fri 2 Oct, Detroit. 2 artists on the bill: Fullbodydurag and we1sman. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

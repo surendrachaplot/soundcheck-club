@@ -1,6 +1,6 @@
 # Lucidity at Warehouse 25
 
-Lucidity at Warehouse 25 on Fri 25 Sept, Brisbane. 3 acts on the bill: Pusky, SF Fudge and TRUSTEE. Trance and Techno. Preview the line-up and save it on soundcheck.
+Lucidity at Warehouse 25 on Fri 25 Sept, Brisbane. 3 artists on the bill: Pusky, SF Fudge and TRUSTEE. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

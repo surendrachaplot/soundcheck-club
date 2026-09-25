@@ -1,6 +1,6 @@
 # PROMISCUOUS HALLOWEEN: A SPOOKY 2000's CLUB BANGERS THROWBACKS PARTY at Union Stage
 
-PROMISCUOUS HALLOWEEN: A SPOOKY 2000's CLUB BANGERS THROWBACKS PARTY at Union Stage on Sat 31 Oct, Washingtondc. Preview the line-up and save it on soundcheck.
+PROMISCUOUS HALLOWEEN: A SPOOKY 2000's CLUB BANGERS THROWBACKS PARTY at Union Stage on Sat 31 Oct, Washington DC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

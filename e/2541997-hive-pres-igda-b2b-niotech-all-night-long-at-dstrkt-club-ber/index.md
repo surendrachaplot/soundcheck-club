@@ -1,6 +1,6 @@
 # HIVE pres. IGDA B2B Niotech ALL NIGHT LONG at DSTRKT Club Berlin
 
-HIVE pres. IGDA B2B Niotech ALL NIGHT LONG at DSTRKT Club Berlin on Sat 5 Dec, Berlin. 2 acts on the bill: IGDA and Niotech. Trance and Techno. Preview the line-up and save it on soundcheck.
+HIVE pres. IGDA B2B Niotech ALL NIGHT LONG at DSTRKT Club Berlin on Sat 5 Dec, Berlin. 2 artists on the bill: IGDA and Niotech. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

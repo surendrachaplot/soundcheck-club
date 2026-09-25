@@ -2,7 +2,7 @@
 
 Mehanata Bar is a music venue in New York City with 29 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "CLUBSESSION VOL. 11: STUDY HALL" on Thu, 24 Sept 2026.
 
-Mehanata Bar is a music venue in Newyorkcity listed on soundcheck. 29 upcoming gigs, with line-ups including MAXWELL HöUSE. Browse upcoming dates, start times and who's playing. 113, Ludlow street.
+Mehanata Bar is a music venue in New York City listed on soundcheck. 29 upcoming gigs, with line-ups including MAXWELL HöUSE. Browse upcoming dates, start times and who's playing. 113, Ludlow street.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Pracht PRES. with Gunnar Stiller, Tobias Sommer, LIZZN at Pracht
 
-Pracht PRES. with Gunnar Stiller, Tobias Sommer, LIZZN on Fri 23 Oct, Frankfurt. 3 acts on the bill: Gunnar Stiller, LIZZN and Tobias Sommer. Progressive House and House. Preview the line-up and save it on soundcheck.
+Pracht PRES. with Gunnar Stiller, Tobias Sommer, LIZZN on Fri 23 Oct, Frankfurt. 3 artists on the bill: Gunnar Stiller, LIZZN and Tobias Sommer. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

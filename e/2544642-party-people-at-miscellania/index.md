@@ -1,6 +1,6 @@
 # Party People at Miscellania
 
-Party People at Miscellania on Fri 25 Sept, Melbourne. 8 acts on the bill: Aashofteh, Cousin, D-Grade and eofy and 4 more. Tech House and Downtempo. Preview the line-up and save it on soundcheck.
+Party People at Miscellania on Fri 25 Sept, Melbourne. 8 artists on the bill: Aashofteh, Cousin, D-Grade and eofy and 4 more. Tech House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

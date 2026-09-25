@@ -1,6 +1,6 @@
 # Reggaeton Warehouse (21+) at The Brooklyn Monarch
 
-Reggaeton Warehouse (21+) at The Brooklyn Monarch on Fri 16 Oct, Newyorkcity. Club and Reggaeton. Preview the line-up and save it on soundcheck.
+Reggaeton Warehouse (21+) at The Brooklyn Monarch on Fri 16 Oct, New York City. Club and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Loft: Captain Wallop (All Night Long) at The Loft
 
-The Loft: Captain Wallop (All Night Long) on Thu 24 Sept, Manchester. 1 act on the bill: Captain Wallop. Preview the line-up and save it on soundcheck.
+The Loft: Captain Wallop (All Night Long) on Thu 24 Sept, Manchester. 1 artist on the bill: Captain Wallop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

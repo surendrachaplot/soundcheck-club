@@ -1,6 +1,6 @@
 # T78 All Night Long & Timo Mandl powered by Bassgeflüster at Die Rakete
 
-T78 All Night Long & Timo Mandl powered by Bassgeflüster at Die Rakete on Fri 6 Nov, Nurnberg. 1 act on the bill: T78. Techno and Acid. Preview the line-up and save it on soundcheck.
+T78 All Night Long & Timo Mandl powered by Bassgeflüster at Die Rakete on Fri 6 Nov, Nürnberg. 1 artist on the bill: T78. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

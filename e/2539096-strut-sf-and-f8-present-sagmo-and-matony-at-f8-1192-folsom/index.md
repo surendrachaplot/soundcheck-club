@@ -1,6 +1,6 @@
 # Strut SF and F8 present SAGMO and Matony at F8 1192 Folsom
 
-Strut SF and F8 present SAGMO and Matony at F8 1192 Folsom on Wed 30 Sept, Sanfrancisco. 3 acts on the bill: Joey Trip, Matony and SAGMO. House and Tech House. Preview the line-up and save it on soundcheck.
+Strut SF and F8 present SAGMO and Matony at F8 1192 Folsom on Wed 30 Sept, San Francisco/Oakland. 3 artists on the bill: Joey Trip, Matony and SAGMO. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

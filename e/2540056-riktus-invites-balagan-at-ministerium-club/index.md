@@ -1,6 +1,6 @@
 # Riktus Invites BALAGAN at Ministerium Club
 
-Riktus Invites BALAGAN at Ministerium Club on Thu 15 Oct, Lisbon. 6 acts on the bill: ANÍBAL, Djooke, GADDAM and Madson Carpenter and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Riktus Invites BALAGAN at Ministerium Club on Thu 15 Oct, Lisbon. 6 artists on the bill: ANÍBAL, Djooke, GADDAM and Madson Carpenter and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

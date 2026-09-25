@@ -1,6 +1,6 @@
 # Tudo bem? - Afterwork house à la plage at La Beach Parisienne
 
-Tudo bem? - Afterwork house à la plage at La Beach Parisienne on Thu 24 Sept, Paris. 1 act on the bill: Astúria. Latin Bass and Afro House. Preview the line-up and save it on soundcheck.
+Tudo bem? - Afterwork house à la plage at La Beach Parisienne on Thu 24 Sept, Paris. 1 artist on the bill: Astúria. Latin Bass and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hard Techno Halloween Scotland vs North Ireland at Vibes Glasgow
 
-Hard Techno Halloween Scotland vs North Ireland at Vibes Glasgow on Sat 31 Oct, Glasgow. 1 act on the bill: JOKA. Trance and Techno. Preview the line-up and save it on soundcheck.
+Hard Techno Halloween Scotland vs North Ireland at Vibes Glasgow on Sat 31 Oct, Glasgow. 1 artist on the bill: JOKA. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

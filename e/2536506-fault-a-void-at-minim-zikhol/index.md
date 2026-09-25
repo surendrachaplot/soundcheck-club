@@ -1,6 +1,6 @@
 # Fault / a//void at Minimüzikhol
 
-Fault / a//void at Minimüzikhol on Sat 26 Sept, Istanbul. 2 acts on the bill: a//void and Fault. House and Minimal. Preview the line-up and save it on soundcheck.
+Fault / a//void at Minimüzikhol on Sat 26 Sept, Istanbul. 2 artists on the bill: a//void and Fault. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

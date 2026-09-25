@@ -2,7 +2,7 @@
 
 Damon Bradley is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at KEYBAR, New York City on Sat, 10 Oct 2026.
 
-Damon Bradley is a techno and industrial artist based in United States of America, tracked on soundcheck, with 9 sets logged across Chicago, Copenhagen, Detroit and Newyorkcity and 1 more. Often billed alongside Jahveri, Juana and 999999999. Next up: KEYBAR, Newyorkcity on Sat 10 Oct.
+Damon Bradley is a techno and industrial artist based in United States of America, tracked on soundcheck, with 9 sets logged across Chicago, Copenhagen, Detroit and New York City and 1 more. Often billed alongside Jahveri, Juana and 999999999. Next up: KEYBAR, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 

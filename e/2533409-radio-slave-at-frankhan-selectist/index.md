@@ -1,6 +1,6 @@
 # Radio Slave at Frankhan Selectist
 
-Radio Slave at Frankhan Selectist on Sat 26 Sept, Istanbul. 1 act on the bill: Radio Slave. Preview the line-up and save it on soundcheck.
+Radio Slave at Frankhan Selectist on Sat 26 Sept, Istanbul. 1 artist on the bill: Radio Slave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

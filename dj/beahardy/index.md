@@ -2,7 +2,7 @@
 
 Bea Hardy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 24 Oct 2026.
 
-Bea Hardy is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Montreal and Newyorkcity. Often billed alongside Doug Witte, Kanykei and Orson.NYC. Next up: Dead Letter No. 9, Newyorkcity on Sat 24 Oct.
+Bea Hardy is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Montreal and New York City. Often billed alongside Doug Witte, Kanykei and Orson.NYC. Next up: Dead Letter No. 9, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 

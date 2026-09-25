@@ -1,6 +1,6 @@
 # Official After Party 14th Nov Bridge, Eden Price & Love Machine at Invisible Wind Factory
 
-Official After Party 14th Nov Bridge, Eden Price & Love Machine at Invisible Wind Factory on Sat 14 Nov, Liverpool. 3 acts on the bill: Bridge (NY), Eden Prince and Love Machine. House and Disco. Preview the line-up and save it on soundcheck.
+Official After Party 14th Nov Bridge, Eden Price & Love Machine at Invisible Wind Factory on Sat 14 Nov, Liverpool. 3 artists on the bill: Bridge (NY), Eden Prince and Love Machine. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

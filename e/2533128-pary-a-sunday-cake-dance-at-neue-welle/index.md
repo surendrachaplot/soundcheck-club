@@ -1,6 +1,6 @@
 # Paryìa Sunday Cake Dance at Neue Welle
 
-Paryìa Sunday Cake Dance at Neue Welle on Sun 27 Sept, Leipzig. 3 acts on the bill: e.m.s., JAXX TMS and Marie Montexier. House. Preview the line-up and save it on soundcheck.
+Paryìa Sunday Cake Dance at Neue Welle on Sun 27 Sept, Leipzig. 3 artists on the bill: e.m.s., JAXX TMS and Marie Montexier. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

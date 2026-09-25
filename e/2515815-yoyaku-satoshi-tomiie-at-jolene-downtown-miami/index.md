@@ -1,6 +1,6 @@
 # Yoyaku: Satoshi Tomiie at Jolene Downtown Miami
 
-Yoyaku: Satoshi Tomiie at Jolene Downtown Miami on Fri 25 Sept, Miami. 4 acts on the bill: Kian OK, Lis Sarroca, Mari.te and Satoshi Tomiie. House and Minimal. Preview the line-up and save it on soundcheck.
+Yoyaku: Satoshi Tomiie at Jolene Downtown Miami on Fri 25 Sept, Miami. 4 artists on the bill: Kian OK, Lis Sarroca, Mari.te and Satoshi Tomiie. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dam Swindle at Spybar
 
-Dam Swindle at Spybar on Fri 25 Sept, Chicago. 1 act on the bill: Dam Swindle. House and Deep House. Preview the line-up and save it on soundcheck.
+Dam Swindle at Spybar on Fri 25 Sept, Chicago. 1 artist on the bill: Dam Swindle. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

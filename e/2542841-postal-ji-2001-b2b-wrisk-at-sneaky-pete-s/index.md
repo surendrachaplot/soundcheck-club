@@ -1,6 +1,6 @@
 # Postal: JI_2001 b2b Wrisk at Sneaky Pete's
 
-Postal: JI_2001 b2b Wrisk at Sneaky Pete's on Sun 11 Oct, Edinburgh. 2 acts on the bill: JI_2001 and Wrisk. Preview the line-up and save it on soundcheck.
+Postal: JI_2001 b2b Wrisk at Sneaky Pete's on Sun 11 Oct, Edinburgh. 2 artists on the bill: JI_2001 and Wrisk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

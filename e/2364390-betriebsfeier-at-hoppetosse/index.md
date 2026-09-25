@@ -1,6 +1,6 @@
 # Betriebsfeier at Hoppetosse
 
-Betriebsfeier at Hoppetosse on Fri 27 Nov, Berlin. 2 acts on the bill: Coco and Empro. Techno and House. Preview the line-up and save it on soundcheck.
+Betriebsfeier at Hoppetosse on Fri 27 Nov, Berlin. 2 artists on the bill: Coco and Empro. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

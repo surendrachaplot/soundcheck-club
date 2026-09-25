@@ -1,6 +1,6 @@
 # Berlin Beyond Year 3 at Industry City
 
-Berlin Beyond Year 3 at Industry City on Sat 10 Oct, Newyorkcity. Techno and House. Preview the line-up and save it on soundcheck.
+Berlin Beyond Year 3 at Industry City on Sat 10 Oct, New York City. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

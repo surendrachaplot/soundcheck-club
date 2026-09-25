@@ -1,6 +1,6 @@
 # Chris Stassy pres. by Bootshaus at Bootshaus
 
-Chris Stassy pres. by Bootshaus on Fri 16 Oct, Cologne. 1 act on the bill: CHRIS STASSY. Preview the line-up and save it on soundcheck.
+Chris Stassy pres. by Bootshaus on Fri 16 Oct, Cologne. 1 artist on the bill: CHRIS STASSY. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

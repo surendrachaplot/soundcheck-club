@@ -1,6 +1,6 @@
 # Moonshine CXVII at SMS 514.613.5811 FOR LOCATION
 
-Moonshine CXVII at SMS 514.613.5811 FOR LOCATION on Sat 26 Sept, Montreal. 1 act on the bill: Moonshine. Gqom and Kuduro. Preview the line-up and save it on soundcheck.
+Moonshine CXVII at SMS 514.613.5811 FOR LOCATION on Sat 26 Sept, Montreal. 1 artist on the bill: Moonshine. Gqom and Kuduro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

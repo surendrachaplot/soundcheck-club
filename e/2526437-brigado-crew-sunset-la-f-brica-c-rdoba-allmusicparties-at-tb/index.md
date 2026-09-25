@@ -1,6 +1,6 @@
 # Brigado Crew - Sunset La Fábrica, Córdoba - ALLMusicParties at TBA - La Fabrica, Cordoba
 
-Brigado Crew - Sunset La Fábrica, Córdoba - ALLMusicParties at TBA - La Fabrica, Cordoba on Sun 11 Oct, Buenosaires. 1 act on the bill: Brigado Crew. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Brigado Crew - Sunset La Fábrica, Córdoba - ALLMusicParties at TBA - La Fabrica, Cordoba on Sun 11 Oct, Buenos Aires. 1 artist on the bill: Brigado Crew. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Seb Fontaine presents Prototype at WaV
 
-Seb Fontaine presents Prototype at WaV on Sat 7 Nov, Liverpool. 1 act on the bill: Seb Fontaine. House and Tech House. Preview the line-up and save it on soundcheck.
+Seb Fontaine presents Prototype at WaV on Sat 7 Nov, Liverpool. 1 artist on the bill: Seb Fontaine. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

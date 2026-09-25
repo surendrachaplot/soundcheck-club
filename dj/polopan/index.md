@@ -2,7 +2,7 @@
 
 Polo & Pan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
 
-Polo & Pan are a house and techno duo based in France, tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Barcelona and Boston and 20 more. Often billed alongside Tycho, Olympe and Brina Knauss. Next up: The Midway, Sanfrancisco on Sat 10 Oct.
+Polo & Pan are a house and techno duo based in France, tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Barcelona and Boston and 20 more. Often billed alongside Tycho, Olympe and Brina Knauss. Next up: The Midway, San Francisco/Oakland on Sat 10 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # 303 Records presents Cera Khin at Zorlu Performans Sanatları Merkezi
 
-303 Records presents Cera Khin at Zorlu Performans Sanatları Merkezi on Fri 25 Sept, Istanbul. 3 acts on the bill: Arda Yazkan, Cera Khin and Taha Sezgin. Techno. Preview the line-up and save it on soundcheck.
+303 Records presents Cera Khin at Zorlu Performans Sanatları Merkezi on Fri 25 Sept, Istanbul. 3 artists on the bill: Arda Yazkan, Cera Khin and Taha Sezgin. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Afrobeat Nights NYC at The Sultan Room
 
-Afrobeat Nights NYC at The Sultan Room on Fri 23 Oct, Newyorkcity. Dancehall and Afro House. Preview the line-up and save it on soundcheck.
+Afrobeat Nights NYC at The Sultan Room on Fri 23 Oct, New York City. Dancehall and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

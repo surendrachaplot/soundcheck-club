@@ -1,6 +1,6 @@
 # Miley Serious at Hangaren
 
-Miley Serious at Hangaren on Sat 14 Nov, Copenhagen. 1 act on the bill: Miley Serious. Bass and Garage. Preview the line-up and save it on soundcheck.
+Miley Serious at Hangaren on Sat 14 Nov, Copenhagen. 1 artist on the bill: Miley Serious. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

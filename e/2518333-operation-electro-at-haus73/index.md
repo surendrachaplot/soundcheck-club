@@ -1,6 +1,6 @@
 # Operation Electro at Haus73
 
-Operation Electro at Haus73 on Sat 26 Sept, Hamburg. 1 act on the bill: TBA. Techno and House. Preview the line-up and save it on soundcheck.
+Operation Electro at Haus73 on Sat 26 Sept, Hamburg. 1 artist on the bill: TBA. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

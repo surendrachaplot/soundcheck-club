@@ -1,6 +1,6 @@
 # REACH HOUSE at Paloma
 
-REACH HOUSE at Paloma on Sat 5 Dec, Berlin. 2 acts on the bill: DJ LoveCatt and Doreen. House. Preview the line-up and save it on soundcheck.
+REACH HOUSE at Paloma on Sat 5 Dec, Berlin. 2 artists on the bill: DJ LoveCatt and Doreen. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

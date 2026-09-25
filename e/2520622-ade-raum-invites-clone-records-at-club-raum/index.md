@@ -1,6 +1,6 @@
 # ADE - RAUM invites Clone Records at CLUB RAUM
 
-ADE - RAUM invites Clone Records at CLUB RAUM on Thu 22 Oct, Amsterdam. 8 acts on the bill: Afra, Detroit In Effect, L.F.T. and Neel and 4 more. Preview the line-up and save it on soundcheck.
+ADE - RAUM invites Clone Records at CLUB RAUM on Thu 22 Oct, Amsterdam. 8 artists on the bill: Afra, Detroit In Effect, L.F.T. and Neel and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

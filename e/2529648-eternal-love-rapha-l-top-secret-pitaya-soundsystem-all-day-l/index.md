@@ -1,6 +1,6 @@
 # Eternal Love + Raphaël Top Secret + Pitaya Soundsystem All Day Long Party at Plantation
 
-Eternal Love + Raphaël Top Secret + Pitaya Soundsystem All Day Long Party at Plantation on Sat 10 Oct, Paris. 3 acts on the bill: Eternal Love, Pitaya Soundsystem and Raphaël Top-Secret. House. Preview the line-up and save it on soundcheck.
+Eternal Love + Raphaël Top Secret + Pitaya Soundsystem All Day Long Party at Plantation on Sat 10 Oct, Paris. 3 artists on the bill: Eternal Love, Pitaya Soundsystem and Raphaël Top-Secret. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

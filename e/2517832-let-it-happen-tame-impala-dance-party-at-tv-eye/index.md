@@ -1,6 +1,6 @@
 # Let It Happen (Tame Impala Dance Party) at TV EYE
 
-Let It Happen (Tame Impala Dance Party) at TV EYE on Fri 23 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+Let It Happen (Tame Impala Dance Party) at TV EYE on Fri 23 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

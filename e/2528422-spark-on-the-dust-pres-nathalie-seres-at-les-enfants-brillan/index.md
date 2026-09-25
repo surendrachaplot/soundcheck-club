@@ -1,6 +1,6 @@
 # Spark On The Dust pres. Nathalie Seres at Les Enfants Brillants
 
-Spark On The Dust pres. Nathalie Seres at Les Enfants Brillants on Sat 7 Nov, Barcelona. 3 acts on the bill: Alex Pott, Ion Pananides and Nathalie Seres. House and Electro. Preview the line-up and save it on soundcheck.
+Spark On The Dust pres. Nathalie Seres at Les Enfants Brillants on Sat 7 Nov, Barcelona. 3 artists on the bill: Alex Pott, Ion Pananides and Nathalie Seres. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

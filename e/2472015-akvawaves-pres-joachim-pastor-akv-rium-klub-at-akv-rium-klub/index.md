@@ -1,6 +1,6 @@
 # AkvaWaves pres.: Joachim Pastor // Akvárium Klub at Akvárium Klub
 
-AkvaWaves pres.: Joachim Pastor // Akvárium Klub on Fri 2 Oct, Budapest. 1 act on the bill: Joachim Pastor. Techno and Electronica. Preview the line-up and save it on soundcheck.
+AkvaWaves pres.: Joachim Pastor // Akvárium Klub on Fri 2 Oct, Budapest. 1 artist on the bill: Joachim Pastor. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

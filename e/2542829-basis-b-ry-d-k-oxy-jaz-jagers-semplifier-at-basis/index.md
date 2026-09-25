@@ -1,6 +1,6 @@
 # BASIS/ BØĘRY/ D|K|OXY/ Jaz Jagers/ SEMPLIFIER at BASIS
 
-BASIS/ BØĘRY/ D|K|OXY/ Jaz Jagers/ SEMPLIFIER on Fri 11 Dec, Utrecht. 4 acts on the bill: BØĘRY, D|K|OXY, Jaz Jagers and SEMPLIFIER. Techno and Industrial. Preview the line-up and save it on soundcheck.
+BASIS/ BØĘRY/ D|K|OXY/ Jaz Jagers/ SEMPLIFIER on Fri 11 Dec, Utrecht. 4 artists on the bill: BØĘRY, D|K|OXY, Jaz Jagers and SEMPLIFIER. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

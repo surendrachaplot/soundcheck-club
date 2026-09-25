@@ -1,6 +1,6 @@
 # FOCUS: Marcel Dettmann at Flash
 
-FOCUS: Marcel Dettmann at Flash on Fri 9 Oct, Washingtondc. 2 acts on the bill: Marcel Dettmann and Mazko A. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+FOCUS: Marcel Dettmann at Flash on Fri 9 Oct, Washington DC. 2 artists on the bill: Marcel Dettmann and Mazko A. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

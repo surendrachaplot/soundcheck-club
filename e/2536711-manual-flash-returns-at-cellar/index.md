@@ -1,6 +1,6 @@
 # Manual Flash Returns at Cellar
 
-Manual Flash Returns at Cellar on Sat 7 Nov, London. 3 acts on the bill: Daniel Pereira, Mr. Freeze and Sparky (AU). House. Preview the line-up and save it on soundcheck.
+Manual Flash Returns at Cellar on Sat 7 Nov, London. 3 artists on the bill: Daniel Pereira, Mr. Freeze and Sparky (AU). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

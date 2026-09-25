@@ -1,6 +1,6 @@
 # Yoyaku x Rhythm: Halloween Special at Mooi Space
 
-Yoyaku x Rhythm: Halloween Special at Mooi Space on Sat 31 Oct, Toronto. 6 acts on the bill: Cabanne, DJ Trustfall, Milidi and Negin and 2 more. Minimal. Preview the line-up and save it on soundcheck.
+Yoyaku x Rhythm: Halloween Special at Mooi Space on Sat 31 Oct, Toronto. 6 artists on the bill: Cabanne, DJ Trustfall, Milidi and Negin and 2 more. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

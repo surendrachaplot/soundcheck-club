@@ -2,7 +2,7 @@
 
 Cal C (Modern Art) is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Gobo, Vancouver on Sat, 10 Oct 2026.
 
-Cal C (Modern Art) is a house and balearic artist based in Canada, tracked on soundcheck, with 38 sets logged across Mexicocity, Montreal, Sanfrancisco and Toronto and 1 more. Often billed alongside Ensoul, Milch (1) and Moon King. Next up: Bar Gobo, Vancouver on Sat 10 Oct.
+Cal C (Modern Art) is a house and balearic artist based in Canada, tracked on soundcheck, with 38 sets logged across Mexico City, Montreal, San Francisco/Oakland and Toronto and 1 more. Often billed alongside Ensoul, Milch and Moon King. Next up: Bar Gobo, Vancouver on Sat 10 Oct.
 
 ## Upcoming shows
 

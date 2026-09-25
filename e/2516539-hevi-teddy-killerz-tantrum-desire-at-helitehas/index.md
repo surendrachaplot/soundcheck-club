@@ -1,6 +1,6 @@
 # HEVI: Teddy Killerz & Tantrum Desire at Helitehas
 
-HEVI: Teddy Killerz & Tantrum Desire at Helitehas on Fri 6 Nov, Tallinn. 2 acts on the bill: Tantrum Desire and Teddy Killerz. Drum & Bass. Preview the line-up and save it on soundcheck.
+HEVI: Teddy Killerz & Tantrum Desire at Helitehas on Fri 6 Nov, Tallinn. 2 artists on the bill: Tantrum Desire and Teddy Killerz. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

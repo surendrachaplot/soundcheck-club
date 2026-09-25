@@ -2,7 +2,7 @@
 
 Rabit is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
-Rabit is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Athens, Austin and Berlin and 12 more. Often billed alongside Tati au Miel, Crystallmess and Europa (1). Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
+Rabit is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Athens, Austin and Berlin and 12 more. Often billed alongside Tati au Miel, Crystallmess and Europa. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

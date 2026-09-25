@@ -1,6 +1,6 @@
 # Teleclub at Cafe La Palma
 
-Teleclub at Cafe La Palma on Sat 3 Oct, Madrid. 3 acts on the bill: Adrien Calvet, Combret and Sam S. House and Electro. Preview the line-up and save it on soundcheck.
+Teleclub at Cafe La Palma on Sat 3 Oct, Madrid. 3 artists on the bill: Adrien Calvet, Combret and Sam S. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

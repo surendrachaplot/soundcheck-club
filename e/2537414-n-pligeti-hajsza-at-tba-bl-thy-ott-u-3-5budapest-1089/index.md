@@ -1,6 +1,6 @@
 # Népligeti Hajsza at TBA - Bláthy Ottó u. 3-5Budapest, 1089
 
-Népligeti Hajsza at TBA - Bláthy Ottó u. 3-5Budapest, 1089 on Sat 26 Sept, Budapest. 2 acts on the bill: Andrija Jäger and JAGER (HU). House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Népligeti Hajsza at TBA - Bláthy Ottó u. 3-5Budapest, 1089 on Sat 26 Sept, Budapest. 2 artists on the bill: Andrija Jäger and JAGER (HU). House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

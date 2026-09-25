@@ -1,6 +1,6 @@
 # Funk D'Void & Friends at Macarena Club
 
-Funk D'Void & Friends at Macarena Club on Thu 15 Oct, Barcelona. 4 acts on the bill: Dan McKie, Funk D'Void, Paul Nolan and Usurp. Preview the line-up and save it on soundcheck.
+Funk D'Void & Friends at Macarena Club on Thu 15 Oct, Barcelona. 4 artists on the bill: Dan McKie, Funk D'Void, Paul Nolan and Usurp. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Berkeley Suites 15th BDAY at Fairfield Club
 
-The Berkeley Suites 15th BDAY at Fairfield Club on Sat 21 Nov, Glasgow. 3 acts on the bill: OK Williams, Optimo (Espacio) and Shy One. Preview the line-up and save it on soundcheck.
+The Berkeley Suites 15th BDAY at Fairfield Club on Sat 21 Nov, Glasgow. 3 artists on the bill: OK Williams, Optimo (Espacio) and Shy One. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

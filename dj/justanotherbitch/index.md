@@ -2,7 +2,7 @@
 
 Just Another Bitch is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-Just Another Bitch is a techno and club artist based in United States of America, tracked on soundcheck, with 46 sets logged across Newyorkcity, Sanfrancisco and Seattle. Often billed alongside nonsuit, Beverly Chills and Papa Xanny. Next up: The San Francisco Mint, Sanfrancisco on Fri 25 Sept.
+Just Another Bitch is a techno and club artist based in United States of America, tracked on soundcheck, with 46 sets logged across New York City, San Francisco/Oakland and Seattle. Often billed alongside nonsuit, Beverly Chills and Papa Xanny. Next up: The San Francisco Mint, San Francisco/Oakland on Fri 25 Sept.
 
 ## Upcoming shows
 

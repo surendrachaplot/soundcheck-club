@@ -1,6 +1,6 @@
 # Fury 3rd Anniversary [DAY 1] x Halloween [Balla Barcelona Festival] at Parc del Fòrum
 
-Fury 3rd Anniversary [DAY 1] x Halloween [Balla Barcelona Festival] at Parc del Fòrum on Fri 30 Oct, Barcelona. 5 acts on the bill: 6EJOU, Cristobal Pesce, DYEN and Hades and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Fury 3rd Anniversary [DAY 1] x Halloween [Balla Barcelona Festival] at Parc del Fòrum on Fri 30 Oct, Barcelona. 5 artists on the bill: 6EJOU, Cristobal Pesce, DYEN and Hades and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Rui Vargas is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Switch, Porto on Sat, 26 Sept 2026.
 
-Rui Vargas is a house and disco artist based in Portugal, tracked on soundcheck, with 127 sets logged across Lisbon, Mexicocity, Porto and Stockholm. Often billed alongside Vargas, Varela and Yen Sung. Next up: Switch, Porto on Sat 26 Sept.
+Rui Vargas is a house and disco artist based in Portugal, tracked on soundcheck, with 127 sets logged across Lisbon, Mexico City, Porto and Stockholm. Often billed alongside Vargas, Varela and Yen Sung. Next up: Switch, Porto on Sat 26 Sept.
 
 ## Upcoming shows
 

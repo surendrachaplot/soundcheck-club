@@ -1,6 +1,6 @@
 # Tausend House: Florian Kruse at Tausend
 
-Tausend House: Florian Kruse on Sat 26 Sept, Berlin. 1 act on the bill: Florian Kruse. House. Preview the line-up and save it on soundcheck.
+Tausend House: Florian Kruse on Sat 26 Sept, Berlin. 1 artist on the bill: Florian Kruse. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

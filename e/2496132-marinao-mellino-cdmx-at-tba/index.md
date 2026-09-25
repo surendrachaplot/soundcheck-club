@@ -1,6 +1,6 @@
 # Marinao Mellino - CDMX at TBA
 
-Marinao Mellino - CDMX at TBA on Sat 26 Sept, Mexicocity. 1 act on the bill: Mariano Mellino. Preview the line-up and save it on soundcheck.
+Marinao Mellino - CDMX at TBA on Sat 26 Sept, Mexico City. 1 artist on the bill: Mariano Mellino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

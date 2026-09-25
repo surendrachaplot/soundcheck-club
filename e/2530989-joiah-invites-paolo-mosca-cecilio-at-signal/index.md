@@ -1,6 +1,6 @@
 # Joiah Invites: Paolo Mosca, Cecilio at Signal
 
-Joiah Invites: Paolo Mosca, Cecilio at Signal on Thu 22 Oct, Newyorkcity. 3 acts on the bill: Cecilio, Joiah and Paolo Mosca. Preview the line-up and save it on soundcheck.
+Joiah Invites: Paolo Mosca, Cecilio at Signal on Thu 22 Oct, New York City. 3 artists on the bill: Cecilio, Joiah and Paolo Mosca. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

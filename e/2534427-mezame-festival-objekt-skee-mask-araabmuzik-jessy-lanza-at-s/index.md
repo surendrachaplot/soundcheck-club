@@ -1,6 +1,6 @@
 # MEZAME FESTIVAL: Objekt, Skee Mask, Araabmuzik, Jessy Lanza + + at St. Bartholomew's Church
 
-MEZAME FESTIVAL: Objekt, Skee Mask, Araabmuzik, Jessy Lanza + + at St. Bartholomew's Church on Sat 26 Sept, Newyorkcity. 9 acts on the bill: Araabmuzik, Jessy Lanza, Kelman Duran and Objekt and 5 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+MEZAME FESTIVAL: Objekt, Skee Mask, Araabmuzik, Jessy Lanza + + at St. Bartholomew's Church on Sat 26 Sept, New York City. 9 artists on the bill: Araabmuzik, Jessy Lanza, Kelman Duran and Objekt and 5 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 20 Years of Rebirth Records at Hearth
 
-20 Years of Rebirth Records at Hearth on Thu 22 Oct, Amsterdam. 2 acts on the bill: Chromatic Filters and Shield. House and Balearic. Preview the line-up and save it on soundcheck.
+20 Years of Rebirth Records at Hearth on Thu 22 Oct, Amsterdam. 2 artists on the bill: Chromatic Filters and Shield. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

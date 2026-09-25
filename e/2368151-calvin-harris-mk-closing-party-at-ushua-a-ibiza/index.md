@@ -1,6 +1,6 @@
 # Calvin Harris & MK - CLOSING PARTY at Ushuaïa Ibiza
 
-Calvin Harris & MK - CLOSING PARTY at Ushuaïa Ibiza on Fri 2 Oct, Ibiza. 2 acts on the bill: Calvin Harris and Marc Kinchen. Progressive House and House. Preview the line-up and save it on soundcheck.
+Calvin Harris & MK - CLOSING PARTY at Ushuaïa Ibiza on Fri 2 Oct, Ibiza. 2 artists on the bill: Calvin Harris and Marc Kinchen. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

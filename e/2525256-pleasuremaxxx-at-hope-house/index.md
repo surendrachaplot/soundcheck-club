@@ -1,6 +1,6 @@
 # PleasureMaxxx at Hope House
 
-PleasureMaxxx at Hope House on Sat 17 Oct, Leeds. 2 acts on the bill: DJ Subaru and Erol Alkan. Acid and Post-Punk. Preview the line-up and save it on soundcheck.
+PleasureMaxxx at Hope House on Sat 17 Oct, Leeds. 2 artists on the bill: DJ Subaru and Erol Alkan. Acid and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

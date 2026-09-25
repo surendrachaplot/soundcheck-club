@@ -2,7 +2,7 @@
 
 DJ Boogie Blind is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at COUNTER CLUB, Tokyo on Sat, 10 Oct 2026.
 
-DJ Boogie Blind is a hip-hop and funk / soul artist tracked on soundcheck, with 11 sets logged across Miami, Newyorkcity and Tokyo. Often billed alongside Rich Medina, DJ Koco aka Shimokita and Jovonn. Next up: COUNTER CLUB, Tokyo on Sat 10 Oct.
+DJ Boogie Blind is a hip-hop and funk / soul artist tracked on soundcheck, with 11 sets logged across Miami, New York City and Tokyo. Often billed alongside Rich Medina, DJ Koco aka Shimokita and Jovonn. Next up: COUNTER CLUB, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 

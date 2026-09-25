@@ -1,6 +1,6 @@
 # PARAMIDA, Simone de Kunovich, Gojnea76 at Club Guesthouse
 
-PARAMIDA, Simone de Kunovich, Gojnea76 at Club Guesthouse on Sat 26 Sept, Bucharest. 3 acts on the bill: Gojnea76, PARAMIDA and Simone de Kunovich. Preview the line-up and save it on soundcheck.
+PARAMIDA, Simone de Kunovich, Gojnea76 at Club Guesthouse on Sat 26 Sept, Bucharest. 3 artists on the bill: Gojnea76, PARAMIDA and Simone de Kunovich. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

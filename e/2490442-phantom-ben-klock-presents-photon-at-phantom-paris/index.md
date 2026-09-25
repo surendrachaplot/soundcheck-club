@@ -1,6 +1,6 @@
 # Phantom : Ben Klock Presents Photon at Phantom, Paris
 
-Phantom : Ben Klock Presents Photon at Phantom, Paris on Sat 12 Dec, Paris. 1 act on the bill: Ben Klock. Preview the line-up and save it on soundcheck.
+Phantom : Ben Klock Presents Photon at Phantom, Paris on Sat 12 Dec, Paris. 1 artist on the bill: Ben Klock. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sir Hiss & Friends at Suki10c
 
-Sir Hiss & Friends at Suki10c on Fri 6 Nov, Birmingham. 1 act on the bill: Sir Hiss. Electro and Grime. Preview the line-up and save it on soundcheck.
+Sir Hiss & Friends at Suki10c on Fri 6 Nov, Birmingham. 1 artist on the bill: Sir Hiss. Electro and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

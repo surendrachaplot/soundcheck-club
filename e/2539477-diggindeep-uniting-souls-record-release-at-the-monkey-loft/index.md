@@ -1,6 +1,6 @@
 # DigginDeep - Uniting Souls Record Release at The Monkey Loft
 
-DigginDeep - Uniting Souls Record Release at The Monkey Loft on Sat 26 Sept, Seattle. 3 acts on the bill: Dane Garfield, Mr. Linden and Sen-Sei. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+DigginDeep - Uniting Souls Record Release at The Monkey Loft on Sat 26 Sept, Seattle. 3 artists on the bill: Dane Garfield, Mr. Linden and Sen-Sei. Drum & Bass and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

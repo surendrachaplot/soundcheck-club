@@ -1,6 +1,6 @@
 # Azadi: ZAINAB, JD Reid + Me Gusta at New Century Locker
 
-Azadi: ZAINAB, JD Reid + Me Gusta at New Century Locker on Sat 14 Nov, Manchester. 2 acts on the bill: JD. REID and ZEEMUFFIN. Bass and Club. Preview the line-up and save it on soundcheck.
+Azadi: ZAINAB, JD Reid + Me Gusta at New Century Locker on Sat 14 Nov, Manchester. 2 artists on the bill: JD. REID and ZEEMUFFIN. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Sophie (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Frame, Dublin on Sat, 26 Sept 2026.
 
-Sophie (2) is a techno and house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Belfast, Dublin and London. Often billed alongside Hannah (1), Body Clinic and CIAN__. Next up: Frame, Dublin on Sat 26 Sept.
+Sophie is a techno and house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Belfast, Dublin and London. Often billed alongside Hannah, Body Clinic and CIAN__. Next up: Frame, Dublin on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Charlie Bones + Sarahtonin at The Fox and Firkin
 
-Charlie Bones + Sarahtonin at The Fox and Firkin on Fri 9 Oct, London. 2 acts on the bill: Charlie Bones and Sarahtonin. House and Disco. Preview the line-up and save it on soundcheck.
+Charlie Bones + Sarahtonin at The Fox and Firkin on Fri 9 Oct, London. 2 artists on the bill: Charlie Bones and Sarahtonin. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

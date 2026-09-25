@@ -1,6 +1,6 @@
 # HALLOWEEN NIGHT with Leon extended set, Michele Arcieri at Amnesia Milano
 
-HALLOWEEN NIGHT with Leon extended set, Michele Arcieri at Amnesia Milano on Sat 31 Oct, Milan. 1 act on the bill: Leon. Preview the line-up and save it on soundcheck.
+HALLOWEEN NIGHT with Leon extended set, Michele Arcieri at Amnesia Milano on Sat 31 Oct, Milan. 1 artist on the bill: Leon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

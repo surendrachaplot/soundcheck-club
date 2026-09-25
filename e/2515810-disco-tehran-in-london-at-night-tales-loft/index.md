@@ -1,6 +1,6 @@
 # DISCO TEHRAN IN LONDON at Night Tales Loft
 
-DISCO TEHRAN IN LONDON at Night Tales Loft on Fri 4 Dec, London. 1 act on the bill: DAR DISKU. Preview the line-up and save it on soundcheck.
+DISCO TEHRAN IN LONDON at Night Tales Loft on Fri 4 Dec, London. 1 artist on the bill: DAR DISKU. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

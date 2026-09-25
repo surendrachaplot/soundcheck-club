@@ -1,6 +1,6 @@
 # NICE TIME at Tangent Gallery
 
-NICE TIME at Tangent Gallery on Fri 25 Sept, Detroit. 3 acts on the bill: Charles Trees, Kenjiro and Shigeto. House and Acid. Preview the line-up and save it on soundcheck.
+NICE TIME at Tangent Gallery on Fri 25 Sept, Detroit. 3 artists on the bill: Charles Trees, Kenjiro and Shigeto. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

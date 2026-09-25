@@ -1,6 +1,6 @@
 # G2: BRALLE, Dual Pistols, Kali at KHIDI
 
-G2: BRALLE, Dual Pistols, Kali at KHIDI on Fri 2 Oct, Tbilisi. 2 acts on the bill: BRALLE and Dual Pistols. Preview the line-up and save it on soundcheck.
+G2: BRALLE, Dual Pistols, Kali at KHIDI on Fri 2 Oct, Tbilisi. 2 artists on the bill: BRALLE and Dual Pistols. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

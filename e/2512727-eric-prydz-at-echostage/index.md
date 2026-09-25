@@ -1,6 +1,6 @@
 # Eric Prydz at Echostage
 
-Eric Prydz at Echostage on Fri 20 Nov, Washingtondc. 1 act on the bill: Eric Prydz. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Eric Prydz at Echostage on Fri 20 Nov, Washington DC. 1 artist on the bill: Eric Prydz. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

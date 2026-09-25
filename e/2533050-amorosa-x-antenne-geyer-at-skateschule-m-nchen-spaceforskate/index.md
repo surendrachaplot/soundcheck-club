@@ -1,6 +1,6 @@
 # AMOROSA x ANTENNE GEYER at Skateschule München - Spaceforskate
 
-AMOROSA x ANTENNE GEYER at Skateschule München - Spaceforskate on Fri 9 Oct, Munich. 3 acts on the bill: Benni B, Maggie Jane and Spinneck. Preview the line-up and save it on soundcheck.
+AMOROSA x ANTENNE GEYER at Skateschule München - Spaceforskate on Fri 9 Oct, Munich. 3 artists on the bill: Benni B, Maggie Jane and Spinneck. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

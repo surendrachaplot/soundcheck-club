@@ -1,6 +1,6 @@
 # Shonky + Jennifer Loveless at Floyd
 
-Shonky + Jennifer Loveless at Floyd on Fri 25 Sept, Miami. 4 acts on the bill: Bort, Gio Elia, Jennifer Loveless and Shonky. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Shonky + Jennifer Loveless at Floyd on Fri 25 Sept, Miami. 4 artists on the bill: Bort, Gio Elia, Jennifer Loveless and Shonky. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

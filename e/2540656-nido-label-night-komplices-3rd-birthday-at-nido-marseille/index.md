@@ -1,6 +1,6 @@
 # Nido label night: Komplices 3rd Birthday at Nido Marseille
 
-Nido label night: Komplices 3rd Birthday at Nido Marseille on Sat 31 Oct, Marseille. 3 acts on the bill: ALiNA, Atree and JO SZT. Preview the line-up and save it on soundcheck.
+Nido label night: Komplices 3rd Birthday at Nido Marseille on Sat 31 Oct, Marseille. 3 artists on the bill: ALiNA, Atree and JO SZT. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

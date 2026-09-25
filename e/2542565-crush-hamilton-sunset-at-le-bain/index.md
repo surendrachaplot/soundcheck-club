@@ -1,6 +1,6 @@
 # CRUSH + HAMILTON SUNSET at Le Bain
 
-CRUSH + HAMILTON SUNSET at Le Bain on Sat 26 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+CRUSH + HAMILTON SUNSET at Le Bain on Sat 26 Sept, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

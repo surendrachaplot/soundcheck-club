@@ -1,6 +1,6 @@
 # Stoic Music presents. Overview Music (UK) with Klinical, Rizzle, Ewol, Ambion, Sub-Antics at Void Hall
 
-Stoic Music presents. Overview Music (UK) with Klinical, Rizzle, Ewol, Ambion, Sub-Antics at Void Hall on Sat 17 Oct, Berlin. 3 acts on the bill: Azur, Initia and Rizzle. Drum & Bass. Preview the line-up and save it on soundcheck.
+Stoic Music presents. Overview Music (UK) with Klinical, Rizzle, Ewol, Ambion, Sub-Antics at Void Hall on Sat 17 Oct, Berlin. 3 artists on the bill: Azur, Initia and Rizzle. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

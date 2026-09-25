@@ -1,6 +1,6 @@
 # DGTL ADE FUSE at NDSM Scheepsbouwloods
 
-DGTL ADE FUSE at NDSM Scheepsbouwloods on Sun 25 Oct, Amsterdam. 17 acts on the bill: ADMNTi, Dr Banana, Enzo Siragusa and Isaac Carter and 13 more. House and Tech House. Preview the line-up and save it on soundcheck.
+DGTL ADE FUSE at NDSM Scheepsbouwloods on Sun 25 Oct, Amsterdam. 17 artists on the bill: ADMNTi, Dr Banana, Enzo Siragusa and Isaac Carter and 13 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CÉ LA VI Race Week - Lights Out feat. Carl Cox at CÉ LA VI
 
-CÉ LA VI Race Week - Lights Out feat. Carl Cox on Sun 11 Oct, Singapore. 3 acts on the bill: Carl Cox, Jeremy Healy and Kim Turnbull. House. Preview the line-up and save it on soundcheck.
+CÉ LA VI Race Week - Lights Out feat. Carl Cox on Sun 11 Oct, Singapore. 3 artists on the bill: Carl Cox, Jeremy Healy and Kim Turnbull. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Edward is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Distrikt, Leeds on Sat, 26 Sept 2026.
 
-Edward is a house and minimal artist based in Germany, tracked on soundcheck, with 134 sets logged across All, Amsterdam, Antwerp and Barcelona and 29 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Distrikt, Leeds on Sat 26 Sept.
+Edward is a house and minimal artist based in Germany, tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 29 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Distrikt, Leeds on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,7 @@ Edward is a house and minimal artist based in Germany, tracked on soundcheck, wi
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Distrikt | Leeds |
 | Sat, 26 Sept 2026 | Haus der Visionäre | Berlin |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 2 Oct 2026 | FOLD | London |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |

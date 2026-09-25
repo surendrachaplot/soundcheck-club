@@ -1,6 +1,6 @@
 # Secuencias & Señales at CCEMx
 
-Secuencias & Señales at CCEMx on Sat 26 Sept, Mexicocity. 4 acts on the bill: Bluecommand, Eafhm, M. Dagdug and Nebur. Preview the line-up and save it on soundcheck.
+Secuencias & Señales at CCEMx on Sat 26 Sept, Mexico City. 4 artists on the bill: Bluecommand, Eafhm, M. Dagdug and Nebur. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

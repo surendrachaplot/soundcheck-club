@@ -1,19 +1,23 @@
 # DYEN
 
-DYEN is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at E1, London on Fri, 25 Sept 2026.
+DYEN is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at E1, London on Fri, 25 Sept 2026.
 
-DYEN is a techno and house artist based in Netherlands, tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Shlømo, Nico Moreno and I Hate Models. Next up: E1, London on Fri 25 Sept.
+DYEN is a techno and house artist based in Netherlands, tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 55 more. Often billed alongside Shlømo, Nico Moreno and I Hate Models. Next up: E1, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | E1 | London |
+| Fri, 2 Oct 2026 | Hans Bunte Areal | Freiburg |
+| Sat, 10 Oct 2026 | Halle de La Machine | Toulouse |
+| Sat, 17 Oct 2026 | Cinecittà World | Rome |
 | Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |
 | Fri, 30 Oct 2026 | Parc del Fòrum | Barcelona |
 | Sat, 31 Oct 2026 | Spook Club | Valencia |
 | Fri, 6 Nov 2026 | The Classic Grand | Glasgow |
 | Fri, 6 Nov 2026 | The Classic Grand | Glasgow |
+| Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 

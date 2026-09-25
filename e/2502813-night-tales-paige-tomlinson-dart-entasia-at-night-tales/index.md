@@ -1,6 +1,6 @@
 # Night Tales: Paige Tomlinson, DART, Entasia at Night Tales
 
-Night Tales: Paige Tomlinson, DART, Entasia on Fri 27 Nov, London. 3 acts on the bill: DART, Entasia and Paige Tomlinson. Techno and House. Preview the line-up and save it on soundcheck.
+Night Tales: Paige Tomlinson, DART, Entasia on Fri 27 Nov, London. 3 artists on the bill: DART, Entasia and Paige Tomlinson. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

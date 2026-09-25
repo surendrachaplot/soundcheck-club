@@ -1,6 +1,6 @@
 # (DnB) Formula Tokyo show by Beginning at Circus Tokyo
 
-(DnB) Formula Tokyo show by Beginning at Circus Tokyo on Tue 3 Nov, Tokyo. 2 acts on the bill: Formula LDN and SAKO. Drum & Bass. Preview the line-up and save it on soundcheck.
+(DnB) Formula Tokyo show by Beginning at Circus Tokyo on Tue 3 Nov, Tokyo. 2 artists on the bill: Formula LDN and SAKO. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

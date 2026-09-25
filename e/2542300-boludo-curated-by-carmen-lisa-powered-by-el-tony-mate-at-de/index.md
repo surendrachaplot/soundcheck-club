@@ -1,6 +1,6 @@
 # BOLUDO curated by Carmen Lisa powered by El Tony Mate at De Fik Garden
 
-BOLUDO curated by Carmen Lisa powered by El Tony Mate at De Fik Garden on Fri 23 Oct, Amsterdam. 3 acts on the bill: Carmen Lisa (2), LINDS (NL) and raptis. Techno. Preview the line-up and save it on soundcheck.
+BOLUDO curated by Carmen Lisa powered by El Tony Mate at De Fik Garden on Fri 23 Oct, Amsterdam. 3 artists on the bill: Carmen Lisa, LINDS (NL) and raptis. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

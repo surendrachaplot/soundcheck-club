@@ -1,6 +1,6 @@
 # ONYRO presents Ichigo Ichie at Casa Montjuïc
 
-ONYRO presents Ichigo Ichie at Casa Montjuïc on Sat 10 Oct, Barcelona. 1 act on the bill: Lemna. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+ONYRO presents Ichigo Ichie at Casa Montjuïc on Sat 10 Oct, Barcelona. 1 artist on the bill: Lemna. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

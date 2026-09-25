@@ -1,6 +1,6 @@
 # Madam invites: David Penn & friends at Madam
 
-Madam invites: David Penn & friends on Wed 21 Oct, Amsterdam. 7 acts on the bill: Aline Rocha, David Penn, Drabes and Ferreck Dawn and 3 more. House. Preview the line-up and save it on soundcheck.
+Madam invites: David Penn & friends on Wed 21 Oct, Amsterdam. 7 artists on the bill: Aline Rocha, David Penn, Drabes and Ferreck Dawn and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Alfred Heinrichs Leipzig at Haus Auensee
 
-Alfred Heinrichs Leipzig at Haus Auensee on Sat 17 Oct, Leipzig. 1 act on the bill: Alfred Heinrichs. Techno. Preview the line-up and save it on soundcheck.
+Alfred Heinrichs Leipzig at Haus Auensee on Sat 17 Oct, Leipzig. 1 artist on the bill: Alfred Heinrichs. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Into The Woods presents Helena Hauff and Dopplereffekt (Live) at TBA
 
-Into The Woods presents Helena Hauff and Dopplereffekt (Live) at TBA on Fri 25 Sept, Losangeles. 2 acts on the bill: Dopplereffekt and Helena Hauff. Techno and Electro. Preview the line-up and save it on soundcheck.
+Into The Woods presents Helena Hauff and Dopplereffekt (Live) at TBA on Fri 25 Sept, Los Angeles. 2 artists on the bill: Dopplereffekt and Helena Hauff. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

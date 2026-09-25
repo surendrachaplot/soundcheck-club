@@ -1,6 +1,6 @@
 # LED presents Indo Warehouse at Quartyard
 
-LED presents Indo Warehouse at Quartyard on Fri 9 Oct, Sandiego. Preview the line-up and save it on soundcheck.
+LED presents Indo Warehouse at Quartyard on Fri 9 Oct, San Diego. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

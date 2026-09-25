@@ -1,6 +1,6 @@
 # D-Nox & Dimuth K at Watsons EQ
 
-D-Nox & Dimuth K at Watsons EQ on Sat 31 Oct, Sydney. 3 acts on the bill: D-Nox, Dimuth K and Federico Puentes. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+D-Nox & Dimuth K at Watsons EQ on Sat 31 Oct, Sydney. 3 artists on the bill: D-Nox, Dimuth K and Federico Puentes. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

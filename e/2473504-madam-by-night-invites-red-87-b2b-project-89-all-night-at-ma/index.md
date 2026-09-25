@@ -1,6 +1,6 @@
 # Madam by Night invites: RED 87 b2b Project 89 (all night) at Madam
 
-Madam by Night invites: RED 87 b2b Project 89 (all night) on Fri 9 Oct, Amsterdam. 1 act on the bill: Project89. House and Deep House. Preview the line-up and save it on soundcheck.
+Madam by Night invites: RED 87 b2b Project 89 (all night) on Fri 9 Oct, Amsterdam. 1 artist on the bill: Project89. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

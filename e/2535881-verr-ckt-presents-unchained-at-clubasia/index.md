@@ -1,6 +1,6 @@
 # Verrückt presents unchained at clubasia
 
-Verrückt presents unchained at clubasia on Fri 25 Sept, Tokyo. 6 acts on the bill: BLACK(JP), Jayzo, MARU (3) and NIKI (JP) and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Verrückt presents unchained at clubasia on Fri 25 Sept, Tokyo. 6 artists on the bill: BLACK(JP), Jayzo, MARU and NIKI (JP) and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

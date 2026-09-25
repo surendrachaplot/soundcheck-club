@@ -1,6 +1,6 @@
 # Reinier Zonneveld x MÄX Zürich at MÄX
 
-Reinier Zonneveld x MÄX Zürich on Sat 3 Oct, Zurich. 2 acts on the bill: Megix and Reinier Zonneveld. Techno. Preview the line-up and save it on soundcheck.
+Reinier Zonneveld x MÄX Zürich on Sat 3 Oct, Zurich. 2 artists on the bill: Megix and Reinier Zonneveld. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

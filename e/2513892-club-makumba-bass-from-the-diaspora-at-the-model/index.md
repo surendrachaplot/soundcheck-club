@@ -1,6 +1,6 @@
 # Club Makumba: BASS FROM THE DIASPORA at The Model
 
-Club Makumba: BASS FROM THE DIASPORA at The Model on Sat 26 Sept, Nottingham. 2 acts on the bill: CHEZA LUCINA and Princess Trium. Bass and Electronica. Preview the line-up and save it on soundcheck.
+Club Makumba: BASS FROM THE DIASPORA at The Model on Sat 26 Sept, Nottingham. 2 artists on the bill: CHEZA LUCINA and Princess Trium. Bass and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

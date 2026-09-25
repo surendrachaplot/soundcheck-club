@@ -2,7 +2,7 @@
 
 James Park. is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at MAD Radio NYC, New York City on Fri, 30 Oct 2026.
 
-James Park. is a house and disco artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside Onakan Disko, AG (NYC) and Ardio Zemog. Next up: MAD Radio NYC, Newyorkcity on Fri 30 Oct.
+James Park. is a house and disco artist based in United States of America, tracked on soundcheck, with 12 sets logged across New York City. Often billed alongside Onakan Disko, AG (NYC) and Ardio Zemog. Next up: MAD Radio NYC, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 

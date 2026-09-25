@@ -1,6 +1,6 @@
 # FINALLY at Socore Factory
 
-FINALLY at Socore Factory on Thu 8 Oct, Osaka. 1 act on the bill: MIYUU. House. Preview the line-up and save it on soundcheck.
+FINALLY at Socore Factory on Thu 8 Oct, Osaka. 1 artist on the bill: MIYUU. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

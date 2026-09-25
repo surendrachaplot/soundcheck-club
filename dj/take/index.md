@@ -2,7 +2,7 @@
 
 Takē is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Altenburg 1964, Prague on Fri, 25 Sept 2026.
 
-Takē is a techno and house artist based in Czech Republic, tracked on soundcheck, with 46 sets logged across Berlin and Prague. Often billed alongside ishka machina, AVHD and DJames (2). Next up: Altenburg 1964, Prague on Fri 25 Sept.
+Takē is a techno and house artist based in Czech Republic, tracked on soundcheck, with 46 sets logged across Berlin and Prague. Often billed alongside ishka machina, AVHD and DJames. Next up: Altenburg 1964, Prague on Fri 25 Sept.
 
 ## Upcoming shows
 

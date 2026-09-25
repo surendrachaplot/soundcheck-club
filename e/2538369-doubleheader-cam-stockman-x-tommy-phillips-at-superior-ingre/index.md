@@ -1,6 +1,6 @@
 # DOUBLEHEADER: Cam Stockman x Tommy Phillips at Superior Ingredients
 
-DOUBLEHEADER: Cam Stockman x Tommy Phillips at Superior Ingredients on Sun 13 Dec, Newyorkcity. 2 acts on the bill: Cam Stockman and Tommy Phillips. House. Preview the line-up and save it on soundcheck.
+DOUBLEHEADER: Cam Stockman x Tommy Phillips at Superior Ingredients on Sun 13 Dec, New York City. 2 artists on the bill: Cam Stockman and Tommy Phillips. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # COBRAH at Razzmatazz
 
-COBRAH at Razzmatazz on Thu 26 Nov, Barcelona. 1 act on the bill: COBRAH. Preview the line-up and save it on soundcheck.
+COBRAH at Razzmatazz on Thu 26 Nov, Barcelona. 1 artist on the bill: COBRAH. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

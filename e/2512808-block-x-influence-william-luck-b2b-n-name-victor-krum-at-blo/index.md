@@ -1,6 +1,6 @@
 # Block x Influence: William Luck B2B NØNAME, Victor Krum at block.
 
-Block x Influence: William Luck B2B NØNAME, Victor Krum at block. on Sat 26 Sept, Dublin. 3 acts on the bill: NoName, Victor Krum and William Luck. Electronica. Preview the line-up and save it on soundcheck.
+Block x Influence: William Luck B2B NØNAME, Victor Krum at block. on Sat 26 Sept, Dublin. 3 artists on the bill: NoName, Victor Krum and William Luck. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ALLMusicParties at TBA
 
-ALLMusicParties at TBA on Fri 6 Nov, Saopaulo. 3 acts on the bill: Notre Dame, Paloma and Saraga. Afro House. Preview the line-up and save it on soundcheck.
+ALLMusicParties at TBA on Fri 6 Nov, Sao Paulo. 3 artists on the bill: Notre Dame, Paloma and Saraga. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

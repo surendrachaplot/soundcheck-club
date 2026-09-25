@@ -1,14 +1,16 @@
 # Yikes
 
-Yikes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
+Yikes is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
 
-Yikes is a house and techno artist based in Australia, tracked on soundcheck, with 40 sets logged across Hamburg, Melbourne, Montreal and Stockholm and 1 more. Often billed alongside DJ PGZ, Kia (AU) and Moopie. Next up: Meredith Supernatural Ampitheatre, Melbourne on Fri 11 Dec.
+Yikes is a house and techno artist based in Australia, tracked on soundcheck, with 42 sets logged across Brisbane, Hamburg, Melbourne and Montreal and 3 more. Often billed alongside DJ PGZ, Kia (AU) and Moopie. Next up: Meredith Supernatural Ampitheatre, Melbourne on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |
+| Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
+| Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 
 ## Recently played
 

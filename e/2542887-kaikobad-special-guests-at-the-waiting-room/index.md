@@ -1,6 +1,6 @@
 # Kaikobad + Special Guests at The Waiting Room
 
-Kaikobad + Special Guests at The Waiting Room on Sat 24 Oct, London. 1 act on the bill: Kaikobad. Preview the line-up and save it on soundcheck.
+Kaikobad + Special Guests at The Waiting Room on Sat 24 Oct, London. 1 artist on the bill: Kaikobad. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

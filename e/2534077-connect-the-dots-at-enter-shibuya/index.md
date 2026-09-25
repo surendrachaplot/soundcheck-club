@@ -1,6 +1,6 @@
 # CONNECT THE DOTS at Enter Shibuya
 
-CONNECT THE DOTS at Enter Shibuya on Wed 7 Oct, Tokyo. 4 acts on the bill: AMIDAdrive, Labyrinthine, LØST and YUKIMASA. Techno. Preview the line-up and save it on soundcheck.
+CONNECT THE DOTS at Enter Shibuya on Wed 7 Oct, Tokyo. 4 artists on the bill: AMIDAdrive, Labyrinthine, LØST and YUKIMASA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

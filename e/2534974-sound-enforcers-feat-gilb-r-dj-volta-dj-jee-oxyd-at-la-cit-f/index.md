@@ -1,6 +1,6 @@
 # SOUND ENFORCERS feat Gilb'R, Dj Volta, DJ Jee, Oxyd at La Cité Fertile
 
-SOUND ENFORCERS feat Gilb'R, Dj Volta, DJ Jee, Oxyd at La Cité Fertile on Sat 10 Oct, Paris. 4 acts on the bill: DJ Jee, dj volta (2), Gilb'R and Oxyd. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+SOUND ENFORCERS feat Gilb'R, Dj Volta, DJ Jee, Oxyd at La Cité Fertile on Sat 10 Oct, Paris. 4 artists on the bill: DJ Jee, dj volta, Gilb'R and Oxyd. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

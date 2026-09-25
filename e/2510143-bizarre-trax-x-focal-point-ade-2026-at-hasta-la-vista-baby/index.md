@@ -1,6 +1,6 @@
 # Bizarre Trax x Focal Point - ADE 2026 at Hasta La Vista, Baby
 
-Bizarre Trax x Focal Point - ADE 2026 at Hasta La Vista, Baby on Thu 22 Oct, Amsterdam. 5 acts on the bill: B.Love, E.LINA, Jhobei and Oliver.r and 1 more. Tech House and Electro. Preview the line-up and save it on soundcheck.
+Bizarre Trax x Focal Point - ADE 2026 at Hasta La Vista, Baby on Thu 22 Oct, Amsterdam. 5 artists on the bill: B.Love, E.LINA, Jhobei and Oliver.r and 1 more. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

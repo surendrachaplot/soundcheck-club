@@ -1,6 +1,6 @@
 # FIXED with James Axon b2b JDH (all night), A lana (all night) at Good Room
 
-FIXED with James Axon b2b JDH (all night), A lana (all night) at Good Room on Fri 25 Sept, Newyorkcity. 3 acts on the bill: A lana, James Axon and JDH. Preview the line-up and save it on soundcheck.
+FIXED with James Axon b2b JDH (all night), A lana (all night) at Good Room on Fri 25 Sept, New York City. 3 artists on the bill: A lana, James Axon and JDH. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

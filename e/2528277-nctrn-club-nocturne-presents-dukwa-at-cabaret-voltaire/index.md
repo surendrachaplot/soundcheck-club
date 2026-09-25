@@ -1,6 +1,6 @@
 # NCTRN: Club Nocturne presents Dukwa at Cabaret Voltaire
 
-NCTRN: Club Nocturne presents Dukwa at Cabaret Voltaire on Sat 24 Oct, Edinburgh. 1 act on the bill: Dukwa. House. Preview the line-up and save it on soundcheck.
+NCTRN: Club Nocturne presents Dukwa at Cabaret Voltaire on Sat 24 Oct, Edinburgh. 1 artist on the bill: Dukwa. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

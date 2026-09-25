@@ -1,6 +1,6 @@
 # ˚✩ sᴀᴍ ɢɪʀʟɪɴɢ at ᴄʟᴜʙ sᴘɪᴛ ✩˚ at Sneaky Pete's
 
-˚✩ sᴀᴍ ɢɪʀʟɪɴɢ at ᴄʟᴜʙ sᴘɪᴛ ✩˚ at Sneaky Pete's on Mon 30 Nov, Edinburgh. 4 acts on the bill: Jodie Mooney, Mixfits (2), RUA DJ and Sam Girling. Techno and Garage. Preview the line-up and save it on soundcheck.
+˚✩ sᴀᴍ ɢɪʀʟɪɴɢ at ᴄʟᴜʙ sᴘɪᴛ ✩˚ at Sneaky Pete's on Mon 30 Nov, Edinburgh. 4 artists on the bill: Jodie Mooney, Mixfits, RUA DJ and Sam Girling. Techno and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

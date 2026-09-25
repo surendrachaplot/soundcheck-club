@@ -2,7 +2,7 @@
 
 Sigha is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 28 Nov 2026.
 
-Sigha is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Madrid and Milan and 4 more. Often billed alongside Herald (1), HiTOMi and NATSUMI. Next up: Circus Tokyo, Tokyo on Sat 28 Nov.
+Sigha is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Madrid and Milan and 4 more. Often billed alongside Herald, HiTOMi and NATSUMI. Next up: Circus Tokyo, Tokyo on Sat 28 Nov.
 
 ## Upcoming shows
 

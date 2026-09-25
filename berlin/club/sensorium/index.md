@@ -2,7 +2,7 @@
 
 Sensorium is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "ETHER" on Fri, 25 Sept 2026.
 
-Sensorium is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including Abdallah and I, Andeel, Blck-Swan and Daviti and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
+Sensorium is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including Abdallah and I, Andeel, babymullet and Bee Lincoln and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Sensorium is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, wit
 | Wed, 7 Oct 2026 | TECHNO MITTWOCH | Eleonor Bianchi, Fugist, k.meower, peak2soon |
 | Fri, 9 Oct 2026 | ABANDONED FACTORY RESIDENTS VINYL-ONLY NIGHT | ESSMEE, KLEYN, NYCTO, SAAMO, Viktor Kampf, menicx |
 | Wed, 14 Oct 2026 | TECHNO MITTWOCH | Blck-Swan, Manrick Stapez, Uninvited |
-| Fri, 16 Oct 2026 | ETHER |  |
+| Fri, 16 Oct 2026 | ETHER | Bee Lincoln, J~Dizz¥, babymullet, pink-panther, wilder förster |
 | Wed, 21 Oct 2026 | TECHNO MITTWOCH | Daviti, PETDuo, Viktor Kampf |
 | Sat, 24 Oct 2026 | SENSO NACHT |  |
 

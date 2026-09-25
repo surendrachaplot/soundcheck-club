@@ -1,6 +1,6 @@
 # FIBER Festival, CTM Festival, in:resonance, 4DSOUND, Ambrio, Sol Systems & Loods6 pres Currents at Loods6
 
-FIBER Festival, CTM Festival, in:resonance, 4DSOUND, Ambrio, Sol Systems & Loods6 pres Currents on Thu 22 Oct, Amsterdam. 7 acts on the bill: Nadia Struiwigh, NTHNG (2), OK EG and Rrose and 3 more. Preview the line-up and save it on soundcheck.
+FIBER Festival, CTM Festival, in:resonance, 4DSOUND, Ambrio, Sol Systems & Loods6 pres Currents on Thu 22 Oct, Amsterdam. 7 artists on the bill: Nadia Struiwigh, NTHNG, OK EG and Rrose and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

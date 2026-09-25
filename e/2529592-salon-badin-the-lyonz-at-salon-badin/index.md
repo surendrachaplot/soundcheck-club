@@ -1,6 +1,6 @@
 # Salon Badin: The LyonZ at Salon Badin
 
-Salon Badin: The LyonZ on Thu 24 Sept, Montreal. 1 act on the bill: THe LYONZ. Preview the line-up and save it on soundcheck.
+Salon Badin: The LyonZ on Thu 24 Sept, Montreal. 1 artist on the bill: THe LYONZ. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

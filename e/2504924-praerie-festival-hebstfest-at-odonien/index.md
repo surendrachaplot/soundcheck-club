@@ -1,6 +1,6 @@
 # Praerie Festival Hebstfest at Odonien
 
-Praerie Festival Hebstfest at Odonien on Sat 14 Nov, Cologne. 7 acts on the bill: Aio, Martin Ka, Maurice Mino and Secret Act and 3 more. Trance and Minimal Techno. Preview the line-up and save it on soundcheck.
+Praerie Festival Hebstfest at Odonien on Sat 14 Nov, Cologne. 7 artists on the bill: Aio, Martin Ka, Maurice Mino and Secret Act and 3 more. Trance and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

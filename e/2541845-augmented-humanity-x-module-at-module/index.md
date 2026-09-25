@@ -1,6 +1,6 @@
 # AUGMENTED HUMANITY X MODULE at MODULE
 
-AUGMENTED HUMANITY X MODULE on Fri 9 Oct, Copenhagen. 5 acts on the bill: Baime, Blackloud, Hakeem and Invaria and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+AUGMENTED HUMANITY X MODULE on Fri 9 Oct, Copenhagen. 5 artists on the bill: Baime, Blackloud, Hakeem and Invaria and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

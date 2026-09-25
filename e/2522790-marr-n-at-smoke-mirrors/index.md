@@ -1,6 +1,6 @@
 # MARRØN at Smoke & Mirrors
 
-MARRØN at Smoke & Mirrors on Fri 25 Sept, Chicago. 3 acts on the bill: KIMBÄ, MARRØN and operator. Techno. Preview the line-up and save it on soundcheck.
+MARRØN at Smoke & Mirrors on Fri 25 Sept, Chicago. 3 artists on the bill: KIMBÄ, MARRØN and operator. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

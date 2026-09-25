@@ -2,7 +2,7 @@
 
 Rhys Fulber is a Industrial and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Jama, Toronto on Fri, 25 Sept 2026.
 
-Rhys Fulber is an industrial and ebm artist based in Canada, tracked on soundcheck, with 10 sets logged across Athens, Berlin, Detroit and Losangeles and 3 more. Often billed alongside Blush Response, Philipp Strobel and Ancient Methods. Next up: The Jama, Toronto on Fri 25 Sept.
+Rhys Fulber is an industrial and ebm artist based in Canada, tracked on soundcheck, with 10 sets logged across Athens, Berlin, Detroit and Los Angeles and 3 more. Often billed alongside Blush Response, Philipp Strobel and Ancient Methods. Next up: The Jama, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 

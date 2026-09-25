@@ -1,6 +1,6 @@
 # GLOSS: ZDBT + Breakcheck + Frankie Teardop + Syd Woz at TBA
 
-GLOSS: ZDBT + Breakcheck + Frankie Teardop + Syd Woz at TBA on Fri 25 Sept, Montreal. 4 acts on the bill: Breakcheck, Frankie Teardrop, Syd Woz and ZDBT. Techno and House. Preview the line-up and save it on soundcheck.
+GLOSS: ZDBT + Breakcheck + Frankie Teardop + Syd Woz at TBA on Fri 25 Sept, Montreal. 4 artists on the bill: Breakcheck, Frankie Teardrop, Syd Woz and ZDBT. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

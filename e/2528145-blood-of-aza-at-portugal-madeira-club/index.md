@@ -1,6 +1,6 @@
 # BLOOD OF AZA at Portugal Madeira Club
 
-BLOOD OF AZA at Portugal Madeira Club on Fri 2 Oct, Sydney. 4 acts on the bill: Blood of Aza, Jll0Mll0, Jungist and Scariestgirlintheworld. Bass and Experimental. Preview the line-up and save it on soundcheck.
+BLOOD OF AZA at Portugal Madeira Club on Fri 2 Oct, Sydney. 4 artists on the bill: Blood of Aza, Jll0Mll0, Jungist and Scariestgirlintheworld. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

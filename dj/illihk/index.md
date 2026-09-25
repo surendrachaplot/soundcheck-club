@@ -2,7 +2,7 @@
 
 ILLI (HK) is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - SECRET WAREHOUSE, Hong Kong on Sat, 26 Sept 2026.
 
-ILLI (HK) is a bass and drum & bass artist based in Indonesia, tracked on soundcheck, with 15 sets logged across Hongkong. Often billed alongside Immuno, DJ FU (2) and GONG!. Next up: TBA - SECRET WAREHOUSE, Hongkong on Sat 26 Sept.
+ILLI (HK) is a bass and drum & bass artist based in Indonesia, tracked on soundcheck, with 15 sets logged across Hong Kong. Often billed alongside Immuno, DJ FU and GONG!. Next up: TBA - SECRET WAREHOUSE, Hong Kong on Sat 26 Sept.
 
 ## Upcoming shows
 

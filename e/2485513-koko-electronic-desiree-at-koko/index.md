@@ -1,6 +1,6 @@
 # KOKO Electronic: DESIREE at KOKO
 
-KOKO Electronic: DESIREE on Sat 26 Sept, London. 3 acts on the bill: Benji B, Charisse C and DESIREE (RSA). Preview the line-up and save it on soundcheck.
+KOKO Electronic: DESIREE on Sat 26 Sept, London. 3 artists on the bill: Benji B, Charisse C and DESIREE (RSA). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ascension Invites Space Invaderz at Melkweg
 
-Ascension Invites Space Invaderz at Melkweg on Fri 6 Nov, Amsterdam. 1 act on the bill: Chenzo. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Ascension Invites Space Invaderz at Melkweg on Fri 6 Nov, Amsterdam. 1 artist on the bill: Chenzo. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

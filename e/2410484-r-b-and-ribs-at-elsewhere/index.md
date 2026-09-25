@@ -1,6 +1,6 @@
 # R&B and Ribs at Elsewhere
 
-R&B and Ribs at Elsewhere on Sun 27 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+R&B and Ribs at Elsewhere on Sun 27 Sept, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 1-800 GIRLS (Live) at Village Underground
 
-1-800 GIRLS (Live) at Village Underground on Wed 30 Sept, London. 1 act on the bill: 1-800 GIRLS. Preview the line-up and save it on soundcheck.
+1-800 GIRLS (Live) at Village Underground on Wed 30 Sept, London. 1 artist on the bill: 1-800 GIRLS. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

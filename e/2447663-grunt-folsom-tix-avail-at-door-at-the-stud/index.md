@@ -1,6 +1,6 @@
 # GRUNT- FOLSOM- TIX AVAIL. AT DOOR at The Stud
 
-GRUNT- FOLSOM- TIX AVAIL. AT DOOR at The Stud on Sat 26 Sept, Sanfrancisco. 2 acts on the bill: Del (4) and Mozhgan. Preview the line-up and save it on soundcheck.
+GRUNT- FOLSOM- TIX AVAIL. AT DOOR at The Stud on Sat 26 Sept, San Francisco/Oakland. 2 artists on the bill: Del and Mozhgan. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

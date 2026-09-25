@@ -1,6 +1,6 @@
 # Kastel with Oliver Huntemann at Kastel
 
-Kastel with Oliver Huntemann on Wed 7 Oct, Istanbul. 1 act on the bill: Oliver Huntemann. Techno and House. Preview the line-up and save it on soundcheck.
+Kastel with Oliver Huntemann on Wed 7 Oct, Istanbul. 1 artist on the bill: Oliver Huntemann. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

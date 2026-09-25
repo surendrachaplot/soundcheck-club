@@ -2,7 +2,7 @@
 
 DJPT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sugar Hill Disco, New York City on Tue, 6 Oct 2026.
 
-DJPT is a techno and house artist based in United States of America, tracked on soundcheck, with 70 sets logged across Chicago and Newyorkcity. Often billed alongside Sevyn Love, DJ DEADNAME and Alissa Brianna. Next up: Sugar Hill Disco, Newyorkcity on Tue 6 Oct.
+DJPT is a techno and house artist based in United States of America, tracked on soundcheck, with 70 sets logged across Chicago and New York City. Often billed alongside Sevyn Love, DJ DEADNAME and Alissa Brianna. Next up: Sugar Hill Disco, New York City on Tue 6 Oct.
 
 ## Upcoming shows
 

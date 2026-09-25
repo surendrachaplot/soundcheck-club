@@ -1,6 +1,6 @@
 # November Variations - Monday 11/16/26 at Church of Our Saviour
 
-November Variations - Monday 11/16/26 at Church of Our Saviour on Mon 16 Nov, Newyorkcity. Ambient and Classical. Preview the line-up and save it on soundcheck.
+November Variations - Monday 11/16/26 at Church of Our Saviour on Mon 16 Nov, New York City. Ambient and Classical. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

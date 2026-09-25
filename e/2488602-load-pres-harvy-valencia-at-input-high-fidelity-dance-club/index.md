@@ -1,6 +1,6 @@
 # LOAD pres Harvy Valencia at INPUT High Fidelity Dance Club
 
-LOAD pres Harvy Valencia at INPUT High Fidelity Dance Club on Fri 25 Sept, Barcelona. 4 acts on the bill: ART NO LOGIA, Harvy Valencia, Jorgesyn and VITO (UK). Tech House. Preview the line-up and save it on soundcheck.
+LOAD pres Harvy Valencia at INPUT High Fidelity Dance Club on Fri 25 Sept, Barcelona. 4 artists on the bill: ART NO LOGIA, Harvy Valencia, Jorgesyn and VITO (UK). Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

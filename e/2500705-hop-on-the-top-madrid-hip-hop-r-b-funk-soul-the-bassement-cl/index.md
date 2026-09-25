@@ -1,6 +1,6 @@
 # Hop on The Top MADRID - Hip Hop / R&B / Funk / Soul - The Bassement Club at The Bassement
 
-Hop on The Top MADRID - Hip Hop / R&B / Funk / Soul - The Bassement Club on Sat 3 Oct, Madrid. 1 act on the bill: DJ AMAZING. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Hop on The Top MADRID - Hip Hop / R&B / Funk / Soul - The Bassement Club on Sat 3 Oct, Madrid. 1 artist on the bill: DJ AMAZING. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TECHNO BEBAS at Puticlú
 
-TECHNO BEBAS at Puticlú on Fri 25 Sept, Buenosaires. 1 act on the bill: Fuocco. Preview the line-up and save it on soundcheck.
+TECHNO BEBAS at Puticlú on Fri 25 Sept, Buenos Aires. 1 artist on the bill: Fuocco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

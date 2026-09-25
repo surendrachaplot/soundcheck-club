@@ -1,14 +1,15 @@
 # Scruz
 
-Scruz is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gorilla, Manchester on Thu, 1 Oct 2026.
+Scruz is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gorilla, Manchester on Thu, 1 Oct 2026.
 
-Scruz is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Auckland, Brisbane, Bristol and Dublin and 10 more. Often billed alongside Tommy Villiers, Bad B!tch Dubz and DRIIA. Next up: Gorilla, Manchester on Thu 1 Oct.
+Scruz is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Auckland, Brisbane, Bristol and Dublin and 10 more. Often billed alongside Tommy Villiers, Bad B!tch Dubz and DRIIA. Next up: Gorilla, Manchester on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Gorilla | Manchester |
+| Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 
 ## Recently played
 

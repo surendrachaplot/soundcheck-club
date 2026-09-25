@@ -1,6 +1,6 @@
 # Music is the Answer and Teego present Mixed Sounds at F8 1192 Folsom
 
-Music is the Answer and Teego present Mixed Sounds at F8 1192 Folsom on Thu 29 Oct, Sanfrancisco. 3 acts on the bill: Alkemiss Erika, ANCARCO and HIDRA. House and Afro House. Preview the line-up and save it on soundcheck.
+Music is the Answer and Teego present Mixed Sounds at F8 1192 Folsom on Thu 29 Oct, San Francisco/Oakland. 3 artists on the bill: Alkemiss Erika, ANCARCO and HIDRA. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

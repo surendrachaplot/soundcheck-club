@@ -1,6 +1,6 @@
 # MixMag x Lokschuppen w BIIA, Eva Charley, PERT, Morelia, GNS + MORE at Lokschuppen Berlin
 
-MixMag x Lokschuppen w BIIA, Eva Charley, PERT, Morelia, GNS + MORE at Lokschuppen Berlin on Sat 17 Oct, Berlin. 9 acts on the bill: BIIA, BRAIS, Eva Charley and GNS (1) and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+MixMag x Lokschuppen w BIIA, Eva Charley, PERT, Morelia, GNS + MORE at Lokschuppen Berlin on Sat 17 Oct, Berlin. 9 artists on the bill: BIIA, BRAIS, Eva Charley and GNS and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

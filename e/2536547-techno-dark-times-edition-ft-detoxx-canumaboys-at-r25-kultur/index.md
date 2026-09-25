@@ -1,6 +1,6 @@
 # TECHNO: DARK TIMES EDITION (ft. DETOXX & CANUMABOYS) at R25 Kulturschlachthof
 
-TECHNO: DARK TIMES EDITION (ft. DETOXX & CANUMABOYS) at R25 Kulturschlachthof on Fri 16 Oct, Dusseldorf. Trance and Techno. Preview the line-up and save it on soundcheck.
+TECHNO: DARK TIMES EDITION (ft. DETOXX & CANUMABOYS) at R25 Kulturschlachthof on Fri 16 Oct, Düsseldorf. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

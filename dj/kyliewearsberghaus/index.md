@@ -1,8 +1,8 @@
 # Kylie Wears Berghaus
 
-Kylie Wears Berghaus is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lost Horizon, Bristol on Fri, 25 Sept 2026.
+Kylie Wears Berghaus is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lost Horizon, Bristol on Fri, 25 Sept 2026.
 
-Kylie Wears Berghaus is a techno and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Birmingham, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Alousea, BFTT and Eclair Fifi. Next up: Lost Horizon, Bristol on Fri 25 Sept.
+Kylie Wears Berghaus is a techno and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Birmingham, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Acid Sally, Adiel and Alousea. Next up: Lost Horizon, Bristol on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Kylie Wears Berghaus is a techno and house artist based in United Kingdom, track
 | Fri, 2 Oct 2026 | Belgrave Music Hall | Leeds |
 | Fri, 9 Oct 2026 | Hare & Hounds | Birmingham |
 | Sat, 24 Oct 2026 | Stereo | Glasgow |
+| Sat, 31 Oct 2026 | The Cause | London |
 | Fri, 20 Nov 2026 | World Headquarters | Newcastle |
 
 ## Recently played
@@ -27,6 +28,6 @@ Kylie Wears Berghaus is a techno and house artist based in United Kingdom, track
 
 ## Shares bills with
 
-Alousea, BFTT, Eclair Fifi
+Acid Sally, Adiel, Alousea
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*

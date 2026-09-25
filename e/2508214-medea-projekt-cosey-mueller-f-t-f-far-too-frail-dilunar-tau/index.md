@@ -1,6 +1,6 @@
 # Medea Projekt: Cosey Mueller + F.T.F (far too frail) + Dilunar + Tau Ceti + bis.danni at TBA
 
-Medea Projekt: Cosey Mueller + F.T.F (far too frail) + Dilunar + Tau Ceti + bis.danni at TBA on Fri 9 Oct, Leipzig. 2 acts on the bill: Cristóval Dilunar and Tau Ceti. EBM and Electronica. Preview the line-up and save it on soundcheck.
+Medea Projekt: Cosey Mueller + F.T.F (far too frail) + Dilunar + Tau Ceti + bis.danni at TBA on Fri 9 Oct, Leipzig. 2 artists on the bill: Cristóval Dilunar and Tau Ceti. EBM and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Toxic Family Anniversary at Tanzhaus West
 
-Toxic Family Anniversary at Tanzhaus West on Fri 2 Oct, Frankfurt. 1 act on the bill: Gunman. Techno and House. Preview the line-up and save it on soundcheck.
+Toxic Family Anniversary at Tanzhaus West on Fri 2 Oct, Frankfurt. 1 artist on the bill: Gunman. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

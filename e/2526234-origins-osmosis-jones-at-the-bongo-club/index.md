@@ -1,6 +1,6 @@
 # Origins: Osmosis Jones at The Bongo Club
 
-Origins: Osmosis Jones at The Bongo Club on Thu 15 Oct, Edinburgh. 1 act on the bill: Osmosis Jones. House and Garage. Preview the line-up and save it on soundcheck.
+Origins: Osmosis Jones at The Bongo Club on Thu 15 Oct, Edinburgh. 1 artist on the bill: Osmosis Jones. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LuSiD + Samantha Loveridge at Floyd
 
-LuSiD + Samantha Loveridge at Floyd on Fri 2 Oct, Miami. 2 acts on the bill: Samantha Loveridge and SIEGEL (2). House and Electronica. Preview the line-up and save it on soundcheck.
+LuSiD + Samantha Loveridge at Floyd on Fri 2 Oct, Miami. 2 artists on the bill: Samantha Loveridge and SIEGEL. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

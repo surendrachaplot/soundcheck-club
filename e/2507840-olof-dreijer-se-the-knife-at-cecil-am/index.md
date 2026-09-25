@@ -1,6 +1,6 @@
 # Olof Dreijer (SE) (The Knife) at Cecil AM
 
-Olof Dreijer (SE) (The Knife) at Cecil AM on Sat 24 Oct, Copenhagen. 1 act on the bill: Olof Dreijer. Electro and Electronica. Preview the line-up and save it on soundcheck.
+Olof Dreijer (SE) (The Knife) at Cecil AM on Sat 24 Oct, Copenhagen. 1 artist on the bill: Olof Dreijer. Electro and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

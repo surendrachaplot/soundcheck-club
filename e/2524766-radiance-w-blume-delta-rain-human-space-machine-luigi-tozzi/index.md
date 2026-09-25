@@ -1,6 +1,6 @@
 # Radiance w/ BLUME, Delta Rain, Human Space Machine, Luigi Tozzi live at RSO.BERLIN
 
-Radiance w/ BLUME, Delta Rain, Human Space Machine, Luigi Tozzi live at RSO.BERLIN on Fri 9 Oct, Berlin. 3 acts on the bill: BLUME, Human Space Machine and Luigi Tozzi. Techno. Preview the line-up and save it on soundcheck.
+Radiance w/ BLUME, Delta Rain, Human Space Machine, Luigi Tozzi live at RSO.BERLIN on Fri 9 Oct, Berlin. 3 artists on the bill: BLUME, Human Space Machine and Luigi Tozzi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

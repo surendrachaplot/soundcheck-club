@@ -2,7 +2,7 @@
 
 Lila Gold (2) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kramladen, Vienna on Fri, 2 Oct 2026.
 
-Lila Gold (2) is a trance and techno artist based in Austria, tracked on soundcheck, with 13 sets logged across Vienna. Often billed alongside Aleta, ASCHENBRENNER and Der Werther. Next up: Kramladen, Vienna on Fri 2 Oct.
+Lila Gold is a trance and techno artist based in Austria, tracked on soundcheck, with 13 sets logged across Vienna. Often billed alongside Aleta, ASCHENBRENNER and Der Werther. Next up: Kramladen, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 

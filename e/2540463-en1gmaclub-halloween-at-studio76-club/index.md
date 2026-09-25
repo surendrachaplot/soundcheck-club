@@ -1,6 +1,6 @@
 # EN1GMACLUB HALLOWEEN at Studio76 Club
 
-EN1GMACLUB HALLOWEEN at Studio76 Club on Sat 31 Oct, Madrid. 5 acts on the bill: CH3LO, DISTORT (ES), Groovemami and Maya B and 1 more. Preview the line-up and save it on soundcheck.
+EN1GMACLUB HALLOWEEN at Studio76 Club on Sat 31 Oct, Madrid. 5 artists on the bill: CH3LO, DISTORT (ES), Groovemami and Maya B and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VICE VERSA Invites Parallx at The Berkeley Suite
 
-VICE VERSA Invites Parallx at The Berkeley Suite on Thu 1 Oct, Glasgow. 3 acts on the bill: Johnny Greig, LAZLO and Parallx. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+VICE VERSA Invites Parallx at The Berkeley Suite on Thu 1 Oct, Glasgow. 3 artists on the bill: Johnny Greig, LAZLO and Parallx. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ABRUPT presents NEEK + more at Room 2 Glasgow
 
-ABRUPT presents NEEK + more at Room 2 Glasgow on Fri 23 Oct, Glasgow. 1 act on the bill: Neek. Techno. Preview the line-up and save it on soundcheck.
+ABRUPT presents NEEK + more at Room 2 Glasgow on Fri 23 Oct, Glasgow. 1 artist on the bill: Neek. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

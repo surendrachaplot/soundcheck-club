@@ -1,6 +1,6 @@
 # Absolute Deck Shellings presents: Freshers at Munster Munch
 
-Absolute Deck Shellings presents: Freshers at Munster Munch on Fri 25 Sept, London. 2 acts on the bill: DJ Leeloo and Grog. House and Garage. Preview the line-up and save it on soundcheck.
+Absolute Deck Shellings presents: Freshers at Munster Munch on Fri 25 Sept, London. 2 artists on the bill: DJ Leeloo and Grog. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

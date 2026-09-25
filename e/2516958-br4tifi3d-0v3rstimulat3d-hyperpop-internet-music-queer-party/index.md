@@ -1,6 +1,6 @@
 # br4tifi3d & 0v3rsTimulat3d - Hyperpop & Internet Music Queer Party at Absturz
 
-br4tifi3d & 0v3rsTimulat3d - Hyperpop & Internet Music Queer Party at Absturz on Sat 26 Sept, Leipzig. 1 act on the bill: Oliotronix. Preview the line-up and save it on soundcheck.
+br4tifi3d & 0v3rsTimulat3d - Hyperpop & Internet Music Queer Party at Absturz on Sat 26 Sept, Leipzig. 1 artist on the bill: Oliotronix. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

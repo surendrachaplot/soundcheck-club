@@ -1,6 +1,6 @@
 # Fan von Viel und Auf'n Punkt at Beate Uwe
 
-Fan von Viel und Auf'n Punkt at Beate Uwe on Fri 2 Oct, Berlin. 2 acts on the bill: Janosch Ulm and Joseph Disco. Tech House and Experimental. Preview the line-up and save it on soundcheck.
+Fan von Viel und Auf'n Punkt at Beate Uwe on Fri 2 Oct, Berlin. 2 artists on the bill: Janosch Ulm and Joseph Disco. Tech House and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

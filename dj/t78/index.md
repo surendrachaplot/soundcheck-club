@@ -1,13 +1,14 @@
 # T78
 
-T78 is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
+T78 is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Midway Music Hall, Edmonton on Sat, 26 Sept 2026.
 
-T78 is a techno and acid artist based in Italy, tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Austin and Barcelona and 34 more. Often billed alongside Aphøtic, BIIA and Basswell. Next up: Q-Factory, Amsterdam on Wed 21 Oct.
+T78 is a techno and acid artist based in Italy, tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside Aphøtic, BIIA and Basswell. Next up: Midway Music Hall, Edmonton on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Midway Music Hall | Edmonton |
 | Wed, 21 Oct 2026 | Q-Factory | Amsterdam |
 | Fri, 23 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Fri, 6 Nov 2026 | Die Rakete | Nürnberg |

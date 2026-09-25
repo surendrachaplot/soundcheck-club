@@ -1,6 +1,6 @@
 # Jim Rider at Do Not Sit On The Furniture
 
-Jim Rider at Do Not Sit On The Furniture on Fri 25 Sept, Miami. 2 acts on the bill: baez and Jim Rider. House and Deep House. Preview the line-up and save it on soundcheck.
+Jim Rider at Do Not Sit On The Furniture on Fri 25 Sept, Miami. 2 artists on the bill: baez and Jim Rider. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nü Androids presents SünDown: Local Takeover at Tigres de la Noche
 
-Nü Androids presents SünDown: Local Takeover at Tigres de la Noche on Sat 3 Oct, Washingtondc. Tech House and UK Funky. Preview the line-up and save it on soundcheck.
+Nü Androids presents SünDown: Local Takeover at Tigres de la Noche on Sat 3 Oct, Washington DC. Tech House and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

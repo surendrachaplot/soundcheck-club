@@ -1,6 +1,6 @@
 # Lights Down Low feat. yaego at TBA - Downtown Los Angeles
 
-Lights Down Low feat. yaego at TBA - Downtown Los Angeles on Sat 7 Nov, Losangeles. 1 act on the bill: yaego. Preview the line-up and save it on soundcheck.
+Lights Down Low feat. yaego at TBA - Downtown Los Angeles on Sat 7 Nov, Los Angeles. 1 artist on the bill: yaego. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

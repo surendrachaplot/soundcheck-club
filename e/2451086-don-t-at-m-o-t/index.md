@@ -1,6 +1,6 @@
 # Don't at M.O.T
 
-Don't at M.O.T on Sat 3 Oct, London. 3 acts on the bill: Jerome Hill, Peder Mannerfelt and the butcher bird. Techno. Preview the line-up and save it on soundcheck.
+Don't at M.O.T on Sat 3 Oct, London. 3 artists on the bill: Jerome Hill, Peder Mannerfelt and the butcher bird. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Paper Seoul at Paper
 
-Paper Seoul on Sat 26 Sept, Seoul. 3 acts on the bill: Dakim, FOI (SK) and JNS. House. Preview the line-up and save it on soundcheck.
+Paper Seoul on Sat 26 Sept, Seoul. 3 artists on the bill: Dakim, FOI (SK) and JNS. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

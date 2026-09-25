@@ -1,6 +1,6 @@
 # Half Nine (9/2.07) at One Eighty One
 
-Half Nine (9/2.07) at One Eighty One on Fri 25 Sept, London. 1 act on the bill: angelina. Hip-Hop and Jazz. Preview the line-up and save it on soundcheck.
+Half Nine (9/2.07) at One Eighty One on Fri 25 Sept, London. 1 artist on the bill: angelina. Hip-Hop and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

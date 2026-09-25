@@ -1,6 +1,6 @@
 # Lynnic & ItsArius - SOMEWHERE TOUR 2026 at Die Kantine
 
-Lynnic & ItsArius - SOMEWHERE TOUR 2026 at Die Kantine on Sat 21 Nov, Cologne. 1 act on the bill: Lynnic. House and Deep House. Preview the line-up and save it on soundcheck.
+Lynnic & ItsArius - SOMEWHERE TOUR 2026 at Die Kantine on Sat 21 Nov, Cologne. 1 artist on the bill: Lynnic. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Passwar D/ Queer Lisboa/ RSS at TBA
 
-Passwar D/ Queer Lisboa/ RSS at TBA on Sat 26 Sept, Lisbon. 1 act on the bill: Passwardy. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Passwar D/ Queer Lisboa/ RSS at TBA on Sat 26 Sept, Lisbon. 1 artist on the bill: Passwardy. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

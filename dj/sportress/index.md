@@ -2,7 +2,7 @@
 
 Sportress is a Electro and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Newspeak, Montreal on Fri, 25 Sept 2026.
 
-Sportress is an electro and trance artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles, Montreal and Sanfrancisco. Often billed alongside Icon Alias, Draik Lezbijan and Eurohead. Next up: Newspeak, Montreal on Fri 25 Sept.
+Sportress is an electro and trance artist based in United States of America, tracked on soundcheck, with 10 sets logged across Los Angeles, Montreal and San Francisco/Oakland. Often billed alongside Icon Alias, Draik Lezbijan and Eurohead. Next up: Newspeak, Montreal on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Nihility is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location, Toronto on Sat, 10 Oct 2026.
 
-Nihility is a garage and bass artist based in Canada, tracked on soundcheck, with 12 sets logged across Newyorkcity and Toronto. Often billed alongside In Depth Subject, NiUNiU and jwon. Next up: TBA - Secret Location, Toronto on Sat 10 Oct.
+Nihility is a garage and bass artist based in Canada, tracked on soundcheck, with 12 sets logged across New York City and Toronto. Often billed alongside In Depth Subject, NiUNiU and jwon. Next up: TBA - Secret Location, Toronto on Sat 10 Oct.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 DJ Putilla is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Renate, Berlin on Thu, 8 Oct 2026.
 
-DJ Putilla is a club and house artist based in Mexico, tracked on soundcheck, with 54 sets logged across Berlin, Lisbon, Mexicocity and Milan and 1 more. Often billed alongside Kodemul, Feasting and Ojos de miel. Next up: Renate, Berlin on Thu 8 Oct.
+DJ Putilla is a club and house artist based in Mexico, tracked on soundcheck, with 54 sets logged across Berlin, Lisbon, Mexico City and Milan and 1 more. Often billed alongside Kodemul, Feasting and Ojos de miel. Next up: Renate, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 

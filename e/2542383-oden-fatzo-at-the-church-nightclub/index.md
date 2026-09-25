@@ -1,6 +1,6 @@
 # Oden & Fatzo at The Church Nightclub
 
-Oden & Fatzo at The Church Nightclub on Fri 4 Dec, Denver. 2 acts on the bill: Fatzo and Oden. House and Club. Preview the line-up and save it on soundcheck.
+Oden & Fatzo at The Church Nightclub on Fri 4 Dec, Denver. 2 artists on the bill: Fatzo and Oden. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

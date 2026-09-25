@@ -1,6 +1,6 @@
 # RESSELRAVE by soundlabs at Karlsplatz
 
-RESSELRAVE by soundlabs at Karlsplatz on Sat 26 Sept, Vienna. 7 acts on the bill: BRX (2), DJ PARKVERBOT, KRAWALLBARBIE and Paul Mile and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+RESSELRAVE by soundlabs at Karlsplatz on Sat 26 Sept, Vienna. 7 artists on the bill: BRX, DJ PARKVERBOT, KRAWALLBARBIE and Paul Mile and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

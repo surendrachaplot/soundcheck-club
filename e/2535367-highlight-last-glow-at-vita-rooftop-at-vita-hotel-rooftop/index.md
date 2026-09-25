@@ -1,6 +1,6 @@
 # HIGHLIGHT - Last Glow at Vita Rooftop at Vita - Hotel & Rooftop
 
-HIGHLIGHT - Last Glow at Vita Rooftop at Vita - Hotel & Rooftop on Fri 25 Sept, Malta. 3 acts on the bill: Abdy, LEM (IT) and Shabab Khan. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+HIGHLIGHT - Last Glow at Vita Rooftop at Vita - Hotel & Rooftop on Fri 25 Sept, Malta. 3 artists on the bill: Abdy, LEM (IT) and Shabab Khan. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

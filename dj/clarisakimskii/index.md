@@ -2,7 +2,7 @@
 
 Clarisa Kimskii is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Good Room, New York City on Thu, 24 Sept 2026.
 
-Clarisa Kimskii is a techno and house artist based in United States of America, tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: Good Room, Newyorkcity on Thu 24 Sept.
+Clarisa Kimskii is a techno and house artist based in United States of America, tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: Good Room, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

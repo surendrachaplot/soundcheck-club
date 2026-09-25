@@ -1,6 +1,6 @@
 # Soichi Terada presents Sumo x Apes at New Century Locker
 
-Soichi Terada presents Sumo x Apes at New Century Locker on Sat 7 Nov, Manchester. 1 act on the bill: Soichi Terada. House and Jungle. Preview the line-up and save it on soundcheck.
+Soichi Terada presents Sumo x Apes at New Century Locker on Sat 7 Nov, Manchester. 1 artist on the bill: Soichi Terada. House and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

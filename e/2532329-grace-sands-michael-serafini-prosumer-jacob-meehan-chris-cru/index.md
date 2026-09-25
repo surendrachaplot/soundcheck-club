@@ -1,6 +1,6 @@
 # Grace Sands, Michael Serafini / Prosumer, Jacob Meehan / Chris Cruse at public records
 
-Grace Sands, Michael Serafini / Prosumer, Jacob Meehan / Chris Cruse at public records on Sat 17 Oct, Newyorkcity. 5 acts on the bill: Chris Cruse, Grace Sands, Jacob Meehan and Michael Serafini and 1 more. House. Preview the line-up and save it on soundcheck.
+Grace Sands, Michael Serafini / Prosumer, Jacob Meehan / Chris Cruse at public records on Sat 17 Oct, New York City. 5 artists on the bill: Chris Cruse, Grace Sands, Jacob Meehan and Michael Serafini and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

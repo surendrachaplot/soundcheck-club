@@ -1,6 +1,6 @@
 # SELN presents Celebrating New Industrial: Years of Denial, Imminent [live], Conrad Pack [live] at Ormside Projects
 
-SELN presents Celebrating New Industrial: Years of Denial, Imminent [live], Conrad Pack [live] at Ormside Projects on Thu 24 Sept, London. 2 acts on the bill: Conrad Pack and Years of Denial. EBM and Industrial. Preview the line-up and save it on soundcheck.
+SELN presents Celebrating New Industrial: Years of Denial, Imminent [live], Conrad Pack [live] at Ormside Projects on Thu 24 Sept, London. 2 artists on the bill: Conrad Pack and Years of Denial. EBM and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

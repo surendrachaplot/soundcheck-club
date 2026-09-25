@@ -1,6 +1,6 @@
 # Mathew Jonson (Live) + Cousin Dan at Cobalt Studios
 
-Mathew Jonson (Live) + Cousin Dan at Cobalt Studios on Sat 26 Sept, Newcastle. 1 act on the bill: Mathew Jonson. Preview the line-up and save it on soundcheck.
+Mathew Jonson (Live) + Cousin Dan at Cobalt Studios on Sat 26 Sept, Newcastle. 1 artist on the bill: Mathew Jonson. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

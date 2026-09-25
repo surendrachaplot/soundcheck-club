@@ -1,6 +1,6 @@
 # MIXTAPE: Delighted at Powerhouse Arts
 
-MIXTAPE: Delighted at Powerhouse Arts on Sat 3 Oct, Newyorkcity. House and R&B. Preview the line-up and save it on soundcheck.
+MIXTAPE: Delighted at Powerhouse Arts on Sat 3 Oct, New York City. House and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

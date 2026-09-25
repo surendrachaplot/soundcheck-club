@@ -2,7 +2,7 @@
 
 Meltmode (2) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Temp., Bangkok on Fri, 25 Sept 2026.
 
-Meltmode (2) is a house and tech house artist based in Thailand, tracked on soundcheck, with 40 sets logged across Bali, Bangkok, Ibiza and Kualalumpur and 4 more. Often billed alongside Wildealer, Tissanai and IYY (TH). Next up: Bar Temp., Bangkok on Fri 25 Sept.
+Meltmode is a house and tech house artist based in Thailand, tracked on soundcheck, with 40 sets logged across Bali, Bangkok, Ibiza and Kuala Lumpur and 4 more. Often billed alongside Wildealer, Tissanai and IYY (TH). Next up: Bar Temp., Bangkok on Fri 25 Sept.
 
 ## Upcoming shows
 

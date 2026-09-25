@@ -1,6 +1,6 @@
 # Adrián Mills: 240kmh Showcase at Level 1 @ Cannonball Arts
 
-Adrián Mills: 240kmh Showcase at Level 1 @ Cannonball Arts on Sat 14 Nov, Seattle. 3 acts on the bill: Adrian Mills, Serafina and zwilling.. Techno. Preview the line-up and save it on soundcheck.
+Adrián Mills: 240kmh Showcase at Level 1 @ Cannonball Arts on Sat 14 Nov, Seattle. 3 artists on the bill: Adrian Mills, Serafina and zwilling.. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

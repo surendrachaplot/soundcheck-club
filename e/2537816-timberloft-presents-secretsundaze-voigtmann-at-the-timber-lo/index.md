@@ -1,6 +1,6 @@
 # Timberloft presents Secretsundaze & Voigtmann at The Timber Loft
 
-Timberloft presents Secretsundaze & Voigtmann at The Timber Loft on Sun 4 Oct, London. 3 acts on the bill: Maybe Laura, Secretsundaze and Voigtmann. Preview the line-up and save it on soundcheck.
+Timberloft presents Secretsundaze & Voigtmann at The Timber Loft on Sun 4 Oct, London. 3 artists on the bill: Maybe Laura, Secretsundaze and Voigtmann. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

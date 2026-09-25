@@ -1,6 +1,6 @@
 # Stax Johnson & Company at The Redwood Bar And Grill
 
-Stax Johnson & Company at The Redwood Bar And Grill on Fri 25 Sept, Losangeles. Preview the line-up and save it on soundcheck.
+Stax Johnson & Company at The Redwood Bar And Grill on Fri 25 Sept, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

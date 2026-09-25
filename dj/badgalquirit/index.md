@@ -2,7 +2,7 @@
 
 Badgalquirit is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Datcha, Montreal on Sat, 10 Oct 2026.
 
-Badgalquirit is a techno and house artist based in Canada, tracked on soundcheck, with 49 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Frankie Teardrop, Pretty Privilege and nastygloss. Next up: Bar Datcha, Montreal on Sat 10 Oct.
+Badgalquirit is a techno and house artist based in Canada, tracked on soundcheck, with 49 sets logged across Montreal, New York City and Toronto. Often billed alongside Frankie Teardrop, Pretty Privilege and nastygloss. Next up: Bar Datcha, Montreal on Sat 10 Oct.
 
 ## Upcoming shows
 

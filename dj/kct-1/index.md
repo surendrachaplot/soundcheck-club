@@ -2,7 +2,7 @@
 
 KCT (1) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Suns Shimokitazawa, Tokyo on Thu, 24 Sept 2026.
 
-KCT (1) is a bass and techno artist based in Japan, tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside AMIDAdrive, Mykey (2) and Rt3mis. Next up: Suns Shimokitazawa, Tokyo on Thu 24 Sept.
+KCT is a bass and techno artist based in Japan, tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside AMIDAdrive, Mykey and Rt3mis. Next up: Suns Shimokitazawa, Tokyo on Thu 24 Sept.
 
 ## Upcoming shows
 

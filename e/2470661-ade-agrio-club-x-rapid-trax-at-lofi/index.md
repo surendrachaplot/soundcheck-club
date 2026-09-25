@@ -1,6 +1,6 @@
 # ADE - Agrio Club x Rapid Trax at Lofi
 
-ADE - Agrio Club x Rapid Trax at Lofi on Sat 24 Oct, Amsterdam. 10 acts on the bill: DART, Emmz, Entasia and Fiene and 6 more. Preview the line-up and save it on soundcheck.
+ADE - Agrio Club x Rapid Trax at Lofi on Sat 24 Oct, Amsterdam. 10 artists on the bill: DART, Emmz, Entasia and Fiene and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

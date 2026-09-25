@@ -2,7 +2,7 @@
 
 Penelope (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ministerium Club, Lisbon on Thu, 1 Oct 2026.
 
-Penelope (2) is a techno and house artist based in Sweden, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 9 more. Often billed alongside nomitekk, Formale Bassgestaltung and Gwenan. Next up: Ministerium Club, Lisbon on Thu 1 Oct.
+Penelope is a techno and house artist based in Sweden, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 9 more. Often billed alongside nomitekk, Formale Bassgestaltung and Gwenan. Next up: Ministerium Club, Lisbon on Thu 1 Oct.
 
 ## Upcoming shows
 

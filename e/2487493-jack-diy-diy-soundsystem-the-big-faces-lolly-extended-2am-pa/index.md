@@ -1,6 +1,6 @@
 # Jack DiY [DiY Soundsystem]  The Big Faces   Lolly - Extended 2AM Party at Movers
 
-Jack DiY [DiY Soundsystem]  The Big Faces   Lolly - Extended 2AM Party at Movers on Sat 26 Sept, Nottingham. 1 act on the bill: Jack DiY. House and Deep House. Preview the line-up and save it on soundcheck.
+Jack DiY [DiY Soundsystem]  The Big Faces   Lolly - Extended 2AM Party at Movers on Sat 26 Sept, Nottingham. 1 artist on the bill: Jack DiY. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

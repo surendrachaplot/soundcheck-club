@@ -1,6 +1,6 @@
 # OMG: A Gay Afters (Saturday CRSSD Afterparty) at Urban Mo's Bar & Grill
 
-OMG: A Gay Afters (Saturday CRSSD Afterparty) at Urban Mo's Bar & Grill on Sat 26 Sept, Sandiego. House and Tech House. Preview the line-up and save it on soundcheck.
+OMG: A Gay Afters (Saturday CRSSD Afterparty) at Urban Mo's Bar & Grill on Sat 26 Sept, San Diego. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

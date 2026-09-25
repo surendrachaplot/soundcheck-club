@@ -1,6 +1,6 @@
 # Eli & Fur at Bauhaus
 
-Eli & Fur at Bauhaus on Fri 2 Oct, Houston. 1 act on the bill: Eli & Fur. Techno and House. Preview the line-up and save it on soundcheck.
+Eli & Fur at Bauhaus on Fri 2 Oct, Houston. 1 artist on the bill: Eli & Fur. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

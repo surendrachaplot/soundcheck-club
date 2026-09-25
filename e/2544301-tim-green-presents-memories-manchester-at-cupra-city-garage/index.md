@@ -1,6 +1,6 @@
 # Tim Green presents: Memories - Manchester at Cupra City Garage Manchester
 
-Tim Green presents: Memories - Manchester at Cupra City Garage Manchester on Sat 14 Nov, Manchester. 1 act on the bill: Tim Green. House. Preview the line-up and save it on soundcheck.
+Tim Green presents: Memories - Manchester at Cupra City Garage Manchester on Sat 14 Nov, Manchester. 1 artist on the bill: Tim Green. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

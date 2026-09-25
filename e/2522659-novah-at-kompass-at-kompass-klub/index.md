@@ -1,6 +1,6 @@
 # NOVAH at Kompass at Kompass Klub
 
-NOVAH at Kompass at Kompass Klub on Fri 2 Oct, Ghent. 1 act on the bill: NOVAH. Preview the line-up and save it on soundcheck.
+NOVAH at Kompass at Kompass Klub on Fri 2 Oct, Ghent. 1 artist on the bill: NOVAH. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

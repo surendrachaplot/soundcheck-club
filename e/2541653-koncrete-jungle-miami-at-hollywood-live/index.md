@@ -1,6 +1,6 @@
 # Koncrete Jungle Miami at Hollywood Live
 
-Koncrete Jungle Miami at Hollywood Live on Fri 25 Sept, Miami. 1 act on the bill: Stereotype (2). Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
+Koncrete Jungle Miami at Hollywood Live on Fri 25 Sept, Miami. 1 artist on the bill: Stereotype. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # eclipse by ellipsis.ldn at Low Profile Studios
 
-eclipse by ellipsis.ldn at Low Profile Studios on Fri 11 Dec, London. 1 act on the bill: Pallister. Techno and House. Preview the line-up and save it on soundcheck.
+eclipse by ellipsis.ldn at Low Profile Studios on Fri 11 Dec, London. 1 artist on the bill: Pallister. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

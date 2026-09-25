@@ -1,6 +1,6 @@
 # NEBE, PEKLO & RAVE with ESKEI83 at Cross Club
 
-NEBE, PEKLO & RAVE with ESKEI83 at Cross Club on Fri 2 Oct, Prague. 2 acts on the bill: ESKEI83 and Muzaman. Preview the line-up and save it on soundcheck.
+NEBE, PEKLO & RAVE with ESKEI83 at Cross Club on Fri 2 Oct, Prague. 2 artists on the bill: ESKEI83 and Muzaman. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

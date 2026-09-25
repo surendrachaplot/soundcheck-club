@@ -1,6 +1,6 @@
 # SKIN MISA: Djen + Reitze + SANDERSWEET at Skin Club
 
-SKIN MISA: Djen + Reitze + SANDERSWEET at Skin Club on Sun 27 Sept, Madrid. 2 acts on the bill: Djen and Reitze. Preview the line-up and save it on soundcheck.
+SKIN MISA: Djen + Reitze + SANDERSWEET at Skin Club on Sun 27 Sept, Madrid. 2 artists on the bill: Djen and Reitze. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

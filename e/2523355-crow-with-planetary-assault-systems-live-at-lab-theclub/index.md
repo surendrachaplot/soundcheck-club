@@ -1,6 +1,6 @@
 # CROW with Planetary Assault Systems live at LAB theCLUB
 
-CROW with Planetary Assault Systems live at LAB theCLUB on Fri 2 Oct, Madrid. 1 act on the bill: Planetary Assault Systems. Techno. Preview the line-up and save it on soundcheck.
+CROW with Planetary Assault Systems live at LAB theCLUB on Fri 2 Oct, Madrid. 1 artist on the bill: Planetary Assault Systems. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

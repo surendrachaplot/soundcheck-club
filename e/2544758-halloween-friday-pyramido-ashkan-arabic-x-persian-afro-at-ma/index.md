@@ -1,6 +1,6 @@
 # Halloween Friday: PYRAMIDO + ASHKAN (Arabic x Persian & Afro) at MadaRae at Madarae San Francisco
 
-Halloween Friday: PYRAMIDO + ASHKAN (Arabic x Persian & Afro) at MadaRae at Madarae San Francisco on Fri 30 Oct, Sanfrancisco. 2 acts on the bill: Ashkan Dian and PYRAMIDO. Preview the line-up and save it on soundcheck.
+Halloween Friday: PYRAMIDO + ASHKAN (Arabic x Persian & Afro) at MadaRae at Madarae San Francisco on Fri 30 Oct, San Francisco/Oakland. 2 artists on the bill: Ashkan Dian and PYRAMIDO. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

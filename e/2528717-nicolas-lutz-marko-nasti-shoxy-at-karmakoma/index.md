@@ -1,6 +1,6 @@
 # Nicolas Lutz, Marko Nastić, Shoxy at Karmakoma
 
-Nicolas Lutz, Marko Nastić, Shoxy at Karmakoma on Fri 25 Sept, Belgrade. 3 acts on the bill: Marko Nastic, Nicolas Lutz and Shoxy. Preview the line-up and save it on soundcheck.
+Nicolas Lutz, Marko Nastić, Shoxy at Karmakoma on Fri 25 Sept, Belgrade. 3 artists on the bill: Marko Nastic, Nicolas Lutz and Shoxy. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

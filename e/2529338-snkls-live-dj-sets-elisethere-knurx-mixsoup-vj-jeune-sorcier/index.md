@@ -1,6 +1,6 @@
 # SNKLS live + dj sets: EliseThere / Knurx / Mixsoup + VJ: Jeune Sorcier at Brasserie de la Mule
 
-SNKLS live + dj sets: EliseThere / Knurx / Mixsoup + VJ: Jeune Sorcier at Brasserie de la Mule on Fri 25 Sept, Brussels. 3 acts on the bill: EliseThere, Knurx and SNKLS. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+SNKLS live + dj sets: EliseThere / Knurx / Mixsoup + VJ: Jeune Sorcier at Brasserie de la Mule on Fri 25 Sept, Brussels. 3 artists on the bill: EliseThere, Knurx and SNKLS. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

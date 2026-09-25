@@ -1,6 +1,6 @@
 # Elon at Moondog Hifi
 
-Elon at Moondog Hifi on Fri 25 Sept, Newyorkcity. 1 act on the bill: Elon. Preview the line-up and save it on soundcheck.
+Elon at Moondog Hifi on Fri 25 Sept, New York City. 1 artist on the bill: Elon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

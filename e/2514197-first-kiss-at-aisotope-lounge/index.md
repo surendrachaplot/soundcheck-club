@@ -1,6 +1,6 @@
 # FIRST KISS at Aisotope Lounge
 
-FIRST KISS at Aisotope Lounge on Sat 26 Sept, Tokyo. 1 act on the bill: tiger&dragon. Pop. Preview the line-up and save it on soundcheck.
+FIRST KISS at Aisotope Lounge on Sat 26 Sept, Tokyo. 1 artist on the bill: tiger&dragon. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

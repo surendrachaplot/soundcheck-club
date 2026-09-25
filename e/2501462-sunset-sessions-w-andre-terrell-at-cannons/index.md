@@ -1,6 +1,6 @@
 # Sunset Sessions w/Andre Terrell at Cannons
 
-Sunset Sessions w/Andre Terrell at Cannons on Sat 26 Sept, Detroit. 1 act on the bill: Andre Terrell. House. Preview the line-up and save it on soundcheck.
+Sunset Sessions w/Andre Terrell at Cannons on Sat 26 Sept, Detroit. 1 artist on the bill: Andre Terrell. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

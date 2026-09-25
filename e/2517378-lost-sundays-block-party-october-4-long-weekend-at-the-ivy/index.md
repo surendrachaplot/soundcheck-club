@@ -1,6 +1,6 @@
 # Lost Sundays Block Party — October 4 [Long Weekend] at The Ivy
 
-Lost Sundays Block Party — October 4 [Long Weekend] at The Ivy on Sun 4 Oct, Sydney. 12 acts on the bill: Bryson Hill, Casual P, Couch Mechanic and Elijah Something and 8 more. Preview the line-up and save it on soundcheck.
+Lost Sundays Block Party — October 4 [Long Weekend] at The Ivy on Sun 4 Oct, Sydney. 12 artists on the bill: Bryson Hill, Casual P, Couch Mechanic and Elijah Something and 8 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

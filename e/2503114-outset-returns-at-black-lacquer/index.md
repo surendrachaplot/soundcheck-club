@@ -1,6 +1,6 @@
 # Outset Returns at Black Lacquer
 
-Outset Returns at Black Lacquer on Sat 26 Sept, London. 2 acts on the bill: Hendrix and HIRSCH. House and Afro House. Preview the line-up and save it on soundcheck.
+Outset Returns at Black Lacquer on Sat 26 Sept, London. 2 artists on the bill: Hendrix and HIRSCH. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

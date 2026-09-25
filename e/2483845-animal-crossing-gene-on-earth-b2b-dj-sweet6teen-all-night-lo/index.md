@@ -1,6 +1,6 @@
 # Animal Crossing: Gene On Earth b2b dj sweet6teen (All Night Long) at The Loft
 
-Animal Crossing: Gene On Earth b2b dj sweet6teen (All Night Long) at The Loft on Fri 13 Nov, Manchester. 2 acts on the bill: dj sweet6teen and Gene On Earth. Preview the line-up and save it on soundcheck.
+Animal Crossing: Gene On Earth b2b dj sweet6teen (All Night Long) at The Loft on Fri 13 Nov, Manchester. 2 artists on the bill: dj sweet6teen and Gene On Earth. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

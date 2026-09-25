@@ -1,6 +1,6 @@
 # CLOSA SELECTS w/ MRAK - Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum
 
-CLOSA SELECTS w/ MRAK - Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum on Fri 30 Oct, Barcelona. 1 act on the bill: MRAK. Techno. Preview the line-up and save it on soundcheck.
+CLOSA SELECTS w/ MRAK - Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum on Fri 30 Oct, Barcelona. 1 artist on the bill: MRAK. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

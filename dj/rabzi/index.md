@@ -2,7 +2,7 @@
 
 Rabzi is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bambi's, Toronto on Sat, 3 Oct 2026.
 
-Rabzi is a house and trance artist based in Turkey, tracked on soundcheck, with 54 sets logged across Istanbul, London and Toronto. Often billed alongside 99hp, Ficilio and Milch (1). Next up: Bambi's, Toronto on Sat 3 Oct.
+Rabzi is a house and trance artist based in Turkey, tracked on soundcheck, with 54 sets logged across Istanbul, London and Toronto. Often billed alongside 99hp, Ficilio and Milch. Next up: Bambi's, Toronto on Sat 3 Oct.
 
 ## Upcoming shows
 

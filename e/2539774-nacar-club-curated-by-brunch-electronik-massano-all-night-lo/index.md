@@ -1,6 +1,6 @@
 # Nacar Club curated by Brunch Electronik / Massano (All Night Long) at Luz De Gas
 
-Nacar Club curated by Brunch Electronik / Massano (All Night Long) at Luz De Gas on Sat 17 Oct, Barcelona. 1 act on the bill: Massano. Electronica. Preview the line-up and save it on soundcheck.
+Nacar Club curated by Brunch Electronik / Massano (All Night Long) at Luz De Gas on Sat 17 Oct, Barcelona. 1 artist on the bill: Massano. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

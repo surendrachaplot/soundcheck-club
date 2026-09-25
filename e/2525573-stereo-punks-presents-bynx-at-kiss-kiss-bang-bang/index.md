@@ -1,6 +1,6 @@
 # Stereo Punks presents BYNX at Kiss Kiss Bang Bang
 
-Stereo Punks presents BYNX at Kiss Kiss Bang Bang on Thu 29 Oct, Losangeles. House and Tech House. Preview the line-up and save it on soundcheck.
+Stereo Punks presents BYNX at Kiss Kiss Bang Bang on Thu 29 Oct, Los Angeles. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

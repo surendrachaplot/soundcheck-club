@@ -1,6 +1,6 @@
 # Carl H / DJ MARIA. / K.E.G at Mitsuki
 
-Carl H / DJ MARIA. / K.E.G at Mitsuki on Fri 9 Oct, Tokyo. 3 acts on the bill: Carl H, DJ MARIA. and K.E.G. Progressive House and House. Preview the line-up and save it on soundcheck.
+Carl H / DJ MARIA. / K.E.G at Mitsuki on Fri 9 Oct, Tokyo. 3 artists on the bill: Carl H, DJ MARIA. and K.E.G. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

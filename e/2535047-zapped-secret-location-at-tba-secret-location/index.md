@@ -1,6 +1,6 @@
 # Zapped - Secret Location at TBA - Secret Location
 
-Zapped - Secret Location at TBA - Secret Location on Sat 10 Oct, Berlin. 6 acts on the bill: Annina, Cyko, Norwin P. and Re.dep and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Zapped - Secret Location at TBA - Secret Location on Sat 10 Oct, Berlin. 6 artists on the bill: Annina, Cyko, Norwin P. and Re.dep and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

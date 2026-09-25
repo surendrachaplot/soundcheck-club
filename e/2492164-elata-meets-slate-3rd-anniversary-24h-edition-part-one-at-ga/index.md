@@ -1,6 +1,6 @@
 # Elata meets Slate: 3rd Anniversary - 24h Edition [PART ONE] at Gaffe
 
-Elata meets Slate: 3rd Anniversary - 24h Edition [PART ONE] at Gaffe on Sat 17 Oct, London. 17 acts on the bill: 1BYAKKO, Aniaef, ARMANDO and Deranged and 13 more. Techno. Preview the line-up and save it on soundcheck.
+Elata meets Slate: 3rd Anniversary - 24h Edition [PART ONE] at Gaffe on Sat 17 Oct, London. 17 artists on the bill: 1BYAKKO, Aniaef, ARMANDO and Deranged and 13 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

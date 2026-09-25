@@ -2,7 +2,7 @@
 
 Bustin' Loose is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jean’s, New York City on Thu, 8 Oct 2026.
 
-Bustin' Loose is a house and disco artist based in United Kingdom, tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Antwerp and Berlin and 16 more. Often billed alongside Tatiana, Roland & Brother Rich and Magnolia_. Next up: Jean’s, Newyorkcity on Thu 8 Oct.
+Bustin' Loose is a house and disco artist based in United Kingdom, tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Antwerp and Berlin and 16 more. Often billed alongside Tatiana, Roland & Brother Rich and Magnolia_. Next up: Jean’s, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 

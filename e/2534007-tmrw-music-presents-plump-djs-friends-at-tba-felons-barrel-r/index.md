@@ -1,6 +1,6 @@
 # TMRW Music presents Plump DJs + Friends at TBA - Felons Barrel Room, Manly Wharf
 
-TMRW Music presents Plump DJs + Friends at TBA - Felons Barrel Room, Manly Wharf on Sat 19 Dec, Sydney. 3 acts on the bill: B-SIDE, Kid Kenobi and Plump DJs. Breakbeat. Preview the line-up and save it on soundcheck.
+TMRW Music presents Plump DJs + Friends at TBA - Felons Barrel Room, Manly Wharf on Sat 19 Dec, Sydney. 3 artists on the bill: B-SIDE, Kid Kenobi and Plump DJs. Breakbeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

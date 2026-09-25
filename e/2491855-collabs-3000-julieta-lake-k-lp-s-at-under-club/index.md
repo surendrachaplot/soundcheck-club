@@ -1,6 +1,6 @@
 # COLLABS 3000 - JULIETA LAKE - KØLPØS at Under Club
 
-COLLABS 3000 - JULIETA LAKE - KØLPØS at Under Club on Fri 30 Oct, Buenosaires. 2 acts on the bill: JULIETA LAKE and KØLPØS. Techno. Preview the line-up and save it on soundcheck.
+COLLABS 3000 - JULIETA LAKE - KØLPØS at Under Club on Fri 30 Oct, Buenos Aires. 2 artists on the bill: JULIETA LAKE and KØLPØS. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

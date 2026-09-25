@@ -1,6 +1,6 @@
 # DSTRICT at Two Tribes CAMPFIRE
 
-DSTRICT at Two Tribes CAMPFIRE on Sat 10 Oct, London. 3 acts on the bill: B2B The Movement, cZ (UK) and Rhiavas. House and Deep House. Preview the line-up and save it on soundcheck.
+DSTRICT at Two Tribes CAMPFIRE on Sat 10 Oct, London. 3 artists on the bill: B2B The Movement, cZ (UK) and Rhiavas. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

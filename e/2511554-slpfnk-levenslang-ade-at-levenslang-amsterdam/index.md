@@ -1,6 +1,6 @@
 # SLPFNK - LEVENSLANG ADE at Levenslang Amsterdam
 
-SLPFNK - LEVENSLANG ADE at Levenslang Amsterdam on Sat 24 Oct, Amsterdam. 4 acts on the bill: Doudou MD, Dyed Soundorom, Sonja Moonear and Volkan Akin. Preview the line-up and save it on soundcheck.
+SLPFNK - LEVENSLANG ADE at Levenslang Amsterdam on Sat 24 Oct, Amsterdam. 4 artists on the bill: Doudou MD, Dyed Soundorom, Sonja Moonear and Volkan Akin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

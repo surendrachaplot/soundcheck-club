@@ -1,6 +1,6 @@
 # YOI TOKI [A FUTURE FUNK/VAPORWAVE HALLOWEEN] at Drom
 
-YOI TOKI [A FUTURE FUNK/VAPORWAVE HALLOWEEN] at Drom on Fri 23 Oct, Newyorkcity. Post-Punk. Preview the line-up and save it on soundcheck.
+YOI TOKI [A FUTURE FUNK/VAPORWAVE HALLOWEEN] at Drom on Fri 23 Oct, New York City. Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

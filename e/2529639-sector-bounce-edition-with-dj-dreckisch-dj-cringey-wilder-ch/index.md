@@ -1,6 +1,6 @@
 # SECTOR BOUNCE EDITION with DJ DRECKISCH, DJ Cringey, WILDERÍCH, HOOM & Shilo at Edelfettwerk
 
-SECTOR BOUNCE EDITION with DJ DRECKISCH, DJ Cringey, WILDERÍCH, HOOM & Shilo at Edelfettwerk on Fri 9 Oct, Hamburg. 5 acts on the bill: DJ Cringey, DJ DRECKISCH, HOOM and Shilo and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+SECTOR BOUNCE EDITION with DJ DRECKISCH, DJ Cringey, WILDERÍCH, HOOM & Shilo at Edelfettwerk on Fri 9 Oct, Hamburg. 5 artists on the bill: DJ Cringey, DJ DRECKISCH, HOOM and Shilo and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

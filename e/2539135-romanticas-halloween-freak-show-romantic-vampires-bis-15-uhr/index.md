@@ -1,6 +1,6 @@
 # Romanticas Halloween: 'FREAK SHOW - ROMANTIC VAMPIRES' bis 15 UHR at Romantica
 
-Romanticas Halloween: 'FREAK SHOW - ROMANTIC VAMPIRES' bis 15 UHR on Sat 31 Oct, Stuttgart. 7 acts on the bill: Alexander Maier, Femcat, Jochen Junker and Jorkes and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Romanticas Halloween: 'FREAK SHOW - ROMANTIC VAMPIRES' bis 15 UHR on Sat 31 Oct, Stuttgart. 7 artists on the bill: Alexander Maier, Femcat, Jochen Junker and Jorkes and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

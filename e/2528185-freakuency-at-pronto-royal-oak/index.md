@@ -1,6 +1,6 @@
 # FREAKUENCY at Pronto Royal Oak
 
-FREAKUENCY at Pronto Royal Oak on Sat 26 Sept, Detroit. 1 act on the bill: ANTI (DET). Techno and House. Preview the line-up and save it on soundcheck.
+FREAKUENCY at Pronto Royal Oak on Sat 26 Sept, Detroit. 1 artist on the bill: ANTI (DET). Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

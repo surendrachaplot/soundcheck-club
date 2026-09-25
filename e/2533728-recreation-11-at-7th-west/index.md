@@ -1,6 +1,6 @@
 # RECREATION 11 at 7th West
 
-RECREATION 11 at 7th West on Fri 25 Sept, Sanfrancisco. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+RECREATION 11 at 7th West on Fri 25 Sept, San Francisco/Oakland. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

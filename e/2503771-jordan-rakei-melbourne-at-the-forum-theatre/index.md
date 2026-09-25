@@ -1,6 +1,6 @@
 # Jordan Rakei [Melbourne] at The Forum Theatre
 
-Jordan Rakei [Melbourne] at The Forum Theatre on Thu 10 Dec, Melbourne. 1 act on the bill: Jordan Rakei. Preview the line-up and save it on soundcheck.
+Jordan Rakei [Melbourne] at The Forum Theatre on Thu 10 Dec, Melbourne. 1 artist on the bill: Jordan Rakei. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

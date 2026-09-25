@@ -2,7 +2,7 @@
 
 Ehua is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-Ehua is a techno and bass artist based in Italy, tracked on soundcheck, with 122 sets logged across Amsterdam, Auckland, Barcelona and Basel and 33 more. Often billed alongside AliA, Bitter Babe and Flore. Next up: The San Francisco Mint, Sanfrancisco on Fri 25 Sept.
+Ehua is a techno and bass artist based in Italy, tracked on soundcheck, with 122 sets logged across Amsterdam, Auckland, Barcelona and Basel and 33 more. Often billed alongside AliA, Bitter Babe and Flore. Next up: The San Francisco Mint, San Francisco/Oakland on Fri 25 Sept.
 
 ## Upcoming shows
 

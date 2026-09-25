@@ -1,6 +1,6 @@
 # STEREO presents DJ Ralf at STEREO
 
-STEREO presents DJ Ralf on Sun 11 Oct, London. 4 acts on the bill: Claudio Basile, Davide Decay, DJ Ralf and Giacomo Moras. House and Tech House. Preview the line-up and save it on soundcheck.
+STEREO presents DJ Ralf on Sun 11 Oct, London. 4 artists on the bill: Claudio Basile, Davide Decay, DJ Ralf and Giacomo Moras. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

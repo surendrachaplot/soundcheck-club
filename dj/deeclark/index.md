@@ -2,7 +2,7 @@
 
 Dee Clark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
-Dee Clark is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Washingtondc. Often billed alongside Baronhawk Poitier, DJ Land Reform and Kotic Couture. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
+Dee Clark is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Washington DC. Often billed alongside Baronhawk Poitier, DJ Land Reform and Kotic Couture. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
 ## Upcoming shows
 

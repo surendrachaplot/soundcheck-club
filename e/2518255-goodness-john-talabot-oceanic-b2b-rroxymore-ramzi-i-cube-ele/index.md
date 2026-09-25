@@ -1,6 +1,6 @@
 # Goodness: John Talabot, Oceanic b2b rRoxymore, RAMZi, I:Cube, Elena Colombi, Michael J Blood at FOLD
 
-Goodness: John Talabot, Oceanic b2b rRoxymore, RAMZi, I:Cube, Elena Colombi, Michael J Blood at FOLD on Sat 17 Oct, London. 11 acts on the bill: Elena Colombi, georg-i, I:Cube and John Talabot and 7 more. House and Dub Techno. Preview the line-up and save it on soundcheck.
+Goodness: John Talabot, Oceanic b2b rRoxymore, RAMZi, I:Cube, Elena Colombi, Michael J Blood at FOLD on Sat 17 Oct, London. 11 artists on the bill: Elena Colombi, georg-i, I:Cube and John Talabot and 7 more. House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

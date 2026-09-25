@@ -1,6 +1,6 @@
 # VICTORIA WHYNOT, Inndrive - Aurora Aniversario, Quilmes at TBA - Area Costanera, Quilmes
 
-VICTORIA WHYNOT, Inndrive - Aurora Aniversario, Quilmes at TBA - Area Costanera, Quilmes on Sun 4 Oct, Buenosaires. 1 act on the bill: VICTORIA WHYNOT. Techno and House. Preview the line-up and save it on soundcheck.
+VICTORIA WHYNOT, Inndrive - Aurora Aniversario, Quilmes at TBA - Area Costanera, Quilmes on Sun 4 Oct, Buenos Aires. 1 artist on the bill: VICTORIA WHYNOT. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

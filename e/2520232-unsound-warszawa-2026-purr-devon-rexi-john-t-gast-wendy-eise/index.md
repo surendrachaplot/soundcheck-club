@@ -1,6 +1,6 @@
 # Unsound Warszawa 2026: PURR - Devon Rexi & John T. Gast / Wendy Eisenberg + more at OCZKI
 
-Unsound Warszawa 2026: PURR - Devon Rexi & John T. Gast / Wendy Eisenberg + more at OCZKI on Tue 6 Oct, Warsaw. 3 acts on the bill: Devon Rexi, John T. Gast and julek ploski. Preview the line-up and save it on soundcheck.
+Unsound Warszawa 2026: PURR - Devon Rexi & John T. Gast / Wendy Eisenberg + more at OCZKI on Tue 6 Oct, Warsaw. 3 artists on the bill: Devon Rexi, John T. Gast and julek ploski. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

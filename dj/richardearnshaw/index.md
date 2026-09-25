@@ -2,7 +2,7 @@
 
 Richard Earnshaw is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Sat, 24 Oct 2026.
 
-Richard Earnshaw is a house and disco artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, London and Losangeles and 1 more. Often billed alongside Steve Taylor, Bongo Ben and Viktor Olle. Next up: Grand Café Heineken Hoek, Amsterdam on Sat 24 Oct.
+Richard Earnshaw is a house and disco artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, London and Los Angeles and 1 more. Often billed alongside Steve Taylor, Bongo Ben and Viktor Olle. Next up: Grand Café Heineken Hoek, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 

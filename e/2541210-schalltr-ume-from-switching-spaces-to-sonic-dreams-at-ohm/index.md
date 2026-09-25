@@ -1,6 +1,6 @@
 # Schallträume - from switching spaces to sonic dreams at OHM
 
-Schallträume - from switching spaces to sonic dreams at OHM on Sun 4 Oct, Berlin. 3 acts on the bill: Audrey Danza, ELSA (DE) and Laima Adelaide. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Schallträume - from switching spaces to sonic dreams at OHM on Sun 4 Oct, Berlin. 3 artists on the bill: Audrey Danza, ELSA (DE) and Laima Adelaide. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

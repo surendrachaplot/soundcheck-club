@@ -1,6 +1,6 @@
 # 404: DURDENHAUER & NYCO at The Comfort Zone
 
-404: DURDENHAUER & NYCO at The Comfort Zone on Fri 30 Oct, Toronto. 5 acts on the bill: DURDENHAUER, KILL 9 1, NYCO (NL) and THREECARDMONTY and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+404: DURDENHAUER & NYCO at The Comfort Zone on Fri 30 Oct, Toronto. 5 artists on the bill: DURDENHAUER, KILL 9 1, NYCO (NL) and THREECARDMONTY and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

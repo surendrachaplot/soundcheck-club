@@ -1,6 +1,6 @@
 # SIGNAL presents Deep Dish at O der Klub
 
-SIGNAL presents Deep Dish at O der Klub on Fri 9 Oct, Vienna. 1 act on the bill: Deep Dish. House. Preview the line-up and save it on soundcheck.
+SIGNAL presents Deep Dish at O der Klub on Fri 9 Oct, Vienna. 1 artist on the bill: Deep Dish. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

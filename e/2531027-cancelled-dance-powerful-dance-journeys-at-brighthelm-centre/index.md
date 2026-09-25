@@ -1,6 +1,6 @@
 # *CANCELLED* DANCE - Powerful Dance Journeys at Brighthelm Centre
 
-*CANCELLED* DANCE - Powerful Dance Journeys at Brighthelm Centre on Fri 25 Sept, Brighton. 1 act on the bill: Nathan Godolphin. Experimental and Club. Preview the line-up and save it on soundcheck.
+*CANCELLED* DANCE - Powerful Dance Journeys at Brighthelm Centre on Fri 25 Sept, Brighton. 1 artist on the bill: Nathan Godolphin. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

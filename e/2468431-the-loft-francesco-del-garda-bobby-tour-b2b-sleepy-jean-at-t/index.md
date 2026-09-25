@@ -1,6 +1,6 @@
 # The Loft: Francesco Del Garda, Bobby. & Touré b2b Sleepy Jean at The Loft
 
-The Loft: Francesco Del Garda, Bobby. & Touré b2b Sleepy Jean on Fri 16 Oct, Manchester. 4 acts on the bill: Bobby., Francesco Del Garda, Sleepy Jean and Touré. Preview the line-up and save it on soundcheck.
+The Loft: Francesco Del Garda, Bobby. & Touré b2b Sleepy Jean on Fri 16 Oct, Manchester. 4 artists on the bill: Bobby., Francesco Del Garda, Sleepy Jean and Touré. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

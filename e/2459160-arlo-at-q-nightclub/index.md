@@ -1,6 +1,6 @@
 # Arlo at Q Nightclub
 
-Arlo at Q Nightclub on Sat 26 Sept, Seattle. 1 act on the bill: Arlo. Preview the line-up and save it on soundcheck.
+Arlo at Q Nightclub on Sat 26 Sept, Seattle. 1 artist on the bill: Arlo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

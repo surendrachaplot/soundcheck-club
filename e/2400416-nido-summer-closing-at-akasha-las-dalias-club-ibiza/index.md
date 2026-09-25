@@ -1,6 +1,6 @@
 # Nido (Summer Closing) at Akasha Las Dalias Club - Ibiza
 
-Nido (Summer Closing) at Akasha Las Dalias Club - Ibiza on Sun 25 Oct, Ibiza. 2 acts on the bill: Deiv Schon and Pomboklap. Preview the line-up and save it on soundcheck.
+Nido (Summer Closing) at Akasha Las Dalias Club - Ibiza on Sun 25 Oct, Ibiza. 2 artists on the bill: Deiv Schon and Pomboklap. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

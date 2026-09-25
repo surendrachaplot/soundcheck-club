@@ -1,6 +1,6 @@
 # Sequence: Chapter Two at La Cheetah Club
 
-Sequence: Chapter Two at La Cheetah Club on Thu 8 Oct, Glasgow. 3 acts on the bill: JHNSSN, Johnny Greig and LAZLO. Techno. Preview the line-up and save it on soundcheck.
+Sequence: Chapter Two at La Cheetah Club on Thu 8 Oct, Glasgow. 3 artists on the bill: JHNSSN, Johnny Greig and LAZLO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

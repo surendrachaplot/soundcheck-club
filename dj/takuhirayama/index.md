@@ -2,7 +2,7 @@
 
 Taku Hirayama is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
-Taku Hirayama is a techno and house artist based in Japan, tracked on soundcheck, with 31 sets logged across Bangkok, Hongkong, Osaka and Seoul and 2 more. Often billed alongside Finsent C, Dan-neo and Faxtory. Next up: Tai Tong Organic Ecopark, Hongkong on Sat 14 Nov.
+Taku Hirayama is a techno and house artist based in Japan, tracked on soundcheck, with 31 sets logged across Bangkok, Hong Kong, Osaka and Seoul and 2 more. Often billed alongside Finsent C, Dan-neo and Faxtory. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
 
 ## Upcoming shows
 

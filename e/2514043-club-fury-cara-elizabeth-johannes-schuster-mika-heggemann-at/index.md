@@ -1,6 +1,6 @@
 # Club Fury: Cara Elizabeth, Johannes Schuster, Mika Heggemann at Ääniwalli
 
-Club Fury: Cara Elizabeth, Johannes Schuster, Mika Heggemann at Ääniwalli on Fri 16 Oct, Helsinki. 3 acts on the bill: Cara Elizabeth, Johannes Schuster and Mika Heggemann. Trance and Techno. Preview the line-up and save it on soundcheck.
+Club Fury: Cara Elizabeth, Johannes Schuster, Mika Heggemann at Ääniwalli on Fri 16 Oct, Helsinki. 3 artists on the bill: Cara Elizabeth, Johannes Schuster and Mika Heggemann. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

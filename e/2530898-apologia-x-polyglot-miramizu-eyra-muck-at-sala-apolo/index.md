@@ -1,6 +1,6 @@
 # Apologia X POLYGLOT: Miramizu + EYRA + MUCK at Sala Apolo
 
-Apologia X POLYGLOT: Miramizu + EYRA + MUCK at Sala Apolo on Sat 26 Sept, Barcelona. 3 acts on the bill: EYRA, Miramizu and MUCK. Bass and Club. Preview the line-up and save it on soundcheck.
+Apologia X POLYGLOT: Miramizu + EYRA + MUCK at Sala Apolo on Sat 26 Sept, Barcelona. 3 artists on the bill: EYRA, Miramizu and MUCK. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

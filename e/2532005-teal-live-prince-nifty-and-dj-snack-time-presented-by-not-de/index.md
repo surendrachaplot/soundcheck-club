@@ -1,6 +1,6 @@
 # Teal (Live), Prince Nifty and DJ Snack Time presented by Not Dead Yet and Standard Time at Standard Time
 
-Teal (Live), Prince Nifty and DJ Snack Time presented by Not Dead Yet and Standard Time on Thu 5 Nov, Toronto. 1 act on the bill: Teal. Preview the line-up and save it on soundcheck.
+Teal (Live), Prince Nifty and DJ Snack Time presented by Not Dead Yet and Standard Time on Thu 5 Nov, Toronto. 1 artist on the bill: Teal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

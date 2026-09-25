@@ -1,6 +1,6 @@
 # Gareth Sommerville at Lady Libertine
 
-Gareth Sommerville at Lady Libertine on Sat 26 Sept, Edinburgh. 1 act on the bill: Gareth Sommerville. Preview the line-up and save it on soundcheck.
+Gareth Sommerville at Lady Libertine on Sat 26 Sept, Edinburgh. 1 artist on the bill: Gareth Sommerville. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

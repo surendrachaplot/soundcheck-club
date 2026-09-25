@@ -1,6 +1,6 @@
 # Humanos pres. Colyn, Mallorca at Fitz Mallorca
 
-Humanos pres. Colyn, Mallorca at Fitz Mallorca on Sat 26 Sept, Mallorca. 2 acts on the bill: Colyn and Noncitizens. House and Electronica. Preview the line-up and save it on soundcheck.
+Humanos pres. Colyn, Mallorca at Fitz Mallorca on Sat 26 Sept, Mallorca. 2 artists on the bill: Colyn and Noncitizens. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

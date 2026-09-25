@@ -1,6 +1,6 @@
 # Strange DNA: Microdosed at The Glove That Fits
 
-Strange DNA: Microdosed at The Glove That Fits on Sat 24 Oct, London. 2 acts on the bill: Ryan Licchelli and Tom Place. Techno and Electro. Preview the line-up and save it on soundcheck.
+Strange DNA: Microdosed at The Glove That Fits on Sat 24 Oct, London. 2 artists on the bill: Ryan Licchelli and Tom Place. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

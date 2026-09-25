@@ -1,6 +1,6 @@
 # WHITE GARDEN at La Station - Gare des Mines
 
-WHITE GARDEN at La Station - Gare des Mines on Fri 2 Oct, Paris. 3 acts on the bill: 1LDK, DJ Love and whatever51. Preview the line-up and save it on soundcheck.
+WHITE GARDEN at La Station - Gare des Mines on Fri 2 Oct, Paris. 3 artists on the bill: 1LDK, DJ Love and whatever51. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

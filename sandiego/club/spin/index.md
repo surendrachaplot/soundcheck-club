@@ -2,7 +2,7 @@
 
 Spin is a music venue in San Diego with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "The Colloquium: Part 3" on Sat, 3 Oct 2026.
 
-Spin is a music venue in Sandiego listed on soundcheck. 10 upcoming gigs, with line-ups including 6 SENSE, Anthony Attalla, Arran Lee and BAUGRUPPE90 and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
+Spin is a music venue in San Diego listed on soundcheck. 10 upcoming gigs, with line-ups including 6 SENSE, Anthony Attalla, Arran Lee and BAUGRUPPE90 and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
 ## What's on
 

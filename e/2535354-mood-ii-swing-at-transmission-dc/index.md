@@ -1,6 +1,6 @@
 # Mood II Swing at TRANSMISSION DC
 
-Mood II Swing at TRANSMISSION DC on Sat 7 Nov, Washingtondc. 3 acts on the bill: Diyanna Monet, Mood II Swing and My Friend Jack. House. Preview the line-up and save it on soundcheck.
+Mood II Swing at TRANSMISSION DC on Sat 7 Nov, Washington DC. 3 artists on the bill: Diyanna Monet, Mood II Swing and My Friend Jack. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

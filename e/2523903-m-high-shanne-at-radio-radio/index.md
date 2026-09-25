@@ -1,6 +1,6 @@
 # M-High • Shanne at Radio Radio
 
-M-High • Shanne at Radio Radio on Fri 25 Sept, Amsterdam. 2 acts on the bill: M-High and Shanne. Preview the line-up and save it on soundcheck.
+M-High • Shanne at Radio Radio on Fri 25 Sept, Amsterdam. 2 artists on the bill: M-High and Shanne. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

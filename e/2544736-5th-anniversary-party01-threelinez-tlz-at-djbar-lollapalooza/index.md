@@ -1,6 +1,6 @@
 # 5th anniversary party01-ThreeLinez（TLZ） at Djbar Lollapalooza
 
-5th anniversary party01-ThreeLinez（TLZ） at Djbar Lollapalooza on Thu 1 Oct, Osaka. 1 act on the bill: Takashi Iida. Bass and Club. Preview the line-up and save it on soundcheck.
+5th anniversary party01-ThreeLinez（TLZ） at Djbar Lollapalooza on Thu 1 Oct, Osaka. 1 artist on the bill: Takashi Iida. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

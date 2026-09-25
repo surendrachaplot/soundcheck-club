@@ -1,6 +1,6 @@
 # TIËSTO at GASWRX Birmingham at Gaswrx Birmingham
 
-TIËSTO at GASWRX Birmingham at Gaswrx Birmingham on Sun 13 Dec, London. 1 act on the bill: Tiesto. Trance and Techno. Preview the line-up and save it on soundcheck.
+TIËSTO at GASWRX Birmingham at Gaswrx Birmingham on Sun 13 Dec, London. 1 artist on the bill: Tiesto. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

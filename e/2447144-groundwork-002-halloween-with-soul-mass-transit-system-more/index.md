@@ -1,6 +1,6 @@
 # GROUNDWORK 002: Halloween with Soul Mass Transit System + more at Quarters
 
-GROUNDWORK 002: Halloween with Soul Mass Transit System + more at Quarters on Sat 31 Oct, Brighton. 3 acts on the bill: Captain Wallop, Silva Snipa and Soul Mass Transit System. Garage. Preview the line-up and save it on soundcheck.
+GROUNDWORK 002: Halloween with Soul Mass Transit System + more at Quarters on Sat 31 Oct, Brighton. 3 artists on the bill: Captain Wallop, Silva Snipa and Soul Mass Transit System. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

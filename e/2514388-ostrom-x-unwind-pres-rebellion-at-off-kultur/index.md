@@ -1,6 +1,6 @@
 # OSTROM x UNWIND pres. REBELLION at OFF Kultur
 
-OSTROM x UNWIND pres. REBELLION at OFF Kultur on Sat 24 Oct, Budapest. 8 acts on the bill: ALDES (2), BØĘRY, cassandrah and DUGASZ and 4 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+OSTROM x UNWIND pres. REBELLION at OFF Kultur on Sat 24 Oct, Budapest. 8 artists on the bill: ALDES, BØĘRY, cassandrah and DUGASZ and 4 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Less Is More pres. STAU at The Iron Fairies Kuala Lumpur
 
-Less Is More pres. STAU at The Iron Fairies Kuala Lumpur on Sat 10 Oct, Kualalumpur. 2 acts on the bill: DJ Kuma and Odd (MY). Techno. Preview the line-up and save it on soundcheck.
+Less Is More pres. STAU at The Iron Fairies Kuala Lumpur on Sat 10 Oct, Kuala Lumpur. 2 artists on the bill: DJ Kuma and Odd (MY). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

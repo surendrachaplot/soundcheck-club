@@ -1,6 +1,6 @@
 # DLN9 3rd Year Anniversary! Ksenyeah + Manguito, Timo Lee, Joopiter, SMURFOUDIRTY, Robert PM at Dead Letter No. 9
 
-DLN9 3rd Year Anniversary! Ksenyeah + Manguito, Timo Lee, Joopiter, SMURFOUDIRTY, Robert PM at Dead Letter No. 9 on Sat 10 Oct, Newyorkcity. 8 acts on the bill: Borbón, Joopiter, Ksenyeah and Manguito and 4 more. House and Electro. Preview the line-up and save it on soundcheck.
+DLN9 3rd Year Anniversary! Ksenyeah + Manguito, Timo Lee, Joopiter, SMURFOUDIRTY, Robert PM at Dead Letter No. 9 on Sat 10 Oct, New York City. 8 artists on the bill: Borbón, Joopiter, Ksenyeah and Manguito and 4 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

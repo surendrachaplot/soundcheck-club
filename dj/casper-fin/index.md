@@ -2,7 +2,7 @@
 
 Casper (FIN) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at UMI, Brussels on Sat, 26 Sept 2026.
 
-Casper (FIN) is a house and techno artist based in Finland, tracked on soundcheck, with 8 sets logged across Antwerp, Bangkok, Brussels and Losangeles and 2 more. Often billed alongside Liem, Adi and April. Next up: UMI, Brussels on Sat 26 Sept.
+Casper (FIN) is a house and techno artist based in Finland, tracked on soundcheck, with 8 sets logged across Antwerp, Bangkok, Brussels and Los Angeles and 2 more. Often billed alongside Liem, Adi and April. Next up: UMI, Brussels on Sat 26 Sept.
 
 ## Upcoming shows
 

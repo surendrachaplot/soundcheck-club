@@ -1,6 +1,6 @@
 # Space Afrika: Film Screening, Q&A + Signing at TBA - FACT Liverpool
 
-Space Afrika: Film Screening, Q&A + Signing at TBA - FACT Liverpool on Tue 29 Sept, Liverpool. 1 act on the bill: Space Afrika. Experimental. Preview the line-up and save it on soundcheck.
+Space Afrika: Film Screening, Q&A + Signing at TBA - FACT Liverpool on Tue 29 Sept, Liverpool. 1 artist on the bill: Space Afrika. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

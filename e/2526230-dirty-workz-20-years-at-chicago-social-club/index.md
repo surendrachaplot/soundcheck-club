@@ -1,6 +1,6 @@
 # Dirty Workz 20 Years at Chicago Social Club
 
-Dirty Workz 20 Years at Chicago Social Club on Wed 21 Oct, Amsterdam. 5 acts on the bill: Coone, Da Tweekaz, Mish and Solstice and 1 more. Club. Preview the line-up and save it on soundcheck.
+Dirty Workz 20 Years at Chicago Social Club on Wed 21 Oct, Amsterdam. 5 artists on the bill: Coone, Da Tweekaz, Mish and Solstice and 1 more. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

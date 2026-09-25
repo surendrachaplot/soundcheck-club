@@ -1,6 +1,6 @@
 # Haunted Mansion 3 at TBA
 
-Haunted Mansion 3 at TBA on Sat 31 Oct, Lyon. 6 acts on the bill: LEGRAM VG, Lumbago, Penelope (2) and Reptant and 2 more. Preview the line-up and save it on soundcheck.
+Haunted Mansion 3 at TBA on Sat 31 Oct, Lyon. 6 artists on the bill: LEGRAM VG, Lumbago, Penelope and Reptant and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

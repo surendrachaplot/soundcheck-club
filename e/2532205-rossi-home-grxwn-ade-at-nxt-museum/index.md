@@ -1,6 +1,6 @@
 # Rossi.HOME//GRXWN [ADE] at Nxt Museum
 
-Rossi.HOME//GRXWN [ADE] at Nxt Museum on Thu 22 Oct, Amsterdam. 1 act on the bill: Rossi. House. Preview the line-up and save it on soundcheck.
+Rossi.HOME//GRXWN [ADE] at Nxt Museum on Thu 22 Oct, Amsterdam. 1 artist on the bill: Rossi. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

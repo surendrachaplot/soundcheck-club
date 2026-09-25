@@ -1,6 +1,6 @@
 # Last Day Of Summer Party at Bread and Butter Arch
 
-Last Day Of Summer Party at Bread and Butter Arch on Thu 24 Sept, London. 1 act on the bill: Katy B. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Last Day Of Summer Party at Bread and Butter Arch on Thu 24 Sept, London. 1 artist on the bill: Katy B. Drum & Bass and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

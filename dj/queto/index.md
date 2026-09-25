@@ -2,7 +2,7 @@
 
 Queto is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Flux, Istanbul on Fri, 16 Oct 2026.
 
-Queto is a house and club artist based in Turkey, tracked on soundcheck, with 25 sets logged across Berlin, Istanbul and London. Often billed alongside Lavin (1), Teenage Mutants and Kadebostan. Next up: Flux, Istanbul on Fri 16 Oct.
+Queto is a house and club artist based in Turkey, tracked on soundcheck, with 25 sets logged across Berlin, Istanbul and London. Often billed alongside Lavin, Teenage Mutants and Kadebostan. Next up: Flux, Istanbul on Fri 16 Oct.
 
 ## Upcoming shows
 

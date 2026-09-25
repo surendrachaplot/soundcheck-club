@@ -1,6 +1,6 @@
 # eclectic at ZUBAR
 
-eclectic at ZUBAR on Sun 4 Oct, Tokyo. 2 acts on the bill: AKARI and Tada. Preview the line-up and save it on soundcheck.
+eclectic at ZUBAR on Sun 4 Oct, Tokyo. 2 artists on the bill: AKARI and Tada. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

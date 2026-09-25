@@ -1,6 +1,6 @@
 # [NIGHT] Lost in MFW - After at Redroom at RedRoom Members Club
 
-[NIGHT] Lost in MFW - After at Redroom at RedRoom Members Club on Sat 26 Sept, Milan. 4 acts on the bill: ALDAVE, Dante (H501), Ferrari and SOLE DOSI. Preview the line-up and save it on soundcheck.
+[NIGHT] Lost in MFW - After at Redroom at RedRoom Members Club on Sat 26 Sept, Milan. 4 artists on the bill: ALDAVE, Dante (H501), Ferrari and SOLE DOSI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

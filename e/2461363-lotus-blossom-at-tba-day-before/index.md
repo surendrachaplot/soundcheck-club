@@ -1,6 +1,6 @@
 # LOTUS BLOSSOM at TBA - day before 
 
-LOTUS BLOSSOM at TBA - day before  on Sat 7 Nov, Losangeles. Deep House and Funk / Soul. Preview the line-up and save it on soundcheck.
+LOTUS BLOSSOM at TBA - day before  on Sat 7 Nov, Los Angeles. Deep House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # La Mercé x Beatlab Karma Disco 100 Free pass at Discoteca Karma
 
-La Mercé x Beatlab Karma Disco 100 Free pass at Discoteca Karma on Thu 24 Sept, Barcelona. 1 act on the bill: Juannce. House and Tech House. Preview the line-up and save it on soundcheck.
+La Mercé x Beatlab Karma Disco 100 Free pass at Discoteca Karma on Thu 24 Sept, Barcelona. 1 artist on the bill: Juannce. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

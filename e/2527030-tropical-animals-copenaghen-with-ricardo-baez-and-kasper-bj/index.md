@@ -1,6 +1,6 @@
 # Tropical Animals Copenaghen with Ricardo Baez and Kasper Bjørke at Jolene
 
-Tropical Animals Copenaghen with Ricardo Baez and Kasper Bjørke at Jolene on Fri 16 Oct, Copenhagen. 2 acts on the bill: Kasper Bjorke and Ricardo Baez. House and Electro. Preview the line-up and save it on soundcheck.
+Tropical Animals Copenaghen with Ricardo Baez and Kasper Bjørke at Jolene on Fri 16 Oct, Copenhagen. 2 artists on the bill: Kasper Bjorke and Ricardo Baez. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

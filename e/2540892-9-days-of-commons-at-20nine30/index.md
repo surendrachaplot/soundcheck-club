@@ -1,6 +1,6 @@
 # 9_days_of_commons at 20nine30
 
-9_days_of_commons at 20nine30 on Sat 26 Sept, Berlin. 1 act on the bill: Hilary C/B. Experimental and Noise. Preview the line-up and save it on soundcheck.
+9_days_of_commons at 20nine30 on Sat 26 Sept, Berlin. 1 artist on the bill: Hilary C/B. Experimental and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

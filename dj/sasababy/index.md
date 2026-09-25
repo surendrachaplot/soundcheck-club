@@ -2,7 +2,7 @@
 
 sasababy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Elsewhere, New York City on Thu, 1 Oct 2026.
 
-sasababy is a house and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside Maha Kuma, Nöel Black and La Reinarde. Next up: Elsewhere, Newyorkcity on Thu 1 Oct.
+sasababy is a house and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across New York City. Often billed alongside Maha Kuma, Nöel Black and La Reinarde. Next up: Elsewhere, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 

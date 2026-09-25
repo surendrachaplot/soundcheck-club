@@ -1,6 +1,6 @@
 # Club Bizarre at Tokonoma Club
 
-Club Bizarre at Tokonoma Club on Sat 31 Oct, Frankfurt. 4 acts on the bill: DJ ASS TITS, Jorkes, Lea Occhi and Luzie. Techno and House. Preview the line-up and save it on soundcheck.
+Club Bizarre at Tokonoma Club on Sat 31 Oct, Frankfurt. 4 artists on the bill: DJ ASS TITS, Jorkes, Lea Occhi and Luzie. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

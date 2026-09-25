@@ -1,6 +1,6 @@
 # METAXY at Malaga Sin City
 
-METAXY at Malaga Sin City on Sun 27 Sept, Milan. 2 acts on the bill: AllaDerivaLontano and GLADJEE. Electronica. Preview the line-up and save it on soundcheck.
+METAXY at Malaga Sin City on Sun 27 Sept, Milan. 2 artists on the bill: AllaDerivaLontano and GLADJEE. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

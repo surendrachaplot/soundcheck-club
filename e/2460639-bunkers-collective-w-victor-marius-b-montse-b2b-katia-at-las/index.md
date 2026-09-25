@@ -1,6 +1,6 @@
 # Bunkers Collective w / Victor, Marius Bø & Montse B2B KATIA at Lasociaciøn
 
-Bunkers Collective w / Victor, Marius Bø & Montse B2B KATIA at Lasociaciøn on Fri 2 Oct, Madrid. 4 acts on the bill: KATIA, Marius Bø, Montse and Victor (DE). Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Bunkers Collective w / Victor, Marius Bø & Montse B2B KATIA at Lasociaciøn on Fri 2 Oct, Madrid. 4 artists on the bill: KATIA, Marius Bø, Montse and Victor (DE). Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

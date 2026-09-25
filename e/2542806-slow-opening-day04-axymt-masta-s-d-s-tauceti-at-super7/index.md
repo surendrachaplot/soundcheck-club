@@ -1,6 +1,6 @@
 # slow opening — day04 : AXYMT • MASTAÏ • S.D.S • TAUCETI at Super7
 
-slow opening — day04 : AXYMT • MASTAÏ • S.D.S • TAUCETI at Super7 on Sun 27 Sept, Lyon. 2 acts on the bill: Axymt. and Tauceti (FR). Preview the line-up and save it on soundcheck.
+slow opening — day04 : AXYMT • MASTAÏ • S.D.S • TAUCETI at Super7 on Sun 27 Sept, Lyon. 2 artists on the bill: Axymt. and Tauceti (FR). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

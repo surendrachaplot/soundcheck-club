@@ -1,6 +1,6 @@
 # Sazón Seattle Halloween feat. 2AT at Kremwerk-Timbre Room-Cherry Complex
 
-Sazón Seattle Halloween feat. 2AT at Kremwerk-Timbre Room-Cherry Complex on Sat 17 Oct, Seattle. 3 acts on the bill: 2AT, ACHAMA and La Mala Noche. Techno and Guaracha. Preview the line-up and save it on soundcheck.
+Sazón Seattle Halloween feat. 2AT at Kremwerk-Timbre Room-Cherry Complex on Sat 17 Oct, Seattle. 3 artists on the bill: 2AT, ACHAMA and La Mala Noche. Techno and Guaracha. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Brutalismus 3000 at Radius
 
-Brutalismus 3000 at Radius on Sat 14 Nov, Chicago. 4 acts on the bill: 10cust, Brutalismus 3000, Cannelle and Tdy (1). Techno and New Wave. Preview the line-up and save it on soundcheck.
+Brutalismus 3000 at Radius on Sat 14 Nov, Chicago. 4 artists on the bill: 10cust, Brutalismus 3000, Cannelle and Tdy. Techno and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

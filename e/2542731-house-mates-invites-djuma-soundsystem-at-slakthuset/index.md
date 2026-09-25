@@ -1,6 +1,6 @@
 # House Mates Invites Djuma Soundsystem at Slakthuset
 
-House Mates Invites Djuma Soundsystem at Slakthuset on Sat 3 Oct, Stockholm. 3 acts on the bill: Bara W, Djuma Soundsystem and Erik Sahl. Progressive House and Afro Tech. Preview the line-up and save it on soundcheck.
+House Mates Invites Djuma Soundsystem at Slakthuset on Sat 3 Oct, Stockholm. 3 artists on the bill: Bara W, Djuma Soundsystem and Erik Sahl. Progressive House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

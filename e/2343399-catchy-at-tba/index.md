@@ -1,6 +1,6 @@
 # catchy at TBA
 
-catchy at TBA on Sat 24 Oct, Leipzig. 2 acts on the bill: catchycrew and PERISinLE. House and Tech House. Preview the line-up and save it on soundcheck.
+catchy at TBA on Sat 24 Oct, Leipzig. 2 artists on the bill: catchycrew and PERISinLE. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Labyrinth presents: Reznik Open Air Extended Set at Hackney Bridge
 
-Labyrinth presents: Reznik Open Air Extended Set at Hackney Bridge on Sat 26 Sept, London. 3 acts on the bill: Argia, Julya Karma and Reznik. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Labyrinth presents: Reznik Open Air Extended Set at Hackney Bridge on Sat 26 Sept, London. 3 artists on the bill: Argia, Julya Karma and Reznik. Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

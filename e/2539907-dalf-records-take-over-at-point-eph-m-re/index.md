@@ -1,6 +1,6 @@
 # DALF records Take Over at Point Ephémère
 
-DALF records Take Over at Point Ephémère on Sat 10 Oct, Paris. 1 act on the bill: nextdimensional. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+DALF records Take Over at Point Ephémère on Sat 10 Oct, Paris. 1 artist on the bill: nextdimensional. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Apollo Music Cafe: ADEVA at The Apollo Theater
 
-Apollo Music Cafe: ADEVA at The Apollo Theater on Sat 14 Nov, Newyorkcity. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Apollo Music Cafe: ADEVA at The Apollo Theater on Sat 14 Nov, New York City. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

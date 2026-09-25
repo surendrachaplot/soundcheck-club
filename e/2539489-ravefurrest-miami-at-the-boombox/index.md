@@ -1,6 +1,6 @@
 # Ravefurrest Miami at The Boombox
 
-Ravefurrest Miami at The Boombox on Fri 16 Oct, Miami. 2 acts on the bill: Demifiend and kittenhouse. Hardcore and Club. Preview the line-up and save it on soundcheck.
+Ravefurrest Miami at The Boombox on Fri 16 Oct, Miami. 2 artists on the bill: Demifiend and kittenhouse. Hardcore and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

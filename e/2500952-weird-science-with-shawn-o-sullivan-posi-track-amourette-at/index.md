@@ -1,6 +1,6 @@
 # Weird Science with Shawn O'Sullivan, Posi-Track, Amourette at Nightmoves
 
-Weird Science with Shawn O'Sullivan, Posi-Track, Amourette at Nightmoves on Sun 27 Sept, Newyorkcity. 3 acts on the bill: Amourette, POSI-TRACK and Shawn O'Sullivan. Italo Disco and Krautrock. Preview the line-up and save it on soundcheck.
+Weird Science with Shawn O'Sullivan, Posi-Track, Amourette at Nightmoves on Sun 27 Sept, New York City. 3 artists on the bill: Amourette, POSI-TRACK and Shawn O'Sullivan. Italo Disco and Krautrock. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

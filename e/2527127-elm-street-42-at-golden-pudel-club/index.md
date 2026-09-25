@@ -1,6 +1,6 @@
 # ELM STREET 42 at Golden Pudel Club
 
-ELM STREET 42 at Golden Pudel Club on Thu 24 Sept, Hamburg. 5 acts on the bill: fbi (1), KVLR, Tana (2) and UNZHA and 1 more. Breakbeat and House. Preview the line-up and save it on soundcheck.
+ELM STREET 42 at Golden Pudel Club on Thu 24 Sept, Hamburg. 5 artists on the bill: fbi, KVLR, Tana and UNZHA and 1 more. Breakbeat and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

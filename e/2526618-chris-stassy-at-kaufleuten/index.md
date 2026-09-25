@@ -1,6 +1,6 @@
 # Chris Stassy at Kaufleuten
 
-Chris Stassy at Kaufleuten on Fri 18 Dec, Zurich. 1 act on the bill: CHRIS STASSY. House and Tech House. Preview the line-up and save it on soundcheck.
+Chris Stassy at Kaufleuten on Fri 18 Dec, Zurich. 1 artist on the bill: CHRIS STASSY. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

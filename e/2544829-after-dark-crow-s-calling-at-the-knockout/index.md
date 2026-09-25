@@ -1,6 +1,6 @@
 # After Dark - 'Crow's Calling' at The Knockout
 
-After Dark - 'Crow's Calling' at The Knockout on Thu 15 Oct, Sanfrancisco. Industrial and Italo Disco. Preview the line-up and save it on soundcheck.
+After Dark - 'Crow's Calling' at The Knockout on Thu 15 Oct, San Francisco/Oakland. Industrial and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Natasha Kitty Kat: Night Crawlers Vol 2 at Hootananny Brixton
 
-Natasha Kitty Kat: Night Crawlers Vol 2 at Hootananny Brixton on Fri 25 Sept, London. 1 act on the bill: Natasha Kitty Katt. Italo Disco and New Wave. Preview the line-up and save it on soundcheck.
+Natasha Kitty Kat: Night Crawlers Vol 2 at Hootananny Brixton on Fri 25 Sept, London. 1 artist on the bill: Natasha Kitty Katt. Italo Disco and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

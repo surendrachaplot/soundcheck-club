@@ -1,6 +1,6 @@
 # hito draait om at Hito Scheveningen
 
-hito draait om at Hito Scheveningen on Sun 4 Oct, Thehague. 4 acts on the bill: Gerd Janson, jannah, Marcel Dettmann and Valody. House. Preview the line-up and save it on soundcheck.
+hito draait om at Hito Scheveningen on Sun 4 Oct, The Hague. 4 artists on the bill: Gerd Janson, jannah, Marcel Dettmann and Valody. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

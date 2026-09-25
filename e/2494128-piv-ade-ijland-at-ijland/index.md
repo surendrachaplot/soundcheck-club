@@ -1,6 +1,6 @@
 # PIV ADE - Ijland at Ijland
 
-PIV ADE - Ijland on Fri 23 Oct, Amsterdam. 9 acts on the bill: Benny Rodrigues, bullet tooth, Caleb Jackson and Kepler and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
+PIV ADE - Ijland on Fri 23 Oct, Amsterdam. 9 artists on the bill: Benny Rodrigues, bullet tooth, Caleb Jackson and Kepler and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

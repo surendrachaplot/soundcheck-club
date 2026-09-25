@@ -2,7 +2,7 @@
 
 Fais Le Beau is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TRAUM, Antwerp on Sat, 17 Oct 2026.
 
-Fais Le Beau is a house and techno artist based in Belgium, tracked on soundcheck, with 145 sets logged across All, Amsterdam, Antwerp and Berlin and 17 more. Often billed alongside Sixsixsixties, Dana Kuehr and Melissa Juice. Next up: TRAUM, Antwerp on Sat 17 Oct.
+Fais Le Beau is a house and techno artist based in Belgium, tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 17 more. Often billed alongside Sixsixsixties, Dana Kuehr and Melissa Juice. Next up: TRAUM, Antwerp on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -15,7 +15,7 @@ Fais Le Beau is a house and techno artist based in Belgium, tracked on soundchec
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sat, 31 Oct 2026 | NUMBER 90 LONDON | London |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
-| Wed, 3 Mar 2027 | El Rio Hostel | All |
+| Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
 

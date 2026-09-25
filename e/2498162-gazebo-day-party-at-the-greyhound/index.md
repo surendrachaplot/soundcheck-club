@@ -1,6 +1,6 @@
 # Gazebo (Day Party) at The Greyhound
 
-Gazebo (Day Party) at The Greyhound on Sat 26 Sept, London. 2 acts on the bill: datSIM and Gazebo DJs. House and Balearic. Preview the line-up and save it on soundcheck.
+Gazebo (Day Party) at The Greyhound on Sat 26 Sept, London. 2 artists on the bill: datSIM and Gazebo DJs. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FCUKERS (DJ Set) + Chloé Caillet presented by Goldenvoice at Public Works
 
-FCUKERS (DJ Set) + Chloé Caillet presented by Goldenvoice at Public Works on Sat 26 Sept, Sanfrancisco. 3 acts on the bill: Chloé Caillet, FCUKERS and Milli Meng. Preview the line-up and save it on soundcheck.
+FCUKERS (DJ Set) + Chloé Caillet presented by Goldenvoice at Public Works on Sat 26 Sept, San Francisco/Oakland. 3 artists on the bill: Chloé Caillet, FCUKERS and Milli Meng. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

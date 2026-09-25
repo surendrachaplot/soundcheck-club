@@ -1,6 +1,6 @@
 # Overdrive Mag x Solace Bar pres. Secret Headliner (UK) + Mabel, Love, Jess at Solace
 
-Overdrive Mag x Solace Bar pres. Secret Headliner (UK) + Mabel, Love, Jess on Sat 17 Oct, Melbourne. 2 acts on the bill: Love, Jess and Mabel. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Overdrive Mag x Solace Bar pres. Secret Headliner (UK) + Mabel, Love, Jess on Sat 17 Oct, Melbourne. 2 artists on the bill: Love, Jess and Mabel. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

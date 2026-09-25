@@ -1,6 +1,6 @@
 # CAFEINA SHOTS - Coffee party at Ex Preso Martínez
 
-CAFEINA SHOTS - Coffee party at Ex Preso Martínez on Sat 3 Oct, Madrid. 1 act on the bill: Gisele South. Bass and Garage. Preview the line-up and save it on soundcheck.
+CAFEINA SHOTS - Coffee party at Ex Preso Martínez on Sat 3 Oct, Madrid. 1 artist on the bill: Gisele South. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

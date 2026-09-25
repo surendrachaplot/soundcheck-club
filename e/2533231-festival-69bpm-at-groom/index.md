@@ -1,6 +1,6 @@
 # FESTIVAL 69BPM at Groom
 
-FESTIVAL 69BPM at Groom on Thu 24 Sept, Lyon. 2 acts on the bill: Hyas and Saku Sahara. Bass and Garage. Preview the line-up and save it on soundcheck.
+FESTIVAL 69BPM at Groom on Thu 24 Sept, Lyon. 2 artists on the bill: Hyas and Saku Sahara. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

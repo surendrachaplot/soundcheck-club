@@ -1,6 +1,6 @@
 # Darkside vs InfeXious at The Classic Grand
 
-Darkside vs InfeXious at The Classic Grand on Fri 2 Oct, Glasgow. 6 acts on the bill: Act of Rage, D-Fuse, Decibella and JMF and 2 more. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Darkside vs InfeXious at The Classic Grand on Fri 2 Oct, Glasgow. 6 artists on the bill: Act of Rage, D-Fuse, Decibella and JMF and 2 more. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

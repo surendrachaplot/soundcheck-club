@@ -1,6 +1,6 @@
 # Don't F**k with Disco, Halloween in Manchester at Albert Hall
 
-Don't F**k with Disco, Halloween in Manchester at Albert Hall on Sat 31 Oct, Manchester. 1 act on the bill: Don't F**k with Disco. House and Disco. Preview the line-up and save it on soundcheck.
+Don't F**k with Disco, Halloween in Manchester at Albert Hall on Sat 31 Oct, Manchester. 1 artist on the bill: Don't F**k with Disco. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

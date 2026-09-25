@@ -1,6 +1,6 @@
 # HEISSS I 30 hours at RSO.BERLIN
 
-HEISSS I 30 hours at RSO.BERLIN on Sat 19 Dec, Berlin. 3 acts on the bill: Justine Perry, Paula Koski and Temudo. Techno and House. Preview the line-up and save it on soundcheck.
+HEISSS I 30 hours at RSO.BERLIN on Sat 19 Dec, Berlin. 3 artists on the bill: Justine Perry, Paula Koski and Temudo. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

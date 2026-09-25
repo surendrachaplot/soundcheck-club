@@ -2,7 +2,7 @@
 
 Megalina is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kiku Room, San Diego on Thu, 24 Sept 2026.
 
-Megalina is a house and tech house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Sandiego. Often billed alongside Terry Jasinto, Mr Wright and Donald Glaude. Next up: Kiku Room, Sandiego on Thu 24 Sept.
+Megalina is a house and tech house artist based in United States of America, tracked on soundcheck, with 43 sets logged across San Diego. Often billed alongside Terry Jasinto, Mr Wright and Donald Glaude. Next up: Kiku Room, San Diego on Thu 24 Sept.
 
 ## Upcoming shows
 

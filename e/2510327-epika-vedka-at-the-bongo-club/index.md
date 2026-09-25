@@ -1,6 +1,6 @@
 # EPiKA: švedka at The Bongo Club
 
-EPiKA: švedka at The Bongo Club on Sat 3 Oct, Edinburgh. 4 acts on the bill: iluna, Nikki Kent, ona:v and švedka. Techno and Electro. Preview the line-up and save it on soundcheck.
+EPiKA: švedka at The Bongo Club on Sat 3 Oct, Edinburgh. 4 artists on the bill: iluna, Nikki Kent, ona:v and švedka. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HOUSE ON THE BEACH at Burger Disco Club
 
-HOUSE ON THE BEACH at Burger Disco Club on Sun 6 Dec, Athens. 1 act on the bill: Lil' Louis. House. Preview the line-up and save it on soundcheck.
+HOUSE ON THE BEACH at Burger Disco Club on Sun 6 Dec, Athens. 1 artist on the bill: Lil' Louis. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # La Seine Balearique #17 - Sunday Dance at Les Lionnes
 
-La Seine Balearique #17 - Sunday Dance at Les Lionnes on Sun 4 Oct, Paris. 2 acts on the bill: Alex From Tokyo and JPYE. Disco and Balearic. Preview the line-up and save it on soundcheck.
+La Seine Balearique #17 - Sunday Dance at Les Lionnes on Sun 4 Oct, Paris. 2 artists on the bill: Alex From Tokyo and JPYE. Disco and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

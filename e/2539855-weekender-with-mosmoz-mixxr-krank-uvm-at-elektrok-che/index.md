@@ -1,6 +1,6 @@
 # WEEKENDER with MOSMOZ, MIXXR, KRANK. uvm at Elektroküche
 
-WEEKENDER with MOSMOZ, MIXXR, KRANK. uvm at Elektroküche on Fri 6 Nov, Cologne. 3 acts on the bill: carlo kalu, Mike Stevens and MIXXR. Techno. Preview the line-up and save it on soundcheck.
+WEEKENDER with MOSMOZ, MIXXR, KRANK. uvm at Elektroküche on Fri 6 Nov, Cologne. 3 artists on the bill: carlo kalu, Mike Stevens and MIXXR. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

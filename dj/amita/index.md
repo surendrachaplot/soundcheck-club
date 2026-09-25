@@ -2,7 +2,7 @@
 
 amita is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
 
-amita is a jungle and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Boston, Newyorkcity, Philadelphia and Tokyo. Often billed alongside Petal, Kaili and Takuya Nakamura. Next up: Elsewhere, Newyorkcity on Fri 25 Sept.
+amita is a jungle and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Boston, New York City, Philadelphia and Tokyo. Often billed alongside Petal, Kaili and Takuya Nakamura. Next up: Elsewhere, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Mercury Prize Fringe 2026: For The Record x Edmondson at Baby Grey
 
-Mercury Prize Fringe 2026: For The Record x Edmondson at Baby Grey on Fri 16 Oct, Newcastle. 1 act on the bill: Edmondson. Preview the line-up and save it on soundcheck.
+Mercury Prize Fringe 2026: For The Record x Edmondson at Baby Grey on Fri 16 Oct, Newcastle. 1 artist on the bill: Edmondson. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mount Kimbie (DJ) - All Day Long at FOLD
 
-Mount Kimbie (DJ) - All Day Long at FOLD on Sat 28 Nov, London. 1 act on the bill: Mount Kimbie. Electronica. Preview the line-up and save it on soundcheck.
+Mount Kimbie (DJ) - All Day Long at FOLD on Sat 28 Nov, London. 1 artist on the bill: Mount Kimbie. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SYMBIOTIKKA at KitKat Club Berlin at KitKatClub
 
-SYMBIOTIKKA at KitKat Club Berlin at KitKatClub on Wed 30 Sept, Berlin. 4 acts on the bill: Diana May, DJ Jordan, Grace Thompson and RHAPSODIE. Techno. Preview the line-up and save it on soundcheck.
+SYMBIOTIKKA at KitKat Club Berlin at KitKatClub on Wed 30 Sept, Berlin. 4 artists on the bill: Diana May, DJ Jordan, Grace Thompson and RHAPSODIE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

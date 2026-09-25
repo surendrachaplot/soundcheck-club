@@ -1,6 +1,6 @@
 # KS X Axon pres: Y U QT b2b Clouds - ANL - Liverpool at 24 Kitchen Street
 
-KS X Axon pres: Y U QT b2b Clouds - ANL - Liverpool at 24 Kitchen Street on Fri 9 Oct, Liverpool. 2 acts on the bill: Clouds and Y U QT. Techno and Garage. Preview the line-up and save it on soundcheck.
+KS X Axon pres: Y U QT b2b Clouds - ANL - Liverpool at 24 Kitchen Street on Fri 9 Oct, Liverpool. 2 artists on the bill: Clouds and Y U QT. Techno and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

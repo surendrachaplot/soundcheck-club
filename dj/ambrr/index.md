@@ -2,7 +2,7 @@
 
 AMBRR is a Club and R&B artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mono, Rotterdam on Fri, 25 Sept 2026.
 
-AMBRR is a club and r&b artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Glasgow, London, Losangeles and Paris and 1 more. Often billed alongside ELLADHC, ARRA and Alxander Ivey. Next up: Mono, Rotterdam on Fri 25 Sept.
+AMBRR is a club and r&b artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Glasgow, London, Los Angeles and Paris and 1 more. Often billed alongside ELLADHC, ARRA and Alxander Ivey. Next up: Mono, Rotterdam on Fri 25 Sept.
 
 ## Upcoming shows
 

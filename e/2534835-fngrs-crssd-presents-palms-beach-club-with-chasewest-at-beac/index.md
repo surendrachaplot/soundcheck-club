@@ -1,6 +1,6 @@
 # FNGRS CRSSD presents Palms Beach Club with ChaseWest at Beach House San Diego
 
-FNGRS CRSSD presents Palms Beach Club with ChaseWest at Beach House San Diego on Sat 14 Nov, Sandiego. 1 act on the bill: ChaseWest. Preview the line-up and save it on soundcheck.
+FNGRS CRSSD presents Palms Beach Club with ChaseWest at Beach House San Diego on Sat 14 Nov, San Diego. 1 artist on the bill: ChaseWest. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # turbo629 > grand final public holiday eve > Bourke Street Courtyard at Bourke Street Courtyard
 
-turbo629 > grand final public holiday eve > Bourke Street Courtyard on Thu 24 Sept, Melbourne. 1 act on the bill: Gus McKinna. Techno and House. Preview the line-up and save it on soundcheck.
+turbo629 > grand final public holiday eve > Bourke Street Courtyard on Thu 24 Sept, Melbourne. 1 artist on the bill: Gus McKinna. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

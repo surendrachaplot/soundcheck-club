@@ -1,6 +1,6 @@
 # MOZAIK- Fragments at Humboldthain Club
 
-MOZAIK- Fragments at Humboldthain Club on Fri 25 Sept, Berlin. 3 acts on the bill: Katja Kilig, M21SIX and Olenka. Techno and House. Preview the line-up and save it on soundcheck.
+MOZAIK- Fragments at Humboldthain Club on Fri 25 Sept, Berlin. 3 artists on the bill: Katja Kilig, M21SIX and Olenka. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

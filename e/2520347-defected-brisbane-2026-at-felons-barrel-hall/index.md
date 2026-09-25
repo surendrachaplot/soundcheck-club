@@ -1,6 +1,6 @@
 # Defected Brisbane 2026 at Felons Barrel Hall
 
-Defected Brisbane 2026 at Felons Barrel Hall on Sun 6 Dec, Brisbane. 4 acts on the bill: David Penn, Murphy's Law, Nick Curly and Sam Divine. House. Preview the line-up and save it on soundcheck.
+Defected Brisbane 2026 at Felons Barrel Hall on Sun 6 Dec, Brisbane. 4 artists on the bill: David Penn, Murphy's Law, Nick Curly and Sam Divine. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

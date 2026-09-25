@@ -1,6 +1,6 @@
 # Metrica Open Air at TBA - Málaga Forum
 
-Metrica Open Air at TBA - Málaga Forum on Sat 26 Sept, Malaga. 7 acts on the bill: Aktor Se, Ede, Esin and KENZA KAYATI and 3 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Metrica Open Air at TBA - Málaga Forum on Sat 26 Sept, Malaga. 7 artists on the bill: Aktor Se, Ede, Esin and KENZA KAYATI and 3 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

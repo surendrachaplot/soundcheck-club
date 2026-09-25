@@ -1,6 +1,6 @@
 # CONTR4ST pres. fka.m4a [6 hour set] at Paloma
 
-CONTR4ST pres. fka.m4a [6 hour set] at Paloma on Sun 6 Dec, Berlin. 2 acts on the bill: fka.m4a and Orik. Progressive House and House. Preview the line-up and save it on soundcheck.
+CONTR4ST pres. fka.m4a [6 hour set] at Paloma on Sun 6 Dec, Berlin. 2 artists on the bill: fka.m4a and Orik. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

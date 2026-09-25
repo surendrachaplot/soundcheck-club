@@ -2,7 +2,7 @@
 
 Catch One is a music venue in Los Angeles with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "SORRY FOR PARTY ROCKING (2010-2015 Pop & EDM All Night Long!)" on Fri, 25 Sept 2026.
 
-Catch One is a music venue in Losangeles listed on soundcheck. 10 upcoming gigs, with line-ups including Cali. Browse upcoming dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
+Catch One is a music venue in Los Angeles listed on soundcheck. 10 upcoming gigs, with line-ups including Cali. Browse upcoming dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # TIME2CLUB – YoungWoman CLUB VOL. 1 at Time is the new space
 
-TIME2CLUB – YoungWoman CLUB VOL. 1 at Time is the new space on Fri 2 Oct, Rotterdam. 4 acts on the bill: Helmond Lang, prekeris, YoungWoman and Zohar. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+TIME2CLUB – YoungWoman CLUB VOL. 1 at Time is the new space on Fri 2 Oct, Rotterdam. 4 artists on the bill: Helmond Lang, prekeris, YoungWoman and Zohar. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

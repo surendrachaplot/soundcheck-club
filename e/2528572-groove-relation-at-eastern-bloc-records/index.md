@@ -1,6 +1,6 @@
 # Groove Relation at Eastern Bloc Records
 
-Groove Relation at Eastern Bloc Records on Fri 23 Oct, Manchester. 2 acts on the bill: Allius and Tom2trax. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Groove Relation at Eastern Bloc Records on Fri 23 Oct, Manchester. 2 artists on the bill: Allius and Tom2trax. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

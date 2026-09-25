@@ -1,6 +1,6 @@
 # 'Rumble#50' at Forestlimit
 
-'Rumble#50' at Forestlimit on Sat 21 Nov, Tokyo. 1 act on the bill: Yoshitaka Shirakura. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+'Rumble#50' at Forestlimit on Sat 21 Nov, Tokyo. 1 artist on the bill: Yoshitaka Shirakura. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

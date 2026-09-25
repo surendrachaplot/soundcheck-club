@@ -1,6 +1,6 @@
 # Chuck Strangers (US) at Kuudes Linja
 
-Chuck Strangers (US) at Kuudes Linja on Thu 19 Nov, Helsinki. Afrobeat and Hip-Hop. Preview the line-up and save it on soundcheck.
+Chuck Strangers (US) at Kuudes Linja on Thu 19 Nov, Helsinki. Hip-Hop and Afrobeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

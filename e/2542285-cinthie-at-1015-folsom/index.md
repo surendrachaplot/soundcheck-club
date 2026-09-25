@@ -1,6 +1,6 @@
 # Cinthie at 1015 Folsom
 
-Cinthie at 1015 Folsom on Fri 27 Nov, Sanfrancisco. 1 act on the bill: Cinthie. House. Preview the line-up and save it on soundcheck.
+Cinthie at 1015 Folsom on Fri 27 Nov, San Francisco/Oakland. 1 artist on the bill: Cinthie. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

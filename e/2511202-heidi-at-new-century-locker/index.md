@@ -1,6 +1,6 @@
 # Heidi at New Century Locker
 
-Heidi at New Century Locker on Fri 11 Dec, Manchester. 1 act on the bill: Heidi. Techno and House. Preview the line-up and save it on soundcheck.
+Heidi at New Century Locker on Fri 11 Dec, Manchester. 1 artist on the bill: Heidi. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

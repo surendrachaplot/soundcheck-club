@@ -1,6 +1,6 @@
 # Warehouse pres. ArTBAt & Miss Monique at TBA
 
-Warehouse pres. ArTBAt & Miss Monique on Fri 4 Dec, Zurich. 2 acts on the bill: Artbat and Miss Monique. Techno. Preview the line-up and save it on soundcheck.
+Warehouse pres. ArTBAt & Miss Monique on Fri 4 Dec, Zurich. 2 artists on the bill: Artbat and Miss Monique. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

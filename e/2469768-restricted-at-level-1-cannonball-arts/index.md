@@ -1,6 +1,6 @@
 # Restricted at Level 1 @ Cannonball Arts
 
-Restricted at Level 1 @ Cannonball Arts on Sat 7 Nov, Seattle. 1 act on the bill: Restricted. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Restricted at Level 1 @ Cannonball Arts on Sat 7 Nov, Seattle. 1 artist on the bill: Restricted. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

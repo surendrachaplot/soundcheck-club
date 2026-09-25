@@ -2,7 +2,7 @@
 
 Silencio is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "CASA ATA: ANTHONY GODFATHER, HUGGZ, GASPARD, DIEGO MEJIA" on Thu, 24 Sept 2026.
 
-Silencio is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Agathe Mougin, Anthony Godfather (2), EMJIE and HEN YANNI and 2 more. Browse upcoming dates, start times and who's playing. 142 rue Montmartre Paris.
+Silencio is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Agathe Mougin, Anthony Godfather, EMJIE and HEN YANNI and 2 more. Browse upcoming dates, start times and who's playing. 142 rue Montmartre Paris.
 
 ## What's on
 

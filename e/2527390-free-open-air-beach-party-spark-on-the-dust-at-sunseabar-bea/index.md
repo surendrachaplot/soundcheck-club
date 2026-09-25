@@ -1,6 +1,6 @@
 # FREE OPEN AIR BEACH PARTY - Spark On The Dust at Sunseabar Beach Club
 
-FREE OPEN AIR BEACH PARTY - Spark On The Dust at Sunseabar Beach Club on Sat 26 Sept, Barcelona. 3 acts on the bill: Alex (ES), Alex Pott and Ion Pananides. House and Minimal. Preview the line-up and save it on soundcheck.
+FREE OPEN AIR BEACH PARTY - Spark On The Dust at Sunseabar Beach Club on Sat 26 Sept, Barcelona. 3 artists on the bill: Alex (ES), Alex Pott and Ion Pananides. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

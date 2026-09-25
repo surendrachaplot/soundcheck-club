@@ -1,6 +1,6 @@
 # Kawowy Melanż x Barceló Warsaw Powiśle at Barceló Warsaw Powiśle
 
-Kawowy Melanż x Barceló Warsaw Powiśle on Sun 27 Sept, Warsaw. 2 acts on the bill: Meskalino and TAMIRISS. Techno and House. Preview the line-up and save it on soundcheck.
+Kawowy Melanż x Barceló Warsaw Powiśle on Sun 27 Sept, Warsaw. 2 artists on the bill: Meskalino and TAMIRISS. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

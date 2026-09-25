@@ -1,6 +1,6 @@
 # HydeFM HALLOWEEN: THE EQUATION (AceMo + Swami Sound) at The Foundry
 
-HydeFM HALLOWEEN: THE EQUATION (AceMo + Swami Sound) at The Foundry on Sat 31 Oct, Sanfrancisco. 5 acts on the bill: AceMo, at-at, Mesmé and Skiis and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+HydeFM HALLOWEEN: THE EQUATION (AceMo + Swami Sound) at The Foundry on Sat 31 Oct, San Francisco/Oakland. 5 artists on the bill: AceMo, at-at, Mesmé and Skiis and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

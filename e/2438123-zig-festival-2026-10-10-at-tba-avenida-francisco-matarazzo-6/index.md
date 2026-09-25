@@ -1,6 +1,6 @@
 # Zig Festival 2026: 10/10 at TBA - Avenida Francisco Matarazzo, 694
 
-Zig Festival 2026: 10/10 at TBA - Avenida Francisco Matarazzo, 694 on Sat 10 Oct, Saopaulo. House and Pop. Preview the line-up and save it on soundcheck.
+Zig Festival 2026: 10/10 at TBA - Avenida Francisco Matarazzo, 694 on Sat 10 Oct, Sao Paulo. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

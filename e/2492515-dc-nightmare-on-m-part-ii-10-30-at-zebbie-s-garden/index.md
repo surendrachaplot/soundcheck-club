@@ -1,6 +1,6 @@
 # DC Nightmare on M PART II 10/30 at Zebbie's Garden
 
-DC Nightmare on M PART II 10/30 at Zebbie's Garden on Fri 30 Oct, Washingtondc. Pop and Club. Preview the line-up and save it on soundcheck.
+DC Nightmare on M PART II 10/30 at Zebbie's Garden on Fri 30 Oct, Washington DC. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

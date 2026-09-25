@@ -1,6 +1,6 @@
 # tINI (Música Exquisita) at Curador Club Social
 
-tINI (Música Exquisita) at Curador Club Social on Sat 7 Nov, Cali. 1 act on the bill: tINI. Preview the line-up and save it on soundcheck.
+tINI (Música Exquisita) at Curador Club Social on Sat 7 Nov, Cali. 1 artist on the bill: tINI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

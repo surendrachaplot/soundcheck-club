@@ -1,6 +1,6 @@
 # Colyn at Zumana Bali
 
-Colyn at Zumana Bali on Fri 9 Oct, Bali. 1 act on the bill: Colyn. Techno and House. Preview the line-up and save it on soundcheck.
+Colyn at Zumana Bali on Fri 9 Oct, Bali. 1 artist on the bill: Colyn. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Trance in Ya Pants at Rumores Speakeasy Cdmx
 
-Trance in Ya Pants at Rumores Speakeasy Cdmx on Sat 26 Sept, Mexicocity. Trance. Preview the line-up and save it on soundcheck.
+Trance in Ya Pants at Rumores Speakeasy Cdmx on Sat 26 Sept, Mexico City. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

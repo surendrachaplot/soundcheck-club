@@ -1,6 +1,6 @@
 # syzygy at Club Daphnia
 
-syzygy at Club Daphnia on Sat 5 Dec, Osaka. 12 acts on the bill: APEPA, KAPI, Loe (JP) and lostbaggage and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
+syzygy at Club Daphnia on Sat 5 Dec, Osaka. 12 artists on the bill: APEPA, KAPI, Loe (JP) and lostbaggage and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

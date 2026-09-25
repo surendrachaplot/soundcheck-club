@@ -1,6 +1,6 @@
 # FUNK THE SYSTEM X SHY BAIRNS at The Berkeley Suite
 
-FUNK THE SYSTEM X SHY BAIRNS at The Berkeley Suite on Fri 13 Nov, Glasgow. 2 acts on the bill: PIP. and Weston. Tech House and Electro. Preview the line-up and save it on soundcheck.
+FUNK THE SYSTEM X SHY BAIRNS at The Berkeley Suite on Fri 13 Nov, Glasgow. 2 artists on the bill: PIP. and Weston. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ✦encore.une.fois✦ / TUESDAY TECHNO RAVE at OXI
 
-✦encore.une.fois✦ / TUESDAY TECHNO RAVE at OXI on Tue 27 Oct, Berlin. 4 acts on the bill: Bconscious, Inverse Element, The Brvtalist and Viscerale. Techno. Preview the line-up and save it on soundcheck.
+✦encore.une.fois✦ / TUESDAY TECHNO RAVE at OXI on Tue 27 Oct, Berlin. 4 artists on the bill: Bconscious, Inverse Element, The Brvtalist and Viscerale. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Brighton Sundae with Marcia Carr at Patterns
 
-Brighton Sundae with Marcia Carr at Patterns on Sun 1 Nov, Brighton. 1 act on the bill: Marcia Carr. Funk / Soul and Electronica. Preview the line-up and save it on soundcheck.
+Brighton Sundae with Marcia Carr at Patterns on Sun 1 Nov, Brighton. 1 artist on the bill: Marcia Carr. Funk / Soul and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

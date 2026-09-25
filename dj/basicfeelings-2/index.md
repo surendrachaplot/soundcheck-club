@@ -2,7 +2,7 @@
 
 Basic Feelings (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at C12, Brussels on Sat, 26 Sept 2026.
 
-Basic Feelings (2) is a techno artist based in Belgium, tracked on soundcheck, with 13 sets logged across Brussels. Often billed alongside A. Brehme, Hank (Be) and Kappen. Next up: C12, Brussels on Sat 26 Sept.
+Basic Feelings is a techno artist based in Belgium, tracked on soundcheck, with 13 sets logged across Brussels. Often billed alongside A. Brehme, Hank (Be) and Kappen. Next up: C12, Brussels on Sat 26 Sept.
 
 ## Upcoming shows
 

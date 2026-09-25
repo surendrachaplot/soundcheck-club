@@ -1,6 +1,6 @@
 # Matthias Tanzmann · La Forêt · S2CRETO · Pierre Locher at Audio Club
 
-Matthias Tanzmann · La Forêt · S2CRETO · Pierre Locher at Audio Club on Sat 10 Oct, Geneva. 3 acts on the bill: La Forêt, Matthias Tanzmann and Pierre Locher. Preview the line-up and save it on soundcheck.
+Matthias Tanzmann · La Forêt · S2CRETO · Pierre Locher at Audio Club on Sat 10 Oct, Geneva. 3 artists on the bill: La Forêt, Matthias Tanzmann and Pierre Locher. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

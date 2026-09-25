@@ -1,6 +1,6 @@
 # Decadance at The Toff in Town
 
-Decadance at The Toff in Town on Sat 26 Sept, Melbourne. 2 acts on the bill: Jack Popper and KAHU. House and Disco. Preview the line-up and save it on soundcheck.
+Decadance at The Toff in Town on Sat 26 Sept, Melbourne. 2 artists on the bill: Jack Popper and KAHU. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

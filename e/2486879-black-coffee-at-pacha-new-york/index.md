@@ -1,6 +1,6 @@
 # Black Coffee at Pacha New York
 
-Black Coffee at Pacha New York on Sat 17 Oct, Newyorkcity. 1 act on the bill: Black Coffee. Afro House. Preview the line-up and save it on soundcheck.
+Black Coffee at Pacha New York on Sat 17 Oct, New York City. 1 artist on the bill: Black Coffee. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

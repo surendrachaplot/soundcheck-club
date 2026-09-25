@@ -1,6 +1,6 @@
 # The Blaze (DJ Set) at Magazzini Generali
 
-The Blaze (DJ Set) at Magazzini Generali on Fri 2 Oct, Milan. 1 act on the bill: The Blaze. Preview the line-up and save it on soundcheck.
+The Blaze (DJ Set) at Magazzini Generali on Fri 2 Oct, Milan. 1 artist on the bill: The Blaze. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Utopic pres. NIKOLINA + ALT8 + BYORN + ADHILA at Groove
 
-Utopic pres. NIKOLINA + ALT8 + BYORN + ADHILA at Groove on Sat 21 Nov, Buenosaires. 4 acts on the bill: ADHILA, ALT8, BYØRN and NIKOLINA_. Preview the line-up and save it on soundcheck.
+Utopic pres. NIKOLINA + ALT8 + BYORN + ADHILA at Groove on Sat 21 Nov, Buenos Aires. 4 artists on the bill: ADHILA, ALT8, BYØRN and NIKOLINA_. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

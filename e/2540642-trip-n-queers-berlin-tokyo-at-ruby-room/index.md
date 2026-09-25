@@ -1,6 +1,6 @@
 # Trip.n.Queers (Berlin ~ Tokyo) at Ruby Room
 
-Trip.n.Queers (Berlin ~ Tokyo) at Ruby Room on Mon 28 Sept, Tokyo. 2 acts on the bill: Autogenesis and Hypnotic Black Magic. Techno and IDM. Preview the line-up and save it on soundcheck.
+Trip.n.Queers (Berlin ~ Tokyo) at Ruby Room on Mon 28 Sept, Tokyo. 2 artists on the bill: Autogenesis and Hypnotic Black Magic. Techno and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

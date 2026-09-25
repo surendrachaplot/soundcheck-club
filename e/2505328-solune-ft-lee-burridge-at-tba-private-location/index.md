@@ -1,6 +1,6 @@
 # SOLUNE ft Lee Burridge at TBA - Private Location
 
-SOLUNE ft Lee Burridge at TBA - Private Location on Sun 4 Oct, Sandiego. 2 acts on the bill: Jimbo James and Lee Burridge. House. Preview the line-up and save it on soundcheck.
+SOLUNE ft Lee Burridge at TBA - Private Location on Sun 4 Oct, San Diego. 2 artists on the bill: Jimbo James and Lee Burridge. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

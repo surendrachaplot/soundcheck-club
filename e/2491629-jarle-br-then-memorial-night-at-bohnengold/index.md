@@ -1,6 +1,6 @@
 # Jarle Bråthen Memorial Night at Bohnengold
 
-Jarle Bråthen Memorial Night at Bohnengold on Fri 9 Oct, Berlin. 9 acts on the bill: Brian Ring, Danny Russell, DJ himself and Enzo Elia and 5 more. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+Jarle Bråthen Memorial Night at Bohnengold on Fri 9 Oct, Berlin. 9 artists on the bill: Brian Ring, Danny Russell, DJ himself and Enzo Elia and 5 more. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

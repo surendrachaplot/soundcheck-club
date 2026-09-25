@@ -2,7 +2,7 @@
 
 Israfil is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
 
-Israfil is a techno and trance artist based in France, tracked on soundcheck, with 27 sets logged across Berlin, Copenhagen, Geneva and Lisbon and 6 more. Often billed alongside Shlagga, BNZ (2) and VEL (MA). Next up: Mains D'œuvres, Paris on Fri 2 Oct.
+Israfil is a techno and trance artist based in France, tracked on soundcheck, with 27 sets logged across Berlin, Copenhagen, Geneva and Lisbon and 6 more. Often billed alongside Shlagga, BNZ and VEL (MA). Next up: Mains D'œuvres, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 

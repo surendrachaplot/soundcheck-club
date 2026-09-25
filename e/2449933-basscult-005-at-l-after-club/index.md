@@ -1,6 +1,6 @@
 # BASSCULT #005 at L'after Club
 
-BASSCULT #005 at L'after Club on Fri 27 Nov, Geneva. 2 acts on the bill: fedelo and Raving Ninjas. Techno and Industrial. Preview the line-up and save it on soundcheck.
+BASSCULT #005 at L'after Club on Fri 27 Nov, Geneva. 2 artists on the bill: fedelo and Raving Ninjas. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

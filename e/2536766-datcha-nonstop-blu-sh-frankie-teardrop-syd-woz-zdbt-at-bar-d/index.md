@@ -1,6 +1,6 @@
 # Datcha NONSTOP: Blu:sh, Frankie Teardrop, Syd Woz, ZDBT at Bar Datcha
 
-Datcha NONSTOP: Blu:sh, Frankie Teardrop, Syd Woz, ZDBT at Bar Datcha on Fri 9 Oct, Montreal. 4 acts on the bill: Blu:sh, Frankie Teardrop, Syd Woz and ZDBT. Preview the line-up and save it on soundcheck.
+Datcha NONSTOP: Blu:sh, Frankie Teardrop, Syd Woz, ZDBT at Bar Datcha on Fri 9 Oct, Montreal. 4 artists on the bill: Blu:sh, Frankie Teardrop, Syd Woz and ZDBT. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

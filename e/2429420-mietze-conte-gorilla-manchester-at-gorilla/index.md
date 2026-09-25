@@ -1,6 +1,6 @@
 # Mietze Conte - Gorilla, Manchester at Gorilla
 
-Mietze Conte - Gorilla, Manchester on Fri 30 Oct, Manchester. 1 act on the bill: Mietze Conte. Preview the line-up and save it on soundcheck.
+Mietze Conte - Gorilla, Manchester on Fri 30 Oct, Manchester. 1 artist on the bill: Mietze Conte. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Bomchello is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
 
-Bomchello is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Hamburg and Zurich. Often billed alongside Bonjessu, Muffel (2) and freesi. Next up: Hive Club, Zurich on Sat 26 Sept.
+Bomchello is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Hamburg and Zurich. Often billed alongside Bonjessu, Muffel and freesi. Next up: Hive Club, Zurich on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # CLOSING PARTY 2026 at Hï Ibiza
 
-CLOSING PARTY 2026 at Hï Ibiza on Fri 9 Oct, Ibiza. 20 acts on the bill: Adam Ten, Antidot, Black Coffee and Candidate and 16 more. Preview the line-up and save it on soundcheck.
+CLOSING PARTY 2026 at Hï Ibiza on Fri 9 Oct, Ibiza. 20 artists on the bill: Adam Ten, Antidot, Black Coffee and Candidate and 16 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RADAR 005: pearl b2b milo + residents at The Greyhound
 
-RADAR 005: pearl b2b milo + residents at The Greyhound on Fri 27 Nov, London. 3 acts on the bill: dylan.james, pearl and turn_t. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+RADAR 005: pearl b2b milo + residents at The Greyhound on Fri 27 Nov, London. 3 artists on the bill: dylan.james, pearl and turn_t. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

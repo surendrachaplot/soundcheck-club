@@ -1,6 +1,6 @@
 # Vigilante presents: CAMILLA b2b J.N.R at Outer Heaven
 
-Vigilante presents: CAMILLA b2b J.N.R at Outer Heaven on Thu 24 Sept, Newyorkcity. 2 acts on the bill: CAMILLA and J.N.R.. House. Preview the line-up and save it on soundcheck.
+Vigilante presents: CAMILLA b2b J.N.R at Outer Heaven on Thu 24 Sept, New York City. 2 artists on the bill: CAMILLA and J.N.R.. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

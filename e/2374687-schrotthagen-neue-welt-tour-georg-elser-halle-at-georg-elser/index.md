@@ -1,6 +1,6 @@
 # Schrotthagen Neue Welt Tour @Georg Elser Halle at Georg Elser Halle
 
-Schrotthagen Neue Welt Tour @Georg Elser Halle on Sat 5 Dec, Hamburg. 1 act on the bill: Schrotthagen. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Schrotthagen Neue Welt Tour @Georg Elser Halle on Sat 5 Dec, Hamburg. 1 artist on the bill: Schrotthagen. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

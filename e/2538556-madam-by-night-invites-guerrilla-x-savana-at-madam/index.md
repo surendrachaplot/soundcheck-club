@@ -1,6 +1,6 @@
 # Madam by Night invites: Guerrilla x Savana at Madam
 
-Madam by Night invites: Guerrilla x Savana on Sat 28 Nov, Amsterdam. 4 acts on the bill: ADEZ, Alexia, Julian Justin and Nitefield. Tech House. Preview the line-up and save it on soundcheck.
+Madam by Night invites: Guerrilla x Savana on Sat 28 Nov, Amsterdam. 4 artists on the bill: ADEZ, Alexia, Julian Justin and Nitefield. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

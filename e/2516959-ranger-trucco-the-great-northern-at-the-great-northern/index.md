@@ -1,6 +1,6 @@
 # Ranger Trucco - The Great Northern at The Great Northern
 
-Ranger Trucco - The Great Northern on Fri 25 Sept, Sanfrancisco. 1 act on the bill: Ranger Trucco. House and Tech House. Preview the line-up and save it on soundcheck.
+Ranger Trucco - The Great Northern on Fri 25 Sept, San Francisco/Oakland. 1 artist on the bill: Ranger Trucco. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Daniel Kayrouz & Justus Valtanen at Post Bar
 
-Daniel Kayrouz & Justus Valtanen at Post Bar on Sat 26 Sept, Helsinki. 2 acts on the bill: Daniel Kayrouz and Justus Valtanen. Tech House. Preview the line-up and save it on soundcheck.
+Daniel Kayrouz & Justus Valtanen at Post Bar on Sat 26 Sept, Helsinki. 2 artists on the bill: Daniel Kayrouz and Justus Valtanen. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

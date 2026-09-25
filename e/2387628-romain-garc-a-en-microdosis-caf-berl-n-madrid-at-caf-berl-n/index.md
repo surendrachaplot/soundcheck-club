@@ -1,6 +1,6 @@
 # Romain García en microdosis - Café Berlín, Madrid at Café Berlín
 
-Romain García en microdosis - Café Berlín, Madrid on Thu 1 Oct, Madrid. 2 acts on the bill: Romain Garcia and RUVEN (2). Electronica. Preview the line-up and save it on soundcheck.
+Romain García en microdosis - Café Berlín, Madrid on Thu 1 Oct, Madrid. 2 artists on the bill: Romain Garcia and RUVEN. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

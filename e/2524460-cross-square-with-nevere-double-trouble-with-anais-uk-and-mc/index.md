@@ -1,6 +1,6 @@
 # CROSS SQUARE with NEVEREŠ & DOUBLE TROUBLE with ANAIS (UK) and MC COLECTIVE at Cross Club
 
-CROSS SQUARE with NEVEREŠ & DOUBLE TROUBLE with ANAIS (UK) and MC COLECTIVE at Cross Club on Fri 25 Sept, Prague. 2 acts on the bill: Cut Road and Plus One (1). Preview the line-up and save it on soundcheck.
+CROSS SQUARE with NEVEREŠ & DOUBLE TROUBLE with ANAIS (UK) and MC COLECTIVE at Cross Club on Fri 25 Sept, Prague. 2 artists on the bill: Cut Road and Plus One. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

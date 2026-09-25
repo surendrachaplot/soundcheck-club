@@ -1,6 +1,6 @@
 # Gigi Masin at The Glad Cafe
 
-Gigi Masin at The Glad Cafe on Mon 16 Nov, Glasgow. 1 act on the bill: Gigi Masin. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Gigi Masin at The Glad Cafe on Mon 16 Nov, Glasgow. 1 artist on the bill: Gigi Masin. Ambient and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

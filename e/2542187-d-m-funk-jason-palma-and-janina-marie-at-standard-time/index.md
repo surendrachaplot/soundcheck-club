@@ -1,6 +1,6 @@
 # DāM FunK, Jason Palma and Janina Marie at Standard Time
 
-DāM FunK, Jason Palma and Janina Marie at Standard Time on Sat 10 Oct, Toronto. 3 acts on the bill: DāM FunK, Janina Marie and Jason Palma. Preview the line-up and save it on soundcheck.
+DāM FunK, Jason Palma and Janina Marie at Standard Time on Sat 10 Oct, Toronto. 3 artists on the bill: DāM FunK, Janina Marie and Jason Palma. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

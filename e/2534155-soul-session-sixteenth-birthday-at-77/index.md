@@ -1,6 +1,6 @@
 # Soul Session - Sixteenth Birthday at 77
 
-Soul Session - Sixteenth Birthday at 77 on Sat 10 Oct, London. 3 acts on the bill: Angela Rose, Gavin Peters and Melo-D. House. Preview the line-up and save it on soundcheck.
+Soul Session - Sixteenth Birthday at 77 on Sat 10 Oct, London. 3 artists on the bill: Angela Rose, Gavin Peters and Melo-D. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

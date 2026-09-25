@@ -1,6 +1,6 @@
 # Blockhead, ProleteR, Arms and Sleepers at Kantine am Berghain
 
-Blockhead, ProleteR, Arms and Sleepers at Kantine am Berghain on Fri 25 Sept, Berlin. 1 act on the bill: Blockhead. Hip-Hop and Downtempo. Preview the line-up and save it on soundcheck.
+Blockhead, ProleteR, Arms and Sleepers at Kantine am Berghain on Fri 25 Sept, Berlin. 1 artist on the bill: Blockhead. Hip-Hop and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

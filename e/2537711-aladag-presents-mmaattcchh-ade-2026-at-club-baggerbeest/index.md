@@ -1,6 +1,6 @@
 # ALADAG presents MMAATTCCHH - ADE 2026 at Club Baggerbeest
 
-ALADAG presents MMAATTCCHH - ADE 2026 at Club Baggerbeest on Fri 23 Oct, Amsterdam. 7 acts on the bill: Adellic, ALADAG, Echonomist and KENZA KAYATI and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
+ALADAG presents MMAATTCCHH - ADE 2026 at Club Baggerbeest on Fri 23 Oct, Amsterdam. 7 artists on the bill: Adellic, ALADAG, Echonomist and KENZA KAYATI and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

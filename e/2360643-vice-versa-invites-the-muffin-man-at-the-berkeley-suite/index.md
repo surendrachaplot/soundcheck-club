@@ -1,6 +1,6 @@
 # VICE VERSA Invites The Muffin Man at The Berkeley Suite
 
-VICE VERSA Invites The Muffin Man at The Berkeley Suite on Thu 5 Nov, Glasgow. 1 act on the bill: The Muffin Man. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+VICE VERSA Invites The Muffin Man at The Berkeley Suite on Thu 5 Nov, Glasgow. 1 artist on the bill: The Muffin Man. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

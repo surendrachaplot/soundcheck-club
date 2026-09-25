@@ -1,6 +1,6 @@
 # ✭EERIE COLLECTIVE✭ at Bike Jesus at Bike Jesus
 
-✭EERIE COLLECTIVE✭ at Bike Jesus on Fri 9 Oct, Prague. 6 acts on the bill: ishka machina, Kaotic, KRISTIE KARDIO and TAUREAN (2) and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+✭EERIE COLLECTIVE✭ at Bike Jesus on Fri 9 Oct, Prague. 6 artists on the bill: ishka machina, Kaotic, KRISTIE KARDIO and TAUREAN and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

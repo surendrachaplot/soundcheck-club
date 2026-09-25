@@ -1,6 +1,6 @@
 # Dillon Francis on Halloween Night at Exchange LA
 
-Dillon Francis on Halloween Night at Exchange LA on Sat 31 Oct, Losangeles. 1 act on the bill: Dillon Francis. Electronica. Preview the line-up and save it on soundcheck.
+Dillon Francis on Halloween Night at Exchange LA on Sat 31 Oct, Los Angeles. 1 artist on the bill: Dillon Francis. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

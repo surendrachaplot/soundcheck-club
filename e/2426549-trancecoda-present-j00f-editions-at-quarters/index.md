@@ -1,6 +1,6 @@
 # Trancecoda present J00F Editions at Quarters
 
-Trancecoda present J00F Editions at Quarters on Sat 12 Dec, Brighton. 3 acts on the bill: John '00' Fleming, John Askew and Markus Saarländer. Trance. Preview the line-up and save it on soundcheck.
+Trancecoda present J00F Editions at Quarters on Sat 12 Dec, Brighton. 3 artists on the bill: John '00' Fleming, John Askew and Markus Saarländer. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

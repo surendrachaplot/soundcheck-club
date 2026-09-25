@@ -1,6 +1,6 @@
 # Blasted 🅓🅝🅑 - underground drum'n'bass and jungle at TBA
 
-Blasted 🅓🅝🅑 - underground drum'n'bass and jungle at TBA on Fri 25 Sept, Berlin. 7 acts on the bill: Agem, CP4C, Dark Zenith and DJ Chromz and 3 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Blasted 🅓🅝🅑 - underground drum'n'bass and jungle at TBA on Fri 25 Sept, Berlin. 7 artists on the bill: Agem, CP4C, Dark Zenith and DJ Chromz and 3 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

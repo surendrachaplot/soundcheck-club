@@ -1,6 +1,6 @@
 # Sima, Asllan, S-Pill, Haeterna at Atdge Seoul
 
-Sima, Asllan, S-Pill, Haeterna at Atdge Seoul on Sat 26 Sept, Seoul. 3 acts on the bill: Asllan, Haeterna and S-Pill. Techno. Preview the line-up and save it on soundcheck.
+Sima, Asllan, S-Pill, Haeterna at Atdge Seoul on Sat 26 Sept, Seoul. 3 artists on the bill: Asllan, Haeterna and S-Pill. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # A For Alpha, Jan Koster, SOLIT at Shelter Amsterdam
 
-A For Alpha, Jan Koster, SOLIT at Shelter Amsterdam on Sat 31 Oct, Amsterdam. 4 acts on the bill: A For Alpha, Jan Koster, Jonas (2) and SOLIT. House. Preview the line-up and save it on soundcheck.
+A For Alpha, Jan Koster, SOLIT at Shelter Amsterdam on Sat 31 Oct, Amsterdam. 4 artists on the bill: A For Alpha, Jan Koster, Jonas and SOLIT. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

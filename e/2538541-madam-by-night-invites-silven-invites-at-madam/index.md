@@ -1,6 +1,6 @@
 # Madam by Night invites: Silven invites at Madam
 
-Madam by Night invites: Silven invites on Fri 13 Nov, Amsterdam. 2 acts on the bill: GIORG and Silven. Tech House. Preview the line-up and save it on soundcheck.
+Madam by Night invites: Silven invites on Fri 13 Nov, Amsterdam. 2 artists on the bill: GIORG and Silven. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

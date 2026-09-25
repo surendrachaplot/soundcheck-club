@@ -1,6 +1,6 @@
 # Prog Pulse at Hideout | DJ Ruby Extended Set at Hideout
 
-Prog Pulse at Hideout | DJ Ruby Extended Set on Sat 3 Oct, Malta. 1 act on the bill: DJ Ruby. Progressive House and House. Preview the line-up and save it on soundcheck.
+Prog Pulse at Hideout | DJ Ruby Extended Set on Sat 3 Oct, Malta. 1 artist on the bill: DJ Ruby. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

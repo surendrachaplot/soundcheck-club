@@ -1,6 +1,6 @@
 # BASS SLAUGHTER session 7 (HALLOWEEN NIGHTMARE) - Evening at Teritorija
 
-BASS SLAUGHTER session 7 (HALLOWEEN NIGHTMARE) - Evening at Teritorija on Sat 31 Oct, Riga. 3 acts on the bill: MVKO, oshigakill and XSYNC19. Hardcore and Garage. Preview the line-up and save it on soundcheck.
+BASS SLAUGHTER session 7 (HALLOWEEN NIGHTMARE) - Evening at Teritorija on Sat 31 Oct, Riga. 3 artists on the bill: MVKO, oshigakill and XSYNC19. Hardcore and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

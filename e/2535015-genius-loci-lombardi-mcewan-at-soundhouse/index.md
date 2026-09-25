@@ -1,6 +1,6 @@
 # Genius Loci + Lombardi // McEwan at Soundhouse
 
-Genius Loci + Lombardi // McEwan at Soundhouse on Sun 11 Oct, Thehague. 1 act on the bill: Genius Loci. Experimental. Preview the line-up and save it on soundcheck.
+Genius Loci + Lombardi // McEwan at Soundhouse on Sun 11 Oct, The Hague. 1 artist on the bill: Genius Loci. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

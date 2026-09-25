@@ -1,6 +1,6 @@
 # Hard noises x Trocadero- SARA KRIN b-day at DETROIT CLUB
 
-Hard noises x Trocadero- SARA KRIN b-day at DETROIT CLUB on Sun 27 Sept, Barcelona. 2 acts on the bill: INH3LL and SARA KRIN. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Hard noises x Trocadero- SARA KRIN b-day at DETROIT CLUB on Sun 27 Sept, Barcelona. 2 artists on the bill: INH3LL and SARA KRIN. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ØTTA & Pegassi at Gate Milano
 
-ØTTA & Pegassi at Gate Milano on Fri 9 Oct, Milan. 3 acts on the bill: ØTTA, Pegassi and RESA UTOPICA. Preview the line-up and save it on soundcheck.
+ØTTA & Pegassi at Gate Milano on Fri 9 Oct, Milan. 3 artists on the bill: ØTTA, Pegassi and RESA UTOPICA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Maribou State (DJ Set) at Centre Point
 
-Maribou State (DJ Set) at Centre Point on Sat 21 Nov, Dublin. 1 act on the bill: Maribou State. House. Preview the line-up and save it on soundcheck.
+Maribou State (DJ Set) at Centre Point on Sat 21 Nov, Dublin. 1 artist on the bill: Maribou State. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

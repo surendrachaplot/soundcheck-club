@@ -1,6 +1,6 @@
 # YOTO x THE PLAYLIST with SIVLÉ & FIZZO FRESH at YOTO
 
-YOTO x THE PLAYLIST with SIVLÉ & FIZZO FRESH on Fri 25 Sept, Hamburg. 1 act on the bill: Dj Sivlé. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
+YOTO x THE PLAYLIST with SIVLÉ & FIZZO FRESH on Fri 25 Sept, Hamburg. 1 artist on the bill: Dj Sivlé. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

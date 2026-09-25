@@ -1,6 +1,6 @@
 # LET YOUR BODY LEARN 4TO ANIVERSARIO at TBA
 
-LET YOUR BODY LEARN 4TO ANIVERSARIO at TBA on Sat 31 Oct, Mexicocity. 2 acts on the bill: Antoni Maiovvi and Martin Parra. Disco and EBM. Preview the line-up and save it on soundcheck.
+LET YOUR BODY LEARN 4TO ANIVERSARIO at TBA on Sat 31 Oct, Mexico City. 2 artists on the bill: Antoni Maiovvi and Martin Parra. Disco and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

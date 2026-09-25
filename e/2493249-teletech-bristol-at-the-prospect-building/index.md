@@ -1,6 +1,6 @@
 # Teletech: Bristol at The Prospect Building
 
-Teletech: Bristol at The Prospect Building on Fri 27 Nov, Bristol. 2 acts on the bill: Lola Cerise and Restricted. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Teletech: Bristol at The Prospect Building on Fri 27 Nov, Bristol. 2 artists on the bill: Lola Cerise and Restricted. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # fabric: The Martinez Brothers (6 Hour Set), Sarahrey at fabric
 
-fabric: The Martinez Brothers (6 Hour Set), Sarahrey on Sun 11 Oct, London. 1 act on the bill: The Martinez Brothers. Preview the line-up and save it on soundcheck.
+fabric: The Martinez Brothers (6 Hour Set), Sarahrey on Sun 11 Oct, London. 1 artist on the bill: The Martinez Brothers. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

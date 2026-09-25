@@ -1,6 +1,6 @@
 # BASIS/ Amy Rymes/ saskia laval/ SNTS/ Sober at BASIS
 
-BASIS/ Amy Rymes/ saskia laval/ SNTS/ Sober on Fri 13 Nov, Utrecht. 4 acts on the bill: Amy Rymes, saskia laval, SNTS and SOBER (NL). Techno and Industrial. Preview the line-up and save it on soundcheck.
+BASIS/ Amy Rymes/ saskia laval/ SNTS/ Sober on Fri 13 Nov, Utrecht. 4 artists on the bill: Amy Rymes, saskia laval, SNTS and SOBER (NL). Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

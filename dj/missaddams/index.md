@@ -2,7 +2,7 @@
 
 Miss Addams is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Void Club, Berlin on Fri, 2 Oct 2026.
 
-Miss Addams is an ebm and techno artist based in Finland, tracked on soundcheck, with 6 sets logged across Berlin, Helsinki and Newyorkcity. Often billed alongside Desolate Discotheque, ATZENPUNK and Alienata. Next up: Void Club, Berlin on Fri 2 Oct.
+Miss Addams is an ebm and techno artist based in Finland, tracked on soundcheck, with 6 sets logged across Berlin, Helsinki and New York City. Often billed alongside Desolate Discotheque, ATZENPUNK and Alienata. Next up: Void Club, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 

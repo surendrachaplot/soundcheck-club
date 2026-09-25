@@ -1,6 +1,6 @@
 # La Potion presents Hannah Holland, Or:la, Jacinta at Quarry
 
-La Potion presents Hannah Holland, Or:la, Jacinta at Quarry on Sat 17 Oct, Liverpool. 3 acts on the bill: Hannah Holland, Jacinta and Or:la. Acid and Electronica. Preview the line-up and save it on soundcheck.
+La Potion presents Hannah Holland, Or:la, Jacinta at Quarry on Sat 17 Oct, Liverpool. 3 artists on the bill: Hannah Holland, Jacinta and Or:la. Acid and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

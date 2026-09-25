@@ -1,6 +1,6 @@
 # CHIDA at Numm
 
-CHIDA at Numm on Fri 25 Sept, Tokyo. 1 act on the bill: CHIDA. Preview the line-up and save it on soundcheck.
+CHIDA at Numm on Fri 25 Sept, Tokyo. 1 artist on the bill: CHIDA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

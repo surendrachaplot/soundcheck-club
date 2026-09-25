@@ -1,6 +1,6 @@
 # Jamback at Coda
 
-Jamback at Coda on Sat 12 Dec, Toronto. 1 act on the bill: Jamback. Preview the line-up and save it on soundcheck.
+Jamback at Coda on Sat 12 Dec, Toronto. 1 artist on the bill: Jamback. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

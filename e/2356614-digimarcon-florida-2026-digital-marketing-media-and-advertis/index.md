@@ -1,6 +1,6 @@
 # DigiMarCon Florida 2026 - Digital Marketing, Media and Advertising Conference & Exhibition at Hyatt Regency
 
-DigiMarCon Florida 2026 - Digital Marketing, Media and Advertising Conference & Exhibition at Hyatt Regency on Wed 14 Oct, Sanfrancisco. Acid and Afro Tech. Preview the line-up and save it on soundcheck.
+DigiMarCon Florida 2026 - Digital Marketing, Media and Advertising Conference & Exhibition at Hyatt Regency on Wed 14 Oct, San Francisco/Oakland. Acid and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

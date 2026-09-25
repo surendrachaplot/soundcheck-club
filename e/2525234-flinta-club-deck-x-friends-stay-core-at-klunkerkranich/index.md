@@ -1,6 +1,6 @@
 # FLINTA* CLUB DECK x Friends - STAY CORE at Klunkerkranich
 
-FLINTA* CLUB DECK x Friends - STAY CORE at Klunkerkranich on Thu 8 Oct, Berlin. 11 acts on the bill: aqwapi, Be.Bab, cee_ohh and Dela Nesto and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
+FLINTA* CLUB DECK x Friends - STAY CORE at Klunkerkranich on Thu 8 Oct, Berlin. 11 artists on the bill: aqwapi, Be.Bab, cee_ohh and Dela Nesto and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Into the Woods ADE 2026 at Ndsm Wharf
 
-Into the Woods ADE 2026 at Ndsm Wharf on Fri 23 Oct, Amsterdam. 50 acts on the bill: AAT (NL), ANNĒ, Antal and Bevan and 46 more. Techno and House. Preview the line-up and save it on soundcheck.
+Into the Woods ADE 2026 at Ndsm Wharf on Fri 23 Oct, Amsterdam. 50 artists on the bill: AAT (NL), ANNĒ, Antal and Bevan and 46 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

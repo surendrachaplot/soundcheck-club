@@ -1,6 +1,6 @@
 # F8 Presents Pleasure Sin Desire at the Folsom St. Faire at F8 1192 Folsom
 
-F8 Presents Pleasure Sin Desire at the Folsom St. Faire at F8 1192 Folsom on Sun 27 Sept, Sanfrancisco. 2 acts on the bill: DJ Parrot and Pup_Epoch. House and Tech House. Preview the line-up and save it on soundcheck.
+F8 Presents Pleasure Sin Desire at the Folsom St. Faire at F8 1192 Folsom on Sun 27 Sept, San Francisco/Oakland. 2 artists on the bill: DJ Parrot and Pup_Epoch. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

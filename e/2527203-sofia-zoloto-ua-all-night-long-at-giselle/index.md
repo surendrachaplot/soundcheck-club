@@ -1,6 +1,6 @@
 # Sofia Zoloto (UA) all night long at Giselle
 
-Sofia Zoloto (UA) all night long at Giselle on Fri 25 Sept, Dusseldorf. 1 act on the bill: Sofiia Zoloto. House and Acid. Preview the line-up and save it on soundcheck.
+Sofia Zoloto (UA) all night long at Giselle on Fri 25 Sept, Düsseldorf. 1 artist on the bill: Sofiia Zoloto. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

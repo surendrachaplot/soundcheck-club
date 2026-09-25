@@ -1,6 +1,6 @@
 # C2C Festival 2026 at Lingotto Fiere
 
-C2C Festival 2026 at Lingotto Fiere on Thu 29 Oct, Turin. 20 acts on the bill: Arca, Bladee, Carl Stone and Crystallmess and 16 more. Experimental and Pop. Preview the line-up and save it on soundcheck.
+C2C Festival 2026 at Lingotto Fiere on Thu 29 Oct, Turin. 20 artists on the bill: Arca, Bladee, Carl Stone and Crystallmess and 16 more. Experimental and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

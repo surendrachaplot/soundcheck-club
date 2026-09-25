@@ -1,6 +1,6 @@
 # [CANCELLED] 404: BET ON system at The Comfort Zone
 
-[CANCELLED] 404: BET ON system at The Comfort Zone on Fri 27 Nov, Toronto. 1 act on the bill: KILL 9 1. Techno. Preview the line-up and save it on soundcheck.
+[CANCELLED] 404: BET ON system at The Comfort Zone on Fri 27 Nov, Toronto. 1 artist on the bill: KILL 9 1. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

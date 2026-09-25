@@ -2,7 +2,7 @@
 
 Jason Peters is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 9 Oct 2026.
 
-Jason Peters is a house and italo disco artist based in United States of America, tracked on soundcheck, with 19 sets logged across Barcelona, Losangeles, Mexicocity and Sanfrancisco and 1 more. Often billed alongside Sharlese, Amatric and Asymmetry. Next up: Public Works, Sanfrancisco on Fri 9 Oct.
+Jason Peters is a house and italo disco artist based in United States of America, tracked on soundcheck, with 19 sets logged across Barcelona, Los Angeles, Mexico City and San Francisco/Oakland and 1 more. Often billed alongside Sharlese, Amatric and Asymmetry. Next up: Public Works, San Francisco/Oakland on Fri 9 Oct.
 
 ## Upcoming shows
 

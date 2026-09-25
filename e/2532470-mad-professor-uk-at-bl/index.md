@@ -1,6 +1,6 @@
 # Mad Professor (UK) at Blå
 
-Mad Professor (UK) at Blå on Sat 26 Sept, Oslo. 1 act on the bill: Mad Professor. Preview the line-up and save it on soundcheck.
+Mad Professor (UK) at Blå on Sat 26 Sept, Oslo. 1 artist on the bill: Mad Professor. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

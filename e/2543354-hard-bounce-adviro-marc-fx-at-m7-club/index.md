@@ -1,6 +1,6 @@
 # HARD BOUNCE [Adviro & Marc FX] at M7 Club
 
-HARD BOUNCE [Adviro & Marc FX] at M7 Club on Sun 4 Oct, Barcelona. 1 act on the bill: Adviro. Preview the line-up and save it on soundcheck.
+HARD BOUNCE [Adviro & Marc FX] at M7 Club on Sun 4 Oct, Barcelona. 1 artist on the bill: Adviro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

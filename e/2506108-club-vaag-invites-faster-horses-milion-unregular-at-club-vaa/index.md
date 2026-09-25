@@ -1,6 +1,6 @@
 # Club Vaag invites Faster Horses, Milion & Unregular at Club Vaag
 
-Club Vaag invites Faster Horses, Milion & Unregular on Fri 2 Oct, Antwerp. 3 acts on the bill: Faster Horses, Milion and Unregular. Preview the line-up and save it on soundcheck.
+Club Vaag invites Faster Horses, Milion & Unregular on Fri 2 Oct, Antwerp. 3 artists on the bill: Faster Horses, Milion and Unregular. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

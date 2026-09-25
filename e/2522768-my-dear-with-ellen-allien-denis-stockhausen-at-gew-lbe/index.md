@@ -1,6 +1,6 @@
 # My Dear with Ellen Allien, Denis Stockhausen at Gewölbe
 
-My Dear with Ellen Allien, Denis Stockhausen at Gewölbe on Fri 6 Nov, Cologne. 2 acts on the bill: Denis Stockhausen and Ellen Allien. Preview the line-up and save it on soundcheck.
+My Dear with Ellen Allien, Denis Stockhausen at Gewölbe on Fri 6 Nov, Cologne. 2 artists on the bill: Denis Stockhausen and Ellen Allien. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

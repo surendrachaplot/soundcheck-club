@@ -1,6 +1,6 @@
 # Kylie vs Madonna Bar at The Oxford Hotel
 
-Kylie vs Madonna Bar at The Oxford Hotel on Sat 3 Oct, Sydney. 2 acts on the bill: Kylie Minogue and Madonna. Disco and Pop. Preview the line-up and save it on soundcheck.
+Kylie vs Madonna Bar at The Oxford Hotel on Sat 3 Oct, Sydney. 2 artists on the bill: Kylie Minogue and Madonna. Disco and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

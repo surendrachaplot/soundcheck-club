@@ -1,6 +1,6 @@
 # Diggin' pres. Lamache and Voodoos & Taboos. (MUAMUA) at Seaseaclub Barcelona
 
-Diggin' pres. Lamache and Voodoos & Taboos. (MUAMUA) at Seaseaclub Barcelona on Sat 10 Oct, Barcelona. 6 acts on the bill: arnald, Lamache, Nancy (3) and Vallde and 2 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Diggin' pres. Lamache and Voodoos & Taboos. (MUAMUA) at Seaseaclub Barcelona on Sat 10 Oct, Barcelona. 6 artists on the bill: arnald, Lamache, Nancy and Vallde and 2 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

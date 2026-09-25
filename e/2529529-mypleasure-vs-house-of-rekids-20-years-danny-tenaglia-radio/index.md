@@ -1,6 +1,6 @@
 # MyPleasure vs House of Rekids – 20 Years: Danny Tenaglia + Radio Slave at Studio Club at Studio Club Malaga
 
-MyPleasure vs House of Rekids – 20 Years: Danny Tenaglia + Radio Slave at Studio Club at Studio Club Malaga on Sat 3 Oct, Malaga. 2 acts on the bill: Danny Tenaglia and Radio Slave. Preview the line-up and save it on soundcheck.
+MyPleasure vs House of Rekids – 20 Years: Danny Tenaglia + Radio Slave at Studio Club at Studio Club Malaga on Sat 3 Oct, Malaga. 2 artists on the bill: Danny Tenaglia and Radio Slave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

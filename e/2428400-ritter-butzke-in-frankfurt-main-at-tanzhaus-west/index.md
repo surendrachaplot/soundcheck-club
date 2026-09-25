@@ -1,6 +1,6 @@
 # Ritter Butzke in Frankfurt (Main) at Tanzhaus West
 
-Ritter Butzke in Frankfurt (Main) at Tanzhaus West on Sat 24 Oct, Frankfurt. 6 acts on the bill: Lexy & K-Paul, Malouna, Markus Klee and Prismode and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Ritter Butzke in Frankfurt (Main) at Tanzhaus West on Sat 24 Oct, Frankfurt. 6 artists on the bill: Lexy & K-Paul, Malouna, Markus Klee and Prismode and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # GOAT BOX Live at Lokschuppen Berlin
 
-GOAT BOX Live at Lokschuppen Berlin on Wed 18 Nov, Berlin. 1 act on the bill: Cobb Douglas. Preview the line-up and save it on soundcheck.
+GOAT BOX Live at Lokschuppen Berlin on Wed 18 Nov, Berlin. 1 artist on the bill: Cobb Douglas. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

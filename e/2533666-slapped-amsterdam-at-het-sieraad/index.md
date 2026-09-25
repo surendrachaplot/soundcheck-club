@@ -1,6 +1,6 @@
 # SLAPPED Amsterdam at Het Sieraad
 
-SLAPPED Amsterdam at Het Sieraad on Fri 2 Oct, Amsterdam. 4 acts on the bill: [ares], Anthony Middleton, Cristina Lazic and Mitch Oliver. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+SLAPPED Amsterdam at Het Sieraad on Fri 2 Oct, Amsterdam. 4 artists on the bill: [ares], Anthony Middleton, Cristina Lazic and Mitch Oliver. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

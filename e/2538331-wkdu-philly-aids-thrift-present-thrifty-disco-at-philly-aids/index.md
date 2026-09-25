@@ -1,6 +1,6 @@
 # WKDU & Philly Aids Thrift present: Thrifty Disco at Philly Aids Thrift
 
-WKDU & Philly Aids Thrift present: Thrifty Disco on Sat 10 Oct, Philadelphia. 1 act on the bill: Shawn Ryan. Preview the line-up and save it on soundcheck.
+WKDU & Philly Aids Thrift present: Thrifty Disco on Sat 10 Oct, Philadelphia. 1 artist on the bill: Shawn Ryan. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

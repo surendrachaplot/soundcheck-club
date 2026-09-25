@@ -1,6 +1,6 @@
 # COUNTERCLUB SUNDAY at COUNTER CLUB
 
-COUNTERCLUB SUNDAY at COUNTER CLUB on Sat 26 Sept, Tokyo. 1 act on the bill: Hickey. Preview the line-up and save it on soundcheck.
+COUNTERCLUB SUNDAY at COUNTER CLUB on Sat 26 Sept, Tokyo. 1 artist on the bill: Hickey. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

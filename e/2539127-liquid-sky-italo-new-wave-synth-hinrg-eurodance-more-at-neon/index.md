@@ -1,6 +1,6 @@
 # Liquid Sky - Italo New Wave Synth Hinrg Eurodance & More at Neon Clown Dream Lounge
 
-Liquid Sky - Italo New Wave Synth Hinrg Eurodance & More at Neon Clown Dream Lounge on Thu 1 Oct, Philadelphia. 1 act on the bill: DJ Baby Berlin. Italo Disco and New Wave. Preview the line-up and save it on soundcheck.
+Liquid Sky - Italo New Wave Synth Hinrg Eurodance & More at Neon Clown Dream Lounge on Thu 1 Oct, Philadelphia. 1 artist on the bill: DJ Baby Berlin. Italo Disco and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dan Shake + Damián Schwartz at Sala Villanos
 
-Dan Shake + Damián Schwartz at Sala Villanos on Fri 9 Oct, Madrid. 2 acts on the bill: Damian Schwartz and Dan Shake. Electronica. Preview the line-up and save it on soundcheck.
+Dan Shake + Damián Schwartz at Sala Villanos on Fri 9 Oct, Madrid. 2 artists on the bill: Damian Schwartz and Dan Shake. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

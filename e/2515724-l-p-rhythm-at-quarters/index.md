@@ -1,6 +1,6 @@
 # L.P Rhythm at Quarters
 
-L.P Rhythm at Quarters on Sat 26 Sept, Brighton. 2 acts on the bill: ADR (UK) and L.P. Rhythm. House. Preview the line-up and save it on soundcheck.
+L.P Rhythm at Quarters on Sat 26 Sept, Brighton. 2 artists on the bill: ADR (UK) and L.P. Rhythm. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

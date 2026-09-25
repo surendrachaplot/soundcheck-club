@@ -1,6 +1,6 @@
 # Serum: ARCHIE HAMILTION + BLAISE BRACIC at Prysm Nightclub
 
-Serum: ARCHIE HAMILTION + BLAISE BRACIC at Prysm Nightclub on Fri 2 Oct, Chicago. 1 act on the bill: Archie Hamilton. House and UK Funky. Preview the line-up and save it on soundcheck.
+Serum: ARCHIE HAMILTION + BLAISE BRACIC at Prysm Nightclub on Fri 2 Oct, Chicago. 1 artist on the bill: Archie Hamilton. House and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

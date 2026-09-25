@@ -1,6 +1,6 @@
 # Stereo Punks presents Never Dull, Alastair Lane (US Debut), Seamus Haji at TBA - 6th St Bridge
 
-Stereo Punks presents Never Dull, Alastair Lane (US Debut), Seamus Haji at TBA - 6th St Bridge on Fri 25 Sept, Losangeles. 3 acts on the bill: Alastair Lane, Never Dull and Seamus Haji. House and Disco. Preview the line-up and save it on soundcheck.
+Stereo Punks presents Never Dull, Alastair Lane (US Debut), Seamus Haji at TBA - 6th St Bridge on Fri 25 Sept, Los Angeles. 3 artists on the bill: Alastair Lane, Never Dull and Seamus Haji. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

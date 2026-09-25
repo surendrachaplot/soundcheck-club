@@ -1,6 +1,6 @@
 # Space of Sound with Hot Since 82, Crusy at LAB theCLUB
 
-Space of Sound with Hot Since 82, Crusy at LAB theCLUB on Sat 3 Oct, Madrid. 2 acts on the bill: Crusy and Hot Since 82. House and Tech House. Preview the line-up and save it on soundcheck.
+Space of Sound with Hot Since 82, Crusy at LAB theCLUB on Sat 3 Oct, Madrid. 2 artists on the bill: Crusy and Hot Since 82. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

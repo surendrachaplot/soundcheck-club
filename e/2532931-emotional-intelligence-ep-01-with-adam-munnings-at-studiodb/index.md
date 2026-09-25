@@ -1,6 +1,6 @@
 # Emotional Intelligence Ep. 01 with ADAM MUNNINGS at Studiodb
 
-Emotional Intelligence Ep. 01 with ADAM MUNNINGS at Studiodb on Thu 24 Sept, Berlin. 1 act on the bill: ADAM MUNNINGS. Preview the line-up and save it on soundcheck.
+Emotional Intelligence Ep. 01 with ADAM MUNNINGS at Studiodb on Thu 24 Sept, Berlin. 1 artist on the bill: ADAM MUNNINGS. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

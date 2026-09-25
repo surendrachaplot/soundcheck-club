@@ -1,6 +1,6 @@
 # Puro Perreo at Santeria Toscana 31
 
-Puro Perreo at Santeria Toscana 31 on Sat 26 Sept, Milan. 2 acts on the bill: Guayaba and Violett Moon. Preview the line-up and save it on soundcheck.
+Puro Perreo at Santeria Toscana 31 on Sat 26 Sept, Milan. 2 artists on the bill: Guayaba and Violett Moon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 NIGELTHREETIMES is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
 
-NIGELTHREETIMES is a house and techno artist based in United States of America, tracked on soundcheck, with 73 sets logged across Miami, Newyorkcity, Osaka and Sanfrancisco and 1 more. Often billed alongside Andrew Devlin, No Sir and Alien D. Next up: Elsewhere, Newyorkcity on Fri 25 Sept.
+NIGELTHREETIMES is a house and techno artist based in United States of America, tracked on soundcheck, with 73 sets logged across Miami, New York City, Osaka and San Francisco/Oakland and 1 more. Often billed alongside Andrew Devlin, No Sir and Alien D. Next up: Elsewhere, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

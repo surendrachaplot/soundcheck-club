@@ -1,6 +1,6 @@
 # Disco 2000 - Millennial Trash Dance Party For All at Upstairs at the 700
 
-Disco 2000 - Millennial Trash Dance Party For All at Upstairs at the 700 on Fri 25 Sept, Philadelphia. 2 acts on the bill: Brad Scott and DJ Baby Berlin. Electro and Post-Punk. Preview the line-up and save it on soundcheck.
+Disco 2000 - Millennial Trash Dance Party For All at Upstairs at the 700 on Fri 25 Sept, Philadelphia. 2 artists on the bill: Brad Scott and DJ Baby Berlin. Electro and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

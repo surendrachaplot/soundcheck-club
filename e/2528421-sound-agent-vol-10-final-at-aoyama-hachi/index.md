@@ -1,6 +1,6 @@
 # SOUND AGENT Vol.10 Final at Aoyama Hachi
 
-SOUND AGENT Vol.10 Final at Aoyama Hachi on Fri 2 Oct, Tokyo. 1 act on the bill: Pokaska. Preview the line-up and save it on soundcheck.
+SOUND AGENT Vol.10 Final at Aoyama Hachi on Fri 2 Oct, Tokyo. 1 artist on the bill: Pokaska. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

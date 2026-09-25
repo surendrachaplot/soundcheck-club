@@ -1,6 +1,6 @@
 # Origins: Or:la & JASSS at Palais
 
-Origins: Or:la & JASSS at Palais on Sat 7 Nov, London. 2 acts on the bill: JASSS and Or:la. Techno and House. Preview the line-up and save it on soundcheck.
+Origins: Or:la & JASSS at Palais on Sat 7 Nov, London. 2 artists on the bill: JASSS and Or:la. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

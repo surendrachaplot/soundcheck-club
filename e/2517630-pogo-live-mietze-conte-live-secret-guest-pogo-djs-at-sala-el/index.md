@@ -1,6 +1,6 @@
 # Pogo Live: Mietze Conte (live) + Secret Guest + pogo djs at Sala El Sol
 
-Pogo Live: Mietze Conte (live) + Secret Guest + pogo djs at Sala El Sol on Fri 13 Nov, Madrid. 1 act on the bill: Mietze Conte. Electronica. Preview the line-up and save it on soundcheck.
+Pogo Live: Mietze Conte (live) + Secret Guest + pogo djs at Sala El Sol on Fri 13 Nov, Madrid. 1 artist on the bill: Mietze Conte. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

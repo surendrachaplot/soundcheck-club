@@ -1,6 +1,6 @@
 # Club Culture: DVS1 & Meschwitz at Descent
 
-Club Culture: DVS1 & Meschwitz at Descent on Thu 19 Nov, Boston. 2 acts on the bill: DVS1 and Meschwitz. Techno. Preview the line-up and save it on soundcheck.
+Club Culture: DVS1 & Meschwitz at Descent on Thu 19 Nov, Boston. 2 artists on the bill: DVS1 and Meschwitz. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

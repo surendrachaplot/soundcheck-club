@@ -1,6 +1,6 @@
 # If You Know You Know with DJ Masda, Mesmé, Etari, & Chemtrail Johnny at TBA - IYKYK 
 
-If You Know You Know with DJ Masda, Mesmé, Etari, & Chemtrail Johnny at TBA - IYKYK  on Sat 26 Sept, Losangeles. 5 acts on the bill: Chemtrail Johnny, Connor Mikami, DJ Masda and Etari and 1 more. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+If You Know You Know with DJ Masda, Mesmé, Etari, & Chemtrail Johnny at TBA - IYKYK  on Sat 26 Sept, Los Angeles. 5 artists on the bill: Chemtrail Johnny, Connor Mikami, DJ Masda and Etari and 1 more. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

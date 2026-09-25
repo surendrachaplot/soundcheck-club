@@ -1,6 +1,6 @@
 # Zalando RunZone (Marathon After-Party) featuring POWER at Kudamm 229
 
-Zalando RunZone (Marathon After-Party) featuring POWER at Kudamm 229 on Sun 27 Sept, Berlin. 1 act on the bill: Power Squad. House. Preview the line-up and save it on soundcheck.
+Zalando RunZone (Marathon After-Party) featuring POWER at Kudamm 229 on Sun 27 Sept, Berlin. 1 artist on the bill: Power Squad. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

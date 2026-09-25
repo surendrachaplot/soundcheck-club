@@ -1,6 +1,6 @@
 # Worried About Henry with Wilkinson, Bou, Kanine, Luude and many more at DRUMSHEDS
 
-Worried About Henry with Wilkinson, Bou, Kanine, Luude and many more at DRUMSHEDS on Sat 7 Nov, London. 36 acts on the bill: Artemis, Bou (UK), Break (2) and Breakage and 32 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+Worried About Henry with Wilkinson, Bou, Kanine, Luude and many more at DRUMSHEDS on Sat 7 Nov, London. 36 artists on the bill: Artemis, Bou (UK), Break and Breakage and 32 more. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 PUNKAL0ID is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 181 Orchard St , New York City on Sat, 26 Sept 2026.
 
-PUNKAL0ID is a techno and club artist based in United States of America, tracked on soundcheck, with 11 sets logged across Chicago and Newyorkcity. Often billed alongside Soo Intoit, Xana 101 and ARCHANGEL (US). Next up: TBA - 181 Orchard St , Newyorkcity on Sat 26 Sept.
+PUNKAL0ID is a techno and club artist based in United States of America, tracked on soundcheck, with 11 sets logged across Chicago and New York City. Often billed alongside Soo Intoit, Xana 101 and ARCHANGEL (US). Next up: TBA - 181 Orchard St , New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

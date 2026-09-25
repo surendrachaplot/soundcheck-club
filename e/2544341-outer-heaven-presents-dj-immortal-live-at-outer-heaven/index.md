@@ -1,6 +1,6 @@
 # Outer Heaven presents: DJ Immortal [Live] at Outer Heaven
 
-Outer Heaven presents: DJ Immortal [Live] on Sat 7 Nov, Newyorkcity. Techno and House. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: DJ Immortal [Live] on Sat 7 Nov, New York City. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

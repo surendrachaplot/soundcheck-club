@@ -1,6 +1,6 @@
 # Night Tales: Luke Una & Paula Tape - The 'É Soul Cultura' Residency [4 Fridays In October] at Night Tales
 
-Night Tales: Luke Una & Paula Tape - The 'É Soul Cultura' Residency [4 Fridays In October] on Fri 16 Oct, London. 2 acts on the bill: Luke Una and Paula Tape. House. Preview the line-up and save it on soundcheck.
+Night Tales: Luke Una & Paula Tape - The 'É Soul Cultura' Residency [4 Fridays In October] on Fri 16 Oct, London. 2 artists on the bill: Luke Una and Paula Tape. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

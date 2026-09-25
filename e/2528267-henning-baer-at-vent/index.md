@@ -1,6 +1,6 @@
 # Henning Baer at VENT
 
-Henning Baer at VENT on Sat 10 Oct, Tokyo. 1 act on the bill: Henning Baer. Techno. Preview the line-up and save it on soundcheck.
+Henning Baer at VENT on Sat 10 Oct, Tokyo. 1 artist on the bill: Henning Baer. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Godskitchen at Amnesia Ibiza
 
-Godskitchen at Amnesia Ibiza on Sat 26 Sept, Ibiza. 5 acts on the bill: Fergie, Ferry Corsten, Jordan Nocturne and Lisa Lashes and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Godskitchen at Amnesia Ibiza on Sat 26 Sept, Ibiza. 5 artists on the bill: Fergie, Ferry Corsten, Jordan Nocturne and Lisa Lashes and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

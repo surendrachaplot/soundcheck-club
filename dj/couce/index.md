@@ -2,7 +2,7 @@
 
 Couce is a House and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 17 Oct 2026.
 
-Couce is a house and breakbeat artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona. Often billed alongside Cucut, J.Benitez (2) and Arnau Obiols. Next up: Seaseaclub Barcelona, Barcelona on Sat 17 Oct.
+Couce is a house and breakbeat artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona. Often billed alongside Cucut, J.Benitez and Arnau Obiols. Next up: Seaseaclub Barcelona, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # GENRELESS Happy Hour - 'Don't Ask, We'll Tell' at Bossa Nova Civic Club
 
-GENRELESS Happy Hour - 'Don't Ask, We'll Tell' at Bossa Nova Civic Club on Sat 26 Sept, Newyorkcity. 2 acts on the bill: 3K LB Marlin and steele deficiency. Techno and House. Preview the line-up and save it on soundcheck.
+GENRELESS Happy Hour - 'Don't Ask, We'll Tell' at Bossa Nova Civic Club on Sat 26 Sept, New York City. 2 artists on the bill: 3K LB Marlin and steele deficiency. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # A Dot System X Full Circle present: Moopie at Smith St Hotel
 
-A Dot System X Full Circle present: Moopie at Smith St Hotel on Fri 25 Sept, Melbourne. 4 acts on the bill: M!a Wallace, MILLA, Moopie and Yowies. Preview the line-up and save it on soundcheck.
+A Dot System X Full Circle present: Moopie at Smith St Hotel on Fri 25 Sept, Melbourne. 4 artists on the bill: M!a Wallace, MILLA, Moopie and Yowies. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

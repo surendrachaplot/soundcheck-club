@@ -1,6 +1,6 @@
 # Bubbledee: House Music Haven in Hackney Wick at Colour Factory Loft at Colour Factory
 
-Bubbledee: House Music Haven in Hackney Wick at Colour Factory Loft on Sat 17 Oct, London. 4 acts on the bill: Andrea Giudice, Irren, Larry Cadge and Mono Dust_. House and Minimal. Preview the line-up and save it on soundcheck.
+Bubbledee: House Music Haven in Hackney Wick at Colour Factory Loft on Sat 17 Oct, London. 4 artists on the bill: Andrea Giudice, Irren, Larry Cadge and Mono Dust_. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

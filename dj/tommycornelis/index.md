@@ -2,7 +2,7 @@
 
 Tommy Cornelis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at broad hall., Philadelphia on Fri, 9 Oct 2026.
 
-Tommy Cornelis is a house and techno artist based in United States of America, tracked on soundcheck, with 77 sets logged across Denver, Losangeles, Newyorkcity and Philadelphia and 1 more. Often billed alongside Joyce Lim, Baronhawk Poitier and Dean Sullivan. Next up: broad hall., Philadelphia on Fri 9 Oct.
+Tommy Cornelis is a house and techno artist based in United States of America, tracked on soundcheck, with 77 sets logged across Denver, Los Angeles, New York City and Philadelphia and 1 more. Often billed alongside Joyce Lim, Baronhawk Poitier and Dean Sullivan. Next up: broad hall., Philadelphia on Fri 9 Oct.
 
 ## Upcoming shows
 

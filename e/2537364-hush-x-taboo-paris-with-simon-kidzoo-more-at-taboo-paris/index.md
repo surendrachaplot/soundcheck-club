@@ -1,6 +1,6 @@
 # Hush x Taboo Paris with Simon Kidzoo & More at Taboo Paris
 
-Hush x Taboo Paris with Simon Kidzoo & More on Fri 9 Oct, Paris. 1 act on the bill: Simon Kidzoo. House. Preview the line-up and save it on soundcheck.
+Hush x Taboo Paris with Simon Kidzoo & More on Fri 9 Oct, Paris. 1 artist on the bill: Simon Kidzoo. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

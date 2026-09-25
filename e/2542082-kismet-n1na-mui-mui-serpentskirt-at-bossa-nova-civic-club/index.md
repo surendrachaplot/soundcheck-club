@@ -1,6 +1,6 @@
 # KISMET // N1NA + Mui Mui + serpentskirt at Bossa Nova Civic Club
 
-KISMET // N1NA + Mui Mui + serpentskirt at Bossa Nova Civic Club on Tue 27 Oct, Newyorkcity. 3 acts on the bill: Mui Mui, N1NA and serpentskirt. Dub Techno. Preview the line-up and save it on soundcheck.
+KISMET // N1NA + Mui Mui + serpentskirt at Bossa Nova Civic Club on Tue 27 Oct, New York City. 3 artists on the bill: Mui Mui, N1NA and serpentskirt. Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

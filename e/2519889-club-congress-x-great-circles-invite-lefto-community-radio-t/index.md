@@ -1,6 +1,6 @@
 # Club Congress X Great Circles Invite Lefto - Community Radio Take Over at Bastet
 
-Club Congress X Great Circles Invite Lefto - Community Radio Take Over at Bastet on Sat 26 Sept, Philadelphia. 8 acts on the bill: DJ Matpat, Lady Prowl, Lefto Early Bird and Mario Cotto and 4 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Club Congress X Great Circles Invite Lefto - Community Radio Take Over at Bastet on Sat 26 Sept, Philadelphia. 8 artists on the bill: DJ Matpat, Lady Prowl, Lefto Early Bird and Mario Cotto and 4 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

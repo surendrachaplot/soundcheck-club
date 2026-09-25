@@ -1,6 +1,6 @@
 # Anthony Rother [Hibryd Electro] I Halley Club SOLO ENTRADAS EN PUERTA at Specka
 
-Anthony Rother [Hibryd Electro] I Halley Club SOLO ENTRADAS EN PUERTA at Specka on Sat 10 Oct, Madrid. 2 acts on the bill: Anthony Rother and Uhf. Electro and Electronica. Preview the line-up and save it on soundcheck.
+Anthony Rother [Hibryd Electro] I Halley Club SOLO ENTRADAS EN PUERTA at Specka on Sat 10 Oct, Madrid. 2 artists on the bill: Anthony Rother and Uhf. Electro and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sub.mission presents: Numa Crew X Plastician at The Black Box
 
-Sub.mission presents: Numa Crew X Plastician at The Black Box on Fri 9 Oct, Denver. 1 act on the bill: Plastician. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Sub.mission presents: Numa Crew X Plastician at The Black Box on Fri 9 Oct, Denver. 1 artist on the bill: Plastician. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

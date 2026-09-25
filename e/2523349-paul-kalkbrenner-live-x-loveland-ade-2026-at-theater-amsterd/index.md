@@ -1,6 +1,6 @@
 # Paul Kalkbrenner Live x Loveland - ADE 2026 at Theater Amsterdam
 
-Paul Kalkbrenner Live x Loveland - ADE 2026 at Theater Amsterdam on Thu 22 Oct, Amsterdam. 1 act on the bill: Paul Kalkbrenner. Preview the line-up and save it on soundcheck.
+Paul Kalkbrenner Live x Loveland - ADE 2026 at Theater Amsterdam on Thu 22 Oct, Amsterdam. 1 artist on the bill: Paul Kalkbrenner. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

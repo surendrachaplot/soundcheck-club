@@ -1,6 +1,6 @@
 # Nonstop: Angel D'lite b2b tINI, DJ Fart in the Club, Eli Verveine, Francesco Del Garda + more at Nowadays
 
-Nonstop: Angel D'lite b2b tINI, DJ Fart in the Club, Eli Verveine, Francesco Del Garda + more at Nowadays on Sat 3 Oct, Newyorkcity. 7 acts on the bill: Angel D'lite, DJ Fart in the Club, Eli Verveine and Francesco Del Garda and 3 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Nonstop: Angel D'lite b2b tINI, DJ Fart in the Club, Eli Verveine, Francesco Del Garda + more at Nowadays on Sat 3 Oct, New York City. 7 artists on the bill: Angel D'lite, DJ Fart in the Club, Eli Verveine and Francesco Del Garda and 3 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

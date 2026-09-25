@@ -1,6 +1,6 @@
 # BOOTS HALLOWEEN - COBRAH, BREE RUNWAY, Pixel Grip, deBasement + MORE at Radius
 
-BOOTS HALLOWEEN - COBRAH, BREE RUNWAY, Pixel Grip, deBasement + MORE at Radius on Fri 30 Oct, Chicago. 8 acts on the bill: Ariel Zetina, COBRAH, deBasement and DJ GayBash! and 4 more. Techno and Club. Preview the line-up and save it on soundcheck.
+BOOTS HALLOWEEN - COBRAH, BREE RUNWAY, Pixel Grip, deBasement + MORE at Radius on Fri 30 Oct, Chicago. 8 artists on the bill: Ariel Zetina, COBRAH, deBasement and DJ GayBash! and 4 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

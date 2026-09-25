@@ -1,6 +1,6 @@
 # Shameless feat. Laure Croft + Afters at Warehouse on Watts
 
-Shameless feat. Laure Croft + Afters at Warehouse on Watts on Sat 3 Oct, Philadelphia. 5 acts on the bill: ANDi MANDi, ARTEMIX, Fold Theory and JFK and 1 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+Shameless feat. Laure Croft + Afters at Warehouse on Watts on Sat 3 Oct, Philadelphia. 5 artists on the bill: ANDi MANDi, ARTEMIX, Fold Theory and JFK and 1 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

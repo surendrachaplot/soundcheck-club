@@ -1,6 +1,6 @@
 # version at OHM
 
-version at OHM on Sat 26 Sept, Berlin. 5 acts on the bill: Aaronovsky, DJ Betska, DJ Hops and Orson and 1 more. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+version at OHM on Sat 26 Sept, Berlin. 5 artists on the bill: Aaronovsky, DJ Betska, DJ Hops and Orson and 1 more. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

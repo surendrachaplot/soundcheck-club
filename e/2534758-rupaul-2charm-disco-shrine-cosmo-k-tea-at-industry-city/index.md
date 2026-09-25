@@ -1,6 +1,6 @@
-# RuPaul , 2Charm, Disco Shrine, Cosmo, k.tea at Industry City
+# RuPaul, 2Charm, Disco Shrine, Cosmo, k.tea at Industry City
 
-RuPaul , 2Charm, Disco Shrine, Cosmo, k.tea at Industry City on Sat 26 Sept, Newyorkcity. 2 acts on the bill: Cosmo (NY) and k.tea. House and Disco. Preview the line-up and save it on soundcheck.
+RuPaul, 2Charm, Disco Shrine, Cosmo, k.tea at Industry City on Sat 26 Sept, New York City. 2 artists on the bill: Cosmo (NY) and k.tea. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

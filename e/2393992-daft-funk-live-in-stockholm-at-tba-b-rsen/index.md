@@ -1,6 +1,6 @@
 # Daft Funk Live in Stockholm at TBA - Börsen
 
-Daft Funk Live in Stockholm at TBA - Börsen on Thu 15 Oct, Stockholm. 1 act on the bill: Daft Funk Live. House and Electro. Preview the line-up and save it on soundcheck.
+Daft Funk Live in Stockholm at TBA - Börsen on Thu 15 Oct, Stockholm. 1 artist on the bill: Daft Funk Live. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

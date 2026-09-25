@@ -1,6 +1,6 @@
 # Outside the BigMac, vol 6: November Edition at Panke
 
-Outside the BigMac, vol 6: November Edition at Panke on Fri 13 Nov, Berlin. 1 act on the bill: Malu. Experimental and Pop. Preview the line-up and save it on soundcheck.
+Outside the BigMac, vol 6: November Edition at Panke on Fri 13 Nov, Berlin. 1 artist on the bill: Malu. Experimental and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Jono (2) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Firn, Seattle on Thu, 24 Sept 2026.
 
-Jono (2) is a house and electro artist based in United States of America, tracked on soundcheck, with 11 sets logged across Seattle. Often billed alongside Misha Mir, Doza and Interwave Surfer. Next up: Firn, Seattle on Thu 24 Sept.
+Jono is a house and electro artist based in United States of America, tracked on soundcheck, with 11 sets logged across Seattle. Often billed alongside Misha Mir, Doza and Interwave Surfer. Next up: Firn, Seattle on Thu 24 Sept.
 
 ## Upcoming shows
 

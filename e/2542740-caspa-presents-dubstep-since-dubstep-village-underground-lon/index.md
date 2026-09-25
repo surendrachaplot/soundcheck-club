@@ -1,6 +1,6 @@
 # Caspa presents Dubstep Since Dubstep @ Village Underground, London at Village Underground
 
-Caspa presents Dubstep Since Dubstep @ Village Underground, London on Sat 12 Dec, London. 1 act on the bill: Caspa. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Caspa presents Dubstep Since Dubstep @ Village Underground, London on Sat 12 Dec, London. 1 artist on the bill: Caspa. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

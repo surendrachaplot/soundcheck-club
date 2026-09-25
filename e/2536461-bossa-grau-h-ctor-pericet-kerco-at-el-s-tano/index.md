@@ -1,6 +1,6 @@
 # BOSSA: Grau, Héctor Pericet, Kerco at EL SÓTANO
 
-BOSSA: Grau, Héctor Pericet, Kerco at EL SÓTANO on Sun 25 Oct, Madrid. 2 acts on the bill: Grau (ES) and Héctor Pericet. Tech House. Preview the line-up and save it on soundcheck.
+BOSSA: Grau, Héctor Pericet, Kerco at EL SÓTANO on Sun 25 Oct, Madrid. 2 artists on the bill: Grau (ES) and Héctor Pericet. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

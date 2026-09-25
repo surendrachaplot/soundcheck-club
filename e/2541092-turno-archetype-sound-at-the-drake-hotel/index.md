@@ -1,6 +1,6 @@
 # Turno - Archetype Sound at The Drake Hotel
 
-Turno - Archetype Sound at The Drake Hotel on Fri 11 Dec, Toronto. 1 act on the bill: Turno. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Turno - Archetype Sound at The Drake Hotel on Fri 11 Dec, Toronto. 1 artist on the bill: Turno. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

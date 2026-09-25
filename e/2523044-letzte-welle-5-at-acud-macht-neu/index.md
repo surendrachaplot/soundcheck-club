@@ -1,6 +1,6 @@
 # Letzte Welle #5 at Acud Macht NEU
 
-Letzte Welle #5 at Acud Macht NEU on Sat 26 Sept, Berlin. 1 act on the bill: Testbild. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
+Letzte Welle #5 at Acud Macht NEU on Sat 26 Sept, Berlin. 1 artist on the bill: Testbild. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

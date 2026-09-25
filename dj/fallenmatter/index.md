@@ -2,7 +2,7 @@
 
 fallen matter is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
-fallen matter is a techno and experimental artist based in Singapore, tracked on soundcheck, with 16 sets logged across Newyorkcity, Portland and Sanfrancisco. Often billed alongside kk.Shucko, Baby Leo and DJ Eft. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
+fallen matter is a techno and experimental artist based in Singapore, tracked on soundcheck, with 16 sets logged across New York City, Portland and San Francisco/Oakland. Often billed alongside kk.Shucko, Baby Leo and DJ Eft. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # 160 Brighton presents: Tim Reaper b2b Fracture (3-hour set) at Volks
 
-160 Brighton presents: Tim Reaper b2b Fracture (3-hour set) at Volks on Fri 23 Oct, Brighton. 2 acts on the bill: Fracture and Tim Reaper. Footwork and Jungle. Preview the line-up and save it on soundcheck.
+160 Brighton presents: Tim Reaper b2b Fracture (3-hour set) at Volks on Fri 23 Oct, Brighton. 2 artists on the bill: Fracture and Tim Reaper. Footwork and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

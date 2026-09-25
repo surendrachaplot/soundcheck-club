@@ -1,6 +1,6 @@
 # The Conjuring On Eldridge Halloween Parrty Reggaeton Bar at San Antonios
 
-The Conjuring On Eldridge Halloween Parrty Reggaeton Bar at San Antonios on Sat 31 Oct, Newyorkcity. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
+The Conjuring On Eldridge Halloween Parrty Reggaeton Bar at San Antonios on Sat 31 Oct, New York City. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -9,7 +9,7 @@ Axel Blanc is a house and techno artist based in France, tracked on soundcheck, 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Kilomètre25 | Paris |
-| Fri, 9 Oct 2026 | TBA - 13 Rue Marguerite Moret, 75011 Paris | Paris |
+| Fri, 9 Oct 2026 | TBA - Paris | Paris |
 
 ## Recently played
 

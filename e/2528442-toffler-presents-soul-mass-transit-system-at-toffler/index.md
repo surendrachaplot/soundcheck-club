@@ -1,6 +1,6 @@
 # Toffler presents Soul Mass Transit System at Toffler
 
-Toffler presents Soul Mass Transit System on Fri 9 Oct, Rotterdam. 3 acts on the bill: Jackyboom, Soul Mass Transit System and Yucky. House and Garage. Preview the line-up and save it on soundcheck.
+Toffler presents Soul Mass Transit System on Fri 9 Oct, Rotterdam. 3 artists on the bill: Jackyboom, Soul Mass Transit System and Yucky. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

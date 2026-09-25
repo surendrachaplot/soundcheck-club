@@ -1,6 +1,6 @@
 # 12 Years of Good Room - The Carry Nation (all night), Timo Lee, JÄK-87 at Good Room
 
-12 Years of Good Room - The Carry Nation (all night), Timo Lee, JÄK-87 on Sat 17 Oct, Newyorkcity. 3 acts on the bill: JÄK-87, The Carry Nation and Timo Lee. Preview the line-up and save it on soundcheck.
+12 Years of Good Room - The Carry Nation (all night), Timo Lee, JÄK-87 on Sat 17 Oct, New York City. 3 artists on the bill: JÄK-87, The Carry Nation and Timo Lee. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Kugel
 
-Kugel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nyapi, Seoul on Fri, 25 Sept 2026.
+Kugel is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nyapi, Seoul on Fri, 25 Sept 2026.
 
-Kugel is a techno and house artist based in South Korea, tracked on soundcheck, with 170 sets logged across Bangkok, Hongkong, Jakarta and Newyorkcity and 3 more. Often billed alongside Sunday Lee, RTRP and Gumi. Next up: Nyapi, Seoul on Fri 25 Sept.
+Kugel is a techno and house artist based in South Korea, tracked on soundcheck, with 171 sets logged across Bangkok, Hong Kong, Jakarta and New York City and 3 more. Often billed alongside Sunday Lee, RTRP and Gumi. Next up: Nyapi, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kugel is a techno and house artist based in South Korea, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Nyapi | Seoul |
 | Sat, 26 Sept 2026 | teller | Seoul |
+| Thu, 1 Oct 2026 | Nyapi | Seoul |
 
 ## Recently played
 

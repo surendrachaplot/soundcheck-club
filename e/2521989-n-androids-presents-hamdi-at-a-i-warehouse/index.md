@@ -1,6 +1,6 @@
 # Nü Androids presents: Hamdi at A.i Warehouse
 
-Nü Androids presents: Hamdi at A.i Warehouse on Fri 23 Oct, Washingtondc. 1 act on the bill: Hamdi (UK). Bass and Garage. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Hamdi at A.i Warehouse on Fri 23 Oct, Washington DC. 1 artist on the bill: Hamdi (UK). Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Hustle: 70's Disco Halloween at White Rabbit Sky Lounge at The Valorian (Formerly Skybar at Mondrian)
 
-The Hustle: 70's Disco Halloween at White Rabbit Sky Lounge at The Valorian (Formerly Skybar at Mondrian) on Fri 30 Oct, Losangeles. Disco. Preview the line-up and save it on soundcheck.
+The Hustle: 70's Disco Halloween at White Rabbit Sky Lounge at The Valorian (Formerly Skybar at Mondrian) on Fri 30 Oct, Los Angeles. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

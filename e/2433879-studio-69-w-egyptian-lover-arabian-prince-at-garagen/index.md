@@ -1,6 +1,6 @@
 # STUDIO 69 w/ Egyptian Lover & ARABIAN PRINCE at Garagen
 
-STUDIO 69 w/ Egyptian Lover & ARABIAN PRINCE at Garagen on Sat 10 Oct, Cologne. 8 acts on the bill: Cufme, DJ Business (2), DJ DURSTLÖSCHER and Egyptian Lover and 4 more. Bass and Electro. Preview the line-up and save it on soundcheck.
+STUDIO 69 w/ Egyptian Lover & ARABIAN PRINCE at Garagen on Sat 10 Oct, Cologne. 8 artists on the bill: Cufme, DJ Business, DJ DURSTLÖSCHER and Egyptian Lover and 4 more. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

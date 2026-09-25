@@ -1,6 +1,6 @@
 # Whales at The Meadows
 
-Whales at The Meadows on Fri 25 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+Whales at The Meadows on Fri 25 Sept, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

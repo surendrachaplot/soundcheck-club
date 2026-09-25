@@ -1,6 +1,6 @@
 # Sekta Selekta: Smansky, Portal, Kondrat at Sekta Selekta
 
-Sekta Selekta: Smansky, Portal, Kondrat on Thu 24 Sept, Krakow. 2 acts on the bill: Kondrat and Smansky. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Sekta Selekta: Smansky, Portal, Kondrat on Thu 24 Sept, Krakow. 2 artists on the bill: Kondrat and Smansky. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
-# DJ Ron
+# DJRon
 
-DJ Ron is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at EartH, London on Fri, 25 Sept 2026.
+DJRon is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at EartH, London on Fri, 25 Sept 2026.
 
-DJ Ron is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Cologne, Ibiza, London and Tokyo. Often billed alongside DJ Brockie, Jumping Jack Frost and Ray Keith. Next up: EartH, London on Fri 25 Sept.
+DJRon is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Cologne, Ibiza, London and Tokyo. Often billed alongside DJ Brockie, Jumping Jack Frost and Ray Keith. Next up: EartH, London on Fri 25 Sept.
 
 ## Upcoming shows
 

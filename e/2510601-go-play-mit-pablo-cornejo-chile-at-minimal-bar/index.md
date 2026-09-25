@@ -1,6 +1,6 @@
 # go.play mit Pablo Cornejo (Chile) at Minimal Bar
 
-go.play mit Pablo Cornejo (Chile) at Minimal Bar on Tue 13 Oct, Berlin. 1 act on the bill: Pablo Cornejo. Preview the line-up and save it on soundcheck.
+go.play mit Pablo Cornejo (Chile) at Minimal Bar on Tue 13 Oct, Berlin. 1 artist on the bill: Pablo Cornejo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

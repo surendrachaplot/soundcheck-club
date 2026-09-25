@@ -1,6 +1,6 @@
 # INTERNA at Ritter Butzke
 
-INTERNA at Ritter Butzke on Fri 25 Sept, Berlin. 3 acts on the bill: CUT:NA, Maik Gyver and RECLUSE (2). Techno. Preview the line-up and save it on soundcheck.
+INTERNA at Ritter Butzke on Fri 25 Sept, Berlin. 3 artists on the bill: CUT:NA, Maik Gyver and RECLUSE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

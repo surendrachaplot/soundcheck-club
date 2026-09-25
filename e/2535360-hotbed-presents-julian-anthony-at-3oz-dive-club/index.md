@@ -1,6 +1,6 @@
 # Hotbed presents: Julian Anthony at 3oz Dive Club
 
-Hotbed presents: Julian Anthony at 3oz Dive Club on Fri 9 Oct, Sandiego. 1 act on the bill: Julian Anthony. House and Minimal. Preview the line-up and save it on soundcheck.
+Hotbed presents: Julian Anthony at 3oz Dive Club on Fri 9 Oct, San Diego. 1 artist on the bill: Julian Anthony. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

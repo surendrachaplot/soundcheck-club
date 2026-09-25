@@ -1,6 +1,6 @@
 # BERLIN TECHNO - THANKSGIVING EDITION 2026 at Cabaret Berlin
 
-BERLIN TECHNO - THANKSGIVING EDITION 2026 at Cabaret Berlin on Sun 11 Oct, Montreal. 2 acts on the bill: DJ Davidé and DJ Mushin. Techno and Acid. Preview the line-up and save it on soundcheck.
+BERLIN TECHNO - THANKSGIVING EDITION 2026 at Cabaret Berlin on Sun 11 Oct, Montreal. 2 artists on the bill: DJ Davidé and DJ Mushin. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

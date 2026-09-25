@@ -1,6 +1,6 @@
 # WHP presents: XXL, Manchester at Depot Mayfield
 
-WHP presents: XXL, Manchester at Depot Mayfield on Sat 28 Nov, Manchester. 38 acts on the bill: 2FEL, 4000 Hz, Alex Farell and Anetha and 34 more. Techno. Preview the line-up and save it on soundcheck.
+WHP presents: XXL, Manchester at Depot Mayfield on Sat 28 Nov, Manchester. 38 artists on the bill: 2FEL, 4000 Hz, Alex Farell and Anetha and 34 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

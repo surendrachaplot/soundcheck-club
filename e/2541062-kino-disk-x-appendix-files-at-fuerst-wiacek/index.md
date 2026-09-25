@@ -1,6 +1,6 @@
 # Kino Disk x Appendix.files at Fuerst Wiacek
 
-Kino Disk x Appendix.files at Fuerst Wiacek on Wed 18 Nov, Berlin. 3 acts on the bill: Hpin, Perila and YAKA. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Kino Disk x Appendix.files at Fuerst Wiacek on Wed 18 Nov, Berlin. 3 artists on the bill: Hpin, Perila and YAKA. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

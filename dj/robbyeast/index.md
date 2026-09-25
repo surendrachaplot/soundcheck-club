@@ -2,7 +2,7 @@
 
 Robby East is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Brooklyn Storehouse, New York City on Sat, 26 Sept 2026.
 
-Robby East is a progressive house and house artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Chicago, Denver and London and 4 more. Often billed alongside MYRNE, Rinzen and Lane 8. Next up: Brooklyn Storehouse, Newyorkcity on Sat 26 Sept.
+Robby East is a progressive house and house artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Chicago, Denver and London and 4 more. Often billed alongside MYRNE, Rinzen and Lane 8. Next up: Brooklyn Storehouse, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

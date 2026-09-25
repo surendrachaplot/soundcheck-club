@@ -1,6 +1,6 @@
 # A rooftop party with Atish & Nikita at the Hotel Via at Hotel Via
 
-A rooftop party with Atish & Nikita at the Hotel Via on Sun 18 Oct, Sanfrancisco. 3 acts on the bill: Atish, Nikita and Vida. House and Deep House. Preview the line-up and save it on soundcheck.
+A rooftop party with Atish & Nikita at the Hotel Via on Sun 18 Oct, San Francisco/Oakland. 3 artists on the bill: Atish, Nikita and Vida. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

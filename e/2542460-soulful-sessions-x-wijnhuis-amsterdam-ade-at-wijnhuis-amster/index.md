@@ -1,6 +1,6 @@
 # Soulful Sessions x Wijnhuis.Amsterdam - ADE at Wijnhuis.Amsterdam
 
-Soulful Sessions x Wijnhuis.Amsterdam - ADE on Sat 24 Oct, Amsterdam. 3 acts on the bill: Funcadafi, Geheimzinnig Soundsystem and Larry Masmero. House and Disco. Preview the line-up and save it on soundcheck.
+Soulful Sessions x Wijnhuis.Amsterdam - ADE on Sat 24 Oct, Amsterdam. 3 artists on the bill: Funcadafi, Geheimzinnig Soundsystem and Larry Masmero. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

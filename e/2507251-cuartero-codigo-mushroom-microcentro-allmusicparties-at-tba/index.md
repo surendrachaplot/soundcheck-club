@@ -1,6 +1,6 @@
 # Cuartero - Codigo, Mushroom, Microcentro - ALLMusicParties at TBA - Palacio de la Reconquista, Microcentro
 
-Cuartero - Codigo, Mushroom, Microcentro - ALLMusicParties at TBA - Palacio de la Reconquista, Microcentro on Fri 25 Sept, Buenosaires. 3 acts on the bill: Cuartero, ffina and nachoscoppa. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Cuartero - Codigo, Mushroom, Microcentro - ALLMusicParties at TBA - Palacio de la Reconquista, Microcentro on Fri 25 Sept, Buenos Aires. 3 artists on the bill: Cuartero, ffina and nachoscoppa. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

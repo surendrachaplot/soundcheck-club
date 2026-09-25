@@ -1,6 +1,6 @@
 # FIGURE NACHT w/ Len Faki, Arthur Robert live, Decoder, IGLO, and Inox Traxx at RSO.BERLIN
 
-FIGURE NACHT w/ Len Faki, Arthur Robert live, Decoder, IGLO, and Inox Traxx at RSO.BERLIN on Fri 30 Oct, Berlin. 5 acts on the bill: Arthur Robert, Decoder, IGLO and Inox Traxx and 1 more. Techno. Preview the line-up and save it on soundcheck.
+FIGURE NACHT w/ Len Faki, Arthur Robert live, Decoder, IGLO, and Inox Traxx at RSO.BERLIN on Fri 30 Oct, Berlin. 5 artists on the bill: Arthur Robert, Decoder, IGLO and Inox Traxx and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

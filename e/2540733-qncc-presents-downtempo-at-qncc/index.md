@@ -1,6 +1,6 @@
 # QNCC presents: DOWNTEMPO at Qncc
 
-QNCC presents: DOWNTEMPO at Qncc on Fri 2 Oct, Newyorkcity. 1 act on the bill: Pure Immanence. Downtempo. Preview the line-up and save it on soundcheck.
+QNCC presents: DOWNTEMPO at Qncc on Fri 2 Oct, New York City. 1 artist on the bill: Pure Immanence. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

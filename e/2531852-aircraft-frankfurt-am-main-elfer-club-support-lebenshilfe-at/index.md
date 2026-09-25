@@ -1,6 +1,6 @@
 # Aircraft — Frankfurt am Main / Elfer Club, support: LEBENSHILFE at Elfer Club
 
-Aircraft — Frankfurt am Main / Elfer Club, support: LEBENSHILFE on Sat 5 Dec, Frankfurt. 1 act on the bill: Aircraft. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+Aircraft — Frankfurt am Main / Elfer Club, support: LEBENSHILFE on Sat 5 Dec, Frankfurt. 1 artist on the bill: Aircraft. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

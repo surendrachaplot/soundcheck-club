@@ -1,6 +1,6 @@
 # onlybeautiful by Masculina & dj g2g presents: Miss Bashful live at Den Anden Side
 
-onlybeautiful by Masculina & dj g2g presents: Miss Bashful live at Den Anden Side on Fri 23 Oct, Copenhagen. 5 acts on the bill: Dj Algorythm, dj g2g, DJ Nah Care and ELLE FIERCE and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+onlybeautiful by Masculina & dj g2g presents: Miss Bashful live at Den Anden Side on Fri 23 Oct, Copenhagen. 5 artists on the bill: Dj Algorythm, dj g2g, DJ Nah Care and ELLE FIERCE and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nü Androids presents: NOVAH at Culture
 
-Nü Androids presents: NOVAH at Culture on Wed 25 Nov, Washingtondc. 1 act on the bill: NOVAH. Trance and Techno. Preview the line-up and save it on soundcheck.
+Nü Androids presents: NOVAH at Culture on Wed 25 Nov, Washington DC. 1 artist on the bill: NOVAH. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

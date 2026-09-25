@@ -1,6 +1,6 @@
 # Christian Löffler - Until We Meet Again Tour at Teatre Coliseum
 
-Christian Löffler - Until We Meet Again Tour at Teatre Coliseum on Tue 24 Nov, Barcelona. 1 act on the bill: Christian Löffler. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Christian Löffler - Until We Meet Again Tour at Teatre Coliseum on Tue 24 Nov, Barcelona. 1 artist on the bill: Christian Löffler. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

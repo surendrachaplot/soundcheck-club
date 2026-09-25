@@ -2,7 +2,7 @@
 
 DIAEN is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Inklub Madrid, Madrid on Sun, 11 Oct 2026.
 
-DIAEN is a techno artist tracked on soundcheck, with 6 sets logged across Dublin and Madrid. Often billed alongside KRSDJ, Bigot3x (2) and Chamo. Next up: Inklub Madrid, Madrid on Sun 11 Oct.
+DIAEN is a techno artist tracked on soundcheck, with 6 sets logged across Dublin and Madrid. Often billed alongside KRSDJ, Bigot3x and Chamo. Next up: Inklub Madrid, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Mutual Attraction at Crack Bellmer
 
-Mutual Attraction at Crack Bellmer on Sun 11 Oct, Berlin. 3 acts on the bill: E Molina, Madalba and Magic of the Groove. House and Acid. Preview the line-up and save it on soundcheck.
+Mutual Attraction at Crack Bellmer on Sun 11 Oct, Berlin. 3 artists on the bill: E Molina, Madalba and Magic of the Groove. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

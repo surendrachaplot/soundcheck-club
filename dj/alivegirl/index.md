@@ -2,7 +2,7 @@
 
 Alive Girl is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mood Ring, New York City on Thu, 24 Sept 2026.
 
-Alive Girl is an electro and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Chicago and Newyorkcity. Often billed alongside DJ Brandy Melville, Lana Vese and Ali RQ. Next up: Mood Ring, Newyorkcity on Thu 24 Sept.
+Alive Girl is an electro and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Chicago and New York City. Often billed alongside DJ Brandy Melville, Lana Vese and Ali RQ. Next up: Mood Ring, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

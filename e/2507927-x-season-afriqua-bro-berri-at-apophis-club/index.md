@@ -1,6 +1,6 @@
 # X Season: Afriqua + Bro Berri at Apophis Club
 
-X Season: Afriqua + Bro Berri at Apophis Club on Fri 2 Oct, Milan. 1 act on the bill: Afriqua. House and Electronica. Preview the line-up and save it on soundcheck.
+X Season: Afriqua + Bro Berri at Apophis Club on Fri 2 Oct, Milan. 1 artist on the bill: Afriqua. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Remix at Sigurd CPH
 
-The Remix at Sigurd CPH on Sat 26 Sept, Copenhagen. 1 act on the bill: Ave Maria. Hip-Hop and Garage. Preview the line-up and save it on soundcheck.
+The Remix at Sigurd CPH on Sat 26 Sept, Copenhagen. 1 artist on the bill: Ave Maria. Hip-Hop and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

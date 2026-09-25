@@ -1,6 +1,6 @@
 # ★ S.A.S.H in the Street x Slapfunk 15th Anniversary After Party ★ Oct Long Weekend ★ at Home The Venue
 
-★ S.A.S.H in the Street x Slapfunk 15th Anniversary After Party ★ Oct Long Weekend ★ at Home The Venue on Sun 4 Oct, Sydney. 4 acts on the bill: Dungeon Meat, Georgia Girl, Reflex Blue and Ron Obvious. House and Tech House. Preview the line-up and save it on soundcheck.
+★ S.A.S.H in the Street x Slapfunk 15th Anniversary After Party ★ Oct Long Weekend ★ at Home The Venue on Sun 4 Oct, Sydney. 4 artists on the bill: Dungeon Meat, Georgia Girl, Reflex Blue and Ron Obvious. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

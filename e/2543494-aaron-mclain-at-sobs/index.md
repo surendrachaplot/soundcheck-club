@@ -1,6 +1,6 @@
 # Aaron Mclain at SOBs
 
-Aaron Mclain at SOBs on Sat 14 Nov, Newyorkcity. Pop. Preview the line-up and save it on soundcheck.
+Aaron Mclain at SOBs on Sat 14 Nov, New York City. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

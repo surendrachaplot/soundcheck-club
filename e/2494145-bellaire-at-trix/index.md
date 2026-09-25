@@ -1,6 +1,6 @@
 # Bellaire at Trix
 
-Bellaire at Trix on Fri 16 Oct, Antwerp. 1 act on the bill: Bellaire. Preview the line-up and save it on soundcheck.
+Bellaire at Trix on Fri 16 Oct, Antwerp. 1 artist on the bill: Bellaire. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

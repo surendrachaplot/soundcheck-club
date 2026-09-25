@@ -1,6 +1,6 @@
 # Forest Drive West, André Cascais, Amulador at Gare Porto
 
-Forest Drive West, André Cascais, Amulador at Gare Porto on Sat 26 Sept, Porto. 2 acts on the bill: Amulador and Forest Drive West. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Forest Drive West, André Cascais, Amulador at Gare Porto on Sat 26 Sept, Porto. 2 artists on the bill: Amulador and Forest Drive West. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

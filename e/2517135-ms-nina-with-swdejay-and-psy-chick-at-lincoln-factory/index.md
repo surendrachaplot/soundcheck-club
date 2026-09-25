@@ -1,6 +1,6 @@
 # Ms. Nina with SWDEJAY and Psy-Chick at Lincoln Factory
 
-Ms. Nina with SWDEJAY and Psy-Chick at Lincoln Factory on Fri 25 Sept, Detroit. 3 acts on the bill: Ms Nina (ES), Psy-Chick and SWDEJAY. Preview the line-up and save it on soundcheck.
+Ms. Nina with SWDEJAY and Psy-Chick at Lincoln Factory on Fri 25 Sept, Detroit. 3 artists on the bill: Ms Nina (ES), Psy-Chick and SWDEJAY. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FREE PARTY ON THE BEACH - BRIDGE_48 - THE LAST SUMMER SESSION at Sunseabar Beach Club
 
-FREE PARTY ON THE BEACH - BRIDGE_48 - THE LAST SUMMER SESSION at Sunseabar Beach Club on Fri 25 Sept, Barcelona. 4 acts on the bill: Gersound, Lancaster, Richi Lopez and WINTER (3). House. Preview the line-up and save it on soundcheck.
+FREE PARTY ON THE BEACH - BRIDGE_48 - THE LAST SUMMER SESSION at Sunseabar Beach Club on Fri 25 Sept, Barcelona. 4 artists on the bill: Gersound, Lancaster, Richi Lopez and WINTER. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

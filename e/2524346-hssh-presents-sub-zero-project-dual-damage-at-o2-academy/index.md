@@ -1,6 +1,6 @@
 # HSSH presents Sub Zero Project & Dual Damage at O2 Academy
 
-HSSH presents Sub Zero Project & Dual Damage at O2 Academy on Sat 14 Nov, Glasgow. 1 act on the bill: Dual Damage. Techno. Preview the line-up and save it on soundcheck.
+HSSH presents Sub Zero Project & Dual Damage at O2 Academy on Sat 14 Nov, Glasgow. 1 artist on the bill: Dual Damage. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

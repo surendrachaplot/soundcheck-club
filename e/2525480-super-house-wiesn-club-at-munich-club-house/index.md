@@ -1,6 +1,6 @@
 # Super House Wiesn Club at Munich Club House
 
-Super House Wiesn Club at Munich Club House on Sat 3 Oct, Munich. 2 acts on the bill: CHOOSE WHITE and Felipe de M.. House and Pop. Preview the line-up and save it on soundcheck.
+Super House Wiesn Club at Munich Club House on Sat 3 Oct, Munich. 2 artists on the bill: CHOOSE WHITE and Felipe de M.. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

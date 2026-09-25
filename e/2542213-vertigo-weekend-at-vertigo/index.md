@@ -1,6 +1,6 @@
 # Vertigo Weekend at Vertigo
 
-Vertigo Weekend on Fri 25 Sept, Toronto. 1 act on the bill: Jonathan Rosa. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Vertigo Weekend on Fri 25 Sept, Toronto. 1 artist on the bill: Jonathan Rosa. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

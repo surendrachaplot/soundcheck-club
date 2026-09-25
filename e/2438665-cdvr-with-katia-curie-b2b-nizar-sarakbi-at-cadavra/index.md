@@ -1,6 +1,6 @@
 # CDVR with Katia Curie b2b NIZAR SARAKBI at Cadavra
 
-CDVR with Katia Curie b2b NIZAR SARAKBI at Cadavra on Sat 26 Sept, Madrid. 5 acts on the bill: frankydrama, Katia Curie, Luska and Margott (ES) and 1 more. Electronica. Preview the line-up and save it on soundcheck.
+CDVR with Katia Curie b2b NIZAR SARAKBI at Cadavra on Sat 26 Sept, Madrid. 5 artists on the bill: frankydrama, Katia Curie, Luska and Margott (ES) and 1 more. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

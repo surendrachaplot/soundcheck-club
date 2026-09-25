@@ -1,6 +1,6 @@
 # EMILIJA & Two Dots at KALT
 
-EMILIJA & Two Dots at KALT on Sat 14 Nov, Strasbourg. 2 acts on the bill: EMILIJA and Two Dots (FR). Preview the line-up and save it on soundcheck.
+EMILIJA & Two Dots at KALT on Sat 14 Nov, Strasbourg. 2 artists on the bill: EMILIJA and Two Dots (FR). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

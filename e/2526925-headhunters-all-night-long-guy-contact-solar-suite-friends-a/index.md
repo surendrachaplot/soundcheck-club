@@ -1,6 +1,6 @@
 # Headhunters - All night long [Guy Contact & Solar Suite] + friends at Angel Music Bar
 
-Headhunters - All night long [Guy Contact & Solar Suite] + friends at Angel Music Bar on Fri 25 Sept, Melbourne. 1 act on the bill: Headhunters. Preview the line-up and save it on soundcheck.
+Headhunters - All night long [Guy Contact & Solar Suite] + friends at Angel Music Bar on Fri 25 Sept, Melbourne. 1 artist on the bill: Headhunters. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

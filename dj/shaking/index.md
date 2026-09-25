@@ -2,7 +2,7 @@
 
 SHAKING is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Elsewhere, New York City on Sat, 3 Oct 2026.
 
-SHAKING is a house and garage artist based in United States of America, tracked on soundcheck, with 19 sets logged across Losangeles, Newyorkcity, Sandiego and Sanfrancisco. Often billed alongside Clearcast, AMZEL and Main Phase. Next up: Elsewhere, Newyorkcity on Sat 3 Oct.
+SHAKING is a house and garage artist based in United States of America, tracked on soundcheck, with 19 sets logged across Los Angeles, New York City, San Diego and San Francisco/Oakland. Often billed alongside Clearcast, AMZEL and Main Phase. Next up: Elsewhere, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 

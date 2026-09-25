@@ -1,6 +1,6 @@
 # Automaticamore at Beate Uwe
 
-Automaticamore at Beate Uwe on Fri 25 Sept, Berlin. 5 acts on the bill: Alexander Arpeggio, Andrea Zucca, Cmd Tulch and Hank Clap and 1 more. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+Automaticamore at Beate Uwe on Fri 25 Sept, Berlin. 5 artists on the bill: Alexander Arpeggio, Andrea Zucca, Cmd Tulch and Hank Clap and 1 more. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

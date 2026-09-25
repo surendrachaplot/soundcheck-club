@@ -1,6 +1,6 @@
 # Airport pres. POLTERGST at Airport Würzburg
 
-Airport pres. POLTERGST at Airport Würzburg on Fri 25 Sept, Nurnberg. 5 acts on the bill: Cassa Cristano, FAROUT, Mario Angelo and Neo.official and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Airport pres. POLTERGST at Airport Würzburg on Fri 25 Sept, Nürnberg. 5 artists on the bill: Cassa Cristano, FAROUT, Mario Angelo and Neo.official and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

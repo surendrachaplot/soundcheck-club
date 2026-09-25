@@ -1,6 +1,6 @@
 # Fatboy Slim, SHEE, Camille Doe [Southern Fried Records] at Mia Mao
 
-Fatboy Slim, SHEE, Camille Doe [Southern Fried Records] at Mia Mao on Thu 22 Oct, Paris. 3 acts on the bill: Camille Doe, Fatboy Slim and SHEE. House. Preview the line-up and save it on soundcheck.
+Fatboy Slim, SHEE, Camille Doe [Southern Fried Records] at Mia Mao on Thu 22 Oct, Paris. 3 artists on the bill: Camille Doe, Fatboy Slim and SHEE. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Andrew Bon Bosher is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Location With Ticket, Denver on Sat, 26 Sept 2026.
 
-Andrew Bon Bosher is a techno and club artist based in United States of America, tracked on soundcheck, with 21 sets logged across Denver, Detroit and Sandiego. Often billed alongside DSQISE, Robonix and 1OO1O. Next up: TBA - Location With Ticket, Denver on Sat 26 Sept.
+Andrew Bon Bosher is a techno and club artist based in United States of America, tracked on soundcheck, with 21 sets logged across Denver, Detroit and San Diego. Often billed alongside DSQISE, Robonix and 1OO1O. Next up: TBA - Location With Ticket, Denver on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 B0YG1RL is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-B0YG1RL is a techno and club artist based in United States of America, tracked on soundcheck, with 14 sets logged across Mexicocity, Miami, Newyorkcity and Toronto. Often billed alongside Lady Narcisse, Racci and Aphex Twink. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+B0YG1RL is a techno and club artist based in United States of America, tracked on soundcheck, with 14 sets logged across Mexico City, Miami, New York City and Toronto. Often billed alongside Lady Narcisse, Racci and Aphex Twink. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 

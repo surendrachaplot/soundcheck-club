@@ -1,6 +1,6 @@
 # OVERTIME - Airwolf Paradise & Ferreck Dawn (NL) at Brown Alley
 
-OVERTIME - Airwolf Paradise & Ferreck Dawn (NL) at Brown Alley on Thu 24 Sept, Melbourne. 2 acts on the bill: Airwolf Paradise and Ferreck Dawn. House and Tech House. Preview the line-up and save it on soundcheck.
+OVERTIME - Airwolf Paradise & Ferreck Dawn (NL) at Brown Alley on Thu 24 Sept, Melbourne. 2 artists on the bill: Airwolf Paradise and Ferreck Dawn. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

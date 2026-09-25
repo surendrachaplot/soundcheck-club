@@ -2,7 +2,7 @@
 
 Craig Gonzalez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
 
-Craig Gonzalez is a techno and house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Berlin, Chicago, Detroit and Newyorkcity and 2 more. Often billed alongside Erika, DJ SPHiNX and Patrick Russell. Next up: Tangent Gallery, Detroit on Sat 3 Oct.
+Craig Gonzalez is a techno and house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Berlin, Chicago, Detroit and New York City and 2 more. Often billed alongside Erika, DJ SPHiNX and Patrick Russell. Next up: Tangent Gallery, Detroit on Sat 3 Oct.
 
 ## Upcoming shows
 

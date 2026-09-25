@@ -1,6 +1,6 @@
 # origin.tek ANNOUNCES: FETISH FREQUENCY - HARDGROOVE & BOUNCE NIGHT at The Bakery
 
-origin.tek ANNOUNCES: FETISH FREQUENCY - HARDGROOVE & BOUNCE NIGHT at The Bakery on Fri 13 Nov, Liverpool. 2 acts on the bill: CHVZ and G I N A. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+origin.tek ANNOUNCES: FETISH FREQUENCY - HARDGROOVE & BOUNCE NIGHT at The Bakery on Fri 13 Nov, Liverpool. 2 artists on the bill: CHVZ and G I N A. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

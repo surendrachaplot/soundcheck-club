@@ -1,6 +1,6 @@
 # Night Tales: JACK MARLOW, SHUFFA & Sophia Violet at Night Tales
 
-Night Tales: JACK MARLOW, SHUFFA & Sophia Violet on Fri 2 Oct, London. 4 acts on the bill: JACK MARLOW, SHUFFA, Sophia Violet and whoswill. House and Garage. Preview the line-up and save it on soundcheck.
+Night Tales: JACK MARLOW, SHUFFA & Sophia Violet on Fri 2 Oct, London. 4 artists on the bill: JACK MARLOW, SHUFFA, Sophia Violet and whoswill. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

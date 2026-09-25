@@ -1,6 +1,6 @@
 # J1 - FJAAK at Jasna 1
 
-J1 - FJAAK at Jasna 1 on Sat 7 Nov, Warsaw. 1 act on the bill: FJAAK. Preview the line-up and save it on soundcheck.
+J1 - FJAAK at Jasna 1 on Sat 7 Nov, Warsaw. 1 artist on the bill: FJAAK. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

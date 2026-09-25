@@ -1,6 +1,6 @@
 # Stacked pres. camoufly at Village Studios
 
-Stacked pres. camoufly at Village Studios on Sat 3 Oct, Vancouver. 1 act on the bill: camoufly. House. Preview the line-up and save it on soundcheck.
+Stacked pres. camoufly at Village Studios on Sat 3 Oct, Vancouver. 1 artist on the bill: camoufly. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

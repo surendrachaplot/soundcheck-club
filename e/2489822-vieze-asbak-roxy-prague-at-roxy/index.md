@@ -1,6 +1,6 @@
 # Vieze Asbak ∞ ROXY Prague at Roxy
 
-Vieze Asbak ∞ ROXY Prague at Roxy on Mon 16 Nov, Prague. 1 act on the bill: Vieze Asbak. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Vieze Asbak ∞ ROXY Prague at Roxy on Mon 16 Nov, Prague. 1 artist on the bill: Vieze Asbak. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

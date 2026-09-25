@@ -1,6 +1,6 @@
 # If You Know You Know at TBA - IYKYK 
 
-If You Know You Know at TBA - IYKYK  on Fri 27 Nov, Losangeles. Trance and Techno. Preview the line-up and save it on soundcheck.
+If You Know You Know at TBA - IYKYK  on Fri 27 Nov, Los Angeles. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

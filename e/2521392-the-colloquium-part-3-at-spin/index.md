@@ -1,6 +1,6 @@
 # The Colloquium: Part 3 at Spin
 
-The Colloquium: Part 3 at Spin on Sat 3 Oct, Sandiego. Techno and House. Preview the line-up and save it on soundcheck.
+The Colloquium: Part 3 at Spin on Sat 3 Oct, San Diego. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

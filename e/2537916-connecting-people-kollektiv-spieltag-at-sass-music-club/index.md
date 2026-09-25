@@ -1,6 +1,6 @@
 # Connecting People & kollektiv spieltag at SASS Music Club
 
-Connecting People & kollektiv spieltag at SASS Music Club on Fri 25 Sept, Vienna. 4 acts on the bill: dj.eesy, higgy (de), Maximilian Foit and Toast Hawaii. House. Preview the line-up and save it on soundcheck.
+Connecting People & kollektiv spieltag at SASS Music Club on Fri 25 Sept, Vienna. 4 artists on the bill: dj.eesy, higgy (de), Maximilian Foit and Toast Hawaii. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

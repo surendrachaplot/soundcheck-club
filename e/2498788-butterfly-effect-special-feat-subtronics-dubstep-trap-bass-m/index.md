@@ -1,6 +1,6 @@
 # Butterfly Effect Special feat.Subtronics - DUBSTEP / TRAP / BASS MUSIC - at ZEROTOKYO
 
-Butterfly Effect Special feat.Subtronics - DUBSTEP / TRAP / BASS MUSIC - at ZEROTOKYO on Fri 2 Oct, Tokyo. 10 acts on the bill: Altemica, AVAYA, CASset and CRAZYHYUGA and 6 more. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Butterfly Effect Special feat.Subtronics - DUBSTEP / TRAP / BASS MUSIC - at ZEROTOKYO on Fri 2 Oct, Tokyo. 10 artists on the bill: Altemica, AVAYA, CASset and CRAZYHYUGA and 6 more. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

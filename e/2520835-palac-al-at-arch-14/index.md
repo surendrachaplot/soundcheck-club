@@ -1,6 +1,6 @@
 # Palacïal at Arch 14
 
-Palacïal at Arch 14 on Fri 25 Sept, London. 5 acts on the bill: Dyl Payne, Fikayo, Henry Dummett and Karellos and 1 more. Techno and Afro House. Preview the line-up and save it on soundcheck.
+Palacïal at Arch 14 on Fri 25 Sept, London. 5 artists on the bill: Dyl Payne, Fikayo, Henry Dummett and Karellos and 1 more. Techno and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

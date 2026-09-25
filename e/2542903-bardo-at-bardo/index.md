@@ -1,6 +1,6 @@
 # BARDO at BARDO
 
-BARDO on Sun 27 Sept, Milan. 1 act on the bill: Enrica Falqui. Techno and Electronica. Preview the line-up and save it on soundcheck.
+BARDO on Sun 27 Sept, Milan. 1 artist on the bill: Enrica Falqui. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Zukunft X Optimo at Golden Lion Todmorden at The Golden Lion
 
-Zukunft X Optimo at Golden Lion Todmorden at The Golden Lion on Fri 13 Nov, Manchester. 5 acts on the bill: Alex Dallas, Cio (Spezialmaterial), Kalabrese and Leo Gretener and 1 more. Electro and Disco. Preview the line-up and save it on soundcheck.
+Zukunft X Optimo at Golden Lion Todmorden at The Golden Lion on Fri 13 Nov, Manchester. 5 artists on the bill: Alex Dallas, Cio (Spezialmaterial), Kalabrese and Leo Gretener and 1 more. Electro and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

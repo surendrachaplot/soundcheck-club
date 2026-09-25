@@ -1,6 +1,6 @@
 # Archie Holmes x Arts of the Unknown - Vol.02 at Last Arch
 
-Archie Holmes x Arts of the Unknown - Vol.02 at Last Arch on Sat 24 Oct, London. 2 acts on the bill: Archie Holmes and Arts of the Unknown. House and Garage. Preview the line-up and save it on soundcheck.
+Archie Holmes x Arts of the Unknown - Vol.02 at Last Arch on Sat 24 Oct, London. 2 artists on the bill: Archie Holmes and Arts of the Unknown. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

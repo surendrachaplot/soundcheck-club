@@ -1,6 +1,6 @@
 # Amtrac (Live) at Fortune Sound Club
 
-Amtrac (Live) at Fortune Sound Club on Sat 21 Nov, Vancouver. 1 act on the bill: Amtrac. House and IDM. Preview the line-up and save it on soundcheck.
+Amtrac (Live) at Fortune Sound Club on Sat 21 Nov, Vancouver. 1 artist on the bill: Amtrac. House and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

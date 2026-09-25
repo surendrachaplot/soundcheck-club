@@ -1,6 +1,6 @@
 # 90's House Music Tribute Party with Dino & Terry, Jason Palma & DJ Yogi at Sound Machine
 
-90's House Music Tribute Party with Dino & Terry, Jason Palma & DJ Yogi at Sound Machine on Sat 3 Oct, Toronto. 3 acts on the bill: Dino and Terry, Jason Palma and Yogi. Deep House and Club. Preview the line-up and save it on soundcheck.
+90's House Music Tribute Party with Dino & Terry, Jason Palma & DJ Yogi at Sound Machine on Sat 3 Oct, Toronto. 3 artists on the bill: Dino and Terry, Jason Palma and Yogi. Deep House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

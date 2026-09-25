@@ -1,6 +1,6 @@
 # Disco Down with Michael Gray at Pilgrim
 
-Disco Down with Michael Gray at Pilgrim on Sat 24 Oct, Newcastle. 2 acts on the bill: Michael Gray and Peverell. House and Disco. Preview the line-up and save it on soundcheck.
+Disco Down with Michael Gray at Pilgrim on Sat 24 Oct, Newcastle. 2 artists on the bill: Michael Gray and Peverell. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

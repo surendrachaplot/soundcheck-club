@@ -1,14 +1,14 @@
 # Zemög
 
-Zemög is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at El Rio Hostel, All on Wed, 3 Mar 2027.
+Zemög is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
-Zemög is a techno and dub techno artist based in Colombia, tracked on soundcheck, with 15 sets logged across All, Amsterdam, Berlin and Buenosaires and 8 more. Often billed alongside Inger, SUZAN (2) and AllA. Next up: El Rio Hostel, All on Wed 3 Mar.
+Zemög is a techno and dub techno artist based in Colombia, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Buenos Aires and Colombia and 8 more. Often billed alongside Inger, SUZAN and AllA. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 3 Mar 2027 | El Rio Hostel | All |
+| Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
 

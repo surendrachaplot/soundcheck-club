@@ -1,6 +1,6 @@
 # Studio 508 x Sound Metaphors & Friends | 2026 CALL at Studio 508
 
-Studio 508 x Sound Metaphors & Friends | 2026 CALL on Sat 24 Oct, Amsterdam. 5 acts on the bill: Adrien (2), Jonny Rock, Optimo (Espacio) and Richelle Soigni and 1 more. Preview the line-up and save it on soundcheck.
+Studio 508 x Sound Metaphors & Friends | 2026 CALL on Sat 24 Oct, Amsterdam. 5 artists on the bill: Adrien, Jonny Rock, Optimo (Espacio) and Richelle Soigni and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

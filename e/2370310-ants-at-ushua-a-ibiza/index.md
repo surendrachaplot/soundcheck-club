@@ -1,6 +1,6 @@
 # ANTS at Ushuaïa Ibiza
 
-ANTS at Ushuaïa Ibiza on Sat 26 Sept, Ibiza. 5 acts on the bill: Antares, M-High, Maceo Plex and Nic Fanciulli and 1 more. Tech House. Preview the line-up and save it on soundcheck.
+ANTS at Ushuaïa Ibiza on Sat 26 Sept, Ibiza. 5 artists on the bill: Antares, M-High, Maceo Plex and Nic Fanciulli and 1 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Stimulus is a Hip-Hop and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lieberscholli, Munich on Fri, 9 Oct 2026.
 
-Stimulus is a hip-hop and baile funk artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Lisbon, Munich and Newyorkcity. Often billed alongside Helina, ALBA (3) and Adonis Wolf. Next up: Lieberscholli, Munich on Fri 9 Oct.
+Stimulus is a hip-hop and baile funk artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Lisbon, Munich and New York City. Often billed alongside Helina, ALBA and Adonis Wolf. Next up: Lieberscholli, Munich on Fri 9 Oct.
 
 ## Upcoming shows
 

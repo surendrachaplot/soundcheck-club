@@ -1,6 +1,6 @@
 # Granville Collective - Pop-up + Afterparty at Next Door Records Two
 
-Granville Collective - Pop-up + Afterparty at Next Door Records Two on Fri 16 Oct, Newcastle. 3 acts on the bill: JYE., LEN. and Tempz. Electro and Downtempo. Preview the line-up and save it on soundcheck.
+Granville Collective - Pop-up + Afterparty at Next Door Records Two on Fri 16 Oct, Newcastle. 3 artists on the bill: JYE., LEN. and Tempz. Electro and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

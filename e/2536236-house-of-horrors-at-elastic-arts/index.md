@@ -1,6 +1,6 @@
 # HOUSE OF HORRORS at Elastic Arts
 
-HOUSE OF HORRORS at Elastic Arts on Sat 31 Oct, Chicago. 3 acts on the bill: Diz (1), DJ Lady D and Tyrel Williams. House and Acid. Preview the line-up and save it on soundcheck.
+HOUSE OF HORRORS at Elastic Arts on Sat 31 Oct, Chicago. 3 artists on the bill: Diz, DJ Lady D and Tyrel Williams. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

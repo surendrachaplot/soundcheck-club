@@ -1,6 +1,6 @@
 # Lawrence English + Margaret Hermant at Botanique
 
-Lawrence English + Margaret Hermant at Botanique on Wed 30 Sept, Brussels. 1 act on the bill: Lawrence English. Electro and Classical. Preview the line-up and save it on soundcheck.
+Lawrence English + Margaret Hermant at Botanique on Wed 30 Sept, Brussels. 1 artist on the bill: Lawrence English. Electro and Classical. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

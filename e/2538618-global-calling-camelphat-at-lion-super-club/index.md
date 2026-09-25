@@ -1,6 +1,6 @@
 # GLOBAL CALLING: CamelPhat at Lion Super Club
 
-GLOBAL CALLING: CamelPhat at Lion Super Club on Thu 12 Nov, Seoul. 1 act on the bill: CamelPhat. Preview the line-up and save it on soundcheck.
+GLOBAL CALLING: CamelPhat at Lion Super Club on Thu 12 Nov, Seoul. 1 artist on the bill: CamelPhat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

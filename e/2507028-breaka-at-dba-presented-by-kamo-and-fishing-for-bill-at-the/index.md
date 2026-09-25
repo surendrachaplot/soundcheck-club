@@ -1,6 +1,6 @@
 # Breaka at DBA presented by Kamo and Fishing for Bill at The DBA
 
-Breaka at DBA presented by Kamo and Fishing for Bill at The DBA on Fri 16 Oct, Manchester. 4 acts on the bill: b.lo, Breaka, Emile and FITS ME FUNNY. Techno and Electro. Preview the line-up and save it on soundcheck.
+Breaka at DBA presented by Kamo and Fishing for Bill at The DBA on Fri 16 Oct, Manchester. 4 artists on the bill: b.lo, Breaka, Emile and FITS ME FUNNY. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

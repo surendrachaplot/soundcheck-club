@@ -1,6 +1,6 @@
 # The Night Is Calling at Duo Clapham
 
-The Night Is Calling at Duo Clapham on Sat 26 Sept, London. 2 acts on the bill: Malarkey and Tough Love. House and Tech House. Preview the line-up and save it on soundcheck.
+The Night Is Calling at Duo Clapham on Sat 26 Sept, London. 2 artists on the bill: Malarkey and Tough Love. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # La Troya: Groove Armada, Oscar Colorado, RAMPINI, Felix Da Funk at Chinois Ibiza
 
-La Troya: Groove Armada, Oscar Colorado, RAMPINI, Felix Da Funk at Chinois Ibiza on Mon 5 Oct, Ibiza. 3 acts on the bill: Felix Da Funk, Groove Armada and Oscar Colorado. House and Deep House. Preview the line-up and save it on soundcheck.
+La Troya: Groove Armada, Oscar Colorado, RAMPINI, Felix Da Funk at Chinois Ibiza on Mon 5 Oct, Ibiza. 3 artists on the bill: Felix Da Funk, Groove Armada and Oscar Colorado. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

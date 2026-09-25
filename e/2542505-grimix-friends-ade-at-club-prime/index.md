@@ -1,6 +1,6 @@
 # Grimix & Friends - ADE at Club Prime
 
-Grimix & Friends - ADE at Club Prime on Sat 24 Oct, Amsterdam. 1 act on the bill: CHANCEKNOT. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Grimix & Friends - ADE at Club Prime on Sat 24 Oct, Amsterdam. 1 artist on the bill: CHANCEKNOT. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

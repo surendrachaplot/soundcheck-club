@@ -1,6 +1,6 @@
 # SLPFNK X THE OTHERSIDE at THE OTHER SIDE
 
-SLPFNK X THE OTHERSIDE at THE OTHER SIDE on Thu 22 Oct, Amsterdam. 9 acts on the bill: Beste Hira, DJ Spence, Idilay and Kyra Khaldi and 5 more. Preview the line-up and save it on soundcheck.
+SLPFNK X THE OTHERSIDE at THE OTHER SIDE on Thu 22 Oct, Amsterdam. 9 artists on the bill: Beste Hira, DJ Spence, Idilay and Kyra Khaldi and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

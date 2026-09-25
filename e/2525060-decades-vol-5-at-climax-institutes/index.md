@@ -1,6 +1,6 @@
 # DECADES Vol. 5 at Climax-Institutes
 
-DECADES Vol. 5 at Climax-Institutes on Fri 9 Oct, Stuttgart. 2 acts on the bill: TRNKA and Vamos Art. Techno and Electronica. Preview the line-up and save it on soundcheck.
+DECADES Vol. 5 at Climax-Institutes on Fri 9 Oct, Stuttgart. 2 artists on the bill: TRNKA and Vamos Art. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

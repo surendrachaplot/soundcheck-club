@@ -2,7 +2,7 @@
 
 Talk Shivi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Culture Lab LIC, New York City on Sat, 26 Sept 2026.
 
-Talk Shivi is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside I's (US), King Tutt and M33CH. Next up: Culture Lab LIC, Newyorkcity on Sat 26 Sept.
+Talk Shivi is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across New York City. Often billed alongside I's (US), King Tutt and M33CH. Next up: Culture Lab LIC, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

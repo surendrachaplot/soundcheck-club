@@ -1,6 +1,6 @@
 # Satellite: Marsolo & Silvie Loto at Floyd
 
-Satellite: Marsolo & Silvie Loto at Floyd on Sat 17 Oct, Miami. 3 acts on the bill: Marsolo, Mick Jerome and Silvie Loto. House and Tech House. Preview the line-up and save it on soundcheck.
+Satellite: Marsolo & Silvie Loto at Floyd on Sat 17 Oct, Miami. 3 artists on the bill: Marsolo, Mick Jerome and Silvie Loto. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

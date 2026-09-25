@@ -1,6 +1,6 @@
 # Unsound London: Space Afrika + Nardus Williams, Księżyc at EartH
 
-Unsound London: Space Afrika + Nardus Williams, Księżyc at EartH on Sat 28 Nov, London. 1 act on the bill: Space Afrika. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Unsound London: Space Afrika + Nardus Williams, Księżyc at EartH on Sat 28 Nov, London. 1 artist on the bill: Space Afrika. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

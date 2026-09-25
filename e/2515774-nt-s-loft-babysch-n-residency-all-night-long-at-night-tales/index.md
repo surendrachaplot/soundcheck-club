@@ -1,6 +1,6 @@
 # NT's Loft: babyschön Residency [All Night Long] at Night Tales Loft
 
-NT's Loft: babyschön Residency [All Night Long] at Night Tales Loft on Sat 28 Nov, London. 1 act on the bill: babyschön. Preview the line-up and save it on soundcheck.
+NT's Loft: babyschön Residency [All Night Long] at Night Tales Loft on Sat 28 Nov, London. 1 artist on the bill: babyschön. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

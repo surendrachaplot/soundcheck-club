@@ -1,6 +1,6 @@
 # INTERFERENCIA.REM at TBA
 
-INTERFERENCIA.REM at TBA on Fri 25 Sept, Mexicocity. 3 acts on the bill: Alatriste, H3kkta and Phanta. Industrial and Electronica. Preview the line-up and save it on soundcheck.
+INTERFERENCIA.REM at TBA on Fri 25 Sept, Mexico City. 3 artists on the bill: Alatriste, H3kkta and Phanta. Industrial and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

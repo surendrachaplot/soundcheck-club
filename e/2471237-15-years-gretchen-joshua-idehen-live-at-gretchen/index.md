@@ -1,6 +1,6 @@
 # 15 Years Gretchen: JOSHUA IDEHEN *live at Gretchen
 
-15 Years Gretchen: JOSHUA IDEHEN *live on Sat 10 Oct, Berlin. 1 act on the bill: Femdelic. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+15 Years Gretchen: JOSHUA IDEHEN *live on Sat 10 Oct, Berlin. 1 artist on the bill: Femdelic. Jazz and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Iptamenos Disco at Sameheads
 
-Iptamenos Disco at Sameheads on Thu 8 Oct, Berlin. 2 acts on the bill: Local Suicide and Mike Sacchetti. Preview the line-up and save it on soundcheck.
+Iptamenos Disco at Sameheads on Thu 8 Oct, Berlin. 2 artists on the bill: Local Suicide and Mike Sacchetti. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Valentin Huedo at Do Not Sit On The Furniture
 
-Valentin Huedo at Do Not Sit On The Furniture on Sat 7 Nov, Miami. 1 act on the bill: Valentin Huedo. House and Deep House. Preview the line-up and save it on soundcheck.
+Valentin Huedo at Do Not Sit On The Furniture on Sat 7 Nov, Miami. 1 artist on the bill: Valentin Huedo. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # We Belong Here: Central Park at Wollman Rink
 
-We Belong Here: Central Park at Wollman Rink on Fri 2 Oct, Newyorkcity. 16 acts on the bill: Amanda Simpson, Anthony Romano, Ashibah and ASMOT and 12 more. House. Preview the line-up and save it on soundcheck.
+We Belong Here: Central Park at Wollman Rink on Fri 2 Oct, New York City. 16 artists on the bill: Amanda Simpson, Anthony Romano, Ashibah and ASMOT and 12 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ENRG 10th Birthday - IPC, MALUGI, Notion, Girls Don't Sync + more at Blackstone Street Warehouse
 
-ENRG 10th Birthday - IPC, MALUGI, Notion, Girls Don't Sync + more at Blackstone Street Warehouse on Sat 24 Oct, Liverpool. 6 acts on the bill: DAISY, ESC (5), Girls Don't Sync and Interplanetary Criminal and 2 more. Bass and Garage. Preview the line-up and save it on soundcheck.
+ENRG 10th Birthday - IPC, MALUGI, Notion, Girls Don't Sync + more at Blackstone Street Warehouse on Sat 24 Oct, Liverpool. 6 artists on the bill: DAISY, ESC, Girls Don't Sync and Interplanetary Criminal and 2 more. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

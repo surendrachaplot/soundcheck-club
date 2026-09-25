@@ -1,6 +1,6 @@
 # DAX J + VIL + invitados & Special-k: 11° aniversario with Tama Sumo + Silverlining  invitados at Spook Club
 
-DAX J + VIL + invitados & Special-k: 11° aniversario with Tama Sumo + Silverlining  invitados at Spook Club on Sat 26 Sept, Valencia. 11 acts on the bill: DAX J, Finalversion3, Fran.cis and Ines Cartas and 7 more. Techno and Minimal. Preview the line-up and save it on soundcheck.
+DAX J + VIL + invitados & Special-k: 11° aniversario with Tama Sumo + Silverlining  invitados at Spook Club on Sat 26 Sept, Valencia. 11 artists on the bill: DAX J, Finalversion3, Fran.cis and Ines Cartas and 7 more. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

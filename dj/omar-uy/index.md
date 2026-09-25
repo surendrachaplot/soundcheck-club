@@ -2,7 +2,7 @@
 
 OMAR (UY) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Armazem Solon, Sao Paulo on Sat, 26 Sept 2026.
 
-OMAR (UY) is a house and techno artist based in Uruguay, tracked on soundcheck, with 107 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 31 more. Often billed alongside Oriana, Binh and Bobby.. Next up: Armazem Solon, Saopaulo on Sat 26 Sept.
+OMAR (UY) is a house and techno artist based in Uruguay, tracked on soundcheck, with 107 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 31 more. Often billed alongside Oriana, Binh and Bobby.. Next up: Armazem Solon, Sao Paulo on Sat 26 Sept.
 
 ## Upcoming shows
 

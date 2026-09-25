@@ -1,6 +1,6 @@
 # Traum Nacht: DTM Funk (All Night Long) at TRAUM
 
-Traum Nacht: DTM Funk (All Night Long) at TRAUM on Fri 13 Nov, Antwerp. 1 act on the bill: DTM Funk. Techno and House. Preview the line-up and save it on soundcheck.
+Traum Nacht: DTM Funk (All Night Long) at TRAUM on Fri 13 Nov, Antwerp. 1 artist on the bill: DTM Funk. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

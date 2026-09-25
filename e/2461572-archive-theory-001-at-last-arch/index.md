@@ -1,6 +1,6 @@
 # Archive Theory 001 at Last Arch
 
-Archive Theory 001 at Last Arch on Sat 21 Nov, London. 3 acts on the bill: DJ Ink, Ryme Tyme and Universal Project. Drum & Bass. Preview the line-up and save it on soundcheck.
+Archive Theory 001 at Last Arch on Sat 21 Nov, London. 3 artists on the bill: DJ Ink, Ryme Tyme and Universal Project. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PIV Leeds at The Warehouse
 
-PIV Leeds at The Warehouse on Sat 21 Nov, Leeds. 3 acts on the bill: Kellie Allen, Ozzie Guven and Prunk. House. Preview the line-up and save it on soundcheck.
+PIV Leeds at The Warehouse on Sat 21 Nov, Leeds. 3 artists on the bill: Kellie Allen, Ozzie Guven and Prunk. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

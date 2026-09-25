@@ -1,6 +1,6 @@
 # TECHNOAMT PRESENT SEMESTER OPENING PARTY at Puma Käfig Berlin
 
-TECHNOAMT PRESENT SEMESTER OPENING PARTY at Puma Käfig Berlin on Fri 2 Oct, Berlin. 36 acts on the bill: Alex Friday, Alviker, Amorelie and Andreas Florin and 32 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+TECHNOAMT PRESENT SEMESTER OPENING PARTY at Puma Käfig Berlin on Fri 2 Oct, Berlin. 36 artists on the bill: Alex Friday, Alviker, Amorelie and Andreas Florin and 32 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

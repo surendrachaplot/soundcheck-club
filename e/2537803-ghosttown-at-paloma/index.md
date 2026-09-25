@@ -1,6 +1,6 @@
 # Ghosttown at Paloma
 
-Ghosttown at Paloma on Sat 24 Oct, Berlin. 3 acts on the bill: 11:68PM, Kelburrt and miszo. House and Dub Techno. Preview the line-up and save it on soundcheck.
+Ghosttown at Paloma on Sat 24 Oct, Berlin. 3 artists on the bill: 11:68PM, Kelburrt and miszo. House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

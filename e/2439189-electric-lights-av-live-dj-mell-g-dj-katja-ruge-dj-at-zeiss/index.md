@@ -1,6 +1,6 @@
 # Electric Lights /AV Live - DJ MELL G (DJ) & Katja Ruge (DJ) at Zeiss Planetarium Bochum
 
-Electric Lights /AV Live - DJ MELL G (DJ) & Katja Ruge (DJ) at Zeiss Planetarium Bochum on Wed 28 Oct, Bochum. 2 acts on the bill: DJ MELL G and Katja Ruge. Electro and Electronica. Preview the line-up and save it on soundcheck.
+Electric Lights /AV Live - DJ MELL G (DJ) & Katja Ruge (DJ) at Zeiss Planetarium Bochum on Wed 28 Oct, Bochum. 2 artists on the bill: DJ MELL G and Katja Ruge. Electro and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # inU with Cristoph & Yotto at Digital
 
-inU with Cristoph & Yotto at Digital on Sat 3 Oct, Newcastle. 4 acts on the bill: Cristoph, Easby, SOBAH and Yotto. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+inU with Cristoph & Yotto at Digital on Sat 3 Oct, Newcastle. 4 artists on the bill: Cristoph, Easby, SOBAH and Yotto. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

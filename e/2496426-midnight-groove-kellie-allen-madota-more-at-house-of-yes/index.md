@@ -1,6 +1,6 @@
 # Midnight Groove: Kellie Allen, Madota & More at House of Yes
 
-Midnight Groove: Kellie Allen, Madota & More at House of Yes on Fri 25 Sept, Newyorkcity. 3 acts on the bill: Kellie Allen, Madota and OBA+FLIP. House and Disco. Preview the line-up and save it on soundcheck.
+Midnight Groove: Kellie Allen, Madota & More at House of Yes on Fri 25 Sept, New York City. 3 artists on the bill: Kellie Allen, Madota and OBA+FLIP. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

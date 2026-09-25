@@ -2,7 +2,7 @@
 
 Martin Parra is a Latin Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Mexico City on Sat, 31 Oct 2026.
 
-Martin Parra is a latin bass and techno artist based in Mexico, tracked on soundcheck, with 16 sets logged across Mexicocity. Often billed alongside Diego Walle, Disco 86 and Ricxrdi. Next up: TBA, Mexicocity on Sat 31 Oct.
+Martin Parra is a latin bass and techno artist based in Mexico, tracked on soundcheck, with 16 sets logged across Mexico City. Often billed alongside Diego Walle, Disco 86 and Ricxrdi. Next up: TBA, Mexico City on Sat 31 Oct.
 
 ## Upcoming shows
 

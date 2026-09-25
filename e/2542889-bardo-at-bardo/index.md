@@ -1,6 +1,6 @@
 # BARDO at BARDO
 
-BARDO on Thu 24 Sept, Milan. 1 act on the bill: Katatonic Silentio. Techno and Electronica. Preview the line-up and save it on soundcheck.
+BARDO on Thu 24 Sept, Milan. 1 artist on the bill: Katatonic Silentio. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

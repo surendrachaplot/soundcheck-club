@@ -1,6 +1,6 @@
 # The Sound Of 宀 with Sunsiaré (宀, Hong Kong) B2B Yadin Moha (Zagareet, Hong Kong) at 宀 Club
 
-The Sound Of 宀 with Sunsiaré (宀, Hong Kong) B2B Yadin Moha (Zagareet, Hong Kong) at 宀 Club on Fri 16 Oct, Hongkong. 2 acts on the bill: Sunsiaré and Yadin Moha. Club. Preview the line-up and save it on soundcheck.
+The Sound Of 宀 with Sunsiaré (宀, Hong Kong) B2B Yadin Moha (Zagareet, Hong Kong) at 宀 Club on Fri 16 Oct, Hong Kong. 2 artists on the bill: Sunsiaré and Yadin Moha. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

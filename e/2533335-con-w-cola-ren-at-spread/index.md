@@ -1,6 +1,6 @@
 # 'éCon' w/COLA REN at Spread
 
-'éCon' w/COLA REN at Spread on Fri 16 Oct, Tokyo. 5 acts on the bill: COLA REN, Kengo Yuasa, MICO and nano odorine and 1 more. IDM and Electronica. Preview the line-up and save it on soundcheck.
+'éCon' w/COLA REN at Spread on Fri 16 Oct, Tokyo. 5 artists on the bill: COLA REN, Kengo Yuasa, MICO and nano odorine and 1 more. IDM and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

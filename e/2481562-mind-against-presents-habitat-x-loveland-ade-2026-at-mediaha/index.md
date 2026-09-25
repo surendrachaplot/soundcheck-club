@@ -1,6 +1,6 @@
 # Mind Against presents HABITAT x Loveland - ADE 2026 at Mediahaven - Minervahaven
 
-Mind Against presents HABITAT x Loveland - ADE 2026 at Mediahaven - Minervahaven on Sat 24 Oct, Amsterdam. 14 acts on the bill: Ahed, Colyn, Dodi and Dyzen and 10 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Mind Against presents HABITAT x Loveland - ADE 2026 at Mediahaven - Minervahaven on Sat 24 Oct, Amsterdam. 14 artists on the bill: Ahed, Colyn, Dodi and Dyzen and 10 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

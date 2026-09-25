@@ -1,6 +1,6 @@
 # The Thugshop Warehouse Party feat. Jody Wisternoff & Oliver Smith at Thugshop Warehouse
 
-The Thugshop Warehouse Party feat. Jody Wisternoff & Oliver Smith on Sat 3 Oct, Singapore. 2 acts on the bill: Jody Wisternoff and Oliver Smith. Techno and House. Preview the line-up and save it on soundcheck.
+The Thugshop Warehouse Party feat. Jody Wisternoff & Oliver Smith on Sat 3 Oct, Singapore. 2 artists on the bill: Jody Wisternoff and Oliver Smith. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # De Binnenstad x Sam Hofman Invites at Ijver
 
-De Binnenstad x Sam Hofman Invites at Ijver on Fri 23 Oct, Amsterdam. 6 acts on the bill: ANNASNEL, Baron Von Trax, Brent Honey and Julian Wijn and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
+De Binnenstad x Sam Hofman Invites at Ijver on Fri 23 Oct, Amsterdam. 6 artists on the bill: ANNASNEL, Baron Von Trax, Brent Honey and Julian Wijn and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

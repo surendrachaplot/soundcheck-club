@@ -1,6 +1,6 @@
 # Hoe__mies: Dolloween at KREUZWERK
 
-Hoe__mies: Dolloween at KREUZWERK on Sat 31 Oct, Berlin. 7 acts on the bill: ARMANA KHAN, Bad Puppy, Meg10 and Saint Nia and 3 more. Club. Preview the line-up and save it on soundcheck.
+Hoe__mies: Dolloween at KREUZWERK on Sat 31 Oct, Berlin. 7 artists on the bill: ARMANA KHAN, Bad Puppy, Meg10 and Saint Nia and 3 more. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

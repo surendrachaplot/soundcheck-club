@@ -1,6 +1,6 @@
 # Tortilla with Mario D'Fer + TWO EX at High Club Room
 
-Tortilla with Mario D'Fer + TWO EX at High Club Room on Sat 3 Oct, Madrid. 2 acts on the bill: Mario D'Fer and TWO EX. House and Electronica. Preview the line-up and save it on soundcheck.
+Tortilla with Mario D'Fer + TWO EX at High Club Room on Sat 3 Oct, Madrid. 2 artists on the bill: Mario D'Fer and TWO EX. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

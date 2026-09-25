@@ -1,6 +1,6 @@
 # Buckley Curates: Carré and Slimy Ape at Stage and Radio
 
-Buckley Curates: Carré and Slimy Ape at Stage and Radio on Sat 24 Oct, Manchester. 3 acts on the bill: Buckley (UK), Carré and Slimy Ape. Preview the line-up and save it on soundcheck.
+Buckley Curates: Carré and Slimy Ape at Stage and Radio on Sat 24 Oct, Manchester. 3 artists on the bill: Buckley (UK), Carré and Slimy Ape. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

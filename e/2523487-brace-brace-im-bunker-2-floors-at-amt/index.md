@@ -1,6 +1,6 @@
 # Brace Brace im Bunker (2 Floors) at AMT
 
-Brace Brace im Bunker (2 Floors) at AMT on Sat 24 Oct, Berlin. 7 acts on the bill: _minted, DJesse, gem.ini and Isoskeles and 3 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Brace Brace im Bunker (2 Floors) at AMT on Sat 24 Oct, Berlin. 7 artists on the bill: _minted, DJesse, gem.ini and Isoskeles and 3 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

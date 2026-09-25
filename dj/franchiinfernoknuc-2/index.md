@@ -2,7 +2,7 @@
 
 FRANCHI INFERNO KNUC (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Dedaena Bar, Tbilisi on Thu, 24 Sept 2026.
 
-FRANCHI INFERNO KNUC (2) is a house and disco artist based in Georgia, tracked on soundcheck, with 6 sets logged across Tbilisi. Often billed alongside Vakomey, André Dancekowski and Gabrielle Rites /. Next up: Dedaena Bar, Tbilisi on Thu 24 Sept.
+FRANCHI INFERNO KNUC is a house and disco artist based in Georgia, tracked on soundcheck, with 6 sets logged across Tbilisi. Often billed alongside Vakomey, André Dancekowski and Gabrielle Rites /. Next up: Dedaena Bar, Tbilisi on Thu 24 Sept.
 
 ## Upcoming shows
 

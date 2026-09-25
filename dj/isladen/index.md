@@ -10,7 +10,7 @@ Isla Den is a pop and club artist based in Canada, tracked on soundcheck, with 3
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Newspeak | Montreal |
 | Sun, 27 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
-| Sat, 3 Oct 2026 | TBA | Mexico City |
+| Sat, 3 Oct 2026 | Foro Niebla | Mexico City |
 | Sat, 31 Oct 2026 | Elsewhere | New York City |
 
 ## Recently played

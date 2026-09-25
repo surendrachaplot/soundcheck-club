@@ -1,6 +1,6 @@
 # collective memory + low harvest at Lark
 
-collective memory + low harvest at Lark on Thu 1 Oct, Berlin. 3 acts on the bill: Chickenmilk dot com, edeF. and Global. Experimental and Club. Preview the line-up and save it on soundcheck.
+collective memory + low harvest at Lark on Thu 1 Oct, Berlin. 3 artists on the bill: Chickenmilk dot com, edeF. and Global. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

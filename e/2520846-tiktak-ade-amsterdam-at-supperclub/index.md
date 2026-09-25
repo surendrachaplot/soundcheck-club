@@ -1,6 +1,6 @@
 # TIKTAK ADE AMSTERDAM at Supperclub
 
-TIKTAK ADE AMSTERDAM at Supperclub on Sat 24 Oct, Amsterdam. 1 act on the bill: Maqossa. House and Afro House. Preview the line-up and save it on soundcheck.
+TIKTAK ADE AMSTERDAM at Supperclub on Sat 24 Oct, Amsterdam. 1 artist on the bill: Maqossa. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

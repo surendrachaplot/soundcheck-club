@@ -1,6 +1,6 @@
 # Marco Carola b2b PAWSA - Pacha Open-Air Season Closing at Pacha New York
 
-Marco Carola b2b PAWSA - Pacha Open-Air Season Closing at Pacha New York on Sun 18 Oct, Newyorkcity. 2 acts on the bill: Marco Carola and PAWSA. Preview the line-up and save it on soundcheck.
+Marco Carola b2b PAWSA - Pacha Open-Air Season Closing at Pacha New York on Sun 18 Oct, New York City. 2 artists on the bill: Marco Carola and PAWSA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

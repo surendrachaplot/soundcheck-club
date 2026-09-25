@@ -1,6 +1,6 @@
 # Subliminal Bleeps at The Mash House
 
-Subliminal Bleeps at The Mash House on Fri 25 Sept, Edinburgh. 1 act on the bill: Lara Sinclair. Experimental and Club. Preview the line-up and save it on soundcheck.
+Subliminal Bleeps at The Mash House on Fri 25 Sept, Edinburgh. 1 artist on the bill: Lara Sinclair. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

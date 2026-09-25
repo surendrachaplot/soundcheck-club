@@ -1,6 +1,6 @@
 # Chevry Showcase: HearThug, Jhobei, KT, Vitess at 93 Feet East
 
-Chevry Showcase: HearThug, Jhobei, KT, Vitess at 93 Feet East on Fri 25 Sept, London. 4 acts on the bill: HearThug, Jhobei, KT and Vitess. House and Electro. Preview the line-up and save it on soundcheck.
+Chevry Showcase: HearThug, Jhobei, KT, Vitess at 93 Feet East on Fri 25 Sept, London. 4 artists on the bill: HearThug, Jhobei, KT and Vitess. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

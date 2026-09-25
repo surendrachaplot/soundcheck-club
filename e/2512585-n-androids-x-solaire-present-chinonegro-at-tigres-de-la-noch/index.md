@@ -1,6 +1,6 @@
 # Nü Androids x Solaire present: Chinonegro at Tigres de la Noche
 
-Nü Androids x Solaire present: Chinonegro at Tigres de la Noche on Sat 26 Sept, Washingtondc. 1 act on the bill: Chinonegro. House and Tech House. Preview the line-up and save it on soundcheck.
+Nü Androids x Solaire present: Chinonegro at Tigres de la Noche on Sat 26 Sept, Washington DC. 1 artist on the bill: Chinonegro. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

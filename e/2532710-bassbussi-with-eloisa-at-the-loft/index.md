@@ -1,6 +1,6 @@
 # BASSBUSSI with ELOISA at The Loft
 
-BASSBUSSI with ELOISA at The Loft on Fri 9 Oct, Vienna. 5 acts on the bill: AVO2X, ELOISA, ENJA and Rosa Rosen and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
+BASSBUSSI with ELOISA at The Loft on Fri 9 Oct, Vienna. 5 artists on the bill: AVO2X, ELOISA, ENJA and Rosa Rosen and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

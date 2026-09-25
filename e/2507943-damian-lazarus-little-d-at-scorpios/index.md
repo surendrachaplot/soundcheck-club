@@ -1,6 +1,6 @@
 # Damian Lazarus, Little D at Scorpios
 
-Damian Lazarus, Little D at Scorpios on Thu 24 Sept, Mykonos. 1 act on the bill: Damian Lazarus. House and Tech House. Preview the line-up and save it on soundcheck.
+Damian Lazarus, Little D at Scorpios on Thu 24 Sept, Mykonos. 1 artist on the bill: Damian Lazarus. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

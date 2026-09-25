@@ -1,6 +1,6 @@
 # TUNNEL THURSDAY at Aoyama Tunnel
 
-TUNNEL THURSDAY at Aoyama Tunnel on Thu 24 Sept, Tokyo. 1 act on the bill: dj yumi-cco. Techno and House. Preview the line-up and save it on soundcheck.
+TUNNEL THURSDAY at Aoyama Tunnel on Thu 24 Sept, Tokyo. 1 artist on the bill: dj yumi-cco. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

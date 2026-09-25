@@ -1,6 +1,6 @@
 # Alan Fitzpatrick — SYDNEY at Oxford Art Factory
 
-Alan Fitzpatrick — SYDNEY at Oxford Art Factory on Fri 9 Oct, Sydney. 1 act on the bill: Alan Fitzpatrick. Techno and House. Preview the line-up and save it on soundcheck.
+Alan Fitzpatrick — SYDNEY at Oxford Art Factory on Fri 9 Oct, Sydney. 1 artist on the bill: Alan Fitzpatrick. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

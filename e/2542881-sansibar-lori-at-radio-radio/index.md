@@ -1,6 +1,6 @@
 # Sansibar • LORI at Radio Radio
 
-Sansibar • LORI at Radio Radio on Sat 10 Oct, Amsterdam. 2 acts on the bill: Lori (1) and Sansibar. House. Preview the line-up and save it on soundcheck.
+Sansibar • LORI at Radio Radio on Sat 10 Oct, Amsterdam. 2 artists on the bill: Lori and Sansibar. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

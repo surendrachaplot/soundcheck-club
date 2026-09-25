@@ -1,6 +1,6 @@
 # Gene On Earth + Dieru + Itza at Fünk
 
-Gene On Earth + Dieru + Itza at Fünk on Sat 26 Sept, Mexicocity. 3 acts on the bill: Dieru, Gene On Earth and Itza Chacón. Progressive House and House. Preview the line-up and save it on soundcheck.
+Gene On Earth + Dieru + Itza at Fünk on Sat 26 Sept, Mexico City. 3 artists on the bill: Dieru, Gene On Earth and Itza Chacón. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

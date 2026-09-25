@@ -1,6 +1,6 @@
 # Modern Funktion x Shelter at Shelter Amsterdam
 
-Modern Funktion x Shelter at Shelter Amsterdam on Wed 21 Oct, Amsterdam. 12 acts on the bill: Benji King, bullet tooth, j:me and Job de Jong and 8 more. House. Preview the line-up and save it on soundcheck.
+Modern Funktion x Shelter at Shelter Amsterdam on Wed 21 Oct, Amsterdam. 12 artists on the bill: Benji King, bullet tooth, j:me and Job de Jong and 8 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

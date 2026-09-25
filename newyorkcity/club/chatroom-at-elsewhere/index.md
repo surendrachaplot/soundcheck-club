@@ -2,7 +2,7 @@
 
 Chatroom at Elsewhere is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Chatroom: DJ Soko + Donwill" on Sat, 26 Sept 2026.
 
-Chatroom at Elsewhere is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including Donwill. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237, USA, Brooklyn, USA.
+Chatroom at Elsewhere is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Donwill. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237, USA, Brooklyn, USA.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # El Búho at The Jazz Cafe
 
-El Búho at The Jazz Cafe on Fri 27 Nov, London. 1 act on the bill: El Buho. Preview the line-up and save it on soundcheck.
+El Búho at The Jazz Cafe on Fri 27 Nov, London. 1 artist on the bill: El Buho. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

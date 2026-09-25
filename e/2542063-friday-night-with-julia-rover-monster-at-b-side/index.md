@@ -1,6 +1,6 @@
 # Friday night with Julia Rover & Monster at B-SIDE
 
-Friday night with Julia Rover & Monster at B-SIDE on Fri 25 Sept, Warsaw. 1 act on the bill: Monster. House. Preview the line-up and save it on soundcheck.
+Friday night with Julia Rover & Monster at B-SIDE on Fri 25 Sept, Warsaw. 1 artist on the bill: Monster. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

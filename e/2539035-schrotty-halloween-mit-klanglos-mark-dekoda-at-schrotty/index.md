@@ -1,6 +1,6 @@
 # Schrotty Halloween mit Klanglos & Mark Dekoda at Schrotty
 
-Schrotty Halloween mit Klanglos & Mark Dekoda on Sat 31 Oct, Cologne. 2 acts on the bill: Klanglos and Mark Dekoda. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Schrotty Halloween mit Klanglos & Mark Dekoda on Sat 31 Oct, Cologne. 2 artists on the bill: Klanglos and Mark Dekoda. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

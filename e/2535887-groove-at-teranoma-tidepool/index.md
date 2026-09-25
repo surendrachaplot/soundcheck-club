@@ -1,6 +1,6 @@
 # ギャル GROOVE at Teranoma Tidepool
 
-ギャル GROOVE at Teranoma Tidepool on Sat 17 Oct, Osaka. 1 act on the bill: ChottoKimoi. House and Disco. Preview the line-up and save it on soundcheck.
+ギャル GROOVE at Teranoma Tidepool on Sat 17 Oct, Osaka. 1 artist on the bill: ChottoKimoi. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

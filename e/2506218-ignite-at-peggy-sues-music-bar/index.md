@@ -1,6 +1,6 @@
 # IGNITE at Peggy Sues Music Bar
 
-IGNITE at Peggy Sues Music Bar on Sat 3 Oct, London. 3 acts on the bill: DJ-Roo, FRANCO (UK) and Mojo P. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+IGNITE at Peggy Sues Music Bar on Sat 3 Oct, London. 3 artists on the bill: DJ-Roo, FRANCO (UK) and Mojo P. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

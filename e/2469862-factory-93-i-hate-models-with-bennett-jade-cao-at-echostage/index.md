@@ -1,6 +1,6 @@
 # Factory 93: I Hate Models with BENNETT, JADE CAO at Echostage
 
-Factory 93: I Hate Models with BENNETT, JADE CAO at Echostage on Sat 26 Sept, Washingtondc. 3 acts on the bill: BENNETT, I Hate Models and JADE CAO. Techno. Preview the line-up and save it on soundcheck.
+Factory 93: I Hate Models with BENNETT, JADE CAO at Echostage on Sat 26 Sept, Washington DC. 3 artists on the bill: BENNETT, I Hate Models and JADE CAO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

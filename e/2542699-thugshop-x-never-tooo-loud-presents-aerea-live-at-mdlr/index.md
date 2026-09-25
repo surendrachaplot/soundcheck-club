@@ -1,6 +1,6 @@
 # Thugshop x Never Tooo Loud presents: AEREA [Live] at Mdlr
 
-Thugshop x Never Tooo Loud presents: AEREA [Live] at Mdlr on Sat 10 Oct, Singapore. 2 acts on the bill: AEREA and sho&tell. Techno and House. Preview the line-up and save it on soundcheck.
+Thugshop x Never Tooo Loud presents: AEREA [Live] at Mdlr on Sat 10 Oct, Singapore. 2 artists on the bill: AEREA and sho&tell. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

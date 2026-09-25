@@ -1,6 +1,6 @@
 # Paloma Invites at Paloma
 
-Paloma Invites on Sat 17 Oct, Berlin. 1 act on the bill: Ikonika. Preview the line-up and save it on soundcheck.
+Paloma Invites on Sat 17 Oct, Berlin. 1 artist on the bill: Ikonika. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

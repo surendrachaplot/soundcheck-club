@@ -2,7 +2,7 @@
 
 Aaliyah Salem is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at New Guernica, Melbourne on Fri, 16 Oct 2026.
 
-Aaliyah Salem is a techno and bass artist based in Australia, tracked on soundcheck, with 31 sets logged across Melbourne. Often billed alongside DJ CASPER (2), ATARANGI and Girl Tool. Next up: New Guernica, Melbourne on Fri 16 Oct.
+Aaliyah Salem is a techno and bass artist based in Australia, tracked on soundcheck, with 31 sets logged across Melbourne. Often billed alongside DJ CASPER, ATARANGI and Girl Tool. Next up: New Guernica, Melbourne on Fri 16 Oct.
 
 ## Upcoming shows
 

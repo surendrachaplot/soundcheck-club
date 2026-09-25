@@ -1,6 +1,6 @@
 # Unreal Weekender Night II - September 2026 at Bootshaus
 
-Unreal Weekender Night II - September 2026 at Bootshaus on Sat 26 Sept, Cologne. 9 acts on the bill: Annie, DJ DRECKISCH, DVAID and Golpe and 5 more. Techno. Preview the line-up and save it on soundcheck.
+Unreal Weekender Night II - September 2026 at Bootshaus on Sat 26 Sept, Cologne. 9 artists on the bill: Annie, DJ DRECKISCH, DVAID and Golpe and 5 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

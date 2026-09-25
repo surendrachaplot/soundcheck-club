@@ -1,6 +1,6 @@
 # Origins: Silva Snipa at Komedia Bath
 
-Origins: Silva Snipa at Komedia Bath on Mon 19 Oct, West-wales. 1 act on the bill: Silva Snipa. Preview the line-up and save it on soundcheck.
+Origins: Silva Snipa at Komedia Bath on Mon 19 Oct, West Wales. 1 artist on the bill: Silva Snipa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

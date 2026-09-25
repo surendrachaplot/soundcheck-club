@@ -1,6 +1,6 @@
 # MGMX at Aiiro Cafe
 
-MGMX at Aiiro Cafe on Fri 16 Oct, Tokyo. 2 acts on the bill: MAXIM (8) and tiger&dragon. House and R&B. Preview the line-up and save it on soundcheck.
+MGMX at Aiiro Cafe on Fri 16 Oct, Tokyo. 2 artists on the bill: MAXIM and tiger&dragon. House and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

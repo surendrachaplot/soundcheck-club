@@ -1,6 +1,6 @@
 # Obscene (Goth / Industrial / EBM / Darkwave) at The Slipper Clutch
 
-Obscene (Goth / Industrial / EBM / Darkwave) at The Slipper Clutch on Thu 17 Dec, Losangeles. 2 acts on the bill: Damascus Knives and Industria Nova. EBM and Industrial. Preview the line-up and save it on soundcheck.
+Obscene (Goth / Industrial / EBM / Darkwave) at The Slipper Clutch on Thu 17 Dec, Los Angeles. 2 artists on the bill: Damascus Knives and Industria Nova. EBM and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

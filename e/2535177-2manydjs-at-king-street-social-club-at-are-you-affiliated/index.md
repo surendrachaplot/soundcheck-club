@@ -1,6 +1,6 @@
 # 2ManyDJs at King Street Social Club at Are You Affiliated
 
-2ManyDJs at King Street Social Club at Are You Affiliated on Fri 18 Dec, Newcastle. 1 act on the bill: 2ManyDJs. Preview the line-up and save it on soundcheck.
+2ManyDJs at King Street Social Club at Are You Affiliated on Fri 18 Dec, Newcastle. 1 artist on the bill: 2ManyDJs. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

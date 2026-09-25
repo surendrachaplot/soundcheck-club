@@ -1,6 +1,6 @@
 # Pilates × Afro House @Dugattyús at TBA - DUGATTYÚS
 
-Pilates × Afro House @Dugattyús at TBA - DUGATTYÚS on Sun 15 Nov, Budapest. 1 act on the bill: Dr. Pops. Afro House. Preview the line-up and save it on soundcheck.
+Pilates × Afro House @Dugattyús at TBA - DUGATTYÚS on Sun 15 Nov, Budapest. 1 artist on the bill: Dr. Pops. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

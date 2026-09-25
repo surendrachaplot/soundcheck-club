@@ -1,6 +1,6 @@
 # Antidoto Club: COUCOU CHLOE + TOCCORORO at Club Magno
 
-Antidoto Club: COUCOU CHLOE + TOCCORORO at Club Magno on Thu 24 Sept, Madrid. 4 acts on the bill: COUCOU CHLOE, LA INDIA, TOCCORORO and Yosef (ES). Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Antidoto Club: COUCOU CHLOE + TOCCORORO at Club Magno on Thu 24 Sept, Madrid. 4 artists on the bill: COUCOU CHLOE, LA INDIA, TOCCORORO and Yosef (ES). Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

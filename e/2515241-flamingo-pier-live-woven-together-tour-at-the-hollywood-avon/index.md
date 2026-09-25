@@ -1,6 +1,6 @@
 # Flamingo Pier (live) - Woven Together Tour at The Hollywood Avondale
 
-Flamingo Pier (live) - Woven Together Tour at The Hollywood Avondale on Sat 10 Oct, Auckland. 3 acts on the bill: Flamingo Pier, Frank Booker and Nathan Haines. House and Disco. Preview the line-up and save it on soundcheck.
+Flamingo Pier (live) - Woven Together Tour at The Hollywood Avondale on Sat 10 Oct, Auckland. 3 artists on the bill: Flamingo Pier, Frank Booker and Nathan Haines. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

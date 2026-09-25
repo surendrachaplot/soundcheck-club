@@ -1,6 +1,6 @@
 # BonkerSquad invites MAX DURANTE — LvL Takeover at Lvl - World of Gaming Berlin
 
-BonkerSquad invites MAX DURANTE — LvL Takeover at Lvl - World of Gaming Berlin on Sat 26 Sept, Berlin. 4 acts on the bill: Chrischou, Kenji Tanaka, Mal.Da and MAX DURANTE. Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
+BonkerSquad invites MAX DURANTE — LvL Takeover at Lvl - World of Gaming Berlin on Sat 26 Sept, Berlin. 4 artists on the bill: Chrischou, Kenji Tanaka, Mal.Da and MAX DURANTE. Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

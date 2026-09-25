@@ -1,6 +1,6 @@
 # Peace Beats: Beyond Borders at Provitreff
 
-Peace Beats: Beyond Borders at Provitreff on Fri 25 Sept, Zurich. 2 acts on the bill: Atlas (2) and L-AUX. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Peace Beats: Beyond Borders at Provitreff on Fri 25 Sept, Zurich. 2 artists on the bill: Atlas and L-AUX. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

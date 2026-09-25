@@ -2,7 +2,7 @@
 
 Ray Kash is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Utopia, Los Angeles on Sat, 26 Sept 2026.
 
-Ray Kash is a house and deep house artist based in United States of America, tracked on soundcheck, with 88 sets logged across Barcelona, Losangeles, Miami and Newyorkcity and 3 more. Often billed alongside Enzo Muro, Artur (US) and Borak. Next up: Utopia, Losangeles on Sat 26 Sept.
+Ray Kash is a house and deep house artist based in United States of America, tracked on soundcheck, with 88 sets logged across Barcelona, Los Angeles, Miami and New York City and 3 more. Often billed alongside Enzo Muro, Artur (US) and Borak. Next up: Utopia, Los Angeles on Sat 26 Sept.
 
 ## Upcoming shows
 

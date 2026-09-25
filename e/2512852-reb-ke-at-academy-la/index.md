@@ -1,6 +1,6 @@
 # Rebūke at Academy LA
 
-Rebūke at Academy LA on Sat 3 Oct, Losangeles. House. Preview the line-up and save it on soundcheck.
+Rebūke at Academy LA on Sat 3 Oct, Los Angeles. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bodyworks 1st Bday at Stage and Radio
 
-Bodyworks 1st Bday at Stage and Radio on Fri 25 Sept, Manchester. 2 acts on the bill: Kop-Z and TOOT. Electronica. Preview the line-up and save it on soundcheck.
+Bodyworks 1st Bday at Stage and Radio on Fri 25 Sept, Manchester. 2 artists on the bill: Kop-Z and TOOT. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

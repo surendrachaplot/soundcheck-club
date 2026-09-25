@@ -1,6 +1,6 @@
 # Tengu presents: Cormac's Residency with Cormac All Night Long at Yamamori Tengu
 
-Tengu presents: Cormac's Residency with Cormac All Night Long at Yamamori Tengu on Fri 4 Dec, Dublin. 1 act on the bill: Cormac. House and Disco. Preview the line-up and save it on soundcheck.
+Tengu presents: Cormac's Residency with Cormac All Night Long at Yamamori Tengu on Fri 4 Dec, Dublin. 1 artist on the bill: Cormac. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

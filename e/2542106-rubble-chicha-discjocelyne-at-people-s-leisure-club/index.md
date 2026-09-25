@@ -1,6 +1,6 @@
 # RUBBLE // CHICHA, discjocelyne at People's Leisure Club
 
-RUBBLE // CHICHA, discjocelyne at People's Leisure Club on Tue 29 Sept, Edinburgh. 2 acts on the bill: Chicha (2) and discjocelyne. Preview the line-up and save it on soundcheck.
+RUBBLE // CHICHA, discjocelyne at People's Leisure Club on Tue 29 Sept, Edinburgh. 2 artists on the bill: Chicha and discjocelyne. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Standard Records presents: Terry Francis at Eiger Studios
 
-Standard Records presents: Terry Francis at Eiger Studios on Fri 2 Oct, Leeds. 2 acts on the bill: Jude Lenihan and Terry Francis. Preview the line-up and save it on soundcheck.
+Standard Records presents: Terry Francis at Eiger Studios on Fri 2 Oct, Leeds. 2 artists on the bill: Jude Lenihan and Terry Francis. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

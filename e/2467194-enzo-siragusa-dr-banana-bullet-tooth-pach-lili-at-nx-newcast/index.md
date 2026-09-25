@@ -1,6 +1,6 @@
 # Enzo Siragusa, Dr Banana, bullet tooth, PACH., LILI at NX Newcastle
 
-Enzo Siragusa, Dr Banana, bullet tooth, PACH., LILI at NX Newcastle on Sat 31 Oct, Newcastle. 5 acts on the bill: bullet tooth, Dr Banana, Enzo Siragusa and LILI and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Enzo Siragusa, Dr Banana, bullet tooth, PACH., LILI at NX Newcastle on Sat 31 Oct, Newcastle. 5 artists on the bill: bullet tooth, Dr Banana, Enzo Siragusa and LILI and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

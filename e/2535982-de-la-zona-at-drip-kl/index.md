@@ -1,6 +1,6 @@
 # DE LA ZONA at Drip KL
 
-DE LA ZONA at Drip KL on Thu 8 Oct, Kualalumpur. Techno. Preview the line-up and save it on soundcheck.
+DE LA ZONA at Drip KL on Thu 8 Oct, Kuala Lumpur. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

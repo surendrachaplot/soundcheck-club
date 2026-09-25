@@ -1,6 +1,6 @@
 # [Free RSVP] foundation.fm x Colour Factory Terrace Party at Colour Factory
 
-[Free RSVP] foundation.fm x Colour Factory Terrace Party on Sat 26 Sept, London. 4 acts on the bill: Basmati (1), Fliss Mayo, Poundshop and Zaleel. Bass and Garage. Preview the line-up and save it on soundcheck.
+[Free RSVP] foundation.fm x Colour Factory Terrace Party on Sat 26 Sept, London. 4 artists on the bill: Basmati, Fliss Mayo, Poundshop and Zaleel. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

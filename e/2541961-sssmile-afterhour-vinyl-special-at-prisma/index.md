@@ -1,6 +1,6 @@
 # Sssmile Afterhour VINYL SPECIAL at Prisma
 
-Sssmile Afterhour VINYL SPECIAL at Prisma on Thu 8 Oct, Berlin. 1 act on the bill: LNZ.. Techno. Preview the line-up and save it on soundcheck.
+Sssmile Afterhour VINYL SPECIAL at Prisma on Thu 8 Oct, Berlin. 1 artist on the bill: LNZ.. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

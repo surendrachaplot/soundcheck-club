@@ -1,6 +1,6 @@
 # Kings Turntable: DJ Migz [05.09.2026] at Kings Arms E2
 
-Kings Turntable: DJ Migz [05.09.2026] at Kings Arms E2 on Sat 17 Oct, London. 1 act on the bill: DJ Migz. House and Jazz. Preview the line-up and save it on soundcheck.
+Kings Turntable: DJ Migz [05.09.2026] at Kings Arms E2 on Sat 17 Oct, London. 1 artist on the bill: DJ Migz. House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

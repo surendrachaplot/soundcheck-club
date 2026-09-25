@@ -1,6 +1,6 @@
 # TorsdagsTechno at MODULE
 
-TorsdagsTechno at MODULE on Thu 24 Sept, Copenhagen. 2 acts on the bill: KARNIK and Ryan Dank (2). Preview the line-up and save it on soundcheck.
+TorsdagsTechno at MODULE on Thu 24 Sept, Copenhagen. 2 artists on the bill: KARNIK and Ryan Dank. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

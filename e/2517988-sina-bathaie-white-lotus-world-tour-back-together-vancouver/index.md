@@ -1,6 +1,6 @@
 # Sina Bathaie — White Lotus World Tour: Back Together - Vancouver at Hollywood Theatre
 
-Sina Bathaie — White Lotus World Tour: Back Together - Vancouver at Hollywood Theatre on Mon 9 Nov, Vancouver. 1 act on the bill: Sina Bathaie. Downtempo. Preview the line-up and save it on soundcheck.
+Sina Bathaie — White Lotus World Tour: Back Together - Vancouver at Hollywood Theatre on Mon 9 Nov, Vancouver. 1 artist on the bill: Sina Bathaie. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

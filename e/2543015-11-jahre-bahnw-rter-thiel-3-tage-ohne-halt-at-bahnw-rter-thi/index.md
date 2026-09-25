@@ -1,6 +1,6 @@
 # 11 Jahre Bahnwärter Thiel, 3 Tage ohne Halt at Bahnwärter Thiel
 
-11 Jahre Bahnwärter Thiel, 3 Tage ohne Halt on Fri 16 Oct, Munich. 14 acts on the bill: ANASTASÍA, Dave Dinger, ELIF and Elleyza and 10 more. Preview the line-up and save it on soundcheck.
+11 Jahre Bahnwärter Thiel, 3 Tage ohne Halt on Fri 16 Oct, Munich. 14 artists on the bill: ANASTASÍA, Dave Dinger, ELIF and Elleyza and 10 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

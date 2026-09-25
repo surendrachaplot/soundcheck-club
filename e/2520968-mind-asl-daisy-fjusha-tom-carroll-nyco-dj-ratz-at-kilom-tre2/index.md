@@ -1,6 +1,6 @@
 # MIND: ASLØ, DAISY, FJUSHA, TOM CARROLL, NYCO, DJ RATZ at Kilomètre25
 
-MIND: ASLØ, DAISY, FJUSHA, TOM CARROLL, NYCO, DJ RATZ at Kilomètre25 on Sat 17 Oct, Paris. 5 acts on the bill: ASLO, Avenir (2), DAISY and FJUSHA and 1 more. Techno. Preview the line-up and save it on soundcheck.
+MIND: ASLØ, DAISY, FJUSHA, TOM CARROLL, NYCO, DJ RATZ at Kilomètre25 on Sat 17 Oct, Paris. 5 artists on the bill: ASLO, Avenir, DAISY and FJUSHA and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

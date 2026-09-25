@@ -1,6 +1,6 @@
 # FLY | House Heads Halloween | Glasgow at SWG3
 
-FLY | House Heads Halloween | Glasgow at SWG3 on Sat 31 Oct, Glasgow. 3 acts on the bill: Archie Hamilton, Papa Nugs and Sidney Charles. House. Preview the line-up and save it on soundcheck.
+FLY | House Heads Halloween | Glasgow at SWG3 on Sat 31 Oct, Glasgow. 3 artists on the bill: Archie Hamilton, Papa Nugs and Sidney Charles. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

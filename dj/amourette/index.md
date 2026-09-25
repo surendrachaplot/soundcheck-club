@@ -2,7 +2,7 @@
 
 Amourette is a House and Krautrock artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nightmoves, New York City on Sun, 27 Sept 2026.
 
-Amourette is a house and krautrock artist based in United States of America, tracked on soundcheck, with 26 sets logged across Newyorkcity. Often billed alongside Maroje T, DJ Sundae and Intergalactic Gary. Next up: Nightmoves, Newyorkcity on Sun 27 Sept.
+Amourette is a house and krautrock artist based in United States of America, tracked on soundcheck, with 26 sets logged across New York City. Often billed alongside Maroje T, DJ Sundae and Intergalactic Gary. Next up: Nightmoves, New York City on Sun 27 Sept.
 
 ## Upcoming shows
 

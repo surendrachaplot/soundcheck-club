@@ -1,6 +1,6 @@
 # Tech Noire feat. Schwefelgelb at Le Trabendo
 
-Tech Noire feat. Schwefelgelb at Le Trabendo on Sat 19 Dec, Paris. 2 acts on the bill: law and haktion and Schwefelgelb. Techno. Preview the line-up and save it on soundcheck.
+Tech Noire feat. Schwefelgelb at Le Trabendo on Sat 19 Dec, Paris. 2 artists on the bill: law and haktion and Schwefelgelb. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

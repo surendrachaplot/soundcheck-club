@@ -1,6 +1,6 @@
 # SOS - Gene On Earth at DURO
 
-SOS - Gene On Earth at DURO on Fri 16 Oct, Milan. 1 act on the bill: Gene On Earth. Preview the line-up and save it on soundcheck.
+SOS - Gene On Earth at DURO on Fri 16 Oct, Milan. 1 artist on the bill: Gene On Earth. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

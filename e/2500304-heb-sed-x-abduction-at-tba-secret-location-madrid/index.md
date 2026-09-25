@@ -1,6 +1,6 @@
 # Heb Sed X Abduction at TBA - Secret Location (Madrid)
 
-Heb Sed X Abduction at TBA - Secret Location (Madrid) on Sat 26 Sept, Madrid. 5 acts on the bill: KRSDJ, R1TON, Redondoo and Syback and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Heb Sed X Abduction at TBA - Secret Location (Madrid) on Sat 26 Sept, Madrid. 5 artists on the bill: KRSDJ, R1TON, Redondoo and Syback and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

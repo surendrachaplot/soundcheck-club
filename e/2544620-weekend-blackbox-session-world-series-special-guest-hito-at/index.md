@@ -1,6 +1,6 @@
 # WEEKEND BLACKBOX SESSION - WORLD SERIES - SPECIAL GUEST : Hito at W Osaka
 
-WEEKEND BLACKBOX SESSION - WORLD SERIES - SPECIAL GUEST : Hito at W Osaka on Fri 25 Sept, Osaka. 4 acts on the bill: DMITRI ABSINTHE, Hito, MAX PELA and YUUKI YOSHIYAMA. House and Tech House. Preview the line-up and save it on soundcheck.
+WEEKEND BLACKBOX SESSION - WORLD SERIES - SPECIAL GUEST : Hito at W Osaka on Fri 25 Sept, Osaka. 4 artists on the bill: DMITRI ABSINTHE, Hito, MAX PELA and YUUKI YOSHIYAMA. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

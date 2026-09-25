@@ -1,6 +1,6 @@
 # Disco Not Disco with Veronica Vasicka at Karmakoma
 
-Disco Not Disco with Veronica Vasicka at Karmakoma on Sat 24 Oct, Belgrade. 2 acts on the bill: schwabe and Veronica Vasicka. Preview the line-up and save it on soundcheck.
+Disco Not Disco with Veronica Vasicka at Karmakoma on Sat 24 Oct, Belgrade. 2 artists on the bill: schwabe and Veronica Vasicka. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

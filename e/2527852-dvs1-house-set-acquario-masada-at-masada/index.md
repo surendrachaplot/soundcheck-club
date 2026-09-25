@@ -1,6 +1,6 @@
 # DVS1 House set // Acquario (Masada) at Masada
 
-DVS1 House set // Acquario (Masada) on Sat 7 Nov, Milan. 2 acts on the bill: ATEQ and DVS1. Techno. Preview the line-up and save it on soundcheck.
+DVS1 House set // Acquario (Masada) on Sat 7 Nov, Milan. 2 artists on the bill: ATEQ and DVS1. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

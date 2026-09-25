@@ -1,6 +1,6 @@
 # Platz fur Tanz x Teritorija 10 Years Anniversary at Teritorija
 
-Platz fur Tanz x Teritorija 10 Years Anniversary on Fri 16 Oct, Riga. 4 acts on the bill: Dmitry Puffin, Ksenia Kamikaza, Notwelcome and VLAD PHANGAN. Techno and House. Preview the line-up and save it on soundcheck.
+Platz fur Tanz x Teritorija 10 Years Anniversary on Fri 16 Oct, Riga. 4 artists on the bill: Dmitry Puffin, Ksenia Kamikaza, Notwelcome and VLAD PHANGAN. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

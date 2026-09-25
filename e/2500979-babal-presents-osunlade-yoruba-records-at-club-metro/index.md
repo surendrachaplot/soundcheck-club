@@ -1,6 +1,6 @@
 # BABALÚ presents Osunlade (Yoruba Records) at Club Metro
 
-BABALÚ presents Osunlade (Yoruba Records) at Club Metro on Sat 26 Sept, Kyoto. 4 acts on the bill: DMITRI ABSINTHE, MAX PELA, Osunlade and Yukari BB. Preview the line-up and save it on soundcheck.
+BABALÚ presents Osunlade (Yoruba Records) at Club Metro on Sat 26 Sept, Kyoto. 4 artists on the bill: DMITRI ABSINTHE, MAX PELA, Osunlade and Yukari BB. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

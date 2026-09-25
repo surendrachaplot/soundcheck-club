@@ -2,7 +2,7 @@
 
 AY (10) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 16 Oct 2026.
 
-AY (10) is a techno and house artist based in Japan, tracked on soundcheck, with 53 sets logged across Kyoto, Paris and Tokyo. Often billed alongside TAKUTO (2), DADO and O.Goo. Next up: ZEROTOKYO, Tokyo on Fri 16 Oct.
+AY is a techno and house artist based in Japan, tracked on soundcheck, with 53 sets logged across Kyoto, Paris and Tokyo. Often billed alongside TAKUTO, DADO and O.Goo. Next up: ZEROTOKYO, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 

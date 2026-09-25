@@ -1,6 +1,6 @@
 # Clark Park Jam: A Day of Groovy Soulful House Music - presented by Soundwave Market at TBA - Clark Park 4498 Chester Ave, Philadelphia, PA
 
-Clark Park Jam: A Day of Groovy Soulful House Music - presented by Soundwave Market at TBA - Clark Park 4498 Chester Ave, Philadelphia, PA on Sat 3 Oct, Philadelphia. 4 acts on the bill: Big Queso, Cowa, Qino and tj groover. House. Preview the line-up and save it on soundcheck.
+Clark Park Jam: A Day of Groovy Soulful House Music - presented by Soundwave Market at TBA - Clark Park 4498 Chester Ave, Philadelphia, PA on Sat 3 Oct, Philadelphia. 4 artists on the bill: Big Queso, Cowa, Qino and tj groover. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Tama Sumo is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
 
-Tama Sumo is a house and techno artist based in Germany, tracked on soundcheck, with 198 sets logged across All, Amsterdam, Antwerp and Athens and 51 more. Often billed alongside Lakuti, Roi Perez and Virginia. Next up: Spook Club, Valencia on Sat 26 Sept.
+Tama Sumo is a house and techno artist based in Germany, tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Athens and Bali and 51 more. Often billed alongside Lakuti, Roi Perez and Virginia. Next up: Spook Club, Valencia on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -16,7 +16,7 @@ Tama Sumo is a house and techno artist based in Germany, tracked on soundcheck, 
 | Fri, 30 Oct 2026 | TBA | Chicago |
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
 | Sun, 1 Nov 2026 | Signal | New York City |
-| Wed, 3 Mar 2027 | El Rio Hostel | All |
+| Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
 

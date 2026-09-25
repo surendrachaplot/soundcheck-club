@@ -1,6 +1,6 @@
 # Live Techno All night Feat. Trovarsi at TBA - Day of Show 
 
-Live Techno All night Feat. Trovarsi at TBA - Day of Show  on Sat 3 Oct, Seattle. 1 act on the bill: Trovarsi. Techno. Preview the line-up and save it on soundcheck.
+Live Techno All night Feat. Trovarsi at TBA - Day of Show  on Sat 3 Oct, Seattle. 1 artist on the bill: Trovarsi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

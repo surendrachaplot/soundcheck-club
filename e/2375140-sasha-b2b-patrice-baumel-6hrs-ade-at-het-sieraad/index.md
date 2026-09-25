@@ -1,6 +1,6 @@
 # Sasha b2b Patrice Baumel - 6hrs ADE at Het Sieraad
 
-Sasha b2b Patrice Baumel - 6hrs ADE at Het Sieraad on Sat 24 Oct, Amsterdam. 2 acts on the bill: Patrice Bäumel and Sasha. Progressive House and House. Preview the line-up and save it on soundcheck.
+Sasha b2b Patrice Baumel - 6hrs ADE at Het Sieraad on Sat 24 Oct, Amsterdam. 2 artists on the bill: Patrice Bäumel and Sasha. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

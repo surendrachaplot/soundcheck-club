@@ -1,6 +1,6 @@
 # Ivan Smagghe All Night Long (Age 21+) at Cobalt Studios
 
-Ivan Smagghe All Night Long (Age 21+) at Cobalt Studios on Fri 13 Nov, Newcastle. 1 act on the bill: Ivan Smagghe. Preview the line-up and save it on soundcheck.
+Ivan Smagghe All Night Long (Age 21+) at Cobalt Studios on Fri 13 Nov, Newcastle. 1 artist on the bill: Ivan Smagghe. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

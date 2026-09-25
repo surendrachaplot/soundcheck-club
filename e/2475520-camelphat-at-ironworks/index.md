@@ -1,6 +1,6 @@
 # CamelPhat at Ironworks
 
-CamelPhat at Ironworks on Sat 24 Oct, London. 1 act on the bill: CamelPhat. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+CamelPhat at Ironworks on Sat 24 Oct, London. 1 artist on the bill: CamelPhat. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

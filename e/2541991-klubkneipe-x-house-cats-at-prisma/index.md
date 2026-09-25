@@ -1,6 +1,6 @@
 # Klubkneipe x House Cats at Prisma
 
-Klubkneipe x House Cats at Prisma on Sun 11 Oct, Berlin. 1 act on the bill: Kalimanda. House and Tech House. Preview the line-up and save it on soundcheck.
+Klubkneipe x House Cats at Prisma on Sun 11 Oct, Berlin. 1 artist on the bill: Kalimanda. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

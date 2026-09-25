@@ -2,7 +2,7 @@
 
 Anna Haleta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ://about blank, Berlin on Fri, 25 Sept 2026.
 
-Anna Haleta is a techno and house artist based in Israel, tracked on soundcheck, with 20 sets logged across Amsterdam, Athens, Berlin and Leipzig and 2 more. Often billed alongside Handmade, Madalba and LOOPA (2). Next up: ://about blank, Berlin on Fri 25 Sept.
+Anna Haleta is a techno and house artist based in Israel, tracked on soundcheck, with 20 sets logged across Amsterdam, Athens, Berlin and Leipzig and 2 more. Often billed alongside Handmade, Madalba and LOOPA. Next up: ://about blank, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 

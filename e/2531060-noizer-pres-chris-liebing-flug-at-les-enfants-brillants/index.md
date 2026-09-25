@@ -1,6 +1,6 @@
 # Noizer pres. Chris Liebing + Flug at Les Enfants Brillants
 
-Noizer pres. Chris Liebing + Flug at Les Enfants Brillants on Thu 1 Oct, Barcelona. 2 acts on the bill: Chris Liebing and Flug. Preview the line-up and save it on soundcheck.
+Noizer pres. Chris Liebing + Flug at Les Enfants Brillants on Thu 1 Oct, Barcelona. 2 artists on the bill: Chris Liebing and Flug. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

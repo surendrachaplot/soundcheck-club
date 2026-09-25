@@ -1,6 +1,6 @@
 # Project Nowhere 2026: Tony Price DJ/LIVE HYBRID + Strip Lacquer + DOWN TOWN at Bsmt 254
 
-Project Nowhere 2026: Tony Price DJ/LIVE HYBRID + Strip Lacquer + DOWN TOWN at Bsmt 254 on Fri 2 Oct, Toronto. 2 acts on the bill: Strip Lacquer and Tony Price. House and Experimental. Preview the line-up and save it on soundcheck.
+Project Nowhere 2026: Tony Price DJ/LIVE HYBRID + Strip Lacquer + DOWN TOWN at Bsmt 254 on Fri 2 Oct, Toronto. 2 artists on the bill: Strip Lacquer and Tony Price. House and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

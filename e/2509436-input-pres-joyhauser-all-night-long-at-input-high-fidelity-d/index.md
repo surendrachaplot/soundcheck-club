@@ -1,6 +1,6 @@
 # INPUT pres Joyhauser All Night Long at INPUT High Fidelity Dance Club
 
-INPUT pres Joyhauser All Night Long at INPUT High Fidelity Dance Club on Sat 3 Oct, Barcelona. 1 act on the bill: Joyhauser. Techno. Preview the line-up and save it on soundcheck.
+INPUT pres Joyhauser All Night Long at INPUT High Fidelity Dance Club on Sat 3 Oct, Barcelona. 1 artist on the bill: Joyhauser. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

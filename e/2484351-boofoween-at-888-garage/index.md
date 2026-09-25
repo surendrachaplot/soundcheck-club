@@ -1,6 +1,6 @@
 # BOOFOWEEN at 888 Garage
 
-BOOFOWEEN at 888 Garage on Sat 31 Oct, Sanfrancisco. 4 acts on the bill: ANDYLAND, DJ SEXSTASY, Julia Rose and Only Fire. Techno. Preview the line-up and save it on soundcheck.
+BOOFOWEEN at 888 Garage on Sat 31 Oct, San Francisco/Oakland. 4 artists on the bill: ANDYLAND, DJ SEXSTASY, Julia Rose and Only Fire. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

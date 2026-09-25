@@ -2,7 +2,7 @@
 
 D-EDGE is a music venue in Sao Paulo with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "MOVING D-EDGE SP pres.: P2: BLEMMES. JOVIQUE. MERIVA" on Thu, 24 Sept 2026.
 
-D-EDGE is a music venue in Saopaulo listed on soundcheck. 4 upcoming gigs, with line-ups including Acid Asian, Adnan Sharif, Bervon and Bruce Leroys and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
+D-EDGE is a music venue in Sao Paulo listed on soundcheck. 4 upcoming gigs, with line-ups including Acid Asian, Adnan Sharif, Bervon and Bruce Leroys and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
 ## What's on
 

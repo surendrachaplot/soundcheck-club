@@ -1,6 +1,6 @@
 # R&B CORPORATION [rom&BAAWLA] at Cakeshop
 
-R&B CORPORATION [rom&BAAWLA] at Cakeshop on Fri 25 Sept, Seoul. 6 acts on the bill: AEIDA, BAAWLA, DJ POOL and Jan7th and 2 more. Bass and Garage. Preview the line-up and save it on soundcheck.
+R&B CORPORATION [rom&BAAWLA] at Cakeshop on Fri 25 Sept, Seoul. 6 artists on the bill: AEIDA, BAAWLA, DJ POOL and Jan7th and 2 more. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

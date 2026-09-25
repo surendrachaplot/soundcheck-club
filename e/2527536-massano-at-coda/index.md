@@ -1,6 +1,6 @@
 # Massano at Coda
 
-Massano at Coda on Sat 26 Sept, Toronto. 1 act on the bill: Massano. Preview the line-up and save it on soundcheck.
+Massano at Coda on Sat 26 Sept, Toronto. 1 artist on the bill: Massano. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

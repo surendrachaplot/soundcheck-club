@@ -1,6 +1,6 @@
 # AkvaWaves invites: Ely Oaks 360° at NagyHall at Akvárium Klub
 
-AkvaWaves invites: Ely Oaks 360° at NagyHall at Akvárium Klub on Fri 16 Oct, Budapest. 1 act on the bill: Ely Oaks. Electro. Preview the line-up and save it on soundcheck.
+AkvaWaves invites: Ely Oaks 360° at NagyHall at Akvárium Klub on Fri 16 Oct, Budapest. 1 artist on the bill: Ely Oaks. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

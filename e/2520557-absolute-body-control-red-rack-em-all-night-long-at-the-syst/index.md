@@ -1,6 +1,6 @@
 # Absolute Body Control: Red Rack'em All Night Long at The System
 
-Absolute Body Control: Red Rack'em All Night Long at The System on Sat 24 Oct, Sheffield. 1 act on the bill: Red Rack'em. House and Disco. Preview the line-up and save it on soundcheck.
+Absolute Body Control: Red Rack'em All Night Long at The System on Sat 24 Oct, Sheffield. 1 artist on the bill: Red Rack'em. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

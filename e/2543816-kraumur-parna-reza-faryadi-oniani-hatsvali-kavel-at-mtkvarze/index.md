@@ -1,6 +1,6 @@
 # Kraumur • Parna • Reza Faryadi • Oniani • Hatsvali • KAVEL at Mtkvarze
 
-Kraumur • Parna • Reza Faryadi • Oniani • Hatsvali • KAVEL at Mtkvarze on Fri 25 Sept, Tbilisi. 5 acts on the bill: Hatsvali, KAVEL, Kraumur and Oniani and 1 more. Preview the line-up and save it on soundcheck.
+Kraumur • Parna • Reza Faryadi • Oniani • Hatsvali • KAVEL at Mtkvarze on Fri 25 Sept, Tbilisi. 5 artists on the bill: Hatsvali, KAVEL, Kraumur and Oniani and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

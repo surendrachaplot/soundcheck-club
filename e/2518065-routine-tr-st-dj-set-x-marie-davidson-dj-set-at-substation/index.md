@@ -1,6 +1,6 @@
 # Routine: TR/ST (DJ Set) x Marie Davidson (DJ Set) at Substation
 
-Routine: TR/ST (DJ Set) x Marie Davidson (DJ Set) at Substation on Fri 30 Oct, Seattle. 1 act on the bill: Marie Davidson. EBM and New Wave. Preview the line-up and save it on soundcheck.
+Routine: TR/ST (DJ Set) x Marie Davidson (DJ Set) at Substation on Fri 30 Oct, Seattle. 1 artist on the bill: Marie Davidson. EBM and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

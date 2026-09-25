@@ -1,6 +1,6 @@
 # All-Building Hallo-Queen at smartbar
 
-All-Building Hallo-Queen at smartbar on Sun 1 Nov, Chicago. 5 acts on the bill: Chris Cruse, Czboogie, Derrick Carter and DJ Minx and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+All-Building Hallo-Queen at smartbar on Sun 1 Nov, Chicago. 5 artists on the bill: Chris Cruse, Czboogie, Derrick Carter and DJ Minx and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

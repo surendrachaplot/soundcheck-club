@@ -1,6 +1,6 @@
 # DJ SUXXY PUXXY on the Hotel Patio! at Hotel Vegas
 
-DJ SUXXY PUXXY on the Hotel Patio! at Hotel Vegas on Sat 26 Sept, Austin. 1 act on the bill: SUXXY PUXXY. Reggaeton. Preview the line-up and save it on soundcheck.
+DJ SUXXY PUXXY on the Hotel Patio! at Hotel Vegas on Sat 26 Sept, Austin. 1 artist on the bill: SUXXY PUXXY. Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

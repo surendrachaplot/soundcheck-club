@@ -1,6 +1,6 @@
 # Bipolar Disorder x Sociedad Groove at M7 Club
 
-Bipolar Disorder x Sociedad Groove at M7 Club on Fri 2 Oct, Barcelona. 5 acts on the bill: DD.MATTS, GLIA, H-R-Z and SYM and 1 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+Bipolar Disorder x Sociedad Groove at M7 Club on Fri 2 Oct, Barcelona. 5 artists on the bill: DD.MATTS, GLIA, H-R-Z and SYM and 1 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

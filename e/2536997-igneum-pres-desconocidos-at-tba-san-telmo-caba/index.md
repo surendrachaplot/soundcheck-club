@@ -1,6 +1,6 @@
 # IGNEUM Pres. Desconocidos at TBA - SAN TELMO, CABA. 
 
-IGNEUM Pres. Desconocidos at TBA - SAN TELMO, CABA.  on Sat 3 Oct, Buenosaires. 2 acts on the bill: Faustø and LEGGUI. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+IGNEUM Pres. Desconocidos at TBA - SAN TELMO, CABA.  on Sat 3 Oct, Buenos Aires. 2 artists on the bill: Faustø and LEGGUI. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

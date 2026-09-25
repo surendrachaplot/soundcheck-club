@@ -1,6 +1,6 @@
 # Lake Effect feat. MUSCLECARS - DJ Heather at smartbar
 
-Lake Effect feat. MUSCLECARS - DJ Heather at smartbar on Fri 23 Oct, Chicago. 2 acts on the bill: DJ Heather and MUSCLECARS. House and Tech House. Preview the line-up and save it on soundcheck.
+Lake Effect feat. MUSCLECARS - DJ Heather at smartbar on Fri 23 Oct, Chicago. 2 artists on the bill: DJ Heather and MUSCLECARS. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

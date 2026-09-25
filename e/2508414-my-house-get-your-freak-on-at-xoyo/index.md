@@ -1,6 +1,6 @@
 # My House - Get Your Freak On at XOYO
 
-My House - Get Your Freak On at XOYO on Sat 24 Oct, London. 5 acts on the bill: Alex P, Brandon Block, pig snatchers and Tenacious and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+My House - Get Your Freak On at XOYO on Sat 24 Oct, London. 5 artists on the bill: Alex P, Brandon Block, pig snatchers and Tenacious and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

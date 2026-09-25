@@ -1,6 +1,6 @@
 # MOON PRESENTS: Franc Fala & Benja at Moon Warsaw
 
-MOON PRESENTS: Franc Fala & Benja at Moon Warsaw on Sat 17 Oct, Warsaw. 2 acts on the bill: Benja and Franc Fala. House and Afro House. Preview the line-up and save it on soundcheck.
+MOON PRESENTS: Franc Fala & Benja at Moon Warsaw on Sat 17 Oct, Warsaw. 2 artists on the bill: Benja and Franc Fala. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

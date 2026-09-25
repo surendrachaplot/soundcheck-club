@@ -1,6 +1,6 @@
 # UKF Bristol at The Prospect Building
 
-UKF Bristol at The Prospect Building on Sat 14 Nov, Bristol. 6 acts on the bill: A Little Sound, Anaïs, IC3 and K Motionz and 2 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+UKF Bristol at The Prospect Building on Sat 14 Nov, Bristol. 6 artists on the bill: A Little Sound, Anaïs, IC3 and K Motionz and 2 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

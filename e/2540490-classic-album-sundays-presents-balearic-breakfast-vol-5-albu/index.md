@@ -1,6 +1,6 @@
 # Classic Album Sundays presents Balearic Breakfast Vol.5 Album Launch Party at Hidden Grooves
 
-Classic Album Sundays presents Balearic Breakfast Vol.5 Album Launch Party at Hidden Grooves on Tue 10 Nov, London. 1 act on the bill: Colleen 'Cosmo' Murphy. Balearic. Preview the line-up and save it on soundcheck.
+Classic Album Sundays presents Balearic Breakfast Vol.5 Album Launch Party at Hidden Grooves on Tue 10 Nov, London. 1 artist on the bill: Colleen 'Cosmo' Murphy. Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

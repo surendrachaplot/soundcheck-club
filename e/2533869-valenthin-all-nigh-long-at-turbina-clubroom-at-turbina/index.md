@@ -1,6 +1,6 @@
 # Valenthin All Nigh Long at Turbina Clubroom at Turbina
 
-Valenthin All Nigh Long at Turbina Clubroom on Sat 3 Oct, Budapest. 3 acts on the bill: 96zen, Daniel Moritz and Valenthin. Trance and Techno. Preview the line-up and save it on soundcheck.
+Valenthin All Nigh Long at Turbina Clubroom on Sat 3 Oct, Budapest. 3 artists on the bill: 96zen, Daniel Moritz and Valenthin. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

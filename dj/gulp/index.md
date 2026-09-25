@@ -2,7 +2,7 @@
 
 Gulp is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
 
-Gulp is a house and techno artist based in Argentina, tracked on soundcheck, with 32 sets logged across Berlin, Buenosaires, Malta and Miami and 1 more. Often billed alongside Lamache, Momo Trosman and Andrés Zacco. Next up: H0L0, Newyorkcity on Sat 26 Sept.
+Gulp is a house and techno artist based in Argentina, tracked on soundcheck, with 32 sets logged across Berlin, Buenos Aires, Malta and Miami and 1 more. Often billed alongside Lamache, Momo Trosman and Andrés Zacco. Next up: H0L0, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 A. Square is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
 
-A. Square is a bass and dub artist based in Greece, tracked on soundcheck, with 15 sets logged across Athens. Often billed alongside Andreas Palmer, SRJ (1) and pink.wav. Next up: Ilion Plus, Athens on Sat 26 Sept.
+A. Square is a bass and dub artist based in Greece, tracked on soundcheck, with 15 sets logged across Athens. Often billed alongside Andreas Palmer, SRJ and pink.wav. Next up: Ilion Plus, Athens on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Don't Bug The Dub 3 w/ Festnacht, Babsi, Johan Kaseta & Junis at Locke
 
-Don't Bug The Dub 3 w/ Festnacht, Babsi, Johan Kaseta & Junis at Locke on Fri 25 Sept, Hamburg. 2 acts on the bill: Festnacht and Johan Kaseta. Preview the line-up and save it on soundcheck.
+Don't Bug The Dub 3 w/ Festnacht, Babsi, Johan Kaseta & Junis at Locke on Fri 25 Sept, Hamburg. 2 artists on the bill: Festnacht and Johan Kaseta. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nightvision presents FUMI & Frazi.er // Edinburgh at The Caves
 
-Nightvision presents FUMI & Frazi.er // Edinburgh at The Caves on Fri 2 Oct, Edinburgh. 3 acts on the bill: Frazi.er, fumi (DE) and LAUZ. Techno. Preview the line-up and save it on soundcheck.
+Nightvision presents FUMI & Frazi.er // Edinburgh at The Caves on Fri 2 Oct, Edinburgh. 3 artists on the bill: Frazi.er, fumi (DE) and LAUZ. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

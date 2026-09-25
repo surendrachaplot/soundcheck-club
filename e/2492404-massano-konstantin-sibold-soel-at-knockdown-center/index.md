@@ -1,6 +1,6 @@
 # Massano, Konstantin Sibold, SOEL at Knockdown Center
 
-Massano, Konstantin Sibold, SOEL at Knockdown Center on Fri 23 Oct, Newyorkcity. 3 acts on the bill: Konstantin Sibold, Massano and SOEL. Techno. Preview the line-up and save it on soundcheck.
+Massano, Konstantin Sibold, SOEL at Knockdown Center on Fri 23 Oct, New York City. 3 artists on the bill: Konstantin Sibold, Massano and SOEL. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

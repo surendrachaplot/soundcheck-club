@@ -1,6 +1,6 @@
 # San San Jo Gak Listening Session at 180 The Strand
 
-San San Jo Gak Listening Session at 180 The Strand on Sun 27 Sept, London. 1 act on the bill: Chang Kiha. Post-Punk. Preview the line-up and save it on soundcheck.
+San San Jo Gak Listening Session at 180 The Strand on Sun 27 Sept, London. 1 artist on the bill: Chang Kiha. Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

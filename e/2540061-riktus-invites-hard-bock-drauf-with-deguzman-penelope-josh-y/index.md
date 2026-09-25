@@ -1,6 +1,6 @@
 # Riktus Invites Hard Bock Drauf with DeGuzman, PENELOPE, JOSH YOB at Ministerium Club
 
-Riktus Invites Hard Bock Drauf with DeGuzman, PENELOPE, JOSH YOB at Ministerium Club on Thu 1 Oct, Lisbon. 4 acts on the bill: Anastasiya Ty, DeGuzman, Kafox and Penelope (2). Techno and Acid. Preview the line-up and save it on soundcheck.
+Riktus Invites Hard Bock Drauf with DeGuzman, PENELOPE, JOSH YOB at Ministerium Club on Thu 1 Oct, Lisbon. 4 artists on the bill: Anastasiya Ty, DeGuzman, Kafox and Penelope. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

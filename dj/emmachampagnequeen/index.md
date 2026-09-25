@@ -2,7 +2,7 @@
 
 Emma Champagne Queen is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Loop51, Amsterdam on Sat, 24 Oct 2026.
 
-Emma Champagne Queen is a house and disco artist based in Netherlands, tracked on soundcheck, with 38 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Kirilski, Heritage Listed and Pura Pachanga. Next up: Loop51, Amsterdam on Sat 24 Oct.
+Emma Champagne Queen is a house and disco artist based in Netherlands, tracked on soundcheck, with 38 sets logged across Amsterdam, The Hague and Utrecht. Often billed alongside Kirilski, Heritage Listed and Pura Pachanga. Next up: Loop51, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 

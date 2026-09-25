@@ -1,6 +1,6 @@
 # Toledo + H-Deep at nueve cero nueve
 
-Toledo + H-Deep at nueve cero nueve on Fri 25 Sept, Mexicocity. Preview the line-up and save it on soundcheck.
+Toledo + H-Deep at nueve cero nueve on Fri 25 Sept, Mexico City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

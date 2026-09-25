@@ -1,6 +1,6 @@
 # Francisco Céspedes with Special Guest Gerardo Contino at SOBs
 
-Francisco Céspedes with Special Guest Gerardo Contino at SOBs on Wed 28 Oct, Newyorkcity. Jazz and Pop. Preview the line-up and save it on soundcheck.
+Francisco Céspedes with Special Guest Gerardo Contino at SOBs on Wed 28 Oct, New York City. Jazz and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Worakls - WILLIAM SPLEEN - Miss Evoice at Fridas Pier
 
-Worakls - WILLIAM SPLEEN - Miss Evoice at Fridas Pier on Sat 21 Nov, Stuttgart. 2 acts on the bill: Miss Evoice and Worakls. House. Preview the line-up and save it on soundcheck.
+Worakls - WILLIAM SPLEEN - Miss Evoice at Fridas Pier on Sat 21 Nov, Stuttgart. 2 artists on the bill: Miss Evoice and Worakls. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

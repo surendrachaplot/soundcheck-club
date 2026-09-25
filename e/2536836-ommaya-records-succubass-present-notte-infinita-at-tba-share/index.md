@@ -1,6 +1,6 @@
 # Ommaya Records & Succubass present: Notte Infinita at TBA - Share Date of Event
 
-Ommaya Records & Succubass present: Notte Infinita at TBA - Share Date of Event on Fri 2 Oct, Seattle. 3 acts on the bill: noRecall, Notte Infinita and Succubass. Dub and Dub Techno. Preview the line-up and save it on soundcheck.
+Ommaya Records & Succubass present: Notte Infinita at TBA - Share Date of Event on Fri 2 Oct, Seattle. 3 artists on the bill: noRecall, Notte Infinita and Succubass. Dub and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

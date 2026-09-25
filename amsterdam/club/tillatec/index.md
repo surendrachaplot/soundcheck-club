@@ -2,7 +2,7 @@
 
 TILLATEC is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "sSSsSensationsSs: CLOWN DIVA DOWN" on Fri, 25 Sept 2026.
 
-TILLATEC is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Justine Perry, Andy Garvey, Andy Martin and angelboy and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
+TILLATEC is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Justine Perry, Alexia Glensy, Andy Garvey and Andy Martin and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
 ## What's on
 

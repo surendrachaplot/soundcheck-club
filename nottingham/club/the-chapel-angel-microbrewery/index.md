@@ -2,7 +2,7 @@
 
 The Chapel Angel Microbrewery is a music venue in Nottingham with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Interstellar Audio: Transmissions - Deep D&B - FREE ENTRY" on Thu, 24 Sept 2026.
 
-The Chapel Angel Microbrewery is a music venue in Nottingham listed on soundcheck. 1 upcoming gig, with line-ups including Cellar (2) and K2T (1). Browse upcoming dates, start times and who's playing. 7 Stoney Street Street, Nottingham, NG1 1LG, United Kingdom.
+The Chapel Angel Microbrewery is a music venue in Nottingham listed on soundcheck. 1 upcoming gig, with line-ups including Cellar and K2T. Browse upcoming dates, start times and who's playing. 7 Stoney Street Street, Nottingham, NG1 1LG, United Kingdom.
 
 ## What's on
 

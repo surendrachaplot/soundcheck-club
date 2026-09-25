@@ -1,6 +1,6 @@
 # SAMA and Friends presents: Dancity and Eve at TBA - 1158 Myrtle Ave
 
-SAMA and Friends presents: Dancity and Eve at TBA - 1158 Myrtle Ave on Sat 26 Sept, Newyorkcity. Trance and Techno. Preview the line-up and save it on soundcheck.
+SAMA and Friends presents: Dancity and Eve at TBA - 1158 Myrtle Ave on Sat 26 Sept, New York City. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TAKEOVER HALLOWEEN with SCHROTTHAGEN at TBA
 
-TAKEOVER HALLOWEEN with SCHROTTHAGEN at TBA on Fri 30 Oct, Toronto. 1 act on the bill: Schrotthagen. Trance and Techno. Preview the line-up and save it on soundcheck.
+TAKEOVER HALLOWEEN with SCHROTTHAGEN at TBA on Fri 30 Oct, Toronto. 1 artist on the bill: Schrotthagen. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

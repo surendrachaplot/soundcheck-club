@@ -1,6 +1,6 @@
 # Melomania presents: Celine Dijon, Luun, Jim Bow and Ben Weston at Club no.8
 
-Melomania presents: Celine Dijon, Luun, Jim Bow and Ben Weston at Club no.8 on Sat 21 Nov, London. 2 acts on the bill: Jim Bow and Luun. House and Tech House. Preview the line-up and save it on soundcheck.
+Melomania presents: Celine Dijon, Luun, Jim Bow and Ben Weston at Club no.8 on Sat 21 Nov, London. 2 artists on the bill: Jim Bow and Luun. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

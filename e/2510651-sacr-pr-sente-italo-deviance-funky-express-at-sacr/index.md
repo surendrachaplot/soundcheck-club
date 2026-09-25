@@ -1,6 +1,6 @@
 # Sacré présente: Italo Deviance & Funky Express at Sacré
 
-Sacré présente: Italo Deviance & Funky Express on Fri 2 Oct, Paris. 1 act on the bill: Italo Deviance. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Sacré présente: Italo Deviance & Funky Express on Fri 2 Oct, Paris. 1 artist on the bill: Italo Deviance. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

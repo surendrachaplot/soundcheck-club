@@ -1,6 +1,6 @@
 # POING 4 YEAR ANNIVERSARY at export
 
-POING 4 YEAR ANNIVERSARY at export on Sat 7 Nov, Rotterdam. 13 acts on the bill: CAIN, Candy Coup, CyberFairy777 and DIORA and 9 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+POING 4 YEAR ANNIVERSARY at export on Sat 7 Nov, Rotterdam. 13 artists on the bill: CAIN, Candy Coup, CyberFairy777 and DIORA and 9 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # get—traum x Blast Galaxy at Blast Galaxy
 
-get—traum x Blast Galaxy on Fri 23 Oct, Amsterdam. 4 acts on the bill: Merel Helderman, Shonky, Sibil (1) and Traumer. House. Preview the line-up and save it on soundcheck.
+get—traum x Blast Galaxy on Fri 23 Oct, Amsterdam. 4 artists on the bill: Merel Helderman, Shonky, Sibil and Traumer. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

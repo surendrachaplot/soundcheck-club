@@ -1,6 +1,6 @@
 # Bambounou, Fedele, Mautone at Amnesia Milano
 
-Bambounou, Fedele, Mautone at Amnesia Milano on Sat 26 Sept, Milan. 2 acts on the bill: Bambounou and Fedele. Preview the line-up and save it on soundcheck.
+Bambounou, Fedele, Mautone at Amnesia Milano on Sat 26 Sept, Milan. 2 artists on the bill: Bambounou and Fedele. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LED presents Murda Beatz [House Set] at Spin
 
-LED presents Murda Beatz [House Set] at Spin on Fri 23 Oct, Sandiego. Preview the line-up and save it on soundcheck.
+LED presents Murda Beatz [House Set] at Spin on Fri 23 Oct, San Diego. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

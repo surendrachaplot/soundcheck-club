@@ -1,6 +1,6 @@
 # ZeeZout ADE - Friday Daytime at Het Rijk van de Keizer
 
-ZeeZout ADE - Friday Daytime at Het Rijk van de Keizer on Fri 23 Oct, Amsterdam. 11 acts on the bill: CARISTA, DjRUM, Eris Drew and Identified Patient and 7 more. Preview the line-up and save it on soundcheck.
+ZeeZout ADE - Friday Daytime at Het Rijk van de Keizer on Fri 23 Oct, Amsterdam. 11 artists on the bill: CARISTA, DjRUM, Eris Drew and Identified Patient and 7 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

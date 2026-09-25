@@ -1,6 +1,6 @@
 # Open Decks with ceviché & LIFE AFTER TRANCE at SILO
 
-Open Decks with ceviché & LIFE AFTER TRANCE at SILO on Tue 29 Sept, Newyorkcity. 1 act on the bill: ceviché. Techno and House. Preview the line-up and save it on soundcheck.
+Open Decks with ceviché & LIFE AFTER TRANCE at SILO on Tue 29 Sept, New York City. 1 artist on the bill: ceviché. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

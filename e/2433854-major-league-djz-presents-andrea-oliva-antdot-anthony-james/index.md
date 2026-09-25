@@ -1,6 +1,6 @@
 # Major League Djz presents: Andrea Oliva, Antdot, Anthony James at Chinois Ibiza
 
-Major League Djz presents: Andrea Oliva, Antdot, Anthony James at Chinois Ibiza on Fri 25 Sept, Ibiza. 4 acts on the bill: Andrea Oliva, Antdot, Anthony James and Major League Djz. House and Afro House. Preview the line-up and save it on soundcheck.
+Major League Djz presents: Andrea Oliva, Antdot, Anthony James at Chinois Ibiza on Fri 25 Sept, Ibiza. 4 artists on the bill: Andrea Oliva, Antdot, Anthony James and Major League Djz. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

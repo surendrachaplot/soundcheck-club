@@ -1,6 +1,6 @@
 # Volens Chorus: DJ Slugo at Sneaky Pete's
 
-Volens Chorus: DJ Slugo at Sneaky Pete's on Sat 24 Oct, Edinburgh. 2 acts on the bill: DJ Slugo and Lara Sinclair. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Volens Chorus: DJ Slugo at Sneaky Pete's on Sat 24 Oct, Edinburgh. 2 artists on the bill: DJ Slugo and Lara Sinclair. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

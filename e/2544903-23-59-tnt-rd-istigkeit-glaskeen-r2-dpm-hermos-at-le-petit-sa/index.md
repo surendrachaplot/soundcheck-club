@@ -1,6 +1,6 @@
 # 23:59: TNT, RDØ, Istigkeit, Glaskeen - R2: DPMØ, HERMOS at Le Petit Salon
 
-23:59: TNT, RDØ, Istigkeit, Glaskeen - R2: DPMØ, HERMOS at Le Petit Salon on Fri 20 Nov, Lyon. 3 acts on the bill: Glaskeen, Istigkeit and tnt (1). Techno. Preview the line-up and save it on soundcheck.
+23:59: TNT, RDØ, Istigkeit, Glaskeen - R2: DPMØ, HERMOS at Le Petit Salon on Fri 20 Nov, Lyon. 3 artists on the bill: Glaskeen, Istigkeit and tnt. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Cris Herrera is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Spin, San Diego on Sat, 10 Oct 2026.
 
-Cris Herrera is a house and deep house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Amsterdam, Detroit, Sandiego and Sanfrancisco. Often billed alongside Paul Najera, Boys Don't Disco and Oscar P. Next up: Spin, Sandiego on Sat 10 Oct.
+Cris Herrera is a house and deep house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Amsterdam, Detroit, San Diego and San Francisco/Oakland. Often billed alongside Paul Najera, Boys Don't Disco and Oscar P. Next up: Spin, San Diego on Sat 10 Oct.
 
 ## Upcoming shows
 

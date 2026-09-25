@@ -1,6 +1,6 @@
 # Sankeys Saturdays at Sankeys
 
-Sankeys Saturdays on Sat 26 Sept, Manchester. 3 acts on the bill: Low Steppa, Mike Morrisey and Pirate Copy. House. Preview the line-up and save it on soundcheck.
+Sankeys Saturdays on Sat 26 Sept, Manchester. 3 artists on the bill: Low Steppa, Mike Morrisey and Pirate Copy. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

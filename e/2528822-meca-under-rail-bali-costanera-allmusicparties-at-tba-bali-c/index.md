@@ -1,6 +1,6 @@
 # Meca - Under Rail, Bali Costanera - ALLMusicParties at TBA - Bali, Costanera
 
-Meca - Under Rail, Bali Costanera - ALLMusicParties at TBA - Bali, Costanera on Sat 26 Sept, Buenosaires. 1 act on the bill: Meca. House. Preview the line-up and save it on soundcheck.
+Meca - Under Rail, Bali Costanera - ALLMusicParties at TBA - Bali, Costanera on Sat 26 Sept, Buenos Aires. 1 artist on the bill: Meca. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

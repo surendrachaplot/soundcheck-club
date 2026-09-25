@@ -1,8 +1,8 @@
 # Boris Brejcha
 
-Boris Brejcha is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Küçükçiftlik Park, Istanbul on Sat, 26 Sept 2026.
+Boris Brejcha is a Techno and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Küçükçiftlik Park, Istanbul on Sat, 26 Sept 2026.
 
-Boris Brejcha is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Austin and Bali and 46 more. Often billed alongside Moritz Hofbauer, Deniz Bul and Ann Clue. Next up: Küçükçiftlik Park, Istanbul on Sat 26 Sept.
+Boris Brejcha is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Moritz Hofbauer, Deniz Bul and Ann Clue. Next up: Küçükçiftlik Park, Istanbul on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Boris Brejcha is a techno and minimal techno artist based in Germany, tracked on
 | Sat, 26 Sept 2026 | Küçükçiftlik Park | Istanbul |
 | Sun, 4 Oct 2026 | TBA - Portugal | Lisbon |
 | Sat, 24 Oct 2026 | Theater Amsterdam | Amsterdam |
+| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 
 ## Recently played

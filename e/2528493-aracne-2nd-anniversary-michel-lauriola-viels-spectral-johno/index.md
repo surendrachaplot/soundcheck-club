@@ -1,6 +1,6 @@
 # ARACNE 2nd Anniversary - Michel Lauriola, Viels, SPECTRAL & JOHNO at Lasociaciøn
 
-ARACNE 2nd Anniversary - Michel Lauriola, Viels, SPECTRAL & JOHNO at Lasociaciøn on Fri 30 Oct, Madrid. 4 acts on the bill: C.R.Y.D, KTV (ES), Michel Lauriola and Viels. Techno and Electronica. Preview the line-up and save it on soundcheck.
+ARACNE 2nd Anniversary - Michel Lauriola, Viels, SPECTRAL & JOHNO at Lasociaciøn on Fri 30 Oct, Madrid. 4 artists on the bill: C.R.Y.D, KTV (ES), Michel Lauriola and Viels. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

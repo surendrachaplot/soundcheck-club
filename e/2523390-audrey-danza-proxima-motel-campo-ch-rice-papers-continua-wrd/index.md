@@ -1,6 +1,6 @@
 # Audrey Danza (Proxima, Motel Campo /CH), Rice Papers (Continua, WRD /IT) hosted by Continua at Azimut Club
 
-Audrey Danza (Proxima, Motel Campo /CH), Rice Papers (Continua, WRD /IT) hosted by Continua at Azimut Club on Fri 23 Oct, Turin. 1 act on the bill: Audrey Danza. Preview the line-up and save it on soundcheck.
+Audrey Danza (Proxima, Motel Campo /CH), Rice Papers (Continua, WRD /IT) hosted by Continua at Azimut Club on Fri 23 Oct, Turin. 1 artist on the bill: Audrey Danza. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

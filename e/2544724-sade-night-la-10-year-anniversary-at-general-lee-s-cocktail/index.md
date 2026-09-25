@@ -1,6 +1,6 @@
 # Sade Night LA 10 Year Anniversary at General Lee's Cocktail House
 
-Sade Night LA 10 Year Anniversary at General Lee's Cocktail House on Thu 1 Oct, Losangeles. House and Balearic. Preview the line-up and save it on soundcheck.
+Sade Night LA 10 Year Anniversary at General Lee's Cocktail House on Thu 1 Oct, Los Angeles. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

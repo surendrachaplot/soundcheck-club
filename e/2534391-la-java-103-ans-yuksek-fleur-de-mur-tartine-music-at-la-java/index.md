@@ -1,6 +1,6 @@
 # La Java 103 Ans: Yuksek, Fleur De Mur, Tartine Music at La Java
 
-La Java 103 Ans: Yuksek, Fleur De Mur, Tartine Music on Sat 17 Oct, Paris. 2 acts on the bill: Fleur De Mur and Yuksek. House and Electro. Preview the line-up and save it on soundcheck.
+La Java 103 Ans: Yuksek, Fleur De Mur, Tartine Music on Sat 17 Oct, Paris. 2 artists on the bill: Fleur De Mur and Yuksek. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

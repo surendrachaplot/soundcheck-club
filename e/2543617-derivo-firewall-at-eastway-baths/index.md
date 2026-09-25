@@ -1,6 +1,6 @@
 # DERIVO: 'firewall' at Eastway Baths
 
-DERIVO: 'firewall' at Eastway Baths on Thu 15 Oct, London. 3 acts on the bill: Chadzing Kung, ChunS!ut and GRE9. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+DERIVO: 'firewall' at Eastway Baths on Thu 15 Oct, London. 3 artists on the bill: Chadzing Kung, ChunS!ut and GRE9. Ambient and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

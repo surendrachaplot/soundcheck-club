@@ -1,6 +1,6 @@
 # ÉLITE EVENTS PRESENTS: MAMBA at DETROIT CLUB
 
-ÉLITE EVENTS PRESENTS: MAMBA at DETROIT CLUB on Sat 24 Oct, Barcelona. 2 acts on the bill: Casanøva and JOANNA DARK. Preview the line-up and save it on soundcheck.
+ÉLITE EVENTS PRESENTS: MAMBA at DETROIT CLUB on Sat 24 Oct, Barcelona. 2 artists on the bill: Casanøva and JOANNA DARK. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

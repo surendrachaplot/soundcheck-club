@@ -1,6 +1,6 @@
 # Decks Down Front with Finding Finley & Henry Wilson at Ernest
 
-Decks Down Front with Finding Finley & Henry Wilson at Ernest on Sat 26 Sept, Newcastle. 1 act on the bill: Henry Wilson. Preview the line-up and save it on soundcheck.
+Decks Down Front with Finding Finley & Henry Wilson at Ernest on Sat 26 Sept, Newcastle. 1 artist on the bill: Henry Wilson. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

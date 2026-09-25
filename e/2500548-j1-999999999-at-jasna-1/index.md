@@ -1,6 +1,6 @@
 # J1 - 999999999 at Jasna 1
 
-J1 - 999999999 at Jasna 1 on Fri 6 Nov, Warsaw. 1 act on the bill: 999999999. Preview the line-up and save it on soundcheck.
+J1 - 999999999 at Jasna 1 on Fri 6 Nov, Warsaw. 1 artist on the bill: 999999999. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

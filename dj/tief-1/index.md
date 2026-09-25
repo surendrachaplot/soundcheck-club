@@ -2,7 +2,7 @@
 
 Tief (1) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Specka, Madrid on Sat, 17 Oct 2026.
 
-Tief (1) is a tech house and house artist based in Spain, tracked on soundcheck, with 39 sets logged across Frankfurt and Madrid. Often billed alongside Chris Figueroa, Roldan and Hot Since 82. Next up: Specka, Madrid on Sat 17 Oct.
+Tief is a tech house and house artist based in Spain, tracked on soundcheck, with 39 sets logged across Frankfurt and Madrid. Often billed alongside Chris Figueroa, Roldan and Hot Since 82. Next up: Specka, Madrid on Sat 17 Oct.
 
 ## Upcoming shows
 

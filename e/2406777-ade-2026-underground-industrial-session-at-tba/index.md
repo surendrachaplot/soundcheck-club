@@ -1,6 +1,6 @@
 # ADE 2026 - Underground Industrial Session at TBA
 
-ADE 2026 - Underground Industrial Session at TBA on Fri 23 Oct, Amsterdam. 4 acts on the bill: Donkerdok, Kade Noir, Levin Schwarz and Trivialmusik. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+ADE 2026 - Underground Industrial Session at TBA on Fri 23 Oct, Amsterdam. 4 artists on the bill: Donkerdok, Kade Noir, Levin Schwarz and Trivialmusik. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

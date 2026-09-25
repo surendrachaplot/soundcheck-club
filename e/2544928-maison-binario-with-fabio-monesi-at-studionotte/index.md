@@ -1,6 +1,6 @@
 # Maison Binario with Fabio Monesi at Studionotte
 
-Maison Binario with Fabio Monesi at Studionotte on Sat 3 Oct, Milan. 5 acts on the bill: Cianfo, Edoardo Tadini, Fabio Monesi and Pustesch and 1 more. Tech House. Preview the line-up and save it on soundcheck.
+Maison Binario with Fabio Monesi at Studionotte on Sat 3 Oct, Milan. 5 artists on the bill: Cianfo, Edoardo Tadini, Fabio Monesi and Pustesch and 1 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

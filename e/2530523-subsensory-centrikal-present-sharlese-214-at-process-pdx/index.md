@@ -1,6 +1,6 @@
 # SubSensory & Centrikal present: Sharlese & 214 at Process PDX
 
-SubSensory & Centrikal present: Sharlese & 214 at Process PDX on Sat 10 Oct, Portland. 3 acts on the bill: 214, Centrikal and Sharlese. Techno and Electro. Preview the line-up and save it on soundcheck.
+SubSensory & Centrikal present: Sharlese & 214 at Process PDX on Sat 10 Oct, Portland. 3 artists on the bill: 214, Centrikal and Sharlese. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

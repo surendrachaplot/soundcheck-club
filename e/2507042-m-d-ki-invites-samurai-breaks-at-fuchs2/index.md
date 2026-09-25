@@ -1,6 +1,6 @@
 # mʊdʌki INVITES Samurai Breaks at Fuchs2
 
-mʊdʌki INVITES Samurai Breaks at Fuchs2 on Sat 10 Oct, Prague. 3 acts on the bill: Dj Alyaz, mʊdʌki and Samurai Breaks. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+mʊdʌki INVITES Samurai Breaks at Fuchs2 on Sat 10 Oct, Prague. 3 artists on the bill: Dj Alyaz, mʊdʌki and Samurai Breaks. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

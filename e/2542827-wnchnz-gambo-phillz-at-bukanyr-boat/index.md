@@ -1,6 +1,6 @@
 # wnchnz, Gambo, Phillz at Bukanyr Boat
 
-wnchnz, Gambo, Phillz at Bukanyr Boat on Sat 24 Oct, Prague. 1 act on the bill: wnchnz. Techno and House. Preview the line-up and save it on soundcheck.
+wnchnz, Gambo, Phillz at Bukanyr Boat on Sat 24 Oct, Prague. 1 artist on the bill: wnchnz. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

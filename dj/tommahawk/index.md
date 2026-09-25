@@ -2,7 +2,7 @@
 
 Tommahawk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Die Rakete, Nürnberg on Sat, 26 Sept 2026.
 
-Tommahawk is a techno and house artist based in Germany, tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside Sabura, MikAH and A.N.I.. Next up: Die Rakete, Nurnberg on Sat 26 Sept.
+Tommahawk is a techno and house artist based in Germany, tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside Sabura, MikAH and A.N.I.. Next up: Die Rakete, Nürnberg on Sat 26 Sept.
 
 ## Upcoming shows
 

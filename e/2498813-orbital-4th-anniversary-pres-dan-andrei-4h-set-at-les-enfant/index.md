@@ -1,6 +1,6 @@
 # Orbital 4th Anniversary pres. Dan Andrei 4h set at Les Enfants Brillants
 
-Orbital 4th Anniversary pres. Dan Andrei 4h set at Les Enfants Brillants on Sat 26 Sept, Barcelona. 1 act on the bill: Dan Andrei. Preview the line-up and save it on soundcheck.
+Orbital 4th Anniversary pres. Dan Andrei 4h set at Les Enfants Brillants on Sat 26 Sept, Barcelona. 1 artist on the bill: Dan Andrei. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

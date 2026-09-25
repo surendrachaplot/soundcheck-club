@@ -1,6 +1,6 @@
 # Granville Collective - Halloween w/ Binh at Warehouse 34
 
-Granville Collective - Halloween w/ Binh at Warehouse 34 on Fri 30 Oct, Newcastle. 2 acts on the bill: Binh and JYE.. House and Electro. Preview the line-up and save it on soundcheck.
+Granville Collective - Halloween w/ Binh at Warehouse 34 on Fri 30 Oct, Newcastle. 2 artists on the bill: Binh and JYE.. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

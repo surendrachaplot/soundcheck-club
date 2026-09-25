@@ -2,7 +2,7 @@
 
 DJ Nap is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sigurd CPH, Copenhagen on Sat, 3 Oct 2026.
 
-DJ Nap is a techno and house artist based in Denmark, tracked on soundcheck, with 47 sets logged across Berlin, Copenhagen and Newyorkcity. Often billed alongside Tempoarne, Aston and Adexia. Next up: Sigurd CPH, Copenhagen on Sat 3 Oct.
+DJ Nap is a techno and house artist based in Denmark, tracked on soundcheck, with 47 sets logged across Berlin, Copenhagen and New York City. Often billed alongside Tempoarne, Aston and Adexia. Next up: Sigurd CPH, Copenhagen on Sat 3 Oct.
 
 ## Upcoming shows
 

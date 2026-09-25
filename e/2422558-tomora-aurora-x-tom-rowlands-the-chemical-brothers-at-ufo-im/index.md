@@ -1,6 +1,6 @@
 # TOMORA: Aurora X Tom Rowlands (The Chemical Brothers) at UFO im Velodrom
 
-TOMORA: Aurora X Tom Rowlands (The Chemical Brothers) at UFO im Velodrom on Sun 1 Nov, Berlin. 1 act on the bill: Aurora. Electro. Preview the line-up and save it on soundcheck.
+TOMORA: Aurora X Tom Rowlands (The Chemical Brothers) at UFO im Velodrom on Sun 1 Nov, Berlin. 1 artist on the bill: Aurora. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

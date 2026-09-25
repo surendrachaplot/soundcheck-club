@@ -1,6 +1,6 @@
 # Sunset Destination Sooki at Sooki Lounge
 
-Sunset Destination Sooki at Sooki Lounge on Sat 3 Oct, Melbourne. 1 act on the bill: DJ BJ. House and Tech House. Preview the line-up and save it on soundcheck.
+Sunset Destination Sooki at Sooki Lounge on Sat 3 Oct, Melbourne. 1 artist on the bill: DJ BJ. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

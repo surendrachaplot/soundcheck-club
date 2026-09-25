@@ -1,6 +1,6 @@
 # Dosem at Audio SF
 
-Dosem at Audio SF on Fri 20 Nov, Sanfrancisco. Preview the line-up and save it on soundcheck.
+Dosem at Audio SF on Fri 20 Nov, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

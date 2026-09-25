@@ -1,6 +1,6 @@
 # Curls at Système
 
-Curls at Système on Sun 11 Oct, Montreal. 1 act on the bill: CUERPOS. Preview the line-up and save it on soundcheck.
+Curls at Système on Sun 11 Oct, Montreal. 2 artists on the bill: CUERPOS and The Curls Crew. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Curls at Système on Sun 11 Oct, Montreal. 1 act on the bill: CUERPOS. Preview t
 ## Line-up
 
 - CUERPOS
+- The Curls Crew
 
 *Source: [soundcheck](https://soundcheck.club/e/2544471-curls-at-syst-me/)*

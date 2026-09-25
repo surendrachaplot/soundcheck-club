@@ -2,7 +2,7 @@
 
 The Yard is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Tempo & Resonate pres. Brian Tappert & Grant Nelson" on Sat, 26 Sept 2026.
 
-The Yard is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including 13Ø4, Adam Freeland, Alex Q (3) and Black Loops and 2 more. Browse upcoming dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
+The Yard is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including 13Ø4, Adam Freeland, Alex Q and Black Loops and 2 more. Browse upcoming dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
 
 ## What's on
 

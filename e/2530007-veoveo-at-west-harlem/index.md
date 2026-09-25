@@ -1,6 +1,6 @@
 # VeoVeo at West Harlem
 
-VeoVeo at West Harlem on Sat 17 Oct, Kyoto. 4 acts on the bill: akii, Lomax, Ryogo and Salem (3). Dub and Broken Beat. Preview the line-up and save it on soundcheck.
+VeoVeo at West Harlem on Sat 17 Oct, Kyoto. 4 artists on the bill: akii, Lomax, Ryogo and Salem. Dub and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

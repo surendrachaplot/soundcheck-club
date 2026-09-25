@@ -1,6 +1,6 @@
 # Nico Moreno at Poolen
 
-Nico Moreno at Poolen on Fri 16 Oct, Copenhagen. 1 act on the bill: Nico Moreno. Techno. Preview the line-up and save it on soundcheck.
+Nico Moreno at Poolen on Fri 16 Oct, Copenhagen. 1 artist on the bill: Nico Moreno. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

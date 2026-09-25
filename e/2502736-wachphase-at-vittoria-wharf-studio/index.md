@@ -1,6 +1,6 @@
 # Wachphase at Vittoria Wharf Studio
 
-Wachphase at Vittoria Wharf Studio on Sun 27 Sept, London. 7 acts on the bill: CAMIVINA, LIL DARK ONE, Oculus. and Tara Erizo and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Wachphase at Vittoria Wharf Studio on Sun 27 Sept, London. 7 artists on the bill: CAMIVINA, LIL DARK ONE, Oculus. and Tara Erizo and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

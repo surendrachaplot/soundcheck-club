@@ -1,6 +1,6 @@
 # PervertMX: FLINTA at TBA
 
-PervertMX: FLINTA at TBA on Sat 10 Oct, Mexicocity. 5 acts on the bill: INAKARA, Magnolia Coronado, Mystery Affair and NEGRACONDA and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+PervertMX: FLINTA at TBA on Sat 10 Oct, Mexico City. 5 artists on the bill: INAKARA, Magnolia Coronado, Mystery Affair and NEGRACONDA and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

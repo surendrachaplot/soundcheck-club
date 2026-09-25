@@ -1,6 +1,6 @@
 # Ignez, Daybreak at Signal
 
-Ignez, Daybreak at Signal on Thu 24 Sept, Newyorkcity. 2 acts on the bill: Daybreak and Ignez. Preview the line-up and save it on soundcheck.
+Ignez, Daybreak at Signal on Thu 24 Sept, New York City. 2 artists on the bill: Daybreak and Ignez. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

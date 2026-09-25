@@ -1,6 +1,6 @@
 # Dubtopia 15 years in ZW at Zentralwäscherei
 
-Dubtopia 15 years in ZW at Zentralwäscherei on Sat 10 Oct, Zurich. 5 acts on the bill: CRi, F1-PV, ojoo and Phrex and 1 more. Dub and Dubstep. Preview the line-up and save it on soundcheck.
+Dubtopia 15 years in ZW at Zentralwäscherei on Sat 10 Oct, Zurich. 5 artists on the bill: CRi, F1-PV, ojoo and Phrex and 1 more. Dub and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # E11EVEN x Cipriani: All Hallows' Eve at Cipriani Wall Street
 
-E11EVEN x Cipriani: All Hallows' Eve at Cipriani Wall Street on Sat 31 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+E11EVEN x Cipriani: All Hallows' Eve at Cipriani Wall Street on Sat 31 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

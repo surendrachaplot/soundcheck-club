@@ -1,6 +1,6 @@
 # DINNER & DANCE at TBA - Bar Lina
 
-DINNER & DANCE at TBA - Bar Lina on Fri 25 Sept, London. 1 act on the bill: Christopher Commander. House and Disco. Preview the line-up and save it on soundcheck.
+DINNER & DANCE at TBA - Bar Lina on Fri 25 Sept, London. 1 artist on the bill: Christopher Commander. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

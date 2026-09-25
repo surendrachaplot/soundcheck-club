@@ -1,6 +1,6 @@
 # friends.zone mit Fritz Funke & Ian Fog at Minimal Bar
 
-friends.zone mit Fritz Funke & Ian Fog at Minimal Bar on Fri 13 Nov, Berlin. 1 act on the bill: Fritz Funke. Preview the line-up and save it on soundcheck.
+friends.zone mit Fritz Funke & Ian Fog at Minimal Bar on Fri 13 Nov, Berlin. 1 artist on the bill: Fritz Funke. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

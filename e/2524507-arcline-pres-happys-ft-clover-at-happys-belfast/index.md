@@ -1,6 +1,6 @@
 # ARCLINE Pres. Happys ft. CLOVER at Happys Belfast
 
-ARCLINE Pres. Happys ft. CLOVER at Happys Belfast on Fri 2 Oct, Belfast. 3 acts on the bill: GUZZ., Peter James and Skellyoz. Trance and House. Preview the line-up and save it on soundcheck.
+ARCLINE Pres. Happys ft. CLOVER at Happys Belfast on Fri 2 Oct, Belfast. 3 artists on the bill: GUZZ., Peter James and Skellyoz. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Alta Fidelidad 3D x Diggin' x Mirador x 24seven - 3 stages experience - 17:30-03:00 at Seaseaclub Barcelona
 
-Alta Fidelidad 3D x Diggin' x Mirador x 24seven - 3 stages experience - 17:30-03:00 at Seaseaclub Barcelona on Sat 10 Oct, Barcelona. 11 acts on the bill: arnald, Camion Bazar, Diesco and Lamache and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
+Alta Fidelidad 3D x Diggin' x Mirador x 24seven - 3 stages experience - 17:30-03:00 at Seaseaclub Barcelona on Sat 10 Oct, Barcelona. 11 artists on the bill: arnald, Camion Bazar, Diesco and Lamache and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

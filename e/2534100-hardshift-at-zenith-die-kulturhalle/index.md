@@ -1,6 +1,6 @@
 # Hardshift at Zenith - Die Kulturhalle
 
-Hardshift at Zenith - Die Kulturhalle on Fri 4 Dec, Munich. 21 acts on the bill: Angerfist, Breathless, Dual Damage and Evil Activities and 17 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Hardshift at Zenith - Die Kulturhalle on Fri 4 Dec, Munich. 21 artists on the bill: Angerfist, Breathless, Dual Damage and Evil Activities and 17 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

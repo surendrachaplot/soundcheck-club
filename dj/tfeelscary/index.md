@@ -2,7 +2,7 @@
 
 Tfeelscary is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Acadana, Hong Kong on Sat, 3 Oct 2026.
 
-Tfeelscary is a techno and bass artist based in China, tracked on soundcheck, with 11 sets logged across Hongkong and Tokyo. Often billed alongside Dan-neo, MarcoYu and Nanogram. Next up: Acadana, Hongkong on Sat 3 Oct.
+Tfeelscary is a techno and bass artist based in China, tracked on soundcheck, with 11 sets logged across Hong Kong and Tokyo. Often billed alongside Dan-neo, MarcoYu and Nanogram. Next up: Acadana, Hong Kong on Sat 3 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # NewLife + Jeremy Sole at General Lee’s Bamboo Room
 
-NewLife + Jeremy Sole at General Lee’s Bamboo Room on Thu 24 Sept, Losangeles. 1 act on the bill: Jeremy Sole. House and Disco. Preview the line-up and save it on soundcheck.
+NewLife + Jeremy Sole at General Lee’s Bamboo Room on Thu 24 Sept, Los Angeles. 1 artist on the bill: Jeremy Sole. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

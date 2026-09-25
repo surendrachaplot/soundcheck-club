@@ -1,6 +1,6 @@
 # Petar Dundov / LDG x MIND OFF at VENT
 
-Petar Dundov / LDG x MIND OFF at VENT on Sat 17 Oct, Tokyo. 6 acts on the bill: Dani Savant, Petar Dundov, Raul (2) and Shelly and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Petar Dundov / LDG x MIND OFF at VENT on Sat 17 Oct, Tokyo. 6 artists on the bill: Dani Savant, Petar Dundov, Raul and Shelly and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

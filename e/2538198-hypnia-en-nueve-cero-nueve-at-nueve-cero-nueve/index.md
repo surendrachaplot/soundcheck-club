@@ -1,6 +1,6 @@
 # HYPNIA en nueve cero nueve at nueve cero nueve
 
-HYPNIA en nueve cero nueve on Fri 2 Oct, Mexicocity. 2 acts on the bill: Cinema Paradisco and TRIVEAT. House. Preview the line-up and save it on soundcheck.
+HYPNIA en nueve cero nueve on Fri 2 Oct, Mexico City. 2 artists on the bill: Cinema Paradisco and TRIVEAT. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

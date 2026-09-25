@@ -2,7 +2,7 @@
 
 TBA - Location Link in Bio on Instagram @recollectunderground is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "[CANCELLED] RECOLLECT UNDERGROUND" on Thu, 24 Sept 2026.
 
-TBA - Location Link in Bio on Instagram @recollectunderground is a music venue in Losangeles listed on soundcheck. 2 upcoming gigs, with line-ups including Aplex and Plavka. Browse upcoming dates, start times and who's playing.
+TBA - Location Link in Bio on Instagram @recollectunderground is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Aplex and Plavka. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

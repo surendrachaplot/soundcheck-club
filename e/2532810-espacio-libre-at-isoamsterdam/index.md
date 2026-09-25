@@ -1,6 +1,6 @@
 # Espacio Libre at ISOamsterdam
 
-Espacio Libre at ISOamsterdam on Fri 2 Oct, Amsterdam. 4 acts on the bill: Bear Bones, Lay Low, Serena, Stefhanja and Xterea. Preview the line-up and save it on soundcheck.
+Espacio Libre at ISOamsterdam on Fri 2 Oct, Amsterdam. 4 artists on the bill: Bear Bones, Lay Low, Serena, Stefhanja and Xterea. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Francis Mercier at Pacha New York
 
-Francis Mercier at Pacha New York on Sun 11 Oct, Newyorkcity. 4 acts on the bill: Francis Mercier, Kimonos, Kolsch and Oktave. Preview the line-up and save it on soundcheck.
+Francis Mercier at Pacha New York on Sun 11 Oct, New York City. 4 artists on the bill: Francis Mercier, Kimonos, Kolsch and Oktave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

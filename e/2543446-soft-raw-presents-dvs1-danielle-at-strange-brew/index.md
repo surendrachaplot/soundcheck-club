@@ -1,6 +1,6 @@
 # Soft Raw presents DVS1 & Danielle at Strange Brew
 
-Soft Raw presents DVS1 & Danielle at Strange Brew on Fri 2 Oct, Bristol. 2 acts on the bill: Danielle and DVS1. Techno and House. Preview the line-up and save it on soundcheck.
+Soft Raw presents DVS1 & Danielle at Strange Brew on Fri 2 Oct, Bristol. 2 artists on the bill: Danielle and DVS1. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

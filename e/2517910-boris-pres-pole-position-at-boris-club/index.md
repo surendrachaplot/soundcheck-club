@@ -1,6 +1,6 @@
 # Boris pres. Pole Position at BORIS CLUB
 
-Boris pres. Pole Position at BORIS CLUB on Sat 26 Sept, Barcelona. 2 acts on the bill: Marcel BS and Pole Position. House. Preview the line-up and save it on soundcheck.
+Boris pres. Pole Position at BORIS CLUB on Sat 26 Sept, Barcelona. 2 artists on the bill: Marcel BS and Pole Position. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TUNNELWERK: ACID NIGHT - ft NIGHTVVITCH & XSB-R at Jade
 
-TUNNELWERK: ACID NIGHT - ft NIGHTVVITCH & XSB-R at Jade on Thu 15 Oct, Newyorkcity. 2 acts on the bill: NIGHTVVITCH and XSB-R. Techno and Acid. Preview the line-up and save it on soundcheck.
+TUNNELWERK: ACID NIGHT - ft NIGHTVVITCH & XSB-R at Jade on Thu 15 Oct, New York City. 2 artists on the bill: NIGHTVVITCH and XSB-R. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

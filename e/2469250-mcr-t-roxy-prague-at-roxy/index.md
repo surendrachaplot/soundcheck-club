@@ -1,6 +1,6 @@
 # MCR-T ∞ ROXY Prague at Roxy
 
-MCR-T ∞ ROXY Prague at Roxy on Fri 27 Nov, Prague. 1 act on the bill: MCR-T. Acid and Ghetto Tech. Preview the line-up and save it on soundcheck.
+MCR-T ∞ ROXY Prague at Roxy on Fri 27 Nov, Prague. 1 artist on the bill: MCR-T. Acid and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

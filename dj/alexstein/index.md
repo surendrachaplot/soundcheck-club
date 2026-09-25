@@ -2,7 +2,7 @@
 
 Alex Stein is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Die Rakete, Nürnberg on Fri, 25 Sept 2026.
 
-Alex Stein is a techno and tech house artist based in Germany, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Victor Ruiz, Maurice Mino and AM.I. Next up: Die Rakete, Nurnberg on Fri 25 Sept.
+Alex Stein is a techno and tech house artist based in Germany, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Victor Ruiz, Maurice Mino and AM.I. Next up: Die Rakete, Nürnberg on Fri 25 Sept.
 
 ## Upcoming shows
 

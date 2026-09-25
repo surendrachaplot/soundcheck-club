@@ -1,6 +1,6 @@
 # maniac&me & Freunde at Minimal Bar
 
-maniac&me & Freunde at Minimal Bar on Sat 31 Oct, Berlin. 1 act on the bill: maniac&me. Preview the line-up and save it on soundcheck.
+maniac&me & Freunde at Minimal Bar on Sat 31 Oct, Berlin. 1 artist on the bill: maniac&me. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

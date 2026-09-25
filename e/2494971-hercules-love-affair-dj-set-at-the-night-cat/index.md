@@ -1,6 +1,6 @@
 # Hercules & Love Affair (DJ Set) at The Night Cat
 
-Hercules & Love Affair (DJ Set) at The Night Cat on Sat 14 Nov, Melbourne. 1 act on the bill: Hercules & Love Affair. House and Disco. Preview the line-up and save it on soundcheck.
+Hercules & Love Affair (DJ Set) at The Night Cat on Sat 14 Nov, Melbourne. 1 artist on the bill: Hercules & Love Affair. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

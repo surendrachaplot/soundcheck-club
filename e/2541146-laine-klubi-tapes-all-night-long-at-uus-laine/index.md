@@ -1,6 +1,6 @@
 # Laine Klubiöö: Tapes All Night Long at Uus Laine
 
-Laine Klubiöö: Tapes All Night Long at Uus Laine on Fri 20 Nov, Tallinn. 1 act on the bill: Tapes. Bass and Dub. Preview the line-up and save it on soundcheck.
+Laine Klubiöö: Tapes All Night Long at Uus Laine on Fri 20 Nov, Tallinn. 1 artist on the bill: Tapes. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

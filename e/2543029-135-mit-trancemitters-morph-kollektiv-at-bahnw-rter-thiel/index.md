@@ -1,6 +1,6 @@
 # 135+ mit Trancemitters & Morph Kollektiv at Bahnwärter Thiel
 
-135+ mit Trancemitters & Morph Kollektiv at Bahnwärter Thiel on Thu 22 Oct, Munich. 1 act on the bill: aufleguan. Preview the line-up and save it on soundcheck.
+135+ mit Trancemitters & Morph Kollektiv at Bahnwärter Thiel on Thu 22 Oct, Munich. 1 artist on the bill: aufleguan. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

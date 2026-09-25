@@ -1,6 +1,6 @@
 # Redirect: Clarisa Kimskii, KYRUH, Adrian Hex, HNDRNC, Bags, Erik Braun, skoglund at Good Room
 
-Redirect: Clarisa Kimskii, KYRUH, Adrian Hex, HNDRNC, Bags, Erik Braun, skoglund at Good Room on Thu 24 Sept, Newyorkcity. 6 acts on the bill: Adrian Hex, Clarisa Kimskii, Erik Braun and HNDRNC and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Redirect: Clarisa Kimskii, KYRUH, Adrian Hex, HNDRNC, Bags, Erik Braun, skoglund at Good Room on Thu 24 Sept, New York City. 6 artists on the bill: Adrian Hex, Clarisa Kimskii, Erik Braun and HNDRNC and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

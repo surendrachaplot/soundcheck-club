@@ -1,6 +1,6 @@
 # Bleep Dreams presents A'Bear, Current Mood Girl, Lia Mice and Zaron at King Alfred Phoenix Theatre
 
-Bleep Dreams presents A'Bear, Current Mood Girl, Lia Mice and Zaron at King Alfred Phoenix Theatre on Sat 12 Dec, London. 3 acts on the bill: A'Bear, CURRENTMOODGIRL and Lia Mice. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Bleep Dreams presents A'Bear, Current Mood Girl, Lia Mice and Zaron at King Alfred Phoenix Theatre on Sat 12 Dec, London. 3 artists on the bill: A'Bear, CURRENTMOODGIRL and Lia Mice. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

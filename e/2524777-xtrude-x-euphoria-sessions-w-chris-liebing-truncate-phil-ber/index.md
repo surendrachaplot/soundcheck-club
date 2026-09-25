@@ -1,6 +1,6 @@
 # XTRUDE x EUPHORIA SESSIONS w/ Chris Liebing, Truncate, Phil Berg live, Elli Acula, Angel D'lite at RSO.BERLIN
 
-XTRUDE x EUPHORIA SESSIONS w/ Chris Liebing, Truncate, Phil Berg live, Elli Acula, Angel D'lite at RSO.BERLIN on Sat 17 Oct, Berlin. 12 acts on the bill: Alfred Czital, Andy Garvey, Angel D'lite and Chris Liebing and 8 more. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+XTRUDE x EUPHORIA SESSIONS w/ Chris Liebing, Truncate, Phil Berg live, Elli Acula, Angel D'lite at RSO.BERLIN on Sat 17 Oct, Berlin. 12 artists on the bill: Alfred Czital, Andy Garvey, Angel D'lite and Chris Liebing and 8 more. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

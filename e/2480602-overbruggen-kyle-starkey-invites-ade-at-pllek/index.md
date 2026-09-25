@@ -1,6 +1,6 @@
 # Overbruggen Kyle Starkey Invites - ADE at Pllek
 
-Overbruggen Kyle Starkey Invites - ADE at Pllek on Sat 24 Oct, Amsterdam. 10 acts on the bill: Club Angel, Entasia, Inafekt and Kyle Starkey and 6 more. Preview the line-up and save it on soundcheck.
+Overbruggen Kyle Starkey Invites - ADE at Pllek on Sat 24 Oct, Amsterdam. 10 artists on the bill: Club Angel, Entasia, Inafekt and Kyle Starkey and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

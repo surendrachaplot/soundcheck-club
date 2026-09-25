@@ -1,6 +1,6 @@
 # Stanton Warriors All Evening Long at Cupra City Garage Manchester
 
-Stanton Warriors All Evening Long at Cupra City Garage Manchester on Sat 17 Oct, Manchester. 1 act on the bill: Stanton Warriors. Breakbeat. Preview the line-up and save it on soundcheck.
+Stanton Warriors All Evening Long at Cupra City Garage Manchester on Sat 17 Oct, Manchester. 1 artist on the bill: Stanton Warriors. Breakbeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

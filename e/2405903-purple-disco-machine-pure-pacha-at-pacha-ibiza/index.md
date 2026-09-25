@@ -1,6 +1,6 @@
 # Purple Disco Machine - PURE PACHA at Pacha Ibiza
 
-Purple Disco Machine - PURE PACHA at Pacha Ibiza on Thu 24 Sept, Ibiza. 3 acts on the bill: david bay, Purple Disco Machine and Todd Terje. House and Disco. Preview the line-up and save it on soundcheck.
+Purple Disco Machine - PURE PACHA at Pacha Ibiza on Thu 24 Sept, Ibiza. 3 artists on the bill: david bay, Purple Disco Machine and Todd Terje. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

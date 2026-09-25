@@ -1,6 +1,6 @@
 # The After at TBA
 
-The After at TBA on Sun 27 Sept, Saopaulo. 2 acts on the bill: André Luki and VITORINO. Techno. Preview the line-up and save it on soundcheck.
+The After at TBA on Sun 27 Sept, Sao Paulo. 2 artists on the bill: André Luki and VITORINO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

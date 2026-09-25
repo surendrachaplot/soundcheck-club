@@ -1,6 +1,6 @@
 # Ivy Lab: A Farewell Tour at Kassa Boat
 
-Ivy Lab: A Farewell Tour at Kassa Boat on Sat 14 Nov, Budapest. 1 act on the bill: Ivy Lab. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Ivy Lab: A Farewell Tour at Kassa Boat on Sat 14 Nov, Budapest. 1 artist on the bill: Ivy Lab. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

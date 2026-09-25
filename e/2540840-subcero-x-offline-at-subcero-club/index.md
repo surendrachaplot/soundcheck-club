@@ -1,6 +1,6 @@
 # Subcero x Offline at Subcero Club
 
-Subcero x Offline at Subcero Club on Fri 23 Oct, Madrid. 3 acts on the bill: Gäbrø, Joaquín Texeira and Jorge Padilla. Electronica. Preview the line-up and save it on soundcheck.
+Subcero x Offline at Subcero Club on Fri 23 Oct, Madrid. 3 artists on the bill: Gäbrø, Joaquín Texeira and Jorge Padilla. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

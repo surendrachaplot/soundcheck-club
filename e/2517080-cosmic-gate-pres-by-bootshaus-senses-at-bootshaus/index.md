@@ -1,6 +1,6 @@
 # Cosmic Gate pres by Bootshaus & Senses at Bootshaus
 
-Cosmic Gate pres by Bootshaus & Senses on Sat 17 Oct, Cologne. 2 acts on the bill: Cosmic Gate and Yotto. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Cosmic Gate pres by Bootshaus & Senses on Sat 17 Oct, Cologne. 2 artists on the bill: Cosmic Gate and Yotto. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

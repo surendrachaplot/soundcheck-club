@@ -2,7 +2,7 @@
 
 ZDBT is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Montreal on Fri, 25 Sept 2026.
 
-ZDBT is a techno and house artist based in Canada, tracked on soundcheck, with 53 sets logged across Detroit, Mexicocity, Montreal and Newyorkcity and 3 more. Often billed alongside Syd Woz, Dairy Free and Dane. Next up: TBA, Montreal on Fri 25 Sept.
+ZDBT is a techno and house artist based in Canada, tracked on soundcheck, with 53 sets logged across Detroit, Mexico City, Montreal and New York City and 3 more. Often billed alongside Syd Woz, Dairy Free and Dane. Next up: TBA, Montreal on Fri 25 Sept.
 
 ## Upcoming shows
 

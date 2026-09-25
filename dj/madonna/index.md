@@ -1,13 +1,14 @@
 # Madonna
 
-Madonna is a Pop and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Oxford Hotel, Sydney on Sat, 3 Oct 2026.
+Madonna is a Pop and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Labüsch-Bar, Winterthur, Zurich on Sat, 26 Sept 2026.
 
-Madonna is a pop and disco artist based in United States of America, tracked on soundcheck, with 8 sets logged across London, Melbourne, Sydney and Utrecht and 1 more. Often billed alongside Kylie Minogue, Andy C and BLUR. Next up: The Oxford Hotel, Sydney on Sat 3 Oct.
+Madonna is a pop and club artist based in United States of America, tracked on soundcheck, with 9 sets logged across London, Melbourne, Sydney and Utrecht and 2 more. Often billed alongside Kylie Minogue, Andy C and BLUR. Next up: Labüsch-Bar, Winterthur, Zurich on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Labüsch-Bar, Winterthur | Zurich |
 | Sat, 3 Oct 2026 | The Oxford Hotel | Sydney |
 
 ## Recently played

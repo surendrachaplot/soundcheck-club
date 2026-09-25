@@ -1,6 +1,6 @@
 # LINES & DOTS at Sigma
 
-LINES & DOTS at Sigma on Thu 8 Oct, Ibiza. 1 act on the bill: Luigi Rossi. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+LINES & DOTS at Sigma on Thu 8 Oct, Ibiza. 1 artist on the bill: Luigi Rossi. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

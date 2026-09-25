@@ -2,7 +2,7 @@
 
 Late London is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Barbary, Philadelphia on Fri, 25 Sept 2026.
 
-Late London is a house and tech house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Miami, Philadelphia and Washingtondc. Often billed alongside Fátima, J. Park and Jackie Hollander. Next up: The Barbary, Philadelphia on Fri 25 Sept.
+Late London is a house and tech house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Miami, Philadelphia and Washington DC. Often billed alongside Fátima, J. Park and Jackie Hollander. Next up: The Barbary, Philadelphia on Fri 25 Sept.
 
 ## Upcoming shows
 

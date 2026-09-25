@@ -1,6 +1,6 @@
 # FLINTA* FRIDAY with Morphena, Lisek, DJ vonnebenan at Monarch
 
-FLINTA* FRIDAY with Morphena, Lisek, DJ vonnebenan at Monarch on Fri 16 Oct, Berlin. 5 acts on the bill: djvonnebenan, Lisek, M4RY and Maschérie and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+FLINTA* FRIDAY with Morphena, Lisek, DJ vonnebenan at Monarch on Fri 16 Oct, Berlin. 5 artists on the bill: djvonnebenan, Lisek, M4RY and Maschérie and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

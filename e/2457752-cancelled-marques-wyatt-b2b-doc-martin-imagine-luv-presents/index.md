@@ -1,6 +1,6 @@
 # [CANCELLED] Marques Wyatt B2B Doc Martin - Imagine Luv presents: A Celebration of House Music at California Plaza
 
-[CANCELLED] Marques Wyatt B2B Doc Martin - Imagine Luv presents: A Celebration of House Music at California Plaza on Sat 10 Oct, Losangeles. 5 acts on the bill: Big Cee, David Harness, Doc Martin and Marques Wyatt and 1 more. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+[CANCELLED] Marques Wyatt B2B Doc Martin - Imagine Luv presents: A Celebration of House Music at California Plaza on Sat 10 Oct, Los Angeles. 5 artists on the bill: Big Cee, David Harness, Doc Martin and Marques Wyatt and 1 more. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Marco Strous at Q Nightclub
 
-Marco Strous at Q Nightclub on Sat 10 Oct, Seattle. 1 act on the bill: Marco Strous. Preview the line-up and save it on soundcheck.
+Marco Strous at Q Nightclub on Sat 10 Oct, Seattle. 1 artist on the bill: Marco Strous. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

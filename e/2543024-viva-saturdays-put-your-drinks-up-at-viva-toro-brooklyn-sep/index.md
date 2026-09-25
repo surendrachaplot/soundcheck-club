@@ -1,6 +1,6 @@
 # Viva Saturdays: Put Your Drinks Up! at Viva Toro Brooklyn – Sep 26 at Viva Toro Nightclub
 
-Viva Saturdays: Put Your Drinks Up! at Viva Toro Brooklyn – Sep 26 at Viva Toro Nightclub on Sat 26 Sept, Newyorkcity. 1 act on the bill: Alex The Kid. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
+Viva Saturdays: Put Your Drinks Up! at Viva Toro Brooklyn – Sep 26 at Viva Toro Nightclub on Sat 26 Sept, New York City. 1 artist on the bill: Alex The Kid. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

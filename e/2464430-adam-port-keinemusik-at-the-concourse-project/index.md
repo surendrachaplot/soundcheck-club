@@ -1,6 +1,6 @@
 # Adam Port (KEINEMUSIK) at The Concourse Project
 
-Adam Port (KEINEMUSIK) at The Concourse Project on Fri 16 Oct, Austin. 1 act on the bill: Adam Port. Preview the line-up and save it on soundcheck.
+Adam Port (KEINEMUSIK) at The Concourse Project on Fri 16 Oct, Austin. 1 artist on the bill: Adam Port. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

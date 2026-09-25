@@ -1,6 +1,6 @@
 # 冥界 Vol.2 - 冥界と紡ぐBIRTHDAY BASH - TECHNO / HOUSE / BASS / REGGAETON / HIPHOP / UKG - at ZEROTOKYO
 
-冥界 Vol.2 - 冥界と紡ぐBIRTHDAY BASH - TECHNO / HOUSE / BASS / REGGAETON / HIPHOP / UKG - at ZEROTOKYO on Thu 24 Sept, Tokyo. 1 act on the bill: Yurushite Nyan. Techno and House. Preview the line-up and save it on soundcheck.
+冥界 Vol.2 - 冥界と紡ぐBIRTHDAY BASH - TECHNO / HOUSE / BASS / REGGAETON / HIPHOP / UKG - at ZEROTOKYO on Thu 24 Sept, Tokyo. 1 artist on the bill: Yurushite Nyan. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # We Don't Like Happy People at Uproar Lounge
 
-We Don't Like Happy People at Uproar Lounge on Fri 2 Oct, Washingtondc. 1 act on the bill: Cate.. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+We Don't Like Happy People at Uproar Lounge on Fri 2 Oct, Washington DC. 1 artist on the bill: Cate.. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

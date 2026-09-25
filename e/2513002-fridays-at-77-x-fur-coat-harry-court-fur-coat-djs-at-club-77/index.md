@@ -1,6 +1,6 @@
 # Fridays at 77 x Fur Coat: Harry Court, Fur Coat DJs at Club 77
 
-Fridays at 77 x Fur Coat: Harry Court, Fur Coat DJs at Club 77 on Fri 25 Sept, Sydney. 1 act on the bill: Harry Court. Techno and House. Preview the line-up and save it on soundcheck.
+Fridays at 77 x Fur Coat: Harry Court, Fur Coat DJs at Club 77 on Fri 25 Sept, Sydney. 1 artist on the bill: Harry Court. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

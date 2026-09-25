@@ -1,6 +1,6 @@
 # Halloween: haunted_castle at Orlagh House
 
-Halloween: haunted_castle at Orlagh House on Fri 30 Oct, Dublin. 3 acts on the bill: Cap, E.LINA and Lamache. House and Minimal. Preview the line-up and save it on soundcheck.
+Halloween: haunted_castle at Orlagh House on Fri 30 Oct, Dublin. 3 artists on the bill: Cap, E.LINA and Lamache. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

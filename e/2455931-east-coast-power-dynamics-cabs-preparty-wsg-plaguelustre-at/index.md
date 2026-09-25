@@ -1,6 +1,6 @@
 # EAST COAST POWER DYNAMICS CABS PREPARTY WSG PLAGUELUSTRE at Upstairs at the 700
 
-EAST COAST POWER DYNAMICS CABS PREPARTY WSG PLAGUELUSTRE at Upstairs at the 700 on Thu 24 Sept, Philadelphia. 1 act on the bill: Mike Textbeak. EBM and Industrial. Preview the line-up and save it on soundcheck.
+EAST COAST POWER DYNAMICS CABS PREPARTY WSG PLAGUELUSTRE at Upstairs at the 700 on Thu 24 Sept, Philadelphia. 1 artist on the bill: Mike Textbeak. EBM and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

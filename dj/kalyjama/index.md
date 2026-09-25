@@ -1,14 +1,14 @@
 # Kalyjama
 
-Kalyjama is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+Kalyjama is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Kalyjama is an electro and acid artist based in Greece, tracked on soundcheck, with 24 sets logged across All, Athens and Munich. Often billed alongside RNO (1), Useless Co. and 22 (1). Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+Kalyjama is an electro and acid artist based in Greece, tracked on soundcheck, with 24 sets logged across Athens, Greece and Munich. Often billed alongside RNO, Useless Co. and 22. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 
 ## Recently played
 

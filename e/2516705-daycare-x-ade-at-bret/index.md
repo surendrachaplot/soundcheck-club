@@ -1,6 +1,6 @@
 # DAYCARE x ADE at BRET
 
-DAYCARE x ADE at BRET on Sat 24 Oct, Amsterdam. 5 acts on the bill: Bastienne, Mahabe, Phara and Shaleen and 1 more. Techno. Preview the line-up and save it on soundcheck.
+DAYCARE x ADE at BRET on Sat 24 Oct, Amsterdam. 5 artists on the bill: Bastienne, Mahabe, Phara and Shaleen and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

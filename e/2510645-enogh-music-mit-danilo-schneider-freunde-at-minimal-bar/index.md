@@ -1,6 +1,6 @@
 # enogh.music mit Danilo Schneider & Freunde at Minimal Bar
 
-enogh.music mit Danilo Schneider & Freunde at Minimal Bar on Sat 14 Nov, Berlin. 1 act on the bill: Danilo Schneider. Preview the line-up and save it on soundcheck.
+enogh.music mit Danilo Schneider & Freunde at Minimal Bar on Sat 14 Nov, Berlin. 1 artist on the bill: Danilo Schneider. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

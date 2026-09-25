@@ -1,6 +1,6 @@
 # places i saw you last: Live Ambient Electronic Set at Reforesters Laboratory
 
-places i saw you last: Live Ambient Electronic Set at Reforesters Laboratory on Sat 17 Oct, Newyorkcity. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+places i saw you last: Live Ambient Electronic Set at Reforesters Laboratory on Sat 17 Oct, New York City. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

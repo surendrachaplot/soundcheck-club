@@ -1,6 +1,6 @@
 # DIMENSION - TECHNO STOCKHOLM — 3RD ANNIVERSARY at Slaktkyrkan
 
-DIMENSION - TECHNO STOCKHOLM — 3RD ANNIVERSARY at Slaktkyrkan on Sat 28 Nov, Stockholm. 1 act on the bill: TBA. Techno. Preview the line-up and save it on soundcheck.
+DIMENSION - TECHNO STOCKHOLM — 3RD ANNIVERSARY at Slaktkyrkan on Sat 28 Nov, Stockholm. 1 artist on the bill: TBA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

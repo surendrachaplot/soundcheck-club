@@ -1,6 +1,6 @@
 # [FREE ENTRY TILL 00:30] SAVORY at OST
 
-[FREE ENTRY TILL 00:30] SAVORY at OST on Thu 8 Oct, Berlin. 1 act on the bill: TIKOA. Techno. Preview the line-up and save it on soundcheck.
+[FREE ENTRY TILL 00:30] SAVORY at OST on Thu 8 Oct, Berlin. 1 artist on the bill: TIKOA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

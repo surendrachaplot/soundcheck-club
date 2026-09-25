@@ -1,6 +1,6 @@
 # Tortilla with Criminal Crisis at High Club Room
 
-Tortilla with Criminal Crisis at High Club Room on Sat 24 Oct, Madrid. 2 acts on the bill: BOTHER and frankydrama. House and Bass. Preview the line-up and save it on soundcheck.
+Tortilla with Criminal Crisis at High Club Room on Sat 24 Oct, Madrid. 2 artists on the bill: BOTHER and frankydrama. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

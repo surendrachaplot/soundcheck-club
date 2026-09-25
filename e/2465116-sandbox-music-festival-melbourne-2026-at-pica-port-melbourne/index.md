@@ -1,6 +1,6 @@
 # Sandbox Music Festival Melbourne 2026 at Pica (Port Melbourne Industrial Centre for the Arts)
 
-Sandbox Music Festival Melbourne 2026 at Pica (Port Melbourne Industrial Centre for the Arts) on Fri 25 Sept, Melbourne. 6 acts on the bill: DJ GUESTLIST, HIJCKD, Junkie Kid and Lee Ann Roberts and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Sandbox Music Festival Melbourne 2026 at Pica (Port Melbourne Industrial Centre for the Arts) on Fri 25 Sept, Melbourne. 6 artists on the bill: DJ GUESTLIST, HIJCKD, Junkie Kid and Lee Ann Roberts and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

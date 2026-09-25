@@ -1,6 +1,6 @@
 # Unsound Kraków 2026 FLUFF: Juliana Huxtable b2b JASSS, PPP, Cyst, Siete Catorce, re:ni + more at Hotel Forum
 
-Unsound Kraków 2026 FLUFF: Juliana Huxtable b2b JASSS, PPP, Cyst, Siete Catorce, re:ni + more at Hotel Forum on Fri 9 Oct, Krakow. 10 acts on the bill: DJ Plead, DJ Python, Iglooghost and JASSS and 6 more. Preview the line-up and save it on soundcheck.
+Unsound Kraków 2026 FLUFF: Juliana Huxtable b2b JASSS, PPP, Cyst, Siete Catorce, re:ni + more at Hotel Forum on Fri 9 Oct, Krakow. 10 artists on the bill: DJ Plead, DJ Python, Iglooghost and JASSS and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

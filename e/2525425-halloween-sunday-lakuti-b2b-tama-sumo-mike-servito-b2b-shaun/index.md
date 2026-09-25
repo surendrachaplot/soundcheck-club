@@ -1,6 +1,6 @@
 # Halloween Sunday: Lakuti B2B Tama Sumo, Mike Servito B2B Shaun J. Wright, KWÉYÒLKIDZ at Signal
 
-Halloween Sunday: Lakuti B2B Tama Sumo, Mike Servito B2B Shaun J. Wright, KWÉYÒLKIDZ at Signal on Sun 1 Nov, Newyorkcity. 5 acts on the bill: kwèyólkidz, Lakuti, Mike Servito and Shaun J. Wright and 1 more. Preview the line-up and save it on soundcheck.
+Halloween Sunday: Lakuti B2B Tama Sumo, Mike Servito B2B Shaun J. Wright, KWÉYÒLKIDZ at Signal on Sun 1 Nov, New York City. 5 artists on the bill: kwèyólkidz, Lakuti, Mike Servito and Shaun J. Wright and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

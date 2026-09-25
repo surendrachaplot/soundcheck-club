@@ -1,6 +1,6 @@
 # Loukeman at fabric
 
-Loukeman at fabric on Thu 5 Nov, London. 1 act on the bill: Loukeman. Electronica. Preview the line-up and save it on soundcheck.
+Loukeman at fabric on Thu 5 Nov, London. 1 artist on the bill: Loukeman. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

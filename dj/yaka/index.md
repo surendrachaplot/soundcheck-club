@@ -2,7 +2,7 @@
 
 YAKA is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ulana's, Philadelphia on Sat, 17 Oct 2026.
 
-YAKA is an ambient and experimental artist based in Mexico, tracked on soundcheck, with 11 sets logged across Berlin, Mexicocity, Paris and Philadelphia and 1 more. Often billed alongside DJ Strawberry, Aircode and Akko. Next up: Ulana's, Philadelphia on Sat 17 Oct.
+YAKA is an ambient and experimental artist based in Mexico, tracked on soundcheck, with 11 sets logged across Berlin, Mexico City, Paris and Philadelphia and 1 more. Often billed alongside DJ Strawberry, Aircode and Akko. Next up: Ulana's, Philadelphia on Sat 17 Oct.
 
 ## Upcoming shows
 

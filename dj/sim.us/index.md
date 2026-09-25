@@ -2,7 +2,7 @@
 
 S.I.M is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
 
-S.I.M is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 11 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside cstr, Saffaire and 1OO1O. Next up: TBA - DTLA, Losangeles on Fri 6 Nov.
+S.I.M is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 11 sets logged across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside cstr, Saffaire and 1OO1O. Next up: TBA - DTLA, Los Angeles on Fri 6 Nov.
 
 ## Upcoming shows
 

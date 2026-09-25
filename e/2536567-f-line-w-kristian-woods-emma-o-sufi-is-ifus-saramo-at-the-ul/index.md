@@ -1,6 +1,6 @@
 # Féline W/ Kristian Woods / Emma O / Sufi Is Ifus / SARAMO at The Ulster Sports Club
 
-Féline W/ Kristian Woods / Emma O / Sufi Is Ifus / SARAMO at The Ulster Sports Club on Fri 2 Oct, Belfast. 1 act on the bill: Conor Schmtz. House and Acid. Preview the line-up and save it on soundcheck.
+Féline W/ Kristian Woods / Emma O / Sufi Is Ifus / SARAMO at The Ulster Sports Club on Fri 2 Oct, Belfast. 1 artist on the bill: Conor Schmtz. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Guild Patision Server at Patision65
 
-Guild Patision Server at Patision65 on Sat 26 Sept, Athens. 2 acts on the bill: Bonebrokk and Vlennes. Bass and Club. Preview the line-up and save it on soundcheck.
+Guild Patision Server at Patision65 on Sat 26 Sept, Athens. 2 artists on the bill: Bonebrokk and Vlennes. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

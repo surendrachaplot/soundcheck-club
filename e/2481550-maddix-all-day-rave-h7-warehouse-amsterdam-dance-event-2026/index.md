@@ -1,6 +1,6 @@
 # Maddix All Day Rave - H7 Warehouse, Amsterdam Dance Event 2026 at H7 Warehouse
 
-Maddix All Day Rave - H7 Warehouse, Amsterdam Dance Event 2026 on Thu 22 Oct, Amsterdam. 1 act on the bill: Maddix. Preview the line-up and save it on soundcheck.
+Maddix All Day Rave - H7 Warehouse, Amsterdam Dance Event 2026 on Thu 22 Oct, Amsterdam. 1 artist on the bill: Maddix. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # GEGEN SPORTS at KitKatClub
 
-GEGEN SPORTS at KitKatClub on Fri 13 Nov, Berlin. 13 acts on the bill: androgienia, BOYCA, CHRANDY and Citizens Union and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
+GEGEN SPORTS at KitKatClub on Fri 13 Nov, Berlin. 13 artists on the bill: AAguilAA, androgienia, BOYCA and CHRANDY and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ GEGEN SPORTS at KitKatClub on Fri 13 Nov, Berlin. 13 acts on the bill: androgien
 
 ## Line-up
 
+- AAguilAA
 - androgienia
 - BOYCA
 - CHRANDY
@@ -18,7 +19,6 @@ GEGEN SPORTS at KitKatClub on Fri 13 Nov, Berlin. 13 acts on the bill: androgien
 - g3kko
 - IVRA
 - Juan Cernadas
-- Kiddy Smile
 - Liad Krispin
 - Lucas Abadi
 - PLATTER

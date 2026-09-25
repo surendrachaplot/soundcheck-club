@@ -2,7 +2,7 @@
 
 Sinnotsin is a Dembow and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Moon Club, Lisbon on Sat, 3 Oct 2026.
 
-Sinnotsin is a dembow and techno artist based in Portugal, tracked on soundcheck, with 21 sets logged across Lisbon, Madrid and Newyorkcity. Often billed alongside Saint Caboclo, BANU (2) and S4DO. Next up: Moon Club, Lisbon on Sat 3 Oct.
+Sinnotsin is a dembow and techno artist based in Portugal, tracked on soundcheck, with 21 sets logged across Lisbon, Madrid and New York City. Often billed alongside Saint Caboclo, BANU and S4DO. Next up: Moon Club, Lisbon on Sat 3 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Sidera Invites: JESSXO, espurr, Brooke Steele, steele deficiency at Jupiter Disco
 
-Sidera Invites: JESSXO, espurr, Brooke Steele, steele deficiency at Jupiter Disco on Sun 18 Oct, Newyorkcity. 4 acts on the bill: Brooke Steele, espurr, JESSXO and steele deficiency. Preview the line-up and save it on soundcheck.
+Sidera Invites: JESSXO, espurr, Brooke Steele, steele deficiency at Jupiter Disco on Sun 18 Oct, New York City. 4 artists on the bill: Brooke Steele, espurr, JESSXO and steele deficiency. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

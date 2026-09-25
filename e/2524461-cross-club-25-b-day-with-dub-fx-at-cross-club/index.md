@@ -1,6 +1,6 @@
 # Cross Club 25 B-DAY with DUB FX at Cross Club
 
-Cross Club 25 B-DAY with DUB FX on Sat 26 Sept, Prague. 5 acts on the bill: Akira, AMAR DURGA, Pixie (US) and SAVBEA and 1 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Cross Club 25 B-DAY with DUB FX on Sat 26 Sept, Prague. 5 artists on the bill: Akira, AMAR DURGA, Pixie (US) and SAVBEA and 1 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

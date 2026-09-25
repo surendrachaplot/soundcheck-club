@@ -2,7 +2,7 @@
 
 Magda Halina is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
 
-Magda Halina is a tech house and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Losangeles, Sandiego and Seattle. Often billed alongside Mogli, CANDL and Michelle Mendez. Next up: TBA - Private Location, Sandiego on Sat 31 Oct.
+Magda Halina is a tech house and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Los Angeles, San Diego and Seattle. Often billed alongside Mogli, CANDL and Michelle Mendez. Next up: TBA - Private Location, San Diego on Sat 31 Oct.
 
 ## Upcoming shows
 

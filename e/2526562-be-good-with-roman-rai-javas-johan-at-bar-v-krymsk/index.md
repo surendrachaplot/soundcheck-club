@@ -1,6 +1,6 @@
 # BE GOOD with Roman Rai, Javas, johan at Bar v Krymský
 
-BE GOOD with Roman Rai, Javas, johan at Bar v Krymský on Fri 23 Oct, Prague. 2 acts on the bill: Javas and Roman Rai. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+BE GOOD with Roman Rai, Javas, johan at Bar v Krymský on Fri 23 Oct, Prague. 2 artists on the bill: Javas and Roman Rai. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

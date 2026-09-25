@@ -1,6 +1,6 @@
 # Alien Communications x Craigie Knowes ADE with DJ Masda, Reptant & Luna Ludmila at Café Café Bar Amsterdam
 
-Alien Communications x Craigie Knowes ADE with DJ Masda, Reptant & Luna Ludmila at Café Café Bar Amsterdam on Sat 24 Oct, Amsterdam. 5 acts on the bill: Alien Communications, Craigie Knowes, DJ Masda and Luna Ludmila and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Alien Communications x Craigie Knowes ADE with DJ Masda, Reptant & Luna Ludmila at Café Café Bar Amsterdam on Sat 24 Oct, Amsterdam. 5 artists on the bill: Alien Communications, Craigie Knowes, DJ Masda and Luna Ludmila and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

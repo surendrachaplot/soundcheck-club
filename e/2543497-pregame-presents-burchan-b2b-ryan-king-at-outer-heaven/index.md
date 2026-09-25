@@ -1,6 +1,6 @@
 # Pregame presents: Burchan b2b Ryan King at Outer Heaven
 
-Pregame presents: Burchan b2b Ryan King at Outer Heaven on Thu 22 Oct, Newyorkcity. 3 acts on the bill: Armii1n, Burchan Acar and Ryan King. House. Preview the line-up and save it on soundcheck.
+Pregame presents: Burchan b2b Ryan King at Outer Heaven on Thu 22 Oct, New York City. 3 artists on the bill: Armii1n, Burchan Acar and Ryan King. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

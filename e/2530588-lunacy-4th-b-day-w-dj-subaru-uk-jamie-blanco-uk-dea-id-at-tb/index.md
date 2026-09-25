@@ -1,6 +1,6 @@
 # LUNACY 4TH B'DAY W/ DJ Subaru (UK), Jamie Blanco (UK) & Dea (ID) at TBA
 
-LUNACY 4TH B'DAY W/ DJ Subaru (UK), Jamie Blanco (UK) & Dea (ID) at TBA on Sat 14 Nov, Melbourne. 3 acts on the bill: Dea Barandana, DJ Subaru and Jamie Blanco. Preview the line-up and save it on soundcheck.
+LUNACY 4TH B'DAY W/ DJ Subaru (UK), Jamie Blanco (UK) & Dea (ID) at TBA on Sat 14 Nov, Melbourne. 3 artists on the bill: Dea Barandana, DJ Subaru and Jamie Blanco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

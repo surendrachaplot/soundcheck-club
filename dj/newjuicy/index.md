@@ -2,7 +2,7 @@
 
 New Juicy is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at El Rio, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-New Juicy is a garage and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Lisbon, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside lilia, Golem (US) and DJ Ari B. Next up: El Rio, Sanfrancisco on Sat 26 Sept.
+New Juicy is a garage and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Lisbon, Los Angeles, New York City and San Francisco/Oakland. Often billed alongside lilia, Golem (US) and DJ Ari B. Next up: El Rio, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Melbourne pres UNREAL X KUKO All Night Long World Tour at Melbourne Pavilion
 
-Melbourne pres UNREAL X KUKO All Night Long World Tour at Melbourne Pavilion on Fri 13 Nov, Melbourne. 1 act on the bill: KUKO. Techno. Preview the line-up and save it on soundcheck.
+Melbourne pres UNREAL X KUKO All Night Long World Tour at Melbourne Pavilion on Fri 13 Nov, Melbourne. 1 artist on the bill: KUKO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

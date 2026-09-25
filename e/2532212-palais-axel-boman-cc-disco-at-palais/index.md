@@ -1,6 +1,6 @@
 # Palais: Axel Boman & CC:DISCO at Palais
 
-Palais: Axel Boman & CC:DISCO on Fri 6 Nov, London. 2 acts on the bill: Axel Boman and CC:DISCO!. Techno. Preview the line-up and save it on soundcheck.
+Palais: Axel Boman & CC:DISCO on Fri 6 Nov, London. 2 artists on the bill: Axel Boman and CC:DISCO!. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

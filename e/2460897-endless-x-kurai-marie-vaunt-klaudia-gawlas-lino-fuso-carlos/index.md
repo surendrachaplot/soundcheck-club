@@ -1,6 +1,6 @@
 # ENDLESS x KURAI: Marie Vaunt,  Klaudia Gawlas,  Lino Fuso, Carlos Perez, K-Style, Nick Acid at E1
 
-ENDLESS x KURAI: Marie Vaunt,  Klaudia Gawlas,  Lino Fuso, Carlos Perez, K-Style, Nick Acid at E1 on Fri 27 Nov, London. 5 acts on the bill: Carlos Pérez, K-Style, Klaudia Gawlas and Lino Fuso and 1 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+ENDLESS x KURAI: Marie Vaunt,  Klaudia Gawlas,  Lino Fuso, Carlos Perez, K-Style, Nick Acid at E1 on Fri 27 Nov, London. 5 artists on the bill: Carlos Pérez, K-Style, Klaudia Gawlas and Lino Fuso and 1 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

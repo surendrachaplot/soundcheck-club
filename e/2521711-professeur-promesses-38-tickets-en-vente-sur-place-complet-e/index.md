@@ -1,6 +1,6 @@
 # Professeur Promesses #38 (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) at La Station - Gare des Mines
 
-Professeur Promesses #38 (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) at La Station - Gare des Mines on Fri 16 Oct, Paris. 4 acts on the bill: Legit Girl DJ, Nori (UK), notinbed and Promesses. Preview the line-up and save it on soundcheck.
+Professeur Promesses #38 (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) at La Station - Gare des Mines on Fri 16 Oct, Paris. 4 artists on the bill: Legit Girl DJ, Nori (UK), notinbed and Promesses. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

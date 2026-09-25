@@ -1,6 +1,6 @@
 # 5 años de Kommune,12 horas de música. Parte 1: fiesta at Muller Bar
 
-5 años de Kommune,12 horas de música. Parte 1: fiesta at Muller Bar on Fri 25 Sept, Madrid. 3 acts on the bill: MAMA LOVE, Sito and WO KEM. House. Preview the line-up and save it on soundcheck.
+5 años de Kommune,12 horas de música. Parte 1: fiesta at Muller Bar on Fri 25 Sept, Madrid. 3 artists on the bill: MAMA LOVE, Sito and WO KEM. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

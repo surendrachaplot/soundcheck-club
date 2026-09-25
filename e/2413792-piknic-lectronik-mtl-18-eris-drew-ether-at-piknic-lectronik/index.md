@@ -1,6 +1,6 @@
 # Piknic Électronik MTL #18: Eris Drew / ether at Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik MTL #18: Eris Drew / ether at Piknic Électronik / Parc Jean Drapeau on Sun 4 Oct, Montreal. 9 acts on the bill: Asha, Corinita, Eris Drew and Lia Plutonic and 5 more. Preview the line-up and save it on soundcheck.
+Piknic Électronik MTL #18: Eris Drew / ether at Piknic Électronik / Parc Jean Drapeau on Sun 4 Oct, Montreal. 9 artists on the bill: Asha, Corinita, Eris Drew and Lia Plutonic and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

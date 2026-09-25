@@ -2,7 +2,7 @@
 
 Sound Rush is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
-Sound Rush is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Cologne, Frankfurt, Losangeles and Madrid and 4 more. Often billed alongside Angerfist, Yeyo and Act of Rage. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
+Sound Rush is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Cologne, Frankfurt, Los Angeles and Madrid and 4 more. Often billed alongside Angerfist, Yeyo and Act of Rage. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
 ## Upcoming shows
 

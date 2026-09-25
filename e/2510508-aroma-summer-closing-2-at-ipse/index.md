@@ -1,6 +1,6 @@
 # AROMA SUMMER CLOSING 2 :) at Ipse
 
-AROMA SUMMER CLOSING 2 :) at Ipse on Sat 26 Sept, Berlin. 4 acts on the bill: Baumeister (2), e.leptic, LG JASPER <3 and Sinan Varol. Trance and House. Preview the line-up and save it on soundcheck.
+AROMA SUMMER CLOSING 2 :) at Ipse on Sat 26 Sept, Berlin. 4 artists on the bill: Baumeister, e.leptic, LG JASPER <3 and Sinan Varol. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Vino Disco 3IÈME ANNIVERSAIRE at Vino Disco
 
-Vino Disco 3IÈME ANNIVERSAIRE on Sat 3 Oct, Montreal. 10 acts on the bill: Andie, Bolarinho, DUZA and FREEEMAN and 6 more. House and Disco. Preview the line-up and save it on soundcheck.
+Vino Disco 3IÈME ANNIVERSAIRE on Sat 3 Oct, Montreal. 10 artists on the bill: Andie, Bolarinho, DUZA and FREEEMAN and 6 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

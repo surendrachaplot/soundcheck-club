@@ -1,6 +1,6 @@
 # @xxleodj at Abba Voyage Pre-Show & After Parties at Snoozebox at Snoozebox Olympic Park
 
-@xxleodj at Abba Voyage Pre-Show & After Parties at Snoozebox at Snoozebox Olympic Park on Sat 26 Sept, London. 1 act on the bill: xxleodj. Disco and Pop. Preview the line-up and save it on soundcheck.
+@xxleodj at Abba Voyage Pre-Show & After Parties at Snoozebox at Snoozebox Olympic Park on Sat 26 Sept, London. 1 artist on the bill: xxleodj. Disco and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

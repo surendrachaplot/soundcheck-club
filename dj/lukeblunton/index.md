@@ -2,7 +2,7 @@
 
 Luke Blunton is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Renate, Berlin on Sat, 26 Sept 2026.
 
-Luke Blunton is a house and balearic artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Thehague. Often billed alongside Chaques, Oliver Raumklang and Natalia Martinovna. Next up: Renate, Berlin on Sat 26 Sept.
+Luke Blunton is a house and balearic artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and The Hague. Often billed alongside Chaques, Oliver Raumklang and Natalia Martinovna. Next up: Renate, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 

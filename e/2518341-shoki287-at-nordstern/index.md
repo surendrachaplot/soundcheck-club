@@ -1,6 +1,6 @@
 # SHOKI287 at Nordstern
 
-SHOKI287 at Nordstern on Sat 3 Oct, Basel. 2 acts on the bill: Chiara Fucci and SHOKI287. Preview the line-up and save it on soundcheck.
+SHOKI287 at Nordstern on Sat 3 Oct, Basel. 2 artists on the bill: Chiara Fucci and SHOKI287. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

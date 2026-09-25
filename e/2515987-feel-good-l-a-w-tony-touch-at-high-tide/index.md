@@ -1,6 +1,6 @@
 # Feel Good L.A w / Tony Touch at High Tide
 
-Feel Good L.A w / Tony Touch at High Tide on Fri 9 Oct, Losangeles. Deep House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Feel Good L.A w / Tony Touch at High Tide on Fri 9 Oct, Los Angeles. Deep House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

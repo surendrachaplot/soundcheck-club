@@ -1,6 +1,6 @@
 # Gojnea76 + Louie Fresco at Fünk
 
-Gojnea76 + Louie Fresco at Fünk on Fri 2 Oct, Mexicocity. 2 acts on the bill: Gojnea76 and Louie Fresco. House and Minimal. Preview the line-up and save it on soundcheck.
+Gojnea76 + Louie Fresco at Fünk on Fri 2 Oct, Mexico City. 2 artists on the bill: Gojnea76 and Louie Fresco. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

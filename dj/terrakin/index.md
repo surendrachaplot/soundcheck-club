@@ -2,7 +2,7 @@
 
 Terrakin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Waterhouse Studios, Amsterdam on Sat, 3 Oct 2026.
 
-Terrakin is a house and techno artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin and Glasgow. Often billed alongside Vinz Sosa, annalogue and Freddy (2). Next up: Waterhouse Studios, Amsterdam on Sat 3 Oct.
+Terrakin is a house and techno artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin and Glasgow. Often billed alongside Vinz Sosa, annalogue and Freddy. Next up: Waterhouse Studios, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 

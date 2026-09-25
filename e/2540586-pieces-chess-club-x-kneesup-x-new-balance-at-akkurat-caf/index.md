@@ -1,6 +1,6 @@
 # Pieces Chess Club x KneesUp x New Balance at Akkurat Café
 
-Pieces Chess Club x KneesUp x New Balance at Akkurat Café on Sat 26 Sept, Berlin. 2 acts on the bill: Juba and Katia Fis. Preview the line-up and save it on soundcheck.
+Pieces Chess Club x KneesUp x New Balance at Akkurat Café on Sat 26 Sept, Berlin. 2 artists on the bill: Juba and Katia Fis. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

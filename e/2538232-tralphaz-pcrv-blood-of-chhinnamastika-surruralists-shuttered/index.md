@@ -1,6 +1,6 @@
 # TRALPHAZ, PCRV, BLOOD OF CHHINNAMASTIKA, SURRURALISTS, SHUTTERED at Ugra Deva Loka
 
-TRALPHAZ, PCRV, BLOOD OF CHHINNAMASTIKA, SURRURALISTS, SHUTTERED at Ugra Deva Loka on Thu 15 Oct, Sanfrancisco. Industrial and Noise. Preview the line-up and save it on soundcheck.
+TRALPHAZ, PCRV, BLOOD OF CHHINNAMASTIKA, SURRURALISTS, SHUTTERED at Ugra Deva Loka on Thu 15 Oct, San Francisco/Oakland. Industrial and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

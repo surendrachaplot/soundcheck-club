@@ -1,6 +1,6 @@
 # TEKUNOMAMA PRESENTS D.Dan at TBA - Denver
 
-TEKUNOMAMA PRESENTS D.Dan at TBA - Denver on Sat 12 Dec, Denver. 2 acts on the bill: Andrew Bon Bosher and D.Dan. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+TEKUNOMAMA PRESENTS D.Dan at TBA - Denver on Sat 12 Dec, Denver. 2 artists on the bill: Andrew Bon Bosher and D.Dan. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

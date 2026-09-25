@@ -1,6 +1,6 @@
 # I-F • Intergalactic Gary • Eileen at Radio Radio
 
-I-F • Intergalactic Gary • Eileen at Radio Radio on Sat 31 Oct, Amsterdam. 3 acts on the bill: Eileen (NL), I-F and Intergalactic Gary. House. Preview the line-up and save it on soundcheck.
+I-F • Intergalactic Gary • Eileen at Radio Radio on Sat 31 Oct, Amsterdam. 3 artists on the bill: Eileen (NL), I-F and Intergalactic Gary. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

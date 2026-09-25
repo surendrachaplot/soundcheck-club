@@ -1,6 +1,6 @@
 # Amen Gyaldem presents: Jungle All Night Long at Vespers Club
 
-Amen Gyaldem presents: Jungle All Night Long at Vespers Club on Sat 26 Sept, London. 3 acts on the bill: Petit Problème, SAVSSOUNDS and Sheba Q. Jungle. Preview the line-up and save it on soundcheck.
+Amen Gyaldem presents: Jungle All Night Long at Vespers Club on Sat 26 Sept, London. 3 artists on the bill: Petit Problème, SAVSSOUNDS and Sheba Q. Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

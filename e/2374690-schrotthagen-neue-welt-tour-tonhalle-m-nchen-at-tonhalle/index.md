@@ -1,6 +1,6 @@
 # Schrotthagen Neue Welt Tour @Tonhalle München at Tonhalle
 
-Schrotthagen Neue Welt Tour @Tonhalle München on Sat 12 Dec, Munich. 1 act on the bill: Schrotthagen. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Schrotthagen Neue Welt Tour @Tonhalle München on Sat 12 Dec, Munich. 1 artist on the bill: Schrotthagen. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

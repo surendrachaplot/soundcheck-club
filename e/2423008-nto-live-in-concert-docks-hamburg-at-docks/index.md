@@ -1,6 +1,6 @@
 # NTO live in concert @ Docks Hamburg at Docks
 
-NTO live in concert @ Docks Hamburg on Fri 9 Oct, Hamburg. 1 act on the bill: NTO. Techno. Preview the line-up and save it on soundcheck.
+NTO live in concert @ Docks Hamburg on Fri 9 Oct, Hamburg. 1 artist on the bill: NTO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

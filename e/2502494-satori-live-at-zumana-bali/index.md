@@ -1,6 +1,6 @@
 # Satori (Live) at Zumana Bali
 
-Satori (Live) at Zumana Bali on Sat 26 Sept, Bali. 1 act on the bill: Satori. Deep House. Preview the line-up and save it on soundcheck.
+Satori (Live) at Zumana Bali on Sat 26 Sept, Bali. 1 artist on the bill: Satori. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

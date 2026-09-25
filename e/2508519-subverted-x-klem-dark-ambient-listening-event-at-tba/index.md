@@ -1,6 +1,6 @@
 # Subverted x KLEM. Dark Ambient Listening Event at TBA
 
-Subverted x KLEM. Dark Ambient Listening Event at TBA on Fri 2 Oct, Berlin. 3 acts on the bill: ANAMORPH_, Eve Tera and INVERNO. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Subverted x KLEM. Dark Ambient Listening Event at TBA on Fri 2 Oct, Berlin. 3 artists on the bill: ANAMORPH_, Eve Tera and INVERNO. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

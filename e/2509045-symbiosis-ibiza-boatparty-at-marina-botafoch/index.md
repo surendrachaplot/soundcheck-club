@@ -1,6 +1,6 @@
 # SYMBIOSIS - Ibiza Boatparty at Marina Botafoch
 
-SYMBIOSIS - Ibiza Boatparty at Marina Botafoch on Sat 26 Sept, Ibiza. 4 acts on the bill: Albano Bastonero, Callecat, Gustin and Pablo Pegar. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+SYMBIOSIS - Ibiza Boatparty at Marina Botafoch on Sat 26 Sept, Ibiza. 4 artists on the bill: Albano Bastonero, Callecat, Gustin and Pablo Pegar. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

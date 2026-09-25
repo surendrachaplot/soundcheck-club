@@ -1,6 +1,6 @@
 # SIGNAL presents TITA LAU at O der Klub
 
-SIGNAL presents TITA LAU at O der Klub on Fri 25 Sept, Vienna. 1 act on the bill: ESH. House and Tech House. Preview the line-up and save it on soundcheck.
+SIGNAL presents TITA LAU at O der Klub on Fri 25 Sept, Vienna. 1 artist on the bill: ESH. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

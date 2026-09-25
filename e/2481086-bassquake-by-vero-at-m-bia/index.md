@@ -1,6 +1,6 @@
 # Bassquake by Vero at M-BIA
 
-Bassquake by Vero at M-BIA on Fri 16 Oct, Berlin. 3 acts on the bill: Gaya Carmeli, TANZBAER and Vero_. Trance and Techno. Preview the line-up and save it on soundcheck.
+Bassquake by Vero at M-BIA on Fri 16 Oct, Berlin. 3 artists on the bill: Gaya Carmeli, TANZBAER and Vero_. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

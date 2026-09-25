@@ -1,6 +1,6 @@
 # BLACK VEIL -HALLOWEEN NIGHT 2026- at Socore Factory
 
-BLACK VEIL -HALLOWEEN NIGHT 2026- at Socore Factory on Sat 31 Oct, Osaka. 2 acts on the bill: Non (TO) and Territory. Trance and Experimental. Preview the line-up and save it on soundcheck.
+BLACK VEIL -HALLOWEEN NIGHT 2026- at Socore Factory on Sat 31 Oct, Osaka. 2 artists on the bill: Non (TO) and Territory. Trance and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

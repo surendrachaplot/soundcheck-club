@@ -1,6 +1,6 @@
 # Certified Groovers: HALLOWEEN PARTY at TBA - Downtown Los Angeles
 
-Certified Groovers: HALLOWEEN PARTY at TBA - Downtown Los Angeles on Sat 31 Oct, Losangeles. House. Preview the line-up and save it on soundcheck.
+Certified Groovers: HALLOWEEN PARTY at TBA - Downtown Los Angeles on Sat 31 Oct, Los Angeles. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

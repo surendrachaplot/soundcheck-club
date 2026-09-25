@@ -1,6 +1,6 @@
 # REVOADA APRESENTA: Baile do Adeus at Tendinha dos Clérigos
 
-REVOADA APRESENTA: Baile do Adeus at Tendinha dos Clérigos on Fri 25 Sept, Porto. 4 acts on the bill: Caan Dun, CLYTA, Runnan and SWAG DO COMPLEXO. Baile Funk and Afrobeats. Preview the line-up and save it on soundcheck.
+REVOADA APRESENTA: Baile do Adeus at Tendinha dos Clérigos on Fri 25 Sept, Porto. 4 artists on the bill: Caan Dun, CLYTA, Runnan and SWAG DO COMPLEXO. Baile Funk and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

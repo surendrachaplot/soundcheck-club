@@ -1,6 +1,6 @@
 # Half Baked W/ Manfredas, Melody, Sam Bangura & Daddybisht at NUMBER 90 LONDON
 
-Half Baked W/ Manfredas, Melody, Sam Bangura & Daddybisht at NUMBER 90 LONDON on Sat 3 Oct, London. 4 acts on the bill: Daddybisht, Manfredas, Melody RA+RE and Sam Bangura. Techno and House. Preview the line-up and save it on soundcheck.
+Half Baked W/ Manfredas, Melody, Sam Bangura & Daddybisht at NUMBER 90 LONDON on Sat 3 Oct, London. 4 artists on the bill: Daddybisht, Manfredas, Melody RA+RE and Sam Bangura. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

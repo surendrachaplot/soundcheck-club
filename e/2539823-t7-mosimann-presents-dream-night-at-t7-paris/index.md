@@ -1,6 +1,6 @@
 # T7: Mosimann presents Dream Night at T7 Paris
 
-T7: Mosimann presents Dream Night at T7 Paris on Sat 17 Oct, Paris. 1 act on the bill: Mosimann. Electro. Preview the line-up and save it on soundcheck.
+T7: Mosimann presents Dream Night at T7 Paris on Sat 17 Oct, Paris. 1 artist on the bill: Mosimann. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

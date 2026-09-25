@@ -1,6 +1,6 @@
 # LIBRA SZN - KICK OFF - NEW IMPRESSIONZ at Throw Social DC
 
-LIBRA SZN - KICK OFF - NEW IMPRESSIONZ at Throw Social DC on Fri 25 Sept, Washingtondc. Electro and Club. Preview the line-up and save it on soundcheck.
+LIBRA SZN - KICK OFF - NEW IMPRESSIONZ at Throw Social DC on Fri 25 Sept, Washington DC. Electro and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

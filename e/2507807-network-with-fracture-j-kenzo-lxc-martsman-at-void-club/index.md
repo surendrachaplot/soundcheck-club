@@ -1,6 +1,6 @@
 # NetWork with Fracture, J:Kenzo, LXC & Martsman at Void Club
 
-NetWork with Fracture, J:Kenzo, LXC & Martsman at Void Club on Sat 3 Oct, Berlin. 22 acts on the bill: Agem, alllone, Babe Gorgeous and Dub Isotope and 18 more. Bass and Jungle. Preview the line-up and save it on soundcheck.
+NetWork with Fracture, J:Kenzo, LXC & Martsman at Void Club on Sat 3 Oct, Berlin. 22 artists on the bill: Agem, alllone, Babe Gorgeous and Dub Isotope and 18 more. Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Davey Ultra is a Bass and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Moonglow Oakland, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-Davey Ultra is a bass and ghetto tech artist based in United States of America, tracked on soundcheck, with 11 sets logged across Sanfrancisco. Often billed alongside jmo corleone, Just Another Bitch and Lonald J. Bandz. Next up: Moonglow Oakland, Sanfrancisco on Fri 25 Sept.
+Davey Ultra is a bass and ghetto tech artist based in United States of America, tracked on soundcheck, with 11 sets logged across San Francisco/Oakland. Often billed alongside jmo corleone, Just Another Bitch and Lonald J. Bandz. Next up: Moonglow Oakland, San Francisco/Oakland on Fri 25 Sept.
 
 ## Upcoming shows
 

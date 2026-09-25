@@ -1,6 +1,6 @@
 # Club CTRL feat. DJ SWISHA at Kremwerk-Timbre Room-Cherry Complex
 
-Club CTRL feat. DJ SWISHA at Kremwerk-Timbre Room-Cherry Complex on Sat 14 Nov, Seattle. 2 acts on the bill: Ctrl.mp3 and DJ SWISHA. Techno and Club. Preview the line-up and save it on soundcheck.
+Club CTRL feat. DJ SWISHA at Kremwerk-Timbre Room-Cherry Complex on Sat 14 Nov, Seattle. 2 artists on the bill: Ctrl.mp3 and DJ SWISHA. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

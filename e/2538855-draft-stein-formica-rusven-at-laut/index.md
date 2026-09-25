@@ -1,6 +1,6 @@
 # Draft: Stein + Formica + Rusven at LAUT
 
-Draft: Stein + Formica + Rusven at LAUT on Fri 16 Oct, Barcelona. 2 acts on the bill: formica (ES) and Rusven. Techno and Electro. Preview the line-up and save it on soundcheck.
+Draft: Stein + Formica + Rusven at LAUT on Fri 16 Oct, Barcelona. 2 artists on the bill: formica (ES) and Rusven. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

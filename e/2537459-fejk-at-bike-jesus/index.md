@@ -1,6 +1,6 @@
 # Fejká at Bike Jesus
 
-Fejká at Bike Jesus on Wed 2 Dec, Prague. 1 act on the bill: Fejká. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Fejká at Bike Jesus on Wed 2 Dec, Prague. 1 artist on the bill: Fejká. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

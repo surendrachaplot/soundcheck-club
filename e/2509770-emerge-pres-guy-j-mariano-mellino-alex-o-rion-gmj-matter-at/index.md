@@ -1,6 +1,6 @@
 # Emerge pres. Guy J, Mariano Mellino, Alex O'Rion, GMJ & Matter at Bridge Gardens
 
-Emerge pres. Guy J, Mariano Mellino, Alex O'Rion, GMJ & Matter at Bridge Gardens on Sun 25 Oct, Glasgow. 3 acts on the bill: Alex O'Rion, Guy J and Mariano Mellino. Progressive House. Preview the line-up and save it on soundcheck.
+Emerge pres. Guy J, Mariano Mellino, Alex O'Rion, GMJ & Matter at Bridge Gardens on Sun 25 Oct, Glasgow. 3 artists on the bill: Alex O'Rion, Guy J and Mariano Mellino. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

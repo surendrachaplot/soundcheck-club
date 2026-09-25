@@ -1,6 +1,6 @@
 # INSERT COIN: ARCADE RAVE [San Diego] at Dave & Buster's San Diego
 
-INSERT COIN: ARCADE RAVE [San Diego] at Dave & Buster's San Diego on Fri 25 Sept, Sandiego. 1 act on the bill: CJ Posada. House and Tech House. Preview the line-up and save it on soundcheck.
+INSERT COIN: ARCADE RAVE [San Diego] at Dave & Buster's San Diego on Fri 25 Sept, San Diego. 1 artist on the bill: CJ Posada. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

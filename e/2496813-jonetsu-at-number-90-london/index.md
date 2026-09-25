@@ -1,6 +1,6 @@
 # Jonetsu at NUMBER 90 LONDON
 
-Jonetsu at NUMBER 90 LONDON on Sat 26 Sept, London. 7 acts on the bill: Colin Dale, Guido Nemola, Joe Smooth and MAEDON and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Jonetsu at NUMBER 90 LONDON on Sat 26 Sept, London. 7 artists on the bill: Colin Dale, Guido Nemola, Joe Smooth and MAEDON and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

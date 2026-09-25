@@ -2,7 +2,7 @@
 
 Finsent C is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OIL Club, Shenzhen on Fri, 25 Sept 2026.
 
-Finsent C is a techno and house artist based in China, tracked on soundcheck, with 37 sets logged across Hongkong, Shenzhen and Tokyo. Often billed alongside Dan-neo, Konnection and Taku Hirayama. Next up: OIL Club, Shenzhen on Fri 25 Sept.
+Finsent C is a techno and house artist based in China, tracked on soundcheck, with 37 sets logged across Hong Kong, Shenzhen and Tokyo. Often billed alongside Dan-neo, Konnection and Taku Hirayama. Next up: OIL Club, Shenzhen on Fri 25 Sept.
 
 ## Upcoming shows
 

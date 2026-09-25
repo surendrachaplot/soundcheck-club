@@ -1,6 +1,6 @@
 # Reconnect x BBKK with Ben Derris & Linus Villa at elipamanoke
 
-Reconnect x BBKK with Ben Derris & Linus Villa at elipamanoke on Fri 25 Sept, Leipzig. 6 acts on the bill: adamoandiamo, Ben Derris, gin (DE) and Linus Villa and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
+Reconnect x BBKK with Ben Derris & Linus Villa at elipamanoke on Fri 25 Sept, Leipzig. 6 artists on the bill: adamoandiamo, Ben Derris, gin (DE) and Linus Villa and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

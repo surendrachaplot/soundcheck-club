@@ -1,6 +1,6 @@
 # Flava D, Smokey Bubblin' B at Elsewhere
 
-Flava D, Smokey Bubblin' B at Elsewhere on Sat 7 Nov, Newyorkcity. 2 acts on the bill: Flava D and Smokey Bubblin' B. Preview the line-up and save it on soundcheck.
+Flava D, Smokey Bubblin' B at Elsewhere on Sat 7 Nov, New York City. 2 artists on the bill: Flava D and Smokey Bubblin' B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

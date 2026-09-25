@@ -2,7 +2,7 @@
 
 LIZA. is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 24 Sept 2026.
 
-LIZA. is a techno and deep house artist based in Spain, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Buenosaires and Frankfurt and 1 more. Often billed alongside Rivellino, Brizas and Michael Ritter. Next up: 303 Audiophile Bar, Barcelona on Thu 24 Sept.
+LIZA. is a techno and deep house artist based in Spain, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Buenos Aires and Frankfurt and 1 more. Often billed alongside Rivellino, Brizas and Michael Ritter. Next up: 303 Audiophile Bar, Barcelona on Thu 24 Sept.
 
 ## Upcoming shows
 

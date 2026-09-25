@@ -1,6 +1,6 @@
 # PRISM pres Colin Benders live & Beste Hira at INPUT High Fidelity Dance Club
 
-PRISM pres Colin Benders live & Beste Hira at INPUT High Fidelity Dance Club on Fri 13 Nov, Barcelona. 3 acts on the bill: Beste Hira, Colin Benders and Hitch. Techno. Preview the line-up and save it on soundcheck.
+PRISM pres Colin Benders live & Beste Hira at INPUT High Fidelity Dance Club on Fri 13 Nov, Barcelona. 3 artists on the bill: Beste Hira, Colin Benders and Hitch. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

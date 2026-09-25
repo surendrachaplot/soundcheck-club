@@ -2,7 +2,7 @@
 
 Ed Warner is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cadavra, Madrid on Sat, 10 Oct 2026.
 
-Ed Warner is an electro and acid artist based in Spain, tracked on soundcheck, with 61 sets logged across Austin, Barcelona, Berlin and London and 3 more. Often billed alongside Kinetic (2), Oriana and Andi. Next up: Cadavra, Madrid on Sat 10 Oct.
+Ed Warner is an electro and acid artist based in Spain, tracked on soundcheck, with 61 sets logged across Austin, Barcelona, Berlin and London and 3 more. Often billed alongside Kinetic, Oriana and Andi. Next up: Cadavra, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 

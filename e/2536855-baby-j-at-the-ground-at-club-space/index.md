@@ -1,6 +1,6 @@
 # BABY J at The Ground at Club Space
 
-BABY J at The Ground at Club Space on Fri 23 Oct, Miami. 4 acts on the bill: 1-800-Lolita, Baby J (2), Berrakka and SUCIA!. House and Jungle. Preview the line-up and save it on soundcheck.
+BABY J at The Ground at Club Space on Fri 23 Oct, Miami. 4 artists on the bill: 1-800-Lolita, Baby J, Berrakka and SUCIA!. House and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

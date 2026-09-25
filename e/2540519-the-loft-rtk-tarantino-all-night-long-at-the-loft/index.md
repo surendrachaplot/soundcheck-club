@@ -1,6 +1,6 @@
 # The Loft: RTK Tarantino (All Night Long) at The Loft
 
-The Loft: RTK Tarantino (All Night Long) on Thu 26 Nov, Manchester. 1 act on the bill: RTK Tarantino. Preview the line-up and save it on soundcheck.
+The Loft: RTK Tarantino (All Night Long) on Thu 26 Nov, Manchester. 1 artist on the bill: RTK Tarantino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

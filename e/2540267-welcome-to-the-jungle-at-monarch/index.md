@@ -1,6 +1,6 @@
 # Welcome to the Jungle at Monarch
 
-Welcome to the Jungle at Monarch on Thu 1 Oct, Sanfrancisco. 5 acts on the bill: Booty Juice, Isobel, Maximilian and messiuhhh and 1 more. House and Club. Preview the line-up and save it on soundcheck.
+Welcome to the Jungle at Monarch on Thu 1 Oct, San Francisco/Oakland. 5 artists on the bill: Booty Juice, Isobel, Maximilian and messiuhhh and 1 more. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

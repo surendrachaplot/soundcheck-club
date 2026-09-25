@@ -1,6 +1,6 @@
 # Cyber Rave at Bajo Circuito
 
-Cyber Rave at Bajo Circuito on Thu 22 Oct, Mexicocity. 2 acts on the bill: Ironick and Salem X. Tech House and Industrial. Preview the line-up and save it on soundcheck.
+Cyber Rave at Bajo Circuito on Thu 22 Oct, Mexico City. 2 artists on the bill: Ironick and Salem X. Tech House and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

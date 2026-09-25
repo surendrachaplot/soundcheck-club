@@ -1,6 +1,6 @@
 # Dizzee Rascal at Botanique
 
-Dizzee Rascal at Botanique on Sat 3 Oct, Brussels. 1 act on the bill: Dizzee Rascal. Hip-Hop and Electro. Preview the line-up and save it on soundcheck.
+Dizzee Rascal at Botanique on Sat 3 Oct, Brussels. 1 artist on the bill: Dizzee Rascal. Hip-Hop and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

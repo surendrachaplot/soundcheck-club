@@ -1,6 +1,6 @@
 # Skream, Traumer, Wheats + MORE - Groovebox The Nest, Nottingham at The Nest
 
-Skream, Traumer, Wheats + MORE - Groovebox The Nest, Nottingham on Sat 3 Oct, Nottingham. 5 acts on the bill: Cam Stockman, Micah Baxter, Skream and Traumer and 1 more. Tech House. Preview the line-up and save it on soundcheck.
+Skream, Traumer, Wheats + MORE - Groovebox The Nest, Nottingham on Sat 3 Oct, Nottingham. 5 artists on the bill: Cam Stockman, Micah Baxter, Skream and Traumer and 1 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

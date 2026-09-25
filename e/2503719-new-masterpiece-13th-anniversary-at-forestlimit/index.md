@@ -1,6 +1,6 @@
 # New Masterpiece 13th Anniversary ニューマスターピースのテクノ・アティテュード at Forestlimit
 
-New Masterpiece 13th Anniversary ニューマスターピースのテクノ・アティテュード at Forestlimit on Sun 4 Oct, Tokyo. 1 act on the bill: ANiIIIIiiiKii. House and Electronica. Preview the line-up and save it on soundcheck.
+New Masterpiece 13th Anniversary ニューマスターピースのテクノ・アティテュード at Forestlimit on Sun 4 Oct, Tokyo. 1 artist on the bill: ANiIIIIiiiKii. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Big Wide World of Smells at Sameheads
 
-Big Wide World of Smells at Sameheads on Sat 26 Sept, Berlin. 4 acts on the bill: ALF CHAMPION, jewelry, Ngly and Niklas Wandt. Trance and Acid. Preview the line-up and save it on soundcheck.
+Big Wide World of Smells at Sameheads on Sat 26 Sept, Berlin. 4 artists on the bill: ALF CHAMPION, jewelry, Ngly and Niklas Wandt. Trance and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

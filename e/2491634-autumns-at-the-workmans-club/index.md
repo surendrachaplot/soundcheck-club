@@ -1,6 +1,6 @@
 # Autumns at The Workmans Club
 
-Autumns at The Workmans Club on Sat 21 Nov, Dublin. 1 act on the bill: Autumns. Industrial and Electronica. Preview the line-up and save it on soundcheck.
+Autumns at The Workmans Club on Sat 21 Nov, Dublin. 1 artist on the bill: Autumns. Industrial and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

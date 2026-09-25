@@ -1,6 +1,6 @@
 # AFTERPARTY: Andres Campo B2B Gerardo Niva / Ollie Lishman / BIXBITA B2B pavvvvvvlo at Mondo
 
-AFTERPARTY: Andres Campo B2B Gerardo Niva / Ollie Lishman / BIXBITA B2B pavvvvvvlo at Mondo on Sat 3 Oct, Madrid. 5 acts on the bill: Andres Campo, BIXBITA, Gerardo Niva and Ollie Lishman and 1 more. Preview the line-up and save it on soundcheck.
+AFTERPARTY: Andres Campo B2B Gerardo Niva / Ollie Lishman / BIXBITA B2B pavvvvvvlo at Mondo on Sat 3 Oct, Madrid. 5 artists on the bill: Andres Campo, BIXBITA, Gerardo Niva and Ollie Lishman and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

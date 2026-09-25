@@ -2,7 +2,7 @@
 
 Secus is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Los Angeles, Los Angeles on Sun, 25 Oct 2026.
 
-Secus is a techno and acid artist based in United States of America, tracked on soundcheck, with 14 sets logged across Detroit, Losangeles and Sanfrancisco. Often billed alongside Annika Wolfe, Anastasia Giovani and DAX J. Next up: TBA - Los Angeles, Losangeles on Sun 25 Oct.
+Secus is a techno and acid artist based in United States of America, tracked on soundcheck, with 14 sets logged across Detroit, Los Angeles and San Francisco/Oakland. Often billed alongside Annika Wolfe, Anastasia Giovani and DAX J. Next up: TBA - Los Angeles, Los Angeles on Sun 25 Oct.
 
 ## Upcoming shows
 

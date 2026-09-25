@@ -1,6 +1,6 @@
 # Buckley Curates: Introspekt, Zuri and Krotone (Live) at Headrow House
 
-Buckley Curates: Introspekt, Zuri and Krotone (Live) at Headrow House on Fri 6 Nov, Leeds. 4 acts on the bill: Buckley (UK), Introspekt, Krotone and Zuri. Preview the line-up and save it on soundcheck.
+Buckley Curates: Introspekt, Zuri and Krotone (Live) at Headrow House on Fri 6 Nov, Leeds. 4 artists on the bill: Buckley (UK), Introspekt, Krotone and Zuri. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

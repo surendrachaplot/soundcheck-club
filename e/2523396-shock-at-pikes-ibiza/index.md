@@ -1,6 +1,6 @@
 # SHOCK at Pikes Ibiza
 
-SHOCK at Pikes Ibiza on Wed 21 Oct, Ibiza. 1 act on the bill: David Morales. Preview the line-up and save it on soundcheck.
+SHOCK at Pikes Ibiza on Wed 21 Oct, Ibiza. 1 artist on the bill: David Morales. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

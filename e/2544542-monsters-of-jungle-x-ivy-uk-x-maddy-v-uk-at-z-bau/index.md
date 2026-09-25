@@ -1,6 +1,6 @@
 # Monsters of Jungle x [IVY] (UK) x Maddy V (UK) at Z-Bau
 
-Monsters of Jungle x [IVY] (UK) x Maddy V (UK) at Z-Bau on Sat 17 Oct, Nurnberg. 2 acts on the bill: DJ Geheimagent and Maddy V. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Monsters of Jungle x [IVY] (UK) x Maddy V (UK) at Z-Bau on Sat 17 Oct, Nürnberg. 2 artists on the bill: DJ Geheimagent and Maddy V. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

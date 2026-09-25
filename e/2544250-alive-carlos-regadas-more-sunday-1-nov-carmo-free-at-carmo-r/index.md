@@ -1,6 +1,6 @@
 # Alive ‣ Carlos Regadas &MORE - SUNDAY 1 NOV × CARMO • FREE at Carmo Rooftop
 
-Alive ‣ Carlos Regadas &MORE - SUNDAY 1 NOV × CARMO • FREE at Carmo Rooftop on Sun 1 Nov, Lisbon. 3 acts on the bill: Alive, Carlos Regadas and Rui Alves. Techno and House. Preview the line-up and save it on soundcheck.
+Alive ‣ Carlos Regadas &MORE - SUNDAY 1 NOV × CARMO • FREE at Carmo Rooftop on Sun 1 Nov, Lisbon. 3 artists on the bill: Alive, Carlos Regadas and Rui Alves. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

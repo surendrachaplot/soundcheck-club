@@ -1,6 +1,6 @@
 # B-SIDE invites: Mustelide (live), Body Marcus, Slava at B-SIDE
 
-B-SIDE invites: Mustelide (live), Body Marcus, Slava on Sat 26 Sept, Warsaw. 2 acts on the bill: Body Marcus and Mustelide. House and Tech House. Preview the line-up and save it on soundcheck.
+B-SIDE invites: Mustelide (live), Body Marcus, Slava on Sat 26 Sept, Warsaw. 2 artists on the bill: Body Marcus and Mustelide. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

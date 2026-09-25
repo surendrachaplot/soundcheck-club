@@ -2,7 +2,7 @@
 
 Syd Gris is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
 
-Syd Gris is a house and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Austin, Losangeles, Sanfrancisco and Seattle. Often billed alongside Emanate, Major Trouble and Marie Posa. Next up: The Midway, Sanfrancisco on Sat 10 Oct.
+Syd Gris is a house and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Austin, Los Angeles, San Francisco/Oakland and Seattle. Often billed alongside Emanate, Major Trouble and Marie Posa. Next up: The Midway, San Francisco/Oakland on Sat 10 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Inner Circle, Steve k at Laissez Faire
 
-Inner Circle, Steve k at Laissez Faire on Fri 25 Sept, Newyorkcity. House and Afro House. Preview the line-up and save it on soundcheck.
+Inner Circle, Steve k at Laissez Faire on Fri 25 Sept, New York City. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

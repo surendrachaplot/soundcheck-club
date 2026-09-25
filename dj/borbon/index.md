@@ -2,7 +2,7 @@
 
 Borbón is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Outer Heaven, New York City on Wed, 30 Sept 2026.
 
-Borbón is a house and disco artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity. Often billed alongside Omer Mil, Miss Gypsy and Arianna Danae. Next up: Outer Heaven, Newyorkcity on Wed 30 Sept.
+Borbón is a house and disco artist based in United States of America, tracked on soundcheck, with 28 sets logged across New York City. Often billed alongside Omer Mil, Miss Gypsy and Arianna Danae. Next up: Outer Heaven, New York City on Wed 30 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # 90mil presents: KULKU & MONOSUM at 90mil
 
-90mil presents: KULKU & MONOSUM on Fri 16 Oct, Berlin. 1 act on the bill: Miri Malek. Preview the line-up and save it on soundcheck.
+90mil presents: KULKU & MONOSUM on Fri 16 Oct, Berlin. 1 artist on the bill: Miri Malek. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

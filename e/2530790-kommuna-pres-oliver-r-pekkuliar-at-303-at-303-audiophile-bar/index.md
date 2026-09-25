@@ -1,6 +1,6 @@
 # Kommuna pres.Oliver.r & pekkuliar at 303 at 303 Audiophile Bar
 
-Kommuna pres.Oliver.r & pekkuliar at 303 at 303 Audiophile Bar on Fri 9 Oct, Barcelona. 2 acts on the bill: Oliver.r and pekkuliar. House. Preview the line-up and save it on soundcheck.
+Kommuna pres.Oliver.r & pekkuliar at 303 at 303 Audiophile Bar on Fri 9 Oct, Barcelona. 2 artists on the bill: Oliver.r and pekkuliar. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

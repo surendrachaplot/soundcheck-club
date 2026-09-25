@@ -1,6 +1,6 @@
 # The Libra Effect - AURA Saturdays – Sep 26 at Level Astoria
 
-The Libra Effect - AURA Saturdays – Sep 26 at Level Astoria on Sat 26 Sept, Newyorkcity. Hip-Hop and Afrobeat. Preview the line-up and save it on soundcheck.
+The Libra Effect - AURA Saturdays – Sep 26 at Level Astoria on Sat 26 Sept, New York City. Hip-Hop and Afrobeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

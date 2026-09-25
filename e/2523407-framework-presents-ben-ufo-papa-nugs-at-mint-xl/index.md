@@ -1,6 +1,6 @@
 # Framework presents Ben UFO, Papa Nugs at Mint XL
 
-Framework presents Ben UFO, Papa Nugs at Mint XL on Fri 20 Nov, Leeds. 4 acts on the bill: Annie Errez, Ben UFO, Bobby O'Donnell and Papa Nugs. Techno and House. Preview the line-up and save it on soundcheck.
+Framework presents Ben UFO, Papa Nugs at Mint XL on Fri 20 Nov, Leeds. 4 artists on the bill: Annie Errez, Ben UFO, Bobby O'Donnell and Papa Nugs. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

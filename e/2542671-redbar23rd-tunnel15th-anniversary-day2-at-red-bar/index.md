@@ -1,6 +1,6 @@
 # REDBAR23rd & TUNNEL15th ANNIVERSARY - DAY2 at Red Bar
 
-REDBAR23rd & TUNNEL15th ANNIVERSARY - DAY2 at Red Bar on Sat 3 Oct, Tokyo. 4 acts on the bill: AOKI takamasa, r1ku, YO.AN and ZUNDOKO DISCO. Techno and House. Preview the line-up and save it on soundcheck.
+REDBAR23rd & TUNNEL15th ANNIVERSARY - DAY2 at Red Bar on Sat 3 Oct, Tokyo. 4 artists on the bill: AOKI takamasa, r1ku, YO.AN and ZUNDOKO DISCO. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

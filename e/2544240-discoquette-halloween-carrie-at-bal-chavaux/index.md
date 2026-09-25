@@ -1,6 +1,6 @@
 # Discoquette Halloween: Carrie at Bal Chavaux
 
-Discoquette Halloween: Carrie at Bal Chavaux on Sat 31 Oct, Paris. 3 acts on the bill: Azo, Cheriii and Fenouil2000. House. Preview the line-up and save it on soundcheck.
+Discoquette Halloween: Carrie at Bal Chavaux on Sat 31 Oct, Paris. 3 artists on the bill: Azo, Cheriii and Fenouil2000. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

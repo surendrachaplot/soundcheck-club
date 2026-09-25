@@ -1,6 +1,6 @@
 # MOVING D-EDGE SP pres.: P2: BLEMMES. JOVIQUE. MERIVA at D-EDGE
 
-MOVING D-EDGE SP pres.: P2: BLEMMES. JOVIQUE. MERIVA on Thu 24 Sept, Saopaulo. House and Tech House. Preview the line-up and save it on soundcheck.
+MOVING D-EDGE SP pres.: P2: BLEMMES. JOVIQUE. MERIVA on Thu 24 Sept, Sao Paulo. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

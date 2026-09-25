@@ -1,6 +1,6 @@
 # Moritz von Oswald, Sarah Wreath at Signal
 
-Moritz von Oswald, Sarah Wreath at Signal on Sat 3 Oct, Newyorkcity. 2 acts on the bill: Moritz von Oswald and Sarah Wreath. Preview the line-up and save it on soundcheck.
+Moritz von Oswald, Sarah Wreath at Signal on Sat 3 Oct, New York City. 2 artists on the bill: Moritz von Oswald and Sarah Wreath. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

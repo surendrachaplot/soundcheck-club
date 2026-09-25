@@ -1,6 +1,6 @@
 # Oui Hours Présente: Lefblom Carte Blanche at Plantation
 
-Oui Hours Présente: Lefblom Carte Blanche at Plantation on Sun 27 Sept, Paris. 6 acts on the bill: Aurèle, Ian Maur, Lefblom and Lüma-G and 2 more. Preview the line-up and save it on soundcheck.
+Oui Hours Présente: Lefblom Carte Blanche at Plantation on Sun 27 Sept, Paris. 6 artists on the bill: Aurèle, Ian Maur, Lefblom and Lüma-G and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

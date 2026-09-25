@@ -1,6 +1,6 @@
 # BLACK NOIR presents: A*S*Y*S [DE] at The Flinders
 
-BLACK NOIR presents: A*S*Y*S [DE] at The Flinders on Sat 31 Oct, Sydney. 2 acts on the bill: A*S*Y*S (2) and I-SO. Techno and Acid. Preview the line-up and save it on soundcheck.
+BLACK NOIR presents: A*S*Y*S [DE] at The Flinders on Sat 31 Oct, Sydney. 2 artists on the bill: A*S*Y*S and I-SO. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

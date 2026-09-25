@@ -1,6 +1,6 @@
 # Oslo World x Nightflight x Lyd: Jonny Rock + Olle Abstract at Jaeger
 
-Oslo World x Nightflight x Lyd: Jonny Rock + Olle Abstract at Jaeger on Sat 31 Oct, Oslo. 1 act on the bill: Jonny Rock. House. Preview the line-up and save it on soundcheck.
+Oslo World x Nightflight x Lyd: Jonny Rock + Olle Abstract at Jaeger on Sat 31 Oct, Oslo. 1 artist on the bill: Jonny Rock. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

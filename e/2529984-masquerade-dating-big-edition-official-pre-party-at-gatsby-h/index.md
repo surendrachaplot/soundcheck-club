@@ -1,6 +1,6 @@
 # Masquerade Dating - BIG EDITION Official Pre-Party at Gatsby Hall
 
-Masquerade Dating - BIG EDITION Official Pre-Party at Gatsby Hall on Thu 5 Nov, Prague. 1 act on the bill: SAVBEA. Techno and House. Preview the line-up and save it on soundcheck.
+Masquerade Dating - BIG EDITION Official Pre-Party at Gatsby Hall on Thu 5 Nov, Prague. 1 artist on the bill: SAVBEA. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Morcheeba at The Glasshouse International Centre for Music
 
-Morcheeba at The Glasshouse International Centre for Music on Mon 9 Nov, Newcastle. 1 act on the bill: Morcheeba. Downtempo. Preview the line-up and save it on soundcheck.
+Morcheeba at The Glasshouse International Centre for Music on Mon 9 Nov, Newcastle. 1 artist on the bill: Morcheeba. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

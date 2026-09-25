@@ -1,6 +1,6 @@
 # MRAK at Industry City
 
-MRAK at Industry City on Sat 10 Oct, Newyorkcity. 1 act on the bill: MRAK. Preview the line-up and save it on soundcheck.
+MRAK at Industry City on Sat 10 Oct, New York City. 1 artist on the bill: MRAK. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

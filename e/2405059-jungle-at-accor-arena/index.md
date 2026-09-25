@@ -1,6 +1,6 @@
 # Jungle at Accor Arena
 
-Jungle at Accor Arena on Fri 30 Oct, Paris. 1 act on the bill: Jungle (UK). Electro and Pop. Preview the line-up and save it on soundcheck.
+Jungle at Accor Arena on Fri 30 Oct, Paris. 1 artist on the bill: Jungle (UK). Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

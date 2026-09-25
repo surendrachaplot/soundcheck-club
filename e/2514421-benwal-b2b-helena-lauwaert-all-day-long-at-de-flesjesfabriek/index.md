@@ -1,6 +1,6 @@
 # Benwal b2b Helena Lauwaert (All Day Long) at De Flesjesfabriek
 
-Benwal b2b Helena Lauwaert (All Day Long) at De Flesjesfabriek on Fri 16 Oct, Ghent. 2 acts on the bill: Benwal and Helena Lauwaert. Preview the line-up and save it on soundcheck.
+Benwal b2b Helena Lauwaert (All Day Long) at De Flesjesfabriek on Fri 16 Oct, Ghent. 2 artists on the bill: Benwal and Helena Lauwaert. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

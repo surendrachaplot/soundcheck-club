@@ -1,6 +1,6 @@
 # Intercell x SPFDJ Invites - ADE By Night at H7 Warehouse
 
-Intercell x SPFDJ Invites - ADE By Night at H7 Warehouse on Sat 24 Oct, Amsterdam. 6 acts on the bill: Fenrick, Lisa Korver, Megra and PETERBLUE and 2 more. Preview the line-up and save it on soundcheck.
+Intercell x SPFDJ Invites - ADE By Night at H7 Warehouse on Sat 24 Oct, Amsterdam. 6 artists on the bill: Fenrick, Lisa Korver, Megra and PETERBLUE and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

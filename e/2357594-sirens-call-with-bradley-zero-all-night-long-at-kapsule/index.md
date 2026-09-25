@@ -1,6 +1,6 @@
 # Sirens Call with Bradley Zero All Night Long at Kapsule
 
-Sirens Call with Bradley Zero All Night Long at Kapsule on Sat 28 Nov, Liverpool. 1 act on the bill: Bradley Zero. House and Disco. Preview the line-up and save it on soundcheck.
+Sirens Call with Bradley Zero All Night Long at Kapsule on Sat 28 Nov, Liverpool. 1 artist on the bill: Bradley Zero. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

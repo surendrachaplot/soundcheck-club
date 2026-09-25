@@ -1,6 +1,6 @@
 # [CANCELLED] FLY | Patrick Mason - Glasgow at Sub Club
 
-[CANCELLED] FLY | Patrick Mason - Glasgow at Sub Club on Thu 24 Sept, Glasgow. 2 acts on the bill: Patrick Mason and SKYLERMYLER. House. Preview the line-up and save it on soundcheck.
+[CANCELLED] FLY | Patrick Mason - Glasgow at Sub Club on Thu 24 Sept, Glasgow. 2 artists on the bill: Patrick Mason and SKYLERMYLER. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

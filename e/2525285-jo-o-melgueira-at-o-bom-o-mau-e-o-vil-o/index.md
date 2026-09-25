@@ -1,6 +1,6 @@
 # João Melgueira at o Bom, o Mau e o Vilão
 
-João Melgueira at o Bom, o Mau e o Vilão on Fri 25 Sept, Lisbon. 1 act on the bill: João Melgueira. House and Tech House. Preview the line-up and save it on soundcheck.
+João Melgueira at o Bom, o Mau e o Vilão on Fri 25 Sept, Lisbon. 1 artist on the bill: João Melgueira. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

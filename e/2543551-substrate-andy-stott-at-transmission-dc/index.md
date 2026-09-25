@@ -1,6 +1,6 @@
 # SUBSTRATE: Andy Stott at TRANSMISSION DC
 
-SUBSTRATE: Andy Stott at TRANSMISSION DC on Thu 1 Oct, Washingtondc. 1 act on the bill: Andy Stott. Techno. Preview the line-up and save it on soundcheck.
+SUBSTRATE: Andy Stott at TRANSMISSION DC on Thu 1 Oct, Washington DC. 1 artist on the bill: Andy Stott. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

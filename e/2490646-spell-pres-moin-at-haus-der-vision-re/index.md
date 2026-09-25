@@ -1,6 +1,6 @@
 # Spell pres. Moin at Haus der Visionäre
 
-Spell pres. Moin at Haus der Visionäre on Sun 4 Oct, Berlin. 5 acts on the bill: Al Wootton, Moin, Vaahzer and Velv.93 and 1 more. Preview the line-up and save it on soundcheck.
+Spell pres. Moin at Haus der Visionäre on Sun 4 Oct, Berlin. 5 artists on the bill: Al Wootton, Moin, Vaahzer and Velv.93 and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Troniic Giirls vol. 3 at CHICO
 
-Troniic Giirls vol. 3 at CHICO on Fri 23 Oct, Mexicocity. 4 acts on the bill: Aliien Giirl, Kitsunee, Laura Coch and Maseriche. Preview the line-up and save it on soundcheck.
+Troniic Giirls vol. 3 at CHICO on Fri 23 Oct, Mexico City. 4 artists on the bill: Aliien Giirl, Kitsunee, Laura Coch and Maseriche. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

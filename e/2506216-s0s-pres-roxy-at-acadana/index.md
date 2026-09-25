@@ -1,6 +1,6 @@
 # S0S pres. Roxy at Acadana
 
-S0S pres. Roxy at Acadana on Fri 20 Nov, Hongkong. 1 act on the bill: WOON. Industrial and Noise. Preview the line-up and save it on soundcheck.
+S0S pres. Roxy at Acadana on Fri 20 Nov, Hong Kong. 1 artist on the bill: WOON. Industrial and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

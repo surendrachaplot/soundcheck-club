@@ -1,6 +1,6 @@
 # UK RAVE with KeepØnRaving at Club Favela
 
-UK RAVE with KeepØnRaving at Club Favela on Sat 26 Sept, Munster. 1 act on the bill: FERB. Techno. Preview the line-up and save it on soundcheck.
+UK RAVE with KeepØnRaving at Club Favela on Sat 26 Sept, Munster. 1 artist on the bill: FERB. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

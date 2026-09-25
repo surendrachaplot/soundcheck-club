@@ -1,6 +1,6 @@
 # tribalism - DAX J, Masst at essaim
 
-tribalism - DAX J, Masst at essaim on Fri 2 Oct, Paris. 2 acts on the bill: DAX J and masst_. Techno. Preview the line-up and save it on soundcheck.
+tribalism - DAX J, Masst at essaim on Fri 2 Oct, Paris. 2 artists on the bill: DAX J and masst_. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

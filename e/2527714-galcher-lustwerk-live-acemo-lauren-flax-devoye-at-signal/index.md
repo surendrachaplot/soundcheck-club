@@ -1,6 +1,6 @@
 # Galcher Lustwerk (LIVE), AceMo, Lauren Flax, Devoye at Signal
 
-Galcher Lustwerk (LIVE), AceMo, Lauren Flax, Devoye at Signal on Sat 10 Oct, Newyorkcity. 4 acts on the bill: AceMo, Devoye, Galcher Lustwerk and Lauren Flax. Preview the line-up and save it on soundcheck.
+Galcher Lustwerk (LIVE), AceMo, Lauren Flax, Devoye at Signal on Sat 10 Oct, New York City. 4 artists on the bill: AceMo, Devoye, Galcher Lustwerk and Lauren Flax. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

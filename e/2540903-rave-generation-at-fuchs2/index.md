@@ -1,6 +1,6 @@
 # Rave Generation at Fuchs2
 
-Rave Generation at Fuchs2 on Sat 7 Nov, Prague. 1 act on the bill: Philip Ackowsky. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Rave Generation at Fuchs2 on Sat 7 Nov, Prague. 1 artist on the bill: Philip Ackowsky. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

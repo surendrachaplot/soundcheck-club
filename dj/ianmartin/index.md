@@ -2,7 +2,7 @@
 
 Ian Martin is a Acid and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Inter-City, The Hague on Sat, 26 Sept 2026.
 
-Ian Martin is an acid and disco artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Esther Dune, I-F and Marsman. Next up: Inter-City, Thehague on Sat 26 Sept.
+Ian Martin is an acid and disco artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Esther Dune, I-F and Marsman. Next up: Inter-City, The Hague on Sat 26 Sept.
 
 ## Upcoming shows
 

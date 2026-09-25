@@ -1,6 +1,6 @@
 # Samira + Spacer at LAUT
 
-Samira + Spacer at LAUT on Sat 3 Oct, Barcelona. 2 acts on the bill: Samira (NL) and Spacer. Techno and Electro. Preview the line-up and save it on soundcheck.
+Samira + Spacer at LAUT on Sat 3 Oct, Barcelona. 2 artists on the bill: Samira (NL) and Spacer. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

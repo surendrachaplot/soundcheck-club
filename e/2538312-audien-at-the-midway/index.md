@@ -1,6 +1,6 @@
 # Audien at The Midway
 
-Audien at The Midway on Fri 9 Oct, Sanfrancisco. 1 act on the bill: Audien. Progressive House. Preview the line-up and save it on soundcheck.
+Audien at The Midway on Fri 9 Oct, San Francisco/Oakland. 1 artist on the bill: Audien. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

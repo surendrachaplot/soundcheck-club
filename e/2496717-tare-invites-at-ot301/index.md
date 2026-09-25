@@ -1,6 +1,6 @@
 # Tare invites at OT301
 
-Tare invites at OT301 on Sat 3 Oct, Amsterdam. 4 acts on the bill: Bardo (1), Charlton, Raquel Cruz and Tare. Techno and House. Preview the line-up and save it on soundcheck.
+Tare invites at OT301 on Sat 3 Oct, Amsterdam. 4 artists on the bill: Bardo, Charlton, Raquel Cruz and Tare. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

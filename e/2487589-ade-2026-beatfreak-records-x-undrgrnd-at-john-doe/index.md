@@ -1,6 +1,6 @@
 # ADE 2026 - Beatfreak Records x UNDRGRND at John Doe
 
-ADE 2026 - Beatfreak Records x UNDRGRND at John Doe on Fri 23 Oct, Amsterdam. 5 acts on the bill: Alex Medina, Alex Sharp, D-Formation and Darksidevinyl and 1 more. Techno. Preview the line-up and save it on soundcheck.
+ADE 2026 - Beatfreak Records x UNDRGRND at John Doe on Fri 23 Oct, Amsterdam. 5 artists on the bill: Alex Medina, Alex Sharp, D-Formation and Darksidevinyl and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

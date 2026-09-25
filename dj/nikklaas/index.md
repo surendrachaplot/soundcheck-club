@@ -2,7 +2,7 @@
 
 Nikklaas is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bulbul Berlin, Berlin on Sat, 26 Sept 2026.
 
-Nikklaas is a house and club artist based in Germany, tracked on soundcheck, with 141 sets logged across Berlin, Dusseldorf and Zurich. Often billed alongside Better Call Paul, Anne Hou and MagDita. Next up: Bulbul Berlin, Berlin on Sat 26 Sept.
+Nikklaas is a house and club artist based in Germany, tracked on soundcheck, with 141 sets logged across Berlin, Düsseldorf and Zurich. Often billed alongside Better Call Paul, Anne Hou and MagDita. Next up: Bulbul Berlin, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 

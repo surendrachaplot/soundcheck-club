@@ -1,6 +1,6 @@
 # UNDERGROUND ASSISTANCE at Slot
 
-UNDERGROUND ASSISTANCE at Slot on Sat 24 Oct, Hamburg. 3 acts on the bill: ASSISTANT DJ, Breaka and Nassstya. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+UNDERGROUND ASSISTANCE at Slot on Sat 24 Oct, Hamburg. 3 artists on the bill: ASSISTANT DJ, Breaka and Nassstya. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

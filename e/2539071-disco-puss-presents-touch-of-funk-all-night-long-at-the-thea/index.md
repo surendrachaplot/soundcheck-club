@@ -1,6 +1,6 @@
 # DISCO PUSS presents: Touch Of Funk 'All Night Long at the Theatre' at Niamos
 
-DISCO PUSS presents: Touch Of Funk 'All Night Long at the Theatre' at Niamos on Fri 2 Oct, Manchester. 1 act on the bill: Touch Of Funk. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+DISCO PUSS presents: Touch Of Funk 'All Night Long at the Theatre' at Niamos on Fri 2 Oct, Manchester. 1 artist on the bill: Touch Of Funk. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

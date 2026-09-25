@@ -1,6 +1,6 @@
 # ALIVE: Paolo Ferrara (All Night Long) at E1
 
-ALIVE: Paolo Ferrara (All Night Long) at E1 on Fri 6 Nov, London. 1 act on the bill: Paolo Ferrara. Techno. Preview the line-up and save it on soundcheck.
+ALIVE: Paolo Ferrara (All Night Long) at E1 on Fri 6 Nov, London. 1 artist on the bill: Paolo Ferrara. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

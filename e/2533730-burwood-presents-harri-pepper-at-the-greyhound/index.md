@@ -1,6 +1,6 @@
 # Burwood presents: Harri Pepper at The Greyhound
 
-Burwood presents: Harri Pepper at The Greyhound on Sat 24 Oct, London. 3 acts on the bill: Harri Pepper, Henry Bennett and Kennedy (UK). House and Electro. Preview the line-up and save it on soundcheck.
+Burwood presents: Harri Pepper at The Greyhound on Sat 24 Oct, London. 3 artists on the bill: Harri Pepper, Henry Bennett and Kennedy (UK). House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

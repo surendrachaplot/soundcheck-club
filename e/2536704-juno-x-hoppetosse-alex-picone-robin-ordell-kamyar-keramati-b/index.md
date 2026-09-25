@@ -1,6 +1,6 @@
 # Juno x Hoppetosse: Alex Picone, Robin Ordell, Kamyar Keramati, Bonza, Frankiee at Hoppetosse
 
-Juno x Hoppetosse: Alex Picone, Robin Ordell, Kamyar Keramati, Bonza, Frankiee on Fri 2 Oct, Berlin. 4 acts on the bill: Alex Picone, Bonza, Kamyar Keramati and Robin Ordell. Preview the line-up and save it on soundcheck.
+Juno x Hoppetosse: Alex Picone, Robin Ordell, Kamyar Keramati, Bonza, Frankiee on Fri 2 Oct, Berlin. 4 artists on the bill: Alex Picone, Bonza, Kamyar Keramati and Robin Ordell. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

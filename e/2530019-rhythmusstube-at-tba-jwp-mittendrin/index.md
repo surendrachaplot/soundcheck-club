@@ -1,6 +1,6 @@
 # Rhythmusstube at TBA - JWP MittenDrin
 
-Rhythmusstube at TBA - JWP MittenDrin on Sat 10 Oct, Berlin. 1 act on the bill: INDACID. Techno and House. Preview the line-up and save it on soundcheck.
+Rhythmusstube at TBA - JWP MittenDrin on Sat 10 Oct, Berlin. 1 artist on the bill: INDACID. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

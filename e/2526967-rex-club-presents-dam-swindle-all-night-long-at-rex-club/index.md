@@ -1,6 +1,6 @@
 # Rex Club presents: Dam Swindle all night long at Rex Club
 
-Rex Club presents: Dam Swindle all night long on Fri 2 Oct, Paris. 1 act on the bill: Dam Swindle. House and Deep House. Preview the line-up and save it on soundcheck.
+Rex Club presents: Dam Swindle all night long on Fri 2 Oct, Paris. 1 artist on the bill: Dam Swindle. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Refuge Friday: DJ Seinfeld, Baltra, Physical Therapy & Kiyoshi at Refuge
 
-Refuge Friday: DJ Seinfeld, Baltra, Physical Therapy & Kiyoshi on Fri 23 Oct, Newyorkcity. 4 acts on the bill: Baltra, DJ Seinfeld, Kiyoshi and Physical Therapy. Preview the line-up and save it on soundcheck.
+Refuge Friday: DJ Seinfeld, Baltra, Physical Therapy & Kiyoshi on Fri 23 Oct, New York City. 4 artists on the bill: Baltra, DJ Seinfeld, Kiyoshi and Physical Therapy. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

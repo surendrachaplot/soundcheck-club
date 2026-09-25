@@ -1,6 +1,6 @@
 # KCRW presents THE MAZE with the Blaze (live) & Claude VonStroke at TBA
 
-KCRW presents THE MAZE with the Blaze (live) & Claude VonStroke at TBA on Sat 31 Oct, Losangeles. House and Electronica. Preview the line-up and save it on soundcheck.
+KCRW presents THE MAZE with the Blaze (live) & Claude VonStroke at TBA on Sat 31 Oct, Los Angeles. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

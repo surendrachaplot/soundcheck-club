@@ -1,6 +1,6 @@
 # Witch Finger Halloween with Jason Kendig, DJ Heather, Trqpiteca, Harry Cross at Bourbon On Division
 
-Witch Finger Halloween with Jason Kendig, DJ Heather, Trqpiteca, Harry Cross at Bourbon On Division on Sat 31 Oct, Chicago. 3 acts on the bill: DJ Heather, Harry Cross and Jason Kendig. Techno and House. Preview the line-up and save it on soundcheck.
+Witch Finger Halloween with Jason Kendig, DJ Heather, Trqpiteca, Harry Cross at Bourbon On Division on Sat 31 Oct, Chicago. 3 artists on the bill: DJ Heather, Harry Cross and Jason Kendig. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

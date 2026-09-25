@@ -1,6 +1,6 @@
 # ADE: Semi Delicious with Demi Riquísimo • Kamma • Retromigration b2b Lulah Francs at Radio Radio
 
-ADE: Semi Delicious with Demi Riquísimo • Kamma • Retromigration b2b Lulah Francs at Radio Radio on Thu 22 Oct, Amsterdam. 4 acts on the bill: Demi Riquisimo, Kamma, Lulah Francs and Retromigration. Preview the line-up and save it on soundcheck.
+ADE: Semi Delicious with Demi Riquísimo • Kamma • Retromigration b2b Lulah Francs at Radio Radio on Thu 22 Oct, Amsterdam. 4 artists on the bill: Demi Riquisimo, Kamma, Lulah Francs and Retromigration. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

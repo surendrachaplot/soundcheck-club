@@ -1,6 +1,6 @@
 # SMD - Halloween Edition at TBA
 
-SMD - Halloween Edition at TBA on Fri 30 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+SMD - Halloween Edition at TBA on Fri 30 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

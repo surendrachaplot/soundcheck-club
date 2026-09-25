@@ -1,6 +1,6 @@
 # ACID WAVES 11 // TRIGGER UNIT - MAJKL NSK - RAVING ZEBRA - ČMARKY - NANO - BEBE * at Altenburg 1964
 
-ACID WAVES 11 // TRIGGER UNIT - MAJKL NSK - RAVING ZEBRA - ČMARKY - NANO - BEBE * at Altenburg 1964 on Fri 2 Oct, Prague. 1 act on the bill: RAVING zebra. Techno and Acid. Preview the line-up and save it on soundcheck.
+ACID WAVES 11 // TRIGGER UNIT - MAJKL NSK - RAVING ZEBRA - ČMARKY - NANO - BEBE * at Altenburg 1964 on Fri 2 Oct, Prague. 1 artist on the bill: RAVING zebra. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

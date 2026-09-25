@@ -1,6 +1,6 @@
 # Take It Easy pres. House of Dirty with Danilo Plessow (MCDE) + Dirty Channels at Arca
 
-Take It Easy pres. House of Dirty with Danilo Plessow (MCDE) + Dirty Channels at Arca on Sat 10 Oct, Milan. 2 acts on the bill: Danilo Plessow and Dirty Channels. House and Disco. Preview the line-up and save it on soundcheck.
+Take It Easy pres. House of Dirty with Danilo Plessow (MCDE) + Dirty Channels at Arca on Sat 10 Oct, Milan. 2 artists on the bill: Danilo Plessow and Dirty Channels. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

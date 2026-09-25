@@ -1,6 +1,6 @@
 # NOTTE TEKNO: Stiwie (MayDay Soundystem), Dolce Potente, DTS live, Atmosphreal at Tempio del Futuro Perduto
 
-NOTTE TEKNO: Stiwie (MayDay Soundystem), Dolce Potente, DTS live, Atmosphreal at Tempio del Futuro Perduto on Sat 3 Oct, Milan. 3 acts on the bill: Atmosphreal, Dolce Potente and DRUM THE SYSTEM live. Preview the line-up and save it on soundcheck.
+NOTTE TEKNO: Stiwie (MayDay Soundystem), Dolce Potente, DTS live, Atmosphreal at Tempio del Futuro Perduto on Sat 3 Oct, Milan. 3 artists on the bill: Atmosphreal, Dolce Potente and DRUM THE SYSTEM live. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Forello feat. Xácome - Live & Synth Jam at Rastro Live Studio
 
-Forello feat. Xácome - Live & Synth Jam at Rastro Live Studio on Fri 2 Oct, Madrid. 2 acts on the bill: Forello and xacome. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Forello feat. Xácome - Live & Synth Jam at Rastro Live Studio on Fri 2 Oct, Madrid. 2 artists on the bill: Forello and xacome. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

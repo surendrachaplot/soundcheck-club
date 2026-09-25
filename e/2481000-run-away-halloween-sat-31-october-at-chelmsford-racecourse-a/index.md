@@ -1,6 +1,6 @@
 # Run Away Halloween - Sat 31 October at Chelmsford Racecourse at Chelmsford City Racecourse
 
-Run Away Halloween - Sat 31 October at Chelmsford Racecourse at Chelmsford City Racecourse on Sat 31 Oct, London. 17 acts on the bill: 2 Bad Mice, Armand Van Helden, Billy Daniel Bunter and Chopper (UK) and 13 more. House and Minimal. Preview the line-up and save it on soundcheck.
+Run Away Halloween - Sat 31 October at Chelmsford Racecourse at Chelmsford City Racecourse on Sat 31 Oct, London. 17 artists on the bill: 2 Bad Mice, Armand Van Helden, Billy Daniel Bunter and Chopper (UK) and 13 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

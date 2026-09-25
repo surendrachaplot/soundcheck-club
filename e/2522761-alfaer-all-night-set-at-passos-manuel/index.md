@@ -1,6 +1,6 @@
 # AlFaer - all night set at Passos Manuel
 
-AlFaer - all night set at Passos Manuel on Fri 2 Oct, Porto. 1 act on the bill: AlFaer. Electro and Electronica. Preview the line-up and save it on soundcheck.
+AlFaer - all night set at Passos Manuel on Fri 2 Oct, Porto. 1 artist on the bill: AlFaer. Electro and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

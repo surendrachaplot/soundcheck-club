@@ -1,6 +1,6 @@
 # Graeme Park, Todd Terry & More at Freeze Project at Freeze HiFi
 
-Graeme Park, Todd Terry & More at Freeze Project at Freeze HiFi on Sat 31 Oct, Liverpool. 2 acts on the bill: Graeme Park and Todd Terry. House and Club. Preview the line-up and save it on soundcheck.
+Graeme Park, Todd Terry & More at Freeze Project at Freeze HiFi on Sat 31 Oct, Liverpool. 2 artists on the bill: Graeme Park and Todd Terry. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

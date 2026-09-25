@@ -1,6 +1,6 @@
 # Outcast x Les Enfants pres. Paquita Gordon + Munir Nadir at Les Enfants Brillants
 
-Outcast x Les Enfants pres. Paquita Gordon + Munir Nadir at Les Enfants Brillants on Sat 21 Nov, Barcelona. 2 acts on the bill: Munir Nadir and Paquita Gordon. Techno and Electro. Preview the line-up and save it on soundcheck.
+Outcast x Les Enfants pres. Paquita Gordon + Munir Nadir at Les Enfants Brillants on Sat 21 Nov, Barcelona. 2 artists on the bill: Munir Nadir and Paquita Gordon. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

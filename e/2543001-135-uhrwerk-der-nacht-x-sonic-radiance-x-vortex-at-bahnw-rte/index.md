@@ -1,6 +1,6 @@
 # 135+ - Uhrwerk der Nacht X Sonic Radiance X Vortex at Bahnwärter Thiel
 
-135+ - Uhrwerk der Nacht X Sonic Radiance X Vortex at Bahnwärter Thiel on Fri 2 Oct, Munich. 2 acts on the bill: Fazi and TUTTOBENE. Preview the line-up and save it on soundcheck.
+135+ - Uhrwerk der Nacht X Sonic Radiance X Vortex at Bahnwärter Thiel on Fri 2 Oct, Munich. 2 artists on the bill: Fazi and TUTTOBENE. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

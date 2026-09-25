@@ -1,6 +1,6 @@
 # Obscura x Luminex presents: Raxeller, Ngl & Embers at The Classic Grand
 
-Obscura x Luminex presents: Raxeller, Ngl & Embers at The Classic Grand on Sat 12 Dec, Glasgow. 1 act on the bill: Raxeller. Techno. Preview the line-up and save it on soundcheck.
+Obscura x Luminex presents: Raxeller, Ngl & Embers at The Classic Grand on Sat 12 Dec, Glasgow. 1 artist on the bill: Raxeller. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

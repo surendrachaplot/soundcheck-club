@@ -1,6 +1,6 @@
 # Pulse of Pleasure at TBA - Intimate Toronto East Downtown Location
 
-Pulse of Pleasure at TBA - Intimate Toronto East Downtown Location on Sat 10 Oct, Toronto. 1 act on the bill: Raw Pulse. House and Afro House. Preview the line-up and save it on soundcheck.
+Pulse of Pleasure at TBA - Intimate Toronto East Downtown Location on Sat 10 Oct, Toronto. 1 artist on the bill: Raw Pulse. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

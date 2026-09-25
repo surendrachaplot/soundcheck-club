@@ -1,6 +1,6 @@
 # NRG Budapest - Akvarium at Akvárium Klub
 
-NRG Budapest - Akvarium at Akvárium Klub on Sat 28 Nov, Budapest. 7 acts on the bill: ALT8, Andrew Cairns, blk. and DIØR and 3 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+NRG Budapest - Akvarium at Akvárium Klub on Sat 28 Nov, Budapest. 7 artists on the bill: ALT8, Andrew Cairns, blk. and DIØR and 3 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

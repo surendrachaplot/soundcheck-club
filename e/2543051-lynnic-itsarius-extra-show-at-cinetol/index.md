@@ -1,6 +1,6 @@
 # Lynnic & ITSARIUS (extra show) at Cinetol
 
-Lynnic & ITSARIUS (extra show) at Cinetol on Mon 16 Nov, Amsterdam. 1 act on the bill: Lynnic. Deep House and Electronica. Preview the line-up and save it on soundcheck.
+Lynnic & ITSARIUS (extra show) at Cinetol on Mon 16 Nov, Amsterdam. 1 artist on the bill: Lynnic. Deep House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

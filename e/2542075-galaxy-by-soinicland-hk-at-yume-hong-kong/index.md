@@ -1,6 +1,6 @@
 # GALAXY by SoinicLand HK at Yume Hong Kong
 
-GALAXY by SoinicLand HK at Yume Hong Kong on Sat 17 Oct, Hongkong. House and Tech House. Preview the line-up and save it on soundcheck.
+GALAXY by SoinicLand HK at Yume Hong Kong on Sat 17 Oct, Hong Kong. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

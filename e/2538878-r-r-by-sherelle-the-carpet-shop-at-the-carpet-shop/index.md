@@ -1,6 +1,6 @@
 # R&R by SHERELLE - The Carpet Shop at The Carpet Shop
 
-R&R by SHERELLE - The Carpet Shop on Thu 12 Nov, London. 1 act on the bill: SHERELLE. Preview the line-up and save it on soundcheck.
+R&R by SHERELLE - The Carpet Shop on Thu 12 Nov, London. 1 artist on the bill: SHERELLE. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

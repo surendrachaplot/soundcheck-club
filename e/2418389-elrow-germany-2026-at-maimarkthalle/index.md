@@ -1,6 +1,6 @@
 # elrow Germany 2026 at Maimarkthalle
 
-elrow Germany 2026 at Maimarkthalle on Sat 7 Nov, Mannheim. 7 acts on the bill: Deborah De Luca, Kevin de Vries, Luciano and Matthias Tanzmann and 3 more. Preview the line-up and save it on soundcheck.
+elrow Germany 2026 at Maimarkthalle on Sat 7 Nov, Mannheim. 7 artists on the bill: Deborah De Luca, Kevin de Vries, Luciano and Matthias Tanzmann and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

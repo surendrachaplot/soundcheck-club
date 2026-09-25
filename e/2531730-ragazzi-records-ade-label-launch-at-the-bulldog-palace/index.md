@@ -1,6 +1,6 @@
 # RAGAZZI Records - ADE Label Launch at The Bulldog Palace
 
-RAGAZZI Records - ADE Label Launch at The Bulldog Palace on Sat 24 Oct, Amsterdam. 6 acts on the bill: HOESEPHINE, O/H/M, OnlyWithYou and Shake Daddy and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
+RAGAZZI Records - ADE Label Launch at The Bulldog Palace on Sat 24 Oct, Amsterdam. 6 artists on the bill: HOESEPHINE, O/H/M, OnlyWithYou and Shake Daddy and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Divine Playhouse Presents: An Eternal Love Affair at TBA - Museum of Contemporary Art Australia
 
-Divine Playhouse Presents: An Eternal Love Affair at TBA - Museum of Contemporary Art Australia on Thu 22 Oct, Sydney. 2 acts on the bill: La Figa and Matt Vaughan. House and Club. Preview the line-up and save it on soundcheck.
+Divine Playhouse Presents: An Eternal Love Affair at TBA - Museum of Contemporary Art Australia on Thu 22 Oct, Sydney. 2 artists on the bill: La Figa and Matt Vaughan. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tresor New Faces hosted by In Balance at Tresor / Globus
 
-Tresor New Faces hosted by In Balance at Tresor / Globus on Wed 7 Oct, Berlin. 5 acts on the bill: Carl Raban, Masst, Schicktanz and SXCL and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Tresor New Faces hosted by In Balance at Tresor / Globus on Wed 7 Oct, Berlin. 5 artists on the bill: Carl Raban, Masst, Schicktanz and SXCL and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

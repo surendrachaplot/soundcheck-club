@@ -1,6 +1,6 @@
 # instinkt lab with 04061, Blasha & Allatt, mojo at Gewölbe
 
-instinkt lab with 04061, Blasha & Allatt, mojo at Gewölbe on Sat 31 Oct, Cologne. 3 acts on the bill: 04061, Blasha & Allatt and mojo. Techno. Preview the line-up and save it on soundcheck.
+instinkt lab with 04061, Blasha & Allatt, mojo at Gewölbe on Sat 31 Oct, Cologne. 3 artists on the bill: 04061, Blasha & Allatt and mojo. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

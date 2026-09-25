@@ -1,6 +1,6 @@
 # VOLTIQUE X VICE at TBA - DTLA
 
-VOLTIQUE X VICE at TBA - DTLA on Sat 3 Oct, Losangeles. 3 acts on the bill: BUCK/OFF, Flabbergast (LA) and Miguel Clark. Tech House. Preview the line-up and save it on soundcheck.
+VOLTIQUE X VICE at TBA - DTLA on Sat 3 Oct, Los Angeles. 3 artists on the bill: BUCK/OFF, Flabbergast (LA) and Miguel Clark. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

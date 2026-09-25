@@ -1,6 +1,6 @@
 # SKA TOWN OSAKA vol.2 presented by vongsign at Socore Factory
 
-SKA TOWN OSAKA vol.2 presented by vongsign at Socore Factory on Sat 10 Oct, Osaka. 1 act on the bill: Warung. Dub. Preview the line-up and save it on soundcheck.
+SKA TOWN OSAKA vol.2 presented by vongsign at Socore Factory on Sat 10 Oct, Osaka. 1 artist on the bill: Warung. Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

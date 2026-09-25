@@ -1,6 +1,6 @@
 # Speedy J presents STOOR Live - ADE 2026 (Day 2) at Paradiso
 
-Speedy J presents STOOR Live - ADE 2026 (Day 2) at Paradiso on Sun 25 Oct, Amsterdam. 4 acts on the bill: Donato Dozzy, Speedy J, The Fear Ratio and Wallis. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Speedy J presents STOOR Live - ADE 2026 (Day 2) at Paradiso on Sun 25 Oct, Amsterdam. 4 artists on the bill: Donato Dozzy, Speedy J, The Fear Ratio and Wallis. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

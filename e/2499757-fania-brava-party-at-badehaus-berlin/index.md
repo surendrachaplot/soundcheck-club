@@ -1,6 +1,6 @@
 # Fania Brava Party at Badehaus Berlin
 
-Fania Brava Party at Badehaus Berlin on Fri 25 Sept, Berlin. 2 acts on the bill: lionza and Ojos de miel. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
+Fania Brava Party at Badehaus Berlin on Fri 25 Sept, Berlin. 2 artists on the bill: lionza and Ojos de miel. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Honcho H0L0 Takeover at H0L0
 
-Honcho H0L0 Takeover on Sat 24 Oct, Newyorkcity. 12 acts on the bill: 'nohup', 999ADJ, Aaron Clark and Carlos Souffront and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
+Honcho H0L0 Takeover on Sat 24 Oct, New York City. 12 artists on the bill: 'nohup', 999ADJ, Aaron Clark and Carlos Souffront and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

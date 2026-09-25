@@ -2,7 +2,7 @@
 
 Guthrie is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Near Villeray, Montreal on Sat, 26 Sept 2026.
 
-Guthrie is a house and disco artist based in United States of America, tracked on soundcheck, with 154 sets logged across Detroit, Losangeles, Mexicocity and Miami and 4 more. Often billed alongside Alina (MTL), Ferias and Kris Guilty. Next up: TBA - Near Villeray, Montreal on Sat 26 Sept.
+Guthrie is a house and disco artist based in United States of America, tracked on soundcheck, with 154 sets logged across Detroit, Los Angeles, Mexico City and Miami and 4 more. Often billed alongside Alina (MTL), Ferias and Kris Guilty. Next up: TBA - Near Villeray, Montreal on Sat 26 Sept.
 
 ## Upcoming shows
 

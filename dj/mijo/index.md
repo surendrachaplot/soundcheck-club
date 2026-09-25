@@ -2,7 +2,7 @@
 
 Mijo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at CHICO, Mexico City on Sat, 3 Oct 2026.
 
-Mijo is a techno and house artist based in Mexico, tracked on soundcheck, with 39 sets logged across Galway, Losangeles, Mexicocity and Portland and 4 more. Often billed alongside Andre VII, Bluecommand and Maseriche. Next up: CHICO, Mexicocity on Sat 3 Oct.
+Mijo is a techno and house artist based in Mexico, tracked on soundcheck, with 39 sets logged across Galway, Los Angeles, Mexico City and Portland and 4 more. Often billed alongside Andre VII, Bluecommand and Maseriche. Next up: CHICO, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 

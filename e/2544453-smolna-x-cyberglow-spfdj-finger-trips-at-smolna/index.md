@@ -1,6 +1,6 @@
 # Smolna x Cyberglow: SPFDJ, Finger Trips at Smolna
 
-Smolna x Cyberglow: SPFDJ, Finger Trips on Sat 17 Oct, Warsaw. 2 acts on the bill: Finger Trips and SPFDJ. Techno and House. Preview the line-up and save it on soundcheck.
+Smolna x Cyberglow: SPFDJ, Finger Trips on Sat 17 Oct, Warsaw. 2 artists on the bill: Finger Trips and SPFDJ. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

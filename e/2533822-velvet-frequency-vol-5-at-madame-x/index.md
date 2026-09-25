@@ -1,6 +1,6 @@
 # Velvet Frequency vol. 5 at Madame X
 
-Velvet Frequency vol. 5 at Madame X on Thu 24 Sept, Newyorkcity. 2 acts on the bill: Seisaro and superkiss. Techno. Preview the line-up and save it on soundcheck.
+Velvet Frequency vol. 5 at Madame X on Thu 24 Sept, New York City. 2 artists on the bill: Seisaro and superkiss. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

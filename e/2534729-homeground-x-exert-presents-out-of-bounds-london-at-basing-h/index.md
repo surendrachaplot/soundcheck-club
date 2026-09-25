@@ -1,6 +1,6 @@
 # Homeground x Exert presents: Out Of Bounds: London at Basing House
 
-Homeground x Exert presents: Out Of Bounds: London at Basing House on Fri 13 Nov, London. 2 acts on the bill: Eksman and Nicky Blackmarket. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Homeground x Exert presents: Out Of Bounds: London at Basing House on Fri 13 Nov, London. 2 artists on the bill: Eksman and Nicky Blackmarket. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

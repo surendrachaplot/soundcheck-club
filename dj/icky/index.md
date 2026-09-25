@@ -2,7 +2,7 @@
 
 iCKY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
 
-iCKY is a techno and trance artist based in United States of America, tracked on soundcheck, with 12 sets logged across Miami and Newyorkcity. Often billed alongside DomnRob, CÛLTÛS VÎS and Dadrev. Next up: Casa Nube Wynwood, Miami on Fri 2 Oct.
+iCKY is a techno and trance artist based in United States of America, tracked on soundcheck, with 12 sets logged across Miami and New York City. Often billed alongside DomnRob, CÛLTÛS VÎS and Dadrev. Next up: Casa Nube Wynwood, Miami on Fri 2 Oct.
 
 ## Upcoming shows
 

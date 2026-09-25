@@ -2,7 +2,7 @@
 
 Roy Rosenfeld is a House and Progressive House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
-Roy Rosenfeld is a house and progressive house artist based in Czech Republic, tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Auckland and Austin and 28 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: Knockdown Center, Newyorkcity on Fri 2 Oct.
+Roy Rosenfeld is a house and progressive house artist based in Czech Republic, tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Auckland and Austin and 28 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: Knockdown Center, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 

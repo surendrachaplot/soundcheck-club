@@ -2,7 +2,7 @@
 
 Minoas Cirillo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
-Minoas Cirillo is a house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Cologne and Dusseldorf. Often billed alongside Avocado, Bellville and Cosmic Dance. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
+Minoas Cirillo is a house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Cologne and Düsseldorf. Often billed alongside Avocado, Bellville and Cosmic Dance. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
 ## Upcoming shows
 

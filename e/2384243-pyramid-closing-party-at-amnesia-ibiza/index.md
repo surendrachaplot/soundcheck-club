@@ -1,6 +1,6 @@
 # Pyramid Closing Party at Amnesia Ibiza
 
-Pyramid Closing Party at Amnesia Ibiza on Sun 4 Oct, Ibiza. 9 acts on the bill: Adrian Mills, Franco Cinelli, Luca Donzelli and Mar-T and 5 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Pyramid Closing Party at Amnesia Ibiza on Sun 4 Oct, Ibiza. 9 artists on the bill: Adrian Mills, Franco Cinelli, Luca Donzelli and Mar-T and 5 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

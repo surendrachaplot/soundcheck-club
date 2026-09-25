@@ -1,6 +1,6 @@
 # DJ Strawberry (Berlin) / Naasha / Libuše / A1C3 at Glob
 
-DJ Strawberry (Berlin) / Naasha / Libuše / A1C3 at Glob on Sat 24 Oct, Denver. 3 acts on the bill: A1C3, DJ Strawberry and Libuše. Dub Techno and Footwork. Preview the line-up and save it on soundcheck.
+DJ Strawberry (Berlin) / Naasha / Libuše / A1C3 at Glob on Sat 24 Oct, Denver. 3 artists on the bill: A1C3, DJ Strawberry and Libuše. Dub Techno and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

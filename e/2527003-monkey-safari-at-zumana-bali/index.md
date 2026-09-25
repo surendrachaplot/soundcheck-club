@@ -1,6 +1,6 @@
 # Monkey Safari at Zumana Bali
 
-Monkey Safari at Zumana Bali on Wed 30 Sept, Bali. 1 act on the bill: Monkey Safari. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Monkey Safari at Zumana Bali on Wed 30 Sept, Bali. 1 artist on the bill: Monkey Safari. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

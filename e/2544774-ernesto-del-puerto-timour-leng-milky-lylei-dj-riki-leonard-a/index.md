@@ -1,6 +1,6 @@
 # 豊田奈千甫 Ernesto del Puerto + Timour Leng Milky Lylei DJ: Riki Leonard at 外 Soto
 
-豊田奈千甫 Ernesto del Puerto + Timour Leng Milky Lylei DJ: Riki Leonard at 外 Soto on Fri 9 Oct, Kyoto. 1 act on the bill: Riki Leonard. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+豊田奈千甫 Ernesto del Puerto + Timour Leng Milky Lylei DJ: Riki Leonard at 外 Soto on Fri 9 Oct, Kyoto. 1 artist on the bill: Riki Leonard. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

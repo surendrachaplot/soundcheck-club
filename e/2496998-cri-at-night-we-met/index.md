@@ -1,6 +1,6 @@
 # CRi at Night We Met
 
-CRi at Night We Met on Fri 25 Sept, Nashville. 1 act on the bill: CRi. House. Preview the line-up and save it on soundcheck.
+CRi at Night We Met on Fri 25 Sept, Nashville. 1 artist on the bill: CRi. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DRAMAMA at Mood Ring
 
-DRAMAMA at Mood Ring on Thu 24 Sept, Newyorkcity. 3 acts on the bill: Gagbert, hàobèi and zyrox. Preview the line-up and save it on soundcheck.
+DRAMAMA at Mood Ring on Thu 24 Sept, New York City. 3 artists on the bill: Gagbert, hàobèi and zyrox. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

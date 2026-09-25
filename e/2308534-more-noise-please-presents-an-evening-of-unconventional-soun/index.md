@@ -1,6 +1,6 @@
 # More Noise Please! presents: An Evening of Unconventional Sounds at Bsmt 254
 
-More Noise Please! presents: An Evening of Unconventional Sounds at Bsmt 254 on Fri 4 Dec, Toronto. 2 acts on the bill: Babies R Stupid and Textures. Experimental and Noise. Preview the line-up and save it on soundcheck.
+More Noise Please! presents: An Evening of Unconventional Sounds at Bsmt 254 on Fri 4 Dec, Toronto. 2 artists on the bill: Babies R Stupid and Textures. Experimental and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

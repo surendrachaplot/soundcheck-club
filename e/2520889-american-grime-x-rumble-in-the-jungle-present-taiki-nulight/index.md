@@ -1,6 +1,6 @@
 # American Grime X Rumble In The Jungle present: Taiki Nulight + Sir Spyro at 1-800-Lucky
 
-American Grime X Rumble In The Jungle present: Taiki Nulight + Sir Spyro at 1-800-Lucky on Thu 15 Oct, Miami. 1 act on the bill: Sir Spyro. Bass and Grime. Preview the line-up and save it on soundcheck.
+American Grime X Rumble In The Jungle present: Taiki Nulight + Sir Spyro at 1-800-Lucky on Thu 15 Oct, Miami. 1 artist on the bill: Sir Spyro. Bass and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

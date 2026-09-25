@@ -1,6 +1,6 @@
 # Satellite: Odd Mob at Floyd
 
-Satellite: Odd Mob at Floyd on Fri 16 Oct, Miami. 1 act on the bill: Nat Siriani. House and Tech House. Preview the line-up and save it on soundcheck.
+Satellite: Odd Mob at Floyd on Fri 16 Oct, Miami. 1 artist on the bill: Nat Siriani. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

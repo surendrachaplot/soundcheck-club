@@ -2,7 +2,7 @@
 
 Teateo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Dune Park, Buenos Aires on Sun, 11 Oct 2026.
 
-Teateo is a techno and industrial artist based in Argentina, tracked on soundcheck, with 6 sets logged across Buenosaires. Often billed alongside Bondarük, Invertida and Kessler (AR). Next up: Dune Park, Buenosaires on Sun 11 Oct.
+Teateo is a techno and industrial artist based in Argentina, tracked on soundcheck, with 6 sets logged across Buenos Aires. Often billed alongside Bondarük, Invertida and Kessler (AR). Next up: Dune Park, Buenos Aires on Sun 11 Oct.
 
 ## Upcoming shows
 

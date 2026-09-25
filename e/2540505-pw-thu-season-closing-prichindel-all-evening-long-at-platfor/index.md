@@ -1,6 +1,6 @@
 # PW Thu. Season Closing • Prichindel (all evening long) at Platforma Wolff
 
-PW Thu. Season Closing • Prichindel (all evening long) at Platforma Wolff on Thu 24 Sept, Bucharest. 1 act on the bill: Prichindel. House and Electronica. Preview the line-up and save it on soundcheck.
+PW Thu. Season Closing • Prichindel (all evening long) at Platforma Wolff on Thu 24 Sept, Bucharest. 1 artist on the bill: Prichindel. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

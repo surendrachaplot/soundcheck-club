@@ -1,6 +1,6 @@
 # SUNSET FREQUENCIES at Under The Palmo
 
-SUNSET FREQUENCIES at Under The Palmo on Sun 4 Oct, Tokyo. 3 acts on the bill: Fabian Laute, Jm3Yoci and TECSTONE. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+SUNSET FREQUENCIES at Under The Palmo on Sun 4 Oct, Tokyo. 3 artists on the bill: Fabian Laute, Jm3Yoci and TECSTONE. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

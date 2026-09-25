@@ -1,6 +1,6 @@
 # Chaos In The CBD present 'In Dust We Trust' Tour at FOLD
 
-Chaos In The CBD present 'In Dust We Trust' Tour at FOLD on Sat 14 Nov, London. 2 acts on the bill: Chaos In The CBD and Sanctuary. House and Deep House. Preview the line-up and save it on soundcheck.
+Chaos In The CBD present 'In Dust We Trust' Tour at FOLD on Sat 14 Nov, London. 2 artists on the bill: Chaos In The CBD and Sanctuary. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

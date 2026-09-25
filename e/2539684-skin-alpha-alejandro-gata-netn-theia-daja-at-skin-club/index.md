@@ -1,6 +1,6 @@
 # SKIN ALPHA: Alejandro Gata + NETN + Theia Daja at Skin Club
 
-SKIN ALPHA: Alejandro Gata + NETN + Theia Daja at Skin Club on Fri 25 Sept, Madrid. 3 acts on the bill: Alejandro Gata, NETN and Theia Daja. Preview the line-up and save it on soundcheck.
+SKIN ALPHA: Alejandro Gata + NETN + Theia Daja at Skin Club on Fri 25 Sept, Madrid. 3 artists on the bill: Alejandro Gata, NETN and Theia Daja. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

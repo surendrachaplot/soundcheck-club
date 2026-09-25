@@ -1,6 +1,6 @@
 # Alteration x AAJA at Aaja Basement
 
-Alteration x AAJA at Aaja Basement on Fri 23 Oct, London. 5 acts on the bill: CRAIC DAVID, Dusty Ohms, GS Projekt and sohotsospicy and 1 more. Bass and Jungle. Preview the line-up and save it on soundcheck.
+Alteration x AAJA at Aaja Basement on Fri 23 Oct, London. 5 artists on the bill: CRAIC DAVID, Dusty Ohms, GS Projekt and sohotsospicy and 1 more. Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

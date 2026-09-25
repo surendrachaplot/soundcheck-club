@@ -1,6 +1,6 @@
 # We Love Techno at Der Weiße Hase
 
-We Love Techno at Der Weiße Hase on Sat 26 Sept, Berlin. 5 acts on the bill: Chaos Techno.Berlin, Dave, Disturbed Berlin and Fabian Fischbach and 1 more. Techno. Preview the line-up and save it on soundcheck.
+We Love Techno at Der Weiße Hase on Sat 26 Sept, Berlin. 5 artists on the bill: Chaos Techno.Berlin, Dave, Disturbed Berlin and Fabian Fischbach and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

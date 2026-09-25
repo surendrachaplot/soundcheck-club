@@ -1,6 +1,6 @@
 # fabric x Sennheiser: Kölsch at The View From The Shard [SOLD OUT] at The View From The Shard
 
-fabric x Sennheiser: Kölsch at The View From The Shard [SOLD OUT] on Fri 25 Sept, London. 2 acts on the bill: Kariina and Kolsch. Preview the line-up and save it on soundcheck.
+fabric x Sennheiser: Kölsch at The View From The Shard [SOLD OUT] on Fri 25 Sept, London. 2 artists on the bill: Kariina and Kolsch. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Moderno with Wendy at All My Friends
 
-Moderno with Wendy at All My Friends on Sat 3 Oct, London. 2 acts on the bill: CRL (1) and Wendy Bkz. Techno and House. Preview the line-up and save it on soundcheck.
+Moderno with Wendy at All My Friends on Sat 3 Oct, London. 2 artists on the bill: CRL and Wendy Bkz. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Softgel Sunset at Le Bain
 
-Softgel Sunset at Le Bain on Fri 25 Sept, Newyorkcity. 1 act on the bill: Duneska. Preview the line-up and save it on soundcheck.
+Softgel Sunset at Le Bain on Fri 25 Sept, New York City. 1 artist on the bill: Duneska. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

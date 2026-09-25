@@ -2,7 +2,7 @@
 
 Paragon is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "RAGGA NYC" on Fri, 25 Sept 2026.
 
-Paragon is a music venue in Newyorkcity listed on soundcheck. 16 upcoming gigs, with line-ups including MORENXXX, Amarji King, Arielle Lana and BLAIZE and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
+Paragon is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including MORENXXX, Amarji King, Arielle Lana and BLAIZE and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
 ## What's on
 

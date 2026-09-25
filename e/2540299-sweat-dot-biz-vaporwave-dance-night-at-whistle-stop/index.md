@@ -1,6 +1,6 @@
 # Sweat Dot Biz - Vaporwave Dance Night at Whistle Stop
 
-Sweat Dot Biz - Vaporwave Dance Night at Whistle Stop on Sun 27 Sept, Sandiego. Disco and Vaporwave. Preview the line-up and save it on soundcheck.
+Sweat Dot Biz - Vaporwave Dance Night at Whistle Stop on Sun 27 Sept, San Diego. Disco and Vaporwave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

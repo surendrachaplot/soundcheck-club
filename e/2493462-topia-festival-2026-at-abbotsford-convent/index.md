@@ -1,6 +1,6 @@
 # -TOPIA Festival 2026 at Abbotsford Convent
 
--TOPIA Festival 2026 at Abbotsford Convent on Sat 10 Oct, Melbourne. 16 acts on the bill: Amaliah, babyxxan, Cousin and Cutting Room and 12 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+-TOPIA Festival 2026 at Abbotsford Convent on Sat 10 Oct, Melbourne. 16 artists on the bill: Amaliah, babyxxan, Cousin and Cutting Room and 12 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

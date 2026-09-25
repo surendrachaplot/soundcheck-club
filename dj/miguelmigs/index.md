@@ -2,7 +2,7 @@
 
 Miguel Migs is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Midway, San Francisco/Oakland on Sun, 11 Oct 2026.
 
-Miguel Migs is a house and deep house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Chicago, Detroit, Losangeles and Miami and 6 more. Often billed alongside Julius Papp, Franky Boissy and Doc Martin. Next up: The Midway, Sanfrancisco on Sun 11 Oct.
+Miguel Migs is a house and deep house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Chicago, Detroit, Los Angeles and Miami and 6 more. Often billed alongside Julius Papp, Franky Boissy and Doc Martin. Next up: The Midway, San Francisco/Oakland on Sun 11 Oct.
 
 ## Upcoming shows
 

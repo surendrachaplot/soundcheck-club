@@ -1,6 +1,6 @@
 # Upstairs at Eric's at Spkrbox
 
-Upstairs at Eric's at Spkrbox on Thu 24 Sept, Detroit. 1 act on the bill: Anubis. Techno and House. Preview the line-up and save it on soundcheck.
+Upstairs at Eric's at Spkrbox on Thu 24 Sept, Detroit. 1 artist on the bill: Anubis. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

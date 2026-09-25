@@ -1,6 +1,6 @@
 # Ritmo Collective feat .VRIL [LIVE] at Abercrombie Hotel
 
-Ritmo Collective feat .VRIL [LIVE] at Abercrombie Hotel on Fri 2 Oct, Sydney. 2 acts on the bill: .VRIL and Sofia Gonzales. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Ritmo Collective feat .VRIL [LIVE] at Abercrombie Hotel on Fri 2 Oct, Sydney. 2 artists on the bill: .VRIL and Sofia Gonzales. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

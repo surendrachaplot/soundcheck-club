@@ -1,6 +1,6 @@
 # Toman at THE BATHS
 
-Toman at THE BATHS on Fri 6 Nov, Austin. 1 act on the bill: Toman. Tech House. Preview the line-up and save it on soundcheck.
+Toman at THE BATHS on Fri 6 Nov, Austin. 1 artist on the bill: Toman. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

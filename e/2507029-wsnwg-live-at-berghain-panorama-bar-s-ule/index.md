@@ -1,6 +1,6 @@
 # WSNWG LIVE at Berghain | Panorama Bar | Säule
 
-WSNWG LIVE at Berghain | Panorama Bar | Säule on Fri 25 Sept, Berlin. 5 acts on the bill: Dasha Rush, Megan Leber, Rødhåd and Speedy J and 1 more. Preview the line-up and save it on soundcheck.
+WSNWG LIVE at Berghain | Panorama Bar | Säule on Fri 25 Sept, Berlin. 5 artists on the bill: Dasha Rush, Megan Leber, Rødhåd and Speedy J and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

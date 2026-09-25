@@ -1,6 +1,6 @@
 # RED at Le Red Room
 
-RED at Le Red Room on Sat 26 Sept, Montreal. 1 act on the bill: Guillaume Michaud. Progressive House. Preview the line-up and save it on soundcheck.
+RED at Le Red Room on Sat 26 Sept, Montreal. 1 artist on the bill: Guillaume Michaud. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

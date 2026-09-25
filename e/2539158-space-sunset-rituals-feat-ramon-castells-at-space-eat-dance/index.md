@@ -1,6 +1,6 @@
 # Space Sunset Rituals feat. Ramon Castells at Space Eat & Dance
 
-Space Sunset Rituals feat. Ramon Castells at Space Eat & Dance on Tue 29 Sept, Ibiza. 1 act on the bill: Ramon Castells. Balearic and Afro House. Preview the line-up and save it on soundcheck.
+Space Sunset Rituals feat. Ramon Castells at Space Eat & Dance on Tue 29 Sept, Ibiza. 1 artist on the bill: Ramon Castells. Balearic and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

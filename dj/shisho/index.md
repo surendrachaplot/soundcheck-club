@@ -2,7 +2,7 @@
 
 Shisho is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Greenhouse, Mexico City on Sun, 4 Oct 2026.
 
-Shisho is a house and deep house artist based in Mexico, tracked on soundcheck, with 46 sets logged across Mexicocity. Often billed alongside Gallō, Bluecommand and Astroboii. Next up: TBA - Greenhouse, Mexicocity on Sun 4 Oct.
+Shisho is a house and deep house artist based in Mexico, tracked on soundcheck, with 46 sets logged across Mexico City. Often billed alongside Gallō, Bluecommand and Astroboii. Next up: TBA - Greenhouse, Mexico City on Sun 4 Oct.
 
 ## Upcoming shows
 

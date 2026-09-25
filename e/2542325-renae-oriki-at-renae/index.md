@@ -1,6 +1,6 @@
 # renae: Oriki at renae
 
-renae: Oriki on Fri 25 Sept, Manchester. 1 act on the bill: Oriki. Preview the line-up and save it on soundcheck.
+renae: Oriki on Fri 25 Sept, Manchester. 1 artist on the bill: Oriki. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

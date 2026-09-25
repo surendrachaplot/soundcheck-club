@@ -2,7 +2,7 @@
 
 Pochola is a Club and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ormside Projects, London on Thu, 1 Oct 2026.
 
-Pochola is a club and electronica artist based in Mexico, tracked on soundcheck, with 14 sets logged across Berlin, London and Sanfrancisco. Often billed alongside Mobilegirl, Nico Adomako and Suutoo. Next up: Ormside Projects, London on Thu 1 Oct.
+Pochola is a club and electronica artist based in Mexico, tracked on soundcheck, with 14 sets logged across Berlin, London and San Francisco/Oakland. Often billed alongside Mobilegirl, Nico Adomako and Suutoo. Next up: Ormside Projects, London on Thu 1 Oct.
 
 ## Upcoming shows
 

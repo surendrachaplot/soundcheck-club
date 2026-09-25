@@ -1,6 +1,6 @@
 # JUNGLE MANIA NAARM at Wax Music Lounge
 
-JUNGLE MANIA NAARM at Wax Music Lounge on Sat 17 Oct, Melbourne. 1 act on the bill: Beatski. Jungle. Preview the line-up and save it on soundcheck.
+JUNGLE MANIA NAARM at Wax Music Lounge on Sat 17 Oct, Melbourne. 1 artist on the bill: Beatski. Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

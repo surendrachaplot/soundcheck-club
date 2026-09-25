@@ -1,6 +1,6 @@
 # ALLEMAAL ALLEMAAL AANTAFEL at Time is the new space
 
-ALLEMAAL ALLEMAAL AANTAFEL at Time is the new space on Fri 25 Sept, Rotterdam. 3 acts on the bill: Leon, Lotus (2) and Zena-Rae. Preview the line-up and save it on soundcheck.
+ALLEMAAL ALLEMAAL AANTAFEL at Time is the new space on Fri 25 Sept, Rotterdam. 3 artists on the bill: Leon, Lotus and Zena-Rae. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

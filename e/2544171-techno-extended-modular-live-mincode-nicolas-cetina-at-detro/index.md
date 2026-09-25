@@ -1,6 +1,6 @@
 # TECHNO - EXTENDED MODULAR LIVE - MINCODE × NICOLAS CETINA at DETROIT CLUB
 
-TECHNO - EXTENDED MODULAR LIVE - MINCODE × NICOLAS CETINA at DETROIT CLUB on Sat 10 Oct, Barcelona. 1 act on the bill: Nicolas Cetina.. Techno and Experimental. Preview the line-up and save it on soundcheck.
+TECHNO - EXTENDED MODULAR LIVE - MINCODE × NICOLAS CETINA at DETROIT CLUB on Sat 10 Oct, Barcelona. 1 artist on the bill: Nicolas Cetina.. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Shiv is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Sound House, Dublin on Thu, 8 Oct 2026.
 
-Shiv is a disco and house artist based in Ireland, tracked on soundcheck, with 7 sets logged across Austin, Dublin, Galway and Kualalumpur and 1 more. Often billed alongside 45AM, Aero (1) and Amarji King. Next up: The Sound House, Dublin on Thu 8 Oct.
+Shiv is a disco and house artist based in Ireland, tracked on soundcheck, with 7 sets logged across Austin, Dublin, Galway and Kuala Lumpur and 1 more. Often billed alongside 45AM, Aero and Amarji King. Next up: The Sound House, Dublin on Thu 8 Oct.
 
 ## Upcoming shows
 

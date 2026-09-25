@@ -1,6 +1,6 @@
 # Sina Bathaie — White Lotus World Tour: Back Together - San Diego at Quartyard
 
-Sina Bathaie — White Lotus World Tour: Back Together - San Diego at Quartyard on Sat 14 Nov, Sandiego. 1 act on the bill: Sina Bathaie. Downtempo. Preview the line-up and save it on soundcheck.
+Sina Bathaie — White Lotus World Tour: Back Together - San Diego at Quartyard on Sat 14 Nov, San Diego. 1 artist on the bill: Sina Bathaie. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dance Now Talk Later with Make A Dance at Morgan's Bar
 
-Dance Now Talk Later with Make A Dance at Morgan's Bar on Sat 17 Oct, Manchester. 1 act on the bill: Make A Dance. House. Preview the line-up and save it on soundcheck.
+Dance Now Talk Later with Make A Dance at Morgan's Bar on Sat 17 Oct, Manchester. 1 artist on the bill: Make A Dance. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Lundi Bleu at Althea's Rooftop
 
-Lundi Bleu at Althea's Rooftop on Thu 24 Sept, Newyorkcity. Afro House. Preview the line-up and save it on soundcheck.
+Lundi Bleu at Althea's Rooftop on Thu 24 Sept, New York City. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

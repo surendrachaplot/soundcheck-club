@@ -1,6 +1,6 @@
 # Funky Express at Spazio Diaz
 
-Funky Express at Spazio Diaz on Sat 26 Sept, Milan. 2 acts on the bill: Ces Garçons and Jason K (IT). House and Disco. Preview the line-up and save it on soundcheck.
+Funky Express at Spazio Diaz on Sat 26 Sept, Milan. 2 artists on the bill: Ces Garçons and Jason K (IT). House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

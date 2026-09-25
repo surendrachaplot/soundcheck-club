@@ -1,6 +1,6 @@
 # The Gardens of Babylon: The Seekers of Light - ADE 2026 at WestWeelde
 
-The Gardens of Babylon: The Seekers of Light - ADE 2026 at WestWeelde on Sat 24 Oct, Amsterdam. 32 acts on the bill: ACID FLORA, Animal Trainer, Awka and B-Bop and 28 more. Preview the line-up and save it on soundcheck.
+The Gardens of Babylon: The Seekers of Light - ADE 2026 at WestWeelde on Sat 24 Oct, Amsterdam. 32 artists on the bill: ACID FLORA, Animal Trainer, Awka and B-Bop and 28 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

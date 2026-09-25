@@ -1,6 +1,6 @@
 # AFTER DARK NYC - Late Night RnB & Trap Soul Party at Concord NYC
 
-AFTER DARK NYC - Late Night RnB & Trap Soul Party at Concord NYC on Fri 25 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+AFTER DARK NYC - Late Night RnB & Trap Soul Party at Concord NYC on Fri 25 Sept, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

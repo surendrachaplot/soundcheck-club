@@ -1,6 +1,6 @@
 # Takuya Nakamura (Live) at The Grove
 
-Takuya Nakamura (Live) at The Grove on Tue 13 Oct, Newcastle. 1 act on the bill: Takuya Nakamura. Drum & Bass and Jazz. Preview the line-up and save it on soundcheck.
+Takuya Nakamura (Live) at The Grove on Tue 13 Oct, Newcastle. 1 artist on the bill: Takuya Nakamura. Drum & Bass and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 De Fik Garden is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Gloeilamp" on Fri, 25 Sept 2026.
 
-De Fik Garden is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Andy Garvey, AYIM, Bastienne and Carmen Lisa (2) and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
+De Fik Garden is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Andy Garvey, AYIM, Bastienne and Carmen Lisa and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
 ## What's on
 

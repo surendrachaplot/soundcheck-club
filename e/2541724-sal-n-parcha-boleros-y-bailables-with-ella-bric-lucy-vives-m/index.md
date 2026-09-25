@@ -1,6 +1,6 @@
 # Salón Parcha: Boleros y Bailables with Ella Bric, Lucy Vives & Mireya Ramos at National Sawdust
 
-Salón Parcha: Boleros y Bailables with Ella Bric, Lucy Vives & Mireya Ramos at National Sawdust on Wed 30 Sept, Newyorkcity. 1 act on the bill: EL GARO. Preview the line-up and save it on soundcheck.
+Salón Parcha: Boleros y Bailables with Ella Bric, Lucy Vives & Mireya Ramos at National Sawdust on Wed 30 Sept, New York City. 1 artist on the bill: EL GARO. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

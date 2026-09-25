@@ -1,6 +1,6 @@
 # DURATIONS: Afrikan Sciences, Claudio PRC, Dasha Rush, Decoder, Francis Harris, + more at public records
 
-DURATIONS: Afrikan Sciences, Claudio PRC, Dasha Rush, Decoder, Francis Harris, + more at public records on Fri 13 Nov, Newyorkcity. 7 acts on the bill: Afrikan Sciences, Claudio PRC, Dasha Rush and Decoder and 3 more. Preview the line-up and save it on soundcheck.
+DURATIONS: Afrikan Sciences, Claudio PRC, Dasha Rush, Decoder, Francis Harris, + more at public records on Fri 13 Nov, New York City. 7 artists on the bill: Afrikan Sciences, Claudio PRC, Dasha Rush and Decoder and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

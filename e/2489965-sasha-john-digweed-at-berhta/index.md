@@ -1,6 +1,6 @@
 # Sasha & John Digweed at BERHTA
 
-Sasha & John Digweed at BERHTA on Sat 26 Sept, Washingtondc. 2 acts on the bill: John Digweed and Sasha. Techno. Preview the line-up and save it on soundcheck.
+Sasha & John Digweed at BERHTA on Sat 26 Sept, Washington DC. 2 artists on the bill: John Digweed and Sasha. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

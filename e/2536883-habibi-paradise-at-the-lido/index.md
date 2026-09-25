@@ -1,6 +1,6 @@
 # Habibi Paradise at The Lido
 
-Habibi Paradise at The Lido on Thu 24 Sept, Vancouver. 1 act on the bill: Parmis. Disco and Experimental. Preview the line-up and save it on soundcheck.
+Habibi Paradise at The Lido on Thu 24 Sept, Vancouver. 1 artist on the bill: Parmis. Disco and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

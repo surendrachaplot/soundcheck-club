@@ -1,6 +1,6 @@
 # Bites & Beats House & Techno Party at Mezzanine - Tooting
 
-Bites & Beats House & Techno Party at Mezzanine - Tooting on Fri 18 Dec, London. 1 act on the bill: Matt Arnold. House and Tech House. Preview the line-up and save it on soundcheck.
+Bites & Beats House & Techno Party at Mezzanine - Tooting on Fri 18 Dec, London. 1 artist on the bill: Matt Arnold. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

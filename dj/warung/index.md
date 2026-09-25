@@ -2,7 +2,7 @@
 
 Warung is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Socore Factory, Osaka on Sat, 10 Oct 2026.
 
-Warung is a deep house and progressive house artist based in United States of America, tracked on soundcheck, with 13 sets logged across London, Losangeles, Malta and Miami and 4 more. Often billed alongside Nicky Elisabeth, Nox Vahn and 16BL. Next up: Socore Factory, Osaka on Sat 10 Oct.
+Warung is a deep house and progressive house artist based in United States of America, tracked on soundcheck, with 13 sets logged across London, Los Angeles, Malta and Miami and 4 more. Often billed alongside Nicky Elisabeth, Nox Vahn and 16BL. Next up: Socore Factory, Osaka on Sat 10 Oct.
 
 ## Upcoming shows
 

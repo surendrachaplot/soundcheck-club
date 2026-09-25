@@ -1,6 +1,6 @@
 # Urban Hour 2 local DJ spotlight at The Wych
 
-Urban Hour 2 local DJ spotlight at The Wych on Sat 26 Sept, Toronto. 2 acts on the bill: briandemodulated and SB (4). Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Urban Hour 2 local DJ spotlight at The Wych on Sat 26 Sept, Toronto. 2 artists on the bill: briandemodulated and SB. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

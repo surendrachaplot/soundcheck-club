@@ -1,6 +1,6 @@
 # Mashbit at El Rey Theatre
 
-Mashbit at El Rey Theatre on Sat 14 Nov, Losangeles. Preview the line-up and save it on soundcheck.
+Mashbit at El Rey Theatre on Sat 14 Nov, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

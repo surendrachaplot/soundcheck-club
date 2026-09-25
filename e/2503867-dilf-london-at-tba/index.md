@@ -1,6 +1,6 @@
 # DILF London at TBA
 
-DILF London at TBA on Fri 2 Oct, London. 6 acts on the bill: ABSOLUTE., Austin Ato, Bonzai Bonner and Massimo Paramour and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+DILF London at TBA on Fri 2 Oct, London. 6 artists on the bill: ABSOLUTE., Austin Ato, Bonzai Bonner and Massimo Paramour and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

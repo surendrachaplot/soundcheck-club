@@ -1,6 +1,6 @@
 # sublime at PETER EDEL
 
-sublime at PETER EDEL on Fri 6 Nov, Berlin. 5 acts on the bill: Abriss Andrej, GEMO, Gotié and Little Nats and 1 more. House and Garage. Preview the line-up and save it on soundcheck.
+sublime at PETER EDEL on Fri 6 Nov, Berlin. 5 artists on the bill: Abriss Andrej, GEMO, Gotié and Little Nats and 1 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

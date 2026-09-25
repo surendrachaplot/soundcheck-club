@@ -1,6 +1,6 @@
 # Boa Viagem x Mira Rio - Closing party at Quinta do Miratejo
 
-Boa Viagem x Mira Rio - Closing party at Quinta do Miratejo on Sat 3 Oct, Lisbon. 4 acts on the bill: Budino, Dolce Vito, Mikolai and Skinny Macho. House. Preview the line-up and save it on soundcheck.
+Boa Viagem x Mira Rio - Closing party at Quinta do Miratejo on Sat 3 Oct, Lisbon. 4 artists on the bill: Budino, Dolce Vito, Mikolai and Skinny Macho. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

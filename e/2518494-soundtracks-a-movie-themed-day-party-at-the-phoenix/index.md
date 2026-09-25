@@ -1,6 +1,6 @@
 # SOUNDTRACKS - A Movie Themed Day Party at The Phoenix
 
-SOUNDTRACKS - A Movie Themed Day Party at The Phoenix on Sat 10 Oct, London. 1 act on the bill: That Perfect Fumble. Pop and Club. Preview the line-up and save it on soundcheck.
+SOUNDTRACKS - A Movie Themed Day Party at The Phoenix on Sat 10 Oct, London. 1 artist on the bill: That Perfect Fumble. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

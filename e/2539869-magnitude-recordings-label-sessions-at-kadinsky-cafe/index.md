@@ -1,6 +1,6 @@
 # Magnitude Recordings Label Sessions at Kadinsky Cafe
 
-Magnitude Recordings Label Sessions at Kadinsky Cafe on Fri 23 Oct, Amsterdam. 6 acts on the bill: Around Us, Francesco Pico, Heaven INC. and Paul Hazendonk and 2 more. Progressive House. Preview the line-up and save it on soundcheck.
+Magnitude Recordings Label Sessions at Kadinsky Cafe on Fri 23 Oct, Amsterdam. 6 artists on the bill: Around Us, Francesco Pico, Heaven INC. and Paul Hazendonk and 2 more. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

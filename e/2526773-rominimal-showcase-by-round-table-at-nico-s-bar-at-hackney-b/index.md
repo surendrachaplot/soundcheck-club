@@ -1,6 +1,6 @@
 # Rominimal showcase by Round Table at Nico's Bar at Hackney Bridge
 
-Rominimal showcase by Round Table at Nico's Bar at Hackney Bridge on Fri 25 Sept, London. 2 acts on the bill: Binary Operator and Drozza. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Rominimal showcase by Round Table at Nico's Bar at Hackney Bridge on Fri 25 Sept, London. 2 artists on the bill: Binary Operator and Drozza. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

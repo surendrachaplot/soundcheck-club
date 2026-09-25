@@ -1,6 +1,6 @@
 # Official MTV Video Music Awards After Party: Travis McCoy, Sommer Ray, Allie M at Level 8 DTLA
 
-Official MTV Video Music Awards After Party: Travis McCoy, Sommer Ray, Allie M at Level 8 DTLA on Sun 27 Sept, Losangeles. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Official MTV Video Music Awards After Party: Travis McCoy, Sommer Ray, Allie M at Level 8 DTLA on Sun 27 Sept, Los Angeles. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

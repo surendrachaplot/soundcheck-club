@@ -1,6 +1,6 @@
 # Reality Used To Be A Friend Of Mine at Paloma
 
-Reality Used To Be A Friend Of Mine at Paloma on Fri 30 Oct, Berlin. 4 acts on the bill: Freund der Familie, Philipp Priebe, Rising Sun and Sven Weisemann. Deep House and Dub Techno. Preview the line-up and save it on soundcheck.
+Reality Used To Be A Friend Of Mine at Paloma on Fri 30 Oct, Berlin. 4 artists on the bill: Freund der Familie, Philipp Priebe, Rising Sun and Sven Weisemann. Deep House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sometimes We Party: Harry Hayes, Sensu at Hootananny Brixton
 
-Sometimes We Party: Harry Hayes, Sensu at Hootananny Brixton on Fri 16 Oct, London. 3 acts on the bill: Harry Hayes, Junior Simba and Sensu (2). Tech House and Electronica. Preview the line-up and save it on soundcheck.
+Sometimes We Party: Harry Hayes, Sensu at Hootananny Brixton on Fri 16 Oct, London. 3 artists on the bill: Harry Hayes, Junior Simba and Sensu. Tech House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

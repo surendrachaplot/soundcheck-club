@@ -1,6 +1,6 @@
 # The Libra Affair NYC – Luxury Friday Party at Level Astoria
 
-The Libra Affair NYC – Luxury Friday Party at Level Astoria on Fri 25 Sept, Newyorkcity. Hip-Hop and Afrobeat. Preview the line-up and save it on soundcheck.
+The Libra Affair NYC – Luxury Friday Party at Level Astoria on Fri 25 Sept, New York City. Hip-Hop and Afrobeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

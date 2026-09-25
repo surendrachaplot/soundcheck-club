@@ -1,6 +1,6 @@
 # Into The Woods presents Theo Parrish (Open To Close) at TBA
 
-Into The Woods presents Theo Parrish (Open To Close) at TBA on Sun 27 Sept, Losangeles. 1 act on the bill: Theo Parrish. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Into The Woods presents Theo Parrish (Open To Close) at TBA on Sun 27 Sept, Los Angeles. 1 artist on the bill: Theo Parrish. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

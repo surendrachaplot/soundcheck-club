@@ -2,7 +2,7 @@
 
 Toura is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Model, Nottingham on Fri, 9 Oct 2026.
 
-Toura is a techno and dubstep artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Bristol, Helsinki, London and Nottingham. Often billed alongside M75 (1), MIDRIB and CHAMBER45. Next up: The Model, Nottingham on Fri 9 Oct.
+Toura is a techno and dubstep artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Bristol, Helsinki, London and Nottingham. Often billed alongside M75, MIDRIB and CHAMBER45. Next up: The Model, Nottingham on Fri 9 Oct.
 
 ## Upcoming shows
 

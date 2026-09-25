@@ -1,6 +1,6 @@
 # PIV IBIZA TUESDAYS - The Grand Closing (october 6) at Cova Santa
 
-PIV IBIZA TUESDAYS - The Grand Closing (october 6) at Cova Santa on Tue 6 Oct, Ibiza. 7 acts on the bill: Archie Hamilton, Kellie Allen, Kepler and Klaudie and 3 more. Preview the line-up and save it on soundcheck.
+PIV IBIZA TUESDAYS - The Grand Closing (october 6) at Cova Santa on Tue 6 Oct, Ibiza. 7 artists on the bill: Archie Hamilton, Kellie Allen, Kepler and Klaudie and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shella Records x La Rama at Système
 
-Shella Records x La Rama at Système on Sun 18 Oct, Montreal. 1 act on the bill: Kris Guilty. Preview the line-up and save it on soundcheck.
+Shella Records x La Rama at Système on Sun 18 Oct, Montreal. 1 artist on the bill: Kris Guilty. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

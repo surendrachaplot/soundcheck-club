@@ -1,6 +1,6 @@
 # DUALISM with KLING&KLANG, DJ Henk, Limoncello at ://about blank
 
-DUALISM with KLING&KLANG, DJ Henk, Limoncello at ://about blank on Sat 19 Dec, Berlin. 14 acts on the bill: bbymeister, BIGALKE, Blossmbae and Charleen Herzig and 10 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+DUALISM with KLING&KLANG, DJ Henk, Limoncello at ://about blank on Sat 19 Dec, Berlin. 14 artists on the bill: bbymeister, BIGALKE, Blossmbae and Charleen Herzig and 10 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

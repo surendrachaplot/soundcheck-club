@@ -1,6 +1,6 @@
 # Studio Cub Invites: Âme - Henrik Schwarz Live - & More at Studio Club Malaga
 
-Studio Cub Invites: Âme - Henrik Schwarz Live - & More at Studio Club Malaga on Sat 17 Oct, Malaga. 6 acts on the bill: Alinka, Âme, Axel Boman and Henrik Schwarz and 2 more. Preview the line-up and save it on soundcheck.
+Studio Cub Invites: Âme - Henrik Schwarz Live - & More at Studio Club Malaga on Sat 17 Oct, Malaga. 6 artists on the bill: Alinka, Âme, Axel Boman and Henrik Schwarz and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

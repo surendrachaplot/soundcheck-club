@@ -1,6 +1,6 @@
 # Susumu Yokota - Sakura Album Playback in 360º spatial audio + Q&A at Polygon Portal
 
-Susumu Yokota - Sakura Album Playback in 360º spatial audio + Q&A at Polygon Portal on Thu 15 Oct, London. 1 act on the bill: Susumu Yokota. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Susumu Yokota - Sakura Album Playback in 360º spatial audio + Q&A at Polygon Portal on Thu 15 Oct, London. 1 artist on the bill: Susumu Yokota. Ambient and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

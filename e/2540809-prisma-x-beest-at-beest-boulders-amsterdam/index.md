@@ -1,6 +1,6 @@
 # PRISMA X BEEST at Beest Boulders Amsterdam
 
-PRISMA X BEEST at Beest Boulders Amsterdam on Fri 23 Oct, Amsterdam. 4 acts on the bill: Carola (2), m.s.moore, no:ne and Pietro Campo. Downtempo and Dub. Preview the line-up and save it on soundcheck.
+PRISMA X BEEST at Beest Boulders Amsterdam on Fri 23 Oct, Amsterdam. 4 artists on the bill: Carola, m.s.moore, no:ne and Pietro Campo. Downtempo and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

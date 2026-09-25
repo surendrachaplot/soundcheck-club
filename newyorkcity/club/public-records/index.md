@@ -2,7 +2,7 @@
 
 public records is a music venue in New York City with 35 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Echo Chamber S1.E03: Numa Crew" on Thu, 24 Sept 2026.
 
-public records is a music venue in Newyorkcity listed on soundcheck. 35 upcoming gigs, with line-ups including 4AM NYC, MORENXXX, AADJA and Aaron Dae and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
+public records is a music venue in New York City listed on soundcheck. 35 upcoming gigs, with line-ups including 4AM NYC, MORENXXX, AADJA and Aaron Dae and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
 ## What's on
 

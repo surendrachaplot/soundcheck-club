@@ -1,14 +1,14 @@
 # Magdalena
 
-Magdalena is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at El Rio Hostel, All on Wed, 3 Mar 2027.
+Magdalena is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
-Magdalena is a techno and house artist based in Colombia, tracked on soundcheck, with 24 sets logged across All, Austin, Barcelona and Buenosaires and 12 more. Often billed alongside Annicka, Brina Knauss and ELIF. Next up: El Rio Hostel, All on Wed 3 Mar.
+Magdalena is a techno and house artist based in Colombia, tracked on soundcheck, with 24 sets logged across Austin, Barcelona, Buenos Aires and Cologne and 12 more. Often billed alongside Annicka, Brina Knauss and ELIF. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 3 Mar 2027 | El Rio Hostel | All |
+| Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # No Kidding presents: The Hunt at Sidney & Matilda
 
-No Kidding presents: The Hunt at Sidney & Matilda on Fri 9 Oct, Sheffield. 1 act on the bill: Kid Lib. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
+No Kidding presents: The Hunt at Sidney & Matilda on Fri 9 Oct, Sheffield. 1 artist on the bill: Kid Lib. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

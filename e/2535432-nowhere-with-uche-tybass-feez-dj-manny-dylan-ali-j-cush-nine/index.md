@@ -1,6 +1,6 @@
 # NOWHERE with Uche, TYBASS, FEEZ, DJ MANNY, DYLAN ALI, J-Cush, NINE 11 at Bossa Nova Civic Club
 
-NOWHERE with Uche, TYBASS, FEEZ, DJ MANNY, DYLAN ALI, J-Cush, NINE 11 at Bossa Nova Civic Club on Sat 26 Sept, Newyorkcity. 3 acts on the bill: DJ Manny, J-Cush and Uche. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
+NOWHERE with Uche, TYBASS, FEEZ, DJ MANNY, DYLAN ALI, J-Cush, NINE 11 at Bossa Nova Civic Club on Sat 26 Sept, New York City. 3 artists on the bill: DJ Manny, J-Cush and Uche. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

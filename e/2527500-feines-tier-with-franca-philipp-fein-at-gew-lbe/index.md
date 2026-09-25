@@ -1,6 +1,6 @@
 # Feines Tier with Franca & Philipp Fein at Gewölbe
 
-Feines Tier with Franca & Philipp Fein at Gewölbe on Sat 10 Oct, Cologne. 2 acts on the bill: Franca and Philipp Fein. Preview the line-up and save it on soundcheck.
+Feines Tier with Franca & Philipp Fein at Gewölbe on Sat 10 Oct, Cologne. 2 artists on the bill: Franca and Philipp Fein. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

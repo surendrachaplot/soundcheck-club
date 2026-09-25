@@ -2,7 +2,7 @@
 
 Ksenia Kamikaza is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laska V21, Riga on Fri, 25 Sept 2026.
 
-Ksenia Kamikaza is a techno and house artist based in Latvia, tracked on soundcheck, with 119 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 10 more. Often billed alongside Esoniq, Ikss and HP-82. Next up: Laska V21, Riga on Fri 25 Sept.
+Ksenia Kamikaza is a techno and house artist based in Latvia, tracked on soundcheck, with 119 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 10 more. Often billed alongside Esoniq, Ikss and HP-82. Next up: Laska V21, Riga on Fri 25 Sept.
 
 ## Upcoming shows
 

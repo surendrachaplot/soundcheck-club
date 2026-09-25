@@ -1,6 +1,6 @@
 # F*CK / Techno first at Der Weiße Hase
 
-F*CK / Techno first at Der Weiße Hase on Fri 2 Oct, Berlin. 3 acts on the bill: Epicx, Mathias Birnbaum and NIKO INCRAVALLE. Trance and Techno. Preview the line-up and save it on soundcheck.
+F*CK / Techno first at Der Weiße Hase on Fri 2 Oct, Berlin. 3 artists on the bill: Epicx, Mathias Birnbaum and NIKO INCRAVALLE. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

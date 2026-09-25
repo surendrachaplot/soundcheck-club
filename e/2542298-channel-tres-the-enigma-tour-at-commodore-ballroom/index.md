@@ -1,6 +1,6 @@
 # Channel Tres: The Enigma Tour at Commodore Ballroom
 
-Channel Tres: The Enigma Tour at Commodore Ballroom on Wed 30 Sept, Vancouver. 2 acts on the bill: Channel Tres and KILIMANJARO. Pop. Preview the line-up and save it on soundcheck.
+Channel Tres: The Enigma Tour at Commodore Ballroom on Wed 30 Sept, Vancouver. 2 artists on the bill: Channel Tres and KILIMANJARO. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

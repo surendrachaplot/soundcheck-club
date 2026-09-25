@@ -1,6 +1,6 @@
 # Guy J & MORE ARTISTS [OPEN AIR] - by 2GTHR, AUTODROMO DE BUENOS AIRES at TBA - Autodromo de Buenos Aires, Villa Lugano
 
-Guy J & MORE ARTISTS [OPEN AIR] - by 2GTHR, AUTODROMO DE BUENOS AIRES at TBA - Autodromo de Buenos Aires, Villa Lugano on Sat 28 Nov, Buenosaires. 1 act on the bill: Guy J. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Guy J & MORE ARTISTS [OPEN AIR] - by 2GTHR, AUTODROMO DE BUENOS AIRES at TBA - Autodromo de Buenos Aires, Villa Lugano on Sat 28 Nov, Buenos Aires. 1 artist on the bill: Guy J. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rescue & Canobee at Bar v Krymský
 
-Rescue & Canobee at Bar v Krymský on Thu 22 Oct, Prague. 1 act on the bill: Rescue. Breakbeat and Tech House. Preview the line-up and save it on soundcheck.
+Rescue & Canobee at Bar v Krymský on Thu 22 Oct, Prague. 1 artist on the bill: Rescue. Breakbeat and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

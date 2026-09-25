@@ -1,6 +1,6 @@
 # Moga Essaouira 2026 at TBA
 
-Moga Essaouira 2026 at TBA on Fri 2 Oct, Central. 43 acts on the bill: Alexis Cabrera, Amine K, ANOTR and Bradley Zero and 39 more. Preview the line-up and save it on soundcheck.
+Moga Essaouira 2026 at TBA on Fri 2 Oct, Central. 43 artists on the bill: Alexis Cabrera, Amine K, ANOTR and Bradley Zero and 39 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

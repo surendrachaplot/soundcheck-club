@@ -2,7 +2,7 @@
 
 Eric Louis is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 15 Nov 2026.
 
-Eric Louis is a house and dub techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Losangeles, Newyorkcity and Washingtondc. Often billed alongside Bajro, Auphoria and Andrey Pushkarev. Next up: TBA, Losangeles on Sun 15 Nov.
+Eric Louis is a house and dub techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Los Angeles, New York City and Washington DC. Often billed alongside Bajro, Auphoria and Andrey Pushkarev. Next up: TBA, Los Angeles on Sun 15 Nov.
 
 ## Upcoming shows
 

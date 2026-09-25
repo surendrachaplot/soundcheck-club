@@ -1,6 +1,6 @@
 # RESISTANCE: Lady Starlight, Elisa Bee, Kora Lyssa, Marthial, cccre at Tempio del Futuro Perduto
 
-RESISTANCE: Lady Starlight, Elisa Bee, Kora Lyssa, Marthial, cccre at Tempio del Futuro Perduto on Sat 14 Nov, Milan. 5 acts on the bill: cccre, Elisa Bee, Kora Lyssa and Lady Starlight and 1 more. Preview the line-up and save it on soundcheck.
+RESISTANCE: Lady Starlight, Elisa Bee, Kora Lyssa, Marthial, cccre at Tempio del Futuro Perduto on Sat 14 Nov, Milan. 5 artists on the bill: cccre, Elisa Bee, Kora Lyssa and Lady Starlight and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

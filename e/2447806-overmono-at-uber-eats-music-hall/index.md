@@ -1,6 +1,6 @@
 # Overmono at Uber Eats Music Hall
 
-Overmono at Uber Eats Music Hall on Thu 12 Nov, Berlin. 1 act on the bill: Overmono. Preview the line-up and save it on soundcheck.
+Overmono at Uber Eats Music Hall on Thu 12 Nov, Berlin. 1 artist on the bill: Overmono. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

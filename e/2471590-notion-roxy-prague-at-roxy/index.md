@@ -1,6 +1,6 @@
 # Notion ∞ ROXY Prague at Roxy
 
-Notion ∞ ROXY Prague at Roxy on Fri 2 Oct, Prague. 1 act on the bill: Notion. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Notion ∞ ROXY Prague at Roxy on Fri 2 Oct, Prague. 1 artist on the bill: Notion. Drum & Bass and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

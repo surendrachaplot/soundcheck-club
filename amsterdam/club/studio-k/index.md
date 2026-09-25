@@ -2,7 +2,7 @@
 
 Studio/K is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "ONDA FORTE - ADE Special" on Thu, 22 Oct 2026.
 
-Studio/K is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Isa Castelari, Not Yet (2) and Pedro da Mata. Browse upcoming dates, start times and who's playing. Timorplein 62; 1094 Zeeburg; Amsterdam; Netherlands.
+Studio/K is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Isa Castelari, Not Yet and Pedro da Mata. Browse upcoming dates, start times and who's playing. Timorplein 62; 1094 Zeeburg; Amsterdam; Netherlands.
 
 ## What's on
 

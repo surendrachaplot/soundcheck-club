@@ -1,6 +1,6 @@
 # Cheeky Monday: Serpnt at Melkweg
 
-Cheeky Monday: Serpnt at Melkweg on Mon 28 Sept, Amsterdam. 1 act on the bill: Gibbo. Drum & Bass. Preview the line-up and save it on soundcheck.
+Cheeky Monday: Serpnt at Melkweg on Mon 28 Sept, Amsterdam. 1 artist on the bill: Gibbo. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

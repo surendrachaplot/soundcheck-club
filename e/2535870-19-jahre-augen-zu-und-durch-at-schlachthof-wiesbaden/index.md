@@ -1,6 +1,6 @@
 # 19 JAHRE AUGEN ZU UND DURCH at Schlachthof Wiesbaden
 
-19 JAHRE AUGEN ZU UND DURCH at Schlachthof Wiesbaden on Sat 24 Oct, Frankfurt. 3 acts on the bill: George Perry, Mike Väth and TATAKI. Techno and House. Preview the line-up and save it on soundcheck.
+19 JAHRE AUGEN ZU UND DURCH at Schlachthof Wiesbaden on Sat 24 Oct, Frankfurt. 3 artists on the bill: George Perry, Mike Väth and TATAKI. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

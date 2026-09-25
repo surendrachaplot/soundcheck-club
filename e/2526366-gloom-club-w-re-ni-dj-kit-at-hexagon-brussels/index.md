@@ -1,6 +1,6 @@
 # Gloom Club w/ re:ni + DJ Kit at Hexagon Brussels
 
-Gloom Club w/ re:ni + DJ Kit at Hexagon Brussels on Fri 25 Sept, Brussels. 4 acts on the bill: cyvira, gaiko, O'SIMMIE and re:ni. Bass and Club. Preview the line-up and save it on soundcheck.
+Gloom Club w/ re:ni + DJ Kit at Hexagon Brussels on Fri 25 Sept, Brussels. 4 artists on the bill: cyvira, gaiko, O'SIMMIE and re:ni. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

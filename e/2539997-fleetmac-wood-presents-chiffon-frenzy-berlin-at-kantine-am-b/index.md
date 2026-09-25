@@ -1,6 +1,6 @@
 # Fleetmac Wood presents Chiffon Frenzy - Berlin at Kantine am Berghain
 
-Fleetmac Wood presents Chiffon Frenzy - Berlin at Kantine am Berghain on Fri 6 Nov, Berlin. 3 acts on the bill: Alex Oxley, Fleetmac Wood and Roxanne Roll. Disco. Preview the line-up and save it on soundcheck.
+Fleetmac Wood presents Chiffon Frenzy - Berlin at Kantine am Berghain on Fri 6 Nov, Berlin. 3 artists on the bill: Alex Oxley, Fleetmac Wood and Roxanne Roll. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

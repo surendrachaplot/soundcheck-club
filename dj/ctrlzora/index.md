@@ -2,7 +2,7 @@
 
 CTRLZORA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Near Villeray, Montreal on Sat, 26 Sept 2026.
 
-CTRLZORA is a house and techno artist based in United States of America, tracked on soundcheck, with 111 sets logged across Chicago, Copenhagen, Detroit and Losangeles and 7 more. Often billed alongside JADALAREIGN, BLESSTONIO and Cordell Johnson. Next up: TBA - Near Villeray, Montreal on Sat 26 Sept.
+CTRLZORA is a house and techno artist based in United States of America, tracked on soundcheck, with 111 sets logged across Chicago, Copenhagen, Detroit and Los Angeles and 7 more. Often billed alongside JADALAREIGN, BLESSTONIO and Cordell Johnson. Next up: TBA - Near Villeray, Montreal on Sat 26 Sept.
 
 ## Upcoming shows
 

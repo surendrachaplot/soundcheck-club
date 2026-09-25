@@ -1,6 +1,6 @@
 # 宝船 at West Harlem
 
-宝船 at West Harlem on Fri 2 Oct, Kyoto. 4 acts on the bill: kitapon, Mario Kassian, SOTA and Sou Kitahara. Preview the line-up and save it on soundcheck.
+宝船 at West Harlem on Fri 2 Oct, Kyoto. 4 artists on the bill: kitapon, Mario Kassian, SOTA and Sou Kitahara. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

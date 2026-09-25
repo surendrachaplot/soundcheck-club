@@ -1,6 +1,6 @@
 # Circles: Leftfield - DJ Set at Centre Point
 
-Circles: Leftfield - DJ Set at Centre Point on Sat 24 Oct, Dublin. 2 acts on the bill: Leftfield and Pat Hyland. Techno and House. Preview the line-up and save it on soundcheck.
+Circles: Leftfield - DJ Set at Centre Point on Sat 24 Oct, Dublin. 2 artists on the bill: Leftfield and Pat Hyland. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

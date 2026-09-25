@@ -1,6 +1,6 @@
 # Spooky Surf Club with Lavan (Ascension on Wax, Berlin) & DJ Flatbeat at Giselle
 
-Spooky Surf Club with Lavan (Ascension on Wax, Berlin) & DJ Flatbeat at Giselle on Sat 10 Oct, Dusseldorf. 2 acts on the bill: DJ Flatbeat and Lavan. House and Deep House. Preview the line-up and save it on soundcheck.
+Spooky Surf Club with Lavan (Ascension on Wax, Berlin) & DJ Flatbeat at Giselle on Sat 10 Oct, Düsseldorf. 2 artists on the bill: DJ Flatbeat and Lavan. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

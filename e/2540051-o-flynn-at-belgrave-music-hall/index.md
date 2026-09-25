@@ -1,6 +1,6 @@
 # O'Flynn at Belgrave Music Hall
 
-O'Flynn at Belgrave Music Hall on Sat 14 Nov, Leeds. 1 act on the bill: O'Flynn. House. Preview the line-up and save it on soundcheck.
+O'Flynn at Belgrave Music Hall on Sat 14 Nov, Leeds. 1 artist on the bill: O'Flynn. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

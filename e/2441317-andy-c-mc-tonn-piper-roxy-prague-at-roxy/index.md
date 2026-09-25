@@ -1,6 +1,6 @@
 # Andy C & MC Tonn Piper ∞ ROXY Prague at Roxy
 
-Andy C & MC Tonn Piper ∞ ROXY Prague at Roxy on Sat 26 Sept, Prague. 2 acts on the bill: Andy C and Tonn Piper. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Andy C & MC Tonn Piper ∞ ROXY Prague at Roxy on Sat 26 Sept, Prague. 2 artists on the bill: Andy C and Tonn Piper. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

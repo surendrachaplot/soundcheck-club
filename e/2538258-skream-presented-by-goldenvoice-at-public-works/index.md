@@ -1,6 +1,6 @@
 # Skream presented by Goldenvoice at Public Works
 
-Skream presented by Goldenvoice at Public Works on Fri 27 Nov, Sanfrancisco. 1 act on the bill: Skream. Preview the line-up and save it on soundcheck.
+Skream presented by Goldenvoice at Public Works on Fri 27 Nov, San Francisco/Oakland. 1 artist on the bill: Skream. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

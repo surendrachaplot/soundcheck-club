@@ -1,6 +1,6 @@
 # Liminal Collective: Kitty Flip at TBA - Secret Ridgewood Location
 
-Liminal Collective: Kitty Flip at TBA - Secret Ridgewood Location on Sat 5 Dec, Newyorkcity. 2 acts on the bill: baby-g and Chillosophy. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Liminal Collective: Kitty Flip at TBA - Secret Ridgewood Location on Sat 5 Dec, New York City. 2 artists on the bill: baby-g and Chillosophy. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

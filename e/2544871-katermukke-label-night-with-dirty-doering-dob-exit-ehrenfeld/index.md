@@ -1,6 +1,6 @@
 # Katermukke Label Night with Dirty Doering & DOBé (Exit) // Ehrenfeld XL at Odonien
 
-Katermukke Label Night with Dirty Doering & DOBé (Exit) // Ehrenfeld XL at Odonien on Sat 24 Oct, Cologne. 7 acts on the bill: Avocado, David Hasert, Diode Eins and Dirty Doering and 3 more. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Katermukke Label Night with Dirty Doering & DOBé (Exit) // Ehrenfeld XL at Odonien on Sat 24 Oct, Cologne. 7 artists on the bill: Avocado, David Hasert, Diode Eins and Dirty Doering and 3 more. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

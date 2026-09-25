@@ -1,6 +1,6 @@
 # Halloween Costume Party: Baccus All Night Long at Sacré
 
-Halloween Costume Party: Baccus All Night Long at Sacré on Sat 31 Oct, Paris. 1 act on the bill: Baccus. House. Preview the line-up and save it on soundcheck.
+Halloween Costume Party: Baccus All Night Long at Sacré on Sat 31 Oct, Paris. 1 artist on the bill: Baccus. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

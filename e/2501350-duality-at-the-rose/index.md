@@ -1,6 +1,6 @@
 # Duality at The Rose
 
-Duality at The Rose on Thu 24 Sept, Newyorkcity. 1 act on the bill: Oui Lv. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Duality at The Rose on Thu 24 Sept, New York City. 1 artist on the bill: Oui Lv. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

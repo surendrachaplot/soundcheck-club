@@ -1,6 +1,6 @@
 # Free Beach Party - Biznaga Collective at El Cuervo Beach & Soul
 
-Free Beach Party - Biznaga Collective at El Cuervo Beach & Soul on Fri 25 Sept, Malaga. 1 act on the bill: Fontango. House and Deep House. Preview the line-up and save it on soundcheck.
+Free Beach Party - Biznaga Collective at El Cuervo Beach & Soul on Fri 25 Sept, Malaga. 1 artist on the bill: Fontango. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

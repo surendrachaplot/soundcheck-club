@@ -1,6 +1,6 @@
 # RADIANT presents The Masquerade Party at HALO DETROIT
 
-RADIANT presents The Masquerade Party at HALO DETROIT on Sat 3 Oct, Detroit. 2 acts on the bill: Darryl G and Stacey Hotwaxx Hale. House and Deep House. Preview the line-up and save it on soundcheck.
+RADIANT presents The Masquerade Party at HALO DETROIT on Sat 3 Oct, Detroit. 2 artists on the bill: Darryl G and Stacey Hotwaxx Hale. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

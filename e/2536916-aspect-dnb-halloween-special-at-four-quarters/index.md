@@ -1,6 +1,6 @@
 # Aspect DNB: Halloween Special at Four Quarters
 
-Aspect DNB: Halloween Special at Four Quarters on Fri 30 Oct, London. 2 acts on the bill: Exposure (UK) and Tianna Franxx. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Aspect DNB: Halloween Special at Four Quarters on Fri 30 Oct, London. 2 artists on the bill: Exposure (UK) and Tianna Franxx. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

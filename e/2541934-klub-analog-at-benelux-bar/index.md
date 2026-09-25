@@ -1,6 +1,6 @@
 # Klub Analog at Benelux BAR
 
-Klub Analog at Benelux BAR on Thu 22 Oct, Amsterdam. 3 acts on the bill: Fais Le Beau, Tomoki Tamura and Varuna Agosti. Preview the line-up and save it on soundcheck.
+Klub Analog at Benelux BAR on Thu 22 Oct, Amsterdam. 3 artists on the bill: Fais Le Beau, Tomoki Tamura and Varuna Agosti. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

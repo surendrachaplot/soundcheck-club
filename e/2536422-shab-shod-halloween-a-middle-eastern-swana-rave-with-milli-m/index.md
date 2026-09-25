@@ -1,6 +1,6 @@
 # 'SHAB SHOD HALLOWEEN: A Middle Eastern / SWANA Rave' with Milli (MEHMOONI LDN) at Acud Macht NEU
 
-'SHAB SHOD HALLOWEEN: A Middle Eastern / SWANA Rave' with Milli (MEHMOONI LDN) at Acud Macht NEU on Fri 30 Oct, Berlin. 1 act on the bill: Milli. Disco and Club. Preview the line-up and save it on soundcheck.
+'SHAB SHOD HALLOWEEN: A Middle Eastern / SWANA Rave' with Milli (MEHMOONI LDN) at Acud Macht NEU on Fri 30 Oct, Berlin. 1 artist on the bill: Milli. Disco and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

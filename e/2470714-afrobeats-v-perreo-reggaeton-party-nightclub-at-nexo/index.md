@@ -1,6 +1,6 @@
 # Afrobeats v Perreo Reggaeton Party Nightclub at Nexo
 
-Afrobeats v Perreo Reggaeton Party Nightclub at Nexo on Sat 26 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+Afrobeats v Perreo Reggaeton Party Nightclub at Nexo on Sat 26 Sept, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

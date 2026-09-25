@@ -1,6 +1,6 @@
 # ACN with Ngly / Outermost / Devika at Astron Club
 
-ACN with Ngly / Outermost / Devika at Astron Club on Sat 3 Oct, Athens. 3 acts on the bill: Devika, Ngly and Outermost. Techno. Preview the line-up and save it on soundcheck.
+ACN with Ngly / Outermost / Devika at Astron Club on Sat 3 Oct, Athens. 3 artists on the bill: Devika, Ngly and Outermost. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

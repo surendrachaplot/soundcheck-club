@@ -1,6 +1,6 @@
 # Boston Ravers present: KASIA — Makeup Show at Bsmnt
 
-Boston Ravers present: KASIA — Makeup Show at Bsmnt on Fri 23 Oct, Boston. 1 act on the bill: Kasia (OFC). Techno. Preview the line-up and save it on soundcheck.
+Boston Ravers present: KASIA — Makeup Show at Bsmnt on Fri 23 Oct, Boston. 1 artist on the bill: Kasia (OFC). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

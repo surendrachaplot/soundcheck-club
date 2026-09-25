@@ -2,7 +2,7 @@
 
 Liso (1) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Parallel, Amsterdam on Sun, 27 Sept 2026.
 
-Liso (1) is a techno and psytrance artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Oslo, Thehague and Utrecht. Often billed alongside HyperLili, Anémi and Eastern Distributor. Next up: Parallel, Amsterdam on Sun 27 Sept.
+Liso is a techno and psytrance artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Oslo, The Hague and Utrecht. Often billed alongside HyperLili, Anémi and Eastern Distributor. Next up: Parallel, Amsterdam on Sun 27 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # feedbk with Taylor Shockley, Hugo at feedbk
 
-feedbk with Taylor Shockley, Hugo on Sat 10 Oct, Newyorkcity. 2 acts on the bill: Hugo (US) and Taylor Shockley. Techno and House. Preview the line-up and save it on soundcheck.
+feedbk with Taylor Shockley, Hugo on Sat 10 Oct, New York City. 2 artists on the bill: Hugo (US) and Taylor Shockley. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

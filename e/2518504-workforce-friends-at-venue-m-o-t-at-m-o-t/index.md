@@ -1,6 +1,6 @@
 # Workforce & Friends at Venue M.O.T at M.O.T
 
-Workforce & Friends at Venue M.O.T on Sat 7 Nov, London. 1 act on the bill: Workforce. Preview the line-up and save it on soundcheck.
+Workforce & Friends at Venue M.O.T on Sat 7 Nov, London. 1 artist on the bill: Workforce. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

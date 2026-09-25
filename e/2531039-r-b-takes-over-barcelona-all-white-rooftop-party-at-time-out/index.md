@@ -1,6 +1,6 @@
 # R&B Takes Over Barcelona - All-White Rooftop Party at Time Out Market Rooftop
 
-R&B Takes Over Barcelona - All-White Rooftop Party at Time Out Market Rooftop on Thu 1 Oct, Barcelona. 1 act on the bill: DJ AMAZING. R&B. Preview the line-up and save it on soundcheck.
+R&B Takes Over Barcelona - All-White Rooftop Party at Time Out Market Rooftop on Thu 1 Oct, Barcelona. 1 artist on the bill: DJ AMAZING. R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

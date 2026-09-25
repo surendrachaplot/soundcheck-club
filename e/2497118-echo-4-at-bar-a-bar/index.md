@@ -1,6 +1,6 @@
 # ECHO 4 at Bar A Bar
 
-ECHO 4 at Bar A Bar on Sat 26 Sept, London. 6 acts on the bill: Any Koh, D LAI, Folek and MPathy and 2 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+ECHO 4 at Bar A Bar on Sat 26 Sept, London. 6 artists on the bill: Any Koh, D LAI, Folek and MPathy and 2 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

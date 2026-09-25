@@ -1,6 +1,6 @@
 # SHEI AND THE GANG: STARGIRLS at Faunna Rooftop
 
-SHEI AND THE GANG: STARGIRLS at Faunna Rooftop on Fri 25 Sept, Mexicocity. 1 act on the bill: JHAXIE. Club and Electronica. Preview the line-up and save it on soundcheck.
+SHEI AND THE GANG: STARGIRLS at Faunna Rooftop on Fri 25 Sept, Mexico City. 1 artist on the bill: JHAXIE. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

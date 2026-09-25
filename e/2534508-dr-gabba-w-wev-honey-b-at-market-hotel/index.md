@@ -1,6 +1,6 @@
 # DR. GABBA w/ wev + HONEY B at Market Hotel
 
-DR. GABBA w/ wev + HONEY B at Market Hotel on Fri 16 Oct, Newyorkcity. 3 acts on the bill: DR. GABBA, HONEY B and wev (US). House and Club. Preview the line-up and save it on soundcheck.
+DR. GABBA w/ wev + HONEY B at Market Hotel on Fri 16 Oct, New York City. 3 artists on the bill: DR. GABBA, HONEY B and wev (US). House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

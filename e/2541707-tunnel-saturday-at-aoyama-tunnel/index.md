@@ -1,6 +1,6 @@
 # TUNNEL SATURDAY at Aoyama Tunnel
 
-TUNNEL SATURDAY at Aoyama Tunnel on Sat 26 Sept, Tokyo. 1 act on the bill: bungo. Techno and House. Preview the line-up and save it on soundcheck.
+TUNNEL SATURDAY at Aoyama Tunnel on Sat 26 Sept, Tokyo. 1 artist on the bill: bungo. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

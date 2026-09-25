@@ -1,6 +1,6 @@
 # LNR: Local Night RADION - ADE edition at RADION
 
-LNR: Local Night RADION - ADE edition on Thu 22 Oct, Amsterdam. 10 acts on the bill: Beau Didier, Beste Hira, Cokobloko and Flits and 6 more. Techno. Preview the line-up and save it on soundcheck.
+LNR: Local Night RADION - ADE edition on Thu 22 Oct, Amsterdam. 10 artists on the bill: Beau Didier, Beste Hira, Cokobloko and Flits and 6 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

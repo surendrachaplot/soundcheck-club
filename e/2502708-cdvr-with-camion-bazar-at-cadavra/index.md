@@ -1,6 +1,6 @@
 # CDVR with Camion Bazar at Cadavra
 
-CDVR with Camion Bazar at Cadavra on Fri 6 Nov, Madrid. 1 act on the bill: Camion Bazar. Electronica. Preview the line-up and save it on soundcheck.
+CDVR with Camion Bazar at Cadavra on Fri 6 Nov, Madrid. 1 artist on the bill: Camion Bazar. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

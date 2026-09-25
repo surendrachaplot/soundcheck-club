@@ -1,6 +1,6 @@
 # CHRIS STASSY presents USS (Manchester) at Aviva Studios
 
-CHRIS STASSY presents USS (Manchester) at Aviva Studios on Fri 9 Oct, Manchester. 4 acts on the bill: CHRIS STASSY, Melody RA+RE, Pancratio and Peach. Preview the line-up and save it on soundcheck.
+CHRIS STASSY presents USS (Manchester) at Aviva Studios on Fri 9 Oct, Manchester. 4 artists on the bill: CHRIS STASSY, Melody RA+RE, Pancratio and Peach. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BCKSPIN 001: DJ Perception + Wodda at Moon Club
 
-BCKSPIN 001: DJ Perception + Wodda at Moon Club on Thu 24 Sept, Bristol. 2 acts on the bill: DJ Perception and Wodda. House and Garage. Preview the line-up and save it on soundcheck.
+BCKSPIN 001: DJ Perception + Wodda at Moon Club on Thu 24 Sept, Bristol. 2 artists on the bill: DJ Perception and Wodda. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

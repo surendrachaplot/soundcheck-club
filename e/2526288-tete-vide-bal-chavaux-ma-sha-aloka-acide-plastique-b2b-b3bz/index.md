@@ -1,6 +1,6 @@
 # TETE VIDE à Bal Chavaux: Ma Sha, Aloka, Acide Plastique b2b b3bz, Xea b2b Hyperlison at Bal Chavaux
 
-TETE VIDE à Bal Chavaux: Ma Sha, Aloka, Acide Plastique b2b b3bz, Xea b2b Hyperlison on Sat 3 Oct, Paris. 6 acts on the bill: acideplastique, Aloka, b3bz and Hyperlison and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+TETE VIDE à Bal Chavaux: Ma Sha, Aloka, Acide Plastique b2b b3bz, Xea b2b Hyperlison on Sat 3 Oct, Paris. 6 artists on the bill: acideplastique, Aloka, b3bz and Hyperlison and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

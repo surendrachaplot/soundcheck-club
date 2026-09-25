@@ -1,6 +1,6 @@
 # Frequency Punch at West Harlem
 
-Frequency Punch at West Harlem on Fri 25 Sept, Kyoto. 1 act on the bill: Ally Mobbs. Hip-Hop and Breakcore. Preview the line-up and save it on soundcheck.
+Frequency Punch at West Harlem on Fri 25 Sept, Kyoto. 1 artist on the bill: Ally Mobbs. Hip-Hop and Breakcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

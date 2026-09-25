@@ -2,7 +2,7 @@
 
 Will Automagic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Sun, 27 Sept 2026.
 
-Will Automagic is a house and techno artist based in United States of America, tracked on soundcheck, with 68 sets logged across Newyorkcity. Often billed alongside Nita Aviance, The Carry Nation and S'aint Panic. Next up: Signal, Newyorkcity on Sun 27 Sept.
+Will Automagic is a house and techno artist based in United States of America, tracked on soundcheck, with 68 sets logged across New York City. Often billed alongside Nita Aviance, The Carry Nation and S'aint Panic. Next up: Signal, New York City on Sun 27 Sept.
 
 ## Upcoming shows
 

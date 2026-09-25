@@ -1,6 +1,6 @@
 # cocoon - Marabou, Sedef Adasï at essaim
 
-cocoon - Marabou, Sedef Adasï at essaim on Sat 3 Oct, Paris. 2 acts on the bill: Marabou (2) and Sedef Adasï. Techno. Preview the line-up and save it on soundcheck.
+cocoon - Marabou, Sedef Adasï at essaim on Sat 3 Oct, Paris. 2 artists on the bill: Marabou and Sedef Adasï. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

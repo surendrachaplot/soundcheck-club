@@ -1,6 +1,6 @@
 # ennate - 002 at TBA
 
-ennate - 002 at TBA on Sat 26 Sept, Chicago. 3 acts on the bill: Danny Zeidan, Kyle Geiger and Ramsey Neville. Techno. Preview the line-up and save it on soundcheck.
+ennate - 002 at TBA on Sat 26 Sept, Chicago. 3 artists on the bill: Danny Zeidan, Kyle Geiger and Ramsey Neville. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

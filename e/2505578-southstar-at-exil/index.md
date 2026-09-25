@@ -1,6 +1,6 @@
 # southstar at EXIL
 
-southstar at EXIL on Fri 20 Nov, Zurich. 1 act on the bill: southstar. Preview the line-up and save it on soundcheck.
+southstar at EXIL on Fri 20 Nov, Zurich. 1 artist on the bill: southstar. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

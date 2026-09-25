@@ -1,6 +1,6 @@
 # Extended Sessions 001: DJ Rino, Nicky Macha, Josepha at TBA - 75013
 
-Extended Sessions 001: DJ Rino, Nicky Macha, Josepha at TBA - 75013 on Sat 17 Oct, Paris. 2 acts on the bill: DJ Rino and Nicky Macha. House and Electro. Preview the line-up and save it on soundcheck.
+Extended Sessions 001: DJ Rino, Nicky Macha, Josepha at TBA - 75013 on Sat 17 Oct, Paris. 2 artists on the bill: DJ Rino and Nicky Macha. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

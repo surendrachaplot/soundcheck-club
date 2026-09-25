@@ -1,6 +1,6 @@
 # City Wall x Mark Broom at Quarters
 
-City Wall x Mark Broom at Quarters on Fri 11 Dec, Brighton. 4 acts on the bill: Acid Carbon, Gosia, Mark Broom and Ross Harper. Techno. Preview the line-up and save it on soundcheck.
+City Wall x Mark Broom at Quarters on Fri 11 Dec, Brighton. 4 artists on the bill: Acid Carbon, Gosia, Mark Broom and Ross Harper. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

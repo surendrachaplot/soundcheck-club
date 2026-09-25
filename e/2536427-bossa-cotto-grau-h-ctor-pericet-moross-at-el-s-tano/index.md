@@ -1,6 +1,6 @@
 # BOSSA: Cotto, Grau, Héctor Pericet, Moross at EL SÓTANO
 
-BOSSA: Cotto, Grau, Héctor Pericet, Moross at EL SÓTANO on Sun 18 Oct, Madrid. 2 acts on the bill: Grau and Héctor Pericet. Tech House. Preview the line-up and save it on soundcheck.
+BOSSA: Cotto, Grau, Héctor Pericet, Moross at EL SÓTANO on Sun 18 Oct, Madrid. 2 artists on the bill: Grau and Héctor Pericet. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

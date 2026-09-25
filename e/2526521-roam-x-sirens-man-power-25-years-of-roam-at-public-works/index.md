@@ -1,6 +1,6 @@
 # Roam x Sirens: Man Power. 25 Years of Roam at Public Works
 
-Roam x Sirens: Man Power. 25 Years of Roam at Public Works on Fri 9 Oct, Sanfrancisco. 3 acts on the bill: Jason Peters, Man Power and Shiny Objects. Preview the line-up and save it on soundcheck.
+Roam x Sirens: Man Power. 25 Years of Roam at Public Works on Fri 9 Oct, San Francisco/Oakland. 3 artists on the bill: Jason Peters, Man Power and Shiny Objects. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

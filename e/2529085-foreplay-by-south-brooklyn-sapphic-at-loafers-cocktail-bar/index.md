@@ -1,6 +1,6 @@
 # Foreplay by South Brooklyn Sapphic at Loafers Cocktail Bar
 
-Foreplay by South Brooklyn Sapphic at Loafers Cocktail Bar on Wed 30 Sept, Newyorkcity. House and Club. Preview the line-up and save it on soundcheck.
+Foreplay by South Brooklyn Sapphic at Loafers Cocktail Bar on Wed 30 Sept, New York City. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

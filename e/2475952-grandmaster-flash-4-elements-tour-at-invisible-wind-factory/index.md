@@ -1,6 +1,6 @@
 # Grandmaster Flash - '4 Elements Tour' at Invisible Wind Factory
 
-Grandmaster Flash - '4 Elements Tour' at Invisible Wind Factory on Sat 24 Oct, Liverpool. 1 act on the bill: Grandmaster Flash. Hip-Hop. Preview the line-up and save it on soundcheck.
+Grandmaster Flash - '4 Elements Tour' at Invisible Wind Factory on Sat 24 Oct, Liverpool. 1 artist on the bill: Grandmaster Flash. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sunday Sunday: Axel Boman and Rebolledo at Knockdown Center
 
-Sunday Sunday: Axel Boman and Rebolledo at Knockdown Center on Sun 4 Oct, Newyorkcity. 2 acts on the bill: Axel Boman and Rebolledo. House. Preview the line-up and save it on soundcheck.
+Sunday Sunday: Axel Boman and Rebolledo at Knockdown Center on Sun 4 Oct, New York City. 2 artists on the bill: Axel Boman and Rebolledo. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

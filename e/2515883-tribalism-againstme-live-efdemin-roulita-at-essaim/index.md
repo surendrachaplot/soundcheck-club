@@ -1,6 +1,6 @@
 # tribalism - AgainstMe Live, Efdemin, Roulita at essaim
 
-tribalism - AgainstMe Live, Efdemin, Roulita at essaim on Fri 9 Oct, Paris. 3 acts on the bill: AgainstMe, Efdemin and Roulita. Techno. Preview the line-up and save it on soundcheck.
+tribalism - AgainstMe Live, Efdemin, Roulita at essaim on Fri 9 Oct, Paris. 3 artists on the bill: AgainstMe, Efdemin and Roulita. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Top Floor X Do Not Disturb: B.Love (All Night Long) at Top Floor
 
-Top Floor X Do Not Disturb: B.Love (All Night Long) on Sat 10 Oct, Newcastle. 1 act on the bill: B.Love. House and Tech House. Preview the line-up and save it on soundcheck.
+Top Floor X Do Not Disturb: B.Love (All Night Long) on Sat 10 Oct, Newcastle. 1 artist on the bill: B.Love. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

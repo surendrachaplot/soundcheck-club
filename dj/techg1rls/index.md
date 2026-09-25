@@ -2,7 +2,7 @@
 
 Techg1rls is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Techg1rls is an electronica and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across London, Losangeles, Miami and Newyorkcity and 4 more. Often billed alongside CFCF, Coupdekat and Indie Sleaze. Next up: 1015 Folsom, Sanfrancisco on Fri 2 Oct.
+Techg1rls is an electronica and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across London, Los Angeles, Miami and New York City and 4 more. Often billed alongside CFCF, Coupdekat and Indie Sleaze. Next up: 1015 Folsom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Nia Archives - Montréal at Société des arts technologiques
 
-Nia Archives - Montréal at Société des arts technologiques on Tue 10 Nov, Montreal. 1 act on the bill: Nia Archives. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Nia Archives - Montréal at Société des arts technologiques on Tue 10 Nov, Montreal. 1 artist on the bill: Nia Archives. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

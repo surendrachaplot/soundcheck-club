@@ -1,6 +1,6 @@
 # Trancemaster Krause all night long at Grelle Forelle
 
-Trancemaster Krause all night long at Grelle Forelle on Fri 25 Sept, Vienna. 1 act on the bill: Trancemaster Krause. Preview the line-up and save it on soundcheck.
+Trancemaster Krause all night long at Grelle Forelle on Fri 25 Sept, Vienna. 1 artist on the bill: Trancemaster Krause. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

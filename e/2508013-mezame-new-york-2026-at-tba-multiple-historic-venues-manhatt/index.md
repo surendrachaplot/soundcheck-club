@@ -1,6 +1,6 @@
 # MEZAME NEW YORK 2026 at TBA - Multiple Historic Venues - Manhattan & Brooklyn
 
-MEZAME NEW YORK 2026 at TBA - Multiple Historic Venues - Manhattan & Brooklyn on Fri 25 Sept, Newyorkcity. 16 acts on the bill: Carl Stone, Charlemagne Palestine, Crystallmess and Dedekind Cut and 12 more. Techno and Ambient. Preview the line-up and save it on soundcheck.
+MEZAME NEW YORK 2026 at TBA - Multiple Historic Venues - Manhattan & Brooklyn on Fri 25 Sept, New York City. 16 artists on the bill: Carl Stone, Charlemagne Palestine, Crystallmess and Dedekind Cut and 12 more. Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

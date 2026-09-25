@@ -1,6 +1,6 @@
 # ✧5 YEARS OF NS AT FOLD w/ Truncate, aalice & Bailey Ibbs✧ at FOLD
 
-✧5 YEARS OF NS AT FOLD w/ Truncate, aalice & Bailey Ibbs✧ on Fri 23 Oct, London. 3 acts on the bill: aalice, Bailey Ibbs and Truncate. Techno and House. Preview the line-up and save it on soundcheck.
+✧5 YEARS OF NS AT FOLD w/ Truncate, aalice & Bailey Ibbs✧ on Fri 23 Oct, London. 3 artists on the bill: aalice, Bailey Ibbs and Truncate. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

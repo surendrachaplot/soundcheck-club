@@ -1,6 +1,6 @@
 # visions (un)limited with Pariah & Verraco at Marble Bar
 
-visions (un)limited with Pariah & Verraco at Marble Bar on Fri 6 Nov, Detroit. 3 acts on the bill: Green River Haze, Pariah and Verraco. Preview the line-up and save it on soundcheck.
+visions (un)limited with Pariah & Verraco at Marble Bar on Fri 6 Nov, Detroit. 3 artists on the bill: Green River Haze, Pariah and Verraco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

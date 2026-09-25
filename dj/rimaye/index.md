@@ -2,7 +2,7 @@
 
 Rimaye is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at DURO, Milan on Fri, 25 Sept 2026.
 
-Rimaye is a house and techno artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Ibiza, Mexicocity and Miami and 3 more. Often billed alongside Inbal, Puma (US) and DJ Ray (2). Next up: DURO, Milan on Fri 25 Sept.
+Rimaye is a house and techno artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Ibiza, Mexico City and Miami and 3 more. Often billed alongside Inbal, Puma (US) and DJ Ray. Next up: DURO, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 

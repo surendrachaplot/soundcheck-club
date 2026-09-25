@@ -1,6 +1,6 @@
 # Night Tales: Luke Una & Make A Dance - The 'É Soul Cultura' Residency [4 Fridays In October] at Night Tales
 
-Night Tales: Luke Una & Make A Dance - The 'É Soul Cultura' Residency [4 Fridays In October] on Fri 9 Oct, London. 2 acts on the bill: Luke Una and Make A Dance. House. Preview the line-up and save it on soundcheck.
+Night Tales: Luke Una & Make A Dance - The 'É Soul Cultura' Residency [4 Fridays In October] on Fri 9 Oct, London. 2 artists on the bill: Luke Una and Make A Dance. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

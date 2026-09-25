@@ -1,14 +1,14 @@
 # Gōdō
 
-Gōdō is a Club and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+Gōdō is a Club and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Gōdō is a club and minimal artist based in Italy, tracked on soundcheck, with 15 sets logged across All, Amsterdam, Bangkok and Barcelona and 4 more. Often billed alongside Benny (El Rio Hostel), Mila Morr and 22 (1). Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+Gōdō is a club and minimal artist based in Italy, tracked on soundcheck, with 15 sets logged across Amsterdam, Bangkok, Barcelona and Greece and 4 more. Often billed alongside Benny (El Rio Hostel), Mila Morr and 22. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 2 Oct 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played

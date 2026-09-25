@@ -1,6 +1,6 @@
 # Disrupta at XOYO at XOYO
 
-Disrupta at XOYO on Sat 24 Oct, London. 1 act on the bill: Disrupta. Drum & Bass and Dub. Preview the line-up and save it on soundcheck.
+Disrupta at XOYO on Sat 24 Oct, London. 1 artist on the bill: Disrupta. Drum & Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

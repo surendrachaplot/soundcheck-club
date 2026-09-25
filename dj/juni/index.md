@@ -2,7 +2,7 @@
 
 Juni is a House and Classical artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at fi, Cologne on Sat, 3 Oct 2026.
 
-Juni is a house and classical artist based in South Korea, tracked on soundcheck, with 48 sets logged across Cologne, Mexicocity, Osaka and Sanfrancisco and 1 more. Often billed alongside Black Daria, Solaris and Dj Dizam. Next up: fi, Cologne on Sat 3 Oct.
+Juni is a house and classical artist based in South Korea, tracked on soundcheck, with 48 sets logged across Cologne, Mexico City, Osaka and San Francisco/Oakland and 1 more. Often billed alongside Black Daria, Solaris and Dj Dizam. Next up: fi, Cologne on Sat 3 Oct.
 
 ## Upcoming shows
 

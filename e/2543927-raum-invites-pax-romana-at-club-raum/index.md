@@ -1,6 +1,6 @@
 # RAUM Invites Pax Romana at CLUB RAUM
 
-RAUM Invites Pax Romana at CLUB RAUM on Sat 21 Nov, Amsterdam. 8 acts on the bill: Budino, D-Leria, Elisa Batti and Irakli and 4 more. Preview the line-up and save it on soundcheck.
+RAUM Invites Pax Romana at CLUB RAUM on Sat 21 Nov, Amsterdam. 8 artists on the bill: Budino, D-Leria, Elisa Batti and Irakli and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 D.GTLE is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Toms Hamburg, Hamburg on Sat, 17 Oct 2026.
 
-D.GTLE is a techno and electro artist based in Germany, tracked on soundcheck, with 3 sets logged across Hamburg. Often billed alongside Unromantic, Frank Leder and TMB (1). Next up: Toms Hamburg, Hamburg on Sat 17 Oct.
+D.GTLE is a techno and electro artist based in Germany, tracked on soundcheck, with 3 sets logged across Hamburg. Often billed alongside Unromantic, Frank Leder and TMB. Next up: Toms Hamburg, Hamburg on Sat 17 Oct.
 
 ## Upcoming shows
 

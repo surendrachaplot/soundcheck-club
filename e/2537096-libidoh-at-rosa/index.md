@@ -1,6 +1,6 @@
 # LIBIDOH █ at ROSA
 
-LIBIDOH █ at ROSA on Sat 14 Nov, Berlin. 4 acts on the bill: AISHA, Amo (IT), An Chen and Samantha Togni. Trance and Techno. Preview the line-up and save it on soundcheck.
+LIBIDOH █ at ROSA on Sat 14 Nov, Berlin. 4 artists on the bill: AISHA, Amo (IT), An Chen and Samantha Togni. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

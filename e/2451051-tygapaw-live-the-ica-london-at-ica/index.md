@@ -1,6 +1,6 @@
 # TYGAPAW (Live) @ THE ICA, LONDON at ICA
 
-TYGAPAW (Live) @ THE ICA, LONDON on Sat 5 Dec, London. 1 act on the bill: TYGAPAW. Preview the line-up and save it on soundcheck.
+TYGAPAW (Live) @ THE ICA, LONDON on Sat 5 Dec, London. 1 artist on the bill: TYGAPAW. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

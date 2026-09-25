@@ -1,6 +1,6 @@
 # LUKAS & FRANK - MIAMI at ZeyZey
 
-LUKAS & FRANK - MIAMI at ZeyZey on Sun 11 Oct, Miami. 1 act on the bill: LUKAS & FRANK. House and Afro House. Preview the line-up and save it on soundcheck.
+LUKAS & FRANK - MIAMI at ZeyZey on Sun 11 Oct, Miami. 1 artist on the bill: LUKAS & FRANK. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

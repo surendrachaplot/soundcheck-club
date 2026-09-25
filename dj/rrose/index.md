@@ -2,7 +2,7 @@
 
 Rrose is a Techno and Experimental artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Lab, San Francisco/Oakland on Thu, 24 Sept 2026.
 
-Rrose is a techno and experimental artist based in United States of America, tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside Wata Igarashi, DJ Nobu and Polygonia. Next up: The Lab, Sanfrancisco on Thu 24 Sept.
+Rrose is a techno and experimental artist based in United States of America, tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside Wata Igarashi, DJ Nobu and Polygonia. Next up: The Lab, San Francisco/Oakland on Thu 24 Sept.
 
 ## Upcoming shows
 

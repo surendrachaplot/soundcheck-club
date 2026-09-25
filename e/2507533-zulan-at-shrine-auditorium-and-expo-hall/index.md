@@ -1,6 +1,6 @@
 # ZULAN at Shrine Auditorium and Expo Hall
 
-ZULAN at Shrine Auditorium and Expo Hall on Fri 6 Nov, Losangeles. House and Garage. Preview the line-up and save it on soundcheck.
+ZULAN at Shrine Auditorium and Expo Hall on Fri 6 Nov, Los Angeles. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

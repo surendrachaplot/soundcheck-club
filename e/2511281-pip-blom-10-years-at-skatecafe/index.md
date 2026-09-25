@@ -1,6 +1,6 @@
 # PIP BLOM 10 YEARS at Skatecafe
 
-PIP BLOM 10 YEARS at Skatecafe on Thu 24 Sept, Amsterdam. 1 act on the bill: Pip Blom. Preview the line-up and save it on soundcheck.
+PIP BLOM 10 YEARS at Skatecafe on Thu 24 Sept, Amsterdam. 1 artist on the bill: Pip Blom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

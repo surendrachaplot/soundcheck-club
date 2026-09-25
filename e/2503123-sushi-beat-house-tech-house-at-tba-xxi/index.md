@@ -1,6 +1,6 @@
 # SUSHI BEAT - House,Tech-house at TBA - XXI
 
-SUSHI BEAT - House,Tech-house at TBA - XXI on Sat 26 Sept, Tokyo. 2 acts on the bill: PUNK N MATRIX and Yamariki. House and Tech House. Preview the line-up and save it on soundcheck.
+SUSHI BEAT - House,Tech-house at TBA - XXI on Sat 26 Sept, Tokyo. 2 artists on the bill: PUNK N MATRIX and Yamariki. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

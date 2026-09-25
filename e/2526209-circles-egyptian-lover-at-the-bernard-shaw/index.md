@@ -1,6 +1,6 @@
 # Circles: Egyptian Lover at The Bernard Shaw
 
-Circles: Egyptian Lover at The Bernard Shaw on Sat 24 Oct, Dublin. 2 acts on the bill: Egyptian Lover and hellokt. Bass and Electro. Preview the line-up and save it on soundcheck.
+Circles: Egyptian Lover at The Bernard Shaw on Sat 24 Oct, Dublin. 2 artists on the bill: Egyptian Lover and hellokt. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

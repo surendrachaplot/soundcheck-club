@@ -1,6 +1,6 @@
 # Resurface at TBA - Open Air
 
-Resurface at TBA - Open Air on Sat 3 Oct, Newyorkcity. 2 acts on the bill: Auspex and Elle Dee. Techno. Preview the line-up and save it on soundcheck.
+Resurface at TBA - Open Air on Sat 3 Oct, New York City. 2 artists on the bill: Auspex and Elle Dee. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

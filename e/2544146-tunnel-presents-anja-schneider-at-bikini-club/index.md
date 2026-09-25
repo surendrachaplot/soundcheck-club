@@ -1,6 +1,6 @@
 # Tunnel presents. Anja Schneider at Bikini Club
 
-Tunnel presents. Anja Schneider at Bikini Club on Fri 16 Oct, Barcelona. 1 act on the bill: Anja Schneider. Preview the line-up and save it on soundcheck.
+Tunnel presents. Anja Schneider at Bikini Club on Fri 16 Oct, Barcelona. 1 artist on the bill: Anja Schneider. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

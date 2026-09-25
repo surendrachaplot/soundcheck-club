@@ -2,7 +2,7 @@
 
 The Saunderson Brothers is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lincoln Factory, Detroit on Fri, 30 Oct 2026.
 
-The Saunderson Brothers is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Detroit, Losangeles and Newyorkcity. Often billed alongside Kevin Saunderson, Dantiez and JMT (2). Next up: Lincoln Factory, Detroit on Fri 30 Oct.
+The Saunderson Brothers is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Detroit, Los Angeles and New York City. Often billed alongside Kevin Saunderson, Dantiez and JMT. Next up: Lincoln Factory, Detroit on Fri 30 Oct.
 
 ## Upcoming shows
 

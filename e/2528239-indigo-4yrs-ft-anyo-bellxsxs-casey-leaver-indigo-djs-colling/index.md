@@ -1,6 +1,6 @@
 # INDIGO 4YRS - Ft. Anyo, bellxsxs, Casey Leaver, INDIGO DJS - Collingwood Basement at Collingwood Basement
 
-INDIGO 4YRS - Ft. Anyo, bellxsxs, Casey Leaver, INDIGO DJS - Collingwood Basement on Sat 26 Sept, Melbourne. 3 acts on the bill: bellxsxs, Casey Leaver and Mitch Tonta. Techno and House. Preview the line-up and save it on soundcheck.
+INDIGO 4YRS - Ft. Anyo, bellxsxs, Casey Leaver, INDIGO DJS - Collingwood Basement on Sat 26 Sept, Melbourne. 3 artists on the bill: bellxsxs, Casey Leaver and Mitch Tonta. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

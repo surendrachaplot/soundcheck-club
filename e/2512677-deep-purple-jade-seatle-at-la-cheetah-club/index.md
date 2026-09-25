@@ -1,6 +1,6 @@
 # Deep Purple: Jade Seatle at La Cheetah Club
 
-Deep Purple: Jade Seatle at La Cheetah Club on Thu 24 Sept, Glasgow. 2 acts on the bill: Arlo Duke and Jade Seatle. House and Tech House. Preview the line-up and save it on soundcheck.
+Deep Purple: Jade Seatle at La Cheetah Club on Thu 24 Sept, Glasgow. 2 artists on the bill: Arlo Duke and Jade Seatle. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

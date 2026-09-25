@@ -1,8 +1,8 @@
 # Signal
 
-Signal is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Ignez, Daybreak" on Thu, 24 Sept 2026.
+Signal is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Ignez, Daybreak" on Thu, 24 Sept 2026.
 
-Signal is a music venue in Newyorkcity listed on soundcheck. 18 upcoming gigs, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
+Signal is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 

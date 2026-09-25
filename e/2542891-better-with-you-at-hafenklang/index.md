@@ -1,6 +1,6 @@
 # better with you at Hafenklang
 
-better with you at Hafenklang on Fri 9 Oct, Hamburg. 6 acts on the bill: beccs, DJ Babyblade, Erik Bruns and Ian Pilosa and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+better with you at Hafenklang on Fri 9 Oct, Hamburg. 6 artists on the bill: beccs, DJ Babyblade, Erik Bruns and Ian Pilosa and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

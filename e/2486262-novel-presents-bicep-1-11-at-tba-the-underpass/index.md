@@ -1,6 +1,6 @@
 # Novel presents Bicep 1.11 at TBA - The Underpass
 
-Novel presents Bicep 1.11 at TBA - The Underpass on Sun 1 Nov, Melbourne. 4 acts on the bill: 1-800 GIRLS, Bicep, LEXI (2) and Pretty Girl. Preview the line-up and save it on soundcheck.
+Novel presents Bicep 1.11 at TBA - The Underpass on Sun 1 Nov, Melbourne. 4 artists on the bill: 1-800 GIRLS, Bicep, LEXI and Pretty Girl. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

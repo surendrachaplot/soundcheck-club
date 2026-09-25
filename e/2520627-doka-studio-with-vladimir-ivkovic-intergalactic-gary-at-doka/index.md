@@ -1,6 +1,6 @@
 # Doka Studio with Vladimir Ivkovic - Intergalactic Gary at Doka
 
-Doka Studio with Vladimir Ivkovic - Intergalactic Gary on Fri 25 Sept, Amsterdam. 2 acts on the bill: Intergalactic Gary and Vladimir Ivkovic. House and Acid. Preview the line-up and save it on soundcheck.
+Doka Studio with Vladimir Ivkovic - Intergalactic Gary on Fri 25 Sept, Amsterdam. 2 artists on the bill: Intergalactic Gary and Vladimir Ivkovic. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

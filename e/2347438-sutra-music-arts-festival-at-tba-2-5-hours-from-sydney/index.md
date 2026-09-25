@@ -1,6 +1,6 @@
 # SUTRA MUSIC & ARTS FESTIVAL at TBA - 2.5 Hours from Sydney
 
-SUTRA MUSIC & ARTS FESTIVAL at TBA - 2.5 Hours from Sydney on Sat 3 Oct, Sydney. 16 acts on the bill: Alex Dowsing, Caleb Jackson, Callyy and Cassette and 12 more. Techno and House. Preview the line-up and save it on soundcheck.
+SUTRA MUSIC & ARTS FESTIVAL at TBA - 2.5 Hours from Sydney on Sat 3 Oct, Sydney. 16 artists on the bill: Alex Dowsing, Caleb Jackson, Callyy and Cassette and 12 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

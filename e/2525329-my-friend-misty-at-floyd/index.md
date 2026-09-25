@@ -1,6 +1,6 @@
 # My Friend Misty at Floyd
 
-My Friend Misty at Floyd on Sat 26 Sept, Miami. 2 acts on the bill: SIEGEL (2) and Sinopoli. House and Minimal. Preview the line-up and save it on soundcheck.
+My Friend Misty at Floyd on Sat 26 Sept, Miami. 2 artists on the bill: SIEGEL and Sinopoli. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

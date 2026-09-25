@@ -1,6 +1,6 @@
 # lowpass w/ Luigi Tozzi  presents Deep Blue (live), Peryl (live), Serenus (live), APRS (live) at Start.Bahn - Genezarethkirche
 
-lowpass w/ Luigi Tozzi  presents Deep Blue (live), Peryl (live), Serenus (live), APRS (live) at Start.Bahn - Genezarethkirche on Thu 3 Dec, Berlin. 4 acts on the bill: APRS, Luigi Tozzi, Peryl and Serenus. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+lowpass w/ Luigi Tozzi  presents Deep Blue (live), Peryl (live), Serenus (live), APRS (live) at Start.Bahn - Genezarethkirche on Thu 3 Dec, Berlin. 4 artists on the bill: APRS, Luigi Tozzi, Peryl and Serenus. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

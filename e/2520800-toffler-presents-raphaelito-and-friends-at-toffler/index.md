@@ -1,6 +1,6 @@
 # Toffler presents Raphaelito and friends at Toffler
 
-Toffler presents Raphaelito and friends on Sat 31 Oct, Rotterdam. 3 acts on the bill: HIGHTS, LT (UK) and Raphaelito. House. Preview the line-up and save it on soundcheck.
+Toffler presents Raphaelito and friends on Sat 31 Oct, Rotterdam. 3 artists on the bill: HIGHTS, LT (UK) and Raphaelito. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

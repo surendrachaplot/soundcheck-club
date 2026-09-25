@@ -1,6 +1,6 @@
 # XÄNÄX OPENING PÄRTY al Blah Blah at Blah Blah
 
-XÄNÄX OPENING PÄRTY al Blah Blah on Fri 25 Sept, Turin. 1 act on the bill: Alessandro Hòtel Blangetti. Electro and Post-Punk. Preview the line-up and save it on soundcheck.
+XÄNÄX OPENING PÄRTY al Blah Blah on Fri 25 Sept, Turin. 1 artist on the bill: Alessandro Hòtel Blangetti. Electro and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

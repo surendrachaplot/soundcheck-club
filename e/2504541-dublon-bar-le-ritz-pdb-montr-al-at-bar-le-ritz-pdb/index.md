@@ -1,6 +1,6 @@
 # dublon | Bar le Ritz PDB | Montréal at Bar Le Ritz PDB
 
-dublon | Bar le Ritz PDB | Montréal at Bar Le Ritz PDB on Fri 2 Oct, Montreal. 1 act on the bill: Dublon. Preview the line-up and save it on soundcheck.
+dublon | Bar le Ritz PDB | Montréal at Bar Le Ritz PDB on Fri 2 Oct, Montreal. 1 artist on the bill: Dublon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

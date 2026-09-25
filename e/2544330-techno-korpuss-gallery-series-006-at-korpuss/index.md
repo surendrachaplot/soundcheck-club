@@ -1,6 +1,6 @@
 # TECHNO — Korpuss Gallery Series #006 at Korpuss
 
-TECHNO — Korpuss Gallery Series #006 on Fri 9 Oct, Riga. 4 acts on the bill: DEP (LV), Existal, miss kookie and Røsenwasser. Techno. Preview the line-up and save it on soundcheck.
+TECHNO — Korpuss Gallery Series #006 on Fri 9 Oct, Riga. 4 artists on the bill: DEP (LV), Existal, miss kookie and Røsenwasser. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

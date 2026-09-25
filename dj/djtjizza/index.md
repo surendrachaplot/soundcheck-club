@@ -1,14 +1,14 @@
 # DJ Tjizza
 
-DJ Tjizza is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+DJ Tjizza is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-DJ Tjizza is a house and electro artist based in Germany, tracked on soundcheck, with 80 sets logged across All, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Helly, SHAQUE and Velasco. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+DJ Tjizza is a house and electro artist based in Germany, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Helly, SHAQUE and Velasco. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played

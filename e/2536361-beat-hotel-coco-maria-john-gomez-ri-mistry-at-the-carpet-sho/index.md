@@ -1,6 +1,6 @@
 # Beat Hotel: Coco Maria, John Gomez & Ri Mistry at The Carpet Shop
 
-Beat Hotel: Coco Maria, John Gomez & Ri Mistry at The Carpet Shop on Fri 16 Oct, London. 2 acts on the bill: Coco Maria and John Gómez. Preview the line-up and save it on soundcheck.
+Beat Hotel: Coco Maria, John Gomez & Ri Mistry at The Carpet Shop on Fri 16 Oct, London. 2 artists on the bill: Coco Maria and John Gómez. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

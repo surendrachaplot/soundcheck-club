@@ -1,6 +1,6 @@
 # bratty • with charli xcx & other brat coded artists • dortmund at Oma Doris
 
-bratty • with charli xcx & other brat coded artists • dortmund at Oma Doris on Sat 19 Dec, Dortmund-essen. Electro and Pop. Preview the line-up and save it on soundcheck.
+bratty • with charli xcx & other brat coded artists • dortmund at Oma Doris on Sat 19 Dec, Dortmund Essen. Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

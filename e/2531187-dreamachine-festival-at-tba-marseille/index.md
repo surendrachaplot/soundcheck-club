@@ -1,6 +1,6 @@
 # Dreamachine Festival at TBA - Marseille
 
-Dreamachine Festival at TBA - Marseille on Thu 12 Nov, Marseille. 3 acts on the bill: keiyaA, Le Kaiju and Vanda Forte. Experimental and Club. Preview the line-up and save it on soundcheck.
+Dreamachine Festival at TBA - Marseille on Thu 12 Nov, Marseille. 3 artists on the bill: keiyaA, Le Kaiju and Vanda Forte. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

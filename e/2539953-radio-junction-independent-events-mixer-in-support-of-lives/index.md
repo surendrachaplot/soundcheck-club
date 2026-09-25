@@ -1,6 +1,6 @@
 # RADIO JUNCTION - INDEPENDENT EVENTS MIXER IN SUPPORT OF LIVES NOT KNIVES at Antro PUB
 
-RADIO JUNCTION - INDEPENDENT EVENTS MIXER IN SUPPORT OF LIVES NOT KNIVES at Antro PUB on Thu 24 Sept, London. 1 act on the bill: Optics. Afrobeat. Preview the line-up and save it on soundcheck.
+RADIO JUNCTION - INDEPENDENT EVENTS MIXER IN SUPPORT OF LIVES NOT KNIVES at Antro PUB on Thu 24 Sept, London. 1 artist on the bill: Optics. Afrobeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

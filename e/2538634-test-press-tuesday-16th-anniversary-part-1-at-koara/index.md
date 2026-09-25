@@ -1,6 +1,6 @@
 # TEST PRESS TUESDAY 16TH ANNIVERSARY PART 1 at Koara
 
-TEST PRESS TUESDAY 16TH ANNIVERSARY PART 1 at Koara on Tue 13 Oct, Tokyo. 5 acts on the bill: Aoi Kurihara, finedining, FLEDtokyo and Incarnated Sound and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+TEST PRESS TUESDAY 16TH ANNIVERSARY PART 1 at Koara on Tue 13 Oct, Tokyo. 5 artists on the bill: Aoi Kurihara, finedining, FLEDtokyo and Incarnated Sound and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

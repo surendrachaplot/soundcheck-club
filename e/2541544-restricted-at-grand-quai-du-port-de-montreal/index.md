@@ -1,6 +1,6 @@
 # Restricted at Grand Quai du Port de Montreal
 
-Restricted at Grand Quai du Port de Montreal on Sat 10 Oct, Montreal. 1 act on the bill: Restricted. Techno. Preview the line-up and save it on soundcheck.
+Restricted at Grand Quai du Port de Montreal on Sat 10 Oct, Montreal. 1 artist on the bill: Restricted. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

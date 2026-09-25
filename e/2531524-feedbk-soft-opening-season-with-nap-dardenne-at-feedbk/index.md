@@ -1,6 +1,6 @@
 # feedbk - soft opening season with NAP & Dardenne at feedbk
 
-feedbk - soft opening season with NAP & Dardenne on Sun 27 Sept, Newyorkcity. 2 acts on the bill: Dardenne and NAP (MX). Techno and House. Preview the line-up and save it on soundcheck.
+feedbk - soft opening season with NAP & Dardenne on Sun 27 Sept, New York City. 2 artists on the bill: Dardenne and NAP (MX). Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

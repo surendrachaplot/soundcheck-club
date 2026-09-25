@@ -2,7 +2,7 @@
 
 Sentient (3) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Panke, Berlin on Thu, 24 Sept 2026.
 
-Sentient (3) is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, Brighton, London and Munich. Often billed alongside Big Hands, Caldera and Caligari_. Next up: Panke, Berlin on Thu 24 Sept.
+Sentient is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, Brighton, London and Munich. Often billed alongside Big Hands, Caldera and Caligari_. Next up: Panke, Berlin on Thu 24 Sept.
 
 ## Upcoming shows
 

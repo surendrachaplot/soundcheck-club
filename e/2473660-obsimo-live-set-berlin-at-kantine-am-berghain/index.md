@@ -1,6 +1,6 @@
 # Obsimo (live set) - Berlin at Kantine am Berghain
 
-Obsimo (live set) - Berlin at Kantine am Berghain on Tue 6 Oct, Berlin. 1 act on the bill: Obsimo. House and Electronica. Preview the line-up and save it on soundcheck.
+Obsimo (live set) - Berlin at Kantine am Berghain on Tue 6 Oct, Berlin. 1 artist on the bill: Obsimo. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

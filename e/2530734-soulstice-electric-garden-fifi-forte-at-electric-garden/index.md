@@ -1,6 +1,6 @@
 # Soulstice & Electric Garden: FIFI FORTE at Electric Garden
 
-Soulstice & Electric Garden: FIFI FORTE on Sat 17 Oct, Dublin. 2 acts on the bill: FIFI FORTE and Nicole Spagnol. House and Tech House. Preview the line-up and save it on soundcheck.
+Soulstice & Electric Garden: FIFI FORTE on Sat 17 Oct, Dublin. 2 artists on the bill: FIFI FORTE and Nicole Spagnol. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

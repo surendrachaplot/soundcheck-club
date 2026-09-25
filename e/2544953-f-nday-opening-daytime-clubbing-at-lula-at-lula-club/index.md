@@ -1,6 +1,6 @@
 # FÜNDAY OPENING: DAYTIME CLUBBING at LULA at Lula Club
 
-FÜNDAY OPENING: DAYTIME CLUBBING at LULA at Lula Club on Fri 9 Oct, Madrid. 2 acts on the bill: DLOU and Loopita. House and Tech House. Preview the line-up and save it on soundcheck.
+FÜNDAY OPENING: DAYTIME CLUBBING at LULA at Lula Club on Fri 9 Oct, Madrid. 2 artists on the bill: DLOU and Loopita. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Arlo Parks at Akvárium Klub
 
-Arlo Parks at Akvárium Klub on Thu 22 Oct, Budapest. 1 act on the bill: Arlo Parks. R&B. Preview the line-up and save it on soundcheck.
+Arlo Parks at Akvárium Klub on Thu 22 Oct, Budapest. 1 artist on the bill: Arlo Parks. R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

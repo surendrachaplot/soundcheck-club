@@ -1,6 +1,6 @@
 # TRANCY & BOUNCY at Alte Kaserne
 
-TRANCY & BOUNCY at Alte Kaserne on Fri 25 Sept, Zurich. 5 acts on the bill: andris, Dekerim, HANÀ and MARCISM and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+TRANCY & BOUNCY at Alte Kaserne on Fri 25 Sept, Zurich. 5 artists on the bill: andris, Dekerim, HANÀ and MARCISM and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

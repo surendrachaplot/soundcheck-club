@@ -2,7 +2,7 @@
 
 Felly Fell is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Felly Fell is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 26 sets logged across Sandiego and Sanfrancisco. Often billed alongside Sam Drank, Adware and Clearcast. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
+Felly Fell is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 26 sets logged across San Diego and San Francisco/Oakland. Often billed alongside Sam Drank, Adware and Clearcast. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 

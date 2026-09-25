@@ -1,6 +1,6 @@
 # SLAY THE NIGHT presents SLUMBER PARTY: A WEST END GIRL CLUB EVENT - Free at Star of Bethnal Green
 
-SLAY THE NIGHT presents SLUMBER PARTY: A WEST END GIRL CLUB EVENT - Free at Star of Bethnal Green on Fri 25 Sept, London. 1 act on the bill: 2WM (UK). Tech House and Pop. Preview the line-up and save it on soundcheck.
+SLAY THE NIGHT presents SLUMBER PARTY: A WEST END GIRL CLUB EVENT - Free at Star of Bethnal Green on Fri 25 Sept, London. 1 artist on the bill: 2WM (UK). Tech House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

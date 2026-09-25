@@ -1,6 +1,6 @@
 # Straat 264 with Zombies In Miami at PRST
 
-Straat 264 with Zombies In Miami at PRST on Fri 9 Oct, Vienna. 1 act on the bill: Zombies In Miami. Techno and House. Preview the line-up and save it on soundcheck.
+Straat 264 with Zombies In Miami at PRST on Fri 9 Oct, Vienna. 1 artist on the bill: Zombies In Miami. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 nvxrrx is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at R25 Kulturschlachthof, Düsseldorf on Fri, 2 Oct 2026.
 
-nvxrrx is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 27 sets logged across Dusseldorf, Mexicocity, Paris and Seoul and 1 more. Often billed alongside Ann García, Magnolia Coronado and Denisse Leilany. Next up: R25 Kulturschlachthof, Dusseldorf on Fri 2 Oct.
+nvxrrx is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 27 sets logged across Düsseldorf, Mexico City, Paris and Seoul and 1 more. Often billed alongside Ann García, Magnolia Coronado and Denisse Leilany. Next up: R25 Kulturschlachthof, Düsseldorf on Fri 2 Oct.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Mash (2) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
-Mash (2) is a house and garage artist tracked on soundcheck, with 6 sets logged across Sydney. Often billed alongside Luke Alessi, Willo and AHJU. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
+Mash is a house and garage artist tracked on soundcheck, with 6 sets logged across Sydney. Often billed alongside Luke Alessi, Willo and AHJU. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Sásta Sundays: The Flair, Club Sásta at Bar Bonobo
 
-Sásta Sundays: The Flair, Club Sásta at Bar Bonobo on Sun 4 Oct, Newyorkcity. 1 act on the bill: The Flair. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Sásta Sundays: The Flair, Club Sásta at Bar Bonobo on Sun 4 Oct, New York City. 1 artist on the bill: The Flair. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Repeat Behavior: Kevin Aviance (DJ set), kraftwitch, ALoSo, Troubled Youth b2b Stas Thee Boss at TBA - Secret Warehouse
 
-Repeat Behavior: Kevin Aviance (DJ set), kraftwitch, ALoSo, Troubled Youth b2b Stas Thee Boss at TBA - Secret Warehouse on Fri 6 Nov, Portland. 3 acts on the bill: ALoSo, Kevin Aviance and kraftwitch. House and Club. Preview the line-up and save it on soundcheck.
+Repeat Behavior: Kevin Aviance (DJ set), kraftwitch, ALoSo, Troubled Youth b2b Stas Thee Boss at TBA - Secret Warehouse on Fri 6 Nov, Portland. 3 artists on the bill: ALoSo, Kevin Aviance and kraftwitch. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

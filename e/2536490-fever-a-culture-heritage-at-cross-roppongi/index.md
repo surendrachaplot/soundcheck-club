@@ -1,6 +1,6 @@
 # FEVER: a Culture Heritage at Cross Roppongi
 
-FEVER: a Culture Heritage at Cross Roppongi on Sat 10 Oct, Tokyo. 1 act on the bill: Pirate of the Caribbean. Dancehall and Amapiano. Preview the line-up and save it on soundcheck.
+FEVER: a Culture Heritage at Cross Roppongi on Sat 10 Oct, Tokyo. 1 artist on the bill: Pirate of the Caribbean. Dancehall and Amapiano. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

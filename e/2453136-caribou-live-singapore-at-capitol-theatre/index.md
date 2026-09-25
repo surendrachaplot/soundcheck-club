@@ -1,6 +1,6 @@
 # Caribou (Live) - Singapore at Capitol Theatre
 
-Caribou (Live) - Singapore at Capitol Theatre on Sat 28 Nov, Singapore. 1 act on the bill: Caribou. Preview the line-up and save it on soundcheck.
+Caribou (Live) - Singapore at Capitol Theatre on Sat 28 Nov, Singapore. 1 artist on the bill: Caribou. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

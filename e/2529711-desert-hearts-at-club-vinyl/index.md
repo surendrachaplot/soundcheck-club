@@ -1,6 +1,6 @@
 # Desert Hearts at Club Vinyl
 
-Desert Hearts at Club Vinyl on Sat 24 Oct, Denver. 1 act on the bill: Desert Hearts. House. Preview the line-up and save it on soundcheck.
+Desert Hearts at Club Vinyl on Sat 24 Oct, Denver. 1 artist on the bill: Desert Hearts. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

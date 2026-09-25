@@ -1,6 +1,6 @@
 # Frequency Forest 2026 - 2 Stages - 3-Day Camping Festival NSW at Maitland Showground
 
-Frequency Forest 2026 - 2 Stages - 3-Day Camping Festival NSW at Maitland Showground on Fri 25 Sept, Sydney. 22 acts on the bill: 8KAYS, Agents Of Time, AMMARA and Astrix and 18 more. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Frequency Forest 2026 - 2 Stages - 3-Day Camping Festival NSW at Maitland Showground on Fri 25 Sept, Sydney. 22 artists on the bill: 8KAYS, Agents Of Time, AMMARA and Astrix and 18 more. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

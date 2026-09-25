@@ -1,6 +1,6 @@
 # Support Women DJs Open Decks at Delirium
 
-Support Women DJs Open Decks at Delirium on Thu 8 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+Support Women DJs Open Decks at Delirium on Thu 8 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

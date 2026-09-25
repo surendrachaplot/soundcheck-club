@@ -1,6 +1,6 @@
 # Mas Alto presents: Massano at The Dome
 
-Mas Alto presents: Massano at The Dome on Sat 3 Oct, Liverpool. 1 act on the bill: Massano. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Mas Alto presents: Massano at The Dome on Sat 3 Oct, Liverpool. 1 artist on the bill: Massano. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

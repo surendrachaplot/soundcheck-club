@@ -2,7 +2,7 @@
 
 DJ FU (2) is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Social Room, Hong Kong on Fri, 25 Sept 2026.
 
-DJ FU (2) is a bass and jungle artist based in China, tracked on soundcheck, with 10 sets logged across Hongkong and Seoul. Often billed alongside Mengzy, ILLI (HK) and Immuno. Next up: Social Room, Hongkong on Fri 25 Sept.
+DJ FU is a bass and jungle artist based in China, tracked on soundcheck, with 10 sets logged across Hong Kong and Seoul. Often billed alongside Mengzy, ILLI (HK) and Immuno. Next up: Social Room, Hong Kong on Fri 25 Sept.
 
 ## Upcoming shows
 

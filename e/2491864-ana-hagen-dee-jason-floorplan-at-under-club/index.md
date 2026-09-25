@@ -1,6 +1,6 @@
 # Ana Hagen - DEE JASON - Floorplan at Under Club
 
-Ana Hagen - DEE JASON - Floorplan at Under Club on Sat 21 Nov, Buenosaires. 2 acts on the bill: Ana Hagen and Floorplan. Techno. Preview the line-up and save it on soundcheck.
+Ana Hagen - DEE JASON - Floorplan at Under Club on Sat 21 Nov, Buenos Aires. 2 artists on the bill: Ana Hagen and Floorplan. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

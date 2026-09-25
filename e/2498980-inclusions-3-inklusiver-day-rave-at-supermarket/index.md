@@ -1,6 +1,6 @@
 # INCLUSIONS 3 - INKLUSIVER DAY-RAVE at Supermarket
 
-INCLUSIONS 3 - INKLUSIVER DAY-RAVE at Supermarket on Sat 3 Oct, Zurich. 1 act on the bill: ERROR (LYRASIS). Preview the line-up and save it on soundcheck.
+INCLUSIONS 3 - INKLUSIVER DAY-RAVE at Supermarket on Sat 3 Oct, Zurich. 1 artist on the bill: ERROR (LYRASIS). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

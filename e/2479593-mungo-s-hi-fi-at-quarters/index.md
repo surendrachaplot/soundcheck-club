@@ -1,6 +1,6 @@
 # Mungo's Hi-Fi at Quarters
 
-Mungo's Hi-Fi at Quarters on Fri 25 Sept, Brighton. 1 act on the bill: Mungo's Hi Fi. Dub and Dancehall. Preview the line-up and save it on soundcheck.
+Mungo's Hi-Fi at Quarters on Fri 25 Sept, Brighton. 1 artist on the bill: Mungo's Hi Fi. Dub and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

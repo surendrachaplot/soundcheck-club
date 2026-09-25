@@ -2,7 +2,7 @@
 
 Kaikaina is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Waterhouse Studios, Amsterdam on Sat, 3 Oct 2026.
 
-Kaikaina is a techno and ghetto tech artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside CyberFairy777, DAMN DANIEL and Seven Angels. Next up: Waterhouse Studios, Amsterdam on Sat 3 Oct.
+Kaikaina is a techno and ghetto tech artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Rotterdam and The Hague. Often billed alongside CyberFairy777, DAMN DANIEL and Seven Angels. Next up: Waterhouse Studios, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 

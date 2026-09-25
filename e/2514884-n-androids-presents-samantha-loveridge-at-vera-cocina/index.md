@@ -1,6 +1,6 @@
 # Nü Androids presents: Samantha Loveridge at Vera Cocina & بار
 
-Nü Androids presents: Samantha Loveridge at Vera Cocina & بار on Sat 17 Oct, Washingtondc. 1 act on the bill: Samantha Loveridge. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Samantha Loveridge at Vera Cocina & بار on Sat 17 Oct, Washington DC. 1 artist on the bill: Samantha Loveridge. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

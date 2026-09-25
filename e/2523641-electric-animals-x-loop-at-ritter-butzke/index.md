@@ -1,6 +1,6 @@
 # Electric Animals x Loop at Ritter Butzke
 
-Electric Animals x Loop at Ritter Butzke on Fri 9 Oct, Berlin. 5 acts on the bill: Carlos Chaparro, Phoenix Movement, Rafa Barrios and Technasia and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Electric Animals x Loop at Ritter Butzke on Fri 9 Oct, Berlin. 5 artists on the bill: Carlos Chaparro, Phoenix Movement, Rafa Barrios and Technasia and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

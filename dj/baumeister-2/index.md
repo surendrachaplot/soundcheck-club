@@ -2,7 +2,7 @@
 
 Baumeister (2) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ipse, Berlin on Sat, 26 Sept 2026.
 
-Baumeister (2) is a trance and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside LG JASPER <3, Sinan Varol and Boom Sister. Next up: Ipse, Berlin on Sat 26 Sept.
+Baumeister is a trance and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside LG JASPER <3, Sinan Varol and Boom Sister. Next up: Ipse, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 

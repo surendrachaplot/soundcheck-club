@@ -1,6 +1,6 @@
 # Venus Bizarre at Insomnia
 
-Venus Bizarre at Insomnia on Sat 24 Oct, Berlin. 3 acts on the bill: Epicx, Sika Akis and Wiebe Roose. Techno. Preview the line-up and save it on soundcheck.
+Venus Bizarre at Insomnia on Sat 24 Oct, Berlin. 3 artists on the bill: Epicx, Sika Akis and Wiebe Roose. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

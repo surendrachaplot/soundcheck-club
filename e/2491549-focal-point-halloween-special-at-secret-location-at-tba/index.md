@@ -1,6 +1,6 @@
 # Focal point - Halloween special at secret location at TBA
 
-Focal point - Halloween special at secret location at TBA on Thu 29 Oct, London. 2 acts on the bill: B.Love and E.LINA. Preview the line-up and save it on soundcheck.
+Focal point - Halloween special at secret location at TBA on Thu 29 Oct, London. 2 artists on the bill: B.Love and E.LINA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

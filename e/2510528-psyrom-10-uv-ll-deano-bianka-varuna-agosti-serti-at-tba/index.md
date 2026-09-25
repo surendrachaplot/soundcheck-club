@@ -1,6 +1,6 @@
 # PSYROM #10 / Uväll, Deano, BIANKA, Varuna Agosti, Serti at TBA
 
-PSYROM #10 / Uväll, Deano, BIANKA, Varuna Agosti, Serti at TBA on Sun 27 Sept, Amsterdam. 5 acts on the bill: BIANKA, Deano, Serti and Uväll and 1 more. Techno. Preview the line-up and save it on soundcheck.
+PSYROM #10 / Uväll, Deano, BIANKA, Varuna Agosti, Serti at TBA on Sun 27 Sept, Amsterdam. 5 artists on the bill: BIANKA, Deano, Serti and Uväll and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

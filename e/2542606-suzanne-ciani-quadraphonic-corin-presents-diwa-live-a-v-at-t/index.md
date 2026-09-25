@@ -1,6 +1,6 @@
 # Suzanne Ciani (quadraphonic) + CORIN presents DIWA (live A/V) at The Edge, Fed Square
 
-Suzanne Ciani (quadraphonic) + CORIN presents DIWA (live A/V) at The Edge, Fed Square on Sun 6 Dec, Melbourne. 2 acts on the bill: CORIN and Suzanne Ciani. Preview the line-up and save it on soundcheck.
+Suzanne Ciani (quadraphonic) + CORIN presents DIWA (live A/V) at The Edge, Fed Square on Sun 6 Dec, Melbourne. 2 artists on the bill: CORIN and Suzanne Ciani. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

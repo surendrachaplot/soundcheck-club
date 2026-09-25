@@ -1,6 +1,6 @@
 # CLOSER x TYF present SUNDANCE with Misha at TBA - DTLA
 
-CLOSER x TYF present SUNDANCE with Misha at TBA - DTLA on Sun 27 Sept, Losangeles. 1 act on the bill: Violeta. House and Tech House. Preview the line-up and save it on soundcheck.
+CLOSER x TYF present SUNDANCE with Misha at TBA - DTLA on Sun 27 Sept, Los Angeles. 1 artist on the bill: Violeta. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

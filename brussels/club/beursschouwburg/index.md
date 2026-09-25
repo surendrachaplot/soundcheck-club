@@ -1,15 +1,14 @@
 # Beursschouwburg
 
-Beursschouwburg is a music venue in Brussels with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Music on a whim presents Folk Futures w/ Sarathy Korwar & Cinna Peyghamy + Monopoly of Bells" on Thu, 24 Sept 2026.
+Beursschouwburg is a music venue in Brussels with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Music on a whim presents Folk Futures w/ Sarathy Korwar & Cinna Peyghamy + Monopoly of Bells" on Thu, 24 Sept 2026.
 
-Beursschouwburg is a music venue in Brussels listed on soundcheck. 11 upcoming gigs, with line-ups including Carmilla Sioux, Cinna, Cinna Peyghamy and DJ Bisou and 2 more. Browse upcoming dates, start times and who's playing. Auguste Ortsstraat 20-28; 1000 Brussel; Belgium.
+Beursschouwburg is a music venue in Brussels listed on soundcheck. 10 upcoming gigs, with line-ups including Carmilla Sioux, Cinna Peyghamy, DJ Bisou and Dj LovePills and 2 more. Browse upcoming dates, start times and who's playing. Auguste Ortsstraat 20-28; 1000 Brussel; Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Music on a whim presents Folk Futures w/ Sarathy Korwar & Cinna Peyghamy + Monopoly of Bells | Cinna Peyghamy |
-| Thu, 24 Sept 2026 | Music On A Whim presents Folk Futures with Sarathy Korwar & Cinna Peyghamy + Monopoly of Bells | Cinna |
 | Sat, 26 Sept 2026 | Futura Resistenza w/ De Kloe + Venus Tropicaux + Fanny Alizée + Sheree & Bob |  |
 | Wed, 30 Sept 2026 | SLAGADER | Slagader |
 | Fri, 9 Oct 2026 | Radio Hito + Suzan Peeters | Radio Hito |
@@ -18,6 +17,7 @@ Beursschouwburg is a music venue in Brussels listed on soundcheck. 11 upcoming g
 | Sat, 31 Oct 2026 | Mutant Modality presents VAMPIRICA: Halloween club night | Carmilla Sioux, Dj LovePills, Kim Peers, Monstera Occulta, Ottoman Grüw, Reka |
 | Thu, 5 Nov 2026 | Liesa Van der Aa |  |
 | Fri, 6 Nov 2026 | Lena Willikens + Rick Shiver + Donia | DONIA, Lena Willikens, Rick Shiver |
+| Mon, 23 Nov 2026 | Desire + Johnny Jewel | Johnny Jewel |
 
 ## Address
 

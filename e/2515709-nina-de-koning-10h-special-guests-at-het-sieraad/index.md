@@ -1,6 +1,6 @@
 # Nina de Koning (10H) + Special Guests at Het Sieraad
 
-Nina de Koning (10H) + Special Guests at Het Sieraad on Fri 9 Oct, Amsterdam. 3 acts on the bill: Disk Space, DJUS and Nina de Koning. Techno. Preview the line-up and save it on soundcheck.
+Nina de Koning (10H) + Special Guests at Het Sieraad on Fri 9 Oct, Amsterdam. 3 artists on the bill: Disk Space, DJUS and Nina de Koning. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

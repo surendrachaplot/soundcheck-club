@@ -1,6 +1,6 @@
 # Tunnel presents: Hardcore Babes, Scritts at Rebellion
 
-Tunnel presents: Hardcore Babes, Scritts at Rebellion on Sat 3 Oct, Manchester. 1 act on the bill: Hardcore Babes. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
+Tunnel presents: Hardcore Babes, Scritts at Rebellion on Sat 3 Oct, Manchester. 1 artist on the bill: Hardcore Babes. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

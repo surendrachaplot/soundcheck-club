@@ -1,6 +1,6 @@
 # BASSALICIOUS(001) at Noch Besser Leben
 
-BASSALICIOUS(001) at Noch Besser Leben on Sat 10 Oct, Leipzig. 1 act on the bill: slim_aguilera. Bass and Jungle. Preview the line-up and save it on soundcheck.
+BASSALICIOUS(001) at Noch Besser Leben on Sat 10 Oct, Leipzig. 1 artist on the bill: slim_aguilera. Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

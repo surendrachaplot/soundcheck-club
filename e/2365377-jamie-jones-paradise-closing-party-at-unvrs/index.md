@@ -1,6 +1,6 @@
 # Jamie Jones Paradise - CLOSING PARTY at [UNVRS]
 
-Jamie Jones Paradise - CLOSING PARTY at [UNVRS] on Wed 7 Oct, Ibiza. 4 acts on the bill: AMÉMÉ, Jamie Jones, Manda Moor and Mason Maynard. House and Tech House. Preview the line-up and save it on soundcheck.
+Jamie Jones Paradise - CLOSING PARTY at [UNVRS] on Wed 7 Oct, Ibiza. 4 artists on the bill: AMÉMÉ, Jamie Jones, Manda Moor and Mason Maynard. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MOON PRESENTS: Agoria at Moon Warsaw
 
-MOON PRESENTS: Agoria at Moon Warsaw on Sat 3 Oct, Warsaw. 1 act on the bill: Agoria. House. Preview the line-up and save it on soundcheck.
+MOON PRESENTS: Agoria at Moon Warsaw on Sat 3 Oct, Warsaw. 1 artist on the bill: Agoria. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

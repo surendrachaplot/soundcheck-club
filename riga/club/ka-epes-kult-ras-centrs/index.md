@@ -2,14 +2,14 @@
 
 Kaņepes Kultūras Centrs is a music venue in Riga with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "JAUDA season opening" on Fri, 25 Sept 2026.
 
-Kaņepes Kultūras Centrs is a music venue in Riga listed on soundcheck. 2 upcoming gigs, with line-ups including First kiss and Hannah Holland. Browse upcoming dates, start times and who's playing. Skolas iela 15, Riga, Latvia-LV 1010.
+Kaņepes Kultūras Centrs is a music venue in Riga listed on soundcheck. 2 upcoming gigs, with line-ups including First kiss, Hannah Holland and HENRI LAKIS. Browse upcoming dates, start times and who's playing. Skolas iela 15, Riga, Latvia-LV 1010.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | JAUDA season opening | First kiss, Hannah Holland |
-| Sat, 26 Sept 2026 | DISUNDI 26.09 |  |
+| Sat, 26 Sept 2026 | DISUNDI 26.09 | HENRI LAKIS |
 
 ## Address
 

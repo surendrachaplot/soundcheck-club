@@ -1,6 +1,6 @@
 # Sundrift x Club Dabke pres. Dj Habibbeats + CHAMOS + Special K at Riviera Beach Club
 
-Sundrift x Club Dabke pres. Dj Habibbeats + CHAMOS + Special K at Riviera Beach Club on Sun 6 Dec, Melbourne. 5 acts on the bill: CHAMOS, DJ Habibeats, Mowgli and MzRizk and 1 more. House and Afro House. Preview the line-up and save it on soundcheck.
+Sundrift x Club Dabke pres. Dj Habibbeats + CHAMOS + Special K at Riviera Beach Club on Sun 6 Dec, Melbourne. 5 artists on the bill: CHAMOS, DJ Habibeats, Mowgli and MzRizk and 1 more. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

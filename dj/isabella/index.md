@@ -1,8 +1,8 @@
 # ISAbella
 
-ISAbella is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+ISAbella is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
-ISAbella is a house and techno artist based in Colombia, tracked on soundcheck, with 259 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 44 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+ISAbella is a house and techno artist based in Colombia, tracked on soundcheck, with 260 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 44 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ ISAbella is a house and techno artist based in Colombia, tracked on soundcheck, 
 | Fri, 9 Oct 2026 | BASEMENT | New York City |
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 | Sun, 25 Oct 2026 | Sugarfactory | Amsterdam |
+| Mon, 26 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 31 Oct 2026 | The Cause | London |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Nachtwerk #003 at STK 47 WAREHOUSE
 
-Nachtwerk #003 at STK 47 WAREHOUSE on Fri 9 Oct, Krakow. 5 acts on the bill: C Razey, Mordeaux, outta_8 and Tving Stage Design and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Nachtwerk #003 at STK 47 WAREHOUSE on Fri 9 Oct, Krakow. 5 artists on the bill: C Razey, Mordeaux, outta_8 and Tving Stage Design and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

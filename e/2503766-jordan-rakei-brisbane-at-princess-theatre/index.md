@@ -1,6 +1,6 @@
 # Jordan Rakei [Brisbane] at Princess Theatre
 
-Jordan Rakei [Brisbane] at Princess Theatre on Sat 5 Dec, Brisbane. 1 act on the bill: Jordan Rakei. Preview the line-up and save it on soundcheck.
+Jordan Rakei [Brisbane] at Princess Theatre on Sat 5 Dec, Brisbane. 1 artist on the bill: Jordan Rakei. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

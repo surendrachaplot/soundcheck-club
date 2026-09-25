@@ -1,6 +1,6 @@
 # Layton Giordani presents MADMINDS at Russell Industrial Center
 
-Layton Giordani presents MADMINDS at Russell Industrial Center on Sat 14 Nov, Detroit. 3 acts on the bill: Annicka, DJ SPHiNX and Layton Giordani. Techno. Preview the line-up and save it on soundcheck.
+Layton Giordani presents MADMINDS at Russell Industrial Center on Sat 14 Nov, Detroit. 3 artists on the bill: Annicka, DJ SPHiNX and Layton Giordani. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Slick Down at Bossa Nova Civic Club
 
-Slick Down at Bossa Nova Civic Club on Fri 9 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+Slick Down at Bossa Nova Civic Club on Fri 9 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

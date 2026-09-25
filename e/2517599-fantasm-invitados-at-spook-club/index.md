@@ -1,6 +1,6 @@
 # Fantasm + invitados at Spook Club
 
-Fantasm + invitados at Spook Club on Sat 17 Oct, Valencia. 1 act on the bill: Fantasm. Techno. Preview the line-up and save it on soundcheck.
+Fantasm + invitados at Spook Club on Sat 17 Oct, Valencia. 1 artist on the bill: Fantasm. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Madam invites: Detroit Love at Madam
 
-Madam invites: Detroit Love on Sun 25 Oct, Amsterdam. 3 acts on the bill: Carl Craig, DJ Holographic and Kevin Saunderson. Techno and House. Preview the line-up and save it on soundcheck.
+Madam invites: Detroit Love on Sun 25 Oct, Amsterdam. 3 artists on the bill: Carl Craig, DJ Holographic and Kevin Saunderson. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

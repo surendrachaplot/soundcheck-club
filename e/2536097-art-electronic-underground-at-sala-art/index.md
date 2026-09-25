@@ -1,6 +1,6 @@
 # ART ELECTRONIC UNDERGROUND at Sala ART
 
-ART ELECTRONIC UNDERGROUND at Sala ART on Sat 3 Oct, Madrid. 4 acts on the bill: Anna Jevills, CHEFFF, Costa (2) and PÜCH. Techno. Preview the line-up and save it on soundcheck.
+ART ELECTRONIC UNDERGROUND at Sala ART on Sat 3 Oct, Madrid. 4 artists on the bill: Anna Jevills, CHEFFF, Costa and PÜCH. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

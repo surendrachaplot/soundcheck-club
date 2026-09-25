@@ -1,6 +1,6 @@
 # OLIVER MAGENTA and FRIENDS at Bootshaus
 
-OLIVER MAGENTA and FRIENDS at Bootshaus on Sat 17 Oct, Cologne. 1 act on the bill: Obsessed (CH). Preview the line-up and save it on soundcheck.
+OLIVER MAGENTA and FRIENDS at Bootshaus on Sat 17 Oct, Cologne. 1 artist on the bill: Obsessed (CH). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

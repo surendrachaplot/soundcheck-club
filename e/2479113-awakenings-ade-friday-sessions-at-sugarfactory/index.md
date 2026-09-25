@@ -1,6 +1,6 @@
 # Awakenings ADE - Friday Sessions at Sugarfactory
 
-Awakenings ADE - Friday Sessions at Sugarfactory on Fri 23 Oct, Amsterdam. 8 acts on the bill: AMORAL, Ben Klock, Funk Assault and JakoJako and 4 more. Techno. Preview the line-up and save it on soundcheck.
+Awakenings ADE - Friday Sessions at Sugarfactory on Fri 23 Oct, Amsterdam. 8 artists on the bill: AMORAL, Ben Klock, Funk Assault and JakoJako and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

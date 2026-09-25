@@ -1,6 +1,6 @@
 # or 6TH ANNIVERSARY DAY4 at or
 
-or 6TH ANNIVERSARY DAY4 on Sat 26 Sept, Tokyo. 15 acts on the bill: 2bnsn, ANZU, Ayantula and Conures (DJ Tokunaga) and 11 more. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+or 6TH ANNIVERSARY DAY4 on Sat 26 Sept, Tokyo. 15 artists on the bill: 2bnsn, ANZU, Ayantula and Conures (DJ Tokunaga) and 11 more. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

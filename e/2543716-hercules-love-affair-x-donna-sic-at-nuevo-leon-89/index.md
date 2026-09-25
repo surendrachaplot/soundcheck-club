@@ -1,6 +1,6 @@
 # Hercules & Love Affair x Donna & [sic] at Nuevo Leon 89
 
-Hercules & Love Affair x Donna & [sic] at Nuevo Leon 89 on Fri 2 Oct, Mexicocity. Techno and Disco. Preview the line-up and save it on soundcheck.
+Hercules & Love Affair x Donna & [sic] at Nuevo Leon 89 on Fri 2 Oct, Mexico City. Techno and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

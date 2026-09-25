@@ -1,6 +1,6 @@
 # Les Enfants pres. Alexia Glensy b2b Alex Dima at Les Enfants Brillants
 
-Les Enfants pres. Alexia Glensy b2b Alex Dima at Les Enfants Brillants on Sat 3 Oct, Barcelona. 2 acts on the bill: Alex Dima and Alexia Glensy. Techno and Electro. Preview the line-up and save it on soundcheck.
+Les Enfants pres. Alexia Glensy b2b Alex Dima at Les Enfants Brillants on Sat 3 Oct, Barcelona. 2 artists on the bill: Alex Dima and Alexia Glensy. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

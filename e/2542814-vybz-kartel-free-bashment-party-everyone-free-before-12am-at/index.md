@@ -1,6 +1,6 @@
 # Vybz Kartel - Free Bashment Party - Everyone Free Before 12AM at The Lighthouse Club
 
-Vybz Kartel - Free Bashment Party - Everyone Free Before 12AM at The Lighthouse Club on Fri 25 Sept, London. 1 act on the bill: Vybz Kartel. Preview the line-up and save it on soundcheck.
+Vybz Kartel - Free Bashment Party - Everyone Free Before 12AM at The Lighthouse Club on Fri 25 Sept, London. 1 artist on the bill: Vybz Kartel. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

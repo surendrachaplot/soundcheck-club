@@ -1,6 +1,6 @@
 # Make The Girls Dance at Luz De Gas
 
-Make The Girls Dance at Luz De Gas on Sat 26 Sept, Barcelona. 3 acts on the bill: Bontan, David Tort and Juany Bravo. Electronica. Preview the line-up and save it on soundcheck.
+Make The Girls Dance at Luz De Gas on Sat 26 Sept, Barcelona. 3 artists on the bill: Bontan, David Tort and Juany Bravo. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

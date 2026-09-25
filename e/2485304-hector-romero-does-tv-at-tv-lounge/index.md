@@ -1,6 +1,6 @@
 # Hector Romero does TV at TV Lounge
 
-Hector Romero does TV at TV Lounge on Fri 25 Sept, Detroit. 3 acts on the bill: Bruce Bailey, Hector Romero and sillygirlcarmen. House and Afro House. Preview the line-up and save it on soundcheck.
+Hector Romero does TV at TV Lounge on Fri 25 Sept, Detroit. 3 artists on the bill: Bruce Bailey, Hector Romero and sillygirlcarmen. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

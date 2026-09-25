@@ -1,6 +1,6 @@
 # Matilda Tjäder Album Launch: Rat Section + Alcyoni at Raleigh Chapel
 
-Matilda Tjäder Album Launch: Rat Section + Alcyoni at Raleigh Chapel on Wed 21 Oct, London. 2 acts on the bill: Matilda Tjäder and Rat Section. Experimental and Pop. Preview the line-up and save it on soundcheck.
+Matilda Tjäder Album Launch: Rat Section + Alcyoni at Raleigh Chapel on Wed 21 Oct, London. 2 artists on the bill: Matilda Tjäder and Rat Section. Experimental and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

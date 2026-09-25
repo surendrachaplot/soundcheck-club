@@ -1,6 +1,6 @@
 # Alinea Events presents: Dance In The Ambience at Heebie Jeebies
 
-Alinea Events presents: Dance In The Ambience at Heebie Jeebies on Fri 16 Oct, Liverpool. 3 acts on the bill: Aly P, Dj Streaks and Liv Leslie. House and Dub Techno. Preview the line-up and save it on soundcheck.
+Alinea Events presents: Dance In The Ambience at Heebie Jeebies on Fri 16 Oct, Liverpool. 3 artists on the bill: Aly P, Dj Streaks and Liv Leslie. House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

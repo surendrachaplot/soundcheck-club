@@ -1,8 +1,8 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Art School, Glasgow on Thu, 24 Sept 2026.
+Prosumer is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Art School, Glasgow on Thu, 24 Sept 2026.
 
-Prosumer is a house and techno artist based in United Kingdom, tracked on soundcheck, with 172 sets logged across Amsterdam, Athens, Barcelona and Belfast and 47 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: The Art School, Glasgow on Thu 24 Sept.
+Prosumer is a house and techno artist based in United Kingdom, tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: The Art School, Glasgow on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Prosumer is a house and techno artist based in United Kingdom, tracked on soundc
 | Fri, 2 Oct 2026 | Monarch | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | TBA - Shipyards Waterfront | Vancouver |
 | Sat, 17 Oct 2026 | public records | New York City |
+| Fri, 20 Nov 2026 | Verbier | Switzerland |
 
 ## Recently played
 

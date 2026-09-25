@@ -1,6 +1,6 @@
 # MARA SANTIAGO + SANTOS BASSLINES at Terraza Catedral
 
-MARA SANTIAGO + SANTOS BASSLINES at Terraza Catedral on Fri 25 Sept, Mexicocity. House and Minimal. Preview the line-up and save it on soundcheck.
+MARA SANTIAGO + SANTOS BASSLINES at Terraza Catedral on Fri 25 Sept, Mexico City. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

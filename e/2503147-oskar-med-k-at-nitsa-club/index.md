@@ -1,6 +1,6 @@
 # oskar med k at Nitsa Club
 
-oskar med k at Nitsa Club on Fri 13 Nov, Barcelona. 1 act on the bill: oskar med k. House and Pop. Preview the line-up and save it on soundcheck.
+oskar med k at Nitsa Club on Fri 13 Nov, Barcelona. 1 artist on the bill: oskar med k. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

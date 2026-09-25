@@ -1,6 +1,6 @@
 # Cantaloupe at TBA - Chinatown (location emailed to ticket holders)
 
-Cantaloupe at TBA - Chinatown (location emailed to ticket holders) on Thu 10 Dec, Newyorkcity. House and Electro. Preview the line-up and save it on soundcheck.
+Cantaloupe at TBA - Chinatown (location emailed to ticket holders) on Thu 10 Dec, New York City. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

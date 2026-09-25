@@ -1,6 +1,6 @@
 # Dusky (Extended Set) at Standard Time at Standard Time
 
-Dusky (Extended Set) at Standard Time on Sun 11 Oct, Toronto. 1 act on the bill: Dusky. Preview the line-up and save it on soundcheck.
+Dusky (Extended Set) at Standard Time on Sun 11 Oct, Toronto. 1 artist on the bill: Dusky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Moktar - SYDNEY - Liberty Hall at Liberty Hall
 
-Moktar - SYDNEY - Liberty Hall on Sat 12 Dec, Sydney. 3 acts on the bill: Killian, Moktar and Roza Terenzi. Preview the line-up and save it on soundcheck.
+Moktar - SYDNEY - Liberty Hall on Sat 12 Dec, Sydney. 3 artists on the bill: Killian, Moktar and Roza Terenzi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

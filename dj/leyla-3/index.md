@@ -2,7 +2,7 @@
 
 Leyla (3) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gewölbe, Cologne on Sat, 24 Oct 2026.
 
-Leyla (3) is a house and tech house artist based in Germany, tracked on soundcheck, with 29 sets logged across Cologne, Munich, Paris and Vienna. Often billed alongside tanjuesch, DJoy and sianza. Next up: Gewölbe, Cologne on Sat 24 Oct.
+Leyla is a house and tech house artist based in Germany, tracked on soundcheck, with 29 sets logged across Cologne, Munich, Paris and Vienna. Often billed alongside tanjuesch, DJoy and sianza. Next up: Gewölbe, Cologne on Sat 24 Oct.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Le Chapiteau - Marseille is a music venue in Marseille with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Re:Son Vol.2 W/ Marija, Pechko, Moonee, Khalk & More" on Fri, 25 Sept 2026.
 
-Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 5 upcoming gigs, with line-ups including KHALK, Marija, Nick V and Ortega (2). Browse upcoming dates, start times and who's playing. 38 TVS Notre Dame De Bon Secours.
+Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 5 upcoming gigs, with line-ups including KHALK, Marija, Nick V and Ortega. Browse upcoming dates, start times and who's playing. 38 TVS Notre Dame De Bon Secours.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # PILOT - Sidney Charles (5HRS) at BRET
 
-PILOT - Sidney Charles (5HRS) at BRET on Fri 25 Sept, Amsterdam. 1 act on the bill: Sidney Charles. House. Preview the line-up and save it on soundcheck.
+PILOT - Sidney Charles (5HRS) at BRET on Fri 25 Sept, Amsterdam. 1 artist on the bill: Sidney Charles. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

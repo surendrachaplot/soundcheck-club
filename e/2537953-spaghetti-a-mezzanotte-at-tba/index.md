@@ -1,6 +1,6 @@
 # SPAGHETTI A MEZZANOTTE at TBA
 
-SPAGHETTI A MEZZANOTTE at TBA on Fri 23 Oct, Amsterdam. 2 acts on the bill: Hoani Teano and Plab On. House. Preview the line-up and save it on soundcheck.
+SPAGHETTI A MEZZANOTTE at TBA on Fri 23 Oct, Amsterdam. 2 artists on the bill: Hoani Teano and Plab On. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

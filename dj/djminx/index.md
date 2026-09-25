@@ -2,7 +2,7 @@
 
 DJ Minx is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Los Globos, Los Angeles on Fri, 25 Sept 2026.
 
-DJ Minx is a house and techno artist based in United States of America, tracked on soundcheck, with 181 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: Los Globos, Losangeles on Fri 25 Sept.
+DJ Minx is a house and techno artist based in United States of America, tracked on soundcheck, with 181 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: Los Globos, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

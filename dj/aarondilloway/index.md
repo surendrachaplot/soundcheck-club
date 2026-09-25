@@ -2,7 +2,7 @@
 
 Aaron Dilloway is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Milkys, Los Angeles on Fri, 25 Sept 2026.
 
-Aaron Dilloway is an experimental and noise artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit, Losangeles, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Drew McDowall, Actress and Batu. Next up: Milkys, Losangeles on Fri 25 Sept.
+Aaron Dilloway is an experimental and noise artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit, Los Angeles, New York City and San Francisco/Oakland and 1 more. Often billed alongside Drew McDowall, Actress and Batu. Next up: Milkys, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

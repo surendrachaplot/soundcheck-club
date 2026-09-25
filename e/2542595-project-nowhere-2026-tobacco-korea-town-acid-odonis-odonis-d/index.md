@@ -1,6 +1,6 @@
 # Project Nowhere 2026: TOBACCO + Korea Town Acid + ODONIS ODONIS (DJ) at Mod Club Theatre
 
-Project Nowhere 2026: TOBACCO + Korea Town Acid + ODONIS ODONIS (DJ) at Mod Club Theatre on Fri 2 Oct, Toronto. 1 act on the bill: Korea Town Acid. Electro and Acid. Preview the line-up and save it on soundcheck.
+Project Nowhere 2026: TOBACCO + Korea Town Acid + ODONIS ODONIS (DJ) at Mod Club Theatre on Fri 2 Oct, Toronto. 1 artist on the bill: Korea Town Acid. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

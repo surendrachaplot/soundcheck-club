@@ -1,6 +1,6 @@
 # Haus of Lil Girlz presents Welcome to the Dollhaus at Mood Ring
 
-Haus of Lil Girlz presents Welcome to the Dollhaus at Mood Ring on Wed 14 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+Haus of Lil Girlz presents Welcome to the Dollhaus at Mood Ring on Wed 14 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

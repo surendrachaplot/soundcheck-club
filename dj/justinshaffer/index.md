@@ -2,7 +2,7 @@
 
 Justin Shaffer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sonnenraum, Berlin on Sun, 11 Oct 2026.
 
-Justin Shaffer is a house and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Berlin, Detroit, Lisbon and Losangeles and 5 more. Often billed alongside Dragana, Maayan Nidam and Dana Ruh. Next up: Sonnenraum, Berlin on Sun 11 Oct.
+Justin Shaffer is a house and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Berlin, Detroit, Lisbon and Los Angeles and 5 more. Often billed alongside Dragana, Maayan Nidam and Dana Ruh. Next up: Sonnenraum, Berlin on Sun 11 Oct.
 
 ## Upcoming shows
 

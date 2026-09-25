@@ -1,6 +1,6 @@
 # EDEN - Rotten To The Core at Stadion Strahov
 
-EDEN - Rotten To The Core at Stadion Strahov on Sat 10 Oct, Prague. 4 acts on the bill: 2NDRA, Mila (5), RiVid and SCHELLT. Techno and Acid. Preview the line-up and save it on soundcheck.
+EDEN - Rotten To The Core at Stadion Strahov on Sat 10 Oct, Prague. 4 artists on the bill: 2NDRA, Mila, RiVid and SCHELLT. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

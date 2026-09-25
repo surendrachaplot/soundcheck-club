@@ -1,6 +1,6 @@
 # Tengu presents: Sonic Explorations LIVE with Kessler, Lerosa & Commissions at Yamamori Tengu
 
-Tengu presents: Sonic Explorations LIVE with Kessler, Lerosa & Commissions at Yamamori Tengu on Sat 3 Oct, Dublin. 3 acts on the bill: Commissions, Kessler and Lerosa. Techno and Electro. Preview the line-up and save it on soundcheck.
+Tengu presents: Sonic Explorations LIVE with Kessler, Lerosa & Commissions at Yamamori Tengu on Sat 3 Oct, Dublin. 3 artists on the bill: Commissions, Kessler and Lerosa. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Autobahn at Système
 
-Autobahn at Système on Sat 17 Oct, Montreal. 3 acts on the bill: AADJA, AṢKIM and h1bou. Preview the line-up and save it on soundcheck.
+Autobahn at Système on Sat 17 Oct, Montreal. 3 artists on the bill: AADJA, AṢKIM and h1bou. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # james K - Montréal at Fairmount Theatre
 
-james K - Montréal at Fairmount Theatre on Thu 22 Oct, Montreal. 1 act on the bill: james K. Ambient and Pop. Preview the line-up and save it on soundcheck.
+james K - Montréal at Fairmount Theatre on Thu 22 Oct, Montreal. 1 artist on the bill: james K. Ambient and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

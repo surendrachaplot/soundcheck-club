@@ -2,7 +2,7 @@
 
 Siete Catorce is a Latin Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location, Bed Stuy, New York City on Sat, 3 Oct 2026.
 
-Siete Catorce is a latin bass and experimental artist based in Mexico, tracked on soundcheck, with 18 sets logged across Berlin, Losangeles, Mexicocity and Montreal and 4 more. Often billed alongside SIETE, DJ JUANNY and Anna Morgan. Next up: TBA - Secret Location, Bed Stuy, Newyorkcity on Sat 3 Oct.
+Siete Catorce is a latin bass and experimental artist based in Mexico, tracked on soundcheck, with 18 sets logged across Berlin, Los Angeles, Mexico City and Montreal and 4 more. Often billed alongside SIETE, DJ JUANNY and Anna Morgan. Next up: TBA - Secret Location, Bed Stuy, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 

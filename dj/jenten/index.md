@@ -2,7 +2,7 @@
 
 JenTen is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tresor / Globus, Berlin on Wed, 21 Oct 2026.
 
-JenTen is a techno and ghetto tech artist based in Ireland, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Cologne and Dublin. Often billed alongside TAUREAN (2), Ayolxi and Offtrack. Next up: Tresor / Globus, Berlin on Wed 21 Oct.
+JenTen is a techno and ghetto tech artist based in Ireland, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Cologne and Dublin. Often billed alongside TAUREAN, Ayolxi and Offtrack. Next up: Tresor / Globus, Berlin on Wed 21 Oct.
 
 ## Upcoming shows
 

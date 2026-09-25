@@ -2,7 +2,7 @@
 
 Hayden James is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Echostage, Washington DC on Sat, 26 Sept 2026.
 
-Hayden James is a house and deep house artist based in Australia, tracked on soundcheck, with 55 sets logged across Austin, Bali, Barcelona and Boston and 16 more. Often billed alongside Gorgon City, Claptone and Eli & Fur. Next up: Echostage, Washingtondc on Sat 26 Sept.
+Hayden James is a house and deep house artist based in Australia, tracked on soundcheck, with 55 sets logged across Austin, Bali, Barcelona and Boston and 16 more. Often billed alongside Gorgon City, Claptone and Eli & Fur. Next up: Echostage, Washington DC on Sat 26 Sept.
 
 ## Upcoming shows
 

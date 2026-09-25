@@ -1,6 +1,6 @@
 # UK Garage Halloween Boat Party at Dixie Queen Paddle Steamer
 
-UK Garage Halloween Boat Party at Dixie Queen Paddle Steamer on Sat 31 Oct, London. 4 acts on the bill: Colin Francis, Dan Jolly, Lisa Maffia and Romeo MC. House and Garage. Preview the line-up and save it on soundcheck.
+UK Garage Halloween Boat Party at Dixie Queen Paddle Steamer on Sat 31 Oct, London. 4 artists on the bill: Colin Francis, Dan Jolly, Lisa Maffia and Romeo MC. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

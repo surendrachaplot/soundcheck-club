@@ -1,6 +1,6 @@
 # Dane's Dance Emporium & Pacific Rhythm present: Telephones at TBA
 
-Dane's Dance Emporium & Pacific Rhythm present: Telephones at TBA on Sat 26 Sept, Vancouver. 3 acts on the bill: Dane, DJ D.Dee and Telephones. House. Preview the line-up and save it on soundcheck.
+Dane's Dance Emporium & Pacific Rhythm present: Telephones at TBA on Sat 26 Sept, Vancouver. 3 artists on the bill: Dane, DJ D.Dee and Telephones. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

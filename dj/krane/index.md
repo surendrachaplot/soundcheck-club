@@ -2,7 +2,7 @@
 
 Krane is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 25 Oct 2026.
 
-Krane is a house and electronica artist based in Russia, tracked on soundcheck, with 142 sets logged across Austin, Losangeles, Miami and Newyorkcity and 3 more. Often billed alongside Highkin', Arthur Onni and Miro ( Stereokitchen ). Next up: TBA, Losangeles on Sun 25 Oct.
+Krane is a house and electronica artist based in Russia, tracked on soundcheck, with 142 sets logged across Austin, Los Angeles, Miami and New York City and 3 more. Often billed alongside Highkin', Arthur Onni and Miro ( Stereokitchen ). Next up: TBA, Los Angeles on Sun 25 Oct.
 
 ## Upcoming shows
 

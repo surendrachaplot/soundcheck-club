@@ -1,6 +1,6 @@
 # ZHU (Night 1) at The Concourse Project
 
-ZHU (Night 1) at The Concourse Project on Fri 23 Oct, Austin. 1 act on the bill: ZHU. Preview the line-up and save it on soundcheck.
+ZHU (Night 1) at The Concourse Project on Fri 23 Oct, Austin. 1 artist on the bill: ZHU. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

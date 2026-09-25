@@ -1,6 +1,6 @@
 # Complice x Loophole — INTERSTICE (Berlin) at ÆDEN
 
-Complice x Loophole — INTERSTICE (Berlin) at ÆDEN on Thu 1 Oct, Berlin. 9 acts on the bill: D.E.S Fr, EMIRA, Ian Maur and Iman Janes and 5 more. Preview the line-up and save it on soundcheck.
+Complice x Loophole — INTERSTICE (Berlin) at ÆDEN on Thu 1 Oct, Berlin. 9 artists on the bill: D.E.S Fr, EMIRA, Ian Maur and Iman Janes and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

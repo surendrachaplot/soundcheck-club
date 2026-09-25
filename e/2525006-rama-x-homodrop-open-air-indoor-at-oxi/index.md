@@ -1,6 +1,6 @@
 # RAMA X HOMODROP (OPEN AIR + INDOOR) at OXI
 
-RAMA X HOMODROP (OPEN AIR + INDOOR) at OXI on Sun 27 Sept, Berlin. 8 acts on the bill: Cheriii, clay (DE), Gio Goltara and Hunkut and 4 more. House and Garage. Preview the line-up and save it on soundcheck.
+RAMA X HOMODROP (OPEN AIR + INDOOR) at OXI on Sun 27 Sept, Berlin. 8 artists on the bill: Cheriii, clay (DE), Gio Goltara and Hunkut and 4 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

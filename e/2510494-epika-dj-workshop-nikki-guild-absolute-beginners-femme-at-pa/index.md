@@ -1,6 +1,6 @@
 # EPiKA DJ Workshop - Nikki Guild - Absolute Beginners (Femme) at Paradise Palms
 
-EPiKA DJ Workshop - Nikki Guild - Absolute Beginners (Femme) at Paradise Palms on Tue 29 Sept, Edinburgh. 1 act on the bill: Nikki Guild. Techno and Electro. Preview the line-up and save it on soundcheck.
+EPiKA DJ Workshop - Nikki Guild - Absolute Beginners (Femme) at Paradise Palms on Tue 29 Sept, Edinburgh. 1 artist on the bill: Nikki Guild. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

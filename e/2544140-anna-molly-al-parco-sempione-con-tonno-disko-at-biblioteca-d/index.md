@@ -1,6 +1,6 @@
 # Anna Molly al Parco Sempione con Tonno Disko at Biblioteca di Parco Sempione
 
-Anna Molly al Parco Sempione con Tonno Disko at Biblioteca di Parco Sempione on Sun 4 Oct, Milan. 3 acts on the bill: FIMIANI, o! michello! and Tonno Disko. House and Disco. Preview the line-up and save it on soundcheck.
+Anna Molly al Parco Sempione con Tonno Disko at Biblioteca di Parco Sempione on Sun 4 Oct, Milan. 3 artists on the bill: FIMIANI, o! michello! and Tonno Disko. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

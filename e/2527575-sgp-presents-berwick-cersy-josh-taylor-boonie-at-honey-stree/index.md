@@ -1,6 +1,6 @@
 # SGP Presents: Berwick, Cersy, Josh Taylor, Boonie at Honey Street Studio
 
-SGP Presents: Berwick, Cersy, Josh Taylor, Boonie at Honey Street Studio on Sat 3 Oct, Manchester. 2 acts on the bill: Berwick and Cersy. Electro and Electronica. Preview the line-up and save it on soundcheck.
+SGP Presents: Berwick, Cersy, Josh Taylor, Boonie at Honey Street Studio on Sat 3 Oct, Manchester. 2 artists on the bill: Berwick and Cersy. Electro and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

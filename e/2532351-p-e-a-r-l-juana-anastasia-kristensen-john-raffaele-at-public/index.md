@@ -1,6 +1,6 @@
 # P.E.A.R.L., Juana / Anastasia Kristensen, John Raffaele at public records
 
-P.E.A.R.L., Juana / Anastasia Kristensen, John Raffaele at public records on Fri 23 Oct, Newyorkcity. 4 acts on the bill: Anastasia Kristensen, John Raffaele, Juana and P.E.A.R.L.. Techno. Preview the line-up and save it on soundcheck.
+P.E.A.R.L., Juana / Anastasia Kristensen, John Raffaele at public records on Fri 23 Oct, New York City. 4 artists on the bill: Anastasia Kristensen, John Raffaele, Juana and P.E.A.R.L.. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BANGIN HOUSE: Dean Turnley & SLIMEY B2B Botez (HOUSE MUSIC ALL NIGHT) at Big Pink
 
-BANGIN HOUSE: Dean Turnley & SLIMEY B2B Botez (HOUSE MUSIC ALL NIGHT) at Big Pink on Fri 9 Oct, Detroit. 2 acts on the bill: Botez and Dean Turnley. Techno and House. Preview the line-up and save it on soundcheck.
+BANGIN HOUSE: Dean Turnley & SLIMEY B2B Botez (HOUSE MUSIC ALL NIGHT) at Big Pink on Fri 9 Oct, Detroit. 2 artists on the bill: Botez and Dean Turnley. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Chus & Ceballos w. Mina at BERHTA
 
-Chus & Ceballos w. Mina at BERHTA on Sat 28 Nov, Washingtondc. 2 acts on the bill: Chus & Ceballos and Mina (US). Techno and Tech House. Preview the line-up and save it on soundcheck.
+Chus & Ceballos w. Mina at BERHTA on Sat 28 Nov, Washington DC. 2 artists on the bill: Chus & Ceballos and Mina (US). Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

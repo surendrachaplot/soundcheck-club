@@ -1,6 +1,6 @@
 # Daniel Cuda + Coupla Selectaz at Glamorama Saturdays at Glamorama
 
-Daniel Cuda + Coupla Selectaz at Glamorama Saturdays on Sat 26 Sept, Melbourne. 1 act on the bill: Joey Coco. House and Electronica. Preview the line-up and save it on soundcheck.
+Daniel Cuda + Coupla Selectaz at Glamorama Saturdays on Sat 26 Sept, Melbourne. 1 artist on the bill: Joey Coco. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

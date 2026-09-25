@@ -1,6 +1,6 @@
 # Illusions - 5 Years Beyond Reality at Hangar Luke Beograd
 
-Illusions - 5 Years Beyond Reality at Hangar Luke Beograd on Fri 16 Oct, Belgrade. 6 acts on the bill: Adam Beyer, ARODES, Mahmut Orhan and Pan-Pot and 2 more. Preview the line-up and save it on soundcheck.
+Illusions - 5 Years Beyond Reality at Hangar Luke Beograd on Fri 16 Oct, Belgrade. 6 artists on the bill: Adam Beyer, ARODES, Mahmut Orhan and Pan-Pot and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

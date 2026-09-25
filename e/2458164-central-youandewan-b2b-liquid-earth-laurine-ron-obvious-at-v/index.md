@@ -1,6 +1,6 @@
 # Central - Youandewan b2b Liquid Earth, Laurine, Ron Obvious at Village Underground
 
-Central - Youandewan b2b Liquid Earth, Laurine, Ron Obvious at Village Underground on Fri 25 Sept, London. 6 acts on the bill: Adam Chapman, Checketts, Laurine and Liquid Earth and 2 more. House. Preview the line-up and save it on soundcheck.
+Central - Youandewan b2b Liquid Earth, Laurine, Ron Obvious at Village Underground on Fri 25 Sept, London. 6 artists on the bill: Adam Chapman, Checketts, Laurine and Liquid Earth and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

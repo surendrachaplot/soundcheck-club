@@ -1,6 +1,6 @@
 # JOVYNN for OVER PARTY at Audiodrome
 
-JOVYNN for OVER PARTY at Audiodrome on Sat 24 Oct, Turin. 2 acts on the bill: Gandalf and sizing. Techno. Preview the line-up and save it on soundcheck.
+JOVYNN for OVER PARTY at Audiodrome on Sat 24 Oct, Turin. 2 artists on the bill: Gandalf and sizing. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

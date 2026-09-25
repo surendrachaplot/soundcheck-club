@@ -2,7 +2,7 @@
 
 YOOKiE is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sainte-Catherine Hall, Montreal on Fri, 30 Oct 2026.
 
-YOOKiE is a dubstep and bass artist based in United States of America, tracked on soundcheck, with 9 sets logged across Austin, Boston, Chicago and Losangeles and 4 more. Often billed alongside Zeds Dead, Benny Benassi and Bonnie. Next up: Sainte-Catherine Hall, Montreal on Fri 30 Oct.
+YOOKiE is a dubstep and bass artist based in United States of America, tracked on soundcheck, with 9 sets logged across Austin, Boston, Chicago and Los Angeles and 4 more. Often billed alongside Zeds Dead, Benny Benassi and Bonnie. Next up: Sainte-Catherine Hall, Montreal on Fri 30 Oct.
 
 ## Upcoming shows
 

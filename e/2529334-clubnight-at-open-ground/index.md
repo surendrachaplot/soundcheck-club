@@ -1,6 +1,6 @@
 # Clubnight at Open Ground
 
-Clubnight at Open Ground on Sat 28 Nov, Wuppertal. 1 act on the bill: Ghost Dubs. Preview the line-up and save it on soundcheck.
+Clubnight at Open Ground on Sat 28 Nov, Wuppertal. 1 artist on the bill: Ghost Dubs. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HOPE pres: Beach Party with Sven Väth at Hola Club Sitges (Cala Vallcarca)
 
-HOPE pres: Beach Party with Sven Väth at Hola Club Sitges (Cala Vallcarca) on Sun 27 Sept, Barcelona. 1 act on the bill: Sven Vath. Techno. Preview the line-up and save it on soundcheck.
+HOPE pres: Beach Party with Sven Väth at Hola Club Sitges (Cala Vallcarca) on Sun 27 Sept, Barcelona. 1 artist on the bill: Sven Vath. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

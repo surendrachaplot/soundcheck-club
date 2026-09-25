@@ -1,6 +1,6 @@
 # Devil's Disco Halloween in an old Distillery at TBA - Old Distillery
 
-Devil's Disco Halloween in an old Distillery at TBA - Old Distillery on Sat 31 Oct, Berlin. 4 acts on the bill: ALIVEMAEX, Damiano (DE), Jannick Ferrari and Lennart (NL). House and Italo Disco. Preview the line-up and save it on soundcheck.
+Devil's Disco Halloween in an old Distillery at TBA - Old Distillery on Sat 31 Oct, Berlin. 4 artists on the bill: ALIVEMAEX, Damiano (DE), Jannick Ferrari and Lennart (NL). House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

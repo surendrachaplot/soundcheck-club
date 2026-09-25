@@ -2,7 +2,7 @@
 
 Bar Franca is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Dance Spirit pres. 'LUNATIC' Album Launch" on Fri, 25 Sept 2026.
 
-Bar Franca is a music venue in Losangeles listed on soundcheck. 1 upcoming gig, with line-ups including Dance Spirit, Jackson Englund and Robotek Reagan. Browse upcoming dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
+Bar Franca is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Dance Spirit, Jackson Englund and Robotek Reagan. Browse upcoming dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
 
 ## What's on
 

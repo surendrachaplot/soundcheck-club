@@ -1,6 +1,6 @@
 # KZA & YO.AN at DJ Bar Bridge
 
-KZA & YO.AN at DJ Bar Bridge on Sat 26 Sept, Tokyo. 2 acts on the bill: KZA and YO.AN. House. Preview the line-up and save it on soundcheck.
+KZA & YO.AN at DJ Bar Bridge on Sat 26 Sept, Tokyo. 2 artists on the bill: KZA and YO.AN. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

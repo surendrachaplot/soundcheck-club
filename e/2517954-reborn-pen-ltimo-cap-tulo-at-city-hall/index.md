@@ -1,6 +1,6 @@
 # REBORN - PENÚLTIMO CAPÍTULO at City Hall
 
-REBORN - PENÚLTIMO CAPÍTULO at City Hall on Thu 1 Oct, Barcelona. 1 act on the bill: Revenja. Hardcore. Preview the line-up and save it on soundcheck.
+REBORN - PENÚLTIMO CAPÍTULO at City Hall on Thu 1 Oct, Barcelona. 1 artist on the bill: Revenja. Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

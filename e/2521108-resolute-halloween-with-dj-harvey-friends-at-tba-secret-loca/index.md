@@ -1,6 +1,6 @@
 # ReSolute Halloween with DJ Harvey & Friends at TBA - Secret Location
 
-ReSolute Halloween with DJ Harvey & Friends at TBA - Secret Location on Fri 30 Oct, Newyorkcity. 1 act on the bill: DJ Harvey. Techno and House. Preview the line-up and save it on soundcheck.
+ReSolute Halloween with DJ Harvey & Friends at TBA - Secret Location on Fri 30 Oct, New York City. 1 artist on the bill: DJ Harvey. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

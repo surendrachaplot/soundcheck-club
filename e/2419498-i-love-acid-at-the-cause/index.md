@@ -1,6 +1,6 @@
 # I Love Acid at The Cause
 
-I Love Acid at The Cause on Fri 6 Nov, London. 4 acts on the bill: DJ Pierre, Jon Dasilva, Lauren Flax and Posthuman. Acid. Preview the line-up and save it on soundcheck.
+I Love Acid at The Cause on Fri 6 Nov, London. 4 artists on the bill: DJ Pierre, Jon Dasilva, Lauren Flax and Posthuman. Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

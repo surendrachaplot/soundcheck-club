@@ -1,6 +1,6 @@
 # DJ Vice Experience presents...Electrorama #49 at Radio Campus Paris
 
-DJ Vice Experience presents...Electrorama #49 at Radio Campus Paris on Thu 1 Oct, Paris. 1 act on the bill: Vice Experience. Techno and House. Preview the line-up and save it on soundcheck.
+DJ Vice Experience presents...Electrorama #49 at Radio Campus Paris on Thu 1 Oct, Paris. 1 artist on the bill: Vice Experience. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

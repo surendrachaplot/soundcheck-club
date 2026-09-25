@@ -1,6 +1,6 @@
 # Andrea Turk at The Redwood Bar And Grill
 
-Andrea Turk at The Redwood Bar And Grill on Sun 11 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+Andrea Turk at The Redwood Bar And Grill on Sun 11 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

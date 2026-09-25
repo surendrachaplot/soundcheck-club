@@ -1,6 +1,6 @@
 # Crazy Taxi 2 with John Known & Phil Abaddon at Locke
 
-Crazy Taxi 2 with John Known & Phil Abaddon at Locke on Sun 27 Sept, Hamburg. 1 act on the bill: Phil Abaddon. Preview the line-up and save it on soundcheck.
+Crazy Taxi 2 with John Known & Phil Abaddon at Locke on Sun 27 Sept, Hamburg. 1 artist on the bill: Phil Abaddon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

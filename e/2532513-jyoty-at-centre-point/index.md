@@ -1,6 +1,6 @@
 # Jyoty at Centre Point
 
-Jyoty at Centre Point on Fri 9 Oct, Dublin. 2 acts on the bill: JWY (1) and Jyoty. Preview the line-up and save it on soundcheck.
+Jyoty at Centre Point on Fri 9 Oct, Dublin. 2 artists on the bill: JWY and Jyoty. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

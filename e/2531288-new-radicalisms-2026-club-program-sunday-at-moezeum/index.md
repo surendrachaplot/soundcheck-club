@@ -1,6 +1,6 @@
 # New Radicalisms 2026 - Club program Sunday at Moezeum
 
-New Radicalisms 2026 - Club program Sunday at Moezeum on Sun 27 Sept, Rotterdam. 2 acts on the bill: Cheb Runner and Talk. Preview the line-up and save it on soundcheck.
+New Radicalisms 2026 - Club program Sunday at Moezeum on Sun 27 Sept, Rotterdam. 2 artists on the bill: Cheb Runner and Talk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

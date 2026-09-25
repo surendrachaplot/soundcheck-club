@@ -1,6 +1,6 @@
 # PBR Streetgang at Mssng Pieces
 
-PBR Streetgang at Mssng Pieces on Sat 3 Oct, London. 3 acts on the bill: Antonio Vendone, PBR Streetgang and Sam Ryan. House and Disco. Preview the line-up and save it on soundcheck.
+PBR Streetgang at Mssng Pieces on Sat 3 Oct, London. 3 artists on the bill: Antonio Vendone, PBR Streetgang and Sam Ryan. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

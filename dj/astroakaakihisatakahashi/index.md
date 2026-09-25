@@ -2,7 +2,7 @@
 
 Astro aka Akihisa Takahashi is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mogra, Tokyo on Sun, 11 Oct 2026.
 
-Astro aka Akihisa Takahashi is a techno and psytrance artist based in Japan, tracked on soundcheck, with 10 sets logged across Osaka and Tokyo. Often billed alongside O-MAN, NOBUYA (2) and Christian Smith. Next up: Mogra, Tokyo on Sun 11 Oct.
+Astro aka Akihisa Takahashi is a techno and psytrance artist based in Japan, tracked on soundcheck, with 10 sets logged across Osaka and Tokyo. Often billed alongside O-MAN, NOBUYA and Christian Smith. Next up: Mogra, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 

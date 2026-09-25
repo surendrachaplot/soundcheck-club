@@ -2,7 +2,7 @@
 
 Keenan Orr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Fri, 23 Oct 2026.
 
-Keenan Orr is a house and techno artist based in United States of America, tracked on soundcheck, with 63 sets logged across Boston, Denver, Newyorkcity and Philadelphia and 4 more. Often billed alongside Keenan, KayLaSoul and MAXIMILIANO (US). Next up: Flash, Washingtondc on Fri 23 Oct.
+Keenan Orr is a house and techno artist based in United States of America, tracked on soundcheck, with 63 sets logged across Boston, Denver, New York City and Philadelphia and 4 more. Often billed alongside Keenan, KayLaSoul and MAXIMILIANO (US). Next up: Flash, Washington DC on Fri 23 Oct.
 
 ## Upcoming shows
 

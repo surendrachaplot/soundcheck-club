@@ -1,6 +1,6 @@
 # Broken Fix x Dance Regular: Matica, EVM128, ReQuinha at TBA
 
-Broken Fix x Dance Regular: Matica, EVM128, ReQuinha at TBA on Fri 16 Oct, Glasgow. 2 acts on the bill: EVM128 and Matica. House and Broken Beat. Preview the line-up and save it on soundcheck.
+Broken Fix x Dance Regular: Matica, EVM128, ReQuinha at TBA on Fri 16 Oct, Glasgow. 2 artists on the bill: EVM128 and Matica. House and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

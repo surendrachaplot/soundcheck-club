@@ -1,6 +1,6 @@
 # Longevity Rave at Araña Club
 
-Longevity Rave at Araña Club on Thu 1 Oct, Madrid. 2 acts on the bill: Tina Technotic and Yukari. Techno and House. Preview the line-up and save it on soundcheck.
+Longevity Rave at Araña Club on Thu 1 Oct, Madrid. 2 artists on the bill: Tina Technotic and Yukari. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

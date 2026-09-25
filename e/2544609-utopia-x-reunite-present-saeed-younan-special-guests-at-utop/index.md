@@ -1,6 +1,6 @@
 # Utopia x REUNITE present: Saeed Younan + SPECIAL GUESTS at Utopia
 
-Utopia x REUNITE present: Saeed Younan + SPECIAL GUESTS on Sat 26 Sept, Losangeles. 4 acts on the bill: Ray Kash, RCKSLVR, Saeed Younan and Tempo. House and Tech House. Preview the line-up and save it on soundcheck.
+Utopia x REUNITE present: Saeed Younan + SPECIAL GUESTS on Sat 26 Sept, Los Angeles. 4 artists on the bill: Ray Kash, RCKSLVR, Saeed Younan and Tempo. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

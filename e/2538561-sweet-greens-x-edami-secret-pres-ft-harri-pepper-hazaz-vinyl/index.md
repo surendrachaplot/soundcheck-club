@@ -1,6 +1,6 @@
 # Sweet Greens X Edami Secret Pres ft. Harri Pepper & Hazaz - Vinyl Only Gaza Fundraiser at Edami
 
-Sweet Greens X Edami Secret Pres ft. Harri Pepper & Hazaz - Vinyl Only Gaza Fundraiser on Fri 25 Sept, London. 1 act on the bill: Harri Pepper. Preview the line-up and save it on soundcheck.
+Sweet Greens X Edami Secret Pres ft. Harri Pepper & Hazaz - Vinyl Only Gaza Fundraiser on Fri 25 Sept, London. 1 artist on the bill: Harri Pepper. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

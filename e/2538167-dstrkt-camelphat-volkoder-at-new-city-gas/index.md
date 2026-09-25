@@ -1,6 +1,6 @@
 # [DSTRKT] CamelPhat, VOLKODER at New City Gas
 
-[DSTRKT] CamelPhat, VOLKODER at New City Gas on Sat 7 Nov, Montreal. 1 act on the bill: CamelPhat. Preview the line-up and save it on soundcheck.
+[DSTRKT] CamelPhat, VOLKODER at New City Gas on Sat 7 Nov, Montreal. 1 artist on the bill: CamelPhat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

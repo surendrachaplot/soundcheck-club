@@ -1,6 +1,6 @@
 # NACHTVORM at TBA - Rotterdam Noord
 
-NACHTVORM at TBA - Rotterdam Noord on Sat 21 Nov, Utrecht. 2 acts on the bill: Kade Noir and VAREX. Techno. Preview the line-up and save it on soundcheck.
+NACHTVORM at TBA - Rotterdam Noord on Sat 21 Nov, Utrecht. 2 artists on the bill: Kade Noir and VAREX. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

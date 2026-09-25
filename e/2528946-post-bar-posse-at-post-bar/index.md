@@ -1,6 +1,6 @@
 # Post Bar Posse at Post Bar
 
-Post Bar Posse on Sat 26 Dec, Helsinki. 3 acts on the bill: Denzel, Joni DJ and Justus Valtanen. Preview the line-up and save it on soundcheck.
+Post Bar Posse on Sat 26 Dec, Helsinki. 3 artists on the bill: Denzel, Joni DJ and Justus Valtanen. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

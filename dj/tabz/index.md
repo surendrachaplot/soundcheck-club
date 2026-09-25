@@ -2,7 +2,7 @@
 
 TABZ is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Movers, Nottingham on Thu, 24 Sept 2026.
 
-TABZ is a garage and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London and Nottingham. Often billed alongside Milzy, T Simm and Cottam (2). Next up: Movers, Nottingham on Thu 24 Sept.
+TABZ is a garage and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London and Nottingham. Often billed alongside Milzy, T Simm and Cottam. Next up: Movers, Nottingham on Thu 24 Sept.
 
 ## Upcoming shows
 

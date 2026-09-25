@@ -1,6 +1,6 @@
 # Rumspringa '26 at TBA
 
-Rumspringa '26 at TBA on Thu 15 Oct, Mexicocity. 1 act on the bill: Mensik. Experimental and Italo Disco. Preview the line-up and save it on soundcheck.
+Rumspringa '26 at TBA on Thu 15 Oct, Mexico City. 1 artist on the bill: Mensik. Experimental and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

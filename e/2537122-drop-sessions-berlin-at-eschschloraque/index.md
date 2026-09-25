@@ -1,6 +1,6 @@
 # Drop Sessions Berlin at Eschschloraque
 
-Drop Sessions Berlin at Eschschloraque on Fri 25 Sept, Berlin. 3 acts on the bill: Blame (EC), Daniel Jaramillo and DAZA. Deep House and Electronica. Preview the line-up and save it on soundcheck.
+Drop Sessions Berlin at Eschschloraque on Fri 25 Sept, Berlin. 3 artists on the bill: Blame (EC), Daniel Jaramillo and DAZA. Deep House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

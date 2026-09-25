@@ -1,6 +1,6 @@
 # Magic City - 10th Birthday with DJ EZ at Sub Club
 
-Magic City - 10th Birthday with DJ EZ at Sub Club on Fri 16 Oct, Glasgow. 2 acts on the bill: DJ EZ and Jenn Gunn (2). Bass and Garage. Preview the line-up and save it on soundcheck.
+Magic City - 10th Birthday with DJ EZ at Sub Club on Fri 16 Oct, Glasgow. 2 artists on the bill: DJ EZ and Jenn Gunn. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

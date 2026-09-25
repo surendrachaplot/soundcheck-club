@@ -1,6 +1,6 @@
 # TECHNO ALLIANCE: Sarah Sommers ☆ Lindsey Herbert ☆ Nastya Muravyova ☆ Sofi Lucius at Fuchs2
 
-TECHNO ALLIANCE: Sarah Sommers ☆ Lindsey Herbert ☆ Nastya Muravyova ☆ Sofi Lucius at Fuchs2 on Fri 2 Oct, Prague. 6 acts on the bill: DJ BONEY S, Lindsey Herbert, Nastya Muravyova and Sarah Sommers and 2 more. Techno. Preview the line-up and save it on soundcheck.
+TECHNO ALLIANCE: Sarah Sommers ☆ Lindsey Herbert ☆ Nastya Muravyova ☆ Sofi Lucius at Fuchs2 on Fri 2 Oct, Prague. 6 artists on the bill: DJ BONEY S, Lindsey Herbert, Nastya Muravyova and Sarah Sommers and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

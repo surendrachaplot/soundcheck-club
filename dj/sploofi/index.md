@@ -2,7 +2,7 @@
 
 Sploofi is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at RADION, Amsterdam on Sat, 3 Oct 2026.
 
-Sploofi is a techno and experimental artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Montreal and Newyorkcity and 1 more. Often billed alongside Nicolò Bernardi, Ron Like Hell and Denise Rabe. Next up: RADION, Amsterdam on Sat 3 Oct.
+Sploofi is a techno and experimental artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Montreal and New York City and 1 more. Often billed alongside Nicolò Bernardi, Ron Like Hell and Denise Rabe. Next up: RADION, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Tell All Your Friends at Somewhere Special
 
-Tell All Your Friends at Somewhere Special on Thu 15 Oct, Losangeles. 1 act on the bill: SULKFORM. Hardcore and Pop. Preview the line-up and save it on soundcheck.
+Tell All Your Friends at Somewhere Special on Thu 15 Oct, Los Angeles. 1 artist on the bill: SULKFORM. Hardcore and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

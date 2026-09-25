@@ -1,6 +1,6 @@
 # Studio Cub Invites: The Martinez Brothers at Studio Club Malaga
 
-Studio Cub Invites: The Martinez Brothers at Studio Club Malaga on Sun 18 Oct, Malaga. 1 act on the bill: The Martinez Brothers. Preview the line-up and save it on soundcheck.
+Studio Cub Invites: The Martinez Brothers at Studio Club Malaga on Sun 18 Oct, Malaga. 1 artist on the bill: The Martinez Brothers. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

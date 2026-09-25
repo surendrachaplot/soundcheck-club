@@ -2,7 +2,7 @@
 
 Christina Evangelista is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Culture Box, Copenhagen on Sat, 3 Oct 2026.
 
-Christina Evangelista is a house and techno artist based in Denmark, tracked on soundcheck, with 14 sets logged across Copenhagen. Often billed alongside Ana Karla, Ida Daugaard and Adelina (2). Next up: Culture Box, Copenhagen on Sat 3 Oct.
+Christina Evangelista is a house and techno artist based in Denmark, tracked on soundcheck, with 14 sets logged across Copenhagen. Often billed alongside Ana Karla, Ida Daugaard and Adelina. Next up: Culture Box, Copenhagen on Sat 3 Oct.
 
 ## Upcoming shows
 

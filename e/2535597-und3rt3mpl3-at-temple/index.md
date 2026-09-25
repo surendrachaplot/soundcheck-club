@@ -1,6 +1,6 @@
 # UND3RT3MPL3 at TEMPLE
 
-UND3RT3MPL3 at TEMPLE on Sat 26 Sept, Lisbon. 2 acts on the bill: Oscar Rosmano and Zehv. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
+UND3RT3MPL3 at TEMPLE on Sat 26 Sept, Lisbon. 2 artists on the bill: Oscar Rosmano and Zehv. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

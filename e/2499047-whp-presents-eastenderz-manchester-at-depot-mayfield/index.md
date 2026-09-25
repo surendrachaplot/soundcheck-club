@@ -1,6 +1,6 @@
 # WHP presents: Eastenderz, Manchester at Depot Mayfield
 
-WHP presents: Eastenderz, Manchester at Depot Mayfield on Fri 20 Nov, Manchester. 16 acts on the bill: Archie Hamilton, Ben Murphy, Cloonee and Cristina Lazic and 12 more. House and Minimal. Preview the line-up and save it on soundcheck.
+WHP presents: Eastenderz, Manchester at Depot Mayfield on Fri 20 Nov, Manchester. 16 artists on the bill: Archie Hamilton, Ben Murphy, Cloonee and Cristina Lazic and 12 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

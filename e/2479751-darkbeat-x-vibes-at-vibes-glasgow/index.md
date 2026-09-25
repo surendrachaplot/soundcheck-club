@@ -1,6 +1,6 @@
 # Darkbeat x Vibes at Vibes Glasgow
 
-Darkbeat x Vibes at Vibes Glasgow on Fri 2 Oct, Glasgow. 1 act on the bill: Sinner. Techno. Preview the line-up and save it on soundcheck.
+Darkbeat x Vibes at Vibes Glasgow on Fri 2 Oct, Glasgow. 1 artist on the bill: Sinner. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

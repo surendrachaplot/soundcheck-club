@@ -1,6 +1,6 @@
 # Certified Groovers: SHROOMIE [Open to Close] at TBA - Downtown Los Angeles
 
-Certified Groovers: SHROOMIE [Open to Close] at TBA - Downtown Los Angeles on Sat 17 Oct, Losangeles. 1 act on the bill: DJ Shroomie. House. Preview the line-up and save it on soundcheck.
+Certified Groovers: SHROOMIE [Open to Close] at TBA - Downtown Los Angeles on Sat 17 Oct, Los Angeles. 1 artist on the bill: DJ Shroomie. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

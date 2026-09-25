@@ -1,6 +1,6 @@
 # AM x ARRVL present: Two Years of AM at Bricks
 
-AM x ARRVL present: Two Years of AM at Bricks on Sat 28 Nov, London. 5 acts on the bill: Adela, AVANTIME, Innerstice and Ritchie Haydn and 1 more. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+AM x ARRVL present: Two Years of AM at Bricks on Sat 28 Nov, London. 5 artists on the bill: Adela, AVANTIME, Innerstice and Ritchie Haydn and 1 more. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

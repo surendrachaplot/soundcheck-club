@@ -1,6 +1,6 @@
 # Home Again Istanbul at Salon Iksv
 
-Home Again Istanbul at Salon Iksv on Sat 17 Oct, Istanbul. 4 acts on the bill: Alex Kassian, Butterhands, Mathew Jonson and Thabo. Preview the line-up and save it on soundcheck.
+Home Again Istanbul at Salon Iksv on Sat 17 Oct, Istanbul. 4 artists on the bill: Alex Kassian, Butterhands, Mathew Jonson and Thabo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

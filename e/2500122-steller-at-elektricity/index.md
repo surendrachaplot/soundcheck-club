@@ -1,6 +1,6 @@
 # Steller at Elektricity
 
-Steller at Elektricity on Sat 14 Nov, Detroit. 1 act on the bill: Steller. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Steller at Elektricity on Sat 14 Nov, Detroit. 1 artist on the bill: Steller. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

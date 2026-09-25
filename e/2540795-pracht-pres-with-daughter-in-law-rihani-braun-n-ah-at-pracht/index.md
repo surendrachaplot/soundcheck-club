@@ -1,6 +1,6 @@
 # Pracht PRES. with Daughter In Law, RIHANI & BRAUN, NØAH at Pracht
 
-Pracht PRES. with Daughter In Law, RIHANI & BRAUN, NØAH on Fri 16 Oct, Frankfurt. 1 act on the bill: Daughter In Law. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Pracht PRES. with Daughter In Law, RIHANI & BRAUN, NØAH on Fri 16 Oct, Frankfurt. 1 artist on the bill: Daughter In Law. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

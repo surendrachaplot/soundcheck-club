@@ -1,6 +1,6 @@
 # Audio Obscura ADE x The Moment by WhoMadeWho at RAWFACTORY
 
-Audio Obscura ADE x The Moment by WhoMadeWho at RAWFACTORY on Sat 24 Oct, Amsterdam. 12 acts on the bill: Benja, D Stone, Daisy Weweh and DJ Gigola and 8 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Audio Obscura ADE x The Moment by WhoMadeWho at RAWFACTORY on Sat 24 Oct, Amsterdam. 12 artists on the bill: Benja, D Stone, Daisy Weweh and DJ Gigola and 8 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

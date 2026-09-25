@@ -1,6 +1,6 @@
 # Ti Voglio Ballare X Aura Lake Como at TBA - Aura Lake Como
 
-Ti Voglio Ballare X Aura Lake Como at TBA - Aura Lake Como on Sat 26 Sept, Milan. 2 acts on the bill: Astroloop and Roman Flügel. House and Electro. Preview the line-up and save it on soundcheck.
+Ti Voglio Ballare X Aura Lake Como at TBA - Aura Lake Como on Sat 26 Sept, Milan. 2 artists on the bill: Astroloop and Roman Flügel. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

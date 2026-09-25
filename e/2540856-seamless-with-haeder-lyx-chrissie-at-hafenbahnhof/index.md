@@ -1,6 +1,6 @@
 # Seamless with Haeder, Ælyx, Chrissie at Hafenbahnhof
 
-Seamless with Haeder, Ælyx, Chrissie at Hafenbahnhof on Sun 27 Sept, Hamburg. 1 act on the bill: Haeder. Techno. Preview the line-up and save it on soundcheck.
+Seamless with Haeder, Ælyx, Chrissie at Hafenbahnhof on Sun 27 Sept, Hamburg. 1 artist on the bill: Haeder. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

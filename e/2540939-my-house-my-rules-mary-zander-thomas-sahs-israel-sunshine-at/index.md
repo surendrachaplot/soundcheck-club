@@ -1,6 +1,6 @@
 # MY HOUSE MY RULES: Mary Zander / THOMAS SAHS / Israel Sunshine at Mad Radio Miami
 
-MY HOUSE MY RULES: Mary Zander / THOMAS SAHS / Israel Sunshine at Mad Radio Miami on Fri 25 Sept, Miami. 2 acts on the bill: Israel Sunshine and Mary Zander. House. Preview the line-up and save it on soundcheck.
+MY HOUSE MY RULES: Mary Zander / THOMAS SAHS / Israel Sunshine at Mad Radio Miami on Fri 25 Sept, Miami. 2 artists on the bill: Israel Sunshine and Mary Zander. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

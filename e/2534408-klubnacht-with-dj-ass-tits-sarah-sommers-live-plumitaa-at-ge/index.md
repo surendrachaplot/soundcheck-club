@@ -1,6 +1,6 @@
 # Klubnacht with DJ ASS TITS, Sarah Sommers -live-, Plumitaa at Gewölbe
 
-Klubnacht with DJ ASS TITS, Sarah Sommers -live-, Plumitaa at Gewölbe on Sat 26 Sept, Cologne. 3 acts on the bill: DJ ASS TITS, Plumitaa and Sarah Sommers. Techno and Acid. Preview the line-up and save it on soundcheck.
+Klubnacht with DJ ASS TITS, Sarah Sommers -live-, Plumitaa at Gewölbe on Sat 26 Sept, Cologne. 3 artists on the bill: DJ ASS TITS, Plumitaa and Sarah Sommers. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

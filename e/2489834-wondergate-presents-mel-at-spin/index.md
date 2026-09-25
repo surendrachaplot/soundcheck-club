@@ -1,6 +1,6 @@
 # WONDERGATE presents: Melé at Spin
 
-WONDERGATE presents: Melé at Spin on Sat 10 Oct, Sandiego. 2 acts on the bill: Cris Herrera and Melé. House. Preview the line-up and save it on soundcheck.
+WONDERGATE presents: Melé at Spin on Sat 10 Oct, San Diego. 2 artists on the bill: Cris Herrera and Melé. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

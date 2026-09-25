@@ -1,6 +1,6 @@
 # RETURN99 at Organ Bar
 
-RETURN99 at Organ Bar on Thu 24 Sept, Tokyo. 1 act on the bill: Moeko Nagamori. Drum & Bass and Hip-Hop. Preview the line-up and save it on soundcheck.
+RETURN99 at Organ Bar on Thu 24 Sept, Tokyo. 1 artist on the bill: Moeko Nagamori. Drum & Bass and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

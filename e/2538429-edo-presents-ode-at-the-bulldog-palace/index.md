@@ -1,6 +1,6 @@
 # Edo presents Ode at The Bulldog Palace
 
-Edo presents Ode at The Bulldog Palace on Sat 24 Oct, Amsterdam. 5 acts on the bill: 2HOT2PLAY, BOY&GIRL, Edo (NL) and L.zwo and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Edo presents Ode at The Bulldog Palace on Sat 24 Oct, Amsterdam. 5 artists on the bill: 2HOT2PLAY, BOY&GIRL, Edo (NL) and L.zwo and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

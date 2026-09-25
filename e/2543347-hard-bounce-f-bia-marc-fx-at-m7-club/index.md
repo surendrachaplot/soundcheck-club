@@ -1,6 +1,6 @@
 # HARD BOUNCE [FØBIA, Marc Fx] at M7 Club
 
-HARD BOUNCE [FØBIA, Marc Fx] at M7 Club on Fri 2 Oct, Barcelona. 1 act on the bill: FØBIA. Preview the line-up and save it on soundcheck.
+HARD BOUNCE [FØBIA, Marc Fx] at M7 Club on Fri 2 Oct, Barcelona. 1 artist on the bill: FØBIA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

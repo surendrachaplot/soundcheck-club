@@ -1,6 +1,6 @@
 # Doka Studio with Doppelgang - DIEDE at Doka
 
-Doka Studio with Doppelgang - DIEDE on Sat 17 Oct, Amsterdam. 2 acts on the bill: DIEDE and Doppelgang. House and Tech House. Preview the line-up and save it on soundcheck.
+Doka Studio with Doppelgang - DIEDE on Sat 17 Oct, Amsterdam. 2 artists on the bill: DIEDE and Doppelgang. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

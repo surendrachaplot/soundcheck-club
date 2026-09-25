@@ -1,6 +1,6 @@
 # VOLLKOMMEN - The Loft with Miura, Moody Mehran at Atelier Rooftop
 
-VOLLKOMMEN - The Loft with Miura, Moody Mehran at Atelier Rooftop on Fri 25 Sept, Berlin. 4 acts on the bill: Miura, Moody Mehran, Nik Andersson and Schiela. House and Tech House. Preview the line-up and save it on soundcheck.
+VOLLKOMMEN - The Loft with Miura, Moody Mehran at Atelier Rooftop on Fri 25 Sept, Berlin. 4 artists on the bill: Miura, Moody Mehran, Nik Andersson and Schiela. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

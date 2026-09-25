@@ -1,6 +1,6 @@
 # PsyLab Unity [Psytrance Rave] at M-BIA
 
-PsyLab Unity [Psytrance Rave] at M-BIA on Sat 3 Oct, Berlin. 1 act on the bill: Daora. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+PsyLab Unity [Psytrance Rave] at M-BIA on Sat 3 Oct, Berlin. 4 artists on the bill: Daora, fU.impact, LOVE and Sonse. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ PsyLab Unity [Psytrance Rave] at M-BIA on Sat 3 Oct, Berlin. 1 act on the bill: 
 ## Line-up
 
 - Daora
+- fU.impact
+- LOVE
+- Sonse
 
 *Source: [soundcheck](https://soundcheck.club/e/2476683-psylab-unity-psytrance-rave-at-m-bia/)*

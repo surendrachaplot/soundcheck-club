@@ -1,6 +1,6 @@
 # CHAT NOIR at TBA
 
-CHAT NOIR at TBA on Fri 30 Oct, Chicago. 6 acts on the bill: Clax10, DJ GayBash!, Glamour Cadaver and Jacob Meehan and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+CHAT NOIR at TBA on Fri 30 Oct, Chicago. 6 artists on the bill: Clax10, DJ GayBash!, Glamour Cadaver and Jacob Meehan and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

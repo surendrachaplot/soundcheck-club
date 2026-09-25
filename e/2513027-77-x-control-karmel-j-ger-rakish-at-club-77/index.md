@@ -1,6 +1,6 @@
 # 77 x Control: Karmel Jäger, Rakish at Club 77
 
-77 x Control: Karmel Jäger, Rakish at Club 77 on Sun 27 Sept, Sydney. 2 acts on the bill: Karmel Jäger and Rakish. Techno and House. Preview the line-up and save it on soundcheck.
+77 x Control: Karmel Jäger, Rakish at Club 77 on Sun 27 Sept, Sydney. 2 artists on the bill: Karmel Jäger and Rakish. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

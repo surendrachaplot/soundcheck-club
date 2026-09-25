@@ -1,6 +1,6 @@
 # HARMONY 2026 at GASHOUDER
 
-HARMONY 2026 at GASHOUDER on Tue 17 Nov, Amsterdam. 4 acts on the bill: Jon Hopkins, Niklas Paschburg, Roman Flügel and Sven Vath. Ambient and Classical. Preview the line-up and save it on soundcheck.
+HARMONY 2026 at GASHOUDER on Tue 17 Nov, Amsterdam. 4 artists on the bill: Jon Hopkins, Niklas Paschburg, Roman Flügel and Sven Vath. Ambient and Classical. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

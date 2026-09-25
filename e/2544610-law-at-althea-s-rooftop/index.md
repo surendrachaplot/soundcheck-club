@@ -1,6 +1,6 @@
 # LAW at Althea's Rooftop
 
-LAW at Althea's Rooftop on Fri 25 Sept, Newyorkcity. Afro House. Preview the line-up and save it on soundcheck.
+LAW at Althea's Rooftop on Fri 25 Sept, New York City. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

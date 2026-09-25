@@ -1,6 +1,6 @@
 # 69BPM - Groom at Groom
 
-69BPM - Groom on Fri 25 Sept, Lyon. 2 acts on the bill: Arbo and Richelieu. Techno and EBM. Preview the line-up and save it on soundcheck.
+69BPM - Groom on Fri 25 Sept, Lyon. 2 artists on the bill: Arbo and Richelieu. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

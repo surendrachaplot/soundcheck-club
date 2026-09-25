@@ -2,7 +2,7 @@
 
 LUKAS (4) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Avant Garten, Buenos Aires on Fri, 20 Nov 2026.
 
-LUKAS (4) is a house and electro artist based in Argentina, tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 3 more. Often billed alongside Manu Oubiña, Guile and Anabel. Next up: Avant Garten, Buenosaires on Fri 20 Nov.
+LUKAS is a house and electro artist based in Argentina, tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Brussels and Buenos Aires and 3 more. Often billed alongside Manu Oubiña, Guile and Anabel. Next up: Avant Garten, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 

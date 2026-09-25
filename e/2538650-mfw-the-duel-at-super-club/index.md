@@ -1,6 +1,6 @@
 # MFW - The Duel at Super Club
 
-MFW - The Duel at Super Club on Fri 25 Sept, Milan. 2 acts on the bill: BL3CKSMITH and Daniel L. House and Tech House. Preview the line-up and save it on soundcheck.
+MFW - The Duel at Super Club on Fri 25 Sept, Milan. 2 artists on the bill: BL3CKSMITH and Daniel L. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

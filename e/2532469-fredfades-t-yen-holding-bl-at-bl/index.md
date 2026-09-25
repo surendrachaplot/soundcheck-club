@@ -1,6 +1,6 @@
 # Fredfades (Tøyen Holding) / BLÅ at Blå
 
-Fredfades (Tøyen Holding) / BLÅ at Blå on Fri 25 Sept, Oslo. 1 act on the bill: Fredfades. Preview the line-up and save it on soundcheck.
+Fredfades (Tøyen Holding) / BLÅ at Blå on Fri 25 Sept, Oslo. 1 artist on the bill: Fredfades. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

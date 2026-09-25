@@ -1,6 +1,6 @@
 # Xame Records presenta: Consummatum Est (noche de bochka e industrial) at Brutal Mx
 
-Xame Records presenta: Consummatum Est (noche de bochka e industrial) at Brutal Mx on Sat 17 Oct, Mexicocity. Techno. Preview the line-up and save it on soundcheck.
+Xame Records presenta: Consummatum Est (noche de bochka e industrial) at Brutal Mx on Sat 17 Oct, Mexico City. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

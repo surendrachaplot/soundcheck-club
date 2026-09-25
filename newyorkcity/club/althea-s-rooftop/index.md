@@ -2,7 +2,7 @@
 
 Althea's Rooftop is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Lundi Bleu" on Thu, 24 Sept 2026.
 
-Althea's Rooftop is a music venue in Newyorkcity listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. 634 west 52 str New york.
+Althea's Rooftop is a music venue in New York City listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. 634 west 52 str New york.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Grey Lantern presents: DITZ / Bathing Suits at The White Hotel
 
-Grey Lantern presents: DITZ / Bathing Suits at The White Hotel on Thu 15 Oct, Manchester. 1 act on the bill: DITZ. Post-Punk. Preview the line-up and save it on soundcheck.
+Grey Lantern presents: DITZ / Bathing Suits at The White Hotel on Thu 15 Oct, Manchester. 1 artist on the bill: DITZ. Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

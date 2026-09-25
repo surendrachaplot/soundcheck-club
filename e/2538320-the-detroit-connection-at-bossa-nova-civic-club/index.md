@@ -1,6 +1,6 @@
 # The Detroit Connection at Bossa Nova Civic Club
 
-The Detroit Connection at Bossa Nova Civic Club on Tue 6 Oct, Newyorkcity. 3 acts on the bill: 4AM NYC, A lana and DykeChow. House. Preview the line-up and save it on soundcheck.
+The Detroit Connection at Bossa Nova Civic Club on Tue 6 Oct, New York City. 3 artists on the bill: 4AM NYC, A lana and DykeChow. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

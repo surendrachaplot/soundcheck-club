@@ -1,6 +1,6 @@
 # 'sutura' TECHNO ADDICT at Night Club Blvck Water with DJ Kaoll at Blvck Water
 
-'sutura' TECHNO ADDICT at Night Club Blvck Water with DJ Kaoll on Tue 29 Sept, Osaka. 3 acts on the bill: amor (JP), dyn (JP) and ZAGUN. Techno and Acid. Preview the line-up and save it on soundcheck.
+'sutura' TECHNO ADDICT at Night Club Blvck Water with DJ Kaoll on Tue 29 Sept, Osaka. 3 artists on the bill: amor (JP), dyn (JP) and ZAGUN. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

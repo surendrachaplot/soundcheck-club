@@ -1,6 +1,6 @@
 # Live at Lab: Friends with Benefits at Love Affair Basement
 
-Live at Lab: Friends with Benefits at Love Affair Basement on Wed 7 Oct, London. 1 act on the bill: Tiffany Black. Preview the line-up and save it on soundcheck.
+Live at Lab: Friends with Benefits at Love Affair Basement on Wed 7 Oct, London. 1 artist on the bill: Tiffany Black. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

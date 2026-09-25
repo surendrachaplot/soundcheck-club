@@ -1,6 +1,6 @@
 # A ranger Live + Guests at Arch 14
 
-A ranger Live + Guests at Arch 14 on Fri 2 Oct, London. 3 acts on the bill: A ranger, Joe Tyler and JOSH FB. House and Disco. Preview the line-up and save it on soundcheck.
+A ranger Live + Guests at Arch 14 on Fri 2 Oct, London. 3 artists on the bill: A ranger, Joe Tyler and JOSH FB. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

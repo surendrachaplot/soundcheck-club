@@ -1,6 +1,6 @@
 # M7 presenta: ArceX, Mëss & Marc Fx at M7 Club
 
-M7 presenta: ArceX, Mëss & Marc Fx at M7 Club on Sat 26 Sept, Barcelona. 1 act on the bill: ArceX. Preview the line-up and save it on soundcheck.
+M7 presenta: ArceX, Mëss & Marc Fx at M7 Club on Sat 26 Sept, Barcelona. 1 artist on the bill: ArceX. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

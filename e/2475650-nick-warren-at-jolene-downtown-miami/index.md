@@ -1,6 +1,6 @@
 # Nick Warren at Jolene Downtown Miami
 
-Nick Warren at Jolene Downtown Miami on Sat 26 Sept, Miami. 3 acts on the bill: DIFFER, Nick Warren and SIEGEL (2). Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Nick Warren at Jolene Downtown Miami on Sat 26 Sept, Miami. 3 artists on the bill: DIFFER, Nick Warren and SIEGEL. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

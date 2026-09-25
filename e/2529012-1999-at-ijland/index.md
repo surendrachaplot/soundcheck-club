@@ -1,6 +1,6 @@
 # 1999 at Ijland
 
-1999 at Ijland on Sat 3 Oct, Amsterdam. 3 acts on the bill: Billy Mason, Brian S. and Erick E. House. Preview the line-up and save it on soundcheck.
+1999 at Ijland on Sat 3 Oct, Amsterdam. 3 artists on the bill: Billy Mason, Brian S. and Erick E. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

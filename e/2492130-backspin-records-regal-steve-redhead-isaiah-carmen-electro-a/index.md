@@ -1,6 +1,6 @@
 # Backspin Records: Regal, Steve RedHead, Isaiah & Carmen Electro at KALT
 
-Backspin Records: Regal, Steve RedHead, Isaiah & Carmen Electro at KALT on Sat 31 Oct, Strasbourg. 5 acts on the bill: Carmen Electro, Dima Roas, Isaiah (NL) and Regal and 1 more. Preview the line-up and save it on soundcheck.
+Backspin Records: Regal, Steve RedHead, Isaiah & Carmen Electro at KALT on Sat 31 Oct, Strasbourg. 5 artists on the bill: Carmen Electro, Dima Roas, Isaiah (NL) and Regal and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

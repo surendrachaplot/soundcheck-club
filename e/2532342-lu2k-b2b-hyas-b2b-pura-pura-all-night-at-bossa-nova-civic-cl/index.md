@@ -1,6 +1,6 @@
 # Lu2k b2b Hyas b2b Pura Pura ALL NIGHT at Bossa Nova Civic Club
 
-Lu2k b2b Hyas b2b Pura Pura ALL NIGHT at Bossa Nova Civic Club on Sun 4 Oct, Newyorkcity. 3 acts on the bill: Hyas, Lu2k and Pura Pura. Techno. Preview the line-up and save it on soundcheck.
+Lu2k b2b Hyas b2b Pura Pura ALL NIGHT at Bossa Nova Civic Club on Sun 4 Oct, New York City. 3 artists on the bill: Hyas, Lu2k and Pura Pura. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

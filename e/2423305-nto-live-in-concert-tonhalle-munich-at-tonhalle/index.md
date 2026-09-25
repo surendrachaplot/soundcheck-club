@@ -1,6 +1,6 @@
 # NTO live in concert @ Tonhalle Munich at Tonhalle
 
-NTO live in concert @ Tonhalle Munich on Fri 6 Nov, Munich. 1 act on the bill: NTO. Techno. Preview the line-up and save it on soundcheck.
+NTO live in concert @ Tonhalle Munich on Fri 6 Nov, Munich. 1 artist on the bill: NTO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

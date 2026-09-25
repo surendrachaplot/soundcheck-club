@@ -1,6 +1,6 @@
 # SYNCOPATE: GQOM EXPRESS FROM DURBAN 2 WARSAW at K-Bar Powiśle
 
-SYNCOPATE: GQOM EXPRESS FROM DURBAN 2 WARSAW at K-Bar Powiśle on Fri 23 Oct, Warsaw. 4 acts on the bill: eylau, kertua, madikoptah and Mentalcut. Gqom and Kuduro. Preview the line-up and save it on soundcheck.
+SYNCOPATE: GQOM EXPRESS FROM DURBAN 2 WARSAW at K-Bar Powiśle on Fri 23 Oct, Warsaw. 4 artists on the bill: eylau, kertua, madikoptah and Mentalcut. Gqom and Kuduro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

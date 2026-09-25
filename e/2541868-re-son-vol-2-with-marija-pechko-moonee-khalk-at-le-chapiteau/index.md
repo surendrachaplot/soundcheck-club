@@ -1,6 +1,6 @@
 # RE:SON Vol.2 with MARIJA, PECHKO, MOONEE, KHALK at Le Chapiteau - Marseille
 
-RE:SON Vol.2 with MARIJA, PECHKO, MOONEE, KHALK at Le Chapiteau - Marseille on Fri 25 Sept, Marseille. 1 act on the bill: KHALK. House and Electro. Preview the line-up and save it on soundcheck.
+RE:SON Vol.2 with MARIJA, PECHKO, MOONEE, KHALK at Le Chapiteau - Marseille on Fri 25 Sept, Marseille. 1 artist on the bill: KHALK. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

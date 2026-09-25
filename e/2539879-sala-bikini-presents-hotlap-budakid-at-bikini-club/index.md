@@ -1,6 +1,6 @@
 # Sala Bikini presents HotLap & Budakid at Bikini Club
 
-Sala Bikini presents HotLap & Budakid at Bikini Club on Sat 3 Oct, Barcelona. 4 acts on the bill: Budakid, HotLap, Syntonos and Volmaan. Preview the line-up and save it on soundcheck.
+Sala Bikini presents HotLap & Budakid at Bikini Club on Sat 3 Oct, Barcelona. 4 artists on the bill: Budakid, HotLap, Syntonos and Volmaan. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

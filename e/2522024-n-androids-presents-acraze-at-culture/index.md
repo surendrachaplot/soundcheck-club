@@ -1,6 +1,6 @@
 # Nü Androids presents: Acraze at Culture
 
-Nü Androids presents: Acraze at Culture on Sat 24 Oct, Washingtondc. House and Tech House. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Acraze at Culture on Sat 24 Oct, Washington DC. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rhondavous: The Ravesgiving at Catch One
 
-Rhondavous: The Ravesgiving at Catch One on Wed 25 Nov, Losangeles. Techno and IDM. Preview the line-up and save it on soundcheck.
+Rhondavous: The Ravesgiving at Catch One on Wed 25 Nov, Los Angeles. Techno and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

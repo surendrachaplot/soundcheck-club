@@ -1,6 +1,6 @@
 # Smolna: Anetha, Arude at Smolna
 
-Smolna: Anetha, Arude on Fri 2 Oct, Warsaw. 3 acts on the bill: Anetha, Arude and Theviacya. Techno and House. Preview the line-up and save it on soundcheck.
+Smolna: Anetha, Arude on Fri 2 Oct, Warsaw. 3 artists on the bill: Anetha, Arude and Theviacya. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

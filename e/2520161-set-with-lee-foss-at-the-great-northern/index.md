@@ -1,6 +1,6 @@
 # SET with Lee Foss at The Great Northern
 
-SET with Lee Foss at The Great Northern on Sat 17 Oct, Sanfrancisco. 1 act on the bill: Lee Foss. House and Tech House. Preview the line-up and save it on soundcheck.
+SET with Lee Foss at The Great Northern on Sat 17 Oct, San Francisco/Oakland. 1 artist on the bill: Lee Foss. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

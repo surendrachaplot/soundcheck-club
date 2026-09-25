@@ -1,6 +1,6 @@
 # The Dolphin pres: PLASTICAN [UK DUBSTEP/GRIME PIONEER] at The Dolphin
 
-The Dolphin pres: PLASTICAN [UK DUBSTEP/GRIME PIONEER] on Thu 8 Oct, Philadelphia. 2 acts on the bill: DJ Papaya and Plastician. Dubstep and Grime. Preview the line-up and save it on soundcheck.
+The Dolphin pres: PLASTICAN [UK DUBSTEP/GRIME PIONEER] on Thu 8 Oct, Philadelphia. 2 artists on the bill: DJ Papaya and Plastician. Dubstep and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

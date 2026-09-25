@@ -1,6 +1,6 @@
 # BRNT with Adam Beyer at LAB theCLUB
 
-BRNT with Adam Beyer at LAB theCLUB on Fri 9 Oct, Madrid. 1 act on the bill: Adam Beyer. Techno. Preview the line-up and save it on soundcheck.
+BRNT with Adam Beyer at LAB theCLUB on Fri 9 Oct, Madrid. 1 artist on the bill: Adam Beyer. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

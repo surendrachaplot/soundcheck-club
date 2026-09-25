@@ -1,6 +1,6 @@
 # Kater x 23XI at Kater
 
-Kater x 23XI on Fri 16 Oct, Berlin. 7 acts on the bill: Ana Molina, Black Mirror Park, Chris Ku and KENZA and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Kater x 23XI on Fri 16 Oct, Berlin. 7 artists on the bill: Ana Molina, Black Mirror Park, Chris Ku and KENZA and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

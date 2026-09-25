@@ -1,6 +1,6 @@
 # Twin Shadow (concert) at Xanadu
 
-Twin Shadow (concert) at Xanadu on Thu 24 Sept, Newyorkcity. Hip-Hop. Preview the line-up and save it on soundcheck.
+Twin Shadow (concert) at Xanadu on Thu 24 Sept, New York City. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

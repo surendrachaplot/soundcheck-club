@@ -1,6 +1,6 @@
 # Sala recebe Deschw at Sala Bar
 
-Sala recebe Deschw at Sala Bar on Thu 24 Sept, Saopaulo. Preview the line-up and save it on soundcheck.
+Sala recebe Deschw at Sala Bar on Thu 24 Sept, Sao Paulo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

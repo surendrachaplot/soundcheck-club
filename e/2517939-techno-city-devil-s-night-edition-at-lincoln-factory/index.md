@@ -1,6 +1,6 @@
 # Techno City - Devil's Night Edition at Lincoln Factory
 
-Techno City - Devil's Night Edition at Lincoln Factory on Fri 30 Oct, Detroit. 7 acts on the bill: Blake Baxter, Kevin Saunderson, OOZE and Patio and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Techno City - Devil's Night Edition at Lincoln Factory on Fri 30 Oct, Detroit. 7 artists on the bill: Blake Baxter, Kevin Saunderson, OOZE and Patio and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

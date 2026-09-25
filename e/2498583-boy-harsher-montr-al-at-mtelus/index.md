@@ -1,6 +1,6 @@
 # BOY HARSHER - Montréal at MTELUS
 
-BOY HARSHER - Montréal at MTELUS on Tue 29 Sept, Montreal. 2 acts on the bill: Boy Harsher and Evanora Unlimited. Preview the line-up and save it on soundcheck.
+BOY HARSHER - Montréal at MTELUS on Tue 29 Sept, Montreal. 2 artists on the bill: Boy Harsher and Evanora Unlimited. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Eurotech & G-TEC RECORDS PRESENT: EUROTEX at Skatecafe
 
-Eurotech & G-TEC RECORDS PRESENT: EUROTEX at Skatecafe on Sat 26 Sept, Amsterdam. 9 acts on the bill: Eurotech, Flansie, jannah and Jolani Jhones and 5 more. House and Club. Preview the line-up and save it on soundcheck.
+Eurotech & G-TEC RECORDS PRESENT: EUROTEX at Skatecafe on Sat 26 Sept, Amsterdam. 9 artists on the bill: Eurotech, Flansie, jannah and Jolani Jhones and 5 more. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

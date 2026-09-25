@@ -1,6 +1,6 @@
 # QTS: San Francisco at Public Works
 
-QTS: San Francisco at Public Works on Sat 14 Nov, Sanfrancisco. 1 act on the bill: Farius. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+QTS: San Francisco at Public Works on Sat 14 Nov, San Francisco/Oakland. 1 artist on the bill: Farius. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

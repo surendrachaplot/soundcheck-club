@@ -1,6 +1,6 @@
 # SAMHAIN XXVI at Tangent Gallery
 
-SAMHAIN XXVI at Tangent Gallery on Sat 31 Oct, Detroit. 13 acts on the bill: Afra, BMG, Erika and Eris Drew and 9 more. Preview the line-up and save it on soundcheck.
+SAMHAIN XXVI at Tangent Gallery on Sat 31 Oct, Detroit. 13 artists on the bill: Afra, BMG, Erika and Eris Drew and 9 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

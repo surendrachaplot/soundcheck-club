@@ -2,7 +2,7 @@
 
 Fawks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-Fawks is a techno and house artist based in United States of America, tracked on soundcheck, with 73 sets logged across Berlin, Detroit, Leipzig and Losangeles and 4 more. Often billed alongside Jumpr, Kudeki and Sholim Eso. Next up: TBA - San Francisco, Sanfrancisco on Fri 25 Sept.
+Fawks is a techno and house artist based in United States of America, tracked on soundcheck, with 73 sets logged across Berlin, Detroit, Leipzig and Los Angeles and 4 more. Often billed alongside Jumpr, Kudeki and Sholim Eso. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 25 Sept.
 
 ## Upcoming shows
 

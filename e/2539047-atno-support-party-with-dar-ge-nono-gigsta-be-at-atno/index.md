@@ -1,6 +1,6 @@
 # Atno Support Party with DARĀGE, Nono Gigsta (BE) at Atno
 
-Atno Support Party with DARĀGE, Nono Gigsta (BE) on Sat 26 Sept, Budapest. 2 acts on the bill: klpflrtpr and Nono Gigsta. Bass and Club. Preview the line-up and save it on soundcheck.
+Atno Support Party with DARĀGE, Nono Gigsta (BE) on Sat 26 Sept, Budapest. 2 artists on the bill: klpflrtpr and Nono Gigsta. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

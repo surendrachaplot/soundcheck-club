@@ -2,7 +2,7 @@
 
 Cromie is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 25 Sept 2026.
 
-Cromie is a house and minimal artist based in United States of America, tracked on soundcheck, with 27 sets logged across Detroit, London, Losangeles and Sandiego. Often billed alongside Connor Mikami, 2Lanes and Chase Aldridge. Next up: TBA - Downtown Los Angeles, Losangeles on Fri 25 Sept.
+Cromie is a house and minimal artist based in United States of America, tracked on soundcheck, with 27 sets logged across Detroit, London, Los Angeles and San Diego. Often billed alongside Connor Mikami, 2Lanes and Chase Aldridge. Next up: TBA - Downtown Los Angeles, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

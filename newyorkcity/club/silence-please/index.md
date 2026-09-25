@@ -2,7 +2,7 @@
 
 Silence Please is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Compilations by Caire" on Thu, 24 Sept 2026.
 
-Silence Please is a music venue in Newyorkcity listed on soundcheck. 7 upcoming gigs, with line-ups including 320 (1), Caire, Softi and Plushie and 1 more. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
+Silence Please is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including 320, Caire, Softi and Plushie and 1 more. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
 ## What's on
 

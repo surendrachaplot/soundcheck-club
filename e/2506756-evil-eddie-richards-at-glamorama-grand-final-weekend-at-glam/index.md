@@ -1,6 +1,6 @@
 # Evil Eddie Richards at Glamorama - Grand Final Weekend at Glamorama
 
-Evil Eddie Richards at Glamorama - Grand Final Weekend on Thu 24 Sept, Melbourne. 3 acts on the bill: Eddie Richards, MILLA and Ruby Lou. House and Tech House. Preview the line-up and save it on soundcheck.
+Evil Eddie Richards at Glamorama - Grand Final Weekend on Thu 24 Sept, Melbourne. 3 artists on the bill: Eddie Richards, MILLA and Ruby Lou. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PrachtNACHT with Sezer Uysal, Andrale, Sami Hugo at Pracht
 
-PrachtNACHT with Sezer Uysal, Andrale, Sami Hugo on Sat 24 Oct, Frankfurt. 3 acts on the bill: Andrale, Sami Hugo and Sezer Uysal. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+PrachtNACHT with Sezer Uysal, Andrale, Sami Hugo on Sat 24 Oct, Frankfurt. 3 artists on the bill: Andrale, Sami Hugo and Sezer Uysal. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

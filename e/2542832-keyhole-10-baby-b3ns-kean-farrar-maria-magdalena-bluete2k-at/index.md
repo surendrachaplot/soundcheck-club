@@ -1,6 +1,6 @@
 # Keyhole 10: Baby B3ns, Kean Farrar, MARIA MAGDALENA, bluete2k at Studio 1111
 
-Keyhole 10: Baby B3ns, Kean Farrar, MARIA MAGDALENA, bluete2k at Studio 1111 on Sat 26 Sept, Berlin. 3 acts on the bill: bluete2k, Kean Farrar and MARIA MAGDALENA. Techno and House. Preview the line-up and save it on soundcheck.
+Keyhole 10: Baby B3ns, Kean Farrar, MARIA MAGDALENA, bluete2k at Studio 1111 on Sat 26 Sept, Berlin. 3 artists on the bill: bluete2k, Kean Farrar and MARIA MAGDALENA. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

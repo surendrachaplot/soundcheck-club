@@ -1,6 +1,6 @@
 # Cartulis // Summer Closing at FOLD
 
-Cartulis // Summer Closing at FOLD on Sat 26 Sept, London. 7 acts on the bill: Borja S, Elias Sternin, Junki Inoue and Marco Passarani and 3 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Cartulis // Summer Closing at FOLD on Sat 26 Sept, London. 7 artists on the bill: Borja S, Elias Sternin, Junki Inoue and Marco Passarani and 3 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

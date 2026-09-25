@@ -1,6 +1,6 @@
 # Perception - Rossko B2B Wax Material & Friends at Upper East
 
-Perception - Rossko B2B Wax Material & Friends at Upper East on Sat 14 Nov, London. 3 acts on the bill: Barnesey, Rossko and Wax Material. Preview the line-up and save it on soundcheck.
+Perception - Rossko B2B Wax Material & Friends at Upper East on Sat 14 Nov, London. 3 artists on the bill: Barnesey, Rossko and Wax Material. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

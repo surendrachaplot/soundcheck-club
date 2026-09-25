@@ -1,6 +1,6 @@
 # Qncc x PFLAG NYC: Picture Day at Qncc
 
-Qncc x PFLAG NYC: Picture Day on Tue 6 Oct, Newyorkcity. Downtempo. Preview the line-up and save it on soundcheck.
+Qncc x PFLAG NYC: Picture Day on Tue 6 Oct, New York City. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

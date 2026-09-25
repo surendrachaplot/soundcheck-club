@@ -1,6 +1,6 @@
 # THE WOOD at Maison de Pourtalès
 
-THE WOOD at Maison de Pourtalès on Sat 26 Sept, Strasbourg. 1 act on the bill: TBA. Club. Preview the line-up and save it on soundcheck.
+THE WOOD at Maison de Pourtalès on Sat 26 Sept, Strasbourg. 1 artist on the bill: TBA. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

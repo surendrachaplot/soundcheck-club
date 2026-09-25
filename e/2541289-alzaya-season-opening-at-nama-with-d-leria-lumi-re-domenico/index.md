@@ -1,6 +1,6 @@
 # ALZAYA SEASON OPENING AT NAMA with D-Leria, Lumière, Domenico Rosa, Sanna Munn, Rosa Calix at NAMA - Nuovo Anfiteatro Martesana
 
-ALZAYA SEASON OPENING AT NAMA with D-Leria, Lumière, Domenico Rosa, Sanna Munn, Rosa Calix at NAMA - Nuovo Anfiteatro Martesana on Fri 2 Oct, Milan. 7 acts on the bill: D-Leria, Domenico Rosa, Lumiere and Nicodemo and 3 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+ALZAYA SEASON OPENING AT NAMA with D-Leria, Lumière, Domenico Rosa, Sanna Munn, Rosa Calix at NAMA - Nuovo Anfiteatro Martesana on Fri 2 Oct, Milan. 7 artists on the bill: D-Leria, Domenico Rosa, Lumiere and Nicodemo and 3 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

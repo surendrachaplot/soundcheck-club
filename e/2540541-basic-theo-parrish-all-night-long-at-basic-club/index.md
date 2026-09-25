@@ -1,6 +1,6 @@
 # BASIC • Theo Parrish All Night Long at Basic Club
 
-BASIC • Theo Parrish All Night Long at Basic Club on Sat 31 Oct, Naples. 1 act on the bill: Theo Parrish. Preview the line-up and save it on soundcheck.
+BASIC • Theo Parrish All Night Long at Basic Club on Sat 31 Oct, Naples. 1 artist on the bill: Theo Parrish. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

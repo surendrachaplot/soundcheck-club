@@ -1,6 +1,6 @@
 # Bezometer at Very Small Club
 
-Bezometer at Very Small Club on Sat 26 Sept, Budapest. 1 act on the bill: Octile. Techno and House. Preview the line-up and save it on soundcheck.
+Bezometer at Very Small Club on Sat 26 Sept, Budapest. 1 artist on the bill: Octile. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Twink Death 002 with Frank Leder, Unromantic, D.GTLE, Mukkste at Toms Hamburg
 
-Twink Death 002 with Frank Leder, Unromantic, D.GTLE, Mukkste at Toms Hamburg on Sat 17 Oct, Hamburg. 3 acts on the bill: D.GTLE, Frank Leder and Unromantic. Techno and Electro. Preview the line-up and save it on soundcheck.
+Twink Death 002 with Frank Leder, Unromantic, D.GTLE, Mukkste at Toms Hamburg on Sat 17 Oct, Hamburg. 3 artists on the bill: D.GTLE, Frank Leder and Unromantic. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sonica: Raivo Sloan // Moira Salt, Tommy Perman & Andrew Wasylyk // Jett Ilagan at The Glad Cafe
 
-Sonica: Raivo Sloan // Moira Salt, Tommy Perman & Andrew Wasylyk // Jett Ilagan at The Glad Cafe on Sun 27 Sept, Glasgow. 1 act on the bill: Raivo Sloan. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Sonica: Raivo Sloan // Moira Salt, Tommy Perman & Andrew Wasylyk // Jett Ilagan at The Glad Cafe on Sun 27 Sept, Glasgow. 1 artist on the bill: Raivo Sloan. Ambient and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

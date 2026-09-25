@@ -2,7 +2,7 @@
 
 Madarae San Francisco is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Peace Control (Indie Dance & Afro House) at MadaRae" on Sat, 26 Sept 2026.
 
-Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming gigs, with line-ups including Ashkan Dian, Deer (US), MAGA and Malive and 2 more. Browse upcoming dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
+Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 6 upcoming gigs, with line-ups including Ashkan Dian, Deer (US), MAGA and Malive and 2 more. Browse upcoming dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
 ## What's on
 

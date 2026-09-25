@@ -1,6 +1,6 @@
 # Anomalie Collective Takeover at Sooki Lounge
 
-Anomalie Collective Takeover at Sooki Lounge on Sat 10 Oct, Melbourne. 4 acts on the bill: ALIEN-A, CAITY WATSON, Ranjit Nijjer and SHAY DOE. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Anomalie Collective Takeover at Sooki Lounge on Sat 10 Oct, Melbourne. 4 artists on the bill: ALIEN-A, CAITY WATSON, Ranjit Nijjer and SHAY DOE. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

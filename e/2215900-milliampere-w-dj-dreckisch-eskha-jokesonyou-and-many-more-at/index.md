@@ -1,6 +1,6 @@
 # MILLIAMPERE /w DJ DRECKISCH, Eskha, JOKESONYOU and many more at Lokschuppen Berlin
 
-MILLIAMPERE /w DJ DRECKISCH, Eskha, JOKESONYOU and many more at Lokschuppen Berlin on Fri 4 Dec, Berlin. 9 acts on the bill: ARGOT, DJ DRECKISCH, Eskha and JOKESONYOU and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+MILLIAMPERE /w DJ DRECKISCH, Eskha, JOKESONYOU and many more at Lokschuppen Berlin on Fri 4 Dec, Berlin. 9 artists on the bill: ARGOT, DJ DRECKISCH, Eskha and JOKESONYOU and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

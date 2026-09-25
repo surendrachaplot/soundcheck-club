@@ -2,7 +2,7 @@
 
 Woo York is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
-Woo York is a techno and house artist based in Ukraine, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Olympe, Kasia (OFC) and Kevin de Vries. Next up: Knockdown Center, Newyorkcity on Fri 2 Oct.
+Woo York is a techno and house artist based in Ukraine, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Olympe, Kasia (OFC) and Kevin de Vries. Next up: Knockdown Center, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 

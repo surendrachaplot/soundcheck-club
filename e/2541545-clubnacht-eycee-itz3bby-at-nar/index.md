@@ -1,6 +1,6 @@
 # CLUBNACHT / EYCEE & Itz3bby at NAR
 
-CLUBNACHT / EYCEE & Itz3bby at NAR on Fri 2 Oct, Utrecht. 2 acts on the bill: EYCEE and Itz3bby. Bass and Garage. Preview the line-up and save it on soundcheck.
+CLUBNACHT / EYCEE & Itz3bby at NAR on Fri 2 Oct, Utrecht. 2 artists on the bill: EYCEE and Itz3bby. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

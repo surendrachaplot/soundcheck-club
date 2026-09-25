@@ -1,6 +1,6 @@
 # Co-Accused with Billy Nasty & Domenic Cappello at McChuills Music Bar
 
-Co-Accused with Billy Nasty & Domenic Cappello at McChuills Music Bar on Sat 31 Oct, Glasgow. 3 acts on the bill: Billy Nasty, Domenic Cappello and Raymond. Techno and Electro. Preview the line-up and save it on soundcheck.
+Co-Accused with Billy Nasty & Domenic Cappello at McChuills Music Bar on Sat 31 Oct, Glasgow. 3 artists on the bill: Billy Nasty, Domenic Cappello and Raymond. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

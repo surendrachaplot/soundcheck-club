@@ -1,6 +1,6 @@
 # Mango Szn: Vancouver at Fortune Sound Club
 
-Mango Szn: Vancouver at Fortune Sound Club on Sun 11 Oct, Vancouver. 1 act on the bill: MTooray. House and Afro House. Preview the line-up and save it on soundcheck.
+Mango Szn: Vancouver at Fortune Sound Club on Sun 11 Oct, Vancouver. 1 artist on the bill: MTooray. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

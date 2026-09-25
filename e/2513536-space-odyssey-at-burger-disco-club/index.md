@@ -1,6 +1,6 @@
 # SPACE ODYSSEY at Burger Disco Club
 
-SPACE ODYSSEY at Burger Disco Club on Sun 15 Nov, Athens. 2 acts on the bill: Roubi Roubi Roubi and Vladimir Ivkovic. Club. Preview the line-up and save it on soundcheck.
+SPACE ODYSSEY at Burger Disco Club on Sun 15 Nov, Athens. 2 artists on the bill: Roubi Roubi Roubi and Vladimir Ivkovic. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # it's murph - Fade Into Nothing Tour at Russell Industrial Center
 
-it's murph - Fade Into Nothing Tour at Russell Industrial Center on Fri 20 Nov, Detroit. 1 act on the bill: Nils Hoffmann. Bass and Tech House. Preview the line-up and save it on soundcheck.
+it's murph - Fade Into Nothing Tour at Russell Industrial Center on Fri 20 Nov, Detroit. 1 artist on the bill: Nils Hoffmann. Bass and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Basic Function present: Marcel Vogel at Bricks
 
-Basic Function present: Marcel Vogel at Bricks on Sat 10 Oct, London. 2 acts on the bill: Basic Function and Marcel Vogel. House and Disco. Preview the line-up and save it on soundcheck.
+Basic Function present: Marcel Vogel at Bricks on Sat 10 Oct, London. 2 artists on the bill: Basic Function and Marcel Vogel. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

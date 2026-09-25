@@ -1,6 +1,6 @@
 # Future Renfayre presents: Parlour Games (Fundraiser for Misé) at La Chunky
 
-Future Renfayre presents: Parlour Games (Fundraiser for Misé) at La Chunky on Wed 30 Sept, Glasgow. 1 act on the bill: ACHIRĀ. Experimental and Industrial. Preview the line-up and save it on soundcheck.
+Future Renfayre presents: Parlour Games (Fundraiser for Misé) at La Chunky on Wed 30 Sept, Glasgow. 1 artist on the bill: ACHIRĀ. Experimental and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

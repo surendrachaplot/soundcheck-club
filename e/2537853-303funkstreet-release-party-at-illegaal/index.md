@@ -1,6 +1,6 @@
 # 303FUNKSTREET RELEASE PARTY at Illegaal
 
-303FUNKSTREET RELEASE PARTY at Illegaal on Sat 7 Nov, Brussels. 1 act on the bill: Blazin' Bomzai. Techno and Acid. Preview the line-up and save it on soundcheck.
+303FUNKSTREET RELEASE PARTY at Illegaal on Sat 7 Nov, Brussels. 1 artist on the bill: Blazin' Bomzai. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Anetha · Drazzit / SOUNDIT Club: Kyle Hall · Steven Julien · Pau Roca at Nitsa Club
 
-Anetha · Drazzit / SOUNDIT Club: Kyle Hall · Steven Julien · Pau Roca at Nitsa Club on Sat 3 Oct, Barcelona. 5 acts on the bill: Anetha, Drazzit, Kyle Hall and Pau Roca and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Anetha · Drazzit / SOUNDIT Club: Kyle Hall · Steven Julien · Pau Roca at Nitsa Club on Sat 3 Oct, Barcelona. 5 artists on the bill: Anetha, Drazzit, Kyle Hall and Pau Roca and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

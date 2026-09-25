@@ -1,6 +1,6 @@
 # Culture Box Halloween 2026 at Culture Box
 
-Culture Box Halloween 2026 on Sat 31 Oct, Copenhagen. 6 acts on the bill: Bongo & Pusk, Denize, MiniMalene (2) and Rasmus Lützen and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Culture Box Halloween 2026 on Sat 31 Oct, Copenhagen. 6 artists on the bill: Bongo & Pusk, Denize, MiniMalene and Rasmus Lützen and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

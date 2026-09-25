@@ -1,6 +1,6 @@
 # Hamdi FC vs. San Francisco at The Regency Ballroom
 
-Hamdi FC vs. San Francisco at The Regency Ballroom on Sat 3 Oct, Sanfrancisco. 3 acts on the bill: Conducta, Hamdi and Sam Binga. Dubstep. Preview the line-up and save it on soundcheck.
+Hamdi FC vs. San Francisco at The Regency Ballroom on Sat 3 Oct, San Francisco/Oakland. 3 artists on the bill: Conducta, Hamdi and Sam Binga. Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

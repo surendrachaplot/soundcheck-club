@@ -1,6 +1,6 @@
 # Audio Obscura ADE x LAMMER Invites at RAWFACTORY
 
-Audio Obscura ADE x LAMMER Invites at RAWFACTORY on Sat 24 Oct, Amsterdam. 5 acts on the bill: Kyle Starkey, LAMMER, Miguel De Bois and Paige Tomlinson and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
+Audio Obscura ADE x LAMMER Invites at RAWFACTORY on Sat 24 Oct, Amsterdam. 5 artists on the bill: Kyle Starkey, LAMMER, Miguel De Bois and Paige Tomlinson and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

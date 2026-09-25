@@ -1,6 +1,6 @@
 # after hours [Marathon Party by Ante] at Weekend
 
-after hours [Marathon Party by Ante] at Weekend on Sun 27 Sept, Berlin. 1 act on the bill: icykof. House and Afro House. Preview the line-up and save it on soundcheck.
+after hours [Marathon Party by Ante] at Weekend on Sun 27 Sept, Berlin. 1 artist on the bill: icykof. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

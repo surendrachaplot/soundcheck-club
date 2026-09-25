@@ -1,6 +1,6 @@
 # D.O.D at NX Newcastle
 
-D.O.D at NX Newcastle on Fri 4 Dec, Newcastle. 4 acts on the bill: D.O.D., Ellie Scougall, Nadia Summer and Solardo. Preview the line-up and save it on soundcheck.
+D.O.D at NX Newcastle on Fri 4 Dec, Newcastle. 4 artists on the bill: D.O.D., Ellie Scougall, Nadia Summer and Solardo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

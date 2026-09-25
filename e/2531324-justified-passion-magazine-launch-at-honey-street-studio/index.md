@@ -1,6 +1,6 @@
 # Justified Passion Magazine Launch at Honey Street Studio
 
-Justified Passion Magazine Launch at Honey Street Studio on Sat 3 Oct, Manchester. 2 acts on the bill: Allius and Garbo (2). Progressive House and Minimal. Preview the line-up and save it on soundcheck.
+Justified Passion Magazine Launch at Honey Street Studio on Sat 3 Oct, Manchester. 2 artists on the bill: Allius and Garbo. Progressive House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

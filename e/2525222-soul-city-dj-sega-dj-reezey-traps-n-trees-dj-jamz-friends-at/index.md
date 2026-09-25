@@ -1,6 +1,6 @@
 # Soul City (DJ Sega, DJ Reezey, Traps N Trees) || DJ Jamz & Friends at Bastet
 
-Soul City (DJ Sega, DJ Reezey, Traps N Trees) || DJ Jamz & Friends at Bastet on Fri 25 Sept, Philadelphia. 3 acts on the bill: DJ Reezey, DJ Sega and Traps N Trees. Club and R&B. Preview the line-up and save it on soundcheck.
+Soul City (DJ Sega, DJ Reezey, Traps N Trees) || DJ Jamz & Friends at Bastet on Fri 25 Sept, Philadelphia. 3 artists on the bill: DJ Reezey, DJ Sega and Traps N Trees. Club and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

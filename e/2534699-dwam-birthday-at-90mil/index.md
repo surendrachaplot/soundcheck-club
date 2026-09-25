@@ -1,6 +1,6 @@
 # Dwam birthday at 90mil
 
-Dwam birthday at 90mil on Sat 7 Nov, Berlin. 4 acts on the bill: Different Shades, Hilary C/B, Miri Malek and teiaaa. Bass and Experimental. Preview the line-up and save it on soundcheck.
+Dwam birthday at 90mil on Sat 7 Nov, Berlin. 4 artists on the bill: Different Shades, Hilary C/B, Miri Malek and teiaaa. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

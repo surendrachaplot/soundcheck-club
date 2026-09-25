@@ -1,6 +1,6 @@
 # Mint XL presents DJ EZ at Mint XL
 
-Mint XL presents DJ EZ on Sat 3 Oct, Leeds. 9 acts on the bill: Big Ang, Club Angel, DJ Cosworth and DJ EZ and 5 more. House and Garage. Preview the line-up and save it on soundcheck.
+Mint XL presents DJ EZ on Sat 3 Oct, Leeds. 9 artists on the bill: Big Ang, Club Angel, DJ Cosworth and DJ EZ and 5 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

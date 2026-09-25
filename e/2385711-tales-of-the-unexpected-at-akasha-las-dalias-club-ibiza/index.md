@@ -1,6 +1,6 @@
 # Tales Of The Unexpected at Akasha Las Dalias Club - Ibiza
 
-Tales Of The Unexpected at Akasha Las Dalias Club - Ibiza on Fri 9 Oct, Ibiza. 1 act on the bill: Lovefingers. Preview the line-up and save it on soundcheck.
+Tales Of The Unexpected at Akasha Las Dalias Club - Ibiza on Fri 9 Oct, Ibiza. 1 artist on the bill: Lovefingers. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

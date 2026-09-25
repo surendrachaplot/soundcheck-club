@@ -1,6 +1,6 @@
 # House Tea Dance #4 at Les Studios du Rhin
 
-House Tea Dance #4 at Les Studios du Rhin on Sun 27 Sept, Strasbourg. 1 act on the bill: Tal Stef. House. Preview the line-up and save it on soundcheck.
+House Tea Dance #4 at Les Studios du Rhin on Sun 27 Sept, Strasbourg. 1 artist on the bill: Tal Stef. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

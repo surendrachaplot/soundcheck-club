@@ -1,6 +1,6 @@
 # U.N.D. (Unity will Never Die) #02 at Bar Fader
 
-U.N.D. (Unity will Never Die) #02 at Bar Fader on Fri 13 Nov, Osaka. 4 acts on the bill: matres, Rëgret, U:4 (1) and WILLHOUS3. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+U.N.D. (Unity will Never Die) #02 at Bar Fader on Fri 13 Nov, Osaka. 4 artists on the bill: matres, Rëgret, U:4 and WILLHOUS3. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

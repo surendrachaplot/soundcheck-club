@@ -1,6 +1,6 @@
 # Natural Selections: Balam, Mona Matsuoka, Carlo Sine, Loren Berrier at Jupiter Disco
 
-Natural Selections: Balam, Mona Matsuoka, Carlo Sine, Loren Berrier at Jupiter Disco on Fri 16 Oct, Newyorkcity. 4 acts on the bill: Balam, Carlo Sine, Loren Berrier and Mona Matsuoka. Preview the line-up and save it on soundcheck.
+Natural Selections: Balam, Mona Matsuoka, Carlo Sine, Loren Berrier at Jupiter Disco on Fri 16 Oct, New York City. 4 artists on the bill: Balam, Carlo Sine, Loren Berrier and Mona Matsuoka. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

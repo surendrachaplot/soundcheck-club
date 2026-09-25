@@ -1,6 +1,6 @@
 # sim0ne hosted by EAR\WAX halloween night + afterhours at Q35 WAREHOUSE
 
-sim0ne hosted by EAR\WAX halloween night + afterhours at Q35 WAREHOUSE on Sat 31 Oct, Turin. 1 act on the bill: sim0ne. House. Preview the line-up and save it on soundcheck.
+sim0ne hosted by EAR\WAX halloween night + afterhours at Q35 WAREHOUSE on Sat 31 Oct, Turin. 1 artist on the bill: sim0ne. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

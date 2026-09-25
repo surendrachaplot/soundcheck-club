@@ -1,6 +1,6 @@
 # JORDAN PEAK, BEAVE, LOTTIE J - Lost Culture presents: Regulate at Home Nightclub Bexleyheath
 
-JORDAN PEAK, BEAVE, LOTTIE J - Lost Culture presents: Regulate at Home Nightclub Bexleyheath on Fri 25 Sept, London. 6 acts on the bill: Jimi Latifi, jjmorris4, Jordan Peak and Max Volume (UK) and 2 more. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+JORDAN PEAK, BEAVE, LOTTIE J - Lost Culture presents: Regulate at Home Nightclub Bexleyheath on Fri 25 Sept, London. 6 artists on the bill: Jimi Latifi, jjmorris4, Jordan Peak and Max Volume (UK) and 2 more. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

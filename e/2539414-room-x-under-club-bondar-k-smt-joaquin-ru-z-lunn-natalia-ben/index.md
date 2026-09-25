@@ -1,6 +1,6 @@
 # ROOM X Under Club - Bondarük & SMT - JOAQUIN RUÍZ - LUNN - NATALIA BENITEZ at Under Club
 
-ROOM X Under Club - Bondarük & SMT - JOAQUIN RUÍZ - LUNN - NATALIA BENITEZ on Sat 26 Sept, Buenosaires. 2 acts on the bill: Bondarük and SMT (2). Techno. Preview the line-up and save it on soundcheck.
+ROOM X Under Club - Bondarük & SMT - JOAQUIN RUÍZ - LUNN - NATALIA BENITEZ on Sat 26 Sept, Buenos Aires. 2 artists on the bill: Bondarük and SMT. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

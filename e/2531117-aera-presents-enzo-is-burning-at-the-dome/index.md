@@ -1,6 +1,6 @@
 # aera presents: Enzo Is Burning at The Dome
 
-aera presents: Enzo Is Burning at The Dome on Fri 2 Oct, Liverpool. 1 act on the bill: Enzo is Burning. House and Tech House. Preview the line-up and save it on soundcheck.
+aera presents: Enzo Is Burning at The Dome on Fri 2 Oct, Liverpool. 1 artist on the bill: Enzo is Burning. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

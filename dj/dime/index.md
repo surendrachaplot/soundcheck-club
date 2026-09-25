@@ -2,7 +2,7 @@
 
 DIME is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, London on Thu, 24 Sept 2026.
 
-DIME is a club and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Copenhagen, London, Losangeles and Newyorkcity and 1 more. Often billed alongside Shyboi, Byrell The Great and LSDXOXO. Next up: TBA, London on Thu 24 Sept.
+DIME is a club and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Copenhagen, London, Los Angeles and New York City and 1 more. Often billed alongside Shyboi, Byrell The Great and LSDXOXO. Next up: TBA, London on Thu 24 Sept.
 
 ## Upcoming shows
 

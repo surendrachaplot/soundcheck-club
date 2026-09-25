@@ -1,6 +1,6 @@
 # Le Freak: 70's Disco Halloween Party at Kiss Kiss Bang Bang
 
-Le Freak: 70's Disco Halloween Party at Kiss Kiss Bang Bang on Sat 31 Oct, Losangeles. Disco. Preview the line-up and save it on soundcheck.
+Le Freak: 70's Disco Halloween Party at Kiss Kiss Bang Bang on Sat 31 Oct, Los Angeles. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

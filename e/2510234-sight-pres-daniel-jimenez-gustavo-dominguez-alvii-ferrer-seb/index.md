@@ -1,6 +1,6 @@
 # SIGHT pres. Daniel Jimenez, Gustavo Dominguez, Alvii Ferrer, Sebastian Peña at Ku Barcelona
 
-SIGHT pres. Daniel Jimenez, Gustavo Dominguez, Alvii Ferrer, Sebastian Peña at Ku Barcelona on Sun 27 Sept, Barcelona. 1 act on the bill: Sebastián Peña. House and Tech House. Preview the line-up and save it on soundcheck.
+SIGHT pres. Daniel Jimenez, Gustavo Dominguez, Alvii Ferrer, Sebastian Peña at Ku Barcelona on Sun 27 Sept, Barcelona. 1 artist on the bill: Sebastián Peña. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

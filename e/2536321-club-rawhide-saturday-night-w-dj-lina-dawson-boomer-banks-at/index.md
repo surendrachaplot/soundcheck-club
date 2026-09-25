@@ -1,6 +1,6 @@
 # Club Rawhide SATURDAY NIGHT w/ DJ Lina, Dawson, Boomer Banks at Club Rawhide
 
-Club Rawhide SATURDAY NIGHT w/ DJ Lina, Dawson, Boomer Banks on Sat 26 Sept, Newyorkcity. 2 acts on the bill: Boomer Banks and DJ Dawson. Techno and House. Preview the line-up and save it on soundcheck.
+Club Rawhide SATURDAY NIGHT w/ DJ Lina, Dawson, Boomer Banks on Sat 26 Sept, New York City. 2 artists on the bill: Boomer Banks and DJ Dawson. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MINT pres. Somewhen. Frederic. a.m at Fusion Club
 
-MINT pres. Somewhen. Frederic. a.m at Fusion Club on Sat 24 Oct, Munster. 2 acts on the bill: Frederic. and Somewhen. Techno. Preview the line-up and save it on soundcheck.
+MINT pres. Somewhen. Frederic. a.m at Fusion Club on Sat 24 Oct, Munster. 2 artists on the bill: Frederic. and Somewhen. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

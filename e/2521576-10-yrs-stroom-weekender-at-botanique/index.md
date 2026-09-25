@@ -1,6 +1,6 @@
 # 10 YRS STROOM Weekender at Botanique
 
-10 YRS STROOM Weekender at Botanique on Sat 28 Nov, Brussels. 24 acts on the bill: Anton Friisgaard, Aponogeton, Ben Bertrand and Ciro Vitiello and 20 more. Electro and Experimental. Preview the line-up and save it on soundcheck.
+10 YRS STROOM Weekender at Botanique on Sat 28 Nov, Brussels. 24 artists on the bill: Anton Friisgaard, Aponogeton, Ben Bertrand and Ciro Vitiello and 20 more. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

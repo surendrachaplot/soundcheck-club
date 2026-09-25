@@ -1,6 +1,6 @@
 # Hidden Halloween Thurs w/ DJ Q & Flowdan, Hugo Chegwin, SIMMS + more at Hidden
 
-Hidden Halloween Thurs w/ DJ Q & Flowdan, Hugo Chegwin, SIMMS + more on Thu 29 Oct, Manchester. 8 acts on the bill: DJ Q, ESC (5), Flowdan and Fold and 4 more. Bass and Garage. Preview the line-up and save it on soundcheck.
+Hidden Halloween Thurs w/ DJ Q & Flowdan, Hugo Chegwin, SIMMS + more on Thu 29 Oct, Manchester. 8 artists on the bill: DJ Q, ESC, Flowdan and Fold and 4 more. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

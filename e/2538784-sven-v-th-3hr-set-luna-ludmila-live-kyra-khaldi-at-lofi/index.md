@@ -1,6 +1,6 @@
 # Sven Väth [3hr set], Luna Ludmila [live], Kyra Khaldi at Lofi
 
-Sven Väth [3hr set], Luna Ludmila [live], Kyra Khaldi at Lofi on Sat 12 Dec, Amsterdam. 3 acts on the bill: Kyra Khaldi, Luna Ludmila and Sven Vath. Preview the line-up and save it on soundcheck.
+Sven Väth [3hr set], Luna Ludmila [live], Kyra Khaldi at Lofi on Sat 12 Dec, Amsterdam. 3 artists on the bill: Kyra Khaldi, Luna Ludmila and Sven Vath. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

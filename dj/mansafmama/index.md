@@ -2,7 +2,7 @@
 
 Mansaf Mama is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
 
-Mansaf Mama is a club and bass artist based in United States of America, tracked on soundcheck, with 14 sets logged across Detroit, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Nadim Maghzal, ARMANA KHAN and Azure. Next up: TBA, Losangeles on Fri 25 Sept.
+Mansaf Mama is a club and bass artist based in United States of America, tracked on soundcheck, with 14 sets logged across Detroit, Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Nadim Maghzal, ARMANA KHAN and Azure. Next up: TBA, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

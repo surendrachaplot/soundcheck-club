@@ -1,8 +1,8 @@
 # Ornella
 
-Ornella is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fusion Club, Munster on Sat, 26 Sept 2026.
+Ornella is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fusion Club, Munster on Sat, 26 Sept 2026.
 
-Ornella is a techno and hardcore artist based in Portugal, tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Fusion Club, Munster on Sat 26 Sept.
+Ornella is a techno and industrial artist based in Portugal, tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Fusion Club, Munster on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ornella is a techno and hardcore artist based in Portugal, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Fusion Club | Munster |
 | Fri, 2 Oct 2026 | Lehmann Club | Stuttgart |
+| Fri, 9 Oct 2026 | Das Zimmer | Mannheim |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |

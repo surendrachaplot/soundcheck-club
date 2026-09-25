@@ -1,6 +1,6 @@
 # Anechoic: at ÆDEN
 
-Anechoic: at ÆDEN on Sat 7 Nov, Berlin. 1 act on the bill: August Kind. Trance and Techno. Preview the line-up and save it on soundcheck.
+Anechoic: at ÆDEN on Sat 7 Nov, Berlin. 1 artist on the bill: August Kind. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

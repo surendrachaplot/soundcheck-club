@@ -1,6 +1,6 @@
 # BACKROOMS RAVE [HALLOWEEN EDITION] at 1720
 
-BACKROOMS RAVE [HALLOWEEN EDITION] at 1720 on Thu 29 Oct, Losangeles. Club and Electronica. Preview the line-up and save it on soundcheck.
+BACKROOMS RAVE [HALLOWEEN EDITION] at 1720 on Thu 29 Oct, Los Angeles. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

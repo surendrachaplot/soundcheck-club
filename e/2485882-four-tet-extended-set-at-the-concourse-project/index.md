@@ -1,6 +1,6 @@
 # Four Tet (Extended Set) at The Concourse Project
 
-Four Tet (Extended Set) at The Concourse Project on Sat 31 Oct, Austin. 1 act on the bill: Four Tet. Preview the line-up and save it on soundcheck.
+Four Tet (Extended Set) at The Concourse Project on Sat 31 Oct, Austin. 1 artist on the bill: Four Tet. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

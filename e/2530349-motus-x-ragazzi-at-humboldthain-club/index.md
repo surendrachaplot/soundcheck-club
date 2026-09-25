@@ -1,6 +1,6 @@
 # Motus x RAGAZZI at Humboldthain Club
 
-Motus x RAGAZZI at Humboldthain Club on Fri 2 Oct, Berlin. 4 acts on the bill: cun_t, e.leptic, E.T. and Nadia Bel Air. Trance and Techno. Preview the line-up and save it on soundcheck.
+Motus x RAGAZZI at Humboldthain Club on Fri 2 Oct, Berlin. 4 artists on the bill: cun_t, e.leptic, E.T. and Nadia Bel Air. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

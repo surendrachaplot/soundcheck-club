@@ -1,6 +1,6 @@
 # CANDYFLIP at Lokschuppen Berlin
 
-CANDYFLIP at Lokschuppen Berlin on Fri 25 Sept, Berlin. 15 acts on the bill: alemiko, bbymeister, DICA (FR) and DJ Henk and 11 more. Trance and Hardcore. Preview the line-up and save it on soundcheck.
+CANDYFLIP at Lokschuppen Berlin on Fri 25 Sept, Berlin. 15 artists on the bill: alemiko, bbymeister, DICA (FR) and DJ Henk and 11 more. Trance and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

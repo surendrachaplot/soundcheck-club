@@ -1,6 +1,6 @@
 # sim0ne - METRO THEATRE - SYD at The Metro Theatre
 
-sim0ne - METRO THEATRE - SYD at The Metro Theatre on Sat 5 Dec, Sydney. 1 act on the bill: sim0ne. Preview the line-up and save it on soundcheck.
+sim0ne - METRO THEATRE - SYD at The Metro Theatre on Sat 5 Dec, Sydney. 1 artist on the bill: sim0ne. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

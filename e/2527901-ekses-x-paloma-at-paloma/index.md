@@ -1,6 +1,6 @@
 # ekses x Paloma at Paloma
 
-ekses x Paloma on Fri 2 Oct, Berlin. 3 acts on the bill: adodo, shayan and Super Venus. Preview the line-up and save it on soundcheck.
+ekses x Paloma on Fri 2 Oct, Berlin. 3 artists on the bill: adodo, shayan and Super Venus. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

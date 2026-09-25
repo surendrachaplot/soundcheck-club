@@ -1,6 +1,6 @@
 # MAX MOTION feat. FUZZ MUSIC SCHOOL at Royal Lounge
 
-MAX MOTION feat. FUZZ MUSIC SCHOOL at Royal Lounge on Sun 27 Sept, Tokyo. 3 acts on the bill: CATRONICA, Funky Gong and marimari. Preview the line-up and save it on soundcheck.
+MAX MOTION feat. FUZZ MUSIC SCHOOL at Royal Lounge on Sun 27 Sept, Tokyo. 3 artists on the bill: CATRONICA, Funky Gong and marimari. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

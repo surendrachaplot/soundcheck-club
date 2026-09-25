@@ -1,6 +1,6 @@
 # FACE 2 FACE: MELBOURNE at Pica (Port Melbourne Industrial Centre for the Arts)
 
-FACE 2 FACE: MELBOURNE at Pica (Port Melbourne Industrial Centre for the Arts) on Thu 24 Sept, Melbourne. 10 acts on the bill: AMMARA, ANXHELA, EMILIJA and JOKESONYOU and 6 more. Techno. Preview the line-up and save it on soundcheck.
+FACE 2 FACE: MELBOURNE at Pica (Port Melbourne Industrial Centre for the Arts) on Thu 24 Sept, Melbourne. 10 artists on the bill: AMMARA, ANXHELA, EMILIJA and JOKESONYOU and 6 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

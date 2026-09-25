@@ -2,7 +2,7 @@
 
 Better Call Paul is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bulbul Berlin, Berlin on Sat, 26 Sept 2026.
 
-Better Call Paul is a house and club artist based in Germany, tracked on soundcheck, with 82 sets logged across Berlin and Dusseldorf. Often billed alongside Nikklaas, Anne Hou and Marc Eisenberg. Next up: Bulbul Berlin, Berlin on Sat 26 Sept.
+Better Call Paul is a house and club artist based in Germany, tracked on soundcheck, with 82 sets logged across Berlin and Düsseldorf. Often billed alongside Nikklaas, Anne Hou and Marc Eisenberg. Next up: Bulbul Berlin, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 

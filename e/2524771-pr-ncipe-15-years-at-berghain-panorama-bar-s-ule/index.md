@@ -1,6 +1,6 @@
 # PRíNCIPE 15 YEARS at Berghain | Panorama Bar | Säule
 
-PRíNCIPE 15 YEARS at Berghain | Panorama Bar | Säule on Thu 1 Oct, Berlin. 2 acts on the bill: DJ Firmeza and DJ Nigga Fox. Preview the line-up and save it on soundcheck.
+PRíNCIPE 15 YEARS at Berghain | Panorama Bar | Säule on Thu 1 Oct, Berlin. 2 artists on the bill: DJ Firmeza and DJ Nigga Fox. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

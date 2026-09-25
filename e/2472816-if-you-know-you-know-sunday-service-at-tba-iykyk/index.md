@@ -1,6 +1,6 @@
 # If You Know You Know - Sunday Service at TBA - IYKYK 
 
-If You Know You Know - Sunday Service at TBA - IYKYK  on Sun 27 Sept, Losangeles. Techno and House. Preview the line-up and save it on soundcheck.
+If You Know You Know - Sunday Service at TBA - IYKYK  on Sun 27 Sept, Los Angeles. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Los Thuthanaka at The Pearl
 
-Los Thuthanaka at The Pearl on Mon 5 Oct, Vancouver. 1 act on the bill: Los Thuthanaka. Experimental. Preview the line-up and save it on soundcheck.
+Los Thuthanaka at The Pearl on Mon 5 Oct, Vancouver. 1 artist on the bill: Los Thuthanaka. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Six Coasts by Smorgasburg is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Bebop Porú feat L3Ni" on Sat, 17 Oct 2026.
 
-Six Coasts by Smorgasburg is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including L3Ni and Mickey Perez. Browse upcoming dates, start times and who's playing.
+Six Coasts by Smorgasburg is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including L3Ni and Mickey Perez. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

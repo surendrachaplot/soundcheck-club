@@ -1,6 +1,6 @@
 # John Cosani - Black House, San Telmo - ALLMusicParties at TBA - Black House, San Telmo
 
-John Cosani - Black House, San Telmo - ALLMusicParties at TBA - Black House, San Telmo on Sat 3 Oct, Buenosaires. 2 acts on the bill: John Cosani and Juan Buitrago. Progressive House. Preview the line-up and save it on soundcheck.
+John Cosani - Black House, San Telmo - ALLMusicParties at TBA - Black House, San Telmo on Sat 3 Oct, Buenos Aires. 2 artists on the bill: John Cosani and Juan Buitrago. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

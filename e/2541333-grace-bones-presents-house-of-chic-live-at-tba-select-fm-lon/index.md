@@ -1,6 +1,6 @@
 # Grace Bones presents House of Chic (Live) at TBA - Select FM London
 
-Grace Bones presents House of Chic (Live) at TBA - Select FM London on Fri 25 Sept, Losangeles. 2 acts on the bill: Girls of the Internet and GraceBones. House and Electronica. Preview the line-up and save it on soundcheck.
+Grace Bones presents House of Chic (Live) at TBA - Select FM London on Fri 25 Sept, Los Angeles. 2 artists on the bill: Girls of the Internet and GraceBones. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

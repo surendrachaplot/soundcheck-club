@@ -1,6 +1,6 @@
 # Nido live session - Canine Cracks, Tibahuult & Tessina at Nido Marseille
 
-Nido live session - Canine Cracks, Tibahuult & Tessina at Nido Marseille on Thu 15 Oct, Marseille. 1 act on the bill: Canine Cracks. Preview the line-up and save it on soundcheck.
+Nido live session - Canine Cracks, Tibahuult & Tessina at Nido Marseille on Thu 15 Oct, Marseille. 1 artist on the bill: Canine Cracks. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

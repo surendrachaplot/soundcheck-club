@@ -2,7 +2,7 @@
 
 Karlsplatz is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "RESSELRAVE by soundlabs" on Sat, 26 Sept 2026.
 
-Karlsplatz is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including BRX (2), DJ PARKVERBOT, KRAWALLBARBIE and Paul Mile and 2 more. Browse upcoming dates, start times and who's playing. Wien.
+Karlsplatz is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including BRX, DJ PARKVERBOT, KRAWALLBARBIE and Paul Mile and 2 more. Browse upcoming dates, start times and who's playing. Wien.
 
 ## What's on
 

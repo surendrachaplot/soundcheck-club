@@ -1,6 +1,6 @@
 # ORGANÏK with Jazzy, Yoshiko, Todiefor at Warehouse
 
-ORGANÏK with Jazzy, Yoshiko, Todiefor at Warehouse on Fri 20 Nov, Nantes. 3 acts on the bill: HIBI, Todiefor and Yoshiko. Trance and Techno. Preview the line-up and save it on soundcheck.
+ORGANÏK with Jazzy, Yoshiko, Todiefor at Warehouse on Fri 20 Nov, Nantes. 3 artists on the bill: HIBI, Todiefor and Yoshiko. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # New York Modular Society 7th Anniversary at The Sultan Room
 
-New York Modular Society 7th Anniversary at The Sultan Room on Mon 5 Oct, Newyorkcity. 4 acts on the bill: 5ToK3, Ben The Glorious Bastard, Crew Called Self and Todd Sines. Techno and Electro. Preview the line-up and save it on soundcheck.
+New York Modular Society 7th Anniversary at The Sultan Room on Mon 5 Oct, New York City. 4 artists on the bill: 5ToK3, Ben The Glorious Bastard, Crew Called Self and Todd Sines. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

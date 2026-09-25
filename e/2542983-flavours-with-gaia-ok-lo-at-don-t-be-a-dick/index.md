@@ -1,6 +1,6 @@
 # Flavours with Gaia // oKálo at Don't be a Dick
 
-Flavours with Gaia // oKálo at Don't be a Dick on Thu 24 Sept, Athens. 1 act on the bill: oKálo. House and Minimal. Preview the line-up and save it on soundcheck.
+Flavours with Gaia // oKálo at Don't be a Dick on Thu 24 Sept, Athens. 1 artist on the bill: oKálo. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

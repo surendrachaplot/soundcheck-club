@@ -1,6 +1,6 @@
 # DURATIONS: Kara-Lis Coverdale, Molina, Pavel Milyakov at public records
 
-DURATIONS: Kara-Lis Coverdale, Molina, Pavel Milyakov at public records on Sun 15 Nov, Newyorkcity. 3 acts on the bill: Buttechno, Kara-Lis Coverdale and Molina. Preview the line-up and save it on soundcheck.
+DURATIONS: Kara-Lis Coverdale, Molina, Pavel Milyakov at public records on Sun 15 Nov, New York City. 3 artists on the bill: Buttechno, Kara-Lis Coverdale and Molina. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

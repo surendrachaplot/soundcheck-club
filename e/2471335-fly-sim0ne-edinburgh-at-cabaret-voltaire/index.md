@@ -1,6 +1,6 @@
 # FLY - sim0ne - Edinburgh at Cabaret Voltaire
 
-FLY - sim0ne - Edinburgh at Cabaret Voltaire on Fri 18 Dec, Edinburgh. 1 act on the bill: sim0ne. Trance and Techno. Preview the line-up and save it on soundcheck.
+FLY - sim0ne - Edinburgh at Cabaret Voltaire on Fri 18 Dec, Edinburgh. 1 artist on the bill: sim0ne. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

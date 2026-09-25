@@ -1,6 +1,6 @@
 # 'SHADES OF HOUSE: Celebrate with Pyrame & You're Next Records!' at Minimal Bar
 
-'SHADES OF HOUSE: Celebrate with Pyrame & You're Next Records!' at Minimal Bar on Thu 15 Oct, Berlin. 3 acts on the bill: LETVINK, Substrack and Tom Mils. House and Tech House. Preview the line-up and save it on soundcheck.
+'SHADES OF HOUSE: Celebrate with Pyrame & You're Next Records!' at Minimal Bar on Thu 15 Oct, Berlin. 3 artists on the bill: LETVINK, Substrack and Tom Mils. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

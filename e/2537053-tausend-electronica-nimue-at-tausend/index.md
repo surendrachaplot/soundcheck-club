@@ -1,6 +1,6 @@
 # Tausend Electronica: Nimue at Tausend
 
-Tausend Electronica: Nimue on Thu 24 Sept, Berlin. 1 act on the bill: Nimue. House. Preview the line-up and save it on soundcheck.
+Tausend Electronica: Nimue on Thu 24 Sept, Berlin. 1 artist on the bill: Nimue. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

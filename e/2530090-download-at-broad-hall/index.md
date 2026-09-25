@@ -1,6 +1,6 @@
 # download at broad hall.
 
-download at broad hall. on Sat 26 Sept, Philadelphia. 3 acts on the bill: America Loves Me, JEWELSSEA and RA!N. Techno and Footwork. Preview the line-up and save it on soundcheck.
+download at broad hall. on Sat 26 Sept, Philadelphia. 3 artists on the bill: America Loves Me, JEWELSSEA and RA!N. Techno and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

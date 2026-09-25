@@ -1,6 +1,6 @@
 # Brunch Electronik Malaga WEEKENDER 10/11OCTUBRE 2026 at Auditorio Málaga Cortijo de Torres
 
-Brunch Electronik Malaga WEEKENDER 10/11OCTUBRE 2026 at Auditorio Málaga Cortijo de Torres on Sat 10 Oct, South. 32 acts on the bill: Adam Beyer, Alex Now, Alycia Bezgo and Boys Noize and 28 more. Preview the line-up and save it on soundcheck.
+Brunch Electronik Malaga WEEKENDER 10/11OCTUBRE 2026 at Auditorio Málaga Cortijo de Torres on Sat 10 Oct, South. 32 artists on the bill: Adam Beyer, Alex Now, Alycia Bezgo and Boys Noize and 28 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

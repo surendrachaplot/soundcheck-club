@@ -1,6 +1,6 @@
 # Public Holiday Eve — LOVED, Midway Point & 3181 Thursdays at Revolver Upstairs
 
-Public Holiday Eve — LOVED, Midway Point & 3181 Thursdays at Revolver Upstairs on Thu 24 Sept, Melbourne. 2 acts on the bill: bleshu and Shani. Techno and House. Preview the line-up and save it on soundcheck.
+Public Holiday Eve — LOVED, Midway Point & 3181 Thursdays at Revolver Upstairs on Thu 24 Sept, Melbourne. 2 artists on the bill: bleshu and Shani. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FUBR: Breaking Through at Coco Boule
 
-FUBR: Breaking Through at Coco Boule on Fri 23 Oct, Berlin. 7 acts on the bill: AZULU, babymullet, David Baguetta and Florian Pas and 3 more. House and Baile Funk. Preview the line-up and save it on soundcheck.
+FUBR: Breaking Through at Coco Boule on Fri 23 Oct, Berlin. 7 artists on the bill: AZULU, babymullet, David Baguetta and Florian Pas and 3 more. House and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

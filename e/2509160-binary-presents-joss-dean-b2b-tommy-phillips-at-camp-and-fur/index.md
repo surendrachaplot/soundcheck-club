@@ -1,6 +1,6 @@
 # BINARY Presents Joss Dean b2b Tommy Phillips at Camp and Furnace
 
-BINARY Presents Joss Dean b2b Tommy Phillips at Camp and Furnace on Fri 9 Oct, Liverpool. 4 acts on the bill: Joss Dean, Nafe Smallz, Riley and Tommy Phillips. House and Tech House. Preview the line-up and save it on soundcheck.
+BINARY Presents Joss Dean b2b Tommy Phillips at Camp and Furnace on Fri 9 Oct, Liverpool. 4 artists on the bill: Joss Dean, Nafe Smallz, Riley and Tommy Phillips. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

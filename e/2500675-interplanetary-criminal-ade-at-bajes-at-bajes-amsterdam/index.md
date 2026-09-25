@@ -1,6 +1,6 @@
 # Interplanetary Criminal ADE at Bajes at Bajes Amsterdam
 
-Interplanetary Criminal ADE at Bajes at Bajes Amsterdam on Sun 25 Oct, Amsterdam. 1 act on the bill: Interplanetary Criminal. Garage. Preview the line-up and save it on soundcheck.
+Interplanetary Criminal ADE at Bajes at Bajes Amsterdam on Sun 25 Oct, Amsterdam. 1 artist on the bill: Interplanetary Criminal. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

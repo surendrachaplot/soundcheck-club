@@ -1,6 +1,6 @@
 # Fat Freddy's Drop - Barcelona (2) at Razzmatazz
 
-Fat Freddy's Drop - Barcelona (2) at Razzmatazz on Sun 27 Sept, Barcelona. 1 act on the bill: Fat Freddys Drop. Dub and Funk / Soul. Preview the line-up and save it on soundcheck.
+Fat Freddy's Drop - Barcelona (2) at Razzmatazz on Sun 27 Sept, Barcelona. 1 artist on the bill: Fat Freddys Drop. Dub and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

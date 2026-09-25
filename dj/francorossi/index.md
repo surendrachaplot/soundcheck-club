@@ -2,7 +2,7 @@
 
 Franco Rossi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The White Hotel, Manchester on Thu, 1 Oct 2026.
 
-Franco Rossi is a techno and house artist based in Argentina, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 7 more. Often billed alongside JXXXO, ANDRØMEDA and Ana Alves. Next up: The White Hotel, Manchester on Thu 1 Oct.
+Franco Rossi is a techno and house artist based in Argentina, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 7 more. Often billed alongside JXXXO, ANDRØMEDA and Ana Alves. Next up: The White Hotel, Manchester on Thu 1 Oct.
 
 ## Upcoming shows
 

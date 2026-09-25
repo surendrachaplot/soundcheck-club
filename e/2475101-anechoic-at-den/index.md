@@ -1,6 +1,6 @@
 # Anechoic at ÆDEN
 
-Anechoic at ÆDEN on Fri 11 Dec, Berlin. 2 acts on the bill: August Kind and djbounty3000. Trance and Techno. Preview the line-up and save it on soundcheck.
+Anechoic at ÆDEN on Fri 11 Dec, Berlin. 2 artists on the bill: August Kind and djbounty3000. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

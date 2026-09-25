@@ -1,6 +1,6 @@
 # Notre Dame / Paranormal Society Showcase at Lula Club
 
-Notre Dame / Paranormal Society Showcase at Lula Club on Fri 13 Nov, Madrid. 1 act on the bill: Notre Dame. Preview the line-up and save it on soundcheck.
+Notre Dame / Paranormal Society Showcase at Lula Club on Fri 13 Nov, Madrid. 1 artist on the bill: Notre Dame. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

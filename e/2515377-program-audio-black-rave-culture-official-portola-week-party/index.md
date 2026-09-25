@@ -1,6 +1,6 @@
 # program audio: Black Rave Culture (Official Portola Week Party) at Club Six
 
-program audio: Black Rave Culture (Official Portola Week Party) at Club Six on Thu 24 Sept, Sanfrancisco. 4 acts on the bill: bastiengoat, Black Rave Culture, Buck Wilson and Discnogirl. Techno and Club. Preview the line-up and save it on soundcheck.
+program audio: Black Rave Culture (Official Portola Week Party) at Club Six on Thu 24 Sept, San Francisco/Oakland. 4 artists on the bill: bastiengoat, Black Rave Culture, Buck Wilson and Discnogirl. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

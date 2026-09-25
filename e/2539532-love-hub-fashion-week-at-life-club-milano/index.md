@@ -1,6 +1,6 @@
 # Love Hub — Fashion Week at Life Club Milano
 
-Love Hub — Fashion Week at Life Club Milano on Fri 25 Sept, Milan. 3 acts on the bill: Andrea Ratti, Boris and Protopapa. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Love Hub — Fashion Week at Life Club Milano on Fri 25 Sept, Milan. 3 artists on the bill: Andrea Ratti, Boris and Protopapa. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

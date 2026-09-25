@@ -1,6 +1,6 @@
 # ONE.SEVENTY: 10 Year Anniversary at Planet Wax
 
-ONE.SEVENTY: 10 Year Anniversary at Planet Wax on Fri 23 Oct, London. 1 act on the bill: DB1. Drum & Bass. Preview the line-up and save it on soundcheck.
+ONE.SEVENTY: 10 Year Anniversary at Planet Wax on Fri 23 Oct, London. 1 artist on the bill: DB1. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

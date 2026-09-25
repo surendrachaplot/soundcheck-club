@@ -1,6 +1,6 @@
 # 晚酒朝舞：Partok at OIL Club
 
-晚酒朝舞：Partok at OIL Club on Fri 16 Oct, Shenzhen. 3 acts on the bill: Partok, Sirens and Sulk. Techno. Preview the line-up and save it on soundcheck.
+晚酒朝舞：Partok at OIL Club on Fri 16 Oct, Shenzhen. 3 artists on the bill: Partok, Sirens and Sulk. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

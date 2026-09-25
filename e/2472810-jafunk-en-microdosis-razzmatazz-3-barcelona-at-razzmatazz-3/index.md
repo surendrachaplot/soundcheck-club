@@ -1,6 +1,6 @@
 # Jafunk en microdosis - Razzmatazz 3, Barcelona at Razzmatazz 3
 
-Jafunk en microdosis - Razzmatazz 3, Barcelona on Wed 11 Nov, Barcelona. 1 act on the bill: Jafunk. House. Preview the line-up and save it on soundcheck.
+Jafunk en microdosis - Razzmatazz 3, Barcelona on Wed 11 Nov, Barcelona. 1 artist on the bill: Jafunk. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

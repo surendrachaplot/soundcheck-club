@@ -1,6 +1,6 @@
 # SQUASH: Amadeezy at Skylight Warehouse
 
-SQUASH: Amadeezy at Skylight Warehouse on Fri 2 Oct, Vancouver. 4 acts on the bill: 0xydr0p, Amadeezy, Jer (CA) and softesthan. Electro and Club. Preview the line-up and save it on soundcheck.
+SQUASH: Amadeezy at Skylight Warehouse on Fri 2 Oct, Vancouver. 4 artists on the bill: 0xydr0p, Amadeezy, Jer (CA) and softesthan. Electro and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

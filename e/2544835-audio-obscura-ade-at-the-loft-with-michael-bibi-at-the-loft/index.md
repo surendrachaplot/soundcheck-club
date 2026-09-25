@@ -1,6 +1,6 @@
 # Audio Obscura ADE at The Loft with Michael Bibi at The Loft Amsterdam
 
-Audio Obscura ADE at The Loft with Michael Bibi at The Loft Amsterdam on Sun 25 Oct, Amsterdam. 1 act on the bill: Michael Bibi. House. Preview the line-up and save it on soundcheck.
+Audio Obscura ADE at The Loft with Michael Bibi at The Loft Amsterdam on Sun 25 Oct, Amsterdam. 1 artist on the bill: Michael Bibi. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

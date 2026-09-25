@@ -1,6 +1,6 @@
 # Cormac, Cuba, Varela, Mâhfoud, Mad Rey at Lux Fragil
 
-Cormac, Cuba, Varela, Mâhfoud, Mad Rey at Lux Fragil on Sat 26 Sept, Lisbon. 6 acts on the bill: Beno, Cormac, Cuba (PT) and Mad Rey and 2 more. Preview the line-up and save it on soundcheck.
+Cormac, Cuba, Varela, Mâhfoud, Mad Rey at Lux Fragil on Sat 26 Sept, Lisbon. 6 artists on the bill: Beno, Cormac, Cuba (PT) and Mad Rey and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

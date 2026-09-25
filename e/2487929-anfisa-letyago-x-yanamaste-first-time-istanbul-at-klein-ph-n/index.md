@@ -1,6 +1,6 @@
 # Anfisa Letyago x Yanamaste – First Time Istanbul at Klein Phönix
 
-Anfisa Letyago x Yanamaste – First Time Istanbul at Klein Phönix on Sat 3 Oct, Istanbul. 3 acts on the bill: Anfisa Letyago, Cenk Tripper and Yanamaste. Techno. Preview the line-up and save it on soundcheck.
+Anfisa Letyago x Yanamaste – First Time Istanbul at Klein Phönix on Sat 3 Oct, Istanbul. 3 artists on the bill: Anfisa Letyago, Cenk Tripper and Yanamaste. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

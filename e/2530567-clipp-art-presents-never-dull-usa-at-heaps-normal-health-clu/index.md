@@ -1,6 +1,6 @@
 # clipp.art presents Never Dull [USA] at Heaps Normal Health Club
 
-clipp.art presents Never Dull [USA] at Heaps Normal Health Club on Sat 31 Oct, Sydney. 6 acts on the bill: Acid Jacks, Cliff Colada, Jack N Jerk and Jerk Boy and 2 more. Preview the line-up and save it on soundcheck.
+clipp.art presents Never Dull [USA] at Heaps Normal Health Club on Sat 31 Oct, Sydney. 6 artists on the bill: Acid Jacks, Cliff Colada, Jack N Jerk and Jerk Boy and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

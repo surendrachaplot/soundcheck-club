@@ -1,6 +1,6 @@
 # Acid Cult feat. Octo Octa at Process PDX
 
-Acid Cult feat. Octo Octa at Process PDX on Sat 3 Oct, Portland. 4 acts on the bill: Aaron Davis, Octo Octa, Phreaker Fighter and Trustfall. House and Acid. Preview the line-up and save it on soundcheck.
+Acid Cult feat. Octo Octa at Process PDX on Sat 3 Oct, Portland. 4 artists on the bill: Aaron Davis, Octo Octa, Phreaker Fighter and Trustfall. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

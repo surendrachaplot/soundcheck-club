@@ -1,6 +1,6 @@
 # Raro Club Halloween (Hotel edition) at TBA - Hotel Virreyes
 
-Raro Club Halloween (Hotel edition) at TBA - Hotel Virreyes on Sat 17 Oct, Mexicocity. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Raro Club Halloween (Hotel edition) at TBA - Hotel Virreyes on Sat 17 Oct, Mexico City. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

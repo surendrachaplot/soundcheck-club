@@ -1,6 +1,6 @@
 # CLASH at AMT
 
-CLASH at AMT on Fri 13 Nov, Berlin. 4 acts on the bill: ALAN JOE, Bill Sanders, Danny Roach and jardabpm. Techno and House. Preview the line-up and save it on soundcheck.
+CLASH at AMT on Fri 13 Nov, Berlin. 4 artists on the bill: ALAN JOE, Bill Sanders, Danny Roach and jardabpm. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

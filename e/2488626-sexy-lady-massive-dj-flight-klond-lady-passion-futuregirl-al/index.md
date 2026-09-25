@@ -1,6 +1,6 @@
 # Sexy Lady Massive + DJ Flight, Klondé, Lady Passion, FUTUREGIRL, Aloka & MC DEADMAN at The Jazz Cafe
 
-Sexy Lady Massive + DJ Flight, Klondé, Lady Passion, FUTUREGIRL, Aloka & MC DEADMAN at The Jazz Cafe on Fri 25 Sept, London. 6 acts on the bill: Aloka, ASIAN BRAT, Betsy Mae and DJ Flight and 2 more. Bass and Garage. Preview the line-up and save it on soundcheck.
+Sexy Lady Massive + DJ Flight, Klondé, Lady Passion, FUTUREGIRL, Aloka & MC DEADMAN at The Jazz Cafe on Fri 25 Sept, London. 6 artists on the bill: Aloka, ASIAN BRAT, Betsy Mae and DJ Flight and 2 more. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

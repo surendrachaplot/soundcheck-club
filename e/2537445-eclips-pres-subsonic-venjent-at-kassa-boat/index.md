@@ -1,6 +1,6 @@
 # ECLIPS pres.: Subsonic⏐Venjent at Kassa Boat
 
-ECLIPS pres.: Subsonic⏐Venjent at Kassa Boat on Fri 25 Sept, Budapest. 2 acts on the bill: Bug (1) and Venjent. Drum & Bass and Electro. Preview the line-up and save it on soundcheck.
+ECLIPS pres.: Subsonic⏐Venjent at Kassa Boat on Fri 25 Sept, Budapest. 2 artists on the bill: Bug and Venjent. Drum & Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

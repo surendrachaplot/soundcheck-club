@@ -1,6 +1,6 @@
 # Goa Galaxy - Space Odyssey with DJinges Khan, Dropnik, FloorQuix uvm at Catonium
 
-Goa Galaxy - Space Odyssey with DJinges Khan, Dropnik, FloorQuix uvm at Catonium on Fri 16 Oct, Hamburg. 1 act on the bill: BERLIN. Psytrance. Preview the line-up and save it on soundcheck.
+Goa Galaxy - Space Odyssey with DJinges Khan, Dropnik, FloorQuix uvm at Catonium on Fri 16 Oct, Hamburg. 1 artist on the bill: BERLIN. Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

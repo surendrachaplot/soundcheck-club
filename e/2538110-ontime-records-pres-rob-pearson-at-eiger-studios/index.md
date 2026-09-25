@@ -1,6 +1,6 @@
 # OnTime Records Pres: Rob Pearson at Eiger Studios
 
-OnTime Records Pres: Rob Pearson at Eiger Studios on Fri 30 Oct, Leeds. 3 acts on the bill: PAS, Rob Pearson and TriForm. Tech House and Acid. Preview the line-up and save it on soundcheck.
+OnTime Records Pres: Rob Pearson at Eiger Studios on Fri 30 Oct, Leeds. 3 artists on the bill: PAS, Rob Pearson and TriForm. Tech House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

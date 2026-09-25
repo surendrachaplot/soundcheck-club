@@ -1,6 +1,6 @@
 # Daft Disko Halloween: NYC at Drom
 
-Daft Disko Halloween: NYC at Drom on Sat 31 Oct, Newyorkcity. House and Disco. Preview the line-up and save it on soundcheck.
+Daft Disko Halloween: NYC at Drom on Sat 31 Oct, New York City. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

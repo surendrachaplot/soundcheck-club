@@ -1,6 +1,6 @@
 # Le Club - Grand Opening - Spektral, Cherry, Tacchi, Deetres at Le Club Igualada
 
-Le Club - Grand Opening - Spektral, Cherry, Tacchi, Deetres at Le Club Igualada on Fri 9 Oct, Barcelona. 4 acts on the bill: Deetres (ES), Dj Cherry, Spektral and Tacchi. Techno and House. Preview the line-up and save it on soundcheck.
+Le Club - Grand Opening - Spektral, Cherry, Tacchi, Deetres at Le Club Igualada on Fri 9 Oct, Barcelona. 4 artists on the bill: Deetres (ES), Dj Cherry, Spektral and Tacchi. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

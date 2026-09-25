@@ -2,7 +2,7 @@
 
 Francis Harris is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
 
-Francis Harris is a house and deep house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity. Often billed alongside Ali Berger, Jenifa Mayanja and Millie McKee. Next up: public records, Newyorkcity on Mon 9 Nov.
+Francis Harris is a house and deep house artist based in United States of America, tracked on soundcheck, with 25 sets logged across New York City. Often billed alongside Ali Berger, Jenifa Mayanja and Millie McKee. Next up: public records, New York City on Mon 9 Nov.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Industry Mondays at Althea's Rooftop
 
-Industry Mondays at Althea's Rooftop on Mon 28 Sept, Newyorkcity. Afro House. Preview the line-up and save it on soundcheck.
+Industry Mondays at Althea's Rooftop on Mon 28 Sept, New York City. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

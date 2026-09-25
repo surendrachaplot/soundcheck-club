@@ -1,14 +1,14 @@
 # Iris Leidenschaft
 
-Iris Leidenschaft is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at El Rio Hostel, All on Wed, 3 Mar 2027.
+Iris Leidenschaft is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
-Iris Leidenschaft is a techno and house artist based in Colombia, tracked on soundcheck, with 13 sets logged across All, Berlin, Brussels and Madrid and 2 more. Often billed alongside Innexen, SAVBEA and VISNEACS. Next up: El Rio Hostel, All on Wed 3 Mar.
+Iris Leidenschaft is a techno and house artist based in Colombia, tracked on soundcheck, with 13 sets logged across Berlin, Brussels, Colombia and Madrid and 2 more. Often billed alongside Innexen, SAVBEA and VISNEACS. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 3 Mar 2027 | El Rio Hostel | All |
+| Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
 

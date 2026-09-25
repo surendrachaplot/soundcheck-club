@@ -1,6 +1,6 @@
 # Gems & Jams 004 at TBA - Studio Killa
 
-Gems & Jams 004 at TBA - Studio Killa on Sat 24 Oct, Sydney. 1 act on the bill: Bella Bella. House. Preview the line-up and save it on soundcheck.
+Gems & Jams 004 at TBA - Studio Killa on Sat 24 Oct, Sydney. 1 artist on the bill: Bella Bella. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Garrison XR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
 
-Garrison XR is a techno and house artist based in United States of America, tracked on soundcheck, with 203 sets logged across Detroit, Newyorkcity and Sandiego. Often billed alongside Ashton Swinton, LATEX GIRL and Amino. Next up: Menjo's, Detroit on Sat 26 Sept.
+Garrison XR is a techno and house artist based in United States of America, tracked on soundcheck, with 203 sets logged across Detroit, New York City and San Diego. Often billed alongside Ashton Swinton, LATEX GIRL and Amino. Next up: Menjo's, Detroit on Sat 26 Sept.
 
 ## Upcoming shows
 

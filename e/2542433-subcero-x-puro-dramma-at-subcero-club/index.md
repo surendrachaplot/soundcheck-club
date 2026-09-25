@@ -1,6 +1,6 @@
 # Subcero x Puro Dramma at Subcero Club
 
-Subcero x Puro Dramma at Subcero Club on Thu 8 Oct, Madrid. 2 acts on the bill: Halluin and Puro Dramma. Electronica. Preview the line-up and save it on soundcheck.
+Subcero x Puro Dramma at Subcero Club on Thu 8 Oct, Madrid. 2 artists on the bill: Halluin and Puro Dramma. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

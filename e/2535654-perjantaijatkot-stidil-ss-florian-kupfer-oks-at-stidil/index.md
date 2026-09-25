@@ -1,6 +1,6 @@
 # Perjantaijatkot Stidilässä – Florian Kupfer & OKS at Stidilä
 
-Perjantaijatkot Stidilässä – Florian Kupfer & OKS on Sat 26 Sept, Helsinki. 1 act on the bill: Florian Kupfer. Preview the line-up and save it on soundcheck.
+Perjantaijatkot Stidilässä – Florian Kupfer & OKS on Sat 26 Sept, Helsinki. 1 artist on the bill: Florian Kupfer. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

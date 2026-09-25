@@ -2,7 +2,7 @@
 
 JØASE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Panama, Amsterdam on Fri, 25 Sept 2026.
 
-JØASE is a house and techno artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside Kirilski, Sanne Dammers and Ian Storm. Next up: Panama, Amsterdam on Fri 25 Sept.
+JØASE is a house and techno artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Rotterdam and The Hague. Often billed alongside Kirilski, Sanne Dammers and Ian Storm. Next up: Panama, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 

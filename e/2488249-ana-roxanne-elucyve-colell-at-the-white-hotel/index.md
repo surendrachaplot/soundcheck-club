@@ -1,6 +1,6 @@
 # Ana Roxanne + Elucyve + colell at The White Hotel
 
-Ana Roxanne + Elucyve + colell at The White Hotel on Wed 4 Nov, Manchester. 3 acts on the bill: Ana Roxanne, colell and Elucyve. Ambient and Classical. Preview the line-up and save it on soundcheck.
+Ana Roxanne + Elucyve + colell at The White Hotel on Wed 4 Nov, Manchester. 3 artists on the bill: Ana Roxanne, colell and Elucyve. Ambient and Classical. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

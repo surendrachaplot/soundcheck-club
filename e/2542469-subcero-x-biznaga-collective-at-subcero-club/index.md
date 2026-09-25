@@ -1,6 +1,6 @@
 # Subcero x Biznaga Collective at Subcero Club
 
-Subcero x Biznaga Collective at Subcero Club on Fri 30 Oct, Madrid. 3 acts on the bill: Fontango, Hugo Carter and Jay Luna. Electronica. Preview the line-up and save it on soundcheck.
+Subcero x Biznaga Collective at Subcero Club on Fri 30 Oct, Madrid. 3 artists on the bill: Fontango, Hugo Carter and Jay Luna. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

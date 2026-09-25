@@ -1,6 +1,6 @@
 # SOG Sounds ohne Grenzen 3. Edition at Kult61
 
-SOG Sounds ohne Grenzen 3. Edition at Kult61 on Sat 26 Sept, Frankfurt. 1 act on the bill: Marcel Été. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+SOG Sounds ohne Grenzen 3. Edition at Kult61 on Sat 26 Sept, Frankfurt. 1 artist on the bill: Marcel Été. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

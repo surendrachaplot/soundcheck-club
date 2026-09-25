@@ -2,7 +2,7 @@
 
 DOCTOR MÜCKE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 3 Oct 2026.
 
-DOCTOR MÜCKE is a techno and trance artist based in Italy, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 9 more. Often billed alongside RESA UTOPICA, EGE363 and Amo (IT). Next up: Lokschuppen Berlin, Berlin on Sat 3 Oct.
+DOCTOR MÜCKE is a techno and trance artist based in Italy, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Cologne and Düsseldorf and 9 more. Often billed alongside RESA UTOPICA, EGE363 and Amo (IT). Next up: Lokschuppen Berlin, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 

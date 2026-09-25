@@ -1,6 +1,6 @@
 # Visitor.area mit Eric Heydenfeld & DJ Burdi Call (Brudi love) at Minimal Bar
 
-Visitor.area mit Eric Heydenfeld & DJ Burdi Call (Brudi love) at Minimal Bar on Sat 21 Nov, Berlin. 1 act on the bill: Eric Heydenfeld. Preview the line-up and save it on soundcheck.
+Visitor.area mit Eric Heydenfeld & DJ Burdi Call (Brudi love) at Minimal Bar on Sat 21 Nov, Berlin. 1 artist on the bill: Eric Heydenfeld. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

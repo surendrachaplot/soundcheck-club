@@ -1,6 +1,6 @@
 # TECHNOLiEBE A.M. VOL. 48 at Garagen
 
-TECHNOLiEBE A.M. VOL. 48 at Garagen on Wed 30 Sept, Cologne. 1 act on the bill: Niko Tesla. Techno. Preview the line-up and save it on soundcheck.
+TECHNOLiEBE A.M. VOL. 48 at Garagen on Wed 30 Sept, Cologne. 1 artist on the bill: Niko Tesla. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

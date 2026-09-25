@@ -1,6 +1,6 @@
 # Victor Calderone (All Night Long) at Stereo
 
-Victor Calderone (All Night Long) at Stereo on Sat 10 Oct, Montreal. 1 act on the bill: Victor Calderone. Preview the line-up and save it on soundcheck.
+Victor Calderone (All Night Long) at Stereo on Sat 10 Oct, Montreal. 1 artist on the bill: Victor Calderone. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

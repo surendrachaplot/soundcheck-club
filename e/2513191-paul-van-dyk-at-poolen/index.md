@@ -1,6 +1,6 @@
 # Paul Van Dyk at Poolen
 
-Paul Van Dyk at Poolen on Fri 23 Oct, Copenhagen. 1 act on the bill: Paul Van Dyk. Trance and Techno. Preview the line-up and save it on soundcheck.
+Paul Van Dyk at Poolen on Fri 23 Oct, Copenhagen. 1 artist on the bill: Paul Van Dyk. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

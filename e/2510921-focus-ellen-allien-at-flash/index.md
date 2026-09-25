@@ -1,6 +1,6 @@
 # FOCUS: Ellen Allien at Flash
 
-FOCUS: Ellen Allien at Flash on Sat 26 Sept, Washingtondc. 4 acts on the bill: Ellen Allien, MÖSEE, Rommy and softer. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+FOCUS: Ellen Allien at Flash on Sat 26 Sept, Washington DC. 4 artists on the bill: Ellen Allien, MÖSEE, Rommy and softer. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Im Fokus with Habben & Sandilé, salmjak, Savsannah & Philo at Gewölbe
 
-Im Fokus with Habben & Sandilé, salmjak, Savsannah & Philo at Gewölbe on Sat 3 Oct, Cologne. 5 acts on the bill: Philo_, salmjak, Sandilé and Savsannah and 1 more. House. Preview the line-up and save it on soundcheck.
+Im Fokus with Habben & Sandilé, salmjak, Savsannah & Philo at Gewölbe on Sat 3 Oct, Cologne. 5 artists on the bill: Philo_, salmjak, Sandilé and Savsannah and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

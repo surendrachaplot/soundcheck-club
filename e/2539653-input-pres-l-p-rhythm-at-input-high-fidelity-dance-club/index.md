@@ -1,6 +1,6 @@
 # INPUT pres L.P RHYTHM at INPUT High Fidelity Dance Club
 
-INPUT pres L.P RHYTHM at INPUT High Fidelity Dance Club on Sat 21 Nov, Barcelona. 1 act on the bill: L.P. Rhythm. Minimal. Preview the line-up and save it on soundcheck.
+INPUT pres L.P RHYTHM at INPUT High Fidelity Dance Club on Sat 21 Nov, Barcelona. 1 artist on the bill: L.P. Rhythm. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

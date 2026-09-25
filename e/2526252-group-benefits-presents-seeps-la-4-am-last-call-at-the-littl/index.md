@@ -1,6 +1,6 @@
 # Group Benefits presents SEEPS (LA) - 4 AM LAST CALL at The Little Jerry
 
-Group Benefits presents SEEPS (LA) - 4 AM LAST CALL at The Little Jerry on Fri 2 Oct, Toronto. 3 acts on the bill: Janina Marie, Jodie D and SEEPS. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Group Benefits presents SEEPS (LA) - 4 AM LAST CALL at The Little Jerry on Fri 2 Oct, Toronto. 3 artists on the bill: Janina Marie, Jodie D and SEEPS. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

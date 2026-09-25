@@ -1,6 +1,6 @@
 # 303 Records presents: Alignment at 74 Hall
 
-303 Records presents: Alignment at 74 Hall on Fri 13 Nov, Istanbul. 4 acts on the bill: Alignment, Arda Yazkan, SlREN and Taha Sezgin. Techno and Acid. Preview the line-up and save it on soundcheck.
+303 Records presents: Alignment at 74 Hall on Fri 13 Nov, Istanbul. 4 artists on the bill: Alignment, Arda Yazkan, SlREN and Taha Sezgin. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

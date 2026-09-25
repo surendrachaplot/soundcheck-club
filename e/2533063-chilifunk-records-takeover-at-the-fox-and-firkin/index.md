@@ -1,6 +1,6 @@
 # Chilifunk Records Takeover at The Fox and Firkin
 
-Chilifunk Records Takeover at The Fox and Firkin on Thu 22 Oct, London. 1 act on the bill: Lulu Levan. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Chilifunk Records Takeover at The Fox and Firkin on Thu 22 Oct, London. 1 artist on the bill: Lulu Levan. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

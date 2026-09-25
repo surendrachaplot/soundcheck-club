@@ -2,7 +2,7 @@
 
 Florenzo Hiäät is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Eighty-Four Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
-Florenzo Hiäät is a techno and trance artist based in Albania, tracked on soundcheck, with 18 sets logged across Amsterdam, Liverpool and London. Often billed alongside DREIAN, Fernweh (2) and Carlos Martinez. Next up: Eighty-Four Amsterdam, Amsterdam on Wed 21 Oct.
+Florenzo Hiäät is a techno and trance artist based in Albania, tracked on soundcheck, with 18 sets logged across Amsterdam, Liverpool and London. Often billed alongside DREIAN, Fernweh and Carlos Martinez. Next up: Eighty-Four Amsterdam, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Mietze Conte at Bitterzoet
 
-Mietze Conte at Bitterzoet on Sat 28 Nov, Amsterdam. 1 act on the bill: Mietze Conte. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Mietze Conte at Bitterzoet on Sat 28 Nov, Amsterdam. 1 artist on the bill: Mietze Conte. Pop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Yu Su pres. Foundry AV + JJJJJerome Ellis + Memotone at Strange Brew
 
-Yu Su pres. Foundry AV + JJJJJerome Ellis + Memotone at Strange Brew on Wed 7 Oct, Bristol. 3 acts on the bill: JJJJJerome Ellis, Memotone and Yu Su. Ambient and Jazz. Preview the line-up and save it on soundcheck.
+Yu Su pres. Foundry AV + JJJJJerome Ellis + Memotone at Strange Brew on Wed 7 Oct, Bristol. 3 artists on the bill: JJJJJerome Ellis, Memotone and Yu Su. Ambient and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Back To Mine with Roland Gonzales at 416 Snack Bar
 
-Back To Mine with Roland Gonzales at 416 Snack Bar on Tue 29 Sept, Toronto. 1 act on the bill: Roland Gonzales. Preview the line-up and save it on soundcheck.
+Back To Mine with Roland Gonzales at 416 Snack Bar on Tue 29 Sept, Toronto. 1 artist on the bill: Roland Gonzales. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

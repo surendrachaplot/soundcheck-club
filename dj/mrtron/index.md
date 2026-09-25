@@ -2,7 +2,7 @@
 
 Mr. Tron is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Mr. Tron is a techno and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Boston, Buenosaires and Miami. Often billed alongside feph, Souls Departed and True Vine. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Mr. Tron is a techno and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Boston, Buenos Aires and Miami. Often billed alongside feph, Souls Departed and True Vine. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 

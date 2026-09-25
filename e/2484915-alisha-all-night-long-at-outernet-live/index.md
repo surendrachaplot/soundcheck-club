@@ -1,6 +1,6 @@
 # ALISHA - All Night Long at Outernet Live
 
-ALISHA - All Night Long at Outernet Live on Fri 20 Nov, London. 1 act on the bill: ALISHA. House and Tech House. Preview the line-up and save it on soundcheck.
+ALISHA - All Night Long at Outernet Live on Fri 20 Nov, London. 1 artist on the bill: ALISHA. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

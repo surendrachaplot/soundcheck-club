@@ -1,6 +1,6 @@
 # Racket Space presents: IsGwan at The Racket Space
 
-Racket Space presents: IsGwan at The Racket Space on Sat 3 Oct, Dublin. 1 act on the bill: IsGwan. Bass and Garage. Preview the line-up and save it on soundcheck.
+Racket Space presents: IsGwan at The Racket Space on Sat 3 Oct, Dublin. 1 artist on the bill: IsGwan. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

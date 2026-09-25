@@ -1,6 +1,6 @@
 # etc radio at TBA
 
-etc radio at TBA on Fri 16 Oct, Chicago. 2 acts on the bill: Estimulo and m50. Ambient and Acid. Preview the line-up and save it on soundcheck.
+etc radio at TBA on Fri 16 Oct, Chicago. 2 artists on the bill: Estimulo and m50. Ambient and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

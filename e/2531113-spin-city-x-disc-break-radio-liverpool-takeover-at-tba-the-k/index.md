@@ -1,6 +1,6 @@
 # Spin City x Disc Break Radio - Liverpool Takeover at TBA - The Kabin, Kazimier Garden
 
-Spin City x Disc Break Radio - Liverpool Takeover at TBA - The Kabin, Kazimier Garden on Fri 2 Oct, Liverpool. 2 acts on the bill: Fairhurst and Mark Disc Break. House and Disco. Preview the line-up and save it on soundcheck.
+Spin City x Disc Break Radio - Liverpool Takeover at TBA - The Kabin, Kazimier Garden on Fri 2 Oct, Liverpool. 2 artists on the bill: Fairhurst and Mark Disc Break. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

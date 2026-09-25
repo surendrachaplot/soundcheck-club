@@ -1,6 +1,6 @@
 # Pintai (ADE) at Borisov Amsterdam
 
-Pintai (ADE) at Borisov Amsterdam on Fri 23 Oct, Amsterdam. 5 acts on the bill: Gizem, Hafa, Hame (1) and Lb Honne and 1 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Pintai (ADE) at Borisov Amsterdam on Fri 23 Oct, Amsterdam. 5 artists on the bill: Gizem, Hafa, Hame and Lb Honne and 1 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

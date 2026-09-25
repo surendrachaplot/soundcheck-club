@@ -2,7 +2,7 @@
 
 tnt (1) is a Techno and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
-tnt (1) is a techno and drum & bass artist based in United States of America, tracked on soundcheck, with 20 sets logged across Amsterdam, Birmingham, Kualalumpur and London and 9 more. Often billed alongside MC GQ, b-line and BassLayerz. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
+tnt is a techno and drum & bass artist based in United States of America, tracked on soundcheck, with 20 sets logged across Amsterdam, Birmingham, Kuala Lumpur and London and 9 more. Often billed alongside MC GQ, b-line and BassLayerz. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 

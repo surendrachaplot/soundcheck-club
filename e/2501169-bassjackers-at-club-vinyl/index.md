@@ -1,6 +1,6 @@
 # Bassjackers at Club Vinyl
 
-Bassjackers at Club Vinyl on Fri 25 Sept, Denver. 1 act on the bill: Bassjackers. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Bassjackers at Club Vinyl on Fri 25 Sept, Denver. 1 artist on the bill: Bassjackers. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

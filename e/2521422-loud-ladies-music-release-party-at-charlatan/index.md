@@ -1,6 +1,6 @@
 # Loud Ladies Music Release Party at Charlatan
 
-Loud Ladies Music Release Party at Charlatan on Sat 26 Sept, Ghent. 5 acts on the bill: AM.I, AMARE, Cierk du Nuit and Doreen Van Steen and 1 more. Preview the line-up and save it on soundcheck.
+Loud Ladies Music Release Party at Charlatan on Sat 26 Sept, Ghent. 5 artists on the bill: AM.I, AMARE, Cierk du Nuit and Doreen Van Steen and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

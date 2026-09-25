@@ -1,6 +1,6 @@
 # Gemini Sounds 'There Is A Light' EP Release Party at The Bunker @ The Rolling Stock
 
-Gemini Sounds 'There Is A Light' EP Release Party at The Bunker @ The Rolling Stock on Thu 24 Sept, London. 4 acts on the bill: GYS (TT), Marco (UK), Rauschhaus and Suriana. Progressive House. Preview the line-up and save it on soundcheck.
+Gemini Sounds 'There Is A Light' EP Release Party at The Bunker @ The Rolling Stock on Thu 24 Sept, London. 4 artists on the bill: GYS (TT), Marco (UK), Rauschhaus and Suriana. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NAYGOD, Donis / Colored Craig, Cosmo at public records
 
-NAYGOD, Donis / Colored Craig, Cosmo at public records on Sat 10 Oct, Newyorkcity. 4 acts on the bill: Colored Craig, Cosmo (NY), Donis and NAYGOD. House. Preview the line-up and save it on soundcheck.
+NAYGOD, Donis / Colored Craig, Cosmo at public records on Sat 10 Oct, New York City. 4 artists on the bill: Colored Craig, Cosmo (NY), Donis and NAYGOD. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

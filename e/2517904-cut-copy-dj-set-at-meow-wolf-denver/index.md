@@ -1,6 +1,6 @@
 # Cut Copy (DJ Set) at Meow Wolf Denver
 
-Cut Copy (DJ Set) at Meow Wolf Denver on Sat 7 Nov, Denver. 1 act on the bill: Cut Copy. Electronica. Preview the line-up and save it on soundcheck.
+Cut Copy (DJ Set) at Meow Wolf Denver on Sat 7 Nov, Denver. 1 artist on the bill: Cut Copy. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BRENN.XTRAVAGANZA at Alte Feuerwache THF
 
-BRENN.XTRAVAGANZA at Alte Feuerwache THF on Fri 25 Sept, Berlin. 4 acts on the bill: CHUKWU, Flemish.Fetish, TAMARR and VRTL. House and Bass. Preview the line-up and save it on soundcheck.
+BRENN.XTRAVAGANZA at Alte Feuerwache THF on Fri 25 Sept, Berlin. 4 artists on the bill: CHUKWU, Flemish.Fetish, TAMARR and VRTL. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tarzsa at Headrow House
 
-Tarzsa at Headrow House on Fri 4 Dec, Leeds. 1 act on the bill: Tarzsa. Preview the line-up and save it on soundcheck.
+Tarzsa at Headrow House on Fri 4 Dec, Leeds. 1 artist on the bill: Tarzsa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

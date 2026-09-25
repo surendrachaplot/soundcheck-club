@@ -1,6 +1,6 @@
 # Coco & Breezy at BAR15
 
-Coco & Breezy at BAR15 on Fri 23 Oct, Stockholm. 1 act on the bill: Coco & Breezy. House and Afro House. Preview the line-up and save it on soundcheck.
+Coco & Breezy at BAR15 on Fri 23 Oct, Stockholm. 1 artist on the bill: Coco & Breezy. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FREESTYLE NIGHT at Gabriela
 
-FREESTYLE NIGHT at Gabriela on Sun 4 Oct, Newyorkcity. 1 act on the bill: HD (US). Club and Latin Bass. Preview the line-up and save it on soundcheck.
+FREESTYLE NIGHT at Gabriela on Sun 4 Oct, New York City. 1 artist on the bill: HD (US). Club and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

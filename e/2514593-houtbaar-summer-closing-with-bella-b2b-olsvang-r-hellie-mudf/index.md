@@ -1,6 +1,6 @@
 # Houtbaar Summer Closing with BELLA b2b Olsvangėr, Hellie & Mudfat at Houtbaar Haarlem
 
-Houtbaar Summer Closing with BELLA b2b Olsvangėr, Hellie & Mudfat at Houtbaar Haarlem on Sat 26 Sept, Amsterdam. 3 acts on the bill: BELLA (NL), Hellie and Olsvangèr. House. Preview the line-up and save it on soundcheck.
+Houtbaar Summer Closing with BELLA b2b Olsvangėr, Hellie & Mudfat at Houtbaar Haarlem on Sat 26 Sept, Amsterdam. 3 artists on the bill: BELLA (NL), Hellie and Olsvangèr. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

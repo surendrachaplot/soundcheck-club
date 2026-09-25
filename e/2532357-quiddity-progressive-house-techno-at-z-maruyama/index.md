@@ -1,6 +1,6 @@
 # Quiddity (PROGRESSIVE HOUSE/TECHNO) at Z Maruyama
 
-Quiddity (PROGRESSIVE HOUSE/TECHNO) at Z Maruyama on Sat 26 Sept, Tokyo. 3 acts on the bill: AHREUM, Kris Fuji and Miel. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Quiddity (PROGRESSIVE HOUSE/TECHNO) at Z Maruyama on Sat 26 Sept, Tokyo. 3 artists on the bill: AHREUM, Kris Fuji and Miel. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

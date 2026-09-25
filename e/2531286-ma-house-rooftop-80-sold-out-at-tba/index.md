@@ -1,6 +1,6 @@
 # MA House ROOFTOP - 80% SOLD OUT at TBA
 
-MA House ROOFTOP - 80% SOLD OUT at TBA on Sun 27 Sept, Barcelona. 4 acts on the bill: Alex Silva, Charlins, DJ Mats and DJ Tortuga. House and Afro House. Preview the line-up and save it on soundcheck.
+MA House ROOFTOP - 80% SOLD OUT at TBA on Sun 27 Sept, Barcelona. 4 artists on the bill: Alex Silva, Charlins, DJ Mats and DJ Tortuga. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

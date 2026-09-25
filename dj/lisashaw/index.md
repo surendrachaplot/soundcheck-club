@@ -2,7 +2,7 @@
 
 Lisa Shaw is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jungle Hollywood, Los Angeles on Sat, 24 Oct 2026.
 
-Lisa Shaw is a deep house and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Losangeles, Miami, Sandiego and Sanfrancisco and 2 more. Often billed alongside Miguel Migs, DJ Colette and Jay-J. Next up: Jungle Hollywood, Losangeles on Sat 24 Oct.
+Lisa Shaw is a deep house and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Los Angeles, Miami, San Diego and San Francisco/Oakland and 2 more. Often billed alongside Miguel Migs, DJ Colette and Jay-J. Next up: Jungle Hollywood, Los Angeles on Sat 24 Oct.
 
 ## Upcoming shows
 

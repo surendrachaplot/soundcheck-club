@@ -1,8 +1,8 @@
 # Afas Live
 
-Afas Live is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Jean-Michel Jarre: OXYGENE & BEYOND: A Sonic Journey Celebrating 30 Years of ADE" on Wed, 21 Oct 2026.
+Afas Live is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Jean-Michel Jarre: OXYGENE & BEYOND: A Sonic Journey Celebrating 30 Years of ADE" on Wed, 21 Oct 2026.
 
-Afas Live is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Afrojack, AJNA, Alycia Bezgo and BØĘRY and 2 more. Browse upcoming dates, start times and who's playing. Johan Cruijff Boulevard 590 1101 DS Amsterdam.
+Afas Live is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Afrojack, AJNA, Alycia Bezgo and A.N.I. and 2 more. Browse upcoming dates, start times and who's playing. Johan Cruijff Boulevard 590 1101 DS Amsterdam.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Afas Live is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, w
 | Sat, 24 Oct 2026 | VERKNIPT ADE SPECIAL | KARAH |
 | Sun, 25 Oct 2026 | VERKNIPT ADE Special Sunday | Alycia Bezgo, BØĘRY, IOSIO, Jeno, KLOFAMA, Raxeller, SLVL, Samuel Moriero (2), Tess (MU), TiTi, Winson |
 | Sat, 5 Dec 2026 | Vieze Asbak b2b KRUELTY ADL | KRUELTY, Vieze Asbak |
+| Thu, 31 Dec 2026 | FYM x Teletech New Years | A.N.I., DYEN, KIRSTY, KLOFAMA, KRUELTY, Kander, LIVIA (3), NIKOLINA_, Onlynumbers, Restricted, SLVL, Samuel Moriero (2), Winson Ngoh, Yoshiko, myu:sa |
 
 ## Address
 

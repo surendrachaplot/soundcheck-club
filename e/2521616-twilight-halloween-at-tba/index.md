@@ -1,6 +1,6 @@
 # Twilight Halloween at TBA
 
-Twilight Halloween at TBA on Sat 31 Oct, London. 1 act on the bill: E.V.P. Psytrance. Preview the line-up and save it on soundcheck.
+Twilight Halloween at TBA on Sat 31 Oct, London. 1 artist on the bill: E.V.P. Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Jake From State Pharm is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jupiter Disco, New York City on Thu, 1 Oct 2026.
 
-Jake From State Pharm is a house and progressive house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Han G, Eau Yang and 2melo. Next up: Jupiter Disco, Newyorkcity on Thu 1 Oct.
+Jake From State Pharm is a house and progressive house artist based in United States of America, tracked on soundcheck, with 8 sets logged across New York City. Often billed alongside Han G, Eau Yang and 2melo. Next up: Jupiter Disco, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 

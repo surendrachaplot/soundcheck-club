@@ -1,6 +1,6 @@
 # Vino Disco FRIDAY at Vino Disco
 
-Vino Disco FRIDAY on Fri 25 Sept, Montreal. 2 acts on the bill: Latour and Manuel Falardeau. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Vino Disco FRIDAY on Fri 25 Sept, Montreal. 2 artists on the bill: Latour and Manuel Falardeau. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

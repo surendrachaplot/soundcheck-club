@@ -1,6 +1,6 @@
 # Kaskade at Radius
 
-Kaskade at Radius on Fri 6 Nov, Chicago. 1 act on the bill: Kaskade. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Kaskade at Radius on Fri 6 Nov, Chicago. 1 artist on the bill: Kaskade. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

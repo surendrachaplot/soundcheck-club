@@ -1,6 +1,6 @@
 # Church Andrews & Matt Davies / Elsa Hewitt / Kirk Barley Triple Header at PINK
 
-Church Andrews & Matt Davies / Elsa Hewitt / Kirk Barley Triple Header at PINK on Sat 17 Oct, Manchester. 2 acts on the bill: Elsa Hewitt and Matt Davies. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Church Andrews & Matt Davies / Elsa Hewitt / Kirk Barley Triple Header at PINK on Sat 17 Oct, Manchester. 2 artists on the bill: Elsa Hewitt and Matt Davies. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Musumeci (Innervisions), Borgetti (Multinotes), Imanol Igoa (Gozar) at Bar Oriente
 
-Musumeci (Innervisions), Borgetti (Multinotes), Imanol Igoa (Gozar) at Bar Oriente on Fri 2 Oct, Mexicocity. 2 acts on the bill: Borgetti and Musumeci. Tech House. Preview the line-up and save it on soundcheck.
+Musumeci (Innervisions), Borgetti (Multinotes), Imanol Igoa (Gozar) at Bar Oriente on Fri 2 Oct, Mexico City. 2 artists on the bill: Borgetti and Musumeci. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

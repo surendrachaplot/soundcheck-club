@@ -1,6 +1,6 @@
 # 残響 / Zankyō at Monkeybar
 
-残響 / Zankyō at Monkeybar on Fri 25 Sept, Tokyo. 1 act on the bill: AQ. Techno and House. Preview the line-up and save it on soundcheck.
+残響 / Zankyō at Monkeybar on Fri 25 Sept, Tokyo. 1 artist on the bill: AQ. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

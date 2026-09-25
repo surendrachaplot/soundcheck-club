@@ -1,6 +1,6 @@
 # Mathame All Night Long at Phantom, Paris
 
-Mathame All Night Long at Phantom, Paris on Fri 9 Oct, Paris. 1 act on the bill: Mathame. Preview the line-up and save it on soundcheck.
+Mathame All Night Long at Phantom, Paris on Fri 9 Oct, Paris. 1 artist on the bill: Mathame. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

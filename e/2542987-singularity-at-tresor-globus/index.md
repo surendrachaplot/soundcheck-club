@@ -1,6 +1,6 @@
 # ◥◣SINGULARITY◥◣ at Tresor / Globus
 
-◥◣SINGULARITY◥◣ at Tresor / Globus on Mon 5 Oct, Berlin. 4 acts on the bill: Elis, Inverse Element, MarcelDune and SOLE DOSI. Techno. Preview the line-up and save it on soundcheck.
+◥◣SINGULARITY◥◣ at Tresor / Globus on Mon 5 Oct, Berlin. 4 artists on the bill: Elis, Inverse Element, MarcelDune and SOLE DOSI. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

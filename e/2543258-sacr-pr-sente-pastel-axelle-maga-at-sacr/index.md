@@ -1,6 +1,6 @@
 # Sacré présente: Pastel & Axelle Maga at Sacré
 
-Sacré présente: Pastel & Axelle Maga on Sat 24 Oct, Paris. 1 act on the bill: Axelle Maga. House and Disco. Preview the line-up and save it on soundcheck.
+Sacré présente: Pastel & Axelle Maga on Sat 24 Oct, Paris. 1 artist on the bill: Axelle Maga. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

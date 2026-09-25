@@ -1,6 +1,6 @@
 # NIGHTSWITHUS presents: LEVI at Rheinriff Düsseldorf at TBA - Rheinriff Düsseldorf
 
-NIGHTSWITHUS presents: LEVI at Rheinriff Düsseldorf at TBA - Rheinriff Düsseldorf on Sat 10 Oct, Dusseldorf. 1 act on the bill: Levi (AU). Deep House and Afro House. Preview the line-up and save it on soundcheck.
+NIGHTSWITHUS presents: LEVI at Rheinriff Düsseldorf at TBA - Rheinriff Düsseldorf on Sat 10 Oct, Düsseldorf. 1 artist on the bill: Levi (AU). Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

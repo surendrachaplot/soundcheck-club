@@ -1,6 +1,6 @@
 # Malive at Lula Club
 
-Malive at Lula Club on Fri 30 Oct, Madrid. 1 act on the bill: Malive. Preview the line-up and save it on soundcheck.
+Malive at Lula Club on Fri 30 Oct, Madrid. 1 artist on the bill: Malive. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

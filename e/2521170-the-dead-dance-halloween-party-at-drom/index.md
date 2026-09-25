@@ -1,6 +1,6 @@
 # THE DEAD DANCE [HALLOWEEN PARTY] at Drom
 
-THE DEAD DANCE [HALLOWEEN PARTY] at Drom on Sat 24 Oct, Newyorkcity. Pop. Preview the line-up and save it on soundcheck.
+THE DEAD DANCE [HALLOWEEN PARTY] at Drom on Sat 24 Oct, New York City. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

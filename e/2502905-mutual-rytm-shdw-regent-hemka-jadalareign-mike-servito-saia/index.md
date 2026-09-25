@@ -1,6 +1,6 @@
 # MUTUAL RYTM: SHDW / Regent / Hemka / JADALAREIGN / Mike Servito / Saia at BASEMENT
 
-MUTUAL RYTM: SHDW / Regent / Hemka / JADALAREIGN / Mike Servito / Saia at BASEMENT on Fri 25 Sept, Newyorkcity. 6 acts on the bill: Hemka, JADALAREIGN, Mike Servito and Regent and 2 more. Preview the line-up and save it on soundcheck.
+MUTUAL RYTM: SHDW / Regent / Hemka / JADALAREIGN / Mike Servito / Saia at BASEMENT on Fri 25 Sept, New York City. 6 artists on the bill: Hemka, JADALAREIGN, Mike Servito and Regent and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

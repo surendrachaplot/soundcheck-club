@@ -1,6 +1,6 @@
 # Silly Little Disco 002 at Six Trees Bar And Kitchen Manchester
 
-Silly Little Disco 002 at Six Trees Bar And Kitchen Manchester on Fri 30 Oct, Manchester. 1 act on the bill: LEZZER QUEST. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Silly Little Disco 002 at Six Trees Bar And Kitchen Manchester on Fri 30 Oct, Manchester. 1 artist on the bill: LEZZER QUEST. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

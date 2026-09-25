@@ -1,6 +1,6 @@
 # { c o a l e s c e n c e } :: Lonefront [live] at TBA - west end 
 
-{ c o a l e s c e n c e } :: Lonefront [live] at TBA - west end  on Fri 2 Oct, Toronto. 5 acts on the bill: Amrkv, Esther Côté, Lonefront and Michael Krochak and 1 more. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+{ c o a l e s c e n c e } :: Lonefront [live] at TBA - west end  on Fri 2 Oct, Toronto. 5 artists on the bill: Amrkv, Esther Côté, Lonefront and Michael Krochak and 1 more. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

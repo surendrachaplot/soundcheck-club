@@ -1,6 +1,6 @@
 # Unique at UTOPIA / DYSTOPIA
 
-Unique at UTOPIA / DYSTOPIA on Sat 24 Oct, Tokyo. 7 acts on the bill: Anri, ki (43), Krankent and SIGNAL (JP) and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Unique at UTOPIA / DYSTOPIA on Sat 24 Oct, Tokyo. 7 artists on the bill: Anri, ki, Krankent and SIGNAL (JP) and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

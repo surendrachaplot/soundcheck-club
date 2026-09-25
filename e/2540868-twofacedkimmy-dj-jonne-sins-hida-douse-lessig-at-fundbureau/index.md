@@ -1,6 +1,6 @@
 # TWOFACEDKIMMY // DJ Jonne Sins // Hida Douse // LESSIG at Fundbureau
 
-TWOFACEDKIMMY // DJ Jonne Sins // Hida Douse // LESSIG at Fundbureau on Fri 9 Oct, Hamburg. 3 acts on the bill: DJ Jonne Sins, Hida Douse and TWOFACEDKIMMY. Trance and Techno. Preview the line-up and save it on soundcheck.
+TWOFACEDKIMMY // DJ Jonne Sins // Hida Douse // LESSIG at Fundbureau on Fri 9 Oct, Hamburg. 3 artists on the bill: DJ Jonne Sins, Hida Douse and TWOFACEDKIMMY. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Grand Prix invites Upper90 at Klub K4
 
-Grand Prix invites Upper90 at Klub K4 on Sat 24 Oct, Ljubljana. 4 acts on the bill: Flacc, LEANNE, RotorMotor and Upper90. Preview the line-up and save it on soundcheck.
+Grand Prix invites Upper90 at Klub K4 on Sat 24 Oct, Ljubljana. 4 artists on the bill: Flacc, LEANNE, RotorMotor and Upper90. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

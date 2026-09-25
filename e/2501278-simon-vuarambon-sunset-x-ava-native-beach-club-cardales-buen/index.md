@@ -1,6 +1,6 @@
 # Simon Vuarambon, Sunset x Ava, Native Beach Club, Cardales Buenos Aires at TBA - Native Beach Club, Cardales
 
-Simon Vuarambon, Sunset x Ava, Native Beach Club, Cardales Buenos Aires at TBA - Native Beach Club, Cardales on Sat 26 Sept, Buenosaires. 2 acts on the bill: Figueras and Simon Vuarambon. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Simon Vuarambon, Sunset x Ava, Native Beach Club, Cardales Buenos Aires at TBA - Native Beach Club, Cardales on Sat 26 Sept, Buenos Aires. 2 artists on the bill: Figueras and Simon Vuarambon. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

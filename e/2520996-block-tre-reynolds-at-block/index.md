@@ -1,6 +1,6 @@
 # Block: Tre Reynolds at block.
 
-Block: Tre Reynolds at block. on Fri 25 Sept, Dublin. 1 act on the bill: Tre Reynolds. Electronica. Preview the line-up and save it on soundcheck.
+Block: Tre Reynolds at block. on Fri 25 Sept, Dublin. 1 artist on the bill: Tre Reynolds. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

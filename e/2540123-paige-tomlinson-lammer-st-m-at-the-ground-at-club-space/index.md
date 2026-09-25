@@ -1,6 +1,6 @@
 # Paige Tomlinson + LAMMER + STÜM at The Ground at Club Space
 
-Paige Tomlinson + LAMMER + STÜM at The Ground at Club Space on Fri 6 Nov, Miami. 4 acts on the bill: ALEJO (US), LAMMER, Paige Tomlinson and STÜM. Trance and Techno. Preview the line-up and save it on soundcheck.
+Paige Tomlinson + LAMMER + STÜM at The Ground at Club Space on Fri 6 Nov, Miami. 4 artists on the bill: ALEJO (US), LAMMER, Paige Tomlinson and STÜM. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

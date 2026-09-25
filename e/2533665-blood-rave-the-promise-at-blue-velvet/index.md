@@ -1,6 +1,6 @@
 # Blood Rave: The Promise at Blue Velvet
 
-Blood Rave: The Promise at Blue Velvet on Fri 25 Sept, Berlin. 2 acts on the bill: dj career and JCow. Preview the line-up and save it on soundcheck.
+Blood Rave: The Promise at Blue Velvet on Fri 25 Sept, Berlin. 2 artists on the bill: dj career and JCow. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

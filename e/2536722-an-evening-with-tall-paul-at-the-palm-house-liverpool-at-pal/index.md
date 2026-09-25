@@ -1,6 +1,6 @@
 # An Evening With Tall Paul at The Palm House - Liverpool at Palm House
 
-An Evening With Tall Paul at The Palm House - Liverpool on Fri 27 Nov, Liverpool. 1 act on the bill: Tall Paul. Trance and House. Preview the line-up and save it on soundcheck.
+An Evening With Tall Paul at The Palm House - Liverpool on Fri 27 Nov, Liverpool. 1 artist on the bill: Tall Paul. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

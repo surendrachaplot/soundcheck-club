@@ -1,6 +1,6 @@
 # Warehouse - Charlotte de Witte at TBA
 
-Warehouse - Charlotte de Witte at TBA on Sat 28 Nov, Zurich. 1 act on the bill: Charlotte de Witte. Techno. Preview the line-up and save it on soundcheck.
+Warehouse - Charlotte de Witte at TBA on Sat 28 Nov, Zurich. 1 artist on the bill: Charlotte de Witte. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

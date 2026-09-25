@@ -1,6 +1,6 @@
 # KDW x KØSE BACKYARD 'FALL EDITION' - TECHNO + MARKET & EXHIBITION at Lokschuppen Berlin
 
-KDW x KØSE BACKYARD 'FALL EDITION' - TECHNO + MARKET & EXHIBITION at Lokschuppen Berlin on Sun 27 Sept, Berlin. 4 acts on the bill: Ayham, STŒWE, UniKhatu and XHOUSTED. Techno and Experimental. Preview the line-up and save it on soundcheck.
+KDW x KØSE BACKYARD 'FALL EDITION' - TECHNO + MARKET & EXHIBITION at Lokschuppen Berlin on Sun 27 Sept, Berlin. 4 artists on the bill: Ayham, STŒWE, UniKhatu and XHOUSTED. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

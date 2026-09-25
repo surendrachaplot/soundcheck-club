@@ -2,7 +2,7 @@
 
 Magnolia Coronado is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Mexico City on Sat, 10 Oct 2026.
 
-Magnolia Coronado is a techno and house artist based in Mexico, tracked on soundcheck, with 83 sets logged across Mexicocity and Miami. Often billed alongside Enya Botello, Ann García and Dj Fucci. Next up: TBA, Mexicocity on Sat 10 Oct.
+Magnolia Coronado is a techno and house artist based in Mexico, tracked on soundcheck, with 83 sets logged across Mexico City and Miami. Often billed alongside Enya Botello, Ann García and Dj Fucci. Next up: TBA, Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # YOUTH: Duster Valentine / Grace Sands / Lyster at The White Hotel
 
-YOUTH: Duster Valentine / Grace Sands / Lyster at The White Hotel on Sat 3 Oct, Manchester. 2 acts on the bill: DJ Lyster and Grace Sands. Preview the line-up and save it on soundcheck.
+YOUTH: Duster Valentine / Grace Sands / Lyster at The White Hotel on Sat 3 Oct, Manchester. 2 artists on the bill: DJ Lyster and Grace Sands. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

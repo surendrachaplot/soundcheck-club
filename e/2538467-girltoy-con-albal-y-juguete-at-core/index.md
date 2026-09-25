@@ -1,6 +1,6 @@
 # Girltoy con Albal y Juguete at Core
 
-Girltoy con Albal y Juguete at Core on Sat 26 Sept, Madrid. 2 acts on the bill: Albal and Juguete. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Girltoy con Albal y Juguete at Core on Sat 26 Sept, Madrid. 2 artists on the bill: Albal and Juguete. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

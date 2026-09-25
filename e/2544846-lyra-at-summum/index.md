@@ -1,6 +1,6 @@
 # LYRA at Summum
 
-LYRA at Summum on Fri 16 Oct, Ibiza. 3 acts on the bill: Alviker, AntZ (2) and FLAKOO. Acid and Balearic. Preview the line-up and save it on soundcheck.
+LYRA at Summum on Fri 16 Oct, Ibiza. 3 artists on the bill: Alviker, AntZ and FLAKOO. Acid and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Digital x Special Delivery presents: Dan Ghenacia, Captain Wallop + Special Guest at Ouseburn Garden
 
-Digital x Special Delivery presents: Dan Ghenacia, Captain Wallop + Special Guest at Ouseburn Garden on Sat 26 Sept, Newcastle. 4 acts on the bill: Adam Lance, Captain Wallop, Dan Ghenacia and Wakka. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Digital x Special Delivery presents: Dan Ghenacia, Captain Wallop + Special Guest at Ouseburn Garden on Sat 26 Sept, Newcastle. 4 artists on the bill: Adam Lance, Captain Wallop, Dan Ghenacia and Wakka. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

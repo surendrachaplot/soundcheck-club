@@ -1,6 +1,6 @@
 # HOLIDAY ORDERS at BAR Inc
 
-HOLIDAY ORDERS at BAR Inc on Sun 18 Oct, Osaka. 2 acts on the bill: Gallo and Kaory. House and Balearic. Preview the line-up and save it on soundcheck.
+HOLIDAY ORDERS at BAR Inc on Sun 18 Oct, Osaka. 2 artists on the bill: Gallo and Kaory. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

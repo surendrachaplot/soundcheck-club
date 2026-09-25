@@ -1,6 +1,6 @@
 # WORK presents: DVS1 [4 Hour Set], Mary Yuzovskaya, & Pleasures at TBA - Los Angeles
 
-WORK presents: DVS1 [4 Hour Set], Mary Yuzovskaya, & Pleasures at TBA - Los Angeles on Sat 10 Oct, Losangeles. 3 acts on the bill: DVS1, Mary Yuzovskaya and PLEASURES (US). Techno. Preview the line-up and save it on soundcheck.
+WORK presents: DVS1 [4 Hour Set], Mary Yuzovskaya, & Pleasures at TBA - Los Angeles on Sat 10 Oct, Los Angeles. 3 artists on the bill: DVS1, Mary Yuzovskaya and PLEASURES (US). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

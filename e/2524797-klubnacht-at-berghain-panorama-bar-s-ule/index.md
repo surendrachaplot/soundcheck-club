@@ -1,6 +1,6 @@
 # Klubnacht at Berghain | Panorama Bar | Säule
 
-Klubnacht at Berghain | Panorama Bar | Säule on Sat 3 Oct, Berlin. 15 acts on the bill: abs8lute, AMORAL, Answer Code Request and Barbara Preisinger and 11 more. Preview the line-up and save it on soundcheck.
+Klubnacht at Berghain | Panorama Bar | Säule on Sat 3 Oct, Berlin. 15 artists on the bill: abs8lute, AMORAL, Answer Code Request and Barbara Preisinger and 11 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

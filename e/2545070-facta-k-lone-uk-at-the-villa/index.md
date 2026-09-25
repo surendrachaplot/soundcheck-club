@@ -1,6 +1,6 @@
 # Facta & K-LONE (UK) at The Villa
 
-Facta & K-LONE (UK) at The Villa on Sat 10 Oct, Oslo. 2 acts on the bill: Facta and K-LONE. Techno and House. Preview the line-up and save it on soundcheck.
+Facta & K-LONE (UK) at The Villa on Sat 10 Oct, Oslo. 2 artists on the bill: Facta and K-LONE. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

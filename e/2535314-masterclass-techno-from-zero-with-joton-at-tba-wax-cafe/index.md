@@ -1,6 +1,6 @@
 # MASTERCLASS: Techno From Zero with Joton at TBA - WAX CAFE
 
-MASTERCLASS: Techno From Zero with Joton at TBA - WAX CAFE on Fri 9 Oct, Ibiza. 1 act on the bill: Joton. Techno and Electronica. Preview the line-up and save it on soundcheck.
+MASTERCLASS: Techno From Zero with Joton at TBA - WAX CAFE on Fri 9 Oct, Ibiza. 1 artist on the bill: Joton. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

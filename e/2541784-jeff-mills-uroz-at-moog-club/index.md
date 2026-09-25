@@ -1,6 +1,6 @@
 # Jeff Mills + uroz at Moog Club
 
-Jeff Mills + uroz at Moog Club on Wed 28 Oct, Barcelona. 2 acts on the bill: Jeff Mills and uroz. Techno. Preview the line-up and save it on soundcheck.
+Jeff Mills + uroz at Moog Club on Wed 28 Oct, Barcelona. 2 artists on the bill: Jeff Mills and uroz. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

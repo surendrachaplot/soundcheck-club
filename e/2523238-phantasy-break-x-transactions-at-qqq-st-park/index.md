@@ -1,6 +1,6 @@
 # PHANTASY BREAK X TRANSACTIONS at QQQ ST. Park
 
-PHANTASY BREAK X TRANSACTIONS at QQQ ST. Park on Fri 25 Sept, Melbourne. 1 act on the bill: zazalikeraaa. Hardcore and Electronica. Preview the line-up and save it on soundcheck.
+PHANTASY BREAK X TRANSACTIONS at QQQ ST. Park on Fri 25 Sept, Melbourne. 1 artist on the bill: zazalikeraaa. Hardcore and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

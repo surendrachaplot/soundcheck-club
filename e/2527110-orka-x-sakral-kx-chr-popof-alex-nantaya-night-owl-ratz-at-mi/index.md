@@ -1,6 +1,6 @@
 # Orka x Sakral : KX CHR, Popof, Alex Nantaya, Night Owl, RATZ at Mia Mao
 
-Orka x Sakral : KX CHR, Popof, Alex Nantaya, Night Owl, RATZ at Mia Mao on Sat 26 Sept, Paris. 4 acts on the bill: Alex Nantaya, KX CHR, Night Owl and Popof. Techno. Preview the line-up and save it on soundcheck.
+Orka x Sakral : KX CHR, Popof, Alex Nantaya, Night Owl, RATZ at Mia Mao on Sat 26 Sept, Paris. 4 artists on the bill: Alex Nantaya, KX CHR, Night Owl and Popof. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

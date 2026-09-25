@@ -1,6 +1,6 @@
 # Kaiku presents: Freddy K at Kaiku
 
-Kaiku presents: Freddy K on Fri 25 Sept, Helsinki. 4 acts on the bill: CEB (FI), Freddy K, kixaena and Lil Tony. Preview the line-up and save it on soundcheck.
+Kaiku presents: Freddy K on Fri 25 Sept, Helsinki. 4 artists on the bill: CEB (FI), Freddy K, kixaena and Lil Tony. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

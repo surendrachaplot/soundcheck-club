@@ -1,6 +1,6 @@
 # Acephalic Headspace with Narciso (Principe), ex:EN+Ildiko at TBA
 
-Acephalic Headspace with Narciso (Principe), ex:EN+Ildiko at TBA on Sat 28 Nov, Berlin. 5 acts on the bill: Anna Butter, DJ Narciso, DON'T DJ and Ildikó and 1 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Acephalic Headspace with Narciso (Principe), ex:EN+Ildiko at TBA on Sat 28 Nov, Berlin. 5 artists on the bill: Anna Butter, DJ Narciso, DON'T DJ and Ildikó and 1 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

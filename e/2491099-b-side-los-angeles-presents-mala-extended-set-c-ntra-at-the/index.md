@@ -1,6 +1,6 @@
 # B-Side Los Angeles presents: Mala (Extended Set) & CØNTRA at The Compound by Dirt Dog
 
-B-Side Los Angeles presents: Mala (Extended Set) & CØNTRA at The Compound by Dirt Dog on Fri 2 Oct, Losangeles. 2 acts on the bill: Contra and Mala. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+B-Side Los Angeles presents: Mala (Extended Set) & CØNTRA at The Compound by Dirt Dog on Fri 2 Oct, Los Angeles. 2 artists on the bill: Contra and Mala. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Coffintexts B2B x3butterfly at Smoke & Mirrors
 
-Coffintexts B2B x3butterfly at Smoke & Mirrors on Sat 3 Oct, Chicago. 3 acts on the bill: Coffintexts, dysphazia and x3butterfly. Techno and House. Preview the line-up and save it on soundcheck.
+Coffintexts B2B x3butterfly at Smoke & Mirrors on Sat 3 Oct, Chicago. 3 artists on the bill: Coffintexts, dysphazia and x3butterfly. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

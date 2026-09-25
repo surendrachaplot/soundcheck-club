@@ -1,6 +1,6 @@
 # Hot Chip DJ Set at The Independent
 
-Hot Chip DJ Set at The Independent on Sun 27 Sept, Sanfrancisco. 1 act on the bill: Hot Chip. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Hot Chip DJ Set at The Independent on Sun 27 Sept, San Francisco/Oakland. 1 artist on the bill: Hot Chip. Pop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

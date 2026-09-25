@@ -1,6 +1,6 @@
 # Private Hearts Club ADE '26 at Café Soleil Amsterdam
 
-Private Hearts Club ADE '26 at Café Soleil Amsterdam on Sat 24 Oct, Amsterdam. 4 acts on the bill: Eileen (NL), Elias Mazian, Fantastic Man and Tornado Wallace. House and Deep House. Preview the line-up and save it on soundcheck.
+Private Hearts Club ADE '26 at Café Soleil Amsterdam on Sat 24 Oct, Amsterdam. 4 artists on the bill: Eileen (NL), Elias Mazian, Fantastic Man and Tornado Wallace. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

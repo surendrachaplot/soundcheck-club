@@ -1,6 +1,6 @@
 # NICKELMAN / Mangoes II Release Party at Socore Factory
 
-NICKELMAN / Mangoes II Release Party at Socore Factory on Sat 7 Nov, Osaka. 1 act on the bill: GEBO. Hip-Hop. Preview the line-up and save it on soundcheck.
+NICKELMAN / Mangoes II Release Party at Socore Factory on Sat 7 Nov, Osaka. 1 artist on the bill: GEBO. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Faustin & ferrari rot at nachbar
 
-Faustin & ferrari rot at nachbar on Sat 26 Sept, Amsterdam. 2 acts on the bill: Faustin and ferrari rot. Preview the line-up and save it on soundcheck.
+Faustin & ferrari rot at nachbar on Sat 26 Sept, Amsterdam. 2 artists on the bill: Faustin and ferrari rot. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

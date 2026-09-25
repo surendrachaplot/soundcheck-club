@@ -1,6 +1,6 @@
 # Sundown Music Festival at Superordinary
 
-Sundown Music Festival at Superordinary on Sat 3 Oct, Brisbane. 1 act on the bill: LAVERN. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Sundown Music Festival at Superordinary on Sat 3 Oct, Brisbane. 1 artist on the bill: LAVERN. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

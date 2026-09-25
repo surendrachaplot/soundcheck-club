@@ -2,7 +2,7 @@
 
 Snooko is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-Snooko is a house and tech house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Chicago, Miami and Sanfrancisco. Often billed alongside JACK MARLOW, Rello and Thunderpony. Next up: TBA - San Francisco, Sanfrancisco on Fri 25 Sept.
+Snooko is a house and tech house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Chicago, Miami and San Francisco/Oakland. Often billed alongside JACK MARLOW, Rello and Thunderpony. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 25 Sept.
 
 ## Upcoming shows
 

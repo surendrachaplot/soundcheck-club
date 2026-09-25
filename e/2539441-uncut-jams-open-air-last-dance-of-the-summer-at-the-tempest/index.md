@@ -1,6 +1,6 @@
 # Uncut Jams Open Air - Last Dance of the Summer at The Tempest Inn
 
-Uncut Jams Open Air - Last Dance of the Summer at The Tempest Inn on Fri 25 Sept, Brighton. 3 acts on the bill: Adam Romo, boogielou and Oh See. House and Disco. Preview the line-up and save it on soundcheck.
+Uncut Jams Open Air - Last Dance of the Summer at The Tempest Inn on Fri 25 Sept, Brighton. 3 artists on the bill: Adam Romo, boogielou and Oh See. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

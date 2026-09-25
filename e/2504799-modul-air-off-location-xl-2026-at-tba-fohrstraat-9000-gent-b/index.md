@@ -1,6 +1,6 @@
 # MODUL'AIR Off-Location XL 2026 at TBA - Fohrstraat, 9000 Gent, België
 
-MODUL'AIR Off-Location XL 2026 at TBA - Fohrstraat, 9000 Gent, België on Sat 26 Sept, Ghent. 16 acts on the bill: ANXHELA, Bella Claxton, Dr. G and Emma Moon and 12 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+MODUL'AIR Off-Location XL 2026 at TBA - Fohrstraat, 9000 Gent, België on Sat 26 Sept, Ghent. 16 artists on the bill: ANXHELA, Bella Claxton, Dr. G and Emma Moon and 12 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # XCX WORLD at Arch
 
-XCX WORLD at Arch on Fri 23 Oct, Tokyo. 1 act on the bill: MAXIM (8). Club. Preview the line-up and save it on soundcheck.
+XCX WORLD at Arch on Fri 23 Oct, Tokyo. 1 artist on the bill: MAXIM. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

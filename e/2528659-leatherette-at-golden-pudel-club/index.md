@@ -1,6 +1,6 @@
 # Leatherette at Golden Pudel Club
 
-Leatherette at Golden Pudel Club on Sat 3 Oct, Hamburg. 5 acts on the bill: Bézier, BrthrMidnyt, cristian zanotti and DSGNRPSSY and 1 more. Electro and EBM. Preview the line-up and save it on soundcheck.
+Leatherette at Golden Pudel Club on Sat 3 Oct, Hamburg. 5 artists on the bill: Bézier, BrthrMidnyt, cristian zanotti and DSGNRPSSY and 1 more. Electro and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

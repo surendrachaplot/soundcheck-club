@@ -1,6 +1,6 @@
 # Midwife at The White Hotel
 
-Midwife at The White Hotel on Tue 3 Nov, Manchester. 1 act on the bill: Midwife. Ambient. Preview the line-up and save it on soundcheck.
+Midwife at The White Hotel on Tue 3 Nov, Manchester. 1 artist on the bill: Midwife. Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

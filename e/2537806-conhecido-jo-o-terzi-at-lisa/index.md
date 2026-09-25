@@ -1,6 +1,6 @@
 # Conhecido João & Terzi at Lisa
 
-Conhecido João & Terzi at Lisa on Fri 25 Sept, Lisbon. 1 act on the bill: Terzi. Bass and Acid. Preview the line-up and save it on soundcheck.
+Conhecido João & Terzi at Lisa on Fri 25 Sept, Lisbon. 1 artist on the bill: Terzi. Bass and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

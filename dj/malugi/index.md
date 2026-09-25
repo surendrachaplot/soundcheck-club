@@ -1,8 +1,8 @@
 # MALUGI
 
-MALUGI is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
+MALUGI is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
 
-MALUGI is a techno and house artist based in Germany, tracked on soundcheck, with 226 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 55 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
+MALUGI is a techno and house artist based in Germany, tracked on soundcheck, with 227 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 56 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ MALUGI is a techno and house artist based in Germany, tracked on soundcheck, wit
 | Sat, 24 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
+| Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Sat, 7 Nov 2026 | Coda | Toronto |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 

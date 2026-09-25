@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: DJ Assault at YuYu Cine Club
 
-Yu Yu Cine Club: DJ Assault at YuYu Cine Club on Sat 17 Oct, Mexicocity. 3 acts on the bill: DJ Assault, Marea Marea and Teen Flirt. Preview the line-up and save it on soundcheck.
+Yu Yu Cine Club: DJ Assault at YuYu Cine Club on Sat 17 Oct, Mexico City. 3 artists on the bill: DJ Assault, Marea Marea and Teen Flirt. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

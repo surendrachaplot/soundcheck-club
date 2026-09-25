@@ -1,6 +1,6 @@
 # Anyasa at Halcyon
 
-Anyasa at Halcyon on Sat 3 Oct, Sanfrancisco. 1 act on the bill: Anyasa. Preview the line-up and save it on soundcheck.
+Anyasa at Halcyon on Sat 3 Oct, San Francisco/Oakland. 1 artist on the bill: Anyasa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

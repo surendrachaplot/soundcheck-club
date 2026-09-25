@@ -1,6 +1,6 @@
 # Choke mit Fadi Mohem & KUSS at EXIL
 
-Choke mit Fadi Mohem & KUSS at EXIL on Fri 16 Oct, Zurich. 3 acts on the bill: Fadi Mohem, Kuona and KUSS. Preview the line-up and save it on soundcheck.
+Choke mit Fadi Mohem & KUSS at EXIL on Fri 16 Oct, Zurich. 3 artists on the bill: Fadi Mohem, Kuona and KUSS. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

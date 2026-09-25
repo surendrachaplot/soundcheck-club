@@ -1,6 +1,6 @@
 # Sounds + Visuals By SPACES at The Sugar Club
 
-Sounds + Visuals By SPACES at The Sugar Club on Fri 9 Oct, Dublin. 1 act on the bill: SLOUCHO. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+Sounds + Visuals By SPACES at The Sugar Club on Fri 9 Oct, Dublin. 1 artist on the bill: SLOUCHO. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

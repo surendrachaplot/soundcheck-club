@@ -2,7 +2,7 @@
 
 Tal Stef is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Les Studios du Rhin, Strasbourg on Sun, 27 Sept 2026.
 
-Tal Stef is a house and disco artist based in France, tracked on soundcheck, with 25 sets logged across Strasbourg. Often billed alongside Javier (1), Makar and Mister Natasha. Next up: Les Studios du Rhin, Strasbourg on Sun 27 Sept.
+Tal Stef is a house and disco artist based in France, tracked on soundcheck, with 25 sets logged across Strasbourg. Often billed alongside Javier, Makar and Mister Natasha. Next up: Les Studios du Rhin, Strasbourg on Sun 27 Sept.
 
 ## Upcoming shows
 

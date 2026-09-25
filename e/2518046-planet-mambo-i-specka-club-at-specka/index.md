@@ -1,6 +1,6 @@
 # Planet Mambo I Specka Club at Specka
 
-Planet Mambo I Specka Club on Fri 25 Sept, Madrid. 1 act on the bill: Aro Rey. Electronica. Preview the line-up and save it on soundcheck.
+Planet Mambo I Specka Club on Fri 25 Sept, Madrid. 1 artist on the bill: Aro Rey. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bob Moses (Club Set) + Notre Dame at The Concourse Project
 
-Bob Moses (Club Set) + Notre Dame at The Concourse Project on Sat 12 Dec, Austin. 2 acts on the bill: Bob Moses and Notre Dame. Preview the line-up and save it on soundcheck.
+Bob Moses (Club Set) + Notre Dame at The Concourse Project on Sat 12 Dec, Austin. 2 artists on the bill: Bob Moses and Notre Dame. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

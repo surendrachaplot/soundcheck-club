@@ -2,7 +2,7 @@
 
 hapuk is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Flex, Vienna on Sat, 3 Oct 2026.
 
-hapuk is a techno and experimental artist based in Czech Republic, tracked on soundcheck, with 9 sets logged across Prague and Vienna. Often billed alongside Peter Puenktlich (2), esti.d and neon.kotze. Next up: Flex, Vienna on Sat 3 Oct.
+hapuk is a techno and experimental artist based in Czech Republic, tracked on soundcheck, with 9 sets logged across Prague and Vienna. Often billed alongside Peter Puenktlich, esti.d and neon.kotze. Next up: Flex, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 

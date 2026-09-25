@@ -1,6 +1,6 @@
 # MARKUS SCHULZ Closing Party at Eden
 
-MARKUS SCHULZ Closing Party at Eden on Fri 25 Sept, Ibiza. 1 act on the bill: Markus Schulz. Trance and House. Preview the line-up and save it on soundcheck.
+MARKUS SCHULZ Closing Party at Eden on Fri 25 Sept, Ibiza. 1 artist on the bill: Markus Schulz. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

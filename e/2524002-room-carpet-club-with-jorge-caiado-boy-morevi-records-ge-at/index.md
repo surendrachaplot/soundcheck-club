@@ -1,6 +1,6 @@
 # ROOM: Carpet Club with Jorge Caiado & Boyá (Morevi Records/GE) at Rūmu
 
-ROOM: Carpet Club with Jorge Caiado & Boyá (Morevi Records/GE) at Rūmu on Wed 30 Sept, Lisbon. 2 acts on the bill: Boyá and Jorge Caiado. Preview the line-up and save it on soundcheck.
+ROOM: Carpet Club with Jorge Caiado & Boyá (Morevi Records/GE) at Rūmu on Wed 30 Sept, Lisbon. 2 artists on the bill: Boyá and Jorge Caiado. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

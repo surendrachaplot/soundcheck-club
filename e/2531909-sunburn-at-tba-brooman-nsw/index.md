@@ -1,6 +1,6 @@
 # Sunburn at TBA - Brooman NSW
 
-Sunburn at TBA - Brooman NSW on Fri 27 Nov, Sydney. 12 acts on the bill: CHEAHDX, eofy, JJ OKOCHA and Karani and 8 more. Trance. Preview the line-up and save it on soundcheck.
+Sunburn at TBA - Brooman NSW on Fri 27 Nov, Sydney. 12 artists on the bill: CHEAHDX, eofy, JJ OKOCHA and Karani and 8 more. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

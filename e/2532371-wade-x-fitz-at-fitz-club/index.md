@@ -1,6 +1,6 @@
 # Wade x FITZ at Fitz Club
 
-Wade x FITZ at Fitz Club on Sat 26 Sept, Madrid. 1 act on the bill: Wade. Tech House. Preview the line-up and save it on soundcheck.
+Wade x FITZ at Fitz Club on Sat 26 Sept, Madrid. 1 artist on the bill: Wade. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

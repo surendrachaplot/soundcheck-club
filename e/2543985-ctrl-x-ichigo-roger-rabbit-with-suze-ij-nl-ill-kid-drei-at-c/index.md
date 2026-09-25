@@ -1,6 +1,6 @@
 # ctrl x ICHIGO: Roger Rabbit with Suze Ijó [NL], ill kid drei at control
 
-ctrl x ICHIGO: Roger Rabbit with Suze Ijó [NL], ill kid drei at control on Thu 1 Oct, Bucharest. 1 act on the bill: Suze Ijó. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+ctrl x ICHIGO: Roger Rabbit with Suze Ijó [NL], ill kid drei at control on Thu 1 Oct, Bucharest. 1 artist on the bill: Suze Ijó. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

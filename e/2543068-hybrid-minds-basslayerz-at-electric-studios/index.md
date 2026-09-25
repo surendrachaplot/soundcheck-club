@@ -1,6 +1,6 @@
 # Hybrid Minds, BassLayerz at Electric Studios
 
-Hybrid Minds, BassLayerz at Electric Studios on Sat 3 Oct, Sheffield. 1 act on the bill: Hybrid Minds. Preview the line-up and save it on soundcheck.
+Hybrid Minds, BassLayerz at Electric Studios on Sat 3 Oct, Sheffield. 1 artist on the bill: Hybrid Minds. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

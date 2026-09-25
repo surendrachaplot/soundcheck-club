@@ -1,6 +1,6 @@
 # Sandunga Clubnight at Toekomstmuziek
 
-Sandunga Clubnight at Toekomstmuziek on Sat 26 Sept, Amsterdam. 3 acts on the bill: Lidia Lo, Niklas Becher and UriBlanch. Preview the line-up and save it on soundcheck.
+Sandunga Clubnight at Toekomstmuziek on Sat 26 Sept, Amsterdam. 3 artists on the bill: Lidia Lo, Niklas Becher and UriBlanch. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

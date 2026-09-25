@@ -1,6 +1,6 @@
 # Nia Archives at 104 CENTQUATRE
 
-Nia Archives at 104 CENTQUATRE on Sat 5 Dec, Paris. 1 act on the bill: Nia Archives. Preview the line-up and save it on soundcheck.
+Nia Archives at 104 CENTQUATRE on Sat 5 Dec, Paris. 1 artist on the bill: Nia Archives. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

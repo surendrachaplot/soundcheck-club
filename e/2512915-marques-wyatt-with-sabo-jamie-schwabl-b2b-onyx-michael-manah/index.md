@@ -1,6 +1,6 @@
 # Marques Wyatt with Sabo, Jamie Schwabl B2B Onyx, Michael Manahan at Hidden Hall
 
-Marques Wyatt with Sabo, Jamie Schwabl B2B Onyx, Michael Manahan at Hidden Hall on Sat 19 Dec, Seattle. 4 acts on the bill: Jamie Schwabl, Marques Wyatt, Michael Manahan and Sabo. House and Downtempo. Preview the line-up and save it on soundcheck.
+Marques Wyatt with Sabo, Jamie Schwabl B2B Onyx, Michael Manahan at Hidden Hall on Sat 19 Dec, Seattle. 4 artists on the bill: Jamie Schwabl, Marques Wyatt, Michael Manahan and Sabo. House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

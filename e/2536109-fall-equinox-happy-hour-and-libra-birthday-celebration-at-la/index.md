@@ -1,6 +1,6 @@
 # Fall Equinox Happy Hour and Libra Birthday Celebration at La Noxe Trinity
 
-Fall Equinox Happy Hour and Libra Birthday Celebration at La Noxe Trinity on Fri 25 Sept, Newyorkcity. 5 acts on the bill: Black Maij, Han G, Nickodemus and Oppo-Normalè and 1 more. House. Preview the line-up and save it on soundcheck.
+Fall Equinox Happy Hour and Libra Birthday Celebration at La Noxe Trinity on Fri 25 Sept, New York City. 5 artists on the bill: Black Maij, Han G, Nickodemus and Oppo-Normalè and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

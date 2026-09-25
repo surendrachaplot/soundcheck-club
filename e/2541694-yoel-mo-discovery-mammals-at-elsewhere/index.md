@@ -1,6 +1,6 @@
 # Yoel / MO ( DISCOVERY MAMMALS ) at Elsewhere
 
-Yoel / MO ( DISCOVERY MAMMALS ) at Elsewhere on Fri 25 Sept, Bangkok. 1 act on the bill: Yoel. Techno and House. Preview the line-up and save it on soundcheck.
+Yoel / MO ( DISCOVERY MAMMALS ) at Elsewhere on Fri 25 Sept, Bangkok. 1 artist on the bill: Yoel. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

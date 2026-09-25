@@ -1,6 +1,6 @@
 # Gordo - Parc Jean-Drapeau at Piknic Électronik / Parc Jean Drapeau
 
-Gordo - Parc Jean-Drapeau at Piknic Électronik / Parc Jean Drapeau on Fri 2 Oct, Montreal. 3 acts on the bill: AMÉMÉ, Gordo and HoneyLuv. Electro. Preview the line-up and save it on soundcheck.
+Gordo - Parc Jean-Drapeau at Piknic Électronik / Parc Jean Drapeau on Fri 2 Oct, Montreal. 3 artists on the bill: AMÉMÉ, Gordo and HoneyLuv. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

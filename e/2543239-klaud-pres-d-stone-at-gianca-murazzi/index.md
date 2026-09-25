@@ -1,6 +1,6 @@
 # KLAUD pres. D-STONE at Gianca - Murazzi
 
-KLAUD pres. D-STONE at Gianca - Murazzi on Fri 2 Oct, Turin. 1 act on the bill: D Stone. Tech House. Preview the line-up and save it on soundcheck.
+KLAUD pres. D-STONE at Gianca - Murazzi on Fri 2 Oct, Turin. 1 artist on the bill: D Stone. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

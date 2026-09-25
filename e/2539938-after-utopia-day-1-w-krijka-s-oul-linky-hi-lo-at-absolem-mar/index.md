@@ -1,6 +1,6 @@
 # AFTER UTOPIA DAY 1 - w. Krijka (Séoul), Linky, HI.lo at Absolem Marseille
 
-AFTER UTOPIA DAY 1 - w. Krijka (Séoul), Linky, HI.lo at Absolem Marseille on Sat 26 Sept, Marseille. 1 act on the bill: Krijka. Trance and Techno. Preview the line-up and save it on soundcheck.
+AFTER UTOPIA DAY 1 - w. Krijka (Séoul), Linky, HI.lo at Absolem Marseille on Sat 26 Sept, Marseille. 1 artist on the bill: Krijka. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

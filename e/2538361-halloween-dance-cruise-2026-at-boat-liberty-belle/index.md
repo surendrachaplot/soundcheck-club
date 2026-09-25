@@ -1,6 +1,6 @@
 # Halloween Dance Cruise 2026 at Boat - Liberty Belle
 
-Halloween Dance Cruise 2026 at Boat - Liberty Belle on Sat 31 Oct, Newyorkcity. 1 act on the bill: DJ E.M.. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Halloween Dance Cruise 2026 at Boat - Liberty Belle on Sat 31 Oct, New York City. 1 artist on the bill: DJ E.M.. Pop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

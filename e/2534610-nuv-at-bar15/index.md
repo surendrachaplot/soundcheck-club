@@ -1,6 +1,6 @@
 # Nuvé at BAR15
 
-Nuvé at BAR15 on Fri 25 Sept, Stockholm. 1 act on the bill: S!RENE. Dembow and Afro House. Preview the line-up and save it on soundcheck.
+Nuvé at BAR15 on Fri 25 Sept, Stockholm. 1 artist on the bill: S!RENE. Dembow and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

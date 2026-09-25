@@ -2,7 +2,7 @@
 
 moth (US) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 16 Oct 2026.
 
-moth (US) is a techno and club artist based in United States of America, tracked on soundcheck, with 78 sets logged across Chicago, Mexicocity, Newyorkcity and Philadelphia and 1 more. Often billed alongside erika (SF), sfcowboy and Vertigo. Next up: YuYu Cine Club, Mexicocity on Fri 16 Oct.
+moth (US) is a techno and club artist based in United States of America, tracked on soundcheck, with 78 sets logged across Chicago, Mexico City, New York City and Philadelphia and 1 more. Often billed alongside erika (SF), sfcowboy and Vertigo. Next up: YuYu Cine Club, Mexico City on Fri 16 Oct.
 
 ## Upcoming shows
 

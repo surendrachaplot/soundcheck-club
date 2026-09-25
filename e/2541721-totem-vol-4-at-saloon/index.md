@@ -1,6 +1,6 @@
 # TOTEM vol.4 at Saloon
 
-TOTEM vol.4 at Saloon on Thu 22 Oct, Tokyo. 1 act on the bill: KEVIN KOFII. Preview the line-up and save it on soundcheck.
+TOTEM vol.4 at Saloon on Thu 22 Oct, Tokyo. 1 artist on the bill: KEVIN KOFII. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

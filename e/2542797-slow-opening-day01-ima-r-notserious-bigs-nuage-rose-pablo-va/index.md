@@ -1,6 +1,6 @@
 # slow opening — day01 : IMA:R • NOTSERIOUS BIGS • NUAGE ROSE • Pablo Valentino at Super7
 
-slow opening — day01 : IMA:R • NOTSERIOUS BIGS • NUAGE ROSE • Pablo Valentino at Super7 on Thu 24 Sept, Lyon. 2 acts on the bill: IMA:R and Pablo Valentino. Preview the line-up and save it on soundcheck.
+slow opening — day01 : IMA:R • NOTSERIOUS BIGS • NUAGE ROSE • Pablo Valentino at Super7 on Thu 24 Sept, Lyon. 2 artists on the bill: IMA:R and Pablo Valentino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Will Clarke is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Halcyon, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Will Clarke is a techno and house artist based in United Kingdom, tracked on soundcheck, with 91 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside DJ Minx, Dombresky and Boys Noize. Next up: Halcyon, Sanfrancisco on Sat 26 Sept.
+Will Clarke is a techno and house artist based in United Kingdom, tracked on soundcheck, with 91 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside DJ Minx, Dombresky and Boys Noize. Next up: Halcyon, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 

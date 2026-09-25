@@ -1,6 +1,6 @@
 # SUMMA CUM LAUDE 10's at Bar A Bar
 
-SUMMA CUM LAUDE 10's at Bar A Bar on Sat 31 Oct, London. 1 act on the bill: Domenico Crisci. Techno. Preview the line-up and save it on soundcheck.
+SUMMA CUM LAUDE 10's at Bar A Bar on Sat 31 Oct, London. 1 artist on the bill: Domenico Crisci. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

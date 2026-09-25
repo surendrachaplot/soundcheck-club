@@ -1,6 +1,6 @@
 # Week-End Fest XV - Day I at Stadtgarten Konzertsaal / Cafe
 
-Week-End Fest XV - Day I at Stadtgarten Konzertsaal / Cafe on Thu 5 Nov, Cologne. 3 acts on the bill: DJ ASS TITS, Dopplereffekt and juno.j. Techno and Electro. Preview the line-up and save it on soundcheck.
+Week-End Fest XV - Day I at Stadtgarten Konzertsaal / Cafe on Thu 5 Nov, Cologne. 3 artists on the bill: DJ ASS TITS, Dopplereffekt and juno.j. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

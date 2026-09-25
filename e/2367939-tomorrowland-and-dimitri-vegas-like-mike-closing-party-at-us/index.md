@@ -1,6 +1,6 @@
 # Tomorrowland and Dimitri Vegas & Like Mike - CLOSING PARTY at Ushuaïa Ibiza
 
-Tomorrowland and Dimitri Vegas & Like Mike - CLOSING PARTY at Ushuaïa Ibiza on Wed 30 Sept, Ibiza. 2 acts on the bill: Dimitri Vegas & Like Mike and Hannah Laing. Electronica. Preview the line-up and save it on soundcheck.
+Tomorrowland and Dimitri Vegas & Like Mike - CLOSING PARTY at Ushuaïa Ibiza on Wed 30 Sept, Ibiza. 2 artists on the bill: Dimitri Vegas & Like Mike and Hannah Laing. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

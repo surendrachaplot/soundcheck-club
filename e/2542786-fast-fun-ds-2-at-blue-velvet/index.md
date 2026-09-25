@@ -1,6 +1,6 @@
 # fast fun:ds #2 at Blue Velvet
 
-fast fun:ds #2 at Blue Velvet on Fri 2 Oct, Berlin. 3 acts on the bill: Dr. Dickey, malicedeejay and Neutralised. Hardcore. Preview the line-up and save it on soundcheck.
+fast fun:ds #2 at Blue Velvet on Fri 2 Oct, Berlin. 3 artists on the bill: Dr. Dickey, malicedeejay and Neutralised. Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

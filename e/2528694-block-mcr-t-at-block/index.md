@@ -1,6 +1,6 @@
 # Block: MCR-T at block.
 
-Block: MCR-T at block. on Fri 16 Oct, Dublin. 1 act on the bill: MCR-T. Electronica. Preview the line-up and save it on soundcheck.
+Block: MCR-T at block. on Fri 16 Oct, Dublin. 1 artist on the bill: MCR-T. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

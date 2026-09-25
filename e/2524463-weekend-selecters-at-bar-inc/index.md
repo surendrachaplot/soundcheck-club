@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Fri 16 Oct, Osaka. 4 acts on the bill: Hito, Nao Nomura, Satoshi Tanaka and YOKO aka LAiR. Techno and Minimal. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Fri 16 Oct, Osaka. 4 artists on the bill: Hito, Nao Nomura, Satoshi Tanaka and YOKO aka LAiR. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

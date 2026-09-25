@@ -1,6 +1,6 @@
 # fi Garten x u.r. trax & Phonovision & Flinta*Tunes at fi
 
-fi Garten x u.r. trax & Phonovision & Flinta*Tunes on Sat 26 Sept, Cologne. 4 acts on the bill: alleira, Arninho, HiHat and u.r.trax. Techno and House. Preview the line-up and save it on soundcheck.
+fi Garten x u.r. trax & Phonovision & Flinta*Tunes on Sat 26 Sept, Cologne. 4 artists on the bill: alleira, Arninho, HiHat and u.r.trax. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

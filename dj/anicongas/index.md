@@ -2,7 +2,7 @@
 
 Ani con Gas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kunst-Werk am Kaiserhaus, Dortmund-essen on Sat, 21 Nov 2026.
 
-Ani con Gas is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Dortmund-essen and Hamburg. Often billed alongside Alphabae, SunnDior and Taskä. Next up: Kunst-Werk am Kaiserhaus, Dortmund-essen on Sat 21 Nov.
+Ani con Gas is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Dortmund Essen and Hamburg. Often billed alongside Alphabae, SunnDior and Taskä. Next up: Kunst-Werk am Kaiserhaus, Dortmund Essen on Sat 21 Nov.
 
 ## Upcoming shows
 

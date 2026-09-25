@@ -1,6 +1,6 @@
 # Slaughterhäus: The La Cut - Los Angeles at TBA - Warehouse DTLA
 
-Slaughterhäus: The La Cut - Los Angeles at TBA - Warehouse DTLA on Fri 30 Oct, Losangeles. Electro and Afro House. Preview the line-up and save it on soundcheck.
+Slaughterhäus: The La Cut - Los Angeles at TBA - Warehouse DTLA on Fri 30 Oct, Los Angeles. Electro and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # [FREE ENTRY] - MEET ME at KOTTI at DNA. CLUB
 
-[FREE ENTRY] - MEET ME at KOTTI at DNA. CLUB on Fri 2 Oct, Berlin. 6 acts on the bill: cell1, Fakhar, INTERNAL FORCES and MAXIMUS. and 2 more. Techno. Preview the line-up and save it on soundcheck.
+[FREE ENTRY] - MEET ME at KOTTI at DNA. CLUB on Fri 2 Oct, Berlin. 6 artists on the bill: cell1, Fakhar, INTERNAL FORCES and MAXIMUS. and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

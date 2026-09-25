@@ -2,7 +2,7 @@
 
 Star Amerasu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
-Star Amerasu is a house and techno artist based in United States of America, tracked on soundcheck, with 26 sets logged across Austin, Chicago, Losangeles and Montreal and 4 more. Often billed alongside Shane Thomas, Banoffee and KNOXDOTMP3. Next up: TBA, Losangeles on Sun 27 Sept.
+Star Amerasu is a house and techno artist based in United States of America, tracked on soundcheck, with 26 sets logged across Austin, Chicago, Los Angeles and Montreal and 4 more. Often billed alongside Shane Thomas, Banoffee and KNOXDOTMP3. Next up: TBA, Los Angeles on Sun 27 Sept.
 
 ## Upcoming shows
 

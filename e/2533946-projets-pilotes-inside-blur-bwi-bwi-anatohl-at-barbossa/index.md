@@ -1,6 +1,6 @@
 # Projets Pilotes - Inside Blur, Bwi-Bwi, Anatohl at Barbossa
 
-Projets Pilotes - Inside Blur, Bwi-Bwi, Anatohl at Barbossa on Fri 25 Sept, Montreal. 3 acts on the bill: Anatohl, Bwi-Bwi and Inside Blur. Techno and House. Preview the line-up and save it on soundcheck.
+Projets Pilotes - Inside Blur, Bwi-Bwi, Anatohl at Barbossa on Fri 25 Sept, Montreal. 3 artists on the bill: Anatohl, Bwi-Bwi and Inside Blur. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

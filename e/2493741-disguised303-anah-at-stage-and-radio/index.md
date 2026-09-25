@@ -1,6 +1,6 @@
 # Disguised303 - Anah at Stage and Radio
 
-Disguised303 - Anah at Stage and Radio on Sat 31 Oct, Manchester. 1 act on the bill: Anah. Electro and Acid. Preview the line-up and save it on soundcheck.
+Disguised303 - Anah at Stage and Radio on Sat 31 Oct, Manchester. 1 artist on the bill: Anah. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

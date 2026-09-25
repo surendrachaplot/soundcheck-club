@@ -1,6 +1,6 @@
 # Hobbes Music x Noetic Rhythm: DJ Gregory, Ricardo, Hobbes + more at The Bongo Club
 
-Hobbes Music x Noetic Rhythm: DJ Gregory, Ricardo, Hobbes + more at The Bongo Club on Sat 7 Nov, Edinburgh. 2 acts on the bill: DJ Gregory and Hobbes. House and Disco. Preview the line-up and save it on soundcheck.
+Hobbes Music x Noetic Rhythm: DJ Gregory, Ricardo, Hobbes + more at The Bongo Club on Sat 7 Nov, Edinburgh. 2 artists on the bill: DJ Gregory and Hobbes. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

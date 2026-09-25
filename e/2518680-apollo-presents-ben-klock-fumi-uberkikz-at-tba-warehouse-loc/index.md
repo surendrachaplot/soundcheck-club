@@ -1,6 +1,6 @@
 # Apollo presents Ben Klock, Fumi, Uberkikz at TBA - Warehouse Location
 
-Apollo presents Ben Klock, Fumi, Uberkikz at TBA - Warehouse Location on Sat 20 Feb, Toronto. 4 acts on the bill: Ben Klock, fumi (DE), Nótt and ÜBERKIKZ. Preview the line-up and save it on soundcheck.
+Apollo presents Ben Klock, Fumi, Uberkikz at TBA - Warehouse Location on Sat 20 Feb, Toronto. 4 artists on the bill: Ben Klock, fumi (DE), Nótt and ÜBERKIKZ. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Subculture w/ Harri + Sedef Adasï at Sub Club
 
-Subculture w/ Harri + Sedef Adasï at Sub Club on Sat 26 Sept, Glasgow. 2 acts on the bill: DJ Harri and Sedef Adasï. Preview the line-up and save it on soundcheck.
+Subculture w/ Harri + Sedef Adasï at Sub Club on Sat 26 Sept, Glasgow. 2 artists on the bill: DJ Harri and Sedef Adasï. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

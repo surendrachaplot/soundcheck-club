@@ -1,6 +1,6 @@
 # Sunday Roast with Millie McKee (live) Harri Pepper at Café de la Musique
 
-Sunday Roast with Millie McKee (live) Harri Pepper at Café de la Musique on Sun 4 Oct, Paris. 2 acts on the bill: Harri Pepper and Millie McKee. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunday Roast with Millie McKee (live) Harri Pepper at Café de la Musique on Sun 4 Oct, Paris. 2 artists on the bill: Harri Pepper and Millie McKee. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Mrii is a Amapiano and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at No Idea, Toronto on Thu, 24 Sept 2026.
 
-Mrii is an amapiano and techno artist based in Canada, tracked on soundcheck, with 27 sets logged across London, Newyorkcity and Toronto. Often billed alongside Angelphroot, Vodka and ADEOLA. Next up: No Idea, Toronto on Thu 24 Sept.
+Mrii is an amapiano and techno artist based in Canada, tracked on soundcheck, with 27 sets logged across London, New York City and Toronto. Often billed alongside Angelphroot, Vodka and ADEOLA. Next up: No Idea, Toronto on Thu 24 Sept.
 
 ## Upcoming shows
 

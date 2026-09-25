@@ -1,6 +1,6 @@
 # Gigged Out Presents: After Dark at The Red Rattler
 
-Gigged Out Presents: After Dark at The Red Rattler on Sat 24 Oct, Sydney. 5 acts on the bill: Broccoli Effect, Jane Decks, Lily FM and Maxcherry and 1 more. House and Bass. Preview the line-up and save it on soundcheck.
+Gigged Out Presents: After Dark at The Red Rattler on Sat 24 Oct, Sydney. 5 artists on the bill: Broccoli Effect, Jane Decks, Lily FM and Maxcherry and 1 more. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

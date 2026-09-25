@@ -1,6 +1,6 @@
 # Joshwa All Night Long Birthday Set at 99 Scott Ave
 
-Joshwa All Night Long Birthday Set at 99 Scott Ave on Sat 21 Nov, Newyorkcity. 1 act on the bill: Joshwa. House and Tech House. Preview the line-up and save it on soundcheck.
+Joshwa All Night Long Birthday Set at 99 Scott Ave on Sat 21 Nov, New York City. 1 artist on the bill: Joshwa. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hard Bock DRAUF 10Y Pt. II at Tanzhaus West
 
-Hard Bock DRAUF 10Y Pt. II at Tanzhaus West on Fri 25 Sept, Frankfurt. 8 acts on the bill: AMBAM, DeGuzman, HOTBOI2300 and Kacy and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Hard Bock DRAUF 10Y Pt. II at Tanzhaus West on Fri 25 Sept, Frankfurt. 8 artists on the bill: AMBAM, DeGuzman, HOTBOI2300 and Kacy and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

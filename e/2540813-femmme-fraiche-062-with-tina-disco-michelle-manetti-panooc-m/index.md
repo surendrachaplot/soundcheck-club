@@ -1,6 +1,6 @@
 # Femmme Fraiche #062 with Tina Disco, Michelle Manetti, Panooc, Macy See, Mica Coca + more at Dalston Superstore
 
-Femmme Fraiche #062 with Tina Disco, Michelle Manetti, Panooc, Macy See, Mica Coca + more at Dalston Superstore on Fri 9 Oct, London. 5 acts on the bill: Macy See, Mica Coca, Michelle Manetti and Panooc and 1 more. Preview the line-up and save it on soundcheck.
+Femmme Fraiche #062 with Tina Disco, Michelle Manetti, Panooc, Macy See, Mica Coca + more at Dalston Superstore on Fri 9 Oct, London. 5 artists on the bill: Macy See, Mica Coca, Michelle Manetti and Panooc and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

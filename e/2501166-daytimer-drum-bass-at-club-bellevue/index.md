@@ -1,6 +1,6 @@
 # DAYTIMER: DRUM & BASS at Club Bellevue
 
-DAYTIMER: DRUM & BASS at Club Bellevue on Sat 3 Oct, Zurich. 2 acts on the bill: Lukey and Tomato (IT). Preview the line-up and save it on soundcheck.
+DAYTIMER: DRUM & BASS at Club Bellevue on Sat 3 Oct, Zurich. 2 artists on the bill: Lukey and Tomato (IT). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

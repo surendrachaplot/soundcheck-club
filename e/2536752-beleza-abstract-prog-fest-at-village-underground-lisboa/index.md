@@ -1,6 +1,6 @@
 # Beleza Abstract Prog Fest at Village Underground Lisboa
 
-Beleza Abstract Prog Fest at Village Underground Lisboa on Sat 3 Oct, Lisbon. 2 acts on the bill: David Rodrigues and Jorge Martins. Preview the line-up and save it on soundcheck.
+Beleza Abstract Prog Fest at Village Underground Lisboa on Sat 3 Oct, Lisbon. 2 artists on the bill: David Rodrigues and Jorge Martins. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

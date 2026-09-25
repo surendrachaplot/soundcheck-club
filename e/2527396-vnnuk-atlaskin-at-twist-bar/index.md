@@ -1,6 +1,6 @@
 # VNNUK, Atlaskin at Twist Bar
 
-VNNUK, Atlaskin at Twist Bar on Fri 25 Sept, Prague. 2 acts on the bill: Atlaskin and VNNUK. Preview the line-up and save it on soundcheck.
+VNNUK, Atlaskin at Twist Bar on Fri 25 Sept, Prague. 2 artists on the bill: Atlaskin and VNNUK. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

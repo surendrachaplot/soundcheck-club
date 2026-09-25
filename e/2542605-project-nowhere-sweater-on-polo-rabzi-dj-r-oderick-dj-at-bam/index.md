@@ -1,6 +1,6 @@
 # Project Nowhere: Sweater On Polo + Rabzi (DJ) + R-ODERICK (DJ) at Bambi's
 
-Project Nowhere: Sweater On Polo + Rabzi (DJ) + R-ODERICK (DJ) at Bambi's on Sat 3 Oct, Toronto. 3 acts on the bill: R-ODERICK, Rabzi and Sweater On Polo. House and Industrial. Preview the line-up and save it on soundcheck.
+Project Nowhere: Sweater On Polo + Rabzi (DJ) + R-ODERICK (DJ) at Bambi's on Sat 3 Oct, Toronto. 3 artists on the bill: R-ODERICK, Rabzi and Sweater On Polo. House and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

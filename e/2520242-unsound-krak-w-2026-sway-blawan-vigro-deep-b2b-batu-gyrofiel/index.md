@@ -1,6 +1,6 @@
 # Unsound Kraków 2026 SWAY: Blawan / Vigro Deep b2b Batu, gyrofield, KAVARI b2b Ship Sket + more at Hotel Forum
 
-Unsound Kraków 2026 SWAY: Blawan / Vigro Deep b2b Batu, gyrofield, KAVARI b2b Ship Sket + more at Hotel Forum on Thu 8 Oct, Krakow. 12 acts on the bill: Batu, Blawan, Cities Aviv and Deli Girls and 8 more. Preview the line-up and save it on soundcheck.
+Unsound Kraków 2026 SWAY: Blawan / Vigro Deep b2b Batu, gyrofield, KAVARI b2b Ship Sket + more at Hotel Forum on Thu 8 Oct, Krakow. 12 artists on the bill: Batu, Blawan, Cities Aviv and Deli Girls and 8 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

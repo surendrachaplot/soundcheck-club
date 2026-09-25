@@ -1,6 +1,6 @@
 # Club Tineke Halloween - SISSI'S Amsterdam at SISSI'S Amsterdam
 
-Club Tineke Halloween - SISSI'S Amsterdam on Fri 30 Oct, Amsterdam. 6 acts on the bill: Benny Rodrigues, Cas Tang, Hayley Zalassi and Ive Lovers and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Club Tineke Halloween - SISSI'S Amsterdam on Fri 30 Oct, Amsterdam. 6 artists on the bill: Benny Rodrigues, Cas Tang, Hayley Zalassi and Ive Lovers and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

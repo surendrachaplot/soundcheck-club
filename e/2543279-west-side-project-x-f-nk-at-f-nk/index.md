@@ -1,6 +1,6 @@
 # West Side Project x Fünk at Fünk
 
-West Side Project x Fünk on Sat 3 Oct, Mexicocity. 2 acts on the bill: MINÄ and Nosssia. Progressive House. Preview the line-up and save it on soundcheck.
+West Side Project x Fünk on Sat 3 Oct, Mexico City. 2 artists on the bill: MINÄ and Nosssia. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

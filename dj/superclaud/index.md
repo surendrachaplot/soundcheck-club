@@ -1,13 +1,14 @@
 # SuperCLAUD
 
-SuperCLAUD is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hare & Hounds, Brighton on Sat, 31 Oct 2026.
+SuperCLAUD is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Patterns, Brighton on Sat, 26 Sept 2026.
 
-SuperCLAUD is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Brighton and London. Often billed alongside Ross Harper, Gosia and Koipinoxia. Next up: Hare & Hounds, Brighton on Sat 31 Oct.
+SuperCLAUD is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Brighton and London. Often billed alongside Ross Harper, Gosia and Koipinoxia. Next up: Patterns, Brighton on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Patterns | Brighton |
 | Sat, 31 Oct 2026 | Hare & Hounds | Brighton |
 
 ## Recently played

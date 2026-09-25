@@ -1,6 +1,6 @@
 # klub Krai x b:3tter irl x Smokeshow at Garage Noord
 
-klub Krai x b:3tter irl x Smokeshow at Garage Noord on Sat 10 Oct, Amsterdam. 7 acts on the bill: baby ganoush, Celeb, Chickenmilk dot com and EVER and 3 more. Preview the line-up and save it on soundcheck.
+klub Krai x b:3tter irl x Smokeshow at Garage Noord on Sat 10 Oct, Amsterdam. 7 artists on the bill: baby ganoush, Celeb, Chickenmilk dot com and EVER and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

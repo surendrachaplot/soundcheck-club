@@ -1,6 +1,6 @@
 # The Nursery: Floorplan, CARISTA at public records
 
-The Nursery: Floorplan, CARISTA at public records on Sun 4 Oct, Newyorkcity. 2 acts on the bill: CARISTA and Floorplan. Techno. Preview the line-up and save it on soundcheck.
+The Nursery: Floorplan, CARISTA at public records on Sun 4 Oct, New York City. 2 artists on the bill: CARISTA and Floorplan. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

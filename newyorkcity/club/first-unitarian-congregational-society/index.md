@@ -2,7 +2,7 @@
 
 First Unitarian Congregational Society is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sarah Davachi presents The Will of Tongues" on Fri, 25 Sept 2026.
 
-First Unitarian Congregational Society is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including Sarah Davachi. Browse upcoming dates, start times and who's playing. 116 Pierrepont St., Brooklyn, NY 11201.
+First Unitarian Congregational Society is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Sarah Davachi. Browse upcoming dates, start times and who's playing. 116 Pierrepont St., Brooklyn, NY 11201.
 
 ## What's on
 

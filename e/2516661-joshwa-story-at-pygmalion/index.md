@@ -1,6 +1,6 @@
 # JOSHWA Story* at Pygmalion
 
-JOSHWA Story* at Pygmalion on Fri 25 Sept, Dublin. 2 acts on the bill: Jake Fitz and Joshwa. House. Preview the line-up and save it on soundcheck.
+JOSHWA Story* at Pygmalion on Fri 25 Sept, Dublin. 2 artists on the bill: Jake Fitz and Joshwa. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

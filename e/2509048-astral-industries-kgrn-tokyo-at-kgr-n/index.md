@@ -1,6 +1,6 @@
 # Astral Industries × KGRn TOKYO at KGR(n)
 
-Astral Industries × KGRn TOKYO at KGR(n) on Thu 8 Oct, Tokyo. 3 acts on the bill: Ario, C-KAY and Hems. Experimental. Preview the line-up and save it on soundcheck.
+Astral Industries × KGRn TOKYO at KGR(n) on Thu 8 Oct, Tokyo. 3 artists on the bill: Ario, C-KAY and Hems. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

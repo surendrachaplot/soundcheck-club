@@ -1,6 +1,6 @@
 # Mahmut Orhan & Friends x Loveland - ADE 2026 at Theater Amsterdam
 
-Mahmut Orhan & Friends x Loveland - ADE 2026 at Theater Amsterdam on Fri 23 Oct, Amsterdam. 1 act on the bill: Mahmut Orhan. House and Afro House. Preview the line-up and save it on soundcheck.
+Mahmut Orhan & Friends x Loveland - ADE 2026 at Theater Amsterdam on Fri 23 Oct, Amsterdam. 1 artist on the bill: Mahmut Orhan. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

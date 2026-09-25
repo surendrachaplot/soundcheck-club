@@ -2,7 +2,7 @@
 
 Ramos (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Sun, 27 Sept 2026.
 
-Ramos (2) is a house and techno artist based in United States of America, tracked on soundcheck, with 72 sets logged across Washingtondc. Often billed alongside enz.O, KayLaSoul and Mazko A. Next up: Flash, Washingtondc on Sun 27 Sept.
+Ramos is a house and techno artist based in United States of America, tracked on soundcheck, with 72 sets logged across Washington DC. Often billed alongside enz.O, KayLaSoul and Mazko A. Next up: Flash, Washington DC on Sun 27 Sept.
 
 ## Upcoming shows
 

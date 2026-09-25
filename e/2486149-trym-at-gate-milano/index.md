@@ -1,6 +1,6 @@
 # Trym at Gate Milano
 
-Trym at Gate Milano on Fri 27 Nov, Milan. 2 acts on the bill: Flaiv Đarkø and Trym. Preview the line-up and save it on soundcheck.
+Trym at Gate Milano on Fri 27 Nov, Milan. 2 artists on the bill: Flaiv Đarkø and Trym. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Layton Giordani
 
-Layton Giordani is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Layton Giordani is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-Layton Giordani is a techno and house artist based in United States of America, tracked on soundcheck, with 120 sets logged across Amsterdam, Austin, Bali and Barcelona and 33 more. Often billed alongside Adam Beyer, Green Velvet and John Summit. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
+Layton Giordani is a techno and house artist based in United States of America, tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Bali and Barcelona and 36 more. Often billed alongside Adam Beyer, John Summit and Green Velvet. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,9 @@ Layton Giordani is a techno and house artist based in United States of America, 
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Sat, 14 Nov 2026 | Russell Industrial Center | Detroit |
 | Sat, 28 Nov 2026 | New City Gas | Montreal |
+| Mon, 28 Dec 2026 | Barunah Plains | Victoria |
+| Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
+| Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 
 ## Recently played
 
@@ -27,6 +30,6 @@ Layton Giordani is a techno and house artist based in United States of America, 
 
 ## Shares bills with
 
-Adam Beyer, Green Velvet, John Summit
+Adam Beyer, John Summit, Green Velvet
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laytongiordani/)*

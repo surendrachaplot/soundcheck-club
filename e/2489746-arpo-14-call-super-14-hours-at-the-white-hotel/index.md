@@ -1,6 +1,6 @@
 # Arpo 14: Call Super {14 ~ hours} at The White Hotel
 
-Arpo 14: Call Super {14 ~ hours} at The White Hotel on Sat 26 Sept, Manchester. 1 act on the bill: Call Super. Club. Preview the line-up and save it on soundcheck.
+Arpo 14: Call Super {14 ~ hours} at The White Hotel on Sat 26 Sept, Manchester. 1 artist on the bill: Call Super. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

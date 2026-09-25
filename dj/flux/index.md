@@ -2,7 +2,7 @@
 
 Flux is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
-Flux is a drum & bass and jungle artist based in Italy, tracked on soundcheck, with 13 sets logged across Amsterdam, London, Manchester and Newyorkcity. Often billed alongside Ray Keith, DJ Hype and IC3. Next up: Studio 338, London on Sat 26 Sept.
+Flux is a drum & bass and jungle artist based in Italy, tracked on soundcheck, with 13 sets logged across Amsterdam, London, Manchester and New York City. Often billed alongside Ray Keith, DJ Hype and IC3. Next up: Studio 338, London on Sat 26 Sept.
 
 ## Upcoming shows
 

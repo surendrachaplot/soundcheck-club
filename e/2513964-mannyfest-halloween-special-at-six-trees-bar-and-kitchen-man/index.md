@@ -1,6 +1,6 @@
 # Mannyfest Halloween Special at Six Trees Bar And Kitchen Manchester
 
-Mannyfest Halloween Special at Six Trees Bar And Kitchen Manchester on Sat 31 Oct, Manchester. 8 acts on the bill: Benny L, Diagnostix, dogger and Gray and 4 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Mannyfest Halloween Special at Six Trees Bar And Kitchen Manchester on Sat 31 Oct, Manchester. 8 artists on the bill: Benny L, Diagnostix, dogger and Gray and 4 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

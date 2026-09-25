@@ -1,6 +1,6 @@
 # DJ Ruby - Jodita Madrid at Hangar48 Club
 
-DJ Ruby - Jodita Madrid at Hangar48 Club on Sat 26 Sept, Madrid. 3 acts on the bill: DJ Ruby, Nahuel Farina and Nico Spina. Progressive House. Preview the line-up and save it on soundcheck.
+DJ Ruby - Jodita Madrid at Hangar48 Club on Sat 26 Sept, Madrid. 3 artists on the bill: DJ Ruby, Nahuel Farina and Nico Spina. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Jimmy Rocket is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Model, Nottingham on Fri, 9 Oct 2026.
 
-Jimmy Rocket is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Nottingham. Often billed alongside M75 (1), Toura and Aura (UK). Next up: The Model, Nottingham on Fri 9 Oct.
+Jimmy Rocket is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Nottingham. Often billed alongside M75, Toura and Aura (UK). Next up: The Model, Nottingham on Fri 9 Oct.
 
 ## Upcoming shows
 

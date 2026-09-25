@@ -1,6 +1,6 @@
 # Tempo & Resonate pres. Brian Tappert & Grant Nelson at The Yard
 
-Tempo & Resonate pres. Brian Tappert & Grant Nelson at The Yard on Sat 26 Sept, Manchester. 1 act on the bill: Grant Nelson. House and Deep House. Preview the line-up and save it on soundcheck.
+Tempo & Resonate pres. Brian Tappert & Grant Nelson at The Yard on Sat 26 Sept, Manchester. 1 artist on the bill: Grant Nelson. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

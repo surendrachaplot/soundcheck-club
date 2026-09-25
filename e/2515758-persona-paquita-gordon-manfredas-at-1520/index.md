@@ -1,6 +1,6 @@
 # Persona - Paquita Gordon & Manfredas at 1520
 
-Persona - Paquita Gordon & Manfredas at 1520 on Fri 30 Oct, Manchester. 8 acts on the bill: April (UK), FROND, Louie G and Manfredas and 4 more. Progressive House. Preview the line-up and save it on soundcheck.
+Persona - Paquita Gordon & Manfredas at 1520 on Fri 30 Oct, Manchester. 8 artists on the bill: April (UK), FROND, Louie G and Manfredas and 4 more. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # UNDER HAZE: KSAL, DOFS, CX-0 at EL SÓTANO
 
-UNDER HAZE: KSAL, DOFS, CX-0 at EL SÓTANO on Thu 1 Oct, Madrid. 1 act on the bill: KSAL. Trance and Techno. Preview the line-up and save it on soundcheck.
+UNDER HAZE: KSAL, DOFS, CX-0 at EL SÓTANO on Thu 1 Oct, Madrid. 1 artist on the bill: KSAL. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

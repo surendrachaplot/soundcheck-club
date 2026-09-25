@@ -1,6 +1,6 @@
 # STUDIO 69 w/ Egyptian Lover & ARABIAN PRINCE at Humboldthain Club
 
-STUDIO 69 w/ Egyptian Lover & ARABIAN PRINCE at Humboldthain Club on Fri 9 Oct, Berlin. 8 acts on the bill: Cufme, DJ Business (2), Egyptian Lover and Femdelic and 4 more. House and Bass. Preview the line-up and save it on soundcheck.
+STUDIO 69 w/ Egyptian Lover & ARABIAN PRINCE at Humboldthain Club on Fri 9 Oct, Berlin. 8 artists on the bill: Cufme, DJ Business, Egyptian Lover and Femdelic and 4 more. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

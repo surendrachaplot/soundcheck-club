@@ -2,7 +2,7 @@
 
 F8 1192 Folsom is a music venue in San Francisco/Oakland with 23 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Teego SF presents Afro Thursdays" on Thu, 24 Sept 2026.
 
-F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 23 upcoming gigs, with line-ups including Pup_Epoch, ALEX GOODCAT, Alkemiss Erika and Amino and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 23 upcoming gigs, with line-ups including Pup_Epoch, ALEX GOODCAT, Alkemiss Erika and Amino and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 

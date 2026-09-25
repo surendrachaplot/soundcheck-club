@@ -1,6 +1,6 @@
 # Shelter Seoul at Shelter
 
-Shelter Seoul on Sat 26 Sept, Seoul. 5 acts on the bill: Apachi, AXIV, Honn and MOVIN.KR and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Shelter Seoul on Sat 26 Sept, Seoul. 5 artists on the bill: Apachi, AXIV, Honn and MOVIN.KR and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

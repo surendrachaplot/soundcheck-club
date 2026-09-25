@@ -1,6 +1,6 @@
 # KILIMANJARO live at Lark
 
-KILIMANJARO live at Lark on Wed 11 Nov, Berlin. 1 act on the bill: KILIMANJARO. Preview the line-up and save it on soundcheck.
+KILIMANJARO live at Lark on Wed 11 Nov, Berlin. 1 artist on the bill: KILIMANJARO. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

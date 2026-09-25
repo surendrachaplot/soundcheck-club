@@ -1,6 +1,6 @@
 # Oktoberfest Nights Saturday with Emanuel Satie, Kristin Velvet, René Vaitl at Pacha
 
-Oktoberfest Nights Saturday with Emanuel Satie, Kristin Velvet, René Vaitl at Pacha on Sat 26 Sept, Munich. 2 acts on the bill: Emanuel Satie and Kristin Velvet. House. Preview the line-up and save it on soundcheck.
+Oktoberfest Nights Saturday with Emanuel Satie, Kristin Velvet, René Vaitl at Pacha on Sat 26 Sept, Munich. 2 artists on the bill: Emanuel Satie and Kristin Velvet. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

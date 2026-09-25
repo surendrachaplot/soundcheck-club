@@ -1,6 +1,6 @@
 # Mykki Blanco at Beursschouwburg
 
-Mykki Blanco at Beursschouwburg on Wed 28 Oct, Brussels. 1 act on the bill: Mykki Blanco. Preview the line-up and save it on soundcheck.
+Mykki Blanco at Beursschouwburg on Wed 28 Oct, Brussels. 1 artist on the bill: Mykki Blanco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

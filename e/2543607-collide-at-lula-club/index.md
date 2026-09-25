@@ -1,6 +1,6 @@
 # COLLIDE at Lula Club
 
-COLLIDE at Lula Club on Sat 5 Dec, Madrid. 1 act on the bill: COLLISION. Preview the line-up and save it on soundcheck.
+COLLIDE at Lula Club on Sat 5 Dec, Madrid. 1 artist on the bill: COLLISION. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

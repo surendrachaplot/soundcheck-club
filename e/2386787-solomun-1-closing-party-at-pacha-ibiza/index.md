@@ -1,6 +1,6 @@
 # Solomun+1 - CLOSING PARTY at Pacha Ibiza
 
-Solomun+1 - CLOSING PARTY at Pacha Ibiza on Sun 4 Oct, Ibiza. 1 act on the bill: Solomun. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Solomun+1 - CLOSING PARTY at Pacha Ibiza on Sun 4 Oct, Ibiza. 1 artist on the bill: Solomun. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

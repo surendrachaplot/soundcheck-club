@@ -1,6 +1,6 @@
 # Order Of Magnitude: Quake at Den Anden Side
 
-Order Of Magnitude: Quake at Den Anden Side on Sat 26 Sept, Copenhagen. 1 act on the bill: FILTH.y. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Order Of Magnitude: Quake at Den Anden Side on Sat 26 Sept, Copenhagen. 1 artist on the bill: FILTH.y. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

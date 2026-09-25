@@ -2,7 +2,7 @@
 
 Chung is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 25 Sept 2026.
 
-Chung is a techno and house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Amsterdam and Newyorkcity. Often billed alongside DJ Healthy, Sweater On Polo and KA WAI. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 25 Sept.
+Chung is a techno and house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Amsterdam and New York City. Often billed alongside DJ Healthy, Sweater On Polo and KA WAI. Next up: Bossa Nova Civic Club, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

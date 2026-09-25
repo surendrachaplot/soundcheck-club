@@ -1,6 +1,6 @@
 # Volteface Anniversary at Bal Chavaux
 
-Volteface Anniversary at Bal Chavaux on Fri 9 Oct, Paris. 5 acts on the bill: Adam Pits, Dual Monitor, Egna and Kasper Marott and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Volteface Anniversary at Bal Chavaux on Fri 9 Oct, Paris. 5 artists on the bill: Adam Pits, Dual Monitor, Egna and Kasper Marott and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

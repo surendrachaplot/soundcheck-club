@@ -2,7 +2,7 @@
 
 DJ PlayStation is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paris 75, San Francisco/Oakland on Fri, 16 Oct 2026.
 
-DJ PlayStation is a house and disco artist based in United States of America, tracked on soundcheck, with 48 sets logged across Sanfrancisco. Often billed alongside Amatric, DJ Cira and DJ M3. Next up: Paris 75, Sanfrancisco on Fri 16 Oct.
+DJ PlayStation is a house and disco artist based in United States of America, tracked on soundcheck, with 48 sets logged across San Francisco/Oakland. Often billed alongside Amatric, DJ Cira and DJ M3. Next up: Paris 75, San Francisco/Oakland on Fri 16 Oct.
 
 ## Upcoming shows
 

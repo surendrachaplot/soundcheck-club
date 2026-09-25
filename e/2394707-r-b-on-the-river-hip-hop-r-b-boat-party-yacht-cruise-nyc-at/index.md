@@ -1,6 +1,6 @@
 # R&B on the RIVER - Hip Hop & R&B Boat Party Yacht Cruise NYC at Pier 78 at Hudson River Park
 
-R&B on the RIVER - Hip Hop & R&B Boat Party Yacht Cruise NYC at Pier 78 at Hudson River Park on Sat 26 Sept, Newyorkcity. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+R&B on the RIVER - Hip Hop & R&B Boat Party Yacht Cruise NYC at Pier 78 at Hudson River Park on Sat 26 Sept, New York City. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

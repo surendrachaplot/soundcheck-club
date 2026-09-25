@@ -1,6 +1,6 @@
 # Missing Persons Club (Free tickets) at The Berkeley Suite
 
-Missing Persons Club (Free tickets) at The Berkeley Suite on Fri 2 Oct, Glasgow. 3 acts on the bill: Andy Barton, DJ Smoker and Lovejoy. Techno. Preview the line-up and save it on soundcheck.
+Missing Persons Club (Free tickets) at The Berkeley Suite on Fri 2 Oct, Glasgow. 3 artists on the bill: Andy Barton, DJ Smoker and Lovejoy. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

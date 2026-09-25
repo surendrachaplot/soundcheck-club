@@ -1,6 +1,6 @@
 # forma: Ehua, LWS, Dom Carlo & severine at The Island
 
-forma: Ehua, LWS, Dom Carlo & severine at The Island on Sat 3 Oct, Bristol. 4 acts on the bill: Dom Carlo, Ehua, LWS and severine. Techno and Bass. Preview the line-up and save it on soundcheck.
+forma: Ehua, LWS, Dom Carlo & severine at The Island on Sat 3 Oct, Bristol. 4 artists on the bill: Dom Carlo, Ehua, LWS and severine. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

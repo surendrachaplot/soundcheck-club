@@ -1,6 +1,6 @@
 # Night Tales: Dave Lee [All Night Long] at Night Tales
 
-Night Tales: Dave Lee [All Night Long] on Fri 11 Dec, London. 1 act on the bill: Dave Lee. House. Preview the line-up and save it on soundcheck.
+Night Tales: Dave Lee [All Night Long] on Fri 11 Dec, London. 1 artist on the bill: Dave Lee. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

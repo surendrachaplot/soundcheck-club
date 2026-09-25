@@ -1,6 +1,6 @@
 # SPOTLIGHT: Takeover Planet Wax at Planet Wax
 
-SPOTLIGHT: Takeover Planet Wax on Fri 2 Oct, London. 6 acts on the bill: Aura, Freja, Nio-B and RACH and 2 more. Dubstep and Grime. Preview the line-up and save it on soundcheck.
+SPOTLIGHT: Takeover Planet Wax on Fri 2 Oct, London. 6 artists on the bill: Aura, Freja, Nio-B and RACH and 2 more. Dubstep and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Crazy P (Dj Set) + Acid Hero + Toni Aparisi at Sala Villanos
 
-Crazy P (Dj Set) + Acid Hero + Toni Aparisi at Sala Villanos on Sat 10 Oct, Madrid. 3 acts on the bill: Acid Hero, Crazy P and Toni Aparisi. Electronica. Preview the line-up and save it on soundcheck.
+Crazy P (Dj Set) + Acid Hero + Toni Aparisi at Sala Villanos on Sat 10 Oct, Madrid. 3 artists on the bill: Acid Hero, Crazy P and Toni Aparisi. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

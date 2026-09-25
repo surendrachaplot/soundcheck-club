@@ -1,6 +1,6 @@
 # bitcrusher with Peppe Amore (pres. Giuseppe Amoruoso) + Nontiagitare, Thaiz at Magazzino sul Po
 
-bitcrusher with Peppe Amore (pres. Giuseppe Amoruoso) + Nontiagitare, Thaiz at Magazzino sul Po on Fri 9 Oct, Turin. 2 acts on the bill: Nontiagitare and Peppe Amore. Techno. Preview the line-up and save it on soundcheck.
+bitcrusher with Peppe Amore (pres. Giuseppe Amoruoso) + Nontiagitare, Thaiz at Magazzino sul Po on Fri 9 Oct, Turin. 2 artists on the bill: Nontiagitare and Peppe Amore. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

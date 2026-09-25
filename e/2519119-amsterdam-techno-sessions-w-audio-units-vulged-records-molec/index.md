@@ -1,6 +1,6 @@
 # Amsterdam Techno Sessions w/ Audio Units (Vulged Records -Molecular Recordings) INDIA at John Doe
 
-Amsterdam Techno Sessions w/ Audio Units (Vulged Records -Molecular Recordings) INDIA at John Doe on Thu 24 Sept, Amsterdam. 2 acts on the bill: Audio Units and Marco Ramos. Techno. Preview the line-up and save it on soundcheck.
+Amsterdam Techno Sessions w/ Audio Units (Vulged Records -Molecular Recordings) INDIA at John Doe on Thu 24 Sept, Amsterdam. 2 artists on the bill: Audio Units and Marco Ramos. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

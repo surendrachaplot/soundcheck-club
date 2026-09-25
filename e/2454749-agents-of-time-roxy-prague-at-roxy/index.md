@@ -1,6 +1,6 @@
 # Agents Of Time ∞ ROXY Prague at Roxy
 
-Agents Of Time ∞ ROXY Prague at Roxy on Fri 13 Nov, Prague. 1 act on the bill: Agents Of Time. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Agents Of Time ∞ ROXY Prague at Roxy on Fri 13 Nov, Prague. 1 artist on the bill: Agents Of Time. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

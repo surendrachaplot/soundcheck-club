@@ -1,6 +1,6 @@
 # [CANCELLED] Techno Sanctuary vol.4 at Aatma
 
-[CANCELLED] Techno Sanctuary vol.4 at Aatma on Sat 17 Oct, Manchester. 2 acts on the bill: Kazek and RaFFski. Techno and Acid. Preview the line-up and save it on soundcheck.
+[CANCELLED] Techno Sanctuary vol.4 at Aatma on Sat 17 Oct, Manchester. 2 artists on the bill: Kazek and RaFFski. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

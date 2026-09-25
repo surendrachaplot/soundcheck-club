@@ -1,6 +1,6 @@
 # OFF99 presents: Fred P at Kremwerk-Timbre Room-Cherry Complex
 
-OFF99 presents: Fred P at Kremwerk-Timbre Room-Cherry Complex on Fri 16 Oct, Seattle. 2 acts on the bill: Fred P and Nick Carroll. Deep House. Preview the line-up and save it on soundcheck.
+OFF99 presents: Fred P at Kremwerk-Timbre Room-Cherry Complex on Fri 16 Oct, Seattle. 2 artists on the bill: Fred P and Nick Carroll. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

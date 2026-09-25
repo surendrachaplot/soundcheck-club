@@ -1,6 +1,6 @@
 # Collectors with Stan Yaroslavsky, André Sousa, Pawl at Collect LX Factory
 
-Collectors with Stan Yaroslavsky, André Sousa, Pawl at Collect LX Factory on Thu 29 Oct, Lisbon. 2 acts on the bill: Pawl and Stan Yaroslavsky. House and Minimal. Preview the line-up and save it on soundcheck.
+Collectors with Stan Yaroslavsky, André Sousa, Pawl at Collect LX Factory on Thu 29 Oct, Lisbon. 2 artists on the bill: Pawl and Stan Yaroslavsky. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

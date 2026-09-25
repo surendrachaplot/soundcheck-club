@@ -2,7 +2,7 @@
 
 Soo Intoit is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sugar Hill Disco, New York City on Tue, 6 Oct 2026.
 
-Soo Intoit is a techno and club artist based in United States of America, tracked on soundcheck, with 110 sets logged across Boston, Chicago, Newyorkcity and Philadelphia and 2 more. Often billed alongside Xana 101, Sailor Malice and Sp3cial K. Next up: Sugar Hill Disco, Newyorkcity on Tue 6 Oct.
+Soo Intoit is a techno and club artist based in United States of America, tracked on soundcheck, with 110 sets logged across Boston, Chicago, New York City and Philadelphia and 2 more. Often billed alongside Xana 101, Sailor Malice and Sp3cial K. Next up: Sugar Hill Disco, New York City on Tue 6 Oct.
 
 ## Upcoming shows
 

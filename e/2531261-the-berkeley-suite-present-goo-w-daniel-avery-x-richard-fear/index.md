@@ -1,6 +1,6 @@
 # The Berkeley Suite present: GOO W// Daniel Avery x Richard Fearless at The Berkeley Suite
 
-The Berkeley Suite present: GOO W// Daniel Avery x Richard Fearless on Sat 14 Nov, Glasgow. 2 acts on the bill: Daniel Avery and Richard Fearless. Preview the line-up and save it on soundcheck.
+The Berkeley Suite present: GOO W// Daniel Avery x Richard Fearless on Sat 14 Nov, Glasgow. 2 artists on the bill: Daniel Avery and Richard Fearless. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

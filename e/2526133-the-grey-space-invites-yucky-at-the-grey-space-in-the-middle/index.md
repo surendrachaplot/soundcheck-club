@@ -1,6 +1,6 @@
 # The Grey Space Invites: Yucky at The Grey Space In The Middle
 
-The Grey Space Invites: Yucky at The Grey Space In The Middle on Sat 26 Sept, Thehague. Bass and Reggaeton. Preview the line-up and save it on soundcheck.
+The Grey Space Invites: Yucky at The Grey Space In The Middle on Sat 26 Sept, The Hague. Bass and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

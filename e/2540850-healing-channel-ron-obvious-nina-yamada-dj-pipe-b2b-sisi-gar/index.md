@@ -1,6 +1,6 @@
 # Healing Channel: Ron Obvious, Nina Yamada, DJ Pipe b2b SiSi, Garrett David at Hoppetosse
 
-Healing Channel: Ron Obvious, Nina Yamada, DJ Pipe b2b SiSi, Garrett David at Hoppetosse on Fri 16 Oct, Berlin. 5 acts on the bill: DJ Pipe, Garrett David, Nina Yamada and Ron Obvious and 1 more. Preview the line-up and save it on soundcheck.
+Healing Channel: Ron Obvious, Nina Yamada, DJ Pipe b2b SiSi, Garrett David at Hoppetosse on Fri 16 Oct, Berlin. 5 artists on the bill: DJ Pipe, Garrett David, Nina Yamada and Ron Obvious and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

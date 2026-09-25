@@ -1,6 +1,6 @@
 # RINSE FM PRESENTS Flowdan & Neffa-T & MANY MORE at Concorde 2
 
-RINSE FM PRESENTS Flowdan & Neffa-T & MANY MORE at Concorde 2 on Fri 16 Oct, Brighton. 2 acts on the bill: Flowdan and Neffa-T. Drum & Bass. Preview the line-up and save it on soundcheck.
+RINSE FM PRESENTS Flowdan & Neffa-T & MANY MORE at Concorde 2 on Fri 16 Oct, Brighton. 2 artists on the bill: Flowdan and Neffa-T. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

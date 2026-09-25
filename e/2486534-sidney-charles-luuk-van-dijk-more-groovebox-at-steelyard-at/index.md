@@ -1,6 +1,6 @@
 # Sidney Charles, Luuk van Dijk & MORE - Groovebox at SteelYard at Steelyard Kelham
 
-Sidney Charles, Luuk van Dijk & MORE - Groovebox at SteelYard at Steelyard Kelham on Sat 26 Sept, Sheffield. 3 acts on the bill: Emma 2000, Luuk van Dijk and Sidney Charles. House. Preview the line-up and save it on soundcheck.
+Sidney Charles, Luuk van Dijk & MORE - Groovebox at SteelYard at Steelyard Kelham on Sat 26 Sept, Sheffield. 3 artists on the bill: Emma 2000, Luuk van Dijk and Sidney Charles. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

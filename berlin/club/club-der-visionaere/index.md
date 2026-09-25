@@ -2,7 +2,7 @@
 
 Club der Visionaere is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Rings Of Neptune: Atree, Cleymoore, Rubi" on Sat, 26 Sept 2026.
 
-Club der Visionaere is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including ALINA (3), Atree, Cleymoore and dj vau and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
+Club der Visionaere is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including ALINA, Atree, Cleymoore and dj vau and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
 ## What's on
 

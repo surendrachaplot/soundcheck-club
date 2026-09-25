@@ -1,6 +1,6 @@
 # Westend at 1015 Folsom
 
-Westend at 1015 Folsom on Fri 20 Nov, Sanfrancisco. 1 act on the bill: TOBEHONEST. House. Preview the line-up and save it on soundcheck.
+Westend at 1015 Folsom on Fri 20 Nov, San Francisco/Oakland. 1 artist on the bill: TOBEHONEST. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

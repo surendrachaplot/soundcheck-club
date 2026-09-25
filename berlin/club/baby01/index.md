@@ -8,7 +8,7 @@ BABY01 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Fogo No Cu | MADDYY, boyyyish, caipora, materia hache |
+| Sat, 10 Oct 2026 | Fogo No Cu | MADDYY, Nycky Estrella, boyyyish, caipora, materia hache |
 | Sat, 5 Dec 2026 | MACHINE LEARNING x FFS | Acidic Juice, De:Vir, Linnea Mae, OatMilk, anna andersrum |
 
 ## Address

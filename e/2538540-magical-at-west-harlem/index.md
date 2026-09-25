@@ -1,6 +1,6 @@
 # MAGICAL at West Harlem
 
-MAGICAL at West Harlem on Sat 31 Oct, Kyoto. 4 acts on the bill: Baku, C.Versa, Connor and kitapon. Techno and House. Preview the line-up and save it on soundcheck.
+MAGICAL at West Harlem on Sat 31 Oct, Kyoto. 4 artists on the bill: Baku, C.Versa, Connor and kitapon. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

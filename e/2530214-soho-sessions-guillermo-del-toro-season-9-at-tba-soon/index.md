@@ -1,6 +1,6 @@
 # SOHO SESSIONS • GUILLERMO DEL TORO • SEASON 9 at TBA - SOON
 
-SOHO SESSIONS • GUILLERMO DEL TORO • SEASON 9 at TBA - SOON on Fri 30 Oct, London. 3 acts on the bill: KOKOH, Natalie K Marsland and VENERE. Techno and House. Preview the line-up and save it on soundcheck.
+SOHO SESSIONS • GUILLERMO DEL TORO • SEASON 9 at TBA - SOON on Fri 30 Oct, London. 3 artists on the bill: KOKOH, Natalie K Marsland and VENERE. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

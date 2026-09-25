@@ -1,6 +1,6 @@
 # DURATIONS Festival 2026 at public records
 
-DURATIONS Festival 2026 at public records on Mon 9 Nov, Newyorkcity. 31 acts on the bill: Abby Echiverri, Afrikan Sciences, Ayanna Heaven and Buttechno and 27 more. Experimental. Preview the line-up and save it on soundcheck.
+DURATIONS Festival 2026 at public records on Mon 9 Nov, New York City. 31 artists on the bill: Abby Echiverri, Afrikan Sciences, Ayanna Heaven and Buttechno and 27 more. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

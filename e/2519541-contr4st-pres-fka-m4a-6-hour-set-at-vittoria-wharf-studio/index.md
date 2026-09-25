@@ -1,6 +1,6 @@
 # CONTR4ST pres. fka.m4a [6 hour set] at Vittoria Wharf Studio
 
-CONTR4ST pres. fka.m4a [6 hour set] at Vittoria Wharf Studio on Fri 2 Oct, London. 2 acts on the bill: CLOSE PROXIMITY and fka.m4a. Progressive House and House. Preview the line-up and save it on soundcheck.
+CONTR4ST pres. fka.m4a [6 hour set] at Vittoria Wharf Studio on Fri 2 Oct, London. 2 artists on the bill: CLOSE PROXIMITY and fka.m4a. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

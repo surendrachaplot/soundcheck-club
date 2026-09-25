@@ -1,6 +1,6 @@
 # Butterfly Effect with Eva Selezneva (UA), NAT, David Garset at Jolene
 
-Butterfly Effect with Eva Selezneva (UA), NAT, David Garset at Jolene on Sat 3 Oct, Copenhagen. 3 acts on the bill: David Garset, Eva Selezneva and NAT(SK). Progressive House and House. Preview the line-up and save it on soundcheck.
+Butterfly Effect with Eva Selezneva (UA), NAT, David Garset at Jolene on Sat 3 Oct, Copenhagen. 3 artists on the bill: David Garset, Eva Selezneva and NAT(SK). Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

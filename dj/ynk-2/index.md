@@ -2,7 +2,7 @@
 
 Ynk (2) is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Hamburg on Sat, 31 Oct 2026.
 
-Ynk (2) is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Hamburg. Often billed alongside dxrvo, Brandyy and Esoterik. Next up: TBA, Hamburg on Sat 31 Oct.
+Ynk is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Hamburg. Often billed alongside dxrvo, Brandyy and Esoterik. Next up: TBA, Hamburg on Sat 31 Oct.
 
 ## Upcoming shows
 

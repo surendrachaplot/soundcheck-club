@@ -1,6 +1,6 @@
 # MOMENTUM X HALLOWEEN at Kizuna
 
-MOMENTUM X HALLOWEEN at Kizuna on Sat 31 Oct, London. 5 acts on the bill: Harry Turner, Pedro Villa, Raldo and Suly Aslan and 1 more. Tech House. Preview the line-up and save it on soundcheck.
+MOMENTUM X HALLOWEEN at Kizuna on Sat 31 Oct, London. 5 artists on the bill: Harry Turner, Pedro Villa, Raldo and Suly Aslan and 1 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

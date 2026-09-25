@@ -1,6 +1,6 @@
 # Pier Play - Los Angeles at Santa Monica Pier
 
-Pier Play - Los Angeles at Santa Monica Pier on Sat 3 Oct, Losangeles. 7 acts on the bill: Claptone, Kaz James, LP Giobbi and Meduza and 3 more. House and Club. Preview the line-up and save it on soundcheck.
+Pier Play - Los Angeles at Santa Monica Pier on Sat 3 Oct, Los Angeles. 7 artists on the bill: Claptone, Kaz James, LP Giobbi and Meduza and 3 more. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

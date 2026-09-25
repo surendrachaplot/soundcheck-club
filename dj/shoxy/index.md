@@ -2,7 +2,7 @@
 
 Shoxy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Karmakoma, Belgrade on Fri, 25 Sept 2026.
 
-Shoxy is a techno and house artist based in Serbia, tracked on soundcheck, with 20 sets logged across Belgrade and Vienna. Often billed alongside Dea (6), Marko Nastic and Nicolas Lutz. Next up: Karmakoma, Belgrade on Fri 25 Sept.
+Shoxy is a techno and house artist based in Serbia, tracked on soundcheck, with 20 sets logged across Belgrade and Vienna. Often billed alongside Dea, Marko Nastic and Nicolas Lutz. Next up: Karmakoma, Belgrade on Fri 25 Sept.
 
 ## Upcoming shows
 

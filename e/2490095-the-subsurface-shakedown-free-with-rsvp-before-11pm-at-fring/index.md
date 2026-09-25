@@ -1,6 +1,6 @@
 # The Subsurface Shakedown- FREE with RSVP BEFORE 11pm at Fringe Bar
 
-The Subsurface Shakedown- FREE with RSVP BEFORE 11pm at Fringe Bar on Fri 25 Sept, Philadelphia. 5 acts on the bill: John Raffaele, Keen, Rob Paine and Ty Salone and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
+The Subsurface Shakedown- FREE with RSVP BEFORE 11pm at Fringe Bar on Fri 25 Sept, Philadelphia. 5 artists on the bill: John Raffaele, Keen, Rob Paine and Ty Salone and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

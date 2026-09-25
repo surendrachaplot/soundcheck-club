@@ -2,7 +2,7 @@
 
 Maraschino is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TRAUM, Antwerp on Sat, 24 Oct 2026.
 
-Maraschino is an electro and house artist based in Belgium, tracked on soundcheck, with 19 sets logged across Antwerp, Brussels, Ghent and Newyorkcity. Often billed alongside DC Noises, maraschino bb and Aroh. Next up: TRAUM, Antwerp on Sat 24 Oct.
+Maraschino is an electro and house artist based in Belgium, tracked on soundcheck, with 19 sets logged across Antwerp, Brussels, Ghent and New York City. Often billed alongside DC Noises, maraschino bb and Aroh. Next up: TRAUM, Antwerp on Sat 24 Oct.
 
 ## Upcoming shows
 

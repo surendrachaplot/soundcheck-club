@@ -2,7 +2,7 @@
 
 Colette is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Wax Music Lounge, Melbourne on Thu, 24 Sept 2026.
 
-Colette is a house and techno artist based in Australia, tracked on soundcheck, with 111 sets logged across Chicago, Losangeles, Marseille and Melbourne and 3 more. Often billed alongside Lewis Cancut, DJ JNETT and 3rd Orbit. Next up: Wax Music Lounge, Melbourne on Thu 24 Sept.
+Colette is a house and techno artist based in Australia, tracked on soundcheck, with 111 sets logged across Chicago, Los Angeles, Marseille and Melbourne and 3 more. Often billed alongside Lewis Cancut, DJ JNETT and 3rd Orbit. Next up: Wax Music Lounge, Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 

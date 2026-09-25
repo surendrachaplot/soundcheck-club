@@ -1,6 +1,6 @@
 # Abby Sundborn Holding Pattern Launch with Lara at Tempo Rubato
 
-Abby Sundborn Holding Pattern Launch with Lara at Tempo Rubato on Mon 28 Sept, Melbourne. 1 act on the bill: Abby Sundborn. Classical and Electronica. Preview the line-up and save it on soundcheck.
+Abby Sundborn Holding Pattern Launch with Lara at Tempo Rubato on Mon 28 Sept, Melbourne. 1 artist on the bill: Abby Sundborn. Classical and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

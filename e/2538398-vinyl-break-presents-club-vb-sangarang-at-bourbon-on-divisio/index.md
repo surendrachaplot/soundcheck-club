@@ -1,6 +1,6 @@
 # Vinyl Break presents: CLUB VB - Sangarang at Bourbon On Division
 
-Vinyl Break presents: CLUB VB - Sangarang at Bourbon On Division on Sat 3 Oct, Chicago. 2 acts on the bill: Kiefer Ian and Sangarang. House and Garage. Preview the line-up and save it on soundcheck.
+Vinyl Break presents: CLUB VB - Sangarang at Bourbon On Division on Sat 3 Oct, Chicago. 2 artists on the bill: Kiefer Ian and Sangarang. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

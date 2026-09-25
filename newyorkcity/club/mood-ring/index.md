@@ -2,7 +2,7 @@
 
 Mood Ring is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "crave next door" on Thu, 24 Sept 2026.
 
-Mood Ring is a music venue in Newyorkcity listed on soundcheck. 20 upcoming gigs, with line-ups including Ah Dek, Alejandra Sabillón, Alive Girl and AMLA.DHAS and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in New York City listed on soundcheck. 20 upcoming gigs, with line-ups including Ah Dek, Alejandra Sabillón, Alive Girl and AMLA.DHAS and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 

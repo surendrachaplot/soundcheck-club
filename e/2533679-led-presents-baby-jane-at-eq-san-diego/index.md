@@ -1,6 +1,6 @@
 # LED presents Baby Jane at EQ San Diego
 
-LED presents Baby Jane at EQ San Diego on Fri 18 Dec, Sandiego. 1 act on the bill: Baby Jane. Preview the line-up and save it on soundcheck.
+LED presents Baby Jane at EQ San Diego on Fri 18 Dec, San Diego. 1 artist on the bill: Baby Jane. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Love On Top Club with DJ SWISHA at Ampere
 
-Love On Top Club with DJ SWISHA at Ampere on Fri 9 Oct, Antwerp. 2 acts on the bill: BAVR and DJ SWISHA. Bass and Electronica. Preview the line-up and save it on soundcheck.
+Love On Top Club with DJ SWISHA at Ampere on Fri 9 Oct, Antwerp. 2 artists on the bill: BAVR and DJ SWISHA. Bass and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

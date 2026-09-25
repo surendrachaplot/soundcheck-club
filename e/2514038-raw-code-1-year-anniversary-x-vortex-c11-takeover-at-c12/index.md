@@ -1,6 +1,6 @@
 # Raw Code 1 Year Anniversary x VORTEX: C11 Takeover at C12
 
-Raw Code 1 Year Anniversary x VORTEX: C11 Takeover at C12 on Sat 26 Sept, Brussels. 4 acts on the bill: Basic Feelings (2), gucccifer, Nastya Dikikh and Wim Wixx.. Techno. Preview the line-up and save it on soundcheck.
+Raw Code 1 Year Anniversary x VORTEX: C11 Takeover at C12 on Sat 26 Sept, Brussels. 4 artists on the bill: Basic Feelings, gucccifer, Nastya Dikikh and Wim Wixx.. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

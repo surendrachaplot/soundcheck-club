@@ -1,6 +1,6 @@
 # OIL Pres. Evian Christ at OIL Club
 
-OIL Pres. Evian Christ at OIL Club on Sat 17 Oct, Shenzhen. 3 acts on the bill: DJ 86, Evian Christ and zzm (2). Trance and Techno. Preview the line-up and save it on soundcheck.
+OIL Pres. Evian Christ at OIL Club on Sat 17 Oct, Shenzhen. 3 artists on the bill: DJ 86, Evian Christ and zzm. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

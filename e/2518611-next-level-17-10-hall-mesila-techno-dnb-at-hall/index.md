@@ -1,6 +1,6 @@
 # NEXT LEVEL 17.10 // Hall - MESILA // TECHNO, DNB at Hall
 
-NEXT LEVEL 17.10 // Hall - MESILA // TECHNO, DNB on Sat 17 Oct, Tallinn. 1 act on the bill: RENGO. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+NEXT LEVEL 17.10 // Hall - MESILA // TECHNO, DNB on Sat 17 Oct, Tallinn. 1 artist on the bill: RENGO. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

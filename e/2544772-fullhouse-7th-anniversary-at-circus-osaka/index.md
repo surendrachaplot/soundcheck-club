@@ -1,6 +1,6 @@
 # FULLHOUSE 7th Anniversary at Circus Osaka
 
-FULLHOUSE 7th Anniversary at Circus Osaka on Fri 25 Sept, Osaka. 9 acts on the bill: cazbow, kengotaki, MileZ and nazanael and 5 more. Preview the line-up and save it on soundcheck.
+FULLHOUSE 7th Anniversary at Circus Osaka on Fri 25 Sept, Osaka. 9 artists on the bill: cazbow, kengotaki, MileZ and nazanael and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

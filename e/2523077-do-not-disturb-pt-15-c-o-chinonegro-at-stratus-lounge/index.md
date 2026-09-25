@@ -1,6 +1,6 @@
 # DO NOT DISTURB PT 15 c/o Chinonegro at Stratus Lounge
 
-DO NOT DISTURB PT 15 c/o Chinonegro at Stratus Lounge on Sun 27 Sept, Philadelphia. 1 act on the bill: Chinonegro. House and Tech House. Preview the line-up and save it on soundcheck.
+DO NOT DISTURB PT 15 c/o Chinonegro at Stratus Lounge on Sun 27 Sept, Philadelphia. 1 artist on the bill: Chinonegro. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

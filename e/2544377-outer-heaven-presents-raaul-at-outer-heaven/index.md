@@ -1,6 +1,6 @@
 # Outer Heaven presents: RAAUL at Outer Heaven
 
-Outer Heaven presents: RAAUL on Wed 23 Dec, Newyorkcity. 1 act on the bill: RAAUL. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: RAAUL on Wed 23 Dec, New York City. 1 artist on the bill: RAAUL. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

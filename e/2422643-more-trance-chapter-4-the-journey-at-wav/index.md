@@ -1,6 +1,6 @@
 # More Trance - Chapter 4: The Journey at WaV
 
-More Trance - Chapter 4: The Journey at WaV on Fri 23 Oct, Liverpool. 3 acts on the bill: Aidyscape, Ciaran McAuley and Connor (UK). Trance. Preview the line-up and save it on soundcheck.
+More Trance - Chapter 4: The Journey at WaV on Fri 23 Oct, Liverpool. 3 artists on the bill: Aidyscape, Ciaran McAuley and Connor (UK). Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

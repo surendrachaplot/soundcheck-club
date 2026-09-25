@@ -1,8 +1,8 @@
 # Kolsch
 
-Kolsch is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at fabric, London on Fri, 25 Sept 2026.
+Kolsch is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at fabric, London on Fri, 25 Sept 2026.
 
-Kolsch is a techno and house artist based in Denmark, tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 38 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: fabric, London on Fri 25 Sept.
+Kolsch is a techno and house artist based in Denmark, tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 39 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: fabric, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Kolsch is a techno and house artist based in Denmark, tracked on soundcheck, wit
 | Sat, 17 Oct 2026 | Warehouse | Nantes |
 | Fri, 23 Oct 2026 | Het Sieraad | Amsterdam |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
+| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 
 ## Recently played
 

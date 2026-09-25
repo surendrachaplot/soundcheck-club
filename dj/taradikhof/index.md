@@ -2,7 +2,7 @@
 
 Tara Dikhof is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Rogers Park Chicago, Chicago on Sun, 11 Oct 2026.
 
-Tara Dikhof is a club and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Boston, Chicago and Washingtondc. Often billed alongside Bridge (NY), Ether Pleaser and JAXX.. Next up: TBA - Rogers Park Chicago, Chicago on Sun 11 Oct.
+Tara Dikhof is a club and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Boston, Chicago and Washington DC. Often billed alongside Bridge (NY), Ether Pleaser and JAXX.. Next up: TBA - Rogers Park Chicago, Chicago on Sun 11 Oct.
 
 ## Upcoming shows
 

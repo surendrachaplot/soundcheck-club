@@ -1,6 +1,6 @@
 # Cycle at Lokschuppen Berlin
 
-Cycle at Lokschuppen Berlin on Sat 14 Nov, Berlin. 1 act on the bill: SIKXTO. Preview the line-up and save it on soundcheck.
+Cycle at Lokschuppen Berlin on Sat 14 Nov, Berlin. 1 artist on the bill: SIKXTO. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

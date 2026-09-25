@@ -1,6 +1,6 @@
 # TRIAGE: An Industry Night at The California Clipper
 
-TRIAGE: An Industry Night at The California Clipper on Tue 29 Sept, Chicago. 3 acts on the bill: Dan B Hood, Jaq Attaque and Jesse Sandwich. Progressive House and Italo Disco. Preview the line-up and save it on soundcheck.
+TRIAGE: An Industry Night at The California Clipper on Tue 29 Sept, Chicago. 3 artists on the bill: Dan B Hood, Jaq Attaque and Jesse Sandwich. Progressive House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rotational at TBA - Carcavelos (DM for full Location)
 
-Rotational at TBA - Carcavelos (DM for full Location) on Fri 30 Oct, Lisbon. 2 acts on the bill: Rotational and Silvestre. Club. Preview the line-up and save it on soundcheck.
+Rotational at TBA - Carcavelos (DM for full Location) on Fri 30 Oct, Lisbon. 2 artists on the bill: Rotational and Silvestre. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

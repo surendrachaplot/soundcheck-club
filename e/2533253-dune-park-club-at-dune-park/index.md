@@ -1,6 +1,6 @@
 # Dune Park Club at Dune Park
 
-Dune Park Club on Fri 25 Sept, Buenosaires. 2 acts on the bill: Bermani and VELZ (2). House and Acid. Preview the line-up and save it on soundcheck.
+Dune Park Club on Fri 25 Sept, Buenos Aires. 2 artists on the bill: Bermani and VELZ. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

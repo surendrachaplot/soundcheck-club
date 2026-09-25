@@ -1,6 +1,6 @@
 # Lupini presents A Common Task: Autumns & Kahn (live), Conor Thomas, MING MÒ LI at Kapsule
 
-Lupini presents A Common Task: Autumns & Kahn (live), Conor Thomas, MING MÒ LI at Kapsule on Sat 17 Oct, Liverpool. 4 acts on the bill: Autumns, Conor Thomas, Kahn and Lupini. Dub and Industrial. Preview the line-up and save it on soundcheck.
+Lupini presents A Common Task: Autumns & Kahn (live), Conor Thomas, MING MÒ LI at Kapsule on Sat 17 Oct, Liverpool. 4 artists on the bill: Autumns, Conor Thomas, Kahn and Lupini. Dub and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

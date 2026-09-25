@@ -1,6 +1,6 @@
 # Denham Audio, Kellam Matthews, Arina Krondeva & Rebekah Abdeen at Good Room
 
-Denham Audio, Kellam Matthews, Arina Krondeva & Rebekah Abdeen at Good Room on Sat 26 Sept, Newyorkcity. 4 acts on the bill: Arina Krondeva, Denham Audio, Kellam Matthews and Rebekah Abdeen. Preview the line-up and save it on soundcheck.
+Denham Audio, Kellam Matthews, Arina Krondeva & Rebekah Abdeen at Good Room on Sat 26 Sept, New York City. 4 artists on the bill: Arina Krondeva, Denham Audio, Kellam Matthews and Rebekah Abdeen. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

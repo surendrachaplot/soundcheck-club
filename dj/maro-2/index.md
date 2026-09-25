@@ -2,7 +2,7 @@
 
 MARØ (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Grelle Forelle, Vienna on Fri, 23 Oct 2026.
 
-MARØ (2) is a techno and house artist based in Austria, tracked on soundcheck, with 10 sets logged across Vienna. Often billed alongside Anna Ullrich, KRAWALLBARBIE and BLUDHOUND. Next up: Grelle Forelle, Vienna on Fri 23 Oct.
+MARØ is a techno and house artist based in Austria, tracked on soundcheck, with 10 sets logged across Vienna. Often billed alongside Anna Ullrich, KRAWALLBARBIE and BLUDHOUND. Next up: Grelle Forelle, Vienna on Fri 23 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # BERLIN BRAVES INFAMOUS AFTERPARTY XXL at Maaya
 
-BERLIN BRAVES INFAMOUS AFTERPARTY XXL at Maaya on Sun 27 Sept, Berlin. 7 acts on the bill: APOLONIA (4), Emo Rugene, Helina and HERNSY HEARNS and 3 more. House and Afro House. Preview the line-up and save it on soundcheck.
+BERLIN BRAVES INFAMOUS AFTERPARTY XXL at Maaya on Sun 27 Sept, Berlin. 7 artists on the bill: APOLONIA, Emo Rugene, Helina and HERNSY HEARNS and 3 more. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

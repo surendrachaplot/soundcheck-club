@@ -1,6 +1,6 @@
 # Bites & Beats x Padel Yard - In the Tent at TBA - The Padel Yard - 2 Armoury Way, London SW18 1SH
 
-Bites & Beats x Padel Yard - In the Tent at TBA - The Padel Yard - 2 Armoury Way, London SW18 1SH on Fri 18 Dec, London. 1 act on the bill: Matt Arnold. House and Tech House. Preview the line-up and save it on soundcheck.
+Bites & Beats x Padel Yard - In the Tent at TBA - The Padel Yard - 2 Armoury Way, London SW18 1SH on Fri 18 Dec, London. 1 artist on the bill: Matt Arnold. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

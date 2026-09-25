@@ -1,6 +1,6 @@
 # Tomodachi w/ Ion Ludwig (LIVE) at Tomodachi
 
-Tomodachi w/ Ion Ludwig (LIVE) on Sat 26 Sept, Ibiza. 2 acts on the bill: Ion Ludwig and Miller. House and Minimal. Preview the line-up and save it on soundcheck.
+Tomodachi w/ Ion Ludwig (LIVE) on Sat 26 Sept, Ibiza. 2 artists on the bill: Ion Ludwig and Miller. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

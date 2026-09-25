@@ -1,6 +1,6 @@
 # Hasenbau at Drucklufthaus
 
-Hasenbau at Drucklufthaus on Sat 5 Dec, Dortmund-essen. 1 act on the bill: AEKO. Preview the line-up and save it on soundcheck.
+Hasenbau at Drucklufthaus on Sat 5 Dec, Dortmund Essen. 1 artist on the bill: AEKO. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

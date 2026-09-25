@@ -1,6 +1,6 @@
 # WORK presents: Narciss, Masha Mar, & Marc Homer at TBA - Los Angeles
 
-WORK presents: Narciss, Masha Mar, & Marc Homer at TBA - Los Angeles on Fri 6 Nov, Losangeles. 3 acts on the bill: Marc Homer, Masha Mar and Narciss. Techno and House. Preview the line-up and save it on soundcheck.
+WORK presents: Narciss, Masha Mar, & Marc Homer at TBA - Los Angeles on Fri 6 Nov, Los Angeles. 3 artists on the bill: Marc Homer, Masha Mar and Narciss. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

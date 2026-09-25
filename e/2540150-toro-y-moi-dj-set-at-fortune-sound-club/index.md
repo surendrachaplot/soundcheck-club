@@ -1,6 +1,6 @@
 # Toro Y Moi (DJ SET) at Fortune Sound Club
 
-Toro Y Moi (DJ SET) at Fortune Sound Club on Sat 26 Sept, Vancouver. 1 act on the bill: Toro Y Moi. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Toro Y Moi (DJ SET) at Fortune Sound Club on Sat 26 Sept, Vancouver. 1 artist on the bill: Toro Y Moi. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

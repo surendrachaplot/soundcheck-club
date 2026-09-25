@@ -1,6 +1,6 @@
 # Slam: Return To Source [Open To Close] Warehouse Edition at The Clydeside Halls
 
-Slam: Return To Source [Open To Close] Warehouse Edition at The Clydeside Halls on Sat 26 Sept, Glasgow. 1 act on the bill: Slam. Techno and House. Preview the line-up and save it on soundcheck.
+Slam: Return To Source [Open To Close] Warehouse Edition at The Clydeside Halls on Sat 26 Sept, Glasgow. 1 artist on the bill: Slam. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

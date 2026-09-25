@@ -2,7 +2,7 @@
 
 Beltran is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Beltran is a house and tech house artist based in United States of America, tracked on soundcheck, with 73 sets logged across Amsterdam, Austin, Boston and Buenosaires and 24 more. Often billed alongside Ben Sterling, ChaseWest and KinAhau. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
+Beltran is a house and tech house artist based in United States of America, tracked on soundcheck, with 73 sets logged across Amsterdam, Austin, Boston and Buenos Aires and 24 more. Often billed alongside Ben Sterling, ChaseWest and KinAhau. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 

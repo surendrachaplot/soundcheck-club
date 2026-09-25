@@ -1,6 +1,6 @@
 # Knats AfterShow Party W/ Knats & Friends + Man Power at Are You Affiliated
 
-Knats AfterShow Party W/ Knats & Friends + Man Power at Are You Affiliated on Fri 23 Oct, Newcastle. 1 act on the bill: Man Power. Preview the line-up and save it on soundcheck.
+Knats AfterShow Party W/ Knats & Friends + Man Power at Are You Affiliated on Fri 23 Oct, Newcastle. 1 artist on the bill: Man Power. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

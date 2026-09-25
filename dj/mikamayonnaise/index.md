@@ -2,7 +2,7 @@
 
 Mikamayonnaise is a Techno and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lavallée, Brussels on Fri, 9 Oct 2026.
 
-Mikamayonnaise is a techno and post-punk artist based in Belgium, tracked on soundcheck, with 10 sets logged across Brussels. Often billed alongside KŌMA (3), Adi and Alex Lesage. Next up: Lavallée, Brussels on Fri 9 Oct.
+Mikamayonnaise is a techno and post-punk artist based in Belgium, tracked on soundcheck, with 10 sets logged across Brussels. Often billed alongside KŌMA, Adi and Alex Lesage. Next up: Lavallée, Brussels on Fri 9 Oct.
 
 ## Upcoming shows
 

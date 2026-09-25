@@ -1,6 +1,6 @@
 # EPOCH at New Guernica
 
-EPOCH at New Guernica on Fri 2 Oct, Melbourne. 2 acts on the bill: Elle (AU) and Kait Xri. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+EPOCH at New Guernica on Fri 2 Oct, Melbourne. 2 artists on the bill: Elle (AU) and Kait Xri. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nü Androids presents: Morgan Seatree at Culture
 
-Nü Androids presents: Morgan Seatree at Culture on Fri 9 Oct, Washingtondc. 1 act on the bill: Morgan Seatree. Garage and Tech House. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Morgan Seatree at Culture on Fri 9 Oct, Washington DC. 1 artist on the bill: Morgan Seatree. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

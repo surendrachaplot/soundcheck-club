@@ -1,6 +1,6 @@
 # David Christopher at The Paradise Now
 
-David Christopher at The Paradise Now on Sat 26 Sept, Dusseldorf. 1 act on the bill: David Christopher. House. Preview the line-up and save it on soundcheck.
+David Christopher at The Paradise Now on Sat 26 Sept, Düsseldorf. 1 artist on the bill: David Christopher. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KTA.MKE - Progressive House on Open Air Terrace and Indoor Club at DNA. CLUB
 
-KTA.MKE - Progressive House on Open Air Terrace and Indoor Club at DNA. CLUB on Sat 3 Oct, Berlin. 2 acts on the bill: Silversurfer and Tallah. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+KTA.MKE - Progressive House on Open Air Terrace and Indoor Club at DNA. CLUB on Sat 3 Oct, Berlin. 2 artists on the bill: Silversurfer and Tallah. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

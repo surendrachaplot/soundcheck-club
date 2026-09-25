@@ -1,6 +1,6 @@
 # Club Bad Vol. 001: TRANSYLVANIA at TBA
 
-Club Bad Vol. 001: TRANSYLVANIA at TBA on Sat 10 Oct, Sandiego. 2 acts on the bill: Ariel Zetina and HOOCHIE (1). Techno and Electro. Preview the line-up and save it on soundcheck.
+Club Bad Vol. 001: TRANSYLVANIA at TBA on Sat 10 Oct, San Diego. 2 artists on the bill: Ariel Zetina and HOOCHIE. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

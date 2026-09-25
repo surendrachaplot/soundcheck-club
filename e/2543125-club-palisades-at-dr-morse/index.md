@@ -1,6 +1,6 @@
 # Club Palisades at Dr Morse
 
-Club Palisades at Dr Morse on Thu 24 Sept, Melbourne. 1 act on the bill: DYNO. House and Electronica. Preview the line-up and save it on soundcheck.
+Club Palisades at Dr Morse on Thu 24 Sept, Melbourne. 1 artist on the bill: DYNO. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DJ Tennis All Night Long / Batu · Answer Code Request Live · Kenya Arakama at Nitsa Club
 
-DJ Tennis All Night Long / Batu · Answer Code Request Live · Kenya Arakama at Nitsa Club on Sat 10 Oct, Barcelona. 4 acts on the bill: Answer Code Request, Batu, DJ Tennis and Kenya Arakama. Techno and House. Preview the line-up and save it on soundcheck.
+DJ Tennis All Night Long / Batu · Answer Code Request Live · Kenya Arakama at Nitsa Club on Sat 10 Oct, Barcelona. 4 artists on the bill: Answer Code Request, Batu, DJ Tennis and Kenya Arakama. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

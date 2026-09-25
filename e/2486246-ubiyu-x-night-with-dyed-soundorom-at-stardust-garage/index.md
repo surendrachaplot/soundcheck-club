@@ -1,6 +1,6 @@
 # ubiyu x night with Dyed Soundorom at Stardust Garage
 
-ubiyu x night with Dyed Soundorom at Stardust Garage on Fri 13 Nov, Austin. 2 acts on the bill: Dyed Soundorom and Robert Roman. Deep House. Preview the line-up and save it on soundcheck.
+ubiyu x night with Dyed Soundorom at Stardust Garage on Fri 13 Nov, Austin. 2 artists on the bill: Dyed Soundorom and Robert Roman. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

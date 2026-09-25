@@ -2,7 +2,7 @@
 
 carmen (7) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at radial, London on Fri, 30 Oct 2026.
 
-carmen (7) is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Delay Grounds, Djuar and Paul McManamon. Next up: radial, London on Fri 30 Oct.
+carmen is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Delay Grounds, Djuar and Paul McManamon. Next up: radial, London on Fri 30 Oct.
 
 ## Upcoming shows
 

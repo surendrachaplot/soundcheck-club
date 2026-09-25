@@ -1,6 +1,6 @@
 # Halloween DAY1 pres. Rhadoo All Night Long at Les Enfants Brillants
 
-Halloween DAY1 pres. Rhadoo All Night Long at Les Enfants Brillants on Fri 30 Oct, Barcelona. 1 act on the bill: Rhadoo. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+Halloween DAY1 pres. Rhadoo All Night Long at Les Enfants Brillants on Fri 30 Oct, Barcelona. 1 artist on the bill: Rhadoo. Minimal and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

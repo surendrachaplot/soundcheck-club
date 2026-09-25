@@ -1,6 +1,6 @@
 # SYNTHETICA SEASON OPENING • saturday morning at Company w Glädjee,Saffio,Meier,Contro il metodo at Company Club
 
-SYNTHETICA SEASON OPENING • saturday morning at Company w Glädjee,Saffio,Meier,Contro il metodo at Company Club on Sat 26 Sept, Milan. 1 act on the bill: GLADJEE. Techno. Preview the line-up and save it on soundcheck.
+SYNTHETICA SEASON OPENING • saturday morning at Company w Glädjee,Saffio,Meier,Contro il metodo at Company Club on Sat 26 Sept, Milan. 1 artist on the bill: GLADJEE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

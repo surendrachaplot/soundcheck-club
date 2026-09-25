@@ -1,6 +1,6 @@
 # Creche - The Big Christmas Rave at fabric
 
-Creche - The Big Christmas Rave at fabric on Sun 20 Dec, London. 4 acts on the bill: Alexis Raphael, Clive Henry, Davide Squillace and wAFF. House and Deep House. Preview the line-up and save it on soundcheck.
+Creche - The Big Christmas Rave at fabric on Sun 20 Dec, London. 4 artists on the bill: Alexis Raphael, Clive Henry, Davide Squillace and wAFF. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

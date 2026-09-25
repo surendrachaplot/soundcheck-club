@@ -1,6 +1,6 @@
 # Art Club 5th Birthday at Mint Warehouse
 
-Art Club 5th Birthday at Mint Warehouse on Sat 3 Oct, Leeds. 9 acts on the bill: Alec Falconer, Arty (UK), Captain Wallop and DJ Perception and 5 more. Garage and Tech House. Preview the line-up and save it on soundcheck.
+Art Club 5th Birthday at Mint Warehouse on Sat 3 Oct, Leeds. 9 artists on the bill: Alec Falconer, Arty (UK), Captain Wallop and DJ Perception and 5 more. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

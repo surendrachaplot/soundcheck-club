@@ -2,7 +2,7 @@
 
 Act of Rage is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Classic Grand, Glasgow on Fri, 2 Oct 2026.
 
-Act of Rage is a hardcore and techno artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Brussels, Cologne, Dortmund-essen and Frankfurt and 8 more. Often billed alongside Partyraiser, Angerfist and Marc Acardipane. Next up: The Classic Grand, Glasgow on Fri 2 Oct.
+Act of Rage is a hardcore and techno artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Brussels, Cologne, Dortmund Essen and Frankfurt and 8 more. Often billed alongside Partyraiser, Angerfist and Marc Acardipane. Next up: The Classic Grand, Glasgow on Fri 2 Oct.
 
 ## Upcoming shows
 

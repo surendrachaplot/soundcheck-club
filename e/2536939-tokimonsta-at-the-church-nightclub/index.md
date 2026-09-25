@@ -1,6 +1,6 @@
 # TOKiMONSTA at The Church Nightclub
 
-TOKiMONSTA at The Church Nightclub on Fri 13 Nov, Denver. 1 act on the bill: TOKiMONSTA. House. Preview the line-up and save it on soundcheck.
+TOKiMONSTA at The Church Nightclub on Fri 13 Nov, Denver. 1 artist on the bill: TOKiMONSTA. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

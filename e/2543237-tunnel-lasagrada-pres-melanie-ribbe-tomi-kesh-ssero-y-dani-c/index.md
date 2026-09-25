@@ -1,6 +1,6 @@
 # Tunnel & laSagrada pres. Melanie Ribbe, Tomi & Kesh, Ssero y Dani Corbero at Bikini Club
 
-Tunnel & laSagrada pres. Melanie Ribbe, Tomi & Kesh, Ssero y Dani Corbero at Bikini Club on Fri 23 Oct, Barcelona. 4 acts on the bill: Dani Corberó, Melanie Ribbe, Ssero and Tomi & Kesh. Preview the line-up and save it on soundcheck.
+Tunnel & laSagrada pres. Melanie Ribbe, Tomi & Kesh, Ssero y Dani Corbero at Bikini Club on Fri 23 Oct, Barcelona. 4 artists on the bill: Dani Corberó, Melanie Ribbe, Ssero and Tomi & Kesh. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

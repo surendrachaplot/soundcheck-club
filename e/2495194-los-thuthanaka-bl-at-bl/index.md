@@ -1,6 +1,6 @@
 # Los Thuthanaka / BLÅ at Blå
 
-Los Thuthanaka / BLÅ at Blå on Fri 30 Oct, Oslo. 1 act on the bill: Los Thuthanaka. Preview the line-up and save it on soundcheck.
+Los Thuthanaka / BLÅ at Blå on Fri 30 Oct, Oslo. 1 artist on the bill: Los Thuthanaka. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

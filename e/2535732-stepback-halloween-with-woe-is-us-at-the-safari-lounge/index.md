@@ -1,6 +1,6 @@
 # Stepback Halloween with WOE is us at The Safari Lounge
 
-Stepback Halloween with WOE is us at The Safari Lounge on Fri 30 Oct, Edinburgh. 3 acts on the bill: Keyte, WOE is us and WolfJazz. Techno and House. Preview the line-up and save it on soundcheck.
+Stepback Halloween with WOE is us at The Safari Lounge on Fri 30 Oct, Edinburgh. 3 artists on the bill: Keyte, WOE is us and WolfJazz. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

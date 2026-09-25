@@ -2,7 +2,7 @@
 
 oKálo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Don't be a Dick, Athens on Thu, 24 Sept 2026.
 
-oKálo is a house and electronica artist based in Greece, tracked on soundcheck, with 19 sets logged across Athens. Often billed alongside Stratos (2), Asphalt DJ and Reign Of Time. Next up: Don't be a Dick, Athens on Thu 24 Sept.
+oKálo is a house and electronica artist based in Greece, tracked on soundcheck, with 19 sets logged across Athens. Often billed alongside Stratos, Asphalt DJ and Reign Of Time. Next up: Don't be a Dick, Athens on Thu 24 Sept.
 
 ## Upcoming shows
 

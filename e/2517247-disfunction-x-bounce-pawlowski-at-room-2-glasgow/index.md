@@ -1,6 +1,6 @@
 # DISFUNCTION x BOUNCE: Pawlowski at Room 2 Glasgow
 
-DISFUNCTION x BOUNCE: Pawlowski at Room 2 Glasgow on Sun 27 Sept, Glasgow. 1 act on the bill: Pawlowski (UK). Techno. Preview the line-up and save it on soundcheck.
+DISFUNCTION x BOUNCE: Pawlowski at Room 2 Glasgow on Sun 27 Sept, Glasgow. 1 artist on the bill: Pawlowski (UK). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

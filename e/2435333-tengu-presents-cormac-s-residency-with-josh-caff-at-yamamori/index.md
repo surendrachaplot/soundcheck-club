@@ -1,6 +1,6 @@
 # Tengu presents: Cormac's Residency with Josh Caffé at Yamamori Tengu
 
-Tengu presents: Cormac's Residency with Josh Caffé at Yamamori Tengu on Fri 6 Nov, Dublin. 2 acts on the bill: Cormac and Josh Caffé. House. Preview the line-up and save it on soundcheck.
+Tengu presents: Cormac's Residency with Josh Caffé at Yamamori Tengu on Fri 6 Nov, Dublin. 2 artists on the bill: Cormac and Josh Caffé. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

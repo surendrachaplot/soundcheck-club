@@ -1,6 +1,6 @@
 # Gerd Janson at Fidelity Studio
 
-Gerd Janson at Fidelity Studio on Sun 25 Oct, Dublin. 1 act on the bill: Gerd Janson. Preview the line-up and save it on soundcheck.
+Gerd Janson at Fidelity Studio on Sun 25 Oct, Dublin. 1 artist on the bill: Gerd Janson. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

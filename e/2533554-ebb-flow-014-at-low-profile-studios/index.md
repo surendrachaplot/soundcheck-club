@@ -1,6 +1,6 @@
 # ebb/flow #014 at Low Profile Studios
 
-ebb/flow #014 at Low Profile Studios on Sat 21 Nov, London. 1 act on the bill: ebb/flow collective. House and Italo Disco. Preview the line-up and save it on soundcheck.
+ebb/flow #014 at Low Profile Studios on Sat 21 Nov, London. 1 artist on the bill: ebb/flow collective. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

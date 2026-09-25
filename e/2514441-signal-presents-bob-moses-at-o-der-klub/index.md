@@ -1,6 +1,6 @@
 # SIGNAL presents Bob Moses at O der Klub
 
-SIGNAL presents Bob Moses at O der Klub on Fri 23 Oct, Vienna. 1 act on the bill: Bob Moses. House and Deep House. Preview the line-up and save it on soundcheck.
+SIGNAL presents Bob Moses at O der Klub on Fri 23 Oct, Vienna. 1 artist on the bill: Bob Moses. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cristoph - Joshua Brooks Manchester at Joshua Brooks
 
-Cristoph - Joshua Brooks Manchester on Sat 10 Oct, Manchester. 1 act on the bill: Cristoph. Progressive House and House. Preview the line-up and save it on soundcheck.
+Cristoph - Joshua Brooks Manchester on Sat 10 Oct, Manchester. 1 artist on the bill: Cristoph. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

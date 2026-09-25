@@ -1,6 +1,6 @@
 # Šaknys Culture Lisbon: TSHA, Luke Alessi, Sally C, The Trip at Quinta Mira Rio
 
-Šaknys Culture Lisbon: TSHA, Luke Alessi, Sally C, The Trip at Quinta Mira Rio on Sat 26 Sept, Lisbon. 4 acts on the bill: Luke Alessi, Sally C, The Trip and TSHA. House and Tech House. Preview the line-up and save it on soundcheck.
+Šaknys Culture Lisbon: TSHA, Luke Alessi, Sally C, The Trip at Quinta Mira Rio on Sat 26 Sept, Lisbon. 4 artists on the bill: Luke Alessi, Sally C, The Trip and TSHA. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

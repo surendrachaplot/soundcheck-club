@@ -1,6 +1,6 @@
 # Hospital30: Brighton at Melkweg
 
-Hospital30: Brighton at Melkweg on Fri 23 Oct, Amsterdam. 5 acts on the bill: Emma B, Gabriella Bongo, HOAX and Metrik and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+Hospital30: Brighton at Melkweg on Fri 23 Oct, Amsterdam. 5 artists on the bill: Emma B, Gabriella Bongo, HOAX and Metrik and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

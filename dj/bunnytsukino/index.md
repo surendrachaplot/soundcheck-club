@@ -2,7 +2,7 @@
 
 Bunny Tsukino is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
 
-Bunny Tsukino is a techno and bass artist tracked on soundcheck, with 33 sets logged across Berlin, Hamburg, Leipzig and Prague and 1 more. Often billed alongside micina, Leeza (2) and Cleo SNK. Next up: Jonny Knüppel, Berlin on Fri 25 Sept.
+Bunny Tsukino is a techno and bass artist tracked on soundcheck, with 33 sets logged across Berlin, Hamburg, Leipzig and Prague and 1 more. Often billed alongside micina, Leeza and Cleo SNK. Next up: Jonny Knüppel, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 

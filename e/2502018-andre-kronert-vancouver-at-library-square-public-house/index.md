@@ -1,6 +1,6 @@
 # Andre Kronert- Vancouver at Library Square Public House
 
-Andre Kronert- Vancouver at Library Square Public House on Fri 25 Sept, Vancouver. 1 act on the bill: Andre Kronert. Techno and House. Preview the line-up and save it on soundcheck.
+Andre Kronert- Vancouver at Library Square Public House on Fri 25 Sept, Vancouver. 1 artist on the bill: Andre Kronert. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

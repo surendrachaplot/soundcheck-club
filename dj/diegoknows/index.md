@@ -2,7 +2,7 @@
 
 Diego Knows is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Sun, 18 Oct 2026.
 
-Diego Knows is a house and deep house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Istanbul, Lisbon, Newyorkcity and Washingtondc. Often billed alongside Pedro Goya, Gio Gulez and 3C. Next up: Flash, Washingtondc on Sun 18 Oct.
+Diego Knows is a house and deep house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Istanbul, Lisbon, New York City and Washington DC. Often billed alongside Pedro Goya, Gio Gulez and 3C. Next up: Flash, Washington DC on Sun 18 Oct.
 
 ## Upcoming shows
 

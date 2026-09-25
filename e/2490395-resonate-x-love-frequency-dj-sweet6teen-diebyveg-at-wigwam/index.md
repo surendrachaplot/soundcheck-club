@@ -1,6 +1,6 @@
 # Resonate x LOVE FREQUENCY: DJ sweet6teen & DIEBYVEG at Wigwam
 
-Resonate x LOVE FREQUENCY: DJ sweet6teen & DIEBYVEG at Wigwam on Fri 11 Dec, Dublin. 2 acts on the bill: DIEBYVEG and dj sweet6teen. Progressive House and House. Preview the line-up and save it on soundcheck.
+Resonate x LOVE FREQUENCY: DJ sweet6teen & DIEBYVEG at Wigwam on Fri 11 Dec, Dublin. 2 artists on the bill: DIEBYVEG and dj sweet6teen. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

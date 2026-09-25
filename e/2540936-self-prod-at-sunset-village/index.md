@@ -1,6 +1,6 @@
 # SELF_PROD at Sunset Village
 
-SELF_PROD at Sunset Village on Sat 17 Oct, Sanfrancisco. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+SELF_PROD at Sunset Village on Sat 17 Oct, San Francisco/Oakland. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

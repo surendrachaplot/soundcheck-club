@@ -1,6 +1,6 @@
 # 4 My People X Femme Frequency at Zoom Club
 
-4 My People X Femme Frequency at Zoom Club on Sat 17 Oct, Frankfurt. 6 acts on the bill: 18+, CAIVA, Cera Khin and Mila Black and 2 more. Techno and Afro House. Preview the line-up and save it on soundcheck.
+4 My People X Femme Frequency at Zoom Club on Sat 17 Oct, Frankfurt. 6 artists on the bill: 18+, CAIVA, Cera Khin and Mila Black and 2 more. Techno and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hertz 헤르츠 meets: Shakolin (Delirious, UA) at Hertz
 
-Hertz 헤르츠 meets: Shakolin (Delirious, UA) on Sat 26 Sept, Seoul. 3 acts on the bill: Jesse You, Shakolin and Soyo. Club and Dub Techno. Preview the line-up and save it on soundcheck.
+Hertz 헤르츠 meets: Shakolin (Delirious, UA) on Sat 26 Sept, Seoul. 3 artists on the bill: Jesse You, Shakolin and Soyo. Club and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

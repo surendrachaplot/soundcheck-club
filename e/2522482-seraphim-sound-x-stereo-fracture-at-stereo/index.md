@@ -1,6 +1,6 @@
 # Seraphim Sound x Stereo: Fracture at Stereo
 
-Seraphim Sound x Stereo: Fracture on Sat 10 Oct, Glasgow. 2 acts on the bill: Fracture and Loose E. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Seraphim Sound x Stereo: Fracture on Sat 10 Oct, Glasgow. 2 artists on the bill: Fracture and Loose E. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

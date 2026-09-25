@@ -2,7 +2,7 @@
 
 CLOVA is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
 
-CLOVA is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Auckland, Glasgow and North-island. Often billed alongside Nessy, Benjaminaudio. and K-LUB. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed 30 Dec.
+CLOVA is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Auckland, Glasgow and North Island. Often billed alongside Nessy, Benjaminaudio. and K-LUB. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North Island on Wed 30 Dec.
 
 ## Upcoming shows
 

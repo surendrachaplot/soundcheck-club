@@ -1,6 +1,6 @@
 # HOUSE WORX (HIGH OCTANE HOUSE ANTHEMS - ALL NITE LONG) at Catch One
 
-HOUSE WORX (HIGH OCTANE HOUSE ANTHEMS - ALL NITE LONG) at Catch One on Sat 26 Sept, Losangeles. Preview the line-up and save it on soundcheck.
+HOUSE WORX (HIGH OCTANE HOUSE ANTHEMS - ALL NITE LONG) at Catch One on Sat 26 Sept, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

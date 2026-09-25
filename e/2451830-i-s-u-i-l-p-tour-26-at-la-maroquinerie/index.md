@@ -1,6 +1,6 @@
 # I.S.U.I.L.P TOUR 26 at La Maroquinerie
 
-I.S.U.I.L.P TOUR 26 at La Maroquinerie on Tue 27 Oct, Paris. 1 act on the bill: Kabeaushé. Experimental and Pop. Preview the line-up and save it on soundcheck.
+I.S.U.I.L.P TOUR 26 at La Maroquinerie on Tue 27 Oct, Paris. 1 artist on the bill: Kabeaushé. Experimental and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

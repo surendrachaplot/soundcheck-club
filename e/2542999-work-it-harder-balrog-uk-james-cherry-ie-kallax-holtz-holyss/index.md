@@ -1,6 +1,6 @@
 # WORK IT HARDER: Balrog (UK) / James Cherry (IE) / Kallax / Holtz / Holysss / MINHI at MODULE
 
-WORK IT HARDER: Balrog (UK) / James Cherry (IE) / Kallax / Holtz / Holysss / MINHI at MODULE on Sat 10 Oct, Copenhagen. 6 acts on the bill: Balrog, Holtz (2), Holysss and James Cherry and 2 more. Techno. Preview the line-up and save it on soundcheck.
+WORK IT HARDER: Balrog (UK) / James Cherry (IE) / Kallax / Holtz / Holysss / MINHI at MODULE on Sat 10 Oct, Copenhagen. 6 artists on the bill: Balrog, Holtz, Holysss and James Cherry and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jin Synth (Semantica Records, On Board Music, KR3 Records /TW) hosted by Eclisse at Astoria
 
-Jin Synth (Semantica Records, On Board Music, KR3 Records /TW) hosted by Eclisse at Astoria on Fri 6 Nov, Turin. 1 act on the bill: Jin Synth. Techno. Preview the line-up and save it on soundcheck.
+Jin Synth (Semantica Records, On Board Music, KR3 Records /TW) hosted by Eclisse at Astoria on Fri 6 Nov, Turin. 1 artist on the bill: Jin Synth. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

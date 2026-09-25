@@ -1,6 +1,6 @@
 # Hertz at Silbergold
 
-Hertz at Silbergold on Fri 25 Sept, Frankfurt. 1 act on the bill: LUZIA. Trance and House. Preview the line-up and save it on soundcheck.
+Hertz at Silbergold on Fri 25 Sept, Frankfurt. 1 artist on the bill: LUZIA. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

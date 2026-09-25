@@ -1,6 +1,6 @@
 # UWABASS vol.2 at Enter Shibuya
 
-UWABASS vol.2 at Enter Shibuya on Fri 9 Oct, Tokyo. 7 acts on the bill: Herbalistek, MAYUDEPTH, Naco (2) and Pine and 3 more. Bass. Preview the line-up and save it on soundcheck.
+UWABASS vol.2 at Enter Shibuya on Fri 9 Oct, Tokyo. 7 artists on the bill: Herbalistek, MAYUDEPTH, Naco and Pine and 3 more. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

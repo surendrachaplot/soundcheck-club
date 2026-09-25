@@ -1,6 +1,6 @@
 # Hangar Festival — Halloween Edition — SAVE THE DATE at Brussels Gate
 
-Hangar Festival — Halloween Edition — SAVE THE DATE at Brussels Gate on Sat 31 Oct, Brussels. 7 acts on the bill: Jungle (UK), Justin Jay, Kōma and Lauravioli and 3 more. Preview the line-up and save it on soundcheck.
+Hangar Festival — Halloween Edition — SAVE THE DATE at Brussels Gate on Sat 31 Oct, Brussels. 7 artists on the bill: Jungle (UK), Justin Jay, Kōma and Lauravioli and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

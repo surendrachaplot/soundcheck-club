@@ -15,7 +15,7 @@ Saloon is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with lin
 | Sun, 11 Oct 2026 | FOREST NOISE | FELINE (JP), S.H.V |
 | Thu, 15 Oct 2026 | KALT Vol.1 | Dayzero, Kombé |
 | Thu, 22 Oct 2026 | TOTEM vol.4 | KEVIN KOFII |
-| Sat, 31 Oct 2026 |  ENiGMA feat. T.NO | MoEPiKA, Pine, Romy Mats, T.NO |
+| Sat, 31 Oct 2026 |  ENiGMA feat. T.NO | MoEPiKA, Pine, Romy Mats, S.H.V, T.NO, TAKENOKO, YUVIE |
 
 ## Address
 

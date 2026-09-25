@@ -1,6 +1,6 @@
 # Maribou State - special DJ-set at BAR15
 
-Maribou State - special DJ-set at BAR15 on Sat 17 Oct, Stockholm. 1 act on the bill: Maribou State. House and Disco. Preview the line-up and save it on soundcheck.
+Maribou State - special DJ-set at BAR15 on Sat 17 Oct, Stockholm. 1 artist on the bill: Maribou State. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

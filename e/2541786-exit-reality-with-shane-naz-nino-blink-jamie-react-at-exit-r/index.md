@@ -1,6 +1,6 @@
 # Exit Reality with Shane Naz, Nino Blink & Jamie React at Exit Reality
 
-Exit Reality with Shane Naz, Nino Blink & Jamie React on Fri 25 Sept, Singapore. 2 acts on the bill: Jamie React and Nino Blink. Techno and House. Preview the line-up and save it on soundcheck.
+Exit Reality with Shane Naz, Nino Blink & Jamie React on Fri 25 Sept, Singapore. 2 artists on the bill: Jamie React and Nino Blink. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

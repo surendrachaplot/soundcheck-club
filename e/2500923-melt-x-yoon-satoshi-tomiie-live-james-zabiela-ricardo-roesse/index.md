@@ -1,6 +1,6 @@
 # MELT x YOON: Satoshi Tomiie (Live), James Zabiela, Ricardo Roessel, Tom Pickles, Eda, Ika & Ush at TBA - Arts District LA
 
-MELT x YOON: Satoshi Tomiie (Live), James Zabiela, Ricardo Roessel, Tom Pickles, Eda, Ika & Ush at TBA - Arts District LA on Sat 31 Oct, Losangeles. 7 acts on the bill: EDA (2), Ika (GE), James Zabiela and Ricardo Roessel and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+MELT x YOON: Satoshi Tomiie (Live), James Zabiela, Ricardo Roessel, Tom Pickles, Eda, Ika & Ush at TBA - Arts District LA on Sat 31 Oct, Los Angeles. 7 artists on the bill: EDA, Ika (GE), James Zabiela and Ricardo Roessel and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

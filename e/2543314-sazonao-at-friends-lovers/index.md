@@ -1,6 +1,6 @@
 # SAZONAO at Friends & Lovers
 
-SAZONAO at Friends & Lovers on Fri 25 Sept, Newyorkcity. Afrobeat and Dembow. Preview the line-up and save it on soundcheck.
+SAZONAO at Friends & Lovers on Fri 25 Sept, New York City. Afrobeat and Dembow. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Unnamed at Macarena Club
 
-Unnamed at Macarena Club on Fri 30 Oct, Barcelona. 2 acts on the bill: Amadori and Liebig. Preview the line-up and save it on soundcheck.
+Unnamed at Macarena Club on Fri 30 Oct, Barcelona. 2 artists on the bill: Amadori and Liebig. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

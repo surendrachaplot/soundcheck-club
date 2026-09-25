@@ -1,6 +1,6 @@
 # Carbon Based Lifeforms - Belgrade- 19.10.26 -Drugstore at Drugstore Beograd
 
-Carbon Based Lifeforms - Belgrade- 19.10.26 -Drugstore at Drugstore Beograd on Mon 19 Oct, Belgrade. 1 act on the bill: Carbon Based Lifeforms. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Carbon Based Lifeforms - Belgrade- 19.10.26 -Drugstore at Drugstore Beograd on Mon 19 Oct, Belgrade. 1 artist on the bill: Carbon Based Lifeforms. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

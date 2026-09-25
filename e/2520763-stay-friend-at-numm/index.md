@@ -1,6 +1,6 @@
 # STAY FRIEND at Numm
 
-STAY FRIEND at Numm on Sun 27 Sept, Tokyo. 1 act on the bill: Kentaro Takizawa. Preview the line-up and save it on soundcheck.
+STAY FRIEND at Numm on Sun 27 Sept, Tokyo. 1 artist on the bill: Kentaro Takizawa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

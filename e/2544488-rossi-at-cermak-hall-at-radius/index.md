@@ -1,6 +1,6 @@
 # Rossi. at Cermak Hall at Radius
 
-Rossi. at Cermak Hall at Radius on Fri 6 Nov, Chicago. 1 act on the bill: Rossi. Minimal. Preview the line-up and save it on soundcheck.
+Rossi. at Cermak Hall at Radius on Fri 6 Nov, Chicago. 1 artist on the bill: Rossi. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

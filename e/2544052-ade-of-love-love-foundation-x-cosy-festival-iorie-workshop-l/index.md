@@ -1,6 +1,6 @@
 # ADE of LOVE: Love Foundation X CoSy Festival - Iorie (workshop + live), Soso Klein & many more at Waterhouse Studios
 
-ADE of LOVE: Love Foundation X CoSy Festival - Iorie (workshop + live), Soso Klein & many more at Waterhouse Studios on Fri 23 Oct, Amsterdam. 4 acts on the bill: Iorie, Oli Neate, Robert Romain and Soso Klein. Deep House and Electronica. Preview the line-up and save it on soundcheck.
+ADE of LOVE: Love Foundation X CoSy Festival - Iorie (workshop + live), Soso Klein & many more at Waterhouse Studios on Fri 23 Oct, Amsterdam. 4 artists on the bill: Iorie, Oli Neate, Robert Romain and Soso Klein. Deep House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

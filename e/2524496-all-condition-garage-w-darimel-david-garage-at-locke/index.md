@@ -1,6 +1,6 @@
 # ALL CONDITION GARAGE w/ Darimel & David Garage at Locke
 
-ALL CONDITION GARAGE w/ Darimel & David Garage at Locke on Thu 22 Oct, Hamburg. 1 act on the bill: Darimel. Garage and Grime. Preview the line-up and save it on soundcheck.
+ALL CONDITION GARAGE w/ Darimel & David Garage at Locke on Thu 22 Oct, Hamburg. 1 artist on the bill: Darimel. Garage and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

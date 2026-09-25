@@ -1,6 +1,6 @@
 # Flash Cocotte pride reloaded Edition at Le Trabendo
 
-Flash Cocotte pride reloaded Edition at Le Trabendo on Sat 3 Oct, Paris. 2 acts on the bill: Cardopusher and Pipi De Frèche. Tech House. Preview the line-up and save it on soundcheck.
+Flash Cocotte pride reloaded Edition at Le Trabendo on Sat 3 Oct, Paris. 2 artists on the bill: Cardopusher and Pipi De Frèche. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

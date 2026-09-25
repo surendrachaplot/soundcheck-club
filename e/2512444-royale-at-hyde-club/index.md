@@ -1,6 +1,6 @@
 # Royale at Hyde Club
 
-Royale at Hyde Club on Fri 25 Sept, Barcelona. 2 acts on the bill: Kleyver Reyes and Tympanic. Techno and House. Preview the line-up and save it on soundcheck.
+Royale at Hyde Club on Fri 25 Sept, Barcelona. 2 artists on the bill: Kleyver Reyes and Tympanic. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

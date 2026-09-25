@@ -1,6 +1,6 @@
 # XP1ONAGE at XTC Bushwick
 
-XP1ONAGE at XTC Bushwick on Sat 26 Sept, Newyorkcity. 6 acts on the bill: Dasychira, FortifiedStructures, LOKA (US) and m i m i (US) and 2 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+XP1ONAGE at XTC Bushwick on Sat 26 Sept, New York City. 6 artists on the bill: Dasychira, FortifiedStructures, LOKA (US) and m i m i (US) and 2 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

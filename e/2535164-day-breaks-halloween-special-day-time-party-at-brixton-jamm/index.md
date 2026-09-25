@@ -1,6 +1,6 @@
 # Day Breaks Halloween Special Day Time Party at Brixton Jamm
 
-Day Breaks Halloween Special Day Time Party at Brixton Jamm on Sat 31 Oct, London. 3 acts on the bill: Evil Nine, Plump DJs and Yo Speed. House and Bass. Preview the line-up and save it on soundcheck.
+Day Breaks Halloween Special Day Time Party at Brixton Jamm on Sat 31 Oct, London. 3 artists on the bill: Evil Nine, Plump DJs and Yo Speed. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

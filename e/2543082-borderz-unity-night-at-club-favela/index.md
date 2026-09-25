@@ -1,6 +1,6 @@
 # BORDERZ UNITY NIGHT at Club Favela
 
-BORDERZ UNITY NIGHT at Club Favela on Sat 3 Oct, Munster. 2 acts on the bill: IXOS and Mansist. Techno. Preview the line-up and save it on soundcheck.
+BORDERZ UNITY NIGHT at Club Favela on Sat 3 Oct, Munster. 2 artists on the bill: IXOS and Mansist. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DNA Club Closing Friday at DNA Club
 
-DNA Club Closing Friday on Fri 25 Sept, Munich. 1 act on the bill: SpanierOhneAuto. Trance and Techno. Preview the line-up and save it on soundcheck.
+DNA Club Closing Friday on Fri 25 Sept, Munich. 1 artist on the bill: SpanierOhneAuto. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

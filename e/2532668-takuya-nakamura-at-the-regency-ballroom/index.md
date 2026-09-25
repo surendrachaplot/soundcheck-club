@@ -1,6 +1,6 @@
 # Takuya Nakamura at The Regency Ballroom
 
-Takuya Nakamura at The Regency Ballroom on Sat 19 Dec, Sanfrancisco. 1 act on the bill: Takuya Nakamura. Preview the line-up and save it on soundcheck.
+Takuya Nakamura at The Regency Ballroom on Sat 19 Dec, San Francisco/Oakland. 1 artist on the bill: Takuya Nakamura. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

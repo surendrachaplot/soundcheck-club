@@ -1,6 +1,6 @@
 # DJ Budai '30 Years Of Techno' Special guest: Sonic Rain at Kassa Boat
 
-DJ Budai '30 Years Of Techno' Special guest: Sonic Rain at Kassa Boat on Thu 22 Oct, Budapest. 2 acts on the bill: DJ Budai and Sonic Rain. Techno. Preview the line-up and save it on soundcheck.
+DJ Budai '30 Years Of Techno' Special guest: Sonic Rain at Kassa Boat on Thu 22 Oct, Budapest. 2 artists on the bill: DJ Budai and Sonic Rain. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

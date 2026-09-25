@@ -1,6 +1,6 @@
 # Tengu Jazz: Rita Lynn Quartet & Alba - Second Show at Yamamori Tengu
 
-Tengu Jazz: Rita Lynn Quartet & Alba - Second Show at Yamamori Tengu on Tue 20 Oct, Dublin. 1 act on the bill: Alba (2). Jazz. Preview the line-up and save it on soundcheck.
+Tengu Jazz: Rita Lynn Quartet & Alba - Second Show at Yamamori Tengu on Tue 20 Oct, Dublin. 1 artist on the bill: Alba. Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

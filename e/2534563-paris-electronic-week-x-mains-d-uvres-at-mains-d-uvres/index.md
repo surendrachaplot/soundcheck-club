@@ -1,6 +1,6 @@
 # Paris Electronic Week x Mains D'œuvres at Mains D'œuvres
 
-Paris Electronic Week x Mains D'œuvres on Sat 3 Oct, Paris. 2 acts on the bill: Jan Loup and Sara Persico. Bass. Preview the line-up and save it on soundcheck.
+Paris Electronic Week x Mains D'œuvres on Sat 3 Oct, Paris. 2 artists on the bill: Jan Loup and Sara Persico. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

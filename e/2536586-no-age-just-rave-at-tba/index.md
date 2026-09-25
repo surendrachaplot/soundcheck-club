@@ -1,6 +1,6 @@
 # No Age just Rave at TBA
 
-No Age just Rave at TBA on Sat 10 Oct, Berlin. 1 act on the bill: ZweiE. House and Afro House. Preview the line-up and save it on soundcheck.
+No Age just Rave at TBA on Sat 10 Oct, Berlin. 1 artist on the bill: ZweiE. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

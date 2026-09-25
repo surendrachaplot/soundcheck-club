@@ -1,6 +1,6 @@
 # Colleen 'Cosmo' Murphy / Sarah Bates (live) / Sorcha & Mike at The Golden Lion
 
-Colleen 'Cosmo' Murphy / Sarah Bates (live) / Sorcha & Mike at The Golden Lion on Fri 23 Oct, Manchester. 2 acts on the bill: Colleen 'Cosmo' Murphy and Sarah Bates. Disco and Balearic. Preview the line-up and save it on soundcheck.
+Colleen 'Cosmo' Murphy / Sarah Bates (live) / Sorcha & Mike at The Golden Lion on Fri 23 Oct, Manchester. 2 artists on the bill: Colleen 'Cosmo' Murphy and Sarah Bates. Disco and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

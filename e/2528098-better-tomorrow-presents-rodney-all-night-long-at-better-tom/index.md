@@ -1,6 +1,6 @@
 # Better Tomorrow Presents: Rodney (all night long) at Better Tomorrow
 
-Better Tomorrow Presents: Rodney (all night long) on Sat 17 Oct, Losangeles. 1 act on the bill: Rodney (2). House and Acid. Preview the line-up and save it on soundcheck.
+Better Tomorrow Presents: Rodney (all night long) on Sat 17 Oct, Los Angeles. 1 artist on the bill: Rodney. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

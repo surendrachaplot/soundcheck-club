@@ -1,6 +1,6 @@
 # Arre Crew - Olympo Sky Bar, Microcentro - ALLMusicParties at TBA - Olympo Sky Bar, Microcentro
 
-Arre Crew - Olympo Sky Bar, Microcentro - ALLMusicParties at TBA - Olympo Sky Bar, Microcentro on Sat 26 Sept, Buenosaires. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Arre Crew - Olympo Sky Bar, Microcentro - ALLMusicParties at TBA - Olympo Sky Bar, Microcentro on Sat 26 Sept, Buenos Aires. Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

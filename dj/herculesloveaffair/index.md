@@ -1,13 +1,14 @@
 # Hercules & Love Affair
 
-Hercules & Love Affair is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BASEMENT, New York City on Sat, 24 Oct 2026.
+Hercules & Love Affair is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Rua Solon, 1121 - Bom Retiro, São Paulo - SP, 01127-010, Brasil, Sao Paulo on Fri, 25 Sept 2026.
 
-Hercules & Love Affair are a house and disco duo based in United States of America, tracked on soundcheck, with 59 sets logged across Athens, Bali, Bangkok and Barcelona and 26 more. Often billed alongside COBRAH, HAAi and TAAHLIAH. Next up: BASEMENT, Newyorkcity on Sat 24 Oct.
+Hercules & Love Affair are a house and disco duo based in United States of America, tracked on soundcheck, with 60 sets logged across Athens, Bali, Bangkok and Barcelona and 26 more. Often billed alongside COBRAH, HAAi and TAAHLIAH. Next up: TBA - Rua Solon, 1121 - Bom Retiro, São Paulo - SP, 01127-010, Brasil, Sao Paulo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | TBA - Rua Solon, 1121 - Bom Retiro, São Paulo - SP, 01127-010, Brasil | Sao Paulo |
 | Sat, 24 Oct 2026 | BASEMENT | New York City |
 | Sat, 14 Nov 2026 | The Night Cat | Melbourne |
 | Sat, 14 Nov 2026 | TBA | Sydney |

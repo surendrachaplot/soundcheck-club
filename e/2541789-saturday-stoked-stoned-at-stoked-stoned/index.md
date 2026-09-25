@@ -1,6 +1,6 @@
 # Saturday Stoked&stoned at Stoked&stoned
 
-Saturday Stoked&stoned on Sat 26 Sept, Seoul. 3 acts on the bill: Ligrye, Riskii (2) and Sebibadboy. Techno and House. Preview the line-up and save it on soundcheck.
+Saturday Stoked&stoned on Sat 26 Sept, Seoul. 3 artists on the bill: Ligrye, Riskii and Sebibadboy. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

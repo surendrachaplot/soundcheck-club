@@ -1,6 +1,6 @@
 # BUNKER RAVE BERLIN - KlangSubsTanz at TBA - telegram @klangsubstanz
 
-BUNKER RAVE BERLIN - KlangSubsTanz at TBA - telegram @klangsubstanz on Sat 10 Oct, Berlin. 21 acts on the bill: 403 (DE), AHAB, ATIKIN and BERLIN and 17 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+BUNKER RAVE BERLIN - KlangSubsTanz at TBA - telegram @klangsubstanz on Sat 10 Oct, Berlin. 21 artists on the bill: 403 (DE), AHAB, ATIKIN and BERLIN and 17 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

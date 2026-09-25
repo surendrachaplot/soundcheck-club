@@ -1,6 +1,6 @@
 # Hotel Danesfield at Hen's Teeth
 
-Hotel Danesfield at Hen's Teeth on Sat 19 Dec, Dublin. 3 acts on the bill: DJ-CK, iasc and Tyvion Valentine. House and Deep House. Preview the line-up and save it on soundcheck.
+Hotel Danesfield at Hen's Teeth on Sat 19 Dec, Dublin. 3 artists on the bill: DJ-CK, iasc and Tyvion Valentine. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 S-Pill is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Atdge Seoul, Seoul on Sat, 26 Sept 2026.
 
-S-Pill is a techno and minimal techno artist based in South Korea, tracked on soundcheck, with 19 sets logged across Hongkong, Seoul and Tokyo. Often billed alongside Hogun, ccb and ADRIANNA.C. Next up: Atdge Seoul, Seoul on Sat 26 Sept.
+S-Pill is a techno and minimal techno artist based in South Korea, tracked on soundcheck, with 19 sets logged across Hong Kong, Seoul and Tokyo. Often billed alongside Hogun, ccb and ADRIANNA.C. Next up: Atdge Seoul, Seoul on Sat 26 Sept.
 
 ## Upcoming shows
 

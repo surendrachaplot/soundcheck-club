@@ -1,8 +1,8 @@
 # AAguilAA
 
-AAguilAA is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paloma, Berlin on Sun, 27 Sept 2026.
+AAguilAA is a House and Pop artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paloma, Berlin on Sun, 27 Sept 2026.
 
-AAguilAA is a house and pop artist based in Belgium, tracked on soundcheck, with 38 sets logged across Berlin, Brussels and Lisbon. Often billed alongside The Stress, Daniel Wang and Afonso Peixoto. Next up: Paloma, Berlin on Sun 27 Sept.
+AAguilAA is a house and pop artist based in Belgium, tracked on soundcheck, with 39 sets logged across Berlin, Brussels and Lisbon. Often billed alongside The Stress, Daniel Wang and Afonso Peixoto. Next up: Paloma, Berlin on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ AAguilAA is a house and pop artist based in Belgium, tracked on soundcheck, with
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Paloma | Berlin |
 | Fri, 16 Oct 2026 | C12 | Brussels |
+| Fri, 13 Nov 2026 | KitKatClub | Berlin |
 
 ## Recently played
 

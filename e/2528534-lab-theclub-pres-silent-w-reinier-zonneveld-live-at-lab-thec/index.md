@@ -1,6 +1,6 @@
 # LAB theClub pres. Silent w/ Reinier Zonneveld live at LAB theCLUB
 
-LAB theClub pres. Silent w/ Reinier Zonneveld live at LAB theCLUB on Fri 16 Oct, Madrid. 1 act on the bill: Reinier Zonneveld. Techno. Preview the line-up and save it on soundcheck.
+LAB theClub pres. Silent w/ Reinier Zonneveld live at LAB theCLUB on Fri 16 Oct, Madrid. 1 artist on the bill: Reinier Zonneveld. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

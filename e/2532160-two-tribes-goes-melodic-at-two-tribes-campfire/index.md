@@ -1,6 +1,6 @@
 # Two Tribes Goes Melodic at Two Tribes CAMPFIRE
 
-Two Tribes Goes Melodic at Two Tribes CAMPFIRE on Fri 25 Sept, London. 6 acts on the bill: Bushman (UK), Christian J, FRESCO (UK) and GYS (TT) and 2 more. House and Afro House. Preview the line-up and save it on soundcheck.
+Two Tribes Goes Melodic at Two Tribes CAMPFIRE on Fri 25 Sept, London. 6 artists on the bill: Bushman (UK), Christian J, FRESCO (UK) and GYS (TT) and 2 more. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Osmosis in the Trees at TBA - Out ‘n’ About Treesort
 
-Osmosis in the Trees at TBA - Out ‘n’ About Treesort on Thu 24 Sept, Portland. 48 acts on the bill: 8maos, Aaron Davis, aka-Sol and Alvaro and 44 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Osmosis in the Trees at TBA - Out ‘n’ About Treesort on Thu 24 Sept, Portland. 48 artists on the bill: 8maos, Aaron Davis, aka-Sol and Alvaro and 44 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -57,6 +57,6 @@ Osmosis in the Trees at TBA - Out ‘n’ About Treesort on Thu 24 Sept, Portlan
 - Trustfall
 - Vlada
 - Wata Igarashi
-- Yumi
+- Yu Mi
 
 *Source: [soundcheck](https://soundcheck.club/e/2423344-osmosis-in-the-trees-at-tba-out-n-about-treesort/)*

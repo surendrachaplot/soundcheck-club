@@ -1,6 +1,6 @@
 # Disco(very) & friends at Tendance
 
-Disco(very) & friends at Tendance on Sat 26 Sept, Prague. 1 act on the bill: Sabzipolo. Preview the line-up and save it on soundcheck.
+Disco(very) & friends at Tendance on Sat 26 Sept, Prague. 1 artist on the bill: Sabzipolo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

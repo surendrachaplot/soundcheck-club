@@ -1,6 +1,6 @@
 # PÜR Society MERCÈ SPECIAL x BRAM Society @Garage442 at Garage 442
 
-PÜR Society MERCÈ SPECIAL x BRAM Society @Garage442 at Garage 442 on Thu 24 Sept, Barcelona. 2 acts on the bill: KARI (Ø) and NEONKOLA. Techno. Preview the line-up and save it on soundcheck.
+PÜR Society MERCÈ SPECIAL x BRAM Society @Garage442 at Garage 442 on Thu 24 Sept, Barcelona. 2 artists on the bill: KARI (Ø) and NEONKOLA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

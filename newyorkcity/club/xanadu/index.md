@@ -2,7 +2,7 @@
 
 Xanadu is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Twin Shadow (concert)" on Thu, 24 Sept 2026.
 
-Xanadu is a music venue in Newyorkcity listed on soundcheck. 6 upcoming gigs, with line-ups including Dangerous Rose, Andi, Makadsi and Marie Davidson and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
+Xanadu is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Dangerous Rose, Andi, Makadsi and Marie Davidson and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
 ## What's on
 

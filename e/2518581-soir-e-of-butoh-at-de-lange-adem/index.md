@@ -1,6 +1,6 @@
 # Soirée of Butoh at De Lange Adem
 
-Soirée of Butoh at De Lange Adem on Sun 4 Oct, Amsterdam. 2 acts on the bill: Interlude and Pause. Experimental and Ballroom. Preview the line-up and save it on soundcheck.
+Soirée of Butoh at De Lange Adem on Sun 4 Oct, Amsterdam. 2 artists on the bill: Interlude and Pause. Experimental and Ballroom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

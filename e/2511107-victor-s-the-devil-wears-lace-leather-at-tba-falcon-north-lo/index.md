@@ -1,6 +1,6 @@
 # Victor's: The Devil Wears Lace & Leather at TBA - FALCON NORTH LONG BEACH
 
-Victor's: The Devil Wears Lace & Leather at TBA - FALCON NORTH LONG BEACH on Fri 2 Oct, Losangeles. Deep House and Club. Preview the line-up and save it on soundcheck.
+Victor's: The Devil Wears Lace & Leather at TBA - FALCON NORTH LONG BEACH on Fri 2 Oct, Los Angeles. Deep House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

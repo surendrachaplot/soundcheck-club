@@ -1,6 +1,6 @@
 # the slag do: back 2 skool at The DBA
 
-the slag do: back 2 skool at The DBA on Thu 8 Oct, Manchester. 1 act on the bill: FOULMOUTH. Preview the line-up and save it on soundcheck.
+the slag do: back 2 skool at The DBA on Thu 8 Oct, Manchester. 1 artist on the bill: FOULMOUTH. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

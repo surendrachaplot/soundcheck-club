@@ -1,6 +1,6 @@
 # Brooke Candy at DNA Lounge
 
-Brooke Candy at DNA Lounge on Sun 27 Sept, Sanfrancisco. 4 acts on the bill: Del (4), DMN TWNK, Shane Thomas and SNAQ. Techno and House. Preview the line-up and save it on soundcheck.
+Brooke Candy at DNA Lounge on Sun 27 Sept, San Francisco/Oakland. 4 artists on the bill: Del, DMN TWNK, Shane Thomas and SNAQ. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

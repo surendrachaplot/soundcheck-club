@@ -1,8 +1,8 @@
 # Special Guest (US)
 
-Special Guest (US) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Nest, Nottingham on Sat, 17 Oct 2026.
+Special Guest (US) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Nest, Nottingham on Sat, 17 Oct 2026.
 
-Special Guest (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Auckland and 38 more. Often billed alongside DJ S (UK), Carasel and SP:MC. Next up: The Nest, Nottingham on Sat 17 Oct.
+Special Guest (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Auckland and 39 more. Often billed alongside DJ S (UK), Carasel and SP:MC. Next up: The Nest, Nottingham on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Special Guest (US) is a house and techno artist based in United States of Americ
 | Fri, 23 Oct 2026 | fabric | London |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
+| Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
 
 ## Recently played
 

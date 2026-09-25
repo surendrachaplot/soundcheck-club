@@ -1,6 +1,6 @@
 # CLUB Y2K | HITS + EDM + MORE at Live Music Hall
 
-CLUB Y2K | HITS + EDM + MORE at Live Music Hall on Fri 25 Sept, Cologne. 1 act on the bill: localgingerbitch. Pop and Club. Preview the line-up and save it on soundcheck.
+CLUB Y2K | HITS + EDM + MORE at Live Music Hall on Fri 25 Sept, Cologne. 1 artist on the bill: localgingerbitch. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,14 @@
 # Alci
 
-Alci is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tunnel, Milan on Fri, 25 Sept 2026.
+Alci is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Studionotte, Milan on Fri, 25 Sept 2026.
 
-Alci is a house and minimal artist based in Switzerland, tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Basel and Brussels and 24 more. Often billed alongside Flavio (CH), ANOTR and Mateo Dufour. Next up: Tunnel, Milan on Fri 25 Sept.
+Alci is a house and minimal artist based in Switzerland, tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Basel and Brussels and 24 more. Often billed alongside Flavio (CH), ANOTR and Mateo Dufour. Next up: Studionotte, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Tunnel | Milan |
+| Fri, 25 Sept 2026 | Studionotte | Milan |
 | Fri, 23 Oct 2026 | Camarat | Amsterdam |
 | Fri, 23 Oct 2026 | Peter de Grote | Amsterdam |
 | Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |

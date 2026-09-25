@@ -1,6 +1,6 @@
 # The big watford reunion part 2 at Dunnings 2
 
-The big watford reunion part 2 at Dunnings 2 on Sat 3 Oct, London. 5 acts on the bill: Kaz Daniels, Matt Jam Lamont, MC Creed and MC PSG and 1 more. Garage. Preview the line-up and save it on soundcheck.
+The big watford reunion part 2 at Dunnings 2 on Sat 3 Oct, London. 5 artists on the bill: Kaz Daniels, Matt Jam Lamont, MC Creed and MC PSG and 1 more. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

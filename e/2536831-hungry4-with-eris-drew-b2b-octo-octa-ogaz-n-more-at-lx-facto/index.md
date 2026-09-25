@@ -1,6 +1,6 @@
 # Hungry4 with Eris Drew b2b Octo Octa, Ogazón & More at Lx Factory
 
-Hungry4 with Eris Drew b2b Octo Octa, Ogazón & More at Lx Factory on Sat 14 Nov, Lisbon. 7 acts on the bill: Eris Drew, Miguel Nery, Nicolle Velcro and Octa Push and 3 more. House. Preview the line-up and save it on soundcheck.
+Hungry4 with Eris Drew b2b Octo Octa, Ogazón & More at Lx Factory on Sat 14 Nov, Lisbon. 7 artists on the bill: Eris Drew, Miguel Nery, Nicolle Velcro and Octa Push and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

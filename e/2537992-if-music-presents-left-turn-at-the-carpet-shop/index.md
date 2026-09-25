@@ -1,6 +1,6 @@
 # If Music presents 'Left Turn' at The Carpet Shop
 
-If Music presents 'Left Turn' at The Carpet Shop on Sun 18 Oct, London. 1 act on the bill: DJ Flight. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+If Music presents 'Left Turn' at The Carpet Shop on Sun 18 Oct, London. 1 artist on the bill: DJ Flight. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

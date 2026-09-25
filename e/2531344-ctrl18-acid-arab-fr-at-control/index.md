@@ -1,6 +1,6 @@
 # ctrl18: Acid Arab [FR] at control
 
-ctrl18: Acid Arab [FR] at control on Fri 2 Oct, Bucharest. 1 act on the bill: Acid Arab. Techno and Electronica. Preview the line-up and save it on soundcheck.
+ctrl18: Acid Arab [FR] at control on Fri 2 Oct, Bucharest. 1 artist on the bill: Acid Arab. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

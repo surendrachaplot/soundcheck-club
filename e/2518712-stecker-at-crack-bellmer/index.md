@@ -1,6 +1,6 @@
 # STECKER at Crack Bellmer
 
-STECKER at Crack Bellmer on Sat 26 Sept, Berlin. 5 acts on the bill: BUTZ, Jimmie, Laura de Vasconcelos and Maneta and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+STECKER at Crack Bellmer on Sat 26 Sept, Berlin. 5 artists on the bill: BUTZ, Jimmie, Laura de Vasconcelos and Maneta and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

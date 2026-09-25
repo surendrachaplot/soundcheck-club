@@ -1,6 +1,6 @@
 # Max Dean presents NEXUP at Amnesia Ibiza
 
-Max Dean presents NEXUP at Amnesia Ibiza on Mon 5 Oct, Ibiza. 7 acts on the bill: Chopper, Joss Dean, Lily C-D and Locky and 3 more. Tech House. Preview the line-up and save it on soundcheck.
+Max Dean presents NEXUP at Amnesia Ibiza on Mon 5 Oct, Ibiza. 7 artists on the bill: Chopper, Joss Dean, Lily C-D and Locky and 3 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

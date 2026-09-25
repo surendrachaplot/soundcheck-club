@@ -1,6 +1,6 @@
 # Nü Androids presents: Amtrac (Live) at Culture
 
-Nü Androids presents: Amtrac (Live) at Culture on Fri 18 Dec, Washingtondc. 1 act on the bill: Amtrac. Progressive House and House. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Amtrac (Live) at Culture on Fri 18 Dec, Washington DC. 1 artist on the bill: Amtrac. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Buckley Curates: Buckley B2B Dyslecta B2B harpriya (All Night Long) at Sneaky Pete's
 
-Buckley Curates: Buckley B2B Dyslecta B2B harpriya (All Night Long) at Sneaky Pete's on Wed 14 Oct, Edinburgh. 3 acts on the bill: Buckley (UK), Dyslecta and harpriya. Preview the line-up and save it on soundcheck.
+Buckley Curates: Buckley B2B Dyslecta B2B harpriya (All Night Long) at Sneaky Pete's on Wed 14 Oct, Edinburgh. 3 artists on the bill: Buckley (UK), Dyslecta and harpriya. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

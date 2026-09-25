@@ -1,6 +1,6 @@
 # 482 Studio Jack at TBA - Gleis 6
 
-482 Studio Jack at TBA - Gleis 6 on Fri 2 Oct, Berlin. 2 acts on the bill: Donkey Trax and Mr. Galonga. House and Deep House. Preview the line-up and save it on soundcheck.
+482 Studio Jack at TBA - Gleis 6 on Fri 2 Oct, Berlin. 2 artists on the bill: Donkey Trax and Mr. Galonga. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

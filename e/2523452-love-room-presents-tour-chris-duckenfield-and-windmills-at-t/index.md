@@ -1,6 +1,6 @@
 # Love Room presents Touré, Chris Duckenfield and Windmills at TBA
 
-Love Room presents Touré, Chris Duckenfield and Windmills at TBA on Sat 26 Sept, Sheffield. 2 acts on the bill: Chris Duckenfield and Touré. House. Preview the line-up and save it on soundcheck.
+Love Room presents Touré, Chris Duckenfield and Windmills at TBA on Sat 26 Sept, Sheffield. 2 artists on the bill: Chris Duckenfield and Touré. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

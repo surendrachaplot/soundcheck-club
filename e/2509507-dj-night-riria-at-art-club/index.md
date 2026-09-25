@@ -1,6 +1,6 @@
 # DJ Night — Riria at Art Club
 
-DJ Night — Riria at Art Club on Sat 26 Sept, Houston. 1 act on the bill: RIRIA. Garage and Club. Preview the line-up and save it on soundcheck.
+DJ Night — Riria at Art Club on Sat 26 Sept, Houston. 1 artist on the bill: RIRIA. Garage and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

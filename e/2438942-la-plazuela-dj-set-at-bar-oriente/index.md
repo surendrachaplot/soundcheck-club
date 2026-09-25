@@ -1,6 +1,6 @@
 # La Plazuela (Dj Set) at Bar Oriente
 
-La Plazuela (Dj Set) at Bar Oriente on Fri 16 Oct, Mexicocity. Funk / Soul and Electronica. Preview the line-up and save it on soundcheck.
+La Plazuela (Dj Set) at Bar Oriente on Fri 16 Oct, Mexico City. Funk / Soul and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

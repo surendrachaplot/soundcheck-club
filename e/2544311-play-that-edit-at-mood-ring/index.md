@@ -1,6 +1,6 @@
 # PLAY THAT EDIT at Mood Ring
 
-PLAY THAT EDIT at Mood Ring on Wed 7 Oct, Newyorkcity. 3 acts on the bill: benny sun, jo_sway and Petal. Preview the line-up and save it on soundcheck.
+PLAY THAT EDIT at Mood Ring on Wed 7 Oct, New York City. 3 artists on the bill: benny sun, jo_sway and Petal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

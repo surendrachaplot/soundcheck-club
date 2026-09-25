@@ -1,6 +1,6 @@
 # HARD NOISES - DJ MORE, ALTRAX, SORONELLAS, FLORES, IKEROVSKI, SHIMIKO at DETROIT CLUB
 
-HARD NOISES - DJ MORE, ALTRAX, SORONELLAS, FLORES, IKEROVSKI, SHIMIKO at DETROIT CLUB on Sat 17 Oct, Barcelona. 1 act on the bill: ALTRAX. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+HARD NOISES - DJ MORE, ALTRAX, SORONELLAS, FLORES, IKEROVSKI, SHIMIKO at DETROIT CLUB on Sat 17 Oct, Barcelona. 1 artist on the bill: ALTRAX. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

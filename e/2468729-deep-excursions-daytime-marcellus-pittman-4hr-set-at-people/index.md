@@ -1,6 +1,6 @@
 # Deep Excursions (Daytime): Marcellus Pittman - 4hr Set at People's Leisure Club
 
-Deep Excursions (Daytime): Marcellus Pittman - 4hr Set at People's Leisure Club on Sat 26 Sept, Edinburgh. 2 acts on the bill: Marcellus Pittman and Stephen Rodgers. Techno and House. Preview the line-up and save it on soundcheck.
+Deep Excursions (Daytime): Marcellus Pittman - 4hr Set at People's Leisure Club on Sat 26 Sept, Edinburgh. 2 artists on the bill: Marcellus Pittman and Stephen Rodgers. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

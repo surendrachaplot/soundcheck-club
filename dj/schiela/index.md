@@ -2,7 +2,7 @@
 
 Schiela is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Atelier Rooftop, Berlin on Fri, 25 Sept 2026.
 
-Schiela is a house and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Istanbul and Newyorkcity and 1 more. Often billed alongside Christoph Faust, Power Squad and Alyssa & Gia. Next up: Atelier Rooftop, Berlin on Fri 25 Sept.
+Schiela is a house and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Istanbul and New York City and 1 more. Often billed alongside Christoph Faust, Power Squad and Alyssa & Gia. Next up: Atelier Rooftop, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 

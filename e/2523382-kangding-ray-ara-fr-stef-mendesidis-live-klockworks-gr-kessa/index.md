@@ -1,6 +1,6 @@
 # Kangding Ray (Ara /FR), Stef Mendesidis live (Klockworks /GR), Kessa (WRD /IT) at Q35 WAREHOUSE
 
-Kangding Ray (Ara /FR), Stef Mendesidis live (Klockworks /GR), Kessa (WRD /IT) at Q35 WAREHOUSE on Sat 3 Oct, Turin. 3 acts on the bill: Kangding Ray, Kessa and Stef Mendesidis. Techno. Preview the line-up and save it on soundcheck.
+Kangding Ray (Ara /FR), Stef Mendesidis live (Klockworks /GR), Kessa (WRD /IT) at Q35 WAREHOUSE on Sat 3 Oct, Turin. 3 artists on the bill: Kangding Ray, Kessa and Stef Mendesidis. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

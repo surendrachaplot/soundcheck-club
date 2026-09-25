@@ -1,6 +1,6 @@
 # Big Kharma // N-Type - Crazy D - Breakfake at Village Underground Barcelona
 
-Big Kharma // N-Type - Crazy D - Breakfake at Village Underground Barcelona on Sat 19 Dec, Barcelona. 4 acts on the bill: Breakfake, MC Stormy, Mimsy and N-Type. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Big Kharma // N-Type - Crazy D - Breakfake at Village Underground Barcelona on Sat 19 Dec, Barcelona. 4 artists on the bill: Breakfake, MC Stormy, Mimsy and N-Type. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

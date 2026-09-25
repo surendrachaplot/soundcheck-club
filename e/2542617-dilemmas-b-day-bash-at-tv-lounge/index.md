@@ -1,6 +1,6 @@
 # Dilemmas B Day Bash at TV Lounge
 
-Dilemmas B Day Bash at TV Lounge on Fri 23 Oct, Detroit. 3 acts on the bill: Brent Shay, DJ Seoul and Sinister Dosage. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Dilemmas B Day Bash at TV Lounge on Fri 23 Oct, Detroit. 3 artists on the bill: Brent Shay, DJ Seoul and Sinister Dosage. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

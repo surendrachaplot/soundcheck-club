@@ -1,6 +1,6 @@
 # QUEEN OUT in the Castro — UNiiQU3, Azure, 4dhila, MAMA SAN at The Cafe
 
-QUEEN OUT in the Castro — UNiiQU3, Azure, 4dhila, MAMA SAN at The Cafe on Thu 15 Oct, Sanfrancisco. 3 acts on the bill: Azure, MAMA SAN and UNiiQU3. Pop and Club. Preview the line-up and save it on soundcheck.
+QUEEN OUT in the Castro — UNiiQU3, Azure, 4dhila, MAMA SAN at The Cafe on Thu 15 Oct, San Francisco/Oakland. 3 artists on the bill: Azure, MAMA SAN and UNiiQU3. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

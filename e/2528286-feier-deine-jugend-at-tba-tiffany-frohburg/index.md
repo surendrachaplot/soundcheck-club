@@ -1,6 +1,6 @@
 # Feier deine Jugend at TBA - Tiffany Frohburg
 
-Feier deine Jugend at TBA - Tiffany Frohburg on Sat 24 Oct, Leipzig. 1 act on the bill: Sugar D.. Techno and House. Preview the line-up and save it on soundcheck.
+Feier deine Jugend at TBA - Tiffany Frohburg on Sat 24 Oct, Leipzig. 1 artist on the bill: Sugar D.. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # [CANCELLED] THERAPY PRESENTS: Kitty Amor at TBA
 
-[CANCELLED] THERAPY PRESENTS: Kitty Amor at TBA on Sat 26 Sept, Toronto. 1 act on the bill: Kitty Amor. House and Afro House. Preview the line-up and save it on soundcheck.
+[CANCELLED] THERAPY PRESENTS: Kitty Amor at TBA on Sat 26 Sept, Toronto. 1 artist on the bill: Kitty Amor. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

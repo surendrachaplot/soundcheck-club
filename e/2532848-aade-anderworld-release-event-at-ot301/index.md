@@ -1,6 +1,6 @@
 # AADE: Anderworld release event at OT301
 
-AADE: Anderworld release event at OT301 on Fri 23 Oct, Amsterdam. 2 acts on the bill: Camy Huot and Parrish Smith. Preview the line-up and save it on soundcheck.
+AADE: Anderworld release event at OT301 on Fri 23 Oct, Amsterdam. 2 artists on the bill: Camy Huot and Parrish Smith. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

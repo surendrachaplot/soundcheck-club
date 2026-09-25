@@ -1,6 +1,6 @@
 # Jordan Nocturne, Arvin T, Laila Amira and Lady Harley (all night) at Good Room
 
-Jordan Nocturne, Arvin T, Laila Amira and Lady Harley (all night) at Good Room on Sat 3 Oct, Newyorkcity. 4 acts on the bill: Arvin T, Jordan Nocturne, Lady Harley and Laila Amira. Preview the line-up and save it on soundcheck.
+Jordan Nocturne, Arvin T, Laila Amira and Lady Harley (all night) at Good Room on Sat 3 Oct, New York City. 4 artists on the bill: Arvin T, Jordan Nocturne, Lady Harley and Laila Amira. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

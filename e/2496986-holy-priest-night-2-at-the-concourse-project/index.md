@@ -1,6 +1,6 @@
 # Holy Priest (Night 2) at The Concourse Project
 
-Holy Priest (Night 2) at The Concourse Project on Sun 11 Oct, Austin. 1 act on the bill: Holy Priest. Techno. Preview the line-up and save it on soundcheck.
+Holy Priest (Night 2) at The Concourse Project on Sun 11 Oct, Austin. 2 artists on the bill: COLOR K!D and Holy Priest. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Holy Priest (Night 2) at The Concourse Project on Sun 11 Oct, Austin. 1 act on t
 
 ## Line-up
 
+- COLOR K!D
 - Holy Priest
 
 *Source: [soundcheck](https://soundcheck.club/e/2496986-holy-priest-night-2-at-the-concourse-project/)*

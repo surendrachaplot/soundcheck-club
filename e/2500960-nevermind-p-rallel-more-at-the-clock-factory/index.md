@@ -1,6 +1,6 @@
 # Nevermind: p-rallel + more at The Clock Factory
 
-Nevermind: p-rallel + more at The Clock Factory on Fri 27 Nov, Bristol. 1 act on the bill: p-rallel. House and Garage. Preview the line-up and save it on soundcheck.
+Nevermind: p-rallel + more at The Clock Factory on Fri 27 Nov, Bristol. 1 artist on the bill: p-rallel. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

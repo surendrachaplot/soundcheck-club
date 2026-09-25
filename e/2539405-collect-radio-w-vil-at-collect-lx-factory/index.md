@@ -1,6 +1,6 @@
 # COLLECT RADIO w/ VIL at Collect LX Factory
 
-COLLECT RADIO w/ VIL at Collect LX Factory on Wed 30 Sept, Lisbon. 1 act on the bill: VIL (PT). Techno and House. Preview the line-up and save it on soundcheck.
+COLLECT RADIO w/ VIL at Collect LX Factory on Wed 30 Sept, Lisbon. 1 artist on the bill: VIL (PT). Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

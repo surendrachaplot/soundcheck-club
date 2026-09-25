@@ -1,6 +1,6 @@
 # IAM Productions presents: Bob Moses at Akvárium Klub
 
-IAM Productions presents: Bob Moses at Akvárium Klub on Sun 1 Nov, Budapest. 1 act on the bill: Bob Moses. Deep House. Preview the line-up and save it on soundcheck.
+IAM Productions presents: Bob Moses at Akvárium Klub on Sun 1 Nov, Budapest. 1 artist on the bill: Bob Moses. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

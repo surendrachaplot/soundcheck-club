@@ -2,7 +2,7 @@
 
 Di Chiara Brothers is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
-Di Chiara Brothers is a house and tech house artist based in Italy, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Birmingham and Buenosaires and 12 more. Often billed alongside Chiara B, East End Dubs and RUZE. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
+Di Chiara Brothers is a house and tech house artist based in Italy, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Birmingham and Buenos Aires and 12 more. Often billed alongside Chiara B, East End Dubs and RUZE. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 

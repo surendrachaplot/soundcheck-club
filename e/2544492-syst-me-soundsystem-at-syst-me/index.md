@@ -1,6 +1,6 @@
 # Système Soundsystem at Système
 
-Système Soundsystem on Thu 29 Oct, Montreal. 2 acts on the bill: DJ Hidi and Mollygum. Preview the line-up and save it on soundcheck.
+Système Soundsystem on Thu 29 Oct, Montreal. 2 artists on the bill: DJ Hidi and Mollygum. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

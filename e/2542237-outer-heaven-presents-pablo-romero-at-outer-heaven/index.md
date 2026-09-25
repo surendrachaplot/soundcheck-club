@@ -1,6 +1,6 @@
 # Outer Heaven presents: Pablo Romero at Outer Heaven
 
-Outer Heaven presents: Pablo Romero on Wed 7 Oct, Newyorkcity. 1 act on the bill: Pablo Romero. House. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Pablo Romero on Wed 7 Oct, New York City. 1 artist on the bill: Pablo Romero. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

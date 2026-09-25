@@ -1,6 +1,6 @@
 # Paradis Artificiel (4 YEARS ANNIVERSARY) ✦ TAG DER CLUBKULTUR 2026 at Banja Luka
 
-Paradis Artificiel (4 YEARS ANNIVERSARY) ✦ TAG DER CLUBKULTUR 2026 at Banja Luka on Fri 9 Oct, Berlin. 3 acts on the bill: Bconscious, Gforty and Guido Iacovitti. Techno and House. Preview the line-up and save it on soundcheck.
+Paradis Artificiel (4 YEARS ANNIVERSARY) ✦ TAG DER CLUBKULTUR 2026 at Banja Luka on Fri 9 Oct, Berlin. 3 artists on the bill: Bconscious, Gforty and Guido Iacovitti. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

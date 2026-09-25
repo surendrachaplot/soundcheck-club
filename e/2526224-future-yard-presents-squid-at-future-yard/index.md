@@ -1,6 +1,6 @@
 # Future Yard presents Squid at Future Yard
 
-Future Yard presents Squid on Sun 25 Oct, Liverpool. 1 act on the bill: Squid. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+Future Yard presents Squid on Sun 25 Oct, Liverpool. 1 artist on the bill: Squid. Jazz and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

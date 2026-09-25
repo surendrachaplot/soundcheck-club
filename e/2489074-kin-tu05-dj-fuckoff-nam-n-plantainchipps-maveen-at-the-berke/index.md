@@ -1,6 +1,6 @@
 # KIN—TU05 ˚͇ DJ Fuckoff ✫ NAMÄN ✫ Plantainchipps ✫ Maveen at The Berkeley Suite
 
-KIN—TU05 ˚͇ DJ Fuckoff ✫ NAMÄN ✫ Plantainchipps ✫ Maveen at The Berkeley Suite on Fri 9 Oct, Glasgow. 4 acts on the bill: DJ Fuckoff, Maveen, NAMÄN (UK) and Plantainchipps. Techno and House. Preview the line-up and save it on soundcheck.
+KIN—TU05 ˚͇ DJ Fuckoff ✫ NAMÄN ✫ Plantainchipps ✫ Maveen at The Berkeley Suite on Fri 9 Oct, Glasgow. 4 artists on the bill: DJ Fuckoff, Maveen, NAMÄN (UK) and Plantainchipps. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

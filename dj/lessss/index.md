@@ -1,8 +1,8 @@
 # LESSSS
 
-LESSSS is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BASIS, Utrecht on Fri, 2 Oct 2026.
+LESSSS is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BASIS, Utrecht on Fri, 2 Oct 2026.
 
-LESSSS is a techno and hardcore artist based in France, tracked on soundcheck, with 163 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 50 more. Often billed alongside Azyr, Basswell and Charlie Sparks. Next up: BASIS, Utrecht on Fri 2 Oct.
+LESSSS is a techno and hardcore artist based in France, tracked on soundcheck, with 164 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 51 more. Often billed alongside Azyr, Basswell and Charlie Sparks. Next up: BASIS, Utrecht on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LESSSS is a techno and hardcore artist based in France, tracked on soundcheck, w
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | BASIS | Utrecht |
 | Fri, 9 Oct 2026 | E1 | London |
+| Sat, 10 Oct 2026 | Halle de La Machine | Toulouse |
 | Fri, 23 Oct 2026 | Café Café Bar Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | block. | Dublin |
 | Sat, 19 Dec 2026 | Parc Des Expositions | Paris |

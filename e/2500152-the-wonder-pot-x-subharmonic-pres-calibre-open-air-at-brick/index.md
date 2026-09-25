@@ -1,6 +1,6 @@
 # The Wonder Pot X SubHarmonic pres: Calibre Open Air at Brick Street
 
-The Wonder Pot X SubHarmonic pres: Calibre Open Air at Brick Street on Sat 26 Sept, Liverpool. 4 acts on the bill: adamine, All Trades, Calibre and Sweetly. Drum & Bass and Jazz. Preview the line-up and save it on soundcheck.
+The Wonder Pot X SubHarmonic pres: Calibre Open Air at Brick Street on Sat 26 Sept, Liverpool. 4 artists on the bill: adamine, All Trades, Calibre and Sweetly. Drum & Bass and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

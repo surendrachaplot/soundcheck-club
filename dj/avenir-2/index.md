@@ -2,7 +2,7 @@
 
 Avenir (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kilomètre25, Paris on Sat, 17 Oct 2026.
 
-Avenir (2) is a techno artist based in France, tracked on soundcheck, with 8 sets logged across Berlin, Lyon, Nantes and Paris. Often billed alongside Doruksen, ASLO and Asaya. Next up: Kilomètre25, Paris on Sat 17 Oct.
+Avenir is a techno artist based in France, tracked on soundcheck, with 8 sets logged across Berlin, Lyon, Nantes and Paris. Often billed alongside Doruksen, ASLO and Asaya. Next up: Kilomètre25, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 

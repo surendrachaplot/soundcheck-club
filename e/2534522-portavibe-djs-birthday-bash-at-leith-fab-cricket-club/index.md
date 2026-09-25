@@ -1,6 +1,6 @@
 # Portavibe DJs Birthday Bash at Leith FAB Cricket Club
 
-Portavibe DJs Birthday Bash at Leith FAB Cricket Club on Fri 2 Oct, Edinburgh. 3 acts on the bill: eosap, Juan Mare and SSID. Breakbeat and House. Preview the line-up and save it on soundcheck.
+Portavibe DJs Birthday Bash at Leith FAB Cricket Club on Fri 2 Oct, Edinburgh. 3 artists on the bill: eosap, Juan Mare and SSID. Breakbeat and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cynosure Nacht at Golden Gate
 
-Cynosure Nacht at Golden Gate on Sat 26 Sept, Berlin. 4 acts on the bill: DJ NOB, Hreno, Mike Shannon and Thilini. Preview the line-up and save it on soundcheck.
+Cynosure Nacht at Golden Gate on Sat 26 Sept, Berlin. 4 artists on the bill: DJ NOB, Hreno, Mike Shannon and Thilini. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

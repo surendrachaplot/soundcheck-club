@@ -2,7 +2,7 @@
 
 Feta Felice is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
 
-Feta Felice is a techno and trance artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Cologne, Dusseldorf and Hamburg and 4 more. Often billed alongside DJ Achim Feuervogel, TMR (DE) and Amøn. Next up: Lokschuppen Berlin, Berlin on Sat 17 Oct.
+Feta Felice is a techno and trance artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Cologne, Düsseldorf and Hamburg and 4 more. Often billed alongside DJ Achim Feuervogel, TMR (DE) and Amøn. Next up: Lokschuppen Berlin, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # WHO Plays x ADE at Grand Café Heineken Hoek
 
-WHO Plays x ADE at Grand Café Heineken Hoek on Thu 22 Oct, Amsterdam. 4 acts on the bill: Johan S (SE), Rue Jay, Trimtone and WHO. House and Club. Preview the line-up and save it on soundcheck.
+WHO Plays x ADE at Grand Café Heineken Hoek on Thu 22 Oct, Amsterdam. 4 artists on the bill: Johan S (SE), Rue Jay, Trimtone and WHO. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

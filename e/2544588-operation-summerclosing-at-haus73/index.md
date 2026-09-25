@@ -1,6 +1,6 @@
 # OPERATION SUMMERCLOSING at Haus73
 
-OPERATION SUMMERCLOSING at Haus73 on Sat 26 Sept, Hamburg. 2 acts on the bill: FUNKA04 and Lennsen. Techno and House. Preview the line-up and save it on soundcheck.
+OPERATION SUMMERCLOSING at Haus73 on Sat 26 Sept, Hamburg. 2 artists on the bill: FUNKA04 and Lennsen. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

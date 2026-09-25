@@ -1,6 +1,6 @@
 # Unofficial Cabaret Voltaire afterparty at Pawn Shop
 
-Unofficial Cabaret Voltaire afterparty at Pawn Shop on Wed 7 Oct, Dublin. 2 acts on the bill: Eliza and Lerosa. Industrial. Preview the line-up and save it on soundcheck.
+Unofficial Cabaret Voltaire afterparty at Pawn Shop on Wed 7 Oct, Dublin. 2 artists on the bill: Eliza and Lerosa. Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

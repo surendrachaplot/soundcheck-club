@@ -1,6 +1,6 @@
 # Flight Mode @ADE at Bears Amsterdam
 
-Flight Mode @ADE at Bears Amsterdam on Fri 23 Oct, Amsterdam. 7 acts on the bill: Eddy Tango, JP Lantieri, Light Gal and Midnight Society and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Flight Mode @ADE at Bears Amsterdam on Fri 23 Oct, Amsterdam. 7 artists on the bill: Eddy Tango, JP Lantieri, Light Gal and Midnight Society and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

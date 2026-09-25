@@ -1,6 +1,6 @@
 # Nido World Wild Grooves - Arthur Lastmann & Zaltan at Nido Marseille
 
-Nido World Wild Grooves - Arthur Lastmann & Zaltan at Nido Marseille on Fri 30 Oct, Marseille. 2 acts on the bill: Arthur Lastmann and Zaltan. Preview the line-up and save it on soundcheck.
+Nido World Wild Grooves - Arthur Lastmann & Zaltan at Nido Marseille on Fri 30 Oct, Marseille. 2 artists on the bill: Arthur Lastmann and Zaltan. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

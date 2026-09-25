@@ -1,6 +1,6 @@
 # Ralph Lawson + Javisenz + Nacho Larache at berlinClub
 
-Ralph Lawson + Javisenz + Nacho Larache at berlinClub on Sat 26 Sept, Madrid. 1 act on the bill: Ralph Lawson. House and Disco. Preview the line-up and save it on soundcheck.
+Ralph Lawson + Javisenz + Nacho Larache at berlinClub on Sat 26 Sept, Madrid. 1 artist on the bill: Ralph Lawson. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

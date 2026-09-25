@@ -1,6 +1,6 @@
 # IAMDDB: The Live Jazz Experience & many more at Botanique
 
-IAMDDB: The Live Jazz Experience & many more at Botanique on Fri 30 Oct, Brussels. 1 act on the bill: IAMDDB. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+IAMDDB: The Live Jazz Experience & many more at Botanique on Fri 30 Oct, Brussels. 1 artist on the bill: IAMDDB. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # La Paloma presents: Chez Damier + Sama Yax + Vilalta at La Paloma
 
-La Paloma presents: Chez Damier + Sama Yax + Vilalta on Fri 9 Oct, Barcelona. 3 acts on the bill: Chez Damier, Sama Yax and Vilalta. House and Disco. Preview the line-up and save it on soundcheck.
+La Paloma presents: Chez Damier + Sama Yax + Vilalta on Fri 9 Oct, Barcelona. 3 artists on the bill: Chez Damier, Sama Yax and Vilalta. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

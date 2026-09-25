@@ -1,6 +1,6 @@
 # DOLLY presents... Diodore b2b dj_2button with Xiumei & Matthew Situ (Live) at TBA - Private Location
 
-DOLLY presents... Diodore b2b dj_2button with Xiumei & Matthew Situ (Live) at TBA - Private Location on Fri 11 Dec, Vancouver. 3 acts on the bill: Angel Science, dj_2button and Xiumei. Bass and Balearic. Preview the line-up and save it on soundcheck.
+DOLLY presents... Diodore b2b dj_2button with Xiumei & Matthew Situ (Live) at TBA - Private Location on Fri 11 Dec, Vancouver. 3 artists on the bill: Angel Science, dj_2button and Xiumei. Bass and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

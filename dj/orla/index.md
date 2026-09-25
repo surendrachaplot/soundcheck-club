@@ -1,14 +1,13 @@
 # Or:la
 
-Or:la is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Cross, London on Thu, 24 Sept 2026.
+Or:la is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Quarry, Liverpool on Sat, 17 Oct 2026.
 
-Or:la is a house and techno artist based in Ireland, tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside Amaliah, Pariah and Objekt. Next up: The Cross, London on Thu 24 Sept.
+Or:la is a house and techno artist based in Ireland, tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside Amaliah, Pariah and Objekt. Next up: Quarry, Liverpool on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | The Cross | London |
 | Sat, 17 Oct 2026 | Quarry | Liverpool |
 | Sat, 31 Oct 2026 | block. | Dublin |
 | Sat, 7 Nov 2026 | Palais | London |

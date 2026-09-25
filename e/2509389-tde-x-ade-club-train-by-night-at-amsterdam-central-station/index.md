@@ -1,6 +1,6 @@
 # TDE x ADE - Club Train by Night at Amsterdam Central Station
 
-TDE x ADE - Club Train by Night at Amsterdam Central Station on Sat 24 Oct, Amsterdam. 15 acts on the bill: Barbara Tucker, Bustin' Loose, Crystal Touch and Dan Cluskey and 11 more. House and Disco. Preview the line-up and save it on soundcheck.
+TDE x ADE - Club Train by Night at Amsterdam Central Station on Sat 24 Oct, Amsterdam. 15 artists on the bill: Barbara Tucker, Bustin' Loose, Crystal Touch and Dan Cluskey and 11 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

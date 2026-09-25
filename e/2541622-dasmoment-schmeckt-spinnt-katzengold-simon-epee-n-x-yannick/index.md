@@ -1,6 +1,6 @@
 # dasMoment Schmeckt&Spinnt /Katzengold, Simon Epee, Nÿx, Yannick Weineck, Flaks, gœrns, BUNTFUNK at Ipse
 
-dasMoment Schmeckt&Spinnt /Katzengold, Simon Epee, Nÿx, Yannick Weineck, Flaks, gœrns, BUNTFUNK at Ipse on Sat 3 Oct, Berlin. 3 acts on the bill: BUNTFUNK, Katzengold and Yannick Weineck. Tech House and Downtempo. Preview the line-up and save it on soundcheck.
+dasMoment Schmeckt&Spinnt /Katzengold, Simon Epee, Nÿx, Yannick Weineck, Flaks, gœrns, BUNTFUNK at Ipse on Sat 3 Oct, Berlin. 3 artists on the bill: BUNTFUNK, Katzengold and Yannick Weineck. Tech House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

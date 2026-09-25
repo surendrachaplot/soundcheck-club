@@ -1,6 +1,6 @@
 # COSMOS 10 at Trajineras de Xochimilco
 
-COSMOS 10 at Trajineras de Xochimilco on Sat 3 Oct, Mexicocity. House and Minimal. Preview the line-up and save it on soundcheck.
+COSMOS 10 at Trajineras de Xochimilco on Sat 3 Oct, Mexico City. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

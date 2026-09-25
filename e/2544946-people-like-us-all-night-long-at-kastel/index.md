@@ -1,6 +1,6 @@
 # PEOPLE LIKE US (ALL NIGHT LONG) at Kastel
 
-PEOPLE LIKE US (ALL NIGHT LONG) at Kastel on Sat 3 Oct, Istanbul. 1 act on the bill: People Like Us (3). House. Preview the line-up and save it on soundcheck.
+PEOPLE LIKE US (ALL NIGHT LONG) at Kastel on Sat 3 Oct, Istanbul. 1 artist on the bill: People Like Us. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

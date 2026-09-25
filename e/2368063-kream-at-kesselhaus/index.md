@@ -1,6 +1,6 @@
 # KREAM at Kesselhaus
 
-KREAM at Kesselhaus on Fri 16 Oct, Berlin. 1 act on the bill: KREAM. Techno. Preview the line-up and save it on soundcheck.
+KREAM at Kesselhaus on Fri 16 Oct, Berlin. 1 artist on the bill: KREAM. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

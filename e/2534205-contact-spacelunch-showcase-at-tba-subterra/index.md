@@ -1,6 +1,6 @@
 # Contact / spacelunch showcase at TBA - Subterra
 
-Contact / spacelunch showcase at TBA - Subterra on Sat 3 Oct, Thehague. 3 acts on the bill: Kooscha, Noumena and Vinylkite aka Nicolò. Ambient and Dub Techno. Preview the line-up and save it on soundcheck.
+Contact / spacelunch showcase at TBA - Subterra on Sat 3 Oct, The Hague. 3 artists on the bill: Kooscha, Noumena and Vinylkite aka Nicolò. Ambient and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

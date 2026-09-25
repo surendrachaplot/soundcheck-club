@@ -1,6 +1,6 @@
 # Seriously Uplifting 8 at The Globe
 
-Seriously Uplifting 8 at The Globe on Sat 31 Oct, Newcastle. 2 acts on the bill: Amos and James Cottle. Preview the line-up and save it on soundcheck.
+Seriously Uplifting 8 at The Globe on Sat 31 Oct, Newcastle. 2 artists on the bill: Amos and James Cottle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

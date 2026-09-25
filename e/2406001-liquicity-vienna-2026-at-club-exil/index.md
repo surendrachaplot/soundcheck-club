@@ -1,6 +1,6 @@
 # Liquicity Vienna 2026 at Club Exil
 
-Liquicity Vienna 2026 at Club Exil on Sat 3 Oct, Vienna. 6 acts on the bill: Anaïs, ESKEI83, Maduk and Paul SG and 2 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Liquicity Vienna 2026 at Club Exil on Sat 3 Oct, Vienna. 6 artists on the bill: Anaïs, ESKEI83, Maduk and Paul SG and 2 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

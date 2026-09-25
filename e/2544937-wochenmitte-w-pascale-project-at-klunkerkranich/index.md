@@ -1,6 +1,6 @@
 # WOCHENMITTE w. Pascale Project at Klunkerkranich
 
-WOCHENMITTE w. Pascale Project at Klunkerkranich on Wed 30 Sept, Berlin. 1 act on the bill: Pascale Project. House and Electronica. Preview the line-up and save it on soundcheck.
+WOCHENMITTE w. Pascale Project at Klunkerkranich on Wed 30 Sept, Berlin. 1 artist on the bill: Pascale Project. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

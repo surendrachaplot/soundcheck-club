@@ -1,6 +1,6 @@
 # r.hythmik invites: Ostrich at Rhythm
 
-r.hythmik invites: Ostrich at Rhythm on Sat 24 Oct, Toronto. 3 acts on the bill: Greg Burke, Ostrich and Thomas James (2). Minimal. Preview the line-up and save it on soundcheck.
+r.hythmik invites: Ostrich at Rhythm on Sat 24 Oct, Toronto. 3 artists on the bill: Greg Burke, Ostrich and Thomas James. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

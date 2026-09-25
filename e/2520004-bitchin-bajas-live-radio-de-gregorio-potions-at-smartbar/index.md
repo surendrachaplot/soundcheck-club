@@ -1,6 +1,6 @@
 # Bitchin Bajas (Live) - Radio de Gregorio - Potions at smartbar
 
-Bitchin Bajas (Live) - Radio de Gregorio - Potions at smartbar on Thu 19 Nov, Chicago. 1 act on the bill: Potions. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Bitchin Bajas (Live) - Radio de Gregorio - Potions at smartbar on Thu 19 Nov, Chicago. 1 artist on the bill: Potions. Ambient and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

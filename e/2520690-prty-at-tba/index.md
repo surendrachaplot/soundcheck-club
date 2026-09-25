@@ -1,6 +1,6 @@
 # PRTY at TBA
 
-PRTY at TBA on Fri 30 Oct, Glasgow. 1 act on the bill: KARAH. Preview the line-up and save it on soundcheck.
+PRTY at TBA on Fri 30 Oct, Glasgow. 1 artist on the bill: KARAH. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

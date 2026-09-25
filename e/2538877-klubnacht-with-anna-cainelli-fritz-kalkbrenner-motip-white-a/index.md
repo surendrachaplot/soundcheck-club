@@ -1,6 +1,6 @@
 # Klubnacht with Anna Cainelli, Fritz Kalkbrenner, Motip White at Gewölbe
 
-Klubnacht with Anna Cainelli, Fritz Kalkbrenner, Motip White at Gewölbe on Fri 30 Oct, Cologne. 3 acts on the bill: Anna Cainelli, Fritz Kalkbrenner and Motip White. Preview the line-up and save it on soundcheck.
+Klubnacht with Anna Cainelli, Fritz Kalkbrenner, Motip White at Gewölbe on Fri 30 Oct, Cologne. 3 artists on the bill: Anna Cainelli, Fritz Kalkbrenner and Motip White. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

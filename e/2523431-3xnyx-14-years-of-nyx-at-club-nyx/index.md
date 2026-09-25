@@ -1,6 +1,6 @@
 # 3xNYX: 14 YEARS OF NYX at Club NYX
 
-3xNYX: 14 YEARS OF NYX at Club NYX on Sat 3 Oct, Amsterdam. 1 act on the bill: MeRas. House and Pop. Preview the line-up and save it on soundcheck.
+3xNYX: 14 YEARS OF NYX at Club NYX on Sat 3 Oct, Amsterdam. 1 artist on the bill: MeRas. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

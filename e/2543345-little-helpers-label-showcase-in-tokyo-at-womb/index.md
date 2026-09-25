@@ -1,6 +1,6 @@
 # Little Helpers Label Showcase in Tokyo at WOMB
 
-Little Helpers Label Showcase in Tokyo at WOMB on Thu 5 Nov, Tokyo. 3 acts on the bill: Butane, DJ Yogurt and TARO TOKO. Tech House. Preview the line-up and save it on soundcheck.
+Little Helpers Label Showcase in Tokyo at WOMB on Thu 5 Nov, Tokyo. 3 artists on the bill: Butane, DJ Yogurt and TARO TOKO. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

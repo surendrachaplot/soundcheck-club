@@ -2,7 +2,7 @@
 
 Ultra Naté is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paragon, New York City on Fri, 23 Oct 2026.
 
-Ultra Naté is a house and disco artist based in United States of America, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Denver and 13 more. Often billed alongside DJ Spen, Derrick Carter and Rissa Garcia. Next up: Paragon, Newyorkcity on Fri 23 Oct.
+Ultra Naté is a house and disco artist based in United States of America, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Denver and 13 more. Often billed alongside DJ Spen, Derrick Carter and Rissa Garcia. Next up: Paragon, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 

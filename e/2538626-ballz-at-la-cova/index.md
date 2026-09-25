@@ -1,6 +1,6 @@
 # Ballz at La Cova
 
-Ballz at La Cova on Fri 25 Sept, Hamburg. 1 act on the bill: Unromantic. Techno. Preview the line-up and save it on soundcheck.
+Ballz at La Cova on Fri 25 Sept, Hamburg. 1 artist on the bill: Unromantic. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

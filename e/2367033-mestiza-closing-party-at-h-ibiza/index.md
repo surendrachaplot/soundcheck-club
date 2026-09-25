@@ -1,6 +1,6 @@
 # MESTIZA - CLOSING PARTY at Hï Ibiza
 
-MESTIZA - CLOSING PARTY at Hï Ibiza on Sun 4 Oct, Ibiza. 6 acts on the bill: Anetha, Dan Tanev, Floyd Lavine and Indira Paganotto and 2 more. Techno and Afro House. Preview the line-up and save it on soundcheck.
+MESTIZA - CLOSING PARTY at Hï Ibiza on Sun 4 Oct, Ibiza. 6 artists on the bill: Anetha, Dan Tanev, Floyd Lavine and Indira Paganotto and 2 more. Techno and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

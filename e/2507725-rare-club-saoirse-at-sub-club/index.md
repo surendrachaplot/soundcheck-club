@@ -1,6 +1,6 @@
 # RARE Club // Saoirse at Sub Club
 
-RARE Club // Saoirse at Sub Club on Thu 8 Oct, Glasgow. 2 acts on the bill: Carmen Baía and Saoirse. Techno and House. Preview the line-up and save it on soundcheck.
+RARE Club // Saoirse at Sub Club on Thu 8 Oct, Glasgow. 2 artists on the bill: Carmen Baía and Saoirse. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

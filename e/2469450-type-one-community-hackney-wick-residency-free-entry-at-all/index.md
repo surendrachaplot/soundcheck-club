@@ -1,6 +1,6 @@
 # Type One Community: Hackney Wick Residency - Free Entry at All My Friends
 
-Type One Community: Hackney Wick Residency - Free Entry at All My Friends on Fri 9 Oct, London. 1 act on the bill: Kyle Parsley. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Type One Community: Hackney Wick Residency - Free Entry at All My Friends on Fri 9 Oct, London. 1 artist on the bill: Kyle Parsley. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

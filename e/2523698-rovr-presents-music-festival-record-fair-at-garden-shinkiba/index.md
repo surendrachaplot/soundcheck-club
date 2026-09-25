@@ -1,6 +1,6 @@
 # ROVR presents: Music Festival & Record Fair at Garden Shinkiba Factory
 
-ROVR presents: Music Festival & Record Fair at Garden Shinkiba Factory on Sat 3 Oct, Tokyo. 6 acts on the bill: Actress, DāM FunK, DJ Koco aka Shimokita and Donna Leake and 2 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+ROVR presents: Music Festival & Record Fair at Garden Shinkiba Factory on Sat 3 Oct, Tokyo. 6 artists on the bill: Actress, DāM FunK, DJ Koco aka Shimokita and Donna Leake and 2 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

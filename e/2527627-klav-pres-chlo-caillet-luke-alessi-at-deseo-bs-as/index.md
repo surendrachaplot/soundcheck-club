@@ -1,6 +1,6 @@
 # KLAV PRES. Chloé Caillet & LUKE ALESSI at Deseo BS AS
 
-KLAV PRES. Chloé Caillet & LUKE ALESSI at Deseo BS AS on Fri 6 Nov, Buenosaires. 4 acts on the bill: Bermani, Chloé Caillet, EllA and Mar Monzon. Techno and Tech House. Preview the line-up and save it on soundcheck.
+KLAV PRES. Chloé Caillet & LUKE ALESSI at Deseo BS AS on Fri 6 Nov, Buenos Aires. 4 artists on the bill: Bermani, Chloé Caillet, EllA and Mar Monzon. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

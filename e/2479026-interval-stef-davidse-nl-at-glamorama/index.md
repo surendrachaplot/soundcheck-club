@@ -1,6 +1,6 @@
 # Interval - Stef Davidse [NL] at Glamorama
 
-Interval - Stef Davidse [NL] at Glamorama on Fri 13 Nov, Melbourne. 1 act on the bill: Stef Davidse. House and Tech House. Preview the line-up and save it on soundcheck.
+Interval - Stef Davidse [NL] at Glamorama on Fri 13 Nov, Melbourne. 1 artist on the bill: Stef Davidse. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Luminosity pres. Factor B - Theatre of The Mind at Melkweg
 
-Luminosity pres. Factor B - Theatre of The Mind at Melkweg on Sat 14 Nov, Amsterdam. 1 act on the bill: Estiva. Preview the line-up and save it on soundcheck.
+Luminosity pres. Factor B - Theatre of The Mind at Melkweg on Sat 14 Nov, Amsterdam. 1 artist on the bill: Estiva. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

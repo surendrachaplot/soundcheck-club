@@ -2,7 +2,7 @@
 
 Michael Moog is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Borisov Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Michael Moog is a house and tech house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Amsterdam, London, Losangeles and Miami and 1 more. Often billed alongside Todd Terry, Janika Tenn and Roland Clark. Next up: Borisov Amsterdam, Amsterdam on Thu 22 Oct.
+Michael Moog is a house and tech house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Amsterdam, London, Los Angeles and Miami and 1 more. Often billed alongside Todd Terry, Janika Tenn and Roland Clark. Next up: Borisov Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 

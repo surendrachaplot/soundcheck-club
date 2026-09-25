@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: Juan Atkins at YuYu Cine Club
 
-Yu Yu Cine Club: Juan Atkins at YuYu Cine Club on Sat 31 Oct, Mexicocity. 2 acts on the bill: Juan Atkins and Maseriche. Preview the line-up and save it on soundcheck.
+Yu Yu Cine Club: Juan Atkins at YuYu Cine Club on Sat 31 Oct, Mexico City. 2 artists on the bill: Juan Atkins and Maseriche. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

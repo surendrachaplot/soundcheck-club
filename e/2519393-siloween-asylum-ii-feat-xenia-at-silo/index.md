@@ -1,6 +1,6 @@
 # SILOWEEN: Asylum II feat. Xenia at SILO
 
-SILOWEEN: Asylum II feat. Xenia on Sat 31 Oct, Newyorkcity. Techno. Preview the line-up and save it on soundcheck.
+SILOWEEN: Asylum II feat. Xenia on Sat 31 Oct, New York City. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

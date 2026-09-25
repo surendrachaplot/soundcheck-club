@@ -1,6 +1,6 @@
 # MICROMAT - ALL DAY LONG/ Apoteoz/COMFORT ZONE / OGWAX / SLY at TBA - Paris
 
-MICROMAT - ALL DAY LONG/ Apoteoz/COMFORT ZONE / OGWAX / SLY at TBA - Paris on Sat 17 Oct, Paris. 4 acts on the bill: Apoteoz, Moare, Mornik and Ogwax (2). Tech House and Deep House. Preview the line-up and save it on soundcheck.
+MICROMAT - ALL DAY LONG/ Apoteoz/COMFORT ZONE / OGWAX / SLY at TBA - Paris on Sat 17 Oct, Paris. 4 artists on the bill: Apoteoz, Moare, Mornik and Ogwax. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Distrikt presents Ryan Elliott, Serenne, Jennifer Loveless, Mya at Distrikt
 
-Distrikt presents Ryan Elliott, Serenne, Jennifer Loveless, Mya on Sat 31 Oct, Leeds. 6 acts on the bill: Alex Osifo, Binyamhn, Jennifer Loveless and Ryan Elliott and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Distrikt presents Ryan Elliott, Serenne, Jennifer Loveless, Mya on Sat 31 Oct, Leeds. 6 artists on the bill: Alex Osifo, Binyamhn, Jennifer Loveless and Ryan Elliott and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

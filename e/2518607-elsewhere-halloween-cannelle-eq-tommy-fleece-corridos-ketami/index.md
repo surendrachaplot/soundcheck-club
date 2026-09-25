@@ -1,6 +1,6 @@
 # Elsewhere Halloween: Cannelle, EQ, Tommy Fleece, Corridos Ketamina, Isla Den, Ali RQ + more at Elsewhere
 
-Elsewhere Halloween: Cannelle, EQ, Tommy Fleece, Corridos Ketamina, Isla Den, Ali RQ + more on Sat 31 Oct, Newyorkcity. 6 acts on the bill: Ali RQ, Cannelle, EQ (Estratosfera + Qiri) and Isla Den and 2 more. Preview the line-up and save it on soundcheck.
+Elsewhere Halloween: Cannelle, EQ, Tommy Fleece, Corridos Ketamina, Isla Den, Ali RQ + more on Sat 31 Oct, New York City. 6 artists on the bill: Ali RQ, Cannelle, EQ (Estratosfera + Qiri) and Isla Den and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

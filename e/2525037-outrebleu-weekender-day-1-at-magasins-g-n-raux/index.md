@@ -1,6 +1,6 @@
 # OUTREBLEU [weekender] — day 1 at Magasins Généraux
 
-OUTREBLEU [weekender] — day 1 at Magasins Généraux on Fri 20 Nov, Paris. 5 acts on the bill: Innersha, nthng, Sybil and Trois-Quarts Taxi System and 1 more. Preview the line-up and save it on soundcheck.
+OUTREBLEU [weekender] — day 1 at Magasins Généraux on Fri 20 Nov, Paris. 5 artists on the bill: Innersha, nthng, Sybil and Trois-Quarts Taxi System and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

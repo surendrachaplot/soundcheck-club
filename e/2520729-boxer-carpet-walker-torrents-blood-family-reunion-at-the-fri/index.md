@@ -1,6 +1,6 @@
 # BOXER, CARPET WALKER, TORRENTS, BLOOD FAMILY REUNION at The Fridge
 
-BOXER, CARPET WALKER, TORRENTS, BLOOD FAMILY REUNION at The Fridge on Thu 1 Oct, Washingtondc. Preview the line-up and save it on soundcheck.
+BOXER, CARPET WALKER, TORRENTS, BLOOD FAMILY REUNION at The Fridge on Thu 1 Oct, Washington DC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RSquared (UK/Defetced), Gold Coast at elsewhere
 
-RSquared (UK/Defetced), Gold Coast at elsewhere on Sun 4 Oct, Brisbane. 1 act on the bill: RSquared. Tech House. Preview the line-up and save it on soundcheck.
+RSquared (UK/Defetced), Gold Coast at elsewhere on Sun 4 Oct, Brisbane. 1 artist on the bill: RSquared. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

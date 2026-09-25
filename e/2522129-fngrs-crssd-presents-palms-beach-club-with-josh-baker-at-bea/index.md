@@ -1,6 +1,6 @@
 # FNGRS CRSSD presents Palms Beach Club with Josh Baker at Beach House San Diego
 
-FNGRS CRSSD presents Palms Beach Club with Josh Baker at Beach House San Diego on Sun 22 Nov, Sandiego. 2 acts on the bill: Josh Baker and Sebs. Preview the line-up and save it on soundcheck.
+FNGRS CRSSD presents Palms Beach Club with Josh Baker at Beach House San Diego on Sun 22 Nov, San Diego. 2 artists on the bill: Josh Baker and Sebs. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

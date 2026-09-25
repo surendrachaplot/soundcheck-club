@@ -1,6 +1,6 @@
 # Konstantin (All Night Long) at Foro Frontera
 
-Konstantin (All Night Long) at Foro Frontera on Fri 9 Oct, Mexicocity. 1 act on the bill: Konstantin. House and Minimal. Preview the line-up and save it on soundcheck.
+Konstantin (All Night Long) at Foro Frontera on Fri 9 Oct, Mexico City. 1 artist on the bill: Konstantin. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

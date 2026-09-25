@@ -1,6 +1,6 @@
 # Digitalism - Madrid at Wagon
 
-Digitalism - Madrid at Wagon on Fri 30 Oct, Madrid. 1 act on the bill: Digitalism. House and Electronica. Preview the line-up and save it on soundcheck.
+Digitalism - Madrid at Wagon on Fri 30 Oct, Madrid. 1 artist on the bill: Digitalism. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

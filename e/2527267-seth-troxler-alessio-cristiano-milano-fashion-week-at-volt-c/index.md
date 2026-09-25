@@ -1,6 +1,6 @@
 # Seth Troxler + Alessio Cristiano - MILANO FASHION WEEK at Volt Club Milano
 
-Seth Troxler + Alessio Cristiano - MILANO FASHION WEEK at Volt Club Milano on Sat 26 Sept, Milan. 2 acts on the bill: Alessio Cristiano and Seth Troxler. Preview the line-up and save it on soundcheck.
+Seth Troxler + Alessio Cristiano - MILANO FASHION WEEK at Volt Club Milano on Sat 26 Sept, Milan. 2 artists on the bill: Alessio Cristiano and Seth Troxler. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

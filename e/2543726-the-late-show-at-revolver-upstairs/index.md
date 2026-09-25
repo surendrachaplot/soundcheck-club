@@ -1,6 +1,6 @@
 # The Late Show at Revolver Upstairs
 
-The Late Show at Revolver Upstairs on Sat 26 Sept, Melbourne. 1 act on the bill: CAGED. House and Garage. Preview the line-up and save it on soundcheck.
+The Late Show at Revolver Upstairs on Sat 26 Sept, Melbourne. 1 artist on the bill: CAGED. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

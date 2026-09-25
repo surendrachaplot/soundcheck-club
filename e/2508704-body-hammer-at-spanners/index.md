@@ -1,6 +1,6 @@
 # Body Hammer at Spanners
 
-Body Hammer at Spanners on Sat 17 Oct, London. 2 acts on the bill: Joe Hart and Scott Fraser. House and Electro. Preview the line-up and save it on soundcheck.
+Body Hammer at Spanners on Sat 17 Oct, London. 2 artists on the bill: Joe Hart and Scott Fraser. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

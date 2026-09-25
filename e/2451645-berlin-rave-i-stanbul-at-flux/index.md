@@ -1,6 +1,6 @@
 # Berlin Rave İstanbul at Flux
 
-Berlin Rave İstanbul at Flux on Fri 16 Oct, Istanbul. 4 acts on the bill: Lavin (1), Philip Ackowsky, Queto and Teenage Mutants. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Berlin Rave İstanbul at Flux on Fri 16 Oct, Istanbul. 4 artists on the bill: Lavin, Philip Ackowsky, Queto and Teenage Mutants. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

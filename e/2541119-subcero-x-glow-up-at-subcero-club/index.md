@@ -1,6 +1,6 @@
 # Subcero x Glow Up at Subcero Club
 
-Subcero x Glow Up at Subcero Club on Thu 29 Oct, Madrid. 1 act on the bill: Not A Lex. Electronica. Preview the line-up and save it on soundcheck.
+Subcero x Glow Up at Subcero Club on Thu 29 Oct, Madrid. 1 artist on the bill: Not A Lex. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

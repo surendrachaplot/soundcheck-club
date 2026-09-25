@@ -1,6 +1,6 @@
 # THE WUB CLUB	LABEL TAKEOVER at Planet Wax
 
-THE WUB CLUB	LABEL TAKEOVER at Planet Wax on Sat 24 Oct, London. 1 act on the bill: Snowy (1). Garage. Preview the line-up and save it on soundcheck.
+THE WUB CLUB	LABEL TAKEOVER at Planet Wax on Sat 24 Oct, London. 1 artist on the bill: Snowy. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

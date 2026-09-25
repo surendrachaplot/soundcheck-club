@@ -1,6 +1,6 @@
 # Simulation at Şahika
 
-Simulation at Şahika on Sat 3 Oct, Istanbul. 4 acts on the bill: 4-i, Interval (2), Masty and morrolander. Electronica. Preview the line-up and save it on soundcheck.
+Simulation at Şahika on Sat 3 Oct, Istanbul. 4 artists on the bill: 4-i, Interval, Masty and morrolander. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

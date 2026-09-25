@@ -2,7 +2,7 @@
 
 Nick Stoynoff is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Rijnbar, Amsterdam on Fri, 23 Oct 2026.
 
-Nick Stoynoff is a progressive house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Amsterdam, Boston, Buenosaires and Chicago and 2 more. Often billed alongside Mariano Mellino, AHREUM and AY (10). Next up: Rijnbar, Amsterdam on Fri 23 Oct.
+Nick Stoynoff is a progressive house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Amsterdam, Boston, Buenos Aires and Chicago and 2 more. Often billed alongside Mariano Mellino, AHREUM and AY. Next up: Rijnbar, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Juliana: USA Tour en New York at SOBs
 
-Juliana: USA Tour en New York at SOBs on Thu 22 Oct, Newyorkcity. Pop. Preview the line-up and save it on soundcheck.
+Juliana: USA Tour en New York at SOBs on Thu 22 Oct, New York City. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

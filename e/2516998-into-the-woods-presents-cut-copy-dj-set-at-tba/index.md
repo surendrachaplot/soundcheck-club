@@ -1,6 +1,6 @@
 # Into The Woods presents Cut Copy (DJ Set) at TBA
 
-Into The Woods presents Cut Copy (DJ Set) at TBA on Sun 15 Nov, Losangeles. 1 act on the bill: Cut Copy. House and Electronica. Preview the line-up and save it on soundcheck.
+Into The Woods presents Cut Copy (DJ Set) at TBA on Sun 15 Nov, Los Angeles. 1 artist on the bill: Cut Copy. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VOID Radio w/ Jeremy Sylvester at The Jam Jar
 
-VOID Radio w/ Jeremy Sylvester at The Jam Jar on Thu 24 Sept, Bristol. 1 act on the bill: Jeremy Sylvester. House and Garage. Preview the line-up and save it on soundcheck.
+VOID Radio w/ Jeremy Sylvester at The Jam Jar on Thu 24 Sept, Bristol. 1 artist on the bill: Jeremy Sylvester. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

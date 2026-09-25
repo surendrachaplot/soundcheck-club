@@ -1,6 +1,6 @@
 # Pendulum (DJ set) at Q Nightclub
 
-Pendulum (DJ set) at Q Nightclub on Fri 9 Oct, Seattle. 1 act on the bill: Pendulum. Preview the line-up and save it on soundcheck.
+Pendulum (DJ set) at Q Nightclub on Fri 9 Oct, Seattle. 1 artist on the bill: Pendulum. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

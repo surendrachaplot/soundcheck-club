@@ -1,6 +1,6 @@
 # Nightvision presents: Kyle Starkey, STÜM & Vivace // Edinburgh at The Liquid Room
 
-Nightvision presents: Kyle Starkey, STÜM & Vivace // Edinburgh at The Liquid Room on Sat 17 Oct, Edinburgh. 3 acts on the bill: Kyle Starkey, STÜM and Vivace (UK). House. Preview the line-up and save it on soundcheck.
+Nightvision presents: Kyle Starkey, STÜM & Vivace // Edinburgh at The Liquid Room on Sat 17 Oct, Edinburgh. 3 artists on the bill: Kyle Starkey, STÜM and Vivace (UK). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Fünk is a music venue in Mexico City with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "SVB DRÆMZ x Fünk" on Thu, 24 Sept 2026.
 
-Fünk is a music venue in Mexicocity listed on soundcheck. 14 upcoming gigs, with line-ups including Adrian Bluper, Alby Esc, Astroboii and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexico City listed on soundcheck. 14 upcoming gigs, with line-ups including Adrian Bluper, Alby Esc, Astroboii and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 

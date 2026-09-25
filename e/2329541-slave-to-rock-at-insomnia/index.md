@@ -1,6 +1,6 @@
 # Slave to Rock at Insomnia
 
-Slave to Rock at Insomnia on Fri 4 Dec, Berlin. 2 acts on the bill: Emmanuelle 5 and The Shredder. Industrial and Post-Punk. Preview the line-up and save it on soundcheck.
+Slave to Rock at Insomnia on Fri 4 Dec, Berlin. 2 artists on the bill: Emmanuelle 5 and The Shredder. Industrial and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

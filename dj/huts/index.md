@@ -2,7 +2,7 @@
 
 HUTS is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Belfast on Sat, 26 Sept 2026.
 
-HUTS is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Belfast, London and Newyorkcity. Often billed alongside GUZZ., ROGUE MYSTICK and KACPER. Next up: TBA, Belfast on Sat 26 Sept.
+HUTS is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Belfast, London and New York City. Often billed alongside GUZZ., ROGUE MYSTICK and KACPER. Next up: TBA, Belfast on Sat 26 Sept.
 
 ## Upcoming shows
 

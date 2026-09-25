@@ -1,6 +1,6 @@
 # Thirstay - for Dancing at Sigurd CPH
 
-Thirstay - for Dancing at Sigurd CPH on Thu 15 Oct, Copenhagen. 1 act on the bill: Lisa Fosmark. Garage and Dancehall. Preview the line-up and save it on soundcheck.
+Thirstay - for Dancing at Sigurd CPH on Thu 15 Oct, Copenhagen. 1 artist on the bill: Lisa Fosmark. Garage and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sucker Punch X XLR [B.Y.O.B] at XLR
 
-Sucker Punch X XLR [B.Y.O.B] on Fri 9 Oct, Manchester. 5 acts on the bill: 0akley, abejizaza, Azrel and Jarvis Bitcoin and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Sucker Punch X XLR [B.Y.O.B] on Fri 9 Oct, Manchester. 5 artists on the bill: 0akley, abejizaza, Azrel and Jarvis Bitcoin and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

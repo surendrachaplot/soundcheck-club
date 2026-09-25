@@ -1,6 +1,6 @@
 # World League with Kevin de Vries at Pacha
 
-World League with Kevin de Vries at Pacha on Fri 6 Nov, Munich. 1 act on the bill: Kevin de Vries. Trance and Techno. Preview the line-up and save it on soundcheck.
+World League with Kevin de Vries at Pacha on Fri 6 Nov, Munich. 1 artist on the bill: Kevin de Vries. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

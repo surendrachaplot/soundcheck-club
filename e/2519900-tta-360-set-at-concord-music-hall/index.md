@@ -1,6 +1,6 @@
 # ØTTA (360° SET) at Concord Music Hall
 
-ØTTA (360° SET) at Concord Music Hall on Fri 13 Nov, Chicago. 1 act on the bill: ØTTA. Trance and Techno. Preview the line-up and save it on soundcheck.
+ØTTA (360° SET) at Concord Music Hall on Fri 13 Nov, Chicago. 1 artist on the bill: ØTTA. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

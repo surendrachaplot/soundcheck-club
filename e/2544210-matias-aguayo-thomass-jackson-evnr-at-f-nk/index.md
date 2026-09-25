@@ -1,6 +1,6 @@
 # Matias Aguayo + Thomass Jackson + EVNR at Fünk
 
-Matias Aguayo + Thomass Jackson + EVNR at Fünk on Sat 10 Oct, Mexicocity. 3 acts on the bill: EVNR, Matias Aguayo and Thomass Jackson. House. Preview the line-up and save it on soundcheck.
+Matias Aguayo + Thomass Jackson + EVNR at Fünk on Sat 10 Oct, Mexico City. 3 artists on the bill: EVNR, Matias Aguayo and Thomass Jackson. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

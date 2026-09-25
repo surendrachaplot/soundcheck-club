@@ -1,6 +1,6 @@
 # The Legends 'La Sinfonica' at SOBs
 
-The Legends 'La Sinfonica' at SOBs on Sun 4 Oct, Newyorkcity. Dembow. Preview the line-up and save it on soundcheck.
+The Legends 'La Sinfonica' at SOBs on Sun 4 Oct, New York City. Dembow. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

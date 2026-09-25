@@ -1,6 +1,6 @@
 # Praerie Festival im Bahnwärter Thiel at Bahnwärter Thiel
 
-Praerie Festival im Bahnwärter Thiel on Sat 26 Sept, Munich. 3 acts on the bill: Martin Ka, Maurice Mino and Sin:port. Preview the line-up and save it on soundcheck.
+Praerie Festival im Bahnwärter Thiel on Sat 26 Sept, Munich. 3 artists on the bill: Martin Ka, Maurice Mino and Sin:port. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

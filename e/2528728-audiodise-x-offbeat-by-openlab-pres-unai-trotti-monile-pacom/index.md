@@ -1,6 +1,6 @@
 # AUDIODISE x Offbeat by OpenLab pres. Unai Trotti, Monile, Pacome & Liana at Nocturna
 
-AUDIODISE x Offbeat by OpenLab pres. Unai Trotti, Monile, Pacome & Liana at Nocturna on Fri 25 Sept, Ibiza. 4 acts on the bill: Liana, Monile, Pacome and Unai Trotti. House and Dub Techno. Preview the line-up and save it on soundcheck.
+AUDIODISE x Offbeat by OpenLab pres. Unai Trotti, Monile, Pacome & Liana at Nocturna on Fri 25 Sept, Ibiza. 4 artists on the bill: Liana, Monile, Pacome and Unai Trotti. House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

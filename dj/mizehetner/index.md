@@ -2,7 +2,7 @@
 
 Mize Hetner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Loop, Vienna on Fri, 25 Sept 2026.
 
-Mize Hetner is a techno and house artist based in Austria, tracked on soundcheck, with 11 sets logged across Vienna. Often billed alongside Fabian Hofer (2), Annika Stein and Ellen Allien. Next up: Loop, Vienna on Fri 25 Sept.
+Mize Hetner is a techno and house artist based in Austria, tracked on soundcheck, with 11 sets logged across Vienna. Often billed alongside Fabian Hofer, Annika Stein and Ellen Allien. Next up: Loop, Vienna on Fri 25 Sept.
 
 ## Upcoming shows
 

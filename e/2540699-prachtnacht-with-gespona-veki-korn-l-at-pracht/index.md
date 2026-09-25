@@ -1,6 +1,6 @@
 # PrachtNACHT with Gespona, VEKI, kornël at Pracht
 
-PrachtNACHT with Gespona, VEKI, kornël on Sat 3 Oct, Frankfurt. 1 act on the bill: Gespona. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+PrachtNACHT with Gespona, VEKI, kornël on Sat 3 Oct, Frankfurt. 1 artist on the bill: Gespona. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

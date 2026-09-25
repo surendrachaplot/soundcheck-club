@@ -2,7 +2,7 @@
 
 Throw Social DC is a music venue in Washington DC with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "LIBRA SZN - KICK OFF - NEW IMPRESSIONZ" on Fri, 25 Sept 2026.
 
-Throw Social DC is a music venue in Washingtondc listed on soundcheck. 7 upcoming gigs, with line-ups including Roy Rosenfeld. Browse upcoming dates, start times and who's playing. 1401 Okie St NE, Ste #102 Washington D.C. 20002.
+Throw Social DC is a music venue in Washington DC listed on soundcheck. 7 upcoming gigs, with line-ups including Roy Rosenfeld. Browse upcoming dates, start times and who's playing. 1401 Okie St NE, Ste #102 Washington D.C. 20002.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Sunset Rooftop Party La Merce - Barceloneta [Free Access] at Azul Rooftop Barceloneta
 
-Sunset Rooftop Party La Merce - Barceloneta [Free Access] at Azul Rooftop Barceloneta on Sun 27 Sept, Barcelona. 3 acts on the bill: Dimarziio, Gaston Zagha and Renzo Fucile. House. Preview the line-up and save it on soundcheck.
+Sunset Rooftop Party La Merce - Barceloneta [Free Access] at Azul Rooftop Barceloneta on Sun 27 Sept, Barcelona. 3 artists on the bill: Dimarziio, Gaston Zagha and Renzo Fucile. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

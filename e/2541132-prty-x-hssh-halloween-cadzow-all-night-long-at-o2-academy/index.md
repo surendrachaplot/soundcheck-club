@@ -1,6 +1,6 @@
 # PRTY x HSSH Halloween: CADZOW, All Night Long at O2 Academy
 
-PRTY x HSSH Halloween: CADZOW, All Night Long at O2 Academy on Fri 30 Oct, Glasgow. 1 act on the bill: CADZOW. Techno. Preview the line-up and save it on soundcheck.
+PRTY x HSSH Halloween: CADZOW, All Night Long at O2 Academy on Fri 30 Oct, Glasgow. 1 artist on the bill: CADZOW. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

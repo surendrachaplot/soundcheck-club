@@ -2,7 +2,7 @@
 
 Alex Garcia (2) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 24 Oct 2026.
 
-Alex Garcia (2) is a house and electro artist based in Spain, tracked on soundcheck, with 43 sets logged across Barcelona. Often billed alongside Vince Void, Adria (ES) and Pau Rosés. Next up: 303 Audiophile Bar, Barcelona on Sat 24 Oct.
+Alex Garcia is a house and electro artist based in Spain, tracked on soundcheck, with 43 sets logged across Barcelona. Often billed alongside Vince Void, Adria (ES) and Pau Rosés. Next up: 303 Audiophile Bar, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # The Kilimanjaro Darkjazz Ensemble at The Jazz Cafe
 
-The Kilimanjaro Darkjazz Ensemble at The Jazz Cafe on Fri 23 Oct, London. 1 act on the bill: The Kilimanjaro Darkjazz Ensemble. Experimental and Jazz. Preview the line-up and save it on soundcheck.
+The Kilimanjaro Darkjazz Ensemble at The Jazz Cafe on Fri 23 Oct, London. 1 artist on the bill: The Kilimanjaro Darkjazz Ensemble. Experimental and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LUBE4VRIENDJES at RADION
 
-LUBE4VRIENDJES at RADION on Fri 2 Oct, Amsterdam. 7 acts on the bill: ADHDJ (2), Claire Clover, HANNAH (NL) and Joan Cute Sack and 3 more. Preview the line-up and save it on soundcheck.
+LUBE4VRIENDJES at RADION on Fri 2 Oct, Amsterdam. 7 artists on the bill: ADHDJ, Claire Clover, HANNAH (NL) and Joan Cute Sack and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

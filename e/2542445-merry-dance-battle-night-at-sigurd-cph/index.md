@@ -1,6 +1,6 @@
 # MERRY DANCE BATTLE NIGHT at Sigurd CPH
 
-MERRY DANCE BATTLE NIGHT at Sigurd CPH on Sat 17 Oct, Copenhagen. 1 act on the bill: Kapela. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+MERRY DANCE BATTLE NIGHT at Sigurd CPH on Sat 17 Oct, Copenhagen. 1 artist on the bill: Kapela. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

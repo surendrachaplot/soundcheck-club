@@ -2,7 +2,7 @@
 
 Velocity is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
 
-Velocity is a drum & bass and bass artist based in Japan, tracked on soundcheck, with 63 sets logged across Osaka and Tokyo. Often billed alongside KEiTA, Aya ( Human Elements ) and Zusan (3). Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
+Velocity is a drum & bass and bass artist based in Japan, tracked on soundcheck, with 63 sets logged across Osaka and Tokyo. Often billed alongside KEiTA, Aya ( Human Elements ) and Zusan. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
 
 ## Upcoming shows
 

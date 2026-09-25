@@ -1,6 +1,6 @@
 # Postyr pres. Wallis at Den Anden Side
 
-Postyr pres. Wallis at Den Anden Side on Sat 3 Oct, Copenhagen. 6 acts on the bill: Elliott Taguchi, Johannes Astrup, Milo Makua and PAVI (3) and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Postyr pres. Wallis at Den Anden Side on Sat 3 Oct, Copenhagen. 6 artists on the bill: Elliott Taguchi, Johannes Astrup, Milo Makua and PAVI and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

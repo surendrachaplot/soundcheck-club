@@ -1,6 +1,6 @@
 # House CLTR Sydney | Ibiza Boat Party feat. Ferreck Dawn (Defected) at Inception Boat
 
-House CLTR Sydney | Ibiza Boat Party feat. Ferreck Dawn (Defected) at Inception Boat on Sat 26 Sept, Sydney. 1 act on the bill: Ferreck Dawn. House and Deep House. Preview the line-up and save it on soundcheck.
+House CLTR Sydney | Ibiza Boat Party feat. Ferreck Dawn (Defected) at Inception Boat on Sat 26 Sept, Sydney. 1 artist on the bill: Ferreck Dawn. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Groove at Baalsaal
 
-Groove at Baalsaal on Fri 23 Oct, Hamburg. 1 act on the bill: Steven Shade. Techno. Preview the line-up and save it on soundcheck.
+Groove at Baalsaal on Fri 23 Oct, Hamburg. 1 artist on the bill: Steven Shade. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

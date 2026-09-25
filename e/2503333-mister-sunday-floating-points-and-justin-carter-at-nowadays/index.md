@@ -1,6 +1,6 @@
 # Mister Sunday: Floating Points and Justin Carter at Nowadays
 
-Mister Sunday: Floating Points and Justin Carter at Nowadays on Sun 25 Oct, Newyorkcity. 2 acts on the bill: Floating Points and Justin Carter. Preview the line-up and save it on soundcheck.
+Mister Sunday: Floating Points and Justin Carter at Nowadays on Sun 25 Oct, New York City. 2 artists on the bill: Floating Points and Justin Carter. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

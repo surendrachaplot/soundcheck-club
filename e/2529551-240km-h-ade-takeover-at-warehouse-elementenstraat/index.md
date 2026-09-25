@@ -1,6 +1,6 @@
 # 240KM/H - ADE Takeover at Warehouse Elementenstraat
 
-240KM/H - ADE Takeover at Warehouse Elementenstraat on Sun 25 Oct, Amsterdam. 6 acts on the bill: Adrian Mills, Aphøtic, Félicie and ines isla and 2 more. Preview the line-up and save it on soundcheck.
+240KM/H - ADE Takeover at Warehouse Elementenstraat on Sun 25 Oct, Amsterdam. 6 artists on the bill: Adrian Mills, Aphøtic, Félicie and ines isla and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

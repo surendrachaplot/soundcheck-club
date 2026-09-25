@@ -2,7 +2,7 @@
 
 jo (53) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
 
-jo (53) is a techno and bass artist based in Japan, tracked on soundcheck, with 16 sets logged across Milan and Tokyo. Often billed alongside manato, Usk° and Lynta. Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
+jo is a techno and bass artist based in Japan, tracked on soundcheck, with 16 sets logged across Milan and Tokyo. Often billed alongside manato, Usk° and Lynta. Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 

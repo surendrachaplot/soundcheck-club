@@ -1,6 +1,6 @@
 # Global Based + 4X4 PRESENT: Dj Warning (LA) at Process PDX
 
-Global Based + 4X4 PRESENT: Dj Warning (LA) at Process PDX on Sat 17 Oct, Portland. 2 acts on the bill: Dj Warning and mintwhisper. Techno and House. Preview the line-up and save it on soundcheck.
+Global Based + 4X4 PRESENT: Dj Warning (LA) at Process PDX on Sat 17 Oct, Portland. 2 artists on the bill: Dj Warning and mintwhisper. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

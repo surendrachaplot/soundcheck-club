@@ -1,6 +1,6 @@
 # Mutual: DJ TOOL, CSILLA, MOS at TBA - Warehouse Location 
 
-Mutual: DJ TOOL, CSILLA, MOS at TBA - Warehouse Location  on Sat 3 Oct, Boston. 3 acts on the bill: CSILLA, DJ TOOL and Mos (NYC). Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Mutual: DJ TOOL, CSILLA, MOS at TBA - Warehouse Location  on Sat 3 Oct, Boston. 3 artists on the bill: CSILLA, DJ TOOL and Mos (NYC). Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

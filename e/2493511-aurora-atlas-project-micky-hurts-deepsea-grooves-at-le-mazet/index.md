@@ -1,6 +1,6 @@
 # Aurora & Atlas Project - Micky Hurts, Deepsea Grooves at Le Mazette
 
-Aurora & Atlas Project - Micky Hurts, Deepsea Grooves at Le Mazette on Fri 25 Sept, Paris. 1 act on the bill: Micky Hurts. House and Tech House. Preview the line-up and save it on soundcheck.
+Aurora & Atlas Project - Micky Hurts, Deepsea Grooves at Le Mazette on Fri 25 Sept, Paris. 1 artist on the bill: Micky Hurts. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

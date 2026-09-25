@@ -2,7 +2,7 @@
 
 Brody (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Specka, Madrid on Fri, 16 Oct 2026.
 
-Brody (2) is a techno and house artist based in Spain, tracked on soundcheck, with 7 sets logged across Madrid. Often billed alongside M. Freelance, ESSTI and Augusto Taito. Next up: Specka, Madrid on Fri 16 Oct.
+Brody is a techno and house artist based in Spain, tracked on soundcheck, with 7 sets logged across Madrid. Often billed alongside M. Freelance, ESSTI and Augusto Taito. Next up: Specka, Madrid on Fri 16 Oct.
 
 ## Upcoming shows
 

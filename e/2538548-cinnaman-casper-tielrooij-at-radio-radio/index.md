@@ -1,6 +1,6 @@
 # Cinnaman • Casper Tielrooij at Radio Radio
 
-Cinnaman • Casper Tielrooij at Radio Radio on Sat 3 Oct, Amsterdam. 2 acts on the bill: Casper Tielrooij and Cinnaman. House and Dub. Preview the line-up and save it on soundcheck.
+Cinnaman • Casper Tielrooij at Radio Radio on Sat 3 Oct, Amsterdam. 2 artists on the bill: Casper Tielrooij and Cinnaman. House and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

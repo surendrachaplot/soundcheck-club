@@ -1,6 +1,6 @@
 # PIONNIÈRES ! par DELAURENTIS at L'Alhambra
 
-PIONNIÈRES ! par DELAURENTIS at L'Alhambra on Sun 4 Oct, Geneva. 1 act on the bill: DeLaurentis. Preview the line-up and save it on soundcheck.
+PIONNIÈRES ! par DELAURENTIS at L'Alhambra on Sun 4 Oct, Geneva. 1 artist on the bill: DeLaurentis. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

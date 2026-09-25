@@ -1,6 +1,6 @@
 # 22 Years of FIXED ft Kelly Lee Owens (dj set), JDH & Dave P, Ivan Berko (all night) at Good Room
 
-22 Years of FIXED ft Kelly Lee Owens (dj set), JDH & Dave P, Ivan Berko (all night) at Good Room on Fri 6 Nov, Newyorkcity. 3 acts on the bill: Ivan Berko, JDH & Dave P and Kelly Lee Owens. Preview the line-up and save it on soundcheck.
+22 Years of FIXED ft Kelly Lee Owens (dj set), JDH & Dave P, Ivan Berko (all night) at Good Room on Fri 6 Nov, New York City. 3 artists on the bill: Ivan Berko, JDH & Dave P and Kelly Lee Owens. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

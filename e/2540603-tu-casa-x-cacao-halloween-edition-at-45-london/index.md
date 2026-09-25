@@ -1,6 +1,6 @@
 # TU CASA x CACAO HALLOWEEN EDITION at 45 London
 
-TU CASA x CACAO HALLOWEEN EDITION at 45 London on Fri 30 Oct, London. 9 acts on the bill: Ale Grooves, Andres Forero, Anthony Godfather (2) and CANO (3) and 5 more. Tech House and Afro Tech. Preview the line-up and save it on soundcheck.
+TU CASA x CACAO HALLOWEEN EDITION at 45 London on Fri 30 Oct, London. 9 artists on the bill: Ale Grooves, Andres Forero, Anthony Godfather and CANO and 5 more. Tech House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

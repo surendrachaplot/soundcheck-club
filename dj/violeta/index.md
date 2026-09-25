@@ -2,7 +2,7 @@
 
 Violeta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - DTLA, Los Angeles on Sun, 27 Sept 2026.
 
-Violeta is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Losangeles and Miami. Often billed alongside Spice Crime, KUJO (US) and Sel.6. Next up: TBA - DTLA, Losangeles on Sun 27 Sept.
+Violeta is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Los Angeles and Miami. Often billed alongside Spice Crime, KUJO (US) and Sel.6. Next up: TBA - DTLA, Los Angeles on Sun 27 Sept.
 
 ## Upcoming shows
 

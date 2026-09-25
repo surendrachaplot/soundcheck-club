@@ -1,6 +1,6 @@
 # extended - Equus Belli, Nina Kraviz at essaim
 
-extended - Equus Belli, Nina Kraviz at essaim on Sun 25 Oct, Paris. 2 acts on the bill: Equus Belli and Nina Kraviz. Techno. Preview the line-up and save it on soundcheck.
+extended - Equus Belli, Nina Kraviz at essaim on Sun 25 Oct, Paris. 2 artists on the bill: Equus Belli and Nina Kraviz. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

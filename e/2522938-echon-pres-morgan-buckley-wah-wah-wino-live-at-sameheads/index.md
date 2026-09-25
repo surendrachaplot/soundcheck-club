@@ -1,6 +1,6 @@
 # ((echon)) pres. Morgan Buckley (Wah Wah Wino) Live at Sameheads
 
-((echon)) pres. Morgan Buckley (Wah Wah Wino) Live at Sameheads on Fri 25 Sept, Berlin. 2 acts on the bill: Capablanca and Diamin. Preview the line-up and save it on soundcheck.
+((echon)) pres. Morgan Buckley (Wah Wah Wino) Live at Sameheads on Fri 25 Sept, Berlin. 2 artists on the bill: Capablanca and Diamin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

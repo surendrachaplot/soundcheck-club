@@ -1,6 +1,6 @@
 # Sekta Selekta: Badalian, user228322 at Sekta Selekta
 
-Sekta Selekta: Badalian, user228322 on Fri 25 Sept, Krakow. 2 acts on the bill: Badalian and user228322. Electro and Minimal. Preview the line-up and save it on soundcheck.
+Sekta Selekta: Badalian, user228322 on Fri 25 Sept, Krakow. 2 artists on the bill: Badalian and user228322. Electro and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

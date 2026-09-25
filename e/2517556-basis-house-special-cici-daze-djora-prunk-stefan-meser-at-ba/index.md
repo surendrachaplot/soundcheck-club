@@ -1,6 +1,6 @@
 # BASIS House Special/ Cici Daze/ Djora/ Prunk/ Stefan Meser at BASIS
 
-BASIS House Special/ Cici Daze/ Djora/ Prunk/ Stefan Meser on Fri 30 Oct, Utrecht. 3 acts on the bill: Cici Daze, Prunk and Stefan Meser. House. Preview the line-up and save it on soundcheck.
+BASIS House Special/ Cici Daze/ Djora/ Prunk/ Stefan Meser on Fri 30 Oct, Utrecht. 3 artists on the bill: Cici Daze, Prunk and Stefan Meser. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

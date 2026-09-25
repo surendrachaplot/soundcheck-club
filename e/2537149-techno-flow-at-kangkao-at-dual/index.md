@@ -1,6 +1,6 @@
 # TECHNO FLOW at Kangkao at Dual
 
-TECHNO FLOW at Kangkao at Dual on Sat 26 Sept, Bangkok. 1 act on the bill: OLLE (TH). Techno and Ambient. Preview the line-up and save it on soundcheck.
+TECHNO FLOW at Kangkao at Dual on Sat 26 Sept, Bangkok. 1 artist on the bill: OLLE (TH). Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

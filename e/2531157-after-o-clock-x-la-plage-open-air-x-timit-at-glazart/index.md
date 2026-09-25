@@ -1,6 +1,6 @@
 # After O'clock X La Plage Open Air X TIMIT at Glazart
 
-After O'clock X La Plage Open Air X TIMIT at Glazart on Sun 27 Sept, Paris. 3 acts on the bill: A-440, DjFREDDY and Nicol. Techno. Preview the line-up and save it on soundcheck.
+After O'clock X La Plage Open Air X TIMIT at Glazart on Sun 27 Sept, Paris. 3 artists on the bill: A-440, DjFREDDY and Nicol. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

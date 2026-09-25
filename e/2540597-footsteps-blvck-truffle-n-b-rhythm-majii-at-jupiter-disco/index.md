@@ -1,6 +1,6 @@
 # Footsteps: Blvck Truffle, N.B Rhythm, Majii at Jupiter Disco
 
-Footsteps: Blvck Truffle, N.B Rhythm, Majii at Jupiter Disco on Thu 22 Oct, Newyorkcity. 1 act on the bill: Blvck Truffle. Preview the line-up and save it on soundcheck.
+Footsteps: Blvck Truffle, N.B Rhythm, Majii at Jupiter Disco on Thu 22 Oct, New York City. 1 artist on the bill: Blvck Truffle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

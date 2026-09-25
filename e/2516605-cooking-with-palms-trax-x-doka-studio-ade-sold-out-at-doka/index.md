@@ -1,6 +1,6 @@
 # Cooking with Palms Trax x Doka Studio [ADE] (SOLD OUT) at Doka
 
-Cooking with Palms Trax x Doka Studio [ADE] (SOLD OUT) on Fri 23 Oct, Amsterdam. 1 act on the bill: Palms Trax. House and Disco. Preview the line-up and save it on soundcheck.
+Cooking with Palms Trax x Doka Studio [ADE] (SOLD OUT) on Fri 23 Oct, Amsterdam. 1 artist on the bill: Palms Trax. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

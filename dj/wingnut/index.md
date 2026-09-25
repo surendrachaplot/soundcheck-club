@@ -2,7 +2,7 @@
 
 Wingnut is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Sydney on Sat, 26 Sept 2026.
 
-Wingnut is a techno and experimental artist based in Australia, tracked on soundcheck, with 15 sets logged across Melbourne and Sydney. Often billed alongside D-Grade, Paramat and Paramat (2). Next up: TBA, Sydney on Sat 26 Sept.
+Wingnut is a techno and experimental artist based in Australia, tracked on soundcheck, with 15 sets logged across Melbourne and Sydney. Often billed alongside D-Grade, Paramat and Paramat. Next up: TBA, Sydney on Sat 26 Sept.
 
 ## Upcoming shows
 

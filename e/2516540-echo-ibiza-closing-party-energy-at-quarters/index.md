@@ -1,6 +1,6 @@
 # ECHO — Ibiza Closing-Party Energy at Quarters
 
-ECHO — Ibiza Closing-Party Energy at Quarters on Sat 17 Oct, Brighton. 4 acts on the bill: Jody Wisternoff, Joey Hertz, Lizzie Curious and Nelson Reis. Preview the line-up and save it on soundcheck.
+ECHO — Ibiza Closing-Party Energy at Quarters on Sat 17 Oct, Brighton. 4 artists on the bill: Jody Wisternoff, Joey Hertz, Lizzie Curious and Nelson Reis. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

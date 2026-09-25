@@ -1,8 +1,8 @@
 # Willo
 
-Willo is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Willo is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
-Willo is a house and techno artist based in Australia, tracked on soundcheck, with 33 sets logged across Amsterdam, Brisbane, Chicago and Dublin and 8 more. Often billed alongside 1tbsp, Ayebatonye and Duskus. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
+Willo is a house and techno artist based in Australia, tracked on soundcheck, with 34 sets logged across Amsterdam, Brisbane, Chicago and Dublin and 8 more. Often billed alongside 1tbsp, Ayebatonye and Duskus. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Willo is a house and techno artist based in Australia, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Fri, 2 Oct 2026 | Smoke & Mirrors | Chicago |
+| Wed, 7 Oct 2026 | Knockdown Center | New York City |
 | Thu, 8 Oct 2026 | Q Nightclub | Seattle |
 | Fri, 9 Oct 2026 | Beach House San Diego | San Diego |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |

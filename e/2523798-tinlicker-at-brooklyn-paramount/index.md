@@ -1,6 +1,6 @@
 # Tinlicker at Brooklyn Paramount
 
-Tinlicker at Brooklyn Paramount on Sat 26 Sept, Newyorkcity. 2 acts on the bill: Helsloot and Tinlicker. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Tinlicker at Brooklyn Paramount on Sat 26 Sept, New York City. 2 artists on the bill: Helsloot and Tinlicker. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

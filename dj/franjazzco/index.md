@@ -2,7 +2,7 @@
 
 Franjazzco is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at FLUCC, Vienna on Sat, 26 Sept 2026.
 
-Franjazzco is a tech house and techno artist based in Austria, tracked on soundcheck, with 19 sets logged across Vienna. Often billed alongside Reeno Reluv, DJ Hill (2) and JP Bechamel. Next up: FLUCC, Vienna on Sat 26 Sept.
+Franjazzco is a tech house and techno artist based in Austria, tracked on soundcheck, with 19 sets logged across Vienna. Often billed alongside Reeno Reluv, DJ Hill and JP Bechamel. Next up: FLUCC, Vienna on Sat 26 Sept.
 
 ## Upcoming shows
 

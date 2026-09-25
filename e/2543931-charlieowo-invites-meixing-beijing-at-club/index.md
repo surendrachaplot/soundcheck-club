@@ -1,6 +1,6 @@
 # Charlieowo invites Meixing (Beijing) at 宀 Club
 
-Charlieowo invites Meixing (Beijing) at 宀 Club on Fri 6 Nov, Hongkong. 1 act on the bill: Charlieowo. Techno. Preview the line-up and save it on soundcheck.
+Charlieowo invites Meixing (Beijing) at 宀 Club on Fri 6 Nov, Hong Kong. 1 artist on the bill: Charlieowo. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

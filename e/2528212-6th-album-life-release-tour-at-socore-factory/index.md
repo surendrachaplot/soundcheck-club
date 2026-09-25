@@ -1,6 +1,6 @@
 # キツネの嫁入り 6th ALBUM「LIFE」release tour ～大阪編～ at Socore Factory
 
-キツネの嫁入り 6th ALBUM「LIFE」release tour ～大阪編～ at Socore Factory on Fri 13 Nov, Osaka. 1 act on the bill: Fluid. Experimental. Preview the line-up and save it on soundcheck.
+キツネの嫁入り 6th ALBUM「LIFE」release tour ～大阪編～ at Socore Factory on Fri 13 Nov, Osaka. 1 artist on the bill: Fluid. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

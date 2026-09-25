@@ -1,6 +1,6 @@
 # Buckley Curates: Appleblim and Beatrice M at Ormside Projects
 
-Buckley Curates: Appleblim and Beatrice M at Ormside Projects on Sat 14 Nov, London. 3 acts on the bill: Appleblim, Beatrice M. and Buckley (UK). Preview the line-up and save it on soundcheck.
+Buckley Curates: Appleblim and Beatrice M at Ormside Projects on Sat 14 Nov, London. 3 artists on the bill: Appleblim, Beatrice M. and Buckley (UK). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

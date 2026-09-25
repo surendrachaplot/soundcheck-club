@@ -1,6 +1,6 @@
 # Organïk: Rebekah, Anime, CARAVEL, AISHA, Medusa at Mia Mao
 
-Organïk: Rebekah, Anime, CARAVEL, AISHA, Medusa at Mia Mao on Sat 24 Oct, Paris. 5 acts on the bill: AISHA, Anime, CARAVEL and Medusa and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Organïk: Rebekah, Anime, CARAVEL, AISHA, Medusa at Mia Mao on Sat 24 Oct, Paris. 5 artists on the bill: AISHA, Anime, CARAVEL and Medusa and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

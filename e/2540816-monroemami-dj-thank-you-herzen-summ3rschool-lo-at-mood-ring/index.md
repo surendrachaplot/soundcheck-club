@@ -1,6 +1,6 @@
 # Monroemami, DJ Thank You, Herzen, Summ3rschool, Lo at Mood Ring
 
-Monroemami, DJ Thank You, Herzen, Summ3rschool, Lo at Mood Ring on Wed 30 Sept, Newyorkcity. 1 act on the bill: DJ Thank You. Preview the line-up and save it on soundcheck.
+Monroemami, DJ Thank You, Herzen, Summ3rschool, Lo at Mood Ring on Wed 30 Sept, New York City. 1 artist on the bill: DJ Thank You. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

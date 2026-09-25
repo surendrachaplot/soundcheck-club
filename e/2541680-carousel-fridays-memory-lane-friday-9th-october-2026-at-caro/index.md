@@ -1,6 +1,6 @@
 # ★ Carousel Fridays ★ Memory Lane ★ Friday 9th October 2026 ★ at Carousel Bar & Ballroom
 
-★ Carousel Fridays ★ Memory Lane ★ Friday 9th October 2026 ★ at Carousel Bar & Ballroom on Fri 9 Oct, Sydney. 1 act on the bill: Covsky. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+★ Carousel Fridays ★ Memory Lane ★ Friday 9th October 2026 ★ at Carousel Bar & Ballroom on Fri 9 Oct, Sydney. 1 artist on the bill: Covsky. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

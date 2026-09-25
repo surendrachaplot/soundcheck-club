@@ -1,6 +1,6 @@
 # STRAFF / Thursday Techno at Der Weiße Hase
 
-STRAFF / Thursday Techno at Der Weiße Hase on Thu 24 Sept, Berlin. 2 acts on the bill: Ari Denaro and Epicx. Techno. Preview the line-up and save it on soundcheck.
+STRAFF / Thursday Techno at Der Weiße Hase on Thu 24 Sept, Berlin. 2 artists on the bill: Ari Denaro and Epicx. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Unhuman / BMSK / Atypikal [live] / IMPVLSIV at Astron Club
 
-Unhuman / BMSK / Atypikal [live] / IMPVLSIV at Astron Club on Fri 25 Sept, Athens. 4 acts on the bill: Atypikal, BMSK, IMPVLSIV and Unhuman. Techno. Preview the line-up and save it on soundcheck.
+Unhuman / BMSK / Atypikal [live] / IMPVLSIV at Astron Club on Fri 25 Sept, Athens. 4 artists on the bill: Atypikal, BMSK, IMPVLSIV and Unhuman. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cabin Fever: Margaret Dygas, Roman Flügel b2b Lola Haro, Edward, Stevie Cox & Control Freak at FOLD
 
-Cabin Fever: Margaret Dygas, Roman Flügel b2b Lola Haro, Edward, Stevie Cox & Control Freak at FOLD on Fri 2 Oct, London. 6 acts on the bill: Control Freak, Edward, Lola Haro and Margaret Dygas and 2 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Cabin Fever: Margaret Dygas, Roman Flügel b2b Lola Haro, Edward, Stevie Cox & Control Freak at FOLD on Fri 2 Oct, London. 6 artists on the bill: Control Freak, Edward, Lola Haro and Margaret Dygas and 2 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

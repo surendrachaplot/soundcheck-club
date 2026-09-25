@@ -2,7 +2,7 @@
 
 Julio Paradise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
-Julio Paradise is a techno and house artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Hamburg and Nurnberg. Often billed alongside Gwen Wayne, Suse and Crille & Tamalt. Next up: Renate, Berlin on Fri 16 Oct.
+Julio Paradise is a techno and house artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Hamburg and Nürnberg. Often billed alongside Gwen Wayne, Suse and Crille & Tamalt. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 

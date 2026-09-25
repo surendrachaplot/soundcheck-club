@@ -1,6 +1,6 @@
 # てれれMANTRA at 南港三角公園
 
-てれれMANTRA at 南港三角公園 on Sat 3 Oct, Osaka. 12 acts on the bill: Buzz, C!AO, Chopstick and KILLIN and 8 more. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+てれれMANTRA at 南港三角公園 on Sat 3 Oct, Osaka. 12 artists on the bill: Buzz, C!AO, Chopstick and KILLIN and 8 more. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

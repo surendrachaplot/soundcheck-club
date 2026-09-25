@@ -1,6 +1,6 @@
 # LED presents Mersiv with Seth David at Beach House San Diego
 
-LED presents Mersiv with Seth David at Beach House San Diego on Sat 28 Nov, Sandiego. Preview the line-up and save it on soundcheck.
+LED presents Mersiv with Seth David at Beach House San Diego on Sat 28 Nov, San Diego. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

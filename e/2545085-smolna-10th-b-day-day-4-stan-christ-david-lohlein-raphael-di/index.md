@@ -1,6 +1,6 @@
 # Smolna 10th B-day DAY 4: Stan Christ, David Lohlein, Raphael Dincsoy, Olivia Nebula at Smolna
 
-Smolna 10th B-day DAY 4: Stan Christ, David Lohlein, Raphael Dincsoy, Olivia Nebula on Sat 31 Oct, Warsaw. 6 acts on the bill: David Löhlein, kaj garage, No:mad and Olivia Nebula and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Smolna 10th B-day DAY 4: Stan Christ, David Lohlein, Raphael Dincsoy, Olivia Nebula on Sat 31 Oct, Warsaw. 6 artists on the bill: David Löhlein, kaj garage, No:mad and Olivia Nebula and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

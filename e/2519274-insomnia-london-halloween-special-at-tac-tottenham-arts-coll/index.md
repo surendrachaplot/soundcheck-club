@@ -1,6 +1,6 @@
 # Insomnia London: Halloween Special at TAC (Tottenham Arts Collective)
 
-Insomnia London: Halloween Special at TAC (Tottenham Arts Collective) on Sat 31 Oct, London. 11 acts on the bill: Benton (UK), Fonzo (UK), Killa P and Mani Festo and 7 more. Bass and Jungle. Preview the line-up and save it on soundcheck.
+Insomnia London: Halloween Special at TAC (Tottenham Arts Collective) on Sat 31 Oct, London. 11 artists on the bill: Benton (UK), Fonzo (UK), Killa P and Mani Festo and 7 more. Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

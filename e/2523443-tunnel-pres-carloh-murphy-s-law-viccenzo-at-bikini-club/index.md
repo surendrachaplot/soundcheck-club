@@ -1,6 +1,6 @@
 # Tunnel pres. Carloh, Murphy's Law, Viccenzo at Bikini Club
 
-Tunnel pres. Carloh, Murphy's Law, Viccenzo at Bikini Club on Fri 25 Sept, Barcelona. 2 acts on the bill: Chicks Luv Us and Viccenzo. Preview the line-up and save it on soundcheck.
+Tunnel pres. Carloh, Murphy's Law, Viccenzo at Bikini Club on Fri 25 Sept, Barcelona. 2 artists on the bill: Chicks Luv Us and Viccenzo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

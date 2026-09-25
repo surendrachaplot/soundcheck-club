@@ -1,6 +1,6 @@
 # Skee Mask (Ilian Tape) - 4-hour DJ set at Blå
 
-Skee Mask (Ilian Tape) - 4-hour DJ set at Blå on Fri 27 Nov, Oslo. 1 act on the bill: Skee Mask. Breakbeat and IDM. Preview the line-up and save it on soundcheck.
+Skee Mask (Ilian Tape) - 4-hour DJ set at Blå on Fri 27 Nov, Oslo. 1 artist on the bill: Skee Mask. Breakbeat and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

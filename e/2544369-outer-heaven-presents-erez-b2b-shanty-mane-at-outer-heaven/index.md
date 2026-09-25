@@ -1,6 +1,6 @@
 # Outer Heaven presents: Erez b2b shanty mane at Outer Heaven
 
-Outer Heaven presents: Erez b2b shanty mane on Fri 27 Nov, Newyorkcity. 2 acts on the bill: EREZ.JPG and shanty mane. House. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Erez b2b shanty mane on Fri 27 Nov, New York City. 2 artists on the bill: EREZ.JPG and shanty mane. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

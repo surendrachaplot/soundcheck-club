@@ -1,6 +1,6 @@
 # James Lavelle (Unkle / Mo'Wax) at Sidney & Matilda
 
-James Lavelle (Unkle / Mo'Wax) at Sidney & Matilda on Fri 25 Sept, Sheffield. 1 act on the bill: James Lavelle. Hip-Hop and Electro. Preview the line-up and save it on soundcheck.
+James Lavelle (Unkle / Mo'Wax) at Sidney & Matilda on Fri 25 Sept, Sheffield. 1 artist on the bill: James Lavelle. Hip-Hop and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

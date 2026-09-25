@@ -1,6 +1,6 @@
 # ARK: Myd at Hydrozagadka
 
-ARK: Myd at Hydrozagadka on Fri 11 Dec, Warsaw. 1 act on the bill: Myd. House and Disco. Preview the line-up and save it on soundcheck.
+ARK: Myd at Hydrozagadka on Fri 11 Dec, Warsaw. 1 artist on the bill: Myd. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

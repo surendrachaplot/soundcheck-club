@@ -1,6 +1,6 @@
 # G Jones B2B EPROM at Stereo
 
-G Jones B2B EPROM at Stereo on Fri 13 Nov, Glasgow. 2 acts on the bill: EPROM and G Jones. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+G Jones B2B EPROM at Stereo on Fri 13 Nov, Glasgow. 2 artists on the bill: EPROM and G Jones. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

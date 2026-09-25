@@ -1,6 +1,6 @@
 # Overdrive at Pangea
 
-Overdrive at Pangea on Fri 16 Oct, Montreal. 3 acts on the bill: EMN (1), Sumatra and WENG (2). Techno. Preview the line-up and save it on soundcheck.
+Overdrive at Pangea on Fri 16 Oct, Montreal. 3 artists on the bill: EMN, Sumatra and WENG. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

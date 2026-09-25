@@ -1,6 +1,6 @@
 # LOST x The Racket Space present: WOLTERS at The Racket Space
 
-LOST x The Racket Space present: WOLTERS on Sat 17 Oct, Dublin. 2 acts on the bill: LPM (1) and WOLTERS. Trance and House. Preview the line-up and save it on soundcheck.
+LOST x The Racket Space present: WOLTERS on Sat 17 Oct, Dublin. 2 artists on the bill: LPM and WOLTERS. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

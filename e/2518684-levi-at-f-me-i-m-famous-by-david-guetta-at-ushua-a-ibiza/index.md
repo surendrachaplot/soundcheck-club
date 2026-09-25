@@ -1,6 +1,6 @@
 # Levi at F*** ME I'M FAMOUS! By David Guetta at Ushuaïa Ibiza
 
-Levi at F*** ME I'M FAMOUS! By David Guetta at Ushuaïa Ibiza on Mon 28 Sept, Ibiza. 1 act on the bill: Levi (AU). Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Levi at F*** ME I'M FAMOUS! By David Guetta at Ushuaïa Ibiza on Mon 28 Sept, Ibiza. 1 artist on the bill: Levi (AU). Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

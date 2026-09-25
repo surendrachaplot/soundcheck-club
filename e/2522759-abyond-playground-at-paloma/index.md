@@ -1,6 +1,6 @@
 # Abyond Playground at Paloma
 
-Abyond Playground at Paloma on Thu 1 Oct, Berlin. 6 acts on the bill: Aidan, Fabrizio Brancaccio, materia hache and Matteo Gamba and 2 more. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Abyond Playground at Paloma on Thu 1 Oct, Berlin. 6 artists on the bill: Aidan, Fabrizio Brancaccio, materia hache and Matteo Gamba and 2 more. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

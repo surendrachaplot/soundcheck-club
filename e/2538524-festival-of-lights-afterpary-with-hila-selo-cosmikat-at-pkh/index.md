@@ -1,6 +1,6 @@
 # Festival of Lights Afterpary with Hila, selo, CosmiKat at PKH Warehouse
 
-Festival of Lights Afterpary with Hila, selo, CosmiKat at PKH Warehouse on Wed 14 Oct, Berlin. 2 acts on the bill: CosmiKat and selo. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Festival of Lights Afterpary with Hila, selo, CosmiKat at PKH Warehouse on Wed 14 Oct, Berlin. 2 artists on the bill: CosmiKat and selo. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

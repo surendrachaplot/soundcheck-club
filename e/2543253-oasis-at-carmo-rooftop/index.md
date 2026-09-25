@@ -1,6 +1,6 @@
 # OASIS at Carmo Rooftop
 
-OASIS at Carmo Rooftop on Sat 26 Sept, Lisbon. 3 acts on the bill: Lou, Martim Tonic and Ricky Doël. House. Preview the line-up and save it on soundcheck.
+OASIS at Carmo Rooftop on Sat 26 Sept, Lisbon. 3 artists on the bill: Lou, Martim Tonic and Ricky Doël. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

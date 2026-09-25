@@ -1,6 +1,6 @@
 # elrow Ibiza at [UNVRS]
 
-elrow Ibiza at [UNVRS] on Sat 26 Sept, Ibiza. 4 acts on the bill: Joris Voorn, Kolsch, Rendher and Tini Gessler. House and Tech House. Preview the line-up and save it on soundcheck.
+elrow Ibiza at [UNVRS] on Sat 26 Sept, Ibiza. 4 artists on the bill: Joris Voorn, Kolsch, Rendher and Tini Gessler. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

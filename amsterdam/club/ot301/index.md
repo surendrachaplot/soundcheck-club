@@ -2,7 +2,7 @@
 
 OT301 is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Midsummer Night's Dream" on Fri, 25 Sept 2026.
 
-OT301 is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Aili, Alberta Balsam, baby ganoush and Bardo (1) and 2 more. Browse upcoming dates, start times and who's playing. Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands.
+OT301 is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Aili, Alberta Balsam, baby ganoush and Bardo and 2 more. Browse upcoming dates, start times and who's playing. Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands.
 
 ## What's on
 

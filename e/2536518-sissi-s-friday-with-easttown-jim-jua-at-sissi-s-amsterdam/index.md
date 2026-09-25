@@ -1,6 +1,6 @@
 # Sissi's Friday with Easttown, Jim Jua at SISSI'S Amsterdam
 
-Sissi's Friday with Easttown, Jim Jua at SISSI'S Amsterdam on Fri 25 Sept, Amsterdam. 1 act on the bill: Easttown. House and Tech House. Preview the line-up and save it on soundcheck.
+Sissi's Friday with Easttown, Jim Jua at SISSI'S Amsterdam on Fri 25 Sept, Amsterdam. 1 artist on the bill: Easttown. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

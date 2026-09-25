@@ -1,6 +1,6 @@
 # STF 2026: Aïsha Devi + Ayano Yokoyama & 34423 at Paavli Kultuurivabrik
 
-STF 2026: Aïsha Devi + Ayano Yokoyama & 34423 at Paavli Kultuurivabrik on Sat 10 Oct, Tallinn. 1 act on the bill: Aïsha Devi. Trance and Experimental. Preview the line-up and save it on soundcheck.
+STF 2026: Aïsha Devi + Ayano Yokoyama & 34423 at Paavli Kultuurivabrik on Sat 10 Oct, Tallinn. 1 artist on the bill: Aïsha Devi. Trance and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

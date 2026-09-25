@@ -1,6 +1,6 @@
 # THE ONE presents Axwell - PROGRESSIVE HOUSE / HOUSE - at ZEROTOKYO
 
-THE ONE presents Axwell - PROGRESSIVE HOUSE / HOUSE - at ZEROTOKYO on Fri 16 Oct, Tokyo. 7 acts on the bill: Axwell, AY (10), ERIx2 and HATSUYUKI and 3 more. Progressive House and House. Preview the line-up and save it on soundcheck.
+THE ONE presents Axwell - PROGRESSIVE HOUSE / HOUSE - at ZEROTOKYO on Fri 16 Oct, Tokyo. 7 artists on the bill: Axwell, AY, ERIx2 and HATSUYUKI and 3 more. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

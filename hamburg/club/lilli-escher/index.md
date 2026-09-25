@@ -2,7 +2,7 @@
 
 Lilli Escher is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Marla Tsunami & manu Owusu" on Thu, 24 Sept 2026.
 
-Lilli Escher is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including MANU OWUSU, Tana (2) and TTX (GER). Browse upcoming dates, start times and who's playing. Max-Brauer-Allee 279, 22769 Hamburg, Germany.
+Lilli Escher is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including MANU OWUSU, Tana and TTX (GER). Browse upcoming dates, start times and who's playing. Max-Brauer-Allee 279, 22769 Hamburg, Germany.
 
 ## What's on
 

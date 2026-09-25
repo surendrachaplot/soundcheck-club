@@ -1,6 +1,6 @@
 # BEATNIK with Bunney and Bitzer at 1520
 
-BEATNIK with Bunney and Bitzer at 1520 on Sat 3 Oct, Manchester. 2 acts on the bill: Bitzer Maloney and Bunney. Techno and House. Preview the line-up and save it on soundcheck.
+BEATNIK with Bunney and Bitzer at 1520 on Sat 3 Oct, Manchester. 2 artists on the bill: Bitzer Maloney and Bunney. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

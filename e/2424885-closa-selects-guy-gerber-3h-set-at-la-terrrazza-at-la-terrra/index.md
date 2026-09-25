@@ -1,6 +1,6 @@
 # CLOSA SELECTS: Guy Gerber 3h set at La Terrrazza at La Terrrazza
 
-CLOSA SELECTS: Guy Gerber 3h set at La Terrrazza on Sat 26 Sept, Barcelona. 2 acts on the bill: Guy Gerber and MARTISTA. House and Afro House. Preview the line-up and save it on soundcheck.
+CLOSA SELECTS: Guy Gerber 3h set at La Terrrazza on Sat 26 Sept, Barcelona. 2 artists on the bill: Guy Gerber and MARTISTA. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

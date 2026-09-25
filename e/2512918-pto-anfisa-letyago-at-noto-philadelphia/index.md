@@ -1,6 +1,6 @@
 # PTO: Anfisa Letyago at Noto Philadelphia
 
-PTO: Anfisa Letyago at Noto Philadelphia on Thu 15 Oct, Philadelphia. 2 acts on the bill: Anfisa Letyago and Miss Powers. Techno. Preview the line-up and save it on soundcheck.
+PTO: Anfisa Letyago at Noto Philadelphia on Thu 15 Oct, Philadelphia. 2 artists on the bill: Anfisa Letyago and Miss Powers. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

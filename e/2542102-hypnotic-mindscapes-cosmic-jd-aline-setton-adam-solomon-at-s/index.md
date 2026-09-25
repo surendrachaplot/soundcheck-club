@@ -1,6 +1,6 @@
 # Hypnotic Mindscapes: Cosmic JD, Aline Setton & Adam Solomon at Système
 
-Hypnotic Mindscapes: Cosmic JD, Aline Setton & Adam Solomon at Système on Sun 4 Oct, Montreal. 2 acts on the bill: Adam Solomon and Cosmic JD. Techno and House. Preview the line-up and save it on soundcheck.
+Hypnotic Mindscapes: Cosmic JD, Aline Setton & Adam Solomon at Système on Sun 4 Oct, Montreal. 2 artists on the bill: Adam Solomon and Cosmic JD. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

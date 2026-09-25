@@ -1,6 +1,6 @@
 # La Luz con Ibn Itaka y Gazzi at Club Malasaña
 
-La Luz con Ibn Itaka y Gazzi at Club Malasaña on Fri 25 Sept, Madrid. 2 acts on the bill: Gazzi and Ibn Itaka. House and Electronica. Preview the line-up and save it on soundcheck.
+La Luz con Ibn Itaka y Gazzi at Club Malasaña on Fri 25 Sept, Madrid. 2 artists on the bill: Gazzi and Ibn Itaka. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MAHLWERK: Afem Syko & Lisa Korver with FADERCULT at Grelle Forelle
 
-MAHLWERK: Afem Syko & Lisa Korver with FADERCULT at Grelle Forelle on Fri 6 Nov, Vienna. 10 acts on the bill: Afem Syko, Ben Derris, Kat Ze and Linus Villa and 6 more. Techno. Preview the line-up and save it on soundcheck.
+MAHLWERK: Afem Syko & Lisa Korver with FADERCULT at Grelle Forelle on Fri 6 Nov, Vienna. 10 artists on the bill: Afem Syko, Ben Derris, Kat Ze and Linus Villa and 6 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

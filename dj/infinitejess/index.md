@@ -2,7 +2,7 @@
 
 Infinite Jess is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paris 75, San Francisco/Oakland on Fri, 16 Oct 2026.
 
-Infinite Jess is a house and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Carlos Souffront, Eichef and Galen. Next up: Paris 75, Sanfrancisco on Fri 16 Oct.
+Infinite Jess is a house and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Carlos Souffront, Eichef and Galen. Next up: Paris 75, San Francisco/Oakland on Fri 16 Oct.
 
 ## Upcoming shows
 

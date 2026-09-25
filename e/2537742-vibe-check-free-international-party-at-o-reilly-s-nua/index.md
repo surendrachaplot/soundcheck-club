@@ -1,6 +1,6 @@
 # VIBE CHECK - FREE International Party at O'Reilly's Nua
 
-VIBE CHECK - FREE International Party at O'Reilly's Nua on Sat 26 Sept, Brussels. 1 act on the bill: Roonx. Tech House and Club. Preview the line-up and save it on soundcheck.
+VIBE CHECK - FREE International Party at O'Reilly's Nua on Sat 26 Sept, Brussels. 1 artist on the bill: Roonx. Tech House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,14 @@
 # SpaceWax
 
-SpaceWax is a Acid and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+SpaceWax is a Acid and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-SpaceWax is an acid and tech house artist based in Germany, tracked on soundcheck, with 7 sets logged across All, Cologne and Dusseldorf. Often billed alongside NVNDO, 22 (1) and Akaj. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+SpaceWax is an acid and tech house artist based in Germany, tracked on soundcheck, with 7 sets logged across Cologne, Düsseldorf and Greece. Often billed alongside NVNDO, 22 and Akaj. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 
 ## Recently played
 

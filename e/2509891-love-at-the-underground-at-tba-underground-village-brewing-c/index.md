@@ -1,6 +1,6 @@
 # Love at The Underground at TBA - Underground @ Village Brewing Co. - Somerville, NJ 
 
-Love at The Underground at TBA - Underground @ Village Brewing Co. - Somerville, NJ  on Fri 25 Sept, Newyorkcity. Club and R&B. Preview the line-up and save it on soundcheck.
+Love at The Underground at TBA - Underground @ Village Brewing Co. - Somerville, NJ  on Fri 25 Sept, New York City. Club and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

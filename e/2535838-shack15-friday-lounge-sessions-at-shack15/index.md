@@ -1,6 +1,6 @@
 # Shack15 Friday Lounge Sessions at Shack15
 
-Shack15 Friday Lounge Sessions on Fri 25 Sept, Sanfrancisco. House and Deep House. Preview the line-up and save it on soundcheck.
+Shack15 Friday Lounge Sessions on Fri 25 Sept, San Francisco/Oakland. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

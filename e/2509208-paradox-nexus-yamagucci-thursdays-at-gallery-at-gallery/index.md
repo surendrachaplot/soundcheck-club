@@ -1,6 +1,6 @@
 # Paradox Nexus: Yamagucci -  Thursdays at Gallery at Gallery
 
-Paradox Nexus: Yamagucci -  Thursdays at Gallery on Thu 1 Oct, London. 4 acts on the bill: Anthony P. (CH), Gabski, Sam Karam and Yamagucci. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Paradox Nexus: Yamagucci -  Thursdays at Gallery on Thu 1 Oct, London. 4 artists on the bill: Anthony P. (CH), Gabski, Sam Karam and Yamagucci. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

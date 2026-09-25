@@ -1,6 +1,6 @@
 # Interval - DJ Optimism + Special Guests [All Night Long] at Glamorama
 
-Interval - DJ Optimism + Special Guests [All Night Long] at Glamorama on Fri 23 Oct, Melbourne. 1 act on the bill: DJ Optimism. House and Garage. Preview the line-up and save it on soundcheck.
+Interval - DJ Optimism + Special Guests [All Night Long] at Glamorama on Fri 23 Oct, Melbourne. 1 artist on the bill: DJ Optimism. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

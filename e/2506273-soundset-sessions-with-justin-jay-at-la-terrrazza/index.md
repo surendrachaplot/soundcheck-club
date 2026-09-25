@@ -1,6 +1,6 @@
 # Soundset Sessions with JUSTIN JAY at La Terrrazza
 
-Soundset Sessions with JUSTIN JAY at La Terrrazza on Thu 15 Oct, Barcelona. 4 acts on the bill: INEXXSTABLE, Justin Jay, Nyxx and YULIE. Trance and House. Preview the line-up and save it on soundcheck.
+Soundset Sessions with JUSTIN JAY at La Terrrazza on Thu 15 Oct, Barcelona. 4 artists on the bill: INEXXSTABLE, Justin Jay, Nyxx and YULIE. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

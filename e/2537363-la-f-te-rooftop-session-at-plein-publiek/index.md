@@ -1,6 +1,6 @@
 # LA FÊTE — Rooftop Session at Plein Publiek
 
-LA FÊTE — Rooftop Session at Plein Publiek on Sat 3 Oct, Antwerp. 1 act on the bill: GuyOhm. Preview the line-up and save it on soundcheck.
+LA FÊTE — Rooftop Session at Plein Publiek on Sat 3 Oct, Antwerp. 1 artist on the bill: GuyOhm. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dusky: Signals Tour - Newcastle at World Headquarters
 
-Dusky: Signals Tour - Newcastle at World Headquarters on Fri 27 Nov, Newcastle. 1 act on the bill: Dusky. Techno and House. Preview the line-up and save it on soundcheck.
+Dusky: Signals Tour - Newcastle at World Headquarters on Fri 27 Nov, Newcastle. 1 artist on the bill: Dusky. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

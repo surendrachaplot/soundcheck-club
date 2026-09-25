@@ -1,6 +1,6 @@
 # You & Me x WHP at Depot Mayfield
 
-You & Me x WHP at Depot Mayfield on Sat 3 Oct, Manchester. 42 acts on the bill: ADR (US), Alex Culross, Alexandria and Amy Os and 38 more. House and Tech House. Preview the line-up and save it on soundcheck.
+You & Me x WHP at Depot Mayfield on Sat 3 Oct, Manchester. 42 artists on the bill: ADR (US), Alex Culross, Alexandria and Amy Os and 38 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

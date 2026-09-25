@@ -1,6 +1,6 @@
 # Resound & Special Delivery presents: Amtrac at Kingdom at Kingdom Nightclub
 
-Resound & Special Delivery presents: Amtrac at Kingdom at Kingdom Nightclub on Sat 5 Dec, Austin. 1 act on the bill: Amtrac. House and EBM. Preview the line-up and save it on soundcheck.
+Resound & Special Delivery presents: Amtrac at Kingdom at Kingdom Nightclub on Sat 5 Dec, Austin. 1 artist on the bill: Amtrac. House and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

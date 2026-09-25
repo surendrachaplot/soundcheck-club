@@ -1,6 +1,6 @@
 # POLYGLOT: Shannen SP, Soso Tharpa, anruna & MUCK at El Pumarejo Barcelona
 
-POLYGLOT: Shannen SP, Soso Tharpa, anruna & MUCK at El Pumarejo Barcelona on Sat 24 Oct, Barcelona. 4 acts on the bill: anruna, MUCK, Shannen SP and Soso Tharpa. Club and Gqom. Preview the line-up and save it on soundcheck.
+POLYGLOT: Shannen SP, Soso Tharpa, anruna & MUCK at El Pumarejo Barcelona on Sat 24 Oct, Barcelona. 4 artists on the bill: anruna, MUCK, Shannen SP and Soso Tharpa. Club and Gqom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

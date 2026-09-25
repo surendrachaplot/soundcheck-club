@@ -1,6 +1,6 @@
 # Tamutamucafe 16th Anniversary Party at Tamutamucafe
 
-Tamutamucafe 16th Anniversary Party on Fri 25 Sept, Osaka. 4 acts on the bill: AKIHIRO, Daisuke Kakimoto, DJ Compufunk and Jonathan Coe. Techno and House. Preview the line-up and save it on soundcheck.
+Tamutamucafe 16th Anniversary Party on Fri 25 Sept, Osaka. 4 artists on the bill: AKIHIRO, Daisuke Kakimoto, DJ Compufunk and Jonathan Coe. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ark // James Poole [UK] - Jim Jonathan [NL] - KELLAR [NL] at ark (Melb)
 
-ark // James Poole [UK] - Jim Jonathan [NL] - KELLAR [NL] at ark (Melb) on Sat 14 Nov, Melbourne. 2 acts on the bill: James Poole and KELLAR. House and Garage. Preview the line-up and save it on soundcheck.
+ark // James Poole [UK] - Jim Jonathan [NL] - KELLAR [NL] at ark (Melb) on Sat 14 Nov, Melbourne. 2 artists on the bill: James Poole and KELLAR. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

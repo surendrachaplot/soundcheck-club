@@ -1,6 +1,6 @@
 # Made to Move presents Latinas in the House at The Airliner
 
-Made to Move presents Latinas in the House at The Airliner on Fri 25 Sept, Losangeles. 5 acts on the bill: Andy Oro, Guaparda, Juliet Mendoza and SEEPS and 1 more. House. Preview the line-up and save it on soundcheck.
+Made to Move presents Latinas in the House at The Airliner on Fri 25 Sept, Los Angeles. 5 artists on the bill: Andy Oro, Guaparda, Juliet Mendoza and SEEPS and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

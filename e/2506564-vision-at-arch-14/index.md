@@ -1,6 +1,6 @@
 # VISION at Arch 14
 
-VISION at Arch 14 on Sat 17 Oct, London. 3 acts on the bill: MUNNI, Oliver.r and Tom McRae. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+VISION at Arch 14 on Sat 17 Oct, London. 3 artists on the bill: MUNNI, Oliver.r and Tom McRae. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

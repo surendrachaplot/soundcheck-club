@@ -1,6 +1,6 @@
 # FINAL GIRLS: T4T HALLOWEEN at El Rio
 
-FINAL GIRLS: T4T HALLOWEEN at El Rio on Sat 31 Oct, Sanfrancisco. 5 acts on the bill: FINISHHER, FREAK POV, Parking Structure and Pretty Privilege and 1 more. Techno and Club. Preview the line-up and save it on soundcheck.
+FINAL GIRLS: T4T HALLOWEEN at El Rio on Sat 31 Oct, San Francisco/Oakland. 5 artists on the bill: FINISHHER, FREAK POV, Parking Structure and Pretty Privilege and 1 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

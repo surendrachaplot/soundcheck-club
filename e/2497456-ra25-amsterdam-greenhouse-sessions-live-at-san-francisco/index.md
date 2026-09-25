@@ -1,6 +1,6 @@
 # RA25: Amsterdam - Greenhouse Sessions live at San Francisco
 
-RA25: Amsterdam - Greenhouse Sessions live at San Francisco on Thu 22 Oct, Amsterdam. 9 acts on the bill: Antal, BASHKKA, Budino and Introspekt and 5 more. Preview the line-up and save it on soundcheck.
+RA25: Amsterdam - Greenhouse Sessions live at San Francisco on Thu 22 Oct, Amsterdam. 9 artists on the bill: Antal, BASHKKA, Budino and Introspekt and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

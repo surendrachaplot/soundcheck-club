@@ -1,6 +1,6 @@
 # GrooveTop x Temper present Taylah Elaine at Temper. Wine Room & Lounge
 
-GrooveTop x Temper present Taylah Elaine at Temper. Wine Room & Lounge on Sat 10 Oct, Singapore. 1 act on the bill: Taylah Elaine. Hip-Hop and Garage. Preview the line-up and save it on soundcheck.
+GrooveTop x Temper present Taylah Elaine at Temper. Wine Room & Lounge on Sat 10 Oct, Singapore. 1 artist on the bill: Taylah Elaine. Hip-Hop and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

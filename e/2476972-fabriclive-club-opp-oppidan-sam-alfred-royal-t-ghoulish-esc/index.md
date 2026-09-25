@@ -1,6 +1,6 @@
 # FABRICLIVE: Club Opp - Oppidan, Sam Alfred, Royal-T, Ghoulish, ESC, Napes & Toby Ross at fabric
 
-FABRICLIVE: Club Opp - Oppidan, Sam Alfred, Royal-T, Ghoulish, ESC, Napes & Toby Ross at fabric on Fri 13 Nov, London. 8 acts on the bill: ESC (5), Ghoulish, Napes and Oppidan and 4 more. Preview the line-up and save it on soundcheck.
+FABRICLIVE: Club Opp - Oppidan, Sam Alfred, Royal-T, Ghoulish, ESC, Napes & Toby Ross at fabric on Fri 13 Nov, London. 8 artists on the bill: ESC, Ghoulish, Napes and Oppidan and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

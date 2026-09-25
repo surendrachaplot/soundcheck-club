@@ -1,6 +1,6 @@
 # SOULSTICE - Aline Brooklyn - Carlo Alberto - Rimaye at DURO
 
-SOULSTICE - Aline Brooklyn - Carlo Alberto - Rimaye at DURO on Fri 25 Sept, Milan. 2 acts on the bill: Aline Brooklyn and Rimaye. Techno and House. Preview the line-up and save it on soundcheck.
+SOULSTICE - Aline Brooklyn - Carlo Alberto - Rimaye at DURO on Fri 25 Sept, Milan. 2 artists on the bill: Aline Brooklyn and Rimaye. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

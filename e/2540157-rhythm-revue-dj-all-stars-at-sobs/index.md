@@ -1,6 +1,6 @@
 # Rhythm Revue: DJ All Stars at SOBs
 
-Rhythm Revue: DJ All Stars at SOBs on Fri 9 Oct, Newyorkcity. R&B. Preview the line-up and save it on soundcheck.
+Rhythm Revue: DJ All Stars at SOBs on Fri 9 Oct, New York City. R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

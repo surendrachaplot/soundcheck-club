@@ -1,6 +1,6 @@
 # FACE 2 FACE: ADE at Melkweg
 
-FACE 2 FACE: ADE at Melkweg on Thu 22 Oct, Amsterdam. 9 acts on the bill: 2HOT2PLAY, ALT8, BIIANCO and Fatima Hajji and 5 more. Techno. Preview the line-up and save it on soundcheck.
+FACE 2 FACE: ADE at Melkweg on Thu 22 Oct, Amsterdam. 9 artists on the bill: 2HOT2PLAY, ALT8, BIIANCO and Fatima Hajji and 5 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

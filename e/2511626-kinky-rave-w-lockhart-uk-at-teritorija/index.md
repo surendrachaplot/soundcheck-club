@@ -1,6 +1,6 @@
 # KINKY RAVE w/ Lockhart (UK) at Teritorija
 
-KINKY RAVE w/ Lockhart (UK) at Teritorija on Fri 4 Dec, Riga. 2 acts on the bill: Ksenia Kamikaza and Lockhart. Techno and House. Preview the line-up and save it on soundcheck.
+KINKY RAVE w/ Lockhart (UK) at Teritorija on Fri 4 Dec, Riga. 2 artists on the bill: Ksenia Kamikaza and Lockhart. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

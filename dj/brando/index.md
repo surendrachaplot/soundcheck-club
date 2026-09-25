@@ -2,7 +2,7 @@
 
 BRANDO is a Downtempo and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pacha, Munich on Fri, 25 Sept 2026.
 
-BRANDO is a downtempo and minimal artist tracked on soundcheck, with 5 sets logged across Madrid, Melbourne, Mexicocity and Milan and 1 more. Often billed alongside AJNA, Andsep and Body-O. Next up: Pacha, Munich on Fri 25 Sept.
+BRANDO is a downtempo and minimal artist tracked on soundcheck, with 5 sets logged across Madrid, Melbourne, Mexico City and Milan and 1 more. Often billed alongside AJNA, Andsep and Body-O. Next up: Pacha, Munich on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Korpuss × RAVE COMMUNITY LATVIA at Korpuss
 
-Korpuss × RAVE COMMUNITY LATVIA on Fri 25 Sept, Riga. 5 acts on the bill: Dispoze, EP!C, nummurs and Tretriix and 1 more. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+Korpuss × RAVE COMMUNITY LATVIA on Fri 25 Sept, Riga. 5 artists on the bill: Dispoze, EP!C, nummurs and Tretriix and 1 more. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Azumaya -Thursday- at Azumaya
 
-Azumaya -Thursday- on Thu 15 Oct, Tokyo. 3 acts on the bill: Aki Dolanikov, monielu.h and Moodman. House. Preview the line-up and save it on soundcheck.
+Azumaya -Thursday- on Thu 15 Oct, Tokyo. 3 artists on the bill: Aki Dolanikov, monielu.h and Moodman. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Systematic Cologne at Odonien
 
-Systematic Cologne at Odonien on Fri 25 Sept, Cologne. 5 acts on the bill: An On Bast, Drumcomplex, Frank Sonic and Marc Romboy and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Systematic Cologne at Odonien on Fri 25 Sept, Cologne. 5 artists on the bill: An On Bast, Drumcomplex, Frank Sonic and Marc Romboy and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

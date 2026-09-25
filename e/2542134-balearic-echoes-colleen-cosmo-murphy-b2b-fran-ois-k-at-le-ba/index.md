@@ -1,6 +1,6 @@
 # Balearic Echoes: Colleen 'Cosmo' Murphy b2b François K at Le Bain
 
-Balearic Echoes: Colleen 'Cosmo' Murphy b2b François K at Le Bain on Sun 27 Sept, Newyorkcity. 2 acts on the bill: Colleen 'Cosmo' Murphy and Francois K. Preview the line-up and save it on soundcheck.
+Balearic Echoes: Colleen 'Cosmo' Murphy b2b François K at Le Bain on Sun 27 Sept, New York City. 2 artists on the bill: Colleen 'Cosmo' Murphy and Francois K. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

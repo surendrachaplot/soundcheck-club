@@ -1,6 +1,6 @@
 # FOLD x 宀 with James Newmarch & Voicedrone (FOLD, London) + Faxtory & Scott B (Distrikt, HK) at 宀 Club
 
-FOLD x 宀 with James Newmarch & Voicedrone (FOLD, London) + Faxtory & Scott B (Distrikt, HK) at 宀 Club on Fri 27 Nov, Hongkong. 4 acts on the bill: Faxtory, James Newmarch, Scott B and Voicedrone. Techno. Preview the line-up and save it on soundcheck.
+FOLD x 宀 with James Newmarch & Voicedrone (FOLD, London) + Faxtory & Scott B (Distrikt, HK) at 宀 Club on Fri 27 Nov, Hong Kong. 4 artists on the bill: Faxtory, James Newmarch, Scott B and Voicedrone. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

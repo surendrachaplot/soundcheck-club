@@ -1,6 +1,6 @@
 # Sacré présente: Ludmila Di Pasquale at Sacré
 
-Sacré présente: Ludmila Di Pasquale on Fri 23 Oct, Paris. 1 act on the bill: Ludmila Di Pasquale. House. Preview the line-up and save it on soundcheck.
+Sacré présente: Ludmila Di Pasquale on Fri 23 Oct, Paris. 1 artist on the bill: Ludmila Di Pasquale. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

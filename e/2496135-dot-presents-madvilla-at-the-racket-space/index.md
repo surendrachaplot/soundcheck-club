@@ -1,6 +1,6 @@
 # DOT. presents MADVILLA at The Racket Space
 
-DOT. presents MADVILLA at The Racket Space on Fri 25 Sept, Dublin. 1 act on the bill: MADVILLA. House and Garage. Preview the line-up and save it on soundcheck.
+DOT. presents MADVILLA at The Racket Space on Fri 25 Sept, Dublin. 1 artist on the bill: MADVILLA. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

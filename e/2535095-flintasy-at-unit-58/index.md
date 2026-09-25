@@ -1,6 +1,6 @@
 # FLINTASY at Unit 58
 
-FLINTASY at Unit 58 on Sat 3 Oct, London. 4 acts on the bill: Apsara, Light Gal, Valkyria and WildSoul. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+FLINTASY at Unit 58 on Sat 3 Oct, London. 4 artists on the bill: Apsara, Light Gal, Valkyria and WildSoul. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

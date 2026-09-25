@@ -1,6 +1,6 @@
 # Giri x Ritmo Lunatico at Giri
 
-Giri x Ritmo Lunatico on Thu 1 Oct, Berlin. 2 acts on the bill: Etkin Cekin and Lizatron. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Giri x Ritmo Lunatico on Thu 1 Oct, Berlin. 2 artists on the bill: Etkin Cekin and Lizatron. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

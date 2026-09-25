@@ -1,6 +1,6 @@
 # Blue Balls: Twinks,Twunks,Otters at Thelema
 
-Blue Balls: Twinks,Twunks,Otters at Thelema on Sat 26 Sept, Tbilisi. 2 acts on the bill: MMAO and Trotsky. House and Electro. Preview the line-up and save it on soundcheck.
+Blue Balls: Twinks,Twunks,Otters at Thelema on Sat 26 Sept, Tbilisi. 2 artists on the bill: MMAO and Trotsky. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

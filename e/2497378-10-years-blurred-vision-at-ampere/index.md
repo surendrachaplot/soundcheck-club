@@ -1,6 +1,6 @@
 # 10 Years BLURRED VISION at Ampere
 
-10 Years BLURRED VISION at Ampere on Fri 30 Oct, Munich. 4 acts on the bill: Cosimoto, die_ley, Mala and Schlachthofbronx. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+10 Years BLURRED VISION at Ampere on Fri 30 Oct, Munich. 4 artists on the bill: Cosimoto, die_ley, Mala and Schlachthofbronx. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

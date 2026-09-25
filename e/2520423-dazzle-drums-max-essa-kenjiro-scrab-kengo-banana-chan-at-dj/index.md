@@ -1,6 +1,6 @@
 # Dazzle Drums, Max Essa, Kenjiro, scrab, Kengo & BANANA-CHAN at DJ Bar Bridge Shinjuku
 
-Dazzle Drums, Max Essa, Kenjiro, scrab, Kengo & BANANA-CHAN at DJ Bar Bridge Shinjuku on Sun 11 Oct, Tokyo. 5 acts on the bill: BANANA-CHAN, Dazzle Drums, Kengo and Max Essa and 1 more. House. Preview the line-up and save it on soundcheck.
+Dazzle Drums, Max Essa, Kenjiro, scrab, Kengo & BANANA-CHAN at DJ Bar Bridge Shinjuku on Sun 11 Oct, Tokyo. 5 artists on the bill: BANANA-CHAN, Dazzle Drums, Kengo and Max Essa and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

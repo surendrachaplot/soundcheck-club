@@ -1,6 +1,6 @@
 # LED presents Shermanology at Quartyard
 
-LED presents Shermanology at Quartyard on Sat 7 Nov, Sandiego. 1 act on the bill: Shermanology. Preview the line-up and save it on soundcheck.
+LED presents Shermanology at Quartyard on Sat 7 Nov, San Diego. 1 artist on the bill: Shermanology. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

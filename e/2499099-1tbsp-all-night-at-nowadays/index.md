@@ -1,6 +1,6 @@
 # 1tbsp All Night at Nowadays
 
-1tbsp All Night at Nowadays on Thu 22 Oct, Newyorkcity. 1 act on the bill: 1tbsp. Preview the line-up and save it on soundcheck.
+1tbsp All Night at Nowadays on Thu 22 Oct, New York City. 1 artist on the bill: 1tbsp. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

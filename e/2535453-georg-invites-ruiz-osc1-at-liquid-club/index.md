@@ -1,6 +1,6 @@
 # Georg Invites: RUIZ OSC1 at Liquid Club
 
-Georg Invites: RUIZ OSC1 at Liquid Club on Fri 23 Oct, Malta. 4 acts on the bill: Cheech, Georg MT, Muski and RUIZ OSC1. Techno. Preview the line-up and save it on soundcheck.
+Georg Invites: RUIZ OSC1 at Liquid Club on Fri 23 Oct, Malta. 4 artists on the bill: Cheech, Georg MT, Muski and RUIZ OSC1. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

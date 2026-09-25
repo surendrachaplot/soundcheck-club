@@ -1,6 +1,6 @@
 # Changing Currents - London at Colour Factory
 
-Changing Currents - London at Colour Factory on Sat 28 Nov, London. 1 act on the bill: Changing Currents. Preview the line-up and save it on soundcheck.
+Changing Currents - London at Colour Factory on Sat 28 Nov, London. 1 artist on the bill: Changing Currents. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

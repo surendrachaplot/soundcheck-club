@@ -1,6 +1,6 @@
 # Technocrazia Season Opening - 12H All Day Long at Department 184
 
-Technocrazia Season Opening - 12H All Day Long at Department 184 on Sun 18 Oct, Milan. 10 acts on the bill: Alex Brasile, AllaDerivaLontano, ALXV and Daichi Wada and 6 more. Techno. Preview the line-up and save it on soundcheck.
+Technocrazia Season Opening - 12H All Day Long at Department 184 on Sun 18 Oct, Milan. 10 artists on the bill: Alex Brasile, AllaDerivaLontano, ALXV and Daichi Wada and 6 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

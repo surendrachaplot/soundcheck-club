@@ -1,6 +1,6 @@
 # GSpot Presents: Dark Matter at TBA
 
-GSpot Presents: Dark Matter at TBA on Sat 10 Oct, Sydney. 1 act on the bill: Nicneven. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+GSpot Presents: Dark Matter at TBA on Sat 10 Oct, Sydney. 1 artist on the bill: Nicneven. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

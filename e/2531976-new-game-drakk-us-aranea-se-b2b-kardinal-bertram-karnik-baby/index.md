@@ -1,6 +1,6 @@
 # NEW GAME+ // DRAKK (US) / ARANEA (SE) B2B Kardinal Bertram / KARNIK / babysquid / ASTA MARI at MODULE
 
-NEW GAME+ // DRAKK (US) / ARANEA (SE) B2B Kardinal Bertram / KARNIK / babysquid / ASTA MARI at MODULE on Fri 25 Sept, Copenhagen. 6 acts on the bill: ARANEA, ASTA MARI, babysquid and DRAKK and 2 more. Techno. Preview the line-up and save it on soundcheck.
+NEW GAME+ // DRAKK (US) / ARANEA (SE) B2B Kardinal Bertram / KARNIK / babysquid / ASTA MARI at MODULE on Fri 25 Sept, Copenhagen. 6 artists on the bill: ARANEA, ASTA MARI, babysquid and DRAKK and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

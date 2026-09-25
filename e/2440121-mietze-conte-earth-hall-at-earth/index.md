@@ -1,6 +1,6 @@
 # Mietze Conte - EartH Hall at EartH
 
-Mietze Conte - EartH Hall on Sat 21 Nov, London. 1 act on the bill: Mietze Conte. Preview the line-up and save it on soundcheck.
+Mietze Conte - EartH Hall on Sat 21 Nov, London. 1 artist on the bill: Mietze Conte. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

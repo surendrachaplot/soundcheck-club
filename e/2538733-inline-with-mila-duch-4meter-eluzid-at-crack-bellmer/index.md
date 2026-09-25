@@ -1,6 +1,6 @@
 # Inline with Mila Duch, 4meter & Eluzid at Crack Bellmer
 
-Inline with Mila Duch, 4meter & Eluzid at Crack Bellmer on Thu 24 Sept, Berlin. 2 acts on the bill: 4meter and Eluzid. Techno and House. Preview the line-up and save it on soundcheck.
+Inline with Mila Duch, 4meter & Eluzid at Crack Bellmer on Thu 24 Sept, Berlin. 2 artists on the bill: 4meter and Eluzid. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

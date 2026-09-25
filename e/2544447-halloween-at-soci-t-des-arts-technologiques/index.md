@@ -1,6 +1,6 @@
 # HALLOWEEN at Société des arts technologiques
 
-HALLOWEEN at Société des arts technologiques on Fri 30 Oct, Montreal. 7 acts on the bill: Carlos Souffront, Clarisa Kimskii, Danny Daze and DJ Stingray 313 and 3 more. Preview the line-up and save it on soundcheck.
+HALLOWEEN at Société des arts technologiques on Fri 30 Oct, Montreal. 7 artists on the bill: Carlos Souffront, Clarisa Kimskii, Danny Daze and DJ Stingray 313 and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

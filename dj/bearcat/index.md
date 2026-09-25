@@ -2,7 +2,7 @@
 
 BEARCAT is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nowadays, New York City on Sat, 24 Oct 2026.
 
-BEARCAT is a techno and club artist based in United States of America, tracked on soundcheck, with 97 sets logged across Amsterdam, Berlin, Chicago and Leipzig and 10 more. Often billed alongside Byrell The Great, planetperris and Shyboi. Next up: Nowadays, Newyorkcity on Sat 24 Oct.
+BEARCAT is a techno and club artist based in United States of America, tracked on soundcheck, with 97 sets logged across Amsterdam, Berlin, Chicago and Leipzig and 10 more. Often billed alongside Byrell The Great, planetperris and Shyboi. Next up: Nowadays, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 

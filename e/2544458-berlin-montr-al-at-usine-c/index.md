@@ -1,6 +1,6 @@
 # Berlin à Montréal at Usine C
 
-Berlin à Montréal at Usine C on Tue 29 Sept, Montreal. 1 act on the bill: Bombata. Preview the line-up and save it on soundcheck.
+Berlin à Montréal at Usine C on Tue 29 Sept, Montreal. 1 artist on the bill: Bombata. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

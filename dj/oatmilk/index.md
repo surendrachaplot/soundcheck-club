@@ -2,7 +2,7 @@
 
 OatMilk is a Electro and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at BABY01, Berlin on Sat, 5 Dec 2026.
 
-OatMilk is an electro and bass artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Newyorkcity and Sydney. Often billed alongside Acidic Juice, Andrew Wowk and BB. angel. Next up: BABY01, Berlin on Sat 5 Dec.
+OatMilk is an electro and bass artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, New York City and Sydney. Often billed alongside Acidic Juice, Andrew Wowk and BB. angel. Next up: BABY01, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 

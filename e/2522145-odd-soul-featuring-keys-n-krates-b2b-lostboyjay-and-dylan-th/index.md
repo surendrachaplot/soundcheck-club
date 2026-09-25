@@ -1,6 +1,6 @@
 # Odd Soul featuring Keys N Krates b2b LOSTBOYJAY and Dylan-Thomas at Standard Time
 
-Odd Soul featuring Keys N Krates b2b LOSTBOYJAY and Dylan-Thomas at Standard Time on Fri 16 Oct, Toronto. 3 acts on the bill: Dylan-Thomas, Keys N Krates and LOSTBOYJAY. Preview the line-up and save it on soundcheck.
+Odd Soul featuring Keys N Krates b2b LOSTBOYJAY and Dylan-Thomas at Standard Time on Fri 16 Oct, Toronto. 3 artists on the bill: Dylan-Thomas, Keys N Krates and LOSTBOYJAY. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

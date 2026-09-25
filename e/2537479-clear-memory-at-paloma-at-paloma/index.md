@@ -1,6 +1,6 @@
 # Clear Memory at Paloma at Paloma
 
-Clear Memory at Paloma on Sat 3 Oct, Berlin. 2 acts on the bill: Milium and Rekorder. Preview the line-up and save it on soundcheck.
+Clear Memory at Paloma on Sat 3 Oct, Berlin. 2 artists on the bill: Milium and Rekorder. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

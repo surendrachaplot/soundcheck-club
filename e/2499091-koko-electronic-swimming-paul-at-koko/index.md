@@ -1,6 +1,6 @@
 # KOKO Electronic: Swimming Paul at KOKO
 
-KOKO Electronic: Swimming Paul on Fri 9 Oct, London. 1 act on the bill: Swimming Paul. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Swimming Paul on Fri 9 Oct, London. 1 artist on the bill: Swimming Paul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Frozen Tempo presents: Soukah (UK Debut) at Cu
 
-Frozen Tempo presents: Soukah (UK Debut) at Cu on Sat 3 Oct, London. 1 act on the bill: Deep Tempo. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Frozen Tempo presents: Soukah (UK Debut) at Cu on Sat 3 Oct, London. 1 artist on the bill: Deep Tempo. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

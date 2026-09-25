@@ -1,14 +1,14 @@
 # Candelaria
 
-Candelaria is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tunnel, Milan on Fri, 25 Sept 2026.
+Candelaria is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Studionotte, Milan on Fri, 25 Sept 2026.
 
-Candelaria is a house and minimal artist based in Colombia, tracked on soundcheck, with 7 sets logged across Milan and Naples. Often billed alongside AGELESS, ALDAVE and Alci. Next up: Tunnel, Milan on Fri 25 Sept.
+Candelaria is a house and minimal artist based in Colombia, tracked on soundcheck, with 7 sets logged across Milan and Naples. Often billed alongside AGELESS, ALDAVE and Alci. Next up: Studionotte, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Tunnel | Milan |
+| Fri, 25 Sept 2026 | Studionotte | Milan |
 | Sat, 26 Sept 2026 | Stazione Centrale | Milan |
 
 ## Recently played

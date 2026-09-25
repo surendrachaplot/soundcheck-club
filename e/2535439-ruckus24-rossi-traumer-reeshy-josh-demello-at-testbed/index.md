@@ -1,6 +1,6 @@
 # Ruckus24 - Rossi. Traumer, Reeshy, Josh Demello at TESTBED
 
-Ruckus24 - Rossi. Traumer, Reeshy, Josh Demello at TESTBED on Fri 13 Nov, Leeds. 4 acts on the bill: Josh Demello, Reeshy, Rossi and Traumer. House and Tech House. Preview the line-up and save it on soundcheck.
+Ruckus24 - Rossi. Traumer, Reeshy, Josh Demello at TESTBED on Fri 13 Nov, Leeds. 4 artists on the bill: Josh Demello, Reeshy, Rossi and Traumer. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

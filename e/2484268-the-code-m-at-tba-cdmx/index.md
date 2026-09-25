@@ -1,6 +1,6 @@
 # THE CODE: M at TBA - CDMX
 
-THE CODE: M at TBA - CDMX on Fri 11 Dec, Mexicocity. House and Pop. Preview the line-up and save it on soundcheck.
+THE CODE: M at TBA - CDMX on Fri 11 Dec, Mexico City. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

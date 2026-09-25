@@ -1,6 +1,6 @@
 # tINI AND THE GANG: tINI, Angel D'lite & Fastlove at The Loft
 
-tINI AND THE GANG: tINI, Angel D'lite & Fastlove at The Loft on Fri 9 Oct, Manchester. 3 acts on the bill: Angel D'lite, Fastlove and tINI. Preview the line-up and save it on soundcheck.
+tINI AND THE GANG: tINI, Angel D'lite & Fastlove at The Loft on Fri 9 Oct, Manchester. 3 artists on the bill: Angel D'lite, Fastlove and tINI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

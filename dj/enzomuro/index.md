@@ -2,7 +2,7 @@
 
 Enzo Muro is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Outdoor Location - DTLA , Los Angeles on Sun, 1 Nov 2026.
 
-Enzo Muro is a house and minimal artist based in United States of America, tracked on soundcheck, with 65 sets logged across Berlin, Bucharest, Losangeles and Prague and 2 more. Often billed alongside Ray Kash, Artur (US) and Yair. Next up: TBA - Outdoor Location - DTLA , Losangeles on Sun 1 Nov.
+Enzo Muro is a house and minimal artist based in United States of America, tracked on soundcheck, with 65 sets logged across Berlin, Bucharest, Los Angeles and Prague and 2 more. Often billed alongside Ray Kash, Artur (US) and Yair. Next up: TBA - Outdoor Location - DTLA , Los Angeles on Sun 1 Nov.
 
 ## Upcoming shows
 

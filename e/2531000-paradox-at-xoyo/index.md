@@ -1,6 +1,6 @@
 # PARADOX at XOYO
 
-PARADOX at XOYO on Wed 30 Sept, London. 3 acts on the bill: EDEF, Jamie Payne and Kalani. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+PARADOX at XOYO on Wed 30 Sept, London. 3 artists on the bill: EDEF, Jamie Payne and Kalani. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

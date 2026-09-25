@@ -1,6 +1,6 @@
 # DJ SPORTSCHUH x BNZN [ALL NIGHT LONG] at Coco Boule
 
-DJ SPORTSCHUH x BNZN [ALL NIGHT LONG] at Coco Boule on Sat 17 Oct, Berlin. 2 acts on the bill: BNZN and DJ SPORTSCHUH. House and Garage. Preview the line-up and save it on soundcheck.
+DJ SPORTSCHUH x BNZN [ALL NIGHT LONG] at Coco Boule on Sat 17 Oct, Berlin. 2 artists on the bill: BNZN and DJ SPORTSCHUH. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

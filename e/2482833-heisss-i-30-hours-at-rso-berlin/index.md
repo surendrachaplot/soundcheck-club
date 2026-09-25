@@ -1,6 +1,6 @@
 # HEISSS I 30 hours at RSO.BERLIN
 
-HEISSS I 30 hours at RSO.BERLIN on Sat 24 Oct, Berlin. 14 acts on the bill: Amphia, Andre Zimmer, Carluschka and COZi and 10 more. Techno and House. Preview the line-up and save it on soundcheck.
+HEISSS I 30 hours at RSO.BERLIN on Sat 24 Oct, Berlin. 14 artists on the bill: Amphia, Andre Zimmer, Carluschka and COZi and 10 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Minimal Collective x Oude Kerk: Post-Space at Oude Kerk
 
-Minimal Collective x Oude Kerk: Post-Space on Thu 22 Oct, Amsterdam. 9 acts on the bill: Buttechno, Carmen Villain, Floid.live and LazerGazer and 5 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Minimal Collective x Oude Kerk: Post-Space on Thu 22 Oct, Amsterdam. 9 artists on the bill: Buttechno, Carmen Villain, Floid.live and LazerGazer and 5 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Content Brakes: PIG, Cyanotic, Biproduct at O'Briens Pub
 
-Content Brakes: PIG, Cyanotic, Biproduct at O'Briens Pub on Mon 28 Sept, Boston. 1 act on the bill: Biproduct. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Content Brakes: PIG, Cyanotic, Biproduct at O'Briens Pub on Mon 28 Sept, Boston. 1 artist on the bill: Biproduct. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

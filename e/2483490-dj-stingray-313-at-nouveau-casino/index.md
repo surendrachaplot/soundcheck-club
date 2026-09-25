@@ -1,6 +1,6 @@
 # DJ Stingray 313 at Nouveau Casino
 
-DJ Stingray 313 at Nouveau Casino on Fri 2 Oct, Paris. 3 acts on the bill: Aleqs Notal, DJ Stingray 313 and Jean Nipon. Techno and Electro. Preview the line-up and save it on soundcheck.
+DJ Stingray 313 at Nouveau Casino on Fri 2 Oct, Paris. 3 artists on the bill: Aleqs Notal, DJ Stingray 313 and Jean Nipon. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Insomniac presents RuPaul + Bambii B2B LSDXOXO + Chippy Nonstop + Alex Chapman + SHE/CLAY at Ingram Plaza
 
-Insomniac presents RuPaul + Bambii B2B LSDXOXO + Chippy Nonstop + Alex Chapman + SHE/CLAY at Ingram Plaza on Sat 17 Oct, Sandiego. 4 acts on the bill: Alex Chapman, Bambii, Chippy Nonstop and LSDXOXO. Preview the line-up and save it on soundcheck.
+Insomniac presents RuPaul + Bambii B2B LSDXOXO + Chippy Nonstop + Alex Chapman + SHE/CLAY at Ingram Plaza on Sat 17 Oct, San Diego. 4 artists on the bill: Alex Chapman, Bambii, Chippy Nonstop and LSDXOXO. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

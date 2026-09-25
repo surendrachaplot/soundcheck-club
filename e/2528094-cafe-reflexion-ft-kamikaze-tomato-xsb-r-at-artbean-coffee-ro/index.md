@@ -1,6 +1,6 @@
 # Cafe Reflexion - ft Kamikaze Tomato & XSB-R at Artbean Coffee Roasters
 
-Cafe Reflexion - ft Kamikaze Tomato & XSB-R at Artbean Coffee Roasters on Sun 27 Sept, Newyorkcity. 1 act on the bill: XSB-R. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+Cafe Reflexion - ft Kamikaze Tomato & XSB-R at Artbean Coffee Roasters on Sun 27 Sept, New York City. 1 artist on the bill: XSB-R. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

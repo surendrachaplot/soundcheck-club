@@ -1,6 +1,6 @@
 # REGGAETON OPEN BAR (21+) at The Meadows
 
-REGGAETON OPEN BAR (21+) at The Meadows on Fri 23 Oct, Newyorkcity. Reggaeton. Preview the line-up and save it on soundcheck.
+REGGAETON OPEN BAR (21+) at The Meadows on Fri 23 Oct, New York City. Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

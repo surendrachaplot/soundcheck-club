@@ -1,6 +1,6 @@
 # Fu-un Kaoru-Joe& Berlin Tokyo DokiDokiParty at Daikanyama ORD.
 
-Fu-un Kaoru-Joe& Berlin Tokyo DokiDokiParty at Daikanyama ORD. on Wed 30 Sept, Tokyo. 2 acts on the bill: DJason and Sojourna. Techno and Jazz. Preview the line-up and save it on soundcheck.
+Fu-un Kaoru-Joe& Berlin Tokyo DokiDokiParty at Daikanyama ORD. on Wed 30 Sept, Tokyo. 2 artists on the bill: DJason and Sojourna. Techno and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

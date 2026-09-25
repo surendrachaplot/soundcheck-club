@@ -1,6 +1,6 @@
 # Printhouse Edition 0001 at Printhouse
 
-Printhouse Edition 0001 on Sat 17 Oct, Munich. 5 acts on the bill: Budino, Euphrat, Isabel Soto and The Lady Machine and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Printhouse Edition 0001 on Sat 17 Oct, Munich. 5 artists on the bill: Budino, Euphrat, Isabel Soto and The Lady Machine and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

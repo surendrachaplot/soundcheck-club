@@ -1,6 +1,6 @@
 # Riddim Division: Summer Send Off w/ Klose One plus more at Tola
 
-Riddim Division: Summer Send Off w/ Klose One plus more at Tola on Sat 26 Sept, London. 1 act on the bill: Klose One. House and Garage. Preview the line-up and save it on soundcheck.
+Riddim Division: Summer Send Off w/ Klose One plus more at Tola on Sat 26 Sept, London. 1 artist on the bill: Klose One. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

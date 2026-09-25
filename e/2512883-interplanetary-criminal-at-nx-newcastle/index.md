@@ -1,6 +1,6 @@
 # Interplanetary Criminal at NX Newcastle
 
-Interplanetary Criminal at NX Newcastle on Sat 21 Nov, Newcastle. 4 acts on the bill: Interplanetary Criminal, La La, Lauren Lo Sung and Milion. Garage and Electronica. Preview the line-up and save it on soundcheck.
+Interplanetary Criminal at NX Newcastle on Sat 21 Nov, Newcastle. 4 artists on the bill: Interplanetary Criminal, La La, Lauren Lo Sung and Milion. Garage and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

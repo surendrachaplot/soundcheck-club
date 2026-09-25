@@ -2,7 +2,7 @@
 
 LOQU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 88block, Tokyo on Fri, 2 Oct 2026.
 
-LOQU is a house and techno artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside T.B., Mykey (2) and SAITO. Next up: 88block, Tokyo on Fri 2 Oct.
+LOQU is a house and techno artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside T.B., Mykey and SAITO. Next up: 88block, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 

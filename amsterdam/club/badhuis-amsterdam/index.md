@@ -2,7 +2,7 @@
 
 Badhuis Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "ADE FRIDAY: Badhuis invites Boogie House, Panacea, Solis & ELSEWHERE with Tom Novy" on Fri, 23 Oct 2026.
 
-Badhuis Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Kirilski, Misha (3), NoMore and Pura Pachanga and 2 more. Browse upcoming dates, start times and who's playing. Javaplein 21.
+Badhuis Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Kirilski, Misha, NoMore and Pura Pachanga and 2 more. Browse upcoming dates, start times and who's playing. Javaplein 21.
 
 ## What's on
 

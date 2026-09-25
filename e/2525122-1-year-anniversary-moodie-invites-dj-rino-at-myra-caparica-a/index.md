@@ -1,6 +1,6 @@
 # 1 Year Anniversary - MOODIE Invites DJ Rino at Myra Caparica at Myra Ostraria
 
-1 Year Anniversary - MOODIE Invites DJ Rino at Myra Caparica at Myra Ostraria on Sat 3 Oct, Lisbon. 3 acts on the bill: Andion, DJ Rino and Simonee. Techno and House. Preview the line-up and save it on soundcheck.
+1 Year Anniversary - MOODIE Invites DJ Rino at Myra Caparica at Myra Ostraria on Sat 3 Oct, Lisbon. 3 artists on the bill: Andion, DJ Rino and Simonee. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

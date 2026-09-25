@@ -1,6 +1,6 @@
 # Funkytown SF at Cat Club
 
-Funkytown SF at Cat Club on Sat 26 Sept, Sanfrancisco. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Funkytown SF at Cat Club on Sat 26 Sept, San Francisco/Oakland. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # High Hoops w/ Jennifer Loveless, Ivy F, Myka, d. clemente & Fastlove at The White Hotel
 
-High Hoops w/ Jennifer Loveless, Ivy F, Myka, d. clemente & Fastlove at The White Hotel on Fri 16 Oct, Manchester. 4 acts on the bill: d. clemente, Fastlove, Ivy F and Jennifer Loveless. House. Preview the line-up and save it on soundcheck.
+High Hoops w/ Jennifer Loveless, Ivy F, Myka, d. clemente & Fastlove at The White Hotel on Fri 16 Oct, Manchester. 4 artists on the bill: d. clemente, Fastlove, Ivy F and Jennifer Loveless. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

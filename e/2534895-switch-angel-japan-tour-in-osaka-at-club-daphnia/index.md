@@ -1,6 +1,6 @@
 # Switch Angel Japan tour in Osaka at Club Daphnia
 
-Switch Angel Japan tour in Osaka at Club Daphnia on Sun 27 Sept, Osaka. 2 acts on the bill: Switch Angel and Wolf Cutt. Trance and Hardcore. Preview the line-up and save it on soundcheck.
+Switch Angel Japan tour in Osaka at Club Daphnia on Sun 27 Sept, Osaka. 2 artists on the bill: Switch Angel and Wolf Cutt. Trance and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

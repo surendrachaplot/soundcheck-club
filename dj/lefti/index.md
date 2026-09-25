@@ -2,7 +2,7 @@
 
 LEFTI is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at SILO, New York City on Thu, 8 Oct 2026.
 
-LEFTI is a house and tech house artist based in United States of America, tracked on soundcheck, with 51 sets logged across Brighton, Denver, Losangeles and Miami and 3 more. Often billed alongside Anthony Romano, James Patterson and Jay Vic. Next up: SILO, Newyorkcity on Thu 8 Oct.
+LEFTI is a house and tech house artist based in United States of America, tracked on soundcheck, with 51 sets logged across Brighton, Denver, Los Angeles and Miami and 3 more. Often billed alongside Anthony Romano, James Patterson and Jay Vic. Next up: SILO, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 

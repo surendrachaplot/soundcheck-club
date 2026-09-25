@@ -1,6 +1,6 @@
 # Mariano Mellino - Over Club, PALMA DE MALLORCA at TBA - Over Club, PALMA DE MALLORCA.
 
-Mariano Mellino - Over Club, PALMA DE MALLORCA at TBA - Over Club, PALMA DE MALLORCA. on Sat 17 Oct, Mallorca. 1 act on the bill: Mariano Mellino. Preview the line-up and save it on soundcheck.
+Mariano Mellino - Over Club, PALMA DE MALLORCA at TBA - Over Club, PALMA DE MALLORCA. on Sat 17 Oct, Mallorca. 1 artist on the bill: Mariano Mellino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

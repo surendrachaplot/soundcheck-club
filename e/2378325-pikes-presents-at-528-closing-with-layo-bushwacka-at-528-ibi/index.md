@@ -1,6 +1,6 @@
 # PIKES PRESENTS AT 528 CLOSING WITH LAYO & BUSHWACKA at 528 Ibiza
 
-PIKES PRESENTS AT 528 CLOSING WITH LAYO & BUSHWACKA at 528 Ibiza on Tue 6 Oct, Ibiza. 3 acts on the bill: Daniel Avery, Jennifer Loveless and Layo & Bushwacka!. House. Preview the line-up and save it on soundcheck.
+PIKES PRESENTS AT 528 CLOSING WITH LAYO & BUSHWACKA at 528 Ibiza on Tue 6 Oct, Ibiza. 3 artists on the bill: Daniel Avery, Jennifer Loveless and Layo & Bushwacka!. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

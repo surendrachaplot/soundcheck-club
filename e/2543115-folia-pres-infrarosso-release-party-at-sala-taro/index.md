@@ -1,6 +1,6 @@
 # FOLIA PRES. INFRAROSSO RELEASE PARTY at Sala Taro
 
-FOLIA PRES. INFRAROSSO RELEASE PARTY at Sala Taro on Sat 3 Oct, Barcelona. 1 act on the bill: Arielo. House and EBM. Preview the line-up and save it on soundcheck.
+FOLIA PRES. INFRAROSSO RELEASE PARTY at Sala Taro on Sat 3 Oct, Barcelona. 1 artist on the bill: Arielo. House and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

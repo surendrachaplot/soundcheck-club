@@ -1,6 +1,6 @@
 # extended - Jane Fitz, Taieb Chékir at essaim
 
-extended - Jane Fitz, Taieb Chékir at essaim on Sun 27 Sept, Paris. 2 acts on the bill: Jane Fitz and Taieb Chékir. Techno. Preview the line-up and save it on soundcheck.
+extended - Jane Fitz, Taieb Chékir at essaim on Sun 27 Sept, Paris. 2 artists on the bill: Jane Fitz and Taieb Chékir. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

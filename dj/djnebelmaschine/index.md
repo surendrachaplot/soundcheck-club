@@ -2,7 +2,7 @@
 
 DJ Nebelmaschine is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 23 Oct 2026.
 
-DJ Nebelmaschine is a techno and tech house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, London, Munich and Nurnberg. Often billed alongside Anna Lazer, Liebe Nachbarn and Bernd Bugatti. Next up: Bahnwärter Thiel, Munich on Fri 23 Oct.
+DJ Nebelmaschine is a techno and tech house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, London, Munich and Nürnberg. Often billed alongside Anna Lazer, Liebe Nachbarn and Bernd Bugatti. Next up: Bahnwärter Thiel, Munich on Fri 23 Oct.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Hu Dat is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at El Cid, Los Angeles on Thu, 24 Sept 2026.
 
-Hu Dat is a club and hip-hop artist based in United States of America, tracked on soundcheck, with 16 sets logged across Losangeles, Newyorkcity and Seoul. Often billed alongside Cquestt, AMERICANRECYCLING and Alice Longyu Gao. Next up: El Cid, Losangeles on Thu 24 Sept.
+Hu Dat is a club and hip-hop artist based in United States of America, tracked on soundcheck, with 16 sets logged across Los Angeles, New York City and Seoul. Often billed alongside Cquestt, AMERICANRECYCLING and Alice Longyu Gao. Next up: El Cid, Los Angeles on Thu 24 Sept.
 
 ## Upcoming shows
 

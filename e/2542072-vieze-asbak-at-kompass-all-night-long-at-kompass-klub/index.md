@@ -1,6 +1,6 @@
 # Vieze Asbak at Kompass (ALL NIGHT LONG) at Kompass Klub
 
-Vieze Asbak at Kompass (ALL NIGHT LONG) at Kompass Klub on Fri 16 Oct, Ghent. 3 acts on the bill: Jane Muss, Low E (2) and Vieze Asbak. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Vieze Asbak at Kompass (ALL NIGHT LONG) at Kompass Klub on Fri 16 Oct, Ghent. 3 artists on the bill: Jane Muss, Low E and Vieze Asbak. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

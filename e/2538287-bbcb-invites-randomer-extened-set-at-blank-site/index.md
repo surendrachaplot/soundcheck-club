@@ -1,6 +1,6 @@
 # BBCB INVITES - Randomer (EXTENED SET) at Blank Site
 
-BBCB INVITES - Randomer (EXTENED SET) at Blank Site on Fri 25 Sept, Seoul. 3 acts on the bill: Haney Lee, Kim.Qna and Randomer. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+BBCB INVITES - Randomer (EXTENED SET) at Blank Site on Fri 25 Sept, Seoul. 3 artists on the bill: Haney Lee, Kim.Qna and Randomer. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

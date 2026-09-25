@@ -1,6 +1,6 @@
 # Mize Hetner x Gåpe Wert at Loop
 
-Mize Hetner x Gåpe Wert at Loop on Fri 25 Sept, Vienna. 1 act on the bill: Mize Hetner. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Mize Hetner x Gåpe Wert at Loop on Fri 25 Sept, Vienna. 1 artist on the bill: Mize Hetner. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

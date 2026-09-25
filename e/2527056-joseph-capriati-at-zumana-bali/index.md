@@ -1,6 +1,6 @@
 # Joseph Capriati at Zumana Bali
 
-Joseph Capriati at Zumana Bali on Fri 27 Nov, Bali. 1 act on the bill: Joseph Capriati. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Joseph Capriati at Zumana Bali on Fri 27 Nov, Bali. 1 artist on the bill: Joseph Capriati. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

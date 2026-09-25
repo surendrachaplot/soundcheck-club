@@ -1,6 +1,6 @@
 # Mahmut Orhan Closing at Chinois Ibiza
 
-Mahmut Orhan Closing at Chinois Ibiza on Wed 7 Oct, Ibiza. 2 acts on the bill: Avangart Tabldot and Mahmut Orhan. House and Afro House. Preview the line-up and save it on soundcheck.
+Mahmut Orhan Closing at Chinois Ibiza on Wed 7 Oct, Ibiza. 2 artists on the bill: Avangart Tabldot and Mahmut Orhan. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

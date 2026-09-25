@@ -1,6 +1,6 @@
 # Night & Day: Shed (LIVE), 1morning, LYDO, Concrete Husband + TBA at Signal
 
-Night & Day: Shed (LIVE), 1morning, LYDO, Concrete Husband + TBA at Signal on Fri 16 Oct, Newyorkcity. 4 acts on the bill: 1morning, Concrete Husband, LYDO and Shed. Preview the line-up and save it on soundcheck.
+Night & Day: Shed (LIVE), 1morning, LYDO, Concrete Husband + TBA at Signal on Fri 16 Oct, New York City. 4 artists on the bill: 1morning, Concrete Husband, LYDO and Shed. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

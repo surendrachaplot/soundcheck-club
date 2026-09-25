@@ -1,6 +1,6 @@
 # Atemporal listening session - FloFilz 10 years of Cenário - one night in Lisbon at Atemporal
 
-Atemporal listening session - FloFilz 10 years of Cenário - one night in Lisbon on Sat 3 Oct, Berlin. 1 act on the bill: FloFilz. Preview the line-up and save it on soundcheck.
+Atemporal listening session - FloFilz 10 years of Cenário - one night in Lisbon on Sat 3 Oct, Berlin. 1 artist on the bill: FloFilz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

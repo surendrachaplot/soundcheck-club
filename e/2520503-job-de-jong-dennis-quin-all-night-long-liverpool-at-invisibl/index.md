@@ -1,6 +1,6 @@
 # Job de Jong & Dennis Quin - All Night Long - Liverpool at Invisible Wind Factory
 
-Job de Jong & Dennis Quin - All Night Long - Liverpool at Invisible Wind Factory on Fri 6 Nov, Liverpool. 2 acts on the bill: Dennis Quin and Job de Jong. House. Preview the line-up and save it on soundcheck.
+Job de Jong & Dennis Quin - All Night Long - Liverpool at Invisible Wind Factory on Fri 6 Nov, Liverpool. 2 artists on the bill: Dennis Quin and Job de Jong. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

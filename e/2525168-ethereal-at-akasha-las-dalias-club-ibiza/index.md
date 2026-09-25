@@ -1,6 +1,6 @@
 # Ethereal at Akasha Las Dalias Club - Ibiza
 
-Ethereal at Akasha Las Dalias Club - Ibiza on Tue 29 Sept, Ibiza. 3 acts on the bill: Clint Lee, Pako S and Words of Niō. Preview the line-up and save it on soundcheck.
+Ethereal at Akasha Las Dalias Club - Ibiza on Tue 29 Sept, Ibiza. 3 artists on the bill: Clint Lee, Pako S and Words of Niō. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

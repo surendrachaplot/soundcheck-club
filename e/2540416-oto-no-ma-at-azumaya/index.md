@@ -1,6 +1,6 @@
 # 音乃間 / Oto no Ma at Azumaya
 
-音乃間 / Oto no Ma at Azumaya on Fri 2 Oct, Tokyo. 3 acts on the bill: DiscCampForest, discopants and Sekitova. House. Preview the line-up and save it on soundcheck.
+音乃間 / Oto no Ma at Azumaya on Fri 2 Oct, Tokyo. 3 artists on the bill: DiscCampForest, discopants and Sekitova. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # GHOST SHIP - The ultimate Halloween boat party on Hallows Eve plus after-party at Crown Pier
 
-GHOST SHIP - The ultimate Halloween boat party on Hallows Eve plus after-party at Crown Pier on Fri 30 Oct, London. 3 acts on the bill: Eddie Van Poppel, NYCity Soundz and VanRock. House and Disco. Preview the line-up and save it on soundcheck.
+GHOST SHIP - The ultimate Halloween boat party on Hallows Eve plus after-party at Crown Pier on Fri 30 Oct, London. 3 artists on the bill: Eddie Van Poppel, NYCity Soundz and VanRock. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

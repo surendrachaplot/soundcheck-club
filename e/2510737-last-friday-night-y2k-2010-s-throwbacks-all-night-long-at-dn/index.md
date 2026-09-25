@@ -1,6 +1,6 @@
 # LAST FRIDAY NIGHT (Y2K-2010's Throwbacks All Night Long!) at DNA Lounge
 
-LAST FRIDAY NIGHT (Y2K-2010's Throwbacks All Night Long!) at DNA Lounge on Fri 9 Oct, Sanfrancisco. Preview the line-up and save it on soundcheck.
+LAST FRIDAY NIGHT (Y2K-2010's Throwbacks All Night Long!) at DNA Lounge on Fri 9 Oct, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

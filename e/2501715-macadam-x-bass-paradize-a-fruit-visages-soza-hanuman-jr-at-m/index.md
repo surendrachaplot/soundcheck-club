@@ -1,6 +1,6 @@
 # Macadam x Bass Paradize • A.Fruit ~ Visages ~ Soza ~ Hanuman Jr at Macadam
 
-Macadam x Bass Paradize • A.Fruit ~ Visages ~ Soza ~ Hanuman Jr on Fri 25 Sept, Nantes. 3 acts on the bill: A.Fruit, Hanuman Jr. and Visages. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Macadam x Bass Paradize • A.Fruit ~ Visages ~ Soza ~ Hanuman Jr on Fri 25 Sept, Nantes. 3 artists on the bill: A.Fruit, Hanuman Jr. and Visages. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

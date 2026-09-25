@@ -1,6 +1,6 @@
 # HYBRIDITY at Mood Ring
 
-HYBRIDITY at Mood Ring on Fri 16 Oct, Newyorkcity. 3 acts on the bill: Ah Dek, Helix and Pacha DJ. Preview the line-up and save it on soundcheck.
+HYBRIDITY at Mood Ring on Fri 16 Oct, New York City. 3 artists on the bill: Ah Dek, Helix and Pacha DJ. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

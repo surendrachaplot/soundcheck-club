@@ -1,6 +1,6 @@
 # Groove27 presents: Día de los Muertos at Tola
 
-Groove27 presents: Día de los Muertos at Tola on Fri 30 Oct, London. 2 acts on the bill: Daisybelle and Ghosts Of Dance. House and Tech House. Preview the line-up and save it on soundcheck.
+Groove27 presents: Día de los Muertos at Tola on Fri 30 Oct, London. 2 artists on the bill: Daisybelle and Ghosts Of Dance. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

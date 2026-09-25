@@ -1,6 +1,6 @@
 # Public House Hifi presents Red Rack'em (Bergerac) at Gingerino's Pizza
 
-Public House Hifi presents Red Rack'em (Bergerac) at Gingerino's Pizza on Sat 3 Oct, Newcastle. 1 act on the bill: Red Rack'em. Deep House and Disco. Preview the line-up and save it on soundcheck.
+Public House Hifi presents Red Rack'em (Bergerac) at Gingerino's Pizza on Sat 3 Oct, Newcastle. 1 artist on the bill: Red Rack'em. Deep House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

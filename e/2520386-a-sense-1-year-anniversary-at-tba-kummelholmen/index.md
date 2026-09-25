@@ -1,6 +1,6 @@
 # a.sense 1 YEAR ANNIVERSARY at TBA -  Kummelholmen
 
-a.sense 1 YEAR ANNIVERSARY at TBA -  Kummelholmen on Sat 10 Oct, Stockholm. 3 acts on the bill: Anthony Linell, Picasso and Valrik. Techno and Experimental. Preview the line-up and save it on soundcheck.
+a.sense 1 YEAR ANNIVERSARY at TBA -  Kummelholmen on Sat 10 Oct, Stockholm. 3 artists on the bill: Anthony Linell, Picasso and Valrik. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

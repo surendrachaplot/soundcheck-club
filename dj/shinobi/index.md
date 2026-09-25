@@ -2,7 +2,7 @@
 
 Shinobi is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Shinobi is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 26 sets logged across Brighton, Melbourne, Miami and Newyorkcity and 3 more. Often billed alongside Berrakka, Marie Qrie and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Shinobi is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 26 sets logged across Brighton, Melbourne, Miami and New York City and 3 more. Often billed alongside Berrakka, Marie Qrie and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 

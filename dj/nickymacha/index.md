@@ -2,7 +2,7 @@
 
 Nicky Macha is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Arts District LA, Los Angeles on Fri, 2 Oct 2026.
 
-Nicky Macha is an electro and house artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Boston and Brussels and 11 more. Often billed alongside Kensa, Gabbs and Philo (IT). Next up: TBA - Arts District LA, Losangeles on Fri 2 Oct.
+Nicky Macha is an electro and house artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Boston and Brussels and 11 more. Often billed alongside Kensa, Gabbs and Philo (IT). Next up: TBA - Arts District LA, Los Angeles on Fri 2 Oct.
 
 ## Upcoming shows
 

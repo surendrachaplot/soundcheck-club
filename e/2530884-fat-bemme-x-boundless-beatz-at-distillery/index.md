@@ -1,6 +1,6 @@
 # FAT BEMME X Boundless Beatz at Distillery
 
-FAT BEMME X Boundless Beatz at Distillery on Fri 2 Oct, Leipzig. 4 acts on the bill: audite, Dubbalot, SMG (UK) and Wintermute. Drum & Bass. Preview the line-up and save it on soundcheck.
+FAT BEMME X Boundless Beatz at Distillery on Fri 2 Oct, Leipzig. 4 artists on the bill: audite, Dubbalot, SMG (UK) and Wintermute. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

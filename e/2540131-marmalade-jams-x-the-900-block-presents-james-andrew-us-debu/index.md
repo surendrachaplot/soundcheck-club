@@ -1,6 +1,6 @@
 # Marmalade Jams X The 900 Block presents James Andrew (US Debut) at TBA - DTLA
 
-Marmalade Jams X The 900 Block presents James Andrew (US Debut) at TBA - DTLA on Sat 7 Nov, Losangeles. 6 acts on the bill: Daizz, Dylan Payne, James Andrew and Michael Fam and 2 more. House. Preview the line-up and save it on soundcheck.
+Marmalade Jams X The 900 Block presents James Andrew (US Debut) at TBA - DTLA on Sat 7 Nov, Los Angeles. 6 artists on the bill: Daizz, Dylan Payne, James Andrew and Michael Fam and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # After Life: HOWL at DNA Lounge
 
-After Life: HOWL at DNA Lounge on Sat 3 Oct, Sanfrancisco. Techno and Industrial. Preview the line-up and save it on soundcheck.
+After Life: HOWL at DNA Lounge on Sat 3 Oct, San Francisco/Oakland. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

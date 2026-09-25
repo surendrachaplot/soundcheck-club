@@ -1,6 +1,6 @@
 # Flowers of Romance feat. Andi b2b Justin Aulis Long - Club Drippy (Live) - Nolia at smartbar
 
-Flowers of Romance feat. Andi b2b Justin Aulis Long - Club Drippy (Live) - Nolia at smartbar on Fri 25 Sept, Chicago. 2 acts on the bill: Andi and Justin Aulis Long. Techno and Acid. Preview the line-up and save it on soundcheck.
+Flowers of Romance feat. Andi b2b Justin Aulis Long - Club Drippy (Live) - Nolia at smartbar on Fri 25 Sept, Chicago. 2 artists on the bill: Andi and Justin Aulis Long. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ticcle presents Marcellus Pittman (Detroit) (all night long) at Ticcle
 
-ticcle presents Marcellus Pittman (Detroit) (all night long) at Ticcle on Fri 11 Dec, Hobart. 1 act on the bill: Marcellus Pittman. Preview the line-up and save it on soundcheck.
+ticcle presents Marcellus Pittman (Detroit) (all night long) at Ticcle on Fri 11 Dec, Hobart. 1 artist on the bill: Marcellus Pittman. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Feestgedruis Revival at Buda BXL
 
-Feestgedruis Revival at Buda BXL on Sat 26 Sept, Brussels. 7 acts on the bill: AMARE, Dee James, Frankey & Sandrino and Lathouwers and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Feestgedruis Revival at Buda BXL on Sat 26 Sept, Brussels. 7 artists on the bill: AMARE, Dee James, Frankey & Sandrino and Lathouwers and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

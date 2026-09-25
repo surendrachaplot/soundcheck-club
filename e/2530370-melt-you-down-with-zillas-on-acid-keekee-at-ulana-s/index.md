@@ -1,6 +1,6 @@
 # Melt You Down with Zillas on Acid & keekee at Ulana's
 
-Melt You Down with Zillas on Acid & keekee at Ulana's on Fri 9 Oct, Philadelphia. 2 acts on the bill: keekee and Zillas on Acid. House and Acid. Preview the line-up and save it on soundcheck.
+Melt You Down with Zillas on Acid & keekee at Ulana's on Fri 9 Oct, Philadelphia. 2 artists on the bill: keekee and Zillas on Acid. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Âme DJ '5 hours set', Patrice Bäumel all night long at E1
 
-Âme DJ '5 hours set', Patrice Bäumel all night long at E1 on Sat 12 Dec, London. 6 acts on the bill: ABEL (UK), Âme, Motip White and Patrice Bäumel and 2 more. Preview the line-up and save it on soundcheck.
+Âme DJ '5 hours set', Patrice Bäumel all night long at E1 on Sat 12 Dec, London. 6 artists on the bill: ABEL (UK), Âme, Motip White and Patrice Bäumel and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

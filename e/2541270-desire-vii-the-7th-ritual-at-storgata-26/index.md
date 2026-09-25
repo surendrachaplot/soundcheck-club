@@ -1,6 +1,6 @@
 # DESIRE// VII The 7th RITUAL at Storgata 26
 
-DESIRE// VII The 7th RITUAL at Storgata 26 on Sat 14 Nov, Oslo. 1 act on the bill: Herbrido. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+DESIRE// VII The 7th RITUAL at Storgata 26 on Sat 14 Nov, Oslo. 1 artist on the bill: Herbrido. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

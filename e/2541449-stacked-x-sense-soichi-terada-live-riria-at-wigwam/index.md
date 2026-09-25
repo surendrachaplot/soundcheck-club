@@ -1,6 +1,6 @@
 # Stacked x Sense: Soichi Terada (Live) & RIRIA at Wigwam
 
-Stacked x Sense: Soichi Terada (Live) & RIRIA at Wigwam on Fri 6 Nov, Dublin. 5 acts on the bill: Emmy Shigeta, Jenn Hession, RIRIA and Soichi Terada and 1 more. House and Bass. Preview the line-up and save it on soundcheck.
+Stacked x Sense: Soichi Terada (Live) & RIRIA at Wigwam on Fri 6 Nov, Dublin. 5 artists on the bill: Emmy Shigeta, Jenn Hession, RIRIA and Soichi Terada and 1 more. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

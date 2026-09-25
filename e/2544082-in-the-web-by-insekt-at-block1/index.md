@@ -1,6 +1,6 @@
 # IN THE WEB by insekt at Block1
 
-IN THE WEB by insekt at Block1 on Sat 31 Oct, Berlin. 2 acts on the bill: Gunilla and Make It Big. House and Electro. Preview the line-up and save it on soundcheck.
+IN THE WEB by insekt at Block1 on Sat 31 Oct, Berlin. 2 artists on the bill: Gunilla and Make It Big. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

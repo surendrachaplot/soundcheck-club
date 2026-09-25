@@ -2,7 +2,7 @@
 
 TBA - SpinnaVerse BK is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Club SHELTER PopUp Party (III) with DJ Spinna + merlin bobb + Franke Estevez" on Fri, 25 Sept 2026.
 
-TBA - SpinnaVerse BK is a music venue in Newyorkcity listed on soundcheck. 2 upcoming gigs, with line-ups including Bendito, DJ Spinna, Franke Estevez and Jeremy Giros and 1 more. Browse upcoming dates, start times and who's playing.
+TBA - SpinnaVerse BK is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Bendito, DJ Spinna, Franke Estevez and Jeremy Giros and 1 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

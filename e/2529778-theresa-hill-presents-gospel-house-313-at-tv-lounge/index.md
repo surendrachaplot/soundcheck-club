@@ -1,6 +1,6 @@
 # Theresa Hill presents Gospel House 313 at TV Lounge
 
-Theresa Hill presents Gospel House 313 at TV Lounge on Sun 27 Sept, Detroit. 1 act on the bill: Terrence Parker. House. Preview the line-up and save it on soundcheck.
+Theresa Hill presents Gospel House 313 at TV Lounge on Sun 27 Sept, Detroit. 1 artist on the bill: Terrence Parker. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

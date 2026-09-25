@@ -1,6 +1,6 @@
 # ENCORE x 23:59 - LINE-UP XXL at Halle Tony Garnier
 
-ENCORE x 23:59 - LINE-UP XXL at Halle Tony Garnier on Sat 24 Oct, Lyon. 6 acts on the bill: ECZODIA, Lola Cerise, Marie Vaunt and Riana Holley and 2 more. Techno. Preview the line-up and save it on soundcheck.
+ENCORE x 23:59 - LINE-UP XXL at Halle Tony Garnier on Sat 24 Oct, Lyon. 6 artists on the bill: ECZODIA, Lola Cerise, Marie Vaunt and Riana Holley and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

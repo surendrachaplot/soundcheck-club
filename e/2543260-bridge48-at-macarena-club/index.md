@@ -1,6 +1,6 @@
 # Bridge48 at Macarena Club
 
-Bridge48 at Macarena Club on Tue 27 Oct, Barcelona. 1 act on the bill: MEMBRILLA. Preview the line-up and save it on soundcheck.
+Bridge48 at Macarena Club on Tue 27 Oct, Barcelona. 1 artist on the bill: MEMBRILLA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

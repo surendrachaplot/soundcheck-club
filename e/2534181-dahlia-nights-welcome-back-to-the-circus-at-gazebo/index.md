@@ -1,6 +1,6 @@
 # DAHLIA NIGHTS: WELCOME BACK TO THE CIRCUS at Gazebo
 
-DAHLIA NIGHTS: WELCOME BACK TO THE CIRCUS at Gazebo on Sat 10 Oct, Stockholm. 3 acts on the bill: Ahiram, Anna Almani and Lex Ludlow. Tech House and Electronica. Preview the line-up and save it on soundcheck.
+DAHLIA NIGHTS: WELCOME BACK TO THE CIRCUS at Gazebo on Sat 10 Oct, Stockholm. 3 artists on the bill: Ahiram, Anna Almani and Lex Ludlow. Tech House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

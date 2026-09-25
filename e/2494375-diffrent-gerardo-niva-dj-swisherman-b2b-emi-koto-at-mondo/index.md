@@ -1,6 +1,6 @@
 # Diffrent / Gerardo Niva / DJ SWISHERMAN B2B Emi Koto at Mondo
 
-Diffrent / Gerardo Niva / DJ SWISHERMAN B2B Emi Koto at Mondo on Sat 10 Oct, Madrid. 4 acts on the bill: Diffrent, DJ SWISHERMAN, Emi Koto and Gerardo Niva. Preview the line-up and save it on soundcheck.
+Diffrent / Gerardo Niva / DJ SWISHERMAN B2B Emi Koto at Mondo on Sat 10 Oct, Madrid. 4 artists on the bill: Diffrent, DJ SWISHERMAN, Emi Koto and Gerardo Niva. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

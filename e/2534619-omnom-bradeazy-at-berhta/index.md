@@ -1,6 +1,6 @@
 # OMNOM, bradeazy at BERHTA
 
-OMNOM, bradeazy at BERHTA on Fri 11 Dec, Washingtondc. 1 act on the bill: bradeazy. Tech House. Preview the line-up and save it on soundcheck.
+OMNOM, bradeazy at BERHTA on Fri 11 Dec, Washington DC. 1 artist on the bill: bradeazy. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

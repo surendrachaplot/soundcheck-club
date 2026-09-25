@@ -2,7 +2,7 @@
 
 TBA - Warehouse DTLA is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Slaughterhäus: The La Cut - Los Angeles" on Fri, 30 Oct 2026.
 
-TBA - Warehouse DTLA is a music venue in Losangeles listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+TBA - Warehouse DTLA is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

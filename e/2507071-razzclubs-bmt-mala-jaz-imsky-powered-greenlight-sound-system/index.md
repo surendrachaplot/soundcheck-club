@@ -1,6 +1,6 @@
 # RAZZCLUBS: BMT: Mala + JAZ IMSKY Powered Greenlight Sound System + Nørbak + Sandrien at Razzmatazz
 
-RAZZCLUBS: BMT: Mala + JAZ IMSKY Powered Greenlight Sound System + Nørbak + Sandrien at Razzmatazz on Sat 26 Sept, Barcelona. 14 acts on the bill: Bassywax, Connie, DJ2D2 and Feral and 10 more. Preview the line-up and save it on soundcheck.
+RAZZCLUBS: BMT: Mala + JAZ IMSKY Powered Greenlight Sound System + Nørbak + Sandrien at Razzmatazz on Sat 26 Sept, Barcelona. 14 artists on the bill: Bassywax, Connie, DJ2D2 and Feral and 10 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BRINGING HOUSE TO CHURCH at St Thomas of Canterbury Episcopal Church
 
-BRINGING HOUSE TO CHURCH at St Thomas of Canterbury Episcopal Church on Sat 17 Oct, Losangeles. 1 act on the bill: Big Cee. House and Experimental. Preview the line-up and save it on soundcheck.
+BRINGING HOUSE TO CHURCH at St Thomas of Canterbury Episcopal Church on Sat 17 Oct, Los Angeles. 1 artist on the bill: Big Cee. House and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

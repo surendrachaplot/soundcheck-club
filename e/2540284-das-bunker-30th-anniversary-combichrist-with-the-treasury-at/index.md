@@ -1,6 +1,6 @@
 # Das Bunker 30th Anniversary: Combichrist with The Treasury at Catch One
 
-Das Bunker 30th Anniversary: Combichrist with The Treasury at Catch One on Fri 2 Oct, Losangeles. EBM and Industrial. Preview the line-up and save it on soundcheck.
+Das Bunker 30th Anniversary: Combichrist with The Treasury at Catch One on Fri 2 Oct, Los Angeles. EBM and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

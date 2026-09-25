@@ -1,6 +1,6 @@
 # Symposium Records at Jupiter Disco
 
-Symposium Records at Jupiter Disco on Thu 29 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+Symposium Records at Jupiter Disco on Thu 29 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

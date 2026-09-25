@@ -1,6 +1,6 @@
 # Antidoto: Tba + Joao Lagrima de Ouro at Club Magno
 
-Antidoto: Tba + Joao Lagrima de Ouro at Club Magno on Thu 5 Nov, Madrid. 1 act on the bill: João Lágrima De Ouro. Guaracha and Electronica. Preview the line-up and save it on soundcheck.
+Antidoto: Tba + Joao Lagrima de Ouro at Club Magno on Thu 5 Nov, Madrid. 1 artist on the bill: João Lágrima De Ouro. Guaracha and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

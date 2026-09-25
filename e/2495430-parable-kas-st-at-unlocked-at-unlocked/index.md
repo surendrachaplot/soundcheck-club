@@ -1,6 +1,6 @@
 # Parable: KAS:ST at UNLOCKED at UNLOCKED
 
-Parable: KAS:ST at UNLOCKED on Fri 2 Oct, London. 2 acts on the bill: KAS:ST and Stefan Rose. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Parable: KAS:ST at UNLOCKED on Fri 2 Oct, London. 2 artists on the bill: KAS:ST and Stefan Rose. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

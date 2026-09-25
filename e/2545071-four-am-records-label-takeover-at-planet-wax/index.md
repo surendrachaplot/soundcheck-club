@@ -1,6 +1,6 @@
 # FOUR AM RECORDS: Label Takeover at Planet Wax
 
-FOUR AM RECORDS: Label Takeover at Planet Wax on Thu 22 Oct, London. 3 acts on the bill: ESC (5), Julodose and POLO JAFFA. Techno and Garage. Preview the line-up and save it on soundcheck.
+FOUR AM RECORDS: Label Takeover at Planet Wax on Thu 22 Oct, London. 3 artists on the bill: ESC, Julodose and POLO JAFFA. Techno and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

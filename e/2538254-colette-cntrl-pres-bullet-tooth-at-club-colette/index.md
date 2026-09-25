@@ -1,6 +1,6 @@
 # Colette + CNTRL Pres. bullet tooth at Club Colette
 
-Colette + CNTRL Pres. bullet tooth at Club Colette on Sat 14 Nov, Birmingham. 2 acts on the bill: bullet tooth and Faraz (UK). House and Garage. Preview the line-up and save it on soundcheck.
+Colette + CNTRL Pres. bullet tooth at Club Colette on Sat 14 Nov, Birmingham. 2 artists on the bill: bullet tooth and Faraz (UK). House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

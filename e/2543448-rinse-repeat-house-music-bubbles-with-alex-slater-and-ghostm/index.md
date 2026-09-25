@@ -1,6 +1,6 @@
 # Rinse & Repeat: House Music & Bubbles with Alex Slater and GhostManta (Ghostmuse B2B Ryan Manta at Zuzu
 
-Rinse & Repeat: House Music & Bubbles with Alex Slater and GhostManta (Ghostmuse B2B Ryan Manta at Zuzu on Fri 25 Sept, Boston. 2 acts on the bill: Alex Slater and Ryan Manta. House. Preview the line-up and save it on soundcheck.
+Rinse & Repeat: House Music & Bubbles with Alex Slater and GhostManta (Ghostmuse B2B Ryan Manta at Zuzu on Fri 25 Sept, Boston. 2 artists on the bill: Alex Slater and Ryan Manta. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

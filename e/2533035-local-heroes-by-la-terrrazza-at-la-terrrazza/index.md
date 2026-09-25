@@ -1,6 +1,6 @@
 # Local Heroes by La Terrrazza at La Terrrazza
 
-Local Heroes by La Terrrazza on Sat 3 Oct, Barcelona. 7 acts on the bill: Alvaro Medina, Baldman, Brieela and Certain People and 3 more. House and Electro. Preview the line-up and save it on soundcheck.
+Local Heroes by La Terrrazza on Sat 3 Oct, Barcelona. 7 artists on the bill: Alvaro Medina, Baldman, Brieela and Certain People and 3 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

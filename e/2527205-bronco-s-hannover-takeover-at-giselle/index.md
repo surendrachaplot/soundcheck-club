@@ -1,6 +1,6 @@
 # Bronco´s (Hannover) Takeover at Giselle
 
-Bronco´s (Hannover) Takeover at Giselle on Sat 26 Sept, Dusseldorf. 1 act on the bill: Chris Gerber. House. Preview the line-up and save it on soundcheck.
+Bronco´s (Hannover) Takeover at Giselle on Sat 26 Sept, Düsseldorf. 1 artist on the bill: Chris Gerber. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

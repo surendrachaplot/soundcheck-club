@@ -1,6 +1,6 @@
 # Recon 23 Year Anniversary at The Black Box
 
-Recon 23 Year Anniversary at The Black Box on Sat 10 Oct, Denver. 4 acts on the bill: Etch, Poisonfrog, Quartz (2) and Sinistarr. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Recon 23 Year Anniversary at The Black Box on Sat 10 Oct, Denver. 4 artists on the bill: Etch, Poisonfrog, Quartz and Sinistarr. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

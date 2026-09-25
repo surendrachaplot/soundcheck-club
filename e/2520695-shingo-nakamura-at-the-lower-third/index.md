@@ -1,6 +1,6 @@
 # Shingo Nakamura at The Lower Third
 
-Shingo Nakamura at The Lower Third on Sat 14 Nov, London. 1 act on the bill: Shingo Nakamura. Progressive House and House. Preview the line-up and save it on soundcheck.
+Shingo Nakamura at The Lower Third on Sat 14 Nov, London. 1 artist on the bill: Shingo Nakamura. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

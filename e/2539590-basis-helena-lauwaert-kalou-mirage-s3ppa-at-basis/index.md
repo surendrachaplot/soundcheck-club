@@ -1,6 +1,6 @@
 # BASIS/ Helena Lauwaert/ Kalou/ Mirage/ S3PPA at BASIS
 
-BASIS/ Helena Lauwaert/ Kalou/ Mirage/ S3PPA on Fri 27 Nov, Utrecht. 3 acts on the bill: Helena Lauwaert, Kalou and S3PPA. Trance and Deep House. Preview the line-up and save it on soundcheck.
+BASIS/ Helena Lauwaert/ Kalou/ Mirage/ S3PPA on Fri 27 Nov, Utrecht. 3 artists on the bill: Helena Lauwaert, Kalou and S3PPA. Trance and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

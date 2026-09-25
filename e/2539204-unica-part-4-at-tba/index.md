@@ -1,6 +1,6 @@
 # Unica - Part 4 at TBA
 
-Unica - Part 4 at TBA on Sat 28 Nov, London. 1 act on the bill: Meeshy. House. Preview the line-up and save it on soundcheck.
+Unica - Part 4 at TBA on Sat 28 Nov, London. 1 artist on the bill: Meeshy. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

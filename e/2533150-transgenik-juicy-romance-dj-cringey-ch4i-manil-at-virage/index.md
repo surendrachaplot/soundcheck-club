@@ -1,6 +1,6 @@
 # Transgenik : Juicy Romance, DJ Cringey, CH4i, Manil at Virage
 
-Transgenik : Juicy Romance, DJ Cringey, CH4i, Manil at Virage on Sat 26 Sept, Paris. 2 acts on the bill: DJ Cringey and Juicy Romance. Techno. Preview the line-up and save it on soundcheck.
+Transgenik : Juicy Romance, DJ Cringey, CH4i, Manil at Virage on Sat 26 Sept, Paris. 2 artists on the bill: DJ Cringey and Juicy Romance. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

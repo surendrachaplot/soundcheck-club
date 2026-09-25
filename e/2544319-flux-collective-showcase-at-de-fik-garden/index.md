@@ -1,6 +1,6 @@
 # Flux Collective Showcase at De Fik Garden
 
-Flux Collective Showcase at De Fik Garden on Sat 26 Sept, Amsterdam. 4 acts on the bill: AYIM, HyperLili, Naboklage and Woody92. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Flux Collective Showcase at De Fik Garden on Sat 26 Sept, Amsterdam. 4 artists on the bill: AYIM, HyperLili, Naboklage and Woody92. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

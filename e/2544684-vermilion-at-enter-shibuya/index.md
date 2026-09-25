@@ -1,6 +1,6 @@
 # Vermilion at Enter Shibuya
 
-Vermilion at Enter Shibuya on Mon 5 Oct, Tokyo. 2 acts on the bill: kengotaki and megu. House. Preview the line-up and save it on soundcheck.
+Vermilion at Enter Shibuya on Mon 5 Oct, Tokyo. 2 artists on the bill: kengotaki and megu. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

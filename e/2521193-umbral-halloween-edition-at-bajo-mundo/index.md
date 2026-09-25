@@ -1,6 +1,6 @@
 # UMBRAL (halloween edition) at Bajo Mundo
 
-UMBRAL (halloween edition) at Bajo Mundo on Sat 24 Oct, Mexicocity. Techno and Electronica. Preview the line-up and save it on soundcheck.
+UMBRAL (halloween edition) at Bajo Mundo on Sat 24 Oct, Mexico City. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

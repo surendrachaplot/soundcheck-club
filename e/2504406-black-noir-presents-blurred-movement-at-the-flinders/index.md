@@ -1,6 +1,6 @@
 # BLACK NOIR presents: BLURRED MOVEMENT at The Flinders
 
-BLACK NOIR presents: BLURRED MOVEMENT at The Flinders on Fri 2 Oct, Sydney. 3 acts on the bill: Bleach, Kvrt and Rio (JP). Techno. Preview the line-up and save it on soundcheck.
+BLACK NOIR presents: BLURRED MOVEMENT at The Flinders on Fri 2 Oct, Sydney. 3 artists on the bill: Bleach, Kvrt and Rio (JP). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

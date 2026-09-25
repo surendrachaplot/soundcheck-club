@@ -1,6 +1,6 @@
 # Turno: Brisbane at The Brightside
 
-Turno: Brisbane at The Brightside on Sat 31 Oct, Brisbane. 1 act on the bill: Turno. Drum & Bass. Preview the line-up and save it on soundcheck.
+Turno: Brisbane at The Brightside on Sat 31 Oct, Brisbane. 1 artist on the bill: Turno. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mano Le Tough pres. Maeve x ADE at BRET
 
-Mano Le Tough pres. Maeve x ADE at BRET on Fri 23 Oct, Amsterdam. 5 acts on the bill: Carlos Valdes, Cassy, Luke Alessi and Mano Le Tough and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Mano Le Tough pres. Maeve x ADE at BRET on Fri 23 Oct, Amsterdam. 5 artists on the bill: Carlos Valdes, Cassy, Luke Alessi and Mano Le Tough and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

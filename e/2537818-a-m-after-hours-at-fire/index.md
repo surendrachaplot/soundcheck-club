@@ -1,6 +1,6 @@
 # A:M After Hours at Fire
 
-A:M After Hours at Fire on Sat 26 Sept, London. 1 act on the bill: Raul Botella. House and Pop. Preview the line-up and save it on soundcheck.
+A:M After Hours at Fire on Sat 26 Sept, London. 1 artist on the bill: Raul Botella. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

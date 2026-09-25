@@ -1,6 +1,6 @@
 # SOUND METAPHORS FESTIVAL PART 1 at Berghain | Panorama Bar | Säule
 
-SOUND METAPHORS FESTIVAL PART 1 at Berghain | Panorama Bar | Säule on Thu 29 Oct, Berlin. 4 acts on the bill: Alessandro Cortini, ASIA (DE), Grand River and Jonathan Fitoussi. Preview the line-up and save it on soundcheck.
+SOUND METAPHORS FESTIVAL PART 1 at Berghain | Panorama Bar | Säule on Thu 29 Oct, Berlin. 4 artists on the bill: Alessandro Cortini, ASIA (DE), Grand River and Jonathan Fitoussi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

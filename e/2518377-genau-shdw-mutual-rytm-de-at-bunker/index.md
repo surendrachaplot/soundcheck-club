@@ -1,6 +1,6 @@
 # GENAU: SHDW (Mutual Rytm / DE) at Bunker
 
-GENAU: SHDW (Mutual Rytm / DE) at Bunker on Fri 18 Dec, Turin. 1 act on the bill: SHDW. Techno. Preview the line-up and save it on soundcheck.
+GENAU: SHDW (Mutual Rytm / DE) at Bunker on Fri 18 Dec, Turin. 1 artist on the bill: SHDW. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

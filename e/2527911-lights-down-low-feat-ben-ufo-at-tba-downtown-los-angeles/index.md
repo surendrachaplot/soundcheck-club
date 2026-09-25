@@ -1,6 +1,6 @@
 # Lights Down Low Feat. Ben UFO at TBA - Downtown Los Angeles
 
-Lights Down Low Feat. Ben UFO at TBA - Downtown Los Angeles on Fri 9 Oct, Losangeles. 2 acts on the bill: Ben UFO and Bianca Lexis. House. Preview the line-up and save it on soundcheck.
+Lights Down Low Feat. Ben UFO at TBA - Downtown Los Angeles on Fri 9 Oct, Los Angeles. 2 artists on the bill: Ben UFO and Bianca Lexis. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

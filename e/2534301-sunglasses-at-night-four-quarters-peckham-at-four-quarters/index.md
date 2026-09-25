@@ -1,6 +1,6 @@
 # SUNGLASSES AT NIGHT @ Four Quarters Peckham at Four Quarters
 
-SUNGLASSES AT NIGHT @ Four Quarters Peckham on Thu 1 Oct, London. 3 acts on the bill: Badly Drawn Banana, sbfmRADIO and Steeziskey. Garage and Grime. Preview the line-up and save it on soundcheck.
+SUNGLASSES AT NIGHT @ Four Quarters Peckham on Thu 1 Oct, London. 3 artists on the bill: Badly Drawn Banana, sbfmRADIO and Steeziskey. Garage and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

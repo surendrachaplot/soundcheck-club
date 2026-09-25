@@ -1,6 +1,6 @@
 # Liquicity Helsinki 2026 at Ääniwalli
 
-Liquicity Helsinki 2026 at Ääniwalli on Fri 13 Nov, Helsinki. 3 acts on the bill: Lexurus, Maduk and MOTA. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Liquicity Helsinki 2026 at Ääniwalli on Fri 13 Nov, Helsinki. 3 artists on the bill: Lexurus, Maduk and MOTA. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

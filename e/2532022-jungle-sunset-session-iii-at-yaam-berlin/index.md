@@ -1,6 +1,6 @@
 # Jungle Sunset Session III at YAAM Berlin
 
-Jungle Sunset Session III at YAAM Berlin on Sat 26 Sept, Berlin. 7 acts on the bill: alllone, Boogie Dan, DJ Chromz and Dj Quien and 3 more. Jungle. Preview the line-up and save it on soundcheck.
+Jungle Sunset Session III at YAAM Berlin on Sat 26 Sept, Berlin. 7 artists on the bill: alllone, Boogie Dan, DJ Chromz and Dj Quien and 3 more. Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

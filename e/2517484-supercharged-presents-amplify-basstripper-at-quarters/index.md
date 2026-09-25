@@ -1,6 +1,6 @@
 # SuperCharged presents Amplify & Basstripper at Quarters
 
-SuperCharged presents Amplify & Basstripper at Quarters on Fri 9 Oct, Brighton. 1 act on the bill: Basstripper. Bass. Preview the line-up and save it on soundcheck.
+SuperCharged presents Amplify & Basstripper at Quarters on Fri 9 Oct, Brighton. 1 artist on the bill: Basstripper. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

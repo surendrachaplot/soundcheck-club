@@ -1,6 +1,6 @@
 # Superlativo by Super Bock: niina's Love Club at Village Underground Lisboa
 
-Superlativo by Super Bock: niina's Love Club at Village Underground Lisboa on Fri 9 Oct, Lisbon. 2 acts on the bill: niina and Oskar Offermann. Preview the line-up and save it on soundcheck.
+Superlativo by Super Bock: niina's Love Club at Village Underground Lisboa on Fri 9 Oct, Lisbon. 2 artists on the bill: niina and Oskar Offermann. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

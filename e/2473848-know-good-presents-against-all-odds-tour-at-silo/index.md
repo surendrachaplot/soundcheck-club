@@ -1,6 +1,6 @@
 # Know Good presents: Against All Odds Tour at SILO
 
-Know Good presents: Against All Odds Tour at SILO on Sat 24 Oct, Newyorkcity. Dubstep. Preview the line-up and save it on soundcheck.
+Know Good presents: Against All Odds Tour at SILO on Sat 24 Oct, New York City. Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

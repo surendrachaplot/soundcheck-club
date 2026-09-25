@@ -1,6 +1,6 @@
 # THE Y2K Parrty at the Legendary Mehanata NYC - 18 at Mehanata Bar
 
-THE Y2K Parrty at the Legendary Mehanata NYC - 18 at Mehanata Bar on Sat 31 Oct, Newyorkcity. Reggaeton. Preview the line-up and save it on soundcheck.
+THE Y2K Parrty at the Legendary Mehanata NYC - 18 at Mehanata Bar on Sat 31 Oct, New York City. Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

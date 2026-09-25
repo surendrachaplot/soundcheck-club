@@ -1,6 +1,6 @@
 # DISTRIKT Fundrasier - Los Angeles at TBA
 
-DISTRIKT Fundrasier - Los Angeles at TBA on Sat 3 Oct, Losangeles. 4 acts on the bill: Brian Cid, Dance Spirit, m.O.N.R.O.E. and Maria Nocheydía. Techno and House. Preview the line-up and save it on soundcheck.
+DISTRIKT Fundrasier - Los Angeles at TBA on Sat 3 Oct, Los Angeles. 4 artists on the bill: Brian Cid, Dance Spirit, m.O.N.R.O.E. and Maria Nocheydía. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

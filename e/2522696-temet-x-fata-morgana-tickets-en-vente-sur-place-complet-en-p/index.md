@@ -1,6 +1,6 @@
 # TEMET X FATA MORGANA (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) at La Station - Gare des Mines
 
-TEMET X FATA MORGANA (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) at La Station - Gare des Mines on Sat 3 Oct, Paris. 8 acts on the bill: Amnesia Scanner, Elvira (1), k means and Less-O and 4 more. Preview the line-up and save it on soundcheck.
+TEMET X FATA MORGANA (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) at La Station - Gare des Mines on Sat 3 Oct, Paris. 8 artists on the bill: Amnesia Scanner, Elvira, k means and Less-O and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

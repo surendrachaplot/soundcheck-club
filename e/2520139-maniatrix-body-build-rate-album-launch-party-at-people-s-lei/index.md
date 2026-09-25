@@ -1,6 +1,6 @@
 # Maniatrix: 'Body Build Rate' Album Launch Party at People's Leisure Club
 
-Maniatrix: 'Body Build Rate' Album Launch Party at People's Leisure Club on Sat 3 Oct, Edinburgh. 1 act on the bill: Maniatrix. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Maniatrix: 'Body Build Rate' Album Launch Party at People's Leisure Club on Sat 3 Oct, Edinburgh. 1 artist on the bill: Maniatrix. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

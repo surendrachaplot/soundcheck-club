@@ -1,6 +1,6 @@
 # MOON PRESENTS: Andrea Oliva at Moon Warsaw
 
-MOON PRESENTS: Andrea Oliva at Moon Warsaw on Sat 24 Oct, Warsaw. 2 acts on the bill: Andrea Oliva and EWERSEEN. House and Afro House. Preview the line-up and save it on soundcheck.
+MOON PRESENTS: Andrea Oliva at Moon Warsaw on Sat 24 Oct, Warsaw. 2 artists on the bill: Andrea Oliva and EWERSEEN. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

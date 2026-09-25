@@ -2,7 +2,7 @@
 
 bounce kisses is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 20 Oct 2026.
 
-bounce kisses is a techno and downtempo artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit, Leipzig and Newyorkcity. Often billed alongside Boyfriend Dick, L4RV4 and &more. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 20 Oct.
+bounce kisses is a techno and downtempo artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit, Leipzig and New York City. Often billed alongside Boyfriend Dick, L4RV4 and &more. Next up: Bossa Nova Civic Club, New York City on Tue 20 Oct.
 
 ## Upcoming shows
 

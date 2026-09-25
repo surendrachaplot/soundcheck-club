@@ -1,6 +1,6 @@
 # PEACE BEATS BEYOND BORDERS at Provitreff
 
-PEACE BEATS BEYOND BORDERS at Provitreff on Fri 25 Sept, Zurich. 1 act on the bill: L-AUX. Preview the line-up and save it on soundcheck.
+PEACE BEATS BEYOND BORDERS at Provitreff on Fri 25 Sept, Zurich. 1 artist on the bill: L-AUX. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

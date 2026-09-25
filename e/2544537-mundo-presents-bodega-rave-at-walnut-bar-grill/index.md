@@ -1,6 +1,6 @@
 # MUNDO presents Bodega Rave at Walnut Bar & Grill
 
-MUNDO presents Bodega Rave at Walnut Bar & Grill on Fri 25 Sept, Newyorkcity. 2 acts on the bill: BOJAQ and Nas Leber. Club. Preview the line-up and save it on soundcheck.
+MUNDO presents Bodega Rave at Walnut Bar & Grill on Fri 25 Sept, New York City. 2 artists on the bill: BOJAQ and Nas Leber. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

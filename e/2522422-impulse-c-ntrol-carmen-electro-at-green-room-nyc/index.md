@@ -1,6 +1,6 @@
 # IMPULSE CØNTROL // Carmen Electro at Green Room NYC
 
-IMPULSE CØNTROL // Carmen Electro at Green Room NYC on Fri 25 Sept, Newyorkcity. 7 acts on the bill: ABEILLE, Carmen Electro, Dalton Taylor and Flight Mode (DE) and 3 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+IMPULSE CØNTROL // Carmen Electro at Green Room NYC on Fri 25 Sept, New York City. 7 artists on the bill: ABEILLE, Carmen Electro, Dalton Taylor and Flight Mode (DE) and 3 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

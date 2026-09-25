@@ -1,6 +1,6 @@
 # James Lavelle + Kris Wasabi: Free Time - Edinburgh at Sneaky Pete's
 
-James Lavelle + Kris Wasabi: Free Time - Edinburgh at Sneaky Pete's on Sun 27 Sept, Edinburgh. 2 acts on the bill: James Lavelle and Kris Wasabi. Preview the line-up and save it on soundcheck.
+James Lavelle + Kris Wasabi: Free Time - Edinburgh at Sneaky Pete's on Sun 27 Sept, Edinburgh. 2 artists on the bill: James Lavelle and Kris Wasabi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hasfeldt presents Play Me Like One of the Others at Raleigh Chapel
 
-Hasfeldt presents Play Me Like One of the Others at Raleigh Chapel on Thu 15 Oct, London. 2 acts on the bill: Flora Yin-Wong and Hasfeldt. Breakbeat and Ambient. Preview the line-up and save it on soundcheck.
+Hasfeldt presents Play Me Like One of the Others at Raleigh Chapel on Thu 15 Oct, London. 2 artists on the bill: Flora Yin-Wong and Hasfeldt. Breakbeat and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

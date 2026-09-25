@@ -1,6 +1,6 @@
 # DEEPER IN SOUND UNDERGROUND HOUSE & GARAGE SESSIONS at Casablanca Bar & Lounge
 
-DEEPER IN SOUND UNDERGROUND HOUSE & GARAGE SESSIONS at Casablanca Bar & Lounge on Fri 25 Sept, London. 1 act on the bill: NURELIC. House and Garage. Preview the line-up and save it on soundcheck.
+DEEPER IN SOUND UNDERGROUND HOUSE & GARAGE SESSIONS at Casablanca Bar & Lounge on Fri 25 Sept, London. 1 artist on the bill: NURELIC. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

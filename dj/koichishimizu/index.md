@@ -2,7 +2,7 @@
 
 Koichi Shimizu is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
-Koichi Shimizu is an experimental and techno artist based in Thailand, tracked on soundcheck, with 20 sets logged across Bangkok, Hongkong, Naples and Seoul and 1 more. Often billed alongside C-KAY, Numb (JP) and In Ray. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
+Koichi Shimizu is an experimental and techno artist based in Thailand, tracked on soundcheck, with 20 sets logged across Bangkok, Hong Kong, Naples and Seoul and 1 more. Often billed alongside C-KAY, Numb (JP) and In Ray. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Indira Paganotto, Lee Ann Roberts, Estella Boersma | The Cause at The Cause
 
-Indira Paganotto, Lee Ann Roberts, Estella Boersma | The Cause on Sat 17 Oct, London. 4 acts on the bill: Antonio De Angelis, Estella Boersma, Indira Paganotto and Lee Ann Roberts. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Indira Paganotto, Lee Ann Roberts, Estella Boersma | The Cause on Sat 17 Oct, London. 4 artists on the bill: Antonio De Angelis, Estella Boersma, Indira Paganotto and Lee Ann Roberts. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

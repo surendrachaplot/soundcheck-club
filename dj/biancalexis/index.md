@@ -2,7 +2,7 @@
 
 Bianca Lexis is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 9 Oct 2026.
 
-Bianca Lexis is a house and electronica artist based in United States of America, tracked on soundcheck, with 55 sets logged across London, Losangeles, Madrid and Melbourne and 7 more. Often billed alongside Juan Izguerra, Goddollars and 1tbsp. Next up: TBA - Downtown Los Angeles, Losangeles on Fri 9 Oct.
+Bianca Lexis is a house and electronica artist based in United States of America, tracked on soundcheck, with 55 sets logged across London, Los Angeles, Madrid and Melbourne and 7 more. Often billed alongside Juan Izguerra, Goddollars and 1tbsp. Next up: TBA - Downtown Los Angeles, Los Angeles on Fri 9 Oct.
 
 ## Upcoming shows
 

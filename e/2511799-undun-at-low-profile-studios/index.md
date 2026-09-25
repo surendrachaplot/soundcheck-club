@@ -1,6 +1,6 @@
 # UNDUN at Low Profile Studios
 
-UNDUN at Low Profile Studios on Fri 9 Oct, London. 3 acts on the bill: LVRA, ono.sendai.runner and VLURE. Techno and IDM. Preview the line-up and save it on soundcheck.
+UNDUN at Low Profile Studios on Fri 9 Oct, London. 3 artists on the bill: LVRA, ono.sendai.runner and VLURE. Techno and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

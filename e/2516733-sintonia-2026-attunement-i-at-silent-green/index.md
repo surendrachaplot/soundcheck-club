@@ -1,6 +1,6 @@
 # Sintonia 2026 Attunement I at Silent Green
 
-Sintonia 2026 Attunement I at Silent Green on Wed 21 Oct, Berlin. 1 act on the bill: Concepción Huerta. Preview the line-up and save it on soundcheck.
+Sintonia 2026 Attunement I at Silent Green on Wed 21 Oct, Berlin. 1 artist on the bill: Concepción Huerta. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

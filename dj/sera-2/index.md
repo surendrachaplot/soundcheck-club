@@ -2,7 +2,7 @@
 
 SERA (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at RO Seoul, Seoul on Thu, 24 Sept 2026.
 
-SERA (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Cologne and Seoul. Often billed alongside Francesco Passantino, KARAYAN and ANDOW. Next up: RO Seoul, Seoul on Thu 24 Sept.
+SERA is a techno and trance artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Cologne and Seoul. Often billed alongside Francesco Passantino, KARAYAN and ANDOW. Next up: RO Seoul, Seoul on Thu 24 Sept.
 
 ## Upcoming shows
 

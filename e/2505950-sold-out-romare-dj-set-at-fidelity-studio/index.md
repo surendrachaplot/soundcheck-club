@@ -1,6 +1,6 @@
 # SOLD OUT Romare (DJ Set) at Fidelity Studio
 
-SOLD OUT Romare (DJ Set) at Fidelity Studio on Fri 23 Oct, Dublin. 1 act on the bill: Romare. Preview the line-up and save it on soundcheck.
+SOLD OUT Romare (DJ Set) at Fidelity Studio on Fri 23 Oct, Dublin. 1 artist on the bill: Romare. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

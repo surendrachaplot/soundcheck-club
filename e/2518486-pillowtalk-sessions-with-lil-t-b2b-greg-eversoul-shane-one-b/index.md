@@ -1,6 +1,6 @@
 # PillowTalk Sessions with Lil'T B2B Greg Eversoul, Shane One B2B Holmar, Carlo Sine at The Sultan Room
 
-PillowTalk Sessions with Lil'T B2B Greg Eversoul, Shane One B2B Holmar, Carlo Sine at The Sultan Room on Sun 27 Sept, Newyorkcity. 5 acts on the bill: Carlo Sine, Greg Eversoul, Holmar and Lil'T and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+PillowTalk Sessions with Lil'T B2B Greg Eversoul, Shane One B2B Holmar, Carlo Sine at The Sultan Room on Sun 27 Sept, New York City. 5 artists on the bill: Carlo Sine, Greg Eversoul, Holmar and Lil'T and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

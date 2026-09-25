@@ -2,7 +2,7 @@
 
 RUK (2) is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Under Istanbul, Istanbul on Sat, 24 Oct 2026.
 
-RUK (2) is a techno and drum & bass artist based in Turkey, tracked on soundcheck, with 11 sets logged across Istanbul and Tbilisi. Often billed alongside BERENALP, Semi and dj s1s0. Next up: Under Istanbul, Istanbul on Sat 24 Oct.
+RUK is a techno and drum & bass artist based in Turkey, tracked on soundcheck, with 11 sets logged across Istanbul and Tbilisi. Often billed alongside BERENALP, Semi and dj s1s0. Next up: Under Istanbul, Istanbul on Sat 24 Oct.
 
 ## Upcoming shows
 

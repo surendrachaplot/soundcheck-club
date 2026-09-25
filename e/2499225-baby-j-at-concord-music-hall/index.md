@@ -1,6 +1,6 @@
 # BABY J at Concord Music Hall
 
-BABY J at Concord Music Hall on Sat 10 Oct, Chicago. 1 act on the bill: Baby J (2). House and Baile Funk. Preview the line-up and save it on soundcheck.
+BABY J at Concord Music Hall on Sat 10 Oct, Chicago. 1 artist on the bill: Baby J. House and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

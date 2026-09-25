@@ -1,6 +1,6 @@
 # EKHO / ADRIANA LÓPEZ + Tommy Four Seven at ART Madrid Club
 
-EKHO / ADRIANA LÓPEZ + Tommy Four Seven at ART Madrid Club on Fri 25 Sept, Madrid. 4 acts on the bill: Adriana Lopez, CESAR ALMENA, Nuke and Tommy Four Seven. Techno. Preview the line-up and save it on soundcheck.
+EKHO / ADRIANA LÓPEZ + Tommy Four Seven at ART Madrid Club on Fri 25 Sept, Madrid. 4 artists on the bill: Adriana Lopez, CESAR ALMENA, Nuke and Tommy Four Seven. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Non (TO) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Socore Factory, Osaka on Sat, 31 Oct 2026.
 
-Non (TO) is a house and tech house artist based in Canada, tracked on soundcheck, with 28 sets logged across Montreal, Osaka, Tokyo and Toronto. Often billed alongside Greg Burke, Thomas James (2) and Tabbara. Next up: Socore Factory, Osaka on Sat 31 Oct.
+Non (TO) is a house and tech house artist based in Canada, tracked on soundcheck, with 28 sets logged across Montreal, Osaka, Tokyo and Toronto. Often billed alongside Greg Burke, Thomas James and Tabbara. Next up: Socore Factory, Osaka on Sat 31 Oct.
 
 ## Upcoming shows
 

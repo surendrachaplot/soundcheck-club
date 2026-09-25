@@ -1,6 +1,6 @@
 # Tresor New Faces hosted by Playhaus at Tresor / Globus
 
-Tresor New Faces hosted by Playhaus at Tresor / Globus on Wed 21 Oct, Berlin. 6 acts on the bill: Aloe, Dioo, JenTen and Milo Makua and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Tresor New Faces hosted by Playhaus at Tresor / Globus on Wed 21 Oct, Berlin. 6 artists on the bill: Aloe, Dioo, JenTen and Milo Makua and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Âme DJ · Dachshund · DJ Reas at Audio Club
 
-Âme DJ · Dachshund · DJ Reas at Audio Club on Fri 9 Oct, Geneva. 3 acts on the bill: Âme, Dachshund and DJ Reas. Preview the line-up and save it on soundcheck.
+Âme DJ · Dachshund · DJ Reas at Audio Club on Fri 9 Oct, Geneva. 3 artists on the bill: Âme, Dachshund and DJ Reas. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

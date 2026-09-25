@@ -1,6 +1,6 @@
 # Tanzen mit Pflanzen: DJ FM & DJ FREUND im Komitee at Komitee
 
-Tanzen mit Pflanzen: DJ FM & DJ FREUND im Komitee on Sat 21 Nov, Munich. 1 act on the bill: DJ FM & DJ FREUND. House and Electro. Preview the line-up and save it on soundcheck.
+Tanzen mit Pflanzen: DJ FM & DJ FREUND im Komitee on Sat 21 Nov, Munich. 1 artist on the bill: DJ FM & DJ FREUND. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

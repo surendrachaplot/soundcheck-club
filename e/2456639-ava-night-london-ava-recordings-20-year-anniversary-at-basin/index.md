@@ -1,6 +1,6 @@
 # AVA Night London - AVA Recordings 20 Year Anniversary at Basing House
 
-AVA Night London - AVA Recordings 20 Year Anniversary at Basing House on Sat 31 Oct, London. 4 acts on the bill: Andy Moor, GXD, Rinaly and Somna. Trance and Techno. Preview the line-up and save it on soundcheck.
+AVA Night London - AVA Recordings 20 Year Anniversary at Basing House on Sat 31 Oct, London. 4 artists on the bill: Andy Moor, GXD, Rinaly and Somna. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

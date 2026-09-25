@@ -1,6 +1,6 @@
 # Vespers present LCN, Mvcoko, Stolen Velour, Iyesha & ex.sses at Vespers Club
 
-Vespers present LCN, Mvcoko, Stolen Velour, Iyesha & ex.sses at Vespers Club on Fri 25 Sept, London. 5 acts on the bill: ex.sses, Iyesha, LCN and Mvcoko and 1 more. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+Vespers present LCN, Mvcoko, Stolen Velour, Iyesha & ex.sses at Vespers Club on Fri 25 Sept, London. 5 artists on the bill: ex.sses, Iyesha, LCN and Mvcoko and 1 more. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

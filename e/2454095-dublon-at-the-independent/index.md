@@ -1,6 +1,6 @@
 # Dublon at The Independent
 
-Dublon at The Independent on Sat 10 Oct, Sanfrancisco. 1 act on the bill: Dublon. House and Jazz. Preview the line-up and save it on soundcheck.
+Dublon at The Independent on Sat 10 Oct, San Francisco/Oakland. 1 artist on the bill: Dublon. House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Garage Nation at Melkweg
 
-Garage Nation at Melkweg on Fri 6 Nov, Amsterdam. 3 acts on the bill: Artful Dodger, DJ Cartier and MC Kie. Garage. Preview the line-up and save it on soundcheck.
+Garage Nation at Melkweg on Fri 6 Nov, Amsterdam. 3 artists on the bill: Artful Dodger, DJ Cartier and MC Kie. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

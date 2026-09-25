@@ -1,6 +1,6 @@
 # NUDE at Lasociaciøn
 
-NUDE at Lasociaciøn on Sun 11 Oct, Madrid. 5 acts on the bill: Axis Mundi, Baldman, formica (ES) and Konduku and 1 more. Preview the line-up and save it on soundcheck.
+NUDE at Lasociaciøn on Sun 11 Oct, Madrid. 5 artists on the bill: Axis Mundi, Baldman, formica (ES) and Konduku and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

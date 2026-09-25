@@ -1,6 +1,6 @@
 # Neighbourhood x Raverzz with Radosť Showcase & Inner Sphere | House, Techno & Psytrance at Chapeau Rouge
 
-Neighbourhood x Raverzz with Radosť Showcase & Inner Sphere | House, Techno & Psytrance at Chapeau Rouge on Fri 9 Oct, Prague. 4 acts on the bill: Daniel Neighbour, Hasky (SK), Makepeace and Telly Savalas. House and Psytrance. Preview the line-up and save it on soundcheck.
+Neighbourhood x Raverzz with Radosť Showcase & Inner Sphere | House, Techno & Psytrance at Chapeau Rouge on Fri 9 Oct, Prague. 4 artists on the bill: Daniel Neighbour, Hasky (SK), Makepeace and Telly Savalas. House and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # OXYGÈNE - Caim - Krijka at DURO
 
-OXYGÈNE - Caim - Krijka at DURO on Sat 17 Oct, Milan. 2 acts on the bill: Caim and Krijka. Preview the line-up and save it on soundcheck.
+OXYGÈNE - Caim - Krijka at DURO on Sat 17 Oct, Milan. 2 artists on the bill: Caim and Krijka. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

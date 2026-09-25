@@ -2,7 +2,7 @@
 
 Dual Damage is a Hardcore and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Dome, Liverpool on Fri, 16 Oct 2026.
 
-Dual Damage is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Antwerp, Cologne, Dusseldorf and Frankfurt and 13 more. Often billed alongside Angerfist, Paul Elstak and Da Tweekaz. Next up: The Dome, Liverpool on Fri 16 Oct.
+Dual Damage is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Antwerp, Cologne, Düsseldorf and Frankfurt and 13 more. Often billed alongside Angerfist, Paul Elstak and Da Tweekaz. Next up: The Dome, Liverpool on Fri 16 Oct.
 
 ## Upcoming shows
 

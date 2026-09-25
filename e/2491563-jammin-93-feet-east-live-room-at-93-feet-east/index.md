@@ -1,6 +1,6 @@
 # Jammin' @ 93 Feet East [Live Room] at 93 Feet East
 
-Jammin' @ 93 Feet East [Live Room] on Sat 10 Oct, London. 3 acts on the bill: Dan Cowan, Groves and Talieu. House. Preview the line-up and save it on soundcheck.
+Jammin' @ 93 Feet East [Live Room] on Sat 10 Oct, London. 3 artists on the bill: Dan Cowan, Groves and Talieu. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

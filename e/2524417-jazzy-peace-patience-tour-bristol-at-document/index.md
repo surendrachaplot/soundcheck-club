@@ -1,6 +1,6 @@
 # Jazzy - Peace & Patience Tour - Bristol at Document
 
-Jazzy - Peace & Patience Tour - Bristol at Document on Sat 28 Nov, Bristol. 1 act on the bill: Jazzy (IRL). House and Tech House. Preview the line-up and save it on soundcheck.
+Jazzy - Peace & Patience Tour - Bristol at Document on Sat 28 Nov, Bristol. 1 artist on the bill: Jazzy (IRL). House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

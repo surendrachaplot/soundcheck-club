@@ -1,6 +1,6 @@
 # Aura at fi with Chlär at fi
 
-Aura at fi with Chlär on Fri 2 Oct, Cologne. 4 acts on the bill: Chlär, Gutkind, Szunflower and Tschatsching. Techno. Preview the line-up and save it on soundcheck.
+Aura at fi with Chlär on Fri 2 Oct, Cologne. 4 artists on the bill: Chlär, Gutkind, Szunflower and Tschatsching. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

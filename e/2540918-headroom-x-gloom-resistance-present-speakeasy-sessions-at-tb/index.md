@@ -1,6 +1,6 @@
 # Headroom X Gloom Resistance present: Speakeasy Sessions at TBA - Nineteen 25
 
-Headroom X Gloom Resistance present: Speakeasy Sessions at TBA - Nineteen 25 on Sat 3 Oct, Denver. 1 act on the bill: Black/Tuesday. House. Preview the line-up and save it on soundcheck.
+Headroom X Gloom Resistance present: Speakeasy Sessions at TBA - Nineteen 25 on Sat 3 Oct, Denver. 1 artist on the bill: Black/Tuesday. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

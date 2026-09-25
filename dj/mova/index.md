@@ -2,7 +2,7 @@
 
 Mova is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
-Mova is a techno artist based in Georgia, tracked on soundcheck, with 17 sets logged across Athens, Berlin, Mexicocity and Tbilisi. Often billed alongside Downwell, Boyd Schidt and Bacho. Next up: Loco Park, Tbilisi on Fri 2 Oct.
+Mova is a techno artist based in Georgia, tracked on soundcheck, with 17 sets logged across Athens, Berlin, Mexico City and Tbilisi. Often billed alongside Downwell, Boyd Schidt and Bacho. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
 ## Upcoming shows
 

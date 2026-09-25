@@ -1,6 +1,6 @@
 # BUSH DÜF: Ben Zo, DrToof, Henry Jennings, Scallywag, Young link at Jupiter Disco
 
-BUSH DÜF: Ben Zo, DrToof, Henry Jennings, Scallywag, Young link at Jupiter Disco on Sun 1 Nov, Newyorkcity. 5 acts on the bill: Ben Zo, DJ Scallywag, DrToof and Henry Jennings and 1 more. Preview the line-up and save it on soundcheck.
+BUSH DÜF: Ben Zo, DrToof, Henry Jennings, Scallywag, Young link at Jupiter Disco on Sun 1 Nov, New York City. 5 artists on the bill: Ben Zo, DJ Scallywag, DrToof and Henry Jennings and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

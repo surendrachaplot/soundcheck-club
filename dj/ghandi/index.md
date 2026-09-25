@@ -2,7 +2,7 @@
 
 Ghandi is a House and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bike Jesus, Prague on Sat, 17 Oct 2026.
 
-Ghandi is a house and post-punk artist based in Czech Republic, tracked on soundcheck, with 22 sets logged across Glasgow, Ibiza, Losangeles and Prague. Often billed alongside Saku, Bazooka Joe and Dash (CZ). Next up: Bike Jesus, Prague on Sat 17 Oct.
+Ghandi is a house and post-punk artist based in Czech Republic, tracked on soundcheck, with 22 sets logged across Glasgow, Ibiza, Los Angeles and Prague. Often billed alongside Saku, Bazooka Joe and Dash (CZ). Next up: Bike Jesus, Prague on Sat 17 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # A.D.S.R w/ Somniac One, Kalopsia, 3SBAT at EXIT Glasgow
 
-A.D.S.R w/ Somniac One, Kalopsia, 3SBAT at EXIT Glasgow on Fri 25 Sept, Glasgow. 3 acts on the bill: 3SBAT, Kalopsia and Somniac One. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+A.D.S.R w/ Somniac One, Kalopsia, 3SBAT at EXIT Glasgow on Fri 25 Sept, Glasgow. 3 artists on the bill: 3SBAT, Kalopsia and Somniac One. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Juan Buitrago is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Black House, San Telmo, Buenos Aires on Sat, 3 Oct 2026.
 
-Juan Buitrago is a progressive house and deep house artist based in Colombia, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Buenosaires and Mexicocity. Often billed alongside Around Us, Antrim and Callecat. Next up: TBA - Black House, San Telmo, Buenosaires on Sat 3 Oct.
+Juan Buitrago is a progressive house and deep house artist based in Colombia, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Buenos Aires and Mexico City. Often billed alongside Around Us, Antrim and Callecat. Next up: TBA - Black House, San Telmo, Buenos Aires on Sat 3 Oct.
 
 ## Upcoming shows
 

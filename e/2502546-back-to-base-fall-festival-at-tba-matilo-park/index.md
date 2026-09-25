@@ -1,6 +1,6 @@
 # Back To Base Fall Festival at TBA - Matilo Park
 
-Back To Base Fall Festival at TBA - Matilo Park on Sat 21 Nov, Rotterdam. 7 acts on the bill: DART, Diffrent, Eva Vrijdag and Itz3bby and 3 more. Trance and Garage. Preview the line-up and save it on soundcheck.
+Back To Base Fall Festival at TBA - Matilo Park on Sat 21 Nov, Rotterdam. 7 artists on the bill: DART, Diffrent, Eva Vrijdag and Itz3bby and 3 more. Trance and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

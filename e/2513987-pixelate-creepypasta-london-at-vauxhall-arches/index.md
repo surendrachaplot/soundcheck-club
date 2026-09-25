@@ -1,6 +1,6 @@
 # PIXELATE Creepypasta London at Vauxhall Arches
 
-PIXELATE Creepypasta London at Vauxhall Arches on Fri 16 Oct, London. 4 acts on the bill: Compulsive Leia, Desiludildo, Hixxy and jaytaylor. Preview the line-up and save it on soundcheck.
+PIXELATE Creepypasta London at Vauxhall Arches on Fri 16 Oct, London. 4 artists on the bill: Compulsive Leia, Desiludildo, Hixxy and jaytaylor. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

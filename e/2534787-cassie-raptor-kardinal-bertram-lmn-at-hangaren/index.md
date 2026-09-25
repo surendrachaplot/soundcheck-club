@@ -1,6 +1,6 @@
 # Cassie Raptor, Kardinal Bertram, LMN at Hangaren
 
-Cassie Raptor, Kardinal Bertram, LMN at Hangaren on Sat 7 Nov, Copenhagen. 3 acts on the bill: Cassie Raptor, Kardinal Bertram and LMN (1). Techno and Industrial. Preview the line-up and save it on soundcheck.
+Cassie Raptor, Kardinal Bertram, LMN at Hangaren on Sat 7 Nov, Copenhagen. 3 artists on the bill: Cassie Raptor, Kardinal Bertram and LMN. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

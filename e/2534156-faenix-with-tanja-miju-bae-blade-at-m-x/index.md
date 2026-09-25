@@ -1,6 +1,6 @@
 # FAENIX with TANJA MIJU & Bae Blade at MÄX
 
-FAENIX with TANJA MIJU & Bae Blade at MÄX on Fri 25 Sept, Zurich. 4 acts on the bill: Bae Blade, Galopp, Megix and TANJA MIJU. Trance and Techno. Preview the line-up and save it on soundcheck.
+FAENIX with TANJA MIJU & Bae Blade at MÄX on Fri 25 Sept, Zurich. 4 artists on the bill: Bae Blade, Galopp, Megix and TANJA MIJU. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

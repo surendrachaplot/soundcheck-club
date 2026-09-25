@@ -1,6 +1,6 @@
 # Sarah Davachi at Gedächtniskirche
 
-Sarah Davachi at Gedächtniskirche on Thu 22 Oct, Berlin. 1 act on the bill: Sarah Davachi. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Sarah Davachi at Gedächtniskirche on Thu 22 Oct, Berlin. 1 artist on the bill: Sarah Davachi. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

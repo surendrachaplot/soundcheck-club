@@ -1,6 +1,6 @@
 # ART ISLAND 26-27 Sep at Bangkok Island
 
-ART ISLAND 26-27 Sep at Bangkok Island on Sat 26 Sept, Bangkok. 3 acts on the bill: Art (AU), DJ S (UK) and FASHION (US). Preview the line-up and save it on soundcheck.
+ART ISLAND 26-27 Sep at Bangkok Island on Sat 26 Sept, Bangkok. 3 artists on the bill: Art (AU), DJ S (UK) and FASHION (US). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

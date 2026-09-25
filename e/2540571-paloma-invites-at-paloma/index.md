@@ -1,6 +1,6 @@
 # Paloma Invites at Paloma
 
-Paloma Invites on Fri 23 Oct, Berlin. 2 acts on the bill: Aqwea and Lavan. Preview the line-up and save it on soundcheck.
+Paloma Invites on Fri 23 Oct, Berlin. 2 artists on the bill: Aqwea and Lavan. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Lovin Duo is a Acid and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cascina nascosta, Milan on Sun, 4 Oct 2026.
 
-Lovin Duo is an acid and electronica artist tracked on soundcheck, with 35 sets logged across Milan and Newyorkcity. Often billed alongside Lvca, Erika Gueli and Sunrush. Next up: Cascina nascosta, Milan on Sun 4 Oct.
+Lovin Duo is an acid and electronica artist tracked on soundcheck, with 35 sets logged across Milan and New York City. Often billed alongside Lvca, Erika Gueli and Sunrush. Next up: Cascina nascosta, Milan on Sun 4 Oct.
 
 ## Upcoming shows
 

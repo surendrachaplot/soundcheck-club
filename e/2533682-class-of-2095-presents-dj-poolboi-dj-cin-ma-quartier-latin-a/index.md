@@ -1,6 +1,6 @@
 # Class of 2095 presents: dj poolboi & DJ Cinéma Quartier Latin at Bar Le Ritz PDB
 
-Class of 2095 presents: dj poolboi & DJ Cinéma Quartier Latin at Bar Le Ritz PDB on Sat 3 Oct, Montreal. 2 acts on the bill: DJ Cinéma Quartier Latin and dj poolboi. Techno and House. Preview the line-up and save it on soundcheck.
+Class of 2095 presents: dj poolboi & DJ Cinéma Quartier Latin at Bar Le Ritz PDB on Sat 3 Oct, Montreal. 2 artists on the bill: DJ Cinéma Quartier Latin and dj poolboi. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

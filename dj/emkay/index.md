@@ -2,7 +2,7 @@
 
 Emkay is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Fri, 25 Sept 2026.
 
-Emkay is a drum & bass artist based in United States of America, tracked on soundcheck, with 17 sets logged across Helsinki, Madrid, Miami and Newyorkcity and 2 more. Often billed alongside Feli Nightingale, Samuel (UK) and DJ JVS. Next up: Signal, Newyorkcity on Fri 25 Sept.
+Emkay is a drum & bass artist based in United States of America, tracked on soundcheck, with 17 sets logged across Helsinki, Madrid, Miami and New York City and 2 more. Often billed alongside Feli Nightingale, Samuel (UK) and DJ JVS. Next up: Signal, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

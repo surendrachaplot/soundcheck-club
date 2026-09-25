@@ -1,6 +1,6 @@
 # Dean Turnley at Art Club
 
-Dean Turnley at Art Club on Fri 23 Oct, Houston. 1 act on the bill: Dean Turnley. Preview the line-up and save it on soundcheck.
+Dean Turnley at Art Club on Fri 23 Oct, Houston. 1 artist on the bill: Dean Turnley. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Not A Disco at Migas
 
-Not A Disco at Migas on Sat 3 Oct, Hongkong. House and Disco. Preview the line-up and save it on soundcheck.
+Not A Disco at Migas on Sat 3 Oct, Hong Kong. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

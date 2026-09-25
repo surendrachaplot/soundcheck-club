@@ -1,6 +1,6 @@
 # Contrasts In Sync at ZIRKA
 
-Contrasts In Sync at ZIRKA on Sat 26 Sept, Munich. 6 acts on the bill: 600-cell, Apua, Blond Felice and DJ Aquaplaning and 2 more. Preview the line-up and save it on soundcheck.
+Contrasts In Sync at ZIRKA on Sat 26 Sept, Munich. 6 artists on the bill: 600-cell, Apua, Blond Felice and DJ Aquaplaning and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

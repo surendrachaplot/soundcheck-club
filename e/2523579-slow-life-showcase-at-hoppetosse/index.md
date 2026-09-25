@@ -1,6 +1,6 @@
 # Slow Life Showcase at Hoppetosse
 
-Slow Life Showcase at Hoppetosse on Sat 7 Nov, Berlin. 4 acts on the bill: Cecilio, GNMR, Laurine and Rafon (2). Preview the line-up and save it on soundcheck.
+Slow Life Showcase at Hoppetosse on Sat 7 Nov, Berlin. 4 artists on the bill: Cecilio, GNMR, Laurine and Rafon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

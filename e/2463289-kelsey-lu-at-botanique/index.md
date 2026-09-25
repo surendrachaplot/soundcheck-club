@@ -1,6 +1,6 @@
 # Kelsey Lu at Botanique
 
-Kelsey Lu at Botanique on Wed 11 Nov, Brussels. 1 act on the bill: Kelsey Lu. Electro. Preview the line-up and save it on soundcheck.
+Kelsey Lu at Botanique on Wed 11 Nov, Brussels. 1 artist on the bill: Kelsey Lu. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

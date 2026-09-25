@@ -1,6 +1,6 @@
 # Maceo Plex presents Lone Romantic at Chicago Social Club
 
-Maceo Plex presents Lone Romantic at Chicago Social Club on Thu 22 Oct, Amsterdam. 4 acts on the bill: Christian Nielsen, Maceo Plex, Mack Loenz and Raxon. House and Electro. Preview the line-up and save it on soundcheck.
+Maceo Plex presents Lone Romantic at Chicago Social Club on Thu 22 Oct, Amsterdam. 4 artists on the bill: Christian Nielsen, Maceo Plex, Mack Loenz and Raxon. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

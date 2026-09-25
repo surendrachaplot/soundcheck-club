@@ -1,6 +1,6 @@
 # SLAPPED X CraneSessions • ADE 2026 at Crane Hotel Faralda
 
-SLAPPED X CraneSessions • ADE 2026 at Crane Hotel Faralda on Sun 25 Oct, Amsterdam. 5 acts on the bill: Joyce Muniz, Manuel Falardeau, Mitch Oliver and TMPLE and 1 more. House and Electronica. Preview the line-up and save it on soundcheck.
+SLAPPED X CraneSessions • ADE 2026 at Crane Hotel Faralda on Sun 25 Oct, Amsterdam. 5 artists on the bill: Joyce Muniz, Manuel Falardeau, Mitch Oliver and TMPLE and 1 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

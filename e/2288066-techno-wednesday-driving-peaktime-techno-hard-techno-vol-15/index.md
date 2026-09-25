@@ -1,6 +1,6 @@
 # Techno Wednesday (Driving/Peaktime Techno & Hard Techno) Vol. 15 at OMA
 
-Techno Wednesday (Driving/Peaktime Techno & Hard Techno) Vol. 15 at OMA on Thu 22 Oct, Hongkong. 1 act on the bill: kimmy6.6.6. Techno and Acid. Preview the line-up and save it on soundcheck.
+Techno Wednesday (Driving/Peaktime Techno & Hard Techno) Vol. 15 at OMA on Thu 22 Oct, Hong Kong. 1 artist on the bill: kimmy6.6.6. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

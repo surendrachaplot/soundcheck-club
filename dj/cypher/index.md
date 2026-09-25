@@ -2,7 +2,7 @@
 
 Cypher is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bassiani, Tbilisi on Fri, 23 Oct 2026.
 
-Cypher is a techno and house artist based in Georgia, tracked on soundcheck, with 9 sets logged across Liverpool, London, Madrid and Mexicocity and 1 more. Often billed alongside DJ Sense, Mancho and Sevda. Next up: Bassiani, Tbilisi on Fri 23 Oct.
+Cypher is a techno and house artist based in Georgia, tracked on soundcheck, with 9 sets logged across Liverpool, London, Madrid and Mexico City and 1 more. Often billed alongside DJ Sense, Mancho and Sevda. Next up: Bassiani, Tbilisi on Fri 23 Oct.
 
 ## Upcoming shows
 

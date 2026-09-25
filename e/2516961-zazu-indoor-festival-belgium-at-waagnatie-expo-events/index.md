@@ -1,6 +1,6 @@
 # ZAZU Indoor Festival Belgium at Waagnatie Expo & Events
 
-ZAZU Indoor Festival Belgium at Waagnatie Expo & Events on Sat 28 Nov, Antwerp. 14 acts on the bill: Alex Wann, Andrea Oliva, Bun Xapa and Caiiro and 10 more. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+ZAZU Indoor Festival Belgium at Waagnatie Expo & Events on Sat 28 Nov, Antwerp. 14 artists on the bill: Alex Wann, Andrea Oliva, Bun Xapa and Caiiro and 10 more. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Museum Night Fever: Bota By Night at Botanique
 
-Museum Night Fever: Bota By Night at Botanique on Sat 17 Oct, Brussels. 6 acts on the bill: Megra, Rattlesnakke, Spirite and TORI ANN and 2 more. Electro. Preview the line-up and save it on soundcheck.
+Museum Night Fever: Bota By Night at Botanique on Sat 17 Oct, Brussels. 6 artists on the bill: Megra, Rattlesnakke, Spirite and TORI ANN and 2 more. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

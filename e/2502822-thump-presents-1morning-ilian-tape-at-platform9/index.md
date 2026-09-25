@@ -1,6 +1,6 @@
 # Thump! presents 1morning (Ilian Tape) at Platform9
 
-Thump! presents 1morning (Ilian Tape) at Platform9 on Sat 26 Sept, Vancouver. 5 acts on the bill: 1morning, AWood, DJ Hockey and Max Ulis and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Thump! presents 1morning (Ilian Tape) at Platform9 on Sat 26 Sept, Vancouver. 5 artists on the bill: 1morning, AWood, DJ Hockey and Max Ulis and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

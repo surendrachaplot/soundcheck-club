@@ -1,6 +1,6 @@
 # Techno to Trance with ALT8 & Kichta at MÄX
 
-Techno to Trance with ALT8 & Kichta at MÄX on Sat 24 Oct, Zurich. 4 acts on the bill: ALT8, Dekerim, Kichta and ROW1. Trance and Techno. Preview the line-up and save it on soundcheck.
+Techno to Trance with ALT8 & Kichta at MÄX on Sat 24 Oct, Zurich. 4 artists on the bill: ALT8, Dekerim, Kichta and ROW1. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

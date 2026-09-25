@@ -1,6 +1,6 @@
 # Gabrielle Kwarteng at Headrow House
 
-Gabrielle Kwarteng at Headrow House on Fri 2 Oct, Leeds. 1 act on the bill: Gabrielle Kwarteng. Preview the line-up and save it on soundcheck.
+Gabrielle Kwarteng at Headrow House on Fri 2 Oct, Leeds. 1 artist on the bill: Gabrielle Kwarteng. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

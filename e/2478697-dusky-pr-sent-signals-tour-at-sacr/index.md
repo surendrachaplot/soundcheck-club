@@ -1,6 +1,6 @@
 # Dusky présent Signals Tour at Sacré
 
-Dusky présent Signals Tour at Sacré on Fri 6 Nov, Paris. 1 act on the bill: Dusky. House. Preview the line-up and save it on soundcheck.
+Dusky présent Signals Tour at Sacré on Fri 6 Nov, Paris. 1 artist on the bill: Dusky. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

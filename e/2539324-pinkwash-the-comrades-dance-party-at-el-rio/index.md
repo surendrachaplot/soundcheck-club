@@ -1,6 +1,6 @@
 # Pinkwash - The Comrades' Dance Party at El Rio
 
-Pinkwash - The Comrades' Dance Party at El Rio on Sat 3 Oct, Sanfrancisco. 2 acts on the bill: M4CR0 and The Baptist. Disco and Minimal Techno. Preview the line-up and save it on soundcheck.
+Pinkwash - The Comrades' Dance Party at El Rio on Sat 3 Oct, San Francisco/Oakland. 2 artists on the bill: M4CR0 and The Baptist. Disco and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

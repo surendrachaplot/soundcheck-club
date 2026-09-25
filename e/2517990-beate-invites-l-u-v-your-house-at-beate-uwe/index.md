@@ -1,6 +1,6 @@
 # Beate Invites /// L.U.V. YOUR HOUSE at Beate Uwe
 
-Beate Invites /// L.U.V. YOUR HOUSE at Beate Uwe on Sat 26 Sept, Berlin. 5 acts on the bill: Bare Tecture, Darwin Stapel, DJ with Soul and Kat_Es and 1 more. House. Preview the line-up and save it on soundcheck.
+Beate Invites /// L.U.V. YOUR HOUSE at Beate Uwe on Sat 26 Sept, Berlin. 5 artists on the bill: Bare Tecture, Darwin Stapel, DJ with Soul and Kat_Es and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

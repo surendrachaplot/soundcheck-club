@@ -1,6 +1,6 @@
 # Wir Sind Die Nacht x EUPHORIK at Fusion Club
 
-Wir Sind Die Nacht x EUPHORIK at Fusion Club on Sat 26 Sept, Munster. 6 acts on the bill: DTEXX, FLEXTASY, Illuminati_Techno and Ornella and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Wir Sind Die Nacht x EUPHORIK at Fusion Club on Sat 26 Sept, Munster. 6 artists on the bill: DTEXX, FLEXTASY, Illuminati_Techno and Ornella and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

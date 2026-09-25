@@ -1,6 +1,6 @@
 # Tokyo Acid Crew & ZEROX presents: Gez Varley / LFO / G-MAN at Zerox
 
-Tokyo Acid Crew & ZEROX presents: Gez Varley / LFO / G-MAN at Zerox on Fri 2 Oct, Newcastle. 3 acts on the bill: G-MAN aka Gez Varley, Gez Varley and LFO. Techno and Acid. Preview the line-up and save it on soundcheck.
+Tokyo Acid Crew & ZEROX presents: Gez Varley / LFO / G-MAN at Zerox on Fri 2 Oct, Newcastle. 3 artists on the bill: G-MAN aka Gez Varley, Gez Varley and LFO. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

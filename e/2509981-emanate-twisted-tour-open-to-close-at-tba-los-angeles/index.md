@@ -1,6 +1,6 @@
 # Emanate - Twisted Tour (Open To Close) at TBA - Los Angeles
 
-Emanate - Twisted Tour (Open To Close) at TBA - Los Angeles on Fri 16 Oct, Losangeles. 1 act on the bill: Emanate. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Emanate - Twisted Tour (Open To Close) at TBA - Los Angeles on Fri 16 Oct, Los Angeles. 1 artist on the bill: Emanate. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Fosters & Friends x Revolver Fridays at Revolver Upstairs
 
-Fosters & Friends x Revolver Fridays at Revolver Upstairs on Fri 2 Oct, Melbourne. 6 acts on the bill: bellxsxs, CHARBINKS, Chiara Kickdrum and Code618 and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Fosters & Friends x Revolver Fridays at Revolver Upstairs on Fri 2 Oct, Melbourne. 6 artists on the bill: bellxsxs, CHARBINKS, Chiara Kickdrum and Code618 and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Täino & Fimo at Bar v Krymský
 
-Täino & Fimo at Bar v Krymský on Fri 2 Oct, Prague. 1 act on the bill: Täino. Deep House. Preview the line-up and save it on soundcheck.
+Täino & Fimo at Bar v Krymský on Fri 2 Oct, Prague. 1 artist on the bill: Täino. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Eli Brown: Panick Attack Tour at Electric Brixton
 
-Eli Brown: Panick Attack Tour at Electric Brixton on Sat 21 Nov, London. 4 acts on the bill: Alex Farell, Eli Brown, Linska and Roxie Li. Techno. Preview the line-up and save it on soundcheck.
+Eli Brown: Panick Attack Tour at Electric Brixton on Sat 21 Nov, London. 4 artists on the bill: Alex Farell, Eli Brown, Linska and Roxie Li. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

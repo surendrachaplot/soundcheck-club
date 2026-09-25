@@ -1,6 +1,6 @@
 # Rhythm Workshop Series: Performing Live at Rhythm
 
-Rhythm Workshop Series: Performing Live on Wed 30 Sept, Toronto. 1 act on the bill: Emissive. Preview the line-up and save it on soundcheck.
+Rhythm Workshop Series: Performing Live on Wed 30 Sept, Toronto. 1 artist on the bill: Emissive. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

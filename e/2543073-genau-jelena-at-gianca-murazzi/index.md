@@ -1,6 +1,6 @@
 # GENAU: Jelena at Gianca - Murazzi
 
-GENAU: Jelena at Gianca - Murazzi on Fri 23 Oct, Turin. 1 act on the bill: Jelena. Techno. Preview the line-up and save it on soundcheck.
+GENAU: Jelena at Gianca - Murazzi on Fri 23 Oct, Turin. 1 artist on the bill: Jelena. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

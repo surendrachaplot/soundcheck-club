@@ -1,6 +1,6 @@
 # Psychic Liberation Night: Andrea Pensado + HMOT + bela at Silent Green
 
-Psychic Liberation Night: Andrea Pensado + HMOT + bela at Silent Green on Tue 20 Oct, Berlin. 2 acts on the bill: bela and HMOT. Preview the line-up and save it on soundcheck.
+Psychic Liberation Night: Andrea Pensado + HMOT + bela at Silent Green on Tue 20 Oct, Berlin. 2 artists on the bill: bela and HMOT. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

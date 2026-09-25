@@ -1,6 +1,6 @@
 # Goldfish LIVE + Special Guests at Ministry Of Sound
 
-Goldfish LIVE + Special Guests at Ministry Of Sound on Fri 23 Oct, London. 3 acts on the bill: Alastair Lane, Goldfish and Mas Que Nada Brothers. House and Tech House. Preview the line-up and save it on soundcheck.
+Goldfish LIVE + Special Guests at Ministry Of Sound on Fri 23 Oct, London. 3 artists on the bill: Alastair Lane, Goldfish and Mas Que Nada Brothers. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

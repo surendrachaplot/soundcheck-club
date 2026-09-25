@@ -1,6 +1,6 @@
 # HALLOWEEN OVERLOAD at Trinity Drug Store
 
-HALLOWEEN OVERLOAD at Trinity Drug Store on Sat 31 Oct, Toronto. 4 acts on the bill: KILL 9 1, Mand0, R4TS and Tromblon. Techno and House. Preview the line-up and save it on soundcheck.
+HALLOWEEN OVERLOAD at Trinity Drug Store on Sat 31 Oct, Toronto. 4 artists on the bill: KILL 9 1, Mand0, R4TS and Tromblon. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

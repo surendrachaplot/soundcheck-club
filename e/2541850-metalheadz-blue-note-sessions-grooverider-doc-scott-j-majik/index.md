@@ -1,6 +1,6 @@
 # Metalheadz Blue Note Sessions - Grooverider, Doc Scott, J Majik & Diverge at The Wardrobe
 
-Metalheadz Blue Note Sessions - Grooverider, Doc Scott, J Majik & Diverge at The Wardrobe on Sun 29 Nov, Leeds. 4 acts on the bill: Diverge, Doc Scott, Grooverider and J Majik. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Metalheadz Blue Note Sessions - Grooverider, Doc Scott, J Majik & Diverge at The Wardrobe on Sun 29 Nov, Leeds. 4 artists on the bill: Diverge, Doc Scott, Grooverider and J Majik. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

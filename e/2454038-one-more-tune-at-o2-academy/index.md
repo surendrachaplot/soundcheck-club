@@ -1,6 +1,6 @@
 # One More Tune! at O2 Academy
 
-One More Tune! at O2 Academy on Sat 31 Oct, Glasgow. 4 acts on the bill: Fergie, John O'Callaghan, Judge Jules and Marco V. Trance. Preview the line-up and save it on soundcheck.
+One More Tune! at O2 Academy on Sat 31 Oct, Glasgow. 4 artists on the bill: Fergie, John O'Callaghan, Judge Jules and Marco V. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

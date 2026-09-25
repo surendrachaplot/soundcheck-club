@@ -1,6 +1,6 @@
 # Debbie Sings at Cecil AM
 
-Debbie Sings at Cecil AM on Fri 27 Nov, Copenhagen. 3 acts on the bill: Debbie Sings, dragongirl and HEX ELECTRONIX. Techno and House. Preview the line-up and save it on soundcheck.
+Debbie Sings at Cecil AM on Fri 27 Nov, Copenhagen. 3 artists on the bill: Debbie Sings, dragongirl and HEX ELECTRONIX. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

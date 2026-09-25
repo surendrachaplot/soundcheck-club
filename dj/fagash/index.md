@@ -2,7 +2,7 @@
 
 FAGASH is a Bass and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The DBA, Manchester on Wed, 30 Sept 2026.
 
-FAGASH is a bass and trance artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside SDJ (1), maevie and ANT1 (2). Next up: The DBA, Manchester on Wed 30 Sept.
+FAGASH is a bass and trance artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside SDJ, maevie and ANT1. Next up: The DBA, Manchester on Wed 30 Sept.
 
 ## Upcoming shows
 

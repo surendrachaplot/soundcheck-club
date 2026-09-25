@@ -1,6 +1,6 @@
 # NT's Loft: Dam Swindle at Night Tales Loft
 
-NT's Loft: Dam Swindle at Night Tales Loft on Fri 9 Oct, London. 1 act on the bill: Dam Swindle. Preview the line-up and save it on soundcheck.
+NT's Loft: Dam Swindle at Night Tales Loft on Fri 9 Oct, London. 1 artist on the bill: Dam Swindle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

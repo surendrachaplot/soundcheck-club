@@ -1,6 +1,6 @@
 # RARE Club // Soul Mass Transit System presents: Grand Soul Central - All Night Long at Sneaky Pete's
 
-RARE Club // Soul Mass Transit System presents: Grand Soul Central - All Night Long at Sneaky Pete's on Tue 3 Nov, Edinburgh. 1 act on the bill: Soul Mass Transit System. House and Garage. Preview the line-up and save it on soundcheck.
+RARE Club // Soul Mass Transit System presents: Grand Soul Central - All Night Long at Sneaky Pete's on Tue 3 Nov, Edinburgh. 1 artist on the bill: Soul Mass Transit System. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

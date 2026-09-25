@@ -1,6 +1,6 @@
 # Bus zu 15 Jahre Extaso ins Glashaus, Worbis (Tekk) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt
 
-Bus zu 15 Jahre Extaso ins Glashaus, Worbis (Tekk) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 10 Oct, Frankfurt. 1 act on the bill: Cube. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Bus zu 15 Jahre Extaso ins Glashaus, Worbis (Tekk) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 10 Oct, Frankfurt. 1 artist on the bill: Cube. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

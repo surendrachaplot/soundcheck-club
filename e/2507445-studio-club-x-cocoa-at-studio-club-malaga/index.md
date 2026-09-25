@@ -1,6 +1,6 @@
 # Studio Club x COCOA at Studio Club Malaga
 
-Studio Club x COCOA at Studio Club Malaga on Sat 26 Sept, Malaga. 4 acts on the bill: Nick Curly, Salomé Le Chat, Sante Sansone and VITO (UK). Preview the line-up and save it on soundcheck.
+Studio Club x COCOA at Studio Club Malaga on Sat 26 Sept, Malaga. 4 artists on the bill: Nick Curly, Salomé Le Chat, Sante Sansone and VITO (UK). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

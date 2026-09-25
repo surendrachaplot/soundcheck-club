@@ -1,6 +1,6 @@
 # LED presents GorillaT with SVDKO at EQ San Diego
 
-LED presents GorillaT with SVDKO at EQ San Diego on Sat 17 Oct, Sandiego. Preview the line-up and save it on soundcheck.
+LED presents GorillaT with SVDKO at EQ San Diego on Sat 17 Oct, San Diego. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

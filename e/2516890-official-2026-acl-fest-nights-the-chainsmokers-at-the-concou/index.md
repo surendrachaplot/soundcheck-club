@@ -1,6 +1,6 @@
 # Official 2026 ACL Fest Nights: The Chainsmokers at The Concourse Project
 
-Official 2026 ACL Fest Nights: The Chainsmokers at The Concourse Project on Thu 1 Oct, Austin. 1 act on the bill: The Chainsmokers. Preview the line-up and save it on soundcheck.
+Official 2026 ACL Fest Nights: The Chainsmokers at The Concourse Project on Thu 1 Oct, Austin. 1 artist on the bill: The Chainsmokers. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

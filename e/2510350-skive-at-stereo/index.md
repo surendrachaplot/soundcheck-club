@@ -1,6 +1,6 @@
 # SKIVE at Stereo
 
-SKIVE at Stereo on Thu 24 Sept, Glasgow. 2 acts on the bill: Average Joe (2) and Loose E. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
+SKIVE at Stereo on Thu 24 Sept, Glasgow. 2 artists on the bill: Average Joe and Loose E. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

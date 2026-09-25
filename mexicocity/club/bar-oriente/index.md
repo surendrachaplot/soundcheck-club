@@ -2,7 +2,7 @@
 
 Bar Oriente is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Mucha Discoteca" on Thu, 24 Sept 2026.
 
-Bar Oriente is a music venue in Mexicocity listed on soundcheck. 8 upcoming gigs, with line-ups including AEREA, Andre VII, Borgetti and c3rpa and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
+Bar Oriente is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including AEREA, Andre VII, Borgetti and c3rpa and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 

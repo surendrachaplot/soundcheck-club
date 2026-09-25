@@ -1,6 +1,6 @@
 # SCHAMLOS PARTY - 20 JAHRE MILLENNIUM EDITION at Zakk
 
-SCHAMLOS PARTY - 20 JAHRE MILLENNIUM EDITION at Zakk on Sat 26 Sept, Dusseldorf. Techno and Pop. Preview the line-up and save it on soundcheck.
+SCHAMLOS PARTY - 20 JAHRE MILLENNIUM EDITION at Zakk on Sat 26 Sept, Düsseldorf. Techno and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

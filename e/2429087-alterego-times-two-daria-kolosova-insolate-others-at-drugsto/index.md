@@ -1,6 +1,6 @@
 # ALTEREGO: TIMES TWO | Daria Kolosova, Insolate + others at Drugstore Beograd
 
-ALTEREGO: TIMES TWO | Daria Kolosova, Insolate + others at Drugstore Beograd on Sat 17 Oct, Belgrade. 8 acts on the bill: Asarri, Daria Kolosova, Deeda and Gostoja and 4 more. Techno. Preview the line-up and save it on soundcheck.
+ALTEREGO: TIMES TWO | Daria Kolosova, Insolate + others at Drugstore Beograd on Sat 17 Oct, Belgrade. 8 artists on the bill: Asarri, Daria Kolosova, Deeda and Gostoja and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

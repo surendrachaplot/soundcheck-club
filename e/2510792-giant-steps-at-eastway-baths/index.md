@@ -1,6 +1,6 @@
 # GIANT STEPS at Eastway Baths
 
-GIANT STEPS at Eastway Baths on Sun 11 Oct, London. 1 act on the bill: Giles Smith. Preview the line-up and save it on soundcheck.
+GIANT STEPS at Eastway Baths on Sun 11 Oct, London. 1 artist on the bill: Giles Smith. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

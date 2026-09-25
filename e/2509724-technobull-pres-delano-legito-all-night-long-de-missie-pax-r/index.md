@@ -1,6 +1,6 @@
 # TECHNOBULL pres. Delano Legito All Night Long (De Missie, Pax Romana /NL) at Astoria
 
-TECHNOBULL pres. Delano Legito All Night Long (De Missie, Pax Romana /NL) at Astoria on Fri 27 Nov, Turin. 1 act on the bill: Delano Legito. Techno. Preview the line-up and save it on soundcheck.
+TECHNOBULL pres. Delano Legito All Night Long (De Missie, Pax Romana /NL) at Astoria on Fri 27 Nov, Turin. 1 artist on the bill: Delano Legito. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

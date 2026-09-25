@@ -1,6 +1,6 @@
 # techNOage, from three o`clock Clubbing at FLUCC
 
-techNOage, from three o`clock Clubbing at FLUCC on Sat 10 Oct, Vienna. 1 act on the bill: SNDR_Xone. Techno and Tech House. Preview the line-up and save it on soundcheck.
+techNOage, from three o`clock Clubbing at FLUCC on Sat 10 Oct, Vienna. 1 artist on the bill: SNDR_Xone. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

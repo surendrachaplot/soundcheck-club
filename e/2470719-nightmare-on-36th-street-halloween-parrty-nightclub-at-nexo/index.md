@@ -1,6 +1,6 @@
 # Nightmare on 36th Street Halloween Parrty Nightclub at Nexo
 
-Nightmare on 36th Street Halloween Parrty Nightclub at Nexo on Sat 31 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+Nightmare on 36th Street Halloween Parrty Nightclub at Nexo on Sat 31 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

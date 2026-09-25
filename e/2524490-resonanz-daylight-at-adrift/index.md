@@ -1,6 +1,6 @@
 # RESONANZ DAYLIGHT at Adrift
 
-RESONANZ DAYLIGHT at Adrift on Sat 28 Nov, Tokyo. 5 acts on the bill: Ayako Mori, EIJI, Kosuke and Risa Taniguchi and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+RESONANZ DAYLIGHT at Adrift on Sat 28 Nov, Tokyo. 5 artists on the bill: Ayako Mori, EIJI, Kosuke and Risa Taniguchi and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

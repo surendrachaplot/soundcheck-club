@@ -1,6 +1,6 @@
 # Boys Noize pres. ONES and ZEROS at Melkweg
 
-Boys Noize pres. ONES and ZEROS at Melkweg on Sat 24 Oct, Amsterdam. 3 acts on the bill: Boys Noize, Mechatok and SALOME. Electro and EBM. Preview the line-up and save it on soundcheck.
+Boys Noize pres. ONES and ZEROS at Melkweg on Sat 24 Oct, Amsterdam. 3 artists on the bill: Boys Noize, Mechatok and SALOME. Electro and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

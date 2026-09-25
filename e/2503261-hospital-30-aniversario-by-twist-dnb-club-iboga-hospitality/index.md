@@ -1,6 +1,6 @@
 # HOSPITAL 30 Aniversario by TWIST DNB CLUB +IBOGA+HOSPITALITY at La Riviera
 
-HOSPITAL 30 Aniversario by TWIST DNB CLUB +IBOGA+HOSPITALITY at La Riviera on Sat 5 Dec, Madrid. 4 acts on the bill: Camo & Krooked, Gabriella Bongo, Metrik and Pola & Bryson. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+HOSPITAL 30 Aniversario by TWIST DNB CLUB +IBOGA+HOSPITALITY at La Riviera on Sat 5 Dec, Madrid. 4 artists on the bill: Camo & Krooked, Gabriella Bongo, Metrik and Pola & Bryson. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

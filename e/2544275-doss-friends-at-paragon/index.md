@@ -1,6 +1,6 @@
 # Doss & Friends at Paragon
 
-Doss & Friends at Paragon on Thu 12 Nov, Newyorkcity. 1 act on the bill: Doss. Club. Preview the line-up and save it on soundcheck.
+Doss & Friends at Paragon on Thu 12 Nov, New York City. 1 artist on the bill: Doss. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

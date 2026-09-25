@@ -1,6 +1,6 @@
 # UNHOLY Halloween at TBA - Secret Warehouse
 
-UNHOLY Halloween at TBA - Secret Warehouse on Fri 30 Oct, Sandiego. 3 acts on the bill: -CZAR, C:3 and Memphy. Techno and House. Preview the line-up and save it on soundcheck.
+UNHOLY Halloween at TBA - Secret Warehouse on Fri 30 Oct, San Diego. 3 artists on the bill: -CZAR, C:3 and Memphy. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

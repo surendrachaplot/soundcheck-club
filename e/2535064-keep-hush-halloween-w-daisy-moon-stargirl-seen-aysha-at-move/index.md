@@ -1,6 +1,6 @@
 # Keep Hush: Halloween w/ Daisy Moon, Stargirl, Seen & Aysha at Movers
 
-Keep Hush: Halloween w/ Daisy Moon, Stargirl, Seen & Aysha at Movers on Sat 31 Oct, Nottingham. 2 acts on the bill: Daisy Moon and Seen. Bass and Garage. Preview the line-up and save it on soundcheck.
+Keep Hush: Halloween w/ Daisy Moon, Stargirl, Seen & Aysha at Movers on Sat 31 Oct, Nottingham. 2 artists on the bill: Daisy Moon and Seen. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

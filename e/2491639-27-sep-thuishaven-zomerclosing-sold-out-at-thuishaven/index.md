@@ -1,6 +1,6 @@
 # 27 SEP - Thuishaven Zomerclosing SOLD OUT at Thuishaven
 
-27 SEP - Thuishaven Zomerclosing SOLD OUT on Sun 27 Sept, Amsterdam. 13 acts on the bill: bebe bad, Benny Rodrigues, Benny2 and Boss Priester and 9 more. Preview the line-up and save it on soundcheck.
+27 SEP - Thuishaven Zomerclosing SOLD OUT on Sun 27 Sept, Amsterdam. 13 artists on the bill: bebe bad, Benny Rodrigues, Benny2 and Boss Priester and 9 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

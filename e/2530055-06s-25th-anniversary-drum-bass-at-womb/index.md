@@ -1,6 +1,6 @@
 # 06S 25TH ANNIVERSARY (DRUM&BASS) at WOMB
 
-06S 25TH ANNIVERSARY (DRUM&BASS) at WOMB on Fri 6 Nov, Tokyo. 1 act on the bill: Friction. Drum & Bass. Preview the line-up and save it on soundcheck.
+06S 25TH ANNIVERSARY (DRUM&BASS) at WOMB on Fri 6 Nov, Tokyo. 1 artist on the bill: Friction. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

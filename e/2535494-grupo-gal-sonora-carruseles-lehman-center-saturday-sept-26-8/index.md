@@ -1,6 +1,6 @@
 # GRUPO GALÉ & SONORA CARRUSELES @Lehman Center, Saturday, Sept. 26, @8PM at Lehman Center for the Performing Arts
 
-GRUPO GALÉ & SONORA CARRUSELES @Lehman Center, Saturday, Sept. 26, @8PM at Lehman Center for the Performing Arts on Sat 26 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+GRUPO GALÉ & SONORA CARRUSELES @Lehman Center, Saturday, Sept. 26, @8PM at Lehman Center for the Performing Arts on Sat 26 Sept, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

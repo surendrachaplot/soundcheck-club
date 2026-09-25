@@ -1,6 +1,6 @@
 # Purradox presents ØTTA HOTTIES ALBUM TOUR at Grelle Forelle
 
-Purradox presents ØTTA HOTTIES ALBUM TOUR at Grelle Forelle on Fri 2 Oct, Vienna. 8 acts on the bill: Eminelli, ninon., ØTTA and PAUNA and 4 more. Techno. Preview the line-up and save it on soundcheck.
+Purradox presents ØTTA HOTTIES ALBUM TOUR at Grelle Forelle on Fri 2 Oct, Vienna. 8 artists on the bill: Eminelli, ninon., ØTTA and PAUNA and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

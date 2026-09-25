@@ -1,6 +1,6 @@
 # Mondays:: at Club der Visionaere
 
-Mondays:: at Club der Visionaere on Mon 28 Sept, Berlin. 1 act on the bill: Masa Saji. Preview the line-up and save it on soundcheck.
+Mondays:: at Club der Visionaere on Mon 28 Sept, Berlin. 1 artist on the bill: Masa Saji. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

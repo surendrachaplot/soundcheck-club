@@ -1,6 +1,6 @@
 # Wrong Party! with Vladimir Ivkovic at La Cheetah Club
 
-Wrong Party! with Vladimir Ivkovic at La Cheetah Club on Sat 10 Oct, Glasgow. 2 acts on the bill: Vladimir Ivkovic and Wrong Party!. Preview the line-up and save it on soundcheck.
+Wrong Party! with Vladimir Ivkovic at La Cheetah Club on Sat 10 Oct, Glasgow. 2 artists on the bill: Vladimir Ivkovic and Wrong Party!. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

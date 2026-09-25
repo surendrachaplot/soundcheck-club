@@ -1,6 +1,6 @@
 # NEW WORLD XI: The FALL of NEW WORLD pt.1 [12 HOURS] at The White Hotel
 
-NEW WORLD XI: The FALL of NEW WORLD pt.1 [12 HOURS] at The White Hotel on Sat 10 Oct, Manchester. 7 acts on the bill: Alexi Shell, Exploited Body, Iglooghost and Peggy Viennetta and 3 more. Hardcore and Club. Preview the line-up and save it on soundcheck.
+NEW WORLD XI: The FALL of NEW WORLD pt.1 [12 HOURS] at The White Hotel on Sat 10 Oct, Manchester. 7 artists on the bill: Alexi Shell, Exploited Body, Iglooghost and Peggy Viennetta and 3 more. Hardcore and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

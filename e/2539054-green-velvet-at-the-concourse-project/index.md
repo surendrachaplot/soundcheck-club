@@ -1,6 +1,6 @@
 # Green Velvet at The Concourse Project
 
-Green Velvet at The Concourse Project on Sat 28 Nov, Austin. 1 act on the bill: Green Velvet. Preview the line-up and save it on soundcheck.
+Green Velvet at The Concourse Project on Sat 28 Nov, Austin. 1 artist on the bill: Green Velvet. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

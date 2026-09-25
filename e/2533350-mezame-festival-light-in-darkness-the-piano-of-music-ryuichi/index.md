@@ -1,6 +1,6 @@
 # MEZAME FESTIVAL: Light in Darkness ~ The Piano of Music Ryuichi Sakamoto at St. Bartholomew's Church
 
-MEZAME FESTIVAL: Light in Darkness ~ The Piano of Music Ryuichi Sakamoto at St. Bartholomew's Church on Fri 25 Sept, Newyorkcity. 1 act on the bill: Ryuichi Sakamoto. Ambient and Classical. Preview the line-up and save it on soundcheck.
+MEZAME FESTIVAL: Light in Darkness ~ The Piano of Music Ryuichi Sakamoto at St. Bartholomew's Church on Fri 25 Sept, New York City. 1 artist on the bill: Ryuichi Sakamoto. Ambient and Classical. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

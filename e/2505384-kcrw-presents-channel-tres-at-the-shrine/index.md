@@ -1,6 +1,6 @@
 # KCRW presents Channel Tres at The Shrine
 
-KCRW presents Channel Tres at The Shrine on Fri 23 Oct, Chicago. 1 act on the bill: Channel Tres. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+KCRW presents Channel Tres at The Shrine on Fri 23 Oct, Chicago. 1 artist on the bill: Channel Tres. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

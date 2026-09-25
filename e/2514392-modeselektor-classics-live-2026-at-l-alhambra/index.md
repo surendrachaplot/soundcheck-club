@@ -1,6 +1,6 @@
 # Modeselektor - Classics Live 2026 at L'Alhambra
 
-Modeselektor - Classics Live 2026 at L'Alhambra on Tue 6 Oct, Geneva. 1 act on the bill: Modeselektor. Preview the line-up and save it on soundcheck.
+Modeselektor - Classics Live 2026 at L'Alhambra on Tue 6 Oct, Geneva. 1 artist on the bill: Modeselektor. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

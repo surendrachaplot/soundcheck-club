@@ -2,7 +2,7 @@
 
 Lakuti is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
 
-Lakuti is a house and techno artist based in United Kingdom, tracked on soundcheck, with 198 sets logged across All, Amsterdam, Antwerp and Athens and 49 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Den Anden Side, Copenhagen on Sat 10 Oct.
+Lakuti is a house and techno artist based in United Kingdom, tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Den Anden Side, Copenhagen on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,7 +14,7 @@ Lakuti is a house and techno artist based in United Kingdom, tracked on soundche
 | Fri, 30 Oct 2026 | TBA | Chicago |
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
 | Sun, 1 Nov 2026 | Signal | New York City |
-| Wed, 3 Mar 2027 | El Rio Hostel | All |
+| Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
 

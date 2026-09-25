@@ -1,6 +1,6 @@
 # The House Factory - CH. 6 - Back To School at Opium - Botanical Garden Bar
 
-The House Factory - CH. 6 - Back To School at Opium - Botanical Garden Bar on Sat 26 Sept, Dublin. 2 acts on the bill: Eymen and W I S S. House and Tech House. Preview the line-up and save it on soundcheck.
+The House Factory - CH. 6 - Back To School at Opium - Botanical Garden Bar on Sat 26 Sept, Dublin. 2 artists on the bill: Eymen and W I S S. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

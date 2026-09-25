@@ -1,6 +1,6 @@
 # OASIS Boat Party Amsterdam — ADE Edition at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands
 
-OASIS Boat Party Amsterdam — ADE Edition at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands on Sun 25 Oct, Amsterdam. 3 acts on the bill: charuso, NoMore and Sunday Soulman. House and Deep House. Preview the line-up and save it on soundcheck.
+OASIS Boat Party Amsterdam — ADE Edition at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands on Sun 25 Oct, Amsterdam. 2 artists on the bill: charuso and NoMore. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ OASIS Boat Party Amsterdam — ADE Edition at TBA - De Ruijterkade 14, 1012 AA A
 
 - charuso
 - NoMore
-- Sunday Soulman
 
 *Source: [soundcheck](https://soundcheck.club/e/2544186-oasis-boat-party-amsterdam-ade-edition-at-tba-de-ruijterkade/)*

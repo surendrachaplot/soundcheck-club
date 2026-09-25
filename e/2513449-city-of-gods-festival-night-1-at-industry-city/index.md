@@ -1,6 +1,6 @@
 # City of Gods Festival: Night 1 at Industry City
 
-City of Gods Festival: Night 1 at Industry City on Fri 23 Oct, Newyorkcity. Techno and House. Preview the line-up and save it on soundcheck.
+City of Gods Festival: Night 1 at Industry City on Fri 23 Oct, New York City. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

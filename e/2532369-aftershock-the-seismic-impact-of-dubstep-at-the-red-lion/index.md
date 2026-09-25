@@ -1,6 +1,6 @@
 # Aftershock: The Seismic Impact of Dubstep at The Red Lion
 
-Aftershock: The Seismic Impact of Dubstep at The Red Lion on Fri 16 Oct, London. 1 act on the bill: Benny Ill. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Aftershock: The Seismic Impact of Dubstep at The Red Lion on Fri 16 Oct, London. 1 artist on the bill: Benny Ill. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dance Spirit pres. 'LUNATIC' Album Launch at Bar Franca
 
-Dance Spirit pres. 'LUNATIC' Album Launch at Bar Franca on Fri 25 Sept, Losangeles. 3 acts on the bill: Dance Spirit, Jackson Englund and Robotek Reagan. Minimal and Electronica. Preview the line-up and save it on soundcheck.
+Dance Spirit pres. 'LUNATIC' Album Launch at Bar Franca on Fri 25 Sept, Los Angeles. 3 artists on the bill: Dance Spirit, Jackson Englund and Robotek Reagan. Minimal and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

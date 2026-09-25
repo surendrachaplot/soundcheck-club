@@ -1,6 +1,6 @@
 # Brijean (DJ Set) at Camille's at The Bellwether
 
-Brijean (DJ Set) at Camille's at The Bellwether on Sat 31 Oct, Losangeles. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Brijean (DJ Set) at Camille's at The Bellwether on Sat 31 Oct, Los Angeles. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

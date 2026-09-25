@@ -1,6 +1,6 @@
 # 2 Years of Citadel w/Brutal Forms at STK 47 WAREHOUSE
 
-2 Years of Citadel w/Brutal Forms at STK 47 WAREHOUSE on Fri 27 Nov, Krakow. 4 acts on the bill: Forest (PL), Lyor Kalt, Skumring_ and Zeitreise. Preview the line-up and save it on soundcheck.
+2 Years of Citadel w/Brutal Forms at STK 47 WAREHOUSE on Fri 27 Nov, Krakow. 4 artists on the bill: Forest (PL), Lyor Kalt, Skumring_ and Zeitreise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

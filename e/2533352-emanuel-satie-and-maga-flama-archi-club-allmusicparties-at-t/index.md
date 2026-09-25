@@ -1,6 +1,6 @@
 # Emanuel Satie and MAGA - Flama, Archi Club - ALLMusicParties at TBA - Archi Club, Costanera
 
-Emanuel Satie and MAGA - Flama, Archi Club - ALLMusicParties at TBA - Archi Club, Costanera on Sat 3 Oct, Buenosaires. 2 acts on the bill: Emanuel Satie and MAGA. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Emanuel Satie and MAGA - Flama, Archi Club - ALLMusicParties at TBA - Archi Club, Costanera on Sat 3 Oct, Buenos Aires. 2 artists on the bill: Emanuel Satie and MAGA. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 sumkind is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Los Angeles on Thu, 1 Oct 2026.
 
-sumkind is a house and acid artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles, Miami and Newyorkcity. Often billed alongside Devon James, Sosh & Mosh and Adrian Hex. Next up: TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Losangeles on Thu 1 Oct.
+sumkind is a house and acid artist based in United States of America, tracked on soundcheck, with 6 sets logged across Los Angeles, Miami and New York City. Often billed alongside Devon James, Sosh & Mosh and Adrian Hex. Next up: TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Los Angeles on Thu 1 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Mondo at 93 Feet East
 
-Mondo at 93 Feet East on Sat 5 Dec, London. 3 acts on the bill: Darren Tate, nümind and Simon Gregory. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Mondo at 93 Feet East on Sat 5 Dec, London. 3 artists on the bill: Darren Tate, nümind and Simon Gregory. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

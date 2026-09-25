@@ -1,6 +1,6 @@
 # C12 Nite x Museum Night Fever with Hyperaktivist, Keyser, NMSS, Vera Moro at C12
 
-C12 Nite x Museum Night Fever with Hyperaktivist, Keyser, NMSS, Vera Moro on Sat 17 Oct, Brussels. 5 acts on the bill: Hyperaktivist, Keyser, Laura Charlier and NMSS and 1 more. Techno and Latin Bass. Preview the line-up and save it on soundcheck.
+C12 Nite x Museum Night Fever with Hyperaktivist, Keyser, NMSS, Vera Moro on Sat 17 Oct, Brussels. 5 artists on the bill: Hyperaktivist, Keyser, Laura Charlier and NMSS and 1 more. Techno and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Eat The Beat Saturdays - Oct 3 at TBA - Il Mercato Centrale
 
-Eat The Beat Saturdays - Oct 3 at TBA - Il Mercato Centrale on Sat 3 Oct, Melbourne. 1 act on the bill: Meeka. Trance and Techno. Preview the line-up and save it on soundcheck.
+Eat The Beat Saturdays - Oct 3 at TBA - Il Mercato Centrale on Sat 3 Oct, Melbourne. 1 artist on the bill: Meeka. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

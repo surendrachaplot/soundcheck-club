@@ -1,6 +1,6 @@
 # Sound Assembly  // shekdash, Khiari Bakar, Baejawn at Bastet
 
-Sound Assembly  // shekdash, Khiari Bakar, Baejawn at Bastet on Sat 3 Oct, Philadelphia. 3 acts on the bill: Baejawn, Khiari Bakar and shekdash. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Sound Assembly  // shekdash, Khiari Bakar, Baejawn at Bastet on Sat 3 Oct, Philadelphia. 3 artists on the bill: Baejawn, Khiari Bakar and shekdash. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

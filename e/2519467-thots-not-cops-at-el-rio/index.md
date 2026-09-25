@@ -1,6 +1,6 @@
 # Thots Not Cops at El Rio
 
-Thots Not Cops at El Rio on Thu 24 Sept, Sanfrancisco. 2 acts on the bill: DJ Ari B and GHOST MILK. Techno and Club. Preview the line-up and save it on soundcheck.
+Thots Not Cops at El Rio on Thu 24 Sept, San Francisco/Oakland. 2 artists on the bill: DJ Ari B and GHOST MILK. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

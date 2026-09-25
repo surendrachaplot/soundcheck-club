@@ -1,6 +1,6 @@
 # Sacré présente: O'FLYNN 'KAIROS' Release & Loulou Ferrari at Sacré
 
-Sacré présente: O'FLYNN 'KAIROS' Release & Loulou Ferrari on Sat 7 Nov, Paris. 2 acts on the bill: Loulou Ferrari and O'Flynn. House. Preview the line-up and save it on soundcheck.
+Sacré présente: O'FLYNN 'KAIROS' Release & Loulou Ferrari on Sat 7 Nov, Paris. 2 artists on the bill: Loulou Ferrari and O'Flynn. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

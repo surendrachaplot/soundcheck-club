@@ -2,7 +2,7 @@
 
 MANGUMAMI is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
-MANGUMAMI is a club and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Boston, Miami, Newyorkcity and Philadelphia and 2 more. Often billed alongside EL SUCIO, CMD+JAZMINE and ellen.j. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
+MANGUMAMI is a club and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Boston, Miami, New York City and Philadelphia and 2 more. Often billed alongside EL SUCIO, CMD+JAZMINE and ellen.j. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Guy Mantzur - Somos Produce, Espacio Chn - ALLMusicParties at TBA - Espacio CHN, Ituzaingo
 
-Guy Mantzur - Somos Produce, Espacio Chn - ALLMusicParties at TBA - Espacio CHN, Ituzaingo on Fri 2 Oct, Buenosaires. 1 act on the bill: Guy Mantzur. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Guy Mantzur - Somos Produce, Espacio Chn - ALLMusicParties at TBA - Espacio CHN, Ituzaingo on Fri 2 Oct, Buenos Aires. 1 artist on the bill: Guy Mantzur. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

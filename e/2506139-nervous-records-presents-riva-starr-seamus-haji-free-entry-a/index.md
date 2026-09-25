@@ -1,6 +1,6 @@
 # Nervous Records presents: Riva Starr + Seamus Haji (Free Entry) at ZeyZey
 
-Nervous Records presents: Riva Starr + Seamus Haji (Free Entry) at ZeyZey on Sat 26 Sept, Miami. 1 act on the bill: Riva Starr. House. Preview the line-up and save it on soundcheck.
+Nervous Records presents: Riva Starr + Seamus Haji (Free Entry) at ZeyZey on Sat 26 Sept, Miami. 1 artist on the bill: Riva Starr. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

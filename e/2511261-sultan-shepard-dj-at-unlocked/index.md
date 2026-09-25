@@ -1,6 +1,6 @@
 # Sultan + Shepard (DJ) at UNLOCKED
 
-Sultan + Shepard (DJ) at UNLOCKED on Fri 23 Oct, London. 1 act on the bill: Sultan + Shepard. Preview the line-up and save it on soundcheck.
+Sultan + Shepard (DJ) at UNLOCKED on Fri 23 Oct, London. 1 artist on the bill: Sultan + Shepard. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

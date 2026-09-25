@@ -1,6 +1,6 @@
 # Prosumer - Carrieondisco - DJ M3 - Chuck Gunn at Monarch
 
-Prosumer - Carrieondisco - DJ M3 - Chuck Gunn at Monarch on Fri 2 Oct, Sanfrancisco. 4 acts on the bill: Carrieondisco, Chuck Gunn, DJ M3 and Prosumer. House and Disco. Preview the line-up and save it on soundcheck.
+Prosumer - Carrieondisco - DJ M3 - Chuck Gunn at Monarch on Fri 2 Oct, San Francisco/Oakland. 4 artists on the bill: Carrieondisco, Chuck Gunn, DJ M3 and Prosumer. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

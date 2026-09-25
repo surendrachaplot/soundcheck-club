@@ -1,6 +1,6 @@
 # fuego with Sedaction, Ibizer, LAIDA, Laundry Service at Golden Pudel Club
 
-fuego with Sedaction, Ibizer, LAIDA, Laundry Service at Golden Pudel Club on Sat 26 Sept, Hamburg. 3 acts on the bill: Ibizer, Laundry Service and Sedaction. Techno and House. Preview the line-up and save it on soundcheck.
+fuego with Sedaction, Ibizer, LAIDA, Laundry Service at Golden Pudel Club on Sat 26 Sept, Hamburg. 3 artists on the bill: Ibizer, Laundry Service and Sedaction. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

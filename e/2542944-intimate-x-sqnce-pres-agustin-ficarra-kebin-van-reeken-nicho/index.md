@@ -1,6 +1,6 @@
 # INTIMATE x sqnce pres.  Agustin Ficarra, Kebin van Reeken, Nicholas Van Orton at Opposite
 
-INTIMATE x sqnce pres.  Agustin Ficarra, Kebin van Reeken, Nicholas Van Orton at Opposite on Fri 16 Oct, Barcelona. 5 acts on the bill: Agustin Ficarra, Kebin van Reeken, Nicholas Van Orton and SANIRR and 1 more. Progressive House. Preview the line-up and save it on soundcheck.
+INTIMATE x sqnce pres.  Agustin Ficarra, Kebin van Reeken, Nicholas Van Orton at Opposite on Fri 16 Oct, Barcelona. 5 artists on the bill: Agustin Ficarra, Kebin van Reeken, Nicholas Van Orton and SANIRR and 1 more. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

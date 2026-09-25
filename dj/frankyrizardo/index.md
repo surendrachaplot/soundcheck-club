@@ -1,8 +1,8 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Royale, Boston on Fri, 25 Sept 2026.
+Franky Rizardo is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Royale, Boston on Fri, 25 Sept 2026.
 
-Franky Rizardo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 244 sets logged across Amsterdam, Austin, Bali and Barcelona and 46 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Royale, Boston on Fri 25 Sept.
+Franky Rizardo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 246 sets logged across Amsterdam, Austin, Bali and Barcelona and 48 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Royale, Boston on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Franky Rizardo is a house and tech house artist based in Netherlands, tracked on
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
+| Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
-| Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 
 ## Recently played
 

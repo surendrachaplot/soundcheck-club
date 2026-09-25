@@ -1,6 +1,6 @@
 # Music for the Masses: Dark 80's New Wave Halloween [Los Angeles] at The Moroccan Lounge
 
-Music for the Masses: Dark 80's New Wave Halloween [Los Angeles] at The Moroccan Lounge on Fri 30 Oct, Losangeles. New Wave. Preview the line-up and save it on soundcheck.
+Music for the Masses: Dark 80's New Wave Halloween [Los Angeles] at The Moroccan Lounge on Fri 30 Oct, Los Angeles. New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

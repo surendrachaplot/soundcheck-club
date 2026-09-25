@@ -1,6 +1,6 @@
 # BRICK at Hangar48 Club
 
-BRICK at Hangar48 Club on Sat 26 Sept, Madrid. 4 acts on the bill: COSUS CLUB, K:ANN, Le Bulla and Semaneo. Techno and Tech House. Preview the line-up and save it on soundcheck.
+BRICK at Hangar48 Club on Sat 26 Sept, Madrid. 4 artists on the bill: COSUS CLUB, K:ANN, Le Bulla and Semaneo. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

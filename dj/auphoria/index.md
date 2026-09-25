@@ -2,7 +2,7 @@
 
 Auphoria is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mad Radio Miami, Miami on Thu, 24 Sept 2026.
 
-Auphoria is a house and minimal artist based in Argentina, tracked on soundcheck, with 69 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Armii1n, Jeny Michelle and Choukroun. Next up: Mad Radio Miami, Miami on Thu 24 Sept.
+Auphoria is a house and minimal artist based in Argentina, tracked on soundcheck, with 69 sets logged across Mexico City, Miami and New York City. Often billed alongside Armii1n, Jeny Michelle and Choukroun. Next up: Mad Radio Miami, Miami on Thu 24 Sept.
 
 ## Upcoming shows
 

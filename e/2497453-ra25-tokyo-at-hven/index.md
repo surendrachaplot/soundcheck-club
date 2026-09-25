@@ -1,6 +1,6 @@
 # RA25: Tokyo at HVEN
 
-RA25: Tokyo at HVEN on Sat 3 Oct, Tokyo. 5 acts on the bill: DJ Healthy, DJ MARIA., Kombé and Mari Sakurai and 1 more. Preview the line-up and save it on soundcheck.
+RA25: Tokyo at HVEN on Sat 3 Oct, Tokyo. 5 artists on the bill: DJ Healthy, DJ MARIA., Kombé and Mari Sakurai and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

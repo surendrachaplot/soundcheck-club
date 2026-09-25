@@ -1,6 +1,6 @@
 # PEW26 - Initiation à la production avec Drawbridge at Mains D'œuvres
 
-PEW26 - Initiation à la production avec Drawbridge at Mains D'œuvres on Sun 4 Oct, Paris. 1 act on the bill: Drawbridge. Preview the line-up and save it on soundcheck.
+PEW26 - Initiation à la production avec Drawbridge at Mains D'œuvres on Sun 4 Oct, Paris. 1 artist on the bill: Drawbridge. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

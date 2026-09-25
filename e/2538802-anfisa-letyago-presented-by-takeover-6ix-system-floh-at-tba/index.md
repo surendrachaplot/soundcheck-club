@@ -1,6 +1,6 @@
 # ANFISA LETYAGO presented by TAKEOVER 6IX / system / FLOH at TBA - Toronto
 
-ANFISA LETYAGO presented by TAKEOVER 6IX / system / FLOH at TBA - Toronto on Sat 17 Oct, Toronto. 2 acts on the bill: Anfisa Letyago and Nótt. Techno. Preview the line-up and save it on soundcheck.
+ANFISA LETYAGO presented by TAKEOVER 6IX / system / FLOH at TBA - Toronto on Sat 17 Oct, Toronto. 2 artists on the bill: Anfisa Letyago and Nótt. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

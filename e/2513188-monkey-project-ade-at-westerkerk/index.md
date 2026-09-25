@@ -1,6 +1,6 @@
 # Monkey Project [ADE] at Westerkerk
 
-Monkey Project [ADE] at Westerkerk on Wed 21 Oct, Amsterdam. 4 acts on the bill: Charmeine, People Like Us (3), Tripolism and WhoMadeWho. House. Preview the line-up and save it on soundcheck.
+Monkey Project [ADE] at Westerkerk on Wed 21 Oct, Amsterdam. 4 artists on the bill: Charmeine, People Like Us, Tripolism and WhoMadeWho. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

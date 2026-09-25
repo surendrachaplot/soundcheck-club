@@ -1,6 +1,6 @@
 # Notion: NYC POP-UP at TBA
 
-Notion: NYC POP-UP at TBA on Fri 25 Sept, Newyorkcity. 1 act on the bill: Notion. House and Garage. Preview the line-up and save it on soundcheck.
+Notion: NYC POP-UP at TBA on Fri 25 Sept, New York City. 1 artist on the bill: Notion. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cailín x Sarah Lennox x SEMAE at The Racket Space
 
-Cailín x Sarah Lennox x SEMAE at The Racket Space on Fri 9 Oct, Dublin. 3 acts on the bill: Cailín, Sarah Lennox and Sémaé. Techno. Preview the line-up and save it on soundcheck.
+Cailín x Sarah Lennox x SEMAE at The Racket Space on Fri 9 Oct, Dublin. 3 artists on the bill: Cailín, Sarah Lennox and Sémaé. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

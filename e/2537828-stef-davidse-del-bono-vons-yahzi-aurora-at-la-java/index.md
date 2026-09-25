@@ -1,6 +1,6 @@
 # Stef Davidse, Del Bono, Vons & Yahzi: Aurora at La Java
 
-Stef Davidse, Del Bono, Vons & Yahzi: Aurora at La Java on Sat 10 Oct, Paris. 3 acts on the bill: Stef Davidse, Vons (FR) and Yahzi. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Stef Davidse, Del Bono, Vons & Yahzi: Aurora at La Java on Sat 10 Oct, Paris. 3 artists on the bill: Stef Davidse, Vons (FR) and Yahzi. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

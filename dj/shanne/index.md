@@ -2,7 +2,7 @@
 
 Shanne is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Radio Radio, Amsterdam on Fri, 25 Sept 2026.
 
-Shanne is a house and tech house artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Job de Jong, Anil Aras and M-High. Next up: Radio Radio, Amsterdam on Fri 25 Sept.
+Shanne is a house and tech house artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Job de Jong, Anil Aras and M-High. Next up: Radio Radio, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 

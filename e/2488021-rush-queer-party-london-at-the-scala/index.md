@@ -1,6 +1,6 @@
 # Rush Queer Party London at The Scala
 
-Rush Queer Party London at The Scala on Fri 25 Sept, London. 3 acts on the bill: J. Aria, Liam Parsons and Perdiem. Tech House and Pop. Preview the line-up and save it on soundcheck.
+Rush Queer Party London at The Scala on Fri 25 Sept, London. 3 artists on the bill: J. Aria, Liam Parsons and Perdiem. Tech House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

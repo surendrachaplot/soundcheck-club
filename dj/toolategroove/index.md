@@ -2,7 +2,7 @@
 
 Toolate Groove is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Quai De Heembeek, Brussels on Tue, 29 Sept 2026.
 
-Toolate Groove is a house and techno artist based in Belgium, tracked on soundcheck, with 37 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 4 more. Often billed alongside Bass Toast, EG (1) and Fiona Zanetti. Next up: TBA - Quai De Heembeek, Brussels on Tue 29 Sept.
+Toolate Groove is a house and techno artist based in Belgium, tracked on soundcheck, with 37 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 4 more. Often billed alongside Bass Toast, EG and Fiona Zanetti. Next up: TBA - Quai De Heembeek, Brussels on Tue 29 Sept.
 
 ## Upcoming shows
 

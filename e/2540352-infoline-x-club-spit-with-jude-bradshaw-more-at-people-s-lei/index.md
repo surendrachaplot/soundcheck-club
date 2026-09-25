@@ -1,6 +1,6 @@
 # INFOLINE x Club Spit with Jude Bradshaw + more at People's Leisure Club
 
-INFOLINE x Club Spit with Jude Bradshaw + more at People's Leisure Club on Sat 26 Sept, Edinburgh. 3 acts on the bill: cara hegarty, Jude Bradshaw and Mixfits (2). House and Garage. Preview the line-up and save it on soundcheck.
+INFOLINE x Club Spit with Jude Bradshaw + more at People's Leisure Club on Sat 26 Sept, Edinburgh. 3 artists on the bill: cara hegarty, Jude Bradshaw and Mixfits. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

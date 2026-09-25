@@ -1,6 +1,6 @@
 # RIOT CLUB: Dres Codex , Zaphy, Arok Shiva at EL SÓTANO
 
-RIOT CLUB: Dres Codex , Zaphy, Arok Shiva at EL SÓTANO on Sun 18 Oct, Madrid. 3 acts on the bill: Arok Shiva, Dres Codex and Zaphy. Trance and Techno. Preview the line-up and save it on soundcheck.
+RIOT CLUB: Dres Codex , Zaphy, Arok Shiva at EL SÓTANO on Sun 18 Oct, Madrid. 3 artists on the bill: Arok Shiva, Dres Codex and Zaphy. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

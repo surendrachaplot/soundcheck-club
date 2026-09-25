@@ -1,6 +1,6 @@
 # FEED #11 with Adriana Lopez (PoleGroup / Semantica / Grey Report) at Noce KRK
 
-FEED #11 with Adriana Lopez (PoleGroup / Semantica / Grey Report) at Noce KRK on Fri 13 Nov, Krakow. 1 act on the bill: Adriana Lopez. Techno. Preview the line-up and save it on soundcheck.
+FEED #11 with Adriana Lopez (PoleGroup / Semantica / Grey Report) at Noce KRK on Fri 13 Nov, Krakow. 1 artist on the bill: Adriana Lopez. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

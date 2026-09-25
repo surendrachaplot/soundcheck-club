@@ -1,6 +1,6 @@
 # Flug + Gustavo Lopez + Carol Nyx at Moog Club
 
-Flug + Gustavo Lopez + Carol Nyx at Moog Club on Sun 4 Oct, Barcelona. 2 acts on the bill: Flug and Gustavo Lopez. Techno. Preview the line-up and save it on soundcheck.
+Flug + Gustavo Lopez + Carol Nyx at Moog Club on Sun 4 Oct, Barcelona. 2 artists on the bill: Flug and Gustavo Lopez. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

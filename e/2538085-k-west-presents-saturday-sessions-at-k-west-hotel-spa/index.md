@@ -1,6 +1,6 @@
 # K west presents Saturday sessions at K West Hotel & Spa
 
-K west presents Saturday sessions at K West Hotel & Spa on Sat 3 Oct, London. 2 acts on the bill: Bread & Butter and Itswilliamquintero. Preview the line-up and save it on soundcheck.
+K west presents Saturday sessions at K West Hotel & Spa on Sat 3 Oct, London. 2 artists on the bill: Bread & Butter and Itswilliamquintero. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

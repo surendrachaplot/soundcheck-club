@@ -1,6 +1,6 @@
 # The Barbary pres. Late London at The Barbary
 
-The Barbary pres. Late London on Fri 25 Sept, Philadelphia. 1 act on the bill: Late London. House and Tech House. Preview the line-up and save it on soundcheck.
+The Barbary pres. Late London on Fri 25 Sept, Philadelphia. 1 artist on the bill: Late London. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

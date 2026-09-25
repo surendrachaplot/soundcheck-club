@@ -1,6 +1,6 @@
 # Perreo Meets Techno (21+) at The Meadows
 
-Perreo Meets Techno (21+) at The Meadows on Fri 23 Oct, Newyorkcity. Techno and Reggaeton. Preview the line-up and save it on soundcheck.
+Perreo Meets Techno (21+) at The Meadows on Fri 23 Oct, New York City. Techno and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

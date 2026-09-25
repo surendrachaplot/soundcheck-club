@@ -1,6 +1,6 @@
 # Demonic Frequencies presents (21+) Techno Set at The Delancey
 
-Demonic Frequencies presents (21+) Techno Set at The Delancey on Thu 24 Sept, Newyorkcity. Trance and Techno. Preview the line-up and save it on soundcheck.
+Demonic Frequencies presents (21+) Techno Set at The Delancey on Thu 24 Sept, New York City. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

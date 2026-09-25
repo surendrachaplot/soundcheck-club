@@ -1,6 +1,6 @@
 # CAIVA, Vixen, steamboi at Hangaren
 
-CAIVA, Vixen, steamboi at Hangaren on Sat 24 Oct, Copenhagen. 3 acts on the bill: CAIVA, steamboi and Vixen. Trance and Techno. Preview the line-up and save it on soundcheck.
+CAIVA, Vixen, steamboi at Hangaren on Sat 24 Oct, Copenhagen. 3 artists on the bill: CAIVA, steamboi and Vixen. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

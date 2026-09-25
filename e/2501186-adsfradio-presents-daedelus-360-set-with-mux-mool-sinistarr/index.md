@@ -1,6 +1,6 @@
 # @adsfradio presents: Daedelus (360 set) with Mux Mool, Sinistarr b2b J Bolivar, Despise at The Black Box
 
-@adsfradio presents: Daedelus (360 set) with Mux Mool, Sinistarr b2b J Bolivar, Despise at The Black Box on Fri 25 Sept, Denver. 3 acts on the bill: Daedelus, Mux Mool and Sinistarr. Bass and Experimental. Preview the line-up and save it on soundcheck.
+@adsfradio presents: Daedelus (360 set) with Mux Mool, Sinistarr b2b J Bolivar, Despise at The Black Box on Fri 25 Sept, Denver. 3 artists on the bill: Daedelus, Mux Mool and Sinistarr. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

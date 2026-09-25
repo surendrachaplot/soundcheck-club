@@ -1,6 +1,6 @@
 # LED presents Sammy Virji with Joy Anonymous, Baby J, Sweet Like Chocolate. + Jana Tokunaga at Gallagher Square
 
-LED presents Sammy Virji with Joy Anonymous, Baby J, Sweet Like Chocolate. + Jana Tokunaga at Gallagher Square on Sat 17 Oct, Sandiego. 3 acts on the bill: Baby J (2), Sammy Virji and Sweet Like Chocolate. Preview the line-up and save it on soundcheck.
+LED presents Sammy Virji with Joy Anonymous, Baby J, Sweet Like Chocolate. + Jana Tokunaga at Gallagher Square on Sat 17 Oct, San Diego. 3 artists on the bill: Baby J, Sammy Virji and Sweet Like Chocolate. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

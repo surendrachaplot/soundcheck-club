@@ -1,6 +1,6 @@
 # Laidback Luke at Joshua Brooks
 
-Laidback Luke at Joshua Brooks on Fri 13 Nov, Manchester. 1 act on the bill: Laidback Luke. House. Preview the line-up and save it on soundcheck.
+Laidback Luke at Joshua Brooks on Fri 13 Nov, Manchester. 1 artist on the bill: Laidback Luke. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

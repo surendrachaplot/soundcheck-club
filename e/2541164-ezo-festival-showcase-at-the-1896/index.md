@@ -1,6 +1,6 @@
 # eZo Festival Showcase at The 1896
 
-eZo Festival Showcase at The 1896 on Sat 17 Oct, Newyorkcity. 8 acts on the bill: Boo Williams, Gabunia, Generali Minerali and Rati and 4 more. House. Preview the line-up and save it on soundcheck.
+eZo Festival Showcase at The 1896 on Sat 17 Oct, New York City. 8 artists on the bill: Boo Williams, Gabunia, Generali Minerali and Rati and 4 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

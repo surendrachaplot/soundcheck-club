@@ -1,6 +1,6 @@
 # South Side Hotel vol.46 at Teranoma Tidepool
 
-South Side Hotel vol.46 at Teranoma Tidepool on Sat 3 Oct, Osaka. 4 acts on the bill: DJ Monchan, Mercy., Motel Paraiso and sumi’. House and Deep House. Preview the line-up and save it on soundcheck.
+South Side Hotel vol.46 at Teranoma Tidepool on Sat 3 Oct, Osaka. 4 artists on the bill: DJ Monchan, Mercy., Motel Paraiso and sumi’. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

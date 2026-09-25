@@ -1,6 +1,6 @@
 # FLEX: In the BÜFF - Los Angeles at Faultline Bar
 
-FLEX: In the BÜFF - Los Angeles at Faultline Bar on Sat 17 Oct, Losangeles. Deep House and Club. Preview the line-up and save it on soundcheck.
+FLEX: In the BÜFF - Los Angeles at Faultline Bar on Sat 17 Oct, Los Angeles. Deep House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

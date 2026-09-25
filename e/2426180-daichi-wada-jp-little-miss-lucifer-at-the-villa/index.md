@@ -1,6 +1,6 @@
 # Daichi Wada (JP) + Little Miss Lucifer at The Villa
 
-Daichi Wada (JP) + Little Miss Lucifer at The Villa on Fri 9 Oct, Oslo. 1 act on the bill: Daichi Wada. Techno and Electro. Preview the line-up and save it on soundcheck.
+Daichi Wada (JP) + Little Miss Lucifer at The Villa on Fri 9 Oct, Oslo. 1 artist on the bill: Daichi Wada. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DNIT: Martyn (Live) + Just Claudia (DJ Set) at Caixaforum
 
-DNIT: Martyn (Live) + Just Claudia (DJ Set) at Caixaforum on Fri 27 Nov, Barcelona. 2 acts on the bill: Just Claudia and Martyn. Preview the line-up and save it on soundcheck.
+DNIT: Martyn (Live) + Just Claudia (DJ Set) at Caixaforum on Fri 27 Nov, Barcelona. 2 artists on the bill: Just Claudia and Martyn. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

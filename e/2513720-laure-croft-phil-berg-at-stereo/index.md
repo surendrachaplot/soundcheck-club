@@ -1,6 +1,6 @@
 # Laure Croft - Phil Berg at Stereo
 
-Laure Croft - Phil Berg at Stereo on Fri 2 Oct, Montreal. 2 acts on the bill: Laure Croft and Phil Berg. Preview the line-up and save it on soundcheck.
+Laure Croft - Phil Berg at Stereo on Fri 2 Oct, Montreal. 2 artists on the bill: Laure Croft and Phil Berg. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

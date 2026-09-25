@@ -2,7 +2,7 @@
 
 grunge mum is a Techno and Guaracha artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bossa Nova Civic Club, New York City on Mon, 28 Sept 2026.
 
-grunge mum is a techno and guaracha artist based in United States of America, tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside DJ ATTENTION, SINKITTY and elle xxo. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 28 Sept.
+grunge mum is a techno and guaracha artist based in United States of America, tracked on soundcheck, with 14 sets logged across New York City. Often billed alongside DJ ATTENTION, SINKITTY and elle xxo. Next up: Bossa Nova Civic Club, New York City on Mon 28 Sept.
 
 ## Upcoming shows
 

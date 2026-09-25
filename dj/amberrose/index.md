@@ -1,14 +1,14 @@
 # Amber Rose
 
-Amber Rose is a Garage and Amapiano artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Brick Street, Liverpool on Fri, 25 Sept 2026.
+Amber Rose is a Garage and Amapiano artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 24 Kitchen Street, Liverpool on Fri, 25 Sept 2026.
 
-Amber Rose is a garage and amapiano artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Brighton, Liverpool, London and Manchester. Often billed alongside Papu Raf, Miggs and Matica. Next up: Brick Street, Liverpool on Fri 25 Sept.
+Amber Rose is a garage and amapiano artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Brighton, Liverpool, London and Manchester. Often billed alongside Papu Raf, Miggs and Matica. Next up: 24 Kitchen Street, Liverpool on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Brick Street | Liverpool |
+| Fri, 25 Sept 2026 | 24 Kitchen Street | Liverpool |
 | Sat, 10 Oct 2026 | Ninety One | London |
 | Fri, 27 Nov 2026 | 24 Kitchen Street | Liverpool |
 

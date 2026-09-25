@@ -1,6 +1,6 @@
 # Elie & LegenDari at MAD Radio NYC
 
-Elie & LegenDari at MAD Radio NYC on Fri 25 Sept, Newyorkcity. 2 acts on the bill: Elie and LegenDari. House. Preview the line-up and save it on soundcheck.
+Elie & LegenDari at MAD Radio NYC on Fri 25 Sept, New York City. 2 artists on the bill: Elie and LegenDari. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Archive 404 at Supermarket
 
-Archive 404 at Supermarket on Fri 2 Oct, Zurich. 3 acts on the bill: Carol Fernandez, Franc Fala and Sam Madi. Preview the line-up and save it on soundcheck.
+Archive 404 at Supermarket on Fri 2 Oct, Zurich. 3 artists on the bill: Carol Fernandez, Franc Fala and Sam Madi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

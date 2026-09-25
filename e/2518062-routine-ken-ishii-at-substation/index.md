@@ -1,6 +1,6 @@
 # Routine: Ken Ishii at Substation
 
-Routine: Ken Ishii at Substation on Sun 25 Oct, Seattle. 1 act on the bill: Ken Ishii. Techno. Preview the line-up and save it on soundcheck.
+Routine: Ken Ishii at Substation on Sun 25 Oct, Seattle. 1 artist on the bill: Ken Ishii. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Psychosis: Halloween Party Pt. 2 of 4 - Mike Servito, Sister System, Acid Mama, beewack + more at Dead Letter No. 9
 
-Psychosis: Halloween Party Pt. 2 of 4 - Mike Servito, Sister System, Acid Mama, beewack + more at Dead Letter No. 9 on Sat 24 Oct, Newyorkcity. 5 acts on the bill: Acid Mama, Bea Hardy, beewack and Mike Servito and 1 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+Psychosis: Halloween Party Pt. 2 of 4 - Mike Servito, Sister System, Acid Mama, beewack + more at Dead Letter No. 9 on Sat 24 Oct, New York City. 5 artists on the bill: Acid Mama, Bea Hardy, beewack and Mike Servito and 1 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

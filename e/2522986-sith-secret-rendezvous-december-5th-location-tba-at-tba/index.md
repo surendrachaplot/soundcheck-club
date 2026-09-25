@@ -1,6 +1,6 @@
 # SITH: SECRET RENDEZVOUS - DECEMBER 5TH - LOCATION TBA at TBA
 
-SITH: SECRET RENDEZVOUS - DECEMBER 5TH - LOCATION TBA on Sat 5 Dec, Newyorkcity. 1 act on the bill: Natasha Diggs. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+SITH: SECRET RENDEZVOUS - DECEMBER 5TH - LOCATION TBA on Sat 5 Dec, New York City. 1 artist on the bill: Natasha Diggs. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

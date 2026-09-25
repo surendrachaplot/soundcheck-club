@@ -2,7 +2,7 @@
 
 DVS1 is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lux Fragil, Lisbon on Fri, 25 Sept 2026.
 
-DVS1 is a techno and house artist based in United States of America, tracked on soundcheck, with 321 sets logged across All, Amsterdam, Antwerp and Athens and 70 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: Lux Fragil, Lisbon on Fri 25 Sept.
+DVS1 is a techno and house artist based in United States of America, tracked on soundcheck, with 321 sets logged across Amsterdam, Antwerp, Athens and Austin and 70 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: Lux Fragil, Lisbon on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ DVS1 is a techno and house artist based in United States of America, tracked on 
 | Wed, 21 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
-| Fri, 30 Oct 2026 | Club Drugstore | All |
+| Fri, 30 Oct 2026 | Club Drugstore | Serbia |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Origins: Roza Terenzi & D. Tiffany (All Night Long) + Mama Snake, THC at FOLD
 
-Origins: Roza Terenzi & D. Tiffany (All Night Long) + Mama Snake, THC at FOLD on Sat 31 Oct, London. 4 acts on the bill: D. Tiffany, Mama Snake, Roza Terenzi and THC. Trance and Techno. Preview the line-up and save it on soundcheck.
+Origins: Roza Terenzi & D. Tiffany (All Night Long) + Mama Snake, THC at FOLD on Sat 31 Oct, London. 4 artists on the bill: D. Tiffany, Mama Snake, Roza Terenzi and THC. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

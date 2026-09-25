@@ -1,6 +1,6 @@
 # Whethan - WAREHOUSE.WAVS TOUR (360 SHOW) at Shrine Auditorium and Expo Hall
 
-Whethan - WAREHOUSE.WAVS TOUR (360 SHOW) at Shrine Auditorium and Expo Hall on Fri 4 Dec, Losangeles. Bass and Electro. Preview the line-up and save it on soundcheck.
+Whethan - WAREHOUSE.WAVS TOUR (360 SHOW) at Shrine Auditorium and Expo Hall on Fri 4 Dec, Los Angeles. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

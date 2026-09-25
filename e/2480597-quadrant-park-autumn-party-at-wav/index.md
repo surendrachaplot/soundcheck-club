@@ -1,6 +1,6 @@
 # QUADRANT PARK Autumn Party at WaV
 
-QUADRANT PARK Autumn Party at WaV on Sat 26 Sept, Liverpool. 1 act on the bill: John Kelly. House and Acid. Preview the line-up and save it on soundcheck.
+QUADRANT PARK Autumn Party at WaV on Sat 26 Sept, Liverpool. 1 artist on the bill: John Kelly. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

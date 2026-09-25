@@ -1,6 +1,6 @@
 # Act Like Adults at Lokschuppen Berlin
 
-Act Like Adults at Lokschuppen Berlin on Sat 21 Nov, Berlin. 2 acts on the bill: pavvvvvvlo and Surf 2 Glory. Trance and Techno. Preview the line-up and save it on soundcheck.
+Act Like Adults at Lokschuppen Berlin on Sat 21 Nov, Berlin. 2 artists on the bill: pavvvvvvlo and Surf 2 Glory. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bon Vivant 10 Years at Fünk
 
-Bon Vivant 10 Years at Fünk on Thu 8 Oct, Mexicocity. 2 acts on the bill: Mejia and Sakro. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Bon Vivant 10 Years at Fünk on Thu 8 Oct, Mexico City. 2 artists on the bill: Mejia and Sakro. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

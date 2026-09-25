@@ -1,6 +1,6 @@
 # Studio Stereo x Pineal x La Room pres. JNJS at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Pineal x La Room pres. JNJS at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 3 Oct, Barcelona. 4 acts on the bill: Angelo Cortines, JNJS, Mario Niain and max brachais. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Pineal x La Room pres. JNJS at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 3 Oct, Barcelona. 4 artists on the bill: Angelo Cortines, JNJS, Mario Niain and max brachais. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

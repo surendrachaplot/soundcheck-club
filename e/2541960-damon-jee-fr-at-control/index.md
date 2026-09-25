@@ -1,6 +1,6 @@
 # Damon Jee [FR] at control
 
-Damon Jee [FR] at control on Fri 16 Oct, Bucharest. 1 act on the bill: Damon Jee. Electronica. Preview the line-up and save it on soundcheck.
+Damon Jee [FR] at control on Fri 16 Oct, Bucharest. 1 artist on the bill: Damon Jee. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

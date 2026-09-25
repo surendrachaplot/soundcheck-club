@@ -1,6 +1,6 @@
 # Studio Stereo pres. Gambiarra showcase at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo pres. Gambiarra showcase at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 24 Sept, Barcelona. 3 acts on the bill: Jonny Loves House, Konnin and Victor Haas. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo pres. Gambiarra showcase at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 24 Sept, Barcelona. 3 artists on the bill: Jonny Loves House, Konnin and Victor Haas. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Digitalism at Yes
 
-Digitalism at Yes on Fri 9 Oct, Manchester. 1 act on the bill: Digitalism. Preview the line-up and save it on soundcheck.
+Digitalism at Yes on Fri 9 Oct, Manchester. 1 artist on the bill: Digitalism. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

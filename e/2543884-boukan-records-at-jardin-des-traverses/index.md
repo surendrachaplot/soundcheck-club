@@ -1,6 +1,6 @@
 # Boukan Records at Jardin des Traverses
 
-Boukan Records at Jardin des Traverses on Sat 26 Sept, Paris. 2 acts on the bill: Bamao Yendé and Low Jack. Electro and R&B. Preview the line-up and save it on soundcheck.
+Boukan Records at Jardin des Traverses on Sat 26 Sept, Paris. 2 artists on the bill: Bamao Yendé and Low Jack. Electro and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

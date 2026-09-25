@@ -1,6 +1,6 @@
 # Club 77: Mike Who, Daniel Lupica at Club 77
 
-Club 77: Mike Who, Daniel Lupica on Sat 24 Oct, Sydney. 2 acts on the bill: Daniel Lupica and Mike Who. House and Balearic. Preview the line-up and save it on soundcheck.
+Club 77: Mike Who, Daniel Lupica on Sat 24 Oct, Sydney. 2 artists on the bill: Daniel Lupica and Mike Who. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

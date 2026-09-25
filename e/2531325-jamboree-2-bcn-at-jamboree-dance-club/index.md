@@ -1,6 +1,6 @@
 # Jamboree 2 (Bcn) at Jamboree Dance Club
 
-Jamboree 2 (Bcn) at Jamboree Dance Club on Sat 3 Oct, Barcelona. 1 act on the bill: Maadraassoo. Pop. Preview the line-up and save it on soundcheck.
+Jamboree 2 (Bcn) at Jamboree Dance Club on Sat 3 Oct, Barcelona. 1 artist on the bill: Maadraassoo. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

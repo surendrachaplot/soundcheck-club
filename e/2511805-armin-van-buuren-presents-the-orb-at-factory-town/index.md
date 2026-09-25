@@ -1,6 +1,6 @@
 # Armin van Buuren presents The Orb at Factory Town
 
-Armin van Buuren presents The Orb at Factory Town on Sat 10 Oct, Miami. 2 acts on the bill: Armin van Buuren and Funk Tribu. Preview the line-up and save it on soundcheck.
+Armin van Buuren presents The Orb at Factory Town on Sat 10 Oct, Miami. 2 artists on the bill: Armin van Buuren and Funk Tribu. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

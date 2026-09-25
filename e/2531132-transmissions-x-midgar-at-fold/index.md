@@ -1,6 +1,6 @@
 # Transmissions x Midgar at FOLD
 
-Transmissions x Midgar at FOLD on Sat 7 Nov, London. 11 acts on the bill: Aaron J, Avsluta, basic chanel and Forest Drive West and 7 more. Techno. Preview the line-up and save it on soundcheck.
+Transmissions x Midgar at FOLD on Sat 7 Nov, London. 11 artists on the bill: Aaron J, Avsluta, basic chanel and Forest Drive West and 7 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

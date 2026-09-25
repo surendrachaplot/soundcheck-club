@@ -1,6 +1,6 @@
 # RASA x Sivilian Affairs presents Celestial Seasonings with Ogazón at RASA
 
-RASA x Sivilian Affairs presents Celestial Seasonings with Ogazón on Fri 25 Sept, Singapore. 4 acts on the bill: Miss Lil, Ogazón, Roshan and Sivanesh. Electronica. Preview the line-up and save it on soundcheck.
+RASA x Sivilian Affairs presents Celestial Seasonings with Ogazón on Fri 25 Sept, Singapore. 4 artists on the bill: Miss Lil, Ogazón, Roshan and Sivanesh. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

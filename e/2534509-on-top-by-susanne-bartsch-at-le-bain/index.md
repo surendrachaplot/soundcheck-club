@@ -1,6 +1,6 @@
 # ON TOP by Susanne Bartsch at Le Bain
 
-ON TOP by Susanne Bartsch at Le Bain on Thu 24 Sept, Newyorkcity. 3 acts on the bill: boyyyish, Heidy.P and Piscesprince. Preview the line-up and save it on soundcheck.
+ON TOP by Susanne Bartsch at Le Bain on Thu 24 Sept, New York City. 3 artists on the bill: boyyyish, Heidy.P and Piscesprince. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

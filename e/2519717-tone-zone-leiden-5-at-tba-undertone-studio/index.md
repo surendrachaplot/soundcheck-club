@@ -1,6 +1,6 @@
 # Tone Zone Leiden #5 at TBA - Undertone Studio
 
-Tone Zone Leiden #5 at TBA - Undertone Studio on Fri 25 Sept, Thehague. Techno and Italo Disco. Preview the line-up and save it on soundcheck.
+Tone Zone Leiden #5 at TBA - Undertone Studio on Fri 25 Sept, The Hague. Techno and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

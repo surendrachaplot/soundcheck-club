@@ -1,6 +1,6 @@
 # Mind Cargo & Downbeat Detection Takeover: Softi, 320, and Plushie at Silence Please
 
-Mind Cargo & Downbeat Detection Takeover: Softi, 320, and Plushie at Silence Please on Sat 10 Oct, Newyorkcity. 4 acts on the bill: 320 (1), Plushie, Softi and Spiral Eddie. Experimental and Dub Techno. Preview the line-up and save it on soundcheck.
+Mind Cargo & Downbeat Detection Takeover: Softi, 320, and Plushie at Silence Please on Sat 10 Oct, New York City. 4 artists on the bill: 320, Plushie, Softi and Spiral Eddie. Experimental and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

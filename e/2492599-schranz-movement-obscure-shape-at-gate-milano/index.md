@@ -1,6 +1,6 @@
 # SCHRANZ MOVEMENT: Obscure Shape at Gate Milano
 
-SCHRANZ MOVEMENT: Obscure Shape at Gate Milano on Sat 21 Nov, Milan. 2 acts on the bill: Dstm and Obscure Shape. Preview the line-up and save it on soundcheck.
+SCHRANZ MOVEMENT: Obscure Shape at Gate Milano on Sat 21 Nov, Milan. 2 artists on the bill: Dstm and Obscure Shape. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

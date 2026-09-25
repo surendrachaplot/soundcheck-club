@@ -1,6 +1,6 @@
 # Dance Around the World (Without Leaving London) at The Orange Room
 
-Dance Around the World (Without Leaving London) at The Orange Room on Sat 24 Oct, London. 3 acts on the bill: EWASOUNDZ, groupi3incognito and JuicySteamedHams. Preview the line-up and save it on soundcheck.
+Dance Around the World (Without Leaving London) at The Orange Room on Sat 24 Oct, London. 3 artists on the bill: EWASOUNDZ, groupi3incognito and JuicySteamedHams. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

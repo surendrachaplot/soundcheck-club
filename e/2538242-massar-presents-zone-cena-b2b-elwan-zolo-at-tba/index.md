@@ -1,6 +1,6 @@
 # MASSAR presents Zone+ // Cena b2b Elwan // Zolo at TBA
 
-MASSAR presents Zone+ // Cena b2b Elwan // Zolo at TBA on Fri 25 Sept, Losangeles. 3 acts on the bill: Cena, Elwan and Zone+. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
+MASSAR presents Zone+ // Cena b2b Elwan // Zolo at TBA on Fri 25 Sept, Los Angeles. 3 artists on the bill: Cena, Elwan and Zone+. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

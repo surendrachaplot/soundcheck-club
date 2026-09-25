@@ -1,6 +1,6 @@
 # Gravity presents: Eric Prydz - Copenhagen at Tap1
 
-Gravity presents: Eric Prydz - Copenhagen at Tap1 on Fri 23 Oct, Copenhagen. 1 act on the bill: Eric Prydz. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Gravity presents: Eric Prydz - Copenhagen at Tap1 on Fri 23 Oct, Copenhagen. 1 artist on the bill: Eric Prydz. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

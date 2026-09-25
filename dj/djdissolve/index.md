@@ -2,7 +2,7 @@
 
 DJ DISSOLVE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
-DJ DISSOLVE is a techno and house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Portland, Sanfrancisco and Seattle. Often billed alongside Aaron Davis, Andy Warren and Peter Sheppard. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
+DJ DISSOLVE is a techno and house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Portland, San Francisco/Oakland and Seattle. Often billed alongside Aaron Davis, Andy Warren and Peter Sheppard. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
 ## Upcoming shows
 

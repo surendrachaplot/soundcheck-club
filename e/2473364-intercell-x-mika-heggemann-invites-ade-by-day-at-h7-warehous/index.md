@@ -1,6 +1,6 @@
 # Intercell x Mika Heggemann Invites | ADE By Day at H7 Warehouse
 
-Intercell x Mika Heggemann Invites | ADE By Day at H7 Warehouse on Fri 23 Oct, Amsterdam. 6 acts on the bill: Alycia Bezgo, Azzurro, Cleopard2000 and Faster Horses and 2 more. Preview the line-up and save it on soundcheck.
+Intercell x Mika Heggemann Invites | ADE By Day at H7 Warehouse on Fri 23 Oct, Amsterdam. 6 artists on the bill: Alycia Bezgo, Azzurro, Cleopard2000 and Faster Horses and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

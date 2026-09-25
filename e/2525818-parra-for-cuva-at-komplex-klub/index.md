@@ -1,6 +1,6 @@
 # Parra for Cuva at Komplex Klub
 
-Parra for Cuva at Komplex Klub on Sun 4 Oct, Zurich. 1 act on the bill: Parra for Cuva. Electronica. Preview the line-up and save it on soundcheck.
+Parra for Cuva at Komplex Klub on Sun 4 Oct, Zurich. 1 artist on the bill: Parra for Cuva. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

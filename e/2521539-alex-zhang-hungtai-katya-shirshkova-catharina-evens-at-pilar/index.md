@@ -1,6 +1,6 @@
 # Alex Zhang Hungtai + Katya Shirshkova + Catharina Evens at Pilar - VUB
 
-Alex Zhang Hungtai + Katya Shirshkova + Catharina Evens at Pilar - VUB on Thu 1 Oct, Brussels. 1 act on the bill: Alex Zhang Hungtai. Preview the line-up and save it on soundcheck.
+Alex Zhang Hungtai + Katya Shirshkova + Catharina Evens at Pilar - VUB on Thu 1 Oct, Brussels. 1 artist on the bill: Alex Zhang Hungtai. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

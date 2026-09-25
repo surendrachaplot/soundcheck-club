@@ -1,6 +1,6 @@
 # renae x Saturama presents room to: bathe at renae
 
-renae x Saturama presents room to: bathe on Sun 27 Sept, Manchester. 1 act on the bill: Werkha. Preview the line-up and save it on soundcheck.
+renae x Saturama presents room to: bathe on Sun 27 Sept, Manchester. 1 artist on the bill: Werkha. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

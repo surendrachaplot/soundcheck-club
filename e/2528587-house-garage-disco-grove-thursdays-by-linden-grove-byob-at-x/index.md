@@ -1,6 +1,6 @@
 # House. Garage. Disco. Grove Thursdays by Linden Grove; BYOB at XLR
 
-House. Garage. Disco. Grove Thursdays by Linden Grove; BYOB at XLR on Thu 1 Oct, Manchester. 1 act on the bill: Quinlan. House and Disco. Preview the line-up and save it on soundcheck.
+House. Garage. Disco. Grove Thursdays by Linden Grove; BYOB at XLR on Thu 1 Oct, Manchester. 1 artist on the bill: Quinlan. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

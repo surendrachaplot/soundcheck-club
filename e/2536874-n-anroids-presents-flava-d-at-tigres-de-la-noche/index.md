@@ -1,6 +1,6 @@
 # Nü Anroids presents: Flava D at Tigres de la Noche
 
-Nü Anroids presents: Flava D at Tigres de la Noche on Fri 30 Oct, Washingtondc. 1 act on the bill: Flava D. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+Nü Anroids presents: Flava D at Tigres de la Noche on Fri 30 Oct, Washington DC. 1 artist on the bill: Flava D. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

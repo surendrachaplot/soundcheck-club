@@ -2,7 +2,7 @@
 
 Blu Moon is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 7th West, San Francisco/Oakland on Sun, 27 Sept 2026.
 
-Blu Moon is a club and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Sanfrancisco. Often billed alongside nina sol, Brown Amy and KKINGBOO. Next up: 7th West, Sanfrancisco on Sun 27 Sept.
+Blu Moon is a club and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across San Francisco/Oakland. Often billed alongside nina sol, Brown Amy and KKINGBOO. Next up: 7th West, San Francisco/Oakland on Sun 27 Sept.
 
 ## Upcoming shows
 

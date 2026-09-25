@@ -1,6 +1,6 @@
 # We'll be the voice vol.3 ABIZMO & S.O.H. SPLIT RELEASE TOUR at Socore Factory
 
-We'll be the voice vol.3 ABIZMO & S.O.H. SPLIT RELEASE TOUR at Socore Factory on Fri 16 Oct, Osaka. 2 acts on the bill: Rafael and Status Zero. Noise. Preview the line-up and save it on soundcheck.
+We'll be the voice vol.3 ABIZMO & S.O.H. SPLIT RELEASE TOUR at Socore Factory on Fri 16 Oct, Osaka. 2 artists on the bill: Rafael and Status Zero. Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

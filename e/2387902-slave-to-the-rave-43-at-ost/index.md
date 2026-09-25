@@ -1,6 +1,6 @@
 # Slave To The Rave 43 at OST
 
-Slave To The Rave 43 at OST on Sat 12 Dec, Berlin. 3 acts on the bill: CJ Bolland, Fish56Octagon and Huamaniser. Preview the line-up and save it on soundcheck.
+Slave To The Rave 43 at OST on Sat 12 Dec, Berlin. 3 artists on the bill: CJ Bolland, Fish56Octagon and Huamaniser. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

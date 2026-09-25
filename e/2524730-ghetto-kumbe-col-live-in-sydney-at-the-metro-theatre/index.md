@@ -1,6 +1,6 @@
 # GHETTO KUMBE (COL) LIVE IN SYDNEY at The Metro Theatre
 
-GHETTO KUMBE (COL) LIVE IN SYDNEY at The Metro Theatre on Sat 3 Oct, Sydney. 2 acts on the bill: Cuerpo Negro and Otorongo. Afrobeats and Electronica. Preview the line-up and save it on soundcheck.
+GHETTO KUMBE (COL) LIVE IN SYDNEY at The Metro Theatre on Sat 3 Oct, Sydney. 2 artists on the bill: Cuerpo Negro and Otorongo. Afrobeats and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

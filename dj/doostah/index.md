@@ -2,7 +2,7 @@
 
 DOOSTAH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Vancouver on Sat, 26 Sept 2026.
 
-DOOSTAH is a techno and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Losangeles and Vancouver. Often billed alongside EMILIANA, MIG-35 and SNTS. Next up: TBA, Vancouver on Sat 26 Sept.
+DOOSTAH is a techno and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Los Angeles and Vancouver. Often billed alongside EMILIANA, MIG-35 and SNTS. Next up: TBA, Vancouver on Sat 26 Sept.
 
 ## Upcoming shows
 

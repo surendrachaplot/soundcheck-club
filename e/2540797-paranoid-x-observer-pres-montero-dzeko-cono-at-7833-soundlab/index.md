@@ -1,6 +1,6 @@
 # Paranoid x observer Pres/ Montero - Dzeko - Cono at 7833 Soundlab
 
-Paranoid x observer Pres/ Montero - Dzeko - Cono at 7833 Soundlab on Fri 9 Oct, Barcelona. 3 acts on the bill: Cono (3), Dzeko and Montero. Techno. Preview the line-up and save it on soundcheck.
+Paranoid x observer Pres/ Montero - Dzeko - Cono at 7833 Soundlab on Fri 9 Oct, Barcelona. 3 artists on the bill: Cono, Dzeko and Montero. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Mimi (4) is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
 
-Mimi (4) is an electronica and techno artist based in Portugal, tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 3 more. Often billed alongside Konstantin, Leafar Legov and Map.ache. Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
+Mimi is an electronica and techno artist based in Portugal, tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 3 more. Often billed alongside Konstantin, Leafar Legov and Map.ache. Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 

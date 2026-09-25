@@ -1,6 +1,6 @@
 # KC [Nicolas Lutz • Sedef Adasï +TBA] at Karmen Camina
 
-KC [Nicolas Lutz • Sedef Adasï +TBA] at Karmen Camina on Sat 14 Nov, Strasbourg. 2 acts on the bill: Nicolas Lutz and Sedef Adasï. Techno and House. Preview the line-up and save it on soundcheck.
+KC [Nicolas Lutz • Sedef Adasï +TBA] at Karmen Camina on Sat 14 Nov, Strasbourg. 2 artists on the bill: Nicolas Lutz and Sedef Adasï. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

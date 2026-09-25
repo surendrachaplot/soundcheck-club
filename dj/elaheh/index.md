@@ -2,7 +2,7 @@
 
 Elaheh is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cloud 11 Theater, Bangkok on Sat, 26 Sept 2026.
 
-Elaheh is a house and techno artist based in Thailand, tracked on soundcheck, with 125 sets logged across Bangkok, Hongkong, London and Newyorkcity and 3 more. Often billed alongside DOTT, SaoTeknik and Sarayu. Next up: Cloud 11 Theater, Bangkok on Sat 26 Sept.
+Elaheh is a house and techno artist based in Thailand, tracked on soundcheck, with 125 sets logged across Bangkok, Hong Kong, London and New York City and 3 more. Often billed alongside DOTT, SaoTeknik and Sarayu. Next up: Cloud 11 Theater, Bangkok on Sat 26 Sept.
 
 ## Upcoming shows
 

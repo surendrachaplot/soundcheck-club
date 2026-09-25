@@ -1,6 +1,6 @@
 # At The Park at TBA
 
-At The Park at TBA on Sun 27 Sept, Losangeles. 2 acts on the bill: Fester and Jesse Brooks. Breakbeat and Tech House. Preview the line-up and save it on soundcheck.
+At The Park at TBA on Sun 27 Sept, Los Angeles. 2 artists on the bill: Fester and Jesse Brooks. Breakbeat and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

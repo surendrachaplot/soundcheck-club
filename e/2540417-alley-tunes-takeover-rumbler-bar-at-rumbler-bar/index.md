@@ -1,6 +1,6 @@
 # ALLEY TUNES TAKEOVER Rumbler Bar at Rumbler Bar
 
-ALLEY TUNES TAKEOVER Rumbler Bar on Fri 2 Oct, Melbourne. 1 act on the bill: MAXVEGAS. House and Deep House. Preview the line-up and save it on soundcheck.
+ALLEY TUNES TAKEOVER Rumbler Bar on Fri 2 Oct, Melbourne. 1 artist on the bill: MAXVEGAS. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

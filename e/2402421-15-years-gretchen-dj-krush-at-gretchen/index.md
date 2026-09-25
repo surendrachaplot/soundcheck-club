@@ -1,6 +1,6 @@
 # 15 Years Gretchen: DJ Krush at Gretchen
 
-15 Years Gretchen: DJ Krush on Tue 27 Oct, Berlin. 2 acts on the bill: DJ Krush and Marc Hype. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+15 Years Gretchen: DJ Krush on Tue 27 Oct, Berlin. 2 artists on the bill: DJ Krush and Marc Hype. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

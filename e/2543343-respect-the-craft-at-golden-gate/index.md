@@ -1,6 +1,6 @@
 # Respect The Craft at Golden Gate
 
-Respect The Craft at Golden Gate on Sat 10 Oct, Berlin. 2 acts on the bill: Inga and Tripmastaz. Preview the line-up and save it on soundcheck.
+Respect The Craft at Golden Gate on Sat 10 Oct, Berlin. 2 artists on the bill: Inga and Tripmastaz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

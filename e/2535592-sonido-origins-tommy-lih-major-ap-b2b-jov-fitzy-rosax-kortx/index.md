@@ -1,6 +1,6 @@
 # Sonido Origins (Tommy LiH, Major, AP B2B JOV, Fitzy, ROSAX, Kortx, STRIDE B2B TRIBAL, FLO-RO) at Barton Fink
 
-Sonido Origins (Tommy LiH, Major, AP B2B JOV, Fitzy, ROSAX, Kortx, STRIDE B2B TRIBAL, FLO-RO) at Barton Fink on Fri 2 Oct, Melbourne. 1 act on the bill: Rosax. Trance and Tech House. Preview the line-up and save it on soundcheck.
+Sonido Origins (Tommy LiH, Major, AP B2B JOV, Fitzy, ROSAX, Kortx, STRIDE B2B TRIBAL, FLO-RO) at Barton Fink on Fri 2 Oct, Melbourne. 1 artist on the bill: Rosax. Trance and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

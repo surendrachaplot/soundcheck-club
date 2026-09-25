@@ -1,6 +1,6 @@
 # Unreal Weekender Night I - September 2026 at Bootshaus
 
-Unreal Weekender Night I - September 2026 at Bootshaus on Fri 25 Sept, Cologne. 6 acts on the bill: Afem Syko, BIIANCO, Johannes Schuster and Mad Dog and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Unreal Weekender Night I - September 2026 at Bootshaus on Fri 25 Sept, Cologne. 6 artists on the bill: Afem Syko, BIIANCO, Johannes Schuster and Mad Dog and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

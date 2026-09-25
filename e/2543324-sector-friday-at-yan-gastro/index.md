@@ -1,6 +1,6 @@
 # Sector Friday at Yan Gastro
 
-Sector Friday at Yan Gastro on Fri 25 Sept, Istanbul. 1 act on the bill: Anatoly. House. Preview the line-up and save it on soundcheck.
+Sector Friday at Yan Gastro on Fri 25 Sept, Istanbul. 1 artist on the bill: Anatoly. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

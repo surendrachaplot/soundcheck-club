@@ -1,6 +1,6 @@
 # Seeing Double in Little Portland with Jade Seatle at 17 Little Portland Street
 
-Seeing Double in Little Portland with Jade Seatle at 17 Little Portland Street on Thu 1 Oct, London. 2 acts on the bill: Harry McCanna and Jade Seatle. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Seeing Double in Little Portland with Jade Seatle at 17 Little Portland Street on Thu 1 Oct, London. 2 artists on the bill: Harry McCanna and Jade Seatle. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

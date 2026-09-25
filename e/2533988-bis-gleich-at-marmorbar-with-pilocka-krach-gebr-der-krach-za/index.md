@@ -1,6 +1,6 @@
 # Bis Gleich! at Marmorbar with: Pilocka Krach / GEBRÜDER KRACH / Zarling / ALKARLINE / and MORE at Marmorbar
 
-Bis Gleich! at Marmorbar with: Pilocka Krach / GEBRÜDER KRACH / Zarling / ALKARLINE / and MORE on Fri 25 Sept, Berlin. 3 acts on the bill: ALKARLINE, Pilocka Krach and Zarling. House and Tech House. Preview the line-up and save it on soundcheck.
+Bis Gleich! at Marmorbar with: Pilocka Krach / GEBRÜDER KRACH / Zarling / ALKARLINE / and MORE on Fri 25 Sept, Berlin. 3 artists on the bill: ALKARLINE, Pilocka Krach and Zarling. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

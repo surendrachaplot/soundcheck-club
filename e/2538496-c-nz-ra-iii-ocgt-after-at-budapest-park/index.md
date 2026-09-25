@@ -1,6 +1,6 @@
 # C*NZÚRA: III. OCGT After at Budapest Park
 
-C*NZÚRA: III. OCGT After at Budapest Park on Thu 24 Sept, Budapest. 1 act on the bill: txybandi. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
+C*NZÚRA: III. OCGT After at Budapest Park on Thu 24 Sept, Budapest. 1 artist on the bill: txybandi. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Overbruggen x Hot Since 82' - Loft Sunset - ADE at The Loft Amsterdam
 
-Overbruggen x Hot Since 82' - Loft Sunset - ADE at The Loft Amsterdam on Wed 21 Oct, Amsterdam. 1 act on the bill: Hot Since 82. Preview the line-up and save it on soundcheck.
+Overbruggen x Hot Since 82' - Loft Sunset - ADE at The Loft Amsterdam on Wed 21 Oct, Amsterdam. 1 artist on the bill: Hot Since 82. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

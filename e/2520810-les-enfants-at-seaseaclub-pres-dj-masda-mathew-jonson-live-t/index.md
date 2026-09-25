@@ -1,6 +1,6 @@
 # Les Enfants at SEASEACLUB pres. DJ Masda, Mathew Jonson live, Tal Fussman, Sansibar live at Seaseaclub Barcelona
 
-Les Enfants at SEASEACLUB pres. DJ Masda, Mathew Jonson live, Tal Fussman, Sansibar live at Seaseaclub Barcelona on Sat 7 Nov, Barcelona. 10 acts on the bill: C4m., Charlotte (FR), DJ Masda and Francesco Carvetta and 6 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Les Enfants at SEASEACLUB pres. DJ Masda, Mathew Jonson live, Tal Fussman, Sansibar live at Seaseaclub Barcelona on Sat 7 Nov, Barcelona. 10 artists on the bill: C4m., Charlotte (FR), DJ Masda and Francesco Carvetta and 6 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

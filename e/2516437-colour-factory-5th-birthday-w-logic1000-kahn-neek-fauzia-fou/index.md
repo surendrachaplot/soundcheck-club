@@ -1,6 +1,6 @@
 # Colour Factory 5th Birthday w/ Logic1000, Kahn & Neek, FAUZIA, foundation.fm, 2CPERREA, Roska at Colour Factory
 
-Colour Factory 5th Birthday w/ Logic1000, Kahn & Neek, FAUZIA, foundation.fm, 2CPERREA, Roska on Sat 26 Sept, London. 16 acts on the bill: Basmati (1), Bushbby, Dj Fucci and FAUZIA and 12 more. Bass and Reggaeton. Preview the line-up and save it on soundcheck.
+Colour Factory 5th Birthday w/ Logic1000, Kahn & Neek, FAUZIA, foundation.fm, 2CPERREA, Roska on Sat 26 Sept, London. 16 artists on the bill: Basmati, Bushbby, Dj Fucci and FAUZIA and 12 more. Bass and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

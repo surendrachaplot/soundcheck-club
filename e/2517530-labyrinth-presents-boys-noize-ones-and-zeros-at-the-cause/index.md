@@ -1,6 +1,6 @@
 # Labyrinth presents: Boys Noize ONES and ZEROS at The Cause
 
-Labyrinth presents: Boys Noize ONES and ZEROS at The Cause on Sat 3 Oct, London. 4 acts on the bill: Boys Noize, LSDXOXO, MarcelDune and Slim Soledad. Techno and Electro. Preview the line-up and save it on soundcheck.
+Labyrinth presents: Boys Noize ONES and ZEROS at The Cause on Sat 3 Oct, London. 4 artists on the bill: Boys Noize, LSDXOXO, MarcelDune and Slim Soledad. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

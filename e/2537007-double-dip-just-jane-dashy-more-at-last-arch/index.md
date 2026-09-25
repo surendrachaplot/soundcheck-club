@@ -1,6 +1,6 @@
 # Double Dip: Just Jane + DASHY & more at Last Arch
 
-Double Dip: Just Jane + DASHY & more at Last Arch on Fri 23 Oct, London. 2 acts on the bill: DASHY and Just Jane. Bass and Electro. Preview the line-up and save it on soundcheck.
+Double Dip: Just Jane + DASHY & more at Last Arch on Fri 23 Oct, London. 2 artists on the bill: DASHY and Just Jane. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

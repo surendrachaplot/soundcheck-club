@@ -1,6 +1,6 @@
 # TOFFLER presents Max Styler at Toffler
 
-TOFFLER presents Max Styler at Toffler on Fri 20 Nov, Rotterdam. 2 acts on the bill: Mat Eclair and Max Styler. Tech House. Preview the line-up and save it on soundcheck.
+TOFFLER presents Max Styler at Toffler on Fri 20 Nov, Rotterdam. 2 artists on the bill: Mat Eclair and Max Styler. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 The Knockout is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Reggae Sunday" on Sun, 27 Sept 2026.
 
-The Knockout is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 3223 Mission Street, San Francisco, CA 94110, United States.
+The Knockout is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 3223 Mission Street, San Francisco, CA 94110, United States.
 
 ## What's on
 

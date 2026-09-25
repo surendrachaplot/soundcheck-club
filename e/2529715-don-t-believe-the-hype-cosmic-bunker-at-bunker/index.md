@@ -1,6 +1,6 @@
 # DON'T BELIEVE THE HYPE - COSMIC Bunker at Bunker
 
-DON'T BELIEVE THE HYPE - COSMIC Bunker on Sun 18 Oct, Turin. 2 acts on the bill: Daniele Baldelli and I-Robots. Disco and Electronica. Preview the line-up and save it on soundcheck.
+DON'T BELIEVE THE HYPE - COSMIC Bunker on Sun 18 Oct, Turin. 2 artists on the bill: Daniele Baldelli and I-Robots. Disco and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

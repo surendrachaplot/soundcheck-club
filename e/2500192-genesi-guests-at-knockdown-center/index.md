@@ -1,6 +1,6 @@
 # GENESI & Guests at Knockdown Center
 
-GENESI & Guests at Knockdown Center on Sun 11 Oct, Newyorkcity. 1 act on the bill: GENESI. Deep House. Preview the line-up and save it on soundcheck.
+GENESI & Guests at Knockdown Center on Sun 11 Oct, New York City. 1 artist on the bill: GENESI. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

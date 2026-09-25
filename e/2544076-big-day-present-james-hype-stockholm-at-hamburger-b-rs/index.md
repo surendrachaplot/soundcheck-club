@@ -1,6 +1,6 @@
 # Big Day present James Hype Stockholm at Hamburger Börs
 
-Big Day present James Hype Stockholm at Hamburger Börs on Fri 25 Sept, Stockholm. 1 act on the bill: James Hype (UK). House. Preview the line-up and save it on soundcheck.
+Big Day present James Hype Stockholm at Hamburger Börs on Fri 25 Sept, Stockholm. 1 artist on the bill: James Hype (UK). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

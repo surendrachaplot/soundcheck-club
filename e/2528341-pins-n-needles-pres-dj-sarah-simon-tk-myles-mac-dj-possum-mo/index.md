@@ -1,6 +1,6 @@
 # Pins 'N Needles pres. DJ Sarah, Simon TK, Myles Mac & DJ Possum + more at Solace
 
-Pins 'N Needles pres. DJ Sarah, Simon TK, Myles Mac & DJ Possum + more at Solace on Thu 24 Sept, Melbourne. 5 acts on the bill: DJ Possum, DJ Sarah, Myles Mac and Simon TK and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Pins 'N Needles pres. DJ Sarah, Simon TK, Myles Mac & DJ Possum + more at Solace on Thu 24 Sept, Melbourne. 5 artists on the bill: DJ Possum, DJ Sarah, Myles Mac and Simon TK and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

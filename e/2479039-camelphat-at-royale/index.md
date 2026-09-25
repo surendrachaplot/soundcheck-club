@@ -1,6 +1,6 @@
 # CamelPhat at Royale
 
-CamelPhat at Royale on Fri 6 Nov, Boston. 1 act on the bill: CamelPhat. Preview the line-up and save it on soundcheck.
+CamelPhat at Royale on Fri 6 Nov, Boston. 1 artist on the bill: CamelPhat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

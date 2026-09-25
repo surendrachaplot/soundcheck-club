@@ -1,6 +1,6 @@
 # 43 Jahre Airport - Day 1 at Airport Würzburg
 
-43 Jahre Airport - Day 1 at Airport Würzburg on Fri 2 Oct, Nurnberg. 8 acts on the bill: DeGuzman, In Furcht, In Verruf and Neon Graveyard and 4 more. Techno. Preview the line-up and save it on soundcheck.
+43 Jahre Airport - Day 1 at Airport Würzburg on Fri 2 Oct, Nürnberg. 8 artists on the bill: DeGuzman, In Furcht, In Verruf and Neon Graveyard and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

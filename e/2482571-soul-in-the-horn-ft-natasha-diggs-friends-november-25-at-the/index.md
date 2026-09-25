@@ -1,6 +1,6 @@
 # Soul in the Horn FT Natasha Diggs & Friends - November 25 at The Chocolate Factory
 
-Soul in the Horn FT Natasha Diggs & Friends - November 25 at The Chocolate Factory on Wed 25 Nov, Newyorkcity. 1 act on the bill: Natasha Diggs. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Soul in the Horn FT Natasha Diggs & Friends - November 25 at The Chocolate Factory on Wed 25 Nov, New York City. 1 artist on the bill: Natasha Diggs. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

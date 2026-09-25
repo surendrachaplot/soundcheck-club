@@ -1,6 +1,6 @@
 # COMMUNITY RAVE with RAVEINDUSTRY & IAMTECHNO at Stollen 134
 
-COMMUNITY RAVE with RAVEINDUSTRY & IAMTECHNO at Stollen 134 on Fri 2 Oct, Dortmund-essen. Trance and Techno. Preview the line-up and save it on soundcheck.
+COMMUNITY RAVE with RAVEINDUSTRY & IAMTECHNO at Stollen 134 on Fri 2 Oct, Dortmund Essen. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

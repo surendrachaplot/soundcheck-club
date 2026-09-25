@@ -1,6 +1,6 @@
 # Weightless Remixes - Luxie + Bdstf, Hyas, Stresshead, Swooh at La Marbrerie
 
-Weightless Remixes - Luxie + Bdstf, Hyas, Stresshead, Swooh at La Marbrerie on Sat 26 Sept, Paris. 3 acts on the bill: bdstf, Hyas and Swooh. Preview the line-up and save it on soundcheck.
+Weightless Remixes - Luxie + Bdstf, Hyas, Stresshead, Swooh at La Marbrerie on Sat 26 Sept, Paris. 3 artists on the bill: bdstf, Hyas and Swooh. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

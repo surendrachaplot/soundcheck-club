@@ -1,6 +1,6 @@
 # Grey Lantern presents: BIG|BRAVE / Helm at The White Hotel
 
-Grey Lantern presents: BIG|BRAVE / Helm at The White Hotel on Mon 9 Nov, Manchester. 1 act on the bill: Helm. Drone and Industrial. Preview the line-up and save it on soundcheck.
+Grey Lantern presents: BIG|BRAVE / Helm at The White Hotel on Mon 9 Nov, Manchester. 1 artist on the bill: Helm. Drone and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Sex Wax (2) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fitzroy, Berlin on Sat, 10 Oct 2026.
 
-Sex Wax (2) is a house and trance artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside SUPERSTRINGS, Beau Didier and CRUSH3d. Next up: Fitzroy, Berlin on Sat 10 Oct.
+Sex Wax is a house and trance artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside SUPERSTRINGS, Beau Didier and CRUSH3d. Next up: Fitzroy, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 

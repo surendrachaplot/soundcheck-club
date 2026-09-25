@@ -1,6 +1,6 @@
 # Rockers Arena x LOBO at NAMA - Nuovo Anfiteatro Martesana
 
-Rockers Arena x LOBO at NAMA - Nuovo Anfiteatro Martesana on Fri 25 Sept, Milan. 4 acts on the bill: DNN, kwality, Nothus and Ormeye. Bass and Dub. Preview the line-up and save it on soundcheck.
+Rockers Arena x LOBO at NAMA - Nuovo Anfiteatro Martesana on Fri 25 Sept, Milan. 4 artists on the bill: DNN, kwality, Nothus and Ormeye. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

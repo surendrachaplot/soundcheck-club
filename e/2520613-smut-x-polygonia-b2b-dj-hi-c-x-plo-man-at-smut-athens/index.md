@@ -1,6 +1,6 @@
 # SMUT x Polygonia B2B DJ HI-C x PLO Man at SMUT Athens
 
-SMUT x Polygonia B2B DJ HI-C x PLO Man at SMUT Athens on Sat 31 Oct, Athens. 3 acts on the bill: DJ HI-C, PLO Man and Polygonia. Techno. Preview the line-up and save it on soundcheck.
+SMUT x Polygonia B2B DJ HI-C x PLO Man at SMUT Athens on Sat 31 Oct, Athens. 3 artists on the bill: DJ HI-C, PLO Man and Polygonia. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

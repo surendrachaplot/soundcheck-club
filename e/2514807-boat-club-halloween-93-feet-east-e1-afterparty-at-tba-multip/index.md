@@ -1,6 +1,6 @@
 # Boat Club Halloween @ 93 Feet East & E1 Afterparty at TBA - Multiple Venues (93 Feet East & E1 Afterparty)
 
-Boat Club Halloween @ 93 Feet East & E1 Afterparty at TBA - Multiple Venues (93 Feet East & E1 Afterparty) on Sat 31 Oct, London. 5 acts on the bill: G CHASE, HARTY, Mazos and Mike Younger and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Boat Club Halloween @ 93 Feet East & E1 Afterparty at TBA - Multiple Venues (93 Feet East & E1 Afterparty) on Sat 31 Oct, London. 5 artists on the bill: G CHASE, HARTY, Mazos and Mike Younger and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

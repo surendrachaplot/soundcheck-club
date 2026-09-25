@@ -2,7 +2,7 @@
 
 Better Tomorrow is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Surface DIY with Adam Rose, Michael Fam + more" on Thu, 24 Sept 2026.
 
-Better Tomorrow is a music venue in Losangeles listed on soundcheck. 3 upcoming gigs, with line-ups including Adam Rose, Capes, Juniör and Michael Fam and 2 more. Browse upcoming dates, start times and who's playing. 1133 Venice Blvd Los Angeles CA 90033.
+Better Tomorrow is a music venue in Los Angeles listed on soundcheck. 3 upcoming gigs, with line-ups including Adam Rose, Capes, Juniör and Michael Fam and 2 more. Browse upcoming dates, start times and who's playing. 1133 Venice Blvd Los Angeles CA 90033.
 
 ## What's on
 

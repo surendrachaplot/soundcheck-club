@@ -1,6 +1,6 @@
 # Hot Since 82 + Avision at The Concourse Project
 
-Hot Since 82 + Avision at The Concourse Project on Fri 27 Nov, Austin. 2 acts on the bill: Avision and Hot Since 82. Preview the line-up and save it on soundcheck.
+Hot Since 82 + Avision at The Concourse Project on Fri 27 Nov, Austin. 2 artists on the bill: Avision and Hot Since 82. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

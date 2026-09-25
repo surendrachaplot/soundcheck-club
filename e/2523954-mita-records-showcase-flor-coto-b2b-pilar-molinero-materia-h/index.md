@@ -1,6 +1,6 @@
 # mita records showcase: Flor Coto b2b PILAR MOLINERO, materia hache b2b Manu Barcelo at Bulbul Berlin
 
-mita records showcase: Flor Coto b2b PILAR MOLINERO, materia hache b2b Manu Barcelo at Bulbul Berlin on Thu 24 Sept, Berlin. 4 acts on the bill: Flor Coto, Manu Barcelo, materia hache and PILAR MOLINERO. House and Club. Preview the line-up and save it on soundcheck.
+mita records showcase: Flor Coto b2b PILAR MOLINERO, materia hache b2b Manu Barcelo at Bulbul Berlin on Thu 24 Sept, Berlin. 4 artists on the bill: Flor Coto, Manu Barcelo, materia hache and PILAR MOLINERO. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

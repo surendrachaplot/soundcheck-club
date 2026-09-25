@@ -1,6 +1,6 @@
 # Sonica: The Tcherepnin Series - Thomas Ankersmit at The Listening House | Pollok House
 
-Sonica: The Tcherepnin Series - Thomas Ankersmit at The Listening House | Pollok House on Sun 27 Sept, Glasgow. 1 act on the bill: Thomas Ankersmit. Experimental. Preview the line-up and save it on soundcheck.
+Sonica: The Tcherepnin Series - Thomas Ankersmit at The Listening House | Pollok House on Sun 27 Sept, Glasgow. 1 artist on the bill: Thomas Ankersmit. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

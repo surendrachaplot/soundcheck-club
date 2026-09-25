@@ -1,6 +1,6 @@
 # BLEEDING HART at 24 Moons
 
-BLEEDING HART at 24 Moons on Fri 30 Oct, Melbourne. 1 act on the bill: Tom Peters. Techno. Preview the line-up and save it on soundcheck.
+BLEEDING HART at 24 Moons on Fri 30 Oct, Melbourne. 1 artist on the bill: Tom Peters. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

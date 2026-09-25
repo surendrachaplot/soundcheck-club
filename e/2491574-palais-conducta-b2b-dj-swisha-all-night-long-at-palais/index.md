@@ -1,6 +1,6 @@
 # Palais: Conducta b2b DJ SWISHA (All Night Long) at Palais
 
-Palais: Conducta b2b DJ SWISHA (All Night Long) on Fri 16 Oct, London. 2 acts on the bill: Conducta and DJ SWISHA. Preview the line-up and save it on soundcheck.
+Palais: Conducta b2b DJ SWISHA (All Night Long) on Fri 16 Oct, London. 2 artists on the bill: Conducta and DJ SWISHA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Electron CLUB TOUR at Various Venues - Genève
 
-Electron CLUB TOUR at Various Venues - Genève on Fri 16 Oct, Geneva. 4 acts on the bill: Altinbas, Cirkle, Divin0 and Sedef Adasï. Electro. Preview the line-up and save it on soundcheck.
+Electron CLUB TOUR at Various Venues - Genève on Fri 16 Oct, Geneva. 4 artists on the bill: Altinbas, Cirkle, Divin0 and Sedef Adasï. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # D. Tiffany, Flørist / Gi Gi, adobeprincess / Very J at public records
 
-D. Tiffany, Flørist / Gi Gi, adobeprincess / Very J at public records on Fri 16 Oct, Newyorkcity. 5 acts on the bill: adobeprincess, D. Tiffany, Flørist and Gi Gi and 1 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+D. Tiffany, Flørist / Gi Gi, adobeprincess / Very J at public records on Fri 16 Oct, New York City. 5 artists on the bill: adobeprincess, D. Tiffany, Flørist and Gi Gi and 1 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

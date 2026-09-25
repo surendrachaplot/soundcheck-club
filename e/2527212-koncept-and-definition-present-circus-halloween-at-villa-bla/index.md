@@ -1,6 +1,6 @@
 # Koncept and Definition present: Circus Halloween at Villa Blanca Lifestyle
 
-Koncept and Definition present: Circus Halloween at Villa Blanca Lifestyle on Sat 31 Oct, Losangeles. 3 acts on the bill: Glowal, Nico Morano and Whitesquare. Techno and House. Preview the line-up and save it on soundcheck.
+Koncept and Definition present: Circus Halloween at Villa Blanca Lifestyle on Sat 31 Oct, Los Angeles. 3 artists on the bill: Glowal, Nico Morano and Whitesquare. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,13 +1,15 @@
 # Kyrist
 
-Kyrist is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Kyrist is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Muovitehdas, Finland on Fri, 25 Sept 2026.
 
-Kyrist is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Auckland, Berlin and Brighton and 10 more. Often billed alongside SP:MC, Visionobi and Calyx. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Kyrist is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Auckland, Berlin and Brighton and 12 more. Often billed alongside SP:MC, Visionobi and Calyx. Next up: Muovitehdas, Finland on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Muovitehdas | Finland |
+| Sat, 26 Sept 2026 | C2 OST | Karlsruhe |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | The Clock Factory | Bristol |
 | Sat, 10 Oct 2026 | The Clock Factory | Bristol |

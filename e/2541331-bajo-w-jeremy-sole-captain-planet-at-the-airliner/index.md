@@ -1,6 +1,6 @@
 # BAJO w. Jeremy Sole & Captain Planet at The Airliner
 
-BAJO w. Jeremy Sole & Captain Planet at The Airliner on Fri 16 Oct, Losangeles. 2 acts on the bill: Captain Planet and Jeremy Sole. Disco and Afro House. Preview the line-up and save it on soundcheck.
+BAJO w. Jeremy Sole & Captain Planet at The Airliner on Fri 16 Oct, Los Angeles. 2 artists on the bill: Captain Planet and Jeremy Sole. Disco and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

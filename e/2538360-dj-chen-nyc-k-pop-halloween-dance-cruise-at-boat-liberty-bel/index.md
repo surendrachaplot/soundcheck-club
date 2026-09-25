@@ -1,6 +1,6 @@
 # DJ Chen NYC K-Pop Halloween Dance Cruise at Boat - Liberty Belle
 
-DJ Chen NYC K-Pop Halloween Dance Cruise at Boat - Liberty Belle on Sat 31 Oct, Newyorkcity. 1 act on the bill: DJ E.M.. Pop and Electronica. Preview the line-up and save it on soundcheck.
+DJ Chen NYC K-Pop Halloween Dance Cruise at Boat - Liberty Belle on Sat 31 Oct, New York City. 1 artist on the bill: DJ E.M.. Pop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

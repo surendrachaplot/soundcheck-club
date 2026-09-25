@@ -1,6 +1,6 @@
 # Acid Babies at Paloma
 
-Acid Babies at Paloma on Thu 15 Oct, Berlin. 3 acts on the bill: Hideto Omura, Mat Fink and Mini Nik. House and Deep House. Preview the line-up and save it on soundcheck.
+Acid Babies at Paloma on Thu 15 Oct, Berlin. 3 artists on the bill: Hideto Omura, Mat Fink and Mini Nik. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

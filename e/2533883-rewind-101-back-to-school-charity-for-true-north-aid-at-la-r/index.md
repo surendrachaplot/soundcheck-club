@@ -1,6 +1,6 @@
 # Rewind 101: Back to School Charity for True North Aid at La Récré
 
-Rewind 101: Back to School Charity for True North Aid at La Récré on Sat 26 Sept, Montreal. 2 acts on the bill: GHOST TEMPO and Wally. Garage and Jungle. Preview the line-up and save it on soundcheck.
+Rewind 101: Back to School Charity for True North Aid at La Récré on Sat 26 Sept, Montreal. 2 artists on the bill: GHOST TEMPO and Wally. Garage and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

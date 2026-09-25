@@ -1,6 +1,6 @@
 # Sunday Revival w Gino & Peter Croce at MotorCity Wine
 
-Sunday Revival w Gino & Peter Croce at MotorCity Wine on Sun 27 Sept, Detroit. 2 acts on the bill: Gino (DET) and Peter Croce. Deep House and Disco. Preview the line-up and save it on soundcheck.
+Sunday Revival w Gino & Peter Croce at MotorCity Wine on Sun 27 Sept, Detroit. 2 artists on the bill: Gino (DET) and Peter Croce. Deep House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

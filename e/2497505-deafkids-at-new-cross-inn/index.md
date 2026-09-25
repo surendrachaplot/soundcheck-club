@@ -1,6 +1,6 @@
 # Deafkids at New Cross Inn
 
-Deafkids at New Cross Inn on Tue 20 Oct, London. 1 act on the bill: BRAVA. Noise. Preview the line-up and save it on soundcheck.
+Deafkids at New Cross Inn on Tue 20 Oct, London. 1 artist on the bill: BRAVA. Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

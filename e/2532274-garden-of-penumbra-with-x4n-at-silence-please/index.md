@@ -1,6 +1,6 @@
 # Garden of Penumbra with X4N at Silence Please
 
-Garden of Penumbra with X4N at Silence Please on Fri 2 Oct, Newyorkcity. Ambient and IDM. Preview the line-up and save it on soundcheck.
+Garden of Penumbra with X4N at Silence Please on Fri 2 Oct, New York City. Ambient and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

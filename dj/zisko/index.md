@@ -2,7 +2,7 @@
 
 Zisko is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Dune Park, Buenos Aires on Sun, 11 Oct 2026.
 
-Zisko is a techno and house artist based in Argentina, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 29 more. Often billed alongside Blasha & Allatt, Marcal and Ogazón. Next up: Dune Park, Buenosaires on Sun 11 Oct.
+Zisko is a techno and house artist based in Argentina, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 29 more. Often billed alongside Blasha & Allatt, Marcal and Ogazón. Next up: Dune Park, Buenos Aires on Sun 11 Oct.
 
 ## Upcoming shows
 

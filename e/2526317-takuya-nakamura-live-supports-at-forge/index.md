@@ -1,6 +1,6 @@
 # Takuya Nakamura [Live] & Supports at FORGE
 
-Takuya Nakamura [Live] & Supports at FORGE on Thu 15 Oct, Sheffield. 1 act on the bill: Takuya Nakamura. Jazz and Jungle. Preview the line-up and save it on soundcheck.
+Takuya Nakamura [Live] & Supports at FORGE on Thu 15 Oct, Sheffield. 1 artist on the bill: Takuya Nakamura. Jazz and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

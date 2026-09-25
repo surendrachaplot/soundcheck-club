@@ -2,7 +2,7 @@
 
 Mesmé is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hollywood Palladium, Los Angeles on Fri, 25 Sept 2026.
 
-Mesmé is a techno and house artist based in Singapore, tracked on soundcheck, with 49 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside Maheras, X CLUB. and Etari. Next up: Hollywood Palladium, Losangeles on Fri 25 Sept.
+Mesmé is a techno and house artist based in Singapore, tracked on soundcheck, with 49 sets logged across Chicago, Detroit, Los Angeles and New York City and 3 more. Often billed alongside Maheras, X CLUB. and Etari. Next up: Hollywood Palladium, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

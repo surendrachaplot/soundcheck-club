@@ -1,6 +1,6 @@
 # なけなしにもらうFUCK YOU MAN × Serendipity at Forestlimit
 
-なけなしにもらうFUCK YOU MAN × Serendipity at Forestlimit on Fri 16 Oct, Tokyo. 3 acts on the bill: BASiRiNO, KYLE MIKASA and nakefar. Hardcore and Bass. Preview the line-up and save it on soundcheck.
+なけなしにもらうFUCK YOU MAN × Serendipity at Forestlimit on Fri 16 Oct, Tokyo. 3 artists on the bill: BASiRiNO, KYLE MIKASA and nakefar. Hardcore and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

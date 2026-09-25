@@ -1,6 +1,6 @@
 # House Arena at Roig Arena
 
-House Arena at Roig Arena on Sat 7 Nov, Valencia. 3 acts on the bill: Dan Shake, Demi Riquisimo and Folamour. House and Tech House. Preview the line-up and save it on soundcheck.
+House Arena at Roig Arena on Sat 7 Nov, Valencia. 3 artists on the bill: Dan Shake, Demi Riquisimo and Folamour. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

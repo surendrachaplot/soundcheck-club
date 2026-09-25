@@ -2,7 +2,7 @@
 
 kimmy6.6.6 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OMA, Hong Kong on Thu, 22 Oct 2026.
 
-kimmy6.6.6 is a techno and acid artist based in China, tracked on soundcheck, with 28 sets logged across Hongkong. Often billed alongside Fischmonger, Kelvin T and Shawn (2). Next up: OMA, Hongkong on Thu 22 Oct.
+kimmy6.6.6 is a techno and acid artist based in China, tracked on soundcheck, with 28 sets logged across Hong Kong. Often billed alongside Fischmonger, Kelvin T and Shawn. Next up: OMA, Hong Kong on Thu 22 Oct.
 
 ## Upcoming shows
 

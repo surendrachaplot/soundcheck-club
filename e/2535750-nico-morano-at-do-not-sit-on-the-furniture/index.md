@@ -1,6 +1,6 @@
 # Nico Morano at Do Not Sit On The Furniture
 
-Nico Morano at Do Not Sit On The Furniture on Fri 6 Nov, Miami. 2 acts on the bill: baez and Nico Morano. House and Deep House. Preview the line-up and save it on soundcheck.
+Nico Morano at Do Not Sit On The Furniture on Fri 6 Nov, Miami. 2 artists on the bill: baez and Nico Morano. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

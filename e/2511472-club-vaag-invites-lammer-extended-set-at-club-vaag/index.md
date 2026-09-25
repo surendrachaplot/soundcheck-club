@@ -1,6 +1,6 @@
 # Club Vaag invites LAMMER (Extended Set) at Club Vaag
 
-Club Vaag invites LAMMER (Extended Set) on Sat 17 Oct, Antwerp. 3 acts on the bill: BISOUX, Jef Nice and LAMMER. Preview the line-up and save it on soundcheck.
+Club Vaag invites LAMMER (Extended Set) on Sat 17 Oct, Antwerp. 3 artists on the bill: BISOUX, Jef Nice and LAMMER. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

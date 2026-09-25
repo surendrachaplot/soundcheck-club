@@ -1,6 +1,6 @@
 # Brunch with UK Garage Legends Artful Dodger at TBA
 
-Brunch with UK Garage Legends Artful Dodger at TBA on Sat 28 Nov, London. 1 act on the bill: Artful Dodger. House and Garage. Preview the line-up and save it on soundcheck.
+Brunch with UK Garage Legends Artful Dodger at TBA on Sat 28 Nov, London. 1 artist on the bill: Artful Dodger. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

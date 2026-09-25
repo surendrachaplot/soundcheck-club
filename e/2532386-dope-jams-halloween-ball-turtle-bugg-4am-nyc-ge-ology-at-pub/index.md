@@ -1,6 +1,6 @@
 # Dope Jams Halloween Ball / Turtle Bugg, 4AM NYC / Ge-ology at public records
 
-Dope Jams Halloween Ball / Turtle Bugg, 4AM NYC / Ge-ology at public records on Sat 31 Oct, Newyorkcity. 4 acts on the bill: 4AM NYC, Ge-ology, Paul Nickerson and Turtle Bugg. Preview the line-up and save it on soundcheck.
+Dope Jams Halloween Ball / Turtle Bugg, 4AM NYC / Ge-ology at public records on Sat 31 Oct, New York City. 4 artists on the bill: 4AM NYC, Ge-ology, Paul Nickerson and Turtle Bugg. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

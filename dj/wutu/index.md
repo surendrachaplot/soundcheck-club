@@ -1,14 +1,15 @@
 # Wutu
 
-Wutu is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Transit, Amsterdam on Fri, 2 Oct 2026.
+Wutu is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Transit, Amsterdam on Fri, 2 Oct 2026.
 
-Wutu is an experimental and electronica artist based in Italy, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Lisbon and Milan and 1 more. Often billed alongside Gropina, Alicia Carrera and Camille Maria. Next up: Transit, Amsterdam on Fri 2 Oct.
+Wutu is an experimental and electronica artist based in Italy, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Lisbon and Milan and 1 more. Often billed alongside Gropina, Alicia Carrera and Camille Maria. Next up: Transit, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Transit | Amsterdam |
+| Sat, 3 Oct 2026 | Time is the new space | Rotterdam |
 | Fri, 9 Oct 2026 | OXI | Berlin |
 
 ## Recently played

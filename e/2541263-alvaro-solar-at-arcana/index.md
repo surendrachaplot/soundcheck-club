@@ -1,6 +1,6 @@
 # Alvaro - Solar at Arcana
 
-Alvaro - Solar at Arcana on Fri 9 Oct, Sanfrancisco. 1 act on the bill: Solar. Ambient and Disco. Preview the line-up and save it on soundcheck.
+Alvaro - Solar at Arcana on Fri 9 Oct, San Francisco/Oakland. 1 artist on the bill: Solar. Ambient and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Jesse Sandwich is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The California Clipper, Chicago on Tue, 29 Sept 2026.
 
-Jesse Sandwich is a house and italo disco artist based in United States of America, tracked on soundcheck, with 18 sets logged across Chicago and Losangeles. Often billed alongside Ross Kelly, Beau Wanzer and Byron The Aquarius. Next up: The California Clipper, Chicago on Tue 29 Sept.
+Jesse Sandwich is a house and italo disco artist based in United States of America, tracked on soundcheck, with 18 sets logged across Chicago and Los Angeles. Often billed alongside Ross Kelly, Beau Wanzer and Byron The Aquarius. Next up: The California Clipper, Chicago on Tue 29 Sept.
 
 ## Upcoming shows
 

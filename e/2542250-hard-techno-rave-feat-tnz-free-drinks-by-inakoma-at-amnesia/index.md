@@ -1,6 +1,6 @@
 # Hard Techno Rave feat. TNZ - FREE Drinks by INAKOMA at Amnesia
 
-Hard Techno Rave feat. TNZ - FREE Drinks by INAKOMA at Amnesia on Fri 9 Oct, Bangkok. 1 act on the bill: Sam Laxton. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Hard Techno Rave feat. TNZ - FREE Drinks by INAKOMA at Amnesia on Fri 9 Oct, Bangkok. 1 artist on the bill: Sam Laxton. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

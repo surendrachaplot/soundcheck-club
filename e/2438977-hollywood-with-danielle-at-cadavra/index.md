@@ -1,6 +1,6 @@
 # HOLLYWOOD with Danielle at Cadavra
 
-HOLLYWOOD with Danielle at Cadavra on Sat 12 Dec, Madrid. 2 acts on the bill: Danielle and TWO EX. Electronica. Preview the line-up and save it on soundcheck.
+HOLLYWOOD with Danielle at Cadavra on Sat 12 Dec, Madrid. 2 artists on the bill: Danielle and TWO EX. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

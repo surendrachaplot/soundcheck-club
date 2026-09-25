@@ -2,7 +2,7 @@
 
 Lovecraft is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Sat, 17 Oct 2026.
 
-Lovecraft is a deep house and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Berlin and Newyorkcity. Often billed alongside OBA+FLIP, Daniel Cowel and Mira. Next up: Signal, Newyorkcity on Sat 17 Oct.
+Lovecraft is a deep house and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Berlin and New York City. Often billed alongside OBA+FLIP, Daniel Cowel and Mira. Next up: Signal, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Renate Klubnacht with Spice Club x Akt at Renate
 
-Renate Klubnacht with Spice Club x Akt on Fri 2 Oct, Berlin. 8 acts on the bill: DJ ASS TITS, Ellen Trenn, Elotrance and LILI and 4 more. Preview the line-up and save it on soundcheck.
+Renate Klubnacht with Spice Club x Akt on Fri 2 Oct, Berlin. 8 artists on the bill: DJ ASS TITS, Ellen Trenn, Elotrance and LILI and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

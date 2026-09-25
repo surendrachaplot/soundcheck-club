@@ -1,6 +1,6 @@
 # Desert Dwellers presented by Public Works & Bicycle Day at Public Works
 
-Desert Dwellers presented by Public Works & Bicycle Day on Sat 5 Dec, Sanfrancisco. Preview the line-up and save it on soundcheck.
+Desert Dwellers presented by Public Works & Bicycle Day on Sat 5 Dec, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

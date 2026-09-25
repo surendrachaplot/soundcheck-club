@@ -1,6 +1,6 @@
 # Focal Point w/ Binh, Jade Seatle at Gaffe
 
-Focal Point w/ Binh, Jade Seatle at Gaffe on Fri 9 Oct, London. 6 acts on the bill: Alien Communications, Binh, Chez de Milo and Harri Pepper and 2 more. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Focal Point w/ Binh, Jade Seatle at Gaffe on Fri 9 Oct, London. 6 artists on the bill: Alien Communications, Binh, Chez de Milo and Harri Pepper and 2 more. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

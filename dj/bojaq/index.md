@@ -2,7 +2,7 @@
 
 BOJAQ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Walnut Bar & Grill, New York City on Fri, 25 Sept 2026.
 
-BOJAQ is a techno and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Newyorkcity. Often billed alongside DJ HOLIDAY, cry$cross and Agent DMZ.. Next up: Walnut Bar & Grill, Newyorkcity on Fri 25 Sept.
+BOJAQ is a techno and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across New York City. Often billed alongside DJ HOLIDAY, cry$cross and Agent DMZ.. Next up: Walnut Bar & Grill, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

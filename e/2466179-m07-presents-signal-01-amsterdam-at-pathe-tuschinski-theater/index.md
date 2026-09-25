@@ -1,6 +1,6 @@
 # M07 presents SIGNAL_01 - Amsterdam at Pathe Tuschinski Theater
 
-M07 presents SIGNAL_01 - Amsterdam at Pathe Tuschinski Theater on Thu 22 Oct, Amsterdam. 1 act on the bill: M07 (US). Preview the line-up and save it on soundcheck.
+M07 presents SIGNAL_01 - Amsterdam at Pathe Tuschinski Theater on Thu 22 Oct, Amsterdam. 1 artist on the bill: M07 (US). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

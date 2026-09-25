@@ -1,6 +1,6 @@
 # FABRICLIVE: Planet V at fabric
 
-FABRICLIVE: Planet V at fabric on Sat 14 Nov, London. 21 acts on the bill: ALIBI, Bladerunner, Bryan Gee and cloud lord (2) and 17 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+FABRICLIVE: Planet V at fabric on Sat 14 Nov, London. 21 artists on the bill: ALIBI, Bladerunner, Bryan Gee and cloud lord and 17 more. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

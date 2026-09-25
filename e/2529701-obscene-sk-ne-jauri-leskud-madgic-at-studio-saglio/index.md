@@ -1,6 +1,6 @@
 # OBSCENE: Sköne - Jauri - Leskud - Madgic at Studio Saglio
 
-OBSCENE: Sköne - Jauri - Leskud - Madgic at Studio Saglio on Sat 26 Sept, Strasbourg. 2 acts on the bill: Jauri and Sköne. Techno. Preview the line-up and save it on soundcheck.
+OBSCENE: Sköne - Jauri - Leskud - Madgic at Studio Saglio on Sat 26 Sept, Strasbourg. 2 artists on the bill: Jauri and Sköne. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

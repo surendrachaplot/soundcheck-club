@@ -1,6 +1,6 @@
 # Mietze Conte at Botanique
 
-Mietze Conte at Botanique on Fri 20 Nov, Brussels. 1 act on the bill: Mietze Conte. Electro. Preview the line-up and save it on soundcheck.
+Mietze Conte at Botanique on Fri 20 Nov, Brussels. 1 artist on the bill: Mietze Conte. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

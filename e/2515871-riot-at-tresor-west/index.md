@@ -1,6 +1,6 @@
 # RIOT at Tresor.West
 
-RIOT at Tresor.West on Sat 26 Sept, Dortmund-essen. 3 acts on the bill: Akua, Alias Shay and Medea. Preview the line-up and save it on soundcheck.
+RIOT at Tresor.West on Sat 26 Sept, Dortmund Essen. 3 artists on the bill: Akua, Alias Shay and Medea. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

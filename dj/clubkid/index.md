@@ -2,7 +2,7 @@
 
 ClubKid is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Burger Disco Club, Athens on Fri, 2 Oct 2026.
 
-ClubKid is a house and techno artist based in Greece, tracked on soundcheck, with 161 sets logged across Athens, Berlin, Bucharest and Mexicocity and 2 more. Often billed alongside .Fro., Bill Sanders and Maria Politi. Next up: Burger Disco Club, Athens on Fri 2 Oct.
+ClubKid is a house and techno artist based in Greece, tracked on soundcheck, with 161 sets logged across Athens, Berlin, Bucharest and Mexico City and 2 more. Often billed alongside .Fro., Bill Sanders and Maria Politi. Next up: Burger Disco Club, Athens on Fri 2 Oct.
 
 ## Upcoming shows
 

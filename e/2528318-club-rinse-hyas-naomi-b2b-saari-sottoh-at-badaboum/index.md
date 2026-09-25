@@ -1,6 +1,6 @@
 # Club — Rinse: Hyas, Naomi b2b Saari, SOTTOH at Badaboum
 
-Club — Rinse: Hyas, Naomi b2b Saari, SOTTOH at Badaboum on Fri 25 Sept, Paris. 4 acts on the bill: Hyas, Naomi (FR), Saari and SOTTOH. Bass and Garage. Preview the line-up and save it on soundcheck.
+Club — Rinse: Hyas, Naomi b2b Saari, SOTTOH at Badaboum on Fri 25 Sept, Paris. 4 artists on the bill: Hyas, Naomi (FR), Saari and SOTTOH. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

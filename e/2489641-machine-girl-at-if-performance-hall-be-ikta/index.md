@@ -1,6 +1,6 @@
 # Machine Girl at IF Performance Hall Beşiktaş
 
-Machine Girl at IF Performance Hall Beşiktaş on Wed 11 Nov, Istanbul. 2 acts on the bill: dj s1s0 and Machine Girl. Experimental. Preview the line-up and save it on soundcheck.
+Machine Girl at IF Performance Hall Beşiktaş on Wed 11 Nov, Istanbul. 2 artists on the bill: dj s1s0 and Machine Girl. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

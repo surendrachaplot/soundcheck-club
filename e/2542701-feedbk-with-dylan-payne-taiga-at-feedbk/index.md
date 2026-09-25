@@ -1,6 +1,6 @@
 # feedbk with Dylan Payne, Taiga at feedbk
 
-feedbk with Dylan Payne, Taiga on Sun 25 Oct, Newyorkcity. 2 acts on the bill: Dylan Payne and Taiga. Preview the line-up and save it on soundcheck.
+feedbk with Dylan Payne, Taiga on Sun 25 Oct, New York City. 2 artists on the bill: Dylan Payne and Taiga. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

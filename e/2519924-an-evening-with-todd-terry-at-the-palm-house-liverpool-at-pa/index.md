@@ -1,6 +1,6 @@
 # An Evening With Todd Terry at The Palm House - Liverpool at Palm House
 
-An Evening With Todd Terry at The Palm House - Liverpool on Fri 30 Oct, Liverpool. 1 act on the bill: Todd Terry. House and Disco. Preview the line-up and save it on soundcheck.
+An Evening With Todd Terry at The Palm House - Liverpool on Fri 30 Oct, Liverpool. 1 artist on the bill: Todd Terry. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Porter Robinson is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
-Porter Robinson is a house and pop artist based in United States of America, tracked on soundcheck, with 16 sets logged across Austin, Boston, Chicago and Losangeles and 5 more. Often billed alongside Max Styler, G Jones and Layton Giordani. Next up: The Concourse Project, Austin on Fri 13 Nov.
+Porter Robinson is a house and pop artist based in United States of America, tracked on soundcheck, with 16 sets logged across Austin, Boston, Chicago and Los Angeles and 5 more. Often billed alongside Max Styler, G Jones and Layton Giordani. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
 ## Upcoming shows
 

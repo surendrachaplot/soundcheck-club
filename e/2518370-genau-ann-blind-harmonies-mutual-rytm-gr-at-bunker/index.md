@@ -1,6 +1,6 @@
 # GENAU: ANNĒ (Blind Harmonies - Mutual Rytm / GR) at Bunker
 
-GENAU: ANNĒ (Blind Harmonies - Mutual Rytm / GR) at Bunker on Fri 6 Nov, Turin. 1 act on the bill: ANNĒ. Techno. Preview the line-up and save it on soundcheck.
+GENAU: ANNĒ (Blind Harmonies - Mutual Rytm / GR) at Bunker on Fri 6 Nov, Turin. 1 artist on the bill: ANNĒ. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

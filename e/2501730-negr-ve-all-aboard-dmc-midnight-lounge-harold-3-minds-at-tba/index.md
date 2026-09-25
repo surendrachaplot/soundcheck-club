@@ -1,6 +1,6 @@
 # Negrūve: All Aboard [DMC, Midnight Lounge, Harold & 3 Minds] at TBA
 
-Negrūve: All Aboard [DMC, Midnight Lounge, Harold & 3 Minds] at TBA on Sat 26 Sept, London. 4 acts on the bill: 3 Minds, DMC., Harold. and Midnight Lounge. House and Minimal. Preview the line-up and save it on soundcheck.
+Negrūve: All Aboard [DMC, Midnight Lounge, Harold & 3 Minds] at TBA on Sat 26 Sept, London. 4 artists on the bill: 3 Minds, DMC., Harold. and Midnight Lounge. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

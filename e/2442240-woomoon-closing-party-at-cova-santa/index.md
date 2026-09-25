@@ -1,6 +1,6 @@
 # WooMooN CLOSING PARTY at Cova Santa
 
-WooMooN CLOSING PARTY at Cova Santa on Fri 2 Oct, Ibiza. 7 acts on the bill: Christian Löffler, Deer Jade, Igor Marijuan and Isadora and 3 more. Electronica. Preview the line-up and save it on soundcheck.
+WooMooN CLOSING PARTY at Cova Santa on Fri 2 Oct, Ibiza. 7 artists on the bill: Christian Löffler, Deer Jade, Igor Marijuan and Isadora and 3 more. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

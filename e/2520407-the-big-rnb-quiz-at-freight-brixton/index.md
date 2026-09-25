@@ -1,6 +1,6 @@
 # The Big RnB Quiz at Freight Brixton
 
-The Big RnB Quiz at Freight Brixton on Sat 3 Oct, London. 1 act on the bill: Nana B. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+The Big RnB Quiz at Freight Brixton on Sat 3 Oct, London. 1 artist on the bill: Nana B. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

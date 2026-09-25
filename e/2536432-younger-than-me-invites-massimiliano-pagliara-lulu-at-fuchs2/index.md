@@ -1,6 +1,6 @@
 # Younger Than Me INVITES Massimiliano Pagliara ☆ Lulu at Fuchs2
 
-Younger Than Me INVITES Massimiliano Pagliara ☆ Lulu at Fuchs2 on Sat 17 Oct, Prague. 3 acts on the bill: LuLu (CZ), Massimiliano Pagliara and Younger Than Me. Preview the line-up and save it on soundcheck.
+Younger Than Me INVITES Massimiliano Pagliara ☆ Lulu at Fuchs2 on Sat 17 Oct, Prague. 3 artists on the bill: LuLu (CZ), Massimiliano Pagliara and Younger Than Me. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

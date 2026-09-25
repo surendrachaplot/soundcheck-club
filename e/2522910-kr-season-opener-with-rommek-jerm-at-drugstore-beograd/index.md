@@ -1,6 +1,6 @@
 # KRШ Season Opener with Rommek & JERM at Drugstore Beograd
 
-KRШ Season Opener with Rommek & JERM at Drugstore Beograd on Fri 25 Sept, Belgrade. 4 acts on the bill: HETEM, JERM, mdngt and Rommek. Techno. Preview the line-up and save it on soundcheck.
+KRШ Season Opener with Rommek & JERM at Drugstore Beograd on Fri 25 Sept, Belgrade. 4 artists on the bill: HETEM, JERM, mdngt and Rommek. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

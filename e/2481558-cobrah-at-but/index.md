@@ -1,6 +1,6 @@
 # COBRAH at But
 
-COBRAH at But on Wed 25 Nov, Madrid. 1 act on the bill: COBRAH. Preview the line-up and save it on soundcheck.
+COBRAH at But on Wed 25 Nov, Madrid. 1 artist on the bill: COBRAH. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

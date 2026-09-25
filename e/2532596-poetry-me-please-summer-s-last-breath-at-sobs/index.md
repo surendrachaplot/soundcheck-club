@@ -1,6 +1,6 @@
 # poetry me, please: Summer's Last Breath at SOBs
 
-poetry me, please: Summer's Last Breath at SOBs on Sat 26 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+poetry me, please: Summer's Last Breath at SOBs on Sat 26 Sept, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

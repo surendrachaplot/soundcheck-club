@@ -1,6 +1,6 @@
 # NASTY #6 at Ankali & Planeta Za
 
-NASTY #6 at Ankali & Planeta Za on Sat 10 Oct, Prague. 7 acts on the bill: A/PM, aykanakdag, Chromic Disease and Kewu and 3 more. Bass and Electro. Preview the line-up and save it on soundcheck.
+NASTY #6 at Ankali & Planeta Za on Sat 10 Oct, Prague. 7 artists on the bill: A/PM, aykanakdag, Chromic Disease and Kewu and 3 more. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

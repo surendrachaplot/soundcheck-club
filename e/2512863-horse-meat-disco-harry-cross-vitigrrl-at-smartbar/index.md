@@ -1,6 +1,6 @@
 # Horse Meat Disco - Harry Cross - VITIGRRL at smartbar
 
-Horse Meat Disco - Harry Cross - VITIGRRL at smartbar on Sat 26 Sept, Chicago. 3 acts on the bill: Harry Cross, Horse Meat Disco and VITIGRRL. House and Disco. Preview the line-up and save it on soundcheck.
+Horse Meat Disco - Harry Cross - VITIGRRL at smartbar on Sat 26 Sept, Chicago. 3 artists on the bill: Harry Cross, Horse Meat Disco and VITIGRRL. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

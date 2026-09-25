@@ -1,6 +1,6 @@
 # SMD - Pablo Bozzi & Jorkes at TBA - Downtown LA
 
-SMD - Pablo Bozzi & Jorkes at TBA - Downtown LA on Sat 10 Oct, Losangeles. 2 acts on the bill: Jorkes and Pablo Bozzi. Techno and Electro. Preview the line-up and save it on soundcheck.
+SMD - Pablo Bozzi & Jorkes at TBA - Downtown LA on Sat 10 Oct, Los Angeles. 2 artists on the bill: Jorkes and Pablo Bozzi. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CTC x 333: Elcammgguod at Nice N Sleazy
 
-CTC x 333: Elcammgguod at Nice N Sleazy on Sun 4 Oct, Glasgow. 1 act on the bill: elcammgguod. Hip-Hop. Preview the line-up and save it on soundcheck.
+CTC x 333: Elcammgguod at Nice N Sleazy on Sun 4 Oct, Glasgow. 1 artist on the bill: elcammgguod. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

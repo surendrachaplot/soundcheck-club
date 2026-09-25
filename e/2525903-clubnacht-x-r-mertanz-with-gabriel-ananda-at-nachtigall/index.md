@@ -1,6 +1,6 @@
 # CLUBNACHT x RÖMERTANZ with Gabriel Ananda at Nachtigall
 
-CLUBNACHT x RÖMERTANZ with Gabriel Ananda at Nachtigall on Fri 2 Oct, Cologne. 1 act on the bill: Gabriel Ananda. Techno. Preview the line-up and save it on soundcheck.
+CLUBNACHT x RÖMERTANZ with Gabriel Ananda at Nachtigall on Fri 2 Oct, Cologne. 1 artist on the bill: Gabriel Ananda. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

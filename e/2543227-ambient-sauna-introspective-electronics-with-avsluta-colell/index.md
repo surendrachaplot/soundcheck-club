@@ -1,6 +1,6 @@
 # Ambient Sauna • Introspective Electronics with Avsluta & colell at Sauna Social Club
 
-Ambient Sauna • Introspective Electronics with Avsluta & colell at Sauna Social Club on Sat 3 Oct, London. 2 acts on the bill: Avsluta and colell. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Ambient Sauna • Introspective Electronics with Avsluta & colell at Sauna Social Club on Sat 3 Oct, London. 2 artists on the bill: Avsluta and colell. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

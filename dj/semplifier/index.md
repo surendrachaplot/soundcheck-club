@@ -2,7 +2,7 @@
 
 SEMPLIFIER is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Toffler, Rotterdam on Fri, 30 Oct 2026.
 
-SEMPLIFIER is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Berlin, Rotterdam and Utrecht. Often billed alongside D|K|OXY, GWELD and ANXIETY (2). Next up: Toffler, Rotterdam on Fri 30 Oct.
+SEMPLIFIER is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Berlin, Rotterdam and Utrecht. Often billed alongside D|K|OXY, GWELD and ANXIETY. Next up: Toffler, Rotterdam on Fri 30 Oct.
 
 ## Upcoming shows
 

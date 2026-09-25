@@ -2,7 +2,7 @@
 
 320 (1) is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, New York City on Fri, 25 Sept 2026.
 
-320 (1) is a techno and experimental artist based in United States of America, tracked on soundcheck, with 21 sets logged across Berlin and Newyorkcity. Often billed alongside Baroque Hoe, Brutal Twink and Carrier. Next up: TBA, Newyorkcity on Fri 25 Sept.
+320 is a techno and experimental artist based in United States of America, tracked on soundcheck, with 21 sets logged across Berlin and New York City. Often billed alongside Baroque Hoe, Brutal Twink and Carrier. Next up: TBA, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

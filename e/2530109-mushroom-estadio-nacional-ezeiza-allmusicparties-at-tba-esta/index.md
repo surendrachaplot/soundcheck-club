@@ -1,6 +1,6 @@
 # Mushroom, Estadio Nacional Ezeiza - ALLMusicParties at TBA - Estadio Nacional, Ezeiza
 
-Mushroom, Estadio Nacional Ezeiza - ALLMusicParties at TBA - Estadio Nacional, Ezeiza on Sun 25 Oct, Buenosaires. Preview the line-up and save it on soundcheck.
+Mushroom, Estadio Nacional Ezeiza - ALLMusicParties at TBA - Estadio Nacional, Ezeiza on Sun 25 Oct, Buenos Aires. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

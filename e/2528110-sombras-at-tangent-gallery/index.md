@@ -1,6 +1,6 @@
 # Sombras at Tangent Gallery
 
-Sombras at Tangent Gallery on Sat 3 Oct, Detroit. 9 acts on the bill: Auntie Chanel, Blackmoonchild, Craig Gonzalez and JS Alvarez and 5 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Sombras at Tangent Gallery on Sat 3 Oct, Detroit. 9 artists on the bill: Auntie Chanel, Blackmoonchild, Craig Gonzalez and JS Alvarez and 5 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

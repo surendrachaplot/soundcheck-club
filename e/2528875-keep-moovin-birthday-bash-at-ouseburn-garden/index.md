@@ -1,6 +1,6 @@
 # Keep Moovin' Birthday Bash at Ouseburn Garden
 
-Keep Moovin' Birthday Bash at Ouseburn Garden on Sat 24 Oct, Newcastle. 6 acts on the bill: FroD, Henry Wilson, keks and PHJ.WAV and 2 more. Electro and Deep House. Preview the line-up and save it on soundcheck.
+Keep Moovin' Birthday Bash at Ouseburn Garden on Sat 24 Oct, Newcastle. 6 artists on the bill: FroD, Henry Wilson, keks and PHJ.WAV and 2 more. Electro and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

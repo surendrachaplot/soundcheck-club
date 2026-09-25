@@ -1,6 +1,6 @@
 # Projekt Bocki at Lokschuppen Berlin
 
-Projekt Bocki at Lokschuppen Berlin on Tue 6 Oct, Berlin. 8 acts on the bill: bbymeister, DJ Spaßgetränk, EZA (DE) and Florelle and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Projekt Bocki at Lokschuppen Berlin on Tue 6 Oct, Berlin. 8 artists on the bill: bbymeister, DJ Spaßgetränk, EZA (DE) and Florelle and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

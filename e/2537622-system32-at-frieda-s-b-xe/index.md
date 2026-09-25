@@ -1,6 +1,6 @@
 # system32 at Frieda's Büxe
 
-system32 at Frieda's Büxe on Fri 16 Oct, Zurich. 3 acts on the bill: Aron (CH), GENE and OMAR  C. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+system32 at Frieda's Büxe on Fri 16 Oct, Zurich. 3 artists on the bill: Aron (CH), GENE and OMAR  C. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # WoopWoop Party at NY.Club
 
-WoopWoop Party at NY.Club on Sat 14 Nov, Munich. 1 act on the bill: Chris Bekker. Trance and Tech House. Preview the line-up and save it on soundcheck.
+WoopWoop Party at NY.Club on Sat 14 Nov, Munich. 1 artist on the bill: Chris Bekker. Trance and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

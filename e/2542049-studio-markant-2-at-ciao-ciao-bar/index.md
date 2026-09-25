@@ -1,6 +1,6 @@
 # Studio Markant #2 at ciao ciao Bar
 
-Studio Markant #2 at ciao ciao Bar on Fri 25 Sept, Berlin. 2 acts on the bill: Benny Grauer and Mark Jackus. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Studio Markant #2 at ciao ciao Bar on Fri 25 Sept, Berlin. 2 artists on the bill: Benny Grauer and Mark Jackus. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

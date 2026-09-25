@@ -1,6 +1,6 @@
 # Kings of Bass presents: General Levy (UK) at Mdlr
 
-Kings of Bass presents: General Levy (UK) at Mdlr on Sat 3 Oct, Singapore. 3 acts on the bill: ARESHA, General Levy and RAAJ. Dancehall and Jungle. Preview the line-up and save it on soundcheck.
+Kings of Bass presents: General Levy (UK) at Mdlr on Sat 3 Oct, Singapore. 3 artists on the bill: ARESHA, General Levy and RAAJ. Dancehall and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

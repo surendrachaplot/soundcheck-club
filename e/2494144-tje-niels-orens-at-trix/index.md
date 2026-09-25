@@ -1,6 +1,6 @@
 # TJE + Niels Orens at Trix
 
-TJE + Niels Orens at Trix on Wed 7 Oct, Antwerp. 1 act on the bill: Niels Orens. Preview the line-up and save it on soundcheck.
+TJE + Niels Orens at Trix on Wed 7 Oct, Antwerp. 1 artist on the bill: Niels Orens. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

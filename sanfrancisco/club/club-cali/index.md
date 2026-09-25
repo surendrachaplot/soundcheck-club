@@ -2,7 +2,7 @@
 
 Club Cali is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "whereisreef AUDIOPAINT Listening Party" on Thu, 24 Sept 2026.
 
-Club Cali is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing.
+Club Cali is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

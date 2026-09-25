@@ -1,6 +1,6 @@
 # Solace Invites W/ Ari Kait Xri Tommy Sharp Hoovy Jess.Jessica at Solace
 
-Solace Invites W/ Ari Kait Xri Tommy Sharp Hoovy Jess.Jessica on Fri 25 Sept, Melbourne. 3 acts on the bill: Ari (AU), Kait Xri and Tommy Sharp. Techno. Preview the line-up and save it on soundcheck.
+Solace Invites W/ Ari Kait Xri Tommy Sharp Hoovy Jess.Jessica on Fri 25 Sept, Melbourne. 3 artists on the bill: Ari (AU), Kait Xri and Tommy Sharp. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

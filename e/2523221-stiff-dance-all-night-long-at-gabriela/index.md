@@ -1,6 +1,6 @@
 # Stiff Dance // ALL NIGHT LONG at Gabriela
 
-Stiff Dance // ALL NIGHT LONG at Gabriela on Sat 26 Sept, Newyorkcity. 1 act on the bill: Stiffdance. Electro and Acid. Preview the line-up and save it on soundcheck.
+Stiff Dance // ALL NIGHT LONG at Gabriela on Sat 26 Sept, New York City. 1 artist on the bill: Stiffdance. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

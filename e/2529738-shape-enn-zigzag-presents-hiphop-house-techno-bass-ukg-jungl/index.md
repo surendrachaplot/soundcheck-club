@@ -1,6 +1,6 @@
 # SHAPE -Enn × ZIGZAG presents- HIPHOP / HOUSE / TECHNO / BASS / UKG / JUNGLE / DnB at ZEROTOKYO
 
-SHAPE -Enn × ZIGZAG presents- HIPHOP / HOUSE / TECHNO / BASS / UKG / JUNGLE / DnB at ZEROTOKYO on Sun 27 Sept, Tokyo. 2 acts on the bill: illequal and MK woop. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+SHAPE -Enn × ZIGZAG presents- HIPHOP / HOUSE / TECHNO / BASS / UKG / JUNGLE / DnB at ZEROTOKYO on Sun 27 Sept, Tokyo. 2 artists on the bill: illequal and MK woop. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

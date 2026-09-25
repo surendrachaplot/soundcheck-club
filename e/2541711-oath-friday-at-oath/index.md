@@ -1,6 +1,6 @@
 # OATH FRIDAY at Oath
 
-OATH FRIDAY at Oath on Fri 25 Sept, Tokyo. 2 acts on the bill: Celter and Taro. Techno and House. Preview the line-up and save it on soundcheck.
+OATH FRIDAY at Oath on Fri 25 Sept, Tokyo. 2 artists on the bill: Celter and Taro. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

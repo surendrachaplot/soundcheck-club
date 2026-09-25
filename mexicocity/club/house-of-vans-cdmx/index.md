@@ -2,7 +2,7 @@
 
 House of Vans CDMX is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "EELF Presents - CDMX: Target Demographic (U.S), Shaolin Cowboy (U.K), DJ Windows 7 (MX)" on Sat, 5 Dec 2026.
 
-House of Vans CDMX is a music venue in Mexicocity listed on soundcheck. 1 upcoming gig, with line-ups including DJ WINDOWS 7, Mike.D, Odysseus and Shaolin Cowboy and 1 more. Browse upcoming dates, start times and who's playing. Rubens #6, San Juan, Benito JuÃ¡rez, 03730 Ciudad de MÃ©xico, CDMX.
+House of Vans CDMX is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including DJ WINDOWS 7, Mike.D, Odysseus and Shaolin Cowboy and 1 more. Browse upcoming dates, start times and who's playing. Rubens #6, San Juan, Benito JuÃ¡rez, 03730 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 

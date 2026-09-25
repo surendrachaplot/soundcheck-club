@@ -1,6 +1,6 @@
 # BASIS/ Ben Techy/ Brtinzz/ Nikki/ Remon Verhoeve at BASIS
 
-BASIS/ Ben Techy/ Brtinzz/ Nikki/ Remon Verhoeve on Sat 24 Oct, Utrecht. 3 acts on the bill: Ben Techy, Brtinzz and Remon Verhoeve. Techno. Preview the line-up and save it on soundcheck.
+BASIS/ Ben Techy/ Brtinzz/ Nikki/ Remon Verhoeve on Sat 24 Oct, Utrecht. 3 artists on the bill: Ben Techy, Brtinzz and Remon Verhoeve. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

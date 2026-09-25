@@ -1,6 +1,6 @@
 # FUNCTION XXVIII at TBA
 
-FUNCTION XXVIII at TBA on Fri 25 Sept, Newyorkcity. 13 acts on the bill: 320 (1), Annie Lew, Baroque Hoe and Caín Lima and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
+FUNCTION XXVIII at TBA on Fri 25 Sept, New York City. 13 artists on the bill: 320, Annie Lew, Baroque Hoe and Caín Lima and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

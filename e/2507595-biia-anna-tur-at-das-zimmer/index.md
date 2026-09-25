@@ -1,6 +1,6 @@
 # BIIA, Anna Tur at Das Zimmer
 
-BIIA, Anna Tur at Das Zimmer on Sat 26 Sept, Mannheim. 2 acts on the bill: Anna Tur and BIIA. Preview the line-up and save it on soundcheck.
+BIIA, Anna Tur at Das Zimmer on Sat 26 Sept, Mannheim. 2 artists on the bill: Anna Tur and BIIA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

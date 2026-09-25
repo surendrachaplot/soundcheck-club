@@ -1,6 +1,6 @@
 # SEVERAL SHOWCASE at Garage 442
 
-SEVERAL SHOWCASE at Garage 442 on Wed 14 Oct, Barcelona. 1 act on the bill: DJ Alen. Preview the line-up and save it on soundcheck.
+SEVERAL SHOWCASE at Garage 442 on Wed 14 Oct, Barcelona. 1 artist on the bill: DJ Alen. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HEAT at Aisotope Lounge
 
-HEAT at Aisotope Lounge on Thu 1 Oct, Tokyo. 1 act on the bill: tiger&dragon. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+HEAT at Aisotope Lounge on Thu 1 Oct, Tokyo. 1 artist on the bill: tiger&dragon. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

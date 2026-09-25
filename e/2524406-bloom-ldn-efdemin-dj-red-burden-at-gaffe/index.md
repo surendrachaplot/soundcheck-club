@@ -1,6 +1,6 @@
 # Bloom Ldn: Efdemin, DJ Red, Burden at Gaffe
 
-Bloom Ldn: Efdemin, DJ Red, Burden at Gaffe on Fri 6 Nov, London. 3 acts on the bill: Burden, DJ Red and Efdemin. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Bloom Ldn: Efdemin, DJ Red, Burden at Gaffe on Fri 6 Nov, London. 3 artists on the bill: Burden, DJ Red and Efdemin. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

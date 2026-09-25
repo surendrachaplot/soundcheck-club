@@ -1,6 +1,6 @@
 # Serialism Showcase at Macarena Club
 
-Serialism Showcase at Macarena Club on Sat 10 Oct, Barcelona. 2 acts on the bill: Cesare vs Disorder and erlin james. Preview the line-up and save it on soundcheck.
+Serialism Showcase at Macarena Club on Sat 10 Oct, Barcelona. 2 artists on the bill: Cesare vs Disorder and erlin james. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

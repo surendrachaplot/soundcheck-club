@@ -2,7 +2,7 @@
 
 ZO3 (1) is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 26 Sept 2026.
 
-ZO3 (1) is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Dundee and Edinburgh. Often billed alongside Lara Sinclair, Casement and DV60. Next up: The Bongo Club, Edinburgh on Sat 26 Sept.
+ZO3 is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Dundee and Edinburgh. Often billed alongside Lara Sinclair, Casement and DV60. Next up: The Bongo Club, Edinburgh on Sat 26 Sept.
 
 ## Upcoming shows
 

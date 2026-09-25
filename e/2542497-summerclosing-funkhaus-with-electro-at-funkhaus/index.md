@@ -1,6 +1,6 @@
 # Summerclosing Funkhaus with Electro at Funkhaus
 
-Summerclosing Funkhaus with Electro on Fri 25 Sept, Vienna. 2 acts on the bill: Cufme and DJ WKStA. House and Electro. Preview the line-up and save it on soundcheck.
+Summerclosing Funkhaus with Electro on Fri 25 Sept, Vienna. 2 artists on the bill: Cufme and DJ WKStA. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

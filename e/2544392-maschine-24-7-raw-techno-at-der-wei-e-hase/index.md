@@ -1,6 +1,6 @@
 # Maschine 24-7 / RAW Techno at Der Weiße Hase
 
-Maschine 24-7 / RAW Techno at Der Weiße Hase on Sat 10 Oct, Berlin. 8 acts on the bill: Bisk, Jens Schwan, La Boum Fatale and Maschine and 4 more. Techno. Preview the line-up and save it on soundcheck.
+Maschine 24-7 / RAW Techno at Der Weiße Hase on Sat 10 Oct, Berlin. 8 artists on the bill: Bisk, Jens Schwan, La Boum Fatale and Maschine and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

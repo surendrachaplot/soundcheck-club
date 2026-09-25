@@ -1,6 +1,6 @@
 # Memento Xs at Macarena Club
 
-Memento Xs at Macarena Club on Mon 5 Oct, Barcelona. 1 act on the bill: Lucretio. Preview the line-up and save it on soundcheck.
+Memento Xs at Macarena Club on Mon 5 Oct, Barcelona. 1 artist on the bill: Lucretio. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

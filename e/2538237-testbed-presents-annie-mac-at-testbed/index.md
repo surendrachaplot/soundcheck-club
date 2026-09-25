@@ -1,6 +1,6 @@
 # TESTBED Presents: Annie Mac at TESTBED
 
-TESTBED Presents: Annie Mac on Sat 3 Oct, Leeds. 5 acts on the bill: Annie Mac, Horse Meat Disco, Junior Simba and Marcia Carr and 1 more. House and Club. Preview the line-up and save it on soundcheck.
+TESTBED Presents: Annie Mac on Sat 3 Oct, Leeds. 5 artists on the bill: Annie Mac, Horse Meat Disco, Junior Simba and Marcia Carr and 1 more. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

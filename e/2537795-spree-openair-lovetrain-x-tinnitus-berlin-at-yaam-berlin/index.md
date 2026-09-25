@@ -1,6 +1,6 @@
 # SPREE OPENAIR: LoveTrain x Tinnitus Berlin at YAAM Berlin
 
-SPREE OPENAIR: LoveTrain x Tinnitus Berlin at YAAM Berlin on Sat 26 Sept, Berlin. 6 acts on the bill: djst4rlight, FRÆNCIS, JENKA and KOIA (2) and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+SPREE OPENAIR: LoveTrain x Tinnitus Berlin at YAAM Berlin on Sat 26 Sept, Berlin. 6 artists on the bill: djst4rlight, FRÆNCIS, JENKA and KOIA and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

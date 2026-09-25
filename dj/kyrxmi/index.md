@@ -2,7 +2,7 @@
 
 Kyrxmi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at High Tide, Los Angeles on Sat, 10 Oct 2026.
 
-Kyrxmi is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Amsterdam and Losangeles. Often billed alongside Karlim, Albina Van and Aztekan. Next up: High Tide, Losangeles on Sat 10 Oct.
+Kyrxmi is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Amsterdam and Los Angeles. Often billed alongside Karlim, Albina Van and Aztekan. Next up: High Tide, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # T7: Showtek at T7 Paris
 
-T7: Showtek at T7 Paris on Fri 23 Oct, Paris. 1 act on the bill: Showtek. Preview the line-up and save it on soundcheck.
+T7: Showtek at T7 Paris on Fri 23 Oct, Paris. 1 artist on the bill: Showtek. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

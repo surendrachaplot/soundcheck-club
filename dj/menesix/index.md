@@ -2,7 +2,7 @@
 
 MENESIX is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TivoliVredenburg, Utrecht on Sat, 21 Nov 2026.
 
-MENESIX is a house and tech house artist based in Netherlands, tracked on soundcheck, with 58 sets logged across Amsterdam, Ibiza, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, Karim Soliman and Rayzir. Next up: TivoliVredenburg, Utrecht on Sat 21 Nov.
+MENESIX is a house and tech house artist based in Netherlands, tracked on soundcheck, with 58 sets logged across Amsterdam, Ibiza, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, Karim Soliman and Rayzir. Next up: TivoliVredenburg, Utrecht on Sat 21 Nov.
 
 ## Upcoming shows
 

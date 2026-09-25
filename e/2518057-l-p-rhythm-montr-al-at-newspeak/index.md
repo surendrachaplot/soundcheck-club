@@ -1,6 +1,6 @@
 # L.P. Rhythm - Montréal at Newspeak
 
-L.P. Rhythm - Montréal at Newspeak on Fri 16 Oct, Montreal. 1 act on the bill: L.P. Rhythm. House and Minimal. Preview the line-up and save it on soundcheck.
+L.P. Rhythm - Montréal at Newspeak on Fri 16 Oct, Montreal. 1 artist on the bill: L.P. Rhythm. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

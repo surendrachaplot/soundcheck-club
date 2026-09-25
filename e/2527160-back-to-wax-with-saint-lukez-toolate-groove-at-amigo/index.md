@@ -1,6 +1,6 @@
 # Back To Wax with Saint Lukez & Toolate Groove at Amigo
 
-Back To Wax with Saint Lukez & Toolate Groove at Amigo on Fri 2 Oct, Ghent. 3 acts on the bill: His dudeness, Saint Lukez and Toolate Groove. House and Deep House. Preview the line-up and save it on soundcheck.
+Back To Wax with Saint Lukez & Toolate Groove at Amigo on Fri 2 Oct, Ghent. 3 artists on the bill: His dudeness, Saint Lukez and Toolate Groove. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

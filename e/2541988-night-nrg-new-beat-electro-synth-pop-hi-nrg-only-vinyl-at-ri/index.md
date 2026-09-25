@@ -1,6 +1,6 @@
 # Night NRG New Beat, Electro, Synth Pop, Hi NRG (only Vinyl) at Ring Bar
 
-Night NRG New Beat, Electro, Synth Pop, Hi NRG (only Vinyl) at Ring Bar on Sun 27 Sept, Berlin. 2 acts on the bill: Lancer (2) and Marina Key. Electro and Disco. Preview the line-up and save it on soundcheck.
+Night NRG New Beat, Electro, Synth Pop, Hi NRG (only Vinyl) at Ring Bar on Sun 27 Sept, Berlin. 2 artists on the bill: Lancer and Marina Key. Electro and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

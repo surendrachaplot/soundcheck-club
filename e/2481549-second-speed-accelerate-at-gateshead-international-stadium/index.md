@@ -1,6 +1,6 @@
 # Second Speed Accelerate at Gateshead International Stadium
 
-Second Speed Accelerate at Gateshead International Stadium on Sat 26 Sept, Newcastle. 1 act on the bill: Winson Ngoh. Preview the line-up and save it on soundcheck.
+Second Speed Accelerate at Gateshead International Stadium on Sat 26 Sept, Newcastle. 1 artist on the bill: Winson Ngoh. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

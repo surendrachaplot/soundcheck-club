@@ -1,6 +1,6 @@
 # CONNECT, SEQUENCE PRESENTS: Selective Response at F8 1192 Folsom
 
-CONNECT, SEQUENCE PRESENTS: Selective Response at F8 1192 Folsom on Thu 1 Oct, Sanfrancisco. 5 acts on the bill: Axela, JustJovani, Saint Triste and Selective Response and 1 more. Techno. Preview the line-up and save it on soundcheck.
+CONNECT, SEQUENCE PRESENTS: Selective Response at F8 1192 Folsom on Thu 1 Oct, San Francisco/Oakland. 5 artists on the bill: Axela, JustJovani, Saint Triste and Selective Response and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

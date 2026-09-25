@@ -1,6 +1,6 @@
 # VEGA 6TH ANNIVERSARY W/ Aerofunk at Starlane Pizza Bar
 
-VEGA 6TH ANNIVERSARY W/ Aerofunk at Starlane Pizza Bar on Sat 17 Oct, London. 1 act on the bill: Aerofunk. House and Tech House. Preview the line-up and save it on soundcheck.
+VEGA 6TH ANNIVERSARY W/ Aerofunk at Starlane Pizza Bar on Sat 17 Oct, London. 1 artist on the bill: Aerofunk. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tuesday in Love: Safahs all night long at Unter Deck
 
-Tuesday in Love: Safahs all night long at Unter Deck on Tue 24 Nov, Munich. 1 act on the bill: Safahs. Electro. Preview the line-up and save it on soundcheck.
+Tuesday in Love: Safahs all night long at Unter Deck on Tue 24 Nov, Munich. 1 artist on the bill: Safahs. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

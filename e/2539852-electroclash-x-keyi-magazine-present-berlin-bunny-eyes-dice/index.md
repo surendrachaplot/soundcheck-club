@@ -1,6 +1,6 @@
 # ELECTROCLASH X KEYI MAGAZINE present Berlin Bunny ☆ Eyes Dice at Fuchs2
 
-ELECTROCLASH X KEYI MAGAZINE present Berlin Bunny ☆ Eyes Dice at Fuchs2 on Fri 9 Oct, Prague. 6 acts on the bill: Berlin Bunny, Demonika, Eyesdice and Midirama and 2 more. Electro. Preview the line-up and save it on soundcheck.
+ELECTROCLASH X KEYI MAGAZINE present Berlin Bunny ☆ Eyes Dice at Fuchs2 on Fri 9 Oct, Prague. 6 artists on the bill: Berlin Bunny, Demonika, Eyesdice and Midirama and 2 more. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

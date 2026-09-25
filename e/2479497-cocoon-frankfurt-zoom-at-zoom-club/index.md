@@ -1,6 +1,6 @@
 # Cocoon Frankfurt ZOOM at Zoom Club
 
-Cocoon Frankfurt ZOOM at Zoom Club on Fri 6 Nov, Frankfurt. 6 acts on the bill: Fedele, Marcel Dettmann, Maurizio Schmitz and Ogazón and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Cocoon Frankfurt ZOOM at Zoom Club on Fri 6 Nov, Frankfurt. 6 artists on the bill: Fedele, Marcel Dettmann, Maurizio Schmitz and Ogazón and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

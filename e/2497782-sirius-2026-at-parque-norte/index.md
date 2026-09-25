@@ -1,6 +1,6 @@
 # SIRIUS 2026 at Parque Norte
 
-SIRIUS 2026 at Parque Norte on Sat 12 Dec, Medellin. 4 acts on the bill: François X, Planetary Assault Systems, Rødhåd and Sam Paganini. Preview the line-up and save it on soundcheck.
+SIRIUS 2026 at Parque Norte on Sat 12 Dec, Medellin. 4 artists on the bill: François X, Planetary Assault Systems, Rødhåd and Sam Paganini. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

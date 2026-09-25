@@ -1,6 +1,6 @@
 # ORGANIC COMMUNITY x DRIPS (Berlin Showcase) at TBA - Powered by: Void Acoustics
 
-ORGANIC COMMUNITY x DRIPS (Berlin Showcase) at TBA - Powered by: Void Acoustics on Fri 6 Nov, Madrid. 3 acts on the bill: MAURER, NETN and VOICEX. Techno. Preview the line-up and save it on soundcheck.
+ORGANIC COMMUNITY x DRIPS (Berlin Showcase) at TBA - Powered by: Void Acoustics on Fri 6 Nov, Madrid. 3 artists on the bill: MAURER, NETN and VOICEX. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bendita Locura x Connect with Prunk at Lula Club
 
-Bendita Locura x Connect with Prunk at Lula Club on Sat 3 Oct, Madrid. 1 act on the bill: Prunk. Preview the line-up and save it on soundcheck.
+Bendita Locura x Connect with Prunk at Lula Club on Sat 3 Oct, Madrid. 1 artist on the bill: Prunk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

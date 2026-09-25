@@ -1,6 +1,6 @@
 # Mostly Cloudy, HydeFM & DJ Dials present: d.tour with TOCCORORO (Spain) at Danzhaus/The Gingerbread House
 
-Mostly Cloudy, HydeFM & DJ Dials present: d.tour with TOCCORORO (Spain) at Danzhaus/The Gingerbread House on Fri 25 Sept, Sanfrancisco. 5 acts on the bill: DJ JUANNY, felipe d, QUEENIE (US) and TOCCORORO and 1 more. Baile Funk and Club. Preview the line-up and save it on soundcheck.
+Mostly Cloudy, HydeFM & DJ Dials present: d.tour with TOCCORORO (Spain) at Danzhaus/The Gingerbread House on Fri 25 Sept, San Francisco/Oakland. 5 artists on the bill: DJ JUANNY, felipe d, QUEENIE (US) and TOCCORORO and 1 more. Baile Funk and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

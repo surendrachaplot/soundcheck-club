@@ -1,6 +1,6 @@
 # CHARLIE at Paragon
 
-CHARLIE at Paragon on Sun 11 Oct, Newyorkcity. House and Tech House. Preview the line-up and save it on soundcheck.
+CHARLIE at Paragon on Sun 11 Oct, New York City. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

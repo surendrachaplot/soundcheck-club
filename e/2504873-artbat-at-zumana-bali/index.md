@@ -1,6 +1,6 @@
 # Artbat at Zumana Bali
 
-Artbat at Zumana Bali on Fri 16 Oct, Bali. 1 act on the bill: Artbat. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Artbat at Zumana Bali on Fri 16 Oct, Bali. 1 artist on the bill: Artbat. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

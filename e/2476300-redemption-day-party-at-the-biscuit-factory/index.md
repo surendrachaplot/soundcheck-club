@@ -1,6 +1,6 @@
 # REDEMPTION DAY PARTY at The Biscuit Factory
 
-REDEMPTION DAY PARTY at The Biscuit Factory on Sun 27 Sept, Edinburgh. 1 act on the bill: Casi (UK). House and Funk / Soul. Preview the line-up and save it on soundcheck.
+REDEMPTION DAY PARTY at The Biscuit Factory on Sun 27 Sept, Edinburgh. 1 artist on the bill: Casi (UK). House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

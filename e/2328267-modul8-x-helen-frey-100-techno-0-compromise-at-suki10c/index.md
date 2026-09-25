@@ -1,6 +1,6 @@
 # MODUL8 x  Helen Frey - 100% Techno 0% Compromise at Suki10c
 
-MODUL8 x  Helen Frey - 100% Techno 0% Compromise at Suki10c on Sat 14 Nov, Birmingham. 1 act on the bill: The Dark Arch (T.D.A). Techno. Preview the line-up and save it on soundcheck.
+MODUL8 x  Helen Frey - 100% Techno 0% Compromise at Suki10c on Sat 14 Nov, Birmingham. 1 artist on the bill: The Dark Arch (T.D.A). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

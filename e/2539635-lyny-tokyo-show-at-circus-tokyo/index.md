@@ -1,6 +1,6 @@
 # LYNY Tokyo show at Circus Tokyo
 
-LYNY Tokyo show at Circus Tokyo on Sun 15 Nov, Tokyo. 1 act on the bill: SAKO. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+LYNY Tokyo show at Circus Tokyo on Sun 15 Nov, Tokyo. 1 artist on the bill: SAKO. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

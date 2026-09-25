@@ -1,6 +1,6 @@
 # Mutate: CLAWZ with Dr Donk at Avalon Hollywood
 
-Mutate: CLAWZ with Dr Donk at Avalon Hollywood on Wed 25 Nov, Losangeles. 1 act on the bill: CLAWZ. Techno. Preview the line-up and save it on soundcheck.
+Mutate: CLAWZ with Dr Donk at Avalon Hollywood on Wed 25 Nov, Los Angeles. 1 artist on the bill: CLAWZ. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

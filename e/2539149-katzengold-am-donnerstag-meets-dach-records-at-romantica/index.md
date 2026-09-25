@@ -1,6 +1,6 @@
 # KATZENGOLD am DONNERSTAG meets DACH RECORDS at Romantica
 
-KATZENGOLD am DONNERSTAG meets DACH RECORDS at Romantica on Thu 24 Sept, Stuttgart. 1 act on the bill: CHIEF QUEEF. House. Preview the line-up and save it on soundcheck.
+KATZENGOLD am DONNERSTAG meets DACH RECORDS at Romantica on Thu 24 Sept, Stuttgart. 1 artist on the bill: CHIEF QUEEF. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

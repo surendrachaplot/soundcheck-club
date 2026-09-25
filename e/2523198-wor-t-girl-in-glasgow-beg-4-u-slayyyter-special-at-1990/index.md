@@ -1,6 +1,6 @@
 # WOR$T GIRL IN GLASGOW - Beg 4 U SLAYYYTER SPECIAL at 1990
 
-WOR$T GIRL IN GLASGOW - Beg 4 U SLAYYYTER SPECIAL at 1990 on Fri 9 Oct, Glasgow. 1 act on the bill: Belle DeHell. Club. Preview the line-up and save it on soundcheck.
+WOR$T GIRL IN GLASGOW - Beg 4 U SLAYYYTER SPECIAL at 1990 on Fri 9 Oct, Glasgow. 1 artist on the bill: Belle DeHell. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

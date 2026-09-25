@@ -1,6 +1,6 @@
 # LUCKY DIP - QUEER HOUSE AND GARAGE at Dalston Superstore
 
-LUCKY DIP - QUEER HOUSE AND GARAGE at Dalston Superstore on Thu 24 Sept, London. 3 acts on the bill: DJ Split, Nick Clev and Sam Beach. House and Garage. Preview the line-up and save it on soundcheck.
+LUCKY DIP - QUEER HOUSE AND GARAGE at Dalston Superstore on Thu 24 Sept, London. 3 artists on the bill: DJ Split, Nick Clev and Sam Beach. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

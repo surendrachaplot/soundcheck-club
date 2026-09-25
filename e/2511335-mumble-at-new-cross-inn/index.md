@@ -1,6 +1,6 @@
 # Mumble at New Cross Inn
 
-Mumble at New Cross Inn on Tue 29 Sept, London. 1 act on the bill: Mumble. Electro and Pop. Preview the line-up and save it on soundcheck.
+Mumble at New Cross Inn on Tue 29 Sept, London. 1 artist on the bill: Mumble. Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

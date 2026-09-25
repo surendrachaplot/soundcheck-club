@@ -2,7 +2,7 @@
 
 scoodt is a Electro and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Handlebar, Toronto on Fri, 23 Oct 2026.
 
-scoodt is an electro and gabber artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside esme2k, alecks and moodyjooly. Next up: Handlebar, Toronto on Fri 23 Oct.
+scoodt is an electro and gabber artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal, New York City and Toronto. Often billed alongside esme2k, alecks and moodyjooly. Next up: Handlebar, Toronto on Fri 23 Oct.
 
 ## Upcoming shows
 

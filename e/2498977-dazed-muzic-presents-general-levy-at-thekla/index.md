@@ -1,6 +1,6 @@
 # Dazed Muzic presents: General Levy at Thekla
 
-Dazed Muzic presents: General Levy at Thekla on Fri 6 Nov, Bristol. 1 act on the bill: General Levy. Jungle. Preview the line-up and save it on soundcheck.
+Dazed Muzic presents: General Levy at Thekla on Fri 6 Nov, Bristol. 1 artist on the bill: General Levy. Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # UNMADA VARA: ONEDAY IN TOKYO at UTOPIA / DYSTOPIA
 
-UNMADA VARA: ONEDAY IN TOKYO at UTOPIA / DYSTOPIA on Sat 26 Sept, Tokyo. 4 acts on the bill: Dustvoxx, Økapi, RICKY and TEI TEI. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+UNMADA VARA: ONEDAY IN TOKYO at UTOPIA / DYSTOPIA on Sat 26 Sept, Tokyo. 4 artists on the bill: Dustvoxx, Økapi, RICKY and TEI TEI. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

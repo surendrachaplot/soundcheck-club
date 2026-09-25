@@ -1,6 +1,6 @@
 # HARD DNB (Jump Up - Neuro - Heavy) at Bad Decisions
 
-HARD DNB (Jump Up - Neuro - Heavy) at Bad Decisions on Fri 13 Nov, Melbourne. 1 act on the bill: Stackpackers. Drum & Bass. Preview the line-up and save it on soundcheck.
+HARD DNB (Jump Up - Neuro - Heavy) at Bad Decisions on Fri 13 Nov, Melbourne. 1 artist on the bill: Stackpackers. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

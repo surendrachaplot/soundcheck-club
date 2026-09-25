@@ -2,7 +2,7 @@
 
 VisionV is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-VisionV is a house and techno artist based in Austria, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Boston and Ibiza and 5 more. Often billed alongside Mat Schubert, LAVERN and Martin Garrix. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
+VisionV is a house and techno artist based in Austria, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Boston and Ibiza and 5 more. Often billed alongside Mat Schubert, LAVERN and Martin Garrix. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
 ## Upcoming shows
 

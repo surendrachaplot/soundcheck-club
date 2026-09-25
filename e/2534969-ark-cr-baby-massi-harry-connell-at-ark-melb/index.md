@@ -1,6 +1,6 @@
 # ark // Crÿbaby - MASSI. - Harry Connell - at ark (Melb)
 
-ark // Crÿbaby - MASSI. - Harry Connell - at ark (Melb) on Sat 7 Nov, Melbourne. 3 acts on the bill: Crybaby, Harry Connell and MASSI.. Techno and House. Preview the line-up and save it on soundcheck.
+ark // Crÿbaby - MASSI. - Harry Connell - at ark (Melb) on Sat 7 Nov, Melbourne. 3 artists on the bill: Crybaby, Harry Connell and MASSI.. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

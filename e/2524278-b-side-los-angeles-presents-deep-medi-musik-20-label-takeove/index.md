@@ -1,6 +1,6 @@
 # B-Side Los Angeles presents: Deep Medi Musik 20 (label takeover) at The Compound by Dirt Dog
 
-B-Side Los Angeles presents: Deep Medi Musik 20 (label takeover) at The Compound by Dirt Dog on Fri 9 Oct, Losangeles. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+B-Side Los Angeles presents: Deep Medi Musik 20 (label takeover) at The Compound by Dirt Dog on Fri 9 Oct, Los Angeles. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

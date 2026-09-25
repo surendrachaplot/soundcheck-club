@@ -2,7 +2,7 @@
 
 Charlotte Newman is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sigma, Ibiza on Fri, 16 Oct 2026.
 
-Charlotte Newman is a techno artist based in France, tracked on soundcheck, with 8 sets logged across Ibiza, Lisbon and Paris. Often billed alongside DJ Angel (1), Marcelo Demarco and Alignment. Next up: Sigma, Ibiza on Fri 16 Oct.
+Charlotte Newman is a techno artist based in France, tracked on soundcheck, with 8 sets logged across Ibiza, Lisbon and Paris. Often billed alongside DJ Angel, Marcelo Demarco and Alignment. Next up: Sigma, Ibiza on Fri 16 Oct.
 
 ## Upcoming shows
 

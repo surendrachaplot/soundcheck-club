@@ -1,6 +1,6 @@
 # Guy J presented by Public Works, Safra & Konnekted at Public Works
 
-Guy J presented by Public Works, Safra & Konnekted on Fri 4 Dec, Sanfrancisco. 1 act on the bill: Guy J. Preview the line-up and save it on soundcheck.
+Guy J presented by Public Works, Safra & Konnekted on Fri 4 Dec, San Francisco/Oakland. 1 artist on the bill: Guy J. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

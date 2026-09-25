@@ -1,6 +1,6 @@
 # fi x Henrik Schwarz & AYA at fi
 
-fi x Henrik Schwarz & AYA on Fri 23 Oct, Cologne. 3 acts on the bill: Bonjour Ben, c00lm8 and Henrik Schwarz. Techno and House. Preview the line-up and save it on soundcheck.
+fi x Henrik Schwarz & AYA on Fri 23 Oct, Cologne. 3 artists on the bill: Bonjour Ben, c00lm8 and Henrik Schwarz. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Lounge x POSER present: Kara Okay at The Glove That Fits
 
-The Lounge x POSER present: Kara Okay at The Glove That Fits on Fri 2 Oct, London. 6 acts on the bill: Becky (2), Coinín Beag, DJ-CK and Hyperfunk and 2 more. House. Preview the line-up and save it on soundcheck.
+The Lounge x POSER present: Kara Okay at The Glove That Fits on Fri 2 Oct, London. 6 artists on the bill: Becky, Coinín Beag, DJ-CK and Hyperfunk and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Objekt - Kia - Madeline at smartbar
 
-Objekt - Kia - Madeline at smartbar on Fri 9 Oct, Chicago. 3 acts on the bill: Kia (AU), Madeline (Chi) and Objekt. Techno and Acid. Preview the line-up and save it on soundcheck.
+Objekt - Kia - Madeline at smartbar on Fri 9 Oct, Chicago. 3 artists on the bill: Kia (AU), Madeline (Chi) and Objekt. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

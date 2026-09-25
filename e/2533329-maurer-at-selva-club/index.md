@@ -1,6 +1,6 @@
 # MAURER at Selva Club
 
-MAURER at Selva Club on Sat 21 Nov, East. 1 act on the bill: MAURER. Preview the line-up and save it on soundcheck.
+MAURER at Selva Club on Sat 21 Nov, East. 1 artist on the bill: MAURER. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

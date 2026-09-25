@@ -1,6 +1,6 @@
 # Sonny Fodera - Closing Party at Pacha Ibiza
 
-Sonny Fodera - Closing Party at Pacha Ibiza on Mon 5 Oct, Ibiza. 4 acts on the bill: Danny Howard, Fatboy Slim, Saffron Stone and Sonny Fodera. House. Preview the line-up and save it on soundcheck.
+Sonny Fodera - Closing Party at Pacha Ibiza on Mon 5 Oct, Ibiza. 4 artists on the bill: Danny Howard, Fatboy Slim, Saffron Stone and Sonny Fodera. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

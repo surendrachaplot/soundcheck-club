@@ -1,6 +1,6 @@
 # PARISH at PIP Den Haag
 
-PARISH at PIP Den Haag on Sat 5 Dec, Thehague. Preview the line-up and save it on soundcheck.
+PARISH at PIP Den Haag on Sat 5 Dec, The Hague. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 DJ Soul (US) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Sat, 3 Oct 2026.
 
-DJ Soul (US) is a house and deep house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Osaka and Washingtondc. Often billed alongside MAXIMILIANO (US), DJ TMF and Andy Grant. Next up: Flash, Washingtondc on Sat 3 Oct.
+DJ Soul (US) is a house and deep house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Osaka and Washington DC. Often billed alongside MAXIMILIANO (US), DJ TMF and Andy Grant. Next up: Flash, Washington DC on Sat 3 Oct.
 
 ## Upcoming shows
 

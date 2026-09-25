@@ -1,6 +1,6 @@
 # Tree of AMAPiANO at Dogenzaka Church
 
-Tree of AMAPiANO at Dogenzaka Church on Sun 27 Sept, Tokyo. 1 act on the bill: Okehazama. Preview the line-up and save it on soundcheck.
+Tree of AMAPiANO at Dogenzaka Church on Sun 27 Sept, Tokyo. 1 artist on the bill: Okehazama. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

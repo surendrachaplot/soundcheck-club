@@ -1,6 +1,6 @@
 # HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona
 
-HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona on Thu 8 Oct, Barcelona. 1 act on the bill: Nesi. House. Preview the line-up and save it on soundcheck.
+HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona on Thu 8 Oct, Barcelona. 1 artist on the bill: Nesi. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

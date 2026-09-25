@@ -1,6 +1,6 @@
 # 9 LIVES OF Garage Noord at Garage Noord
 
-9 LIVES OF Garage Noord on Sat 26 Sept, Amsterdam. 19 acts on the bill: awhlkuhn, baby ganoush, Chucho and DIORA and 15 more. Preview the line-up and save it on soundcheck.
+9 LIVES OF Garage Noord on Sat 26 Sept, Amsterdam. 19 artists on the bill: awhlkuhn, baby ganoush, Chucho and DIORA and 15 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dee Diggs, TYLERFROMWHERE, Simon Heyliger, Barangay + Friends - Dead Letter No.9 at Dead Letter No. 9
 
-Dee Diggs, TYLERFROMWHERE, Simon Heyliger, Barangay + Friends - Dead Letter No.9 at Dead Letter No. 9 on Sat 3 Oct, Newyorkcity. 3 acts on the bill: Dee Diggs, Simon Heyliger and TYLERFROMWHERE. Techno and House. Preview the line-up and save it on soundcheck.
+Dee Diggs, TYLERFROMWHERE, Simon Heyliger, Barangay + Friends - Dead Letter No.9 at Dead Letter No. 9 on Sat 3 Oct, New York City. 3 artists on the bill: Dee Diggs, Simon Heyliger and TYLERFROMWHERE. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Softcore Continuum 02 at Paloma
 
-Softcore Continuum 02 at Paloma on Fri 6 Nov, Berlin. 3 acts on the bill: DJ Strawberry, Loqum and YAKA. Bass and Electronica. Preview the line-up and save it on soundcheck.
+Softcore Continuum 02 at Paloma on Fri 6 Nov, Berlin. 3 artists on the bill: DJ Strawberry, Loqum and YAKA. Bass and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

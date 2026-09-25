@@ -1,6 +1,6 @@
 # SZEPTY: Noise Not War, SALVYAN at Hype Park
 
-SZEPTY: Noise Not War, SALVYAN at Hype Park on Sat 24 Oct, Krakow. 2 acts on the bill: BRAVO GRL and Noise Not War. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+SZEPTY: Noise Not War, SALVYAN at Hype Park on Sat 24 Oct, Krakow. 2 artists on the bill: BRAVO GRL and Noise Not War. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

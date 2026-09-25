@@ -2,7 +2,7 @@
 
 7th West is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "RECREATION 11" on Fri, 25 Sept 2026.
 
-7th West is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming gigs, with line-ups including Blu Moon, Charles Hawthorne, David Harness and KKINGBOO and 1 more. Browse upcoming dates, start times and who's playing. 1255 7th St Oakland, CA 94607.
+7th West is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including Blu Moon, Charles Hawthorne, David Harness and KKINGBOO and 1 more. Browse upcoming dates, start times and who's playing. 1255 7th St Oakland, CA 94607.
 
 ## What's on
 

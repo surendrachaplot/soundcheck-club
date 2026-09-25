@@ -1,6 +1,6 @@
 # [CANCELLED] RECOLLECT UNDERGROUND at TBA - Location Link in Bio on Instagram @recollectunderground
 
-[CANCELLED] RECOLLECT UNDERGROUND at TBA - Location Link in Bio on Instagram @recollectunderground on Thu 24 Sept, Losangeles. House. Preview the line-up and save it on soundcheck.
+[CANCELLED] RECOLLECT UNDERGROUND at TBA - Location Link in Bio on Instagram @recollectunderground on Thu 24 Sept, Los Angeles. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

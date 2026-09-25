@@ -1,6 +1,6 @@
 # Electron: EUPHORIE COLLECTIVE at Palladium
 
-Electron: EUPHORIE COLLECTIVE at Palladium on Sat 10 Oct, Geneva. 4 acts on the bill: Anetha, DJ Heartstring, Spray and Spriitzz. Techno. Preview the line-up and save it on soundcheck.
+Electron: EUPHORIE COLLECTIVE at Palladium on Sat 10 Oct, Geneva. 4 artists on the bill: Anetha, DJ Heartstring, Spray and Spriitzz. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

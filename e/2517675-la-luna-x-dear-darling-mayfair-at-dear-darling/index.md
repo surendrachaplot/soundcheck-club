@@ -1,6 +1,6 @@
 # LA LUNA x Dear Darling Mayfair at Dear Darling
 
-LA LUNA x Dear Darling Mayfair on Sat 3 Oct, London. 2 acts on the bill: Abrahamsson and Arian Saravi. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+LA LUNA x Dear Darling Mayfair on Sat 3 Oct, London. 2 artists on the bill: Abrahamsson and Arian Saravi. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

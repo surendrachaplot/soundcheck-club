@@ -2,7 +2,7 @@
 
 Denis Stockhausen is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at fi, Cologne on Fri, 25 Sept 2026.
 
-Denis Stockhausen is a house and techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Cologne and Dusseldorf. Often billed alongside Robag Wruhme, Michael Mayer and Reinhard Voigt. Next up: fi, Cologne on Fri 25 Sept.
+Denis Stockhausen is a house and techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Cologne and Düsseldorf. Often billed alongside Robag Wruhme, Michael Mayer and Reinhard Voigt. Next up: fi, Cologne on Fri 25 Sept.
 
 ## Upcoming shows
 

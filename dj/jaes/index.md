@@ -2,7 +2,7 @@
 
 JaeS is a Electronica and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paname sur Seine, Paris on Sun, 4 Oct 2026.
 
-JaeS is an electronica and drum & bass artist tracked on soundcheck, with 23 sets logged across London, Losangeles and Paris. Often billed alongside Adam Romo, Marcos Loveday and RORO. Next up: Paname sur Seine, Paris on Sun 4 Oct.
+JaeS is an electronica and drum & bass artist tracked on soundcheck, with 23 sets logged across London, Los Angeles and Paris. Often billed alongside Adam Romo, Marcos Loveday and RORO. Next up: Paname sur Seine, Paris on Sun 4 Oct.
 
 ## Upcoming shows
 

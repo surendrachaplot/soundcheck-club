@@ -1,6 +1,6 @@
 # RASA presents GiGi FM (DE) & ophélie (DE) at RASA
 
-RASA presents GiGi FM (DE) & ophélie (DE) on Sat 26 Sept, Singapore. 3 acts on the bill: GiGi FM, Loopinmotion and ophélie. Techno and Electronica. Preview the line-up and save it on soundcheck.
+RASA presents GiGi FM (DE) & ophélie (DE) on Sat 26 Sept, Singapore. 3 artists on the bill: GiGi FM, Loopinmotion and ophélie. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

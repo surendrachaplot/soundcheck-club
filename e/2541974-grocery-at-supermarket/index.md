@@ -1,6 +1,6 @@
 # Grocery at Supermarket
 
-Grocery at Supermarket on Sat 14 Nov, Zurich. 6 acts on the bill: 2M, Alci, Aline (CH) and Christian AB and 2 more. Preview the line-up and save it on soundcheck.
+Grocery at Supermarket on Sat 14 Nov, Zurich. 6 artists on the bill: 2M, Alci, Aline (CH) and Christian AB and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

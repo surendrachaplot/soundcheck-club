@@ -1,6 +1,6 @@
 # ⋆˚꩜｡⋆RATRACE005.4 - Yyre, 3DMA, mamba.exe, FKA Hardcore, ??? + RESIDENTS ⋆˚꩜｡ at The Bag Factory
 
-⋆˚꩜｡⋆RATRACE005.4 - Yyre, 3DMA, mamba.exe, FKA Hardcore, ??? + RESIDENTS ⋆˚꩜｡ at The Bag Factory on Fri 2 Oct, Manchester. 5 acts on the bill: 3DMA, FKA Hardcore, FOULMOUTH and mamba.exe and 1 more. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
+⋆˚꩜｡⋆RATRACE005.4 - Yyre, 3DMA, mamba.exe, FKA Hardcore, ??? + RESIDENTS ⋆˚꩜｡ at The Bag Factory on Fri 2 Oct, Manchester. 5 artists on the bill: 3DMA, FKA Hardcore, FOULMOUTH and mamba.exe and 1 more. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

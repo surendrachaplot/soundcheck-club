@@ -1,6 +1,6 @@
 # Brooklyn Experimental Electronic Music Group October Artist Showcase at Wonderville
 
-Brooklyn Experimental Electronic Music Group October Artist Showcase at Wonderville on Thu 22 Oct, Newyorkcity. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Brooklyn Experimental Electronic Music Group October Artist Showcase at Wonderville on Thu 22 Oct, New York City. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

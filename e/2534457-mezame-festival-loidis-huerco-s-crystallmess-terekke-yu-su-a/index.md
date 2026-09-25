@@ -1,6 +1,6 @@
 # MEZAME FESTIVAL: Loidis (Huerco S.), Crystallmess, Terekke, Yu Su at St. Bartholomew's Church
 
-MEZAME FESTIVAL: Loidis (Huerco S.), Crystallmess, Terekke, Yu Su at St. Bartholomew's Church on Sun 27 Sept, Newyorkcity. 5 acts on the bill: Crystallmess, Huerco S., Loidis and Terekke and 1 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+MEZAME FESTIVAL: Loidis (Huerco S.), Crystallmess, Terekke, Yu Su at St. Bartholomew's Church on Sun 27 Sept, New York City. 5 artists on the bill: Crystallmess, Huerco S., Loidis and Terekke and 1 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

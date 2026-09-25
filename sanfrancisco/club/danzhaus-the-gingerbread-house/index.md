@@ -2,7 +2,7 @@
 
 Danzhaus/The Gingerbread House is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Mostly Cloudy, HydeFM & DJ Dials present: d.tour with TOCCORORO (Spain)" on Fri, 25 Sept 2026.
 
-Danzhaus/The Gingerbread House is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming gigs, with line-ups including DJ JUANNY, Eera, felipe d and London Elektricity and 2 more. Browse upcoming dates, start times and who's playing. 1275 Connecticut St, San Francisco, CA 94107, United States.
+Danzhaus/The Gingerbread House is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs, with line-ups including DJ JUANNY, Eera, felipe d and London Elektricity and 2 more. Browse upcoming dates, start times and who's playing. 1275 Connecticut St, San Francisco, CA 94107, United States.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Parra for Cuva at La Cigale
 
-Parra for Cuva at La Cigale on Fri 2 Oct, Paris. 1 act on the bill: Parra for Cuva. Preview the line-up and save it on soundcheck.
+Parra for Cuva at La Cigale on Fri 2 Oct, Paris. 1 artist on the bill: Parra for Cuva. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

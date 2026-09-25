@@ -1,6 +1,6 @@
 # Major recebe Sol at Major Bar & Pista
 
-Major recebe Sol at Major Bar & Pista on Thu 24 Sept, Saopaulo. Preview the line-up and save it on soundcheck.
+Major recebe Sol at Major Bar & Pista on Thu 24 Sept, Sao Paulo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

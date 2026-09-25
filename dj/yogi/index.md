@@ -2,7 +2,7 @@
 
 Yogi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sound Machine, Toronto on Sat, 3 Oct 2026.
 
-Yogi is a house and club artist based in Canada, tracked on soundcheck, with 151 sets logged across Amsterdam, Chicago, Lisbon and Newyorkcity and 1 more. Often billed alongside Iced Misto, Jason Palma and Dino and Terry. Next up: Sound Machine, Toronto on Sat 3 Oct.
+Yogi is a house and club artist based in Canada, tracked on soundcheck, with 151 sets logged across Amsterdam, Chicago, Lisbon and New York City and 1 more. Often billed alongside Iced Misto, Jason Palma and Dino and Terry. Next up: Sound Machine, Toronto on Sat 3 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Grey Lantern presents: Carla dal Forno / The Gabys / soundtracked by Comfortable On A Tightrope at The White Hotel
 
-Grey Lantern presents: Carla dal Forno / The Gabys / soundtracked by Comfortable On A Tightrope at The White Hotel on Wed 30 Sept, Manchester. 1 act on the bill: Carla dal Forno. Ambient and Pop. Preview the line-up and save it on soundcheck.
+Grey Lantern presents: Carla dal Forno / The Gabys / soundtracked by Comfortable On A Tightrope at The White Hotel on Wed 30 Sept, Manchester. 1 artist on the bill: Carla dal Forno. Ambient and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

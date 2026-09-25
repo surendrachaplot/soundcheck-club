@@ -1,6 +1,6 @@
 # Kontra-Musik 20 years Night at vurt.
 
-Kontra-Musik 20 years Night at vurt. on Sat 3 Oct, Seoul. 2 acts on the bill: Andreas Tilliander and Ulf Eriksson. Techno and House. Preview the line-up and save it on soundcheck.
+Kontra-Musik 20 years Night at vurt. on Sat 3 Oct, Seoul. 2 artists on the bill: Andreas Tilliander and Ulf Eriksson. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

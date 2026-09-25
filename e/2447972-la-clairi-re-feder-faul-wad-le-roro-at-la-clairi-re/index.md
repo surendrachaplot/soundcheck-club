@@ -1,6 +1,6 @@
 # La Clairière: Feder, FAUL & WAD, LE RORO at La Clairière
 
-La Clairière: Feder, FAUL & WAD, LE RORO on Fri 25 Sept, Paris. 1 act on the bill: Feder. House. Preview the line-up and save it on soundcheck.
+La Clairière: Feder, FAUL & WAD, LE RORO on Fri 25 Sept, Paris. 1 artist on the bill: Feder. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

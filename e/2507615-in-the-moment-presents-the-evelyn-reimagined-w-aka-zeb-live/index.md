@@ -1,6 +1,6 @@
 # In the Moment presents The Evelyn Reimagined w/ AKA Zeb ( live)  Allysha Joy, Kuzco, at The Evelyn Hotel
 
-In the Moment presents The Evelyn Reimagined w/ AKA Zeb ( live)  Allysha Joy, Kuzco, at The Evelyn Hotel on Fri 25 Sept, Melbourne. 4 acts on the bill: Kuzco, Mike Gurrieri, SURANA and Zepherin Saint. Deep House and Jazz. Preview the line-up and save it on soundcheck.
+In the Moment presents The Evelyn Reimagined w/ AKA Zeb ( live)  Allysha Joy, Kuzco, at The Evelyn Hotel on Fri 25 Sept, Melbourne. 4 artists on the bill: Kuzco, Mike Gurrieri, SURANA and Zepherin Saint. Deep House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

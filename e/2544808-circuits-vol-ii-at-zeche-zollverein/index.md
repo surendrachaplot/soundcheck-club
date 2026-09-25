@@ -1,6 +1,6 @@
 # Circuits Vol.II at Zeche Zollverein
 
-Circuits Vol.II at Zeche Zollverein on Sat 28 Nov, Dortmund-essen. 7 acts on the bill: celodic, djehrenlos, Greta Perola and Juulz and 3 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Circuits Vol.II at Zeche Zollverein on Sat 28 Nov, Dortmund Essen. 7 artists on the bill: celodic, djehrenlos, Greta Perola and Juulz and 3 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

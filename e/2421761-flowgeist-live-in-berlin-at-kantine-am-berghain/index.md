@@ -1,6 +1,6 @@
 # Flowgeist - Live in Berlin at Kantine am Berghain
 
-Flowgeist - Live in Berlin at Kantine am Berghain on Sun 1 Nov, Berlin. 3 acts on the bill: Alex P., Flowgeist and Pareal. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Flowgeist - Live in Berlin at Kantine am Berghain on Sun 1 Nov, Berlin. 3 artists on the bill: Alex P., Flowgeist and Pareal. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

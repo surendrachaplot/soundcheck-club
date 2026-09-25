@@ -1,6 +1,6 @@
 # Bunker Rave (Schranz Edition) with AIDEN & Svetec at Uebel & Gefährlich
 
-Bunker Rave (Schranz Edition) with AIDEN & Svetec at Uebel & Gefährlich on Sat 26 Sept, Hamburg. 3 acts on the bill: Aiden (DE), Kaizen and Svetec. Techno. Preview the line-up and save it on soundcheck.
+Bunker Rave (Schranz Edition) with AIDEN & Svetec at Uebel & Gefährlich on Sat 26 Sept, Hamburg. 3 artists on the bill: Aiden (DE), Kaizen and Svetec. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

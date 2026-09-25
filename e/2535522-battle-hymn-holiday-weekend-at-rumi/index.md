@@ -1,6 +1,6 @@
 # Battle Hymn - Holiday weekend at Rumi
 
-Battle Hymn - Holiday weekend at Rumi on Sun 11 Oct, Newyorkcity. 2 acts on the bill: Kim Anh and Tedd Patterson. Preview the line-up and save it on soundcheck.
+Battle Hymn - Holiday weekend at Rumi on Sun 11 Oct, New York City. 2 artists on the bill: Kim Anh and Tedd Patterson. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

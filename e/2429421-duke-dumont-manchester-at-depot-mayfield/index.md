@@ -1,6 +1,6 @@
 # Duke Dumont, Manchester at Depot Mayfield
 
-Duke Dumont, Manchester at Depot Mayfield on Sat 24 Oct, Manchester. 1 act on the bill: Duke Dumont. Club and EBM. Preview the line-up and save it on soundcheck.
+Duke Dumont, Manchester at Depot Mayfield on Sat 24 Oct, Manchester. 1 artist on the bill: Duke Dumont. Club and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

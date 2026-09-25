@@ -1,6 +1,6 @@
 # Das Zündet at Humboldthain Club
 
-Das Zündet at Humboldthain Club on Fri 30 Oct, Berlin. 2 acts on the bill: Diskohengst and Tom Kutsche. Funk / Soul and Italo Disco. Preview the line-up and save it on soundcheck.
+Das Zündet at Humboldthain Club on Fri 30 Oct, Berlin. 2 artists on the bill: Diskohengst and Tom Kutsche. Funk / Soul and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

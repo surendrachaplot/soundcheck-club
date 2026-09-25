@@ -1,6 +1,6 @@
 # Henning Baer at VENT
 
-Henning Baer at VENT on Sat 26 Sept, Tokyo. 5 acts on the bill: fýsia, Henning Baer, Jiho and Kent Oria and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Henning Baer at VENT on Sat 26 Sept, Tokyo. 5 artists on the bill: fýsia, Henning Baer, Jiho and Kent Oria and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

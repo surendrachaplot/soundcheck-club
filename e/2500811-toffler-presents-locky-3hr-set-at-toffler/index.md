@@ -1,6 +1,6 @@
 # TOFFLER presents Locky (3HR set) at Toffler
 
-TOFFLER presents Locky (3HR set) at Toffler on Sat 10 Oct, Rotterdam. 3 acts on the bill: Juliana X, LI-YU and Locky. House and Garage. Preview the line-up and save it on soundcheck.
+TOFFLER presents Locky (3HR set) at Toffler on Sat 10 Oct, Rotterdam. 3 artists on the bill: Juliana X, LI-YU and Locky. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

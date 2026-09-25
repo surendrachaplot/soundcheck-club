@@ -1,6 +1,6 @@
 # Joe-Armon Jones & Maxwell Owin at New Century Locker
 
-Joe-Armon Jones & Maxwell Owin at New Century Locker on Fri 4 Dec, Manchester. 2 acts on the bill: Joe Armon-Jones and Maxwell Owin. Dubstep and Jazz. Preview the line-up and save it on soundcheck.
+Joe-Armon Jones & Maxwell Owin at New Century Locker on Fri 4 Dec, Manchester. 2 artists on the bill: Joe Armon-Jones and Maxwell Owin. Dubstep and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

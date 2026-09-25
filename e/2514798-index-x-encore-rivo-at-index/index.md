@@ -1,6 +1,6 @@
 # Index x Encore: Rivo at Index
 
-Index x Encore: Rivo on Fri 25 Sept, Dublin. 3 acts on the bill: Nicole Spagnol, Rivo and SOUZAC. Electronica. Preview the line-up and save it on soundcheck.
+Index x Encore: Rivo on Fri 25 Sept, Dublin. 3 artists on the bill: Nicole Spagnol, Rivo and SOUZAC. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

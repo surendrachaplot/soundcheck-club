@@ -1,6 +1,6 @@
 # THEMBA, Andrew Pololos, Malena at Bazart
 
-THEMBA, Andrew Pololos, Malena at Bazart on Thu 29 Oct, Montreal. 1 act on the bill: THEMBA. Preview the line-up and save it on soundcheck.
+THEMBA, Andrew Pololos, Malena at Bazart on Thu 29 Oct, Montreal. 1 artist on the bill: THEMBA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

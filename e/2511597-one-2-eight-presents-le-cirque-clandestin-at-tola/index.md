@@ -1,6 +1,6 @@
 # one:2 eight presents: LE CIRQUE CLANDESTIN at Tola
 
-one:2 eight presents: LE CIRQUE CLANDESTIN at Tola on Sat 31 Oct, London. 2 acts on the bill: Not From Concentrate and Sophia Nicole. Techno and House. Preview the line-up and save it on soundcheck.
+one:2 eight presents: LE CIRQUE CLANDESTIN at Tola on Sat 31 Oct, London. 2 artists on the bill: Not From Concentrate and Sophia Nicole. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

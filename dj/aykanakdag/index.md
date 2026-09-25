@@ -2,7 +2,7 @@
 
 aykanakdag is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
 
-aykanakdag is an electro and breakbeat artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Leipzig, Nurnberg and Prague and 1 more. Often billed alongside DJ Regret, 3diz and A/PM. Next up: Ankali & Planeta Za, Prague on Sat 10 Oct.
+aykanakdag is an electro and breakbeat artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Leipzig, Nürnberg and Prague and 1 more. Often billed alongside DJ Regret, 3diz and A/PM. Next up: Ankali & Planeta Za, Prague on Sat 10 Oct.
 
 ## Upcoming shows
 

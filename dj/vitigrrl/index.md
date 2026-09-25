@@ -2,7 +2,7 @@
 
 VITIGRRL is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at smartbar, Chicago on Sat, 26 Sept 2026.
 
-VITIGRRL is a house and deep house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Chicago, Detroit, Newyorkcity and Toronto. Often billed alongside DJ Lady D, Derrick Carter and Michael Serafini. Next up: smartbar, Chicago on Sat 26 Sept.
+VITIGRRL is a house and deep house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Chicago, Detroit, New York City and Toronto. Often billed alongside DJ Lady D, Derrick Carter and Michael Serafini. Next up: smartbar, Chicago on Sat 26 Sept.
 
 ## Upcoming shows
 

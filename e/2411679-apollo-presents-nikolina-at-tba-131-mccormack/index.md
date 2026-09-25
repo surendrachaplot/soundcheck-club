@@ -1,6 +1,6 @@
 # Apollo presents Nikolina at TBA - 131 McCormack 
 
-Apollo presents Nikolina at TBA - 131 McCormack  on Fri 30 Oct, Toronto. 2 acts on the bill: Nikolina and R-ODERICK. Techno. Preview the line-up and save it on soundcheck.
+Apollo presents Nikolina at TBA - 131 McCormack  on Fri 30 Oct, Toronto. 2 artists on the bill: Nikolina and R-ODERICK. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

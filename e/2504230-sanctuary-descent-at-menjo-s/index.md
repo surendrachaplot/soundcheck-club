@@ -1,6 +1,6 @@
 # Sanctuary: Descent at Menjo's
 
-Sanctuary: Descent at Menjo's on Sat 26 Sept, Detroit. 15 acts on the bill: AIDEL, Amino, Ashton Swinton and autogyro and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
+Sanctuary: Descent at Menjo's on Sat 26 Sept, Detroit. 15 artists on the bill: AIDEL, Amino, Ashton Swinton and autogyro and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

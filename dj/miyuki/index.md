@@ -2,7 +2,7 @@
 
 MIYUKI is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Socore Factory, Osaka on Sun, 18 Oct 2026.
 
-MIYUKI is a trance and techno artist based in Canada, tracked on soundcheck, with 6 sets logged across Austin, Losangeles, Newyorkcity and Osaka and 2 more. Often billed alongside Angel (GR), Buzz and ERROR (LYRASIS). Next up: Socore Factory, Osaka on Sun 18 Oct.
+MIYUKI is a trance and techno artist based in Canada, tracked on soundcheck, with 6 sets logged across Austin, Los Angeles, New York City and Osaka and 2 more. Often billed alongside Angel (GR), Buzz and ERROR (LYRASIS). Next up: Socore Factory, Osaka on Sun 18 Oct.
 
 ## Upcoming shows
 

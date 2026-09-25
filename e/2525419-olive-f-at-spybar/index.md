@@ -1,6 +1,6 @@
 # Olive F at Spybar
 
-Olive F at Spybar on Fri 2 Oct, Chicago. 1 act on the bill: Olive F. House and Tech House. Preview the line-up and save it on soundcheck.
+Olive F at Spybar on Fri 2 Oct, Chicago. 1 artist on the bill: Olive F. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

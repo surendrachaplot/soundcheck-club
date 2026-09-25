@@ -1,6 +1,6 @@
 # Flow State with Carré and Hot Take at Podlasie Club
 
-Flow State with Carré and Hot Take at Podlasie Club on Sat 10 Oct, Chicago. 2 acts on the bill: Carré and Hot Take. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Flow State with Carré and Hot Take at Podlasie Club on Sat 10 Oct, Chicago. 2 artists on the bill: Carré and Hot Take. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

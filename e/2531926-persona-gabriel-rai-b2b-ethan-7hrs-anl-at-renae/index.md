@@ -1,6 +1,6 @@
 # Persona - Gabriel Rai b2b Ethan. (7hrs ANL) at renae
 
-Persona - Gabriel Rai b2b Ethan. (7hrs ANL) at renae on Thu 1 Oct, Manchester. 2 acts on the bill: Ethan. and Gabriel Rai. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Persona - Gabriel Rai b2b Ethan. (7hrs ANL) at renae on Thu 1 Oct, Manchester. 2 artists on the bill: Ethan. and Gabriel Rai. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

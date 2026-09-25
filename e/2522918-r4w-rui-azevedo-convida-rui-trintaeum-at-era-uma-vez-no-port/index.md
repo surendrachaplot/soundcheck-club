@@ -1,6 +1,6 @@
 # R4W - Rui Azevedo convida Rui Trintaeum at Era uma vez no Porto
 
-R4W - Rui Azevedo convida Rui Trintaeum at Era uma vez no Porto on Wed 30 Sept, Porto. 2 acts on the bill: Rui Azevedo and Rui Trintaeum. Techno and House. Preview the line-up and save it on soundcheck.
+R4W - Rui Azevedo convida Rui Trintaeum at Era uma vez no Porto on Wed 30 Sept, Porto. 2 artists on the bill: Rui Azevedo and Rui Trintaeum. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

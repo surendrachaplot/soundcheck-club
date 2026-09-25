@@ -1,6 +1,6 @@
 # Vibrations of Freedom at Ping Tom Memorial Park
 
-Vibrations of Freedom at Ping Tom Memorial Park on Sat 26 Sept, Chicago. 1 act on the bill: Selectress Kinky P. Bass and Dub. Preview the line-up and save it on soundcheck.
+Vibrations of Freedom at Ping Tom Memorial Park on Sat 26 Sept, Chicago. 1 artist on the bill: Selectress Kinky P. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

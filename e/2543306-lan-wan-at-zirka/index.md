@@ -1,6 +1,6 @@
 # LAN/WAN at ZIRKA
 
-LAN/WAN at ZIRKA on Fri 25 Sept, Munich. 1 act on the bill: Martyna Basta. Experimental. Preview the line-up and save it on soundcheck.
+LAN/WAN at ZIRKA on Fri 25 Sept, Munich. 2 artists on the bill: Luis Tischer and Martyna Basta. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ LAN/WAN at ZIRKA on Fri 25 Sept, Munich. 1 act on the bill: Martyna Basta. Exper
 
 ## Line-up
 
+- Luis Tischer
 - Martyna Basta
 
 *Source: [soundcheck](https://soundcheck.club/e/2543306-lan-wan-at-zirka/)*

@@ -1,6 +1,6 @@
 # it's murph at Shrine Auditorium and Expo Hall
 
-it's murph at Shrine Auditorium and Expo Hall on Sun 18 Oct, Losangeles. House and Electro. Preview the line-up and save it on soundcheck.
+it's murph at Shrine Auditorium and Expo Hall on Sun 18 Oct, Los Angeles. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

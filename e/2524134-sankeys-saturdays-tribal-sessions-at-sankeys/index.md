@@ -1,6 +1,6 @@
 # Sankeys Saturdays - Tribal Sessions at Sankeys
 
-Sankeys Saturdays - Tribal Sessions on Sat 3 Oct, Manchester. 1 act on the bill: Arapu. House. Preview the line-up and save it on soundcheck.
+Sankeys Saturdays - Tribal Sessions on Sat 3 Oct, Manchester. 1 artist on the bill: Arapu. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

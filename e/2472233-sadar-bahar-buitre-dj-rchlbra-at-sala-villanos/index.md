@@ -1,6 +1,6 @@
 # Sadar Bahar + Buitre + Dj Rchlbraü at Sala Villanos
 
-Sadar Bahar + Buitre + Dj Rchlbraü at Sala Villanos on Sat 24 Oct, Madrid. 1 act on the bill: Sadar Bahar. Electronica. Preview the line-up and save it on soundcheck.
+Sadar Bahar + Buitre + Dj Rchlbraü at Sala Villanos on Sat 24 Oct, Madrid. 1 artist on the bill: Sadar Bahar. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

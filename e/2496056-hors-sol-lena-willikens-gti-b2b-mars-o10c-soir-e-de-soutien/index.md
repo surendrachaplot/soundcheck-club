@@ -1,6 +1,6 @@
 # HORS-SOL: Lena Willikens, GTI b2b Mars O10C — soirée de soutien à Macadam at Macadam
 
-HORS-SOL: Lena Willikens, GTI b2b Mars O10C — soirée de soutien à Macadam on Fri 2 Oct, Nantes. 3 acts on the bill: GTI, Lena Willikens and Mars O10C. Preview the line-up and save it on soundcheck.
+HORS-SOL: Lena Willikens, GTI b2b Mars O10C — soirée de soutien à Macadam on Fri 2 Oct, Nantes. 3 artists on the bill: GTI, Lena Willikens and Mars O10C. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

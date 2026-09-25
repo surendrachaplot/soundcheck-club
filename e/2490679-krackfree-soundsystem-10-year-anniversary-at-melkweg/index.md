@@ -1,6 +1,6 @@
 # KrackFree Soundsystem - 10 year anniversary at Melkweg
 
-KrackFree Soundsystem - 10 year anniversary at Melkweg on Fri 27 Nov, Amsterdam. 3 acts on the bill: Chinese Daughter, Gorgon Sound and Rider Shafique. Bass. Preview the line-up and save it on soundcheck.
+KrackFree Soundsystem - 10 year anniversary at Melkweg on Fri 27 Nov, Amsterdam. 3 artists on the bill: Chinese Daughter, Gorgon Sound and Rider Shafique. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Disco Express: Liverpool at Gloria's
 
-The Disco Express: Liverpool at Gloria's on Sat 7 Nov, Liverpool. 1 act on the bill: Bustin' Loose. House and Disco. Preview the line-up and save it on soundcheck.
+The Disco Express: Liverpool at Gloria's on Sat 7 Nov, Liverpool. 1 artist on the bill: Bustin' Loose. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

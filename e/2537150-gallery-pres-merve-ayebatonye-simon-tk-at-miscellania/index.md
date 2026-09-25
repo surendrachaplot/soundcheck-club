@@ -1,6 +1,6 @@
 # Gallery pres. Merve, Ayebatonye, Simon TK at Miscellania
 
-Gallery pres. Merve, Ayebatonye, Simon TK at Miscellania on Fri 16 Oct, Melbourne. 3 acts on the bill: Ayebatonye, Merve and Simon TK. Progressive House and House. Preview the line-up and save it on soundcheck.
+Gallery pres. Merve, Ayebatonye, Simon TK at Miscellania on Fri 16 Oct, Melbourne. 3 artists on the bill: Ayebatonye, Merve and Simon TK. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

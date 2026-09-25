@@ -1,6 +1,6 @@
 # Kara-Lis Coverdale at Temppeliaukio Church
 
-Kara-Lis Coverdale at Temppeliaukio Church on Tue 13 Oct, Helsinki. 1 act on the bill: Kara-Lis Coverdale. Ambient and Drone. Preview the line-up and save it on soundcheck.
+Kara-Lis Coverdale at Temppeliaukio Church on Tue 13 Oct, Helsinki. 1 artist on the bill: Kara-Lis Coverdale. Ambient and Drone. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Speakeasy House Radio: DJ Heather, Aman Ster, MARRIO at Le Nocturne
 
-Speakeasy House Radio: DJ Heather, Aman Ster, MARRIO at Le Nocturne on Sun 27 Sept, Chicago. 2 acts on the bill: DJ Heather and MARRIO. House and Disco. Preview the line-up and save it on soundcheck.
+Speakeasy House Radio: DJ Heather, Aman Ster, MARRIO at Le Nocturne on Sun 27 Sept, Chicago. 2 artists on the bill: DJ Heather and MARRIO. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

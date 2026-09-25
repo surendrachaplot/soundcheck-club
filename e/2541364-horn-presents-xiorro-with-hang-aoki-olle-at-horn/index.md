@@ -1,6 +1,6 @@
 # Horn presents Xiorro with Hang Aoki & OLLE at Horn
 
-Horn presents Xiorro with Hang Aoki & OLLE on Fri 2 Oct, Bangkok. 3 acts on the bill: Hang Aoki, OLLE (TH) and Xiorro. Techno. Preview the line-up and save it on soundcheck.
+Horn presents Xiorro with Hang Aoki & OLLE on Fri 2 Oct, Bangkok. 3 artists on the bill: Hang Aoki, OLLE (TH) and Xiorro. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

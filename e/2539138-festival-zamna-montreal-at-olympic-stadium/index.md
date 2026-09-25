@@ -1,6 +1,6 @@
 # Festival Zamna Montreal at Olympic Stadium
 
-Festival Zamna Montreal at Olympic Stadium on Fri 20 Nov, Berlin. 2 acts on the bill: Artbat and Hugel. Techno and House. Preview the line-up and save it on soundcheck.
+Festival Zamna Montreal at Olympic Stadium on Fri 20 Nov, Berlin. 2 artists on the bill: Artbat and Hugel. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

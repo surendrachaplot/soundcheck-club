@@ -1,6 +1,6 @@
 # Todd Terry (Extended Set) at The Jazz Cafe
 
-Todd Terry (Extended Set) at The Jazz Cafe on Fri 20 Nov, London. 1 act on the bill: Todd Terry. Preview the line-up and save it on soundcheck.
+Todd Terry (Extended Set) at The Jazz Cafe on Fri 20 Nov, London. 1 artist on the bill: Todd Terry. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

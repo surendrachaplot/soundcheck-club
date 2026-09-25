@@ -1,6 +1,6 @@
 # HOOFIT at Socore Factory
 
-HOOFIT at Socore Factory on Wed 30 Sept, Osaka. 1 act on the bill: Mash. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+HOOFIT at Socore Factory on Wed 30 Sept, Osaka. 1 artist on the bill: Mash. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rong Indoor Festival at 02 Victoria Warehouse
 
-Rong Indoor Festival at 02 Victoria Warehouse on Sat 26 Sept, Manchester. 18 acts on the bill: Aidyscape, Billy Gillies, Ciaran McAuley and Dave Pearce and 14 more. Preview the line-up and save it on soundcheck.
+Rong Indoor Festival at 02 Victoria Warehouse on Sat 26 Sept, Manchester. 18 artists on the bill: Aidyscape, Billy Gillies, Ciaran McAuley and Dave Pearce and 14 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

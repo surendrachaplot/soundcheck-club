@@ -1,6 +1,6 @@
 # V/V at Daikanyama ORD.
 
-V/V at Daikanyama ORD. on Fri 9 Oct, Tokyo. 3 acts on the bill: CYBERHACKSYSTEM, TONI and YOSHIROTTEN. Preview the line-up and save it on soundcheck.
+V/V at Daikanyama ORD. on Fri 9 Oct, Tokyo. 3 artists on the bill: CYBERHACKSYSTEM, TONI and YOSHIROTTEN. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

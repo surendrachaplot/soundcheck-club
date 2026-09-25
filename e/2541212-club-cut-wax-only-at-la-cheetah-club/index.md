@@ -1,6 +1,6 @@
 # CLUB CUT: WAX ONLY at La Cheetah Club
 
-CLUB CUT: WAX ONLY at La Cheetah Club on Tue 6 Oct, Glasgow. 3 acts on the bill: Brody James, SMK (1) and Surplus. House. Preview the line-up and save it on soundcheck.
+CLUB CUT: WAX ONLY at La Cheetah Club on Tue 6 Oct, Glasgow. 3 artists on the bill: Brody James, SMK and Surplus. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

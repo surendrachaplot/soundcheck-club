@@ -1,6 +1,6 @@
 # maximalism VOL.13 at rake?raka?
 
-maximalism VOL.13 at rake?raka? on Wed 14 Oct, Osaka. 2 acts on the bill: ALTF4 and MATSURYO. Trance and Techno. Preview the line-up and save it on soundcheck.
+maximalism VOL.13 at rake?raka? on Wed 14 Oct, Osaka. 2 artists on the bill: ALTF4 and MATSURYO. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

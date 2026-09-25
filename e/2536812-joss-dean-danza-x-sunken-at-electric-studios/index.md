@@ -1,6 +1,6 @@
 # Joss Dean! Danza x SuNKeN at Electric Studios
 
-Joss Dean! Danza x SuNKeN at Electric Studios on Fri 2 Oct, Sheffield. 1 act on the bill: Joss Dean. Preview the line-up and save it on soundcheck.
+Joss Dean! Danza x SuNKeN at Electric Studios on Fri 2 Oct, Sheffield. 1 artist on the bill: Joss Dean. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

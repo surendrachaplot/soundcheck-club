@@ -1,6 +1,6 @@
 # Clock Factory presents: Club Angel at The Clock Factory
 
-Clock Factory presents: Club Angel at The Clock Factory on Fri 16 Oct, Bristol. 1 act on the bill: Club Angel. House and Garage. Preview the line-up and save it on soundcheck.
+Clock Factory presents: Club Angel at The Clock Factory on Fri 16 Oct, Bristol. 1 artist on the bill: Club Angel. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

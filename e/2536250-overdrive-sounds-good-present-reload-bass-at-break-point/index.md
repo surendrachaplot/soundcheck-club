@@ -1,6 +1,6 @@
 # OVERDRIVE & SOUNDS GOOD PRESENT: RELOAD BASS at Break Point
 
-OVERDRIVE & SOUNDS GOOD PRESENT: RELOAD BASS at Break Point on Fri 2 Oct, Sandiego. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+OVERDRIVE & SOUNDS GOOD PRESENT: RELOAD BASS at Break Point on Fri 2 Oct, San Diego. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

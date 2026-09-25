@@ -1,6 +1,6 @@
 # L'Osteria Elettronica - Maison Binario & Bazaar 84th & Face at Hotel Butterfly
 
-L'Osteria Elettronica - Maison Binario & Bazaar 84th & Face at Hotel Butterfly on Sun 27 Sept, Rome. 2 acts on the bill: MaLo and Schatzï. House and Electronica. Preview the line-up and save it on soundcheck.
+L'Osteria Elettronica - Maison Binario & Bazaar 84th & Face at Hotel Butterfly on Sun 27 Sept, Rome. 2 artists on the bill: MaLo and Schatzï. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dam Swindle (Heist Recordings, NL) at Oxford Art Factory
 
-Dam Swindle (Heist Recordings, NL) at Oxford Art Factory on Fri 30 Oct, Sydney. 4 acts on the bill: BOLT, Dam Swindle, flik and MILLA. Preview the line-up and save it on soundcheck.
+Dam Swindle (Heist Recordings, NL) at Oxford Art Factory on Fri 30 Oct, Sydney. 4 artists on the bill: BOLT, Dam Swindle, flik and MILLA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

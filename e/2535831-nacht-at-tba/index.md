@@ -1,6 +1,6 @@
 # NACHT at TBA
 
-NACHT at TBA on Sat 10 Oct, Ibiza. 1 act on the bill: Anoul. House and Minimal. Preview the line-up and save it on soundcheck.
+NACHT at TBA on Sat 10 Oct, Ibiza. 1 artist on the bill: Anoul. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

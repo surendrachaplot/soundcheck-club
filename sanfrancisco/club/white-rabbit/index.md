@@ -2,7 +2,7 @@
 
 White Rabbit is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Inner Circle feat. YUKA YU + DJ RAAG + Silas" on Thu, 8 Oct 2026.
 
-White Rabbit is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming gig, with line-ups including Mackswell and YUKA YU. Browse upcoming dates, start times and who's playing. 3138 Fillmore St, San Francisco, CA 94123, United States.
+White Rabbit is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Mackswell and YUKA YU. Browse upcoming dates, start times and who's playing. 3138 Fillmore St, San Francisco, CA 94123, United States.
 
 ## What's on
 

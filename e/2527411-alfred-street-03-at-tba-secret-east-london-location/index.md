@@ -1,6 +1,6 @@
 # Alfred Street 03 at TBA - Secret East London Location
 
-Alfred Street 03 at TBA - Secret East London Location on Sat 3 Oct, London. 2 acts on the bill: Dylan James and Harral. Techno and House. Preview the line-up and save it on soundcheck.
+Alfred Street 03 at TBA - Secret East London Location on Sat 3 Oct, London. 2 artists on the bill: Dylan James and Harral. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

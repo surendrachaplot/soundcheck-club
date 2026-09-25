@@ -1,6 +1,6 @@
 # Fideles - Halloween Warehouse at TBA - Ticket Holders Only
 
-Fideles - Halloween Warehouse at TBA - Ticket Holders Only on Sat 31 Oct, Denver. 1 act on the bill: Fideles. Preview the line-up and save it on soundcheck.
+Fideles - Halloween Warehouse at TBA - Ticket Holders Only on Sat 31 Oct, Denver. 1 artist on the bill: Fideles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

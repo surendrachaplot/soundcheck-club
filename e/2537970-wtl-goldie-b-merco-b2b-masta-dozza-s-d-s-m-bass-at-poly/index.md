@@ -1,6 +1,6 @@
 # WTL • Goldie B, Merco b2b Mastaï, Dozza, S.D.S, M.Bass at Poly
 
-WTL • Goldie B, Merco b2b Mastaï, Dozza, S.D.S, M.Bass at Poly on Sat 10 Oct, Lyon. 1 act on the bill: Goldie B. Breakbeat. Preview the line-up and save it on soundcheck.
+WTL • Goldie B, Merco b2b Mastaï, Dozza, S.D.S, M.Bass at Poly on Sat 10 Oct, Lyon. 1 artist on the bill: Goldie B. Breakbeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

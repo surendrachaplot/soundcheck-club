@@ -1,6 +1,6 @@
 # HYPNOFAZE // CLUB NIGHT #6 at Jungle Bar
 
-HYPNOFAZE // CLUB NIGHT #6 at Jungle Bar on Sat 26 Sept, Brussels. 1 act on the bill: Giizmoo. Techno. Preview the line-up and save it on soundcheck.
+HYPNOFAZE // CLUB NIGHT #6 at Jungle Bar on Sat 26 Sept, Brussels. 1 artist on the bill: Giizmoo. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

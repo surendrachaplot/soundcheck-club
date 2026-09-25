@@ -1,6 +1,6 @@
 # Oktoberfest Nights Freitag with AJNA, BRANDO, Alma Hosch at Pacha
 
-Oktoberfest Nights Freitag with AJNA, BRANDO, Alma Hosch at Pacha on Fri 25 Sept, Munich. 2 acts on the bill: AJNA and BRANDO. Electro. Preview the line-up and save it on soundcheck.
+Oktoberfest Nights Freitag with AJNA, BRANDO, Alma Hosch at Pacha on Fri 25 Sept, Munich. 2 artists on the bill: AJNA and BRANDO. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Orson ALL NIGHT at Le Bain
 
-Orson ALL NIGHT at Le Bain on Sat 26 Sept, Newyorkcity. 1 act on the bill: Orson.NYC. Preview the line-up and save it on soundcheck.
+Orson ALL NIGHT at Le Bain on Sat 26 Sept, New York City. 1 artist on the bill: Orson.NYC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

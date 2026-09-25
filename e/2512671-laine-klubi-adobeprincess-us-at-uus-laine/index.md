@@ -1,6 +1,6 @@
 # Laine Klubiöö: adobeprincess (US) at Uus Laine
 
-Laine Klubiöö: adobeprincess (US) at Uus Laine on Fri 4 Dec, Tallinn. 1 act on the bill: adobeprincess. Electronica and Minimal Techno. Preview the line-up and save it on soundcheck.
+Laine Klubiöö: adobeprincess (US) at Uus Laine on Fri 4 Dec, Tallinn. 1 artist on the bill: adobeprincess. Electronica and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Novocaine+: Beste Hira at Gate Milano
 
-Novocaine+: Beste Hira at Gate Milano on Sat 12 Dec, Milan. 3 acts on the bill: Beste Hira, MISERIA and RIBLX. Preview the line-up and save it on soundcheck.
+Novocaine+: Beste Hira at Gate Milano on Sat 12 Dec, Milan. 3 artists on the bill: Beste Hira, MISERIA and RIBLX. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

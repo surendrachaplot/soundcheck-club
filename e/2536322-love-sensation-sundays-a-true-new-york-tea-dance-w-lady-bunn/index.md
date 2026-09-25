@@ -1,6 +1,6 @@
 # LOVE SENSATION SUNDAYS // A True New York Tea Dance // w/ Lady Bunny, Drew Baker at Club Rawhide
 
-LOVE SENSATION SUNDAYS // A True New York Tea Dance // w/ Lady Bunny, Drew Baker at Club Rawhide on Sun 27 Sept, Newyorkcity. 1 act on the bill: Drew Baker. House and Disco. Preview the line-up and save it on soundcheck.
+LOVE SENSATION SUNDAYS // A True New York Tea Dance // w/ Lady Bunny, Drew Baker at Club Rawhide on Sun 27 Sept, New York City. 1 artist on the bill: Drew Baker. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

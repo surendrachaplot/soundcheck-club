@@ -2,7 +2,7 @@
 
 cute boys is a Trance and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mood Ring, New York City on Sat, 3 Oct 2026.
 
-cute boys is a trance and pop artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside ASTER (DJ), Tasheff and Lilflower. Next up: Mood Ring, Newyorkcity on Sat 3 Oct.
+cute boys is a trance and pop artist based in United States of America, tracked on soundcheck, with 11 sets logged across New York City. Often billed alongside ASTER (DJ), Tasheff and Lilflower. Next up: Mood Ring, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 

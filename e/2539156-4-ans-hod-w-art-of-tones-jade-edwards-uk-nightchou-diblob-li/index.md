@@ -1,6 +1,6 @@
 # 4 ANS HOD W/. Art of Tones, Jade Edwards (UK), Nightchou, Diblob (LIVE) & More at Le 211
 
-4 ANS HOD W/. Art of Tones, Jade Edwards (UK), Nightchou, Diblob (LIVE) & More at Le 211 on Sat 7 Nov, Paris. 3 acts on the bill: Art of Tones, Jade Edwards and Nightchou. House and Deep House. Preview the line-up and save it on soundcheck.
+4 ANS HOD W/. Art of Tones, Jade Edwards (UK), Nightchou, Diblob (LIVE) & More at Le 211 on Sat 7 Nov, Paris. 3 artists on the bill: Art of Tones, Jade Edwards and Nightchou. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Chloé Caillet, Dee Diggs, Kim Anh at Knockdown Center
 
-Chloé Caillet, Dee Diggs, Kim Anh at Knockdown Center on Fri 25 Sept, Newyorkcity. 3 acts on the bill: Chloé Caillet, Dee Diggs and Kim Anh. House. Preview the line-up and save it on soundcheck.
+Chloé Caillet, Dee Diggs, Kim Anh at Knockdown Center on Fri 25 Sept, New York City. 3 artists on the bill: Chloé Caillet, Dee Diggs and Kim Anh. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

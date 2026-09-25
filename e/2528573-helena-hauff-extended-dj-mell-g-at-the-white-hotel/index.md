@@ -1,6 +1,6 @@
 # Helena Hauff {extended} / DJ MELL G at The White Hotel
 
-Helena Hauff {extended} / DJ MELL G at The White Hotel on Fri 2 Oct, Manchester. 2 acts on the bill: DJ MELL G and Helena Hauff. Club. Preview the line-up and save it on soundcheck.
+Helena Hauff {extended} / DJ MELL G at The White Hotel on Fri 2 Oct, Manchester. 2 artists on the bill: DJ MELL G and Helena Hauff. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

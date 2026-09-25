@@ -1,6 +1,6 @@
 # ★ BRUXA with Huamaniser, Rachel de Moncuit, Nina Farrina & 3ever ★ at Ankali & Planeta Za
 
-★ BRUXA with Huamaniser, Rachel de Moncuit, Nina Farrina & 3ever ★ at Ankali & Planeta Za on Sat 26 Sept, Prague. 4 acts on the bill: 3ever, Huamaniser, Nina Farrina and RayRay. Techno and Experimental. Preview the line-up and save it on soundcheck.
+★ BRUXA with Huamaniser, Rachel de Moncuit, Nina Farrina & 3ever ★ at Ankali & Planeta Za on Sat 26 Sept, Prague. 4 artists on the bill: 3ever, Huamaniser, Nina Farrina and RayRay. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

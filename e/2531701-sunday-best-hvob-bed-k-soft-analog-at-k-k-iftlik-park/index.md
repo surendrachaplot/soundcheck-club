@@ -1,6 +1,6 @@
 # Sunday Best: HVOB - Bedük -Soft Analog at Küçükçiftlik Park
 
-Sunday Best: HVOB - Bedük -Soft Analog at Küçükçiftlik Park on Sun 11 Oct, Istanbul. 1 act on the bill: HVOB. Preview the line-up and save it on soundcheck.
+Sunday Best: HVOB - Bedük -Soft Analog at Küçükçiftlik Park on Sun 11 Oct, Istanbul. 1 artist on the bill: HVOB. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

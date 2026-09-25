@@ -1,6 +1,6 @@
 # VANTEK: Lindsey Herbert at TBA
 
-VANTEK: Lindsey Herbert at TBA on Sat 24 Oct, Vancouver. 3 acts on the bill: Goa Pete, Lindsey Herbert and MiiiW. Techno. Preview the line-up and save it on soundcheck.
+VANTEK: Lindsey Herbert at TBA on Sat 24 Oct, Vancouver. 3 artists on the bill: Goa Pete, Lindsey Herbert and MiiiW. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

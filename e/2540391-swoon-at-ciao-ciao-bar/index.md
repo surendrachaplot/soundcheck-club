@@ -1,6 +1,6 @@
 # SWOON at ciao ciao Bar
 
-SWOON at ciao ciao Bar on Sun 11 Oct, Berlin. 5 acts on the bill: Ahni, Evalyn, Pppainterrr and Reinartz and 1 more. Ambient and Dub. Preview the line-up and save it on soundcheck.
+SWOON at ciao ciao Bar on Sun 11 Oct, Berlin. 5 artists on the bill: Ahni, Evalyn, Pppainterrr and Reinartz and 1 more. Ambient and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

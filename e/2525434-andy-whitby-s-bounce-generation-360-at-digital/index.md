@@ -1,6 +1,6 @@
 # Andy Whitby's BOUNCE GENERATION 360 at Digital
 
-Andy Whitby's BOUNCE GENERATION 360 at Digital on Sat 28 Nov, Newcastle. 1 act on the bill: Andy Whitby. Preview the line-up and save it on soundcheck.
+Andy Whitby's BOUNCE GENERATION 360 at Digital on Sat 28 Nov, Newcastle. 1 artist on the bill: Andy Whitby. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

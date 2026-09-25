@@ -1,6 +1,6 @@
 # BLENDERBENDR at No Idea
 
-BLENDERBENDR at No Idea on Thu 24 Sept, Toronto. 3 acts on the bill: FU3GO, LUVBUG (2) and Mrii. Preview the line-up and save it on soundcheck.
+BLENDERBENDR at No Idea on Thu 24 Sept, Toronto. 3 artists on the bill: FU3GO, LUVBUG and Mrii. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

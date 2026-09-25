@@ -1,6 +1,6 @@
 # 10SERIES by Shelter - Laura Meester, Merel Helderman, nik-ey, KINETIKS, Eileen at Shelter Amsterdam
 
-10SERIES by Shelter - Laura Meester, Merel Helderman, nik-ey, KINETIKS, Eileen at Shelter Amsterdam on Sat 14 Nov, Amsterdam. 5 acts on the bill: Eileen (NL), KINETIKS, Laura Meester and Merel Helderman and 1 more. House. Preview the line-up and save it on soundcheck.
+10SERIES by Shelter - Laura Meester, Merel Helderman, nik-ey, KINETIKS, Eileen at Shelter Amsterdam on Sat 14 Nov, Amsterdam. 5 artists on the bill: Eileen (NL), KINETIKS, Laura Meester and Merel Helderman and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

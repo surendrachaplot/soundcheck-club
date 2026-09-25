@@ -1,6 +1,6 @@
 # CORE #010 by UNDERCITY at UNDERCITY
 
-CORE #010 by UNDERCITY on Sat 26 Sept, Seoul. 4 acts on the bill: Gina Demarchi, Kayarizm, lucii and No/ah. Techno. Preview the line-up and save it on soundcheck.
+CORE #010 by UNDERCITY on Sat 26 Sept, Seoul. 4 artists on the bill: Gina Demarchi, Kayarizm, lucii and No/ah. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

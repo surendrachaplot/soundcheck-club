@@ -1,6 +1,6 @@
 # Rodilla Club at Japan Monterrey
 
-Rodilla Club at Japan Monterrey on Sat 26 Sept, Mexicocity. 4 acts on the bill: KOI (MX), koppel, rodman and Seagit Arc. Techno and Bass. Preview the line-up and save it on soundcheck.
+Rodilla Club at Japan Monterrey on Sat 26 Sept, Mexico City. 4 artists on the bill: KOI (MX), koppel, rodman and Seagit Arc. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

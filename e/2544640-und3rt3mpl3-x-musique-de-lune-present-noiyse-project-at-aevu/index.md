@@ -1,6 +1,6 @@
 # UND3RT3MPL3 X Musique de Lune present NOIYSE PROJECT at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam
 
-UND3RT3MPL3 X Musique de Lune present NOIYSE PROJECT at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam on Sun 25 Oct, Amsterdam. 5 acts on the bill: David J Newton, Jaap Ligthart, NOIYSE PROJECT and Oscar Rosmano and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+UND3RT3MPL3 X Musique de Lune present NOIYSE PROJECT at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam on Sun 25 Oct, Amsterdam. 5 artists on the bill: David J Newton, Jaap Ligthart, NOIYSE PROJECT and Oscar Rosmano and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

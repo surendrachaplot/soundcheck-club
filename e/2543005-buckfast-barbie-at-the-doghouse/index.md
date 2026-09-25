@@ -1,6 +1,6 @@
 # Buckfast Barbie at The Doghouse
 
-Buckfast Barbie at The Doghouse on Sat 26 Sept, Edinburgh. 1 act on the bill: Buckfast Barbie. Bass. Preview the line-up and save it on soundcheck.
+Buckfast Barbie at The Doghouse on Sat 26 Sept, Edinburgh. 1 artist on the bill: Buckfast Barbie. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

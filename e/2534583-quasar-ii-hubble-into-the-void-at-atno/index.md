@@ -1,6 +1,6 @@
 # Quasar II: Hubble Into The Void at Atno
 
-Quasar II: Hubble Into The Void at Atno on Fri 2 Oct, Budapest. 6 acts on the bill: BLZS, IPAR, Kozma and Mython and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Quasar II: Hubble Into The Void at Atno on Fri 2 Oct, Budapest. 6 artists on the bill: BLZS, IPAR, Kozma and Mython and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

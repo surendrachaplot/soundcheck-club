@@ -1,6 +1,6 @@
 # HARDBUERAU HALLOWEEN EDITION W/ Natta + INNER CIRCLE at Fundbureau
 
-HARDBUERAU HALLOWEEN EDITION W/ Natta + INNER CIRCLE at Fundbureau on Fri 30 Oct, Hamburg. 1 act on the bill: Natta. Techno. Preview the line-up and save it on soundcheck.
+HARDBUERAU HALLOWEEN EDITION W/ Natta + INNER CIRCLE at Fundbureau on Fri 30 Oct, Hamburg. 1 artist on the bill: Natta. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

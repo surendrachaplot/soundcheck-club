@@ -1,6 +1,6 @@
 # Thriller: 80's Halloween Party at Break Room 86
 
-Thriller: 80's Halloween Party at Break Room 86 on Sat 31 Oct, Losangeles. Pop. Preview the line-up and save it on soundcheck.
+Thriller: 80's Halloween Party at Break Room 86 on Sat 31 Oct, Los Angeles. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

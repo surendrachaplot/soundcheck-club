@@ -1,6 +1,6 @@
 # Carhartt WIP presents: Keys To The City at Fraser Park
 
-Carhartt WIP presents: Keys To The City at Fraser Park on Sat 7 Nov, Sydney. 8 acts on the bill: Alex Diwa, Deepa, Jun Wan and Lorna Clarkson and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Carhartt WIP presents: Keys To The City at Fraser Park on Sat 7 Nov, Sydney. 8 artists on the bill: Alex Diwa, Deepa, Jun Wan and Lorna Clarkson and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

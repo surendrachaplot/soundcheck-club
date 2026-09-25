@@ -1,6 +1,6 @@
 # Toy Tonics Jam - Los Angeles at TBA - DTLA
 
-Toy Tonics Jam - Los Angeles at TBA - DTLA on Fri 2 Oct, Losangeles. 3 acts on the bill: Barbara Boeing, Cody Currie and Xica Soul. House. Preview the line-up and save it on soundcheck.
+Toy Tonics Jam - Los Angeles at TBA - DTLA on Fri 2 Oct, Los Angeles. 3 artists on the bill: Barbara Boeing, Cody Currie and Xica Soul. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

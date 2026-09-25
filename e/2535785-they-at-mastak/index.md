@@ -1,6 +1,6 @@
 # they at Mastak
 
-they at Mastak on Sat 10 Oct, Warsaw. 4 acts on the bill: Braincrush, LEM (5), Lyor Kalt and ONIMAL. Techno. Preview the line-up and save it on soundcheck.
+they at Mastak on Sat 10 Oct, Warsaw. 4 artists on the bill: Braincrush, LEM, Lyor Kalt and ONIMAL. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

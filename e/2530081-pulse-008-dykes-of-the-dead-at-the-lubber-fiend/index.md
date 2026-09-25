@@ -1,6 +1,6 @@
 # PULSE 008 // DYKES OF THE DEAD at The Lubber Fiend
 
-PULSE 008 // DYKES OF THE DEAD at The Lubber Fiend on Fri 30 Oct, Newcastle. 1 act on the bill: musican't. Techno and Tech House. Preview the line-up and save it on soundcheck.
+PULSE 008 // DYKES OF THE DEAD at The Lubber Fiend on Fri 30 Oct, Newcastle. 1 artist on the bill: musican't. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

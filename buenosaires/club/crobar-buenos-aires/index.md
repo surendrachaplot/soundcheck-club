@@ -2,7 +2,7 @@
 
 Crobar - Buenos Aires is a music venue in Buenos Aires with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Crobar Club Pres.: Ludmila Di Pasquale & JUAAN" on Fri, 25 Sept 2026.
 
-Crobar - Buenos Aires is a music venue in Buenosaires listed on soundcheck. 2 upcoming gigs, with line-ups including Ana Hagen, JUAAN, Ludmila Di Pasquale and VALENCE. Browse upcoming dates, start times and who's playing. Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina.
+Crobar - Buenos Aires is a music venue in Buenos Aires listed on soundcheck. 2 upcoming gigs, with line-ups including Ana Hagen, JUAAN, Ludmila Di Pasquale and VALENCE. Browse upcoming dates, start times and who's playing. Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina.
 
 ## What's on
 

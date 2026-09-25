@@ -1,6 +1,6 @@
 # ¡SOUNDCLASH!: Hometown Sound System vs Mighty Oak Sound System at The Art School
 
-¡SOUNDCLASH!: Hometown Sound System vs Mighty Oak Sound System at The Art School on Sat 26 Sept, Glasgow. 2 acts on the bill: Hometown Sound and James Hometown. Dub and Dancehall. Preview the line-up and save it on soundcheck.
+¡SOUNDCLASH!: Hometown Sound System vs Mighty Oak Sound System at The Art School on Sat 26 Sept, Glasgow. 2 artists on the bill: Hometown Sound and James Hometown. Dub and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

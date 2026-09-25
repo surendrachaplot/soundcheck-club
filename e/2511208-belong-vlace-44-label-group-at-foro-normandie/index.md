@@ -1,6 +1,6 @@
 # BELONG: VLACE (44 LABEL GROUP) at Foro Normandie
 
-BELONG: VLACE (44 LABEL GROUP) at Foro Normandie on Fri 25 Sept, Mexicocity. 3 acts on the bill: Ann García, Ironick and YAM YAMS. Techno. Preview the line-up and save it on soundcheck.
+BELONG: VLACE (44 LABEL GROUP) at Foro Normandie on Fri 25 Sept, Mexico City. 3 artists on the bill: Ann García, Ironick and YAM YAMS. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

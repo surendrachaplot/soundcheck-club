@@ -1,6 +1,6 @@
 # Halloween in der Kulturbrauerei Saturday at Kulturbrauerei
 
-Halloween in der Kulturbrauerei Saturday on Sat 31 Oct, Berlin. 2 acts on the bill: Daora and Waikiki. Techno and Electro. Preview the line-up and save it on soundcheck.
+Halloween in der Kulturbrauerei Saturday on Sat 31 Oct, Berlin. 2 artists on the bill: Daora and Waikiki. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

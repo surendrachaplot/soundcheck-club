@@ -1,6 +1,6 @@
 # Connects Ldn X PressPlay at Starlane at Starlane Pizza Bar
 
-Connects Ldn X PressPlay at Starlane at Starlane Pizza Bar on Fri 6 Nov, London. 1 act on the bill: Inland Knights. House and Garage. Preview the line-up and save it on soundcheck.
+Connects Ldn X PressPlay at Starlane at Starlane Pizza Bar on Fri 6 Nov, London. 1 artist on the bill: Inland Knights. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

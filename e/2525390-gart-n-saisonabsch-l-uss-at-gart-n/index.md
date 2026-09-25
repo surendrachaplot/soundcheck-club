@@ -1,6 +1,6 @@
 # gART.n Saisonabsch(l)uss at gART.n
 
-gART.n Saisonabsch(l)uss on Sun 27 Sept, Berlin. 4 acts on the bill: Isabeau Fort, J.WOCKENFUSS, Rampue and Tala Berg. House. Preview the line-up and save it on soundcheck.
+gART.n Saisonabsch(l)uss on Sun 27 Sept, Berlin. 4 artists on the bill: Isabeau Fort, J.WOCKENFUSS, Rampue and Tala Berg. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

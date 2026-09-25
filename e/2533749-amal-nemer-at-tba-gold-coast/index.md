@@ -1,6 +1,6 @@
 # Amal Nemer at TBA - Gold Coast
 
-Amal Nemer at TBA - Gold Coast on Fri 9 Oct, Chicago. 1 act on the bill: Amal Nemer. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Amal Nemer at TBA - Gold Coast on Fri 9 Oct, Chicago. 1 artist on the bill: Amal Nemer. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 mOZ (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Laska V21, Riga on Fri, 20 Nov 2026.
 
-mOZ (2) is a house and techno artist based in Latvia, tracked on soundcheck, with 74 sets logged across Melbourne, Riga and Tokyo. Often billed alongside Herren Ivo, East Cho and Bogdan Taran. Next up: Laska V21, Riga on Fri 20 Nov.
+mOZ is a house and techno artist based in Latvia, tracked on soundcheck, with 74 sets logged across Melbourne, Riga and Tokyo. Often billed alongside Herren Ivo, East Cho and Bogdan Taran. Next up: Laska V21, Riga on Fri 20 Nov.
 
 ## Upcoming shows
 

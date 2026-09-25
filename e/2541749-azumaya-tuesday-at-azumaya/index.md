@@ -1,6 +1,6 @@
 # Azumaya -Tuesday- at Azumaya
 
-Azumaya -Tuesday- on Tue 29 Sept, Tokyo. 1 act on the bill: kuniii. Techno and House. Preview the line-up and save it on soundcheck.
+Azumaya -Tuesday- on Tue 29 Sept, Tokyo. 1 artist on the bill: kuniii. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

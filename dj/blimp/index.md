@@ -2,7 +2,7 @@
 
 Blimp is a Noise and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hen's Teeth, Dublin on Sat, 17 Oct 2026.
 
-Blimp is a noise and pop artist based in Ireland, tracked on soundcheck, with 12 sets logged across Chicago, Dublin, Newyorkcity and Sandiego and 1 more. Often billed alongside LIAL, Boysinblush and Sémaé. Next up: Hen's Teeth, Dublin on Sat 17 Oct.
+Blimp is a noise and pop artist based in Ireland, tracked on soundcheck, with 12 sets logged across Chicago, Dublin, New York City and San Diego and 1 more. Often billed alongside LIAL, Boysinblush and Sémaé. Next up: Hen's Teeth, Dublin on Sat 17 Oct.
 
 ## Upcoming shows
 

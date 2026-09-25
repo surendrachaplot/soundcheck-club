@@ -1,6 +1,6 @@
 # Soul Rotation presents Don Carlos & Liam Dollard at Hang Dai at Hang Dai Chinese
 
-Soul Rotation presents Don Carlos & Liam Dollard at Hang Dai at Hang Dai Chinese on Sat 21 Nov, Dublin. 1 act on the bill: Don Carlos. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Soul Rotation presents Don Carlos & Liam Dollard at Hang Dai at Hang Dai Chinese on Sat 21 Nov, Dublin. 1 artist on the bill: Don Carlos. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

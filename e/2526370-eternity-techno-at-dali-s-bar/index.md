@@ -1,6 +1,6 @@
 # ETERNITY. TECHNO at Dali's Bar
 
-ETERNITY. TECHNO at Dali's Bar on Sat 10 Oct, Brussels. 1 act on the bill: Niki John Elvis. Techno. Preview the line-up and save it on soundcheck.
+ETERNITY. TECHNO at Dali's Bar on Sat 10 Oct, Brussels. 1 artist on the bill: Niki John Elvis. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

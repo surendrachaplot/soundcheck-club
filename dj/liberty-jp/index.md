@@ -2,7 +2,7 @@
 
 liberty (JP) is a House and Balearic artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at or, Tokyo on Sat, 26 Sept 2026.
 
-liberty (JP) is a house and balearic artist based in Japan, tracked on soundcheck, with 38 sets logged across Tokyo. Often billed alongside Anri (2), Yamariki and Ayantula. Next up: or, Tokyo on Sat 26 Sept.
+liberty (JP) is a house and balearic artist based in Japan, tracked on soundcheck, with 38 sets logged across Tokyo. Often billed alongside Anri, Yamariki and Ayantula. Next up: or, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # KAJÚ: BADJUDA, Juju le Moko, Naoussa at Barbossa
 
-KAJÚ: BADJUDA, Juju le Moko, Naoussa at Barbossa on Thu 24 Sept, Montreal. 2 acts on the bill: BADJUDA and Juju le Moko. House and Afro House. Preview the line-up and save it on soundcheck.
+KAJÚ: BADJUDA, Juju le Moko, Naoussa at Barbossa on Thu 24 Sept, Montreal. 2 artists on the bill: BADJUDA and Juju le Moko. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

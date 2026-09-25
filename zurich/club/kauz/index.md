@@ -17,7 +17,7 @@ Kauz is a music venue in Zurich listed on soundcheck. 10 upcoming gigs, with lin
 | Sat, 10 Oct 2026 | CRIT | Exkursion, Radiant, Reptant, Sanctus Libido |
 | Fri, 16 Oct 2026 | irubo × schmusi | Mother Dubber |
 | Sat, 17 Oct 2026 | gluck | KAYYAK, Kalabrese |
-| Sun, 25 Oct 2026 | espresso space club III - rings of saturn | Eli Verveine, Elsa (CH), MRZ (1), Playlove, Styro 2000, fabulus, molekühl |
+| Sun, 25 Oct 2026 | espresso space club III - rings of saturn | Eli Verveine, Elsa (CH), Playlove, Styro 2000, fabulus, molekühl |
 
 ## Address
 

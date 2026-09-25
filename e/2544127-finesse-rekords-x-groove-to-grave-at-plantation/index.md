@@ -1,6 +1,6 @@
 # Finesse Rekords X Groove To Grave at Plantation
 
-Finesse Rekords X Groove To Grave at Plantation on Sun 11 Oct, Paris. 1 act on the bill: ode (1). Preview the line-up and save it on soundcheck.
+Finesse Rekords X Groove To Grave at Plantation on Sun 11 Oct, Paris. 1 artist on the bill: ode. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

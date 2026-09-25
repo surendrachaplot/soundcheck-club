@@ -1,6 +1,6 @@
 # Ambient Sauna • Stella Z & Laura Not at Sauna Social Club
 
-Ambient Sauna • Stella Z & Laura Not at Sauna Social Club on Fri 2 Oct, London. 2 acts on the bill: Laura Not and Stella Z. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Ambient Sauna • Stella Z & Laura Not at Sauna Social Club on Fri 2 Oct, London. 2 artists on the bill: Laura Not and Stella Z. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

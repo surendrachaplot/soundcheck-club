@@ -2,7 +2,7 @@
 
 Noumena is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Subterra, The Hague on Sat, 3 Oct 2026.
 
-Noumena is a house and dub techno artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam, Budapest and Thehague. Often billed alongside Octile, Klayman and Murahni. Next up: TBA - Subterra, Thehague on Sat 3 Oct.
+Noumena is a house and dub techno artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam, Budapest and The Hague. Often billed alongside Octile, Klayman and Murahni. Next up: TBA - Subterra, The Hague on Sat 3 Oct.
 
 ## Upcoming shows
 

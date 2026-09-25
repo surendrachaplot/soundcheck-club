@@ -2,7 +2,7 @@
 
 Nowadays is a music venue in New York City with 30 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Body Hack: LOKA, Sevyn Love, Gatite Gangster, Archangel, Yaz Lancaster, swello" on Thu, 24 Sept 2026.
 
-Nowadays is a music venue in Newyorkcity listed on soundcheck. 30 upcoming gigs, with line-ups including 1tbsp, LYDO, ābnamā and Andy Martin and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in New York City listed on soundcheck. 30 upcoming gigs, with line-ups including 1tbsp, LYDO, ābnamā and Andy Martin and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 

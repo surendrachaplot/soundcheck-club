@@ -1,6 +1,6 @@
 # Loose Screws at Système
 
-Loose Screws at Système on Fri 2 Oct, Montreal. 3 acts on the bill: Dave P, Faux Sommets and Syd Woz. Preview the line-up and save it on soundcheck.
+Loose Screws at Système on Fri 2 Oct, Montreal. 3 artists on the bill: Dave P, Faux Sommets and Syd Woz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

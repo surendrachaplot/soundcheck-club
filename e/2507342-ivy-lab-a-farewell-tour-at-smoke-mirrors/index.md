@@ -1,6 +1,6 @@
 # Ivy Lab: A Farewell Tour at Smoke & Mirrors
 
-Ivy Lab: A Farewell Tour at Smoke & Mirrors on Thu 8 Oct, Chicago. 1 act on the bill: Ivy Lab. Bass. Preview the line-up and save it on soundcheck.
+Ivy Lab: A Farewell Tour at Smoke & Mirrors on Thu 8 Oct, Chicago. 1 artist on the bill: Ivy Lab. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

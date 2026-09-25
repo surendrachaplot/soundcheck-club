@@ -1,6 +1,6 @@
 # Theo Parrish {From Start till Finish} at The White Hotel
 
-Theo Parrish {From Start till Finish} at The White Hotel on Fri 23 Oct, Manchester. 1 act on the bill: Theo Parrish. Preview the line-up and save it on soundcheck.
+Theo Parrish {From Start till Finish} at The White Hotel on Fri 23 Oct, Manchester. 1 artist on the bill: Theo Parrish. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

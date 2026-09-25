@@ -1,6 +1,6 @@
 # Unfussy LEEDS - Morgan Seatree at Mint XL
 
-Unfussy LEEDS - Morgan Seatree at Mint XL on Sat 14 Nov, Leeds. 1 act on the bill: Morgan Seatree. House. Preview the line-up and save it on soundcheck.
+Unfussy LEEDS - Morgan Seatree at Mint XL on Sat 14 Nov, Leeds. 1 artist on the bill: Morgan Seatree. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

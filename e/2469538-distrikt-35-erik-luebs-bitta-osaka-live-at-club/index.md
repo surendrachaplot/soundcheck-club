@@ -1,6 +1,6 @@
 # Distrikt 35: Erik Luebs (Bitta, Osaka) [LIVE] at 宀 Club
 
-Distrikt 35: Erik Luebs (Bitta, Osaka) [LIVE] at 宀 Club on Fri 13 Nov, Hongkong. 1 act on the bill: Erik Luebs. Techno. Preview the line-up and save it on soundcheck.
+Distrikt 35: Erik Luebs (Bitta, Osaka) [LIVE] at 宀 Club on Fri 13 Nov, Hong Kong. 1 artist on the bill: Erik Luebs. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

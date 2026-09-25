@@ -1,6 +1,6 @@
 # Motel ✰ Local Selectors vol.II at Motel Campo
 
-Motel ✰ Local Selectors vol.II at Motel Campo on Sat 3 Oct, Geneva. 1 act on the bill: Runde. Techno and House. Preview the line-up and save it on soundcheck.
+Motel ✰ Local Selectors vol.II at Motel Campo on Sat 3 Oct, Geneva. 1 artist on the bill: Runde. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Beate Barfuß /// Just Emma & Friends at Beate Uwe
 
-Beate Barfuß /// Just Emma & Friends at Beate Uwe on Sun 11 Oct, Berlin. 3 acts on the bill: Just Emma, Kollektiv Sheesh and Motip White. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
+Beate Barfuß /// Just Emma & Friends at Beate Uwe on Sun 11 Oct, Berlin. 3 artists on the bill: Just Emma, Kollektiv Sheesh and Motip White. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AOS CLUB W/ Egyptian Lover at Café Schöne Aussichten (CSA)
 
-AOS CLUB W/ Egyptian Lover at Café Schöne Aussichten (CSA) on Sun 25 Oct, Hamburg. 6 acts on the bill: Carl Hang, DJ Babyblade, DJ SOURCE and Egyptian Lover and 2 more. Preview the line-up and save it on soundcheck.
+AOS CLUB W/ Egyptian Lover at Café Schöne Aussichten (CSA) on Sun 25 Oct, Hamburg. 6 artists on the bill: Carl Hang, DJ Babyblade, DJ SOURCE and Egyptian Lover and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

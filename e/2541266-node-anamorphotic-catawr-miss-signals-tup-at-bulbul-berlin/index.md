@@ -1,6 +1,6 @@
 # NODE: Anamorphotic, CATAWR, Miss Signals, TUP at Bulbul Berlin
 
-NODE: Anamorphotic, CATAWR, Miss Signals, TUP at Bulbul Berlin on Fri 2 Oct, Berlin. 1 act on the bill: CATAWR. House and Club. Preview the line-up and save it on soundcheck.
+NODE: Anamorphotic, CATAWR, Miss Signals, TUP at Bulbul Berlin on Fri 2 Oct, Berlin. 1 artist on the bill: CATAWR. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

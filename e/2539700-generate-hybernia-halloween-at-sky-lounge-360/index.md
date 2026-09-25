@@ -1,6 +1,6 @@
 # GENERATE: HYBERNIA HALLOWEEN at Sky Lounge 360
 
-GENERATE: HYBERNIA HALLOWEEN at Sky Lounge 360 on Fri 30 Oct, Prague. 3 acts on the bill: Hugorieri, Ondrej K and Spada. Techno and House. Preview the line-up and save it on soundcheck.
+GENERATE: HYBERNIA HALLOWEEN at Sky Lounge 360 on Fri 30 Oct, Prague. 3 artists on the bill: Hugorieri, Ondrej K and Spada. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

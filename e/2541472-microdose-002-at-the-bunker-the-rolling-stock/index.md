@@ -1,6 +1,6 @@
 # Microdose 002 at The Bunker @ The Rolling Stock
 
-Microdose 002 at The Bunker @ The Rolling Stock on Fri 9 Oct, London. 1 act on the bill: Marcelina Wick. House and Minimal. Preview the line-up and save it on soundcheck.
+Microdose 002 at The Bunker @ The Rolling Stock on Fri 9 Oct, London. 1 artist on the bill: Marcelina Wick. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

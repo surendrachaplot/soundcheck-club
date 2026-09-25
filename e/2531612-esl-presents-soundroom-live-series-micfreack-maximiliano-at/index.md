@@ -1,6 +1,6 @@
 # ESL presents: SoundRoom Live series - MicFreack / Maximiliano at Eighteenth Street Lounge (ESL)
 
-ESL presents: SoundRoom Live series - MicFreack / Maximiliano at Eighteenth Street Lounge (ESL) on Sat 26 Sept, Washingtondc. 2 acts on the bill: MAXIMILIANO (US) and Micfreak. House and Deep House. Preview the line-up and save it on soundcheck.
+ESL presents: SoundRoom Live series - MicFreack / Maximiliano at Eighteenth Street Lounge (ESL) on Sat 26 Sept, Washington DC. 2 artists on the bill: MAXIMILIANO (US) and Micfreak. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

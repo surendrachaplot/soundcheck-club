@@ -1,6 +1,6 @@
 # ROTATION W/ AEREA LIVE & Iman Janes at Uebel & Gefährlich
 
-ROTATION W/ AEREA LIVE & Iman Janes at Uebel & Gefährlich on Fri 23 Oct, Hamburg. 4 acts on the bill: AEREA, Iman Janes, Juunni and TERMINAL 23 (DE). Techno. Preview the line-up and save it on soundcheck.
+ROTATION W/ AEREA LIVE & Iman Janes at Uebel & Gefährlich on Fri 23 Oct, Hamburg. 4 artists on the bill: AEREA, Iman Janes, Juunni and TERMINAL 23 (DE). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

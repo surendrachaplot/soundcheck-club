@@ -1,6 +1,6 @@
 # SIGNALS - 5€ Tickets - w/ HOOM, C:KO, DJ Primitivo at Lokschuppen Berlin
 
-SIGNALS - 5€ Tickets - w/ HOOM, C:KO, DJ Primitivo at Lokschuppen Berlin on Wed 30 Sept, Berlin. 3 acts on the bill: CIKO, DJ Primitivo and HOOM. Trance and Techno. Preview the line-up and save it on soundcheck.
+SIGNALS - 5€ Tickets - w/ HOOM, C:KO, DJ Primitivo at Lokschuppen Berlin on Wed 30 Sept, Berlin. 3 artists on the bill: CIKO, DJ Primitivo and HOOM. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

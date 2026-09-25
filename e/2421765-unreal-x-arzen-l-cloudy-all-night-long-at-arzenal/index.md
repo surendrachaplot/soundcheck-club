@@ -1,6 +1,6 @@
 # UNREAL x ARZENÁL: Cloudy ALL NIGHT LONG at Arzenal
 
-UNREAL x ARZENÁL: Cloudy ALL NIGHT LONG at Arzenal on Fri 9 Oct, Budapest. 1 act on the bill: Cloudy. Techno. Preview the line-up and save it on soundcheck.
+UNREAL x ARZENÁL: Cloudy ALL NIGHT LONG at Arzenal on Fri 9 Oct, Budapest. 1 artist on the bill: Cloudy. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # A.M.C presents: Grassroots Energy (Nottingham) at Stealth
 
-A.M.C presents: Grassroots Energy (Nottingham) at Stealth on Fri 2 Oct, Nottingham. 1 act on the bill: A.M.C.. Drum & Bass. Preview the line-up and save it on soundcheck.
+A.M.C presents: Grassroots Energy (Nottingham) at Stealth on Fri 2 Oct, Nottingham. 1 artist on the bill: A.M.C.. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

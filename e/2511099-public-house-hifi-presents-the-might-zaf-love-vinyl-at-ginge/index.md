@@ -1,6 +1,6 @@
 # Public House Hifi presents The Might Zaf (Love Vinyl) at Gingerino's Pizza
 
-Public House Hifi presents The Might Zaf (Love Vinyl) at Gingerino's Pizza on Sat 31 Oct, Newcastle. 1 act on the bill: The Mighty Zaf. House and Disco. Preview the line-up and save it on soundcheck.
+Public House Hifi presents The Might Zaf (Love Vinyl) at Gingerino's Pizza on Sat 31 Oct, Newcastle. 1 artist on the bill: The Mighty Zaf. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 19 Years Sevenum Six at Chinastraat
 
-19 Years Sevenum Six at Chinastraat on Sat 3 Oct, Ghent. 1 act on the bill: Sevenum Six. Preview the line-up and save it on soundcheck.
+19 Years Sevenum Six at Chinastraat on Sat 3 Oct, Ghent. 1 artist on the bill: Sevenum Six. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

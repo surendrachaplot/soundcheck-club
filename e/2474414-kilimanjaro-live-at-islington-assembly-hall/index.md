@@ -1,6 +1,6 @@
 # KILIMANJARO Live at Islington Assembly Hall
 
-KILIMANJARO Live at Islington Assembly Hall on Thu 26 Nov, London. 1 act on the bill: KILIMANJARO. House and Afro House. Preview the line-up and save it on soundcheck.
+KILIMANJARO Live at Islington Assembly Hall on Thu 26 Nov, London. 1 artist on the bill: KILIMANJARO. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

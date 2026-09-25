@@ -1,6 +1,6 @@
 # Darby, MiiNDS at Elsewhere
 
-Darby, MiiNDS at Elsewhere on Thu 24 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+Darby, MiiNDS at Elsewhere on Thu 24 Sept, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

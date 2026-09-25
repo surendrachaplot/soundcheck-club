@@ -2,7 +2,7 @@
 
 Samwise (US) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Fri, 2 Oct 2026.
 
-Samwise (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, London, Losangeles and Newyorkcity. Often billed alongside Carré, Seyer (UK) and Trax Unit. Next up: TBA, Losangeles on Fri 2 Oct.
+Samwise (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, London, Los Angeles and New York City. Often billed alongside Carré, Seyer (UK) and Trax Unit. Next up: TBA, Los Angeles on Fri 2 Oct.
 
 ## Upcoming shows
 

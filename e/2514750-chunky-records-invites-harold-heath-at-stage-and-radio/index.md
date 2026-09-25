@@ -1,6 +1,6 @@
 # Chunky Records Invites Harold Heath at Stage and Radio
 
-Chunky Records Invites Harold Heath at Stage and Radio on Fri 2 Oct, Manchester. 1 act on the bill: Desay. House and Tech House. Preview the line-up and save it on soundcheck.
+Chunky Records Invites Harold Heath at Stage and Radio on Fri 2 Oct, Manchester. 1 artist on the bill: Desay. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

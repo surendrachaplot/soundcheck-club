@@ -1,6 +1,6 @@
 # Cash Only presents: Chronicles at Gallery
 
-Cash Only presents: Chronicles at Gallery on Sat 26 Sept, London. 5 acts on the bill: Carly Carmen, Dj Cash Only, Ned Spencer and Philip George and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Cash Only presents: Chronicles at Gallery on Sat 26 Sept, London. 5 artists on the bill: Carly Carmen, Dj Cash Only, Ned Spencer and Philip George and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

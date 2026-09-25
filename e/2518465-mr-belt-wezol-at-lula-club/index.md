@@ -1,6 +1,6 @@
 # Mr Belt & Wezol at Lula Club
 
-Mr Belt & Wezol at Lula Club on Fri 6 Nov, Madrid. 1 act on the bill: Mr. Belt & Wezol. Preview the line-up and save it on soundcheck.
+Mr Belt & Wezol at Lula Club on Fri 6 Nov, Madrid. 1 artist on the bill: Mr. Belt & Wezol. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

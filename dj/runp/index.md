@@ -2,7 +2,7 @@
 
 Run P. is a Club and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Friends & Lovers, New York City on Sat, 26 Sept 2026.
 
-Run P. is a club and dancehall artist based in United States of America, tracked on soundcheck, with 23 sets logged across London and Newyorkcity. Often billed alongside Nativesun, SAY3 and Bok Bok. Next up: Friends & Lovers, Newyorkcity on Sat 26 Sept.
+Run P. is a club and dancehall artist based in United States of America, tracked on soundcheck, with 23 sets logged across London and New York City. Often billed alongside Nativesun, SAY3 and Bok Bok. Next up: Friends & Lovers, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # The Deep Club - Outdoor Edition at TBA
 
-The Deep Club - Outdoor Edition at TBA on Sun 27 Sept, Amsterdam. 4 acts on the bill: Chico, Lbert, Nico Nova and Nova Caza. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+The Deep Club - Outdoor Edition at TBA on Sun 27 Sept, Amsterdam. 4 artists on the bill: Chico, Lbert, Nico Nova and Nova Caza. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

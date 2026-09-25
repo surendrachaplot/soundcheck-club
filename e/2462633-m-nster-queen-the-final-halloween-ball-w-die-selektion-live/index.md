@@ -1,6 +1,6 @@
 # Mønster Queen - THE FINAL HALLOWEEN BALL w/ Die Selektion (LIVE) at Camden Assembly
 
-Mønster Queen - THE FINAL HALLOWEEN BALL w/ Die Selektion (LIVE) at Camden Assembly on Fri 30 Oct, London. 2 acts on the bill: Die Selektion and Lais Pattak. EBM and New Wave. Preview the line-up and save it on soundcheck.
+Mønster Queen - THE FINAL HALLOWEEN BALL w/ Die Selektion (LIVE) at Camden Assembly on Fri 30 Oct, London. 2 artists on the bill: Die Selektion and Lais Pattak. EBM and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

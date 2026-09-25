@@ -1,6 +1,6 @@
 # COUNTER CLUB 7THANNIVERSARY DAY6 at COUNTER CLUB
 
-COUNTER CLUB 7THANNIVERSARY DAY6 on Sat 17 Oct, Tokyo. 1 act on the bill: Goat (JP). Preview the line-up and save it on soundcheck.
+COUNTER CLUB 7THANNIVERSARY DAY6 on Sat 17 Oct, Tokyo. 1 artist on the bill: Goat (JP). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

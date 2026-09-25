@@ -1,6 +1,6 @@
 # PSYCHO Collage at KitKatClub
 
-PSYCHO Collage at KitKatClub on Thu 12 Nov, Berlin. 1 act on the bill: Ari Denaro. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+PSYCHO Collage at KitKatClub on Thu 12 Nov, Berlin. 1 artist on the bill: Ari Denaro. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

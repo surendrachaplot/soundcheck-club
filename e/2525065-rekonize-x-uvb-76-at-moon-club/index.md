@@ -1,6 +1,6 @@
 # Rekonize X UVB-76 at Moon Club
 
-Rekonize X UVB-76 at Moon Club on Fri 2 Oct, Bristol. 5 acts on the bill: ETHICS, Gremlinz, Joe Joiner and Loxy and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+Rekonize X UVB-76 at Moon Club on Fri 2 Oct, Bristol. 5 artists on the bill: ETHICS, Gremlinz, Joe Joiner and Loxy and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

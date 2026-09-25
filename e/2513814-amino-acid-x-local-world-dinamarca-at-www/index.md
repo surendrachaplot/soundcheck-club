@@ -1,6 +1,6 @@
 # AMINO ACID x LOCAL WORLD -Dinamarca- at WWW
 
-AMINO ACID x LOCAL WORLD -Dinamarca- at WWW on Fri 25 Sept, Tokyo. 8 acts on the bill: COLA REN, Dinamarca, DJ Lawson and E.O.U and 4 more. Reggaeton and Electronica. Preview the line-up and save it on soundcheck.
+AMINO ACID x LOCAL WORLD -Dinamarca- at WWW on Fri 25 Sept, Tokyo. 8 artists on the bill: COLA REN, Dinamarca, DJ Lawson and E.O.U and 4 more. Reggaeton and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

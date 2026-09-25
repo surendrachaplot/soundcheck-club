@@ -1,6 +1,6 @@
 # DOLLHAUS X SLIME at AMT
 
-DOLLHAUS X SLIME at AMT on Fri 23 Oct, Berlin. 4 acts on the bill: Meda-Ava, MEGUROLOVE, SIMOFF and TAUREAN (2). Techno and House. Preview the line-up and save it on soundcheck.
+DOLLHAUS X SLIME at AMT on Fri 23 Oct, Berlin. 4 artists on the bill: Meda-Ava, MEGUROLOVE, SIMOFF and TAUREAN. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

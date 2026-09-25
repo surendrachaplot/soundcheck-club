@@ -2,7 +2,7 @@
 
 Penelope (2) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
-Penelope (2) is a house and techno artist based in France, tracked on soundcheck, with 131 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 21 more. Often billed alongside Mari.te, Walrus and DJ Rino. Next up: Heave Festival, Madrid on Fri 25 Sept.
+Penelope is a house and techno artist based in France, tracked on soundcheck, with 131 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 21 more. Often billed alongside Mari.te, Walrus and DJ Rino. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 

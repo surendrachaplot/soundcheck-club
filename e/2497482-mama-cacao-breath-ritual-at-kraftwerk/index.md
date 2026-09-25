@@ -1,6 +1,6 @@
 # Mama cacao Breath Ritual at Kraftwerk
 
-Mama cacao Breath Ritual at Kraftwerk on Sun 25 Oct, Zurich. 1 act on the bill: Jkson. Preview the line-up and save it on soundcheck.
+Mama cacao Breath Ritual at Kraftwerk on Sun 25 Oct, Zurich. 1 artist on the bill: Jkson. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

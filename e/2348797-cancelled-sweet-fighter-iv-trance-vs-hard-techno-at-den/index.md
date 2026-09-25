@@ -1,6 +1,6 @@
 # [CANCELLED] Sweet Fighter IV: Trance vs. Hard Techno at ÆDEN
 
-[CANCELLED] Sweet Fighter IV: Trance vs. Hard Techno at ÆDEN on Sat 14 Nov, Berlin. 3 acts on the bill: DJ Hyperfck, Pamela Rave and TERRA TWIINS. Trance and Techno. Preview the line-up and save it on soundcheck.
+[CANCELLED] Sweet Fighter IV: Trance vs. Hard Techno at ÆDEN on Sat 14 Nov, Berlin. 3 artists on the bill: DJ Hyperfck, Pamela Rave and TERRA TWIINS. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

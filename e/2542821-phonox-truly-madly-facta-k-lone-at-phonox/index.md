@@ -1,6 +1,6 @@
 # Phonox: Truly Madly, Facta & K-LONE at Phonox
 
-Phonox: Truly Madly, Facta & K-LONE on Sat 21 Nov, London. 3 acts on the bill: Facta, K-LONE and Truly Madly. Techno and House. Preview the line-up and save it on soundcheck.
+Phonox: Truly Madly, Facta & K-LONE on Sat 21 Nov, London. 3 artists on the bill: Facta, K-LONE and Truly Madly. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

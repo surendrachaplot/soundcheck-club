@@ -1,6 +1,6 @@
 # Diva Diva: PAURRO b2b Kiernan Laveaux, Saia & e-Lite, performance by Willow Pill at public records
 
-Diva Diva: PAURRO b2b Kiernan Laveaux, Saia & e-Lite, performance by Willow Pill at public records on Sun 25 Oct, Newyorkcity. 4 acts on the bill: e-Lite, Kiernan Laveaux, PAURRO and Saia. House. Preview the line-up and save it on soundcheck.
+Diva Diva: PAURRO b2b Kiernan Laveaux, Saia & e-Lite, performance by Willow Pill at public records on Sun 25 Oct, New York City. 4 artists on the bill: e-Lite, Kiernan Laveaux, PAURRO and Saia. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

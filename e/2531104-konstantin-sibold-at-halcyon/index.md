@@ -1,6 +1,6 @@
 # Konstantin Sibold at Halcyon
 
-Konstantin Sibold at Halcyon on Sat 24 Oct, Sanfrancisco. 1 act on the bill: Konstantin Sibold. Preview the line-up and save it on soundcheck.
+Konstantin Sibold at Halcyon on Sat 24 Oct, San Francisco/Oakland. 1 artist on the bill: Konstantin Sibold. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

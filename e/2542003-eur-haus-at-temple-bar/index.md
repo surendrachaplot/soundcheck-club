@@ -1,6 +1,6 @@
 # Eur Haus at Temple Bar
 
-Eur Haus at Temple Bar on Sat 3 Oct, Detroit. 3 acts on the bill: Ginger Snap, Loading... and Loading... (US). House and Tech House. Preview the line-up and save it on soundcheck.
+Eur Haus at Temple Bar on Sat 3 Oct, Detroit. 3 artists on the bill: Ginger Snap, Loading... and Loading... (US). House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

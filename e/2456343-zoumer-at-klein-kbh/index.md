@@ -1,6 +1,6 @@
 # Zoumer at KLEIN kbh
 
-Zoumer at KLEIN kbh on Fri 13 Nov, Copenhagen. 1 act on the bill: Zoumer. Preview the line-up and save it on soundcheck.
+Zoumer at KLEIN kbh on Fri 13 Nov, Copenhagen. 1 artist on the bill: Zoumer. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

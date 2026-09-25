@@ -1,6 +1,6 @@
 # Frénésie with ACIDéale & Lowbass @Lieu Unique at Le Lieu Unique / Nantes
 
-Frénésie with ACIDéale & Lowbass @Lieu Unique at Le Lieu Unique / Nantes on Sat 24 Oct, Nantes. 1 act on the bill: Lowbass. Techno and Acid. Preview the line-up and save it on soundcheck.
+Frénésie with ACIDéale & Lowbass @Lieu Unique at Le Lieu Unique / Nantes on Sat 24 Oct, Nantes. 1 artist on the bill: Lowbass. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

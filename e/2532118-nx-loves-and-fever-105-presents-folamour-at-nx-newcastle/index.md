@@ -1,6 +1,6 @@
 # NX LOVES and Fever 105 PRESENTS - Folamour at NX Newcastle
 
-NX LOVES and Fever 105 PRESENTS - Folamour at NX Newcastle on Fri 23 Oct, Newcastle. 3 acts on the bill: Folamour, Kirollus and MiNNA. Preview the line-up and save it on soundcheck.
+NX LOVES and Fever 105 PRESENTS - Folamour at NX Newcastle on Fri 23 Oct, Newcastle. 3 artists on the bill: Folamour, Kirollus and MiNNA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

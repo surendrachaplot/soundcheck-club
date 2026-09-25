@@ -1,6 +1,6 @@
 # REVERB: HARDBOUNCE at EQ San Diego
 
-REVERB: HARDBOUNCE at EQ San Diego on Thu 24 Sept, Sandiego. 2 acts on the bill: badfriday and DEVZ. Techno. Preview the line-up and save it on soundcheck.
+REVERB: HARDBOUNCE at EQ San Diego on Thu 24 Sept, San Diego. 2 artists on the bill: badfriday and DEVZ. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

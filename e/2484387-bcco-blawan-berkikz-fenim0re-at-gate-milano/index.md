@@ -1,6 +1,6 @@
 # BCCO: Blawan & ÜBERKIKZ & FENIM0RE at Gate Milano
 
-BCCO: Blawan & ÜBERKIKZ & FENIM0RE at Gate Milano on Fri 11 Dec, Milan. 3 acts on the bill: Blawan, FENIM0RE and ÜBERKIKZ. Techno. Preview the line-up and save it on soundcheck.
+BCCO: Blawan & ÜBERKIKZ & FENIM0RE at Gate Milano on Fri 11 Dec, Milan. 3 artists on the bill: Blawan, FENIM0RE and ÜBERKIKZ. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

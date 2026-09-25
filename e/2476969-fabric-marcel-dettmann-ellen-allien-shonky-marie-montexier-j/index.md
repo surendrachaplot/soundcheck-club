@@ -1,6 +1,6 @@
 # fabric: Marcel Dettmann, Ellen Allien, Shonky, Marie Montexier, Josh Keit, Nate Oldfield + more at fabric
 
-fabric: Marcel Dettmann, Ellen Allien, Shonky, Marie Montexier, Josh Keit, Nate Oldfield + more on Sat 7 Nov, London. 7 acts on the bill: Ellen Allien, Jayson Wynters, Josh Keit and Marcel Dettmann and 3 more. Preview the line-up and save it on soundcheck.
+fabric: Marcel Dettmann, Ellen Allien, Shonky, Marie Montexier, Josh Keit, Nate Oldfield + more on Sat 7 Nov, London. 7 artists on the bill: Ellen Allien, Jayson Wynters, Josh Keit and Marcel Dettmann and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

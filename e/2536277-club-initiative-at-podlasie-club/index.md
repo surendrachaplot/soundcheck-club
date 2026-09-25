@@ -1,6 +1,6 @@
 # Club Initiative at Podlasie Club
 
-Club Initiative at Podlasie Club on Fri 16 Oct, Chicago. 3 acts on the bill: avas, Bok Bok and Jace Inman. Grime and Club. Preview the line-up and save it on soundcheck.
+Club Initiative at Podlasie Club on Fri 16 Oct, Chicago. 3 artists on the bill: avas, Bok Bok and Jace Inman. Grime and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

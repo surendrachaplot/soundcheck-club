@@ -1,6 +1,6 @@
 # BRAIN BATH Halloween with Jex Opolis & ephemeral objects *LIVE* at TBA
 
-BRAIN BATH Halloween with Jex Opolis & ephemeral objects *LIVE* at TBA on Fri 30 Oct, Vancouver. 2 acts on the bill: ephemeral objects and Jex Opolis. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
+BRAIN BATH Halloween with Jex Opolis & ephemeral objects *LIVE* at TBA on Fri 30 Oct, Vancouver. 2 artists on the bill: ephemeral objects and Jex Opolis. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

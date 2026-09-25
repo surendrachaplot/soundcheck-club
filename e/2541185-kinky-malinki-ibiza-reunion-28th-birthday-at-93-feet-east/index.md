@@ -1,6 +1,6 @@
 # Kinky Malinki Ibiza Reunion + 28th Birthday at 93 Feet East
 
-Kinky Malinki Ibiza Reunion + 28th Birthday at 93 Feet East on Sat 28 Nov, London. 5 acts on the bill: F Red, Jamie Hayhoe, Josh and SOMEGUY and 1 more. House. Preview the line-up and save it on soundcheck.
+Kinky Malinki Ibiza Reunion + 28th Birthday at 93 Feet East on Sat 28 Nov, London. 5 artists on the bill: F Red, Jamie Hayhoe, Josh and SOMEGUY and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

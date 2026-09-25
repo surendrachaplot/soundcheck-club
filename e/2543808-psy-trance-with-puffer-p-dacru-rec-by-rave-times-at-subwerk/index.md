@@ -1,6 +1,6 @@
 # Psy Trance with Puffer P (Dacru Rec) - by Rave Times at Subwerk Club
 
-Psy Trance with Puffer P (Dacru Rec) - by Rave Times at Subwerk Club on Sat 3 Oct, Bangkok. 1 act on the bill: Puffer P. Trance and Psytrance. Preview the line-up and save it on soundcheck.
+Psy Trance with Puffer P (Dacru Rec) - by Rave Times at Subwerk Club on Sat 3 Oct, Bangkok. 1 artist on the bill: Puffer P. Trance and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Big Fat Rave x FORGE: 4am Kru, Napes & Many More / Powered By Raze Sound System at FORGE
 
-Big Fat Rave x FORGE: 4am Kru, Napes & Many More / Powered By Raze Sound System on Fri 2 Oct, Sheffield. 4 acts on the bill: 4am Kru, KWAKE, Louise Plus One and Napes. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
+Big Fat Rave x FORGE: 4am Kru, Napes & Many More / Powered By Raze Sound System on Fri 2 Oct, Sheffield. 4 artists on the bill: 4am Kru, KWAKE, Louise Plus One and Napes. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

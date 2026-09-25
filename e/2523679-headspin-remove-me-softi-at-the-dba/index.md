@@ -1,6 +1,6 @@
 # Headspin: Remove Me & Softi at The DBA
 
-Headspin: Remove Me & Softi at The DBA on Sat 14 Nov, Manchester. 2 acts on the bill: Remove Me and Softi. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Headspin: Remove Me & Softi at The DBA on Sat 14 Nov, Manchester. 2 artists on the bill: Remove Me and Softi. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

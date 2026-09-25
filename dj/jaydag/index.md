@@ -1,8 +1,8 @@
 # Jayda G
 
-Jayda G is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BIRD, Rotterdam on Fri, 25 Sept 2026.
+Jayda G is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BIRD, Rotterdam on Fri, 25 Sept 2026.
 
-Jayda G is a house and techno artist based in Canada, tracked on soundcheck, with 130 sets logged across Amsterdam, Bali, Barcelona and Belfast and 47 more. Often billed alongside Melvo Baptiste, salute and Barry Can't Swim. Next up: BIRD, Rotterdam on Fri 25 Sept.
+Jayda G is a house and techno artist based in Canada, tracked on soundcheck, with 133 sets logged across Amsterdam, Bali, Barcelona and Belfast and 50 more. Often billed alongside Melvo Baptiste, salute and Barry Can't Swim. Next up: BIRD, Rotterdam on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,9 +13,11 @@ Jayda G is a house and techno artist based in Canada, tracked on soundcheck, wit
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Fri, 2 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | La Terrrazza | Barcelona |
+| Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | Flash | Washington DC |
 | Fri, 13 Nov 2026 | DRUMSHEDS | London |
+| Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Fri, 18 Dec 2026 | 104 CENTQUATRE | Paris |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 

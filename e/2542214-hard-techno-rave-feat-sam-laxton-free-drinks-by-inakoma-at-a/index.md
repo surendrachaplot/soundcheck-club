@@ -1,6 +1,6 @@
 # Hard Techno Rave feat. Sam Laxton - FREE Drinks by INAKOMA at Amnesia
 
-Hard Techno Rave feat. Sam Laxton - FREE Drinks by INAKOMA at Amnesia on Fri 2 Oct, Bangkok. 4 acts on the bill: DANI8L, LonSkii, Sam Laxton and xxseokxx. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Hard Techno Rave feat. Sam Laxton - FREE Drinks by INAKOMA at Amnesia on Fri 2 Oct, Bangkok. 4 artists on the bill: DANI8L, LonSkii, Sam Laxton and xxseokxx. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

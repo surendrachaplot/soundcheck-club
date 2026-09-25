@@ -1,6 +1,6 @@
 # FWD>> at FOLD
 
-FWD>> at FOLD on Fri 23 Oct, London. 6 acts on the bill: Dubrunner, Introspekt, Katiusha and livwutang and 2 more. Dubstep and Electronica. Preview the line-up and save it on soundcheck.
+FWD>> at FOLD on Fri 23 Oct, London. 6 artists on the bill: Dubrunner, Introspekt, Katiusha and livwutang and 2 more. Dubstep and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

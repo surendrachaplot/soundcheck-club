@@ -2,7 +2,7 @@
 
 Lake Chalco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Mexico City on Sat, 3 Oct 2026.
 
-Lake Chalco is a house and disco artist based in Mexico, tracked on soundcheck, with 49 sets logged across Mexicocity. Often billed alongside Duke Skylocker (Disco Dust), Miss Voltaghe and Pablo Miya. Next up: TBA, Mexicocity on Sat 3 Oct.
+Lake Chalco is a house and disco artist based in Mexico, tracked on soundcheck, with 49 sets logged across Mexico City. Often billed alongside Duke Skylocker (Disco Dust), Miss Voltaghe and Pablo Miya. Next up: TBA, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 

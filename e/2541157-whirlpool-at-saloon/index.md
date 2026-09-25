@@ -1,6 +1,6 @@
 # Whirlpool at Saloon
 
-Whirlpool at Saloon on Fri 9 Oct, Tokyo. 5 acts on the bill: Akie, DJ Healthy (OKOKOK), DJ Trystero and HIMAWARI and 1 more. Preview the line-up and save it on soundcheck.
+Whirlpool at Saloon on Fri 9 Oct, Tokyo. 5 artists on the bill: Akie, DJ Healthy (OKOKOK), DJ Trystero and HIMAWARI and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

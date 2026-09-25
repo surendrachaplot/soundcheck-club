@@ -1,6 +1,6 @@
 # Dublon at Floyd
 
-Dublon at Floyd on Sat 3 Oct, Miami. 3 acts on the bill: Dublon, Tiffy Vera and Will Buck. House and Jazz. Preview the line-up and save it on soundcheck.
+Dublon at Floyd on Sat 3 Oct, Miami. 3 artists on the bill: Dublon, Tiffy Vera and Will Buck. House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

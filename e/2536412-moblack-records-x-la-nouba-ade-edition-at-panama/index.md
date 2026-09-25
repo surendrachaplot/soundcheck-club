@@ -1,6 +1,6 @@
 # MoBlack Records x La Nouba - ADE Edition at Panama
 
-MoBlack Records x La Nouba - ADE Edition at Panama on Thu 22 Oct, Amsterdam. 6 acts on the bill: Damian Lazarus, Manoo, meera (NO) and MoBlack and 2 more. House and Afro House. Preview the line-up and save it on soundcheck.
+MoBlack Records x La Nouba - ADE Edition at Panama on Thu 22 Oct, Amsterdam. 6 artists on the bill: Damian Lazarus, Manoo, meera (NO) and MoBlack and 2 more. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

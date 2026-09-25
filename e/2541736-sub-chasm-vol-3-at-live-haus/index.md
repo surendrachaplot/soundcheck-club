@@ -1,6 +1,6 @@
 # Sub Chasm vol.3 at Live Haus
 
-Sub Chasm vol.3 at Live Haus on Sat 17 Oct, Tokyo. 4 acts on the bill: Acrocanthosaurus, Allen Mock, HALU(Tribal Connection) and Lowki. Dubstep and Jungle. Preview the line-up and save it on soundcheck.
+Sub Chasm vol.3 at Live Haus on Sat 17 Oct, Tokyo. 4 artists on the bill: Acrocanthosaurus, Allen Mock, HALU(Tribal Connection) and Lowki. Dubstep and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

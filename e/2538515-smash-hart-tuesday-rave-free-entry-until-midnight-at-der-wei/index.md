@@ -1,6 +1,6 @@
 # Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] at Der Weiße Hase
 
-Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] at Der Weiße Hase on Tue 3 Nov, Berlin. 1 act on the bill: Daniel Boon. Trance and Techno. Preview the line-up and save it on soundcheck.
+Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] at Der Weiße Hase on Tue 3 Nov, Berlin. 1 artist on the bill: Daniel Boon. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

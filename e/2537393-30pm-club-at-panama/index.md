@@ -1,6 +1,6 @@
 # 30pm.club at Panama
 
-30pm.club at Panama on Fri 13 Nov, Amsterdam. 1 act on the bill: David Morales. House. Preview the line-up and save it on soundcheck.
+30pm.club at Panama on Fri 13 Nov, Amsterdam. 1 artist on the bill: David Morales. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

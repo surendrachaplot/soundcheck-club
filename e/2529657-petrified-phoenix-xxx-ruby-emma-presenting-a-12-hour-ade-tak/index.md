@@ -1,6 +1,6 @@
 # Petrified Phoenix xxx Ruby Emma presenting a 12 hour ADE takeover at Ruby Emma Hotel & Bar
 
-Petrified Phoenix xxx Ruby Emma presenting a 12 hour ADE takeover at Ruby Emma Hotel & Bar on Fri 23 Oct, Amsterdam. 7 acts on the bill: Avocado, DONT BLINK, Fab Massimo and Nic Lorenz and 3 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Petrified Phoenix xxx Ruby Emma presenting a 12 hour ADE takeover at Ruby Emma Hotel & Bar on Fri 23 Oct, Amsterdam. 7 artists on the bill: Avocado, DONT BLINK, Fab Massimo and Nic Lorenz and 3 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

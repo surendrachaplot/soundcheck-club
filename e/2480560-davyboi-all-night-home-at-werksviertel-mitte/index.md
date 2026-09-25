@@ -1,6 +1,6 @@
 # davyboi All Night Home at Werksviertel Mitte
 
-davyboi All Night Home at Werksviertel Mitte on Sat 31 Oct, Munich. 3 acts on the bill: davyboi, Mika Heggemann and Paraçek. Trance and Techno. Preview the line-up and save it on soundcheck.
+davyboi All Night Home at Werksviertel Mitte on Sat 31 Oct, Munich. 3 artists on the bill: davyboi, Mika Heggemann and Paraçek. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Capogiro OPENING PARTY at Astoria
 
-Capogiro OPENING PARTY at Astoria on Sat 10 Oct, Turin. 1 act on the bill: AMRED. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+Capogiro OPENING PARTY at Astoria on Sat 10 Oct, Turin. 1 artist on the bill: AMRED. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

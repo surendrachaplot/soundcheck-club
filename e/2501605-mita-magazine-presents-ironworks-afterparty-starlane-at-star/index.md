@@ -1,6 +1,6 @@
 # MITA MAGAZINE PRESENTS IRONWORKS AFTERPARTY @STARLANE at Starlane Pizza Bar
 
-MITA MAGAZINE PRESENTS IRONWORKS AFTERPARTY @STARLANE at Starlane Pizza Bar on Sat 24 Oct, London. 3 acts on the bill: Alfie, Giovanni Savoca and Leon. Preview the line-up and save it on soundcheck.
+MITA MAGAZINE PRESENTS IRONWORKS AFTERPARTY @STARLANE at Starlane Pizza Bar on Sat 24 Oct, London. 3 artists on the bill: Alfie, Giovanni Savoca and Leon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hardphoria: LESTRANGE [AUS] HALLOWEEN WAREHOUSE RAVE at TBA - Secret Location
 
-Hardphoria: LESTRANGE [AUS] HALLOWEEN WAREHOUSE RAVE at TBA - Secret Location on Sat 31 Oct, Auckland. 2 acts on the bill: EMMYJ and LeStrange. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Hardphoria: LESTRANGE [AUS] HALLOWEEN WAREHOUSE RAVE at TBA - Secret Location on Sat 31 Oct, Auckland. 2 artists on the bill: EMMYJ and LeStrange. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

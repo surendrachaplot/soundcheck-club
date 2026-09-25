@@ -2,7 +2,7 @@
 
 Roof (2) is a Bass and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sun, 25 Oct 2026.
 
-Roof (2) is a bass and pop artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Frankfurt, Hamburg and Leipzig. Often billed alongside yung_womb, Unfug Abla and DJ Babyblade. Next up: Café Schöne Aussichten (CSA), Hamburg on Sun 25 Oct.
+Roof is a bass and pop artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Frankfurt, Hamburg and Leipzig. Often billed alongside yung_womb, Unfug Abla and DJ Babyblade. Next up: Café Schöne Aussichten (CSA), Hamburg on Sun 25 Oct.
 
 ## Upcoming shows
 

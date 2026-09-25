@@ -1,6 +1,6 @@
 # TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air) at Seaseaclub Barcelona
 
-TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air) at Seaseaclub Barcelona on Sat 3 Oct, Barcelona. 4 acts on the bill: Agatha Pher, Marino Canal, Patrice Bäumel and Stavroz. Progressive House. Preview the line-up and save it on soundcheck.
+TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air) at Seaseaclub Barcelona on Sat 3 Oct, Barcelona. 4 artists on the bill: Agatha Pher, Marino Canal, Patrice Bäumel and Stavroz. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

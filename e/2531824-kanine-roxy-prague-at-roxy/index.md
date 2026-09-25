@@ -1,6 +1,6 @@
 # Kanine ∞ ROXY Prague at Roxy
 
-Kanine ∞ ROXY Prague at Roxy on Sat 28 Nov, Prague. 1 act on the bill: Kanine. Drum & Bass. Preview the line-up and save it on soundcheck.
+Kanine ∞ ROXY Prague at Roxy on Sat 28 Nov, Prague. 1 artist on the bill: Kanine. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

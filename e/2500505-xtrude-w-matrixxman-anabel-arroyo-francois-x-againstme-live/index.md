@@ -1,6 +1,6 @@
 # XTRUDE w/ Matrixxman, Anabel Arroyo, Francois X, AgainstMe live, Jensen Interceptor at RSO.BERLIN
 
-XTRUDE w/ Matrixxman, Anabel Arroyo, Francois X, AgainstMe live, Jensen Interceptor at RSO.BERLIN on Sat 26 Sept, Berlin. 12 acts on the bill: AgainstMe, Alírio, Anabel Arroyo and Árni and 8 more. Preview the line-up and save it on soundcheck.
+XTRUDE w/ Matrixxman, Anabel Arroyo, Francois X, AgainstMe live, Jensen Interceptor at RSO.BERLIN on Sat 26 Sept, Berlin. 12 artists on the bill: AgainstMe, Alírio, Anabel Arroyo and Árni and 8 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

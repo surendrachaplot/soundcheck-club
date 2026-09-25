@@ -1,6 +1,6 @@
 # La Global Freak at Club Waziema
 
-La Global Freak at Club Waziema on Sat 26 Sept, Sanfrancisco. House and Guaracha. Preview the line-up and save it on soundcheck.
+La Global Freak at Club Waziema on Sat 26 Sept, San Francisco/Oakland. House and Guaracha. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

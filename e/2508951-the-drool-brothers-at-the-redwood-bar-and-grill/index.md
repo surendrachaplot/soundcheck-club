@@ -1,6 +1,6 @@
 # The Drool Brothers at The Redwood Bar And Grill
 
-The Drool Brothers at The Redwood Bar And Grill on Sat 3 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+The Drool Brothers at The Redwood Bar And Grill on Sat 3 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

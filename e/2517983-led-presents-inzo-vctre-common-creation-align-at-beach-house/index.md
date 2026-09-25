@@ -1,6 +1,6 @@
 # LED presents INZO + VCTRE + Common Creation + Align at Beach House San Diego
 
-LED presents INZO + VCTRE + Common Creation + Align at Beach House San Diego on Sat 31 Oct, Sandiego. Preview the line-up and save it on soundcheck.
+LED presents INZO + VCTRE + Common Creation + Align at Beach House San Diego on Sat 31 Oct, San Diego. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

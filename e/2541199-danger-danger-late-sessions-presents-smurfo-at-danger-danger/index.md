@@ -1,6 +1,6 @@
 # Danger Danger Late Sessions presents: Smurfo at Danger Danger
 
-Danger Danger Late Sessions presents: Smurfo on Fri 25 Sept, Newyorkcity. 1 act on the bill: SMURFOUDIRTY. House. Preview the line-up and save it on soundcheck.
+Danger Danger Late Sessions presents: Smurfo on Fri 25 Sept, New York City. 1 artist on the bill: SMURFOUDIRTY. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

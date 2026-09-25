@@ -1,6 +1,6 @@
 # corto.alto at AB Club (Ancienne Belgique)
 
-corto.alto at AB Club (Ancienne Belgique) on Mon 12 Oct, Brussels. 1 act on the bill: corto.alto. Preview the line-up and save it on soundcheck.
+corto.alto at AB Club (Ancienne Belgique) on Mon 12 Oct, Brussels. 1 artist on the bill: corto.alto. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 88MUFFIN at 88block
 
-88MUFFIN at 88block on Fri 25 Sept, Tokyo. 1 act on the bill: Diceman. Bass and Dub. Preview the line-up and save it on soundcheck.
+88MUFFIN at 88block on Fri 25 Sept, Tokyo. 1 artist on the bill: Diceman. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Thursday Stoked&stoned at Stoked&stoned
 
-Thursday Stoked&stoned on Thu 24 Sept, Seoul. 3 acts on the bill: Jenna, Mignon (2) and morelo. Techno and House. Preview the line-up and save it on soundcheck.
+Thursday Stoked&stoned on Thu 24 Sept, Seoul. 3 artists on the bill: Jenna, Mignon and morelo. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

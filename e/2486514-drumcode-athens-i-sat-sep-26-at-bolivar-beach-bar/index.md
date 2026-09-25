@@ -1,6 +1,6 @@
 # Drumcode Athens  I Sat Sep 26 at Bolivar Beach Bar
 
-Drumcode Athens  I Sat Sep 26 at Bolivar Beach Bar on Sat 26 Sept, Athens. 4 acts on the bill: Adam Beyer, Brina Knauss, Ilario Alicante and Konstantin Sibold. Preview the line-up and save it on soundcheck.
+Drumcode Athens  I Sat Sep 26 at Bolivar Beach Bar on Sat 26 Sept, Athens. 4 artists on the bill: Adam Beyer, Brina Knauss, Ilario Alicante and Konstantin Sibold. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

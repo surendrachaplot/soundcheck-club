@@ -1,6 +1,6 @@
 # Yours & Owls at TBA - Wollongong, NSW
 
-Yours & Owls at TBA - Wollongong, NSW on Sat 3 Oct, Sydney. 16 acts on the bill: 1tbsp, Antenna (2), C.FRIM and Cold (IS) and 12 more. Preview the line-up and save it on soundcheck.
+Yours & Owls at TBA - Wollongong, NSW on Sat 3 Oct, Sydney. 16 artists on the bill: 1tbsp, Antenna, C.FRIM and Cold (IS) and 12 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

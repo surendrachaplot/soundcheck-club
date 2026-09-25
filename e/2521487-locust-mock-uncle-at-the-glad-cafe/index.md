@@ -1,6 +1,6 @@
 # Locust + Mock Uncle at The Glad Cafe
 
-Locust + Mock Uncle at The Glad Cafe on Sat 26 Sept, Glasgow. 1 act on the bill: Mark Van Hoen. Downtempo and IDM. Preview the line-up and save it on soundcheck.
+Locust + Mock Uncle at The Glad Cafe on Sat 26 Sept, Glasgow. 1 artist on the bill: Mark Van Hoen. Downtempo and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

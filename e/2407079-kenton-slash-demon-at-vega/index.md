@@ -1,6 +1,6 @@
 # Kenton Slash Demon at VEGA
 
-Kenton Slash Demon at VEGA on Sat 31 Oct, Copenhagen. 1 act on the bill: Kenton Slash Demon. Preview the line-up and save it on soundcheck.
+Kenton Slash Demon at VEGA on Sat 31 Oct, Copenhagen. 1 artist on the bill: Kenton Slash Demon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

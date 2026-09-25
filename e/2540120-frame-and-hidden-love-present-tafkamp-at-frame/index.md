@@ -1,6 +1,6 @@
 # Frame and Hidden Love present: TAFKAMP at Frame
 
-Frame and Hidden Love present: TAFKAMP on Sun 25 Oct, Dublin. 1 act on the bill: TAFKAMP. Preview the line-up and save it on soundcheck.
+Frame and Hidden Love present: TAFKAMP on Sun 25 Oct, Dublin. 1 artist on the bill: TAFKAMP. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

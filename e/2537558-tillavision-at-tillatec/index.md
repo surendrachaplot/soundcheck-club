@@ -1,6 +1,6 @@
 # TILLAVISION at TILLATEC
 
-TILLAVISION at TILLATEC on Fri 16 Oct, Amsterdam. 4 acts on the bill: Jackie Ong, Jay Jay Revlon, LYLO (NL) and ZOBAYDA. Preview the line-up and save it on soundcheck.
+TILLAVISION at TILLATEC on Fri 16 Oct, Amsterdam. 4 artists on the bill: Jackie Ong, Jay Jay Revlon, LYLO (NL) and ZOBAYDA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

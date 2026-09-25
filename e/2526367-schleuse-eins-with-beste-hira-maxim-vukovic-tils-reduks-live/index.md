@@ -1,6 +1,6 @@
 # Schleuse Eins with Beste Hira, Maxim Vukovic & Tils, Reduks -live- at Gewölbe
 
-Schleuse Eins with Beste Hira, Maxim Vukovic & Tils, Reduks -live- at Gewölbe on Fri 25 Sept, Cologne. 3 acts on the bill: Beste Hira, Reduks and Tils. Preview the line-up and save it on soundcheck.
+Schleuse Eins with Beste Hira, Maxim Vukovic & Tils, Reduks -live- at Gewölbe on Fri 25 Sept, Cologne. 3 artists on the bill: Beste Hira, Reduks and Tils. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ACCUSED BY ACA at EGG London (LOFT) at Egg London
 
-ACCUSED BY ACA at EGG London (LOFT) at Egg London on Fri 13 Nov, London. 8 acts on the bill: ACA (YU), Drako, FINKY and FIRZA and 4 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+ACCUSED BY ACA at EGG London (LOFT) at Egg London on Fri 13 Nov, London. 8 artists on the bill: ACA (YU), Drako, FINKY and FIRZA and 4 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

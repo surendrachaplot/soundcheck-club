@@ -1,6 +1,6 @@
 # GO GIRLS at Prozak 2.0
 
-GO GIRLS at Prozak 2.0 on Sat 26 Sept, Krakow. 2 acts on the bill: Bliss Kiss and Kuriozum. Trance and Techno. Preview the line-up and save it on soundcheck.
+GO GIRLS at Prozak 2.0 on Sat 26 Sept, Krakow. 2 artists on the bill: Bliss Kiss and Kuriozum. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

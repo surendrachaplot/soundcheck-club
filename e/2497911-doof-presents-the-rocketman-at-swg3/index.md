@@ -1,6 +1,6 @@
 # doof Presents The Rocketman at SWG3
 
-doof Presents The Rocketman at SWG3 on Fri 9 Oct, Glasgow. 1 act on the bill: The Rocketman. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+doof Presents The Rocketman at SWG3 on Fri 9 Oct, Glasgow. 1 artist on the bill: The Rocketman. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

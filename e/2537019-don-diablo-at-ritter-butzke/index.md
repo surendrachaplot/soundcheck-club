@@ -1,6 +1,6 @@
 # Don Diablo at Ritter Butzke
 
-Don Diablo at Ritter Butzke on Sat 5 Dec, Berlin. 3 acts on the bill: Annie O, Don Diablo and LOVRA. Techno. Preview the line-up and save it on soundcheck.
+Don Diablo at Ritter Butzke on Sat 5 Dec, Berlin. 3 artists on the bill: Annie O, Don Diablo and LOVRA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

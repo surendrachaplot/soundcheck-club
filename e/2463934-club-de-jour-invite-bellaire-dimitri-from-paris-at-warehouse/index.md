@@ -1,6 +1,6 @@
 # Club de Jour invite Bellaire & Dimitri From Paris at Warehouse
 
-Club de Jour invite Bellaire & Dimitri From Paris at Warehouse on Sat 7 Nov, Nantes. 4 acts on the bill: Bellaire, Corentin Mab, Dan Bono and Dimitri From Paris. House and Electro. Preview the line-up and save it on soundcheck.
+Club de Jour invite Bellaire & Dimitri From Paris at Warehouse on Sat 7 Nov, Nantes. 4 artists on the bill: Bellaire, Corentin Mab, Dan Bono and Dimitri From Paris. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

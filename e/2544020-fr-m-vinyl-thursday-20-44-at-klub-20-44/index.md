@@ -1,6 +1,6 @@
 # FRØM VINYL THURSDAY - 20/44 at Klub 20/44
 
-FRØM VINYL THURSDAY - 20/44 at Klub 20/44 on Thu 24 Sept, Belgrade. 1 act on the bill: M E L I. House and Electro. Preview the line-up and save it on soundcheck.
+FRØM VINYL THURSDAY - 20/44 at Klub 20/44 on Thu 24 Sept, Belgrade. 1 artist on the bill: M E L I. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

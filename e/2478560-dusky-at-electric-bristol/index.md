@@ -1,6 +1,6 @@
 # Dusky at Electric Bristol
 
-Dusky at Electric Bristol on Fri 30 Oct, Bristol. 3 acts on the bill: Dusky, Peverelist and Willow. Techno and House. Preview the line-up and save it on soundcheck.
+Dusky at Electric Bristol on Fri 30 Oct, Bristol. 3 artists on the bill: Dusky, Peverelist and Willow. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

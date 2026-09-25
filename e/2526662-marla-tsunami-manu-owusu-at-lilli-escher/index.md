@@ -1,6 +1,6 @@
 # Marla Tsunami & manu Owusu at Lilli Escher
 
-Marla Tsunami & manu Owusu at Lilli Escher on Thu 24 Sept, Hamburg. 1 act on the bill: MANU OWUSU. Preview the line-up and save it on soundcheck.
+Marla Tsunami & manu Owusu at Lilli Escher on Thu 24 Sept, Hamburg. 1 artist on the bill: MANU OWUSU. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

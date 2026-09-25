@@ -1,6 +1,6 @@
 # MUSIC IS ANSWER — HOUSE MUSIC at or
 
-MUSIC IS ANSWER — HOUSE MUSIC at or on Sun 27 Sept, Tokyo. 3 acts on the bill: Gewnky, MASASHI and Yamariki. House. Preview the line-up and save it on soundcheck.
+MUSIC IS ANSWER — HOUSE MUSIC at or on Sun 27 Sept, Tokyo. 3 artists on the bill: Gewnky, MASASHI and Yamariki. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

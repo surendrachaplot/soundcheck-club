@@ -1,6 +1,6 @@
 # TOTAL ECLIPSE at Strandpaviljoen De Staat
 
-TOTAL ECLIPSE at Strandpaviljoen De Staat on Sat 26 Sept, Thehague. 3 acts on the bill: Conrad Soundsystem, Nuno dos Santos and Remy Unger. Tech House. Preview the line-up and save it on soundcheck.
+TOTAL ECLIPSE at Strandpaviljoen De Staat on Sat 26 Sept, The Hague. 3 artists on the bill: Conrad Soundsystem, Nuno dos Santos and Remy Unger. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

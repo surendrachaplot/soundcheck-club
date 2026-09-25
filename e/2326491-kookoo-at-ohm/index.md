@@ -1,6 +1,6 @@
 # KOOKOO at OHM
 
-KOOKOO at OHM on Fri 13 Nov, Berlin. 1 act on the bill: Mieko Suzuki. Experimental and Industrial. Preview the line-up and save it on soundcheck.
+KOOKOO at OHM on Fri 13 Nov, Berlin. 1 artist on the bill: Mieko Suzuki. Experimental and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

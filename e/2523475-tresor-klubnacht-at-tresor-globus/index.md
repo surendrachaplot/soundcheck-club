@@ -1,6 +1,6 @@
 # Tresor Klubnacht at Tresor / Globus
 
-Tresor Klubnacht at Tresor / Globus on Sat 24 Oct, Berlin. 7 acts on the bill: AgainstMe, Cheriii, Glenn Underground and Joe Delon and 3 more. Preview the line-up and save it on soundcheck.
+Tresor Klubnacht at Tresor / Globus on Sat 24 Oct, Berlin. 7 artists on the bill: AgainstMe, Cheriii, Glenn Underground and Joe Delon and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

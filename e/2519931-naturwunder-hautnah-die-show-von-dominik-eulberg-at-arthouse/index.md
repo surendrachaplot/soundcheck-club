@@ -1,6 +1,6 @@
 # Naturwunder hautnah: Die Show von Dominik Eulberg at Arthouse Le Paris
 
-Naturwunder hautnah: Die Show von Dominik Eulberg at Arthouse Le Paris on Wed 28 Oct, Zurich. 1 act on the bill: Dominik Eulberg. Deep House and Experimental. Preview the line-up and save it on soundcheck.
+Naturwunder hautnah: Die Show von Dominik Eulberg at Arthouse Le Paris on Wed 28 Oct, Zurich. 1 artist on the bill: Dominik Eulberg. Deep House and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 314 Scholes is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Other People Night: AEAEA" on Fri, 25 Sept 2026.
 
-314 Scholes is a music venue in Newyorkcity listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Clone, DJ LOSER, JAEL and Moodymann and 2 more. Browse upcoming dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
+314 Scholes is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Clone, DJ LOSER, JAEL and Moodymann and 2 more. Browse upcoming dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
 
 ## What's on
 

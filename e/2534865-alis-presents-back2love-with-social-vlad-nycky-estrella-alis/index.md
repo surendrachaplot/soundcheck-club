@@ -1,6 +1,6 @@
 # ALIS. presents: BACK2LOVE with SOCIAL VLAD, Nycky Estrella & ALIS at Marmorbar
 
-ALIS. presents: BACK2LOVE with SOCIAL VLAD, Nycky Estrella & ALIS at Marmorbar on Fri 2 Oct, Berlin. 3 acts on the bill: ALIS., Nycky Estrella and SOCIAL VLAD. Preview the line-up and save it on soundcheck.
+ALIS. presents: BACK2LOVE with SOCIAL VLAD, Nycky Estrella & ALIS at Marmorbar on Fri 2 Oct, Berlin. 3 artists on the bill: ALIS., Nycky Estrella and SOCIAL VLAD. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FSI with Tsuyoshi I Ajja I Drip Drop I Sat Oct 10 Bolivar at Bolivar Beach Bar
 
-FSI with Tsuyoshi I Ajja I Drip Drop I Sat Oct 10 Bolivar at Bolivar Beach Bar on Sat 10 Oct, Athens. 2 acts on the bill: Ajja and Tsuyoshi Suzuki. Preview the line-up and save it on soundcheck.
+FSI with Tsuyoshi I Ajja I Drip Drop I Sat Oct 10 Bolivar at Bolivar Beach Bar on Sat 10 Oct, Athens. 2 artists on the bill: Ajja and Tsuyoshi Suzuki. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

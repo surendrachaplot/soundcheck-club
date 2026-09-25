@@ -1,6 +1,6 @@
 # The 2000s Forever Parrty by THE Y2K Parrty - Saturdays at Mehanata NYC at Mehanata Bar
 
-The 2000s Forever Parrty by THE Y2K Parrty - Saturdays at Mehanata NYC at Mehanata Bar on Sat 26 Sept, Newyorkcity. Reggaeton. Preview the line-up and save it on soundcheck.
+The 2000s Forever Parrty by THE Y2K Parrty - Saturdays at Mehanata NYC at Mehanata Bar on Sat 26 Sept, New York City. Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

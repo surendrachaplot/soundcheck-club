@@ -1,6 +1,6 @@
 # Mariano Mellino - SKYLINE, GLASGOW at Radisson Red Sky Bar
 
-Mariano Mellino - SKYLINE, GLASGOW at Radisson Red Sky Bar on Sun 25 Oct, Glasgow. 1 act on the bill: Mariano Mellino. Preview the line-up and save it on soundcheck.
+Mariano Mellino - SKYLINE, GLASGOW at Radisson Red Sky Bar on Sun 25 Oct, Glasgow. 1 artist on the bill: Mariano Mellino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

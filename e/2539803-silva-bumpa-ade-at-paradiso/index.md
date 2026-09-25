@@ -1,6 +1,6 @@
 # Silva Bumpa - ADE at Paradiso
 
-Silva Bumpa - ADE at Paradiso on Fri 23 Oct, Amsterdam. 1 act on the bill: Silva Bumpa. House and Garage. Preview the line-up and save it on soundcheck.
+Silva Bumpa - ADE at Paradiso on Fri 23 Oct, Amsterdam. 1 artist on the bill: Silva Bumpa. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

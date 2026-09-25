@@ -1,6 +1,6 @@
 # Overmono at Terminal 5
 
-Overmono at Terminal 5 on Fri 9 Oct, Newyorkcity. 1 act on the bill: Overmono. Preview the line-up and save it on soundcheck.
+Overmono at Terminal 5 on Fri 9 Oct, New York City. 1 artist on the bill: Overmono. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # lazy.sunday mit maniac&me at Minimal Bar
 
-lazy.sunday mit maniac&me at Minimal Bar on Sun 25 Oct, Berlin. 1 act on the bill: maniac&me. Preview the line-up and save it on soundcheck.
+lazy.sunday mit maniac&me at Minimal Bar on Sun 25 Oct, Berlin. 1 artist on the bill: maniac&me. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

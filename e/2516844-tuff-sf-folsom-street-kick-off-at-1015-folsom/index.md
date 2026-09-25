@@ -1,6 +1,6 @@
 # TUFF SF: Folsom Street Kick Off at 1015 Folsom
 
-TUFF SF: Folsom Street Kick Off at 1015 Folsom on Thu 24 Sept, Sanfrancisco. Preview the line-up and save it on soundcheck.
+TUFF SF: Folsom Street Kick Off at 1015 Folsom on Thu 24 Sept, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Big Fat Rave: Hamdi + Osmosis Jones + SKALAH at FORGE
 
-Big Fat Rave: Hamdi + Osmosis Jones + SKALAH at FORGE on Fri 13 Nov, Sheffield. 3 acts on the bill: Hamdi, Osmosis Jones and SKALAH (UK). Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Big Fat Rave: Hamdi + Osmosis Jones + SKALAH at FORGE on Fri 13 Nov, Sheffield. 3 artists on the bill: Hamdi, Osmosis Jones and SKALAH (UK). Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

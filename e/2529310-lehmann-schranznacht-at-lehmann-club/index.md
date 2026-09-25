@@ -1,6 +1,6 @@
 # LEHMANN SCHRANZNACHT at Lehmann Club
 
-LEHMANN SCHRANZNACHT at Lehmann Club on Sat 26 Sept, Stuttgart. 2 acts on the bill: CALLUSH and GAAAS. Preview the line-up and save it on soundcheck.
+LEHMANN SCHRANZNACHT at Lehmann Club on Sat 26 Sept, Stuttgart. 2 artists on the bill: CALLUSH and GAAAS. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

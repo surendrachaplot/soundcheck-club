@@ -2,7 +2,7 @@
 
 Slash Need is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Danforth Music Hall, Toronto on Wed, 30 Sept 2026.
 
-Slash Need is a techno and industrial artist based in Canada, tracked on soundcheck, with 9 sets logged across Austin, Thehague and Toronto. Often billed alongside Rareasfck, 666.pastel and Alessandro Adriani. Next up: Danforth Music Hall, Toronto on Wed 30 Sept.
+Slash Need is a techno and industrial artist based in Canada, tracked on soundcheck, with 9 sets logged across Austin, The Hague and Toronto. Often billed alongside Rareasfck, 666.pastel and Alessandro Adriani. Next up: Danforth Music Hall, Toronto on Wed 30 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # ZEPTER at Sameheads
 
-ZEPTER at Sameheads on Thu 24 Sept, Berlin. 1 act on the bill: André Pahl. Preview the line-up and save it on soundcheck.
+ZEPTER at Sameheads on Thu 24 Sept, Berlin. 1 artist on the bill: André Pahl. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

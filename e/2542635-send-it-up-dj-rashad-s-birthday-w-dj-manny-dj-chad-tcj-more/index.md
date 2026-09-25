@@ -1,6 +1,6 @@
 # SEND IT UP: DJ RASHAD's Birthday w/ DJ Manny, DJ Chad, TCJ + more at Night Club 101
 
-SEND IT UP: DJ RASHAD's Birthday w/ DJ Manny, DJ Chad, TCJ + more at Night Club 101 on Fri 9 Oct, Newyorkcity. 4 acts on the bill: DJ Chad, DJ Manny, Mikasa and TCJ (2). Footwork and Ghetto Tech. Preview the line-up and save it on soundcheck.
+SEND IT UP: DJ RASHAD's Birthday w/ DJ Manny, DJ Chad, TCJ + more at Night Club 101 on Fri 9 Oct, New York City. 4 artists on the bill: DJ Chad, DJ Manny, Mikasa and TCJ. Footwork and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

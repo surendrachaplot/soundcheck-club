@@ -1,6 +1,6 @@
 # Sounds Like London: Funky Adjacent Takeover at Ninety One
 
-Sounds Like London: Funky Adjacent Takeover at Ninety One on Sat 28 Nov, London. 3 acts on the bill: Calm Stiege, Latecomer and Papaoul. UK Funky. Preview the line-up and save it on soundcheck.
+Sounds Like London: Funky Adjacent Takeover at Ninety One on Sat 28 Nov, London. 3 artists on the bill: Calm Stiege, Latecomer and Papaoul. UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

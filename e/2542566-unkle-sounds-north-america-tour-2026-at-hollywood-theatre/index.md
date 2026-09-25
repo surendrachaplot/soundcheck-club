@@ -1,6 +1,6 @@
 # UNKLE SOUNDS North America Tour 2026 at Hollywood Theatre
 
-UNKLE SOUNDS North America Tour 2026 at Hollywood Theatre on Mon 7 Dec, Vancouver. 1 act on the bill: UNKLE. Preview the line-up and save it on soundcheck.
+UNKLE SOUNDS North America Tour 2026 at Hollywood Theatre on Mon 7 Dec, Vancouver. 1 artist on the bill: UNKLE. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

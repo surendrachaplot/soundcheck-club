@@ -1,6 +1,6 @@
 # Sugar Free at Circus Osaka
 
-Sugar Free at Circus Osaka on Thu 1 Oct, Osaka. 2 acts on the bill: MiTSUYAS and Sugar Free. Techno and House. Preview the line-up and save it on soundcheck.
+Sugar Free at Circus Osaka on Thu 1 Oct, Osaka. 2 artists on the bill: MiTSUYAS and Sugar Free. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

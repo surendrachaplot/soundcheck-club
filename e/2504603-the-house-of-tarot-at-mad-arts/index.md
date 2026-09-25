@@ -1,6 +1,6 @@
 # The House of Tarot at MAD Arts
 
-The House of Tarot at MAD Arts on Fri 2 Oct, Detroit. 2 acts on the bill: ACE and Dominant Hand. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+The House of Tarot at MAD Arts on Fri 2 Oct, Detroit. 2 artists on the bill: ACE and Dominant Hand. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

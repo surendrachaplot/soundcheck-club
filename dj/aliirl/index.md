@@ -2,7 +2,7 @@
 
 ALI IRL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jade, New York City on Thu, 24 Sept 2026.
 
-ALI IRL is a techno and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Detroit and Newyorkcity. Often billed alongside Garrison XR, IRL (US) and DJ Shannon. Next up: Jade, Newyorkcity on Thu 24 Sept.
+ALI IRL is a techno and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Detroit and New York City. Often billed alongside Garrison XR, IRL (US) and DJ Shannon. Next up: Jade, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

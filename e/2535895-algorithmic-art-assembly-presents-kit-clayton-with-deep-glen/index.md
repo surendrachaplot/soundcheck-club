@@ -1,6 +1,6 @@
 # Algorithmic Art Assembly presents Kit Clayton with Deep Glens and Nathan Ho at Gray Area
 
-Algorithmic Art Assembly presents Kit Clayton with Deep Glens and Nathan Ho at Gray Area on Fri 2 Oct, Sanfrancisco. Ambient and IDM. Preview the line-up and save it on soundcheck.
+Algorithmic Art Assembly presents Kit Clayton with Deep Glens and Nathan Ho at Gray Area on Fri 2 Oct, San Francisco/Oakland. Ambient and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

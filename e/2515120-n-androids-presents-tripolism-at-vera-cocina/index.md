@@ -1,6 +1,6 @@
 # Nü Androids presents: Tripolism at Vera Cocina & بار
 
-Nü Androids presents: Tripolism at Vera Cocina & بار on Sat 3 Oct, Washingtondc. 1 act on the bill: Tripolism. House and Afro House. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Tripolism at Vera Cocina & بار on Sat 3 Oct, Washington DC. 1 artist on the bill: Tripolism. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

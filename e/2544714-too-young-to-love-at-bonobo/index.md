@@ -1,6 +1,6 @@
 # Too Young To Love at Bonobo
 
-Too Young To Love at Bonobo on Sat 26 Sept, Tokyo. 2 acts on the bill: Takeshi Sato and ueue (2). Preview the line-up and save it on soundcheck.
+Too Young To Love at Bonobo on Sat 26 Sept, Tokyo. 2 artists on the bill: Takeshi Sato and ueue. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

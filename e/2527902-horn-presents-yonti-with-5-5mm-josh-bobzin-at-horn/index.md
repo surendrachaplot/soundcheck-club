@@ -1,6 +1,6 @@
 # Horn presents Yonti with 5.5MM & Josh Bobzin at Horn
 
-Horn presents Yonti with 5.5MM & Josh Bobzin on Fri 25 Sept, Bangkok. 3 acts on the bill: 5.5MM, Josh Bobzin and Yonti. Techno. Preview the line-up and save it on soundcheck.
+Horn presents Yonti with 5.5MM & Josh Bobzin on Fri 25 Sept, Bangkok. 3 artists on the bill: 5.5MM, Josh Bobzin and Yonti. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

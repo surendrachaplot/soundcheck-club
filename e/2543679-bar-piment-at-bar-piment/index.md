@@ -1,6 +1,6 @@
 # BAR PIMENT at Bar Piment
 
-BAR PIMENT at Bar Piment on Sat 26 Sept, Seoul. 1 act on the bill: Eazy. Preview the line-up and save it on soundcheck.
+BAR PIMENT at Bar Piment on Sat 26 Sept, Seoul. 1 artist on the bill: Eazy. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

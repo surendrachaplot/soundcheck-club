@@ -1,6 +1,6 @@
 # Bare Maximum x Stereo: DJ Flight & SIMMS at Stereo
 
-Bare Maximum x Stereo: DJ Flight & SIMMS on Sat 26 Sept, Glasgow. 2 acts on the bill: DJ Flight and SIMMS. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Bare Maximum x Stereo: DJ Flight & SIMMS on Sat 26 Sept, Glasgow. 2 artists on the bill: DJ Flight and SIMMS. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

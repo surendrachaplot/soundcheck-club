@@ -2,7 +2,7 @@
 
 Sebs is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Beach House San Diego, San Diego on Sun, 22 Nov 2026.
 
-Sebs is a tech house and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Ibiza, Miami, Newyorkcity and Sandiego and 1 more. Often billed alongside Castillonaire, Josh Baker and rogue.wav. Next up: Beach House San Diego, Sandiego on Sun 22 Nov.
+Sebs is a tech house and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Ibiza, Miami, New York City and San Diego and 1 more. Often billed alongside Castillonaire, Josh Baker and rogue.wav. Next up: Beach House San Diego, San Diego on Sun 22 Nov.
 
 ## Upcoming shows
 

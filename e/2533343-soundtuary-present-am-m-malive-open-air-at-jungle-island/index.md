@@ -1,6 +1,6 @@
 # Soundtuary present AMÉMÉ & Malive - Open Air at Jungle Island
 
-Soundtuary present AMÉMÉ & Malive - Open Air at Jungle Island on Sat 3 Oct, Miami. 4 acts on the bill: AMÉMÉ, Ketzal, Malive and PALMA. House and Afro House. Preview the line-up and save it on soundcheck.
+Soundtuary present AMÉMÉ & Malive - Open Air at Jungle Island on Sat 3 Oct, Miami. 4 artists on the bill: AMÉMÉ, Ketzal, Malive and PALMA. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

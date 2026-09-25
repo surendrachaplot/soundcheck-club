@@ -1,6 +1,6 @@
 # Sarah Davachi presents The Will of Tongues at First Unitarian Congregational Society
 
-Sarah Davachi presents The Will of Tongues at First Unitarian Congregational Society on Fri 25 Sept, Newyorkcity. 1 act on the bill: Sarah Davachi. Minimal. Preview the line-up and save it on soundcheck.
+Sarah Davachi presents The Will of Tongues at First Unitarian Congregational Society on Fri 25 Sept, New York City. 1 artist on the bill: Sarah Davachi. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Roots [extended] with Gabbs at Lasociaciøn
 
-Roots [extended] with Gabbs at Lasociaciøn on Fri 6 Nov, Madrid. 6 acts on the bill: Alex (ES), Avo (ES), Gabbs and Roberto Amo and 2 more. Preview the line-up and save it on soundcheck.
+Roots [extended] with Gabbs at Lasociaciøn on Fri 6 Nov, Madrid. 6 artists on the bill: Alex (ES), Avo (ES), Gabbs and Roberto Amo and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

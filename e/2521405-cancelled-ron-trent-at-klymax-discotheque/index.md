@@ -1,6 +1,6 @@
 # [CANCELLED] Ron Trent at Klymax Discotheque
 
-[CANCELLED] Ron Trent at Klymax Discotheque on Fri 25 Sept, Bali. 1 act on the bill: Ron Trent. Preview the line-up and save it on soundcheck.
+[CANCELLED] Ron Trent at Klymax Discotheque on Fri 25 Sept, Bali. 1 artist on the bill: Ron Trent. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # OXI GROOVE AFFAIR (OPEN AIR + INDOOR) at OXI
 
-OXI GROOVE AFFAIR (OPEN AIR + INDOOR) on Sat 26 Sept, Berlin. 10 acts on the bill: Chris Ku, le0j, Marcus Holder and Meggy and 6 more. House and Disco. Preview the line-up and save it on soundcheck.
+OXI GROOVE AFFAIR (OPEN AIR + INDOOR) on Sat 26 Sept, Berlin. 10 artists on the bill: Chris Ku, le0j, Marcus Holder and Meggy and 6 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # A One Night Stand Gass Club Reunion Part 2 at Night Tales
 
-A One Night Stand Gass Club Reunion Part 2 at Night Tales on Sat 14 Nov, London. 7 acts on the bill: Billy Daniel Bunter, Greg Stainer, LOVE and MC CKP and 3 more. House and Garage. Preview the line-up and save it on soundcheck.
+A One Night Stand Gass Club Reunion Part 2 at Night Tales on Sat 14 Nov, London. 7 artists on the bill: Billy Daniel Bunter, Greg Stainer, LOVE and MC CKP and 3 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

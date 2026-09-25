@@ -1,6 +1,6 @@
 # vurtnight Woody92 at vurt.
 
-vurtnight Woody92 at vurt. on Sat 10 Oct, Seoul. 1 act on the bill: Woody92. Techno. Preview the line-up and save it on soundcheck.
+vurtnight Woody92 at vurt. on Sat 10 Oct, Seoul. 1 artist on the bill: Woody92. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

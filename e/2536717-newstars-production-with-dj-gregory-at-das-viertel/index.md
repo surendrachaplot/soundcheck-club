@@ -1,6 +1,6 @@
 # Newstars Production with DJ Gregory at Das Viertel
 
-Newstars Production with DJ Gregory at Das Viertel on Sat 10 Oct, Basel. 4 acts on the bill: Cristian Tamborrini, DJ Gregory, Fred Linger and Robbie Romero. House. Preview the line-up and save it on soundcheck.
+Newstars Production with DJ Gregory at Das Viertel on Sat 10 Oct, Basel. 4 artists on the bill: Cristian Tamborrini, DJ Gregory, Fred Linger and Robbie Romero. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

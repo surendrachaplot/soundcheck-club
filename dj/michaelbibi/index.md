@@ -1,8 +1,8 @@
 # Michael Bibi
 
-Michael Bibi is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ex Macello, Milan on Thu, 24 Sept 2026.
+Michael Bibi is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ex Macello, Milan on Thu, 24 Sept 2026.
 
-Michael Bibi is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 20 more. Often billed alongside Dennis Cruz, PAWSA and CHRIS STASSY. Next up: Ex Macello, Milan on Thu 24 Sept.
+Michael Bibi is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Bali, Barcelona and Buenos Aires and 21 more. Often billed alongside Dennis Cruz, PAWSA and CHRIS STASSY. Next up: Ex Macello, Milan on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Michael Bibi is a tech house and house artist based in United Kingdom, tracked o
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Ex Macello | Milan |
 | Thu, 8 Oct 2026 | Pacha Ibiza | Ibiza |
+| Fri, 9 Oct 2026 | The Great Pyramids OF Giza | Egypt |
 | Sat, 17 Oct 2026 | KOKO | London |
 | Sun, 25 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Sat, 21 Nov 2026 | TBA - Arena Norte, Nuñez | Buenos Aires |

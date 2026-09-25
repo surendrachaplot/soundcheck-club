@@ -1,6 +1,6 @@
 # Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN at Shelter Amsterdam
 
-Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN at Shelter Amsterdam on Sat 10 Oct, Amsterdam. 6 acts on the bill: Entasia, Freddi, Gate 9 and Moody Mehran and 2 more. House. Preview the line-up and save it on soundcheck.
+Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN at Shelter Amsterdam on Sat 10 Oct, Amsterdam. 6 artists on the bill: Entasia, Freddi, Gate 9 and Moody Mehran and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

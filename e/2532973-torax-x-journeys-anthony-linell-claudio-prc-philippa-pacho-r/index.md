@@ -1,6 +1,6 @@
 # Torax x Journeys: Anthony Linell, Claudio PRC, Philippa Pacho, Rrose, mad miran, oma totem at Razzmatazz
 
-Torax x Journeys: Anthony Linell, Claudio PRC, Philippa Pacho, Rrose, mad miran, oma totem at Razzmatazz on Sun 11 Oct, Barcelona. 8 acts on the bill: Anthony Linell, Claudio PRC, Jhort and mad miran and 4 more. Preview the line-up and save it on soundcheck.
+Torax x Journeys: Anthony Linell, Claudio PRC, Philippa Pacho, Rrose, mad miran, oma totem at Razzmatazz on Sun 11 Oct, Barcelona. 8 artists on the bill: Anthony Linell, Claudio PRC, Jhort and mad miran and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

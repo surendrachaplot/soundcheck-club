@@ -1,6 +1,6 @@
 # Room Tone: Evan G & Leja Hazer at The California Clipper
 
-Room Tone: Evan G & Leja Hazer at The California Clipper on Fri 25 Sept, Chicago. 1 act on the bill: Leja Hazer. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Room Tone: Evan G & Leja Hazer at The California Clipper on Fri 25 Sept, Chicago. 1 artist on the bill: Leja Hazer. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

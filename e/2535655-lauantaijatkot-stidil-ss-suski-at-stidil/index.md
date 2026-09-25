@@ -1,6 +1,6 @@
 # Lauantaijatkot Stidilässä – Suski at Stidilä
 
-Lauantaijatkot Stidilässä – Suski on Sun 27 Sept, Helsinki. 1 act on the bill: Suski. Preview the line-up and save it on soundcheck.
+Lauantaijatkot Stidilässä – Suski on Sun 27 Sept, Helsinki. 1 artist on the bill: Suski. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

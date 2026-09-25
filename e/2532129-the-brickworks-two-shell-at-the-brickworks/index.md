@@ -1,6 +1,6 @@
 # The Brickworks: Two Shell at The Brickworks
 
-The Brickworks: Two Shell on Sat 14 Nov, Nottingham. 1 act on the bill: Two Shell. House and Electro. Preview the line-up and save it on soundcheck.
+The Brickworks: Two Shell on Sat 14 Nov, Nottingham. 1 artist on the bill: Two Shell. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

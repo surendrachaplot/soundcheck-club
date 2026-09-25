@@ -1,6 +1,6 @@
 # Snug Night at Horn
 
-Snug Night at Horn on Sat 17 Oct, Bangkok. 3 acts on the bill: OMOLOKO, Ouissam and Partok. House and Electro. Preview the line-up and save it on soundcheck.
+Snug Night at Horn on Sat 17 Oct, Bangkok. 3 artists on the bill: OMOLOKO, Ouissam and Partok. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

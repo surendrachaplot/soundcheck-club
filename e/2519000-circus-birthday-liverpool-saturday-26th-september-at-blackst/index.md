@@ -1,6 +1,6 @@
 # Circus Birthday Liverpool Saturday 26th September at Blackstone Street Warehouse
 
-Circus Birthday Liverpool Saturday 26th September at Blackstone Street Warehouse on Sat 26 Sept, Liverpool. 9 acts on the bill: Cam Stockman, Dennis Cruz, L.P. Rhythm and Locky and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Circus Birthday Liverpool Saturday 26th September at Blackstone Street Warehouse on Sat 26 Sept, Liverpool. 9 artists on the bill: Cam Stockman, Dennis Cruz, L.P. Rhythm and Locky and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Others to the Baile at Crack Bellmer
 
-Others to the Baile at Crack Bellmer on Sat 24 Oct, Berlin. 6 acts on the bill: Kandylion, materia hache, Robin Flux and Sky Deep and 2 more. House and Footwork. Preview the line-up and save it on soundcheck.
+Others to the Baile at Crack Bellmer on Sat 24 Oct, Berlin. 6 artists on the bill: Kandylion, materia hache, Robin Flux and Sky Deep and 2 more. House and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

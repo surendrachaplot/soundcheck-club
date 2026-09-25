@@ -1,6 +1,6 @@
 # Touch Of Funk's Halloween Hustle at Brixton Jamm
 
-Touch Of Funk's Halloween Hustle at Brixton Jamm on Sat 31 Oct, London. 1 act on the bill: Touch Of Funk. House and Disco. Preview the line-up and save it on soundcheck.
+Touch Of Funk's Halloween Hustle at Brixton Jamm on Sat 31 Oct, London. 1 artist on the bill: Touch Of Funk. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

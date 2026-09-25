@@ -1,6 +1,6 @@
 # 23:59 - WEEKENDER 2026 at Plage Privée Parc de Miribel
 
-23:59 - WEEKENDER 2026 at Plage Privée Parc de Miribel on Sat 10 Oct, Lyon. 26 acts on the bill: 2HOT2PLAY, AREA ØNE, Axymt. and Blasha & Allatt and 22 more. Preview the line-up and save it on soundcheck.
+23:59 - WEEKENDER 2026 at Plage Privée Parc de Miribel on Sat 10 Oct, Lyon. 26 artists on the bill: 2HOT2PLAY, AREA ØNE, Axymt. and Blasha & Allatt and 22 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

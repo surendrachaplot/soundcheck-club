@@ -1,6 +1,6 @@
 # Afterlite: Open Air at Exodus Rooftop
 
-Afterlite: Open Air at Exodus Rooftop on Sat 26 Sept, Detroit. 2 acts on the bill: ARCS and DYNODA. House and Tech House. Preview the line-up and save it on soundcheck.
+Afterlite: Open Air at Exodus Rooftop on Sat 26 Sept, Detroit. 2 artists on the bill: ARCS and DYNODA. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Warehouse 9 ans avec Bob Sinclar at Warehouse
 
-Warehouse 9 ans avec Bob Sinclar on Fri 2 Oct, Nantes. 4 acts on the bill: Bob Sinclar, Corentin Mab, Dan Bono and Quentin Schneider. Tech House and Electro. Preview the line-up and save it on soundcheck.
+Warehouse 9 ans avec Bob Sinclar on Fri 2 Oct, Nantes. 4 artists on the bill: Bob Sinclar, Corentin Mab, Dan Bono and Quentin Schneider. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

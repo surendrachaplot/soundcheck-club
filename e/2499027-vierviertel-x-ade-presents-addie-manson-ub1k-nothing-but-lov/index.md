@@ -1,6 +1,6 @@
 # VIERVIERTEL x ADE presents: Addie Manson, ¥UB1K, Nothing But Love, QUIRIN at Bar Rouge
 
-VIERVIERTEL x ADE presents: Addie Manson, ¥UB1K, Nothing But Love, QUIRIN at Bar Rouge on Fri 23 Oct, Amsterdam. 4 acts on the bill: Addie Manson, Nothing But Love, Quirin (DE) and Yubik. Techno and House. Preview the line-up and save it on soundcheck.
+VIERVIERTEL x ADE presents: Addie Manson, ¥UB1K, Nothing But Love, QUIRIN at Bar Rouge on Fri 23 Oct, Amsterdam. 4 artists on the bill: Addie Manson, Nothing But Love, Quirin (DE) and Yubik. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Carpet (F.L.H.P) is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lullaby, New York City on Sat, 26 Sept 2026.
 
-Carpet (F.L.H.P) is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 15 sets logged across Mexicocity and Newyorkcity. Often billed alongside Concret, MARBLE RYE and Second Contact. Next up: Lullaby, Newyorkcity on Sat 26 Sept.
+Carpet (F.L.H.P) is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 15 sets logged across Mexico City and New York City. Often billed alongside Concret, MARBLE RYE and Second Contact. Next up: Lullaby, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

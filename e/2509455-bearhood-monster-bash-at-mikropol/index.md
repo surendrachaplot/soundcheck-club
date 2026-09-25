@@ -1,6 +1,6 @@
 # Bearhood Monster Bash at Mikropol
 
-Bearhood Monster Bash at Mikropol on Sat 31 Oct, Berlin. 2 acts on the bill: justpatrick and Kayoso. House and Pop. Preview the line-up and save it on soundcheck.
+Bearhood Monster Bash at Mikropol on Sat 31 Oct, Berlin. 2 artists on the bill: justpatrick and Kayoso. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

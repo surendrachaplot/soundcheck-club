@@ -9,7 +9,7 @@ Moon Club is a music venue in Bristol listed on soundcheck. 12 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | BCKSPIN 001: DJ Perception + Wodda | DJ Perception, Wodda |
-| Fri, 25 Sept 2026 | Hamish and Toby, Willow | Hamish & Toby, Willow |
+| Fri, 25 Sept 2026 | Hamish and Toby, Willow + support | Hamish & Toby, Monika Taneska, Willow |
 | Wed, 30 Sept 2026 | Caution Dancefloor 2: Moon Club |  |
 | Fri, 2 Oct 2026 | Rekonize X UVB-76 | ETHICS, Gremlinz, Joe Joiner, Loxy, Sideshow |
 | Sat, 3 Oct 2026 | Afterthought & commuters Pres. Margaret Dygas | Jake Moree, Josh Clark, Margaret Dygas, rasel h |

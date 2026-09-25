@@ -1,6 +1,6 @@
 # Battle of the Bands at SOBs
 
-Battle of the Bands at SOBs on Sun 27 Sept, Newyorkcity. 4 acts on the bill: Gwen, Maso, Samsara and TENFOLD. Pop and Post-Punk. Preview the line-up and save it on soundcheck.
+Battle of the Bands at SOBs on Sun 27 Sept, New York City. 4 artists on the bill: Gwen, Maso, Samsara and TENFOLD. Pop and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

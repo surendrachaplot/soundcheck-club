@@ -1,6 +1,6 @@
 # TRANSMISSION pres: gyrofield, Carrier, Jett at TRANSMISSION DC
 
-TRANSMISSION pres: gyrofield, Carrier, Jett at TRANSMISSION DC on Fri 25 Sept, Washingtondc. 3 acts on the bill: Carrier, gyrofield and Jett. Preview the line-up and save it on soundcheck.
+TRANSMISSION pres: gyrofield, Carrier, Jett at TRANSMISSION DC on Fri 25 Sept, Washington DC. 3 artists on the bill: Carrier, gyrofield and Jett. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

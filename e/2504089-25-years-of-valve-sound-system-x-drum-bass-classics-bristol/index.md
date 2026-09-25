@@ -1,6 +1,6 @@
 # 25 Years of Valve Sound System x Drum & Bass Classics - Bristol at The Prospect Building
 
-25 Years of Valve Sound System x Drum & Bass Classics - Bristol at The Prospect Building on Fri 4 Dec, Bristol. 22 acts on the bill: Aries, Carasel, Danny Byrd and Dazee (2) and 18 more. Preview the line-up and save it on soundcheck.
+25 Years of Valve Sound System x Drum & Bass Classics - Bristol at The Prospect Building on Fri 4 Dec, Bristol. 22 artists on the bill: Aries, Carasel, Danny Byrd and Dazee and 18 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FOUND: END OF SUMMER at FOUND
 
-FOUND: END OF SUMMER on Fri 25 Sept, Berlin. 7 acts on the bill: Jeffrey (DE), Krackk, Robin Tasi and Roman Flügel and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+FOUND: END OF SUMMER on Fri 25 Sept, Berlin. 7 artists on the bill: Jeffrey (DE), Krackk, Robin Tasi and Roman Flügel and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DJ Tennis at Frankhan Selectist
 
-DJ Tennis at Frankhan Selectist on Fri 6 Nov, Istanbul. 1 act on the bill: DJ Tennis. Preview the line-up and save it on soundcheck.
+DJ Tennis at Frankhan Selectist on Fri 6 Nov, Istanbul. 1 artist on the bill: DJ Tennis. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

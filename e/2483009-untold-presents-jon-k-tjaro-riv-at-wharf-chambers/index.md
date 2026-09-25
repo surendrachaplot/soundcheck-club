@@ -1,6 +1,6 @@
 # untold presents: Jon K // Tjaro + Riv at Wharf Chambers
 
-untold presents: Jon K // Tjaro + Riv at Wharf Chambers on Fri 9 Oct, Leeds. 2 acts on the bill: Jon K and Tjaro. Preview the line-up and save it on soundcheck.
+untold presents: Jon K // Tjaro + Riv at Wharf Chambers on Fri 9 Oct, Leeds. 2 artists on the bill: Jon K and Tjaro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

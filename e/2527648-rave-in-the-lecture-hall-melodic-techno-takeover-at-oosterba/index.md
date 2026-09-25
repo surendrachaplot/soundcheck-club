@@ -1,6 +1,6 @@
 # Rave in the Lecture Hall - Melodic & Techno Takeover at Oosterbar
 
-Rave in the Lecture Hall - Melodic & Techno Takeover at Oosterbar on Sat 24 Oct, Amsterdam. 7 acts on the bill: Jasmin Blust, Joris Turenhout, Joyhauser and Juliet Fox and 3 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Rave in the Lecture Hall - Melodic & Techno Takeover at Oosterbar on Sat 24 Oct, Amsterdam. 7 artists on the bill: Jasmin Blust, Joris Turenhout, Joyhauser and Juliet Fox and 3 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

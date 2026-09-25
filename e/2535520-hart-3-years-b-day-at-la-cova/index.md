@@ -1,6 +1,6 @@
 # HART - 3 Years B-Day at La Cova
 
-HART - 3 Years B-Day at La Cova on Fri 9 Oct, Hamburg. 5 acts on the bill: KISSA, Kollision, Natta and TZO (1) and 1 more. Techno. Preview the line-up and save it on soundcheck.
+HART - 3 Years B-Day at La Cova on Fri 9 Oct, Hamburg. 5 artists on the bill: KISSA, Kollision, Natta and TZO and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

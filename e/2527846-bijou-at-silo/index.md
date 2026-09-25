@@ -1,6 +1,6 @@
 # Bijou at SILO
 
-Bijou at SILO on Fri 4 Dec, Newyorkcity. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Bijou at SILO on Fri 4 Dec, New York City. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

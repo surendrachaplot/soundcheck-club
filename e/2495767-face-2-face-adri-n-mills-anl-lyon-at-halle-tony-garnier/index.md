@@ -1,6 +1,6 @@
 # FACE 2 FACE: ADRIÁN MILLS ANL LYON at Halle Tony Garnier
 
-FACE 2 FACE: ADRIÁN MILLS ANL LYON at Halle Tony Garnier on Fri 11 Dec, Lyon. 6 acts on the bill: Adrian Mills, ARPL, fumi (DE) and KUKO and 2 more. Techno. Preview the line-up and save it on soundcheck.
+FACE 2 FACE: ADRIÁN MILLS ANL LYON at Halle Tony Garnier on Fri 11 Dec, Lyon. 6 artists on the bill: Adrian Mills, ARPL, fumi (DE) and KUKO and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

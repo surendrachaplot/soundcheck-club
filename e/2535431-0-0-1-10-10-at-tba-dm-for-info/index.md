@@ -1,6 +1,6 @@
 # : 0: : 0: : 1: 10: : 10 : at TBA - DM for Info
 
-: 0: : 0: : 1: 10: : 10 : at TBA - DM for Info on Sat 10 Oct, Amsterdam. 3 acts on the bill: Cool Tiger, Forest Drive West and Zohar. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+: 0: : 0: : 1: 10: : 10 : at TBA - DM for Info on Sat 10 Oct, Amsterdam. 3 artists on the bill: Cool Tiger, Forest Drive West and Zohar. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Facundo Mohrr - Corona Sunsets, Cafayate | ALLMusicParties at TBA - Finca El Recreo, Cafayate, Salta
 
-Facundo Mohrr - Corona Sunsets, Cafayate | ALLMusicParties at TBA - Finca El Recreo, Cafayate, Salta on Sat 10 Oct, Buenosaires. 2 acts on the bill: Facundo Mohrr and Rodriguez Jr.. Progressive House and House. Preview the line-up and save it on soundcheck.
+Facundo Mohrr - Corona Sunsets, Cafayate | ALLMusicParties at TBA - Finca El Recreo, Cafayate, Salta on Sat 10 Oct, Buenos Aires. 2 artists on the bill: Facundo Mohrr and Rodriguez Jr.. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

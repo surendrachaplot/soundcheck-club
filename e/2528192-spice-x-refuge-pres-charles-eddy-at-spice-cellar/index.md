@@ -1,6 +1,6 @@
 # Spice x Refuge pres. Charles Eddy at Spice Cellar
 
-Spice x Refuge pres. Charles Eddy at Spice Cellar on Sat 26 Sept, Sydney. 3 acts on the bill: CHARLES-EDDY, Murat Kilic and Said Dami. House and Deep House. Preview the line-up and save it on soundcheck.
+Spice x Refuge pres. Charles Eddy at Spice Cellar on Sat 26 Sept, Sydney. 3 artists on the bill: CHARLES-EDDY, Murat Kilic and Said Dami. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

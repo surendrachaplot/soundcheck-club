@@ -1,6 +1,6 @@
 # Rinzen at Spybar
 
-Rinzen at Spybar on Fri 9 Oct, Chicago. 1 act on the bill: Rinzen. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Rinzen at Spybar on Fri 9 Oct, Chicago. 1 artist on the bill: Rinzen. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

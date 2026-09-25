@@ -1,6 +1,6 @@
 # 20_14 resort: Cities Aviv (US) + DJ: Soli City at Loppen Christiania
 
-20_14 resort: Cities Aviv (US) + DJ: Soli City at Loppen Christiania on Fri 25 Sept, Copenhagen. 2 acts on the bill: Cities Aviv and Soli City. Preview the line-up and save it on soundcheck.
+20_14 resort: Cities Aviv (US) + DJ: Soli City at Loppen Christiania on Fri 25 Sept, Copenhagen. 2 artists on the bill: Cities Aviv and Soli City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

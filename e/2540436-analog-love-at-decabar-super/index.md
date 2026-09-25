@@ -1,6 +1,6 @@
 # analog love at Decabar Super
 
-analog love at Decabar Super on Fri 25 Sept, Tokyo. 4 acts on the bill: ALLY, Doom Tempo, puffclouds and TECSTONE. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+analog love at Decabar Super on Fri 25 Sept, Tokyo. 4 artists on the bill: ALLY, Doom Tempo, puffclouds and TECSTONE. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

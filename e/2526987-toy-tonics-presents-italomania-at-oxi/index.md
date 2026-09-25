@@ -1,6 +1,6 @@
 # Toy Tonics presents ITALOMANIA at OXI
 
-Toy Tonics presents ITALOMANIA at OXI on Fri 16 Oct, Berlin. 6 acts on the bill: Boogie Rookie, Delfonic, Marco Ohboy and Moretz and 2 more. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+Toy Tonics presents ITALOMANIA at OXI on Fri 16 Oct, Berlin. 6 artists on the bill: Boogie Rookie, Delfonic, Marco Ohboy and Moretz and 2 more. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

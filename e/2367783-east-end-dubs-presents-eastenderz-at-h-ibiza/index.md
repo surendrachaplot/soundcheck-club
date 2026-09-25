@@ -1,6 +1,6 @@
 # East End Dubs presents Eastenderz at Hï Ibiza
 
-East End Dubs presents Eastenderz at Hï Ibiza on Tue 29 Sept, Ibiza. 8 acts on the bill: Ariel Rodz, East End Dubs, Fatzo and Gallya and 4 more. House and Tech House. Preview the line-up and save it on soundcheck.
+East End Dubs presents Eastenderz at Hï Ibiza on Tue 29 Sept, Ibiza. 8 artists on the bill: Ariel Rodz, East End Dubs, Fatzo and Gallya and 4 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LIVE: Levin goes Lightly x Institut für Schattenarbeit x NEUER DEUTSCHER ACID at Funkhaus
 
-LIVE: Levin goes Lightly x Institut für Schattenarbeit x NEUER DEUTSCHER ACID at Funkhaus on Fri 25 Sept, Vienna. 1 act on the bill: NEUER DEUTSCHER ACID. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+LIVE: Levin goes Lightly x Institut für Schattenarbeit x NEUER DEUTSCHER ACID at Funkhaus on Fri 25 Sept, Vienna. 1 artist on the bill: NEUER DEUTSCHER ACID. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

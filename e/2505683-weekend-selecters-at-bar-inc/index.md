@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Fri 25 Sept, Osaka. 1 act on the bill: Doc Martin. House. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Fri 25 Sept, Osaka. 1 artist on the bill: Doc Martin. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # [GLOW OFF:SITE] - CID with Pedroz, Bascelli at Dock5
 
-[GLOW OFF:SITE] - CID with Pedroz, Bascelli at Dock5 on Fri 6 Nov, Washingtondc. House and Tech House. Preview the line-up and save it on soundcheck.
+[GLOW OFF:SITE] - CID with Pedroz, Bascelli at Dock5 on Fri 6 Nov, Washington DC. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

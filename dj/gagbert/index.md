@@ -2,7 +2,7 @@
 
 Gagbert is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mood Ring, New York City on Thu, 24 Sept 2026.
 
-Gagbert is a techno and pop artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside Robyn DaBank, Malcolm XL and ASTER (DJ). Next up: Mood Ring, Newyorkcity on Thu 24 Sept.
+Gagbert is a techno and pop artist based in United States of America, tracked on soundcheck, with 15 sets logged across New York City. Often billed alongside Robyn DaBank, Malcolm XL and ASTER (DJ). Next up: Mood Ring, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

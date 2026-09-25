@@ -1,6 +1,6 @@
 # Plain Sailing x Hardware with Barker, Kessler, brawni + Chaz Moloney at Mandela Hall
 
-Plain Sailing x Hardware with Barker, Kessler, brawni + Chaz Moloney at Mandela Hall on Sat 10 Oct, Belfast. 4 acts on the bill: Barker, brawni, Chaz Moloney and Kessler. Techno and Bass. Preview the line-up and save it on soundcheck.
+Plain Sailing x Hardware with Barker, Kessler, brawni + Chaz Moloney at Mandela Hall on Sat 10 Oct, Belfast. 4 artists on the bill: Barker, brawni, Chaz Moloney and Kessler. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

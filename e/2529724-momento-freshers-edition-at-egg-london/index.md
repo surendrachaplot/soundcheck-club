@@ -1,6 +1,6 @@
 # Momento FRESHERS EDITION at Egg London
 
-Momento FRESHERS EDITION at Egg London on Wed 30 Sept, London. 2 acts on the bill: D8V! and HAZ (GB). House and Afro House. Preview the line-up and save it on soundcheck.
+Momento FRESHERS EDITION at Egg London on Wed 30 Sept, London. 2 artists on the bill: D8V! and HAZ (GB). House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # X CLUB at 1015 Folsom
 
-X CLUB at 1015 Folsom on Thu 22 Oct, Sanfrancisco. 1 act on the bill: X CLUB.. Preview the line-up and save it on soundcheck.
+X CLUB at 1015 Folsom on Thu 22 Oct, San Francisco/Oakland. 1 artist on the bill: X CLUB.. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Modular Maassilo 2026 at Maassilo
 
-Modular Maassilo 2026 on Sat 14 Nov, Rotterdam. 14 acts on the bill: Dj Babatr, Gyatso, Interplanetary Criminal and LAMMER and 10 more. Trance and House. Preview the line-up and save it on soundcheck.
+Modular Maassilo 2026 on Sat 14 Nov, Rotterdam. 14 artists on the bill: Dj Babatr, Gyatso, Interplanetary Criminal and LAMMER and 10 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

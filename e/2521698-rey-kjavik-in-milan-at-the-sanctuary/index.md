@@ -1,6 +1,6 @@
 # Rey&Kjavik in Milan at The Sanctuary
 
-Rey&Kjavik in Milan at The Sanctuary on Fri 23 Oct, Milan. 1 act on the bill: Rey&Kjavik. Electronica. Preview the line-up and save it on soundcheck.
+Rey&Kjavik in Milan at The Sanctuary on Fri 23 Oct, Milan. 1 artist on the bill: Rey&Kjavik. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

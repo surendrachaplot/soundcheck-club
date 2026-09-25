@@ -1,6 +1,6 @@
 # Unai Trotti + Adi (Vinyl Set) at Final
 
-Unai Trotti + Adi (Vinyl Set) at Final on Sat 17 Oct, Taipei. 2 acts on the bill: Adi (CO) and Unai Trotti. Preview the line-up and save it on soundcheck.
+Unai Trotti + Adi (Vinyl Set) at Final on Sat 17 Oct, Taipei. 2 artists on the bill: Adi (CO) and Unai Trotti. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

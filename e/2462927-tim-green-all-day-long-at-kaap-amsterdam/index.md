@@ -1,6 +1,6 @@
 # Tim Green all day long at Kaap Amsterdam
 
-Tim Green all day long at Kaap Amsterdam on Sat 10 Oct, Amsterdam. 1 act on the bill: Tim Green. Techno and House. Preview the line-up and save it on soundcheck.
+Tim Green all day long at Kaap Amsterdam on Sat 10 Oct, Amsterdam. 1 artist on the bill: Tim Green. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

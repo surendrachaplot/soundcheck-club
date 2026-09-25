@@ -1,6 +1,6 @@
 # B-Side Los Angeles presents: Mirror Mode - Machinedrum Face to Face Rohaan at Don Quixote
 
-B-Side Los Angeles presents: Mirror Mode - Machinedrum Face to Face Rohaan at Don Quixote on Sat 21 Nov, Losangeles. 2 acts on the bill: Machinedrum and Rohaan. Dubstep and Club. Preview the line-up and save it on soundcheck.
+B-Side Los Angeles presents: Mirror Mode - Machinedrum Face to Face Rohaan at Don Quixote on Sat 21 Nov, Los Angeles. 2 artists on the bill: Machinedrum and Rohaan. Dubstep and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

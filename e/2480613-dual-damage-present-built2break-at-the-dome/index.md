@@ -1,6 +1,6 @@
 # Dual Damage Present: Built2Break at The Dome
 
-Dual Damage Present: Built2Break at The Dome on Fri 16 Oct, Liverpool. 1 act on the bill: Dual Damage. Hardcore and Hard Drum. Preview the line-up and save it on soundcheck.
+Dual Damage Present: Built2Break at The Dome on Fri 16 Oct, Liverpool. 1 artist on the bill: Dual Damage. Hardcore and Hard Drum. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

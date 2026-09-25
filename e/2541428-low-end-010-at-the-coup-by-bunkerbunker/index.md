@@ -1,6 +1,6 @@
 # Low End 010 at The Coup by BUNKERBUNKER!!
 
-Low End 010 at The Coup by BUNKERBUNKER!! on Sat 26 Sept, Singapore. 2 acts on the bill: INFRA-24 and Krstn (2). Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Low End 010 at The Coup by BUNKERBUNKER!! on Sat 26 Sept, Singapore. 2 artists on the bill: INFRA-24 and Krstn. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

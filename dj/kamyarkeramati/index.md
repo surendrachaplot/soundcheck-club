@@ -2,7 +2,7 @@
 
 Kamyar Keramati is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hoppetosse, Berlin on Fri, 2 Oct 2026.
 
-Kamyar Keramati is a house and techno artist based in Iran, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Copenhagen and Malaga and 2 more. Often billed alongside Patamamba, Chicaiza and Dea (6). Next up: Hoppetosse, Berlin on Fri 2 Oct.
+Kamyar Keramati is a house and techno artist based in Iran, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Copenhagen and Malaga and 2 more. Often billed alongside Patamamba, Chicaiza and Dea. Next up: Hoppetosse, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Soulmates at radial
 
-Soulmates at radial on Sat 17 Oct, London. 2 acts on the bill: Dennis Christensen and Rap Saunders. House and Deep House. Preview the line-up and save it on soundcheck.
+Soulmates at radial on Sat 17 Oct, London. 2 artists on the bill: Dennis Christensen and Rap Saunders. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SALT - SOUND 909 avec Jeff Mills at Saline Royale D'arc-et-Senans (25 Doubs)
 
-SALT - SOUND 909 avec Jeff Mills at Saline Royale D'arc-et-Senans (25 Doubs) on Sun 11 Oct, Lyon. 1 act on the bill: Jeff Mills. Techno. Preview the line-up and save it on soundcheck.
+SALT - SOUND 909 avec Jeff Mills at Saline Royale D'arc-et-Senans (25 Doubs) on Sun 11 Oct, Lyon. 1 artist on the bill: Jeff Mills. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

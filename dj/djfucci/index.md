@@ -1,8 +1,8 @@
 # Dj Fucci
 
-Dj Fucci is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
+Dj Fucci is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
 
-Dj Fucci is a techno and house artist based in Mexico, tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Berlin and Hongkong and 12 more. Often billed alongside sadgal, Enya Botello and Octoptic. Next up: Colour Factory, London on Sat 26 Sept.
+Dj Fucci is a techno and house artist based in Mexico, tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Berlin and Hong Kong and 12 more. Often billed alongside sadgal, Enya Botello and Octoptic. Next up: Colour Factory, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Dj Fucci is a techno and house artist based in Mexico, tracked on soundcheck, wi
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Colour Factory | London |
 | Thu, 1 Oct 2026 | Ormside Projects | London |
-| Thu, 8 Oct 2026 | OHM | Berlin |
 | Fri, 9 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # AGAPĒ PRESENTS: Somewhen - Extended Set [4 Hours] at Brooklyn Roots Collective
 
-AGAPĒ PRESENTS: Somewhen - Extended Set [4 Hours] at Brooklyn Roots Collective on Sat 17 Oct, Newyorkcity. 1 act on the bill: Somewhen. Trance and Techno. Preview the line-up and save it on soundcheck.
+AGAPĒ PRESENTS: Somewhen - Extended Set [4 Hours] at Brooklyn Roots Collective on Sat 17 Oct, New York City. 1 artist on the bill: Somewhen. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

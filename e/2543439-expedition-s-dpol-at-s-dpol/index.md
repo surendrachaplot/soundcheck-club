@@ -1,6 +1,6 @@
 # Expedition Südpol at Südpol
 
-Expedition Südpol on Fri 2 Oct, Hamburg. 19 acts on the bill: Andreas Henneberg, androosh, Barbara Alvarez and Dena G and 15 more. Preview the line-up and save it on soundcheck.
+Expedition Südpol on Fri 2 Oct, Hamburg. 19 artists on the bill: Andreas Henneberg, androosh, Barbara Alvarez and Dena G and 15 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

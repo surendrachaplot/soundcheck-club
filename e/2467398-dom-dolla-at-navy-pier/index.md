@@ -1,6 +1,6 @@
 # Dom Dolla at Navy Pier
 
-Dom Dolla at Navy Pier on Sat 31 Oct, Chicago. 1 act on the bill: Dom Dolla. House and Tech House. Preview the line-up and save it on soundcheck.
+Dom Dolla at Navy Pier on Sat 31 Oct, Chicago. 1 artist on the bill: Dom Dolla. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # feedbk with Lawrence Asher, Sergio Dimoff at feedbk
 
-feedbk with Lawrence Asher, Sergio Dimoff on Sat 24 Oct, Newyorkcity. 1 act on the bill: Lawrence Asher. Techno and House. Preview the line-up and save it on soundcheck.
+feedbk with Lawrence Asher, Sergio Dimoff on Sat 24 Oct, New York City. 1 artist on the bill: Lawrence Asher. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

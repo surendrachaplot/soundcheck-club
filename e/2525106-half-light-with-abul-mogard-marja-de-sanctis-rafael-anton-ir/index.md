@@ -1,6 +1,6 @@
 # Half Light with Abul Mogard, Marja de Sanctis, Rafael Anton Irisarri, Concepción Huerta at Silent Green
 
-Half Light with Abul Mogard, Marja de Sanctis, Rafael Anton Irisarri, Concepción Huerta at Silent Green on Fri 23 Oct, Berlin. 3 acts on the bill: Abul Mogard, Concepción Huerta and Rafael Anton Irisarri. Ambient and Drone. Preview the line-up and save it on soundcheck.
+Half Light with Abul Mogard, Marja de Sanctis, Rafael Anton Irisarri, Concepción Huerta at Silent Green on Fri 23 Oct, Berlin. 3 artists on the bill: Abul Mogard, Concepción Huerta and Rafael Anton Irisarri. Ambient and Drone. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

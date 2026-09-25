@@ -1,6 +1,6 @@
 # Adrián Mills ∞ ROXY Prague at Roxy
 
-Adrián Mills ∞ ROXY Prague at Roxy on Tue 27 Oct, Prague. 1 act on the bill: Adrian Mills. Techno and Acid. Preview the line-up and save it on soundcheck.
+Adrián Mills ∞ ROXY Prague at Roxy on Tue 27 Oct, Prague. 1 artist on the bill: Adrian Mills. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

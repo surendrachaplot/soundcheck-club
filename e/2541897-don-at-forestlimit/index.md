@@ -1,6 +1,6 @@
 # 「曇 — DON —」 at Forestlimit
 
-「曇 — DON —」 at Forestlimit on Sat 26 Sept, Tokyo. 1 act on the bill: seaketa. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+「曇 — DON —」 at Forestlimit on Sat 26 Sept, Tokyo. 1 artist on the bill: seaketa. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

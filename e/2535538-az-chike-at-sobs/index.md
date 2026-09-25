@@ -1,6 +1,6 @@
 # AZ Chike at SOBs
 
-AZ Chike at SOBs on Fri 16 Oct, Newyorkcity. Hip-Hop. Preview the line-up and save it on soundcheck.
+AZ Chike at SOBs on Fri 16 Oct, New York City. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Friday Stoked&stoned at Stoked&stoned
 
-Friday Stoked&stoned on Fri 25 Sept, Seoul. 4 acts on the bill: Daul, llama (1), Nolove and Youngseok. Techno and House. Preview the line-up and save it on soundcheck.
+Friday Stoked&stoned on Fri 25 Sept, Seoul. 4 artists on the bill: Daul, llama, Nolove and Youngseok. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

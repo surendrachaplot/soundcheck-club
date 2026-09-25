@@ -1,6 +1,6 @@
 # Conflux Club night at export
 
-Conflux Club night at export on Fri 25 Sept, Rotterdam. 4 acts on the bill: 69DB, Animistic Beliefs, Genyten and Wallis. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Conflux Club night at export on Fri 25 Sept, Rotterdam. 4 artists on the bill: 69DB, Animistic Beliefs, Genyten and Wallis. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

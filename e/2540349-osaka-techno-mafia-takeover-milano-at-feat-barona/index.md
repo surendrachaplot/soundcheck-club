@@ -1,6 +1,6 @@
 # OSAKA TECHNO MAFIA takeover MILANO at Feat.Barona
 
-OSAKA TECHNO MAFIA takeover MILANO at Feat.Barona on Sat 17 Oct, Milan. 2 acts on the bill: Goodrug and Linear System (CR). Techno. Preview the line-up and save it on soundcheck.
+OSAKA TECHNO MAFIA takeover MILANO at Feat.Barona on Sat 17 Oct, Milan. 2 artists on the bill: Goodrug and Linear System (CR). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

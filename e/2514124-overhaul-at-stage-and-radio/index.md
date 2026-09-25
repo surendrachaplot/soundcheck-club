@@ -1,6 +1,6 @@
 # Overhaul at Stage and Radio
 
-Overhaul at Stage and Radio on Fri 6 Nov, Manchester. 1 act on the bill: b_d (UK). House and Electro. Preview the line-up and save it on soundcheck.
+Overhaul at Stage and Radio on Fri 6 Nov, Manchester. 1 artist on the bill: b_d (UK). House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

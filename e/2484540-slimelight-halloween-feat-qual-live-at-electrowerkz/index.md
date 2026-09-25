@@ -1,6 +1,6 @@
 # Slimelight Halloween feat Qual Live at Electrowerkz
 
-Slimelight Halloween feat Qual Live at Electrowerkz on Sat 17 Oct, London. 3 acts on the bill: Dj.Malefica, Ricardo Castro and Steve Weeks. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
+Slimelight Halloween feat Qual Live at Electrowerkz on Sat 17 Oct, London. 3 artists on the bill: Dj.Malefica, Ricardo Castro and Steve Weeks. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

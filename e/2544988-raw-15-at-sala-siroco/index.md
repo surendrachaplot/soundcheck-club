@@ -1,6 +1,6 @@
 # RAW #15 at Sala Siroco
 
-RAW #15 at Sala Siroco on Thu 8 Oct, Madrid. 3 acts on the bill: Ana Sant, Marotö and Vandiaz. Techno. Preview the line-up and save it on soundcheck.
+RAW #15 at Sala Siroco on Thu 8 Oct, Madrid. 3 artists on the bill: Ana Sant, Marotö and Vandiaz. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

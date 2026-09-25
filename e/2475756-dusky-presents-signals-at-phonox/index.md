@@ -1,6 +1,6 @@
 # Dusky presents Signals at Phonox
 
-Dusky presents Signals at Phonox on Sat 28 Nov, London. 1 act on the bill: Dusky. Preview the line-up and save it on soundcheck.
+Dusky presents Signals at Phonox on Sat 28 Nov, London. 1 artist on the bill: Dusky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

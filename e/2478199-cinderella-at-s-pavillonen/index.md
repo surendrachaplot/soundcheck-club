@@ -1,6 +1,6 @@
 # Cinderella at Søpavillonen
 
-Cinderella at Søpavillonen on Fri 2 Oct, Copenhagen. 1 act on the bill: Fedty. House and Afro House. Preview the line-up and save it on soundcheck.
+Cinderella at Søpavillonen on Fri 2 Oct, Copenhagen. 1 artist on the bill: Fedty. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

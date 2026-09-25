@@ -1,6 +1,6 @@
 # African Head Charge: Open Air Show at The Fox and Firkin
 
-African Head Charge: Open Air Show at The Fox and Firkin on Sun 25 Oct, London. 1 act on the bill: African Head Charge. Dub and Experimental. Preview the line-up and save it on soundcheck.
+African Head Charge: Open Air Show at The Fox and Firkin on Sun 25 Oct, London. 1 artist on the bill: African Head Charge. Dub and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

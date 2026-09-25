@@ -1,6 +1,6 @@
 # SAFE Sound / A Return to Practice / Each Other at Zoko Collective
 
-SAFE Sound / A Return to Practice / Each Other at Zoko Collective on Sat 26 Sept, Miami. 6 acts on the bill: Artime, Diego Andres, Extra Andrew and Lotusoph and 2 more. House and Deep House. Preview the line-up and save it on soundcheck.
+SAFE Sound / A Return to Practice / Each Other at Zoko Collective on Sat 26 Sept, Miami. 6 artists on the bill: Artime, Diego Andres, Extra Andrew and Lotusoph and 2 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

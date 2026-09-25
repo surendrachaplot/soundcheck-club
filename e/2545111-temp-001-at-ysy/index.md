@@ -1,6 +1,6 @@
 # temp_001 at YSY
 
-temp_001 at YSY on Sun 18 Oct, Berlin. 2 acts on the bill: Alfieri and Funken. Techno and Downtempo. Preview the line-up and save it on soundcheck.
+temp_001 at YSY on Sun 18 Oct, Berlin. 2 artists on the bill: Alfieri and Funken. Techno and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

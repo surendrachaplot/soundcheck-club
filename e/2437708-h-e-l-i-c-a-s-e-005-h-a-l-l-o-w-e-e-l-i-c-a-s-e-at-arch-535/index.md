@@ -1,6 +1,6 @@
 # H​E​L​I​C​A​S​E 005 - H​A​L​L​O​W​E​E​L​I​C​A​S​E at Arch 535
 
-H​E​L​I​C​A​S​E 005 - H​A​L​L​O​W​E​E​L​I​C​A​S​E at Arch 535 on Sat 31 Oct, London. 4 acts on the bill: boys name, Costikyan, Make Money Mafia and Sopp (2). Techno and House. Preview the line-up and save it on soundcheck.
+H​E​L​I​C​A​S​E 005 - H​A​L​L​O​W​E​E​L​I​C​A​S​E at Arch 535 on Sat 31 Oct, London. 4 artists on the bill: boys name, Costikyan, Make Money Mafia and Sopp. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

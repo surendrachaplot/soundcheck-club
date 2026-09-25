@@ -1,6 +1,6 @@
 # Shi Fu Miz Festival - 10 Year Anniversary at Tai Tong Organic Ecopark
 
-Shi Fu Miz Festival - 10 Year Anniversary at Tai Tong Organic Ecopark on Sat 14 Nov, Hongkong. 22 acts on the bill: 1908, AngeliKa, Chez Damier and DJ Kirby and 18 more. Techno and House. Preview the line-up and save it on soundcheck.
+Shi Fu Miz Festival - 10 Year Anniversary at Tai Tong Organic Ecopark on Sat 14 Nov, Hong Kong. 22 artists on the bill: 1908, AngeliKa, Chez Damier and DJ Kirby and 18 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

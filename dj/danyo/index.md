@@ -2,7 +2,7 @@
 
 Danyo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Poetry Club, Glasgow on Sat, 17 Oct 2026.
 
-Danyo is a techno and club artist tracked on soundcheck, with 28 sets logged across Buenosaires, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Miss Cabbage, HUNTRESS and Rahul.mp3. Next up: The Poetry Club, Glasgow on Sat 17 Oct.
+Danyo is a techno and club artist tracked on soundcheck, with 28 sets logged across Buenos Aires, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Miss Cabbage, HUNTRESS and Rahul.mp3. Next up: The Poetry Club, Glasgow on Sat 17 Oct.
 
 ## Upcoming shows
 

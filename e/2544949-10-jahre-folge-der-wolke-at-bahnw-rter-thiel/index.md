@@ -1,6 +1,6 @@
 # 10 Jahre Folge der Wolke at Bahnwärter Thiel
 
-10 Jahre Folge der Wolke at Bahnwärter Thiel on Fri 23 Oct, Munich. 5 acts on the bill: Anna Lazer, Bernd Bugatti, DJ Nebelmaschine and LARIFARI and 1 more. Preview the line-up and save it on soundcheck.
+10 Jahre Folge der Wolke at Bahnwärter Thiel on Fri 23 Oct, Munich. 5 artists on the bill: Anna Lazer, Bernd Bugatti, DJ Nebelmaschine and LARIFARI and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

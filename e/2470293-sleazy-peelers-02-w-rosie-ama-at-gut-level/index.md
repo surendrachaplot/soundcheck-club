@@ -1,6 +1,6 @@
 # Sleazy Peelers (02) w/ Rosie Ama at Gut Level
 
-Sleazy Peelers (02) w/ Rosie Ama at Gut Level on Fri 13 Nov, Sheffield. 3 acts on the bill: Kay Fabe, Paniolo and Rosie Ama. Balearic and EBM. Preview the line-up and save it on soundcheck.
+Sleazy Peelers (02) w/ Rosie Ama at Gut Level on Fri 13 Nov, Sheffield. 3 artists on the bill: Kay Fabe, Paniolo and Rosie Ama. Balearic and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

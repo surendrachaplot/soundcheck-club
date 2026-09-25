@@ -1,6 +1,6 @@
 # MPH at Royale
 
-MPH at Royale on Sat 7 Nov, Boston. 1 act on the bill: MPH (1). Garage and Tech House. Preview the line-up and save it on soundcheck.
+MPH at Royale on Sat 7 Nov, Boston. 1 artist on the bill: MPH. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

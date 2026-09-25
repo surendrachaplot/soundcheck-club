@@ -1,6 +1,6 @@
 # ELYSIA - BRAZILIAN FUNK at Altenburg 1964
 
-ELYSIA - BRAZILIAN FUNK at Altenburg 1964 on Sat 10 Oct, Prague. 2 acts on the bill: Iriky and Threefloorloft. Baile Funk. Preview the line-up and save it on soundcheck.
+ELYSIA - BRAZILIAN FUNK at Altenburg 1964 on Sat 10 Oct, Prague. 2 artists on the bill: Iriky and Threefloorloft. Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

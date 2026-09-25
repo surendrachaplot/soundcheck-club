@@ -1,6 +1,6 @@
 # Soul Wun - SYDNEY - Oxford Art Factory at Oxford Art Factory
 
-Soul Wun - SYDNEY - Oxford Art Factory on Fri 23 Oct, Sydney. 1 act on the bill: Soul Wun. Preview the line-up and save it on soundcheck.
+Soul Wun - SYDNEY - Oxford Art Factory on Fri 23 Oct, Sydney. 1 artist on the bill: Soul Wun. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

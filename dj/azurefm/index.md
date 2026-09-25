@@ -2,7 +2,7 @@
 
 Azure is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Golden Dragon Restaurant, Los Angeles on Thu, 24 Sept 2026.
 
-Azure is a club and house artist based in United States of America, tracked on soundcheck, with 47 sets logged across Bristol, Chicago, London and Losangeles and 2 more. Often billed alongside Bianca Maieli, CHRYSALIS and Pauliewog. Next up: Golden Dragon Restaurant, Losangeles on Thu 24 Sept.
+Azure is a club and house artist based in United States of America, tracked on soundcheck, with 47 sets logged across Bristol, Chicago, London and Los Angeles and 2 more. Often billed alongside Bianca Maieli, CHRYSALIS and Pauliewog. Next up: Golden Dragon Restaurant, Los Angeles on Thu 24 Sept.
 
 ## Upcoming shows
 

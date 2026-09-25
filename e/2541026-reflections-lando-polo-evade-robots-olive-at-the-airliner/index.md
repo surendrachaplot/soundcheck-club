@@ -1,6 +1,6 @@
 # Reflections: Lando Polo, Evade Robots, Olive at The Airliner
 
-Reflections: Lando Polo, Evade Robots, Olive at The Airliner on Sat 26 Sept, Losangeles. Deep House. Preview the line-up and save it on soundcheck.
+Reflections: Lando Polo, Evade Robots, Olive at The Airliner on Sat 26 Sept, Los Angeles. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

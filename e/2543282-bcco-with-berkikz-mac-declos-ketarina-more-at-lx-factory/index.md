@@ -1,6 +1,6 @@
 # BCCO with ÜBERKIKZ, Mac Declos, Ketarina & More at Lx Factory
 
-BCCO with ÜBERKIKZ, Mac Declos, Ketarina & More at Lx Factory on Fri 13 Nov, Lisbon. 5 acts on the bill: Ketarina, Mac Declos, Meibi and Taxsh and 1 more. Techno. Preview the line-up and save it on soundcheck.
+BCCO with ÜBERKIKZ, Mac Declos, Ketarina & More at Lx Factory on Fri 13 Nov, Lisbon. 5 artists on the bill: Ketarina, Mac Declos, Meibi and Taxsh and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

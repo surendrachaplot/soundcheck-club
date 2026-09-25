@@ -1,6 +1,6 @@
 # NT's Loft: babyschön Residency w/ Jonny Rock at Night Tales Loft
 
-NT's Loft: babyschön Residency w/ Jonny Rock at Night Tales Loft on Sat 14 Nov, London. 2 acts on the bill: babyschön and Jonny Rock. Preview the line-up and save it on soundcheck.
+NT's Loft: babyschön Residency w/ Jonny Rock at Night Tales Loft on Sat 14 Nov, London. 2 artists on the bill: babyschön and Jonny Rock. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

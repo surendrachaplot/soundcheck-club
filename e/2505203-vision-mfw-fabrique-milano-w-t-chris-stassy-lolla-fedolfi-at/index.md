@@ -1,6 +1,6 @@
 # VISION MFW @ Fabrique Milano w/t Chris Stassy & Lolla Fedolfi at Fabrique
 
-VISION MFW @ Fabrique Milano w/t Chris Stassy & Lolla Fedolfi on Fri 25 Sept, Milan. 2 acts on the bill: CHRIS STASSY and Lolla Fedolfi. Preview the line-up and save it on soundcheck.
+VISION MFW @ Fabrique Milano w/t Chris Stassy & Lolla Fedolfi on Fri 25 Sept, Milan. 2 artists on the bill: CHRIS STASSY and Lolla Fedolfi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

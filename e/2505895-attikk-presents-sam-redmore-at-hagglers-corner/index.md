@@ -1,6 +1,6 @@
 # Attikk presents: Sam Redmore at Hagglers Corner
 
-Attikk presents: Sam Redmore at Hagglers Corner on Fri 2 Oct, Sheffield. 1 act on the bill: Sam Redmore. House. Preview the line-up and save it on soundcheck.
+Attikk presents: Sam Redmore at Hagglers Corner on Fri 2 Oct, Sheffield. 1 artist on the bill: Sam Redmore. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

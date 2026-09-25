@@ -1,6 +1,6 @@
 # Ferias at Système
 
-Ferias at Système on Fri 16 Oct, Montreal. 2 acts on the bill: Alina (MTL) and CLEO LEIGH. Preview the line-up and save it on soundcheck.
+Ferias at Système on Fri 16 Oct, Montreal. 2 artists on the bill: Alina (MTL) and CLEO LEIGH. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

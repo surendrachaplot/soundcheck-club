@@ -1,6 +1,6 @@
 # I Am A Raver presents Nanna Makina at Tempo
 
-I Am A Raver presents Nanna Makina at Tempo on Sun 27 Sept, Glasgow. 3 acts on the bill: DJ Zitkus, Merki and Nanna Makina. Trance. Preview the line-up and save it on soundcheck.
+I Am A Raver presents Nanna Makina at Tempo on Sun 27 Sept, Glasgow. 3 artists on the bill: DJ Zitkus, Merki and Nanna Makina. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

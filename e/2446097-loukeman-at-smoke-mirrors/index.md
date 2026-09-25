@@ -1,6 +1,6 @@
 # Loukeman at Smoke & Mirrors
 
-Loukeman at Smoke & Mirrors on Thu 1 Oct, Chicago. 1 act on the bill: Loukeman. House and Experimental. Preview the line-up and save it on soundcheck.
+Loukeman at Smoke & Mirrors on Thu 1 Oct, Chicago. 1 artist on the bill: Loukeman. House and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Iggy P is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Fri, 25 Sept 2026.
 
-Iggy P is a house and techno artist based in Netherlands, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Madrid and Mexicocity and 5 more. Often billed alongside Naone, Hylke and 42nd Avenue. Next up: Signal, Newyorkcity on Fri 25 Sept.
+Iggy P is a house and techno artist based in Netherlands, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Madrid and Mexico City and 5 more. Often billed alongside Naone, Hylke and 42nd Avenue. Next up: Signal, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

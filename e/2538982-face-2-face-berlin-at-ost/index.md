@@ -1,6 +1,6 @@
 # FACE 2 FACE: BERLIN at OST
 
-FACE 2 FACE: BERLIN at OST on Sat 14 Nov, Berlin. 6 acts on the bill: doppeltes lottchen, GM1 (IT), Johannes Schuster and luke madness and 2 more. Techno. Preview the line-up and save it on soundcheck.
+FACE 2 FACE: BERLIN at OST on Sat 14 Nov, Berlin. 6 artists on the bill: doppeltes lottchen, GM1 (IT), Johannes Schuster and luke madness and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

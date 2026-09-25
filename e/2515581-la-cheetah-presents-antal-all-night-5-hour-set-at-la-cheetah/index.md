@@ -1,6 +1,6 @@
 # La Cheetah presents: Antal (All Night - 5 Hour Set) at La Cheetah Club
 
-La Cheetah presents: Antal (All Night - 5 Hour Set) at La Cheetah Club on Sat 26 Sept, Glasgow. 1 act on the bill: Antal. House and Disco. Preview the line-up and save it on soundcheck.
+La Cheetah presents: Antal (All Night - 5 Hour Set) at La Cheetah Club on Sat 26 Sept, Glasgow. 1 artist on the bill: Antal. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

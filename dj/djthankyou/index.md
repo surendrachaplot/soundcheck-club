@@ -2,7 +2,7 @@
 
 DJ Thank You is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mood Ring, New York City on Wed, 30 Sept 2026.
 
-DJ Thank You is a techno and club artist based in United States of America, tracked on soundcheck, with 96 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside Angel Money, DJ Sour and flirty800. Next up: Mood Ring, Newyorkcity on Wed 30 Sept.
+DJ Thank You is a techno and club artist based in United States of America, tracked on soundcheck, with 96 sets logged across Chicago, Los Angeles, Miami and New York City and 1 more. Often billed alongside Angel Money, DJ Sour and flirty800. Next up: Mood Ring, New York City on Wed 30 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # CUL SEC at Cul Sec
 
-CUL SEC at Cul Sec on Sat 26 Sept, Seoul. 1 act on the bill: Acidwork. Preview the line-up and save it on soundcheck.
+CUL SEC at Cul Sec on Sat 26 Sept, Seoul. 1 artist on the bill: Acidwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

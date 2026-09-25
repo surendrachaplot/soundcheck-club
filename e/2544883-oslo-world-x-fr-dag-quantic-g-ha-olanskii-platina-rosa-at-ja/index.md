@@ -1,6 +1,6 @@
 # Oslo World x Frædag: Quantic + G-HA & Olanskii + Platina Rosa at Jaeger
 
-Oslo World x Frædag: Quantic + G-HA & Olanskii + Platina Rosa at Jaeger on Fri 30 Oct, Oslo. 3 acts on the bill: G-HA, Olanskii and Quantic. House and Disco. Preview the line-up and save it on soundcheck.
+Oslo World x Frædag: Quantic + G-HA & Olanskii + Platina Rosa at Jaeger on Fri 30 Oct, Oslo. 3 artists on the bill: G-HA, Olanskii and Quantic. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

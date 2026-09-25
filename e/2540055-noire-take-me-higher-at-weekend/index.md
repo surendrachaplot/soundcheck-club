@@ -1,6 +1,6 @@
 # NOIRE - TAKE ME HIGHER at Weekend
 
-NOIRE - TAKE ME HIGHER at Weekend on Sat 10 Oct, Berlin. 2 acts on the bill: A.M.R and Us Two. Techno and House. Preview the line-up and save it on soundcheck.
+NOIRE - TAKE ME HIGHER at Weekend on Sat 10 Oct, Berlin. 2 artists on the bill: A.M.R and Us Two. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies at Nicholas Groente & Fruit
 
-ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies at Nicholas Groente & Fruit on Fri 23 Oct, Amsterdam. 6 acts on the bill: AMARE, LOUT, Nick Mason and Richi. and 2 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies at Nicholas Groente & Fruit on Fri 23 Oct, Amsterdam. 6 artists on the bill: AMARE, LOUT, Nick Mason and Richi. and 2 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

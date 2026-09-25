@@ -1,6 +1,6 @@
 # Electric Lights /AV Live Berlin - Lady Starlight (Live) & Katja Ruge (DJ) at Zeiss Grossplanetarium
 
-Electric Lights /AV Live Berlin - Lady Starlight (Live) & Katja Ruge (DJ) at Zeiss Grossplanetarium on Tue 13 Oct, Berlin. 2 acts on the bill: Katja Ruge and Lady Starlight. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Electric Lights /AV Live Berlin - Lady Starlight (Live) & Katja Ruge (DJ) at Zeiss Grossplanetarium on Tue 13 Oct, Berlin. 2 artists on the bill: Katja Ruge and Lady Starlight. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

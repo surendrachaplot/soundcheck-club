@@ -1,6 +1,6 @@
 # The Nursery: Jump Source, Pilgrims of the Mind [Live], Jennifer Loveless at public records
 
-The Nursery: Jump Source, Pilgrims of the Mind [Live], Jennifer Loveless at public records on Sun 27 Sept, Newyorkcity. 2 acts on the bill: Jennifer Loveless and Jump Source. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+The Nursery: Jump Source, Pilgrims of the Mind [Live], Jennifer Loveless at public records on Sun 27 Sept, New York City. 2 artists on the bill: Jennifer Loveless and Jump Source. Minimal and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

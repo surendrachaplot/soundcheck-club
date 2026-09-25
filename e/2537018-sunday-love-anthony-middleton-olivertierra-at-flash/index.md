@@ -1,6 +1,6 @@
 # Sunday Love: Anthony Middleton - OliverTiERRA at Flash
 
-Sunday Love: Anthony Middleton - OliverTiERRA at Flash on Sun 25 Oct, Washingtondc. 2 acts on the bill: Anthony Middleton and TiERRA. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunday Love: Anthony Middleton - OliverTiERRA at Flash on Sun 25 Oct, Washington DC. 2 artists on the bill: Anthony Middleton and TiERRA. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

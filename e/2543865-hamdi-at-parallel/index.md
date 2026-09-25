@@ -1,6 +1,6 @@
 # Hamdi at Parallel
 
-Hamdi at Parallel on Fri 27 Nov, Amsterdam. 3 acts on the bill: Hamdi (UK), MALLAURY and Styn. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Hamdi at Parallel on Fri 27 Nov, Amsterdam. 3 artists on the bill: Hamdi (UK), MALLAURY and Styn. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

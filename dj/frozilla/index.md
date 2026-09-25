@@ -1,14 +1,14 @@
 # Frozilla
 
-Frozilla is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+Frozilla is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Frozilla is a house and techno artist based in Germany, tracked on soundcheck, with 61 sets logged across All, Berlin, Brussels and Frankfurt and 2 more. Often billed alongside Ady Toledano, Vio PRG and DJ Zurückbleiben Bitte. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+Frozilla is a house and techno artist based in Germany, tracked on soundcheck, with 61 sets logged across Berlin, Brussels, Frankfurt and Greece and 2 more. Often billed alongside Ady Toledano, Vio PRG and DJ Zurückbleiben Bitte. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 
 ## Recently played
 

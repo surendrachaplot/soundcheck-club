@@ -1,6 +1,6 @@
 # ORBS at TBA - Brussels
 
-ORBS at TBA - Brussels on Fri 2 Oct, Brussels. 2 acts on the bill: audio primitive and DJ Rino. Minimal and Dub Techno. Preview the line-up and save it on soundcheck.
+ORBS at TBA - Brussels on Fri 2 Oct, Brussels. 2 artists on the bill: audio primitive and DJ Rino. Minimal and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

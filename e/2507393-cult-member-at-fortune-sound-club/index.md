@@ -1,6 +1,6 @@
 # Cult Member at Fortune Sound Club
 
-Cult Member at Fortune Sound Club on Sun 27 Sept, Vancouver. 1 act on the bill: Cult Member. Techno and House. Preview the line-up and save it on soundcheck.
+Cult Member at Fortune Sound Club on Sun 27 Sept, Vancouver. 1 artist on the bill: Cult Member. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

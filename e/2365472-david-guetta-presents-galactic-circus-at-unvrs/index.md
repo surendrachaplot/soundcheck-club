@@ -1,6 +1,6 @@
 # David Guetta presents Galactic Circus at [UNVRS]
 
-David Guetta presents Galactic Circus at [UNVRS] on Fri 25 Sept, Ibiza. 2 acts on the bill: David Guetta and Miss Monique. Progressive House and House. Preview the line-up and save it on soundcheck.
+David Guetta presents Galactic Circus at [UNVRS] on Fri 25 Sept, Ibiza. 2 artists on the bill: David Guetta and Miss Monique. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

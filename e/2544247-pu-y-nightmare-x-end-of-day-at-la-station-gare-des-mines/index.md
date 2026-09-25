@@ -1,6 +1,6 @@
 # PU$$Y NIGHTMARE X END OF DAY at La Station - Gare des Mines
 
-PU$$Y NIGHTMARE X END OF DAY at La Station - Gare des Mines on Fri 23 Oct, Paris. 3 acts on the bill: Emma DJ, OKO DJ and Vv Pete. Preview the line-up and save it on soundcheck.
+PU$$Y NIGHTMARE X END OF DAY at La Station - Gare des Mines on Fri 23 Oct, Paris. 3 artists on the bill: Emma DJ, OKO DJ and Vv Pete. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Adam F [LIVE] - Circles Revisited Tour at Albert Hall
 
-Adam F [LIVE] - Circles Revisited Tour at Albert Hall on Sat 14 Nov, Manchester. 2 acts on the bill: Adam F and Harry Shotta. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Adam F [LIVE] - Circles Revisited Tour at Albert Hall on Sat 14 Nov, Manchester. 2 artists on the bill: Adam F and Harry Shotta. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

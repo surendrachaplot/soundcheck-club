@@ -1,6 +1,6 @@
 # Pacha NYC presents: BLOND:ISH special guest Luciano at Pacha NYC Basement
 
-Pacha NYC presents: BLOND:ISH special guest Luciano at Pacha NYC Basement on Sat 26 Sept, Newyorkcity. House and Tech House. Preview the line-up and save it on soundcheck.
+Pacha NYC presents: BLOND:ISH special guest Luciano at Pacha NYC Basement on Sat 26 Sept, New York City. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

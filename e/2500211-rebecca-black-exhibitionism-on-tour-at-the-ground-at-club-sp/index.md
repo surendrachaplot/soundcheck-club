@@ -1,6 +1,6 @@
 # Rebecca Black: Exhibitionism on Tour at The Ground at Club Space
 
-Rebecca Black: Exhibitionism on Tour at The Ground at Club Space on Fri 9 Oct, Miami. 1 act on the bill: Winter Wrong. Techno and Pop. Preview the line-up and save it on soundcheck.
+Rebecca Black: Exhibitionism on Tour at The Ground at Club Space on Fri 9 Oct, Miami. 1 artist on the bill: Winter Wrong. Techno and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Jen Ferrer is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Apotheke, Los Angeles on Sat, 26 Sept 2026.
 
-Jen Ferrer is a house and deep house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Losangeles and Sandiego. Often billed alongside Gay Felony, Club Tularosa and Daddy Kev. Next up: Apotheke, Losangeles on Sat 26 Sept.
+Jen Ferrer is a house and deep house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Los Angeles and San Diego. Often billed alongside Gay Felony, Club Tularosa and Daddy Kev. Next up: Apotheke, Los Angeles on Sat 26 Sept.
 
 ## Upcoming shows
 

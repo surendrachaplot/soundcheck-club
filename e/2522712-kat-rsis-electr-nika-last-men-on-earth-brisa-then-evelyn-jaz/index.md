@@ -1,6 +1,6 @@
 # KATÁRSIS ELECTRÓNIKA: Last Men On Earth, Brisa Then, Evelyn Jaz, Eva Levy, Pájaro Negro at EL SÓTANO
 
-KATÁRSIS ELECTRÓNIKA: Last Men On Earth, Brisa Then, Evelyn Jaz, Eva Levy, Pájaro Negro at EL SÓTANO on Fri 2 Oct, Madrid. 5 acts on the bill: Brisa Then, Centurion One, El Pájaro Negro and Evelyn Jaz and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+KATÁRSIS ELECTRÓNIKA: Last Men On Earth, Brisa Then, Evelyn Jaz, Eva Levy, Pájaro Negro at EL SÓTANO on Fri 2 Oct, Madrid. 5 artists on the bill: Brisa Then, Centurion One, El Pájaro Negro and Evelyn Jaz and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

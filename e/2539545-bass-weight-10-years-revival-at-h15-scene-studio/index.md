@@ -1,6 +1,6 @@
 # Bass Weight 10 Years Revival at H15 Scene & Studio
 
-Bass Weight 10 Years Revival at H15 Scene & Studio on Sat 3 Oct, Copenhagen. 1 act on the bill: Redline Warriors. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Bass Weight 10 Years Revival at H15 Scene & Studio on Sat 3 Oct, Copenhagen. 1 artist on the bill: Redline Warriors. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

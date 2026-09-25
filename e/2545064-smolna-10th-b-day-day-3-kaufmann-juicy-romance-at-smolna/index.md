@@ -1,6 +1,6 @@
 # Smolna 10th B-day DAY 3: Kaufmann, Juicy Romance at Smolna
 
-Smolna 10th B-day DAY 3: Kaufmann, Juicy Romance on Fri 30 Oct, Warsaw. 4 acts on the bill: Juicy Romance, Kaufmann, kieniewicz and Medzz. Techno and House. Preview the line-up and save it on soundcheck.
+Smolna 10th B-day DAY 3: Kaufmann, Juicy Romance on Fri 30 Oct, Warsaw. 4 artists on the bill: Juicy Romance, Kaufmann, kieniewicz and Medzz. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

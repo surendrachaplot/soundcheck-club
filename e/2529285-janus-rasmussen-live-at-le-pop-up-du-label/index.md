@@ -1,6 +1,6 @@
 # Janus Rasmussen (live) at Le Pop-Up du Label
 
-Janus Rasmussen (live) at Le Pop-Up du Label on Wed 25 Nov, Paris. 1 act on the bill: Janus Rasmussen. IDM and Electronica. Preview the line-up and save it on soundcheck.
+Janus Rasmussen (live) at Le Pop-Up du Label on Wed 25 Nov, Paris. 1 artist on the bill: Janus Rasmussen. IDM and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DURATIONS: An Evening with Terre Thaemlitz [Live Piano] + Conversation with Ciarán Finlayson at Roulette
 
-DURATIONS: An Evening with Terre Thaemlitz [Live Piano] + Conversation with Ciarán Finlayson at Roulette on Sun 15 Nov, Newyorkcity. 1 act on the bill: Terre Thaemlitz. Preview the line-up and save it on soundcheck.
+DURATIONS: An Evening with Terre Thaemlitz [Live Piano] + Conversation with Ciarán Finlayson at Roulette on Sun 15 Nov, New York City. 1 artist on the bill: Terre Thaemlitz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

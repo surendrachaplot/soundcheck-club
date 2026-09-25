@@ -1,6 +1,6 @@
 # The Resistance at Q Nightclub
 
-The Resistance at Q Nightclub on Sat 24 Oct, Seattle. 1 act on the bill: The Resistance. Preview the line-up and save it on soundcheck.
+The Resistance at Q Nightclub on Sat 24 Oct, Seattle. 1 artist on the bill: The Resistance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

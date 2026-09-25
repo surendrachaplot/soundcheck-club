@@ -2,7 +2,7 @@
 
 J.N.R. is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Outer Heaven, New York City on Thu, 24 Sept 2026.
 
-J.N.R. is a house and garage artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Berlin, Mexicocity and Newyorkcity. Often billed alongside Gigi Rio, CAMILLA and Lucia Haze. Next up: Outer Heaven, Newyorkcity on Thu 24 Sept.
+J.N.R. is a house and garage artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Berlin, Mexico City and New York City. Often billed alongside Gigi Rio, CAMILLA and Lucia Haze. Next up: Outer Heaven, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

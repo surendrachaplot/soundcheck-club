@@ -1,6 +1,6 @@
 # Yubik - Elements, Crobar Club - ALLMusicParties at TBA - Crobar Club, Palermo
 
-Yubik - Elements, Crobar Club - ALLMusicParties at TBA - Crobar Club, Palermo on Fri 2 Oct, Buenosaires. 1 act on the bill: Yubik. Progressive House. Preview the line-up and save it on soundcheck.
+Yubik - Elements, Crobar Club - ALLMusicParties at TBA - Crobar Club, Palermo on Fri 2 Oct, Buenos Aires. 1 artist on the bill: Yubik. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

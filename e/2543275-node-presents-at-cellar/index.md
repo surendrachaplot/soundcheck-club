@@ -1,6 +1,6 @@
 # Node presents at Cellar
 
-Node presents at Cellar on Sun 11 Oct, London. 4 acts on the bill: Calla, Elias Sternin, Patrick Rowe and Remove Me. Techno. Preview the line-up and save it on soundcheck.
+Node presents at Cellar on Sun 11 Oct, London. 4 artists on the bill: Calla, Elias Sternin, Patrick Rowe and Remove Me. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

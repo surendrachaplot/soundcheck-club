@@ -2,7 +2,7 @@
 
 Grac is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Sydney on Sat, 3 Oct 2026.
 
-Grac is a techno and house artist based in Australia, tracked on soundcheck, with 11 sets logged across Hongkong and Sydney. Often billed alongside Command D (1), D-Grade and Heads. Next up: TBA, Sydney on Sat 3 Oct.
+Grac is a techno and house artist based in Australia, tracked on soundcheck, with 11 sets logged across Hong Kong and Sydney. Often billed alongside Command D, D-Grade and Heads. Next up: TBA, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 

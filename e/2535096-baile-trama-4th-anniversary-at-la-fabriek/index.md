@@ -1,6 +1,6 @@
 # BAILE TRAMA 4TH ANNIVERSARY at La Fabriek
 
-BAILE TRAMA 4TH ANNIVERSARY at La Fabriek on Fri 2 Oct, Brussels. 3 acts on the bill: Anti Ribeiro, Bieu and FILAIPE. Baile Funk and Club. Preview the line-up and save it on soundcheck.
+BAILE TRAMA 4TH ANNIVERSARY at La Fabriek on Fri 2 Oct, Brussels. 3 artists on the bill: Anti Ribeiro, Bieu and FILAIPE. Baile Funk and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

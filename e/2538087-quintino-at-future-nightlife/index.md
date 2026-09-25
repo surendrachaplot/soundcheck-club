@@ -1,6 +1,6 @@
 # Quintino at Future Nightlife
 
-Quintino at Future Nightlife on Fri 23 Oct, Toronto. 1 act on the bill: Quintino. Preview the line-up and save it on soundcheck.
+Quintino at Future Nightlife on Fri 23 Oct, Toronto. 1 artist on the bill: Quintino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

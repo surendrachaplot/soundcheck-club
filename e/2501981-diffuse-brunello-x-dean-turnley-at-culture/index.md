@@ -1,6 +1,6 @@
 # diffuse: Brunello x Dean Turnley at Culture
 
-diffuse: Brunello x Dean Turnley at Culture on Sun 4 Oct, Washingtondc. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+diffuse: Brunello x Dean Turnley at Culture on Sun 4 Oct, Washington DC. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

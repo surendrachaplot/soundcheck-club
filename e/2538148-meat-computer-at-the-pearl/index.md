@@ -1,6 +1,6 @@
 # meat computer at The Pearl
 
-meat computer at The Pearl on Thu 22 Oct, Vancouver. 1 act on the bill: meat computer. Experimental. Preview the line-up and save it on soundcheck.
+meat computer at The Pearl on Thu 22 Oct, Vancouver. 1 artist on the bill: meat computer. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

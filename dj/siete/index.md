@@ -2,7 +2,7 @@
 
 SIETE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club Rawhide, New York City on Fri, 25 Sept 2026.
 
-SIETE is a techno and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Barcelona, Losangeles, Mexicocity and Milan and 4 more. Often billed alongside Siete Catorce, CUERPOS and Coyado. Next up: Club Rawhide, Newyorkcity on Fri 25 Sept.
+SIETE is a techno and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Barcelona, Los Angeles, Mexico City and Milan and 4 more. Often billed alongside Siete Catorce, CUERPOS and Coyado. Next up: Club Rawhide, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

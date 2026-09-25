@@ -1,6 +1,6 @@
 # George Clanton at Union Transfer
 
-George Clanton at Union Transfer on Sun 8 Nov, Philadelphia. 2 acts on the bill: George Clanton and Ryan Hemsworth. Preview the line-up and save it on soundcheck.
+George Clanton at Union Transfer on Sun 8 Nov, Philadelphia. 2 artists on the bill: George Clanton and Ryan Hemsworth. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

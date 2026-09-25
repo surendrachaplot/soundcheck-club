@@ -1,6 +1,6 @@
 # WEDNESDAY MINIMAL HOUSE'n'TECHNO 'VINYL SESSIONS' presents; plazdj (Strictly Vi‬‬‬‬‬‬‬‬‬nyl) at Culture Cafe
 
-WEDNESDAY MINIMAL HOUSE'n'TECHNO 'VINYL SESSIONS' presents; plazdj (Strictly Vi‬‬‬‬‬‬‬‬‬nyl) at Culture Cafe on Wed 30 Sept, Bangkok. 1 act on the bill: plazdj. Techno and Minimal. Preview the line-up and save it on soundcheck.
+WEDNESDAY MINIMAL HOUSE'n'TECHNO 'VINYL SESSIONS' presents; plazdj (Strictly Vi‬‬‬‬‬‬‬‬‬nyl) at Culture Cafe on Wed 30 Sept, Bangkok. 1 artist on the bill: plazdj. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

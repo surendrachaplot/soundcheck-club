@@ -1,6 +1,6 @@
 # Takt x Pogo: Dorian Electra + tamanaramen + Luca Eck at Sala El Sol
 
-Takt x Pogo: Dorian Electra + tamanaramen + Luca Eck at Sala El Sol on Fri 2 Oct, Madrid. 3 acts on the bill: Dorian Electra, Luca Eck and tamanaramen. Electronica. Preview the line-up and save it on soundcheck.
+Takt x Pogo: Dorian Electra + tamanaramen + Luca Eck at Sala El Sol on Fri 2 Oct, Madrid. 3 artists on the bill: Dorian Electra, Luca Eck and tamanaramen. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

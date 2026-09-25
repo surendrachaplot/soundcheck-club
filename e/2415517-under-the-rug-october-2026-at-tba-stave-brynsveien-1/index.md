@@ -1,6 +1,6 @@
 # Under the Rug - October 2026 at TBA - Stave - Brynsveien 1
 
-Under the Rug - October 2026 at TBA - Stave - Brynsveien 1 on Fri 2 Oct, Oslo. 7 acts on the bill: Axymt., Javel, Josh Bobzin and Katiusha and 3 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Under the Rug - October 2026 at TBA - Stave - Brynsveien 1 on Fri 2 Oct, Oslo. 7 artists on the bill: Axymt., Javel, Josh Bobzin and Katiusha and 3 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

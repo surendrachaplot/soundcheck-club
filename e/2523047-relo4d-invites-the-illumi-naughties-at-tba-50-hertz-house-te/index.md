@@ -1,6 +1,6 @@
 # RELO4D invites : The Illumi'Naughties at TBA - 50:Hertz - House & Techno café
 
-RELO4D invites : The Illumi'Naughties at TBA - 50:Hertz - House & Techno café on Sat 24 Oct, Amsterdam. 3 acts on the bill: Dizo, Pedro Mercado and RELO4D. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+RELO4D invites : The Illumi'Naughties at TBA - 50:Hertz - House & Techno café on Sat 24 Oct, Amsterdam. 3 artists on the bill: Dizo, Pedro Mercado and RELO4D. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 RAH (1) is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
 
-RAH (1) is a house and funk / soul artist based in Singapore, tracked on soundcheck, with 34 sets logged across Bali, Bangkok, Melbourne and Singapore. Often billed alongside Proto-Exotica, Club De Migo and DJ JNETT. Next up: Northcote Theatre, Melbourne on Sat 14 Nov.
+RAH is a house and funk / soul artist based in Singapore, tracked on soundcheck, with 34 sets logged across Bali, Bangkok, Melbourne and Singapore. Often billed alongside Proto-Exotica, Club De Migo and DJ JNETT. Next up: Northcote Theatre, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 

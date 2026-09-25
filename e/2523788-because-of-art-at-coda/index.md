@@ -1,6 +1,6 @@
 # Because of Art at Coda
 
-Because of Art at Coda on Sat 17 Oct, Toronto. 1 act on the bill: Because of Art. Preview the line-up and save it on soundcheck.
+Because of Art at Coda on Sat 17 Oct, Toronto. 1 artist on the bill: Because of Art. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

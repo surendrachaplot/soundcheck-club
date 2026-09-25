@@ -1,6 +1,6 @@
 # PsyGroove vol. 2 pres. BREGER at Noce KRK
 
-PsyGroove vol. 2 pres. BREGER at Noce KRK on Sat 17 Oct, Krakow. 2 acts on the bill: Esquita and Glani. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+PsyGroove vol. 2 pres. BREGER at Noce KRK on Sat 17 Oct, Krakow. 2 artists on the bill: Esquita and Glani. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

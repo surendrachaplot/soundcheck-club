@@ -1,6 +1,6 @@
 # KOKO Electronic: Hernan Cattaneo at KOKO
 
-KOKO Electronic: Hernan Cattaneo on Fri 16 Oct, London. 2 acts on the bill: Danny Howells and Hernan Cattaneo. House. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Hernan Cattaneo on Fri 16 Oct, London. 2 artists on the bill: Danny Howells and Hernan Cattaneo. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

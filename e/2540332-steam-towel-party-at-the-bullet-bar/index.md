@@ -1,6 +1,6 @@
 # STEAM Towel Party at The Bullet Bar
 
-STEAM Towel Party at The Bullet Bar on Sat 26 Sept, Losangeles. Club and Afro House. Preview the line-up and save it on soundcheck.
+STEAM Towel Party at The Bullet Bar on Sat 26 Sept, Los Angeles. Club and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

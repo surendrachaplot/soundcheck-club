@@ -1,6 +1,6 @@
 # Routine x Itertainment: Safety Trance at Substation
 
-Routine x Itertainment: Safety Trance at Substation on Wed 14 Oct, Seattle. 2 acts on the bill: Dj Having Sex and Safety Trance. Club and Electronica. Preview the line-up and save it on soundcheck.
+Routine x Itertainment: Safety Trance at Substation on Wed 14 Oct, Seattle. 2 artists on the bill: Dj Having Sex and Safety Trance. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

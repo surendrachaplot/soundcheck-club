@@ -1,6 +1,6 @@
 # IULIATSKI & BOUNCI BONGI PRESENT: LOCAL TRANCE DANCE at Club Cello
 
-IULIATSKI & BOUNCI BONGI PRESENT: LOCAL TRANCE DANCE at Club Cello on Fri 25 Sept, Basel. 2 acts on the bill: Bouncy Bongi and IULIATSKI. Trance. Preview the line-up and save it on soundcheck.
+IULIATSKI & BOUNCI BONGI PRESENT: LOCAL TRANCE DANCE at Club Cello on Fri 25 Sept, Basel. 2 artists on the bill: Bouncy Bongi and IULIATSKI. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

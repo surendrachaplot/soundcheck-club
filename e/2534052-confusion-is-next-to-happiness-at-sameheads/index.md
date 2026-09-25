@@ -1,6 +1,6 @@
 # Confusion is Next to Happiness at Sameheads
 
-Confusion is Next to Happiness at Sameheads on Fri 9 Oct, Berlin. 3 acts on the bill: Anna Wall, Denzel and Kinzua. Preview the line-up and save it on soundcheck.
+Confusion is Next to Happiness at Sameheads on Fri 9 Oct, Berlin. 3 artists on the bill: Anna Wall, Denzel and Kinzua. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

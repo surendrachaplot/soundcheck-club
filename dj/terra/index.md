@@ -2,7 +2,7 @@
 
 Terra is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-Terra is a techno and psytrance artist based in Japan, tracked on soundcheck, with 17 sets logged across Berlin, Cologne, London and Losangeles and 5 more. Often billed alongside Infected Mushroom, Ambient Pino and Astrix. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
+Terra is a techno and psytrance artist based in Japan, tracked on soundcheck, with 17 sets logged across Berlin, Cologne, London and Los Angeles and 5 more. Often billed alongside Infected Mushroom, Ambient Pino and Astrix. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
 ## Upcoming shows
 

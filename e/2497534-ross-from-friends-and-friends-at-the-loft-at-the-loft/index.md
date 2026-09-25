@@ -1,6 +1,6 @@
 # Ross From Friends and Friends at The Loft at The Loft
 
-Ross From Friends and Friends at The Loft on Sat 10 Oct, Manchester. 2 acts on the bill: Cameo Blush and Ross From Friends. Preview the line-up and save it on soundcheck.
+Ross From Friends and Friends at The Loft on Sat 10 Oct, Manchester. 2 artists on the bill: Cameo Blush and Ross From Friends. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

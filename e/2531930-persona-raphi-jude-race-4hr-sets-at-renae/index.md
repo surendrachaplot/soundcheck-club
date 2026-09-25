@@ -1,6 +1,6 @@
 # Persona - Raphi & Jude Race (4hr Sets) at renae
 
-Persona - Raphi & Jude Race (4hr Sets) at renae on Thu 29 Oct, Manchester. 1 act on the bill: Jude Race. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Persona - Raphi & Jude Race (4hr Sets) at renae on Thu 29 Oct, Manchester. 1 artist on the bill: Jude Race. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

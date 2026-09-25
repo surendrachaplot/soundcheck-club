@@ -1,6 +1,6 @@
 # 5 Years of Super Sonic Booty Bangers at FORGE
 
-5 Years of Super Sonic Booty Bangers at FORGE on Fri 25 Sept, Sheffield. 6 acts on the bill: Charla Green, Chimpo, Mandidextrous and Samurai Breaks and 2 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+5 Years of Super Sonic Booty Bangers at FORGE on Fri 25 Sept, Sheffield. 6 artists on the bill: Charla Green, Chimpo, Mandidextrous and Samurai Breaks and 2 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

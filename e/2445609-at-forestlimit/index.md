@@ -1,6 +1,6 @@
 # 『秘密集会レガリア』 at Forestlimit
 
-『秘密集会レガリア』 at Forestlimit on Sun 11 Oct, Tokyo. 1 act on the bill: Tinny Noll. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
+『秘密集会レガリア』 at Forestlimit on Sun 11 Oct, Tokyo. 1 artist on the bill: Tinny Noll. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

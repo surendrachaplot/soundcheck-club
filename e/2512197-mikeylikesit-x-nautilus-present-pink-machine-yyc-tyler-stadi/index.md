@@ -1,6 +1,6 @@
 # MIKEYLIKESIT x Nautilus present: PINK MACHINE (YYC)•Tyler Stadius•Afrooz•Atrament at TBA
 
-MIKEYLIKESIT x Nautilus present: PINK MACHINE (YYC)•Tyler Stadius•Afrooz•Atrament at TBA on Fri 2 Oct, Vancouver. 3 acts on the bill: Afrooz, Atrament and Tyler Stadius. Deep House. Preview the line-up and save it on soundcheck.
+MIKEYLIKESIT x Nautilus present: PINK MACHINE (YYC)•Tyler Stadius•Afrooz•Atrament at TBA on Fri 2 Oct, Vancouver. 3 artists on the bill: Afrooz, Atrament and Tyler Stadius. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

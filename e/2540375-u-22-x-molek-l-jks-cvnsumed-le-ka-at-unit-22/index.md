@@ -1,6 +1,6 @@
 # U.22 X Molekül: JKS, CVNSUMED, Leïka at Unité.22
 
-U.22 X Molekül: JKS, CVNSUMED, Leïka at Unité.22 on Fri 2 Oct, Marseille. 2 acts on the bill: CVNSUMED and JKS. Techno. Preview the line-up and save it on soundcheck.
+U.22 X Molekül: JKS, CVNSUMED, Leïka at Unité.22 on Fri 2 Oct, Marseille. 2 artists on the bill: CVNSUMED and JKS. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

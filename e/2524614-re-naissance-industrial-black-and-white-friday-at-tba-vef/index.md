@@ -1,6 +1,6 @@
 # RE:NAISSANCE Industrial black and white friday at TBA - VEF
 
-RE:NAISSANCE Industrial black and white friday at TBA - VEF on Fri 13 Nov, Riga. 4 acts on the bill: HP-82, Ikss, Lotty and Sundown. Tech House. Preview the line-up and save it on soundcheck.
+RE:NAISSANCE Industrial black and white friday at TBA - VEF on Fri 13 Nov, Riga. 4 artists on the bill: HP-82, Ikss, Lotty and Sundown. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

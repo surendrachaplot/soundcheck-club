@@ -1,6 +1,6 @@
 # Emika - Fountain Immersive (Dolby Atmos Pre-Release Listening Event) - Berlin at Achtberlin
 
-Emika - Fountain Immersive (Dolby Atmos Pre-Release Listening Event) - Berlin at Achtberlin on Tue 27 Oct, Berlin. 1 act on the bill: Emika. Classical and Electronica. Preview the line-up and save it on soundcheck.
+Emika - Fountain Immersive (Dolby Atmos Pre-Release Listening Event) - Berlin at Achtberlin on Tue 27 Oct, Berlin. 1 artist on the bill: Emika. Classical and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

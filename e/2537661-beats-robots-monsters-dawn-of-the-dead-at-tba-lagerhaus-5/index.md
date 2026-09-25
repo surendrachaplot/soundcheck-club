@@ -1,6 +1,6 @@
 # Beats, Robots, Monsters: Dawn of The Dead at TBA - Lagerhaus#5
 
-Beats, Robots, Monsters: Dawn of The Dead at TBA - Lagerhaus#5 on Fri 30 Oct, Detroit. 2 acts on the bill: Evan Oswald and Pitchblnd. Breakbeat and Experimental. Preview the line-up and save it on soundcheck.
+Beats, Robots, Monsters: Dawn of The Dead at TBA - Lagerhaus#5 on Fri 30 Oct, Detroit. 2 artists on the bill: Evan Oswald and Pitchblnd. Breakbeat and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

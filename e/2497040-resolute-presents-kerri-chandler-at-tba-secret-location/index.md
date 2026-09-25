@@ -1,6 +1,6 @@
 # ReSolute presents: Kerri Chandler at TBA - Secret Location
 
-ReSolute presents: Kerri Chandler at TBA - Secret Location on Sat 12 Dec, Newyorkcity. 1 act on the bill: Kerri Chandler. Techno and House. Preview the line-up and save it on soundcheck.
+ReSolute presents: Kerri Chandler at TBA - Secret Location on Sat 12 Dec, New York City. 1 artist on the bill: Kerri Chandler. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

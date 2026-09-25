@@ -1,6 +1,6 @@
 # DON'T FORGET ~ Naum Gabo (Live), Manisdron (Live), Oriana, Elazer at EXIT Glasgow
 
-DON'T FORGET ~ Naum Gabo (Live), Manisdron (Live), Oriana, Elazer at EXIT Glasgow on Sat 10 Oct, Glasgow. 2 acts on the bill: Elazer and Oriana. Preview the line-up and save it on soundcheck.
+DON'T FORGET ~ Naum Gabo (Live), Manisdron (Live), Oriana, Elazer at EXIT Glasgow on Sat 10 Oct, Glasgow. 2 artists on the bill: Elazer and Oriana. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Adyy Love is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Sat, 17 Oct 2026.
 
-Adyy Love is a house and tech house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Detroit and Washingtondc. Often billed alongside SPCL.K, VYNX and BE EZY. Next up: Flash, Washingtondc on Sat 17 Oct.
+Adyy Love is a house and tech house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Detroit and Washington DC. Often billed alongside SPCL.K, VYNX and BE EZY. Next up: Flash, Washington DC on Sat 17 Oct.
 
 ## Upcoming shows
 

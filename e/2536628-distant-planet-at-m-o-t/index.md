@@ -1,6 +1,6 @@
 # Distant Planet at M.O.T
 
-Distant Planet at M.O.T on Sat 17 Oct, London. 6 acts on the bill: DJ Azure, Dwarde, Harmony (UK) and Hughesee and 2 more. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
+Distant Planet at M.O.T on Sat 17 Oct, London. 6 artists on the bill: DJ Azure, Dwarde, Harmony (UK) and Hughesee and 2 more. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

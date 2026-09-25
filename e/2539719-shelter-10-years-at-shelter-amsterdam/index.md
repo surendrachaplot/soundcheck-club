@@ -1,6 +1,6 @@
 # Shelter 10 YEARS at Shelter Amsterdam
 
-Shelter 10 YEARS at Shelter Amsterdam on Fri 27 Nov, Amsterdam. 12 acts on the bill: Benjamin Berg, Dan Dusty, Job de Jong and Kara Okay and 8 more. House. Preview the line-up and save it on soundcheck.
+Shelter 10 YEARS at Shelter Amsterdam on Fri 27 Nov, Amsterdam. 12 artists on the bill: Benjamin Berg, Dan Dusty, Job de Jong and Kara Okay and 8 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

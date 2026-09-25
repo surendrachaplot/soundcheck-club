@@ -1,6 +1,6 @@
 # METTO MONDAY FT Tjade at Luigis Hot Pizza Bali
 
-METTO MONDAY FT Tjade at Luigis Hot Pizza Bali on Mon 12 Oct, Bali. 2 acts on the bill: PNNY and Tjade. House. Preview the line-up and save it on soundcheck.
+METTO MONDAY FT Tjade at Luigis Hot Pizza Bali on Mon 12 Oct, Bali. 2 artists on the bill: PNNY and Tjade. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

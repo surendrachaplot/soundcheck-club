@@ -1,6 +1,6 @@
 # Free Your Mind x Teletech ADE at Mediahaven - Minervahaven
 
-Free Your Mind x Teletech ADE at Mediahaven - Minervahaven on Wed 21 Oct, Amsterdam. 11 acts on the bill: amara, Azyr, Kander and KIRSTY and 7 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Free Your Mind x Teletech ADE at Mediahaven - Minervahaven on Wed 21 Oct, Amsterdam. 11 artists on the bill: amara, Azyr, Kander and KIRSTY and 7 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

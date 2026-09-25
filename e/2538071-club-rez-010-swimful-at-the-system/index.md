@@ -1,6 +1,6 @@
 # Club Rez 010: Swimful at The System
 
-Club Rez 010: Swimful at The System on Fri 23 Oct, Sheffield. 3 acts on the bill: Omašta, Swimful and Zeki. Grime and Club. Preview the line-up and save it on soundcheck.
+Club Rez 010: Swimful at The System on Fri 23 Oct, Sheffield. 3 artists on the bill: Omašta, Swimful and Zeki. Grime and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

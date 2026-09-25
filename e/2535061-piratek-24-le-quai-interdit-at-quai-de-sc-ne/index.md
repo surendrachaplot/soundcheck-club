@@ -1,6 +1,6 @@
 # PiraTeK 24 - Le Quai Interdit at Quai de Scène
 
-PiraTeK 24 - Le Quai Interdit at Quai de Scène on Fri 25 Sept, Strasbourg. 1 act on the bill: GREMMLiNS. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+PiraTeK 24 - Le Quai Interdit at Quai de Scène on Fri 25 Sept, Strasbourg. 1 artist on the bill: GREMMLiNS. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

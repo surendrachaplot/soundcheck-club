@@ -1,6 +1,6 @@
 # Mugpie 11th Birthday with DJ Masda, Vass & Matthew Neequaye at Distrikt
 
-Mugpie 11th Birthday with DJ Masda, Vass & Matthew Neequaye at Distrikt on Sat 3 Oct, Leeds. 6 acts on the bill: DJ Masda, Ethan McNamara, Matthew Neequaye and Ryan Ingleby and 2 more. Progressive House and Electro. Preview the line-up and save it on soundcheck.
+Mugpie 11th Birthday with DJ Masda, Vass & Matthew Neequaye at Distrikt on Sat 3 Oct, Leeds. 6 artists on the bill: DJ Masda, Ethan McNamara, Matthew Neequaye and Ryan Ingleby and 2 more. Progressive House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Eli Nissan x Somos Produce, La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo
 
-Eli Nissan x Somos Produce, La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo on Sat 26 Sept, Buenosaires. 1 act on the bill: Eli Nissan. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
+Eli Nissan x Somos Produce, La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo on Sat 26 Sept, Buenos Aires. 1 artist on the bill: Eli Nissan. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

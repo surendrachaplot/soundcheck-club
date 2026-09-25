@@ -1,6 +1,6 @@
 # Dark Metaz 5 Years Finale: SOUNDEM at TBA - SECRET WAREHOUSE
 
-Dark Metaz 5 Years Finale: SOUNDEM at TBA - SECRET WAREHOUSE on Sat 26 Sept, Hongkong. 5 acts on the bill: Changa, ILLI (HK), Immuno and JFÜNG and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Dark Metaz 5 Years Finale: SOUNDEM at TBA - SECRET WAREHOUSE on Sat 26 Sept, Hong Kong. 5 artists on the bill: Changa, ILLI (HK), Immuno and JFÜNG and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

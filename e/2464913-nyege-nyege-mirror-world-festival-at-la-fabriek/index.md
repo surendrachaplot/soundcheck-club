@@ -1,6 +1,6 @@
 # Nyege Nyege Mirror World Festival at La Fabriek
 
-Nyege Nyege Mirror World Festival at La Fabriek on Fri 25 Sept, Brussels. 10 acts on the bill: AFRORACK, Arsenal Mikebe, Authentically Plastic and De Schuurman and 6 more. Kuduro and Amapiano. Preview the line-up and save it on soundcheck.
+Nyege Nyege Mirror World Festival at La Fabriek on Fri 25 Sept, Brussels. 10 artists on the bill: AFRORACK, Arsenal Mikebe, Authentically Plastic and De Schuurman and 6 more. Kuduro and Amapiano. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

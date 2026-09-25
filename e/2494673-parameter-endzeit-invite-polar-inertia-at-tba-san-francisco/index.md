@@ -1,6 +1,6 @@
 # Parameter & Endzeit Invite Polar Inertia at TBA - San Francisco
 
-Parameter & Endzeit Invite Polar Inertia at TBA - San Francisco on Fri 6 Nov, Sanfrancisco. 1 act on the bill: Polar Inertia. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Parameter & Endzeit Invite Polar Inertia at TBA - San Francisco on Fri 6 Nov, San Francisco/Oakland. 1 artist on the bill: Polar Inertia. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Guilty Pleasures at Decibel Bar
 
-Guilty Pleasures at Decibel Bar on Tue 29 Sept, Chicago. 2 acts on the bill: Ilana Ariella and samantha rad. House. Preview the line-up and save it on soundcheck.
+Guilty Pleasures at Decibel Bar on Tue 29 Sept, Chicago. 2 artists on the bill: Ilana Ariella and samantha rad. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

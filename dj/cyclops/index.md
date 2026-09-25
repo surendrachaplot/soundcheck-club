@@ -2,7 +2,7 @@
 
 Cyclops is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-Cyclops is a bass and dubstep artist based in Italy, tracked on soundcheck, with 9 sets logged across Austin, Detroit, Losangeles and Newyorkcity and 1 more. Often billed alongside Excision, 999999999 and A Little Sound. Next up: NOS Event Center, Losangeles on Fri 30 Oct.
+Cyclops is a bass and dubstep artist based in Italy, tracked on soundcheck, with 9 sets logged across Austin, Detroit, Los Angeles and New York City and 1 more. Often billed alongside Excision, 999999999 and A Little Sound. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 

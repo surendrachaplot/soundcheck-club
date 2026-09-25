@@ -1,6 +1,6 @@
 # MAYAN WARRIOR ISTANBUL 2026 at Life Park
 
-MAYAN WARRIOR ISTANBUL 2026 at Life Park on Sat 10 Oct, Istanbul. 5 acts on the bill: Damian Lazarus, GiZ, Holder and Mandrake and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+MAYAN WARRIOR ISTANBUL 2026 at Life Park on Sat 10 Oct, Istanbul. 5 artists on the bill: Damian Lazarus, GiZ, Holder and Mandrake and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

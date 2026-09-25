@@ -1,6 +1,6 @@
 # Slave to Rock at Insomnia
 
-Slave to Rock at Insomnia on Fri 2 Oct, Berlin. 1 act on the bill: The Shredder. Industrial and Post-Punk. Preview the line-up and save it on soundcheck.
+Slave to Rock at Insomnia on Fri 2 Oct, Berlin. 1 artist on the bill: The Shredder. Industrial and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

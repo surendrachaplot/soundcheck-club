@@ -1,6 +1,6 @@
 # Dance Division ADE: Identified Patient / Maara / Berkan V8 / Hervé / Jaimy at Benelux BAR
 
-Dance Division ADE: Identified Patient / Maara / Berkan V8 / Hervé / Jaimy at Benelux BAR on Fri 23 Oct, Amsterdam. 5 acts on the bill: Berkan V8, Hervé, Identified Patient and Jaimy (2) and 1 more. House and Electronica. Preview the line-up and save it on soundcheck.
+Dance Division ADE: Identified Patient / Maara / Berkan V8 / Hervé / Jaimy at Benelux BAR on Fri 23 Oct, Amsterdam. 5 artists on the bill: Berkan V8, Hervé, Identified Patient and Jaimy and 1 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ACTRESS at August Hall
 
-ACTRESS at August Hall on Fri 16 Oct, Sanfrancisco. Techno and Ambient. Preview the line-up and save it on soundcheck.
+ACTRESS at August Hall on Fri 16 Oct, San Francisco/Oakland. Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

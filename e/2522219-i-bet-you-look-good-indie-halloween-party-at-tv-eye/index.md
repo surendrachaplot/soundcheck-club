@@ -1,6 +1,6 @@
 # I BET YOU LOOK GOOD (INDIE HALLOWEEN PARTY) at TV EYE
 
-I BET YOU LOOK GOOD (INDIE HALLOWEEN PARTY) at TV EYE on Fri 30 Oct, Newyorkcity. Funk / Soul. Preview the line-up and save it on soundcheck.
+I BET YOU LOOK GOOD (INDIE HALLOWEEN PARTY) at TV EYE on Fri 30 Oct, New York City. Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

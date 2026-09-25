@@ -1,6 +1,6 @@
 # After Hours: A Night with sweetestcape at Secret Location
 
-After Hours: A Night with sweetestcape at Secret Location on Sat 17 Oct, London. 1 act on the bill: sweetestcape. House and Electro. Preview the line-up and save it on soundcheck.
+After Hours: A Night with sweetestcape at Secret Location on Sat 17 Oct, London. 1 artist on the bill: sweetestcape. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Stitch'n' Bitch - MUSICA FESTIVAL [YARD, SARC, Zoë Mc Pherson, Lullahush, a~a~r~d~e~n~t, ELLLL] at Karmen Camina
 
-Stitch'n' Bitch - MUSICA FESTIVAL [YARD, SARC, Zoë Mc Pherson, Lullahush, a~a~r~d~e~n~t, ELLLL] at Karmen Camina on Fri 25 Sept, Strasbourg. 2 acts on the bill: ELLLL and Zoë Mc Pherson. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Stitch'n' Bitch - MUSICA FESTIVAL [YARD, SARC, Zoë Mc Pherson, Lullahush, a~a~r~d~e~n~t, ELLLL] at Karmen Camina on Fri 25 Sept, Strasbourg. 2 artists on the bill: ELLLL and Zoë Mc Pherson. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

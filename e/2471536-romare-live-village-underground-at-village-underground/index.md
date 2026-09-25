@@ -1,6 +1,6 @@
 # Romare (Live) - Village Underground at Village Underground
 
-Romare (Live) - Village Underground on Thu 22 Oct, London. 1 act on the bill: Romare. Preview the line-up and save it on soundcheck.
+Romare (Live) - Village Underground on Thu 22 Oct, London. 1 artist on the bill: Romare. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Major recebe Bernardo Pinheiro convida Benjamin Sallum at Major Bar & Pista
 
-Major recebe Bernardo Pinheiro convida Benjamin Sallum at Major Bar & Pista on Sat 26 Sept, Saopaulo. Preview the line-up and save it on soundcheck.
+Major recebe Bernardo Pinheiro convida Benjamin Sallum at Major Bar & Pista on Sat 26 Sept, Sao Paulo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

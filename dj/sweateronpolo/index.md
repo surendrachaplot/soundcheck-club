@@ -2,7 +2,7 @@
 
 Sweater On Polo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at feedbk, New York City on Sat, 26 Sept 2026.
 
-Sweater On Polo is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Antwerp, Berlin, Copenhagen and Detroit and 5 more. Often billed alongside Alenaudio, Bookworms and Tony Price. Next up: feedbk, Newyorkcity on Sat 26 Sept.
+Sweater On Polo is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Antwerp, Berlin, Copenhagen and Detroit and 5 more. Often billed alongside Alenaudio, Bookworms and Tony Price. Next up: feedbk, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

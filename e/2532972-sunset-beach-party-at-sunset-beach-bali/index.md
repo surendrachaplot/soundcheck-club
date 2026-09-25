@@ -1,6 +1,6 @@
 # Sunset Beach Party at Sunset Beach Bali
 
-Sunset Beach Party at Sunset Beach Bali on Sat 3 Oct, Bali. 1 act on the bill: Lunar Disco. Preview the line-up and save it on soundcheck.
+Sunset Beach Party at Sunset Beach Bali on Sat 3 Oct, Bali. 1 artist on the bill: Lunar Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

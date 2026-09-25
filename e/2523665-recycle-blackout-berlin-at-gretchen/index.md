@@ -1,6 +1,6 @@
 # Recycle: BLACKOUT BERLIN at Gretchen
 
-Recycle: BLACKOUT BERLIN at Gretchen on Sat 14 Nov, Berlin. 5 acts on the bill: alllone, Black Sun Empire, Mc Jamie White and Merikan and 1 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Recycle: BLACKOUT BERLIN at Gretchen on Sat 14 Nov, Berlin. 5 artists on the bill: alllone, Black Sun Empire, Mc Jamie White and Merikan and 1 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

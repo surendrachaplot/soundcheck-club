@@ -2,7 +2,7 @@
 
 Hydroplane is a IDM and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Underground SF, San Francisco/Oakland on Sat, 10 Oct 2026.
 
-Hydroplane is an idm and experimental artist based in United States of America, tracked on soundcheck, with 10 sets logged across Melbourne and Sanfrancisco. Often billed alongside Richard Haig, Nezzy Idy and Adam 2. Next up: Underground SF, Sanfrancisco on Sat 10 Oct.
+Hydroplane is an idm and experimental artist based in United States of America, tracked on soundcheck, with 10 sets logged across Melbourne and San Francisco/Oakland. Often billed alongside Richard Haig, Nezzy Idy and Adam 2. Next up: Underground SF, San Francisco/Oakland on Sat 10 Oct.
 
 ## Upcoming shows
 

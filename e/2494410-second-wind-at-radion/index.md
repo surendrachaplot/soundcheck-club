@@ -1,6 +1,6 @@
 # Second Wind at RADION
 
-Second Wind at RADION on Sun 25 Oct, Amsterdam. 16 acts on the bill: 42nd Avenue, Ben UFO, Caim and Christian AB and 12 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Second Wind at RADION on Sun 25 Oct, Amsterdam. 16 artists on the bill: 42nd Avenue, Ben UFO, Caim and Christian AB and 12 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -25,6 +25,6 @@ Second Wind at RADION on Sun 25 Oct, Amsterdam. 16 acts on the bill: 42nd Avenue
 - OK Williams
 - PHIA
 - Vasco
-- Yumi
+- Yu Mi
 
 *Source: [soundcheck](https://soundcheck.club/e/2494410-second-wind-at-radion/)*

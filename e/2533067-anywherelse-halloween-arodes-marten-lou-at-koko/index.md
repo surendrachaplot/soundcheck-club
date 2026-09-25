@@ -1,6 +1,6 @@
 # Anywherelse Halloween: ARODES, Marten Lou at KOKO
 
-Anywherelse Halloween: ARODES, Marten Lou at KOKO on Fri 30 Oct, London. 4 acts on the bill: ARODES, Khenya, Marten Lou and Rockin Moroccin. House. Preview the line-up and save it on soundcheck.
+Anywherelse Halloween: ARODES, Marten Lou at KOKO on Fri 30 Oct, London. 4 artists on the bill: ARODES, Khenya, Marten Lou and Rockin Moroccin. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

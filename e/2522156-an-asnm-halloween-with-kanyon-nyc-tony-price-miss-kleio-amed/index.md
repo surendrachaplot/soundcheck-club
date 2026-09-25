@@ -1,6 +1,6 @@
 # An ASNM Halloween with Kanyon (NYC), Tony Price, Miss Kleio, & Amedeo at Standard Time
 
-An ASNM Halloween with Kanyon (NYC), Tony Price, Miss Kleio, & Amedeo at Standard Time on Fri 30 Oct, Toronto. 4 acts on the bill: Amedeo (CA), Kanyon, Miss Kleio and Tony Price. Preview the line-up and save it on soundcheck.
+An ASNM Halloween with Kanyon (NYC), Tony Price, Miss Kleio, & Amedeo at Standard Time on Fri 30 Oct, Toronto. 4 artists on the bill: Amedeo (CA), Kanyon, Miss Kleio and Tony Price. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Refuge 1st Birthday Celebration Marathon with Victor Calderone at Refuge
 
-Refuge 1st Birthday Celebration Marathon with Victor Calderone on Sat 26 Sept, Newyorkcity. 1 act on the bill: Victor Calderone. Techno and House. Preview the line-up and save it on soundcheck.
+Refuge 1st Birthday Celebration Marathon with Victor Calderone on Sat 26 Sept, New York City. 1 artist on the bill: Victor Calderone. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

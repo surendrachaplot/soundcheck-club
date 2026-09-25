@@ -1,6 +1,6 @@
 # BCCO x RX: FUTURE.666 at Flux
 
-BCCO x RX: FUTURE.666 at Flux on Fri 2 Oct, Istanbul. 2 acts on the bill: future.666 and Procombo. Techno. Preview the line-up and save it on soundcheck.
+BCCO x RX: FUTURE.666 at Flux on Fri 2 Oct, Istanbul. 2 artists on the bill: future.666 and Procombo. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

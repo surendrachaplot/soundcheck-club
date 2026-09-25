@@ -1,6 +1,6 @@
 # KZA at DJ Bar Bridge
 
-KZA at DJ Bar Bridge on Sat 10 Oct, Tokyo. 1 act on the bill: KZA. House. Preview the line-up and save it on soundcheck.
+KZA at DJ Bar Bridge on Sat 10 Oct, Tokyo. 1 artist on the bill: KZA. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

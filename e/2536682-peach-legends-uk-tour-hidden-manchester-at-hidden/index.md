@@ -1,6 +1,6 @@
 # Peach Legends UK Tour - Hidden, Manchester at Hidden
 
-Peach Legends UK Tour - Hidden, Manchester on Sat 28 Nov, Manchester. 5 acts on the bill: Agnelli & Nelson, Chris Bayne, Daz Manchild Smith and Fisha and 1 more. Trance and Club. Preview the line-up and save it on soundcheck.
+Peach Legends UK Tour - Hidden, Manchester on Sat 28 Nov, Manchester. 5 artists on the bill: Agnelli & Nelson, Chris Bayne, Daz Manchild Smith and Fisha and 1 more. Trance and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

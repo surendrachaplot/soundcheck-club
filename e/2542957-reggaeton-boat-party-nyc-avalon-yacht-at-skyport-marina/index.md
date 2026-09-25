@@ -1,6 +1,6 @@
 # Reggaeton Boat Party NYC - Avalon Yacht at Skyport Marina
 
-Reggaeton Boat Party NYC - Avalon Yacht at Skyport Marina on Sat 26 Sept, Newyorkcity. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
+Reggaeton Boat Party NYC - Avalon Yacht at Skyport Marina on Sat 26 Sept, New York City. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

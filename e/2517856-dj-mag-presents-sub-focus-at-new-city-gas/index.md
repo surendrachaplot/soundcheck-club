@@ -1,6 +1,6 @@
 # DJ Mag presents Sub Focus at New City Gas
 
-DJ Mag presents Sub Focus at New City Gas on Thu 15 Oct, Montreal. 1 act on the bill: Sub Focus. Preview the line-up and save it on soundcheck.
+DJ Mag presents Sub Focus at New City Gas on Thu 15 Oct, Montreal. 1 artist on the bill: Sub Focus. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

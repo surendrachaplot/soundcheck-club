@@ -1,6 +1,6 @@
 # Dave Pearce presents Trance Anthems at NX Newcastle
 
-Dave Pearce presents Trance Anthems at NX Newcastle on Sat 24 Oct, Newcastle. 3 acts on the bill: Dave Pearce, Lange and Signum. Trance and House. Preview the line-up and save it on soundcheck.
+Dave Pearce presents Trance Anthems at NX Newcastle on Sat 24 Oct, Newcastle. 3 artists on the bill: Dave Pearce, Lange and Signum. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

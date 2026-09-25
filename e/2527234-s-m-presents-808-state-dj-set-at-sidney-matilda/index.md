@@ -1,6 +1,6 @@
 # S&M presents: 808 State (DJ Set) at Sidney & Matilda
 
-S&M presents: 808 State (DJ Set) at Sidney & Matilda on Sat 24 Oct, Sheffield. 1 act on the bill: 808 State. Techno and Acid. Preview the line-up and save it on soundcheck.
+S&M presents: 808 State (DJ Set) at Sidney & Matilda on Sat 24 Oct, Sheffield. 1 artist on the bill: 808 State. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

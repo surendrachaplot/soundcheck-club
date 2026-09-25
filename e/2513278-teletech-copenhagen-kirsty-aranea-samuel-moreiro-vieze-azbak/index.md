@@ -1,6 +1,6 @@
 # Teletech Copenhagen: KIRSTY + ARANEA + Samuel Moreiro + Vieze Azbak at Poolen
 
-Teletech Copenhagen: KIRSTY + ARANEA + Samuel Moreiro + Vieze Azbak at Poolen on Fri 18 Dec, Copenhagen. 4 acts on the bill: ARANEA, KIRSTY, Samuel Moriero (2) and Vieze Asbak. Techno. Preview the line-up and save it on soundcheck.
+Teletech Copenhagen: KIRSTY + ARANEA + Samuel Moreiro + Vieze Azbak at Poolen on Fri 18 Dec, Copenhagen. 4 artists on the bill: ARANEA, KIRSTY, Samuel Moriero and Vieze Asbak. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

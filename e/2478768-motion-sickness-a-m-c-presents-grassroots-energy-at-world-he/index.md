@@ -1,6 +1,6 @@
 # Motion Sickness: A.M.C Presents GRASSROOTS ENERGY at World Headquarters
 
-Motion Sickness: A.M.C Presents GRASSROOTS ENERGY at World Headquarters on Fri 16 Oct, Newcastle. 1 act on the bill: A.M.C.. Preview the line-up and save it on soundcheck.
+Motion Sickness: A.M.C Presents GRASSROOTS ENERGY at World Headquarters on Fri 16 Oct, Newcastle. 1 artist on the bill: A.M.C.. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Han G is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Noxe Trinity, New York City on Fri, 25 Sept 2026.
 
-Han G is a house and progressive house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Bristol and Newyorkcity. Often billed alongside Eau Yang, Jake From State Pharm and Achiya. Next up: La Noxe Trinity, Newyorkcity on Fri 25 Sept.
+Han G is a house and progressive house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Bristol and New York City. Often billed alongside Eau Yang, Jake From State Pharm and Achiya. Next up: La Noxe Trinity, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Sissi's Friday with OLIVIA LENSEN, SOLIT & Styn b2b DJ Fucci at SISSI'S Amsterdam
 
-Sissi's Friday with OLIVIA LENSEN, SOLIT & Styn b2b DJ Fucci at SISSI'S Amsterdam on Fri 9 Oct, Amsterdam. 4 acts on the bill: Dj Fucci, OLIVIA LENSEN, SOLIT and Styn. House and Latin Bass. Preview the line-up and save it on soundcheck.
+Sissi's Friday with OLIVIA LENSEN, SOLIT & Styn b2b DJ Fucci at SISSI'S Amsterdam on Fri 9 Oct, Amsterdam. 4 artists on the bill: Dj Fucci, OLIVIA LENSEN, SOLIT and Styn. House and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

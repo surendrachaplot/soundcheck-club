@@ -1,6 +1,6 @@
 # Inafekt / Gerardo Niva / DJ SWISHERMAN B2B doccudder at Mondo
 
-Inafekt / Gerardo Niva / DJ SWISHERMAN B2B doccudder at Mondo on Thu 22 Oct, Madrid. 4 acts on the bill: DJ SWISHERMAN, doccudder, Gerardo Niva and Inafekt. Preview the line-up and save it on soundcheck.
+Inafekt / Gerardo Niva / DJ SWISHERMAN B2B doccudder at Mondo on Thu 22 Oct, Madrid. 4 artists on the bill: DJ SWISHERMAN, doccudder, Gerardo Niva and Inafekt. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

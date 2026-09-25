@@ -1,6 +1,6 @@
 # We <3 Jersey Club at underiolo
 
-We <3 Jersey Club at underiolo on Sat 26 Sept, Warsaw. 3 acts on the bill: anymati, dj neurospicy and domi d.. Club. Preview the line-up and save it on soundcheck.
+We <3 Jersey Club at underiolo on Sat 26 Sept, Warsaw. 3 artists on the bill: anymati, dj neurospicy and domi d.. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

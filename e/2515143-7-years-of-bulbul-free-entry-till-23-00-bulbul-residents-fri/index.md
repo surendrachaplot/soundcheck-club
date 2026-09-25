@@ -1,6 +1,6 @@
 # 7 YEARS OF BULBUL (FREE ENTRY TILL 23:00): Bulbul Residents & Friends at Bulbul Berlin
 
-7 YEARS OF BULBUL (FREE ENTRY TILL 23:00): Bulbul Residents & Friends at Bulbul Berlin on Sat 26 Sept, Berlin. 5 acts on the bill: Almost Famous, Better Call Paul, Marc Brauner and Morisia and 1 more. House and Club. Preview the line-up and save it on soundcheck.
+7 YEARS OF BULBUL (FREE ENTRY TILL 23:00): Bulbul Residents & Friends at Bulbul Berlin on Sat 26 Sept, Berlin. 5 artists on the bill: Almost Famous, Better Call Paul, Marc Brauner and Morisia and 1 more. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

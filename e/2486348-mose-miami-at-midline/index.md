@@ -1,6 +1,6 @@
 # Mose MIAMI at Midline
 
-Mose MIAMI at Midline on Sat 17 Oct, Miami. 1 act on the bill: Mose. Electronica. Preview the line-up and save it on soundcheck.
+Mose MIAMI at Midline on Sat 17 Oct, Miami. 1 artist on the bill: Mose. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

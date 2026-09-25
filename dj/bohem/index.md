@@ -1,14 +1,15 @@
 # BOHEM
 
-BOHEM is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cova Santa, Ibiza on Fri, 25 Sept 2026.
+BOHEM is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cova Santa, Ibiza on Fri, 25 Sept 2026.
 
-BOHEM is an electronica and house artist based in Spain, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona and Ibiza. Often billed alongside Igor Marijuan, Rampue and Parra for Cuva. Next up: Cova Santa, Ibiza on Fri 25 Sept.
+BOHEM is an electronica and house artist based in Spain, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona and Ibiza. Often billed alongside Rampue, Igor Marijuan and SHARE (NL). Next up: Cova Santa, Ibiza on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Cova Santa | Ibiza |
+| Sat, 17 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ BOHEM is an electronica and house artist based in Spain, tracked on soundcheck, 
 
 ## Shares bills with
 
-Igor Marijuan, Rampue, Parra for Cuva
+Rampue, Igor Marijuan, SHARE (NL)
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bohem/)*

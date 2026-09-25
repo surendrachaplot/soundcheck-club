@@ -1,6 +1,6 @@
 # Madam by Night invites: Guerrilla at Madam
 
-Madam by Night invites: Guerrilla on Sat 26 Sept, Amsterdam. 1 act on the bill: Nitefield. Tech House. Preview the line-up and save it on soundcheck.
+Madam by Night invites: Guerrilla on Sat 26 Sept, Amsterdam. 1 artist on the bill: Nitefield. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

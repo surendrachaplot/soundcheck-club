@@ -1,6 +1,6 @@
 # Sacré présente: Régalade 3 Years Birthday at Sacré
 
-Sacré présente: Régalade 3 Years Birthday on Fri 16 Oct, Paris. 5 acts on the bill: Bubs, Davera, GOME and Longneck and 1 more. House. Preview the line-up and save it on soundcheck.
+Sacré présente: Régalade 3 Years Birthday on Fri 16 Oct, Paris. 5 artists on the bill: Bubs, Davera, GOME and Longneck and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

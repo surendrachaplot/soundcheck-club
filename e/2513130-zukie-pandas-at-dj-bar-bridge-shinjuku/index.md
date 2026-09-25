@@ -1,6 +1,6 @@
 # ZUKIE & PANDAS at DJ Bar Bridge Shinjuku
 
-ZUKIE & PANDAS at DJ Bar Bridge Shinjuku on Mon 12 Oct, Tokyo. 1 act on the bill: PANDAS. House and R&B. Preview the line-up and save it on soundcheck.
+ZUKIE & PANDAS at DJ Bar Bridge Shinjuku on Mon 12 Oct, Tokyo. 1 artist on the bill: PANDAS. House and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

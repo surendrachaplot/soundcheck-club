@@ -1,6 +1,6 @@
 # TREKs 2026 at Daikokudani Camping Ground
 
-TREKs 2026 at Daikokudani Camping Ground on Sat 10 Oct, Kyoto. 3 acts on the bill: LiNK (2), Nomad and startambourine. Techno and House. Preview the line-up and save it on soundcheck.
+TREKs 2026 at Daikokudani Camping Ground on Sat 10 Oct, Kyoto. 3 artists on the bill: LiNK, Nomad and startambourine. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

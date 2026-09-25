@@ -1,6 +1,6 @@
 # Collude & Mothership present: Gorge at The Mothership
 
-Collude & Mothership present: Gorge at The Mothership on Sat 26 Sept, Auckland. 2 acts on the bill: Cam Harris and Gorge. House and Deep House. Preview the line-up and save it on soundcheck.
+Collude & Mothership present: Gorge at The Mothership on Sat 26 Sept, Auckland. 2 artists on the bill: Cam Harris and Gorge. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

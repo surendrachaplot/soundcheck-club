@@ -1,14 +1,15 @@
 # Richard Gregory
 
-Richard Gregory is a Trance and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at FOLD, London on Sat, 3 Oct 2026.
+Richard Gregory is a Trance and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at FOLD, London on Sat, 3 Oct 2026.
 
-Richard Gregory is a trance and tech house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Bristol and Ghent and 5 more. Often billed alongside Carl H, Lora Mipsum and Inner Zone. Next up: FOLD, London on Sat 3 Oct.
+Richard Gregory is a trance and tech house artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Bristol and Ghent and 5 more. Often billed alongside Carl H, Lora Mipsum and Inner Zone. Next up: FOLD, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | FOLD | London |
+| Fri, 6 Nov 2026 | Eiger Studios | Leeds |
 | Fri, 4 Dec 2026 | Cobalt Studios | Newcastle |
 
 ## Recently played

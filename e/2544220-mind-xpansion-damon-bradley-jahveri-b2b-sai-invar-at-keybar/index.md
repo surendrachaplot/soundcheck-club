@@ -1,6 +1,6 @@
 # Mind Xpansion: Damon Bradley / Jahveri b2b Sai / INVAR at KEYBAR
 
-Mind Xpansion: Damon Bradley / Jahveri b2b Sai / INVAR at KEYBAR on Sat 10 Oct, Newyorkcity. 2 acts on the bill: Damon Bradley and Jahveri. Techno. Preview the line-up and save it on soundcheck.
+Mind Xpansion: Damon Bradley / Jahveri b2b Sai / INVAR at KEYBAR on Sat 10 Oct, New York City. 2 artists on the bill: Damon Bradley and Jahveri. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

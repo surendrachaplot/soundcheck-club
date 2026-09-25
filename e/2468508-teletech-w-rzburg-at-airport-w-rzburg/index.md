@@ -1,6 +1,6 @@
 # Teletech Würzburg at Airport Würzburg
 
-Teletech Würzburg at Airport Würzburg on Fri 16 Oct, Nurnberg. 13 acts on the bill: dasstudach, GLASSBASS, Kander and Karamustan and 9 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Teletech Würzburg at Airport Würzburg on Fri 16 Oct, Nürnberg. 13 artists on the bill: dasstudach, GLASSBASS, Kander and Karamustan and 9 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

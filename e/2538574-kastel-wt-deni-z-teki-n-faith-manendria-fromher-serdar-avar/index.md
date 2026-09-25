@@ -1,6 +1,6 @@
 # Kastel wt/ DENİZ TEKİN + FAITH + Manendria + FROMHER + SERDAR AVAR + MERT GUZHAN at Kastel
 
-Kastel wt/ DENİZ TEKİN + FAITH + Manendria + FROMHER + SERDAR AVAR + MERT GUZHAN on Sat 26 Sept, Istanbul. 2 acts on the bill: FAITH and Manendria. House. Preview the line-up and save it on soundcheck.
+Kastel wt/ DENİZ TEKİN + FAITH + Manendria + FROMHER + SERDAR AVAR + MERT GUZHAN on Sat 26 Sept, Istanbul. 2 artists on the bill: FAITH and Manendria. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

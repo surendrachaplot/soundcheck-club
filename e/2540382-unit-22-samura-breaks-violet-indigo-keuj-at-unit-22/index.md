@@ -1,6 +1,6 @@
 # Unité.22: Samuraï Breaks, Violet Indigo, Keuj at Unité.22
 
-Unité.22: Samuraï Breaks, Violet Indigo, Keuj on Sat 3 Oct, Marseille. 1 act on the bill: Samurai Breaks. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Unité.22: Samuraï Breaks, Violet Indigo, Keuj on Sat 3 Oct, Marseille. 1 artist on the bill: Samurai Breaks. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

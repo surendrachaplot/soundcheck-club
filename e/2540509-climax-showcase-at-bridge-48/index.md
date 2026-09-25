@@ -1,6 +1,6 @@
 # CLIMAX Showcase at Bridge 48
 
-CLIMAX Showcase at Bridge 48 on Sat 26 Sept, Barcelona. 4 acts on the bill: Emme Musik, Matteo Bigliardi, MEMBRILLA and mita-es. Progressive House. Preview the line-up and save it on soundcheck.
+CLIMAX Showcase at Bridge 48 on Sat 26 Sept, Barcelona. 4 artists on the bill: Emme Musik, Matteo Bigliardi, MEMBRILLA and mita-es. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

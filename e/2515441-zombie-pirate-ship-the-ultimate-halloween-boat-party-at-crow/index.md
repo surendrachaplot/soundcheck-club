@@ -1,6 +1,6 @@
 # Zombie Pirate Ship - The Ultimate Halloween Boat party at Crown Pier
 
-Zombie Pirate Ship - The Ultimate Halloween Boat party at Crown Pier on Sat 31 Oct, London. 3 acts on the bill: Eddie Van Poppel, NYCity Soundz and VanRock. House and Disco. Preview the line-up and save it on soundcheck.
+Zombie Pirate Ship - The Ultimate Halloween Boat party at Crown Pier on Sat 31 Oct, London. 3 artists on the bill: Eddie Van Poppel, NYCity Soundz and VanRock. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

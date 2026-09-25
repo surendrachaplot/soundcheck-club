@@ -1,6 +1,6 @@
 # Tortilla with Depaart at High Club Room
 
-Tortilla with Depaart at High Club Room on Sat 31 Oct, Madrid. 1 act on the bill: Depaart. House and Electronica. Preview the line-up and save it on soundcheck.
+Tortilla with Depaart at High Club Room on Sat 31 Oct, Madrid. 1 artist on the bill: Depaart. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

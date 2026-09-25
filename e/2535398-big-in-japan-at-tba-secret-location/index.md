@@ -1,6 +1,6 @@
 # big in japan at TBA - Secret Location
 
-big in japan at TBA - Secret Location on Sun 27 Sept, Toronto. 1 act on the bill: doria. Progressive House and House. Preview the line-up and save it on soundcheck.
+big in japan at TBA - Secret Location on Sun 27 Sept, Toronto. 1 artist on the bill: doria. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

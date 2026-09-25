@@ -1,6 +1,6 @@
 # Rigzz, Palo Manieri - Lignée, Microcentro - ALLMusicParties at TBA - Lignée, Microcentro
 
-Rigzz, Palo Manieri - Lignée, Microcentro - ALLMusicParties at TBA - Lignée, Microcentro on Sat 3 Oct, Buenosaires. 1 act on the bill: Rigzz. Minimal. Preview the line-up and save it on soundcheck.
+Rigzz, Palo Manieri - Lignée, Microcentro - ALLMusicParties at TBA - Lignée, Microcentro on Sat 3 Oct, Buenos Aires. 1 artist on the bill: Rigzz. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sunday Night: Kush Jones & SHERELLE at Nowadays
 
-Sunday Night: Kush Jones & SHERELLE at Nowadays on Sun 11 Oct, Newyorkcity. 2 acts on the bill: Kush Jones and SHERELLE. Bass and Footwork. Preview the line-up and save it on soundcheck.
+Sunday Night: Kush Jones & SHERELLE at Nowadays on Sun 11 Oct, New York City. 2 artists on the bill: Kush Jones and SHERELLE. Bass and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

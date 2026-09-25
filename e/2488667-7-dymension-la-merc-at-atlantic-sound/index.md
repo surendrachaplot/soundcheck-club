@@ -1,6 +1,6 @@
 # 7ª Dymension LA MERCÉ at Atlantic Sound
 
-7ª Dymension LA MERCÉ at Atlantic Sound on Fri 25 Sept, Barcelona. 2 acts on the bill: AREA ØNE and Jan Krøw. Acid and Singeli. Preview the line-up and save it on soundcheck.
+7ª Dymension LA MERCÉ at Atlantic Sound on Fri 25 Sept, Barcelona. 2 artists on the bill: AREA ØNE and Jan Krøw. Acid and Singeli. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

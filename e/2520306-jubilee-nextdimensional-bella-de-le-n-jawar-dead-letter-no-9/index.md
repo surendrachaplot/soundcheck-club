@@ -1,6 +1,6 @@
 # Jubilee, nextdimensional, Bella De León, Jawar - Dead Letter No.9 at Dead Letter No. 9
 
-Jubilee, nextdimensional, Bella De León, Jawar - Dead Letter No.9 at Dead Letter No. 9 on Fri 2 Oct, Newyorkcity. 3 acts on the bill: JAWAR (3), Jubilee and nextdimensional. House and Electro. Preview the line-up and save it on soundcheck.
+Jubilee, nextdimensional, Bella De León, Jawar - Dead Letter No.9 at Dead Letter No. 9 on Fri 2 Oct, New York City. 3 artists on the bill: JAWAR, Jubilee and nextdimensional. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

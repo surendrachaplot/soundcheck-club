@@ -1,6 +1,6 @@
 # DUAL - Orbiting Shadows at Dual
 
-DUAL - Orbiting Shadows at Dual on Sat 17 Oct, Bangkok. 3 acts on the bill: DOTT, Junki Inoue and Payu. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+DUAL - Orbiting Shadows at Dual on Sat 17 Oct, Bangkok. 3 artists on the bill: DOTT, Junki Inoue and Payu. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

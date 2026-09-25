@@ -1,6 +1,6 @@
 # Animal Crossing presented by Barn × Kijta at Royal Lounge
 
-Animal Crossing presented by Barn × Kijta at Royal Lounge on Sat 26 Sept, Tokyo. 2 acts on the bill: Kijta and OPTIMIST. House and Garage. Preview the line-up and save it on soundcheck.
+Animal Crossing presented by Barn × Kijta at Royal Lounge on Sat 26 Sept, Tokyo. 2 artists on the bill: Kijta and OPTIMIST. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Open Decks with STEEN & Clübsession at SILO
 
-Open Decks with STEEN & Clübsession at SILO on Tue 13 Oct, Newyorkcity. 1 act on the bill: STEEN. Techno and House. Preview the line-up and save it on soundcheck.
+Open Decks with STEEN & Clübsession at SILO on Tue 13 Oct, New York City. 1 artist on the bill: STEEN. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rotes Zimmer at Unter Deck
 
-Rotes Zimmer at Unter Deck on Sat 26 Sept, Munich. 1 act on the bill: Okarim. Tech House. Preview the line-up and save it on soundcheck.
+Rotes Zimmer at Unter Deck on Sat 26 Sept, Munich. 1 artist on the bill: Okarim. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

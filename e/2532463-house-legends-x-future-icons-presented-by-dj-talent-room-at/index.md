@@ -1,6 +1,6 @@
 # House Legends x Future Icons presented by DJ Talent Room at Arca Bar @ Art'otel Amsterdam
 
-House Legends x Future Icons presented by DJ Talent Room at Arca Bar @ Art'otel Amsterdam on Sat 24 Oct, Amsterdam. 3 acts on the bill: Floyo, Francisco Allendes and SkyBrothers. House and Tech House. Preview the line-up and save it on soundcheck.
+House Legends x Future Icons presented by DJ Talent Room at Arca Bar @ Art'otel Amsterdam on Sat 24 Oct, Amsterdam. 3 artists on the bill: Floyo, Francisco Allendes and SkyBrothers. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

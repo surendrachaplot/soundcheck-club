@@ -1,6 +1,6 @@
 # Palais: Lou Nour (fka SICARIA) ft Lady Lykez, Naina, Carré & JAZ IMSKY at Palais
 
-Palais: Lou Nour (fka SICARIA) ft Lady Lykez, Naina, Carré & JAZ IMSKY on Fri 25 Sept, London. 6 acts on the bill: Carré, JAZ IMSKY, Lady Lykez and Lou Nour and 2 more. Preview the line-up and save it on soundcheck.
+Palais: Lou Nour (fka SICARIA) ft Lady Lykez, Naina, Carré & JAZ IMSKY on Fri 25 Sept, London. 6 artists on the bill: Carré, JAZ IMSKY, Lady Lykez and Lou Nour and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

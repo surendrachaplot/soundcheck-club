@@ -1,6 +1,6 @@
 # Conway The Machine feat. Daringer (US) + Trepac + Nyboe at Pumpehuset
 
-Conway The Machine feat. Daringer (US) + Trepac + Nyboe at Pumpehuset on Wed 21 Oct, Copenhagen. 2 acts on the bill: Conway and Nyboe. Hip-Hop. Preview the line-up and save it on soundcheck.
+Conway The Machine feat. Daringer (US) + Trepac + Nyboe at Pumpehuset on Wed 21 Oct, Copenhagen. 2 artists on the bill: Conway and Nyboe. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

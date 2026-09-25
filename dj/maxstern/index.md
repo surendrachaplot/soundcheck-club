@@ -2,7 +2,7 @@
 
 Max Stern is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Max Stern is a tech house and house artist based in Chile, tracked on soundcheck, with 60 sets logged across Miami and Newyorkcity. Often billed alongside Bakke, DIFFER and Thunderpony. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Max Stern is a tech house and house artist based in Chile, tracked on soundcheck, with 60 sets logged across Miami and New York City. Often billed alongside Bakke, DIFFER and Thunderpony. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 

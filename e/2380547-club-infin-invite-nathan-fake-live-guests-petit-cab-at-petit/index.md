@@ -1,6 +1,6 @@
 # Club inFiné invite Nathan Fake Live + guests @ Petit Cab at Petit CAB
 
-Club inFiné invite Nathan Fake Live + guests @ Petit Cab at Petit CAB on Fri 11 Dec, Marseille. 1 act on the bill: Nathan Fake. Electro. Preview the line-up and save it on soundcheck.
+Club inFiné invite Nathan Fake Live + guests @ Petit Cab at Petit CAB on Fri 11 Dec, Marseille. 1 artist on the bill: Nathan Fake. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

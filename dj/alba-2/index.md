@@ -2,7 +2,7 @@
 
 Alba (2) is a Club and Jazz artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ruby Room, Tokyo on Sat, 26 Sept 2026.
 
-Alba (2) is a club and jazz artist based in Spain, tracked on soundcheck, with 23 sets logged across Berlin, Copenhagen, Cork and Dublin and 3 more. Often billed alongside Tadhg K, Síofra and Cathy Flynn. Next up: Ruby Room, Tokyo on Sat 26 Sept.
+Alba is a club and jazz artist based in Spain, tracked on soundcheck, with 23 sets logged across Berlin, Copenhagen, Cork and Dublin and 3 more. Often billed alongside Tadhg K, Síofra and Cathy Flynn. Next up: Ruby Room, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 

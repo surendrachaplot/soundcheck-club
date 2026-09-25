@@ -1,6 +1,6 @@
 # oskar med k at Fonda Theatre
 
-oskar med k at Fonda Theatre on Wed 7 Oct, Losangeles. 1 act on the bill: oskar med k. Preview the line-up and save it on soundcheck.
+oskar med k at Fonda Theatre on Wed 7 Oct, Los Angeles. 1 artist on the bill: oskar med k. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

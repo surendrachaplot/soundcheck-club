@@ -1,6 +1,6 @@
 # Josh Baker at Radius
 
-Josh Baker at Radius on Fri 27 Nov, Chicago. 1 act on the bill: Josh Baker. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+Josh Baker at Radius on Fri 27 Nov, Chicago. 1 artist on the bill: Josh Baker. Minimal and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

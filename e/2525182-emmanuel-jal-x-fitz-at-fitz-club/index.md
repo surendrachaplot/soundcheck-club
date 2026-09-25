@@ -1,6 +1,6 @@
 # Emmanuel Jal x FITZ at Fitz Club
 
-Emmanuel Jal x FITZ at Fitz Club on Fri 25 Sept, Madrid. 1 act on the bill: Emmanuel Jal. House. Preview the line-up and save it on soundcheck.
+Emmanuel Jal x FITZ at Fitz Club on Fri 25 Sept, Madrid. 1 artist on the bill: Emmanuel Jal. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

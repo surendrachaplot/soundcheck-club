@@ -1,8 +1,8 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at [UNVRS], Ibiza on Thu, 24 Sept 2026.
+Adriatique is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at [UNVRS], Ibiza on Thu, 24 Sept 2026.
 
-Adriatique is a techno and house artist based in Switzerland, tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Mind Against, Colyn and Âme. Next up: [UNVRS], Ibiza on Thu 24 Sept.
+Adriatique is a techno and house artist based in Switzerland, tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Mind Against, Colyn and Âme. Next up: [UNVRS], Ibiza on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Adriatique is a techno and house artist based in Switzerland, tracked on soundch
 | Sat, 26 Sept 2026 | Vale do Anhangabaú | Sao Paulo |
 | Fri, 2 Oct 2026 | Pacha Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Tour & Taxis | Brussels |
+| Fri, 9 Oct 2026 | The Great Pyramids OF Giza | Egypt |
 | Sat, 10 Oct 2026 | [UNVRS] | Ibiza |
 | Sat, 24 Oct 2026 | Sugarfactory | Amsterdam |
 | Sun, 25 Oct 2026 | The Loft Amsterdam | Amsterdam |

@@ -1,6 +1,6 @@
 # BLUR with Paquita Gordon, Pridi, Ben Kamal, Casper at UMI
 
-BLUR with Paquita Gordon, Pridi, Ben Kamal, Casper at UMI on Sat 26 Sept, Brussels. 4 acts on the bill: Ben Kamal, Casper (FIN), Paquita Gordon and Pridi. House and Electro. Preview the line-up and save it on soundcheck.
+BLUR with Paquita Gordon, Pridi, Ben Kamal, Casper at UMI on Sat 26 Sept, Brussels. 4 artists on the bill: Ben Kamal, Casper (FIN), Paquita Gordon and Pridi. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

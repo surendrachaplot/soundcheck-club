@@ -2,7 +2,7 @@
 
 EFTPOS MINIMUM is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pisco Bar, Kuala Lumpur on Fri, 9 Oct 2026.
 
-EFTPOS MINIMUM is a breakbeat and techno artist tracked on soundcheck, with 12 sets logged across Kualalumpur. Often billed alongside TRACTION CONTROL, Notion A and Alfie Rrari. Next up: Pisco Bar, Kualalumpur on Fri 9 Oct.
+EFTPOS MINIMUM is a breakbeat and techno artist tracked on soundcheck, with 12 sets logged across Kuala Lumpur. Often billed alongside TRACTION CONTROL, Notion A and Alfie Rrari. Next up: Pisco Bar, Kuala Lumpur on Fri 9 Oct.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 juSt b is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
 
-juSt b is a house and techno artist based in Canada, tracked on soundcheck, with 9 sets logged across Helsinki, London, Newcastle and Sanfrancisco and 1 more. Often billed alongside Amen Sage, Ashkan Dian and Barroness. Next up: The Clayshed, Newcastle on Sat 26 Sept.
+juSt b is a house and techno artist based in Canada, tracked on soundcheck, with 9 sets logged across Helsinki, London, Newcastle and San Francisco/Oakland and 1 more. Often billed alongside Amen Sage, Ashkan Dian and Barroness. Next up: The Clayshed, Newcastle on Sat 26 Sept.
 
 ## Upcoming shows
 

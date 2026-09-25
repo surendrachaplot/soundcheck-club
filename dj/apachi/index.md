@@ -2,7 +2,7 @@
 
 Apachi is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Shelter, Seoul on Sat, 26 Sept 2026.
 
-Apachi is a techno and electro artist based in South Korea, tracked on soundcheck, with 121 sets logged across Bangkok and Seoul. Often billed alongside Honn, KINGMCK and X2C (1). Next up: Shelter, Seoul on Sat 26 Sept.
+Apachi is a techno and electro artist based in South Korea, tracked on soundcheck, with 121 sets logged across Bangkok and Seoul. Often billed alongside Honn, KINGMCK and X2C. Next up: Shelter, Seoul on Sat 26 Sept.
 
 ## Upcoming shows
 

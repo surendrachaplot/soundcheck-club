@@ -1,6 +1,6 @@
 # FUQIT: Willo at Q Nightclub
 
-FUQIT: Willo at Q Nightclub on Thu 8 Oct, Seattle. 1 act on the bill: Willo. Preview the line-up and save it on soundcheck.
+FUQIT: Willo at Q Nightclub on Thu 8 Oct, Seattle. 1 artist on the bill: Willo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

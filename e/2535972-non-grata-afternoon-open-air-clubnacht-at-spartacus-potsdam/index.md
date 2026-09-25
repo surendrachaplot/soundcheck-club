@@ -1,6 +1,6 @@
 # NON GRATA Afternoon Open Air + Clubnacht at Spartacus Potsdam
 
-NON GRATA Afternoon Open Air + Clubnacht at Spartacus Potsdam on Sat 3 Oct, Berlin. 3 acts on the bill: Carluschka, DJ Don Höschen and Katze Storno. Techno and House. Preview the line-up and save it on soundcheck.
+NON GRATA Afternoon Open Air + Clubnacht at Spartacus Potsdam on Sat 3 Oct, Berlin. 3 artists on the bill: Carluschka, DJ Don Höschen and Katze Storno. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

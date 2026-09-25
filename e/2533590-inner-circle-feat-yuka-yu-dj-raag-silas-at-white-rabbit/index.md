@@ -1,6 +1,6 @@
 # Inner Circle feat. YUKA YU + DJ RAAG + Silas at White Rabbit
 
-Inner Circle feat. YUKA YU + DJ RAAG + Silas at White Rabbit on Thu 8 Oct, Sanfrancisco. 2 acts on the bill: Mackswell and YUKA YU. House and Club. Preview the line-up and save it on soundcheck.
+Inner Circle feat. YUKA YU + DJ RAAG + Silas at White Rabbit on Thu 8 Oct, San Francisco/Oakland. 2 artists on the bill: Mackswell and YUKA YU. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

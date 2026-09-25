@@ -1,6 +1,6 @@
 # Takuya Nakamura [Live] - In The Round at Belgrave Music Hall
 
-Takuya Nakamura [Live] - In The Round at Belgrave Music Hall on Mon 12 Oct, Leeds. 1 act on the bill: Takuya Nakamura. Drum & Bass and Jazz. Preview the line-up and save it on soundcheck.
+Takuya Nakamura [Live] - In The Round at Belgrave Music Hall on Mon 12 Oct, Leeds. 1 artist on the bill: Takuya Nakamura. Drum & Bass and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

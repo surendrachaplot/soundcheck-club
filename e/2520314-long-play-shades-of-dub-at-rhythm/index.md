@@ -1,6 +1,6 @@
 # Long Play: Shades of Dub at Rhythm
 
-Long Play: Shades of Dub at Rhythm on Tue 29 Sept, Toronto. 1 act on the bill: Ciel. Preview the line-up and save it on soundcheck.
+Long Play: Shades of Dub at Rhythm on Tue 29 Sept, Toronto. 1 artist on the bill: Ciel. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

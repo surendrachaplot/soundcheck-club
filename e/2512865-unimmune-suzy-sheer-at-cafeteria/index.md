@@ -1,6 +1,6 @@
 # unimmune: SUZY SHEER at Cafeteria
 
-unimmune: SUZY SHEER at Cafeteria on Sat 7 Nov, Toronto. 2 acts on the bill: Indie Sleaze and Patch+. Electro and Pop. Preview the line-up and save it on soundcheck.
+unimmune: SUZY SHEER at Cafeteria on Sat 7 Nov, Toronto. 2 artists on the bill: Indie Sleaze and Patch+. Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

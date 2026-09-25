@@ -1,6 +1,6 @@
 # oskar med k at Wagon
 
-oskar med k at Wagon on Sun 15 Nov, Madrid. 1 act on the bill: oskar med k. House and Electronica. Preview the line-up and save it on soundcheck.
+oskar med k at Wagon on Sun 15 Nov, Madrid. 1 artist on the bill: oskar med k. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

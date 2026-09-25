@@ -1,6 +1,6 @@
 # Memory Box with James Zabiela at Patterns
 
-Memory Box with James Zabiela at Patterns on Sat 17 Oct, Brighton. 2 acts on the bill: James Zabiela and Robin Ball. Preview the line-up and save it on soundcheck.
+Memory Box with James Zabiela at Patterns on Sat 17 Oct, Brighton. 2 artists on the bill: James Zabiela and Robin Ball. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

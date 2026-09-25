@@ -1,6 +1,6 @@
 # nice 2 be nice at OHM
 
-nice 2 be nice at OHM on Sat 17 Oct, Berlin. 6 acts on the bill: Asphalt DJ, Dj Heartbreak, Jesse G and Naomi (Berlin) and 2 more. House and Dub Techno. Preview the line-up and save it on soundcheck.
+nice 2 be nice at OHM on Sat 17 Oct, Berlin. 6 artists on the bill: Asphalt DJ, Dj Heartbreak, Jesse G and Naomi (Berlin) and 2 more. House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RIP with Osmosis Jones at Circus Tokyo
 
-RIP with Osmosis Jones at Circus Tokyo on Sat 31 Oct, Tokyo. 1 act on the bill: Osmosis Jones. House and Garage. Preview the line-up and save it on soundcheck.
+RIP with Osmosis Jones at Circus Tokyo on Sat 31 Oct, Tokyo. 1 artist on the bill: Osmosis Jones. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

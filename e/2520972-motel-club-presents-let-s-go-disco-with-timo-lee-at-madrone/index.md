@@ -1,6 +1,6 @@
 # Motel Club presents LET'S GO DISCO with Timo Lee at Madrone Art Bar
 
-Motel Club presents LET'S GO DISCO with Timo Lee at Madrone Art Bar on Sat 26 Sept, Sanfrancisco. 3 acts on the bill: Malachi, Motel Club and Timo Lee. House and Disco. Preview the line-up and save it on soundcheck.
+Motel Club presents LET'S GO DISCO with Timo Lee at Madrone Art Bar on Sat 26 Sept, San Francisco/Oakland. 3 artists on the bill: Malachi, Motel Club and Timo Lee. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 15 Years Gretchen: Romare + Wayne Snow *live at Gretchen
 
-15 Years Gretchen: Romare + Wayne Snow *live on Sat 3 Oct, Berlin. 2 acts on the bill: Romare and Wayne Snow. Funk / Soul and Electronica. Preview the line-up and save it on soundcheck.
+15 Years Gretchen: Romare + Wayne Snow *live on Sat 3 Oct, Berlin. 2 artists on the bill: Romare and Wayne Snow. Funk / Soul and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Analog Culture x Happyfun Happyhour at Happyfun Hideaway
 
-Analog Culture x Happyfun Happyhour at Happyfun Hideaway on Sat 26 Sept, Newyorkcity. 4 acts on the bill: _briggs, Hidden Order, LUCIA. and Pat Bradley. House. Preview the line-up and save it on soundcheck.
+Analog Culture x Happyfun Happyhour at Happyfun Hideaway on Sat 26 Sept, New York City. 4 artists on the bill: _briggs, Hidden Order, LUCIA. and Pat Bradley. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

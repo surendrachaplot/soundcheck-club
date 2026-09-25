@@ -1,6 +1,6 @@
 # LouderNoize X Spinners - Smokey Bubblin' B (FREE) at Distrikt
 
-LouderNoize X Spinners - Smokey Bubblin' B (FREE) at Distrikt on Fri 25 Sept, Leeds. 1 act on the bill: Smokey Bubblin' B. House and Garage. Preview the line-up and save it on soundcheck.
+LouderNoize X Spinners - Smokey Bubblin' B (FREE) at Distrikt on Fri 25 Sept, Leeds. 1 artist on the bill: Smokey Bubblin' B. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

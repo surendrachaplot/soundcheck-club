@@ -1,6 +1,6 @@
 # Morning Mass pres. Tony Romera at The Comfort Zone
 
-Morning Mass pres. Tony Romera at The Comfort Zone on Sat 14 Nov, Toronto. 2 acts on the bill: Theta State and Tony Romera. House. Preview the line-up and save it on soundcheck.
+Morning Mass pres. Tony Romera at The Comfort Zone on Sat 14 Nov, Toronto. 2 artists on the bill: Theta State and Tony Romera. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Sebastián is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 25 Sept 2026.
 
-Sebastián is a house and techno artist based in Peru, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Buenosaires and Lisbon and 8 more. Often billed alongside Rufo, Onoffon and Christian Arcila. Next up: Les Enfants Brillants, Barcelona on Fri 25 Sept.
+Sebastián is a house and techno artist based in Peru, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Buenos Aires and Lisbon and 8 more. Often billed alongside Rufo, Onoffon and Christian Arcila. Next up: Les Enfants Brillants, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 

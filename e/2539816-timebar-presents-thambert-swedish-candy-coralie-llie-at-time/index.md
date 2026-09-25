@@ -1,6 +1,6 @@
 # Timebar presents Thambert - Swedish Candy - Coralie Llie at Timebar
 
-Timebar presents Thambert - Swedish Candy - Coralie Llie on Fri 9 Oct, Stockholm. 1 act on the bill: Coralie Llie. House and Deep House. Preview the line-up and save it on soundcheck.
+Timebar presents Thambert - Swedish Candy - Coralie Llie on Fri 9 Oct, Stockholm. 1 artist on the bill: Coralie Llie. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

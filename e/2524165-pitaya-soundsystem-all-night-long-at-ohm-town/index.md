@@ -1,6 +1,6 @@
 # Pitaya Soundsystem All Night Long at OHM Town
 
-Pitaya Soundsystem All Night Long at OHM Town on Sat 26 Sept, Nantes. 1 act on the bill: Pitaya Soundsystem. Preview the line-up and save it on soundcheck.
+Pitaya Soundsystem All Night Long at OHM Town on Sat 26 Sept, Nantes. 1 artist on the bill: Pitaya Soundsystem. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

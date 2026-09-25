@@ -1,6 +1,6 @@
 # Bubbling Baby x Huis van Koperblond - Free Entry (ADE Special) at Huis van Iemand Anders
 
-Bubbling Baby x Huis van Koperblond - Free Entry (ADE Special) at Huis van Iemand Anders on Thu 22 Oct, Amsterdam. 2 acts on the bill: Koperblond and Yucky. Preview the line-up and save it on soundcheck.
+Bubbling Baby x Huis van Koperblond - Free Entry (ADE Special) at Huis van Iemand Anders on Thu 22 Oct, Amsterdam. 2 artists on the bill: Koperblond and Yucky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

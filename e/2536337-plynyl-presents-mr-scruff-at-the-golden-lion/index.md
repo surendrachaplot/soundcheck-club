@@ -1,6 +1,6 @@
 # Plynyl presents - Mr Scruff at The Golden Lion
 
-Plynyl presents - Mr Scruff at The Golden Lion on Fri 6 Nov, Manchester. 1 act on the bill: Mr Scruff. House and Disco. Preview the line-up and save it on soundcheck.
+Plynyl presents - Mr Scruff at The Golden Lion on Fri 6 Nov, Manchester. 1 artist on the bill: Mr Scruff. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Wayne Williams is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Le Nocturne, Chicago on Fri, 30 Oct 2026.
 
-Wayne Williams is a house and deep house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Chicago, Detroit, London and Losangeles and 2 more. Often billed alongside Terry Hunter, Mike Dunn and Adorio. Next up: Le Nocturne, Chicago on Fri 30 Oct.
+Wayne Williams is a house and deep house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Chicago, Detroit, London and Los Angeles and 2 more. Often billed alongside Terry Hunter, Mike Dunn and Adorio. Next up: Le Nocturne, Chicago on Fri 30 Oct.
 
 ## Upcoming shows
 

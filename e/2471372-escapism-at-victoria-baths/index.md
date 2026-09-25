@@ -1,6 +1,6 @@
 # Escapism at Victoria Baths
 
-Escapism at Victoria Baths on Sat 10 Oct, Manchester. 3 acts on the bill: Deep Dish, Pattn and Smokin Jo. Progressive House and House. Preview the line-up and save it on soundcheck.
+Escapism at Victoria Baths on Sat 10 Oct, Manchester. 3 artists on the bill: Deep Dish, Pattn and Smokin Jo. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

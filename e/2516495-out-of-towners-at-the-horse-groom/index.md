@@ -1,6 +1,6 @@
 # Out of Towners at The Horse & Groom
 
-Out of Towners at The Horse & Groom on Sat 26 Sept, London. 2 acts on the bill: Dode and Estelle Eivissa. House and Balearic. Preview the line-up and save it on soundcheck.
+Out of Towners at The Horse & Groom on Sat 26 Sept, London. 2 artists on the bill: Dode and Estelle Eivissa. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

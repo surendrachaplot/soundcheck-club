@@ -1,6 +1,6 @@
 # Objekt (JP) at Plano B
 
-Objekt (JP) at Plano B on Fri 20 Nov, Porto. 1 act on the bill: Objekt. Electronica. Preview the line-up and save it on soundcheck.
+Objekt (JP) at Plano B on Fri 20 Nov, Porto. 1 artist on the bill: Objekt. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

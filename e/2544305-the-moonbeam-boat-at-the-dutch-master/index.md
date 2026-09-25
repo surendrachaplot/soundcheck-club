@@ -1,6 +1,6 @@
 # The Moonbeam Boat at The Dutch Master
 
-The Moonbeam Boat at The Dutch Master on Sat 24 Oct, London. 2 acts on the bill: Sancho Panza and Smokin Jo. House and Disco. Preview the line-up and save it on soundcheck.
+The Moonbeam Boat at The Dutch Master on Sat 24 Oct, London. 2 artists on the bill: Sancho Panza and Smokin Jo. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

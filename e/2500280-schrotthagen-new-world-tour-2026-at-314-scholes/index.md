@@ -1,6 +1,6 @@
 # Schrotthagen: New World Tour 2026 at 314 Scholes
 
-Schrotthagen: New World Tour 2026 at 314 Scholes on Sat 31 Oct, Newyorkcity. 1 act on the bill: Schrotthagen. Techno. Preview the line-up and save it on soundcheck.
+Schrotthagen: New World Tour 2026 at 314 Scholes on Sat 31 Oct, New York City. 1 artist on the bill: Schrotthagen. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

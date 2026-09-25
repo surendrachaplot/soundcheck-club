@@ -2,7 +2,7 @@
 
 Dekerim is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Alte Kaserne, Zurich on Fri, 25 Sept 2026.
 
-Dekerim is a techno and trance artist based in Switzerland, tracked on soundcheck, with 41 sets logged across Basel and Zurich. Often billed alongside Galopp, FALCO (2) and MARCISM. Next up: Alte Kaserne, Zurich on Fri 25 Sept.
+Dekerim is a techno and trance artist based in Switzerland, tracked on soundcheck, with 41 sets logged across Basel and Zurich. Often billed alongside Galopp, FALCO and MARCISM. Next up: Alte Kaserne, Zurich on Fri 25 Sept.
 
 ## Upcoming shows
 

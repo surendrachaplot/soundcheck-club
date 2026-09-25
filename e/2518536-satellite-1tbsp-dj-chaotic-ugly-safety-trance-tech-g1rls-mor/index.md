@@ -1,6 +1,6 @@
 # Satellite: 1tbsp, DJ Chaotic Ugly, Safety Trance, TECH G1RLS, & More at The Ground at Club Space
 
-Satellite: 1tbsp, DJ Chaotic Ugly, Safety Trance, TECH G1RLS, & More at The Ground at Club Space on Sun 18 Oct, Miami. 2 acts on the bill: 1tbsp and Safety Trance. House and Experimental. Preview the line-up and save it on soundcheck.
+Satellite: 1tbsp, DJ Chaotic Ugly, Safety Trance, TECH G1RLS, & More at The Ground at Club Space on Sun 18 Oct, Miami. 2 artists on the bill: 1tbsp and Safety Trance. House and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

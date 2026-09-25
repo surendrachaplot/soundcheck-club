@@ -1,6 +1,6 @@
 # Free Trash at Jimmy Valentine's Lonely Hearts Club
 
-Free Trash at Jimmy Valentine's Lonely Hearts Club on Fri 25 Sept, Washingtondc. 1 act on the bill: Rich Thomas. Techno and House. Preview the line-up and save it on soundcheck.
+Free Trash at Jimmy Valentine's Lonely Hearts Club on Fri 25 Sept, Washington DC. 1 artist on the bill: Rich Thomas. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

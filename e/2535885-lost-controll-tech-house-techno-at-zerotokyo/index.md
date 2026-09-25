@@ -1,6 +1,6 @@
 # Lost Controll - TECH HOUSE / TECHNO - at ZEROTOKYO
 
-Lost Controll - TECH HOUSE / TECHNO - at ZEROTOKYO on Sat 3 Oct, Tokyo. 5 acts on the bill: ecec, HATSUYUKI, okadada and SHIGEKI NISHIKAWA and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Lost Controll - TECH HOUSE / TECHNO - at ZEROTOKYO on Sat 3 Oct, Tokyo. 5 artists on the bill: ecec, HATSUYUKI, okadada and SHIGEKI NISHIKAWA and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

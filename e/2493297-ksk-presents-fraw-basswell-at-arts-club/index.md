@@ -1,6 +1,6 @@
 # KSK Presents : FRAW + BASSWELL at Arts Club
 
-KSK Presents : FRAW + BASSWELL at Arts Club on Fri 6 Nov, Liverpool. 1 act on the bill: Basswell. Techno. Preview the line-up and save it on soundcheck.
+KSK Presents : FRAW + BASSWELL at Arts Club on Fri 6 Nov, Liverpool. 1 artist on the bill: Basswell. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

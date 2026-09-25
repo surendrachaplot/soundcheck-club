@@ -1,6 +1,6 @@
 # SASSY 009 - In the Round at Elsewhere
 
-SASSY 009 - In the Round at Elsewhere on Thu 19 Nov, Newyorkcity. 1 act on the bill: SASSY 009. Preview the line-up and save it on soundcheck.
+SASSY 009 - In the Round at Elsewhere on Thu 19 Nov, New York City. 1 artist on the bill: SASSY 009. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

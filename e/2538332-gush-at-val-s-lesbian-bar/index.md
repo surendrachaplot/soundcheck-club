@@ -1,6 +1,6 @@
 # GUSH at Val’s Lesbian Bar
 
-GUSH at Val’s Lesbian Bar on Fri 25 Sept, Philadelphia. 2 acts on the bill: Vicenta and xlucid. Preview the line-up and save it on soundcheck.
+GUSH at Val’s Lesbian Bar on Fri 25 Sept, Philadelphia. 2 artists on the bill: Vicenta and xlucid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

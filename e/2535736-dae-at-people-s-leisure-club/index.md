@@ -1,6 +1,6 @@
 # Dae at People's Leisure Club
 
-Dae at People's Leisure Club on Sat 21 Nov, Edinburgh. 4 acts on the bill: Duellist, Fear-E, Neil Templar and Thornback. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+Dae at People's Leisure Club on Sat 21 Nov, Edinburgh. 4 artists on the bill: Duellist, Fear-E, Neil Templar and Thornback. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

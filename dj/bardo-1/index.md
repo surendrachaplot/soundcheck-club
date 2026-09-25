@@ -2,7 +2,7 @@
 
 Bardo (1) is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OT301, Amsterdam on Sat, 3 Oct 2026.
 
-Bardo (1) is a techno and ambient artist based in Spain, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona and Berlin. Often billed alongside Ousia Sound, Phalcon and Retter (DE). Next up: OT301, Amsterdam on Sat 3 Oct.
+Bardo is a techno and ambient artist based in Spain, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona and Berlin. Often billed alongside Ousia Sound, Phalcon and Retter (DE). Next up: OT301, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 

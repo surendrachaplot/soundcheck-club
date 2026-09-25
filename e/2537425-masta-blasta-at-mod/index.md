@@ -1,6 +1,6 @@
 # MASTA BLASTA at MOD
 
-MASTA BLASTA at MOD on Fri 25 Sept, Tallinn. 1 act on the bill: Kässar. Bass and Garage. Preview the line-up and save it on soundcheck.
+MASTA BLASTA at MOD on Fri 25 Sept, Tallinn. 1 artist on the bill: Kässar. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

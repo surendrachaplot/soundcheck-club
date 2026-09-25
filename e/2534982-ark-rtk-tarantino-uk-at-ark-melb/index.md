@@ -1,6 +1,6 @@
 # ark // RTK Tarantino [UK] - ????? [??] at ark (Melb)
 
-ark // RTK Tarantino [UK] - ????? [??] at ark (Melb) on Sat 12 Dec, Melbourne. 1 act on the bill: RTK Tarantino. House and Garage. Preview the line-up and save it on soundcheck.
+ark // RTK Tarantino [UK] - ????? [??] at ark (Melb) on Sat 12 Dec, Melbourne. 1 artist on the bill: RTK Tarantino. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

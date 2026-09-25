@@ -1,6 +1,6 @@
 # Xtasy 12: Feral presented by Tara Dikhof (bi/pansexual kink rave) at TBA - Rogers Park Chicago
 
-Xtasy 12: Feral presented by Tara Dikhof (bi/pansexual kink rave) at TBA - Rogers Park Chicago on Sun 11 Oct, Chicago. 5 acts on the bill: JAXX., Jon McCray, PIP3DR3AM and R°sha and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Xtasy 12: Feral presented by Tara Dikhof (bi/pansexual kink rave) at TBA - Rogers Park Chicago on Sun 11 Oct, Chicago. 5 artists on the bill: JAXX., Jon McCray, PIP3DR3AM and R°sha and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

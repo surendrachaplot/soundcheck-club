@@ -1,6 +1,6 @@
 # The End Of An Era: Icons at Silent Studios
 
-The End Of An Era: Icons at Silent Studios on Sat 10 Oct, Auckland. 1 act on the bill: Greg Churchill. House. Preview the line-up and save it on soundcheck.
+The End Of An Era: Icons at Silent Studios on Sat 10 Oct, Auckland. 1 artist on the bill: Greg Churchill. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

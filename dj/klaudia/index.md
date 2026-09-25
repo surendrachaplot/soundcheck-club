@@ -2,7 +2,7 @@
 
 KLAUDIA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Smolna, Warsaw on Sat, 3 Oct 2026.
 
-KLAUDIA is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Mexicocity, Stockholm and Tokyo and 1 more. Often billed alongside Rosa Luxemburg, Amo (NO) and Farry. Next up: Smolna, Warsaw on Sat 3 Oct.
+KLAUDIA is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Mexico City, Stockholm and Tokyo and 1 more. Often billed alongside Rosa Luxemburg, Amo (NO) and Farry. Next up: Smolna, Warsaw on Sat 3 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # LED presents DENNETT [IN THE ROUND] at EQ San Diego
 
-LED presents DENNETT [IN THE ROUND] at EQ San Diego on Fri 6 Nov, Sandiego. Preview the line-up and save it on soundcheck.
+LED presents DENNETT [IN THE ROUND] at EQ San Diego on Fri 6 Nov, San Diego. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

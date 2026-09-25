@@ -2,7 +2,7 @@
 
 Meca is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Bali, Costanera, Buenos Aires on Sat, 26 Sept 2026.
 
-Meca is a house and tech house artist based in Brazil, tracked on soundcheck, with 13 sets logged across Buenosaires, Dublin, Ibiza and Saopaulo. Often billed alongside Julio Torres, Antdot and FISHER. Next up: TBA - Bali, Costanera, Buenosaires on Sat 26 Sept.
+Meca is a house and tech house artist based in Brazil, tracked on soundcheck, with 13 sets logged across Buenos Aires, Dublin, Ibiza and Sao Paulo. Often billed alongside Julio Torres, Antdot and FISHER. Next up: TBA - Bali, Costanera, Buenos Aires on Sat 26 Sept.
 
 ## Upcoming shows
 

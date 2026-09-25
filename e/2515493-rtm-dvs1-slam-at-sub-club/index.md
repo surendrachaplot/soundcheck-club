@@ -1,6 +1,6 @@
 # RTM: DVS1 & Slam at Sub Club
 
-RTM: DVS1 & Slam at Sub Club on Fri 11 Dec, Glasgow. 2 acts on the bill: DVS1 and Slam. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+RTM: DVS1 & Slam at Sub Club on Fri 11 Dec, Glasgow. 2 artists on the bill: DVS1 and Slam. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mateo Dufour - Circus, Grand Hall La Plata - ALLMusicParties at TBA - Grand Hall, La Plata
 
-Mateo Dufour - Circus, Grand Hall La Plata - ALLMusicParties at TBA - Grand Hall, La Plata on Sat 26 Sept, Buenosaires. 1 act on the bill: Mateo Dufour. Minimal. Preview the line-up and save it on soundcheck.
+Mateo Dufour - Circus, Grand Hall La Plata - ALLMusicParties at TBA - Grand Hall, La Plata on Sat 26 Sept, Buenos Aires. 1 artist on the bill: Mateo Dufour. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Doss is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paragon, New York City on Thu, 8 Oct 2026.
 
-Doss is a club and techno artist based in United States of America, tracked on soundcheck, with 55 sets logged across Athens, Austin, Berlin and Brisbane and 19 more. Often billed alongside Yves Tumor, 1NN3R53LF and CFCF. Next up: Paragon, Newyorkcity on Thu 8 Oct.
+Doss is a club and techno artist based in United States of America, tracked on soundcheck, with 55 sets logged across Athens, Austin, Berlin and Brisbane and 19 more. Often billed alongside Yves Tumor, 1NN3R53LF and CFCF. Next up: Paragon, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 

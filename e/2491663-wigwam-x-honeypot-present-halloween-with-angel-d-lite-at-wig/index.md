@@ -1,6 +1,6 @@
 # Wigwam x HONEYPOT present: Halloween with Angel D'lite at Wigwam
 
-Wigwam x HONEYPOT present: Halloween with Angel D'lite on Sat 31 Oct, Dublin. 1 act on the bill: Angel D'lite. Preview the line-up and save it on soundcheck.
+Wigwam x HONEYPOT present: Halloween with Angel D'lite on Sat 31 Oct, Dublin. 1 artist on the bill: Angel D'lite. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

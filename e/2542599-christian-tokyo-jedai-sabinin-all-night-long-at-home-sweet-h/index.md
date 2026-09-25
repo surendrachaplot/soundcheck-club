@@ -1,6 +1,6 @@
 # Christian Tokyo, Jedai & Sabinin: All Night Long at Home Sweet Home
 
-Christian Tokyo, Jedai & Sabinin: All Night Long at Home Sweet Home on Thu 24 Sept, Newyorkcity. 3 acts on the bill: Christian Tokyo, Jedai and Sabinin. Techno and House. Preview the line-up and save it on soundcheck.
+Christian Tokyo, Jedai & Sabinin: All Night Long at Home Sweet Home on Thu 24 Sept, New York City. 3 artists on the bill: Christian Tokyo, Jedai and Sabinin. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

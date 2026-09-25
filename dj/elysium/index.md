@@ -2,7 +2,7 @@
 
 ELYSIUM is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at HVEN, Tokyo on Mon, 9 Nov 2026.
 
-ELYSIUM is a techno and hardcore artist based in Latvia, tracked on soundcheck, with 45 sets logged across Cologne, London, Losangeles and Newyorkcity and 3 more. Often billed alongside maniken05, hitomori and ANGEDONIYA. Next up: HVEN, Tokyo on Mon 9 Nov.
+ELYSIUM is a techno and hardcore artist based in Latvia, tracked on soundcheck, with 45 sets logged across Cologne, London, Los Angeles and New York City and 3 more. Often billed alongside maniken05, hitomori and ANGEDONIYA. Next up: HVEN, Tokyo on Mon 9 Nov.
 
 ## Upcoming shows
 

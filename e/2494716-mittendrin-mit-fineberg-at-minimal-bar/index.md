@@ -1,6 +1,6 @@
 # mittendrin mit Fineberg at Minimal Bar
 
-mittendrin mit Fineberg at Minimal Bar on Wed 30 Sept, Berlin. 1 act on the bill: Fineberg. Preview the line-up and save it on soundcheck.
+mittendrin mit Fineberg at Minimal Bar on Wed 30 Sept, Berlin. 1 artist on the bill: Fineberg. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

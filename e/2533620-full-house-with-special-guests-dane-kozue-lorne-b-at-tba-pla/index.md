@@ -1,6 +1,6 @@
 # Full House with special guests: Dane, Kozue & Lorne B at TBA - Platform 9
 
-Full House with special guests: Dane, Kozue & Lorne B at TBA - Platform 9 on Sat 3 Oct, Vancouver. 4 acts on the bill: Dane, DJ dood, Kozue and Max Ulis. Techno and House. Preview the line-up and save it on soundcheck.
+Full House with special guests: Dane, Kozue & Lorne B at TBA - Platform 9 on Sat 3 Oct, Vancouver. 4 artists on the bill: Dane, DJ dood, Kozue and Max Ulis. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

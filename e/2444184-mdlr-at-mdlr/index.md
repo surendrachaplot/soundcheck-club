@@ -1,6 +1,6 @@
 # Mdlr at Mdlr
 
-Mdlr on Sat 26 Sept, Singapore. 1 act on the bill: Natascha Polké. House and Electro. Preview the line-up and save it on soundcheck.
+Mdlr on Sat 26 Sept, Singapore. 1 artist on the bill: Natascha Polké. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

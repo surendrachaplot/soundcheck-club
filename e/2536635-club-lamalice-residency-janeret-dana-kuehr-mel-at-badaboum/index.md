@@ -1,6 +1,6 @@
 # Club — LAMALICE Residency: Janeret, Dana Kuehr, Mel at Badaboum
 
-Club — LAMALICE Residency: Janeret, Dana Kuehr, Mel at Badaboum on Fri 16 Oct, Paris. 4 acts on the bill: Dana Kuehr, Janeret, LAMALICE and Mel. Progressive House and Minimal. Preview the line-up and save it on soundcheck.
+Club — LAMALICE Residency: Janeret, Dana Kuehr, Mel at Badaboum on Fri 16 Oct, Paris. 4 artists on the bill: Dana Kuehr, Janeret, LAMALICE and Mel. Progressive House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

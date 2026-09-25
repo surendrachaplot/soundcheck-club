@@ -1,6 +1,6 @@
 # Popup Outdoor Rave - 100% vinyle at TBA
 
-Popup Outdoor Rave - 100% vinyle at TBA on Sat 26 Sept, Montreal. 3 acts on the bill: DJ InYourFace, Dj Sarcastic and somebody3lse. Techno and House. Preview the line-up and save it on soundcheck.
+Popup Outdoor Rave - 100% vinyle at TBA on Sat 26 Sept, Montreal. 3 artists on the bill: DJ InYourFace, Dj Sarcastic and somebody3lse. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

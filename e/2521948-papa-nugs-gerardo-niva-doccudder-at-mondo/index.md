@@ -1,6 +1,6 @@
 # Papa Nugs / Gerardo Niva / doccudder at Mondo
 
-Papa Nugs / Gerardo Niva / doccudder at Mondo on Thu 29 Oct, Madrid. 3 acts on the bill: doccudder, Gerardo Niva and Papa Nugs. Preview the line-up and save it on soundcheck.
+Papa Nugs / Gerardo Niva / doccudder at Mondo on Thu 29 Oct, Madrid. 3 artists on the bill: doccudder, Gerardo Niva and Papa Nugs. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

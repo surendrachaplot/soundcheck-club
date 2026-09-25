@@ -1,6 +1,6 @@
 # PSY LIFE at R Lounge
 
-PSY LIFE at R Lounge on Sat 24 Oct, Tokyo. 1 act on the bill: PONTA. Psytrance. Preview the line-up and save it on soundcheck.
+PSY LIFE at R Lounge on Sat 24 Oct, Tokyo. 1 artist on the bill: PONTA. Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

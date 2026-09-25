@@ -2,7 +2,7 @@
 
 Funcadafi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Wijnhuis.Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-Funcadafi is a house and disco artist based in Belgium, tracked on soundcheck, with 14 sets logged across Amsterdam and Antwerp. Often billed alongside Geheimzinnig Soundsystem, DJ Peugeot and EG (1). Next up: Wijnhuis.Amsterdam, Amsterdam on Sat 24 Oct.
+Funcadafi is a house and disco artist based in Belgium, tracked on soundcheck, with 14 sets logged across Amsterdam and Antwerp. Often billed alongside Geheimzinnig Soundsystem, DJ Peugeot and EG. Next up: Wijnhuis.Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 

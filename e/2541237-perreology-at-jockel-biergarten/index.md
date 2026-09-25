@@ -1,6 +1,6 @@
 # Perreology at Jockel Biergarten
 
-Perreology at Jockel Biergarten on Thu 29 Oct, Berlin. 1 act on the bill: Dzoara. Techno and Reggaeton. Preview the line-up and save it on soundcheck.
+Perreology at Jockel Biergarten on Thu 29 Oct, Berlin. 1 artist on the bill: Dzoara. Techno and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

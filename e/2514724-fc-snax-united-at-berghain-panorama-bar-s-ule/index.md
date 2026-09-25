@@ -1,6 +1,6 @@
 # FC SNAX UNITED at Berghain | Panorama Bar | Säule
 
-FC SNAX UNITED at Berghain | Panorama Bar | Säule on Sat 14 Nov, Berlin. 7 acts on the bill: BASHKKA, Cormac, GIO THELLO and Phase Fatale and 3 more. Preview the line-up and save it on soundcheck.
+FC SNAX UNITED at Berghain | Panorama Bar | Säule on Sat 14 Nov, Berlin. 7 artists on the bill: BASHKKA, Cormac, GIO THELLO and Phase Fatale and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

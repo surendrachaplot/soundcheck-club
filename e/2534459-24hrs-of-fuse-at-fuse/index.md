@@ -1,6 +1,6 @@
 # 24HRS of Fuse at Fuse
 
-24HRS of Fuse on Sat 17 Oct, Brussels. 15 acts on the bill: A. Brehme, Altinbas, Blasha & Allatt and Cirkle and 11 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+24HRS of Fuse on Sat 17 Oct, Brussels. 15 artists on the bill: A. Brehme, Altinbas, Blasha & Allatt and Cirkle and 11 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

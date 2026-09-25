@@ -1,6 +1,6 @@
 # 12/11 Belltown Art Walk Ft. Olivia Cortez - DJ's Vagabond Superstar, Emily Song, Joey Phatone at Crystal Lounge
 
-12/11 Belltown Art Walk Ft. Olivia Cortez - DJ's Vagabond Superstar, Emily Song, Joey Phatone at Crystal Lounge on Fri 11 Dec, Seattle. 1 act on the bill: Vagabond Superstar. House. Preview the line-up and save it on soundcheck.
+12/11 Belltown Art Walk Ft. Olivia Cortez - DJ's Vagabond Superstar, Emily Song, Joey Phatone at Crystal Lounge on Fri 11 Dec, Seattle. 1 artist on the bill: Vagabond Superstar. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

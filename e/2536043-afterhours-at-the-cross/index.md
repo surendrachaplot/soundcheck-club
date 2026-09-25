@@ -1,6 +1,6 @@
 # AFTERHOURS at The Cross
 
-AFTERHOURS at The Cross on Fri 23 Oct, London. 2 acts on the bill: Clara Rosa and Shifa Ligero. House and Tech House. Preview the line-up and save it on soundcheck.
+AFTERHOURS at The Cross on Fri 23 Oct, London. 2 artists on the bill: Clara Rosa and Shifa Ligero. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

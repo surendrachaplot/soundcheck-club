@@ -1,6 +1,6 @@
 # PRTY: SLVL - Glasgow at The Art School
 
-PRTY: SLVL - Glasgow at The Art School on Fri 25 Sept, Glasgow. 1 act on the bill: SLVL. Techno. Preview the line-up and save it on soundcheck.
+PRTY: SLVL - Glasgow at The Art School on Fri 25 Sept, Glasgow. 1 artist on the bill: SLVL. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

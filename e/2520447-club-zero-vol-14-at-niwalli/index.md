@@ -1,6 +1,6 @@
 # Club Zero Vol.14 at Ääniwalli
 
-Club Zero Vol.14 at Ääniwalli on Sat 3 Oct, Helsinki. 6 acts on the bill: amil raja, Exploited Body, Glayden and MFM (FI) and 2 more. Preview the line-up and save it on soundcheck.
+Club Zero Vol.14 at Ääniwalli on Sat 3 Oct, Helsinki. 6 artists on the bill: amil raja, Exploited Body, Glayden and MFM (FI) and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

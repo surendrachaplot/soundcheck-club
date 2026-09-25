@@ -1,6 +1,6 @@
 # Cairn Sound @ Liquidate (fka Overdraught) at Liquidate
 
-Cairn Sound @ Liquidate (fka Overdraught) on Fri 30 Oct, Manchester. 3 acts on the bill: Bobo, Prints and Skiptrace. House and Dub Techno. Preview the line-up and save it on soundcheck.
+Cairn Sound @ Liquidate (fka Overdraught) on Fri 30 Oct, Manchester. 3 artists on the bill: Bobo, Prints and Skiptrace. House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

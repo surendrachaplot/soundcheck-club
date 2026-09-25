@@ -1,6 +1,6 @@
 # Smoove Mocean at Club der Visionaere
 
-Smoove Mocean at Club der Visionaere on Wed 30 Sept, Berlin. 2 acts on the bill: ALINA (3) and dj vau. Preview the line-up and save it on soundcheck.
+Smoove Mocean at Club der Visionaere on Wed 30 Sept, Berlin. 2 artists on the bill: ALINA and dj vau. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

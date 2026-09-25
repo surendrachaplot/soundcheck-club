@@ -1,6 +1,6 @@
 # Expedicion 30 with Roots., Mavidius, Baraquz at Void Club
 
-Expedicion 30 with Roots., Mavidius, Baraquz at Void Club on Sat 17 Oct, Berlin. 1 act on the bill: Mavidius. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Expedicion 30 with Roots., Mavidius, Baraquz at Void Club on Sat 17 Oct, Berlin. 1 artist on the bill: Mavidius. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

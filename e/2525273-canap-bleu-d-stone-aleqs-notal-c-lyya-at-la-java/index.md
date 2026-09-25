@@ -1,6 +1,6 @@
 # Canapé Bleu: D Stone, Aleqs Notal, C.LYYA at La Java
 
-Canapé Bleu: D Stone, Aleqs Notal, C.LYYA at La Java on Fri 25 Sept, Paris. 3 acts on the bill: Aleqs Notal, C.LYYA and D Stone. House and Electro. Preview the line-up and save it on soundcheck.
+Canapé Bleu: D Stone, Aleqs Notal, C.LYYA at La Java on Fri 25 Sept, Paris. 3 artists on the bill: Aleqs Notal, C.LYYA and D Stone. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

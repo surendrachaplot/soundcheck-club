@@ -1,6 +1,6 @@
 # Carousel Fridays x Finely Tuned presents. KiNK (Live) at Carousel Bar & Ballroom
 
-Carousel Fridays x Finely Tuned presents. KiNK (Live) at Carousel Bar & Ballroom on Fri 16 Oct, Sydney. 1 act on the bill: KiNK. Techno and House. Preview the line-up and save it on soundcheck.
+Carousel Fridays x Finely Tuned presents. KiNK (Live) at Carousel Bar & Ballroom on Fri 16 Oct, Sydney. 1 artist on the bill: KiNK. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

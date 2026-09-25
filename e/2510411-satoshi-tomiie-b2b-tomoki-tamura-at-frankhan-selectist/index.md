@@ -1,6 +1,6 @@
 # Satoshi Tomiie b2b Tomoki Tamura at Frankhan Selectist
 
-Satoshi Tomiie b2b Tomoki Tamura at Frankhan Selectist on Sat 17 Oct, Istanbul. 2 acts on the bill: Satoshi Tomiie and Tomoki Tamura. Preview the line-up and save it on soundcheck.
+Satoshi Tomiie b2b Tomoki Tamura at Frankhan Selectist on Sat 17 Oct, Istanbul. 2 artists on the bill: Satoshi Tomiie and Tomoki Tamura. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

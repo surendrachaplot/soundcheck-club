@@ -1,6 +1,6 @@
 # electro tiger X Meteor Studio at Meteor Studio
 
-electro tiger X Meteor Studio on Thu 24 Sept, Tbilisi. 3 acts on the bill: Frequency Shifter, Knaughty and TYTS-TYTS. Preview the line-up and save it on soundcheck.
+electro tiger X Meteor Studio on Thu 24 Sept, Tbilisi. 3 artists on the bill: Frequency Shifter, Knaughty and TYTS-TYTS. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

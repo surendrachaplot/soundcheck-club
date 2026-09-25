@@ -1,14 +1,15 @@
 # charuso
 
-charuso is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands, Amsterdam on Sun, 25 Oct 2026.
+charuso is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands, Amsterdam on Sun, 25 Oct 2026.
 
-charuso is a house and deep house artist based in Greece, tracked on soundcheck, with 12 sets logged across Amsterdam and Athens. Often billed alongside Sunday Soulman, PEDRIK and BKEY. Next up: TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands, Amsterdam on Sun 25 Oct.
+charuso is a house and deep house artist based in Greece, tracked on soundcheck, with 13 sets logged across Amsterdam and Athens. Often billed alongside Sunday Soulman, NoMore and PEDRIK. Next up: TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands | Amsterdam |
+| Sun, 25 Oct 2026 | TBA - De Ruijterkade 14, Amsterdam  | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ charuso is a house and deep house artist based in Greece, tracked on soundcheck,
 
 ## Shares bills with
 
-Sunday Soulman, PEDRIK, BKEY
+Sunday Soulman, NoMore, PEDRIK
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charuso/)*

@@ -1,6 +1,6 @@
 # Bazar Bozar Festival 2nd Edition at Les Beaux-Arts de Marseille - Inseamm.
 
-Bazar Bozar Festival 2nd Edition at Les Beaux-Arts de Marseille - Inseamm. on Fri 9 Oct, Marseille. 10 acts on the bill: Alich (1), Bobby., Cabanne and Gene On Earth and 6 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Bazar Bozar Festival 2nd Edition at Les Beaux-Arts de Marseille - Inseamm. on Fri 9 Oct, Marseille. 10 artists on the bill: Alich, Bobby., Cabanne and Gene On Earth and 6 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FLY - sim0ne - Glasgow at Sub Club
 
-FLY - sim0ne - Glasgow at Sub Club on Thu 17 Dec, Glasgow. 1 act on the bill: sim0ne. Trance and Techno. Preview the line-up and save it on soundcheck.
+FLY - sim0ne - Glasgow at Sub Club on Thu 17 Dec, Glasgow. 1 artist on the bill: sim0ne. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

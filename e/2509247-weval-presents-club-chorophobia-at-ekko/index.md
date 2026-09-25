@@ -1,6 +1,6 @@
 # Weval presents: CLUB CHOROPHOBIA at EKKO
 
-Weval presents: CLUB CHOROPHOBIA at EKKO on Sat 10 Oct, Utrecht. 1 act on the bill: Weval. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Weval presents: CLUB CHOROPHOBIA at EKKO on Sat 10 Oct, Utrecht. 1 artist on the bill: Weval. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

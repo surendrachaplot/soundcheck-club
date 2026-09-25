@@ -1,6 +1,6 @@
 # SUBconscious // Jungle Drum and Bass at TBA
 
-SUBconscious // Jungle Drum and Bass at TBA on Sat 21 Nov, Barcelona. 1 act on the bill: MC Stormy. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+SUBconscious // Jungle Drum and Bass at TBA on Sat 21 Nov, Barcelona. 1 artist on the bill: MC Stormy. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

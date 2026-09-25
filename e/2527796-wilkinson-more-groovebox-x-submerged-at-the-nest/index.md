@@ -1,6 +1,6 @@
 # Wilkinson & MORE - Groovebox X Submerged at The Nest
 
-Wilkinson & MORE - Groovebox X Submerged at The Nest on Sat 5 Dec, Nottingham. 4 acts on the bill: A Little Sound, Anaïs, Andromedik and Wilkinson. Drum & Bass. Preview the line-up and save it on soundcheck.
+Wilkinson & MORE - Groovebox X Submerged at The Nest on Sat 5 Dec, Nottingham. 4 artists on the bill: A Little Sound, Anaïs, Andromedik and Wilkinson. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

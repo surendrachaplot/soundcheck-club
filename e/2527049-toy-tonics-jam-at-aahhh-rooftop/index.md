@@ -1,6 +1,6 @@
 # Toy Tonics Jam at Aahhh Rooftop
 
-Toy Tonics Jam at Aahhh Rooftop on Sat 21 Nov, Munich. 3 acts on the bill: A-DEE, COEO and Zsa-Zsa. House and Disco. Preview the line-up and save it on soundcheck.
+Toy Tonics Jam at Aahhh Rooftop on Sat 21 Nov, Munich. 3 artists on the bill: A-DEE, COEO and Zsa-Zsa. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

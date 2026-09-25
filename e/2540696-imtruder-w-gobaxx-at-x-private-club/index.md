@@ -1,6 +1,6 @@
 # IMTRUDER W/ GOBAXX at X Private Club
 
-IMTRUDER W/ GOBAXX at X Private Club on Fri 25 Sept, Madrid. 2 acts on the bill: Fran Lobato and Ruben Luna. House and Tech House. Preview the line-up and save it on soundcheck.
+IMTRUDER W/ GOBAXX at X Private Club on Fri 25 Sept, Madrid. 2 artists on the bill: Fran Lobato and Ruben Luna. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

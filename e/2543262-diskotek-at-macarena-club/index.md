@@ -1,6 +1,6 @@
 # Diskotek at Macarena Club
 
-Diskotek at Macarena Club on Wed 28 Oct, Barcelona. 2 acts on the bill: Isa Rojas and Max Balateu. Preview the line-up and save it on soundcheck.
+Diskotek at Macarena Club on Wed 28 Oct, Barcelona. 2 artists on the bill: Isa Rojas and Max Balateu. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

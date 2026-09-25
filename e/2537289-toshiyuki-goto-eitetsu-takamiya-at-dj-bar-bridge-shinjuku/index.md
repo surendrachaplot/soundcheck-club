@@ -1,6 +1,6 @@
 # Toshiyuki Goto & Eitetsu Takamiya at DJ Bar Bridge Shinjuku
 
-Toshiyuki Goto & Eitetsu Takamiya at DJ Bar Bridge Shinjuku on Tue 17 Nov, Tokyo. 2 acts on the bill: Eitetsu Takamiya and Toshiyuki Goto. House. Preview the line-up and save it on soundcheck.
+Toshiyuki Goto & Eitetsu Takamiya at DJ Bar Bridge Shinjuku on Tue 17 Nov, Tokyo. 2 artists on the bill: Eitetsu Takamiya and Toshiyuki Goto. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KITCHEN RAVE Vol. 6 - 'Friday The 13th' at TBA - Kroņu iela 23B, Riga, Latvia.
 
-KITCHEN RAVE Vol. 6 - 'Friday The 13th' at TBA - Kroņu iela 23B, Riga, Latvia. on Fri 13 Nov, Riga. 7 acts on the bill: DEBBIE (IT), der_professor, DV8 (LV) and JSUS and 3 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+KITCHEN RAVE Vol. 6 - 'Friday The 13th' at TBA - Kroņu iela 23B, Riga, Latvia. on Fri 13 Nov, Riga. 7 artists on the bill: DEBBIE (IT), der_professor, DV8 (LV) and JSUS and 3 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

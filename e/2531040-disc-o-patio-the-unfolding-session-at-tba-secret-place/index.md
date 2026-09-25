@@ -1,6 +1,6 @@
 # disc·o·patio: the unfolding session at TBA - SECRET PLACE
 
-disc·o·patio: the unfolding session at TBA - SECRET PLACE on Sat 17 Oct, Lyon. 3 acts on the bill: Byche, oror and Shkedul. Trance and Techno. Preview the line-up and save it on soundcheck.
+disc·o·patio: the unfolding session at TBA - SECRET PLACE on Sat 17 Oct, Lyon. 3 artists on the bill: Byche, oror and Shkedul. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

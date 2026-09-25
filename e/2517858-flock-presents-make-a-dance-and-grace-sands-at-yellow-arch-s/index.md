@@ -1,6 +1,6 @@
 # flock presents: Make A Dance and Grace Sands at Yellow Arch Studios
 
-flock presents: Make A Dance and Grace Sands at Yellow Arch Studios on Fri 2 Oct, Sheffield. 3 acts on the bill: Grace Sands, Make A Dance and Steely. House and Acid. Preview the line-up and save it on soundcheck.
+flock presents: Make A Dance and Grace Sands at Yellow Arch Studios on Fri 2 Oct, Sheffield. 3 artists on the bill: Grace Sands, Make A Dance and Steely. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

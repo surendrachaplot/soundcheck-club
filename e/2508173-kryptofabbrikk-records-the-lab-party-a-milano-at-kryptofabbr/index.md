@@ -1,6 +1,6 @@
 # Kryptofabbrikk Records THE LAB party a MILANO at Kryptofabbrikk The Lab
 
-Kryptofabbrikk Records THE LAB party a MILANO at Kryptofabbrikk The Lab on Sat 17 Oct, Berlin. 1 act on the bill: Kryptonicadjs. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Kryptofabbrikk Records THE LAB party a MILANO at Kryptofabbrikk The Lab on Sat 17 Oct, Berlin. 1 artist on the bill: Kryptonicadjs. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

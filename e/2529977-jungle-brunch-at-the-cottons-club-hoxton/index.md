@@ -1,6 +1,6 @@
 # Jungle Brunch at The Cottons Club - Hoxton
 
-Jungle Brunch at The Cottons Club - Hoxton on Sun 4 Oct, London. 2 acts on the bill: Devious D and Wesley Jay. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Jungle Brunch at The Cottons Club - Hoxton on Sun 4 Oct, London. 2 artists on the bill: Devious D and Wesley Jay. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

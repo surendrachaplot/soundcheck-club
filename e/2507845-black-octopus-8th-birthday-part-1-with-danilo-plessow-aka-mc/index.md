@@ -1,6 +1,6 @@
 # Black Octopus 8th Birthday Part 1 with Danilo Plessow aka MCDE at Quarters
 
-Black Octopus 8th Birthday Part 1 with Danilo Plessow aka MCDE at Quarters on Sat 26 Sept, Brighton. 4 acts on the bill: Danilo Plessow, Ellie Talebian, Motor City Drum Ensemble and Pablo Contraband. Techno and House. Preview the line-up and save it on soundcheck.
+Black Octopus 8th Birthday Part 1 with Danilo Plessow aka MCDE at Quarters on Sat 26 Sept, Brighton. 4 artists on the bill: Danilo Plessow, Ellie Talebian, Motor City Drum Ensemble and Pablo Contraband. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

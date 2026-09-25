@@ -1,6 +1,6 @@
 # Kastel #WAREHOUSESERIES: Oliver Huntemann at Kastel
 
-Kastel #WAREHOUSESERIES: Oliver Huntemann on Sat 7 Nov, Istanbul. 1 act on the bill: Oliver Huntemann. House. Preview the line-up and save it on soundcheck.
+Kastel #WAREHOUSESERIES: Oliver Huntemann on Sat 7 Nov, Istanbul. 1 artist on the bill: Oliver Huntemann. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

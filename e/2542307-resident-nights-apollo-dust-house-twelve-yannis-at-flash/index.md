@@ -1,6 +1,6 @@
 # Resident Nights: Apollo Dust - House Twelve - Yannis at Flash
 
-Resident Nights: Apollo Dust - House Twelve - Yannis at Flash on Sat 17 Oct, Washingtondc. 7 acts on the bill: Adyy Love, Apollo Dust, BE EZY and E-QUE and 3 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Resident Nights: Apollo Dust - House Twelve - Yannis at Flash on Sat 17 Oct, Washington DC. 7 artists on the bill: Adyy Love, Apollo Dust, BE EZY and E-QUE and 3 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Vardae (All night long) at LAUT
 
-Vardae (All night long) at LAUT on Sat 26 Sept, Barcelona. 1 act on the bill: Vardae. Techno and Club. Preview the line-up and save it on soundcheck.
+Vardae (All night long) at LAUT on Sat 26 Sept, Barcelona. 1 artist on the bill: Vardae. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

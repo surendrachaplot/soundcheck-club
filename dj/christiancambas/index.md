@@ -2,7 +2,7 @@
 
 Christian Cambas is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Oddity Club, Athens on Sat, 10 Oct 2026.
 
-Christian Cambas is a techno and psytrance artist based in Greece, tracked on soundcheck, with 25 sets logged across Athens. Often billed alongside Deherian, Tanison and SCTR (2). Next up: Oddity Club, Athens on Sat 10 Oct.
+Christian Cambas is a techno and psytrance artist based in Greece, tracked on soundcheck, with 25 sets logged across Athens. Often billed alongside Deherian, Tanison and SCTR. Next up: Oddity Club, Athens on Sat 10 Oct.
 
 ## Upcoming shows
 

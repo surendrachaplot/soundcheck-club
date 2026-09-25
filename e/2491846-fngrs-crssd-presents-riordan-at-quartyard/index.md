@@ -1,6 +1,6 @@
 # FNGRS CRSSD presents Riordan at Quartyard
 
-FNGRS CRSSD presents Riordan at Quartyard on Sat 10 Oct, Sandiego. 1 act on the bill: Riordan. Preview the line-up and save it on soundcheck.
+FNGRS CRSSD presents Riordan at Quartyard on Sat 10 Oct, San Diego. 1 artist on the bill: Riordan. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

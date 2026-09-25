@@ -1,6 +1,6 @@
 # BLACK NOIR presents: headrush B2B NITTA [TW] at The Flinders
 
-BLACK NOIR presents: headrush B2B NITTA [TW] at The Flinders on Sat 3 Oct, Sydney. 3 acts on the bill: Arabesque, BASS SLVT and headrush. Techno. Preview the line-up and save it on soundcheck.
+BLACK NOIR presents: headrush B2B NITTA [TW] at The Flinders on Sat 3 Oct, Sydney. 3 artists on the bill: Arabesque, BASS SLVT and headrush. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

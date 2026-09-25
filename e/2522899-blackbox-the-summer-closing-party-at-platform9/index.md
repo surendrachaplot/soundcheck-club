@@ -1,6 +1,6 @@
 # BlackBox: The Summer Closing Party at Platform9
 
-BlackBox: The Summer Closing Party at Platform9 on Fri 25 Sept, Vancouver. 4 acts on the bill: AVRY, DJ dood, Fisher Bryce and Weezie. House and Disco. Preview the line-up and save it on soundcheck.
+BlackBox: The Summer Closing Party at Platform9 on Fri 25 Sept, Vancouver. 4 artists on the bill: AVRY, DJ dood, Fisher Bryce and Weezie. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

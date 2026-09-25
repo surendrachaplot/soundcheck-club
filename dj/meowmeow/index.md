@@ -2,7 +2,7 @@
 
 Meow Meow is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Vespers Club, London on Fri, 20 Nov 2026.
 
-Meow Meow is a breakbeat and bass artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Berlin, Bristol, Dublin and Ghent and 2 more. Often billed alongside Soulgem (1), Takenbymarshall and Adore Hathaway. Next up: Vespers Club, London on Fri 20 Nov.
+Meow Meow is a breakbeat and bass artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Berlin, Bristol, Dublin and Ghent and 2 more. Often billed alongside Soulgem, Takenbymarshall and Adore Hathaway. Next up: Vespers Club, London on Fri 20 Nov.
 
 ## Upcoming shows
 

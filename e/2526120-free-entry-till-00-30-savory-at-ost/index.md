@@ -1,6 +1,6 @@
 # [FREE ENTRY TILL 00:30] SAVORY at OST
 
-[FREE ENTRY TILL 00:30] SAVORY at OST on Thu 29 Oct, Berlin. 2 acts on the bill: Khyodo and NO ONE. Techno. Preview the line-up and save it on soundcheck.
+[FREE ENTRY TILL 00:30] SAVORY at OST on Thu 29 Oct, Berlin. 2 artists on the bill: Khyodo and NO ONE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

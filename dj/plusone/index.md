@@ -2,7 +2,7 @@
 
 Plus One (1) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cross Club, Prague on Fri, 25 Sept 2026.
 
-Plus One (1) is a techno and experimental artist based in Ireland, tracked on soundcheck, with 32 sets logged across Amsterdam, Belfast, Berlin and Dublin and 5 more. Often billed alongside Ejdm, SLOUCHO and Boyfrens. Next up: Cross Club, Prague on Fri 25 Sept.
+Plus One is a techno and experimental artist based in Ireland, tracked on soundcheck, with 32 sets logged across Amsterdam, Belfast, Berlin and Dublin and 5 more. Often billed alongside Ejdm, SLOUCHO and Boyfrens. Next up: Cross Club, Prague on Fri 25 Sept.
 
 ## Upcoming shows
 

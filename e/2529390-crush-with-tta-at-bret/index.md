@@ -1,6 +1,6 @@
 # Crush with ØTTA at BRET
 
-Crush with ØTTA at BRET on Fri 11 Dec, Amsterdam. 1 act on the bill: ØTTA. House. Preview the line-up and save it on soundcheck.
+Crush with ØTTA at BRET on Fri 11 Dec, Amsterdam. 1 artist on the bill: ØTTA. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Perc, Ansome (live), Livid, SISSY MISFIT, Baba Ibra at M.O.T
 
-Perc, Ansome (live), Livid, SISSY MISFIT, Baba Ibra at M.O.T on Sat 7 Nov, London. 5 acts on the bill: Ansome, Livid (UK), Perc and SISSY MISFIT and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Perc, Ansome (live), Livid, SISSY MISFIT, Baba Ibra at M.O.T on Sat 7 Nov, London. 5 artists on the bill: Ansome, Livid (UK), Perc and SISSY MISFIT and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

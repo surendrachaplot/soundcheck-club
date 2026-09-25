@@ -1,6 +1,6 @@
 # Modeselektor (DJ SET) at Button Factory
 
-Modeselektor (DJ SET) at Button Factory on Fri 6 Nov, Dublin. 1 act on the bill: Modeselektor. Techno and Bass. Preview the line-up and save it on soundcheck.
+Modeselektor (DJ SET) at Button Factory on Fri 6 Nov, Dublin. 1 artist on the bill: Modeselektor. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

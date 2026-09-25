@@ -1,6 +1,6 @@
 # TRIG at Sensorium
 
-TRIG at Sensorium on Sun 27 Sept, Berlin. 1 act on the bill: Mute. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TRIG at Sensorium on Sun 27 Sept, Berlin. 1 artist on the bill: Mute. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Aluna at Floyd
 
-Aluna at Floyd on Sat 24 Oct, Miami. 2 acts on the bill: Aluna and Nikita Green. House and Club. Preview the line-up and save it on soundcheck.
+Aluna at Floyd on Sat 24 Oct, Miami. 2 artists on the bill: Aluna and Nikita Green. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

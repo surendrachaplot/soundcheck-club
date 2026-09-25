@@ -2,7 +2,7 @@
 
 Excision is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-Excision is a bass and dubstep artist based in Canada, tracked on soundcheck, with 13 sets logged across Auckland, Austin, Chicago and Losangeles and 7 more. Often billed alongside KREAM, Zedd and Cloonee. Next up: NOS Event Center, Losangeles on Fri 30 Oct.
+Excision is a bass and dubstep artist based in Canada, tracked on soundcheck, with 13 sets logged across Auckland, Austin, Chicago and Los Angeles and 7 more. Often billed alongside KREAM, Zedd and Cloonee. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 

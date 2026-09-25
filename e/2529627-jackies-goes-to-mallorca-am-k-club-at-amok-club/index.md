@@ -1,6 +1,6 @@
 # Jackies goes to Mallorca - AMØK Club at Amok Club
 
-Jackies goes to Mallorca - AMØK Club at Amok Club on Sat 14 Nov, Mallorca. 1 act on the bill: Hot Since 82. House. Preview the line-up and save it on soundcheck.
+Jackies goes to Mallorca - AMØK Club at Amok Club on Sat 14 Nov, Mallorca. 1 artist on the bill: Hot Since 82. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

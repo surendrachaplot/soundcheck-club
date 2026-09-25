@@ -1,6 +1,6 @@
 # Currents - Configuration III at Loods6
 
-Currents - Configuration III at Loods6 on Sat 24 Oct, Amsterdam. 2 acts on the bill: Loek Frey and nthng. Preview the line-up and save it on soundcheck.
+Currents - Configuration III at Loods6 on Sat 24 Oct, Amsterdam. 2 artists on the bill: Loek Frey and nthng. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

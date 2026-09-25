@@ -2,7 +2,7 @@
 
 CLOSURE (DE) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Rote Sonne, Munich on Fri, 25 Sept 2026.
 
-CLOSURE (DE) is a techno and industrial artist based in Germany, tracked on soundcheck, with 49 sets logged across Leipzig, Munich and Nurnberg. Often billed alongside SYNTA, Arcann and STARKILLER.DE. Next up: Rote Sonne, Munich on Fri 25 Sept.
+CLOSURE (DE) is a techno and industrial artist based in Germany, tracked on soundcheck, with 49 sets logged across Leipzig, Munich and Nürnberg. Often billed alongside SYNTA, Arcann and STARKILLER.DE. Next up: Rote Sonne, Munich on Fri 25 Sept.
 
 ## Upcoming shows
 

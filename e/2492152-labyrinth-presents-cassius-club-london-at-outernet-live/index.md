@@ -1,6 +1,6 @@
 # Labyrinth presents: Cassius Club London at Outernet Live
 
-Labyrinth presents: Cassius Club London at Outernet Live on Sat 31 Oct, London. 1 act on the bill: Cassius. House and Tech House. Preview the line-up and save it on soundcheck.
+Labyrinth presents: Cassius Club London at Outernet Live on Sat 31 Oct, London. 1 artist on the bill: Cassius. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

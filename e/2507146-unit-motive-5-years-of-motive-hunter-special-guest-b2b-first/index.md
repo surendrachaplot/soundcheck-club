@@ -1,6 +1,6 @@
 # UNIT MOTive: 5 Years of Motive Hunter - Special Guest B2B: First Time Ever at M.O.T
 
-UNIT MOTive: 5 Years of Motive Hunter - Special Guest B2B: First Time Ever at M.O.T on Fri 9 Oct, London. 13 acts on the bill: Agility, Arkyn, CITIZEN and EN.VEE and 9 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+UNIT MOTive: 5 Years of Motive Hunter - Special Guest B2B: First Time Ever at M.O.T on Fri 9 Oct, London. 13 artists on the bill: Agility, Arkyn, CITIZEN and EN.VEE and 9 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

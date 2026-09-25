@@ -1,6 +1,6 @@
 # HERZFREQUENZ presents ESCA & LEAH at Das Werk
 
-HERZFREQUENZ presents ESCA & LEAH at Das Werk on Fri 9 Oct, Vienna. 3 acts on the bill: Crystal O, ESCA (3) and ZEQ (1). Trance and Techno. Preview the line-up and save it on soundcheck.
+HERZFREQUENZ presents ESCA & LEAH at Das Werk on Fri 9 Oct, Vienna. 3 artists on the bill: Crystal O, ESCA and ZEQ. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

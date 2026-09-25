@@ -1,6 +1,6 @@
 # Texture Summit Pres. Residents Night at Underground SF
 
-Texture Summit Pres. Residents Night at Underground SF on Fri 25 Sept, Sanfrancisco. 4 acts on the bill: Anderson Chase, Combover, Joe Fro and Philco. House and Tech House. Preview the line-up and save it on soundcheck.
+Texture Summit Pres. Residents Night at Underground SF on Fri 25 Sept, San Francisco/Oakland. 4 artists on the bill: Anderson Chase, Combover, Joe Fro and Philco. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

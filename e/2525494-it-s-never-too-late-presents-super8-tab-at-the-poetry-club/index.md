@@ -1,6 +1,6 @@
 # It's Never Too Late presents: Super8 & Tab at The Poetry Club
 
-It's Never Too Late presents: Super8 & Tab at The Poetry Club on Sat 21 Nov, Glasgow. 1 act on the bill: Super8 & Tab. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+It's Never Too Late presents: Super8 & Tab at The Poetry Club on Sat 21 Nov, Glasgow. 1 artist on the bill: Super8 & Tab. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

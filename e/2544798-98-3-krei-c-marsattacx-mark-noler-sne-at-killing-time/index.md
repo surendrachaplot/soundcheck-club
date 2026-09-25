@@ -1,6 +1,6 @@
 # 98.3  ̸ Krei-c MarsattacX Mark Noler Sne' at Killing Time
 
-98.3  ̸ Krei-c MarsattacX Mark Noler Sne' at Killing Time on Thu 8 Oct, Valencia. 1 act on the bill: MarsattacX. Techno and Electro. Preview the line-up and save it on soundcheck.
+98.3  ̸ Krei-c MarsattacX Mark Noler Sne' at Killing Time on Thu 8 Oct, Valencia. 1 artist on the bill: MarsattacX. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

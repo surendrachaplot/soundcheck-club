@@ -1,6 +1,6 @@
 # between x Komorebi at elipamanoke
 
-between x Komorebi at elipamanoke on Wed 30 Sept, Leipzig. 3 acts on the bill: Eclipsa, flomel and wemory. Techno. Preview the line-up and save it on soundcheck.
+between x Komorebi at elipamanoke on Wed 30 Sept, Leipzig. 3 artists on the bill: Eclipsa, flomel and wemory. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

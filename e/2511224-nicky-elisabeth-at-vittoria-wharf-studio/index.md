@@ -1,6 +1,6 @@
 # Nicky Elisabeth at Vittoria Wharf Studio
 
-Nicky Elisabeth at Vittoria Wharf Studio on Fri 16 Oct, London. 1 act on the bill: Nicky Elisabeth. House and Deep House. Preview the line-up and save it on soundcheck.
+Nicky Elisabeth at Vittoria Wharf Studio on Fri 16 Oct, London. 1 artist on the bill: Nicky Elisabeth. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

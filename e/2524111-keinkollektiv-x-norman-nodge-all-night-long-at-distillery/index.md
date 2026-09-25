@@ -1,6 +1,6 @@
 # KEINKOLLEKTIV X NORMAN NODGE all night long at Distillery
 
-KEINKOLLEKTIV X NORMAN NODGE all night long at Distillery on Sat 10 Oct, Leipzig. 2 acts on the bill: Nadine Talakovics and Norman Nodge. Techno and House. Preview the line-up and save it on soundcheck.
+KEINKOLLEKTIV X NORMAN NODGE all night long at Distillery on Sat 10 Oct, Leipzig. 2 artists on the bill: Nadine Talakovics and Norman Nodge. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

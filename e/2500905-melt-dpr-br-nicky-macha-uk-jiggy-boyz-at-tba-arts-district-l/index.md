@@ -1,6 +1,6 @@
 # MELT: DPR (BR), Nicky Macha (UK), Jiggy Boyz at TBA - Arts District LA
 
-MELT: DPR (BR), Nicky Macha (UK), Jiggy Boyz at TBA - Arts District LA on Fri 2 Oct, Losangeles. 2 acts on the bill: DPR (1) and Nicky Macha. Techno and House. Preview the line-up and save it on soundcheck.
+MELT: DPR (BR), Nicky Macha (UK), Jiggy Boyz at TBA - Arts District LA on Fri 2 Oct, Los Angeles. 2 artists on the bill: DPR and Nicky Macha. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

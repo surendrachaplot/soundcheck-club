@@ -1,6 +1,6 @@
 # Zenker Brothers / Pangaea / re:ni / The Carry Nation / Analog Soul / ALEXIS DE LA ROSA at BASEMENT
 
-Zenker Brothers / Pangaea / re:ni / The Carry Nation / Analog Soul / ALEXIS DE LA ROSA at BASEMENT on Fri 2 Oct, Newyorkcity. 6 acts on the bill: ALEXIS DE LA ROSA, Analog Soul, Pangaea and re:ni and 2 more. Preview the line-up and save it on soundcheck.
+Zenker Brothers / Pangaea / re:ni / The Carry Nation / Analog Soul / ALEXIS DE LA ROSA at BASEMENT on Fri 2 Oct, New York City. 6 artists on the bill: ALEXIS DE LA ROSA, Analog Soul, Pangaea and re:ni and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

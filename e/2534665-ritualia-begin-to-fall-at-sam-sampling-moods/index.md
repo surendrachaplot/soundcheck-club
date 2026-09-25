@@ -1,6 +1,6 @@
 # RITUALIA: Begin To Fall at SAM Sampling Moods
 
-RITUALIA: Begin To Fall at SAM Sampling Moods on Sat 26 Sept, Milan. 4 acts on the bill: e.nzo, Giamma Soren, Luca Ruiz and Luce Clandestina. Tech House and Electro. Preview the line-up and save it on soundcheck.
+RITUALIA: Begin To Fall at SAM Sampling Moods on Sat 26 Sept, Milan. 4 artists on the bill: e.nzo, Giamma Soren, Luca Ruiz and Luce Clandestina. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

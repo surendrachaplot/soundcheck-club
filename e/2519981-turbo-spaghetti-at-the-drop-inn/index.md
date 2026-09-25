@@ -1,6 +1,6 @@
 # Turbo Spaghetti at The Drop inn
 
-Turbo Spaghetti at The Drop inn on Sat 26 Sept, Birmingham. 1 act on the bill: alterum. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Turbo Spaghetti at The Drop inn on Sat 26 Sept, Birmingham. 1 artist on the bill: alterum. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

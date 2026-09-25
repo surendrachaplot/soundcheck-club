@@ -1,6 +1,6 @@
 # Ehrenfeld XL - The Cologne Club Festival - 10 Clubs, 1 Night, 1 Ticket at Ehrenfeld XL
 
-Ehrenfeld XL - The Cologne Club Festival - 10 Clubs, 1 Night, 1 Ticket on Sat 24 Oct, Cologne. 27 acts on the bill: Avocado, BabaBass3000, Baumeister98 and David Hasert and 23 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Ehrenfeld XL - The Cologne Club Festival - 10 Clubs, 1 Night, 1 Ticket on Sat 24 Oct, Cologne. 27 artists on the bill: Avocado, BabaBass3000, Baumeister98 and David Hasert and 23 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

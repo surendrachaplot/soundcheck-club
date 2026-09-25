@@ -1,6 +1,6 @@
 # 解体新書 KTSNS x Primal x Synvision Sounds presents at Saloon
 
-解体新書 KTSNS x Primal x Synvision Sounds presents at Saloon on Fri 2 Oct, Tokyo. 8 acts on the bill: Albino Sound, comm, Dayzero and EMA (1) and 4 more. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+解体新書 KTSNS x Primal x Synvision Sounds presents at Saloon on Fri 2 Oct, Tokyo. 8 artists on the bill: Albino Sound, comm, Dayzero and EMA and 4 more. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

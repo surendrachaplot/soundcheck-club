@@ -2,7 +2,7 @@
 
 Nexo is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Afrobeats v Perreo Reggaeton Party Nightclub" on Sat, 26 Sept 2026.
 
-Nexo is a music venue in Newyorkcity listed on soundcheck. 19 upcoming gigs. Browse upcoming dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
+Nexo is a music venue in New York City listed on soundcheck. 19 upcoming gigs. Browse upcoming dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
 
 ## What's on
 

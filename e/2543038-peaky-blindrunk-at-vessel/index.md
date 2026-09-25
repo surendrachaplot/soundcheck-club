@@ -1,6 +1,6 @@
 # Peaky Blindrunk at Vessel
 
-Peaky Blindrunk at Vessel on Fri 25 Sept, Edinburgh. 1 act on the bill: Peaky Blindrunk. Preview the line-up and save it on soundcheck.
+Peaky Blindrunk at Vessel on Fri 25 Sept, Edinburgh. 1 artist on the bill: Peaky Blindrunk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

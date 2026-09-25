@@ -2,7 +2,7 @@
 
 El Cid is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "SIIICKBRAIN" on Thu, 24 Sept 2026.
 
-El Cid is a music venue in Losangeles listed on soundcheck. 2 upcoming gigs, with line-ups including flirty800, Hu Dat, Ly Tran and Pauliewog. Browse upcoming dates, start times and who's playing. 4212 W. Sunset Blvd, Los Angeles, CA 90029.
+El Cid is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including flirty800, Hu Dat, Ly Tran and Pauliewog. Browse upcoming dates, start times and who's playing. 4212 W. Sunset Blvd, Los Angeles, CA 90029.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # manic.monday mit Saudade at Minimal Bar
 
-manic.monday mit Saudade at Minimal Bar on Mon 2 Nov, Berlin. 1 act on the bill: Saudade (1). Preview the line-up and save it on soundcheck.
+manic.monday mit Saudade at Minimal Bar on Mon 2 Nov, Berlin. 1 artist on the bill: Saudade. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

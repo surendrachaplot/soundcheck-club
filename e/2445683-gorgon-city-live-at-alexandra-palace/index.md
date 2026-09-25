@@ -1,6 +1,6 @@
 # Gorgon City - Live at Alexandra Palace
 
-Gorgon City - Live at Alexandra Palace on Sat 28 Nov, London. 1 act on the bill: Gorgon City. House. Preview the line-up and save it on soundcheck.
+Gorgon City - Live at Alexandra Palace on Sat 28 Nov, London. 1 artist on the bill: Gorgon City. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

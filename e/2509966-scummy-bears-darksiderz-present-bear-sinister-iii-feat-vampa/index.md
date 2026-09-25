@@ -1,6 +1,6 @@
 # Scummy Bears & Darksiderz present Bear Sinister III feat. VAMPA at Boardner's by La Belle
 
-Scummy Bears & Darksiderz present Bear Sinister III feat. VAMPA at Boardner's by La Belle on Sat 10 Oct, Losangeles. Techno and Dubstep. Preview the line-up and save it on soundcheck.
+Scummy Bears & Darksiderz present Bear Sinister III feat. VAMPA at Boardner's by La Belle on Sat 10 Oct, Los Angeles. Techno and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

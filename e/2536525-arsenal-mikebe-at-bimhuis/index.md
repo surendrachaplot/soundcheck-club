@@ -1,6 +1,6 @@
 # Arsenal Mikebe at Bimhuis
 
-Arsenal Mikebe at Bimhuis on Fri 23 Oct, Amsterdam. 1 act on the bill: Arsenal Mikebe. Preview the line-up and save it on soundcheck.
+Arsenal Mikebe at Bimhuis on Fri 23 Oct, Amsterdam. 1 artist on the bill: Arsenal Mikebe. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

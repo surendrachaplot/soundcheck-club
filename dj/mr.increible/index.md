@@ -2,7 +2,7 @@
 
 Mr. Increible is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at CHICO, Mexico City on Sat, 24 Oct 2026.
 
-Mr. Increible is a techno and house artist based in Mexico, tracked on soundcheck, with 16 sets logged across Mexicocity. Often billed alongside Le Fortier, Denisse Leilany and Fortier. Next up: CHICO, Mexicocity on Sat 24 Oct.
+Mr. Increible is a techno and house artist based in Mexico, tracked on soundcheck, with 16 sets logged across Mexico City. Often billed alongside Le Fortier, Denisse Leilany and Fortier. Next up: CHICO, Mexico City on Sat 24 Oct.
 
 ## Upcoming shows
 

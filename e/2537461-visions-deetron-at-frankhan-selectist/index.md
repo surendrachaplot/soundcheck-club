@@ -1,6 +1,6 @@
 # Visions: Deetron at Frankhan Selectist
 
-Visions: Deetron at Frankhan Selectist on Sat 3 Oct, Istanbul. 1 act on the bill: Deetron. Preview the line-up and save it on soundcheck.
+Visions: Deetron at Frankhan Selectist on Sat 3 Oct, Istanbul. 1 artist on the bill: Deetron. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

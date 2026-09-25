@@ -1,6 +1,6 @@
 # U-BEND at The Victory
 
-U-BEND at The Victory on Sat 26 Sept, London. 1 act on the bill: U-BEND. Balearic. Preview the line-up and save it on soundcheck.
+U-BEND at The Victory on Sat 26 Sept, London. 1 artist on the bill: U-BEND. Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

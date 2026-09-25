@@ -1,6 +1,6 @@
 # Mutate: LUCIID with Callush at Exchange LA
 
-Mutate: LUCIID with Callush at Exchange LA on Sat 28 Nov, Losangeles. Techno. Preview the line-up and save it on soundcheck.
+Mutate: LUCIID with Callush at Exchange LA on Sat 28 Nov, Los Angeles. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

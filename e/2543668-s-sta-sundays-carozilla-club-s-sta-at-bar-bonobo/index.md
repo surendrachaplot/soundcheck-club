@@ -1,6 +1,6 @@
 # Sásta Sundays: Carozilla, Club Sásta at Bar Bonobo
 
-Sásta Sundays: Carozilla, Club Sásta at Bar Bonobo on Sun 25 Oct, Newyorkcity. 1 act on the bill: Carozilla. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Sásta Sundays: Carozilla, Club Sásta at Bar Bonobo on Sun 25 Oct, New York City. 1 artist on the bill: Carozilla. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

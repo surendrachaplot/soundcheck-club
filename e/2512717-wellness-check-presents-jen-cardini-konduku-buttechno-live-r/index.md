@@ -1,6 +1,6 @@
 # Wellness Check presents: Jen Cardini, Konduku, Buttechno (live), Rachana at TBA - DTLA
 
-Wellness Check presents: Jen Cardini, Konduku, Buttechno (live), Rachana at TBA - DTLA on Sat 26 Sept, Losangeles. 4 acts on the bill: Buttechno, Jen Cardini, Konduku and Rachana. Trance and Techno. Preview the line-up and save it on soundcheck.
+Wellness Check presents: Jen Cardini, Konduku, Buttechno (live), Rachana at TBA - DTLA on Sat 26 Sept, Los Angeles. 4 artists on the bill: Buttechno, Jen Cardini, Konduku and Rachana. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

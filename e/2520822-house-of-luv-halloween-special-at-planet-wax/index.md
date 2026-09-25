@@ -1,6 +1,6 @@
 # HOUSE OF LUV: HALLOWEEN SPECIAL at Planet Wax
 
-HOUSE OF LUV: HALLOWEEN SPECIAL at Planet Wax on Sat 24 Oct, London. 2 acts on the bill: Boo and EMLEE. House and Garage. Preview the line-up and save it on soundcheck.
+HOUSE OF LUV: HALLOWEEN SPECIAL at Planet Wax on Sat 24 Oct, London. 2 artists on the bill: Boo and EMLEE. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ogazón invites Freddy K & Rene Wise - ADE at BRET
 
-Ogazón invites Freddy K & Rene Wise - ADE at BRET on Fri 23 Oct, Amsterdam. 3 acts on the bill: Freddy K, Ogazón and Rene Wise. Techno and House. Preview the line-up and save it on soundcheck.
+Ogazón invites Freddy K & Rene Wise - ADE at BRET on Fri 23 Oct, Amsterdam. 3 artists on the bill: Freddy K, Ogazón and Rene Wise. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

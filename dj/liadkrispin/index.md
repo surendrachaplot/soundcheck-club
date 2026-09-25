@@ -2,7 +2,7 @@
 
 Liad Krispin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
 
-Liad Krispin is a techno and house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Berlin, Brussels, Copenhagen and Hamburg and 6 more. Often billed alongside Luigi Di Venere, Budino and DSGNRPSSY. Next up: TBA, Berlin on Fri 25 Sept.
+Liad Krispin is a techno and house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Berlin, Brussels, Copenhagen and Hamburg and 6 more. Often billed alongside Luigi Di Venere, AAguilAA and Budino. Next up: TBA, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Liad Krispin is a techno and house artist based in United States of America, tra
 
 ## Shares bills with
 
-Luigi Di Venere, Budino, DSGNRPSSY
+Luigi Di Venere, AAguilAA, Budino
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*

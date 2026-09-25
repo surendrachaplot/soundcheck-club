@@ -2,7 +2,7 @@
 
 MARACUYá is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Ground at Club Space, Miami on Sat, 31 Oct 2026.
 
-MARACUYá is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Liverpool, London, Losangeles and Manchester and 5 more. Often billed alongside Egg On Toast, THT GRL and MOLL (UK). Next up: The Ground at Club Space, Miami on Sat 31 Oct.
+MARACUYá is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Liverpool, London, Los Angeles and Manchester and 5 more. Often billed alongside Egg On Toast, THT GRL and MOLL (UK). Next up: The Ground at Club Space, Miami on Sat 31 Oct.
 
 ## Upcoming shows
 

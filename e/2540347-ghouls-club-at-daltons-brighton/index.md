@@ -1,6 +1,6 @@
 # Ghouls Club at Daltons Brighton
 
-Ghouls Club at Daltons Brighton on Sat 7 Nov, Brighton. 1 act on the bill: Creep-P. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Ghouls Club at Daltons Brighton on Sat 7 Nov, Brighton. 1 artist on the bill: Creep-P. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

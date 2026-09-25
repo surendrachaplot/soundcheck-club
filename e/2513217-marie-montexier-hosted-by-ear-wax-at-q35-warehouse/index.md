@@ -1,6 +1,6 @@
 # Marie Montexier hosted by EAR\WAX at Q35 WAREHOUSE
 
-Marie Montexier hosted by EAR\WAX at Q35 WAREHOUSE on Sat 10 Oct, Turin. 1 act on the bill: Marie Montexier. House and Acid. Preview the line-up and save it on soundcheck.
+Marie Montexier hosted by EAR\WAX at Q35 WAREHOUSE on Sat 10 Oct, Turin. 1 artist on the bill: Marie Montexier. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

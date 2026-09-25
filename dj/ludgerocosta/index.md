@@ -2,7 +2,7 @@
 
 Ludgero Costa is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location TBA, London on Sat, 26 Sept 2026.
 
-Ludgero Costa is a minimal and minimal techno artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across London. Often billed alongside LUUD, Myriam and Kesh (1). Next up: TBA - Secret Location TBA, London on Sat 26 Sept.
+Ludgero Costa is a minimal and minimal techno artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across London. Often billed alongside LUUD, Myriam and Kesh. Next up: TBA - Secret Location TBA, London on Sat 26 Sept.
 
 ## Upcoming shows
 

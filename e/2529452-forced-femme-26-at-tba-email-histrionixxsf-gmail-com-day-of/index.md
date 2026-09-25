@@ -1,6 +1,6 @@
 # Forced Femme '26 at TBA - email histrionixxsf@gmail.com day of event
 
-Forced Femme '26 at TBA - email histrionixxsf@gmail.com day of event on Sun 27 Sept, Sanfrancisco. 6 acts on the bill: 2dahlia, Arreola Grande, Del (4) and EthicalDrvgs and 2 more. Techno and Club. Preview the line-up and save it on soundcheck.
+Forced Femme '26 at TBA - email histrionixxsf@gmail.com day of event on Sun 27 Sept, San Francisco/Oakland. 6 artists on the bill: 2dahlia, Arreola Grande, Del and EthicalDrvgs and 2 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

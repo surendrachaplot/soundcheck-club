@@ -1,6 +1,6 @@
 # Tzara PRESENTS: Merchant (DANCE FOR HALLOWEEN) at The System
 
-Tzara PRESENTS: Merchant (DANCE FOR HALLOWEEN) at The System on Sat 31 Oct, Sheffield. 1 act on the bill: Merchant. House and Disco. Preview the line-up and save it on soundcheck.
+Tzara PRESENTS: Merchant (DANCE FOR HALLOWEEN) at The System on Sat 31 Oct, Sheffield. 1 artist on the bill: Merchant. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

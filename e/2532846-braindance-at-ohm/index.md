@@ -1,6 +1,6 @@
 # BRAINDANCE at OHM
 
-BRAINDANCE at OHM on Sat 3 Oct, Berlin. 2 acts on the bill: Makam and TAFKAMP. Preview the line-up and save it on soundcheck.
+BRAINDANCE at OHM on Sat 3 Oct, Berlin. 2 artists on the bill: Makam and TAFKAMP. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

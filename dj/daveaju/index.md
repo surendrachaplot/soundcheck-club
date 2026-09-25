@@ -2,7 +2,7 @@
 
 Dave Aju is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Yamashiro Hollywood, Los Angeles on Sat, 31 Oct 2026.
 
-Dave Aju is a house and disco artist based in United States of America, tracked on soundcheck, with 26 sets logged across Berlin, Losangeles, Sandiego and Sanfrancisco. Often billed alongside Tavish, SONNS and Nomadico. Next up: Yamashiro Hollywood, Losangeles on Sat 31 Oct.
+Dave Aju is a house and disco artist based in United States of America, tracked on soundcheck, with 26 sets logged across Berlin, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Tavish, SONNS and Nomadico. Next up: Yamashiro Hollywood, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 

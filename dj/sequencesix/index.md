@@ -1,14 +1,15 @@
 # Sequence Six
 
-Sequence Six is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Sequence Six is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-Sequence Six is a trance and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Chicago, Losangeles, Montreal and Sandiego and 1 more. Often billed alongside Billy Gillies, David Rust and Infected Mushroom. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
+Sequence Six is a trance and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Chicago, Los Angeles, Montreal and San Diego and 2 more. Often billed alongside Aly & Fila, Billy Gillies and David Rust. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
+| Sat, 12 Jun 2027 | Steelyard Kelham | Sheffield |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sequence Six is a trance and techno artist based in United States of America, tr
 
 ## Shares bills with
 
-Billy Gillies, David Rust, Infected Mushroom
+Aly & Fila, Billy Gillies, David Rust
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sequencesix/)*

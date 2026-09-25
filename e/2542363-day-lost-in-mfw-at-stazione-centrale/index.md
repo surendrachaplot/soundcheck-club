@@ -1,6 +1,6 @@
 # [DAY] Lost in MFW at Stazione Centrale
 
-[DAY] Lost in MFW at Stazione Centrale on Sat 26 Sept, Milan. 7 acts on the bill: ALDAVE, Candelaria, Dante (H501) and Ferrari and 3 more. House. Preview the line-up and save it on soundcheck.
+[DAY] Lost in MFW at Stazione Centrale on Sat 26 Sept, Milan. 7 artists on the bill: ALDAVE, Candelaria, Dante (H501) and Ferrari and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

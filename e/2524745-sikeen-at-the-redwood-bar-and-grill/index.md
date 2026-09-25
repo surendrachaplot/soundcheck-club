@@ -1,6 +1,6 @@
 # Sikeen at The Redwood Bar And Grill
 
-Sikeen at The Redwood Bar And Grill on Fri 9 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+Sikeen at The Redwood Bar And Grill on Fri 9 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

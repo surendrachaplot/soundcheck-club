@@ -1,6 +1,6 @@
 # Afrojack w/ Green Velvet at Echostage
 
-Afrojack w/ Green Velvet at Echostage on Sat 10 Oct, Washingtondc. 2 acts on the bill: Afrojack and Green Velvet. House and Electro. Preview the line-up and save it on soundcheck.
+Afrojack w/ Green Velvet at Echostage on Sat 10 Oct, Washington DC. 2 artists on the bill: Afrojack and Green Velvet. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

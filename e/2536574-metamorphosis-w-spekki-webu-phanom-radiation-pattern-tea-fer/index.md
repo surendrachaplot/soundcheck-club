@@ -1,6 +1,6 @@
 # Metamorphosis w/ Spekki Webu, phanom, Radiation Pattern & Tea Ferrari - Kantarion Sound at Het Salon
 
-Metamorphosis w/ Spekki Webu, phanom, Radiation Pattern & Tea Ferrari - Kantarion Sound at Het Salon on Sat 3 Oct, Amsterdam. 3 acts on the bill: phanom, Simone Altavilla and Spekki Webu. Preview the line-up and save it on soundcheck.
+Metamorphosis w/ Spekki Webu, phanom, Radiation Pattern & Tea Ferrari - Kantarion Sound at Het Salon on Sat 3 Oct, Amsterdam. 3 artists on the bill: phanom, Simone Altavilla and Spekki Webu. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

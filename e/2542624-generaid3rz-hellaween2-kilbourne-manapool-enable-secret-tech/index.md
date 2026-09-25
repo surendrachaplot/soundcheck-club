@@ -1,6 +1,6 @@
 # GENERAID3RZ HELLAWEEN2: Kilbourne, MANAPOOL, Enable Secret, Technopagan at F8 1192 Folsom
 
-GENERAID3RZ HELLAWEEN2: Kilbourne, MANAPOOL, Enable Secret, Technopagan at F8 1192 Folsom on Sat 31 Oct, Sanfrancisco. 9 acts on the bill: bastiengoat, DJ Saratonin, Enable Secret and GHOST MILK and 5 more. Trance and Hardcore. Preview the line-up and save it on soundcheck.
+GENERAID3RZ HELLAWEEN2: Kilbourne, MANAPOOL, Enable Secret, Technopagan at F8 1192 Folsom on Sat 31 Oct, San Francisco/Oakland. 9 artists on the bill: bastiengoat, DJ Saratonin, Enable Secret and GHOST MILK and 5 more. Trance and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

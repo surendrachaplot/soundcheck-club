@@ -1,6 +1,6 @@
 # PENTIMENTO - Nicolas Lutz at DURO
 
-PENTIMENTO - Nicolas Lutz at DURO on Fri 13 Nov, Milan. 1 act on the bill: Nicolas Lutz. Preview the line-up and save it on soundcheck.
+PENTIMENTO - Nicolas Lutz at DURO on Fri 13 Nov, Milan. 1 artist on the bill: Nicolas Lutz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

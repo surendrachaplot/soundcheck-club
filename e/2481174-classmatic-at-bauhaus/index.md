@@ -1,6 +1,6 @@
 # Classmatic at Bauhaus
 
-Classmatic at Bauhaus on Fri 23 Oct, Houston. 1 act on the bill: Classmatic. Techno and House. Preview the line-up and save it on soundcheck.
+Classmatic at Bauhaus on Fri 23 Oct, Houston. 1 artist on the bill: Classmatic. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

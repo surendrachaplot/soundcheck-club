@@ -1,6 +1,6 @@
 # Rodriguez Jr - My House, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo
 
-Rodriguez Jr - My House, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo on Fri 9 Oct, Buenosaires. 1 act on the bill: Rodriguez Jr.. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Rodriguez Jr - My House, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo on Fri 9 Oct, Buenos Aires. 1 artist on the bill: Rodriguez Jr.. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

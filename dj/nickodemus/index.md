@@ -2,7 +2,7 @@
 
 Nickodemus is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at MAD Radio NYC, New York City on Thu, 24 Sept 2026.
 
-Nickodemus is a house and afro house artist based in United States of America, tracked on soundcheck, with 61 sets logged across Barcelona, Boston, Dundee and Geneva and 10 more. Often billed alongside Willy Soul, 2melo and Disgonuts. Next up: MAD Radio NYC, Newyorkcity on Thu 24 Sept.
+Nickodemus is a house and afro house artist based in United States of America, tracked on soundcheck, with 61 sets logged across Barcelona, Boston, Dundee and Geneva and 10 more. Often billed alongside Willy Soul, 2melo and Disgonuts. Next up: MAD Radio NYC, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

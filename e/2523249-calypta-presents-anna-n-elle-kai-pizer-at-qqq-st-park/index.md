@@ -1,6 +1,6 @@
 # Calypta presents: anna(n), Elle, Kai Pizer at QQQ ST. Park
 
-Calypta presents: anna(n), Elle, Kai Pizer at QQQ ST. Park on Fri 9 Oct, Melbourne. 1 act on the bill: anna(n). Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Calypta presents: anna(n), Elle, Kai Pizer at QQQ ST. Park on Fri 9 Oct, Melbourne. 1 artist on the bill: anna(n). Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

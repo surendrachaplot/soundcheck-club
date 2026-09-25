@@ -1,6 +1,6 @@
 # Nooriyah, Adele Tondu, imad:re at New Century Locker
 
-Nooriyah, Adele Tondu, imad:re at New Century Locker on Fri 2 Oct, Manchester. 2 acts on the bill: imad:re and Nooriyah. Bass and Reggaeton. Preview the line-up and save it on soundcheck.
+Nooriyah, Adele Tondu, imad:re at New Century Locker on Fri 2 Oct, Manchester. 2 artists on the bill: imad:re and Nooriyah. Bass and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

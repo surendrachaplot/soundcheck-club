@@ -2,7 +2,7 @@
 
 JVINCENT is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Katsute100 Brick Lane & Bun House Disco, London on Fri, 23 Oct 2026.
 
-JVINCENT is a baile funk and club artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Copenhagen, Hongkong, London and Paris. Often billed alongside ZEE-2, HARUNA (2) and Samo. Next up: Katsute100 Brick Lane & Bun House Disco, London on Fri 23 Oct.
+JVINCENT is a baile funk and club artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Copenhagen, Hong Kong, London and Paris. Often billed alongside ZEE-2, HARUNA and Samo. Next up: Katsute100 Brick Lane & Bun House Disco, London on Fri 23 Oct.
 
 ## Upcoming shows
 

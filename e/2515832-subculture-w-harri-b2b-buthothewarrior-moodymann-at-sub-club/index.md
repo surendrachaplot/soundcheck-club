@@ -1,6 +1,6 @@
 # Subculture w/ Harri b2b ButhoTheWarrior + Moodymann at Sub Club
 
-Subculture w/ Harri b2b ButhoTheWarrior + Moodymann at Sub Club on Sat 17 Oct, Glasgow. 3 acts on the bill: ButhoTheWarrior, DJ Harri and Moodymann. Preview the line-up and save it on soundcheck.
+Subculture w/ Harri b2b ButhoTheWarrior + Moodymann at Sub Club on Sat 17 Oct, Glasgow. 3 artists on the bill: ButhoTheWarrior, DJ Harri and Moodymann. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

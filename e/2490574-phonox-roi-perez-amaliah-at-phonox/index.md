@@ -1,6 +1,6 @@
 # Phonox: Roi Perez, Amaliah at Phonox
 
-Phonox: Roi Perez, Amaliah on Sat 26 Sept, London. 2 acts on the bill: Amaliah and Roi Perez. House. Preview the line-up and save it on soundcheck.
+Phonox: Roi Perez, Amaliah on Sat 26 Sept, London. 2 artists on the bill: Amaliah and Roi Perez. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

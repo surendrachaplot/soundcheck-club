@@ -1,6 +1,6 @@
 # WTW -秋場所- (TECH HOUSE) at WOMB
 
-WTW -秋場所- (TECH HOUSE) at WOMB on Thu 1 Oct, Tokyo. 5 acts on the bill: B (379), Daitto, EIGHT and IRODORI and 1 more. Tech House. Preview the line-up and save it on soundcheck.
+WTW -秋場所- (TECH HOUSE) at WOMB on Thu 1 Oct, Tokyo. 5 artists on the bill: B, Daitto, EIGHT and IRODORI and 1 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

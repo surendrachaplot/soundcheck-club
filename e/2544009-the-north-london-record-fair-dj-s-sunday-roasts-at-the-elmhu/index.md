@@ -1,6 +1,6 @@
 # The North London Record Fair, DJ's & Sunday Roasts at The Elmhurst
 
-The North London Record Fair, DJ's & Sunday Roasts at The Elmhurst on Sun 18 Oct, London. 1 act on the bill: Neil Thornton. Downtempo and Funk / Soul. Preview the line-up and save it on soundcheck.
+The North London Record Fair, DJ's & Sunday Roasts at The Elmhurst on Sun 18 Oct, London. 1 artist on the bill: Neil Thornton. Downtempo and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

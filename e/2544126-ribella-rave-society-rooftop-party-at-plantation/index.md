@@ -1,6 +1,6 @@
 # Ribella Rave Society - Rooftop Party at Plantation
 
-Ribella Rave Society - Rooftop Party at Plantation on Fri 2 Oct, Paris. 2 acts on the bill: Disco Paese and Seabra. Preview the line-up and save it on soundcheck.
+Ribella Rave Society - Rooftop Party at Plantation on Fri 2 Oct, Paris. 2 artists on the bill: Disco Paese and Seabra. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Spend The Night + Be Yourself: Pearson Sound (Hessle Audio) at TBA - 525 SE Pine st
 
-Spend The Night + Be Yourself: Pearson Sound (Hessle Audio) at TBA - 525 SE Pine st on Fri 16 Oct, Portland. 3 acts on the bill: Gardenparty, Pearson Sound and Petite Syrah. Bass and Experimental. Preview the line-up and save it on soundcheck.
+Spend The Night + Be Yourself: Pearson Sound (Hessle Audio) at TBA - 525 SE Pine st on Fri 16 Oct, Portland. 3 artists on the bill: Gardenparty, Pearson Sound and Petite Syrah. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

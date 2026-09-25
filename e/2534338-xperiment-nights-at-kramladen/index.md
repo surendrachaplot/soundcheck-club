@@ -1,6 +1,6 @@
 # Xperiment Nights at Kramladen
 
-Xperiment Nights at Kramladen on Sat 26 Sept, Vienna. 3 acts on the bill: Giuseppe Rizza, Kristy Plam and Leen Tilt. Techno. Preview the line-up and save it on soundcheck.
+Xperiment Nights at Kramladen on Sat 26 Sept, Vienna. 3 artists on the bill: Giuseppe Rizza, Kristy Plam and Leen Tilt. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

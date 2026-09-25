@@ -1,6 +1,6 @@
 # CRUZ at Secret Venue in Minatoku-Nishiazabu
 
-CRUZ at Secret Venue in Minatoku-Nishiazabu on Fri 25 Sept, Tokyo. 5 acts on the bill: Gonno, levolant, manato and Marcus L and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+CRUZ at Secret Venue in Minatoku-Nishiazabu on Fri 25 Sept, Tokyo. 5 artists on the bill: Gonno, levolant, manato and Marcus L and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

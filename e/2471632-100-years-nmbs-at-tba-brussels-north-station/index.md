@@ -1,6 +1,6 @@
 # 100 years NMBS at TBA - Brussels North Station
 
-100 years NMBS at TBA - Brussels North Station on Fri 20 Nov, Brussels. 1 act on the bill: Kenn Colt. Preview the line-up and save it on soundcheck.
+100 years NMBS at TBA - Brussels North Station on Fri 20 Nov, Brussels. 1 artist on the bill: Kenn Colt. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

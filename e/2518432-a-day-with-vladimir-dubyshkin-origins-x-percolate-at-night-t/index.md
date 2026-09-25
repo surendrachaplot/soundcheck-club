@@ -1,6 +1,6 @@
 # A Day with Vladimir Dubyshkin [Origins x Percolate] at Night Tales
 
-A Day with Vladimir Dubyshkin [Origins x Percolate] at Night Tales on Sat 21 Nov, London. 1 act on the bill: Vladimir Dubyshkin. Techno. Preview the line-up and save it on soundcheck.
+A Day with Vladimir Dubyshkin [Origins x Percolate] at Night Tales on Sat 21 Nov, London. 1 artist on the bill: Vladimir Dubyshkin. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

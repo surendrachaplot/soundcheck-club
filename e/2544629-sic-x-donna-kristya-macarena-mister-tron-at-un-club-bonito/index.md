@@ -1,6 +1,6 @@
 # [sic] x Donna: KRISTYA / Macarena / Mister Tron at un club bonito
 
-[sic] x Donna: KRISTYA / Macarena / Mister Tron at un club bonito on Fri 25 Sept, Mexicocity. 2 acts on the bill: KRISTYA and Macarena. House and Disco. Preview the line-up and save it on soundcheck.
+[sic] x Donna: KRISTYA / Macarena / Mister Tron at un club bonito on Fri 25 Sept, Mexico City. 2 artists on the bill: KRISTYA and Macarena. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

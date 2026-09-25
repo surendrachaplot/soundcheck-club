@@ -1,6 +1,6 @@
 # Fabe B2B Fabio Santos - OG Sanja at Het Sieraad
 
-Fabe B2B Fabio Santos - OG Sanja at Het Sieraad on Fri 16 Oct, Amsterdam. 2 acts on the bill: Fabe and Fabio Santos. House. Preview the line-up and save it on soundcheck.
+Fabe B2B Fabio Santos - OG Sanja at Het Sieraad on Fri 16 Oct, Amsterdam. 2 artists on the bill: Fabe and Fabio Santos. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

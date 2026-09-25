@@ -1,6 +1,6 @@
 # Anyasa (Anjunadeep / Diynamic): Toronto at Story Toronto
 
-Anyasa (Anjunadeep / Diynamic): Toronto at Story Toronto on Fri 25 Sept, Toronto. 1 act on the bill: Anyasa. Progressive House. Preview the line-up and save it on soundcheck.
+Anyasa (Anjunadeep / Diynamic): Toronto at Story Toronto on Fri 25 Sept, Toronto. 1 artist on the bill: Anyasa. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

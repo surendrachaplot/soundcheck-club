@@ -9,7 +9,7 @@ DJ Steaw is a house and tech house artist based in France, tracked on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Goya Social Club | Madrid |
-| Fri, 9 Oct 2026 | TBA - 13 Rue Marguerite Moret, 75011 Paris | Paris |
+| Fri, 9 Oct 2026 | TBA - Paris | Paris |
 
 ## Recently played
 

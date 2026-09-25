@@ -1,6 +1,6 @@
 # REVOLVER BANDROOM: TRACK WALK 3 at Revolver Upstairs
 
-REVOLVER BANDROOM: TRACK WALK 3 at Revolver Upstairs on Fri 9 Oct, Melbourne. 1 act on the bill: DJ Kilo. Hip-Hop. Preview the line-up and save it on soundcheck.
+REVOLVER BANDROOM: TRACK WALK 3 at Revolver Upstairs on Fri 9 Oct, Melbourne. 1 artist on the bill: DJ Kilo. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Onur Özer - All Night Long (Age 21+) at Cobalt Studios
 
-Onur Özer - All Night Long (Age 21+) at Cobalt Studios on Fri 9 Oct, Newcastle. 1 act on the bill: Onur Özer. Preview the line-up and save it on soundcheck.
+Onur Özer - All Night Long (Age 21+) at Cobalt Studios on Fri 9 Oct, Newcastle. 1 artist on the bill: Onur Özer. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DJ CARO at Moonglow at Moonglow Oakland
 
-DJ CARO at Moonglow at Moonglow Oakland on Thu 24 Sept, Sanfrancisco. 1 act on the bill: DJ CARO. Dub Techno and R&B. Preview the line-up and save it on soundcheck.
+DJ CARO at Moonglow at Moonglow Oakland on Thu 24 Sept, San Francisco/Oakland. 1 artist on the bill: DJ CARO. Dub Techno and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

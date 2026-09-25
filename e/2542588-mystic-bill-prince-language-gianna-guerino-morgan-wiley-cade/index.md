@@ -1,6 +1,6 @@
 # Mystic Bill, Prince Language, Gianna Guerino, Morgan Wiley, Cadence Radio - Dead Letter No.9 at Dead Letter No. 9
 
-Mystic Bill, Prince Language, Gianna Guerino, Morgan Wiley, Cadence Radio - Dead Letter No.9 at Dead Letter No. 9 on Fri 9 Oct, Newyorkcity. 3 acts on the bill: Elkind, Mystic Bill and Prince Language. House and Acid. Preview the line-up and save it on soundcheck.
+Mystic Bill, Prince Language, Gianna Guerino, Morgan Wiley, Cadence Radio - Dead Letter No.9 at Dead Letter No. 9 on Fri 9 Oct, New York City. 3 artists on the bill: Elkind, Mystic Bill and Prince Language. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

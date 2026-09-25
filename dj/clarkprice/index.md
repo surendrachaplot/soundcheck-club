@@ -2,7 +2,7 @@
 
 Clark Price is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at H0L0, New York City on Sat, 24 Oct 2026.
 
-Clark Price is a house and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Berlin, Detroit, Manchester and Montreal and 4 more. Often billed alongside Aaron Clark, Honcho and d'Adhemar. Next up: H0L0, Newyorkcity on Sat 24 Oct.
+Clark Price is a house and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Berlin, Detroit, Manchester and Montreal and 4 more. Often billed alongside Aaron Clark, Honcho and d'Adhemar. Next up: H0L0, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 

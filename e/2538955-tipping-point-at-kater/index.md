@@ -1,6 +1,6 @@
 # Tipping Point at Kater
 
-Tipping Point at Kater on Fri 13 Nov, Berlin. 6 acts on the bill: Ciao 3lla, Fabian Krooss, FLAVE and Francis FF and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Tipping Point at Kater on Fri 13 Nov, Berlin. 6 artists on the bill: Ciao 3lla, Fabian Krooss, FLAVE and Francis FF and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

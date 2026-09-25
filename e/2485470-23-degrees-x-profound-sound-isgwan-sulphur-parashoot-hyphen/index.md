@@ -1,6 +1,6 @@
 # 23 Degrees x Profound Sound: IsGwan, Sulphur, parashoot, Hyphen & THIRZA at M.O.T
 
-23 Degrees x Profound Sound: IsGwan, Sulphur, parashoot, Hyphen & THIRZA at M.O.T on Fri 16 Oct, London. 4 acts on the bill: IsGwan, parashoot, Sulphur and THIRZA. Garage and Tech House. Preview the line-up and save it on soundcheck.
+23 Degrees x Profound Sound: IsGwan, Sulphur, parashoot, Hyphen & THIRZA at M.O.T on Fri 16 Oct, London. 4 artists on the bill: IsGwan, parashoot, Sulphur and THIRZA. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

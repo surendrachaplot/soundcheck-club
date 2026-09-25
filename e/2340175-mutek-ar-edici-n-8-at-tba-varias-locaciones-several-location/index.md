@@ -1,6 +1,6 @@
 # MUTEK.AR EDICIÓN 8 at TBA - Varias Locaciones / Several Locations
 
-MUTEK.AR EDICIÓN 8 at TBA - Varias Locaciones / Several Locations on Wed 7 Oct, Buenosaires. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+MUTEK.AR EDICIÓN 8 at TBA - Varias Locaciones / Several Locations on Wed 7 Oct, Buenos Aires. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

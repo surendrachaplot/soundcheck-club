@@ -1,6 +1,6 @@
 # Heels & Souls On The Beach: Liquid Earth, Oriana, acidheaven, Perro Jimbo, VIKk at Sunseabar Beach Club
 
-Heels & Souls On The Beach: Liquid Earth, Oriana, acidheaven, Perro Jimbo, VIKk at Sunseabar Beach Club on Sat 26 Sept, Barcelona. 7 acts on the bill: acidheaven, Arnau, Liquid Earth and Lydia Vilas and 3 more. Preview the line-up and save it on soundcheck.
+Heels & Souls On The Beach: Liquid Earth, Oriana, acidheaven, Perro Jimbo, VIKk at Sunseabar Beach Club on Sat 26 Sept, Barcelona. 7 artists on the bill: acidheaven, Arnau, Liquid Earth and Lydia Vilas and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

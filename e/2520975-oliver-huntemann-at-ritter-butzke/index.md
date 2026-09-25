@@ -1,6 +1,6 @@
 # Oliver Huntemann at Ritter Butzke
 
-Oliver Huntemann at Ritter Butzke on Sat 28 Nov, Berlin. 3 acts on the bill: Aio, Oliver Huntemann and Wanda Wild. Techno. Preview the line-up and save it on soundcheck.
+Oliver Huntemann at Ritter Butzke on Sat 28 Nov, Berlin. 3 artists on the bill: Aio, Oliver Huntemann and Wanda Wild. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

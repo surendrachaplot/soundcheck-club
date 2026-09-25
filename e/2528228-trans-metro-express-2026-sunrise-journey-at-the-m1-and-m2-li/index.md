@@ -1,6 +1,6 @@
 # TRANS METRO EXPRESS 2026: SUNRISE JOURNEY at The M1 and M2 Lines on the Copenhagen Metro
 
-TRANS METRO EXPRESS 2026: SUNRISE JOURNEY at The M1 and M2 Lines on the Copenhagen Metro on Sun 27 Sept, Copenhagen. 1 act on the bill: Hasfeldt. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+TRANS METRO EXPRESS 2026: SUNRISE JOURNEY at The M1 and M2 Lines on the Copenhagen Metro on Sun 27 Sept, Copenhagen. 1 artist on the bill: Hasfeldt. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

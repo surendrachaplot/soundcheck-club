@@ -1,6 +1,6 @@
 # Club Rua at EartH Kitchen
 
-Club Rua at EartH Kitchen on Fri 9 Oct, London. 4 acts on the bill: Eseccaro, HOLY C, Nina Pixina and Toraigh. Trance and Techno. Preview the line-up and save it on soundcheck.
+Club Rua at EartH Kitchen on Fri 9 Oct, London. 4 artists on the bill: Eseccaro, HOLY C, Nina Pixina and Toraigh. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

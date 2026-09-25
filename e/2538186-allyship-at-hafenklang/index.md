@@ -1,6 +1,6 @@
 # Allyship at Hafenklang
 
-Allyship at Hafenklang on Fri 2 Oct, Hamburg. 3 acts on the bill: JMK (1), Kataya and Tuğba Başş. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Allyship at Hafenklang on Fri 2 Oct, Hamburg. 3 artists on the bill: JMK, Kataya and Tuğba Başş. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

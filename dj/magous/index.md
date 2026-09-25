@@ -2,7 +2,7 @@
 
 Mago (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jupiter Disco, New York City on Wed, 7 Oct 2026.
 
-Mago (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside zorenLo, For Future's Sake and BOJAQ. Next up: Jupiter Disco, Newyorkcity on Wed 7 Oct.
+Mago (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across New York City. Often billed alongside zorenLo, For Future's Sake and BOJAQ. Next up: Jupiter Disco, New York City on Wed 7 Oct.
 
 ## Upcoming shows
 

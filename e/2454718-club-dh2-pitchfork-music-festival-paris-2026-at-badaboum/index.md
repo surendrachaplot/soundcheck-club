@@ -1,6 +1,6 @@
 # Club — DH2: Pitchfork Music Festival Paris 2026 at Badaboum
 
-Club — DH2: Pitchfork Music Festival Paris 2026 at Badaboum on Thu 5 Nov, Paris. 4 acts on the bill: George Daniel, Nikki Nair, Oscar Farrell and VITAMINE C. Tech House. Preview the line-up and save it on soundcheck.
+Club — DH2: Pitchfork Music Festival Paris 2026 at Badaboum on Thu 5 Nov, Paris. 4 artists on the bill: George Daniel, Nikki Nair, Oscar Farrell and VITAMINE C. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

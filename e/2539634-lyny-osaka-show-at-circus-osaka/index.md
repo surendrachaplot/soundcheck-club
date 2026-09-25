@@ -1,6 +1,6 @@
 # LYNY Osaka show at Circus Osaka
 
-LYNY Osaka show at Circus Osaka on Sat 14 Nov, Osaka. 1 act on the bill: SAKO. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+LYNY Osaka show at Circus Osaka on Sat 14 Nov, Osaka. 1 artist on the bill: SAKO. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

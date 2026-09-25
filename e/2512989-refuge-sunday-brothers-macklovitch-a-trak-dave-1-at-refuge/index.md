@@ -1,6 +1,6 @@
 # Refuge Sunday: Brothers Macklovitch (A-Trak & Dave 1) at Refuge
 
-Refuge Sunday: Brothers Macklovitch (A-Trak & Dave 1) on Sun 27 Sept, Newyorkcity. 1 act on the bill: A-Trak. Preview the line-up and save it on soundcheck.
+Refuge Sunday: Brothers Macklovitch (A-Trak & Dave 1) on Sun 27 Sept, New York City. 1 artist on the bill: A-Trak. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

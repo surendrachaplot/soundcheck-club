@@ -1,6 +1,6 @@
 # JAZZ TO JUNGLE at Tola
 
-JAZZ TO JUNGLE at Tola on Fri 16 Oct, London. 3 acts on the bill: ELshus, Half-Life and karishma. Jazz and Jungle. Preview the line-up and save it on soundcheck.
+JAZZ TO JUNGLE at Tola on Fri 16 Oct, London. 3 artists on the bill: ELshus, Half-Life and karishma. Jazz and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

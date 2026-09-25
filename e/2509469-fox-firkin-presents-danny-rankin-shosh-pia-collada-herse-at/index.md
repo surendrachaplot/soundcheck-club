@@ -1,6 +1,6 @@
 # Fox & Firkin presents Danny Rankin, Shosh, Pia Collada + Herse at The Fox and Firkin
 
-Fox & Firkin presents Danny Rankin, Shosh, Pia Collada + Herse at The Fox and Firkin on Fri 13 Nov, London. 1 act on the bill: Danny Rankin. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
+Fox & Firkin presents Danny Rankin, Shosh, Pia Collada + Herse at The Fox and Firkin on Fri 13 Nov, London. 1 artist on the bill: Danny Rankin. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

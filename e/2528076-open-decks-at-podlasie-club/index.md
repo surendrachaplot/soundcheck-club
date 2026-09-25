@@ -1,6 +1,6 @@
 # OPEN DECKS at Podlasie Club
 
-OPEN DECKS at Podlasie Club on Fri 25 Sept, Chicago. 1 act on the bill: Brendan Lemkin. Preview the line-up and save it on soundcheck.
+OPEN DECKS at Podlasie Club on Fri 25 Sept, Chicago. 1 artist on the bill: Brendan Lemkin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

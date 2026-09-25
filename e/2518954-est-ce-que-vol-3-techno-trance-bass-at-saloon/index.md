@@ -1,6 +1,6 @@
 # Est-ce que  vol.3 (TECHNO/TRANCE/BASS) at Saloon
 
-Est-ce que  vol.3 (TECHNO/TRANCE/BASS) at Saloon on Fri 25 Sept, Tokyo. 4 acts on the bill: Kanamemandala, KOSHIRO, S.H.V and Usk°. Trance and Techno. Preview the line-up and save it on soundcheck.
+Est-ce que  vol.3 (TECHNO/TRANCE/BASS) at Saloon on Fri 25 Sept, Tokyo. 4 artists on the bill: Kanamemandala, KOSHIRO, S.H.V and Usk°. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

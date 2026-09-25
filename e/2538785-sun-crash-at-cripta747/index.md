@@ -1,6 +1,6 @@
 # SUN CRASH at Cripta747
 
-SUN CRASH at Cripta747 on Sat 3 Oct, Turin. 2 acts on the bill: eeeaeeeeaee and VIBRISSE. Hardcore and Experimental. Preview the line-up and save it on soundcheck.
+SUN CRASH at Cripta747 on Sat 3 Oct, Turin. 2 artists on the bill: eeeaeeeeaee and VIBRISSE. Hardcore and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

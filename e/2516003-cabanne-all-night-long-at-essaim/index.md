@@ -1,6 +1,6 @@
 # Cabanne - all night long at essaim
 
-Cabanne - all night long at essaim on Sat 24 Oct, Paris. 1 act on the bill: Cabanne. Techno. Preview the line-up and save it on soundcheck.
+Cabanne - all night long at essaim on Sat 24 Oct, Paris. 1 artist on the bill: Cabanne. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

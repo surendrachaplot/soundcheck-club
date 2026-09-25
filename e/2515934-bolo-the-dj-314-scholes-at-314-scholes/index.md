@@ -1,6 +1,6 @@
 # BOLO THE DJ: 314 Scholes at 314 Scholes
 
-BOLO THE DJ: 314 Scholes on Sat 14 Nov, Newyorkcity. House and Tech House. Preview the line-up and save it on soundcheck.
+BOLO THE DJ: 314 Scholes on Sat 14 Nov, New York City. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Anomaly at Chika-Ikkai
 
-Anomaly at Chika-Ikkai on Sat 10 Oct, Osaka. 4 acts on the bill: *asuro, Kombé, Ling Yao and Vís (1). Techno. Preview the line-up and save it on soundcheck.
+Anomaly at Chika-Ikkai on Sat 10 Oct, Osaka. 4 artists on the bill: *asuro, Kombé, Ling Yao and Vís. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

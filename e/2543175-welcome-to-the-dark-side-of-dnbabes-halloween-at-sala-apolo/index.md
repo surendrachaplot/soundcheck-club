@@ -1,6 +1,6 @@
 # Welcome to the Dark side of DnBabes: Halloween at Sala Apolo
 
-Welcome to the Dark side of DnBabes: Halloween at Sala Apolo on Sat 31 Oct, Barcelona. 1 act on the bill: PEAK (2). Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Welcome to the Dark side of DnBabes: Halloween at Sala Apolo on Sat 31 Oct, Barcelona. 1 artist on the bill: PEAK. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

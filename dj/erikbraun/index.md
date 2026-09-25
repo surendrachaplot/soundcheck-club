@@ -2,7 +2,7 @@
 
 Erik Braun is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Good Room, New York City on Thu, 24 Sept 2026.
 
-Erik Braun is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside HNDRNC, skoglund and SANDBAG. Next up: Good Room, Newyorkcity on Thu 24 Sept.
+Erik Braun is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across New York City. Often billed alongside HNDRNC, skoglund and SANDBAG. Next up: Good Room, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

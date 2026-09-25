@@ -1,6 +1,6 @@
 # Ritual del Kaoz: Halloween at CHICO
 
-Ritual del Kaoz: Halloween at CHICO on Sat 31 Oct, Mexicocity. 2 acts on the bill: Marvin Marciano and Milothicc. Reggaeton. Preview the line-up and save it on soundcheck.
+Ritual del Kaoz: Halloween at CHICO on Sat 31 Oct, Mexico City. 2 artists on the bill: Marvin Marciano and Milothicc. Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 PIKE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at RADION, Amsterdam on Fri, 2 Oct 2026.
 
-PIKE is a techno and house artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Liverpool, Rotterdam and Thehague. Often billed alongside Roy Lodder, Atnan and ADHDJ (2). Next up: RADION, Amsterdam on Fri 2 Oct.
+PIKE is a techno and house artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Liverpool, Rotterdam and The Hague. Often billed alongside Roy Lodder, Atnan and ADHDJ. Next up: RADION, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 

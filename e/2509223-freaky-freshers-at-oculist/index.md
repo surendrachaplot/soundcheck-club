@@ -1,6 +1,6 @@
 # Freaky Freshers at Oculist
 
-Freaky Freshers at Oculist on Thu 24 Sept, Brighton. 1 act on the bill: SKYE.7.7.7. Techno and Club. Preview the line-up and save it on soundcheck.
+Freaky Freshers at Oculist on Thu 24 Sept, Brighton. 1 artist on the bill: SKYE.7.7.7. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PROVINCE 44 presents Ranger Trucco at Descent
 
-PROVINCE 44 presents Ranger Trucco at Descent on Sat 17 Oct, Boston. 1 act on the bill: Ranger Trucco. Tech House. Preview the line-up and save it on soundcheck.
+PROVINCE 44 presents Ranger Trucco at Descent on Sat 17 Oct, Boston. 1 artist on the bill: Ranger Trucco. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

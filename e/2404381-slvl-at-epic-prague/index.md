@@ -1,6 +1,6 @@
 # SLVL at Epic Prague
 
-SLVL at Epic Prague on Fri 20 Nov, Prague. 1 act on the bill: SLVL. Techno and Industrial. Preview the line-up and save it on soundcheck.
+SLVL at Epic Prague on Fri 20 Nov, Prague. 1 artist on the bill: SLVL. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Vale do Anhangabaú is a music venue in Sao Paulo with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "X São Paulo" on Sat, 26 Sept 2026.
 
-Vale do Anhangabaú is a music venue in Saopaulo listed on soundcheck. 2 upcoming gigs, with line-ups including Adriatique and Marco Carola. Browse upcoming dates, start times and who's playing. Vale do Anhangabaú – Centro – São Paulo (cerca de las estaciones del metro Anhangabaú y  São Bento)..
+Vale do Anhangabaú is a music venue in Sao Paulo listed on soundcheck. 2 upcoming gigs, with line-ups including Adriatique and Marco Carola. Browse upcoming dates, start times and who's playing. Vale do Anhangabaú – Centro – São Paulo (cerca de las estaciones del metro Anhangabaú y  São Bento)..
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # aux: velocity opening with Speedy J at AUX Club
 
-aux: velocity opening with Speedy J at AUX Club on Fri 2 Oct, Athens. 3 acts on the bill: Até., Cirkle and Speedy J. Techno. Preview the line-up and save it on soundcheck.
+aux: velocity opening with Speedy J at AUX Club on Fri 2 Oct, Athens. 3 artists on the bill: Até., Cirkle and Speedy J. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

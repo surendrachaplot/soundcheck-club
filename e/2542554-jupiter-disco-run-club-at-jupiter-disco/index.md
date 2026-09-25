@@ -1,6 +1,6 @@
 # Jupiter Disco Run Club at Jupiter Disco
 
-Jupiter Disco Run Club on Wed 28 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+Jupiter Disco Run Club on Wed 28 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

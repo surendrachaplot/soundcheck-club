@@ -2,7 +2,7 @@
 
 Vince Void is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
 
-Vince Void is a house and electro artist based in France, tracked on soundcheck, with 116 sets logged across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Diesco, Alex Garcia (2) and Pau Rosés. Next up: Seaseaclub Barcelona, Barcelona on Sat 10 Oct.
+Vince Void is a house and electro artist based in France, tracked on soundcheck, with 116 sets logged across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Diesco, Alex Garcia and Pau Rosés. Next up: Seaseaclub Barcelona, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Exheat presents : Truck Lips Premiere w/ Deli Girls + Wanton Witch + Djabaldjass at Recyclart
 
-Exheat presents : Truck Lips Premiere w/ Deli Girls + Wanton Witch + Djabaldjass at Recyclart on Fri 25 Sept, Brussels. 1 act on the bill: Wanton Witch. Preview the line-up and save it on soundcheck.
+Exheat presents : Truck Lips Premiere w/ Deli Girls + Wanton Witch + Djabaldjass at Recyclart on Fri 25 Sept, Brussels. 1 artist on the bill: Wanton Witch. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

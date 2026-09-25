@@ -1,6 +1,6 @@
 # Perreo Inferno OCT 31 [21+] at The Meadows
 
-Perreo Inferno OCT 31 [21+] at The Meadows on Sat 31 Oct, Newyorkcity. Club and Reggaeton. Preview the line-up and save it on soundcheck.
+Perreo Inferno OCT 31 [21+] at The Meadows on Sat 31 Oct, New York City. Club and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Partyraiser is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
-Partyraiser is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Antwerp, Brussels and Dortmund-essen and 6 more. Often billed alongside Angerfist, Bulletproof and Act of Rage. Next up: Westfalenhallen, Dortmund-essen on Sat 3 Oct.
+Partyraiser is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Antwerp, Brussels and Dortmund Essen and 6 more. Often billed alongside Angerfist, Bulletproof and Act of Rage. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
 
 ## Upcoming shows
 

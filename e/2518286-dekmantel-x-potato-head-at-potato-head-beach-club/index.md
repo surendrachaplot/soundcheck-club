@@ -1,6 +1,6 @@
 # Dekmantel x Potato Head at Potato Head Beach Club
 
-Dekmantel x Potato Head at Potato Head Beach Club on Sat 26 Sept, Bali. 10 acts on the bill: Archie Dennis, Avalon Emerson, Bagvs and Dekmantel Soundsystem and 6 more. Preview the line-up and save it on soundcheck.
+Dekmantel x Potato Head at Potato Head Beach Club on Sat 26 Sept, Bali. 10 artists on the bill: Archie Dennis, Avalon Emerson, Bagvs and Dekmantel Soundsystem and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

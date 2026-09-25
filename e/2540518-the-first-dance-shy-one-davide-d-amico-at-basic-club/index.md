@@ -1,6 +1,6 @@
 # THE FIRST DANCE • Shy One + Davide D'Amico at Basic Club
 
-THE FIRST DANCE • Shy One + Davide D'Amico at Basic Club on Sat 26 Sept, Naples. 2 acts on the bill: Davide D'Amico and Shy One. Preview the line-up and save it on soundcheck.
+THE FIRST DANCE • Shy One + Davide D'Amico at Basic Club on Sat 26 Sept, Naples. 2 artists on the bill: Davide D'Amico and Shy One. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

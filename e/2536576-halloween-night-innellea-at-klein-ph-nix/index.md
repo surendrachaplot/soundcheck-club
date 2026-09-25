@@ -1,6 +1,6 @@
 # Halloween Night // Innellea at Klein Phönix
 
-Halloween Night // Innellea at Klein Phönix on Sat 31 Oct, Istanbul. 1 act on the bill: Innellea. Preview the line-up and save it on soundcheck.
+Halloween Night // Innellea at Klein Phönix on Sat 31 Oct, Istanbul. 1 artist on the bill: Innellea. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

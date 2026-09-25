@@ -2,7 +2,7 @@
 
 Juana is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nowadays, New York City on Sat, 26 Sept 2026.
 
-Juana is a techno and house artist based in United States of America, tracked on soundcheck, with 125 sets logged across Austin, Berlin, Chicago and Denver and 11 more. Often billed alongside Ne/Re/A, Auspex and Concrete Husband. Next up: Nowadays, Newyorkcity on Sat 26 Sept.
+Juana is a techno and house artist based in United States of America, tracked on soundcheck, with 125 sets logged across Austin, Berlin, Chicago and Denver and 11 more. Often billed alongside Ne/Re/A, Auspex and Concrete Husband. Next up: Nowadays, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

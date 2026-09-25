@@ -1,6 +1,6 @@
 # Northern Bass 15th Anniversary at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573
 
-Northern Bass 15th Anniversary at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 on Wed 30 Dec, North-island. 18 acts on the bill: 4am Kru, A Little Sound, Andy C and Break and 14 more. Preview the line-up and save it on soundcheck.
+Northern Bass 15th Anniversary at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 on Wed 30 Dec, North Island. 18 artists on the bill: 4am Kru, A Little Sound, Andy C and Break and 14 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

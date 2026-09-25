@@ -1,6 +1,6 @@
 # Boat Club - ADE 2026 at Db55
 
-Boat Club - ADE 2026 at Db55 on Thu 22 Oct, Amsterdam. 6 acts on the bill: G CHASE, HARTY, Mazos and Mike Younger and 2 more. Preview the line-up and save it on soundcheck.
+Boat Club - ADE 2026 at Db55 on Thu 22 Oct, Amsterdam. 6 artists on the bill: G CHASE, HARTY, Mazos and Mike Younger and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

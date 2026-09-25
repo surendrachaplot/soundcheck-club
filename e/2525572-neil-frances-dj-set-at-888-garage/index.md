@@ -1,6 +1,6 @@
 # Neil Frances (DJ Set) at 888 Garage
 
-Neil Frances (DJ Set) at 888 Garage on Fri 25 Sept, Sanfrancisco. 2 acts on the bill: Masha Mar and Neil Frances. Preview the line-up and save it on soundcheck.
+Neil Frances (DJ Set) at 888 Garage on Fri 25 Sept, San Francisco/Oakland. 2 artists on the bill: Masha Mar and Neil Frances. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

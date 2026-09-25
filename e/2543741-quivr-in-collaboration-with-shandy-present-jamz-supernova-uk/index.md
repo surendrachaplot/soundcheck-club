@@ -1,6 +1,6 @@
 # QUIVR in collaboration with Shandy present: Jamz Supernova (UK) & Tash LC (UK) at QUIVR
 
-QUIVR in collaboration with Shandy present: Jamz Supernova (UK) & Tash LC (UK) on Fri 2 Oct, Brisbane. 2 acts on the bill: Jamz Supernova and Tash LC. House and Baile Funk. Preview the line-up and save it on soundcheck.
+QUIVR in collaboration with Shandy present: Jamz Supernova (UK) & Tash LC (UK) on Fri 2 Oct, Brisbane. 2 artists on the bill: Jamz Supernova and Tash LC. House and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

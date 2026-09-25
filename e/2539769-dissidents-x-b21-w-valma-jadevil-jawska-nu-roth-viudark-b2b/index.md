@@ -1,6 +1,6 @@
 # DISSIDENTS X B21 w/ Valma, Jadevil, Jawska, Nu Roth, Viudark b2b Whysee at B21
 
-DISSIDENTS X B21 w/ Valma, Jadevil, Jawska, Nu Roth, Viudark b2b Whysee on Fri 9 Oct, Brussels. 1 act on the bill: VAŁMA. Trance and Techno. Preview the line-up and save it on soundcheck.
+DISSIDENTS X B21 w/ Valma, Jadevil, Jawska, Nu Roth, Viudark b2b Whysee on Fri 9 Oct, Brussels. 1 artist on the bill: VAŁMA. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

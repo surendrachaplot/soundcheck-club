@@ -1,6 +1,6 @@
 # Chairs at Enter Shibuya
 
-Chairs at Enter Shibuya on Wed 30 Sept, Tokyo. 2 acts on the bill: ALEXANDER M and Louis Shannon. House and Tech House. Preview the line-up and save it on soundcheck.
+Chairs at Enter Shibuya on Wed 30 Sept, Tokyo. 2 artists on the bill: ALEXANDER M and Louis Shannon. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

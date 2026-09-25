@@ -1,6 +1,6 @@
 # Marco Bailey at Tunnel Club
 
-Marco Bailey at Tunnel Club on Sat 17 Oct, Pereira. 2 acts on the bill: HCTM and Marco Bailey. Preview the line-up and save it on soundcheck.
+Marco Bailey at Tunnel Club on Sat 17 Oct, Pereira. 2 artists on the bill: HCTM and Marco Bailey. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Parable: Gui Boratto [LIVE] - Early Evening Concert at EartH
 
-Parable: Gui Boratto [LIVE] - Early Evening Concert at EartH on Sat 24 Oct, London. 1 act on the bill: Gui Boratto. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Parable: Gui Boratto [LIVE] - Early Evening Concert at EartH on Sat 24 Oct, London. 1 artist on the bill: Gui Boratto. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

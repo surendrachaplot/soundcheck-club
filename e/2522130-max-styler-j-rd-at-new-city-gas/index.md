@@ -1,6 +1,6 @@
 # Max Styler, JØRD at New City Gas
 
-Max Styler, JØRD at New City Gas on Sat 31 Oct, Montreal. 1 act on the bill: Max Styler. Preview the line-up and save it on soundcheck.
+Max Styler, JØRD at New City Gas on Sat 31 Oct, Montreal. 1 artist on the bill: Max Styler. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

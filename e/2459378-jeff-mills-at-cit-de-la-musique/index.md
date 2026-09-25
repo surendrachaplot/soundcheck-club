@@ -1,6 +1,6 @@
 # Jeff Mills at Cité De La Musique
 
-Jeff Mills at Cité De La Musique on Sun 6 Dec, Paris. 1 act on the bill: Jeff Mills. Techno. Preview the line-up and save it on soundcheck.
+Jeff Mills at Cité De La Musique on Sun 6 Dec, Paris. 1 artist on the bill: Jeff Mills. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

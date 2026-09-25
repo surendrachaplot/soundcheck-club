@@ -1,6 +1,6 @@
 # RAP DEGGA x HIPHOP IM HINTERHOF at Neue Minol
 
-RAP DEGGA x HIPHOP IM HINTERHOF at Neue Minol on Sat 26 Sept, Leipzig. 1 act on the bill: KOSTJA. Hip-Hop. Preview the line-up and save it on soundcheck.
+RAP DEGGA x HIPHOP IM HINTERHOF at Neue Minol on Sat 26 Sept, Leipzig. 1 artist on the bill: KOSTJA. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

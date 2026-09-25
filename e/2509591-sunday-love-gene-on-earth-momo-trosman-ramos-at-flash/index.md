@@ -1,6 +1,6 @@
 # Sunday Love: Gene On Earth - Momo Trosman - Ramos at Flash
 
-Sunday Love: Gene On Earth - Momo Trosman - Ramos at Flash on Sun 27 Sept, Washingtondc. 3 acts on the bill: Gene On Earth, Momo Trosman and Ramos (2). House and Tech House. Preview the line-up and save it on soundcheck.
+Sunday Love: Gene On Earth - Momo Trosman - Ramos at Flash on Sun 27 Sept, Washington DC. 3 artists on the bill: Gene On Earth, Momo Trosman and Ramos. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

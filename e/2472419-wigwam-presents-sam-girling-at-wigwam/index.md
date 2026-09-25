@@ -1,6 +1,6 @@
 # Wigwam presents: Sam Girling at Wigwam
 
-Wigwam presents: Sam Girling on Sat 26 Sept, Dublin. 1 act on the bill: Sam Girling. House and Garage. Preview the line-up and save it on soundcheck.
+Wigwam presents: Sam Girling on Sat 26 Sept, Dublin. 1 artist on the bill: Sam Girling. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

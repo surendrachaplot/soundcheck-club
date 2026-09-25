@@ -1,6 +1,6 @@
 # Rollene pt. III at Jolene
 
-Rollene pt. III at Jolene on Thu 24 Sept, Copenhagen. 3 acts on the bill: avoN, B From E and Ziggy Stardubb. Trance and House. Preview the line-up and save it on soundcheck.
+Rollene pt. III at Jolene on Thu 24 Sept, Copenhagen. 3 artists on the bill: avoN, B From E and Ziggy Stardubb. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

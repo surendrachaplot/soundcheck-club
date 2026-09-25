@@ -1,6 +1,6 @@
 # PEW26 - Initiation à la production avec Goldie B at Mains D'œuvres
 
-PEW26 - Initiation à la production avec Goldie B at Mains D'œuvres on Sat 3 Oct, Paris. 1 act on the bill: Goldie B. Preview the line-up and save it on soundcheck.
+PEW26 - Initiation à la production avec Goldie B at Mains D'œuvres on Sat 3 Oct, Paris. 1 artist on the bill: Goldie B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 KUWAMAN is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - las casas, Osaka on Sat, 26 Sept 2026.
 
-KUWAMAN is a minimal and house artist based in Japan, tracked on soundcheck, with 39 sets logged across Osaka, Seoul and Tokyo. Often billed alongside YU-MA, Takuto and HSC (1). Next up: TBA - las casas, Osaka on Sat 26 Sept.
+KUWAMAN is a minimal and house artist based in Japan, tracked on soundcheck, with 39 sets logged across Osaka, Seoul and Tokyo. Often billed alongside YU-MA, Takuto and HSC. Next up: TBA - las casas, Osaka on Sat 26 Sept.
 
 ## Upcoming shows
 

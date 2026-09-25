@@ -1,6 +1,6 @@
 # DICK with Cormac at Ankali & Planeta Za
 
-DICK with Cormac at Ankali & Planeta Za on Fri 23 Oct, Prague. 4 acts on the bill: Cormac, Kaotic, Misha Jaru and S.Tian. House and Electronica. Preview the line-up and save it on soundcheck.
+DICK with Cormac at Ankali & Planeta Za on Fri 23 Oct, Prague. 4 artists on the bill: Cormac, Kaotic, Misha Jaru and S.Tian. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

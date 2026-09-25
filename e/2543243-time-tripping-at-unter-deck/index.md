@@ -1,6 +1,6 @@
 # Time Tripping at Unter Deck
 
-Time Tripping at Unter Deck on Thu 24 Sept, Munich. 4 acts on the bill: Cosimoto, Polaster, Ramses and Tyra. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Time Tripping at Unter Deck on Thu 24 Sept, Munich. 4 artists on the bill: Cosimoto, Polaster, Ramses and Tyra. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EASTTOWN - EXTENDED SET (18+) at BRET
 
-EASTTOWN - EXTENDED SET (18+) at BRET on Sat 3 Oct, Amsterdam. 1 act on the bill: Easttown. Preview the line-up and save it on soundcheck.
+EASTTOWN - EXTENDED SET (18+) at BRET on Sat 3 Oct, Amsterdam. 1 artist on the bill: Easttown. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

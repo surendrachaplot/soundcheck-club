@@ -1,6 +1,6 @@
 # SUBCERO CLUB x QUINOA EXPERIENCE at Subcero Club
 
-SUBCERO CLUB x QUINOA EXPERIENCE at Subcero Club on Sat 3 Oct, Madrid. 2 acts on the bill: Emi Koto and Manu Oubiña. Electronica. Preview the line-up and save it on soundcheck.
+SUBCERO CLUB x QUINOA EXPERIENCE at Subcero Club on Sat 3 Oct, Madrid. 2 artists on the bill: Emi Koto and Manu Oubiña. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

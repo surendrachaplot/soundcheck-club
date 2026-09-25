@@ -1,6 +1,6 @@
 # Lounge Sessions (Main Room Event, Free with RSVP) at SILO
 
-Lounge Sessions (Main Room Event, Free with RSVP) at SILO on Thu 8 Oct, Newyorkcity. 3 acts on the bill: Anthony Romano, LEFTI and Thiccboi Drewski. House and Tech House. Preview the line-up and save it on soundcheck.
+Lounge Sessions (Main Room Event, Free with RSVP) at SILO on Thu 8 Oct, New York City. 3 artists on the bill: Anthony Romano, LEFTI and Thiccboi Drewski. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

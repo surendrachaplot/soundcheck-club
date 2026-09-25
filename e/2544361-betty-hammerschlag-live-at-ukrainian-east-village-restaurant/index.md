@@ -1,6 +1,6 @@
 # Betty Hammerschlag Live at Ukrainian East Village Restaurant at Ukrainian National Home
 
-Betty Hammerschlag Live at Ukrainian East Village Restaurant at Ukrainian National Home on Thu 8 Oct, Newyorkcity. Experimental and Pop. Preview the line-up and save it on soundcheck.
+Betty Hammerschlag Live at Ukrainian East Village Restaurant at Ukrainian National Home on Thu 8 Oct, New York City. Experimental and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # okay & KRAMA present: Opera Promnesia at Cine Athenée
 
-okay & KRAMA present: Opera Promnesia at Cine Athenée on Sat 26 Sept, Athens. 4 acts on the bill: Alexandra Niaka, Bipolia, Fruit Gillette and pobrediabla. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+okay & KRAMA present: Opera Promnesia at Cine Athenée on Sat 26 Sept, Athens. 4 artists on the bill: Alexandra Niaka, Bipolia, Fruit Gillette and pobrediabla. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

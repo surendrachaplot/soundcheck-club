@@ -1,6 +1,6 @@
 # Major recebe Ricardo Pereira at Major Bar & Pista
 
-Major recebe Ricardo Pereira at Major Bar & Pista on Wed 30 Sept, Saopaulo. Preview the line-up and save it on soundcheck.
+Major recebe Ricardo Pereira at Major Bar & Pista on Wed 30 Sept, Sao Paulo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Novel presents Bicep 2.11 at TBA
 
-Novel presents Bicep 2.11 at TBA on Mon 2 Nov, Melbourne. 4 acts on the bill: 1-800 GIRLS, Angusand167others, Bicep and Pretty Girl. Preview the line-up and save it on soundcheck.
+Novel presents Bicep 2.11 at TBA on Mon 2 Nov, Melbourne. 4 artists on the bill: 1-800 GIRLS, Angusand167others, Bicep and Pretty Girl. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

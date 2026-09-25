@@ -1,6 +1,6 @@
 # Francesco Del Garda at TBA
 
-Francesco Del Garda at TBA on Sat 31 Oct, Milan. 3 acts on the bill: Enrico Vivaldi, Francesco Del Garda and Psycho Mind Transmission. Preview the line-up and save it on soundcheck.
+Francesco Del Garda at TBA on Sat 31 Oct, Milan. 3 artists on the bill: Enrico Vivaldi, Francesco Del Garda and Psycho Mind Transmission. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

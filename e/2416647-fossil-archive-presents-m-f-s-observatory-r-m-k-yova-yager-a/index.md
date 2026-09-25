@@ -1,6 +1,6 @@
 # Fossil Archive presents: M.F.S: Observatory, R.M.K, Yova Yager at The Glove That Fits
 
-Fossil Archive presents: M.F.S: Observatory, R.M.K, Yova Yager at The Glove That Fits on Sun 8 Nov, London. 3 acts on the bill: M.F.S: Observatory, R.M.K and Yova Yager. Techno. Preview the line-up and save it on soundcheck.
+Fossil Archive presents: M.F.S: Observatory, R.M.K, Yova Yager at The Glove That Fits on Sun 8 Nov, London. 3 artists on the bill: M.F.S: Observatory, R.M.K and Yova Yager. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

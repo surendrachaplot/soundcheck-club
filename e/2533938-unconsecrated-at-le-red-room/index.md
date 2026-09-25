@@ -1,6 +1,6 @@
 # UNCONSECRATED at Le Red Room
 
-UNCONSECRATED at Le Red Room on Fri 16 Oct, Montreal. 3 acts on the bill: Baby Bimbo, Mowie (2) and the bald girl. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+UNCONSECRATED at Le Red Room on Fri 16 Oct, Montreal. 3 artists on the bill: Baby Bimbo, Mowie and the bald girl. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

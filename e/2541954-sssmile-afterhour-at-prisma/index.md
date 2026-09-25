@@ -1,6 +1,6 @@
 # Sssmile Afterhour at Prisma
 
-Sssmile Afterhour at Prisma on Thu 1 Oct, Berlin. 2 acts on the bill: Andi Beat and MOFS. Techno. Preview the line-up and save it on soundcheck.
+Sssmile Afterhour at Prisma on Thu 1 Oct, Berlin. 2 artists on the bill: Andi Beat and MOFS. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

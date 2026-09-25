@@ -1,6 +1,6 @@
 # Traum Nacht: Surusinghe, KEVIN KOFII b2b O'SIMMIE, Maraskino at TRAUM
 
-Traum Nacht: Surusinghe, KEVIN KOFII b2b O'SIMMIE, Maraskino at TRAUM on Sat 24 Oct, Antwerp. 4 acts on the bill: KEVIN KOFII, Maraschino, O'SIMMIE and Surusinghe. Bass. Preview the line-up and save it on soundcheck.
+Traum Nacht: Surusinghe, KEVIN KOFII b2b O'SIMMIE, Maraskino at TRAUM on Sat 24 Oct, Antwerp. 4 artists on the bill: KEVIN KOFII, Maraschino, O'SIMMIE and Surusinghe. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

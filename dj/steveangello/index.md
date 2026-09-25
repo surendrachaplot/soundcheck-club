@@ -2,7 +2,7 @@
 
 Steve Angello is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
-Steve Angello is a house and progressive house artist based in Sweden, tracked on soundcheck, with 20 sets logged across Austin, Boston, Buenosaires and Chicago and 13 more. Often billed alongside Alok, Andy C and Benny Benassi. Next up: Wollman Rink, Newyorkcity on Fri 2 Oct.
+Steve Angello is a house and progressive house artist based in Sweden, tracked on soundcheck, with 20 sets logged across Austin, Boston, Buenos Aires and Chicago and 13 more. Often billed alongside Alok, Andy C and Benny Benassi. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 

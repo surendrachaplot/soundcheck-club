@@ -1,6 +1,6 @@
 # [CANCELLED] Mas Que Nada House Party at The Little Neon Door, Shoreditch
 
-[CANCELLED] Mas Que Nada House Party at The Little Neon Door, Shoreditch on Fri 25 Sept, London. 1 act on the bill: Mas Que Nada Brothers. House and Disco. Preview the line-up and save it on soundcheck.
+[CANCELLED] Mas Que Nada House Party at The Little Neon Door, Shoreditch on Fri 25 Sept, London. 1 artist on the bill: Mas Que Nada Brothers. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

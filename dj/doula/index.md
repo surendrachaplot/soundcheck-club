@@ -2,7 +2,7 @@
 
 Doula is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paris Bar, Detroit on Fri, 23 Oct 2026.
 
-Doula is a techno and experimental artist based in United States of America, tracked on soundcheck, with 67 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside 8ULENTINA, wahala.wav and LITA DA DOLL. Next up: Paris Bar, Detroit on Fri 23 Oct.
+Doula is a techno and experimental artist based in United States of America, tracked on soundcheck, with 67 sets logged across Chicago, Detroit and New York City. Often billed alongside 8ULENTINA, wahala.wav and LITA DA DOLL. Next up: Paris Bar, Detroit on Fri 23 Oct.
 
 ## Upcoming shows
 

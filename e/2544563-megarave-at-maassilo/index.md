@@ -1,6 +1,6 @@
 # Megarave at Maassilo
 
-Megarave at Maassilo on Sat 24 Oct, Rotterdam. 8 acts on the bill: Art of Fighters, Buzz Fuzz, Endymion and Lunatic and 4 more. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Megarave at Maassilo on Sat 24 Oct, Rotterdam. 8 artists on the bill: Art of Fighters, Buzz Fuzz, Endymion and Lunatic and 4 more. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

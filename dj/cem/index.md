@@ -2,7 +2,7 @@
 
 CEM is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
 
-CEM is a techno and house artist based in Germany, tracked on soundcheck, with 208 sets logged across Amsterdam, Athens, Barcelona and Berlin and 49 more. Often billed alongside MCMLXXXV, JASSS and Dj Saliva. Next up: TBA, Losangeles on Fri 25 Sept.
+CEM is a techno and house artist based in Germany, tracked on soundcheck, with 208 sets logged across Amsterdam, Athens, Barcelona and Berlin and 49 more. Often billed alongside MCMLXXXV, JASSS and Dj Saliva. Next up: TBA, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

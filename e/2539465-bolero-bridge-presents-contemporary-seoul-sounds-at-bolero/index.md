@@ -1,6 +1,6 @@
 # Bolero: BRIDGE presents 'Contemporary Seoul Sounds' at Bolero
 
-Bolero: BRIDGE presents 'Contemporary Seoul Sounds' on Thu 24 Sept, Seoul. 3 acts on the bill: Juuno, SEOL and YENN (2). Club. Preview the line-up and save it on soundcheck.
+Bolero: BRIDGE presents 'Contemporary Seoul Sounds' on Thu 24 Sept, Seoul. 3 artists on the bill: Juuno, SEOL and YENN. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

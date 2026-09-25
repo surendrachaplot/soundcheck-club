@@ -2,7 +2,7 @@
 
 ANCARCO is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chi Lounge, San Francisco/Oakland on Sun, 27 Sept 2026.
 
-ANCARCO is an afro house and house artist based in Colombia, tracked on soundcheck, with 7 sets logged across Sanfrancisco. Often billed alongside Kamu Kamu, MONĪ and MOSTASH. Next up: Chi Lounge, Sanfrancisco on Sun 27 Sept.
+ANCARCO is an afro house and house artist based in Colombia, tracked on soundcheck, with 7 sets logged across San Francisco/Oakland. Often billed alongside Kamu Kamu, MONĪ and MOSTASH. Next up: Chi Lounge, San Francisco/Oakland on Sun 27 Sept.
 
 ## Upcoming shows
 

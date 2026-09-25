@@ -2,7 +2,7 @@
 
 Boogie Dan is a Hip-Hop and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at YAAM Berlin, Berlin on Sat, 26 Sept 2026.
 
-Boogie Dan is a hip-hop and funk / soul artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Dj Quien, DJ Business (2) and Femdelic. Next up: YAAM Berlin, Berlin on Sat 26 Sept.
+Boogie Dan is a hip-hop and funk / soul artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Dj Quien, DJ Business and Femdelic. Next up: YAAM Berlin, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 

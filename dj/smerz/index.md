@@ -1,8 +1,8 @@
 # Smerz
 
-Smerz is a Pop and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Barbican Centre, London on Thu, 15 Oct 2026.
+Smerz is a Pop and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Barbican Centre, London on Thu, 15 Oct 2026.
 
-Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, with 44 sets logged across Austin, Berlin, Brisbane and Bristol and 26 more. Often billed alongside Valentina Magaletti, YHWH Nailgun and DjRUM. Next up: The Barbican Centre, London on Thu 15 Oct.
+Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, with 45 sets logged across Austin, Berlin, Brisbane and Bristol and 26 more. Often billed alongside Valentina Magaletti, YHWH Nailgun and DjRUM. Next up: The Barbican Centre, London on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, wi
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | The Barbican Centre | London |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
+| Sun, 22 Nov 2026 | VEGA | Copenhagen |
 
 ## Recently played
 

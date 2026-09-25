@@ -1,6 +1,6 @@
 # Pauly D (Halloween) at Big Night Live
 
-Pauly D (Halloween) at Big Night Live on Sat 31 Oct, Boston. 1 act on the bill: Pauly D. House and Tech House. Preview the line-up and save it on soundcheck.
+Pauly D (Halloween) at Big Night Live on Sat 31 Oct, Boston. 1 artist on the bill: Pauly D. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

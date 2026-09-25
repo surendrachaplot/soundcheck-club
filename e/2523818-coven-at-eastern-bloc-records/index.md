@@ -1,6 +1,6 @@
 # COVEN at Eastern Bloc Records
 
-COVEN at Eastern Bloc Records on Thu 8 Oct, Manchester. 3 acts on the bill: GFA, Gwardy and nowah. Bass. Preview the line-up and save it on soundcheck.
+COVEN at Eastern Bloc Records on Thu 8 Oct, Manchester. 3 artists on the bill: GFA, Gwardy and nowah. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

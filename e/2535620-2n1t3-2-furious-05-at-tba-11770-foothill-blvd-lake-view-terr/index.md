@@ -1,6 +1,6 @@
 # 2N1T3 2 FURIOUS #05 at TBA - 11770 Foothill Blvd, Lake View Terrace, CA 91342 
 
-2N1T3 2 FURIOUS #05 at TBA - 11770 Foothill Blvd, Lake View Terrace, CA 91342  on Sat 3 Oct, Losangeles. 1 act on the bill: Tanfa. Hardcore and Electronica. Preview the line-up and save it on soundcheck.
+2N1T3 2 FURIOUS #05 at TBA - 11770 Foothill Blvd, Lake View Terrace, CA 91342  on Sat 3 Oct, Los Angeles. 1 artist on the bill: Tanfa. Hardcore and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

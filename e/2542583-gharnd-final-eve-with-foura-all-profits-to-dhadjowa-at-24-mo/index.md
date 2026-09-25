@@ -1,6 +1,6 @@
 # GHARnd Final Eve with FOURA (All profits to Dhadjowa) at 24 Moons
 
-GHARnd Final Eve with FOURA (All profits to Dhadjowa) at 24 Moons on Fri 25 Sept, Melbourne. 1 act on the bill: FOURA. Bass and Garage. Preview the line-up and save it on soundcheck.
+GHARnd Final Eve with FOURA (All profits to Dhadjowa) at 24 Moons on Fri 25 Sept, Melbourne. 1 artist on the bill: FOURA. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

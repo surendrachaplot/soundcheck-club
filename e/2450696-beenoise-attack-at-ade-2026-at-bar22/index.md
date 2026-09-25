@@ -1,6 +1,6 @@
 # Beenoise Attack at Ade 2026 at Bar22
 
-Beenoise Attack at Ade 2026 at Bar22 on Sun 25 Oct, Amsterdam. 4 acts on the bill: Francesca.Fagiani, Luciano Mancini Luke, Sygma and Tribe Dj. Techno. Preview the line-up and save it on soundcheck.
+Beenoise Attack at Ade 2026 at Bar22 on Sun 25 Oct, Amsterdam. 4 artists on the bill: Francesca.Fagiani, Luciano Mancini Luke, Sygma and Tribe Dj. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kings Turntable: Nunonunonuno & NOYB [26.09.2026] at Kings Arms E2
 
-Kings Turntable: Nunonunonuno & NOYB [26.09.2026] at Kings Arms E2 on Sat 26 Sept, London. 2 acts on the bill: NOYB and Nunonunonuno. House and Balearic. Preview the line-up and save it on soundcheck.
+Kings Turntable: Nunonunonuno & NOYB [26.09.2026] at Kings Arms E2 on Sat 26 Sept, London. 2 artists on the bill: NOYB and Nunonunonuno. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

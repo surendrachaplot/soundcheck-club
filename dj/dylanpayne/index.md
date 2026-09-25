@@ -2,7 +2,7 @@
 
 Dylan Payne is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at feedbk, New York City on Sun, 25 Oct 2026.
 
-Dylan Payne is a house and techno artist based in United States of America, tracked on soundcheck, with 78 sets logged across Barcelona, Berlin, Boston and Detroit and 9 more. Often billed alongside Highkin', Krane and O.BEE. Next up: feedbk, Newyorkcity on Sun 25 Oct.
+Dylan Payne is a house and techno artist based in United States of America, tracked on soundcheck, with 78 sets logged across Barcelona, Berlin, Boston and Detroit and 9 more. Often billed alongside Highkin', Krane and O.BEE. Next up: feedbk, New York City on Sun 25 Oct.
 
 ## Upcoming shows
 

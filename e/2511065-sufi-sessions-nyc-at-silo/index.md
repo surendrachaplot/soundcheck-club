@@ -1,6 +1,6 @@
 # Sufi Sessions NYC at SILO
 
-Sufi Sessions NYC at SILO on Sat 26 Sept, Newyorkcity. Amapiano and Afrobeats. Preview the line-up and save it on soundcheck.
+Sufi Sessions NYC at SILO on Sat 26 Sept, New York City. Amapiano and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

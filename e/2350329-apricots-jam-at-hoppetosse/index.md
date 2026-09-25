@@ -1,6 +1,6 @@
 # Apricots' Jam at Hoppetosse
 
-Apricots' Jam at Hoppetosse on Fri 9 Oct, Berlin. 5 acts on the bill: Alexandra, DJ Slim Fit, Enchanted Rhythms and Meat and 1 more. Breakbeat and House. Preview the line-up and save it on soundcheck.
+Apricots' Jam at Hoppetosse on Fri 9 Oct, Berlin. 5 artists on the bill: Alexandra, DJ Slim Fit, Enchanted Rhythms and Meat and 1 more. Breakbeat and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

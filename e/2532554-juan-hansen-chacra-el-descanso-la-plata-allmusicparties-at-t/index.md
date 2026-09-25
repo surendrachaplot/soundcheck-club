@@ -1,6 +1,6 @@
 # Juan Hansen - Chacra El Descanso, La Plata - ALLMusicParties at TBA - Chacra El Descanso, La Plata
 
-Juan Hansen - Chacra El Descanso, La Plata - ALLMusicParties at TBA - Chacra El Descanso, La Plata on Sat 31 Oct, Buenosaires. 1 act on the bill: Juan Hansen. Preview the line-up and save it on soundcheck.
+Juan Hansen - Chacra El Descanso, La Plata - ALLMusicParties at TBA - Chacra El Descanso, La Plata on Sat 31 Oct, Buenos Aires. 1 artist on the bill: Juan Hansen. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

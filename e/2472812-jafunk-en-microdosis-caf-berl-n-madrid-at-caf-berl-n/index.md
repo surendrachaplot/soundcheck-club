@@ -1,6 +1,6 @@
 # Jafunk en microdosis - Café Berlín, Madrid at Café Berlín
 
-Jafunk en microdosis - Café Berlín, Madrid on Thu 12 Nov, Madrid. 1 act on the bill: Jafunk. House. Preview the line-up and save it on soundcheck.
+Jafunk en microdosis - Café Berlín, Madrid on Thu 12 Nov, Madrid. 1 artist on the bill: Jafunk. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bassbin 30 at Wigwam
 
-Bassbin 30 at Wigwam on Sat 17 Oct, Dublin. 3 acts on the bill: Chord Memory, don rosco and Zero T. Drum & Bass. Preview the line-up and save it on soundcheck.
+Bassbin 30 at Wigwam on Sat 17 Oct, Dublin. 3 artists on the bill: Chord Memory, don rosco and Zero T. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

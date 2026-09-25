@@ -1,6 +1,6 @@
 # Takuya Nakamura (Live), edv3ctor & RHI at New Century Locker
 
-Takuya Nakamura (Live), edv3ctor & RHI at New Century Locker on Fri 16 Oct, Manchester. 2 acts on the bill: edv3ctor and Takuya Nakamura. Jazz and Jungle. Preview the line-up and save it on soundcheck.
+Takuya Nakamura (Live), edv3ctor & RHI at New Century Locker on Fri 16 Oct, Manchester. 2 artists on the bill: edv3ctor and Takuya Nakamura. Jazz and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

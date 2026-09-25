@@ -2,7 +2,7 @@
 
 SPIME.IM is a Experimental and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
-SPIME.IM is an experimental and electro artist based in Italy, tracked on soundcheck, with 11 sets logged across Barcelona, Glasgow, London and Mexicocity and 3 more. Often billed alongside Daito Manabe, Honeydrip and DATUM CUT. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
+SPIME.IM is an experimental and electro artist based in Italy, tracked on soundcheck, with 11 sets logged across Barcelona, Glasgow, London and Mexico City and 3 more. Often billed alongside Daito Manabe, Honeydrip and DATUM CUT. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
 ## Upcoming shows
 

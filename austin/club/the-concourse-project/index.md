@@ -16,8 +16,8 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 28 upcomi
 | Sat, 3 Oct 2026 | Official 2026 ACL Fest Nights: it's murph |  |
 | Thu, 8 Oct 2026 | Official 2026 ACL Fest Nights: Yousuke Yukimatsu |  |
 | Fri, 9 Oct 2026 | Official 2026 ACL Fest Nights: BUNT | DJ BAD APPLE |
-| Sat, 10 Oct 2026 | Holy Priest (Night 1) | Holy Priest |
-| Sun, 11 Oct 2026 | Holy Priest (Night 2) | Holy Priest |
+| Sat, 10 Oct 2026 | Holy Priest (Night 1) | COLOR K!D, Holy Priest |
+| Sun, 11 Oct 2026 | Holy Priest (Night 2) | COLOR K!D, Holy Priest |
 
 ## Address
 

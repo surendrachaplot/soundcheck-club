@@ -1,6 +1,6 @@
 # Firewire (ADE) w/username, jenny sparks, Mesin Slat, 300SkullsAndCounting, iced lattina at Garage Noord
 
-Firewire (ADE) w/username, jenny sparks, Mesin Slat, 300SkullsAndCounting, iced lattina at Garage Noord on Wed 21 Oct, Amsterdam. 3 acts on the bill: 300SkullsAndCounting, iced lattina and screenage dj. Footwork and Electronica. Preview the line-up and save it on soundcheck.
+Firewire (ADE) w/username, jenny sparks, Mesin Slat, 300SkullsAndCounting, iced lattina at Garage Noord on Wed 21 Oct, Amsterdam. 3 artists on the bill: 300SkullsAndCounting, iced lattina and screenage dj. Footwork and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

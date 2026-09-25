@@ -2,7 +2,7 @@
 
 Marie Posa is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Aire Miami, Miami on Thu, 24 Sept 2026.
 
-Marie Posa is a house and deep house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Miami, Newyorkcity, Rome and Sanfrancisco. Often billed alongside IZIK, HIDRA and Syd Gris. Next up: Aire Miami, Miami on Thu 24 Sept.
+Marie Posa is a house and deep house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Miami, New York City, Rome and San Francisco/Oakland. Often billed alongside IZIK, HIDRA and Syd Gris. Next up: Aire Miami, Miami on Thu 24 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Helios37 with William Luck & TRÜMMER live // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts at Helios37
 
-Helios37 with William Luck & TRÜMMER live // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts on Sat 24 Oct, Cologne. 6 acts on the bill: Esther, Maeximum, Matthias Olck and MIXXR and 2 more. Techno and Hard Drum. Preview the line-up and save it on soundcheck.
+Helios37 with William Luck & TRÜMMER live // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts on Sat 24 Oct, Cologne. 6 artists on the bill: Esther, Maeximum, Matthias Olck and MIXXR and 2 more. Techno and Hard Drum. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

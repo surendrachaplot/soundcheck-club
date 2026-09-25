@@ -1,6 +1,6 @@
 # ''Black Coffee'' İstanbul at Atakoy Marina Arena
 
-''Black Coffee'' İstanbul at Atakoy Marina Arena on Fri 25 Sept, Istanbul. 1 act on the bill: Black Coffee. House and Afro House. Preview the line-up and save it on soundcheck.
+''Black Coffee'' İstanbul at Atakoy Marina Arena on Fri 25 Sept, Istanbul. 1 artist on the bill: Black Coffee. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

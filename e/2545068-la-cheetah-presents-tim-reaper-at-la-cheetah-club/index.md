@@ -1,6 +1,6 @@
 # La Cheetah presents: Tim Reaper at La Cheetah Club
 
-La Cheetah presents: Tim Reaper at La Cheetah Club on Sat 31 Oct, Glasgow. 3 acts on the bill: Fourth Precinct, H3L3NA and Tim Reaper. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+La Cheetah presents: Tim Reaper at La Cheetah Club on Sat 31 Oct, Glasgow. 3 artists on the bill: Fourth Precinct, H3L3NA and Tim Reaper. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

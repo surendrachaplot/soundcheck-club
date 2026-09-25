@@ -1,6 +1,6 @@
 # Temple of Faitiche pres. U.e. (Ulla) + Martin Brandlmayr at Silent Green
 
-Temple of Faitiche pres. U.e. (Ulla) + Martin Brandlmayr at Silent Green on Thu 29 Oct, Berlin. 1 act on the bill: Ulla. Preview the line-up and save it on soundcheck.
+Temple of Faitiche pres. U.e. (Ulla) + Martin Brandlmayr at Silent Green on Thu 29 Oct, Berlin. 1 artist on the bill: Ulla. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

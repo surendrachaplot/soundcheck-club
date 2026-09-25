@@ -1,6 +1,6 @@
 # IDEMI at Audio SF
 
-IDEMI at Audio SF on Fri 13 Nov, Sanfrancisco. Preview the line-up and save it on soundcheck.
+IDEMI at Audio SF on Fri 13 Nov, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

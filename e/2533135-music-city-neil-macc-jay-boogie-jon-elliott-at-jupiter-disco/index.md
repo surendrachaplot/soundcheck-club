@@ -1,6 +1,6 @@
 # Music City: Neil Macc, Jay Boogie, Jon Elliott at Jupiter Disco
 
-Music City: Neil Macc, Jay Boogie, Jon Elliott at Jupiter Disco on Wed 30 Sept, Newyorkcity. 1 act on the bill: Neil Macc. Preview the line-up and save it on soundcheck.
+Music City: Neil Macc, Jay Boogie, Jon Elliott at Jupiter Disco on Wed 30 Sept, New York City. 1 artist on the bill: Neil Macc. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

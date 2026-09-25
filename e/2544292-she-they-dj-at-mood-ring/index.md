@@ -1,6 +1,6 @@
 # she.they.dj at Mood Ring
 
-she.they.dj at Mood Ring on Sat 26 Sept, Newyorkcity. 1 act on the bill: esme2k. House and Club. Preview the line-up and save it on soundcheck.
+she.they.dj at Mood Ring on Sat 26 Sept, New York City. 1 artist on the bill: esme2k. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

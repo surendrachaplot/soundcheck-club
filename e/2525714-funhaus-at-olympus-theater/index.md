@@ -1,6 +1,6 @@
 # FUNHAUS at Olympus Theater
 
-FUNHAUS at Olympus Theater on Sat 31 Oct, Detroit. 1 act on the bill: LATEX GIRL. Techno and EBM. Preview the line-up and save it on soundcheck.
+FUNHAUS at Olympus Theater on Sat 31 Oct, Detroit. 1 artist on the bill: LATEX GIRL. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

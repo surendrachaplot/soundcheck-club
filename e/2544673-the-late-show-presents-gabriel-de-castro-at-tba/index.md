@@ -1,6 +1,6 @@
 # The Late Show Presents: Gabriel De Castro at TBA
 
-The Late Show Presents: Gabriel De Castro at TBA on Sat 10 Oct, Sydney. 1 act on the bill: Gabriel De Castro. House. Preview the line-up and save it on soundcheck.
+The Late Show Presents: Gabriel De Castro at TBA on Sat 10 Oct, Sydney. 1 artist on the bill: Gabriel De Castro. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

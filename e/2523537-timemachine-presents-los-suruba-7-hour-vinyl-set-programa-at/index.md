@@ -1,6 +1,6 @@
 # TIMEmACHINE presents Los Suruba — 7-Hour Vinyl Set Programa at Esbirra Ibiza
 
-TIMEmACHINE presents Los Suruba — 7-Hour Vinyl Set Programa at Esbirra Ibiza on Sat 26 Sept, Ibiza. 1 act on the bill: Los Suruba. House and Minimal. Preview the line-up and save it on soundcheck.
+TIMEmACHINE presents Los Suruba — 7-Hour Vinyl Set Programa at Esbirra Ibiza on Sat 26 Sept, Ibiza. 1 artist on the bill: Los Suruba. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

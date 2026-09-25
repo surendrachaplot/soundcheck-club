@@ -1,6 +1,6 @@
 # LF SYSTEM - SYDNEY at Oxford Art Factory
 
-LF SYSTEM - SYDNEY at Oxford Art Factory on Sat 5 Dec, Sydney. 1 act on the bill: LF SYSTEM. House and Disco. Preview the line-up and save it on soundcheck.
+LF SYSTEM - SYDNEY at Oxford Art Factory on Sat 5 Dec, Sydney. 1 artist on the bill: LF SYSTEM. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

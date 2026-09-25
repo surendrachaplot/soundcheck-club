@@ -1,6 +1,6 @@
 # First Electric, easygoingtech, SJOD, naturalblkinvention at TBA - Premises
 
-First Electric, easygoingtech, SJOD, naturalblkinvention at TBA - Premises on Thu 1 Oct, Chicago. 3 acts on the bill: easygoingtech, naturalblkinvention and SJOD. Electronica. Preview the line-up and save it on soundcheck.
+First Electric, easygoingtech, SJOD, naturalblkinvention at TBA - Premises on Thu 1 Oct, Chicago. 3 artists on the bill: easygoingtech, naturalblkinvention and SJOD. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Jody Wisternoff
 
-Jody Wisternoff is a Progressive House and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at or, Tokyo on Sat, 26 Sept 2026.
+Jody Wisternoff is a Progressive House and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at or, Tokyo on Sat, 26 Sept 2026.
 
-Jody Wisternoff is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Auckland, Austin and Barcelona and 35 more. Often billed alongside Marsh, Nicky Elisabeth and Dosem. Next up: or, Tokyo on Sat 26 Sept.
+Jody Wisternoff is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 105 sets logged across Amsterdam, Auckland, Austin and Barcelona and 35 more. Often billed alongside Marsh, Nicky Elisabeth and Dosem. Next up: or, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Jody Wisternoff is a progressive house and house artist based in United Kingdom,
 | Fri, 30 Oct 2026 | Foro Basement | Mexico City |
 | Fri, 30 Oct 2026 | TBA | Mexico City |
 | Fri, 30 Oct 2026 | Foro Basement | Mexico City |
+| Fri, 6 Nov 2026 | Ozmozis | Toronto |
 | Sat, 28 Nov 2026 | Tumbalong Park | Sydney |
 | Sat, 5 Dec 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sat, 12 Dec 2026 | The Cause | London |

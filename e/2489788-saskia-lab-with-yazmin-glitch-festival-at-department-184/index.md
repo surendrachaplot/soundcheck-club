@@ -1,6 +1,6 @@
 # Saskia Lab: with Yazmin (Glitch Festival) at Department 184
 
-Saskia Lab: with Yazmin (Glitch Festival) at Department 184 on Sat 26 Sept, Milan. 4 acts on the bill: Dusk Poem, Enygma, Solopeter and YAZMIN (MT). Techno. Preview the line-up and save it on soundcheck.
+Saskia Lab: with Yazmin (Glitch Festival) at Department 184 on Sat 26 Sept, Milan. 4 artists on the bill: Dusk Poem, Enygma, Solopeter and YAZMIN (MT). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

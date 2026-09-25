@@ -1,6 +1,6 @@
 # ADE Museum Party with Luke Alessi. Di Chiara Brothers at Tropeninstituut: Koninklijk Instituut Voor de Tropen
 
-ADE Museum Party with Luke Alessi. Di Chiara Brothers at Tropeninstituut: Koninklijk Instituut Voor de Tropen on Wed 21 Oct, Amsterdam. 10 acts on the bill: Cici Daze, Di Chiara Brothers, Emvae and Freddi and 6 more. House. Preview the line-up and save it on soundcheck.
+ADE Museum Party with Luke Alessi. Di Chiara Brothers at Tropeninstituut: Koninklijk Instituut Voor de Tropen on Wed 21 Oct, Amsterdam. 10 artists on the bill: Cici Daze, Di Chiara Brothers, Emvae and Freddi and 6 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

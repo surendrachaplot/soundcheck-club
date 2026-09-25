@@ -1,6 +1,6 @@
 # WKND X Nika Herero at Weekend
 
-WKND X Nika Herero at Weekend on Fri 27 Nov, Berlin. 1 act on the bill: Nika Herero. Techno and House. Preview the line-up and save it on soundcheck.
+WKND X Nika Herero at Weekend on Fri 27 Nov, Berlin. 1 artist on the bill: Nika Herero. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

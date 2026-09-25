@@ -1,6 +1,6 @@
 # Paul Street Sounds with tINI, Cadence, Kayleigh Maria, & Mudz at Kapsule
 
-Paul Street Sounds with tINI, Cadence, Kayleigh Maria, & Mudz at Kapsule on Fri 25 Sept, Liverpool. 2 acts on the bill: Cadence. and tINI. Garage and Tech House. Preview the line-up and save it on soundcheck.
+Paul Street Sounds with tINI, Cadence, Kayleigh Maria, & Mudz at Kapsule on Fri 25 Sept, Liverpool. 2 artists on the bill: Cadence. and tINI. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

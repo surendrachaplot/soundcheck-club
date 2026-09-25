@@ -1,6 +1,6 @@
 # BLN REUNION INDOOR FESTIVAL at Spindler & Klatt
 
-BLN REUNION INDOOR FESTIVAL at Spindler & Klatt on Sat 12 Dec, Berlin. 6 acts on the bill: AKA AKA, Blondee, K-Paul and Max Lindemann and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+BLN REUNION INDOOR FESTIVAL at Spindler & Klatt on Sat 12 Dec, Berlin. 6 artists on the bill: AKA AKA, Blondee, K-Paul and Max Lindemann and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

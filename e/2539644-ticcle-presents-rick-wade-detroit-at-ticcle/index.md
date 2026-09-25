@@ -1,6 +1,6 @@
 # ticcle presents Rick Wade (Detroit) at Ticcle
 
-ticcle presents Rick Wade (Detroit) at Ticcle on Sat 19 Dec, Hobart. 1 act on the bill: Rick Wade. Preview the line-up and save it on soundcheck.
+ticcle presents Rick Wade (Detroit) at Ticcle on Sat 19 Dec, Hobart. 1 artist on the bill: Rick Wade. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

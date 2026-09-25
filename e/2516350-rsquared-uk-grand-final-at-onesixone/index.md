@@ -1,6 +1,6 @@
 # RSquared (UK) - Grand Final at OneSixOne
 
-RSquared (UK) - Grand Final at OneSixOne on Fri 25 Sept, Melbourne. 3 acts on the bill: CHARBINKS, Matteo Freyrie and RSquared. House. Preview the line-up and save it on soundcheck.
+RSquared (UK) - Grand Final at OneSixOne on Fri 25 Sept, Melbourne. 3 artists on the bill: CHARBINKS, Matteo Freyrie and RSquared. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

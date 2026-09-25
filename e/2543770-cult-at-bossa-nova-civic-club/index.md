@@ -1,6 +1,6 @@
 # CULT at Bossa Nova Civic Club
 
-CULT at Bossa Nova Civic Club on Wed 28 Oct, Newyorkcity. 2 acts on the bill: grunge mum and VenuX. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+CULT at Bossa Nova Civic Club on Wed 28 Oct, New York City. 2 artists on the bill: grunge mum and VenuX. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

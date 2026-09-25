@@ -1,6 +1,6 @@
 # Tortilla with SOSANDLOW at High Club Room
 
-Tortilla with SOSANDLOW at High Club Room on Sat 17 Oct, Madrid. 1 act on the bill: SOSANDLOW. House and Electronica. Preview the line-up and save it on soundcheck.
+Tortilla with SOSANDLOW at High Club Room on Sat 17 Oct, Madrid. 1 artist on the bill: SOSANDLOW. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Doka presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary at Doka
 
-Doka presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary on Fri 25 Sept, Amsterdam. 2 acts on the bill: Intergalactic Gary and Vladimir Ivkovic. Preview the line-up and save it on soundcheck.
+Doka presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary on Fri 25 Sept, Amsterdam. 2 artists on the bill: Intergalactic Gary and Vladimir Ivkovic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 KOMLEV is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 29 Nov 2026.
 
-KOMLEV is a house and deep house artist based in Ukraine, tracked on soundcheck, with 7 sets logged across Losangeles. Often billed alongside Stepushin, nanaceba and CAMILLA. Next up: TBA, Losangeles on Sun 29 Nov.
+KOMLEV is a house and deep house artist based in Ukraine, tracked on soundcheck, with 7 sets logged across Los Angeles. Often billed alongside Stepushin, nanaceba and CAMILLA. Next up: TBA, Los Angeles on Sun 29 Nov.
 
 ## Upcoming shows
 

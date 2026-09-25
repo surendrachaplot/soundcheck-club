@@ -1,6 +1,6 @@
 # LOVE FREQUENCY: One Year Anniversary at The Big Romance
 
-LOVE FREQUENCY: One Year Anniversary at The Big Romance on Sat 17 Oct, Dublin. 6 acts on the bill: Bull Horris, Enclave (2), Kaycee and Surferboy and 2 more. House and Deep House. Preview the line-up and save it on soundcheck.
+LOVE FREQUENCY: One Year Anniversary at The Big Romance on Sat 17 Oct, Dublin. 6 artists on the bill: Bull Horris, Enclave, Kaycee and Surferboy and 2 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

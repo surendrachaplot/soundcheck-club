@@ -1,6 +1,6 @@
 # Side Two - House & Garage *FREE ENTRY at The Glove That Fits
 
-Side Two - House & Garage *FREE ENTRY at The Glove That Fits on Fri 25 Sept, London. 6 acts on the bill: IZZY (UK), KaYa (UK), Layson and Marlon Baleci and 2 more. House and Garage. Preview the line-up and save it on soundcheck.
+Side Two - House & Garage *FREE ENTRY at The Glove That Fits on Fri 25 Sept, London. 6 artists on the bill: IZZY (UK), KaYa (UK), Layson and Marlon Baleci and 2 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

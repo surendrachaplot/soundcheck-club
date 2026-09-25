@@ -1,6 +1,6 @@
 # Collide X Ritmo Futuro ADE 2026 SHOWCASE, WORKSHOP & PANEL at Cut Throat
 
-Collide X Ritmo Futuro ADE 2026 SHOWCASE, WORKSHOP & PANEL at Cut Throat on Thu 22 Oct, Amsterdam. 8 acts on the bill: Aera, Ander Race, Auggië and heSAWyou and 4 more. Progressive House and House. Preview the line-up and save it on soundcheck.
+Collide X Ritmo Futuro ADE 2026 SHOWCASE, WORKSHOP & PANEL at Cut Throat on Thu 22 Oct, Amsterdam. 8 artists on the bill: Aera, Ander Race, Auggië and heSAWyou and 4 more. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

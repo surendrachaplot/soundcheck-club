@@ -1,6 +1,6 @@
 # Juke Joint with DJ Slugo, Ayy Den, atalaya, Baba Sketch at Soup
 
-Juke Joint with DJ Slugo, Ayy Den, atalaya, Baba Sketch at Soup on Sat 17 Oct, Manchester. 4 acts on the bill: atalaya, Ayy Den, Baba Sketch and DJ Slugo. Footwork and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Juke Joint with DJ Slugo, Ayy Den, atalaya, Baba Sketch at Soup on Sat 17 Oct, Manchester. 4 artists on the bill: atalaya, Ayy Den, Baba Sketch and DJ Slugo. Footwork and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

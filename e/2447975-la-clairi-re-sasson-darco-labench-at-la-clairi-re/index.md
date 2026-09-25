@@ -1,6 +1,6 @@
 # La Clairière: Sasson, Darco, LABENCH at La Clairière
 
-La Clairière: Sasson, Darco, LABENCH on Sat 26 Sept, Paris. 3 acts on the bill: Darco, LABENCH and Sasson. House. Preview the line-up and save it on soundcheck.
+La Clairière: Sasson, Darco, LABENCH on Sat 26 Sept, Paris. 3 artists on the bill: Darco, LABENCH and Sasson. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

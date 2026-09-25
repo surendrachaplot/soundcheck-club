@@ -1,6 +1,6 @@
 # FLY | Silva Bumpa | Glasgow at SWG3
 
-FLY | Silva Bumpa | Glasgow at SWG3 on Sat 10 Oct, Glasgow. 1 act on the bill: Silva Bumpa. Garage. Preview the line-up and save it on soundcheck.
+FLY | Silva Bumpa | Glasgow at SWG3 on Sat 10 Oct, Glasgow. 1 artist on the bill: Silva Bumpa. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

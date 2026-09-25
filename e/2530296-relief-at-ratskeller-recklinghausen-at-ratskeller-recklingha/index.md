@@ -1,6 +1,6 @@
 # Relief at. Ratskeller Recklinghausen at Ratskeller Recklinghausen
 
-Relief at. Ratskeller Recklinghausen on Sat 26 Sept, Dortmund-essen. House and Electro. Preview the line-up and save it on soundcheck.
+Relief at. Ratskeller Recklinghausen on Sat 26 Sept, Dortmund Essen. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

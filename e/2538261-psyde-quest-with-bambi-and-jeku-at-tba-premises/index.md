@@ -1,6 +1,6 @@
 # Psyde Quest with Bambi and Jeku at TBA - Premises
 
-Psyde Quest with Bambi and Jeku at TBA - Premises on Sat 24 Oct, Chicago. 7 acts on the bill: Bambi (FR), Brendan Lemkin, Heavee and Hot Take and 3 more. Progressive House and Psytrance. Preview the line-up and save it on soundcheck.
+Psyde Quest with Bambi and Jeku at TBA - Premises on Sat 24 Oct, Chicago. 7 artists on the bill: Bambi (FR), Brendan Lemkin, Heavee and Hot Take and 3 more. Progressive House and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

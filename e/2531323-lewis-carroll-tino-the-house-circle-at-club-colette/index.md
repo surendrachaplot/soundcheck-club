@@ -1,6 +1,6 @@
 # Lewis Carroll & Tino - The House Circle at Club Colette
 
-Lewis Carroll & Tino - The House Circle at Club Colette on Sat 3 Oct, Birmingham. 2 acts on the bill: Lewis Carroll and Tino. House and Minimal. Preview the line-up and save it on soundcheck.
+Lewis Carroll & Tino - The House Circle at Club Colette on Sat 3 Oct, Birmingham. 2 artists on the bill: Lewis Carroll and Tino. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

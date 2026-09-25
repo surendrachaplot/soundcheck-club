@@ -1,6 +1,6 @@
 # Sunkissed: Ivan Smagghe + Vinny Villbass + Sirkus Sunkissed at Jaeger
 
-Sunkissed: Ivan Smagghe + Vinny Villbass + Sirkus Sunkissed at Jaeger on Sat 26 Sept, Oslo. 4 acts on the bill: G-HA, Ivan Smagghe, Olanskii and Vinny Villbass. House. Preview the line-up and save it on soundcheck.
+Sunkissed: Ivan Smagghe + Vinny Villbass + Sirkus Sunkissed at Jaeger on Sat 26 Sept, Oslo. 4 artists on the bill: G-HA, Ivan Smagghe, Olanskii and Vinny Villbass. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

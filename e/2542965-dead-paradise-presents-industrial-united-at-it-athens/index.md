@@ -1,6 +1,6 @@
 # DEAD PARADISE PRESENTS: 'INDUSTRIAL UNITED' at IT Athens
 
-DEAD PARADISE PRESENTS: 'INDUSTRIAL UNITED' at IT Athens on Sat 14 Nov, Athens. 4 acts on the bill: Brazi, DJ B2B, PANTERNOISE and Yu Kawabata. Techno and Industrial. Preview the line-up and save it on soundcheck.
+DEAD PARADISE PRESENTS: 'INDUSTRIAL UNITED' at IT Athens on Sat 14 Nov, Athens. 4 artists on the bill: Brazi, DJ B2B, PANTERNOISE and Yu Kawabata. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

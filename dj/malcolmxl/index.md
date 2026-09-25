@@ -2,7 +2,7 @@
 
 Malcolm XL is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Philadelphia on Sat, 3 Oct 2026.
 
-Malcolm XL is a techno and club artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity and Philadelphia. Often billed alongside Robyn DaBank, Gagbert and DJ Freedem. Next up: TBA, Philadelphia on Sat 3 Oct.
+Malcolm XL is a techno and club artist based in United States of America, tracked on soundcheck, with 12 sets logged across New York City and Philadelphia. Often billed alongside Robyn DaBank, Gagbert and DJ Freedem. Next up: TBA, Philadelphia on Sat 3 Oct.
 
 ## Upcoming shows
 

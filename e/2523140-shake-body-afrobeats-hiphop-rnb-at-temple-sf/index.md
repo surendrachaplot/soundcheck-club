@@ -1,6 +1,6 @@
 # SHAKE BODY - Afrobeats Hiphop Rnb at Temple SF
 
-SHAKE BODY - Afrobeats Hiphop Rnb at Temple SF on Fri 25 Sept, Sanfrancisco. 1 act on the bill: TBA. Preview the line-up and save it on soundcheck.
+SHAKE BODY - Afrobeats Hiphop Rnb at Temple SF on Fri 25 Sept, San Francisco/Oakland. 1 artist on the bill: TBA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

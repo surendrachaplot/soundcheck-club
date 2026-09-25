@@ -1,6 +1,6 @@
 # magao10 at Club Daphnia
 
-magao10 at Club Daphnia on Fri 9 Oct, Osaka. 4 acts on the bill: Aspara, C.Versa, ilium and Ryogo. Techno. Preview the line-up and save it on soundcheck.
+magao10 at Club Daphnia on Fri 9 Oct, Osaka. 4 artists on the bill: Aspara, C.Versa, ilium and Ryogo. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

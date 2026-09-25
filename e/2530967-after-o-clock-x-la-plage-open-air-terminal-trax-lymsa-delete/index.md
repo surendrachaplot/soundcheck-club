@@ -1,6 +1,6 @@
 # After O'Clock X La Plage Open Air: Terminal Trax, Lymsa, Deleter at Glazart
 
-After O'Clock X La Plage Open Air: Terminal Trax, Lymsa, Deleter at Glazart on Sat 26 Sept, Paris. 1 act on the bill: Terminal Trax. Techno. Preview the line-up and save it on soundcheck.
+After O'Clock X La Plage Open Air: Terminal Trax, Lymsa, Deleter at Glazart on Sat 26 Sept, Paris. 1 artist on the bill: Terminal Trax. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

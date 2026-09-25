@@ -1,6 +1,6 @@
 # Sounds Like London: Scratchclart (UK Funky Special) at Ninety One
 
-Sounds Like London: Scratchclart (UK Funky Special) at Ninety One on Sat 5 Dec, London. 3 acts on the bill: Joe Milli, Lily London and Scratcha DVA. Bass and UK Funky. Preview the line-up and save it on soundcheck.
+Sounds Like London: Scratchclart (UK Funky Special) at Ninety One on Sat 5 Dec, London. 3 artists on the bill: Joe Milli, Lily London and Scratcha DVA. Bass and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

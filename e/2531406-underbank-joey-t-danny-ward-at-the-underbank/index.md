@@ -1,6 +1,6 @@
 # Underbank: Joey T & Danny Ward at The Underbank
 
-Underbank: Joey T & Danny Ward at The Underbank on Sat 26 Sept, Manchester. 1 act on the bill: Joey T. Preview the line-up and save it on soundcheck.
+Underbank: Joey T & Danny Ward at The Underbank on Sat 26 Sept, Manchester. 1 artist on the bill: Joey T. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

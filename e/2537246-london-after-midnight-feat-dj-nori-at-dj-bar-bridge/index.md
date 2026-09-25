@@ -1,6 +1,6 @@
 # LONDON AFTER MIDNIGHT feat.DJ Nori at DJ Bar Bridge
 
-LONDON AFTER MIDNIGHT feat.DJ Nori at DJ Bar Bridge on Fri 20 Nov, Tokyo. 1 act on the bill: DJ Nori. House. Preview the line-up and save it on soundcheck.
+LONDON AFTER MIDNIGHT feat.DJ Nori at DJ Bar Bridge on Fri 20 Nov, Tokyo. 1 artist on the bill: DJ Nori. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

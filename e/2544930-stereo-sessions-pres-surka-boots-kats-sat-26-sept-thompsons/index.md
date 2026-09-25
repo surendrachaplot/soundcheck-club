@@ -1,6 +1,6 @@
 # Stereo Sessions pres. SURKA & Boots & Kats: Sat 26 Sept: Thompsons at Thompsons Garage
 
-Stereo Sessions pres. SURKA & Boots & Kats: Sat 26 Sept: Thompsons at Thompsons Garage on Sat 26 Sept, Belfast. 3 acts on the bill: Boots & Kats, Hijaxx and Surka (1). House. Preview the line-up and save it on soundcheck.
+Stereo Sessions pres. SURKA & Boots & Kats: Sat 26 Sept: Thompsons at Thompsons Garage on Sat 26 Sept, Belfast. 3 artists on the bill: Boots & Kats, Hijaxx and Surka. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

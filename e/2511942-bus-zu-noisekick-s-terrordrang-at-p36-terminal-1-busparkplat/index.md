@@ -1,6 +1,6 @@
 # Bus zu Noisekick 's Terrordrang at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt
 
-Bus zu Noisekick 's Terrordrang at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 10 Oct, Frankfurt. 3 acts on the bill: Stinger, TINNITUS and Tripped. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Bus zu Noisekick 's Terrordrang at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 10 Oct, Frankfurt. 3 artists on the bill: Stinger, TINNITUS and Tripped. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

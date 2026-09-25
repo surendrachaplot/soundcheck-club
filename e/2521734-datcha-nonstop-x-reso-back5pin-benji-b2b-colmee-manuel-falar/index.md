@@ -1,6 +1,6 @@
 # Datcha NONSTOP X RESO: BACK5PIN, BENJI b2b Colmee, Manuel Falardeau b2b Marc Wellon, FREEEMAN at Bar Datcha
 
-Datcha NONSTOP X RESO: BACK5PIN, BENJI b2b Colmee, Manuel Falardeau b2b Marc Wellon, FREEEMAN at Bar Datcha on Sat 26 Sept, Montreal. 3 acts on the bill: Colmee, FREEEMAN and Manuel Falardeau. Preview the line-up and save it on soundcheck.
+Datcha NONSTOP X RESO: BACK5PIN, BENJI b2b Colmee, Manuel Falardeau b2b Marc Wellon, FREEEMAN at Bar Datcha on Sat 26 Sept, Montreal. 3 artists on the bill: Colmee, FREEEMAN and Manuel Falardeau. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

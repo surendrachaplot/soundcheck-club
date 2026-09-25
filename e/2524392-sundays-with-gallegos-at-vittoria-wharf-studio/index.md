@@ -1,6 +1,6 @@
 # Sundays with Gallegos at Vittoria Wharf Studio
 
-Sundays with Gallegos at Vittoria Wharf Studio on Sun 29 Nov, London. 2 acts on the bill: Bekefi and Gallegos. House. Preview the line-up and save it on soundcheck.
+Sundays with Gallegos at Vittoria Wharf Studio on Sun 29 Nov, London. 2 artists on the bill: Bekefi and Gallegos. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

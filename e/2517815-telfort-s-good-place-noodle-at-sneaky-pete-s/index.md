@@ -1,6 +1,6 @@
 # Telfort's Good Place: noodle at Sneaky Pete's
 
-Telfort's Good Place: noodle at Sneaky Pete's on Fri 25 Sept, Edinburgh. 2 acts on the bill: noodle and Telfort. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+Telfort's Good Place: noodle at Sneaky Pete's on Fri 25 Sept, Edinburgh. 2 artists on the bill: noodle and Telfort. Minimal and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

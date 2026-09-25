@@ -1,6 +1,6 @@
 # Liquic Concrete with Charlie Tee & T-Lex & Melina at Fundbureau
 
-Liquic Concrete with Charlie Tee & T-Lex & Melina at Fundbureau on Fri 16 Oct, Hamburg. 6 acts on the bill: Charlie Tee, duaba, Enni Milosj and Fibe and 2 more. Drum & Bass and Tech House. Preview the line-up and save it on soundcheck.
+Liquic Concrete with Charlie Tee & T-Lex & Melina at Fundbureau on Fri 16 Oct, Hamburg. 6 artists on the bill: Charlie Tee, duaba, Enni Milosj and Fibe and 2 more. Drum & Bass and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

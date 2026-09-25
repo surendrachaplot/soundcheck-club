@@ -1,6 +1,6 @@
 # BRUTALISM x Mapping Waidmarkt present Kali Malone at TBA - Waidmarkt and St. Gertrud Church
 
-BRUTALISM x Mapping Waidmarkt present Kali Malone at TBA - Waidmarkt and St. Gertrud Church on Sat 26 Sept, Cologne. 5 acts on the bill: Dornen, Kali Malone, lomi and Struktur and 1 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+BRUTALISM x Mapping Waidmarkt present Kali Malone at TBA - Waidmarkt and St. Gertrud Church on Sat 26 Sept, Cologne. 5 artists on the bill: Dornen, Kali Malone, lomi and Struktur and 1 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

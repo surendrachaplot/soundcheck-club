@@ -1,6 +1,6 @@
 # LSR/CITY X at New City Gas
 
-LSR/CITY X at New City Gas on Sat 24 Oct, Montreal. 1 act on the bill: Gareth Emery. Preview the line-up and save it on soundcheck.
+LSR/CITY X at New City Gas on Sat 24 Oct, Montreal. 1 artist on the bill: Gareth Emery. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

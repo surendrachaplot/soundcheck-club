@@ -1,6 +1,6 @@
 # Radio Relativa presents RRADIAL at TBA - Templete de Pradolongo
 
-Radio Relativa presents RRADIAL at TBA - Templete de Pradolongo on Sat 26 Sept, Madrid. 1 act on the bill: Patrícia Brito. Preview the line-up and save it on soundcheck.
+Radio Relativa presents RRADIAL at TBA - Templete de Pradolongo on Sat 26 Sept, Madrid. 1 artist on the bill: Patrícia Brito. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

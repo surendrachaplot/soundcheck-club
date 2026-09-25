@@ -1,6 +1,6 @@
 # Collect LX Factory presents Shoal (live) at Collect LX Factory
 
-Collect LX Factory presents Shoal (live) on Sat 17 Oct, Lisbon. 3 acts on the bill: Billi, Shoal and Ze Salvador. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Collect LX Factory presents Shoal (live) on Sat 17 Oct, Lisbon. 3 artists on the bill: Billi, Shoal and Ze Salvador. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

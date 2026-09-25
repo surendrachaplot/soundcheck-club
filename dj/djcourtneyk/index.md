@@ -2,7 +2,7 @@
 
 DJ Courtney K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Moondog Hifi, New York City on Thu, 24 Sept 2026.
 
-DJ Courtney K is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside Pjay, Todd Fatjo and LADYLIZBK. Next up: Moondog Hifi, Newyorkcity on Thu 24 Sept.
+DJ Courtney K is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across New York City. Often billed alongside Pjay, Todd Fatjo and LADYLIZBK. Next up: Moondog Hifi, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

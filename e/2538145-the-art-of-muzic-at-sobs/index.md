@@ -1,6 +1,6 @@
 # The Art of Muzic at SOBs
 
-The Art of Muzic at SOBs on Wed 30 Sept, Newyorkcity. Hip-Hop. Preview the line-up and save it on soundcheck.
+The Art of Muzic at SOBs on Wed 30 Sept, New York City. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

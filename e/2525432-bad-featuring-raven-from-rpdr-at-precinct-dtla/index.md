@@ -1,6 +1,6 @@
 # BAD FEATURING RAVEN from RPDR at Precinct DTLA
 
-BAD FEATURING RAVEN from RPDR at Precinct DTLA on Fri 25 Sept, Losangeles. House and Electronica. Preview the line-up and save it on soundcheck.
+BAD FEATURING RAVEN from RPDR at Precinct DTLA on Fri 25 Sept, Los Angeles. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

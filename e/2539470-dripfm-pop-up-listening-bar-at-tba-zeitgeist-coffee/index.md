@@ -1,6 +1,6 @@
 # DripFM - Pop-Up Listening Bar at TBA - Zeitgeist Coffee
 
-DripFM - Pop-Up Listening Bar at TBA - Zeitgeist Coffee on Sat 26 Sept, Seattle. 2 acts on the bill: Hector Rodriguez and Mr. Linden. Downtempo and Jazz. Preview the line-up and save it on soundcheck.
+DripFM - Pop-Up Listening Bar at TBA - Zeitgeist Coffee on Sat 26 Sept, Seattle. 2 artists on the bill: Hector Rodriguez and Mr. Linden. Downtempo and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

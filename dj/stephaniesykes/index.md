@@ -1,14 +1,15 @@
 # Stephanie Sykes
 
-Stephanie Sykes is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+Stephanie Sykes is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
-Stephanie Sykes is a techno and house artist based in United Kingdom, tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Remco Beekwilder, Beau Didier and Grace Dahl. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
+Stephanie Sykes is a techno and house artist based in United Kingdom, tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Remco Beekwilder, Beau Didier and Grace Dahl. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Laboral Ciudad de la Cultura | North |
+| Sat, 3 Oct 2026 | Lehmann Club | Stuttgart |
 | Sat, 10 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 17 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 28 Nov 2026 | Argyle Arcade (Buchanan Street Entrance) | Glasgow |

@@ -1,6 +1,6 @@
 # etc radio at TBA
 
-etc radio at TBA on Sun 11 Oct, Chicago. 2 acts on the bill: DJ Lgcc and m50. Ambient and Acid. Preview the line-up and save it on soundcheck.
+etc radio at TBA on Sun 11 Oct, Chicago. 2 artists on the bill: DJ Lgcc and m50. Ambient and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SECRET WEAPONS -Ben Sims- at Circus Osaka
 
-SECRET WEAPONS -Ben Sims- at Circus Osaka on Sat 3 Oct, Osaka. 2 acts on the bill: Ben Sims and YUVIE. Techno. Preview the line-up and save it on soundcheck.
+SECRET WEAPONS -Ben Sims- at Circus Osaka on Sat 3 Oct, Osaka. 2 artists on the bill: Ben Sims and YUVIE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

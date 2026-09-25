@@ -1,6 +1,6 @@
 # [ju:dtend'en:s] at Collect LX Factory
 
-[ju:dtend'en:s] at Collect LX Factory on Fri 16 Oct, Lisbon. 3 acts on the bill: Daniel Lien, Flord King and Nico O'Konor. House and Minimal. Preview the line-up and save it on soundcheck.
+[ju:dtend'en:s] at Collect LX Factory on Fri 16 Oct, Lisbon. 3 artists on the bill: Daniel Lien, Flord King and Nico O'Konor. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

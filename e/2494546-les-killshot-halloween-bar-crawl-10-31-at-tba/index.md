@@ -1,6 +1,6 @@
 # LES KILLSHOT HALLOWEEN BAR CRAWL 10/31 at TBA
 
-LES KILLSHOT HALLOWEEN BAR CRAWL 10/31 at TBA on Sat 31 Oct, Newyorkcity. Club. Preview the line-up and save it on soundcheck.
+LES KILLSHOT HALLOWEEN BAR CRAWL 10/31 at TBA on Sat 31 Oct, New York City. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

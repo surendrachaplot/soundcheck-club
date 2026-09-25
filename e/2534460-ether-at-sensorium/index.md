@@ -1,6 +1,6 @@
 # ETHER at Sensorium
 
-ETHER at Sensorium on Fri 25 Sept, Berlin. 3 acts on the bill: Blck-Swan, ØVERLOAD and Viktor Kampf. Techno and Tech House. Preview the line-up and save it on soundcheck.
+ETHER at Sensorium on Fri 25 Sept, Berlin. 3 artists on the bill: Blck-Swan, ØVERLOAD and Viktor Kampf. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

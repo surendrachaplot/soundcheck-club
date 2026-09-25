@@ -1,6 +1,6 @@
 # System Olympia (Live) at Yes
 
-System Olympia (Live) at Yes on Tue 24 Nov, Manchester. 1 act on the bill: System Olympia. Preview the line-up and save it on soundcheck.
+System Olympia (Live) at Yes on Tue 24 Nov, Manchester. 1 artist on the bill: System Olympia. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

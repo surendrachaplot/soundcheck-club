@@ -1,8 +1,8 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Two Shell and Nautiluss presented by Standard Time x Not Dead Yet" on Fri, 25 Sept 2026.
+Standard Time is a music venue in Toronto with 15 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Two Shell and Nautiluss presented by Standard Time x Not Dead Yet" on Fri, 25 Sept 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with line-ups including Amedeo (CA), CCL, Chiara and Ciel and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 15 upcoming gigs, with line-ups including Adrian Sherwood, Amedeo (CA), CCL and Chiara and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 

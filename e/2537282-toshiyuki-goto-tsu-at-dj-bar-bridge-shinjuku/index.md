@@ -1,6 +1,6 @@
 # Toshiyuki Goto & TSU→ at DJ Bar Bridge Shinjuku
 
-Toshiyuki Goto & TSU→ at DJ Bar Bridge Shinjuku on Tue 10 Nov, Tokyo. 1 act on the bill: Toshiyuki Goto. House. Preview the line-up and save it on soundcheck.
+Toshiyuki Goto & TSU→ at DJ Bar Bridge Shinjuku on Tue 10 Nov, Tokyo. 1 artist on the bill: Toshiyuki Goto. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

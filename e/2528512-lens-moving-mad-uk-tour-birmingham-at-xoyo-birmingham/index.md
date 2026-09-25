@@ -1,6 +1,6 @@
 # Lens: Moving Mad UK Tour - Birmingham at XOYO Birmingham
 
-Lens: Moving Mad UK Tour - Birmingham at XOYO Birmingham on Fri 13 Nov, Birmingham. 1 act on the bill: Lens (2). Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Lens: Moving Mad UK Tour - Birmingham at XOYO Birmingham on Fri 13 Nov, Birmingham. 1 artist on the bill: Lens. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

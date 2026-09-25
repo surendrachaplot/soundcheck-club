@@ -1,6 +1,6 @@
 # Aleron Club SALA INDEPENDANCE at Sala Independance Club
 
-Aleron Club SALA INDEPENDANCE at Sala Independance Club on Fri 2 Oct, Madrid. 2 acts on the bill: Alex Beat and Selecta (ES). Electronica. Preview the line-up and save it on soundcheck.
+Aleron Club SALA INDEPENDANCE at Sala Independance Club on Fri 2 Oct, Madrid. 2 artists on the bill: Alex Beat and Selecta (ES). Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

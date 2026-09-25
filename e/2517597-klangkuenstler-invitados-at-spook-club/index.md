@@ -1,6 +1,6 @@
 # KlangKuenstler + invitados at Spook Club
 
-KlangKuenstler + invitados at Spook Club on Thu 8 Oct, Valencia. 1 act on the bill: KlangKuenstler. Techno. Preview the line-up and save it on soundcheck.
+KlangKuenstler + invitados at Spook Club on Thu 8 Oct, Valencia. 1 artist on the bill: KlangKuenstler. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

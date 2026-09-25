@@ -1,6 +1,6 @@
 # PARAMIDA (All Night Long) at CLUB RAUM
 
-PARAMIDA (All Night Long) at CLUB RAUM on Fri 25 Sept, Amsterdam. 1 act on the bill: PARAMIDA. Preview the line-up and save it on soundcheck.
+PARAMIDA (All Night Long) at CLUB RAUM on Fri 25 Sept, Amsterdam. 1 artist on the bill: PARAMIDA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

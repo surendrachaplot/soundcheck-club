@@ -2,7 +2,7 @@
 
 Cookie (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Howler, Melbourne on Sat, 3 Oct 2026.
 
-Cookie (2) is an electronic artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London and Melbourne. Often billed alongside Moonz, Stuart Jefferies and Azire. Next up: Howler, Melbourne on Sat 3 Oct.
+Cookie is an electronic artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London and Melbourne. Often billed alongside Moonz, Stuart Jefferies and Azire. Next up: Howler, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 

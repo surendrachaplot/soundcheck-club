@@ -1,6 +1,6 @@
 # Lettuce Cook Tour (concert) at Xanadu
 
-Lettuce Cook Tour (concert) at Xanadu on Thu 8 Oct, Newyorkcity. Funk / Soul. Preview the line-up and save it on soundcheck.
+Lettuce Cook Tour (concert) at Xanadu on Thu 8 Oct, New York City. Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # nimino at Central Chapelle
 
-nimino at Central Chapelle on Sat 10 Oct, Paris. 1 act on the bill: nimino. Electro. Preview the line-up and save it on soundcheck.
+nimino at Central Chapelle on Sat 10 Oct, Paris. 1 artist on the bill: nimino. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

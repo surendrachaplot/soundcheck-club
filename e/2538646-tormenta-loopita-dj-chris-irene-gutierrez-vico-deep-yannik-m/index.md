@@ -1,6 +1,6 @@
 # TORMENTA: Loopita, Dj Chris, Irene Gutierrez, Vico Deep, Yannik Musik at EL SÓTANO
 
-TORMENTA: Loopita, Dj Chris, Irene Gutierrez, Vico Deep, Yannik Musik at EL SÓTANO on Fri 23 Oct, Madrid. 3 acts on the bill: DJ Chris (CA), Loopita and Vico Deep. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+TORMENTA: Loopita, Dj Chris, Irene Gutierrez, Vico Deep, Yannik Musik at EL SÓTANO on Fri 23 Oct, Madrid. 3 artists on the bill: DJ Chris (CA), Loopita and Vico Deep. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

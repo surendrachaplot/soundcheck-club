@@ -1,6 +1,6 @@
 # JFF vol.6 17h No stop at Starlane Pizza Bar
 
-JFF vol.6 17h No stop at Starlane Pizza Bar on Sun 22 Nov, London. 6 acts on the bill: Alisdair, Anna Wall, Damiano (2) and Desuba and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+JFF vol.6 17h No stop at Starlane Pizza Bar on Sun 22 Nov, London. 6 artists on the bill: Alisdair, Anna Wall, Damiano and Desuba and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

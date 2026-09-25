@@ -1,6 +1,6 @@
 # Laster Club presents DVS1 invites at The Bassement
 
-Laster Club presents DVS1 invites at The Bassement on Sat 26 Sept, Madrid. 3 acts on the bill: DVS1, Lindsey Herbert and Metapattern. Techno. Preview the line-up and save it on soundcheck.
+Laster Club presents DVS1 invites at The Bassement on Sat 26 Sept, Madrid. 3 artists on the bill: DVS1, Lindsey Herbert and Metapattern. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

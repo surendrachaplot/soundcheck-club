@@ -1,6 +1,6 @@
 # Chevry x Shotgun | ADE Showcase at Hasta La Vista, Baby
 
-Chevry x Shotgun | ADE Showcase at Hasta La Vista, Baby on Sat 24 Oct, Amsterdam. 3 acts on the bill: Deborah Aime La Bagarre, HearThug and Vitess. Electro. Preview the line-up and save it on soundcheck.
+Chevry x Shotgun | ADE Showcase at Hasta La Vista, Baby on Sat 24 Oct, Amsterdam. 3 artists on the bill: Deborah Aime La Bagarre, HearThug and Vitess. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

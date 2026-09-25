@@ -1,6 +1,6 @@
 # Evento Prueba at TBA
 
-Evento Prueba at TBA on Fri 11 Dec, Mexicocity. Preview the line-up and save it on soundcheck.
+Evento Prueba at TBA on Fri 11 Dec, Mexico City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

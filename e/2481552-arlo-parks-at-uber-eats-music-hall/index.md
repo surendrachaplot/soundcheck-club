@@ -1,6 +1,6 @@
 # Arlo Parks at Uber Eats Music Hall
 
-Arlo Parks at Uber Eats Music Hall on Sat 31 Oct, Berlin. 1 act on the bill: Arlo Parks. Pop and R&B. Preview the line-up and save it on soundcheck.
+Arlo Parks at Uber Eats Music Hall on Sat 31 Oct, Berlin. 1 artist on the bill: Arlo Parks. Pop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

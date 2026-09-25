@@ -1,6 +1,6 @@
 # club x Encore: Clouds, Evian Christ, Earth From Space at Le Sucre
 
-club x Encore: Clouds, Evian Christ, Earth From Space at Le Sucre on Sat 10 Oct, Lyon. 2 acts on the bill: Clouds and Evian Christ. Techno. Preview the line-up and save it on soundcheck.
+club x Encore: Clouds, Evian Christ, Earth From Space at Le Sucre on Sat 10 Oct, Lyon. 2 artists on the bill: Clouds and Evian Christ. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

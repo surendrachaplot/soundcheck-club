@@ -1,6 +1,6 @@
 # Bad Deal Records Launch Party at Baggen
 
-Bad Deal Records Launch Party at Baggen on Sat 26 Sept, Copenhagen. 4 acts on the bill: Anton Goltermann, Arto (2), Max Finney and sportjohan. Techno and House. Preview the line-up and save it on soundcheck.
+Bad Deal Records Launch Party at Baggen on Sat 26 Sept, Copenhagen. 4 artists on the bill: Anton Goltermann, Arto, Max Finney and sportjohan. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

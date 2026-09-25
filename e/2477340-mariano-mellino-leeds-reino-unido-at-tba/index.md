@@ -1,6 +1,6 @@
 # Mariano Mellino – Leeds, Reino Unido at TBA
 
-Mariano Mellino – Leeds, Reino Unido at TBA on Fri 16 Oct, Leeds. 1 act on the bill: Mariano Mellino. Preview the line-up and save it on soundcheck.
+Mariano Mellino – Leeds, Reino Unido at TBA on Fri 16 Oct, Leeds. 1 artist on the bill: Mariano Mellino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

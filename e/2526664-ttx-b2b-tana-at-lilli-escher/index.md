@@ -1,6 +1,6 @@
 # TTX B2B Tana at Lilli Escher
 
-TTX B2B Tana at Lilli Escher on Sat 26 Sept, Hamburg. 2 acts on the bill: Tana (2) and TTX (GER). Preview the line-up and save it on soundcheck.
+TTX B2B Tana at Lilli Escher on Sat 26 Sept, Hamburg. 2 artists on the bill: Tana and TTX (GER). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

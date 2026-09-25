@@ -2,7 +2,7 @@
 
 Bondo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chicago Social Club, Amsterdam on Sat, 24 Oct 2026.
 
-Bondo is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam, Losangeles, Miami and Munich and 1 more. Often billed alongside Bianca Lexis, Olive Kimoto and Orsay. Next up: Chicago Social Club, Amsterdam on Sat 24 Oct.
+Bondo is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam, Los Angeles, Miami and Munich and 1 more. Often billed alongside Bianca Lexis, Olive Kimoto and Orsay. Next up: Chicago Social Club, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 

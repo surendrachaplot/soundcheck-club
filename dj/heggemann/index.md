@@ -1,13 +1,14 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 9 Oct 2026.
+Mika Heggemann is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
 
-Mika Heggemann is a techno and trance artist based in Germany, tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Uebel & Gefährlich, Hamburg on Fri 9 Oct.
+Mika Heggemann is a techno and trance artist based in Germany, tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Phantom Bar Berlin, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 7 Oct 2026 | Phantom Bar Berlin | Berlin |
 | Fri, 9 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Fri, 16 Oct 2026 | Ääniwalli | Helsinki |

@@ -1,6 +1,6 @@
 # Reek0 + Capo Lee at Headrow House
 
-Reek0 + Capo Lee at Headrow House on Sat 5 Dec, Leeds. 2 acts on the bill: Capo Lee and Reeko. Preview the line-up and save it on soundcheck.
+Reek0 + Capo Lee at Headrow House on Sat 5 Dec, Leeds. 2 artists on the bill: Capo Lee and Reeko. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BLEND 4: IT'S SLIME TIME at Sidney & Matilda
 
-BLEND 4: IT'S SLIME TIME at Sidney & Matilda on Fri 30 Oct, Sheffield. 1 act on the bill: Linnemann. Techno and Bass. Preview the line-up and save it on soundcheck.
+BLEND 4: IT'S SLIME TIME at Sidney & Matilda on Fri 30 Oct, Sheffield. 1 artist on the bill: Linnemann. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

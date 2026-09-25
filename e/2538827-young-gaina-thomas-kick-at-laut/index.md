@@ -1,6 +1,6 @@
 # Young Gaina + Thomas Kick at LAUT
 
-Young Gaina + Thomas Kick at LAUT on Sat 10 Oct, Barcelona. 2 acts on the bill: Thomas Kick (2) and Young Gaina. Club. Preview the line-up and save it on soundcheck.
+Young Gaina + Thomas Kick at LAUT on Sat 10 Oct, Barcelona. 2 artists on the bill: Thomas Kick and Young Gaina. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

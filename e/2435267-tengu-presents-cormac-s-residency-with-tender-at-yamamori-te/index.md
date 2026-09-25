@@ -1,6 +1,6 @@
 # Tengu presents: Cormac's Residency with Tender at Yamamori Tengu
 
-Tengu presents: Cormac's Residency with Tender at Yamamori Tengu on Fri 2 Oct, Dublin. 3 acts on the bill: Bull Horris, Cormac and Mercorn. House and Disco. Preview the line-up and save it on soundcheck.
+Tengu presents: Cormac's Residency with Tender at Yamamori Tengu on Fri 2 Oct, Dublin. 3 artists on the bill: Bull Horris, Cormac and Mercorn. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

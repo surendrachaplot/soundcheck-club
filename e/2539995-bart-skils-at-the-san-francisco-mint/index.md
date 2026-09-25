@@ -1,6 +1,6 @@
 # Bart Skils at The San Francisco Mint
 
-Bart Skils at The San Francisco Mint on Sat 10 Oct, Sanfrancisco. 1 act on the bill: Bart Skils. Techno. Preview the line-up and save it on soundcheck.
+Bart Skils at The San Francisco Mint on Sat 10 Oct, San Francisco/Oakland. 1 artist on the bill: Bart Skils. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

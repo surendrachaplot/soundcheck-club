@@ -1,6 +1,6 @@
 # underscores at Botanique
 
-underscores at Botanique on Fri 6 Nov, Brussels. 2 acts on the bill: umru and underscores. Electro and Pop. Preview the line-up and save it on soundcheck.
+underscores at Botanique on Fri 6 Nov, Brussels. 2 artists on the bill: umru and underscores. Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Venjent is a Drum & Bass and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kassa Boat, Budapest on Fri, 25 Sept 2026.
 
-Venjent is a drum & bass and electro artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Budapest and Riga. Often billed alongside Aphrodite, Blooom and Bug (1). Next up: Kassa Boat, Budapest on Fri 25 Sept.
+Venjent is a drum & bass and electro artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Budapest and Riga. Often billed alongside Aphrodite, Blooom and Bug. Next up: Kassa Boat, Budapest on Fri 25 Sept.
 
 ## Upcoming shows
 

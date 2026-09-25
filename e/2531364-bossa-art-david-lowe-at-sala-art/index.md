@@ -1,6 +1,6 @@
 # BOSSA × ART: DAVID LOWE at Sala ART
 
-BOSSA × ART: DAVID LOWE at Sala ART on Sat 24 Oct, Madrid. 6 acts on the bill: Grau, Héctor Pericet, Javiherr and Julio Machicado and 2 more. Tech House. Preview the line-up and save it on soundcheck.
+BOSSA × ART: DAVID LOWE at Sala ART on Sat 24 Oct, Madrid. 6 artists on the bill: Grau, Héctor Pericet, Javiherr and Julio Machicado and 2 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

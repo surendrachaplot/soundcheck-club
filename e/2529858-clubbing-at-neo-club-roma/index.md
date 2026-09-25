@@ -1,6 +1,6 @@
 # Clubbing at NEO CLUB ROMA
 
-Clubbing at NEO CLUB ROMA on Sat 26 Sept, Rome. 2 acts on the bill: Flavio Rago and Marco Rea. House and Club. Preview the line-up and save it on soundcheck.
+Clubbing at NEO CLUB ROMA on Sat 26 Sept, Rome. 2 artists on the bill: Flavio Rago and Marco Rea. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

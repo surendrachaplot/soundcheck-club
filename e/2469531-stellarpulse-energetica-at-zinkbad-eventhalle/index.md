@@ -1,6 +1,6 @@
 # STELLARPULSE × ENERGETICA at Zinkbad Eventhalle
 
-STELLARPULSE × ENERGETICA at Zinkbad Eventhalle on Sat 24 Oct, Zurich. 2 acts on the bill: Greg G and Mad Fusion. Psytrance. Preview the line-up and save it on soundcheck.
+STELLARPULSE × ENERGETICA at Zinkbad Eventhalle on Sat 24 Oct, Zurich. 2 artists on the bill: Greg G and Mad Fusion. Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

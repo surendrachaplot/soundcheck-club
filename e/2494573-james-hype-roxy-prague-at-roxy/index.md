@@ -1,6 +1,6 @@
 # JAMES HYPE ∞ ROXY Prague at Roxy
 
-JAMES HYPE ∞ ROXY Prague at Roxy on Sun 27 Sept, Prague. 1 act on the bill: James Hype (UK). House and Tech House. Preview the line-up and save it on soundcheck.
+JAMES HYPE ∞ ROXY Prague at Roxy on Sun 27 Sept, Prague. 1 artist on the bill: James Hype (UK). House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Depth Perception at Cosies
 
-Depth Perception at Cosies on Fri 25 Sept, Bristol. 3 acts on the bill: Jay Galligan, Owain K and Zobol. Electro and Acid. Preview the line-up and save it on soundcheck.
+Depth Perception at Cosies on Fri 25 Sept, Bristol. 3 artists on the bill: Jay Galligan, Owain K and Zobol. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

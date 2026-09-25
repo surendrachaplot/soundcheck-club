@@ -2,7 +2,7 @@
 
 Coone is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chicago Social Club, Amsterdam on Wed, 21 Oct 2026.
 
-Coone is a techno and house artist based in Belgium, tracked on soundcheck, with 20 sets logged across Amsterdam, Dusseldorf, Glasgow and London and 5 more. Often billed alongside Brennan Heart, Da Tweekaz and Dual Damage. Next up: Chicago Social Club, Amsterdam on Wed 21 Oct.
+Coone is a techno and house artist based in Belgium, tracked on soundcheck, with 20 sets logged across Amsterdam, Düsseldorf, Glasgow and London and 5 more. Often billed alongside Brennan Heart, Da Tweekaz and Dual Damage. Next up: Chicago Social Club, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 

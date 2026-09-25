@@ -2,7 +2,7 @@
 
 OLIV is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 26 Sept 2026.
 
-OLIV is a house and techno artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside SAM (9), jewelry and Felix Lücke. Next up: Tokonoma Club, Frankfurt on Sat 26 Sept.
+OLIV is a house and techno artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside SAM, jewelry and Felix Lücke. Next up: Tokonoma Club, Frankfurt on Sat 26 Sept.
 
 ## Upcoming shows
 

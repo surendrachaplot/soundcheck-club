@@ -1,6 +1,6 @@
 # buen finde! a mexican weekend at dubble
 
-buen finde! a mexican weekend at dubble on Sat 26 Sept, Amsterdam. 2 acts on the bill: Miguel De Bois and Nikko Axzul. Preview the line-up and save it on soundcheck.
+buen finde! a mexican weekend at dubble on Sat 26 Sept, Amsterdam. 2 artists on the bill: Miguel De Bois and Nikko Axzul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

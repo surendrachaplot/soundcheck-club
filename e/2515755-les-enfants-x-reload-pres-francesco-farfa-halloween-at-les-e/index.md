@@ -1,6 +1,6 @@
 # Les Enfants x Reload pres. Francesco Farfa HALLOWEEN at Les Enfants Brillants
 
-Les Enfants x Reload pres. Francesco Farfa HALLOWEEN at Les Enfants Brillants on Sat 31 Oct, Barcelona. 1 act on the bill: Francesco Farfa. Preview the line-up and save it on soundcheck.
+Les Enfants x Reload pres. Francesco Farfa HALLOWEEN at Les Enfants Brillants on Sat 31 Oct, Barcelona. 1 artist on the bill: Francesco Farfa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

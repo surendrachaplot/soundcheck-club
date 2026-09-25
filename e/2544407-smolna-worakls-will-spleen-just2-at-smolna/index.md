@@ -1,6 +1,6 @@
 # Smolna: Worakls, Will Spleen, Just2 at Smolna
 
-Smolna: Worakls, Will Spleen, Just2 on Fri 16 Oct, Warsaw. 4 acts on the bill: CZART, deafcandance, Just2 and Worakls. Techno and House. Preview the line-up and save it on soundcheck.
+Smolna: Worakls, Will Spleen, Just2 on Fri 16 Oct, Warsaw. 4 artists on the bill: CZART, deafcandance, Just2 and Worakls. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

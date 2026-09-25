@@ -1,6 +1,6 @@
 # FVTVR: Rene Wise, Eman, Alex Kassian, Full Sentimental at KALT
 
-FVTVR: Rene Wise, Eman, Alex Kassian, Full Sentimental at KALT on Sat 21 Nov, Strasbourg. 5 acts on the bill: Alex Kassian, Chill (FR), EMAN (FR) and Full Sentimental and 1 more. Preview the line-up and save it on soundcheck.
+FVTVR: Rene Wise, Eman, Alex Kassian, Full Sentimental at KALT on Sat 21 Nov, Strasbourg. 5 artists on the bill: Alex Kassian, Chill (FR), EMAN (FR) and Full Sentimental and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

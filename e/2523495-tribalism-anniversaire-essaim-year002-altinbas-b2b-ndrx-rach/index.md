@@ -1,6 +1,6 @@
 # tribalism anniversaire essaim YEAR002 - Altinbas b2b Ndrx, Rachel Noon, ZEL at essaim
 
-tribalism anniversaire essaim YEAR002 - Altinbas b2b Ndrx, Rachel Noon, ZEL on Fri 30 Oct, Paris. 4 acts on the bill: Altinbas, Ndrx, Rachel Noon and ZEL (3). Techno. Preview the line-up and save it on soundcheck.
+tribalism anniversaire essaim YEAR002 - Altinbas b2b Ndrx, Rachel Noon, ZEL on Fri 30 Oct, Paris. 4 artists on the bill: Altinbas, Ndrx, Rachel Noon and ZEL. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

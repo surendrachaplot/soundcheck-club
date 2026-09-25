@@ -1,6 +1,6 @@
 # Clock Factory presents: TS7, Frontline Takeover & More at The Clock Factory
 
-Clock Factory presents: TS7, Frontline Takeover & More at The Clock Factory on Fri 2 Oct, Bristol. 1 act on the bill: TS7. Bass. Preview the line-up and save it on soundcheck.
+Clock Factory presents: TS7, Frontline Takeover & More at The Clock Factory on Fri 2 Oct, Bristol. 1 artist on the bill: TS7. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

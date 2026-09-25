@@ -1,6 +1,6 @@
 # Rev at TBA
 
-Rev at TBA on Sun 27 Sept, Sydney. 1 act on the bill: Bortzo. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Rev at TBA on Sun 27 Sept, Sydney. 1 artist on the bill: Bortzo. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

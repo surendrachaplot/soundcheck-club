@@ -1,6 +1,6 @@
 # Factory 93 presents: ¥ØU$UK€ ¥UK1MAT$U at Echostage
 
-Factory 93 presents: ¥ØU$UK€ ¥UK1MAT$U at Echostage on Sat 24 Oct, Washingtondc. 1 act on the bill: ¥ØU$UK€ ¥UK1MAT$U. Techno and Gabber. Preview the line-up and save it on soundcheck.
+Factory 93 presents: ¥ØU$UK€ ¥UK1MAT$U at Echostage on Sat 24 Oct, Washington DC. 1 artist on the bill: ¥ØU$UK€ ¥UK1MAT$U. Techno and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

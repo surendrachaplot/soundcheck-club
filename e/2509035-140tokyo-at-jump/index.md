@@ -1,6 +1,6 @@
 # 140Tokyo at Jump
 
-140Tokyo at Jump on Sat 26 Sept, Tokyo. 1 act on the bill: MOOTOE. Bass and Garage. Preview the line-up and save it on soundcheck.
+140Tokyo at Jump on Sat 26 Sept, Tokyo. 1 artist on the bill: MOOTOE. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

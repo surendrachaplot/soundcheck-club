@@ -1,6 +1,6 @@
 # Turturturbine at Turtur
 
-Turturturbine on Sat 17 Oct, Hamburg. 2 acts on the bill: Randali and Sophie Cut. Techno. Preview the line-up and save it on soundcheck.
+Turturturbine on Sat 17 Oct, Hamburg. 2 artists on the bill: Randali and Sophie Cut. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

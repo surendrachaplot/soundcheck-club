@@ -1,6 +1,6 @@
 # Koenji Cave presents ▷ Laboratory Vol.34 at Koenji Cave
 
-Koenji Cave presents ▷ Laboratory Vol.34 on Fri 25 Sept, Tokyo. 1 act on the bill: CyberMoripy. Preview the line-up and save it on soundcheck.
+Koenji Cave presents ▷ Laboratory Vol.34 on Fri 25 Sept, Tokyo. 1 artist on the bill: CyberMoripy. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

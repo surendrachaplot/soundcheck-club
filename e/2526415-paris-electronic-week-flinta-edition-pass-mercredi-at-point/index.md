@@ -1,6 +1,6 @@
 # Paris Electronic Week (FLINTA EDITION) - Pass mercredi at Point Ephémère
 
-Paris Electronic Week (FLINTA EDITION) - Pass mercredi at Point Ephémère on Wed 30 Sept, Paris. 4 acts on the bill: Carré, Dangermami, MZA (FR) and rRoxymore. Preview the line-up and save it on soundcheck.
+Paris Electronic Week (FLINTA EDITION) - Pass mercredi at Point Ephémère on Wed 30 Sept, Paris. 4 artists on the bill: Carré, Dangermami, MZA (FR) and rRoxymore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

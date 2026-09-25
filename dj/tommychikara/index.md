@@ -2,7 +2,7 @@
 
 Tommy Chikara is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at THE OTHER SIDE, Amsterdam on Thu, 22 Oct 2026.
 
-Tommy Chikara is a house and techno artist based in Netherlands, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Newyorkcity and Paris. Often billed alongside Benjamin Berg, Hannecart and Kyra Khaldi. Next up: THE OTHER SIDE, Amsterdam on Thu 22 Oct.
+Tommy Chikara is a house and techno artist based in Netherlands, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, New York City and Paris. Often billed alongside Benjamin Berg, Hannecart and Kyra Khaldi. Next up: THE OTHER SIDE, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 

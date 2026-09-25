@@ -1,6 +1,6 @@
 # INNER CIRCLE Vol.4 || with Mathys Lenne at Department 184
 
-INNER CIRCLE Vol.4 || with Mathys Lenne at Department 184 on Fri 25 Sept, Milan. 5 acts on the bill: Lady Goccia, Mathys Lenne, MISERIA and R.ocks and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+INNER CIRCLE Vol.4 || with Mathys Lenne at Department 184 on Fri 25 Sept, Milan. 5 artists on the bill: Lady Goccia, Mathys Lenne, MISERIA and R.ocks and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DURATIONS: William Basinski, Cholla at public records
 
-DURATIONS: William Basinski, Cholla at public records on Mon 9 Nov, Newyorkcity. 1 act on the bill: William Basinski. Preview the line-up and save it on soundcheck.
+DURATIONS: William Basinski, Cholla at public records on Mon 9 Nov, New York City. 1 artist on the bill: William Basinski. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

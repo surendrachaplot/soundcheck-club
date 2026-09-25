@@ -1,6 +1,6 @@
 # Dimitri & ISIS ADE 2026 at Kaap Amsterdam
 
-Dimitri & ISIS ADE 2026 at Kaap Amsterdam on Fri 23 Oct, Amsterdam. 2 acts on the bill: Dimitri Kneppers and ISIS. Techno and House. Preview the line-up and save it on soundcheck.
+Dimitri & ISIS ADE 2026 at Kaap Amsterdam on Fri 23 Oct, Amsterdam. 2 artists on the bill: Dimitri Kneppers and ISIS. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

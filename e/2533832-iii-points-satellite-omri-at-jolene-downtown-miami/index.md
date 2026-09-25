@@ -1,6 +1,6 @@
 # III Points Satellite: OMRI at Jolene Downtown Miami
 
-III Points Satellite: OMRI at Jolene Downtown Miami on Fri 16 Oct, Miami. 3 acts on the bill: Danyelino, Mai iachetti and OMRI.. House and Tech House. Preview the line-up and save it on soundcheck.
+III Points Satellite: OMRI at Jolene Downtown Miami on Fri 16 Oct, Miami. 3 artists on the bill: Danyelino, Mai iachetti and OMRI.. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

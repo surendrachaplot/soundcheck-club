@@ -1,6 +1,6 @@
 # Weich Birthday Sleepover at 90mil
 
-Weich Birthday Sleepover at 90mil on Sat 14 Nov, Berlin. 1 act on the bill: Margaux Gazur. Ambient. Preview the line-up and save it on soundcheck.
+Weich Birthday Sleepover at 90mil on Sat 14 Nov, Berlin. 1 artist on the bill: Margaux Gazur. Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

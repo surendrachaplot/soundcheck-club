@@ -2,7 +2,7 @@
 
 DEBONAIR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
-DEBONAIR is a techno and house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Barcelona, Bristol, Chicago and Detroit and 14 more. Often billed alongside Jubilee, Objekt and Coe (1). Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
+DEBONAIR is a techno and house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Barcelona, Bristol, Chicago and Detroit and 14 more. Often billed alongside Jubilee, Objekt and Coe. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
 ## Upcoming shows
 

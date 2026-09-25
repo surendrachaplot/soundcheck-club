@@ -1,6 +1,6 @@
 # LLORA LIVE at The Strays
 
-LLORA LIVE at The Strays on Thu 24 Sept, Detroit. 1 act on the bill: Kenjiro. Experimental and Industrial. Preview the line-up and save it on soundcheck.
+LLORA LIVE at The Strays on Thu 24 Sept, Detroit. 1 artist on the bill: Kenjiro. Experimental and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

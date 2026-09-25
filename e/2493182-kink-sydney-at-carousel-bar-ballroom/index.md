@@ -1,6 +1,6 @@
 # KiNK [Sydney] at Carousel Bar & Ballroom
 
-KiNK [Sydney] at Carousel Bar & Ballroom on Fri 16 Oct, Sydney. 1 act on the bill: KiNK. Preview the line-up and save it on soundcheck.
+KiNK [Sydney] at Carousel Bar & Ballroom on Fri 16 Oct, Sydney. 1 artist on the bill: KiNK. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

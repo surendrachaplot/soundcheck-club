@@ -1,6 +1,6 @@
 # A.S.F (TECHNO/HOUSE) at WOMB
 
-A.S.F (TECHNO/HOUSE) at WOMB on Fri 25 Sept, Tokyo. 5 acts on the bill: ildec, Karuta, KINO (UY) and P-YAN and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+A.S.F (TECHNO/HOUSE) at WOMB on Fri 25 Sept, Tokyo. 5 artists on the bill: ildec, Karuta, KINO (UY) and P-YAN and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

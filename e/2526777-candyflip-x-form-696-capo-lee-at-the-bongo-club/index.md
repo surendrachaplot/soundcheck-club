@@ -1,6 +1,6 @@
 # CandyFlip X Form 696: Capo Lee at The Bongo Club
 
-CandyFlip X Form 696: Capo Lee at The Bongo Club on Thu 8 Oct, Edinburgh. 5 acts on the bill: Capo Lee, Casement, FOLIE (UK) and JI_2001 and 1 more. Garage and Grime. Preview the line-up and save it on soundcheck.
+CandyFlip X Form 696: Capo Lee at The Bongo Club on Thu 8 Oct, Edinburgh. 5 artists on the bill: Capo Lee, Casement, FOLIE (UK) and JI_2001 and 1 more. Garage and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

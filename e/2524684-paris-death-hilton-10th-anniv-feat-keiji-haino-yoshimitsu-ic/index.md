@@ -1,6 +1,6 @@
 # Paris death Hilton 10th Anniv feat. Keiji Haino+Yoshimitsu Ichiraku,INCAPACITANTS,RUINS at Club Goodman
 
-Paris death Hilton 10th Anniv feat. Keiji Haino+Yoshimitsu Ichiraku,INCAPACITANTS,RUINS at Club Goodman on Sat 26 Sept, Tokyo. 1 act on the bill: Keiji Haino. Experimental and Noise. Preview the line-up and save it on soundcheck.
+Paris death Hilton 10th Anniv feat. Keiji Haino+Yoshimitsu Ichiraku,INCAPACITANTS,RUINS at Club Goodman on Sat 26 Sept, Tokyo. 1 artist on the bill: Keiji Haino. Experimental and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

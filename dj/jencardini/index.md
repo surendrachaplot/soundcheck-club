@@ -2,7 +2,7 @@
 
 Jen Cardini is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 3oz Dive Club, San Diego on Thu, 24 Sept 2026.
 
-Jen Cardini is a techno and house artist based in France, tracked on soundcheck, with 257 sets logged across Amsterdam, Antwerp, Athens and Auckland and 58 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: 3oz Dive Club, Sandiego on Thu 24 Sept.
+Jen Cardini is a techno and house artist based in France, tracked on soundcheck, with 257 sets logged across Amsterdam, Antwerp, Athens and Auckland and 58 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: 3oz Dive Club, San Diego on Thu 24 Sept.
 
 ## Upcoming shows
 

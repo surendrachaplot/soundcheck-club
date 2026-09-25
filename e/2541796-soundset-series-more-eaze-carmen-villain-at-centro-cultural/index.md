@@ -1,6 +1,6 @@
 # SOUNDSET SERIES : More Eaze + Carmen Villain at Centro Cultural Conde Duque
 
-SOUNDSET SERIES : More Eaze + Carmen Villain at Centro Cultural Conde Duque on Fri 16 Oct, Madrid. 2 acts on the bill: Carmen Villain and more eaze. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+SOUNDSET SERIES : More Eaze + Carmen Villain at Centro Cultural Conde Duque on Fri 16 Oct, Madrid. 2 artists on the bill: Carmen Villain and more eaze. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

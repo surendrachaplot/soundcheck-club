@@ -1,6 +1,6 @@
 # Groovy Juice at Mezzanine - Tooting
 
-Groovy Juice at Mezzanine - Tooting on Fri 25 Sept, London. 1 act on the bill: Lucky Penny. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Groovy Juice at Mezzanine - Tooting on Fri 25 Sept, London. 1 artist on the bill: Lucky Penny. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

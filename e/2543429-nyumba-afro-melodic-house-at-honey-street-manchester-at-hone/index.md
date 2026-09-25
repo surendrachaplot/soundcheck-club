@@ -1,6 +1,6 @@
 # NYUMBA: Afro & Melodic House at Honey Street, Manchester at Honey Street Studio
 
-NYUMBA: Afro & Melodic House at Honey Street, Manchester at Honey Street Studio on Sat 7 Nov, Manchester. 3 acts on the bill: Kakura, MYDIR and Trekkah. House and Afro House. Preview the line-up and save it on soundcheck.
+NYUMBA: Afro & Melodic House at Honey Street, Manchester at Honey Street Studio on Sat 7 Nov, Manchester. 3 artists on the bill: Kakura, MYDIR and Trekkah. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

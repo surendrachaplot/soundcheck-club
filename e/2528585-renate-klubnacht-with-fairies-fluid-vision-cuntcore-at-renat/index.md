@@ -1,6 +1,6 @@
 # Renate Klubnacht with Fairies, Fluid Vision & CUNTCORE at Renate
 
-Renate Klubnacht with Fairies, Fluid Vision & CUNTCORE on Sat 3 Oct, Berlin. 10 acts on the bill: 131bpm, Barbad, Dj handbag and DJ Trade Trainer and 6 more. Preview the line-up and save it on soundcheck.
+Renate Klubnacht with Fairies, Fluid Vision & CUNTCORE on Sat 3 Oct, Berlin. 10 artists on the bill: 131bpm, Barbad, Dj handbag and DJ Trade Trainer and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

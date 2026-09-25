@@ -1,6 +1,6 @@
 # Hiss & Hertz with Chlär, Colin Benders & Joya Astou at WAS.
 
-Hiss & Hertz with Chlär, Colin Benders & Joya Astou at WAS. on Sat 19 Dec, Utrecht. 3 acts on the bill: Chlär, Colin Benders and Joya Astou. Techno. Preview the line-up and save it on soundcheck.
+Hiss & Hertz with Chlär, Colin Benders & Joya Astou at WAS. on Sat 19 Dec, Utrecht. 3 artists on the bill: Chlär, Colin Benders and Joya Astou. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

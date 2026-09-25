@@ -1,6 +1,6 @@
 # History of House Utrecht at TivoliVredenburg
 
-History of House Utrecht at TivoliVredenburg on Sat 28 Nov, Utrecht. 4 acts on the bill: Erick E, Funkerman, Housequake and ROOG. House and Tech House. Preview the line-up and save it on soundcheck.
+History of House Utrecht at TivoliVredenburg on Sat 28 Nov, Utrecht. 4 artists on the bill: Erick E, Funkerman, Housequake and ROOG. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

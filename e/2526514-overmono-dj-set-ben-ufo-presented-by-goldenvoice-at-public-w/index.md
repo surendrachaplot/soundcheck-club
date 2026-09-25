@@ -1,6 +1,6 @@
 # Overmono (DJ Set) + Ben UFO presented by Goldenvoice at Public Works
 
-Overmono (DJ Set) + Ben UFO presented by Goldenvoice at Public Works on Sun 27 Sept, Sanfrancisco. 5 acts on the bill: Ben UFO, erika (SF), Kaytree and Overmono and 1 more. Preview the line-up and save it on soundcheck.
+Overmono (DJ Set) + Ben UFO presented by Goldenvoice at Public Works on Sun 27 Sept, San Francisco/Oakland. 5 artists on the bill: Ben UFO, erika (SF), Kaytree and Overmono and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

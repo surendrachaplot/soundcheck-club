@@ -1,6 +1,6 @@
 # Culture Forum Paabel: Omar Souleyman (SY) at Paavli Kultuurivabrik
 
-Culture Forum Paabel: Omar Souleyman (SY) at Paavli Kultuurivabrik on Sun 27 Sept, Tallinn. 1 act on the bill: Omar Souleyman. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Culture Forum Paabel: Omar Souleyman (SY) at Paavli Kultuurivabrik on Sun 27 Sept, Tallinn. 1 artist on the bill: Omar Souleyman. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

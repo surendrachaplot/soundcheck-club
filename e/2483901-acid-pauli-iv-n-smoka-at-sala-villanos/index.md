@@ -1,6 +1,6 @@
 # Acid Pauli + Iván Smoka at Sala Villanos
 
-Acid Pauli + Iván Smoka at Sala Villanos on Fri 11 Dec, Madrid. 1 act on the bill: Acid Pauli. Electronica. Preview the line-up and save it on soundcheck.
+Acid Pauli + Iván Smoka at Sala Villanos on Fri 11 Dec, Madrid. 1 artist on the bill: Acid Pauli. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

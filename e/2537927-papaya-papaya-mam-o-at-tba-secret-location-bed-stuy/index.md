@@ -1,6 +1,6 @@
 # Papaya Papaya Mamão at TBA - Secret Location, Bed Stuy
 
-Papaya Papaya Mamão at TBA - Secret Location, Bed Stuy on Sat 3 Oct, Newyorkcity. 3 acts on the bill: FEDRA., FUGE and Siete Catorce. Latin Bass. Preview the line-up and save it on soundcheck.
+Papaya Papaya Mamão at TBA - Secret Location, Bed Stuy on Sat 3 Oct, New York City. 3 artists on the bill: FEDRA., FUGE and Siete Catorce. Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 HoneyLuv is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
-HoneyLuv is a house and tech house artist based in United States of America, tracked on soundcheck, with 167 sets logged across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside Nic Fanciulli, Dennis Ferrer and Andrea Oliva. Next up: TBA, Losangeles on Sun 27 Sept.
+HoneyLuv is a house and tech house artist based in United States of America, tracked on soundcheck, with 167 sets logged across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside Nic Fanciulli, Dennis Ferrer and Andrea Oliva. Next up: TBA, Los Angeles on Sun 27 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # HOTBOX: Gils Promor's Birthday at MeWe Amsterdam
 
-HOTBOX: Gils Promor's Birthday at MeWe Amsterdam on Fri 9 Oct, Amsterdam. 4 acts on the bill: Gils Promor, Gino Da Koda, HOTBOX COLLECTIVE and Sanne Dammers. House and Tech House. Preview the line-up and save it on soundcheck.
+HOTBOX: Gils Promor's Birthday at MeWe Amsterdam on Fri 9 Oct, Amsterdam. 4 artists on the bill: Gils Promor, Gino Da Koda, HOTBOX COLLECTIVE and Sanne Dammers. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

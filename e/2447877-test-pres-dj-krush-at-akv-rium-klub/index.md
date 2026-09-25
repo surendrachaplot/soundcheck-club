@@ -1,6 +1,6 @@
 # TEST pres. DJ Krush at Akvárium Klub
 
-TEST pres. DJ Krush at Akvárium Klub on Sat 24 Oct, Budapest. 1 act on the bill: DJ Krush. Downtempo. Preview the line-up and save it on soundcheck.
+TEST pres. DJ Krush at Akvárium Klub on Sat 24 Oct, Budapest. 1 artist on the bill: DJ Krush. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Techno Crudo Collective X ESC at ESC
 
-Techno Crudo Collective X ESC on Thu 24 Sept, Montreal. 2 acts on the bill: Char.l.n and Toltech. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Techno Crudo Collective X ESC on Thu 24 Sept, Montreal. 2 artists on the bill: Char.l.n and Toltech. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

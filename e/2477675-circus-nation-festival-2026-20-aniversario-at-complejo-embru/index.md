@@ -1,6 +1,6 @@
 # Circus Nation Festival 2026 - 20 ANIVERSARIO at Complejo Embrujo
 
-Circus Nation Festival 2026 - 20 ANIVERSARIO at Complejo Embrujo on Sat 3 Oct, South. 24 acts on the bill: A.N.I., C-System, Chris Liebing and DJ Rolando and 20 more. Preview the line-up and save it on soundcheck.
+Circus Nation Festival 2026 - 20 ANIVERSARIO at Complejo Embrujo on Sat 3 Oct, South. 24 artists on the bill: A.N.I., C-System, Chris Liebing and DJ Rolando and 20 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

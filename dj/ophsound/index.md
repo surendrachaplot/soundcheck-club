@@ -1,14 +1,15 @@
 # OPH
 
-OPH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+OPH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
-OPH is a techno and house artist based in France, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 10 more. Often billed alongside Chami, Blasha & Allatt and Mary Yuzovskaya. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+OPH is a techno and house artist based in France, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Cologne and Düsseldorf and 10 more. Often billed alongside Chami, Blasha & Allatt and Mary Yuzovskaya. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
+| Sat, 17 Oct 2026 | Fvtvr | Paris |
 
 ## Recently played
 

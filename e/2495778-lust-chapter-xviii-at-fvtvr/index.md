@@ -1,6 +1,6 @@
 # LUST - CHAPTER XVIII at Fvtvr
 
-LUST - CHAPTER XVIII at Fvtvr on Sat 26 Sept, Paris. 3 acts on the bill: Litoshka, Pulso (2) and Temudo. Techno. Preview the line-up and save it on soundcheck.
+LUST - CHAPTER XVIII at Fvtvr on Sat 26 Sept, Paris. 3 artists on the bill: Litoshka, Pulso and Temudo. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

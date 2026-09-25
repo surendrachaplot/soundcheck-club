@@ -1,6 +1,6 @@
 # Desire + Johnny Jewel at Beursschouwburg
 
-Desire + Johnny Jewel at Beursschouwburg on Mon 23 Nov, Brussels. 1 act on the bill: Johnny Jewel. Preview the line-up and save it on soundcheck.
+Desire + Johnny Jewel at Beursschouwburg on Mon 23 Nov, Brussels. 1 artist on the bill: Johnny Jewel. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

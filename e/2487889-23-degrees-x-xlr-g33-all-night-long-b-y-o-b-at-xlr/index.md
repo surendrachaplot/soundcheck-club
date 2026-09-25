@@ -1,6 +1,6 @@
 # 23 Degrees x XLR: G33 - All Night Long [B.Y.O.B] at XLR
 
-23 Degrees x XLR: G33 - All Night Long [B.Y.O.B] on Fri 25 Sept, Manchester. 1 act on the bill: G33 (UK). Garage and Grime. Preview the line-up and save it on soundcheck.
+23 Degrees x XLR: G33 - All Night Long [B.Y.O.B] on Fri 25 Sept, Manchester. 1 artist on the bill: G33 (UK). Garage and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

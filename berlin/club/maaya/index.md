@@ -2,7 +2,7 @@
 
 Maaya is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sahra Party presents Saliah in Berlin" on Fri, 25 Sept 2026.
 
-Maaya is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including APOLONIA (4), auto_timer, Emo Rugene and Helina and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
+Maaya is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including APOLONIA, auto_timer, Emo Rugene and Helina and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
 
 ## What's on
 

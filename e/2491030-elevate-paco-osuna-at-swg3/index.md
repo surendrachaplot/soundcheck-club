@@ -1,6 +1,6 @@
 # Elevate: Paco Osuna at SWG3
 
-Elevate: Paco Osuna at SWG3 on Sun 27 Sept, Glasgow. 1 act on the bill: Paco Osuna. House. Preview the line-up and save it on soundcheck.
+Elevate: Paco Osuna at SWG3 on Sun 27 Sept, Glasgow. 1 artist on the bill: Paco Osuna. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

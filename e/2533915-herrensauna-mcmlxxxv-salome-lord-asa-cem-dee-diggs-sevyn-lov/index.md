@@ -1,6 +1,6 @@
 # Herrensauna: MCMLXXXV / SALOME / LORD ASA / CEM / Dee Diggs / Sevyn Love at BASEMENT
 
-Herrensauna: MCMLXXXV / SALOME / LORD ASA / CEM / Dee Diggs / Sevyn Love at BASEMENT on Sat 31 Oct, Newyorkcity. 6 acts on the bill: CEM, Dee Diggs, LORD ASA and MCMLXXXV and 2 more. Preview the line-up and save it on soundcheck.
+Herrensauna: MCMLXXXV / SALOME / LORD ASA / CEM / Dee Diggs / Sevyn Love at BASEMENT on Sat 31 Oct, New York City. 6 artists on the bill: CEM, Dee Diggs, LORD ASA and MCMLXXXV and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

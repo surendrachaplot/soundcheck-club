@@ -1,6 +1,6 @@
 # TIMEmACHINE Halloween — Dana Ruh, Hugo Martínez & Malambo at Esbirra Ibiza
 
-TIMEmACHINE Halloween — Dana Ruh, Hugo Martínez & Malambo at Esbirra Ibiza on Sat 31 Oct, Ibiza. 2 acts on the bill: Dana Ruh and Hugo Martinez. House and Minimal. Preview the line-up and save it on soundcheck.
+TIMEmACHINE Halloween — Dana Ruh, Hugo Martínez & Malambo at Esbirra Ibiza on Sat 31 Oct, Ibiza. 2 artists on the bill: Dana Ruh and Hugo Martinez. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

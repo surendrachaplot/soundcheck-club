@@ -1,6 +1,6 @@
 # Hidden Frequencies at Supermarket
 
-Hidden Frequencies at Supermarket on Fri 9 Oct, Zurich. 2 acts on the bill: Akyra and Fedo. Preview the line-up and save it on soundcheck.
+Hidden Frequencies at Supermarket on Fri 9 Oct, Zurich. 2 artists on the bill: Akyra and Fedo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

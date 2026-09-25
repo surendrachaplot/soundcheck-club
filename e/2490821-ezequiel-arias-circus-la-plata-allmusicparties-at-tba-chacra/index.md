@@ -1,6 +1,6 @@
 # Ezequiel Arias - Circus, La Plata - ALLMusicParties at TBA - Chacra El Descanso, La Plata
 
-Ezequiel Arias - Circus, La Plata - ALLMusicParties at TBA - Chacra El Descanso, La Plata on Sun 8 Nov, Buenosaires. 1 act on the bill: Ezequiel Arias. Progressive House. Preview the line-up and save it on soundcheck.
+Ezequiel Arias - Circus, La Plata - ALLMusicParties at TBA - Chacra El Descanso, La Plata on Sun 8 Nov, Buenos Aires. 1 artist on the bill: Ezequiel Arias. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

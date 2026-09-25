@@ -1,6 +1,6 @@
 # Moments at Kaap Amsterdam
 
-Moments at Kaap Amsterdam on Thu 22 Oct, Amsterdam. 9 acts on the bill: Antrim, Chicola, DJ Zombi and Eli Nissan and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+Moments at Kaap Amsterdam on Thu 22 Oct, Amsterdam. 9 artists on the bill: Antrim, Chicola, DJ Zombi and Eli Nissan and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

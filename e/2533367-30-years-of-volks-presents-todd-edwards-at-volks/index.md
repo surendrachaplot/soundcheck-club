@@ -1,6 +1,6 @@
 # 30 Years of Volks presents: Todd Edwards at Volks
 
-30 Years of Volks presents: Todd Edwards on Fri 13 Nov, Brighton. 1 act on the bill: Todd Edwards. House and Garage. Preview the line-up and save it on soundcheck.
+30 Years of Volks presents: Todd Edwards on Fri 13 Nov, Brighton. 1 artist on the bill: Todd Edwards. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

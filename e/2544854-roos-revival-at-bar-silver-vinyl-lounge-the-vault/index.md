@@ -1,6 +1,6 @@
 # Roos Revival at Bar Silver Vinyl Lounge & The Vault
 
-Roos Revival at Bar Silver Vinyl Lounge & The Vault on Sat 28 Nov, London. 1 act on the bill: DJ-Roo. Techno and House. Preview the line-up and save it on soundcheck.
+Roos Revival at Bar Silver Vinyl Lounge & The Vault on Sat 28 Nov, London. 1 artist on the bill: DJ-Roo. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

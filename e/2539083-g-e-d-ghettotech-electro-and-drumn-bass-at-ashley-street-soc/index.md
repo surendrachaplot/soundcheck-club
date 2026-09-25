@@ -1,6 +1,6 @@
 # G.E.D.: Ghettotech, Electro and DrumN'Bass at Ashley Street Social
 
-G.E.D.: Ghettotech, Electro and DrumN'Bass at Ashley Street Social on Fri 25 Sept, Detroit. 1 act on the bill: Evan Oswald. Preview the line-up and save it on soundcheck.
+G.E.D.: Ghettotech, Electro and DrumN'Bass at Ashley Street Social on Fri 25 Sept, Detroit. 1 artist on the bill: Evan Oswald. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Fuse presents: Primal Instinct at Fuse
 
-Fuse presents: Primal Instinct on Sat 3 Oct, Brussels. 8 acts on the bill: Chlär, CRYME, DC Salas and Jennifer Loveless and 4 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Fuse presents: Primal Instinct on Sat 3 Oct, Brussels. 8 artists on the bill: Chlär, CRYME, DC Salas and Jennifer Loveless and 4 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

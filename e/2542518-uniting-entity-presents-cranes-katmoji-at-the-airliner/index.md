@@ -1,6 +1,6 @@
 # Uniting Entity presents: cranes + katmoji at The Airliner
 
-Uniting Entity presents: cranes + katmoji at The Airliner on Sun 11 Oct, Losangeles. Hip-Hop and IDM. Preview the line-up and save it on soundcheck.
+Uniting Entity presents: cranes + katmoji at The Airliner on Sun 11 Oct, Los Angeles. Hip-Hop and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

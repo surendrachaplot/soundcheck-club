@@ -1,6 +1,6 @@
 # Afrofuturist Dance Party at TBA - 4622 S King Dr.
 
-Afrofuturist Dance Party at TBA - 4622 S King Dr. on Fri 2 Oct, Chicago. 2 acts on the bill: CTRLZORA and Duane Powell. House and Afro House. Preview the line-up and save it on soundcheck.
+Afrofuturist Dance Party at TBA - 4622 S King Dr. on Fri 2 Oct, Chicago. 2 artists on the bill: CTRLZORA and Duane Powell. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

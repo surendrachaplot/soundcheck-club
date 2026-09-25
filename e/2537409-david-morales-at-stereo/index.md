@@ -1,6 +1,6 @@
 # David Morales at Stereo
 
-David Morales at Stereo on Sat 28 Nov, Montreal. 1 act on the bill: David Morales. Preview the line-up and save it on soundcheck.
+David Morales at Stereo on Sat 28 Nov, Montreal. 1 artist on the bill: David Morales. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

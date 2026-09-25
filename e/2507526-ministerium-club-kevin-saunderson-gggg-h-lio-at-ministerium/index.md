@@ -1,6 +1,6 @@
 # Ministerium Club // Kevin Saunderson, GGGG & Hélio at Ministerium Club
 
-Ministerium Club // Kevin Saunderson, GGGG & Hélio on Fri 25 Sept, Lisbon. 3 acts on the bill: GGGG, Helio and Kevin Saunderson. Techno and House. Preview the line-up and save it on soundcheck.
+Ministerium Club // Kevin Saunderson, GGGG & Hélio on Fri 25 Sept, Lisbon. 3 artists on the bill: GGGG, Helio and Kevin Saunderson. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

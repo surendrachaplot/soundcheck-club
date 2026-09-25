@@ -2,7 +2,7 @@
 
 Raphaël Top-Secret is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Plantation, Paris on Sat, 10 Oct 2026.
 
-Raphaël Top-Secret is a house and balearic artist based in France, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 12 more. Often billed alongside Pitaya Soundsystem, Adriana (1) and Alex From Tokyo. Next up: Plantation, Paris on Sat 10 Oct.
+Raphaël Top-Secret is a house and balearic artist based in France, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 12 more. Often billed alongside Pitaya Soundsystem, Adriana and Alex From Tokyo. Next up: Plantation, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 

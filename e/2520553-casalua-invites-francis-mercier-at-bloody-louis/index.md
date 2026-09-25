@@ -1,6 +1,6 @@
 # CASALUA INVITES Francis Mercier at Bloody Louis
 
-CASALUA INVITES Francis Mercier at Bloody Louis on Fri 25 Sept, Brussels. 1 act on the bill: Francis Mercier. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+CASALUA INVITES Francis Mercier at Bloody Louis on Fri 25 Sept, Brussels. 1 artist on the bill: Francis Mercier. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Double Espressoul at Ora at TBA
 
-Double Espressoul at Ora at TBA on Fri 16 Oct, London. 2 acts on the bill: Charlie Price and Nicola Mannini. House and Jazz. Preview the line-up and save it on soundcheck.
+Double Espressoul at Ora at TBA on Fri 16 Oct, London. 2 artists on the bill: Charlie Price and Nicola Mannini. House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DJ EZ at NX Newcastle
 
-DJ EZ at NX Newcastle on Fri 2 Oct, Newcastle. 4 acts on the bill: Arthi, Diffrent, DJ EZ and Fonzo (UK). Preview the line-up and save it on soundcheck.
+DJ EZ at NX Newcastle on Fri 2 Oct, Newcastle. 4 artists on the bill: Arthi, Diffrent, DJ EZ and Fonzo (UK). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

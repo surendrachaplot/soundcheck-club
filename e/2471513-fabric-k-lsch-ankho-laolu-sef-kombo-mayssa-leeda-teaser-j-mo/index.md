@@ -1,6 +1,6 @@
 # fabric: Kölsch, Ankhoï, Laolu, Sef Kombo, Mayssa, Leeda, Teaser, Jïmono B2B The Almanac at fabric
 
-fabric: Kölsch, Ankhoï, Laolu, Sef Kombo, Mayssa, Leeda, Teaser, Jïmono B2B The Almanac on Fri 25 Sept, London. 8 acts on the bill: Ankhoï, JÏMONO, Kolsch and Laolu and 4 more. Preview the line-up and save it on soundcheck.
+fabric: Kölsch, Ankhoï, Laolu, Sef Kombo, Mayssa, Leeda, Teaser, Jïmono B2B The Almanac on Fri 25 Sept, London. 8 artists on the bill: Ankhoï, JÏMONO, Kolsch and Laolu and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

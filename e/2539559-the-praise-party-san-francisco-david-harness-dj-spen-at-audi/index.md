@@ -1,6 +1,6 @@
 # The Praise Party San Francisco: David Harness & DJ Spen at Audio SF
 
-The Praise Party San Francisco: David Harness & DJ Spen at Audio SF on Sun 18 Oct, Sanfrancisco. 2 acts on the bill: David Harness and DJ Spen. Deep House and Disco. Preview the line-up and save it on soundcheck.
+The Praise Party San Francisco: David Harness & DJ Spen at Audio SF on Sun 18 Oct, San Francisco/Oakland. 2 artists on the bill: David Harness and DJ Spen. Deep House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bobare Wednesday: Konnin / LeMichael at Switch Bar
 
-Bobare Wednesday: Konnin / LeMichael at Switch Bar on Wed 2 Dec, Barcelona. 2 acts on the bill: Konnin and LeMichael. Deep House and Electronica. Preview the line-up and save it on soundcheck.
+Bobare Wednesday: Konnin / LeMichael at Switch Bar on Wed 2 Dec, Barcelona. 2 artists on the bill: Konnin and LeMichael. Deep House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

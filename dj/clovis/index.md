@@ -1,14 +1,15 @@
 # Clovis
 
-Clovis is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+Clovis is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Clovis is a house and minimal artist based in Germany, tracked on soundcheck, with 94 sets logged across All, Amsterdam, Barcelona and Berlin and 15 more. Often billed alongside Cesar Merveille, Topper and Inner. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+Clovis is a house and minimal artist based in Germany, tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Berlin and Boston and 15 more. Often billed alongside Cesar Merveille, Topper and Inner. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
+| Sat, 10 Oct 2026 | Haus der Visionäre | Berlin |
 
 ## Recently played
 

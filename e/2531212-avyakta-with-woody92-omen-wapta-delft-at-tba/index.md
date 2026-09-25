@@ -1,6 +1,6 @@
 # Avyakta with Woody92 (Omen Wapta, Delft) at TBA
 
-Avyakta with Woody92 (Omen Wapta, Delft) at TBA on Fri 2 Oct, Hongkong. 8 acts on the bill: ADRIANNA.C, Charlieowo, Chingyi and Faxtory and 4 more. Experimental and IDM. Preview the line-up and save it on soundcheck.
+Avyakta with Woody92 (Omen Wapta, Delft) at TBA on Fri 2 Oct, Hong Kong. 8 artists on the bill: ADRIANNA.C, Charlieowo, Chingyi and Faxtory and 4 more. Experimental and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

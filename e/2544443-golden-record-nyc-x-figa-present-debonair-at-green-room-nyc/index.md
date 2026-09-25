@@ -1,6 +1,6 @@
 # Golden Record NYC x FIGA present DEBONAIR at Green Room NYC
 
-Golden Record NYC x FIGA present DEBONAIR at Green Room NYC on Sat 24 Oct, Newyorkcity. 4 acts on the bill: DEBONAIR, LUNÁTICA, Rocco and Via App. Techno and House. Preview the line-up and save it on soundcheck.
+Golden Record NYC x FIGA present DEBONAIR at Green Room NYC on Sat 24 Oct, New York City. 4 artists on the bill: DEBONAIR, LUNÁTICA, Rocco and Via App. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

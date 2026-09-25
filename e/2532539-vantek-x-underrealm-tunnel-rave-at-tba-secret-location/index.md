@@ -1,6 +1,6 @@
 # VANTEK X UNDERREALM: TUNNEL RAVE at TBA - Secret Location
 
-VANTEK X UNDERREALM: TUNNEL RAVE at TBA - Secret Location on Fri 25 Sept, Vancouver. 4 acts on the bill: C-Star, DK PAU, GEISTFREI and Night Format. Techno. Preview the line-up and save it on soundcheck.
+VANTEK X UNDERREALM: TUNNEL RAVE at TBA - Secret Location on Fri 25 Sept, Vancouver. 4 artists on the bill: C-Star, DK PAU, GEISTFREI and Night Format. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

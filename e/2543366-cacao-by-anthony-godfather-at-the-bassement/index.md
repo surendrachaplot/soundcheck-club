@@ -1,6 +1,6 @@
 # CACAO by ANTHONY GODFATHER at The Bassement
 
-CACAO by ANTHONY GODFATHER at The Bassement on Sat 14 Nov, Madrid. 1 act on the bill: Anthony Godfather (2). Tech House. Preview the line-up and save it on soundcheck.
+CACAO by ANTHONY GODFATHER at The Bassement on Sat 14 Nov, Madrid. 1 artist on the bill: Anthony Godfather. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

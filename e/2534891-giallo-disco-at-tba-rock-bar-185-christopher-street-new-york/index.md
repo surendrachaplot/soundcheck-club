@@ -1,6 +1,6 @@
 # Giallo Disco at TBA - Rock Bar - 185 Christopher Street, New York Ny 10014
 
-Giallo Disco at TBA - Rock Bar - 185 Christopher Street, New York Ny 10014 on Sun 18 Oct, Newyorkcity. 1 act on the bill: Kellen303. EBM and New Wave. Preview the line-up and save it on soundcheck.
+Giallo Disco at TBA - Rock Bar - 185 Christopher Street, New York Ny 10014 on Sun 18 Oct, New York City. 1 artist on the bill: Kellen303. EBM and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

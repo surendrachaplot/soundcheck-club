@@ -1,6 +1,6 @@
 # DJ Seinfeld at Kesselhaus
 
-DJ Seinfeld at Kesselhaus on Fri 2 Oct, Berlin. 1 act on the bill: DJ Seinfeld. Electro. Preview the line-up and save it on soundcheck.
+DJ Seinfeld at Kesselhaus on Fri 2 Oct, Berlin. 1 artist on the bill: DJ Seinfeld. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

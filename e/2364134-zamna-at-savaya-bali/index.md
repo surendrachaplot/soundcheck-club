@@ -1,6 +1,6 @@
 # Zamna at Savaya Bali
 
-Zamna at Savaya Bali on Sat 17 Oct, Bali. 4 acts on the bill: 19:26, Brina Knauss, Innellea and Zamna Soundsystem. Techno. Preview the line-up and save it on soundcheck.
+Zamna at Savaya Bali on Sat 17 Oct, Bali. 4 artists on the bill: 19:26, Brina Knauss, Innellea and Zamna Soundsystem. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

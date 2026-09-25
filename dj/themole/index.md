@@ -2,7 +2,7 @@
 
 The Mole is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ZENNER, Berlin on Fri, 2 Oct 2026.
 
-The Mole is a house and techno artist based in Canada, tracked on soundcheck, with 18 sets logged across Berlin, Mexicocity, Montreal and Vancouver. Often billed alongside Mike Shannon, Sammy Dee and Zip. Next up: ZENNER, Berlin on Fri 2 Oct.
+The Mole is a house and techno artist based in Canada, tracked on soundcheck, with 18 sets logged across Berlin, Mexico City, Montreal and Vancouver. Often billed alongside Mike Shannon, Sammy Dee and Zip. Next up: ZENNER, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 

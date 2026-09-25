@@ -1,6 +1,6 @@
 # Bedouin presents SAGA at Chinois Ibiza
 
-Bedouin presents SAGA at Chinois Ibiza on Sun 27 Sept, Ibiza. 1 act on the bill: Bedouin. House and Afro House. Preview the line-up and save it on soundcheck.
+Bedouin presents SAGA at Chinois Ibiza on Sun 27 Sept, Ibiza. 1 artist on the bill: Bedouin. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

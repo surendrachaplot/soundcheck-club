@@ -1,6 +1,6 @@
 # OPEN HERBE - 14H ROOFTOP PARTY at Plantation
 
-OPEN HERBE - 14H ROOFTOP PARTY at Plantation on Sat 26 Sept, Paris. 3 acts on the bill: Dielli, Longneck and Pontcho. Progressive House and House. Preview the line-up and save it on soundcheck.
+OPEN HERBE - 14H ROOFTOP PARTY at Plantation on Sat 26 Sept, Paris. 3 artists on the bill: Dielli, Longneck and Pontcho. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

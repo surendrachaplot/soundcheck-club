@@ -1,6 +1,6 @@
 # Melodic Drift at The Flying Dutchman Café
 
-Melodic Drift at The Flying Dutchman Café on Sat 24 Oct, Amsterdam. 5 acts on the bill: AMYMI MUSICA, Eddy Tango, JP Lantieri and Pedro Mercado and 1 more. Progressive House. Preview the line-up and save it on soundcheck.
+Melodic Drift at The Flying Dutchman Café on Sat 24 Oct, Amsterdam. 5 artists on the bill: AMYMI MUSICA, Eddy Tango, JP Lantieri and Pedro Mercado and 1 more. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

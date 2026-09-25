@@ -1,6 +1,6 @@
 # CRUSH: TREKKIE TRAX W Nakamura Minami SEATTLE at TBA - 313 FIRST AVE S in Pioneer Square
 
-CRUSH: TREKKIE TRAX W Nakamura Minami SEATTLE at TBA - 313 FIRST AVE S in Pioneer Square on Sat 3 Oct, Seattle. 4 acts on the bill: ACHAMA, Draz (2), Nakamura Minami and noRecall. Bass and Club. Preview the line-up and save it on soundcheck.
+CRUSH: TREKKIE TRAX W Nakamura Minami SEATTLE at TBA - 313 FIRST AVE S in Pioneer Square on Sat 3 Oct, Seattle. 4 artists on the bill: ACHAMA, Draz, Nakamura Minami and noRecall. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

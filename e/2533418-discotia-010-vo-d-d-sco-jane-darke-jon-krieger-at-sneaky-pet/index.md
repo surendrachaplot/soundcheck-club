@@ -1,6 +1,6 @@
 # discotia 010: VO!D D!SCO (Jane Darke & JON KRIEGER) at Sneaky Pete's
 
-discotia 010: VO!D D!SCO (Jane Darke & JON KRIEGER) at Sneaky Pete's on Fri 16 Oct, Edinburgh. 3 acts on the bill: discotia, Jane Darke and JON KRIEGER. EBM and Italo Disco. Preview the line-up and save it on soundcheck.
+discotia 010: VO!D D!SCO (Jane Darke & JON KRIEGER) at Sneaky Pete's on Fri 16 Oct, Edinburgh. 3 artists on the bill: discotia, Jane Darke and JON KRIEGER. EBM and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

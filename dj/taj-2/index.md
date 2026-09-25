@@ -2,7 +2,7 @@
 
 TAJ (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at EQ San Diego, San Diego on Fri, 25 Sept 2026.
 
-TAJ (2) is a techno and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Losangeles and Sandiego. Often billed alongside Adrian Reyes, 1morning and Kosmik. Next up: EQ San Diego, Sandiego on Fri 25 Sept.
+TAJ is a techno and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Los Angeles and San Diego. Often billed alongside Adrian Reyes, 1morning and Kosmik. Next up: EQ San Diego, San Diego on Fri 25 Sept.
 
 ## Upcoming shows
 

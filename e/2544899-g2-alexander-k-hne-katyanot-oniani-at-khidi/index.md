@@ -1,6 +1,6 @@
 # G2: Alexander Kúhne, Katyanot, Oniani at KHIDI
 
-G2: Alexander Kúhne, Katyanot, Oniani at KHIDI on Sat 3 Oct, Tbilisi. 2 acts on the bill: Katyanot and Oniani. Preview the line-up and save it on soundcheck.
+G2: Alexander Kúhne, Katyanot, Oniani at KHIDI on Sat 3 Oct, Tbilisi. 2 artists on the bill: Katyanot and Oniani. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

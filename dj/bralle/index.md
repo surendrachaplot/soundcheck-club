@@ -2,7 +2,7 @@
 
 BRALLE is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at KHIDI, Tbilisi on Fri, 2 Oct 2026.
 
-BRALLE is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Buenosaires and Denver and 8 more. Often billed alongside Annie Lew, Lindsey Herbert and A.M.D.. Next up: KHIDI, Tbilisi on Fri 2 Oct.
+BRALLE is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Buenos Aires and Denver and 8 more. Often billed alongside Annie Lew, Lindsey Herbert and A.M.D.. Next up: KHIDI, Tbilisi on Fri 2 Oct.
 
 ## Upcoming shows
 

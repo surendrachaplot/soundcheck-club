@@ -1,6 +1,6 @@
 # Skream - Open to Close Tour at Lincoln Factory
 
-Skream - Open to Close Tour at Lincoln Factory on Sat 7 Nov, Detroit. 1 act on the bill: Skream. Techno and House. Preview the line-up and save it on soundcheck.
+Skream - Open to Close Tour at Lincoln Factory on Sat 7 Nov, Detroit. 1 artist on the bill: Skream. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

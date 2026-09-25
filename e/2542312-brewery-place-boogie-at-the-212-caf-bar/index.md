@@ -1,6 +1,6 @@
 # BREWERY PLACE BOOGIE at The 212 Café & Bar
 
-BREWERY PLACE BOOGIE at The 212 Café & Bar on Fri 25 Sept, Leeds. 1 act on the bill: Fontrodona. Disco and Electronica. Preview the line-up and save it on soundcheck.
+BREWERY PLACE BOOGIE at The 212 Café & Bar on Fri 25 Sept, Leeds. 1 artist on the bill: Fontrodona. Disco and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

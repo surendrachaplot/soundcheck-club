@@ -2,7 +2,7 @@
 
 John Bryars is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-John Bryars is a techno and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Losangeles, Newyorkcity, Sandiego and Sanfrancisco. Often billed alongside Annika Wolfe, Corey Sizemore and Etari. Next up: The San Francisco Mint, Sanfrancisco on Fri 25 Sept.
+John Bryars is a techno and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Los Angeles, New York City, San Diego and San Francisco/Oakland. Often billed alongside Annika Wolfe, Corey Sizemore and Etari. Next up: The San Francisco Mint, San Francisco/Oakland on Fri 25 Sept.
 
 ## Upcoming shows
 

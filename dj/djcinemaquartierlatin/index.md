@@ -2,7 +2,7 @@
 
 DJ Cinéma Quartier Latin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Le Ritz PDB, Montreal on Sat, 3 Oct 2026.
 
-DJ Cinéma Quartier Latin is a house and techno artist based in Canada, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 12 more. Often billed alongside dj poolboi, Shaolin Cowboy and sunflwr. Next up: Bar Le Ritz PDB, Montreal on Sat 3 Oct.
+DJ Cinéma Quartier Latin is a house and techno artist based in Canada, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Brussels and Buenos Aires and 12 more. Often billed alongside dj poolboi, Shaolin Cowboy and sunflwr. Next up: Bar Le Ritz PDB, Montreal on Sat 3 Oct.
 
 ## Upcoming shows
 

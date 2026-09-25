@@ -2,7 +2,7 @@
 
 The Fellas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ARTSPACE, New York City on Sat, 26 Sept 2026.
 
-The Fellas is a house and tech house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside Ben Sterling, Dennis Cruz and Hot Since 82. Next up: ARTSPACE, Newyorkcity on Sat 26 Sept.
+The Fellas is a house and tech house artist based in United States of America, tracked on soundcheck, with 17 sets logged across New York City. Often billed alongside Ben Sterling, Dennis Cruz and Hot Since 82. Next up: ARTSPACE, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

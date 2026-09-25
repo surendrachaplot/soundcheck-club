@@ -1,6 +1,6 @@
 # Move Your Body at Macarena Club
 
-Move Your Body at Macarena Club on Sun 11 Oct, Barcelona. 2 acts on the bill: Villaça and Wilowm. Preview the line-up and save it on soundcheck.
+Move Your Body at Macarena Club on Sun 11 Oct, Barcelona. 2 artists on the bill: Villaça and Wilowm. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

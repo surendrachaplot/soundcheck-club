@@ -2,7 +2,7 @@
 
 VIVØ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Smolna, Warsaw on Thu, 1 Oct 2026.
 
-VIVØ is a techno and house artist based in Poland, tracked on soundcheck, with 14 sets logged across Krakow, London, Madrid and Warsaw. Often billed alongside Claude Degas, WRK (PL) and vitcat (3). Next up: Smolna, Warsaw on Thu 1 Oct.
+VIVØ is a techno and house artist based in Poland, tracked on soundcheck, with 14 sets logged across Krakow, London, Madrid and Warsaw. Often billed alongside Claude Degas, WRK (PL) and vitcat. Next up: Smolna, Warsaw on Thu 1 Oct.
 
 ## Upcoming shows
 

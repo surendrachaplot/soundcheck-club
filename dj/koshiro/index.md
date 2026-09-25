@@ -2,7 +2,7 @@
 
 KOSHIRO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Saloon, Tokyo on Fri, 25 Sept 2026.
 
-KOSHIRO is a techno and trance artist based in Japan, tracked on soundcheck, with 51 sets logged across Osaka and Tokyo. Often billed alongside YANNY (1), Lynta and AI (10). Next up: Saloon, Tokyo on Fri 25 Sept.
+KOSHIRO is a techno and trance artist based in Japan, tracked on soundcheck, with 51 sets logged across Osaka and Tokyo. Often billed alongside YANNY, Lynta and AI. Next up: Saloon, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 

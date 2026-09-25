@@ -1,6 +1,6 @@
 # Kilig - All Night Long at The Carpet Shop
 
-Kilig - All Night Long at The Carpet Shop on Fri 23 Oct, London. 1 act on the bill: Kilig (UK). House and Electro. Preview the line-up and save it on soundcheck.
+Kilig - All Night Long at The Carpet Shop on Fri 23 Oct, London. 1 artist on the bill: Kilig (UK). House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

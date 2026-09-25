@@ -1,6 +1,6 @@
 # Tree Of Amarna - Chapter II: Mira (Berlin) at La Nuit
 
-Tree Of Amarna - Chapter II: Mira (Berlin) at La Nuit on Sat 17 Oct, Paris. 3 acts on the bill: AxMod, Mira and Winson. Deep House and Club. Preview the line-up and save it on soundcheck.
+Tree Of Amarna - Chapter II: Mira (Berlin) at La Nuit on Sat 17 Oct, Paris. 3 artists on the bill: AxMod, Mira and Winson. Deep House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

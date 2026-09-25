@@ -1,6 +1,6 @@
 # Elektrisch mit Tommahawk at Die Rakete
 
-Elektrisch mit Tommahawk at Die Rakete on Sat 26 Sept, Nurnberg. 3 acts on the bill: Bernhard Groeger, MILAN MILANO and Tommahawk. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Elektrisch mit Tommahawk at Die Rakete on Sat 26 Sept, Nürnberg. 3 artists on the bill: Bernhard Groeger, MILAN MILANO and Tommahawk. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

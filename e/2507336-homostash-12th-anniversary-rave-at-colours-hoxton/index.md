@@ -1,6 +1,6 @@
 # HOMOSTASH 12TH ANNIVERSARY RAVE at Colours Hoxton
 
-HOMOSTASH 12TH ANNIVERSARY RAVE at Colours Hoxton on Sat 26 Sept, London. 3 acts on the bill: CatMint, Tafkanik and teleopath. Techno and Disco. Preview the line-up and save it on soundcheck.
+HOMOSTASH 12TH ANNIVERSARY RAVE at Colours Hoxton on Sat 26 Sept, London. 3 artists on the bill: CatMint, Tafkanik and teleopath. Techno and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

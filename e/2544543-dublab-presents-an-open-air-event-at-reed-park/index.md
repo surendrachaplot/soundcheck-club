@@ -1,6 +1,6 @@
 # DUBLAB Presents An Open Air Event at Reed Park
 
-DUBLAB Presents An Open Air Event at Reed Park on Fri 25 Sept, Losangeles. 2 acts on the bill: ANTHNY GBRIEL and Spiñorita. Preview the line-up and save it on soundcheck.
+DUBLAB Presents An Open Air Event at Reed Park on Fri 25 Sept, Los Angeles. 2 artists on the bill: ANTHNY GBRIEL and Spiñorita. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

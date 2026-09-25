@@ -1,6 +1,6 @@
 # District # 036 - DJ Jus-Ed at TBA - District youtube channel
 
-District # 036 - DJ Jus-Ed at TBA - District youtube channel on Sat 26 Sept, Cologne. 1 act on the bill: Jus-Ed. Techno and House. Preview the line-up and save it on soundcheck.
+District # 036 - DJ Jus-Ed at TBA - District youtube channel on Sat 26 Sept, Cologne. 1 artist on the bill: Jus-Ed. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

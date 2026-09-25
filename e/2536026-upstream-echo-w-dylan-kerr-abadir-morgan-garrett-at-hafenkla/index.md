@@ -1,6 +1,6 @@
 # Upstream: ECHO w Dylan Kerr, ABADIR, Morgan Garrett at Hafenklang
 
-Upstream: ECHO w Dylan Kerr, ABADIR, Morgan Garrett at Hafenklang on Thu 1 Oct, Hamburg. 2 acts on the bill: ABADIR and Dylan Kerr. Experimental and Noise. Preview the line-up and save it on soundcheck.
+Upstream: ECHO w Dylan Kerr, ABADIR, Morgan Garrett at Hafenklang on Thu 1 Oct, Hamburg. 2 artists on the bill: ABADIR and Dylan Kerr. Experimental and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

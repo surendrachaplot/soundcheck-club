@@ -1,6 +1,6 @@
 # Nood Ranch 2026 at TBA - Kramer Junction, CA
 
-Nood Ranch 2026 at TBA - Kramer Junction, CA on Thu 15 Oct, Losangeles. 5 acts on the bill: agraybé, AMANTE, SARITA LINDA and Shredy and 1 more. Preview the line-up and save it on soundcheck.
+Nood Ranch 2026 at TBA - Kramer Junction, CA on Thu 15 Oct, Los Angeles. 5 artists on the bill: agraybé, AMANTE, SARITA LINDA and Shredy and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

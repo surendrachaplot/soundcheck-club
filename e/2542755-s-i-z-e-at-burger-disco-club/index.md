@@ -1,6 +1,6 @@
 # S.I.Z.E at Burger Disco Club
 
-S.I.Z.E at Burger Disco Club on Fri 2 Oct, Athens. 2 acts on the bill: ClubKid and Roi Perez. Preview the line-up and save it on soundcheck.
+S.I.Z.E at Burger Disco Club on Fri 2 Oct, Athens. 2 artists on the bill: ClubKid and Roi Perez. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

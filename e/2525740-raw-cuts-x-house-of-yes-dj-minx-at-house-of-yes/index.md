@@ -1,6 +1,6 @@
 # RAW CUTS X House of Yes: DJ Minx at House of Yes
 
-RAW CUTS X House of Yes: DJ Minx on Sat 3 Oct, Newyorkcity. 7 acts on the bill: Bella Mutino, Bridge (NY), DJ Minx and EREZ.JPG and 3 more. House and Deep House. Preview the line-up and save it on soundcheck.
+RAW CUTS X House of Yes: DJ Minx on Sat 3 Oct, New York City. 7 artists on the bill: Bella Mutino, Bridge (NY), DJ Minx and EREZ.JPG and 3 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

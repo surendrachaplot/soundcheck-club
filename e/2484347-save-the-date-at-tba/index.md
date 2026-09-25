@@ -1,6 +1,6 @@
 # Save The Date at TBA
 
-Save The Date at TBA on Fri 25 Sept, Berlin. 1 act on the bill: Liad Krispin. Preview the line-up and save it on soundcheck.
+Save The Date at TBA on Fri 25 Sept, Berlin. 1 artist on the bill: Liad Krispin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

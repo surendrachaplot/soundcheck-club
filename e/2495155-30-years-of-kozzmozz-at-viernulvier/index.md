@@ -1,6 +1,6 @@
 # 30 Years of Kozzmozz at VIERNULVIER
 
-30 Years of Kozzmozz at VIERNULVIER on Sat 17 Oct, Ghent. 3 acts on the bill: Len Faki, Spacid and Speedy J. Preview the line-up and save it on soundcheck.
+30 Years of Kozzmozz at VIERNULVIER on Sat 17 Oct, Ghent. 3 artists on the bill: Len Faki, Spacid and Speedy J. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

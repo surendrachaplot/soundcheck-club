@@ -1,6 +1,6 @@
 # KLUBB: CAIM (NL) + ANDERS HAJEM at Gehør
 
-KLUBB: CAIM (NL) + ANDERS HAJEM at Gehør on Fri 25 Sept, Oslo. 2 acts on the bill: Anders Hajem and Caim. Preview the line-up and save it on soundcheck.
+KLUBB: CAIM (NL) + ANDERS HAJEM at Gehør on Fri 25 Sept, Oslo. 2 artists on the bill: Anders Hajem and Caim. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

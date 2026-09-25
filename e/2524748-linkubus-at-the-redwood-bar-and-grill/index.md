@@ -1,6 +1,6 @@
 # LINKUBUS at The Redwood Bar And Grill
 
-LINKUBUS at The Redwood Bar And Grill on Thu 22 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+LINKUBUS at The Redwood Bar And Grill on Thu 22 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

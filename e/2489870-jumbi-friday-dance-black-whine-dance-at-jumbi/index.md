@@ -1,6 +1,6 @@
 # Jumbi Friday Dance: Black Whine Dance at Jumbi
 
-Jumbi Friday Dance: Black Whine Dance on Fri 25 Sept, London. 3 acts on the bill: blissy e, Mr. Redley and Selassie TBC. Preview the line-up and save it on soundcheck.
+Jumbi Friday Dance: Black Whine Dance on Fri 25 Sept, London. 3 artists on the bill: blissy e, Mr. Redley and Selassie TBC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

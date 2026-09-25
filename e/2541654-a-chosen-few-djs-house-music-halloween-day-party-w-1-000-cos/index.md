@@ -1,6 +1,6 @@
 # A Chosen Few DJs House Music Halloween Day Party w $1,000 Costume Contests at Le Nocturne
 
-A Chosen Few DJs House Music Halloween Day Party w $1,000 Costume Contests at Le Nocturne on Sat 31 Oct, Chicago. 3 acts on the bill: Duke Shin, Gene Hunt and Terry Hunter. House and Deep House. Preview the line-up and save it on soundcheck.
+A Chosen Few DJs House Music Halloween Day Party w $1,000 Costume Contests at Le Nocturne on Sat 31 Oct, Chicago. 3 artists on the bill: Duke Shin, Gene Hunt and Terry Hunter. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

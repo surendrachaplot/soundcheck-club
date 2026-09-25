@@ -2,7 +2,7 @@
 
 Visible Cloaks is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nowa Miodowa, Warsaw on Sun, 4 Oct 2026.
 
-Visible Cloaks is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 11 sets logged across London, Mexicocity, Newyorkcity and Osaka and 5 more. Often billed alongside Yoshio Ojima, DJ Healthy and Aqua Mute. Next up: Nowa Miodowa, Warsaw on Sun 4 Oct.
+Visible Cloaks is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 11 sets logged across London, Mexico City, New York City and Osaka and 5 more. Often billed alongside Yoshio Ojima, DJ Healthy and Aqua Mute. Next up: Nowa Miodowa, Warsaw on Sun 4 Oct.
 
 ## Upcoming shows
 

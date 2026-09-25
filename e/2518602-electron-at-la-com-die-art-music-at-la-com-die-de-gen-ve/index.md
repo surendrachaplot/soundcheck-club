@@ -1,6 +1,6 @@
 # Electron at LA COMÉDIE: ART & MUSIC at La Comédie De Genève
 
-Electron at LA COMÉDIE: ART & MUSIC at La Comédie De Genève on Sat 17 Oct, Geneva. 3 acts on the bill: Chlär, Dasha Rush and DJ SUN (CH/DE). Electro. Preview the line-up and save it on soundcheck.
+Electron at LA COMÉDIE: ART & MUSIC at La Comédie De Genève on Sat 17 Oct, Geneva. 3 artists on the bill: Chlär, Dasha Rush and DJ SUN (CH/DE). Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 SAM Futura. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 宀 Club, Hong Kong on Sat, 7 Nov 2026.
 
-SAM Futura. is a house and techno artist based in France, tracked on soundcheck, with 19 sets logged across Berlin, Hongkong and Shenzhen. Often billed alongside Sunsiaré, JFÜNG and Xiaolin. Next up: 宀 Club, Hongkong on Sat 7 Nov.
+SAM Futura. is a house and techno artist based in France, tracked on soundcheck, with 19 sets logged across Berlin, Hong Kong and Shenzhen. Often billed alongside Sunsiaré, JFÜNG and Xiaolin. Next up: 宀 Club, Hong Kong on Sat 7 Nov.
 
 ## Upcoming shows
 

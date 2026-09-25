@@ -2,7 +2,7 @@
 
 Zoot is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Somewhere in the Mountains., Bali on Fri, 25 Sept 2026.
 
-Zoot is a tech house and minimal techno artist based in Indonesia, tracked on soundcheck, with 20 sets logged across Bali. Often billed alongside Latex (1), Adam Dado and Bagvs. Next up: Somewhere in the Mountains., Bali on Fri 25 Sept.
+Zoot is a tech house and minimal techno artist based in Indonesia, tracked on soundcheck, with 20 sets logged across Bali. Often billed alongside Latex, Adam Dado and Bagvs. Next up: Somewhere in the Mountains., Bali on Fri 25 Sept.
 
 ## Upcoming shows
 

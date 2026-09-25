@@ -1,6 +1,6 @@
 # Locke invites with Fokko, sol here, svitanok, Matt You and Disco Kiosco at Locke
 
-Locke invites with Fokko, sol here, svitanok, Matt You and Disco Kiosco on Sat 26 Sept, Hamburg. 1 act on the bill: Fokko. Preview the line-up and save it on soundcheck.
+Locke invites with Fokko, sol here, svitanok, Matt You and Disco Kiosco on Sat 26 Sept, Hamburg. 1 artist on the bill: Fokko. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

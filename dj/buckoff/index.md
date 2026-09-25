@@ -2,7 +2,7 @@
 
 BUCK/OFF is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 3 Oct 2026.
 
-BUCK/OFF is a tech house and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Losangeles. Often billed alongside Nic Jericho, Flabbergast (LA) and masato. Next up: TBA - DTLA, Losangeles on Sat 3 Oct.
+BUCK/OFF is a tech house and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Los Angeles. Often billed alongside Nic Jericho, Flabbergast (LA) and masato. Next up: TBA - DTLA, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 

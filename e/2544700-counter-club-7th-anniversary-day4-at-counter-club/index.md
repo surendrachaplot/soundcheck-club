@@ -1,6 +1,6 @@
 # COUNTER CLUB 7TH ANNIVERSARY DAY4 at COUNTER CLUB
 
-COUNTER CLUB 7TH ANNIVERSARY DAY4 on Sat 10 Oct, Tokyo. 1 act on the bill: DJ Boogie Blind. Preview the line-up and save it on soundcheck.
+COUNTER CLUB 7TH ANNIVERSARY DAY4 on Sat 10 Oct, Tokyo. 1 artist on the bill: DJ Boogie Blind. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

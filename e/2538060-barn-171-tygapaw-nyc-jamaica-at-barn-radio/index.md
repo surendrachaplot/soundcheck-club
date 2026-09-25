@@ -1,6 +1,6 @@
 # barn: 171. TYGAPAW (NYC / Jamaica) at Barn Radio
 
-barn: 171. TYGAPAW (NYC / Jamaica) at Barn Radio on Sat 26 Sept, Portland. 1 act on the bill: TYGAPAW. Techno and Club. Preview the line-up and save it on soundcheck.
+barn: 171. TYGAPAW (NYC / Jamaica) at Barn Radio on Sat 26 Sept, Portland. 1 artist on the bill: TYGAPAW. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

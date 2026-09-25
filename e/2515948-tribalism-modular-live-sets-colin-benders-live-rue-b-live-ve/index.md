@@ -1,6 +1,6 @@
 # tribalism modular live sets - Colin Benders Live, Rue B Live, Vera Grace Live at essaim
 
-tribalism modular live sets - Colin Benders Live, Rue B Live, Vera Grace Live at essaim on Fri 16 Oct, Paris. 2 acts on the bill: Colin Benders and Vera Grace. Techno. Preview the line-up and save it on soundcheck.
+tribalism modular live sets - Colin Benders Live, Rue B Live, Vera Grace Live at essaim on Fri 16 Oct, Paris. 2 artists on the bill: Colin Benders and Vera Grace. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

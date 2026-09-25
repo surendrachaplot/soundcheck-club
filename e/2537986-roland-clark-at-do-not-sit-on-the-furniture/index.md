@@ -1,6 +1,6 @@
 # Roland Clark at Do Not Sit On The Furniture
 
-Roland Clark at Do Not Sit On The Furniture on Wed 30 Sept, Miami. 3 acts on the bill: Jessy Nimni, Louie Dager and Roland Clark. House and Deep House. Preview the line-up and save it on soundcheck.
+Roland Clark at Do Not Sit On The Furniture on Wed 30 Sept, Miami. 3 artists on the bill: Jessy Nimni, Louie Dager and Roland Clark. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

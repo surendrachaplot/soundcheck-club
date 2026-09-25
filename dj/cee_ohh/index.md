@@ -2,7 +2,7 @@
 
 cee_ohh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ://about blank, Berlin on Fri, 2 Oct 2026.
 
-cee_ohh is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Sanfrancisco. Often billed alongside Lisatrix, Pilar Jordan and Dela Nesto. Next up: ://about blank, Berlin on Fri 2 Oct.
+cee_ohh is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and San Francisco/Oakland. Often billed alongside Lisatrix, Pilar Jordan and Dela Nesto. Next up: ://about blank, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 

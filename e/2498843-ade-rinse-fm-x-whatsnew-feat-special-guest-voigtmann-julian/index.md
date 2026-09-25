@@ -1,6 +1,6 @@
 # ADE: Rinse FM x WHATSNEW feat. Special Guest, Voigtmann, Julian Anthony + more at KIT Royal Tropical Institute
 
-ADE: Rinse FM x WHATSNEW feat. Special Guest, Voigtmann, Julian Anthony + more at KIT Royal Tropical Institute on Sat 24 Oct, Amsterdam. 4 acts on the bill: A For Alpha, Ive Lovers, Julian Anthony (US) and Voigtmann. House and Tech House. Preview the line-up and save it on soundcheck.
+ADE: Rinse FM x WHATSNEW feat. Special Guest, Voigtmann, Julian Anthony + more at KIT Royal Tropical Institute on Sat 24 Oct, Amsterdam. 4 artists on the bill: A For Alpha, Ive Lovers, Julian Anthony (US) and Voigtmann. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cadera con Silverlining, vaLium y Tamarindo at Core
 
-Cadera con Silverlining, vaLium y Tamarindo at Core on Fri 25 Sept, Madrid. 3 acts on the bill: Silverlining, Tamarindo and Valium. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Cadera con Silverlining, vaLium y Tamarindo at Core on Fri 25 Sept, Madrid. 3 artists on the bill: Silverlining, Tamarindo and Valium. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

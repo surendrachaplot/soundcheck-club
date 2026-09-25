@@ -2,7 +2,7 @@
 
 Chantal Michelle is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
 
-Chantal Michelle is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 17 sets logged across Berlin, Glasgow, London and Mexicocity and 2 more. Often billed alongside Alliyah Enyo, William Basinski and Abby Echiverri. Next up: public records, Newyorkcity on Mon 9 Nov.
+Chantal Michelle is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 17 sets logged across Berlin, Glasgow, London and Mexico City and 2 more. Often billed alongside Alliyah Enyo, William Basinski and Abby Echiverri. Next up: public records, New York City on Mon 9 Nov.
 
 ## Upcoming shows
 

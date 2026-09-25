@@ -1,6 +1,6 @@
 # Mint XL presents ALISHA + more at Mint XL
 
-Mint XL presents ALISHA + more on Sat 7 Nov, Leeds. 7 acts on the bill: ALISHA, Danny Snowden, DXNBY and Jaeko and 3 more. House. Preview the line-up and save it on soundcheck.
+Mint XL presents ALISHA + more on Sat 7 Nov, Leeds. 7 artists on the bill: ALISHA, Danny Snowden, DXNBY and Jaeko and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

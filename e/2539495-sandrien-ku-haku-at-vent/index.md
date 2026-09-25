@@ -1,6 +1,6 @@
 # Sandrien / ku-haku at VENT
 
-Sandrien / ku-haku at VENT on Sat 7 Nov, Tokyo. 1 act on the bill: Sandrien. Techno. Preview the line-up and save it on soundcheck.
+Sandrien / ku-haku at VENT on Sat 7 Nov, Tokyo. 1 artist on the bill: Sandrien. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

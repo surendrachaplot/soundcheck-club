@@ -1,6 +1,6 @@
 # Soul Mass Transit System presents: Grand Soul Central All Night Long - Glasgow [5 HOUR SET] at La Cheetah Club
 
-Soul Mass Transit System presents: Grand Soul Central All Night Long - Glasgow [5 HOUR SET] at La Cheetah Club on Fri 13 Nov, Glasgow. 1 act on the bill: Soul Mass Transit System. Garage. Preview the line-up and save it on soundcheck.
+Soul Mass Transit System presents: Grand Soul Central All Night Long - Glasgow [5 HOUR SET] at La Cheetah Club on Fri 13 Nov, Glasgow. 1 artist on the bill: Soul Mass Transit System. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

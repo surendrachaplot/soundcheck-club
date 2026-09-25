@@ -1,6 +1,6 @@
 # Music Saves The Day: A daytime boogie with Ays at Usquare
 
-Music Saves The Day: A daytime boogie with Ays at Usquare on Sat 17 Oct, Brussels. 2 acts on the bill: Ays (NL) and Cröak. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Music Saves The Day: A daytime boogie with Ays at Usquare on Sat 17 Oct, Brussels. 2 artists on the bill: Ays (NL) and Cröak. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

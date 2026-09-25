@@ -2,7 +2,7 @@
 
 River (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at DRUMSHEDS, London on Sat, 14 Nov 2026.
 
-River (1) is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Amsterdam, London, Paris and Rotterdam. Often billed alongside Fabrice Dayan, Saverio Dima and Amber Broos. Next up: DRUMSHEDS, London on Sat 14 Nov.
+River is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Amsterdam, London, Paris and Rotterdam. Often billed alongside Fabrice Dayan, Saverio Dima and Amber Broos. Next up: DRUMSHEDS, London on Sat 14 Nov.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # SLPFNK X DUNGEON FUNK ADE at Shelter Amsterdam
 
-SLPFNK X DUNGEON FUNK ADE at Shelter Amsterdam on Fri 23 Oct, Amsterdam. 8 acts on the bill: DJ Perception, DJ Tjizza, Dungeon Meat and Garrett David and 4 more. House and Garage. Preview the line-up and save it on soundcheck.
+SLPFNK X DUNGEON FUNK ADE at Shelter Amsterdam on Fri 23 Oct, Amsterdam. 8 artists on the bill: DJ Perception, DJ Tjizza, Dungeon Meat and Garrett David and 4 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

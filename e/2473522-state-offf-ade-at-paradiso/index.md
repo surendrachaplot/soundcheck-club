@@ -1,6 +1,6 @@
 # State OFFF || ADE at Paradiso
 
-State OFFF || ADE at Paradiso on Thu 22 Oct, Amsterdam. 1 act on the bill: State OFFF. Baile Funk and Club. Preview the line-up and save it on soundcheck.
+State OFFF || ADE at Paradiso on Thu 22 Oct, Amsterdam. 1 artist on the bill: State OFFF. Baile Funk and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

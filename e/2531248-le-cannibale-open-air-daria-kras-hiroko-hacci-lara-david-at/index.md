@@ -1,6 +1,6 @@
 # Le Cannibale Open Air - Daria Kras, Hiroko Hacci, Lara David at NAMA - Nuovo Anfiteatro Martesana
 
-Le Cannibale Open Air - Daria Kras, Hiroko Hacci, Lara David at NAMA - Nuovo Anfiteatro Martesana on Sat 26 Sept, Milan. 1 act on the bill: Hiroko Hacci. House and Electro. Preview the line-up and save it on soundcheck.
+Le Cannibale Open Air - Daria Kras, Hiroko Hacci, Lara David at NAMA - Nuovo Anfiteatro Martesana on Sat 26 Sept, Milan. 1 artist on the bill: Hiroko Hacci. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # United Identities x Doka Studio [ADE] at Doka
 
-United Identities x Doka Studio [ADE] on Thu 22 Oct, Amsterdam. 5 acts on the bill: Anz, CARISTA, Conrad Soundsystem and LE KACANG and 1 more. Garage. Preview the line-up and save it on soundcheck.
+United Identities x Doka Studio [ADE] on Thu 22 Oct, Amsterdam. 5 artists on the bill: Anz, CARISTA, Conrad Soundsystem and LE KACANG and 1 more. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

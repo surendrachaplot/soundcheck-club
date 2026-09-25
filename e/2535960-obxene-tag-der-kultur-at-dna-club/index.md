@@ -1,6 +1,6 @@
 # OBXENE TAG DER KULTUR at DNA. CLUB
 
-OBXENE TAG DER KULTUR at DNA. CLUB on Fri 9 Oct, Berlin. 3 acts on the bill: La Rod's, Nothing Left and VNVK. Techno. Preview the line-up and save it on soundcheck.
+OBXENE TAG DER KULTUR at DNA. CLUB on Fri 9 Oct, Berlin. 3 artists on the bill: La Rod's, Nothing Left and VNVK. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

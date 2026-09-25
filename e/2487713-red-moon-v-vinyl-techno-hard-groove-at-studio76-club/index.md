@@ -1,6 +1,6 @@
 # Red Moon V - Vinyl, Techno & Hard Groove at Studio76 Club
 
-Red Moon V - Vinyl, Techno & Hard Groove at Studio76 Club on Fri 30 Oct, Madrid. 2 acts on the bill: Biorc and MVPDJ. Techno. Preview the line-up and save it on soundcheck.
+Red Moon V - Vinyl, Techno & Hard Groove at Studio76 Club on Fri 30 Oct, Madrid. 2 artists on the bill: Biorc and MVPDJ. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

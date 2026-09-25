@@ -1,6 +1,6 @@
 # Intercell x Oscar Mulero Invites | ADE By Night at Levenslang Amsterdam
 
-Intercell x Oscar Mulero Invites | ADE By Night at Levenslang Amsterdam on Fri 23 Oct, Amsterdam. 6 acts on the bill: Adriana Lopez, Claudio PRC, Isabel Soto and Laura van Hal and 2 more. Preview the line-up and save it on soundcheck.
+Intercell x Oscar Mulero Invites | ADE By Night at Levenslang Amsterdam on Fri 23 Oct, Amsterdam. 6 artists on the bill: Adriana Lopez, Claudio PRC, Isabel Soto and Laura van Hal and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

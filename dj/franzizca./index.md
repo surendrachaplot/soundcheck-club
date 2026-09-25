@@ -2,7 +2,7 @@
 
 Franzizca. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
 
-Franzizca. is a techno and house artist based in Argentina, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 3 more. Often billed alongside Leena, tINI and Bermani. Next up: Club Ciudad de Buenos Aires, Buenosaires on Fri 11 Dec.
+Franzizca. is a techno and house artist based in Argentina, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Buenos Aires and Madrid and 3 more. Often billed alongside Leena, tINI and Bermani. Next up: Club Ciudad de Buenos Aires, Buenos Aires on Fri 11 Dec.
 
 ## Upcoming shows
 

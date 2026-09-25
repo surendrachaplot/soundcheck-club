@@ -1,6 +1,6 @@
 # Awakenings ADE - Joris Voorn presents Trip To Galaxy at Sugarfactory
 
-Awakenings ADE - Joris Voorn presents Trip To Galaxy at Sugarfactory on Sat 24 Oct, Amsterdam. 6 acts on the bill: Beste Hira, BIANKA, Blasha & Allatt and Grace Dahl and 2 more. Preview the line-up and save it on soundcheck.
+Awakenings ADE - Joris Voorn presents Trip To Galaxy at Sugarfactory on Sat 24 Oct, Amsterdam. 6 artists on the bill: Beste Hira, BIANKA, Blasha & Allatt and Grace Dahl and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

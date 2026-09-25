@@ -1,6 +1,6 @@
 # TREBLE RUMBLE presents 'Rumbling DUB Chamber' at Socore Factory
 
-TREBLE RUMBLE presents 'Rumbling DUB Chamber' at Socore Factory on Mon 12 Oct, Osaka. 1 act on the bill: Inga. Dub. Preview the line-up and save it on soundcheck.
+TREBLE RUMBLE presents 'Rumbling DUB Chamber' at Socore Factory on Mon 12 Oct, Osaka. 1 artist on the bill: Inga. Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

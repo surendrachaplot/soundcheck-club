@@ -1,6 +1,6 @@
 # Pablito el Drito vinyl set (guest Ganja Matrix) at THC MILANO
 
-Pablito el Drito vinyl set (guest Ganja Matrix) at THC MILANO on Sun 4 Oct, Milan. 1 act on the bill: Pablito el Drito. House and Electronica. Preview the line-up and save it on soundcheck.
+Pablito el Drito vinyl set (guest Ganja Matrix) at THC MILANO on Sun 4 Oct, Milan. 1 artist on the bill: Pablito el Drito. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

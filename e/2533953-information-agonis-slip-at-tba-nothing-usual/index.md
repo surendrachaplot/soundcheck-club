@@ -1,6 +1,6 @@
 # Information: Agonis + Slip at TBA - NOTHING USUAL
 
-Information: Agonis + Slip at TBA - NOTHING USUAL on Sun 27 Sept, Losangeles. 2 acts on the bill: Agonis and Slip. Trance and Techno. Preview the line-up and save it on soundcheck.
+Information: Agonis + Slip at TBA - NOTHING USUAL on Sun 27 Sept, Los Angeles. 2 artists on the bill: Agonis and Slip. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

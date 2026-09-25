@@ -1,6 +1,6 @@
 # Madam by Night invites: MONARK at Madam
 
-Madam by Night invites: MONARK on Thu 26 Nov, Amsterdam. 2 acts on the bill: Okeam and Velasco. House. Preview the line-up and save it on soundcheck.
+Madam by Night invites: MONARK on Thu 26 Nov, Amsterdam. 2 artists on the bill: Okeam and Velasco. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

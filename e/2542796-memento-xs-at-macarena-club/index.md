@@ -1,6 +1,6 @@
 # Memento Xs at Macarena Club
 
-Memento Xs at Macarena Club on Mon 12 Oct, Barcelona. 2 acts on the bill: Idriss D and P.A.N.C.H.I.T.O. Preview the line-up and save it on soundcheck.
+Memento Xs at Macarena Club on Mon 12 Oct, Barcelona. 2 artists on the bill: Idriss D and P.A.N.C.H.I.T.O. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

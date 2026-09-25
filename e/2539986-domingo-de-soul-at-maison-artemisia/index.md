@@ -1,6 +1,6 @@
 # Domingo De Soul at Maison Artemisia
 
-Domingo De Soul at Maison Artemisia on Sun 27 Sept, Mexicocity. 1 act on the bill: Dj Dizam. Funk / Soul and R&B. Preview the line-up and save it on soundcheck.
+Domingo De Soul at Maison Artemisia on Sun 27 Sept, Mexico City. 1 artist on the bill: Dj Dizam. Funk / Soul and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

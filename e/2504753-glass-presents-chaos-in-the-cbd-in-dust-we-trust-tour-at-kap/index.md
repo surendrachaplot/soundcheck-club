@@ -1,6 +1,6 @@
 # Glass presents Chaos In The CBD In Dust We Trust Tour at Kapsule
 
-Glass presents Chaos In The CBD In Dust We Trust Tour at Kapsule on Sat 24 Oct, Liverpool. 2 acts on the bill: Chaos In The CBD and RoomToo. House and Deep House. Preview the line-up and save it on soundcheck.
+Glass presents Chaos In The CBD In Dust We Trust Tour at Kapsule on Sat 24 Oct, Liverpool. 2 artists on the bill: Chaos In The CBD and RoomToo. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

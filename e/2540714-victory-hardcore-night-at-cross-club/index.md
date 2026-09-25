@@ -1,6 +1,6 @@
 # VICTORY HARDCORE NIGHT at Cross Club
 
-VICTORY HARDCORE NIGHT at Cross Club on Sun 25 Oct, Prague. 1 act on the bill: BBBBBBB. Preview the line-up and save it on soundcheck.
+VICTORY HARDCORE NIGHT at Cross Club on Sun 25 Oct, Prague. 1 artist on the bill: BBBBBBB. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

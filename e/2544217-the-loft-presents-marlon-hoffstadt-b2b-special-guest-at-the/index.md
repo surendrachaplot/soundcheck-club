@@ -1,6 +1,6 @@
 # THE LOFT presents: Marlon Hoffstadt B2B Special Guest at The Loft Amsterdam
 
-THE LOFT presents: Marlon Hoffstadt B2B Special Guest at The Loft Amsterdam on Thu 22 Oct, Amsterdam. 1 act on the bill: Marlon Hoffstadt. Trance. Preview the line-up and save it on soundcheck.
+THE LOFT presents: Marlon Hoffstadt B2B Special Guest at The Loft Amsterdam on Thu 22 Oct, Amsterdam. 1 artist on the bill: Marlon Hoffstadt. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

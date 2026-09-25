@@ -1,6 +1,6 @@
 # Sam Divine at Halcyon
 
-Sam Divine at Halcyon on Fri 30 Oct, Sanfrancisco. 1 act on the bill: Sam Divine. Preview the line-up and save it on soundcheck.
+Sam Divine at Halcyon on Fri 30 Oct, San Francisco/Oakland. 1 artist on the bill: Sam Divine. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

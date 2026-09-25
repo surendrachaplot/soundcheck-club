@@ -1,6 +1,6 @@
 # Mystify Vinyl Learn and Perform Season 2 (Day 3/4) at The Racket Space
 
-Mystify Vinyl Learn and Perform Season 2 (Day 3/4) at The Racket Space on Sun 4 Oct, Dublin. 2 acts on the bill: Tadhg K and Tr One. Electro. Preview the line-up and save it on soundcheck.
+Mystify Vinyl Learn and Perform Season 2 (Day 3/4) at The Racket Space on Sun 4 Oct, Dublin. 2 artists on the bill: Tadhg K and Tr One. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

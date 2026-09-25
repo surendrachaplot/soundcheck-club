@@ -1,6 +1,6 @@
 # xyz with Futurę Sounds Of Jazz hosted by Uh-Young Kim at JAKI
 
-xyz with Futurę Sounds Of Jazz hosted by Uh-Young Kim at JAKI on Fri 25 Sept, Cologne. 2 acts on the bill: Michael Reinboth and Michael Rütten. Breakbeat and House. Preview the line-up and save it on soundcheck.
+xyz with Futurę Sounds Of Jazz hosted by Uh-Young Kim at JAKI on Fri 25 Sept, Cologne. 2 artists on the bill: Michael Reinboth and Michael Rütten. Breakbeat and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

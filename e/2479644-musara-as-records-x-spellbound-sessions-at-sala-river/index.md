@@ -1,6 +1,6 @@
 # Musarañas Records X Spellbound Sessions at Sala River
 
-Musarañas Records X Spellbound Sessions at Sala River on Fri 23 Oct, Barcelona. 1 act on the bill: Dispël. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
+Musarañas Records X Spellbound Sessions at Sala River on Fri 23 Oct, Barcelona. 1 artist on the bill: Dispël. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

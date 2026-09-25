@@ -1,6 +1,6 @@
 # Cold Brewed 2nd Birthday w/ k means, Toura, Jimmy Rocket & M75 at The Model
 
-Cold Brewed 2nd Birthday w/ k means, Toura, Jimmy Rocket & M75 at The Model on Fri 9 Oct, Nottingham. 4 acts on the bill: Jimmy Rocket, k means, M75 (1) and Toura. Techno and Footwork. Preview the line-up and save it on soundcheck.
+Cold Brewed 2nd Birthday w/ k means, Toura, Jimmy Rocket & M75 at The Model on Fri 9 Oct, Nottingham. 4 artists on the bill: Jimmy Rocket, k means, M75 and Toura. Techno and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

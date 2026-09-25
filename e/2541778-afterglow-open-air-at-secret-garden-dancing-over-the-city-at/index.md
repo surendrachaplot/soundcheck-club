@@ -1,6 +1,6 @@
 # afterglow Open Air at Secret Garden · Dancing Over the City at Secret Garden LX
 
-afterglow Open Air at Secret Garden · Dancing Over the City at Secret Garden LX on Sat 26 Sept, Lisbon. 1 act on the bill: kazarov. Techno and House. Preview the line-up and save it on soundcheck.
+afterglow Open Air at Secret Garden · Dancing Over the City at Secret Garden LX on Sat 26 Sept, Lisbon. 1 artist on the bill: kazarov. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

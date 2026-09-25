@@ -1,6 +1,6 @@
 # Beaux at Arts Club at Arts Club
 
-Beaux at Arts Club on Sun 18 Oct, Liverpool. 1 act on the bill: Beaux. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Beaux at Arts Club on Sun 18 Oct, Liverpool. 1 artist on the bill: Beaux. Pop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rhom Omit / Gishiyama at 12x12 at 12 x 12
 
-Rhom Omit / Gishiyama at 12x12 at 12 x 12 on Fri 25 Sept, Bangkok. 2 acts on the bill: Gishiyama and Rhom Omit. House and Minimal. Preview the line-up and save it on soundcheck.
+Rhom Omit / Gishiyama at 12x12 at 12 x 12 on Fri 25 Sept, Bangkok. 2 artists on the bill: Gishiyama and Rhom Omit. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Morning Mass pres. Stefano Noferini at The Comfort Zone
 
-Morning Mass pres. Stefano Noferini at The Comfort Zone on Sat 26 Sept, Toronto. 3 acts on the bill: Manzone & Strong, Stefano Noferini and Theta State. Techno. Preview the line-up and save it on soundcheck.
+Morning Mass pres. Stefano Noferini at The Comfort Zone on Sat 26 Sept, Toronto. 3 artists on the bill: Manzone & Strong, Stefano Noferini and Theta State. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

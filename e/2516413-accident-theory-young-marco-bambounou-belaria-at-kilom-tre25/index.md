@@ -1,6 +1,6 @@
 # ACCIDENT THEORY: Young Marco, Bambounou, Belaria at Kilomètre25
 
-ACCIDENT THEORY: Young Marco, Bambounou, Belaria at Kilomètre25 on Fri 25 Sept, Paris. 5 acts on the bill: Axel Blanc, Bambounou, Belaria and VANROOSE and 1 more. House. Preview the line-up and save it on soundcheck.
+ACCIDENT THEORY: Young Marco, Bambounou, Belaria at Kilomètre25 on Fri 25 Sept, Paris. 5 artists on the bill: Axel Blanc, Bambounou, Belaria and VANROOSE and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

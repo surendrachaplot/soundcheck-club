@@ -1,6 +1,6 @@
 # HOUSENATION: Dimmish, Irene Gutierrez, Yannik at EL SÓTANO
 
-HOUSENATION: Dimmish, Irene Gutierrez, Yannik at EL SÓTANO on Sat 28 Nov, Madrid. 1 act on the bill: Dimmish. House and Tech House. Preview the line-up and save it on soundcheck.
+HOUSENATION: Dimmish, Irene Gutierrez, Yannik at EL SÓTANO on Sat 28 Nov, Madrid. 1 artist on the bill: Dimmish. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bárbara's BITCH FIT at Xuxa
 
-Bárbara's BITCH FIT at Xuxa on Fri 25 Sept, Austin. 2 acts on the bill: Jeani Quimera and Maara. Techno and Club. Preview the line-up and save it on soundcheck.
+Bárbara's BITCH FIT at Xuxa on Fri 25 Sept, Austin. 2 artists on the bill: Jeani Quimera and Maara. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

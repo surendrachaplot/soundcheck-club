@@ -1,6 +1,6 @@
 # THE GUEST HOUSE presents WEEKDAY COMMON ROOM feat. IS THIS ON at Enter Shibuya
 
-THE GUEST HOUSE presents WEEKDAY COMMON ROOM feat. IS THIS ON at Enter Shibuya on Mon 28 Sept, Tokyo. 1 act on the bill: Da Yama. Techno and House. Preview the line-up and save it on soundcheck.
+THE GUEST HOUSE presents WEEKDAY COMMON ROOM feat. IS THIS ON at Enter Shibuya on Mon 28 Sept, Tokyo. 1 artist on the bill: Da Yama. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

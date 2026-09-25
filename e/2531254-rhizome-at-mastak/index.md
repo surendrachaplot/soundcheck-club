@@ -1,6 +1,6 @@
 # RHIZOME at Mastak
 
-RHIZOME at Mastak on Fri 2 Oct, Warsaw. 4 acts on the bill: Gabi Bury, Mateusz Grzybowski, Pean and Smansky. Techno. Preview the line-up and save it on soundcheck.
+RHIZOME at Mastak on Fri 2 Oct, Warsaw. 4 artists on the bill: Gabi Bury, Mateusz Grzybowski, Pean and Smansky. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SOJOURN FESTIVAL 2026 at 131 Mccormack St
 
-SOJOURN FESTIVAL 2026 at 131 Mccormack St on Fri 25 Sept, Toronto. 34 acts on the bill: AADJA, Ahadadream, Bambii and Blkvirgo and 30 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+SOJOURN FESTIVAL 2026 at 131 Mccormack St on Fri 25 Sept, Toronto. 34 artists on the bill: AADJA, Ahadadream, Bambii and Blkvirgo and 30 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

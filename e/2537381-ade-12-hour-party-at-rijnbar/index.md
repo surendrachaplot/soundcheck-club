@@ -1,6 +1,6 @@
 # ADE 12-hour party at Rijnbar
 
-ADE 12-hour party at Rijnbar on Fri 23 Oct, Amsterdam. 7 acts on the bill: Gai Barone, Hicky & Kalo, Kebin van Reeken and Nick Stoynoff and 3 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+ADE 12-hour party at Rijnbar on Fri 23 Oct, Amsterdam. 7 artists on the bill: Gai Barone, Hicky & Kalo, Kebin van Reeken and Nick Stoynoff and 3 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

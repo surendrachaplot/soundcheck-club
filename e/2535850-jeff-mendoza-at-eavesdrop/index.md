@@ -1,6 +1,6 @@
 # Jeff Mendoza at Eavesdrop
 
-Jeff Mendoza at Eavesdrop on Sat 26 Sept, Newyorkcity. 1 act on the bill: Jeff Mendoza (1). Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Jeff Mendoza at Eavesdrop on Sat 26 Sept, New York City. 1 artist on the bill: Jeff Mendoza. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

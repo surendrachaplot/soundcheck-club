@@ -1,6 +1,6 @@
 # Helix Discs: DANCE PROTOCOL, Data Flow, batgirl + more at Next Door Records Two
 
-Helix Discs: DANCE PROTOCOL, Data Flow, batgirl + more at Next Door Records Two on Sat 3 Oct, London. 5 acts on the bill: A.Wild, batgirl, DANCE PROTOCOL and Data Flow and 1 more. Deep House. Preview the line-up and save it on soundcheck.
+Helix Discs: DANCE PROTOCOL, Data Flow, batgirl + more at Next Door Records Two on Sat 3 Oct, London. 5 artists on the bill: A.Wild, batgirl, DANCE PROTOCOL and Data Flow and 1 more. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

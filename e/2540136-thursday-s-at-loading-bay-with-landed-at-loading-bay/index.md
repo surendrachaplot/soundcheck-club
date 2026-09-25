@@ -1,6 +1,6 @@
 # Thursday's at [LOADING BAY] with LANDED at [LOADING BAY]
 
-Thursday's at [LOADING BAY] with LANDED on Thu 24 Sept, London. 2 acts on the bill: Geo DJ and KAZIA. House and Tech House. Preview the line-up and save it on soundcheck.
+Thursday's at [LOADING BAY] with LANDED on Thu 24 Sept, London. 2 artists on the bill: Geo DJ and KAZIA. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Power Up at Lauschangriff
 
-Power Up at Lauschangriff on Fri 16 Oct, Berlin. 3 acts on the bill: Lancer (2), Möbelnder Pop and Rena Volvo. Italo Disco. Preview the line-up and save it on soundcheck.
+Power Up at Lauschangriff on Fri 16 Oct, Berlin. 3 artists on the bill: Lancer, Möbelnder Pop and Rena Volvo. Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

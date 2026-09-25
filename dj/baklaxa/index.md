@@ -2,7 +2,7 @@
 
 Bakläxa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Giri, Berlin on Wed, 7 Oct 2026.
 
-Bakläxa is a techno and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Berlin, Bristol, Hamburg and London. Often billed alongside Aaronovsky, Janosch (2) and pbl.fyi. Next up: Giri, Berlin on Wed 7 Oct.
+Bakläxa is a techno and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Berlin, Bristol, Hamburg and London. Often billed alongside Aaronovsky, Janosch and pbl.fyi. Next up: Giri, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 

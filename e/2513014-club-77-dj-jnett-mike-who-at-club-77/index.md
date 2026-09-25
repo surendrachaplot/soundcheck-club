@@ -1,6 +1,6 @@
 # Club 77: DJ JNETT, Mike Who at Club 77
 
-Club 77: DJ JNETT, Mike Who on Sat 26 Sept, Sydney. 2 acts on the bill: DJ JNETT and Mike Who. Techno and House. Preview the line-up and save it on soundcheck.
+Club 77: DJ JNETT, Mike Who on Sat 26 Sept, Sydney. 2 artists on the bill: DJ JNETT and Mike Who. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

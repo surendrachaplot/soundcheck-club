@@ -2,7 +2,7 @@
 
 Domenico Crisci is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar A Bar, London on Sat, 31 Oct 2026.
 
-Domenico Crisci is a techno and electro artist based in Italy, tracked on soundcheck, with 15 sets logged across Bali, Hongkong, London and Naples and 2 more. Often billed alongside Panzer, Rebecca Delle Piane and 400 Coups, Minuit. Next up: Bar A Bar, London on Sat 31 Oct.
+Domenico Crisci is a techno and electro artist based in Italy, tracked on soundcheck, with 15 sets logged across Bali, Hong Kong, London and Naples and 2 more. Often billed alongside Panzer, Rebecca Delle Piane and 400 Coups, Minuit. Next up: Bar A Bar, London on Sat 31 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Fossss Music Takeover at Arkaoda
 
-Fossss Music Takeover at Arkaoda on Sat 26 Sept, Istanbul. 4 acts on the bill: Campbell, Emelyne, Fosil and Miata. Bass and Experimental. Preview the line-up and save it on soundcheck.
+Fossss Music Takeover at Arkaoda on Sat 26 Sept, Istanbul. 4 artists on the bill: Campbell, Emelyne, Fosil and Miata. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

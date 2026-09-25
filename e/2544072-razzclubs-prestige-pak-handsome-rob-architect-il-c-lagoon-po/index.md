@@ -1,6 +1,6 @@
 # RAZZCLUBS: Prestige Pak:Handsome Rob+Architect+ il C+Lagoon-POWERED BY Greenlight Sound System at Razzmatazz
 
-RAZZCLUBS: Prestige Pak:Handsome Rob+Architect+ il C+Lagoon-POWERED BY Greenlight Sound System at Razzmatazz on Sat 3 Oct, Barcelona. 9 acts on the bill: Akua, Architect, Decka and Disturbia and 5 more. Preview the line-up and save it on soundcheck.
+RAZZCLUBS: Prestige Pak:Handsome Rob+Architect+ il C+Lagoon-POWERED BY Greenlight Sound System at Razzmatazz on Sat 3 Oct, Barcelona. 9 artists on the bill: Akua, Architect, Decka and Disturbia and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

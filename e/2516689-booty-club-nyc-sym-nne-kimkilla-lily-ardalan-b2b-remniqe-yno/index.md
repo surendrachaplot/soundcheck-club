@@ -1,6 +1,6 @@
 # Booty Club NYC: Symønne, KIMKILLA, Lily Ardalan b2b Remniqe, yNOTi, Caire at Jupiter Disco
 
-Booty Club NYC: Symønne, KIMKILLA, Lily Ardalan b2b Remniqe, yNOTi, Caire at Jupiter Disco on Sun 27 Sept, Newyorkcity. 6 acts on the bill: Caire, KIMKILLA, Lily Ardalan and Remniqe and 2 more. Preview the line-up and save it on soundcheck.
+Booty Club NYC: Symønne, KIMKILLA, Lily Ardalan b2b Remniqe, yNOTi, Caire at Jupiter Disco on Sun 27 Sept, New York City. 6 artists on the bill: Caire, KIMKILLA, Lily Ardalan and Remniqe and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

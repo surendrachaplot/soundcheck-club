@@ -2,7 +2,7 @@
 
 Brooklyn Roots Collective is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Labyrinth presents: Caiiro extended set" on Sat, 26 Sept 2026.
 
-Brooklyn Roots Collective is a music venue in Newyorkcity listed on soundcheck. 5 upcoming gigs, with line-ups including Byron The Aquarius, Caiiro, DJ Heather and Fibre and 2 more. Browse upcoming dates, start times and who's playing. 255 Randolph St, Brooklyn, NY 11237, USA.
+Brooklyn Roots Collective is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including Byron The Aquarius, Caiiro, DJ Heather and Fibre and 2 more. Browse upcoming dates, start times and who's playing. 255 Randolph St, Brooklyn, NY 11237, USA.
 
 ## What's on
 

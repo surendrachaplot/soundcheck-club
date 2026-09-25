@@ -1,6 +1,6 @@
 # Another Halloween #4 at Warehouse Elementenstraat
 
-Another Halloween #4 at Warehouse Elementenstraat on Fri 30 Oct, Amsterdam. 2 acts on the bill: DIORA and TEKNA. Techno. Preview the line-up and save it on soundcheck.
+Another Halloween #4 at Warehouse Elementenstraat on Fri 30 Oct, Amsterdam. 2 artists on the bill: DIORA and TEKNA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

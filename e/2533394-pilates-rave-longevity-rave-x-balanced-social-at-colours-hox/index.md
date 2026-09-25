@@ -1,6 +1,6 @@
 # Pilates Rave - Longevity Rave x Balanced Social at Colours Hoxton
 
-Pilates Rave - Longevity Rave x Balanced Social at Colours Hoxton on Sat 24 Oct, London. 2 acts on the bill: Tina Technotic and Yukari. House and Tech House. Preview the line-up and save it on soundcheck.
+Pilates Rave - Longevity Rave x Balanced Social at Colours Hoxton on Sat 24 Oct, London. 2 artists on the bill: Tina Technotic and Yukari. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ✧ GROOVE SERVICE with CADET ✧ FREE ENTRY ✧ at The Buff Club
 
-✧ GROOVE SERVICE with CADET ✧ FREE ENTRY ✧ at The Buff Club on Fri 25 Sept, Glasgow. 1 act on the bill: djsmuz. House and Disco. Preview the line-up and save it on soundcheck.
+✧ GROOVE SERVICE with CADET ✧ FREE ENTRY ✧ at The Buff Club on Fri 25 Sept, Glasgow. 1 artist on the bill: djsmuz. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

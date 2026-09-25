@@ -1,6 +1,6 @@
 # Welker at Audio SF
 
-Welker at Audio SF on Sat 17 Oct, Sanfrancisco. Preview the line-up and save it on soundcheck.
+Welker at Audio SF on Sat 17 Oct, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

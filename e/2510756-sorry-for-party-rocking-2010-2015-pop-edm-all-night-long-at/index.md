@@ -1,6 +1,6 @@
 # SORRY FOR PARTY ROCKING (2010-2015 Pop & EDM All Night Long!) at Catch One
 
-SORRY FOR PARTY ROCKING (2010-2015 Pop & EDM All Night Long!) at Catch One on Fri 25 Sept, Losangeles. Preview the line-up and save it on soundcheck.
+SORRY FOR PARTY ROCKING (2010-2015 Pop & EDM All Night Long!) at Catch One on Fri 25 Sept, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RETI X Fünk at Fünk
 
-RETI X Fünk on Thu 1 Oct, Mexicocity. 2 acts on the bill: Adrian Bluper and Flor Capistran. House. Preview the line-up and save it on soundcheck.
+RETI X Fünk on Thu 1 Oct, Mexico City. 2 artists on the bill: Adrian Bluper and Flor Capistran. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

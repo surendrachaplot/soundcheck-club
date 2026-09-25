@@ -2,7 +2,7 @@
 
 DBN Gogo is a Amapiano and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cabo Beach Club, Cape-town on Fri, 30 Oct 2026.
 
-DBN Gogo is an amapiano and afrobeat artist tracked on soundcheck, with 13 sets logged across Amsterdam, Bali, Barcelona and Basel and 4 more. Often billed alongside Charisse C, Kelvin Momo and BOJ (1). Next up: Cabo Beach Club, Cape-town on Fri 30 Oct.
+DBN Gogo is an amapiano and afrobeat artist tracked on soundcheck, with 13 sets logged across Amsterdam, Bali, Barcelona and Basel and 4 more. Often billed alongside Charisse C, Kelvin Momo and BOJ. Next up: Cabo Beach Club, Cape Town on Fri 30 Oct.
 
 ## Upcoming shows
 

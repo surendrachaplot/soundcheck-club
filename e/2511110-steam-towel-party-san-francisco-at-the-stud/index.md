@@ -1,6 +1,6 @@
 # Steam Towel Party San Francisco at The Stud
 
-Steam Towel Party San Francisco at The Stud on Sat 12 Dec, Sanfrancisco. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Steam Towel Party San Francisco at The Stud on Sat 12 Dec, San Francisco/Oakland. Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

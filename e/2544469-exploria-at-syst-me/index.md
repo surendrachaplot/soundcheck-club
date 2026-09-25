@@ -1,6 +1,6 @@
 # Exploria at Système
 
-Exploria at Système on Sat 10 Oct, Montreal. 3 acts on the bill: Evita, Flørist and Percwerk. Preview the line-up and save it on soundcheck.
+Exploria at Système on Sat 10 Oct, Montreal. 3 artists on the bill: Evita, Flørist and Percwerk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

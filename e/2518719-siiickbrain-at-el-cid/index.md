@@ -1,6 +1,6 @@
 # SIIICKBRAIN at El Cid
 
-SIIICKBRAIN at El Cid on Thu 24 Sept, Losangeles. 1 act on the bill: Hu Dat. Club and Electronica. Preview the line-up and save it on soundcheck.
+SIIICKBRAIN at El Cid on Thu 24 Sept, Los Angeles. 1 artist on the bill: Hu Dat. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

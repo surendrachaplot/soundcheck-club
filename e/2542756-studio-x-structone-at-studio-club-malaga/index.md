@@ -1,6 +1,6 @@
 # Studio X Structone at Studio Club Malaga
 
-Studio X Structone at Studio Club Malaga on Fri 16 Oct, Malaga. 3 acts on the bill: Alarico, Montero and Rene Wise. Preview the line-up and save it on soundcheck.
+Studio X Structone at Studio Club Malaga on Fri 16 Oct, Malaga. 3 artists on the bill: Alarico, Montero and Rene Wise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

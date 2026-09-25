@@ -1,6 +1,6 @@
 # Guerilla & Dark pres. fumi (extended 4 hour set) at Northcote Theatre
 
-Guerilla & Dark pres. fumi (extended 4 hour set) at Northcote Theatre on Sat 21 Nov, Melbourne. 1 act on the bill: fumi (DE). Techno. Preview the line-up and save it on soundcheck.
+Guerilla & Dark pres. fumi (extended 4 hour set) at Northcote Theatre on Sat 21 Nov, Melbourne. 1 artist on the bill: fumi (DE). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Freak Queer Rave w/ Dr. Rubinstein, Nene H, ketia & Egg On Toast at Hidden
 
-Freak Queer Rave w/ Dr. Rubinstein, Nene H, ketia & Egg On Toast at Hidden on Fri 9 Oct, Manchester. 4 acts on the bill: Dr. Rubinstein, Egg On Toast, ketia and Nene H. Preview the line-up and save it on soundcheck.
+Freak Queer Rave w/ Dr. Rubinstein, Nene H, ketia & Egg On Toast at Hidden on Fri 9 Oct, Manchester. 4 artists on the bill: Dr. Rubinstein, Egg On Toast, ketia and Nene H. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

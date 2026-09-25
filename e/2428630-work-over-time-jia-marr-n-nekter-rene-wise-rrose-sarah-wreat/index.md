@@ -1,6 +1,6 @@
 # WORK OVER/TIME: JIA, MARRØN, NEKTER, Rene Wise, Rrose, Sarah Wreath [Live], & Wata Igarashi at TBA - Los Angeles
 
-WORK OVER/TIME: JIA, MARRØN, NEKTER, Rene Wise, Rrose, Sarah Wreath [Live], & Wata Igarashi at TBA - Los Angeles on Fri 25 Sept, Losangeles. 7 acts on the bill: JIA, MARRØN, NEKTER and Rene Wise and 3 more. Techno. Preview the line-up and save it on soundcheck.
+WORK OVER/TIME: JIA, MARRØN, NEKTER, Rene Wise, Rrose, Sarah Wreath [Live], & Wata Igarashi at TBA - Los Angeles on Fri 25 Sept, Los Angeles. 7 artists on the bill: JIA, MARRØN, NEKTER and Rene Wise and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

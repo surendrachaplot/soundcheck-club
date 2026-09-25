@@ -2,7 +2,7 @@
 
 Gru.di is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Public Works, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-Gru.di is a deep house and techno artist based in Ukraine, tracked on soundcheck, with 34 sets logged across Losangeles and Sanfrancisco. Often billed alongside IZIK, Borak and MANTi. Next up: Public Works, Sanfrancisco on Sat 31 Oct.
+Gru.di is a deep house and techno artist based in Ukraine, tracked on soundcheck, with 34 sets logged across Los Angeles and San Francisco/Oakland. Often billed alongside IZIK, Borak and MANTi. Next up: Public Works, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 

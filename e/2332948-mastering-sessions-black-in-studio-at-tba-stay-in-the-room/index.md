@@ -1,6 +1,6 @@
 # Mastering Sessions Black In Studio at TBA - Stay In The Room
 
-Mastering Sessions Black In Studio at TBA - Stay In The Room on Wed 9 Dec, Naples. 2 acts on the bill: TC Dj and Tech C. Techno and Acid. Preview the line-up and save it on soundcheck.
+Mastering Sessions Black In Studio at TBA - Stay In The Room on Wed 9 Dec, Naples. 2 artists on the bill: TC Dj and Tech C. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

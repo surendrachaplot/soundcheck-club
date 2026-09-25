@@ -1,6 +1,6 @@
 # Piu Disco at The 86
 
-Piu Disco at The 86 on Sat 10 Oct, Melbourne. 2 acts on the bill: Tanzer and The D Word. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+Piu Disco at The 86 on Sat 10 Oct, Melbourne. 2 artists on the bill: Tanzer and The D Word. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dosem @AudioSF at Audio SF
 
-Dosem @AudioSF at Audio SF on Fri 20 Nov, Sanfrancisco. 2 acts on the bill: ALMAS and Dosem. Techno and House. Preview the line-up and save it on soundcheck.
+Dosem @AudioSF at Audio SF on Fri 20 Nov, San Francisco/Oakland. 2 artists on the bill: ALMAS and Dosem. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

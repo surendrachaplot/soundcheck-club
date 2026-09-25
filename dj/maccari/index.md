@@ -2,7 +2,7 @@
 
 Maccari is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Urban Spree, Berlin on Fri, 2 Oct 2026.
 
-Maccari is a techno and house artist based in Brazil, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Buenosaires and Saopaulo and 1 more. Often billed alongside KaioBarssalos, MASCHA and ASKE. Next up: Urban Spree, Berlin on Fri 2 Oct.
+Maccari is a techno and house artist based in Brazil, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Buenos Aires and Sao Paulo and 1 more. Often billed alongside KaioBarssalos, MASCHA and ASKE. Next up: Urban Spree, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 

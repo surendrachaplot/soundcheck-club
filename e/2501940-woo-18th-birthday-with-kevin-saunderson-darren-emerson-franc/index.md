@@ -1,6 +1,6 @@
 # WOO! 18th Birthday with Kevin Saunderson + Darren Emerson + Francesco Farfa at Discoteca Paradiso
 
-WOO! 18th Birthday with Kevin Saunderson + Darren Emerson + Francesco Farfa at Discoteca Paradiso on Sat 10 Oct, Naples. 3 acts on the bill: Darren Emerson, Francesco Farfa and Kevin Saunderson. Preview the line-up and save it on soundcheck.
+WOO! 18th Birthday with Kevin Saunderson + Darren Emerson + Francesco Farfa at Discoteca Paradiso on Sat 10 Oct, Naples. 3 artists on the bill: Darren Emerson, Francesco Farfa and Kevin Saunderson. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

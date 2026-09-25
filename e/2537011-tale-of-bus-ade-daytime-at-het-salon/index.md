@@ -1,6 +1,6 @@
 # Tale of Bus ADE - daytime at Het Salon
 
-Tale of Bus ADE - daytime at Het Salon on Sat 24 Oct, Amsterdam. 1 act on the bill: Margaret Dygas. House and Minimal. Preview the line-up and save it on soundcheck.
+Tale of Bus ADE - daytime at Het Salon on Sat 24 Oct, Amsterdam. 1 artist on the bill: Margaret Dygas. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

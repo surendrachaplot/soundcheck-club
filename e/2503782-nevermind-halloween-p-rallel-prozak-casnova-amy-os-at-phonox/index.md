@@ -1,6 +1,6 @@
 # NEVERMIND HALLOWEEN: p-rallel, PROZAK, CASNOVA, AMY OS at Phonox
 
-NEVERMIND HALLOWEEN: p-rallel, PROZAK, CASNOVA, AMY OS at Phonox on Sat 31 Oct, London. 4 acts on the bill: Amy Os, Casnova, p-rallel and Prozak (IRL). Bass and Garage. Preview the line-up and save it on soundcheck.
+NEVERMIND HALLOWEEN: p-rallel, PROZAK, CASNOVA, AMY OS at Phonox on Sat 31 Oct, London. 4 artists on the bill: Amy Os, Casnova, p-rallel and Prozak (IRL). Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

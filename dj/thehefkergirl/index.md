@@ -2,7 +2,7 @@
 
 The Hefker Girl is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ErF Studios, New York City on Fri, 25 Sept 2026.
 
-The Hefker Girl is a house and dub techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity. Often billed alongside Valentin Lamar, J. Mordechai and ALIKHAN. Next up: ErF Studios, Newyorkcity on Fri 25 Sept.
+The Hefker Girl is a house and dub techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across New York City. Often billed alongside Valentin Lamar, J. Mordechai and ALIKHAN. Next up: ErF Studios, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

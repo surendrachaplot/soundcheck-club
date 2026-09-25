@@ -1,6 +1,6 @@
 # DURATIONS: William Basinski, muein at public records
 
-DURATIONS: William Basinski, muein at public records on Tue 10 Nov, Newyorkcity. 1 act on the bill: William Basinski. Preview the line-up and save it on soundcheck.
+DURATIONS: William Basinski, muein at public records on Tue 10 Nov, New York City. 1 artist on the bill: William Basinski. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

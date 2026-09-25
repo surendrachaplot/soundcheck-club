@@ -1,6 +1,6 @@
 # KontraKultura at Heavy Budapest
 
-KontraKultura at Heavy Budapest on Fri 9 Oct, Budapest. 2 acts on the bill: Henry Dex and SNYL. House and Tech House. Preview the line-up and save it on soundcheck.
+KontraKultura at Heavy Budapest on Fri 9 Oct, Budapest. 2 artists on the bill: Henry Dex and SNYL. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

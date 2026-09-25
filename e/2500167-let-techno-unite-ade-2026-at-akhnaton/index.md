@@ -1,6 +1,6 @@
 # Let Techno Unite ADE 2026 at Akhnaton
 
-Let Techno Unite ADE 2026 at Akhnaton on Wed 21 Oct, Amsterdam. 6 acts on the bill: BALAI, DJ Perroz, EVNTHZN and Noisy Shaun and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Let Techno Unite ADE 2026 at Akhnaton on Wed 21 Oct, Amsterdam. 6 artists on the bill: BALAI, DJ Perroz, EVNTHZN and Noisy Shaun and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

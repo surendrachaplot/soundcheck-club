@@ -1,6 +1,6 @@
 # DAAT - Satoshi Tomiie & Friends at TBA - Greenhouse
 
-DAAT - Satoshi Tomiie & Friends at TBA - Greenhouse on Sun 4 Oct, Mexicocity. 7 acts on the bill: Gallō, Louie Fresco, Mejia and Phanta and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
+DAAT - Satoshi Tomiie & Friends at TBA - Greenhouse on Sun 4 Oct, Mexico City. 7 artists on the bill: Gallō, Louie Fresco, Mejia and Phanta and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

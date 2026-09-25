@@ -1,6 +1,6 @@
 # Andrea Oliva, Argia, Samm at Shelter Amsterdam
 
-Andrea Oliva, Argia, Samm at Shelter Amsterdam on Sat 21 Nov, Amsterdam. 5 acts on the bill: Andrea Oliva, Argia, Julien Simmons and Samm and 1 more. House. Preview the line-up and save it on soundcheck.
+Andrea Oliva, Argia, Samm at Shelter Amsterdam on Sat 21 Nov, Amsterdam. 5 artists on the bill: Andrea Oliva, Argia, Julien Simmons and Samm and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

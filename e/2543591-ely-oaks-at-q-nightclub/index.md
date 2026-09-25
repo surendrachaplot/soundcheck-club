@@ -1,6 +1,6 @@
 # Ely Oaks at Q Nightclub
 
-Ely Oaks at Q Nightclub on Sat 7 Nov, Seattle. 1 act on the bill: Ely Oaks. Preview the line-up and save it on soundcheck.
+Ely Oaks at Q Nightclub on Sat 7 Nov, Seattle. 1 artist on the bill: Ely Oaks. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

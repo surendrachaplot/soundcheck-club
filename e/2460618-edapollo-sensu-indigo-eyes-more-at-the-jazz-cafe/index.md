@@ -1,6 +1,6 @@
 # edapollo, Sensu, Indigo Eyes ++more at The Jazz Cafe
 
-edapollo, Sensu, Indigo Eyes ++more at The Jazz Cafe on Fri 6 Nov, London. 3 acts on the bill: edapollo, Indigo Eyes and Sensu (2). House and Club. Preview the line-up and save it on soundcheck.
+edapollo, Sensu, Indigo Eyes ++more at The Jazz Cafe on Fri 6 Nov, London. 3 artists on the bill: edapollo, Indigo Eyes and Sensu. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

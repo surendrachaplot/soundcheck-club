@@ -1,6 +1,6 @@
 # CLUB.RECORD - The Loft [SOLD OUT] at The Loft Amsterdam
 
-CLUB.RECORD - The Loft [SOLD OUT] at The Loft Amsterdam on Fri 23 Oct, Amsterdam. 4 acts on the bill: Chloé Caillet, D Stone, Naomi (Berlin) and Ryan Elliott. House. Preview the line-up and save it on soundcheck.
+CLUB.RECORD - The Loft [SOLD OUT] at The Loft Amsterdam on Fri 23 Oct, Amsterdam. 4 artists on the bill: Chloé Caillet, D Stone, Naomi (Berlin) and Ryan Elliott. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

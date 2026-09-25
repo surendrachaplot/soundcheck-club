@@ -1,6 +1,6 @@
 # Countdown to the Rent Freeze at Elsewhere
 
-Countdown to the Rent Freeze at Elsewhere on Wed 30 Sept, Newyorkcity. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Countdown to the Rent Freeze at Elsewhere on Wed 30 Sept, New York City. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sankeys Saturdays at Sankeys
 
-Sankeys Saturdays on Sat 10 Oct, Manchester. 1 act on the bill: George Smeddles. House. Preview the line-up and save it on soundcheck.
+Sankeys Saturdays on Sat 10 Oct, Manchester. 1 artist on the bill: George Smeddles. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

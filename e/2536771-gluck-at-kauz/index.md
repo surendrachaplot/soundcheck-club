@@ -1,6 +1,6 @@
 # gluck at Kauz
 
-gluck at Kauz on Sat 17 Oct, Zurich. 2 acts on the bill: Kalabrese and KAYYAK. House. Preview the line-up and save it on soundcheck.
+gluck at Kauz on Sat 17 Oct, Zurich. 2 artists on the bill: Kalabrese and KAYYAK. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

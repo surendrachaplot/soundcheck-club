@@ -1,6 +1,6 @@
 # sonāre 004 at TBA
 
-sonāre 004 at TBA on Sat 10 Oct, Mexicocity. 1 act on the bill: NetCont. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+sonāre 004 at TBA on Sat 10 Oct, Mexico City. 1 artist on the bill: NetCont. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

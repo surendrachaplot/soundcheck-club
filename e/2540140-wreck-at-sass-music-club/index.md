@@ -1,6 +1,6 @@
 # Wreck at SASS Music Club
 
-Wreck at SASS Music Club on Sat 26 Sept, Vienna. 3 acts on the bill: Cameron (1), La La and Ladrillovitz. Preview the line-up and save it on soundcheck.
+Wreck at SASS Music Club on Sat 26 Sept, Vienna. 3 artists on the bill: Cameron, La La and Ladrillovitz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

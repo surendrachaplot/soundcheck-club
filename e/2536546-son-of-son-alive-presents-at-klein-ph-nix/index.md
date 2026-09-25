@@ -1,6 +1,6 @@
 # Son of Son // Alive presents at Klein Phönix
 
-Son of Son // Alive presents at Klein Phönix on Sat 17 Oct, Istanbul. 2 acts on the bill: Black Batu and Son of Son. Preview the line-up and save it on soundcheck.
+Son of Son // Alive presents at Klein Phönix on Sat 17 Oct, Istanbul. 2 artists on the bill: Black Batu and Son of Son. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

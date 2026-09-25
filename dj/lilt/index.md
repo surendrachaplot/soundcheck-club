@@ -2,7 +2,7 @@
 
 Lil'T is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Sultan Room, New York City on Sun, 27 Sept 2026.
 
-Lil'T is a house and disco artist based in United States of America, tracked on soundcheck, with 20 sets logged across Miami, Newyorkcity, Sanfrancisco and Washingtondc. Often billed alongside Shane One, Sticky Dojah and Chuwee. Next up: The Sultan Room, Newyorkcity on Sun 27 Sept.
+Lil'T is a house and disco artist based in United States of America, tracked on soundcheck, with 20 sets logged across Miami, New York City, San Francisco/Oakland and Washington DC. Often billed alongside Shane One, Sticky Dojah and Chuwee. Next up: The Sultan Room, New York City on Sun 27 Sept.
 
 ## Upcoming shows
 

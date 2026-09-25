@@ -1,6 +1,6 @@
 # GLORIA - 100ème édition ·Etapp Kyle~Cromby~Budino ~ Louison B2B Combe ~ Akira B2B Basic Chanel at Macadam
 
-GLORIA - 100ème édition ·Etapp Kyle~Cromby~Budino ~ Louison B2B Combe ~ Akira B2B Basic Chanel at Macadam on Sun 18 Oct, Nantes. 8 acts on the bill: Akira Yamagata, basic chanel, Budino and Combe and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+GLORIA - 100ème édition ·Etapp Kyle~Cromby~Budino ~ Louison B2B Combe ~ Akira B2B Basic Chanel at Macadam on Sun 18 Oct, Nantes. 8 artists on the bill: Akira Yamagata, basic chanel, Budino and Combe and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

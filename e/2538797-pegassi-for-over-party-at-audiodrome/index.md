@@ -1,6 +1,6 @@
 # Pegassi for OVER PARTY at Audiodrome
 
-Pegassi for OVER PARTY at Audiodrome on Sat 26 Sept, Turin. 3 acts on the bill: Mirko Motta, Pegassi and sizing. Techno. Preview the line-up and save it on soundcheck.
+Pegassi for OVER PARTY at Audiodrome on Sat 26 Sept, Turin. 3 artists on the bill: Mirko Motta, Pegassi and sizing. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

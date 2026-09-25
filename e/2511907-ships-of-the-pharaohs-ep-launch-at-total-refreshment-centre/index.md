@@ -1,6 +1,6 @@
 # Ships of the Pharaohs EP Launch at Total Refreshment Centre
 
-Ships of the Pharaohs EP Launch at Total Refreshment Centre on Fri 25 Sept, London. 3 acts on the bill: DJ Gilla, Goldbar and Last Nubian. Jazz and Broken Beat. Preview the line-up and save it on soundcheck.
+Ships of the Pharaohs EP Launch at Total Refreshment Centre on Fri 25 Sept, London. 3 artists on the bill: DJ Gilla, Goldbar and Last Nubian. Jazz and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

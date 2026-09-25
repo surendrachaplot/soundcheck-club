@@ -1,6 +1,6 @@
 # Giri x RITMO LUNATICO at Giri
 
-Giri x RITMO LUNATICO on Thu 1 Oct, Berlin. 1 act on the bill: Lizatron. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Giri x RITMO LUNATICO on Thu 1 Oct, Berlin. 1 artist on the bill: Lizatron. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

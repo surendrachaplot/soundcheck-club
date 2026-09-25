@@ -1,6 +1,6 @@
 # NT's Loft: sunflwr & dj poolboi [All Night Long] at Night Tales Loft
 
-NT's Loft: sunflwr & dj poolboi [All Night Long] at Night Tales Loft on Fri 6 Nov, London. 2 acts on the bill: dj poolboi and sunflwr. Preview the line-up and save it on soundcheck.
+NT's Loft: sunflwr & dj poolboi [All Night Long] at Night Tales Loft on Fri 6 Nov, London. 2 artists on the bill: dj poolboi and sunflwr. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 zoro! is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Honey's, New York City on Fri, 9 Oct 2026.
 
-zoro! is a techno and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside KYRUH, dj s (7) and fleet.dreams. Next up: Honey's, Newyorkcity on Fri 9 Oct.
+zoro! is a techno and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across New York City. Often billed alongside KYRUH, dj s and fleet.dreams. Next up: Honey's, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 

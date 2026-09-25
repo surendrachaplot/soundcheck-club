@@ -1,6 +1,6 @@
 # jedermensch. im Artheater at Artheater
 
-jedermensch. im Artheater on Fri 25 Sept, Cologne. 8 acts on the bill: die jane., Esch, HiHat and L3OO and 4 more. Techno. Preview the line-up and save it on soundcheck.
+jedermensch. im Artheater on Fri 25 Sept, Cologne. 8 artists on the bill: die jane., Esch, HiHat and L3OO and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

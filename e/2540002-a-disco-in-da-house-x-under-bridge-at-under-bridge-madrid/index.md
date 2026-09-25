@@ -1,6 +1,6 @@
 # A Disco in da House x Under Bridge at Under Bridge Madrid
 
-A Disco in da House x Under Bridge at Under Bridge Madrid on Fri 25 Sept, Madrid. 1 act on the bill: Petunia Clark. Preview the line-up and save it on soundcheck.
+A Disco in da House x Under Bridge at Under Bridge Madrid on Fri 25 Sept, Madrid. 1 artist on the bill: Petunia Clark. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

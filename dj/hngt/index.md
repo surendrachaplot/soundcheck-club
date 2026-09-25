@@ -2,7 +2,7 @@
 
 HNGT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at D-EDGE, Sao Paulo on Sat, 26 Sept 2026.
 
-HNGT is a techno and house artist based in Brazil, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Bucharest and Cologne and 6 more. Often billed alongside Rad.Lez, Gizmo and Lazykid. Next up: D-EDGE, Saopaulo on Sat 26 Sept.
+HNGT is a techno and house artist based in Brazil, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Bucharest and Cologne and 6 more. Often billed alongside Rad.Lez, Gizmo and Lazykid. Next up: D-EDGE, Sao Paulo on Sat 26 Sept.
 
 ## Upcoming shows
 

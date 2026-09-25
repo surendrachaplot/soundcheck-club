@@ -1,6 +1,6 @@
 # FOCUS: Alan Fitzpatrick at Flash
 
-FOCUS: Alan Fitzpatrick at Flash on Sat 7 Nov, Washingtondc. 1 act on the bill: Alan Fitzpatrick. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+FOCUS: Alan Fitzpatrick at Flash on Sat 7 Nov, Washington DC. 1 artist on the bill: Alan Fitzpatrick. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

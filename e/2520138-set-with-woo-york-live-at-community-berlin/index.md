@@ -1,6 +1,6 @@
 # SET with Woo York [Live] at Community Berlin
 
-SET with Woo York [Live] at Community Berlin on Sat 10 Oct, Losangeles. 1 act on the bill: Woo York. Techno and Deep House. Preview the line-up and save it on soundcheck.
+SET with Woo York [Live] at Community Berlin on Sat 10 Oct, Los Angeles. 1 artist on the bill: Woo York. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

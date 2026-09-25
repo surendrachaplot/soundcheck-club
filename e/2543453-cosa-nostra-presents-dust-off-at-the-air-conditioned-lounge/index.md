@@ -1,6 +1,6 @@
 # Cosa Nostra presents: Dust Off at The Air Conditioned Lounge
 
-Cosa Nostra presents: Dust Off at The Air Conditioned Lounge on Sat 26 Sept, Sandiego. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Cosa Nostra presents: Dust Off at The Air Conditioned Lounge on Sat 26 Sept, San Diego. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

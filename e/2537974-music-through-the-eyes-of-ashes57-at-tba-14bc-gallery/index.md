@@ -1,6 +1,6 @@
 # Music Through the eyes of Ashes57 at TBA - 14BC Gallery
 
-Music Through the eyes of Ashes57 at TBA - 14BC Gallery on Thu 22 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+Music Through the eyes of Ashes57 at TBA - 14BC Gallery on Thu 22 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

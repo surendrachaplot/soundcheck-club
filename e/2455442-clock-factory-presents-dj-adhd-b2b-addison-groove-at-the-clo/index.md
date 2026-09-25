@@ -1,6 +1,6 @@
 # Clock Factory presents: DJ ADHD B2B Addison Groove at The Clock Factory
 
-Clock Factory presents: DJ ADHD B2B Addison Groove at The Clock Factory on Sat 7 Nov, Bristol. 2 acts on the bill: Addison Groove and DJ ADHD. Bass and Electro. Preview the line-up and save it on soundcheck.
+Clock Factory presents: DJ ADHD B2B Addison Groove at The Clock Factory on Sat 7 Nov, Bristol. 2 artists on the bill: Addison Groove and DJ ADHD. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

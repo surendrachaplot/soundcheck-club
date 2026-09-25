@@ -1,6 +1,6 @@
 # Shubz: Chapter Two Katsute100 Brick Lane x Bun House Disco at Katsute100 Brick Lane & Bun House Disco
 
-Shubz: Chapter Two Katsute100 Brick Lane x Bun House Disco at Katsute100 Brick Lane & Bun House Disco on Fri 23 Oct, London. 4 acts on the bill: Auntie Klockwise, bejeebe, HITOMI SETO and JVINCENT. Techno and Baile Funk. Preview the line-up and save it on soundcheck.
+Shubz: Chapter Two Katsute100 Brick Lane x Bun House Disco at Katsute100 Brick Lane & Bun House Disco on Fri 23 Oct, London. 4 artists on the bill: Auntie Klockwise, bejeebe, HITOMI SETO and JVINCENT. Techno and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

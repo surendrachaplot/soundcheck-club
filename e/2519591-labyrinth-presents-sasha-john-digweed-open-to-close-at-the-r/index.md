@@ -1,6 +1,6 @@
 # Labyrinth presents: Sasha & John Digweed Open to Close at The Roundhouse
 
-Labyrinth presents: Sasha & John Digweed Open to Close at The Roundhouse on Sat 5 Dec, London. 2 acts on the bill: John Digweed and Sasha. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Labyrinth presents: Sasha & John Digweed Open to Close at The Roundhouse on Sat 5 Dec, London. 2 artists on the bill: John Digweed and Sasha. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

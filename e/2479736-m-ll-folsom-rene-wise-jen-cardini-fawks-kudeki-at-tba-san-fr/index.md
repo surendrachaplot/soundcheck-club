@@ -1,6 +1,6 @@
 # MÜLL Folsom: Rene Wise - Jen Cardini - Fawks - Kudeki at TBA - San Francisco
 
-MÜLL Folsom: Rene Wise - Jen Cardini - Fawks - Kudeki at TBA - San Francisco on Fri 25 Sept, Sanfrancisco. 4 acts on the bill: Fawks, Jen Cardini, Kudeki and Rene Wise. Techno and House. Preview the line-up and save it on soundcheck.
+MÜLL Folsom: Rene Wise - Jen Cardini - Fawks - Kudeki at TBA - San Francisco on Fri 25 Sept, San Francisco/Oakland. 4 artists on the bill: Fawks, Jen Cardini, Kudeki and Rene Wise. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

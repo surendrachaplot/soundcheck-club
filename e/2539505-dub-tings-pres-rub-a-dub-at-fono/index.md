@@ -1,6 +1,6 @@
 # Dub Tings Pres Rub-A-Dub at fono
 
-Dub Tings Pres Rub-A-Dub at fono on Sat 10 Oct, Kualalumpur. Dub and Dancehall. Preview the line-up and save it on soundcheck.
+Dub Tings Pres Rub-A-Dub at fono on Sat 10 Oct, Kuala Lumpur. Dub and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

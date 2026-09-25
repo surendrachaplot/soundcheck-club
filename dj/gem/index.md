@@ -2,7 +2,7 @@
 
 Gem is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Planet Wax, London on Thu, 1 Oct 2026.
 
-Gem is a tech house and house artist based in Japan, tracked on soundcheck, with 13 sets logged across London, Losangeles, Tokyo and Toronto and 2 more. Often billed alongside Koki, RUDEE NIK and ANGEL CANNON. Next up: Planet Wax, London on Thu 1 Oct.
+Gem is a tech house and house artist based in Japan, tracked on soundcheck, with 13 sets logged across London, Los Angeles, Tokyo and Toronto and 2 more. Often billed alongside Koki, RUDEE NIK and ANGEL CANNON. Next up: Planet Wax, London on Thu 1 Oct.
 
 ## Upcoming shows
 

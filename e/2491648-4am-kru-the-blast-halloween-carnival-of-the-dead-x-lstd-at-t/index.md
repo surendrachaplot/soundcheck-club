@@ -1,6 +1,6 @@
 # 4am Kru | [The Blast] Halloween Carnival of the Dead x LSTD at The Prospect Building
 
-4am Kru | [The Blast] Halloween Carnival of the Dead x LSTD at The Prospect Building on Sat 31 Oct, Bristol. 15 acts on the bill: 4am Kru, Blackeye MC, Chimpo and DJ Storm and 11 more. Bass and Jungle. Preview the line-up and save it on soundcheck.
+4am Kru | [The Blast] Halloween Carnival of the Dead x LSTD at The Prospect Building on Sat 31 Oct, Bristol. 15 artists on the bill: 4am Kru, Blackeye MC, Chimpo and DJ Storm and 11 more. Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

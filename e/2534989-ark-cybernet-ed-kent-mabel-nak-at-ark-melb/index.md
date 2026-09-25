@@ -1,6 +1,6 @@
 # ark // Cybernet - Ed Kent - Mabel - Nak at ark (Melb)
 
-ark // Cybernet - Ed Kent - Mabel - Nak at ark (Melb) on Sat 19 Dec, Melbourne. 4 acts on the bill: Cybernet, Ed Kent, Mabel and Nak (AU). Progressive House and Techno. Preview the line-up and save it on soundcheck.
+ark // Cybernet - Ed Kent - Mabel - Nak at ark (Melb) on Sat 19 Dec, Melbourne. 4 artists on the bill: Cybernet, Ed Kent, Mabel and Nak (AU). Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

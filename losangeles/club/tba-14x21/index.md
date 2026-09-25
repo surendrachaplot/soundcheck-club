@@ -2,7 +2,7 @@
 
 TBA - 14x21 is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Psychic Skin & 14x21: Razrbark, Miles Mercer" on Fri, 2 Oct 2026.
 
-TBA - 14x21 is a music venue in Losangeles listed on soundcheck. 1 upcoming gig, with line-ups including Luke Mele, Miles Mercer and Razrbark. Browse upcoming dates, start times and who's playing.
+TBA - 14x21 is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Luke Mele, Miles Mercer and Razrbark. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

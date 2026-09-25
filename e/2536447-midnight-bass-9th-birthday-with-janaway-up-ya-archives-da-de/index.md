@@ -1,6 +1,6 @@
 # Midnight Bass 9th Birthday with Janaway (Up Ya Archives / Da Demolition Squad) at La Cheetah Club
 
-Midnight Bass 9th Birthday with Janaway (Up Ya Archives / Da Demolition Squad) at La Cheetah Club on Fri 25 Sept, Glasgow. 3 acts on the bill: ArthurDnB, Janaway and SOLECTA. Jungle. Preview the line-up and save it on soundcheck.
+Midnight Bass 9th Birthday with Janaway (Up Ya Archives / Da Demolition Squad) at La Cheetah Club on Fri 25 Sept, Glasgow. 3 artists on the bill: ArthurDnB, Janaway and SOLECTA. Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

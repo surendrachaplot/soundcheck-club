@@ -1,6 +1,6 @@
 # COLLECT RADIO w/ FONZI at Collect LX Factory
 
-COLLECT RADIO w/ FONZI at Collect LX Factory on Mon 28 Sept, Lisbon. 1 act on the bill: Fonzi (2). Techno and House. Preview the line-up and save it on soundcheck.
+COLLECT RADIO w/ FONZI at Collect LX Factory on Mon 28 Sept, Lisbon. 1 artist on the bill: Fonzi. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

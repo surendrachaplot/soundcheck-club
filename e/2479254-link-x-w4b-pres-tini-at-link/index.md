@@ -1,6 +1,6 @@
 # Link X W4B pres. tINI at Link
 
-Link X W4B pres. tINI on Sat 10 Oct, Bologna. 4 acts on the bill: 2VIBES, Flavio Deff, Rond (1) and tINI. Preview the line-up and save it on soundcheck.
+Link X W4B pres. tINI on Sat 10 Oct, Bologna. 4 artists on the bill: 2VIBES, Flavio Deff, Rond and tINI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

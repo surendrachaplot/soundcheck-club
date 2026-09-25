@@ -1,6 +1,6 @@
 # (Avec) Courage x SAT — Ricardo Villalobos b2b Maher Daniel • Wetsuit at Société des arts technologiques
 
-(Avec) Courage x SAT — Ricardo Villalobos b2b Maher Daniel • Wetsuit at Société des arts technologiques on Sat 26 Sept, Montreal. 4 acts on the bill: Maher Daniel, Ohm Hourani, Ricardo Villalobos and Vincent Lemieux. Preview the line-up and save it on soundcheck.
+(Avec) Courage x SAT — Ricardo Villalobos b2b Maher Daniel • Wetsuit at Société des arts technologiques on Sat 26 Sept, Montreal. 4 artists on the bill: Maher Daniel, Ohm Hourani, Ricardo Villalobos and Vincent Lemieux. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

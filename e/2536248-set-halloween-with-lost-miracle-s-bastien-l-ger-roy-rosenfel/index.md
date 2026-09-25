@@ -1,6 +1,6 @@
 # SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori LA at TBA - Downtown LA
 
-SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori LA at TBA - Downtown LA on Sat 31 Oct, Losangeles. 3 acts on the bill: Roy Rosenfeld, Satori and Sebastien Leger. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori LA at TBA - Downtown LA on Sat 31 Oct, Los Angeles. 3 artists on the bill: Roy Rosenfeld, Satori and Sebastien Leger. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

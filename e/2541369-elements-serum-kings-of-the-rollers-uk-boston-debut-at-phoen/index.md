@@ -1,6 +1,6 @@
 # elements - Serum (Kings of the Rollers - UK) Boston debut at Phoenix Landing
 
-elements - Serum (Kings of the Rollers - UK) Boston debut at Phoenix Landing on Thu 1 Oct, Boston. 2 acts on the bill: Lenore and Serum (UK). Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+elements - Serum (Kings of the Rollers - UK) Boston debut at Phoenix Landing on Thu 1 Oct, Boston. 2 artists on the bill: Lenore and Serum (UK). Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

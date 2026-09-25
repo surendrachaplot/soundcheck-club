@@ -1,6 +1,6 @@
 # Social Studies presents: Scott Zacharias (Detroit) at The Lower Level
 
-Social Studies presents: Scott Zacharias (Detroit) at The Lower Level on Fri 25 Sept, Boston. 1 act on the bill: Scott Zacharias. House and Electronica. Preview the line-up and save it on soundcheck.
+Social Studies presents: Scott Zacharias (Detroit) at The Lower Level on Fri 25 Sept, Boston. 1 artist on the bill: Scott Zacharias. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

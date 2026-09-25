@@ -2,7 +2,7 @@
 
 Khen is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
-Khen is a progressive house and house artist based in Israel, tracked on soundcheck, with 68 sets logged across Amsterdam, Auckland, Barcelona and Budapest and 23 more. Often billed alongside Guy J, Guy Mantzur and Roy Rosenfeld. Next up: Knockdown Center, Newyorkcity on Fri 2 Oct.
+Khen is a progressive house and house artist based in Israel, tracked on soundcheck, with 68 sets logged across Amsterdam, Auckland, Barcelona and Budapest and 23 more. Often billed alongside Guy J, Guy Mantzur and Roy Rosenfeld. Next up: Knockdown Center, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 

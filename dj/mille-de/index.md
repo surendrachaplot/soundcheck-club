@@ -2,7 +2,7 @@
 
 MILLE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 25 Sept 2026.
 
-MILLE is a house and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Dusseldorf, Hamburg and London and 1 more. Often billed alongside Mille (DE), DJ MILLE and Momo. Next up: Golden Pudel Club, Hamburg on Fri 25 Sept.
+MILLE is a house and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Düsseldorf, Hamburg and London and 1 more. Often billed alongside Mille (DE), DJ MILLE and Momo. Next up: Golden Pudel Club, Hamburg on Fri 25 Sept.
 
 ## Upcoming shows
 

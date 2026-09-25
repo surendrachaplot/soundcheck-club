@@ -1,6 +1,6 @@
 # FUSE is 10 pt.4: Flowdan x Kahn, Neffa-T, Freshta + more at Stereo
 
-FUSE is 10 pt.4: Flowdan x Kahn, Neffa-T, Freshta + more at Stereo on Sat 3 Oct, Glasgow. 8 acts on the bill: Flowdan, Freshta, Hometown Sound and Kahn and 4 more. Dubstep and Grime. Preview the line-up and save it on soundcheck.
+FUSE is 10 pt.4: Flowdan x Kahn, Neffa-T, Freshta + more at Stereo on Sat 3 Oct, Glasgow. 8 artists on the bill: Flowdan, Freshta, Hometown Sound and Kahn and 4 more. Dubstep and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DOLLS B2B BEARS at TRANSMISSION DC
 
-DOLLS B2B BEARS at TRANSMISSION DC on Sat 26 Sept, Washingtondc. 3 acts on the bill: Girlypop Princess, Hannah Account and Harley (1). Preview the line-up and save it on soundcheck.
+DOLLS B2B BEARS at TRANSMISSION DC on Sat 26 Sept, Washington DC. 3 artists on the bill: Girlypop Princess, Hannah Account and Harley. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

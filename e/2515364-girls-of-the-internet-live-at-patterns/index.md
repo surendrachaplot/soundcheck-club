@@ -1,6 +1,6 @@
 # Girls of the Internet (Live) at Patterns
 
-Girls of the Internet (Live) at Patterns on Fri 27 Nov, Brighton. 1 act on the bill: Girls of the Internet. Preview the line-up and save it on soundcheck.
+Girls of the Internet (Live) at Patterns on Fri 27 Nov, Brighton. 1 artist on the bill: Girls of the Internet. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

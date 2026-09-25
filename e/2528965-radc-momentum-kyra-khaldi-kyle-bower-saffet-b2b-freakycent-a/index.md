@@ -1,6 +1,6 @@
 # RADC Momentum — Kyra Khaldi, Kyle Bower, saffet b2b Freakycent at Post Bar
 
-RADC Momentum — Kyra Khaldi, Kyle Bower, saffet b2b Freakycent at Post Bar on Fri 9 Oct, Helsinki. 3 acts on the bill: Freakycent, Kyle Bower and Kyra Khaldi. Preview the line-up and save it on soundcheck.
+RADC Momentum — Kyra Khaldi, Kyle Bower, saffet b2b Freakycent at Post Bar on Fri 9 Oct, Helsinki. 3 artists on the bill: Freakycent, Kyle Bower and Kyra Khaldi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

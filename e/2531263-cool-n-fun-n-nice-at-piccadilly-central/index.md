@@ -1,6 +1,6 @@
 # Cool N'Fun N'Nice at Piccadilly Central
 
-Cool N'Fun N'Nice at Piccadilly Central on Fri 25 Sept, Manchester. 4 acts on the bill: Alex Moore, DJ Batehoven, KURLZ and Sharayda. House and Disco. Preview the line-up and save it on soundcheck.
+Cool N'Fun N'Nice at Piccadilly Central on Fri 25 Sept, Manchester. 4 artists on the bill: Alex Moore, DJ Batehoven, KURLZ and Sharayda. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

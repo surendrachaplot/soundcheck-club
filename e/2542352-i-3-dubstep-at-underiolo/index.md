@@ -1,6 +1,6 @@
 # I <3 DUBSTEP at underiolo
 
-I <3 DUBSTEP at underiolo on Fri 6 Nov, Warsaw. 3 acts on the bill: Caletti, faron and illgal. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+I <3 DUBSTEP at underiolo on Fri 6 Nov, Warsaw. 3 artists on the bill: Caletti, faron and illgal. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

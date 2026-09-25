@@ -1,6 +1,6 @@
 # Emika - Fountain Immersive (Dolby Atmos Pre-Release Listening Event) - München at msm-Studio
 
-Emika - Fountain Immersive (Dolby Atmos Pre-Release Listening Event) - München at msm-Studio on Wed 28 Oct, Munich. 1 act on the bill: Emika. Classical and Electronica. Preview the line-up and save it on soundcheck.
+Emika - Fountain Immersive (Dolby Atmos Pre-Release Listening Event) - München at msm-Studio on Wed 28 Oct, Munich. 1 artist on the bill: Emika. Classical and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

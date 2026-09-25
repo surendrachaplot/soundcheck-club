@@ -1,6 +1,6 @@
 # Demuir - Andrew Emil - iamBrandon at smartbar
 
-Demuir - Andrew Emil - iamBrandon at smartbar on Sat 17 Oct, Chicago. 3 acts on the bill: Andrew Emil, Demuir and iamBrandon. House and Deep House. Preview the line-up and save it on soundcheck.
+Demuir - Andrew Emil - iamBrandon at smartbar on Sat 17 Oct, Chicago. 3 artists on the bill: Andrew Emil, Demuir and iamBrandon. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

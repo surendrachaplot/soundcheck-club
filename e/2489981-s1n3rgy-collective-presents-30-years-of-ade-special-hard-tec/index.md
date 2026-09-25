@@ -1,6 +1,6 @@
 # S1N3RGY COLLECTIVE PRESENTS: 30 YEARS OF ADE - SPECIAL HARD TECHNO RAVE at John Doe
 
-S1N3RGY COLLECTIVE PRESENTS: 30 YEARS OF ADE - SPECIAL HARD TECHNO RAVE at John Doe on Sat 24 Oct, Amsterdam. 4 acts on the bill: Billy Currie, DMS1N3RGY, KR:KD K and TEKON. Techno. Preview the line-up and save it on soundcheck.
+S1N3RGY COLLECTIVE PRESENTS: 30 YEARS OF ADE - SPECIAL HARD TECHNO RAVE at John Doe on Sat 24 Oct, Amsterdam. 4 artists on the bill: Billy Currie, DMS1N3RGY, KR:KD K and TEKON. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

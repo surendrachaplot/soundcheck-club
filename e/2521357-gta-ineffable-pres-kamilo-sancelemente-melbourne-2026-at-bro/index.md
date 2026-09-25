@@ -1,6 +1,6 @@
 # GTA & INEFFABLE Pres: KAMILO SANCELEMENTE MELBOURNE 2026 at Brown Alley
 
-GTA & INEFFABLE Pres: KAMILO SANCELEMENTE MELBOURNE 2026 at Brown Alley on Fri 16 Oct, Melbourne. 4 acts on the bill: Gaston Gari, INFINITY, Kamilo Sanclemente and Taglo. Techno and Deep House. Preview the line-up and save it on soundcheck.
+GTA & INEFFABLE Pres: KAMILO SANCELEMENTE MELBOURNE 2026 at Brown Alley on Fri 16 Oct, Melbourne. 4 artists on the bill: Gaston Gari, INFINITY, Kamilo Sanclemente and Taglo. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

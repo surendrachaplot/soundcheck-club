@@ -1,6 +1,6 @@
 # Espora season begins in fall at TBA - Secret Location (Madrid)
 
-Espora season begins in fall at TBA - Secret Location (Madrid) on Sat 17 Oct, Madrid. 5 acts on the bill: Butter.Jim, Cristal Roto, Killo and ONA (SP) and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
+Espora season begins in fall at TBA - Secret Location (Madrid) on Sat 17 Oct, Madrid. 5 artists on the bill: Butter.Jim, Cristal Roto, Killo and ONA (SP) and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

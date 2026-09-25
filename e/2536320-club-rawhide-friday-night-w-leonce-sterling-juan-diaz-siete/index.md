@@ -1,6 +1,6 @@
 # Club Rawhide FRIDAY NIGHT w/ Leonce, Sterling Juan Diaz, SIETE at Club Rawhide
 
-Club Rawhide FRIDAY NIGHT w/ Leonce, Sterling Juan Diaz, SIETE on Fri 25 Sept, Newyorkcity. 3 acts on the bill: Leonce, SIETE and Sterling Juan Diaz. Techno and House. Preview the line-up and save it on soundcheck.
+Club Rawhide FRIDAY NIGHT w/ Leonce, Sterling Juan Diaz, SIETE on Fri 25 Sept, New York City. 3 artists on the bill: Leonce, SIETE and Sterling Juan Diaz. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

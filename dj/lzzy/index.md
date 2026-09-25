@@ -2,7 +2,7 @@
 
 LZZY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
 
-LZZY is a house and techno artist based in Malaysia, tracked on soundcheck, with 65 sets logged across Kualalumpur, Lisbon and Singapore. Often billed alongside JonnyVicious, Roshan and Rimka. Next up: TBA - Mantra Rooftop Bar & Lounge, Kualalumpur on Sat 3 Oct.
+LZZY is a house and techno artist based in Malaysia, tracked on soundcheck, with 65 sets logged across Kuala Lumpur, Lisbon and Singapore. Often billed alongside JonnyVicious, Roshan and Rimka. Next up: TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat 3 Oct.
 
 ## Upcoming shows
 

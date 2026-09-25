@@ -1,6 +1,6 @@
 # Eddie Fowlkes at TV Lounge
 
-Eddie Fowlkes at TV Lounge on Sat 26 Sept, Detroit. 2 acts on the bill: Eddie Fowlkes and JMT (2). Techno and House. Preview the line-up and save it on soundcheck.
+Eddie Fowlkes at TV Lounge on Sat 26 Sept, Detroit. 2 artists on the bill: Eddie Fowlkes and JMT. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

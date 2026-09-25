@@ -2,7 +2,7 @@
 
 Constructible is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, New York City on Fri, 9 Oct 2026.
 
-Constructible is a techno and ambient artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity and Washingtondc. Often billed alongside Scotia, boy_c0ded and crnk.dgtl. Next up: TBA, Newyorkcity on Fri 9 Oct.
+Constructible is a techno and ambient artist based in United States of America, tracked on soundcheck, with 11 sets logged across New York City and Washington DC. Often billed alongside Scotia, boy_c0ded and crnk.dgtl. Next up: TBA, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 

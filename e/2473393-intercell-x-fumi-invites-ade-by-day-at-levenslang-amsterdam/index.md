@@ -1,6 +1,6 @@
 # Intercell x fumi Invites - ADE By Day at Levenslang Amsterdam
 
-Intercell x fumi Invites - ADE By Day at Levenslang Amsterdam on Sun 25 Oct, Amsterdam. 6 acts on the bill: Daria Kolosova, fumi (DE), HUJUS and ines isla and 2 more. Preview the line-up and save it on soundcheck.
+Intercell x fumi Invites - ADE By Day at Levenslang Amsterdam on Sun 25 Oct, Amsterdam. 6 artists on the bill: Daria Kolosova, fumi (DE), HUJUS and ines isla and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Returning Nomind Records X Tawfire at Bar Temp.
 
-Returning Nomind Records X Tawfire at Bar Temp. on Fri 25 Sept, Bangkok. 3 acts on the bill: Meltmode (2), Tissanai and Wildealer. House and Tech House. Preview the line-up and save it on soundcheck.
+Returning Nomind Records X Tawfire at Bar Temp. on Fri 25 Sept, Bangkok. 3 artists on the bill: Meltmode, Tissanai and Wildealer. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

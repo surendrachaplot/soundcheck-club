@@ -1,6 +1,6 @@
 # CATS at Supermarket
 
-CATS at Supermarket on Sat 10 Oct, Zurich. 3 acts on the bill: And Hazel, De La Maso and Joe Vanditti. Tech House. Preview the line-up and save it on soundcheck.
+CATS at Supermarket on Sat 10 Oct, Zurich. 3 artists on the bill: And Hazel, De La Maso and Joe Vanditti. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

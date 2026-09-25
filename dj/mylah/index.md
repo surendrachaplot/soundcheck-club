@@ -2,7 +2,7 @@
 
 MYLAH is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Under Club, Buenos Aires on Fri, 25 Sept 2026.
 
-MYLAH is a techno and hardcore artist based in Argentina, tracked on soundcheck, with 24 sets logged across Berlin, Buenosaires and Madrid. Often billed alongside JULIETA LAKE, EDUVEK and KØLPØS. Next up: Under Club, Buenosaires on Fri 25 Sept.
+MYLAH is a techno and hardcore artist based in Argentina, tracked on soundcheck, with 24 sets logged across Berlin, Buenos Aires and Madrid. Often billed alongside JULIETA LAKE, EDUVEK and KØLPØS. Next up: Under Club, Buenos Aires on Fri 25 Sept.
 
 ## Upcoming shows
 

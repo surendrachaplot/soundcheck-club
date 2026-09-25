@@ -1,6 +1,6 @@
 # CRSSD Festival Fall 2026 at Waterfront Park in San Diego
 
-CRSSD Festival Fall 2026 at Waterfront Park in San Diego on Sat 26 Sept, Sandiego. 40 acts on the bill: 999999999, Adam Sellouk, Ahadadream and ARODES and 36 more. Preview the line-up and save it on soundcheck.
+CRSSD Festival Fall 2026 at Waterfront Park in San Diego on Sat 26 Sept, San Diego. 40 artists on the bill: 999999999, Adam Sellouk, Ahadadream and ARODES and 36 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

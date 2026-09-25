@@ -1,6 +1,6 @@
 # SHE RAVES - INVITES Alex Nantaya at Halle W
 
-SHE RAVES - INVITES Alex Nantaya at Halle W on Fri 25 Sept, Geneva. 2 acts on the bill: Alex Nantaya and ALL1SØN. Techno and Acid. Preview the line-up and save it on soundcheck.
+SHE RAVES - INVITES Alex Nantaya at Halle W on Fri 25 Sept, Geneva. 2 artists on the bill: Alex Nantaya and ALL1SØN. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

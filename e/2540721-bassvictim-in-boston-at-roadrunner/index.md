@@ -1,6 +1,6 @@
 # Bassvictim in Boston at Roadrunner
 
-Bassvictim in Boston at Roadrunner on Mon 26 Oct, Boston. 2 acts on the bill: Bassvictim and Thoom. Preview the line-up and save it on soundcheck.
+Bassvictim in Boston at Roadrunner on Mon 26 Oct, Boston. 2 artists on the bill: Bassvictim and Thoom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

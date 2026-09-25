@@ -1,6 +1,6 @@
 # Le Sucre, 24 heures at Le Sucre
 
-Le Sucre, 24 heures on Sat 26 Sept, Lyon. 11 acts on the bill: Airod, CallBackSami, DJ Physical and Jacidorex and 7 more. Techno. Preview the line-up and save it on soundcheck.
+Le Sucre, 24 heures on Sat 26 Sept, Lyon. 11 artists on the bill: Airod, CallBackSami, DJ Physical and Jacidorex and 7 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

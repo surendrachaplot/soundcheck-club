@@ -1,6 +1,6 @@
 # Thursday Volnost at Volnost
 
-Thursday Volnost on Thu 24 Sept, Seoul. 2 acts on the bill: Hwiah and Recy. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Thursday Volnost on Thu 24 Sept, Seoul. 2 artists on the bill: Hwiah and Recy. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NT's Loft: LEV (All Night Long) at Night Tales Loft
 
-NT's Loft: LEV (All Night Long) at Night Tales Loft on Sat 17 Oct, London. 1 act on the bill: LEV (UK). Preview the line-up and save it on soundcheck.
+NT's Loft: LEV (All Night Long) at Night Tales Loft on Sat 17 Oct, London. 1 artist on the bill: LEV (UK). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

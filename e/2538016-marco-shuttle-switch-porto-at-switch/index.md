@@ -1,6 +1,6 @@
 # Marco Shuttle - Switch Porto at Switch
 
-Marco Shuttle - Switch Porto on Sat 3 Oct, Porto. 1 act on the bill: Marco Shuttle. Preview the line-up and save it on soundcheck.
+Marco Shuttle - Switch Porto on Sat 3 Oct, Porto. 1 artist on the bill: Marco Shuttle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

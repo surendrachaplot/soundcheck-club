@@ -1,6 +1,6 @@
 # Restricted at Royale
 
-Restricted at Royale on Sat 17 Oct, Boston. 1 act on the bill: Restricted. Techno and Acid. Preview the line-up and save it on soundcheck.
+Restricted at Royale on Sat 17 Oct, Boston. 1 artist on the bill: Restricted. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

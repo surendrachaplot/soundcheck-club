@@ -1,6 +1,6 @@
 # Kode9 all night feat. RP Boo & BAE BAE at The White Hotel
 
-Kode9 all night feat. RP Boo & BAE BAE at The White Hotel on Sat 24 Oct, Manchester. 3 acts on the bill: BAE BAE, Kode9 and RP Boo. Preview the line-up and save it on soundcheck.
+Kode9 all night feat. RP Boo & BAE BAE at The White Hotel on Sat 24 Oct, Manchester. 3 artists on the bill: BAE BAE, Kode9 and RP Boo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

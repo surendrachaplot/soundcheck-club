@@ -1,6 +1,6 @@
 # Doka Studio with MUSCLECARS - Eileen at Doka
 
-Doka Studio with MUSCLECARS - Eileen on Fri 16 Oct, Amsterdam. 2 acts on the bill: Eileen (NL) and MUSCLECARS. Disco. Preview the line-up and save it on soundcheck.
+Doka Studio with MUSCLECARS - Eileen on Fri 16 Oct, Amsterdam. 2 artists on the bill: Eileen (NL) and MUSCLECARS. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # JACOBDIOR PRESENTS HALLOWEEN at Mood Ring
 
-JACOBDIOR PRESENTS HALLOWEEN at Mood Ring on Sat 31 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+JACOBDIOR PRESENTS HALLOWEEN at Mood Ring on Sat 31 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

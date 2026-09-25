@@ -1,6 +1,6 @@
 # Bel Cobain at 24 Kitchen St at 24 Kitchen Street
 
-Bel Cobain at 24 Kitchen St at 24 Kitchen Street on Sat 24 Oct, Liverpool. 1 act on the bill: Bel Cobain. Jazz and R&B. Preview the line-up and save it on soundcheck.
+Bel Cobain at 24 Kitchen St at 24 Kitchen Street on Sat 24 Oct, Liverpool. 1 artist on the bill: Bel Cobain. Jazz and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 agraybé is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - DTLA, Los Angeles on Sun, 27 Sept 2026.
 
-agraybé is a house and deep house artist based in United States of America, tracked on soundcheck, with 87 sets logged across Chicago, Detroit, Losangeles and Sandiego and 1 more. Often billed alongside Akumen, Andy Oro and No Pressure. Next up: TBA - DTLA, Losangeles on Sun 27 Sept.
+agraybé is a house and deep house artist based in United States of America, tracked on soundcheck, with 87 sets logged across Chicago, Detroit, Los Angeles and San Diego and 1 more. Often billed alongside Akumen, Andy Oro and No Pressure. Next up: TBA - DTLA, Los Angeles on Sun 27 Sept.
 
 ## Upcoming shows
 

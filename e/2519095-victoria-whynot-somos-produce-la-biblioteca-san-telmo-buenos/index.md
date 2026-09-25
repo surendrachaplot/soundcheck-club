@@ -1,6 +1,6 @@
 # VICTORIA WHYNOT, Somos Produce, La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo
 
-VICTORIA WHYNOT, Somos Produce, La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo on Sat 3 Oct, Buenosaires. 1 act on the bill: VICTORIA WHYNOT. Techno and House. Preview the line-up and save it on soundcheck.
+VICTORIA WHYNOT, Somos Produce, La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo on Sat 3 Oct, Buenos Aires. 1 artist on the bill: VICTORIA WHYNOT. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

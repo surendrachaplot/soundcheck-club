@@ -1,6 +1,6 @@
 # Discos Movimiento at OHM
 
-Discos Movimiento at OHM on Sat 7 Nov, Berlin. 5 acts on the bill: AliA, Candy Pollard, DJ Fart in the Club and O-Wells and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Discos Movimiento at OHM on Sat 7 Nov, Berlin. 5 artists on the bill: AliA, Candy Pollard, DJ Fart in the Club and O-Wells and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

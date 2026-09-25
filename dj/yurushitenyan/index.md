@@ -1,14 +1,15 @@
 # Yurushite Nyan
 
-Yurushite Nyan is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ZEROTOKYO, Tokyo on Thu, 24 Sept 2026.
+Yurushite Nyan is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ZEROTOKYO, Tokyo on Thu, 24 Sept 2026.
 
-Yurushite Nyan is a techno and club artist based in Japan, tracked on soundcheck, with 52 sets logged across Tokyo. Often billed alongside MUNÉO, illequal and NordOst. Next up: ZEROTOKYO, Tokyo on Thu 24 Sept.
+Yurushite Nyan is a techno and club artist based in Japan, tracked on soundcheck, with 53 sets logged across Tokyo. Often billed alongside MUNÉO, illequal and NordOst. Next up: ZEROTOKYO, Tokyo on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | ZEROTOKYO | Tokyo |
+| Fri, 23 Oct 2026 | Forestlimit | Tokyo |
 
 ## Recently played
 

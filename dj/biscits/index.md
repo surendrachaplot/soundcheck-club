@@ -2,7 +2,7 @@
 
 Biscits is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Beach House San Diego, San Diego on Fri, 9 Oct 2026.
 
-Biscits is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Austin, Boston, Brisbane and Chicago and 23 more. Often billed alongside Sonny Fodera, Gorgon City and Azzecca. Next up: Beach House San Diego, Sandiego on Fri 9 Oct.
+Biscits is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Austin, Boston, Brisbane and Chicago and 23 more. Often billed alongside Sonny Fodera, Gorgon City and Azzecca. Next up: Beach House San Diego, San Diego on Fri 9 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Kosmic at Macarena Club
 
-Kosmic at Macarena Club on Thu 24 Sept, Barcelona. 3 acts on the bill: HeAndMe, Ivan Pugliares and Reezar. Preview the line-up and save it on soundcheck.
+Kosmic at Macarena Club on Thu 24 Sept, Barcelona. 3 artists on the bill: HeAndMe, Ivan Pugliares and Reezar. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

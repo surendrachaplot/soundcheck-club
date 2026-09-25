@@ -1,6 +1,6 @@
 # Pasillos Silenciosos Vinyl Release Party - 3RU + Antonio Ocasio at Dead Letter No. 9
 
-Pasillos Silenciosos Vinyl Release Party - 3RU + Antonio Ocasio at Dead Letter No. 9 on Sat 26 Sept, Newyorkcity. 1 act on the bill: Yurk. Preview the line-up and save it on soundcheck.
+Pasillos Silenciosos Vinyl Release Party - 3RU + Antonio Ocasio at Dead Letter No. 9 on Sat 26 Sept, New York City. 1 artist on the bill: Yurk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

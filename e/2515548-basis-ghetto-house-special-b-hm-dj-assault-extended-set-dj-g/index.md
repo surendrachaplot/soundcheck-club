@@ -1,6 +1,6 @@
 # BASIS/ Ghetto House Special/ Böhm/ DJ Assault [extended set]/ DJ Godfather/ ZORA Soundsystem at BASIS
 
-BASIS/ Ghetto House Special/ Böhm/ DJ Assault [extended set]/ DJ Godfather/ ZORA Soundsystem on Fri 9 Oct, Utrecht. 3 acts on the bill: Bohm, DJ Assault and DJ Godfather. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
+BASIS/ Ghetto House Special/ Böhm/ DJ Assault [extended set]/ DJ Godfather/ ZORA Soundsystem on Fri 9 Oct, Utrecht. 3 artists on the bill: Bohm, DJ Assault and DJ Godfather. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

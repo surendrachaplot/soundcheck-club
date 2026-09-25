@@ -1,13 +1,14 @@
 # Guillaume & The Coutu Dumonts
 
-Guillaume & The Coutu Dumonts is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hevre, Krakow on Sat, 17 Oct 2026.
+Guillaume & The Coutu Dumonts is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 10 Oct 2026.
 
-Guillaume & The Coutu Dumonts are a techno and experimental duo based in Canada, tracked on soundcheck, with 17 sets logged across Berlin, Krakow, Montreal and Seoul and 2 more. Often billed alongside Vincent Lemieux, Flabbergast and Mari.te. Next up: Hevre, Krakow on Sat 17 Oct.
+Guillaume & The Coutu Dumonts are a techno and experimental duo based in Canada, tracked on soundcheck, with 18 sets logged across Berlin, Krakow, Montreal and Seoul and 2 more. Often billed alongside Vincent Lemieux, Flabbergast and Mari.te. Next up: Haus der Visionäre, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Haus der Visionäre | Berlin |
 | Sat, 17 Oct 2026 | Hevre | Krakow |
 
 ## Recently played

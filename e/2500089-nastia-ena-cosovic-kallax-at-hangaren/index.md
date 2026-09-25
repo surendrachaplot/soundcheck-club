@@ -1,6 +1,6 @@
 # Nastia, Ena Cosovic, Kallax at Hangaren
 
-Nastia, Ena Cosovic, Kallax at Hangaren on Fri 2 Oct, Copenhagen. 3 acts on the bill: Ena Cosovic, Kallax and Nastia. Trance and Techno. Preview the line-up and save it on soundcheck.
+Nastia, Ena Cosovic, Kallax at Hangaren on Fri 2 Oct, Copenhagen. 3 artists on the bill: Ena Cosovic, Kallax and Nastia. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

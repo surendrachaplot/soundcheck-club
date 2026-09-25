@@ -1,6 +1,6 @@
 # STEVE LAWLER - HALLOWEEN at Story Toronto
 
-STEVE LAWLER - HALLOWEEN at Story Toronto on Sat 31 Oct, Toronto. 1 act on the bill: TBA. Techno. Preview the line-up and save it on soundcheck.
+STEVE LAWLER - HALLOWEEN at Story Toronto on Sat 31 Oct, Toronto. 1 artist on the bill: TBA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

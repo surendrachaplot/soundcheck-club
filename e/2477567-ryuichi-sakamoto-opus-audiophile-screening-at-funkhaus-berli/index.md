@@ -1,6 +1,6 @@
 # Ryuichi Sakamoto Opus (Audiophile Screening) at Funkhaus Berlin
 
-Ryuichi Sakamoto Opus (Audiophile Screening) at Funkhaus Berlin on Sat 26 Sept, Berlin. 2 acts on the bill: Alva Noto and Ryuichi Sakamoto. Preview the line-up and save it on soundcheck.
+Ryuichi Sakamoto Opus (Audiophile Screening) at Funkhaus Berlin on Sat 26 Sept, Berlin. 2 artists on the bill: Alva Noto and Ryuichi Sakamoto. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

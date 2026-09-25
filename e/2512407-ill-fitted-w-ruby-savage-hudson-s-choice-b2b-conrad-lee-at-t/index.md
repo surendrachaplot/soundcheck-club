@@ -1,6 +1,6 @@
 # ill Fitted w/ Ruby Savage & Hudson's Choice b2b Conrad Lee at The Glove That Fits
 
-ill Fitted w/ Ruby Savage & Hudson's Choice b2b Conrad Lee at The Glove That Fits on Sat 3 Oct, London. 5 acts on the bill: Conrad Lee, Dominic (UK), Hudson’s Choice and Lenny (UK) and 1 more. Deep House. Preview the line-up and save it on soundcheck.
+ill Fitted w/ Ruby Savage & Hudson's Choice b2b Conrad Lee at The Glove That Fits on Sat 3 Oct, London. 5 artists on the bill: Conrad Lee, Dominic (UK), Hudson’s Choice and Lenny (UK) and 1 more. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

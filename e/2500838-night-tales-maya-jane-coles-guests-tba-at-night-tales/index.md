@@ -1,6 +1,6 @@
 # Night Tales: Maya Jane Coles & Guests TBA at Night Tales
 
-Night Tales: Maya Jane Coles & Guests TBA on Fri 13 Nov, London. 1 act on the bill: Maya Jane Coles. House. Preview the line-up and save it on soundcheck.
+Night Tales: Maya Jane Coles & Guests TBA on Fri 13 Nov, London. 1 artist on the bill: Maya Jane Coles. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

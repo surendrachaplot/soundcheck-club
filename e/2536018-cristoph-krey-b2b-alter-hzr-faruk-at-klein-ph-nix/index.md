@@ -1,6 +1,6 @@
 # Cristoph + Krey b2b Alter + HZR + Faruk at Klein Phönix
 
-Cristoph + Krey b2b Alter + HZR + Faruk at Klein Phönix on Fri 25 Sept, Istanbul. 3 acts on the bill: Cristoph, HZR (1) and Krey. Preview the line-up and save it on soundcheck.
+Cristoph + Krey b2b Alter + HZR + Faruk at Klein Phönix on Fri 25 Sept, Istanbul. 3 artists on the bill: Cristoph, HZR and Krey. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

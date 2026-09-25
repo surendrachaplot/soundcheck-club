@@ -1,6 +1,6 @@
 # Julian Fijma at Night We Met
 
-Julian Fijma at Night We Met on Fri 13 Nov, Nashville. 1 act on the bill: Julian Fijma. House and Tech House. Preview the line-up and save it on soundcheck.
+Julian Fijma at Night We Met on Fri 13 Nov, Nashville. 1 artist on the bill: Julian Fijma. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

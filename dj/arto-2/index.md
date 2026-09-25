@@ -2,7 +2,7 @@
 
 Arto (2) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Baggen, Copenhagen on Sat, 26 Sept 2026.
 
-Arto (2) is a house and acid artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside Anton Goltermann, dj bootymagic and Max Finney. Next up: Baggen, Copenhagen on Sat 26 Sept.
+Arto is a house and acid artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside Anton Goltermann, dj bootymagic and Max Finney. Next up: Baggen, Copenhagen on Sat 26 Sept.
 
 ## Upcoming shows
 

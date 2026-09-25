@@ -1,6 +1,6 @@
 # HardNoises x Trocadero.GO$PEL, PENCIL, REGGIO at DETROIT CLUB
 
-HardNoises x Trocadero.GO$PEL, PENCIL, REGGIO at DETROIT CLUB on Sat 26 Sept, Barcelona. 1 act on the bill: REGGIO. Industrial. Preview the line-up and save it on soundcheck.
+HardNoises x Trocadero.GO$PEL, PENCIL, REGGIO at DETROIT CLUB on Sat 26 Sept, Barcelona. 1 artist on the bill: REGGIO. Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

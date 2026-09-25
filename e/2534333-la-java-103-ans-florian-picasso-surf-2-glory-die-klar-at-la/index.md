@@ -1,6 +1,6 @@
 # La Java 103 Ans: Florian Picasso, Surf 2 Glory, Die Klar at La Java
 
-La Java 103 Ans: Florian Picasso, Surf 2 Glory, Die Klar on Fri 16 Oct, Paris. 3 acts on the bill: Die Klar, Florian Picasso and Surf 2 Glory. Techno and Electro. Preview the line-up and save it on soundcheck.
+La Java 103 Ans: Florian Picasso, Surf 2 Glory, Die Klar on Fri 16 Oct, Paris. 3 artists on the bill: Die Klar, Florian Picasso and Surf 2 Glory. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

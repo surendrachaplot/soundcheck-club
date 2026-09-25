@@ -1,6 +1,6 @@
 # Tina Tornade at Le Lieu Unique / Nantes
 
-Tina Tornade at Le Lieu Unique / Nantes on Sat 10 Oct, Nantes. 1 act on the bill: Tina Tornade. House and Hard Drum. Preview the line-up and save it on soundcheck.
+Tina Tornade at Le Lieu Unique / Nantes on Sat 10 Oct, Nantes. 1 artist on the bill: Tina Tornade. House and Hard Drum. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

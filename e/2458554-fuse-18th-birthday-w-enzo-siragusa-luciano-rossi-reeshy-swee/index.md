@@ -1,6 +1,6 @@
 # FUSE 18th Birthday w/ Enzo Siragusa, Luciano, Rossi., Reeshy, Sweely, Marsolo at DRUMSHEDS
 
-FUSE 18th Birthday w/ Enzo Siragusa, Luciano, Rossi., Reeshy, Sweely, Marsolo at DRUMSHEDS on Sat 28 Nov, London. 22 acts on the bill: ADMNTi, Apollonia, Boss Priester and Dungeon Meat and 18 more. Tech House. Preview the line-up and save it on soundcheck.
+FUSE 18th Birthday w/ Enzo Siragusa, Luciano, Rossi., Reeshy, Sweely, Marsolo at DRUMSHEDS on Sat 28 Nov, London. 22 artists on the bill: ADMNTi, Apollonia, Boss Priester and Dungeon Meat and 18 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

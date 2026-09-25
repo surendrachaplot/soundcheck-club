@@ -1,6 +1,6 @@
 # Diskay à La Maroquinerie at La Maroquinerie
 
-Diskay à La Maroquinerie on Thu 8 Oct, Paris. 1 act on the bill: Diskay. House and Electro. Preview the line-up and save it on soundcheck.
+Diskay à La Maroquinerie on Thu 8 Oct, Paris. 1 artist on the bill: Diskay. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

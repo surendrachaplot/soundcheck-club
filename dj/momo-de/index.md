@@ -2,7 +2,7 @@
 
 Momo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 25 Sept 2026.
 
-Momo is a techno and house artist based in Germany, tracked on soundcheck, with 73 sets logged across Antwerp, Auckland, Berlin and Buenosaires and 14 more. Often billed alongside DJ MILLE, Marie Lung and Michal Zietara. Next up: Golden Pudel Club, Hamburg on Fri 25 Sept.
+Momo is a techno and house artist based in Germany, tracked on soundcheck, with 73 sets logged across Antwerp, Auckland, Berlin and Buenos Aires and 14 more. Often billed alongside DJ MILLE, Marie Lung and Michal Zietara. Next up: Golden Pudel Club, Hamburg on Fri 25 Sept.
 
 ## Upcoming shows
 

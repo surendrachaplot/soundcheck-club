@@ -1,6 +1,6 @@
 # Surpat: Goumeur Science N°001 at La Maison Bistrot
 
-Surpat: Goumeur Science N°001 at La Maison Bistrot on Fri 25 Sept, Paris. 3 acts on the bill: acideplastique, Claude B and Juste S. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Surpat: Goumeur Science N°001 at La Maison Bistrot on Fri 25 Sept, Paris. 3 artists on the bill: acideplastique, Claude B and Juste S. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

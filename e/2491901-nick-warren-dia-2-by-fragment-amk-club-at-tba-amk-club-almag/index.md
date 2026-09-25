@@ -1,6 +1,6 @@
 # Nick Warren [DIA 2] - by FRAGMENT, AMK CLUB at TBA - AMK Club, Almagro
 
-Nick Warren [DIA 2] - by FRAGMENT, AMK CLUB at TBA - AMK Club, Almagro on Sun 25 Oct, Buenosaires. 1 act on the bill: Nick Warren. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
+Nick Warren [DIA 2] - by FRAGMENT, AMK CLUB at TBA - AMK Club, Almagro on Sun 25 Oct, Buenos Aires. 1 artist on the bill: Nick Warren. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

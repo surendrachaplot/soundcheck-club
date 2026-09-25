@@ -1,6 +1,6 @@
 # MixTape - An Over 30s Day Rave at The Roxy
 
-MixTape - An Over 30s Day Rave at The Roxy on Sat 3 Oct, London. 1 act on the bill: That Perfect Fumble. Trance and Club. Preview the line-up and save it on soundcheck.
+MixTape - An Over 30s Day Rave at The Roxy on Sat 3 Oct, London. 1 artist on the bill: That Perfect Fumble. Trance and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

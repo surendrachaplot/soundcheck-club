@@ -1,6 +1,6 @@
 # FNGRS CRSSD presents &friends at EQ San Diego
 
-FNGRS CRSSD presents &friends at EQ San Diego on Fri 9 Oct, Sandiego. 1 act on the bill: &friends. Preview the line-up and save it on soundcheck.
+FNGRS CRSSD presents &friends at EQ San Diego on Fri 9 Oct, San Diego. 1 artist on the bill: &friends. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

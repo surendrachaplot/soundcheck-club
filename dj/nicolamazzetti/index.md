@@ -2,7 +2,7 @@
 
 Nicola Mazzetti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at DURO, Milan on Fri, 13 Nov 2026.
 
-Nicola Mazzetti is a techno and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside Marcello (2), Simone de Kunovich and Pascal Moscheni. Next up: DURO, Milan on Fri 13 Nov.
+Nicola Mazzetti is a techno and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside Marcello, Simone de Kunovich and Pascal Moscheni. Next up: DURO, Milan on Fri 13 Nov.
 
 ## Upcoming shows
 

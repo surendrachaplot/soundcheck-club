@@ -1,6 +1,6 @@
 # VYBE / HARDTRANCE & HARDBOUNCE / TICKETS 5€ at M-BIA
 
-VYBE / HARDTRANCE & HARDBOUNCE / TICKETS 5€ at M-BIA on Fri 25 Sept, Berlin. 4 acts on the bill: MØABEAT, mølly (on molly), Popsen and TECHSIA. Trance and Techno. Preview the line-up and save it on soundcheck.
+VYBE / HARDTRANCE & HARDBOUNCE / TICKETS 5€ at M-BIA on Fri 25 Sept, Berlin. 4 artists on the bill: MØABEAT, mølly (on molly), Popsen and TECHSIA. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

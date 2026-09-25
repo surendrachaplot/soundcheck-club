@@ -1,6 +1,6 @@
 # Kaufmann (DE) - Winter Series pres. by Thick As Thieves at Revolver Upstairs
 
-Kaufmann (DE) - Winter Series pres. by Thick As Thieves at Revolver Upstairs on Sun 4 Oct, Melbourne. 5 acts on the bill: Ben Silver, Boogs, Kaufmann and KELLY TEE and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Kaufmann (DE) - Winter Series pres. by Thick As Thieves at Revolver Upstairs on Sun 4 Oct, Melbourne. 5 artists on the bill: Ben Silver, Boogs, Kaufmann and KELLY TEE and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

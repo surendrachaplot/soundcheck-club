@@ -1,6 +1,6 @@
 # PiepShow - SeptemberPiep at KitKatClub
 
-PiepShow - SeptemberPiep at KitKatClub on Fri 25 Sept, Berlin. 11 acts on the bill: Bi Män, Chris Bekker, David Talzin and Ida Scheppert and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
+PiepShow - SeptemberPiep at KitKatClub on Fri 25 Sept, Berlin. 11 artists on the bill: Bi Män, Chris Bekker, David Talzin and Ida Scheppert and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

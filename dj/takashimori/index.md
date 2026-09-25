@@ -2,7 +2,7 @@
 
 Takashi Mori is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chitei 地底, Tokyo on Sat, 10 Oct 2026.
 
-Takashi Mori is a techno and experimental artist based in Japan, tracked on soundcheck, with 22 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside ACID NAGATA, Arao and Moli (3). Next up: Chitei 地底, Tokyo on Sat 10 Oct.
+Takashi Mori is a techno and experimental artist based in Japan, tracked on soundcheck, with 22 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside ACID NAGATA, Arao and Moli. Next up: Chitei 地底, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 

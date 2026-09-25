@@ -1,6 +1,6 @@
 # Carmela Collective 1st Year Anniversary at remove
 
-Carmela Collective 1st Year Anniversary at remove on Sat 26 Sept, Amsterdam. 3 acts on the bill: Calamidades Lola, Cameron Audio and Maki (PT). Latin Bass and Guaracha. Preview the line-up and save it on soundcheck.
+Carmela Collective 1st Year Anniversary at remove on Sat 26 Sept, Amsterdam. 3 artists on the bill: Calamidades Lola, Cameron Audio and Maki (PT). Latin Bass and Guaracha. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

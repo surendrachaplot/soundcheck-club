@@ -1,6 +1,6 @@
 # HOTMESS x Nightmess: Alycia Bezgo, Frederic., Toobris at La Cité Fertile
 
-HOTMESS x Nightmess: Alycia Bezgo, Frederic., Toobris at La Cité Fertile on Sun 4 Oct, Paris. 3 acts on the bill: Alycia Bezgo, Frederic. and Toobris. Techno. Preview the line-up and save it on soundcheck.
+HOTMESS x Nightmess: Alycia Bezgo, Frederic., Toobris at La Cité Fertile on Sun 4 Oct, Paris. 3 artists on the bill: Alycia Bezgo, Frederic. and Toobris. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

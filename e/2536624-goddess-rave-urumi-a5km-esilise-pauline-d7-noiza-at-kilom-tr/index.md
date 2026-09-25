@@ -1,6 +1,6 @@
 # GODDESS RAVE: Urumi, A5KM, Esilise, PAULINE D7 & NOIZA at Kilomètre25
 
-GODDESS RAVE: Urumi, A5KM, Esilise, PAULINE D7 & NOIZA at Kilomètre25 on Fri 2 Oct, Paris. 3 acts on the bill: Esilise, NOIZA and Urumi. Techno. Preview the line-up and save it on soundcheck.
+GODDESS RAVE: Urumi, A5KM, Esilise, PAULINE D7 & NOIZA at Kilomètre25 on Fri 2 Oct, Paris. 3 artists on the bill: Esilise, NOIZA and Urumi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

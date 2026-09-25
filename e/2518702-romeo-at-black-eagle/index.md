@@ -1,6 +1,6 @@
 # ROMEO at Black Eagle
 
-ROMEO at Black Eagle on Fri 25 Sept, Toronto. 3 acts on the bill: Jeremy Glenn, Phillippe and Zola (TRM). House and Club. Preview the line-up and save it on soundcheck.
+ROMEO at Black Eagle on Fri 25 Sept, Toronto. 3 artists on the bill: Jeremy Glenn, Phillippe and Zola (TRM). House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

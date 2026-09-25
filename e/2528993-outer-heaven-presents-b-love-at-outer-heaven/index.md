@@ -1,6 +1,6 @@
 # Outer Heaven presents: B.Love at Outer Heaven
 
-Outer Heaven presents: B.Love on Fri 25 Sept, Newyorkcity. 3 acts on the bill: B.Love, Rana Iravani and shanty mane. Tech House. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: B.Love on Fri 25 Sept, New York City. 3 artists on the bill: B.Love, Rana Iravani and shanty mane. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

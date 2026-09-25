@@ -1,6 +1,6 @@
 # BASIS/ BIIA All Night Long at BASIS
 
-BASIS/ BIIA All Night Long on Sat 3 Oct, Utrecht. 1 act on the bill: BIIA. Techno and Acid. Preview the line-up and save it on soundcheck.
+BASIS/ BIIA All Night Long on Sat 3 Oct, Utrecht. 1 artist on the bill: BIIA. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Current at Accidental Theatre
 
-Current at Accidental Theatre on Sat 10 Oct, Belfast. 2 acts on the bill: DJ SCHEMA and MKB (1). Trance and Techno. Preview the line-up and save it on soundcheck.
+Current at Accidental Theatre on Sat 10 Oct, Belfast. 2 artists on the bill: DJ SCHEMA and MKB. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

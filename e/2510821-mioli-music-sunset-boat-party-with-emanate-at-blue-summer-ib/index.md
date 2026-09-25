@@ -1,6 +1,6 @@
 # Mioli Music: Sunset Boat Party with Emanate at Blue Summer Ibiza Boat
 
-Mioli Music: Sunset Boat Party with Emanate at Blue Summer Ibiza Boat on Tue 20 Oct, Ibiza. 1 act on the bill: Emanate. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Mioli Music: Sunset Boat Party with Emanate at Blue Summer Ibiza Boat on Tue 20 Oct, Ibiza. 1 artist on the bill: Emanate. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

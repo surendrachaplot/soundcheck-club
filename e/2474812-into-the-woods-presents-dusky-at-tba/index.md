@@ -1,6 +1,6 @@
 # Into The Woods presents Dusky at TBA
 
-Into The Woods presents Dusky at TBA on Sat 12 Dec, Losangeles. 1 act on the bill: Dusky. House and Bass. Preview the line-up and save it on soundcheck.
+Into The Woods presents Dusky at TBA on Sat 12 Dec, Los Angeles. 1 artist on the bill: Dusky. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

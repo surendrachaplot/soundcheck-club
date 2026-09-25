@@ -2,7 +2,7 @@
 
 Wayne Holland is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
 
-Wayne Holland is a house and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London, Manchester and Newyorkcity. Often billed alongside Jack Mulqueen, 98dots and Alvaro Medina. Next up: Signal, Newyorkcity on Fri 30 Oct.
+Wayne Holland is a house and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London, Manchester and New York City. Often billed alongside Jack Mulqueen, 98dots and Alvaro Medina. Next up: Signal, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 

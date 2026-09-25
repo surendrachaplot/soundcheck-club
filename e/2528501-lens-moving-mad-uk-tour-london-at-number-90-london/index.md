@@ -1,6 +1,6 @@
 # Lens: Moving Mad UK Tour - London at NUMBER 90 LONDON
 
-Lens: Moving Mad UK Tour - London at NUMBER 90 LONDON on Fri 23 Oct, London. 1 act on the bill: Lens (2). Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Lens: Moving Mad UK Tour - London at NUMBER 90 LONDON on Fri 23 Oct, London. 1 artist on the bill: Lens. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jamz Supernova's Dance Around The World at Jazz Cafe at The Jazz Cafe
 
-Jamz Supernova's Dance Around The World at Jazz Cafe at The Jazz Cafe on Fri 30 Oct, London. 3 acts on the bill: Esa, Jamz Supernova and Samtheman. Preview the line-up and save it on soundcheck.
+Jamz Supernova's Dance Around The World at Jazz Cafe at The Jazz Cafe on Fri 30 Oct, London. 3 artists on the bill: Esa, Jamz Supernova and Samtheman. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

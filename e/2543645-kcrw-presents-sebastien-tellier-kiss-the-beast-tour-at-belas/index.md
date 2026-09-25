@@ -1,6 +1,6 @@
 # KCRW presents Sebastien Tellier - Kiss the Beast Tour at Belasco Theater
 
-KCRW presents Sebastien Tellier - Kiss the Beast Tour at Belasco Theater on Sat 26 Sept, Losangeles. Pop and Electronica. Preview the line-up and save it on soundcheck.
+KCRW presents Sebastien Tellier - Kiss the Beast Tour at Belasco Theater on Sat 26 Sept, Los Angeles. Pop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

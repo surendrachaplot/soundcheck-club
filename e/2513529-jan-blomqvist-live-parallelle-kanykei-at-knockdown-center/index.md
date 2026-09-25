@@ -1,6 +1,6 @@
 # Jan Blomqvist (Live), Parallelle, Kanykei at Knockdown Center
 
-Jan Blomqvist (Live), Parallelle, Kanykei at Knockdown Center on Fri 16 Oct, Newyorkcity. 3 acts on the bill: Jan Blomqvist, Kanykei and Parallelle. House. Preview the line-up and save it on soundcheck.
+Jan Blomqvist (Live), Parallelle, Kanykei at Knockdown Center on Fri 16 Oct, New York City. 3 artists on the bill: Jan Blomqvist, Kanykei and Parallelle. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

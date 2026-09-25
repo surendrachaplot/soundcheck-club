@@ -1,6 +1,6 @@
 # The Living Tombstone at SOMA
 
-The Living Tombstone at SOMA on Sat 10 Oct, Sandiego. Techno and Electronica. Preview the line-up and save it on soundcheck.
+The Living Tombstone at SOMA on Sat 10 Oct, San Diego. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

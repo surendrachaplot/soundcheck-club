@@ -1,8 +1,8 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kaiku, Helsinki on Fri, 25 Sept 2026.
+Freddy K is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kaiku, Helsinki on Fri, 25 Sept 2026.
 
-Freddy K is a techno and house artist based in Germany, tracked on soundcheck, with 281 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Blasha & Allatt, Chlär and Alarico. Next up: Kaiku, Helsinki on Fri 25 Sept.
+Freddy K is a techno and house artist based in Germany, tracked on soundcheck, with 282 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Blasha & Allatt, Chlär and Alarico. Next up: Kaiku, Helsinki on Fri 25 Sept.
 
 ## Upcoming shows
 

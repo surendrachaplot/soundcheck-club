@@ -2,7 +2,7 @@
 
 Hertz Collision is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at SMUT Athens, Athens on Sat, 3 Oct 2026.
 
-Hertz Collision is a techno and acid artist based in Italy, tracked on soundcheck, with 28 sets logged across Athens, Berlin, London and Losangeles and 10 more. Often billed alongside ARMANDO, IKIIR and Truncate. Next up: SMUT Athens, Athens on Sat 3 Oct.
+Hertz Collision is a techno and acid artist based in Italy, tracked on soundcheck, with 28 sets logged across Athens, Berlin, London and Los Angeles and 10 more. Often billed alongside ARMANDO, IKIIR and Truncate. Next up: SMUT Athens, Athens on Sat 3 Oct.
 
 ## Upcoming shows
 

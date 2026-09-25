@@ -1,6 +1,6 @@
 # Origins: DJ Assault + more TBA at Colour Factory
 
-Origins: DJ Assault + more TBA at Colour Factory on Fri 13 Nov, London. 1 act on the bill: DJ Assault. Bass and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Origins: DJ Assault + more TBA at Colour Factory on Fri 13 Nov, London. 1 artist on the bill: DJ Assault. Bass and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

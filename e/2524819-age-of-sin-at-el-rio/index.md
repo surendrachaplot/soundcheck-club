@@ -1,6 +1,6 @@
 # Age of Sin at El Rio
 
-Age of Sin at El Rio on Wed 14 Oct, Sanfrancisco. 2 acts on the bill: Jasmine Infiniti and Lonald J. Bandz. Club. Preview the line-up and save it on soundcheck.
+Age of Sin at El Rio on Wed 14 Oct, San Francisco/Oakland. 2 artists on the bill: Jasmine Infiniti and Lonald J. Bandz. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

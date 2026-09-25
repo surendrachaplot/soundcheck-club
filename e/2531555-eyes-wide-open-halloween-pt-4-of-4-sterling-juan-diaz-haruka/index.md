@@ -1,6 +1,6 @@
 # Eyes Wide Open: Halloween Pt. 4 of 4 Sterling Juan Diaz, Haruka, boyyyish | DLN9's Grand Finale at Dead Letter No. 9
 
-Eyes Wide Open: Halloween Pt. 4 of 4 Sterling Juan Diaz, Haruka, boyyyish | DLN9's Grand Finale at Dead Letter No. 9 on Sat 31 Oct, Newyorkcity. 5 acts on the bill: boyyyish, Haruka (US), Kandylion and SPRFRK and 1 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+Eyes Wide Open: Halloween Pt. 4 of 4 Sterling Juan Diaz, Haruka, boyyyish | DLN9's Grand Finale at Dead Letter No. 9 on Sat 31 Oct, New York City. 5 artists on the bill: boyyyish, Haruka (US), Kandylion and SPRFRK and 1 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

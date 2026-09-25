@@ -2,7 +2,7 @@
 
 Anderson Chase is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-Anderson Chase is a house and disco artist based in United States of America, tracked on soundcheck, with 16 sets logged across Sanfrancisco. Often billed alongside Joe Fro, Combover and Louiv. Next up: Underground SF, Sanfrancisco on Fri 25 Sept.
+Anderson Chase is a house and disco artist based in United States of America, tracked on soundcheck, with 16 sets logged across San Francisco/Oakland. Often billed alongside Joe Fro, Combover and Louiv. Next up: Underground SF, San Francisco/Oakland on Fri 25 Sept.
 
 ## Upcoming shows
 

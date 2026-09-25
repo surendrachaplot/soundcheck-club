@@ -1,6 +1,6 @@
 # MAREAH presents Guy J at The Grand Social
 
-MAREAH presents Guy J at The Grand Social on Sat 24 Oct, Dublin. 2 acts on the bill: Guy J and Tom Pavicich. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+MAREAH presents Guy J at The Grand Social on Sat 24 Oct, Dublin. 2 artists on the bill: Guy J and Tom Pavicich. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

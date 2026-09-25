@@ -1,6 +1,6 @@
 # Fukhouse with The Lady Machine, Ian Guthrie and Jeremy P. Caulfied (live) at Standard Time
 
-Fukhouse with The Lady Machine, Ian Guthrie and Jeremy P. Caulfied (live) at Standard Time on Fri 20 Nov, Toronto. 4 acts on the bill: Ian Guthrie, Jeremy P. Caulfield, Lee Osborne and The Lady Machine. Preview the line-up and save it on soundcheck.
+Fukhouse with The Lady Machine, Ian Guthrie and Jeremy P. Caulfied (live) at Standard Time on Fri 20 Nov, Toronto. 4 artists on the bill: Ian Guthrie, Jeremy P. Caulfield, Lee Osborne and The Lady Machine. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

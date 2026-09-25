@@ -1,6 +1,6 @@
 # DOJO dstrkt with Ramyen (FR) at Dojo Boutique Club
 
-DOJO dstrkt with Ramyen (FR) at Dojo Boutique Club on Fri 25 Sept, Budapest. 1 act on the bill: Ramyen. House and Deep House. Preview the line-up and save it on soundcheck.
+DOJO dstrkt with Ramyen (FR) at Dojo Boutique Club on Fri 25 Sept, Budapest. 1 artist on the bill: Ramyen. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

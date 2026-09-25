@@ -1,6 +1,6 @@
 # milanosulset FW Opening with Alinka at Apollo Club Milano
 
-milanosulset FW Opening with Alinka at Apollo Club Milano on Fri 25 Sept, Milan. 2 acts on the bill: Alinka and GS.ELLE. Techno and House. Preview the line-up and save it on soundcheck.
+milanosulset FW Opening with Alinka at Apollo Club Milano on Fri 25 Sept, Milan. 2 artists on the bill: Alinka and GS.ELLE. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

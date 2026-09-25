@@ -1,6 +1,6 @@
 # Last Resort with Hassan Abou Alam, Amor Satyr, Serokolo 7, Sonido Underground, COIDO at ÆDEN
 
-Last Resort with Hassan Abou Alam, Amor Satyr, Serokolo 7, Sonido Underground, COIDO at ÆDEN on Fri 25 Sept, Berlin. 12 acts on the bill: Amor Satyr, Bungalovv, COIDO and Dengue Dengue Dengue and 8 more. Bass and Club. Preview the line-up and save it on soundcheck.
+Last Resort with Hassan Abou Alam, Amor Satyr, Serokolo 7, Sonido Underground, COIDO at ÆDEN on Fri 25 Sept, Berlin. 12 artists on the bill: Amor Satyr, Bungalovv, COIDO and Dengue Dengue Dengue and 8 more. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

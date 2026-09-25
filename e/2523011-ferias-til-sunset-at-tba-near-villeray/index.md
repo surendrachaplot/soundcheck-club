@@ -1,6 +1,6 @@
 # Ferias 'til Sunset at TBA - Near Villeray
 
-Ferias 'til Sunset at TBA - Near Villeray on Sat 26 Sept, Montreal. 7 acts on the bill: Alina (MTL), Ash Lauryn, CTRLZORA and Ferias and 3 more. Preview the line-up and save it on soundcheck.
+Ferias 'til Sunset at TBA - Near Villeray on Sat 26 Sept, Montreal. 7 artists on the bill: Alina (MTL), Ash Lauryn, CTRLZORA and Ferias and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # xtended sound: Amadeezy at TBA
 
-xtended sound: Amadeezy at TBA on Sat 26 Sept, Sanfrancisco. 3 acts on the bill: Amadeezy, day astro and XILENYIA. Techno and Bass. Preview the line-up and save it on soundcheck.
+xtended sound: Amadeezy at TBA on Sat 26 Sept, San Francisco/Oakland. 3 artists on the bill: Amadeezy, day astro and XILENYIA. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

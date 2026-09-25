@@ -1,6 +1,6 @@
 # Luigi Tozzi live (Hypnus Records /IT), Kessa (WRD /IT), Aberra (WRD /IT) at Azimut Club
 
-Luigi Tozzi live (Hypnus Records /IT), Kessa (WRD /IT), Aberra (WRD /IT) at Azimut Club on Sat 24 Oct, Turin. 3 acts on the bill: Aberra, Kessa and Luigi Tozzi. Techno. Preview the line-up and save it on soundcheck.
+Luigi Tozzi live (Hypnus Records /IT), Kessa (WRD /IT), Aberra (WRD /IT) at Azimut Club on Sat 24 Oct, Turin. 3 artists on the bill: Aberra, Kessa and Luigi Tozzi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

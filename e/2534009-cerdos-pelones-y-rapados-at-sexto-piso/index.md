@@ -1,6 +1,6 @@
 # CERDOS: PELONES Y RAPADOS at Sexto Piso
 
-CERDOS: PELONES Y RAPADOS at Sexto Piso on Sat 17 Oct, Mexicocity. 3 acts on the bill: Benji Vega, Marc Homer and Skyshaker. Techno. Preview the line-up and save it on soundcheck.
+CERDOS: PELONES Y RAPADOS at Sexto Piso on Sat 17 Oct, Mexico City. 3 artists on the bill: Benji Vega, Marc Homer and Skyshaker. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

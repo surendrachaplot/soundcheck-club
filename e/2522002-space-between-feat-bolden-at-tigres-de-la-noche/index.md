@@ -1,6 +1,6 @@
 # Space Between feat. BOLDEN at Tigres de la Noche
 
-Space Between feat. BOLDEN at Tigres de la Noche on Fri 2 Oct, Washingtondc. Jazz. Preview the line-up and save it on soundcheck.
+Space Between feat. BOLDEN at Tigres de la Noche on Fri 2 Oct, Washington DC. Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KRAFT ADE 2026 Premium Pounding Techno at Lagerwal
 
-KRAFT ADE 2026 Premium Pounding Techno at Lagerwal on Sat 24 Oct, Amsterdam. 4 acts on the bill: A*S*Y*S (2), ADRIANNA, Sylvie Miles and TheKoosy. Techno and Acid. Preview the line-up and save it on soundcheck.
+KRAFT ADE 2026 Premium Pounding Techno at Lagerwal on Sat 24 Oct, Amsterdam. 4 artists on the bill: A*S*Y*S, ADRIANNA, Sylvie Miles and TheKoosy. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

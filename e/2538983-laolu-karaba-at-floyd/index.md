@@ -1,6 +1,6 @@
 # Laolu & KARABA at Floyd
 
-Laolu & KARABA at Floyd on Fri 9 Oct, Miami. 3 acts on the bill: KARABA, Laolu and Nii Tei. Techno and House. Preview the line-up and save it on soundcheck.
+Laolu & KARABA at Floyd on Fri 9 Oct, Miami. 3 artists on the bill: KARABA, Laolu and Nii Tei. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

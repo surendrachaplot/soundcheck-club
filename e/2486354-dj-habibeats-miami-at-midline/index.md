@@ -1,6 +1,6 @@
 # DJ Habibeats MIAMI at Midline
 
-DJ Habibeats MIAMI at Midline on Sat 31 Oct, Miami. 1 act on the bill: DJ Habibeats. House and Bass. Preview the line-up and save it on soundcheck.
+DJ Habibeats MIAMI at Midline on Sat 31 Oct, Miami. 1 artist on the bill: DJ Habibeats. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Underground Madness Presents: Ophidian at Space Nightclub
 
-Underground Madness Presents: Ophidian at Space Nightclub on Wed 11 Nov, Sydney. 1 act on the bill: Ophidian. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+Underground Madness Presents: Ophidian at Space Nightclub on Wed 11 Nov, Sydney. 1 artist on the bill: Ophidian. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MIDWEEK GROOVE -TECHNO EVERY WEDNESDAY- at Joule
 
-MIDWEEK GROOVE -TECHNO EVERY WEDNESDAY- at Joule on Wed 30 Sept, Osaka. 2 acts on the bill: NOBUYA (2) and O-MAN. Techno. Preview the line-up and save it on soundcheck.
+MIDWEEK GROOVE -TECHNO EVERY WEDNESDAY- at Joule on Wed 30 Sept, Osaka. 2 artists on the bill: NOBUYA and O-MAN. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

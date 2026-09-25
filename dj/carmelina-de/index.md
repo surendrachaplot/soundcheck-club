@@ -1,14 +1,14 @@
 # Carmelina
 
-Carmelina is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+Carmelina is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Carmelina is a house and minimal artist based in Germany, tracked on soundcheck, with 12 sets logged across All, Berlin, Frankfurt and Lisbon. Often billed alongside Elia Nafzger, Marc. and Alexia (2). Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+Carmelina is a house and minimal artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Frankfurt, Greece and Lisbon. Often billed alongside Elia Nafzger, Marc. and Alexia. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 30 Oct 2026 | Kater | Berlin |
 
 ## Recently played

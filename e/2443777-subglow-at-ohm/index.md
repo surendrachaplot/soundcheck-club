@@ -1,6 +1,6 @@
 # subglow at OHM
 
-subglow at OHM on Sun 18 Oct, Berlin. 1 act on the bill: CCL. Dub and Experimental. Preview the line-up and save it on soundcheck.
+subglow at OHM on Sun 18 Oct, Berlin. 1 artist on the bill: CCL. Dub and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Fridays at 77: Kuya Hennessy, Attu, Shuko at Club 77
 
-Fridays at 77: Kuya Hennessy, Attu, Shuko at Club 77 on Fri 2 Oct, Sydney. 2 acts on the bill: Attu and Shuko. Bass and Club. Preview the line-up and save it on soundcheck.
+Fridays at 77: Kuya Hennessy, Attu, Shuko at Club 77 on Fri 2 Oct, Sydney. 2 artists on the bill: Attu and Shuko. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

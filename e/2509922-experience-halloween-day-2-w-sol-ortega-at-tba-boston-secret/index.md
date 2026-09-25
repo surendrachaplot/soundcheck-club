@@ -1,6 +1,6 @@
 # EXPERIENCE HALLOWEEN DAY 2 W/ Sol Ortega at TBA - BOSTON SECRET LOCATION 
 
-EXPERIENCE HALLOWEEN DAY 2 W/ Sol Ortega at TBA - BOSTON SECRET LOCATION  on Sat 31 Oct, Boston. 3 acts on the bill: Sol Ortega, Steph Angel and The Consciousness. Techno and Acid. Preview the line-up and save it on soundcheck.
+EXPERIENCE HALLOWEEN DAY 2 W/ Sol Ortega at TBA - BOSTON SECRET LOCATION  on Sat 31 Oct, Boston. 3 artists on the bill: Sol Ortega, Steph Angel and The Consciousness. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

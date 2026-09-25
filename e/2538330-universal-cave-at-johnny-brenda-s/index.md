@@ -1,6 +1,6 @@
 # Universal Cave at Johnny Brenda's
 
-Universal Cave at Johnny Brenda's on Thu 24 Sept, Philadelphia. 1 act on the bill: Shawn Ryan. Preview the line-up and save it on soundcheck.
+Universal Cave at Johnny Brenda's on Thu 24 Sept, Philadelphia. 1 artist on the bill: Shawn Ryan. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

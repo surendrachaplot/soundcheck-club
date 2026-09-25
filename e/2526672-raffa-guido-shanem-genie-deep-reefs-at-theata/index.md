@@ -1,6 +1,6 @@
 # Raffa Guido,SHANEM,GENIE - Deep Reefs at Theata
 
-Raffa Guido,SHANEM,GENIE - Deep Reefs at Theata on Sat 3 Oct, London. 2 acts on the bill: GENIE (2) and Raffa Guido. House and Tech House. Preview the line-up and save it on soundcheck.
+Raffa Guido,SHANEM,GENIE - Deep Reefs at Theata on Sat 3 Oct, London. 2 artists on the bill: GENIE and Raffa Guido. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

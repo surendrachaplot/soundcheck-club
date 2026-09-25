@@ -1,6 +1,6 @@
 # BODY ELECTRIC at OXI
 
-BODY ELECTRIC at OXI on Fri 23 Oct, Berlin. 3 acts on the bill: Iron Curtis, jiyun kim and Trent Voyage. Techno and House. Preview the line-up and save it on soundcheck.
+BODY ELECTRIC at OXI on Fri 23 Oct, Berlin. 3 artists on the bill: Iron Curtis, jiyun kim and Trent Voyage. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

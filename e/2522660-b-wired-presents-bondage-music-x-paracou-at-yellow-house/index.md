@@ -1,6 +1,6 @@
 # b:wired presents: Bondage-Music x Paracou at Yellow House
 
-b:wired presents: Bondage-Music x Paracou at Yellow House on Sat 24 Oct, Amsterdam. 14 acts on the bill: Bambi-S, Cinthie, Cristina Lazic and Danilo Kupfernagel and 10 more. House and Tech House. Preview the line-up and save it on soundcheck.
+b:wired presents: Bondage-Music x Paracou at Yellow House on Sat 24 Oct, Amsterdam. 14 artists on the bill: Bambi-S, Cinthie, Cristina Lazic and Danilo Kupfernagel and 10 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

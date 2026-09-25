@@ -1,6 +1,6 @@
 # Fast & Bi-Furious Sheffield at Gut Level
 
-Fast & Bi-Furious Sheffield at Gut Level on Sat 26 Sept, Sheffield. 2 acts on the bill: Buggery Grips and Yyre. Bass and Garage. Preview the line-up and save it on soundcheck.
+Fast & Bi-Furious Sheffield at Gut Level on Sat 26 Sept, Sheffield. 2 artists on the bill: Buggery Grips and Yyre. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

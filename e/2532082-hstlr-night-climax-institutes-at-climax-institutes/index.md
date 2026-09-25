@@ -1,6 +1,6 @@
 # HSTLR NIGHT (Climax Institutes) at Climax-Institutes
 
-HSTLR NIGHT (Climax Institutes) at Climax-Institutes on Sat 10 Oct, Stuttgart. 1 act on the bill: Denno Matini. Techno and House. Preview the line-up and save it on soundcheck.
+HSTLR NIGHT (Climax Institutes) at Climax-Institutes on Sat 10 Oct, Stuttgart. 1 artist on the bill: Denno Matini. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

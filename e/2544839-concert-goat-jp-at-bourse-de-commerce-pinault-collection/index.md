@@ -1,6 +1,6 @@
 # Concert goat (jp) at Bourse de Commerce — Pinault Collection
 
-Concert goat (jp) at Bourse de Commerce — Pinault Collection on Sun 15 Nov, Paris. 1 act on the bill: Goat (JP). Preview the line-up and save it on soundcheck.
+Concert goat (jp) at Bourse de Commerce — Pinault Collection on Sun 15 Nov, Paris. 1 artist on the bill: Goat (JP). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Spacedisco Records presents Hatiras + special guest Antoine Clamaran (Paris) at Wiggle Room
 
-Spacedisco Records presents Hatiras + special guest Antoine Clamaran (Paris) at Wiggle Room on Fri 9 Oct, Toronto. 1 act on the bill: Hatiras. House. Preview the line-up and save it on soundcheck.
+Spacedisco Records presents Hatiras + special guest Antoine Clamaran (Paris) at Wiggle Room on Fri 9 Oct, Toronto. 1 artist on the bill: Hatiras. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

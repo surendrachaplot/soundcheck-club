@@ -1,6 +1,6 @@
 # Satiate at radial
 
-Satiate at radial on Sun 11 Oct, London. 6 acts on the bill: FAFF, J. Aria, Jordan Hearns and Riva and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Satiate at radial on Sun 11 Oct, London. 6 artists on the bill: FAFF, J. Aria, Jordan Hearns and Riva and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

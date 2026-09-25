@@ -1,6 +1,6 @@
 # 26 Jahre Umweltpumpe1 at TBA - Secret Location Berlin
 
-26 Jahre Umweltpumpe1 at TBA - Secret Location Berlin on Sat 24 Oct, Berlin. 3 acts on the bill: Remezko, Sascha Rydell and Sebastian Keks. Techno. Preview the line-up and save it on soundcheck.
+26 Jahre Umweltpumpe1 at TBA - Secret Location Berlin on Sat 24 Oct, Berlin. 3 artists on the bill: Remezko, Sascha Rydell and Sebastian Keks. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Biodiversity 003 - Sofie K b2b Sam PV (NTS/Pumping Velvet), Frantasia, Joe FM at Wharf Chambers
 
-Biodiversity 003 - Sofie K b2b Sam PV (NTS/Pumping Velvet), Frantasia, Joe FM at Wharf Chambers on Fri 2 Oct, Leeds. 5 acts on the bill: Anastasia McGarel, James Frances, Joe FM and Sam PV and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+Biodiversity 003 - Sofie K b2b Sam PV (NTS/Pumping Velvet), Frantasia, Joe FM at Wharf Chambers on Fri 2 Oct, Leeds. 5 artists on the bill: Anastasia McGarel, James Frances, Joe FM and Sam PV and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

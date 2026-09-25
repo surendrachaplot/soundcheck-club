@@ -1,6 +1,6 @@
 # Serve! x Stereo: The Mane Event with MikeQ & Angel D'Lite at Stereo
 
-Serve! x Stereo: The Mane Event with MikeQ & Angel D'Lite on Fri 25 Sept, Glasgow. 4 acts on the bill: Angel D'lite, EYVE, MikeQ and saparilla. House and Ballroom. Preview the line-up and save it on soundcheck.
+Serve! x Stereo: The Mane Event with MikeQ & Angel D'Lite on Fri 25 Sept, Glasgow. 4 artists on the bill: Angel D'lite, EYVE, MikeQ and saparilla. House and Ballroom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

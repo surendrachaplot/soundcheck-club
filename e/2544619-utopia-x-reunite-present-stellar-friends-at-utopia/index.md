@@ -1,6 +1,6 @@
 # Utopia x REUNITE present: Stellar & friends at Utopia
 
-Utopia x REUNITE present: Stellar & friends on Fri 25 Sept, Losangeles. 2 acts on the bill: RCKSLVR and Tempo. House and Tech House. Preview the line-up and save it on soundcheck.
+Utopia x REUNITE present: Stellar & friends on Fri 25 Sept, Los Angeles. 2 artists on the bill: RCKSLVR and Tempo. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

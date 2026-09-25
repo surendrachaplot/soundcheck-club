@@ -1,6 +1,6 @@
 # FLAMINGOSIS at Audio SF
 
-FLAMINGOSIS at Audio SF on Sat 14 Nov, Sanfrancisco. Preview the line-up and save it on soundcheck.
+FLAMINGOSIS at Audio SF on Sat 14 Nov, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

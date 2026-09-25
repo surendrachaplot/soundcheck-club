@@ -1,6 +1,6 @@
 # Arise festival: Berlin edition + HMLTD at TBA
 
-Arise festival: Berlin edition + HMLTD at TBA on Sat 7 Nov, London. 6 acts on the bill: benzii, DJ GHEPARD, exmantera and Hovsep (AM) and 2 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Arise festival: Berlin edition + HMLTD at TBA on Sat 7 Nov, London. 6 artists on the bill: benzii, DJ GHEPARD, exmantera and Hovsep (AM) and 2 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

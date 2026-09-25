@@ -1,6 +1,6 @@
 # Shades at SILO
 
-Shades at SILO on Thu 29 Oct, Newyorkcity. 1 act on the bill: Shades. Drum & Bass. Preview the line-up and save it on soundcheck.
+Shades at SILO on Thu 29 Oct, New York City. 1 artist on the bill: Shades. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Fish56Octagon at Digital
 
-Fish56Octagon at Digital on Fri 27 Nov, Newcastle. 1 act on the bill: Fish56Octagon. Preview the line-up and save it on soundcheck.
+Fish56Octagon at Digital on Fri 27 Nov, Newcastle. 1 artist on the bill: Fish56Octagon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

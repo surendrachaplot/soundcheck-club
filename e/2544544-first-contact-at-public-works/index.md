@@ -1,6 +1,6 @@
 # First Contact at Public Works
 
-First Contact at Public Works on Fri 23 Oct, Sanfrancisco. Electro and Disco. Preview the line-up and save it on soundcheck.
+First Contact at Public Works on Fri 23 Oct, San Francisco/Oakland. Electro and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

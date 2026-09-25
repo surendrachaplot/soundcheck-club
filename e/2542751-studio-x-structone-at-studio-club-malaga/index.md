@@ -1,6 +1,6 @@
 # Studio X Structone at Studio Club Malaga
 
-Studio X Structone at Studio Club Malaga on Fri 2 Oct, Malaga. 3 acts on the bill: MARRØN, ORBE and Wallis. Preview the line-up and save it on soundcheck.
+Studio X Structone at Studio Club Malaga on Fri 2 Oct, Malaga. 3 artists on the bill: MARRØN, ORBE and Wallis. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

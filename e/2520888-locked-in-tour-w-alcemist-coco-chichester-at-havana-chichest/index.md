@@ -1,6 +1,6 @@
 # LOCKED IN TOUR W/ Alcemist + COCO (CHICHESTER) at Havana Chichester
 
-LOCKED IN TOUR W/ Alcemist + COCO (CHICHESTER) at Havana Chichester on Fri 2 Oct, London. 1 act on the bill: Alcemist. Drum & Bass. Preview the line-up and save it on soundcheck.
+LOCKED IN TOUR W/ Alcemist + COCO (CHICHESTER) at Havana Chichester on Fri 2 Oct, London. 1 artist on the bill: Alcemist. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

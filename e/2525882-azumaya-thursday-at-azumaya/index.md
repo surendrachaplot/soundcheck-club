@@ -1,6 +1,6 @@
 # Azumaya -Thursday- at Azumaya
 
-Azumaya -Thursday- on Thu 24 Sept, Tokyo. 2 acts on the bill: Atsushi Yamazaki and CHIDA. House and Disco. Preview the line-up and save it on soundcheck.
+Azumaya -Thursday- on Thu 24 Sept, Tokyo. 2 artists on the bill: Atsushi Yamazaki and CHIDA. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

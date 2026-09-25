@@ -1,6 +1,6 @@
 # OWL PAL at Spread
 
-OWL PAL at Spread on Sat 26 Sept, Tokyo. 1 act on the bill: Mazlika. Preview the line-up and save it on soundcheck.
+OWL PAL at Spread on Sat 26 Sept, Tokyo. 1 artist on the bill: Mazlika. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

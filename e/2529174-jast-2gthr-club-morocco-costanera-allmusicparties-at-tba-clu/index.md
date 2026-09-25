@@ -1,6 +1,6 @@
 # Jast - 2gthr, Club Morocco, Costanera - ALLMusicParties at TBA - Club Morocco, Costanera
 
-Jast - 2gthr, Club Morocco, Costanera - ALLMusicParties at TBA - Club Morocco, Costanera on Fri 16 Oct, Buenosaires. Tech House. Preview the line-up and save it on soundcheck.
+Jast - 2gthr, Club Morocco, Costanera - ALLMusicParties at TBA - Club Morocco, Costanera on Fri 16 Oct, Buenos Aires. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

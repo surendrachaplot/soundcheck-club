@@ -1,6 +1,6 @@
 # Free Tickets AVALON: Rivellino B2B Andrea Castells (All Night Long) at Ku Barcelona
 
-Free Tickets AVALON: Rivellino B2B Andrea Castells (All Night Long) at Ku Barcelona on Fri 25 Sept, Barcelona. 2 acts on the bill: Andrea Castells and Rivellino. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Free Tickets AVALON: Rivellino B2B Andrea Castells (All Night Long) at Ku Barcelona on Fri 25 Sept, Barcelona. 2 artists on the bill: Andrea Castells and Rivellino. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

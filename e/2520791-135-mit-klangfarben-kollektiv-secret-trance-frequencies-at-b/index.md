@@ -1,6 +1,6 @@
 # 135+ mit Klangfarben Kollektiv & Secret Trance Frequencies at Bahnwärter Thiel
 
-135+ mit Klangfarben Kollektiv & Secret Trance Frequencies at Bahnwärter Thiel on Thu 24 Sept, Munich. 6 acts on the bill: 9LALEY, Alicea, antyo and Arkinice and 2 more. Preview the line-up and save it on soundcheck.
+135+ mit Klangfarben Kollektiv & Secret Trance Frequencies at Bahnwärter Thiel on Thu 24 Sept, Munich. 6 artists on the bill: 9LALEY, Alicea, antyo and Arkinice and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

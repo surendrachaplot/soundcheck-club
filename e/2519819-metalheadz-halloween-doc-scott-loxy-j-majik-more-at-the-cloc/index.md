@@ -1,6 +1,6 @@
 # Metalheadz [Halloween] • Doc Scott, Loxy, J Majik & More at The Clock Factory
 
-Metalheadz [Halloween] • Doc Scott, Loxy, J Majik & More at The Clock Factory on Sat 31 Oct, Bristol. 4 acts on the bill: Doc Scott, J Majik, Loxy and RYDA. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Metalheadz [Halloween] • Doc Scott, Loxy, J Majik & More at The Clock Factory on Sat 31 Oct, Bristol. 4 artists on the bill: Doc Scott, J Majik, Loxy and RYDA. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

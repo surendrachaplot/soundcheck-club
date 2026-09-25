@@ -1,6 +1,6 @@
 # Channelled Frequencies with Maximilian FD, Olly & Torin at Headrow House
 
-Channelled Frequencies with Maximilian FD, Olly & Torin at Headrow House on Sat 21 Nov, Leeds. 3 acts on the bill: Maximilian FD, Oliver Kristian and Torin Grady. Preview the line-up and save it on soundcheck.
+Channelled Frequencies with Maximilian FD, Olly & Torin at Headrow House on Sat 21 Nov, Leeds. 3 artists on the bill: Maximilian FD, Oliver Kristian and Torin Grady. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

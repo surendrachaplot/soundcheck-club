@@ -1,6 +1,6 @@
 # 5 Years Animarum – A Club Festival For Your Soul at Void Club
 
-5 Years Animarum – A Club Festival For Your Soul at Void Club on Fri 25 Sept, Berlin. 12 acts on the bill: Alex Xandra, Andriiic, DJ Jordan and Endica and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+5 Years Animarum – A Club Festival For Your Soul at Void Club on Fri 25 Sept, Berlin. 12 artists on the bill: Alex Xandra, Andriiic, DJ Jordan and Endica and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

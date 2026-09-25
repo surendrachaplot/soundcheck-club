@@ -1,6 +1,6 @@
 # FILAMENT (HOUSE/DEEP HOUSE/ELECTRONIC) at Z Maruyama
 
-FILAMENT (HOUSE/DEEP HOUSE/ELECTRONIC) at Z Maruyama on Thu 29 Oct, Tokyo. 3 acts on the bill: ISSA, judgeman and RIHO ASAEDA. House and Deep House. Preview the line-up and save it on soundcheck.
+FILAMENT (HOUSE/DEEP HOUSE/ELECTRONIC) at Z Maruyama on Thu 29 Oct, Tokyo. 3 artists on the bill: ISSA, judgeman and RIHO ASAEDA. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

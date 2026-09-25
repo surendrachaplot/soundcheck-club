@@ -1,6 +1,6 @@
 # Shai T x Somos Produce – La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo
 
-Shai T x Somos Produce – La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo on Sun 11 Oct, Buenosaires. Progressive House. Preview the line-up and save it on soundcheck.
+Shai T x Somos Produce – La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo on Sun 11 Oct, Buenos Aires. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

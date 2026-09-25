@@ -2,7 +2,7 @@
 
 Rello is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-Rello is a tech house and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Austin, Ibiza, Losangeles and Miami and 3 more. Often billed alongside Ms. Mada, Natalia Roth and Sosa. Next up: TBA - San Francisco, Sanfrancisco on Fri 25 Sept.
+Rello is a tech house and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Austin, Ibiza, Los Angeles and Miami and 3 more. Often billed alongside Ms. Mada, Natalia Roth and Sosa. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 25 Sept.
 
 ## Upcoming shows
 

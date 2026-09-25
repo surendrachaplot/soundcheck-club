@@ -2,7 +2,7 @@
 
 AYSHA is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fisher Gate Point, Nottingham on Sat, 10 Oct 2026.
 
-AYSHA is a garage and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London and Nottingham. Often billed alongside Glitech Pavel, JUNTARO Y and M75 (1). Next up: Fisher Gate Point, Nottingham on Sat 10 Oct.
+AYSHA is a garage and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London and Nottingham. Often billed alongside Glitech Pavel, JUNTARO Y and M75. Next up: Fisher Gate Point, Nottingham on Sat 10 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Tessellate x Origins: The Trip, Spray & Scarlett O'Malley at EartH
 
-Tessellate x Origins: The Trip, Spray & Scarlett O'Malley at EartH on Fri 30 Oct, London. 3 acts on the bill: Scarlett O'Malley, Spray and The Trip. Trance and House. Preview the line-up and save it on soundcheck.
+Tessellate x Origins: The Trip, Spray & Scarlett O'Malley at EartH on Fri 30 Oct, London. 3 artists on the bill: Scarlett O'Malley, Spray and The Trip. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

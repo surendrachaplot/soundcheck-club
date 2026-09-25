@@ -1,6 +1,6 @@
 # OBEHÖRIGA at Timebar
 
-OBEHÖRIGA at Timebar on Fri 30 Oct, Stockholm. 2 acts on the bill: Daddy Problems and Marble. Garage. Preview the line-up and save it on soundcheck.
+OBEHÖRIGA at Timebar on Fri 30 Oct, Stockholm. 2 artists on the bill: Daddy Problems and Marble. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

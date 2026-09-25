@@ -1,6 +1,6 @@
 # Shoot Your Shot at The Berkeley Suite
 
-Shoot Your Shot at The Berkeley Suite on Sat 17 Oct, Glasgow. 2 acts on the bill: Bonzai Bonner and DSGNRPSSY. Preview the line-up and save it on soundcheck.
+Shoot Your Shot at The Berkeley Suite on Sat 17 Oct, Glasgow. 2 artists on the bill: Bonzai Bonner and DSGNRPSSY. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

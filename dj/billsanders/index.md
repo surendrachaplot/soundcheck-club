@@ -2,7 +2,7 @@
 
 Bill Sanders is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at AMT, Berlin on Fri, 13 Nov 2026.
 
-Bill Sanders is a house and techno artist based in Greece, tracked on soundcheck, with 39 sets logged across Athens, Berlin and Newyorkcity. Often billed alongside ClubKid, The Dreamer and .Fro.. Next up: AMT, Berlin on Fri 13 Nov.
+Bill Sanders is a house and techno artist based in Greece, tracked on soundcheck, with 39 sets logged across Athens, Berlin and New York City. Often billed alongside ClubKid, The Dreamer and .Fro.. Next up: AMT, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 

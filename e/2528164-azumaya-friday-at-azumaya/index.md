@@ -1,6 +1,6 @@
 # Azumaya -Friday- at Azumaya
 
-Azumaya -Friday- on Fri 25 Sept, Tokyo. 2 acts on the bill: Eichi Abe and S.H.V. House. Preview the line-up and save it on soundcheck.
+Azumaya -Friday- on Fri 25 Sept, Tokyo. 2 artists on the bill: Eichi Abe and S.H.V. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

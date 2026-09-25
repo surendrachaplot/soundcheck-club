@@ -1,6 +1,6 @@
 # Tilt Shift Wednesdays at Revolver Upstairs
 
-Tilt Shift Wednesdays at Revolver Upstairs on Wed 30 Sept, Melbourne. 1 act on the bill: Sharanya. Preview the line-up and save it on soundcheck.
+Tilt Shift Wednesdays at Revolver Upstairs on Wed 30 Sept, Melbourne. 1 artist on the bill: Sharanya. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

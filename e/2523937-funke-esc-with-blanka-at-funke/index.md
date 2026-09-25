@@ -1,6 +1,6 @@
 # Funke_Esc. with BLANKA at Funke
 
-Funke_Esc. with BLANKA on Fri 25 Sept, Ghent. 4 acts on the bill: BLANKA, Formwandler, Rafael Munoz and Tim Strafinsky. Techno. Preview the line-up and save it on soundcheck.
+Funke_Esc. with BLANKA on Fri 25 Sept, Ghent. 4 artists on the bill: BLANKA, Formwandler, Rafael Munoz and Tim Strafinsky. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

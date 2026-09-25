@@ -1,6 +1,6 @@
 # Whipped Cream, MUSUBI at Elsewhere
 
-Whipped Cream, MUSUBI at Elsewhere on Fri 2 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+Whipped Cream, MUSUBI at Elsewhere on Fri 2 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

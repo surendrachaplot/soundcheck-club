@@ -1,6 +1,6 @@
 # Step Out: Toronto Hustle at TBA
 
-Step Out: Toronto Hustle at TBA on Sat 14 Nov, Vancouver. 3 acts on the bill: Jesse Walker, Mira Méla and Toronto Hustle. House and Deep House. Preview the line-up and save it on soundcheck.
+Step Out: Toronto Hustle at TBA on Sat 14 Nov, Vancouver. 3 artists on the bill: Jesse Walker, Mira Méla and Toronto Hustle. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

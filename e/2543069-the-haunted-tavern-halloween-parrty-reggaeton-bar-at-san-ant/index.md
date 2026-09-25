@@ -1,6 +1,6 @@
 # The Haunted Tavern Halloween Parrty Reggaeton Bar at San Antonios
 
-The Haunted Tavern Halloween Parrty Reggaeton Bar at San Antonios on Sat 24 Oct, Newyorkcity. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
+The Haunted Tavern Halloween Parrty Reggaeton Bar at San Antonios on Sat 24 Oct, New York City. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

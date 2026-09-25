@@ -1,6 +1,6 @@
 # Format presents Wata Igarashi - Brenda - Shanti at smartbar
 
-Format presents Wata Igarashi - Brenda - Shanti at smartbar on Sat 10 Oct, Chicago. 3 acts on the bill: Brenda, Shanti and Wata Igarashi. Techno and Acid. Preview the line-up and save it on soundcheck.
+Format presents Wata Igarashi - Brenda - Shanti at smartbar on Sat 10 Oct, Chicago. 3 artists on the bill: Brenda, Shanti and Wata Igarashi. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

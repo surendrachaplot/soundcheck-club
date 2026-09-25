@@ -1,6 +1,6 @@
 # KUMARU祭 feat.ポンポコ山 at Kyoto University Yoshida Dormitory
 
-KUMARU祭 feat.ポンポコ山 at Kyoto University Yoshida Dormitory on Sat 14 Nov, Kyoto. 6 acts on the bill: Aiconga, KA4U, Limited Toss and Mofo and 2 more. Latin Bass and Electronica. Preview the line-up and save it on soundcheck.
+KUMARU祭 feat.ポンポコ山 at Kyoto University Yoshida Dormitory on Sat 14 Nov, Kyoto. 6 artists on the bill: Aiconga, KA4U, Limited Toss and Mofo and 2 more. Latin Bass and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CRANKED at Menjo's
 
-CRANKED at Menjo's on Thu 24 Sept, Detroit. 1 act on the bill: M00N-Pi. Techno and Club. Preview the line-up and save it on soundcheck.
+CRANKED at Menjo's on Thu 24 Sept, Detroit. 1 artist on the bill: M00N-Pi. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

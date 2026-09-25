@@ -1,6 +1,6 @@
 # Sina Bathaie — White Lotus World Tour: Back Together - Toronto at Phoenix Concert Theatre
 
-Sina Bathaie — White Lotus World Tour: Back Together - Toronto at Phoenix Concert Theatre on Sun 8 Nov, Toronto. 1 act on the bill: Sina Bathaie. Downtempo. Preview the line-up and save it on soundcheck.
+Sina Bathaie — White Lotus World Tour: Back Together - Toronto at Phoenix Concert Theatre on Sun 8 Nov, Toronto. 1 artist on the bill: Sina Bathaie. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

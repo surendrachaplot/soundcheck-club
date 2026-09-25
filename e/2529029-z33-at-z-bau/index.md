@@ -1,6 +1,6 @@
 # Z33 at Z-Bau
 
-Z33 at Z-Bau on Sat 26 Sept, Nurnberg. 6 acts on the bill: Dominique Lamee, Gustav Ørgano, Johannes Schuster and Kamäleon and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Z33 at Z-Bau on Sat 26 Sept, Nürnberg. 6 artists on the bill: Dominique Lamee, Gustav Ørgano, Johannes Schuster and Kamäleon and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

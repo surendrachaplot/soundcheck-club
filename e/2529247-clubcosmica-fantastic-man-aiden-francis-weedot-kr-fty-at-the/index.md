@@ -1,6 +1,6 @@
 # ✦ CLUBCOSMICA ✦ [Fantastic Man / Aiden Francis / WeeDot / KRÄFTY] at The DBA
 
-✦ CLUBCOSMICA ✦ [Fantastic Man / Aiden Francis / WeeDot / KRÄFTY] at The DBA on Fri 2 Oct, Manchester. 4 acts on the bill: Aiden Francis, Fantastic Man, KRÄFTY and WeeDot. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+✦ CLUBCOSMICA ✦ [Fantastic Man / Aiden Francis / WeeDot / KRÄFTY] at The DBA on Fri 2 Oct, Manchester. 4 artists on the bill: Aiden Francis, Fantastic Man, KRÄFTY and WeeDot. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

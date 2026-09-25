@@ -1,6 +1,6 @@
 # Romare: Free Time – Glasgow at The Berkeley Suite
 
-Romare: Free Time – Glasgow at The Berkeley Suite on Sat 17 Oct, Glasgow. 1 act on the bill: Romare. Preview the line-up and save it on soundcheck.
+Romare: Free Time – Glasgow at The Berkeley Suite on Sat 17 Oct, Glasgow. 1 artist on the bill: Romare. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

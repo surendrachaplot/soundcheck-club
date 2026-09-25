@@ -1,6 +1,6 @@
 # Residency Night: x3butterfly invites: Skee Mask & Shai FM at Nowadays
 
-Residency Night: x3butterfly invites: Skee Mask & Shai FM at Nowadays on Fri 2 Oct, Newyorkcity. 3 acts on the bill: Shai FM, Skee Mask and x3butterfly. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+Residency Night: x3butterfly invites: Skee Mask & Shai FM at Nowadays on Fri 2 Oct, New York City. 3 artists on the bill: Shai FM, Skee Mask and x3butterfly. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

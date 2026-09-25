@@ -1,6 +1,6 @@
 # Micheal Mayer at Black Bear Lodge
 
-Micheal Mayer at Black Bear Lodge on Sat 21 Nov, Brisbane. 2 acts on the bill: Michael Mayer and Phil Smart. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Micheal Mayer at Black Bear Lodge on Sat 21 Nov, Brisbane. 2 artists on the bill: Michael Mayer and Phil Smart. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

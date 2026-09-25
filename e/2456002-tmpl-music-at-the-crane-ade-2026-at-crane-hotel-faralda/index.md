@@ -1,6 +1,6 @@
 # TMPL MUSIC at The Crane: ADE 2026 at Crane Hotel Faralda
 
-TMPL MUSIC at The Crane: ADE 2026 at Crane Hotel Faralda on Fri 23 Oct, Amsterdam. 8 acts on the bill: ADRIANNA, Alex Micca, Alex Stein and Christian Smith and 4 more. Techno. Preview the line-up and save it on soundcheck.
+TMPL MUSIC at The Crane: ADE 2026 at Crane Hotel Faralda on Fri 23 Oct, Amsterdam. 8 artists on the bill: ADRIANNA, Alex Micca, Alex Stein and Christian Smith and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

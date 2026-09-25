@@ -1,6 +1,6 @@
 # Simone de Kunovich + GARAN GARAN at Frankhan Selectist
 
-Simone de Kunovich + GARAN GARAN at Frankhan Selectist on Fri 25 Sept, Istanbul. 2 acts on the bill: GARAN GARAN and Simone de Kunovich. Preview the line-up and save it on soundcheck.
+Simone de Kunovich + GARAN GARAN at Frankhan Selectist on Fri 25 Sept, Istanbul. 2 artists on the bill: GARAN GARAN and Simone de Kunovich. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

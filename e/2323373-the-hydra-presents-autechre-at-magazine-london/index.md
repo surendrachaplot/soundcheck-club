@@ -1,6 +1,6 @@
 # The Hydra presents Autechre at Magazine London
 
-The Hydra presents Autechre at Magazine London on Sat 24 Oct, London. 2 acts on the bill: Autechre and Space Afrika. Electro and Experimental. Preview the line-up and save it on soundcheck.
+The Hydra presents Autechre at Magazine London on Sat 24 Oct, London. 2 artists on the bill: Autechre and Space Afrika. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

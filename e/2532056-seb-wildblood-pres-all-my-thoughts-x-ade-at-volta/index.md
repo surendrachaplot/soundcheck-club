@@ -1,6 +1,6 @@
 # Seb Wildblood pres. all my thoughts x ADE at Volta
 
-Seb Wildblood pres. all my thoughts x ADE at Volta on Thu 22 Oct, Amsterdam. 4 acts on the bill: BAILE, Blossom Hill, edapollo and Seb Wildblood. House and Electronica. Preview the line-up and save it on soundcheck.
+Seb Wildblood pres. all my thoughts x ADE at Volta on Thu 22 Oct, Amsterdam. 4 artists on the bill: BAILE, Blossom Hill, edapollo and Seb Wildblood. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

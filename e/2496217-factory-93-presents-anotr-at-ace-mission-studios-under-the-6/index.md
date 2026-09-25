@@ -1,6 +1,6 @@
 # Factory 93 presents ANOTR at Ace*Mission Studios - Under The 6th Street Bridge
 
-Factory 93 presents ANOTR at Ace*Mission Studios - Under The 6th Street Bridge on Fri 30 Oct, Losangeles. 1 act on the bill: ANOTR. House. Preview the line-up and save it on soundcheck.
+Factory 93 presents ANOTR at Ace*Mission Studios - Under The 6th Street Bridge on Fri 30 Oct, Los Angeles. 1 artist on the bill: ANOTR. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

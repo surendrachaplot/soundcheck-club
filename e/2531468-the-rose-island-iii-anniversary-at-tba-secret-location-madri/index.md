@@ -1,6 +1,6 @@
 # The Rose Island III Anniversary at TBA - Secret Location (Madrid)
 
-The Rose Island III Anniversary at TBA - Secret Location (Madrid) on Sat 10 Oct, Madrid. 4 acts on the bill: Dana Kuehr, DELASFLORES, Reformed Society and zizi k. Techno and Tech House. Preview the line-up and save it on soundcheck.
+The Rose Island III Anniversary at TBA - Secret Location (Madrid) on Sat 10 Oct, Madrid. 4 artists on the bill: Dana Kuehr, DELASFLORES, Reformed Society and zizi k. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

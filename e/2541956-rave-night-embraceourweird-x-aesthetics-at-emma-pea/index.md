@@ -1,6 +1,6 @@
 # RAVE NIGHT - embraceOurweird x Aesthetics at Emma Pea
 
-RAVE NIGHT - embraceOurweird x Aesthetics at Emma Pea on Fri 2 Oct, Berlin. 2 acts on the bill: Max Nytram and Phat Beat. Hip-Hop and Tech House. Preview the line-up and save it on soundcheck.
+RAVE NIGHT - embraceOurweird x Aesthetics at Emma Pea on Fri 2 Oct, Berlin. 2 artists on the bill: Max Nytram and Phat Beat. Hip-Hop and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Brickworks: Captain Wallop & RTK Tarantino at The Brickworks
 
-The Brickworks: Captain Wallop & RTK Tarantino on Fri 2 Oct, Nottingham. 2 acts on the bill: Captain Wallop and RTK Tarantino. Garage and Tech House. Preview the line-up and save it on soundcheck.
+The Brickworks: Captain Wallop & RTK Tarantino on Fri 2 Oct, Nottingham. 2 artists on the bill: Captain Wallop and RTK Tarantino. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

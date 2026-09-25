@@ -2,7 +2,7 @@
 
 Tenzin is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
 
-Tenzin is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Antwerp, Bristol, London and Montreal. Often billed alongside Ellzo, Lewis Woodham and Ize (1). Next up: NUMBER 90 LONDON, London on Fri 9 Oct.
+Tenzin is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Antwerp, Bristol, London and Montreal. Often billed alongside Ellzo, Lewis Woodham and Ize. Next up: NUMBER 90 LONDON, London on Fri 9 Oct.
 
 ## Upcoming shows
 

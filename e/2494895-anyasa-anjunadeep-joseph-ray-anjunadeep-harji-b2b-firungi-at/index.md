@@ -1,6 +1,6 @@
 # Anyasa [Anjunadeep], Joseph Ray [Anjunadeep], & Harji B2B Firungi at SILO
 
-Anyasa [Anjunadeep], Joseph Ray [Anjunadeep], & Harji B2B Firungi at SILO on Sat 26 Sept, Newyorkcity. 3 acts on the bill: Anyasa, Firungi and Harji. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Anyasa [Anjunadeep], Joseph Ray [Anjunadeep], & Harji B2B Firungi at SILO on Sat 26 Sept, New York City. 3 artists on the bill: Anyasa, Firungi and Harji. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

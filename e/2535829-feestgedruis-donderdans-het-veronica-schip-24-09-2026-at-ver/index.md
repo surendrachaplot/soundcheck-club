@@ -1,6 +1,6 @@
 # FEESTGEDRUIS DONDERDANS – Het Veronica Schip – 24.09.2026 at Veronica Schip
 
-FEESTGEDRUIS DONDERDANS – Het Veronica Schip – 24.09.2026 on Thu 24 Sept, Amsterdam. 4 acts on the bill: Akira, Jonathan Kaspar, Matthew Dekay and YokoO. Techno. Preview the line-up and save it on soundcheck.
+FEESTGEDRUIS DONDERDANS – Het Veronica Schip – 24.09.2026 on Thu 24 Sept, Amsterdam. 4 artists on the bill: Akira, Jonathan Kaspar, Matthew Dekay and YokoO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

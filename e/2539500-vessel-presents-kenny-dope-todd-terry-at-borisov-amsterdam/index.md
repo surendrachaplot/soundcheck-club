@@ -1,6 +1,6 @@
 # Vessel presents Kenny Dope & Todd Terry at Borisov Amsterdam
 
-Vessel presents Kenny Dope & Todd Terry at Borisov Amsterdam on Thu 22 Oct, Amsterdam. 6 acts on the bill: Jason Merle, Kenny Dope, Michael Moog and Nonfiction and 2 more. Preview the line-up and save it on soundcheck.
+Vessel presents Kenny Dope & Todd Terry at Borisov Amsterdam on Thu 22 Oct, Amsterdam. 6 artists on the bill: Jason Merle, Kenny Dope, Michael Moog and Nonfiction and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mungo's Hi Fi at Sub Club
 
-Mungo's Hi Fi at Sub Club on Fri 2 Oct, Glasgow. 1 act on the bill: Mungo's Hi Fi. Garage and Dancehall. Preview the line-up and save it on soundcheck.
+Mungo's Hi Fi at Sub Club on Fri 2 Oct, Glasgow. 1 artist on the bill: Mungo's Hi Fi. Garage and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

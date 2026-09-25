@@ -2,7 +2,7 @@
 
 Sissy Elliott is a Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Elsewhere, New York City on Sat, 31 Oct 2026.
 
-Sissy Elliott is a club artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside DJ Erewhon, Naija Couture and ARCHANGEL (US). Next up: Elsewhere, Newyorkcity on Sat 31 Oct.
+Sissy Elliott is a club artist based in United States of America, tracked on soundcheck, with 13 sets logged across New York City. Often billed alongside DJ Erewhon, Naija Couture and ARCHANGEL (US). Next up: Elsewhere, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 

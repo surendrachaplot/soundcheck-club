@@ -1,6 +1,6 @@
 # Ignez & Claudio PRC at E1
 
-Ignez & Claudio PRC at E1 on Sat 3 Oct, London. 4 acts on the bill: Claudio PRC, Ignez, Livid (UK) and Pre Silent. Techno. Preview the line-up and save it on soundcheck.
+Ignez & Claudio PRC at E1 on Sat 3 Oct, London. 4 artists on the bill: Claudio PRC, Ignez, Livid (UK) and Pre Silent. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

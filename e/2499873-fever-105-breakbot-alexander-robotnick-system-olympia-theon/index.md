@@ -1,6 +1,6 @@
 # Fever 105: Breakbot, Alexander Robotnick, System Olympia, Theon Bower, Metroplane + more at Colour Factory
 
-Fever 105: Breakbot, Alexander Robotnick, System Olympia, Theon Bower, Metroplane + more at Colour Factory on Sat 7 Nov, London. 6 acts on the bill: Aeroplane, Alex Metric, Alexander Robotnick and Breakbot and 2 more. Disco. Preview the line-up and save it on soundcheck.
+Fever 105: Breakbot, Alexander Robotnick, System Olympia, Theon Bower, Metroplane + more at Colour Factory on Sat 7 Nov, London. 6 artists on the bill: Aeroplane, Alex Metric, Alexander Robotnick and Breakbot and 2 more. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

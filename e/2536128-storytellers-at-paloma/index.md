@@ -1,6 +1,6 @@
 # Storytellers at Paloma
 
-Storytellers at Paloma on Sat 28 Nov, Berlin. 2 acts on the bill: Adriano Scopece and Do you know Juno. House and Disco. Preview the line-up and save it on soundcheck.
+Storytellers at Paloma on Sat 28 Nov, Berlin. 2 artists on the bill: Adriano Scopece and Do you know Juno. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

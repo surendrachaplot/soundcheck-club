@@ -1,6 +1,6 @@
 # Max Cooper - DJ Set at Button Factory
 
-Max Cooper - DJ Set at Button Factory on Sat 26 Sept, Dublin. 1 act on the bill: Max Cooper. Techno and IDM. Preview the line-up and save it on soundcheck.
+Max Cooper - DJ Set at Button Factory on Sat 26 Sept, Dublin. 1 artist on the bill: Max Cooper. Techno and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

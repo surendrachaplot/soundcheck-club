@@ -1,6 +1,6 @@
 # Glitch presents Charlotte de Witte at Fort Manoel
 
-Glitch presents Charlotte de Witte at Fort Manoel on Sat 26 Sept, Malta. 1 act on the bill: Charlotte de Witte. Techno. Preview the line-up and save it on soundcheck.
+Glitch presents Charlotte de Witte at Fort Manoel on Sat 26 Sept, Malta. 1 artist on the bill: Charlotte de Witte. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

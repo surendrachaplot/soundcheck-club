@@ -1,6 +1,6 @@
 # F*** ME I'M FAMOUS! by David Guetta - CLOSING PARTY at Ushuaïa Ibiza
 
-F*** ME I'M FAMOUS! by David Guetta - CLOSING PARTY at Ushuaïa Ibiza on Mon 5 Oct, Ibiza. 4 acts on the bill: Afrojack, David Guetta, Matt Sassari and Paul Reynolds. Progressive House and House. Preview the line-up and save it on soundcheck.
+F*** ME I'M FAMOUS! by David Guetta - CLOSING PARTY at Ushuaïa Ibiza on Mon 5 Oct, Ibiza. 4 artists on the bill: Afrojack, David Guetta, Matt Sassari and Paul Reynolds. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

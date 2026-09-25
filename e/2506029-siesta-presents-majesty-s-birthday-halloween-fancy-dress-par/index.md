@@ -1,6 +1,6 @@
 # Siesta presents - Majesty's Birthday (Halloween Fancy Dress Party) at E1
 
-Siesta presents - Majesty's Birthday (Halloween Fancy Dress Party) at E1 on Sat 31 Oct, London. 4 acts on the bill: Beezo, DJ Majesty, Jerome Six and Shenin Amara. Tech House and Afro Tech. Preview the line-up and save it on soundcheck.
+Siesta presents - Majesty's Birthday (Halloween Fancy Dress Party) at E1 on Sat 31 Oct, London. 4 artists on the bill: Beezo, DJ Majesty, Jerome Six and Shenin Amara. Tech House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

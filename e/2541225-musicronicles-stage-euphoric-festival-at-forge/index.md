@@ -1,6 +1,6 @@
 # musicronicles Stage — Euphoric Festival at Forge
 
-musicronicles Stage — Euphoric Festival at Forge on Fri 2 Oct, Bucharest. 5 acts on the bill: Empat, Erhardt Schuster, Jakob Zed and Nacho Carbajal and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
+musicronicles Stage — Euphoric Festival at Forge on Fri 2 Oct, Bucharest. 5 artists on the bill: Empat, Erhardt Schuster, Jakob Zed and Nacho Carbajal and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

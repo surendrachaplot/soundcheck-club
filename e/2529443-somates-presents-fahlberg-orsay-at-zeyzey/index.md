@@ -1,6 +1,6 @@
 # Somates presents: Fahlberg, Orsay at ZeyZey
 
-Somates presents: Fahlberg, Orsay at ZeyZey on Fri 9 Oct, Miami. 2 acts on the bill: Fahlberg and Orsay. Techno. Preview the line-up and save it on soundcheck.
+Somates presents: Fahlberg, Orsay at ZeyZey on Fri 9 Oct, Miami. 2 artists on the bill: Fahlberg and Orsay. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

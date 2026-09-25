@@ -1,6 +1,6 @@
 # Niels Orens support: echofarmer at Cinetol
 
-Niels Orens support: echofarmer at Cinetol on Thu 22 Oct, Amsterdam. 2 acts on the bill: echofarmer and Niels Orens. Preview the line-up and save it on soundcheck.
+Niels Orens support: echofarmer at Cinetol on Thu 22 Oct, Amsterdam. 2 artists on the bill: echofarmer and Niels Orens. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ANNĒ - Ben Klock - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 ) 95 %  SOLD OUT at Under Club
 
-ANNĒ - Ben Klock - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 ) 95 %  SOLD OUT at Under Club on Sun 27 Sept, Buenosaires. 6 acts on the bill: ANNĒ, Ben Klock, Bondarük and JXXXO and 2 more. Techno. Preview the line-up and save it on soundcheck.
+ANNĒ - Ben Klock - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 ) 95 %  SOLD OUT at Under Club on Sun 27 Sept, Buenos Aires. 6 artists on the bill: ANNĒ, Ben Klock, Bondarük and JXXXO and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 LEON SCHANZENBACH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Summerhall, Edinburgh on Sat, 31 Oct 2026.
 
-LEON SCHANZENBACH is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Cologne, Dusseldorf and Edinburgh and 3 more. Often billed alongside Bailey Ibbs, DJ Saunameister and Hypnosta. Next up: Summerhall, Edinburgh on Sat 31 Oct.
+LEON SCHANZENBACH is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Cologne, Düsseldorf and Edinburgh and 3 more. Often billed alongside Bailey Ibbs, DJ Saunameister and Hypnosta. Next up: Summerhall, Edinburgh on Sat 31 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # La Paloma meets Toy Tonics: Stump Valley, ALOT, Sam Ruffillo, Gee Lane at La Paloma
 
-La Paloma meets Toy Tonics: Stump Valley, ALOT, Sam Ruffillo, Gee Lane on Fri 2 Oct, Barcelona. 4 acts on the bill: ALOT, Gee Lane, Sam Ruffillo and Stump Valley. House and Disco. Preview the line-up and save it on soundcheck.
+La Paloma meets Toy Tonics: Stump Valley, ALOT, Sam Ruffillo, Gee Lane on Fri 2 Oct, Barcelona. 4 artists on the bill: ALOT, Gee Lane, Sam Ruffillo and Stump Valley. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

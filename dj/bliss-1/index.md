@@ -2,7 +2,7 @@
 
 Bliss (1) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lion Super Club, Seoul on Sat, 26 Sept 2026.
 
-Bliss (1) is a techno and electro artist based in France, tracked on soundcheck, with 17 sets logged across Barcelona, Copenhagen, Losangeles and Paris and 3 more. Often billed alongside Ad Astra, Dictent Vroom and Louis The 4th. Next up: Lion Super Club, Seoul on Sat 26 Sept.
+Bliss is a techno and electro artist based in France, tracked on soundcheck, with 17 sets logged across Barcelona, Copenhagen, Los Angeles and Paris and 3 more. Often billed alongside Ad Astra, Dictent Vroom and Louis The 4th. Next up: Lion Super Club, Seoul on Sat 26 Sept.
 
 ## Upcoming shows
 

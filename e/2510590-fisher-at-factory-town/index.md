@@ -1,6 +1,6 @@
 # FISHER at Factory Town
 
-FISHER at Factory Town on Sat 26 Sept, Miami. 1 act on the bill: FISHER. Preview the line-up and save it on soundcheck.
+FISHER at Factory Town on Sat 26 Sept, Miami. 1 artist on the bill: FISHER. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

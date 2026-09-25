@@ -1,6 +1,6 @@
 # Jane Fitz curates VBX - SECRET WAREHOUSE - SUNDAY DAY at TBA
 
-Jane Fitz curates VBX - SECRET WAREHOUSE - SUNDAY DAY at TBA on Sun 25 Oct, Amsterdam. 6 acts on the bill: Alexia Glensy, Bitzer Maloney, Jane Fitz and Michelle and 2 more. Preview the line-up and save it on soundcheck.
+Jane Fitz curates VBX - SECRET WAREHOUSE - SUNDAY DAY at TBA on Sun 25 Oct, Amsterdam. 6 artists on the bill: Alexia Glensy, Bitzer Maloney, Jane Fitz and Michelle and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

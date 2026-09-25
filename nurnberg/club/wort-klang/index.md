@@ -2,7 +2,7 @@
 
 Wort & Klang is a music venue in Nürnberg with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Transmissions from Deep Space" on Sat, 3 Oct 2026.
 
-Wort & Klang is a music venue in Nurnberg listed on soundcheck. 1 upcoming gig, with line-ups including Armin Bender. Browse upcoming dates, start times and who's playing.
+Wort & Klang is a music venue in Nürnberg listed on soundcheck. 1 upcoming gig, with line-ups including Armin Bender. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

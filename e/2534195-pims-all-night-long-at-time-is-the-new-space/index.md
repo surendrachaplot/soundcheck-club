@@ -1,6 +1,6 @@
 # Pims ALL NIGHT LONG at Time is the new space
 
-Pims ALL NIGHT LONG at Time is the new space on Sat 26 Sept, Rotterdam. 1 act on the bill: Pims. Preview the line-up and save it on soundcheck.
+Pims ALL NIGHT LONG at Time is the new space on Sat 26 Sept, Rotterdam. 1 artist on the bill: Pims. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

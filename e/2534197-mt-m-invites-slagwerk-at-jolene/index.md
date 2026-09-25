@@ -1,6 +1,6 @@
 # MT>M invites Slagwerk at Jolene
 
-MT>M invites Slagwerk at Jolene on Fri 25 Sept, Copenhagen. 7 acts on the bill: Exilee, Heddah, oqbqbo and Otis (BE) and 3 more. Electro and Club. Preview the line-up and save it on soundcheck.
+MT>M invites Slagwerk at Jolene on Fri 25 Sept, Copenhagen. 7 artists on the bill: Exilee, Heddah, oqbqbo and Otis (BE) and 3 more. Electro and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

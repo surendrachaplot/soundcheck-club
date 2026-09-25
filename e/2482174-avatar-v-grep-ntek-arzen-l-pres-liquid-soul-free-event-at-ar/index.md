@@ -1,6 +1,6 @@
 # Avatar & VégrePéntek! & Arzenál pres. Liquid Soul - FREE EVENT at Arzenal
 
-Avatar & VégrePéntek! & Arzenál pres. Liquid Soul - FREE EVENT at Arzenal on Sat 3 Oct, Budapest. 1 act on the bill: Liquid Soul. Preview the line-up and save it on soundcheck.
+Avatar & VégrePéntek! & Arzenál pres. Liquid Soul - FREE EVENT at Arzenal on Sat 3 Oct, Budapest. 1 artist on the bill: Liquid Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

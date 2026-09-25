@@ -1,6 +1,6 @@
 # Boris & Nevermind pres. Catz 'N Dogz, Oriol Calvo, Marcel BS at BORIS CLUB
 
-Boris & Nevermind pres. Catz 'N Dogz, Oriol Calvo, Marcel BS at BORIS CLUB on Fri 16 Oct, Barcelona. 2 acts on the bill: Catz 'N Dogz and Oriol Calvo. House. Preview the line-up and save it on soundcheck.
+Boris & Nevermind pres. Catz 'N Dogz, Oriol Calvo, Marcel BS at BORIS CLUB on Fri 16 Oct, Barcelona. 2 artists on the bill: Catz 'N Dogz and Oriol Calvo. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ctrl x aim+wall present: A Guy Called Gerald [UK][LIVE] at control
 
-ctrl x aim+wall present: A Guy Called Gerald [UK][LIVE] at control on Thu 24 Sept, Bucharest. 2 acts on the bill: A Guy Called Gerald and aim+wall. Drum & Bass and Acid. Preview the line-up and save it on soundcheck.
+ctrl x aim+wall present: A Guy Called Gerald [UK][LIVE] at control on Thu 24 Sept, Bucharest. 2 artists on the bill: A Guy Called Gerald and aim+wall. Drum & Bass and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

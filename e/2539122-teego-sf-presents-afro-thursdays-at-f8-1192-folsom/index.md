@@ -1,6 +1,6 @@
 # Teego SF presents Afro Thursdays at F8 1192 Folsom
 
-Teego SF presents Afro Thursdays at F8 1192 Folsom on Thu 24 Sept, Sanfrancisco. 3 acts on the bill: ALEX GOODCAT, HIDRA and PADRE BLESS. House and Afro House. Preview the line-up and save it on soundcheck.
+Teego SF presents Afro Thursdays at F8 1192 Folsom on Thu 24 Sept, San Francisco/Oakland. 3 artists on the bill: ALEX GOODCAT, HIDRA and PADRE BLESS. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

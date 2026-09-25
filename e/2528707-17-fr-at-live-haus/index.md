@@ -1,6 +1,6 @@
 # 17℃FR at Live Haus
 
-17℃FR at Live Haus on Fri 9 Oct, Tokyo. 3 acts on the bill: eijin, Lymph and Xamd. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+17℃FR at Live Haus on Fri 9 Oct, Tokyo. 3 artists on the bill: eijin, Lymph and Xamd. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

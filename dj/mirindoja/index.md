@@ -2,7 +2,7 @@
 
 Mirin Doja is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
 
-Mirin Doja is a club and bass artist based in United States of America, tracked on soundcheck, with 45 sets logged across Losangeles, Newyorkcity, Philadelphia and Portland and 2 more. Often billed alongside Korra the Kid, Hyeonje and Succubass. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
+Mirin Doja is a club and bass artist based in United States of America, tracked on soundcheck, with 45 sets logged across Los Angeles, New York City, Philadelphia and Portland and 2 more. Often billed alongside Korra the Kid, Hyeonje and Succubass. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
 
 ## Upcoming shows
 

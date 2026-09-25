@@ -1,6 +1,6 @@
 # Soul Mass Transit System presents: Grand Soul Central at The Loft
 
-Soul Mass Transit System presents: Grand Soul Central at The Loft on Sat 17 Oct, Manchester. 2 acts on the bill: Reeshy and Soul Mass Transit System. Preview the line-up and save it on soundcheck.
+Soul Mass Transit System presents: Grand Soul Central at The Loft on Sat 17 Oct, Manchester. 2 artists on the bill: Reeshy and Soul Mass Transit System. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

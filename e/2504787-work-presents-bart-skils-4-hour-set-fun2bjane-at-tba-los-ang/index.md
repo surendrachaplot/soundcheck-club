@@ -1,6 +1,6 @@
 # WORK presents: Bart Skils [4 Hour Set] & fun2bjane at TBA - Los Angeles
 
-WORK presents: Bart Skils [4 Hour Set] & fun2bjane at TBA - Los Angeles on Fri 9 Oct, Losangeles. 2 acts on the bill: Bart Skils and fun2bjane. Techno. Preview the line-up and save it on soundcheck.
+WORK presents: Bart Skils [4 Hour Set] & fun2bjane at TBA - Los Angeles on Fri 9 Oct, Los Angeles. 2 artists on the bill: Bart Skils and fun2bjane. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Deborah De Luca at Ritter Butzke
 
-Deborah De Luca at Ritter Butzke on Fri 18 Dec, Berlin. 3 acts on the bill: Deborah De Luca, Mattia Saviolo and Rad.Lez. Techno. Preview the line-up and save it on soundcheck.
+Deborah De Luca at Ritter Butzke on Fri 18 Dec, Berlin. 3 artists on the bill: Deborah De Luca, Mattia Saviolo and Rad.Lez. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

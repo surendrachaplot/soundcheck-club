@@ -1,6 +1,6 @@
 # Into The Woods presents Objekt and gyrofield at TBA
 
-Into The Woods presents Objekt and gyrofield at TBA on Sun 4 Oct, Losangeles. 3 acts on the bill: gyrofield, Mesmé and Objekt. Techno and Bass. Preview the line-up and save it on soundcheck.
+Into The Woods presents Objekt and gyrofield at TBA on Sun 4 Oct, Los Angeles. 3 artists on the bill: gyrofield, Mesmé and Objekt. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Andreas Henneberg & Filmorchester Babelsberg // Synth Happens at Nikolaisaal Potsdam
 
-Andreas Henneberg & Filmorchester Babelsberg // Synth Happens at Nikolaisaal Potsdam on Sat 7 Nov, Berlin. 1 act on the bill: Andreas Henneberg. Techno and Classical. Preview the line-up and save it on soundcheck.
+Andreas Henneberg & Filmorchester Babelsberg // Synth Happens at Nikolaisaal Potsdam on Sat 7 Nov, Berlin. 1 artist on the bill: Andreas Henneberg. Techno and Classical. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

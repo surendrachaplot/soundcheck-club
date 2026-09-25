@@ -1,6 +1,6 @@
 # Morgan Seatree Liverpool at Blackstone Street Warehouse
 
-Morgan Seatree Liverpool at Blackstone Street Warehouse on Sat 5 Dec, Liverpool. 1 act on the bill: Morgan Seatree. House. Preview the line-up and save it on soundcheck.
+Morgan Seatree Liverpool at Blackstone Street Warehouse on Sat 5 Dec, Liverpool. 1 artist on the bill: Morgan Seatree. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

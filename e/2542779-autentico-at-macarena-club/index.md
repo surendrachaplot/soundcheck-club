@@ -1,6 +1,6 @@
 # Autentico at Macarena Club
 
-Autentico at Macarena Club on Thu 8 Oct, Barcelona. 2 acts on the bill: Karla Amaro and Stefano Noferini. Preview the line-up and save it on soundcheck.
+Autentico at Macarena Club on Thu 8 Oct, Barcelona. 2 artists on the bill: Karla Amaro and Stefano Noferini. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

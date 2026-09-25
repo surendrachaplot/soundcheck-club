@@ -1,6 +1,6 @@
 # Broken Hill at Club Vinyl
 
-Broken Hill at Club Vinyl on Fri 23 Oct, Denver. 1 act on the bill: Broken Hill. House. Preview the line-up and save it on soundcheck.
+Broken Hill at Club Vinyl on Fri 23 Oct, Denver. 1 artist on the bill: Broken Hill. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

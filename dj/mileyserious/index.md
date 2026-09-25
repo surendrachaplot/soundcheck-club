@@ -2,7 +2,7 @@
 
 Miley Serious is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 25 Sept 2026.
 
-Miley Serious is a techno and house artist based in France, tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 52 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: TRANSMISSION DC, Washingtondc on Fri 25 Sept.
+Miley Serious is a techno and house artist based in France, tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 52 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: TRANSMISSION DC, Washington DC on Fri 25 Sept.
 
 ## Upcoming shows
 

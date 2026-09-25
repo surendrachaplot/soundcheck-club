@@ -1,6 +1,6 @@
 # Do Not Sit On Halloween at Do Not Sit On The Furniture
 
-Do Not Sit On Halloween at Do Not Sit On The Furniture on Sat 31 Oct, Miami. 1 act on the bill: Lehar. House and Deep House. Preview the line-up and save it on soundcheck.
+Do Not Sit On Halloween at Do Not Sit On The Furniture on Sat 31 Oct, Miami. 1 artist on the bill: Lehar. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

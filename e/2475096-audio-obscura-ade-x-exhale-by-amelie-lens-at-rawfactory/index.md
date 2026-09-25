@@ -1,6 +1,6 @@
 # Audio Obscura ADE x EXHALE by Amelie Lens at RAWFACTORY
 
-Audio Obscura ADE x EXHALE by Amelie Lens at RAWFACTORY on Fri 23 Oct, Amsterdam. 10 acts on the bill: Adiel, Amelie Lens, Anfisa Letyago and BLONDEX and 6 more. Techno. Preview the line-up and save it on soundcheck.
+Audio Obscura ADE x EXHALE by Amelie Lens at RAWFACTORY on Fri 23 Oct, Amsterdam. 10 artists on the bill: Adiel, Amelie Lens, Anfisa Letyago and BLONDEX and 6 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LED presents Nu Moda San Diego with Max Styler, Hot Since 82 & SCENARIOS at Gallagher Square
 
-LED presents Nu Moda San Diego with Max Styler, Hot Since 82 & SCENARIOS at Gallagher Square on Sat 28 Nov, Sandiego. 5 acts on the bill: Emanuel Satie, Hot Since 82, MAGA and Max Styler and 1 more. Preview the line-up and save it on soundcheck.
+LED presents Nu Moda San Diego with Max Styler, Hot Since 82 & SCENARIOS at Gallagher Square on Sat 28 Nov, San Diego. 5 artists on the bill: Emanuel Satie, Hot Since 82, MAGA and Max Styler and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

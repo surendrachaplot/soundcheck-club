@@ -1,6 +1,6 @@
 # BAR PIMENT at Bar Piment
 
-BAR PIMENT at Bar Piment on Fri 25 Sept, Seoul. 2 acts on the bill: Mimiq and Sunday Lee. Preview the line-up and save it on soundcheck.
+BAR PIMENT at Bar Piment on Fri 25 Sept, Seoul. 2 artists on the bill: Mimiq and Sunday Lee. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

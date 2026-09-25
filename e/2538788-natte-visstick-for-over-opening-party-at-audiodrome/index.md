@@ -1,6 +1,6 @@
 # NATTE VISSTICK for OVER OPENING PARTY at Audiodrome
 
-NATTE VISSTICK for OVER OPENING PARTY at Audiodrome on Fri 25 Sept, Turin. 3 acts on the bill: Gandalf, Mirko Motta and sizing. Techno. Preview the line-up and save it on soundcheck.
+NATTE VISSTICK for OVER OPENING PARTY at Audiodrome on Fri 25 Sept, Turin. 3 artists on the bill: Gandalf, Mirko Motta and sizing. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

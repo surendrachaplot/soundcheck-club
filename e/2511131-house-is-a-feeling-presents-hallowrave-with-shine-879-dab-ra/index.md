@@ -1,6 +1,6 @@
 # House is a feeling presents Hallowrave with Shine 879 dab & Ravedays at Fire & Lightbox
 
-House is a feeling presents Hallowrave with Shine 879 dab & Ravedays at Fire & Lightbox on Sat 31 Oct, London. 25 acts on the bill: Ben Jammin, Billy Daniel Bunter, Boundless (1) and Charlie Brown and 21 more. Tech House and Club. Preview the line-up and save it on soundcheck.
+House is a feeling presents Hallowrave with Shine 879 dab & Ravedays at Fire & Lightbox on Sat 31 Oct, London. 25 artists on the bill: Ben Jammin, Billy Daniel Bunter, Boundless and Charlie Brown and 21 more. Tech House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

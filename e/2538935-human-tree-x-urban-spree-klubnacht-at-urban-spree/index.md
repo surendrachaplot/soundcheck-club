@@ -1,6 +1,6 @@
 # Human Tree x Urban Spree Klubnacht at Urban Spree
 
-Human Tree x Urban Spree Klubnacht on Fri 9 Oct, Berlin. 3 acts on the bill: Bam Bam's Boogie, Delta Division and N ska. Electronica. Preview the line-up and save it on soundcheck.
+Human Tree x Urban Spree Klubnacht on Fri 9 Oct, Berlin. 3 artists on the bill: Bam Bam's Boogie, Delta Division and N ska. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Meanwhile x Solis Labelshowcase ADE at Akhnaton
 
-Meanwhile x Solis Labelshowcase ADE at Akhnaton on Thu 22 Oct, Amsterdam. 6 acts on the bill: Alex O'Rion, Anthony Rhino, Dowden and Kasper Koman and 2 more. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
+Meanwhile x Solis Labelshowcase ADE at Akhnaton on Thu 22 Oct, Amsterdam. 6 artists on the bill: Alex O'Rion, Anthony Rhino, Dowden and Kasper Koman and 2 more. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

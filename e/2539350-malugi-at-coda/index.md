@@ -1,6 +1,6 @@
 # MALUGI at Coda
 
-MALUGI at Coda on Sat 7 Nov, Toronto. 1 act on the bill: MALUGI. Preview the line-up and save it on soundcheck.
+MALUGI at Coda on Sat 7 Nov, Toronto. 1 artist on the bill: MALUGI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

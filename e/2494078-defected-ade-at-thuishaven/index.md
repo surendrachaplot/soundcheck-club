@@ -1,6 +1,6 @@
 # Defected ADE at Thuishaven
 
-Defected ADE at Thuishaven on Thu 22 Oct, Amsterdam. 7 acts on the bill: Joëlla Jackson, Makèz, Melé and Ranger Trucco and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Defected ADE at Thuishaven on Thu 22 Oct, Amsterdam. 7 artists on the bill: Joëlla Jackson, Makèz, Melé and Ranger Trucco and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

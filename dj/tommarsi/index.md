@@ -2,7 +2,7 @@
 
 Tom Marsi is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ESC, Montreal on Thu, 1 Oct 2026.
 
-Tom Marsi is a club and techno artist based in United States of America, tracked on soundcheck, with 104 sets logged across Chicago, Losangeles, Mexicocity and Montreal and 6 more. Often billed alongside Discnogirl, DJ CARO and RITCHRD. Next up: ESC, Montreal on Thu 1 Oct.
+Tom Marsi is a club and techno artist based in United States of America, tracked on soundcheck, with 104 sets logged across Chicago, Los Angeles, Mexico City and Montreal and 6 more. Often billed alongside Discnogirl, DJ CARO and RITCHRD. Next up: ESC, Montreal on Thu 1 Oct.
 
 ## Upcoming shows
 

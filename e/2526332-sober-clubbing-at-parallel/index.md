@@ -1,6 +1,6 @@
 # Sober Clubbing at Parallel
 
-Sober Clubbing at Parallel on Sun 27 Sept, Amsterdam. 4 acts on the bill: Dominika Karaszewska, Julia Mira, Liso (1) and OZUM. Techno and Ambient. Preview the line-up and save it on soundcheck.
+Sober Clubbing at Parallel on Sun 27 Sept, Amsterdam. 4 artists on the bill: Dominika Karaszewska, Julia Mira, Liso and OZUM. Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

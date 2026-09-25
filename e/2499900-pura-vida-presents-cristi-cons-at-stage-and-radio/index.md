@@ -1,6 +1,6 @@
 # Pura Vida presents: Cristi Cons at Stage and Radio
 
-Pura Vida presents: Cristi Cons at Stage and Radio on Sat 26 Sept, Manchester. 3 acts on the bill: Cristi Cons, j:me and Theo Cave (2). Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Pura Vida presents: Cristi Cons at Stage and Radio on Sat 26 Sept, Manchester. 3 artists on the bill: Cristi Cons, j:me and Theo Cave. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

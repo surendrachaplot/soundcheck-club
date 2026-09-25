@@ -1,6 +1,6 @@
 # Get On - London at Cu
 
-Get On - London at Cu on Fri 30 Oct, London. 3 acts on the bill: Cathal, Horne and Luun. House and Garage. Preview the line-up and save it on soundcheck.
+Get On - London at Cu on Fri 30 Oct, London. 3 artists on the bill: Cathal, Horne and Luun. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

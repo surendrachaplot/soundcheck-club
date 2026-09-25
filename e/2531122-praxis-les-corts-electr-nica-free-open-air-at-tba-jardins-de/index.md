@@ -1,6 +1,6 @@
 # Praxis: Les Corts Electrònica (Free Open Air) at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona)
 
-Praxis: Les Corts Electrònica (Free Open Air) at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona) on Sat 10 Oct, Barcelona. 1 act on the bill: Hades PRX. Electro and Electronica. Preview the line-up and save it on soundcheck.
+Praxis: Les Corts Electrònica (Free Open Air) at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona) on Sat 10 Oct, Barcelona. 1 artist on the bill: Hades PRX. Electro and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # WobbleArt at Apotheke
 
-WobbleArt at Apotheke on Sat 26 Sept, Losangeles. 2 acts on the bill: Gay Felony and Jen Ferrer. Deep House. Preview the line-up and save it on soundcheck.
+WobbleArt at Apotheke on Sat 26 Sept, Los Angeles. 2 artists on the bill: Gay Felony and Jen Ferrer. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

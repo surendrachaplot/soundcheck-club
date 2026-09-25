@@ -1,6 +1,6 @@
 # Hedda Stenberg Invites: Emanuel Satie - Ivory - Hedda Stenberg - Tonco b2b ARC at Het Sieraad
 
-Hedda Stenberg Invites: Emanuel Satie - Ivory - Hedda Stenberg - Tonco b2b ARC at Het Sieraad on Sat 10 Oct, Amsterdam. 5 acts on the bill: Arc Music, Emanuel Satie, Hedda Stenberg and Ivory and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Hedda Stenberg Invites: Emanuel Satie - Ivory - Hedda Stenberg - Tonco b2b ARC at Het Sieraad on Sat 10 Oct, Amsterdam. 5 artists on the bill: Arc Music, Emanuel Satie, Hedda Stenberg and Ivory and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

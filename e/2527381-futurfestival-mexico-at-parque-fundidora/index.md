@@ -1,6 +1,6 @@
 # FuturFestival Mexico at Parque Fundidora
 
-FuturFestival Mexico at Parque Fundidora on Fri 13 Nov, Monterrey. 45 acts on the bill: AAAA, Adiel, Airrica and ANNA and 41 more. Preview the line-up and save it on soundcheck.
+FuturFestival Mexico at Parque Fundidora on Fri 13 Nov, Monterrey. 45 artists on the bill: AAAA, Adiel, Airrica and ANNA and 41 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

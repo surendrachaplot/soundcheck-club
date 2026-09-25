@@ -2,7 +2,7 @@
 
 Emma (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Der Weiße Hase, Berlin on Sat, 28 Nov 2026.
 
-Emma (1) is a techno and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Buenosaires, Detroit and Hamburg and 5 more. Often billed alongside AGELESS, Adrian Cardoso and Akarsh. Next up: Der Weiße Hase, Berlin on Sat 28 Nov.
+Emma is a techno and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Buenos Aires, Detroit and Hamburg and 5 more. Often billed alongside AGELESS, Adrian Cardoso and Akarsh. Next up: Der Weiße Hase, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 

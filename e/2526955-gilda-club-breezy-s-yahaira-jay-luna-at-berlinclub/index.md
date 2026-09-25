@@ -1,6 +1,6 @@
 # Gilda Club · Breezy S + Yahaira + Jay Luna at berlinClub
 
-Gilda Club · Breezy S + Yahaira + Jay Luna at berlinClub on Fri 25 Sept, Madrid. 3 acts on the bill: Breezy S, Jay Luna and Yahaira. House and Electro. Preview the line-up and save it on soundcheck.
+Gilda Club · Breezy S + Yahaira + Jay Luna at berlinClub on Fri 25 Sept, Madrid. 3 artists on the bill: Breezy S, Jay Luna and Yahaira. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

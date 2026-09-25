@@ -1,6 +1,6 @@
 # [FREE ENTRY TILL 00:30] SAVORY at OST
 
-[FREE ENTRY TILL 00:30] SAVORY at OST on Thu 24 Sept, Berlin. 3 acts on the bill: MAURER, sima (DE) and WAN.1. Trance and Techno. Preview the line-up and save it on soundcheck.
+[FREE ENTRY TILL 00:30] SAVORY at OST on Thu 24 Sept, Berlin. 3 artists on the bill: MAURER, sima (DE) and WAN.1. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

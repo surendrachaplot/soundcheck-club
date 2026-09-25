@@ -1,6 +1,6 @@
 # ঌ CRUDE 7 Years ঌ at TBA - Warehouse 10365 Berlin
 
-ঌ CRUDE 7 Years ঌ at TBA - Warehouse 10365 Berlin on Sat 17 Oct, Berlin. 4 acts on the bill: Kaytseng, Korl, Qi (ARM) and TOMO (2). Preview the line-up and save it on soundcheck.
+ঌ CRUDE 7 Years ঌ at TBA - Warehouse 10365 Berlin on Sat 17 Oct, Berlin. 4 artists on the bill: Kaytseng, Korl, Qi (ARM) and TOMO. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

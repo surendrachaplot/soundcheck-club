@@ -1,6 +1,6 @@
 # The Final Stretch at Garage Noord
 
-The Final Stretch at Garage Noord on Sun 25 Oct, Amsterdam. 27 acts on the bill: 42nd Avenue, Akua, Andy (NL) and Angel D'lite and 23 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+The Final Stretch at Garage Noord on Sun 25 Oct, Amsterdam. 27 artists on the bill: 42nd Avenue, Akua, Andy (NL) and Angel D'lite and 23 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

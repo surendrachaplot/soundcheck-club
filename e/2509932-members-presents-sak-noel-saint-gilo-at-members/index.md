@@ -1,6 +1,6 @@
 # Members presents: SAK NOEL - SAINT GILO at Members
 
-Members presents: SAK NOEL - SAINT GILO on Sat 26 Sept, Losangeles. House and Afro House. Preview the line-up and save it on soundcheck.
+Members presents: SAK NOEL - SAINT GILO on Sat 26 Sept, Los Angeles. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

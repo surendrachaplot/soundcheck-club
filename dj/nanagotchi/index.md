@@ -2,7 +2,7 @@
 
 NANAGOTCHI is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
-NANAGOTCHI is a hardcore and club artist based in United States of America, tracked on soundcheck, with 9 sets logged across Washingtondc. Often billed alongside Girlypop Princess, ILUSM and EL SUCIO. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
+NANAGOTCHI is a hardcore and club artist based in United States of America, tracked on soundcheck, with 9 sets logged across Washington DC. Often billed alongside Girlypop Princess, ILUSM and EL SUCIO. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # HORS-SOL x Sentaku — ADE : Sugar Free, Forest b2b Jolly, LAMALICE (live), Massaï b2b Ill Spleen at Hasta La Vista, Baby
 
-HORS-SOL x Sentaku — ADE : Sugar Free, Forest b2b Jolly, LAMALICE (live), Massaï b2b Ill Spleen at Hasta La Vista, Baby on Sun 25 Oct, Amsterdam. 6 acts on the bill: Forest, Ill Spleen, Jolly (FR) and LAMALICE and 2 more. Preview the line-up and save it on soundcheck.
+HORS-SOL x Sentaku — ADE : Sugar Free, Forest b2b Jolly, LAMALICE (live), Massaï b2b Ill Spleen at Hasta La Vista, Baby on Sun 25 Oct, Amsterdam. 6 artists on the bill: Forest, Ill Spleen, Jolly (FR) and LAMALICE and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

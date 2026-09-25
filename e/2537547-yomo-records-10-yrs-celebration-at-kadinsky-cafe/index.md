@@ -1,6 +1,6 @@
 # Yomo Records 10 Yrs Celebration at Kadinsky Cafe
 
-Yomo Records 10 Yrs Celebration at Kadinsky Cafe on Fri 23 Oct, Amsterdam. 4 acts on the bill: Forty Cats, Mike Koglin, MoodFreak and Rikken. Progressive House. Preview the line-up and save it on soundcheck.
+Yomo Records 10 Yrs Celebration at Kadinsky Cafe on Fri 23 Oct, Amsterdam. 4 artists on the bill: Forty Cats, Mike Koglin, MoodFreak and Rikken. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

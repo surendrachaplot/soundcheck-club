@@ -1,6 +1,6 @@
 # Sintetic Club: The Opening at The Bassement
 
-Sintetic Club: The Opening at The Bassement on Thu 24 Sept, Madrid. 5 acts on the bill: @n3opapi, DJ SEXSTASY, gitano del futuro and Legiøn and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Sintetic Club: The Opening at The Bassement on Thu 24 Sept, Madrid. 5 artists on the bill: @n3opapi, DJ SEXSTASY, gitano del futuro and Legiøn and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # [POSTPONED] COAL COLLECTIVE PRESENTS at Orange Room
 
-[POSTPONED] COAL COLLECTIVE PRESENTS at Orange Room on Sun 18 Oct, London. 3 acts on the bill: Lulu (UK), SHIVYR and YVES (3). House and Garage. Preview the line-up and save it on soundcheck.
+[POSTPONED] COAL COLLECTIVE PRESENTS at Orange Room on Sun 18 Oct, London. 3 artists on the bill: Lulu (UK), SHIVYR and YVES. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

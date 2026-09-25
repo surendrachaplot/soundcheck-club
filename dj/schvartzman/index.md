@@ -2,7 +2,7 @@
 
 Schvartz Man is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Amerika, Buenos Aires on Sat, 26 Sept 2026.
 
-Schvartz Man is a techno and industrial artist based in Argentina, tracked on soundcheck, with 15 sets logged across Buenosaires. Often billed alongside Leo Force, Nicolas Salgado and Valentina Spirito. Next up: Amerika, Buenosaires on Sat 26 Sept.
+Schvartz Man is a techno and industrial artist based in Argentina, tracked on soundcheck, with 15 sets logged across Buenos Aires. Often billed alongside Leo Force, Nicolas Salgado and Valentina Spirito. Next up: Amerika, Buenos Aires on Sat 26 Sept.
 
 ## Upcoming shows
 

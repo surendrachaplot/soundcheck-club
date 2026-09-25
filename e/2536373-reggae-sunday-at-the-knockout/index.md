@@ -1,6 +1,6 @@
 # Reggae Sunday at The Knockout
 
-Reggae Sunday at The Knockout on Sun 27 Sept, Sanfrancisco. Dub and Dancehall. Preview the line-up and save it on soundcheck.
+Reggae Sunday at The Knockout on Sun 27 Sept, San Francisco/Oakland. Dub and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

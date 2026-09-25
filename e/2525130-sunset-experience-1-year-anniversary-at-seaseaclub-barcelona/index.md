@@ -1,6 +1,6 @@
 # Sunset Experience 1 Year Anniversary at Seaseaclub Barcelona
 
-Sunset Experience 1 Year Anniversary at Seaseaclub Barcelona on Sat 26 Sept, Barcelona. 3 acts on the bill: DJ SOFÍDIA, Tanya Andros and Tom Banner. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunset Experience 1 Year Anniversary at Seaseaclub Barcelona on Sat 26 Sept, Barcelona. 3 artists on the bill: DJ SOFÍDIA, Tanya Andros and Tom Banner. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

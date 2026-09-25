@@ -1,6 +1,6 @@
 # Jam City at Smoke & Mirrors
 
-Jam City at Smoke & Mirrors on Thu 24 Sept, Chicago. 1 act on the bill: Jam City. Electro. Preview the line-up and save it on soundcheck.
+Jam City at Smoke & Mirrors on Thu 24 Sept, Chicago. 1 artist on the bill: Jam City. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI at Auditorium San Fedele
 
-INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI at Auditorium San Fedele on Mon 26 Oct, Milan. 1 act on the bill: Hélène Vogelsinger. Preview the line-up and save it on soundcheck.
+INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI at Auditorium San Fedele on Mon 26 Oct, Milan. 1 artist on the bill: Hélène Vogelsinger. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

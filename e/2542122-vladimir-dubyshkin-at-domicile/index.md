@@ -1,6 +1,6 @@
 # Vladimir Dubyshkin at Domicile
 
-Vladimir Dubyshkin at Domicile on Sat 26 Sept, Miami. 4 acts on the bill: Grace Dahl, Mila Gama, Ultrathem and Vladimir Dubyshkin. Techno. Preview the line-up and save it on soundcheck.
+Vladimir Dubyshkin at Domicile on Sat 26 Sept, Miami. 4 artists on the bill: Grace Dahl, Mila Gama, Ultrathem and Vladimir Dubyshkin. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

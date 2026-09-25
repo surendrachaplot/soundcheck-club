@@ -1,6 +1,6 @@
 # Ron Like Hell invites: Alissa Brianna + HONEY B at Signal
 
-Ron Like Hell invites: Alissa Brianna + HONEY B at Signal on Sat 26 Sept, Newyorkcity. 3 acts on the bill: Alissa Brianna, HONEY B and Ron Like Hell. Preview the line-up and save it on soundcheck.
+Ron Like Hell invites: Alissa Brianna + HONEY B at Signal on Sat 26 Sept, New York City. 3 artists on the bill: Alissa Brianna, HONEY B and Ron Like Hell. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

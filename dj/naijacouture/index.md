@@ -2,7 +2,7 @@
 
 Naija Couture is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paragon, New York City on Fri, 2 Oct 2026.
 
-Naija Couture is a club and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Newyorkcity, Philadelphia, Sanfrancisco and Toronto. Often billed alongside ONEELEVEN, ARCHANGEL (US) and DOLLNXTDOOR. Next up: Paragon, Newyorkcity on Fri 2 Oct.
+Naija Couture is a club and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across New York City, Philadelphia, San Francisco/Oakland and Toronto. Often billed alongside ONEELEVEN, ARCHANGEL (US) and DOLLNXTDOOR. Next up: Paragon, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 

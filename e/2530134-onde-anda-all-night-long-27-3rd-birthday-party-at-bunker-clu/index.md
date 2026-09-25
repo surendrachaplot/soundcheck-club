@@ -1,6 +1,6 @@
 # Onde Anda: All Night Long #27 (3rd birthday party) at Bunker Club
 
-Onde Anda: All Night Long #27 (3rd birthday party) at Bunker Club on Sat 26 Sept, London. 1 act on the bill: Onde Anda. Funk / Soul and Latin Bass. Preview the line-up and save it on soundcheck.
+Onde Anda: All Night Long #27 (3rd birthday party) at Bunker Club on Sat 26 Sept, London. 1 artist on the bill: Onde Anda. Funk / Soul and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ogazón (DE) at Plano B
 
-Ogazón (DE) at Plano B on Fri 13 Nov, Porto. 1 act on the bill: Ogazón. Techno and House. Preview the line-up and save it on soundcheck.
+Ogazón (DE) at Plano B on Fri 13 Nov, Porto. 1 artist on the bill: Ogazón. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # dohan & Friends at Macarena Club
 
-dohan & Friends at Macarena Club on Thu 29 Oct, Barcelona. 2 acts on the bill: dohan and Saulo Pisa. Preview the line-up and save it on soundcheck.
+dohan & Friends at Macarena Club on Thu 29 Oct, Barcelona. 2 artists on the bill: dohan and Saulo Pisa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

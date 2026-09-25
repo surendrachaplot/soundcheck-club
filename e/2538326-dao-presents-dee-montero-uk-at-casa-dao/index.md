@@ -1,6 +1,6 @@
 # DAO PRESENTS Dee Montero (UK) at Casa Dao
 
-DAO PRESENTS Dee Montero (UK) at Casa Dao on Fri 25 Sept, Hongkong. 1 act on the bill: Dee Montero. Techno and House. Preview the line-up and save it on soundcheck.
+DAO PRESENTS Dee Montero (UK) at Casa Dao on Fri 25 Sept, Hong Kong. 1 artist on the bill: Dee Montero. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

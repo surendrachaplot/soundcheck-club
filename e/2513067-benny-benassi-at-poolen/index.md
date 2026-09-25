@@ -1,6 +1,6 @@
 # Benny Benassi at Poolen
 
-Benny Benassi at Poolen on Sat 10 Oct, Copenhagen. 1 act on the bill: Benny Benassi. Techno. Preview the line-up and save it on soundcheck.
+Benny Benassi at Poolen on Sat 10 Oct, Copenhagen. 1 artist on the bill: Benny Benassi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

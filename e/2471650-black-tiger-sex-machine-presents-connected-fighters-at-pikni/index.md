@@ -1,6 +1,6 @@
 # Black Tiger Sex Machine presents Connected Fighters at Piknic Électronik / Parc Jean Drapeau
 
-Black Tiger Sex Machine presents Connected Fighters at Piknic Électronik / Parc Jean Drapeau on Sat 3 Oct, Montreal. 1 act on the bill: Black Tiger Sex Machine. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Black Tiger Sex Machine presents Connected Fighters at Piknic Électronik / Parc Jean Drapeau on Sat 3 Oct, Montreal. 1 artist on the bill: Black Tiger Sex Machine. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RECØMPØSE presents Working Men's Club (DJ Set) and Mathew Hum at Sidney & Matilda
 
-RECØMPØSE presents Working Men's Club (DJ Set) and Mathew Hum at Sidney & Matilda on Sat 17 Oct, Sheffield. 4 acts on the bill: Matt Hum, Sunny Side Up, Syd Minsky and Vinyl Richiee. New Wave and Electronica. Preview the line-up and save it on soundcheck.
+RECØMPØSE presents Working Men's Club (DJ Set) and Mathew Hum at Sidney & Matilda on Sat 17 Oct, Sheffield. 4 artists on the bill: Matt Hum, Sunny Side Up, Syd Minsky and Vinyl Richiee. New Wave and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

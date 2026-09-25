@@ -1,6 +1,6 @@
 # SOTTOSUONO // Gene On Earth at DURO
 
-SOTTOSUONO // Gene On Earth at DURO on Fri 16 Oct, Milan. 1 act on the bill: Gene On Earth. House. Preview the line-up and save it on soundcheck.
+SOTTOSUONO // Gene On Earth at DURO on Fri 16 Oct, Milan. 1 artist on the bill: Gene On Earth. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

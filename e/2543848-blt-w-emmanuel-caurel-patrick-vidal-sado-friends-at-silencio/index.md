@@ -1,6 +1,6 @@
 # BLT W/ EMMANUEL CAUREL, Patrick Vidal, SADO & FRIENDS at Silencio
 
-BLT W/ EMMANUEL CAUREL, Patrick Vidal, SADO & FRIENDS at Silencio on Fri 25 Sept, Paris. 1 act on the bill: Patrick Vidal. Preview the line-up and save it on soundcheck.
+BLT W/ EMMANUEL CAUREL, Patrick Vidal, SADO & FRIENDS at Silencio on Fri 25 Sept, Paris. 1 artist on the bill: Patrick Vidal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

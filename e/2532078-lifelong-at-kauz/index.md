@@ -1,6 +1,6 @@
 # lifelong at Kauz
 
-lifelong at Kauz on Fri 2 Oct, Zurich. 4 acts on the bill: Aline (CH), Annyrock, Bonnie OK and Cindy (CH). Breakbeat and House. Preview the line-up and save it on soundcheck.
+lifelong at Kauz on Fri 2 Oct, Zurich. 4 artists on the bill: Aline (CH), Annyrock, Bonnie OK and Cindy (CH). Breakbeat and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

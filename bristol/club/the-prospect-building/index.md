@@ -1,14 +1,13 @@
 # The Prospect Building
 
-The Prospect Building is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sirat Live AV" on Thu, 24 Sept 2026.
+The Prospect Building is a music venue in Bristol with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "10 Years Of SWU FM: Joy Orbison, DJ EZ" on Sat, 10 Oct 2026.
 
-The Prospect Building is a music venue in Bristol listed on soundcheck. 12 upcoming gigs, with line-ups including 4am Kru, AÆE, Above & Beyond and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
+The Prospect Building is a music venue in Bristol listed on soundcheck. 11 upcoming gigs, with line-ups including 4am Kru, AÆE, Above & Beyond and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Sirat Live AV | Kangding Ray |
 | Sat, 10 Oct 2026 | 10 Years Of SWU FM: Joy Orbison, DJ EZ | A For Alpha, Arlo, AÆE, Beavs, Caragh, Cheff The Boy, DJ Die, DJ EZ, DREAD MC, Felix Joy, HIJINX, Hazel Marimba, IZZIT, JPEG (3), Jakes, Josi Devil, Joy Orbison, KOAST, Lexxi, Medis, Milly on Air, Mulholland, OH91, Ollie Kirk, Pessimist, Phia500, Rose Holland, Syntax (2) |
 | Sat, 17 Oct 2026 | History Of Rave: Eats Everything, Groove Armada, Mike Skinner  | Eats Everything, Groove Armada, Lulah Francs, Mike Skinner, SGT Pokes, SHADEV, SHUFFA, Safiye, Scarlett O'Malley |
 | Fri, 30 Oct 2026 | Above & Beyond presents Anjunabeats Warehouse | Above & Beyond, Marsh, Mat Zo, Sanaz |
@@ -18,6 +17,7 @@ The Prospect Building is a music venue in Bristol listed on soundcheck. 12 upcom
 | Fri, 27 Nov 2026 | Teletech Bristol | BØĘRY, Lola Cerise, Restricted |
 | Sat, 28 Nov 2026 | ATW pres. Interplanetary Criminal + Guests | Interplanetary Criminal |
 | Fri, 4 Dec 2026 | 25 Years of Valve Sound System x Drum & Bass Classics - Bristol | Aries, Carasel, DJ Hype, Danny Byrd, Dazee (2), Dillinja, Eksman, Harry Shotta, Kelvin 373, Lemon D, Logan D, MC GQ, MC Texas, Majistrate, Moose, Mungo's Hi Fi, Nicky Blackmarket, Promo ZO, RYDA, Sleepless, Sweetpea, TC |
+| Thu, 17 Dec 2026 | Mastery x Tree Sonics present Quantum Sound Winter Solstice | Hania Rani, Hinako Omori |
 
 ## Address
 

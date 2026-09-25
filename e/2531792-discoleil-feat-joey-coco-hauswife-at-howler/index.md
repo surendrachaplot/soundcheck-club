@@ -1,6 +1,6 @@
 # DISCOLEIL feat. Joey Coco, HAUSWiFE, at Howler
 
-DISCOLEIL feat. Joey Coco, HAUSWiFE, at Howler on Sun 25 Oct, Melbourne. 2 acts on the bill: HAUSWiFE and Joey Coco. House and Disco. Preview the line-up and save it on soundcheck.
+DISCOLEIL feat. Joey Coco, HAUSWiFE, at Howler on Sun 25 Oct, Melbourne. 2 artists on the bill: HAUSWiFE and Joey Coco. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

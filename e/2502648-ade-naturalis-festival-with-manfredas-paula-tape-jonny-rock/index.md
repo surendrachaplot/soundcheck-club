@@ -1,6 +1,6 @@
 # ADE Naturalis festival with Manfredas, Paula Tape, Jonny Rock at Het Dorp
 
-ADE Naturalis festival with Manfredas, Paula Tape, Jonny Rock at Het Dorp on Thu 22 Oct, Amsterdam. 7 acts on the bill: Arista, Budino, Jonny Rock and Manfredas and 3 more. Preview the line-up and save it on soundcheck.
+ADE Naturalis festival with Manfredas, Paula Tape, Jonny Rock at Het Dorp on Thu 22 Oct, Amsterdam. 7 artists on the bill: Arista, Budino, Jonny Rock and Manfredas and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

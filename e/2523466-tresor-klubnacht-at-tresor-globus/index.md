@@ -1,6 +1,6 @@
 # Tresor Klubnacht at Tresor / Globus
 
-Tresor Klubnacht at Tresor / Globus on Sat 10 Oct, Berlin. 7 acts on the bill: Border One, Jacob Meehan, Paula Koski and Reka Zalan and 3 more. Preview the line-up and save it on soundcheck.
+Tresor Klubnacht at Tresor / Globus on Sat 10 Oct, Berlin. 7 artists on the bill: Border One, Jacob Meehan, Paula Koski and Reka Zalan and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Disfunction X Bounce: Pawlowski at Room 2 Glasgow
 
-Disfunction X Bounce: Pawlowski at Room 2 Glasgow on Sun 27 Sept, Glasgow. 1 act on the bill: Pawlowski. Trance and Techno. Preview the line-up and save it on soundcheck.
+Disfunction X Bounce: Pawlowski at Room 2 Glasgow on Sun 27 Sept, Glasgow. 1 artist on the bill: Pawlowski. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Thee Mike B is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Catalina Classic Cruises, Los Angeles on Sat, 14 Nov 2026.
 
-Thee Mike B is a house and disco artist based in United States of America, tracked on soundcheck, with 43 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Ardalan, Giselle Peppers and Life on Planets. Next up: Catalina Classic Cruises, Losangeles on Sat 14 Nov.
+Thee Mike B is a house and disco artist based in United States of America, tracked on soundcheck, with 43 sets logged across Los Angeles, New York City and San Diego. Often billed alongside Ardalan, Giselle Peppers and Life on Planets. Next up: Catalina Classic Cruises, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 

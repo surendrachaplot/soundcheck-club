@@ -1,6 +1,6 @@
 # CLAWZ: For The Floor at Strand DC
 
-CLAWZ: For The Floor at Strand DC on Sat 26 Sept, Washingtondc. 2 acts on the bill: AMAYAH and CLAWZ. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+CLAWZ: For The Floor at Strand DC on Sat 26 Sept, Washington DC. 2 artists on the bill: AMAYAH and CLAWZ. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # JUNO in Toronto: Harriet's Rooftop Session at Harriet's Rooftop
 
-JUNO in Toronto: Harriet's Rooftop Session on Sun 11 Oct, Toronto. 1 act on the bill: JUNO (DE). House and Afro House. Preview the line-up and save it on soundcheck.
+JUNO in Toronto: Harriet's Rooftop Session on Sun 11 Oct, Toronto. 1 artist on the bill: JUNO (DE). House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

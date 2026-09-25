@@ -1,6 +1,6 @@
 # Lucky Louie at West Port Oracle
 
-Lucky Louie at West Port Oracle on Sat 26 Sept, Edinburgh. 1 act on the bill: Lucky Louie. Preview the line-up and save it on soundcheck.
+Lucky Louie at West Port Oracle on Sat 26 Sept, Edinburgh. 1 artist on the bill: Lucky Louie. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

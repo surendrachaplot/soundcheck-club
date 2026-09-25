@@ -1,6 +1,6 @@
 # Faustø - JULIETA LAKE - MYLAH - SAP LIVE at Under Club
 
-Faustø - JULIETA LAKE - MYLAH - SAP LIVE at Under Club on Fri 25 Sept, Buenosaires. 4 acts on the bill: Faustø, JULIETA LAKE, MYLAH and SAP (Live). Techno. Preview the line-up and save it on soundcheck.
+Faustø - JULIETA LAKE - MYLAH - SAP LIVE at Under Club on Fri 25 Sept, Buenos Aires. 4 artists on the bill: Faustø, JULIETA LAKE, MYLAH and SAP (Live). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

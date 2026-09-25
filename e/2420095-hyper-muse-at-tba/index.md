@@ -1,6 +1,6 @@
 # HYPER-MUSE at TBA
 
-HYPER-MUSE at TBA on Sat 21 Nov, Losangeles. Electronica. Preview the line-up and save it on soundcheck.
+HYPER-MUSE at TBA on Sat 21 Nov, Los Angeles. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

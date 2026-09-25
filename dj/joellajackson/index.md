@@ -2,7 +2,7 @@
 
 Joëlla Jackson is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ministry Of Sound, London on Sat, 3 Oct 2026.
 
-Joëlla Jackson is a house and tech house artist based in Netherlands, tracked on soundcheck, with 119 sets logged across All, Amsterdam, Barcelona and Basel and 17 more. Often billed alongside Benny Rodrigues, Franky Rizardo and Mason Collective. Next up: Ministry Of Sound, London on Sat 3 Oct.
+Joëlla Jackson is a house and tech house artist based in Netherlands, tracked on soundcheck, with 119 sets logged across Amsterdam, Austria, Barcelona and Basel and 17 more. Often billed alongside Benny Rodrigues, Franky Rizardo and Mason Collective. Next up: Ministry Of Sound, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,7 +12,7 @@ Joëlla Jackson is a house and tech house artist based in Netherlands, tracked o
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sun, 25 Oct 2026 | Madam | Amsterdam |
-| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | All |
+| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played
 

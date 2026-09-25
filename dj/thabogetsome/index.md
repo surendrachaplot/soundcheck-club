@@ -1,14 +1,14 @@
 # Thabo
 
-Thabo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+Thabo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Thabo is a house and techno artist based in Germany, tracked on soundcheck, with 86 sets logged across All, Amsterdam, Athens and Bali and 18 more. Often billed alongside Thalo Santana, Blame Anthony and Butterhands. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+Thabo is a house and techno artist based in Germany, tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Bali and Barcelona and 18 more. Often billed alongside Thalo Santana, Blame Anthony and Butterhands. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Sat, 17 Oct 2026 | Salon Iksv | Istanbul |
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
 

@@ -1,8 +1,8 @@
 # Speedy J
 
-Speedy J is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 25 Sept 2026.
+Speedy J is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 25 Sept 2026.
 
-Speedy J is a techno and house artist based in Netherlands, tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside SPEEDY, Chris Liebing and FJAAK. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 25 Sept.
+Speedy J is a techno and house artist based in Netherlands, tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside SPEEDY, Chris Liebing and FJAAK. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Speedy J is a techno and house artist based in Netherlands, tracked on soundchec
 | Sat, 17 Oct 2026 | VIERNULVIER | Ghent |
 | Sat, 24 Oct 2026 | Paradiso | Amsterdam |
 | Sun, 25 Oct 2026 | Paradiso | Amsterdam |
+| Sat, 28 Nov 2026 | De Papierfabriek | Nijmegen |
 
 ## Recently played
 

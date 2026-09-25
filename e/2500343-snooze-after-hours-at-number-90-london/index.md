@@ -1,6 +1,6 @@
 # Snooze After Hours at NUMBER 90 LONDON
 
-Snooze After Hours at NUMBER 90 LONDON on Sun 1 Nov, London. 6 acts on the bill: Eric Cloutier, Ireen Amnes, Livid (UK) and Mister Willis and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Snooze After Hours at NUMBER 90 LONDON on Sun 1 Nov, London. 6 artists on the bill: Eric Cloutier, Ireen Amnes, Livid (UK) and Mister Willis and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

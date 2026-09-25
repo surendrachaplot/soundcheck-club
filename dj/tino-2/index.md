@@ -2,7 +2,7 @@
 
 TINO (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Phonox, London on Thu, 8 Oct 2026.
 
-TINO (2) is a techno and house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Edinburgh, Glasgow and London. Often billed alongside DJelley, Frankie Elyse and LUX (uk). Next up: Phonox, London on Thu 8 Oct.
+TINO is a techno and house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Edinburgh, Glasgow and London. Often billed alongside DJelley, Frankie Elyse and LUX (uk). Next up: Phonox, London on Thu 8 Oct.
 
 ## Upcoming shows
 

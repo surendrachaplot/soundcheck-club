@@ -1,6 +1,6 @@
 # Buganvilla at Spook: The Cube + Garden at Spook Club
 
-Buganvilla at Spook: The Cube + Garden at Spook Club on Fri 9 Oct, Valencia. 4 acts on the bill: alvar., Fes Bondat, Gurrex and Luis Bonias. House and Tech House. Preview the line-up and save it on soundcheck.
+Buganvilla at Spook: The Cube + Garden at Spook Club on Fri 9 Oct, Valencia. 4 artists on the bill: alvar., Fes Bondat, Gurrex and Luis Bonias. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

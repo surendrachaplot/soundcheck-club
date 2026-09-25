@@ -2,7 +2,7 @@
 
 Macca (2) is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
 
-Macca (2) is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Birmingham, Glasgow, Liverpool and London and 2 more. Often billed alongside Becky Woodcock, Emily Jacko and Macca.. Next up: The Clayshed, Newcastle on Sat 26 Sept.
+Macca is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Birmingham, Glasgow, Liverpool and London and 2 more. Often billed alongside Becky Woodcock, Emily Jacko and Macca.. Next up: The Clayshed, Newcastle on Sat 26 Sept.
 
 ## Upcoming shows
 

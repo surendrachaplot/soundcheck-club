@@ -1,6 +1,6 @@
 # EQ, meat computer & sa!koro - Good Shows x Cheap Thrill x Heavy Trip at Foufounes Electronique
 
-EQ, meat computer & sa!koro - Good Shows x Cheap Thrill x Heavy Trip at Foufounes Electronique on Sat 17 Oct, Montreal. 4 acts on the bill: Beamskii, Claireyy, EQ (Estratosfera + Qiri) and meat computer. Electro and Experimental. Preview the line-up and save it on soundcheck.
+EQ, meat computer & sa!koro - Good Shows x Cheap Thrill x Heavy Trip at Foufounes Electronique on Sat 17 Oct, Montreal. 4 artists on the bill: Beamskii, Claireyy, EQ (Estratosfera + Qiri) and meat computer. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

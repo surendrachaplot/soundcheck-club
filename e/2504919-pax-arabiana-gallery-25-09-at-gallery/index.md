@@ -1,6 +1,6 @@
 # Pax Arabiana - Gallery 25/09 at Gallery
 
-Pax Arabiana - Gallery 25/09 on Fri 25 Sept, London. 1 act on the bill: Pax Arabiana. House and Tech House. Preview the line-up and save it on soundcheck.
+Pax Arabiana - Gallery 25/09 on Fri 25 Sept, London. 1 artist on the bill: Pax Arabiana. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

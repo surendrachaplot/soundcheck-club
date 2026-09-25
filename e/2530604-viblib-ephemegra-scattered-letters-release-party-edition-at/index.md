@@ -1,6 +1,6 @@
 # 'VibLib.' EPHEMEGRA 'Scattered Letters' Release Party Edition at Club Daphnia
 
-'VibLib.' EPHEMEGRA 'Scattered Letters' Release Party Edition at Club Daphnia on Sat 17 Oct, Osaka. 7 acts on the bill: ast midori, DJ :-), echocatcher and KA4U and 3 more. Experimental and Footwork. Preview the line-up and save it on soundcheck.
+'VibLib.' EPHEMEGRA 'Scattered Letters' Release Party Edition at Club Daphnia on Sat 17 Oct, Osaka. 7 artists on the bill: ast midori, DJ :-), echocatcher and KA4U and 3 more. Experimental and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

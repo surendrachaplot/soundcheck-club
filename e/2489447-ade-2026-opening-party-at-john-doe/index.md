@@ -1,6 +1,6 @@
 # ADE 2026 OPENING PARTY at John Doe
 
-ADE 2026 OPENING PARTY at John Doe on Wed 21 Oct, Amsterdam. 2 acts on the bill: ARTISTIKK and JHONATAN OSPINA. Techno. Preview the line-up and save it on soundcheck.
+ADE 2026 OPENING PARTY at John Doe on Wed 21 Oct, Amsterdam. 2 artists on the bill: ARTISTIKK and JHONATAN OSPINA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

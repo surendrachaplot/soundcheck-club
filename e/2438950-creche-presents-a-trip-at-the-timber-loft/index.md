@@ -1,6 +1,6 @@
 # Creche presents 'A Trip' at The Timber Loft
 
-Creche presents 'A Trip' at The Timber Loft on Sun 11 Oct, London. 3 acts on the bill: Alexis Raphael, Chiara Kidd and Steve Bug. House and Deep House. Preview the line-up and save it on soundcheck.
+Creche presents 'A Trip' at The Timber Loft on Sun 11 Oct, London. 3 artists on the bill: Alexis Raphael, Chiara Kidd and Steve Bug. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

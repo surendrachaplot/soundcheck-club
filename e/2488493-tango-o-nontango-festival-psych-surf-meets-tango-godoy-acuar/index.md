@@ -1,6 +1,6 @@
 # Tango o Nontango Festival (Psych Surf meets Tango) Godoy + Acuario Cosmico at Privatclub
 
-Tango o Nontango Festival (Psych Surf meets Tango) Godoy + Acuario Cosmico at Privatclub on Fri 9 Oct, Berlin. 1 act on the bill: Acuario Cosmico. Pop and Krautrock. Preview the line-up and save it on soundcheck.
+Tango o Nontango Festival (Psych Surf meets Tango) Godoy + Acuario Cosmico at Privatclub on Fri 9 Oct, Berlin. 1 artist on the bill: Acuario Cosmico. Pop and Krautrock. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

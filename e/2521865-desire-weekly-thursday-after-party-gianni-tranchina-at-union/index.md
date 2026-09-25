@@ -1,6 +1,6 @@
 # DESIRE - Weekly Thursday After Party - GIANNI TRANCHINA at Union Club, Vauxhall
 
-DESIRE - Weekly Thursday After Party - GIANNI TRANCHINA at Union Club, Vauxhall on Thu 24 Sept, London. 4 acts on the bill: Dhez, Duwat?, Elisa Nau. and Simone Sim. Techno and Tech House. Preview the line-up and save it on soundcheck.
+DESIRE - Weekly Thursday After Party - GIANNI TRANCHINA at Union Club, Vauxhall on Thu 24 Sept, London. 4 artists on the bill: Dhez, Duwat?, Elisa Nau. and Simone Sim. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

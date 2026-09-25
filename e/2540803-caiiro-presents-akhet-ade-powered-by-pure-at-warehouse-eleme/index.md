@@ -1,6 +1,6 @@
 # Caiiro presents: AKHET (ADE) powered by PURE at Warehouse Elementenstraat
 
-Caiiro presents: AKHET (ADE) powered by PURE at Warehouse Elementenstraat on Fri 23 Oct, Amsterdam. 7 acts on the bill: Ape Drums, AWEN, Caiiro and DJEFF and 3 more. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Caiiro presents: AKHET (ADE) powered by PURE at Warehouse Elementenstraat on Fri 23 Oct, Amsterdam. 7 artists on the bill: Ape Drums, AWEN, Caiiro and DJEFF and 3 more. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

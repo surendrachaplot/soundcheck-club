@@ -1,6 +1,6 @@
 # Deep Remedy Sessions 001 at The Vic Bar
 
-Deep Remedy Sessions 001 at The Vic Bar on Sat 10 Oct, Melbourne. 1 act on the bill: Lenny Lens. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Deep Remedy Sessions 001 at The Vic Bar on Sat 10 Oct, Melbourne. 1 artist on the bill: Lenny Lens. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

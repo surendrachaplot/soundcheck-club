@@ -1,6 +1,6 @@
 # Paris Groove Society - Camporeale, Vugzy, Clo... at Pamela Club
 
-Paris Groove Society - Camporeale, Vugzy, Clo... at Pamela Club on Thu 24 Sept, Paris. 1 act on the bill: Camporeale (FR). Preview the line-up and save it on soundcheck.
+Paris Groove Society - Camporeale, Vugzy, Clo... at Pamela Club on Thu 24 Sept, Paris. 1 artist on the bill: Camporeale (FR). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

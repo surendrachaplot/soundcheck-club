@@ -1,6 +1,6 @@
 # Follow The Cat Recordings ADE Showcase at Meet Berlage
 
-Follow The Cat Recordings ADE Showcase at Meet Berlage on Fri 23 Oct, Amsterdam. 2 acts on the bill: Gabriele Peveri and Matteo Gatti. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Follow The Cat Recordings ADE Showcase at Meet Berlage on Fri 23 Oct, Amsterdam. 2 artists on the bill: Gabriele Peveri and Matteo Gatti. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Shakedown 25 Year Anniversary: Louie Vega all night long at Warehouse on Watts
 
-The Shakedown 25 Year Anniversary: Louie Vega all night long at Warehouse on Watts on Sat 17 Oct, Philadelphia. 1 act on the bill: Louie Vega. House and Afro House. Preview the line-up and save it on soundcheck.
+The Shakedown 25 Year Anniversary: Louie Vega all night long at Warehouse on Watts on Sat 17 Oct, Philadelphia. 1 artist on the bill: Louie Vega. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

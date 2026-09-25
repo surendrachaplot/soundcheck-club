@@ -1,6 +1,6 @@
 # Discotronic x Club Hybrid: Jan Blomqvist, Bebetta, Marius Lehnert, Alexander Maier at Im Wizemann
 
-Discotronic x Club Hybrid: Jan Blomqvist, Bebetta, Marius Lehnert, Alexander Maier at Im Wizemann on Sat 14 Nov, Stuttgart. 4 acts on the bill: Alexander Maier, Bebetta, Jan Blomqvist and Marius Lehnert. House. Preview the line-up and save it on soundcheck.
+Discotronic x Club Hybrid: Jan Blomqvist, Bebetta, Marius Lehnert, Alexander Maier at Im Wizemann on Sat 14 Nov, Stuttgart. 4 artists on the bill: Alexander Maier, Bebetta, Jan Blomqvist and Marius Lehnert. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

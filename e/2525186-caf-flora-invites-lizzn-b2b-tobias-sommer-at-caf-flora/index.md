@@ -1,6 +1,6 @@
 # Café Flora invites LIZZN b2b Tobias Sommer at Café Flora
 
-Café Flora invites LIZZN b2b Tobias Sommer on Sat 12 Dec, Brussels. 2 acts on the bill: LIZZN and Tobias Sommer. House and Electronica. Preview the line-up and save it on soundcheck.
+Café Flora invites LIZZN b2b Tobias Sommer on Sat 12 Dec, Brussels. 2 artists on the bill: LIZZN and Tobias Sommer. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

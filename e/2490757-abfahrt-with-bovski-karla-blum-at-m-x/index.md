@@ -1,6 +1,6 @@
 # Abfahrt with BOVSKI & Karla Blum at MÄX
 
-Abfahrt with BOVSKI & Karla Blum at MÄX on Fri 9 Oct, Zurich. 2 acts on the bill: BOVSKI and Karla Blum. Techno and Electro. Preview the line-up and save it on soundcheck.
+Abfahrt with BOVSKI & Karla Blum at MÄX on Fri 9 Oct, Zurich. 2 artists on the bill: BOVSKI and Karla Blum. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

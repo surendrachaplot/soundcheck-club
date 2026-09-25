@@ -1,6 +1,6 @@
 # Dahomey T-Dance - Don Barbarino, Uzi, Pattes de Velour at Salon Daomé
 
-Dahomey T-Dance - Don Barbarino, Uzi, Pattes de Velour at Salon Daomé on Sun 11 Oct, Montreal. 2 acts on the bill: Don Barbarino and UZI (Soulmeka). Preview the line-up and save it on soundcheck.
+Dahomey T-Dance - Don Barbarino, Uzi, Pattes de Velour at Salon Daomé on Sun 11 Oct, Montreal. 2 artists on the bill: Don Barbarino and UZI (Soulmeka). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

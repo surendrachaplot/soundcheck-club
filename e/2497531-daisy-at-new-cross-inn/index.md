@@ -1,6 +1,6 @@
 # daisy* at New Cross Inn
 
-daisy* at New Cross Inn on Thu 22 Oct, London. 1 act on the bill: 1111. Garage and Electro. Preview the line-up and save it on soundcheck.
+daisy* at New Cross Inn on Thu 22 Oct, London. 1 artist on the bill: 1111. Garage and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

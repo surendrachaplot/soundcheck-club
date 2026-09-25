@@ -1,6 +1,6 @@
 # Northern Groove Association X Player Records presents: Infamous Player (LIVE),Balrog,Skunkrock at The Vinyl Whistle
 
-Northern Groove Association X Player Records presents: Infamous Player (LIVE),Balrog,Skunkrock at The Vinyl Whistle on Fri 9 Oct, Leeds. 3 acts on the bill: Balrog, Player and Skunkrock. Techno and House. Preview the line-up and save it on soundcheck.
+Northern Groove Association X Player Records presents: Infamous Player (LIVE),Balrog,Skunkrock at The Vinyl Whistle on Fri 9 Oct, Leeds. 3 artists on the bill: Balrog, Player and Skunkrock. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

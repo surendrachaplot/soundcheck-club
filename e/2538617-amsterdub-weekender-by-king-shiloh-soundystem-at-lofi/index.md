@@ -1,6 +1,6 @@
 # Amsterdub weekender by King Shiloh Soundystem at Lofi
 
-Amsterdub weekender by King Shiloh Soundystem at Lofi on Fri 4 Dec, Amsterdam. 2 acts on the bill: Ital Power and King Shiloh. Dub and Jungle. Preview the line-up and save it on soundcheck.
+Amsterdub weekender by King Shiloh Soundystem at Lofi on Fri 4 Dec, Amsterdam. 2 artists on the bill: Ital Power and King Shiloh. Dub and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

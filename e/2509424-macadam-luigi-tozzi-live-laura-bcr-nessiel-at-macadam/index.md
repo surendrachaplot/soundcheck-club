@@ -1,6 +1,6 @@
 # Macadam • Luigi Tozzi (live) ~ Laura BCR ~ Nessiel at Macadam
 
-Macadam • Luigi Tozzi (live) ~ Laura BCR ~ Nessiel on Sat 3 Oct, Nantes. 2 acts on the bill: Laura BCR and Luigi Tozzi. Techno. Preview the line-up and save it on soundcheck.
+Macadam • Luigi Tozzi (live) ~ Laura BCR ~ Nessiel on Sat 3 Oct, Nantes. 2 artists on the bill: Laura BCR and Luigi Tozzi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

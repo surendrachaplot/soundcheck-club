@@ -1,6 +1,6 @@
 # Pfandidos KLUBNACHT at Lokschuppen Berlin
 
-Pfandidos KLUBNACHT at Lokschuppen Berlin on Fri 6 Nov, Berlin. 1 act on the bill: Cobb Douglas. Preview the line-up and save it on soundcheck.
+Pfandidos KLUBNACHT at Lokschuppen Berlin on Fri 6 Nov, Berlin. 1 artist on the bill: Cobb Douglas. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

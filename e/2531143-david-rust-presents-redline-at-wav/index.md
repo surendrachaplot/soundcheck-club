@@ -1,6 +1,6 @@
 # David Rust presents Redline at WaV
 
-David Rust presents Redline at WaV on Fri 30 Oct, Liverpool. 1 act on the bill: David Rust. Trance and Techno. Preview the line-up and save it on soundcheck.
+David Rust presents Redline at WaV on Fri 30 Oct, Liverpool. 1 artist on the bill: David Rust. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

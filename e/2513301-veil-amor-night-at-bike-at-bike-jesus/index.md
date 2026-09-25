@@ -1,6 +1,6 @@
 # Veil' Amor: NIGHT AT BIKE at Bike Jesus
 
-Veil' Amor: NIGHT AT BIKE at Bike Jesus on Sat 17 Oct, Prague. 4 acts on the bill: Diva, Fembot, S.N.R.I. and Yo Eva. Techno. Preview the line-up and save it on soundcheck.
+Veil' Amor: NIGHT AT BIKE at Bike Jesus on Sat 17 Oct, Prague. 4 artists on the bill: Diva, Fembot, S.N.R.I. and Yo Eva. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

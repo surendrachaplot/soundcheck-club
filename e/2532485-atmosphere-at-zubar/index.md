@@ -1,6 +1,6 @@
 # Atmosphere at ZUBAR
 
-Atmosphere at ZUBAR on Sat 3 Oct, Tokyo. 1 act on the bill: Dsitb. Techno and House. Preview the line-up and save it on soundcheck.
+Atmosphere at ZUBAR on Sat 3 Oct, Tokyo. 1 artist on the bill: Dsitb. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

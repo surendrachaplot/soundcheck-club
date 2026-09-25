@@ -1,6 +1,6 @@
 # Teletech Newcastle: KIRSTY [All Night Long] at World Headquarters
 
-Teletech Newcastle: KIRSTY [All Night Long] at World Headquarters on Sat 14 Nov, Newcastle. 1 act on the bill: KIRSTY. Techno and Gabber. Preview the line-up and save it on soundcheck.
+Teletech Newcastle: KIRSTY [All Night Long] at World Headquarters on Sat 14 Nov, Newcastle. 1 artist on the bill: KIRSTY. Techno and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

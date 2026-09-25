@@ -1,6 +1,6 @@
 # Verrückt Morning Rave at T2 Shinjuku
 
-Verrückt Morning Rave at T2 Shinjuku on Sun 27 Sept, Tokyo. 3 acts on the bill: BLACK(JP), NIKI (JP) and SWAGGER. Techno. Preview the line-up and save it on soundcheck.
+Verrückt Morning Rave at T2 Shinjuku on Sun 27 Sept, Tokyo. 3 artists on the bill: BLACK(JP), NIKI (JP) and SWAGGER. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ego-Trip with Ben Kamal, Hermética at Lasociaciøn
 
-Ego-Trip with Ben Kamal, Hermética at Lasociaciøn on Fri 25 Sept, Madrid. 3 acts on the bill: Ben Kamal, HERMETICA and Varo (ES). Techno and House. Preview the line-up and save it on soundcheck.
+Ego-Trip with Ben Kamal, Hermética at Lasociaciøn on Fri 25 Sept, Madrid. 3 artists on the bill: Ben Kamal, HERMETICA and Varo (ES). Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

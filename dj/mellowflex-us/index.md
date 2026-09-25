@@ -2,7 +2,7 @@
 
 Mellowflex is a Trance and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 24 Oct 2026.
 
-Mellowflex is a trance and tech house artist tracked on soundcheck, with 10 sets logged across Mexicocity and Munich. Often billed alongside Danca, Dominik Eulberg and Bi Män. Next up: Bahnwärter Thiel, Munich on Sat 24 Oct.
+Mellowflex is a trance and tech house artist tracked on soundcheck, with 10 sets logged across Mexico City and Munich. Often billed alongside Danca, Dominik Eulberg and Bi Män. Next up: Bahnwärter Thiel, Munich on Sat 24 Oct.
 
 ## Upcoming shows
 

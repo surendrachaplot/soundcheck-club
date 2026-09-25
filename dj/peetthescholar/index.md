@@ -2,7 +2,7 @@
 
 Peet the Scholar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jade, New York City on Thu, 24 Sept 2026.
 
-Peet the Scholar is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Cassi-DJ, IRL (US) and gabe is ok. Next up: Jade, Newyorkcity on Thu 24 Sept.
+Peet the Scholar is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across New York City. Often billed alongside Cassi-DJ, IRL (US) and gabe is ok. Next up: Jade, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

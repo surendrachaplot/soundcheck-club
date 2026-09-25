@@ -1,6 +1,6 @@
 # TEAR YOU APART [dark electronic / hell rave / devil disco] at Warehouse on Watts
 
-TEAR YOU APART [dark electronic / hell rave / devil disco] at Warehouse on Watts on Fri 9 Oct, Philadelphia. 1 act on the bill: FAME LUST. Techno and Electro. Preview the line-up and save it on soundcheck.
+TEAR YOU APART [dark electronic / hell rave / devil disco] at Warehouse on Watts on Fri 9 Oct, Philadelphia. 1 artist on the bill: FAME LUST. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

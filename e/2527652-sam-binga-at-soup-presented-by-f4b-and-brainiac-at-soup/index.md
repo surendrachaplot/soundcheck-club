@@ -1,6 +1,6 @@
 # Sam Binga at Soup presented by F4B and Brainiac at Soup
 
-Sam Binga at Soup presented by F4B and Brainiac on Sat 31 Oct, Manchester. 1 act on the bill: Sam Binga. Garage and Jungle. Preview the line-up and save it on soundcheck.
+Sam Binga at Soup presented by F4B and Brainiac on Sat 31 Oct, Manchester. 1 artist on the bill: Sam Binga. Garage and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

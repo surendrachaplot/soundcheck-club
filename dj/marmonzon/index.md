@@ -2,7 +2,7 @@
 
 Mar Monzon is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Deseo BS AS, Buenos Aires on Fri, 6 Nov 2026.
 
-Mar Monzon is a house and tech house artist based in Argentina, tracked on soundcheck, with 12 sets logged across Buenosaires. Often billed alongside Lulú Matheou, Manu Oubiña and Pabels. Next up: Deseo BS AS, Buenosaires on Fri 6 Nov.
+Mar Monzon is a house and tech house artist based in Argentina, tracked on soundcheck, with 12 sets logged across Buenos Aires. Often billed alongside Lulú Matheou, Manu Oubiña and Pabels. Next up: Deseo BS AS, Buenos Aires on Fri 6 Nov.
 
 ## Upcoming shows
 

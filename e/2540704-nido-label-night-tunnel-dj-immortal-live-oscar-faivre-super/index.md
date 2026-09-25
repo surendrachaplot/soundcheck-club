@@ -1,6 +1,6 @@
 # Nido label night: Tunnel - Dj Immortal (live), Oscar Faivre & Super Venus at Nido Marseille
 
-Nido label night: Tunnel - Dj Immortal (live), Oscar Faivre & Super Venus at Nido Marseille on Sat 21 Nov, Marseille. 3 acts on the bill: Eltouss, Oscar Faivre and Super Venus. Preview the line-up and save it on soundcheck.
+Nido label night: Tunnel - Dj Immortal (live), Oscar Faivre & Super Venus at Nido Marseille on Sat 21 Nov, Marseille. 3 artists on the bill: Eltouss, Oscar Faivre and Super Venus. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

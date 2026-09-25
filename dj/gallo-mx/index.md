@@ -2,7 +2,7 @@
 
 Gallō is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Greenhouse, Mexico City on Sun, 4 Oct 2026.
 
-Gallō is a house and minimal artist based in Mexico, tracked on soundcheck, with 36 sets logged across Mexicocity. Often billed alongside Shisho, chldrns and Louie Fresco. Next up: TBA - Greenhouse, Mexicocity on Sun 4 Oct.
+Gallō is a house and minimal artist based in Mexico, tracked on soundcheck, with 36 sets logged across Mexico City. Often billed alongside Shisho, chldrns and Louie Fresco. Next up: TBA - Greenhouse, Mexico City on Sun 4 Oct.
 
 ## Upcoming shows
 

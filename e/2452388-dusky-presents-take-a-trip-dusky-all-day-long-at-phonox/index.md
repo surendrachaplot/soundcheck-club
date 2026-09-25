@@ -1,6 +1,6 @@
 # Dusky presents Take A Trip: Dusky (All Day Long) at Phonox
 
-Dusky presents Take A Trip: Dusky (All Day Long) at Phonox on Sat 7 Nov, London. 1 act on the bill: Dusky. Preview the line-up and save it on soundcheck.
+Dusky presents Take A Trip: Dusky (All Day Long) at Phonox on Sat 7 Nov, London. 1 artist on the bill: Dusky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # boost+++ 005 at Cermak Hall at Radius
 
-boost+++ 005 at Cermak Hall at Radius on Sat 3 Oct, Chicago. 5 acts on the bill: Eulalia, Noise Mafia, PETERBLUE and Sian and 1 more. Techno. Preview the line-up and save it on soundcheck.
+boost+++ 005 at Cermak Hall at Radius on Sat 3 Oct, Chicago. 5 artists on the bill: Eulalia, Noise Mafia, PETERBLUE and Sian and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

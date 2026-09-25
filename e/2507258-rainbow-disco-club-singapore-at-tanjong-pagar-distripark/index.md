@@ -1,6 +1,6 @@
 # Rainbow Disco Club Singapore at Tanjong Pagar Distripark
 
-Rainbow Disco Club Singapore at Tanjong Pagar Distripark on Sat 3 Oct, Singapore. 7 acts on the bill: Antal, Daryl Knows, DJ Nobu and kindergarchy and 3 more. Techno and Disco. Preview the line-up and save it on soundcheck.
+Rainbow Disco Club Singapore at Tanjong Pagar Distripark on Sat 3 Oct, Singapore. 7 artists on the bill: Antal, Daryl Knows, DJ Nobu and kindergarchy and 3 more. Techno and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

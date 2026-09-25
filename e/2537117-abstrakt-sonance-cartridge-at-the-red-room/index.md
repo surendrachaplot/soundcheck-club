@@ -1,6 +1,6 @@
 # Abstrakt Sonance & Cartridge at The Red Room
 
-Abstrakt Sonance & Cartridge at The Red Room on Sun 11 Oct, Vancouver. 1 act on the bill: Cartridge. Bass. Preview the line-up and save it on soundcheck.
+Abstrakt Sonance & Cartridge at The Red Room on Sun 11 Oct, Vancouver. 1 artist on the bill: Cartridge. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

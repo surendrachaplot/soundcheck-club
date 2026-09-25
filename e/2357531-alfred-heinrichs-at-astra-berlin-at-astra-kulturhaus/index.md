@@ -1,6 +1,6 @@
 # Alfred Heinrichs at Astra Berlin at Astra Kulturhaus
 
-Alfred Heinrichs at Astra Berlin at Astra Kulturhaus on Sat 7 Nov, Berlin. 1 act on the bill: Alfred Heinrichs. Techno. Preview the line-up and save it on soundcheck.
+Alfred Heinrichs at Astra Berlin at Astra Kulturhaus on Sat 7 Nov, Berlin. 1 artist on the bill: Alfred Heinrichs. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

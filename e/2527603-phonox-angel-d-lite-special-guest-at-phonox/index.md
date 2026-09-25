@@ -1,6 +1,6 @@
 # Phonox: Angel D'lite + Special Guest at Phonox
 
-Phonox: Angel D'lite + Special Guest on Sat 28 Nov, London. 1 act on the bill: Angel D'lite. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+Phonox: Angel D'lite + Special Guest on Sat 28 Nov, London. 1 artist on the bill: Angel D'lite. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

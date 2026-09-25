@@ -12,7 +12,7 @@ Ormside Projects is a music venue in London listed on soundcheck. 14 upcoming gi
 | Fri, 25 Sept 2026 | FLOORJAM 008 with MoMA Ready, LORA S, Ellaweeez, Ki Pharaoh & Damsel | Ellaweeez, LORA S, MoMA Ready |
 | Thu, 1 Oct 2026 | COTCH x Gasworks Gallery present: Disco Inferno with DJ Fucci, Zutzut, Microhm, Pochola | Dj Fucci, Joe Cotch, Microhm, Pochola |
 | Fri, 2 Oct 2026 | Ferry to the Underworld |  |
-| Sat, 3 Oct 2026 | People Drift presents DJ Pete (extended set) | DJ Pete |
+| Sat, 3 Oct 2026 | People Drift presents DJ Pete (extended set) | DJ Pete, Jim Janco |
 | Sat, 3 Oct 2026 | TURBULENCE: Barnett Cohen with Shamica Ruddock & Sally Butin / Hannan Jones / b1unt b1ade |  |
 | Sat, 10 Oct 2026 | Shannen SP presents: Bobby Beethoven / TAYHANA / Bambi / Shannen SP | Shannen SP, TAYHANA, Total Freedom |
 | Fri, 16 Oct 2026 | CLUB YEKE: Tash LC – All Night Long | Tash LC |

@@ -1,6 +1,6 @@
 # DRS Live at The Jazz Cafe
 
-DRS Live at The Jazz Cafe on Sat 5 Dec, London. 1 act on the bill: DRS. Drum & Bass and Hip-Hop. Preview the line-up and save it on soundcheck.
+DRS Live at The Jazz Cafe on Sat 5 Dec, London. 1 artist on the bill: DRS. Drum & Bass and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

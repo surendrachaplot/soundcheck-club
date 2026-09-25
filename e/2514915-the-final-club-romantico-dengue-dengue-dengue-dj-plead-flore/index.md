@@ -1,6 +1,6 @@
 # The Final Club Romantico: Dengue Dengue Dengue! / DJ Plead / Florentino & special guest at The White Hotel
 
-The Final Club Romantico: Dengue Dengue Dengue! / DJ Plead / Florentino & special guest at The White Hotel on Sat 17 Oct, Manchester. 3 acts on the bill: Dengue Dengue Dengue, DJ Plead and Florentino. Preview the line-up and save it on soundcheck.
+The Final Club Romantico: Dengue Dengue Dengue! / DJ Plead / Florentino & special guest at The White Hotel on Sat 17 Oct, Manchester. 3 artists on the bill: Dengue Dengue Dengue, DJ Plead and Florentino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

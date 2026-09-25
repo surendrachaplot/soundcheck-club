@@ -1,6 +1,6 @@
 # Chris Luno — Melbourne 2026 at The Night Cat
 
-Chris Luno — Melbourne 2026 at The Night Cat on Sat 3 Oct, Melbourne. 1 act on the bill: Chris Luno. House and Deep House. Preview the line-up and save it on soundcheck.
+Chris Luno — Melbourne 2026 at The Night Cat on Sat 3 Oct, Melbourne. 1 artist on the bill: Chris Luno. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

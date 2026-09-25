@@ -1,6 +1,6 @@
 # Club Crush: Her blood + Joanna Kuchta, PIG1987, enfive, kimmchio3o & softbyte at TBA
 
-Club Crush: Her blood + Joanna Kuchta, PIG1987, enfive, kimmchio3o & softbyte at TBA on Sat 10 Oct, Losangeles. 1 act on the bill: Joanna Kuchta. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Club Crush: Her blood + Joanna Kuchta, PIG1987, enfive, kimmchio3o & softbyte at TBA on Sat 10 Oct, Los Angeles. 1 artist on the bill: Joanna Kuchta. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

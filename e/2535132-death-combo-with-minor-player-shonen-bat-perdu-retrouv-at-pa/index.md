@@ -1,6 +1,6 @@
 # Death Combo with Minor Player, Shonen Bat, Perdu & Retrouvé at Panic Room
 
-Death Combo with Minor Player, Shonen Bat, Perdu & Retrouvé at Panic Room on Fri 25 Sept, Paris. 2 acts on the bill: Perdu and Shonen Bat. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Death Combo with Minor Player, Shonen Bat, Perdu & Retrouvé at Panic Room on Fri 25 Sept, Paris. 2 artists on the bill: Perdu and Shonen Bat. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

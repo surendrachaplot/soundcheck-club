@@ -1,6 +1,6 @@
 # TRANCE DT at DeTour
 
-TRANCE DT at DeTour on Sun 27 Sept, Tokyo. 4 acts on the bill: BEPPU, DJ 34, Jay Turio and NDK. Trance. Preview the line-up and save it on soundcheck.
+TRANCE DT at DeTour on Sun 27 Sept, Tokyo. 4 artists on the bill: BEPPU, DJ 34, Jay Turio and NDK. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

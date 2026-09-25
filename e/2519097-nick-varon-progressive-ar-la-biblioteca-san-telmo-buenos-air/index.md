@@ -1,6 +1,6 @@
 # Nick Varon, Progressive Ar, La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo
 
-Nick Varon, Progressive Ar, La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo on Fri 2 Oct, Buenosaires. 1 act on the bill: Nick Varon. Progressive House. Preview the line-up and save it on soundcheck.
+Nick Varon, Progressive Ar, La Biblioteca, San Telmo Buenos Aires at TBA - La Biblioteca, San Telmo on Fri 2 Oct, Buenos Aires. 1 artist on the bill: Nick Varon. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

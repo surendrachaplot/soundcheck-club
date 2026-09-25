@@ -1,6 +1,6 @@
 # Labyrinth presents: Marsh extended set at The Roundhouse
 
-Labyrinth presents: Marsh extended set at The Roundhouse on Fri 13 Nov, London. 3 acts on the bill: ALLKNIGHT, Leo Wood and Marsh. House and Deep House. Preview the line-up and save it on soundcheck.
+Labyrinth presents: Marsh extended set at The Roundhouse on Fri 13 Nov, London. 3 artists on the bill: ALLKNIGHT, Leo Wood and Marsh. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

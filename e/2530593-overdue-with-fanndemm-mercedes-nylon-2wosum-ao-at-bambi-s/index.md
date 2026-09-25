@@ -1,6 +1,6 @@
 # OVERDUE with Fanndemm, Mercedes, nylon, 2wosum & Ao at Bambi's
 
-OVERDUE with Fanndemm, Mercedes, nylon, 2wosum & Ao at Bambi's on Sat 26 Sept, Toronto. 3 acts on the bill: Aoto, Fanndemm and nylon. Bass and Garage. Preview the line-up and save it on soundcheck.
+OVERDUE with Fanndemm, Mercedes, nylon, 2wosum & Ao at Bambi's on Sat 26 Sept, Toronto. 3 artists on the bill: Aoto, Fanndemm and nylon. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

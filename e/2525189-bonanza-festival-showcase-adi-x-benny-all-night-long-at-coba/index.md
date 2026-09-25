@@ -1,6 +1,6 @@
 # Bonanza Festival Showcase: Adi X Benny — All Night Long at Cobalt Studios
 
-Bonanza Festival Showcase: Adi X Benny — All Night Long at Cobalt Studios on Fri 25 Sept, Newcastle. 2 acts on the bill: Adi (CO) and Benny (El Rio Hostel). Preview the line-up and save it on soundcheck.
+Bonanza Festival Showcase: Adi X Benny — All Night Long at Cobalt Studios on Fri 25 Sept, Newcastle. 2 artists on the bill: Adi (CO) and Benny (El Rio Hostel). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

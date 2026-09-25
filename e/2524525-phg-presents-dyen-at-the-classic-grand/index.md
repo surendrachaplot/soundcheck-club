@@ -1,6 +1,6 @@
 # PHG presents: DYEN at The Classic Grand
 
-PHG presents: DYEN at The Classic Grand on Fri 6 Nov, Glasgow. 1 act on the bill: DYEN. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+PHG presents: DYEN at The Classic Grand on Fri 6 Nov, Glasgow. 1 artist on the bill: DYEN. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

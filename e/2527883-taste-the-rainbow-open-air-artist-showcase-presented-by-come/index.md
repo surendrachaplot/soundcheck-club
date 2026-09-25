@@ -1,6 +1,6 @@
 # TASTE THE RAINBOW Open Air Artist Showcase, presented by Come With at TBA - Bushwick (Halsey J), DM an artist or host for address
 
-TASTE THE RAINBOW Open Air Artist Showcase, presented by Come With at TBA - Bushwick (Halsey J), DM an artist or host for address on Sat 26 Sept, Newyorkcity. 4 acts on the bill: Berky, DJ Shoe, ivaindistress and Rainbow Tutu. Club and Footwork. Preview the line-up and save it on soundcheck.
+TASTE THE RAINBOW Open Air Artist Showcase, presented by Come With at TBA - Bushwick (Halsey J), DM an artist or host for address on Sat 26 Sept, New York City. 4 artists on the bill: Berky, DJ Shoe, ivaindistress and Rainbow Tutu. Club and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

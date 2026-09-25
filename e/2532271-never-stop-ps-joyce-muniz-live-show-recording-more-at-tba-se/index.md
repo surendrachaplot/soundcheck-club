@@ -1,6 +1,6 @@
 # Never Stop Ps Joyce Muniz Live Show Recording & More ✷✦✷✦ at TBA - Secret Location
 
-Never Stop Ps Joyce Muniz Live Show Recording & More ✷✦✷✦ at TBA - Secret Location on Thu 15 Oct, Lisbon. 1 act on the bill: Joyce Muniz. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Never Stop Ps Joyce Muniz Live Show Recording & More ✷✦✷✦ at TBA - Secret Location on Thu 15 Oct, Lisbon. 1 artist on the bill: Joyce Muniz. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

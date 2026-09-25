@@ -1,6 +1,6 @@
 # DAT_URA 003 W/ ENNIO, Deventi, Ossou Erratic, Kuriboh & KOSO at The DBA
 
-DAT_URA 003 W/ ENNIO, Deventi, Ossou Erratic, Kuriboh & KOSO at The DBA on Sat 3 Oct, Manchester. 5 acts on the bill: Deventi, ENNIO, KOSO and Kuriboh and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+DAT_URA 003 W/ ENNIO, Deventi, Ossou Erratic, Kuriboh & KOSO at The DBA on Sat 3 Oct, Manchester. 5 artists on the bill: Deventi, ENNIO, KOSO and Kuriboh and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

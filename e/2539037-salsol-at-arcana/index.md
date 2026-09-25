@@ -1,6 +1,6 @@
 # SALSOL at Arcana
 
-SALSOL at Arcana on Sun 27 Sept, Sanfrancisco. 1 act on the bill: Sánlo. Preview the line-up and save it on soundcheck.
+SALSOL at Arcana on Sun 27 Sept, San Francisco/Oakland. 1 artist on the bill: Sánlo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

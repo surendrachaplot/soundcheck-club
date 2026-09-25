@@ -1,6 +1,6 @@
 # I.S.U.I.L.P TOUR 26 at Rotown
 
-I.S.U.I.L.P TOUR 26 at Rotown on Wed 28 Oct, Rotterdam. 1 act on the bill: Kabeaushé. Experimental and Pop. Preview the line-up and save it on soundcheck.
+I.S.U.I.L.P TOUR 26 at Rotown on Wed 28 Oct, Rotterdam. 1 artist on the bill: Kabeaushé. Experimental and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

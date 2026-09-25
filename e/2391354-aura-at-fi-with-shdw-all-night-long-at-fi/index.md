@@ -1,6 +1,6 @@
 # Aura at fi with SHDW all night long at fi
 
-Aura at fi with SHDW all night long on Fri 4 Dec, Cologne. 1 act on the bill: SHDW. Techno. Preview the line-up and save it on soundcheck.
+Aura at fi with SHDW all night long on Fri 4 Dec, Cologne. 1 artist on the bill: SHDW. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

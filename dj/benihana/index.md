@@ -2,7 +2,7 @@
 
 Beni Hana is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Shaffy, Amsterdam on Wed, 21 Oct 2026.
 
-Beni Hana is a house and trance artist based in United States of America, tracked on soundcheck, with 7 sets logged across Amsterdam and Newyorkcity. Often billed alongside Poolhaus, Shek and shanty mane. Next up: Bar Shaffy, Amsterdam on Wed 21 Oct.
+Beni Hana is a house and trance artist based in United States of America, tracked on soundcheck, with 7 sets logged across Amsterdam and New York City. Often billed alongside Poolhaus, Shek and shanty mane. Next up: Bar Shaffy, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 

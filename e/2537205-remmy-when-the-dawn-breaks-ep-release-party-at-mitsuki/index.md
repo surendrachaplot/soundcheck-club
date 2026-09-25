@@ -1,6 +1,6 @@
 # Remmy 'When The Dawn Breaks' EP Release Party at Mitsuki
 
-Remmy 'When The Dawn Breaks' EP Release Party at Mitsuki on Thu 24 Sept, Tokyo. 1 act on the bill: DNG (1). Techno and House. Preview the line-up and save it on soundcheck.
+Remmy 'When The Dawn Breaks' EP Release Party at Mitsuki on Thu 24 Sept, Tokyo. 1 artist on the bill: DNG. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

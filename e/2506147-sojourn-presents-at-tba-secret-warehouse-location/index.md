@@ -1,6 +1,6 @@
 # Sojourn presents at TBA - Secret Warehouse Location
 
-Sojourn presents at TBA - Secret Warehouse Location on Sat 10 Oct, Boston. 1 act on the bill: LEGRAM VG. Techno and House. Preview the line-up and save it on soundcheck.
+Sojourn presents at TBA - Secret Warehouse Location on Sat 10 Oct, Boston. 1 artist on the bill: LEGRAM VG. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

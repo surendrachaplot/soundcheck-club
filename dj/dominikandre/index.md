@@ -2,7 +2,7 @@
 
 Dominik André is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hidden Sounds, London on Fri, 16 Oct 2026.
 
-Dominik André is a house and electronica artist based in Switzerland, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Dusseldorf and Kyoto and 5 more. Often billed alongside Nive, Courtney Bailey and Sound Metaphors Djs. Next up: Hidden Sounds, London on Fri 16 Oct.
+Dominik André is a house and electronica artist based in Switzerland, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Düsseldorf and Kyoto and 5 more. Often billed alongside Nive, Courtney Bailey and Sound Metaphors Djs. Next up: Hidden Sounds, London on Fri 16 Oct.
 
 ## Upcoming shows
 

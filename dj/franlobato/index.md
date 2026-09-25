@@ -2,7 +2,7 @@
 
 Fran Lobato is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at X Private Club, Madrid on Fri, 25 Sept 2026.
 
-Fran Lobato is a tech house and house artist based in Spain, tracked on soundcheck, with 21 sets logged across Madrid and Mexicocity. Often billed alongside Ruben Luna, Red Effects and Alffie. Next up: X Private Club, Madrid on Fri 25 Sept.
+Fran Lobato is a tech house and house artist based in Spain, tracked on soundcheck, with 21 sets logged across Madrid and Mexico City. Often billed alongside Ruben Luna, Red Effects and Alffie. Next up: X Private Club, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 

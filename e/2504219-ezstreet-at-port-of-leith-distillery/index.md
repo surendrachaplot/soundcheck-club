@@ -1,6 +1,6 @@
 # EzStreet at Port of Leith Distillery
 
-EzStreet at Port of Leith Distillery on Sat 28 Nov, Edinburgh. 2 acts on the bill: Grant Nelson and Jeremy Sylvester. House and Garage. Preview the line-up and save it on soundcheck.
+EzStreet at Port of Leith Distillery on Sat 28 Nov, Edinburgh. 2 artists on the bill: Grant Nelson and Jeremy Sylvester. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

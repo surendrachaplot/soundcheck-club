@@ -1,6 +1,6 @@
 # fabric: Locklead, bullet tooth, A For Alpha, Papa Nugs, Burnski, Busted + more at fabric
 
-fabric: Locklead, bullet tooth, A For Alpha, Papa Nugs, Burnski, Busted + more on Fri 9 Oct, London. 8 acts on the bill: A For Alpha, bullet tooth, Burnski and j:me and 4 more. Preview the line-up and save it on soundcheck.
+fabric: Locklead, bullet tooth, A For Alpha, Papa Nugs, Burnski, Busted + more on Fri 9 Oct, London. 8 artists on the bill: A For Alpha, bullet tooth, Burnski and j:me and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

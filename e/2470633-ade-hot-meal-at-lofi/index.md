@@ -1,6 +1,6 @@
 # ADE - Hot Meal at Lofi
 
-ADE - Hot Meal at Lofi on Thu 22 Oct, Amsterdam. 10 acts on the bill: Bad Boombox, Dr. G, Gusted and Janis Zielinski and 6 more. Preview the line-up and save it on soundcheck.
+ADE - Hot Meal at Lofi on Thu 22 Oct, Amsterdam. 10 artists on the bill: Bad Boombox, Dr. G, Gusted and Janis Zielinski and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

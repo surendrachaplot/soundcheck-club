@@ -1,6 +1,6 @@
 # Autonomy: SHERELLE, Bok Bok, & Introspekt at The Ground at Club Space
 
-Autonomy: SHERELLE, Bok Bok, & Introspekt at The Ground at Club Space on Fri 25 Sept, Miami. 5 acts on the bill: Bok Bok, Introspekt, Marie Qrie and SHERELLE and 1 more. Footwork and Jungle. Preview the line-up and save it on soundcheck.
+Autonomy: SHERELLE, Bok Bok, & Introspekt at The Ground at Club Space on Fri 25 Sept, Miami. 5 artists on the bill: Bok Bok, Introspekt, Marie Qrie and SHERELLE and 1 more. Footwork and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

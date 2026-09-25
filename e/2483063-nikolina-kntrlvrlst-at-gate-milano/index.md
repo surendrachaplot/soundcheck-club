@@ -1,6 +1,6 @@
 # Nikolina & KNTRLVRLST at Gate Milano
 
-Nikolina & KNTRLVRLST at Gate Milano on Fri 16 Oct, Milan. 2 acts on the bill: KNTRLVRLST and PACKAPUNCH909. Preview the line-up and save it on soundcheck.
+Nikolina & KNTRLVRLST at Gate Milano on Fri 16 Oct, Milan. 2 artists on the bill: KNTRLVRLST and PACKAPUNCH909. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

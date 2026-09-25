@@ -2,7 +2,7 @@
 
 Hannah mit Hut is a Acid and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Das Werk, Vienna on Sat, 24 Oct 2026.
 
-Hannah mit Hut is an acid and psytrance artist based in Austria, tracked on soundcheck, with 27 sets logged across Vienna. Often billed alongside LOUISA INDIA, Violetta (1) and Anatol. Next up: Das Werk, Vienna on Sat 24 Oct.
+Hannah mit Hut is an acid and psytrance artist based in Austria, tracked on soundcheck, with 27 sets logged across Vienna. Often billed alongside LOUISA INDIA, Violetta and Anatol. Next up: Das Werk, Vienna on Sat 24 Oct.
 
 ## Upcoming shows
 

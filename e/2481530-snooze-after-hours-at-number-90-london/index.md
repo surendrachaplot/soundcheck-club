@@ -1,6 +1,6 @@
 # Snooze After Hours at NUMBER 90 LONDON
 
-Snooze After Hours at NUMBER 90 LONDON on Sun 27 Sept, London. 7 acts on the bill: Blenk, Desiree', Field Case and LORKIK and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Snooze After Hours at NUMBER 90 LONDON on Sun 27 Sept, London. 7 artists on the bill: Blenk, Desiree', Field Case and LORKIK and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

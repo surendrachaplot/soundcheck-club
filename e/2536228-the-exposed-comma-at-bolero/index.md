@@ -1,6 +1,6 @@
 # THE EXPOSED COMMA at Bolero
 
-THE EXPOSED COMMA at Bolero on Fri 25 Sept, Seoul. 5 acts on the bill: DJ Co.kr, h4rdy, HYUNHXEE and MOAH and 1 more. Preview the line-up and save it on soundcheck.
+THE EXPOSED COMMA at Bolero on Fri 25 Sept, Seoul. 5 artists on the bill: DJ Co.kr, h4rdy, HYUNHXEE and MOAH and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

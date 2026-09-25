@@ -1,6 +1,6 @@
 # NTO live in concert at O - der Klub Vienna at O der Klub
 
-NTO live in concert at O - der Klub Vienna at O der Klub on Sat 14 Nov, Vienna. 1 act on the bill: NTO. Techno. Preview the line-up and save it on soundcheck.
+NTO live in concert at O - der Klub Vienna at O der Klub on Sat 14 Nov, Vienna. 1 artist on the bill: NTO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

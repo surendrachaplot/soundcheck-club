@@ -1,6 +1,6 @@
 # Mad About Laurel Aitken at TBA - DOSROMBOS
 
-Mad About Laurel Aitken at TBA - DOSROMBOS on Sat 14 Nov, Barcelona. 1 act on the bill: López. Preview the line-up and save it on soundcheck.
+Mad About Laurel Aitken at TBA - DOSROMBOS on Sat 14 Nov, Barcelona. 1 artist on the bill: López. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

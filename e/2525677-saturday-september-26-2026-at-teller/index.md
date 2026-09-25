@@ -1,6 +1,6 @@
 # Saturday, September 26, 2026 at teller
 
-Saturday, September 26, 2026 at teller on Sat 26 Sept, Seoul. 3 acts on the bill: Kugel, Sunday Lee and Young Sun. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Saturday, September 26, 2026 at teller on Sat 26 Sept, Seoul. 3 artists on the bill: Kugel, Sunday Lee and Young Sun. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

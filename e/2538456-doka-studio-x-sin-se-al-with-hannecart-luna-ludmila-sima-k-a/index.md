@@ -1,6 +1,6 @@
 # Doka Studio x Sin Señal with Hannecart - Luna Ludmila - sima k at Doka
 
-Doka Studio x Sin Señal with Hannecart - Luna Ludmila - sima k on Sat 10 Oct, Amsterdam. 3 acts on the bill: Hannecart, Luna Ludmila and sima k. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Doka Studio x Sin Señal with Hannecart - Luna Ludmila - sima k on Sat 10 Oct, Amsterdam. 3 artists on the bill: Hannecart, Luna Ludmila and sima k. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

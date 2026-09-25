@@ -1,6 +1,6 @@
 # Purple Disco Machine - PURE PACHA - CLOSING PARTY at Pacha Ibiza
 
-Purple Disco Machine - PURE PACHA - CLOSING PARTY at Pacha Ibiza on Thu 1 Oct, Ibiza. 5 acts on the bill: Breakbot, Busy P, david bay and Gerd Janson and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+Purple Disco Machine - PURE PACHA - CLOSING PARTY at Pacha Ibiza on Thu 1 Oct, Ibiza. 5 artists on the bill: Breakbot, Busy P, david bay and Gerd Janson and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

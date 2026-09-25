@@ -1,6 +1,6 @@
 # Polar Vortex Electronic Fest (21) at The Meadows
 
-Polar Vortex Electronic Fest (21) at The Meadows on Sat 17 Oct, Newyorkcity. Electro and Club. Preview the line-up and save it on soundcheck.
+Polar Vortex Electronic Fest (21) at The Meadows on Sat 17 Oct, New York City. Electro and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

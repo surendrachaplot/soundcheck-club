@@ -1,6 +1,6 @@
 # Labyrinth Weekend at RADION
 
-Labyrinth Weekend at RADION on Fri 27 Nov, Amsterdam. 13 acts on the bill: BIANKA, Dasha Rush, I-RO and Jephta and 9 more. Techno. Preview the line-up and save it on soundcheck.
+Labyrinth Weekend at RADION on Fri 27 Nov, Amsterdam. 13 artists on the bill: BIANKA, Dasha Rush, I-RO and Jephta and 9 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

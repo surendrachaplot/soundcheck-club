@@ -1,6 +1,6 @@
 # Pablo Fierro & Guests at Unveiled
 
-Pablo Fierro & Guests at Unveiled on Sat 12 Dec, Newyorkcity. 1 act on the bill: Pablo Fierro. Afro House. Preview the line-up and save it on soundcheck.
+Pablo Fierro & Guests at Unveiled on Sat 12 Dec, New York City. 1 artist on the bill: Pablo Fierro. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

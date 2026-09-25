@@ -2,7 +2,7 @@
 
 Honey Bun is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bossa Nova Civic Club, New York City on Thu, 8 Oct 2026.
 
-Honey Bun is a house and techno artist based in United States of America, tracked on soundcheck, with 148 sets logged across Amsterdam, Boston, Brussels and London and 5 more. Often billed alongside Lovie, Stonie Blue and Ayanna Heaven. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 8 Oct.
+Honey Bun is a house and techno artist based in United States of America, tracked on soundcheck, with 148 sets logged across Amsterdam, Boston, Brussels and London and 5 more. Often billed alongside Lovie, Stonie Blue and Ayanna Heaven. Next up: Bossa Nova Civic Club, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 

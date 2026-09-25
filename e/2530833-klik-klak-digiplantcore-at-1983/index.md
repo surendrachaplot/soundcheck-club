@@ -1,6 +1,6 @@
 # klik klak DIGIPLANTCORE at 1983
 
-klik klak DIGIPLANTCORE at 1983 on Fri 2 Oct, Riga. 2 acts on the bill: Marss The Person and Waterflower. Techno. Preview the line-up and save it on soundcheck.
+klik klak DIGIPLANTCORE at 1983 on Fri 2 Oct, Riga. 2 artists on the bill: Marss The Person and Waterflower. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

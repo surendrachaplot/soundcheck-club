@@ -1,6 +1,6 @@
 # Derrick's Birthday Queen! feat. Derrick Carter - Luke Solomon - Michael Serafini - Shaun J Wrig at smartbar
 
-Derrick's Birthday Queen! feat. Derrick Carter - Luke Solomon - Michael Serafini - Shaun J Wrig at smartbar on Sun 18 Oct, Chicago. 4 acts on the bill: Derrick Carter, Luke Solomon, Michael Serafini and Shaun J. Wright. House and Deep House. Preview the line-up and save it on soundcheck.
+Derrick's Birthday Queen! feat. Derrick Carter - Luke Solomon - Michael Serafini - Shaun J Wrig at smartbar on Sun 18 Oct, Chicago. 4 artists on the bill: Derrick Carter, Luke Solomon, Michael Serafini and Shaun J. Wright. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

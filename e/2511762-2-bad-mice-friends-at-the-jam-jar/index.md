@@ -1,6 +1,6 @@
 # 2 Bad Mice + Friends at The Jam Jar
 
-2 Bad Mice + Friends at The Jam Jar on Fri 27 Nov, Bristol. 4 acts on the bill: 2 Bad Mice, Abby Daze, Etch and Swankout. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
+2 Bad Mice + Friends at The Jam Jar on Fri 27 Nov, Bristol. 4 artists on the bill: 2 Bad Mice, Abby Daze, Etch and Swankout. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

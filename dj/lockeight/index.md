@@ -2,7 +2,7 @@
 
 LockEight is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Roberta's, New York City on Sat, 10 Oct 2026.
 
-LockEight is a house and minimal artist based in Canada, tracked on soundcheck, with 13 sets logged across Newyorkcity and Toronto. Often billed alongside Barbosa, ANDI WALL and Ammo Avenue. Next up: Roberta's, Newyorkcity on Sat 10 Oct.
+LockEight is a house and minimal artist based in Canada, tracked on soundcheck, with 13 sets logged across New York City and Toronto. Often billed alongside Barbosa, ANDI WALL and Ammo Avenue. Next up: Roberta's, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 

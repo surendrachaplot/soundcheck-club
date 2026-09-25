@@ -1,6 +1,6 @@
 # You&Me at Amnesia Ibiza
 
-You&Me at Amnesia Ibiza on Thu 24 Sept, Ibiza. 4 acts on the bill: ELVI (SE), Josh Baker, Julian Fijma and Luke Dean_. Tech House. Preview the line-up and save it on soundcheck.
+You&Me at Amnesia Ibiza on Thu 24 Sept, Ibiza. 4 artists on the bill: ELVI (SE), Josh Baker, Julian Fijma and Luke Dean_. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

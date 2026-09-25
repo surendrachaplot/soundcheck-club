@@ -2,7 +2,7 @@
 
 Diego Walle is a Guaracha and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Claudio Bernard 149, Mexico City on Sat, 24 Oct 2026.
 
-Diego Walle is a guaracha and latin bass artist based in Mexico, tracked on soundcheck, with 42 sets logged across Mexicocity. Often billed alongside Disco 86, Eliel Capa and Labios de Glitter. Next up: Claudio Bernard 149, Mexicocity on Sat 24 Oct.
+Diego Walle is a guaracha and latin bass artist based in Mexico, tracked on soundcheck, with 42 sets logged across Mexico City. Often billed alongside Disco 86, Eliel Capa and Labios de Glitter. Next up: Claudio Bernard 149, Mexico City on Sat 24 Oct.
 
 ## Upcoming shows
 

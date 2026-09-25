@@ -1,6 +1,6 @@
 # Lens: Moving Mad UK Tour - Brighton at Patterns
 
-Lens: Moving Mad UK Tour - Brighton at Patterns on Sat 28 Nov, Brighton. 1 act on the bill: Lens (2). Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Lens: Moving Mad UK Tour - Brighton at Patterns on Sat 28 Nov, Brighton. 1 artist on the bill: Lens. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

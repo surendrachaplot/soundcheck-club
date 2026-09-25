@@ -1,6 +1,6 @@
 # DI'ANTONIO & FRIENDS at Bajo Mundo
 
-DI'ANTONIO & FRIENDS at Bajo Mundo on Sat 26 Sept, Mexicocity. Club and Electronica. Preview the line-up and save it on soundcheck.
+DI'ANTONIO & FRIENDS at Bajo Mundo on Sat 26 Sept, Mexico City. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

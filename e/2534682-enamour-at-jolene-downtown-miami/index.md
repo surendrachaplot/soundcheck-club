@@ -1,6 +1,6 @@
 # Enamour at Jolene Downtown Miami
 
-Enamour at Jolene Downtown Miami on Sat 10 Oct, Miami. 2 acts on the bill: Enamour and Marte (US). House and Tech House. Preview the line-up and save it on soundcheck.
+Enamour at Jolene Downtown Miami on Sat 10 Oct, Miami. 2 artists on the bill: Enamour and Marte (US). House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

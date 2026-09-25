@@ -1,6 +1,6 @@
 # Sonny Fodera at Pacha Ibiza
 
-Sonny Fodera at Pacha Ibiza on Mon 28 Sept, Ibiza. 3 acts on the bill: JAZZY (2), Marten Lou and Sonny Fodera. House. Preview the line-up and save it on soundcheck.
+Sonny Fodera at Pacha Ibiza on Mon 28 Sept, Ibiza. 3 artists on the bill: JAZZY, Marten Lou and Sonny Fodera. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

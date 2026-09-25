@@ -1,6 +1,6 @@
 # Frissón x My Analog Journal with ZAG ERLAT at Frissón
 
-Frissón x My Analog Journal with ZAG ERLAT on Sun 27 Sept, Rome. 1 act on the bill: ZAG ERLAT. Preview the line-up and save it on soundcheck.
+Frissón x My Analog Journal with ZAG ERLAT on Sun 27 Sept, Rome. 1 artist on the bill: ZAG ERLAT. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

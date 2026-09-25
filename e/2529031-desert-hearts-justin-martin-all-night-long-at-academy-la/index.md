@@ -1,6 +1,6 @@
 # Desert Hearts & Justin Martin All Night Long at Academy LA
 
-Desert Hearts & Justin Martin All Night Long at Academy LA on Sat 14 Nov, Losangeles. 2 acts on the bill: Desert Hearts and Justin Martin. Techno and House. Preview the line-up and save it on soundcheck.
+Desert Hearts & Justin Martin All Night Long at Academy LA on Sat 14 Nov, Los Angeles. 2 artists on the bill: Desert Hearts and Justin Martin. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

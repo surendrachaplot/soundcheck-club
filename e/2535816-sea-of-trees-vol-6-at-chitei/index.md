@@ -1,6 +1,6 @@
 # Sea of Trees vol.6 at Chitei 地底
 
-Sea of Trees vol.6 at Chitei 地底 on Sun 4 Oct, Tokyo. 3 acts on the bill: AISHA, FECROMASS and Ottoman Grüw. EBM and New Wave. Preview the line-up and save it on soundcheck.
+Sea of Trees vol.6 at Chitei 地底 on Sun 4 Oct, Tokyo. 3 artists on the bill: AISHA, FECROMASS and Ottoman Grüw. EBM and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

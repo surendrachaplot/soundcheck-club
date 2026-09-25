@@ -2,7 +2,7 @@
 
 Bike Jesus is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Wellwetツ meets Golden Gate Berlin" on Fri, 25 Sept 2026.
 
-Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including 3TB (1), aláya, Andrea Dare and Ark3r and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
+Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including 3TB, aláya, Andrea Dare and Ark3r and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Blob Party: Watch Me at Le Sucre
 
-Blob Party: Watch Me at Le Sucre on Fri 2 Oct, Lyon. 2 acts on the bill: notinbed and sanderscore. Electro. Preview the line-up and save it on soundcheck.
+Blob Party: Watch Me at Le Sucre on Fri 2 Oct, Lyon. 2 artists on the bill: notinbed and sanderscore. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

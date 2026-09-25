@@ -1,6 +1,6 @@
 # Clock Factory presents: Flux Pavilion & Culprate at The Clock Factory
 
-Clock Factory presents: Flux Pavilion & Culprate at The Clock Factory on Sat 5 Dec, Bristol. 2 acts on the bill: Culprate and Flux Pavilion. Dubstep. Preview the line-up and save it on soundcheck.
+Clock Factory presents: Flux Pavilion & Culprate at The Clock Factory on Sat 5 Dec, Bristol. 2 artists on the bill: Culprate and Flux Pavilion. Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

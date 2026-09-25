@@ -1,6 +1,6 @@
 # Edition Hawara pres Sun Tun Club Album Listening Party at Unkompress
 
-Edition Hawara pres Sun Tun Club Album Listening Party at Unkompress on Sun 11 Oct, Berlin. 1 act on the bill: Jonny Nemetz. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Edition Hawara pres Sun Tun Club Album Listening Party at Unkompress on Sun 11 Oct, Berlin. 1 artist on the bill: Jonny Nemetz. Ambient and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

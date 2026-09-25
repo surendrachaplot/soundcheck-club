@@ -1,6 +1,6 @@
 # Que Sakamoto All Night Long at Cobalt Studios
 
-Que Sakamoto All Night Long at Cobalt Studios on Fri 30 Oct, Newcastle. 1 act on the bill: Que Sakamoto. Preview the line-up and save it on soundcheck.
+Que Sakamoto All Night Long at Cobalt Studios on Fri 30 Oct, Newcastle. 1 artist on the bill: Que Sakamoto. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

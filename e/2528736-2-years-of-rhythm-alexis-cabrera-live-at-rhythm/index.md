@@ -1,6 +1,6 @@
 # 2 Years of Rhythm: Alexis Cabrera (Live) at Rhythm
 
-2 Years of Rhythm: Alexis Cabrera (Live) on Sat 26 Sept, Toronto. 2 acts on the bill: Alexis Cabrera and Steve Marto. Minimal. Preview the line-up and save it on soundcheck.
+2 Years of Rhythm: Alexis Cabrera (Live) on Sat 26 Sept, Toronto. 2 artists on the bill: Alexis Cabrera and Steve Marto. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

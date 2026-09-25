@@ -1,6 +1,6 @@
 # life is beautiful presents: live at The White Hotel, Manchester at The White Hotel
 
-life is beautiful presents: live at The White Hotel, Manchester on Thu 10 Dec, Manchester. 1 act on the bill: Bianca Scout. Experimental. Preview the line-up and save it on soundcheck.
+life is beautiful presents: live at The White Hotel, Manchester on Thu 10 Dec, Manchester. 1 artist on the bill: Bianca Scout. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

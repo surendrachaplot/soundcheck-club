@@ -1,6 +1,6 @@
 # BLACK NOIR presents: BAR:D SUZUKI [JPN] at The Flinders
 
-BLACK NOIR presents: BAR:D SUZUKI [JPN] at The Flinders on Fri 25 Sept, Sydney. 1 act on the bill: Slater (UK). Techno. Preview the line-up and save it on soundcheck.
+BLACK NOIR presents: BAR:D SUZUKI [JPN] at The Flinders on Fri 25 Sept, Sydney. 1 artist on the bill: Slater (UK). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

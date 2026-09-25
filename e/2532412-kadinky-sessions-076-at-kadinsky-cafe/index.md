@@ -1,6 +1,6 @@
 # KADINKY SESSIONS 076 at Kadinsky Cafe
 
-KADINKY SESSIONS 076 at Kadinsky Cafe on Sat 26 Sept, Amsterdam. 3 acts on the bill: Around Us, Francesco Pico and MC PPholl. Progressive House. Preview the line-up and save it on soundcheck.
+KADINKY SESSIONS 076 at Kadinsky Cafe on Sat 26 Sept, Amsterdam. 3 artists on the bill: Around Us, Francesco Pico and MC PPholl. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

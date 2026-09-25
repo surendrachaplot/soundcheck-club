@@ -1,6 +1,6 @@
 # Lena Willikens at B.P.T at Bar Part Time
 
-Lena Willikens at B.P.T at Bar Part Time on Fri 25 Sept, Sanfrancisco. 1 act on the bill: Lena Willikens. Club and Industrial. Preview the line-up and save it on soundcheck.
+Lena Willikens at B.P.T at Bar Part Time on Fri 25 Sept, San Francisco/Oakland. 1 artist on the bill: Lena Willikens. Club and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

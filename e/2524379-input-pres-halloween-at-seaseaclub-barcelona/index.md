@@ -1,6 +1,6 @@
 # INPUT pres. HALLOWEEN at Seaseaclub Barcelona
 
-INPUT pres. HALLOWEEN at Seaseaclub Barcelona on Sat 31 Oct, Barcelona. 2 acts on the bill: CARISTA and Lil' Louis. Techno and House. Preview the line-up and save it on soundcheck.
+INPUT pres. HALLOWEEN at Seaseaclub Barcelona on Sat 31 Oct, Barcelona. 2 artists on the bill: CARISTA and Lil' Louis. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

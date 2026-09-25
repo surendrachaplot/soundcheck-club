@@ -2,7 +2,7 @@
 
 Driftwood is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "BABE" on Fri, 25 Sept 2026.
 
-Driftwood is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming gig, with line-ups including DJ Trevs. Browse upcoming dates, start times and who's playing. 1225 Folsom St. San Francisco CA 94103.
+Driftwood is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including DJ Trevs. Browse upcoming dates, start times and who's playing. 1225 Folsom St. San Francisco CA 94103.
 
 ## What's on
 

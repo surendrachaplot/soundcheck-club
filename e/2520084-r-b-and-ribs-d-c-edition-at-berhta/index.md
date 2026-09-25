@@ -1,6 +1,6 @@
 # R&B and Ribs: D.C. Edition at BERHTA
 
-R&B and Ribs: D.C. Edition at BERHTA on Sat 26 Sept, Washingtondc. R&B. Preview the line-up and save it on soundcheck.
+R&B and Ribs: D.C. Edition at BERHTA on Sat 26 Sept, Washington DC. R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # cosmo.komplex at Gambrinus
 
-cosmo.komplex at Gambrinus on Fri 25 Sept, Frankfurt. 1 act on the bill: tom voyage. House and Tech House. Preview the line-up and save it on soundcheck.
+cosmo.komplex at Gambrinus on Fri 25 Sept, Frankfurt. 1 artist on the bill: tom voyage. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

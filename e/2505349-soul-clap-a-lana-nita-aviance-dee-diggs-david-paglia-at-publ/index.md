@@ -1,6 +1,6 @@
 # Soul Clap, A lana / Nita Aviance, Dee Diggs / David Paglia at public records
 
-Soul Clap, A lana / Nita Aviance, Dee Diggs / David Paglia at public records on Sat 26 Sept, Newyorkcity. 5 acts on the bill: A lana, David Paglia, Dee Diggs and Nita Aviance and 1 more. House. Preview the line-up and save it on soundcheck.
+Soul Clap, A lana / Nita Aviance, Dee Diggs / David Paglia at public records on Sat 26 Sept, New York City. 5 artists on the bill: A lana, David Paglia, Dee Diggs and Nita Aviance and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

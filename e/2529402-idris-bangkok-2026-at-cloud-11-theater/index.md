@@ -1,6 +1,6 @@
 # IDRIS - Bangkok 2026 at Cloud 11 Theater
 
-IDRIS - Bangkok 2026 at Cloud 11 Theater on Sat 26 Sept, Bangkok. 3 acts on the bill: Elaheh, Idris Elba and Wildealer. House. Preview the line-up and save it on soundcheck.
+IDRIS - Bangkok 2026 at Cloud 11 Theater on Sat 26 Sept, Bangkok. 3 artists on the bill: Elaheh, Idris Elba and Wildealer. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

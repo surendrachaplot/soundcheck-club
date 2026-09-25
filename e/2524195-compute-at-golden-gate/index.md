@@ -1,6 +1,6 @@
 # Compute at Golden Gate
 
-Compute at Golden Gate on Thu 24 Sept, Berlin. 4 acts on the bill: Daraio, Didier Dlb, Ole Oetkers and Stephan Hill. Preview the line-up and save it on soundcheck.
+Compute at Golden Gate on Thu 24 Sept, Berlin. 4 artists on the bill: Daraio, Didier Dlb, Ole Oetkers and Stephan Hill. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

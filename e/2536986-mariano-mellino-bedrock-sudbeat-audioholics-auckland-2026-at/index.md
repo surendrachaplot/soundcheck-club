@@ -1,6 +1,6 @@
 # Mariano Mellino [Bedrock / Sudbeat / Audioholics] - Auckland 2026 at The Mothership
 
-Mariano Mellino [Bedrock / Sudbeat / Audioholics] - Auckland 2026 at The Mothership on Fri 9 Oct, Auckland. 1 act on the bill: Mariano Mellino. Progressive House. Preview the line-up and save it on soundcheck.
+Mariano Mellino [Bedrock / Sudbeat / Audioholics] - Auckland 2026 at The Mothership on Fri 9 Oct, Auckland. 1 artist on the bill: Mariano Mellino. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

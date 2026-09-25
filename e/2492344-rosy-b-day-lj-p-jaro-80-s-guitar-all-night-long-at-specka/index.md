@@ -1,6 +1,6 @@
 # Rosy B-Day & LJ Pájaro 80's/Guitar all night long at Specka
 
-Rosy B-Day & LJ Pájaro 80's/Guitar all night long at Specka on Sat 24 Oct, Madrid. 1 act on the bill: Rosy Specka. New Wave and Electronica. Preview the line-up and save it on soundcheck.
+Rosy B-Day & LJ Pájaro 80's/Guitar all night long at Specka on Sat 24 Oct, Madrid. 1 artist on the bill: Rosy Specka. New Wave and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

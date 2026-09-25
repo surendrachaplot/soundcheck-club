@@ -1,6 +1,6 @@
 # SOFI TUKKER at Huntington Bank Pavilion at Northerly Island at The Huntington Bank Pavilion at Northerly Island
 
-SOFI TUKKER at Huntington Bank Pavilion at Northerly Island at The Huntington Bank Pavilion at Northerly Island on Fri 25 Sept, Chicago. 1 act on the bill: SOFI TUKKER. Tech House. Preview the line-up and save it on soundcheck.
+SOFI TUKKER at Huntington Bank Pavilion at Northerly Island at The Huntington Bank Pavilion at Northerly Island on Fri 25 Sept, Chicago. 1 artist on the bill: SOFI TUKKER. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

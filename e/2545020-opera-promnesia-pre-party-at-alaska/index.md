@@ -1,6 +1,6 @@
 # opera promnesia pre-party at Alaska
 
-opera promnesia pre-party at Alaska on Thu 24 Sept, Athens. 1 act on the bill: Filippos Raskovic. Preview the line-up and save it on soundcheck.
+opera promnesia pre-party at Alaska on Thu 24 Sept, Athens. 1 artist on the bill: Filippos Raskovic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

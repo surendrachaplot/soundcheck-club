@@ -1,6 +1,6 @@
 # Lost presents Duskus Harry Hayes at Wigwam
 
-Lost presents Duskus Harry Hayes at Wigwam on Sat 24 Oct, Dublin. 2 acts on the bill: Duskus and Harry Hayes. Electronica. Preview the line-up and save it on soundcheck.
+Lost presents Duskus Harry Hayes at Wigwam on Sat 24 Oct, Dublin. 2 artists on the bill: Duskus and Harry Hayes. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

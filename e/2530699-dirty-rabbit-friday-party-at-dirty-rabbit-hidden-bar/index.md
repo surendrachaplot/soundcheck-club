@@ -1,6 +1,6 @@
 # Dirty Rabbit Friday party at Dirty Rabbit Hidden Bar
 
-Dirty Rabbit Friday party at Dirty Rabbit Hidden Bar on Fri 25 Sept, Bangkok. 1 act on the bill: Dj Hiro. Techno. Preview the line-up and save it on soundcheck.
+Dirty Rabbit Friday party at Dirty Rabbit Hidden Bar on Fri 25 Sept, Bangkok. 1 artist on the bill: Dj Hiro. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

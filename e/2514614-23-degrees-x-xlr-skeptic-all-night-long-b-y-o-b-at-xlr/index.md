@@ -1,6 +1,6 @@
 # 23 Degrees x XLR: Skeptic - All Night Long [B.Y.O.B] at XLR
 
-23 Degrees x XLR: Skeptic - All Night Long [B.Y.O.B] on Fri 23 Oct, Manchester. 1 act on the bill: Skeptic. Garage and Tech House. Preview the line-up and save it on soundcheck.
+23 Degrees x XLR: Skeptic - All Night Long [B.Y.O.B] on Fri 23 Oct, Manchester. 1 artist on the bill: Skeptic. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

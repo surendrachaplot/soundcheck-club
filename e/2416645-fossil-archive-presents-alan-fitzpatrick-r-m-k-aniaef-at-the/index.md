@@ -1,6 +1,6 @@
 # Fossil Archive presents: Alan Fitzpatrick, R.M.K, Aniaef at The Glove That Fits
 
-Fossil Archive presents: Alan Fitzpatrick, R.M.K, Aniaef at The Glove That Fits on Sun 4 Oct, London. 3 acts on the bill: Alan Fitzpatrick, Aniaef and R.M.K. Techno. Preview the line-up and save it on soundcheck.
+Fossil Archive presents: Alan Fitzpatrick, R.M.K, Aniaef at The Glove That Fits on Sun 4 Oct, London. 3 artists on the bill: Alan Fitzpatrick, Aniaef and R.M.K. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

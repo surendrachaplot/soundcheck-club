@@ -2,7 +2,7 @@
 
 Cafe La Palma is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "INERCIA: Iria + Pasango / Bouncy House" on Fri, 25 Sept 2026.
 
-Cafe La Palma is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Adrien Calvet, Combret, Iria and Lucien (3) and 2 more. Browse upcoming dates, start times and who's playing. Calle de la Palma, 62; 28015 Madrid; Spain.
+Cafe La Palma is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Adrien Calvet, Combret, Iria and Lucien and 2 more. Browse upcoming dates, start times and who's playing. Calle de la Palma, 62; 28015 Madrid; Spain.
 
 ## What's on
 

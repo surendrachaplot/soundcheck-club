@@ -1,6 +1,6 @@
 # Photogenique Records x No.Vista with Left Early Bird, girl_irl, D3NIM, Mvtte0 + Jay3m at Bossa Nova Civic Club
 
-Photogenique Records x No.Vista with Left Early Bird, girl_irl, D3NIM, Mvtte0 + Jay3m at Bossa Nova Civic Club on Sat 3 Oct, Newyorkcity. 3 acts on the bill: D3NIM, girl_irl and Lefto Early Bird. Club. Preview the line-up and save it on soundcheck.
+Photogenique Records x No.Vista with Left Early Bird, girl_irl, D3NIM, Mvtte0 + Jay3m at Bossa Nova Civic Club on Sat 3 Oct, New York City. 3 artists on the bill: D3NIM, girl_irl and Lefto Early Bird. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

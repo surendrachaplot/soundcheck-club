@@ -1,6 +1,6 @@
 # Halloween Cover Show at Sugar Mouse
 
-Halloween Cover Show at Sugar Mouse on Thu 8 Oct, Newyorkcity. Pop and Post-Punk. Preview the line-up and save it on soundcheck.
+Halloween Cover Show at Sugar Mouse on Thu 8 Oct, New York City. Pop and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

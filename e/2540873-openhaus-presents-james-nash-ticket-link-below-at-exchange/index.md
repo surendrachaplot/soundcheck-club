@@ -1,6 +1,6 @@
 # OPENHAUS PRESENTS: James Nash (Ticket link below) at Exchange
 
-OPENHAUS PRESENTS: James Nash (Ticket link below) at Exchange on Sat 24 Oct, Bristol. 1 act on the bill: James Nash. Garage and Tech House. Preview the line-up and save it on soundcheck.
+OPENHAUS PRESENTS: James Nash (Ticket link below) at Exchange on Sat 24 Oct, Bristol. 1 artist on the bill: James Nash. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

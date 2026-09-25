@@ -1,6 +1,6 @@
 # Birds of Paradise with Fabri Es, Julian Ortega, Justo at Bar 1924
 
-Birds of Paradise with Fabri Es, Julian Ortega, Justo at Bar 1924 on Sat 26 Sept, Sandiego. 2 acts on the bill: Fabri Es and Julian Ortega. Minimal and Dub Techno. Preview the line-up and save it on soundcheck.
+Birds of Paradise with Fabri Es, Julian Ortega, Justo at Bar 1924 on Sat 26 Sept, San Diego. 2 artists on the bill: Fabri Es and Julian Ortega. Minimal and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

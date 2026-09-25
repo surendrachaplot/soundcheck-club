@@ -2,7 +2,7 @@
 
 Beamskii is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Foufounes Electronique, Montreal on Sat, 17 Oct 2026.
 
-Beamskii is a hardcore and techno artist based in Canada, tracked on soundcheck, with 40 sets logged across Mexicocity, Montreal and Toronto. Often billed alongside Outback, Neo Edo and D.Blavatsky. Next up: Foufounes Electronique, Montreal on Sat 17 Oct.
+Beamskii is a hardcore and techno artist based in Canada, tracked on soundcheck, with 40 sets logged across Mexico City, Montreal and Toronto. Often billed alongside Outback, Neo Edo and D.Blavatsky. Next up: Foufounes Electronique, Montreal on Sat 17 Oct.
 
 ## Upcoming shows
 

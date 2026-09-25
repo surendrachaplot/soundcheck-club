@@ -1,13 +1,14 @@
 # DJ Cringey
 
-DJ Cringey is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mondo Open Air, Madrid on Sat, 26 Sept 2026.
+DJ Cringey is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 25 Sept 2026.
 
-DJ Cringey is a techno and trance artist based in New Zealand, tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Basel and Belfast and 23 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Mondo Open Air, Madrid on Sat 26 Sept.
+DJ Cringey is a techno and trance artist based in New Zealand, tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Basel and Belfast and 24 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Studio Club Malaga, Malaga on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Studio Club Malaga | Malaga |
 | Sat, 26 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 26 Sept 2026 | Virage | Paris |
 | Fri, 9 Oct 2026 | Edelfettwerk | Hamburg |

@@ -2,7 +2,7 @@
 
 Seisaro is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Madame X, New York City on Thu, 24 Sept 2026.
 
-Seisaro is a techno and psytrance artist based in Colombia, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Chillosophy, ACIDMOM and Zombi Adam. Next up: Madame X, Newyorkcity on Thu 24 Sept.
+Seisaro is a techno and psytrance artist based in Colombia, tracked on soundcheck, with 8 sets logged across New York City. Often billed alongside Chillosophy, ACIDMOM and Zombi Adam. Next up: Madame X, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

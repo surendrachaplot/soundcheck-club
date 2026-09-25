@@ -1,6 +1,6 @@
 # ARETÉ: Alvaro Cabana, Aisak Morris, K-YU, Naya at EL SÓTANO
 
-ARETÉ: Alvaro Cabana, Aisak Morris, K-YU, Naya at EL SÓTANO on Thu 24 Sept, Madrid. 2 acts on the bill: Alvaro Cabana and Naya. Disco. Preview the line-up and save it on soundcheck.
+ARETÉ: Alvaro Cabana, Aisak Morris, K-YU, Naya at EL SÓTANO on Thu 24 Sept, Madrid. 2 artists on the bill: Alvaro Cabana and Naya. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

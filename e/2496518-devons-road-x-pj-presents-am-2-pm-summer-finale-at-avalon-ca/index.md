@@ -1,6 +1,6 @@
 # Devons Road x PJ presents AM 2 PM - summer finale at Avalon Cafe at Avalon Cafe Bermondsey
 
-Devons Road x PJ presents AM 2 PM - summer finale at Avalon Cafe at Avalon Cafe Bermondsey on Sun 27 Sept, London. 4 acts on the bill: DJ LESSONS, Junior Buzz, Rhi Spect and Snoozy. House and Hardcore. Preview the line-up and save it on soundcheck.
+Devons Road x PJ presents AM 2 PM - summer finale at Avalon Cafe at Avalon Cafe Bermondsey on Sun 27 Sept, London. 4 artists on the bill: DJ LESSONS, Junior Buzz, Rhi Spect and Snoozy. House and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

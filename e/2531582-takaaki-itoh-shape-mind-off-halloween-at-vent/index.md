@@ -1,6 +1,6 @@
 # Takaaki Itoh / SHAPE × MIND OFF Halloween at VENT
 
-Takaaki Itoh / SHAPE × MIND OFF Halloween at VENT on Sat 31 Oct, Tokyo. 8 acts on the bill: Dani Savant, Drunken Kong, Jun (+886) and Mucaro and 4 more. Techno. Preview the line-up and save it on soundcheck.
+Takaaki Itoh / SHAPE × MIND OFF Halloween at VENT on Sat 31 Oct, Tokyo. 8 artists on the bill: Dani Savant, Drunken Kong, Jun (+886) and Mucaro and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

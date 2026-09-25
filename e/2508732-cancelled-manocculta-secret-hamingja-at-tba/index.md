@@ -1,6 +1,6 @@
 # [CANCELLED] MANOCCULTA SECRET HAMINGJA at TBA
 
-[CANCELLED] MANOCCULTA SECRET HAMINGJA at TBA on Sat 17 Oct, London. 1 act on the bill: Manocculta. Techno and Tech House. Preview the line-up and save it on soundcheck.
+[CANCELLED] MANOCCULTA SECRET HAMINGJA at TBA on Sat 17 Oct, London. 1 artist on the bill: Manocculta. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

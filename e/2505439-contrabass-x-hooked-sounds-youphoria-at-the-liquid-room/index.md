@@ -1,6 +1,6 @@
 # Contrabass x Hooked Sounds: YOUPHORIA at The Liquid Room
 
-Contrabass x Hooked Sounds: YOUPHORIA at The Liquid Room on Sat 14 Nov, Edinburgh. 1 act on the bill: Janverse. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Contrabass x Hooked Sounds: YOUPHORIA at The Liquid Room on Sat 14 Nov, Edinburgh. 1 artist on the bill: Janverse. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

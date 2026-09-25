@@ -1,6 +1,6 @@
 # Animal Crossing: O.BEE & Tomas Station (All Night Long) at The Loft
 
-Animal Crossing: O.BEE & Tomas Station (All Night Long) at The Loft on Fri 25 Sept, Manchester. 2 acts on the bill: O.BEE and Tomas Station. Preview the line-up and save it on soundcheck.
+Animal Crossing: O.BEE & Tomas Station (All Night Long) at The Loft on Fri 25 Sept, Manchester. 2 artists on the bill: O.BEE and Tomas Station. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 STARRZA is a Afrobeats and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
-STARRZA is an afrobeats and hip-hop artist based in United States of America, tracked on soundcheck, with 30 sets logged across Copenhagen, London, Losangeles and Newyorkcity and 1 more. Often billed alongside Cquestt, Giselle Peppers and DINABN. Next up: TBA, Losangeles on Sun 27 Sept.
+STARRZA is an afrobeats and hip-hop artist based in United States of America, tracked on soundcheck, with 30 sets logged across Copenhagen, London, Los Angeles and New York City and 1 more. Often billed alongside Cquestt, Giselle Peppers and DINABN. Next up: TBA, Los Angeles on Sun 27 Sept.
 
 ## Upcoming shows
 

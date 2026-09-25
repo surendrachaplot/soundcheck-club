@@ -1,6 +1,6 @@
 # Ryota - Venue MOT at M.O.T
 
-Ryota - Venue MOT at M.O.T on Sat 24 Oct, London. 1 act on the bill: ryota dj. Preview the line-up and save it on soundcheck.
+Ryota - Venue MOT at M.O.T on Sat 24 Oct, London. 1 artist on the bill: ryota dj. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

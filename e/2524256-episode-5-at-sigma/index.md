@@ -1,6 +1,6 @@
 # EPISODE 5 at Sigma
 
-EPISODE 5 at Sigma on Fri 25 Sept, Ibiza. 3 acts on the bill: AntZ (2), Marcelo Demarco and Varøsian. Techno. Preview the line-up and save it on soundcheck.
+EPISODE 5 at Sigma on Fri 25 Sept, Ibiza. 3 artists on the bill: AntZ, Marcelo Demarco and Varøsian. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

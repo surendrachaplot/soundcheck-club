@@ -1,6 +1,6 @@
 # Oriental Techno Club - 東極玄音寺: Icey Planet, Raeya Chen, DÅwN at Tempio del Futuro Perduto
 
-Oriental Techno Club - 東極玄音寺: Icey Planet, Raeya Chen, DÅwN at Tempio del Futuro Perduto on Fri 9 Oct, Milan. 3 acts on the bill: DÅwN, Icey Planet and Raeya Chen. Preview the line-up and save it on soundcheck.
+Oriental Techno Club - 東極玄音寺: Icey Planet, Raeya Chen, DÅwN at Tempio del Futuro Perduto on Fri 9 Oct, Milan. 3 artists on the bill: DÅwN, Icey Planet and Raeya Chen. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

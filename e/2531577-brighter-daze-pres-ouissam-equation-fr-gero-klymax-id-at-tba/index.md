@@ -1,6 +1,6 @@
 # Brighter Daze pres. Ouissam (Equation, FR) & Gero (Klymax, ID) at TBA - Mantra Rooftop Bar & Lounge
 
-Brighter Daze pres. Ouissam (Equation, FR) & Gero (Klymax, ID) at TBA - Mantra Rooftop Bar & Lounge on Sat 3 Oct, Kualalumpur. 6 acts on the bill: JonnyVicious, LZZY, Meliha and Odd (MY) and 2 more. House and Acid. Preview the line-up and save it on soundcheck.
+Brighter Daze pres. Ouissam (Equation, FR) & Gero (Klymax, ID) at TBA - Mantra Rooftop Bar & Lounge on Sat 3 Oct, Kuala Lumpur. 6 artists on the bill: JonnyVicious, LZZY, Meliha and Odd (MY) and 2 more. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

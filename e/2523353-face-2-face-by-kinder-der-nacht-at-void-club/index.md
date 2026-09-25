@@ -1,6 +1,6 @@
 # Face 2 Face by Kinder der Nacht at Void Club
 
-Face 2 Face by Kinder der Nacht at Void Club on Fri 11 Dec, Berlin. 3 acts on the bill: GHOST DE, Rob Robsen and Talla 2XLC. Trance and Techno. Preview the line-up and save it on soundcheck.
+Face 2 Face by Kinder der Nacht at Void Club on Fri 11 Dec, Berlin. 3 artists on the bill: GHOST DE, Rob Robsen and Talla 2XLC. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Boris - Pax Arabiana at BORIS CLUB
 
-Boris - Pax Arabiana at BORIS CLUB on Thu 24 Sept, Barcelona. 1 act on the bill: Pax Arabiana. House. Preview the line-up and save it on soundcheck.
+Boris - Pax Arabiana at BORIS CLUB on Thu 24 Sept, Barcelona. 1 artist on the bill: Pax Arabiana. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

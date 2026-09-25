@@ -2,7 +2,7 @@
 
 LeLeon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cabaret Sauvage, Paris on Fri, 27 Nov 2026.
 
-LeLeon is a house and techno artist based in France, tracked on soundcheck, with 61 sets logged across Lyon and Paris. Often billed alongside Naajet (2), Bande de Filles and Lyss. Next up: Cabaret Sauvage, Paris on Fri 27 Nov.
+LeLeon is a house and techno artist based in France, tracked on soundcheck, with 61 sets logged across Lyon and Paris. Often billed alongside Naajet, Bande de Filles and Lyss. Next up: Cabaret Sauvage, Paris on Fri 27 Nov.
 
 ## Upcoming shows
 

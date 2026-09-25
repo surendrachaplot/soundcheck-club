@@ -1,6 +1,6 @@
 # Equal Parts: Warehouse of Horror at Grow
 
-Equal Parts: Warehouse of Horror at Grow on Fri 30 Oct, London. 3 acts on the bill: fairground, Holly Why and Ryan Jones. Techno and House. Preview the line-up and save it on soundcheck.
+Equal Parts: Warehouse of Horror at Grow on Fri 30 Oct, London. 3 artists on the bill: fairground, Holly Why and Ryan Jones. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

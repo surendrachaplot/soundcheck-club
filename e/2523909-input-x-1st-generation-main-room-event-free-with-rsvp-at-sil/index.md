@@ -1,6 +1,6 @@
 # Input X 1st Generation (Main Room Event, Free with RSVP) at SILO
 
-Input X 1st Generation (Main Room Event, Free with RSVP) at SILO on Thu 24 Sept, Newyorkcity. 6 acts on the bill: Black Pomade, Bruno Limma, LANSUH and Louis Be and 2 more. Techno and Garage. Preview the line-up and save it on soundcheck.
+Input X 1st Generation (Main Room Event, Free with RSVP) at SILO on Thu 24 Sept, New York City. 6 artists on the bill: Black Pomade, Bruno Limma, LANSUH and Louis Be and 2 more. Techno and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

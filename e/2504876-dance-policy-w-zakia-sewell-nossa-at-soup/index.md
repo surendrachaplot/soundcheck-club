@@ -1,6 +1,6 @@
 # Dance Policy W/ ZAKIA SEWELL & NOSSA at Soup
 
-Dance Policy W/ ZAKIA SEWELL & NOSSA at Soup on Fri 2 Oct, Manchester. 1 act on the bill: Zakia. Preview the line-up and save it on soundcheck.
+Dance Policy W/ ZAKIA SEWELL & NOSSA at Soup on Fri 2 Oct, Manchester. 1 artist on the bill: Zakia. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

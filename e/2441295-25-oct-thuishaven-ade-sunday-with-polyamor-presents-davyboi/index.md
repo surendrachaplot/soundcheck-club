@@ -1,6 +1,6 @@
 # 25 OCT - Thuishaven ADE Sunday with Polyamor presents: davyboi invites SOLD OUT at Thuishaven
 
-25 OCT - Thuishaven ADE Sunday with Polyamor presents: davyboi invites SOLD OUT on Sun 25 Oct, Amsterdam. 1 act on the bill: davyboi. Preview the line-up and save it on soundcheck.
+25 OCT - Thuishaven ADE Sunday with Polyamor presents: davyboi invites SOLD OUT on Sun 25 Oct, Amsterdam. 1 artist on the bill: davyboi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

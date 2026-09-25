@@ -1,6 +1,6 @@
 # CLB Presents: Party in The Park at TBA
 
-CLB Presents: Party in The Park at TBA on Sat 10 Oct, Sydney. 4 acts on the bill: Box Elder, Fishing Dad, Lily FM and Mazzacles. Trance. Preview the line-up and save it on soundcheck.
+CLB Presents: Party in The Park at TBA on Sat 10 Oct, Sydney. 4 artists on the bill: Box Elder, Fishing Dad, Lily FM and Mazzacles. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

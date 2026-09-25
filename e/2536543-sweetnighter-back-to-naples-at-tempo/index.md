@@ -1,6 +1,6 @@
 # Sweetnighter - Back To Naples at Tempo
 
-Sweetnighter - Back To Naples at Tempo on Sat 26 Sept, Naples. 1 act on the bill: Joseph Russell. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Sweetnighter - Back To Naples at Tempo on Sat 26 Sept, Naples. 1 artist on the bill: Joseph Russell. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

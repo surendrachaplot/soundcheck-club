@@ -1,6 +1,6 @@
 # PIXEL VOL 3 W ROBS [IT/ DE] at B2 Rīga
 
-PIXEL VOL 3 W ROBS [IT/ DE] at B2 Rīga on Fri 9 Oct, Riga. 3 acts on the bill: Electricano, PUPA and Robs (1). House. Preview the line-up and save it on soundcheck.
+PIXEL VOL 3 W ROBS [IT/ DE] at B2 Rīga on Fri 9 Oct, Riga. 3 artists on the bill: Electricano, PUPA and Robs. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

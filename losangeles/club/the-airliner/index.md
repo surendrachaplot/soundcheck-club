@@ -2,7 +2,7 @@
 
 The Airliner is a music venue in Los Angeles with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "ÆFFECT RADIO 16-Year Anniversary Party" on Thu, 24 Sept 2026.
 
-The Airliner is a music venue in Losangeles listed on soundcheck. 9 upcoming gigs, with line-ups including Aaron Paar, Andy Oro, Ava Blank and Baltra and 2 more. Browse upcoming dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
+The Airliner is a music venue in Los Angeles listed on soundcheck. 9 upcoming gigs, with line-ups including Aaron Paar, Andy Oro, Ava Blank and Baltra and 2 more. Browse upcoming dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
 ## What's on
 

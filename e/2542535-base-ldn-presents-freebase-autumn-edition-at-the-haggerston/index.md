@@ -1,6 +1,6 @@
 # Base LDN presents FREEBASE - AUTUMN EDITION at The Haggerston
 
-Base LDN presents FREEBASE - AUTUMN EDITION at The Haggerston on Fri 2 Oct, London. 2 acts on the bill: Art Dealer and RIMIX. Bass and UK Funky. Preview the line-up and save it on soundcheck.
+Base LDN presents FREEBASE - AUTUMN EDITION at The Haggerston on Fri 2 Oct, London. 2 artists on the bill: Art Dealer and RIMIX. Bass and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Traumer B2B Cesar Merveille · CORA M · Auguste Safar & Raphael Graham at Audio Club
 
-Traumer B2B Cesar Merveille · CORA M · Auguste Safar & Raphael Graham at Audio Club on Fri 25 Sept, Geneva. 4 acts on the bill: Auguste Safar, Cesar Merveille, Raphael Graham and Traumer. Preview the line-up and save it on soundcheck.
+Traumer B2B Cesar Merveille · CORA M · Auguste Safar & Raphael Graham at Audio Club on Fri 25 Sept, Geneva. 4 artists on the bill: Auguste Safar, Cesar Merveille, Raphael Graham and Traumer. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

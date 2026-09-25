@@ -1,6 +1,6 @@
 # Borley Room: BORLEY, RUA DJ, DV60 at Sneaky Pete's
 
-Borley Room: BORLEY, RUA DJ, DV60 at Sneaky Pete's on Wed 21 Oct, Edinburgh. 3 acts on the bill: BORLEY, DV60 and RUA DJ. Preview the line-up and save it on soundcheck.
+Borley Room: BORLEY, RUA DJ, DV60 at Sneaky Pete's on Wed 21 Oct, Edinburgh. 3 artists on the bill: BORLEY, DV60 and RUA DJ. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

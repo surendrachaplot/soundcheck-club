@@ -2,7 +2,7 @@
 
 Agustin Giri is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
 
-Agustin Giri is a techno and electronica artist based in Argentina, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 1 more. Often billed alongside Gespona, Last Men On Earth and Agents Of Time. Next up: Kater, Berlin on Fri 9 Oct.
+Agustin Giri is a techno and electronica artist based in Argentina, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 1 more. Often billed alongside Gespona, Last Men On Earth and Agents Of Time. Next up: Kater, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 

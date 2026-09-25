@@ -1,6 +1,6 @@
 # Spoonerism presents: flutter listening session at Silence Please
 
-Spoonerism presents: flutter listening session at Silence Please on Thu 1 Oct, Newyorkcity. Pop. Preview the line-up and save it on soundcheck.
+Spoonerism presents: flutter listening session at Silence Please on Thu 1 Oct, New York City. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

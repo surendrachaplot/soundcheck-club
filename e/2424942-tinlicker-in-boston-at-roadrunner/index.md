@@ -1,6 +1,6 @@
 # Tinlicker in Boston at Roadrunner
 
-Tinlicker in Boston at Roadrunner on Fri 25 Sept, Boston. 1 act on the bill: Tinlicker. Preview the line-up and save it on soundcheck.
+Tinlicker in Boston at Roadrunner on Fri 25 Sept, Boston. 1 artist on the bill: Tinlicker. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

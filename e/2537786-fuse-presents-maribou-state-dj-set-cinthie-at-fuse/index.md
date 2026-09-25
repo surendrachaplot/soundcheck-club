@@ -1,6 +1,6 @@
 # Fuse presents: Maribou State (DJ set) & Cinthie at Fuse
 
-Fuse presents: Maribou State (DJ set) & Cinthie on Fri 16 Oct, Brussels. 4 acts on the bill: Cinthie, Maribou State, TORI ANN and UNOS. Preview the line-up and save it on soundcheck.
+Fuse presents: Maribou State (DJ set) & Cinthie on Fri 16 Oct, Brussels. 4 artists on the bill: Cinthie, Maribou State, TORI ANN and UNOS. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

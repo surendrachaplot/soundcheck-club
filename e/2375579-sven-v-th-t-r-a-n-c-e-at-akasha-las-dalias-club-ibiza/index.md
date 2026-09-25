@@ -1,6 +1,6 @@
 # Sven Väth - T.R.A.N.C.E at Akasha Las Dalias Club - Ibiza
 
-Sven Väth - T.R.A.N.C.E at Akasha Las Dalias Club - Ibiza on Thu 1 Oct, Ibiza. 2 acts on the bill: Maurizio Schmitz and Sven Vath. Preview the line-up and save it on soundcheck.
+Sven Väth - T.R.A.N.C.E at Akasha Las Dalias Club - Ibiza on Thu 1 Oct, Ibiza. 2 artists on the bill: Maurizio Schmitz and Sven Vath. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

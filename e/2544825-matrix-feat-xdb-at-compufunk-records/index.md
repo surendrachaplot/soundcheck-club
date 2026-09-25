@@ -1,6 +1,6 @@
 # MATRIX feat XDB at Compufunk Records
 
-MATRIX feat XDB at Compufunk Records on Fri 23 Oct, Osaka. 3 acts on the bill: DJ Compufunk, XDB and Yudai Sugiyama. Techno and House. Preview the line-up and save it on soundcheck.
+MATRIX feat XDB at Compufunk Records on Fri 23 Oct, Osaka. 3 artists on the bill: DJ Compufunk, XDB and Yudai Sugiyama. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

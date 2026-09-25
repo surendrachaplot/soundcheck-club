@@ -1,6 +1,6 @@
 # Sacré présente: Duskus, Lefblom & Scolcab at Sacré
 
-Sacré présente: Duskus, Lefblom & Scolcab on Fri 13 Nov, Paris. 2 acts on the bill: Duskus and Lefblom. House. Preview the line-up and save it on soundcheck.
+Sacré présente: Duskus, Lefblom & Scolcab on Fri 13 Nov, Paris. 2 artists on the bill: Duskus and Lefblom. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EXIT CLUB at EXIT Glasgow
 
-EXIT CLUB at EXIT Glasgow on Sat 17 Oct, Glasgow. 2 acts on the bill: Brandon Lee Vear and Daichi Wada. Techno. Preview the line-up and save it on soundcheck.
+EXIT CLUB at EXIT Glasgow on Sat 17 Oct, Glasgow. 2 artists on the bill: Brandon Lee Vear and Daichi Wada. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

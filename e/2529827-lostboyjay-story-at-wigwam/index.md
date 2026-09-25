@@ -1,6 +1,6 @@
 # LOSTBOYJAY Story* at Wigwam
 
-LOSTBOYJAY Story* at Wigwam on Sat 21 Nov, Dublin. 1 act on the bill: LOSTBOYJAY. House and Garage. Preview the line-up and save it on soundcheck.
+LOSTBOYJAY Story* at Wigwam on Sat 21 Nov, Dublin. 1 artist on the bill: LOSTBOYJAY. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

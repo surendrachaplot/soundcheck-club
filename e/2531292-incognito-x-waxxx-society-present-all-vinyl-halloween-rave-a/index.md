@@ -1,6 +1,6 @@
 # INCOGNITO X WAXXX Society present All-Vinyl HALLOWEEN Rave at TBA - Los Angeles (Warehouse)
 
-INCOGNITO X WAXXX Society present All-Vinyl HALLOWEEN Rave at TBA - Los Angeles (Warehouse) on Sat 31 Oct, Losangeles. 4 acts on the bill: Bloody Mary, Julia Govor, Laure Croft and Xica Soul. Techno and House. Preview the line-up and save it on soundcheck.
+INCOGNITO X WAXXX Society present All-Vinyl HALLOWEEN Rave at TBA - Los Angeles (Warehouse) on Sat 31 Oct, Los Angeles. 4 artists on the bill: Bloody Mary, Julia Govor, Laure Croft and Xica Soul. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

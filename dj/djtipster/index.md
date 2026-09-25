@@ -2,7 +2,7 @@
 
 DJ TIPSTER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Humboldthain Club, Berlin on Sat, 3 Oct 2026.
 
-DJ TIPSTER is a techno and trance artist based in Germany, tracked on soundcheck, with 61 sets logged across Athens, Berlin, Frankfurt and Krakow and 1 more. Often billed alongside HØLLE (2), DiskoJochen and DJ BRECHSTANGE. Next up: Humboldthain Club, Berlin on Sat 3 Oct.
+DJ TIPSTER is a techno and trance artist based in Germany, tracked on soundcheck, with 61 sets logged across Athens, Berlin, Frankfurt and Krakow and 1 more. Often billed alongside HØLLE, DiskoJochen and DJ BRECHSTANGE. Next up: Humboldthain Club, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 

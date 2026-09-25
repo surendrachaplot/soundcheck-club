@@ -1,6 +1,6 @@
 # HARD TECHNO SATURDAY - ZENA IS COMING BACK at Luka
 
-HARD TECHNO SATURDAY - ZENA IS COMING BACK at Luka on Sat 26 Sept, Seoul. 2 acts on the bill: ZENA (KR) and Zeyvers. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+HARD TECHNO SATURDAY - ZENA IS COMING BACK at Luka on Sat 26 Sept, Seoul. 2 artists on the bill: ZENA (KR) and Zeyvers. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

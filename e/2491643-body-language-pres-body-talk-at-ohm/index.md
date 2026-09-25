@@ -1,6 +1,6 @@
 # Body Language pres. Body Talk at OHM
 
-Body Language pres. Body Talk at OHM on Fri 2 Oct, Berlin. 3 acts on the bill: Manolo. (DE), Stella Zekri and Tam Tam. Preview the line-up and save it on soundcheck.
+Body Language pres. Body Talk at OHM on Fri 2 Oct, Berlin. 3 artists on the bill: Manolo. (DE), Stella Zekri and Tam Tam. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

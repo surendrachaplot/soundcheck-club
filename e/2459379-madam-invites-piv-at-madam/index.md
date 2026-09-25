@@ -1,6 +1,6 @@
 # Madam invites: PIV at Madam
 
-Madam invites: PIV on Thu 22 Oct, Amsterdam. 5 acts on the bill: Dan Shake, Demi Riquisimo, Ella Knight and Ian Pooley and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Madam invites: PIV on Thu 22 Oct, Amsterdam. 5 artists on the bill: Dan Shake, Demi Riquisimo, Ella Knight and Ian Pooley and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

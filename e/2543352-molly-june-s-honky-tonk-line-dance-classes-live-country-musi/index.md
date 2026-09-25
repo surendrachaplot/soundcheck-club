@@ -1,6 +1,6 @@
 # Molly & June's Honky Tonk: Line Dance Classes & Live Country Music at Houston Hall
 
-Molly & June's Honky Tonk: Line Dance Classes & Live Country Music at Houston Hall on Fri 25 Sept, Newyorkcity. Dancehall. Preview the line-up and save it on soundcheck.
+Molly & June's Honky Tonk: Line Dance Classes & Live Country Music at Houston Hall on Fri 25 Sept, New York City. Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

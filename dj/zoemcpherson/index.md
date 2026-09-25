@@ -1,14 +1,13 @@
 # Zoë Mc Pherson
 
-Zoë Mc Pherson is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Communale Saint-Ouen, Paris on Thu, 24 Sept 2026.
+Zoë Mc Pherson is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Karmen Camina, Strasbourg on Fri, 25 Sept 2026.
 
-Zoë Mc Pherson is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside Alessandra Leone, ABADIR and Evian Christ. Next up: Communale Saint-Ouen, Paris on Thu 24 Sept.
+Zoë Mc Pherson is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside Alessandra Leone, ABADIR and Evian Christ. Next up: Karmen Camina, Strasbourg on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Communale Saint-Ouen | Paris |
 | Fri, 25 Sept 2026 | Karmen Camina | Strasbourg |
 | Fri, 23 Oct 2026 | De Sering | Amsterdam |
 

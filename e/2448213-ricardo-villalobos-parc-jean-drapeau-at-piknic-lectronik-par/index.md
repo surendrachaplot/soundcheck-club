@@ -1,6 +1,6 @@
 # Ricardo Villalobos - Parc Jean-Drapeau at Piknic Électronik / Parc Jean Drapeau
 
-Ricardo Villalobos - Parc Jean-Drapeau at Piknic Électronik / Parc Jean Drapeau on Sat 26 Sept, Montreal. 2 acts on the bill: Maher Daniel and Ricardo Villalobos. Preview the line-up and save it on soundcheck.
+Ricardo Villalobos - Parc Jean-Drapeau at Piknic Électronik / Parc Jean Drapeau on Sat 26 Sept, Montreal. 2 artists on the bill: Maher Daniel and Ricardo Villalobos. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

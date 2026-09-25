@@ -1,6 +1,6 @@
 # ★ S.A.S.H Sydney ★ Membership Launch Party ★ Saturday 26th September ★ at Carousel Bar & Ballroom
 
-★ S.A.S.H Sydney ★ Membership Launch Party ★ Saturday 26th September ★ at Carousel Bar & Ballroom on Sat 26 Sept, Sydney. 3 acts on the bill: Kerry Wallace, Le Brond and Marley Sherman. House and Tech House. Preview the line-up and save it on soundcheck.
+★ S.A.S.H Sydney ★ Membership Launch Party ★ Saturday 26th September ★ at Carousel Bar & Ballroom on Sat 26 Sept, Sydney. 3 artists on the bill: Kerry Wallace, Le Brond and Marley Sherman. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

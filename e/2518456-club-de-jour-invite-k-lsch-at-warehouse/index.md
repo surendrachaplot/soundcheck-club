@@ -1,6 +1,6 @@
 # Club de Jour invite KÖLSCH at Warehouse
 
-Club de Jour invite KÖLSCH at Warehouse on Sat 17 Oct, Nantes. 1 act on the bill: Kolsch. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Club de Jour invite KÖLSCH at Warehouse on Sat 17 Oct, Nantes. 1 artist on the bill: Kolsch. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

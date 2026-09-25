@@ -1,6 +1,6 @@
 # Macadam x ONSHORE • Katia Curie ~ So-Fi ~ L.I at Macadam
 
-Macadam x ONSHORE • Katia Curie ~ So-Fi ~ L.I on Sat 24 Oct, Nantes. 3 acts on the bill: Katia Curie, L.I (1) and So-Fi. Trance and Techno. Preview the line-up and save it on soundcheck.
+Macadam x ONSHORE • Katia Curie ~ So-Fi ~ L.I on Sat 24 Oct, Nantes. 3 artists on the bill: Katia Curie, L.I and So-Fi. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Timm Rautert / Stefan Goldmann at Museum Folkwang
 
-Timm Rautert / Stefan Goldmann at Museum Folkwang on Sun 4 Oct, Dortmund-essen. 1 act on the bill: Stefan Goldmann. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Timm Rautert / Stefan Goldmann at Museum Folkwang on Sun 4 Oct, Dortmund Essen. 1 artist on the bill: Stefan Goldmann. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

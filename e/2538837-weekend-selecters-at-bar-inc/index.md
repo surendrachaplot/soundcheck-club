@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Sat 24 Oct, Osaka. 2 acts on the bill: Gonno and Ground (1). Techno and House. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Sat 24 Oct, Osaka. 2 artists on the bill: Gonno and Ground. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

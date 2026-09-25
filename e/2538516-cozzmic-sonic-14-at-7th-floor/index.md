@@ -1,6 +1,6 @@
 # COZZMIC SONIC 14 at 7th Floor
 
-COZZMIC SONIC 14 at 7th Floor on Sat 7 Nov, Tokyo. 3 acts on the bill: Do Shock Booze, Jun Jikooha and Tomocomo. Trance and Techno. Preview the line-up and save it on soundcheck.
+COZZMIC SONIC 14 at 7th Floor on Sat 7 Nov, Tokyo. 3 artists on the bill: Do Shock Booze, Jun Jikooha and Tomocomo. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Seismic Dance Event 9.0 at The Concourse Project
 
-Seismic Dance Event 9.0 at The Concourse Project on Fri 13 Nov, Austin. 39 acts on the bill: 1tbsp, Above & Beyond, Adam Sellouk and Benwal and 35 more. Techno and House. Preview the line-up and save it on soundcheck.
+Seismic Dance Event 9.0 at The Concourse Project on Fri 13 Nov, Austin. 39 artists on the bill: 1tbsp, Above & Beyond, Adam Sellouk and Benwal and 35 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

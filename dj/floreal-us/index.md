@@ -1,8 +1,8 @@
 # Flo Real
 
-Flo Real is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ministry Of Sound, London on Sat, 3 Oct 2026.
+Flo Real is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ministry Of Sound, London on Sat, 3 Oct 2026.
 
-Flo Real is a house and disco artist based in Austria, tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 7 more. Often billed alongside Moodymann, JP Bechamel and Rumi de Baires. Next up: Ministry Of Sound, London on Sat 3 Oct.
+Flo Real is a house and disco artist based in Austria, tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 8 more. Often billed alongside Moodymann, JP Bechamel and Rumi de Baires. Next up: Ministry Of Sound, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Flo Real is a house and disco artist based in Austria, tracked on soundcheck, wi
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Ministry Of Sound | London |
 | Sat, 24 Oct 2026 | Phono Lake | Amsterdam |
+| Fri, 20 Nov 2026 | Verbier | Switzerland |
 
 ## Recently played
 

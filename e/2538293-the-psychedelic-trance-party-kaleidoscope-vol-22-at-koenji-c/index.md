@@ -1,6 +1,6 @@
 # 'The Psychedelic Trance Party' Kaleidoscope Vol.22 at Koenji Cave
 
-'The Psychedelic Trance Party' Kaleidoscope Vol.22 at Koenji Cave on Sat 10 Oct, Tokyo. 1 act on the bill: AMON (1). Techno and Psytrance. Preview the line-up and save it on soundcheck.
+'The Psychedelic Trance Party' Kaleidoscope Vol.22 at Koenji Cave on Sat 10 Oct, Tokyo. 1 artist on the bill: AMON. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nora En Pure - Parc Jean-Drapeau at Piknic Électronik / Parc Jean Drapeau
 
-Nora En Pure - Parc Jean-Drapeau at Piknic Électronik / Parc Jean Drapeau on Sat 10 Oct, Montreal. 2 acts on the bill: Fahlberg and Nora En Pure. Electro. Preview the line-up and save it on soundcheck.
+Nora En Pure - Parc Jean-Drapeau at Piknic Électronik / Parc Jean Drapeau on Sat 10 Oct, Montreal. 2 artists on the bill: Fahlberg and Nora En Pure. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

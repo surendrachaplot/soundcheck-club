@@ -1,6 +1,6 @@
 # SHUGZ: The Final Dance [Club 69 CLOSING WEEKEND] at Club 69
 
-SHUGZ: The Final Dance [Club 69 CLOSING WEEKEND] on Sat 10 Oct, Glasgow. 3 acts on the bill: Daz Scott, Elliott Skeoch and Good Times With Friends. Techno and House. Preview the line-up and save it on soundcheck.
+SHUGZ: The Final Dance [Club 69 CLOSING WEEKEND] on Sat 10 Oct, Glasgow. 3 artists on the bill: Daz Scott, Elliott Skeoch and Good Times With Friends. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

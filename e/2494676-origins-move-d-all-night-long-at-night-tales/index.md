@@ -1,6 +1,6 @@
 # Origins: Move D [All Night Long] at Night Tales
 
-Origins: Move D [All Night Long] at Night Tales on Sat 26 Sept, London. 1 act on the bill: Move D. House. Preview the line-up and save it on soundcheck.
+Origins: Move D [All Night Long] at Night Tales on Sat 26 Sept, London. 1 artist on the bill: Move D. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # feedbk - soft opening season wth Moaad BKR & Avo at feedbk
 
-feedbk - soft opening season wth Moaad BKR & Avo on Fri 25 Sept, Newyorkcity. 2 acts on the bill: Avo (ES) and Moaad BKR. Techno and House. Preview the line-up and save it on soundcheck.
+feedbk - soft opening season wth Moaad BKR & Avo on Fri 25 Sept, New York City. 2 artists on the bill: Avo (ES) and Moaad BKR. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

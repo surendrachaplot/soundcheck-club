@@ -1,6 +1,6 @@
 # ELECTROPICO: World Sounds at Throw Social DC
 
-ELECTROPICO: World Sounds at Throw Social DC on Sun 1 Nov, Washingtondc. Electro and Latin Bass. Preview the line-up and save it on soundcheck.
+ELECTROPICO: World Sounds at Throw Social DC on Sun 1 Nov, Washington DC. Electro and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Crobar Club Pres.: La Cintia, Matías Sundblad & Lobo Miro at Crobar - Buenos Aires
 
-Crobar Club Pres.: La Cintia, Matías Sundblad & Lobo Miro at Crobar - Buenos Aires on Sat 26 Sept, Buenosaires. Preview the line-up and save it on soundcheck.
+Crobar Club Pres.: La Cintia, Matías Sundblad & Lobo Miro at Crobar - Buenos Aires on Sat 26 Sept, Buenos Aires. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

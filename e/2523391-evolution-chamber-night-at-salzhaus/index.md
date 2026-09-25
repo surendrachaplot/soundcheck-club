@@ -1,6 +1,6 @@
 # Evolution Chamber Night at Salzhaus
 
-Evolution Chamber Night at Salzhaus on Sat 3 Oct, Zurich. 2 acts on the bill: Skrimor and Task Horizon. Drum & Bass. Preview the line-up and save it on soundcheck.
+Evolution Chamber Night at Salzhaus on Sat 3 Oct, Zurich. 2 artists on the bill: Skrimor and Task Horizon. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

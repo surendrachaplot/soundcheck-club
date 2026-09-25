@@ -1,6 +1,6 @@
 # UNLEASH: Philou, EMJIE & FRIENDS at Silencio
 
-UNLEASH: Philou, EMJIE & FRIENDS at Silencio on Sat 26 Sept, Paris. 2 acts on the bill: EMJIE and Philou. Preview the line-up and save it on soundcheck.
+UNLEASH: Philou, EMJIE & FRIENDS at Silencio on Sat 26 Sept, Paris. 2 artists on the bill: EMJIE and Philou. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

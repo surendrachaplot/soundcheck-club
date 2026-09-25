@@ -1,6 +1,6 @@
 # ASTROFOBIA at World Kyoto
 
-ASTROFOBIA at World Kyoto on Sun 11 Oct, Kyoto. 2 acts on the bill: ryota dj and Yess. House and Bass. Preview the line-up and save it on soundcheck.
+ASTROFOBIA at World Kyoto on Sun 11 Oct, Kyoto. 2 artists on the bill: ryota dj and Yess. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

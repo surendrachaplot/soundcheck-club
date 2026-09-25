@@ -1,6 +1,6 @@
 # KUSS, Miss Puppy, Mëtro at Hangaren
 
-KUSS, Miss Puppy, Mëtro at Hangaren on Fri 23 Oct, Copenhagen. 3 acts on the bill: KUSS, Mëtro and Miss Puppy. Trance and Techno. Preview the line-up and save it on soundcheck.
+KUSS, Miss Puppy, Mëtro at Hangaren on Fri 23 Oct, Copenhagen. 3 artists on the bill: KUSS, Mëtro and Miss Puppy. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

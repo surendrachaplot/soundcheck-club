@@ -1,6 +1,6 @@
 # Gentle Reminder at Paloma
 
-Gentle Reminder at Paloma on Sun 27 Sept, Berlin. 3 acts on the bill: AAguilAA, Bézier and Bouffant Bouffant. House. Preview the line-up and save it on soundcheck.
+Gentle Reminder at Paloma on Sun 27 Sept, Berlin. 3 artists on the bill: AAguilAA, Bézier and Bouffant Bouffant. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

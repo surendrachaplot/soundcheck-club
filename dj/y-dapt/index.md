@@ -2,7 +2,7 @@
 
 Y-DAPT is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ragoo, Milan on Thu, 15 Oct 2026.
 
-Y-DAPT is a house and tech house artist based in Italy, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Losangeles and Milan. Often billed alongside MAGNVM!, Gumbelly and STYLOPHONIC. Next up: Ragoo, Milan on Thu 15 Oct.
+Y-DAPT is a house and tech house artist based in Italy, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Los Angeles and Milan. Often billed alongside MAGNVM!, Gumbelly and STYLOPHONIC. Next up: Ragoo, Milan on Thu 15 Oct.
 
 ## Upcoming shows
 

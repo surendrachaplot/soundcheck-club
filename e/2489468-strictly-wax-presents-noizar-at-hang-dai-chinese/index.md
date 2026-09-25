@@ -1,6 +1,6 @@
 # Strictly Wax presents: Noizar at Hang Dai Chinese
 
-Strictly Wax presents: Noizar at Hang Dai Chinese on Fri 25 Sept, Dublin. 1 act on the bill: Noizar. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Strictly Wax presents: Noizar at Hang Dai Chinese on Fri 25 Sept, Dublin. 1 artist on the bill: Noizar. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

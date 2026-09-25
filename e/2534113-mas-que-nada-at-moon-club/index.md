@@ -1,6 +1,6 @@
 # Mas Que Nada at Moon Club
 
-Mas Que Nada at Moon Club on Fri 16 Oct, Bristol. 4 acts on the bill: BETH, Hywel Gregory, Mas Que Nada Brothers and Tibasko. House. Preview the line-up and save it on soundcheck.
+Mas Que Nada at Moon Club on Fri 16 Oct, Bristol. 4 artists on the bill: BETH, Hywel Gregory, Mas Que Nada Brothers and Tibasko. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

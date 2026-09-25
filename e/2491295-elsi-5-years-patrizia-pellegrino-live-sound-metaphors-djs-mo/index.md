@@ -1,6 +1,6 @@
 # ELSI 5 YEARS ッ Patrizia Pellegrino (Live) + Sound Metaphors Djs & More at OXI
 
-ELSI 5 YEARS ッ Patrizia Pellegrino (Live) + Sound Metaphors Djs & More at OXI on Fri 9 Oct, Berlin. 10 acts on the bill: Franz Scala, Gropina, ilbroccolovolante and Leona Jacewska and 6 more. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+ELSI 5 YEARS ッ Patrizia Pellegrino (Live) + Sound Metaphors Djs & More at OXI on Fri 9 Oct, Berlin. 10 artists on the bill: Franz Scala, Gropina, ilbroccolovolante and Leona Jacewska and 6 more. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

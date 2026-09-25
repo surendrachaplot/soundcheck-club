@@ -1,6 +1,6 @@
 # ANTS Amsterdam at Hemkade 48
 
-ANTS Amsterdam at Hemkade 48 on Sat 12 Dec, Amsterdam. 6 acts on the bill: East End Dubs, Ilario Alicante, Kellie Allen and Prunk and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+ANTS Amsterdam at Hemkade 48 on Sat 12 Dec, Amsterdam. 6 artists on the bill: East End Dubs, Ilario Alicante, Kellie Allen and Prunk and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

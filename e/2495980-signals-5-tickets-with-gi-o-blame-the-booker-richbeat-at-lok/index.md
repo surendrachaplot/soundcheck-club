@@ -1,6 +1,6 @@
 # SIGNALS - 5€ Tickets - with GI.O, Blame the Booker, RichBeat at Lokschuppen Berlin
 
-SIGNALS - 5€ Tickets - with GI.O, Blame the Booker, RichBeat at Lokschuppen Berlin on Wed 14 Oct, Berlin. 3 acts on the bill: Blame the Booker, GI.O and RichBeat. Trance and Techno. Preview the line-up and save it on soundcheck.
+SIGNALS - 5€ Tickets - with GI.O, Blame the Booker, RichBeat at Lokschuppen Berlin on Wed 14 Oct, Berlin. 3 artists on the bill: Blame the Booker, GI.O and RichBeat. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

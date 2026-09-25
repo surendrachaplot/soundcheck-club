@@ -1,6 +1,6 @@
 # Field Notes Family Affair at San Francisco
 
-Field Notes Family Affair at San Francisco on Sat 24 Oct, Amsterdam. 13 acts on the bill: Budino, Camilo Miranda, Eternal Love and Field Notes DJs and 9 more. Disco and Acid. Preview the line-up and save it on soundcheck.
+Field Notes Family Affair at San Francisco on Sat 24 Oct, Amsterdam. 13 artists on the bill: Budino, Camilo Miranda, Eternal Love and Field Notes DJs and 9 more. Disco and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

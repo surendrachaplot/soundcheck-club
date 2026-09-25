@@ -1,6 +1,6 @@
 # HEADROOM: James Curd (Chicago) + AROHA at Collingwood Basement
 
-HEADROOM: James Curd (Chicago) + AROHA at Collingwood Basement on Sat 10 Oct, Melbourne. 2 acts on the bill: AROHA and James Curd. House and Club. Preview the line-up and save it on soundcheck.
+HEADROOM: James Curd (Chicago) + AROHA at Collingwood Basement on Sat 10 Oct, Melbourne. 2 artists on the bill: AROHA and James Curd. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Claudius // DANIQ // TECHNIKER ALLSTARS at Fundbureau
 
-Claudius // DANIQ // TECHNIKER ALLSTARS at Fundbureau on Sat 26 Sept, Hamburg. 1 act on the bill: Claudius. Trance and Techno. Preview the line-up and save it on soundcheck.
+Claudius // DANIQ // TECHNIKER ALLSTARS at Fundbureau on Sat 26 Sept, Hamburg. 1 artist on the bill: Claudius. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

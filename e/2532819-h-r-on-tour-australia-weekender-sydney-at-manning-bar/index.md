@@ -1,6 +1,6 @@
 # HÖR ON TOUR: Australia Weekender - Sydney at Manning Bar
 
-HÖR ON TOUR: Australia Weekender - Sydney at Manning Bar on Sat 10 Oct, Sydney. 3 acts on the bill: bacteria grl, IKKIMEL and Mija. Preview the line-up and save it on soundcheck.
+HÖR ON TOUR: Australia Weekender - Sydney at Manning Bar on Sat 10 Oct, Sydney. 3 artists on the bill: bacteria grl, IKKIMEL and Mija. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

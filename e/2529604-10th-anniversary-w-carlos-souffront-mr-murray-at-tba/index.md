@@ -1,6 +1,6 @@
 # 𝐯𝐲𝐨͞𝐨 10th Anniversary W/ Carlos Souffront + Mr. Murray at TBA
 
-𝐯𝐲𝐨͞𝐨 10th Anniversary W/ Carlos Souffront + Mr. Murray at TBA on Sat 3 Oct, Boston. 2 acts on the bill: Carlos Souffront and Mr. Murray. Techno and Acid. Preview the line-up and save it on soundcheck.
+𝐯𝐲𝐨͞𝐨 10th Anniversary W/ Carlos Souffront + Mr. Murray at TBA on Sat 3 Oct, Boston. 2 artists on the bill: Carlos Souffront and Mr. Murray. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

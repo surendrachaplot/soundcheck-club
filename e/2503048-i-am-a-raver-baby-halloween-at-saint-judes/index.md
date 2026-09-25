@@ -1,6 +1,6 @@
 # I Am A Raver Baby: Halloween at Saint Judes
 
-I Am A Raver Baby: Halloween at Saint Judes on Sat 31 Oct, Glasgow. 1 act on the bill: DJ Zitkus. Trance. Preview the line-up and save it on soundcheck.
+I Am A Raver Baby: Halloween at Saint Judes on Sat 31 Oct, Glasgow. 1 artist on the bill: DJ Zitkus. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

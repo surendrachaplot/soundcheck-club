@@ -1,6 +1,6 @@
 # Bite The Day with Idjut Boys at Filly Brook
 
-Bite The Day with Idjut Boys at Filly Brook on Sun 1 Nov, London. 1 act on the bill: Idjut Boys. Pop and Noise. Preview the line-up and save it on soundcheck.
+Bite The Day with Idjut Boys at Filly Brook on Sun 1 Nov, London. 1 artist on the bill: Idjut Boys. Pop and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

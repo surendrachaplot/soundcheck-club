@@ -1,6 +1,6 @@
 # Bjørn Torske + SONOKI (JP) at The Villa
 
-Bjørn Torske + SONOKI (JP) at The Villa on Sat 26 Sept, Oslo. 2 acts on the bill: Bjørn Torske and SONOKI. House and Balearic. Preview the line-up and save it on soundcheck.
+Bjørn Torske + SONOKI (JP) at The Villa on Sat 26 Sept, Oslo. 2 artists on the bill: Bjørn Torske and SONOKI. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

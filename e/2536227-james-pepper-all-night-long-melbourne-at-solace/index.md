@@ -1,6 +1,6 @@
 # James Pepper — All Night Long (Melbourne) at Solace
 
-James Pepper — All Night Long (Melbourne) at Solace on Fri 16 Oct, Melbourne. 1 act on the bill: James Pepper. Preview the line-up and save it on soundcheck.
+James Pepper — All Night Long (Melbourne) at Solace on Fri 16 Oct, Melbourne. 1 artist on the bill: James Pepper. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # glimmer Club Opening Day 2 at TBA - glimmer, Stockmeyerstraße 43, 20457 Hamburg
 
-glimmer Club Opening Day 2 at TBA - glimmer, Stockmeyerstraße 43, 20457 Hamburg on Sat 3 Oct, Hamburg. 9 acts on the bill: Ani con Gas (2), ANNĒ, BNZN and DJ SPORTSCHUH and 5 more. Preview the line-up and save it on soundcheck.
+glimmer Club Opening Day 2 at TBA - glimmer, Stockmeyerstraße 43, 20457 Hamburg on Sat 3 Oct, Hamburg. 9 artists on the bill: Ani con Gas, ANNĒ, BNZN and DJ SPORTSCHUH and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

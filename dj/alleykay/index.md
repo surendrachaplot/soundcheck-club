@@ -2,7 +2,7 @@
 
 Alley Kay is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sainte-Catherine Hall, Montreal on Fri, 23 Oct 2026.
 
-Alley Kay is a techno and house artist based in Canada, tracked on soundcheck, with 68 sets logged across Detroit, Montreal, Sanfrancisco and Toronto and 1 more. Often billed alongside Darkova, Addy and Greg Gow. Next up: Sainte-Catherine Hall, Montreal on Fri 23 Oct.
+Alley Kay is a techno and house artist based in Canada, tracked on soundcheck, with 68 sets logged across Detroit, Montreal, San Francisco/Oakland and Toronto and 1 more. Often billed alongside Darkova, Addy and Greg Gow. Next up: Sainte-Catherine Hall, Montreal on Fri 23 Oct.
 
 ## Upcoming shows
 

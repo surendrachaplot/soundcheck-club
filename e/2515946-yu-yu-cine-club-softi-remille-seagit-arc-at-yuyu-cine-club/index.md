@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: Softi, Remille, Seagit Arc at YuYu Cine Club
 
-Yu Yu Cine Club: Softi, Remille, Seagit Arc at YuYu Cine Club on Fri 25 Sept, Mexicocity. 3 acts on the bill: Remille, Seagit Arc and Softi. Preview the line-up and save it on soundcheck.
+Yu Yu Cine Club: Softi, Remille, Seagit Arc at YuYu Cine Club on Fri 25 Sept, Mexico City. 3 artists on the bill: Remille, Seagit Arc and Softi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

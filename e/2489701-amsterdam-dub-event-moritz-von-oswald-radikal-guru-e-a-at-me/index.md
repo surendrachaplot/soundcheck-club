@@ -1,6 +1,6 @@
 # Amsterdam Dub Event: Moritz von Oswald / Radikal Guru e.a at Melkweg
 
-Amsterdam Dub Event: Moritz von Oswald / Radikal Guru e.a at Melkweg on Sun 25 Oct, Amsterdam. 3 acts on the bill: Basic Channel, Moritz von Oswald and Rhythm & Sound. Dub. Preview the line-up and save it on soundcheck.
+Amsterdam Dub Event: Moritz von Oswald / Radikal Guru e.a at Melkweg on Sun 25 Oct, Amsterdam. 3 artists on the bill: Basic Channel, Moritz von Oswald and Rhythm & Sound. Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

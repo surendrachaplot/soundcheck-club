@@ -2,7 +2,7 @@
 
 Zagc is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri, 25 Sept 2026.
 
-Zagc is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Berlin, Chicago, Detroit and Newyorkcity and 2 more. Often billed alongside 11111111111, Miguel Cisne and Hameedullah. Next up: TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri 25 Sept.
+Zagc is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Berlin, Chicago, Detroit and New York City and 2 more. Often billed alongside 11111111111, Miguel Cisne and Hameedullah. Next up: TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -9,7 +9,7 @@ Wodda is a house and garage artist based in United Kingdom, tracked on soundchec
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Moon Club | Bristol |
-| Fri, 25 Sept 2026 | Brick Street | Liverpool |
+| Fri, 25 Sept 2026 | 24 Kitchen Street | Liverpool |
 | Fri, 2 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 9 Oct 2026 | Stealth | Nottingham |
 

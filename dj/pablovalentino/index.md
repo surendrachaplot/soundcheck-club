@@ -2,7 +2,7 @@
 
 Pablo Valentino is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Super7, Lyon on Thu, 24 Sept 2026.
 
-Pablo Valentino is a house and disco artist tracked on soundcheck, with 27 sets logged across Antwerp, Berlin, Geneva and Lisbon and 6 more. Often billed alongside P errine, IMA:R and Farah (2). Next up: Super7, Lyon on Thu 24 Sept.
+Pablo Valentino is a house and disco artist tracked on soundcheck, with 27 sets logged across Antwerp, Berlin, Geneva and Lisbon and 6 more. Often billed alongside P errine, IMA:R and Farah. Next up: Super7, Lyon on Thu 24 Sept.
 
 ## Upcoming shows
 

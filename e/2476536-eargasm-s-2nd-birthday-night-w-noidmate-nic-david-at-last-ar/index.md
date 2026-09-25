@@ -1,6 +1,6 @@
 # Eargasm's 2nd Birthday (Night w/ NoIDMate & Nic David) at Last Arch
 
-Eargasm's 2nd Birthday (Night w/ NoIDMate & Nic David) at Last Arch on Sat 26 Sept, London. 1 act on the bill: Nic David. House and Tech House. Preview the line-up and save it on soundcheck.
+Eargasm's 2nd Birthday (Night w/ NoIDMate & Nic David) at Last Arch on Sat 26 Sept, London. 1 artist on the bill: Nic David. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

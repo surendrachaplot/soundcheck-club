@@ -1,6 +1,6 @@
 # Mostly Cloudy: Regal86 + 1OO1O at Monarch
 
-Mostly Cloudy: Regal86 + 1OO1O at Monarch on Sat 14 Nov, Sanfrancisco. 8 acts on the bill: 1OO1O, BAD JUUJU, Julia Rose and NATHALIA (2) and 4 more. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+Mostly Cloudy: Regal86 + 1OO1O at Monarch on Sat 14 Nov, San Francisco/Oakland. 8 artists on the bill: 1OO1O, BAD JUUJU, Julia Rose and NATHALIA and 4 more. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

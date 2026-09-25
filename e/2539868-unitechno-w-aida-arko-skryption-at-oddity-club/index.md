@@ -1,6 +1,6 @@
 # UNITECHNO W/ Aida Arko & Skryption at Oddity Club
 
-UNITECHNO W/ Aida Arko & Skryption at Oddity Club on Fri 13 Nov, Athens. 4 acts on the bill: Aida Arko, siasios, Skryption and Tanison. Techno and Acid. Preview the line-up and save it on soundcheck.
+UNITECHNO W/ Aida Arko & Skryption at Oddity Club on Fri 13 Nov, Athens. 4 artists on the bill: Aida Arko, siasios, Skryption and Tanison. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

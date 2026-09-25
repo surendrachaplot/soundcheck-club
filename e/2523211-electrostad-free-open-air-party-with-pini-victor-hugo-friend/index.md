@@ -1,6 +1,6 @@
 # Electrostad: FREE OPEN AIR PARTY with PINI, Victor Hugo & friends at BUS Hexperience
 
-Electrostad: FREE OPEN AIR PARTY with PINI, Victor Hugo & friends at BUS Hexperience on Sun 27 Sept, Barcelona. 2 acts on the bill: PINI and Victor Hugo. Disco and Electronica. Preview the line-up and save it on soundcheck.
+Electrostad: FREE OPEN AIR PARTY with PINI, Victor Hugo & friends at BUS Hexperience on Sun 27 Sept, Barcelona. 2 artists on the bill: PINI and Victor Hugo. Disco and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

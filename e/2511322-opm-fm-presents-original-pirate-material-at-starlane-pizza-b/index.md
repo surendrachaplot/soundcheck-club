@@ -1,6 +1,6 @@
 # OPM.FM presents Original Pirate Material at Starlane Pizza Bar
 
-OPM.FM presents Original Pirate Material at Starlane Pizza Bar on Sat 10 Oct, London. 2 acts on the bill: Jeremy Sylvester and KAZIA. House and Garage. Preview the line-up and save it on soundcheck.
+OPM.FM presents Original Pirate Material at Starlane Pizza Bar on Sat 10 Oct, London. 2 artists on the bill: Jeremy Sylvester and KAZIA. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

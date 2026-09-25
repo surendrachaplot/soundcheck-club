@@ -1,6 +1,6 @@
 # RO at RO Seoul
 
-RO at RO Seoul on Fri 25 Sept, Seoul. 2 acts on the bill: bojvck and DJ Co.kr. Preview the line-up and save it on soundcheck.
+RO at RO Seoul on Fri 25 Sept, Seoul. 2 artists on the bill: bojvck and DJ Co.kr. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

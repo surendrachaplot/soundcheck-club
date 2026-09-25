@@ -1,6 +1,6 @@
 # Omar at The Church Nightclub
 
-Omar at The Church Nightclub on Sat 7 Nov, Denver. 1 act on the bill: Omar+. House. Preview the line-up and save it on soundcheck.
+Omar at The Church Nightclub on Sat 7 Nov, Denver. 1 artist on the bill: Omar+. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

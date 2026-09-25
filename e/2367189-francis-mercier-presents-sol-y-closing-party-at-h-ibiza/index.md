@@ -1,6 +1,6 @@
 # Francis Mercier presents Solèy - CLOSING PARTY at Hï Ibiza
 
-Francis Mercier presents Solèy - CLOSING PARTY at Hï Ibiza on Mon 5 Oct, Ibiza. 6 acts on the bill: Andrea Oliva, Apache, Francis Mercier and Satori and 2 more. Afro House. Preview the line-up and save it on soundcheck.
+Francis Mercier presents Solèy - CLOSING PARTY at Hï Ibiza on Mon 5 Oct, Ibiza. 6 artists on the bill: Andrea Oliva, Apache, Francis Mercier and Satori and 2 more. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

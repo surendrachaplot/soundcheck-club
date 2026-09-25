@@ -1,6 +1,6 @@
 # PSYCHO Kiss at KitKatClub
 
-PSYCHO Kiss at KitKatClub on Fri 9 Oct, Berlin. 2 acts on the bill: Ari Denaro and Daora. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+PSYCHO Kiss at KitKatClub on Fri 9 Oct, Berlin. 2 artists on the bill: Ari Denaro and Daora. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Two Shell at Belgrave Music Hall
 
-Two Shell at Belgrave Music Hall on Fri 13 Nov, Leeds. 1 act on the bill: Two Shell. Electronica. Preview the line-up and save it on soundcheck.
+Two Shell at Belgrave Music Hall on Fri 13 Nov, Leeds. 1 artist on the bill: Two Shell. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

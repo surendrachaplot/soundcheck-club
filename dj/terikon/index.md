@@ -2,7 +2,7 @@
 
 Terikon is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
-Terikon is a bass and club artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Paris and Saopaulo. Often billed alongside Sergey Chernyshov, Ann Mysochka and Habitat Shaking. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
+Terikon is a bass and club artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Paris and Sao Paulo. Often billed alongside Sergey Chernyshov, Ann Mysochka and Habitat Shaking. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 

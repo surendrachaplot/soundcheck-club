@@ -1,6 +1,6 @@
 # LEYA / Berlin Concert at Acud Macht NEU
 
-LEYA / Berlin Concert at Acud Macht NEU on Sat 3 Oct, Berlin. 1 act on the bill: LEYA. Experimental and Pop. Preview the line-up and save it on soundcheck.
+LEYA / Berlin Concert at Acud Macht NEU on Sat 3 Oct, Berlin. 1 artist on the bill: LEYA. Experimental and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

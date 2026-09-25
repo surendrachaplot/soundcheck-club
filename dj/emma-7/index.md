@@ -2,7 +2,7 @@
 
 Emma (7) is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
 
-Emma (7) is a house and idm artist based in United States of America, tracked on soundcheck, with 11 sets logged across Miami. Often billed alongside Frny, True Vine and Bort. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
+Emma is a house and idm artist based in United States of America, tracked on soundcheck, with 11 sets logged across Miami. Often billed alongside Frny, True Vine and Bort. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 

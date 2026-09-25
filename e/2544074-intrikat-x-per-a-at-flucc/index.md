@@ -1,6 +1,6 @@
 # INTRIKAT x perмa at FLUCC
 
-INTRIKAT x perмa at FLUCC on Sat 24 Oct, Vienna. 2 acts on the bill: GEN-Z and Kid Kodama. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+INTRIKAT x perмa at FLUCC on Sat 24 Oct, Vienna. 2 artists on the bill: GEN-Z and Kid Kodama. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

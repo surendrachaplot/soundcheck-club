@@ -2,7 +2,7 @@
 
 Patrick Loda is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 4 Oct 2026.
 
-Patrick Loda is a house and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Losangeles. Often billed alongside Marco Roberto, MoodHay and Andrelo. Next up: TBA, Losangeles on Sun 4 Oct.
+Patrick Loda is a house and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Los Angeles. Often billed alongside Marco Roberto, MoodHay and Andrelo. Next up: TBA, Los Angeles on Sun 4 Oct.
 
 ## Upcoming shows
 

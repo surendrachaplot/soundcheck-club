@@ -1,6 +1,6 @@
 # Out & Abt SF: Halloween Dance Party/200 Channels at Monarch
 
-Out & Abt SF: Halloween Dance Party/200 Channels at Monarch on Sat 24 Oct, Sanfrancisco. 4 acts on the bill: arktoi, Cowboy Blvck, My My and Olivia Lauren. Club. Preview the line-up and save it on soundcheck.
+Out & Abt SF: Halloween Dance Party/200 Channels at Monarch on Sat 24 Oct, San Francisco/Oakland. 4 artists on the bill: arktoi, Cowboy Blvck, My My and Olivia Lauren. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

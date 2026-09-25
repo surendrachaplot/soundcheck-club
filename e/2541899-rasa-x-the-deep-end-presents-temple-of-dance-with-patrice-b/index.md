@@ -1,6 +1,6 @@
 # RASA x The Deep End presents Temple of Dance with Patrice Bäumel at RASA
 
-RASA x The Deep End presents Temple of Dance with Patrice Bäumel on Fri 30 Oct, Singapore. 1 act on the bill: Patrice Bäumel. Techno and Electronica. Preview the line-up and save it on soundcheck.
+RASA x The Deep End presents Temple of Dance with Patrice Bäumel on Fri 30 Oct, Singapore. 1 artist on the bill: Patrice Bäumel. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

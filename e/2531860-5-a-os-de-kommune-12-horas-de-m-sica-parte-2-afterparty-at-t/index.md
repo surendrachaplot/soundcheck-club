@@ -1,6 +1,6 @@
 # 5 años de Kommune,12 horas de música. Parte 2: afterparty at TBA - Localización secreta
 
-5 años de Kommune,12 horas de música. Parte 2: afterparty at TBA - Localización secreta on Sat 26 Sept, Madrid. 2 acts on the bill: Jawad_o and WO KEM. House. Preview the line-up and save it on soundcheck.
+5 años de Kommune,12 horas de música. Parte 2: afterparty at TBA - Localización secreta on Sat 26 Sept, Madrid. 2 artists on the bill: Jawad_o and WO KEM. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

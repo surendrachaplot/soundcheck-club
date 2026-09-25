@@ -1,6 +1,6 @@
 # Mick Harris presents Culvert Dubs, Vanja Rakic b2b Olgica, Brent Jacko Bar40 hosted by SUBURBIA at Garage Noord
 
-Mick Harris presents Culvert Dubs, Vanja Rakic b2b Olgica, Brent Jacko Bar40 hosted by SUBURBIA at Garage Noord on Sat 17 Oct, Amsterdam. 8 acts on the bill: Ben Vince, Brent Jacko, Marijn S and Mick Harris and 4 more. Preview the line-up and save it on soundcheck.
+Mick Harris presents Culvert Dubs, Vanja Rakic b2b Olgica, Brent Jacko Bar40 hosted by SUBURBIA at Garage Noord on Sat 17 Oct, Amsterdam. 8 artists on the bill: Ben Vince, Brent Jacko, Marijn S and Mick Harris and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

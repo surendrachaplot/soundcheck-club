@@ -1,6 +1,6 @@
 # Ross From Friends & Friends: 4 Fridays at Phonox (13th Nov) at Phonox
 
-Ross From Friends & Friends: 4 Fridays at Phonox (13th Nov) on Fri 13 Nov, London. 1 act on the bill: Ross From Friends. House. Preview the line-up and save it on soundcheck.
+Ross From Friends & Friends: 4 Fridays at Phonox (13th Nov) on Fri 13 Nov, London. 1 artist on the bill: Ross From Friends. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

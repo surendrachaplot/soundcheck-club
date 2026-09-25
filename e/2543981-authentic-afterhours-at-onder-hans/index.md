@@ -1,6 +1,6 @@
 # Authentic Afterhours at Onder Hans
 
-Authentic Afterhours at Onder Hans on Thu 8 Oct, Amsterdam. 2 acts on the bill: Anthity and Pulziv. House and Minimal. Preview the line-up and save it on soundcheck.
+Authentic Afterhours at Onder Hans on Thu 8 Oct, Amsterdam. 2 artists on the bill: Anthity and Pulziv. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

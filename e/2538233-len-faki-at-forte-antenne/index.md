@@ -1,6 +1,6 @@
 # Len Faki at Forte Antenne
 
-Len Faki at Forte Antenne on Fri 2 Oct, Rome. 1 act on the bill: Len Faki. Techno. Preview the line-up and save it on soundcheck.
+Len Faki at Forte Antenne on Fri 2 Oct, Rome. 1 artist on the bill: Len Faki. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

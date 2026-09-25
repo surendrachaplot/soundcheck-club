@@ -1,6 +1,6 @@
 # Club Echo vol.7 at Chika-Ikkai
 
-Club Echo vol.7 at Chika-Ikkai on Sat 3 Oct, Osaka. 3 acts on the bill: EMA (1), Naco (2) and Vís (1). Techno and Dub. Preview the line-up and save it on soundcheck.
+Club Echo vol.7 at Chika-Ikkai on Sat 3 Oct, Osaka. 3 artists on the bill: EMA, Naco and Vís. Techno and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RIOT: The Machine World Tour at The Compound by Dirt Dog
 
-RIOT: The Machine World Tour at The Compound by Dirt Dog on Fri 13 Nov, Losangeles. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+RIOT: The Machine World Tour at The Compound by Dirt Dog on Fri 13 Nov, Los Angeles. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

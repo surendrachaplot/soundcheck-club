@@ -1,6 +1,6 @@
 # mittendrin mit zerka at Minimal Bar
 
-mittendrin mit zerka at Minimal Bar on Wed 4 Nov, Berlin. 1 act on the bill: zerka. Preview the line-up and save it on soundcheck.
+mittendrin mit zerka at Minimal Bar on Wed 4 Nov, Berlin. 1 artist on the bill: zerka. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

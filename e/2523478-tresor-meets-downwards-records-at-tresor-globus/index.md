@@ -1,6 +1,6 @@
 # Tresor meets Downwards Records at Tresor / Globus
 
-Tresor meets Downwards Records at Tresor / Globus on Fri 30 Oct, Berlin. 8 acts on the bill: Blu Aloé, Helm, Irazu and OAKE and 4 more. Preview the line-up and save it on soundcheck.
+Tresor meets Downwards Records at Tresor / Globus on Fri 30 Oct, Berlin. 8 artists on the bill: Blu Aloé, Helm, Irazu and OAKE and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

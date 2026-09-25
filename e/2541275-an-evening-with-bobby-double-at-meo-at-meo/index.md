@@ -1,6 +1,6 @@
 # An evening with Bobby Double at Meo at Meo
 
-An evening with Bobby Double at Meo on Sat 26 Sept, Vancouver. 2 acts on the bill: Bobby Myseh and Body Double. Vaporwave and Ballroom. Preview the line-up and save it on soundcheck.
+An evening with Bobby Double at Meo on Sat 26 Sept, Vancouver. 2 artists on the bill: Bobby Myseh and Body Double. Vaporwave and Ballroom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

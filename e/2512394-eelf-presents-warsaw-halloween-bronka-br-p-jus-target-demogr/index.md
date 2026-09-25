@@ -1,6 +1,6 @@
 # EELF Presents - Warsaw Halloween: Bronka (BR), Pìjus, Target Demographic, Shaolin Cowboy(UK) at OCZKI
 
-EELF Presents - Warsaw Halloween: Bronka (BR), Pìjus, Target Demographic, Shaolin Cowboy(UK) at OCZKI on Sat 31 Oct, Warsaw. 5 acts on the bill: Bronka, Kitty Sarcasm, Pijus and Shaolin Cowboy and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+EELF Presents - Warsaw Halloween: Bronka (BR), Pìjus, Target Demographic, Shaolin Cowboy(UK) at OCZKI on Sat 31 Oct, Warsaw. 5 artists on the bill: Bronka, Kitty Sarcasm, Pijus and Shaolin Cowboy and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sidechain Vol. V: Loz, Taos Hum and Jos.heat at La Cheetah Club
 
-Sidechain Vol. V: Loz, Taos Hum and Jos.heat at La Cheetah Club on Thu 1 Oct, Glasgow. 1 act on the bill: Jos.heat. Techno and House. Preview the line-up and save it on soundcheck.
+Sidechain Vol. V: Loz, Taos Hum and Jos.heat at La Cheetah Club on Thu 1 Oct, Glasgow. 1 artist on the bill: Jos.heat. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

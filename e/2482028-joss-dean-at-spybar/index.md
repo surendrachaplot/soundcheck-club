@@ -1,6 +1,6 @@
 # Joss Dean at Spybar
 
-Joss Dean at Spybar on Fri 30 Oct, Chicago. 1 act on the bill: Joss Dean. House and Minimal. Preview the line-up and save it on soundcheck.
+Joss Dean at Spybar on Fri 30 Oct, Chicago. 1 artist on the bill: Joss Dean. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

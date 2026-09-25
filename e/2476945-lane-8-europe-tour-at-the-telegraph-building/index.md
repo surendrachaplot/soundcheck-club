@@ -1,6 +1,6 @@
 # Lane 8 - EUROPE TOUR at The Telegraph Building
 
-Lane 8 - EUROPE TOUR at The Telegraph Building on Sat 17 Oct, Belfast. 1 act on the bill: Lane 8. Preview the line-up and save it on soundcheck.
+Lane 8 - EUROPE TOUR at The Telegraph Building on Sat 17 Oct, Belfast. 1 artist on the bill: Lane 8. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

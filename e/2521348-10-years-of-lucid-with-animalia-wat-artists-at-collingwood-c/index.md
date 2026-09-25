@@ -1,6 +1,6 @@
 # 10 Years of Lucid with Animalia & WAT Artists at Collingwood Children's Farm
 
-10 Years of Lucid with Animalia & WAT Artists at Collingwood Children's Farm on Sat 28 Nov, Melbourne. 9 acts on the bill: BASHKKA, deep creep, Jennifer Loveless and Kia (AU) and 5 more. Preview the line-up and save it on soundcheck.
+10 Years of Lucid with Animalia & WAT Artists at Collingwood Children's Farm on Sat 28 Nov, Melbourne. 9 artists on the bill: BASHKKA, deep creep, Jennifer Loveless and Kia (AU) and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

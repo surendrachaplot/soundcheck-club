@@ -1,6 +1,6 @@
 # Rhythm2Revolt Weekend 2 at TBA
 
-Rhythm2Revolt Weekend 2 at TBA on Fri 2 Oct, Losangeles. 5 acts on the bill: 5p3c141, BAE BAE, Gay Felony and Spiñorita and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Rhythm2Revolt Weekend 2 at TBA on Fri 2 Oct, Los Angeles. 5 artists on the bill: 5p3c141, BAE BAE, Gay Felony and Spiñorita and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FTS X WEE GEM ZINE: Brown Excellence at La Cheetah Club
 
-FTS X WEE GEM ZINE: Brown Excellence at La Cheetah Club on Thu 15 Oct, Glasgow. 1 act on the bill: Brown Excellence. Techno and Bass. Preview the line-up and save it on soundcheck.
+FTS X WEE GEM ZINE: Brown Excellence at La Cheetah Club on Thu 15 Oct, Glasgow. 1 artist on the bill: Brown Excellence. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

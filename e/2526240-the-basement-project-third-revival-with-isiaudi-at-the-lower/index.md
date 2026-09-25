@@ -1,6 +1,6 @@
 # The Basement Project - Third Revival with ISIAUDI at The Lower Level
 
-The Basement Project - Third Revival with ISIAUDI at The Lower Level on Sat 26 Sept, Boston. 2 acts on the bill: Isi Audi and ViV:On. Progressive House and House. Preview the line-up and save it on soundcheck.
+The Basement Project - Third Revival with ISIAUDI at The Lower Level on Sat 26 Sept, Boston. 2 artists on the bill: Isi Audi and ViV:On. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

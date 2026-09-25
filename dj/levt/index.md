@@ -2,7 +2,7 @@
 
 Levt is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Die Rakete, Nürnberg on Sat, 3 Oct 2026.
 
-Levt is a techno and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 6 more. Often billed alongside I Hate Models, Alignment and Charlie Sparks. Next up: Die Rakete, Nurnberg on Sat 3 Oct.
+Levt is a techno and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Cologne, Düsseldorf and Frankfurt and 6 more. Often billed alongside I Hate Models, Alignment and Charlie Sparks. Next up: Die Rakete, Nürnberg on Sat 3 Oct.
 
 ## Upcoming shows
 

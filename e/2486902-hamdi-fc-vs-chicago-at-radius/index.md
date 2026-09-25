@@ -1,6 +1,6 @@
 # Hamdi FC vs. Chicago at Radius
 
-Hamdi FC vs. Chicago at Radius on Sat 10 Oct, Chicago. 4 acts on the bill: Cesco, Hamdi (UK), Machinedrum and Sam Binga. Dubstep and Grime. Preview the line-up and save it on soundcheck.
+Hamdi FC vs. Chicago at Radius on Sat 10 Oct, Chicago. 4 artists on the bill: Cesco, Hamdi (UK), Machinedrum and Sam Binga. Dubstep and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Saturday Night Yacht Party NYC – Sunset Yacht Party at Skyport Marina
 
-Saturday Night Yacht Party NYC – Sunset Yacht Party at Skyport Marina on Sat 26 Sept, Newyorkcity. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
+Saturday Night Yacht Party NYC – Sunset Yacht Party at Skyport Marina on Sat 26 Sept, New York City. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

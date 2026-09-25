@@ -1,6 +1,6 @@
 # Oxygène // Objekt at DURO
 
-Oxygène // Objekt at DURO on Sat 21 Nov, Milan. 1 act on the bill: Objekt. Techno. Preview the line-up and save it on soundcheck.
+Oxygène // Objekt at DURO on Sat 21 Nov, Milan. 1 artist on the bill: Objekt. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

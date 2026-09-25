@@ -1,6 +1,6 @@
 # HIGHLY SKILLED MIGRANTS at The Grey Space In The Middle
 
-HIGHLY SKILLED MIGRANTS at The Grey Space In The Middle on Fri 25 Sept, Thehague. 1 act on the bill: awhlkuhn. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+HIGHLY SKILLED MIGRANTS at The Grey Space In The Middle on Fri 25 Sept, The Hague. 1 artist on the bill: awhlkuhn. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ◥◣SINGULARITY◥◣ at Tresor / Globus
 
-◥◣SINGULARITY◥◣ at Tresor / Globus on Mon 19 Oct, Berlin. 4 acts on the bill: BLACK ANTHEM RESTORE, Gary Beck, Lilith. and Mute.. Techno. Preview the line-up and save it on soundcheck.
+◥◣SINGULARITY◥◣ at Tresor / Globus on Mon 19 Oct, Berlin. 4 artists on the bill: BLACK ANTHEM RESTORE, Gary Beck, Lilith. and Mute.. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

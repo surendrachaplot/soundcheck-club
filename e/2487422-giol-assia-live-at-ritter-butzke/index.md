@@ -1,6 +1,6 @@
 # Giolì & Assia (live) at Ritter Butzke
 
-Giolì & Assia (live) at Ritter Butzke on Sat 17 Oct, Berlin. 1 act on the bill: Giolì & Assia. Techno. Preview the line-up and save it on soundcheck.
+Giolì & Assia (live) at Ritter Butzke on Sat 17 Oct, Berlin. 1 artist on the bill: Giolì & Assia. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

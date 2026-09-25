@@ -1,6 +1,6 @@
 # Performa at Macarena Club
 
-Performa at Macarena Club on Wed 30 Sept, Barcelona. 2 acts on the bill: Gabriele Saccani and Vaert. Preview the line-up and save it on soundcheck.
+Performa at Macarena Club on Wed 30 Sept, Barcelona. 2 artists on the bill: Gabriele Saccani and Vaert. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KINKY ON Tour Leipzig at Westhafen
 
-KINKY ON Tour Leipzig at Westhafen on Sat 7 Nov, Leipzig. 3 acts on the bill: Emina Helena, Moto Moto and WIEK. Techno and House. Preview the line-up and save it on soundcheck.
+KINKY ON Tour Leipzig at Westhafen on Sat 7 Nov, Leipzig. 3 artists on the bill: Emina Helena, Moto Moto and WIEK. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

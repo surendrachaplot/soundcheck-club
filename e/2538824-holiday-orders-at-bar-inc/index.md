@@ -1,6 +1,6 @@
 # HOLIDAY ORDERS at BAR Inc
 
-HOLIDAY ORDERS at BAR Inc on Sun 4 Oct, Osaka. 1 act on the bill: Deejay Energy. Electro and Downtempo. Preview the line-up and save it on soundcheck.
+HOLIDAY ORDERS at BAR Inc on Sun 4 Oct, Osaka. 1 artist on the bill: Deejay Energy. Electro and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SOL: After Dark at The Cross
 
-SOL: After Dark at The Cross on Fri 25 Sept, London. 5 acts on the bill: Adela, AZZA, Dimanté and El Cassar and 1 more. House. Preview the line-up and save it on soundcheck.
+SOL: After Dark at The Cross on Fri 25 Sept, London. 5 artists on the bill: Adela, AZZA, Dimanté and El Cassar and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

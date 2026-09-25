@@ -1,6 +1,6 @@
 # STAHLBOX37 at Supermarket
 
-STAHLBOX37 at Supermarket on Sat 26 Sept, Zurich. 4 acts on the bill: BRAINDAAMAGE, OMAKS, Valdemar and Vorteks. Preview the line-up and save it on soundcheck.
+STAHLBOX37 at Supermarket on Sat 26 Sept, Zurich. 4 artists on the bill: BRAINDAAMAGE, OMAKS, Valdemar and Vorteks. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

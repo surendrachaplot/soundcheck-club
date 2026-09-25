@@ -1,6 +1,6 @@
 # Subcero x Rave En Tu Idioma at Subcero Club
 
-Subcero x Rave En Tu Idioma at Subcero Club on Thu 22 Oct, Madrid. 3 acts on the bill: Elwei, Mraj Nite and The Ego (DJ). Electronica. Preview the line-up and save it on soundcheck.
+Subcero x Rave En Tu Idioma at Subcero Club on Thu 22 Oct, Madrid. 3 artists on the bill: Elwei, Mraj Nite and The Ego (DJ). Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

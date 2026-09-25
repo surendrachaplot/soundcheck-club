@@ -1,6 +1,6 @@
 # Arder: Toobris at NWHR
 
-Arder: Toobris at NWHR on Sun 18 Oct, Montreal. 1 act on the bill: Toobris. Techno. Preview the line-up and save it on soundcheck.
+Arder: Toobris at NWHR on Sun 18 Oct, Montreal. 1 artist on the bill: Toobris. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

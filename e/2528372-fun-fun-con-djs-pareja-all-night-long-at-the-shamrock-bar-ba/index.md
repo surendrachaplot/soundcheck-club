@@ -1,6 +1,6 @@
 # FUN FUN con Djs Pareja all night long at The Shamrock Bar & Basement
 
-FUN FUN con Djs Pareja all night long at The Shamrock Bar & Basement on Sat 3 Oct, Buenosaires. 1 act on the bill: Djs Pareja. House and Tech House. Preview the line-up and save it on soundcheck.
+FUN FUN con Djs Pareja all night long at The Shamrock Bar & Basement on Sat 3 Oct, Buenos Aires. 1 artist on the bill: Djs Pareja. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

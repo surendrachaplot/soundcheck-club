@@ -2,7 +2,7 @@
 
 Quartyard is a music venue in San Diego with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Shine: Rithma, Mark Quark, & Mimi Raza" on Sun, 4 Oct 2026.
 
-Quartyard is a music venue in Sandiego listed on soundcheck. 7 upcoming gigs, with line-ups including Bag Raiders, Mark E Quark, Mimi Raza and Riordan and 2 more. Browse upcoming dates, start times and who's playing. 1301 Market Street, San Diego, CA.
+Quartyard is a music venue in San Diego listed on soundcheck. 7 upcoming gigs, with line-ups including Bag Raiders, Mark E Quark, Mimi Raza and Riordan and 2 more. Browse upcoming dates, start times and who's playing. 1301 Market Street, San Diego, CA.
 
 ## What's on
 

@@ -2,7 +2,7 @@
 
 ZAHNATZIN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 20 Nov 2026.
 
-ZAHNATZIN is a house and techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Cologne, Dusseldorf and Leipzig. Often billed alongside DJ SPORTSCHUH, Flavius (DE) and Ursula Erdmann. Next up: Lokschuppen Berlin, Berlin on Fri 20 Nov.
+ZAHNATZIN is a house and techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Cologne, Düsseldorf and Leipzig. Often billed alongside DJ SPORTSCHUH, Flavius (DE) and Ursula Erdmann. Next up: Lokschuppen Berlin, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 

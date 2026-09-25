@@ -1,6 +1,6 @@
 # DOJO - LŪCID DREAMS at Dojo Boutique Club
 
-DOJO - LŪCID DREAMS at Dojo Boutique Club on Sat 26 Sept, Budapest. 1 act on the bill: LŪCIEN (HU). Deep House. Preview the line-up and save it on soundcheck.
+DOJO - LŪCID DREAMS at Dojo Boutique Club on Sat 26 Sept, Budapest. 1 artist on the bill: LŪCIEN (HU). Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

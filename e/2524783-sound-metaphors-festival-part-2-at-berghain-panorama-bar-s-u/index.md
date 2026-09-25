@@ -1,6 +1,6 @@
 # SOUND METAPHORS FESTIVAL PART 2 at Berghain | Panorama Bar | Säule
 
-SOUND METAPHORS FESTIVAL PART 2 at Berghain | Panorama Bar | Säule on Fri 30 Oct, Berlin. 21 acts on the bill: Aba Shanti-I, Audrey Danza, Courtney Bailey and Daphni and 17 more. Preview the line-up and save it on soundcheck.
+SOUND METAPHORS FESTIVAL PART 2 at Berghain | Panorama Bar | Säule on Fri 30 Oct, Berlin. 21 artists on the bill: Aba Shanti-I, Audrey Danza, Courtney Bailey and Daphni and 17 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # [sic]: Nef / Joss Crown / MASCHA / Afro Project at Versalles 64
 
-[sic]: Nef / Joss Crown / MASCHA / Afro Project at Versalles 64 on Sat 26 Sept, Mexicocity. 2 acts on the bill: Joss Crown and MASCHA. House. Preview the line-up and save it on soundcheck.
+[sic]: Nef / Joss Crown / MASCHA / Afro Project at Versalles 64 on Sat 26 Sept, Mexico City. 2 artists on the bill: Joss Crown and MASCHA. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

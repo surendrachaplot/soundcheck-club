@@ -1,6 +1,6 @@
 # Interval - David Jackson [IE] at Glamorama
 
-Interval - David Jackson [IE] at Glamorama on Fri 16 Oct, Melbourne. 1 act on the bill: David Jackson. Techno and House. Preview the line-up and save it on soundcheck.
+Interval - David Jackson [IE] at Glamorama on Fri 16 Oct, Melbourne. 1 artist on the bill: David Jackson. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

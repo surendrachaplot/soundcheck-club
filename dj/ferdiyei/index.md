@@ -2,7 +2,7 @@
 
 Ferdiyei is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nitsa Club, Barcelona on Sat, 24 Oct 2026.
 
-Ferdiyei is a house and techno artist based in Spain, tracked on soundcheck, with 30 sets logged across Barcelona, Madrid and Mexicocity. Often billed alongside Dj Coco, Klara Missyle and ABSOLUTE.. Next up: Nitsa Club, Barcelona on Sat 24 Oct.
+Ferdiyei is a house and techno artist based in Spain, tracked on soundcheck, with 30 sets logged across Barcelona, Madrid and Mexico City. Often billed alongside Dj Coco, Klara Missyle and ABSOLUTE.. Next up: Nitsa Club, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 

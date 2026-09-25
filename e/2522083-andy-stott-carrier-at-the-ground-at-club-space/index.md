@@ -1,6 +1,6 @@
 # Andy Stott + Carrier at The Ground at Club Space
 
-Andy Stott + Carrier at The Ground at Club Space on Fri 2 Oct, Miami. 3 acts on the bill: Andy Stott, Carrier and Uchi. Experimental and Dub Techno. Preview the line-up and save it on soundcheck.
+Andy Stott + Carrier at The Ground at Club Space on Fri 2 Oct, Miami. 3 artists on the bill: Andy Stott, Carrier and Uchi. Experimental and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

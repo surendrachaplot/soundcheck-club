@@ -1,6 +1,6 @@
 # HIGH ENERGY BOOTY MUSIC: Nanoos B2B Sheefy McFly, FUL-MT, & Mondai (GHETTOTECH & DANCE MUSIC) at Big Pink
 
-HIGH ENERGY BOOTY MUSIC: Nanoos B2B Sheefy McFly, FUL-MT, & Mondai (GHETTOTECH & DANCE MUSIC) at Big Pink on Fri 2 Oct, Detroit. 5 acts on the bill: Fullbodydurag, JMT (2), Mondai and Nanoos and 1 more. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
+HIGH ENERGY BOOTY MUSIC: Nanoos B2B Sheefy McFly, FUL-MT, & Mondai (GHETTOTECH & DANCE MUSIC) at Big Pink on Fri 2 Oct, Detroit. 5 artists on the bill: Fullbodydurag, JMT, Mondai and Nanoos and 1 more. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

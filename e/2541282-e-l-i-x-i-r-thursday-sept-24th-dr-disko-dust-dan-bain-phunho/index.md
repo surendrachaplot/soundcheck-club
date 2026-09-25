@@ -1,6 +1,6 @@
 # E L I X I R • Thursday • Sept 24th • DR. Disko Dust • Dan Bain • Phunhouse at Northern Lights Lounge
 
-E L I X I R • Thursday • Sept 24th • DR. Disko Dust • Dan Bain • Phunhouse at Northern Lights Lounge on Thu 24 Sept, Detroit. 3 acts on the bill: Dan Bain, DR. Disko Dust and Nick Kothari. Disco and Acid. Preview the line-up and save it on soundcheck.
+E L I X I R • Thursday • Sept 24th • DR. Disko Dust • Dan Bain • Phunhouse at Northern Lights Lounge on Thu 24 Sept, Detroit. 3 artists on the bill: Dan Bain, DR. Disko Dust and Nick Kothari. Disco and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

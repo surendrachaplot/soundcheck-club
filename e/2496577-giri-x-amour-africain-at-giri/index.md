@@ -1,6 +1,6 @@
 # Giri x Amour Africain at Giri
 
-Giri x Amour Africain on Thu 24 Sept, Berlin. 4 acts on the bill: BŪJIN, hero, SXCL and Tákyi. Preview the line-up and save it on soundcheck.
+Giri x Amour Africain on Thu 24 Sept, Berlin. 4 artists on the bill: BŪJIN, hero, SXCL and Tákyi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

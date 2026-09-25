@@ -1,6 +1,6 @@
 # Lonparis, Ren Yokoi & SHOW5 at DJ Bar Bridge
 
-Lonparis, Ren Yokoi & SHOW5 at DJ Bar Bridge on Wed 30 Sept, Tokyo. 1 act on the bill: Ren Yokoi. House. Preview the line-up and save it on soundcheck.
+Lonparis, Ren Yokoi & SHOW5 at DJ Bar Bridge on Wed 30 Sept, Tokyo. 1 artist on the bill: Ren Yokoi. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

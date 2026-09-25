@@ -2,7 +2,7 @@
 
 Cow Palace is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Dom Dolla" on Fri, 16 Oct 2026.
 
-Cow Palace is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming gigs, with line-ups including Clearcast, DJ Seinfeld, Dom Dolla and HAAi and 2 more. Browse upcoming dates, start times and who's playing. 2600 Geneva Ave, Daly City, CA 94014, United States.
+Cow Palace is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including Clearcast, DJ Seinfeld, Dom Dolla and HAAi and 2 more. Browse upcoming dates, start times and who's playing. 2600 Geneva Ave, Daly City, CA 94014, United States.
 
 ## What's on
 

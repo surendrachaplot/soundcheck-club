@@ -1,6 +1,6 @@
 # SIGHT & PANTHEØN at Cova Santa
 
-SIGHT & PANTHEØN at Cova Santa on Sun 27 Sept, Ibiza. 9 acts on the bill: Abdon, Aca [RO], ART NO LOGIA and Detlef and 5 more. Preview the line-up and save it on soundcheck.
+SIGHT & PANTHEØN at Cova Santa on Sun 27 Sept, Ibiza. 9 artists on the bill: Abdon, Aca [RO], ART NO LOGIA and Detlef and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

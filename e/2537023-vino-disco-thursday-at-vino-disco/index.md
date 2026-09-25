@@ -1,6 +1,6 @@
 # Vino Disco THURSDAY at Vino Disco
 
-Vino Disco THURSDAY on Thu 24 Sept, Montreal. 1 act on the bill: Flytz. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Vino Disco THURSDAY on Thu 24 Sept, Montreal. 1 artist on the bill: Flytz. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

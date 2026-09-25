@@ -1,6 +1,6 @@
 # Morten (Halloween Night) at Academy LA
 
-Morten (Halloween Night) at Academy LA on Sat 31 Oct, Losangeles. 1 act on the bill: Morten. Electronica. Preview the line-up and save it on soundcheck.
+Morten (Halloween Night) at Academy LA on Sat 31 Oct, Los Angeles. 1 artist on the bill: Morten. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

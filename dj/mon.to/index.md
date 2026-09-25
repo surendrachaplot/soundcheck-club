@@ -2,7 +2,7 @@
 
 Mon.To is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mia Mao, Paris on Thu, 8 Oct 2026.
 
-Mon.To is a techno and industrial artist based in France, tracked on soundcheck, with 21 sets logged across Paris. Often billed alongside Double Trouble (1), Ingrid and JANEIN. Next up: Mia Mao, Paris on Thu 8 Oct.
+Mon.To is a techno and industrial artist based in France, tracked on soundcheck, with 21 sets logged across Paris. Often billed alongside Double Trouble, Ingrid and JANEIN. Next up: Mia Mao, Paris on Thu 8 Oct.
 
 ## Upcoming shows
 

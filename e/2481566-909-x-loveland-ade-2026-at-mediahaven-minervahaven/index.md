@@ -1,6 +1,6 @@
 # 909 x Loveland - ADE 2026 at Mediahaven - Minervahaven
 
-909 x Loveland - ADE 2026 at Mediahaven - Minervahaven on Sat 24 Oct, Amsterdam. 17 acts on the bill: Adiel, Ceri, Chris Liebing and Colin Benders and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
+909 x Loveland - ADE 2026 at Mediahaven - Minervahaven on Sat 24 Oct, Amsterdam. 17 artists on the bill: Adiel, Ceri, Chris Liebing and Colin Benders and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

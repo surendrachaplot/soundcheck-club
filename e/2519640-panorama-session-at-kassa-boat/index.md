@@ -1,6 +1,6 @@
 # Panorama Session at Kassa Boat
 
-Panorama Session at Kassa Boat on Sat 26 Sept, Budapest. 1 act on the bill: Fede Frostl. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
+Panorama Session at Kassa Boat on Sat 26 Sept, Budapest. 1 artist on the bill: Fede Frostl. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

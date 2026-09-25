@@ -2,7 +2,7 @@
 
 Bar 13 is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Halloween Weekend Sunday Funday Dance Party" on Sun, 1 Nov 2026.
 
-Bar 13 is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including DJ E.M.. Browse upcoming dates, start times and who's playing. 35 East 13th Street; New York, NY 10003; United States.
+Bar 13 is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including DJ E.M.. Browse upcoming dates, start times and who's playing. 35 East 13th Street; New York, NY 10003; United States.
 
 ## What's on
 

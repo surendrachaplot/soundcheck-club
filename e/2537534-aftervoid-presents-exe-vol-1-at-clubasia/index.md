@@ -1,6 +1,6 @@
 # AFTERVOID presents EXE vol.1 at clubasia
 
-AFTERVOID presents EXE vol.1 at clubasia on Sat 3 Oct, Tokyo. 2 acts on the bill: FUJI TRILL and Yess. Hardcore and Bass. Preview the line-up and save it on soundcheck.
+AFTERVOID presents EXE vol.1 at clubasia on Sat 3 Oct, Tokyo. 2 artists on the bill: FUJI TRILL and Yess. Hardcore and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

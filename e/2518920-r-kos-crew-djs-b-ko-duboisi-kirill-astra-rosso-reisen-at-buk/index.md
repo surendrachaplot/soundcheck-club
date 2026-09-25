@@ -1,6 +1,6 @@
 # rákosí crew djs ábéčko, duboisi, Kirill Astra, Rosso Reisen at Bukanyr Boat
 
-rákosí crew djs ábéčko, duboisi, Kirill Astra, Rosso Reisen at Bukanyr Boat on Fri 25 Sept, Prague. 3 acts on the bill: abecko, duboisi and Kirill Astra. Techno and House. Preview the line-up and save it on soundcheck.
+rákosí crew djs ábéčko, duboisi, Kirill Astra, Rosso Reisen at Bukanyr Boat on Fri 25 Sept, Prague. 3 artists on the bill: abecko, duboisi and Kirill Astra. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

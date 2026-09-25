@@ -1,6 +1,6 @@
 # Warehouse Opening - Marco Carola b2b Loco Dice b2b Seth Troxler at Warehouse ZRH
 
-Warehouse Opening - Marco Carola b2b Loco Dice b2b Seth Troxler at Warehouse ZRH on Sat 14 Nov, Zurich. 6 acts on the bill: ARWIN AZIZ, Dangel Twins, Fleur Shore and Loco Dice and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Warehouse Opening - Marco Carola b2b Loco Dice b2b Seth Troxler at Warehouse ZRH on Sat 14 Nov, Zurich. 6 artists on the bill: ARWIN AZIZ, Dangel Twins, Fleur Shore and Loco Dice and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

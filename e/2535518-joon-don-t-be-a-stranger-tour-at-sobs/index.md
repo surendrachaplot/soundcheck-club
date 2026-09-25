@@ -1,6 +1,6 @@
 # Joon: Don't Be A Stranger Tour at SOBs
 
-Joon: Don't Be A Stranger Tour at SOBs on Tue 13 Oct, Newyorkcity. 1 act on the bill: Joon. Pop and R&B. Preview the line-up and save it on soundcheck.
+Joon: Don't Be A Stranger Tour at SOBs on Tue 13 Oct, New York City. 1 artist on the bill: Joon. Pop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

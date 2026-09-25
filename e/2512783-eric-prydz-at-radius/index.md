@@ -1,6 +1,6 @@
 # Eric Prydz at Radius
 
-Eric Prydz at Radius on Sat 5 Dec, Chicago. 1 act on the bill: Eric Prydz. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Eric Prydz at Radius on Sat 5 Dec, Chicago. 1 artist on the bill: Eric Prydz. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

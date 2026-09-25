@@ -1,6 +1,6 @@
 # Sherif at Double Vie at Double Vie
 
-Sherif at Double Vie on Sat 26 Sept, Paris. 1 act on the bill: Sherif (3). House and Disco. Preview the line-up and save it on soundcheck.
+Sherif at Double Vie on Sat 26 Sept, Paris. 1 artist on the bill: Sherif. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

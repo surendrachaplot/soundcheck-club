@@ -1,6 +1,6 @@
 # PICNIC PEOPLE PANIC (TECHNO/HOUSE) at WOMB
 
-PICNIC PEOPLE PANIC (TECHNO/HOUSE) at WOMB on Fri 13 Nov, Tokyo. 6 acts on the bill: KABUTO, KATIMI AI, MASAYASU and Moodman and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+PICNIC PEOPLE PANIC (TECHNO/HOUSE) at WOMB on Fri 13 Nov, Tokyo. 6 artists on the bill: KABUTO, KATIMI AI, MASAYASU and Moodman and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

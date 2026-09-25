@@ -1,6 +1,6 @@
 # Labyrinth presents: Caiiro extended set at Brooklyn Roots Collective
 
-Labyrinth presents: Caiiro extended set at Brooklyn Roots Collective on Sat 26 Sept, Newyorkcity. 1 act on the bill: Caiiro. House and Afro House. Preview the line-up and save it on soundcheck.
+Labyrinth presents: Caiiro extended set at Brooklyn Roots Collective on Sat 26 Sept, New York City. 1 artist on the bill: Caiiro. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

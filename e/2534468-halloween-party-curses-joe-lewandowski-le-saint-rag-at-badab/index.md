@@ -1,6 +1,6 @@
 # Halloween Party — Curses, Joe Lewandowski, Le Saint, RAG at Badaboum
 
-Halloween Party — Curses, Joe Lewandowski, Le Saint, RAG at Badaboum on Sat 31 Oct, Paris. 4 acts on the bill: Curses, Joe Lewandowski, Le Saint and RAG. Preview the line-up and save it on soundcheck.
+Halloween Party — Curses, Joe Lewandowski, Le Saint, RAG at Badaboum on Sat 31 Oct, Paris. 4 artists on the bill: Curses, Joe Lewandowski, Le Saint and RAG. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # techlab.bp invites Matriark (DK), Intuition - LIVE (SP), Main Hall at Turbina
 
-techlab.bp invites Matriark (DK), Intuition - LIVE (SP), Main Hall at Turbina on Sat 3 Oct, Budapest. 6 acts on the bill: IMMATERIÆ, Intuition, Matriark and Schierke and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+techlab.bp invites Matriark (DK), Intuition - LIVE (SP), Main Hall at Turbina on Sat 3 Oct, Budapest. 6 artists on the bill: IMMATERIÆ, Intuition, Matriark and Schierke and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

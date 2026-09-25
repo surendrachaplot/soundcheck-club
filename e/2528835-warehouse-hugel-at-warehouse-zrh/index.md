@@ -1,6 +1,6 @@
 # Warehouse - Hugel at Warehouse ZRH
 
-Warehouse - Hugel at Warehouse ZRH on Fri 27 Nov, Zurich. 1 act on the bill: Hugel. House and Afro House. Preview the line-up and save it on soundcheck.
+Warehouse - Hugel at Warehouse ZRH on Fri 27 Nov, Zurich. 1 artist on the bill: Hugel. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

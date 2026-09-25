@@ -2,7 +2,7 @@
 
 Derrick Wize is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jungle Hollywood, Los Angeles on Sat, 24 Oct 2026.
 
-Derrick Wize is a house and deep house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Chicago, Losangeles and Paris. Often billed alongside Louis Hale, Wayne Williams and DJ Colette. Next up: Jungle Hollywood, Losangeles on Sat 24 Oct.
+Derrick Wize is a house and deep house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Chicago, Los Angeles and Paris. Often billed alongside Louis Hale, Wayne Williams and DJ Colette. Next up: Jungle Hollywood, Los Angeles on Sat 24 Oct.
 
 ## Upcoming shows
 

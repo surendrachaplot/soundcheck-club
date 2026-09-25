@@ -1,6 +1,6 @@
 # Days Halloween at The Pitt Market
 
-Days Halloween at The Pitt Market on Sat 31 Oct, Edinburgh. 2 acts on the bill: DJ Fart in the Club and Jyoty. Techno and House. Preview the line-up and save it on soundcheck.
+Days Halloween at The Pitt Market on Sat 31 Oct, Edinburgh. 2 artists on the bill: DJ Fart in the Club and Jyoty. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

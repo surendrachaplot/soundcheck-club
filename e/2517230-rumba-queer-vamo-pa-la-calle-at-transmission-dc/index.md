@@ -1,6 +1,6 @@
 # Rumba Queer: Vamo Pa' La Calle at TRANSMISSION DC
 
-Rumba Queer: Vamo Pa' La Calle at TRANSMISSION DC on Sat 26 Sept, Washingtondc. Latin Bass. Preview the line-up and save it on soundcheck.
+Rumba Queer: Vamo Pa' La Calle at TRANSMISSION DC on Sat 26 Sept, Washington DC. Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

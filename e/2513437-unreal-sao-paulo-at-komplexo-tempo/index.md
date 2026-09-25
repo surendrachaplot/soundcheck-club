@@ -1,6 +1,6 @@
 # Unreal, Sao Paulo at Komplexo Tempo
 
-Unreal, Sao Paulo at Komplexo Tempo on Sat 21 Nov, Saopaulo. 6 acts on the bill: Acid Asian, Cloudy, davyboi and Johannes Schuster and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Unreal, Sao Paulo at Komplexo Tempo on Sat 21 Nov, Sao Paulo. 6 artists on the bill: Acid Asian, Cloudy, davyboi and Johannes Schuster and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Interval - Eden Burns [NZ] b2b Ed Kent + A.Well at Glamorama
 
-Interval - Eden Burns [NZ] b2b Ed Kent + A.Well at Glamorama on Fri 25 Sept, Melbourne. 4 acts on the bill: A.Well, DJ Jessy, Ed Kent and Eden Burns. Progressive House and House. Preview the line-up and save it on soundcheck.
+Interval - Eden Burns [NZ] b2b Ed Kent + A.Well at Glamorama on Fri 25 Sept, Melbourne. 4 artists on the bill: A.Well, DJ Jessy, Ed Kent and Eden Burns. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

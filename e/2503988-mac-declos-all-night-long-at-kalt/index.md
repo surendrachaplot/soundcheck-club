@@ -1,6 +1,6 @@
 # Mac Declos (all night long) at KALT
 
-Mac Declos (all night long) at KALT on Sat 5 Dec, Strasbourg. 1 act on the bill: Mac Declos. Preview the line-up and save it on soundcheck.
+Mac Declos (all night long) at KALT on Sat 5 Dec, Strasbourg. 1 artist on the bill: Mac Declos. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

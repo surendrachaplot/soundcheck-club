@@ -1,6 +1,6 @@
 # 12-HOUR PARTY PEOPLE: Closing Summer at Village Underground Lisboa
 
-12-HOUR PARTY PEOPLE: Closing Summer at Village Underground Lisboa on Thu 15 Oct, Lisbon. 4 acts on the bill: Bryto, Gabriel Brasil, Khalil Suleman and Kristina (2). Techno and House. Preview the line-up and save it on soundcheck.
+12-HOUR PARTY PEOPLE: Closing Summer at Village Underground Lisboa on Thu 15 Oct, Lisbon. 4 artists on the bill: Bryto, Gabriel Brasil, Khalil Suleman and Kristina. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

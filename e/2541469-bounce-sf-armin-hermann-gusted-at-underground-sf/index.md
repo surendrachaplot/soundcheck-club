@@ -1,6 +1,6 @@
 # Bounce SF: Armin Hermann + Gusted at Underground SF
 
-Bounce SF: Armin Hermann + Gusted at Underground SF on Fri 2 Oct, Sanfrancisco. 3 acts on the bill: Armin Hermann, Gusted and Star Eater. Trance and Techno. Preview the line-up and save it on soundcheck.
+Bounce SF: Armin Hermann + Gusted at Underground SF on Fri 2 Oct, San Francisco/Oakland. 3 artists on the bill: Armin Hermann, Gusted and Star Eater. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

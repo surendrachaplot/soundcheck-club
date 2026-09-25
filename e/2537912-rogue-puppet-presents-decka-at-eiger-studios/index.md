@@ -1,6 +1,6 @@
 # ROGUE PUPPET presents: Decka at Eiger Studios
 
-ROGUE PUPPET presents: Decka at Eiger Studios on Sat 7 Nov, Leeds. 4 acts on the bill: Decka, Kessie, nilehn and quarter ohm. Techno. Preview the line-up and save it on soundcheck.
+ROGUE PUPPET presents: Decka at Eiger Studios on Sat 7 Nov, Leeds. 4 artists on the bill: Decka, Kessie, nilehn and quarter ohm. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

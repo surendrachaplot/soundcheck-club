@@ -1,6 +1,6 @@
 # Ignez - Marcal at Stereo
 
-Ignez - Marcal at Stereo on Fri 25 Sept, Montreal. 2 acts on the bill: Ignez and Marcal. Preview the line-up and save it on soundcheck.
+Ignez - Marcal at Stereo on Fri 25 Sept, Montreal. 2 artists on the bill: Ignez and Marcal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tsukasa Ito (Yokohama, JP) at The Edge at The Edge Seoul
 
-Tsukasa Ito (Yokohama, JP) at The Edge at The Edge Seoul on Fri 2 Oct, Seoul. 2 acts on the bill: aso (1) and Isoz. Techno and Ambient. Preview the line-up and save it on soundcheck.
+Tsukasa Ito (Yokohama, JP) at The Edge at The Edge Seoul on Fri 2 Oct, Seoul. 2 artists on the bill: aso and Isoz. Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

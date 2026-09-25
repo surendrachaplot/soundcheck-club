@@ -1,6 +1,6 @@
 # Tortilla with Teemon & Poomba at High Club Room
 
-Tortilla with Teemon & Poomba at High Club Room on Sat 10 Oct, Madrid. 1 act on the bill: TEEMON&POOMBA. House and Electronica. Preview the line-up and save it on soundcheck.
+Tortilla with Teemon & Poomba at High Club Room on Sat 10 Oct, Madrid. 1 artist on the bill: TEEMON&POOMBA. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

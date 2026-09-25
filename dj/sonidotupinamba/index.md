@@ -2,7 +2,7 @@
 
 Sonido Tupinamba is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - secret location, Barcelona on Sat, 3 Oct 2026.
 
-Sonido Tupinamba is a house and disco artist based in Spain, tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Buenosaires and Ibiza and 8 more. Often billed alongside Camilo Miranda, Zonzo and Sama Yax. Next up: TBA - secret location, Barcelona on Sat 3 Oct.
+Sonido Tupinamba is a house and disco artist based in Spain, tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Buenos Aires and Ibiza and 8 more. Often billed alongside Camilo Miranda, Zonzo and Sama Yax. Next up: TBA - secret location, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 

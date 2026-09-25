@@ -1,6 +1,6 @@
 # La Onda X 42M (LUMIÈRE, Alyhas B2B Luke Seager, Agus Barbei) at 42 Marches
 
-La Onda X 42M (LUMIÈRE, Alyhas B2B Luke Seager, Agus Barbei) at 42 Marches on Sun 4 Oct, Paris. 4 acts on the bill: AGUSTIN BARBEI, Alyhas, Luke Seager and Lumiere. House and Electro. Preview the line-up and save it on soundcheck.
+La Onda X 42M (LUMIÈRE, Alyhas B2B Luke Seager, Agus Barbei) at 42 Marches on Sun 4 Oct, Paris. 4 artists on the bill: AGUSTIN BARBEI, Alyhas, Luke Seager and Lumiere. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

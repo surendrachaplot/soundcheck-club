@@ -1,6 +1,6 @@
 # 10/2 Otoconia House Music Social Ft. Sho Nuph, Jon Lemmon, & Julie Herrera at Crystal Lounge
 
-10/2 Otoconia House Music Social Ft. Sho Nuph, Jon Lemmon, & Julie Herrera at Crystal Lounge on Fri 2 Oct, Seattle. 1 act on the bill: Julie Herrera. House. Preview the line-up and save it on soundcheck.
+10/2 Otoconia House Music Social Ft. Sho Nuph, Jon Lemmon, & Julie Herrera at Crystal Lounge on Fri 2 Oct, Seattle. 1 artist on the bill: Julie Herrera. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

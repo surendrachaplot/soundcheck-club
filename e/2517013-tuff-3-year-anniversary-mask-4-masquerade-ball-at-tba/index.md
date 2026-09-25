@@ -1,6 +1,6 @@
 # TUFF 3 YEAR Anniversary - Mask 4 Masquerade Ball at TBA
 
-TUFF 3 YEAR Anniversary - Mask 4 Masquerade Ball at TBA on Fri 23 Oct, Losangeles. Techno and House. Preview the line-up and save it on soundcheck.
+TUFF 3 YEAR Anniversary - Mask 4 Masquerade Ball at TBA on Fri 23 Oct, Los Angeles. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

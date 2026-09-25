@@ -1,6 +1,6 @@
 # Kiss Facility at Fuchs2
 
-Kiss Facility at Fuchs2 on Wed 30 Sept, Prague. 1 act on the bill: Sega Bodega. Preview the line-up and save it on soundcheck.
+Kiss Facility at Fuchs2 on Wed 30 Sept, Prague. 1 artist on the bill: Sega Bodega. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

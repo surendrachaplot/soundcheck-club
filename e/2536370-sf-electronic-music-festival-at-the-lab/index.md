@@ -1,6 +1,6 @@
 # SF Electronic Music Festival at The Lab
 
-SF Electronic Music Festival at The Lab on Thu 24 Sept, Sanfrancisco. 4 acts on the bill: Blevin Blectum, IDHAZ, Moor Mother and Rrose. Experimental. Preview the line-up and save it on soundcheck.
+SF Electronic Music Festival at The Lab on Thu 24 Sept, San Francisco/Oakland. 4 artists on the bill: Blevin Blectum, IDHAZ, Moor Mother and Rrose. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

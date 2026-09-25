@@ -1,6 +1,6 @@
 # Echoes from SAVANA by Alex Neri - FUTURETRÒ at Gianca - Murazzi
 
-Echoes from SAVANA by Alex Neri - FUTURETRÒ at Gianca - Murazzi on Sat 26 Sept, Turin. 2 acts on the bill: Alex Neri and Jamahr. House and Tech House. Preview the line-up and save it on soundcheck.
+Echoes from SAVANA by Alex Neri - FUTURETRÒ at Gianca - Murazzi on Sat 26 Sept, Turin. 2 artists on the bill: Alex Neri and Jamahr. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

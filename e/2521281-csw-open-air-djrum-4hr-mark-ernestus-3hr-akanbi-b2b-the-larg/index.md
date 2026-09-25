@@ -1,6 +1,6 @@
 # CSW Open Air: DjRUM [4hr], Mark Ernestus [3hr], Akanbi b2b The Large [Double set] at TBA - Downtown
 
-CSW Open Air: DjRUM [4hr], Mark Ernestus [3hr], Akanbi b2b The Large [Double set] at TBA - Downtown on Sat 3 Oct, Losangeles. 4 acts on the bill: Akanbi, DjRUM, Mark Ernestus and The Large. Experimental and Amapiano. Preview the line-up and save it on soundcheck.
+CSW Open Air: DjRUM [4hr], Mark Ernestus [3hr], Akanbi b2b The Large [Double set] at TBA - Downtown on Sat 3 Oct, Los Angeles. 4 artists on the bill: Akanbi, DjRUM, Mark Ernestus and The Large. Experimental and Amapiano. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

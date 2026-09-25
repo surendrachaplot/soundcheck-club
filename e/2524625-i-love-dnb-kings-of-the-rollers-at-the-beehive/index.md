@@ -1,6 +1,6 @@
 # I LOVE DNB: Kings of the Rollers at The Beehive
 
-I LOVE DNB: Kings of the Rollers at The Beehive on Sat 12 Dec, Losangeles. 5 acts on the bill: Bladerunner, Kings of the Rollers, Serum (UK) and Turno and 1 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+I LOVE DNB: Kings of the Rollers at The Beehive on Sat 12 Dec, Los Angeles. 5 artists on the bill: Bladerunner, Kings of the Rollers, Serum (UK) and Turno and 1 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

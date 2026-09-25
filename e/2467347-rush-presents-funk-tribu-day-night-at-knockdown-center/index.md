@@ -1,6 +1,6 @@
 # RUSH presents - Funk Tribu: Day & Night at Knockdown Center
 
-RUSH presents - Funk Tribu: Day & Night at Knockdown Center on Sat 17 Oct, Newyorkcity. 6 acts on the bill: Afem Syko, Funk Tribu, Ksenyeah and LOVEFOXY and 2 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+RUSH presents - Funk Tribu: Day & Night at Knockdown Center on Sat 17 Oct, New York City. 6 artists on the bill: Afem Syko, Funk Tribu, Ksenyeah and LOVEFOXY and 2 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

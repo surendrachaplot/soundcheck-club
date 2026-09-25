@@ -1,6 +1,6 @@
 # ROYAL DELUSION HARD EVENTS at LA Rítmica Club
 
-ROYAL DELUSION HARD EVENTS at LA Rítmica Club on Fri 2 Oct, Valencia. 4 acts on the bill: Karashnikov, KICKREY, Marí Kozlovska and NGL (NL). Preview the line-up and save it on soundcheck.
+ROYAL DELUSION HARD EVENTS at LA Rítmica Club on Fri 2 Oct, Valencia. 4 artists on the bill: Karashnikov, KICKREY, Marí Kozlovska and NGL (NL). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

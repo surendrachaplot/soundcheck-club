@@ -2,7 +2,7 @@
 
 Skeme Richards is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Sound Lounge at Percy, Philadelphia on Fri, 25 Sept 2026.
 
-Skeme Richards is a funk / soul and disco artist based in United States of America, tracked on soundcheck, with 35 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Sky Society, Leja Hazer and Yukiko. Next up: The Sound Lounge at Percy, Philadelphia on Fri 25 Sept.
+Skeme Richards is a funk / soul and disco artist based in United States of America, tracked on soundcheck, with 35 sets logged across Chicago, Los Angeles, Miami and New York City and 2 more. Often billed alongside Sky Society, Leja Hazer and Yukiko. Next up: The Sound Lounge at Percy, Philadelphia on Fri 25 Sept.
 
 ## Upcoming shows
 

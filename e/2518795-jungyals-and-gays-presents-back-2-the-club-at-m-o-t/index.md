@@ -1,6 +1,6 @@
 # Jungyals and Gays presents: Back 2 the Club at M.O.T
 
-Jungyals and Gays presents: Back 2 the Club at M.O.T on Fri 25 Sept, London. 6 acts on the bill: 3DMA, chlow333, JuicyJards and NEENZY (UK) and 2 more. Hardcore and Footwork. Preview the line-up and save it on soundcheck.
+Jungyals and Gays presents: Back 2 the Club at M.O.T on Fri 25 Sept, London. 6 artists on the bill: 3DMA, chlow333, JuicyJards and NEENZY (UK) and 2 more. Hardcore and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

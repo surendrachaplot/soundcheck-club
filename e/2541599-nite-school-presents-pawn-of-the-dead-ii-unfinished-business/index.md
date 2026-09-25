@@ -1,6 +1,6 @@
 # Nite School presents: PAWN OF THE DEAD II: Unfinished Business... with TBA at TBA - Metro's Social Club
 
-Nite School presents: PAWN OF THE DEAD II: Unfinished Business... with TBA at TBA - Metro's Social Club on Sat 31 Oct, Manchester. 1 act on the bill: The Brokers. Preview the line-up and save it on soundcheck.
+Nite School presents: PAWN OF THE DEAD II: Unfinished Business... with TBA at TBA - Metro's Social Club on Sat 31 Oct, Manchester. 1 artist on the bill: The Brokers. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

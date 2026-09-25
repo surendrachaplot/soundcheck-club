@@ -1,6 +1,6 @@
 # Toffler presents CLAESSENS at Toffler
 
-Toffler presents CLAESSENS on Fri 25 Sept, Rotterdam. 2 acts on the bill: CLAESSENS and RUL3. Techno. Preview the line-up and save it on soundcheck.
+Toffler presents CLAESSENS on Fri 25 Sept, Rotterdam. 2 artists on the bill: CLAESSENS and RUL3. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,17 +1,17 @@
 # Neil Thornton
 
-Neil Thornton is a Funk / Soul and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 26 Curtain Road, London on Thu, 24 Sept 2026.
+Neil Thornton is a Funk / Soul and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Elmhurst, London on Sat, 26 Sept 2026.
 
-Neil Thornton is a funk / soul and disco artist based in United Kingdom, tracked on soundcheck, with 119 sets logged across London. Often billed alongside Matt Young, Sean Innit and Ray Juss. Next up: 26 Curtain Road, London on Thu 24 Sept.
+Neil Thornton is a funk / soul and disco artist based in United Kingdom, tracked on soundcheck, with 120 sets logged across London. Often billed alongside Matt Young, Sean Innit and Ray Juss. Next up: The Elmhurst, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | 26 Curtain Road | London |
 | Sat, 26 Sept 2026 | The Elmhurst | London |
 | Wed, 30 Sept 2026 | 26 Curtain Road | London |
 | Thu, 1 Oct 2026 | 26 Curtain Road | London |
+| Wed, 7 Oct 2026 | 26 Curtain Road | London |
 | Sun, 18 Oct 2026 | The Elmhurst | London |
 
 ## Recently played

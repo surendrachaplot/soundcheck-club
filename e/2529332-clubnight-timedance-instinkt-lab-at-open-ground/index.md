@@ -1,6 +1,6 @@
 # Clubnight - Timedance, instinkt lab at Open Ground
 
-Clubnight - Timedance, instinkt lab at Open Ground on Sat 21 Nov, Wuppertal. 3 acts on the bill: ananda priori, Deano and FForm. Preview the line-up and save it on soundcheck.
+Clubnight - Timedance, instinkt lab at Open Ground on Sat 21 Nov, Wuppertal. 3 artists on the bill: ananda priori, Deano and FForm. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

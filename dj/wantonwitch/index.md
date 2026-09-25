@@ -2,7 +2,7 @@
 
 Wanton Witch is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Recyclart, Brussels on Fri, 25 Sept 2026.
 
-Wanton Witch is a techno and experimental artist based in Malaysia, tracked on soundcheck, with 49 sets logged across Bangkok, Berlin, Brussels and Hongkong and 5 more. Often billed alongside shasti, griefeater and Soup snakeS. Next up: Recyclart, Brussels on Fri 25 Sept.
+Wanton Witch is a techno and experimental artist based in Malaysia, tracked on soundcheck, with 49 sets logged across Bangkok, Berlin, Brussels and Hong Kong and 5 more. Often billed alongside shasti, griefeater and Soup snakeS. Next up: Recyclart, Brussels on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Serum: Kyle Watson at Prysm Nightclub
 
-Serum: Kyle Watson at Prysm Nightclub on Sat 26 Sept, Chicago. 1 act on the bill: Kyle Watson. House and Tech House. Preview the line-up and save it on soundcheck.
+Serum: Kyle Watson at Prysm Nightclub on Sat 26 Sept, Chicago. 1 artist on the bill: Kyle Watson. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

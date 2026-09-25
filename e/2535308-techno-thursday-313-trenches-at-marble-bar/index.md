@@ -1,6 +1,6 @@
 # Techno Thursday: 313 Trenches at Marble Bar
 
-Techno Thursday: 313 Trenches at Marble Bar on Thu 24 Sept, Detroit. 3 acts on the bill: DJ Ace, Shawescape Renegade and Tommie Cool. Preview the line-up and save it on soundcheck.
+Techno Thursday: 313 Trenches at Marble Bar on Thu 24 Sept, Detroit. 3 artists on the bill: DJ Ace, Shawescape Renegade and Tommie Cool. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Manolo. (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OHM, Berlin on Fri, 2 Oct 2026.
 
-Manolo. (DE) is a house and techno artist based in United States of America, tracked on soundcheck, with 31 sets logged across Berlin, Hamburg, Newyorkcity and Nurnberg and 1 more. Often billed alongside Stella Zekri, Camilla Rae and Julian Bainbridge. Next up: OHM, Berlin on Fri 2 Oct.
+Manolo. (DE) is a house and techno artist based in United States of America, tracked on soundcheck, with 31 sets logged across Berlin, Hamburg, New York City and Nürnberg and 1 more. Often billed alongside Stella Zekri, Camilla Rae and Julian Bainbridge. Next up: OHM, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Pongo at Club Wintercircus
 
-Pongo at Club Wintercircus on Tue 1 Dec, Ghent. 1 act on the bill: Pongo. Preview the line-up and save it on soundcheck.
+Pongo at Club Wintercircus on Tue 1 Dec, Ghent. 1 artist on the bill: Pongo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

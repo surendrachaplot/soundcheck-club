@@ -1,6 +1,6 @@
 # Bonanza pres. Adi, Benny, Gōdō at Les Enfants Brillants
 
-Bonanza pres. Adi, Benny, Gōdō at Les Enfants Brillants on Fri 2 Oct, Barcelona. 3 acts on the bill: Adi, Benny (El Rio Hostel) and Gōdō. Preview the line-up and save it on soundcheck.
+Bonanza pres. Adi, Benny, Gōdō at Les Enfants Brillants on Fri 2 Oct, Barcelona. 3 artists on the bill: Adi, Benny (El Rio Hostel) and Gōdō. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Basstronauten is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Cloud, Berlin on Fri, 9 Oct 2026.
 
-Basstronauten is a techno and house artist based in Germany, tracked on soundcheck, with 61 sets logged across Berlin. Often billed alongside Daniel Boon, LORD of Psychedelics (2) and DAZA. Next up: The Cloud, Berlin on Fri 9 Oct.
+Basstronauten is a techno and house artist based in Germany, tracked on soundcheck, with 61 sets logged across Berlin. Often billed alongside Daniel Boon, LORD of Psychedelics and DAZA. Next up: The Cloud, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 

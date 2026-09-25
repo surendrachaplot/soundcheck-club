@@ -1,6 +1,6 @@
 # Optimo Halloween - Espookio made us do it at Saint Luke's & The Winged Ox
 
-Optimo Halloween - Espookio made us do it at Saint Luke's & The Winged Ox on Sat 31 Oct, Glasgow. 1 act on the bill: Optimo (Espacio). Preview the line-up and save it on soundcheck.
+Optimo Halloween - Espookio made us do it at Saint Luke's & The Winged Ox on Sat 31 Oct, Glasgow. 1 artist on the bill: Optimo (Espacio). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

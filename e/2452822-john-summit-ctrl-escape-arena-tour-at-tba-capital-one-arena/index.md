@@ -1,6 +1,6 @@
 # John Summit - CTRL ESCAPE ARENA TOUR at TBA - Capital One Arena
 
-John Summit - CTRL ESCAPE ARENA TOUR at TBA - Capital One Arena on Sat 31 Oct, Washingtondc. 1 act on the bill: John Summit. House and Tech House. Preview the line-up and save it on soundcheck.
+John Summit - CTRL ESCAPE ARENA TOUR at TBA - Capital One Arena on Sat 31 Oct, Washington DC. 1 artist on the bill: John Summit. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

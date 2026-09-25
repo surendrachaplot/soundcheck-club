@@ -2,7 +2,7 @@
 
 De Mode is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bike Jesus, Prague on Fri, 25 Sept 2026.
 
-De Mode is a disco and techno artist based in Slovakia, tracked on soundcheck, with 136 sets logged across Berlin, Losangeles, Prague and Vienna. Often billed alongside Ark3r, kuju and Anton Kubikov. Next up: Bike Jesus, Prague on Fri 25 Sept.
+De Mode is a disco and techno artist based in Slovakia, tracked on soundcheck, with 136 sets logged across Berlin, Los Angeles, Prague and Vienna. Often billed alongside Ark3r, kuju and Anton Kubikov. Next up: Bike Jesus, Prague on Fri 25 Sept.
 
 ## Upcoming shows
 

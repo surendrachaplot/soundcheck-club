@@ -2,7 +2,7 @@
 
 likeholywine is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-likeholywine is a techno and club artist based in United States of America, tracked on soundcheck, with 74 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside nonsuit, Beverly Chills and Adam Kraft. Next up: The San Francisco Mint, Sanfrancisco on Fri 25 Sept.
+likeholywine is a techno and club artist based in United States of America, tracked on soundcheck, with 74 sets logged across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside nonsuit, Beverly Chills and Adam Kraft. Next up: The San Francisco Mint, San Francisco/Oakland on Fri 25 Sept.
 
 ## Upcoming shows
 

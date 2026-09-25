@@ -1,6 +1,6 @@
 # INPUT pres Jamback at INPUT High Fidelity Dance Club
 
-INPUT pres Jamback at INPUT High Fidelity Dance Club on Sun 11 Oct, Barcelona. 2 acts on the bill: INDRA TRAFERRI and Jamback. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+INPUT pres Jamback at INPUT High Fidelity Dance Club on Sun 11 Oct, Barcelona. 2 artists on the bill: INDRA TRAFERRI and Jamback. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

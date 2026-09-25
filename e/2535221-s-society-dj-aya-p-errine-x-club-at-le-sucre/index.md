@@ -1,6 +1,6 @@
 # S.society: DJ AYA, P errine, X CLUB at Le Sucre
 
-S.society: DJ AYA, P errine, X CLUB at Le Sucre on Sun 4 Oct, Lyon. 3 acts on the bill: DJ AYA, P errine and X CLUB.. Techno. Preview the line-up and save it on soundcheck.
+S.society: DJ AYA, P errine, X CLUB at Le Sucre on Sun 4 Oct, Lyon. 3 artists on the bill: DJ AYA, P errine and X CLUB.. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

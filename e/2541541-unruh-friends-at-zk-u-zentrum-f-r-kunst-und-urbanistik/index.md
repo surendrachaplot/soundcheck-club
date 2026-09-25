@@ -1,6 +1,6 @@
 # UNRUH & friends at ZK/U (Zentrum für Kunst und Urbanistik)
 
-UNRUH & friends at ZK/U (Zentrum für Kunst und Urbanistik) on Sat 24 Oct, Berlin. 1 act on the bill: Lezza. House. Preview the line-up and save it on soundcheck.
+UNRUH & friends at ZK/U (Zentrum für Kunst und Urbanistik) on Sat 24 Oct, Berlin. 1 artist on the bill: Lezza. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

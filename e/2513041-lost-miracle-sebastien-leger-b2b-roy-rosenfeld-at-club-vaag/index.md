@@ -1,6 +1,6 @@
 # Lost Miracle - Sebastien Leger B2B Roy Rosenfeld at Club Vaag
 
-Lost Miracle - Sebastien Leger B2B Roy Rosenfeld at Club Vaag on Fri 9 Oct, Antwerp. 3 acts on the bill: Eran Aviner, Roy Rosenfeld and Sebastien Leger. Preview the line-up and save it on soundcheck.
+Lost Miracle - Sebastien Leger B2B Roy Rosenfeld at Club Vaag on Fri 9 Oct, Antwerp. 3 artists on the bill: Eran Aviner, Roy Rosenfeld and Sebastien Leger. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

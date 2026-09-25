@@ -1,6 +1,6 @@
 # The bangkok Techno Collaboration presents; NO.EARS: Strictly Vinyl Set at Culture Cafe
 
-The bangkok Techno Collaboration presents; NO.EARS: Strictly Vinyl Set at Culture Cafe on Thu 8 Oct, Bangkok. 1 act on the bill: DJ Krit Morton. Techno and Minimal. Preview the line-up and save it on soundcheck.
+The bangkok Techno Collaboration presents; NO.EARS: Strictly Vinyl Set at Culture Cafe on Thu 8 Oct, Bangkok. 1 artist on the bill: DJ Krit Morton. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

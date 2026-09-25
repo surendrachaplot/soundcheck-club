@@ -1,6 +1,6 @@
 # KC [Pureblast (all night long) • +TBA] at Karmen Camina
 
-KC [Pureblast (all night long) • +TBA] at Karmen Camina on Sat 3 Oct, Strasbourg. 1 act on the bill: Pureblast. Techno and House. Preview the line-up and save it on soundcheck.
+KC [Pureblast (all night long) • +TBA] at Karmen Camina on Sat 3 Oct, Strasbourg. 1 artist on the bill: Pureblast. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

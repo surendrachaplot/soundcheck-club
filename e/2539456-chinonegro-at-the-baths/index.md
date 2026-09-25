@@ -1,6 +1,6 @@
 # Chinonegro at THE BATHS
 
-Chinonegro at THE BATHS on Fri 2 Oct, Austin. 1 act on the bill: Chinonegro. Tech House. Preview the line-up and save it on soundcheck.
+Chinonegro at THE BATHS on Fri 2 Oct, Austin. 1 artist on the bill: Chinonegro. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

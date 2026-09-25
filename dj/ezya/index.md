@@ -2,7 +2,7 @@
 
 Ezya is a Reggaeton and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Foro Ying, Mexico City on Sat, 31 Oct 2026.
 
-Ezya is a reggaeton and neo perreo artist based in Mexico, tracked on soundcheck, with 30 sets logged across Mexicocity. Often billed alongside Mensik, fka phaedra and Deenia. Next up: TBA - Foro Ying, Mexicocity on Sat 31 Oct.
+Ezya is a reggaeton and neo perreo artist based in Mexico, tracked on soundcheck, with 30 sets logged across Mexico City. Often billed alongside Mensik, fka phaedra and Deenia. Next up: TBA - Foro Ying, Mexico City on Sat 31 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # SUBSTANCE at BASIS
 
-SUBSTANCE at BASIS on Sat 7 Nov, Utrecht. 1 act on the bill: JF.HECTOR. Club and Electronica. Preview the line-up and save it on soundcheck.
+SUBSTANCE at BASIS on Sat 7 Nov, Utrecht. 1 artist on the bill: JF.HECTOR. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

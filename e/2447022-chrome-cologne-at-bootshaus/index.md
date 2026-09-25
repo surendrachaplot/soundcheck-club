@@ -1,6 +1,6 @@
 # CHROME COLOGNE at Bootshaus
 
-CHROME COLOGNE at Bootshaus on Fri 9 Oct, Cologne. 1 act on the bill: OGUZ. Preview the line-up and save it on soundcheck.
+CHROME COLOGNE at Bootshaus on Fri 9 Oct, Cologne. 1 artist on the bill: OGUZ. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rey&Kjavik live at Gretchen
 
-Rey&Kjavik live at Gretchen on Sat 7 Nov, Berlin. 1 act on the bill: Rey&Kjavik. Preview the line-up and save it on soundcheck.
+Rey&Kjavik live at Gretchen on Sat 7 Nov, Berlin. 1 artist on the bill: Rey&Kjavik. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

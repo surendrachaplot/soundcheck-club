@@ -1,6 +1,6 @@
 # BEYOND THE STARDUST at The Flea Theater
 
-BEYOND THE STARDUST at The Flea Theater on Sun 27 Sept, Newyorkcity. 1 act on the bill: The Illustrious Blacks. House and Disco. Preview the line-up and save it on soundcheck.
+BEYOND THE STARDUST at The Flea Theater on Sun 27 Sept, New York City. 1 artist on the bill: The Illustrious Blacks. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

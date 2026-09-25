@@ -1,6 +1,6 @@
 # Madota, Manumat at Lion's Den
 
-Madota, Manumat at Lion's Den on Sat 26 Sept, Miami. 2 acts on the bill: Madota and Manumat. Preview the line-up and save it on soundcheck.
+Madota, Manumat at Lion's Den on Sat 26 Sept, Miami. 2 artists on the bill: Madota and Manumat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

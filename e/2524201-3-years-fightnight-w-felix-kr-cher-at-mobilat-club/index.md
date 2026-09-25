@@ -1,6 +1,6 @@
 # 3 YEARS FIGHTNIGHT W/ Felix Kröcher at Mobilat Club
 
-3 YEARS FIGHTNIGHT W/ Felix Kröcher at Mobilat Club on Sat 3 Oct, Stuttgart. 1 act on the bill: Felix Kröcher. Techno. Preview the line-up and save it on soundcheck.
+3 YEARS FIGHTNIGHT W/ Felix Kröcher at Mobilat Club on Sat 3 Oct, Stuttgart. 1 artist on the bill: Felix Kröcher. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

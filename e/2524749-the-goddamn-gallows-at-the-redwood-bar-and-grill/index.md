@@ -1,6 +1,6 @@
 # the Goddamn Gallows at The Redwood Bar And Grill
 
-the Goddamn Gallows at The Redwood Bar And Grill on Thu 19 Nov, Losangeles. Preview the line-up and save it on soundcheck.
+the Goddamn Gallows at The Redwood Bar And Grill on Thu 19 Nov, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Jack Mulqueen is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Outer Heaven, New York City on Fri, 2 Oct 2026.
 
-Jack Mulqueen is a house and techno artist based in United States of America, tracked on soundcheck, with 61 sets logged across Newyorkcity. Often billed alongside Choukroun, Rana Iravani and Armii1n. Next up: Outer Heaven, Newyorkcity on Fri 2 Oct.
+Jack Mulqueen is a house and techno artist based in United States of America, tracked on soundcheck, with 61 sets logged across New York City. Often billed alongside Choukroun, Rana Iravani and Armii1n. Next up: Outer Heaven, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 

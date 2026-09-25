@@ -1,6 +1,6 @@
 # FRIDAY CHUSEOK HARD TECHNO / HARDSTYLE / HARDCORE night at Luka
 
-FRIDAY CHUSEOK HARD TECHNO / HARDSTYLE / HARDCORE night at Luka on Fri 25 Sept, Seoul. 8 acts on the bill: BASSKRAP, D.E.F, Eastel and LYOM and 4 more. Techno and Gabber. Preview the line-up and save it on soundcheck.
+FRIDAY CHUSEOK HARD TECHNO / HARDSTYLE / HARDCORE night at Luka on Fri 25 Sept, Seoul. 8 artists on the bill: BASSKRAP, D.E.F, Eastel and LYOM and 4 more. Techno and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

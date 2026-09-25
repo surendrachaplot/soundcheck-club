@@ -1,6 +1,6 @@
 # Worakls at Ritter Butzke
 
-Worakls at Ritter Butzke on Fri 20 Nov, Berlin. 1 act on the bill: Worakls. Techno. Preview the line-up and save it on soundcheck.
+Worakls at Ritter Butzke on Fri 20 Nov, Berlin. 1 artist on the bill: Worakls. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

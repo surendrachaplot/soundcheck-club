@@ -1,6 +1,6 @@
 # Sunday Bliss: Elephantglasses, KATA, Blvck Truffle at Jupiter Disco
 
-Sunday Bliss: Elephantglasses, KATA, Blvck Truffle at Jupiter Disco on Sun 4 Oct, Newyorkcity. 3 acts on the bill: /KATA/, Blvck Truffle and Elephantglasses. Preview the line-up and save it on soundcheck.
+Sunday Bliss: Elephantglasses, KATA, Blvck Truffle at Jupiter Disco on Sun 4 Oct, New York City. 3 artists on the bill: /KATA/, Blvck Truffle and Elephantglasses. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

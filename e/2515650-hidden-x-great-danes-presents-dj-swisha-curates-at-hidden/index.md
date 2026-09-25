@@ -1,6 +1,6 @@
 # Hidden x Great Danes presents DJ SWISHA Curates at Hidden
 
-Hidden x Great Danes presents DJ SWISHA Curates on Fri 23 Oct, Manchester. 6 acts on the bill: CONE (2), DJ SWISHA, Kush Jones and Lucian (UK) and 2 more. Footwork and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Hidden x Great Danes presents DJ SWISHA Curates on Fri 23 Oct, Manchester. 6 artists on the bill: CONE, DJ SWISHA, Kush Jones and Lucian (UK) and 2 more. Footwork and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

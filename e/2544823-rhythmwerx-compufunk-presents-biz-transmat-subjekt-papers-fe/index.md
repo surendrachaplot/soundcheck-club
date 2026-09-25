@@ -1,6 +1,6 @@
 # Rhythmwerx × Compufunk presents Biz(Transmat/SUBJEKT) & Papers(Fever AM,Brothers/Sisters) at Compufunk Records
 
-Rhythmwerx × Compufunk presents Biz(Transmat/SUBJEKT) & Papers(Fever AM,Brothers/Sisters) at Compufunk Records on Fri 16 Oct, Osaka. 4 acts on the bill: Biz (AU), DJ Compufunk, Papers and Will A. Techno and House. Preview the line-up and save it on soundcheck.
+Rhythmwerx × Compufunk presents Biz(Transmat/SUBJEKT) & Papers(Fever AM,Brothers/Sisters) at Compufunk Records on Fri 16 Oct, Osaka. 4 artists on the bill: Biz (AU), DJ Compufunk, Papers and Will A. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

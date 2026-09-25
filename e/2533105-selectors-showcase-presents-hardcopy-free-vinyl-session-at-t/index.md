@@ -1,6 +1,6 @@
 # Selectors Showcase presents Hardcopy! free vinyl session at The Elmhurst
 
-Selectors Showcase presents Hardcopy! free vinyl session at The Elmhurst on Sat 26 Sept, London. 1 act on the bill: Neil Thornton. Dub and Funk / Soul. Preview the line-up and save it on soundcheck.
+Selectors Showcase presents Hardcopy! free vinyl session at The Elmhurst on Sat 26 Sept, London. 1 artist on the bill: Neil Thornton. Dub and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

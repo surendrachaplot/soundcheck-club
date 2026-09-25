@@ -1,6 +1,6 @@
 # Nahko and Medicine for the People 'HOKA' 10th Anniversary Tour at The Great Northern
 
-Nahko and Medicine for the People 'HOKA' 10th Anniversary Tour at The Great Northern on Wed 21 Oct, Sanfrancisco. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Nahko and Medicine for the People 'HOKA' 10th Anniversary Tour at The Great Northern on Wed 21 Oct, San Francisco/Oakland. Pop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

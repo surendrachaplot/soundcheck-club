@@ -1,6 +1,6 @@
 # Ramiro Puente, Villaseñor, Enya Botello at Bar Oriente
 
-Ramiro Puente, Villaseñor, Enya Botello at Bar Oriente on Fri 25 Sept, Mexicocity. 3 acts on the bill: Enya Botello, Ramiro Puente and Villaseñor. Techno. Preview the line-up and save it on soundcheck.
+Ramiro Puente, Villaseñor, Enya Botello at Bar Oriente on Fri 25 Sept, Mexico City. 3 artists on the bill: Enya Botello, Ramiro Puente and Villaseñor. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

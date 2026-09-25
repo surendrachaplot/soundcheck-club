@@ -2,7 +2,7 @@
 
 Outermost is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Astron Club, Athens on Sat, 3 Oct 2026.
 
-Outermost is a techno artist based in Greece, tracked on soundcheck, with 7 sets logged across Athens. Often billed alongside Devika, Katra and Cyber (3). Next up: Astron Club, Athens on Sat 3 Oct.
+Outermost is a techno artist based in Greece, tracked on soundcheck, with 7 sets logged across Athens. Often billed alongside Devika, Katra and Cyber. Next up: Astron Club, Athens on Sat 3 Oct.
 
 ## Upcoming shows
 

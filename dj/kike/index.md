@@ -2,7 +2,7 @@
 
 ki:ke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Rei Bar, Berlin on Sat, 26 Sept 2026.
 
-ki:ke is a house and techno artist based in Spain, tracked on soundcheck, with 55 sets logged across Barcelona, Berlin, Ibiza and London. Often billed alongside GRETA (2), Demofather and Sergi (ES). Next up: Rei Bar, Berlin on Sat 26 Sept.
+ki:ke is a house and techno artist based in Spain, tracked on soundcheck, with 55 sets logged across Barcelona, Berlin, Ibiza and London. Often billed alongside GRETA, Demofather and Sergi (ES). Next up: Rei Bar, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 

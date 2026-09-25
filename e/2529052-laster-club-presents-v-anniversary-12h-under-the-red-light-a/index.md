@@ -1,6 +1,6 @@
 # Laster Club presents V ANNIVERSARY / 12H UNDER THE RED LIGHT AGAIN at The Bassement
 
-Laster Club presents V ANNIVERSARY / 12H UNDER THE RED LIGHT AGAIN at The Bassement on Sat 7 Nov, Madrid. 7 acts on the bill: Alarico, Blasha & Allatt, Chami and Connor Wall and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Laster Club presents V ANNIVERSARY / 12H UNDER THE RED LIGHT AGAIN at The Bassement on Sat 7 Nov, Madrid. 7 artists on the bill: Alarico, Blasha & Allatt, Chami and Connor Wall and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

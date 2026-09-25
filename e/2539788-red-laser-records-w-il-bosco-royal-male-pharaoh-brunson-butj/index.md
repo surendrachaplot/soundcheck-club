@@ -1,6 +1,6 @@
 # Red Laser Records w/ Il Bosco, Royal Male, Pharaoh Brunson, Butjer at Golden Pudel Club
 
-Red Laser Records w/ Il Bosco, Royal Male, Pharaoh Brunson, Butjer at Golden Pudel Club on Sun 27 Sept, Hamburg. 2 acts on the bill: Pharaoh Brunson and Royal Male. Preview the line-up and save it on soundcheck.
+Red Laser Records w/ Il Bosco, Royal Male, Pharaoh Brunson, Butjer at Golden Pudel Club on Sun 27 Sept, Hamburg. 2 artists on the bill: Pharaoh Brunson and Royal Male. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

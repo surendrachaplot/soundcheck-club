@@ -1,6 +1,6 @@
 # PURSE with Jaw Jones / Kai / Julia Dickens at Bambi's
 
-PURSE with Jaw Jones / Kai / Julia Dickens at Bambi's on Fri 16 Oct, Toronto. 3 acts on the bill: Jaw Jones, Julia Dickens and Kai (TO). Techno and Acid. Preview the line-up and save it on soundcheck.
+PURSE with Jaw Jones / Kai / Julia Dickens at Bambi's on Fri 16 Oct, Toronto. 3 artists on the bill: Jaw Jones, Julia Dickens and Kai (TO). Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

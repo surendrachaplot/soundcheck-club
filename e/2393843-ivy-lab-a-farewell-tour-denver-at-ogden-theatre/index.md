@@ -1,6 +1,6 @@
 # Ivy Lab: A Farewell Tour (Denver) at Ogden Theatre
 
-Ivy Lab: A Farewell Tour (Denver) at Ogden Theatre on Fri 25 Sept, Denver. 1 act on the bill: Ivy Lab. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Ivy Lab: A Farewell Tour (Denver) at Ogden Theatre on Fri 25 Sept, Denver. 1 artist on the bill: Ivy Lab. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

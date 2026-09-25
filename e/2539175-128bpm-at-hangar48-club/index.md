@@ -1,6 +1,6 @@
 # 128BPM at Hangar48 Club
 
-128BPM at Hangar48 Club on Fri 25 Sept, Madrid. 1 act on the bill: Shaggs. Tech House. Preview the line-up and save it on soundcheck.
+128BPM at Hangar48 Club on Fri 25 Sept, Madrid. 1 artist on the bill: Shaggs. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

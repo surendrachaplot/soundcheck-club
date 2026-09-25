@@ -1,6 +1,6 @@
 # Kunsthal Charlottenborg Season Opening at Kunsthal Charlottenborg
 
-Kunsthal Charlottenborg Season Opening on Fri 25 Sept, Copenhagen. 2 acts on the bill: Atusa and Mads Axelsen. Preview the line-up and save it on soundcheck.
+Kunsthal Charlottenborg Season Opening on Fri 25 Sept, Copenhagen. 2 artists on the bill: Atusa and Mads Axelsen. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

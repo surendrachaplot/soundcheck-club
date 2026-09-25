@@ -2,7 +2,7 @@
 
 Dalston Den is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sam Polks presents: Dancing Through The Night" on Thu, 24 Sept 2026.
 
-Dalston Den is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Agility, Blake (2), Bryn Brax and Dimanté and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
+Dalston Den is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Agility, Blake, Bryn Brax and Dimanté and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
 
 ## What's on
 

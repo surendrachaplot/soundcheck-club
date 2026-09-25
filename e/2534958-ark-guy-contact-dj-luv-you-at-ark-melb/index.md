@@ -1,6 +1,6 @@
 # ark // Guy Contact - DJ Luv You at ark (Melb)
 
-ark // Guy Contact - DJ Luv You at ark (Melb) on Sat 31 Oct, Melbourne. 2 acts on the bill: DJ Luv You and Guy Contact. Progressive House and House. Preview the line-up and save it on soundcheck.
+ark // Guy Contact - DJ Luv You at ark (Melb) on Sat 31 Oct, Melbourne. 2 artists on the bill: DJ Luv You and Guy Contact. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

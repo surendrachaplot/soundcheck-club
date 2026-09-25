@@ -1,6 +1,6 @@
 # Tinzo & Jojo - DJ Lady D at smartbar
 
-Tinzo & Jojo - DJ Lady D at smartbar on Fri 6 Nov, Chicago. 3 acts on the bill: DJ Lady D, Jojo Lorenzo and Tinzo. House and Afro House. Preview the line-up and save it on soundcheck.
+Tinzo & Jojo - DJ Lady D at smartbar on Fri 6 Nov, Chicago. 3 artists on the bill: DJ Lady D, Jojo Lorenzo and Tinzo. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

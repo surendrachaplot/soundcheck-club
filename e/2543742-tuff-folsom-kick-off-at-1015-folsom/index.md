@@ -1,6 +1,6 @@
 # TUFF FOLSOM KICK OFF at 1015 Folsom
 
-TUFF FOLSOM KICK OFF at 1015 Folsom on Thu 24 Sept, Sanfrancisco. 2 acts on the bill: Danny Lethal and Luis M.. Techno and House. Preview the line-up and save it on soundcheck.
+TUFF FOLSOM KICK OFF at 1015 Folsom on Thu 24 Sept, San Francisco/Oakland. 2 artists on the bill: Danny Lethal and Luis M.. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

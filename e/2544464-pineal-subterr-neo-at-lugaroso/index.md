@@ -1,6 +1,6 @@
 # PINEAL — SUBTERRÁNEO at LugarOSO
 
-PINEAL — SUBTERRÁNEO at LugarOSO on Sat 17 Oct, Mexicocity. 2 acts on the bill: Jonathan Jou and José Trejo. Minimal and Dub Techno. Preview the line-up and save it on soundcheck.
+PINEAL — SUBTERRÁNEO at LugarOSO on Sat 17 Oct, Mexico City. 2 artists on the bill: Jonathan Jou and José Trejo. Minimal and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

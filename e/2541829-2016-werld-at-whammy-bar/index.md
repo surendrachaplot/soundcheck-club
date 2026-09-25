@@ -1,6 +1,6 @@
 # 2016 Werld at Whammy Bar
 
-2016 Werld at Whammy Bar on Fri 25 Sept, Auckland. 1 act on the bill: LERM. Club. Preview the line-up and save it on soundcheck.
+2016 Werld at Whammy Bar on Fri 25 Sept, Auckland. 1 artist on the bill: LERM. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

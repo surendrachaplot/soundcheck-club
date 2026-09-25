@@ -1,6 +1,6 @@
 # Kik0ween at Colour Factory
 
-Kik0ween at Colour Factory on Fri 23 Oct, London. 4 acts on the bill: Baptist (UK), DJ KIK0, flippedcrosses and Joutema. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Kik0ween at Colour Factory on Fri 23 Oct, London. 4 artists on the bill: Baptist (UK), DJ KIK0, flippedcrosses and Joutema. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

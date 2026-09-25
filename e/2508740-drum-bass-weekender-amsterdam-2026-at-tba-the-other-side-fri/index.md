@@ -1,6 +1,6 @@
 # Drum & Bass Weekender Amsterdam 2026 at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday)
 
-Drum & Bass Weekender Amsterdam 2026 at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) on Fri 20 Nov, Amsterdam. 26 acts on the bill: A-Sides, A.M.C., b-line and BassLayerz and 22 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Drum & Bass Weekender Amsterdam 2026 at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) on Fri 20 Nov, Amsterdam. 26 artists on the bill: A-Sides, A.M.C., b-line and BassLayerz and 22 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

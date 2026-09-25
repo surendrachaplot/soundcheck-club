@@ -1,6 +1,6 @@
 # The Egyptian Lover & FREAKENSTEIN - REC. x Hidden at Hidden
 
-The Egyptian Lover & FREAKENSTEIN - REC. x Hidden on Fri 25 Sept, Manchester. 3 acts on the bill: Egyptian Lover, FREAKENSTEIN and Rhod Parry. Electro. Preview the line-up and save it on soundcheck.
+The Egyptian Lover & FREAKENSTEIN - REC. x Hidden on Fri 25 Sept, Manchester. 3 artists on the bill: Egyptian Lover, FREAKENSTEIN and Rhod Parry. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Paal Closing at Paal69
 
-Paal Closing at Paal69 on Sat 26 Sept, Amsterdam. 5 acts on the bill: Alexander Koning, Lucien Foort, Marcello (2) and ROOG and 1 more. House and Acid. Preview the line-up and save it on soundcheck.
+Paal Closing at Paal69 on Sat 26 Sept, Amsterdam. 5 artists on the bill: Alexander Koning, Lucien Foort, Marcello and ROOG and 1 more. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

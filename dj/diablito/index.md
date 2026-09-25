@@ -2,7 +2,7 @@
 
 Diablito is a Neo Perreo and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Que Sera, Los Angeles on Sat, 3 Oct 2026.
 
-Diablito is a neo perreo and club artist based in United States of America, tracked on soundcheck, with 32 sets logged across Losangeles, Sanfrancisco and Seattle. Often billed alongside DINABN, BL4ZE and T3KNO. Next up: Que Sera, Losangeles on Sat 3 Oct.
+Diablito is a neo perreo and club artist based in United States of America, tracked on soundcheck, with 32 sets logged across Los Angeles, San Francisco/Oakland and Seattle. Often billed alongside DINABN, BL4ZE and T3KNO. Next up: Que Sera, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 

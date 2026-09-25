@@ -1,6 +1,6 @@
 # Fingers Crossed: Shroom Shroom at Honey Street Studio
 
-Fingers Crossed: Shroom Shroom at Honey Street Studio on Sat 14 Nov, Manchester. 7 acts on the bill: Club Penguin, Ethan A., GayBoy and JAMS (UK) and 3 more. House and Acid. Preview the line-up and save it on soundcheck.
+Fingers Crossed: Shroom Shroom at Honey Street Studio on Sat 14 Nov, Manchester. 7 artists on the bill: Club Penguin, Ethan A., GayBoy and JAMS (UK) and 3 more. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

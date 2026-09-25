@@ -1,6 +1,6 @@
 # Tortilla with Depaart (all day long) at High Club Room
 
-Tortilla with Depaart (all day long) at High Club Room on Sat 26 Sept, Madrid. 1 act on the bill: Depaart. House and Electronica. Preview the line-up and save it on soundcheck.
+Tortilla with Depaart (all day long) at High Club Room on Sat 26 Sept, Madrid. 1 artist on the bill: Depaart. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

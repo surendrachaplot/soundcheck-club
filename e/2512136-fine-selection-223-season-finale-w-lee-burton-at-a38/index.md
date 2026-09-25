@@ -1,6 +1,6 @@
 # Fine Selection #223 - Season Finale w/Lee Burton at A38
 
-Fine Selection #223 - Season Finale w/Lee Burton at A38 on Thu 1 Oct, Budapest. 4 acts on the bill: Electric Boutique, Lee Burton, Lost in Details and Rolo (3). House and Deep House. Preview the line-up and save it on soundcheck.
+Fine Selection #223 - Season Finale w/Lee Burton at A38 on Thu 1 Oct, Budapest. 4 artists on the bill: Electric Boutique, Lee Burton, Lost in Details and Rolo. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

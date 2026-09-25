@@ -2,7 +2,7 @@
 
 DJ Primo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Système, Montreal on Fri, 23 Oct 2026.
 
-DJ Primo is a house and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Losangeles, Montreal, Newyorkcity and Sanfrancisco. Often billed alongside Shvili, Max Sprauer and Kiyoshi. Next up: Système, Montreal on Fri 23 Oct.
+DJ Primo is a house and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Los Angeles, Montreal, New York City and San Francisco/Oakland. Often billed alongside Shvili, Max Sprauer and Kiyoshi. Next up: Système, Montreal on Fri 23 Oct.
 
 ## Upcoming shows
 

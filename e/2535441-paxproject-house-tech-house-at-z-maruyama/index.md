@@ -1,6 +1,6 @@
 # PAXPROJECT (HOUSE/TECH HOUSE) at Z Maruyama
 
-PAXPROJECT (HOUSE/TECH HOUSE) at Z Maruyama on Fri 2 Oct, Tokyo. 2 acts on the bill: ALEXANDER M and Sunga. House and Tech House. Preview the line-up and save it on soundcheck.
+PAXPROJECT (HOUSE/TECH HOUSE) at Z Maruyama on Fri 2 Oct, Tokyo. 2 artists on the bill: ALEXANDER M and Sunga. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

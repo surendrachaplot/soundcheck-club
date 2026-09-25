@@ -1,6 +1,6 @@
 # NODE (TECHNO) at Z Maruyama
 
-NODE (TECHNO) at Z Maruyama on Sat 3 Oct, Tokyo. 3 acts on the bill: DJ Shufflemaster, DJ Sodeyama and Nobuharu Morimoto. Techno. Preview the line-up and save it on soundcheck.
+NODE (TECHNO) at Z Maruyama on Sat 3 Oct, Tokyo. 3 artists on the bill: DJ Shufflemaster, DJ Sodeyama and Nobuharu Morimoto. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

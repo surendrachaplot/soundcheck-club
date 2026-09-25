@@ -1,6 +1,6 @@
 # Gloeilamp at De Fik Garden
 
-Gloeilamp at De Fik Garden on Fri 25 Sept, Amsterdam. 1 act on the bill: Vall Du Son. Trance and Techno. Preview the line-up and save it on soundcheck.
+Gloeilamp at De Fik Garden on Fri 25 Sept, Amsterdam. 1 artist on the bill: Vall Du Son. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

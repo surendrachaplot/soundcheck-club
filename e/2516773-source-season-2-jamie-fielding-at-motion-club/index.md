@@ -1,6 +1,6 @@
 # Source Season 2 // Jamie Fielding at Motion Club
 
-Source Season 2 // Jamie Fielding at Motion Club on Fri 2 Oct, Aberdeen. 1 act on the bill: Jamie Fielding. Preview the line-up and save it on soundcheck.
+Source Season 2 // Jamie Fielding at Motion Club on Fri 2 Oct, Aberdeen. 1 artist on the bill: Jamie Fielding. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

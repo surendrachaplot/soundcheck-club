@@ -1,6 +1,6 @@
 # Whipped #6 with Alarico at Den Anden Side
 
-Whipped #6 with Alarico at Den Anden Side on Fri 25 Sept, Copenhagen. 4 acts on the bill: Alarico, Holtz (2), Johannes Astrup and Shaan (2). Techno. Preview the line-up and save it on soundcheck.
+Whipped #6 with Alarico at Den Anden Side on Fri 25 Sept, Copenhagen. 4 artists on the bill: Alarico, Holtz, Johannes Astrup and Shaan. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

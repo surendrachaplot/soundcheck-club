@@ -1,6 +1,6 @@
 # bitbird presents: San Holo & DROELOE - ADE at Melkweg
 
-bitbird presents: San Holo & DROELOE - ADE at Melkweg on Wed 21 Oct, Amsterdam. 1 act on the bill: San Holo. Preview the line-up and save it on soundcheck.
+bitbird presents: San Holo & DROELOE - ADE at Melkweg on Wed 21 Oct, Amsterdam. 1 artist on the bill: San Holo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

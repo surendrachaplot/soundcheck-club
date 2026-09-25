@@ -1,6 +1,6 @@
 # Monstercat x Ophelia - ADE at Melkweg
 
-Monstercat x Ophelia - ADE at Melkweg on Thu 22 Oct, Amsterdam. 3 acts on the bill: Gammer, PIRAPUS and Seven Lions. Preview the line-up and save it on soundcheck.
+Monstercat x Ophelia - ADE at Melkweg on Thu 22 Oct, Amsterdam. 3 artists on the bill: Gammer, PIRAPUS and Seven Lions. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

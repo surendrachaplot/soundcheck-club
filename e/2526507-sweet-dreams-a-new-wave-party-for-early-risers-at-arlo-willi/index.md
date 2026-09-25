@@ -1,6 +1,6 @@
 # SWEET DREAMS: A NEW WAVE PARTY FOR EARLY RISERS at Arlo Williamsburg
 
-SWEET DREAMS: A NEW WAVE PARTY FOR EARLY RISERS at Arlo Williamsburg on Sat 10 Oct, Newyorkcity. Funk / Soul and New Wave. Preview the line-up and save it on soundcheck.
+SWEET DREAMS: A NEW WAVE PARTY FOR EARLY RISERS at Arlo Williamsburg on Sat 10 Oct, New York City. Funk / Soul and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

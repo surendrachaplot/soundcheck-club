@@ -1,6 +1,6 @@
 # Palais x Nous'klaer Audio: Andy Garvey, Daisy Moon & Mattias El Mansouri b2b Oberman at Palais
 
-Palais x Nous'klaer Audio: Andy Garvey, Daisy Moon & Mattias El Mansouri b2b Oberman on Sat 3 Oct, London. 4 acts on the bill: Andy Garvey, Daisy Moon, Mattias El Mansouri and Oberman. Preview the line-up and save it on soundcheck.
+Palais x Nous'klaer Audio: Andy Garvey, Daisy Moon & Mattias El Mansouri b2b Oberman on Sat 3 Oct, London. 4 artists on the bill: Andy Garvey, Daisy Moon, Mattias El Mansouri and Oberman. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

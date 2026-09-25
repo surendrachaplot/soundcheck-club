@@ -1,6 +1,6 @@
 # Vault Sessions x Key Vinyl ADE CLOSING at RADION
 
-Vault Sessions x Key Vinyl ADE CLOSING at RADION on Sun 25 Oct, Amsterdam. 8 acts on the bill: Alarico, FENIM0RE, Freddy K and Grace Dahl and 4 more. Techno. Preview the line-up and save it on soundcheck.
+Vault Sessions x Key Vinyl ADE CLOSING at RADION on Sun 25 Oct, Amsterdam. 8 artists on the bill: Alarico, FENIM0RE, Freddy K and Grace Dahl and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

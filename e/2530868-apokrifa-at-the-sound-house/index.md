@@ -1,6 +1,6 @@
 # APOKRIFA at The Sound House
 
-APOKRIFA at The Sound House on Fri 25 Sept, Dublin. 2 acts on the bill: Sémaé and Seqta. Trance. Preview the line-up and save it on soundcheck.
+APOKRIFA at The Sound House on Fri 25 Sept, Dublin. 2 artists on the bill: Sémaé and Seqta. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ballroom at Palais: SISU at Ballroom at Palais
 
-Ballroom at Palais: SISU on Fri 25 Sept, London. 5 acts on the bill: Chickie, HOLY C, Jezebelle and Molly Penney and 1 more. Preview the line-up and save it on soundcheck.
+Ballroom at Palais: SISU on Fri 25 Sept, London. 5 artists on the bill: Chickie, HOLY C, Jezebelle and Molly Penney and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

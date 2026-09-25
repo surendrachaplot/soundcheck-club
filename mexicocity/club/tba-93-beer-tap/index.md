@@ -2,7 +2,7 @@
 
 TBA - 93 BEER TAP is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "EPOČH PRESENTS Sakro" on Sat, 26 Sept 2026.
 
-TBA - 93 BEER TAP is a music venue in Mexicocity listed on soundcheck. 1 upcoming gig, with line-ups including Quiñonez and Sakro. Browse upcoming dates, start times and who's playing.
+TBA - 93 BEER TAP is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Quiñonez and Sakro. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

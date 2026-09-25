@@ -1,6 +1,6 @@
 # House Homies: Alain Hellion (Open To Close) at Terraza Catedral
 
-House Homies: Alain Hellion (Open To Close) at Terraza Catedral on Sat 26 Sept, Mexicocity. 1 act on the bill: Alain Hellion. House and Minimal. Preview the line-up and save it on soundcheck.
+House Homies: Alain Hellion (Open To Close) at Terraza Catedral on Sat 26 Sept, Mexico City. 1 artist on the bill: Alain Hellion. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

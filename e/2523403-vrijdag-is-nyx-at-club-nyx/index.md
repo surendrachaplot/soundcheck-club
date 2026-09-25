@@ -1,6 +1,6 @@
 # Vrijdag is NYX at Club NYX
 
-Vrijdag is NYX at Club NYX on Fri 25 Sept, Amsterdam. 1 act on the bill: Turne. House and R&B. Preview the line-up and save it on soundcheck.
+Vrijdag is NYX at Club NYX on Fri 25 Sept, Amsterdam. 1 artist on the bill: Turne. House and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

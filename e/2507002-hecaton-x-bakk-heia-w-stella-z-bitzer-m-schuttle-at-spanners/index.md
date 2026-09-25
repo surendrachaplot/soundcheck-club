@@ -1,6 +1,6 @@
 # Hecaton x Bakk Heia w/ Stella Z, Bitzer M, Schuttle at Spanners
 
-Hecaton x Bakk Heia w/ Stella Z, Bitzer M, Schuttle at Spanners on Sat 26 Sept, London. 3 acts on the bill: Bitzer Maloney, Schuttle and Stella Z. Progressive House and Acid. Preview the line-up and save it on soundcheck.
+Hecaton x Bakk Heia w/ Stella Z, Bitzer M, Schuttle at Spanners on Sat 26 Sept, London. 3 artists on the bill: Bitzer Maloney, Schuttle and Stella Z. Progressive House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

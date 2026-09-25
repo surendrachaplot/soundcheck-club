@@ -1,6 +1,6 @@
 # Flora Yin-Wong + Jasmine Wood + Grey Streak + Bobby Ingham + LD b2b Roscoe Fox at Quarry
 
-Flora Yin-Wong + Jasmine Wood + Grey Streak + Bobby Ingham + LD b2b Roscoe Fox at Quarry on Fri 9 Oct, Liverpool. 3 acts on the bill: Flora Yin-Wong, Grey Streak and Roscoe Fox. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Flora Yin-Wong + Jasmine Wood + Grey Streak + Bobby Ingham + LD b2b Roscoe Fox at Quarry on Fri 9 Oct, Liverpool. 3 artists on the bill: Flora Yin-Wong, Grey Streak and Roscoe Fox. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

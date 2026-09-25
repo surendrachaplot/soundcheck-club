@@ -2,7 +2,7 @@
 
 DJ Tracksuit is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Doka, Amsterdam on Sat, 26 Sept 2026.
 
-DJ Tracksuit is a house and disco artist based in Belgium, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Berlin and Ghent and 7 more. Often billed alongside Shady Lady, EG (1) and Abiba Sokoto. Next up: Doka, Amsterdam on Sat 26 Sept.
+DJ Tracksuit is a house and disco artist based in Belgium, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Berlin and Ghent and 7 more. Often billed alongside Shady Lady, EG and Abiba Sokoto. Next up: Doka, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 

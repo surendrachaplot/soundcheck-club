@@ -1,6 +1,6 @@
 # UVB-76 x EXIT Glasgow [DNB / Jungle] at EXIT Glasgow
 
-UVB-76 x EXIT Glasgow [DNB / Jungle] on Sat 26 Sept, Glasgow. 2 acts on the bill: Gremlinz and Overlook. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+UVB-76 x EXIT Glasgow [DNB / Jungle] on Sat 26 Sept, Glasgow. 2 artists on the bill: Gremlinz and Overlook. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

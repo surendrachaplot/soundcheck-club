@@ -1,6 +1,6 @@
 # AGA Baddies at Golden Gate
 
-AGA Baddies at Golden Gate on Fri 25 Sept, Berlin. 4 acts on the bill: babxi, Daya Pruna, Do you know Juno and Red Pig Flower. Preview the line-up and save it on soundcheck.
+AGA Baddies at Golden Gate on Fri 25 Sept, Berlin. 4 artists on the bill: babxi, Daya Pruna, Do you know Juno and Red Pig Flower. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Ivy Oh is a EBM and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TV EYE, New York City on Sat, 26 Sept 2026.
 
-Ivy Oh is an ebm and post-punk artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity and Philadelphia. Often billed alongside Brad Scott, DJ Baby Berlin and Mofongo Massacre. Next up: TV EYE, Newyorkcity on Sat 26 Sept.
+Ivy Oh is an ebm and post-punk artist based in United States of America, tracked on soundcheck, with 24 sets logged across New York City and Philadelphia. Often billed alongside Brad Scott, DJ Baby Berlin and Mofongo Massacre. Next up: TV EYE, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 

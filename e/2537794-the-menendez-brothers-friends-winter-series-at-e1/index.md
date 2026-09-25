@@ -1,6 +1,6 @@
 # The Menendez Brothers & Friends: Winter Series at E1
 
-The Menendez Brothers & Friends: Winter Series at E1 on Sat 17 Oct, London. 1 act on the bill: The Menendez Brothers. House and Tech House. Preview the line-up and save it on soundcheck.
+The Menendez Brothers & Friends: Winter Series at E1 on Sat 17 Oct, London. 1 artist on the bill: The Menendez Brothers. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

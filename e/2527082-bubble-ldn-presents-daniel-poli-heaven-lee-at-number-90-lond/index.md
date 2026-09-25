@@ -1,6 +1,6 @@
 # bubble.ldn presents Daniel Poli & Heaven Lee at NUMBER 90 LONDON
 
-bubble.ldn presents Daniel Poli & Heaven Lee at NUMBER 90 LONDON on Sat 24 Oct, London. 3 acts on the bill: Daniel Poli, HEAVEN-LEE and Jake Hodgkinson. Tech House. Preview the line-up and save it on soundcheck.
+bubble.ldn presents Daniel Poli & Heaven Lee at NUMBER 90 LONDON on Sat 24 Oct, London. 3 artists on the bill: Daniel Poli, HEAVEN-LEE and Jake Hodgkinson. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LA RIPOSTE: DRUSBĂ - ACT II at La Gare / Le Gore
 
-LA RIPOSTE: DRUSBĂ - ACT II at La Gare / Le Gore on Sat 26 Sept, Paris. 3 acts on the bill: Amelia Leigh, Shfoosja and TILDA (2). Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+LA RIPOSTE: DRUSBĂ - ACT II at La Gare / Le Gore on Sat 26 Sept, Paris. 3 artists on the bill: Amelia Leigh, Shfoosja and TILDA. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

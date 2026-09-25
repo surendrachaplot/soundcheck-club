@@ -2,7 +2,7 @@
 
 Le Bain is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "SAUCED RADIO X Le Bain" on Thu, 24 Sept 2026.
 
-Le Bain is a music venue in Newyorkcity listed on soundcheck. 8 upcoming gigs, with line-ups including AceMo, Ash (14), boyyyish and Colleen 'Cosmo' Murphy and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
+Le Bain is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including AceMo, Ash, boyyyish and Colleen 'Cosmo' Murphy and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
 
 ## What's on
 

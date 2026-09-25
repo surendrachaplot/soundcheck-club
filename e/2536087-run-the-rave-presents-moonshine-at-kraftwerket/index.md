@@ -1,6 +1,6 @@
 # RUN THE RAVE presents: Moonshine at Kraftwerket
 
-RUN THE RAVE presents: Moonshine at Kraftwerket on Fri 2 Oct, Copenhagen. 2 acts on the bill: Dwonji and HDN (DK). Drum & Bass. Preview the line-up and save it on soundcheck.
+RUN THE RAVE presents: Moonshine at Kraftwerket on Fri 2 Oct, Copenhagen. 2 artists on the bill: Dwonji and HDN (DK). Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

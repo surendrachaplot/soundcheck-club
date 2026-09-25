@@ -1,6 +1,6 @@
 # BLUR with Sara Dziri, Maara, Sansibar & Lefto Early Bird, Marco Weibel at UMI
 
-BLUR with Sara Dziri, Maara, Sansibar & Lefto Early Bird, Marco Weibel at UMI on Sat 17 Oct, Brussels. 5 acts on the bill: Lefto Early Bird, Maara, Marco Weibel and Sansibar and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+BLUR with Sara Dziri, Maara, Sansibar & Lefto Early Bird, Marco Weibel at UMI on Sat 17 Oct, Brussels. 5 artists on the bill: Lefto Early Bird, Maara, Marco Weibel and Sansibar and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

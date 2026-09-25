@@ -2,7 +2,7 @@
 
 Haruka (US) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mood Ring, New York City on Fri, 25 Sept 2026.
 
-Haruka (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across Chicago, Newyorkcity and Tokyo. Often billed alongside 4AM NYC, 7e and Akua. Next up: Mood Ring, Newyorkcity on Fri 25 Sept.
+Haruka (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across Chicago, New York City and Tokyo. Often billed alongside 4AM NYC, 7e and Akua. Next up: Mood Ring, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

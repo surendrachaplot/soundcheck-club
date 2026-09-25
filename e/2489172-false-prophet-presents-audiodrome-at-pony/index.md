@@ -1,6 +1,6 @@
 # False Prophet presents Audiodrome at Pony
 
-False Prophet presents Audiodrome at Pony on Sat 12 Dec, Seattle. 2 acts on the bill: Kadeejah Streets and Sharlese. Italo Disco and Post-Punk. Preview the line-up and save it on soundcheck.
+False Prophet presents Audiodrome at Pony on Sat 12 Dec, Seattle. 2 artists on the bill: Kadeejah Streets and Sharlese. Italo Disco and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NO FORMULA: Takeover Planet Wax at Planet Wax
 
-NO FORMULA: Takeover Planet Wax on Sat 26 Sept, London. 3 acts on the bill: Freeza Chin, Jayemkayem and Xosé. Garage and Grime. Preview the line-up and save it on soundcheck.
+NO FORMULA: Takeover Planet Wax on Sat 26 Sept, London. 3 artists on the bill: Freeza Chin, Jayemkayem and Xosé. Garage and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

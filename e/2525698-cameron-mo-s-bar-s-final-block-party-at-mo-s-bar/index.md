@@ -1,6 +1,6 @@
 # Cameron & Mo's Bar's Final Block Party at Mo's Bar
 
-Cameron & Mo's Bar's Final Block Party on Sat 10 Oct, Newyorkcity. House and Deep House. Preview the line-up and save it on soundcheck.
+Cameron & Mo's Bar's Final Block Party on Sat 10 Oct, New York City. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

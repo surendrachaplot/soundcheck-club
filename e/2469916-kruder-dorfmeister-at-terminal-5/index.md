@@ -1,6 +1,6 @@
 # Kruder & Dorfmeister at Terminal 5
 
-Kruder & Dorfmeister at Terminal 5 on Thu 1 Oct, Newyorkcity. 1 act on the bill: Kruder & Dorfmeister. Preview the line-up and save it on soundcheck.
+Kruder & Dorfmeister at Terminal 5 on Thu 1 Oct, New York City. 1 artist on the bill: Kruder & Dorfmeister. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

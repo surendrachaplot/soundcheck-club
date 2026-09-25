@@ -1,6 +1,6 @@
 # Swimming Paul at Zoom Club
 
-Swimming Paul at Zoom Club on Sat 7 Nov, Frankfurt. 1 act on the bill: Swimming Paul. Techno. Preview the line-up and save it on soundcheck.
+Swimming Paul at Zoom Club on Sat 7 Nov, Frankfurt. 1 artist on the bill: Swimming Paul. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

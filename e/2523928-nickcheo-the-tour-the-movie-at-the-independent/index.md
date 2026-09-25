@@ -1,6 +1,6 @@
 # NICKCHEO the *TOUR* the *MOVIE* at The Independent
 
-NICKCHEO the *TOUR* the *MOVIE* at The Independent on Fri 20 Nov, Sanfrancisco. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
+NICKCHEO the *TOUR* the *MOVIE* at The Independent on Fri 20 Nov, San Francisco/Oakland. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

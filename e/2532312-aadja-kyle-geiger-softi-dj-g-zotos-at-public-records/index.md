@@ -1,6 +1,6 @@
 # AADJA, Kyle Geiger / Softi, DJ G / Zotos at public records
 
-AADJA, Kyle Geiger / Softi, DJ G / Zotos at public records on Fri 9 Oct, Newyorkcity. 5 acts on the bill: AADJA, DJ G., Kyle Geiger and Softi and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+AADJA, Kyle Geiger / Softi, DJ G / Zotos at public records on Fri 9 Oct, New York City. 5 artists on the bill: AADJA, DJ G., Kyle Geiger and Softi and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hypersonic Melbourne at TBA
 
-Hypersonic Melbourne at TBA on Tue 20 Oct, Melbourne. 1 act on the bill: Maddix. Preview the line-up and save it on soundcheck.
+Hypersonic Melbourne at TBA on Tue 20 Oct, Melbourne. 1 artist on the bill: Maddix. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CHAOS: Fumiya Tanaka (All Night Long) at The Loft
 
-CHAOS: Fumiya Tanaka (All Night Long) at The Loft on Sat 26 Sept, Manchester. 1 act on the bill: Fumiya Tanaka. Preview the line-up and save it on soundcheck.
+CHAOS: Fumiya Tanaka (All Night Long) at The Loft on Sat 26 Sept, Manchester. 1 artist on the bill: Fumiya Tanaka. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

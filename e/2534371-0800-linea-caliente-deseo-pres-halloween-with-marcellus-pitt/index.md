@@ -1,6 +1,6 @@
 # 0800-LINEA-CALIENTE & DESEO pres. Halloween with Marcellus Pittman at Deseo BS AS
 
-0800-LINEA-CALIENTE & DESEO pres. Halloween with Marcellus Pittman at Deseo BS AS on Fri 30 Oct, Buenosaires. 2 acts on the bill: Marcellus Pittman and Pabels. House and Disco. Preview the line-up and save it on soundcheck.
+0800-LINEA-CALIENTE & DESEO pres. Halloween with Marcellus Pittman at Deseo BS AS on Fri 30 Oct, Buenos Aires. 2 artists on the bill: Marcellus Pittman and Pabels. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

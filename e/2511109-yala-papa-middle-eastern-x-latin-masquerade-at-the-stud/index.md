@@ -1,6 +1,6 @@
 # Yala Papa: Middle Eastern X Latin Masquerade at The Stud
 
-Yala Papa: Middle Eastern X Latin Masquerade at The Stud on Fri 9 Oct, Sanfrancisco. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
+Yala Papa: Middle Eastern X Latin Masquerade at The Stud on Fri 9 Oct, San Francisco/Oakland. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kater x Iptamenos Discos at Kater
 
-Kater x Iptamenos Discos on Fri 23 Oct, Berlin. 8 acts on the bill: Alejandro Paz, ATTA, Duncan Thomas and Jeremy Reinhard and 4 more. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Kater x Iptamenos Discos on Fri 23 Oct, Berlin. 8 artists on the bill: Alejandro Paz, ATTA, Duncan Thomas and Jeremy Reinhard and 4 more. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

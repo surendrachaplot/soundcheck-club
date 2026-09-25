@@ -1,6 +1,6 @@
 # Backspin Events present: Mass Medium/Club Caviar at The Marlborough Red Room
 
-Backspin Events present: Mass Medium/Club Caviar at The Marlborough Red Room on Sat 10 Oct, Glasgow. 2 acts on the bill: Mass Medium / Club Caviar and OPRY. Techno and House. Preview the line-up and save it on soundcheck.
+Backspin Events present: Mass Medium/Club Caviar at The Marlborough Red Room on Sat 10 Oct, Glasgow. 2 artists on the bill: Mass Medium / Club Caviar and OPRY. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # La Liga Independiente at Bajo Circuito
 
-La Liga Independiente at Bajo Circuito on Fri 16 Oct, Mexicocity. Krautrock. Preview the line-up and save it on soundcheck.
+La Liga Independiente at Bajo Circuito on Fri 16 Oct, Mexico City. Krautrock. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

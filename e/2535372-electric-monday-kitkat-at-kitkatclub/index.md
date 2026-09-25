@@ -1,6 +1,6 @@
 # Electric Monday@KitKat at KitKatClub
 
-Electric Monday@KitKat at KitKatClub on Mon 19 Oct, Berlin. 3 acts on the bill: Alessio Collina, Brizman and Frankie Flowerz. Techno and House. Preview the line-up and save it on soundcheck.
+Electric Monday@KitKat at KitKatClub on Mon 19 Oct, Berlin. 3 artists on the bill: Alessio Collina, Brizman and Frankie Flowerz. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

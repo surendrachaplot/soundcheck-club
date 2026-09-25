@@ -1,6 +1,6 @@
 # Jungle Frequency presents DJ Hybrid @Jungla at Jungla London
 
-Jungle Frequency presents DJ Hybrid @Jungla at Jungla London on Fri 9 Oct, London. 1 act on the bill: DJ Hybrid. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Jungle Frequency presents DJ Hybrid @Jungla at Jungla London on Fri 9 Oct, London. 1 artist on the bill: DJ Hybrid. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

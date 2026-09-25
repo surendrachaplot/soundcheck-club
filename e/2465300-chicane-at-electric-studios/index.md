@@ -1,6 +1,6 @@
 # Chicane at Electric Studios
 
-Chicane at Electric Studios on Sat 7 Nov, Sheffield. 1 act on the bill: Chicane. Trance and House. Preview the line-up and save it on soundcheck.
+Chicane at Electric Studios on Sat 7 Nov, Sheffield. 1 artist on the bill: Chicane. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

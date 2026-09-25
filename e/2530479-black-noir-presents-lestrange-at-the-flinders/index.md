@@ -1,6 +1,6 @@
 # BLACK NOIR presents: LeStrange at The Flinders
 
-BLACK NOIR presents: LeStrange at The Flinders on Sat 10 Oct, Sydney. 5 acts on the bill: CAVO, LeStrange, MSG and SØMR and 1 more. Techno. Preview the line-up and save it on soundcheck.
+BLACK NOIR presents: LeStrange at The Flinders on Sat 10 Oct, Sydney. 5 artists on the bill: CAVO, LeStrange, MSG and SØMR and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

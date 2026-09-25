@@ -1,6 +1,6 @@
 # Airspace presents: Notion at Mint XL
 
-Airspace presents: Notion at Mint XL on Sat 10 Oct, Leeds. 4 acts on the bill: Bella Claxton, Camille Doe, Notion and Y U QT. Bass and Garage. Preview the line-up and save it on soundcheck.
+Airspace presents: Notion at Mint XL on Sat 10 Oct, Leeds. 4 artists on the bill: Bella Claxton, Camille Doe, Notion and Y U QT. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

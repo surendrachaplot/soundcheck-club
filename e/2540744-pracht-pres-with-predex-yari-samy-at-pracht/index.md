@@ -1,6 +1,6 @@
 # Pracht PRES. with Predex, YARI, Samy at Pracht
 
-Pracht PRES. with Predex, YARI, Samy on Fri 9 Oct, Frankfurt. 1 act on the bill: Predex. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Pracht PRES. with Predex, YARI, Samy on Fri 9 Oct, Frankfurt. 1 artist on the bill: Predex. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

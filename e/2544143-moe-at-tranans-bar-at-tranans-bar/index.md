@@ -1,6 +1,6 @@
 # moe. at Tranans Bar at Tranans Bar
 
-moe. at Tranans Bar on Fri 25 Sept, Stockholm. 1 act on the bill: moe.. Preview the line-up and save it on soundcheck.
+moe. at Tranans Bar on Fri 25 Sept, Stockholm. 1 artist on the bill: moe.. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

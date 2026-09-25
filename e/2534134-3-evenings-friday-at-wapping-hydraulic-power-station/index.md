@@ -1,6 +1,6 @@
 # 3 Evenings: Friday at Wapping Hydraulic Power Station
 
-3 Evenings: Friday at Wapping Hydraulic Power Station on Fri 16 Oct, London. 2 acts on the bill: Gazelle Twin and Lawrence Lek. Experimental. Preview the line-up and save it on soundcheck.
+3 Evenings: Friday at Wapping Hydraulic Power Station on Fri 16 Oct, London. 2 artists on the bill: Gazelle Twin and Lawrence Lek. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

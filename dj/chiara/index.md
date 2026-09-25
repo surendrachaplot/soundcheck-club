@@ -2,7 +2,7 @@
 
 Chiara is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Standard Time, Toronto on Sat, 3 Oct 2026.
 
-Chiara is a house and tech house artist based in Canada, tracked on soundcheck, with 49 sets logged across Berlin, Munich, Newyorkcity and Saopaulo and 2 more. Often billed alongside Lolo (CA), Maves and Devv. Next up: Standard Time, Toronto on Sat 3 Oct.
+Chiara is a house and tech house artist based in Canada, tracked on soundcheck, with 49 sets logged across Berlin, Munich, New York City and Sao Paulo and 2 more. Often billed alongside Lolo (CA), Maves and Devv. Next up: Standard Time, Toronto on Sat 3 Oct.
 
 ## Upcoming shows
 

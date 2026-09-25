@@ -1,6 +1,6 @@
 # T6E RESILIENCE (O.S.M.W.S.T.A) × Techno Agency at Liquid Club
 
-T6E RESILIENCE (O.S.M.W.S.T.A) × Techno Agency at Liquid Club on Sat 26 Sept, Malta. 4 acts on the bill: BOA (1), Kate Moss, Philip Ackowsky and Proper Banger. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+T6E RESILIENCE (O.S.M.W.S.T.A) × Techno Agency at Liquid Club on Sat 26 Sept, Malta. 4 artists on the bill: BOA, Kate Moss, Philip Ackowsky and Proper Banger. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

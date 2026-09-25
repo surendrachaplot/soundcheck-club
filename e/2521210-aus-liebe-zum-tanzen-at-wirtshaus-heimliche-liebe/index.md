@@ -1,6 +1,6 @@
 # Aus Liebe zum Tanzen at Wirtshaus Heimliche Liebe
 
-Aus Liebe zum Tanzen at Wirtshaus Heimliche Liebe on Sat 26 Sept, Dortmund-essen. 2 acts on the bill: Cosanne and Interplay. Progressive House and House. Preview the line-up and save it on soundcheck.
+Aus Liebe zum Tanzen at Wirtshaus Heimliche Liebe on Sat 26 Sept, Dortmund Essen. 2 artists on the bill: Cosanne and Interplay. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

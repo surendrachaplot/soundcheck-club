@@ -1,6 +1,6 @@
 # Midnight Lovers with Cinthie (All Night Long) at TBA - Downtown Los Angeles
 
-Midnight Lovers with Cinthie (All Night Long) at TBA - Downtown Los Angeles on Sat 21 Nov, Losangeles. 1 act on the bill: Cinthie. Preview the line-up and save it on soundcheck.
+Midnight Lovers with Cinthie (All Night Long) at TBA - Downtown Los Angeles on Sat 21 Nov, Los Angeles. 1 artist on the bill: Cinthie. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

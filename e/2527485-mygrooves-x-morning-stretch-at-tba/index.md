@@ -1,6 +1,6 @@
 # MYGROOVES x MORNING STRETCH at TBA
 
-MYGROOVES x MORNING STRETCH at TBA on Sat 26 Sept, Leipzig. 7 acts on the bill: Dardara, F.D.M, Marie Lung and MAY/O and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+MYGROOVES x MORNING STRETCH at TBA on Sat 26 Sept, Leipzig. 7 artists on the bill: Dardara, F.D.M, Marie Lung and MAY/O and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

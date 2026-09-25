@@ -1,6 +1,6 @@
 # Haunted Mansion at TBA - Logan Square Chicago
 
-Haunted Mansion at TBA - Logan Square Chicago on Sat 31 Oct, Chicago. 6 acts on the bill: Alex Kislov, I Am Me, Jimmie Page and Mr. Bobby and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Haunted Mansion at TBA - Logan Square Chicago on Sat 31 Oct, Chicago. 6 artists on the bill: Alex Kislov, I Am Me, Jimmie Page and Mr. Bobby and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

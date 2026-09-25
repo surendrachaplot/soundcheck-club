@@ -1,6 +1,6 @@
 # OBSERVE 24 YEAR ANNIVERSARY // Chris Liebing [5hr Set] // Truncate // OKTAFORM (Visuals) at TBA - DTLA
 
-OBSERVE 24 YEAR ANNIVERSARY // Chris Liebing [5hr Set] // Truncate // OKTAFORM (Visuals) at TBA - DTLA on Sat 14 Nov, Losangeles. 2 acts on the bill: Chris Liebing and Truncate. Techno. Preview the line-up and save it on soundcheck.
+OBSERVE 24 YEAR ANNIVERSARY // Chris Liebing [5hr Set] // Truncate // OKTAFORM (Visuals) at TBA - DTLA on Sat 14 Nov, Los Angeles. 2 artists on the bill: Chris Liebing and Truncate. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

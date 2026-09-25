@@ -1,6 +1,6 @@
 # 6 SENSE at Smoke & Mirrors
 
-6 SENSE at Smoke & Mirrors on Fri 13 Nov, Chicago. 1 act on the bill: 6 SENSE. Techno. Preview the line-up and save it on soundcheck.
+6 SENSE at Smoke & Mirrors on Fri 13 Nov, Chicago. 1 artist on the bill: 6 SENSE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

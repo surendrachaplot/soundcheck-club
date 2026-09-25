@@ -1,6 +1,6 @@
 # LIFE AFTER TRANCE: DDR EDITION at Bootleg Bar NYC
 
-LIFE AFTER TRANCE: DDR EDITION at Bootleg Bar NYC on Fri 25 Sept, Newyorkcity. 4 acts on the bill: ASTER (DJ), BUBUCORE69, DJ DITTO. and MAXWELL HöUSE. Trance and Techno. Preview the line-up and save it on soundcheck.
+LIFE AFTER TRANCE: DDR EDITION at Bootleg Bar NYC on Fri 25 Sept, New York City. 4 artists on the bill: ASTER (DJ), BUBUCORE69, DJ DITTO. and MAXWELL HöUSE. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

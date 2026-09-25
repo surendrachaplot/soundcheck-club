@@ -1,6 +1,6 @@
 # MIXMAG LAB NYC FT. HABIBI'S HOUSE W/ DJ Habibeats, Ushka, & 444 at Webster Hall
 
-MIXMAG LAB NYC FT. HABIBI'S HOUSE W/ DJ Habibeats, Ushka, & 444 at Webster Hall on Sat 17 Oct, Newyorkcity. 3 acts on the bill: 444 (1), DJ Habibeats and Ushka. Preview the line-up and save it on soundcheck.
+MIXMAG LAB NYC FT. HABIBI'S HOUSE W/ DJ Habibeats, Ushka, & 444 at Webster Hall on Sat 17 Oct, New York City. 3 artists on the bill: 444, DJ Habibeats and Ushka. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

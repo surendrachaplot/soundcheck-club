@@ -1,6 +1,6 @@
 # HARD IM AIR pres. THE SAINTS at Airport Würzburg
 
-HARD IM AIR pres. THE SAINTS at Airport Würzburg on Fri 9 Oct, Nurnberg. 2 acts on the bill: BMG and Neo.official. Techno. Preview the line-up and save it on soundcheck.
+HARD IM AIR pres. THE SAINTS at Airport Würzburg on Fri 9 Oct, Nürnberg. 2 artists on the bill: BMG and Neo.official. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

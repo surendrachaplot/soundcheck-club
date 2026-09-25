@@ -1,6 +1,6 @@
 # WEATHERPROOF: DJ Strawberry + YAKA at Ulana's
 
-WEATHERPROOF: DJ Strawberry + YAKA at Ulana's on Sat 17 Oct, Philadelphia. 6 acts on the bill: Alien Body, Blueverbs, Caiya and DJ Strawberry and 2 more. Techno and Footwork. Preview the line-up and save it on soundcheck.
+WEATHERPROOF: DJ Strawberry + YAKA at Ulana's on Sat 17 Oct, Philadelphia. 6 artists on the bill: Alien Body, Blueverbs, Caiya and DJ Strawberry and 2 more. Techno and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Krewella at Q Nightclub
 
-Krewella at Q Nightclub on Fri 25 Sept, Seattle. 1 act on the bill: Krewella. Preview the line-up and save it on soundcheck.
+Krewella at Q Nightclub on Fri 25 Sept, Seattle. 1 artist on the bill: Krewella. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

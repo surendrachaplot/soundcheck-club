@@ -1,6 +1,6 @@
 # SITH: SECRET RENDEZVOUS - NOVEMBER 6TH - LOCATION TBA at TBA
 
-SITH: SECRET RENDEZVOUS - NOVEMBER 6TH - LOCATION TBA on Fri 6 Nov, Newyorkcity. 1 act on the bill: Natasha Diggs. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+SITH: SECRET RENDEZVOUS - NOVEMBER 6TH - LOCATION TBA on Fri 6 Nov, New York City. 1 artist on the bill: Natasha Diggs. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

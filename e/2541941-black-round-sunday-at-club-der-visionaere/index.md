@@ -1,6 +1,6 @@
 # black.round.sunday at Club der Visionaere
 
-black.round.sunday at Club der Visionaere on Sun 27 Sept, Berlin. 3 acts on the bill: Grant Dell, Joe BRT and SaPu. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+black.round.sunday at Club der Visionaere on Sun 27 Sept, Berlin. 3 artists on the bill: Grant Dell, Joe BRT and SaPu. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

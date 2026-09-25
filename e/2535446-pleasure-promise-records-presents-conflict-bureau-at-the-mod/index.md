@@ -1,6 +1,6 @@
 # Pleasure Promise Records presents: CONFLICT BUREAU at The Model
 
-Pleasure Promise Records presents: CONFLICT BUREAU at The Model on Fri 11 Dec, Nottingham. 3 acts on the bill: CONFLICT BUREAU, No Caller ID and Wes Baggaley. House and Acid. Preview the line-up and save it on soundcheck.
+Pleasure Promise Records presents: CONFLICT BUREAU at The Model on Fri 11 Dec, Nottingham. 3 artists on the bill: CONFLICT BUREAU, No Caller ID and Wes Baggaley. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

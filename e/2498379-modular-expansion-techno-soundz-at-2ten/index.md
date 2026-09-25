@@ -1,6 +1,6 @@
 # Modular Expansion: Techno Soundz at 2ten
 
-Modular Expansion: Techno Soundz at 2ten on Sat 26 Sept, Athens. 4 acts on the bill: Emex, George Apergis, Mømentum and Talantösis. Techno. Preview the line-up and save it on soundcheck.
+Modular Expansion: Techno Soundz at 2ten on Sat 26 Sept, Athens. 4 artists on the bill: Emex, George Apergis, Mømentum and Talantösis. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

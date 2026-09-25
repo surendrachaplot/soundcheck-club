@@ -1,6 +1,6 @@
 # EVAN GIIA at Music Box
 
-EVAN GIIA at Music Box on Sat 10 Oct, Sandiego. House. Preview the line-up and save it on soundcheck.
+EVAN GIIA at Music Box on Sat 10 Oct, San Diego. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

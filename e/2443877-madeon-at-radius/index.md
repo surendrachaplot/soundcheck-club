@@ -1,6 +1,6 @@
 # Madeon at Radius
 
-Madeon at Radius on Sat 21 Nov, Chicago. 1 act on the bill: Madeon. Preview the line-up and save it on soundcheck.
+Madeon at Radius on Sat 21 Nov, Chicago. 1 artist on the bill: Madeon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

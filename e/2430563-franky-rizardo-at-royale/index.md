@@ -1,6 +1,6 @@
 # Franky Rizardo at Royale
 
-Franky Rizardo at Royale on Fri 25 Sept, Boston. 1 act on the bill: Franky Rizardo. House and Tech House. Preview the line-up and save it on soundcheck.
+Franky Rizardo at Royale on Fri 25 Sept, Boston. 1 artist on the bill: Franky Rizardo. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jen Cardini (FR) at Plano B
 
-Jen Cardini (FR) at Plano B on Sat 12 Dec, Porto. 1 act on the bill: Jen Cardini. Electronica. Preview the line-up and save it on soundcheck.
+Jen Cardini (FR) at Plano B on Sat 12 Dec, Porto. 1 artist on the bill: Jen Cardini. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

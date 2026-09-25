@@ -1,6 +1,6 @@
 # Hathor 05 at Oxygenic
 
-Hathor 05 at Oxygenic on Sat 17 Oct, Newcastle. 3 acts on the bill: Alousea, Holly Lester and Moose In The Wild. Preview the line-up and save it on soundcheck.
+Hathor 05 at Oxygenic on Sat 17 Oct, Newcastle. 3 artists on the bill: Alousea, Holly Lester and Moose In The Wild. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

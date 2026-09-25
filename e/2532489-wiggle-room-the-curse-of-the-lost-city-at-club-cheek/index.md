@@ -1,6 +1,6 @@
 # Wiggle Room & The Curse of the Lost City at Club Cheek
 
-Wiggle Room & The Curse of the Lost City at Club Cheek on Sat 31 Oct, London. 4 acts on the bill: elshazly, IZZY (UK), Julia SC and Minashi. House and Electro. Preview the line-up and save it on soundcheck.
+Wiggle Room & The Curse of the Lost City at Club Cheek on Sat 31 Oct, London. 4 artists on the bill: elshazly, IZZY (UK), Julia SC and Minashi. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

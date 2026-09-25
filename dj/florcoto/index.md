@@ -2,7 +2,7 @@
 
 Flor Coto is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bulbul Berlin, Berlin on Thu, 24 Sept 2026.
 
-Flor Coto is a house and electro artist based in Argentina, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Buenosaires and Leipzig and 2 more. Often billed alongside Szew, Rafael and Chuki Juri. Next up: Bulbul Berlin, Berlin on Thu 24 Sept.
+Flor Coto is a house and electro artist based in Argentina, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Buenos Aires and Leipzig and 2 more. Often billed alongside Szew, Rafael and Chuki Juri. Next up: Bulbul Berlin, Berlin on Thu 24 Sept.
 
 ## Upcoming shows
 

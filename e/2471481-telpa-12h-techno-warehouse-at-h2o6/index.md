@@ -1,6 +1,6 @@
 # TELPA: 12H TECHNO WAREHOUSE at H2o6
 
-TELPA: 12H TECHNO WAREHOUSE at H2o6 on Sat 28 Nov, Riga. 9 acts on the bill: DEEP-Z, Existal, Freiya March and Ikss and 5 more. Techno. Preview the line-up and save it on soundcheck.
+TELPA: 12H TECHNO WAREHOUSE at H2o6 on Sat 28 Nov, Riga. 9 artists on the bill: DEEP-Z, Existal, Freiya March and Ikss and 5 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

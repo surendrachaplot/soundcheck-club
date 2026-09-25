@@ -1,6 +1,6 @@
 # METROPOLIS x BIS with Claudio PRC at Bodies in Space
 
-METROPOLIS x BIS with Claudio PRC at Bodies in Space on Sun 18 Oct, Brussels. 3 acts on the bill: Claudio PRC, Sonhan and Souleiman. Techno. Preview the line-up and save it on soundcheck.
+METROPOLIS x BIS with Claudio PRC at Bodies in Space on Sun 18 Oct, Brussels. 3 artists on the bill: Claudio PRC, Sonhan and Souleiman. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

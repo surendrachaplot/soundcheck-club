@@ -1,6 +1,6 @@
 # Voyage Funktastique with Ferias (Alina & Guthrie) + GrandHuit at Le Balcon
 
-Voyage Funktastique with Ferias (Alina & Guthrie) + GrandHuit at Le Balcon on Sat 3 Oct, Montreal. 4 acts on the bill: Alina (MTL), Ferias, GrandHuit and Guthrie. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Voyage Funktastique with Ferias (Alina & Guthrie) + GrandHuit at Le Balcon on Sat 3 Oct, Montreal. 4 artists on the bill: Alina (MTL), Ferias, GrandHuit and Guthrie. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

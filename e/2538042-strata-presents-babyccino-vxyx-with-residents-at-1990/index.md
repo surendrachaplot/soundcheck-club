@@ -1,6 +1,6 @@
 # STRATA PRESENTS: Babyccino + VXYX with Residents at 1990
 
-STRATA PRESENTS: Babyccino + VXYX with Residents at 1990 on Sat 26 Sept, Glasgow. 3 acts on the bill: Babyccino, spleen (2) and VXYX. Techno and House. Preview the line-up and save it on soundcheck.
+STRATA PRESENTS: Babyccino + VXYX with Residents at 1990 on Sat 26 Sept, Glasgow. 3 artists on the bill: Babyccino, spleen and VXYX. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

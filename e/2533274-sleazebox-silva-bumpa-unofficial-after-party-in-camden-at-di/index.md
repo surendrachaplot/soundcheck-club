@@ -1,6 +1,6 @@
 # SleazeBox: SILVA BUMPA unofficial After Party in Camden at Dingwalls
 
-SleazeBox: SILVA BUMPA unofficial After Party in Camden at Dingwalls on Fri 2 Oct, London. 1 act on the bill: Zkeletonz. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+SleazeBox: SILVA BUMPA unofficial After Party in Camden at Dingwalls on Fri 2 Oct, London. 1 artist on the bill: Zkeletonz. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

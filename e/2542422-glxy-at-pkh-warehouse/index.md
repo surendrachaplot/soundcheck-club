@@ -1,6 +1,6 @@
 # GLXY at PKH Warehouse
 
-GLXY at PKH Warehouse on Fri 16 Oct, Berlin. 8 acts on the bill: Asem Shama, Hanne B, JUICY (DE) and Maris Shilton and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+GLXY at PKH Warehouse on Fri 16 Oct, Berlin. 8 artists on the bill: Asem Shama, Hanne B, JUICY (DE) and Maris Shilton and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

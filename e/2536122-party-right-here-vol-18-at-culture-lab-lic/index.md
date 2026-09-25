@@ -1,6 +1,6 @@
 # Party Right Here (Vol. 18) at Culture Lab LIC
 
-Party Right Here (Vol. 18) at Culture Lab LIC on Sat 26 Sept, Newyorkcity. 7 acts on the bill: Astor Lux, ceviché, JØ (2) and Jubilee and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Party Right Here (Vol. 18) at Culture Lab LIC on Sat 26 Sept, New York City. 7 artists on the bill: Astor Lux, ceviché, JØ and Jubilee and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

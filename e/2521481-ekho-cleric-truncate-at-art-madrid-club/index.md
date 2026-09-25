@@ -1,6 +1,6 @@
 # EKHO / Cleric + Truncate at ART Madrid Club
 
-EKHO / Cleric + Truncate at ART Madrid Club on Fri 16 Oct, Madrid. 4 acts on the bill: CESAR ALMENA, Cleric, Nuke and Truncate. Techno. Preview the line-up and save it on soundcheck.
+EKHO / Cleric + Truncate at ART Madrid Club on Fri 16 Oct, Madrid. 4 artists on the bill: CESAR ALMENA, Cleric, Nuke and Truncate. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

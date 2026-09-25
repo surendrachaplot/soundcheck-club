@@ -2,7 +2,7 @@
 
 Albion Street Music is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Arcana, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Albion Street Music is a deep house and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Budapest, London and Sanfrancisco. Often billed alongside Monoclick, Alexia (2) and Alicia (UK). Next up: Arcana, Sanfrancisco on Sat 26 Sept.
+Albion Street Music is a deep house and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Budapest, London and San Francisco/Oakland. Often billed alongside Monoclick, Alexia and Alicia (UK). Next up: Arcana, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 

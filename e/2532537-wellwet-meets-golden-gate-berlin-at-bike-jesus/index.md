@@ -1,6 +1,6 @@
 # Wellwetツ meets Golden Gate Berlin at Bike Jesus
 
-Wellwetツ meets Golden Gate Berlin at Bike Jesus on Fri 25 Sept, Prague. 6 acts on the bill: Ark3r, De Mode, Edgar Peng and kuju and 2 more. Preview the line-up and save it on soundcheck.
+Wellwetツ meets Golden Gate Berlin at Bike Jesus on Fri 25 Sept, Prague. 6 artists on the bill: Ark3r, De Mode, Edgar Peng and kuju and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

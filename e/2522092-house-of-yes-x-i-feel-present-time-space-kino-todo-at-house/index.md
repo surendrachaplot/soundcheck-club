@@ -1,6 +1,6 @@
 # House of Yes x I Feel present Time & Space: Kino Todo at House of Yes
 
-House of Yes x I Feel present Time & Space: Kino Todo on Sat 17 Oct, Newyorkcity. 1 act on the bill: Kino Todo. Techno and House. Preview the line-up and save it on soundcheck.
+House of Yes x I Feel present Time & Space: Kino Todo on Sat 17 Oct, New York City. 1 artist on the bill: Kino Todo. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

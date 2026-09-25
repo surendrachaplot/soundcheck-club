@@ -1,6 +1,6 @@
 # Kaluki presents IDRA Season 2 Opening at IDRA
 
-Kaluki presents IDRA Season 2 Opening on Sat 26 Sept, Manchester. 5 acts on the bill: Darius Syrossian, Fleur Shore, Joe Rolét and Pirate Copy and 1 more. Tech House. Preview the line-up and save it on soundcheck.
+Kaluki presents IDRA Season 2 Opening on Sat 26 Sept, Manchester. 5 artists on the bill: Darius Syrossian, Fleur Shore, Joe Rolét and Pirate Copy and 1 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

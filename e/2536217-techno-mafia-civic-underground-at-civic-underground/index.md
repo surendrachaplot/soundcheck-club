@@ -1,6 +1,6 @@
 # Techno Mafia - Civic Underground at Civic Underground
 
-Techno Mafia - Civic Underground on Sat 10 Oct, Sydney. 4 acts on the bill: Barbuto, Bryan Ro, Dis-Funkshen and PAPCO. Techno and Acid. Preview the line-up and save it on soundcheck.
+Techno Mafia - Civic Underground on Sat 10 Oct, Sydney. 4 artists on the bill: Barbuto, Bryan Ro, Dis-Funkshen and PAPCO. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

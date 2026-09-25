@@ -1,6 +1,6 @@
 # City Boy Lounge at South Swell Cafe
 
-City Boy Lounge at South Swell Cafe on Sat 24 Oct, Osaka. 1 act on the bill: CityBoyLounge. House and Club. Preview the line-up and save it on soundcheck.
+City Boy Lounge at South Swell Cafe on Sat 24 Oct, Osaka. 1 artist on the bill: CityBoyLounge. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

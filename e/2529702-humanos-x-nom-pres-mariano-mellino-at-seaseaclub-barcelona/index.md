@@ -1,6 +1,6 @@
 # HUMANOS x NOM pres. Mariano Mellino at Seaseaclub Barcelona
 
-HUMANOS x NOM pres. Mariano Mellino at Seaseaclub Barcelona on Sun 18 Oct, Barcelona. 3 acts on the bill: Belu Rodriguez, Mariano Mellino and Noncitizens. Progressive House. Preview the line-up and save it on soundcheck.
+HUMANOS x NOM pres. Mariano Mellino at Seaseaclub Barcelona on Sun 18 Oct, Barcelona. 3 artists on the bill: Belu Rodriguez, Mariano Mellino and Noncitizens. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

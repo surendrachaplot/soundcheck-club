@@ -1,6 +1,6 @@
 # HYBRID: DOCTOR MŨCKE at Sala Cocó
 
-HYBRID: DOCTOR MŨCKE at Sala Cocó on Sat 24 Oct, Madrid. 2 acts on the bill: DOCTOR MÜCKE and KITAE. Techno. Preview the line-up and save it on soundcheck.
+HYBRID: DOCTOR MŨCKE at Sala Cocó on Sat 24 Oct, Madrid. 2 artists on the bill: DOCTOR MÜCKE and KITAE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

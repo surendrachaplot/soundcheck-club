@@ -1,6 +1,6 @@
 # Origins: A Day with Yanamaste at FOLD
 
-Origins: A Day with Yanamaste at FOLD on Sat 7 Nov, London. 1 act on the bill: Yanamaste. Preview the line-up and save it on soundcheck.
+Origins: A Day with Yanamaste at FOLD on Sat 7 Nov, London. 1 artist on the bill: Yanamaste. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

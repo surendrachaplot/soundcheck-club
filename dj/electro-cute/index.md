@@ -2,7 +2,7 @@
 
 Electro-cute is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at El Secreto De Rosita, Washington DC on Thu, 8 Oct 2026.
 
-Electro-cute is a house and progressive house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Washingtondc. Often billed alongside ANNYA, Julez (2) and LOUDR. Next up: El Secreto De Rosita, Washingtondc on Thu 8 Oct.
+Electro-cute is a house and progressive house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Washington DC. Often billed alongside ANNYA, Julez and LOUDR. Next up: El Secreto De Rosita, Washington DC on Thu 8 Oct.
 
 ## Upcoming shows
 

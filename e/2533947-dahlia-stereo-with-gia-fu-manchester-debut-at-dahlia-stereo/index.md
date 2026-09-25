@@ -1,6 +1,6 @@
 # DAHLIA STEREO with Gia Fu (Manchester debut) at Dahlia Stereo
 
-DAHLIA STEREO with Gia Fu (Manchester debut) at Dahlia Stereo on Thu 15 Oct, Manchester. 1 act on the bill: Gia Fu. Funk / Soul and Latin Bass. Preview the line-up and save it on soundcheck.
+DAHLIA STEREO with Gia Fu (Manchester debut) at Dahlia Stereo on Thu 15 Oct, Manchester. 1 artist on the bill: Gia Fu. Funk / Soul and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

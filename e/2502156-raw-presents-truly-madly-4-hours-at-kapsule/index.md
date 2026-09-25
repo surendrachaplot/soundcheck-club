@@ -1,6 +1,6 @@
 # RAW presents: Truly Madly (4 Hours) at Kapsule
 
-RAW presents: Truly Madly (4 Hours) at Kapsule on Sat 3 Oct, Liverpool. 1 act on the bill: Truly Madly. Garage and Tech House. Preview the line-up and save it on soundcheck.
+RAW presents: Truly Madly (4 Hours) at Kapsule on Sat 3 Oct, Liverpool. 1 artist on the bill: Truly Madly. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

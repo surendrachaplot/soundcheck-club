@@ -1,6 +1,6 @@
 # Riktus presents: GAIVEU All Night Long #2 at Ministerium Club
 
-Riktus presents: GAIVEU All Night Long #2 at Ministerium Club on Sun 4 Oct, Lisbon. 4 acts on the bill: GAIVEU, Golpe, La Vera Notte and TASSERY. Techno. Preview the line-up and save it on soundcheck.
+Riktus presents: GAIVEU All Night Long #2 at Ministerium Club on Sun 4 Oct, Lisbon. 4 artists on the bill: GAIVEU, Golpe, La Vera Notte and TASSERY. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

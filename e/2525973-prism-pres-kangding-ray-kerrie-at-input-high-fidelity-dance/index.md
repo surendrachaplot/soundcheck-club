@@ -1,6 +1,6 @@
 # PRISM pres Kangding Ray & Kerrie at INPUT High Fidelity Dance Club
 
-PRISM pres Kangding Ray & Kerrie at INPUT High Fidelity Dance Club on Fri 20 Nov, Barcelona. 2 acts on the bill: Kangding Ray and Kerrie. Techno. Preview the line-up and save it on soundcheck.
+PRISM pres Kangding Ray & Kerrie at INPUT High Fidelity Dance Club on Fri 20 Nov, Barcelona. 2 artists on the bill: Kangding Ray and Kerrie. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

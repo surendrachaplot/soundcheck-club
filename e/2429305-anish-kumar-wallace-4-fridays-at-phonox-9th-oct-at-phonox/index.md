@@ -1,6 +1,6 @@
 # Anish Kumar, Wallace: 4 Fridays at Phonox (9th Oct) at Phonox
 
-Anish Kumar, Wallace: 4 Fridays at Phonox (9th Oct) on Fri 9 Oct, London. 2 acts on the bill: Anish Kumar and Wallace. Preview the line-up and save it on soundcheck.
+Anish Kumar, Wallace: 4 Fridays at Phonox (9th Oct) on Fri 9 Oct, London. 2 artists on the bill: Anish Kumar and Wallace. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

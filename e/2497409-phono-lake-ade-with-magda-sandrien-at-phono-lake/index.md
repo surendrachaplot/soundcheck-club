@@ -1,6 +1,6 @@
 # Phono Lake ADE with Magda & Sandrien at Phono Lake
 
-Phono Lake ADE with Magda & Sandrien on Fri 23 Oct, Amsterdam. 2 acts on the bill: Magda and Sandrien. House. Preview the line-up and save it on soundcheck.
+Phono Lake ADE with Magda & Sandrien on Fri 23 Oct, Amsterdam. 2 artists on the bill: Magda and Sandrien. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

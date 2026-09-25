@@ -1,6 +1,6 @@
 # Digital X Kepler Presents: Contact at Digital
 
-Digital X Kepler Presents: Contact on Fri 4 Dec, Newcastle. 6 acts on the bill: DJ Cosworth, Kepler, Oldboy and Reeshy and 2 more. Preview the line-up and save it on soundcheck.
+Digital X Kepler Presents: Contact on Fri 4 Dec, Newcastle. 6 artists on the bill: DJ Cosworth, Kepler, Oldboy and Reeshy and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Deiv Schon is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 25 Oct 2026.
 
-Deiv Schon is a deep house and tech house artist based in Argentina, tracked on soundcheck, with 10 sets logged across Buenosaires, Ibiza, Losangeles and Miami and 2 more. Often billed alongside Martinignaccio, 1 to 1 and Borak. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 25 Oct.
+Deiv Schon is a deep house and tech house artist based in Argentina, tracked on soundcheck, with 10 sets logged across Buenos Aires, Ibiza, Los Angeles and Miami and 2 more. Often billed alongside Martinignaccio, 1 to 1 and Borak. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 25 Oct.
 
 ## Upcoming shows
 

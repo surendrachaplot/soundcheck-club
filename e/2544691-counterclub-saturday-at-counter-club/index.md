@@ -1,6 +1,6 @@
 # COUNTERCLUB SATURDAY at COUNTER CLUB
 
-COUNTERCLUB SATURDAY at COUNTER CLUB on Sat 26 Sept, Tokyo. 1 act on the bill: Kayo. Preview the line-up and save it on soundcheck.
+COUNTERCLUB SATURDAY at COUNTER CLUB on Sat 26 Sept, Tokyo. 1 artist on the bill: Kayo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

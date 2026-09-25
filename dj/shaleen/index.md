@@ -2,7 +2,7 @@
 
 Shaleen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Fri, 9 Oct 2026.
 
-Shaleen is a techno and house artist based in Germany, tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 18 more. Often billed alongside Ellen Allien, JANEIN and DJ Europarking. Next up: Signal, Newyorkcity on Fri 9 Oct.
+Shaleen is a techno and house artist based in Germany, tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 18 more. Often billed alongside Ellen Allien, JANEIN and DJ Europarking. Next up: Signal, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Only 4DJS x ADE at Grand Café Heineken Hoek
 
-Only 4DJS x ADE at Grand Café Heineken Hoek on Sat 24 Oct, Amsterdam. 2 acts on the bill: Richard Earnshaw and Steve Taylor. House and Club. Preview the line-up and save it on soundcheck.
+Only 4DJS x ADE at Grand Café Heineken Hoek on Sat 24 Oct, Amsterdam. 2 artists on the bill: Richard Earnshaw and Steve Taylor. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

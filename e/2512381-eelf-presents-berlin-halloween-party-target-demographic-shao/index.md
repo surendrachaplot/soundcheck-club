@@ -1,6 +1,6 @@
 # EELF Presents - Berlin (Halloween Party): Target Demographic, Shaolin Cowboy, GEE LEE + TBA at Bi Nuu
 
-EELF Presents - Berlin (Halloween Party): Target Demographic, Shaolin Cowboy, GEE LEE + TBA at Bi Nuu on Fri 30 Oct, Berlin. 6 acts on the bill: GEE LEE, Paluma Sound, Pijus and Shaolin Cowboy and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+EELF Presents - Berlin (Halloween Party): Target Demographic, Shaolin Cowboy, GEE LEE + TBA at Bi Nuu on Fri 30 Oct, Berlin. 6 artists on the bill: GEE LEE, Paluma Sound, Pijus and Shaolin Cowboy and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

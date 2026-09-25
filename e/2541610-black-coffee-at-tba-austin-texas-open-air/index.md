@@ -1,6 +1,6 @@
 # Black Coffee at TBA - Austin, Texas Open Air
 
-Black Coffee at TBA - Austin, Texas Open Air on Fri 30 Oct, Austin. 1 act on the bill: Black Coffee. House and Afro House. Preview the line-up and save it on soundcheck.
+Black Coffee at TBA - Austin, Texas Open Air on Fri 30 Oct, Austin. 1 artist on the bill: Black Coffee. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

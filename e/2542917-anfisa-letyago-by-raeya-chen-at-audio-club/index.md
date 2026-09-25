@@ -1,6 +1,6 @@
 # Anfisa Letyago · ØBY · Raeya Chen at Audio Club
 
-Anfisa Letyago · ØBY · Raeya Chen at Audio Club on Fri 2 Oct, Geneva. 2 acts on the bill: Anfisa Letyago and Raeya Chen. Preview the line-up and save it on soundcheck.
+Anfisa Letyago · ØBY · Raeya Chen at Audio Club on Fri 2 Oct, Geneva. 2 artists on the bill: Anfisa Letyago and Raeya Chen. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

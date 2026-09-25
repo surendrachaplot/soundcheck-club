@@ -1,6 +1,6 @@
 # MORBO [ANIVERSARIO] at Dallas Club
 
-MORBO [ANIVERSARIO] at Dallas Club on Fri 27 Nov, Mexicocity. Techno. Preview the line-up and save it on soundcheck.
+MORBO [ANIVERSARIO] at Dallas Club on Fri 27 Nov, Mexico City. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

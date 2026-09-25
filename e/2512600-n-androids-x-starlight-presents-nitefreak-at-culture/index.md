@@ -1,6 +1,6 @@
 # Nü Androids x Starlight presents: Nitefreak at Culture
 
-Nü Androids x Starlight presents: Nitefreak at Culture on Fri 25 Sept, Washingtondc. 1 act on the bill: Nitefreak. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Nü Androids x Starlight presents: Nitefreak at Culture on Fri 25 Sept, Washington DC. 1 artist on the bill: Nitefreak. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

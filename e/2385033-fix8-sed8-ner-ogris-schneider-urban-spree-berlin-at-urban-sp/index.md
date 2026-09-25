@@ -1,6 +1,6 @@
 # Fix8:Sed8 + Ner.Ogris + Schneider // Urban Spree, Berlin at Urban Spree
 
-Fix8:Sed8 + Ner.Ogris + Schneider // Urban Spree, Berlin on Thu 26 Nov, Berlin. 2 acts on the bill: Philipp Strobel and SCHNEIDER (2). Techno and EBM. Preview the line-up and save it on soundcheck.
+Fix8:Sed8 + Ner.Ogris + Schneider // Urban Spree, Berlin on Thu 26 Nov, Berlin. 2 artists on the bill: Philipp Strobel and SCHNEIDER. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

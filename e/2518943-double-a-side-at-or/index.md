@@ -1,6 +1,6 @@
 # double A-side at or
 
-double A-side at or on Sun 4 Oct, Tokyo. 6 acts on the bill: AKIRAM EN, AMIDAdrive, DJ endorphin and KUNPEI and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+double A-side at or on Sun 4 Oct, Tokyo. 6 artists on the bill: AKIRAM EN, AMIDAdrive, DJ endorphin and KUNPEI and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

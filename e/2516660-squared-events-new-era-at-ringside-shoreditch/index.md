@@ -1,6 +1,6 @@
 # Squared Events- New Era at Ringside Shoreditch
 
-Squared Events- New Era at Ringside Shoreditch on Sat 7 Nov, London. 1 act on the bill: Drako. House and Tech House. Preview the line-up and save it on soundcheck.
+Squared Events- New Era at Ringside Shoreditch on Sat 7 Nov, London. 1 artist on the bill: Drako. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

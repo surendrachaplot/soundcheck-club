@@ -1,6 +1,6 @@
 # PURPUR at Mikropol
 
-PURPUR at Mikropol on Sat 3 Oct, Berlin. 3 acts on the bill: BOOTHBUNNY, NØVEX and Rubberax. Trance and Techno. Preview the line-up and save it on soundcheck.
+PURPUR at Mikropol on Sat 3 Oct, Berlin. 3 artists on the bill: BOOTHBUNNY, NØVEX and Rubberax. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Night Institute x Gods Waiting Room: Halloween Ball at Shorts Sports & Recreation Club
 
-The Night Institute x Gods Waiting Room: Halloween Ball at Shorts Sports & Recreation Club on Sat 31 Oct, Belfast. 3 acts on the bill: David Holmes, Jordan Nocturne and Timmy Stewart. House and Acid. Preview the line-up and save it on soundcheck.
+The Night Institute x Gods Waiting Room: Halloween Ball at Shorts Sports & Recreation Club on Sat 31 Oct, Belfast. 3 artists on the bill: David Holmes, Jordan Nocturne and Timmy Stewart. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

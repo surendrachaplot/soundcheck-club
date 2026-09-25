@@ -1,6 +1,6 @@
 # DUAL presents Kangkao at Dual
 
-DUAL presents Kangkao at Dual on Sat 26 Sept, Bangkok. 4 acts on the bill: GERO [DE], Jirus (MELA), Meltmode (2) and Payu. Techno and House. Preview the line-up and save it on soundcheck.
+DUAL presents Kangkao at Dual on Sat 26 Sept, Bangkok. 4 artists on the bill: GERO [DE], Jirus (MELA), Meltmode and Payu. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

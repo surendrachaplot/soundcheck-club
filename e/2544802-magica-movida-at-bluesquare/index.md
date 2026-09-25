@@ -1,6 +1,6 @@
 # Magica Movida at Bluesquare
 
-Magica Movida at Bluesquare on Fri 25 Sept, Milan. 2 acts on the bill: Jason K (IT) and Stump Valley. House. Preview the line-up and save it on soundcheck.
+Magica Movida at Bluesquare on Fri 25 Sept, Milan. 2 artists on the bill: Jason K (IT) and Stump Valley. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

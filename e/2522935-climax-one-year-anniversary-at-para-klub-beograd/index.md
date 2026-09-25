@@ -1,6 +1,6 @@
 # CLIMAX One Year Anniversary at Para Klub Beograd
 
-CLIMAX One Year Anniversary at Para Klub Beograd on Sun 27 Sept, Belgrade. 6 acts on the bill: Dimi Angelis, Filip Xavi, Lina K and Luka Jukic and 2 more. Techno. Preview the line-up and save it on soundcheck.
+CLIMAX One Year Anniversary at Para Klub Beograd on Sun 27 Sept, Belgrade. 6 artists on the bill: Dimi Angelis, Filip Xavi, Lina K and Luka Jukic and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

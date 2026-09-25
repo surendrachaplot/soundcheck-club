@@ -1,6 +1,6 @@
 # Nü Androids presents SünDown: KinAhau at Tigres de la Noche
 
-Nü Androids presents SünDown: KinAhau at Tigres de la Noche on Sat 26 Sept, Washingtondc. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Nü Androids presents SünDown: KinAhau at Tigres de la Noche on Sat 26 Sept, Washington DC. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

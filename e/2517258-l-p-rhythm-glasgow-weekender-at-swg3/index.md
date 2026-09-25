@@ -1,6 +1,6 @@
 # L.P. Rhythm Glasgow Weekender at SWG3
 
-L.P. Rhythm Glasgow Weekender at SWG3 on Fri 6 Nov, Glasgow. 2 acts on the bill: Alexandria and The Trip. House. Preview the line-up and save it on soundcheck.
+L.P. Rhythm Glasgow Weekender at SWG3 on Fri 6 Nov, Glasgow. 2 artists on the bill: Alexandria and The Trip. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

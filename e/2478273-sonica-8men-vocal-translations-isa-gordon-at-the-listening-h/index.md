@@ -1,6 +1,6 @@
 # Sonica: 8Men - Vocal Translations - Isa Gordon at The Listening House | Pollok House
 
-Sonica: 8Men - Vocal Translations - Isa Gordon at The Listening House | Pollok House on Sat 26 Sept, Glasgow. 1 act on the bill: Isa Gordon. Experimental. Preview the line-up and save it on soundcheck.
+Sonica: 8Men - Vocal Translations - Isa Gordon at The Listening House | Pollok House on Sat 26 Sept, Glasgow. 1 artist on the bill: Isa Gordon. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

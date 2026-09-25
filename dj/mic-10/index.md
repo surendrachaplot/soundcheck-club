@@ -1,14 +1,14 @@
 # MIC (10)
 
-MIC (10) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+MIC (10) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-MIC (10) is an electronic artist based in Germany, tracked on soundcheck, with 11 sets logged across All, Athens, Berlin and Warsaw. Often billed alongside Liou, Nausicaä and Sibil (1). Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+MIC is an electronic artist based in Germany, tracked on soundcheck, with 11 sets logged across Athens, Berlin, Greece and Warsaw. Often billed alongside Liou, Nausicaä and Sibil. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 
 ## Recently played
 

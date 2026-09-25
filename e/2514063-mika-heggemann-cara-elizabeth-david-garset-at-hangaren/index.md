@@ -1,6 +1,6 @@
 # Mika Heggemann, Cara Elizabeth, David Garset at Hangaren
 
-Mika Heggemann, Cara Elizabeth, David Garset at Hangaren on Sat 17 Oct, Copenhagen. 3 acts on the bill: Cara Elizabeth, David Garset and Mika Heggemann. Trance and Techno. Preview the line-up and save it on soundcheck.
+Mika Heggemann, Cara Elizabeth, David Garset at Hangaren on Sat 17 Oct, Copenhagen. 3 artists on the bill: Cara Elizabeth, David Garset and Mika Heggemann. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

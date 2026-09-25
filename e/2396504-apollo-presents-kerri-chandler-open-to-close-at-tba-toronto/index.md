@@ -1,6 +1,6 @@
 # Apollo presents Kerri Chandler (Open to Close) at TBA - Toronto
 
-Apollo presents Kerri Chandler (Open to Close) at TBA - Toronto on Fri 6 Nov, Toronto. 1 act on the bill: Kerri Chandler. House. Preview the line-up and save it on soundcheck.
+Apollo presents Kerri Chandler (Open to Close) at TBA - Toronto on Fri 6 Nov, Toronto. 1 artist on the bill: Kerri Chandler. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Krallice + Rashad Becker at Berghain | Panorama Bar | Säule
 
-Krallice + Rashad Becker at Berghain | Panorama Bar | Säule on Tue 13 Oct, Berlin. 1 act on the bill: Rashad Becker. Experimental. Preview the line-up and save it on soundcheck.
+Krallice + Rashad Becker at Berghain | Panorama Bar | Säule on Tue 13 Oct, Berlin. 1 artist on the bill: Rashad Becker. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

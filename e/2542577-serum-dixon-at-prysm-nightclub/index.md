@@ -1,6 +1,6 @@
 # Serum: Dixon at Prysm Nightclub
 
-Serum: Dixon at Prysm Nightclub on Fri 30 Oct, Chicago. 1 act on the bill: Dixon. House. Preview the line-up and save it on soundcheck.
+Serum: Dixon at Prysm Nightclub on Fri 30 Oct, Chicago. 1 artist on the bill: Dixon. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

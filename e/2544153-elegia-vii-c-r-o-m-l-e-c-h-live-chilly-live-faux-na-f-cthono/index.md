@@ -1,6 +1,6 @@
 # Elegia VII: C r o m l e c h (live), Chilly (live),  faux naïf & Cthonor Soma at The Globe, Glossop
 
-Elegia VII: C r o m l e c h (live), Chilly (live),  faux naïf & Cthonor Soma at The Globe, Glossop on Sat 7 Nov, Manchester. 3 acts on the bill: Chilly (LDN), Conor Thomas and Faux Naif. EBM and Industrial. Preview the line-up and save it on soundcheck.
+Elegia VII: C r o m l e c h (live), Chilly (live),  faux naïf & Cthonor Soma at The Globe, Glossop on Sat 7 Nov, Manchester. 3 artists on the bill: Chilly (LDN), Conor Thomas and Faux Naif. EBM and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

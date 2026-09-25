@@ -1,6 +1,6 @@
 # Juan Atkins - ORIGINS OF ELECTRONIC MUSIC at Ložionica
 
-Juan Atkins - ORIGINS OF ELECTRONIC MUSIC at Ložionica on Fri 16 Oct, Belgrade. 1 act on the bill: Juan Atkins. Techno and House. Preview the line-up and save it on soundcheck.
+Juan Atkins - ORIGINS OF ELECTRONIC MUSIC at Ložionica on Fri 16 Oct, Belgrade. 1 artist on the bill: Juan Atkins. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

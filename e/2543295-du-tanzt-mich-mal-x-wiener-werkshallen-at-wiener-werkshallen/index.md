@@ -1,6 +1,6 @@
 # Du Tanzt Mich Mal X Wiener Werkshallen at Wiener Werkshallen
 
-Du Tanzt Mich Mal X Wiener Werkshallen on Sat 3 Oct, Vienna. 3 acts on the bill: Joules (AT), MEETFRANKA and Rayya. House and Tech House. Preview the line-up and save it on soundcheck.
+Du Tanzt Mich Mal X Wiener Werkshallen on Sat 3 Oct, Vienna. 3 artists on the bill: Joules (AT), MEETFRANKA and Rayya. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

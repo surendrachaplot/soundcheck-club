@@ -1,6 +1,6 @@
 # CircoLoco Ibiza - Week 23 at DC-10
 
-CircoLoco Ibiza - Week 23 at DC-10 on Mon 28 Sept, Ibiza. 14 acts on the bill: Carl Craig, DJ Seinfeld, DJ Tennis and Francesco Del Garda and 10 more. Preview the line-up and save it on soundcheck.
+CircoLoco Ibiza - Week 23 at DC-10 on Mon 28 Sept, Ibiza. 14 artists on the bill: Carl Craig, DJ Seinfeld, DJ Tennis and Francesco Del Garda and 10 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

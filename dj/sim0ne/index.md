@@ -2,7 +2,7 @@
 
 sim0ne is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
-sim0ne is a techno and house artist based in United Kingdom, tracked on soundcheck, with 112 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 39 more. Often billed alongside Juicy Romance, DJ Heartstring and MALUGI. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
+sim0ne is a techno and house artist based in United Kingdom, tracked on soundcheck, with 112 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 38 more. Often billed alongside Juicy Romance, DJ Heartstring and MALUGI. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 

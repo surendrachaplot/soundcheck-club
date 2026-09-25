@@ -1,6 +1,6 @@
 # Superior Ingredients Roof & Room 10/31 at Superior Ingredients
 
-Superior Ingredients Roof & Room 10/31 on Sat 31 Oct, Newyorkcity. Club and EBM. Preview the line-up and save it on soundcheck.
+Superior Ingredients Roof & Room 10/31 on Sat 31 Oct, New York City. Club and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # [Sold Out] AVA London: Optimo, Special Guest, Swoose, Holly Lester, Body Clinic and JWY at FOLD
 
-[Sold Out] AVA London: Optimo, Special Guest, Swoose, Holly Lester, Body Clinic and JWY at FOLD on Fri 25 Sept, London. 5 acts on the bill: Body Clinic, Holly Lester, JWY (1) and Optimo (Espacio) and 1 more. Preview the line-up and save it on soundcheck.
+[Sold Out] AVA London: Optimo, Special Guest, Swoose, Holly Lester, Body Clinic and JWY at FOLD on Fri 25 Sept, London. 5 artists on the bill: Body Clinic, Holly Lester, JWY and Optimo (Espacio) and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

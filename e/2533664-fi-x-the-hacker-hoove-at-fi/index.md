@@ -1,6 +1,6 @@
 # fi x The Hacker & Hoove at fi
 
-fi x The Hacker & Hoove on Fri 16 Oct, Cologne. 7 acts on the bill: ALFALFA (UK), Greta Perola, Julian Bomm and Krackk and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+fi x The Hacker & Hoove on Fri 16 Oct, Cologne. 7 artists on the bill: ALFALFA (UK), Greta Perola, Julian Bomm and Krackk and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

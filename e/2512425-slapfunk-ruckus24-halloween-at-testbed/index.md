@@ -1,6 +1,6 @@
 # SlapFunk & Ruckus24 - Halloween at TESTBED
 
-SlapFunk & Ruckus24 - Halloween at TESTBED on Sat 31 Oct, Leeds. 8 acts on the bill: Dr Banana, Dungeon Meat, Isabelle Koci and Julian Anthony and 4 more. House and Garage. Preview the line-up and save it on soundcheck.
+SlapFunk & Ruckus24 - Halloween at TESTBED on Sat 31 Oct, Leeds. 8 artists on the bill: Dr Banana, Dungeon Meat, Isabelle Koci and Julian Anthony and 4 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

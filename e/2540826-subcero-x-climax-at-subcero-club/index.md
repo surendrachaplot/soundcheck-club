@@ -1,6 +1,6 @@
 # Subcero x Climax at Subcero Club
 
-Subcero x Climax at Subcero Club on Sat 17 Oct, Madrid. 1 act on the bill: PABLOANYWAY. Electronica. Preview the line-up and save it on soundcheck.
+Subcero x Climax at Subcero Club on Sat 17 Oct, Madrid. 1 artist on the bill: PABLOANYWAY. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

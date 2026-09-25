@@ -1,6 +1,6 @@
 # SAD at Distillery N17
 
-SAD at Distillery N17 on Sat 3 Oct, London. 7 acts on the bill: DJ Sarah Bonito, Dougal, Hang The DJs and Lobsta B and 3 more. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+SAD at Distillery N17 on Sat 3 Oct, London. 7 artists on the bill: DJ Sarah Bonito, Dougal, Hang The DJs and Lobsta B and 3 more. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

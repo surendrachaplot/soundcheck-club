@@ -1,6 +1,6 @@
 # High Classics 001: Classic House + Acid at Jade
 
-High Classics 001: Classic House + Acid at Jade on Thu 24 Sept, Newyorkcity. 4 acts on the bill: ALI IRL, boy problem, Cassi-DJ and Peet the Scholar. House and Acid. Preview the line-up and save it on soundcheck.
+High Classics 001: Classic House + Acid at Jade on Thu 24 Sept, New York City. 4 artists on the bill: ALI IRL, boy problem, Cassi-DJ and Peet the Scholar. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

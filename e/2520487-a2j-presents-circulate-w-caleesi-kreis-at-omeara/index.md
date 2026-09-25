@@ -1,6 +1,6 @@
 # A2J presents CIRCULATE w/ Caleesi & KREIS at Omeara
 
-A2J presents CIRCULATE w/ Caleesi & KREIS at Omeara on Sat 14 Nov, London. 2 acts on the bill: Caleesi and Sarah Kreis. Techno and House. Preview the line-up and save it on soundcheck.
+A2J presents CIRCULATE w/ Caleesi & KREIS at Omeara on Sat 14 Nov, London. 2 artists on the bill: Caleesi and Sarah Kreis. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

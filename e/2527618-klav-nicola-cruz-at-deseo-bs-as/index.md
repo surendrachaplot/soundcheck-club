@@ -1,6 +1,6 @@
 # KLAV: Nicola Cruz at Deseo BS AS
 
-KLAV: Nicola Cruz at Deseo BS AS on Sat 26 Sept, Buenosaires. 1 act on the bill: Nicola Cruz. Techno and Tech House. Preview the line-up and save it on soundcheck.
+KLAV: Nicola Cruz at Deseo BS AS on Sat 26 Sept, Buenos Aires. 1 artist on the bill: Nicola Cruz. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

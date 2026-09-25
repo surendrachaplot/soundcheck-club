@@ -1,6 +1,6 @@
 # MIKOLAÏ ‣ Rui Alves ‣ Kee_ko - SUNDAY 4 OUT • CARMO ROOFTOP • FREE ENTRY at Carmo Rooftop
 
-MIKOLAÏ ‣ Rui Alves ‣ Kee_ko - SUNDAY 4 OUT • CARMO ROOFTOP • FREE ENTRY at Carmo Rooftop on Sun 4 Oct, Lisbon. 2 acts on the bill: Kee_ko and Rui Alves. Techno and House. Preview the line-up and save it on soundcheck.
+MIKOLAÏ ‣ Rui Alves ‣ Kee_ko - SUNDAY 4 OUT • CARMO ROOFTOP • FREE ENTRY at Carmo Rooftop on Sun 4 Oct, Lisbon. 2 artists on the bill: Kee_ko and Rui Alves. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

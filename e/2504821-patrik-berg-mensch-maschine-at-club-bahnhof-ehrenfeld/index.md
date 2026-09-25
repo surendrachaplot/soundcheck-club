@@ -1,6 +1,6 @@
 # Patrik Berg: Mensch & Maschine at Club Bahnhof Ehrenfeld
 
-Patrik Berg: Mensch & Maschine at Club Bahnhof Ehrenfeld on Thu 26 Nov, Cologne. 1 act on the bill: Patrik Berg. Techno. Preview the line-up and save it on soundcheck.
+Patrik Berg: Mensch & Maschine at Club Bahnhof Ehrenfeld on Thu 26 Nov, Cologne. 1 artist on the bill: Patrik Berg. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

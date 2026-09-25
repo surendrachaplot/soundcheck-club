@@ -1,6 +1,6 @@
 # Red Laser at The White Hotel
 
-Red Laser at The White Hotel on Sat 31 Oct, Manchester. 5 acts on the bill: Dave Harvey, Felix Dickinson, Il Bosco and Neil Diablo and 1 more. Preview the line-up and save it on soundcheck.
+Red Laser at The White Hotel on Sat 31 Oct, Manchester. 5 artists on the bill: Dave Harvey, Felix Dickinson, Il Bosco and Neil Diablo and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

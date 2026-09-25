@@ -1,6 +1,6 @@
 # Emma-Jean Thackray & Lagoon Lurve - Movementt at The Carpet Shop
 
-Emma-Jean Thackray & Lagoon Lurve - Movementt at The Carpet Shop on Sat 24 Oct, London. 1 act on the bill: Emma-Jean Thackray. Preview the line-up and save it on soundcheck.
+Emma-Jean Thackray & Lagoon Lurve - Movementt at The Carpet Shop on Sat 24 Oct, London. 1 artist on the bill: Emma-Jean Thackray. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # JUDY at Northern Lights Lounge
 
-JUDY at Northern Lights Lounge on Sat 26 Sept, Detroit. 3 acts on the bill: LADYMONIX, Rimarkable and YASMEENAH (2). House and Deep House. Preview the line-up and save it on soundcheck.
+JUDY at Northern Lights Lounge on Sat 26 Sept, Detroit. 3 artists on the bill: LADYMONIX, Rimarkable and YASMEENAH. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

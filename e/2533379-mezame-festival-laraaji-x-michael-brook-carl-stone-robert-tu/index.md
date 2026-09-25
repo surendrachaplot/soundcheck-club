@@ -1,6 +1,6 @@
 # MEZAME FESTIVAL : Laraaji X Michael Brook, Carl Stone, Robert Turman, a.m.p at St. Bartholomew's Church
 
-MEZAME FESTIVAL : Laraaji X Michael Brook, Carl Stone, Robert Turman, a.m.p at St. Bartholomew's Church on Sat 26 Sept, Newyorkcity. 3 acts on the bill: Carl Stone, Laraaji and Robert Turman. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+MEZAME FESTIVAL : Laraaji X Michael Brook, Carl Stone, Robert Turman, a.m.p at St. Bartholomew's Church on Sat 26 Sept, New York City. 3 artists on the bill: Carl Stone, Laraaji and Robert Turman. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

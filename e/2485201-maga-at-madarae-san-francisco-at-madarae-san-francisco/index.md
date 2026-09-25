@@ -1,6 +1,6 @@
 # MAGA AT Madarae San Francisco at Madarae San Francisco
 
-MAGA AT Madarae San Francisco on Sat 10 Oct, Sanfrancisco. 1 act on the bill: MAGA. Preview the line-up and save it on soundcheck.
+MAGA AT Madarae San Francisco on Sat 10 Oct, San Francisco/Oakland. 1 artist on the bill: MAGA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Vessel presents: Inland Knights, along with Hector Moralez, Jason Hodges, + more at Benelux BAR
 
-Vessel presents: Inland Knights, along with Hector Moralez, Jason Hodges, + more at Benelux BAR on Sat 26 Sept, Amsterdam. 9 acts on the bill: DJ Dazy, Dj Jes, Hector Moralez and Inland Knights and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+Vessel presents: Inland Knights, along with Hector Moralez, Jason Hodges, + more at Benelux BAR on Sat 26 Sept, Amsterdam. 9 artists on the bill: DJ Dazy, Dj Jes, Hector Moralez and Inland Knights and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SKRYPTÖM: SHDW, Grace Dahl, Electric Rescue at Virage
 
-SKRYPTÖM: SHDW, Grace Dahl, Electric Rescue at Virage on Fri 9 Oct, Paris. 3 acts on the bill: Electric Rescue, Grace Dahl and SHDW. Preview the line-up and save it on soundcheck.
+SKRYPTÖM: SHDW, Grace Dahl, Electric Rescue at Virage on Fri 9 Oct, Paris. 3 artists on the bill: Electric Rescue, Grace Dahl and SHDW. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

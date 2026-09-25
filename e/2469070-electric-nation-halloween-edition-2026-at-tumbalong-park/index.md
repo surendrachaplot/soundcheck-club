@@ -1,6 +1,6 @@
 # Electric Nation Halloween Edition 2026 at Tumbalong Park
 
-Electric Nation Halloween Edition 2026 at Tumbalong Park on Fri 30 Oct, Sydney. 3 acts on the bill: Bag Raiders, Raffa FL and Yolanda Be Cool. House and Tech House. Preview the line-up and save it on soundcheck.
+Electric Nation Halloween Edition 2026 at Tumbalong Park on Fri 30 Oct, Sydney. 3 artists on the bill: Bag Raiders, Raffa FL and Yolanda Be Cool. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

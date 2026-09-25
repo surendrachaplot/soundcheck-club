@@ -1,6 +1,6 @@
 # CLOSER presents THERMAL with 6 SENSE (LA Debut) at TBA - DTLA
 
-CLOSER presents THERMAL with 6 SENSE (LA Debut) at TBA - DTLA on Fri 6 Nov, Losangeles. 4 acts on the bill: 6 SENSE, Brick (US), fun2bjane and S.I.M. Techno. Preview the line-up and save it on soundcheck.
+CLOSER presents THERMAL with 6 SENSE (LA Debut) at TBA - DTLA on Fri 6 Nov, Los Angeles. 4 artists on the bill: 6 SENSE, Brick (US), fun2bjane and S.I.M. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

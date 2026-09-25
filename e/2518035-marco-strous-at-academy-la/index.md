@@ -1,6 +1,6 @@
 # Marco Strous at Academy LA
 
-Marco Strous at Academy LA on Fri 23 Oct, Losangeles. 1 act on the bill: Marco Strous. House. Preview the line-up and save it on soundcheck.
+Marco Strous at Academy LA on Fri 23 Oct, Los Angeles. 1 artist on the bill: Marco Strous. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

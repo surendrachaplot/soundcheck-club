@@ -1,6 +1,6 @@
 # Promised Wax invites DJ Steaw at Goya Social Club
 
-Promised Wax invites DJ Steaw at Goya Social Club on Fri 25 Sept, Madrid. 3 acts on the bill: DJ Steaw, Lecouple Sound and Palimpseste. House. Preview the line-up and save it on soundcheck.
+Promised Wax invites DJ Steaw at Goya Social Club on Fri 25 Sept, Madrid. 3 artists on the bill: DJ Steaw, Lecouple Sound and Palimpseste. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

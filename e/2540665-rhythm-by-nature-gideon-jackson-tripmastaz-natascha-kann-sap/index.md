@@ -1,6 +1,6 @@
 # Rhythm By Nature: Gideon Jackson, Tripmastaz, Natascha Kann, SaPu at Hoppetosse
 
-Rhythm By Nature: Gideon Jackson, Tripmastaz, Natascha Kann, SaPu at Hoppetosse on Sat 21 Nov, Berlin. 3 acts on the bill: Natascha Kann, SaPu and Tripmastaz. Preview the line-up and save it on soundcheck.
+Rhythm By Nature: Gideon Jackson, Tripmastaz, Natascha Kann, SaPu at Hoppetosse on Sat 21 Nov, Berlin. 3 artists on the bill: Natascha Kann, SaPu and Tripmastaz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

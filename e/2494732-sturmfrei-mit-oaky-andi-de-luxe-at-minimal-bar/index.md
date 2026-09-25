@@ -1,6 +1,6 @@
 # sturmfrei mit Oaky & Andi de Luxe at Minimal Bar
 
-sturmfrei mit Oaky & Andi de Luxe at Minimal Bar on Fri 9 Oct, Berlin. 2 acts on the bill: Andi de Luxe and Oaky. Preview the line-up and save it on soundcheck.
+sturmfrei mit Oaky & Andi de Luxe at Minimal Bar on Fri 9 Oct, Berlin. 2 artists on the bill: Andi de Luxe and Oaky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

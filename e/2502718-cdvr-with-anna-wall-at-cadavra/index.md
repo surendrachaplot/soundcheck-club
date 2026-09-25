@@ -1,6 +1,6 @@
 # CDVR with Anna Wall at Cadavra
 
-CDVR with Anna Wall at Cadavra on Sat 7 Nov, Madrid. 1 act on the bill: Anna Wall. Electronica. Preview the line-up and save it on soundcheck.
+CDVR with Anna Wall at Cadavra on Sat 7 Nov, Madrid. 1 artist on the bill: Anna Wall. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

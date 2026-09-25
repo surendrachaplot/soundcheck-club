@@ -1,6 +1,6 @@
 # DJ Godfather >> Psykoterapi >> OSO at BRONX Sthlm - 10 OCT 2026 at Eventhuset
 
-DJ Godfather >> Psykoterapi >> OSO at BRONX Sthlm - 10 OCT 2026 at Eventhuset on Sat 10 Oct, Stockholm. 3 acts on the bill: DJ Godfather, OSO (3) and Psykoterapi. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
+DJ Godfather >> Psykoterapi >> OSO at BRONX Sthlm - 10 OCT 2026 at Eventhuset on Sat 10 Oct, Stockholm. 3 artists on the bill: DJ Godfather, OSO and Psykoterapi. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

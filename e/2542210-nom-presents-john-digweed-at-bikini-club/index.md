@@ -1,6 +1,6 @@
 # NOM presents John Digweed at Bikini Club
 
-NOM presents John Digweed at Bikini Club on Sat 31 Oct, Barcelona. 2 acts on the bill: John Digweed and Martin Cozar. Preview the line-up and save it on soundcheck.
+NOM presents John Digweed at Bikini Club on Sat 31 Oct, Barcelona. 2 artists on the bill: John Digweed and Martin Cozar. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Eastenderz x Loveland - ADE 2026 at Theater Amsterdam
 
-Eastenderz x Loveland - ADE 2026 at Theater Amsterdam on Thu 22 Oct, Amsterdam. 6 acts on the bill: AAT (NL), East End Dubs, Gaskin and L.P. Rhythm and 2 more. House. Preview the line-up and save it on soundcheck.
+Eastenderz x Loveland - ADE 2026 at Theater Amsterdam on Thu 22 Oct, Amsterdam. 6 artists on the bill: AAT (NL), East End Dubs, Gaskin and L.P. Rhythm and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

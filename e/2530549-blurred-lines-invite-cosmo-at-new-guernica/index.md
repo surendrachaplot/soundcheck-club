@@ -1,6 +1,6 @@
 # Blurred Lines invite Cosmo at New Guernica
 
-Blurred Lines invite Cosmo at New Guernica on Fri 9 Oct, Melbourne. 1 act on the bill: Cosmo (KR). Techno and Deep House. Preview the line-up and save it on soundcheck.
+Blurred Lines invite Cosmo at New Guernica on Fri 9 Oct, Melbourne. 1 artist on the bill: Cosmo (KR). Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

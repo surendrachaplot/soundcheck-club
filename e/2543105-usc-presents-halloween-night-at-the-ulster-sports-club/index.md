@@ -1,6 +1,6 @@
 # USC presents - Halloween Night at The Ulster Sports Club
 
-USC presents - Halloween Night at The Ulster Sports Club on Sat 31 Oct, Belfast. 3 acts on the bill: Conor Schmtz, Marion Hawkes and Mount Kimbie. House and Experimental. Preview the line-up and save it on soundcheck.
+USC presents - Halloween Night at The Ulster Sports Club on Sat 31 Oct, Belfast. 3 artists on the bill: Conor Schmtz, Marion Hawkes and Mount Kimbie. House and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

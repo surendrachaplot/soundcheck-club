@@ -1,6 +1,6 @@
 # VINDICATE 006 - Hard Techno, Schranz & Groove at TBA
 
-VINDICATE 006 - Hard Techno, Schranz & Groove at TBA on Fri 25 Sept, Detroit. 3 acts on the bill: 88 MPH, Austin Buck and J Æ G Ü A R. Techno. Preview the line-up and save it on soundcheck.
+VINDICATE 006 - Hard Techno, Schranz & Groove at TBA on Fri 25 Sept, Detroit. 3 artists on the bill: 88 MPH, Austin Buck and J Æ G Ü A R. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

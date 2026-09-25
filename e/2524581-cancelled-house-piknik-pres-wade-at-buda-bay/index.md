@@ -1,6 +1,6 @@
 # [CANCELLED] House Piknik pres.: Wade at Óbuda Bay
 
-[CANCELLED] House Piknik pres.: Wade at Óbuda Bay on Sat 3 Oct, Budapest. 2 acts on the bill: Antique (HU) and Wade. House and Tech House. Preview the line-up and save it on soundcheck.
+[CANCELLED] House Piknik pres.: Wade at Óbuda Bay on Sat 3 Oct, Budapest. 2 artists on the bill: Antique (HU) and Wade. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

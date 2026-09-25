@@ -1,6 +1,6 @@
 # MARATHON!: Eliza Rose, Jeremy Underground, Mayou Picchu, Cabaret Contemporain, Pierrinski at Cabaret Sauvage
 
-MARATHON!: Eliza Rose, Jeremy Underground, Mayou Picchu, Cabaret Contemporain, Pierrinski at Cabaret Sauvage on Fri 23 Oct, Paris. 3 acts on the bill: Eliza Rose, Jeremy Underground and Pierrinski. House and Deep House. Preview the line-up and save it on soundcheck.
+MARATHON!: Eliza Rose, Jeremy Underground, Mayou Picchu, Cabaret Contemporain, Pierrinski at Cabaret Sauvage on Fri 23 Oct, Paris. 3 artists on the bill: Eliza Rose, Jeremy Underground and Pierrinski. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

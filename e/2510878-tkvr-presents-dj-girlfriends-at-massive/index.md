@@ -1,6 +1,6 @@
 # TKVR presents: DJ Girlfriends at Massive
 
-TKVR presents: DJ Girlfriends at Massive on Thu 19 Nov, Seattle. 2 acts on the bill: Korra the Kid and Mirin Doja. Techno and Club. Preview the line-up and save it on soundcheck.
+TKVR presents: DJ Girlfriends at Massive on Thu 19 Nov, Seattle. 2 artists on the bill: Korra the Kid and Mirin Doja. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

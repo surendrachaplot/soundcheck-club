@@ -1,6 +1,6 @@
 # AkvaWaves pres.: Acid Arab (DJ SET) at Akvárium Klub
 
-AkvaWaves pres.: Acid Arab (DJ SET) at Akvárium Klub on Sat 3 Oct, Budapest. 1 act on the bill: Acid Arab. Electronica. Preview the line-up and save it on soundcheck.
+AkvaWaves pres.: Acid Arab (DJ SET) at Akvárium Klub on Sat 3 Oct, Budapest. 1 artist on the bill: Acid Arab. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

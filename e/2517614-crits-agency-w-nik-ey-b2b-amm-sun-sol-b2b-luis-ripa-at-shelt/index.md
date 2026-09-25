@@ -1,6 +1,6 @@
 # Crits Agency W/ nik-ey b2b Ammé, Sun Sol b2b Luis Ripa at Shelter Amsterdam
 
-Crits Agency W/ nik-ey b2b Ammé, Sun Sol b2b Luis Ripa at Shelter Amsterdam on Fri 16 Oct, Amsterdam. 10 acts on the bill: Ammé, Capra (2), DORA and ETERNAL JOE and 6 more. House. Preview the line-up and save it on soundcheck.
+Crits Agency W/ nik-ey b2b Ammé, Sun Sol b2b Luis Ripa at Shelter Amsterdam on Fri 16 Oct, Amsterdam. 10 artists on the bill: Ammé, Capra, DORA and ETERNAL JOE and 6 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

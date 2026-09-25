@@ -1,8 +1,8 @@
 # Job Jobse
 
-Job Jobse is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Job Jobse is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
-Job Jobse is a house and techno artist based in Netherlands, tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Bali and Barcelona and 43 more. Often billed alongside Palms Trax, BASHKKA and Saoirse. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+Job Jobse is a house and techno artist based in Netherlands, tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Bali and Barcelona and 44 more. Often billed alongside Palms Trax, BASHKKA and KI/KI. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Job Jobse is a house and techno artist based in Netherlands, tracked on soundche
 | Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
 | Mon, 7 Dec 2026 | Carriageworks | Sydney |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
+| Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ Job Jobse is a house and techno artist based in Netherlands, tracked on soundche
 
 ## Shares bills with
 
-Palms Trax, BASHKKA, Saoirse
+Palms Trax, BASHKKA, KI/KI
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*

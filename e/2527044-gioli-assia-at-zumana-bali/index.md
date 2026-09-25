@@ -1,6 +1,6 @@
 # GIOLI & ASSIA at Zumana Bali
 
-GIOLI & ASSIA at Zumana Bali on Fri 20 Nov, Bali. 1 act on the bill: Giolì & Assia. Tech House. Preview the line-up and save it on soundcheck.
+GIOLI & ASSIA at Zumana Bali on Fri 20 Nov, Bali. 1 artist on the bill: Giolì & Assia. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

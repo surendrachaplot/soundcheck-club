@@ -1,6 +1,6 @@
 # Yoi Toki: A Future Funk Halloween feat. Saint Pepsi B2B Vantage at Teragram Ballroom
 
-Yoi Toki: A Future Funk Halloween feat. Saint Pepsi B2B Vantage at Teragram Ballroom on Sat 31 Oct, Losangeles. House and Disco. Preview the line-up and save it on soundcheck.
+Yoi Toki: A Future Funk Halloween feat. Saint Pepsi B2B Vantage at Teragram Ballroom on Sat 31 Oct, Los Angeles. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Entrañas is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Mexico City on Sat, 10 Oct 2026.
 
-Entrañas is a latin bass and club artist based in Ecuador, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Chicago and Denver and 17 more. Often billed alongside Merca Bae, DJ Saratonin and DNZA. Next up: TBA, Mexicocity on Sat 10 Oct.
+Entrañas is a latin bass and club artist based in Ecuador, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Chicago and Denver and 17 more. Often billed alongside Merca Bae, DJ Saratonin and DNZA. Next up: TBA, Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 

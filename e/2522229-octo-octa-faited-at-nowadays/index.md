@@ -1,6 +1,6 @@
 # Octo Octa & Faited at Nowadays
 
-Octo Octa & Faited at Nowadays on Thu 8 Oct, Newyorkcity. 2 acts on the bill: Faited and Octo Octa. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
+Octo Octa & Faited at Nowadays on Thu 8 Oct, New York City. 2 artists on the bill: Faited and Octo Octa. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

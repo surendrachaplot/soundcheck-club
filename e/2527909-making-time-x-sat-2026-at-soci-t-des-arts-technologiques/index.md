@@ -1,6 +1,6 @@
 # Making Time x SAT 2026 at Société des arts technologiques
 
-Making Time x SAT 2026 at Société des arts technologiques on Sat 3 Oct, Montreal. 7 acts on the bill: Aurora Halal, Dave P, Dopplereffekt and Massimiliano Pagliara and 3 more. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Making Time x SAT 2026 at Société des arts technologiques on Sat 3 Oct, Montreal. 7 artists on the bill: Aurora Halal, Dave P, Dopplereffekt and Massimiliano Pagliara and 3 more. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 St. Bartholomew's Church is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "MEZAME FESTIVAL: Light in Darkness ~ The Piano of Music Ryuichi Sakamoto" on Fri, 25 Sept 2026.
 
-St. Bartholomew's Church is a music venue in Newyorkcity listed on soundcheck. 4 upcoming gigs, with line-ups including Araabmuzik, Carl Stone, Crystallmess and Huerco S. and 2 more. Browse upcoming dates, start times and who's playing.
+St. Bartholomew's Church is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Araabmuzik, Carl Stone, Crystallmess and Huerco S. and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

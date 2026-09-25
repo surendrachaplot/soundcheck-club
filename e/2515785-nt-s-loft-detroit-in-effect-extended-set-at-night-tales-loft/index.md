@@ -1,6 +1,6 @@
 # NT's Loft: Detroit In Effect [Extended Set] at Night Tales Loft
 
-NT's Loft: Detroit In Effect [Extended Set] at Night Tales Loft on Fri 20 Nov, London. 1 act on the bill: Detroit In Effect. Preview the line-up and save it on soundcheck.
+NT's Loft: Detroit In Effect [Extended Set] at Night Tales Loft on Fri 20 Nov, London. 1 artist on the bill: Detroit In Effect. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # M.B.K. - Madonna Beyonce Kylie Night at Precinct DTLA
 
-M.B.K. - Madonna Beyonce Kylie Night at Precinct DTLA on Sat 26 Sept, Losangeles. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
+M.B.K. - Madonna Beyonce Kylie Night at Precinct DTLA on Sat 26 Sept, Los Angeles. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

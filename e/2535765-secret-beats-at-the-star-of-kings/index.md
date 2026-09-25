@@ -1,6 +1,6 @@
 # Secret Beats at The Star Of Kings
 
-Secret Beats at The Star Of Kings on Thu 8 Oct, London. 3 acts on the bill: BENXTAN, HangryRacoon and Slipstream. House and Tech House. Preview the line-up and save it on soundcheck.
+Secret Beats at The Star Of Kings on Thu 8 Oct, London. 3 artists on the bill: BENXTAN, HangryRacoon and Slipstream. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

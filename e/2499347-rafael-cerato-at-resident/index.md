@@ -1,6 +1,6 @@
 # Rafael Cerato at Resident
 
-Rafael Cerato at Resident on Fri 2 Oct, Denver. 1 act on the bill: Rafael Cerato. Preview the line-up and save it on soundcheck.
+Rafael Cerato at Resident on Fri 2 Oct, Denver. 1 artist on the bill: Rafael Cerato. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

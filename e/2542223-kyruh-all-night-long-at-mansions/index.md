@@ -1,6 +1,6 @@
 # KYRUH All Night Long at Mansions
 
-KYRUH All Night Long at Mansions on Fri 2 Oct, Newyorkcity. 1 act on the bill: KYRUH. Techno and House. Preview the line-up and save it on soundcheck.
+KYRUH All Night Long at Mansions on Fri 2 Oct, New York City. 1 artist on the bill: KYRUH. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

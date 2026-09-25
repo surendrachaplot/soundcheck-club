@@ -1,6 +1,6 @@
 # Wellness Check presents: Pavel Milyakov (live), Anenon (live), agraybé at TBA - DTLA
 
-Wellness Check presents: Pavel Milyakov (live), Anenon (live), agraybé at TBA - DTLA on Sun 27 Sept, Losangeles. 3 acts on the bill: agraybé, Anenon and Buttechno. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Wellness Check presents: Pavel Milyakov (live), Anenon (live), agraybé at TBA - DTLA on Sun 27 Sept, Los Angeles. 3 artists on the bill: agraybé, Anenon and Buttechno. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SIREN: DEEP SEA – WERME / Miss S. Peace at The Jeanie Johnston Pub
 
-SIREN: DEEP SEA – WERME / Miss S. Peace at The Jeanie Johnston Pub on Fri 2 Oct, Boston. 1 act on the bill: WERME. House and Deep House. Preview the line-up and save it on soundcheck.
+SIREN: DEEP SEA – WERME / Miss S. Peace at The Jeanie Johnston Pub on Fri 2 Oct, Boston. 1 artist on the bill: WERME. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

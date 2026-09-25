@@ -1,6 +1,6 @@
 # Black Silk Stocking // 1 Year Anniversary at Gold Diggers
 
-Black Silk Stocking // 1 Year Anniversary at Gold Diggers on Thu 1 Oct, Losangeles. EBM and Electronica. Preview the line-up and save it on soundcheck.
+Black Silk Stocking // 1 Year Anniversary at Gold Diggers on Thu 1 Oct, Los Angeles. EBM and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

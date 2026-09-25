@@ -1,6 +1,6 @@
 # E1 x ADE: DXNBY, Jay de Lys & Simon Kidzoo at Oliva
 
-E1 x ADE: DXNBY, Jay de Lys & Simon Kidzoo at Oliva on Fri 23 Oct, Amsterdam. 6 acts on the bill: DJ ORA, DXNBY, Jay de Lys and Joey Daniel and 2 more. House and Minimal. Preview the line-up and save it on soundcheck.
+E1 x ADE: DXNBY, Jay de Lys & Simon Kidzoo at Oliva on Fri 23 Oct, Amsterdam. 6 artists on the bill: DJ ORA, DXNBY, Jay de Lys and Joey Daniel and 2 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

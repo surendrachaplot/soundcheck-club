@@ -1,6 +1,6 @@
 # Pappenheimer, Kerstin Eden, A*S*Y*S, S. Groth, Drumcomplex uvm. by BACK2BASICS XXL at Schrotty
 
-Pappenheimer, Kerstin Eden, A*S*Y*S, S. Groth, Drumcomplex uvm. by BACK2BASICS XXL at Schrotty on Fri 16 Oct, Cologne. 10 acts on the bill: A*S*Y*S (2), Andreas Kraemer, Daniela Hensel and Drumcomplex and 6 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Pappenheimer, Kerstin Eden, A*S*Y*S, S. Groth, Drumcomplex uvm. by BACK2BASICS XXL at Schrotty on Fri 16 Oct, Cologne. 10 artists on the bill: A*S*Y*S, Andreas Kraemer, Daniela Hensel and Drumcomplex and 6 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

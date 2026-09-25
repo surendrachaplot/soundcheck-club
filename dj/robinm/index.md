@@ -2,7 +2,7 @@
 
 Robin M is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Bunker @ The Rolling Stock, London on Fri, 2 Oct 2026.
 
-Robin M is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Ibiza, London and Sanfrancisco. Often billed alongside Jeremiah Asiamah, Bedouin and L.A. Dave. Next up: The Bunker @ The Rolling Stock, London on Fri 2 Oct.
+Robin M is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Ibiza, London and San Francisco/Oakland. Often billed alongside Jeremiah Asiamah, Bedouin and L.A. Dave. Next up: The Bunker @ The Rolling Stock, London on Fri 2 Oct.
 
 ## Upcoming shows
 

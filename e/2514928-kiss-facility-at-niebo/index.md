@@ -1,6 +1,6 @@
 # Kiss Facility at NIEBO
 
-Kiss Facility at NIEBO on Mon 28 Sept, Warsaw. 1 act on the bill: Sega Bodega. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Kiss Facility at NIEBO on Mon 28 Sept, Warsaw. 1 artist on the bill: Sega Bodega. Pop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

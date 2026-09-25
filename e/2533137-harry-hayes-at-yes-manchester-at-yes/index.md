@@ -1,6 +1,6 @@
 # Harry Hayes - at Yes Manchester at Yes
 
-Harry Hayes - at Yes Manchester on Sat 10 Oct, Manchester. 1 act on the bill: Harry Hayes. House and Garage. Preview the line-up and save it on soundcheck.
+Harry Hayes - at Yes Manchester on Sat 10 Oct, Manchester. 1 artist on the bill: Harry Hayes. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

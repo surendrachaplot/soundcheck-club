@@ -1,6 +1,6 @@
 # LEGENDS at Rex Club
 
-LEGENDS at Rex Club on Sun 25 Oct, Paris. 1 act on the bill: DJ Deep. Techno and House. Preview the line-up and save it on soundcheck.
+LEGENDS at Rex Club on Sun 25 Oct, Paris. 1 artist on the bill: DJ Deep. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

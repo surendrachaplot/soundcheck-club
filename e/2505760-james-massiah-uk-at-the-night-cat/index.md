@@ -1,6 +1,6 @@
 # James Massiah (UK) at The Night Cat
 
-James Massiah (UK) at The Night Cat on Thu 24 Sept, Melbourne. 1 act on the bill: James Massiah. Dub and Dancehall. Preview the line-up and save it on soundcheck.
+James Massiah (UK) at The Night Cat on Thu 24 Sept, Melbourne. 1 artist on the bill: James Massiah. Dub and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

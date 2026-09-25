@@ -2,7 +2,7 @@
 
 Toro Y Moi is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fortune Sound Club, Vancouver on Sat, 26 Sept 2026.
 
-Toro Y Moi is a house and pop artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles, Miami, Paris and Sanfrancisco and 2 more. Often billed alongside 1-800-Lolita, 619! and ALEJO (US). Next up: Fortune Sound Club, Vancouver on Sat 26 Sept.
+Toro Y Moi is a house and pop artist based in United States of America, tracked on soundcheck, with 10 sets logged across Los Angeles, Miami, Paris and San Francisco/Oakland and 2 more. Often billed alongside 1-800-Lolita, 619! and ALEJO (US). Next up: Fortune Sound Club, Vancouver on Sat 26 Sept.
 
 ## Upcoming shows
 

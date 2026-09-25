@@ -1,6 +1,6 @@
 # Adiel at KALT
 
-Adiel at KALT on Sat 12 Dec, Strasbourg. 1 act on the bill: Adiel. Preview the line-up and save it on soundcheck.
+Adiel at KALT on Sat 12 Dec, Strasbourg. 1 artist on the bill: Adiel. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

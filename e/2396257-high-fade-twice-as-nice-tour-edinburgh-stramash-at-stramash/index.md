@@ -1,6 +1,6 @@
 # High Fade Twice as Nice Tour - Edinburgh Stramash at Stramash
 
-High Fade Twice as Nice Tour - Edinburgh Stramash on Fri 9 Oct, Edinburgh. 1 act on the bill: High Fade. Funk / Soul. Preview the line-up and save it on soundcheck.
+High Fade Twice as Nice Tour - Edinburgh Stramash on Fri 9 Oct, Edinburgh. 1 artist on the bill: High Fade. Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

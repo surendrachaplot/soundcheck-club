@@ -1,6 +1,6 @@
 # SUBCERO CLUB x OFFLINE at Subcero Club
 
-SUBCERO CLUB x OFFLINE at Subcero Club on Sat 26 Sept, Madrid. 1 act on the bill: Jorge Padilla. Electronica. Preview the line-up and save it on soundcheck.
+SUBCERO CLUB x OFFLINE at Subcero Club on Sat 26 Sept, Madrid. 1 artist on the bill: Jorge Padilla. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

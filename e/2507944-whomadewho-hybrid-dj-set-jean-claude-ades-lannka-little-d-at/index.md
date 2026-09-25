@@ -1,6 +1,6 @@
 # WhoMadeWho (Hybrid DJ Set), Jean Claude Ades, Lannka, Little D at Scorpios
 
-WhoMadeWho (Hybrid DJ Set), Jean Claude Ades, Lannka, Little D at Scorpios on Sun 4 Oct, Mykonos. 2 acts on the bill: Jean Claude Ades and WhoMadeWho. House and Tech House. Preview the line-up and save it on soundcheck.
+WhoMadeWho (Hybrid DJ Set), Jean Claude Ades, Lannka, Little D at Scorpios on Sun 4 Oct, Mykonos. 2 artists on the bill: Jean Claude Ades and WhoMadeWho. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NCTRN023: Club Nocturne presents Liam Doc at Cabaret Voltaire
 
-NCTRN023: Club Nocturne presents Liam Doc at Cabaret Voltaire on Sat 26 Sept, Edinburgh. 2 acts on the bill: Liam Doc and Macka. House. Preview the line-up and save it on soundcheck.
+NCTRN023: Club Nocturne presents Liam Doc at Cabaret Voltaire on Sat 26 Sept, Edinburgh. 2 artists on the bill: Liam Doc and Macka. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

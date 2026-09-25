@@ -1,6 +1,6 @@
 # Nido House Masters - Chez Damier, Flyuko, Paul Cut (live) at Nido Marseille
 
-Nido House Masters - Chez Damier, Flyuko, Paul Cut (live) at Nido Marseille on Sat 3 Oct, Marseille. 2 acts on the bill: Chez Damier and Paul Cut. Preview the line-up and save it on soundcheck.
+Nido House Masters - Chez Damier, Flyuko, Paul Cut (live) at Nido Marseille on Sat 3 Oct, Marseille. 2 artists on the bill: Chez Damier and Paul Cut. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Vaudou Cochon: 2ManyDJs (djset), Anja Sugar, Eddie Megraoui at Rex Club
 
-Vaudou Cochon: 2ManyDJs (djset), Anja Sugar, Eddie Megraoui at Rex Club on Thu 15 Oct, Paris. 2 acts on the bill: 2ManyDJs and Anja Sugar. House and Electro. Preview the line-up and save it on soundcheck.
+Vaudou Cochon: 2ManyDJs (djset), Anja Sugar, Eddie Megraoui at Rex Club on Thu 15 Oct, Paris. 2 artists on the bill: 2ManyDJs and Anja Sugar. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

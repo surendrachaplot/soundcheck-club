@@ -1,6 +1,6 @@
 # [UNVRS] CLOSING 2026 at [UNVRS]
 
-[UNVRS] CLOSING 2026 on Sat 10 Oct, Ibiza. 11 acts on the bill: Adriatique, Bender (DE), Dennis Cruz and Dennis Quin and 7 more. Preview the line-up and save it on soundcheck.
+[UNVRS] CLOSING 2026 on Sat 10 Oct, Ibiza. 11 artists on the bill: Adriatique, Bender (DE), Dennis Cruz and Dennis Quin and 7 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Orbits: Deep Hypnotic Techno with Kairogen at McChuills Music Bar
 
-Orbits: Deep Hypnotic Techno with Kairogen at McChuills Music Bar on Fri 9 Oct, Glasgow. 4 acts on the bill: Deepbass, Fernie, Kairogen and Repart. Techno. Preview the line-up and save it on soundcheck.
+Orbits: Deep Hypnotic Techno with Kairogen at McChuills Music Bar on Fri 9 Oct, Glasgow. 4 artists on the bill: Deepbass, Fernie, Kairogen and Repart. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

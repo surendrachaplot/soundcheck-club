@@ -1,6 +1,6 @@
 # Bass Station X Soul in Motion LDN at Cafeteria
 
-Bass Station X Soul in Motion LDN at Cafeteria on Fri 16 Oct, Toronto. 3 acts on the bill: Gremlinz, Need For Mirrors and Rhythmo. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Bass Station X Soul in Motion LDN at Cafeteria on Fri 16 Oct, Toronto. 3 artists on the bill: Gremlinz, Need For Mirrors and Rhythmo. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

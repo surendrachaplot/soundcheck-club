@@ -1,6 +1,6 @@
 # Reggaeton Rave - Sep 26 - Brooklyn, NY (21+) at The Brooklyn Monarch
 
-Reggaeton Rave - Sep 26 - Brooklyn, NY (21+) at The Brooklyn Monarch on Sat 26 Sept, Newyorkcity. Club and Reggaeton. Preview the line-up and save it on soundcheck.
+Reggaeton Rave - Sep 26 - Brooklyn, NY (21+) at The Brooklyn Monarch on Sat 26 Sept, New York City. Club and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

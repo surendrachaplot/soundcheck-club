@@ -1,6 +1,6 @@
 # Late Night Essentials 4th Birthday at Avalon Cafe Bermondsey
 
-Late Night Essentials 4th Birthday at Avalon Cafe Bermondsey on Sat 24 Oct, London. 3 acts on the bill: Isaac Frost, Kristina May and Neev.. Techno and Electro. Preview the line-up and save it on soundcheck.
+Late Night Essentials 4th Birthday at Avalon Cafe Bermondsey on Sat 24 Oct, London. 3 artists on the bill: Isaac Frost, Kristina May and Neev.. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

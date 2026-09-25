@@ -1,6 +1,6 @@
 # Benwal, Diffrent, Kyle Starkey, Paige Tomlinson, STÜM, + b2b2b2b2b2b at Cermak Hall at Radius
 
-Benwal, Diffrent, Kyle Starkey, Paige Tomlinson, STÜM, + b2b2b2b2b2b at Cermak Hall at Radius on Sat 14 Nov, Chicago. 5 acts on the bill: Benwal, Diffrent, Kyle Starkey and Paige Tomlinson and 1 more. Preview the line-up and save it on soundcheck.
+Benwal, Diffrent, Kyle Starkey, Paige Tomlinson, STÜM, + b2b2b2b2b2b at Cermak Hall at Radius on Sat 14 Nov, Chicago. 5 artists on the bill: Benwal, Diffrent, Kyle Starkey and Paige Tomlinson and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

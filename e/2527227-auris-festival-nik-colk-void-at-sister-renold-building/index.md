@@ -1,6 +1,6 @@
 # Auris Festival: Nik Colk Void at Sister - Renold Building
 
-Auris Festival: Nik Colk Void at Sister - Renold Building on Fri 9 Oct, Manchester. 1 act on the bill: Nik Colk Void. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Auris Festival: Nik Colk Void at Sister - Renold Building on Fri 9 Oct, Manchester. 1 artist on the bill: Nik Colk Void. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

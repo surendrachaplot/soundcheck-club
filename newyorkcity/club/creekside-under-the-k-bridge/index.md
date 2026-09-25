@@ -2,7 +2,7 @@
 
 Creekside - Under The K Bridge is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "HI-LO *3hr set* with Rebūke" on Sun, 11 Oct 2026.
 
-Creekside - Under The K Bridge is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including HI-LO, Ksenyeah, Manguito and MEDINA and 2 more. Browse upcoming dates, start times and who's playing. 518 Gardner Ave  Brooklyn NY 11222.
+Creekside - Under The K Bridge is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including HI-LO, Ksenyeah, Manguito and MEDINA and 2 more. Browse upcoming dates, start times and who's playing. 518 Gardner Ave  Brooklyn NY 11222.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # WEERD at NAR
 
-WEERD at NAR on Sun 4 Oct, Utrecht. 2 acts on the bill: Nuno dos Santos and Vasco. Preview the line-up and save it on soundcheck.
+WEERD at NAR on Sun 4 Oct, Utrecht. 2 artists on the bill: Nuno dos Santos and Vasco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MOTIONSICK PRESENTS: TRANSPORT at Podlasie Club
 
-MOTIONSICK PRESENTS: TRANSPORT at Podlasie Club on Thu 24 Sept, Chicago. 1 act on the bill: KIMBÄ. Preview the line-up and save it on soundcheck.
+MOTIONSICK PRESENTS: TRANSPORT at Podlasie Club on Thu 24 Sept, Chicago. 1 artist on the bill: KIMBÄ. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

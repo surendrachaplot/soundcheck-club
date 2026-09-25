@@ -1,6 +1,6 @@
 # MOOG HISTORY: FRIGOLUM aka MARC FRIGOLA (62HZ) + uroz at Moog Club
 
-MOOG HISTORY: FRIGOLUM aka MARC FRIGOLA (62HZ) + uroz at Moog Club on Thu 24 Sept, Barcelona. 1 act on the bill: uroz. Techno. Preview the line-up and save it on soundcheck.
+MOOG HISTORY: FRIGOLUM aka MARC FRIGOLA (62HZ) + uroz at Moog Club on Thu 24 Sept, Barcelona. 1 artist on the bill: uroz. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

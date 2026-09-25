@@ -1,6 +1,6 @@
 # Robin Schulz at Pacha Ibiza
 
-Robin Schulz at Pacha Ibiza on Sat 26 Sept, Ibiza. 2 acts on the bill: Noel Holler and Robin Schulz. House. Preview the line-up and save it on soundcheck.
+Robin Schulz at Pacha Ibiza on Sat 26 Sept, Ibiza. 2 artists on the bill: Noel Holler and Robin Schulz. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

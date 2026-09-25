@@ -2,7 +2,7 @@
 
 Baby Jane is a Electro and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fairmount Theatre, Montreal on Wed, 2 Dec 2026.
 
-Baby Jane is an electro and hardcore artist based in United States of America, tracked on soundcheck, with 3 sets logged across Montreal, Portland and Sandiego. Often billed alongside Flapjack. Next up: Fairmount Theatre, Montreal on Wed 2 Dec.
+Baby Jane is an electro and hardcore artist based in United States of America, tracked on soundcheck, with 3 sets logged across Montreal, Portland and San Diego. Often billed alongside Flapjack. Next up: Fairmount Theatre, Montreal on Wed 2 Dec.
 
 ## Upcoming shows
 

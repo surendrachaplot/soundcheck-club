@@ -1,6 +1,6 @@
 # Rebel Dread Rockers: Don Letts + Andy Smith at Future Yard
 
-Rebel Dread Rockers: Don Letts + Andy Smith at Future Yard on Fri 25 Sept, Liverpool. 1 act on the bill: DJ Andy Smith. Dub and Funk / Soul. Preview the line-up and save it on soundcheck.
+Rebel Dread Rockers: Don Letts + Andy Smith at Future Yard on Fri 25 Sept, Liverpool. 1 artist on the bill: DJ Andy Smith. Dub and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Around Us & Callecat Invites at Kadinsky Cafe
 
-Around Us & Callecat Invites at Kadinsky Cafe on Thu 22 Oct, Amsterdam. 9 acts on the bill: Albano Bastonero, Around Us, Bass van Duijn and Callecat and 5 more. Progressive House. Preview the line-up and save it on soundcheck.
+Around Us & Callecat Invites at Kadinsky Cafe on Thu 22 Oct, Amsterdam. 9 artists on the bill: Albano Bastonero, Around Us, Bass van Duijn and Callecat and 5 more. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

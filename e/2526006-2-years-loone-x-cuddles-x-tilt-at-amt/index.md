@@ -1,6 +1,6 @@
 # 2 YEARS LOONE x CUDDLES x TILT at AMT
 
-2 YEARS LOONE x CUDDLES x TILT at AMT on Fri 25 Sept, Berlin. 11 acts on the bill: Aaron Blau, AYLIN IDAH, Blue Hour and ENNIO and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
+2 YEARS LOONE x CUDDLES x TILT at AMT on Fri 25 Sept, Berlin. 11 artists on the bill: Aaron Blau, AYLIN IDAH, Blue Hour and ENNIO and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

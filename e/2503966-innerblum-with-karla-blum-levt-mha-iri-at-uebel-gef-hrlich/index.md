@@ -1,6 +1,6 @@
 # Innerblum with Karla Blum, Levt, Mha iri at Uebel & Gefährlich
 
-Innerblum with Karla Blum, Levt, Mha iri at Uebel & Gefährlich on Sat 10 Oct, Hamburg. 3 acts on the bill: Karla Blum, Levt and Mha iri. Preview the line-up and save it on soundcheck.
+Innerblum with Karla Blum, Levt, Mha iri at Uebel & Gefährlich on Sat 10 Oct, Hamburg. 3 artists on the bill: Karla Blum, Levt and Mha iri. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

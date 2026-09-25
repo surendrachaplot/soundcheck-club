@@ -1,6 +1,6 @@
 # BIOSPHERE at Club Exil
 
-BIOSPHERE at Club Exil on Fri 6 Nov, Vienna. 6 acts on the bill: Anna Ullrich, DORAH, maro and Sam Paganini and 2 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+BIOSPHERE at Club Exil on Fri 6 Nov, Vienna. 6 artists on the bill: Anna Ullrich, DORAH, maro and Sam Paganini and 2 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Pau Pérez + blan.trrs / Bar: La Punta Djs: Depanachi + Jordan + Mardi + Nate Cabrera at Oven Club
 
-Pau Pérez + blan.trrs / Bar: La Punta Djs: Depanachi + Jordan + Mardi + Nate Cabrera at Oven Club on Sat 26 Sept, Valencia. 4 acts on the bill: BAR (DE), blan.trrs, Jordan and Pau Pérez. House and Tech House. Preview the line-up and save it on soundcheck.
+Pau Pérez + blan.trrs / Bar: La Punta Djs: Depanachi + Jordan + Mardi + Nate Cabrera at Oven Club on Sat 26 Sept, Valencia. 4 artists on the bill: BAR (DE), blan.trrs, Jordan and Pau Pérez. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

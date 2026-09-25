@@ -1,6 +1,6 @@
 # Certified Groovers: Gene On Earth in LA at TBA - Downtown Los Angeles
 
-Certified Groovers: Gene On Earth in LA at TBA - Downtown Los Angeles on Fri 25 Sept, Losangeles. 7 acts on the bill: Chemtrail Johnny, Cromie, Gene On Earth and Gilbert0 and 3 more. Preview the line-up and save it on soundcheck.
+Certified Groovers: Gene On Earth in LA at TBA - Downtown Los Angeles on Fri 25 Sept, Los Angeles. 7 artists on the bill: Chemtrail Johnny, Cromie, Gene On Earth and Gilbert0 and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Back to events Cirque De Boudoir Halloween 2026: BLACK MASS CABARET at Cabaret Lion D'or
 
-Back to events Cirque De Boudoir Halloween 2026: BLACK MASS CABARET at Cabaret Lion D'or on Fri 30 Oct, Montreal. 3 acts on the bill: DJ Davidé, DJ Mushin and Maudite Machine. Tech House and Electro. Preview the line-up and save it on soundcheck.
+Back to events Cirque De Boudoir Halloween 2026: BLACK MASS CABARET at Cabaret Lion D'or on Fri 30 Oct, Montreal. 3 artists on the bill: DJ Davidé, DJ Mushin and Maudite Machine. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

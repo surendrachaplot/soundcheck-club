@@ -1,6 +1,6 @@
 # ELEVATE - Season opening with Pancratio at Amboss Rampe
 
-ELEVATE - Season opening with Pancratio at Amboss Rampe on Sat 26 Sept, Zurich. 3 acts on the bill: Aline (CH), Pancratio and Tajara. House. Preview the line-up and save it on soundcheck.
+ELEVATE - Season opening with Pancratio at Amboss Rampe on Sat 26 Sept, Zurich. 3 artists on the bill: Aline (CH), Pancratio and Tajara. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

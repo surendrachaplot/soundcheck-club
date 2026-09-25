@@ -1,6 +1,6 @@
 # Social Sounds presents Chris Flannigan, Emma O + Sophie at The Ulster Sports Club
 
-Social Sounds presents Chris Flannigan, Emma O + Sophie at The Ulster Sports Club on Sat 17 Oct, Belfast. 2 acts on the bill: Chris Flannigan and Sophie (2). Preview the line-up and save it on soundcheck.
+Social Sounds presents Chris Flannigan, Emma O + Sophie at The Ulster Sports Club on Sat 17 Oct, Belfast. 2 artists on the bill: Chris Flannigan and Sophie. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

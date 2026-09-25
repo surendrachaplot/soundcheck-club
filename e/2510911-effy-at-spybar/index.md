@@ -1,6 +1,6 @@
 # Effy at Spybar
 
-Effy at Spybar on Sat 24 Oct, Chicago. 1 act on the bill: Effy. Techno and Bass. Preview the line-up and save it on soundcheck.
+Effy at Spybar on Sat 24 Oct, Chicago. 1 artist on the bill: Effy. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

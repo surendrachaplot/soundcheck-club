@@ -1,6 +1,6 @@
 # Niki Sadeki at Do Not Sit On The Furniture
 
-Niki Sadeki at Do Not Sit On The Furniture on Sat 26 Sept, Miami. 1 act on the bill: Niki Sadeki. House and Deep House. Preview the line-up and save it on soundcheck.
+Niki Sadeki at Do Not Sit On The Furniture on Sat 26 Sept, Miami. 1 artist on the bill: Niki Sadeki. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # House 4 Adults ___ DJ Cubik at Bar v Krymský
 
-House 4 Adults ___ DJ Cubik at Bar v Krymský on Fri 30 Oct, Prague. 1 act on the bill: Cubik. Deep House. Preview the line-up and save it on soundcheck.
+House 4 Adults ___ DJ Cubik at Bar v Krymský on Fri 30 Oct, Prague. 1 artist on the bill: Cubik. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

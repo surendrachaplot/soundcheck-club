@@ -1,6 +1,6 @@
 # Opening Onderhans x Bubble House at Onder Hans
 
-Opening Onderhans x Bubble House at Onder Hans on Thu 1 Oct, Amsterdam. 2 acts on the bill: Munay and Wouter S. House and Deep House. Preview the line-up and save it on soundcheck.
+Opening Onderhans x Bubble House at Onder Hans on Thu 1 Oct, Amsterdam. 2 artists on the bill: Munay and Wouter S. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

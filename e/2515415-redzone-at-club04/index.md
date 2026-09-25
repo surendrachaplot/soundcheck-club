@@ -1,6 +1,6 @@
 # REDZONE at Club04
 
-REDZONE at Club04 on Fri 25 Sept, Zurich. 2 acts on the bill: David Kawka and Patrik Widmer. Preview the line-up and save it on soundcheck.
+REDZONE at Club04 on Fri 25 Sept, Zurich. 2 artists on the bill: David Kawka and Patrik Widmer. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

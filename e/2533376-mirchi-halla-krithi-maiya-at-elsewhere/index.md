@@ -1,6 +1,6 @@
 # MIRCHI: Halla, Krithi, MAIYA at Elsewhere
 
-MIRCHI: Halla, Krithi, MAIYA at Elsewhere on Fri 16 Oct, Newyorkcity. 2 acts on the bill: Krithi and MAIYA. Preview the line-up and save it on soundcheck.
+MIRCHI: Halla, Krithi, MAIYA at Elsewhere on Fri 16 Oct, New York City. 2 artists on the bill: Krithi and MAIYA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

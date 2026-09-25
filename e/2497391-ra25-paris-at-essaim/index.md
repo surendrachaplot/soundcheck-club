@@ -1,6 +1,6 @@
 # RA25: Paris at essaim
 
-RA25: Paris at essaim on Thu 12 Nov, Paris. 2 acts on the bill: Joe Claussell and Ron Trent. Preview the line-up and save it on soundcheck.
+RA25: Paris at essaim on Thu 12 Nov, Paris. 2 artists on the bill: Joe Claussell and Ron Trent. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

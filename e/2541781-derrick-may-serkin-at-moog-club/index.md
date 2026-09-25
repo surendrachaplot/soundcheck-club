@@ -1,6 +1,6 @@
 # Derrick May + Serkin at Moog Club
 
-Derrick May + Serkin at Moog Club on Fri 9 Oct, Barcelona. 2 acts on the bill: Derrick May and Serkin. Techno. Preview the line-up and save it on soundcheck.
+Derrick May + Serkin at Moog Club on Fri 9 Oct, Barcelona. 2 artists on the bill: Derrick May and Serkin. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

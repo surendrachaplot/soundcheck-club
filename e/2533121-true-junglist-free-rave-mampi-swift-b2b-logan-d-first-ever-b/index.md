@@ -1,6 +1,6 @@
 # True Junglist FREE RAVE - Mampi Swift B2B Logan D [First-Ever B2B] + Special Guest MC at The Clock Factory
 
-True Junglist FREE RAVE - Mampi Swift B2B Logan D [First-Ever B2B] + Special Guest MC at The Clock Factory on Sat 3 Oct, Bristol. 2 acts on the bill: Logan D and Mampi Swift. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+True Junglist FREE RAVE - Mampi Swift B2B Logan D [First-Ever B2B] + Special Guest MC at The Clock Factory on Sat 3 Oct, Bristol. 2 artists on the bill: Logan D and Mampi Swift. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

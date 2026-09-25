@@ -2,7 +2,7 @@
 
 HERS is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nomad Warehouse // Galpón Mercedes Sosa, Buenos Aires on Sat, 10 Oct 2026.
 
-HERS is a techno and electronica artist based in Argentina, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 1 more. Often billed alongside JXXXO, Bondarük and Lucas Sosa (AR). Next up: Nomad Warehouse // Galpón Mercedes Sosa, Buenosaires on Sat 10 Oct.
+HERS is a techno and electronica artist based in Argentina, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 1 more. Often billed alongside JXXXO, Bondarük and Lucas Sosa (AR). Next up: Nomad Warehouse // Galpón Mercedes Sosa, Buenos Aires on Sat 10 Oct.
 
 ## Upcoming shows
 

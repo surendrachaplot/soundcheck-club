@@ -2,7 +2,7 @@
 
 Daybreak is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Thu, 24 Sept 2026.
 
-Daybreak is a techno and trance artist based in United States of America, tracked on soundcheck, with 32 sets logged across Bangkok, Berlin, Boston and Chicago and 3 more. Often billed alongside Telesforo, Michelle Kay and BЯEE. Next up: Signal, Newyorkcity on Thu 24 Sept.
+Daybreak is a techno and trance artist based in United States of America, tracked on soundcheck, with 32 sets logged across Bangkok, Berlin, Boston and Chicago and 3 more. Often billed alongside Telesforo, Michelle Kay and BЯEE. Next up: Signal, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

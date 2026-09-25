@@ -1,6 +1,6 @@
 # 77 SESSIONS: KOTTO at 77
 
-77 SESSIONS: KOTTO on Fri 25 Sept, London. 2 acts on the bill: Dan Luxa and Hazel Marimba. House. Preview the line-up and save it on soundcheck.
+77 SESSIONS: KOTTO on Fri 25 Sept, London. 2 artists on the bill: Dan Luxa and Hazel Marimba. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

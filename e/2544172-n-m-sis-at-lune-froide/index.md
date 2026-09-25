@@ -1,6 +1,6 @@
 # NÉMÉSIS at Lune Froide
 
-NÉMÉSIS at Lune Froide on Sat 10 Oct, Nantes. 2 acts on the bill: ANNY SUJAR and Marco R. House and Minimal. Preview the line-up and save it on soundcheck.
+NÉMÉSIS at Lune Froide on Sat 10 Oct, Nantes. 2 artists on the bill: ANNY SUJAR and Marco R. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

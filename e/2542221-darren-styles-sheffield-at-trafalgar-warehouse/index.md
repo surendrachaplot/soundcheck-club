@@ -1,6 +1,6 @@
 # Darren Styles - Sheffield at Trafalgar Warehouse
 
-Darren Styles - Sheffield at Trafalgar Warehouse on Sat 17 Oct, Sheffield. 1 act on the bill: Darren Styles. Preview the line-up and save it on soundcheck.
+Darren Styles - Sheffield at Trafalgar Warehouse on Sat 17 Oct, Sheffield. 1 artist on the bill: Darren Styles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

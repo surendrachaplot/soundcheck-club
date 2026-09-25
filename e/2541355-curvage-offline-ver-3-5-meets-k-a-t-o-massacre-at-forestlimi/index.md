@@ -1,6 +1,6 @@
 # CURVAGE OFFLINE VER.3.5 MEETS K/A/T/O MASSACRE at Forestlimit
 
-CURVAGE OFFLINE VER.3.5 MEETS K/A/T/O MASSACRE at Forestlimit on Wed 14 Oct, Tokyo. 3 acts on the bill: Bby Eco, Jinga and Telematic Visions. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+CURVAGE OFFLINE VER.3.5 MEETS K/A/T/O MASSACRE at Forestlimit on Wed 14 Oct, Tokyo. 3 artists on the bill: Bby Eco, Jinga and Telematic Visions. Ambient and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

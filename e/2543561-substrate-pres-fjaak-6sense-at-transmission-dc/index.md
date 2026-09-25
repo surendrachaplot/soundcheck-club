@@ -1,6 +1,6 @@
 # Substrate Pres. FJAAK, 6SENSE at TRANSMISSION DC
 
-Substrate Pres. FJAAK, 6SENSE at TRANSMISSION DC on Thu 12 Nov, Washingtondc. 2 acts on the bill: 6 SENSE and FJAAK. Techno. Preview the line-up and save it on soundcheck.
+Substrate Pres. FJAAK, 6SENSE at TRANSMISSION DC on Thu 12 Nov, Washington DC. 2 artists on the bill: 6 SENSE and FJAAK. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

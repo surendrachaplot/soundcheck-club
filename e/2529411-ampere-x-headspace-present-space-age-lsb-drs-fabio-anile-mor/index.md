@@ -1,6 +1,6 @@
 # Ampere x Headspace present Space Age: LSB, DRS, Fabio, Anile + More at Ampere
 
-Ampere x Headspace present Space Age: LSB, DRS, Fabio, Anile + More on Sat 10 Oct, Antwerp. 5 acts on the bill: DRS, Expensive KVR, Fabio and Hiraeth and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+Ampere x Headspace present Space Age: LSB, DRS, Fabio, Anile + More on Sat 10 Oct, Antwerp. 5 artists on the bill: DRS, Expensive KVR, Fabio and Hiraeth and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

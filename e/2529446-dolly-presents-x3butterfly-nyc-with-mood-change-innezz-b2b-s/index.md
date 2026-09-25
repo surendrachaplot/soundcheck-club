@@ -1,6 +1,6 @@
 # DOLLY presents... x3butterfly (NYC) with Mood Change & INNEZZ b2b SUBDIDI at TBA - Private Location
 
-DOLLY presents... x3butterfly (NYC) with Mood Change & INNEZZ b2b SUBDIDI at TBA - Private Location on Sat 10 Oct, Vancouver. 4 acts on the bill: INNEZZ, Mood Change, SUBDIDI and x3butterfly. Bass and Acid. Preview the line-up and save it on soundcheck.
+DOLLY presents... x3butterfly (NYC) with Mood Change & INNEZZ b2b SUBDIDI at TBA - Private Location on Sat 10 Oct, Vancouver. 4 artists on the bill: INNEZZ, Mood Change, SUBDIDI and x3butterfly. Bass and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

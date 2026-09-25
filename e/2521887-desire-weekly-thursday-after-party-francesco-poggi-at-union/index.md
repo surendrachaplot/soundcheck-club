@@ -1,6 +1,6 @@
 # DESIRE - Weekly Thursday After Party - Francesco Poggi at Union Club, Vauxhall
 
-DESIRE - Weekly Thursday After Party - Francesco Poggi at Union Club, Vauxhall on Thu 22 Oct, London. 5 acts on the bill: Dhez, Duwat?, Elisa Nau. and Francesco Poggi and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+DESIRE - Weekly Thursday After Party - Francesco Poggi at Union Club, Vauxhall on Thu 22 Oct, London. 5 artists on the bill: Dhez, Duwat?, Elisa Nau. and Francesco Poggi and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

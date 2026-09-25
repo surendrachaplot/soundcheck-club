@@ -1,6 +1,6 @@
 # Sublimina at H0L0
 
-Sublimina at H0L0 on Thu 24 Sept, Newyorkcity. 2 acts on the bill: MOLTØNY and SYTHRA. Techno. Preview the line-up and save it on soundcheck.
+Sublimina at H0L0 on Thu 24 Sept, New York City. 2 artists on the bill: MOLTØNY and SYTHRA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

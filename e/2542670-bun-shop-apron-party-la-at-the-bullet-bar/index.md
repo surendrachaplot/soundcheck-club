@@ -1,6 +1,6 @@
 # Bun Shop Apron Party LA at The Bullet Bar
 
-Bun Shop Apron Party LA at The Bullet Bar on Fri 16 Oct, Losangeles. Disco and Club. Preview the line-up and save it on soundcheck.
+Bun Shop Apron Party LA at The Bullet Bar on Fri 16 Oct, Los Angeles. Disco and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

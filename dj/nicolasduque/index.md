@@ -1,14 +1,14 @@
 # Nicolas Duque
 
-Nicolas Duque is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at El Rio Hostel, All on Wed, 3 Mar 2027.
+Nicolas Duque is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
-Nicolas Duque is a house and breakbeat artist based in Colombia, tracked on soundcheck, with 16 sets logged across All, Barcelona, Berlin and Boston and 6 more. Often billed alongside Benny (El Rio Hostel), Federico Molinari and Adi (CO). Next up: El Rio Hostel, All on Wed 3 Mar.
+Nicolas Duque is a house and breakbeat artist based in Colombia, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Boston and Bristol and 6 more. Often billed alongside Benny (El Rio Hostel), Federico Molinari and Adi (CO). Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 3 Mar 2027 | El Rio Hostel | All |
+| Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
 

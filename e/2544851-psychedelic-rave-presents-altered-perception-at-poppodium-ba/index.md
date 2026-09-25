@@ -1,6 +1,6 @@
 # Psychedelic Rave presents: Altered Perception at Poppodium Baroeg
 
-Psychedelic Rave presents: Altered Perception at Poppodium Baroeg on Sat 26 Sept, Rotterdam. 1 act on the bill: Taktyle. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Psychedelic Rave presents: Altered Perception at Poppodium Baroeg on Sat 26 Sept, Rotterdam. 1 artist on the bill: Taktyle. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

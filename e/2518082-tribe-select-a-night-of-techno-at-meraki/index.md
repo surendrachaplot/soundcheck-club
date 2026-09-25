@@ -1,6 +1,6 @@
 # Tribe Select - A Night of Techno at Meraki
 
-Tribe Select - A Night of Techno at Meraki on Fri 23 Oct, Liverpool. 1 act on the bill: Molloy. Techno. Preview the line-up and save it on soundcheck.
+Tribe Select - A Night of Techno at Meraki on Fri 23 Oct, Liverpool. 1 artist on the bill: Molloy. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

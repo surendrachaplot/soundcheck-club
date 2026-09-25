@@ -1,6 +1,6 @@
 # PLIM PLIM ¡EN VIVO! @Lehman Center, Sunday, Oct. 11 at 1 PM and 3 PM at Lehman Center for the Performing Arts
 
-PLIM PLIM ¡EN VIVO! @Lehman Center, Sunday, Oct. 11 at 1 PM and 3 PM at Lehman Center for the Performing Arts on Sun 11 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+PLIM PLIM ¡EN VIVO! @Lehman Center, Sunday, Oct. 11 at 1 PM and 3 PM at Lehman Center for the Performing Arts on Sun 11 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

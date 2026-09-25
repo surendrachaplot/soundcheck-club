@@ -1,6 +1,6 @@
 # Kyle Watson at Q Nightclub
 
-Kyle Watson at Q Nightclub on Fri 16 Oct, Seattle. 1 act on the bill: Kyle Watson. Preview the line-up and save it on soundcheck.
+Kyle Watson at Q Nightclub on Fri 16 Oct, Seattle. 1 artist on the bill: Kyle Watson. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

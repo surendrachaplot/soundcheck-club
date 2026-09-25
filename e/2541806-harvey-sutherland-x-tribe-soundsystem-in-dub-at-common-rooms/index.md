@@ -1,6 +1,6 @@
 # Harvey Sutherland X Tribe Soundsystem - In Dub at Common Rooms
 
-Harvey Sutherland X Tribe Soundsystem - In Dub at Common Rooms on Mon 2 Nov, Melbourne. 2 acts on the bill: Harvey Sutherland and Zepherin Saint. Deep House and Disco. Preview the line-up and save it on soundcheck.
+Harvey Sutherland X Tribe Soundsystem - In Dub at Common Rooms on Mon 2 Nov, Melbourne. 2 artists on the bill: Harvey Sutherland and Zepherin Saint. Deep House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

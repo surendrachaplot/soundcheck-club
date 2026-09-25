@@ -1,6 +1,6 @@
 # Hauptkatalog Club Night at Umbo
 
-Hauptkatalog Club Night at Umbo on Sat 26 Sept, Zurich. 1 act on the bill: Goffbaby. Preview the line-up and save it on soundcheck.
+Hauptkatalog Club Night at Umbo on Sat 26 Sept, Zurich. 1 artist on the bill: Goffbaby. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

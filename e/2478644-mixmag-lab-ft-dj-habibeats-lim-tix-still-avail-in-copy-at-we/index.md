@@ -1,6 +1,6 @@
 # Mixmag LAB ft. DJ Habibeats - LIM TIX STILL AVAIL IN COPY at Webster Hall
 
-Mixmag LAB ft. DJ Habibeats - LIM TIX STILL AVAIL IN COPY at Webster Hall on Sat 17 Oct, Newyorkcity. 3 acts on the bill: 444 (1), DJ Habibeats and Ushka. House and Afro House. Preview the line-up and save it on soundcheck.
+Mixmag LAB ft. DJ Habibeats - LIM TIX STILL AVAIL IN COPY at Webster Hall on Sat 17 Oct, New York City. 3 artists on the bill: 444, DJ Habibeats and Ushka. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

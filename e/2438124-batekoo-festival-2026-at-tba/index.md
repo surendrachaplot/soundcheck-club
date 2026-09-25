@@ -1,6 +1,6 @@
 # Batekoo Festival 2026 at TBA
 
-Batekoo Festival 2026 at TBA on Sat 14 Nov, Saopaulo. Baile Funk and Afrobeats. Preview the line-up and save it on soundcheck.
+Batekoo Festival 2026 at TBA on Sat 14 Nov, Sao Paulo. Baile Funk and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

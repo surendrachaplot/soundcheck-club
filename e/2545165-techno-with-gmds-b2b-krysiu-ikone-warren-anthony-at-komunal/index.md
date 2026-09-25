@@ -1,6 +1,6 @@
 # techno with GMDS b2b Krysiu, Ikone + Warren Anthony at komunal
 
-techno with GMDS b2b Krysiu, Ikone + Warren Anthony at komunal on Fri 9 Oct, Birmingham. 1 act on the bill: GMDS. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+techno with GMDS b2b Krysiu, Ikone + Warren Anthony at komunal on Fri 9 Oct, Birmingham. 1 artist on the bill: GMDS. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

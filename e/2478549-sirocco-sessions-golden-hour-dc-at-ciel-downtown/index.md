@@ -1,6 +1,6 @@
 # Sirocco Sessions: Golden Hour DC at Ciel Downtown
 
-Sirocco Sessions: Golden Hour DC at Ciel Downtown on Sat 26 Sept, Chicago. 2 acts on the bill: Kice and Violin Girl. House. Preview the line-up and save it on soundcheck.
+Sirocco Sessions: Golden Hour DC at Ciel Downtown on Sat 26 Sept, Chicago. 2 artists on the bill: Kice and Violin Girl. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

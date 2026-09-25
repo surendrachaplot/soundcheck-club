@@ -1,6 +1,6 @@
 # Awakenings ADE - Drumcode at Sugarfactory
 
-Awakenings ADE - Drumcode at Sugarfactory on Thu 22 Oct, Amsterdam. 7 acts on the bill: Adam Beyer, Enrico Sangiuliano, Ilario Alicante and Kaufmann and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Awakenings ADE - Drumcode at Sugarfactory on Thu 22 Oct, Amsterdam. 7 artists on the bill: Adam Beyer, Enrico Sangiuliano, Ilario Alicante and Kaufmann and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

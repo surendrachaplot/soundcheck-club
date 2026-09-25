@@ -2,7 +2,7 @@
 
 Boskøw is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Le Trabendo, Paris on Sat, 26 Sept 2026.
 
-Boskøw is a techno and electro artist based in France, tracked on soundcheck, with 8 sets logged across Marseille and Paris. Often billed alongside 42L (1), Ben Klock and Camion Bazar. Next up: Le Trabendo, Paris on Sat 26 Sept.
+Boskøw is a techno and electro artist based in France, tracked on soundcheck, with 8 sets logged across Marseille and Paris. Often billed alongside 42L, Ben Klock and Camion Bazar. Next up: Le Trabendo, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 

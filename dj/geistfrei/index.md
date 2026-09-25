@@ -1,14 +1,15 @@
 # GEISTFREI
 
-GEISTFREI is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location, Vancouver on Fri, 25 Sept 2026.
+GEISTFREI is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location, Vancouver on Fri, 25 Sept 2026.
 
-GEISTFREI is a techno and ambient artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Budapest and Cologne and 6 more. Often billed alongside Verhall, Melchiorr and Colum Urton. Next up: TBA - Secret Location, Vancouver on Fri 25 Sept.
+GEISTFREI is a techno and ambient artist based in Germany, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Budapest and Cologne and 7 more. Often billed alongside Verhall, Melchiorr and Colum Urton. Next up: TBA - Secret Location, Vancouver on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | TBA - Secret Location | Vancouver |
+| Fri, 2 Oct 2026 | TBA | Toronto |
 
 ## Recently played
 

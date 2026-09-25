@@ -1,6 +1,6 @@
 # 303 pres. Liza / Brizas / Merlina at 303 Audiophile Bar
 
-303 pres. Liza / Brizas / Merlina at 303 Audiophile Bar on Thu 24 Sept, Barcelona. 3 acts on the bill: Brizas, LIZA. and Merlina P. House and Deep House. Preview the line-up and save it on soundcheck.
+303 pres. Liza / Brizas / Merlina at 303 Audiophile Bar on Thu 24 Sept, Barcelona. 3 artists on the bill: Brizas, LIZA. and Merlina P. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

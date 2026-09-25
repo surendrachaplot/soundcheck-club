@@ -1,6 +1,6 @@
 # Aventura Night - #1 Bachata Party NYC at San Antonios
 
-Aventura Night - #1 Bachata Party NYC at San Antonios on Sat 5 Dec, Newyorkcity. Preview the line-up and save it on soundcheck.
+Aventura Night - #1 Bachata Party NYC at San Antonios on Sat 5 Dec, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

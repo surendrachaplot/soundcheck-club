@@ -1,6 +1,6 @@
 # Fantasm at The Telegraph Building
 
-Fantasm at The Telegraph Building on Sat 26 Sept, Belfast. 2 acts on the bill: Andrew Cairns and Fantasm. Preview the line-up and save it on soundcheck.
+Fantasm at The Telegraph Building on Sat 26 Sept, Belfast. 2 artists on the bill: Andrew Cairns and Fantasm. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

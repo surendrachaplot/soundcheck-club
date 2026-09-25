@@ -1,6 +1,6 @@
 # Origins: Panjabi Hit Squad [All Night Long] at Night Tales
 
-Origins: Panjabi Hit Squad [All Night Long] at Night Tales on Sat 7 Nov, London. 1 act on the bill: Panjabi Hit Squad. Garage. Preview the line-up and save it on soundcheck.
+Origins: Panjabi Hit Squad [All Night Long] at Night Tales on Sat 7 Nov, London. 1 artist on the bill: Panjabi Hit Squad. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

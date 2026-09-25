@@ -2,7 +2,7 @@
 
 Seli (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 9 Oct 2026.
 
-Seli (2) is a techno and electronica artist based in Mexico, tracked on soundcheck, with 47 sets logged across Berlin, Mexicocity and Newyorkcity. Often billed alongside Bluecommand, Octoptic and Phanta. Next up: YuYu Cine Club, Mexicocity on Fri 9 Oct.
+Seli is a techno and electronica artist based in Mexico, tracked on soundcheck, with 47 sets logged across Berlin, Mexico City and New York City. Often billed alongside Bluecommand, Octoptic and Phanta. Next up: YuYu Cine Club, Mexico City on Fri 9 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # JAIVA HALLOWEEN SOUND SYSTEM MADNESS at The Ivory Hotel
 
-JAIVA HALLOWEEN SOUND SYSTEM MADNESS at The Ivory Hotel on Fri 30 Oct, Glasgow. 4 acts on the bill: ButhoTheWarrior, Danger Carey, Gabor Matty and RED-RUNNR. Disco and Afro House. Preview the line-up and save it on soundcheck.
+JAIVA HALLOWEEN SOUND SYSTEM MADNESS at The Ivory Hotel on Fri 30 Oct, Glasgow. 4 artists on the bill: ButhoTheWarrior, Danger Carey, Gabor Matty and RED-RUNNR. Disco and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

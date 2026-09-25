@@ -1,6 +1,6 @@
 # Qtea (Live) with support from AUTUMNATIC / John-Lewis Anderson at Sleepwalk
 
-Qtea (Live) with support from AUTUMNATIC / John-Lewis Anderson at Sleepwalk on Wed 4 Nov, Newyorkcity. 2 acts on the bill: alter.world and Oscil. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Qtea (Live) with support from AUTUMNATIC / John-Lewis Anderson at Sleepwalk on Wed 4 Nov, New York City. 2 artists on the bill: alter.world and Oscil. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

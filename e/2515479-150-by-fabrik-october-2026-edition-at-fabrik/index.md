@@ -1,6 +1,6 @@
 # 150 by Fabrik - October 2026 Edition at Fabrik
 
-150 by Fabrik - October 2026 Edition on Sat 24 Oct, Madrid. 12 acts on the bill: BLNK, Dimitri K, Dual Damage and Ender and 8 more. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+150 by Fabrik - October 2026 Edition on Sat 24 Oct, Madrid. 12 artists on the bill: BLNK, Dimitri K, Dual Damage and Ender and 8 more. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

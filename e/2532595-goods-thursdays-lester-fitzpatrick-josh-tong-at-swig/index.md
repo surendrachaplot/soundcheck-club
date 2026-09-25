@@ -1,6 +1,6 @@
 # Goods Thursdays: Lester Fitzpatrick / Josh Tong at Swig
 
-Goods Thursdays: Lester Fitzpatrick / Josh Tong at Swig on Thu 24 Sept, Chicago. 3 acts on the bill: Duke Shin, Josh Tong and Lester Fitzpatrick. Techno and House. Preview the line-up and save it on soundcheck.
+Goods Thursdays: Lester Fitzpatrick / Josh Tong at Swig on Thu 24 Sept, Chicago. 3 artists on the bill: Duke Shin, Josh Tong and Lester Fitzpatrick. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

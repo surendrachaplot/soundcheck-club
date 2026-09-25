@@ -1,6 +1,6 @@
 # JAM Agency Showcase at radial
 
-JAM Agency Showcase at radial on Sun 18 Oct, London. 3 acts on the bill: Aaron Burr (2), Isabelle Koci and Max Fisher. Techno and Tech House. Preview the line-up and save it on soundcheck.
+JAM Agency Showcase at radial on Sun 18 Oct, London. 3 artists on the bill: Aaron Burr, Isabelle Koci and Max Fisher. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

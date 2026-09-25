@@ -1,6 +1,6 @@
 # Loraine James + Pépe at El Pumarejo Barcelona
 
-Loraine James + Pépe at El Pumarejo Barcelona on Thu 15 Oct, Barcelona. 2 acts on the bill: Loraine James and Pépe. IDM and Electronica. Preview the line-up and save it on soundcheck.
+Loraine James + Pépe at El Pumarejo Barcelona on Thu 15 Oct, Barcelona. 2 artists on the bill: Loraine James and Pépe. IDM and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

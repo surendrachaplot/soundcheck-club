@@ -1,6 +1,6 @@
 # Jacob The Horse at The Redwood Bar And Grill
 
-Jacob The Horse at The Redwood Bar And Grill on Sat 3 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+Jacob The Horse at The Redwood Bar And Grill on Sat 3 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

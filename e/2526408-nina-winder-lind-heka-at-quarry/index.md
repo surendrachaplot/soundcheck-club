@@ -1,6 +1,6 @@
 # Nina Winder-Lind + Heka at Quarry
 
-Nina Winder-Lind + Heka at Quarry on Thu 29 Oct, Liverpool. 1 act on the bill: Heka. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Nina Winder-Lind + Heka at Quarry on Thu 29 Oct, Liverpool. 1 artist on the bill: Heka. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

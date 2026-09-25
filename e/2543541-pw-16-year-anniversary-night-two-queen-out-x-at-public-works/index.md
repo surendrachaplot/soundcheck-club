@@ -1,6 +1,6 @@
 # PW 16-Year Anniversary Night Two: QUEEN OUT x at Public Works
 
-PW 16-Year Anniversary Night Two: QUEEN OUT x at Public Works on Sat 17 Oct, Sanfrancisco. Techno. Preview the line-up and save it on soundcheck.
+PW 16-Year Anniversary Night Two: QUEEN OUT x at Public Works on Sat 17 Oct, San Francisco/Oakland. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

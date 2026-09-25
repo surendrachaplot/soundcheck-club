@@ -1,6 +1,6 @@
 # Navan – Kisses On The Moon Tour at Culture
 
-Navan – Kisses On The Moon Tour at Culture on Sat 24 Oct, Washingtondc. Preview the line-up and save it on soundcheck.
+Navan – Kisses On The Moon Tour at Culture on Sat 24 Oct, Washington DC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

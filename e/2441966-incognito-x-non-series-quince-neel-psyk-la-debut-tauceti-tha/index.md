@@ -1,6 +1,6 @@
 # INCOGNITO x NON SERIES Quince: Neel, Psyk (LA Debut), Tauceti _ Thanksgiving Eve Rave at TBA - Los Angeles
 
-INCOGNITO x NON SERIES Quince: Neel, Psyk (LA Debut), Tauceti _ Thanksgiving Eve Rave at TBA - Los Angeles on Wed 25 Nov, Losangeles. 3 acts on the bill: Neel, Psyk and Tauceti (FR). Techno. Preview the line-up and save it on soundcheck.
+INCOGNITO x NON SERIES Quince: Neel, Psyk (LA Debut), Tauceti _ Thanksgiving Eve Rave at TBA - Los Angeles on Wed 25 Nov, Los Angeles. 3 artists on the bill: Neel, Psyk and Tauceti (FR). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

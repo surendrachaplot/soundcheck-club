@@ -1,6 +1,6 @@
 # SOUND SOUND x Mike Momburg All Night Long with Kara Okay, KIM SWIM, Milion at Artheater
 
-SOUND SOUND x Mike Momburg All Night Long with Kara Okay, KIM SWIM, Milion at Artheater on Fri 20 Nov, Cologne. 6 acts on the bill: 909 RACING TEAM, Domenik Deckert, Kara Okay and KIM SWIM and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
+SOUND SOUND x Mike Momburg All Night Long with Kara Okay, KIM SWIM, Milion at Artheater on Fri 20 Nov, Cologne. 6 artists on the bill: 909 RACING TEAM, Domenik Deckert, Kara Okay and KIM SWIM and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

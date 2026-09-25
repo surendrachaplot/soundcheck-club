@@ -1,6 +1,6 @@
 # FREEDIVE//005 W/Matthias,Yamour, Bunney & Josh Keit at Gaffe
 
-FREEDIVE//005 W/Matthias,Yamour, Bunney & Josh Keit at Gaffe on Fri 13 Nov, London. 4 acts on the bill: Bunney, Josh Keit, Matthias (1) and Yamour. Preview the line-up and save it on soundcheck.
+FREEDIVE//005 W/Matthias,Yamour, Bunney & Josh Keit at Gaffe on Fri 13 Nov, London. 4 artists on the bill: Bunney, Josh Keit, Matthias and Yamour. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 曼陀羅-MaNDaLa-外伝 at Ruby Room
 
-曼陀羅-MaNDaLa-外伝 at Ruby Room on Sat 26 Sept, Tokyo. 2 acts on the bill: Alba (2) and Takumi's Afterparty. Minimal and Psytrance. Preview the line-up and save it on soundcheck.
+曼陀羅-MaNDaLa-外伝 at Ruby Room on Sat 26 Sept, Tokyo. 2 artists on the bill: Alba and Takumi's Afterparty. Minimal and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

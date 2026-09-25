@@ -1,6 +1,6 @@
 # Ross From Friends & Friends: 4 Fridays at Phonox (Closing Party) at Phonox
 
-Ross From Friends & Friends: 4 Fridays at Phonox (Closing Party) on Fri 27 Nov, London. 1 act on the bill: Ross From Friends. House. Preview the line-up and save it on soundcheck.
+Ross From Friends & Friends: 4 Fridays at Phonox (Closing Party) on Fri 27 Nov, London. 1 artist on the bill: Ross From Friends. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Harbour Sundaze convida Bruno Curtis e Lina at Harbour Music Shelter
 
-Harbour Sundaze convida Bruno Curtis e Lina at Harbour Music Shelter on Sun 27 Sept, Lisbon. 1 act on the bill: Bruno Curtis. Techno and House. Preview the line-up and save it on soundcheck.
+Harbour Sundaze convida Bruno Curtis e Lina at Harbour Music Shelter on Sun 27 Sept, Lisbon. 1 artist on the bill: Bruno Curtis. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

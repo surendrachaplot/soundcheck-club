@@ -1,6 +1,6 @@
 # inércia x Between at TBA
 
-inércia x Between at TBA on Sat 26 Sept, Lisbon. 9 acts on the bill: Billi, Francisca Urbano, Godero and Guigas and 5 more. Techno and Downtempo. Preview the line-up and save it on soundcheck.
+inércia x Between at TBA on Sat 26 Sept, Lisbon. 9 artists on the bill: Billi, Francisca Urbano, Godero and Guigas and 5 more. Techno and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

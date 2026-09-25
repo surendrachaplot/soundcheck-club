@@ -1,6 +1,6 @@
 # THE MINE 14th with Goth-Trad, Kid Drama, Soukah, Formella, SGT Pokes, Acid Reflux + Sinai Sound at Volks
 
-THE MINE 14th with Goth-Trad, Kid Drama, Soukah, Formella, SGT Pokes, Acid Reflux + Sinai Sound at Volks on Fri 2 Oct, Brighton. 9 acts on the bill: DSD uk, Dub Athlete, DUKU and Formella and 5 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+THE MINE 14th with Goth-Trad, Kid Drama, Soukah, Formella, SGT Pokes, Acid Reflux + Sinai Sound at Volks on Fri 2 Oct, Brighton. 9 artists on the bill: DSD uk, Dub Athlete, DUKU and Formella and 5 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

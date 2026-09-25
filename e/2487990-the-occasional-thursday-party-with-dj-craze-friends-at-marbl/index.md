@@ -1,6 +1,6 @@
 # The Occasional Thursday Party with DJ Craze + Friends at Marble Bar
 
-The Occasional Thursday Party with DJ Craze + Friends at Marble Bar on Thu 29 Oct, Detroit. 3 acts on the bill: Craze, Sinistarr and Sinister Dosage. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
+The Occasional Thursday Party with DJ Craze + Friends at Marble Bar on Thu 29 Oct, Detroit. 3 artists on the bill: Craze, Sinistarr and Sinister Dosage. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

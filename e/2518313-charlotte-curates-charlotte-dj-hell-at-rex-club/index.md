@@ -1,6 +1,6 @@
 # Charlotte Curates: Charlotte, DJ Hell at Rex Club
 
-Charlotte Curates: Charlotte, DJ Hell at Rex Club on Fri 25 Sept, Paris. 2 acts on the bill: Charlotte (FR) and DJ Hell. Techno. Preview the line-up and save it on soundcheck.
+Charlotte Curates: Charlotte, DJ Hell at Rex Club on Fri 25 Sept, Paris. 2 artists on the bill: Charlotte (FR) and DJ Hell. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

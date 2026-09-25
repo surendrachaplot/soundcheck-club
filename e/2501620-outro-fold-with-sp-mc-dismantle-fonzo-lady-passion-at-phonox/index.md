@@ -1,6 +1,6 @@
 # OUTRO: Fold with SP:MC, Dismantle, Fonzo, Lady Passion at Phonox
 
-OUTRO: Fold with SP:MC, Dismantle, Fonzo, Lady Passion at Phonox on Sat 10 Oct, London. 3 acts on the bill: Fold, Fonzo (UK) and Lady Passion. Bass. Preview the line-up and save it on soundcheck.
+OUTRO: Fold with SP:MC, Dismantle, Fonzo, Lady Passion at Phonox on Sat 10 Oct, London. 3 artists on the bill: Fold, Fonzo (UK) and Lady Passion. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

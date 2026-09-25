@@ -1,6 +1,6 @@
 # Circle Line Summer Series: Silva Bumpa at Circle Line Cruises
 
-Circle Line Summer Series: Silva Bumpa at Circle Line Cruises on Sat 26 Sept, Newyorkcity. 1 act on the bill: Silva Bumpa. House and Garage. Preview the line-up and save it on soundcheck.
+Circle Line Summer Series: Silva Bumpa at Circle Line Cruises on Sat 26 Sept, New York City. 1 artist on the bill: Silva Bumpa. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

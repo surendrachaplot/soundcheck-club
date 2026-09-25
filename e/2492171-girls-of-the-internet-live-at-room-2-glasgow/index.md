@@ -1,6 +1,6 @@
 # Girls of the Internet (Live) at Room 2 Glasgow
 
-Girls of the Internet (Live) at Room 2 Glasgow on Sat 24 Oct, Glasgow. 1 act on the bill: Girls of the Internet. Deep House and Disco. Preview the line-up and save it on soundcheck.
+Girls of the Internet (Live) at Room 2 Glasgow on Sat 24 Oct, Glasgow. 1 artist on the bill: Girls of the Internet. Deep House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NRG Budapest - Arzenál at Arzenal
 
-NRG Budapest - Arzenál at Arzenal on Fri 27 Nov, Budapest. 5 acts on the bill: Jezza & Jod, KLOFAMA, Vieze Asbak and Winson and 1 more. Techno. Preview the line-up and save it on soundcheck.
+NRG Budapest - Arzenál at Arzenal on Fri 27 Nov, Budapest. 5 artists on the bill: Jezza & Jod, KLOFAMA, Vieze Asbak and Winson and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MOON IS BACK. MOON PRESENTS: Butch at Moon Warsaw
 
-MOON IS BACK. MOON PRESENTS: Butch at Moon Warsaw on Sat 26 Sept, Warsaw. 2 acts on the bill: Butch and NuCasa. House. Preview the line-up and save it on soundcheck.
+MOON IS BACK. MOON PRESENTS: Butch at Moon Warsaw on Sat 26 Sept, Warsaw. 2 artists on the bill: Butch and NuCasa. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

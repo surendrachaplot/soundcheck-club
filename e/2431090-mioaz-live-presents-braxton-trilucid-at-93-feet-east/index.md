@@ -1,6 +1,6 @@
 # MIOAZ Live presents Braxton & Trilucid at 93 Feet East
 
-MIOAZ Live presents Braxton & Trilucid at 93 Feet East on Sat 26 Sept, London. 4 acts on the bill: Bertt, Braxton, Camilla Sadaghna and Trilucid. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+MIOAZ Live presents Braxton & Trilucid at 93 Feet East on Sat 26 Sept, London. 4 artists on the bill: Bertt, Braxton, Camilla Sadaghna and Trilucid. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

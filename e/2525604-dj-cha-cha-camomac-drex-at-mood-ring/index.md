@@ -1,6 +1,6 @@
 # DJ Cha Cha, Camomac, Drex at Mood Ring
 
-DJ Cha Cha, Camomac, Drex at Mood Ring on Fri 25 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+DJ Cha Cha, Camomac, Drex at Mood Ring on Fri 25 Sept, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

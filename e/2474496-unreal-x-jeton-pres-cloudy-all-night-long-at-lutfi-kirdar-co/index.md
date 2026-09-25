@@ -1,6 +1,6 @@
 # Unreal x Jeton Pres: Cloudy All Night Long at Lutfi Kirdar Congress Center
 
-Unreal x Jeton Pres: Cloudy All Night Long at Lutfi Kirdar Congress Center on Sat 17 Oct, Istanbul. 5 acts on the bill: Cloudy, KUKO, Laure Croft and NOVAH and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Unreal x Jeton Pres: Cloudy All Night Long at Lutfi Kirdar Congress Center on Sat 17 Oct, Istanbul. 5 artists on the bill: Cloudy, KUKO, Laure Croft and NOVAH and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

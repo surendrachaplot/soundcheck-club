@@ -1,6 +1,6 @@
 # DUB CLUB: FIRMLY ROOTED SOUND (BRISTOL) & Hometown Sound at The Art School
 
-DUB CLUB: FIRMLY ROOTED SOUND (BRISTOL) & Hometown Sound at The Art School on Thu 1 Oct, Glasgow. 2 acts on the bill: Hometown Sound and James Hometown. Bass and Dub. Preview the line-up and save it on soundcheck.
+DUB CLUB: FIRMLY ROOTED SOUND (BRISTOL) & Hometown Sound at The Art School on Thu 1 Oct, Glasgow. 2 artists on the bill: Hometown Sound and James Hometown. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

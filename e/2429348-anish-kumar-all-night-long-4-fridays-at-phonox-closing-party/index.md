@@ -1,6 +1,6 @@
 # Anish Kumar (All Night Long): 4 Fridays at Phonox (Closing Party) at Phonox
 
-Anish Kumar (All Night Long): 4 Fridays at Phonox (Closing Party) on Fri 23 Oct, London. 1 act on the bill: Anish Kumar. Preview the line-up and save it on soundcheck.
+Anish Kumar (All Night Long): 4 Fridays at Phonox (Closing Party) on Fri 23 Oct, London. 1 artist on the bill: Anish Kumar. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 10/11/26 JUICE Drum and Bass Fall Event with Degs, LENS, London Elektricity, Winslow at Holocene
 
-10/11/26 JUICE Drum and Bass Fall Event with Degs, LENS, London Elektricity, Winslow at Holocene on Sun 11 Oct, Portland. 4 acts on the bill: Degs, Lens (2), London Elektricity and Winslow. Drum & Bass. Preview the line-up and save it on soundcheck.
+10/11/26 JUICE Drum and Bass Fall Event with Degs, LENS, London Elektricity, Winslow at Holocene on Sun 11 Oct, Portland. 4 artists on the bill: Degs, Lens, London Elektricity and Winslow. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

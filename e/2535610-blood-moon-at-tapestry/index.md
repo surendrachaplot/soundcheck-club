@@ -1,6 +1,6 @@
 # Blood Moon at Tapestry
 
-Blood Moon at Tapestry on Fri 25 Sept, Toronto. 1 act on the bill: XD3SIGN. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Blood Moon at Tapestry on Fri 25 Sept, Toronto. 1 artist on the bill: XD3SIGN. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

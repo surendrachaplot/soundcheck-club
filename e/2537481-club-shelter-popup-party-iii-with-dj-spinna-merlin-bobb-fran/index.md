@@ -1,6 +1,6 @@
 # Club SHELTER PopUp Party (III) with DJ Spinna + merlin bobb + Franke Estevez at TBA - SpinnaVerse BK
 
-Club SHELTER PopUp Party (III) with DJ Spinna + merlin bobb + Franke Estevez at TBA - SpinnaVerse BK on Fri 25 Sept, Newyorkcity. 3 acts on the bill: DJ Spinna, Franke Estevez and merlin bobb. Preview the line-up and save it on soundcheck.
+Club SHELTER PopUp Party (III) with DJ Spinna + merlin bobb + Franke Estevez at TBA - SpinnaVerse BK on Fri 25 Sept, New York City. 3 artists on the bill: DJ Spinna, Franke Estevez and merlin bobb. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 999 x Nada pres. David Löhlein at La Nube
 
-999 x Nada pres. David Löhlein at La Nube on Fri 16 Oct, Buenosaires. 1 act on the bill: David Löhlein. Trance and Techno. Preview the line-up and save it on soundcheck.
+999 x Nada pres. David Löhlein at La Nube on Fri 16 Oct, Buenos Aires. 1 artist on the bill: David Löhlein. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

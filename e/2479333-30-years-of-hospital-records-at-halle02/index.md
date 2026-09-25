@@ -1,6 +1,6 @@
 # 30 Years Of Hospital Records at halle02
 
-30 Years Of Hospital Records at halle02 on Sat 3 Oct, Heidelberg. 6 acts on the bill: Gabriella Bongo, Hugh Hardie, London Elektricity and Metrik and 2 more. Preview the line-up and save it on soundcheck.
+30 Years Of Hospital Records at halle02 on Sat 3 Oct, Heidelberg. 6 artists on the bill: Gabriella Bongo, Hugh Hardie, London Elektricity and Metrik and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

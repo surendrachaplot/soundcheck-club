@@ -1,6 +1,6 @@
 # FACE 2 FACE: PARIS at Parc Floral De Paris
 
-FACE 2 FACE: PARIS at Parc Floral De Paris on Fri 16 Oct, Paris. 11 acts on the bill: Adrian Mills, Alex Nantaya, Eskha and HiTMiLØW and 7 more. Techno. Preview the line-up and save it on soundcheck.
+FACE 2 FACE: PARIS at Parc Floral De Paris on Fri 16 Oct, Paris. 11 artists on the bill: Adrian Mills, Alex Nantaya, Eskha and HiTMiLØW and 7 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

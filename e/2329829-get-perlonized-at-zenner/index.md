@@ -1,6 +1,6 @@
 # ...GET PERLONIZED at ZENNER
 
-...GET PERLONIZED at ZENNER on Fri 2 Oct, Berlin. 4 acts on the bill: Mathew Jonson, Sammy Dee, The Mole and Zip. House and Minimal. Preview the line-up and save it on soundcheck.
+...GET PERLONIZED at ZENNER on Fri 2 Oct, Berlin. 4 artists on the bill: Mathew Jonson, Sammy Dee, The Mole and Zip. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

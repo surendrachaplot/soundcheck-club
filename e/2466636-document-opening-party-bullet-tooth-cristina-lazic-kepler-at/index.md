@@ -1,6 +1,6 @@
 # Document Opening Party: bullet tooth, Cristina Lazic, Kepler at Document
 
-Document Opening Party: bullet tooth, Cristina Lazic, Kepler on Fri 25 Sept, Bristol. 8 acts on the bill: Anil Aras, bullet tooth, Cristina Lazic and Kepler and 4 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Document Opening Party: bullet tooth, Cristina Lazic, Kepler on Fri 25 Sept, Bristol. 8 artists on the bill: Anil Aras, bullet tooth, Cristina Lazic and Kepler and 4 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

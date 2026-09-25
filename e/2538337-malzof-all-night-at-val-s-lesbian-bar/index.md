@@ -1,6 +1,6 @@
 # Malzof All Night at Val’s Lesbian Bar
 
-Malzof All Night at Val’s Lesbian Bar on Sat 26 Sept, Philadelphia. 1 act on the bill: Malzof. Preview the line-up and save it on soundcheck.
+Malzof All Night at Val’s Lesbian Bar on Sat 26 Sept, Philadelphia. 1 artist on the bill: Malzof. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ghosts of Garage DAY PARTY with Crazy Cousinz & Wilfy D at The Refuge
 
-Ghosts of Garage DAY PARTY with Crazy Cousinz & Wilfy D at The Refuge on Sat 26 Sept, Manchester. 5 acts on the bill: Chunky, Crazy Cousinz, LARISHKA (UK) and Rich Reason and 1 more. Garage and UK Funky. Preview the line-up and save it on soundcheck.
+Ghosts of Garage DAY PARTY with Crazy Cousinz & Wilfy D at The Refuge on Sat 26 Sept, Manchester. 5 artists on the bill: Chunky, Crazy Cousinz, LARISHKA (UK) and Rich Reason and 1 more. Garage and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

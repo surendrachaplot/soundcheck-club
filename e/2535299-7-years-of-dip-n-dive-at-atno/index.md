@@ -1,6 +1,6 @@
 # 7 years of Dip'n'Dive at Atno
 
-7 years of Dip'n'Dive at Atno on Fri 16 Oct, Budapest. 3 acts on the bill: Captain Knuckles, Tolo and Toro Lomo. House and Minimal. Preview the line-up and save it on soundcheck.
+7 years of Dip'n'Dive at Atno on Fri 16 Oct, Budapest. 3 artists on the bill: Captain Knuckles, Tolo and Toro Lomo. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

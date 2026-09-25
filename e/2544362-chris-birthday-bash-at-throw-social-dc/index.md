@@ -1,6 +1,6 @@
 # CHRIS BIRTHDAY BASH at Throw Social DC
 
-CHRIS BIRTHDAY BASH at Throw Social DC on Fri 9 Oct, Washingtondc. Club and Dancehall. Preview the line-up and save it on soundcheck.
+CHRIS BIRTHDAY BASH at Throw Social DC on Fri 9 Oct, Washington DC. Club and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

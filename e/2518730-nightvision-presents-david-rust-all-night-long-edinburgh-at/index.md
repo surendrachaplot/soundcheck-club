@@ -1,6 +1,6 @@
 # Nightvision presents: David Rust (All Night Long) // Edinburgh at The Liquid Room
 
-Nightvision presents: David Rust (All Night Long) // Edinburgh at The Liquid Room on Fri 9 Oct, Edinburgh. 1 act on the bill: David Rust. Trance. Preview the line-up and save it on soundcheck.
+Nightvision presents: David Rust (All Night Long) // Edinburgh at The Liquid Room on Fri 9 Oct, Edinburgh. 1 artist on the bill: David Rust. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

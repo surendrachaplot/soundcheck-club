@@ -1,6 +1,6 @@
 # Visitor.area mit Mister Teaser (PT) [Slime] & XCI (PT) at Minimal Bar
 
-Visitor.area mit Mister Teaser (PT) [Slime] & XCI (PT) at Minimal Bar on Sat 24 Oct, Berlin. 2 acts on the bill: Mister Teaser and XCI. Electronica. Preview the line-up and save it on soundcheck.
+Visitor.area mit Mister Teaser (PT) [Slime] & XCI (PT) at Minimal Bar on Sat 24 Oct, Berlin. 2 artists on the bill: Mister Teaser and XCI. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

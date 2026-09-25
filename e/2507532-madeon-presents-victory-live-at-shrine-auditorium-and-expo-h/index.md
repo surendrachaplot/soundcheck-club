@@ -1,6 +1,6 @@
 # Madeon presents Victory Live at Shrine Auditorium and Expo Hall
 
-Madeon presents Victory Live at Shrine Auditorium and Expo Hall on Sat 24 Oct, Losangeles. 1 act on the bill: Madeon. Electro and Pop. Preview the line-up and save it on soundcheck.
+Madeon presents Victory Live at Shrine Auditorium and Expo Hall on Sat 24 Oct, Los Angeles. 1 artist on the bill: Madeon. Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

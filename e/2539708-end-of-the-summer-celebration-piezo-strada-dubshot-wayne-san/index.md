@@ -1,6 +1,6 @@
 # End of the Summer Celebration: Piezo, Strada, Dubshot, Wayne Santana, Shapednoise at THE MAGICK BAR
 
-End of the Summer Celebration: Piezo, Strada, Dubshot, Wayne Santana, Shapednoise at THE MAGICK BAR on Fri 25 Sept, Rome. 3 acts on the bill: Piezo, Shapednoise and Strada. Preview the line-up and save it on soundcheck.
+End of the Summer Celebration: Piezo, Strada, Dubshot, Wayne Santana, Shapednoise at THE MAGICK BAR on Fri 25 Sept, Rome. 3 artists on the bill: Piezo, Shapednoise and Strada. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

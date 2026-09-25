@@ -1,6 +1,6 @@
 # Sunday Love Closing 2026: Amores de Muertos at Flash
 
-Sunday Love Closing 2026: Amores de Muertos at Flash on Sun 1 Nov, Washingtondc. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunday Love Closing 2026: Amores de Muertos at Flash on Sun 1 Nov, Washington DC. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

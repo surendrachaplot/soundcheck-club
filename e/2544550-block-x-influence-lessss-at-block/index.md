@@ -1,6 +1,6 @@
 # Block x Influence: LESSSS at block.
 
-Block x Influence: LESSSS at block. on Sat 24 Oct, Dublin. 1 act on the bill: LESSSS. Electronica. Preview the line-up and save it on soundcheck.
+Block x Influence: LESSSS at block. on Sat 24 Oct, Dublin. 1 artist on the bill: LESSSS. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

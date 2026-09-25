@@ -2,7 +2,7 @@
 
 Ether Pleaser is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
-Ether Pleaser is a techno and club artist based in United States of America, tracked on soundcheck, with 50 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside znorthy, Franxx and CYB3R T0NIN. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washingtondc on Sat 17 Oct.
+Ether Pleaser is a techno and club artist based in United States of America, tracked on soundcheck, with 50 sets logged across New York City, Philadelphia and Washington DC. Often billed alongside znorthy, Franxx and CYB3R T0NIN. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
 ## Upcoming shows
 

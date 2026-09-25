@@ -1,6 +1,6 @@
 # Solace Radio x Pins 'N Needle W/ Asha Ada Myles Mac & DJ Possum at Solace
 
-Solace Radio x Pins 'N Needle W/ Asha Ada Myles Mac & DJ Possum on Thu 24 Sept, Melbourne. 2 acts on the bill: DJ Possum and Myles Mac. Preview the line-up and save it on soundcheck.
+Solace Radio x Pins 'N Needle W/ Asha Ada Myles Mac & DJ Possum on Thu 24 Sept, Melbourne. 2 artists on the bill: DJ Possum and Myles Mac. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

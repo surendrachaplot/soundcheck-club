@@ -1,6 +1,6 @@
 # WITTGENSTEIN at Senatore
 
-WITTGENSTEIN at Senatore on Sat 3 Oct, Munich. 1 act on the bill: WITTGENSTEIN. House and Minimal. Preview the line-up and save it on soundcheck.
+WITTGENSTEIN at Senatore on Sat 3 Oct, Munich. 1 artist on the bill: WITTGENSTEIN. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

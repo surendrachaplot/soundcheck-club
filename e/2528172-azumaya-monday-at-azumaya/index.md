@@ -1,6 +1,6 @@
 # Azumaya -Monday- at Azumaya
 
-Azumaya -Monday- on Mon 28 Sept, Tokyo. 1 act on the bill: roomquake. Techno and House. Preview the line-up and save it on soundcheck.
+Azumaya -Monday- on Mon 28 Sept, Tokyo. 1 artist on the bill: roomquake. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

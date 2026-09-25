@@ -1,6 +1,6 @@
 # Our Friends Electric at The British Engineerium
 
-Our Friends Electric at The British Engineerium on Sat 17 Oct, Brighton. 2 acts on the bill: Logan Fisher and Paranoid London. Electro and Acid. Preview the line-up and save it on soundcheck.
+Our Friends Electric at The British Engineerium on Sat 17 Oct, Brighton. 2 artists on the bill: Logan Fisher and Paranoid London. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

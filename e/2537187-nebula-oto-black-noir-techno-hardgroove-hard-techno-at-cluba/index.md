@@ -1,6 +1,6 @@
 # NEBULA × OTO × BLACK NOIR - TECHNO /  HARDGROOVE / HARD TECHNO at clubasia
 
-NEBULA × OTO × BLACK NOIR - TECHNO /  HARDGROOVE / HARD TECHNO at clubasia on Fri 9 Oct, Tokyo. 12 acts on the bill: Calavera, EMILIO (3), Goss and I-SO and 8 more. Techno. Preview the line-up and save it on soundcheck.
+NEBULA × OTO × BLACK NOIR - TECHNO /  HARDGROOVE / HARD TECHNO at clubasia on Fri 9 Oct, Tokyo. 12 artists on the bill: Calavera, EMILIO, Goss and I-SO and 8 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

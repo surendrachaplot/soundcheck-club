@@ -1,6 +1,6 @@
 # Ssensorial x Fünk at Fünk
 
-Ssensorial x Fünk on Thu 15 Oct, Mexicocity. 4 acts on the bill: Astroboii, Cubenx, Niño Arbol and Ursula Prawn. Bass and Dub Techno. Preview the line-up and save it on soundcheck.
+Ssensorial x Fünk on Thu 15 Oct, Mexico City. 4 artists on the bill: Astroboii, Cubenx, Niño Arbol and Ursula Prawn. Bass and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

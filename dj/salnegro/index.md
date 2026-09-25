@@ -2,7 +2,7 @@
 
 Sal Negro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Sat, 10 Oct 2026.
 
-Sal Negro is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Washingtondc. Often billed alongside Keenan Orr, enz.O and .VRIL. Next up: Flash, Washingtondc on Sat 10 Oct.
+Sal Negro is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Washington DC. Often billed alongside Keenan Orr, enz.O and .VRIL. Next up: Flash, Washington DC on Sat 10 Oct.
 
 ## Upcoming shows
 

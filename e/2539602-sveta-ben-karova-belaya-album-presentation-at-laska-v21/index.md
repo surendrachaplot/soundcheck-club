@@ -1,6 +1,6 @@
 # Sveta Ben - 'KAROVA BELAYA' Album presentation at Laska V21
 
-Sveta Ben - 'KAROVA BELAYA' Album presentation at Laska V21 on Sat 17 Oct, Riga. 1 act on the bill: Sveta Ben. Pop. Preview the line-up and save it on soundcheck.
+Sveta Ben - 'KAROVA BELAYA' Album presentation at Laska V21 on Sat 17 Oct, Riga. 1 artist on the bill: Sveta Ben. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

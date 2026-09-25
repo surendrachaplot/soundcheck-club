@@ -1,6 +1,6 @@
 # Dark Protocol W / ona:v / Residents at Nice N Sleazy
 
-Dark Protocol W / ona:v / Residents at Nice N Sleazy on Sat 24 Oct, Glasgow. 2 acts on the bill: Jordan smith and ona:v. Techno. Preview the line-up and save it on soundcheck.
+Dark Protocol W / ona:v / Residents at Nice N Sleazy on Sat 24 Oct, Glasgow. 2 artists on the bill: Jordan smith and ona:v. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

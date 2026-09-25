@@ -1,6 +1,6 @@
 # #1 REGGAETON BAR in Manhattan Party, Latin Thursday Night at San Antonios
 
-#1 REGGAETON BAR in Manhattan Party, Latin Thursday Night at San Antonios on Thu 24 Sept, Newyorkcity. Reggaeton. Preview the line-up and save it on soundcheck.
+#1 REGGAETON BAR in Manhattan Party, Latin Thursday Night at San Antonios on Thu 24 Sept, New York City. Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

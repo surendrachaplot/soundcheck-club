@@ -1,6 +1,6 @@
 # .WAV by Recall at Officine Grandi Riparazioni
 
-.WAV by Recall at Officine Grandi Riparazioni on Fri 9 Oct, Turin. 4 acts on the bill: Impérieux, Luce Clandestina, Octavio Octavio and Pangaea. Club and Electronica. Preview the line-up and save it on soundcheck.
+.WAV by Recall at Officine Grandi Riparazioni on Fri 9 Oct, Turin. 4 artists on the bill: Impérieux, Luce Clandestina, Octavio Octavio and Pangaea. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

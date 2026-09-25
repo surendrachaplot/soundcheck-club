@@ -1,6 +1,6 @@
 # 3000Grad at The Otherside at THE OTHER SIDE
 
-3000Grad at The Otherside at THE OTHER SIDE on Sat 19 Dec, Amsterdam. 1 act on the bill: WOODKIN. Preview the line-up and save it on soundcheck.
+3000Grad at The Otherside at THE OTHER SIDE on Sat 19 Dec, Amsterdam. 1 artist on the bill: WOODKIN. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

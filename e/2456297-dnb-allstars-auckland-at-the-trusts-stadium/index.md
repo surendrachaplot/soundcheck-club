@@ -1,6 +1,6 @@
 # DnB Allstars (Auckland) at The Trusts Stadium
 
-DnB Allstars (Auckland) at The Trusts Stadium on Sat 3 Oct, Auckland. 4 acts on the bill: Camo & Krooked, Crossy, Disrupta and Kanine. Drum & Bass. Preview the line-up and save it on soundcheck.
+DnB Allstars (Auckland) at The Trusts Stadium on Sat 3 Oct, Auckland. 4 artists on the bill: Camo & Krooked, Crossy, Disrupta and Kanine. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

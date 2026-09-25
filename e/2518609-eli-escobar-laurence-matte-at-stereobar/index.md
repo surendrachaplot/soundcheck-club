@@ -1,6 +1,6 @@
 # Eli Escobar - Laurence Matte at StereoBar
 
-Eli Escobar - Laurence Matte at StereoBar on Fri 25 Sept, Montreal. 2 acts on the bill: Eli Escobar and Laurence Matte. Preview the line-up and save it on soundcheck.
+Eli Escobar - Laurence Matte at StereoBar on Fri 25 Sept, Montreal. 2 artists on the bill: Eli Escobar and Laurence Matte. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

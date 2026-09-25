@@ -1,6 +1,6 @@
 # Nyctophilia at M-BIA
 
-Nyctophilia at M-BIA on Fri 30 Oct, Berlin. 2 acts on the bill: NYXEA and SON!CA. Trance and Techno. Preview the line-up and save it on soundcheck.
+Nyctophilia at M-BIA on Fri 30 Oct, Berlin. 2 artists on the bill: NYXEA and SON!CA. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

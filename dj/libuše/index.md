@@ -2,7 +2,7 @@
 
 Libuše is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Glob, Denver on Sat, 24 Oct 2026.
 
-Libuše is a jungle and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Denver and Newyorkcity. Often billed alongside Bored Lord, A1C3 and Alala.One. Next up: Glob, Denver on Sat 24 Oct.
+Libuše is a jungle and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Denver and New York City. Often billed alongside Bored Lord, A1C3 and Alala.One. Next up: Glob, Denver on Sat 24 Oct.
 
 ## Upcoming shows
 

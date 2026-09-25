@@ -1,6 +1,6 @@
 # Petit Biscuit at Manning Bar
 
-Petit Biscuit at Manning Bar on Fri 25 Sept, Sydney. 1 act on the bill: Petit Biscuit. House. Preview the line-up and save it on soundcheck.
+Petit Biscuit at Manning Bar on Fri 25 Sept, Sydney. 1 artist on the bill: Petit Biscuit. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

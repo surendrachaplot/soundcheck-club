@@ -1,6 +1,6 @@
 # X CLUB. ∞ ROXY Prague at Roxy
 
-X CLUB. ∞ ROXY Prague at Roxy on Fri 20 Nov, Prague. 1 act on the bill: X CLUB.. Techno and Electro. Preview the line-up and save it on soundcheck.
+X CLUB. ∞ ROXY Prague at Roxy on Fri 20 Nov, Prague. 1 artist on the bill: X CLUB.. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

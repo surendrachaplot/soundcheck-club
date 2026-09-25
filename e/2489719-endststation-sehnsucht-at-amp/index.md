@@ -1,6 +1,6 @@
 # ENDSTSTATION SEHNSUCHT at Amp
 
-ENDSTSTATION SEHNSUCHT at Amp on Sat 28 Nov, Munster. 1 act on the bill: kichererbsenstampf. Trance and Techno. Preview the line-up and save it on soundcheck.
+ENDSTSTATION SEHNSUCHT at Amp on Sat 28 Nov, Munster. 1 artist on the bill: kichererbsenstampf. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

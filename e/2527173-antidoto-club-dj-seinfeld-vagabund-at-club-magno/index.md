@@ -1,6 +1,6 @@
 # Antidoto Club: DJ Seinfeld + Vagabund at Club Magno
 
-Antidoto Club: DJ Seinfeld + Vagabund at Club Magno on Thu 26 Nov, Madrid. 3 acts on the bill: DJ Seinfeld, Vagabund and Yosef (ES). Trance and House. Preview the line-up and save it on soundcheck.
+Antidoto Club: DJ Seinfeld + Vagabund at Club Magno on Thu 26 Nov, Madrid. 3 artists on the bill: DJ Seinfeld, Vagabund and Yosef (ES). Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

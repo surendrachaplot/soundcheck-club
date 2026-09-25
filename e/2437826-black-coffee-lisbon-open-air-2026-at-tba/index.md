@@ -1,6 +1,6 @@
 # Black Coffee - Lisbon Open Air 2026 at TBA
 
-Black Coffee - Lisbon Open Air 2026 at TBA on Sun 27 Sept, Lisbon. 1 act on the bill: Black Coffee. House and Afro House. Preview the line-up and save it on soundcheck.
+Black Coffee - Lisbon Open Air 2026 at TBA on Sun 27 Sept, Lisbon. 1 artist on the bill: Black Coffee. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

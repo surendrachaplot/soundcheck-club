@@ -1,6 +1,6 @@
 # Vault Club Festival 3 at Pm93 Essen
 
-Vault Club Festival 3 at Pm93 Essen on Sat 26 Sept, Dortmund-essen. 1 act on the bill: Gabriel Padrevita. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Vault Club Festival 3 at Pm93 Essen on Sat 26 Sept, Dortmund Essen. 1 artist on the bill: Gabriel Padrevita. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FRICTION at Conpass
 
-FRICTION at Conpass on Fri 2 Oct, Osaka. 4 acts on the bill: ast midori, CRZKNY, hOLysHiT and Kaoll. Footwork and Post-Punk. Preview the line-up and save it on soundcheck.
+FRICTION at Conpass on Fri 2 Oct, Osaka. 4 artists on the bill: ast midori, CRZKNY, hOLysHiT and Kaoll. Footwork and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

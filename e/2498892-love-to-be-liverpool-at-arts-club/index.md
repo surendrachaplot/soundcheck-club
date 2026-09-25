@@ -1,6 +1,6 @@
 # Love to be... Liverpool at Arts Club
 
-Love to be... Liverpool at Arts Club on Sat 24 Oct, Liverpool. 4 acts on the bill: Dom Townsend, Jade Edwards, Sam Divine and Trimtone. House and Tech House. Preview the line-up and save it on soundcheck.
+Love to be... Liverpool at Arts Club on Sat 24 Oct, Liverpool. 4 artists on the bill: Dom Townsend, Jade Edwards, Sam Divine and Trimtone. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

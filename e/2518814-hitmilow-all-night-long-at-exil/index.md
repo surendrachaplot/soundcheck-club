@@ -1,6 +1,6 @@
 # HITMILOW ALL NIGHT LONG at EXIL
 
-HITMILOW ALL NIGHT LONG at EXIL on Fri 9 Oct, Zurich. 1 act on the bill: HiTMiLØW. Preview the line-up and save it on soundcheck.
+HITMILOW ALL NIGHT LONG at EXIL on Fri 9 Oct, Zurich. 1 artist on the bill: HiTMiLØW. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

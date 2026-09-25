@@ -1,6 +1,6 @@
 # MVSON PRESENTS: Mason Collective, Marian B2B VITO (UK) & Ramoss at Gallery
 
-MVSON PRESENTS: Mason Collective, Marian B2B VITO (UK) & Ramoss at Gallery on Sat 3 Oct, London. 4 acts on the bill: Marian BR, Mason Collective, Ramoss and VITO (UK). House. Preview the line-up and save it on soundcheck.
+MVSON PRESENTS: Mason Collective, Marian B2B VITO (UK) & Ramoss at Gallery on Sat 3 Oct, London. 4 artists on the bill: Marian BR, Mason Collective, Ramoss and VITO (UK). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

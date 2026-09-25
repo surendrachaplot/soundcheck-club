@@ -1,6 +1,6 @@
 # James Massiah (UK) at Oxford Art Factory
 
-James Massiah (UK) at Oxford Art Factory on Fri 25 Sept, Sydney. 2 acts on the bill: Fatshaudi and James Massiah. Dub and Dancehall. Preview the line-up and save it on soundcheck.
+James Massiah (UK) at Oxford Art Factory on Fri 25 Sept, Sydney. 2 artists on the bill: Fatshaudi and James Massiah. Dub and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

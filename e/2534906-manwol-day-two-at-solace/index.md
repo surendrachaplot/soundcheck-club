@@ -1,6 +1,6 @@
 # MANWOL 滿月: Day Two at Solace
 
-MANWOL 滿月: Day Two at Solace on Sat 26 Sept, Melbourne. 6 acts on the bill: D-Grade, Mai Kah, Makoyana and neko.ea and 2 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+MANWOL 滿月: Day Two at Solace on Sat 26 Sept, Melbourne. 6 artists on the bill: D-Grade, Mai Kah, Makoyana and neko.ea and 2 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

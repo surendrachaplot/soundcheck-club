@@ -1,6 +1,6 @@
 # NUNU ~ with Shaun J Wright at TBA
 
-NUNU ~ with Shaun J Wright at TBA on Fri 2 Oct, Toronto. 4 acts on the bill: Karim Olen Ash, Kiki LeFreak, Phillippe and Shaun J. Wright. House. Preview the line-up and save it on soundcheck.
+NUNU ~ with Shaun J Wright at TBA on Fri 2 Oct, Toronto. 4 artists on the bill: Karim Olen Ash, Kiki LeFreak, Phillippe and Shaun J. Wright. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

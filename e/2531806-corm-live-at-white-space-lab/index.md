@@ -1,6 +1,6 @@
 # CORM [LIVE] at White Space Lab
 
-CORM [LIVE] at White Space Lab on Fri 9 Oct, Tokyo. 3 acts on the bill: ALLY, Fabian Laute and TECSTONE. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+CORM [LIVE] at White Space Lab on Fri 9 Oct, Tokyo. 3 artists on the bill: ALLY, Fabian Laute and TECSTONE. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

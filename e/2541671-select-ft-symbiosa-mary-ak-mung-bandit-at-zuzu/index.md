@@ -1,6 +1,6 @@
 # SELECT ft SYMBIOSA, MARY AK, MUNG BANDIT at Zuzu
 
-SELECT ft SYMBIOSA, MARY AK, MUNG BANDIT at Zuzu on Sat 26 Sept, Boston. 1 act on the bill: MARY AK. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+SELECT ft SYMBIOSA, MARY AK, MUNG BANDIT at Zuzu on Sat 26 Sept, Boston. 1 artist on the bill: MARY AK. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

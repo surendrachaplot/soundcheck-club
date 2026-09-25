@@ -2,7 +2,7 @@
 
 Lex is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Dr Morse, Melbourne on Fri, 25 Sept 2026.
 
-Lex is a house and techno artist based in Australia, tracked on soundcheck, with 33 sets logged across Amsterdam, Brisbane, Melbourne and Mexicocity and 2 more. Often billed alongside suki, DJ Monke and Hannah D. Next up: Dr Morse, Melbourne on Fri 25 Sept.
+Lex is a house and techno artist based in Australia, tracked on soundcheck, with 33 sets logged across Amsterdam, Brisbane, Melbourne and Mexico City and 2 more. Often billed alongside suki, DJ Monke and Hannah D. Next up: Dr Morse, Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 

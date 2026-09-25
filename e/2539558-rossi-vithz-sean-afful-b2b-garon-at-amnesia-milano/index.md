@@ -1,6 +1,6 @@
 # Rossi. + Vithz + Sean Afful B2B GARON at Amnesia Milano
 
-Rossi. + Vithz + Sean Afful B2B GARON at Amnesia Milano on Sat 3 Oct, Milan. 3 acts on the bill: Rossi, Sean Afful and Vithz. Preview the line-up and save it on soundcheck.
+Rossi. + Vithz + Sean Afful B2B GARON at Amnesia Milano on Sat 3 Oct, Milan. 3 artists on the bill: Rossi, Sean Afful and Vithz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

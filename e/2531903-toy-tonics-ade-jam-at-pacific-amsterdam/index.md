@@ -1,6 +1,6 @@
 # Toy Tonics ADE Jam at Pacific Amsterdam
 
-Toy Tonics ADE Jam at Pacific Amsterdam on Sat 24 Oct, Amsterdam. 7 acts on the bill: Arpy Brown, FIMIANI, Kapote and Mary Olivetti and 3 more. House and Disco. Preview the line-up and save it on soundcheck.
+Toy Tonics ADE Jam at Pacific Amsterdam on Sat 24 Oct, Amsterdam. 7 artists on the bill: Arpy Brown, FIMIANI, Kapote and Mary Olivetti and 3 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

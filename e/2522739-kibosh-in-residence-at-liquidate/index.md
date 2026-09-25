@@ -1,6 +1,6 @@
 # Kibosh in Residence at Liquidate
 
-Kibosh in Residence at Liquidate on Fri 2 Oct, Manchester. 2 acts on the bill: Alex Gaskill and Jack Moss. Techno and Acid. Preview the line-up and save it on soundcheck.
+Kibosh in Residence at Liquidate on Fri 2 Oct, Manchester. 2 artists on the bill: Alex Gaskill and Jack Moss. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

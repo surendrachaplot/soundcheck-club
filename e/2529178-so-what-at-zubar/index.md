@@ -1,6 +1,6 @@
 # so what at ZUBAR
 
-so what at ZUBAR on Fri 2 Oct, Tokyo. 2 acts on the bill: Eda and TOSHIHISA HIRANO. Preview the line-up and save it on soundcheck.
+so what at ZUBAR on Fri 2 Oct, Tokyo. 2 artists on the bill: Eda and TOSHIHISA HIRANO. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

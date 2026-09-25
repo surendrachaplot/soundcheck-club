@@ -1,6 +1,6 @@
 # Locale at The Doghouse bar & Record Store
 
-Locale at The Doghouse bar & Record Store on Sat 3 Oct, Leeds. 2 acts on the bill: Scott Broadhead and Ted Coyle. House and Disco. Preview the line-up and save it on soundcheck.
+Locale at The Doghouse bar & Record Store on Sat 3 Oct, Leeds. 2 artists on the bill: Scott Broadhead and Ted Coyle. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # UTOPIA FESTIVAL - TOME VI at Cabaret  Aléatoire
 
-UTOPIA FESTIVAL - TOME VI at Cabaret  Aléatoire on Fri 25 Sept, Marseille. 20 acts on the bill: Alycia Bezgo, Colin Benders, EARGASM GOD and Jack de Marseille and 16 more. Techno and House. Preview the line-up and save it on soundcheck.
+UTOPIA FESTIVAL - TOME VI at Cabaret  Aléatoire on Fri 25 Sept, Marseille. 20 artists on the bill: Alycia Bezgo, Colin Benders, EARGASM GOD and Jack de Marseille and 16 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

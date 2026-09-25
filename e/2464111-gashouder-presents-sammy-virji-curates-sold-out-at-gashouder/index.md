@@ -1,6 +1,6 @@
 # GASHOUDER presents: Sammy Virji Curates [Sold Out] at GASHOUDER
 
-GASHOUDER presents: Sammy Virji Curates [Sold Out] on Sat 24 Oct, Amsterdam. 5 acts on the bill: RIRIA, Rossi, SAIDAH and Sam Alfred and 1 more. Garage. Preview the line-up and save it on soundcheck.
+GASHOUDER presents: Sammy Virji Curates [Sold Out] on Sat 24 Oct, Amsterdam. 5 artists on the bill: RIRIA, Rossi, SAIDAH and Sam Alfred and 1 more. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

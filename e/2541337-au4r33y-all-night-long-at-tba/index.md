@@ -1,6 +1,6 @@
 # AU4R33Y - All Night Long at TBA
 
-AU4R33Y - All Night Long at TBA on Fri 25 Sept, Sydney. 1 act on the bill: au4r33y. Techno and Electro. Preview the line-up and save it on soundcheck.
+AU4R33Y - All Night Long at TBA on Fri 25 Sept, Sydney. 1 artist on the bill: au4r33y. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

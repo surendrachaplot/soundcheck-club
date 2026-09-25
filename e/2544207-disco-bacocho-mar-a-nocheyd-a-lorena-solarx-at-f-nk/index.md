@@ -1,6 +1,6 @@
 # Disco Bacocho: María Nocheydía + Lorena + Solarx at Fünk
 
-Disco Bacocho: María Nocheydía + Lorena + Solarx at Fünk on Fri 9 Oct, Mexicocity. 2 acts on the bill: LORENA (MX) and Maria Nocheydía. House. Preview the line-up and save it on soundcheck.
+Disco Bacocho: María Nocheydía + Lorena + Solarx at Fünk on Fri 9 Oct, Mexico City. 2 artists on the bill: LORENA (MX) and Maria Nocheydía. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

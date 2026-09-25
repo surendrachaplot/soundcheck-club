@@ -1,6 +1,6 @@
 # FOCUS: Colin Benders [LiVE] at Flash
 
-FOCUS: Colin Benders [LiVE] at Flash on Sat 10 Oct, Washingtondc. 4 acts on the bill: Colin Benders, Eric Yaz, Hoppa and Sal Negro. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+FOCUS: Colin Benders [LiVE] at Flash on Sat 10 Oct, Washington DC. 4 artists on the bill: Colin Benders, Eric Yaz, Hoppa and Sal Negro. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

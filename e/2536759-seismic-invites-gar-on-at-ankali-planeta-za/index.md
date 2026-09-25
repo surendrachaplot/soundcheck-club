@@ -1,6 +1,6 @@
 # Seismic invites Garçon at Ankali & Planeta Za
 
-Seismic invites Garçon at Ankali & Planeta Za on Sat 3 Oct, Prague. 5 acts on the bill: Citty, DANOWSKI000, Garçon and LickMySoul and 1 more. Preview the line-up and save it on soundcheck.
+Seismic invites Garçon at Ankali & Planeta Za on Sat 3 Oct, Prague. 5 artists on the bill: Citty, DANOWSKI000, Garçon and LickMySoul and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

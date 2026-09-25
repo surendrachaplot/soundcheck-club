@@ -1,6 +1,6 @@
 # Groove Hut Presents: Ryan Nicholls at Lucky Strike
 
-Groove Hut Presents: Ryan Nicholls at Lucky Strike on Sat 17 Oct, Glasgow. 1 act on the bill: Ryan Nicholls. House. Preview the line-up and save it on soundcheck.
+Groove Hut Presents: Ryan Nicholls at Lucky Strike on Sat 17 Oct, Glasgow. 1 artist on the bill: Ryan Nicholls. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

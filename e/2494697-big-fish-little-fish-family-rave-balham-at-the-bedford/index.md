@@ -1,6 +1,6 @@
 # Big Fish Little Fish Family Rave - Balham at The Bedford
 
-Big Fish Little Fish Family Rave - Balham at The Bedford on Sat 10 Oct, London. 1 act on the bill: 2 Bad Mice. Breakbeat. Preview the line-up and save it on soundcheck.
+Big Fish Little Fish Family Rave - Balham at The Bedford on Sat 10 Oct, London. 1 artist on the bill: 2 Bad Mice. Breakbeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

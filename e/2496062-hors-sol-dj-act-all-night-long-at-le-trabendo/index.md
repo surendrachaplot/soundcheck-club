@@ -1,6 +1,6 @@
 # HORS-SOL (DJ act) all night long at Le Trabendo
 
-HORS-SOL (DJ act) all night long at Le Trabendo on Fri 18 Dec, Paris. 1 act on the bill: HORS-SOL. Preview the line-up and save it on soundcheck.
+HORS-SOL (DJ act) all night long at Le Trabendo on Fri 18 Dec, Paris. 1 artist on the bill: HORS-SOL. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

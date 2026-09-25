@@ -1,6 +1,6 @@
 # Horn presents Aöcram with Sweed & Inging at Horn
 
-Horn presents Aöcram with Sweed & Inging on Sat 26 Sept, Bangkok. 2 acts on the bill: Aöcram and DJ Sweed. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Horn presents Aöcram with Sweed & Inging on Sat 26 Sept, Bangkok. 2 artists on the bill: Aöcram and DJ Sweed. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

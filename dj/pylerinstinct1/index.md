@@ -2,7 +2,7 @@
 
 Pylerinstinct1 is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TCQ, Buenos Aires on Sat, 26 Sept 2026.
 
-Pylerinstinct1 is a techno and dub techno artist based in Spain, tracked on soundcheck, with 10 sets logged across Berlin, Buenosaires and Madrid. Often billed alongside Wisje Dj, Fgdj and Genghis C_nt. Next up: TCQ, Buenosaires on Sat 26 Sept.
+Pylerinstinct1 is a techno and dub techno artist based in Spain, tracked on soundcheck, with 10 sets logged across Berlin, Buenos Aires and Madrid. Often billed alongside Wisje Dj, Fgdj and Genghis C_nt. Next up: TCQ, Buenos Aires on Sat 26 Sept.
 
 ## Upcoming shows
 

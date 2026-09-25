@@ -1,6 +1,6 @@
 # FNGRS CRSSD presents Christian Löffler at EQ San Diego
 
-FNGRS CRSSD presents Christian Löffler at EQ San Diego on Fri 30 Oct, Sandiego. 1 act on the bill: Christian Löffler. Preview the line-up and save it on soundcheck.
+FNGRS CRSSD presents Christian Löffler at EQ San Diego on Fri 30 Oct, San Diego. 1 artist on the bill: Christian Löffler. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

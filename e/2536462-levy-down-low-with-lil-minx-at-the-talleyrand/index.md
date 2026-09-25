@@ -1,6 +1,6 @@
 # Levy Down Low with Lil' Minx at The Talleyrand
 
-Levy Down Low with Lil' Minx at The Talleyrand on Sat 3 Oct, Manchester. 1 act on the bill: Lil' Minx. Deep House and Broken Beat. Preview the line-up and save it on soundcheck.
+Levy Down Low with Lil' Minx at The Talleyrand on Sat 3 Oct, Manchester. 1 artist on the bill: Lil' Minx. Deep House and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

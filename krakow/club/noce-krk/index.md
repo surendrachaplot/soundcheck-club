@@ -10,7 +10,7 @@ Noce KRK is a music venue in Krakow listed on soundcheck. 7 upcoming gigs, with 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | WE ARE NASTY - 2 STAGES - FREE ENTRY TILL 23:00 |  |
 | Sat, 26 Sept 2026 | TECHNOSESSIONS 04: Dimitri Cooman (BE), Abrew | Abrew, Dimitri Cooman, MRV (1), RAJZ |
-| Fri, 2 Oct 2026 | K​Ø​LP​Ø​S + Vertical Spectrum i inni  | exoførm |
+| Fri, 2 Oct 2026 | K​Ø​LP​Ø​S [WARM UP / PVP / LOOPAINA] + Vertical Spectrum + Vakkum + Implemental djs  | exoførm |
 | Sat, 17 Oct 2026 | PsyGroove vol. 2 pres. BREGER | Esquita, Glani |
 | Sat, 31 Oct 2026 | Zorya IV Halloween edition |  |
 | Tue, 10 Nov 2026 | TECHNOSESSIONS 04: Dimitri Cooman (BE), Abrew | Abrew, Dimitri Cooman, MRV (1), RAJZ |

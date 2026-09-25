@@ -1,6 +1,6 @@
 # NYC Barchef Witching Hour Party 10/31 at Barchef
 
-NYC Barchef Witching Hour Party 10/31 on Sat 31 Oct, Newyorkcity. Club. Preview the line-up and save it on soundcheck.
+NYC Barchef Witching Hour Party 10/31 on Sat 31 Oct, New York City. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

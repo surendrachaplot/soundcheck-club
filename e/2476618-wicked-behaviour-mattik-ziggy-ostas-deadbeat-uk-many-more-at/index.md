@@ -1,6 +1,6 @@
 # WICKED BEHAVIOUR: MATTIK, Ziggy Ostas, DEADBEAT UK & MANY MORE at Sidney & Matilda
 
-WICKED BEHAVIOUR: MATTIK, Ziggy Ostas, DEADBEAT UK & MANY MORE at Sidney & Matilda on Sat 31 Oct, Sheffield. 6 acts on the bill: F3rg13, IMO UK, INKLING GIRLZ and JOESELECTA and 2 more. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+WICKED BEHAVIOUR: MATTIK, Ziggy Ostas, DEADBEAT UK & MANY MORE at Sidney & Matilda on Sat 31 Oct, Sheffield. 6 artists on the bill: F3rg13, IMO UK, INKLING GIRLZ and JOESELECTA and 2 more. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Gravitate Festival at Herdade do Aguilhão
 
-Gravitate Festival at Herdade do Aguilhão on Fri 2 Oct, Lisbon. 37 acts on the bill: Adriana Lopez, Amanda Mussi, Amulador and Batu and 33 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Gravitate Festival at Herdade do Aguilhão on Fri 2 Oct, Lisbon. 37 artists on the bill: Adriana Lopez, Amanda Mussi, Amulador and Batu and 33 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

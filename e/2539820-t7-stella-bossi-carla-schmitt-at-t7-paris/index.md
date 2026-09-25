@@ -1,6 +1,6 @@
 # T7: STELLA BOSSI, Carla Schmitt at T7 Paris
 
-T7: STELLA BOSSI, Carla Schmitt at T7 Paris on Sat 10 Oct, Paris. 2 acts on the bill: Carla Schmitt and STELLA BOSSI. Techno. Preview the line-up and save it on soundcheck.
+T7: STELLA BOSSI, Carla Schmitt at T7 Paris on Sat 10 Oct, Paris. 2 artists on the bill: Carla Schmitt and STELLA BOSSI. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

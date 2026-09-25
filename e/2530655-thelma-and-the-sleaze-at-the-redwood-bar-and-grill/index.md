@@ -1,6 +1,6 @@
 # Thelma and the Sleaze at The Redwood Bar And Grill
 
-Thelma and the Sleaze at The Redwood Bar And Grill on Fri 2 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+Thelma and the Sleaze at The Redwood Bar And Grill on Fri 2 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

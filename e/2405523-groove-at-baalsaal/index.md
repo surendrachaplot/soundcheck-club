@@ -1,6 +1,6 @@
 # GROOVE at Baalsaal
 
-GROOVE at Baalsaal on Fri 18 Dec, Hamburg. 1 act on the bill: Steven Shade. Techno. Preview the line-up and save it on soundcheck.
+GROOVE at Baalsaal on Fri 18 Dec, Hamburg. 1 artist on the bill: Steven Shade. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

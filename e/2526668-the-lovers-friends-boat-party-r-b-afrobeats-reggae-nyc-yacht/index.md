@@ -1,6 +1,6 @@
 # The Lovers & Friends Boat Party - R&B, Afrobeats, Reggae NYC Yacht Cruise at Pier 78 at Hudson River Park
 
-The Lovers & Friends Boat Party - R&B, Afrobeats, Reggae NYC Yacht Cruise at Pier 78 at Hudson River Park on Sat 26 Sept, Newyorkcity. Reggaeton. Preview the line-up and save it on soundcheck.
+The Lovers & Friends Boat Party - R&B, Afrobeats, Reggae NYC Yacht Cruise at Pier 78 at Hudson River Park on Sat 26 Sept, New York City. Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

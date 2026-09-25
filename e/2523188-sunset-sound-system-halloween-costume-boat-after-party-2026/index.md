@@ -1,6 +1,6 @@
 # Sunset Sound System Halloween Costume Boat + After-Party 2026 at San Francisco Belle Hornblower
 
-Sunset Sound System Halloween Costume Boat + After-Party 2026 at San Francisco Belle Hornblower on Sun 25 Oct, Sanfrancisco. 2 acts on the bill: Galen and Solar. Preview the line-up and save it on soundcheck.
+Sunset Sound System Halloween Costume Boat + After-Party 2026 at San Francisco Belle Hornblower on Sun 25 Oct, San Francisco/Oakland. 2 artists on the bill: Galen and Solar. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SINEWAVERS CLUB - FOOTWORK / BASS / HIPHOP - at ZEROTOKYO
 
-SINEWAVERS CLUB - FOOTWORK / BASS / HIPHOP - at ZEROTOKYO on Thu 15 Oct, Tokyo. 7 acts on the bill: akii, DJ EYELASH, Fetus and illequal and 3 more. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
+SINEWAVERS CLUB - FOOTWORK / BASS / HIPHOP - at ZEROTOKYO on Thu 15 Oct, Tokyo. 7 artists on the bill: akii, DJ EYELASH, Fetus and illequal and 3 more. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

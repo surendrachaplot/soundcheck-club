@@ -1,6 +1,6 @@
 # 『TRANSITION SEP 25, 2026』 at R Lounge
 
-『TRANSITION SEP 25, 2026』 at R Lounge on Fri 25 Sept, Tokyo. 3 acts on the bill: Ginji, Kenta and RNG (1). Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+『TRANSITION SEP 25, 2026』 at R Lounge on Fri 25 Sept, Tokyo. 3 artists on the bill: Ginji, Kenta and RNG. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

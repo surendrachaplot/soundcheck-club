@@ -1,6 +1,6 @@
 # VICIOSA x GELATINA with Akriila, Metrika, Bassista, NEGRACONDA at Les Halles de Schaerbeek
 
-VICIOSA x GELATINA with Akriila, Metrika, Bassista, NEGRACONDA at Les Halles de Schaerbeek on Sat 26 Sept, Brussels. 4 acts on the bill: BADSISTA, NEGRACONDA, Ricky Corazón and Vera Moro. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
+VICIOSA x GELATINA with Akriila, Metrika, Bassista, NEGRACONDA at Les Halles de Schaerbeek on Sat 26 Sept, Brussels. 4 artists on the bill: BADSISTA, NEGRACONDA, Ricky Corazón and Vera Moro. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

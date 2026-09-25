@@ -1,6 +1,6 @@
 # BAR TIME BGM at Area_osaka
 
-BAR TIME BGM at Area_osaka on Mon 28 Sept, Osaka. 1 act on the bill: EICHIMEN. Techno and Tech House. Preview the line-up and save it on soundcheck.
+BAR TIME BGM at Area_osaka on Mon 28 Sept, Osaka. 1 artist on the bill: EICHIMEN. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

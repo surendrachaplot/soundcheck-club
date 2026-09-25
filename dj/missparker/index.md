@@ -1,8 +1,8 @@
 # Miss Parker
 
-Miss Parker is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
+Miss Parker is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-Miss Parker is a techno and house artist based in United States of America, tracked on soundcheck, with 131 sets logged across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, Princess Peggie and DJ Thank You. Next up: The San Francisco Mint, Sanfrancisco on Fri 25 Sept.
+Miss Parker is a techno and house artist based in United States of America, tracked on soundcheck, with 132 sets logged across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, Princess Peggie and DJ Thank You. Next up: The San Francisco Mint, San Francisco/Oakland on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Miss Parker is a techno and house artist based in United States of America, trac
 | Sat, 3 Oct 2026 | TBA - Warehouse Location | Philadelphia |
 | Fri, 9 Oct 2026 | TBA | Los Angeles |
 | Thu, 15 Oct 2026 | Nowadays | New York City |
+| Sat, 14 Nov 2026 | Lark | Berlin |
 
 ## Recently played
 

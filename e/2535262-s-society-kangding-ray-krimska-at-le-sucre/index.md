@@ -1,6 +1,6 @@
 # S.society: Kangding Ray, Krimska at Le Sucre
 
-S.society: Kangding Ray, Krimska at Le Sucre on Sun 11 Oct, Lyon. 2 acts on the bill: Kangding Ray and Krimska. Preview the line-up and save it on soundcheck.
+S.society: Kangding Ray, Krimska at Le Sucre on Sun 11 Oct, Lyon. 2 artists on the bill: Kangding Ray and Krimska. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

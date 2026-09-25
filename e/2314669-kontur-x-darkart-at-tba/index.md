@@ -1,6 +1,6 @@
 # Kontur x darkart at TBA
 
-Kontur x darkart at TBA on Sun 13 Dec, Cologne. 1 act on the bill: AEKO. Preview the line-up and save it on soundcheck.
+Kontur x darkart at TBA on Sun 13 Dec, Cologne. 1 artist on the bill: AEKO. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # At Home - NOT ADE Edition II at Papaverweg 46
 
-At Home - NOT ADE Edition II at Papaverweg 46 on Fri 23 Oct, Amsterdam. 3 acts on the bill: ANSWER (IN), Firungi and Junior Simba. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+At Home - NOT ADE Edition II at Papaverweg 46 on Fri 23 Oct, Amsterdam. 3 artists on the bill: ANSWER (IN), Firungi and Junior Simba. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

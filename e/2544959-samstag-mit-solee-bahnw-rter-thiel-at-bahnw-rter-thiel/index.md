@@ -1,6 +1,6 @@
 # Samstag mit Solee | Bahnwärter Thiel at Bahnwärter Thiel
 
-Samstag mit Solee | Bahnwärter Thiel on Sat 24 Oct, Munich. 3 acts on the bill: Danca, Mellowflex and Solee. Preview the line-up and save it on soundcheck.
+Samstag mit Solee | Bahnwärter Thiel on Sat 24 Oct, Munich. 3 artists on the bill: Danca, Mellowflex and Solee. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

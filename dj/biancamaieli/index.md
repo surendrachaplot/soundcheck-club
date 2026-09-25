@@ -2,7 +2,7 @@
 
 Bianca Maieli is a Baile Funk and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Golden Dragon Restaurant, Los Angeles on Thu, 24 Sept 2026.
 
-Bianca Maieli is a baile funk and afrobeat artist based in United States of America, tracked on soundcheck, with 44 sets logged across London, Losangeles, Sandiego and Sanfrancisco. Often billed alongside MTooray, DJ SUDI and Aku. Next up: Golden Dragon Restaurant, Losangeles on Thu 24 Sept.
+Bianca Maieli is a baile funk and afrobeat artist based in United States of America, tracked on soundcheck, with 44 sets logged across London, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside MTooray, DJ SUDI and Aku. Next up: Golden Dragon Restaurant, Los Angeles on Thu 24 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Klubnacht at Berghain | Panorama Bar | Säule
 
-Klubnacht at Berghain | Panorama Bar | Säule on Sat 26 Sept, Berlin. 17 acts on the bill: Auspex, Beste Hira, Bradley Zero and Colin Benders and 13 more. Preview the line-up and save it on soundcheck.
+Klubnacht at Berghain | Panorama Bar | Säule on Sat 26 Sept, Berlin. 17 artists on the bill: Auspex, Beste Hira, Bradley Zero and Colin Benders and 13 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

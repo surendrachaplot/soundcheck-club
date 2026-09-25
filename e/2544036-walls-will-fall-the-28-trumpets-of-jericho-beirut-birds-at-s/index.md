@@ -1,6 +1,6 @@
 # Walls Will Fall: The 28 Trumpets of Jericho / Beirut Birds at Start.Bahn - Genezarethkirche
 
-Walls Will Fall: The 28 Trumpets of Jericho / Beirut Birds at Start.Bahn - Genezarethkirche on Mon 12 Oct, Berlin. 1 act on the bill: Nour Sokhon. Experimental and Classical. Preview the line-up and save it on soundcheck.
+Walls Will Fall: The 28 Trumpets of Jericho / Beirut Birds at Start.Bahn - Genezarethkirche on Mon 12 Oct, Berlin. 1 artist on the bill: Nour Sokhon. Experimental and Classical. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Más Música at Last Arch
 
-Más Música at Last Arch on Fri 30 Oct, London. 6 acts on the bill: HiFever, Luke Mannion, Ryan Nicholls and Timmy P and 2 more. House and Garage. Preview the line-up and save it on soundcheck.
+Más Música at Last Arch on Fri 30 Oct, London. 6 artists on the bill: HiFever, Luke Mannion, Ryan Nicholls and Timmy P and 2 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

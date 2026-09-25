@@ -2,7 +2,7 @@
 
 Sacha Robotti is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Catalina Classic Cruises, Los Angeles on Sat, 14 Nov 2026.
 
-Sacha Robotti is a house and tech house artist tracked on soundcheck, with 26 sets logged across Austin, Chicago, Houston and Losangeles and 5 more. Often billed alongside Ardalan, J.Phlip and Victoria Rawlins. Next up: Catalina Classic Cruises, Losangeles on Sat 14 Nov.
+Sacha Robotti is a house and tech house artist tracked on soundcheck, with 26 sets logged across Austin, Chicago, Houston and Los Angeles and 5 more. Often billed alongside Ardalan, J.Phlip and Victoria Rawlins. Next up: Catalina Classic Cruises, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 

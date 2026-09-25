@@ -1,6 +1,6 @@
 # BLACK NOIR presents: PSY ON TAKE OVER at The Flinders
 
-BLACK NOIR presents: PSY ON TAKE OVER at The Flinders on Sat 26 Sept, Sydney. 3 acts on the bill: JUNN GULDUR, Kit Kat and Mikel (1). Techno. Preview the line-up and save it on soundcheck.
+BLACK NOIR presents: PSY ON TAKE OVER at The Flinders on Sat 26 Sept, Sydney. 3 artists on the bill: JUNN GULDUR, Kit Kat and Mikel. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

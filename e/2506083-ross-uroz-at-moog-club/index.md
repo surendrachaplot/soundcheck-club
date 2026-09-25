@@ -1,6 +1,6 @@
 # Ross + uroz at Moog Club
 
-Ross + uroz at Moog Club on Fri 25 Sept, Barcelona. 2 acts on the bill: ROSS z and uroz. Techno. Preview the line-up and save it on soundcheck.
+Ross + uroz at Moog Club on Fri 25 Sept, Barcelona. 2 artists on the bill: ROSS z and uroz. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

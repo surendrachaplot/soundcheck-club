@@ -1,6 +1,6 @@
 # Nü Androids presents: Francis Mercier at A.i Warehouse
 
-Nü Androids presents: Francis Mercier at A.i Warehouse on Fri 11 Dec, Washingtondc. 1 act on the bill: Francis Mercier. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Francis Mercier at A.i Warehouse on Fri 11 Dec, Washington DC. 1 artist on the bill: Francis Mercier. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

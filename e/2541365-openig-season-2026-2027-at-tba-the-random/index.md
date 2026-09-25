@@ -1,6 +1,6 @@
 # OPENIG SEASON 2026 - 2027 at TBA - The Random
 
-OPENIG SEASON 2026 - 2027 at TBA - The Random on Fri 2 Oct, Rome. 2 acts on the bill: Alex P and MSL-T. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+OPENIG SEASON 2026 - 2027 at TBA - The Random on Fri 2 Oct, Rome. 2 artists on the bill: Alex P and MSL-T. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

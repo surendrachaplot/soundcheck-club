@@ -1,6 +1,6 @@
 # IMMERNOCH! TANZEN at Subway
 
-IMMERNOCH! TANZEN at Subway on Sat 3 Oct, Cologne. 1 act on the bill: Irwin Leschet. Techno and House. Preview the line-up and save it on soundcheck.
+IMMERNOCH! TANZEN at Subway on Sat 3 Oct, Cologne. 1 artist on the bill: Irwin Leschet. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

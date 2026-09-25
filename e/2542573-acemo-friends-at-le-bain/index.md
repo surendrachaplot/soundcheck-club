@@ -1,6 +1,6 @@
 # AceMo + Friends at Le Bain
 
-AceMo + Friends at Le Bain on Fri 25 Sept, Newyorkcity. 2 acts on the bill: AceMo and JEWELSSEA. Preview the line-up and save it on soundcheck.
+AceMo + Friends at Le Bain on Fri 25 Sept, New York City. 2 artists on the bill: AceMo and JEWELSSEA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

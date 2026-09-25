@@ -1,6 +1,6 @@
 # BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ NewTone/ Roos Reijmers at BASIS
 
-BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ NewTone/ Roos Reijmers on Sat 26 Sept, Utrecht. 3 acts on the bill: Brent Honey, fka.m4a and NewTone. House. Preview the line-up and save it on soundcheck.
+BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ NewTone/ Roos Reijmers on Sat 26 Sept, Utrecht. 3 artists on the bill: Brent Honey, fka.m4a and NewTone. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

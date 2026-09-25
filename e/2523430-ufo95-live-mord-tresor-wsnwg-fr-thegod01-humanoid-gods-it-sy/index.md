@@ -1,6 +1,6 @@
 # UFO95 live (Mord, Tresor, WSNWG /FR), THEGOD01 (Humanoid Gods /IT), Syca (WRD, Technobull /IT) at Azimut Club
 
-UFO95 live (Mord, Tresor, WSNWG /FR), THEGOD01 (Humanoid Gods /IT), Syca (WRD, Technobull /IT) at Azimut Club on Sat 19 Dec, Turin. 3 acts on the bill: Syca, THEGOD01 and UFO95. Techno. Preview the line-up and save it on soundcheck.
+UFO95 live (Mord, Tresor, WSNWG /FR), THEGOD01 (Humanoid Gods /IT), Syca (WRD, Technobull /IT) at Azimut Club on Sat 19 Dec, Turin. 3 artists on the bill: Syca, THEGOD01 and UFO95. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

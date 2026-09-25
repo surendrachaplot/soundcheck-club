@@ -2,7 +2,7 @@
 
 Proxxy is a Drum & Bass and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Fri, 25 Sept 2026.
 
-Proxxy is a drum & bass and funk / soul artist based in United States of America, tracked on soundcheck, with 8 sets logged across Washingtondc. Often billed alongside Essential Freaks, Julez (2) and Casey West. Next up: Flash, Washingtondc on Fri 25 Sept.
+Proxxy is a drum & bass and funk / soul artist based in United States of America, tracked on soundcheck, with 8 sets logged across Washington DC. Often billed alongside Essential Freaks, Julez and Casey West. Next up: Flash, Washington DC on Fri 25 Sept.
 
 ## Upcoming shows
 

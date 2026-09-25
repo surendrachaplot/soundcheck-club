@@ -1,6 +1,6 @@
 # Fumiya Tanaka at Moon Club
 
-Fumiya Tanaka at Moon Club on Sat 21 Nov, Bristol. 1 act on the bill: Fumiya Tanaka. House. Preview the line-up and save it on soundcheck.
+Fumiya Tanaka at Moon Club on Sat 21 Nov, Bristol. 1 artist on the bill: Fumiya Tanaka. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

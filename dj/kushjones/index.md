@@ -2,7 +2,7 @@
 
 Kush Jones is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nowadays, New York City on Sun, 11 Oct 2026.
 
-Kush Jones is a techno and house artist based in United States of America, tracked on soundcheck, with 118 sets logged across Amsterdam, Auckland, Bali and Berlin and 26 more. Often billed alongside DJ SWISHA, MoMA Ready and AceMo. Next up: Nowadays, Newyorkcity on Sun 11 Oct.
+Kush Jones is a techno and house artist based in United States of America, tracked on soundcheck, with 118 sets logged across Amsterdam, Auckland, Bali and Berlin and 26 more. Often billed alongside DJ SWISHA, MoMA Ready and AceMo. Next up: Nowadays, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 

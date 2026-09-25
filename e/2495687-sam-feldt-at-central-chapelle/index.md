@@ -1,6 +1,6 @@
 # Sam Feldt at Central Chapelle
 
-Sam Feldt at Central Chapelle on Fri 9 Oct, Paris. 1 act on the bill: Sam Feldt. Electro and Deep House. Preview the line-up and save it on soundcheck.
+Sam Feldt at Central Chapelle on Fri 9 Oct, Paris. 1 artist on the bill: Sam Feldt. Electro and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

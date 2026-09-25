@@ -1,6 +1,6 @@
 # SUNDAY SESSION - Hope House GALLERY SUNDAY 27th SEPTEMBER at Hope House
 
-SUNDAY SESSION - Hope House GALLERY SUNDAY 27th SEPTEMBER on Sun 27 Sept, Leeds. 2 acts on the bill: BOSSdaddy and DJ Gilla. Disco and Acid. Preview the line-up and save it on soundcheck.
+SUNDAY SESSION - Hope House GALLERY SUNDAY 27th SEPTEMBER on Sun 27 Sept, Leeds. 2 artists on the bill: BOSSdaddy and DJ Gilla. Disco and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

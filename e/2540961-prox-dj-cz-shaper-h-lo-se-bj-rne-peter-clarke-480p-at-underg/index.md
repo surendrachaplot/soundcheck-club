@@ -1,6 +1,6 @@
 # PROX. DJ CZ, Shaper, Héloïse, Bjørne, Peter Clarke, 480P at Underground SF
 
-PROX. DJ CZ, Shaper, Héloïse, Bjørne, Peter Clarke, 480P at Underground SF on Fri 18 Dec, Sanfrancisco. 6 acts on the bill: 480P (US), Bjørn, DJ CZ and Héloïse and 2 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+PROX. DJ CZ, Shaper, Héloïse, Bjørne, Peter Clarke, 480P at Underground SF on Fri 18 Dec, San Francisco/Oakland. 6 artists on the bill: 480P (US), Bjørn, DJ CZ and Héloïse and 2 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EVERY 1ST THURSDAY at COUNTER CLUB
 
-EVERY 1ST THURSDAY at COUNTER CLUB on Thu 8 Oct, Tokyo. 1 act on the bill: DJ Hazime. Preview the line-up and save it on soundcheck.
+EVERY 1ST THURSDAY at COUNTER CLUB on Thu 8 Oct, Tokyo. 1 artist on the bill: DJ Hazime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

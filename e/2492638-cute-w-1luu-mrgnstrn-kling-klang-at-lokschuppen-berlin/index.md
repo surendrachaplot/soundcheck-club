@@ -1,6 +1,6 @@
 # CUTE /w 1luu, MRGNSTRN, KLING&KLANG at Lokschuppen Berlin
 
-CUTE /w 1luu, MRGNSTRN, KLING&KLANG at Lokschuppen Berlin on Sat 10 Oct, Berlin. 11 acts on the bill: 1luu, alemiko, brvder jakob and e.leptic and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+CUTE /w 1luu, MRGNSTRN, KLING&KLANG at Lokschuppen Berlin on Sat 10 Oct, Berlin. 11 artists on the bill: 1luu, alemiko, brvder jakob and e.leptic and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

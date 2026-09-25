@@ -1,6 +1,6 @@
 # KOMPLOTT at Panama
 
-KOMPLOTT at Panama on Sat 21 Nov, Amsterdam. 4 acts on the bill: Ben Techy, Divasi, Rudaki and SANTØS. Techno. Preview the line-up and save it on soundcheck.
+KOMPLOTT at Panama on Sat 21 Nov, Amsterdam. 4 artists on the bill: Ben Techy, Divasi, Rudaki and SANTØS. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

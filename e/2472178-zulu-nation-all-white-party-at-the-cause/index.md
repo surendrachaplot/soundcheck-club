@@ -1,6 +1,6 @@
 # Zulu Nation - All White Party at The Cause
 
-Zulu Nation - All White Party at The Cause on Sun 27 Sept, London. 3 acts on the bill: Angela Rose, DJ Majesty and Gemini (2). Amapiano and Afro House. Preview the line-up and save it on soundcheck.
+Zulu Nation - All White Party at The Cause on Sun 27 Sept, London. 3 artists on the bill: Angela Rose, DJ Majesty and Gemini. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

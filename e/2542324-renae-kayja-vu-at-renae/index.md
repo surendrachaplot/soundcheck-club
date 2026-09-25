@@ -1,6 +1,6 @@
 # renae: Kayja Vu at renae
 
-renae: Kayja Vu on Thu 24 Sept, Manchester. 1 act on the bill: kayja vu. Preview the line-up and save it on soundcheck.
+renae: Kayja Vu on Thu 24 Sept, Manchester. 1 artist on the bill: kayja vu. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

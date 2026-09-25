@@ -1,6 +1,6 @@
 # THE ONE presents Steve Angello - PROGRESSIVE HOUSE / HOUSE - at ZEROTOKYO
 
-THE ONE presents Steve Angello - PROGRESSIVE HOUSE / HOUSE - at ZEROTOKYO on Fri 18 Dec, Tokyo. 1 act on the bill: Steve Angello. Progressive House and House. Preview the line-up and save it on soundcheck.
+THE ONE presents Steve Angello - PROGRESSIVE HOUSE / HOUSE - at ZEROTOKYO on Fri 18 Dec, Tokyo. 1 artist on the bill: Steve Angello. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

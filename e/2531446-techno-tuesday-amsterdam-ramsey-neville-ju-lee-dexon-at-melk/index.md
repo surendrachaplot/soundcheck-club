@@ -1,6 +1,6 @@
 # Techno Tuesday Amsterdam, Ramsey Neville, Ju Lee, Dexon at Melkweg
 
-Techno Tuesday Amsterdam, Ramsey Neville, Ju Lee, Dexon at Melkweg on Tue 13 Oct, Amsterdam. 2 acts on the bill: Dexon and Ramsey Neville. Techno. Preview the line-up and save it on soundcheck.
+Techno Tuesday Amsterdam, Ramsey Neville, Ju Lee, Dexon at Melkweg on Tue 13 Oct, Amsterdam. 2 artists on the bill: Dexon and Ramsey Neville. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

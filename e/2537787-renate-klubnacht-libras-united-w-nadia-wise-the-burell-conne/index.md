@@ -1,6 +1,6 @@
 # Renate Klubnacht / Libras United w/ Nadia Wise, The Burell Connection, Triqi & Henry Weekes at Renate
 
-Renate Klubnacht / Libras United w/ Nadia Wise, The Burell Connection, Triqi & Henry Weekes on Sat 10 Oct, Berlin. 10 acts on the bill: Aalia Iraki, DJ CHICHI, DJ Equipment and JM Moser and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht / Libras United w/ Nadia Wise, The Burell Connection, Triqi & Henry Weekes on Sat 10 Oct, Berlin. 10 artists on the bill: Aalia Iraki, DJ CHICHI, DJ Equipment and JM Moser and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

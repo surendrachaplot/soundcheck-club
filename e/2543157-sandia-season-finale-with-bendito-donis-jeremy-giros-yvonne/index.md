@@ -1,6 +1,6 @@
 # SanDia: Season Finale with Bendito, Donis, Jeremy Giros, Yvonne Turner at Nowadays
 
-SanDia: Season Finale with Bendito, Donis, Jeremy Giros, Yvonne Turner at Nowadays on Sat 24 Oct, Newyorkcity. 3 acts on the bill: Bendito, Donis and Jeremy Giros. House and Afro House. Preview the line-up and save it on soundcheck.
+SanDia: Season Finale with Bendito, Donis, Jeremy Giros, Yvonne Turner at Nowadays on Sat 24 Oct, New York City. 3 artists on the bill: Bendito, Donis and Jeremy Giros. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

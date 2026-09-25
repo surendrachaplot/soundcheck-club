@@ -1,6 +1,6 @@
 # Oriental Techno Garden - 東極玄音花園: KINTEL, ZHAZHA WANG, Shū at Tempio del Futuro Perduto
 
-Oriental Techno Garden - 東極玄音花園: KINTEL, ZHAZHA WANG, Shū at Tempio del Futuro Perduto on Fri 25 Sept, Milan. 3 acts on the bill: KINTEL, SHŪ (1) and ZHAZHA WANG. Preview the line-up and save it on soundcheck.
+Oriental Techno Garden - 東極玄音花園: KINTEL, ZHAZHA WANG, Shū at Tempio del Futuro Perduto on Fri 25 Sept, Milan. 3 artists on the bill: KINTEL, SHŪ and ZHAZHA WANG. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Moods at Noxe (26th floor W Barcelona) at Noxe Barcelona
 
-Moods at Noxe (26th floor W Barcelona) at Noxe Barcelona on Tue 6 Oct, Barcelona. 2 acts on the bill: Sarah Andersson and Vikki. House. Preview the line-up and save it on soundcheck.
+Moods at Noxe (26th floor W Barcelona) at Noxe Barcelona on Tue 6 Oct, Barcelona. 2 artists on the bill: Sarah Andersson and Vikki. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

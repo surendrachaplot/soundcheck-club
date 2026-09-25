@@ -1,6 +1,6 @@
 # DJ Ray & EZ Dee at Mad Radio Miami
 
-DJ Ray & EZ Dee at Mad Radio Miami on Sat 26 Sept, Miami. 2 acts on the bill: DJ Ray and EZ Dee. House. Preview the line-up and save it on soundcheck.
+DJ Ray & EZ Dee at Mad Radio Miami on Sat 26 Sept, Miami. 2 artists on the bill: DJ Ray and EZ Dee. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

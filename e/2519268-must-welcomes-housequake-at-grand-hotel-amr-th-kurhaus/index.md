@@ -1,6 +1,6 @@
 # MUST welcomes Housequake at Grand Hotel Amrâth Kurhaus
 
-MUST welcomes Housequake at Grand Hotel Amrâth Kurhaus on Sat 31 Oct, Thehague. 4 acts on the bill: Capron, Erick E, Housequake and ROOG. House and Tech House. Preview the line-up and save it on soundcheck.
+MUST welcomes Housequake at Grand Hotel Amrâth Kurhaus on Sat 31 Oct, The Hague. 4 artists on the bill: Capron, Erick E, Housequake and ROOG. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

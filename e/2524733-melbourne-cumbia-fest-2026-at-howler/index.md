@@ -1,6 +1,6 @@
 # MELBOURNE CUMBIA FEST 2026 at Howler
 
-MELBOURNE CUMBIA FEST 2026 at Howler on Sun 4 Oct, Melbourne. 3 acts on the bill: Cuerpo Negro, Otorongo and Zafiro. Afrobeats and Electronica. Preview the line-up and save it on soundcheck.
+MELBOURNE CUMBIA FEST 2026 at Howler on Sun 4 Oct, Melbourne. 3 artists on the bill: Cuerpo Negro, Otorongo and Zafiro. Afrobeats and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

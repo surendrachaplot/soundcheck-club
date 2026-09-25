@@ -1,6 +1,6 @@
 # MVSON Showcase w. Special Guests at 99 Scott Ave
 
-MVSON Showcase w. Special Guests at 99 Scott Ave on Sat 12 Dec, Newyorkcity. House. Preview the line-up and save it on soundcheck.
+MVSON Showcase w. Special Guests at 99 Scott Ave on Sat 12 Dec, New York City. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

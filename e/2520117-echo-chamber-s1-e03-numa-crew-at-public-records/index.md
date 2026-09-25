@@ -1,6 +1,6 @@
 # Echo Chamber S1.E03: Numa Crew at public records
 
-Echo Chamber S1.E03: Numa Crew at public records on Thu 24 Sept, Newyorkcity. Bass and Dub. Preview the line-up and save it on soundcheck.
+Echo Chamber S1.E03: Numa Crew at public records on Thu 24 Sept, New York City. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

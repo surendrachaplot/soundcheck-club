@@ -1,6 +1,6 @@
 # Lampé / SCHAARUP / OnsBerg / Rønhöff & Louin / CøkiT at Culture Box
 
-Lampé / SCHAARUP / OnsBerg / Rønhöff & Louin / CøkiT at Culture Box on Sat 7 Nov, Copenhagen. 4 acts on the bill: CøkiT, Lampé, OnsBerg and SCHAARUP. Techno and House. Preview the line-up and save it on soundcheck.
+Lampé / SCHAARUP / OnsBerg / Rønhöff & Louin / CøkiT at Culture Box on Sat 7 Nov, Copenhagen. 4 artists on the bill: CøkiT, Lampé, OnsBerg and SCHAARUP. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

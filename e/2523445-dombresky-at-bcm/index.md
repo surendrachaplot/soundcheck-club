@@ -1,6 +1,6 @@
 # Dombresky at BCM
 
-Dombresky at BCM on Sat 26 Sept, Mallorca. 1 act on the bill: Dombresky. Tech House. Preview the line-up and save it on soundcheck.
+Dombresky at BCM on Sat 26 Sept, Mallorca. 1 artist on the bill: Dombresky. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

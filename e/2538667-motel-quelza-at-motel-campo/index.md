@@ -1,6 +1,6 @@
 # Motel ✰ Quelza at Motel Campo
 
-Motel ✰ Quelza at Motel Campo on Sat 5 Dec, Geneva. 2 acts on the bill: Audrey Danza and Quelza. Techno and Acid. Preview the line-up and save it on soundcheck.
+Motel ✰ Quelza at Motel Campo on Sat 5 Dec, Geneva. 2 artists on the bill: Audrey Danza and Quelza. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

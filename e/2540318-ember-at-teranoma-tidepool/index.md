@@ -1,6 +1,6 @@
 # EMBER at Teranoma Tidepool
 
-EMBER at Teranoma Tidepool on Fri 9 Oct, Osaka. 1 act on the bill: Ayato. Deep House and Experimental. Preview the line-up and save it on soundcheck.
+EMBER at Teranoma Tidepool on Fri 9 Oct, Osaka. 1 artist on the bill: Ayato. Deep House and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

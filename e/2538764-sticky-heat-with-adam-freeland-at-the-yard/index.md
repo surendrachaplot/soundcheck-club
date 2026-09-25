@@ -1,6 +1,6 @@
 # Sticky Heat with Adam Freeland at The Yard
 
-Sticky Heat with Adam Freeland at The Yard on Sat 28 Nov, Manchester. 3 acts on the bill: Adam Freeland, Chris Massey and Muddy Feet. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
+Sticky Heat with Adam Freeland at The Yard on Sat 28 Nov, Manchester. 3 artists on the bill: Adam Freeland, Chris Massey and Muddy Feet. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

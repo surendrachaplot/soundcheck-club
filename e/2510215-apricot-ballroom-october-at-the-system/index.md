@@ -1,6 +1,6 @@
 # Apricot Ballroom (October) at The System
 
-Apricot Ballroom (October) at The System on Sat 3 Oct, Sheffield. 2 acts on the bill: Joi La Frique and Nonna Fab. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Apricot Ballroom (October) at The System on Sat 3 Oct, Sheffield. 2 artists on the bill: Joi La Frique and Nonna Fab. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

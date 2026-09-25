@@ -1,6 +1,6 @@
 # MELE at Halcyon
 
-MELE at Halcyon on Fri 9 Oct, Sanfrancisco. 1 act on the bill: Melé. Preview the line-up and save it on soundcheck.
+MELE at Halcyon on Fri 9 Oct, San Francisco/Oakland. 1 artist on the bill: Melé. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

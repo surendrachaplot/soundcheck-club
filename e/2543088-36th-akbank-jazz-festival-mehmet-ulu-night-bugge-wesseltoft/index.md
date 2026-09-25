@@ -1,6 +1,6 @@
 # 36th Akbank Jazz Festival: Mehmet Uluğ Night - Bugge Wesseltoft ft Gülşah Erol at Frankhan Selectist
 
-36th Akbank Jazz Festival: Mehmet Uluğ Night - Bugge Wesseltoft ft Gülşah Erol at Frankhan Selectist on Fri 2 Oct, Istanbul. 1 act on the bill: Bugge Wesseltoft. Preview the line-up and save it on soundcheck.
+36th Akbank Jazz Festival: Mehmet Uluğ Night - Bugge Wesseltoft ft Gülşah Erol at Frankhan Selectist on Fri 2 Oct, Istanbul. 1 artist on the bill: Bugge Wesseltoft. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

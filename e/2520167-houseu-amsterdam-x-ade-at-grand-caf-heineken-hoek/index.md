@@ -1,6 +1,6 @@
 # HouseU Amsterdam x ADE at Grand Café Heineken Hoek
 
-HouseU Amsterdam x ADE at Grand Café Heineken Hoek on Fri 23 Oct, Amsterdam. 3 acts on the bill: Angelo Ferreri, Mattei & Omich and ROOG. House and Club. Preview the line-up and save it on soundcheck.
+HouseU Amsterdam x ADE at Grand Café Heineken Hoek on Fri 23 Oct, Amsterdam. 3 artists on the bill: Angelo Ferreri, Mattei & Omich and ROOG. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

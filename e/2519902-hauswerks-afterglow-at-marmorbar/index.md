@@ -1,6 +1,6 @@
 # Hauswerks: Afterglow at Marmorbar
 
-Hauswerks: Afterglow at Marmorbar on Fri 16 Oct, Berlin. 5 acts on the bill: DJ Westfa, justcallmesergio, Loves_kills and Rina Katen and 1 more. House. Preview the line-up and save it on soundcheck.
+Hauswerks: Afterglow at Marmorbar on Fri 16 Oct, Berlin. 5 artists on the bill: DJ Westfa, justcallmesergio, Loves_kills and Rina Katen and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

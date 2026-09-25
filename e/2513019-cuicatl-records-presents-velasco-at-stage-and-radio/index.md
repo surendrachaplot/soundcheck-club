@@ -1,6 +1,6 @@
 # Cuicatl Records presents Velasco at Stage and Radio
 
-Cuicatl Records presents Velasco at Stage and Radio on Fri 23 Oct, Manchester. 2 acts on the bill: Desay and Velasco. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Cuicatl Records presents Velasco at Stage and Radio on Fri 23 Oct, Manchester. 2 artists on the bill: Desay and Velasco. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

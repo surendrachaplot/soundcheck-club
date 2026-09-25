@@ -1,6 +1,6 @@
 # Halloween Special at 75 Pelham
 
-Halloween Special at 75 Pelham on Fri 30 Oct, Toronto. 5 acts on the bill: Iglesias, Kiinjo, Nathan Barato and Pepe Calles and 1 more. House. Preview the line-up and save it on soundcheck.
+Halloween Special at 75 Pelham on Fri 30 Oct, Toronto. 5 artists on the bill: Iglesias, Kiinjo, Nathan Barato and Pepe Calles and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

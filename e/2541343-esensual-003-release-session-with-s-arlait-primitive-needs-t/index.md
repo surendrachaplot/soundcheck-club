@@ -1,6 +1,6 @@
 # esensual 003 / release session with Séarlait, Primitive Needs & Toni Yotzi at TBA - Rooftop Bar, Level 7, Curtain House
 
-esensual 003 / release session with Séarlait, Primitive Needs & Toni Yotzi at TBA - Rooftop Bar, Level 7, Curtain House on Wed 18 Nov, Melbourne. 3 acts on the bill: Primitive Needs, Séarlait and Toni Yotzi. Tech House. Preview the line-up and save it on soundcheck.
+esensual 003 / release session with Séarlait, Primitive Needs & Toni Yotzi at TBA - Rooftop Bar, Level 7, Curtain House on Wed 18 Nov, Melbourne. 3 artists on the bill: Primitive Needs, Séarlait and Toni Yotzi. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

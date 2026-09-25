@@ -1,6 +1,6 @@
 # Road To The 90'S: Aldonna, Known Artist, Pentagon & More at La Rotonde Stalingrad
 
-Road To The 90'S: Aldonna, Known Artist, Pentagon & More at La Rotonde Stalingrad on Sat 3 Oct, Paris. 6 acts on the bill: Aï Smash, Aldonna, Black Truffle and Donna Gibson and 2 more. House and Electro. Preview the line-up and save it on soundcheck.
+Road To The 90'S: Aldonna, Known Artist, Pentagon & More at La Rotonde Stalingrad on Sat 3 Oct, Paris. 6 artists on the bill: Aï Smash, Aldonna, Black Truffle and Donna Gibson and 2 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

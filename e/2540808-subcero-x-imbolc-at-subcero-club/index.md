@@ -1,6 +1,6 @@
 # SUBCERO x IMBOLC at Subcero Club
 
-SUBCERO x IMBOLC at Subcero Club on Sat 10 Oct, Madrid. 1 act on the bill: Fonso Alegría. Electronica. Preview the line-up and save it on soundcheck.
+SUBCERO x IMBOLC at Subcero Club on Sat 10 Oct, Madrid. 1 artist on the bill: Fonso Alegría. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FCKNG SERIOUS DAY & NIGHT RAVE at Fridas Pier
 
-FCKNG SERIOUS DAY & NIGHT RAVE at Fridas Pier on Fri 25 Sept, Stuttgart. 8 acts on the bill: Ann Clue, Deniz Bul, Fab Massimo and Ginger and 4 more. Techno. Preview the line-up and save it on soundcheck.
+FCKNG SERIOUS DAY & NIGHT RAVE at Fridas Pier on Fri 25 Sept, Stuttgart. 8 artists on the bill: Ann Clue, Deniz Bul, Fab Massimo and Ginger and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

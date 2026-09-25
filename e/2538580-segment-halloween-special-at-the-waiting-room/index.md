@@ -1,6 +1,6 @@
 # Segment {Halloween Special} at The Waiting Room
 
-Segment {Halloween Special} at The Waiting Room on Fri 30 Oct, London. 1 act on the bill: Shiela.. House and Minimal. Preview the line-up and save it on soundcheck.
+Segment {Halloween Special} at The Waiting Room on Fri 30 Oct, London. 1 artist on the bill: Shiela.. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

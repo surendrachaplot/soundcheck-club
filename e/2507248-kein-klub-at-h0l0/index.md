@@ -1,6 +1,6 @@
 # KEIN KLUB at H0L0
 
-KEIN KLUB at H0L0 on Fri 6 Nov, Newyorkcity. 1 act on the bill: Martyn. Preview the line-up and save it on soundcheck.
+KEIN KLUB at H0L0 on Fri 6 Nov, New York City. 1 artist on the bill: Martyn. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

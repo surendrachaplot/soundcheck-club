@@ -1,6 +1,6 @@
 # This is Techno Jazz with Fabrizio Rat, Resonances, Do You Know Juno, Mattia Prete, Misloop at Kantine am Berghain
 
-This is Techno Jazz with Fabrizio Rat, Resonances, Do You Know Juno, Mattia Prete, Misloop at Kantine am Berghain on Sat 10 Oct, Berlin. 5 acts on the bill: Do you know Juno, Fabrizio Rat - La Machina, Mattia Prete and Misloop and 1 more. Techno and Jazz. Preview the line-up and save it on soundcheck.
+This is Techno Jazz with Fabrizio Rat, Resonances, Do You Know Juno, Mattia Prete, Misloop at Kantine am Berghain on Sat 10 Oct, Berlin. 5 artists on the bill: Do you know Juno, Fabrizio Rat - La Machina, Mattia Prete and Misloop and 1 more. Techno and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

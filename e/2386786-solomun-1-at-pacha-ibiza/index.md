@@ -1,6 +1,6 @@
 # Solomun+1 at Pacha Ibiza
 
-Solomun+1 at Pacha Ibiza on Sun 27 Sept, Ibiza. 2 acts on the bill: Âme and Solomun. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Solomun+1 at Pacha Ibiza on Sun 27 Sept, Ibiza. 2 artists on the bill: Âme and Solomun. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

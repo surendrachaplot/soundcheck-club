@@ -1,6 +1,6 @@
 # Music Reactions x Teletech: London at E1
 
-Music Reactions x Teletech: London at E1 on Fri 13 Nov, London. 6 acts on the bill: ACOR, Aiden (DE), Kander and Tara Erizo and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Music Reactions x Teletech: London at E1 on Fri 13 Nov, London. 6 artists on the bill: ACOR, Aiden (DE), Kander and Tara Erizo and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

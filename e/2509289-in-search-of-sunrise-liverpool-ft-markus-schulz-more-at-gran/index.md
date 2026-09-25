@@ -1,6 +1,6 @@
 # In Search Of Sunrise | Liverpool ft. Markus Schulz & more at Grand Central Hall
 
-In Search Of Sunrise | Liverpool ft. Markus Schulz & more at Grand Central Hall on Sat 7 Nov, Liverpool. 3 acts on the bill: Andy Moor, Markus Schulz and Super8 & Tab. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+In Search Of Sunrise | Liverpool ft. Markus Schulz & more at Grand Central Hall on Sat 7 Nov, Liverpool. 3 artists on the bill: Andy Moor, Markus Schulz and Super8 & Tab. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

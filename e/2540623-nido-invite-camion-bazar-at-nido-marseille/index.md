@@ -1,6 +1,6 @@
 # Nido invite: Camion Bazar at Nido Marseille
 
-Nido invite: Camion Bazar at Nido Marseille on Fri 16 Oct, Marseille. 1 act on the bill: Camion Bazar. Preview the line-up and save it on soundcheck.
+Nido invite: Camion Bazar at Nido Marseille on Fri 16 Oct, Marseille. 1 artist on the bill: Camion Bazar. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

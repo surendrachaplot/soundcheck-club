@@ -1,6 +1,6 @@
 # Korolova pres. Captive Soul at FCN by Hïst Entertainment at Foro Costanera Norte (FCN)
 
-Korolova pres. Captive Soul at FCN by Hïst Entertainment at Foro Costanera Norte (FCN) on Sun 6 Dec, Buenosaires. 1 act on the bill: Korolova. Preview the line-up and save it on soundcheck.
+Korolova pres. Captive Soul at FCN by Hïst Entertainment at Foro Costanera Norte (FCN) on Sun 6 Dec, Buenos Aires. 1 artist on the bill: Korolova. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

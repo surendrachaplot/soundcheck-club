@@ -1,6 +1,6 @@
 # JANUS VI: Rubber - Techno - Connection at The Cause
 
-JANUS VI: Rubber - Techno - Connection at The Cause on Fri 6 Nov, London. 3 acts on the bill: Command Control, GAY RAGE and Rubberax. Techno. Preview the line-up and save it on soundcheck.
+JANUS VI: Rubber - Techno - Connection at The Cause on Fri 6 Nov, London. 3 artists on the bill: Command Control, GAY RAGE and Rubberax. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

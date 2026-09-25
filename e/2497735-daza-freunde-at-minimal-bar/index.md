@@ -1,6 +1,6 @@
 # DAZA & freunde at Minimal Bar
 
-DAZA & freunde at Minimal Bar on Fri 23 Oct, Berlin. 1 act on the bill: DAZA. Preview the line-up and save it on soundcheck.
+DAZA & freunde at Minimal Bar on Fri 23 Oct, Berlin. 1 artist on the bill: DAZA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

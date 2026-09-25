@@ -1,6 +1,6 @@
 # Party! Party! Halloween Boat Party followed by the Zombie Mansion at Crown Pier
 
-Party! Party! Halloween Boat Party followed by the Zombie Mansion at Crown Pier on Thu 29 Oct, London. 6 acts on the bill: Max E Groove, Mr Fresh Official, NYCity Soundz and Romeo and 2 more. House and Club. Preview the line-up and save it on soundcheck.
+Party! Party! Halloween Boat Party followed by the Zombie Mansion at Crown Pier on Thu 29 Oct, London. 6 artists on the bill: Max E Groove, Mr Fresh Official, NYCity Soundz and Romeo and 2 more. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

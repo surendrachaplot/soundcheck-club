@@ -1,6 +1,6 @@
 # move my way festival / naarm / pica at Pica (Port Melbourne Industrial Centre for the Arts)
 
-move my way festival / naarm / pica at Pica (Port Melbourne Industrial Centre for the Arts) on Sun 4 Oct, Melbourne. 9 acts on the bill: Coco Maria, Ezra Collective, Jamz Supernova and Kokoroko and 5 more. Preview the line-up and save it on soundcheck.
+move my way festival / naarm / pica at Pica (Port Melbourne Industrial Centre for the Arts) on Sun 4 Oct, Melbourne. 9 artists on the bill: Coco Maria, Ezra Collective, Jamz Supernova and Kokoroko and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

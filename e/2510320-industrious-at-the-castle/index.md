@@ -1,6 +1,6 @@
 # INDUSTRIOUS at The Castle
 
-INDUSTRIOUS at The Castle on Sat 26 Sept, London. 3 acts on the bill: AC Industries, Lapworth and LOWCO. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
+INDUSTRIOUS at The Castle on Sat 26 Sept, London. 3 artists on the bill: AC Industries, Lapworth and LOWCO. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

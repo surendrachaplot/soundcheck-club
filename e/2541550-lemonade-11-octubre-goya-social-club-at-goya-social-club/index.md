@@ -1,6 +1,6 @@
 # Lemonade — 11 OCTUBRE — Goya Social Club at Goya Social Club
 
-Lemonade — 11 OCTUBRE — Goya Social Club on Sun 11 Oct, Madrid. 3 acts on the bill: FIRZA, Taranco and Trembow. House and Tech House. Preview the line-up and save it on soundcheck.
+Lemonade — 11 OCTUBRE — Goya Social Club on Sun 11 Oct, Madrid. 3 artists on the bill: FIRZA, Taranco and Trembow. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

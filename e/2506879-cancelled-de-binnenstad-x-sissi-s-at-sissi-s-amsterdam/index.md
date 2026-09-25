@@ -1,6 +1,6 @@
 # [CANCELLED] De Binnenstad x Sissi's at SISSI'S Amsterdam
 
-[CANCELLED] De Binnenstad x Sissi's at SISSI'S Amsterdam on Fri 25 Sept, Amsterdam. 4 acts on the bill: Easttown, Gyatso, Rumi Jill and Spacer Woman. Trance and House. Preview the line-up and save it on soundcheck.
+[CANCELLED] De Binnenstad x Sissi's at SISSI'S Amsterdam on Fri 25 Sept, Amsterdam. 4 artists on the bill: Easttown, Gyatso, Rumi Jill and Spacer Woman. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

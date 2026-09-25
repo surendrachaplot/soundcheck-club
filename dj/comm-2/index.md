@@ -2,7 +2,7 @@
 
 comm is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Saloon, Tokyo on Fri, 2 Oct 2026.
 
-comm is a techno and bass artist based in Japan, tracked on soundcheck, with 49 sets logged across Barcelona, Hongkong, Madrid and Osaka and 1 more. Often billed alongside Herbalistek, LØST and AMG SAIMURA (TECHVANE). Next up: Saloon, Tokyo on Fri 2 Oct.
+comm is a techno and bass artist based in Japan, tracked on soundcheck, with 49 sets logged across Barcelona, Hong Kong, Madrid and Osaka and 1 more. Often billed alongside Herbalistek, LØST and AMG SAIMURA (TECHVANE). Next up: Saloon, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 

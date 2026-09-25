@@ -1,6 +1,6 @@
 # Night Tales: VHOOR & Jordss at Night Tales
 
-Night Tales: VHOOR & Jordss on Fri 20 Nov, London. 2 acts on the bill: Jordss and VHOOR. Baile Funk. Preview the line-up and save it on soundcheck.
+Night Tales: VHOOR & Jordss on Fri 20 Nov, London. 2 artists on the bill: Jordss and VHOOR. Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

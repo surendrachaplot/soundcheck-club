@@ -1,6 +1,6 @@
 # UNDERGROUND SOUND: London at Cu
 
-UNDERGROUND SOUND: London at Cu on Fri 25 Sept, London. 3 acts on the bill: Cardinal Sin, Josh Wuf and PHJ.WAV. Deep House and Disco. Preview the line-up and save it on soundcheck.
+UNDERGROUND SOUND: London at Cu on Fri 25 Sept, London. 3 artists on the bill: Cardinal Sin, Josh Wuf and PHJ.WAV. Deep House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

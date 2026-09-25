@@ -1,6 +1,6 @@
 # BRIDGE presents Megra at Grain Haus
 
-BRIDGE presents Megra at Grain Haus on Sat 3 Oct, Seoul. 1 act on the bill: Megra. Techno and Electronica. Preview the line-up and save it on soundcheck.
+BRIDGE presents Megra at Grain Haus on Sat 3 Oct, Seoul. 1 artist on the bill: Megra. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

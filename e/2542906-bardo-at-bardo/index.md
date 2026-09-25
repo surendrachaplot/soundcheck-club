@@ -1,6 +1,6 @@
 # BARDO at BARDO
 
-BARDO on Sat 26 Sept, Milan. 1 act on the bill: Jacopo Latini. Techno and Electronica. Preview the line-up and save it on soundcheck.
+BARDO on Sat 26 Sept, Milan. 1 artist on the bill: Jacopo Latini. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

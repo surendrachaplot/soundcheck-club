@@ -1,6 +1,6 @@
 # Luciano ALIVE concert X Loveland - ADE 2026 at Mediahaven - Minervahaven
 
-Luciano ALIVE concert X Loveland - ADE 2026 at Mediahaven - Minervahaven on Thu 22 Oct, Amsterdam. 1 act on the bill: Luciano. Techno and House. Preview the line-up and save it on soundcheck.
+Luciano ALIVE concert X Loveland - ADE 2026 at Mediahaven - Minervahaven on Thu 22 Oct, Amsterdam. 1 artist on the bill: Luciano. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

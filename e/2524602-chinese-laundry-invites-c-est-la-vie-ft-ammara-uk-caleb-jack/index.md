@@ -1,6 +1,6 @@
 # Chinese Laundry Invites C'EST LA VIE FT. AMMARA [UK]  Caleb Jackson  PARTIGIRL at Chinese Laundry
 
-Chinese Laundry Invites C'EST LA VIE FT. AMMARA [UK]  Caleb Jackson  PARTIGIRL on Fri 25 Sept, Sydney. 5 acts on the bill: AMMARA, Caleb Jackson, Fashionably Late and PARTIGIRL and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Chinese Laundry Invites C'EST LA VIE FT. AMMARA [UK]  Caleb Jackson  PARTIGIRL on Fri 25 Sept, Sydney. 5 artists on the bill: AMMARA, Caleb Jackson, Fashionably Late and PARTIGIRL and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

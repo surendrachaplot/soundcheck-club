@@ -1,6 +1,6 @@
 # Hands On Your Hips at Detour Los Angeles
 
-Hands On Your Hips at Detour Los Angeles on Sat 3 Oct, Losangeles. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+Hands On Your Hips at Detour Los Angeles on Sat 3 Oct, Los Angeles. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

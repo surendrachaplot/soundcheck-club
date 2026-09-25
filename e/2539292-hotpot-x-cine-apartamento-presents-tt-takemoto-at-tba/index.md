@@ -1,6 +1,6 @@
 # HOTPOT x Cine Apartamento presents TT TAKEMOTO at TBA
 
-HOTPOT x Cine Apartamento presents TT TAKEMOTO at TBA on Thu 24 Sept, London. 2 acts on the bill: darklip.radio and DIME. Bass and Club. Preview the line-up and save it on soundcheck.
+HOTPOT x Cine Apartamento presents TT TAKEMOTO at TBA on Thu 24 Sept, London. 2 artists on the bill: darklip.radio and DIME. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

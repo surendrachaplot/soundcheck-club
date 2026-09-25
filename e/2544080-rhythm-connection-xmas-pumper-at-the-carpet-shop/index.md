@@ -1,6 +1,6 @@
 # Rhythm Connection Xmas Pumper at The Carpet Shop
 
-Rhythm Connection Xmas Pumper at The Carpet Shop on Sat 19 Dec, London. 2 acts on the bill: Dan Beaumont and Nadia Ksaiba. Preview the line-up and save it on soundcheck.
+Rhythm Connection Xmas Pumper at The Carpet Shop on Sat 19 Dec, London. 2 artists on the bill: Dan Beaumont and Nadia Ksaiba. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

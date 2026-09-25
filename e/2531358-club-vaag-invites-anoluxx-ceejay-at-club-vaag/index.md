@@ -1,6 +1,6 @@
 # Club Vaag invites ANOLUXX & CeeJay at Club Vaag
 
-Club Vaag invites ANOLUXX & CeeJay on Sat 26 Sept, Antwerp. 1 act on the bill: CeeJay. Preview the line-up and save it on soundcheck.
+Club Vaag invites ANOLUXX & CeeJay on Sat 26 Sept, Antwerp. 1 artist on the bill: CeeJay. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

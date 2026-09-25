@@ -1,6 +1,6 @@
 # Slagwerk: Bobby Beethoven / Emma DJ b2b Suutoo / Hekt / amil raja / PALA10 at Hexagon Brussels
 
-Slagwerk: Bobby Beethoven / Emma DJ b2b Suutoo / Hekt / amil raja / PALA10 at Hexagon Brussels on Fri 16 Oct, Brussels. 6 acts on the bill: amil raja, Emma DJ, Hekt and PALA10 and 2 more. Preview the line-up and save it on soundcheck.
+Slagwerk: Bobby Beethoven / Emma DJ b2b Suutoo / Hekt / amil raja / PALA10 at Hexagon Brussels on Fri 16 Oct, Brussels. 6 artists on the bill: amil raja, Emma DJ, Hekt and PALA10 and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

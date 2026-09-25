@@ -1,6 +1,6 @@
 # BENT - SUN:SET at The DBA
 
-BENT - SUN:SET at The DBA on Sun 27 Sept, Manchester. 3 acts on the bill: Esmé, Tony Neptune and WeeDot. Breakbeat and House. Preview the line-up and save it on soundcheck.
+BENT - SUN:SET at The DBA on Sun 27 Sept, Manchester. 3 artists on the bill: Esmé, Tony Neptune and WeeDot. Breakbeat and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

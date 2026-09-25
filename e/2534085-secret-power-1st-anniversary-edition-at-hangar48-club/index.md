@@ -1,6 +1,6 @@
 # SECRET POWER — 1ST ANNIVERSARY EDITION at Hangar48 Club
 
-SECRET POWER — 1ST ANNIVERSARY EDITION at Hangar48 Club on Fri 16 Oct, Madrid. 4 acts on the bill: Fellino, Freska, JvggedDoggie and Velascore. Techno and Acid. Preview the line-up and save it on soundcheck.
+SECRET POWER — 1ST ANNIVERSARY EDITION at Hangar48 Club on Fri 16 Oct, Madrid. 4 artists on the bill: Fellino, Freska, JvggedDoggie and Velascore. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

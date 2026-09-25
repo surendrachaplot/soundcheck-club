@@ -2,7 +2,7 @@
 
 Chinonegro is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club Space Miami, Miami on Fri, 25 Sept 2026.
 
-Chinonegro is a tech house and house artist based in Peru, tracked on soundcheck, with 29 sets logged across Amsterdam, Austin, Barcelona and Buenosaires and 11 more. Often billed alongside BLOND:ISH, Luuk van Dijk and Sidney Charles. Next up: Club Space Miami, Miami on Fri 25 Sept.
+Chinonegro is a tech house and house artist based in Peru, tracked on soundcheck, with 29 sets logged across Amsterdam, Austin, Barcelona and Buenos Aires and 11 more. Often billed alongside BLOND:ISH, Luuk van Dijk and Sidney Charles. Next up: Club Space Miami, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 

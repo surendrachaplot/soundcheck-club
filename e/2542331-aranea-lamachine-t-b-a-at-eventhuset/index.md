@@ -1,6 +1,6 @@
 # ARANEA  >> LAMACHINE >> T.B.A at Eventhuset
 
-ARANEA  >> LAMACHINE >> T.B.A at Eventhuset on Sat 28 Nov, Stockholm. 2 acts on the bill: ARANEA and LAMACHINE. Techno and Industrial. Preview the line-up and save it on soundcheck.
+ARANEA  >> LAMACHINE >> T.B.A at Eventhuset on Sat 28 Nov, Stockholm. 2 artists on the bill: ARANEA and LAMACHINE. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

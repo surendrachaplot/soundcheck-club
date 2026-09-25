@@ -1,6 +1,6 @@
 # DJ Fuckoff / Gerardo Niva / doccudder at Mondo
 
-DJ Fuckoff / Gerardo Niva / doccudder at Mondo on Thu 1 Oct, Madrid. 3 acts on the bill: DJ Fuckoff, doccudder and Gerardo Niva. Preview the line-up and save it on soundcheck.
+DJ Fuckoff / Gerardo Niva / doccudder at Mondo on Thu 1 Oct, Madrid. 3 artists on the bill: DJ Fuckoff, doccudder and Gerardo Niva. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

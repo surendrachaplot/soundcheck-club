@@ -1,6 +1,6 @@
 # 23:59: Protokseed, LING LING B2B ENKO, ACIDPACH & MORE at Mia Mao
 
-23:59: Protokseed, LING LING B2B ENKO, ACIDPACH & MORE at Mia Mao on Fri 13 Nov, Paris. 2 acts on the bill: Protokseed and Rōse (CH). Hardcore and Acid. Preview the line-up and save it on soundcheck.
+23:59: Protokseed, LING LING B2B ENKO, ACIDPACH & MORE at Mia Mao on Fri 13 Nov, Paris. 2 artists on the bill: Protokseed and Rōse (CH). Hardcore and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

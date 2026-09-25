@@ -1,6 +1,6 @@
 # Dialed In with Darryn Jones, Zernell & Rich A.B at TBA
 
-Dialed In with Darryn Jones, Zernell & Rich A.B at TBA on Sat 24 Oct, Losangeles. 4 acts on the bill: bilaliwood, Darryn Jones, SEEPS and Zernell. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Dialed In with Darryn Jones, Zernell & Rich A.B at TBA on Sat 24 Oct, Los Angeles. 4 artists on the bill: bilaliwood, Darryn Jones, SEEPS and Zernell. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

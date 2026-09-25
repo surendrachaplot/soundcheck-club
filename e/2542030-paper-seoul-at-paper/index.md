@@ -1,6 +1,6 @@
 # Paper Seoul at Paper
 
-Paper Seoul on Sun 27 Sept, Seoul. 2 acts on the bill: Jucid and Kimgundi. House. Preview the line-up and save it on soundcheck.
+Paper Seoul on Sun 27 Sept, Seoul. 2 artists on the bill: Jucid and Kimgundi. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

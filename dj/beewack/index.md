@@ -2,7 +2,7 @@
 
 beewack is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 24 Oct 2026.
 
-beewack is a house and disco artist based in United States of America, tracked on soundcheck, with 112 sets logged across Athens, Berlin, Detroit and Lisbon and 9 more. Often billed alongside Planet B, Benjamin Roeder and Honey Bun. Next up: Dead Letter No. 9, Newyorkcity on Sat 24 Oct.
+beewack is a house and disco artist based in United States of America, tracked on soundcheck, with 112 sets logged across Athens, Berlin, Detroit and Lisbon and 9 more. Often billed alongside Planet B, Benjamin Roeder and Honey Bun. Next up: Dead Letter No. 9, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 

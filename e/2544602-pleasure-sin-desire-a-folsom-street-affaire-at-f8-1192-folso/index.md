@@ -1,6 +1,6 @@
 # Pleasure.Sin.Desire - A Folsom Street Affaire at F8 1192 Folsom
 
-Pleasure.Sin.Desire - A Folsom Street Affaire at F8 1192 Folsom on Sun 27 Sept, Sanfrancisco. 1 act on the bill: DJ Parrot. House and Electronica. Preview the line-up and save it on soundcheck.
+Pleasure.Sin.Desire - A Folsom Street Affaire at F8 1192 Folsom on Sun 27 Sept, San Francisco/Oakland. 1 artist on the bill: DJ Parrot. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

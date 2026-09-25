@@ -1,6 +1,6 @@
 # TECHNO CORE AGENCY — OCTOBER 16TH at Curveball
 
-TECHNO CORE AGENCY — OCTOBER 16TH at Curveball on Fri 16 Oct, Dublin. 2 acts on the bill: DJ Dobrel and Fractious. Techno. Preview the line-up and save it on soundcheck.
+TECHNO CORE AGENCY — OCTOBER 16TH at Curveball on Fri 16 Oct, Dublin. 2 artists on the bill: DJ Dobrel and Fractious. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Neon_Amelia with Christian AB // Noizar at Circolo Amelia
 
-Neon_Amelia with Christian AB // Noizar at Circolo Amelia on Sat 10 Oct, Milan. 3 acts on the bill: Christian AB, Noizar and San Pedro. Trance and Techno. Preview the line-up and save it on soundcheck.
+Neon_Amelia with Christian AB // Noizar at Circolo Amelia on Sat 10 Oct, Milan. 3 artists on the bill: Christian AB, Noizar and San Pedro. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

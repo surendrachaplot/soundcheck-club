@@ -1,6 +1,6 @@
 # MM: MYKONOS MUSE at Międzymiastowa
 
-MM: MYKONOS MUSE at Międzymiastowa on Sat 26 Sept, Krakow. 1 act on the bill: Sincz. House. Preview the line-up and save it on soundcheck.
+MM: MYKONOS MUSE at Międzymiastowa on Sat 26 Sept, Krakow. 1 artist on the bill: Sincz. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Elation x SWAY - The Island SYDNEY at The Island
 
-Elation x SWAY - The Island SYDNEY on Sun 27 Sept, Sydney. 4 acts on the bill: Aidan Sweeney, Disco-Dave, GAVRIXX and SOHAIL. House and Tech House. Preview the line-up and save it on soundcheck.
+Elation x SWAY - The Island SYDNEY on Sun 27 Sept, Sydney. 4 artists on the bill: Aidan Sweeney, Disco-Dave, GAVRIXX and SOHAIL. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

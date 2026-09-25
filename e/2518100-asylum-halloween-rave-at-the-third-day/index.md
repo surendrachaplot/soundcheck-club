@@ -1,6 +1,6 @@
 # Asylum Halloween Rave at The Third Day
 
-Asylum Halloween Rave at The Third Day on Sat 31 Oct, Melbourne. 3 acts on the bill: Four To Eight, Korey Dobson and Papa Smurf. Trance and Techno. Preview the line-up and save it on soundcheck.
+Asylum Halloween Rave at The Third Day on Sat 31 Oct, Melbourne. 3 artists on the bill: Four To Eight, Korey Dobson and Papa Smurf. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

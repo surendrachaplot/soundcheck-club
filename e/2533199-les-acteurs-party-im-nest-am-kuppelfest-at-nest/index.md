@@ -1,6 +1,6 @@
 # Les Acteurs / Party im Nest am Kuppelfest at Nest
 
-Les Acteurs / Party im Nest am Kuppelfest on Fri 16 Oct, Basel. 1 act on the bill: Verhagen. Deep House and Electronica. Preview the line-up and save it on soundcheck.
+Les Acteurs / Party im Nest am Kuppelfest on Fri 16 Oct, Basel. 1 artist on the bill: Verhagen. Deep House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

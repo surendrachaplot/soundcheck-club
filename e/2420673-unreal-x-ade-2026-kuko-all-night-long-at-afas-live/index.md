@@ -1,6 +1,6 @@
 # UNREAL x ADE 2026: KUKO ALL NIGHT LONG at Afas Live
 
-UNREAL x ADE 2026: KUKO ALL NIGHT LONG at Afas Live on Fri 23 Oct, Amsterdam. 1 act on the bill: KUKO. Techno. Preview the line-up and save it on soundcheck.
+UNREAL x ADE 2026: KUKO ALL NIGHT LONG at Afas Live on Fri 23 Oct, Amsterdam. 1 artist on the bill: KUKO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Madmen XXTREME at The Steel Yard
 
-Madmen XXTREME at The Steel Yard on Sat 26 Sept, London. 1 act on the bill: Moussa. House. Preview the line-up and save it on soundcheck.
+Madmen XXTREME at The Steel Yard on Sat 26 Sept, London. 1 artist on the bill: Moussa. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

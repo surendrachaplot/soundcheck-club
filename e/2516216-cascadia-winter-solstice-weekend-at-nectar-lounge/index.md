@@ -1,6 +1,6 @@
 # CASCADIA WINTER SOLSTICE WEEKEND at Nectar Lounge
 
-CASCADIA WINTER SOLSTICE WEEKEND at Nectar Lounge on Thu 17 Dec, Seattle. 5 acts on the bill: ATYYA, Jamie Schwabl, Marques Wyatt and Michael Manahan and 1 more. House and Bass. Preview the line-up and save it on soundcheck.
+CASCADIA WINTER SOLSTICE WEEKEND at Nectar Lounge on Thu 17 Dec, Seattle. 5 artists on the bill: ATYYA, Jamie Schwabl, Marques Wyatt and Michael Manahan and 1 more. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

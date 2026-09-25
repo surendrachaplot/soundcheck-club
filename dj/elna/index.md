@@ -2,7 +2,7 @@
 
 ELNA is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Main Club, Milan on Sat, 3 Oct 2026.
 
-ELNA is a techno and psytrance artist tracked on soundcheck, with 16 sets logged across Denver, Milan and Paris. Often billed alongside RXSS (2), Rassel XTL and TUROTUNZ. Next up: Main Club, Milan on Sat 3 Oct.
+ELNA is a techno and psytrance artist tracked on soundcheck, with 16 sets logged across Denver, Milan and Paris. Often billed alongside RXSS, Rassel XTL and TUROTUNZ. Next up: Main Club, Milan on Sat 3 Oct.
 
 ## Upcoming shows
 

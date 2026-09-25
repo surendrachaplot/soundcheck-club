@@ -1,6 +1,6 @@
 # Null Name Anniversary at Doggy Klœb
 
-Null Name Anniversary at Doggy Klœb on Sat 3 Oct, Malaga. 7 acts on the bill: FLAKØ, GØNGOM, Nitrile Affair and Noctive and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Null Name Anniversary at Doggy Klœb on Sat 3 Oct, Malaga. 7 artists on the bill: FLAKØ, GØNGOM, Nitrile Affair and Noctive and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

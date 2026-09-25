@@ -1,6 +1,6 @@
 # Jeremy Olander at Do Not Sit On The Furniture
 
-Jeremy Olander at Do Not Sit On The Furniture on Sat 14 Nov, Miami. 2 acts on the bill: Jeremy Olander and Jessy Nimni. House and Deep House. Preview the line-up and save it on soundcheck.
+Jeremy Olander at Do Not Sit On The Furniture on Sat 14 Nov, Miami. 2 artists on the bill: Jeremy Olander and Jessy Nimni. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

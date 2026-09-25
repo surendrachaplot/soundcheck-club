@@ -1,6 +1,6 @@
 # After BYOB Fundraiser at DOCK 11
 
-After BYOB Fundraiser at DOCK 11 on Fri 25 Sept, Berlin. 2 acts on the bill: movan and Optical Collusion. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+After BYOB Fundraiser at DOCK 11 on Fri 25 Sept, Berlin. 2 artists on the bill: movan and Optical Collusion. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

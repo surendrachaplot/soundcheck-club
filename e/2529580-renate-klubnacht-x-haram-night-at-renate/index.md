@@ -1,6 +1,6 @@
 # Renate Klubnacht x Haram Night at Renate
 
-Renate Klubnacht x Haram Night on Fri 25 Sept, Berlin. 3 acts on the bill: Amowia, saHHar and SXCL. Preview the line-up and save it on soundcheck.
+Renate Klubnacht x Haram Night on Fri 25 Sept, Berlin. 3 artists on the bill: Amowia, saHHar and SXCL. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

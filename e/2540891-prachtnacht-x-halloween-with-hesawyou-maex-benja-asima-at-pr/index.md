@@ -1,6 +1,6 @@
 # PrachtNACHT X HALLOWEEN with heSAWyou, Maex, Benja Asima at Pracht
 
-PrachtNACHT X HALLOWEEN with heSAWyou, Maex, Benja Asima on Sat 31 Oct, Frankfurt. 3 acts on the bill: Benja Asima, heSAWyou and Maex. Progressive House and House. Preview the line-up and save it on soundcheck.
+PrachtNACHT X HALLOWEEN with heSAWyou, Maex, Benja Asima on Sat 31 Oct, Frankfurt. 3 artists on the bill: Benja Asima, heSAWyou and Maex. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

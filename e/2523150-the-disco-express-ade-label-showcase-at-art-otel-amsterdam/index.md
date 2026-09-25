@@ -1,6 +1,6 @@
 # The Disco Express: ADE Label Showcase at Art''otel Amsterdam
 
-The Disco Express: ADE Label Showcase at Art''otel Amsterdam on Fri 23 Oct, Amsterdam. 9 acts on the bill: Bustin' Loose, Crystal Touch, Dan Cluskey and Monsieur Van Pratt and 5 more. House and Disco. Preview the line-up and save it on soundcheck.
+The Disco Express: ADE Label Showcase at Art''otel Amsterdam on Fri 23 Oct, Amsterdam. 9 artists on the bill: Bustin' Loose, Crystal Touch, Dan Cluskey and Monsieur Van Pratt and 5 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

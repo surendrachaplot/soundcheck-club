@@ -1,6 +1,6 @@
 # TKVR presents: Flittie (Vinyl Set) at Massive
 
-TKVR presents: Flittie (Vinyl Set) at Massive on Thu 17 Dec, Seattle. 1 act on the bill: Bimbo Hypnosis. Techno and Club. Preview the line-up and save it on soundcheck.
+TKVR presents: Flittie (Vinyl Set) at Massive on Thu 17 Dec, Seattle. 1 artist on the bill: Bimbo Hypnosis. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

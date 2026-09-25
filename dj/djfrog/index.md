@@ -2,7 +2,7 @@
 
 DJ Frog is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bambi's, Toronto on Sat, 10 Oct 2026.
 
-DJ Frog is a techno and house artist based in Canada, tracked on soundcheck, with 45 sets logged across Brussels, London, Montreal and Newyorkcity and 3 more. Often billed alongside DJ Spence, PLO Man and Excalibur. Next up: Bambi's, Toronto on Sat 10 Oct.
+DJ Frog is a techno and house artist based in Canada, tracked on soundcheck, with 45 sets logged across Brussels, London, Montreal and New York City and 3 more. Often billed alongside DJ Spence, PLO Man and Excalibur. Next up: Bambi's, Toronto on Sat 10 Oct.
 
 ## Upcoming shows
 

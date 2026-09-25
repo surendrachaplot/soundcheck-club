@@ -1,6 +1,6 @@
 # Röyksopp at Lula Club
 
-Röyksopp at Lula Club on Fri 18 Dec, Madrid. 1 act on the bill: Royksopp. Preview the line-up and save it on soundcheck.
+Röyksopp at Lula Club on Fri 18 Dec, Madrid. 1 artist on the bill: Royksopp. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

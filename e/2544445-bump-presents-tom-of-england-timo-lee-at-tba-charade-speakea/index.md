@@ -1,6 +1,6 @@
 # BUMP presents Tom of England & Timo Lee at TBA - Charade Speakeasy
 
-BUMP presents Tom of England & Timo Lee at TBA - Charade Speakeasy on Sat 3 Oct, Sandiego. House and Disco. Preview the line-up and save it on soundcheck.
+BUMP presents Tom of England & Timo Lee at TBA - Charade Speakeasy on Sat 3 Oct, San Diego. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

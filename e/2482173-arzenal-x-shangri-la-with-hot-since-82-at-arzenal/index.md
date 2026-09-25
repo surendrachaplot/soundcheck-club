@@ -1,6 +1,6 @@
 # Arzenal X Shangri-La with Hot Since 82 at Arzenal
 
-Arzenal X Shangri-La with Hot Since 82 on Fri 4 Dec, Budapest. 1 act on the bill: Hot Since 82. Techno and House. Preview the line-up and save it on soundcheck.
+Arzenal X Shangri-La with Hot Since 82 on Fri 4 Dec, Budapest. 1 artist on the bill: Hot Since 82. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

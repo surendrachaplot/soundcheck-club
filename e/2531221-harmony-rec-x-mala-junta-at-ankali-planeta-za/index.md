@@ -1,6 +1,6 @@
 # Harmony Rec. x Mala Junta at Ankali & Planeta Za
 
-Harmony Rec. x Mala Junta at Ankali & Planeta Za on Fri 16 Oct, Prague. 12 acts on the bill: Alfred Czital, DJ TOOL, Fembot and Georgia Bird and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Harmony Rec. x Mala Junta at Ankali & Planeta Za on Fri 16 Oct, Prague. 12 artists on the bill: Alfred Czital, DJ TOOL, Fembot and Georgia Bird and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

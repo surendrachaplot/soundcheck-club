@@ -1,6 +1,6 @@
 # Because x REX: Bambii, Greg, Logic1000, Miley Serious, Busy P, Chloé, Tatyana Jane,Mad Rey at Radio Radio
 
-Because x REX: Bambii, Greg, Logic1000, Miley Serious, Busy P, Chloé, Tatyana Jane,Mad Rey at Radio Radio on Wed 21 Oct, Amsterdam. 8 acts on the bill: Bambii, Busy P, Chloé and Greg (2) and 4 more. Preview the line-up and save it on soundcheck.
+Because x REX: Bambii, Greg, Logic1000, Miley Serious, Busy P, Chloé, Tatyana Jane,Mad Rey at Radio Radio on Wed 21 Oct, Amsterdam. 8 artists on the bill: Bambii, Busy P, Chloé and Greg and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

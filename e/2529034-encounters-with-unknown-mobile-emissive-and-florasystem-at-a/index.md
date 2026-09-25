@@ -1,6 +1,6 @@
 # Encounters with Unknown Mobile, Emissive, and florasystem at Allan Gardens Conservatory
 
-Encounters with Unknown Mobile, Emissive, and florasystem at Allan Gardens Conservatory on Fri 25 Sept, Toronto. 3 acts on the bill: Emissive, florasystem and Unknown Mobile. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Encounters with Unknown Mobile, Emissive, and florasystem at Allan Gardens Conservatory on Fri 25 Sept, Toronto. 3 artists on the bill: Emissive, florasystem and Unknown Mobile. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

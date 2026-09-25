@@ -1,6 +1,6 @@
 # Love Ours at The Berkeley Suite
 
-Love Ours at The Berkeley Suite on Wed 7 Oct, Glasgow. 2 acts on the bill: 3-Lix and Loose E. House and Disco. Preview the line-up and save it on soundcheck.
+Love Ours at The Berkeley Suite on Wed 7 Oct, Glasgow. 2 artists on the bill: 3-Lix and Loose E. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Girls of the Internet (Live) at The Sound House
 
-Girls of the Internet (Live) at The Sound House on Thu 8 Oct, Dublin. 2 acts on the bill: Girls of the Internet and Shiv. Deep House and Disco. Preview the line-up and save it on soundcheck.
+Girls of the Internet (Live) at The Sound House on Thu 8 Oct, Dublin. 2 artists on the bill: Girls of the Internet and Shiv. Deep House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

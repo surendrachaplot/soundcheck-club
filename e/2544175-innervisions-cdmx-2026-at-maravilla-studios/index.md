@@ -1,6 +1,6 @@
 # INNERVISIONS CDMX 2026 at Maravilla Studios
 
-INNERVISIONS CDMX 2026 at Maravilla Studios on Sat 3 Oct, Mexicocity. 6 acts on the bill: Âme, Dixon, Jimi Jules and Julya Karma and 2 more. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+INNERVISIONS CDMX 2026 at Maravilla Studios on Sat 3 Oct, Mexico City. 6 artists on the bill: Âme, Dixon, Jimi Jules and Julya Karma and 2 more. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

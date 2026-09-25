@@ -1,6 +1,6 @@
 # Domingo de Bajón at Casa Luma
 
-Domingo de Bajón at Casa Luma on Sun 27 Sept, Mexicocity. Acid and Jungle. Preview the line-up and save it on soundcheck.
+Domingo de Bajón at Casa Luma on Sun 27 Sept, Mexico City. Acid and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

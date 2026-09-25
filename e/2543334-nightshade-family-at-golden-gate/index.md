@@ -1,6 +1,6 @@
 # Nightshade Family at Golden Gate
 
-Nightshade Family at Golden Gate on Sat 3 Oct, Berlin. 4 acts on the bill: Annina, Frivolous, Laura de Vasconcelos and Nils Ohrmann. Preview the line-up and save it on soundcheck.
+Nightshade Family at Golden Gate on Sat 3 Oct, Berlin. 4 artists on the bill: Annina, Frivolous, Laura de Vasconcelos and Nils Ohrmann. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

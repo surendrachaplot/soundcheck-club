@@ -1,6 +1,6 @@
 # Error in the System 2da Temporada at TBA - MUV
 
-Error in the System 2da Temporada at TBA - MUV on Fri 2 Oct, Madrid. 1 act on the bill: Not Charlie. Techno. Preview the line-up and save it on soundcheck.
+Error in the System 2da Temporada at TBA - MUV on Fri 2 Oct, Madrid. 1 artist on the bill: Not Charlie. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

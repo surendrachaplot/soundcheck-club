@@ -1,6 +1,6 @@
 # Taylah Elaine, BRATATTACK, 444 at Elsewhere
 
-Taylah Elaine, BRATATTACK, 444 at Elsewhere on Fri 25 Sept, Newyorkcity. 3 acts on the bill: 444 (1), BRATATTACK and Taylah Elaine. Preview the line-up and save it on soundcheck.
+Taylah Elaine, BRATATTACK, 444 at Elsewhere on Fri 25 Sept, New York City. 3 artists on the bill: 444, BRATATTACK and Taylah Elaine. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Becking presents: DAMSKO GARAGE at Grand Café Heineken Hoek
 
-Becking presents: DAMSKO GARAGE at Grand Café Heineken Hoek on Wed 21 Oct, Amsterdam. 4 acts on the bill: Becking, Eloquin, Jamie Unknown and Kirilski. Garage and Dubstep. Preview the line-up and save it on soundcheck.
+Becking presents: DAMSKO GARAGE at Grand Café Heineken Hoek on Wed 21 Oct, Amsterdam. 4 artists on the bill: Becking, Eloquin, Jamie Unknown and Kirilski. Garage and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

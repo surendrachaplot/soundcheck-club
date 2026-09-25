@@ -1,6 +1,6 @@
 # Nonchalant at Baalsaal
 
-Nonchalant at Baalsaal on Fri 6 Nov, Hamburg. 1 act on the bill: Steven Shade. Preview the line-up and save it on soundcheck.
+Nonchalant at Baalsaal on Fri 6 Nov, Hamburg. 1 artist on the bill: Steven Shade. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Francis Mercier presents Solèy at Hï Ibiza
 
-Francis Mercier presents Solèy at Hï Ibiza on Mon 28 Sept, Ibiza. 8 acts on the bill: Andrea Oliva, Ashibah, Bontan and Francis Mercier and 4 more. Afro House. Preview the line-up and save it on soundcheck.
+Francis Mercier presents Solèy at Hï Ibiza on Mon 28 Sept, Ibiza. 8 artists on the bill: Andrea Oliva, Ashibah, Bontan and Francis Mercier and 4 more. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

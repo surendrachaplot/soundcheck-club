@@ -1,6 +1,6 @@
 # Endless Summer: Felix Cartal, Alastair Lane, Makez at House of Yes
 
-Endless Summer: Felix Cartal, Alastair Lane, Makez at House of Yes on Sat 26 Sept, Newyorkcity. 5 acts on the bill: Alistair, Felix Cartal, Jeny Michelle and Laila Amira and 1 more. House and Club. Preview the line-up and save it on soundcheck.
+Endless Summer: Felix Cartal, Alastair Lane, Makez at House of Yes on Sat 26 Sept, New York City. 5 artists on the bill: Alistair, Felix Cartal, Jeny Michelle and Laila Amira and 1 more. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

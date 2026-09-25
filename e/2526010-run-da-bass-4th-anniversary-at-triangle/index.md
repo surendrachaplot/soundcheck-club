@@ -1,6 +1,6 @@
 # RUN DA BASS -4th Anniversary- at Triangle
 
-RUN DA BASS -4th Anniversary- at Triangle on Sun 11 Oct, Osaka. 12 acts on the bill: INDEX (3), into, kakepon and matres and 8 more. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+RUN DA BASS -4th Anniversary- at Triangle on Sun 11 Oct, Osaka. 12 artists on the bill: INDEX, into, kakepon and matres and 8 more. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

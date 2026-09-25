@@ -1,6 +1,6 @@
 # PHAZON 004 W/ MONTY & Prinzel at La Cheetah Club
 
-PHAZON 004 W/ MONTY & Prinzel at La Cheetah Club on Sat 24 Oct, Glasgow. 2 acts on the bill: MØNTY and Prinzel. Progressive House and Dub Techno. Preview the line-up and save it on soundcheck.
+PHAZON 004 W/ MONTY & Prinzel at La Cheetah Club on Sat 24 Oct, Glasgow. 2 artists on the bill: MØNTY and Prinzel. Progressive House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # THURSDAZE at Climax-Institutes
 
-THURSDAZE at Climax-Institutes on Thu 24 Sept, Stuttgart. 1 act on the bill: Michael Clash Gottschalk. Techno and House. Preview the line-up and save it on soundcheck.
+THURSDAZE at Climax-Institutes on Thu 24 Sept, Stuttgart. 1 artist on the bill: Michael Clash Gottschalk. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

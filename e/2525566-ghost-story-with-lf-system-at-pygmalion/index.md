@@ -1,6 +1,6 @@
 # Ghost Story* with LF SYSTEM at Pygmalion
 
-Ghost Story* with LF SYSTEM at Pygmalion on Fri 30 Oct, Dublin. 1 act on the bill: LF SYSTEM. House. Preview the line-up and save it on soundcheck.
+Ghost Story* with LF SYSTEM at Pygmalion on Fri 30 Oct, Dublin. 1 artist on the bill: LF SYSTEM. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

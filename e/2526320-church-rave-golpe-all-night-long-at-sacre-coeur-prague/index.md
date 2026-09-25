@@ -1,6 +1,6 @@
 # Church Rave † Golpe all night long at Sacre Coeur Prague
 
-Church Rave † Golpe all night long at Sacre Coeur Prague on Sat 24 Oct, Prague. 2 acts on the bill: Broken Robot and Golpe. Techno. Preview the line-up and save it on soundcheck.
+Church Rave † Golpe all night long at Sacre Coeur Prague on Sat 24 Oct, Prague. 2 artists on the bill: Broken Robot and Golpe. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

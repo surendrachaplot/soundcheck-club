@@ -1,6 +1,6 @@
 # Terminal V Presents : Holy Priest - Holy Sh*t Show at The OVO Hydro
 
-Terminal V Presents : Holy Priest - Holy Sh*t Show at The OVO Hydro on Fri 16 Oct, Glasgow. 1 act on the bill: Holy Priest. Techno. Preview the line-up and save it on soundcheck.
+Terminal V Presents : Holy Priest - Holy Sh*t Show at The OVO Hydro on Fri 16 Oct, Glasgow. 1 artist on the bill: Holy Priest. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tribelife at FOLD [Steam Room] Michelle Manetti, Rebecca Gough, TIMANTI, at FOLD
 
-Tribelife at FOLD [Steam Room] Michelle Manetti, Rebecca Gough, TIMANTI, on Sat 26 Sept, London. 3 acts on the bill: Michelle Manetti, Rebecca Gough and TIMANTI. Club and Electronica. Preview the line-up and save it on soundcheck.
+Tribelife at FOLD [Steam Room] Michelle Manetti, Rebecca Gough, TIMANTI, on Sat 26 Sept, London. 3 artists on the bill: Michelle Manetti, Rebecca Gough and TIMANTI. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

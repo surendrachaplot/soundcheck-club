@@ -1,6 +1,6 @@
 # Sunday's Prescription - UAV Jammer at Dr. Dou Social Club
 
-Sunday's Prescription - UAV Jammer at Dr. Dou Social Club on Sun 27 Sept, Barcelona. 1 act on the bill: UAV Jammer. Preview the line-up and save it on soundcheck.
+Sunday's Prescription - UAV Jammer at Dr. Dou Social Club on Sun 27 Sept, Barcelona. 1 artist on the bill: UAV Jammer. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

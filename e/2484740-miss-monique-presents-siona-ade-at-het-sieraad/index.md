@@ -1,6 +1,6 @@
 # Miss Monique presents Siona ADE at Het Sieraad
 
-Miss Monique presents Siona ADE at Het Sieraad on Thu 22 Oct, Amsterdam. 8 acts on the bill: Adapter, Genesi (IT), Kiko and Mia Mendi and 4 more. Progressive House and House. Preview the line-up and save it on soundcheck.
+Miss Monique presents Siona ADE at Het Sieraad on Thu 22 Oct, Amsterdam. 8 artists on the bill: Adapter, Genesi (IT), Kiko and Mia Mendi and 4 more. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

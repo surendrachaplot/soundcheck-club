@@ -1,6 +1,6 @@
 # Mietze Conte - Brisbane at Crowbar Brisbane
 
-Mietze Conte - Brisbane at Crowbar Brisbane on Sun 11 Oct, Brisbane. 1 act on the bill: Mietze Conte. Electro. Preview the line-up and save it on soundcheck.
+Mietze Conte - Brisbane at Crowbar Brisbane on Sun 11 Oct, Brisbane. 1 artist on the bill: Mietze Conte. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

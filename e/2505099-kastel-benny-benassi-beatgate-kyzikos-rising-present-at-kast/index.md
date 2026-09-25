@@ -1,6 +1,6 @@
 # Kastel: Benny Benassi - BEATGATE × KYZIKOS RISING PRESENT at Kastel
 
-Kastel: Benny Benassi - BEATGATE × KYZIKOS RISING PRESENT on Fri 9 Oct, Istanbul. 1 act on the bill: Benny Benassi. House. Preview the line-up and save it on soundcheck.
+Kastel: Benny Benassi - BEATGATE × KYZIKOS RISING PRESENT on Fri 9 Oct, Istanbul. 1 artist on the bill: Benny Benassi. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

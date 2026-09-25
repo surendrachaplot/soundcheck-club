@@ -1,6 +1,6 @@
 # Knot pres. Massive Gain 【Onleash + Fakethias】 at OIL Club
 
-Knot pres. Massive Gain 【Onleash + Fakethias】 at OIL Club on Sat 10 Oct, Shenzhen. 3 acts on the bill: Fakethias, Manson and Onleash. Trance and Hardcore. Preview the line-up and save it on soundcheck.
+Knot pres. Massive Gain 【Onleash + Fakethias】 at OIL Club on Sat 10 Oct, Shenzhen. 3 artists on the bill: Fakethias, Manson and Onleash. Trance and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

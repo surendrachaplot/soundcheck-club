@@ -2,7 +2,7 @@
 
 1TA (1) is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Noon + Cafe, Osaka on Sat, 26 Sept 2026.
 
-1TA (1) is a dub and bass artist based in Japan, tracked on soundcheck, with 25 sets logged across Osaka and Tokyo. Often billed alongside Element (3), Mars89 and ykah. Next up: Noon + Cafe, Osaka on Sat 26 Sept.
+1TA is a dub and bass artist based in Japan, tracked on soundcheck, with 25 sets logged across Osaka and Tokyo. Often billed alongside Element, Mars89 and ykah. Next up: Noon + Cafe, Osaka on Sat 26 Sept.
 
 ## Upcoming shows
 

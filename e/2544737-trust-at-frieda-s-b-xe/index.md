@@ -1,6 +1,6 @@
 # Trust at Frieda's Büxe
 
-Trust at Frieda's Büxe on Fri 25 Sept, Zurich. 3 acts on the bill: ALBERT2BOLLO, Nick F and NURI (CH). House and Electro. Preview the line-up and save it on soundcheck.
+Trust at Frieda's Büxe on Fri 25 Sept, Zurich. 3 artists on the bill: ALBERT2BOLLO, Nick F and NURI (CH). House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

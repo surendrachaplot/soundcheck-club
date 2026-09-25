@@ -1,6 +1,6 @@
 # Pyg presents KILIMANJARO at Pygmalion
 
-Pyg presents KILIMANJARO at Pygmalion on Sat 10 Oct, Dublin. 1 act on the bill: KILIMANJARO. House. Preview the line-up and save it on soundcheck.
+Pyg presents KILIMANJARO at Pygmalion on Sat 10 Oct, Dublin. 1 artist on the bill: KILIMANJARO. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

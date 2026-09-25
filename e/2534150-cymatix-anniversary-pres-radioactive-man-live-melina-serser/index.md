@@ -1,6 +1,6 @@
 # Cymatix Anniversary pres. Radioactive Man live, Melina Serser, Anah b2b Lumiere at Les Enfants Brillants
 
-Cymatix Anniversary pres. Radioactive Man live, Melina Serser, Anah b2b Lumiere at Les Enfants Brillants on Sat 14 Nov, Barcelona. 4 acts on the bill: Anah, Lumiere, Melina Serser and Radioactive Man. Preview the line-up and save it on soundcheck.
+Cymatix Anniversary pres. Radioactive Man live, Melina Serser, Anah b2b Lumiere at Les Enfants Brillants on Sat 14 Nov, Barcelona. 4 artists on the bill: Anah, Lumiere, Melina Serser and Radioactive Man. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

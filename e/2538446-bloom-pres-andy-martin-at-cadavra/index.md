@@ -1,6 +1,6 @@
 # bloom pres. Andy Martin at Cadavra
 
-bloom pres. Andy Martin at Cadavra on Fri 16 Oct, Madrid. 5 acts on the bill: Andy Martin, Baldman, berta (ES) and Gala (ES) and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+bloom pres. Andy Martin at Cadavra on Fri 16 Oct, Madrid. 5 artists on the bill: Andy Martin, Baldman, berta (ES) and Gala (ES) and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

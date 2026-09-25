@@ -1,6 +1,6 @@
 # CLUB MOLEDRO at Mood Ring
 
-CLUB MOLEDRO at Mood Ring on Sat 10 Oct, Newyorkcity. 7 acts on the bill: Brant Wolff, Clocky Chulo, Dipto and DJ ing and 3 more. Preview the line-up and save it on soundcheck.
+CLUB MOLEDRO at Mood Ring on Sat 10 Oct, New York City. 7 artists on the bill: Brant Wolff, Clocky Chulo, Dipto and DJ ing and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

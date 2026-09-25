@@ -1,6 +1,6 @@
 # San Holo at Radius
 
-San Holo at Radius on Fri 25 Sept, Chicago. 1 act on the bill: San Holo. Bass. Preview the line-up and save it on soundcheck.
+San Holo at Radius on Fri 25 Sept, Chicago. 1 artist on the bill: San Holo. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Reserve December Edition at TBA - The Reserve, 212 E 125th St The Living Room, New York, NY
 
-The Reserve December Edition at TBA - The Reserve, 212 E 125th St The Living Room, New York, NY on Fri 13 Nov, Newyorkcity. 1 act on the bill: RAAM BAND. Disco and Afro House. Preview the line-up and save it on soundcheck.
+The Reserve December Edition at TBA - The Reserve, 212 E 125th St The Living Room, New York, NY on Fri 13 Nov, New York City. 1 artist on the bill: RAAM BAND. Disco and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 180 min with Polygonia (live) at ZENNER
 
-180 min with Polygonia (live) at ZENNER on Thu 5 Nov, Berlin. 2 acts on the bill: ophélie and Polygonia. Preview the line-up and save it on soundcheck.
+180 min with Polygonia (live) at ZENNER on Thu 5 Nov, Berlin. 2 artists on the bill: ophélie and Polygonia. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

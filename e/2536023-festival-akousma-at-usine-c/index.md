@@ -1,6 +1,6 @@
 # Festival Akousma at Usine C
 
-Festival Akousma at Usine C on Wed 21 Oct, Montreal. 3 acts on the bill: Exzald S, Ka Baird and Myriam Bleau. Experimental and Drone. Preview the line-up and save it on soundcheck.
+Festival Akousma at Usine C on Wed 21 Oct, Montreal. 3 artists on the bill: Exzald S, Ka Baird and Myriam Bleau. Experimental and Drone. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

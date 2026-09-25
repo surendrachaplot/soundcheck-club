@@ -1,6 +1,6 @@
 # BT at Ora
 
-BT at Ora on Sat 21 Nov, Seattle. 1 act on the bill: BT. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+BT at Ora on Sat 21 Nov, Seattle. 1 artist on the bill: BT. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MORBO 30/10 at Dallas Club
 
-MORBO 30/10 at Dallas Club on Fri 30 Oct, Mexicocity. Techno. Preview the line-up and save it on soundcheck.
+MORBO 30/10 at Dallas Club on Fri 30 Oct, Mexico City. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

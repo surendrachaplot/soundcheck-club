@@ -1,6 +1,6 @@
 # Phantasma: Joey Beltram, Volvox, Light Asylum(DJ Set) + Lenny Dee, FortifiedStructures at Paragon
 
-Phantasma: Joey Beltram, Volvox, Light Asylum(DJ Set) + Lenny Dee, FortifiedStructures at Paragon on Fri 16 Oct, Newyorkcity. 5 acts on the bill: FortifiedStructures, Joey Beltram, Lenny Dee and Light Asylum and 1 more. Techno and Gabber. Preview the line-up and save it on soundcheck.
+Phantasma: Joey Beltram, Volvox, Light Asylum(DJ Set) + Lenny Dee, FortifiedStructures at Paragon on Fri 16 Oct, New York City. 5 artists on the bill: FortifiedStructures, Joey Beltram, Lenny Dee and Light Asylum and 1 more. Techno and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

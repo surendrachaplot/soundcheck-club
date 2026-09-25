@@ -1,6 +1,6 @@
 # LAFRENCH at Tempo
 
-LAFRENCH at Tempo on Sat 17 Oct, Madrid. 2 acts on the bill: Barletti and LORA.. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+LAFRENCH at Tempo on Sat 17 Oct, Madrid. 2 artists on the bill: Barletti and LORA.. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

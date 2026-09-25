@@ -1,6 +1,6 @@
 # Eastern Margins x Natural Mind with Effie, Minna-no-Kimochi, Mechatok & Torus at Parallel
 
-Eastern Margins x Natural Mind with Effie, Minna-no-Kimochi, Mechatok & Torus at Parallel on Thu 22 Oct, Amsterdam. 3 acts on the bill: Mechatok, Minna-no-Kimochi and Torus. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Eastern Margins x Natural Mind with Effie, Minna-no-Kimochi, Mechatok & Torus at Parallel on Thu 22 Oct, Amsterdam. 3 artists on the bill: Mechatok, Minna-no-Kimochi and Torus. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

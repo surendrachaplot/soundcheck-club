@@ -1,6 +1,6 @@
 # COSMIC CODE INVITES Aliens TO SECRET RAVE at TBA - Secret Location
 
-COSMIC CODE INVITES Aliens TO SECRET RAVE at TBA - Secret Location on Sat 26 Sept, Berlin. 3 acts on the bill: Jonny Lust, Omi on Acid and Sylvie Maziarz. Techno and Acid. Preview the line-up and save it on soundcheck.
+COSMIC CODE INVITES Aliens TO SECRET RAVE at TBA - Secret Location on Sat 26 Sept, Berlin. 3 artists on the bill: Jonny Lust, Omi on Acid and Sylvie Maziarz. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

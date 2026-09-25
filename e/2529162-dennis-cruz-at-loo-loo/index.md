@@ -1,6 +1,6 @@
 # Dennis Cruz at Loo Loo
 
-Dennis Cruz at Loo Loo on Fri 13 Nov, Mexicocity. 2 acts on the bill: Alexandthere and Dennis Cruz. Preview the line-up and save it on soundcheck.
+Dennis Cruz at Loo Loo on Fri 13 Nov, Mexico City. 2 artists on the bill: Alexandthere and Dennis Cruz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

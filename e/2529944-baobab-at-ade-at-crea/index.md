@@ -1,6 +1,6 @@
 # BAOBAB at ADE at CREA
 
-BAOBAB at ADE at CREA on Thu 22 Oct, Amsterdam. 2 acts on the bill: Kevin Kinembe and Secret Soda. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+BAOBAB at ADE at CREA on Thu 22 Oct, Amsterdam. 2 artists on the bill: Kevin Kinembe and Secret Soda. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

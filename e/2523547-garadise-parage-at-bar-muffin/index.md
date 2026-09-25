@@ -1,6 +1,6 @@
 # GARADISE PARAGE at Bar Muffin'
 
-GARADISE PARAGE at Bar Muffin' on Fri 30 Oct, Osaka. 1 act on the bill: HYPNOTIC INC.. House and Disco. Preview the line-up and save it on soundcheck.
+GARADISE PARAGE at Bar Muffin' on Fri 30 Oct, Osaka. 1 artist on the bill: HYPNOTIC INC.. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

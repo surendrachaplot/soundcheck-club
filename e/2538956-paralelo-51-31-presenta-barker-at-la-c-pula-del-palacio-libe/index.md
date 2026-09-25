@@ -1,6 +1,6 @@
 # Paralelo 51/31 presenta: Barker at La Cúpula del Palacio Libertad
 
-Paralelo 51/31 presenta: Barker at La Cúpula del Palacio Libertad on Fri 27 Nov, Buenosaires. 2 acts on the bill: aantz and Barker. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Paralelo 51/31 presenta: Barker at La Cúpula del Palacio Libertad on Fri 27 Nov, Buenos Aires. 2 artists on the bill: aantz and Barker. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

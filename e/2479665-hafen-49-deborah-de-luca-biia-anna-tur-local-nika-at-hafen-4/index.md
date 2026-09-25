@@ -1,6 +1,6 @@
 # Hafen 49: Deborah De Luca, BIIA, Anna Tur Local: Nika at Hafen 49
 
-Hafen 49: Deborah De Luca, BIIA, Anna Tur Local: Nika on Sat 26 Sept, Mannheim. 3 acts on the bill: BIIA, Deborah De Luca and Nika (2). Preview the line-up and save it on soundcheck.
+Hafen 49: Deborah De Luca, BIIA, Anna Tur Local: Nika on Sat 26 Sept, Mannheim. 3 artists on the bill: BIIA, Deborah De Luca and Nika. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

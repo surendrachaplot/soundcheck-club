@@ -1,6 +1,6 @@
 # feedbk - soft opening season with Tony Price (live), Sweater On Polo (live) & CAMILLA at feedbk
 
-feedbk - soft opening season with Tony Price (live), Sweater On Polo (live) & CAMILLA on Sat 26 Sept, Newyorkcity. 3 acts on the bill: CAMILLA, Sweater On Polo and Tony Price. Techno and House. Preview the line-up and save it on soundcheck.
+feedbk - soft opening season with Tony Price (live), Sweater On Polo (live) & CAMILLA on Sat 26 Sept, New York City. 3 artists on the bill: CAMILLA, Sweater On Polo and Tony Price. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

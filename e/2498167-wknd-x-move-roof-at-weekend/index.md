@@ -1,6 +1,6 @@
 # WKND X MOVE ROOF at Weekend
 
-WKND X MOVE ROOF at Weekend on Fri 9 Oct, Berlin. 3 acts on the bill: Anna Belove, Phonique and SOROUSH. Techno and House. Preview the line-up and save it on soundcheck.
+WKND X MOVE ROOF at Weekend on Fri 9 Oct, Berlin. 3 artists on the bill: Anna Belove, Phonique and SOROUSH. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Angel Audio 002: regional club sounds from Chicago to Miami at Acud Macht NEU
 
-Angel Audio 002: regional club sounds from Chicago to Miami at Acud Macht NEU on Sat 10 Oct, Berlin. 5 acts on the bill: anna andersrum, CCTV, CHILDISH BAMBINO and KaraKara and 1 more. Electro and Footwork. Preview the line-up and save it on soundcheck.
+Angel Audio 002: regional club sounds from Chicago to Miami at Acud Macht NEU on Sat 10 Oct, Berlin. 5 artists on the bill: anna andersrum, CCTV, CHILDISH BAMBINO and KaraKara and 1 more. Electro and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

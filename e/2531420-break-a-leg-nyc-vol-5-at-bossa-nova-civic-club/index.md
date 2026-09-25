@@ -1,6 +1,6 @@
 # Break A Leg: NYC vol. 5 at Bossa Nova Civic Club
 
-Break A Leg: NYC vol. 5 at Bossa Nova Civic Club on Fri 23 Oct, Newyorkcity. 3 acts on the bill: DJ-SUN, flotussin and Tromac. Techno and Club. Preview the line-up and save it on soundcheck.
+Break A Leg: NYC vol. 5 at Bossa Nova Civic Club on Fri 23 Oct, New York City. 3 artists on the bill: DJ-SUN, flotussin and Tromac. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

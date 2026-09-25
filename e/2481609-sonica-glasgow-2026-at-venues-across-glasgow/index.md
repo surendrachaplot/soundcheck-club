@@ -1,6 +1,6 @@
 # Sonica Glasgow 2026 at Venues Across Glasgow
 
-Sonica Glasgow 2026 at Venues Across Glasgow on Thu 24 Sept, Glasgow. 22 acts on the bill: Alex Smoke, Alif Hilal, Alliyah Enyo and An-Ting and 18 more. Experimental. Preview the line-up and save it on soundcheck.
+Sonica Glasgow 2026 at Venues Across Glasgow on Thu 24 Sept, Glasgow. 22 artists on the bill: Alex Smoke, Alif Hilal, Alliyah Enyo and An-Ting and 18 more. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

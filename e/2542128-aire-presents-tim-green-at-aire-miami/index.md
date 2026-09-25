@@ -1,6 +1,6 @@
 # AIRE presents Tim Green at Aire Miami
 
-AIRE presents Tim Green at Aire Miami on Fri 2 Oct, Miami. 3 acts on the bill: Conosur, Goa'98 and Tim Green. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+AIRE presents Tim Green at Aire Miami on Fri 2 Oct, Miami. 3 artists on the bill: Conosur, Goa'98 and Tim Green. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DJ-Kicks ADE at WestWeelde
 
-DJ-Kicks ADE at WestWeelde on Thu 22 Oct, Amsterdam. 9 acts on the bill: BELLA (NL), D Stone, Dam Swindle and Danilo Plessow and 5 more. House. Preview the line-up and save it on soundcheck.
+DJ-Kicks ADE at WestWeelde on Thu 22 Oct, Amsterdam. 9 artists on the bill: BELLA (NL), D Stone, Dam Swindle and Danilo Plessow and 5 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

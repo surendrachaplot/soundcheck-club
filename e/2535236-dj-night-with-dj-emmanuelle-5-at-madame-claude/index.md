@@ -1,6 +1,6 @@
 # DJ Night with Dj Emmanuelle 5 at Madame Claude
 
-DJ Night with Dj Emmanuelle 5 at Madame Claude on Fri 25 Sept, Berlin. 1 act on the bill: Emmanuelle 5. Preview the line-up and save it on soundcheck.
+DJ Night with Dj Emmanuelle 5 at Madame Claude on Fri 25 Sept, Berlin. 1 artist on the bill: Emmanuelle 5. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

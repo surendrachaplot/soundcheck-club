@@ -1,6 +1,6 @@
 # fabric: Palms Trax, Ogazón, Mathew Jonson + more tba at fabric
 
-fabric: Palms Trax, Ogazón, Mathew Jonson + more tba on Sat 28 Nov, London. 3 acts on the bill: Mathew Jonson, Ogazón and Palms Trax. Techno and House. Preview the line-up and save it on soundcheck.
+fabric: Palms Trax, Ogazón, Mathew Jonson + more tba on Sat 28 Nov, London. 3 artists on the bill: Mathew Jonson, Ogazón and Palms Trax. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

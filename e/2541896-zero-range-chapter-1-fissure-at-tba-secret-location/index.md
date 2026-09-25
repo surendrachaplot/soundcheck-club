@@ -1,6 +1,6 @@
 # ZERO RANGE - Chapter 1: Fissure at TBA - secret location
 
-ZERO RANGE - Chapter 1: Fissure at TBA - secret location on Fri 9 Oct, Barcelona. 2 acts on the bill: sakali and Young Gaina. Downtempo and Experimental. Preview the line-up and save it on soundcheck.
+ZERO RANGE - Chapter 1: Fissure at TBA - secret location on Fri 9 Oct, Barcelona. 2 artists on the bill: sakali and Young Gaina. Downtempo and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

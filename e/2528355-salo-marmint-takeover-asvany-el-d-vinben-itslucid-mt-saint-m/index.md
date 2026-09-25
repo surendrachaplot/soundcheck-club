@@ -1,6 +1,6 @@
 # SALO / MARMINT TAKEOVER: asvany ☆ előd ☆ vinben ☆ ItsLucid ☆ Mt. Saint Michel ☆ Gnosis ☆ SUTA at Fuchs2
 
-SALO / MARMINT TAKEOVER: asvany ☆ előd ☆ vinben ☆ ItsLucid ☆ Mt. Saint Michel ☆ Gnosis ☆ SUTA at Fuchs2 on Thu 24 Sept, Prague. 3 acts on the bill: Gnosis, ItsLucid and VLZQUES. Preview the line-up and save it on soundcheck.
+SALO / MARMINT TAKEOVER: asvany ☆ előd ☆ vinben ☆ ItsLucid ☆ Mt. Saint Michel ☆ Gnosis ☆ SUTA at Fuchs2 on Thu 24 Sept, Prague. 3 artists on the bill: Gnosis, ItsLucid and VLZQUES. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

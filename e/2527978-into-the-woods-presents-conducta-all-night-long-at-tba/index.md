@@ -1,6 +1,6 @@
 # Into The Woods presents Conducta (All Night Long) at TBA
 
-Into The Woods presents Conducta (All Night Long) at TBA on Fri 2 Oct, Losangeles. 1 act on the bill: Conducta. House and Garage. Preview the line-up and save it on soundcheck.
+Into The Woods presents Conducta (All Night Long) at TBA on Fri 2 Oct, Los Angeles. 1 artist on the bill: Conducta. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

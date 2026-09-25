@@ -1,14 +1,14 @@
 # Akaj
 
-Akaj is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+Akaj is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Akaj is a house and electro artist based in Slovenia, tracked on soundcheck, with 31 sets logged across All, Amsterdam, Athens and Barcelona and 14 more. Often billed alongside Audri, Eliza (2) and Enrica Hz. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+Akaj is a house and electro artist based in Slovenia, tracked on soundcheck, with 31 sets logged across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Audri, Eliza and Enrica Hz. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Ewan McVicar presents Halloween at Mint XL
 
-Ewan McVicar presents Halloween at Mint XL on Sat 31 Oct, Leeds. 1 act on the bill: Ewan McVicar. House. Preview the line-up and save it on soundcheck.
+Ewan McVicar presents Halloween at Mint XL on Sat 31 Oct, Leeds. 1 artist on the bill: Ewan McVicar. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # sturmfrei mit Bin Okin & Freunde b-day at Minimal Bar
 
-sturmfrei mit Bin Okin & Freunde b-day at Minimal Bar on Sat 26 Sept, Berlin. 1 act on the bill: Bin Okin. Preview the line-up and save it on soundcheck.
+sturmfrei mit Bin Okin & Freunde b-day at Minimal Bar on Sat 26 Sept, Berlin. 1 artist on the bill: Bin Okin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

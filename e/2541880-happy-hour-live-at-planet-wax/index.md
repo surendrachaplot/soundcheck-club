@@ -1,6 +1,6 @@
 # HAPPY HOUR LIVE at Planet Wax
 
-HAPPY HOUR LIVE at Planet Wax on Fri 25 Sept, London. 2 acts on the bill: Dexta and Uncle G. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+HAPPY HOUR LIVE at Planet Wax on Fri 25 Sept, London. 2 artists on the bill: Dexta and Uncle G. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

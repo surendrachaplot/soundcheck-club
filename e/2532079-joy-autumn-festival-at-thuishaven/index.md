@@ -1,6 +1,6 @@
 # JOY Autumn Festival at Thuishaven
 
-JOY Autumn Festival at Thuishaven on Sat 14 Nov, Amsterdam. 9 acts on the bill: Cici Daze, Easttown, Hidde van Wee and Lewis Taylor and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
+JOY Autumn Festival at Thuishaven on Sat 14 Nov, Amsterdam. 9 artists on the bill: Cici Daze, Easttown, Hidde van Wee and Lewis Taylor and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

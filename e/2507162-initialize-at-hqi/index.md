@@ -1,6 +1,6 @@
 # Initialize at HQI
 
-Initialize at HQI on Fri 30 Oct, London. 7 acts on the bill: ANMLxPRTY, By Dusk, Fernweh (2) and FRANK (UK) and 3 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Initialize at HQI on Fri 30 Oct, London. 7 artists on the bill: ANMLxPRTY, By Dusk, Fernweh and FRANK (UK) and 3 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

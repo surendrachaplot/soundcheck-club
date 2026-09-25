@@ -1,6 +1,6 @@
 # Jamie Fielding All Night Long - Modello at Kapsule
 
-Jamie Fielding All Night Long - Modello at Kapsule on Fri 9 Oct, Liverpool. 1 act on the bill: Jamie Fielding. House and Tech House. Preview the line-up and save it on soundcheck.
+Jamie Fielding All Night Long - Modello at Kapsule on Fri 9 Oct, Liverpool. 1 artist on the bill: Jamie Fielding. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

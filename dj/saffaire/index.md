@@ -2,7 +2,7 @@
 
 Saffaire is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
 
-Saffaire is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Sanfrancisco. Often billed alongside cstr, S.I.M and 1OO1O. Next up: Monarch, Sanfrancisco on Sat 14 Nov.
+Saffaire is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across San Francisco/Oakland. Often billed alongside cstr, S.I.M and 1OO1O. Next up: Monarch, San Francisco/Oakland on Sat 14 Nov.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # DEEP at Palais
 
-DEEP at Palais on Fri 2 Oct, Munich. 3 acts on the bill: Erhyc, Julie Fleischer and Liudmyla. Tech House and Italo Disco. Preview the line-up and save it on soundcheck.
+DEEP at Palais on Fri 2 Oct, Munich. 3 artists on the bill: Erhyc, Julie Fleischer and Liudmyla. Tech House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

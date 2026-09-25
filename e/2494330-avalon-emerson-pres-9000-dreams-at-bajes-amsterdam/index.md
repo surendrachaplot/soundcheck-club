@@ -1,6 +1,6 @@
 # Avalon Emerson pres. 9000 Dreams at Bajes Amsterdam
 
-Avalon Emerson pres. 9000 Dreams at Bajes Amsterdam on Fri 23 Oct, Amsterdam. 5 acts on the bill: Aurora Halal, Avalon Emerson, Ineffekt and Sedef Adasï and 1 more. Preview the line-up and save it on soundcheck.
+Avalon Emerson pres. 9000 Dreams at Bajes Amsterdam on Fri 23 Oct, Amsterdam. 5 artists on the bill: Aurora Halal, Avalon Emerson, Ineffekt and Sedef Adasï and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

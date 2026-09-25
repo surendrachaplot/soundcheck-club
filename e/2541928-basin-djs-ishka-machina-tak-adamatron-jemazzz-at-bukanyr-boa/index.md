@@ -1,6 +1,6 @@
 # Basin - djs ishka machina, Takē, Adamatron, Jemazzz at Bukanyr Boat
 
-Basin - djs ishka machina, Takē, Adamatron, Jemazzz at Bukanyr Boat on Fri 2 Oct, Prague. 4 acts on the bill: Adamatron, ishka machina, Jemazzz and Takē. Techno and House. Preview the line-up and save it on soundcheck.
+Basin - djs ishka machina, Takē, Adamatron, Jemazzz at Bukanyr Boat on Fri 2 Oct, Prague. 4 artists on the bill: Adamatron, ishka machina, Jemazzz and Takē. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

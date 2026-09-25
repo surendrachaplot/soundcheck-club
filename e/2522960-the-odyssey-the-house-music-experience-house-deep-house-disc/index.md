@@ -1,6 +1,6 @@
 # The Odyssey -the house music experience- (HOUSE/DEEP HOUSE/DISCO) at Z Maruyama
 
-The Odyssey -the house music experience- (HOUSE/DEEP HOUSE/DISCO) at Z Maruyama on Fri 25 Sept, Tokyo. 2 acts on the bill: Kairi Komoda and Toshiyuki Goto. House and Disco. Preview the line-up and save it on soundcheck.
+The Odyssey -the house music experience- (HOUSE/DEEP HOUSE/DISCO) at Z Maruyama on Fri 25 Sept, Tokyo. 2 artists on the bill: Kairi Komoda and Toshiyuki Goto. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

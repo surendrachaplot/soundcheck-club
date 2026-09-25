@@ -1,6 +1,6 @@
 # Hang Tough W/Amaliah at The Berkeley Suite
 
-Hang Tough W/Amaliah at The Berkeley Suite on Fri 23 Oct, Glasgow. 1 act on the bill: Amaliah. Techno and House. Preview the line-up and save it on soundcheck.
+Hang Tough W/Amaliah at The Berkeley Suite on Fri 23 Oct, Glasgow. 1 artist on the bill: Amaliah. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

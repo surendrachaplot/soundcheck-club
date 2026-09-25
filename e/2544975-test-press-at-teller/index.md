@@ -1,6 +1,6 @@
 # test press at teller
 
-test press at teller on Sun 4 Oct, Seoul. 3 acts on the bill: Hansy, Lyumin and Millim. Preview the line-up and save it on soundcheck.
+test press at teller on Sun 4 Oct, Seoul. 3 artists on the bill: Hansy, Lyumin and Millim. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

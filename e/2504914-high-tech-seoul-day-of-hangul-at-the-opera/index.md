@@ -1,6 +1,6 @@
 # HIGH-TECH SEOUL day of HANGUL at The Opera
 
-HIGH-TECH SEOUL day of HANGUL at The Opera on Fri 9 Oct, Seoul. 4 acts on the bill: D.Dan, E3, Mari Sakurai and SINAE. Techno. Preview the line-up and save it on soundcheck.
+HIGH-TECH SEOUL day of HANGUL at The Opera on Fri 9 Oct, Seoul. 4 artists on the bill: D.Dan, E3, Mari Sakurai and SINAE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

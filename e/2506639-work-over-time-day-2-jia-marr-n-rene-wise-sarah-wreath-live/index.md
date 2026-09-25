@@ -1,6 +1,6 @@
 # WORK OVER/TIME Day 2: JIA, MARRØN, Rene Wise, & Sarah Wreath (LIVE) at TBA - Los Angeles
 
-WORK OVER/TIME Day 2: JIA, MARRØN, Rene Wise, & Sarah Wreath (LIVE) at TBA - Los Angeles on Sat 26 Sept, Losangeles. 4 acts on the bill: JIA, MARRØN, Rene Wise and Sarah Wreath. Techno. Preview the line-up and save it on soundcheck.
+WORK OVER/TIME Day 2: JIA, MARRØN, Rene Wise, & Sarah Wreath (LIVE) at TBA - Los Angeles on Sat 26 Sept, Los Angeles. 4 artists on the bill: JIA, MARRØN, Rene Wise and Sarah Wreath. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KATER SHOWCASE at Fridas Pier
 
-KATER SHOWCASE at Fridas Pier on Sat 26 Sept, Stuttgart. 7 acts on the bill: Claudius, DIEGÖ, Femcat and Mimi Love and 3 more. Downtempo. Preview the line-up and save it on soundcheck.
+KATER SHOWCASE at Fridas Pier on Sat 26 Sept, Stuttgart. 7 artists on the bill: Claudius, DIEGÖ, Femcat and Mimi Love and 3 more. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

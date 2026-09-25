@@ -1,6 +1,6 @@
 # Rodriguez Jr. - Sölbo at StereoBar
 
-Rodriguez Jr. - Sölbo at StereoBar on Sat 26 Sept, Montreal. 2 acts on the bill: Rodriguez Jr. and Sölbo. Preview the line-up and save it on soundcheck.
+Rodriguez Jr. - Sölbo at StereoBar on Sat 26 Sept, Montreal. 2 artists on the bill: Rodriguez Jr. and Sölbo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

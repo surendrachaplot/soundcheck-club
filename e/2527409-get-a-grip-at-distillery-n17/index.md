@@ -1,6 +1,6 @@
 # Get A Grip at Distillery N17
 
-Get A Grip at Distillery N17 on Fri 23 Oct, London. 3 acts on the bill: Crystal (3), Dana Montana and Ivicore. House and Club. Preview the line-up and save it on soundcheck.
+Get A Grip at Distillery N17 on Fri 23 Oct, London. 3 artists on the bill: Crystal, Dana Montana and Ivicore. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

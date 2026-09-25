@@ -1,6 +1,6 @@
 # FREE ENTRY Nachtflug wiederstand X Rosie's Bar presents: maniac&me, Clarence & Bruno Bleckmann at Rosie's Bar
 
-FREE ENTRY Nachtflug wiederstand X Rosie's Bar presents: maniac&me, Clarence & Bruno Bleckmann on Sat 24 Oct, Berlin. 2 acts on the bill: Bruno Bleckmann and maniac&me. House. Preview the line-up and save it on soundcheck.
+FREE ENTRY Nachtflug wiederstand X Rosie's Bar presents: maniac&me, Clarence & Bruno Bleckmann on Sat 24 Oct, Berlin. 2 artists on the bill: Bruno Bleckmann and maniac&me. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

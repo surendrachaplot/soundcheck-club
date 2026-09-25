@@ -1,6 +1,6 @@
 # Dvica ANTRAKT w/ Anna Wall B2B Runy & Sacha Mambo at KPGT at KPGT
 
-Dvica ANTRAKT w/ Anna Wall B2B Runy & Sacha Mambo at KPGT on Fri 2 Oct, Belgrade. 5 acts on the bill: Anna Wall, Benjamin., Gerun and Runy and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+Dvica ANTRAKT w/ Anna Wall B2B Runy & Sacha Mambo at KPGT on Fri 2 Oct, Belgrade. 5 artists on the bill: Anna Wall, Benjamin., Gerun and Runy and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

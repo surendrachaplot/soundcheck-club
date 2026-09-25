@@ -1,6 +1,6 @@
 # Walker & Royce at Royale
 
-Walker & Royce at Royale on Fri 16 Oct, Boston. 1 act on the bill: Walker & Royce. House and Deep House. Preview the line-up and save it on soundcheck.
+Walker & Royce at Royale on Fri 16 Oct, Boston. 1 artist on the bill: Walker & Royce. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

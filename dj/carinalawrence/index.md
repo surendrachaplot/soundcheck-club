@@ -2,7 +2,7 @@
 
 Carina Lawrence is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Electric Bristol, Bristol on Fri, 2 Oct 2026.
 
-Carina Lawrence is a progressive house and techno artist based in Australia, tracked on soundcheck, with 65 sets logged across Brighton, Bristol, London and Losangeles and 6 more. Often billed alongside Innerstice, Jesabel and Redfreya. Next up: Electric Bristol, Bristol on Fri 2 Oct.
+Carina Lawrence is a progressive house and techno artist based in Australia, tracked on soundcheck, with 65 sets logged across Brighton, Bristol, London and Los Angeles and 6 more. Often billed alongside Innerstice, Jesabel and Redfreya. Next up: Electric Bristol, Bristol on Fri 2 Oct.
 
 ## Upcoming shows
 

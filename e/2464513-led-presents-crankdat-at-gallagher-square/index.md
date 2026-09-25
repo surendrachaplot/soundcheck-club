@@ -1,6 +1,6 @@
 # LED presents Crankdat at Gallagher Square
 
-LED presents Crankdat at Gallagher Square on Fri 13 Nov, Sandiego. Preview the line-up and save it on soundcheck.
+LED presents Crankdat at Gallagher Square on Fri 13 Nov, San Diego. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

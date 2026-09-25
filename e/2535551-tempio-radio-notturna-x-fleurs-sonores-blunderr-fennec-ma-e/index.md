@@ -1,6 +1,6 @@
 # Tempio Radio Notturna x Fleurs Sonores: Blunderr, Fennec |||, MA\E at Tempio del Futuro Perduto
 
-Tempio Radio Notturna x Fleurs Sonores: Blunderr, Fennec |||, MA\E at Tempio del Futuro Perduto on Thu 15 Oct, Milan. 3 acts on the bill: Blunderr, Fennec III and MA\E. Preview the line-up and save it on soundcheck.
+Tempio Radio Notturna x Fleurs Sonores: Blunderr, Fennec |||, MA\E at Tempio del Futuro Perduto on Thu 15 Oct, Milan. 3 artists on the bill: Blunderr, Fennec III and MA\E. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

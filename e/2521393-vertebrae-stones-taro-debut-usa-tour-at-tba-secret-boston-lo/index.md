@@ -1,6 +1,6 @@
 # VERTEBRAE 𖠣 Stones Taro [Debut USA Tour] at TBA - Secret Boston Location
 
-VERTEBRAE 𖠣 Stones Taro [Debut USA Tour] at TBA - Secret Boston Location on Sat 26 Sept, Boston. 6 acts on the bill: brazen, Frank Paper, Sohn Jamal and Stones Taro and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+VERTEBRAE 𖠣 Stones Taro [Debut USA Tour] at TBA - Secret Boston Location on Sat 26 Sept, Boston. 6 artists on the bill: brazen, Frank Paper, Sohn Jamal and Stones Taro and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

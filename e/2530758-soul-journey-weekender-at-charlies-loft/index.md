@@ -1,6 +1,6 @@
 # Soul Journey Weekender at Charlies Loft
 
-Soul Journey Weekender at Charlies Loft on Fri 25 Sept, Glasgow. 12 acts on the bill: Al Kent, Aroop Roy, Auntie Flo and Bill Brewster and 8 more. House and Disco. Preview the line-up and save it on soundcheck.
+Soul Journey Weekender at Charlies Loft on Fri 25 Sept, Glasgow. 12 artists on the bill: Al Kent, Aroop Roy, Auntie Flo and Bill Brewster and 8 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

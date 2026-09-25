@@ -1,6 +1,6 @@
 # R3FRACT presents: 1st Anniversary & Counter Attack at R Lounge
 
-R3FRACT presents: 1st Anniversary & Counter Attack at R Lounge on Sat 17 Oct, Tokyo. 6 acts on the bill: AKIRAM EN, Kazu, Lisa Mizuno and Mars89 and 2 more. Techno. Preview the line-up and save it on soundcheck.
+R3FRACT presents: 1st Anniversary & Counter Attack at R Lounge on Sat 17 Oct, Tokyo. 6 artists on the bill: AKIRAM EN, Kazu, Lisa Mizuno and Mars89 and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

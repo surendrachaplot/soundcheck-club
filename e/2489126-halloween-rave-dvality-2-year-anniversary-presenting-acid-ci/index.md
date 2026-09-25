@@ -1,6 +1,6 @@
 # HALLOWEEN RAVE : DVALITY 2 YEAR ANNIVERSARY PRESENTING ACID CIRCUS FEATURING: DANI THORNE at F8 1192 Folsom
 
-HALLOWEEN RAVE : DVALITY 2 YEAR ANNIVERSARY PRESENTING ACID CIRCUS FEATURING: DANI THORNE at F8 1192 Folsom on Fri 16 Oct, Sanfrancisco. Techno and Acid. Preview the line-up and save it on soundcheck.
+HALLOWEEN RAVE : DVALITY 2 YEAR ANNIVERSARY PRESENTING ACID CIRCUS FEATURING: DANI THORNE at F8 1192 Folsom on Fri 16 Oct, San Francisco/Oakland. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

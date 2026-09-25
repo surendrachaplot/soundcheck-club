@@ -1,6 +1,6 @@
 # CORRIDOR: Scheibenwischer (AU) / D3TRMNT / Solvaer / Emma Priis / Kræet / Mir at MODULE
 
-CORRIDOR: Scheibenwischer (AU) / D3TRMNT / Solvaer / Emma Priis / Kræet / Mir at MODULE on Sat 3 Oct, Copenhagen. 2 acts on the bill: Emma Priis and Scheibenwischer. Techno. Preview the line-up and save it on soundcheck.
+CORRIDOR: Scheibenwischer (AU) / D3TRMNT / Solvaer / Emma Priis / Kræet / Mir at MODULE on Sat 3 Oct, Copenhagen. 2 artists on the bill: Emma Priis and Scheibenwischer. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Not Waiting at People's Leisure Club
 
-Not Waiting at People's Leisure Club on Thu 1 Oct, Edinburgh. 2 acts on the bill: Accident Machine and DMG Music. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Not Waiting at People's Leisure Club on Thu 1 Oct, Edinburgh. 2 artists on the bill: Accident Machine and DMG Music. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

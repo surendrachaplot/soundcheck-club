@@ -1,6 +1,6 @@
 # Future Awkward with Ken Ishii at Den Anden Side
 
-Future Awkward with Ken Ishii at Den Anden Side on Fri 9 Oct, Copenhagen. 3 acts on the bill: Ctrls, Holtz (2) and Ken Ishii. Techno. Preview the line-up and save it on soundcheck.
+Future Awkward with Ken Ishii at Den Anden Side on Fri 9 Oct, Copenhagen. 3 artists on the bill: Ctrls, Holtz and Ken Ishii. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LIV DEL ESTAL at Elysée Montmartre
 
-LIV DEL ESTAL at Elysée Montmartre on Thu 26 Nov, Paris. 1 act on the bill: Liv del Estal. Preview the line-up and save it on soundcheck.
+LIV DEL ESTAL at Elysée Montmartre on Thu 26 Nov, Paris. 1 artist on the bill: Liv del Estal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

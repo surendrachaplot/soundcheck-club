@@ -1,6 +1,6 @@
 # Crushed: 3rd Bday Party at Komedia Brighton
 
-Crushed: 3rd Bday Party at Komedia Brighton on Fri 25 Sept, Brighton. 1 act on the bill: Areola Grande Latte. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
+Crushed: 3rd Bday Party at Komedia Brighton on Fri 25 Sept, Brighton. 1 artist on the bill: Areola Grande Latte. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

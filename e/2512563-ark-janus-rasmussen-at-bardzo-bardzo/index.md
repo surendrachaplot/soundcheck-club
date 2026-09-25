@@ -1,6 +1,6 @@
 # ARK: Janus Rasmussen at BARdzo bardzo
 
-ARK: Janus Rasmussen at BARdzo bardzo on Fri 27 Nov, Warsaw. 1 act on the bill: Janus Rasmussen. Electro and Deep House. Preview the line-up and save it on soundcheck.
+ARK: Janus Rasmussen at BARdzo bardzo on Fri 27 Nov, Warsaw. 1 artist on the bill: Janus Rasmussen. Electro and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

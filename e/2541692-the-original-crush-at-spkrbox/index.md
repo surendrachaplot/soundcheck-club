@@ -1,6 +1,6 @@
 # The Original Crush at Spkrbox
 
-The Original Crush at Spkrbox on Fri 25 Sept, Detroit. 4 acts on the bill: DJ Good Evening, Joshua Tree, Mira and Nick Kothari. Techno and House. Preview the line-up and save it on soundcheck.
+The Original Crush at Spkrbox on Fri 25 Sept, Detroit. 4 artists on the bill: DJ Good Evening, Joshua Tree, Mira and Nick Kothari. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

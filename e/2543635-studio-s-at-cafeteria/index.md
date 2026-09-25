@@ -1,6 +1,6 @@
 # Studio S at Cafeteria
 
-Studio S at Cafeteria on Fri 2 Oct, Toronto. 5 acts on the bill: Amedeo (CA), Blkvirgo, HYMZ and Prince Josh and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Studio S at Cafeteria on Fri 2 Oct, Toronto. 5 artists on the bill: Amedeo (CA), Blkvirgo, HYMZ and Prince Josh and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

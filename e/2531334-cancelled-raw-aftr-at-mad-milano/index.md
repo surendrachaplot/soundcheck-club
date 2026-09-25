@@ -1,6 +1,6 @@
 # CANCELLED - RAW//AFTR at MAD Milano
 
-CANCELLED - RAW//AFTR at MAD Milano on Sat 26 Sept, Milan. 3 acts on the bill: Münich, RIBLX and Simone Zino. Preview the line-up and save it on soundcheck.
+CANCELLED - RAW//AFTR at MAD Milano on Sat 26 Sept, Milan. 3 artists on the bill: Münich, RIBLX and Simone Zino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

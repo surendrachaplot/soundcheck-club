@@ -2,7 +2,7 @@
 
 Lee Mvtthews is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
 
-Lee Mvtthews is a drum & bass and bass artist tracked on soundcheck, with 13 sets logged across Amsterdam, Auckland, Austin and Brisbane and 6 more. Often billed alongside Andy C, Break and S.P.Y. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed 30 Dec.
+Lee Mvtthews is a drum & bass and bass artist based in New Zealand, tracked on soundcheck, with 13 sets logged across Amsterdam, Auckland, Austin and Brisbane and 6 more. Often billed alongside Andy C, Break and S.P.Y. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North Island on Wed 30 Dec.
 
 ## Upcoming shows
 

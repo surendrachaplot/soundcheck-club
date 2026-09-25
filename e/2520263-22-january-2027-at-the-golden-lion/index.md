@@ -1,6 +1,6 @@
 # 22 January 2027 at The Golden Lion
 
-22 January 2027 at The Golden Lion on Fri 22 Jan, Manchester. 4 acts on the bill: James Holroyd, Jane Fitz, Sean Johnston and Vladimir Ivkovic. Preview the line-up and save it on soundcheck.
+22 January 2027 at The Golden Lion on Fri 22 Jan, Manchester. 4 artists on the bill: James Holroyd, Jane Fitz, Sean Johnston and Vladimir Ivkovic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sewerside Bombers at The Redwood Bar And Grill
 
-Sewerside Bombers at The Redwood Bar And Grill on Sun 18 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+Sewerside Bombers at The Redwood Bar And Grill on Sun 18 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

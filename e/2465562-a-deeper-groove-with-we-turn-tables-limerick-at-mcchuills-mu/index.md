@@ -1,6 +1,6 @@
 # A Deeper Groove with We Turn Tables (Limerick) at McChuills Music Bar
 
-A Deeper Groove with We Turn Tables (Limerick) at McChuills Music Bar on Sat 3 Oct, Glasgow. 4 acts on the bill: Chris Hewitt, JOC (A Deeper Groove), Ross Purcell and Steph (A Deeper Groove). House and Deep House. Preview the line-up and save it on soundcheck.
+A Deeper Groove with We Turn Tables (Limerick) at McChuills Music Bar on Sat 3 Oct, Glasgow. 4 artists on the bill: Chris Hewitt, JOC (A Deeper Groove), Ross Purcell and Steph (A Deeper Groove). House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

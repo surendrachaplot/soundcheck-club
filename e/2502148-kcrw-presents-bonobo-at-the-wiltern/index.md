@@ -1,6 +1,6 @@
 # KCRW presents Bonobo at The Wiltern
 
-KCRW presents Bonobo at The Wiltern on Wed 11 Nov, Losangeles. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
+KCRW presents Bonobo at The Wiltern on Wed 11 Nov, Los Angeles. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

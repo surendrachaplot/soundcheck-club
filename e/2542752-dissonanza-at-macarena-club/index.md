@@ -1,6 +1,6 @@
 # Dissonanza at Macarena Club
 
-Dissonanza at Macarena Club on Thu 1 Oct, Barcelona. 3 acts on the bill: Cipy, Ivan Pugliares and SABALZA. Preview the line-up and save it on soundcheck.
+Dissonanza at Macarena Club on Thu 1 Oct, Barcelona. 3 artists on the bill: Cipy, Ivan Pugliares and SABALZA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Morevi: Givi Gelashvili, Head High, skyra, Verbal at Bassiani
 
-Morevi: Givi Gelashvili, Head High, skyra, Verbal at Bassiani on Sat 26 Sept, Tbilisi. 4 acts on the bill: Givi Gelashvili, Head High, skyra and Verbal (1). Preview the line-up and save it on soundcheck.
+Morevi: Givi Gelashvili, Head High, skyra, Verbal at Bassiani on Sat 26 Sept, Tbilisi. 4 artists on the bill: Givi Gelashvili, Head High, skyra and Verbal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

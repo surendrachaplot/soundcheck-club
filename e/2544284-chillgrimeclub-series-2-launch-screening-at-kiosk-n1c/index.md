@@ -1,6 +1,6 @@
 # *chillgrimeclub series 2 (launch+screening) at Kiosk N1C
 
-*chillgrimeclub series 2 (launch+screening) at Kiosk N1C on Wed 30 Sept, London. 3 acts on the bill: Chedda Bred, leverson and Özten. Grime and Jazz. Preview the line-up and save it on soundcheck.
+*chillgrimeclub series 2 (launch+screening) at Kiosk N1C on Wed 30 Sept, London. 3 artists on the bill: Chedda Bred, leverson and Özten. Grime and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

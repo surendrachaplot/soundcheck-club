@@ -2,7 +2,7 @@
 
 3TB (1) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bike Jesus, Prague on Sat, 26 Sept 2026.
 
-3TB (1) is a tech house and techno artist based in Czech Republic, tracked on soundcheck, with 8 sets logged across Prague. Often billed alongside abecko, Kirill Astra and Markel. Next up: Bike Jesus, Prague on Sat 26 Sept.
+3TB is a tech house and techno artist based in Czech Republic, tracked on soundcheck, with 8 sets logged across Prague. Often billed alongside abecko, Kirill Astra and Markel. Next up: Bike Jesus, Prague on Sat 26 Sept.
 
 ## Upcoming shows
 

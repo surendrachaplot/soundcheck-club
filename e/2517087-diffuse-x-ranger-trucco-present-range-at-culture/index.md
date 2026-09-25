@@ -1,6 +1,6 @@
 # Diffuse x Ranger Trucco present: Range at Culture
 
-Diffuse x Ranger Trucco present: Range at Culture on Sun 18 Oct, Washingtondc. 1 act on the bill: Ranger Trucco. House and Tech House. Preview the line-up and save it on soundcheck.
+Diffuse x Ranger Trucco present: Range at Culture on Sun 18 Oct, Washington DC. 1 artist on the bill: Ranger Trucco. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

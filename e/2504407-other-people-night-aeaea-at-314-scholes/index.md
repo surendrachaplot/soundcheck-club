@@ -1,6 +1,6 @@
 # Other People Night: AEAEA at 314 Scholes
 
-Other People Night: AEAEA at 314 Scholes on Fri 25 Sept, Newyorkcity. 1 act on the bill: Nicolas Jaar. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Other People Night: AEAEA at 314 Scholes on Fri 25 Sept, New York City. 1 artist on the bill: Nicolas Jaar. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

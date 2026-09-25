@@ -1,6 +1,6 @@
 # Echonomist · BLACK SPACE · Jeremy Sunsets · La Forêt at Audio Club
 
-Echonomist · BLACK SPACE · Jeremy Sunsets · La Forêt at Audio Club on Sat 3 Oct, Geneva. 3 acts on the bill: Echonomist, Jeremy Sunsets and La Forêt. Preview the line-up and save it on soundcheck.
+Echonomist · BLACK SPACE · Jeremy Sunsets · La Forêt at Audio Club on Sat 3 Oct, Geneva. 3 artists on the bill: Echonomist, Jeremy Sunsets and La Forêt. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RIOT CLUB (AN ELECTRO SLEAZE PARTY) at TBA
 
-RIOT CLUB (AN ELECTRO SLEAZE PARTY) at TBA on Sat 3 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.
+RIOT CLUB (AN ELECTRO SLEAZE PARTY) at TBA on Sat 3 Oct, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

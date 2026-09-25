@@ -1,6 +1,6 @@
 # Golden Record NYC x TAMED present D'Julz, Benny Soto & Miguel Gallardo at Green Room NYC
 
-Golden Record NYC x TAMED present D'Julz, Benny Soto & Miguel Gallardo at Green Room NYC on Fri 25 Sept, Newyorkcity. 5 acts on the bill: Benny Soto, Borak, D'Julz and Joiah and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Golden Record NYC x TAMED present D'Julz, Benny Soto & Miguel Gallardo at Green Room NYC on Fri 25 Sept, New York City. 5 artists on the bill: Benny Soto, Borak, D'Julz and Joiah and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

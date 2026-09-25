@@ -1,6 +1,6 @@
 # Shine On You Opening Party at Bunker
 
-Shine On You Opening Party at Bunker on Sun 27 Sept, Turin. 5 acts on the bill: Alexander Skancke, Francesco Lupica, Jonny N Travis and Luca Cazal and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Shine On You Opening Party at Bunker on Sun 27 Sept, Turin. 5 artists on the bill: Alexander Skancke, Francesco Lupica, Jonny N Travis and Luca Cazal and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

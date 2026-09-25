@@ -1,6 +1,6 @@
 # fabric Continuum: RPR Soundsystem + more tba (24+ Hours of uninterrupted music) at fabric
 
-fabric Continuum: RPR Soundsystem + more tba (24+ Hours of uninterrupted music) on Sat 12 Dec, London. 4 acts on the bill: Petre Inspirescu, Raresh, Rhadoo and RPR Soundsystem. Techno and House. Preview the line-up and save it on soundcheck.
+fabric Continuum: RPR Soundsystem + more tba (24+ Hours of uninterrupted music) on Sat 12 Dec, London. 4 artists on the bill: Petre Inspirescu, Raresh, Rhadoo and RPR Soundsystem. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

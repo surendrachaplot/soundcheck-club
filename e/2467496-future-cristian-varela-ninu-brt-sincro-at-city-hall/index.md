@@ -1,6 +1,6 @@
 # FUTURE: Cristian Varela, Ninu Brt & Sincro at City Hall
 
-FUTURE: Cristian Varela, Ninu Brt & Sincro at City Hall on Sat 26 Sept, Barcelona. 1 act on the bill: Cristian Varela. Techno and Acid. Preview the line-up and save it on soundcheck.
+FUTURE: Cristian Varela, Ninu Brt & Sincro at City Hall on Sat 26 Sept, Barcelona. 1 artist on the bill: Cristian Varela. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

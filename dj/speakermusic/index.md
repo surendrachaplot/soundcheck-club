@@ -2,7 +2,7 @@
 
 Speaker Music is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Viff Centre, Vancouver on Fri, 2 Oct 2026.
 
-Speaker Music is an experimental and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across London, Losangeles, Manchester and Newyorkcity and 4 more. Often billed alongside Endgame, Kode9 and MIIIA. Next up: Viff Centre, Vancouver on Fri 2 Oct.
+Speaker Music is an experimental and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across London, Los Angeles, Manchester and New York City and 4 more. Often billed alongside Endgame, Kode9 and MIIIA. Next up: Viff Centre, Vancouver on Fri 2 Oct.
 
 ## Upcoming shows
 

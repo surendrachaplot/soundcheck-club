@@ -2,7 +2,7 @@
 
 Gio Elia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Floyd, Miami on Fri, 25 Sept 2026.
 
-Gio Elia is a techno and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, Mexicocity, Miami and Munich and 3 more. Often billed alongside True Vine, Bort and Danny Daze. Next up: Floyd, Miami on Fri 25 Sept.
+Gio Elia is a techno and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, Mexico City, Miami and Munich and 3 more. Often billed alongside True Vine, Bort and Danny Daze. Next up: Floyd, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 

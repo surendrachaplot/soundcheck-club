@@ -1,6 +1,6 @@
 # INTENTION (TECHNO/TRANCE) at WOMB
 
-INTENTION (TECHNO/TRANCE) at WOMB on Sat 26 Sept, Tokyo. 9 acts on the bill: Dani Savant, Drunken Kong, Mayuri and MISA and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+INTENTION (TECHNO/TRANCE) at WOMB on Sat 26 Sept, Tokyo. 9 artists on the bill: Dani Savant, Drunken Kong, Mayuri and MISA and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

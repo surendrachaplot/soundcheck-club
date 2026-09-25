@@ -1,6 +1,6 @@
 # GROW THE CULTURE OPEN AIR 2026 at Oba Camp Village
 
-GROW THE CULTURE OPEN AIR 2026 at Oba Camp Village on Sat 7 Nov, Tokyo. 17 acts on the bill: akii, Big Animal Theory, Dayzero and Dx and 13 more. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+GROW THE CULTURE OPEN AIR 2026 at Oba Camp Village on Sat 7 Nov, Tokyo. 17 artists on the bill: akii, Big Animal Theory, Dayzero and Dx and 13 more. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

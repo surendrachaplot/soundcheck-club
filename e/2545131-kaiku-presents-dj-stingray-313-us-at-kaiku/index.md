@@ -1,6 +1,6 @@
 # Kaiku presents: DJ Stingray 313 (US) at Kaiku
 
-Kaiku presents: DJ Stingray 313 (US) on Fri 9 Oct, Helsinki. 3 acts on the bill: babybel, DJ Stingray 313 and Sala (3). Preview the line-up and save it on soundcheck.
+Kaiku presents: DJ Stingray 313 (US) on Fri 9 Oct, Helsinki. 3 artists on the bill: babybel, DJ Stingray 313 and Sala. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

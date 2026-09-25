@@ -1,6 +1,6 @@
 # HORS-SOL at Le Trabendo
 
-HORS-SOL at Le Trabendo on Fri 13 Nov, Paris. 3 acts on the bill: Domi (FR), Mel (FR) and Unai Trotti. Preview the line-up and save it on soundcheck.
+HORS-SOL at Le Trabendo on Fri 13 Nov, Paris. 3 artists on the bill: Domi (FR), Mel (FR) and Unai Trotti. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

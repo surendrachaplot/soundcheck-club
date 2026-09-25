@@ -1,6 +1,6 @@
 # Bassiani 12 at Bassiani
 
-Bassiani 12 on Fri 9 Oct, Tbilisi. 40 acts on the bill: Boyá, Cassy, Dito and DJ Sodeyama and 36 more. Preview the line-up and save it on soundcheck.
+Bassiani 12 on Fri 9 Oct, Tbilisi. 40 artists on the bill: Boyá, Cassy, Dito and DJ Sodeyama and 36 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

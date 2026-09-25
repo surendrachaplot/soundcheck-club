@@ -1,6 +1,6 @@
 # RABO HOUSE at LK Lounge
 
-RABO HOUSE at LK Lounge on Fri 25 Sept, Newyorkcity. Afro House and Afrobeats. Preview the line-up and save it on soundcheck.
+RABO HOUSE at LK Lounge on Fri 25 Sept, New York City. Afro House and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

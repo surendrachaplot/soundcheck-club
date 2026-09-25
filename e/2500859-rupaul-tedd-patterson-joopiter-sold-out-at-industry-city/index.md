@@ -1,6 +1,6 @@
 # RuPaul, Tedd Patterson, Joopiter [SOLD OUT] at Industry City
 
-RuPaul, Tedd Patterson, Joopiter [SOLD OUT] at Industry City on Sat 26 Sept, Newyorkcity. 2 acts on the bill: Joopiter and Tedd Patterson. House and Disco. Preview the line-up and save it on soundcheck.
+RuPaul, Tedd Patterson, Joopiter [SOLD OUT] at Industry City on Sat 26 Sept, New York City. 2 artists on the bill: Joopiter and Tedd Patterson. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

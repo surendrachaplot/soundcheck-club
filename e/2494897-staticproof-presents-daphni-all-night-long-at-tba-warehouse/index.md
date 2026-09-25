@@ -1,6 +1,6 @@
 # STATICPROOF presents: Daphni All Night Long at TBA - Warehouse
 
-STATICPROOF presents: Daphni All Night Long at TBA - Warehouse on Sat 26 Sept, Denver. 1 act on the bill: Daphni. Garage and Club. Preview the line-up and save it on soundcheck.
+STATICPROOF presents: Daphni All Night Long at TBA - Warehouse on Sat 26 Sept, Denver. 1 artist on the bill: Daphni. Garage and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

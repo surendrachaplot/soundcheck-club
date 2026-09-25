@@ -1,6 +1,6 @@
 # HARD TECHNO 'CRACKS' with Messiahwaits(MHz, Berilin), FENGX2 at Blvck Water
 
-HARD TECHNO 'CRACKS' with Messiahwaits(MHz, Berilin), FENGX2 at Blvck Water on Fri 30 Oct, Osaka. 1 act on the bill: FENGX2. Techno. Preview the line-up and save it on soundcheck.
+HARD TECHNO 'CRACKS' with Messiahwaits(MHz, Berilin), FENGX2 at Blvck Water on Fri 30 Oct, Osaka. 1 artist on the bill: FENGX2. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

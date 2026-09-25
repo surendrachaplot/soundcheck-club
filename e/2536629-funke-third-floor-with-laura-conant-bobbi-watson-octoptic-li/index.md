@@ -1,6 +1,6 @@
 # Funke_Third Floor with Laura Conant, Bobbi Watson, Octoptic (live), at Funke
 
-Funke_Third Floor with Laura Conant, Bobbi Watson, Octoptic (live), on Sat 26 Sept, Ghent. 3 acts on the bill: Bobbi Watson, Laura Conant and Octoptic. Preview the line-up and save it on soundcheck.
+Funke_Third Floor with Laura Conant, Bobbi Watson, Octoptic (live), on Sat 26 Sept, Ghent. 3 artists on the bill: Bobbi Watson, Laura Conant and Octoptic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

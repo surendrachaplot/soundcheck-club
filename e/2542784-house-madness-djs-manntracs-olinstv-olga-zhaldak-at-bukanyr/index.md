@@ -1,6 +1,6 @@
 # House Madness - djs Manntracs, Olinství, Olga Zhaldak at Bukanyr Boat
 
-House Madness - djs Manntracs, Olinství, Olga Zhaldak at Bukanyr Boat on Sat 17 Oct, Prague. 3 acts on the bill: Manntracs, Olga Zhaldak and Olinstvi. Techno and House. Preview the line-up and save it on soundcheck.
+House Madness - djs Manntracs, Olinství, Olga Zhaldak at Bukanyr Boat on Sat 17 Oct, Prague. 3 artists on the bill: Manntracs, Olga Zhaldak and Olinstvi. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

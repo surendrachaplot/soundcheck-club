@@ -1,6 +1,6 @@
 # Music Reactions pres. UNREAL x KUKO All Night Long World Tour at TBA - MATREZ, Žorža Klemansoa 37, 11000
 
-Music Reactions pres. UNREAL x KUKO All Night Long World Tour at TBA - MATREZ, Žorža Klemansoa 37, 11000 on Sat 7 Nov, Belgrade. 1 act on the bill: KUKO. Techno. Preview the line-up and save it on soundcheck.
+Music Reactions pres. UNREAL x KUKO All Night Long World Tour at TBA - MATREZ, Žorža Klemansoa 37, 11000 on Sat 7 Nov, Belgrade. 1 artist on the bill: KUKO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

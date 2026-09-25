@@ -2,7 +2,7 @@
 
 JADE CAO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Echostage, Washington DC on Sat, 26 Sept 2026.
 
-JADE CAO is a techno and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Boston, Newyorkcity and Washingtondc. Often billed alongside Matthew Cha, CLAUDIX and Marteka Fair. Next up: Echostage, Washingtondc on Sat 26 Sept.
+JADE CAO is a techno and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Boston, New York City and Washington DC. Often billed alongside Matthew Cha, CLAUDIX and Marteka Fair. Next up: Echostage, Washington DC on Sat 26 Sept.
 
 ## Upcoming shows
 

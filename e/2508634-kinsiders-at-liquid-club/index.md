@@ -1,6 +1,6 @@
 # KINSIDERS at Liquid Club
 
-KINSIDERS at Liquid Club on Fri 9 Oct, Malta. 1 act on the bill: Rensei. Techno. Preview the line-up and save it on soundcheck.
+KINSIDERS at Liquid Club on Fri 9 Oct, Malta. 1 artist on the bill: Rensei. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

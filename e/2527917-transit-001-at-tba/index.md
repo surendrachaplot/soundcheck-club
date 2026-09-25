@@ -1,6 +1,6 @@
 # Transit #001 at TBA
 
-Transit #001 at TBA on Sat 26 Sept, Belfast. 2 acts on the bill: HUTS and KACPER. Techno. Preview the line-up and save it on soundcheck.
+Transit #001 at TBA on Sat 26 Sept, Belfast. 2 artists on the bill: HUTS and KACPER. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

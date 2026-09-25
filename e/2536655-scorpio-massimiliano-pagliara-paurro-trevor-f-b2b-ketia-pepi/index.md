@@ -1,6 +1,6 @@
 # SCORPIO: Massimiliano Pagliara, PAURRO, trevor.f b2b ketia, PEPIITA at Virage
 
-SCORPIO: Massimiliano Pagliara, PAURRO, trevor.f b2b ketia, PEPIITA at Virage on Fri 25 Sept, Paris. 5 acts on the bill: ketia, Massimiliano Pagliara, PAURRO and PEPIITA and 1 more. Techno. Preview the line-up and save it on soundcheck.
+SCORPIO: Massimiliano Pagliara, PAURRO, trevor.f b2b ketia, PEPIITA at Virage on Fri 25 Sept, Paris. 5 artists on the bill: ketia, Massimiliano Pagliara, PAURRO and PEPIITA and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

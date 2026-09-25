@@ -1,6 +1,6 @@
 # Mall Grab - Montréal at Société des arts technologiques
 
-Mall Grab - Montréal at Société des arts technologiques on Sat 24 Oct, Montreal. 1 act on the bill: Mall Grab. Techno and House. Preview the line-up and save it on soundcheck.
+Mall Grab - Montréal at Société des arts technologiques on Sat 24 Oct, Montreal. 1 artist on the bill: Mall Grab. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

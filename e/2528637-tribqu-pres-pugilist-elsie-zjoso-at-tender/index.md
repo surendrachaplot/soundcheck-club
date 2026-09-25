@@ -1,6 +1,6 @@
 # Tribqu pres. Pugilist, Elsie & Zjoso at Tender
 
-Tribqu pres. Pugilist, Elsie & Zjoso at Tender on Sat 26 Sept, Melbourne. 3 acts on the bill: Elsie, Pugilist and Zjoso. Ambient and Dub. Preview the line-up and save it on soundcheck.
+Tribqu pres. Pugilist, Elsie & Zjoso at Tender on Sat 26 Sept, Melbourne. 3 artists on the bill: Elsie, Pugilist and Zjoso. Ambient and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

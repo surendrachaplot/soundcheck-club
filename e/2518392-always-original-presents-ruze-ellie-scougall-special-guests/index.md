@@ -1,6 +1,6 @@
 # Always Original presents RUZE, Ellie Scougall + Special Guests at World Headquarters
 
-Always Original presents RUZE, Ellie Scougall + Special Guests at World Headquarters on Fri 25 Sept, Newcastle. 3 acts on the bill: Ellie Scougall, Max Jones and RUZE. Techno and House. Preview the line-up and save it on soundcheck.
+Always Original presents RUZE, Ellie Scougall + Special Guests at World Headquarters on Fri 25 Sept, Newcastle. 3 artists on the bill: Ellie Scougall, Max Jones and RUZE. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Koenji Cave presents Gravity Vol.22 at Koenji Cave
 
-Koenji Cave presents Gravity Vol.22 on Sat 3 Oct, Tokyo. 2 acts on the bill: Dustvoxx and NAGEE. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Koenji Cave presents Gravity Vol.22 on Sat 3 Oct, Tokyo. 2 artists on the bill: Dustvoxx and NAGEE. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

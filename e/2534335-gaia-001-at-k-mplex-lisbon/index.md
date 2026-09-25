@@ -1,6 +1,6 @@
 # Gaia #001 at Kømplex Lisbon
 
-Gaia #001 at Kømplex Lisbon on Sun 4 Oct, Lisbon. 6 acts on the bill: BIIANCO, FURAVIA, future.666 and KTK (DE) and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Gaia #001 at Kømplex Lisbon on Sun 4 Oct, Lisbon. 6 artists on the bill: BIIANCO, FURAVIA, future.666 and KTK (DE) and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

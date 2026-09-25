@@ -2,7 +2,7 @@
 
 bojvck is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at RO Seoul, Seoul on Fri, 25 Sept 2026.
 
-bojvck is a club and bass artist based in South Korea, tracked on soundcheck, with 102 sets logged across Hongkong, London, Paris and Seoul and 2 more. Often billed alongside DJ Co.kr, DJ POOL and SINAHILL. Next up: RO Seoul, Seoul on Fri 25 Sept.
+bojvck is a club and bass artist based in South Korea, tracked on soundcheck, with 102 sets logged across Hong Kong, London, Paris and Seoul and 2 more. Often billed alongside DJ Co.kr, DJ POOL and SINAHILL. Next up: RO Seoul, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 

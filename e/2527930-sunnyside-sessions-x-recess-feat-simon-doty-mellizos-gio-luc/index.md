@@ -1,6 +1,6 @@
 # Sunnyside Sessions x Recess feat. Simon Doty, Mellizos, Gio Lucca at Sunnyside Pavilion
 
-Sunnyside Sessions x Recess feat. Simon Doty, Mellizos, Gio Lucca at Sunnyside Pavilion on Sat 26 Sept, Toronto. 2 acts on the bill: Gio Lucca and Simon Doty. House and Tech House. Preview the line-up and save it on soundcheck.
+Sunnyside Sessions x Recess feat. Simon Doty, Mellizos, Gio Lucca at Sunnyside Pavilion on Sat 26 Sept, Toronto. 2 artists on the bill: Gio Lucca and Simon Doty. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

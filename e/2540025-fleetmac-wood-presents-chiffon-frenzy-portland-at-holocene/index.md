@@ -1,6 +1,6 @@
 # Fleetmac Wood presents Chiffon Frenzy - Portland at Holocene
 
-Fleetmac Wood presents Chiffon Frenzy - Portland at Holocene on Sun 15 Nov, Portland. 3 acts on the bill: Alex Oxley, Fleetmac Wood and Roxanne Roll. Disco. Preview the line-up and save it on soundcheck.
+Fleetmac Wood presents Chiffon Frenzy - Portland at Holocene on Sun 15 Nov, Portland. 3 artists on the bill: Alex Oxley, Fleetmac Wood and Roxanne Roll. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

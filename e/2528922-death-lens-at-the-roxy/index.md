@@ -1,6 +1,6 @@
 # Death Lens at The Roxy
 
-Death Lens at The Roxy on Sat 3 Oct, Losangeles. 1 act on the bill: Chico. Hardcore. Preview the line-up and save it on soundcheck.
+Death Lens at The Roxy on Sat 3 Oct, Los Angeles. 1 artist on the bill: Chico. Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

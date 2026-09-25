@@ -1,6 +1,6 @@
 # WELKER at Audio SF
 
-WELKER at Audio SF on Fri 25 Sept, Sanfrancisco. Preview the line-up and save it on soundcheck.
+WELKER at Audio SF on Fri 25 Sept, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

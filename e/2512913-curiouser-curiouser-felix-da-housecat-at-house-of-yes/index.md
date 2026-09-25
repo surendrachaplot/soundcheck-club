@@ -1,6 +1,6 @@
 # Curiouser & Curiouser: Felix Da Housecat at House of Yes
 
-Curiouser & Curiouser: Felix Da Housecat at House of Yes on Sat 28 Nov, Newyorkcity. 1 act on the bill: Felix Da Housecat. House and Club. Preview the line-up and save it on soundcheck.
+Curiouser & Curiouser: Felix Da Housecat at House of Yes on Sat 28 Nov, New York City. 1 artist on the bill: Felix Da Housecat. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

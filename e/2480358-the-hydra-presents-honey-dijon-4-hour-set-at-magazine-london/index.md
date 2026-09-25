@@ -1,6 +1,6 @@
 # The Hydra presents Honey Dijon - 4 Hour Set at Magazine London
 
-The Hydra presents Honey Dijon - 4 Hour Set at Magazine London on Sat 31 Oct, London. 1 act on the bill: Honey Dijon. Preview the line-up and save it on soundcheck.
+The Hydra presents Honey Dijon - 4 Hour Set at Magazine London on Sat 31 Oct, London. 1 artist on the bill: Honey Dijon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Autechre at Le Lieu Unique / Nantes
 
-Autechre at Le Lieu Unique / Nantes on Thu 15 Oct, Nantes. 1 act on the bill: Autechre. IDM. Preview the line-up and save it on soundcheck.
+Autechre at Le Lieu Unique / Nantes on Thu 15 Oct, Nantes. 1 artist on the bill: Autechre. IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Ali Berger is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 30 Sept 2026.
 
-Ali Berger is a house and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Chicago, Detroit, Newyorkcity and Washingtondc. Often billed alongside Russell E.L. Butler, Davis Galvin and Francis Harris. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 30 Sept.
+Ali Berger is a house and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Chicago, Detroit, New York City and Washington DC. Often billed alongside Russell E.L. Butler, Davis Galvin and Francis Harris. Next up: Bossa Nova Civic Club, New York City on Wed 30 Sept.
 
 ## Upcoming shows
 

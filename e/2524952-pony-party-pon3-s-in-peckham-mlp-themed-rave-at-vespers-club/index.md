@@ -1,6 +1,6 @@
 # Pony Party! // PON3'S IN PECKHAM! ⋆.˚˖࿔ ࣪ (MLP THEMED RAVE) at Vespers Club
 
-Pony Party! // PON3'S IN PECKHAM! ⋆.˚˖࿔ ࣪ (MLP THEMED RAVE) at Vespers Club on Fri 20 Nov, London. 3 acts on the bill: it_dont_Matt.er, Meow Meow and Takenbymarshall. Club and IDM. Preview the line-up and save it on soundcheck.
+Pony Party! // PON3'S IN PECKHAM! ⋆.˚˖࿔ ࣪ (MLP THEMED RAVE) at Vespers Club on Fri 20 Nov, London. 3 artists on the bill: it_dont_Matt.er, Meow Meow and Takenbymarshall. Club and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

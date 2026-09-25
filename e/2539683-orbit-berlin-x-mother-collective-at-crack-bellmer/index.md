@@ -1,6 +1,6 @@
 # Orbit Berlin x MOTHER COLLECTIVE at Crack Bellmer
 
-Orbit Berlin x MOTHER COLLECTIVE at Crack Bellmer on Fri 25 Sept, Berlin. 5 acts on the bill: ANTØNIØ., G.oss, Kobzev and LUISELLE and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Orbit Berlin x MOTHER COLLECTIVE at Crack Bellmer on Fri 25 Sept, Berlin. 5 artists on the bill: ANTØNIØ., G.oss, Kobzev and LUISELLE and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

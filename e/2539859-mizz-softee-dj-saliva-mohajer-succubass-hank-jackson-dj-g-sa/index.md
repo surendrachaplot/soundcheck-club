@@ -1,6 +1,6 @@
 # Mizz Softee: Dj Saliva, Mohajer, Succubass, Hank Jackson, DJ G, Samwise, Samuel Fish + more at Signal
 
-Mizz Softee: Dj Saliva, Mohajer, Succubass, Hank Jackson, DJ G, Samwise, Samuel Fish + more at Signal on Sun 11 Oct, Newyorkcity. 9 acts on the bill: DJ G., Dj Saliva, Eugenia and Hank Jackson and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+Mizz Softee: Dj Saliva, Mohajer, Succubass, Hank Jackson, DJ G, Samwise, Samuel Fish + more at Signal on Sun 11 Oct, New York City. 9 artists on the bill: DJ G., Dj Saliva, Eugenia and Hank Jackson and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

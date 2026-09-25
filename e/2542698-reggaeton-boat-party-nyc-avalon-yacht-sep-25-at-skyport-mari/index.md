@@ -1,6 +1,6 @@
 # Reggaeton Boat Party NYC - Avalon Yacht – Sep 25 at Skyport Marina
 
-Reggaeton Boat Party NYC - Avalon Yacht – Sep 25 at Skyport Marina on Fri 25 Sept, Newyorkcity. 1 act on the bill: TBA. Preview the line-up and save it on soundcheck.
+Reggaeton Boat Party NYC - Avalon Yacht – Sep 25 at Skyport Marina on Fri 25 Sept, New York City. 1 artist on the bill: TBA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

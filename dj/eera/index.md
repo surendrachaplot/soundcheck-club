@@ -2,7 +2,7 @@
 
 Eera is a Electronica and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Danzhaus/The Gingerbread House, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Eera is an electronica and club artist based in United States of America, tracked on soundcheck, with 47 sets logged across Austin, Berlin, Boston and Bristol and 20 more. Often billed alongside Snow Strippers, Brutalismus 3000 and Chippy Nonstop. Next up: Danzhaus/The Gingerbread House, Sanfrancisco on Sat 26 Sept.
+Eera is an electronica and club artist based in United States of America, tracked on soundcheck, with 47 sets logged across Austin, Berlin, Boston and Bristol and 20 more. Often billed alongside Snow Strippers, Brutalismus 3000 and Chippy Nonstop. Next up: Danzhaus/The Gingerbread House, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 

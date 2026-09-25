@@ -1,6 +1,6 @@
 # O Yuki Conjugate (Live) at Outlaws Yacht Club
 
-O Yuki Conjugate (Live) at Outlaws Yacht Club on Thu 1 Oct, Leeds. 1 act on the bill: Laura Not. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+O Yuki Conjugate (Live) at Outlaws Yacht Club on Thu 1 Oct, Leeds. 1 artist on the bill: Laura Not. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

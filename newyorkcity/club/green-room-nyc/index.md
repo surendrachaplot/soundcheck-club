@@ -2,7 +2,7 @@
 
 Green Room NYC is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Golden Record NYC presents Bruno Schmidt, Emsho" on Thu, 24 Sept 2026.
 
-Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 11 upcoming gigs, with line-ups including ABEILLE, Amy Jor, Armii1n and Auphoria and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
+Green Room NYC is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including ABEILLE, Amy Jor, Armii1n and Auphoria and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 11 upcoming
 | Fri, 2 Oct 2026 | Golden Record NYC presents Josh Caffé (LIVE), Carlos Souffront, Mike Servito, S4M23 | Carlos Souffront, Josh Caffé, Mike Servito, S4M23 |
 | Fri, 2 Oct 2026 | People You May Know: Rich NXT | Auphoria, Jeny Michelle, MANE (IN), RICCI (US), Rich NXT, sanatswrld |
 | Sat, 3 Oct 2026 | POSER | BEIGE, Griffin Maxwell Brooks, Josh Caffé, Josh Steers, Lauren Flax, Sevyn Love |
-| Fri, 9 Oct 2026 | Golden Record NYC and Vin.yl present Colleen 'Cosmo' Murphy  Que Sakamoto in the Alley | Colleen 'Cosmo' Murphy, Dawidu, Kiyoshi, Morgan, Omer Mil, Que Sakamoto |
+| Fri, 9 Oct 2026 | Golden Record NYC and Vin.yl present Colleen 'Cosmo' Murphy & Que Sakamoto | Colleen 'Cosmo' Murphy, Dawidu, Kiyoshi, Morgan, Omer Mil, Que Sakamoto |
 | Sat, 10 Oct 2026 | Golden Record NYC x Third Floor Sounds present Maurice Fulton | Mario Polanco, Martín, Maurice Fulton, Miss Gypsy, Morgan, Ralph Session, TEE EM DEE |
 | Fri, 16 Oct 2026 | Golden Record NYC x pregame x Chomp! Chomp! present Jay Tripwire, Mike Servito | Armii1n, Gee Dee, Haruka, Jay Tripwire, Lubelski, Mike Servito, Timo Lee |
 

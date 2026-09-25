@@ -1,6 +1,6 @@
 # feedbk with DJ Tree, Dizzy at feedbk
 
-feedbk with DJ Tree, Dizzy on Fri 9 Oct, Newyorkcity. 2 acts on the bill: Dizzy and DJ Tree. Techno and House. Preview the line-up and save it on soundcheck.
+feedbk with DJ Tree, Dizzy on Fri 9 Oct, New York City. 2 artists on the bill: Dizzy and DJ Tree. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

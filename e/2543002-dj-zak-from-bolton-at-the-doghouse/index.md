@@ -1,6 +1,6 @@
 # DJ Zak from Bolton at The Doghouse
 
-DJ Zak from Bolton at The Doghouse on Fri 25 Sept, Edinburgh. 1 act on the bill: DJ Zak from Bolton. Disco. Preview the line-up and save it on soundcheck.
+DJ Zak from Bolton at The Doghouse on Fri 25 Sept, Edinburgh. 1 artist on the bill: DJ Zak from Bolton. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # QTS: Toronto at Bunker Toronto
 
-QTS: Toronto at Bunker Toronto on Fri 16 Oct, Toronto. 1 act on the bill: Farius. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+QTS: Toronto at Bunker Toronto on Fri 16 Oct, Toronto. 1 artist on the bill: Farius. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

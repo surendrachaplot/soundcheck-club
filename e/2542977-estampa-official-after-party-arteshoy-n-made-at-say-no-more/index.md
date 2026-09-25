@@ -1,6 +1,6 @@
 # Estampa Official After Party - ArtesHoy × Nômade at Say No More Madrid
 
-Estampa Official After Party - ArtesHoy × Nômade at Say No More Madrid on Thu 24 Sept, Madrid. 1 act on the bill: Mimi Love. Techno and House. Preview the line-up and save it on soundcheck.
+Estampa Official After Party - ArtesHoy × Nômade at Say No More Madrid on Thu 24 Sept, Madrid. 1 artist on the bill: Mimi Love. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

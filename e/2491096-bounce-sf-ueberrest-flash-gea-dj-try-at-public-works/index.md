@@ -1,6 +1,6 @@
 # Bounce SF: Ueberrest, Flash Gea, & dj try at Public Works
 
-Bounce SF: Ueberrest, Flash Gea, & dj try at Public Works on Fri 6 Nov, Sanfrancisco. 4 acts on the bill: DJ Try (US), Flash Gea, Lil Laurie and Ueberrest. Preview the line-up and save it on soundcheck.
+Bounce SF: Ueberrest, Flash Gea, & dj try at Public Works on Fri 6 Nov, San Francisco/Oakland. 4 artists on the bill: DJ Try (US), Flash Gea, Lil Laurie and Ueberrest. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ？！ at Débris
 
-？！ at Débris on Tue 27 Oct, Tokyo. 1 act on the bill: Oshi. Dub and Experimental. Preview the line-up and save it on soundcheck.
+？！ at Débris on Tue 27 Oct, Tokyo. 1 artist on the bill: Oshi. Dub and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NEST with Mood II Swing, Gallegos, Jana Falcon + more at Kater
 
-NEST with Mood II Swing, Gallegos, Jana Falcon + more at Kater on Fri 27 Nov, Berlin. 7 acts on the bill: Bézier, Esther Dune, Evan Tail and Gallegos and 3 more. House and Acid. Preview the line-up and save it on soundcheck.
+NEST with Mood II Swing, Gallegos, Jana Falcon + more at Kater on Fri 27 Nov, Berlin. 7 artists on the bill: Bézier, Esther Dune, Evan Tail and Gallegos and 3 more. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

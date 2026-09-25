@@ -1,6 +1,6 @@
 # Brutalismus 3000 - Harmony US Tour 2026 at Union Transfer
 
-Brutalismus 3000 - Harmony US Tour 2026 at Union Transfer on Wed 4 Nov, Philadelphia. 3 acts on the bill: Brutalismus 3000, Dorian Electra and Eera. Preview the line-up and save it on soundcheck.
+Brutalismus 3000 - Harmony US Tour 2026 at Union Transfer on Wed 4 Nov, Philadelphia. 3 artists on the bill: Brutalismus 3000, Dorian Electra and Eera. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

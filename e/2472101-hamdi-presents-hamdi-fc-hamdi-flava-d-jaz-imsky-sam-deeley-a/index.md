@@ -1,6 +1,6 @@
 # Hamdi presents Hamdi FC: Hamdi, Flava D, JAZ IMSKY, Sam Deeley at Outernet Live
 
-Hamdi presents Hamdi FC: Hamdi, Flava D, JAZ IMSKY, Sam Deeley at Outernet Live on Sat 21 Nov, London. 4 acts on the bill: Flava D, Hamdi (UK), JAZ IMSKY and Sam Deeley. Preview the line-up and save it on soundcheck.
+Hamdi presents Hamdi FC: Hamdi, Flava D, JAZ IMSKY, Sam Deeley at Outernet Live on Sat 21 Nov, London. 4 artists on the bill: Flava D, Hamdi (UK), JAZ IMSKY and Sam Deeley. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

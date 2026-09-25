@@ -1,6 +1,6 @@
 # BOSSA: Grau, Héctor Pericet, Julio Machicado, Rguinea at EL SÓTANO
 
-BOSSA: Grau, Héctor Pericet, Julio Machicado, Rguinea at EL SÓTANO on Sun 4 Oct, Madrid. 3 acts on the bill: Grau (ES), Héctor Pericet and Julio Machicado. Tech House. Preview the line-up and save it on soundcheck.
+BOSSA: Grau, Héctor Pericet, Julio Machicado, Rguinea at EL SÓTANO on Sun 4 Oct, Madrid. 3 artists on the bill: Grau (ES), Héctor Pericet and Julio Machicado. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

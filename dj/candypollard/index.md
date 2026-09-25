@@ -2,7 +2,7 @@
 
 Candy Pollard is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OHM, Berlin on Sat, 7 Nov 2026.
 
-Candy Pollard is a house and techno artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Frankfurt, Mexicocity and Munich and 1 more. Often billed alongside Ady Toledano, DJ Floppy Disk and David Hornung. Next up: OHM, Berlin on Sat 7 Nov.
+Candy Pollard is a house and techno artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Frankfurt, Mexico City and Munich and 1 more. Often billed alongside Ady Toledano, DJ Floppy Disk and David Hornung. Next up: OHM, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 

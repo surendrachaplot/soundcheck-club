@@ -1,6 +1,6 @@
 # RUNWAY 008 - Halloween Edition at Honey Street Studio
 
-RUNWAY 008 - Halloween Edition at Honey Street Studio on Sat 31 Oct, Manchester. 4 acts on the bill: caonix, Girlfriend, Jase Jeffery and RayRay. Techno and House. Preview the line-up and save it on soundcheck.
+RUNWAY 008 - Halloween Edition at Honey Street Studio on Sat 31 Oct, Manchester. 4 artists on the bill: caonix, Girlfriend, Jase Jeffery and RayRay. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

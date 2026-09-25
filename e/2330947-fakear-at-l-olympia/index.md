@@ -1,6 +1,6 @@
 # Fakear at L'Olympia
 
-Fakear at L'Olympia on Fri 9 Oct, Paris. 1 act on the bill: Fakear. House and Electro. Preview the line-up and save it on soundcheck.
+Fakear at L'Olympia on Fri 9 Oct, Paris. 1 artist on the bill: Fakear. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

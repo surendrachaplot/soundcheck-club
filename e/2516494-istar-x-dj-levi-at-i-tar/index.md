@@ -1,6 +1,6 @@
 # ISTAR x DJ LEVI at Ištar
 
-ISTAR x DJ LEVI at Ištar on Fri 25 Sept, Madrid. 1 act on the bill: Levi (AU). Deep House and Afro House. Preview the line-up and save it on soundcheck.
+ISTAR x DJ LEVI at Ištar on Fri 25 Sept, Madrid. 1 artist on the bill: Levi (AU). Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Adam Des - Cirkle at Eleusis LFC Music Studio
 
-Adam Des - Cirkle at Eleusis LFC Music Studio on Sat 26 Sept, Athens. 2 acts on the bill: Adam Des and Cirkle. Preview the line-up and save it on soundcheck.
+Adam Des - Cirkle at Eleusis LFC Music Studio on Sat 26 Sept, Athens. 2 artists on the bill: Adam Des and Cirkle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

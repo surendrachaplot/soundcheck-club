@@ -1,6 +1,6 @@
 # Dustin Zahn ext set (Enemy Records /USA), Andrea Perna at Azimut Techno Series Opening at Azimut Club
 
-Dustin Zahn ext set (Enemy Records /USA), Andrea Perna at Azimut Techno Series Opening at Azimut Club on Sat 26 Sept, Turin. 2 acts on the bill: Dustin Zahn and Rytm. Techno. Preview the line-up and save it on soundcheck.
+Dustin Zahn ext set (Enemy Records /USA), Andrea Perna at Azimut Techno Series Opening at Azimut Club on Sat 26 Sept, Turin. 2 artists on the bill: Dustin Zahn and Rytm. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

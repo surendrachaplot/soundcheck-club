@@ -1,6 +1,6 @@
 # Club Night at Laak
 
-Club Night at Laak on Fri 2 Oct, Thehague. 5 acts on the bill: Bella Hall, Bruno Pronsato, jojoj and Lolo Batten and 1 more. Preview the line-up and save it on soundcheck.
+Club Night at Laak on Fri 2 Oct, The Hague. 5 artists on the bill: Bella Hall, Bruno Pronsato, jojoj and Lolo Batten and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

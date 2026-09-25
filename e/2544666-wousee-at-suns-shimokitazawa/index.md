@@ -1,6 +1,6 @@
 # WOUSEE at Suns Shimokitazawa
 
-WOUSEE at Suns Shimokitazawa on Fri 25 Sept, Tokyo. 1 act on the bill: SOGI. Preview the line-up and save it on soundcheck.
+WOUSEE at Suns Shimokitazawa on Fri 25 Sept, Tokyo. 1 artist on the bill: SOGI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

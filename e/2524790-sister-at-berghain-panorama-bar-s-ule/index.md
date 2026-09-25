@@ -1,6 +1,6 @@
 # Sister at Berghain | Panorama Bar | Säule
 
-Sister at Berghain | Panorama Bar | Säule on Fri 16 Oct, Berlin. 5 acts on the bill: Ben UFO, DJ Senc, Dulce (1) and Nathalie Seres and 1 more. Preview the line-up and save it on soundcheck.
+Sister at Berghain | Panorama Bar | Säule on Fri 16 Oct, Berlin. 5 artists on the bill: Ben UFO, DJ Senc, Dulce and Nathalie Seres and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

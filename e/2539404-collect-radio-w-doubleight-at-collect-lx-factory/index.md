@@ -1,6 +1,6 @@
 # COLLECT RADIO w/ DOUBLEIGHT at Collect LX Factory
 
-COLLECT RADIO w/ DOUBLEIGHT at Collect LX Factory on Tue 29 Sept, Lisbon. 1 act on the bill: Doubleight. Techno and House. Preview the line-up and save it on soundcheck.
+COLLECT RADIO w/ DOUBLEIGHT at Collect LX Factory on Tue 29 Sept, Lisbon. 1 artist on the bill: Doubleight. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

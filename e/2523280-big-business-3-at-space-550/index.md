@@ -1,6 +1,6 @@
 # Big Business 3 at Space 550
 
-Big Business 3 at Space 550 on Sat 17 Oct, Sanfrancisco. 1 act on the bill: Daizz. Progressive House and Electro. Preview the line-up and save it on soundcheck.
+Big Business 3 at Space 550 on Sat 17 Oct, San Francisco/Oakland. 1 artist on the bill: Daizz. Progressive House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

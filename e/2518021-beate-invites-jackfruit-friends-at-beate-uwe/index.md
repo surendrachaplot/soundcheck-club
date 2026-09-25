@@ -1,6 +1,6 @@
 # Beate Invites /// Jackfruit & Friends at Beate Uwe
 
-Beate Invites /// Jackfruit & Friends at Beate Uwe on Sat 17 Oct, Berlin. 3 acts on the bill: Danilo Kupfernagel, LEENI and Rabella. House and Disco. Preview the line-up and save it on soundcheck.
+Beate Invites /// Jackfruit & Friends at Beate Uwe on Sat 17 Oct, Berlin. 3 artists on the bill: Danilo Kupfernagel, LEENI and Rabella. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DeepDig; Stu Clark (Wolf Music) // Lenny at Grow
 
-DeepDig; Stu Clark (Wolf Music) // Lenny at Grow on Sat 10 Oct, London. 3 acts on the bill: Lenny (UK), Stu Clark and Wolf Music. House and Deep House. Preview the line-up and save it on soundcheck.
+DeepDig; Stu Clark (Wolf Music) // Lenny at Grow on Sat 10 Oct, London. 3 artists on the bill: Lenny (UK), Stu Clark and Wolf Music. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

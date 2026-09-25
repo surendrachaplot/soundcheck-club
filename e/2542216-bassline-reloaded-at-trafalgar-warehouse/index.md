@@ -1,6 +1,6 @@
 # Bassline Reloaded at Trafalgar Warehouse
 
-Bassline Reloaded at Trafalgar Warehouse on Sat 26 Sept, Sheffield. 1 act on the bill: DJ Pantha. Preview the line-up and save it on soundcheck.
+Bassline Reloaded at Trafalgar Warehouse on Sat 26 Sept, Sheffield. 1 artist on the bill: DJ Pantha. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

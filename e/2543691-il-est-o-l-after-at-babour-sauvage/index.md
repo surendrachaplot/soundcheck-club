@@ -1,6 +1,6 @@
 # ¡Il est où l'after at Babour Sauvage
 
-¡Il est où l'after at Babour Sauvage on Sat 26 Sept, Paris. 2 acts on the bill: Himeji and Manon Démon. Techno. Preview the line-up and save it on soundcheck.
+¡Il est où l'after at Babour Sauvage on Sat 26 Sept, Paris. 2 artists on the bill: Himeji and Manon Démon. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

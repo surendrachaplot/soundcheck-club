@@ -1,6 +1,6 @@
 # NT's Loft: n4tee, ELOQ, DAISY at Night Tales Loft
 
-NT's Loft: n4tee, ELOQ, DAISY at Night Tales Loft on Fri 2 Oct, London. 3 acts on the bill: DAISY, ELOQ and n4tee. House and Garage. Preview the line-up and save it on soundcheck.
+NT's Loft: n4tee, ELOQ, DAISY at Night Tales Loft on Fri 2 Oct, London. 3 artists on the bill: DAISY, ELOQ and n4tee. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

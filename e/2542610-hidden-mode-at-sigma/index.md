@@ -1,6 +1,6 @@
 # Hidden Mode at Sigma
 
-Hidden Mode at Sigma on Sat 26 Sept, Ibiza. 2 acts on the bill: Caron and KAIKAI. Minimal. Preview the line-up and save it on soundcheck.
+Hidden Mode at Sigma on Sat 26 Sept, Ibiza. 2 artists on the bill: Caron and KAIKAI. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

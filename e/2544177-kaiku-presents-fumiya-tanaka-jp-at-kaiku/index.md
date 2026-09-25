@@ -1,6 +1,6 @@
 # Kaiku presents: Fumiya Tanaka (JP) at Kaiku
 
-Kaiku presents: Fumiya Tanaka (JP) on Sat 3 Oct, Helsinki. 4 acts on the bill: Ben Bostik, Eric Filipus, Fumiya Tanaka and Lil Tony. Preview the line-up and save it on soundcheck.
+Kaiku presents: Fumiya Tanaka (JP) on Sat 3 Oct, Helsinki. 4 artists on the bill: Ben Bostik, Eric Filipus, Fumiya Tanaka and Lil Tony. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Concrete Husband is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BASEMENT, New York City on Sat, 3 Oct 2026.
 
-Concrete Husband is a techno and house artist based in United States of America, tracked on soundcheck, with 127 sets logged across Amsterdam, Berlin, Boston and Copenhagen and 6 more. Often billed alongside ALL EXITS, Juana and KXAH. Next up: BASEMENT, Newyorkcity on Sat 3 Oct.
+Concrete Husband is a techno and house artist based in United States of America, tracked on soundcheck, with 127 sets logged across Amsterdam, Berlin, Boston and Copenhagen and 6 more. Often billed alongside ALL EXITS, Juana and KXAH. Next up: BASEMENT, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 

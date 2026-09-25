@@ -1,13 +1,14 @@
 # Costanza
 
-Costanza is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ingang, Amsterdam on Thu, 22 Oct 2026.
+Costanza is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fvtvr, Paris on Sat, 17 Oct 2026.
 
-Costanza is a techno and trance artist based in Italy, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Freddy K, Chami and D.Dan. Next up: ingang, Amsterdam on Thu 22 Oct.
+Costanza is a techno and trance artist based in Italy, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Freddy K, Chami and D.Dan. Next up: Fvtvr, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Fvtvr | Paris |
 | Thu, 22 Oct 2026 | ingang | Amsterdam |
 | Fri, 20 Nov 2026 | fi | Cologne |
 

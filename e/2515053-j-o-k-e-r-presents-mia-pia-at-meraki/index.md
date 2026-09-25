@@ -1,6 +1,6 @@
 # J.O.K.E.R presents Mia Pia at Meraki
 
-J.O.K.E.R presents Mia Pia at Meraki on Fri 2 Oct, Liverpool. 4 acts on the bill: Loucid, T-SHA, Tabula Rasa and YazminC. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+J.O.K.E.R presents Mia Pia at Meraki on Fri 2 Oct, Liverpool. 4 artists on the bill: Loucid, T-SHA, Tabula Rasa and YazminC. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VESUVIO GROOVE • Kenny Larkin + Gabriele Russo, Fizya at Basic Club
 
-VESUVIO GROOVE • Kenny Larkin + Gabriele Russo, Fizya at Basic Club on Fri 16 Oct, Naples. 3 acts on the bill: Fizya, Gabriele Russo and Kenny Larkin. Preview the line-up and save it on soundcheck.
+VESUVIO GROOVE • Kenny Larkin + Gabriele Russo, Fizya at Basic Club on Fri 16 Oct, Naples. 3 artists on the bill: Fizya, Gabriele Russo and Kenny Larkin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

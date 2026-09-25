@@ -1,6 +1,6 @@
 # Atweed at Atdge Seoul
 
-Atweed at Atdge Seoul on Wed 30 Sept, Seoul. 1 act on the bill: A-Tweed. Techno and IDM. Preview the line-up and save it on soundcheck.
+Atweed at Atdge Seoul on Wed 30 Sept, Seoul. 1 artist on the bill: A-Tweed. Techno and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

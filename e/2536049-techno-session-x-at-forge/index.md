@@ -1,6 +1,6 @@
 # TECHNO SESSION X at Forge
 
-TECHNO SESSION X at Forge on Fri 2 Oct, Bucharest. 2 acts on the bill: ESME and Radox. Techno. Preview the line-up and save it on soundcheck.
+TECHNO SESSION X at Forge on Fri 2 Oct, Bucharest. 2 artists on the bill: ESME and Radox. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

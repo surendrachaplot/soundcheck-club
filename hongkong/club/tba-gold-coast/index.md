@@ -2,7 +2,7 @@
 
 TBA - Gold Coast is a music venue in Hong Kong with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Freenzy" on Fri, 25 Sept 2026.
 
-TBA - Gold Coast is a music venue in Hongkong listed on soundcheck. 7 upcoming gigs, with line-ups including Amal Nemer, Baauer, Snooko and Zoe Gitter. Browse upcoming dates, start times and who's playing.
+TBA - Gold Coast is a music venue in Hong Kong listed on soundcheck. 7 upcoming gigs, with line-ups including Amal Nemer, Baauer, Snooko and Zoe Gitter. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

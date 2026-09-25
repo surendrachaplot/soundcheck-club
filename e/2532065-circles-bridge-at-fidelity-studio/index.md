@@ -1,6 +1,6 @@
 # Circles: BRIDGE at Fidelity Studio
 
-Circles: BRIDGE at Fidelity Studio on Sat 24 Oct, Dublin. 1 act on the bill: Bridge (NY). House and Disco. Preview the line-up and save it on soundcheck.
+Circles: BRIDGE at Fidelity Studio on Sat 24 Oct, Dublin. 1 artist on the bill: Bridge (NY). House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

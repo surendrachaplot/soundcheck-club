@@ -1,6 +1,6 @@
 # PARTY ATHLETES presents SPOTTO 2nd Anniversary Party at Circus Osaka
 
-PARTY ATHLETES presents SPOTTO 2nd Anniversary Party at Circus Osaka on Fri 23 Oct, Osaka. 3 acts on the bill: MARU (2), SEIJI (2) and Unai Trotti. Techno and House. Preview the line-up and save it on soundcheck.
+PARTY ATHLETES presents SPOTTO 2nd Anniversary Party at Circus Osaka on Fri 23 Oct, Osaka. 3 artists on the bill: MARU, SEIJI and Unai Trotti. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

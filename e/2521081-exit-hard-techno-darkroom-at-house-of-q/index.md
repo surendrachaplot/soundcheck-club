@@ -1,6 +1,6 @@
 # Exit - Hard Techno + Darkroom at House of Q
 
-Exit - Hard Techno + Darkroom at House of Q on Sat 26 Sept, Stockholm. 1 act on the bill: Mira Iranpour. Techno. Preview the line-up and save it on soundcheck.
+Exit - Hard Techno + Darkroom at House of Q on Sat 26 Sept, Stockholm. 1 artist on the bill: Mira Iranpour. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

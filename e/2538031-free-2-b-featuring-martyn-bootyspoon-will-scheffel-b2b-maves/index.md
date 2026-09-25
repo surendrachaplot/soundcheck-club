@@ -1,6 +1,6 @@
 # FREE 2 B FEATURING Martyn Bootyspoon, Will Scheffel b2b Maves, Chiara Manchia & House of Lords at Standard Time
 
-FREE 2 B FEATURING Martyn Bootyspoon, Will Scheffel b2b Maves, Chiara Manchia & House of Lords at Standard Time on Sat 3 Oct, Toronto. 5 acts on the bill: Chiara, House of Lords, Martyn Bootyspoon and Maves and 1 more. Preview the line-up and save it on soundcheck.
+FREE 2 B FEATURING Martyn Bootyspoon, Will Scheffel b2b Maves, Chiara Manchia & House of Lords at Standard Time on Sat 3 Oct, Toronto. 5 artists on the bill: Chiara, House of Lords, Martyn Bootyspoon and Maves and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

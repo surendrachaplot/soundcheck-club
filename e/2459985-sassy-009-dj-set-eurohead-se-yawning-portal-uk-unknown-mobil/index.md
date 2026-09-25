@@ -1,6 +1,6 @@
 # Sassy 009 (DJ Set), Eurohead (SE), Yawning Portal (UK), Unknown Mobile (CA) at The Villa
 
-Sassy 009 (DJ Set), Eurohead (SE), Yawning Portal (UK), Unknown Mobile (CA) at The Villa on Fri 16 Oct, Oslo. 5 acts on the bill: Erik M., Eurohead, SASSY 009 and Simon Tyv and 1 more. Bass and Electronica. Preview the line-up and save it on soundcheck.
+Sassy 009 (DJ Set), Eurohead (SE), Yawning Portal (UK), Unknown Mobile (CA) at The Villa on Fri 16 Oct, Oslo. 5 artists on the bill: Erik M., Eurohead, SASSY 009 and Simon Tyv and 1 more. Bass and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

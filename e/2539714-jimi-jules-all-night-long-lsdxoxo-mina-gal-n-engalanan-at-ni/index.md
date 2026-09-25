@@ -1,6 +1,6 @@
 # Jimi Jules All Night Long / LSDXOXO · Mina Galán · ENGALANAN at Nitsa Club
 
-Jimi Jules All Night Long / LSDXOXO · Mina Galán · ENGALANAN at Nitsa Club on Fri 9 Oct, Barcelona. 4 acts on the bill: ENGALANAN, Jimi Jules, LSDXOXO and Mina Galán. Techno and House. Preview the line-up and save it on soundcheck.
+Jimi Jules All Night Long / LSDXOXO · Mina Galán · ENGALANAN at Nitsa Club on Fri 9 Oct, Barcelona. 4 artists on the bill: ENGALANAN, Jimi Jules, LSDXOXO and Mina Galán. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

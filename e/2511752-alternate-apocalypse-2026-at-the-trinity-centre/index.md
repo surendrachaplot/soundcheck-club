@@ -1,6 +1,6 @@
 # Alternate: Apocalypse 2026 at The Trinity Centre
 
-Alternate: Apocalypse 2026 at The Trinity Centre on Fri 30 Oct, Bristol. 10 acts on the bill: Coki, Darcy, Flowdan and Kahn and 6 more. Bass and Grime. Preview the line-up and save it on soundcheck.
+Alternate: Apocalypse 2026 at The Trinity Centre on Fri 30 Oct, Bristol. 10 artists on the bill: Coki, Darcy, Flowdan and Kahn and 6 more. Bass and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

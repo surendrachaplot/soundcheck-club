@@ -1,6 +1,6 @@
 # SOUNDIT Plaza: Jeff Mills, Surgeon & Nørbak (live) , zizi k, Imox at Plaza Monumental de Barcelona
 
-SOUNDIT Plaza: Jeff Mills, Surgeon & Nørbak (live) , zizi k, Imox at Plaza Monumental de Barcelona on Sat 12 Dec, Barcelona. 5 acts on the bill: Imox, Jeff Mills, Nørbak and Surgeon and 1 more. Preview the line-up and save it on soundcheck.
+SOUNDIT Plaza: Jeff Mills, Surgeon & Nørbak (live) , zizi k, Imox at Plaza Monumental de Barcelona on Sat 12 Dec, Barcelona. 5 artists on the bill: Imox, Jeff Mills, Nørbak and Surgeon and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

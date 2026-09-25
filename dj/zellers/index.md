@@ -2,7 +2,7 @@
 
 Zellers is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
-Zellers is a techno and trance artist based in Canada, tracked on soundcheck, with 68 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Marnigurl, Jaw Jones and DJ RATA. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
+Zellers is a techno and trance artist based in Canada, tracked on soundcheck, with 68 sets logged across Montreal, New York City and Toronto. Often billed alongside Marnigurl, Jaw Jones and DJ RATA. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 

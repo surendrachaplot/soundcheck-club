@@ -1,6 +1,6 @@
 # Quinoa Experience: Buraye (Live), Betamax, Chris Gorrie at Sala Siroco
 
-Quinoa Experience: Buraye (Live), Betamax, Chris Gorrie at Sala Siroco on Fri 2 Oct, Madrid. 3 acts on the bill: Betamax_, Buraye and Chris Gorrie. Trance and Techno. Preview the line-up and save it on soundcheck.
+Quinoa Experience: Buraye (Live), Betamax, Chris Gorrie at Sala Siroco on Fri 2 Oct, Madrid. 3 artists on the bill: Betamax_, Buraye and Chris Gorrie. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

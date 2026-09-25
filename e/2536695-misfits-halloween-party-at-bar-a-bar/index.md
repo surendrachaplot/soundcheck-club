@@ -1,6 +1,6 @@
 # Misfits. (HALLOWEEN PARTY) at Bar A Bar
 
-Misfits. (HALLOWEEN PARTY) at Bar A Bar on Fri 30 Oct, London. 1 act on the bill: Svet. Tech House and Electronica. Preview the line-up and save it on soundcheck.
+Misfits. (HALLOWEEN PARTY) at Bar A Bar on Fri 30 Oct, London. 1 artist on the bill: Svet. Tech House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

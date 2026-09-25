@@ -1,6 +1,6 @@
 # BaBOOshka - Kazimier Garden 12 Hour Halloween Party at Kazimier Garden
 
-BaBOOshka - Kazimier Garden 12 Hour Halloween Party on Sat 31 Oct, Liverpool. 6 acts on the bill: 4D (UK), Aly P, Dowd and Elleinad and 2 more. House and Electro. Preview the line-up and save it on soundcheck.
+BaBOOshka - Kazimier Garden 12 Hour Halloween Party on Sat 31 Oct, Liverpool. 6 artists on the bill: 4D (UK), Aly P, Dowd and Elleinad and 2 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

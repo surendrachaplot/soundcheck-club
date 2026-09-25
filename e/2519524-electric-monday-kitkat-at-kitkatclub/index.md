@@ -1,6 +1,6 @@
 # Electric Monday@KitKat at KitKatClub
 
-Electric Monday@KitKat at KitKatClub on Mon 28 Sept, Berlin. 3 acts on the bill: Alejandro Molinari, Frankie Flowerz and Pornbugs. Techno and House. Preview the line-up and save it on soundcheck.
+Electric Monday@KitKat at KitKatClub on Mon 28 Sept, Berlin. 3 artists on the bill: Alejandro Molinari, Frankie Flowerz and Pornbugs. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

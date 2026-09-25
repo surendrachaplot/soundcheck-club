@@ -1,6 +1,6 @@
 # John Digweed - Bedrock at WestWeelde
 
-John Digweed - Bedrock at WestWeelde on Sat 7 Nov, Amsterdam. 1 act on the bill: John Digweed. Progressive House and House. Preview the line-up and save it on soundcheck.
+John Digweed - Bedrock at WestWeelde on Sat 7 Nov, Amsterdam. 1 artist on the bill: John Digweed. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

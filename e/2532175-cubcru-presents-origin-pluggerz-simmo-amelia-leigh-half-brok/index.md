@@ -1,6 +1,6 @@
 # CubCru presents: Origin, Pluggerz, Simmo, Amelia Leigh & Half Broken Kru at Hidden
 
-CubCru presents: Origin, Pluggerz, Simmo, Amelia Leigh & Half Broken Kru at Hidden on Fri 6 Nov, Manchester. 3 acts on the bill: Amelia Leigh, Origin and Simmo.. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+CubCru presents: Origin, Pluggerz, Simmo, Amelia Leigh & Half Broken Kru at Hidden on Fri 6 Nov, Manchester. 3 artists on the bill: Amelia Leigh, Origin and Simmo.. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CDVR with Huerta at Cadavra
 
-CDVR with Huerta at Cadavra on Sat 5 Dec, Madrid. 1 act on the bill: Huerta. Electronica. Preview the line-up and save it on soundcheck.
+CDVR with Huerta at Cadavra on Sat 5 Dec, Madrid. 1 artist on the bill: Huerta. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

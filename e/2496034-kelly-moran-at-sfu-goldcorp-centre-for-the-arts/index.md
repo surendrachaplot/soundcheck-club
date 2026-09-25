@@ -1,6 +1,6 @@
 # Kelly Moran at SFU Goldcorp Centre for the Arts
 
-Kelly Moran at SFU Goldcorp Centre for the Arts on Sun 4 Oct, Vancouver. 1 act on the bill: Kelly Moran. Classical and Electronica. Preview the line-up and save it on soundcheck.
+Kelly Moran at SFU Goldcorp Centre for the Arts on Sun 4 Oct, Vancouver. 1 artist on the bill: Kelly Moran. Classical and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

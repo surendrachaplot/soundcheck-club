@@ -1,6 +1,6 @@
 # Claudio PRC at Gare Porto
 
-Claudio PRC at Gare Porto on Sun 4 Oct, Porto. 1 act on the bill: Claudio PRC. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Claudio PRC at Gare Porto on Sun 4 Oct, Porto. 1 artist on the bill: Claudio PRC. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

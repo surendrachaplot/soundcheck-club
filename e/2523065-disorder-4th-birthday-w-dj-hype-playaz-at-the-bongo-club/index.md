@@ -1,6 +1,6 @@
 # Disorder: 4th Birthday w/ DJ Hype (Playaz) at The Bongo Club
 
-Disorder: 4th Birthday w/ DJ Hype (Playaz) at The Bongo Club on Fri 6 Nov, Edinburgh. 2 acts on the bill: DJ Hype and Harry Jackson. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Disorder: 4th Birthday w/ DJ Hype (Playaz) at The Bongo Club on Fri 6 Nov, Edinburgh. 2 artists on the bill: DJ Hype and Harry Jackson. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

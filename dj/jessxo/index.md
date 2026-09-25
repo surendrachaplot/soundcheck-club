@@ -2,7 +2,7 @@
 
 JESSXO is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jupiter Disco, New York City on Sun, 18 Oct 2026.
 
-JESSXO is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 33 sets logged across Boston, Losangeles, Madrid and Montreal and 5 more. Often billed alongside XXHARDBIT3S, Xana 101 and Tailz. Next up: Jupiter Disco, Newyorkcity on Sun 18 Oct.
+JESSXO is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 33 sets logged across Boston, Los Angeles, Madrid and Montreal and 5 more. Often billed alongside XXHARDBIT3S, Xana 101 and Tailz. Next up: Jupiter Disco, New York City on Sun 18 Oct.
 
 ## Upcoming shows
 

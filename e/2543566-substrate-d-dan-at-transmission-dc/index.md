@@ -1,6 +1,6 @@
 # SUBSTRATE: D.Dan at TRANSMISSION DC
 
-SUBSTRATE: D.Dan at TRANSMISSION DC on Thu 17 Dec, Washingtondc. 1 act on the bill: D.Dan. Techno. Preview the line-up and save it on soundcheck.
+SUBSTRATE: D.Dan at TRANSMISSION DC on Thu 17 Dec, Washington DC. 1 artist on the bill: D.Dan. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

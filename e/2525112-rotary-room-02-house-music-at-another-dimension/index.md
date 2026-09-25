@@ -1,6 +1,6 @@
 # ROTARY ROOM 02 — HOUSE MUSIC at Another Dimension
 
-ROTARY ROOM 02 — HOUSE MUSIC at Another Dimension on Wed 30 Sept, Tokyo. 2 acts on the bill: Future record and liberty (JP). House. Preview the line-up and save it on soundcheck.
+ROTARY ROOM 02 — HOUSE MUSIC at Another Dimension on Wed 30 Sept, Tokyo. 2 artists on the bill: Future record and liberty (JP). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

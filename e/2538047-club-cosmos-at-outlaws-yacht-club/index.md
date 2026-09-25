@@ -1,6 +1,6 @@
 # Club Cosmos at Outlaws Yacht Club
 
-Club Cosmos at Outlaws Yacht Club on Sun 1 Nov, Leeds. 2 acts on the bill: FROND and Simon Scott. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Club Cosmos at Outlaws Yacht Club on Sun 1 Nov, Leeds. 2 artists on the bill: FROND and Simon Scott. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

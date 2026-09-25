@@ -1,6 +1,6 @@
 # Spotify DIA/LOG with Skream & Benga at DRUMSHEDS
 
-Spotify DIA/LOG with Skream & Benga at DRUMSHEDS on Sat 17 Oct, London. 30 acts on the bill: Benga, Carré, D Double E and Dangermami and 26 more. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Spotify DIA/LOG with Skream & Benga at DRUMSHEDS on Sat 17 Oct, London. 30 artists on the bill: Benga, Carré, D Double E and Dangermami and 26 more. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

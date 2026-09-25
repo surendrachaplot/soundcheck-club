@@ -1,6 +1,6 @@
 # Dominican Classics Night - Perreo on the Pier at Watermark
 
-Dominican Classics Night - Perreo on the Pier at Watermark on Fri 25 Sept, Newyorkcity. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
+Dominican Classics Night - Perreo on the Pier at Watermark on Fri 25 Sept, New York City. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 1800 Play x Helix Discs (TBA) at TBA
 
-1800 Play x Helix Discs (TBA) on Sat 19 Dec, Melbourne. 2 acts on the bill: Data Flow and Séarlait. Tech House. Preview the line-up and save it on soundcheck.
+1800 Play x Helix Discs (TBA) on Sat 19 Dec, Melbourne. 2 artists on the bill: Data Flow and Séarlait. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

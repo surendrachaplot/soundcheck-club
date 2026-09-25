@@ -1,6 +1,6 @@
 # Black Coffee - CLOSING PARTY at Hï Ibiza
 
-Black Coffee - CLOSING PARTY at Hï Ibiza on Sat 3 Oct, Ibiza. 4 acts on the bill: Black Coffee, DJEFF, Dorian Craft and Skepta. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Black Coffee - CLOSING PARTY at Hï Ibiza on Sat 3 Oct, Ibiza. 4 artists on the bill: Black Coffee, DJEFF, Dorian Craft and Skepta. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

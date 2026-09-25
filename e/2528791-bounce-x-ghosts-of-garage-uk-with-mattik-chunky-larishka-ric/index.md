@@ -1,6 +1,6 @@
 # Bounce x Ghosts of Garage [UK] with Mattik, Chunky, Larishka,Rich Reason,Particles,Murteza,Olgi at Şahika
 
-Bounce x Ghosts of Garage [UK] with Mattik, Chunky, Larishka,Rich Reason,Particles,Murteza,Olgi at Şahika on Fri 23 Oct, Istanbul. 6 acts on the bill: Chunky, LARISHKA (UK), Mattik (UK) and Murteza and 2 more. Bass and Garage. Preview the line-up and save it on soundcheck.
+Bounce x Ghosts of Garage [UK] with Mattik, Chunky, Larishka,Rich Reason,Particles,Murteza,Olgi at Şahika on Fri 23 Oct, Istanbul. 6 artists on the bill: Chunky, LARISHKA (UK), Mattik (UK) and Murteza and 2 more. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

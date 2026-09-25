@@ -1,6 +1,6 @@
 # Amber Muse anniversary x Tiga (Turbo/CA) at Laska V21
 
-Amber Muse anniversary x Tiga (Turbo/CA) at Laska V21 on Fri 20 Nov, Riga. 5 acts on the bill: First kiss, Grisha Nirgov, mOZ (2) and Queer On Acid and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+Amber Muse anniversary x Tiga (Turbo/CA) at Laska V21 on Fri 20 Nov, Riga. 5 artists on the bill: First kiss, Grisha Nirgov, mOZ and Queer On Acid and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

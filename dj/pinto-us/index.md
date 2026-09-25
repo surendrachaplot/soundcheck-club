@@ -2,7 +2,7 @@
 
 Pinto (US) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paragon, New York City on Fri, 2 Oct 2026.
 
-Pinto (US) is a house and disco artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago, Detroit, Losangeles and Melbourne and 7 more. Often billed alongside ARTST, Said Dami and Darius Syrossian. Next up: Paragon, Newyorkcity on Fri 2 Oct.
+Pinto (US) is a house and disco artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago, Detroit, Los Angeles and Melbourne and 7 more. Often billed alongside ARTST, Said Dami and Darius Syrossian. Next up: Paragon, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 

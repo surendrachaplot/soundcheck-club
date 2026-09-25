@@ -1,6 +1,6 @@
 # Club 77: Phil Smart at Club 77
 
-Club 77: Phil Smart on Sat 31 Oct, Sydney. 1 act on the bill: Phil Smart. House and Acid. Preview the line-up and save it on soundcheck.
+Club 77: Phil Smart on Sat 31 Oct, Sydney. 1 artist on the bill: Phil Smart. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

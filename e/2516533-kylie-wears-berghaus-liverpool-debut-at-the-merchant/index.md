@@ -1,6 +1,6 @@
 # Kylie Wears Berghaus (Liverpool Debut) at The Merchant
 
-Kylie Wears Berghaus (Liverpool Debut) at The Merchant on Sat 26 Sept, Liverpool. 2 acts on the bill: Kylie Wears Berghaus and LARA-RA. Techno and House. Preview the line-up and save it on soundcheck.
+Kylie Wears Berghaus (Liverpool Debut) at The Merchant on Sat 26 Sept, Liverpool. 2 artists on the bill: Kylie Wears Berghaus and LARA-RA. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

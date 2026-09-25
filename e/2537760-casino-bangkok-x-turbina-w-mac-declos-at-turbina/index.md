@@ -1,6 +1,6 @@
 # CASINO BANGKOK X Turbina W/ MAC DECLOS at Turbina
 
-CASINO BANGKOK X Turbina W/ MAC DECLOS on Fri 9 Oct, Budapest. 3 acts on the bill: Arash Ete, Gingershot and Kiuz. Techno. Preview the line-up and save it on soundcheck.
+CASINO BANGKOK X Turbina W/ MAC DECLOS on Fri 9 Oct, Budapest. 3 artists on the bill: Arash Ete, Gingershot and Kiuz. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

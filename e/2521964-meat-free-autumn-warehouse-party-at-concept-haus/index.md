@@ -1,6 +1,6 @@
 # Meat Free Autumn Warehouse Party at Concept Haus
 
-Meat Free Autumn Warehouse Party at Concept Haus on Sat 10 Oct, Manchester. 9 acts on the bill: aalice, Adriana Lopez, Blasha & Allatt and FJNocturne and 5 more. Techno. Preview the line-up and save it on soundcheck.
+Meat Free Autumn Warehouse Party at Concept Haus on Sat 10 Oct, Manchester. 9 artists on the bill: aalice, Adriana Lopez, Blasha & Allatt and FJNocturne and 5 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

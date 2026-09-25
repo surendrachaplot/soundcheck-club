@@ -1,6 +1,6 @@
 # DYSTOPIAN HAPPINESS // LISTEN AND REPEAT 4.0 at AMT
 
-DYSTOPIAN HAPPINESS // LISTEN AND REPEAT 4.0 at AMT on Sat 3 Oct, Berlin. 3 acts on the bill: Dorsch, End Train and KALEA. House and Electro. Preview the line-up and save it on soundcheck.
+DYSTOPIAN HAPPINESS // LISTEN AND REPEAT 4.0 at AMT on Sat 3 Oct, Berlin. 3 artists on the bill: Dorsch, End Train and KALEA. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

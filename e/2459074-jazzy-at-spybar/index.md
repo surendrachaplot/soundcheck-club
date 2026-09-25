@@ -1,6 +1,6 @@
 # Jazzy at Spybar
 
-Jazzy at Spybar on Sat 10 Oct, Chicago. 1 act on the bill: Jazzy (IRL). House. Preview the line-up and save it on soundcheck.
+Jazzy at Spybar on Sat 10 Oct, Chicago. 1 artist on the bill: Jazzy (IRL). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VERGEETACHTIG invites Gabriel Muñoz at Kavka Oudaan
 
-VERGEETACHTIG invites Gabriel Muñoz at Kavka Oudaan on Fri 16 Oct, Antwerp. 1 act on the bill: Gabriel Muñoz. Garage. Preview the line-up and save it on soundcheck.
+VERGEETACHTIG invites Gabriel Muñoz at Kavka Oudaan on Fri 16 Oct, Antwerp. 1 artist on the bill: Gabriel Muñoz. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

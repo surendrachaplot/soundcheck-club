@@ -1,6 +1,6 @@
 # Disco Dána with Cian Ó Cíobháin at Hen's Teeth
 
-Disco Dána with Cian Ó Cíobháin at Hen's Teeth on Sat 31 Oct, Dublin. 1 act on the bill: Cian Ó Cíobháin. Preview the line-up and save it on soundcheck.
+Disco Dána with Cian Ó Cíobháin at Hen's Teeth on Sat 31 Oct, Dublin. 1 artist on the bill: Cian Ó Cíobháin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

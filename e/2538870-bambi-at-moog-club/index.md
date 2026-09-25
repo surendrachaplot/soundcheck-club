@@ -1,6 +1,6 @@
 # Bambi at Moog Club
 
-Bambi at Moog Club on Thu 15 Oct, Barcelona. 1 act on the bill: BAMBI (BE). Techno. Preview the line-up and save it on soundcheck.
+Bambi at Moog Club on Thu 15 Oct, Barcelona. 1 artist on the bill: BAMBI (BE). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

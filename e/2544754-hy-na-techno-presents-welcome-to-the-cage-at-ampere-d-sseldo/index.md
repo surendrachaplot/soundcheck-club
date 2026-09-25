@@ -1,6 +1,6 @@
 # HYÆNA Techno presents WELCOME TO THE CAGE at Ampere Düsseldorf
 
-HYÆNA Techno presents WELCOME TO THE CAGE at Ampere Düsseldorf on Sat 17 Oct, Dusseldorf. 1 act on the bill: In Furcht. Techno. Preview the line-up and save it on soundcheck.
+HYÆNA Techno presents WELCOME TO THE CAGE at Ampere Düsseldorf on Sat 17 Oct, Düsseldorf. 1 artist on the bill: In Furcht. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

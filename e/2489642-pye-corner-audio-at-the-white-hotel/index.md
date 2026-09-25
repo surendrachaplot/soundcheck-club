@@ -1,6 +1,6 @@
 # Pye Corner Audio at The White Hotel
 
-Pye Corner Audio at The White Hotel on Thu 19 Nov, Manchester. 1 act on the bill: Pye Corner Audio. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Pye Corner Audio at The White Hotel on Thu 19 Nov, Manchester. 1 artist on the bill: Pye Corner Audio. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

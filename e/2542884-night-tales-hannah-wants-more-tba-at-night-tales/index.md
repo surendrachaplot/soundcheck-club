@@ -1,6 +1,6 @@
 # Night Tales: Hannah Wants & More TBA at Night Tales
 
-Night Tales: Hannah Wants & More TBA on Sat 5 Dec, London. 1 act on the bill: Hannah Wants. House and Disco. Preview the line-up and save it on soundcheck.
+Night Tales: Hannah Wants & More TBA on Sat 5 Dec, London. 1 artist on the bill: Hannah Wants. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Disco Isn't Dead with Stella Zekri at Strange Brew
 
-Disco Isn't Dead with Stella Zekri at Strange Brew on Sat 3 Oct, Bristol. 2 acts on the bill: Burly Chassis and Stella Zekri. House and Disco. Preview the line-up and save it on soundcheck.
+Disco Isn't Dead with Stella Zekri at Strange Brew on Sat 3 Oct, Bristol. 2 artists on the bill: Burly Chassis and Stella Zekri. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

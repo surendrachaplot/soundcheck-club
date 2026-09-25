@@ -1,6 +1,6 @@
 # Villa Ockult Turns Ten at BAR15
 
-Villa Ockult Turns Ten at BAR15 on Sat 26 Sept, Stockholm. 4 acts on the bill: Dog on Acid, Dukkha, fatty acid and Psykoterapi. Techno. Preview the line-up and save it on soundcheck.
+Villa Ockult Turns Ten at BAR15 on Sat 26 Sept, Stockholm. 4 artists on the bill: Dog on Acid, Dukkha, fatty acid and Psykoterapi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

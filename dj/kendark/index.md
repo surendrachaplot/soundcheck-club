@@ -2,7 +2,7 @@
 
 Ken Dark is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at F-hoone, Tallinn on Fri, 25 Sept 2026.
 
-Ken Dark is a techno and electro artist based in Estonia, tracked on soundcheck, with 18 sets logged across Riga and Tallinn. Often billed alongside KARINSMATIC, Simo (1) and VIK (LV). Next up: F-hoone, Tallinn on Fri 25 Sept.
+Ken Dark is a techno and electro artist based in Estonia, tracked on soundcheck, with 18 sets logged across Riga and Tallinn. Often billed alongside KARINSMATIC, Simo and VIK (LV). Next up: F-hoone, Tallinn on Fri 25 Sept.
 
 ## Upcoming shows
 

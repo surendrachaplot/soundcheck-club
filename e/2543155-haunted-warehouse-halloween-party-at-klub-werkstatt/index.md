@@ -1,6 +1,6 @@
 # HAUNTED WAREHOUSE HALLOWEEN PARTY at Klub Werkstatt
 
-HAUNTED WAREHOUSE HALLOWEEN PARTY at Klub Werkstatt on Sat 31 Oct, Copenhagen. 3 acts on the bill: Benster, Jonas Tuk and Waqar. House and Electronica. Preview the line-up and save it on soundcheck.
+HAUNTED WAREHOUSE HALLOWEEN PARTY at Klub Werkstatt on Sat 31 Oct, Copenhagen. 3 artists on the bill: Benster, Jonas Tuk and Waqar. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

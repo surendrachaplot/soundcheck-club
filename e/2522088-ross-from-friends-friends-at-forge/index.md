@@ -1,6 +1,6 @@
 # Ross From Friends & Friends at FORGE
 
-Ross From Friends & Friends at FORGE on Fri 9 Oct, Sheffield. 3 acts on the bill: Gabrielle Kwarteng, IceMorph and Ross From Friends. IDM and Electronica. Preview the line-up and save it on soundcheck.
+Ross From Friends & Friends at FORGE on Fri 9 Oct, Sheffield. 3 artists on the bill: Gabrielle Kwarteng, IceMorph and Ross From Friends. IDM and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

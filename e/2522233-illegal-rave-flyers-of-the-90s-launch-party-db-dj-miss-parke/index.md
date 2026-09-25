@@ -1,6 +1,6 @@
 # ILLEGAL: Rave Flyers of the 90s Launch Party: DB, DJ Miss Parker, DJ Three, S4M23 at Nowadays
 
-ILLEGAL: Rave Flyers of the 90s Launch Party: DB, DJ Miss Parker, DJ Three, S4M23 at Nowadays on Thu 15 Oct, Newyorkcity. 3 acts on the bill: DJ Three, Miss Parker and S4M23. Techno and Acid. Preview the line-up and save it on soundcheck.
+ILLEGAL: Rave Flyers of the 90s Launch Party: DB, DJ Miss Parker, DJ Three, S4M23 at Nowadays on Thu 15 Oct, New York City. 3 artists on the bill: DJ Three, Miss Parker and S4M23. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

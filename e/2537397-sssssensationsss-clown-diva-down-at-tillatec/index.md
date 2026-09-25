@@ -1,6 +1,6 @@
 # sSSsSensationsSs: CLOWN DIVA DOWN at TILLATEC
 
-sSSsSensationsSs: CLOWN DIVA DOWN at TILLATEC on Fri 25 Sept, Amsterdam. 1 act on the bill: angelboy. Techno and House. Preview the line-up and save it on soundcheck.
+sSSsSensationsSs: CLOWN DIVA DOWN at TILLATEC on Fri 25 Sept, Amsterdam. 1 artist on the bill: angelboy. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

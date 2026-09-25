@@ -1,6 +1,6 @@
 # MARS at Bar v Krymský
 
-MARS at Bar v Krymský on Thu 8 Oct, Prague. 1 act on the bill: MARS (4). House and Deep House. Preview the line-up and save it on soundcheck.
+MARS at Bar v Krymský on Thu 8 Oct, Prague. 1 artist on the bill: MARS. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

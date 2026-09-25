@@ -1,6 +1,6 @@
 # 303 pres. INDRA TRAFERRI / Jade Rolt / Diana at 303 Audiophile Bar
 
-303 pres. INDRA TRAFERRI / Jade Rolt / Diana at 303 Audiophile Bar on Thu 29 Oct, Barcelona. 3 acts on the bill: Diana (3), INDRA TRAFERRI and Jade Rolt. House. Preview the line-up and save it on soundcheck.
+303 pres. INDRA TRAFERRI / Jade Rolt / Diana at 303 Audiophile Bar on Thu 29 Oct, Barcelona. 3 artists on the bill: Diana, INDRA TRAFERRI and Jade Rolt. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

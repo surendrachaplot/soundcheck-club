@@ -1,6 +1,6 @@
 # Rich Medina: HOME (All Night Set) House, Rare Groove, Garage Classics at High Tide
 
-Rich Medina: HOME (All Night Set) House, Rare Groove, Garage Classics at High Tide on Sat 26 Sept, Losangeles. 1 act on the bill: Rich Medina. House and Garage. Preview the line-up and save it on soundcheck.
+Rich Medina: HOME (All Night Set) House, Rare Groove, Garage Classics at High Tide on Sat 26 Sept, Los Angeles. 1 artist on the bill: Rich Medina. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

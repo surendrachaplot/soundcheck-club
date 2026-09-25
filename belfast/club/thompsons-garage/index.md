@@ -2,7 +2,7 @@
 
 Thompsons Garage is a music venue in Belfast with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Stereo Sessions pres. SURKA & Boots & Kats: Sat 26 Sept: Thompsons" on Sat, 26 Sept 2026.
 
-Thompsons Garage is a music venue in Belfast listed on soundcheck. 6 upcoming gigs, with line-ups including Boots & Kats, Hijaxx, Misfit DJs and Surka (1). Browse upcoming dates, start times and who's playing. 3 Patterson’s Place; Belfast BT1 4HW; United Kingdom.
+Thompsons Garage is a music venue in Belfast listed on soundcheck. 6 upcoming gigs, with line-ups including Boots & Kats, Hijaxx, Misfit DJs and Surka. Browse upcoming dates, start times and who's playing. 3 Patterson’s Place; Belfast BT1 4HW; United Kingdom.
 
 ## What's on
 

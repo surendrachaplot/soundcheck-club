@@ -1,6 +1,6 @@
 # PLAYGROUND at Crack Bellmer
 
-PLAYGROUND at Crack Bellmer on Sat 26 Sept, Berlin. 4 acts on the bill: Easy K, Luna Martinez, R4F4 and Suzanne Dolmancé. Progressive House and Electro. Preview the line-up and save it on soundcheck.
+PLAYGROUND at Crack Bellmer on Sat 26 Sept, Berlin. 4 artists on the bill: Easy K, Luna Martinez, R4F4 and Suzanne Dolmancé. Progressive House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

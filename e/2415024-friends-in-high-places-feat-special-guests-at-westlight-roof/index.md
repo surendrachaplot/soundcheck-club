@@ -1,6 +1,6 @@
 # Friends In High Places feat. SPECIAL GUESTS at Westlight Rooftop at The William Vale
 
-Friends In High Places feat. SPECIAL GUESTS at Westlight Rooftop at The William Vale on Fri 9 Oct, Newyorkcity. Afro House. Preview the line-up and save it on soundcheck.
+Friends In High Places feat. SPECIAL GUESTS at Westlight Rooftop at The William Vale on Fri 9 Oct, New York City. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

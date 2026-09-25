@@ -1,6 +1,6 @@
 # The Pink Rambo at The Sultan Room
 
-The Pink Rambo at The Sultan Room on Wed 21 Oct, Newyorkcity. 2 acts on the bill: Hard Boiled Babe and Nina Moss. Tech House and Disco. Preview the line-up and save it on soundcheck.
+The Pink Rambo at The Sultan Room on Wed 21 Oct, New York City. 2 artists on the bill: Hard Boiled Babe and Nina Moss. Tech House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

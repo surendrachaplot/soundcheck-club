@@ -1,6 +1,6 @@
 # CHUNK FOLSOM - Bear Playground at F8 1192 Folsom
 
-CHUNK FOLSOM - Bear Playground at F8 1192 Folsom on Sat 26 Sept, Sanfrancisco. 3 acts on the bill: Ben Fonik, E.Feld and MarceauxMarceaux. House. Preview the line-up and save it on soundcheck.
+CHUNK FOLSOM - Bear Playground at F8 1192 Folsom on Sat 26 Sept, San Francisco/Oakland. 3 artists on the bill: Ben Fonik, E.Feld and MarceauxMarceaux. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

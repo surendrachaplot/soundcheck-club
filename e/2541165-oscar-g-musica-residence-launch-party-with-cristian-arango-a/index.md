@@ -1,6 +1,6 @@
 # Oscar G Musica Residence Launch Party with Cristian Arango and More at Musica Club NYC
 
-Oscar G Musica Residence Launch Party with Cristian Arango and More at Musica Club NYC on Sat 26 Sept, Newyorkcity. 2 acts on the bill: Cristian Arango and Oscar G. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Oscar G Musica Residence Launch Party with Cristian Arango and More at Musica Club NYC on Sat 26 Sept, New York City. 2 artists on the bill: Cristian Arango and Oscar G. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

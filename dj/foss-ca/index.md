@@ -2,7 +2,7 @@
 
 FØSS is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mia Mao, Paris on Fri, 2 Oct 2026.
 
-FØSS is a techno and hardcore artist based in Canada, tracked on soundcheck, with 39 sets logged across Antwerp, Berlin, Brussels and Cologne and 8 more. Often billed alongside Fenrick, B2 (1) and DURDENHAUER. Next up: Mia Mao, Paris on Fri 2 Oct.
+FØSS is a techno and hardcore artist based in Canada, tracked on soundcheck, with 39 sets logged across Antwerp, Berlin, Brussels and Cologne and 8 more. Often billed alongside Fenrick, B2 and DURDENHAUER. Next up: Mia Mao, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 

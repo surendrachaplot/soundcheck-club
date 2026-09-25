@@ -1,6 +1,6 @@
 # Faith's Three Room Special at Omeara
 
-Faith's Three Room Special at Omeara on Sat 10 Oct, London. 7 acts on the bill: DJ Nature, LEV (UK), Logan Fisher and Radio Slave and 3 more. House and Disco. Preview the line-up and save it on soundcheck.
+Faith's Three Room Special at Omeara on Sat 10 Oct, London. 7 artists on the bill: DJ Nature, LEV (UK), Logan Fisher and Radio Slave and 3 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

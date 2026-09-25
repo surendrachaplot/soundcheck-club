@@ -1,6 +1,6 @@
 # BOUNCE by UNDR: Bounce / Hard Dance - Kinky & Playful at Insomnia
 
-BOUNCE by UNDR: Bounce / Hard Dance - Kinky & Playful at Insomnia on Sat 17 Oct, Berlin. 5 acts on the bill: BOOTHBUNNY, djst4rlight, JUNiQUE and maedchenballern and 1 more. Trance. Preview the line-up and save it on soundcheck.
+BOUNCE by UNDR: Bounce / Hard Dance - Kinky & Playful at Insomnia on Sat 17 Oct, Berlin. 5 artists on the bill: BOOTHBUNNY, djst4rlight, JUNiQUE and maedchenballern and 1 more. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

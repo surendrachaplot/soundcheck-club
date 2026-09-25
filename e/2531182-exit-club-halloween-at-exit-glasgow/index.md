@@ -1,6 +1,6 @@
 # EXIT CLUB: Halloween at EXIT Glasgow
 
-EXIT CLUB: Halloween at EXIT Glasgow on Sat 31 Oct, Glasgow. 4 acts on the bill: Headless Horseman, Marc Matter, Rrose and TRSSX. Techno and Industrial. Preview the line-up and save it on soundcheck.
+EXIT CLUB: Halloween at EXIT Glasgow on Sat 31 Oct, Glasgow. 4 artists on the bill: Headless Horseman, Marc Matter, Rrose and TRSSX. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

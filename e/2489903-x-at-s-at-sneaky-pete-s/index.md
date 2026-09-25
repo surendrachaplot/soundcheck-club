@@ -1,6 +1,6 @@
 # ˚✩ ᴅᴊ ʙᴀx at ᴄʟᴜʙ sᴘɪᴛ ✩˚ at Sneaky Pete's
 
-˚✩ ᴅᴊ ʙᴀx at ᴄʟᴜʙ sᴘɪᴛ ✩˚ at Sneaky Pete's on Mon 28 Sept, Edinburgh. 3 acts on the bill: DJ Bax, Jodie Mooney and Mixfits (2). Preview the line-up and save it on soundcheck.
+˚✩ ᴅᴊ ʙᴀx at ᴄʟᴜʙ sᴘɪᴛ ✩˚ at Sneaky Pete's on Mon 28 Sept, Edinburgh. 3 artists on the bill: DJ Bax, Jodie Mooney and Mixfits. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

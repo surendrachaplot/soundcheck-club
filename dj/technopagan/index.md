@@ -2,7 +2,7 @@
 
 Technopagan is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-Technopagan is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 75 sets logged across Barcelona, Birmingham, Chicago and Denver and 12 more. Often billed alongside Outback, Tall CEO and EXTEENG. Next up: F8 1192 Folsom, Sanfrancisco on Sat 31 Oct.
+Technopagan is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 75 sets logged across Barcelona, Birmingham, Chicago and Denver and 12 more. Often billed alongside Outback, Tall CEO and EXTEENG. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 

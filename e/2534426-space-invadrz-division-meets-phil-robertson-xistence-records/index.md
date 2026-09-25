@@ -1,6 +1,6 @@
 # Space Invadrz Division meets Phil Robertson / Xistence Records at TBA
 
-Space Invadrz Division meets Phil Robertson / Xistence Records at TBA on Sat 21 Nov, Cologne. 1 act on the bill: Redmadvelvet. Techno and Acid. Preview the line-up and save it on soundcheck.
+Space Invadrz Division meets Phil Robertson / Xistence Records at TBA on Sat 21 Nov, Cologne. 1 artist on the bill: Redmadvelvet. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

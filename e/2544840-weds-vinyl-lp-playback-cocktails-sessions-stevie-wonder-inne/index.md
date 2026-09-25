@@ -1,6 +1,6 @@
 # Weds Vinyl LP playback & cocktails sessions- Stevie Wonder- Innervsions at 26 Curtain Road
 
-Weds Vinyl LP playback & cocktails sessions- Stevie Wonder- Innervsions at 26 Curtain Road on Wed 30 Sept, London. 1 act on the bill: Neil Thornton. Downtempo and Funk / Soul. Preview the line-up and save it on soundcheck.
+Weds Vinyl LP playback & cocktails sessions- Stevie Wonder- Innervsions at 26 Curtain Road on Wed 30 Sept, London. 1 artist on the bill: Neil Thornton. Downtempo and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

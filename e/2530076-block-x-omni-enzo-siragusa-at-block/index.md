@@ -1,6 +1,6 @@
 # Block x Omni: Enzo Siragusa at block.
 
-Block x Omni: Enzo Siragusa at block. on Fri 9 Oct, Dublin. 2 acts on the bill: Enzo Siragusa and Jake Fitz. Electronica. Preview the line-up and save it on soundcheck.
+Block x Omni: Enzo Siragusa at block. on Fri 9 Oct, Dublin. 2 artists on the bill: Enzo Siragusa and Jake Fitz. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Ayesha is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Ayesha is a techno and bass artist based in United States of America, tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Ma Sha, Batu and Doctor Jeep. Next up: The Loom, Sanfrancisco on Fri 2 Oct.
+Ayesha is a techno and bass artist based in United States of America, tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Ma Sha, Batu and Doctor Jeep. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # MEiYOU at Saloon
 
-MEiYOU at Saloon on Sat 26 Sept, Tokyo. 3 acts on the bill: Do Shock Booze, Shhhhh and SOGI. Techno and Bass. Preview the line-up and save it on soundcheck.
+MEiYOU at Saloon on Sat 26 Sept, Tokyo. 3 artists on the bill: Do Shock Booze, Shhhhh and SOGI. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

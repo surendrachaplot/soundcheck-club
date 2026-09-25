@@ -1,6 +1,6 @@
 # KOSMOS with Konfusia at elipamanoke
 
-KOSMOS with Konfusia at elipamanoke on Sat 3 Oct, Leipzig. 4 acts on the bill: Aender, Aio, FLAVE and Konfusia. Techno. Preview the line-up and save it on soundcheck.
+KOSMOS with Konfusia at elipamanoke on Sat 3 Oct, Leipzig. 4 artists on the bill: Aender, Aio, FLAVE and Konfusia. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

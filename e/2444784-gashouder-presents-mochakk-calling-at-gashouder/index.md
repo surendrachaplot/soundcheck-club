@@ -1,6 +1,6 @@
 # GASHOUDER presents: Mochakk CALLING at GASHOUDER
 
-GASHOUDER presents: Mochakk CALLING on Fri 23 Oct, Amsterdam. 5 acts on the bill: ISAbella, Juliana X, Mochakk and MPH (1) and 1 more. House. Preview the line-up and save it on soundcheck.
+GASHOUDER presents: Mochakk CALLING on Fri 23 Oct, Amsterdam. 5 artists on the bill: ISAbella, Juliana X, Mochakk and MPH and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Guitig by day & night at KABUL à GoGo
 
-Guitig by day & night at KABUL à GoGo on Sat 14 Nov, Utrecht. 3 acts on the bill: 36framez, Hannecart and Lola Edo. House and Electro. Preview the line-up and save it on soundcheck.
+Guitig by day & night at KABUL à GoGo on Sat 14 Nov, Utrecht. 3 artists on the bill: 36framez, Hannecart and Lola Edo. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

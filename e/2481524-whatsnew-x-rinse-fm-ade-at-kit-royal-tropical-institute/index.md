@@ -1,6 +1,6 @@
 # WHATSNEW X Rinse FM - ADE at KIT Royal Tropical Institute
 
-WHATSNEW X Rinse FM - ADE at KIT Royal Tropical Institute on Sat 24 Oct, Amsterdam. 4 acts on the bill: A For Alpha, Ive Lovers, Julian Anthony and Voigtmann. House and Tech House. Preview the line-up and save it on soundcheck.
+WHATSNEW X Rinse FM - ADE at KIT Royal Tropical Institute on Sat 24 Oct, Amsterdam. 4 artists on the bill: A For Alpha, Ive Lovers, Julian Anthony and Voigtmann. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

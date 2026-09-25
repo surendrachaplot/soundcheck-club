@@ -2,7 +2,7 @@
 
 Julie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at CLUB RAUM, Amsterdam on Sat, 21 Nov 2026.
 
-Julie is a techno and house artist based in Netherlands, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Mexicocity and Miami and 6 more. Often billed alongside Delano Legito, Sandrien and Serti. Next up: CLUB RAUM, Amsterdam on Sat 21 Nov.
+Julie is a techno and house artist based in Netherlands, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Mexico City and Miami and 6 more. Often billed alongside Delano Legito, Sandrien and Serti. Next up: CLUB RAUM, Amsterdam on Sat 21 Nov.
 
 ## Upcoming shows
 

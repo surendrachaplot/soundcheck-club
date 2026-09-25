@@ -1,6 +1,6 @@
 # FOG: PØPU ALL NIGHT LONG at TBA
 
-FOG: PØPU ALL NIGHT LONG at TBA on Sat 10 Oct, Vancouver. 1 act on the bill: POPU. Preview the line-up and save it on soundcheck.
+FOG: PØPU ALL NIGHT LONG at TBA on Sat 10 Oct, Vancouver. 1 artist on the bill: POPU. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

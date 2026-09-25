@@ -1,6 +1,6 @@
 # forever night 4....feat. Mutualism, stiff dance, bip b2b GRRLCRRSH, zola, dj miss, Critter at The Jama
 
-forever night 4....feat. Mutualism, stiff dance, bip b2b GRRLCRRSH, zola, dj miss, Critter at The Jama on Fri 16 Oct, Toronto. 8 acts on the bill: Aji (2), B I P, Critter and dj miss and 4 more. Techno and Club. Preview the line-up and save it on soundcheck.
+forever night 4....feat. Mutualism, stiff dance, bip b2b GRRLCRRSH, zola, dj miss, Critter at The Jama on Fri 16 Oct, Toronto. 8 artists on the bill: Aji, B I P, Critter and dj miss and 4 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

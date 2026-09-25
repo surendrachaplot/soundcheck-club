@@ -1,6 +1,6 @@
 # VER pres. Paraçek ALL NIGHT LONG at Edelfettwerk
 
-VER pres. Paraçek ALL NIGHT LONG at Edelfettwerk on Fri 27 Nov, Hamburg. 1 act on the bill: Paraçek. Trance and Techno. Preview the line-up and save it on soundcheck.
+VER pres. Paraçek ALL NIGHT LONG at Edelfettwerk on Fri 27 Nov, Hamburg. 1 artist on the bill: Paraçek. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

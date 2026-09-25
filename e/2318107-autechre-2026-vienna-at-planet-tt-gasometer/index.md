@@ -1,6 +1,6 @@
 # Autechre 2026 - Vienna at Planet.tt Gasometer
 
-Autechre 2026 - Vienna at Planet.tt Gasometer on Tue 29 Sept, Vienna. 1 act on the bill: Autechre. IDM. Preview the line-up and save it on soundcheck.
+Autechre 2026 - Vienna at Planet.tt Gasometer on Tue 29 Sept, Vienna. 1 artist on the bill: Autechre. IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

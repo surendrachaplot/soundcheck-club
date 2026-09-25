@@ -1,6 +1,6 @@
 # VERKNIPT Poland - Warsaw - 9 October at TBA - SEKTOR6D
 
-VERKNIPT Poland - Warsaw - 9 October at TBA - SEKTOR6D on Fri 9 Oct, Warsaw. 5 acts on the bill: Fantasm, KARAH, Katy Rough and LIEKS and 1 more. Techno. Preview the line-up and save it on soundcheck.
+VERKNIPT Poland - Warsaw - 9 October at TBA - SEKTOR6D on Fri 9 Oct, Warsaw. 5 artists on the bill: Fantasm, KARAH, Katy Rough and LIEKS and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

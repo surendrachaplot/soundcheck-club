@@ -1,6 +1,6 @@
 # AWK SCL at OHM
 
-AWK SCL at OHM on Fri 9 Oct, Berlin. 3 acts on the bill: cheng nwsh, Katiusha and Pariah. Techno and Bass. Preview the line-up and save it on soundcheck.
+AWK SCL at OHM on Fri 9 Oct, Berlin. 3 artists on the bill: cheng nwsh, Katiusha and Pariah. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

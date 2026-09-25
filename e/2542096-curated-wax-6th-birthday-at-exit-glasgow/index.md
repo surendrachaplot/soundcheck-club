@@ -1,6 +1,6 @@
 # Curated Wax 6th Birthday at EXIT Glasgow
 
-Curated Wax 6th Birthday at EXIT Glasgow on Fri 13 Nov, Glasgow. 2 acts on the bill: Elk and Patch FD. Techno and Electro. Preview the line-up and save it on soundcheck.
+Curated Wax 6th Birthday at EXIT Glasgow on Fri 13 Nov, Glasgow. 2 artists on the bill: Elk and Patch FD. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # suero x STAS: EQ at The Ground at Club Space
 
-suero x STAS: EQ at The Ground at Club Space on Sat 14 Nov, Miami. 1 act on the bill: EQ (Estratosfera + Qiri). New Wave and Electronica. Preview the line-up and save it on soundcheck.
+suero x STAS: EQ at The Ground at Club Space on Sat 14 Nov, Miami. 1 artist on the bill: EQ (Estratosfera + Qiri). New Wave and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

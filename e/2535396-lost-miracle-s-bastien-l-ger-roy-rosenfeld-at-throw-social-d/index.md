@@ -1,6 +1,6 @@
 # LOST MIRACLE - Sébastien Léger - Roy Rosenfeld at Throw Social DC
 
-LOST MIRACLE - Sébastien Léger - Roy Rosenfeld at Throw Social DC on Sat 3 Oct, Washingtondc. 1 act on the bill: Roy Rosenfeld. Preview the line-up and save it on soundcheck.
+LOST MIRACLE - Sébastien Léger - Roy Rosenfeld at Throw Social DC on Sat 3 Oct, Washington DC. 1 artist on the bill: Roy Rosenfeld. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

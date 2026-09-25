@@ -1,6 +1,6 @@
 # Balance LDN at The Timber Loft
 
-Balance LDN at The Timber Loft on Sun 29 Nov, London. 4 acts on the bill: Kofi (UK), Life Recorder, Rap Saunders and The Duke. Preview the line-up and save it on soundcheck.
+Balance LDN at The Timber Loft on Sun 29 Nov, London. 4 artists on the bill: Kofi (UK), Life Recorder, Rap Saunders and The Duke. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

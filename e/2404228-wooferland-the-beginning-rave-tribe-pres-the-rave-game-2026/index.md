@@ -1,6 +1,6 @@
 # Wooferland, The Beginning & Rave Tribe pres. The Rave Game 2026 at Thuishaven
 
-Wooferland, The Beginning & Rave Tribe pres. The Rave Game 2026 at Thuishaven on Sat 7 Nov, Amsterdam. 17 acts on the bill: Alexander Koning, angelo, Dimitri (1) and Eric de Man and 13 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+Wooferland, The Beginning & Rave Tribe pres. The Rave Game 2026 at Thuishaven on Sat 7 Nov, Amsterdam. 17 artists on the bill: Alexander Koning, angelo, Dimitri and Eric de Man and 13 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

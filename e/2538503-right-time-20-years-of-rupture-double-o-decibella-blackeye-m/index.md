@@ -1,6 +1,6 @@
 # ◉ RIGHT TIME - 20 YEARS OF RUPTURE - Double O, Decibella, Blackeye MC ◉ at Atno
 
-◉ RIGHT TIME - 20 YEARS OF RUPTURE - Double O, Decibella, Blackeye MC ◉ at Atno on Fri 18 Dec, Budapest. 6 acts on the bill: Aikatherina, Benc, Blackeye MC and Decibella and 2 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+◉ RIGHT TIME - 20 YEARS OF RUPTURE - Double O, Decibella, Blackeye MC ◉ at Atno on Fri 18 Dec, Budapest. 6 artists on the bill: Aikatherina, Benc, Blackeye MC and Decibella and 2 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

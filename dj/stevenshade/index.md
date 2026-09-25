@@ -1,8 +1,8 @@
 # Steven Shade
 
-Steven Shade is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 25 Sept 2026.
+Steven Shade is a Techno and Drum & Bass artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 25 Sept 2026.
 
-Steven Shade is a techno and tech house artist based in Germany, tracked on soundcheck, with 73 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 2 more. Often billed alongside Kos:mo, Jayzo and rodmor. Next up: STK 47 WAREHOUSE, Krakow on Fri 25 Sept.
+Steven Shade is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 73 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 2 more. Often billed alongside Kos:mo, Jayzo and rodmor. Next up: STK 47 WAREHOUSE, Krakow on Fri 25 Sept.
 
 ## Upcoming shows
 

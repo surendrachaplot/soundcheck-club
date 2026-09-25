@@ -1,6 +1,6 @@
 # D.N/A at Outer Limits Lounge
 
-D.N/A at Outer Limits Lounge on Thu 24 Sept, Detroit. 2 acts on the bill: AIDEL and Kittyqueef:3. Techno and House. Preview the line-up and save it on soundcheck.
+D.N/A at Outer Limits Lounge on Thu 24 Sept, Detroit. 2 artists on the bill: AIDEL and Kittyqueef:3. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

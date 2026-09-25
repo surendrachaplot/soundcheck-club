@@ -1,6 +1,6 @@
 # 2000's Emo Night at Houston Hall at SOBs
 
-2000's Emo Night at Houston Hall at SOBs on Fri 25 Sept, Newyorkcity. Post-Punk. Preview the line-up and save it on soundcheck.
+2000's Emo Night at Houston Hall at SOBs on Fri 25 Sept, New York City. Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Brooklyn Halloween Unveiled Terror Party 10/31 at Unveiled
 
-Brooklyn Halloween Unveiled Terror Party 10/31 on Sat 31 Oct, Newyorkcity. Club. Preview the line-up and save it on soundcheck.
+Brooklyn Halloween Unveiled Terror Party 10/31 on Sat 31 Oct, New York City. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

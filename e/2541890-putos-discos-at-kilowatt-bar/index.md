@@ -1,6 +1,6 @@
 # PUTOS DISCOS at Kilowatt Bar
 
-PUTOS DISCOS at Kilowatt Bar on Fri 16 Oct, Sanfrancisco. 1 act on the bill: Nino Msk. House and Disco. Preview the line-up and save it on soundcheck.
+PUTOS DISCOS at Kilowatt Bar on Fri 16 Oct, San Francisco/Oakland. 1 artist on the bill: Nino Msk. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

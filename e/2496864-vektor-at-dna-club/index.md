@@ -1,6 +1,6 @@
 # VEKTOR at DNA. CLUB
 
-VEKTOR at DNA. CLUB on Fri 25 Sept, Berlin. 7 acts on the bill: BEJA, Brane, Mattone and Squaric and 3 more. Techno. Preview the line-up and save it on soundcheck.
+VEKTOR at DNA. CLUB on Fri 25 Sept, Berlin. 7 artists on the bill: BEJA, Brane, Mattone and Squaric and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

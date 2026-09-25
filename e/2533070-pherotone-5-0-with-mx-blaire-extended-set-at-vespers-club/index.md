@@ -1,6 +1,6 @@
 # Pherotone 5.0 with Mx. Blaire (extended set) at Vespers Club
 
-Pherotone 5.0 with Mx. Blaire (extended set) at Vespers Club on Fri 16 Oct, London. 2 acts on the bill: Emilia G and Mx. Blaire. House and Acid. Preview the line-up and save it on soundcheck.
+Pherotone 5.0 with Mx. Blaire (extended set) at Vespers Club on Fri 16 Oct, London. 2 artists on the bill: Emilia G and Mx. Blaire. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

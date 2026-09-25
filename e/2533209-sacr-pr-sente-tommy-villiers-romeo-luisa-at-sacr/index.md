@@ -1,6 +1,6 @@
 # Sacré présente: Tommy Villiers & Romeo Luisa at Sacré
 
-Sacré présente: Tommy Villiers & Romeo Luisa on Sat 10 Oct, Paris. 1 act on the bill: Tommy Villiers. House. Preview the line-up and save it on soundcheck.
+Sacré présente: Tommy Villiers & Romeo Luisa on Sat 10 Oct, Paris. 1 artist on the bill: Tommy Villiers. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

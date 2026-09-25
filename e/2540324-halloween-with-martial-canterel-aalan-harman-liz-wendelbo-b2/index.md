@@ -1,6 +1,6 @@
 # Halloween with Martial Canterel, Aalan Harman, Liz Wendelbo b2b L.Sangre & Void Republic at Red Roof Church
 
-Halloween with Martial Canterel, Aalan Harman, Liz Wendelbo b2b L.Sangre & Void Republic at Red Roof Church on Sat 31 Oct, Montreal. 3 acts on the bill: L.Sangre, Martial Canterel and Void Republic. Electro and Post-Punk. Preview the line-up and save it on soundcheck.
+Halloween with Martial Canterel, Aalan Harman, Liz Wendelbo b2b L.Sangre & Void Republic at Red Roof Church on Sat 31 Oct, Montreal. 3 artists on the bill: L.Sangre, Martial Canterel and Void Republic. Electro and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

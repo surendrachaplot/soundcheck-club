@@ -1,6 +1,6 @@
 # Darker Than Wax x Music Is My Sanctuary at Système
 
-Darker Than Wax x Music Is My Sanctuary at Système on Fri 9 Oct, Montreal. 2 acts on the bill: Lexis (Music Is My Sanctuary) and Marco Weibel. Preview the line-up and save it on soundcheck.
+Darker Than Wax x Music Is My Sanctuary at Système on Fri 9 Oct, Montreal. 2 artists on the bill: Lexis (Music Is My Sanctuary) and Marco Weibel. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

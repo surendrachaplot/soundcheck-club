@@ -1,6 +1,6 @@
 # David Morales at Sable Miami
 
-David Morales at Sable Miami on Fri 20 Nov, Miami. 1 act on the bill: David Morales. Preview the line-up and save it on soundcheck.
+David Morales at Sable Miami on Fri 20 Nov, Miami. 1 artist on the bill: David Morales. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

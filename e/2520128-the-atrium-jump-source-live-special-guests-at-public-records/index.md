@@ -1,6 +1,6 @@
 # The Atrium: Jump Source [Live], Special Guests at public records
 
-The Atrium: Jump Source [Live], Special Guests at public records on Sun 22 Nov, Newyorkcity. 1 act on the bill: Jump Source. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+The Atrium: Jump Source [Live], Special Guests at public records on Sun 22 Nov, New York City. 1 artist on the bill: Jump Source. Minimal and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Week-End Fest XV - Day II at Stadtgarten Konzertsaal / Cafe
 
-Week-End Fest XV - Day II at Stadtgarten Konzertsaal / Cafe on Fri 6 Nov, Cologne. 4 acts on the bill: Gilles Peterson, gyrofield, upsammy and Valentina Magaletti. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Week-End Fest XV - Day II at Stadtgarten Konzertsaal / Cafe on Fri 6 Nov, Cologne. 4 artists on the bill: Gilles Peterson, gyrofield, upsammy and Valentina Magaletti. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

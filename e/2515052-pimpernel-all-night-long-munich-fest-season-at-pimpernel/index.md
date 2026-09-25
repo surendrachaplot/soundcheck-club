@@ -1,6 +1,6 @@
 # Pimpernel All Night Long - Munich Fest Season at Pimpernel
 
-Pimpernel All Night Long - Munich Fest Season on Sat 26 Sept, Munich. 1 act on the bill: Steffen Lengler. House and Electro. Preview the line-up and save it on soundcheck.
+Pimpernel All Night Long - Munich Fest Season on Sat 26 Sept, Munich. 1 artist on the bill: Steffen Lengler. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

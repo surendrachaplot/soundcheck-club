@@ -1,6 +1,6 @@
 # Yoker at TBA
 
-Yoker at TBA on Sat 24 Oct, Sydney. 2 acts on the bill: E-File and The Land of Rah. Trance and Techno. Preview the line-up and save it on soundcheck.
+Yoker at TBA on Sat 24 Oct, Sydney. 2 artists on the bill: E-File and The Land of Rah. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

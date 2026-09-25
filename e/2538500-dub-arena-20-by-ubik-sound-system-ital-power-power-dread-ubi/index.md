@@ -1,6 +1,6 @@
 # DUB ARENA #20 by UBIK SOUND SYSTEM: Ital Power • Power Dread • UBIK Sound System at Zoo
 
-DUB ARENA #20 by UBIK SOUND SYSTEM: Ital Power • Power Dread • UBIK Sound System at Zoo on Sat 10 Oct, Geneva. 1 act on the bill: Ital Power. Dub. Preview the line-up and save it on soundcheck.
+DUB ARENA #20 by UBIK SOUND SYSTEM: Ital Power • Power Dread • UBIK Sound System at Zoo on Sat 10 Oct, Geneva. 1 artist on the bill: Ital Power. Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

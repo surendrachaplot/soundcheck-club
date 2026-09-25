@@ -1,6 +1,6 @@
 # independent dancing at Kauz
 
-independent dancing at Kauz on Fri 9 Oct, Zurich. 1 act on the bill: Kalabrese. House and Disco. Preview the line-up and save it on soundcheck.
+independent dancing at Kauz on Fri 9 Oct, Zurich. 1 artist on the bill: Kalabrese. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

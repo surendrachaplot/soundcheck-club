@@ -2,7 +2,7 @@
 
 Jay de Lys is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-Jay de Lys is a tech house and house artist based in Argentina, tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Franky Rizardo, Joey Daniel and Easttown. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
+Jay de Lys is a tech house and house artist based in Argentina, tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Franky Rizardo, Joey Daniel and Easttown. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 

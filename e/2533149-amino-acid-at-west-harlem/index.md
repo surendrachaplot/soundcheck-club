@@ -1,6 +1,6 @@
 # AMINO ACID at West Harlem
 
-AMINO ACID at West Harlem on Sat 3 Oct, Kyoto. 6 acts on the bill: Foodman, Jyn (1), kotakunisaki and NTsKi and 2 more. Experimental and Club. Preview the line-up and save it on soundcheck.
+AMINO ACID at West Harlem on Sat 3 Oct, Kyoto. 6 artists on the bill: Foodman, Jyn, kotakunisaki and NTsKi and 2 more. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

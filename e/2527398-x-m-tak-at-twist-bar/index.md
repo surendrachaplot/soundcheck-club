@@ -1,6 +1,6 @@
 # x.m., Takē at Twist Bar
 
-x.m., Takē at Twist Bar on Sat 26 Sept, Prague. 1 act on the bill: Takē. Preview the line-up and save it on soundcheck.
+x.m., Takē at Twist Bar on Sat 26 Sept, Prague. 1 artist on the bill: Takē. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

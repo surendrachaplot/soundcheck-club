@@ -1,6 +1,6 @@
 # We'll be there in a bit with Rhyw, Samira, Levente at Sameheads
 
-We'll be there in a bit with Rhyw, Samira, Levente at Sameheads on Fri 30 Oct, Berlin. 3 acts on the bill: Levente, Rhyw and Samira (NL). Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+We'll be there in a bit with Rhyw, Samira, Levente at Sameheads on Fri 30 Oct, Berlin. 3 artists on the bill: Levente, Rhyw and Samira (NL). Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

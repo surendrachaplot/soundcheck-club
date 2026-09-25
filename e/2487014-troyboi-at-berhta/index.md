@@ -1,6 +1,6 @@
 # TroyBoi at BERHTA
 
-TroyBoi at BERHTA on Fri 23 Oct, Washingtondc. 1 act on the bill: TroyBoi. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+TroyBoi at BERHTA on Fri 23 Oct, Washington DC. 1 artist on the bill: TroyBoi. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

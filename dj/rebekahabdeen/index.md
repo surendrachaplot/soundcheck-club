@@ -1,8 +1,8 @@
 # Rebekah Abdeen
 
-Rebekah Abdeen is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Fox and Firkin, London on Thu, 24 Sept 2026.
+Rebekah Abdeen is a Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Fox and Firkin, London on Thu, 24 Sept 2026.
 
-Rebekah Abdeen is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Basel, Berlin, Brighton and Detroit and 9 more. Often billed alongside Denham Audio, Trudy Knight and Triple Point. Next up: The Fox and Firkin, London on Thu 24 Sept.
+Rebekah Abdeen is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Basel, Berlin, Brighton and Detroit and 10 more. Often billed alongside Denham Audio, Trudy Knight and Triple Point. Next up: The Fox and Firkin, London on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Rebekah Abdeen is a bass and techno artist based in United Kingdom, tracked on s
 | Thu, 24 Sept 2026 | The Fox and Firkin | London |
 | Sat, 26 Sept 2026 | Good Room | New York City |
 | Fri, 9 Oct 2026 | Cu | London |
+| Thu, 29 Oct 2026 | The Berkeley Suite | Glasgow |
 | Sat, 31 Oct 2026 | TAC (Tottenham Arts Collective) | London |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Paradisco at Kiss Kiss Bang Bang
 
-Paradisco at Kiss Kiss Bang Bang on Sat 17 Oct, Losangeles. House and Disco. Preview the line-up and save it on soundcheck.
+Paradisco at Kiss Kiss Bang Bang on Sat 17 Oct, Los Angeles. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

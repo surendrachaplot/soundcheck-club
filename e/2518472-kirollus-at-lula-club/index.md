@@ -1,6 +1,6 @@
 # Kirollus at Lula Club
 
-Kirollus at Lula Club on Fri 27 Nov, Madrid. 1 act on the bill: Kirollus. Preview the line-up and save it on soundcheck.
+Kirollus at Lula Club on Fri 27 Nov, Madrid. 1 artist on the bill: Kirollus. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

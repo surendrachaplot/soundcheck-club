@@ -1,6 +1,6 @@
 # Frecuenzia Zero Capitulo 004 at Revo Rooftop
 
-Frecuenzia Zero Capitulo 004 at Revo Rooftop on Fri 2 Oct, Mexicocity. 3 acts on the bill: Andrreas, ARWEN and Franco (1). House. Preview the line-up and save it on soundcheck.
+Frecuenzia Zero Capitulo 004 at Revo Rooftop on Fri 2 Oct, Mexico City. 3 artists on the bill: Andrreas, ARWEN and Franco. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MESTIZA at Hï Ibiza
 
-MESTIZA at Hï Ibiza on Sun 27 Sept, Ibiza. 8 acts on the bill: Anna Unusyan, DAX J, Elli Acula and Indira Paganotto and 4 more. Techno and Afro House. Preview the line-up and save it on soundcheck.
+MESTIZA at Hï Ibiza on Sun 27 Sept, Ibiza. 8 artists on the bill: Anna Unusyan, DAX J, Elli Acula and Indira Paganotto and 4 more. Techno and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # S&M X Junglist Alliance presents: DJ Rap at Sidney & Matilda
 
-S&M X Junglist Alliance presents: DJ Rap at Sidney & Matilda on Fri 27 Nov, Sheffield. 1 act on the bill: DJ Rap. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+S&M X Junglist Alliance presents: DJ Rap at Sidney & Matilda on Fri 27 Nov, Sheffield. 1 artist on the bill: DJ Rap. Drum & Bass and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

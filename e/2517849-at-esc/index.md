@@ -1,6 +1,6 @@
 # 𝕃𝔸𝕋𝔼𝕏. // 𝕋ℍ𝔼 𝕍𝔼𝕃𝕍𝔼𝕋 ℝ𝕆𝕆𝕄 // 𝕄𝕆ℕ𝕋ℝ𝔼𝔸𝕃 at ESC
 
-𝕃𝔸𝕋𝔼𝕏. // 𝕋ℍ𝔼 𝕍𝔼𝕃𝕍𝔼𝕋 ℝ𝕆𝕆𝕄 // 𝕄𝕆ℕ𝕋ℝ𝔼𝔸𝕃 at ESC on Sat 26 Sept, Montreal. 4 acts on the bill: CrisseMarqueur, Ekitwanda, Esther Côté and Forello. Preview the line-up and save it on soundcheck.
+𝕃𝔸𝕋𝔼𝕏. // 𝕋ℍ𝔼 𝕍𝔼𝕃𝕍𝔼𝕋 ℝ𝕆𝕆𝕄 // 𝕄𝕆ℕ𝕋ℝ𝔼𝔸𝕃 at ESC on Sat 26 Sept, Montreal. 4 artists on the bill: CrisseMarqueur, Ekitwanda, Esther Côté and Forello. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

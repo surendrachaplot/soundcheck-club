@@ -2,7 +2,7 @@
 
 Alma Linda is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 30 Oct 2026.
 
-Alma Linda is a house and deep house artist based in Chile, tracked on soundcheck, with 73 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 5 more. Often billed alongside ELIZEN THE EMPEROR, Britta Arnold and Chris Schwarzwälder. Next up: Ex Hacienda de San Pablo de Enmedio, Mexicocity on Fri 30 Oct.
+Alma Linda is a house and deep house artist based in Chile, tracked on soundcheck, with 73 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 5 more. Often billed alongside ELIZEN THE EMPEROR, Britta Arnold and Chris Schwarzwälder. Next up: Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 30 Oct.
 
 ## Upcoming shows
 

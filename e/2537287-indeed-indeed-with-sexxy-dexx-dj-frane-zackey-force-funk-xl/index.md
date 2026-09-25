@@ -1,6 +1,6 @@
 # Indeed Indeed with Sexxy Dexx, DJ Frane, Zackey Force Funk, XL Middleton, Moniquea, Kaistar at Hello Stranger
 
-Indeed Indeed with Sexxy Dexx, DJ Frane, Zackey Force Funk, XL Middleton, Moniquea, Kaistar at Hello Stranger on Fri 2 Oct, Losangeles. Funk / Soul. Preview the line-up and save it on soundcheck.
+Indeed Indeed with Sexxy Dexx, DJ Frane, Zackey Force Funk, XL Middleton, Moniquea, Kaistar at Hello Stranger on Fri 2 Oct, Los Angeles. Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

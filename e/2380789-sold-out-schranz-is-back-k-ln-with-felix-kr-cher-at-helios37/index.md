@@ -1,6 +1,6 @@
 # (sold out) SCHRANZ is BACK Köln with Felix Kröcher at Helios37
 
-(sold out) SCHRANZ is BACK Köln with Felix Kröcher at Helios37 on Fri 20 Nov, Cologne. 1 act on the bill: Felix Kröcher. Techno. Preview the line-up and save it on soundcheck.
+(sold out) SCHRANZ is BACK Köln with Felix Kröcher at Helios37 on Fri 20 Nov, Cologne. 1 artist on the bill: Felix Kröcher. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

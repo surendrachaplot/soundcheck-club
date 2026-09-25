@@ -1,6 +1,6 @@
 # Oven Garden en Spook Sunbox: Special-k: Silverlining - Tama Sumo at Spook Club
 
-Oven Garden en Spook Sunbox: Special-k: Silverlining - Tama Sumo at Spook Club on Sat 26 Sept, Valencia. 8 acts on the bill: Fran.cis, Ines Cartas, Pizzicatto and Silverlining and 4 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Oven Garden en Spook Sunbox: Special-k: Silverlining - Tama Sumo at Spook Club on Sat 26 Sept, Valencia. 8 artists on the bill: Fran.cis, Ines Cartas, Pizzicatto and Silverlining and 4 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

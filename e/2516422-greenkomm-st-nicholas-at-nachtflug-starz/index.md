@@ -1,6 +1,6 @@
 # GreenKomm St.Nicholas at Nachtflug & Starz
 
-GreenKomm St.Nicholas at Nachtflug & Starz on Sun 29 Nov, Cologne. 2 acts on the bill: Pagano and Skippo. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+GreenKomm St.Nicholas at Nachtflug & Starz on Sun 29 Nov, Cologne. 2 artists on the bill: Pagano and Skippo. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Magician at BCM
 
-The Magician at BCM on Sat 3 Oct, Mallorca. 1 act on the bill: The Magician. House and Tech House. Preview the line-up and save it on soundcheck.
+The Magician at BCM on Sat 3 Oct, Mallorca. 1 artist on the bill: The Magician. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

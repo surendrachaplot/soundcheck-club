@@ -2,7 +2,7 @@
 
 Hysteria temple Foundation is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Zoo, Geneva on Fri, 25 Sept 2026.
 
-Hysteria temple Foundation is a techno and bass artist based in France, tracked on soundcheck, with 15 sets logged across Amsterdam, Geneva, Hongkong and Lisbon and 7 more. Often billed alongside ojoo, A Strange Wedding and Timnah. Next up: Zoo, Geneva on Fri 25 Sept.
+Hysteria temple Foundation is a techno and bass artist based in France, tracked on soundcheck, with 15 sets logged across Amsterdam, Geneva, Hong Kong and Lisbon and 7 more. Often billed alongside ojoo, A Strange Wedding and Timnah. Next up: Zoo, Geneva on Fri 25 Sept.
 
 ## Upcoming shows
 

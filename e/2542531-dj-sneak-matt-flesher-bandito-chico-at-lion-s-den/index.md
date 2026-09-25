@@ -1,6 +1,6 @@
 # DJ Sneak, Matt Flesher, Bandito Chico at Lion's Den
 
-DJ Sneak, Matt Flesher, Bandito Chico at Lion's Den on Fri 25 Sept, Miami. 1 act on the bill: DJ Sneak. Preview the line-up and save it on soundcheck.
+DJ Sneak, Matt Flesher, Bandito Chico at Lion's Den on Fri 25 Sept, Miami. 1 artist on the bill: DJ Sneak. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

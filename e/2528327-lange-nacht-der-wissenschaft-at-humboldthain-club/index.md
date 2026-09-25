@@ -1,6 +1,6 @@
 # Lange Nacht der Wissenschaft at Humboldthain Club
 
-Lange Nacht der Wissenschaft at Humboldthain Club on Fri 25 Sept, Berlin. 4 acts on the bill: Bamela Paywatch, DJ Purpur, Pavelo Promillo and tamarawrx3. Baile Funk and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Lange Nacht der Wissenschaft at Humboldthain Club on Fri 25 Sept, Berlin. 4 artists on the bill: Bamela Paywatch, DJ Purpur, Pavelo Promillo and tamarawrx3. Baile Funk and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

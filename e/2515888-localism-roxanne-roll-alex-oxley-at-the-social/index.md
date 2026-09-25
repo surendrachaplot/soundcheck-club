@@ -1,6 +1,6 @@
 # LOCALISM: Roxanne Roll & Alex Oxley at The Social
 
-LOCALISM: Roxanne Roll & Alex Oxley at The Social on Fri 25 Sept, London. 2 acts on the bill: Alex Oxley and Roxanne Roll. House and Disco. Preview the line-up and save it on soundcheck.
+LOCALISM: Roxanne Roll & Alex Oxley at The Social on Fri 25 Sept, London. 2 artists on the bill: Alex Oxley and Roxanne Roll. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

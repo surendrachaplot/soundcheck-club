@@ -1,6 +1,6 @@
 # Renate Klubnacht with Lux, Horkheimer, karete bu, Rosa Red at Renate
 
-Renate Klubnacht with Lux, Horkheimer, karete bu, Rosa Red on Fri 9 Oct, Berlin. 7 acts on the bill: CHUKWU, Horkheimer, karete bu and Lulu & Nell and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht with Lux, Horkheimer, karete bu, Rosa Red on Fri 9 Oct, Berlin. 7 artists on the bill: CHUKWU, Horkheimer, karete bu and Lulu & Nell and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

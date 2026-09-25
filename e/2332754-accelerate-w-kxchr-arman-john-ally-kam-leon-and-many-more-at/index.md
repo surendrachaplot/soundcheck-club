@@ -1,6 +1,6 @@
 # Accelerate w. KXCHR, Arman John, Ally, Kamäleon and many more at Lokschuppen Berlin
 
-Accelerate w. KXCHR, Arman John, Ally, Kamäleon and many more at Lokschuppen Berlin on Fri 23 Oct, Berlin. 8 acts on the bill: 4NOUK, Ally (2), Arman John and FINYA and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Accelerate w. KXCHR, Arman John, Ally, Kamäleon and many more at Lokschuppen Berlin on Fri 23 Oct, Berlin. 8 artists on the bill: 4NOUK, Ally, Arman John and FINYA and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

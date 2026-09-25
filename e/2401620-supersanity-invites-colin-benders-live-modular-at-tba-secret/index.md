@@ -1,6 +1,6 @@
 # Supersanity invites Colin Benders (live modular) at TBA - Secret Venue, Bucharest
 
-Supersanity invites Colin Benders (live modular) at TBA - Secret Venue, Bucharest on Sat 17 Oct, Bucharest. 2 acts on the bill: Ada Kaleh and Colin Benders. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Supersanity invites Colin Benders (live modular) at TBA - Secret Venue, Bucharest on Sat 17 Oct, Bucharest. 2 artists on the bill: Ada Kaleh and Colin Benders. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

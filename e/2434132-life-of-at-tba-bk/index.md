@@ -1,6 +1,6 @@
 # Life Of at TBA - BK
 
-Life Of at TBA - BK on Sat 17 Oct, Newyorkcity. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Life Of at TBA - BK on Sat 17 Oct, New York City. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

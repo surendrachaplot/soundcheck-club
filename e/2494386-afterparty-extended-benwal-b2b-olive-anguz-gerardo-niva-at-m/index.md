@@ -1,6 +1,6 @@
 # AFTERPARTY EXTENDED: Benwal B2B Olive Anguz / Gerardo Niva at Mondo
 
-AFTERPARTY EXTENDED: Benwal B2B Olive Anguz / Gerardo Niva at Mondo on Sun 1 Nov, Madrid. 3 acts on the bill: Benwal, Gerardo Niva and Olive Anguz. Preview the line-up and save it on soundcheck.
+AFTERPARTY EXTENDED: Benwal B2B Olive Anguz / Gerardo Niva at Mondo on Sun 1 Nov, Madrid. 3 artists on the bill: Benwal, Gerardo Niva and Olive Anguz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

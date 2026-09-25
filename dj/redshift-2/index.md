@@ -2,7 +2,7 @@
 
 Redshift (2) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Eiger Studios, Leeds on Sat, 31 Oct 2026.
 
-Redshift (2) is a house and electro artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Leeds, London and Newcastle. Often billed alongside Cam Harrop, Oliver Kristian and Torin Grady. Next up: Eiger Studios, Leeds on Sat 31 Oct.
+Redshift is a house and electro artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Leeds, London and Newcastle. Often billed alongside Cam Harrop, Oliver Kristian and Torin Grady. Next up: Eiger Studios, Leeds on Sat 31 Oct.
 
 ## Upcoming shows
 

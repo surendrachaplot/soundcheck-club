@@ -1,6 +1,6 @@
 # BUKA at Dopo?Space
 
-BUKA at Dopo?Space on Sat 10 Oct, Milan. 1 act on the bill: Front De Cadeaux. Preview the line-up and save it on soundcheck.
+BUKA at Dopo?Space on Sat 10 Oct, Milan. 1 artist on the bill: Front De Cadeaux. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

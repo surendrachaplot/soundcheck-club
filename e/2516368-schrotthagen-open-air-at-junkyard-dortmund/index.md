@@ -1,6 +1,6 @@
 # Schrotthagen Open Air at Junkyard Dortmund
 
-Schrotthagen Open Air at Junkyard Dortmund on Sat 26 Sept, Dortmund-essen. 1 act on the bill: Schrotthagen. Techno. Preview the line-up and save it on soundcheck.
+Schrotthagen Open Air at Junkyard Dortmund on Sat 26 Sept, Dortmund Essen. 1 artist on the bill: Schrotthagen. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

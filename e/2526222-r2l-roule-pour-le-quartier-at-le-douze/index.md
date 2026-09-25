@@ -1,6 +1,6 @@
 # R2L - Roule pour le quartier at Le Douze
 
-R2L - Roule pour le quartier at Le Douze on Thu 24 Sept, Geneva. 2 acts on the bill: Artmaillé and Pascal Viscardi. Preview the line-up and save it on soundcheck.
+R2L - Roule pour le quartier at Le Douze on Thu 24 Sept, Geneva. 2 artists on the bill: Artmaillé and Pascal Viscardi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

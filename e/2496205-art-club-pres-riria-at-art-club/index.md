@@ -1,6 +1,6 @@
 # Art Club pres. RIRIA at Art Club
 
-Art Club pres. RIRIA on Sat 26 Sept, Houston. 1 act on the bill: RIRIA. Garage and Amapiano. Preview the line-up and save it on soundcheck.
+Art Club pres. RIRIA on Sat 26 Sept, Houston. 1 artist on the bill: RIRIA. Garage and Amapiano. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

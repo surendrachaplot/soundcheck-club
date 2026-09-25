@@ -1,6 +1,6 @@
 # Goat (JP) + Camila Nebbia at Silent Green
 
-Goat (JP) + Camila Nebbia at Silent Green on Wed 4 Nov, Berlin. 1 act on the bill: Goat (JP). Preview the line-up and save it on soundcheck.
+Goat (JP) + Camila Nebbia at Silent Green on Wed 4 Nov, Berlin. 1 artist on the bill: Goat (JP). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

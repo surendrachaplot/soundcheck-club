@@ -1,6 +1,6 @@
 # 01366 ̸ ANNO V {HALLOWEEN} at Village Underground Barcelona
 
-01366 ̸ ANNO V {HALLOWEEN} at Village Underground Barcelona on Sat 31 Oct, Barcelona. 8 acts on the bill: Anabel Arroyo, Aristides, Baldman and Darwin and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+01366 ̸ ANNO V {HALLOWEEN} at Village Underground Barcelona on Sat 31 Oct, Barcelona. 8 artists on the bill: Anabel Arroyo, Aristides, Baldman and Darwin and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

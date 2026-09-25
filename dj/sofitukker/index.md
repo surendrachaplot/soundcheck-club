@@ -2,7 +2,7 @@
 
 SOFI TUKKER is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Huntington Bank Pavilion at Northerly Island, Chicago on Fri, 25 Sept 2026.
 
-SOFI TUKKER is a house and tech house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Austin, Buenosaires, Chicago and Ibiza and 12 more. Often billed alongside Anabel Englund, LP Giobbi and Eli Brown. Next up: The Huntington Bank Pavilion at Northerly Island, Chicago on Fri 25 Sept.
+SOFI TUKKER is a house and tech house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Austin, Buenos Aires, Chicago and Ibiza and 12 more. Often billed alongside Anabel Englund, LP Giobbi and Eli Brown. Next up: The Huntington Bank Pavilion at Northerly Island, Chicago on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -1,13 +1,14 @@
 # SONA (2)
 
-SONA (2) is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 77, London on Fri, 6 Nov 2026.
+SONA (2) is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Eventpyramide Vösendorf, Austria on Sat, 3 Oct 2026.
 
-SONA (2) is an afro house and house artist based in South Africa, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Athens and Bali and 22 more. Often billed alongside Black Coffee, Damian Lazarus and DJ Tennis. Next up: 77, London on Fri 6 Nov.
+SONA is an afro house and house artist based in South Africa, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Athens and Austria and 23 more. Often billed alongside Black Coffee, Damian Lazarus and DJ Tennis. Next up: Eventpyramide Vösendorf, Austria on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Eventpyramide Vösendorf | Austria |
 | Fri, 6 Nov 2026 | 77 | London |
 
 ## Recently played

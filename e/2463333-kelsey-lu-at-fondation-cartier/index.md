@@ -1,6 +1,6 @@
 # Kelsey Lu at Fondation Cartier
 
-Kelsey Lu at Fondation Cartier on Wed 4 Nov, Paris. 1 act on the bill: Kelsey Lu. Electronica. Preview the line-up and save it on soundcheck.
+Kelsey Lu at Fondation Cartier on Wed 4 Nov, Paris. 1 artist on the bill: Kelsey Lu. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

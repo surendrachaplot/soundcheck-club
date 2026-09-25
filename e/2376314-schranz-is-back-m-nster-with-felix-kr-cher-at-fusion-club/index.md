@@ -1,6 +1,6 @@
 # SCHRANZ is BACK Münster with Felix Kröcher at Fusion Club
 
-SCHRANZ is BACK Münster with Felix Kröcher at Fusion Club on Sat 14 Nov, Munster. 1 act on the bill: Felix Kröcher. Techno. Preview the line-up and save it on soundcheck.
+SCHRANZ is BACK Münster with Felix Kröcher at Fusion Club on Sat 14 Nov, Munster. 1 artist on the bill: Felix Kröcher. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

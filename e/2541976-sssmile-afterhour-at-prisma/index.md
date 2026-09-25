@@ -1,6 +1,6 @@
 # Sssmile Afterhour at Prisma
 
-Sssmile Afterhour at Prisma on Thu 22 Oct, Berlin. 1 act on the bill: Kalimanda. Techno. Preview the line-up and save it on soundcheck.
+Sssmile Afterhour at Prisma on Thu 22 Oct, Berlin. 1 artist on the bill: Kalimanda. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

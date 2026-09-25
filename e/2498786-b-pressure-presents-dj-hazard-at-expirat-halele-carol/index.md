@@ -1,6 +1,6 @@
 # B:pressure presents: DJ Hazard at Expirat Halele Carol
 
-B:pressure presents: DJ Hazard at Expirat Halele Carol on Thu 5 Nov, Bucharest. 1 act on the bill: DJ Hazard. Drum & Bass. Preview the line-up and save it on soundcheck.
+B:pressure presents: DJ Hazard at Expirat Halele Carol on Thu 5 Nov, Bucharest. 1 artist on the bill: DJ Hazard. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

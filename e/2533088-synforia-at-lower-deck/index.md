@@ -1,6 +1,6 @@
 # SYNFORIA at Lower Deck
 
-SYNFORIA at Lower Deck on Sat 5 Dec, London. 6 acts on the bill: Altayef, Amber Stomp, Igor Garanin and PROFF and 2 more. House. Preview the line-up and save it on soundcheck.
+SYNFORIA at Lower Deck on Sat 5 Dec, London. 6 artists on the bill: Altayef, Amber Stomp, Igor Garanin and PROFF and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

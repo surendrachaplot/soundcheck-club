@@ -2,7 +2,7 @@
 
 Rama (2) is a Experimental and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Panke, Berlin on Fri, 25 Sept 2026.
 
-Rama (2) is an experimental and bass artist based in Egypt, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 8 more. Often billed alongside ZULI, Assyouti and Bungalovv. Next up: Panke, Berlin on Fri 25 Sept.
+Rama is an experimental and bass artist based in Egypt, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 8 more. Often billed alongside ZULI, Assyouti and Bungalovv. Next up: Panke, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 

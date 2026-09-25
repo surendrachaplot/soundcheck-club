@@ -2,7 +2,7 @@
 
 uRaNg3L is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri, 25 Sept 2026.
 
-uRaNg3L is a techno and club artist based in United States of America, tracked on soundcheck, with 43 sets logged across Chicago and Nashville. Often billed alongside Tdy (1), Miss Twink USA and Flores Negras. Next up: TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri 25 Sept.
+uRaNg3L is a techno and club artist based in United States of America, tracked on soundcheck, with 43 sets logged across Chicago and Nashville. Often billed alongside Tdy, Miss Twink USA and Flores Negras. Next up: TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri 25 Sept.
 
 ## Upcoming shows
 

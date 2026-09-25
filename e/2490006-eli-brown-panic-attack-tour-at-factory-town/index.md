@@ -1,6 +1,6 @@
 # Eli Brown Panic Attack Tour at Factory Town
 
-Eli Brown Panic Attack Tour at Factory Town on Fri 25 Sept, Miami. 4 acts on the bill: Daizy, Eli Brown, Marie Vaunt and Massano. Preview the line-up and save it on soundcheck.
+Eli Brown Panic Attack Tour at Factory Town on Fri 25 Sept, Miami. 4 artists on the bill: Daizy, Eli Brown, Marie Vaunt and Massano. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

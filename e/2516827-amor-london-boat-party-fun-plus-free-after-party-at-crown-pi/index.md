@@ -1,6 +1,6 @@
 # Amor London Boat party fun plus free after party at Crown Pier
 
-Amor London Boat party fun plus free after party at Crown Pier on Sat 26 Sept, London. 4 acts on the bill: Alfredo Romero, BämBäm, NYCity Soundz and VanRock. Preview the line-up and save it on soundcheck.
+Amor London Boat party fun plus free after party at Crown Pier on Sat 26 Sept, London. 4 artists on the bill: Alfredo Romero, BämBäm, NYCity Soundz and VanRock. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

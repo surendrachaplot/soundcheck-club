@@ -2,7 +2,7 @@
 
 Pedro Villa is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 45 London, London on Fri, 30 Oct 2026.
 
-Pedro Villa is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Barcelona and London. Often billed alongside Tato (2), Ale Grooves and Andres Forero. Next up: 45 London, London on Fri 30 Oct.
+Pedro Villa is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Barcelona and London. Often billed alongside Tato, Ale Grooves and Andres Forero. Next up: 45 London, London on Fri 30 Oct.
 
 ## Upcoming shows
 

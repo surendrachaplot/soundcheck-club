@@ -1,6 +1,6 @@
 # Ampere x Rawax present: Ricardo Villalobos at Ampere
 
-Ampere x Rawax present: Ricardo Villalobos on Fri 23 Oct, Antwerp. 3 acts on the bill: Joachim, Ricardo Villalobos and Robert Drewek. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Ampere x Rawax present: Ricardo Villalobos on Fri 23 Oct, Antwerp. 3 artists on the bill: Joachim, Ricardo Villalobos and Robert Drewek. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

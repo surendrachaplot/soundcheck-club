@@ -1,6 +1,6 @@
 # Jlin / Third Coast Percussion: Vernacular at Cité De La Musique
 
-Jlin / Third Coast Percussion: Vernacular at Cité De La Musique on Tue 3 Nov, Paris. 1 act on the bill: Jlin. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Jlin / Third Coast Percussion: Vernacular at Cité De La Musique on Tue 3 Nov, Paris. 1 artist on the bill: Jlin. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

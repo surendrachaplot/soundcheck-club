@@ -1,6 +1,6 @@
 # Index x Outset: Black Traffic & Mr. Polska at Index
 
-Index x Outset: Black Traffic & Mr. Polska on Fri 2 Oct, Dublin. 1 act on the bill: Black Traffic. Electronica. Preview the line-up and save it on soundcheck.
+Index x Outset: Black Traffic & Mr. Polska on Fri 2 Oct, Dublin. 1 artist on the bill: Black Traffic. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

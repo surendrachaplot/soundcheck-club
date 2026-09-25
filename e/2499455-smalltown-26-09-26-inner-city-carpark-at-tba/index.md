@@ -1,6 +1,6 @@
 # smalltown 26.09.26 - Inner-City Carpark at TBA
 
-smalltown 26.09.26 - Inner-City Carpark at TBA on Sat 26 Sept, Melbourne. 6 acts on the bill: Adriana (1), Ed Kent, Eden Burns and Jordan Brando and 2 more. Preview the line-up and save it on soundcheck.
+smalltown 26.09.26 - Inner-City Carpark at TBA on Sat 26 Sept, Melbourne. 6 artists on the bill: Adriana, Ed Kent, Eden Burns and Jordan Brando and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

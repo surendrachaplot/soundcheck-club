@@ -1,6 +1,6 @@
 # KEIN KLUB - lineup TBA at H0L0
 
-KEIN KLUB - lineup TBA at H0L0 on Fri 11 Dec, Newyorkcity. Preview the line-up and save it on soundcheck.
+KEIN KLUB - lineup TBA at H0L0 on Fri 11 Dec, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

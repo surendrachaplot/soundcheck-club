@@ -1,6 +1,6 @@
 # Tempio Radio Notturna x Parallel41: Niceteed, Subradeon, Manuel Di Martino, Biaes at Tempio del Futuro Perduto
 
-Tempio Radio Notturna x Parallel41: Niceteed, Subradeon, Manuel Di Martino, Biaes at Tempio del Futuro Perduto on Thu 1 Oct, Milan. 4 acts on the bill: BIAES, Manuel Di Martino, Niceteed and Subradeon. Preview the line-up and save it on soundcheck.
+Tempio Radio Notturna x Parallel41: Niceteed, Subradeon, Manuel Di Martino, Biaes at Tempio del Futuro Perduto on Thu 1 Oct, Milan. 4 artists on the bill: BIAES, Manuel Di Martino, Niceteed and Subradeon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

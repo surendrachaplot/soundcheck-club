@@ -2,7 +2,7 @@
 
 Mowie (2) is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Le Red Room, Montreal on Fri, 16 Oct 2026.
 
-Mowie (2) is a hardcore and gabber artist based in Canada, tracked on soundcheck, with 18 sets logged across Montreal and Toronto. Often billed alongside the bald girl, Baby Bimbo and Outback. Next up: Le Red Room, Montreal on Fri 16 Oct.
+Mowie is a hardcore and gabber artist based in Canada, tracked on soundcheck, with 18 sets logged across Montreal and Toronto. Often billed alongside the bald girl, Baby Bimbo and Outback. Next up: Le Red Room, Montreal on Fri 16 Oct.
 
 ## Upcoming shows
 

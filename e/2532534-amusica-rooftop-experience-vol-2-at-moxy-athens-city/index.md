@@ -1,6 +1,6 @@
 # Amusica Rooftop Experience Vol.2 at Moxy Athens City
 
-Amusica Rooftop Experience Vol.2 at Moxy Athens City on Sun 4 Oct, Athens. 1 act on the bill: Re.You. House and Afro Tech. Preview the line-up and save it on soundcheck.
+Amusica Rooftop Experience Vol.2 at Moxy Athens City on Sun 4 Oct, Athens. 1 artist on the bill: Re.You. House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

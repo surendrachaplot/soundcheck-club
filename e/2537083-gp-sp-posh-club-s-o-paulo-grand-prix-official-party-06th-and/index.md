@@ -1,6 +1,6 @@
 # GP SP & Posh Club: São Paulo Grand Prix Official Party - 06th and 07th November at Hotel Unique
 
-GP SP & Posh Club: São Paulo Grand Prix Official Party - 06th and 07th November at Hotel Unique on Fri 6 Nov, Saopaulo. 3 acts on the bill: Notre Dame, Paloma and Saraga. House and Club. Preview the line-up and save it on soundcheck.
+GP SP & Posh Club: São Paulo Grand Prix Official Party - 06th and 07th November at Hotel Unique on Fri 6 Nov, Sao Paulo. 3 artists on the bill: Notre Dame, Paloma and Saraga. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

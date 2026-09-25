@@ -1,14 +1,14 @@
 # SIMES
 
-SIMES is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Saalbach-Hinterglemm, All on Thu, 10 Dec 2026.
+SIMES is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
-SIMES is an electronic artist based in Germany, tracked on soundcheck, with 7 sets logged across All, Cologne and London. Often billed alongside Nic Lorenz, Fero Duman and Chris Di Perri. Next up: Saalbach-Hinterglemm, All on Thu 10 Dec.
+SIMES is an electronic artist based in Germany, tracked on soundcheck, with 7 sets logged across Austria, Cologne and London. Often billed alongside Nic Lorenz, Fero Duman and Chris Di Perri. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | All |
+| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played
 

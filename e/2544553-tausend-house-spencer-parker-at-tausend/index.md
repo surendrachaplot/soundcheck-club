@@ -1,6 +1,6 @@
 # Tausend House: Spencer Parker at Tausend
 
-Tausend House: Spencer Parker on Sat 3 Oct, Berlin. 1 act on the bill: Spencer Parker. House. Preview the line-up and save it on soundcheck.
+Tausend House: Spencer Parker on Sat 3 Oct, Berlin. 1 artist on the bill: Spencer Parker. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

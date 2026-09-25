@@ -1,6 +1,6 @@
 # Club Balearico popup 001 feat Jane Decks b2b Max Cherry, Disco Dora, Lily FM and Madame Reves at Heaps Normal Health Club
 
-Club Balearico popup 001 feat Jane Decks b2b Max Cherry, Disco Dora, Lily FM and Madame Reves at Heaps Normal Health Club on Fri 25 Sept, Sydney. 3 acts on the bill: Jane Decks, Lily FM and Max Cherry. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Club Balearico popup 001 feat Jane Decks b2b Max Cherry, Disco Dora, Lily FM and Madame Reves at Heaps Normal Health Club on Fri 25 Sept, Sydney. 3 artists on the bill: Jane Decks, Lily FM and Max Cherry. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

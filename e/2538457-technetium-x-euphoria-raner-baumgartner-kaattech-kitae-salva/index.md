@@ -1,6 +1,6 @@
 # TECHNETIUM X EUPHORIA: Raner Baumgartner, Kaattech, KITAE, Salvatore at EL SÓTANO
 
-TECHNETIUM X EUPHORIA: Raner Baumgartner, Kaattech, KITAE, Salvatore at EL SÓTANO on Thu 15 Oct, Madrid. 2 acts on the bill: KITAE and Raner Baumgartner. Trance and Techno. Preview the line-up and save it on soundcheck.
+TECHNETIUM X EUPHORIA: Raner Baumgartner, Kaattech, KITAE, Salvatore at EL SÓTANO on Thu 15 Oct, Madrid. 2 artists on the bill: KITAE and Raner Baumgartner. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

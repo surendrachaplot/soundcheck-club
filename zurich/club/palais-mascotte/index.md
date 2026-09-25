@@ -2,7 +2,7 @@
 
 Palais Mascotte is a music venue in Zurich with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Kirollus (ATA Records) / Lea Lisa / Blue Method / Serge P" on Fri, 25 Sept 2026.
 
-Palais Mascotte is a music venue in Zurich listed on soundcheck. 3 upcoming gigs, with line-ups including Blue Method, Blue Method (2), Davide Dev and Gee Lane and 2 more. Browse upcoming dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
+Palais Mascotte is a music venue in Zurich listed on soundcheck. 3 upcoming gigs, with line-ups including Blue Method, Blue Method, Davide Dev and Gee Lane and 2 more. Browse upcoming dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
 
 ## What's on
 

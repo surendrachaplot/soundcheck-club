@@ -1,6 +1,6 @@
 # Caim(NL) ~ support: Anders Hajem(NO) at Gehør
 
-Caim(NL) ~ support: Anders Hajem(NO) at Gehør on Fri 25 Sept, Oslo. 2 acts on the bill: Anders Hajem and Caim. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Caim(NL) ~ support: Anders Hajem(NO) at Gehør on Fri 25 Sept, Oslo. 2 artists on the bill: Anders Hajem and Caim. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

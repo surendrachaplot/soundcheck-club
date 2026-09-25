@@ -1,6 +1,6 @@
 # Disco Biscuits at Soulkitchen Vienna
 
-Disco Biscuits at Soulkitchen Vienna on Fri 16 Oct, Vienna. 3 acts on the bill: Jakobin & Domino, Peletronic and Simonlebon. House and Disco. Preview the line-up and save it on soundcheck.
+Disco Biscuits at Soulkitchen Vienna on Fri 16 Oct, Vienna. 4 artists on the bill: Jakobin & Domino, Lee Stevens, Peletronic and Simonlebon. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Disco Biscuits at Soulkitchen Vienna on Fri 16 Oct, Vienna. 3 acts on the bill: 
 ## Line-up
 
 - Jakobin & Domino
+- Lee Stevens
 - Peletronic
 - Simonlebon
 

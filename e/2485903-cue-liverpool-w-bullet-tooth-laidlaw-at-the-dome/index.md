@@ -1,6 +1,6 @@
 # CUE - Liverpool w. bullet tooth, Laidlaw at The Dome
 
-CUE - Liverpool w. bullet tooth, Laidlaw at The Dome on Sat 17 Oct, Liverpool. 4 acts on the bill: bullet tooth, Dr Dubplate, Laidlaw and Lucas Alexander. Garage and Tech House. Preview the line-up and save it on soundcheck.
+CUE - Liverpool w. bullet tooth, Laidlaw at The Dome on Sat 17 Oct, Liverpool. 4 artists on the bill: bullet tooth, Dr Dubplate, Laidlaw and Lucas Alexander. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

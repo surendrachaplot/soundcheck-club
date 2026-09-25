@@ -2,7 +2,7 @@
 
 Kaili is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mood Ring, New York City on Fri, 25 Sept 2026.
 
-Kaili is a club and house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Losangeles and Newyorkcity. Often billed alongside Pressure Assist, DJ Erewhon and Yellowtech. Next up: Mood Ring, Newyorkcity on Fri 25 Sept.
+Kaili is a club and house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Los Angeles and New York City. Often billed alongside Pressure Assist, DJ Erewhon and Yellowtech. Next up: Mood Ring, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # PuMp Berlin daytime hosted by Anja Schneider with Karotte at OHM
 
-PuMp Berlin daytime hosted by Anja Schneider with Karotte at OHM on Sat 3 Oct, Berlin. 2 acts on the bill: Anja Schneider and Karotte. Techno and Deep House. Preview the line-up and save it on soundcheck.
+PuMp Berlin daytime hosted by Anja Schneider with Karotte at OHM on Sat 3 Oct, Berlin. 2 artists on the bill: Anja Schneider and Karotte. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

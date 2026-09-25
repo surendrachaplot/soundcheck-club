@@ -1,6 +1,6 @@
 # RAVE TO THE GRAVE at Clwds
 
-RAVE TO THE GRAVE at Clwds on Fri 9 Oct, Tallinn. 1 act on the bill: Airborn. Trance and Techno. Preview the line-up and save it on soundcheck.
+RAVE TO THE GRAVE at Clwds on Fri 9 Oct, Tallinn. 1 artist on the bill: Airborn. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

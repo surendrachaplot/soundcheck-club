@@ -1,6 +1,6 @@
 # Festival of Lights in Concert at Berliner Dom
 
-Festival of Lights in Concert at Berliner Dom on Thu 15 Oct, Berlin. 1 act on the bill: Anja Schneider. Electro. Preview the line-up and save it on soundcheck.
+Festival of Lights in Concert at Berliner Dom on Thu 15 Oct, Berlin. 1 artist on the bill: Anja Schneider. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

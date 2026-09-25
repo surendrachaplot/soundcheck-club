@@ -1,6 +1,6 @@
 # Overtime: Kondrat at Sekta Selekta
 
-Overtime: Kondrat at Sekta Selekta on Sat 26 Sept, Krakow. 1 act on the bill: Kondrat. Tech House and Electro. Preview the line-up and save it on soundcheck.
+Overtime: Kondrat at Sekta Selekta on Sat 26 Sept, Krakow. 1 artist on the bill: Kondrat. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

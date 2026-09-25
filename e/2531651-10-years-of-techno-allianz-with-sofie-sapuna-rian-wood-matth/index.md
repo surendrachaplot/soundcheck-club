@@ -1,6 +1,6 @@
 # 10 years of Techno Allianz with Sofie Sapuna, Rian Wood & Matthias Olck at Helios37
 
-10 years of Techno Allianz with Sofie Sapuna, Rian Wood & Matthias Olck at Helios37 on Sat 26 Sept, Cologne. 4 acts on the bill: Matthias Olck, Rian Wood, Ropemaker and Sofie Sapuna. Techno. Preview the line-up and save it on soundcheck.
+10 years of Techno Allianz with Sofie Sapuna, Rian Wood & Matthias Olck at Helios37 on Sat 26 Sept, Cologne. 4 artists on the bill: Matthias Olck, Rian Wood, Ropemaker and Sofie Sapuna. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

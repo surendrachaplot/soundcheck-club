@@ -2,7 +2,7 @@
 
 Surka (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Thompsons Garage, Belfast on Sat, 26 Sept 2026.
 
-Surka (1) is a house and techno artist based in Ireland, tracked on soundcheck, with 70 sets logged across Belfast, Berlin, Cork and Dublin and 1 more. Often billed alongside Collie (1), Accomplice and Boots & Kats. Next up: Thompsons Garage, Belfast on Sat 26 Sept.
+Surka is a house and techno artist based in Ireland, tracked on soundcheck, with 70 sets logged across Belfast, Berlin, Cork and Dublin and 1 more. Often billed alongside Collie, Accomplice and Boots & Kats. Next up: Thompsons Garage, Belfast on Sat 26 Sept.
 
 ## Upcoming shows
 

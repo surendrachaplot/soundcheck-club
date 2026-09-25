@@ -1,6 +1,6 @@
 # Producing Techno with Pilo at IO Music Academy LA
 
-Producing Techno with Pilo at IO Music Academy LA on Fri 23 Oct, Losangeles. 1 act on the bill: Pilo. Techno. Preview the line-up and save it on soundcheck.
+Producing Techno with Pilo at IO Music Academy LA on Fri 23 Oct, Los Angeles. 1 artist on the bill: Pilo. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

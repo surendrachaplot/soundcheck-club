@@ -1,6 +1,6 @@
 # ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies at Nicholas Groente & Fruit
 
-ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies at Nicholas Groente & Fruit on Thu 22 Oct, Amsterdam. 9 acts on the bill: aksendo, FATIA, Jana Vitiligo and Kevin Kinembe and 5 more. House and Afro House. Preview the line-up and save it on soundcheck.
+ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies at Nicholas Groente & Fruit on Thu 22 Oct, Amsterdam. 9 artists on the bill: aksendo, FATIA, Jana Vitiligo and Kevin Kinembe and 5 more. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

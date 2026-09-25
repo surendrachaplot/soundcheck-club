@@ -1,6 +1,6 @@
 # Vital at ZUBAR
 
-Vital at ZUBAR on Sun 11 Oct, Tokyo. 2 acts on the bill: DJ ISE and Yuri. Preview the line-up and save it on soundcheck.
+Vital at ZUBAR on Sun 11 Oct, Tokyo. 2 artists on the bill: DJ ISE and Yuri. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

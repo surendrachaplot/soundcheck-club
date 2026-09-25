@@ -1,6 +1,6 @@
 # Ueberrest & In Verruf at Gate Milano
 
-Ueberrest & In Verruf at Gate Milano on Fri 23 Oct, Milan. 2 acts on the bill: In Verruf and Ueberrest. Preview the line-up and save it on soundcheck.
+Ueberrest & In Verruf at Gate Milano on Fri 23 Oct, Milan. 2 artists on the bill: In Verruf and Ueberrest. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Pfandidos Klubnacht at Humboldthain Club
 
-Pfandidos Klubnacht at Humboldthain Club on Sat 3 Oct, Berlin. 11 acts on the bill: Dagobird, DiskoJochen, DJ BRECHSTANGE and DJ TIPSTER and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Pfandidos Klubnacht at Humboldthain Club on Sat 3 Oct, Berlin. 11 artists on the bill: Dagobird, DiskoJochen, DJ BRECHSTANGE and DJ TIPSTER and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

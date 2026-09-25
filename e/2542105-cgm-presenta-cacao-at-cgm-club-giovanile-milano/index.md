@@ -1,6 +1,6 @@
 # CGM presenta: CACAO at CGM - Club Giovanile Milano
 
-CGM presenta: CACAO at CGM - Club Giovanile Milano on Sat 26 Sept, Milan. 3 acts on the bill: Alfieri, Deckneeco and Nuance. Techno and Electro. Preview the line-up and save it on soundcheck.
+CGM presenta: CACAO at CGM - Club Giovanile Milano on Sat 26 Sept, Milan. 3 artists on the bill: Alfieri, Deckneeco and Nuance. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

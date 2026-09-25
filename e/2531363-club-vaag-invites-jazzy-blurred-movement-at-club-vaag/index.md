@@ -1,6 +1,6 @@
 # Club Vaag invites JAZZY & BLURRED MOVEMENT at Club Vaag
 
-Club Vaag invites JAZZY & BLURRED MOVEMENT on Fri 13 Nov, Antwerp. 2 acts on the bill: Freya and JAZZY (2). Preview the line-up and save it on soundcheck.
+Club Vaag invites JAZZY & BLURRED MOVEMENT on Fri 13 Nov, Antwerp. 2 artists on the bill: Freya and JAZZY. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

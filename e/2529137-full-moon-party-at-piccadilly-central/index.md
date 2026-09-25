@@ -1,6 +1,6 @@
 # Full Moon Party at Piccadilly Central
 
-Full Moon Party at Piccadilly Central on Sat 26 Sept, Manchester. 2 acts on the bill: Joey T and Kelvin Andrews. House and Disco. Preview the line-up and save it on soundcheck.
+Full Moon Party at Piccadilly Central on Sat 26 Sept, Manchester. 2 artists on the bill: Joey T and Kelvin Andrews. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

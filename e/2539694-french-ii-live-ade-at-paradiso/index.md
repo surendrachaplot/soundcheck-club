@@ -1,6 +1,6 @@
 # French II (live) - ADE at Paradiso
 
-French II (live) - ADE at Paradiso on Fri 23 Oct, Amsterdam. 1 act on the bill: French II. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+French II (live) - ADE at Paradiso on Fri 23 Oct, Amsterdam. 1 artist on the bill: French II. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

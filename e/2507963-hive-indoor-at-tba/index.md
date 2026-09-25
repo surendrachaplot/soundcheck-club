@@ -1,6 +1,6 @@
 # HIVE INDOOR at TBA
 
-HIVE INDOOR at TBA on Sat 17 Oct, Leipzig. 1 act on the bill: Winson Ngoh. Preview the line-up and save it on soundcheck.
+HIVE INDOOR at TBA on Sat 17 Oct, Leipzig. 1 artist on the bill: Winson Ngoh. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

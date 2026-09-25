@@ -1,6 +1,6 @@
 # Guy Gerber + Kalyma - MILANO FASHION WEEK at Volt Club Milano
 
-Guy Gerber + Kalyma - MILANO FASHION WEEK at Volt Club Milano on Thu 24 Sept, Milan. 2 acts on the bill: Guy Gerber and Kalyma. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Guy Gerber + Kalyma - MILANO FASHION WEEK at Volt Club Milano on Thu 24 Sept, Milan. 2 artists on the bill: Guy Gerber and Kalyma. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

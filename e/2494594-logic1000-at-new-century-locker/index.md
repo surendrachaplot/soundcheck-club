@@ -1,6 +1,6 @@
 # Logic1000 at New Century Locker
 
-Logic1000 at New Century Locker on Sat 10 Oct, Manchester. 1 act on the bill: Logic1000. Breakbeat and Deep House. Preview the line-up and save it on soundcheck.
+Logic1000 at New Century Locker on Sat 10 Oct, Manchester. 1 artist on the bill: Logic1000. Breakbeat and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

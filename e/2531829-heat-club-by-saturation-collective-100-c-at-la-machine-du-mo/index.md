@@ -1,6 +1,6 @@
 # HEAT CLUB by Saturation Collective & 100°C at La Machine Du Moulin Rouge
 
-HEAT CLUB by Saturation Collective & 100°C at La Machine Du Moulin Rouge on Sat 10 Oct, Paris. 2 acts on the bill: AMAYO and Karenine. Techno and Bass. Preview the line-up and save it on soundcheck.
+HEAT CLUB by Saturation Collective & 100°C at La Machine Du Moulin Rouge on Sat 10 Oct, Paris. 2 artists on the bill: AMAYO and Karenine. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

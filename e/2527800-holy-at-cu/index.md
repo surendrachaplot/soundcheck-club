@@ -1,6 +1,6 @@
 # HOLY at Cu
 
-HOLY at Cu on Sun 11 Oct, London. 3 acts on the bill: Richard Fearless, Tom Dubwise and Wrecked Lightship. Dub and Experimental. Preview the line-up and save it on soundcheck.
+HOLY at Cu on Sun 11 Oct, London. 3 artists on the bill: Richard Fearless, Tom Dubwise and Wrecked Lightship. Dub and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

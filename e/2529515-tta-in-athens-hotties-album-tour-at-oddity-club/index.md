@@ -1,6 +1,6 @@
 # ØTTA in ATHENS (Hotties album tour) at Oddity Club
 
-ØTTA in ATHENS (Hotties album tour) at Oddity Club on Sat 31 Oct, Athens. 1 act on the bill: ØTTA. Preview the line-up and save it on soundcheck.
+ØTTA in ATHENS (Hotties album tour) at Oddity Club on Sat 31 Oct, Athens. 1 artist on the bill: ØTTA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

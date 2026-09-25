@@ -1,6 +1,6 @@
 # Planète House: Boston Bun, Selena Faider, Melé [Booth 360°] at Cabaret Sauvage
 
-Planète House: Boston Bun, Selena Faider, Melé [Booth 360°] at Cabaret Sauvage on Fri 2 Oct, Paris. 3 acts on the bill: Boston Bun, Melé and Selena Faider. House. Preview the line-up and save it on soundcheck.
+Planète House: Boston Bun, Selena Faider, Melé [Booth 360°] at Cabaret Sauvage on Fri 2 Oct, Paris. 3 artists on the bill: Boston Bun, Melé and Selena Faider. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

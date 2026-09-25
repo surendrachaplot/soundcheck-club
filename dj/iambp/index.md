@@ -1,8 +1,8 @@
 # IAMBP
 
-IAMBP is a Electro and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
+IAMBP is a Electro and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
-IAMBP is an electro and house artist based in France, tracked on soundcheck, with 88 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 15 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: Fvtvr, Paris on Fri 9 Oct.
+IAMBP is an electro and house artist based in France, tracked on soundcheck, with 89 sets logged across Barcelona, Berlin, Brussels and Buenos Aires and 15 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: Fvtvr, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ IAMBP is an electro and house artist based in France, tracked on soundcheck, wit
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 | Fri, 16 Oct 2026 | Unit 58 | London |
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
+| Sat, 31 Oct 2026 | Macadam | Nantes |
 | Sat, 28 Nov 2026 | ASIAT Park | Brussels |
 
 ## Recently played

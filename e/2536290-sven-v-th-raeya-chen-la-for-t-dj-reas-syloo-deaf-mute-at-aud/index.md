@@ -1,6 +1,6 @@
 # SVEN VÄTH · Raeya Chen · La Forêt · DJ Reas · SYLOO · DEAF MUTE at Audio Club
 
-SVEN VÄTH · Raeya Chen · La Forêt · DJ Reas · SYLOO · DEAF MUTE at Audio Club on Sat 26 Sept, Geneva. 4 acts on the bill: DJ Reas, La Forêt, Raeya Chen and Sven Vath. Preview the line-up and save it on soundcheck.
+SVEN VÄTH · Raeya Chen · La Forêt · DJ Reas · SYLOO · DEAF MUTE at Audio Club on Sat 26 Sept, Geneva. 4 artists on the bill: DJ Reas, La Forêt, Raeya Chen and Sven Vath. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

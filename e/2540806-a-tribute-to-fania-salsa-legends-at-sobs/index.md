@@ -1,6 +1,6 @@
 # A Tribute to Fania Salsa Legends at SOBs
 
-A Tribute to Fania Salsa Legends at SOBs on Fri 25 Sept, Newyorkcity. Funk / Soul. Preview the line-up and save it on soundcheck.
+A Tribute to Fania Salsa Legends at SOBs on Fri 25 Sept, New York City. Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

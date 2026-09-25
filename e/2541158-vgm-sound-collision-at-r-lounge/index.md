@@ -1,6 +1,6 @@
 # VGM Sound Collision at R Lounge
 
-VGM Sound Collision at R Lounge on Mon 5 Oct, Tokyo. 1 act on the bill: --- mr ---. Preview the line-up and save it on soundcheck.
+VGM Sound Collision at R Lounge on Mon 5 Oct, Tokyo. 1 artist on the bill: --- mr ---. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

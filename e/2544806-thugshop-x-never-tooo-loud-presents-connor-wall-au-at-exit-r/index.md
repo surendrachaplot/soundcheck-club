@@ -1,6 +1,6 @@
 # Thugshop x Never Tooo Loud presents: Connor Wall [AU] at Exit Reality
 
-Thugshop x Never Tooo Loud presents: Connor Wall [AU] at Exit Reality on Sat 17 Oct, Singapore. 3 acts on the bill: 3MZY, Connor Wall and VAIBS. Techno and House. Preview the line-up and save it on soundcheck.
+Thugshop x Never Tooo Loud presents: Connor Wall [AU] at Exit Reality on Sat 17 Oct, Singapore. 3 artists on the bill: 3MZY, Connor Wall and VAIBS. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

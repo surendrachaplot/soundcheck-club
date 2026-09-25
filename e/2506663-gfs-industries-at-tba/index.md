@@ -1,6 +1,6 @@
 # GFS Industries at TBA
 
-GFS Industries at TBA on Sat 7 Nov, Vancouver. 2 acts on the bill: Dairy Free and dj direct depøsit. Tech House and Balearic. Preview the line-up and save it on soundcheck.
+GFS Industries at TBA on Sat 7 Nov, Vancouver. 2 artists on the bill: Dairy Free and dj direct depøsit. Tech House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

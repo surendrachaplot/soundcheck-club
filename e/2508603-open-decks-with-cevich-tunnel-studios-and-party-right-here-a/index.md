@@ -1,6 +1,6 @@
 # Open Decks with ceviché, Tunnel Studios, and Party Right Here at SILO
 
-Open Decks with ceviché, Tunnel Studios, and Party Right Here at SILO on Wed 30 Sept, Newyorkcity. 1 act on the bill: ceviché. Techno and House. Preview the line-up and save it on soundcheck.
+Open Decks with ceviché, Tunnel Studios, and Party Right Here at SILO on Wed 30 Sept, New York City. 1 artist on the bill: ceviché. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

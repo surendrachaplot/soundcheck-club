@@ -1,6 +1,6 @@
 # PTO: Schrotthagen at Noto Philadelphia
 
-PTO: Schrotthagen at Noto Philadelphia on Thu 22 Oct, Philadelphia. 2 acts on the bill: Kobza and Schrotthagen. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+PTO: Schrotthagen at Noto Philadelphia on Thu 22 Oct, Philadelphia. 2 artists on the bill: Kobza and Schrotthagen. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

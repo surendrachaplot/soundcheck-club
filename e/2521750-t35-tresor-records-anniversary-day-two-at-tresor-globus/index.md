@@ -1,6 +1,6 @@
 # T35: Tresor Records Anniversary DAY TWO at Tresor / Globus
 
-T35: Tresor Records Anniversary DAY TWO at Tresor / Globus on Sat 3 Oct, Berlin. 10 acts on the bill: Chloe Lula, DJ Plant Texture, Fireground and Ireen Amnes and 6 more. Preview the line-up and save it on soundcheck.
+T35: Tresor Records Anniversary DAY TWO at Tresor / Globus on Sat 3 Oct, Berlin. 10 artists on the bill: Chloe Lula, DJ Plant Texture, Fireground and Ireen Amnes and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

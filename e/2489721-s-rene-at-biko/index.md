@@ -1,6 +1,6 @@
 # S!RENE at BIKO
 
-S!RENE at BIKO on Sat 31 Oct, Milan. 1 act on the bill: S!RENE. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
+S!RENE at BIKO on Sat 31 Oct, Milan. 1 artist on the bill: S!RENE. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

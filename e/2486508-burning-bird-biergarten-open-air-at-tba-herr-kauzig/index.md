@@ -1,6 +1,6 @@
 # Burning Bird - Biergarten Open Air at TBA - Herr Kauzig
 
-Burning Bird - Biergarten Open Air at TBA - Herr Kauzig on Sat 26 Sept, Leipzig. 3 acts on the bill: DJoy, FYNN and Thomas Lizzara. Techno and House. Preview the line-up and save it on soundcheck.
+Burning Bird - Biergarten Open Air at TBA - Herr Kauzig on Sat 26 Sept, Leipzig. 3 artists on the bill: DJoy, FYNN and Thomas Lizzara. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TECH THIS OUT at Mezzanine - Tooting
 
-TECH THIS OUT at Mezzanine - Tooting on Sat 26 Sept, London. 4 acts on the bill: B_LOVE, DJ Mods, Ginn LDN and KNWLSY. House and Tech House. Preview the line-up and save it on soundcheck.
+TECH THIS OUT at Mezzanine - Tooting on Sat 26 Sept, London. 4 artists on the bill: B_LOVE, DJ Mods, Ginn LDN and KNWLSY. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # I'm Soul Into You x Raphael presents BLACK RADIO at Orange Room
 
-I'm Soul Into You x Raphael presents BLACK RADIO at Orange Room on Sat 10 Oct, London. 1 act on the bill: Raphael (UK). House and Club. Preview the line-up and save it on soundcheck.
+I'm Soul Into You x Raphael presents BLACK RADIO at Orange Room on Sat 10 Oct, London. 1 artist on the bill: Raphael (UK). House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

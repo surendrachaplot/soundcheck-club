@@ -1,6 +1,6 @@
 # DHR & Capeesh: Adam Pits, Adrien Calvet & Aquamarine at Distillery N17
 
-DHR & Capeesh: Adam Pits, Adrien Calvet & Aquamarine at Distillery N17 on Fri 16 Oct, London. 5 acts on the bill: Adam Pits, Adrien Calvet, Aquamarine and Oolong and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+DHR & Capeesh: Adam Pits, Adrien Calvet & Aquamarine at Distillery N17 on Fri 16 Oct, London. 5 artists on the bill: Adam Pits, Adrien Calvet, Aquamarine and Oolong and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

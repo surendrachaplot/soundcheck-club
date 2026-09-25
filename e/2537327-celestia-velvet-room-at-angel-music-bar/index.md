@@ -1,6 +1,6 @@
 # CELESTIA: Velvet Room at Angel Music Bar
 
-CELESTIA: Velvet Room at Angel Music Bar on Fri 2 Oct, Melbourne. 3 acts on the bill: CLAIR (BAI), Dashé and Haus of Ralph. Techno and EBM. Preview the line-up and save it on soundcheck.
+CELESTIA: Velvet Room at Angel Music Bar on Fri 2 Oct, Melbourne. 3 artists on the bill: CLAIR (BAI), Dashé and Haus of Ralph. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

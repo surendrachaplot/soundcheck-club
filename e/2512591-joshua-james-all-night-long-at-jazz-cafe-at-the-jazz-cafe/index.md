@@ -1,6 +1,6 @@
 # Joshua James (All Night Long) at Jazz Cafe at The Jazz Cafe
 
-Joshua James (All Night Long) at Jazz Cafe at The Jazz Cafe on Sat 26 Sept, London. 1 act on the bill: Joshua James. House and Disco. Preview the line-up and save it on soundcheck.
+Joshua James (All Night Long) at Jazz Cafe at The Jazz Cafe on Sat 26 Sept, London. 1 artist on the bill: Joshua James. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

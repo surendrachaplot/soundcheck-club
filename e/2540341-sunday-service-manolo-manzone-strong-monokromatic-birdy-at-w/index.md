@@ -1,6 +1,6 @@
 # Sunday SerVice: Manolo - Manzone & Strong - Monokromatic - Birdy at Wiggle Room
 
-Sunday SerVice: Manolo - Manzone & Strong - Monokromatic - Birdy at Wiggle Room on Sun 4 Oct, Toronto. 3 acts on the bill: Birdy, MANOLO (CA) and Manzone & Strong. House and Tech House. Preview the line-up and save it on soundcheck.
+Sunday SerVice: Manolo - Manzone & Strong - Monokromatic - Birdy at Wiggle Room on Sun 4 Oct, Toronto. 3 artists on the bill: Birdy, MANOLO (CA) and Manzone & Strong. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

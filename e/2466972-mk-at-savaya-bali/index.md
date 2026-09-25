@@ -1,6 +1,6 @@
 # MK at Savaya Bali
 
-MK at Savaya Bali on Sat 14 Nov, Bali. 1 act on the bill: Marc Kinchen. House and Deep House. Preview the line-up and save it on soundcheck.
+MK at Savaya Bali on Sat 14 Nov, Bali. 1 artist on the bill: Marc Kinchen. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

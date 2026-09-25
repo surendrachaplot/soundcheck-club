@@ -1,6 +1,6 @@
 # SWEA(T): LaFHomme, JASHIM, EvidenceDoll, Zellers at ESC
 
-SWEA(T): LaFHomme, JASHIM, EvidenceDoll, Zellers at ESC on Sat 17 Oct, Montreal. 3 acts on the bill: JASHIM, LaFHomme and Zellers. Techno and Club. Preview the line-up and save it on soundcheck.
+SWEA(T): LaFHomme, JASHIM, EvidenceDoll, Zellers at ESC on Sat 17 Oct, Montreal. 3 artists on the bill: JASHIM, LaFHomme and Zellers. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

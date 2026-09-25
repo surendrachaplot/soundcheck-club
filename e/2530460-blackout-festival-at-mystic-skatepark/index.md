@@ -1,6 +1,6 @@
 # Blackout Festival at Mystic Skatepark
 
-Blackout Festival at Mystic Skatepark on Sat 26 Sept, Prague. 3 acts on the bill: IGDA, L.zwo and Nonsense. Drum & Bass. Preview the line-up and save it on soundcheck.
+Blackout Festival at Mystic Skatepark on Sat 26 Sept, Prague. 3 artists on the bill: IGDA, L.zwo and Nonsense. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

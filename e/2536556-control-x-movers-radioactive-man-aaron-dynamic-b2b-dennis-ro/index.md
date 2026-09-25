@@ -1,6 +1,6 @@
 # Control. x Movers: Radioactive Man, Aaron Dynamic b2b Dennis Roswell & dj sneaze at Movers
 
-Control. x Movers: Radioactive Man, Aaron Dynamic b2b Dennis Roswell & dj sneaze on Sat 10 Oct, Nottingham. 3 acts on the bill: Aaron Dynamic, dj sneaze and Radioactive Man. Tech House and Electro. Preview the line-up and save it on soundcheck.
+Control. x Movers: Radioactive Man, Aaron Dynamic b2b Dennis Roswell & dj sneaze on Sat 10 Oct, Nottingham. 3 artists on the bill: Aaron Dynamic, dj sneaze and Radioactive Man. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

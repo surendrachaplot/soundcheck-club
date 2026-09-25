@@ -1,6 +1,6 @@
 # Glimmer – Opening Day 1 at TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg
 
-Glimmer – Opening Day 1 at TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg on Fri 2 Oct, Hamburg. 7 acts on the bill: Carlo Karacho, Carluschka, KLARYOKO and Narciss and 3 more. Preview the line-up and save it on soundcheck.
+Glimmer – Opening Day 1 at TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg on Fri 2 Oct, Hamburg. 7 artists on the bill: Carlo Karacho, Carluschka, KLARYOKO and Narciss and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

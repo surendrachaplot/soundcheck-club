@@ -1,6 +1,6 @@
 # The Loft: Objekt, Kasra V b2b Sepehr & Zuri at The Loft
 
-The Loft: Objekt, Kasra V b2b Sepehr & Zuri on Fri 6 Nov, Manchester. 4 acts on the bill: Kasra V, Objekt, Sepehr and Zuri. Preview the line-up and save it on soundcheck.
+The Loft: Objekt, Kasra V b2b Sepehr & Zuri on Fri 6 Nov, Manchester. 4 artists on the bill: Kasra V, Objekt, Sepehr and Zuri. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

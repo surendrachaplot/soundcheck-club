@@ -1,6 +1,6 @@
 # Two Shell (with Weirdcore) — HERE @ Outernet, London at Outernet Live
 
-Two Shell (with Weirdcore) — HERE @ Outernet, London at Outernet Live on Sat 7 Nov, London. 1 act on the bill: Two Shell. Preview the line-up and save it on soundcheck.
+Two Shell (with Weirdcore) — HERE @ Outernet, London at Outernet Live on Sat 7 Nov, London. 1 artist on the bill: Two Shell. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

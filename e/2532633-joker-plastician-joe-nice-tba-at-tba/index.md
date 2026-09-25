@@ -1,6 +1,6 @@
 # Joker, Plastician, Joe Nice TBA at TBA
 
-Joker, Plastician, Joe Nice TBA on Sat 10 Oct, Sanfrancisco. 3 acts on the bill: Joe Nice, Joker and Plastician. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Joker, Plastician, Joe Nice TBA on Sat 10 Oct, San Francisco/Oakland. 3 artists on the bill: Joe Nice, Joker and Plastician. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

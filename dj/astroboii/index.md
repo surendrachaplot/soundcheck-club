@@ -2,7 +2,7 @@
 
 Astroboii is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 10 Oct 2026.
 
-Astroboii is a techno and bass artist based in Mexico, tracked on soundcheck, with 46 sets logged across Berlin and Mexicocity. Often billed alongside Niño Arbol, Cybebe and Octoptic. Next up: YuYu Cine Club, Mexicocity on Sat 10 Oct.
+Astroboii is a techno and bass artist based in Mexico, tracked on soundcheck, with 46 sets logged across Berlin and Mexico City. Often billed alongside Niño Arbol, Cybebe and Octoptic. Next up: YuYu Cine Club, Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 

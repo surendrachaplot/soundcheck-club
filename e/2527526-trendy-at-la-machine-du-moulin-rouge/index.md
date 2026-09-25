@@ -1,6 +1,6 @@
 # Trendy at La Machine Du Moulin Rouge
 
-Trendy at La Machine Du Moulin Rouge on Fri 25 Sept, Paris. 1 act on the bill: Rakoto 3000. Dancehall. Preview the line-up and save it on soundcheck.
+Trendy at La Machine Du Moulin Rouge on Fri 25 Sept, Paris. 1 artist on the bill: Rakoto 3000. Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

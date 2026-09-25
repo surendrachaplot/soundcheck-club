@@ -1,6 +1,6 @@
 # Greg Wilson All Night Long at The Palm House - Liverpool at Palm House
 
-Greg Wilson All Night Long at The Palm House - Liverpool on Sat 28 Nov, Liverpool. 1 act on the bill: Greg Wilson. House and Disco. Preview the line-up and save it on soundcheck.
+Greg Wilson All Night Long at The Palm House - Liverpool on Sat 28 Nov, Liverpool. 1 artist on the bill: Greg Wilson. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

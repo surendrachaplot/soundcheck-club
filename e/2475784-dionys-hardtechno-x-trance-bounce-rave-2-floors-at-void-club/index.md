@@ -1,6 +1,6 @@
 # Dionys Hardtechno x Trance/Bounce Rave (2 Floors) at Void Club
 
-Dionys Hardtechno x Trance/Bounce Rave (2 Floors) at Void Club on Fri 6 Nov, Berlin. 1 act on the bill: Brizze. Trance and Techno. Preview the line-up and save it on soundcheck.
+Dionys Hardtechno x Trance/Bounce Rave (2 Floors) at Void Club on Fri 6 Nov, Berlin. 1 artist on the bill: Brizze. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

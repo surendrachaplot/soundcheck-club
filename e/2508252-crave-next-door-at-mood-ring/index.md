@@ -1,6 +1,6 @@
 # crave next door at Mood Ring
 
-crave next door at Mood Ring on Thu 24 Sept, Newyorkcity. 1 act on the bill: Alive Girl. Preview the line-up and save it on soundcheck.
+crave next door at Mood Ring on Thu 24 Sept, New York City. 1 artist on the bill: Alive Girl. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

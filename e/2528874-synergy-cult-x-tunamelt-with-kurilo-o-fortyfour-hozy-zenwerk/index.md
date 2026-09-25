@@ -1,6 +1,6 @@
 # Synergy Cult x TunaMelt with Kurilo, O'FortyFour, Hozy, zenwerk & Aist at Kaskada
 
-Synergy Cult x TunaMelt with Kurilo, O'FortyFour, Hozy, zenwerk & Aist at Kaskada on Fri 25 Sept, Warsaw. 5 acts on the bill: aist (LT), Hozy, Kurilo and O'FortyFour and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
+Synergy Cult x TunaMelt with Kurilo, O'FortyFour, Hozy, zenwerk & Aist at Kaskada on Fri 25 Sept, Warsaw. 5 artists on the bill: aist (LT), Hozy, Kurilo and O'FortyFour and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

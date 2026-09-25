@@ -1,6 +1,6 @@
 # Zéro zéro invite Walla P at Le Makeda
 
-Zéro zéro invite Walla P at Le Makeda on Sat 26 Sept, Marseille. 1 act on the bill: Walla P. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Zéro zéro invite Walla P at Le Makeda on Sat 26 Sept, Marseille. 1 artist on the bill: Walla P. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

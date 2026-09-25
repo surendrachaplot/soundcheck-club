@@ -1,6 +1,6 @@
 # Tritonal at Substation
 
-Tritonal at Substation on Fri 25 Sept, Seattle. 1 act on the bill: Tritonal. Progressive House and House. Preview the line-up and save it on soundcheck.
+Tritonal at Substation on Fri 25 Sept, Seattle. 1 artist on the bill: Tritonal. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

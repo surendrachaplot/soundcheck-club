@@ -2,7 +2,7 @@
 
 Love Injection is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at public records, New York City on Sat, 24 Oct 2026.
 
-Love Injection is a house and disco artist based in United States of America, tracked on soundcheck, with 52 sets logged across Detroit, London, Miami and Montreal and 6 more. Often billed alongside Toribio, MUSCLECARS and Colleen 'Cosmo' Murphy. Next up: public records, Newyorkcity on Sat 24 Oct.
+Love Injection is a house and disco artist based in United States of America, tracked on soundcheck, with 52 sets logged across Detroit, London, Miami and Montreal and 6 more. Often billed alongside Toribio, MUSCLECARS and Colleen 'Cosmo' Murphy. Next up: public records, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 

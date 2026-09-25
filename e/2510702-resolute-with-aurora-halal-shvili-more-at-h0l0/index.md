@@ -1,6 +1,6 @@
 # ReSolute with Aurora Halal, Shvili + more at H0L0
 
-ReSolute with Aurora Halal, Shvili + more at H0L0 on Fri 9 Oct, Newyorkcity. 2 acts on the bill: Aurora Halal and Shvili. Electro and Experimental. Preview the line-up and save it on soundcheck.
+ReSolute with Aurora Halal, Shvili + more at H0L0 on Fri 9 Oct, New York City. 2 artists on the bill: Aurora Halal and Shvili. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

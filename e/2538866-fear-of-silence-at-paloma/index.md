@@ -1,6 +1,6 @@
 # Fear Of Silence at Paloma
 
-Fear Of Silence at Paloma on Sat 14 Nov, Berlin. 2 acts on the bill: Delta Division and Harba. Techno and Bass. Preview the line-up and save it on soundcheck.
+Fear Of Silence at Paloma on Sat 14 Nov, Berlin. 2 artists on the bill: Delta Division and Harba. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

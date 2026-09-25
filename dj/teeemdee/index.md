@@ -2,7 +2,7 @@
 
 TEE EM DEE is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at McCarren Park, New York City on Sun, 27 Sept 2026.
 
-TEE EM DEE is a house and deep house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Anna Collecta, DAYE. and Deo'jorge. Next up: McCarren Park, Newyorkcity on Sun 27 Sept.
+TEE EM DEE is a house and deep house artist based in United States of America, tracked on soundcheck, with 39 sets logged across New York City and San Francisco/Oakland. Often billed alongside Anna Collecta, DAYE. and Deo'jorge. Next up: McCarren Park, New York City on Sun 27 Sept.
 
 ## Upcoming shows
 

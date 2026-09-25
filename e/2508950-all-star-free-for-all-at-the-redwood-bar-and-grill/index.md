@@ -1,6 +1,6 @@
 # All Star Free For All at The Redwood Bar And Grill
 
-All Star Free For All at The Redwood Bar And Grill on Thu 1 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+All Star Free For All at The Redwood Bar And Grill on Thu 1 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

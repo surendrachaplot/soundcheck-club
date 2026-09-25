@@ -1,6 +1,6 @@
 # 909 Worldwide at TBA - Premises
 
-909 Worldwide at TBA - Premises on Sat 26 Sept, Chicago. 5 acts on the bill: 99jakes, Alice Gas, Casper McFadden and Lexxy Jax and 1 more. Hardcore. Preview the line-up and save it on soundcheck.
+909 Worldwide at TBA - Premises on Sat 26 Sept, Chicago. 5 artists on the bill: 99jakes, Alice Gas, Casper McFadden and Lexxy Jax and 1 more. Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

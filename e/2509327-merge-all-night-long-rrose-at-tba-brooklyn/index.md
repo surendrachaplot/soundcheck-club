@@ -1,6 +1,6 @@
 # MERGE all night long: Rrose at TBA - Brooklyn
 
-MERGE all night long: Rrose at TBA - Brooklyn on Sat 3 Oct, Newyorkcity. 1 act on the bill: Rrose. Techno. Preview the line-up and save it on soundcheck.
+MERGE all night long: Rrose at TBA - Brooklyn on Sat 3 Oct, New York City. 1 artist on the bill: Rrose. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

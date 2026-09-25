@@ -1,6 +1,6 @@
 # Luke Alexander at Audio SF
 
-Luke Alexander at Audio SF on Sat 21 Nov, Sanfrancisco. Preview the line-up and save it on soundcheck.
+Luke Alexander at Audio SF on Sat 21 Nov, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

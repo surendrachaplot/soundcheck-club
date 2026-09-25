@@ -1,6 +1,6 @@
 # HOLLYWOOD with Diamin at Cadavra
 
-HOLLYWOOD with Diamin at Cadavra on Sat 24 Oct, Madrid. 2 acts on the bill: Diamin and TWO EX. Electronica. Preview the line-up and save it on soundcheck.
+HOLLYWOOD with Diamin at Cadavra on Sat 24 Oct, Madrid. 2 artists on the bill: Diamin and TWO EX. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

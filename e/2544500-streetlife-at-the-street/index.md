@@ -1,6 +1,6 @@
 # Streetlife at The Street
 
-Streetlife at The Street on Sun 27 Sept, Edinburgh. 1 act on the bill: Reuben Lowe. House and Disco. Preview the line-up and save it on soundcheck.
+Streetlife at The Street on Sun 27 Sept, Edinburgh. 1 artist on the bill: Reuben Lowe. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

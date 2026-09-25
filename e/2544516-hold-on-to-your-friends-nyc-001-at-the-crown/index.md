@@ -1,6 +1,6 @@
 # HOLD ON TO YOUR FRIENDS NYC 001 at The Crown
 
-HOLD ON TO YOUR FRIENDS NYC 001 at The Crown on Sat 17 Oct, Newyorkcity. 1 act on the bill: Gina Turner. Bass and Club. Preview the line-up and save it on soundcheck.
+HOLD ON TO YOUR FRIENDS NYC 001 at The Crown on Sat 17 Oct, New York City. 1 artist on the bill: Gina Turner. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

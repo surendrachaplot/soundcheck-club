@@ -2,7 +2,7 @@
 
 KAIKAI is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sigma, Ibiza on Sat, 26 Sept 2026.
 
-KAIKAI is a house and techno artist based in Japan, tracked on soundcheck, with 35 sets logged across Bali, Ibiza, Sanfrancisco and Sydney and 1 more. Often billed alongside SIGNAL (JP), ALEXANDER M and DJ Yogurt. Next up: Sigma, Ibiza on Sat 26 Sept.
+KAIKAI is a house and techno artist based in Japan, tracked on soundcheck, with 35 sets logged across Bali, Ibiza, San Francisco/Oakland and Sydney and 1 more. Often billed alongside SIGNAL (JP), ALEXANDER M and DJ Yogurt. Next up: Sigma, Ibiza on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # BERLINCIAGAY X Horn at Horn
 
-BERLINCIAGAY X Horn on Fri 16 Oct, Bangkok. 3 acts on the bill: OLLE (TH), TMI. and Tom Peters. Techno. Preview the line-up and save it on soundcheck.
+BERLINCIAGAY X Horn on Fri 16 Oct, Bangkok. 3 artists on the bill: OLLE (TH), TMI. and Tom Peters. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Primal Forest at TBA - FunkShui - 769 Dundas St W
 
-Primal Forest at TBA - FunkShui - 769 Dundas St W on Sat 10 Oct, Toronto. 3 acts on the bill: Psyberix, Risky Medicine and SouthPawBrown. Electronica. Preview the line-up and save it on soundcheck.
+Primal Forest at TBA - FunkShui - 769 Dundas St W on Sat 10 Oct, Toronto. 3 artists on the bill: Psyberix, Risky Medicine and SouthPawBrown. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

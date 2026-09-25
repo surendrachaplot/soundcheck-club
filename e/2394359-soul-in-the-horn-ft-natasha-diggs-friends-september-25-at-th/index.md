@@ -1,6 +1,6 @@
 # Soul in the Horn FT Natasha Diggs & Friends - September 25 at The Chocolate Factory
 
-Soul in the Horn FT Natasha Diggs & Friends - September 25 at The Chocolate Factory on Fri 25 Sept, Newyorkcity. 4 acts on the bill: Deep Just, DJ Lita, Josh Milan and Natasha Diggs. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Soul in the Horn FT Natasha Diggs & Friends - September 25 at The Chocolate Factory on Fri 25 Sept, New York City. 4 artists on the bill: Deep Just, DJ Lita, Josh Milan and Natasha Diggs. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tanzen Hilft at Der Weiße Hase
 
-Tanzen Hilft at Der Weiße Hase on Sat 28 Nov, Berlin. 4 acts on the bill: Emma (1), kies, Morris Fitch and Tombish. Preview the line-up and save it on soundcheck.
+Tanzen Hilft at Der Weiße Hase on Sat 28 Nov, Berlin. 4 artists on the bill: Emma, kies, Morris Fitch and Tombish. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

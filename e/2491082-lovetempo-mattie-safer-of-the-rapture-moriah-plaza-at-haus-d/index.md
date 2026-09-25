@@ -1,6 +1,6 @@
 # lovetempo (Mattie Safer of The Rapture), Moriah Plaza at Haus der Statistik
 
-lovetempo (Mattie Safer of The Rapture), Moriah Plaza at Haus der Statistik on Fri 23 Oct, Berlin. 2 acts on the bill: lovetempo and Moriah Plaza. Disco and Jazz. Preview the line-up and save it on soundcheck.
+lovetempo (Mattie Safer of The Rapture), Moriah Plaza at Haus der Statistik on Fri 23 Oct, Berlin. 2 artists on the bill: lovetempo and Moriah Plaza. Disco and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

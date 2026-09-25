@@ -1,6 +1,6 @@
 # 23:59 - Protokseed, ACIDPACH, LING LING B2B ENKO, RABTEU, KODAMAN, RŌSE B2B EMMA OLLIVARY at Mia Mao
 
-23:59 - Protokseed, ACIDPACH, LING LING B2B ENKO, RABTEU, KODAMAN, RŌSE B2B EMMA OLLIVARY at Mia Mao on Fri 13 Nov, Paris. 2 acts on the bill: Protokseed and Rōse (CH). Trance and Techno. Preview the line-up and save it on soundcheck.
+23:59 - Protokseed, ACIDPACH, LING LING B2B ENKO, RABTEU, KODAMAN, RŌSE B2B EMMA OLLIVARY at Mia Mao on Fri 13 Nov, Paris. 2 artists on the bill: Protokseed and Rōse (CH). Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

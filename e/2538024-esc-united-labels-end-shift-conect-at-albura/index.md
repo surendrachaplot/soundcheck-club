@@ -1,6 +1,6 @@
 # ESC. _ United Labels _ End. Shift. Conect at Albura
 
-ESC. _ United Labels _ End. Shift. Conect at Albura on Fri 2 Oct, Barcelona. 1 act on the bill: Matale. House and Tech House. Preview the line-up and save it on soundcheck.
+ESC. _ United Labels _ End. Shift. Conect at Albura on Fri 2 Oct, Barcelona. 1 artist on the bill: Matale. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

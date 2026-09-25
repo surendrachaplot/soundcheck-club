@@ -1,6 +1,6 @@
 # Coil Invites: KÄNE, DJ MBq, FunksterOne at Coil
 
-Coil Invites: KÄNE, DJ MBq, FunksterOne on Fri 25 Sept, Melbourne. 1 act on the bill: DJ MBq. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Coil Invites: KÄNE, DJ MBq, FunksterOne on Fri 25 Sept, Melbourne. 1 artist on the bill: DJ MBq. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

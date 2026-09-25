@@ -1,6 +1,6 @@
 # club: Alex Wilcox (live), Erol Alkan, Pechko at Le Sucre
 
-club: Alex Wilcox (live), Erol Alkan, Pechko at Le Sucre on Sat 3 Oct, Lyon. 2 acts on the bill: Alex Wilcox and Erol Alkan. Techno and Electro. Preview the line-up and save it on soundcheck.
+club: Alex Wilcox (live), Erol Alkan, Pechko at Le Sucre on Sat 3 Oct, Lyon. 2 artists on the bill: Alex Wilcox and Erol Alkan. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

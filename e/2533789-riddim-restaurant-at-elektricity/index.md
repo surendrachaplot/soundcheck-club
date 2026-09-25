@@ -1,6 +1,6 @@
 # RIDDIM RESTAURANT at Elektricity
 
-RIDDIM RESTAURANT at Elektricity on Fri 25 Sept, Detroit. 2 acts on the bill: Melt (CA) and The General. Preview the line-up and save it on soundcheck.
+RIDDIM RESTAURANT at Elektricity on Fri 25 Sept, Detroit. 2 artists on the bill: Melt (CA) and The General. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

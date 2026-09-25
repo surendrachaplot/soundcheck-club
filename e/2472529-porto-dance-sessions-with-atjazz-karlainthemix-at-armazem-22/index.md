@@ -1,6 +1,6 @@
 # Porto Dance Sessions with Atjazz & Karlainthemix at Armazem 22
 
-Porto Dance Sessions with Atjazz & Karlainthemix at Armazem 22 on Sat 26 Sept, Porto. 2 acts on the bill: Atjazz and Karlainthemix. House and Afro House. Preview the line-up and save it on soundcheck.
+Porto Dance Sessions with Atjazz & Karlainthemix at Armazem 22 on Sat 26 Sept, Porto. 2 artists on the bill: Atjazz and Karlainthemix. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

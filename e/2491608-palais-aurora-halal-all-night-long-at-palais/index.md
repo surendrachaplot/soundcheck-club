@@ -1,6 +1,6 @@
 # Palais: Aurora Halal (All Night Long) at Palais
 
-Palais: Aurora Halal (All Night Long) on Sat 24 Oct, London. 1 act on the bill: Aurora Halal. Techno. Preview the line-up and save it on soundcheck.
+Palais: Aurora Halal (All Night Long) on Sat 24 Oct, London. 1 artist on the bill: Aurora Halal. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

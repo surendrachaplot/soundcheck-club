@@ -1,6 +1,6 @@
 # Ben Böhmer at Radius
 
-Ben Böhmer at Radius on Fri 2 Oct, Chicago. 1 act on the bill: Ben Böhmer. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Ben Böhmer at Radius on Fri 2 Oct, Chicago. 1 artist on the bill: Ben Böhmer. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

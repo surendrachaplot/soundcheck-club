@@ -1,6 +1,6 @@
 # FMKS at West Harlem
 
-FMKS at West Harlem on Mon 28 Sept, Kyoto. 1 act on the bill: Kross Section. House. Preview the line-up and save it on soundcheck.
+FMKS at West Harlem on Mon 28 Sept, Kyoto. 1 artist on the bill: Kross Section. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

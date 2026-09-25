@@ -1,6 +1,6 @@
 # Nastia + Support at Joshua Brooks
 
-Nastia + Support at Joshua Brooks on Fri 6 Nov, Manchester. 4 acts on the bill: AYDN, CEEKAY, Ezrela and Nastia. Techno. Preview the line-up and save it on soundcheck.
+Nastia + Support at Joshua Brooks on Fri 6 Nov, Manchester. 4 artists on the bill: AYDN, CEEKAY, Ezrela and Nastia. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

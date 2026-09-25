@@ -1,6 +1,6 @@
 # BIG BAD SOCA PARTY at BERHTA
 
-BIG BAD SOCA PARTY at BERHTA on Sun 4 Oct, Washingtondc. Dancehall and Kuduro. Preview the line-up and save it on soundcheck.
+BIG BAD SOCA PARTY at BERHTA on Sun 4 Oct, Washington DC. Dancehall and Kuduro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RIOT CLUB: Mostroh, Arok Shiva, Galileo at EL SÓTANO
 
-RIOT CLUB: Mostroh, Arok Shiva, Galileo at EL SÓTANO on Sun 27 Sept, Madrid. 2 acts on the bill: Arok Shiva and Galileo. Trance and Techno. Preview the line-up and save it on soundcheck.
+RIOT CLUB: Mostroh, Arok Shiva, Galileo at EL SÓTANO on Sun 27 Sept, Madrid. 2 artists on the bill: Arok Shiva and Galileo. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

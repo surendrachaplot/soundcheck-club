@@ -1,6 +1,6 @@
 # Bob Moses (Club Set) at Het Sieraad
 
-Bob Moses (Club Set) at Het Sieraad on Fri 30 Oct, Amsterdam. 1 act on the bill: Bob Moses. Deep House. Preview the line-up and save it on soundcheck.
+Bob Moses (Club Set) at Het Sieraad on Fri 30 Oct, Amsterdam. 1 artist on the bill: Bob Moses. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

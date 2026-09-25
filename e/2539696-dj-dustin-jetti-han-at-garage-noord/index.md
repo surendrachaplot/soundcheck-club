@@ -1,6 +1,6 @@
 # DJ Dustin, Jetti, Han at Garage Noord
 
-DJ Dustin, Jetti, Han at Garage Noord on Fri 2 Oct, Amsterdam. 3 acts on the bill: DJ Dustin, Han and Jetti. Preview the line-up and save it on soundcheck.
+DJ Dustin, Jetti, Han at Garage Noord on Fri 2 Oct, Amsterdam. 3 artists on the bill: DJ Dustin, Han and Jetti. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

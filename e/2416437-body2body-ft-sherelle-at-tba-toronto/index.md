@@ -1,6 +1,6 @@
 # body2body ft. SHERELLE at TBA - Toronto
 
-body2body ft. SHERELLE at TBA - Toronto on Fri 9 Oct, Toronto. 5 acts on the bill: Chinelo, Jamvvis, Marcus Visionary and Raf Reza and 1 more. Bass and Jungle. Preview the line-up and save it on soundcheck.
+body2body ft. SHERELLE at TBA - Toronto on Fri 9 Oct, Toronto. 5 artists on the bill: Chinelo, Jamvvis, Marcus Visionary and Raf Reza and 1 more. Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

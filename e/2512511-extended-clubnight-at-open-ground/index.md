@@ -1,6 +1,6 @@
 # Extended Clubnight at Open Ground
 
-Extended Clubnight at Open Ground on Sat 17 Oct, Wuppertal. 5 acts on the bill: JakoJako, Josey Rebelle, Quelza and Tiago and 1 more. Preview the line-up and save it on soundcheck.
+Extended Clubnight at Open Ground on Sat 17 Oct, Wuppertal. 5 artists on the bill: JakoJako, Josey Rebelle, Quelza and Tiago and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Macadam x Confluence • KOLLER ~ BAULSI" on Thu, 24 Sept 2026.
+Macadam is a music venue in Nantes with 12 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Macadam x Confluence • KOLLER ~ BAULSI" on Thu, 24 Sept 2026.
 
-Macadam is a music venue in Nantes listed on soundcheck. 11 upcoming gigs, with line-ups including A.Fruit, Akira Yamagata, basic chanel and BAULSI and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
+Macadam is a music venue in Nantes listed on soundcheck. 12 upcoming gigs, with line-ups including A.Fruit, Akira Yamagata, basic chanel and BAULSI and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
 ## What's on
 

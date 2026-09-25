@@ -1,6 +1,6 @@
 # Rummelnacht at Frieda's Büxe
 
-Rummelnacht at Frieda's Büxe on Sat 26 Sept, Zurich. 2 acts on the bill: André Butano and Valentino. Preview the line-up and save it on soundcheck.
+Rummelnacht at Frieda's Büxe on Sat 26 Sept, Zurich. 2 artists on the bill: André Butano and Valentino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

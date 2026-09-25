@@ -1,6 +1,6 @@
 # Black Coffee at Ziggo Dome
 
-Black Coffee at Ziggo Dome on Wed 21 Oct, Amsterdam. 1 act on the bill: Black Coffee. Preview the line-up and save it on soundcheck.
+Black Coffee at Ziggo Dome on Wed 21 Oct, Amsterdam. 1 artist on the bill: Black Coffee. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

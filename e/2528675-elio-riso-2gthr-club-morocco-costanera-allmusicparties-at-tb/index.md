@@ -1,6 +1,6 @@
 # Elio Riso - 2gthr, Club Morocco Costanera - ALLMusicParties at TBA - Club Morocco, Costanera
 
-Elio Riso - 2gthr, Club Morocco Costanera - ALLMusicParties at TBA - Club Morocco, Costanera on Fri 2 Oct, Buenosaires. 3 acts on the bill: Elio Riso, Festa Bros and Toomy Disco. House and Tech House. Preview the line-up and save it on soundcheck.
+Elio Riso - 2gthr, Club Morocco Costanera - ALLMusicParties at TBA - Club Morocco, Costanera on Fri 2 Oct, Buenos Aires. 3 artists on the bill: Elio Riso, Festa Bros and Toomy Disco. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

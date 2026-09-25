@@ -1,6 +1,6 @@
 # Wonway Posibul at Moonglow at Moonglow Oakland
 
-Wonway Posibul at Moonglow at Moonglow Oakland on Sat 26 Sept, Sanfrancisco. Deep House and R&B. Preview the line-up and save it on soundcheck.
+Wonway Posibul at Moonglow at Moonglow Oakland on Sat 26 Sept, San Francisco/Oakland. Deep House and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

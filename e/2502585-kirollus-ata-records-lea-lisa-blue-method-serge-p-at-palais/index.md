@@ -1,6 +1,6 @@
 # Kirollus (ATA Records) / Lea Lisa / Blue Method / Serge P at Palais Mascotte
 
-Kirollus (ATA Records) / Lea Lisa / Blue Method / Serge P at Palais Mascotte on Fri 25 Sept, Zurich. 5 acts on the bill: Blue Method, Blue Method (2), Kirollus and Lea Lisa and 1 more. House and UK Funky. Preview the line-up and save it on soundcheck.
+Kirollus (ATA Records) / Lea Lisa / Blue Method / Serge P at Palais Mascotte on Fri 25 Sept, Zurich. 5 artists on the bill: Blue Method, Blue Method, Kirollus and Lea Lisa and 1 more. House and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HANAA II Carla Schmitt at Hive Club
 
-HANAA II Carla Schmitt at Hive Club on Fri 2 Oct, Zurich. 7 acts on the bill: Carla Durisch, Carla Schmitt, Daughter In Law and De La Maso and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+HANAA II Carla Schmitt at Hive Club on Fri 2 Oct, Zurich. 7 artists on the bill: Carla Durisch, Carla Schmitt, Daughter In Law and De La Maso and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Colyn (NL) - Revolver Upstairs pres. by Thick As Thieves at Revolver Upstairs
 
-Colyn (NL) - Revolver Upstairs pres. by Thick As Thieves on Sun 18 Oct, Melbourne. 2 acts on the bill: Colyn and The Journey. Techno and House. Preview the line-up and save it on soundcheck.
+Colyn (NL) - Revolver Upstairs pres. by Thick As Thieves on Sun 18 Oct, Melbourne. 2 artists on the bill: Colyn and The Journey. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

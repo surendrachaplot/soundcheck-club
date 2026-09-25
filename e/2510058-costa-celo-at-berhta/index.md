@@ -1,6 +1,6 @@
 # COSTA, CELO at BERHTA
 
-COSTA, CELO at BERHTA on Sat 14 Nov, Washingtondc. Bass. Preview the line-up and save it on soundcheck.
+COSTA, CELO at BERHTA on Sat 14 Nov, Washington DC. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

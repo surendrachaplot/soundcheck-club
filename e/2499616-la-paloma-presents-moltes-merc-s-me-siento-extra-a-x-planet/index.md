@@ -1,6 +1,6 @@
 # La Paloma presents Moltes Mercès: Me Siento Extraña x Planet Venus at La Paloma
 
-La Paloma presents Moltes Mercès: Me Siento Extraña x Planet Venus on Fri 25 Sept, Barcelona. 6 acts on the bill: acidheaven, Acidnena, Ale Hope and Nahoomie and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
+La Paloma presents Moltes Mercès: Me Siento Extraña x Planet Venus on Fri 25 Sept, Barcelona. 6 artists on the bill: acidheaven, Acidnena, Ale Hope and Nahoomie and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TWOGIRLS.ONEMOM at Liquid Club
 
-TWOGIRLS.ONEMOM at Liquid Club on Sat 12 Dec, Malta. 4 acts on the bill: Billy Hills, Dicentra, Morris (1) and Naomi Baldacchino. Preview the line-up and save it on soundcheck.
+TWOGIRLS.ONEMOM at Liquid Club on Sat 12 Dec, Malta. 4 artists on the bill: Billy Hills, Dicentra, Morris and Naomi Baldacchino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

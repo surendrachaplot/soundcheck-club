@@ -1,6 +1,6 @@
 # CLUB S**T with Ron Mercy (Pineapple Records) at The Wild Hare & Singing Armadillo Frog Sanctuary
 
-CLUB S**T with Ron Mercy (Pineapple Records) at The Wild Hare & Singing Armadillo Frog Sanctuary on Fri 9 Oct, Chicago. 2 acts on the bill: Fullbodydurag and Ron Mercy. Bass and Club. Preview the line-up and save it on soundcheck.
+CLUB S**T with Ron Mercy (Pineapple Records) at The Wild Hare & Singing Armadillo Frog Sanctuary on Fri 9 Oct, Chicago. 2 artists on the bill: Fullbodydurag and Ron Mercy. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

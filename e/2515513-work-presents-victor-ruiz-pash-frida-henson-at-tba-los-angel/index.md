@@ -1,6 +1,6 @@
 # WORK presents: Victor Ruiz, PASH, & Frida Henson at TBA - Los Angeles
 
-WORK presents: Victor Ruiz, PASH, & Frida Henson at TBA - Los Angeles on Sat 24 Oct, Losangeles. 3 acts on the bill: Frida Henson, Pash (US) and Victor Ruiz. Techno. Preview the line-up and save it on soundcheck.
+WORK presents: Victor Ruiz, PASH, & Frida Henson at TBA - Los Angeles on Sat 24 Oct, Los Angeles. 3 artists on the bill: Frida Henson, Pash (US) and Victor Ruiz. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

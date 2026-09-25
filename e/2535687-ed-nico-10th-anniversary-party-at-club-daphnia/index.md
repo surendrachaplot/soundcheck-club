@@ -1,6 +1,6 @@
 # edénico 10th Anniversary Party at Club Daphnia
 
-edénico 10th Anniversary Party at Club Daphnia on Sat 3 Oct, Osaka. 11 acts on the bill: AKIHIRO, ALUCA, CALPISS and DJ HI-C and 7 more. Preview the line-up and save it on soundcheck.
+edénico 10th Anniversary Party at Club Daphnia on Sat 3 Oct, Osaka. 11 artists on the bill: AKIHIRO, ALUCA, CALPISS and DJ HI-C and 7 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

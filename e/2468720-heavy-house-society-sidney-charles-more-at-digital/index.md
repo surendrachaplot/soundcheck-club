@@ -1,6 +1,6 @@
 # Heavy House Society: Sidney Charles + more at Digital
 
-Heavy House Society: Sidney Charles + more at Digital on Fri 9 Oct, Newcastle. 1 act on the bill: Sidney Charles. Preview the line-up and save it on soundcheck.
+Heavy House Society: Sidney Charles + more at Digital on Fri 9 Oct, Newcastle. 1 artist on the bill: Sidney Charles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

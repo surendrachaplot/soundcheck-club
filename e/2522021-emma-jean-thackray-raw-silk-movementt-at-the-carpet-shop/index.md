@@ -1,6 +1,6 @@
 # Emma-Jean Thackray & RAW SILK - Movementt at The Carpet Shop
 
-Emma-Jean Thackray & RAW SILK - Movementt at The Carpet Shop on Sat 26 Sept, London. 2 acts on the bill: Emma-Jean Thackray and RAW SILK. Preview the line-up and save it on soundcheck.
+Emma-Jean Thackray & RAW SILK - Movementt at The Carpet Shop on Sat 26 Sept, London. 2 artists on the bill: Emma-Jean Thackray and RAW SILK. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

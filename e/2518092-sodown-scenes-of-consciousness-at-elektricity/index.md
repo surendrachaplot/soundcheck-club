@@ -1,6 +1,6 @@
 # SODOWN: SCENES OF CONSCIOUSNESS at Elektricity
 
-SODOWN: SCENES OF CONSCIOUSNESS at Elektricity on Fri 20 Nov, Detroit. 1 act on the bill: OOZE. Bass. Preview the line-up and save it on soundcheck.
+SODOWN: SCENES OF CONSCIOUSNESS at Elektricity on Fri 20 Nov, Detroit. 1 artist on the bill: OOZE. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

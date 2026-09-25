@@ -1,6 +1,6 @@
 # Sunset New Zealand presents: Mha Iri + Matty Ralph | Auckland at The Mothership
 
-Sunset New Zealand presents: Mha Iri + Matty Ralph | Auckland at The Mothership on Fri 25 Sept, Auckland. 1 act on the bill: Mha iri. Techno. Preview the line-up and save it on soundcheck.
+Sunset New Zealand presents: Mha Iri + Matty Ralph | Auckland at The Mothership on Fri 25 Sept, Auckland. 1 artist on the bill: Mha iri. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

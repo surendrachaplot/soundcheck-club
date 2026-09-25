@@ -1,6 +1,6 @@
 # CIRCLE X HVY.ROTATION at Tokonoma Club
 
-CIRCLE X HVY.ROTATION at Tokonoma Club on Sat 26 Sept, Frankfurt. 7 acts on the bill: Annyrock, Felix Lücke, Klix (DE) and Lauer and 3 more. Preview the line-up and save it on soundcheck.
+CIRCLE X HVY.ROTATION at Tokonoma Club on Sat 26 Sept, Frankfurt. 7 artists on the bill: Annyrock, Felix Lücke, Klix (DE) and Lauer and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

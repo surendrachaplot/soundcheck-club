@@ -1,6 +1,6 @@
 # CamelPhat ∞ ROXY Prague at Roxy
 
-CamelPhat ∞ ROXY Prague at Roxy on Fri 16 Oct, Prague. 1 act on the bill: CamelPhat. Progressive House and House. Preview the line-up and save it on soundcheck.
+CamelPhat ∞ ROXY Prague at Roxy on Fri 16 Oct, Prague. 1 artist on the bill: CamelPhat. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

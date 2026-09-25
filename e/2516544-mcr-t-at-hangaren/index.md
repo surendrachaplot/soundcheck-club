@@ -1,6 +1,6 @@
 # MCR-T at Hangaren
 
-MCR-T at Hangaren on Fri 20 Nov, Copenhagen. 1 act on the bill: MCR-T. Trance and Techno. Preview the line-up and save it on soundcheck.
+MCR-T at Hangaren on Fri 20 Nov, Copenhagen. 1 artist on the bill: MCR-T. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

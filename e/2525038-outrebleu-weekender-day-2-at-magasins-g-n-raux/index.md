@@ -1,6 +1,6 @@
 # OUTREBLEU [weekender] — day 2 at Magasins Généraux
 
-OUTREBLEU [weekender] — day 2 at Magasins Généraux on Sat 21 Nov, Paris. 7 acts on the bill: .VRIL, Aaron J, Atomic moog and GiGi FM and 3 more. Preview the line-up and save it on soundcheck.
+OUTREBLEU [weekender] — day 2 at Magasins Généraux on Sat 21 Nov, Paris. 7 artists on the bill: .VRIL, Aaron J, Atomic moog and GiGi FM and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

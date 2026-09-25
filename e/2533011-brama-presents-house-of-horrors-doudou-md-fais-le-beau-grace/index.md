@@ -1,6 +1,6 @@
 # Brama presents House Of Horrors: Doudou MD, Fais Le Beau, Grace Sands & Toby, Sam PV at NUMBER 90 LONDON
 
-Brama presents House Of Horrors: Doudou MD, Fais Le Beau, Grace Sands & Toby, Sam PV at NUMBER 90 LONDON on Sat 31 Oct, London. 8 acts on the bill: Doudou MD, Fais Le Beau, Grace Sands and ono.sendai.runner and 4 more. Preview the line-up and save it on soundcheck.
+Brama presents House Of Horrors: Doudou MD, Fais Le Beau, Grace Sands & Toby, Sam PV at NUMBER 90 LONDON on Sat 31 Oct, London. 8 artists on the bill: Doudou MD, Fais Le Beau, Grace Sands and ono.sendai.runner and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

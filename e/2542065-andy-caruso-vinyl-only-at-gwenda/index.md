@@ -1,6 +1,6 @@
 # Andy Caruso -- Vinyl Only at Gwenda
 
-Andy Caruso -- Vinyl Only at Gwenda on Fri 2 Oct, London. 1 act on the bill: Andy Caruso. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Andy Caruso -- Vinyl Only at Gwenda on Fri 2 Oct, London. 1 artist on the bill: Andy Caruso. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

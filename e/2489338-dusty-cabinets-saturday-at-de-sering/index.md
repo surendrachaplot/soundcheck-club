@@ -1,6 +1,6 @@
 # Dusty Cabinets | Saturday at De Sering
 
-Dusty Cabinets | Saturday at De Sering on Sat 24 Oct, Amsterdam. 3 acts on the bill: k means, LNR (UK) and MBODJ. Preview the line-up and save it on soundcheck.
+Dusty Cabinets | Saturday at De Sering on Sat 24 Oct, Amsterdam. 3 artists on the bill: k means, LNR (UK) and MBODJ. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

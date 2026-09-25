@@ -1,6 +1,6 @@
 # Capochino at SILO
 
-Capochino at SILO on Fri 11 Dec, Newyorkcity. Dubstep. Preview the line-up and save it on soundcheck.
+Capochino at SILO on Fri 11 Dec, New York City. Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MDC feat. Cousin, DJ Possum, Myles Mac at Solace
 
-MDC feat. Cousin, DJ Possum, Myles Mac at Solace on Fri 9 Oct, Melbourne. 3 acts on the bill: Cousin, DJ Possum and Myles Mac. House and Dub Techno. Preview the line-up and save it on soundcheck.
+MDC feat. Cousin, DJ Possum, Myles Mac at Solace on Fri 9 Oct, Melbourne. 3 artists on the bill: Cousin, DJ Possum and Myles Mac. House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

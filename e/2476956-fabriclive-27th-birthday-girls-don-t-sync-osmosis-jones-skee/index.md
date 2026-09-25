@@ -1,6 +1,6 @@
 # FABRICLIVE 27th BIRTHDAY - Girls Don't Sync, Osmosis Jones, Skee Mask, Smokey Bubblin' B at fabric
 
-FABRICLIVE 27th BIRTHDAY - Girls Don't Sync, Osmosis Jones, Skee Mask, Smokey Bubblin' B at fabric on Fri 16 Oct, London. 12 acts on the bill: Beatrice M., fae (UK), Girls Don't Sync and HALFPINT and 8 more. Preview the line-up and save it on soundcheck.
+FABRICLIVE 27th BIRTHDAY - Girls Don't Sync, Osmosis Jones, Skee Mask, Smokey Bubblin' B at fabric on Fri 16 Oct, London. 12 artists on the bill: Beatrice M., fae (UK), Girls Don't Sync and HALFPINT and 8 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

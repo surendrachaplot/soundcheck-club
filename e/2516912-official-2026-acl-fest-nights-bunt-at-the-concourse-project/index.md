@@ -1,6 +1,6 @@
 # Official 2026 ACL Fest Nights: BUNT at The Concourse Project
 
-Official 2026 ACL Fest Nights: BUNT at The Concourse Project on Fri 9 Oct, Austin. 1 act on the bill: DJ BAD APPLE. Preview the line-up and save it on soundcheck.
+Official 2026 ACL Fest Nights: BUNT at The Concourse Project on Fri 9 Oct, Austin. 1 artist on the bill: DJ BAD APPLE. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

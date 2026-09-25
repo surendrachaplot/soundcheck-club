@@ -1,6 +1,6 @@
 # Space 92 at Bauhaus
 
-Space 92 at Bauhaus on Fri 25 Sept, Houston. 1 act on the bill: Space 92. Techno and House. Preview the line-up and save it on soundcheck.
+Space 92 at Bauhaus on Fri 25 Sept, Houston. 1 artist on the bill: Space 92. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Gorg-O-Mish presents: Ricco, C-Star & Madam Lola at Gorg-O-Mish
 
-Gorg-O-Mish presents: Ricco, C-Star & Madam Lola on Sat 26 Sept, Vancouver. 2 acts on the bill: C-Star and Ricco. Preview the line-up and save it on soundcheck.
+Gorg-O-Mish presents: Ricco, C-Star & Madam Lola on Sat 26 Sept, Vancouver. 2 artists on the bill: C-Star and Ricco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Office Hours: GIANNA, Arjun Shah, Inés at Jupiter Disco
 
-Office Hours: GIANNA, Arjun Shah, Inés at Jupiter Disco on Sat 3 Oct, Newyorkcity. 3 acts on the bill: Arjun Shah, GIANNA and Inés. Preview the line-up and save it on soundcheck.
+Office Hours: GIANNA, Arjun Shah, Inés at Jupiter Disco on Sat 3 Oct, New York City. 3 artists on the bill: Arjun Shah, GIANNA and Inés. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

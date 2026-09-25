@@ -2,7 +2,7 @@
 
 Violetta (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at FLUCC, Vienna on Fri, 2 Oct 2026.
 
-Violetta (1) is a techno and trance artist based in Austria, tracked on soundcheck, with 40 sets logged across Berlin, Tokyo and Vienna. Often billed alongside Gerald VDH, DJ Deadlift and Hannah mit Hut. Next up: FLUCC, Vienna on Fri 2 Oct.
+Violetta is a techno and trance artist based in Austria, tracked on soundcheck, with 40 sets logged across Berlin, Tokyo and Vienna. Often billed alongside Gerald VDH, DJ Deadlift and Hannah mit Hut. Next up: FLUCC, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 

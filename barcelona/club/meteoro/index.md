@@ -2,7 +2,7 @@
 
 Meteoro is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Ninfekta - Global Expansion" on Sat, 26 Sept 2026.
 
-Meteoro is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including AG (1), Brianathegemini, gitano del futuro and Kaidara and 2 more. Browse upcoming dates, start times and who's playing. Passeig de Montjuïc, 72, 08004 Barcelona, España.
+Meteoro is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including AG, Brianathegemini, gitano del futuro and Kaidara and 2 more. Browse upcoming dates, start times and who's playing. Passeig de Montjuïc, 72, 08004 Barcelona, España.
 
 ## What's on
 

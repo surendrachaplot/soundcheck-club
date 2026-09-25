@@ -1,6 +1,6 @@
 # Daniel Avery & Massimiliano Pagliara at KALT
 
-Daniel Avery & Massimiliano Pagliara at KALT on Sat 26 Sept, Strasbourg. 2 acts on the bill: Daniel Avery and Massimiliano Pagliara. Preview the line-up and save it on soundcheck.
+Daniel Avery & Massimiliano Pagliara at KALT on Sat 26 Sept, Strasbourg. 2 artists on the bill: Daniel Avery and Massimiliano Pagliara. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

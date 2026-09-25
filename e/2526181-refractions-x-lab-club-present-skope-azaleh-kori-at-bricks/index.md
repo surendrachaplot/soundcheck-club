@@ -1,6 +1,6 @@
 # Refractions x Lab.Club present: Skope, Azaleh & Kori at Bricks
 
-Refractions x Lab.Club present: Skope, Azaleh & Kori at Bricks on Thu 15 Oct, London. 1 act on the bill: Azaleh. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Refractions x Lab.Club present: Skope, Azaleh & Kori at Bricks on Thu 15 Oct, London. 1 artist on the bill: Azaleh. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

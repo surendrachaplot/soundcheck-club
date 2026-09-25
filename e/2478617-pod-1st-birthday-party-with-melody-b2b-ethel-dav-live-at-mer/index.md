@@ -1,6 +1,6 @@
 # pod. 1st birthday party with Melody b2b Ethel & Dav (live) at Meraki
 
-pod. 1st birthday party with Melody b2b Ethel & Dav (live) at Meraki on Fri 25 Sept, Liverpool. 4 acts on the bill: Dav, Ellie Jennings, Ethel & Melody and Kathryn. Tech House and Electro. Preview the line-up and save it on soundcheck.
+pod. 1st birthday party with Melody b2b Ethel & Dav (live) at Meraki on Fri 25 Sept, Liverpool. 4 artists on the bill: Dav, Ellie Jennings, Ethel & Melody and Kathryn. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

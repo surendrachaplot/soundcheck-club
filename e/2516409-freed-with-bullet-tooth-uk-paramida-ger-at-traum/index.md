@@ -1,6 +1,6 @@
 # Freed with bullet tooth (UK) & PARAMIDA (GER) at TRAUM
 
-Freed with bullet tooth (UK) & PARAMIDA (GER) at TRAUM on Fri 2 Oct, Antwerp. 6 acts on the bill: Arter, bullet tooth, Cameo Blush and DC Noises and 2 more. House and Garage. Preview the line-up and save it on soundcheck.
+Freed with bullet tooth (UK) & PARAMIDA (GER) at TRAUM on Fri 2 Oct, Antwerp. 6 artists on the bill: Arter, bullet tooth, Cameo Blush and DC Noises and 2 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

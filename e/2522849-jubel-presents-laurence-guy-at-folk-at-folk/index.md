@@ -1,6 +1,6 @@
 # Jubel presents: Laurence Guy at Folk at Folk.
 
-Jubel presents: Laurence Guy at Folk at Folk. on Sat 26 Sept, Manchester. 1 act on the bill: Laurence Guy. House and Disco. Preview the line-up and save it on soundcheck.
+Jubel presents: Laurence Guy at Folk at Folk. on Sat 26 Sept, Manchester. 1 artist on the bill: Laurence Guy. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

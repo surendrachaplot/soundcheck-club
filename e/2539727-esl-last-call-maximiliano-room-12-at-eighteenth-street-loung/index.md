@@ -1,6 +1,6 @@
 # ESL: Last Call. Maximiliano / Room 12 at Eighteenth Street Lounge (ESL)
 
-ESL: Last Call. Maximiliano / Room 12 at Eighteenth Street Lounge (ESL) on Sun 11 Oct, Washingtondc. 2 acts on the bill: MAXIMILIANO (US) and Room 12. House and Deep House. Preview the line-up and save it on soundcheck.
+ESL: Last Call. Maximiliano / Room 12 at Eighteenth Street Lounge (ESL) on Sun 11 Oct, Washington DC. 2 artists on the bill: MAXIMILIANO (US) and Room 12. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

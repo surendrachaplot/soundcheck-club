@@ -1,6 +1,6 @@
 # Operate UKG pres. Mattik at Paloma
 
-Operate UKG pres. Mattik at Paloma on Fri 16 Oct, Berlin. 4 acts on the bill: Ben Mono, Campbell, Mattik (UK) and TMSN. Garage and UK Funky. Preview the line-up and save it on soundcheck.
+Operate UKG pres. Mattik at Paloma on Fri 16 Oct, Berlin. 4 artists on the bill: Ben Mono, Campbell, Mattik (UK) and TMSN. Garage and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

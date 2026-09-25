@@ -1,6 +1,6 @@
 # Club2k — Yushh, emkay, Nea2k at Post Bar
 
-Club2k — Yushh, emkay, Nea2k at Post Bar on Sat 3 Oct, Helsinki. 3 acts on the bill: emkay (FI), Nea2k and Yushh. Bass and Club. Preview the line-up and save it on soundcheck.
+Club2k — Yushh, emkay, Nea2k at Post Bar on Sat 3 Oct, Helsinki. 3 artists on the bill: emkay (FI), Nea2k and Yushh. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI at Auditorium San Fedele
 
-INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI at Auditorium San Fedele on Mon 16 Nov, Milan. 1 act on the bill: Andy Stott. Preview the line-up and save it on soundcheck.
+INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI at Auditorium San Fedele on Mon 16 Nov, Milan. 1 artist on the bill: Andy Stott. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

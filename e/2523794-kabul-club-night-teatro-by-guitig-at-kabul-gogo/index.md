@@ -1,6 +1,6 @@
 # KABUL Club Night Teatro by Guitig at KABUL à GoGo
 
-KABUL Club Night Teatro by Guitig at KABUL à GoGo on Sat 10 Oct, Utrecht. 1 act on the bill: DJ SWISHA. House and Bass. Preview the line-up and save it on soundcheck.
+KABUL Club Night Teatro by Guitig at KABUL à GoGo on Sat 10 Oct, Utrecht. 1 artist on the bill: DJ SWISHA. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

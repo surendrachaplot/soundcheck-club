@@ -1,6 +1,6 @@
 # Looped In Pre-Launch at Old Harmony Bar
 
-Looped In Pre-Launch at Old Harmony Bar on Sat 3 Oct, Glasgow. 2 acts on the bill: Justyyna and Midland Street Echoes. Techno and House. Preview the line-up and save it on soundcheck.
+Looped In Pre-Launch at Old Harmony Bar on Sat 3 Oct, Glasgow. 2 artists on the bill: Justyyna and Midland Street Echoes. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

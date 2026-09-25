@@ -1,6 +1,6 @@
 # Electron: CLUB CULTURE at Palladium
 
-Electron: CLUB CULTURE at Palladium on Fri 9 Oct, Geneva. 3 acts on the bill: 2ManyDJs, HAAi and Optimo (Espacio). Electro. Preview the line-up and save it on soundcheck.
+Electron: CLUB CULTURE at Palladium on Fri 9 Oct, Geneva. 3 artists on the bill: 2ManyDJs, HAAi and Optimo (Espacio). Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

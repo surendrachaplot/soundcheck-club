@@ -1,6 +1,6 @@
 # NAVE D-EDGE SP pres.: P1: Acid Asian. Bervon. HNGT. MOONPHAZES // P2: ANA CAOLI. BIOMA DJS. at D-EDGE
 
-NAVE D-EDGE SP pres.: P1: Acid Asian. Bervon. HNGT. MOONPHAZES // P2: ANA CAOLI. BIOMA DJS. on Sat 26 Sept, Saopaulo. 5 acts on the bill: Acid Asian, Bervon, Gromma and HNGT and 1 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+NAVE D-EDGE SP pres.: P1: Acid Asian. Bervon. HNGT. MOONPHAZES // P2: ANA CAOLI. BIOMA DJS. on Sat 26 Sept, Sao Paulo. 5 artists on the bill: Acid Asian, Bervon, Gromma and HNGT and 1 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

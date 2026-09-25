@@ -1,6 +1,6 @@
 # krakelee club with Andy Garvey, a:tok, oskø at Gewölbe
 
-krakelee club with Andy Garvey, a:tok, oskø at Gewölbe on Sat 17 Oct, Cologne. 3 acts on the bill: a:tok, Andy Garvey and oskø. Techno. Preview the line-up and save it on soundcheck.
+krakelee club with Andy Garvey, a:tok, oskø at Gewölbe on Sat 17 Oct, Cologne. 3 artists on the bill: a:tok, Andy Garvey and oskø. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

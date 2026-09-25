@@ -1,6 +1,6 @@
 # Sweet Greens Vol. III - No.90 at NUMBER 90 LONDON
 
-Sweet Greens Vol. III - No.90 at NUMBER 90 LONDON on Fri 25 Sept, London. 4 acts on the bill: Ben E, Darley, Dolce Verde and Marina Lović. Preview the line-up and save it on soundcheck.
+Sweet Greens Vol. III - No.90 at NUMBER 90 LONDON on Fri 25 Sept, London. 4 artists on the bill: Ben E, Darley, Dolce Verde and Marina Lović. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

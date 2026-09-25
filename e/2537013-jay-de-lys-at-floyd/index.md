@@ -1,6 +1,6 @@
 # Jay de Lys at Floyd
 
-Jay de Lys at Floyd on Sun 4 Oct, Miami. 2 acts on the bill: Jay de Lys and Ms. Mada. House and Tech House. Preview the line-up and save it on soundcheck.
+Jay de Lys at Floyd on Sun 4 Oct, Miami. 2 artists on the bill: Jay de Lys and Ms. Mada. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

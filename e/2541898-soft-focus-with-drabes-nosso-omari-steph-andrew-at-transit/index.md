@@ -1,6 +1,6 @@
 # Soft Focus with Drabes, Nosso, Omari, Steph Andrew at Transit
 
-Soft Focus with Drabes, Nosso, Omari, Steph Andrew at Transit on Fri 9 Oct, Amsterdam. 3 acts on the bill: Drabes, Nosso and OMARI (3). Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Soft Focus with Drabes, Nosso, Omari, Steph Andrew at Transit on Fri 9 Oct, Amsterdam. 3 artists on the bill: Drabes, Nosso and OMARI. Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

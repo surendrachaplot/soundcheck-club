@@ -2,7 +2,7 @@
 
 Contra is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Compound by Dirt Dog, Los Angeles on Fri, 2 Oct 2026.
 
-Contra is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Denver, Detroit, London and Losangeles and 2 more. Often billed alongside Apollo Navigation, Kilbourne and LORD ANNA. Next up: The Compound by Dirt Dog, Losangeles on Fri 2 Oct.
+Contra is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Denver, Detroit, London and Los Angeles and 2 more. Often billed alongside Apollo Navigation, Kilbourne and LORD ANNA. Next up: The Compound by Dirt Dog, Los Angeles on Fri 2 Oct.
 
 ## Upcoming shows
 

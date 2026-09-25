@@ -1,6 +1,6 @@
 # Pressure Test at Eastern Bloc Records
 
-Pressure Test at Eastern Bloc Records on Fri 16 Oct, Manchester. 1 act on the bill: Artilect. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Pressure Test at Eastern Bloc Records on Fri 16 Oct, Manchester. 1 artist on the bill: Artilect. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

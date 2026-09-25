@@ -1,6 +1,6 @@
 # Pracht PRES. with EFÍMERO, NØAH b2b Jamal, Jolie at Pracht
 
-Pracht PRES. with EFÍMERO, NØAH b2b Jamal, Jolie on Fri 25 Sept, Frankfurt. 2 acts on the bill: EFÍMERO and JOLIE (DE). Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Pracht PRES. with EFÍMERO, NØAH b2b Jamal, Jolie on Fri 25 Sept, Frankfurt. 2 artists on the bill: EFÍMERO and JOLIE (DE). Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

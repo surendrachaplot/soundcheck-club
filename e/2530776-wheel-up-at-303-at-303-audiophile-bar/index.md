@@ -1,6 +1,6 @@
 # Wheel Up at 303 at 303 Audiophile Bar
 
-Wheel Up at 303 at 303 Audiophile Bar on Thu 1 Oct, Barcelona. 3 acts on the bill: Satta B, Sunny Graves and SURUU. House. Preview the line-up and save it on soundcheck.
+Wheel Up at 303 at 303 Audiophile Bar on Thu 1 Oct, Barcelona. 3 artists on the bill: Satta B, Sunny Graves and SURUU. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

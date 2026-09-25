@@ -1,6 +1,6 @@
 # Walker & Royce at Lincoln Factory
 
-Walker & Royce at Lincoln Factory on Sat 17 Oct, Detroit. 3 acts on the bill: FENIK, Silverdome Boyz and Walker & Royce. Techno and House. Preview the line-up and save it on soundcheck.
+Walker & Royce at Lincoln Factory on Sat 17 Oct, Detroit. 3 artists on the bill: FENIK, Silverdome Boyz and Walker & Royce. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tantum - Somos Produce, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo
 
-Tantum - Somos Produce, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo on Sat 17 Oct, Buenosaires. 1 act on the bill: Tantum. Progressive House. Preview the line-up and save it on soundcheck.
+Tantum - Somos Produce, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo on Sat 17 Oct, Buenos Aires. 1 artist on the bill: Tantum. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

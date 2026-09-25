@@ -1,6 +1,6 @@
 # Blendsworld - ADE SPECIAL at Melkweg
 
-Blendsworld - ADE SPECIAL at Melkweg on Sat 24 Oct, Amsterdam. 3 acts on the bill: Danni Gato, Henry X and Ukãi Ndame. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Blendsworld - ADE SPECIAL at Melkweg on Sat 24 Oct, Amsterdam. 3 artists on the bill: Danni Gato, Henry X and Ukãi Ndame. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

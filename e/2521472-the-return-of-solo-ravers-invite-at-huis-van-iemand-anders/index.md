@@ -1,6 +1,6 @@
 # The return of Solo Ravers Invite at Huis van Iemand Anders
 
-The return of Solo Ravers Invite at Huis van Iemand Anders on Wed 21 Oct, Amsterdam. 3 acts on the bill: Clodol, DE//SIRE and SLURPiSS. Techno. Preview the line-up and save it on soundcheck.
+The return of Solo Ravers Invite at Huis van Iemand Anders on Wed 21 Oct, Amsterdam. 3 artists on the bill: Clodol, DE//SIRE and SLURPiSS. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

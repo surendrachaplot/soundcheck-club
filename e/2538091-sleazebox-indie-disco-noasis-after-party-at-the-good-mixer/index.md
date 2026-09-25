@@ -1,6 +1,6 @@
 # SleazeBox indie disco: nOASIS After Party at The Good Mixer
 
-SleazeBox indie disco: nOASIS After Party at The Good Mixer on Sat 21 Nov, London. 1 act on the bill: Zkeletonz. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+SleazeBox indie disco: nOASIS After Party at The Good Mixer on Sat 21 Nov, London. 1 artist on the bill: Zkeletonz. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

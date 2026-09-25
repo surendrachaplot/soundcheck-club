@@ -1,6 +1,6 @@
 # AFROWAVES: NIGERIA INDEPENDENCE - Afrobeats After Party Yacht Cruise at Pier 78 at Hudson River Park
 
-AFROWAVES: NIGERIA INDEPENDENCE - Afrobeats After Party Yacht Cruise at Pier 78 at Hudson River Park on Sat 26 Sept, Newyorkcity. Amapiano and Afrobeats. Preview the line-up and save it on soundcheck.
+AFROWAVES: NIGERIA INDEPENDENCE - Afrobeats After Party Yacht Cruise at Pier 78 at Hudson River Park on Sat 26 Sept, New York City. Amapiano and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

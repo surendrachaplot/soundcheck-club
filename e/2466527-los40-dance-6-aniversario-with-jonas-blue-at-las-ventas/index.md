@@ -1,6 +1,6 @@
 # LOS40 DANCE 6º aniversario with Jonas Blue at Las Ventas
 
-LOS40 DANCE 6º aniversario with Jonas Blue at Las Ventas on Sat 19 Dec, Madrid. 2 acts on the bill: Jonas Blue and Juanjo Martin. Electro and Electronica. Preview the line-up and save it on soundcheck.
+LOS40 DANCE 6º aniversario with Jonas Blue at Las Ventas on Sat 19 Dec, Madrid. 2 artists on the bill: Jonas Blue and Juanjo Martin. Electro and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

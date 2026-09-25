@@ -1,6 +1,6 @@
 # Jackie Hollander at Floyd
 
-Jackie Hollander at Floyd on Sat 10 Oct, Miami. 3 acts on the bill: Jackie Hollander, Lupe Fuentes and Monoky (2). House and Tech House. Preview the line-up and save it on soundcheck.
+Jackie Hollander at Floyd on Sat 10 Oct, Miami. 3 artists on the bill: Jackie Hollander, Lupe Fuentes and Monoky. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

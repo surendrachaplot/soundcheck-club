@@ -1,6 +1,6 @@
 # Charlie Tee presents: UNITEE [Halloween] at Thekla
 
-Charlie Tee presents: UNITEE [Halloween] at Thekla on Fri 30 Oct, Bristol. 2 acts on the bill: Charlie Tee and goddard.. Drum & Bass. Preview the line-up and save it on soundcheck.
+Charlie Tee presents: UNITEE [Halloween] at Thekla on Fri 30 Oct, Bristol. 2 artists on the bill: Charlie Tee and goddard.. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

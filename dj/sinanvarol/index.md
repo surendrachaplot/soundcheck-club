@@ -2,7 +2,7 @@
 
 Sinan Varol is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ipse, Berlin on Sat, 26 Sept 2026.
 
-Sinan Varol is a house and trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside LG JASPER <3, Baumeister (2) and DJ FUNKI TASTE. Next up: Ipse, Berlin on Sat 26 Sept.
+Sinan Varol is a house and trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside LG JASPER <3, Baumeister and DJ FUNKI TASTE. Next up: Ipse, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 

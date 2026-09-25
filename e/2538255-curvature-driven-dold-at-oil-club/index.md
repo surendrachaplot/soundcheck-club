@@ -1,6 +1,6 @@
 # 曲率驱动 Curvature-driven: Dold at OIL Club
 
-曲率驱动 Curvature-driven: Dold at OIL Club on Fri 2 Oct, Shenzhen. 1 act on the bill: Dold. Techno. Preview the line-up and save it on soundcheck.
+曲率驱动 Curvature-driven: Dold at OIL Club on Fri 2 Oct, Shenzhen. 1 artist on the bill: Dold. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

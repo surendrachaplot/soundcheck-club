@@ -1,6 +1,6 @@
 # Oxygène // Vera Logdanidi - Shkedul at DURO
 
-Oxygène // Vera Logdanidi - Shkedul at DURO on Sat 7 Nov, Milan. 2 acts on the bill: Shkedul and Vera Logdanidi. Techno. Preview the line-up and save it on soundcheck.
+Oxygène // Vera Logdanidi - Shkedul at DURO on Sat 7 Nov, Milan. 2 artists on the bill: Shkedul and Vera Logdanidi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

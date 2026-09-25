@@ -2,7 +2,7 @@
 
 Black Tiger Sex Machine is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 3 Oct 2026.
 
-Black Tiger Sex Machine is a bass and dubstep artist based in Canada, tracked on soundcheck, with 18 sets logged across Austin, Boston, Buenosaires and Losangeles and 8 more. Often billed alongside Lilly Palmer, Benny Benassi and Boys Noize. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 3 Oct.
+Black Tiger Sex Machine is a bass and dubstep artist based in Canada, tracked on soundcheck, with 18 sets logged across Austin, Boston, Buenos Aires and Los Angeles and 8 more. Often billed alongside Lilly Palmer, Benny Benassi and Boys Noize. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 3 Oct.
 
 ## Upcoming shows
 

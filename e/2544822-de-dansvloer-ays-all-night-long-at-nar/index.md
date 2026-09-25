@@ -1,6 +1,6 @@
 # DE DANSVLOER / Ays (all night long) at NAR
 
-DE DANSVLOER / Ays (all night long) at NAR on Thu 8 Oct, Utrecht. 1 act on the bill: Ays (NL). Preview the line-up and save it on soundcheck.
+DE DANSVLOER / Ays (all night long) at NAR on Thu 8 Oct, Utrecht. 1 artist on the bill: Ays (NL). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

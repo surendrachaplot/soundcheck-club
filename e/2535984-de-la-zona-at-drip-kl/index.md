@@ -1,6 +1,6 @@
 # DE LA ZONA at Drip KL
 
-DE LA ZONA at Drip KL on Thu 15 Oct, Kualalumpur. Trance. Preview the line-up and save it on soundcheck.
+DE LA ZONA at Drip KL on Thu 15 Oct, Kuala Lumpur. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

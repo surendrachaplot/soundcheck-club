@@ -1,6 +1,6 @@
 # sayLess@ESL presents MöSee at Eighteenth Street Lounge (ESL)
 
-sayLess@ESL presents MöSee at Eighteenth Street Lounge (ESL) on Sun 27 Sept, Washingtondc. 2 acts on the bill: markintheDark and MÖSEE. Techno and Deep House. Preview the line-up and save it on soundcheck.
+sayLess@ESL presents MöSee at Eighteenth Street Lounge (ESL) on Sun 27 Sept, Washington DC. 2 artists on the bill: markintheDark and MÖSEE. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

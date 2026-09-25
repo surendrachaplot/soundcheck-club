@@ -1,6 +1,6 @@
 # Full Throttle: Mha Iri and More at House of Yes
 
-Full Throttle: Mha Iri and More at House of Yes on Sat 14 Nov, Newyorkcity. 1 act on the bill: Mha iri. Techno. Preview the line-up and save it on soundcheck.
+Full Throttle: Mha Iri and More at House of Yes on Sat 14 Nov, New York City. 1 artist on the bill: Mha iri. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

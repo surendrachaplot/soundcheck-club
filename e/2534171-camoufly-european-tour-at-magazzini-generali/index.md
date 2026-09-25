@@ -1,6 +1,6 @@
 # camoufly European Tour at Magazzini Generali
 
-camoufly European Tour at Magazzini Generali on Fri 13 Nov, Milan. 1 act on the bill: camoufly. Electronica. Preview the line-up and save it on soundcheck.
+camoufly European Tour at Magazzini Generali on Fri 13 Nov, Milan. 1 artist on the bill: camoufly. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

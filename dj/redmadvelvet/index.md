@@ -1,8 +1,8 @@
 # Redmadvelvet
 
-Redmadvelvet is a Acid and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
+Redmadvelvet is a Acid and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
 
-Redmadvelvet is an acid and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin and Cologne. Often billed alongside Daniel Englisch, Detune and Angelo D'onorio. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
+Redmadvelvet is an acid and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin and Cologne. Often billed alongside Daniel Englisch, Detune and Angelo D'onorio. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Redmadvelvet is an acid and techno artist based in Germany, tracked on soundchec
 | Wed, 21 Oct 2026 | Noorderlicht Café | Amsterdam |
 | Sat, 24 Oct 2026 | TBA | Cologne |
 | Sat, 21 Nov 2026 | TBA | Cologne |
+| Sat, 23 Jan 2027 | TBA | Cologne |
 
 ## Recently played
 

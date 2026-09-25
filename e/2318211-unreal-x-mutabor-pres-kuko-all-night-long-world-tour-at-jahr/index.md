@@ -1,6 +1,6 @@
 # UNREAL x Mutabor pres. KUKO All Night Long World Tour at Jahrhunderthalle
 
-UNREAL x Mutabor pres. KUKO All Night Long World Tour at Jahrhunderthalle on Sat 31 Oct, Bochum. 1 act on the bill: KUKO. Techno. Preview the line-up and save it on soundcheck.
+UNREAL x Mutabor pres. KUKO All Night Long World Tour at Jahrhunderthalle on Sat 31 Oct, Bochum. 1 artist on the bill: KUKO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

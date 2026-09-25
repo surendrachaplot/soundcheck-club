@@ -1,6 +1,6 @@
 # Takeover: Sonja Moonear, Ste Roberts + Support at Hidden
 
-Takeover: Sonja Moonear, Ste Roberts + Support at Hidden on Sat 5 Dec, Manchester. 4 acts on the bill: K1ng Arthur, Ken(UK), Sonja Moonear and Ste Roberts. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Takeover: Sonja Moonear, Ste Roberts + Support at Hidden on Sat 5 Dec, Manchester. 4 artists on the bill: K1ng Arthur, Ken(UK), Sonja Moonear and Ste Roberts. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

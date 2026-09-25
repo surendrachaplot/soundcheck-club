@@ -2,7 +2,7 @@
 
 Amba is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - The Yellow Sub Bar , Liverpool on Sat, 26 Sept 2026.
 
-Amba is a house and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Liverpool, Newyorkcity and Sheffield. Often billed alongside Armii1n, Jeny Michelle and Camila Wolf. Next up: TBA - The Yellow Sub Bar , Liverpool on Sat 26 Sept.
+Amba is a house and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Liverpool, New York City and Sheffield. Often billed alongside Armii1n, Jeny Michelle and Camila Wolf. Next up: TBA - The Yellow Sub Bar , Liverpool on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Xinobi / Bow Miller / Anders HP / Rhythm Vault: Max Finney / Qwenty / Roussakis at Culture Box
 
-Xinobi / Bow Miller / Anders HP / Rhythm Vault: Max Finney / Qwenty / Roussakis at Culture Box on Fri 23 Oct, Copenhagen. 6 acts on the bill: Anders HP, Bow Miller, Max Finney and Qwenty and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Xinobi / Bow Miller / Anders HP / Rhythm Vault: Max Finney / Qwenty / Roussakis at Culture Box on Fri 23 Oct, Copenhagen. 6 artists on the bill: Anders HP, Bow Miller, Max Finney and Qwenty and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

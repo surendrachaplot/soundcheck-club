@@ -2,7 +2,7 @@
 
 Colored Craig is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Los Globos, Los Angeles on Fri, 25 Sept 2026.
 
-Colored Craig is a house and techno artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 12 more. Often billed alongside Kilopatrah Jones, Sevyn and Ashley Younniä. Next up: Los Globos, Losangeles on Fri 25 Sept.
+Colored Craig is a house and techno artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 12 more. Often billed alongside Kilopatrah Jones, Sevyn and Ashley Younniä. Next up: Los Globos, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

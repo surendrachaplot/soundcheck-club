@@ -1,6 +1,6 @@
 # Desire pres. Mischluft All Night long at Carlswerk Victoria
 
-Desire pres. Mischluft All Night long at Carlswerk Victoria on Fri 23 Oct, Cologne. 1 act on the bill: Mischluft. Preview the line-up and save it on soundcheck.
+Desire pres. Mischluft All Night long at Carlswerk Victoria on Fri 23 Oct, Cologne. 1 artist on the bill: Mischluft. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Goodness: Andy Stott, Carmen Villain, Church Andrews & Matt Davies, William Breakspeare at The Institute of Contemporary Arts London
 
-Goodness: Andy Stott, Carmen Villain, Church Andrews & Matt Davies, William Breakspeare at The Institute of Contemporary Arts London on Sat 12 Dec, London. 2 acts on the bill: Andy Stott and Carmen Villain. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Goodness: Andy Stott, Carmen Villain, Church Andrews & Matt Davies, William Breakspeare at The Institute of Contemporary Arts London on Sat 12 Dec, London. 2 artists on the bill: Andy Stott and Carmen Villain. Ambient and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

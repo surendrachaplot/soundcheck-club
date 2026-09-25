@@ -1,6 +1,6 @@
 # End of the Summer Celebration: Nicolas Lutz, Brasi, Luc, Hugo Sanchez, Dj Pisolino at THE MAGICK BAR
 
-End of the Summer Celebration: Nicolas Lutz, Brasi, Luc, Hugo Sanchez, Dj Pisolino at THE MAGICK BAR on Sat 26 Sept, Rome. 4 acts on the bill: Brasi, Hugo Sanchez, Luc (1) and Nicolas Lutz. Preview the line-up and save it on soundcheck.
+End of the Summer Celebration: Nicolas Lutz, Brasi, Luc, Hugo Sanchez, Dj Pisolino at THE MAGICK BAR on Sat 26 Sept, Rome. 4 artists on the bill: Brasi, Hugo Sanchez, Luc and Nicolas Lutz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

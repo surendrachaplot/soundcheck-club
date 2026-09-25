@@ -1,6 +1,6 @@
 # Riordan at 1015 Folsom
 
-Riordan at 1015 Folsom on Fri 9 Oct, Sanfrancisco. 1 act on the bill: Riordan. House and Tech House. Preview the line-up and save it on soundcheck.
+Riordan at 1015 Folsom on Fri 9 Oct, San Francisco/Oakland. 1 artist on the bill: Riordan. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # [CANCELLED] JUST CLEAN MUSIC at TBA - SECRET LAVANDERIA
 
-[CANCELLED] JUST CLEAN MUSIC at TBA - SECRET LAVANDERIA on Fri 2 Oct, Barcelona. 3 acts on the bill: Derrick Burns, Fernie and Röpe. Techno. Preview the line-up and save it on soundcheck.
+[CANCELLED] JUST CLEAN MUSIC at TBA - SECRET LAVANDERIA on Fri 2 Oct, Barcelona. 3 artists on the bill: Derrick Burns, Fernie and Röpe. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

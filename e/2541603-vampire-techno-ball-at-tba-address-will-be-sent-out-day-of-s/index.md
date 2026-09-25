@@ -1,6 +1,6 @@
 # Vampire Techno Ball at TBA - Address will be sent out day of show
 
-Vampire Techno Ball at TBA - Address will be sent out day of show on Sat 10 Oct, Losangeles. 3 acts on the bill: C.H.A.Y., Chamoy Baby and David Paul. Techno and House. Preview the line-up and save it on soundcheck.
+Vampire Techno Ball at TBA - Address will be sent out day of show on Sat 10 Oct, Los Angeles. 3 artists on the bill: C.H.A.Y., Chamoy Baby and David Paul. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

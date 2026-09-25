@@ -1,6 +1,6 @@
 # Continental Jam Selection: A Night of Global Jazz, Funk, Disco & House at Bermondsey Social Club
 
-Continental Jam Selection: A Night of Global Jazz, Funk, Disco & House at Bermondsey Social Club on Fri 25 Sept, London. 2 acts on the bill: Edible and Jamie Adam. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Continental Jam Selection: A Night of Global Jazz, Funk, Disco & House at Bermondsey Social Club on Fri 25 Sept, London. 2 artists on the bill: Edible and Jamie Adam. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

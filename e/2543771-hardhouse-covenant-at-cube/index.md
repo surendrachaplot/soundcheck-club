@@ -1,6 +1,6 @@
 # HARDHOUSE COVENANT at Cube
 
-HARDHOUSE COVENANT at Cube on Fri 23 Oct, Tokyo. 4 acts on the bill: GENDER-K (2), KAMIKAZE, RICKY and TAIYO (3). Techno and Gabber. Preview the line-up and save it on soundcheck.
+HARDHOUSE COVENANT at Cube on Fri 23 Oct, Tokyo. 4 artists on the bill: GENDER-K, KAMIKAZE, RICKY and TAIYO. Techno and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MIRAGE -THE SESSION EDITION- at BRAND SHIBUYA
 
-MIRAGE -THE SESSION EDITION- at BRAND SHIBUYA on Fri 25 Sept, Tokyo. 1 act on the bill: AEMI. Club. Preview the line-up and save it on soundcheck.
+MIRAGE -THE SESSION EDITION- at BRAND SHIBUYA on Fri 25 Sept, Tokyo. 1 artist on the bill: AEMI. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

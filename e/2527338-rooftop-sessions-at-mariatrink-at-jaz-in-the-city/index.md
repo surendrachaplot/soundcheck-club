@@ -1,6 +1,6 @@
 # Rooftop Sessions at Mariatrink at Jaz in the City
 
-Rooftop Sessions at Mariatrink at Jaz in the City on Fri 2 Oct, Vienna. 1 act on the bill: Fede Frostl. Preview the line-up and save it on soundcheck.
+Rooftop Sessions at Mariatrink at Jaz in the City on Fri 2 Oct, Vienna. 1 artist on the bill: Fede Frostl. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

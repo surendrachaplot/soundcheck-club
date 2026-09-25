@@ -1,6 +1,6 @@
 # redluck records: unlucky for some - Gabriel Rai, Touré, Vitamin T & Corvair at Movers
 
-redluck records: unlucky for some - Gabriel Rai, Touré, Vitamin T & Corvair at Movers on Fri 13 Nov, Nottingham. 2 acts on the bill: Gabriel Rai and Touré. House and Electro. Preview the line-up and save it on soundcheck.
+redluck records: unlucky for some - Gabriel Rai, Touré, Vitamin T & Corvair at Movers on Fri 13 Nov, Nottingham. 2 artists on the bill: Gabriel Rai and Touré. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

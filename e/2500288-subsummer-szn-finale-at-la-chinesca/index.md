@@ -1,6 +1,6 @@
 # SubSummer Szn Finale at La Chinesca
 
-SubSummer Szn Finale at La Chinesca on Sun 11 Oct, Philadelphia. 3 acts on the bill: Gvantsky, Ricardo Roessel and Royce Larøca. Techno and House. Preview the line-up and save it on soundcheck.
+SubSummer Szn Finale at La Chinesca on Sun 11 Oct, Philadelphia. 3 artists on the bill: Gvantsky, Ricardo Roessel and Royce Larøca. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

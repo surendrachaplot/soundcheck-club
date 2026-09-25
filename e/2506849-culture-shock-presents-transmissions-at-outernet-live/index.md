@@ -1,6 +1,6 @@
 # Culture Shock presents Transmissions at Outernet Live
 
-Culture Shock presents Transmissions at Outernet Live on Fri 27 Nov, London. 1 act on the bill: Culture Shock. Drum & Bass. Preview the line-up and save it on soundcheck.
+Culture Shock presents Transmissions at Outernet Live on Fri 27 Nov, London. 1 artist on the bill: Culture Shock. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

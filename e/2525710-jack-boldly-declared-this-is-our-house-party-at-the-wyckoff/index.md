@@ -1,6 +1,6 @@
 # Jack Boldly Declared This Is Our House Party at The Wyckoff House Museum
 
-Jack Boldly Declared This Is Our House Party at The Wyckoff House Museum on Sun 27 Sept, Newyorkcity. House and Garage. Preview the line-up and save it on soundcheck.
+Jack Boldly Declared This Is Our House Party at The Wyckoff House Museum on Sun 27 Sept, New York City. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

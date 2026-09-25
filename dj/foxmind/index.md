@@ -2,7 +2,7 @@
 
 FoxMind is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at YSY, Berlin on Sat, 17 Oct 2026.
 
-FoxMind is a techno and house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Berlin. Often billed alongside Janosch (2), Serving Suggestions and Aezron. Next up: YSY, Berlin on Sat 17 Oct.
+FoxMind is a techno and house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Berlin. Often billed alongside Janosch, Serving Suggestions and Aezron. Next up: YSY, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Ha•LULA•Ween Party at Lula Club
 
-Ha•LULA•Ween Party at Lula Club on Sat 31 Oct, Madrid. 3 acts on the bill: CAMET, COLLISION and Torrione. Preview the line-up and save it on soundcheck.
+Ha•LULA•Ween Party at Lula Club on Sat 31 Oct, Madrid. 3 artists on the bill: CAMET, COLLISION and Torrione. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

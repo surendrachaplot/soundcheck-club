@@ -2,7 +2,7 @@
 
 chlow333 is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at M.O.T, London on Fri, 25 Sept 2026.
 
-chlow333 is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Brighton, Bristol, Leeds and London. Often billed alongside Rodney, PEPPA (2) and Shirley Temper. Next up: M.O.T, London on Fri 25 Sept.
+chlow333 is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Brighton, Bristol, Leeds and London. Often billed alongside Rodney, PEPPA and Shirley Temper. Next up: M.O.T, London on Fri 25 Sept.
 
 ## Upcoming shows
 

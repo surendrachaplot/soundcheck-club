@@ -1,6 +1,6 @@
 # Mahmut Orhan BUCHAREST at Romaero - Baneasa
 
-Mahmut Orhan BUCHAREST at Romaero - Baneasa on Fri 9 Oct, Bucharest. 1 act on the bill: Mahmut Orhan. Preview the line-up and save it on soundcheck.
+Mahmut Orhan BUCHAREST at Romaero - Baneasa on Fri 9 Oct, Bucharest. 1 artist on the bill: Mahmut Orhan. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

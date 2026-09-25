@@ -2,7 +2,7 @@
 
 hypemelo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
 
-hypemelo is a techno and house artist based in United States of America, tracked on soundcheck, with 85 sets logged across Detroit and Newyorkcity. Often billed alongside Amino, Garrison XR and Duck Trash. Next up: Menjo's, Detroit on Sat 26 Sept.
+hypemelo is a techno and house artist based in United States of America, tracked on soundcheck, with 85 sets logged across Detroit and New York City. Often billed alongside Amino, Garrison XR and Duck Trash. Next up: Menjo's, Detroit on Sat 26 Sept.
 
 ## Upcoming shows
 

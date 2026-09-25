@@ -2,7 +2,7 @@
 
 Rafael (IS) is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-Rafael (IS) is a tech house and house artist based in Israel, tracked on soundcheck, with 26 sets logged across Austin, Barcelona, Berlin and Brisbane and 14 more. Often billed alongside Jamie Jones, Dennis Cruz and Afriqua. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
+Rafael (IS) is a tech house and house artist based in Israel, tracked on soundcheck, with 26 sets logged across Austin, Barcelona, Berlin and Brisbane and 14 more. Often billed alongside Jamie Jones, Dennis Cruz and Afriqua. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 

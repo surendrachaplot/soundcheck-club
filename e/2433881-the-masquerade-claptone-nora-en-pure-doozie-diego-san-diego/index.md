@@ -1,6 +1,6 @@
 # The Masquerade: Claptone, Nora En Pure, Doozie, DIEGO SAN DIEGO at Chinois Ibiza
 
-The Masquerade: Claptone, Nora En Pure, Doozie, DIEGO SAN DIEGO at Chinois Ibiza on Sat 3 Oct, Ibiza. 3 acts on the bill: Claptone, DIEGO SAN DIEGO and Nora En Pure. House and Tech House. Preview the line-up and save it on soundcheck.
+The Masquerade: Claptone, Nora En Pure, Doozie, DIEGO SAN DIEGO at Chinois Ibiza on Sat 3 Oct, Ibiza. 3 artists on the bill: Claptone, DIEGO SAN DIEGO and Nora En Pure. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

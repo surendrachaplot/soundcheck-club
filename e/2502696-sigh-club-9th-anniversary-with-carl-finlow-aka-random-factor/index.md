@@ -1,6 +1,6 @@
 # Sigh.CLUB 9TH ANNIVERSARY with Carl Finlow aka Random Factor at Cadavra
 
-Sigh.CLUB 9TH ANNIVERSARY with Carl Finlow aka Random Factor at Cadavra on Fri 27 Nov, Madrid. 2 acts on the bill: Carl Finlow and Random Factor. Electronica. Preview the line-up and save it on soundcheck.
+Sigh.CLUB 9TH ANNIVERSARY with Carl Finlow aka Random Factor at Cadavra on Fri 27 Nov, Madrid. 2 artists on the bill: Carl Finlow and Random Factor. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

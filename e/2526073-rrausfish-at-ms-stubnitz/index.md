@@ -1,6 +1,6 @@
 # rrausfish at MS Stubnitz
 
-rrausfish at MS Stubnitz on Sat 26 Sept, Hamburg. 6 acts on the bill: DJ Hochzeit, DJ Troy, Ilja Franz and MLE (2) and 2 more. Tech House and Downtempo. Preview the line-up and save it on soundcheck.
+rrausfish at MS Stubnitz on Sat 26 Sept, Hamburg. 6 artists on the bill: DJ Hochzeit, DJ Troy, Ilja Franz and MLE and 2 more. Tech House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

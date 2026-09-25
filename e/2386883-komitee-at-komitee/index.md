@@ -1,6 +1,6 @@
 # Komitee at Komitee
 
-Komitee on Sat 7 Nov, Munich. 1 act on the bill: Die Tektonische Plattenverschiebung. Electro. Preview the line-up and save it on soundcheck.
+Komitee on Sat 7 Nov, Munich. 1 artist on the bill: Die Tektonische Plattenverschiebung. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

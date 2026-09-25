@@ -1,6 +1,6 @@
 # GRAVE BR baile funk vol. IV: DJ SWAG DO COMPLEXO, JADA, N3LYSTAR, SILVASURFER, Letícia² at Badehaus Berlin
 
-GRAVE BR baile funk vol. IV: DJ SWAG DO COMPLEXO, JADA, N3LYSTAR, SILVASURFER, Letícia² at Badehaus Berlin on Fri 2 Oct, Berlin. 4 acts on the bill: JADA MORAES, N3LYSTAR, SILVASURFER and SWAG DO COMPLEXO. Preview the line-up and save it on soundcheck.
+GRAVE BR baile funk vol. IV: DJ SWAG DO COMPLEXO, JADA, N3LYSTAR, SILVASURFER, Letícia² at Badehaus Berlin on Fri 2 Oct, Berlin. 4 artists on the bill: JADA MORAES, N3LYSTAR, SILVASURFER and SWAG DO COMPLEXO. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

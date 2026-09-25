@@ -1,6 +1,6 @@
 # Night Trip ~Limited to 180~ at Solfa
 
-Night Trip ~Limited to 180~ at Solfa on Fri 9 Oct, Tokyo. 1 act on the bill: Stefan Goldmann. Techno. Preview the line-up and save it on soundcheck.
+Night Trip ~Limited to 180~ at Solfa on Fri 9 Oct, Tokyo. 1 artist on the bill: Stefan Goldmann. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

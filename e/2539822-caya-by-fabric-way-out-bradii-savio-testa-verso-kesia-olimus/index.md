@@ -1,6 +1,6 @@
 # CAYA by fabric: Way Out - BRADII, Savio Testa, Verso, Kesia, Olimus B2B Maurillexx at fabric
 
-CAYA by fabric: Way Out - BRADII, Savio Testa, Verso, Kesia, Olimus B2B Maurillexx on Sun 4 Oct, London. 4 acts on the bill: BRADII, Kesia (BR), Savio Testa and Verso. Preview the line-up and save it on soundcheck.
+CAYA by fabric: Way Out - BRADII, Savio Testa, Verso, Kesia, Olimus B2B Maurillexx on Sun 4 Oct, London. 4 artists on the bill: BRADII, Kesia (BR), Savio Testa and Verso. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

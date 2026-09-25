@@ -1,6 +1,6 @@
 # CLUB K-POP (K-POP Hits & K-EDM All Night Long!) at Union Stage
 
-CLUB K-POP (K-POP Hits & K-EDM All Night Long!) at Union Stage on Sat 3 Oct, Washingtondc. Preview the line-up and save it on soundcheck.
+CLUB K-POP (K-POP Hits & K-EDM All Night Long!) at Union Stage on Sat 3 Oct, Washington DC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

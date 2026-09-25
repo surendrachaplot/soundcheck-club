@@ -1,6 +1,6 @@
 # THE SOUND SOCIETY: A Love From Outer Space Chapter II at Village Underground Barcelona
 
-THE SOUND SOCIETY: A Love From Outer Space Chapter II at Village Underground Barcelona on Sat 7 Nov, Barcelona. 1 act on the bill: Sean Johnston. Preview the line-up and save it on soundcheck.
+THE SOUND SOCIETY: A Love From Outer Space Chapter II at Village Underground Barcelona on Sat 7 Nov, Barcelona. 1 artist on the bill: Sean Johnston. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

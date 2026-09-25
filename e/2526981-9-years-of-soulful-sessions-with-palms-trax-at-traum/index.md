@@ -1,6 +1,6 @@
 # 9 Years of Soulful Sessions with Palms Trax at TRAUM
 
-9 Years of Soulful Sessions with Palms Trax at TRAUM on Fri 16 Oct, Antwerp. 5 acts on the bill: Bevan, EG (1), Lil Lawaw and Palms Trax and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+9 Years of Soulful Sessions with Palms Trax at TRAUM on Fri 16 Oct, Antwerp. 5 artists on the bill: Bevan, EG, Lil Lawaw and Palms Trax and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

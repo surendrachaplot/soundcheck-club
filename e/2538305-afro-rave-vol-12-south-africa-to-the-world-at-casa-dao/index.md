@@ -1,6 +1,6 @@
 # AFRO RAVE VOL. 12: SOUTH AFRICA TO THE WORLD at Casa Dao
 
-AFRO RAVE VOL. 12: SOUTH AFRICA TO THE WORLD at Casa Dao on Sat 26 Sept, Hongkong. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+AFRO RAVE VOL. 12: SOUTH AFRICA TO THE WORLD at Casa Dao on Sat 26 Sept, Hong Kong. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

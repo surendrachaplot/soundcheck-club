@@ -1,6 +1,6 @@
 # SHY FX & more! Sat 26th Sept at FORGE
 
-SHY FX & more! Sat 26th Sept at FORGE on Sat 26 Sept, Sheffield. 1 act on the bill: Shy FX. Preview the line-up and save it on soundcheck.
+SHY FX & more! Sat 26th Sept at FORGE on Sat 26 Sept, Sheffield. 1 artist on the bill: Shy FX. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

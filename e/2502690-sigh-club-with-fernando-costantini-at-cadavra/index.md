@@ -1,6 +1,6 @@
 # Sigh.CLUB with Fernando Costantini at Cadavra
 
-Sigh.CLUB with Fernando Costantini at Cadavra on Fri 23 Oct, Madrid. 1 act on the bill: Fernando Costantini. Electronica. Preview the line-up and save it on soundcheck.
+Sigh.CLUB with Fernando Costantini at Cadavra on Fri 23 Oct, Madrid. 1 artist on the bill: Fernando Costantini. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

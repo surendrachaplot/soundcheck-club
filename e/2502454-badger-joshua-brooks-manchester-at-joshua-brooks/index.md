@@ -1,6 +1,6 @@
 # Badger: Joshua Brooks Manchester at Joshua Brooks
 
-Badger: Joshua Brooks Manchester on Fri 16 Oct, Manchester. 3 acts on the bill: Badger (UK), LARISHKA (UK) and SHADEV. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+Badger: Joshua Brooks Manchester on Fri 16 Oct, Manchester. 3 artists on the bill: Badger (UK), LARISHKA (UK) and SHADEV. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

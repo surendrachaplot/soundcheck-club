@@ -2,7 +2,7 @@
 
 Dom Dolla is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Flushing Meadows Corona Park, New York City on Sat, 3 Oct 2026.
 
-Dom Dolla is a house and tech house artist based in Australia, tracked on soundcheck, with 114 sets logged across Amsterdam, Austin, Barcelona and Belfast and 29 more. Often billed alongside Patrick Topping, Ewan McVicar and DJ Seinfeld. Next up: Flushing Meadows Corona Park, Newyorkcity on Sat 3 Oct.
+Dom Dolla is a house and tech house artist based in Australia, tracked on soundcheck, with 114 sets logged across Amsterdam, Austin, Barcelona and Belfast and 29 more. Often billed alongside Patrick Topping, Ewan McVicar and DJ Seinfeld. Next up: Flushing Meadows Corona Park, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 

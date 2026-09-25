@@ -1,6 +1,6 @@
 # RIVIERA by BRANCHIE w/ Pierpanico, Pixfoil (live), Blisset Cluster (live), mariannæ b2b Monuas at TBA - Secret Location
 
-RIVIERA by BRANCHIE w/ Pierpanico, Pixfoil (live), Blisset Cluster (live), mariannæ b2b Monuas at TBA - Secret Location on Sun 27 Sept, Rome. 2 acts on the bill: marianne (4) and Monuas. Preview the line-up and save it on soundcheck.
+RIVIERA by BRANCHIE w/ Pierpanico, Pixfoil (live), Blisset Cluster (live), mariannæ b2b Monuas at TBA - Secret Location on Sun 27 Sept, Rome. 2 artists on the bill: marianne and Monuas. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

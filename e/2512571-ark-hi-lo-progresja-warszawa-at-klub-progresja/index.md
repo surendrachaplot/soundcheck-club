@@ -1,6 +1,6 @@
 # ARK: HI-LO / Progresja, Warszawa at Klub Progresja
 
-ARK: HI-LO / Progresja, Warszawa at Klub Progresja on Fri 16 Oct, Warsaw. 1 act on the bill: HI-LO. Techno and Tech House. Preview the line-up and save it on soundcheck.
+ARK: HI-LO / Progresja, Warszawa at Klub Progresja on Fri 16 Oct, Warsaw. 1 artist on the bill: HI-LO. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

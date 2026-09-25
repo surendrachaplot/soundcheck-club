@@ -1,6 +1,6 @@
 # Girls of the Internet (Live) at Kantine am Berghain
 
-Girls of the Internet (Live) at Kantine am Berghain on Thu 15 Oct, Berlin. 1 act on the bill: Girls of the Internet. Deep House and Disco. Preview the line-up and save it on soundcheck.
+Girls of the Internet (Live) at Kantine am Berghain on Thu 15 Oct, Berlin. 1 artist on the bill: Girls of the Internet. Deep House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

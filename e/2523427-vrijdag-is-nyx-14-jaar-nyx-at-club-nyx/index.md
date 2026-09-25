@@ -1,6 +1,6 @@
 # Vrijdag is NYX: 14 jaar NYX at Club NYX
 
-Vrijdag is NYX: 14 jaar NYX at Club NYX on Fri 2 Oct, Amsterdam. 1 act on the bill: Turne. Pop and R&B. Preview the line-up and save it on soundcheck.
+Vrijdag is NYX: 14 jaar NYX at Club NYX on Fri 2 Oct, Amsterdam. 1 artist on the bill: Turne. Pop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

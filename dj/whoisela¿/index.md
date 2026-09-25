@@ -2,7 +2,7 @@
 
 Who is ela¿ is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Karlsplatz, Vienna on Sat, 26 Sept 2026.
 
-Who is ela¿ is a techno and trance artist based in Austria, tracked on soundcheck, with 49 sets logged across Berlin, Cologne, Munich and Vienna. Often billed alongside KRAWALLBARBIE, Anna Ullrich and BRX (2). Next up: Karlsplatz, Vienna on Sat 26 Sept.
+Who is ela¿ is a techno and trance artist based in Austria, tracked on soundcheck, with 49 sets logged across Berlin, Cologne, Munich and Vienna. Often billed alongside KRAWALLBARBIE, Anna Ullrich and BRX. Next up: Karlsplatz, Vienna on Sat 26 Sept.
 
 ## Upcoming shows
 

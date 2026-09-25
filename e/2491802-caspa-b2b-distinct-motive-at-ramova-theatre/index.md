@@ -1,6 +1,6 @@
 # Caspa b2b Distinct Motive at Ramova Theatre
 
-Caspa b2b Distinct Motive at Ramova Theatre on Sat 7 Nov, Chicago. 1 act on the bill: Caspa. Dubstep. Preview the line-up and save it on soundcheck.
+Caspa b2b Distinct Motive at Ramova Theatre on Sat 7 Nov, Chicago. 1 artist on the bill: Caspa. Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

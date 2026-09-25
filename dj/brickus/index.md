@@ -2,7 +2,7 @@
 
 Brick (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
 
-Brick (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Austin, Detroit, Losangeles and Sanfrancisco and 1 more. Often billed alongside Freeman 713, FAUNA (2) and Carmine. Next up: TBA - DTLA, Losangeles on Fri 6 Nov.
+Brick (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Austin, Detroit, Los Angeles and San Francisco/Oakland and 1 more. Often billed alongside Freeman 713, FAUNA and Carmine. Next up: TBA - DTLA, Los Angeles on Fri 6 Nov.
 
 ## Upcoming shows
 

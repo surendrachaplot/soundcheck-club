@@ -1,6 +1,6 @@
 # Schrotty with WyldHearts Showcase // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts at Schrotty
 
-Schrotty with WyldHearts Showcase // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts on Sat 24 Oct, Cologne. 9 acts on the bill: BabaBass3000, Baumeister98, Eva Charley and Ferrand and 5 more. Trance and House. Preview the line-up and save it on soundcheck.
+Schrotty with WyldHearts Showcase // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts on Sat 24 Oct, Cologne. 9 artists on the bill: BabaBass3000, Baumeister98, Eva Charley and Ferrand and 5 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

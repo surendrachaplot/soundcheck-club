@@ -1,6 +1,6 @@
 # Pyramid at Amnesia Ibiza
 
-Pyramid at Amnesia Ibiza on Sun 27 Sept, Ibiza. 10 acts on the bill: Burnski, CAAL, De La Swing and DJ Pete and 6 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Pyramid at Amnesia Ibiza on Sun 27 Sept, Ibiza. 10 artists on the bill: Burnski, CAAL, De La Swing and DJ Pete and 6 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

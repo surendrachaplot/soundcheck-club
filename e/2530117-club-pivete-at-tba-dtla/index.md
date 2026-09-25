@@ -1,6 +1,6 @@
 # CLUB PIVETE at TBA - DTLA
 
-CLUB PIVETE at TBA - DTLA on Sat 24 Oct, Losangeles. Baile Funk and Club. Preview the line-up and save it on soundcheck.
+CLUB PIVETE at TBA - DTLA on Sat 24 Oct, Los Angeles. Baile Funk and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

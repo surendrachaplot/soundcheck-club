@@ -1,6 +1,6 @@
 # On The Rocks with Sassy J (ADE Special) at Hearth
 
-On The Rocks with Sassy J (ADE Special) at Hearth on Sat 24 Oct, Amsterdam. 2 acts on the bill: On the Rocks (OTR) and Sassy J. House and Italo Disco. Preview the line-up and save it on soundcheck.
+On The Rocks with Sassy J (ADE Special) at Hearth on Sat 24 Oct, Amsterdam. 2 artists on the bill: On the Rocks (OTR) and Sassy J. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

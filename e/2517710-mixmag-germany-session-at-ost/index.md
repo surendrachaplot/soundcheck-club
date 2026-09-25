@@ -1,6 +1,6 @@
 # Mixmag Germany Session at OST
 
-Mixmag Germany Session at OST on Sat 26 Sept, Berlin. 4 acts on the bill: Arman John, Ben Techy, Cybersex and PERT. Techno. Preview the line-up and save it on soundcheck.
+Mixmag Germany Session at OST on Sat 26 Sept, Berlin. 4 artists on the bill: Arman John, Ben Techy, Cybersex and PERT. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

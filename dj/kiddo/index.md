@@ -2,7 +2,7 @@
 
 Kiddo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Kiddo is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Amsterdam, Chicago, Detroit and Mexicocity and 2 more. Often billed alongside June Baasanjav, Edum and Sassmouth. Next up: Factory Town, Miami on Fri 30 Oct.
+Kiddo is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Amsterdam, Chicago, Detroit and Mexico City and 2 more. Often billed alongside June Baasanjav, Edum and Sassmouth. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 

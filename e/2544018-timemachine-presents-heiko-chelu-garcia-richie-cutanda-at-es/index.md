@@ -1,6 +1,6 @@
 # TIMEmACHINE presents Heiko, Chelu Garcia & Richie Cutanda at Esbirra Ibiza
 
-TIMEmACHINE presents Heiko, Chelu Garcia & Richie Cutanda at Esbirra Ibiza on Sat 24 Oct, Ibiza. 2 acts on the bill: Chelu Garcia and Richie Cutanda. House and Minimal. Preview the line-up and save it on soundcheck.
+TIMEmACHINE presents Heiko, Chelu Garcia & Richie Cutanda at Esbirra Ibiza on Sat 24 Oct, Ibiza. 2 artists on the bill: Chelu Garcia and Richie Cutanda. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

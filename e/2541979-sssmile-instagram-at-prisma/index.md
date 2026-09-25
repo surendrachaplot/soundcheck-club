@@ -1,6 +1,6 @@
 # Sssmile Instagram at Prisma
 
-Sssmile Instagram at Prisma on Thu 29 Oct, Berlin. 3 acts on the bill: Kazuki Takahashi, LeoSkiDj and The Shredder. Techno. Preview the line-up and save it on soundcheck.
+Sssmile Instagram at Prisma on Thu 29 Oct, Berlin. 3 artists on the bill: Kazuki Takahashi, LeoSkiDj and The Shredder. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

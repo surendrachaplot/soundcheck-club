@@ -1,14 +1,15 @@
 # Cinna Peyghamy
 
-Cinna Peyghamy is a Experimental and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Beursschouwburg, Brussels on Thu, 24 Sept 2026.
+Cinna Peyghamy is a Experimental and Dub Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Beursschouwburg, Brussels on Thu, 24 Sept 2026.
 
-Cinna Peyghamy is an experimental and dub techno artist based in France, tracked on soundcheck, with 32 sets logged across Basel, Berlin, Brussels and Cologne and 6 more. Often billed alongside Azu Tiwaline, Mahmood Schricker and Ale Hop. Next up: Beursschouwburg, Brussels on Thu 24 Sept.
+Cinna Peyghamy is an experimental and dub techno artist based in France, tracked on soundcheck, with 33 sets logged across Armenia, Basel, Berlin and Brussels and 7 more. Often billed alongside Azu Tiwaline, Mahmood Schricker and Ale Hop. Next up: Beursschouwburg, Brussels on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Beursschouwburg | Brussels |
+| Sat, 26 Sept 2026 | TBA - Yerevan, Armenia | Armenia |
 | Wed, 11 Nov 2026 | Silent Green | Berlin |
 | Thu, 12 Nov 2026 | Vespers Club | London |
 

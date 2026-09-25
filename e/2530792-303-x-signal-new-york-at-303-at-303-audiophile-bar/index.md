@@ -1,6 +1,6 @@
 # 303 x Signal New York at 303 at 303 Audiophile Bar
 
-303 x Signal New York at 303 at 303 Audiophile Bar on Sat 10 Oct, Barcelona. 2 acts on the bill: Karla Böhm and PILAR MOLINERO. House and Minimal. Preview the line-up and save it on soundcheck.
+303 x Signal New York at 303 at 303 Audiophile Bar on Sat 10 Oct, Barcelona. 3 artists on the bill: David Berrie, Karla Böhm and PILAR MOLINERO. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- David Berrie
 - Karla Böhm
 - PILAR MOLINERO
 

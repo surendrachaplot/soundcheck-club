@@ -1,6 +1,6 @@
 # Love Connection All Night Long at Bodega Danza
 
-Love Connection All Night Long at Bodega Danza on Fri 25 Sept, Copenhagen. 1 act on the bill: Love Connection. House and Disco. Preview the line-up and save it on soundcheck.
+Love Connection All Night Long at Bodega Danza on Fri 25 Sept, Copenhagen. 1 artist on the bill: Love Connection. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

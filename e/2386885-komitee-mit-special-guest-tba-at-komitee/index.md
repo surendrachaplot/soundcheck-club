@@ -1,6 +1,6 @@
 # Komitee mit Special Guest tba at Komitee
 
-Komitee mit Special Guest tba on Sat 19 Dec, Munich. 1 act on the bill: Die Tektonische Plattenverschiebung. Electro. Preview the line-up and save it on soundcheck.
+Komitee mit Special Guest tba on Sat 19 Dec, Munich. 1 artist on the bill: Die Tektonische Plattenverschiebung. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

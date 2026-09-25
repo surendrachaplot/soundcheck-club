@@ -1,6 +1,6 @@
 # Juan Maclean (all night), Tavish, Gee Dee at Good Room
 
-Juan Maclean (all night), Tavish, Gee Dee at Good Room on Sat 21 Nov, Newyorkcity. 3 acts on the bill: Gee Dee, Juan Maclean and Tavish. Preview the line-up and save it on soundcheck.
+Juan Maclean (all night), Tavish, Gee Dee at Good Room on Sat 21 Nov, New York City. 3 artists on the bill: Gee Dee, Juan Maclean and Tavish. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

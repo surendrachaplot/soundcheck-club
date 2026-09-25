@@ -1,6 +1,6 @@
 # DRVN - Melodic & Peak Time & Driven Techno at John Doe
 
-DRVN - Melodic & Peak Time & Driven Techno at John Doe on Fri 25 Sept, Amsterdam. 2 acts on the bill: Alex Sharp and ARTE-MAS. Techno. Preview the line-up and save it on soundcheck.
+DRVN - Melodic & Peak Time & Driven Techno at John Doe on Fri 25 Sept, Amsterdam. 2 artists on the bill: Alex Sharp and ARTE-MAS. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

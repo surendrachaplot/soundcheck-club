@@ -1,6 +1,6 @@
 # SUBCERO x HIDDEN GROOVES & MANDOSTAN at Subcero Club
 
-SUBCERO x HIDDEN GROOVES & MANDOSTAN at Subcero Club on Thu 1 Oct, Madrid. 3 acts on the bill: JoyBoy, MIGO and Spyrow. House. Preview the line-up and save it on soundcheck.
+SUBCERO x HIDDEN GROOVES & MANDOSTAN at Subcero Club on Thu 1 Oct, Madrid. 3 artists on the bill: JoyBoy, MIGO and Spyrow. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

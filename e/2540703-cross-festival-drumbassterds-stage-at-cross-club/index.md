@@ -1,6 +1,6 @@
 # CROSS FESTIVAL & DRUMBASSTERDS STAGE at Cross Club
 
-CROSS FESTIVAL & DRUMBASSTERDS STAGE at Cross Club on Fri 16 Oct, Prague. 3 acts on the bill: Strachkvas, Takaaki Itoh and ZAMILSKA. Preview the line-up and save it on soundcheck.
+CROSS FESTIVAL & DRUMBASSTERDS STAGE at Cross Club on Fri 16 Oct, Prague. 3 artists on the bill: Strachkvas, Takaaki Itoh and ZAMILSKA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

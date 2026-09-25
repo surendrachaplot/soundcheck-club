@@ -1,6 +1,6 @@
 # kourosh presents: bah bah album listening party at murmur
 
-kourosh presents: bah bah album listening party at murmur on Fri 25 Sept, Amsterdam. 1 act on the bill: Gres A. Preview the line-up and save it on soundcheck.
+kourosh presents: bah bah album listening party at murmur on Fri 25 Sept, Amsterdam. 1 artist on the bill: Gres A. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

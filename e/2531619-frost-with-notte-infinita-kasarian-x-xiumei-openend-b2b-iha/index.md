@@ -1,6 +1,6 @@
 # FROST with Notte Infinita, Kasarian X, Xiumei, OpenEnd b2b IHA at TBA
 
-FROST with Notte Infinita, Kasarian X, Xiumei, OpenEnd b2b IHA at TBA on Sat 3 Oct, Vancouver. 5 acts on the bill: DR BPM, IHA (CA), Notte Infinita and OpenEnd and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+FROST with Notte Infinita, Kasarian X, Xiumei, OpenEnd b2b IHA at TBA on Sat 3 Oct, Vancouver. 5 artists on the bill: DR BPM, IHA (CA), Notte Infinita and OpenEnd and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

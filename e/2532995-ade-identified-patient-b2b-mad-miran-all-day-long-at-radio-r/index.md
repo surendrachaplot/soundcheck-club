@@ -1,6 +1,6 @@
 # ADE:  Identified Patient b2b mad miran — All Day Long at Radio Radio
 
-ADE:  Identified Patient b2b mad miran — All Day Long at Radio Radio on Sat 24 Oct, Amsterdam. 2 acts on the bill: Identified Patient and mad miran. Preview the line-up and save it on soundcheck.
+ADE:  Identified Patient b2b mad miran — All Day Long at Radio Radio on Sat 24 Oct, Amsterdam. 2 artists on the bill: Identified Patient and mad miran. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

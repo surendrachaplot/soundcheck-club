@@ -2,7 +2,7 @@
 
 subcutan is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ÆDEN, Berlin on Sat, 10 Oct 2026.
 
-subcutan is a trance and techno artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Leipzig, Munich and Nurnberg. Often billed alongside NAGINI, Vaneska and Praun. Next up: ÆDEN, Berlin on Sat 10 Oct.
+subcutan is a trance and techno artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Leipzig, Munich and Nürnberg. Often billed alongside NAGINI, Vaneska and Praun. Next up: ÆDEN, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 

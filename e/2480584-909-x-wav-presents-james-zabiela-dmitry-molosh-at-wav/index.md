@@ -1,6 +1,6 @@
 # 909 x WAV presents James Zabiela & Dmitry Molosh at WaV
 
-909 x WAV presents James Zabiela & Dmitry Molosh at WaV on Sat 24 Oct, Liverpool. 3 acts on the bill: Dmitry Molosh, Fidge and James Zabiela. Techno and House. Preview the line-up and save it on soundcheck.
+909 x WAV presents James Zabiela & Dmitry Molosh at WaV on Sat 24 Oct, Liverpool. 3 artists on the bill: Dmitry Molosh, Fidge and James Zabiela. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

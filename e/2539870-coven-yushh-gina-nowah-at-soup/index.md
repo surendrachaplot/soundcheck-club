@@ -1,6 +1,6 @@
 # Coven: Yushh, Gina, nowah at Soup
 
-Coven: Yushh, Gina, nowah at Soup on Fri 6 Nov, Manchester. 3 acts on the bill: GINA (UK), nowah and Yushh. Techno and Bass. Preview the line-up and save it on soundcheck.
+Coven: Yushh, Gina, nowah at Soup on Fri 6 Nov, Manchester. 3 artists on the bill: GINA (UK), nowah and Yushh. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Angerfist + KLOFAMA en MÉXICO at Sala Urbana
 
-Angerfist + KLOFAMA en MÉXICO at Sala Urbana on Fri 9 Oct, Mexicocity. 2 acts on the bill: Angerfist and KLOFAMA. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Angerfist + KLOFAMA en MÉXICO at Sala Urbana on Fri 9 Oct, Mexico City. 2 artists on the bill: Angerfist and KLOFAMA. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

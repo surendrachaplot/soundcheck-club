@@ -1,6 +1,6 @@
 # NEGITIV at Uebel & Gefährlich
 
-NEGITIV at Uebel & Gefährlich on Sat 3 Oct, Hamburg. 2 acts on the bill: NEGITIV and TMB (1). Techno. Preview the line-up and save it on soundcheck.
+NEGITIV at Uebel & Gefährlich on Sat 3 Oct, Hamburg. 2 artists on the bill: NEGITIV and TMB. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sub Club presents: Amotik at Sub Club Melbourne
 
-Sub Club presents: Amotik at Sub Club Melbourne on Fri 25 Sept, Melbourne. 2 acts on the bill: Amotik and Yulia Kasa. Techno. Preview the line-up and save it on soundcheck.
+Sub Club presents: Amotik at Sub Club Melbourne on Fri 25 Sept, Melbourne. 2 artists on the bill: Amotik and Yulia Kasa. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

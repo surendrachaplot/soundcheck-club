@@ -2,7 +2,7 @@
 
 Verleger is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Porto Pollo, Vienna on Sat, 26 Sept 2026.
 
-Verleger is a house and deep house artist based in Austria, tracked on soundcheck, with 19 sets logged across Vienna. Often billed alongside Fabiano José, Reinhard Zach and DJ Hill (2). Next up: Porto Pollo, Vienna on Sat 26 Sept.
+Verleger is a house and deep house artist based in Austria, tracked on soundcheck, with 19 sets logged across Vienna. Often billed alongside Fabiano José, Reinhard Zach and DJ Hill. Next up: Porto Pollo, Vienna on Sat 26 Sept.
 
 ## Upcoming shows
 

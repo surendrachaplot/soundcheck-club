@@ -2,7 +2,7 @@
 
 Break Room 86 is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Thriller: 80's Halloween Party" on Sat, 31 Oct 2026.
 
-Break Room 86 is a music venue in Losangeles listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 630 S. Ardmore Ave. Los Angeles, CA 90010.
+Break Room 86 is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 630 S. Ardmore Ave. Los Angeles, CA 90010.
 
 ## What's on
 

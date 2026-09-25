@@ -1,6 +1,6 @@
 # Silva Bumpa · Laidlaw · Alvva / PRADA2000 · VIVAY at Nitsa Club
 
-Silva Bumpa · Laidlaw · Alvva / PRADA2000 · VIVAY at Nitsa Club on Fri 16 Oct, Barcelona. 5 acts on the bill: Alvva, Laidlaw, PRADA2000 and Silva Bumpa and 1 more. Trance and Garage. Preview the line-up and save it on soundcheck.
+Silva Bumpa · Laidlaw · Alvva / PRADA2000 · VIVAY at Nitsa Club on Fri 16 Oct, Barcelona. 5 artists on the bill: Alvva, Laidlaw, PRADA2000 and Silva Bumpa and 1 more. Trance and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SUNDAY SERVICE LIVE at Planet Wax
 
-SUNDAY SERVICE LIVE at Planet Wax on Sun 27 Sept, London. 3 acts on the bill: Dexta, Sho Gabi and Uncle G. Breakbeat and Experimental. Preview the line-up and save it on soundcheck.
+SUNDAY SERVICE LIVE at Planet Wax on Sun 27 Sept, London. 3 artists on the bill: Dexta, Sho Gabi and Uncle G. Breakbeat and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

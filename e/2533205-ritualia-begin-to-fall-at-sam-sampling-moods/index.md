@@ -1,6 +1,6 @@
 # RITUALIA - Begin To Fall at SAM Sampling Moods
 
-RITUALIA - Begin To Fall at SAM Sampling Moods on Sat 26 Sept, Milan. 2 acts on the bill: Giamma Soren and Luce Clandestina. Preview the line-up and save it on soundcheck.
+RITUALIA - Begin To Fall at SAM Sampling Moods on Sat 26 Sept, Milan. 2 artists on the bill: Giamma Soren and Luce Clandestina. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

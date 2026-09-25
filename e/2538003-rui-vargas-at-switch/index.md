@@ -1,6 +1,6 @@
 # Rui Vargas at Switch
 
-Rui Vargas at Switch on Sat 26 Sept, Porto. 1 act on the bill: Rui Vargas. Preview the line-up and save it on soundcheck.
+Rui Vargas at Switch on Sat 26 Sept, Porto. 1 artist on the bill: Rui Vargas. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

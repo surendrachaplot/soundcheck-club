@@ -1,6 +1,6 @@
 # Charlie Tee presents Unitee at Volks
 
-Charlie Tee presents Unitee at Volks on Sat 26 Sept, Brighton. 2 acts on the bill: Charlie Tee and Diagnostix. Drum & Bass. Preview the line-up and save it on soundcheck.
+Charlie Tee presents Unitee at Volks on Sat 26 Sept, Brighton. 2 artists on the bill: Charlie Tee and Diagnostix. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

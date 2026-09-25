@@ -1,6 +1,6 @@
 # Sub Focus at Poolen
 
-Sub Focus at Poolen on Sat 21 Nov, Copenhagen. 1 act on the bill: Sub Focus. Drum & Bass. Preview the line-up and save it on soundcheck.
+Sub Focus at Poolen on Sat 21 Nov, Copenhagen. 1 artist on the bill: Sub Focus. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

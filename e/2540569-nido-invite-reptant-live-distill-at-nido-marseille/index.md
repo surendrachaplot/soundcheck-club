@@ -1,6 +1,6 @@
 # Nido invite: Reptant (Live) & Distill at Nido Marseille
 
-Nido invite: Reptant (Live) & Distill at Nido Marseille on Sat 26 Sept, Marseille. 1 act on the bill: Reptant. Preview the line-up and save it on soundcheck.
+Nido invite: Reptant (Live) & Distill at Nido Marseille on Sat 26 Sept, Marseille. 1 artist on the bill: Reptant. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 ARWEN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Revo Rooftop, Mexico City on Fri, 2 Oct 2026.
 
-ARWEN is a house and techno artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Edinburgh, Hamburg, Manchester and Mexicocity and 1 more. Often billed alongside PASO, TOOKAST and BORLEY. Next up: Revo Rooftop, Mexicocity on Fri 2 Oct.
+ARWEN is a house and techno artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Edinburgh, Hamburg, Manchester and Mexico City and 1 more. Often billed alongside PASO, TOOKAST and BORLEY. Next up: Revo Rooftop, Mexico City on Fri 2 Oct.
 
 ## Upcoming shows
 

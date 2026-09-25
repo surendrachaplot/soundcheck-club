@@ -1,6 +1,6 @@
 # Tengu presents: Eliza All Night Long at Yamamori Tengu
 
-Tengu presents: Eliza All Night Long at Yamamori Tengu on Sat 31 Oct, Dublin. 1 act on the bill: Eliza. Techno and Electro. Preview the line-up and save it on soundcheck.
+Tengu presents: Eliza All Night Long at Yamamori Tengu on Sat 31 Oct, Dublin. 1 artist on the bill: Eliza. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

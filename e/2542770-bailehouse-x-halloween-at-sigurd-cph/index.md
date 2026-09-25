@@ -1,6 +1,6 @@
 # BAILEHOUSE x HALLOWEEN at Sigurd CPH
 
-BAILEHOUSE x HALLOWEEN at Sigurd CPH on Sat 31 Oct, Copenhagen. 1 act on the bill: Jungle Julia(DK). Dancehall and Dembow. Preview the line-up and save it on soundcheck.
+BAILEHOUSE x HALLOWEEN at Sigurd CPH on Sat 31 Oct, Copenhagen. 1 artist on the bill: Jungle Julia(DK). Dancehall and Dembow. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

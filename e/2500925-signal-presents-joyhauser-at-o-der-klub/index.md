@@ -1,6 +1,6 @@
 # SIGNAL presents Joyhauser at O der Klub
 
-SIGNAL presents Joyhauser at O der Klub on Fri 2 Oct, Vienna. 4 acts on the bill: Albin Brezlan, Joris Turenhout, Joyhauser and Mark Michael. Techno. Preview the line-up and save it on soundcheck.
+SIGNAL presents Joyhauser at O der Klub on Fri 2 Oct, Vienna. 4 artists on the bill: Albin Brezlan, Joris Turenhout, Joyhauser and Mark Michael. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

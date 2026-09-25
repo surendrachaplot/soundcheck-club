@@ -2,7 +2,7 @@
 
 Linda Lo is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club Catwalk, Los Angeles on Fri, 25 Sept 2026.
 
-Linda Lo is a bass and club artist based in United States of America, tracked on soundcheck, with 13 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Avi Loud, pollensource and 40split. Next up: Club Catwalk, Losangeles on Fri 25 Sept.
+Linda Lo is a bass and club artist based in United States of America, tracked on soundcheck, with 13 sets logged across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Avi Loud, pollensource and 40split. Next up: Club Catwalk, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Ayantula is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at or, Tokyo on Sat, 26 Sept 2026.
 
-Ayantula is a house and tech house artist based in Japan, tracked on soundcheck, with 25 sets logged across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and Anri (2). Next up: or, Tokyo on Sat 26 Sept.
+Ayantula is a house and tech house artist based in Japan, tracked on soundcheck, with 25 sets logged across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and Anri. Next up: or, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 

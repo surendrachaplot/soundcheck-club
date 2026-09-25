@@ -1,6 +1,6 @@
 # Body Hack: LOKA, Sevyn Love, Gatite Gangster, Archangel, Yaz Lancaster, swello at Nowadays
 
-Body Hack: LOKA, Sevyn Love, Gatite Gangster, Archangel, Yaz Lancaster, swello at Nowadays on Thu 24 Sept, Newyorkcity. 4 acts on the bill: ARCHANGEL (US), LOKA (US), Sevyn Love and Yaz Lancaster. Club. Preview the line-up and save it on soundcheck.
+Body Hack: LOKA, Sevyn Love, Gatite Gangster, Archangel, Yaz Lancaster, swello at Nowadays on Thu 24 Sept, New York City. 4 artists on the bill: ARCHANGEL (US), LOKA (US), Sevyn Love and Yaz Lancaster. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

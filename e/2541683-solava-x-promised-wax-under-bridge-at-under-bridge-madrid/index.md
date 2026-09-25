@@ -1,6 +1,6 @@
 # Solava x (Promised) Wax ~ Under Bridge at Under Bridge Madrid
 
-Solava x (Promised) Wax ~ Under Bridge at Under Bridge Madrid on Sat 3 Oct, Madrid. 1 act on the bill: Palimpseste. Preview the line-up and save it on soundcheck.
+Solava x (Promised) Wax ~ Under Bridge at Under Bridge Madrid on Sat 3 Oct, Madrid. 1 artist on the bill: Palimpseste. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

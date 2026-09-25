@@ -1,6 +1,6 @@
 # ECLYPSE London at 93 Feet East
 
-ECLYPSE London at 93 Feet East on Sat 3 Oct, London. 3 acts on the bill: EL PADRE, Major K and Nathassia. Techno and Tech House. Preview the line-up and save it on soundcheck.
+ECLYPSE London at 93 Feet East on Sat 3 Oct, London. 3 artists on the bill: EL PADRE, Major K and Nathassia. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Unfinished with Berkan V8, Benny2, MAGIS at The Grey Space In The Middle
 
-Unfinished with Berkan V8, Benny2, MAGIS at The Grey Space In The Middle on Fri 9 Oct, Thehague. 3 acts on the bill: Benny2, Berkan V8 and MAGIS. House and Deep House. Preview the line-up and save it on soundcheck.
+Unfinished with Berkan V8, Benny2, MAGIS at The Grey Space In The Middle on Fri 9 Oct, The Hague. 3 artists on the bill: Benny2, Berkan V8 and MAGIS. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Resurrection Rebirth: Vinka Wydro b2b Highvoltage, Anolux, Rose De France, Quazar at Rex Club
 
-Resurrection Rebirth: Vinka Wydro b2b Highvoltage, Anolux, Rose De France, Quazar at Rex Club on Wed 21 Oct, Paris. 2 acts on the bill: Quazar and Vinka Wydro. Techno and EBM. Preview the line-up and save it on soundcheck.
+Resurrection Rebirth: Vinka Wydro b2b Highvoltage, Anolux, Rose De France, Quazar at Rex Club on Wed 21 Oct, Paris. 2 artists on the bill: Quazar and Vinka Wydro. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

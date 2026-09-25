@@ -1,6 +1,6 @@
 # Deep Dive Invites - Avo (Signature, Madrid) at TBA - 1624 U St NW
 
-Deep Dive Invites - Avo (Signature, Madrid) at TBA - 1624 U St NW on Sat 26 Sept, Washingtondc. 1 act on the bill: Avo (ES). Techno and House. Preview the line-up and save it on soundcheck.
+Deep Dive Invites - Avo (Signature, Madrid) at TBA - 1624 U St NW on Sat 26 Sept, Washington DC. 1 artist on the bill: Avo (ES). Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

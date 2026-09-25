@@ -2,7 +2,7 @@
 
 pizzi is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 99 Scott Ave, New York City on Fri, 16 Oct 2026.
 
-pizzi is an afro house and house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Amsterdam, London, Miami and Newyorkcity and 2 more. Often billed alongside Meedy, Niara Sterling and Nativesun. Next up: 99 Scott Ave, Newyorkcity on Fri 16 Oct.
+pizzi is an afro house and house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Amsterdam, London, Miami and New York City and 2 more. Often billed alongside Meedy, Niara Sterling and Nativesun. Next up: 99 Scott Ave, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 

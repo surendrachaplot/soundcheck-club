@@ -1,6 +1,6 @@
 # Antidoto Club: Miro at Club Magno
 
-Antidoto Club: Miro at Club Magno on Thu 17 Dec, Madrid. 3 acts on the bill: Diego Armando, Maxvll and MIRO (DE). Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
+Antidoto Club: Miro at Club Magno on Thu 17 Dec, Madrid. 3 artists on the bill: Diego Armando, Maxvll and MIRO (DE). Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

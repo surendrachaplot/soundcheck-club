@@ -1,6 +1,6 @@
 # House. Garage. Disco. Grove Thursdays by Linden Grove @ XLR; BYOB at XLR
 
-House. Garage. Disco. Grove Thursdays by Linden Grove @ XLR; BYOB on Thu 24 Sept, Manchester. 3 acts on the bill: Emile, Groooves and Mase (2). House and Garage. Preview the line-up and save it on soundcheck.
+House. Garage. Disco. Grove Thursdays by Linden Grove @ XLR; BYOB on Thu 24 Sept, Manchester. 3 artists on the bill: Emile, Groooves and Mase. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

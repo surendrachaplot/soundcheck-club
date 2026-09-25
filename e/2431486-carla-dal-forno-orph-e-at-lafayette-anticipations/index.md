@@ -1,6 +1,6 @@
 # Carla dal Forno + Orphée at Lafayette Anticipations
 
-Carla dal Forno + Orphée at Lafayette Anticipations on Sun 27 Sept, Paris. 1 act on the bill: Carla dal Forno. Preview the line-up and save it on soundcheck.
+Carla dal Forno + Orphée at Lafayette Anticipations on Sun 27 Sept, Paris. 1 artist on the bill: Carla dal Forno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

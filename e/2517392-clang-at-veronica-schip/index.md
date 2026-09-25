@@ -1,6 +1,6 @@
 # CLANG at Veronica Schip
 
-CLANG at Veronica Schip on Sat 26 Sept, Amsterdam. 1 act on the bill: Rauschhaus. Preview the line-up and save it on soundcheck.
+CLANG at Veronica Schip on Sat 26 Sept, Amsterdam. 1 artist on the bill: Rauschhaus. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FM/AM Feria Mexicana de Audio y Música 2027 at Casa Grande
 
-FM/AM Feria Mexicana de Audio y Música 2027 at Casa Grande on Sat 26 Sept, Mexicocity. 2 acts on the bill: Cashu and MNTY. Techno and Funk / Soul. Preview the line-up and save it on soundcheck.
+FM/AM Feria Mexicana de Audio y Música 2027 at Casa Grande on Sat 26 Sept, Mexico City. 2 artists on the bill: Cashu and MNTY. Techno and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

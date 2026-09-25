@@ -1,6 +1,6 @@
 # 𝓜𝓸𝓸𝓹𝓲𝓮 All Night at Solace
 
-𝓜𝓸𝓸𝓹𝓲𝓮 All Night at Solace on Fri 6 Nov, Melbourne. 1 act on the bill: Moopie. Electro and Minimal Techno. Preview the line-up and save it on soundcheck.
+𝓜𝓸𝓸𝓹𝓲𝓮 All Night at Solace on Fri 6 Nov, Melbourne. 1 artist on the bill: Moopie. Electro and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

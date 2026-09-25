@@ -1,6 +1,6 @@
 # Honey Dijon - SYDNEY - MANNING COURTYARD at Manning Bar
 
-Honey Dijon - SYDNEY - MANNING COURTYARD at Manning Bar on Fri 27 Nov, Sydney. 1 act on the bill: Honey Dijon. Preview the line-up and save it on soundcheck.
+Honey Dijon - SYDNEY - MANNING COURTYARD at Manning Bar on Fri 27 Nov, Sydney. 1 artist on the bill: Honey Dijon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

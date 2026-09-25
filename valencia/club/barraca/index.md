@@ -2,7 +2,7 @@
 
 Barraca is a music venue in Valencia with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Palmeres Festival 22ºEdition" on Sat, 3 Oct 2026.
 
-Barraca is a music venue in Valencia listed on soundcheck. 4 upcoming gigs, with line-ups including Brenda Serna (2), Cristian Varela, Dj Pepo and Domen and 2 more. Browse upcoming dates, start times and who's playing. Avd San Roc s/n, Sueca, 46410 Valencia, Spain.
+Barraca is a music venue in Valencia listed on soundcheck. 4 upcoming gigs, with line-ups including Brenda Serna, Cristian Varela, Dj Pepo and Domen and 2 more. Browse upcoming dates, start times and who's playing. Avd San Roc s/n, Sueca, 46410 Valencia, Spain.
 
 ## What's on
 

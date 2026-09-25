@@ -1,6 +1,6 @@
 # ANUBIS: Paul Seul, RUFFNECK, FLUCC, NAMARA & MORE at Mia Mao
 
-ANUBIS: Paul Seul, RUFFNECK, FLUCC, NAMARA & MORE at Mia Mao on Fri 25 Sept, Paris. 2 acts on the bill: FLUCC and Paul Seul. Techno. Preview the line-up and save it on soundcheck.
+ANUBIS: Paul Seul, RUFFNECK, FLUCC, NAMARA & MORE at Mia Mao on Fri 25 Sept, Paris. 2 artists on the bill: FLUCC and Paul Seul. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

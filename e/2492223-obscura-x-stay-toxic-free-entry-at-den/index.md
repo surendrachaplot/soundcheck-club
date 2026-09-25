@@ -1,6 +1,6 @@
 # OBSCURA x STAY TOXIC [FREE ENTRY*] at ÆDEN
 
-OBSCURA x STAY TOXIC [FREE ENTRY*] at ÆDEN on Sat 26 Sept, Berlin. 9 acts on the bill: Amed Nheiro, Blck-Swan, Dj OmarO and H7 (3) and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+OBSCURA x STAY TOXIC [FREE ENTRY*] at ÆDEN on Sat 26 Sept, Berlin. 9 artists on the bill: Amed Nheiro, Blck-Swan, Dj OmarO and H7 and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

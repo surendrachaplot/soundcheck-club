@@ -1,6 +1,6 @@
 # Chris Watson at Ministry Of Sound
 
-Chris Watson at Ministry Of Sound on Sat 28 Nov, London. 1 act on the bill: Chris Watson. House. Preview the line-up and save it on soundcheck.
+Chris Watson at Ministry Of Sound on Sat 28 Nov, London. 1 artist on the bill: Chris Watson. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

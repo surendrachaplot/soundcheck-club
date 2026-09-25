@@ -1,6 +1,6 @@
 # B48 LIVE x THE GROOVE TELLERS #02 at Bridge 48
 
-B48 LIVE x THE GROOVE TELLERS #02 at Bridge 48 on Thu 1 Oct, Barcelona. 3 acts on the bill: Albert Salvatierra, Eybel and ROSS z. Techno. Preview the line-up and save it on soundcheck.
+B48 LIVE x THE GROOVE TELLERS #02 at Bridge 48 on Thu 1 Oct, Barcelona. 3 artists on the bill: Albert Salvatierra, Eybel and ROSS z. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

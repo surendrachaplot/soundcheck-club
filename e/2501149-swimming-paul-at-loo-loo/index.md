@@ -1,6 +1,6 @@
 # Swimming Paul at Loo Loo
 
-Swimming Paul at Loo Loo on Sat 3 Oct, Mexicocity. 1 act on the bill: Swimming Paul. Preview the line-up and save it on soundcheck.
+Swimming Paul at Loo Loo on Sat 3 Oct, Mexico City. 1 artist on the bill: Swimming Paul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Madam by Night invites: Janick S b2b Raíz b2b Luca Brandse at Madam
 
-Madam by Night invites: Janick S b2b Raíz b2b Luca Brandse on Sat 17 Oct, Amsterdam. 1 act on the bill: Luca Brandse. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Madam by Night invites: Janick S b2b Raíz b2b Luca Brandse on Sat 17 Oct, Amsterdam. 1 artist on the bill: Luca Brandse. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

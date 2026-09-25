@@ -1,6 +1,6 @@
 # Katernacht with Magda, Redfreya, Tripmastaz, Alexkid + more at Kater
 
-Katernacht with Magda, Redfreya, Tripmastaz, Alexkid + more on Sat 17 Oct, Berlin. 10 acts on the bill: Alessia Ceruti, Alexkid, DASH (SLO) and Jimmie and 6 more. House and Electro. Preview the line-up and save it on soundcheck.
+Katernacht with Magda, Redfreya, Tripmastaz, Alexkid + more on Sat 17 Oct, Berlin. 10 artists on the bill: Alessia Ceruti, Alexkid, DASH (SLO) and Jimmie and 6 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

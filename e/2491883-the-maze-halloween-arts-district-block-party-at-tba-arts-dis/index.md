@@ -1,6 +1,6 @@
 # THE MAZE Halloween: Arts District Block Party at TBA - Arts District Los Angeles
 
-THE MAZE Halloween: Arts District Block Party at TBA - Arts District Los Angeles on Sat 31 Oct, Losangeles. 5 acts on the bill: Araminta, Bones, Claude VonStroke and Porky and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+THE MAZE Halloween: Arts District Block Party at TBA - Arts District Los Angeles on Sat 31 Oct, Los Angeles. 5 artists on the bill: Araminta, Bones, Claude VonStroke and Porky and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

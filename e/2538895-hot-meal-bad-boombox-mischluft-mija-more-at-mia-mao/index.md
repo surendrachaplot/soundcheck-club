@@ -1,6 +1,6 @@
 # Hot Meal : Bad Boombox, Mischluft, Mija & More at Mia Mao
 
-Hot Meal : Bad Boombox, Mischluft, Mija & More at Mia Mao on Sat 21 Nov, Paris. 5 acts on the bill: Bad Boombox, Janis Zielinski, lizaliza and Mija and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Hot Meal : Bad Boombox, Mischluft, Mija & More at Mia Mao on Sat 21 Nov, Paris. 5 artists on the bill: Bad Boombox, Janis Zielinski, lizaliza and Mija and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

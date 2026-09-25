@@ -1,6 +1,6 @@
 # Serenity Link: HALLOWEEN 2026 at TBA - Private Warehouse DTLA
 
-Serenity Link: HALLOWEEN 2026 at TBA - Private Warehouse DTLA on Sat 31 Oct, Losangeles. Techno and Club. Preview the line-up and save it on soundcheck.
+Serenity Link: HALLOWEEN 2026 at TBA - Private Warehouse DTLA on Sat 31 Oct, Los Angeles. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rhythm2Revolt Weekend 1 at TBA
 
-Rhythm2Revolt Weekend 1 at TBA on Fri 25 Sept, Losangeles. 6 acts on the bill: DIZI, Mansaf Mama, ñaach and ts GO! and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Rhythm2Revolt Weekend 1 at TBA on Fri 25 Sept, Los Angeles. 6 artists on the bill: DIZI, Mansaf Mama, ñaach and ts GO! and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

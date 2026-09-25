@@ -1,6 +1,6 @@
 # Lost Boys at REC Dan Ghenacia at REC Napoli
 
-Lost Boys at REC Dan Ghenacia at REC Napoli on Sat 17 Oct, Naples. 1 act on the bill: Dan Ghenacia. Preview the line-up and save it on soundcheck.
+Lost Boys at REC Dan Ghenacia at REC Napoli on Sat 17 Oct, Naples. 1 artist on the bill: Dan Ghenacia. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

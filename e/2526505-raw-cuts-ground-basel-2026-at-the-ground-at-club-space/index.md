@@ -1,6 +1,6 @@
 # RAW CUTS (Ground Basel 2026) at The Ground at Club Space
 
-RAW CUTS (Ground Basel 2026) at The Ground at Club Space on Thu 3 Dec, Miami. 7 acts on the bill: Bakke, EREZ.JPG, Erin Page and HAAi and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+RAW CUTS (Ground Basel 2026) at The Ground at Club Space on Thu 3 Dec, Miami. 7 artists on the bill: Bakke, EREZ.JPG, Erin Page and HAAi and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

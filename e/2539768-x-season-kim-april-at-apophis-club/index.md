@@ -1,6 +1,6 @@
 # X Season: Kim April at Apophis Club
 
-X Season: Kim April at Apophis Club on Sat 10 Oct, Milan. 1 act on the bill: Kim April. Deep House and Electronica. Preview the line-up and save it on soundcheck.
+X Season: Kim April at Apophis Club on Sat 10 Oct, Milan. 1 artist on the bill: Kim April. Deep House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

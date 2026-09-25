@@ -1,6 +1,6 @@
 # Origins: Luke Alessi (All Night Long) at Night Tales Loft
 
-Origins: Luke Alessi (All Night Long) at Night Tales Loft on Fri 30 Oct, London. 1 act on the bill: Luke Alessi. Preview the line-up and save it on soundcheck.
+Origins: Luke Alessi (All Night Long) at Night Tales Loft on Fri 30 Oct, London. 1 artist on the bill: Luke Alessi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

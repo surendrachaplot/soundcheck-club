@@ -1,6 +1,6 @@
 # DAN SALZ & FRIENDS: THE HALLOWEEN B2B SPECIAL at Planet Wax
 
-DAN SALZ & FRIENDS: THE HALLOWEEN B2B SPECIAL at Planet Wax on Sat 31 Oct, London. 3 acts on the bill: DJ Para, juicy and Stevie B. Garage. Preview the line-up and save it on soundcheck.
+DAN SALZ & FRIENDS: THE HALLOWEEN B2B SPECIAL at Planet Wax on Sat 31 Oct, London. 3 artists on the bill: DJ Para, juicy and Stevie B. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

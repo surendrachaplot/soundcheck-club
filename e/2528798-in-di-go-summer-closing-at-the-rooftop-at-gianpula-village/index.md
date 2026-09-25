@@ -1,6 +1,6 @@
 # in.di.go // Summer Closing at The Rooftop at Gianpula Village
 
-in.di.go // Summer Closing at The Rooftop at Gianpula Village on Sun 27 Sept, Malta. 5 acts on the bill: chouhal, Gordon Flash, Muski and Nastia and 1 more. Techno. Preview the line-up and save it on soundcheck.
+in.di.go // Summer Closing at The Rooftop at Gianpula Village on Sun 27 Sept, Malta. 5 artists on the bill: chouhal, Gordon Flash, Muski and Nastia and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

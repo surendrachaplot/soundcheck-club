@@ -1,6 +1,6 @@
 # Mr. Scruff (6 Hour DJ Set) at Phonox
 
-Mr. Scruff (6 Hour DJ Set) at Phonox on Sat 24 Oct, London. 2 acts on the bill: Mr Scruff and Vanessa Freeman. House and Jazz. Preview the line-up and save it on soundcheck.
+Mr. Scruff (6 Hour DJ Set) at Phonox on Sat 24 Oct, London. 2 artists on the bill: Mr Scruff and Vanessa Freeman. House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

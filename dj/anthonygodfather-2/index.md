@@ -2,7 +2,7 @@
 
 Anthony Godfather (2) is a Tech House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Silencio, Paris on Thu, 24 Sept 2026.
 
-Anthony Godfather (2) is a tech house and techno artist based in Spain, tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, London and Madrid and 1 more. Often billed alongside Abdon, Darius Syrossian and Joey Daniel. Next up: Silencio, Paris on Thu 24 Sept.
+Anthony Godfather is a tech house and techno artist based in Spain, tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, London and Madrid and 1 more. Often billed alongside Abdon, Darius Syrossian and Joey Daniel. Next up: Silencio, Paris on Thu 24 Sept.
 
 ## Upcoming shows
 

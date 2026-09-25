@@ -1,6 +1,6 @@
 # Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] at Der Weiße Hase
 
-Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] at Der Weiße Hase on Tue 13 Oct, Berlin. 3 acts on the bill: DJ Keyframe, Klangpusch and ZÖ (1). Trance and Techno. Preview the line-up and save it on soundcheck.
+Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] at Der Weiße Hase on Tue 13 Oct, Berlin. 3 artists on the bill: DJ Keyframe, Klangpusch and ZÖ. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

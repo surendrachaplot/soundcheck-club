@@ -1,6 +1,6 @@
 # Utopia x REUNITE present: MIKEY BARRENECHE & FRIENDS at Utopia
 
-Utopia x REUNITE present: MIKEY BARRENECHE & FRIENDS on Sat 3 Oct, Losangeles. 3 acts on the bill: RCKSLVR, Tempo and Vesper. House and Tech House. Preview the line-up and save it on soundcheck.
+Utopia x REUNITE present: MIKEY BARRENECHE & FRIENDS on Sat 3 Oct, Los Angeles. 3 artists on the bill: RCKSLVR, Tempo and Vesper. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

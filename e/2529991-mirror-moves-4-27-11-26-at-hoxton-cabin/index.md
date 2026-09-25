@@ -1,6 +1,6 @@
 # Mirror Moves #4 [27.11.26] at Hoxton Cabin
 
-Mirror Moves #4 [27.11.26] at Hoxton Cabin on Fri 27 Nov, London. 1 act on the bill: NOYB. Techno and House. Preview the line-up and save it on soundcheck.
+Mirror Moves #4 [27.11.26] at Hoxton Cabin on Fri 27 Nov, London. 1 artist on the bill: NOYB. Techno and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

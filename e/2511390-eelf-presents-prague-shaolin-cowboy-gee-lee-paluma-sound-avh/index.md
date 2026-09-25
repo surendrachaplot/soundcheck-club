@@ -1,6 +1,6 @@
 # EELF Presents - Prague: Shaolin Cowboy, GEE LEE, Paluma Sound, AVHD at Fuchs2
 
-EELF Presents - Prague: Shaolin Cowboy, GEE LEE, Paluma Sound, AVHD at Fuchs2 on Tue 27 Oct, Prague. 4 acts on the bill: AVHD, GEE LEE, Paluma Sound and Shaolin Cowboy. Techno and House. Preview the line-up and save it on soundcheck.
+EELF Presents - Prague: Shaolin Cowboy, GEE LEE, Paluma Sound, AVHD at Fuchs2 on Tue 27 Oct, Prague. 4 artists on the bill: AVHD, GEE LEE, Paluma Sound and Shaolin Cowboy. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Blondish pres. Abracadabra at FCN by Hïst Entertainment at Foro Costanera Norte (FCN)
 
-Blondish pres. Abracadabra at FCN by Hïst Entertainment at Foro Costanera Norte (FCN) on Sat 10 Oct, Buenosaires. 1 act on the bill: BLOND:ISH. House. Preview the line-up and save it on soundcheck.
+Blondish pres. Abracadabra at FCN by Hïst Entertainment at Foro Costanera Norte (FCN) on Sat 10 Oct, Buenos Aires. 1 artist on the bill: BLOND:ISH. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

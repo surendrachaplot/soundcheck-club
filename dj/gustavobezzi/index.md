@@ -2,7 +2,7 @@
 
 Gustavo Bezzi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gaspar SP, Sao Paulo on Sat, 14 Nov 2026.
 
-Gustavo Bezzi is a house and disco artist based in Brazil, tracked on soundcheck, with 10 sets logged across Saopaulo and Stockholm. Often billed alongside Johnny Luxo and Lucas Rios. Next up: Gaspar SP, Saopaulo on Sat 14 Nov.
+Gustavo Bezzi is a house and disco artist based in Brazil, tracked on soundcheck, with 10 sets logged across Sao Paulo and Stockholm. Often billed alongside Johnny Luxo and Lucas Rios. Next up: Gaspar SP, Sao Paulo on Sat 14 Nov.
 
 ## Upcoming shows
 

@@ -1,14 +1,13 @@
 # Jo FLM
 
-Jo FLM is a Club and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pilar - VUB, Brussels on Thu, 24 Sept 2026.
+Jo FLM is a Club and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
 
-Jo FLM is a club and dub artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Brussels, Rotterdam and Thehague and 1 more. Often billed alongside Toff Youth, Rozaly and drum song (dj). Next up: Pilar - VUB, Brussels on Thu 24 Sept.
+Jo FLM is a club and dub artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Brussels, Rotterdam and The Hague and 1 more. Often billed alongside Toff Youth, Rozaly and drum song (dj). Next up: Garage Noord, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Pilar - VUB | Brussels |
 | Sat, 26 Sept 2026 | Garage Noord | Amsterdam |
 
 ## Recently played

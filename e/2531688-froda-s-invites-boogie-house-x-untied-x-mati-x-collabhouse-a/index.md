@@ -1,6 +1,6 @@
 # FRODA's invites Boogie House x UNTIED x MATI x COLLABHOUSE at TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam
 
-FRODA's invites Boogie House x UNTIED x MATI x COLLABHOUSE at TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam on Fri 23 Oct, Amsterdam. 8 acts on the bill: AIS De La Montagne, David Penn, Drabes and Heritage Listed and 4 more. House and Disco. Preview the line-up and save it on soundcheck.
+FRODA's invites Boogie House x UNTIED x MATI x COLLABHOUSE at TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam on Fri 23 Oct, Amsterdam. 8 artists on the bill: AIS De La Montagne, David Penn, Drabes and Heritage Listed and 4 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

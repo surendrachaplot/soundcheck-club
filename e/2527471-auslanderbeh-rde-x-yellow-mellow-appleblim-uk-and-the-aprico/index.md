@@ -1,6 +1,6 @@
 # Auslanderbehörde X Yellow Mellow:  Appleblim (UK) and The Apricots (DE) at Şahika
 
-Auslanderbehörde X Yellow Mellow:  Appleblim (UK) and The Apricots (DE) at Şahika on Sat 7 Nov, Istanbul. 4 acts on the bill: Alexandra, Appleblim, DJ Slim Fit and The Apricots. House and Bass. Preview the line-up and save it on soundcheck.
+Auslanderbehörde X Yellow Mellow:  Appleblim (UK) and The Apricots (DE) at Şahika on Sat 7 Nov, Istanbul. 4 artists on the bill: Alexandra, Appleblim, DJ Slim Fit and The Apricots. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

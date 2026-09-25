@@ -1,6 +1,6 @@
 # Hidden Variables at Golden Gate
 
-Hidden Variables at Golden Gate on Thu 8 Oct, Berlin. 3 acts on the bill: Barbara Alvarez, Click | Click and ELLA. Preview the line-up and save it on soundcheck.
+Hidden Variables at Golden Gate on Thu 8 Oct, Berlin. 3 artists on the bill: Barbara Alvarez, Click | Click and ELLA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

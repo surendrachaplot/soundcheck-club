@@ -1,6 +1,6 @@
 # Paesaggi Records Autunno Minitour #1 at Transit
 
-Paesaggi Records Autunno Minitour #1 at Transit on Fri 2 Oct, Amsterdam. 2 acts on the bill: Elina Tapio and Wutu. Experimental and Krautrock. Preview the line-up and save it on soundcheck.
+Paesaggi Records Autunno Minitour #1 at Transit on Fri 2 Oct, Amsterdam. 2 artists on the bill: Elina Tapio and Wutu. Experimental and Krautrock. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

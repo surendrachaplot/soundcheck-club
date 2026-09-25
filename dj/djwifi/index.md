@@ -2,7 +2,7 @@
 
 DJ WIFI is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
 
-DJ WIFI is a techno and trance artist based in United States of America, tracked on soundcheck, with 44 sets logged across Berlin, Chicago, London and Losangeles and 8 more. Often billed alongside Ca$h Bandicoot, Crystal O and Joey (2). Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
+DJ WIFI is a techno and trance artist based in United States of America, tracked on soundcheck, with 44 sets logged across Berlin, Chicago, London and Los Angeles and 8 more. Often billed alongside Ca$h Bandicoot, Crystal O and Joey. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
 
 ## Upcoming shows
 

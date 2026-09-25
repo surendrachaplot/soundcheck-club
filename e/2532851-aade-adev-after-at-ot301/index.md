@@ -1,6 +1,6 @@
 # AADE: ADEV after at OT301
 
-AADE: ADEV after at OT301 on Sat 24 Oct, Amsterdam. 4 acts on the bill: Alberta Balsam, Industrial Romantico, Tania Kim and Waldo. Preview the line-up and save it on soundcheck.
+AADE: ADEV after at OT301 on Sat 24 Oct, Amsterdam. 4 artists on the bill: Alberta Balsam, Industrial Romantico, Tania Kim and Waldo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

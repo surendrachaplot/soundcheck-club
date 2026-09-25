@@ -1,6 +1,6 @@
 # Blow X Cinema Queer at Bryggeriet i Bromma
 
-Blow X Cinema Queer at Bryggeriet i Bromma on Fri 2 Oct, Stockholm. 2 acts on the bill: Harami and Ms. K. Techno and House. Preview the line-up and save it on soundcheck.
+Blow X Cinema Queer at Bryggeriet i Bromma on Fri 2 Oct, Stockholm. 2 artists on the bill: Harami and Ms. K. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

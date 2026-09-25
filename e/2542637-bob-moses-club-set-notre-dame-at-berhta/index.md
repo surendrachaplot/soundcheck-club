@@ -1,6 +1,6 @@
 # Bob Moses [Club Set], Notre Dame at BERHTA
 
-Bob Moses [Club Set], Notre Dame at BERHTA on Sat 5 Dec, Washingtondc. 2 acts on the bill: Bob Moses and Notre Dame. House and Electronica. Preview the line-up and save it on soundcheck.
+Bob Moses [Club Set], Notre Dame at BERHTA on Sat 5 Dec, Washington DC. 2 artists on the bill: Bob Moses and Notre Dame. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

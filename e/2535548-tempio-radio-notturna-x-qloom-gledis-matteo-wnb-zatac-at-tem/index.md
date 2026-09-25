@@ -1,6 +1,6 @@
 # Tempio Radio Notturna x Qloom: GLEDIS, Matteo Wnb, ZATAC at Tempio del Futuro Perduto
 
-Tempio Radio Notturna x Qloom: GLEDIS, Matteo Wnb, ZATAC at Tempio del Futuro Perduto on Thu 8 Oct, Milan. 2 acts on the bill: GLEDIS and ZATAC. Preview the line-up and save it on soundcheck.
+Tempio Radio Notturna x Qloom: GLEDIS, Matteo Wnb, ZATAC at Tempio del Futuro Perduto on Thu 8 Oct, Milan. 2 artists on the bill: GLEDIS and ZATAC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

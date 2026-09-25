@@ -1,6 +1,6 @@
 # Vivacity - Filburt (DE / O*RS Label), Padsingers (DE, It's All About House), Cubik, Da Moon at Bukanyr Boat
 
-Vivacity - Filburt (DE / O*RS Label), Padsingers (DE, It's All About House), Cubik, Da Moon at Bukanyr Boat on Fri 23 Oct, Prague. 4 acts on the bill: Cubik, Da Moon, Filburt and Padsingers. Techno and House. Preview the line-up and save it on soundcheck.
+Vivacity - Filburt (DE / O*RS Label), Padsingers (DE, It's All About House), Cubik, Da Moon at Bukanyr Boat on Fri 23 Oct, Prague. 4 artists on the bill: Cubik, Da Moon, Filburt and Padsingers. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

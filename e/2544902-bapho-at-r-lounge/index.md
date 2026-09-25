@@ -1,6 +1,6 @@
 # BAPHO at R Lounge
 
-BAPHO at R Lounge on Thu 1 Oct, Tokyo. 3 acts on the bill: Can (8), HALU(Tribal Connection) and 坂田律子. Drum & Bass and Baile Funk. Preview the line-up and save it on soundcheck.
+BAPHO at R Lounge on Thu 1 Oct, Tokyo. 3 artists on the bill: Can, HALU(Tribal Connection) and 坂田律子. Drum & Bass and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

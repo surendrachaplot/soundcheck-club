@@ -1,6 +1,6 @@
 # #MITTWOCHENENDE in Odonien at Odonien
 
-#MITTWOCHENENDE in Odonien on Wed 30 Sept, Cologne. 4 acts on the bill: Enaly, Jaelo, Leenberger and Shandy. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+#MITTWOCHENENDE in Odonien on Wed 30 Sept, Cologne. 4 artists on the bill: Enaly, Jaelo, Leenberger and Shandy. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

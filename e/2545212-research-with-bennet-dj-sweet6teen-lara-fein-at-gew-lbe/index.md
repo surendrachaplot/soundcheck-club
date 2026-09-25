@@ -1,6 +1,6 @@
 # Research with Bennet, dj sweet6teen, Lara Fein at Gewölbe
 
-Research with Bennet, dj sweet6teen, Lara Fein at Gewölbe on Sun 18 Oct, Cologne. 3 acts on the bill: Bennet, dj sweet6teen and Lara Fein. House. Preview the line-up and save it on soundcheck.
+Research with Bennet, dj sweet6teen, Lara Fein at Gewölbe on Sun 18 Oct, Cologne. 3 artists on the bill: Bennet, dj sweet6teen and Lara Fein. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

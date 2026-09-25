@@ -1,6 +1,6 @@
 # fabric: Rødhåd, FJAAK, Demi Riquisimo, Kamma & Masalo, Desireè, B.Love + more at fabric
 
-fabric: Rødhåd, FJAAK, Demi Riquisimo, Kamma & Masalo, Desireè, B.Love + more on Sat 31 Oct, London. 10 acts on the bill: Alfie Aukett, B.Love, Demi Riquisimo and Desiree' and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
+fabric: Rødhåd, FJAAK, Demi Riquisimo, Kamma & Masalo, Desireè, B.Love + more on Sat 31 Oct, London. 10 artists on the bill: Alfie Aukett, B.Love, Demi Riquisimo and Desiree' and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

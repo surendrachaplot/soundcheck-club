@@ -2,7 +2,7 @@
 
 Jackum is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Amber's, Manchester on Fri, 25 Sept 2026.
 
-Jackum is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Brighton, Bristol, Leeds and London and 5 more. Often billed alongside Efan, MPH (1) and Bushbaby. Next up: Amber's, Manchester on Fri 25 Sept.
+Jackum is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Brighton, Bristol, Leeds and London and 5 more. Often billed alongside Efan, MPH and Bushbaby. Next up: Amber's, Manchester on Fri 25 Sept.
 
 ## Upcoming shows
 

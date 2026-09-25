@@ -1,6 +1,6 @@
 # Outer Heaven presents: Satoshi Tomiie at Outer Heaven
 
-Outer Heaven presents: Satoshi Tomiie on Sat 19 Dec, Newyorkcity. 2 acts on the bill: CAMILLA and Satoshi Tomiie. House. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Satoshi Tomiie on Sat 19 Dec, New York City. 2 artists on the bill: CAMILLA and Satoshi Tomiie. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

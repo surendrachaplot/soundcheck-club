@@ -1,6 +1,6 @@
 # CamelPhat presents Summer of Love at Hï Ibiza
 
-CamelPhat presents Summer of Love at Hï Ibiza on Fri 25 Sept, Ibiza. 4 acts on the bill: CamelPhat, Erol Alkan, Ewan McVicar and Giulia Tess. Techno and House. Preview the line-up and save it on soundcheck.
+CamelPhat presents Summer of Love at Hï Ibiza on Fri 25 Sept, Ibiza. 4 artists on the bill: CamelPhat, Erol Alkan, Ewan McVicar and Giulia Tess. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

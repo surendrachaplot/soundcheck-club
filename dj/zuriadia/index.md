@@ -2,7 +2,7 @@
 
 Zuri Adia is a House and Guaracha artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
 
-Zuri Adia is a house and guaracha artist based in United States of America, tracked on soundcheck, with 8 sets logged across Losangeles. Often billed alongside Xochii, Alxander Ivey and AndreasOne. Next up: TBA, Losangeles on Fri 25 Sept.
+Zuri Adia is a house and guaracha artist based in United States of America, tracked on soundcheck, with 8 sets logged across Los Angeles. Often billed alongside Xochii, Alxander Ivey and AndreasOne. Next up: TBA, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

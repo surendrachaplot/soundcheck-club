@@ -1,6 +1,6 @@
 # Art Club pres. Rene Wise at Art Club
 
-Art Club pres. Rene Wise on Sat 3 Oct, Houston. 1 act on the bill: Rene Wise. Techno. Preview the line-up and save it on soundcheck.
+Art Club pres. Rene Wise on Sat 3 Oct, Houston. 1 artist on the bill: Rene Wise. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Outer Heaven presents: Timo Lee - UMA DJ at Outer Heaven
 
-Outer Heaven presents: Timo Lee - UMA DJ on Thu 15 Oct, Newyorkcity. 2 acts on the bill: Timo Lee and UMA DJ. House. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Timo Lee - UMA DJ on Thu 15 Oct, New York City. 2 artists on the bill: Timo Lee and UMA DJ. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

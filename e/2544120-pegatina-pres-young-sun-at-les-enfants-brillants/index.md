@@ -1,6 +1,6 @@
 # Pegatina pres. Young Sun at Les Enfants Brillants
 
-Pegatina pres. Young Sun at Les Enfants Brillants on Fri 6 Nov, Barcelona. 2 acts on the bill: Javier Carballo and Young Sun. Preview the line-up and save it on soundcheck.
+Pegatina pres. Young Sun at Les Enfants Brillants on Fri 6 Nov, Barcelona. 2 artists on the bill: Javier Carballo and Young Sun. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hi-Fi Weekends with Valerio Vaudano pres Steamy Pizza Box Night *Free Entry* at Bluesquare
 
-Hi-Fi Weekends with Valerio Vaudano pres Steamy Pizza Box Night *Free Entry* at Bluesquare on Sat 3 Oct, Milan. 1 act on the bill: Valerio Vaudano. Techno and House. Preview the line-up and save it on soundcheck.
+Hi-Fi Weekends with Valerio Vaudano pres Steamy Pizza Box Night *Free Entry* at Bluesquare on Sat 3 Oct, Milan. 1 artist on the bill: Valerio Vaudano. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

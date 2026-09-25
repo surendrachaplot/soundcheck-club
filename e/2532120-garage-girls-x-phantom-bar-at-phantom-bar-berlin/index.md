@@ -1,6 +1,6 @@
 # Garage Girls x Phantom Bar at Phantom Bar Berlin
 
-Garage Girls x Phantom Bar at Phantom Bar Berlin on Sat 3 Oct, Berlin. 4 acts on the bill: Immy, KENZA, Marie Malarie and Triqi. House and Garage. Preview the line-up and save it on soundcheck.
+Garage Girls x Phantom Bar at Phantom Bar Berlin on Sat 3 Oct, Berlin. 4 artists on the bill: Immy, KENZA, Marie Malarie and Triqi. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

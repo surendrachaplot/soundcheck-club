@@ -1,6 +1,6 @@
 # Cassius at Button Factory
 
-Cassius at Button Factory on Fri 16 Oct, Dublin. 1 act on the bill: Cassius. Tech House. Preview the line-up and save it on soundcheck.
+Cassius at Button Factory on Fri 16 Oct, Dublin. 1 artist on the bill: Cassius. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

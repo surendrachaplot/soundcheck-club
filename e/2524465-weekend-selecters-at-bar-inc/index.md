@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Sat 17 Oct, Osaka. 1 act on the bill: JADALAREIGN. House and Deep House. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Sat 17 Oct, Osaka. 1 artist on the bill: JADALAREIGN. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

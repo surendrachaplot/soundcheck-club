@@ -1,6 +1,6 @@
 # SHADU X Divolly & Markward: Club 13, Tbilisi at TBA - Club 13
 
-SHADU X Divolly & Markward: Club 13, Tbilisi at TBA - Club 13 on Fri 30 Oct, Tbilisi. 1 act on the bill: SHADU. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+SHADU X Divolly & Markward: Club 13, Tbilisi at TBA - Club 13 on Fri 30 Oct, Tbilisi. 1 artist on the bill: SHADU. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

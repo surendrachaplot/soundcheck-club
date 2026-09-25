@@ -1,6 +1,6 @@
 # TECHNOBULL: BENZA (Clergy, Symbole, Vault Records /ES), Teeo Kristo + TBA at Astoria
 
-TECHNOBULL: BENZA (Clergy, Symbole, Vault Records /ES), Teeo Kristo + TBA at Astoria on Fri 13 Nov, Turin. 2 acts on the bill: BENZA and Teeo. Techno. Preview the line-up and save it on soundcheck.
+TECHNOBULL: BENZA (Clergy, Symbole, Vault Records /ES), Teeo Kristo + TBA at Astoria on Fri 13 Nov, Turin. 2 artists on the bill: BENZA and Teeo. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

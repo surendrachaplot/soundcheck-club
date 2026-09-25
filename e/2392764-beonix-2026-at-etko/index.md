@@ -1,12 +1,12 @@
 # BEONIX 2026 at Etko
 
-BEONIX 2026 at Etko on Fri 25 Sept, All. 48 acts on the bill: Adam Beyer, Adiel, Angie (FR) and Antony K and 44 more. Preview the line-up and save it on soundcheck.
+BEONIX 2026 at Etko on Fri 25 Sept, Cyprus. 48 artists on the bill: Adam Beyer, Adiel, Angie (FR) and Antony K and 44 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 25 Sept 2026 |
 | Venue | Etko |
-| City | All |
+| City | Cyprus |
 
 ## Line-up
 

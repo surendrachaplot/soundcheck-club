@@ -1,6 +1,6 @@
 # Polyamor: davyboi, Justin Jay, Cleopard2000, ASHTREY at E1
 
-Polyamor: davyboi, Justin Jay, Cleopard2000, ASHTREY at E1 on Fri 6 Nov, London. 4 acts on the bill: ASHTREY, Cleopard2000, davyboi and Justin Jay. Techno. Preview the line-up and save it on soundcheck.
+Polyamor: davyboi, Justin Jay, Cleopard2000, ASHTREY at E1 on Fri 6 Nov, London. 4 artists on the bill: ASHTREY, Cleopard2000, davyboi and Justin Jay. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

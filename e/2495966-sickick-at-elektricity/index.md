@@ -1,6 +1,6 @@
 # SICKICK at Elektricity
 
-SICKICK at Elektricity on Fri 9 Oct, Detroit. 1 act on the bill: Naj. Bass and Tech House. Preview the line-up and save it on soundcheck.
+SICKICK at Elektricity on Fri 9 Oct, Detroit. 1 artist on the bill: Naj. Bass and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

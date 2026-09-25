@@ -1,6 +1,6 @@
 # KRANK - UNDERGROUND / TECHNO / SEX POSITIVE at Sauvage Swinger Club
 
-KRANK - UNDERGROUND / TECHNO / SEX POSITIVE at Sauvage Swinger Club on Fri 2 Oct, Barcelona. 2 acts on the bill: stndrd and Vanina Buniak. Techno. Preview the line-up and save it on soundcheck.
+KRANK - UNDERGROUND / TECHNO / SEX POSITIVE at Sauvage Swinger Club on Fri 2 Oct, Barcelona. 2 artists on the bill: stndrd and Vanina Buniak. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

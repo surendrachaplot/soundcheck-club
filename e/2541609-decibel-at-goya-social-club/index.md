@@ -1,6 +1,6 @@
 # DECIBEL at Goya Social Club
 
-DECIBEL at Goya Social Club on Thu 24 Sept, Madrid. 4 acts on the bill: Lucian ODP, Mraj Nite, Not A Lex and The Ego (DJ). House and Tech House. Preview the line-up and save it on soundcheck.
+DECIBEL at Goya Social Club on Thu 24 Sept, Madrid. 4 artists on the bill: Lucian ODP, Mraj Nite, Not A Lex and The Ego (DJ). House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

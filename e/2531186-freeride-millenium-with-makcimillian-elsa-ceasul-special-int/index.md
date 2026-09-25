@@ -1,6 +1,6 @@
 # Freeride Millenium with makcimillian, Elsa & Ceasul, Special Interest, Jorkes at Romantica
 
-Freeride Millenium with makcimillian, Elsa & Ceasul, Special Interest, Jorkes at Romantica on Sat 26 Sept, Stuttgart. 3 acts on the bill: ELSA (DE), Jorkes and MKCMLLN. Techno and House. Preview the line-up and save it on soundcheck.
+Freeride Millenium with makcimillian, Elsa & Ceasul, Special Interest, Jorkes at Romantica on Sat 26 Sept, Stuttgart. 3 artists on the bill: ELSA (DE), Jorkes and MKCMLLN. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

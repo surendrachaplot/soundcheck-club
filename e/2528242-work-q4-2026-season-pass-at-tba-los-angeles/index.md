@@ -1,6 +1,6 @@
 # WORK Q4 2026 Season Pass at TBA - Los Angeles
 
-WORK Q4 2026 Season Pass at TBA - Los Angeles on Wed 7 Oct, Losangeles. Techno. Preview the line-up and save it on soundcheck.
+WORK Q4 2026 Season Pass at TBA - Los Angeles on Wed 7 Oct, Los Angeles. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

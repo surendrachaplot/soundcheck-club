@@ -1,6 +1,6 @@
 # Cosmic Gate at Academy LA
 
-Cosmic Gate at Academy LA on Sat 26 Sept, Losangeles. 1 act on the bill: Cosmic Gate. Trance. Preview the line-up and save it on soundcheck.
+Cosmic Gate at Academy LA on Sat 26 Sept, Los Angeles. 1 artist on the bill: Cosmic Gate. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

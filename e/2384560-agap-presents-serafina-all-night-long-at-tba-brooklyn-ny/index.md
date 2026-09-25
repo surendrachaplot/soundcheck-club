@@ -1,6 +1,6 @@
 # AGAPĒ PRESENTS: Serafina - ALL NIGHT LONG at TBA - BROOKLYN NY
 
-AGAPĒ PRESENTS: Serafina - ALL NIGHT LONG at TBA - BROOKLYN NY on Sat 5 Dec, Newyorkcity. 1 act on the bill: Serafina. Trance and Techno. Preview the line-up and save it on soundcheck.
+AGAPĒ PRESENTS: Serafina - ALL NIGHT LONG at TBA - BROOKLYN NY on Sat 5 Dec, New York City. 1 artist on the bill: Serafina. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

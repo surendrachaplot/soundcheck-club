@@ -1,6 +1,6 @@
 # Dust'n'Roar × TAG DER CLUBKULTUR — CORE SPECS at Mena Berlin
 
-Dust'n'Roar × TAG DER CLUBKULTUR — CORE SPECS at Mena Berlin on Fri 9 Oct, Berlin. 4 acts on the bill: Anna Hoeber, tech_punk, turmanuma and Vani Vachi. Techno and Electro. Preview the line-up and save it on soundcheck.
+Dust'n'Roar × TAG DER CLUBKULTUR — CORE SPECS at Mena Berlin on Fri 9 Oct, Berlin. 4 artists on the bill: Anna Hoeber, tech_punk, turmanuma and Vani Vachi. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

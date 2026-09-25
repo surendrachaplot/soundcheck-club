@@ -1,6 +1,6 @@
 # Bonobo at The Wiltern
 
-Bonobo at The Wiltern on Thu 12 Nov, Losangeles. Electronica. Preview the line-up and save it on soundcheck.
+Bonobo at The Wiltern on Thu 12 Nov, Los Angeles. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

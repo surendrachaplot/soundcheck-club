@@ -1,6 +1,6 @@
 # INKA Open Air: Catsinka, Bigstate, Ben Rodd, Isaac, Poussin, JaeS at Paname sur Seine
 
-INKA Open Air: Catsinka, Bigstate, Ben Rodd, Isaac, Poussin, JaeS at Paname sur Seine on Sun 4 Oct, Paris. 3 acts on the bill: Bigstate, Catsinka and JaeS. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+INKA Open Air: Catsinka, Bigstate, Ben Rodd, Isaac, Poussin, JaeS at Paname sur Seine on Sun 4 Oct, Paris. 3 artists on the bill: Bigstate, Catsinka and JaeS. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

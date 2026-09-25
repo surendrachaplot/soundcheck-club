@@ -1,6 +1,6 @@
 # Hangar invites Adriatique — Gare Maritime at Tour & Taxis
 
-Hangar invites Adriatique — Gare Maritime at Tour & Taxis on Sat 3 Oct, Brussels. 1 act on the bill: Adriatique. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Hangar invites Adriatique — Gare Maritime at Tour & Taxis on Sat 3 Oct, Brussels. 1 artist on the bill: Adriatique. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

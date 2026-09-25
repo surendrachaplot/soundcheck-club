@@ -1,6 +1,6 @@
 # Kyle Watson at Audio SF
 
-Kyle Watson at Audio SF on Sat 10 Oct, Sanfrancisco. Preview the line-up and save it on soundcheck.
+Kyle Watson at Audio SF on Sat 10 Oct, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

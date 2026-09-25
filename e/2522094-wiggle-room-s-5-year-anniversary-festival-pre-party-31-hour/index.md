@@ -1,6 +1,6 @@
 # Wiggle Room's 5 Year Anniversary Festival (Pre Party + 31-Hour Main Event) at Wiggle Room
 
-Wiggle Room's 5 Year Anniversary Festival (Pre Party + 31-Hour Main Event) on Sat 26 Sept, Toronto. 17 acts on the bill: Addy, Barroness, BOZA and Carlos Manaça and 13 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Wiggle Room's 5 Year Anniversary Festival (Pre Party + 31-Hour Main Event) on Sat 26 Sept, Toronto. 17 artists on the bill: Addy, Barroness, BOZA and Carlos Manaça and 13 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

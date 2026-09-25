@@ -1,6 +1,6 @@
 # Rogue Instinct presents CHICHI (SANCT) + Friends at The Iron Fairies Kuala Lumpur
 
-Rogue Instinct presents CHICHI (SANCT) + Friends at The Iron Fairies Kuala Lumpur on Fri 9 Oct, Kualalumpur. 8 acts on the bill: 96000hz, CHICHI (KR), Kaï (FR) and Meliha and 4 more. Techno. Preview the line-up and save it on soundcheck.
+Rogue Instinct presents CHICHI (SANCT) + Friends at The Iron Fairies Kuala Lumpur on Fri 9 Oct, Kuala Lumpur. 8 artists on the bill: 96000hz, CHICHI (KR), Kaï (FR) and Meliha and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

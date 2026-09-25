@@ -2,7 +2,7 @@
 
 Micah Baxter is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Home Nightclub Bexleyheath, London on Fri, 25 Sept 2026.
 
-Micah Baxter is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Leeds, London, Malta and Manchester and 2 more. Often billed alongside Jenny C (1), Joss Dean and Cam Stockman. Next up: Home Nightclub Bexleyheath, London on Fri 25 Sept.
+Micah Baxter is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Leeds, London, Malta and Manchester and 2 more. Often billed alongside Jenny C, Joss Dean and Cam Stockman. Next up: Home Nightclub Bexleyheath, London on Fri 25 Sept.
 
 ## Upcoming shows
 

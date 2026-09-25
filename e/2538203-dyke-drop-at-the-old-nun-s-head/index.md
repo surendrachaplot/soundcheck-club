@@ -1,6 +1,6 @@
 # Dyke Drop at The Old Nun's Head
 
-Dyke Drop at The Old Nun's Head on Fri 2 Oct, London. 3 acts on the bill: ellzyb, Herberta and Luca Perry. House and Bass. Preview the line-up and save it on soundcheck.
+Dyke Drop at The Old Nun's Head on Fri 2 Oct, London. 3 artists on the bill: ellzyb, Herberta and Luca Perry. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hail The Light - Tshrei at Fabrica Abandonada
 
-Hail The Light - Tshrei at Fabrica Abandonada on Sat 26 Sept, Saopaulo. 4 acts on the bill: ANNĒ, Flip Devonian, Setaoc Mass and Subismo. Techno. Preview the line-up and save it on soundcheck.
+Hail The Light - Tshrei at Fabrica Abandonada on Sat 26 Sept, Sao Paulo. 4 artists on the bill: ANNĒ, Flip Devonian, Setaoc Mass and Subismo. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

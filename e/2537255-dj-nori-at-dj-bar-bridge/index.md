@@ -1,6 +1,6 @@
 # DJ Nori at DJ Bar Bridge
 
-DJ Nori at DJ Bar Bridge on Fri 27 Nov, Tokyo. 1 act on the bill: DJ Nori. House. Preview the line-up and save it on soundcheck.
+DJ Nori at DJ Bar Bridge on Fri 27 Nov, Tokyo. 1 artist on the bill: DJ Nori. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

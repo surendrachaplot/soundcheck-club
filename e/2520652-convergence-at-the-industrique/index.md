@@ -1,6 +1,6 @@
 # CONVERGENCE at The Industrique
 
-CONVERGENCE at The Industrique on Fri 2 Oct, Melbourne. 1 act on the bill: Skwid. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+CONVERGENCE at The Industrique on Fri 2 Oct, Melbourne. 1 artist on the bill: Skwid. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

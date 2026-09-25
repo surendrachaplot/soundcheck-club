@@ -1,6 +1,6 @@
 # Bonzai at Kompass at Kompass Klub
 
-Bonzai at Kompass at Kompass Klub on Sat 10 Oct, Ghent. 2 acts on the bill: Dj Furax and DJ Ghost. Preview the line-up and save it on soundcheck.
+Bonzai at Kompass at Kompass Klub on Sat 10 Oct, Ghent. 2 artists on the bill: Dj Furax and DJ Ghost. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

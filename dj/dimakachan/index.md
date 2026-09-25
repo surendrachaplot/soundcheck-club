@@ -2,7 +2,7 @@
 
 Dima Kachan is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Crack Bellmer, Berlin on Thu, 12 Nov 2026.
 
-Dima Kachan is a techno and trance artist based in Belarus, tracked on soundcheck, with 33 sets logged across Berlin, Copenhagen, Krakow and Warsaw. Often billed alongside Dolu, Syrphin and SDS (2). Next up: Crack Bellmer, Berlin on Thu 12 Nov.
+Dima Kachan is a techno and trance artist based in Belarus, tracked on soundcheck, with 33 sets logged across Berlin, Copenhagen, Krakow and Warsaw. Often billed alongside Dolu, Syrphin and SDS. Next up: Crack Bellmer, Berlin on Thu 12 Nov.
 
 ## Upcoming shows
 

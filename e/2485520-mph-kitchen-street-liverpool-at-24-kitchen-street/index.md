@@ -1,6 +1,6 @@
 # MPH - Kitchen Street, Liverpool at 24 Kitchen Street
 
-MPH - Kitchen Street, Liverpool at 24 Kitchen Street on Fri 20 Nov, Liverpool. 1 act on the bill: MPH (1). House and Garage. Preview the line-up and save it on soundcheck.
+MPH - Kitchen Street, Liverpool at 24 Kitchen Street on Fri 20 Nov, Liverpool. 1 artist on the bill: MPH. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

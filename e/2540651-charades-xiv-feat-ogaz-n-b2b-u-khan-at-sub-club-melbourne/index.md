@@ -1,6 +1,6 @@
 # Charades XIV feat. Ogazón b2b U-Khan at Sub Club Melbourne
 
-Charades XIV feat. Ogazón b2b U-Khan at Sub Club Melbourne on Sat 3 Oct, Melbourne. 3 acts on the bill: Ogazón, Séarlait and U-Khan. Techno and House. Preview the line-up and save it on soundcheck.
+Charades XIV feat. Ogazón b2b U-Khan at Sub Club Melbourne on Sat 3 Oct, Melbourne. 3 artists on the bill: Ogazón, Séarlait and U-Khan. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

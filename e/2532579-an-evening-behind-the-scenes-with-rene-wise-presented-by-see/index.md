@@ -1,6 +1,6 @@
 # An Evening Behind the Scenes with Rene Wise presented by Seedj & ArtistMap by 6AM at Agora Records
 
-An Evening Behind the Scenes with Rene Wise presented by Seedj & ArtistMap by 6AM at Agora Records on Tue 29 Sept, Losangeles. Techno. Preview the line-up and save it on soundcheck.
+An Evening Behind the Scenes with Rene Wise presented by Seedj & ArtistMap by 6AM at Agora Records on Tue 29 Sept, Los Angeles. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

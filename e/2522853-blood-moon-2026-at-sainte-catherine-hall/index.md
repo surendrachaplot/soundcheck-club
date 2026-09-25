@@ -1,6 +1,6 @@
 # BLOOD MOON 2026 at Sainte-Catherine Hall
 
-BLOOD MOON 2026 at Sainte-Catherine Hall on Fri 30 Oct, Montreal. 3 acts on the bill: Hypho, Wraz and YOOKiE. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+BLOOD MOON 2026 at Sainte-Catherine Hall on Fri 30 Oct, Montreal. 3 artists on the bill: Hypho, Wraz and YOOKiE. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

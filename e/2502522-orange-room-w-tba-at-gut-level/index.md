@@ -1,6 +1,6 @@
 # Orange Room w/ TBA at Gut Level
 
-Orange Room w/ TBA at Gut Level on Sat 12 Dec, Sheffield. 3 acts on the bill: Backseat Driver, Bubbles (UK) and Paniolo. Trance and House. Preview the line-up and save it on soundcheck.
+Orange Room w/ TBA at Gut Level on Sat 12 Dec, Sheffield. 3 artists on the bill: Backseat Driver, Bubbles (UK) and Paniolo. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jamie Fielding, Hidde van Wee, Mad.Again + Abbs La at The Warehouse
 
-Jamie Fielding, Hidde van Wee, Mad.Again + Abbs La at The Warehouse on Fri 30 Oct, Leeds. 3 acts on the bill: Hidde van Wee, Jamie Fielding and Mad.Again (2). House and Tech House. Preview the line-up and save it on soundcheck.
+Jamie Fielding, Hidde van Wee, Mad.Again + Abbs La at The Warehouse on Fri 30 Oct, Leeds. 3 artists on the bill: Hidde van Wee, Jamie Fielding and Mad.Again. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

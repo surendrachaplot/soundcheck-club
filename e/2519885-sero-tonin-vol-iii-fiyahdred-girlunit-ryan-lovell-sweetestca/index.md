@@ -1,6 +1,6 @@
 # SERO.TONIN VOL III: Fiyahdred, GirlUnit, Ryan Lovell, sweetestcape at Unit 58
 
-SERO.TONIN VOL III: Fiyahdred, GirlUnit, Ryan Lovell, sweetestcape at Unit 58 on Fri 25 Sept, London. 4 acts on the bill: Fiyahdred, Girl Unit, Ryan Lovell and sweetestcape. Deep House and Experimental. Preview the line-up and save it on soundcheck.
+SERO.TONIN VOL III: Fiyahdred, GirlUnit, Ryan Lovell, sweetestcape at Unit 58 on Fri 25 Sept, London. 4 artists on the bill: Fiyahdred, Girl Unit, Ryan Lovell and sweetestcape. Deep House and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

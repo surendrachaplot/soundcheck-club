@@ -1,6 +1,6 @@
 # Keep My Letters with Guy J at Ritter Butzke
 
-Keep My Letters with Guy J at Ritter Butzke on Fri 2 Oct, Berlin. 4 acts on the bill: Francesco Rizzi, Guy J, Hyunji-A and Tantum. Techno. Preview the line-up and save it on soundcheck.
+Keep My Letters with Guy J at Ritter Butzke on Fri 2 Oct, Berlin. 4 artists on the bill: Francesco Rizzi, Guy J, Hyunji-A and Tantum. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

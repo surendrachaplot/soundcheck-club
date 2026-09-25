@@ -1,6 +1,6 @@
 # CONTR4ST pres. fka.m4a [all night long] at nachbar
 
-CONTR4ST pres. fka.m4a [all night long] at nachbar on Fri 25 Sept, Amsterdam. 1 act on the bill: fka.m4a. Progressive House and House. Preview the line-up and save it on soundcheck.
+CONTR4ST pres. fka.m4a [all night long] at nachbar on Fri 25 Sept, Amsterdam. 1 artist on the bill: fka.m4a. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

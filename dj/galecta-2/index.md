@@ -2,7 +2,7 @@
 
 Galecta (2) is a Baile Funk and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-Galecta (2) is a baile funk and bass artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Rotterdam and Saopaulo and 1 more. Often billed alongside Shinshan Salazar, Franky Sticks and Isa Castelari. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Galecta is a baile funk and bass artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Rotterdam and Sao Paulo and 1 more. Often billed alongside Shinshan Salazar, Franky Sticks and Isa Castelari. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 

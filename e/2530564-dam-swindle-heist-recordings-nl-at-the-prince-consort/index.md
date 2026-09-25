@@ -1,6 +1,6 @@
 # Dam Swindle (Heist Recordings, NL) at The Prince Consort
 
-Dam Swindle (Heist Recordings, NL) at The Prince Consort on Sun 1 Nov, Brisbane. 1 act on the bill: Dam Swindle. Preview the line-up and save it on soundcheck.
+Dam Swindle (Heist Recordings, NL) at The Prince Consort on Sun 1 Nov, Brisbane. 1 artist on the bill: Dam Swindle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

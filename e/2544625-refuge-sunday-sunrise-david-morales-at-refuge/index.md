@@ -1,6 +1,6 @@
 # Refuge Sunday Sunrise: David Morales at Refuge
 
-Refuge Sunday Sunrise: David Morales on Sun 25 Oct, Newyorkcity. 1 act on the bill: David Morales. Preview the line-up and save it on soundcheck.
+Refuge Sunday Sunrise: David Morales on Sun 25 Oct, New York City. 1 artist on the bill: David Morales. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

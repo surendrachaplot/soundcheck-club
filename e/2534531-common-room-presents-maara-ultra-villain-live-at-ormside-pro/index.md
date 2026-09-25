@@ -1,6 +1,6 @@
 # common room presents: Maara - Ultra Villain [live] at Ormside Projects
 
-common room presents: Maara - Ultra Villain [live] at Ormside Projects on Fri 20 Nov, London. 1 act on the bill: Maara. Downtempo and Experimental. Preview the line-up and save it on soundcheck.
+common room presents: Maara - Ultra Villain [live] at Ormside Projects on Fri 20 Nov, London. 1 artist on the bill: Maara. Downtempo and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TECHNODROME: PAULITTAHH, Linda Lenor, Joui at EL SÓTANO
 
-TECHNODROME: PAULITTAHH, Linda Lenor, Joui at EL SÓTANO on Sat 10 Oct, Madrid. 2 acts on the bill: Linda Lenor and PAULITTAHH. Techno. Preview the line-up and save it on soundcheck.
+TECHNODROME: PAULITTAHH, Linda Lenor, Joui at EL SÓTANO on Sat 10 Oct, Madrid. 2 artists on the bill: Linda Lenor and PAULITTAHH. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

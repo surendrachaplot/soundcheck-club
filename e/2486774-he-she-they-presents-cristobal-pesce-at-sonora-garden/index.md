@@ -1,6 +1,6 @@
 # HE.SHE.THEY. PRESENTS Cristobal Pesce at Sonora Garden
 
-HE.SHE.THEY. PRESENTS Cristobal Pesce at Sonora Garden on Fri 20 Nov, Saopaulo. 4 acts on the bill: Ananda (BR), Cristobal Pesce, Delcu and Pedro Gariani. Techno. Preview the line-up and save it on soundcheck.
+HE.SHE.THEY. PRESENTS Cristobal Pesce at Sonora Garden on Fri 20 Nov, Sao Paulo. 4 artists on the bill: Ananda (BR), Cristobal Pesce, Delcu and Pedro Gariani. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

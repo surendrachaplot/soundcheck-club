@@ -2,7 +2,7 @@
 
 Anna Tur is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gallery, London on Thu, 24 Sept 2026.
 
-Anna Tur is a techno and house artist based in Spain, tracked on soundcheck, with 75 sets logged across All, Amsterdam, Antwerp and Barcelona and 20 more. Often billed alongside STELLA BOSSI, ASK:ME and Carl Cox. Next up: Gallery, London on Thu 24 Sept.
+Anna Tur is a techno and house artist based in Spain, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Austria and Barcelona and 20 more. Often billed alongside STELLA BOSSI, ASK:ME and Carl Cox. Next up: Gallery, London on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,7 @@ Anna Tur is a techno and house artist based in Spain, tracked on soundcheck, wit
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Gallery | London |
 | Sat, 26 Sept 2026 | Das Zimmer | Mannheim |
-| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | All |
+| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played
 

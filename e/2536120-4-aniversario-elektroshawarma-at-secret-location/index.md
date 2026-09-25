@@ -1,6 +1,6 @@
 # 4º ANIVERSARIO ElektroShawarma at Secret Location
 
-4º ANIVERSARIO ElektroShawarma at Secret Location on Sat 24 Oct, London. 2 acts on the bill: Andelet3 and James Shinra. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
+4º ANIVERSARIO ElektroShawarma at Secret Location on Sat 24 Oct, London. 2 artists on the bill: Andelet3 and James Shinra. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

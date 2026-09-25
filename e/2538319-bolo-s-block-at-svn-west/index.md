@@ -1,6 +1,6 @@
 # BOLO's BLOCK at SVN West
 
-BOLO's BLOCK at SVN West on Sat 3 Oct, Sanfrancisco. 2 acts on the bill: DWATA and FOOLiE. Preview the line-up and save it on soundcheck.
+BOLO's BLOCK at SVN West on Sat 3 Oct, San Francisco/Oakland. 2 artists on the bill: DWATA and FOOLiE. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

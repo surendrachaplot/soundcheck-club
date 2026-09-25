@@ -1,6 +1,6 @@
 # Spektral Groove: Underground Live Forever at The Black Box
 
-Spektral Groove: Underground Live Forever at The Black Box on Sat 26 Sept, Denver. 2 acts on the bill: Eichenbaum and Paul Thomas. Progressive House. Preview the line-up and save it on soundcheck.
+Spektral Groove: Underground Live Forever at The Black Box on Sat 26 Sept, Denver. 2 artists on the bill: Eichenbaum and Paul Thomas. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

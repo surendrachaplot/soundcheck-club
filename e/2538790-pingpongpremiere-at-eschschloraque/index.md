@@ -1,6 +1,6 @@
 # PingPongPremiere at Eschschloraque
 
-PingPongPremiere at Eschschloraque on Wed 7 Oct, Berlin. 1 act on the bill: MissVergnügen. Preview the line-up and save it on soundcheck.
+PingPongPremiere at Eschschloraque on Wed 7 Oct, Berlin. 1 artist on the bill: MissVergnügen. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

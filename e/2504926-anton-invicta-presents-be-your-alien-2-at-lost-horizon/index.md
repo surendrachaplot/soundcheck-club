@@ -1,6 +1,6 @@
 # Anton Invicta presents: Be Your Alien #2 at Lost Horizon
 
-Anton Invicta presents: Be Your Alien #2 at Lost Horizon on Sat 26 Sept, Bristol. 2 acts on the bill: Bladerunner and Diagnostix. Garage and Jungle. Preview the line-up and save it on soundcheck.
+Anton Invicta presents: Be Your Alien #2 at Lost Horizon on Sat 26 Sept, Bristol. 2 artists on the bill: Bladerunner and Diagnostix. Garage and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

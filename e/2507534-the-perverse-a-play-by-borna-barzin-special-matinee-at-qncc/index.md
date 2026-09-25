@@ -1,6 +1,6 @@
 # The Perverse - a play by Borna Barzin; Special Matinee at Qncc
 
-The Perverse - a play by Borna Barzin; Special Matinee at Qncc on Sat 26 Sept, Newyorkcity. 2 acts on the bill: Lauren Flax and Sevyn 0000. Techno. Preview the line-up and save it on soundcheck.
+The Perverse - a play by Borna Barzin; Special Matinee at Qncc on Sat 26 Sept, New York City. 2 artists on the bill: Lauren Flax and Sevyn 0000. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

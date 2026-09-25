@@ -1,6 +1,6 @@
 # FRENZY 7YRS WKNDR at BRET
 
-FRENZY 7YRS WKNDR at BRET on Sun 8 Nov, Amsterdam. 4 acts on the bill: Bailey Ibbs, Elisa Batti, Julia Maria and KUSS. Techno. Preview the line-up and save it on soundcheck.
+FRENZY 7YRS WKNDR at BRET on Sun 8 Nov, Amsterdam. 4 artists on the bill: Bailey Ibbs, Elisa Batti, Julia Maria and KUSS. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

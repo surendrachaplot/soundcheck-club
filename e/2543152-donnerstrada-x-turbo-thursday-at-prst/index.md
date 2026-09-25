@@ -1,6 +1,6 @@
 # DONNERSTRADA X TURBO THURSDAY at PRST
 
-DONNERSTRADA X TURBO THURSDAY at PRST on Thu 24 Sept, Vienna. 2 acts on the bill: Rayya and saschka. House. Preview the line-up and save it on soundcheck.
+DONNERSTRADA X TURBO THURSDAY at PRST on Thu 24 Sept, Vienna. 2 artists on the bill: Rayya and saschka. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

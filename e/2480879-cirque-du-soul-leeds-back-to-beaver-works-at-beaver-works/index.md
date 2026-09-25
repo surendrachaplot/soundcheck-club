@@ -1,6 +1,6 @@
 # Cirque Du Soul: Leeds // Back To Beaver Works at Beaver Works
 
-Cirque Du Soul: Leeds // Back To Beaver Works on Fri 25 Sept, Leeds. 9 acts on the bill: ad*n, camukg, Greenhouse and KABOCANA and 5 more. House and Garage. Preview the line-up and save it on soundcheck.
+Cirque Du Soul: Leeds // Back To Beaver Works on Fri 25 Sept, Leeds. 9 artists on the bill: ad*n, camukg, Greenhouse and KABOCANA and 5 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # OVERDRIVE X ecstasy garage: BÖRSCHT B2B Nukumori at Motiv
 
-OVERDRIVE X ecstasy garage: BÖRSCHT B2B Nukumori at Motiv on Wed 7 Oct, Sanfrancisco. 2 acts on the bill: Nukumori and Ryan Lincoln. Bass and Garage. Preview the line-up and save it on soundcheck.
+OVERDRIVE X ecstasy garage: BÖRSCHT B2B Nukumori at Motiv on Wed 7 Oct, San Francisco/Oakland. 2 artists on the bill: Nukumori and Ryan Lincoln. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

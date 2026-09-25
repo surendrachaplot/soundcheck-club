@@ -1,6 +1,6 @@
 # No Art at [UNVRS]
 
-No Art at [UNVRS] on Tue 29 Sept, Ibiza. 1 act on the bill: ANOTR. Preview the line-up and save it on soundcheck.
+No Art at [UNVRS] on Tue 29 Sept, Ibiza. 1 artist on the bill: ANOTR. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

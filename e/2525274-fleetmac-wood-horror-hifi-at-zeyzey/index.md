@@ -1,6 +1,6 @@
 # Fleetmac Wood + Horror HiFi at ZeyZey
 
-Fleetmac Wood + Horror HiFi at ZeyZey on Fri 30 Oct, Miami. 3 acts on the bill: Alex Oxley, Fleetmac Wood and Roxanne Roll. House and Disco. Preview the line-up and save it on soundcheck.
+Fleetmac Wood + Horror HiFi at ZeyZey on Fri 30 Oct, Miami. 3 artists on the bill: Alex Oxley, Fleetmac Wood and Roxanne Roll. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Simisea is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nowadays, New York City on Sat, 10 Oct 2026.
 
-Simisea is a techno and club artist based in United States of America, tracked on soundcheck, with 20 sets logged across Montreal and Newyorkcity. Often billed alongside rrao, Enayet and K Wata. Next up: Nowadays, Newyorkcity on Sat 10 Oct.
+Simisea is a techno and club artist based in United States of America, tracked on soundcheck, with 20 sets logged across Montreal and New York City. Often billed alongside rrao, Enayet and K Wata. Next up: Nowadays, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 

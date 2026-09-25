@@ -1,6 +1,6 @@
 # Dillon Francis at Future Nightlife
 
-Dillon Francis at Future Nightlife on Fri 16 Oct, Toronto. 1 act on the bill: Dillon Francis. Preview the line-up and save it on soundcheck.
+Dillon Francis at Future Nightlife on Fri 16 Oct, Toronto. 1 artist on the bill: Dillon Francis. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

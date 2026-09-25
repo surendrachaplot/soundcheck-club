@@ -1,6 +1,6 @@
 # DIFFUSE REALITY at TBA - Secret Location
 
-DIFFUSE REALITY at TBA - Secret Location on Fri 23 Oct, Amsterdam. 2 acts on the bill: Atlantic Energy and Squaric. Techno. Preview the line-up and save it on soundcheck.
+DIFFUSE REALITY at TBA - Secret Location on Fri 23 Oct, Amsterdam. 2 artists on the bill: Atlantic Energy and Squaric. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

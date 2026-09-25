@@ -1,6 +1,6 @@
 # Elsewhere presents: Luke Alexander at 99 Scott - Dedro, Shankz, Matty Chiuch at 99 Scott Ave
 
-Elsewhere presents: Luke Alexander at 99 Scott - Dedro, Shankz, Matty Chiuch at 99 Scott Ave on Fri 13 Nov, Newyorkcity. 2 acts on the bill: Luke Alexander and Shankz. Preview the line-up and save it on soundcheck.
+Elsewhere presents: Luke Alexander at 99 Scott - Dedro, Shankz, Matty Chiuch at 99 Scott Ave on Fri 13 Nov, New York City. 2 artists on the bill: Luke Alexander and Shankz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

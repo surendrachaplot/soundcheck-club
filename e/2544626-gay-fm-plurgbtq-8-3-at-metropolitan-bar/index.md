@@ -1,6 +1,6 @@
 # GAY.FM (PLURGBTQ 8===) <3 at Metropolitan Bar
 
-GAY.FM (PLURGBTQ 8===) <3 at Metropolitan Bar on Fri 2 Oct, Newyorkcity. 2 acts on the bill: BABES The DJ and ConCon. Pop and Club. Preview the line-up and save it on soundcheck.
+GAY.FM (PLURGBTQ 8===) <3 at Metropolitan Bar on Fri 2 Oct, New York City. 2 artists on the bill: BABES The DJ and ConCon. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Amp pres. Trancemaster Krause (ALL NIGHT LONG) – TOUR DE TRANCE 2.0 at Amp
 
-Amp pres. Trancemaster Krause (ALL NIGHT LONG) – TOUR DE TRANCE 2.0 on Fri 27 Nov, Munster. 1 act on the bill: Trancemaster Krause. Trance and Techno. Preview the line-up and save it on soundcheck.
+Amp pres. Trancemaster Krause (ALL NIGHT LONG) – TOUR DE TRANCE 2.0 on Fri 27 Nov, Munster. 1 artist on the bill: Trancemaster Krause. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hernan Cattaneo en México at Sala Urbana
 
-Hernan Cattaneo en México at Sala Urbana on Sat 31 Oct, Mexicocity. 2 acts on the bill: Hernan Cattaneo and Øostil. Progressive House and House. Preview the line-up and save it on soundcheck.
+Hernan Cattaneo en México at Sala Urbana on Sat 31 Oct, Mexico City. 2 artists on the bill: Hernan Cattaneo and Øostil. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

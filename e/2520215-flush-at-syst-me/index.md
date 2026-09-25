@@ -1,6 +1,6 @@
 # Flush at Système
 
-Flush at Système on Sat 26 Sept, Montreal. 3 acts on the bill: Claire, newfriend and zi!. Preview the line-up and save it on soundcheck.
+Flush at Système on Sat 26 Sept, Montreal. 3 artists on the bill: Claire, newfriend and zi!. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

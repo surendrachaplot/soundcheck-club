@@ -1,6 +1,6 @@
 # ❖ Cosmic Thursdays season opening ❖ at Süss War Gestern
 
-❖ Cosmic Thursdays season opening ❖ at Süss War Gestern on Thu 24 Sept, Berlin. 2 acts on the bill: Natsu and Neobeo. Deep House and Italo Disco. Preview the line-up and save it on soundcheck.
+❖ Cosmic Thursdays season opening ❖ at Süss War Gestern on Thu 24 Sept, Berlin. 2 artists on the bill: Natsu and Neobeo. Deep House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

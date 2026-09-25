@@ -1,6 +1,6 @@
 # Witching Hours at TBA - DTLA
 
-Witching Hours at TBA - DTLA on Fri 23 Oct, Losangeles. 1 act on the bill: Kittamami. House and Tech House. Preview the line-up and save it on soundcheck.
+Witching Hours at TBA - DTLA on Fri 23 Oct, Los Angeles. 1 artist on the bill: Kittamami. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

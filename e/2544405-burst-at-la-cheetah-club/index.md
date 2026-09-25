@@ -1,6 +1,6 @@
 # Burst at La Cheetah Club
 
-Burst at La Cheetah Club on Sat 7 Nov, Glasgow. 1 act on the bill: UA. Techno and House. Preview the line-up and save it on soundcheck.
+Burst at La Cheetah Club on Sat 7 Nov, Glasgow. 1 artist on the bill: UA. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

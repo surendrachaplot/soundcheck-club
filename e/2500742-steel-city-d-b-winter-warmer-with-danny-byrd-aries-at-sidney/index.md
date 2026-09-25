@@ -1,6 +1,6 @@
 # Steel City D&B Winter Warmer with Danny Byrd + Aries at Sidney & Matilda
 
-Steel City D&B Winter Warmer with Danny Byrd + Aries at Sidney & Matilda on Fri 13 Nov, Sheffield. 2 acts on the bill: Aries and Danny Byrd. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Steel City D&B Winter Warmer with Danny Byrd + Aries at Sidney & Matilda on Fri 13 Nov, Sheffield. 2 artists on the bill: Aries and Danny Byrd. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

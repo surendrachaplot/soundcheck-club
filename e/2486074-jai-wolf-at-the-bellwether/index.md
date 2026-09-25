@@ -1,6 +1,6 @@
 # Jai Wolf at The Bellwether
 
-Jai Wolf at The Bellwether on Sat 14 Nov, Losangeles. Electronica. Preview the line-up and save it on soundcheck.
+Jai Wolf at The Bellwether on Sat 14 Nov, Los Angeles. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

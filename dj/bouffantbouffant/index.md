@@ -2,7 +2,7 @@
 
 Bouffant Bouffant is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paloma, Berlin on Sun, 27 Sept 2026.
 
-Bouffant Bouffant is a house and electro artist based in United States of America, tracked on soundcheck, with 21 sets logged across All, Berlin, Hongkong and Houston and 4 more. Often billed alongside LYDO, Markus (US) and AAguilAA. Next up: Paloma, Berlin on Sun 27 Sept.
+Bouffant Bouffant is a house and electro artist based in United States of America, tracked on soundcheck, with 21 sets logged across Berlin, Hong Kong, Houston and Kuala Lumpur and 4 more. Often billed alongside LYDO, Markus (US) and AAguilAA. Next up: Paloma, Berlin on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,7 @@ Bouffant Bouffant is a house and electro artist based in United States of Americ
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Paloma | Berlin |
 | Sat, 21 Nov 2026 | 宀 Club | Hong Kong |
-| Thu, 3 Dec 2026 | The Fields at Siam Country Club | All |
+| Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
 

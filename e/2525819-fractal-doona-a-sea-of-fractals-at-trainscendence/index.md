@@ -1,6 +1,6 @@
 # Fractal Doona: A Sea of Fractals at Trainscendence
 
-Fractal Doona: A Sea of Fractals at Trainscendence on Sat 26 Sept, Melbourne. 1 act on the bill: MzRizk. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
+Fractal Doona: A Sea of Fractals at Trainscendence on Sat 26 Sept, Melbourne. 1 artist on the bill: MzRizk. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

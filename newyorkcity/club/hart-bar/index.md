@@ -2,7 +2,7 @@
 
 Hart Bar is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Disco Derby - Hart Bar" on Fri, 25 Sept 2026.
 
-Hart Bar is a music venue in Newyorkcity listed on soundcheck. 2 upcoming gigs, with line-ups including Actual Angel, ALEX PAN, boy_c0ded and Brutal Twink and 2 more. Browse upcoming dates, start times and who's playing. 538 Hart Street, Brooklyn, NY 11221 USA.
+Hart Bar is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Actual Angel, ALEX PAN, boy_c0ded and Brutal Twink and 2 more. Browse upcoming dates, start times and who's playing. 538 Hart Street, Brooklyn, NY 11221 USA.
 
 ## What's on
 

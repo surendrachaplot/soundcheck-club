@@ -1,6 +1,6 @@
 # Karotte at Fridas Pier
 
-Karotte at Fridas Pier on Sat 14 Nov, Stuttgart. 1 act on the bill: Karotte. Techno. Preview the line-up and save it on soundcheck.
+Karotte at Fridas Pier on Sat 14 Nov, Stuttgart. 1 artist on the bill: Karotte. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

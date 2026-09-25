@@ -1,6 +1,6 @@
 # PEW26 - Initiation au scratch et aux techniques de mix avec Saligo at Mains D'œuvres
 
-PEW26 - Initiation au scratch et aux techniques de mix avec Saligo at Mains D'œuvres on Fri 2 Oct, Paris. 1 act on the bill: Saligo. Preview the line-up and save it on soundcheck.
+PEW26 - Initiation au scratch et aux techniques de mix avec Saligo at Mains D'œuvres on Fri 2 Oct, Paris. 1 artist on the bill: Saligo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

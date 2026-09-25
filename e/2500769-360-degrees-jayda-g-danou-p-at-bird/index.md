@@ -1,6 +1,6 @@
 # 360 Degrees: Jayda G, Danou P at BIRD
 
-360 Degrees: Jayda G, Danou P at BIRD on Fri 25 Sept, Rotterdam. 2 acts on the bill: Danou P and Jayda G. House and Disco. Preview the line-up and save it on soundcheck.
+360 Degrees: Jayda G, Danou P at BIRD on Fri 25 Sept, Rotterdam. 2 artists on the bill: Danou P and Jayda G. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

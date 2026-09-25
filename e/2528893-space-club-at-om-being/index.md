@@ -1,6 +1,6 @@
 # Space Club at Om Being
 
-Space Club at Om Being on Fri 25 Sept, London. 4 acts on the bill: Avsluta, Hewan Aman, jeet (UK) and Om Dream. Trance and Techno. Preview the line-up and save it on soundcheck.
+Space Club at Om Being on Fri 25 Sept, London. 4 artists on the bill: Avsluta, Hewan Aman, jeet (UK) and Om Dream. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

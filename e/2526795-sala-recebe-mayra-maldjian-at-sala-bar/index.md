@@ -1,6 +1,6 @@
 # Sala recebe Mayra Maldjian at Sala Bar
 
-Sala recebe Mayra Maldjian at Sala Bar on Sat 26 Sept, Saopaulo. Preview the line-up and save it on soundcheck.
+Sala recebe Mayra Maldjian at Sala Bar on Sat 26 Sept, Sao Paulo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

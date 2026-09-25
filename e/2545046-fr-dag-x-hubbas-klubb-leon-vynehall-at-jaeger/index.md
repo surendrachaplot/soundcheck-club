@@ -1,6 +1,6 @@
 # Frædag x Hubbas Klubb: Leon Vynehall at Jaeger
 
-Frædag x Hubbas Klubb: Leon Vynehall at Jaeger on Fri 4 Dec, Oslo. 4 acts on the bill: G-HA, Hubbabubbaklubb, Leon Vynehall and Olanskii. House. Preview the line-up and save it on soundcheck.
+Frædag x Hubbas Klubb: Leon Vynehall at Jaeger on Fri 4 Dec, Oslo. 4 artists on the bill: G-HA, Hubbabubbaklubb, Leon Vynehall and Olanskii. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

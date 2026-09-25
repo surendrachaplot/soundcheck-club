@@ -1,6 +1,6 @@
 # DECIMA: Nørbak, DVS1 at Lux Fragil
 
-DECIMA: Nørbak, DVS1 at Lux Fragil on Fri 25 Sept, Lisbon. 5 acts on the bill: DVS1, Leonardo Cruz, Nørbak and THEUSS and 1 more. Preview the line-up and save it on soundcheck.
+DECIMA: Nørbak, DVS1 at Lux Fragil on Fri 25 Sept, Lisbon. 5 artists on the bill: DVS1, Leonardo Cruz, Nørbak and THEUSS and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FUNGI PRES. JOSÉ MONSALVE, AUGUSTO & Bruno Ledesma at TBA
 
-FUNGI PRES. JOSÉ MONSALVE, AUGUSTO & Bruno Ledesma at TBA on Sat 26 Sept, Buenosaires. 1 act on the bill: Bruno Ledesma. Techno. Preview the line-up and save it on soundcheck.
+FUNGI PRES. JOSÉ MONSALVE, AUGUSTO & Bruno Ledesma at TBA on Sat 26 Sept, Buenos Aires. 1 artist on the bill: Bruno Ledesma. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

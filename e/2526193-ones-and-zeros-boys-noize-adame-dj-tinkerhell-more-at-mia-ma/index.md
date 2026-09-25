@@ -1,6 +1,6 @@
 # ONES AND ZEROS: Boys Noize, Adame DJ, TINKERHELL & MORE at Mia Mao
 
-ONES AND ZEROS: Boys Noize, Adame DJ, TINKERHELL & MORE at Mia Mao on Fri 16 Oct, Paris. 4 acts on the bill: Adame DJ, Boys Noize, MarcelDune and TINKERHELL. Techno. Preview the line-up and save it on soundcheck.
+ONES AND ZEROS: Boys Noize, Adame DJ, TINKERHELL & MORE at Mia Mao on Fri 16 Oct, Paris. 4 artists on the bill: Adame DJ, Boys Noize, MarcelDune and TINKERHELL. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

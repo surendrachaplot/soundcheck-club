@@ -2,7 +2,7 @@
 
 KLOUD is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
-KLOUD is a techno and house artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside Lola Cerise, Kander and DJ Heartstring. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
+KLOUD is a techno and house artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Austin and Barcelona and 38 more. Often billed alongside Lola Cerise, Kander and DJ Heartstring. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
 ## Upcoming shows
 

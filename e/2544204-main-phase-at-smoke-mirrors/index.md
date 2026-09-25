@@ -1,6 +1,6 @@
 # Main Phase at Smoke & Mirrors
 
-Main Phase at Smoke & Mirrors on Fri 16 Oct, Chicago. 2 acts on the bill: Leo Kasper and Main Phase. Garage. Preview the line-up and save it on soundcheck.
+Main Phase at Smoke & Mirrors on Fri 16 Oct, Chicago. 2 artists on the bill: Leo Kasper and Main Phase. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

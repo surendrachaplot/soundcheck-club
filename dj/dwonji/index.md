@@ -2,7 +2,7 @@
 
 Dwonji is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kraftwerket, Copenhagen on Fri, 2 Oct 2026.
 
-Dwonji is a drum & bass and dubstep artist based in Denmark, tracked on soundcheck, with 20 sets logged across Copenhagen, Losangeles and Osaka. Often billed alongside HDN (DK), CALIFANO and Arsom. Next up: Kraftwerket, Copenhagen on Fri 2 Oct.
+Dwonji is a drum & bass and dubstep artist based in Denmark, tracked on soundcheck, with 20 sets logged across Copenhagen, Los Angeles and Osaka. Often billed alongside HDN (DK), CALIFANO and Arsom. Next up: Kraftwerket, Copenhagen on Fri 2 Oct.
 
 ## Upcoming shows
 

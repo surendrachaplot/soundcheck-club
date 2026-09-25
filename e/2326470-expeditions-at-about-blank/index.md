@@ -1,6 +1,6 @@
 # Expeditions at ://about blank
 
-Expeditions at ://about blank on Fri 25 Sept, Berlin. 6 acts on the bill: Anna Haleta, Audio Units, Bobaz Lobster and BORGBORG and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Expeditions at ://about blank on Fri 25 Sept, Berlin. 6 artists on the bill: Anna Haleta, Audio Units, Bobaz Lobster and BORGBORG and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

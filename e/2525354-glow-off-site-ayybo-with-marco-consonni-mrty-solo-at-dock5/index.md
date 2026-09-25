@@ -1,6 +1,6 @@
 # [GLOW OFF:SITE] - AYYBO with Marco Consonni, mrty., Solo at Dock5
 
-[GLOW OFF:SITE] - AYYBO with Marco Consonni, mrty., Solo at Dock5 on Sat 24 Oct, Washingtondc. House and Tech House. Preview the line-up and save it on soundcheck.
+[GLOW OFF:SITE] - AYYBO with Marco Consonni, mrty., Solo at Dock5 on Sat 24 Oct, Washington DC. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

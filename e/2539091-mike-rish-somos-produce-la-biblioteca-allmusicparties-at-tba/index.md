@@ -1,6 +1,6 @@
 # Mike Rish - Somos Produce, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo
 
-Mike Rish - Somos Produce, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo on Sat 31 Oct, Buenosaires. Progressive House. Preview the line-up and save it on soundcheck.
+Mike Rish - Somos Produce, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo on Sat 31 Oct, Buenos Aires. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

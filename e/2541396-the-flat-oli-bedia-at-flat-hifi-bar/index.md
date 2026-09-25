@@ -1,6 +1,6 @@
 # THE FLAT : OLI BEDIA at Flat HiFi Bar
 
-THE FLAT : OLI BEDIA at Flat HiFi Bar on Sat 26 Sept, Madrid. 1 act on the bill: OLI BEDIA. Electronica. Preview the line-up and save it on soundcheck.
+THE FLAT : OLI BEDIA at Flat HiFi Bar on Sat 26 Sept, Madrid. 1 artist on the bill: OLI BEDIA. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Franc Fala at Spybar
 
-Franc Fala at Spybar on Sat 14 Nov, Chicago. 1 act on the bill: Franc Fala. Afro House. Preview the line-up and save it on soundcheck.
+Franc Fala at Spybar on Sat 14 Nov, Chicago. 1 artist on the bill: Franc Fala. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

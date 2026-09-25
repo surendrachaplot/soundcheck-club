@@ -1,6 +1,6 @@
 # Soul Wun - MELBOURNE - The Night Cat at The Night Cat
 
-Soul Wun - MELBOURNE - The Night Cat on Sat 24 Oct, Melbourne. 1 act on the bill: Soul Wun. Preview the line-up and save it on soundcheck.
+Soul Wun - MELBOURNE - The Night Cat on Sat 24 Oct, Melbourne. 1 artist on the bill: Soul Wun. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

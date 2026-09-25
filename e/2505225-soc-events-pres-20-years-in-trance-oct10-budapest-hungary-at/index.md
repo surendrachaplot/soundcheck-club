@@ -1,6 +1,6 @@
 # SOC Events pres. 20 YEARS IN TRANCE – OCT10 - Budapest, Hungary at Óbuda Bay
 
-SOC Events pres. 20 YEARS IN TRANCE – OCT10 - Budapest, Hungary at Óbuda Bay on Sat 10 Oct, Budapest. 3 acts on the bill: Aly & Fila, Giuseppe Ottaviani and Markus Schulz. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+SOC Events pres. 20 YEARS IN TRANCE – OCT10 - Budapest, Hungary at Óbuda Bay on Sat 10 Oct, Budapest. 3 artists on the bill: Aly & Fila, Giuseppe Ottaviani and Markus Schulz. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

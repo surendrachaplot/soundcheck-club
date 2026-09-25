@@ -1,6 +1,6 @@
 # M&M Microclubbing hosted by Makossa at RONIN
 
-M&M Microclubbing hosted by Makossa at RONIN on Fri 25 Sept, Milan. 1 act on the bill: Makossa. Downtempo and Club. Preview the line-up and save it on soundcheck.
+M&M Microclubbing hosted by Makossa at RONIN on Fri 25 Sept, Milan. 1 artist on the bill: Makossa. Downtempo and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

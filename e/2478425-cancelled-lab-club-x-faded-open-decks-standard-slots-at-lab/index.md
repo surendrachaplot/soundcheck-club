@@ -1,6 +1,6 @@
 # [CANCELLED] Lab.Club x Faded: OPEN DECKS (Standard slots) at Lab.Club
 
-[CANCELLED] Lab.Club x Faded: OPEN DECKS (Standard slots) on Thu 15 Oct, London. 1 act on the bill: Faded Society. Preview the line-up and save it on soundcheck.
+[CANCELLED] Lab.Club x Faded: OPEN DECKS (Standard slots) on Thu 15 Oct, London. 1 artist on the bill: Faded Society. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

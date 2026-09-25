@@ -1,6 +1,6 @@
 # Bogen 43 listening sessions at Bogen 43
 
-Bogen 43 listening sessions on Thu 24 Sept, Berlin. 2 acts on the bill: baby ganoush and Seaina. Ambient and Balearic. Preview the line-up and save it on soundcheck.
+Bogen 43 listening sessions on Thu 24 Sept, Berlin. 2 artists on the bill: baby ganoush and Seaina. Ambient and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

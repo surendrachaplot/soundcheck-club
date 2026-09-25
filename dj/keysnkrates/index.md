@@ -2,7 +2,7 @@
 
 Keys N Krates is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Standard Time, Toronto on Fri, 16 Oct 2026.
 
-Keys N Krates is a house and disco artist based in Canada, tracked on soundcheck, with 29 sets logged across Denver, Losangeles, Lyon and Mexicocity and 5 more. Often billed alongside Pat Lok, Sabrosito and Black Daria. Next up: Standard Time, Toronto on Fri 16 Oct.
+Keys N Krates is a house and disco artist based in Canada, tracked on soundcheck, with 29 sets logged across Denver, Los Angeles, Lyon and Mexico City and 5 more. Often billed alongside Pat Lok, Sabrosito and Black Daria. Next up: Standard Time, Toronto on Fri 16 Oct.
 
 ## Upcoming shows
 

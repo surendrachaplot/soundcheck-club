@@ -1,6 +1,6 @@
 # Kraak & Smaak SOUNDSYSTEM + Madame Excuse + Rayko at Sala Villanos
 
-Kraak & Smaak SOUNDSYSTEM + Madame Excuse + Rayko at Sala Villanos on Fri 2 Oct, Madrid. 3 acts on the bill: Kraak & Smaak, Madame Excuse and Rayko. Electronica. Preview the line-up and save it on soundcheck.
+Kraak & Smaak SOUNDSYSTEM + Madame Excuse + Rayko at Sala Villanos on Fri 2 Oct, Madrid. 3 artists on the bill: Kraak & Smaak, Madame Excuse and Rayko. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

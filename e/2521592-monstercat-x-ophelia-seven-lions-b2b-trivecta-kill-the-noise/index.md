@@ -1,6 +1,6 @@
 # MONSTERCAT X OPHELIA: Seven Lions B2B TRIVECTA, Kill The Noise + MORE at Ministry Of Sound
 
-MONSTERCAT X OPHELIA: Seven Lions B2B TRIVECTA, Kill The Noise + MORE at Ministry Of Sound on Fri 16 Oct, London. 3 acts on the bill: Kill The Noise, Murdock and Seven Lions. House. Preview the line-up and save it on soundcheck.
+MONSTERCAT X OPHELIA: Seven Lions B2B TRIVECTA, Kill The Noise + MORE at Ministry Of Sound on Fri 16 Oct, London. 3 artists on the bill: Kill The Noise, Murdock and Seven Lions. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

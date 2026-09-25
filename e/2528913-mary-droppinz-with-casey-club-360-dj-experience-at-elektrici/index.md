@@ -1,6 +1,6 @@
 # Mary Droppinz with Casey Club - 360° DJ EXPERIENCE at Elektricity
 
-Mary Droppinz with Casey Club - 360° DJ EXPERIENCE at Elektricity on Sat 7 Nov, Detroit. 3 acts on the bill: Casey Club, Mary Droppinz and RAEDY LEX. House and Electro. Preview the line-up and save it on soundcheck.
+Mary Droppinz with Casey Club - 360° DJ EXPERIENCE at Elektricity on Sat 7 Nov, Detroit. 3 artists on the bill: Casey Club, Mary Droppinz and RAEDY LEX. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

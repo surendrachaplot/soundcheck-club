@@ -2,7 +2,7 @@
 
 RHR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Milkys, Los Angeles on Fri, 25 Sept 2026.
 
-RHR is a techno and house artist based in Brazil, tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 34 more. Often billed alongside Cashu, upsammy and BADSISTA. Next up: Milkys, Losangeles on Fri 25 Sept.
+RHR is a techno and house artist based in Brazil, tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 34 more. Often billed alongside Cashu, upsammy and BADSISTA. Next up: Milkys, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

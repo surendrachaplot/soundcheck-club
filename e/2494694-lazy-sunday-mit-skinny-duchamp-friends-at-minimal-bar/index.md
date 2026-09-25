@@ -1,6 +1,6 @@
 # lazy.sunday mit Skinny Duchamp & Friends at Minimal Bar
 
-lazy.sunday mit Skinny Duchamp & Friends at Minimal Bar on Sun 27 Sept, Berlin. 3 acts on the bill: Sandra (BR), Skinny Duchamp and tanzschuh. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+lazy.sunday mit Skinny Duchamp & Friends at Minimal Bar on Sun 27 Sept, Berlin. 3 artists on the bill: Sandra (BR), Skinny Duchamp and tanzschuh. Minimal and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

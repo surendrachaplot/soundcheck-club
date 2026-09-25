@@ -2,7 +2,7 @@
 
 Bob Tosh is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 26 Sept 2026.
 
-Bob Tosh is a techno and electronica artist based in Argentina, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Buenosaires and Copenhagen and 1 more. Often billed alongside 6RAJ, Ark Nomads and Dist. Next up: Seaseaclub Barcelona, Barcelona on Sat 26 Sept.
+Bob Tosh is a techno and electronica artist based in Argentina, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Buenos Aires and Copenhagen and 1 more. Often billed alongside 6RAJ, Ark Nomads and Dist. Next up: Seaseaclub Barcelona, Barcelona on Sat 26 Sept.
 
 ## Upcoming shows
 

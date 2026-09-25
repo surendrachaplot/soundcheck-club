@@ -1,6 +1,6 @@
 # Teletech Closing Party at Amnesia Ibiza
 
-Teletech Closing Party at Amnesia Ibiza on Thu 8 Oct, Ibiza. 13 acts on the bill: Bella Claxton, Benwal, blk. and Clara Cuvé and 9 more. Techno. Preview the line-up and save it on soundcheck.
+Teletech Closing Party at Amnesia Ibiza on Thu 8 Oct, Ibiza. 13 artists on the bill: Bella Claxton, Benwal, blk. and Clara Cuvé and 9 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

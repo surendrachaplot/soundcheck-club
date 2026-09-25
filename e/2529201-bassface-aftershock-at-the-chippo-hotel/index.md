@@ -1,6 +1,6 @@
 # Bassface: Aftershock at The Chippo Hotel
 
-Bassface: Aftershock at The Chippo Hotel on Sat 26 Sept, Sydney. 1 act on the bill: Jamie Ardor. Bass. Preview the line-up and save it on soundcheck.
+Bassface: Aftershock at The Chippo Hotel on Sat 26 Sept, Sydney. 1 artist on the bill: Jamie Ardor. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

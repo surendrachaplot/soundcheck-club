@@ -1,6 +1,6 @@
 # GOAT BALL pres. DEVILS BALL at Lokschuppen Berlin
 
-GOAT BALL pres. DEVILS BALL at Lokschuppen Berlin on Sat 31 Oct, Berlin. 13 acts on the bill: Cobb Douglas, DJ Flink, DJ WIFI and FJUSHA and 9 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+GOAT BALL pres. DEVILS BALL at Lokschuppen Berlin on Sat 31 Oct, Berlin. 13 artists on the bill: Cobb Douglas, DJ Flink, DJ WIFI and FJUSHA and 9 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

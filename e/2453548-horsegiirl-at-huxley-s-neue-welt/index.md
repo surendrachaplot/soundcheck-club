@@ -1,6 +1,6 @@
 # horsegiirL at Huxley's Neue Welt
 
-horsegiirL at Huxley's Neue Welt on Wed 25 Nov, Berlin. 2 acts on the bill: DJ_Dave and horsegiirL. Preview the line-up and save it on soundcheck.
+horsegiirL at Huxley's Neue Welt on Wed 25 Nov, Berlin. 2 artists on the bill: DJ_Dave and horsegiirL. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Isolate x rummel x FROM DUSK TILL DAWN - ADE 26 Edition at Noorderlicht Café
 
-Isolate x rummel x FROM DUSK TILL DAWN - ADE 26 Edition at Noorderlicht Café on Thu 22 Oct, Amsterdam. 9 acts on the bill: Agustin Giri, Alican, Argia and Djolee and 5 more. House and Electronica. Preview the line-up and save it on soundcheck.
+Isolate x rummel x FROM DUSK TILL DAWN - ADE 26 Edition at Noorderlicht Café on Thu 22 Oct, Amsterdam. 9 artists on the bill: Agustin Giri, Alican, Argia and Djolee and 5 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

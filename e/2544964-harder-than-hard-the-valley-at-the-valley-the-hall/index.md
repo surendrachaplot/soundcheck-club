@@ -1,6 +1,6 @@
 # HARDER THAN HARD - THE VALLEY at The Valley - The Hall
 
-HARDER THAN HARD - THE VALLEY at The Valley - The Hall on Sat 10 Oct, Zurich. 1 act on the bill: REA (AL). Techno and Industrial. Preview the line-up and save it on soundcheck.
+HARDER THAN HARD - THE VALLEY at The Valley - The Hall on Sat 10 Oct, Zurich. 1 artist on the bill: REA (AL). Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RHYTHM OF THE NIGHT [90'S HOUSE/UKG/TRANCE] at The Dolphin
 
-RHYTHM OF THE NIGHT [90'S HOUSE/UKG/TRANCE] at The Dolphin on Fri 2 Oct, Philadelphia. 3 acts on the bill: 4AM NYC, Dave Tidey and G I N A. Trance and House. Preview the line-up and save it on soundcheck.
+RHYTHM OF THE NIGHT [90'S HOUSE/UKG/TRANCE] at The Dolphin on Fri 2 Oct, Philadelphia. 3 artists on the bill: 4AM NYC, Dave Tidey and G I N A. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

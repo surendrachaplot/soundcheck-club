@@ -1,6 +1,6 @@
 # Stepback with ona:v and Thornback at The Safari Lounge
 
-Stepback with ona:v and Thornback at The Safari Lounge on Fri 18 Dec, Edinburgh. 4 acts on the bill: Keyte, ona:v, Thornback and WolfJazz. Techno and Electro. Preview the line-up and save it on soundcheck.
+Stepback with ona:v and Thornback at The Safari Lounge on Fri 18 Dec, Edinburgh. 4 artists on the bill: Keyte, ona:v, Thornback and WolfJazz. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

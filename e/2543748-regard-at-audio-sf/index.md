@@ -1,6 +1,6 @@
 # Regard at Audio SF
 
-Regard at Audio SF on Fri 16 Oct, Sanfrancisco. Preview the line-up and save it on soundcheck.
+Regard at Audio SF on Fri 16 Oct, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

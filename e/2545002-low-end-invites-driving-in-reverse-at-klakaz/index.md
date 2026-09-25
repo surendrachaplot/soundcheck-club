@@ -1,6 +1,6 @@
 # LOW END INVITES DRIVING IN REVERSE at Klakaz
 
-LOW END INVITES DRIVING IN REVERSE at Klakaz on Fri 25 Sept, Athens. 1 act on the bill: Pene. Preview the line-up and save it on soundcheck.
+LOW END INVITES DRIVING IN REVERSE at Klakaz on Fri 25 Sept, Athens. 1 artist on the bill: Pene. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

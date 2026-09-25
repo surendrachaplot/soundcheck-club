@@ -1,6 +1,6 @@
 # Sekt&Brezeln - 4 YEARS ANNIVERSARY at Hoppetosse
 
-Sekt&Brezeln - 4 YEARS ANNIVERSARY at Hoppetosse on Sat 17 Oct, Berlin. 9 acts on the bill: Berto (DE), Fab Massimo, Fast (DE) and Kaufmann and 5 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Sekt&Brezeln - 4 YEARS ANNIVERSARY at Hoppetosse on Sat 17 Oct, Berlin. 9 artists on the bill: Berto (DE), Fab Massimo, Fast (DE) and Kaufmann and 5 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

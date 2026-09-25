@@ -1,6 +1,6 @@
 # Flausch am Sonntag x Whitenoise Live Improv at Turtur
 
-Flausch am Sonntag x Whitenoise Live Improv at Turtur on Sun 27 Sept, Hamburg. 1 act on the bill: Niklas Stadler. Jazz. Preview the line-up and save it on soundcheck.
+Flausch am Sonntag x Whitenoise Live Improv at Turtur on Sun 27 Sept, Hamburg. 1 artist on the bill: Niklas Stadler. Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

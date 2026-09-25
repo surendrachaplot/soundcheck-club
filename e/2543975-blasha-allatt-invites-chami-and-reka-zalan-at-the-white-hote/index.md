@@ -1,6 +1,6 @@
 # Blasha & Allatt Invites Chami and Reka Zalan at The White Hotel
 
-Blasha & Allatt Invites Chami and Reka Zalan at The White Hotel on Fri 13 Nov, Manchester. 3 acts on the bill: Blasha & Allatt, Chami and Reka Zalan. Techno. Preview the line-up and save it on soundcheck.
+Blasha & Allatt Invites Chami and Reka Zalan at The White Hotel on Fri 13 Nov, Manchester. 3 artists on the bill: Blasha & Allatt, Chami and Reka Zalan. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

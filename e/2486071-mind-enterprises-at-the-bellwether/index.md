@@ -1,6 +1,6 @@
 # Mind Enterprises at The Bellwether
 
-Mind Enterprises at The Bellwether on Fri 25 Sept, Losangeles. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+Mind Enterprises at The Bellwether on Fri 25 Sept, Los Angeles. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

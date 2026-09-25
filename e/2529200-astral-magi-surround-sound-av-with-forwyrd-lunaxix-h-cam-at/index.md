@@ -1,6 +1,6 @@
 # Astral Magi Surround Sound AV with Forwyrd, Lunaxix, h__cam at TBA - West Oakland
 
-Astral Magi Surround Sound AV with Forwyrd, Lunaxix, h__cam at TBA - West Oakland on Sat 17 Oct, Sanfrancisco. 1 act on the bill: Richard Haig. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Astral Magi Surround Sound AV with Forwyrd, Lunaxix, h__cam at TBA - West Oakland on Sat 17 Oct, San Francisco/Oakland. 1 artist on the bill: Richard Haig. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

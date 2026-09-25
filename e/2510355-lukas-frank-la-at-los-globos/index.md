@@ -1,6 +1,6 @@
 # LUKAS & FRANK - LA at Los Globos
 
-LUKAS & FRANK - LA at Los Globos on Fri 9 Oct, Losangeles. 1 act on the bill: LUKAS & FRANK. House and Afro House. Preview the line-up and save it on soundcheck.
+LUKAS & FRANK - LA at Los Globos on Fri 9 Oct, Los Angeles. 1 artist on the bill: LUKAS & FRANK. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

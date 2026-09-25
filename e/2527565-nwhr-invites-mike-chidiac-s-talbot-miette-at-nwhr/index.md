@@ -1,6 +1,6 @@
 # NWHR invites Mike Chidiac // s.talbot // Miette at NWHR
 
-NWHR invites Mike Chidiac // s.talbot // Miette on Sat 26 Sept, Montreal. 3 acts on the bill: Miette, Mike Chidiac and s.talbot. Techno. Preview the line-up and save it on soundcheck.
+NWHR invites Mike Chidiac // s.talbot // Miette on Sat 26 Sept, Montreal. 3 artists on the bill: Miette, Mike Chidiac and s.talbot. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Convent pres. Charlie Sparks, CLTX at OST
 
-Convent pres. Charlie Sparks, CLTX at OST on Sat 7 Nov, Berlin. 2 acts on the bill: Charlie Sparks and CLTX. Techno. Preview the line-up and save it on soundcheck.
+Convent pres. Charlie Sparks, CLTX at OST on Sat 7 Nov, Berlin. 2 artists on the bill: Charlie Sparks and CLTX. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

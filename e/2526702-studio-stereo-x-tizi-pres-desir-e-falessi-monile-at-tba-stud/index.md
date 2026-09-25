@@ -1,6 +1,6 @@
 # Studio Stereo x TiZi pres. Desirée Falessi, Monile at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x TiZi pres. Desirée Falessi, Monile at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 2 Oct, Barcelona. 4 acts on the bill: Desirée Falessi, Monile, Nate S.U and Sash (BCN). House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x TiZi pres. Desirée Falessi, Monile at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 2 Oct, Barcelona. 4 artists on the bill: Desirée Falessi, Monile, Nate S.U and Sash (BCN). House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

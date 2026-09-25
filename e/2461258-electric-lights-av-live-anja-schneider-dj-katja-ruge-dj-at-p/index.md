@@ -1,6 +1,6 @@
 # Electric Lights /AV Live - Anja Schneider (DJ) & Katja Ruge (DJ) at Planetarium Hamburg
 
-Electric Lights /AV Live - Anja Schneider (DJ) & Katja Ruge (DJ) at Planetarium Hamburg on Wed 11 Nov, Hamburg. 2 acts on the bill: Anja Schneider and Katja Ruge. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Electric Lights /AV Live - Anja Schneider (DJ) & Katja Ruge (DJ) at Planetarium Hamburg on Wed 11 Nov, Hamburg. 2 artists on the bill: Anja Schneider and Katja Ruge. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

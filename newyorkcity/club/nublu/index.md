@@ -2,7 +2,7 @@
 
 Nublu is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Jorp 1 Release Party" on Fri, 25 Sept 2026.
 
-Nublu is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 62 Avenue C, New York, NY 10009, USA.
+Nublu is a music venue in New York City listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 62 Avenue C, New York, NY 10009, USA.
 
 ## What's on
 

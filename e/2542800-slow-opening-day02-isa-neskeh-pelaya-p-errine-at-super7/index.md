@@ -1,6 +1,6 @@
 # slow opening — day02 : ISA • NESKEH • PELAYA • P errine at Super7
 
-slow opening — day02 : ISA • NESKEH • PELAYA • P errine at Super7 on Fri 25 Sept, Lyon. 1 act on the bill: P errine. Preview the line-up and save it on soundcheck.
+slow opening — day02 : ISA • NESKEH • PELAYA • P errine at Super7 on Fri 25 Sept, Lyon. 1 artist on the bill: P errine. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

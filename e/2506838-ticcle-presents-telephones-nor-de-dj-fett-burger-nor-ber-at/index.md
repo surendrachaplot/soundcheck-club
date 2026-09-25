@@ -1,6 +1,6 @@
 # ticcle presents Telephones (NOR/DE) & DJ Fett Burger (NOR/BER) at Ticcle
 
-ticcle presents Telephones (NOR/DE) & DJ Fett Burger (NOR/BER) at Ticcle on Sun 11 Oct, Hobart. 2 acts on the bill: DJ Fett Burger and Telephones. Preview the line-up and save it on soundcheck.
+ticcle presents Telephones (NOR/DE) & DJ Fett Burger (NOR/BER) at Ticcle on Sun 11 Oct, Hobart. 2 artists on the bill: DJ Fett Burger and Telephones. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

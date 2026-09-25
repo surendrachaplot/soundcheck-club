@@ -2,7 +2,7 @@
 
 IZZY (UK) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Glove That Fits, London on Fri, 25 Sept 2026.
 
-IZZY (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, London and Thehague. Often billed alongside Lola So, Armând and ASHOJU. Next up: The Glove That Fits, London on Fri 25 Sept.
+IZZY (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, London and The Hague. Often billed alongside Lola So, Armând and ASHOJU. Next up: The Glove That Fits, London on Fri 25 Sept.
 
 ## Upcoming shows
 

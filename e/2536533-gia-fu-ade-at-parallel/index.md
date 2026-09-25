@@ -1,6 +1,6 @@
 # Gia Fu - ADE at Parallel
 
-Gia Fu - ADE at Parallel on Sat 24 Oct, Amsterdam. 2 acts on the bill: Chico and Gia Fu. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
+Gia Fu - ADE at Parallel on Sat 24 Oct, Amsterdam. 2 artists on the bill: Chico and Gia Fu. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

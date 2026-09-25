@@ -1,6 +1,6 @@
 # 128<3 - Der Elternabend im Club at ://about blank
 
-128<3 - Der Elternabend im Club at ://about blank on Fri 2 Oct, Berlin. 2 acts on the bill: Dressman and Krawalle und Liebe. Techno and Deep House. Preview the line-up and save it on soundcheck.
+128<3 - Der Elternabend im Club at ://about blank on Fri 2 Oct, Berlin. 2 artists on the bill: Dressman and Krawalle und Liebe. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

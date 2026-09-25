@@ -1,6 +1,6 @@
 # Rumore Season 26 Party N°45 W/ Pascal Moscheni & Disco Panico at Rumore Nightclub Capri
 
-Rumore Season 26 Party N°45 W/ Pascal Moscheni & Disco Panico at Rumore Nightclub Capri on Sat 26 Sept, Naples. 1 act on the bill: Pascal Moscheni. Preview the line-up and save it on soundcheck.
+Rumore Season 26 Party N°45 W/ Pascal Moscheni & Disco Panico at Rumore Nightclub Capri on Sat 26 Sept, Naples. 1 artist on the bill: Pascal Moscheni. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

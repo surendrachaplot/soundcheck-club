@@ -1,6 +1,6 @@
 # 1/4 Escuro x Vault Sessions with Alarico B2B Freddy K All Night Long at Tapada da Ajuda
 
-1/4 Escuro x Vault Sessions with Alarico B2B Freddy K All Night Long at Tapada da Ajuda on Sat 26 Sept, Lisbon. 3 acts on the bill: Alarico, Freddy K and Laura Hasagun. Techno. Preview the line-up and save it on soundcheck.
+1/4 Escuro x Vault Sessions with Alarico B2B Freddy K All Night Long at Tapada da Ajuda on Sat 26 Sept, Lisbon. 3 artists on the bill: Alarico, Freddy K and Laura Hasagun. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # agefarre 2026 - ageHa×velfarre 15th Anniversary CLUB EDITION - at ZEROTOKYO
 
-agefarre 2026 - ageHa×velfarre 15th Anniversary CLUB EDITION - at ZEROTOKYO on Sun 11 Oct, Tokyo. 7 acts on the bill: BEPPU, Ferry Corsten, Ko Kimura and Remo-con and 3 more. Trance. Preview the line-up and save it on soundcheck.
+agefarre 2026 - ageHa×velfarre 15th Anniversary CLUB EDITION - at ZEROTOKYO on Sun 11 Oct, Tokyo. 7 artists on the bill: BEPPU, Ferry Corsten, Ko Kimura and Remo-con and 3 more. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

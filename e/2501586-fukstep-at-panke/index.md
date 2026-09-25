@@ -1,6 +1,6 @@
 # FUKSTEP at Panke
 
-FUKSTEP at Panke on Fri 30 Oct, Berlin. 3 acts on the bill: Fukinsei, futura cimice and Grove. Bass. Preview the line-up and save it on soundcheck.
+FUKSTEP at Panke on Fri 30 Oct, Berlin. 3 artists on the bill: Fukinsei, futura cimice and Grove. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

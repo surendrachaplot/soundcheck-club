@@ -1,6 +1,6 @@
 # The Techno Jungle at EQ San Diego
 
-The Techno Jungle at EQ San Diego on Thu 1 Oct, Sandiego. Techno. Preview the line-up and save it on soundcheck.
+The Techno Jungle at EQ San Diego on Thu 1 Oct, San Diego. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

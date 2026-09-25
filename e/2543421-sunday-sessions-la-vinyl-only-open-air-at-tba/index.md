@@ -1,6 +1,6 @@
 # Sunday Sessions LA (Vinyl Only) Open Air at TBA
 
-Sunday Sessions LA (Vinyl Only) Open Air at TBA on Sun 22 Nov, Losangeles. 1 act on the bill: Mungo Sound Machine. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunday Sessions LA (Vinyl Only) Open Air at TBA on Sun 22 Nov, Los Angeles. 1 artist on the bill: Mungo Sound Machine. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

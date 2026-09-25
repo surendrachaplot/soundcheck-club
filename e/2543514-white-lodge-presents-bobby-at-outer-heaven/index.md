@@ -1,6 +1,6 @@
 # White Lodge presents: Bobby at Outer Heaven
 
-White Lodge presents: Bobby at Outer Heaven on Thu 29 Oct, Newyorkcity. 2 acts on the bill: Armii1n and Bobby.. House. Preview the line-up and save it on soundcheck.
+White Lodge presents: Bobby at Outer Heaven on Thu 29 Oct, New York City. 2 artists on the bill: Armii1n and Bobby.. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

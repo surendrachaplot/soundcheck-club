@@ -1,6 +1,6 @@
 # Sunday Night: FJAAK & KYRUH at Nowadays
 
-Sunday Night: FJAAK & KYRUH at Nowadays on Sun 27 Sept, Newyorkcity. 2 acts on the bill: FJAAK and KYRUH. Techno. Preview the line-up and save it on soundcheck.
+Sunday Night: FJAAK & KYRUH at Nowadays on Sun 27 Sept, New York City. 2 artists on the bill: FJAAK and KYRUH. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # theCUT presents Douvelle19 at The Cut
 
-theCUT presents Douvelle19 at The Cut on Fri 16 Oct, Newcastle. 2 acts on the bill: Douvelle19 and GBSN. House and Garage. Preview the line-up and save it on soundcheck.
+theCUT presents Douvelle19 at The Cut on Fri 16 Oct, Newcastle. 2 artists on the bill: Douvelle19 and GBSN. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

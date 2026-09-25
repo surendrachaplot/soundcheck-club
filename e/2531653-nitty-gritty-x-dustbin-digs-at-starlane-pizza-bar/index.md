@@ -1,6 +1,6 @@
 # Nitty Gritty x Dustbin Digs at Starlane Pizza Bar
 
-Nitty Gritty x Dustbin Digs at Starlane Pizza Bar on Sat 7 Nov, London. 2 acts on the bill: 3 Minds and Daniel Poli. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Nitty Gritty x Dustbin Digs at Starlane Pizza Bar on Sat 7 Nov, London. 2 artists on the bill: 3 Minds and Daniel Poli. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

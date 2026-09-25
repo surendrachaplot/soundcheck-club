@@ -1,6 +1,6 @@
 # Sindustry Sundays: FOLSOM STREET FAIR: MONI + Jeff Straw at Butter
 
-Sindustry Sundays: FOLSOM STREET FAIR: MONI + Jeff Straw at Butter on Sun 27 Sept, Sanfrancisco. 1 act on the bill: Jeff Straw. House and Disco. Preview the line-up and save it on soundcheck.
+Sindustry Sundays: FOLSOM STREET FAIR: MONI + Jeff Straw at Butter on Sun 27 Sept, San Francisco/Oakland. 1 artist on the bill: Jeff Straw. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

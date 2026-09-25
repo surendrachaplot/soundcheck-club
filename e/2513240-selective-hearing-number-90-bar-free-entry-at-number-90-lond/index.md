@@ -1,6 +1,6 @@
 # Selective Hearing ➜ Number 90 (Bar): FREE ENTRY at NUMBER 90 LONDON
 
-Selective Hearing ➜ Number 90 (Bar): FREE ENTRY at NUMBER 90 LONDON on Fri 9 Oct, London. 4 acts on the bill: Ellzo, Ize (1), Lewis Woodham and Tenzin. House and Deep House. Preview the line-up and save it on soundcheck.
+Selective Hearing ➜ Number 90 (Bar): FREE ENTRY at NUMBER 90 LONDON on Fri 9 Oct, London. 4 artists on the bill: Ellzo, Ize, Lewis Woodham and Tenzin. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

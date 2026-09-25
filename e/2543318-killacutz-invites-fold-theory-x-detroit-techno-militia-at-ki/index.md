@@ -1,6 +1,6 @@
 # Killacutz INVITES  FOLD THEORY X DETROIT TECHNO MILITIA at Killacutz
 
-Killacutz INVITES  FOLD THEORY X DETROIT TECHNO MILITIA on Thu 22 Oct, Amsterdam. 7 acts on the bill: De León, Detune, DJ Roach and Eric Ross and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Killacutz INVITES  FOLD THEORY X DETROIT TECHNO MILITIA on Thu 22 Oct, Amsterdam. 7 artists on the bill: De León, Detune, DJ Roach and Eric Ross and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 10 Jahre Bassgeflüster at Die Rakete
 
-10 Jahre Bassgeflüster at Die Rakete on Fri 11 Dec, Nurnberg. 6 acts on the bill: Gabu, KIM AHLF, Klanglos and Mark Dekoda and 2 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+10 Jahre Bassgeflüster at Die Rakete on Fri 11 Dec, Nürnberg. 6 artists on the bill: Gabu, KIM AHLF, Klanglos and Mark Dekoda and 2 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

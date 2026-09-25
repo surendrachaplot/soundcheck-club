@@ -1,6 +1,6 @@
 # Voodoo Projects at Hoxton Cabin
 
-Voodoo Projects at Hoxton Cabin on Sat 24 Oct, London. 1 act on the bill: Chris Liberator. Techno and Acid. Preview the line-up and save it on soundcheck.
+Voodoo Projects at Hoxton Cabin on Sat 24 Oct, London. 1 artist on the bill: Chris Liberator. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

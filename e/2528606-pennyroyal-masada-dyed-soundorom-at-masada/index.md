@@ -1,6 +1,6 @@
 # Pennyroyal > Masada > Dyed Soundorom at Masada
 
-Pennyroyal > Masada > Dyed Soundorom on Sun 27 Sept, Milan. 2 acts on the bill: Dyed Soundorom and THE LUMENS. Techno and House. Preview the line-up and save it on soundcheck.
+Pennyroyal > Masada > Dyed Soundorom on Sun 27 Sept, Milan. 2 artists on the bill: Dyed Soundorom and THE LUMENS. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

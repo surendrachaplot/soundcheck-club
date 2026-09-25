@@ -1,6 +1,6 @@
 # Noods Radio: Tokyo at Mitsuki
 
-Noods Radio: Tokyo at Mitsuki on Sat 26 Sept, Tokyo. 4 acts on the bill: Element (3), Lil Mofo, Mamazu and Mars89. Downtempo and Dancehall. Preview the line-up and save it on soundcheck.
+Noods Radio: Tokyo at Mitsuki on Sat 26 Sept, Tokyo. 4 artists on the bill: Element, Lil Mofo, Mamazu and Mars89. Downtempo and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 ADMINISTRATOR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 9 Oct 2026.
 
-ADMINISTRATOR is a techno and house artist based in Australia, tracked on soundcheck, with 26 sets logged across Melbourne and Sydney. Often billed alongside Ham (5), DJ Kiti and Lewis Cancut. Next up: Angel Music Bar, Melbourne on Fri 9 Oct.
+ADMINISTRATOR is a techno and house artist based in Australia, tracked on soundcheck, with 26 sets logged across Melbourne and Sydney. Often billed alongside Ham, DJ Kiti and Lewis Cancut. Next up: Angel Music Bar, Melbourne on Fri 9 Oct.
 
 ## Upcoming shows
 

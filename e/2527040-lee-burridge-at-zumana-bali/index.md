@@ -1,6 +1,6 @@
 # Lee Burridge at Zumana Bali
 
-Lee Burridge at Zumana Bali on Fri 13 Nov, Bali. 1 act on the bill: Lee Burridge. Deep House. Preview the line-up and save it on soundcheck.
+Lee Burridge at Zumana Bali on Fri 13 Nov, Bali. 1 artist on the bill: Lee Burridge. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

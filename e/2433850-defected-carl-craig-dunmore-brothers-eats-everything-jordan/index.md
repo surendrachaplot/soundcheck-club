@@ -1,6 +1,6 @@
 # Defected: Carl Craig, Dunmore Brothers, Eats Everything, Jordan Peak, Shae Reid b2b Sian Owen at Chinois Ibiza
 
-Defected: Carl Craig, Dunmore Brothers, Eats Everything, Jordan Peak, Shae Reid b2b Sian Owen at Chinois Ibiza on Thu 24 Sept, Ibiza. 6 acts on the bill: Carl Craig, Dunmore Brothers, Eats Everything and Jordan Peak and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Defected: Carl Craig, Dunmore Brothers, Eats Everything, Jordan Peak, Shae Reid b2b Sian Owen at Chinois Ibiza on Thu 24 Sept, Ibiza. 6 artists on the bill: Carl Craig, Dunmore Brothers, Eats Everything and Jordan Peak and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

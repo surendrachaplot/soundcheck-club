@@ -1,6 +1,6 @@
 # Extended Play with DJ Spinna at Mess Hall
 
-Extended Play with DJ Spinna at Mess Hall on Sun 18 Oct, Washingtondc. 1 act on the bill: DJ Spinna. House. Preview the line-up and save it on soundcheck.
+Extended Play with DJ Spinna at Mess Hall on Sun 18 Oct, Washington DC. 1 artist on the bill: DJ Spinna. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

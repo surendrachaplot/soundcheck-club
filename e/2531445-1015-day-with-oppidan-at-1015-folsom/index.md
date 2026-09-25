@@ -1,6 +1,6 @@
 # 1015 Day with Oppidan at 1015 Folsom
 
-1015 Day with Oppidan at 1015 Folsom on Thu 15 Oct, Sanfrancisco. 1 act on the bill: Oppidan. Preview the line-up and save it on soundcheck.
+1015 Day with Oppidan at 1015 Folsom on Thu 15 Oct, San Francisco/Oakland. 1 artist on the bill: Oppidan. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

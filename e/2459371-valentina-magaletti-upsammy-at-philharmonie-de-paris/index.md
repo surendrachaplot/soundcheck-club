@@ -1,6 +1,6 @@
 # Valentina Magaletti & upsammy at Philharmonie de Paris
 
-Valentina Magaletti & upsammy at Philharmonie de Paris on Wed 4 Nov, Paris. 2 acts on the bill: upsammy and Valentina Magaletti. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Valentina Magaletti & upsammy at Philharmonie de Paris on Wed 4 Nov, Paris. 2 artists on the bill: upsammy and Valentina Magaletti. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

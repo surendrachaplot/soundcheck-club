@@ -1,6 +1,6 @@
 # Boiler Room: LA - Saturday at TBA
 
-Boiler Room: LA - Saturday at TBA on Sat 26 Sept, Losangeles. 10 acts on the bill: Bladee, Danny Brown, Dj Sliink and Ms Nina (ES) and 6 more. Experimental and Pop. Preview the line-up and save it on soundcheck.
+Boiler Room: LA - Saturday at TBA on Sat 26 Sept, Los Angeles. 10 artists on the bill: Bladee, Danny Brown, Dj Sliink and Ms Nina (ES) and 6 more. Experimental and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

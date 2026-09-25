@@ -1,6 +1,6 @@
 # CHRIS STASSY presents USS (Manchester) at Aviva Studios
 
-CHRIS STASSY presents USS (Manchester) at Aviva Studios on Sat 10 Oct, Manchester. 5 acts on the bill: CHRIS STASSY, Laidlaw, Locklead and Matisa and 1 more. Preview the line-up and save it on soundcheck.
+CHRIS STASSY presents USS (Manchester) at Aviva Studios on Sat 10 Oct, Manchester. 5 artists on the bill: CHRIS STASSY, Laidlaw, Locklead and Matisa and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

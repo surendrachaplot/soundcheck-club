@@ -1,6 +1,6 @@
 # The Return Of Dash Berlin at The XOX Arena Arch Galeries
 
-The Return Of Dash Berlin at The XOX Arena Arch Galeries on Fri 30 Oct, Kualalumpur. 1 act on the bill: Dash Berlin. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+The Return Of Dash Berlin at The XOX Arena Arch Galeries on Fri 30 Oct, Kuala Lumpur. 1 artist on the bill: Dash Berlin. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # tINI at Moon Club
 
-tINI at Moon Club on Fri 11 Dec, Bristol. 1 act on the bill: tINI. House. Preview the line-up and save it on soundcheck.
+tINI at Moon Club on Fri 11 Dec, Bristol. 1 artist on the bill: tINI. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

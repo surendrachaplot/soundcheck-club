@@ -1,6 +1,6 @@
 # fruitwerk with special guest Lucy Grey at Kazimier Garden
 
-fruitwerk with special guest Lucy Grey at Kazimier Garden on Fri 25 Sept, Liverpool. 3 acts on the bill: aaypea, Lucy Grey and polymaas. House and New Wave. Preview the line-up and save it on soundcheck.
+fruitwerk with special guest Lucy Grey at Kazimier Garden on Fri 25 Sept, Liverpool. 3 artists on the bill: aaypea, Lucy Grey and polymaas. House and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

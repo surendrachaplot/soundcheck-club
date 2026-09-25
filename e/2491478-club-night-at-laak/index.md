@@ -1,6 +1,6 @@
 # Club Night at Laak
 
-Club Night at Laak on Fri 20 Nov, Thehague. Preview the line-up and save it on soundcheck.
+Club Night at Laak on Fri 20 Nov, The Hague. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

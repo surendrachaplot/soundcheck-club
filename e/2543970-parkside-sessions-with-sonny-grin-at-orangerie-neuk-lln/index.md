@@ -1,6 +1,6 @@
 # Parkside Sessions with Sonny Grin at Orangerie Neukölln
 
-Parkside Sessions with Sonny Grin at Orangerie Neukölln on Tue 6 Oct, Berlin. 1 act on the bill: Sonny Grin. House and Jazz. Preview the line-up and save it on soundcheck.
+Parkside Sessions with Sonny Grin at Orangerie Neukölln on Tue 6 Oct, Berlin. 1 artist on the bill: Sonny Grin. House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

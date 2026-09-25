@@ -2,7 +2,7 @@
 
 Jack D is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Green Room NYC, New York City on Thu, 24 Sept 2026.
 
-Jack D is a house and techno artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 9 more. Often billed alongside The Ghost, DJ Pipe and Josh Tweek. Next up: Green Room NYC, Newyorkcity on Thu 24 Sept.
+Jack D is a house and techno artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 9 more. Often billed alongside The Ghost, DJ Pipe and Josh Tweek. Next up: Green Room NYC, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

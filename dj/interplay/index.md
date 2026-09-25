@@ -2,7 +2,7 @@
 
 Interplay is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Wirtshaus Heimliche Liebe, Dortmund-essen on Sat, 26 Sept 2026.
 
-Interplay is a house and progressive house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Cologne and Dortmund-essen. Often billed alongside Phil2, Cosanne and Costanza. Next up: Wirtshaus Heimliche Liebe, Dortmund-essen on Sat 26 Sept.
+Interplay is a house and progressive house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Cologne and Dortmund Essen. Often billed alongside Phil2, Cosanne and Costanza. Next up: Wirtshaus Heimliche Liebe, Dortmund Essen on Sat 26 Sept.
 
 ## Upcoming shows
 

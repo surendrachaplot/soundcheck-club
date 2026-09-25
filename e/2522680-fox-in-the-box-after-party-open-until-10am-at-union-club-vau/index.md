@@ -1,6 +1,6 @@
 # FOX IN THE BOX AFTER PARTY (OPEN UNTIL 10AM) at Union Club, Vauxhall
 
-FOX IN THE BOX AFTER PARTY (OPEN UNTIL 10AM) at Union Club, Vauxhall on Fri 25 Sept, London. 2 acts on the bill: Enrico Chirchiello and PERILOUS P. Techno and Tech House. Preview the line-up and save it on soundcheck.
+FOX IN THE BOX AFTER PARTY (OPEN UNTIL 10AM) at Union Club, Vauxhall on Fri 25 Sept, London. 2 artists on the bill: Enrico Chirchiello and PERILOUS P. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

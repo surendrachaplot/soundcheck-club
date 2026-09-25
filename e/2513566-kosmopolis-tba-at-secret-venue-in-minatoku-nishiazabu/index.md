@@ -1,6 +1,6 @@
 # Kosmopolis - TBA at Secret Venue in Minatoku-Nishiazabu
 
-Kosmopolis - TBA at Secret Venue in Minatoku-Nishiazabu on Sat 14 Nov, Tokyo. 1 act on the bill: Neutran. Experimental. Preview the line-up and save it on soundcheck.
+Kosmopolis - TBA at Secret Venue in Minatoku-Nishiazabu on Sat 14 Nov, Tokyo. 1 artist on the bill: Neutran. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

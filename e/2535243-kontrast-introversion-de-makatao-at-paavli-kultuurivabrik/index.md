@@ -1,6 +1,6 @@
 # KONTRAST: Introversion ( DE / Makatao ) at Paavli Kultuurivabrik
 
-KONTRAST: Introversion ( DE / Makatao ) at Paavli Kultuurivabrik on Fri 23 Oct, Tallinn. 3 acts on the bill: Ekitech, Introversion and Micaela Saraceno. Techno and House. Preview the line-up and save it on soundcheck.
+KONTRAST: Introversion ( DE / Makatao ) at Paavli Kultuurivabrik on Fri 23 Oct, Tallinn. 3 artists on the bill: Ekitech, Introversion and Micaela Saraceno. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

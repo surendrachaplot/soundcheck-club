@@ -1,6 +1,6 @@
 # SIGNAL presents Fatima Hajji at O der Klub
 
-SIGNAL presents Fatima Hajji at O der Klub on Fri 13 Nov, Vienna. 1 act on the bill: Fatima Hajji. Techno. Preview the line-up and save it on soundcheck.
+SIGNAL presents Fatima Hajji at O der Klub on Fri 13 Nov, Vienna. 1 artist on the bill: Fatima Hajji. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

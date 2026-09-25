@@ -1,6 +1,6 @@
 # pressure control x The Loft: DJ Masda, Alexia Glensy & Josh Bayat at The Loft
 
-pressure control x The Loft: DJ Masda, Alexia Glensy & Josh Bayat on Fri 20 Nov, Manchester. 3 acts on the bill: Alexia Glensy, DJ Masda and Josh Bayat. Preview the line-up and save it on soundcheck.
+pressure control x The Loft: DJ Masda, Alexia Glensy & Josh Bayat on Fri 20 Nov, Manchester. 3 artists on the bill: Alexia Glensy, DJ Masda and Josh Bayat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # presented by WARRIOR  msft. TOKYO SHOW at Circus Tokyo
 
-presented by WARRIOR  msft. TOKYO SHOW at Circus Tokyo on Sat 10 Oct, Tokyo. 1 act on the bill: msft. Bass and Garage. Preview the line-up and save it on soundcheck.
+presented by WARRIOR  msft. TOKYO SHOW at Circus Tokyo on Sat 10 Oct, Tokyo. 1 artist on the bill: msft. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

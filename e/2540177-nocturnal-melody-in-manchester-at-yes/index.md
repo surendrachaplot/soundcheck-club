@@ -1,6 +1,6 @@
 # Nocturnal Melody in Manchester at Yes
 
-Nocturnal Melody in Manchester at Yes on Fri 9 Oct, Manchester. 3 acts on the bill: KD22LR, Kekeneko and MALVADØNA. Club. Preview the line-up and save it on soundcheck.
+Nocturnal Melody in Manchester at Yes on Fri 9 Oct, Manchester. 3 artists on the bill: KD22LR, Kekeneko and MALVADØNA. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

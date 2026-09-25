@@ -1,6 +1,6 @@
 # Love On The Rocks - ADE 2026 - Klaproos at Klaproos
 
-Love On The Rocks - ADE 2026 - Klaproos on Fri 23 Oct, Amsterdam. 13 acts on the bill: Alexia Glensy, BASHKKA, Cassy and Fais Le Beau and 9 more. House. Preview the line-up and save it on soundcheck.
+Love On The Rocks - ADE 2026 - Klaproos on Fri 23 Oct, Amsterdam. 13 artists on the bill: Alexia Glensy, BASHKKA, Cassy and Fais Le Beau and 9 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

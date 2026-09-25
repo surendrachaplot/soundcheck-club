@@ -1,6 +1,6 @@
 # Post Bar — Denzel & Joni DJ at Post Bar
 
-Post Bar — Denzel & Joni DJ on Sat 10 Oct, Helsinki. 2 acts on the bill: Denzel and Joni DJ. House and Dub. Preview the line-up and save it on soundcheck.
+Post Bar — Denzel & Joni DJ on Sat 10 Oct, Helsinki. 2 artists on the bill: Denzel and Joni DJ. House and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

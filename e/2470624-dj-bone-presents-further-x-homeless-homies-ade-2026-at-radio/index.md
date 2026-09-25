@@ -1,6 +1,6 @@
 # DJ Bone presents: FURTHER x Homeless Homies ADE 2026 at RADION
 
-DJ Bone presents: FURTHER x Homeless Homies ADE 2026 at RADION on Fri 23 Oct, Amsterdam. 33 acts on the bill: Alan Fitzpatrick, Anja Schneider, Anz and Billy Nasty and 29 more. Techno and House. Preview the line-up and save it on soundcheck.
+DJ Bone presents: FURTHER x Homeless Homies ADE 2026 at RADION on Fri 23 Oct, Amsterdam. 33 artists on the bill: Alan Fitzpatrick, Anja Schneider, Anz and Billy Nasty and 29 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

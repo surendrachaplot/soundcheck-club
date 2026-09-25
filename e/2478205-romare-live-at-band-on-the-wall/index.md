@@ -1,6 +1,6 @@
 # Romare (Live) at Band on the Wall
 
-Romare (Live) at Band on the Wall on Thu 5 Nov, Manchester. 1 act on the bill: Romare. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+Romare (Live) at Band on the Wall on Thu 5 Nov, Manchester. 1 artist on the bill: Romare. Jazz and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

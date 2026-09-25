@@ -1,6 +1,6 @@
 # Doruksen & Orbi - İSTANBUL at 74 Hall
 
-Doruksen & Orbi - İSTANBUL at 74 Hall on Sat 10 Oct, Istanbul. 2 acts on the bill: Doruksen and Orbi. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Doruksen & Orbi - İSTANBUL at 74 Hall on Sat 10 Oct, Istanbul. 2 artists on the bill: Doruksen and Orbi. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

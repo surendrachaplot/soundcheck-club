@@ -1,6 +1,6 @@
 # Sturmfrei mit Gaamer & Friends at Minimal Bar
 
-Sturmfrei mit Gaamer & Friends at Minimal Bar on Sat 19 Dec, Berlin. 1 act on the bill: Gaamer. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Sturmfrei mit Gaamer & Friends at Minimal Bar on Sat 19 Dec, Berlin. 1 artist on the bill: Gaamer. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

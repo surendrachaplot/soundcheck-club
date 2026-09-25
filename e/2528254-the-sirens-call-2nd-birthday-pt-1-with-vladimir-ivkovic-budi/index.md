@@ -1,6 +1,6 @@
 # The Sirens Call 2nd Birthday (Pt.1) with Vladimir Ivkovic & Budino, Liverpool at Kapsule
 
-The Sirens Call 2nd Birthday (Pt.1) with Vladimir Ivkovic & Budino, Liverpool at Kapsule on Fri 23 Oct, Liverpool. 2 acts on the bill: Budino and Vladimir Ivkovic. House and Italo Disco. Preview the line-up and save it on soundcheck.
+The Sirens Call 2nd Birthday (Pt.1) with Vladimir Ivkovic & Budino, Liverpool at Kapsule on Fri 23 Oct, Liverpool. 2 artists on the bill: Budino and Vladimir Ivkovic. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

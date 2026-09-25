@@ -1,6 +1,6 @@
 # Madeon (Live) with Anamanaguchi at Echostage
 
-Madeon (Live) with Anamanaguchi at Echostage on Sat 7 Nov, Washingtondc. Electro and Pop. Preview the line-up and save it on soundcheck.
+Madeon (Live) with Anamanaguchi at Echostage on Sat 7 Nov, Washington DC. Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

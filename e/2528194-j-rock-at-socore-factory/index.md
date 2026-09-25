@@ -1,6 +1,6 @@
 # J-ROCK大作戦 其ノ捨漆 at Socore Factory
 
-J-ROCK大作戦 其ノ捨漆 at Socore Factory on Sun 18 Oct, Osaka. 2 acts on the bill: MIYUKI and Shota. Pop. Preview the line-up and save it on soundcheck.
+J-ROCK大作戦 其ノ捨漆 at Socore Factory on Sun 18 Oct, Osaka. 2 artists on the bill: MIYUKI and Shota. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

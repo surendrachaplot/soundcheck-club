@@ -1,6 +1,6 @@
 # Yellow Mellow Invites: Legowelt at Hoppetosse
 
-Yellow Mellow Invites: Legowelt at Hoppetosse on Sat 3 Oct, Berlin. 5 acts on the bill: Legowelt, Purita D, St.Eggs and Stamina (DE) and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+Yellow Mellow Invites: Legowelt at Hoppetosse on Sat 3 Oct, Berlin. 5 artists on the bill: Legowelt, Purita D, St.Eggs and Stamina (DE) and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

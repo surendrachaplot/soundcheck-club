@@ -1,6 +1,6 @@
 # The Witching Hours with Evil Woman + Kay Fabe [All Night Long] at The Model
 
-The Witching Hours with Evil Woman + Kay Fabe [All Night Long] at The Model on Fri 16 Oct, Nottingham. 2 acts on the bill: Evil Woman and Kay Fabe. Tech House and EBM. Preview the line-up and save it on soundcheck.
+The Witching Hours with Evil Woman + Kay Fabe [All Night Long] at The Model on Fri 16 Oct, Nottingham. 2 artists on the bill: Evil Woman and Kay Fabe. Tech House and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

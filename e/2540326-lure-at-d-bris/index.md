@@ -1,6 +1,6 @@
 # LURE at Débris
 
-LURE at Débris on Fri 25 Sept, Tokyo. 3 acts on the bill: Saeri, SARA and YUKI (JP). Techno and House. Preview the line-up and save it on soundcheck.
+LURE at Débris on Fri 25 Sept, Tokyo. 3 artists on the bill: Saeri, SARA and YUKI (JP). Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

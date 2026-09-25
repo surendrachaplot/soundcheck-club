@@ -1,6 +1,6 @@
 # Dosem presents 'Passion' at UNLOCKED
 
-Dosem presents 'Passion' at UNLOCKED on Sat 17 Oct, London. 3 acts on the bill: Alythia Kwan, Dosem and My Friend. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Dosem presents 'Passion' at UNLOCKED on Sat 17 Oct, London. 3 artists on the bill: Alythia Kwan, Dosem and My Friend. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

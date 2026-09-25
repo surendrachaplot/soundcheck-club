@@ -1,6 +1,6 @@
 # Divination feat. Spekki Webu [All Night Long] at Sub Club Melbourne
 
-Divination feat. Spekki Webu [All Night Long] at Sub Club Melbourne on Sat 26 Sept, Melbourne. 1 act on the bill: Spekki Webu. Techno and Ambient. Preview the line-up and save it on soundcheck.
+Divination feat. Spekki Webu [All Night Long] at Sub Club Melbourne on Sat 26 Sept, Melbourne. 1 artist on the bill: Spekki Webu. Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

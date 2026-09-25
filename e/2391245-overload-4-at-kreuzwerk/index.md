@@ -1,6 +1,6 @@
 # OVERLOAD #4 at KREUZWERK
 
-OVERLOAD #4 at KREUZWERK on Fri 25 Sept, Berlin. 8 acts on the bill: Andrew Moore, Buday, Darren Black and ENGALANAN and 4 more. Preview the line-up and save it on soundcheck.
+OVERLOAD #4 at KREUZWERK on Fri 25 Sept, Berlin. 8 artists on the bill: Andrew Moore, Buday, Darren Black and ENGALANAN and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

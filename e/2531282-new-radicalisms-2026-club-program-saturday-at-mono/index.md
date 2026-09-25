@@ -1,6 +1,6 @@
 # New Radicalisms 2026 - Club program Saturday at Mono
 
-New Radicalisms 2026 - Club program Saturday at Mono on Sat 26 Sept, Rotterdam. 5 acts on the bill: ABADIR, AYEDA, Cheb Runner and Deena Abdelwahed and 1 more. Preview the line-up and save it on soundcheck.
+New Radicalisms 2026 - Club program Saturday at Mono on Sat 26 Sept, Rotterdam. 5 artists on the bill: ABADIR, AYEDA, Cheb Runner and Deena Abdelwahed and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Paloma Invites at Paloma
 
-Paloma Invites on Sat 26 Sept, Berlin. 2 acts on the bill: Benjamin Roeder and sianza. Preview the line-up and save it on soundcheck.
+Paloma Invites on Sat 26 Sept, Berlin. 2 artists on the bill: Benjamin Roeder and sianza. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

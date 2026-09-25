@@ -1,6 +1,6 @@
 # RED EYE - PROGRESSIVE-MELODIC-HOUSE at Hoxton Cabin
 
-RED EYE - PROGRESSIVE-MELODIC-HOUSE at Hoxton Cabin on Sat 26 Sept, London. 3 acts on the bill: Cecilia Ena, hisnameisevgeni and Jesus RedSoul. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+RED EYE - PROGRESSIVE-MELODIC-HOUSE at Hoxton Cabin on Sat 26 Sept, London. 3 artists on the bill: Cecilia Ena, hisnameisevgeni and Jesus RedSoul. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

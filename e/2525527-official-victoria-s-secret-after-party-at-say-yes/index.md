@@ -1,6 +1,6 @@
 # Official Victoria's Secret After Party at Say Yes
 
-Official Victoria's Secret After Party at Say Yes on Sun 18 Oct, Losangeles. House. Preview the line-up and save it on soundcheck.
+Official Victoria's Secret After Party at Say Yes on Sun 18 Oct, Los Angeles. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

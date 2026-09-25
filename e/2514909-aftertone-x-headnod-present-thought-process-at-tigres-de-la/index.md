@@ -1,6 +1,6 @@
 # Aftertone x Headnod present: Thought Process at Tigres de la Noche
 
-Aftertone x Headnod present: Thought Process at Tigres de la Noche on Thu 19 Nov, Washingtondc. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Aftertone x Headnod present: Thought Process at Tigres de la Noche on Thu 19 Nov, Washington DC. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

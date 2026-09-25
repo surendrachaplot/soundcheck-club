@@ -1,6 +1,6 @@
 # DJ Spinn, BMLé BMLé, Tempest at Garage Noord
 
-DJ Spinn, BMLé BMLé, Tempest at Garage Noord on Sat 3 Oct, Amsterdam. 1 act on the bill: DJ Spinn. Preview the line-up and save it on soundcheck.
+DJ Spinn, BMLé BMLé, Tempest at Garage Noord on Sat 3 Oct, Amsterdam. 1 artist on the bill: DJ Spinn. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

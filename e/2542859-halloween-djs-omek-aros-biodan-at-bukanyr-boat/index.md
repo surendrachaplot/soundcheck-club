@@ -1,6 +1,6 @@
 # Halloween - djs Omek, aros, Biodan at Bukanyr Boat
 
-Halloween - djs Omek, aros, Biodan at Bukanyr Boat on Sat 31 Oct, Prague. 3 acts on the bill: aros, Biodan and Omek. Techno and House. Preview the line-up and save it on soundcheck.
+Halloween - djs Omek, aros, Biodan at Bukanyr Boat on Sat 31 Oct, Prague. 3 artists on the bill: aros, Biodan and Omek. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

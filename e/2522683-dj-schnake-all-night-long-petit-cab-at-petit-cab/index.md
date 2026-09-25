@@ -1,6 +1,6 @@
 # DJ Schnake [All Night Long] @ Petit Cab at Petit CAB
 
-DJ Schnake [All Night Long] @ Petit Cab at Petit CAB on Sat 19 Dec, Marseille. 1 act on the bill: Dj Schnake. Hardcore. Preview the line-up and save it on soundcheck.
+DJ Schnake [All Night Long] @ Petit Cab at Petit CAB on Sat 19 Dec, Marseille. 1 artist on the bill: Dj Schnake. Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

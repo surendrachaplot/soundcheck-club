@@ -1,6 +1,6 @@
 # MELL G, L.F.T, Psycho Mind Transmission, Saverio Celestri at TBA
 
-MELL G, L.F.T, Psycho Mind Transmission, Saverio Celestri at TBA on Sat 3 Oct, Milan. 4 acts on the bill: DJ MELL G, L.F.T., Psycho Mind Transmission and Saverio Celestri. Electro. Preview the line-up and save it on soundcheck.
+MELL G, L.F.T, Psycho Mind Transmission, Saverio Celestri at TBA on Sat 3 Oct, Milan. 4 artists on the bill: DJ MELL G, L.F.T., Psycho Mind Transmission and Saverio Celestri. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

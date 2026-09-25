@@ -1,6 +1,6 @@
 # La Aso at La Terrrazza
 
-La Aso at La Terrrazza on Fri 25 Sept, Barcelona. 2 acts on the bill: Danny Daze and Eli Kapowski. House. Preview the line-up and save it on soundcheck.
+La Aso at La Terrrazza on Fri 25 Sept, Barcelona. 2 artists on the bill: Danny Daze and Eli Kapowski. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

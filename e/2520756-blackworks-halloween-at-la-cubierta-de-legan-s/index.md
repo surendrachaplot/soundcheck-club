@@ -1,6 +1,6 @@
 # BLACKWORKS HALLOWEEN at La Cubierta de Leganés
 
-BLACKWORKS HALLOWEEN at La Cubierta de Leganés on Sat 31 Oct, Madrid. 1 act on the bill: KARAH. Preview the line-up and save it on soundcheck.
+BLACKWORKS HALLOWEEN at La Cubierta de Leganés on Sat 31 Oct, Madrid. 1 artist on the bill: KARAH. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

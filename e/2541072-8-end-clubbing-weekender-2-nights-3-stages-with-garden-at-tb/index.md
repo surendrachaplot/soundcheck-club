@@ -1,6 +1,6 @@
 # [8]: END*** CLUBBING WEEKENDER [2 NIGHTS 3 STAGES with GARDEN] at TBA - WARSCHAUER PLATZ 18 10245 BERLIN
 
-[8]: END*** CLUBBING WEEKENDER [2 NIGHTS 3 STAGES with GARDEN] at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Fri 2 Oct, Berlin. 31 acts on the bill: Aliar, Angel Cat, Anthracene and Arthur M and 27 more. Experimental and Club. Preview the line-up and save it on soundcheck.
+[8]: END*** CLUBBING WEEKENDER [2 NIGHTS 3 STAGES with GARDEN] at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Fri 2 Oct, Berlin. 31 artists on the bill: Aliar, Angel Cat, Anthracene and Arthur M and 27 more. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

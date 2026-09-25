@@ -1,6 +1,6 @@
 # UND3RT3MPL3 x Musique de Lune present Pole Folder at Akhnaton
 
-UND3RT3MPL3 x Musique de Lune present Pole Folder at Akhnaton on Sat 24 Oct, Amsterdam. 6 acts on the bill: Danae (NL), David J Newton, Jaap Ligthart and Oscar Rosmano and 2 more. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
+UND3RT3MPL3 x Musique de Lune present Pole Folder at Akhnaton on Sat 24 Oct, Amsterdam. 6 artists on the bill: Danae (NL), David J Newton, Jaap Ligthart and Oscar Rosmano and 2 more. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

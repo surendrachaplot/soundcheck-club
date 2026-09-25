@@ -1,8 +1,8 @@
 # Lady Shaka
 
-Lady Shaka is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Lady Shaka is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
-Lady Shaka is a house and techno artist based in New Zealand, tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside nasthug, ryota dj and Arthi. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+Lady Shaka is a house and techno artist based in New Zealand, tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside nasthug, ryota dj and Arthi. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lady Shaka is a house and techno artist based in New Zealand, tracked on soundch
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |
+| Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
 
 ## Recently played
 

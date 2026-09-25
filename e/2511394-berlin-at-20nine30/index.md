@@ -1,6 +1,6 @@
 # ШЩЦ: Berlin at 20nine30
 
-ШЩЦ: Berlin at 20nine30 on Fri 2 Oct, Berlin. 2 acts on the bill: Chaosy and e03 (1). Ambient and Experimental. Preview the line-up and save it on soundcheck.
+ШЩЦ: Berlin at 20nine30 on Fri 2 Oct, Berlin. 2 artists on the bill: Chaosy and e03. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

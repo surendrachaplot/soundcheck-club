@@ -1,6 +1,6 @@
 # ZAZU presents: SOLÈY by Francis Mercier at Afas Live
 
-ZAZU presents: SOLÈY by Francis Mercier at Afas Live on Sat 24 Oct, Amsterdam. 11 acts on the bill: Afrojack, AJNA, Bun Xapa and Da Capo and 7 more. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+ZAZU presents: SOLÈY by Francis Mercier at Afas Live on Sat 24 Oct, Amsterdam. 11 artists on the bill: Afrojack, AJNA, Bun Xapa and Da Capo and 7 more. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

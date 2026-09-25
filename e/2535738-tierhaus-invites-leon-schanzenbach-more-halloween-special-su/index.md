@@ -1,6 +1,6 @@
 # Tierhaus invites Leon Schanzenbach + more: Halloween special @ Summerall, Newington at Summerhall
 
-Tierhaus invites Leon Schanzenbach + more: Halloween special @ Summerall, Newington at Summerhall on Sat 31 Oct, Edinburgh. 1 act on the bill: LEON SCHANZENBACH. Techno and House. Preview the line-up and save it on soundcheck.
+Tierhaus invites Leon Schanzenbach + more: Halloween special @ Summerall, Newington at Summerhall on Sat 31 Oct, Edinburgh. 1 artist on the bill: LEON SCHANZENBACH. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

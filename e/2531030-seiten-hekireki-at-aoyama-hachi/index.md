@@ -1,6 +1,6 @@
 # 青天霹靂 Seiten-hekireki at Aoyama Hachi
 
-青天霹靂 Seiten-hekireki at Aoyama Hachi on Mon 12 Oct, Tokyo. 2 acts on the bill: MagRena and Yamashina. House and Electro. Preview the line-up and save it on soundcheck.
+青天霹靂 Seiten-hekireki at Aoyama Hachi on Mon 12 Oct, Tokyo. 2 artists on the bill: MagRena and Yamashina. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

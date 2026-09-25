@@ -1,6 +1,6 @@
 # Bratcity: MADDOG ALL NIGHT LONG at Middlesex Lounge
 
-Bratcity: MADDOG ALL NIGHT LONG at Middlesex Lounge on Thu 24 Sept, Boston. 1 act on the bill: DJ maddog. Bass and Club. Preview the line-up and save it on soundcheck.
+Bratcity: MADDOG ALL NIGHT LONG at Middlesex Lounge on Thu 24 Sept, Boston. 1 artist on the bill: DJ maddog. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

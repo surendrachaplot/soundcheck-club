@@ -1,6 +1,6 @@
 # Crossy presents: The Breakthrough - Leeds at Beaver Works
 
-Crossy presents: The Breakthrough - Leeds at Beaver Works on Sat 21 Nov, Leeds. 1 act on the bill: Crossy. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Crossy presents: The Breakthrough - Leeds at Beaver Works on Sat 21 Nov, Leeds. 1 artist on the bill: Crossy. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NUSAR3000 at Astro Cdmx
 
-NUSAR3000 at Astro Cdmx on Fri 2 Oct, Mexicocity. 3 acts on the bill: Babybruise, EL NICK DGO and Nusar3000. Preview the line-up and save it on soundcheck.
+NUSAR3000 at Astro Cdmx on Fri 2 Oct, Mexico City. 3 artists on the bill: Babybruise, EL NICK DGO and Nusar3000. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # D'EAUPE Rotterdam at Sahara
 
-D'EAUPE Rotterdam at Sahara on Sat 3 Oct, Rotterdam. 3 acts on the bill: Juliana X, RAINVILLE and Shermanology. House and Tech House. Preview the line-up and save it on soundcheck.
+D'EAUPE Rotterdam at Sahara on Sat 3 Oct, Rotterdam. 3 artists on the bill: Juliana X, RAINVILLE and Shermanology. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

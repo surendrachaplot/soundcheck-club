@@ -1,6 +1,6 @@
 # AFTERJAM [04]: MANCHESTER at Amber's
 
-AFTERJAM [04]: MANCHESTER at Amber's on Sat 7 Nov, Manchester. 3 acts on the bill: HALFPINT, Jamback and Mya (1). House and Tech House. Preview the line-up and save it on soundcheck.
+AFTERJAM [04]: MANCHESTER at Amber's on Sat 7 Nov, Manchester. 3 artists on the bill: HALFPINT, Jamback and Mya. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,15 +1,15 @@
 # Black Sun Empire
 
-Black Sun Empire is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Postgarage, All on Fri, 2 Oct 2026.
+Black Sun Empire is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Postgarage, Austria on Fri, 2 Oct 2026.
 
-Black Sun Empire is a drum & bass and bass artist based in Netherlands, tracked on soundcheck, with 58 sets logged across All, Amsterdam, Antwerp and Athens and 22 more. Often billed alongside Camo & Krooked, Mefjus and Pythius. Next up: Postgarage, All on Fri 2 Oct.
+Black Sun Empire is a drum & bass and bass artist based in Netherlands, tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Athens and Auckland and 23 more. Often billed alongside Camo & Krooked, Mefjus and Pythius. Next up: Postgarage, Austria on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Postgarage | All |
-| Fri, 30 Oct 2026 | Graanfabriek | All |
+| Fri, 2 Oct 2026 | Postgarage | Austria |
+| Fri, 30 Oct 2026 | Graanfabriek | Netherlands |
 | Sat, 14 Nov 2026 | Gretchen | Berlin |
 
 ## Recently played

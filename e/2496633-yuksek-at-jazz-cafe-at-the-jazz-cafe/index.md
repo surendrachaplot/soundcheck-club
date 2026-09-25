@@ -1,6 +1,6 @@
 # Yuksek at Jazz Cafe at The Jazz Cafe
 
-Yuksek at Jazz Cafe at The Jazz Cafe on Sat 19 Dec, London. 1 act on the bill: Yuksek. Preview the line-up and save it on soundcheck.
+Yuksek at Jazz Cafe at The Jazz Cafe on Sat 19 Dec, London. 1 artist on the bill: Yuksek. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

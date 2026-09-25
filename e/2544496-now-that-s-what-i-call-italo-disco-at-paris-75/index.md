@@ -1,6 +1,6 @@
 # Now That's What I Call Italo-Disco at Paris 75
 
-Now That's What I Call Italo-Disco at Paris 75 on Fri 16 Oct, Sanfrancisco. 2 acts on the bill: DJ PlayStation and Infinite Jess. Italo Disco. Preview the line-up and save it on soundcheck.
+Now That's What I Call Italo-Disco at Paris 75 on Fri 16 Oct, San Francisco/Oakland. 2 artists on the bill: DJ PlayStation and Infinite Jess. Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 3hd 2026: Beyond Imagining at Berlinische Galerie
 
-3hd 2026: Beyond Imagining at Berlinische Galerie on Thu 29 Oct, Berlin. 1 act on the bill: NAS TEA. Experimental. Preview the line-up and save it on soundcheck.
+3hd 2026: Beyond Imagining at Berlinische Galerie on Thu 29 Oct, Berlin. 1 artist on the bill: NAS TEA. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

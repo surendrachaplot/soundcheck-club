@@ -2,7 +2,7 @@
 
 Rumores Speakeasy Cdmx is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Trance in Ya Pants" on Sat, 26 Sept 2026.
 
-Rumores Speakeasy Cdmx is a music venue in Mexicocity listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 1839, Guadalupe Inn, Álvaro Obregón, 01020 Ciudad de México, CDMX.
+Rumores Speakeasy Cdmx is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 1839, Guadalupe Inn, Álvaro Obregón, 01020 Ciudad de México, CDMX.
 
 ## What's on
 

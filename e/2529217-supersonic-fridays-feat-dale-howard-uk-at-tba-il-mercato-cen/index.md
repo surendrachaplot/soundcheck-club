@@ -1,6 +1,6 @@
 # SUPERSONIC FRIDAYS feat. Dale Howard (UK) at TBA - Il Mercato Centrale
 
-SUPERSONIC FRIDAYS feat. Dale Howard (UK) at TBA - Il Mercato Centrale on Fri 2 Oct, Melbourne. 4 acts on the bill: Dale Howard, GavWhitehouse, Matteo Freyrie and Max Glyde. Tech House and UK Funky. Preview the line-up and save it on soundcheck.
+SUPERSONIC FRIDAYS feat. Dale Howard (UK) at TBA - Il Mercato Centrale on Fri 2 Oct, Melbourne. 4 artists on the bill: Dale Howard, GavWhitehouse, Matteo Freyrie and Max Glyde. Tech House and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

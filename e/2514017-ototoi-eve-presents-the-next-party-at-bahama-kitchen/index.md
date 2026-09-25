@@ -1,6 +1,6 @@
 # Ototoi Eve presents: The Next Party at Bahama Kitchen
 
-Ototoi Eve presents: The Next Party at Bahama Kitchen on Sat 26 Sept, Tokyo. 3 acts on the bill: MagRena, Tomerle and Yuki Kakuno. House and Electro. Preview the line-up and save it on soundcheck.
+Ototoi Eve presents: The Next Party at Bahama Kitchen on Sat 26 Sept, Tokyo. 3 artists on the bill: MagRena, Tomerle and Yuki Kakuno. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TIFLISO's Supra X Textilgyar at Textilgyár
 
-TIFLISO's Supra X Textilgyar at Textilgyár on Sat 10 Oct, Budapest. 7 acts on the bill: CRB, Kiqo, Kozma and PiNK HARMONY and 3 more. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+TIFLISO's Supra X Textilgyar at Textilgyár on Sat 10 Oct, Budapest. 7 artists on the bill: CRB, Kiqo, Kozma and PiNK HARMONY and 3 more. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

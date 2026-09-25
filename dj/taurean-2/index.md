@@ -2,7 +2,7 @@
 
 TAUREAN (2) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bike Jesus, Prague on Fri, 9 Oct 2026.
 
-TAUREAN (2) is a techno and house artist based in Ireland, tracked on soundcheck, with 51 sets logged across Berlin, Cork, Dublin and Prague. Often billed alongside JenTen, The Camel and Ayham. Next up: Bike Jesus, Prague on Fri 9 Oct.
+TAUREAN is a techno and house artist based in Ireland, tracked on soundcheck, with 51 sets logged across Berlin, Cork, Dublin and Prague. Often billed alongside JenTen, The Camel and Ayham. Next up: Bike Jesus, Prague on Fri 9 Oct.
 
 ## Upcoming shows
 

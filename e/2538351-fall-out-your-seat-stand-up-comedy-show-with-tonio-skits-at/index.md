@@ -1,6 +1,6 @@
 # Fall Out Your Seat Stand Up Comedy Show with TONIO SKITS at The Comic Strip (Comic Strip Live)
 
-Fall Out Your Seat Stand Up Comedy Show with TONIO SKITS at The Comic Strip (Comic Strip Live) on Fri 25 Sept, Newyorkcity. 1 act on the bill: DJ E.M.. Preview the line-up and save it on soundcheck.
+Fall Out Your Seat Stand Up Comedy Show with TONIO SKITS at The Comic Strip (Comic Strip Live) on Fri 25 Sept, New York City. 1 artist on the bill: DJ E.M.. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

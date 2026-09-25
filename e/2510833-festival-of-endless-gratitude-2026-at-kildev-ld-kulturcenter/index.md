@@ -1,6 +1,6 @@
 # Festival of Endless Gratitude 2026 at Kildevæld Kulturcenter
 
-Festival of Endless Gratitude 2026 at Kildevæld Kulturcenter on Thu 24 Sept, Copenhagen. 6 acts on the bill: Ex Continent, Felisha Ledesma, Gush and Laila Sakini and 2 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Festival of Endless Gratitude 2026 at Kildevæld Kulturcenter on Thu 24 Sept, Copenhagen. 6 artists on the bill: Ex Continent, Felisha Ledesma, Gush and Laila Sakini and 2 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

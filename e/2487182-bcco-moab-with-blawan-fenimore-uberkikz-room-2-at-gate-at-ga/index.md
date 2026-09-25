@@ -1,6 +1,6 @@
 # BCCO & MOAB with Blawan , Fenimore, Uberkikz + Room 2 at GATE at Gate Milano
 
-BCCO & MOAB with Blawan , Fenimore, Uberkikz + Room 2 at GATE at Gate Milano on Fri 11 Dec, Milan. 3 acts on the bill: Blawan, FENIM0RE and ÜBERKIKZ. Preview the line-up and save it on soundcheck.
+BCCO & MOAB with Blawan , Fenimore, Uberkikz + Room 2 at GATE at Gate Milano on Fri 11 Dec, Milan. 3 artists on the bill: Blawan, FENIM0RE and ÜBERKIKZ. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

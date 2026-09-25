@@ -1,6 +1,6 @@
 # 'NORTHERN' ROOTZ at Downcast Studios
 
-'NORTHERN' ROOTZ at Downcast Studios on Sat 10 Oct, Newcastle. 2 acts on the bill: DJ BootyShake and PB (UK). Preview the line-up and save it on soundcheck.
+'NORTHERN' ROOTZ at Downcast Studios on Sat 10 Oct, Newcastle. 2 artists on the bill: DJ BootyShake and PB (UK). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 20 years of The Warehouse Project at Shelter Amsterdam
 
-20 years of The Warehouse Project at Shelter Amsterdam on Thu 22 Oct, Amsterdam. 8 acts on the bill: Ewan McVicar, Luke Alessi, Merel Helderman and PHIA and 4 more. House. Preview the line-up and save it on soundcheck.
+20 years of The Warehouse Project at Shelter Amsterdam on Thu 22 Oct, Amsterdam. 8 artists on the bill: Ewan McVicar, Luke Alessi, Merel Helderman and PHIA and 4 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

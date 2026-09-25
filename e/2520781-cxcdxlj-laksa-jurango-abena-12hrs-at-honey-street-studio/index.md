@@ -1,6 +1,6 @@
 # CxCDxLJ: Laksa / Jurango / Abena – [12hrs] at Honey Street Studio
 
-CxCDxLJ: Laksa / Jurango / Abena – [12hrs] at Honey Street Studio on Sat 17 Oct, Manchester. 7 acts on the bill: Abena, April (UK), Esmé and GINA (UK) and 3 more. Bass and Dub. Preview the line-up and save it on soundcheck.
+CxCDxLJ: Laksa / Jurango / Abena – [12hrs] at Honey Street Studio on Sat 17 Oct, Manchester. 7 artists on the bill: Abena, April (UK), Esmé and GINA (UK) and 3 more. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

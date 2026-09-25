@@ -1,6 +1,6 @@
 # 1morning at EQ San Diego
 
-1morning at EQ San Diego on Fri 25 Sept, Sandiego. 2 acts on the bill: 1morning and TAJ (2). Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
+1morning at EQ San Diego on Fri 25 Sept, San Diego. 2 artists on the bill: 1morning and TAJ. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

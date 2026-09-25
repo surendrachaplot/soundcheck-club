@@ -1,6 +1,6 @@
 # 'Some Like It Early' presents: Marcia Carr at Cobalt Studios
 
-'Some Like It Early' presents: Marcia Carr at Cobalt Studios on Sat 21 Nov, Newcastle. 1 act on the bill: Marcia Carr. Preview the line-up and save it on soundcheck.
+'Some Like It Early' presents: Marcia Carr at Cobalt Studios on Sat 21 Nov, Newcastle. 1 artist on the bill: Marcia Carr. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Pepper Recs Label Takeover at Rumbler Bar
 
-Pepper Recs Label Takeover at Rumbler Bar on Fri 23 Oct, Melbourne. 1 act on the bill: DJ Name. House and Dub. Preview the line-up and save it on soundcheck.
+Pepper Recs Label Takeover at Rumbler Bar on Fri 23 Oct, Melbourne. 1 artist on the bill: DJ Name. House and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shelter presents: OG Records at Shelter Amsterdam
 
-Shelter presents: OG Records at Shelter Amsterdam on Fri 13 Nov, Amsterdam. 6 acts on the bill: Helena Lauwaert, lizz.e, Milion and Nathan Homan and 2 more. House. Preview the line-up and save it on soundcheck.
+Shelter presents: OG Records at Shelter Amsterdam on Fri 13 Nov, Amsterdam. 6 artists on the bill: Helena Lauwaert, lizz.e, Milion and Nathan Homan and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

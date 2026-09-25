@@ -1,6 +1,6 @@
 # 'Some Like It Early' presents: Nonna Fab (Live) + Calvin Murta at Cobalt Studios
 
-'Some Like It Early' presents: Nonna Fab (Live) + Calvin Murta at Cobalt Studios on Sat 26 Sept, Newcastle. 2 acts on the bill: Calvin Murta and Nonna Fab. Preview the line-up and save it on soundcheck.
+'Some Like It Early' presents: Nonna Fab (Live) + Calvin Murta at Cobalt Studios on Sat 26 Sept, Newcastle. 2 artists on the bill: Calvin Murta and Nonna Fab. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

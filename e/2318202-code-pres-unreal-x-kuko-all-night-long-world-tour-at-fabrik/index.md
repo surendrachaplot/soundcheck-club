@@ -1,6 +1,6 @@
 # CODE pres. UNREAL x KUKO All Night Long World Tour at Fabrik
 
-CODE pres. UNREAL x KUKO All Night Long World Tour at Fabrik on Sun 11 Oct, Madrid. 1 act on the bill: KUKO. Techno. Preview the line-up and save it on soundcheck.
+CODE pres. UNREAL x KUKO All Night Long World Tour at Fabrik on Sun 11 Oct, Madrid. 1 artist on the bill: KUKO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sinners Sanctuary: $atan's Slutty Sleepover (a bi/pansexual hell rave) at TBA - Wicker Park
 
-Sinners Sanctuary: $atan's Slutty Sleepover (a bi/pansexual hell rave) at TBA - Wicker Park on Sat 26 Sept, Chicago. 4 acts on the bill: BiLatinBby, Jon McCray, Nanoos and Slight. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Sinners Sanctuary: $atan's Slutty Sleepover (a bi/pansexual hell rave) at TBA - Wicker Park on Sat 26 Sept, Chicago. 4 artists on the bill: BiLatinBby, Jon McCray, Nanoos and Slight. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

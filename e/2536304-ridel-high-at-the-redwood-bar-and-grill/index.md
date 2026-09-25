@@ -1,6 +1,6 @@
 # Ridel High at The Redwood Bar And Grill
 
-Ridel High at The Redwood Bar And Grill on Sat 24 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+Ridel High at The Redwood Bar And Grill on Sat 24 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

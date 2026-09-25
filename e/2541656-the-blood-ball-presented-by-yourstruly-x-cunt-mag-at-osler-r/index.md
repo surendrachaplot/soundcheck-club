@@ -1,6 +1,6 @@
 # THE BLOOD BALL presented by YOURSTRULY x Cunt Mag at Osler Records
 
-THE BLOOD BALL presented by YOURSTRULY x Cunt Mag at Osler Records on Sat 31 Oct, Toronto. 4 acts on the bill: HYMZ, Jaime Sin, Yao Yao and Young Teesh. House and Electro. Preview the line-up and save it on soundcheck.
+THE BLOOD BALL presented by YOURSTRULY x Cunt Mag at Osler Records on Sat 31 Oct, Toronto. 4 artists on the bill: HYMZ, Jaime Sin, Yao Yao and Young Teesh. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

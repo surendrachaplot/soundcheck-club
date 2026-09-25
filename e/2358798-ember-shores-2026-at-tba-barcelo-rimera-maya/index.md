@@ -1,6 +1,6 @@
 # Ember Shores 2026 at TBA - Barcelo Rimera Maya
 
-Ember Shores 2026 at TBA - Barcelo Rimera Maya on Fri 20 Nov, Mexicocity. Preview the line-up and save it on soundcheck.
+Ember Shores 2026 at TBA - Barcelo Rimera Maya on Fri 20 Nov, Mexico City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

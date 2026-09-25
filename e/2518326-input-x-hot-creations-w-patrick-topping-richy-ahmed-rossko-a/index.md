@@ -1,6 +1,6 @@
 # INPUT x HOT CREATIONS w/ Patrick Topping + Richy Ahmed + Rossko at Seaseaclub Barcelona
 
-INPUT x HOT CREATIONS w/ Patrick Topping + Richy Ahmed + Rossko at Seaseaclub Barcelona on Sat 17 Oct, Barcelona. 4 acts on the bill: Max Haas, Patrick Topping, Richy Ahmed and Rossko. House and Tech House. Preview the line-up and save it on soundcheck.
+INPUT x HOT CREATIONS w/ Patrick Topping + Richy Ahmed + Rossko at Seaseaclub Barcelona on Sat 17 Oct, Barcelona. 4 artists on the bill: Max Haas, Patrick Topping, Richy Ahmed and Rossko. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

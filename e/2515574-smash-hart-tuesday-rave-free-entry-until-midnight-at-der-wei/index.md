@@ -1,6 +1,6 @@
 # Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] at Der Weiße Hase
 
-Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] at Der Weiße Hase on Tue 27 Oct, Berlin. 2 acts on the bill: JUICY (DE) and MARRE. Trance and Techno. Preview the line-up and save it on soundcheck.
+Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] at Der Weiße Hase on Tue 27 Oct, Berlin. 2 artists on the bill: JUICY (DE) and MARRE. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

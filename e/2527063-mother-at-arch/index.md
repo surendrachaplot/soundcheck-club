@@ -1,6 +1,6 @@
 # MOTHER at Arch
 
-MOTHER at Arch on Fri 16 Oct, Tokyo. 1 act on the bill: MAXIM (8). House. Preview the line-up and save it on soundcheck.
+MOTHER at Arch on Fri 16 Oct, Tokyo. 1 artist on the bill: MAXIM. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

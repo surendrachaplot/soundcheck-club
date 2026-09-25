@@ -1,6 +1,6 @@
 # Dimitri K x Yoshiko at Epic Prague
 
-Dimitri K x Yoshiko at Epic Prague on Fri 11 Dec, Prague. 2 acts on the bill: Dimitri K and Yoshiko. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Dimitri K x Yoshiko at Epic Prague on Fri 11 Dec, Prague. 2 artists on the bill: Dimitri K and Yoshiko. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

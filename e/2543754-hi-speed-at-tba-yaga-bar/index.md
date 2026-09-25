@@ -1,6 +1,6 @@
 # Hi-SPEED at TBA - Yaga Bar
 
-Hi-SPEED at TBA - Yaga Bar on Sat 10 Oct, Kualalumpur. 1 act on the bill: Yrag L. Trance and Techno. Preview the line-up and save it on soundcheck.
+Hi-SPEED at TBA - Yaga Bar on Sat 10 Oct, Kuala Lumpur. 1 artist on the bill: Yrag L. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mietze Conte - Sydney at The Lansdowne
 
-Mietze Conte - Sydney at The Lansdowne on Mon 5 Oct, Sydney. 1 act on the bill: Mietze Conte. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Mietze Conte - Sydney at The Lansdowne on Mon 5 Oct, Sydney. 1 artist on the bill: Mietze Conte. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

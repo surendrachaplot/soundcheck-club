@@ -2,7 +2,7 @@
 
 Piscesprince is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Le Bain, New York City on Thu, 24 Sept 2026.
 
-Piscesprince is a pop and club artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Robyn DaBank, fake.stan and ASTER (DJ). Next up: Le Bain, Newyorkcity on Thu 24 Sept.
+Piscesprince is a pop and club artist based in United States of America, tracked on soundcheck, with 6 sets logged across New York City. Often billed alongside Robyn DaBank, fake.stan and ASTER (DJ). Next up: Le Bain, New York City on Thu 24 Sept.
 
 ## Upcoming shows
 

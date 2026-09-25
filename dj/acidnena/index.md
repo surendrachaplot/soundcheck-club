@@ -2,7 +2,7 @@
 
 Acidnena is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Paloma, Barcelona on Fri, 25 Sept 2026.
 
-Acidnena is a techno and house artist based in Argentina, tracked on soundcheck, with 81 sets logged across Barcelona, Berlin, Buenosaires and Leipzig and 5 more. Often billed alongside Verushka, M8NSE and Drazzit. Next up: La Paloma, Barcelona on Fri 25 Sept.
+Acidnena is a techno and house artist based in Argentina, tracked on soundcheck, with 81 sets logged across Barcelona, Berlin, Buenos Aires and Leipzig and 5 more. Often billed alongside Verushka, M8NSE and Drazzit. Next up: La Paloma, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 

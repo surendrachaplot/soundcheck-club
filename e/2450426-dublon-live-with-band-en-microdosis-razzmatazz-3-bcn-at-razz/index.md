@@ -1,6 +1,6 @@
 # Dublon (live with band) en microdosis - Razzmatazz 3, BCN at Razzmatazz 3
 
-Dublon (live with band) en microdosis - Razzmatazz 3, BCN on Wed 28 Oct, Barcelona. 1 act on the bill: Dublon. House. Preview the line-up and save it on soundcheck.
+Dublon (live with band) en microdosis - Razzmatazz 3, BCN on Wed 28 Oct, Barcelona. 1 artist on the bill: Dublon. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

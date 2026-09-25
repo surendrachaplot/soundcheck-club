@@ -1,6 +1,6 @@
 # FABRICLIVE: Yung Singh, O'Flynn (All Night Long), KOLLIN, Ma Sha, Percy Mingle + more at fabric
 
-FABRICLIVE: Yung Singh, O'Flynn (All Night Long), KOLLIN, Ma Sha, Percy Mingle + more at fabric on Fri 2 Oct, London. 7 acts on the bill: Ali Velmi, Ellaweeez, KOLLIN and Ma Sha and 3 more. Preview the line-up and save it on soundcheck.
+FABRICLIVE: Yung Singh, O'Flynn (All Night Long), KOLLIN, Ma Sha, Percy Mingle + more at fabric on Fri 2 Oct, London. 7 artists on the bill: Ali Velmi, Ellaweeez, KOLLIN and Ma Sha and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

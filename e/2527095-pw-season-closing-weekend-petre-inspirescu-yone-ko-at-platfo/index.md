@@ -1,6 +1,6 @@
 # PW Season Closing Weekend • Petre Inspirescu, Yone-Ko at Platforma Wolff
 
-PW Season Closing Weekend • Petre Inspirescu, Yone-Ko at Platforma Wolff on Sat 26 Sept, Bucharest. 2 acts on the bill: Petre Inspirescu and Yone-Ko. Techno and House. Preview the line-up and save it on soundcheck.
+PW Season Closing Weekend • Petre Inspirescu, Yone-Ko at Platforma Wolff on Sat 26 Sept, Bucharest. 2 artists on the bill: Petre Inspirescu and Yone-Ko. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

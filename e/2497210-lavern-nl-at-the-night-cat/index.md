@@ -1,6 +1,6 @@
 # LAVERN (NL) at The Night Cat
 
-LAVERN (NL) at The Night Cat on Fri 2 Oct, Melbourne. 1 act on the bill: LAVERN. House. Preview the line-up and save it on soundcheck.
+LAVERN (NL) at The Night Cat on Fri 2 Oct, Melbourne. 1 artist on the bill: LAVERN. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

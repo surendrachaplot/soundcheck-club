@@ -1,6 +1,6 @@
 # Phil Hartnoll, Altern8, Uncle Dugs, MC Five ALive at The Fox and Firkin
 
-Phil Hartnoll, Altern8, Uncle Dugs, MC Five ALive at The Fox and Firkin on Fri 16 Oct, London. 1 act on the bill: Uncle Dugs. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
+Phil Hartnoll, Altern8, Uncle Dugs, MC Five ALive at The Fox and Firkin on Fri 16 Oct, London. 1 artist on the bill: Uncle Dugs. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HERZ & SEELE w./ Kaufmann, Karla Blum, Konfusia, tim|bre at Fridas Pier
 
-HERZ & SEELE w./ Kaufmann, Karla Blum, Konfusia, tim|bre at Fridas Pier on Fri 6 Nov, Stuttgart. 4 acts on the bill: Karla Blum, Kaufmann, Konfusia and tim|bre. Techno. Preview the line-up and save it on soundcheck.
+HERZ & SEELE w./ Kaufmann, Karla Blum, Konfusia, tim|bre at Fridas Pier on Fri 6 Nov, Stuttgart. 4 artists on the bill: Karla Blum, Kaufmann, Konfusia and tim|bre. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

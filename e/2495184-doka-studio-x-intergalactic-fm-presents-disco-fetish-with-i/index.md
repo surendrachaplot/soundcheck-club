@@ -1,6 +1,6 @@
 # Doka Studio x Intergalactic FM presents Disco Fetish with I-F - Marsman - Vasco at Doka
 
-Doka Studio x Intergalactic FM presents Disco Fetish with I-F - Marsman - Vasco on Fri 27 Nov, Amsterdam. 3 acts on the bill: I-F, Marsman and Vasco. Preview the line-up and save it on soundcheck.
+Doka Studio x Intergalactic FM presents Disco Fetish with I-F - Marsman - Vasco on Fri 27 Nov, Amsterdam. 3 artists on the bill: I-F, Marsman and Vasco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

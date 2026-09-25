@@ -1,6 +1,6 @@
 # Techno Ihr Hasen at Der Weiße Hase
 
-Techno Ihr Hasen at Der Weiße Hase on Fri 25 Sept, Berlin. 7 acts on the bill: eliXenia, Johnny Allwess, Marco Wellisch and Morris Fitch and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Techno Ihr Hasen at Der Weiße Hase on Fri 25 Sept, Berlin. 7 artists on the bill: eliXenia, Johnny Allwess, Marco Wellisch and Morris Fitch and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

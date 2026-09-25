@@ -1,6 +1,6 @@
 # jueves de máquinas at nueve cero nueve
 
-jueves de máquinas at nueve cero nueve on Thu 24 Sept, Mexicocity. 1 act on the bill: Isaac Soto. Minimal and Electronica. Preview the line-up and save it on soundcheck.
+jueves de máquinas at nueve cero nueve on Thu 24 Sept, Mexico City. 1 artist on the bill: Isaac Soto. Minimal and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

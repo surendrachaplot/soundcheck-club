@@ -1,6 +1,6 @@
 # ESPECIAL RECORDS SESSION at The Room
 
-ESPECIAL RECORDS SESSION at The Room on Sat 3 Oct, Tokyo. 2 acts on the bill: Kyoto Jazz Massive and Yoshihiro Okino. Jazz and Club. Preview the line-up and save it on soundcheck.
+ESPECIAL RECORDS SESSION at The Room on Sat 3 Oct, Tokyo. 2 artists on the bill: Kyoto Jazz Massive and Yoshihiro Okino. Jazz and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

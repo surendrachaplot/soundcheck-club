@@ -1,6 +1,6 @@
 # Magika x Cultiva Open Air w/ Scheibosan at Wiener Werkshallen
 
-Magika x Cultiva Open Air w/ Scheibosan at Wiener Werkshallen on Sun 4 Oct, Vienna. 2 acts on the bill: Kollektiv Sheesh and Scheibosan. House and Electronica. Preview the line-up and save it on soundcheck.
+Magika x Cultiva Open Air w/ Scheibosan at Wiener Werkshallen on Sun 4 Oct, Vienna. 2 artists on the bill: Kollektiv Sheesh and Scheibosan. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

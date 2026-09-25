@@ -1,6 +1,6 @@
 # End Of An Era: Techno Nacht at Silent Studios
 
-End Of An Era: Techno Nacht at Silent Studios on Sat 14 Nov, Auckland. 1 act on the bill: JANEIN. Techno. Preview the line-up and save it on soundcheck.
+End Of An Era: Techno Nacht at Silent Studios on Sat 14 Nov, Auckland. 1 artist on the bill: JANEIN. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

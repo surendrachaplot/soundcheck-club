@@ -1,6 +1,6 @@
 # Foundation 011 at The Chemist
 
-Foundation 011 at The Chemist on Thu 24 Sept, Boston. 1 act on the bill: Patchwork. House and Deep House. Preview the line-up and save it on soundcheck.
+Foundation 011 at The Chemist on Thu 24 Sept, Boston. 1 artist on the bill: Patchwork. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

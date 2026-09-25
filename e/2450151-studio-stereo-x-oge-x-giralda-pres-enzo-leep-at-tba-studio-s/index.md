@@ -1,6 +1,6 @@
 # Studio Stereo x OGE x Giralda pres. Enzo Leep at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x OGE x Giralda pres. Enzo Leep at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 26 Sept, Barcelona. 3 acts on the bill: Enzo Leep, Haydn and Hessa. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x OGE x Giralda pres. Enzo Leep at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 26 Sept, Barcelona. 3 artists on the bill: Enzo Leep, Haydn and Hessa. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

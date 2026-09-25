@@ -1,6 +1,6 @@
 # Amber Broos, DJ SEXSTASY, SEKTOR69 at Ritter Butzke
 
-Amber Broos, DJ SEXSTASY, SEKTOR69 at Ritter Butzke on Sat 17 Oct, Berlin. 3 acts on the bill: Amber Broos, DJ SEXSTASY and SEKTOR69. Techno. Preview the line-up and save it on soundcheck.
+Amber Broos, DJ SEXSTASY, SEKTOR69 at Ritter Butzke on Sat 17 Oct, Berlin. 3 artists on the bill: Amber Broos, DJ SEXSTASY and SEKTOR69. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

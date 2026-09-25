@@ -1,6 +1,6 @@
 # CHAI RAVE LA: DIWALI AT SUNSET at LEVEL8 ON NOV 6TH at Level 8 DTLA
 
-CHAI RAVE LA: DIWALI AT SUNSET at LEVEL8 ON NOV 6TH at Level 8 DTLA on Fri 6 Nov, Losangeles. House and Afro House. Preview the line-up and save it on soundcheck.
+CHAI RAVE LA: DIWALI AT SUNSET at LEVEL8 ON NOV 6TH at Level 8 DTLA on Fri 6 Nov, Los Angeles. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

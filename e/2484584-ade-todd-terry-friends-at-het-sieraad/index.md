@@ -1,6 +1,6 @@
 # ADE - Todd Terry & Friends at Het Sieraad
 
-ADE - Todd Terry & Friends at Het Sieraad on Sun 25 Oct, Amsterdam. 10 acts on the bill: Barbara Tucker, Beyond Chicago, Boris Coelman and Majestic and 6 more. House. Preview the line-up and save it on soundcheck.
+ADE - Todd Terry & Friends at Het Sieraad on Sun 25 Oct, Amsterdam. 10 artists on the bill: Barbara Tucker, Beyond Chicago, Boris Coelman and Majestic and 6 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Barrio Cantón with Gia Fu at Colour Factory
 
-Barrio Cantón with Gia Fu at Colour Factory on Sat 17 Oct, London. 2 acts on the bill: Gia Fu and Norsicaa. Preview the line-up and save it on soundcheck.
+Barrio Cantón with Gia Fu at Colour Factory on Sat 17 Oct, London. 2 artists on the bill: Gia Fu and Norsicaa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

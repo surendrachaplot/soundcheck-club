@@ -1,6 +1,6 @@
 # TRI:CEPTION (Techno, Psytrance, Techhouse) - 4 Floors at Void Club
 
-TRI:CEPTION (Techno, Psytrance, Techhouse) - 4 Floors at Void Club on Fri 23 Oct, Berlin. 10 acts on the bill: Cherry Core, Honschu Lee, Marika Rossa and Mathias Birnbaum and 6 more. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+TRI:CEPTION (Techno, Psytrance, Techhouse) - 4 Floors at Void Club on Fri 23 Oct, Berlin. 10 artists on the bill: Cherry Core, Honschu Lee, Marika Rossa and Mathias Birnbaum and 6 more. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

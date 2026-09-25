@@ -1,6 +1,6 @@
 # Dream Nation FestIVAL 'HALLOWEEN EDITION' – PARIS at Parc des Expositions Paris Nord
 
-Dream Nation FestIVAL 'HALLOWEEN EDITION' – PARIS at Parc des Expositions Paris Nord on Fri 30 Oct, Paris. 18 acts on the bill: Alignment, Angerfist, Da Tweekaz and Dirtyphonics and 14 more. Techno and Dubstep. Preview the line-up and save it on soundcheck.
+Dream Nation FestIVAL 'HALLOWEEN EDITION' – PARIS at Parc des Expositions Paris Nord on Fri 30 Oct, Paris. 18 artists on the bill: Alignment, Angerfist, Da Tweekaz and Dirtyphonics and 14 more. Techno and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Pleasure Pattern takeover at TORTE BAR
 
-Pleasure Pattern takeover at TORTE BAR on Thu 29 Oct, Berlin. 2 acts on the bill: Kidcat and lavv. Italo Disco and New Wave. Preview the line-up and save it on soundcheck.
+Pleasure Pattern takeover at TORTE BAR on Thu 29 Oct, Berlin. 2 artists on the bill: Kidcat and lavv. Italo Disco and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

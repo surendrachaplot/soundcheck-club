@@ -1,6 +1,6 @@
 # About Us ADE Showcase at The Bulldog Palace
 
-About Us ADE Showcase at The Bulldog Palace on Fri 23 Oct, Amsterdam. 8 acts on the bill: ABOUT SOFIYA, Alex Pi, Bullzeye and DJ Pierre and 4 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+About Us ADE Showcase at The Bulldog Palace on Fri 23 Oct, Amsterdam. 8 artists on the bill: ABOUT SOFIYA, Alex Pi, Bullzeye and DJ Pierre and 4 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

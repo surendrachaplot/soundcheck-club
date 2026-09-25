@@ -1,6 +1,6 @@
 # KELLY TEE - onesixone at OneSixOne
 
-KELLY TEE - onesixone at OneSixOne on Fri 16 Oct, Melbourne. 5 acts on the bill: Adam Trace, Amber Ferraro, Crozier and FRISCO (AUS) and 1 more. House. Preview the line-up and save it on soundcheck.
+KELLY TEE - onesixone at OneSixOne on Fri 16 Oct, Melbourne. 5 artists on the bill: Adam Trace, Amber Ferraro, Crozier and FRISCO (AUS) and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

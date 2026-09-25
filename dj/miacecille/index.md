@@ -2,7 +2,7 @@
 
 Mia Cecille is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Loods 12, Amsterdam on Fri, 25 Sept 2026.
 
-Mia Cecille is a house and techno artist based in Netherlands, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 14 more. Often billed alongside Marie K (1), Daan Donk and 42nd Avenue. Next up: Loods 12, Amsterdam on Fri 25 Sept.
+Mia Cecille is a house and techno artist based in Netherlands, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 14 more. Often billed alongside Marie K, Daan Donk and 42nd Avenue. Next up: Loods 12, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 

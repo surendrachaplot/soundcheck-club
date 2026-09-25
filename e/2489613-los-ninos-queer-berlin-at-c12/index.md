@@ -1,6 +1,6 @@
 # Los Ninos: Queer Berlin at C12
 
-Los Ninos: Queer Berlin at C12 on Fri 16 Oct, Brussels. 3 acts on the bill: AAguilAA, Dj handbag and Immy. Preview the line-up and save it on soundcheck.
+Los Ninos: Queer Berlin at C12 on Fri 16 Oct, Brussels. 3 artists on the bill: AAguilAA, Dj handbag and Immy. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

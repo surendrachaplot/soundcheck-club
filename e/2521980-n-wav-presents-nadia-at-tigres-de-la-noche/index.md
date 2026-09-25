@@ -1,6 +1,6 @@
 # Nü Wav presents: Nadia at Tigres de la Noche
 
-Nü Wav presents: Nadia at Tigres de la Noche on Fri 25 Sept, Washingtondc. House and Tech House. Preview the line-up and save it on soundcheck.
+Nü Wav presents: Nadia at Tigres de la Noche on Fri 25 Sept, Washington DC. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

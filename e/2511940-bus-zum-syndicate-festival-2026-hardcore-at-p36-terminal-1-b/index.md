@@ -1,6 +1,6 @@
 # Bus zum Syndicate Festival 2026 (Hardcore) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt
 
-Bus zum Syndicate Festival 2026 (Hardcore) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 3 Oct, Frankfurt. 15 acts on the bill: Act of Rage, Angerfist, Dr Donk and Host (CA) and 11 more. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Bus zum Syndicate Festival 2026 (Hardcore) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 3 Oct, Frankfurt. 15 artists on the bill: Act of Rage, Angerfist, Dr Donk and Host (CA) and 11 more. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

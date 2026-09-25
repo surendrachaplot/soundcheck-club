@@ -1,6 +1,6 @@
 # A Club Called Rhonda with DJ Minx, DJ Holographic, Anastazja, Colored Craig at Los Globos
 
-A Club Called Rhonda with DJ Minx, DJ Holographic, Anastazja, Colored Craig at Los Globos on Fri 25 Sept, Losangeles. 6 acts on the bill: Anastazja, Colored Craig, DJ Holographic and DJ Minx and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+A Club Called Rhonda with DJ Minx, DJ Holographic, Anastazja, Colored Craig at Los Globos on Fri 25 Sept, Los Angeles. 6 artists on the bill: Anastazja, Colored Craig, DJ Holographic and DJ Minx and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Spank - djs Ondrej K, Identic, Ian Oskadev at Bukanyr Boat
 
-Spank - djs Ondrej K, Identic, Ian Oskadev at Bukanyr Boat on Fri 9 Oct, Prague. 3 acts on the bill: Ian Oskadev, Identic and Ondrej K. Techno and House. Preview the line-up and save it on soundcheck.
+Spank - djs Ondrej K, Identic, Ian Oskadev at Bukanyr Boat on Fri 9 Oct, Prague. 3 artists on the bill: Ian Oskadev, Identic and Ondrej K. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

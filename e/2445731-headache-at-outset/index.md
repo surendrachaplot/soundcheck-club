@@ -1,6 +1,6 @@
 # Headache at Outset
 
-Headache at Outset on Fri 20 Nov, Chicago. 1 act on the bill: Vegyn. Preview the line-up and save it on soundcheck.
+Headache at Outset on Fri 20 Nov, Chicago. 1 artist on the bill: Vegyn. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

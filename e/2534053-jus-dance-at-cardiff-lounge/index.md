@@ -1,6 +1,6 @@
 # Jus Dance at Cardiff Lounge
 
-Jus Dance at Cardiff Lounge on Fri 25 Sept, Sanfrancisco. 1 act on the bill: Mr. V. Deep House and Disco. Preview the line-up and save it on soundcheck.
+Jus Dance at Cardiff Lounge on Fri 25 Sept, San Francisco/Oakland. 1 artist on the bill: Mr. V. Deep House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

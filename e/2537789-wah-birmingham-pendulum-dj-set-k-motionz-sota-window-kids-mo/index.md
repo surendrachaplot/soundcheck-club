@@ -1,6 +1,6 @@
 # WAH Birmingham // Pendulum (dj set), K Motionz, SOTA, Window Kids & More at Gaswrx Birmingham
 
-WAH Birmingham // Pendulum (dj set), K Motionz, SOTA, Window Kids & More at Gaswrx Birmingham on Sat 10 Oct, Birmingham. 6 acts on the bill: Basstripper, Charlie Tee, K Motionz and Pendulum and 2 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+WAH Birmingham // Pendulum (dj set), K Motionz, SOTA, Window Kids & More at Gaswrx Birmingham on Sat 10 Oct, Birmingham. 6 artists on the bill: Basstripper, Charlie Tee, K Motionz and Pendulum and 2 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

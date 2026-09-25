@@ -1,6 +1,6 @@
 # TAXOPHONE by Emil Zenko at Jasna 1
 
-TAXOPHONE by Emil Zenko at Jasna 1 on Fri 9 Oct, Warsaw. 1 act on the bill: Emil Zenko. Preview the line-up and save it on soundcheck.
+TAXOPHONE by Emil Zenko at Jasna 1 on Fri 9 Oct, Warsaw. 1 artist on the bill: Emil Zenko. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

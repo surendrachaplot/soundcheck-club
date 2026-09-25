@@ -1,6 +1,6 @@
 # Biscits at Night We Met
 
-Biscits at Night We Met on Sat 31 Oct, Nashville. 1 act on the bill: Biscits. House and Tech House. Preview the line-up and save it on soundcheck.
+Biscits at Night We Met on Sat 31 Oct, Nashville. 1 artist on the bill: Biscits. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Patrick Mason at Savaya Bali
 
-Patrick Mason at Savaya Bali on Sat 7 Nov, Bali. 1 act on the bill: Patrick Mason. House. Preview the line-up and save it on soundcheck.
+Patrick Mason at Savaya Bali on Sat 7 Nov, Bali. 1 artist on the bill: Patrick Mason. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

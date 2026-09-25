@@ -1,6 +1,6 @@
 # Kelela at Huxley's Neue Welt
 
-Kelela at Huxley's Neue Welt on Thu 29 Oct, Berlin. 1 act on the bill: Kelela. Preview the line-up and save it on soundcheck.
+Kelela at Huxley's Neue Welt on Thu 29 Oct, Berlin. 1 artist on the bill: Kelela. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

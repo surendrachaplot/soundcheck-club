@@ -1,6 +1,6 @@
 # Love International: Ivan Smagghe b2b Dave Harvey, Lola Haro, OK Williams at Rex Club
 
-Love International: Ivan Smagghe b2b Dave Harvey, Lola Haro, OK Williams at Rex Club on Fri 16 Oct, Paris. 4 acts on the bill: Dave Harvey, Ivan Smagghe, Lola Haro and OK Williams. Techno. Preview the line-up and save it on soundcheck.
+Love International: Ivan Smagghe b2b Dave Harvey, Lola Haro, OK Williams at Rex Club on Fri 16 Oct, Paris. 4 artists on the bill: Dave Harvey, Ivan Smagghe, Lola Haro and OK Williams. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

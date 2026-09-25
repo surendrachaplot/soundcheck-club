@@ -1,6 +1,6 @@
 # ANKHARA SESSION 002 at Pianos
 
-ANKHARA SESSION 002 at Pianos on Fri 2 Oct, Newyorkcity. Afrobeat and R&B. Preview the line-up and save it on soundcheck.
+ANKHARA SESSION 002 at Pianos on Fri 2 Oct, New York City. Afrobeat and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

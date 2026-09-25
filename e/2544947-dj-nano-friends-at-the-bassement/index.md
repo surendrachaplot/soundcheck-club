@@ -1,6 +1,6 @@
 # Dj Nano & FRIENDS at The Bassement
 
-Dj Nano & FRIENDS at The Bassement on Sat 31 Oct, Madrid. 3 acts on the bill: Dj Nano, Ismael Rivas and Ramiro Lopez. Preview the line-up and save it on soundcheck.
+Dj Nano & FRIENDS at The Bassement on Sat 31 Oct, Madrid. 3 artists on the bill: Dj Nano, Ismael Rivas and Ramiro Lopez. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

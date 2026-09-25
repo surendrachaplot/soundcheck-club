@@ -1,6 +1,6 @@
 # Fabio Florido 7 HORAS at Under Club
 
-Fabio Florido 7 HORAS at Under Club on Sat 24 Oct, Buenosaires. 1 act on the bill: Fabio Florido. Techno. Preview the line-up and save it on soundcheck.
+Fabio Florido 7 HORAS at Under Club on Sat 24 Oct, Buenos Aires. 1 artist on the bill: Fabio Florido. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

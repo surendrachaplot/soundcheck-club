@@ -1,6 +1,6 @@
 # Luke Alexander at Bauhaus
 
-Luke Alexander at Bauhaus on Sat 7 Nov, Houston. 1 act on the bill: Luke Alexander. Techno and House. Preview the line-up and save it on soundcheck.
+Luke Alexander at Bauhaus on Sat 7 Nov, Houston. 1 artist on the bill: Luke Alexander. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

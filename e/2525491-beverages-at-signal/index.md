@@ -1,6 +1,6 @@
 # BEVERAGES at Signal
 
-BEVERAGES at Signal on Sat 26 Sept, Newyorkcity. 3 acts on the bill: Harim, Seedy J and TYLERFROMWHERE. House and Balearic. Preview the line-up and save it on soundcheck.
+BEVERAGES at Signal on Sat 26 Sept, New York City. 3 artists on the bill: Harim, Seedy J and TYLERFROMWHERE. House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

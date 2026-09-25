@@ -1,6 +1,6 @@
 # ABRACATADAAA at TBA
 
-ABRACATADAAA at TBA on Fri 16 Oct, Berlin. 3 acts on the bill: Alek Sis, LAEXI and Schierke. Trance and Techno. Preview the line-up and save it on soundcheck.
+ABRACATADAAA at TBA on Fri 16 Oct, Berlin. 3 artists on the bill: Alek Sis, LAEXI and Schierke. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

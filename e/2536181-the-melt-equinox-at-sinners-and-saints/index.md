@@ -1,6 +1,6 @@
 # The Melt: Equinox at Sinners and Saints
 
-The Melt: Equinox at Sinners and Saints on Sat 3 Oct, Washingtondc. 2 acts on the bill: belizenotbrazil and Juno Hill. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+The Melt: Equinox at Sinners and Saints on Sat 3 Oct, Washington DC. 2 artists on the bill: belizenotbrazil and Juno Hill. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

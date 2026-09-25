@@ -1,6 +1,6 @@
 # UNREAL ADE 2026 x Cloudy ALL DAY LONG at Afas Live
 
-UNREAL ADE 2026 x Cloudy ALL DAY LONG at Afas Live on Fri 23 Oct, Amsterdam. 1 act on the bill: Cloudy. Techno. Preview the line-up and save it on soundcheck.
+UNREAL ADE 2026 x Cloudy ALL DAY LONG at Afas Live on Fri 23 Oct, Amsterdam. 1 artist on the bill: Cloudy. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

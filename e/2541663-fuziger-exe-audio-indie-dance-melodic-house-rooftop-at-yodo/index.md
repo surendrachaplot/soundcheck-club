@@ -1,6 +1,6 @@
 # FUZIGER (EXE Audio) – Indie Dance / Melodic House Rooftop at YODO GROOVE at Yodo Groove (Yodobashi Ikebukuro)
 
-FUZIGER (EXE Audio) – Indie Dance / Melodic House Rooftop at YODO GROOVE at Yodo Groove (Yodobashi Ikebukuro) on Sun 4 Oct, Tokyo. 2 acts on the bill: COCOLY and YURI VALEN. Techno and Tech House. Preview the line-up and save it on soundcheck.
+FUZIGER (EXE Audio) – Indie Dance / Melodic House Rooftop at YODO GROOVE at Yodo Groove (Yodobashi Ikebukuro) on Sun 4 Oct, Tokyo. 2 artists on the bill: COCOLY and YURI VALEN. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

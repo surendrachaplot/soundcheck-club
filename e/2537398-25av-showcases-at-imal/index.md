@@ -1,6 +1,6 @@
 # 25AV Showcases at iMAL
 
-25AV Showcases at iMAL on Sat 3 Oct, Brussels. 1 act on the bill: Poly Chain. Preview the line-up and save it on soundcheck.
+25AV Showcases at iMAL on Sat 3 Oct, Brussels. 1 artist on the bill: Poly Chain. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

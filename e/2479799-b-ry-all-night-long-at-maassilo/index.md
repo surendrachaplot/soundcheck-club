@@ -1,6 +1,6 @@
 # BØĘRY All Night Long at Maassilo
 
-BØĘRY All Night Long at Maassilo on Sat 10 Oct, Rotterdam. 1 act on the bill: BØĘRY. Techno. Preview the line-up and save it on soundcheck.
+BØĘRY All Night Long at Maassilo on Sat 10 Oct, Rotterdam. 1 artist on the bill: BØĘRY. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

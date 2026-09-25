@@ -1,6 +1,6 @@
 # NT's Loft: BRIDGE & Marcia Carr at Night Tales Loft
 
-NT's Loft: BRIDGE & Marcia Carr at Night Tales Loft on Fri 16 Oct, London. 2 acts on the bill: Bridge (NY) and Marcia Carr. Preview the line-up and save it on soundcheck.
+NT's Loft: BRIDGE & Marcia Carr at Night Tales Loft on Fri 16 Oct, London. 2 artists on the bill: Bridge (NY) and Marcia Carr. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

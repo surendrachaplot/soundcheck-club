@@ -1,6 +1,6 @@
 # The Grifter Breweing Co Presents: Parallel Spring Series at The Grifter Brewing Co.
 
-The Grifter Breweing Co Presents: Parallel Spring Series at The Grifter Brewing Co. on Fri 25 Sept, Sydney. 2 acts on the bill: Bouki and Hungry Ghost. Garage. Preview the line-up and save it on soundcheck.
+The Grifter Breweing Co Presents: Parallel Spring Series at The Grifter Brewing Co. on Fri 25 Sept, Sydney. 2 artists on the bill: Bouki and Hungry Ghost. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

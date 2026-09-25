@@ -2,7 +2,7 @@
 
 Sheri Vari is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 26 Sept 2026.
 
-Sheri Vari is a house and disco artist based in Portugal, tracked on soundcheck, with 58 sets logged across Lisbon and Porto. Often billed alongside Godi Osegueda, HNRQ (2) and Helder Russo. Next up: Tapada da Ajuda, Lisbon on Sat 26 Sept.
+Sheri Vari is a house and disco artist based in Portugal, tracked on soundcheck, with 58 sets logged across Lisbon and Porto. Often billed alongside Godi Osegueda, HNRQ and Helder Russo. Next up: Tapada da Ajuda, Lisbon on Sat 26 Sept.
 
 ## Upcoming shows
 

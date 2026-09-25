@@ -1,6 +1,6 @@
 # Gorge - Public Holiday Eve at onesixone at OneSixOne
 
-Gorge - Public Holiday Eve at onesixone at OneSixOne on Thu 24 Sept, Melbourne. 5 acts on the bill: Adam Trace, Amber Ferraro, Cara Murphy and Gorge and 1 more. House. Preview the line-up and save it on soundcheck.
+Gorge - Public Holiday Eve at onesixone at OneSixOne on Thu 24 Sept, Melbourne. 5 artists on the bill: Adam Trace, Amber Ferraro, Cara Murphy and Gorge and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Measure Divide is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
-Measure Divide is a techno and acid artist based in Pakistan, tracked on soundcheck, with 86 sets logged across Berlin, Chicago, Detroit and Losangeles and 9 more. Often billed alongside AADJA, Circumscums and Vadim Khan. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
+Measure Divide is a techno and acid artist based in Pakistan, tracked on soundcheck, with 86 sets logged across Berlin, Chicago, Detroit and Los Angeles and 9 more. Often billed alongside AADJA, Circumscums and Vadim Khan. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 

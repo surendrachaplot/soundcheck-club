@@ -1,6 +1,6 @@
 # TBM - FCKG MOOD • David Asko • Mar/us at Macadam
 
-TBM - FCKG MOOD • David Asko • Mar/us at Macadam on Fri 16 Oct, Nantes. 2 acts on the bill: David Asko and Mar/us. Techno and EBM. Preview the line-up and save it on soundcheck.
+TBM - FCKG MOOD • David Asko • Mar/us at Macadam on Fri 16 Oct, Nantes. 2 artists on the bill: David Asko and Mar/us. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

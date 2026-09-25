@@ -1,6 +1,6 @@
 # alboroto at Opposite I at Opposite
 
-alboroto at Opposite I on Sat 26 Sept, Barcelona. 2 acts on the bill: Milo Passier and Omari. House and Tech House. Preview the line-up and save it on soundcheck.
+alboroto at Opposite I on Sat 26 Sept, Barcelona. 2 artists on the bill: Milo Passier and Omari. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

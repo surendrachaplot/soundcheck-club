@@ -1,6 +1,6 @@
 # filtr at Co.Labs
 
-filtr at Co.Labs on Fri 16 Oct, Brno. 3 acts on the bill: Amotik, COUNT and silver pearl. Preview the line-up and save it on soundcheck.
+filtr at Co.Labs on Fri 16 Oct, Brno. 3 artists on the bill: Amotik, COUNT and silver pearl. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

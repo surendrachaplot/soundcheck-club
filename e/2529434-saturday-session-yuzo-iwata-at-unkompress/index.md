@@ -1,6 +1,6 @@
 # Saturday Session: Yuzo Iwata at Unkompress
 
-Saturday Session: Yuzo Iwata at Unkompress on Sat 26 Sept, Berlin. 1 act on the bill: Yuzo Iwata. Preview the line-up and save it on soundcheck.
+Saturday Session: Yuzo Iwata at Unkompress on Sat 26 Sept, Berlin. 1 artist on the bill: Yuzo Iwata. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

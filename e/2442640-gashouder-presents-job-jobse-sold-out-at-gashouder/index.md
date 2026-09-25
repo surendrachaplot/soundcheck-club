@@ -1,6 +1,6 @@
 # GASHOUDER presents: Job Jobse [Sold Out] at GASHOUDER
 
-GASHOUDER presents: Job Jobse [Sold Out] on Fri 23 Oct, Amsterdam. 3 acts on the bill: BASHKKA, Job Jobse and Ryan Elliott. House. Preview the line-up and save it on soundcheck.
+GASHOUDER presents: Job Jobse [Sold Out] on Fri 23 Oct, Amsterdam. 3 artists on the bill: BASHKKA, Job Jobse and Ryan Elliott. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

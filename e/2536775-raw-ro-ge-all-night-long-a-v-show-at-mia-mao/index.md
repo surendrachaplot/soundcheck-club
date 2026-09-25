@@ -1,6 +1,6 @@
 # RAW: ROÜGE All Night Long [A/V Show] at Mia Mao
 
-RAW: ROÜGE All Night Long [A/V Show] at Mia Mao on Sat 17 Oct, Paris. 1 act on the bill: ROÜGE. Techno. Preview the line-up and save it on soundcheck.
+RAW: ROÜGE All Night Long [A/V Show] at Mia Mao on Sat 17 Oct, Paris. 1 artist on the bill: ROÜGE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bounce - KIRK - Tigullio MAINROOM at Tigullio
 
-Bounce - KIRK - Tigullio MAINROOM on Sat 26 Sept, Malta. 2 acts on the bill: Samesignal and Thibo Verbeke. Trance and Techno. Preview the line-up and save it on soundcheck.
+Bounce - KIRK - Tigullio MAINROOM on Sat 26 Sept, Malta. 2 artists on the bill: Samesignal and Thibo Verbeke. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

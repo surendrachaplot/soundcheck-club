@@ -1,6 +1,6 @@
 # STUDIO 69 at MS Stubnitz
 
-STUDIO 69 at MS Stubnitz on Sat 28 Nov, Hamburg. 7 acts on the bill: CHIEF QUEEF, Cufme, DJ Business (2) and HiHat and 3 more. Bass and Electro. Preview the line-up and save it on soundcheck.
+STUDIO 69 at MS Stubnitz on Sat 28 Nov, Hamburg. 7 artists on the bill: CHIEF QUEEF, Cufme, DJ Business and HiHat and 3 more. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

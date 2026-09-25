@@ -1,6 +1,6 @@
 # TUNNEL presents Hunee & Paula Tape at TBA
 
-TUNNEL presents Hunee & Paula Tape at TBA on Sat 14 Nov, Athens. 2 acts on the bill: Hunee and Paula Tape. House and Tech House. Preview the line-up and save it on soundcheck.
+TUNNEL presents Hunee & Paula Tape at TBA on Sat 14 Nov, Athens. 2 artists on the bill: Hunee and Paula Tape. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

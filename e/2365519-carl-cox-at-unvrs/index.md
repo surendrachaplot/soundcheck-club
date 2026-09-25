@@ -1,6 +1,6 @@
 # Carl Cox at [UNVRS]
 
-Carl Cox at [UNVRS] on Sun 27 Sept, Ibiza. 5 acts on the bill: Alan Fitzpatrick, Carl Cox, Melon Bomb and Nicole Moudaber and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Carl Cox at [UNVRS] on Sun 27 Sept, Ibiza. 5 artists on the bill: Alan Fitzpatrick, Carl Cox, Melon Bomb and Nicole Moudaber and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

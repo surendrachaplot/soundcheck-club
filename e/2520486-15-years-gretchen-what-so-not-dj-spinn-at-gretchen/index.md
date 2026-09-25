@@ -1,6 +1,6 @@
 # 15 Years Gretchen: What So Not & DJ Spinn at Gretchen
 
-15 Years Gretchen: What So Not & DJ Spinn on Fri 23 Oct, Berlin. 5 acts on the bill: Allynx, DJ Spinn, Grzly Adams and What So Not and 1 more. Bass and Electronica. Preview the line-up and save it on soundcheck.
+15 Years Gretchen: What So Not & DJ Spinn on Fri 23 Oct, Berlin. 5 artists on the bill: Allynx, DJ Spinn, Grzly Adams and What So Not and 1 more. Bass and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

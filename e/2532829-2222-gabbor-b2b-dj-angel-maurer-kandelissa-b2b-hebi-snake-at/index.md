@@ -1,6 +1,6 @@
 # 2222: Gabbor b2b DJ ANGEL, MAURER, Kandelissa b2b Hebi Snake at Rex Club
 
-2222: Gabbor b2b DJ ANGEL, MAURER, Kandelissa b2b Hebi Snake at Rex Club on Wed 14 Oct, Paris. 4 acts on the bill: DJ Angel (1), Gabbor, Kandelissa and MAURER. Techno. Preview the line-up and save it on soundcheck.
+2222: Gabbor b2b DJ ANGEL, MAURER, Kandelissa b2b Hebi Snake at Rex Club on Wed 14 Oct, Paris. 4 artists on the bill: DJ Angel, Gabbor, Kandelissa and MAURER. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # UPTOWN presents ALISHA (extended set) at Now&Wow
 
-UPTOWN presents ALISHA (extended set) at Now&Wow on Fri 6 Nov, Rotterdam. 3 acts on the bill: ALISHA, DAF (2) and Ozzie Guven. House and Tech House. Preview the line-up and save it on soundcheck.
+UPTOWN presents ALISHA (extended set) at Now&Wow on Fri 6 Nov, Rotterdam. 3 artists on the bill: ALISHA, DAF and Ozzie Guven. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

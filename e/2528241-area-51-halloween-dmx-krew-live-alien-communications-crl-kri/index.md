@@ -1,6 +1,6 @@
 # Area 51 Halloween: DMX Krew live, Alien Communications, CRL + Kristina May at Vittoria Wharf Studio
 
-Area 51 Halloween: DMX Krew live, Alien Communications, CRL + Kristina May at Vittoria Wharf Studio on Sat 31 Oct, London. 4 acts on the bill: Alien Communications, CRL (1), DMX Krew and Kristina May. Electro. Preview the line-up and save it on soundcheck.
+Area 51 Halloween: DMX Krew live, Alien Communications, CRL + Kristina May at Vittoria Wharf Studio on Sat 31 Oct, London. 4 artists on the bill: Alien Communications, CRL, DMX Krew and Kristina May. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

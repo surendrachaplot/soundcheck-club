@@ -1,6 +1,6 @@
 # Beate Barfuß /// The Juice, Mia Kober, Maaje, Stellson & Špii at Beate Uwe
 
-Beate Barfuß /// The Juice, Mia Kober, Maaje, Stellson & Špii at Beate Uwe on Sun 4 Oct, Berlin. 1 act on the bill: Mia Kober. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
+Beate Barfuß /// The Juice, Mia Kober, Maaje, Stellson & Špii at Beate Uwe on Sun 4 Oct, Berlin. 1 artist on the bill: Mia Kober. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

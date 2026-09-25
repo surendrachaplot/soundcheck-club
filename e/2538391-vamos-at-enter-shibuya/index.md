@@ -1,6 +1,6 @@
 # VAMOS at Enter Shibuya
 
-VAMOS at Enter Shibuya on Wed 21 Oct, Tokyo. 1 act on the bill: r1ku. Techno and House. Preview the line-up and save it on soundcheck.
+VAMOS at Enter Shibuya on Wed 21 Oct, Tokyo. 1 artist on the bill: r1ku. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

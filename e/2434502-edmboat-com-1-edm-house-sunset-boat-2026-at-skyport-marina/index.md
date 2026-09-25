@@ -1,6 +1,6 @@
 # EDMBoat.com - #1 EDM HOUSE SUNSET BOAT 2026 at Skyport Marina
 
-EDMBoat.com - #1 EDM HOUSE SUNSET BOAT 2026 at Skyport Marina on Sat 26 Sept, Newyorkcity. House. Preview the line-up and save it on soundcheck.
+EDMBoat.com - #1 EDM HOUSE SUNSET BOAT 2026 at Skyport Marina on Sat 26 Sept, New York City. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

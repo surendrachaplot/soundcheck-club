@@ -1,6 +1,6 @@
 # MODULUS: Modus Operandi at Pisco Bar
 
-MODULUS: Modus Operandi at Pisco Bar on Fri 9 Oct, Kualalumpur. 2 acts on the bill: EFTPOS MINIMUM and Notion A. Breakbeat and Ghetto Tech. Preview the line-up and save it on soundcheck.
+MODULUS: Modus Operandi at Pisco Bar on Fri 9 Oct, Kuala Lumpur. 2 artists on the bill: EFTPOS MINIMUM and Notion A. Breakbeat and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

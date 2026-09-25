@@ -2,7 +2,7 @@
 
 John Everett is a House and Rio Funk artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Outer Heaven, New York City on Fri, 9 Oct 2026.
 
-John Everett is a house and rio funk artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Armii1n, Monk (2) and Choukroun. Next up: Outer Heaven, Newyorkcity on Fri 9 Oct.
+John Everett is a house and rio funk artist based in United States of America, tracked on soundcheck, with 11 sets logged across New York City. Often billed alongside Armii1n, Monk and Choukroun. Next up: Outer Heaven, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 

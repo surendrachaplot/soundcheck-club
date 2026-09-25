@@ -1,6 +1,6 @@
 # Hard Techno with Agustina Aliaga - by Rave Times at Subwerk Club
 
-Hard Techno with Agustina Aliaga - by Rave Times at Subwerk Club on Sat 26 Sept, Bangkok. 1 act on the bill: Agustina Aliaga. Techno. Preview the line-up and save it on soundcheck.
+Hard Techno with Agustina Aliaga - by Rave Times at Subwerk Club on Sat 26 Sept, Bangkok. 1 artist on the bill: Agustina Aliaga. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

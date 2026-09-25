@@ -1,6 +1,6 @@
 # 8 años de Discos Movimiento at TBA
 
-8 años de Discos Movimiento at TBA on Sat 24 Oct, Mexicocity. 6 acts on the bill: Bluecommand, Boyá, Dr. Long and EM2K and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+8 años de Discos Movimiento at TBA on Sat 24 Oct, Mexico City. 6 artists on the bill: Bluecommand, Boyá, Dr. Long and EM2K and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

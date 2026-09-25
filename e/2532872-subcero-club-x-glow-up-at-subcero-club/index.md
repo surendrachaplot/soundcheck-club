@@ -1,6 +1,6 @@
 # SUBCERO CLUB x GLOW UP at Subcero Club
 
-SUBCERO CLUB x GLOW UP at Subcero Club on Thu 24 Sept, Madrid. 1 act on the bill: Adrian Mart. Electronica. Preview the line-up and save it on soundcheck.
+SUBCERO CLUB x GLOW UP at Subcero Club on Thu 24 Sept, Madrid. 1 artist on the bill: Adrian Mart. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Canton Low End Express 粵港澳低音快線 at Social Room
 
-Canton Low End Express 粵港澳低音快線 at Social Room on Wed 30 Sept, Hongkong. 1 act on the bill: KOLAK. Bass and Jungle. Preview the line-up and save it on soundcheck.
+Canton Low End Express 粵港澳低音快線 at Social Room on Wed 30 Sept, Hong Kong. 1 artist on the bill: KOLAK. Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

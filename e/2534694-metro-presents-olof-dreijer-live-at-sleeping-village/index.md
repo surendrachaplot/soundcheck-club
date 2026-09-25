@@ -1,6 +1,6 @@
 # Metro Presents: Olof Dreijer (Live) at Sleeping Village
 
-Metro Presents: Olof Dreijer (Live) at Sleeping Village on Wed 30 Sept, Chicago. 1 act on the bill: Olof Dreijer. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Metro Presents: Olof Dreijer (Live) at Sleeping Village on Wed 30 Sept, Chicago. 1 artist on the bill: Olof Dreijer. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

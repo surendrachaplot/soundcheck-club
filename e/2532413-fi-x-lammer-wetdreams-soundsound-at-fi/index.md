@@ -1,6 +1,6 @@
 # fi x LAMMER & Wetdreams & SoundSound at fi
 
-fi x LAMMER & Wetdreams & SoundSound on Fri 9 Oct, Cologne. 7 acts on the bill: 909 RACING TEAM, alleira, Carl Bergé and LAMMER and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+fi x LAMMER & Wetdreams & SoundSound on Fri 9 Oct, Cologne. 7 artists on the bill: 909 RACING TEAM, alleira, Carl Bergé and LAMMER and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

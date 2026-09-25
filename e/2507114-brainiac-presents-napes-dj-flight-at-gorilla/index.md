@@ -1,6 +1,6 @@
 # Brainiac presents: Napes & DJ Flight at Gorilla
 
-Brainiac presents: Napes & DJ Flight at Gorilla on Sat 17 Oct, Manchester. 5 acts on the bill: Amelia Leigh, DJ Flight, Napes and Simmo. and 1 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Brainiac presents: Napes & DJ Flight at Gorilla on Sat 17 Oct, Manchester. 5 artists on the bill: Amelia Leigh, DJ Flight, Napes and Simmo. and 1 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Haus Catz 7 Year Anniversary feat. Bok Bok [UK] + Leenie at TBA - Haus Catz Warehouse
 
-Haus Catz 7 Year Anniversary feat. Bok Bok [UK] + Leenie at TBA - Haus Catz Warehouse on Sat 17 Oct, Denver. 6 acts on the bill: Bok Bok, DJ PurRpLeXeD, Haus Catz and Leenie and 2 more. Techno and Club. Preview the line-up and save it on soundcheck.
+Haus Catz 7 Year Anniversary feat. Bok Bok [UK] + Leenie at TBA - Haus Catz Warehouse on Sat 17 Oct, Denver. 6 artists on the bill: Bok Bok, DJ PurRpLeXeD, Haus Catz and Leenie and 2 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

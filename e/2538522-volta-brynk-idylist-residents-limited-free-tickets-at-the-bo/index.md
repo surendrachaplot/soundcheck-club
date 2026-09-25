@@ -1,6 +1,6 @@
 # Volta: Brynk, Idylist + residents [LIMITED FREE TICKETS] at The Bongo Club
 
-Volta: Brynk, Idylist + residents [LIMITED FREE TICKETS] at The Bongo Club on Tue 29 Sept, Edinburgh. 3 acts on the bill: Brynk, FOLIE (UK) and Rodent. Techno and Bass. Preview the line-up and save it on soundcheck.
+Volta: Brynk, Idylist + residents [LIMITED FREE TICKETS] at The Bongo Club on Tue 29 Sept, Edinburgh. 3 artists on the bill: Brynk, FOLIE (UK) and Rodent. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

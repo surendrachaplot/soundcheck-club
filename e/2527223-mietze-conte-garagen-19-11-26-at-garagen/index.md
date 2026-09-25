@@ -1,6 +1,6 @@
 # Mietze Conte // Garagen // 19.11.26 at Garagen
 
-Mietze Conte // Garagen // 19.11.26 on Thu 19 Nov, Cologne. 1 act on the bill: Mietze Conte. Preview the line-up and save it on soundcheck.
+Mietze Conte // Garagen // 19.11.26 on Thu 19 Nov, Cologne. 1 artist on the bill: Mietze Conte. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

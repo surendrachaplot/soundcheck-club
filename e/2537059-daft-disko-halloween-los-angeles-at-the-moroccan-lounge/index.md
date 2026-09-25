@@ -1,6 +1,6 @@
 # Daft Disko Halloween: Los Angeles at The Moroccan Lounge
 
-Daft Disko Halloween: Los Angeles at The Moroccan Lounge on Sat 31 Oct, Losangeles. House and Disco. Preview the line-up and save it on soundcheck.
+Daft Disko Halloween: Los Angeles at The Moroccan Lounge on Sat 31 Oct, Los Angeles. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

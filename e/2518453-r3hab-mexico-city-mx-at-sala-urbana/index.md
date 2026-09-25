@@ -1,6 +1,6 @@
 # R3HAB, Mexico City MX at Sala Urbana
 
-R3HAB, Mexico City MX at Sala Urbana on Fri 25 Sept, Mexicocity. Electro and Electronica. Preview the line-up and save it on soundcheck.
+R3HAB, Mexico City MX at Sala Urbana on Fri 25 Sept, Mexico City. Electro and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

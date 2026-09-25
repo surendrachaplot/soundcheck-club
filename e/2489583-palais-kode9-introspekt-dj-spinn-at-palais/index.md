@@ -1,6 +1,6 @@
 # Palais: Kode9, Introspekt & DJ Spinn at Palais
 
-Palais: Kode9, Introspekt & DJ Spinn on Fri 2 Oct, London. 3 acts on the bill: DJ Spinn, Introspekt and Kode9. Preview the line-up and save it on soundcheck.
+Palais: Kode9, Introspekt & DJ Spinn on Fri 2 Oct, London. 3 artists on the bill: DJ Spinn, Introspekt and Kode9. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

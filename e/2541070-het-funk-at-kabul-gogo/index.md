@@ -1,6 +1,6 @@
 # Het funk at KABUL à GoGo
 
-Het funk at KABUL à GoGo on Fri 2 Oct, Utrecht. 2 acts on the bill: Jazz Dalia and Lenson. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+Het funk at KABUL à GoGo on Fri 2 Oct, Utrecht. 2 artists on the bill: Jazz Dalia and Lenson. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

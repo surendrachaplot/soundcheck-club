@@ -1,6 +1,6 @@
 # Guau x Yo Speed - MELBOURNE - BREɅKS & BɅSS | at The Industrique
 
-Guau x Yo Speed - MELBOURNE - BREɅKS & BɅSS | at The Industrique on Sat 3 Oct, Melbourne. 2 acts on the bill: Guau and Yo Speed. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
+Guau x Yo Speed - MELBOURNE - BREɅKS & BɅSS | at The Industrique on Sat 3 Oct, Melbourne. 2 artists on the bill: Guau and Yo Speed. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

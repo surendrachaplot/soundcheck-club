@@ -1,6 +1,6 @@
 # Upper90 all night long at M.O.T
 
-Upper90 all night long at M.O.T on Fri 23 Oct, London. 1 act on the bill: Upper90. Trance and Techno. Preview the line-up and save it on soundcheck.
+Upper90 all night long at M.O.T on Fri 23 Oct, London. 1 artist on the bill: Upper90. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

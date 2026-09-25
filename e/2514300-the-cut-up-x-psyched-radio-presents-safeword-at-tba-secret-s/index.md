@@ -1,6 +1,6 @@
 # THE CUT UP x PSYCHED RADIO PRESENTS: SAFEWORD at TBA - SECRET SF LOCATION
 
-THE CUT UP x PSYCHED RADIO PRESENTS: SAFEWORD at TBA - SECRET SF LOCATION on Fri 25 Sept, Sanfrancisco. 7 acts on the bill: @djlobottomy, DMN TWNK, MALICIEL and Martyr Princess and 3 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+THE CUT UP x PSYCHED RADIO PRESENTS: SAFEWORD at TBA - SECRET SF LOCATION on Fri 25 Sept, San Francisco/Oakland. 7 artists on the bill: @djlobottomy, DMN TWNK, MALICIEL and Martyr Princess and 3 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

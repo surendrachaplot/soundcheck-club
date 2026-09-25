@@ -1,6 +1,6 @@
 # Shelter: Timmy Regisford Open To Close at public records
 
-Shelter: Timmy Regisford Open To Close at public records on Sun 27 Sept, Newyorkcity. 1 act on the bill: Timmy Regisford. Deep House. Preview the line-up and save it on soundcheck.
+Shelter: Timmy Regisford Open To Close at public records on Sun 27 Sept, New York City. 1 artist on the bill: Timmy Regisford. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

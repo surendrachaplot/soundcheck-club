@@ -1,6 +1,6 @@
 # Death in Vegas at Chalk
 
-Death in Vegas at Chalk on Sat 28 Nov, Brighton. 1 act on the bill: Death in Vegas. Electronica. Preview the line-up and save it on soundcheck.
+Death in Vegas at Chalk on Sat 28 Nov, Brighton. 1 artist on the bill: Death in Vegas. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

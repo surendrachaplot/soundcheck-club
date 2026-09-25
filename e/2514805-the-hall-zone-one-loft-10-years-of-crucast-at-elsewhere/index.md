@@ -1,6 +1,6 @@
 # The Hall / Zone One / Loft - 10 Years of Crucast at Elsewhere
 
-The Hall / Zone One / Loft - 10 Years of Crucast at Elsewhere on Sat 24 Oct, Newyorkcity. 3 acts on the bill: Harriet Jaxxon, Skepsis and Voltage. Preview the line-up and save it on soundcheck.
+The Hall / Zone One / Loft - 10 Years of Crucast at Elsewhere on Sat 24 Oct, New York City. 3 artists on the bill: Harriet Jaxxon, Skepsis and Voltage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

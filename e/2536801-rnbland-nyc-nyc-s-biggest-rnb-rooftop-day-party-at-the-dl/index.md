@@ -1,6 +1,6 @@
 # RNBLAND NYC - NYC's Biggest RnB Rooftop Day Party at The DL
 
-RNBLAND NYC - NYC's Biggest RnB Rooftop Day Party at The DL on Sat 10 Oct, Newyorkcity. R&B. Preview the line-up and save it on soundcheck.
+RNBLAND NYC - NYC's Biggest RnB Rooftop Day Party at The DL on Sat 10 Oct, New York City. R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

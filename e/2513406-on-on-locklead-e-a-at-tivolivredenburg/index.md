@@ -1,6 +1,6 @@
 # ON&ON: Locklead e.a at TivoliVredenburg
 
-ON&ON: Locklead e.a at TivoliVredenburg on Fri 13 Nov, Utrecht. 1 act on the bill: Locklead. Preview the line-up and save it on soundcheck.
+ON&ON: Locklead e.a at TivoliVredenburg on Fri 13 Nov, Utrecht. 1 artist on the bill: Locklead. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LEHMANN Schranznacht at Lehmann Club
 
-LEHMANN Schranznacht at Lehmann Club on Fri 2 Oct, Stuttgart. 4 acts on the bill: Don Woezik, GAAAS, In Verruf and Ornella. Preview the line-up and save it on soundcheck.
+LEHMANN Schranznacht at Lehmann Club on Fri 2 Oct, Stuttgart. 4 artists on the bill: Don Woezik, GAAAS, In Verruf and Ornella. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

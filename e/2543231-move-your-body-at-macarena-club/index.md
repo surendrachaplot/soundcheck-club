@@ -1,6 +1,6 @@
 # Move Your Body at Macarena Club
 
-Move Your Body at Macarena Club on Sun 18 Oct, Barcelona. 1 act on the bill: EMilio (2). Preview the line-up and save it on soundcheck.
+Move Your Body at Macarena Club on Sun 18 Oct, Barcelona. 1 artist on the bill: EMilio. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # WIXAPOL PRAHA? MORE LIKE PRAHARD! (LETIME NESPIME) at Fuchs2
 
-WIXAPOL PRAHA? MORE LIKE PRAHARD! (LETIME NESPIME) at Fuchs2 on Fri 23 Oct, Prague. 2 acts on the bill: Mikouaj Rejw / Wixapol S.A. and TORRENTZ. Hardcore. Preview the line-up and save it on soundcheck.
+WIXAPOL PRAHA? MORE LIKE PRAHARD! (LETIME NESPIME) at Fuchs2 on Fri 23 Oct, Prague. 4 artists on the bill: Kaa Glo, Mikouaj Rejw / Wixapol S.A., TORRENTZ and Wixapol. Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ WIXAPOL PRAHA? MORE LIKE PRAHARD! (LETIME NESPIME) at Fuchs2 on Fri 23 Oct, Prag
 
 ## Line-up
 
+- Kaa Glo
 - Mikouaj Rejw / Wixapol S.A.
 - TORRENTZ
+- Wixapol
 
 *Source: [soundcheck](https://soundcheck.club/e/2544813-wixapol-praha-more-like-prahard-letime-nespime-at-fuchs2/)*

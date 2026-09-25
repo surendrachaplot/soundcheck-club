@@ -2,7 +2,7 @@
 
 Fundbureau is a music venue in Hamburg with 15 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Subios Records Showcase" on Fri, 25 Sept 2026.
 
-Fundbureau is a music venue in Hamburg listed on soundcheck. 15 upcoming gigs, with line-ups including APHE (2), Charlie Tee, CHICHO and Claudius and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
+Fundbureau is a music venue in Hamburg listed on soundcheck. 15 upcoming gigs, with line-ups including APHE, Charlie Tee, CHICHO and Claudius and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
 ## What's on
 

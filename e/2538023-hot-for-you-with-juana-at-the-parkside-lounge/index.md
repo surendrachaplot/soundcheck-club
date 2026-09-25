@@ -1,6 +1,6 @@
 # Hot For You with Juana at The Parkside Lounge
 
-Hot For You with Juana at The Parkside Lounge on Sun 11 Oct, Newyorkcity. 1 act on the bill: Juana. Preview the line-up and save it on soundcheck.
+Hot For You with Juana at The Parkside Lounge on Sun 11 Oct, New York City. 1 artist on the bill: Juana. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

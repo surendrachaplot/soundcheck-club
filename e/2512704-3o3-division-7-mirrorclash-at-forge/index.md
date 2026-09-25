@@ -1,6 +1,6 @@
 # 3O3 DIVISION #7 — MIRRORCLASH at Forge
 
-3O3 DIVISION #7 — MIRRORCLASH at Forge on Fri 13 Nov, Bucharest. 6 acts on the bill: Clast, FAUST (1), KØMI and MU/SA and 2 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+3O3 DIVISION #7 — MIRRORCLASH at Forge on Fri 13 Nov, Bucharest. 6 artists on the bill: Clast, FAUST, KØMI and MU/SA and 2 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

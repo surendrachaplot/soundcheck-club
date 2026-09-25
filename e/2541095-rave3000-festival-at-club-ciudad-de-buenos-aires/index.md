@@ -1,6 +1,6 @@
 # RAVE3000 FESTIVAL at Club Ciudad de Buenos Aires
 
-RAVE3000 FESTIVAL at Club Ciudad de Buenos Aires on Fri 11 Dec, Buenosaires. 11 acts on the bill: Arca, Carlos Willengton, Cera Khin and Cristobal Pesce and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
+RAVE3000 FESTIVAL at Club Ciudad de Buenos Aires on Fri 11 Dec, Buenos Aires. 11 artists on the bill: Arca, Carlos Willengton, Cera Khin and Cristobal Pesce and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

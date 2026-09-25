@@ -1,6 +1,6 @@
 # Techno Yoga with Yaya Flows & nataliepops at Nowadays
 
-Techno Yoga with Yaya Flows & nataliepops at Nowadays on Tue 13 Oct, Newyorkcity. 2 acts on the bill: nataliepops and Yaya Flows. Preview the line-up and save it on soundcheck.
+Techno Yoga with Yaya Flows & nataliepops at Nowadays on Tue 13 Oct, New York City. 2 artists on the bill: nataliepops and Yaya Flows. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

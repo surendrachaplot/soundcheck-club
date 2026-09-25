@@ -1,6 +1,6 @@
 # ˚✩ ᴘʀɪɴᴄᴇss ɢʟɪᴛᴏʀɪs at ᴄʟᴜʙ sᴘɪᴛ ✩˚ at Sneaky Pete's
 
-˚✩ ᴘʀɪɴᴄᴇss ɢʟɪᴛᴏʀɪs at ᴄʟᴜʙ sᴘɪᴛ ✩˚ at Sneaky Pete's on Mon 26 Oct, Edinburgh. 4 acts on the bill: Jodie Mooney, Mixfits (2), Princess Glitoris and RUA DJ. Techno. Preview the line-up and save it on soundcheck.
+˚✩ ᴘʀɪɴᴄᴇss ɢʟɪᴛᴏʀɪs at ᴄʟᴜʙ sᴘɪᴛ ✩˚ at Sneaky Pete's on Mon 26 Oct, Edinburgh. 4 artists on the bill: Jodie Mooney, Mixfits, Princess Glitoris and RUA DJ. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

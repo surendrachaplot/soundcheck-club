@@ -1,6 +1,6 @@
 # 12 Years of Good Room - DJ Holographic, 4AM NYC, Lee Cash & Perna (All Night) at Good Room
 
-12 Years of Good Room - DJ Holographic, 4AM NYC, Lee Cash & Perna (All Night) on Fri 16 Oct, Newyorkcity. 4 acts on the bill: 4AM NYC, DJ Holographic, Lee Cash and Perna. Preview the line-up and save it on soundcheck.
+12 Years of Good Room - DJ Holographic, 4AM NYC, Lee Cash & Perna (All Night) on Fri 16 Oct, New York City. 4 artists on the bill: 4AM NYC, DJ Holographic, Lee Cash and Perna. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

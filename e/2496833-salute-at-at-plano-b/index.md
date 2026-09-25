@@ -1,6 +1,6 @@
 # salute (AT) at Plano B
 
-salute (AT) at Plano B on Sat 10 Oct, Porto. 1 act on the bill: salute. House and Electronica. Preview the line-up and save it on soundcheck.
+salute (AT) at Plano B on Sat 10 Oct, Porto. 1 artist on the bill: salute. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

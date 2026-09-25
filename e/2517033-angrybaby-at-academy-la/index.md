@@ -1,6 +1,6 @@
 # Angrybaby at Academy LA
 
-Angrybaby at Academy LA on Fri 13 Nov, Losangeles. Tech House. Preview the line-up and save it on soundcheck.
+Angrybaby at Academy LA on Fri 13 Nov, Los Angeles. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

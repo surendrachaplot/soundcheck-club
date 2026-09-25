@@ -1,6 +1,6 @@
 # James Pepper — All Night Long (Sydney) at The Red Rattler
 
-James Pepper — All Night Long (Sydney) at The Red Rattler on Sat 26 Sept, Sydney. 1 act on the bill: James Pepper. Preview the line-up and save it on soundcheck.
+James Pepper — All Night Long (Sydney) at The Red Rattler on Sat 26 Sept, Sydney. 1 artist on the bill: James Pepper. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

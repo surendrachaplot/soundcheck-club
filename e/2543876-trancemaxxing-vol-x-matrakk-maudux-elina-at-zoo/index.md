@@ -1,6 +1,6 @@
 # TRANCEMAXXING VOL.X: MATRAKK • Maudux • Elina at Zoo
 
-TRANCEMAXXING VOL.X: MATRAKK • Maudux • Elina at Zoo on Fri 23 Oct, Geneva. 2 acts on the bill: MATRAKK and Maudux. Trance and Techno. Preview the line-up and save it on soundcheck.
+TRANCEMAXXING VOL.X: MATRAKK • Maudux • Elina at Zoo on Fri 23 Oct, Geneva. 2 artists on the bill: MATRAKK and Maudux. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

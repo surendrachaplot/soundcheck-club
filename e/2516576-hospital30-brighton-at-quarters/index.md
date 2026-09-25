@@ -1,6 +1,6 @@
 # Hospital30 Brighton at Quarters
 
-Hospital30 Brighton at Quarters on Fri 23 Oct, Brighton. 5 acts on the bill: Emma B, Gabriella Bongo, Hoax (UK) and Metrik and 1 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Hospital30 Brighton at Quarters on Fri 23 Oct, Brighton. 5 artists on the bill: Emma B, Gabriella Bongo, Hoax (UK) and Metrik and 1 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

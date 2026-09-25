@@ -1,6 +1,6 @@
 # PIP HALLOWEEN I at PIP Den Haag
 
-PIP HALLOWEEN I at PIP Den Haag on Fri 30 Oct, Thehague. Preview the line-up and save it on soundcheck.
+PIP HALLOWEEN I at PIP Den Haag on Fri 30 Oct, The Hague. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Seamus Haji is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 6th St Bridge, Los Angeles on Fri, 25 Sept 2026.
 
-Seamus Haji is a house and disco artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 12 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Roger Sanchez. Next up: TBA - 6th St Bridge, Losangeles on Fri 25 Sept.
+Seamus Haji is a house and disco artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 12 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Roger Sanchez. Next up: TBA - 6th St Bridge, Los Angeles on Fri 25 Sept.
 
 ## Upcoming shows
 

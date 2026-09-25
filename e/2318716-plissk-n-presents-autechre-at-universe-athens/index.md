@@ -1,6 +1,6 @@
 # PLISSKËN presents Autechre at Universe Athens
 
-PLISSKËN presents Autechre at Universe Athens on Sat 3 Oct, Athens. 1 act on the bill: Autechre. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+PLISSKËN presents Autechre at Universe Athens on Sat 3 Oct, Athens. 1 artist on the bill: Autechre. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 TBA - Rheinriff Düsseldorf is a music venue in Düsseldorf with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "NIGHTSWITHUS presents: LEVI at Rheinriff Düsseldorf" on Sat, 10 Oct 2026.
 
-TBA - Rheinriff Düsseldorf is a music venue in Dusseldorf listed on soundcheck. 1 upcoming gig, with line-ups including Levi (AU). Browse upcoming dates, start times and who's playing.
+TBA - Rheinriff Düsseldorf is a music venue in Düsseldorf listed on soundcheck. 1 upcoming gig, with line-ups including Levi (AU). Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

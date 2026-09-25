@@ -2,7 +2,7 @@
 
 Ramoss is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gallery, London on Sat, 3 Oct 2026.
 
-Ramoss is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Basel, Ibiza, London and Mexicocity and 4 more. Often billed alongside Ale Grooves, Pedro Villa and Jey Mellen. Next up: Gallery, London on Sat 3 Oct.
+Ramoss is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Basel, Ibiza, London and Mexico City and 4 more. Often billed alongside Ale Grooves, Pedro Villa and Jey Mellen. Next up: Gallery, London on Sat 3 Oct.
 
 ## Upcoming shows
 

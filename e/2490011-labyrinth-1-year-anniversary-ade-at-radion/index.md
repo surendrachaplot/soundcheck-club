@@ -1,6 +1,6 @@
 # LABYRINTH 1 YEAR ANNIVERSARY - ADE at RADION
 
-LABYRINTH 1 YEAR ANNIVERSARY - ADE at RADION on Sat 24 Oct, Amsterdam. 13 acts on the bill: 36framez, Any Mello, BIANKA and Fadi Mohem and 9 more. Techno. Preview the line-up and save it on soundcheck.
+LABYRINTH 1 YEAR ANNIVERSARY - ADE at RADION on Sat 24 Oct, Amsterdam. 13 artists on the bill: 36framez, Any Mello, BIANKA and Fadi Mohem and 9 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

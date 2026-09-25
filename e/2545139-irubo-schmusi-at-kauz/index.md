@@ -1,6 +1,6 @@
 # irubo × schmusi at Kauz
 
-irubo × schmusi at Kauz on Fri 16 Oct, Zurich. 1 act on the bill: Mother Dubber. House and Downtempo. Preview the line-up and save it on soundcheck.
+irubo × schmusi at Kauz on Fri 16 Oct, Zurich. 1 artist on the bill: Mother Dubber. House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

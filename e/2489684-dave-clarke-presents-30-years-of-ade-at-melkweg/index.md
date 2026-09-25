@@ -1,6 +1,6 @@
 # Dave Clarke presents: 30 Years of ADE at Melkweg
 
-Dave Clarke presents: 30 Years of ADE at Melkweg on Fri 23 Oct, Amsterdam. 19 acts on the bill: Brutuzz, Daniel Avery, Dasha Rush and Dave Clarke and 15 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Dave Clarke presents: 30 Years of ADE at Melkweg on Fri 23 Oct, Amsterdam. 19 artists on the bill: Brutuzz, Daniel Avery, Dasha Rush and Dave Clarke and 15 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

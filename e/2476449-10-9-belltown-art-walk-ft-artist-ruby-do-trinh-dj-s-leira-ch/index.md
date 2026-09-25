@@ -1,6 +1,6 @@
 # 10/9 Belltown Art Walk Ft. Artist Ruby Do Trinh - DJ's Leira, Chris Tower, Ruxpin at Crystal Lounge
 
-10/9 Belltown Art Walk Ft. Artist Ruby Do Trinh - DJ's Leira, Chris Tower, Ruxpin at Crystal Lounge on Fri 9 Oct, Seattle. 1 act on the bill: Leira. House. Preview the line-up and save it on soundcheck.
+10/9 Belltown Art Walk Ft. Artist Ruby Do Trinh - DJ's Leira, Chris Tower, Ruxpin at Crystal Lounge on Fri 9 Oct, Seattle. 1 artist on the bill: Leira. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

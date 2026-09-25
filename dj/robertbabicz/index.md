@@ -2,7 +2,7 @@
 
 Robert Babicz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Odonien, Cologne on Fri, 25 Sept 2026.
 
-Robert Babicz is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Brighton, Cologne and Dusseldorf and 11 more. Often billed alongside Marc Romboy, Frank Sonic and Milk N Coffee. Next up: Odonien, Cologne on Fri 25 Sept.
+Robert Babicz is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Brighton, Cologne and Düsseldorf and 11 more. Often billed alongside Marc Romboy, Frank Sonic and Milk N Coffee. Next up: Odonien, Cologne on Fri 25 Sept.
 
 ## Upcoming shows
 

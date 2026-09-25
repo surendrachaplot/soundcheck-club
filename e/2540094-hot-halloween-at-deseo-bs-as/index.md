@@ -1,6 +1,6 @@
 # HOT HALLOWEEN at Deseo BS AS
 
-HOT HALLOWEEN at Deseo BS AS on Fri 30 Oct, Buenosaires. 2 acts on the bill: Marcellus Pittman and Pabels. House and Tech House. Preview the line-up and save it on soundcheck.
+HOT HALLOWEEN at Deseo BS AS on Fri 30 Oct, Buenos Aires. 2 artists on the bill: Marcellus Pittman and Pabels. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

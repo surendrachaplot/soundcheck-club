@@ -1,6 +1,6 @@
 # Manana//Cuba: Abi Asisa, Xterea, Randy Lester and Pike at Quarry
 
-Manana//Cuba: Abi Asisa, Xterea, Randy Lester and Pike at Quarry on Fri 16 Oct, Liverpool. 2 acts on the bill: PIKE and Xterea. Bass and Experimental. Preview the line-up and save it on soundcheck.
+Manana//Cuba: Abi Asisa, Xterea, Randy Lester and Pike at Quarry on Fri 16 Oct, Liverpool. 2 artists on the bill: PIKE and Xterea. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

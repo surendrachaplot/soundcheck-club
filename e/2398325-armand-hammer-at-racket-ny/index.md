@@ -1,6 +1,6 @@
 # Armand Hammer at Racket NY
 
-Armand Hammer at Racket NY on Fri 25 Sept, Newyorkcity. Hip-Hop. Preview the line-up and save it on soundcheck.
+Armand Hammer at Racket NY on Fri 25 Sept, New York City. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

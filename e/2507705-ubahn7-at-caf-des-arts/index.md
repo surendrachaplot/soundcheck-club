@@ -1,6 +1,6 @@
 # Ubahn7 at Café des Arts
 
-Ubahn7 at Café des Arts on Sat 24 Oct, Antwerp. 1 act on the bill: Tom Smeyers. Techno and House. Preview the line-up and save it on soundcheck.
+Ubahn7 at Café des Arts on Sat 24 Oct, Antwerp. 1 artist on the bill: Tom Smeyers. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

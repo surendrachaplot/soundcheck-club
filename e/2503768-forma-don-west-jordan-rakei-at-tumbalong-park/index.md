@@ -1,6 +1,6 @@
 # FORMA: Don West + Jordan Rakei at Tumbalong Park
 
-FORMA: Don West + Jordan Rakei at Tumbalong Park on Sun 6 Dec, Sydney. 2 acts on the bill: Drifting Clouds and Jordan Rakei. Preview the line-up and save it on soundcheck.
+FORMA: Don West + Jordan Rakei at Tumbalong Park on Sun 6 Dec, Sydney. 2 artists on the bill: Drifting Clouds and Jordan Rakei. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Halloweens Haunted Hotel Party 10/31 at Yours Truly DC at Mercy Me at Yours Truly
 
-Halloweens Haunted Hotel Party 10/31 at Yours Truly DC at Mercy Me at Yours Truly on Sat 31 Oct, Washingtondc. Pop and Club. Preview the line-up and save it on soundcheck.
+Halloweens Haunted Hotel Party 10/31 at Yours Truly DC at Mercy Me at Yours Truly on Sat 31 Oct, Washington DC. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # experiment at White Space Lab
 
-experiment at White Space Lab on Fri 16 Oct, Tokyo. 2 acts on the bill: B.A.R.K and YOUSUKE FUYAMA. Techno and Industrial. Preview the line-up and save it on soundcheck.
+experiment at White Space Lab on Fri 16 Oct, Tokyo. 2 artists on the bill: B.A.R.K and YOUSUKE FUYAMA. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

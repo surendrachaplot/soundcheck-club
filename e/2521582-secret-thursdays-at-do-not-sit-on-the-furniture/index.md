@@ -1,6 +1,6 @@
 # Secret Thursdays at Do Not Sit On The Furniture
 
-Secret Thursdays at Do Not Sit On The Furniture on Thu 24 Sept, Miami. 1 act on the bill: George Vidal. House and Deep House. Preview the line-up and save it on soundcheck.
+Secret Thursdays at Do Not Sit On The Furniture on Thu 24 Sept, Miami. 1 artist on the bill: George Vidal. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

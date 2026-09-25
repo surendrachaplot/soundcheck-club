@@ -1,6 +1,6 @@
 # Big Fat Rave x Psyked: HALLOWEEN / Saint Ludo, n4tee, Che3kz & More at The Brickworks
 
-Big Fat Rave x Psyked: HALLOWEEN / Saint Ludo, n4tee, Che3kz & More at The Brickworks on Fri 30 Oct, Nottingham. 4 acts on the bill: Milzy, n4tee, Saint Ludo and TABZ. Bass and Garage. Preview the line-up and save it on soundcheck.
+Big Fat Rave x Psyked: HALLOWEEN / Saint Ludo, n4tee, Che3kz & More at The Brickworks on Fri 30 Oct, Nottingham. 4 artists on the bill: Milzy, n4tee, Saint Ludo and TABZ. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

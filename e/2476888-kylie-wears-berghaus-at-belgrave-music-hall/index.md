@@ -1,6 +1,6 @@
 # Kylie Wears Berghaus at Belgrave Music Hall
 
-Kylie Wears Berghaus at Belgrave Music Hall on Fri 2 Oct, Leeds. 1 act on the bill: Kylie Wears Berghaus. Techno and Acid. Preview the line-up and save it on soundcheck.
+Kylie Wears Berghaus at Belgrave Music Hall on Fri 2 Oct, Leeds. 1 artist on the bill: Kylie Wears Berghaus. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

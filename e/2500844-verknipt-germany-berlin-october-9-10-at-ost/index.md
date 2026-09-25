@@ -1,6 +1,6 @@
 # VERKNIPT Germany - Berlin - October 9 & 10 at OST
 
-VERKNIPT Germany - Berlin - October 9 & 10 at OST on Fri 9 Oct, Berlin. 14 acts on the bill: ANDATA, ANXHELA, Blossmbae and BOVSKI and 10 more. Techno. Preview the line-up and save it on soundcheck.
+VERKNIPT Germany - Berlin - October 9 & 10 at OST on Fri 9 Oct, Berlin. 14 artists on the bill: ANDATA, ANXHELA, Blossmbae and BOVSKI and 10 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

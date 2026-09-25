@@ -1,6 +1,6 @@
 # glitter.hit meets Transatlantic: Europa + Freestyler + Lux18 + Rama + domizako + TBA at Bike Jesus
 
-glitter.hit meets Transatlantic: Europa + Freestyler + Lux18 + Rama + domizako + TBA at Bike Jesus on Fri 30 Oct, Prague. 5 acts on the bill: domizako, Europa (1), Freestyler (2) and Lux18 and 1 more. Experimental and Club. Preview the line-up and save it on soundcheck.
+glitter.hit meets Transatlantic: Europa + Freestyler + Lux18 + Rama + domizako + TBA at Bike Jesus on Fri 30 Oct, Prague. 5 artists on the bill: domizako, Europa, Freestyler and Lux18 and 1 more. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

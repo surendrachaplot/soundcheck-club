@@ -1,6 +1,6 @@
 # CLUB MUSIC at Underground SF
 
-CLUB MUSIC at Underground SF on Fri 9 Oct, Sanfrancisco. Baile Funk and Club. Preview the line-up and save it on soundcheck.
+CLUB MUSIC at Underground SF on Fri 9 Oct, San Francisco/Oakland. Baile Funk and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

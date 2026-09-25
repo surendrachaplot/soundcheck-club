@@ -1,6 +1,6 @@
 # NYC Halloween Common Ground Halloween Party 10/31 at Common Ground Bar
 
-NYC Halloween Common Ground Halloween Party 10/31 at Common Ground Bar on Sat 31 Oct, Newyorkcity. EBM. Preview the line-up and save it on soundcheck.
+NYC Halloween Common Ground Halloween Party 10/31 at Common Ground Bar on Sat 31 Oct, New York City. EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

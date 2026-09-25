@@ -1,6 +1,6 @@
 # SUBSTRATE: Jacq Jill at TRANSMISSION DC
 
-SUBSTRATE: Jacq Jill at TRANSMISSION DC on Thu 19 Nov, Washingtondc. 1 act on the bill: Jacq Jill. Techno. Preview the line-up and save it on soundcheck.
+SUBSTRATE: Jacq Jill at TRANSMISSION DC on Thu 19 Nov, Washington DC. 1 artist on the bill: Jacq Jill. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

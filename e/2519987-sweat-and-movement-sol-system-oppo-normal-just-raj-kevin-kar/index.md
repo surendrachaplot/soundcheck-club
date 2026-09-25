@@ -1,6 +1,6 @@
 # Sweat and Movement: Sol System, Oppo-Normalè, JUST RAJ, Kevin Karrera at Jupiter Disco
 
-Sweat and Movement: Sol System, Oppo-Normalè, JUST RAJ, Kevin Karrera at Jupiter Disco on Sat 10 Oct, Newyorkcity. 3 acts on the bill: JUST RAJ, Kevin Karrera and Oppo-Normalè. Preview the line-up and save it on soundcheck.
+Sweat and Movement: Sol System, Oppo-Normalè, JUST RAJ, Kevin Karrera at Jupiter Disco on Sat 10 Oct, New York City. 3 artists on the bill: JUST RAJ, Kevin Karrera and Oppo-Normalè. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Madam by Night invites: LevyM & Nomis at Madam
 
-Madam by Night invites: LevyM & Nomis on Sat 10 Oct, Amsterdam. 2 acts on the bill: LevyM and Nomis. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Madam by Night invites: LevyM & Nomis on Sat 10 Oct, Amsterdam. 2 artists on the bill: LevyM and Nomis. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

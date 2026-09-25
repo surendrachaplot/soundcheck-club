@@ -1,8 +1,8 @@
 # Bobby.
 
-Bobby. is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cobalt Studios, Newcastle on Fri, 2 Oct 2026.
+Bobby. is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cobalt Studios, Newcastle on Fri, 2 Oct 2026.
 
-Bobby. is a house and techno artist based in United Kingdom, tracked on soundcheck, with 142 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 30 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Cobalt Studios, Newcastle on Fri 2 Oct.
+Bobby. is a techno and house artist based in United Kingdom, tracked on soundcheck, with 143 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 30 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Cobalt Studios, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Bobby. is a house and techno artist based in United Kingdom, tracked on soundche
 | Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
 | Fri, 16 Oct 2026 | The Loft | Manchester |
 | Sat, 17 Oct 2026 | fabric | London |
+| Mon, 26 Oct 2026 | TILLATEC | Amsterdam |
 | Thu, 29 Oct 2026 | Outer Heaven | New York City |
 | Fri, 30 Oct 2026 | Signal | New York City |
 | Sat, 14 Nov 2026 | Eiger Studios | Leeds |

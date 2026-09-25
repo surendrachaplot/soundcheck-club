@@ -1,6 +1,6 @@
 # Klubnacht at Nordstern
 
-Klubnacht at Nordstern on Sat 26 Sept, Basel. 3 acts on the bill: Agape Kid, Alay and THYORA. Preview the line-up and save it on soundcheck.
+Klubnacht at Nordstern on Sat 26 Sept, Basel. 3 artists on the bill: Agape Kid, Alay and THYORA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

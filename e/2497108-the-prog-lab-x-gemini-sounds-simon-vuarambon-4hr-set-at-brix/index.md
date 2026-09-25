@@ -1,6 +1,6 @@
 # The Prog Lab x Gemini Sounds - Simon Vuarambon (4hr set) at Brixton Jamm
 
-The Prog Lab x Gemini Sounds - Simon Vuarambon (4hr set) at Brixton Jamm on Sat 24 Oct, London. 5 acts on the bill: Harry Wilson, Jawjee, Marco (UK) and Nadia and 1 more. Progressive House. Preview the line-up and save it on soundcheck.
+The Prog Lab x Gemini Sounds - Simon Vuarambon (4hr set) at Brixton Jamm on Sat 24 Oct, London. 5 artists on the bill: Harry Wilson, Jawjee, Marco (UK) and Nadia and 1 more. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Sharam is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Stereo, Montreal on Sat, 17 Oct 2026.
 
-Sharam is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Denver, Ibiza, London and Losangeles and 4 more. Often billed alongside Deep Dish, Dubfire and Aaron Jacobs. Next up: Stereo, Montreal on Sat 17 Oct.
+Sharam is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Denver, Ibiza, London and Los Angeles and 4 more. Often billed alongside Deep Dish, Dubfire and Aaron Jacobs. Next up: Stereo, Montreal on Sat 17 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # OXYGÈNE - Marie Montexier - MCMXC at DURO
 
-OXYGÈNE - Marie Montexier - MCMXC at DURO on Sat 26 Sept, Milan. 2 acts on the bill: Marie Montexier and The Robinson. Techno and House. Preview the line-up and save it on soundcheck.
+OXYGÈNE - Marie Montexier - MCMXC at DURO on Sat 26 Sept, Milan. 2 artists on the bill: Marie Montexier and The Robinson. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

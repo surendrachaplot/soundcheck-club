@@ -1,6 +1,6 @@
 # ABBADON VOL.05 - DEFUSION - at Traffic
 
-ABBADON VOL.05 - DEFUSION - at Traffic on Sat 3 Oct, Tokyo. 5 acts on the bill: FECROMASS, Mars89, Nanogram and Ottoman Grüw and 1 more. Techno and EBM. Preview the line-up and save it on soundcheck.
+ABBADON VOL.05 - DEFUSION - at Traffic on Sat 3 Oct, Tokyo. 5 artists on the bill: FECROMASS, Mars89, Nanogram and Ottoman Grüw and 1 more. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

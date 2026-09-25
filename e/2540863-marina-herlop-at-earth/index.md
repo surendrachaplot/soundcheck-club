@@ -1,6 +1,6 @@
 # Marina Herlop at EartH
 
-Marina Herlop at EartH on Tue 27 Oct, London. 1 act on the bill: Marina Herlop. Experimental and Pop. Preview the line-up and save it on soundcheck.
+Marina Herlop at EartH on Tue 27 Oct, London. 1 artist on the bill: Marina Herlop. Experimental and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

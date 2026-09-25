@@ -1,6 +1,6 @@
 # BlackWorks VII Anniversary Madrid at IFEMA
 
-BlackWorks VII Anniversary Madrid at IFEMA on Fri 25 Sept, Madrid. 2 acts on the bill: Fantasm and Winson Ngoh. Techno. Preview the line-up and save it on soundcheck.
+BlackWorks VII Anniversary Madrid at IFEMA on Fri 25 Sept, Madrid. 2 artists on the bill: Fantasm and Winson Ngoh. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

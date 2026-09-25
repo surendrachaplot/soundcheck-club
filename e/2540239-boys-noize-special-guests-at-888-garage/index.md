@@ -1,6 +1,6 @@
 # Boys Noize & Special Guests at 888 Garage
 
-Boys Noize & Special Guests at 888 Garage on Sat 26 Sept, Sanfrancisco. 1 act on the bill: Boys Noize. Preview the line-up and save it on soundcheck.
+Boys Noize & Special Guests at 888 Garage on Sat 26 Sept, San Francisco/Oakland. 1 artist on the bill: Boys Noize. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

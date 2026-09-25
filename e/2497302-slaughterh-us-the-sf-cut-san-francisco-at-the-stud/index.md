@@ -1,6 +1,6 @@
 # Slaughterhäus: The Sf Cut - San Francisco at The Stud
 
-Slaughterhäus: The Sf Cut - San Francisco at The Stud on Sat 10 Oct, Sanfrancisco. Club and Afro House. Preview the line-up and save it on soundcheck.
+Slaughterhäus: The Sf Cut - San Francisco at The Stud on Sat 10 Oct, San Francisco/Oakland. Club and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

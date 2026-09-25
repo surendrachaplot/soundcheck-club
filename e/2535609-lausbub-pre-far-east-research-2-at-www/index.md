@@ -1,6 +1,6 @@
 # LAUSBUB pre Far East Research 2 at WWWβ
 
-LAUSBUB pre Far East Research 2 at WWWβ on Sat 26 Sept, Tokyo. 1 act on the bill: ast midori. Electro and New Wave. Preview the line-up and save it on soundcheck.
+LAUSBUB pre Far East Research 2 at WWWβ on Sat 26 Sept, Tokyo. 1 artist on the bill: ast midori. Electro and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DYSPHORIA - Rotunde Bochum at Rotunde
 
-DYSPHORIA - Rotunde Bochum on Sat 10 Oct, Bochum. 2 acts on the bill: AMVN and Noise Not War. Trance and Techno. Preview the line-up and save it on soundcheck.
+DYSPHORIA - Rotunde Bochum on Sat 10 Oct, Bochum. 2 artists on the bill: AMVN and Noise Not War. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

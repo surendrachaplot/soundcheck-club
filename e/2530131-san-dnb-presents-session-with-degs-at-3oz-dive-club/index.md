@@ -1,6 +1,6 @@
 # San DNB presents: Session with Degs at 3oz Dive Club
 
-San DNB presents: Session with Degs at 3oz Dive Club on Wed 14 Oct, Sandiego. 3 acts on the bill: Degs, Knotice and Phonix_. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+San DNB presents: Session with Degs at 3oz Dive Club on Wed 14 Oct, San Diego. 3 artists on the bill: Degs, Knotice and Phonix_. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

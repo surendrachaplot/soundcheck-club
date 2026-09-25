@@ -1,6 +1,6 @@
 # Baauer at Meow Wolf Houston
 
-Baauer at Meow Wolf Houston on Sat 24 Oct, Houston. 1 act on the bill: Baauer. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
+Baauer at Meow Wolf Houston on Sat 24 Oct, Houston. 1 artist on the bill: Baauer. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

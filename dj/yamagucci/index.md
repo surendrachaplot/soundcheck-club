@@ -2,7 +2,7 @@
 
 Yamagucci is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club Space Miami, Miami on Fri, 25 Sept 2026.
 
-Yamagucci is a house and techno artist based in United States of America, tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Barcelona and Berlin and 21 more. Often billed alongside Adam Ten, Mita Gami and SIEGEL (2). Next up: Club Space Miami, Miami on Fri 25 Sept.
+Yamagucci is a house and techno artist based in United States of America, tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Barcelona and Berlin and 21 more. Often billed alongside Adam Ten, Mita Gami and SIEGEL. Next up: Club Space Miami, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 

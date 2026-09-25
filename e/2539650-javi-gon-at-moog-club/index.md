@@ -1,6 +1,6 @@
 # Javi gOn at Moog Club
 
-Javi gOn at Moog Club on Sat 24 Oct, Barcelona. 1 act on the bill: Javi gOn. Techno. Preview the line-up and save it on soundcheck.
+Javi gOn at Moog Club on Sat 24 Oct, Barcelona. 1 artist on the bill: Javi gOn. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

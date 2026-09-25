@@ -1,6 +1,6 @@
 # Sacré présente: Butch & Family Matters at Sacré
 
-Sacré présente: Butch & Family Matters on Fri 30 Oct, Paris. 2 acts on the bill: Butch and Family Matters. House. Preview the line-up and save it on soundcheck.
+Sacré présente: Butch & Family Matters on Fri 30 Oct, Paris. 2 artists on the bill: Butch and Family Matters. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

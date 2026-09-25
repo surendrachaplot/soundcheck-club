@@ -12,7 +12,7 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, 
 | Sat, 26 Sept 2026 | Oppidan, Prozak, Larishka + Special Guest Champion | Champion, LARISHKA (UK), Oppidan, Prozak (IRL) |
 | Tue, 29 Sept 2026 | ♦️ DVOTION ♦️ |  |
 | Sat, 3 Oct 2026 | Teletech Leeds | Clouds, Faster Horses, Juicy Romance, Vivace (UK) |
-| Fri, 9 Oct 2026 | Foreplay 3rd Bday: MainPhase + Osmosis Jones +  Josi Devil + TBA | Josi Devil, Main Phase, Osmosis Jones |
+| Fri, 9 Oct 2026 | Foreplay 3rd Bday: MainPhase + Osmosis Jones +  Josi Devil + TUX | Et Al (1), Josi Devil, Main Phase, Osmosis Jones |
 | Fri, 30 Oct 2026 | Jamie Fielding, Hidde van Wee, Mad.Again + Abbs La | Hidde van Wee, Jamie Fielding, Mad.Again (2) |
 | Sat, 7 Nov 2026 | Culture Shock | Culture Shock |
 | Thu, 19 Nov 2026 | LUKAS & FRANK | LUKAS & FRANK |

@@ -1,6 +1,6 @@
 # duniya .1: tadhor, KD22LR, bundy at PINK
 
-duniya .1: tadhor, KD22LR, bundy at PINK on Fri 6 Nov, Manchester. 3 acts on the bill: bundy, KD22LR and tadhor. Experimental and Noise. Preview the line-up and save it on soundcheck.
+duniya .1: tadhor, KD22LR, bundy at PINK on Fri 6 Nov, Manchester. 3 artists on the bill: bundy, KD22LR and tadhor. Experimental and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

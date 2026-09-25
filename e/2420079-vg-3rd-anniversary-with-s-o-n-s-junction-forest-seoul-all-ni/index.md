@@ -1,6 +1,6 @@
 # VG+ 3rd Anniversary with S.O.N.S. (Junction Forest, Seoul) [All Night Long Vinyl Set) at 宀 Club
 
-VG+ 3rd Anniversary with S.O.N.S. (Junction Forest, Seoul) [All Night Long Vinyl Set) at 宀 Club on Sat 26 Sept, Hongkong. 1 act on the bill: S.O.N.S. Trance and Techno. Preview the line-up and save it on soundcheck.
+VG+ 3rd Anniversary with S.O.N.S. (Junction Forest, Seoul) [All Night Long Vinyl Set) at 宀 Club on Sat 26 Sept, Hong Kong. 1 artist on the bill: S.O.N.S. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bag Raiders at Floyd
 
-Bag Raiders at Floyd on Sat 28 Nov, Miami. 3 acts on the bill: Bag Raiders, JOVIGIBS and Katie Ox. House and Pop. Preview the line-up and save it on soundcheck.
+Bag Raiders at Floyd on Sat 28 Nov, Miami. 3 artists on the bill: Bag Raiders, JOVIGIBS and Katie Ox. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

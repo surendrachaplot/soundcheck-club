@@ -1,6 +1,6 @@
 # The Naughty Step:  IZP + Asa Ray All Night Long at Next Door Records Two
 
-The Naughty Step:  IZP + Asa Ray All Night Long at Next Door Records Two on Sat 26 Sept, London. 1 act on the bill: IZP (1). Electro and Deep House. Preview the line-up and save it on soundcheck.
+The Naughty Step:  IZP + Asa Ray All Night Long at Next Door Records Two on Sat 26 Sept, London. 1 artist on the bill: IZP. Electro and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

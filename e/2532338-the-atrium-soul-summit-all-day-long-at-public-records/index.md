@@ -1,6 +1,6 @@
 # The Atrium: Soul Summit All Day Long at public records
 
-The Atrium: Soul Summit All Day Long at public records on Sun 18 Oct, Newyorkcity. 1 act on the bill: Soul Summit Music. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+The Atrium: Soul Summit All Day Long at public records on Sun 18 Oct, New York City. 1 artist on the bill: Soul Summit Music. Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

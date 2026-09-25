@@ -1,6 +1,6 @@
 # TREMENDO (21+) at The Meadows
 
-TREMENDO (21+) at The Meadows on Sat 28 Nov, Newyorkcity. Club and Guaracha. Preview the line-up and save it on soundcheck.
+TREMENDO (21+) at The Meadows on Sat 28 Nov, New York City. Club and Guaracha. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

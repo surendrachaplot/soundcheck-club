@@ -1,6 +1,6 @@
 # HiTMiLØW - All Night Long 6 Decks at Artheater
 
-HiTMiLØW - All Night Long 6 Decks at Artheater on Sat 17 Oct, Cologne. 1 act on the bill: HiTMiLØW. Preview the line-up and save it on soundcheck.
+HiTMiLØW - All Night Long 6 Decks at Artheater on Sat 17 Oct, Cologne. 1 artist on the bill: HiTMiLØW. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

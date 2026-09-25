@@ -1,6 +1,6 @@
 # Archie Hamilton, DXNBY, Jhobei at Shelter Amsterdam
 
-Archie Hamilton, DXNBY, Jhobei at Shelter Amsterdam on Sat 26 Sept, Amsterdam. 6 acts on the bill: A For Alpha, Archie Hamilton, DXNBY and Elvi (1) and 2 more. House. Preview the line-up and save it on soundcheck.
+Archie Hamilton, DXNBY, Jhobei at Shelter Amsterdam on Sat 26 Sept, Amsterdam. 6 artists on the bill: A For Alpha, Archie Hamilton, DXNBY and Elvi and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

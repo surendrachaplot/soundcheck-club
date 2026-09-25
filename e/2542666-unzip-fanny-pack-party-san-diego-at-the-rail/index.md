@@ -1,6 +1,6 @@
 # Unzip Fanny Pack Party San Diego at The Rail
 
-Unzip Fanny Pack Party San Diego at The Rail on Fri 20 Nov, Sandiego. Deep House and EBM. Preview the line-up and save it on soundcheck.
+Unzip Fanny Pack Party San Diego at The Rail on Fri 20 Nov, San Diego. Deep House and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

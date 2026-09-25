@@ -1,6 +1,6 @@
 # Ned Bennett - Auckland at Neck of the Woods
 
-Ned Bennett - Auckland at Neck of the Woods on Fri 25 Sept, Auckland. 1 act on the bill: Ned Bennett. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Ned Bennett - Auckland at Neck of the Woods on Fri 25 Sept, Auckland. 1 artist on the bill: Ned Bennett. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

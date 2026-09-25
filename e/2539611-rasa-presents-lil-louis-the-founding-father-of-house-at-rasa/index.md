@@ -1,6 +1,6 @@
 # RASA presents Lil' Louis (The Founding Father Of House) at RASA
 
-RASA presents Lil' Louis (The Founding Father Of House) on Fri 9 Oct, Singapore. 3 acts on the bill: Lil' Louis, Suffyan and XINYI. House. Preview the line-up and save it on soundcheck.
+RASA presents Lil' Louis (The Founding Father Of House) on Fri 9 Oct, Singapore. 3 artists on the bill: Lil' Louis, Suffyan and XINYI. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

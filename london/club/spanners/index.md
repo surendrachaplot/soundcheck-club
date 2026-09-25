@@ -1,13 +1,14 @@
 # Spanners
 
-Spanners is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Hecaton x Bakk Heia w/ Stella Z, Bitzer M, Schuttle" on Sat, 26 Sept 2026.
+Spanners is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Fast Car 40 - Hardcore, Jungle, Speedcore, Noise" on Fri, 25 Sept 2026.
 
-Spanners is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Ailish, Bitzer Maloney, Joe Hart and Schuttle and 2 more. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
+Spanners is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Ailish, Bitzer Maloney, Hughesee and Joe Hart and 2 more. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Fast Car 40 - Hardcore, Jungle, Speedcore, Noise | Hughesee, Louise Plus One, Warlock |
 | Sat, 26 Sept 2026 | Hecaton x Bakk Heia w/ Stella Z, Bitzer M, Schuttle | Bitzer Maloney, Schuttle, Stella Z |
 | Fri, 16 Oct 2026 | Złom with Space Candy, Void Response, jb glazer, Ailish, osmo | Ailish, Space Candy |
 | Sat, 17 Oct 2026 | Body Hammer | Joe Hart, Scott Fraser |

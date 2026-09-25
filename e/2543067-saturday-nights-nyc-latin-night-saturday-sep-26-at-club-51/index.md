@@ -1,6 +1,6 @@
 # Saturday Nights NYC - Latin Night Saturday - Sep 26 at Club 51
 
-Saturday Nights NYC - Latin Night Saturday - Sep 26 at Club 51 on Sat 26 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+Saturday Nights NYC - Latin Night Saturday - Sep 26 at Club 51 on Sat 26 Sept, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Collect LX Factory presents Dorisburg (live) at Collect LX Factory
 
-Collect LX Factory presents Dorisburg (live) on Sat 14 Nov, Lisbon. 3 acts on the bill: Amulador, Dorisburg and Elless & Benn. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Collect LX Factory presents Dorisburg (live) on Sat 14 Nov, Lisbon. 3 artists on the bill: Amulador, Dorisburg and Elless & Benn. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

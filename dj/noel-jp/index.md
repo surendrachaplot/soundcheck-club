@@ -2,7 +2,7 @@
 
 NØEL (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bootshaus, Cologne on Fri, 2 Oct 2026.
 
-NØEL (JP) is a techno and house artist based in Japan, tracked on soundcheck, with 16 sets logged across Cologne and Tokyo. Often billed alongside MARU (3), HOTARU (2) and Paranormila. Next up: Bootshaus, Cologne on Fri 2 Oct.
+NØEL (JP) is a techno and house artist based in Japan, tracked on soundcheck, with 16 sets logged across Cologne and Tokyo. Often billed alongside MARU, HOTARU and Paranormila. Next up: Bootshaus, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Ashkan Dian is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Madarae San Francisco, San Francisco/Oakland on Fri, 30 Oct 2026.
 
-Ashkan Dian is a techno and progressive house artist based in Canada, tracked on soundcheck, with 24 sets logged across Sanfrancisco and Toronto. Often billed alongside Rafael Cerato, Argy and Mikey & The Wolf. Next up: Madarae San Francisco, Sanfrancisco on Fri 30 Oct.
+Ashkan Dian is a techno and progressive house artist based in Canada, tracked on soundcheck, with 24 sets logged across San Francisco/Oakland and Toronto. Often billed alongside Rafael Cerato, Argy and Mikey & The Wolf. Next up: Madarae San Francisco, San Francisco/Oakland on Fri 30 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Naughty - St. Nicholas Festival Closing Party at Nachtflug & Starz
 
-Naughty - St. Nicholas Festival Closing Party at Nachtflug & Starz on Sun 29 Nov, Cologne. 2 acts on the bill: Chris Bekker and Farius. Trance and Tech House. Preview the line-up and save it on soundcheck.
+Naughty - St. Nicholas Festival Closing Party at Nachtflug & Starz on Sun 29 Nov, Cologne. 2 artists on the bill: Chris Bekker and Farius. Trance and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

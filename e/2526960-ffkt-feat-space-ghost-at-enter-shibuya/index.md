@@ -1,6 +1,6 @@
 # FFKT feat. Space Ghost at Enter Shibuya
 
-FFKT feat. Space Ghost at Enter Shibuya on Fri 25 Sept, Tokyo. 4 acts on the bill: CALPISS, HARUTO, KOTSU and Space Ghost. House. Preview the line-up and save it on soundcheck.
+FFKT feat. Space Ghost at Enter Shibuya on Fri 25 Sept, Tokyo. 4 artists on the bill: CALPISS, HARUTO, KOTSU and Space Ghost. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

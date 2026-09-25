@@ -1,6 +1,6 @@
 # Hafen 49 Closing: Nina Kraviz, Len Faki, Quest, David Löhlein, SHDW at Hafen 49
 
-Hafen 49 Closing: Nina Kraviz, Len Faki, Quest, David Löhlein, SHDW on Sat 3 Oct, Mannheim. 4 acts on the bill: David Löhlein, Len Faki, Quest and SHDW. Preview the line-up and save it on soundcheck.
+Hafen 49 Closing: Nina Kraviz, Len Faki, Quest, David Löhlein, SHDW on Sat 3 Oct, Mannheim. 4 artists on the bill: David Löhlein, Len Faki, Quest and SHDW. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

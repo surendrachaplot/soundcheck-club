@@ -1,6 +1,6 @@
 # Mundo Disko x Stereo: Horse Meat Disco (Day Dance) at Stereo
 
-Mundo Disko x Stereo: Horse Meat Disco (Day Dance) on Sun 25 Oct, Montreal. 1 act on the bill: Horse Meat Disco. Preview the line-up and save it on soundcheck.
+Mundo Disko x Stereo: Horse Meat Disco (Day Dance) on Sun 25 Oct, Montreal. 1 artist on the bill: Horse Meat Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

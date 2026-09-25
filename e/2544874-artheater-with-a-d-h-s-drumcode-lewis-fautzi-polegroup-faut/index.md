@@ -1,6 +1,6 @@
 # Artheater with A.D.H.S. (Drumcode) & Lewis Fautzi (PoleGroup / Faut Section) // Ehrenfeld XL at Artheater
 
-Artheater with A.D.H.S. (Drumcode) & Lewis Fautzi (PoleGroup / Faut Section) // Ehrenfeld XL on Sat 24 Oct, Cologne. 4 acts on the bill: Gilles Bock, Kos:mo, Lewis Fautzi and Steven Shade. Techno. Preview the line-up and save it on soundcheck.
+Artheater with A.D.H.S. (Drumcode) & Lewis Fautzi (PoleGroup / Faut Section) // Ehrenfeld XL on Sat 24 Oct, Cologne. 4 artists on the bill: Gilles Bock, Kos:mo, Lewis Fautzi and Steven Shade. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

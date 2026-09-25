@@ -1,6 +1,6 @@
 # Trancemaster Krause ANL at Junkyard Dortmund
 
-Trancemaster Krause ANL at Junkyard Dortmund on Sat 10 Oct, Dortmund-essen. 1 act on the bill: Trancemaster Krause. Trance. Preview the line-up and save it on soundcheck.
+Trancemaster Krause ANL at Junkyard Dortmund on Sat 10 Oct, Dortmund Essen. 1 artist on the bill: Trancemaster Krause. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

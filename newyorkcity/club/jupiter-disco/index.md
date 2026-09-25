@@ -2,7 +2,7 @@
 
 Jupiter Disco is a music venue in New York City with 27 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Roses: Clay Cornelius, Leon Georges, Reyer, Sibley" on Thu, 24 Sept 2026.
 
-Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 27 upcoming gigs, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB (2) and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in New York City listed on soundcheck. 27 upcoming gigs, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 

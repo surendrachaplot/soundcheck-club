@@ -1,6 +1,6 @@
 # Central X Final Cut W/ Patrick Mason, Skin On Skin, X Club at Cité du Cinéma
 
-Central X Final Cut W/ Patrick Mason, Skin On Skin, X Club at Cité du Cinéma on Fri 2 Oct, Paris. 5 acts on the bill: Olympe4000, Patrick Mason, Skin On Skin and Toscan Haas and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Central X Final Cut W/ Patrick Mason, Skin On Skin, X Club at Cité du Cinéma on Fri 2 Oct, Paris. 5 artists on the bill: Olympe4000, Patrick Mason, Skin On Skin and Toscan Haas and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

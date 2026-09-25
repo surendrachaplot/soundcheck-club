@@ -1,6 +1,6 @@
 # CONFUSION x MADFROG at Visionnaire Rome
 
-CONFUSION x MADFROG at Visionnaire Rome on Sat 10 Oct, Rome. 2 acts on the bill: Alessio Deluxe and URBANKIDZ. House and Tech House. Preview the line-up and save it on soundcheck.
+CONFUSION x MADFROG at Visionnaire Rome on Sat 10 Oct, Rome. 2 artists on the bill: Alessio Deluxe and URBANKIDZ. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

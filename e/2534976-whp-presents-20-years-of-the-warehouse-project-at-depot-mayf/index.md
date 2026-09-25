@@ -1,6 +1,6 @@
 # WHP presents: 20 Years of The Warehouse Project at Depot Mayfield
 
-WHP presents: 20 Years of The Warehouse Project at Depot Mayfield on Fri 27 Nov, Manchester. 28 acts on the bill: Benji King, Boss Priester, bullet tooth and Cam Stockman and 24 more. Preview the line-up and save it on soundcheck.
+WHP presents: 20 Years of The Warehouse Project at Depot Mayfield on Fri 27 Nov, Manchester. 28 artists on the bill: Benji King, Boss Priester, bullet tooth and Cam Stockman and 24 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

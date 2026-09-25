@@ -1,6 +1,6 @@
 # Moods at Noxe (26th floor W Barcelona) at Noxe Barcelona
 
-Moods at Noxe (26th floor W Barcelona) at Noxe Barcelona on Tue 13 Oct, Barcelona. 1 act on the bill: Vikki. House. Preview the line-up and save it on soundcheck.
+Moods at Noxe (26th floor W Barcelona) at Noxe Barcelona on Tue 13 Oct, Barcelona. 1 artist on the bill: Vikki. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FIXED with Mozhgan, JDH & Dave P, Universal Cave (all night) at Good Room
 
-FIXED with Mozhgan, JDH & Dave P, Universal Cave (all night) at Good Room on Sat 24 Oct, Newyorkcity. 3 acts on the bill: JDH & Dave P, Mozhgan and Universal Cave. Preview the line-up and save it on soundcheck.
+FIXED with Mozhgan, JDH & Dave P, Universal Cave (all night) at Good Room on Sat 24 Oct, New York City. 3 artists on the bill: JDH & Dave P, Mozhgan and Universal Cave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

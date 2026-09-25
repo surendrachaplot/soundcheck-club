@@ -1,6 +1,6 @@
 # Boris pres. Reznik at BORIS CLUB
 
-Boris pres. Reznik at BORIS CLUB on Sat 7 Nov, Barcelona. 1 act on the bill: Reznik. House and Deep House. Preview the line-up and save it on soundcheck.
+Boris pres. Reznik at BORIS CLUB on Sat 7 Nov, Barcelona. 1 artist on the bill: Reznik. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

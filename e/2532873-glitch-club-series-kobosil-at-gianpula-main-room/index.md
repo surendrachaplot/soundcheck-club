@@ -1,6 +1,6 @@
 # Glitch Club Series: Kobosil at Gianpula Main Room
 
-Glitch Club Series: Kobosil at Gianpula Main Room on Fri 13 Nov, Malta. 4 acts on the bill: INVERTED (MT), Kobosil, PEACHY and Reactant. Techno. Preview the line-up and save it on soundcheck.
+Glitch Club Series: Kobosil at Gianpula Main Room on Fri 13 Nov, Malta. 4 artists on the bill: INVERTED (MT), Kobosil, PEACHY and Reactant. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

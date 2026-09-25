@@ -1,6 +1,6 @@
 # OCD presents n4tee, Speccs & Helena at The Ulster Sports Club
 
-OCD presents n4tee, Speccs & Helena at The Ulster Sports Club on Fri 25 Sept, Belfast. 1 act on the bill: n4tee. Preview the line-up and save it on soundcheck.
+OCD presents n4tee, Speccs & Helena at The Ulster Sports Club on Fri 25 Sept, Belfast. 1 artist on the bill: n4tee. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

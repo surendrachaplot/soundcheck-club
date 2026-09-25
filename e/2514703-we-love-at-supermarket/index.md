@@ -1,6 +1,6 @@
 # WE LOVE at Supermarket
 
-WE LOVE at Supermarket on Fri 25 Sept, Zurich. 1 act on the bill: Anthik. Preview the line-up and save it on soundcheck.
+WE LOVE at Supermarket on Fri 25 Sept, Zurich. 1 artist on the bill: Anthik. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

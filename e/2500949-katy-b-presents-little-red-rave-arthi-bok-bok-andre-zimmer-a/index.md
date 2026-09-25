@@ -1,6 +1,6 @@
 # Katy B presents: Little Red Rave: Arthi, Bok Bok, Andre Zimmer at Hidden
 
-Katy B presents: Little Red Rave: Arthi, Bok Bok, Andre Zimmer at Hidden on Sat 31 Oct, Manchester. 7 acts on the bill: Andre Zimmer, Arthi, Bok Bok and Camille Doe and 3 more. Garage and Tech House. Preview the line-up and save it on soundcheck.
+Katy B presents: Little Red Rave: Arthi, Bok Bok, Andre Zimmer at Hidden on Sat 31 Oct, Manchester. 7 artists on the bill: Andre Zimmer, Arthi, Bok Bok and Camille Doe and 3 more. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

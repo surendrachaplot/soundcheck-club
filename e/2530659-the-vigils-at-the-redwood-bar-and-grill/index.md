@@ -1,6 +1,6 @@
 # The Vigils at The Redwood Bar And Grill
 
-The Vigils at The Redwood Bar And Grill on Wed 21 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+The Vigils at The Redwood Bar And Grill on Wed 21 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

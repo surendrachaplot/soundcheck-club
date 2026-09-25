@@ -2,7 +2,7 @@
 
 Antiquis Anima is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Void Club, Berlin on Sat, 26 Sept 2026.
 
-Antiquis Anima is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Nurnberg. Often billed alongside Upzet, Bæmbus and Der Eggert. Next up: Void Club, Berlin on Sat 26 Sept.
+Antiquis Anima is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Nürnberg. Often billed alongside Upzet, Bæmbus and Der Eggert. Next up: Void Club, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 

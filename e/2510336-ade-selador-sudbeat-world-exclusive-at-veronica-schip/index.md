@@ -1,6 +1,6 @@
 # ADE: Selador × Sudbeat World Exclusive at Veronica Schip
 
-ADE: Selador × Sudbeat World Exclusive at Veronica Schip on Thu 22 Oct, Amsterdam. 7 acts on the bill: Danny Howells, Dave Seaman, Graziano Raffa and Kevin Di Serna and 3 more. Progressive House and House. Preview the line-up and save it on soundcheck.
+ADE: Selador × Sudbeat World Exclusive at Veronica Schip on Thu 22 Oct, Amsterdam. 7 artists on the bill: Danny Howells, Dave Seaman, Graziano Raffa and Kevin Di Serna and 3 more. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

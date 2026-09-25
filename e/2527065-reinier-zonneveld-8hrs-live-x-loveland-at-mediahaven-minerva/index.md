@@ -1,6 +1,6 @@
 # Reinier Zonneveld 8HRS Live x Loveland at Mediahaven - Minervahaven
 
-Reinier Zonneveld 8HRS Live x Loveland at Mediahaven - Minervahaven on Sun 25 Oct, Amsterdam. 1 act on the bill: Reinier Zonneveld. Techno and Acid. Preview the line-up and save it on soundcheck.
+Reinier Zonneveld 8HRS Live x Loveland at Mediahaven - Minervahaven on Sun 25 Oct, Amsterdam. 1 artist on the bill: Reinier Zonneveld. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

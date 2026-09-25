@@ -1,6 +1,6 @@
 # SHINE -- Silva Bumpa at The Limelight
 
-SHINE -- Silva Bumpa at The Limelight on Fri 9 Oct, Belfast. 1 act on the bill: Silva Bumpa. Preview the line-up and save it on soundcheck.
+SHINE -- Silva Bumpa at The Limelight on Fri 9 Oct, Belfast. 1 artist on the bill: Silva Bumpa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

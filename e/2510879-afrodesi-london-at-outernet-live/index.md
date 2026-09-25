@@ -1,6 +1,6 @@
 # AFRODESI London at Outernet Live
 
-AFRODESI London at Outernet Live on Sat 24 Oct, London. 1 act on the bill: MR SAJ. Afrobeat. Preview the line-up and save it on soundcheck.
+AFRODESI London at Outernet Live on Sat 24 Oct, London. 1 artist on the bill: MR SAJ. Afrobeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

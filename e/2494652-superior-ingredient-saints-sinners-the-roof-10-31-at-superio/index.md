@@ -1,6 +1,6 @@
 # Superior Ingredient - Saints & Sinners - The Roof 10/31 at Superior Ingredients
 
-Superior Ingredient - Saints & Sinners - The Roof 10/31 at Superior Ingredients on Sat 31 Oct, Newyorkcity. Techno and EBM. Preview the line-up and save it on soundcheck.
+Superior Ingredient - Saints & Sinners - The Roof 10/31 at Superior Ingredients on Sat 31 Oct, New York City. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

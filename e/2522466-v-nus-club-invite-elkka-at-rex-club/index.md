@@ -1,6 +1,6 @@
 # VÉNUS CLUB INVITE Elkka at Rex Club
 
-VÉNUS CLUB INVITE Elkka at Rex Club on Sat 26 Sept, Paris. 3 acts on the bill: Elkka, Sainte Exp and Vickies. House and Electro. Preview the line-up and save it on soundcheck.
+VÉNUS CLUB INVITE Elkka at Rex Club on Sat 26 Sept, Paris. 3 artists on the bill: Elkka, Sainte Exp and Vickies. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

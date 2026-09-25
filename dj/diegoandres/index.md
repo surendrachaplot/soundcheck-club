@@ -2,7 +2,7 @@
 
 Diego Andres is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Zoko Collective, Miami on Sat, 26 Sept 2026.
 
-Diego Andres is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Denver, Miami and Newyorkcity. Often billed alongside Nico Tobón, Terence Tabeau and Artime. Next up: Zoko Collective, Miami on Sat 26 Sept.
+Diego Andres is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Denver, Miami and New York City. Often billed alongside Nico Tobón, Terence Tabeau and Artime. Next up: Zoko Collective, Miami on Sat 26 Sept.
 
 ## Upcoming shows
 

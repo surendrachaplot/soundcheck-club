@@ -1,6 +1,6 @@
 # Nido label night: Tresydos avec Lis Sarroca, Mari.te, Papolious Jones, Vince Void at Nido Marseille
 
-Nido label night: Tresydos avec Lis Sarroca, Mari.te, Papolious Jones, Vince Void at Nido Marseille on Sat 17 Oct, Marseille. 3 acts on the bill: Lis Sarroca, Mari.te and Vince Void. Preview the line-up and save it on soundcheck.
+Nido label night: Tresydos avec Lis Sarroca, Mari.te, Papolious Jones, Vince Void at Nido Marseille on Sat 17 Oct, Marseille. 3 artists on the bill: Lis Sarroca, Mari.te and Vince Void. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

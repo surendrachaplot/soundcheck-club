@@ -1,6 +1,6 @@
 # Urban Spree KLUBNACHT (Kim, Kyra) at Urban Spree
 
-Urban Spree KLUBNACHT (Kim, Kyra) on Fri 16 Oct, Berlin. 2 acts on the bill: Kim (FR) and Kyra [techno]. Techno. Preview the line-up and save it on soundcheck.
+Urban Spree KLUBNACHT (Kim, Kyra) on Fri 16 Oct, Berlin. 2 artists on the bill: Kim (FR) and Kyra [techno]. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

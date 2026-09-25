@@ -1,6 +1,6 @@
 # The Nursery: Frank & Tony, Roman Flügel at public records
 
-The Nursery: Frank & Tony, Roman Flügel at public records on Sun 11 Oct, Newyorkcity. 2 acts on the bill: Frank & Tony and Roman Flügel. Deep House. Preview the line-up and save it on soundcheck.
+The Nursery: Frank & Tony, Roman Flügel at public records on Sun 11 Oct, New York City. 2 artists on the bill: Frank & Tony and Roman Flügel. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

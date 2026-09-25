@@ -1,6 +1,6 @@
 # 77: SONA at 77
 
-77: SONA on Fri 6 Nov, London. 1 act on the bill: SONA (2). Afro House. Preview the line-up and save it on soundcheck.
+77: SONA on Fri 6 Nov, London. 1 artist on the bill: SONA. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

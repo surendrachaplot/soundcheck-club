@@ -1,6 +1,6 @@
 # Public Possession BONUS - Haus der Kunst Open Haus at Haus der Kunst
 
-Public Possession BONUS - Haus der Kunst Open Haus on Fri 25 Sept, Munich. 1 act on the bill: Public Possession. Preview the line-up and save it on soundcheck.
+Public Possession BONUS - Haus der Kunst Open Haus on Fri 25 Sept, Munich. 1 artist on the bill: Public Possession. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

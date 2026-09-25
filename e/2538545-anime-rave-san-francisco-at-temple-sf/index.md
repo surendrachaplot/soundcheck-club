@@ -1,6 +1,6 @@
 # Anime Rave San Francisco at Temple SF
 
-Anime Rave San Francisco at Temple SF on Fri 13 Nov, Sanfrancisco. 1 act on the bill: TBA. Preview the line-up and save it on soundcheck.
+Anime Rave San Francisco at Temple SF on Fri 13 Nov, San Francisco/Oakland. 1 artist on the bill: TBA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

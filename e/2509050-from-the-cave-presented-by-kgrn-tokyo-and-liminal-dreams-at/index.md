@@ -1,6 +1,6 @@
 # From The Cave presented by KGRn TOKYO and Liminal Dreams at KGR(n)
 
-From The Cave presented by KGRn TOKYO and Liminal Dreams at KGR(n) on Fri 20 Nov, Tokyo. 2 acts on the bill: C-KAY and Lemna. Experimental. Preview the line-up and save it on soundcheck.
+From The Cave presented by KGRn TOKYO and Liminal Dreams at KGR(n) on Fri 20 Nov, Tokyo. 2 artists on the bill: C-KAY and Lemna. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

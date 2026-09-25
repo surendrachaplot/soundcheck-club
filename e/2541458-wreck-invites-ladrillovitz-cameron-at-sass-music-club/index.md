@@ -1,6 +1,6 @@
 # WRECK invites Ladrillovitz & Cameron at SASS Music Club
 
-WRECK invites Ladrillovitz & Cameron at SASS Music Club on Sat 26 Sept, Vienna. 4 acts on the bill: -LaLa-, Æ-X, CAMMMMM and Ladrillovitz. House and Electro. Preview the line-up and save it on soundcheck.
+WRECK invites Ladrillovitz & Cameron at SASS Music Club on Sat 26 Sept, Vienna. 4 artists on the bill: -LaLa-, Æ-X, CAMMMMM and Ladrillovitz. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

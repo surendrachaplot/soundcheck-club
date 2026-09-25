@@ -1,6 +1,6 @@
 # THISQ at Teranoma Tidepool
 
-THISQ at Teranoma Tidepool on Sat 26 Sept, Osaka. 2 acts on the bill: Mercy. and Nanako Yamane. House. Preview the line-up and save it on soundcheck.
+THISQ at Teranoma Tidepool on Sat 26 Sept, Osaka. 2 artists on the bill: Mercy. and Nanako Yamane. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

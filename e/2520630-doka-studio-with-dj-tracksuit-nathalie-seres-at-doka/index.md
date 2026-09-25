@@ -1,6 +1,6 @@
 # Doka Studio with DJ Tracksuit - Nathalie Seres at Doka
 
-Doka Studio with DJ Tracksuit - Nathalie Seres on Sat 26 Sept, Amsterdam. 2 acts on the bill: DJ Tracksuit and Nathalie Seres. Disco. Preview the line-up and save it on soundcheck.
+Doka Studio with DJ Tracksuit - Nathalie Seres on Sat 26 Sept, Amsterdam. 2 artists on the bill: DJ Tracksuit and Nathalie Seres. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

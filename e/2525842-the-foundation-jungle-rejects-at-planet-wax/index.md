@@ -1,6 +1,6 @@
 # THE FOUNDATION: JUNGLE REJECTS at Planet Wax
 
-THE FOUNDATION: JUNGLE REJECTS at Planet Wax on Thu 24 Sept, London. 3 acts on the bill: Kara (UK), Millz and Wilman. Drum & Bass. Preview the line-up and save it on soundcheck.
+THE FOUNDATION: JUNGLE REJECTS at Planet Wax on Thu 24 Sept, London. 3 artists on the bill: Kara (UK), Millz and Wilman. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

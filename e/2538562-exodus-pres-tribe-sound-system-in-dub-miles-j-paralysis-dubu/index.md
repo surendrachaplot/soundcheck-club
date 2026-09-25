@@ -1,6 +1,6 @@
 # Exodus pres Tribe Sound System 'In Dub', Miles J Paralysis & Duburban at Outlaws Yacht Club
 
-Exodus pres Tribe Sound System 'In Dub', Miles J Paralysis & Duburban at Outlaws Yacht Club on Sun 18 Oct, Leeds. 2 acts on the bill: Miles J Paralysis and Simon Scott. Dub and Dub Techno. Preview the line-up and save it on soundcheck.
+Exodus pres Tribe Sound System 'In Dub', Miles J Paralysis & Duburban at Outlaws Yacht Club on Sun 18 Oct, Leeds. 2 artists on the bill: Miles J Paralysis and Simon Scott. Dub and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

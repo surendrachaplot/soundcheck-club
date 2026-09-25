@@ -1,6 +1,6 @@
 # Decius (Live) at New Century Locker
 
-Decius (Live) at New Century Locker on Fri 30 Oct, Manchester. 1 act on the bill: Decius. Techno and Acid. Preview the line-up and save it on soundcheck.
+Decius (Live) at New Century Locker on Fri 30 Oct, Manchester. 1 artist on the bill: Decius. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

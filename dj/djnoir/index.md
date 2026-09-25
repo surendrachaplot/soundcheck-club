@@ -2,7 +2,7 @@
 
 DJ Noir is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Sat, 3 Oct 2026.
 
-DJ Noir is a club and house artist based in United States of America, tracked on soundcheck, with 49 sets logged across Losangeles, Newyorkcity, Sandiego and Seattle. Often billed alongside JAE JBW, Alleygorgon and TR-666. Next up: TBA - Los Angeles (Warehouse), Losangeles on Sat 3 Oct.
+DJ Noir is a club and house artist based in United States of America, tracked on soundcheck, with 49 sets logged across Los Angeles, New York City, San Diego and Seattle. Often billed alongside JAE JBW, Alleygorgon and TR-666. Next up: TBA - Los Angeles (Warehouse), Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 

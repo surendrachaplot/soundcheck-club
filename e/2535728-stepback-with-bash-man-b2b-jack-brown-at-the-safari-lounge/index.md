@@ -1,6 +1,6 @@
 # Stepback with Bash Man b2b Jack Brown at The Safari Lounge
 
-Stepback with Bash Man b2b Jack Brown at The Safari Lounge on Fri 25 Sept, Edinburgh. 3 acts on the bill: Bash Man, Keyte and WolfJazz. Techno and Acid. Preview the line-up and save it on soundcheck.
+Stepback with Bash Man b2b Jack Brown at The Safari Lounge on Fri 25 Sept, Edinburgh. 3 artists on the bill: Bash Man, Keyte and WolfJazz. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

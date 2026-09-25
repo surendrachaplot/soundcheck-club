@@ -1,6 +1,6 @@
 # All Dayer with special guest Chris Davies (Disco Freaks) UK/ Swe at H15 Scene & Studio
 
-All Dayer with special guest Chris Davies (Disco Freaks) UK/ Swe at H15 Scene & Studio on Sun 4 Oct, Copenhagen. 3 acts on the bill: Daniel Kaarill, Disco Freaks and Fergus Murphy. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+All Dayer with special guest Chris Davies (Disco Freaks) UK/ Swe at H15 Scene & Studio on Sun 4 Oct, Copenhagen. 3 artists on the bill: Daniel Kaarill, Disco Freaks and Fergus Murphy. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

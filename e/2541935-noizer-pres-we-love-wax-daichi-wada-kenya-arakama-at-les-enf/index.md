@@ -1,6 +1,6 @@
 # Noizer pres. We Love Wax: Daichi Wada + Kenya Arakama at Les Enfants Brillants
 
-Noizer pres. We Love Wax: Daichi Wada + Kenya Arakama at Les Enfants Brillants on Thu 15 Oct, Barcelona. 2 acts on the bill: Daichi Wada and Kenya Arakama. Preview the line-up and save it on soundcheck.
+Noizer pres. We Love Wax: Daichi Wada + Kenya Arakama at Les Enfants Brillants on Thu 15 Oct, Barcelona. 2 artists on the bill: Daichi Wada and Kenya Arakama. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

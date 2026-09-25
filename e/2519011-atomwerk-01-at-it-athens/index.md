@@ -1,6 +1,6 @@
 # atomwerk 01 at IT Athens
 
-atomwerk 01 at IT Athens on Fri 25 Sept, Athens. 1 act on the bill: Nico Kass. Preview the line-up and save it on soundcheck.
+atomwerk 01 at IT Athens on Fri 25 Sept, Athens. 1 artist on the bill: Nico Kass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

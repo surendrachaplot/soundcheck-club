@@ -1,6 +1,6 @@
 # Frædag: Maribou State DJ set + G-HA & Olanskii + Olefonken at Jaeger
 
-Frædag: Maribou State DJ set + G-HA & Olanskii + Olefonken at Jaeger on Fri 6 Nov, Oslo. 4 acts on the bill: G-HA, Maribou State, Olanskii and Olefonken. House. Preview the line-up and save it on soundcheck.
+Frædag: Maribou State DJ set + G-HA & Olanskii + Olefonken at Jaeger on Fri 6 Nov, Oslo. 4 artists on the bill: G-HA, Maribou State, Olanskii and Olefonken. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

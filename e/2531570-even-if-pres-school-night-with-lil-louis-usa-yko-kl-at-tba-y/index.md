@@ -1,6 +1,6 @@
 # even if. pres School Night with Lil' Louis (USA) - YKO KL at TBA - YKO KL - THE FIVE DAMANSARA HEIGHTS
 
-even if. pres School Night with Lil' Louis (USA) - YKO KL at TBA - YKO KL - THE FIVE DAMANSARA HEIGHTS on Wed 7 Oct, Kualalumpur. 3 acts on the bill: JonnyVicious, Lil' Louis and LZZY. House and Ballroom. Preview the line-up and save it on soundcheck.
+even if. pres School Night with Lil' Louis (USA) - YKO KL at TBA - YKO KL - THE FIVE DAMANSARA HEIGHTS on Wed 7 Oct, Kuala Lumpur. 3 artists on the bill: JonnyVicious, Lil' Louis and LZZY. House and Ballroom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bambule (Underground, All Time Favourites, Urban) at Cassiopeia
 
-Bambule (Underground, All Time Favourites, Urban) at Cassiopeia on Sat 26 Sept, Berlin. 2 acts on the bill: PADERKID and TraumaMia. House and Pop. Preview the line-up and save it on soundcheck.
+Bambule (Underground, All Time Favourites, Urban) at Cassiopeia on Sat 26 Sept, Berlin. 2 artists on the bill: PADERKID and TraumaMia. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

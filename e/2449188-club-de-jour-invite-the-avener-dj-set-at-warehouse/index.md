@@ -1,6 +1,6 @@
 # Club de Jour invite The Avener (Dj set) at Warehouse
 
-Club de Jour invite The Avener (Dj set) at Warehouse on Sat 12 Dec, Nantes. 2 acts on the bill: Dan Bono and The Avener. House and Electro. Preview the line-up and save it on soundcheck.
+Club de Jour invite The Avener (Dj set) at Warehouse on Sat 12 Dec, Nantes. 2 artists on the bill: Dan Bono and The Avener. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

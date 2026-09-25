@@ -1,6 +1,6 @@
 # Boris pres. Dimitri From Paris, YALL at BORIS CLUB
 
-Boris pres. Dimitri From Paris, YALL at BORIS CLUB on Sat 10 Oct, Barcelona. 2 acts on the bill: Dimitri From Paris and K:ROL. House and Disco. Preview the line-up and save it on soundcheck.
+Boris pres. Dimitri From Paris, YALL at BORIS CLUB on Sat 10 Oct, Barcelona. 2 artists on the bill: Dimitri From Paris and K:ROL. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Small Projects pres. Alex Banks [A/V LIVE] with Wu Zhuoling (live) at OIL Club
 
-Small Projects pres. Alex Banks [A/V LIVE] with Wu Zhuoling (live) at OIL Club on Thu 24 Sept, Shenzhen. 4 acts on the bill: Alex Banks, Alion, o0 (1) and Wu Zhuoling. Techno and IDM. Preview the line-up and save it on soundcheck.
+Small Projects pres. Alex Banks [A/V LIVE] with Wu Zhuoling (live) at OIL Club on Thu 24 Sept, Shenzhen. 4 artists on the bill: Alex Banks, Alion, o0 and Wu Zhuoling. Techno and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

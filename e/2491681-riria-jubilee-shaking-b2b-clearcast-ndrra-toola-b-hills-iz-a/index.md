@@ -1,6 +1,6 @@
 # RIRIA, Jubilee, SHAKING b2b Clearcast, āndrra: Toola, B Hills, IZ:AK at Elsewhere
 
-RIRIA, Jubilee, SHAKING b2b Clearcast, āndrra: Toola, B Hills, IZ:AK at Elsewhere on Sat 3 Oct, Newyorkcity. 5 acts on the bill: B Hills, Clearcast, Jubilee and RIRIA and 1 more. Preview the line-up and save it on soundcheck.
+RIRIA, Jubilee, SHAKING b2b Clearcast, āndrra: Toola, B Hills, IZ:AK at Elsewhere on Sat 3 Oct, New York City. 5 artists on the bill: B Hills, Clearcast, Jubilee and RIRIA and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

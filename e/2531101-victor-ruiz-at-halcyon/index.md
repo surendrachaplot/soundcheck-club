@@ -1,6 +1,6 @@
 # Victor Ruiz at Halcyon
 
-Victor Ruiz at Halcyon on Fri 23 Oct, Sanfrancisco. 1 act on the bill: Victor Ruiz. Preview the line-up and save it on soundcheck.
+Victor Ruiz at Halcyon on Fri 23 Oct, San Francisco/Oakland. 1 artist on the bill: Victor Ruiz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

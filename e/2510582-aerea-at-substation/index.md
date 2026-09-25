@@ -1,6 +1,6 @@
 # AEREA at Substation
 
-AEREA at Substation on Sat 14 Nov, Seattle. 1 act on the bill: AEREA. Techno. Preview the line-up and save it on soundcheck.
+AEREA at Substation on Sat 14 Nov, Seattle. 1 artist on the bill: AEREA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

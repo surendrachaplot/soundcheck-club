@@ -2,7 +2,7 @@
 
 KINETIKS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 17 Oct 2026.
 
-KINETIKS is a house and techno artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht and 1 more. Often billed alongside Lucky Done Gone, AUTOFLOWER and Kara Okay. Next up: Shelter Amsterdam, Amsterdam on Sat 17 Oct.
+KINETIKS is a house and techno artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Rotterdam, The Hague and Utrecht and 1 more. Often billed alongside Lucky Done Gone, AUTOFLOWER and Kara Okay. Next up: Shelter Amsterdam, Amsterdam on Sat 17 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Afra b2b L.F.T. (10 Hours Long) at export
 
-Afra b2b L.F.T. (10 Hours Long) at export on Fri 2 Oct, Rotterdam. 2 acts on the bill: Afra and L.F.T.. Techno and Electro. Preview the line-up and save it on soundcheck.
+Afra b2b L.F.T. (10 Hours Long) at export on Fri 2 Oct, Rotterdam. 2 artists on the bill: Afra and L.F.T.. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

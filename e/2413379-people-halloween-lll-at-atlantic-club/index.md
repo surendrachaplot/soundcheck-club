@@ -1,6 +1,6 @@
 # PEOPLE HALLOWEEN lll at Atlantic Club
 
-PEOPLE HALLOWEEN lll at Atlantic Club on Sat 31 Oct, Barcelona. 1 act on the bill: Couce. House. Preview the line-up and save it on soundcheck.
+PEOPLE HALLOWEEN lll at Atlantic Club on Sat 31 Oct, Barcelona. 1 artist on the bill: Couce. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

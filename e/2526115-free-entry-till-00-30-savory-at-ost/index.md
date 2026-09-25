@@ -1,6 +1,6 @@
 # [FREE ENTRY TILL 00:30] SAVORY at OST
 
-[FREE ENTRY TILL 00:30] SAVORY at OST on Thu 22 Oct, Berlin. 3 acts on the bill: Jayé, Viktoria Spielmann and WAN.1. Techno. Preview the line-up and save it on soundcheck.
+[FREE ENTRY TILL 00:30] SAVORY at OST on Thu 22 Oct, Berlin. 3 artists on the bill: Jayé, Viktoria Spielmann and WAN.1. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

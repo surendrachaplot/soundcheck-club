@@ -1,6 +1,6 @@
 # Grow PRESENTS: CSGRV & DEMACQUE + SPECIAL GUEST RICK VAYO [LIVE] at Grow
 
-Grow PRESENTS: CSGRV & DEMACQUE + SPECIAL GUEST RICK VAYO [LIVE] on Sat 3 Oct, London. 2 acts on the bill: CSGRV and Tapefeed. Techno and House. Preview the line-up and save it on soundcheck.
+Grow PRESENTS: CSGRV & DEMACQUE + SPECIAL GUEST RICK VAYO [LIVE] on Sat 3 Oct, London. 2 artists on the bill: CSGRV and Tapefeed. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Havox Presents: Jalo, Imperia & Umbra at Room 2 Glasgow
 
-Havox Presents: Jalo, Imperia & Umbra at Room 2 Glasgow on Fri 4 Dec, Glasgow. 2 acts on the bill: Jalo and UMBRA. Techno. Preview the line-up and save it on soundcheck.
+Havox Presents: Jalo, Imperia & Umbra at Room 2 Glasgow on Fri 4 Dec, Glasgow. 2 artists on the bill: Jalo and UMBRA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

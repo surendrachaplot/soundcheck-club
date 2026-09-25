@@ -1,6 +1,6 @@
 # Halloween: Dr Banana + Locky + dj sweet6teen at FORGE
 
-Halloween: Dr Banana + Locky + dj sweet6teen at FORGE on Fri 30 Oct, Sheffield. 3 acts on the bill: dj sweet6teen, Dr Banana and Locky. Preview the line-up and save it on soundcheck.
+Halloween: Dr Banana + Locky + dj sweet6teen at FORGE on Fri 30 Oct, Sheffield. 3 artists on the bill: dj sweet6teen, Dr Banana and Locky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Slippin' - Satl, SL8R, Ephyra, Chamba at The Jam Jar
 
-Slippin' - Satl, SL8R, Ephyra, Chamba at The Jam Jar on Sat 10 Oct, Bristol. 3 acts on the bill: Chamba, Satl and SL8R. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Slippin' - Satl, SL8R, Ephyra, Chamba at The Jam Jar on Sat 10 Oct, Bristol. 3 artists on the bill: Chamba, Satl and SL8R. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

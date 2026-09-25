@@ -1,6 +1,6 @@
 # BODY: HI 4-Year Anniversary at TBA - LOCATION EMAILED TO TICKETHOLDERS
 
-BODY: HI 4-Year Anniversary at TBA - LOCATION EMAILED TO TICKETHOLDERS on Fri 25 Sept, Chicago. 14 acts on the bill: Glamour Cadaver, Kiernan Laveaux, Lauren Flax and Miss Twink USA and 10 more. Techno and House. Preview the line-up and save it on soundcheck.
+BODY: HI 4-Year Anniversary at TBA - LOCATION EMAILED TO TICKETHOLDERS on Fri 25 Sept, Chicago. 14 artists on the bill: Glamour Cadaver, Kiernan Laveaux, Lauren Flax and Miss Twink USA and 10 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

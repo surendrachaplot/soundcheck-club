@@ -1,6 +1,6 @@
 # SKNHDZ at DJ Bar Bridge Shinjuku
 
-SKNHDZ at DJ Bar Bridge Shinjuku on Wed 4 Nov, Tokyo. 1 act on the bill: SKNHDZ. House. Preview the line-up and save it on soundcheck.
+SKNHDZ at DJ Bar Bridge Shinjuku on Wed 4 Nov, Tokyo. 1 artist on the bill: SKNHDZ. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

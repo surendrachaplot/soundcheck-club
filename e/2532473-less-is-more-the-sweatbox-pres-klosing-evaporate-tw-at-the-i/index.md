@@ -1,6 +1,6 @@
 # Less Is More & The Sweatbox pres. Klosing ( Evaporate, TW) at The Iron Fairies Kuala Lumpur
 
-Less Is More & The Sweatbox pres. Klosing ( Evaporate, TW) at The Iron Fairies Kuala Lumpur on Sat 26 Sept, Kualalumpur. 3 acts on the bill: Klosing, Obadius and OtherKind. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Less Is More & The Sweatbox pres. Klosing ( Evaporate, TW) at The Iron Fairies Kuala Lumpur on Sat 26 Sept, Kuala Lumpur. 3 artists on the bill: Klosing, Obadius and OtherKind. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

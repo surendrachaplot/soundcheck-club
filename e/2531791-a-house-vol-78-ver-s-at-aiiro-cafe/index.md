@@ -1,6 +1,6 @@
 # A HOUSE vol 78 ~Ver. S~ at Aiiro Cafe
 
-A HOUSE vol 78 ~Ver. S~ at Aiiro Cafe on Sat 26 Sept, Tokyo. 3 acts on the bill: Issyo, KDT and Kitano. House and Tech House. Preview the line-up and save it on soundcheck.
+A HOUSE vol 78 ~Ver. S~ at Aiiro Cafe on Sat 26 Sept, Tokyo. 3 artists on the bill: Issyo, KDT and Kitano. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

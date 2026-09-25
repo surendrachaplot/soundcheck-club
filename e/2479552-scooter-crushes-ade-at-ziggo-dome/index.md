@@ -1,6 +1,6 @@
 # Scooter Crushes ADE at Ziggo Dome
 
-Scooter Crushes ADE at Ziggo Dome on Sun 25 Oct, Amsterdam. 1 act on the bill: Scooter. Preview the line-up and save it on soundcheck.
+Scooter Crushes ADE at Ziggo Dome on Sun 25 Oct, Amsterdam. 1 artist on the bill: Scooter. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

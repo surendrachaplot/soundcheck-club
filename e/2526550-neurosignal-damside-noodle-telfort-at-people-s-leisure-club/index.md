@@ -1,6 +1,6 @@
 # neurosignal: damside, noodle + Telfort at People's Leisure Club
 
-neurosignal: damside, noodle + Telfort at People's Leisure Club on Fri 2 Oct, Edinburgh. 3 acts on the bill: damside, noodle and Telfort. House and Minimal. Preview the line-up and save it on soundcheck.
+neurosignal: damside, noodle + Telfort at People's Leisure Club on Fri 2 Oct, Edinburgh. 3 artists on the bill: damside, noodle and Telfort. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

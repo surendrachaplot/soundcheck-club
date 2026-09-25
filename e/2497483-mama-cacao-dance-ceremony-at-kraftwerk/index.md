@@ -1,6 +1,6 @@
 # Mama Cacao Dance Ceremony at Kraftwerk
 
-Mama Cacao Dance Ceremony at Kraftwerk on Sun 22 Nov, Zurich. 1 act on the bill: Jkson. Preview the line-up and save it on soundcheck.
+Mama Cacao Dance Ceremony at Kraftwerk on Sun 22 Nov, Zurich. 1 artist on the bill: Jkson. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

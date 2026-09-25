@@ -1,6 +1,6 @@
 # Yasmin Gardezi at KALT
 
-Yasmin Gardezi at KALT on Sat 24 Oct, Strasbourg. 2 acts on the bill: FTFL and Yasmin Gardezi. Preview the line-up and save it on soundcheck.
+Yasmin Gardezi at KALT on Sat 24 Oct, Strasbourg. 2 artists on the bill: FTFL and Yasmin Gardezi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

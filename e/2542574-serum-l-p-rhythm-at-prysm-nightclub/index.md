@@ -1,6 +1,6 @@
 # Serum: L.P. Rhythm at Prysm Nightclub
 
-Serum: L.P. Rhythm at Prysm Nightclub on Sat 17 Oct, Chicago. 2 acts on the bill: L.P. Rhythm and Moorhaus. House and Minimal. Preview the line-up and save it on soundcheck.
+Serum: L.P. Rhythm at Prysm Nightclub on Sat 17 Oct, Chicago. 2 artists on the bill: L.P. Rhythm and Moorhaus. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

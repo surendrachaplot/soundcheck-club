@@ -1,6 +1,6 @@
 # Club Culture: Rødhåd & Niqi at Dx
 
-Club Culture: Rødhåd & Niqi at Dx on Thu 17 Dec, Boston. 2 acts on the bill: Niqi and Rødhåd. Techno. Preview the line-up and save it on soundcheck.
+Club Culture: Rødhåd & Niqi at Dx on Thu 17 Dec, Boston. 2 artists on the bill: Niqi and Rødhåd. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

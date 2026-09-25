@@ -1,6 +1,6 @@
 # Locura Grovvy at The Cloud
 
-Locura Grovvy at The Cloud on Sat 24 Oct, Berlin. 4 acts on the bill: Diana May, Mosher, Ramiro Lopez and V3NÜ5. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Locura Grovvy at The Cloud on Sat 24 Oct, Berlin. 4 artists on the bill: Diana May, Mosher, Ramiro Lopez and V3NÜ5. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

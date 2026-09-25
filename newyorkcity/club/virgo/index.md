@@ -2,7 +2,7 @@
 
 Virgo is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sleepy & Boo" on Sat, 10 Oct 2026.
 
-Virgo is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including Sleepy & Boo. Browse upcoming dates, start times and who's playing. 324 Grand St, New York, New York, 10002.
+Virgo is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Sleepy & Boo. Browse upcoming dates, start times and who's playing. 324 Grand St, New York, New York, 10002.
 
 ## What's on
 

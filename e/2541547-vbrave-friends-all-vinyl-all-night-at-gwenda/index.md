@@ -1,6 +1,6 @@
 # VBRAVE & Friends: All Vinyl, All Night at Gwenda
 
-VBRAVE & Friends: All Vinyl, All Night at Gwenda on Sat 10 Oct, London. 3 acts on the bill: Aur0m, Benebe and MAÏS. House and Disco. Preview the line-up and save it on soundcheck.
+VBRAVE & Friends: All Vinyl, All Night at Gwenda on Sat 10 Oct, London. 3 artists on the bill: Aur0m, Benebe and MAÏS. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Club Vaag invites Ueberrest, TASSERY & THISO at Club Vaag
 
-Club Vaag invites Ueberrest, TASSERY & THISO on Sun 25 Oct, Antwerp. 4 acts on the bill: JIPSEY, TASSERY, THISO and Ueberrest. Preview the line-up and save it on soundcheck.
+Club Vaag invites Ueberrest, TASSERY & THISO on Sun 25 Oct, Antwerp. 4 artists on the bill: JIPSEY, TASSERY, THISO and Ueberrest. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

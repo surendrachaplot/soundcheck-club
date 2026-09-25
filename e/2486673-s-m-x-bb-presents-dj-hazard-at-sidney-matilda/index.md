@@ -1,6 +1,6 @@
 # S&M x BB presents: DJ Hazard at Sidney & Matilda
 
-S&M x BB presents: DJ Hazard at Sidney & Matilda on Fri 20 Nov, Sheffield. 1 act on the bill: DJ Hazard. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+S&M x BB presents: DJ Hazard at Sidney & Matilda on Fri 20 Nov, Sheffield. 1 artist on the bill: DJ Hazard. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

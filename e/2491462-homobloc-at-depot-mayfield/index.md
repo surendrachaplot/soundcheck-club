@@ -1,6 +1,6 @@
 # HOMOBLOC at Depot Mayfield
 
-HOMOBLOC at Depot Mayfield on Sat 26 Sept, Manchester. 38 acts on the bill: Aiden Francis, ALCATRAZ, ARMANA KHAN and Banksie and 34 more. House. Preview the line-up and save it on soundcheck.
+HOMOBLOC at Depot Mayfield on Sat 26 Sept, Manchester. 38 artists on the bill: Aiden Francis, ALCATRAZ, ARMANA KHAN and Banksie and 34 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

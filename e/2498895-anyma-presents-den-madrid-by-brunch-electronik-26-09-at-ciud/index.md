@@ -1,6 +1,6 @@
 # Anyma presents ÆDEN Madrid by Brunch Electronik 26.09 at Ciudad Del Rock
 
-Anyma presents ÆDEN Madrid by Brunch Electronik 26.09 at Ciudad Del Rock on Sat 26 Sept, Madrid. 6 acts on the bill: Anyma, CamelPhat, Layla Benitez and Miss Monique and 2 more. Preview the line-up and save it on soundcheck.
+Anyma presents ÆDEN Madrid by Brunch Electronik 26.09 at Ciudad Del Rock on Sat 26 Sept, Madrid. 6 artists on the bill: Anyma, CamelPhat, Layla Benitez and Miss Monique and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

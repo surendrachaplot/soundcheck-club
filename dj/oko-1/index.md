@@ -2,7 +2,7 @@
 
 OKO (1) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Adam Riese, Frankfurt on Fri, 16 Oct 2026.
 
-OKO (1) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Bristol, Cologne, Edinburgh and Frankfurt and 6 more. Often billed alongside Diagnostix, Duskee and A Little Sound. Next up: Adam Riese, Frankfurt on Fri 16 Oct.
+OKO is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Bristol, Cologne, Edinburgh and Frankfurt and 6 more. Often billed alongside Diagnostix, Duskee and A Little Sound. Next up: Adam Riese, Frankfurt on Fri 16 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # .VRIL at KEPK at KEPK
 
-.VRIL at KEPK on Sun 4 Oct, Brisbane. 4 acts on the bill: .VRIL, Jamie Grenenger, Luke Handsfree and Rikki Newton. Techno. Preview the line-up and save it on soundcheck.
+.VRIL at KEPK on Sun 4 Oct, Brisbane. 4 artists on the bill: .VRIL, Jamie Grenenger, Luke Handsfree and Rikki Newton. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

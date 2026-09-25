@@ -1,6 +1,6 @@
 # Madam by Night invites: LABELS. presents: Unnamed & Unknown at Madam
 
-Madam by Night invites: LABELS. presents: Unnamed & Unknown on Fri 2 Oct, Amsterdam. 2 acts on the bill: Gino Da Koda and Sanne Dammers. Tech House. Preview the line-up and save it on soundcheck.
+Madam by Night invites: LABELS. presents: Unnamed & Unknown on Fri 2 Oct, Amsterdam. 2 artists on the bill: Gino Da Koda and Sanne Dammers. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sinapsis x Undancel x BROKEN TOYS at TBA - Lazo & Secret Location
 
-Sinapsis x Undancel x BROKEN TOYS at TBA - Lazo & Secret Location on Sat 10 Oct, Madrid. 6 acts on the bill: ACID DRIFT, HCOR, Irrational Language and Sann Ku and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Sinapsis x Undancel x BROKEN TOYS at TBA - Lazo & Secret Location on Sat 10 Oct, Madrid. 6 artists on the bill: ACID DRIFT, HCOR, Irrational Language and Sann Ku and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

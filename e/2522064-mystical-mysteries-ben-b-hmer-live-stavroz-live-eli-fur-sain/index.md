@@ -1,6 +1,6 @@
 # Mystical Mysteries: Ben Böhmer (live), Stavroz (live), Eli & Fur, Sainte Vie at Ex Hacienda de San Pablo de Enmedio
 
-Mystical Mysteries: Ben Böhmer (live), Stavroz (live), Eli & Fur, Sainte Vie at Ex Hacienda de San Pablo de Enmedio on Fri 30 Oct, Mexicocity. 6 acts on the bill: Alma Linda, Ben Böhmer, Eli & Fur and Lemurian and 2 more. House and Downtempo. Preview the line-up and save it on soundcheck.
+Mystical Mysteries: Ben Böhmer (live), Stavroz (live), Eli & Fur, Sainte Vie at Ex Hacienda de San Pablo de Enmedio on Fri 30 Oct, Mexico City. 6 artists on the bill: Alma Linda, Ben Böhmer, Eli & Fur and Lemurian and 2 more. House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

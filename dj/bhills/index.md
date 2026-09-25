@@ -2,7 +2,7 @@
 
 B Hills is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Elsewhere, New York City on Sat, 3 Oct 2026.
 
-B Hills is a house and deep house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside Amil, Saint Valentine and Atilla Ural. Next up: Elsewhere, Newyorkcity on Sat 3 Oct.
+B Hills is a house and deep house artist based in United States of America, tracked on soundcheck, with 15 sets logged across New York City. Often billed alongside Amil, Saint Valentine and Atilla Ural. Next up: Elsewhere, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # Refuge Thursday with Sam Alfred at Refuge
 
-Refuge Thursday with Sam Alfred on Thu 1 Oct, Newyorkcity. 2 acts on the bill: Poolhaus and Sam Alfred. Preview the line-up and save it on soundcheck.
+Refuge Thursday with Sam Alfred on Thu 1 Oct, New York City. 2 artists on the bill: Poolhaus and Sam Alfred. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

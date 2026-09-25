@@ -1,6 +1,6 @@
 # DJ Club x Discability: ALL ACCESS at The Yard
 
-DJ Club x Discability: ALL ACCESS at The Yard on Sat 24 Oct, Manchester. 9 acts on the bill: chlo333e, Cosmikuro, FAGASH and GINA (UK) and 5 more. Trance and Bass. Preview the line-up and save it on soundcheck.
+DJ Club x Discability: ALL ACCESS at The Yard on Sat 24 Oct, Manchester. 9 artists on the bill: chlo333e, Cosmikuro, FAGASH and GINA (UK) and 5 more. Trance and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

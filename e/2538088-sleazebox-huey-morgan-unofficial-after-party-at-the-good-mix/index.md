@@ -1,6 +1,6 @@
 # SleazeBox: HUEY MORGAN unofficial After Party at The Good Mixer
 
-SleazeBox: HUEY MORGAN unofficial After Party at The Good Mixer on Thu 22 Oct, London. 1 act on the bill: Zkeletonz. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+SleazeBox: HUEY MORGAN unofficial After Party at The Good Mixer on Thu 22 Oct, London. 1 artist on the bill: Zkeletonz. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

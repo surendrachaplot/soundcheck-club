@@ -1,6 +1,6 @@
 # Takuya Nakamura at Fonda Theatre
 
-Takuya Nakamura at Fonda Theatre on Sat 21 Nov, Losangeles. 1 act on the bill: Takuya Nakamura. Jazz and Jungle. Preview the line-up and save it on soundcheck.
+Takuya Nakamura at Fonda Theatre on Sat 21 Nov, Los Angeles. 1 artist on the bill: Takuya Nakamura. Jazz and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

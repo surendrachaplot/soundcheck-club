@@ -2,7 +2,7 @@
 
 Sahar Z is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Sahar Z is a progressive house and house artist based in Israel, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Buenosaires and Glasgow and 6 more. Often billed alongside Guy Mantzur, Guy J and Stefano Richetta. Next up: Kaap Amsterdam, Amsterdam on Thu 22 Oct.
+Sahar Z is a progressive house and house artist based in Israel, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Buenos Aires and Glasgow and 6 more. Often billed alongside Guy Mantzur, Guy J and Stefano Richetta. Next up: Kaap Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 

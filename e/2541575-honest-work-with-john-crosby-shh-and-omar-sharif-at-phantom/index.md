@@ -1,6 +1,6 @@
 # Honest Work with John Crosby, Shh, and Omar Sharif at Phantom Bar Berlin
 
-Honest Work with John Crosby, Shh, and Omar Sharif at Phantom Bar Berlin on Thu 24 Sept, Berlin. 1 act on the bill: John Crosby. House and Dub Techno. Preview the line-up and save it on soundcheck.
+Honest Work with John Crosby, Shh, and Omar Sharif at Phantom Bar Berlin on Thu 24 Sept, Berlin. 1 artist on the bill: John Crosby. House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

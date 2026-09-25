@@ -2,7 +2,7 @@
 
 Tana (2) is a House and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 24 Sept 2026.
 
-Tana (2) is a house and breakbeat artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Hamburg, Lisbon and Prague. Often billed alongside UNZHA, TTX (GER) and Soundskoud. Next up: Golden Pudel Club, Hamburg on Thu 24 Sept.
+Tana is a house and breakbeat artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Hamburg, Lisbon and Prague. Often billed alongside UNZHA, TTX (GER) and Soundskoud. Next up: Golden Pudel Club, Hamburg on Thu 24 Sept.
 
 ## Upcoming shows
 

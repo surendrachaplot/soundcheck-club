@@ -1,6 +1,6 @@
 # STUDIO Invites VISION: Feed Me x Spor, Vici x Eluun, at Petit Bain
 
-STUDIO Invites VISION: Feed Me x Spor, Vici x Eluun, at Petit Bain on Sat 10 Oct, Paris. 2 acts on the bill: Feed Me and Spor. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+STUDIO Invites VISION: Feed Me x Spor, Vici x Eluun, at Petit Bain on Sat 10 Oct, Paris. 2 artists on the bill: Feed Me and Spor. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

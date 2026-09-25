@@ -1,6 +1,6 @@
 # 35 Years of The Ragga Twins - London at Electric Brixton
 
-35 Years of The Ragga Twins - London at Electric Brixton on Sat 5 Dec, London. 1 act on the bill: The Ragga Twins. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+35 Years of The Ragga Twins - London at Electric Brixton on Sat 5 Dec, London. 1 artist on the bill: The Ragga Twins. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

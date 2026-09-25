@@ -1,6 +1,6 @@
 # Simple Times at 303 at 303 Audiophile Bar
 
-Simple Times at 303 at 303 Audiophile Bar on Sat 31 Oct, Barcelona. 3 acts on the bill: CVD (1), DJ Gamba and Josepha. House. Preview the line-up and save it on soundcheck.
+Simple Times at 303 at 303 Audiophile Bar on Sat 31 Oct, Barcelona. 3 artists on the bill: CVD, DJ Gamba and Josepha. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

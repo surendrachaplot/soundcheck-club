@@ -1,6 +1,6 @@
 # Pieces Chess Club Lisbon at Duro de Matar
 
-Pieces Chess Club Lisbon at Duro de Matar on Fri 25 Sept, Lisbon. 1 act on the bill: GAYANCE. Electronica. Preview the line-up and save it on soundcheck.
+Pieces Chess Club Lisbon at Duro de Matar on Fri 25 Sept, Lisbon. 1 artist on the bill: GAYANCE. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

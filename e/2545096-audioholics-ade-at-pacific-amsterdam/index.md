@@ -1,6 +1,6 @@
 # Audioholics ADE at Pacific Amsterdam
 
-Audioholics ADE at Pacific Amsterdam on Fri 23 Oct, Amsterdam. 3 acts on the bill: Henry Saiz, Mariano Mellino and Sasha. Preview the line-up and save it on soundcheck.
+Audioholics ADE at Pacific Amsterdam on Fri 23 Oct, Amsterdam. 3 artists on the bill: Henry Saiz, Mariano Mellino and Sasha. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

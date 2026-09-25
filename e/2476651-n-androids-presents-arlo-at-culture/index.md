@@ -1,6 +1,6 @@
 # Nü Androids presents: Arlo at Culture
 
-Nü Androids presents: Arlo at Culture on Sat 10 Oct, Washingtondc. Bass and Garage. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Arlo at Culture on Sat 10 Oct, Washington DC. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mango Szn: Toronto at NØMAD
 
-Mango Szn: Toronto at NØMAD on Sat 3 Oct, Toronto. 1 act on the bill: ZZORAWAR. House and Tech House. Preview the line-up and save it on soundcheck.
+Mango Szn: Toronto at NØMAD on Sat 3 Oct, Toronto. 1 artist on the bill: ZZORAWAR. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

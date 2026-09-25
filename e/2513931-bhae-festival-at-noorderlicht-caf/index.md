@@ -1,6 +1,6 @@
 # BHAE Festival at Noorderlicht Café
 
-BHAE Festival at Noorderlicht Café on Sat 26 Sept, Amsterdam. 6 acts on the bill: [ares], Christoph Cham, FeelofSofie and KAHMEYA and 2 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
+BHAE Festival at Noorderlicht Café on Sat 26 Sept, Amsterdam. 6 artists on the bill: [ares], Christoph Cham, FeelofSofie and KAHMEYA and 2 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

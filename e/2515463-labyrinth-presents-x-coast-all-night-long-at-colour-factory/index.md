@@ -1,6 +1,6 @@
 # Labyrinth presents: X-Coast All Night Long at Colour Factory
 
-Labyrinth presents: X-Coast All Night Long at Colour Factory on Fri 2 Oct, London. 1 act on the bill: X-Coast. Techno and House. Preview the line-up and save it on soundcheck.
+Labyrinth presents: X-Coast All Night Long at Colour Factory on Fri 2 Oct, London. 1 artist on the bill: X-Coast. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

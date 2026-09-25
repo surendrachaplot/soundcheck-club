@@ -1,6 +1,6 @@
 # Index: Ben Hemsley at Index
 
-Index: Ben Hemsley on Sat 10 Oct, Dublin. 2 acts on the bill: Ben Hemsley and Chantel Kavanagh. Electronica. Preview the line-up and save it on soundcheck.
+Index: Ben Hemsley on Sat 10 Oct, Dublin. 2 artists on the bill: Ben Hemsley and Chantel Kavanagh. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

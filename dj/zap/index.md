@@ -2,14 +2,14 @@
 
 Z@p is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
 
-Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 123 sets logged across All, Amsterdam, Athens and Bangkok and 33 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: FOLD, London on Sat 26 Sept.
+Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: FOLD, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | FOLD | London |
-| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Sat, 10 Oct 2026 | Buda BXL | Brussels |
 | Sat, 17 Oct 2026 | Concept Haus | Manchester |
 | Sat, 24 Oct 2026 | WOMB | Tokyo |

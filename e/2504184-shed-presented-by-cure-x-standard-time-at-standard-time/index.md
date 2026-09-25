@@ -1,6 +1,6 @@
 # Shed presented by Cure x Standard Time at Standard Time
 
-Shed presented by Cure x Standard Time on Sat 17 Oct, Toronto. 2 acts on the bill: Oray and Shed. Preview the line-up and save it on soundcheck.
+Shed presented by Cure x Standard Time on Sat 17 Oct, Toronto. 2 artists on the bill: Oray and Shed. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

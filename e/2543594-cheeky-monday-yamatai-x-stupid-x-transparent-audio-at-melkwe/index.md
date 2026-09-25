@@ -1,6 +1,6 @@
 # Cheeky Monday: Yamatai X Stupid X Transparent Audio at Melkweg
 
-Cheeky Monday: Yamatai X Stupid X Transparent Audio at Melkweg on Mon 12 Oct, Amsterdam. 2 acts on the bill: Geostatic and Stupid Crew. Drum & Bass. Preview the line-up and save it on soundcheck.
+Cheeky Monday: Yamatai X Stupid X Transparent Audio at Melkweg on Mon 12 Oct, Amsterdam. 2 artists on the bill: Geostatic and Stupid Crew. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

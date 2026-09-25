@@ -1,6 +1,6 @@
 # Alternate presents Photek & Total Science at Lakota
 
-Alternate presents Photek & Total Science at Lakota on Fri 23 Oct, Bristol. 2 acts on the bill: Photek and Total Science. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Alternate presents Photek & Total Science at Lakota on Fri 23 Oct, Bristol. 2 artists on the bill: Photek and Total Science. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

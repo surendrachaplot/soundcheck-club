@@ -1,6 +1,6 @@
 # Discoteka:33 en CHICO at CHICO
 
-Discoteka:33 en CHICO on Sat 26 Sept, Mexicocity. 4 acts on the bill: Dante Sin, dj sex (MX), Hasel (1) and Pog.. Club and Reggaeton. Preview the line-up and save it on soundcheck.
+Discoteka:33 en CHICO on Sat 26 Sept, Mexico City. 4 artists on the bill: Dante Sin, dj sex (MX), Hasel and Pog.. Club and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VANTA with Erika at vurt.
 
-VANTA with Erika at vurt. on Fri 2 Oct, Seoul. 3 acts on the bill: Erika, odkis and Siot. Preview the line-up and save it on soundcheck.
+VANTA with Erika at vurt. on Fri 2 Oct, Seoul. 3 artists on the bill: Erika, odkis and Siot. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

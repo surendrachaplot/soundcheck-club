@@ -1,6 +1,6 @@
 # 10 Years Of SWU FM: Joy Orbison, DJ EZ at The Prospect Building
 
-10 Years Of SWU FM: Joy Orbison, DJ EZ at The Prospect Building on Sat 10 Oct, Bristol. 28 acts on the bill: A For Alpha, AÆE, Arlo and Beavs and 24 more. Garage and Dubstep. Preview the line-up and save it on soundcheck.
+10 Years Of SWU FM: Joy Orbison, DJ EZ at The Prospect Building on Sat 10 Oct, Bristol. 28 artists on the bill: A For Alpha, AÆE, Arlo and Beavs and 24 more. Garage and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

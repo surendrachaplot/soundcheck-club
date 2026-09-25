@@ -1,6 +1,6 @@
 # JUKE WRLD at El Rio
 
-JUKE WRLD at El Rio on Sat 26 Sept, Sanfrancisco. 4 acts on the bill: DJ Ari B, Mars Kasei, New Juicy and THA NXXT STEP. Footwork and Ghetto Tech. Preview the line-up and save it on soundcheck.
+JUKE WRLD at El Rio on Sat 26 Sept, San Francisco/Oakland. 4 artists on the bill: DJ Ari B, Mars Kasei, New Juicy and THA NXXT STEP. Footwork and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

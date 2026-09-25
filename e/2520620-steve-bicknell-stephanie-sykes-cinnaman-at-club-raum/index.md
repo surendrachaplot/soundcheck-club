@@ -1,6 +1,6 @@
 # Steve Bicknell, Stephanie Sykes, Cinnaman at CLUB RAUM
 
-Steve Bicknell, Stephanie Sykes, Cinnaman at CLUB RAUM on Sat 17 Oct, Amsterdam. 3 acts on the bill: Cinnaman, Stephanie Sykes and Steve Bicknell. Preview the line-up and save it on soundcheck.
+Steve Bicknell, Stephanie Sykes, Cinnaman at CLUB RAUM on Sat 17 Oct, Amsterdam. 3 artists on the bill: Cinnaman, Stephanie Sykes and Steve Bicknell. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

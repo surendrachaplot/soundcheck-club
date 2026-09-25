@@ -1,6 +1,6 @@
 # Foreplay: Oldboy b2b Osmosis Jones b2b Captain Wallop (4Hr) at Kapsule
 
-Foreplay: Oldboy b2b Osmosis Jones b2b Captain Wallop (4Hr) at Kapsule on Sat 26 Sept, Liverpool. 3 acts on the bill: Captain Wallop, Oldboy and Osmosis Jones. Garage and Electronica. Preview the line-up and save it on soundcheck.
+Foreplay: Oldboy b2b Osmosis Jones b2b Captain Wallop (4Hr) at Kapsule on Sat 26 Sept, Liverpool. 3 artists on the bill: Captain Wallop, Oldboy and Osmosis Jones. Garage and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

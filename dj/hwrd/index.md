@@ -2,7 +2,7 @@
 
 HWRD is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
 
-HWRD is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Auckland, Berlin, Cologne and Dortmund-essen and 3 more. Often billed alongside Shrff, LOUVE (DE) and Amilli. Next up: Oma Doris, Dortmund-essen on Sat 10 Oct.
+HWRD is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Auckland, Berlin, Cologne and Dortmund Essen and 3 more. Often billed alongside Shrff, LOUVE (DE) and Amilli. Next up: Oma Doris, Dortmund Essen on Sat 10 Oct.
 
 ## Upcoming shows
 

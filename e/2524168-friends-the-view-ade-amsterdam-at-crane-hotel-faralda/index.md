@@ -1,6 +1,6 @@
 # friends. THE VIEW - ADE - AMSTERDAM at Crane Hotel Faralda
 
-friends. THE VIEW - ADE - AMSTERDAM at Crane Hotel Faralda on Sat 24 Oct, Amsterdam. 7 acts on the bill: Alice DiMar, Artur Bredo, diskoheinz and Human Rias and 3 more. Tech House and Electronica. Preview the line-up and save it on soundcheck.
+friends. THE VIEW - ADE - AMSTERDAM at Crane Hotel Faralda on Sat 24 Oct, Amsterdam. 7 artists on the bill: Alice DiMar, Artur Bredo, diskoheinz and Human Rias and 3 more. Tech House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

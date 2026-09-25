@@ -1,6 +1,6 @@
 # Output pres NYD 2027 with Richie Hawtin at Bosc Tancat / Diverbosc
 
-Output pres NYD 2027 with Richie Hawtin at Bosc Tancat / Diverbosc on Fri 1 Jan, Barcelona. 9 acts on the bill: Adiel, Charlotte (FR), Flug and Ivan Smagghe and 5 more. Preview the line-up and save it on soundcheck.
+Output pres NYD 2027 with Richie Hawtin at Bosc Tancat / Diverbosc on Fri 1 Jan, Barcelona. 9 artists on the bill: Adiel, Charlotte (FR), Flug and Ivan Smagghe and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

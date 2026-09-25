@@ -2,7 +2,7 @@
 
 Agata (PL) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 24 Sept 2026.
 
-Agata (PL) is a techno and trance artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Copenhagen, Hongkong and London and 3 more. Often billed alongside INVERNO, vp allowed and CUNT REMEMBER. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 24 Sept.
+Agata (PL) is a techno and trance artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Copenhagen, Hong Kong and London and 3 more. Often billed alongside INVERNO, vp allowed and CUNT REMEMBER. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 24 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # LED Day Club with Jai Wolf [10 Year Anniversary Tour] at Beach House San Diego
 
-LED Day Club with Jai Wolf [10 Year Anniversary Tour] at Beach House San Diego on Sun 25 Oct, Sandiego. Preview the line-up and save it on soundcheck.
+LED Day Club with Jai Wolf [10 Year Anniversary Tour] at Beach House San Diego on Sun 25 Oct, San Diego. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

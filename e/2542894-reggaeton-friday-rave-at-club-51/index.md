@@ -1,6 +1,6 @@
 # Reggaeton Friday Rave at Club 51
 
-Reggaeton Friday Rave at Club 51 on Fri 25 Sept, Newyorkcity. Preview the line-up and save it on soundcheck.
+Reggaeton Friday Rave at Club 51 on Fri 25 Sept, New York City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SKYLER ULTRAVIOLET TOUR at F8 1192 Folsom
 
-SKYLER ULTRAVIOLET TOUR at F8 1192 Folsom on Fri 6 Nov, Sanfrancisco. Bass and Club. Preview the line-up and save it on soundcheck.
+SKYLER ULTRAVIOLET TOUR at F8 1192 Folsom on Fri 6 Nov, San Francisco/Oakland. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

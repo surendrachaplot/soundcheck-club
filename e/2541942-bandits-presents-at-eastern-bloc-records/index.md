@@ -1,6 +1,6 @@
 # Bandits presents at Eastern Bloc Records
 
-Bandits presents at Eastern Bloc Records on Fri 9 Oct, Manchester. 1 act on the bill: Desay. House and Tech House. Preview the line-up and save it on soundcheck.
+Bandits presents at Eastern Bloc Records on Fri 9 Oct, Manchester. 1 artist on the bill: Desay. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

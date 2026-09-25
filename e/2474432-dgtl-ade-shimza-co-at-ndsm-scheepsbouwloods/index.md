@@ -1,6 +1,6 @@
 # DGTL ADE Shimza & Co at NDSM Scheepsbouwloods
 
-DGTL ADE Shimza & Co at NDSM Scheepsbouwloods on Sat 24 Oct, Amsterdam. 13 acts on the bill: Alex Wann, Âme, AMÉMÉ and ARODES and 9 more. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+DGTL ADE Shimza & Co at NDSM Scheepsbouwloods on Sat 24 Oct, Amsterdam. 13 artists on the bill: Alex Wann, Âme, AMÉMÉ and ARODES and 9 more. Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

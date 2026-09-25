@@ -1,6 +1,6 @@
 # Jumbi presents: Sympatheia Tour 2026 (Joe Armon-Jones & Maxwell Owin) at Jumbi
 
-Jumbi presents: Sympatheia Tour 2026 (Joe Armon-Jones & Maxwell Owin) on Fri 11 Dec, London. 2 acts on the bill: Joe Armon-Jones and Maxwell Owin. Preview the line-up and save it on soundcheck.
+Jumbi presents: Sympatheia Tour 2026 (Joe Armon-Jones & Maxwell Owin) on Fri 11 Dec, London. 2 artists on the bill: Joe Armon-Jones and Maxwell Owin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # INPUT pres EARGASM GOD & FREDERIC at INPUT High Fidelity Dance Club
 
-INPUT pres EARGASM GOD & FREDERIC at INPUT High Fidelity Dance Club on Fri 23 Oct, Barcelona. 2 acts on the bill: EARGASM GOD and Frederic.. Trance and Techno. Preview the line-up and save it on soundcheck.
+INPUT pres EARGASM GOD & FREDERIC at INPUT High Fidelity Dance Club on Fri 23 Oct, Barcelona. 2 artists on the bill: EARGASM GOD and Frederic.. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

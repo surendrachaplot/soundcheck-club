@@ -1,8 +1,8 @@
 # Azyr
 
-Azyr is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+Azyr is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
-Azyr is a techno and house artist based in United Kingdom, tracked on soundcheck, with 230 sets logged across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: TBA, Losangeles on Sun 27 Sept.
+Azyr is a techno and house artist based in United Kingdom, tracked on soundcheck, with 232 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: TBA, Los Angeles on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Azyr is a techno and house artist based in United Kingdom, tracked on soundcheck
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Sat, 3 Oct 2026 | TBA - XOX Arena | Kuala Lumpur |
 | Thu, 8 Oct 2026 | [UNVRS] | Ibiza |
+| Sat, 10 Oct 2026 | Halle de La Machine | Toulouse |
 | Sat, 17 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sat, 17 Oct 2026 | The Ivy | Sydney |
 | Wed, 21 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
@@ -18,8 +19,7 @@ Azyr is a techno and house artist based in United Kingdom, tracked on soundcheck
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Sat, 7 Nov 2026 | NX Newcastle | Newcastle |
-| Sat, 21 Nov 2026 | The Garage | Madrid |
-| Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 
 ## Recently played
 

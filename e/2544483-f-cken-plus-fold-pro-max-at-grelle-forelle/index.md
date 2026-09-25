@@ -1,6 +1,6 @@
 # F*CKEN PLUS Fold Pro Max at Grelle Forelle
 
-F*CKEN PLUS Fold Pro Max at Grelle Forelle on Fri 16 Oct, Vienna. 3 acts on the bill: DJ Deadlift, Gerald VDH and JERM. Techno and Pop. Preview the line-up and save it on soundcheck.
+F*CKEN PLUS Fold Pro Max at Grelle Forelle on Fri 16 Oct, Vienna. 3 artists on the bill: DJ Deadlift, Gerald VDH and JERM. Techno and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

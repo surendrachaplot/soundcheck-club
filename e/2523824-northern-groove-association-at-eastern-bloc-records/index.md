@@ -1,6 +1,6 @@
 # Northern Groove Association at Eastern Bloc Records
 
-Northern Groove Association at Eastern Bloc Records on Fri 13 Nov, Manchester. 3 acts on the bill: Balrog, Keepsakes and Shannen Blessing. Techno. Preview the line-up and save it on soundcheck.
+Northern Groove Association at Eastern Bloc Records on Fri 13 Nov, Manchester. 3 artists on the bill: Balrog, Keepsakes and Shannen Blessing. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

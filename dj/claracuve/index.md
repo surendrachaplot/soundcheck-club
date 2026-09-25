@@ -1,8 +1,8 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+Clara Cuvé is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
-Clara Cuvé is a techno and house artist based in Germany, tracked on soundcheck, with 234 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Kobosil, 999999999 and MCR-T. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
+Clara Cuvé is a techno and house artist based in Germany, tracked on soundcheck, with 235 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Kobosil, 999999999 and MCR-T. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Clara Cuvé is a techno and house artist based in Germany, tracked on soundcheck
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Fri, 6 Nov 2026 | OST | Berlin |
+| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |

@@ -1,6 +1,6 @@
 # Full Moon Fusion: Lakefront Bonfire and Ecstatic Dance at Promontory Point
 
-Full Moon Fusion: Lakefront Bonfire and Ecstatic Dance at Promontory Point on Sat 26 Sept, Chicago. 1 act on the bill: Munir. Deep House and Electronica. Preview the line-up and save it on soundcheck.
+Full Moon Fusion: Lakefront Bonfire and Ecstatic Dance at Promontory Point on Sat 26 Sept, Chicago. 1 artist on the bill: Munir. Deep House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

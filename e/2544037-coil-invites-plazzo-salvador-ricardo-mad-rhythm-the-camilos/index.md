@@ -1,6 +1,6 @@
 # Coil Invites: Plazzo, Salvador Ricardo, Mad Rhythm & The Camilos at Coil
 
-Coil Invites: Plazzo, Salvador Ricardo, Mad Rhythm & The Camilos on Thu 24 Sept, Melbourne. 2 acts on the bill: Salvador Ricardo and TheCamiloS. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Coil Invites: Plazzo, Salvador Ricardo, Mad Rhythm & The Camilos on Thu 24 Sept, Melbourne. 2 artists on the bill: Salvador Ricardo and TheCamiloS. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

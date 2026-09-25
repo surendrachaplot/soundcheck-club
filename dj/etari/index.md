@@ -2,7 +2,7 @@
 
 Etari is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - IYKYK , Los Angeles on Sat, 26 Sept 2026.
 
-Etari is a techno and house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside fun2bjane, Capes and OZA. Next up: TBA - IYKYK , Losangeles on Sat 26 Sept.
+Etari is a techno and house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Chicago, Detroit, Los Angeles and New York City and 3 more. Often billed alongside fun2bjane, Capes and OZA. Next up: TBA - IYKYK , Los Angeles on Sat 26 Sept.
 
 ## Upcoming shows
 

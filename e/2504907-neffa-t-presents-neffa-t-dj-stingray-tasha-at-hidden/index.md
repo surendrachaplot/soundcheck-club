@@ -1,6 +1,6 @@
 # Neffa-T presents: Neffa-T, DJ Stingray & Tasha at Hidden
 
-Neffa-T presents: Neffa-T, DJ Stingray & Tasha at Hidden on Fri 4 Dec, Manchester. 3 acts on the bill: DJ Stingray 313, Neffa-T and Tasha. Techno and Bass. Preview the line-up and save it on soundcheck.
+Neffa-T presents: Neffa-T, DJ Stingray & Tasha at Hidden on Fri 4 Dec, Manchester. 3 artists on the bill: DJ Stingray 313, Neffa-T and Tasha. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

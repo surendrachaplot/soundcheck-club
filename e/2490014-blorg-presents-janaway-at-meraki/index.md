@@ -1,6 +1,6 @@
 # BLORG PRESENTS: Janaway at Meraki
 
-BLORG PRESENTS: Janaway at Meraki on Sat 26 Sept, Liverpool. 1 act on the bill: Janaway. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+BLORG PRESENTS: Janaway at Meraki on Sat 26 Sept, Liverpool. 1 artist on the bill: Janaway. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

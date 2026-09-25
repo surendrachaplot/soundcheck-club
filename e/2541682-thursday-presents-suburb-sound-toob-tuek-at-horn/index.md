@@ -1,6 +1,6 @@
 # Thursday presents: SUBURB SOUND TOOB TUEK at Horn
 
-Thursday presents: SUBURB SOUND TOOB TUEK at Horn on Thu 24 Sept, Bangkok. 1 act on the bill: NOON (2). Techno and Bass. Preview the line-up and save it on soundcheck.
+Thursday presents: SUBURB SOUND TOOB TUEK at Horn on Thu 24 Sept, Bangkok. 1 artist on the bill: NOON. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

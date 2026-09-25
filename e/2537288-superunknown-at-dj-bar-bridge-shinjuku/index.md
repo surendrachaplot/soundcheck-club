@@ -1,6 +1,6 @@
 # SuperUnKnown at DJ Bar Bridge Shinjuku
 
-SuperUnKnown at DJ Bar Bridge Shinjuku on Mon 16 Nov, Tokyo. 2 acts on the bill: Dictionally and Kyohei Tanaka. House. Preview the line-up and save it on soundcheck.
+SuperUnKnown at DJ Bar Bridge Shinjuku on Mon 16 Nov, Tokyo. 2 artists on the bill: Dictionally and Kyohei Tanaka. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

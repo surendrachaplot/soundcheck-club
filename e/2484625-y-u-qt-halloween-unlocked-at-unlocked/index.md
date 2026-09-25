@@ -1,6 +1,6 @@
 # Y U QT - Halloween @ UNLOCKED at UNLOCKED
 
-Y U QT - Halloween @ UNLOCKED on Fri 30 Oct, London. 3 acts on the bill: Ned Bennett, Sam Girling and Y U QT. Preview the line-up and save it on soundcheck.
+Y U QT - Halloween @ UNLOCKED on Fri 30 Oct, London. 3 artists on the bill: Ned Bennett, Sam Girling and Y U QT. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

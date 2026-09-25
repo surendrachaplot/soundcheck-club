@@ -1,6 +1,6 @@
 # Jex on Dex presents: Last Dance in the Den at Dalston Den
 
-Jex on Dex presents: Last Dance in the Den at Dalston Den on Fri 23 Oct, London. 1 act on the bill: Jex on Dex. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+Jex on Dex presents: Last Dance in the Den at Dalston Den on Fri 23 Oct, London. 1 artist on the bill: Jex on Dex. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

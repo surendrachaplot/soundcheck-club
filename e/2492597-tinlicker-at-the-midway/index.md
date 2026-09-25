@@ -1,6 +1,6 @@
 # Tinlicker at The Midway
 
-Tinlicker at The Midway on Sat 10 Oct, Sanfrancisco. 1 act on the bill: Tinlicker. House. Preview the line-up and save it on soundcheck.
+Tinlicker at The Midway on Sat 10 Oct, San Francisco/Oakland. 1 artist on the bill: Tinlicker. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Adam & Eve Winter Cruise - Supper Cruise Amsterdam at Supper Cruise
 
-Adam & Eve Winter Cruise - Supper Cruise Amsterdam on Sat 28 Nov, Amsterdam. 1 act on the bill: Urban. R&B and Afro House. Preview the line-up and save it on soundcheck.
+Adam & Eve Winter Cruise - Supper Cruise Amsterdam on Sat 28 Nov, Amsterdam. 1 artist on the bill: Urban. R&B and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

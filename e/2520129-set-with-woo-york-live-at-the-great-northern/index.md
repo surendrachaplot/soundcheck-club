@@ -1,6 +1,6 @@
 # SET with Woo York [Live] at The Great Northern
 
-SET with Woo York [Live] at The Great Northern on Fri 9 Oct, Sanfrancisco. 3 acts on the bill: Emanate, Sezer Uysal and Woo York. Techno and Deep House. Preview the line-up and save it on soundcheck.
+SET with Woo York [Live] at The Great Northern on Fri 9 Oct, San Francisco/Oakland. 3 artists on the bill: Emanate, Sezer Uysal and Woo York. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

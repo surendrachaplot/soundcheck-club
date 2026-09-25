@@ -1,6 +1,6 @@
 # Worakls at Het Sieraad
 
-Worakls at Het Sieraad on Sat 5 Dec, Amsterdam. 1 act on the bill: Worakls. Techno. Preview the line-up and save it on soundcheck.
+Worakls at Het Sieraad on Sat 5 Dec, Amsterdam. 1 artist on the bill: Worakls. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

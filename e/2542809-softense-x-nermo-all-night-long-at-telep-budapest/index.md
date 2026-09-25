@@ -1,6 +1,6 @@
 # Softense x Nermo All Night Long at Telep Budapest
 
-Softense x Nermo All Night Long at Telep Budapest on Wed 30 Sept, Budapest. 2 acts on the bill: Nermo and Softense. Techno and Electro. Preview the line-up and save it on soundcheck.
+Softense x Nermo All Night Long at Telep Budapest on Wed 30 Sept, Budapest. 2 artists on the bill: Nermo and Softense. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

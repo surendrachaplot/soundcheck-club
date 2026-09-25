@@ -1,6 +1,6 @@
 # XDB / PACIFIC MODE x Solstice at VENT
 
-XDB / PACIFIC MODE x Solstice at VENT on Sat 24 Oct, Tokyo. 8 acts on the bill: 5ive, ChunLi, DJ Healthy and Hue Ray and 4 more. House. Preview the line-up and save it on soundcheck.
+XDB / PACIFIC MODE x Solstice at VENT on Sat 24 Oct, Tokyo. 8 artists on the bill: 5ive, ChunLi, DJ Healthy and Hue Ray and 4 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

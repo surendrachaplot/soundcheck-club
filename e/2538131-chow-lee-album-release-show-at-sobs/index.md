@@ -1,6 +1,6 @@
 # Chow Lee Album Release Show at SOBs
 
-Chow Lee Album Release Show at SOBs on Tue 29 Sept, Newyorkcity. Hip-Hop and Drill. Preview the line-up and save it on soundcheck.
+Chow Lee Album Release Show at SOBs on Tue 29 Sept, New York City. Hip-Hop and Drill. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

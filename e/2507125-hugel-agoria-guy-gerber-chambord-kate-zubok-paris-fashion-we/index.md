@@ -1,6 +1,6 @@
 # Hugel, Agoria, Guy Gerber, Chambord, Kate Zubok @ Paris Fashion week at Cité du Cinéma
 
-Hugel, Agoria, Guy Gerber, Chambord, Kate Zubok @ Paris Fashion week at Cité du Cinéma on Thu 1 Oct, Paris. 5 acts on the bill: Agoria, Chambord, Guy Gerber and Hugel and 1 more. Electro and Afro House. Preview the line-up and save it on soundcheck.
+Hugel, Agoria, Guy Gerber, Chambord, Kate Zubok @ Paris Fashion week at Cité du Cinéma on Thu 1 Oct, Paris. 5 artists on the bill: Agoria, Chambord, Guy Gerber and Hugel and 1 more. Electro and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

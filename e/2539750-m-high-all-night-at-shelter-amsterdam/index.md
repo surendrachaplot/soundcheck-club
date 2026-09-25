@@ -1,6 +1,6 @@
 # M-High (all night) at Shelter Amsterdam
 
-M-High (all night) at Shelter Amsterdam on Sat 28 Nov, Amsterdam. 4 acts on the bill: Alec Dienaar, Eline (BE), M-High and STIPP. House. Preview the line-up and save it on soundcheck.
+M-High (all night) at Shelter Amsterdam on Sat 28 Nov, Amsterdam. 4 artists on the bill: Alec Dienaar, Eline (BE), M-High and STIPP. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # O'Flynn at Music Box
 
-O'Flynn at Music Box on Wed 25 Nov, Sandiego. 1 act on the bill: O'Flynn. Garage and Downtempo. Preview the line-up and save it on soundcheck.
+O'Flynn at Music Box on Wed 25 Nov, San Diego. 1 artist on the bill: O'Flynn. Garage and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

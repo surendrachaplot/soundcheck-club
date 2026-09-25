@@ -1,6 +1,6 @@
 # Elder Island - Montréal at Fairmount Theatre
 
-Elder Island - Montréal at Fairmount Theatre on Mon 5 Oct, Montreal. 1 act on the bill: Elder Island. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Elder Island - Montréal at Fairmount Theatre on Mon 5 Oct, Montreal. 1 artist on the bill: Elder Island. Pop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

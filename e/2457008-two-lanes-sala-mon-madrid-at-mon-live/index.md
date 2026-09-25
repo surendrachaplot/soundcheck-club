@@ -1,6 +1,6 @@
 # TWO LANES - Sala Mon, Madrid at Mon Live
 
-TWO LANES - Sala Mon, Madrid at Mon Live on Thu 15 Oct, Madrid. 1 act on the bill: TWO LANES. Electronica. Preview the line-up and save it on soundcheck.
+TWO LANES - Sala Mon, Madrid at Mon Live on Thu 15 Oct, Madrid. 1 artist on the bill: TWO LANES. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

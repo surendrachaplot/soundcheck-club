@@ -1,6 +1,6 @@
 # LOCKED IN TOUR with Alcemist, Deekline + Serial Killaz at Suburbia
 
-LOCKED IN TOUR with Alcemist, Deekline + Serial Killaz at Suburbia on Fri 25 Sept, South-east. 3 acts on the bill: Alcemist, Deekline and Serial Killaz. Preview the line-up and save it on soundcheck.
+LOCKED IN TOUR with Alcemist, Deekline + Serial Killaz at Suburbia on Fri 25 Sept, South East. 3 artists on the bill: Alcemist, Deekline and Serial Killaz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

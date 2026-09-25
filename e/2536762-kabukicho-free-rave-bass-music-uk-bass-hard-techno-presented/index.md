@@ -1,6 +1,6 @@
 # KABUKICHO FREE RAVE (BASS MUSIC/ UK BASS /HARD TECHNO) presented by Zero Hertz Club at Kabukicho Cinecity Square (シネシティ広場)
 
-KABUKICHO FREE RAVE (BASS MUSIC/ UK BASS /HARD TECHNO) presented by Zero Hertz Club at Kabukicho Cinecity Square (シネシティ広場) on Sun 27 Sept, Tokyo. 4 acts on the bill: HALU(Tribal Connection), HEAVEN'S GATE CREW, MoEPiKA and REXY DEXY. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+KABUKICHO FREE RAVE (BASS MUSIC/ UK BASS /HARD TECHNO) presented by Zero Hertz Club at Kabukicho Cinecity Square (シネシティ広場) on Sun 27 Sept, Tokyo. 4 artists on the bill: HALU(Tribal Connection), HEAVEN'S GATE CREW, MoEPiKA and REXY DEXY. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

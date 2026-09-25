@@ -1,6 +1,6 @@
 # Mystra at Basing House
 
-Mystra at Basing House on Sat 21 Nov, London. 10 acts on the bill: Alythia Kwan, Cast Lov, Fernweh (2) and Konfusia and 6 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Mystra at Basing House on Sat 21 Nov, London. 10 artists on the bill: Alythia Kwan, Cast Lov, Fernweh and Konfusia and 6 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

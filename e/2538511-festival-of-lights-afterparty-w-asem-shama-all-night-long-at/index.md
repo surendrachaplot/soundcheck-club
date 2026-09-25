@@ -1,6 +1,6 @@
 # Festival of Lights Afterparty /w Asem Shama (All night Long) at PKH Warehouse
 
-Festival of Lights Afterparty /w Asem Shama (All night Long) at PKH Warehouse on Mon 12 Oct, Berlin. 1 act on the bill: Asem Shama. Techno. Preview the line-up and save it on soundcheck.
+Festival of Lights Afterparty /w Asem Shama (All night Long) at PKH Warehouse on Mon 12 Oct, Berlin. 1 artist on the bill: Asem Shama. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

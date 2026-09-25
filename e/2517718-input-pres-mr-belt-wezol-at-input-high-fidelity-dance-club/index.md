@@ -1,6 +1,6 @@
 # INPUT pres MR BELT & WEZOL at INPUT High Fidelity Dance Club
 
-INPUT pres MR BELT & WEZOL at INPUT High Fidelity Dance Club on Fri 6 Nov, Barcelona. 1 act on the bill: Mr. Belt & Wezol. House and Tech House. Preview the line-up and save it on soundcheck.
+INPUT pres MR BELT & WEZOL at INPUT High Fidelity Dance Club on Fri 6 Nov, Barcelona. 1 artist on the bill: Mr. Belt & Wezol. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

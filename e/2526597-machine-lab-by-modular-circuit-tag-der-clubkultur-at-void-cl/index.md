@@ -1,6 +1,6 @@
 # Machine Lab by Modular Circuit - Tag der Clubkultur at Void Club
 
-Machine Lab by Modular Circuit - Tag der Clubkultur at Void Club on Sat 10 Oct, Berlin. 12 acts on the bill: Allexandra, Blosvenn, Dshanna and Electra (2) and 8 more. Techno. Preview the line-up and save it on soundcheck.
+Machine Lab by Modular Circuit - Tag der Clubkultur at Void Club on Sat 10 Oct, Berlin. 12 artists on the bill: Allexandra, Blosvenn, Dshanna and Electra and 8 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

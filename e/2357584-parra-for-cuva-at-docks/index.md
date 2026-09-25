@@ -1,6 +1,6 @@
 # Parra for Cuva at Docks
 
-Parra for Cuva at Docks on Tue 29 Sept, Hamburg. 1 act on the bill: Parra for Cuva. Electro. Preview the line-up and save it on soundcheck.
+Parra for Cuva at Docks on Tue 29 Sept, Hamburg. 1 artist on the bill: Parra for Cuva. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

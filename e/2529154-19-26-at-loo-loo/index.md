@@ -1,6 +1,6 @@
 # 19:26 at Loo Loo
 
-19:26 at Loo Loo on Sat 26 Sept, Mexicocity. Preview the line-up and save it on soundcheck.
+19:26 at Loo Loo on Sat 26 Sept, Mexico City. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

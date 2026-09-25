@@ -1,6 +1,6 @@
 # Somov at Levenslang (ADE) at Levenslang Amsterdam
 
-Somov at Levenslang (ADE) at Levenslang Amsterdam on Thu 22 Oct, Amsterdam. 5 acts on the bill: Fadi Mohem, Ignez, Polygonia and Rrose and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Somov at Levenslang (ADE) at Levenslang Amsterdam on Thu 22 Oct, Amsterdam. 5 artists on the bill: Fadi Mohem, Ignez, Polygonia and Rrose and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

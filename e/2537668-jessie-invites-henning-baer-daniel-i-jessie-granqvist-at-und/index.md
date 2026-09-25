@@ -1,6 +1,6 @@
 # Jessie invites: Henning Baer, Daniel[i], Jessie Granqvist at Under Bron
 
-Jessie invites: Henning Baer, Daniel[i], Jessie Granqvist at Under Bron on Fri 23 Oct, Stockholm. 3 acts on the bill: Daniel[i], Henning Baer and Jessie Granqvist. Techno and House. Preview the line-up and save it on soundcheck.
+Jessie invites: Henning Baer, Daniel[i], Jessie Granqvist at Under Bron on Fri 23 Oct, Stockholm. 3 artists on the bill: Daniel[i], Henning Baer and Jessie Granqvist. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

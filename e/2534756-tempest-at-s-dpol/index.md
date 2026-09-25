@@ -1,6 +1,6 @@
 # Tempest at Südpol
 
-Tempest at Südpol on Sat 26 Sept, Hamburg. 4 acts on the bill: Berto (DE), duaba, Peter Groskreutz and u2pia. Preview the line-up and save it on soundcheck.
+Tempest at Südpol on Sat 26 Sept, Hamburg. 4 artists on the bill: Berto (DE), duaba, Peter Groskreutz and u2pia. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

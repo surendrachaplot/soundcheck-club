@@ -1,6 +1,6 @@
 # SlapFunk Bristol at Sawmills
 
-SlapFunk Bristol at Sawmills on Sat 17 Oct, Bristol. 5 acts on the bill: Doudou MD, FREAKENSTEIN, Garrett David and IZZIT and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+SlapFunk Bristol at Sawmills on Sat 17 Oct, Bristol. 5 artists on the bill: Doudou MD, FREAKENSTEIN, Garrett David and IZZIT and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

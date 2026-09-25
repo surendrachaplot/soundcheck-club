@@ -2,7 +2,7 @@
 
 JV (5) is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Four Quarters, London on Sat, 10 Oct 2026.
 
-JV (5) is a jungle and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Slundarq, passer (UK) and CICELY. Next up: Four Quarters, London on Sat 10 Oct.
+JV is a jungle and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Slundarq, passer (UK) and CICELY. Next up: Four Quarters, London on Sat 10 Oct.
 
 ## Upcoming shows
 

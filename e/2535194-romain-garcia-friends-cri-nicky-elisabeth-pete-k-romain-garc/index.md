@@ -1,6 +1,6 @@
 # Romain Garcia & Friends: CRi, Nicky Elisabeth, Pete K, Romain Garcia at Rex Club
 
-Romain Garcia & Friends: CRi, Nicky Elisabeth, Pete K, Romain Garcia at Rex Club on Sat 17 Oct, Paris. 4 acts on the bill: CRi, Nicky Elisabeth, Pete K and Romain Garcia. House and Electro. Preview the line-up and save it on soundcheck.
+Romain Garcia & Friends: CRi, Nicky Elisabeth, Pete K, Romain Garcia at Rex Club on Sat 17 Oct, Paris. 4 artists on the bill: CRi, Nicky Elisabeth, Pete K and Romain Garcia. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

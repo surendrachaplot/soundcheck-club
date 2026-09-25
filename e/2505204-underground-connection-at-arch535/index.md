@@ -1,6 +1,6 @@
 # UNDERGROUND CONNECTION at Arch535
 
-UNDERGROUND CONNECTION at Arch535 on Sat 26 Sept, London. 3 acts on the bill: Ace Shyllon, Lil Meesh and VIBRANT C. House and Deep House. Preview the line-up and save it on soundcheck.
+UNDERGROUND CONNECTION at Arch535 on Sat 26 Sept, London. 3 artists on the bill: Ace Shyllon, Lil Meesh and VIBRANT C. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

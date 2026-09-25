@@ -2,7 +2,7 @@
 
 TBA - Lignée, Microcentro is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Rigzz, Palo Manieri - Lignée, Microcentro - ALLMusicParties" on Sat, 3 Oct 2026.
 
-TBA - Lignée, Microcentro is a music venue in Buenosaires listed on soundcheck. 1 upcoming gig, with line-ups including Rigzz. Browse upcoming dates, start times and who's playing.
+TBA - Lignée, Microcentro is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig, with line-ups including Rigzz. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

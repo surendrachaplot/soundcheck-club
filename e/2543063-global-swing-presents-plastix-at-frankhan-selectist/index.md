@@ -1,6 +1,6 @@
 # Global Swing presents: Plastix at Frankhan Selectist
 
-Global Swing presents: Plastix at Frankhan Selectist on Sat 10 Oct, Istanbul. 1 act on the bill: Garrett David. Preview the line-up and save it on soundcheck.
+Global Swing presents: Plastix at Frankhan Selectist on Sat 10 Oct, Istanbul. 1 artist on the bill: Garrett David. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

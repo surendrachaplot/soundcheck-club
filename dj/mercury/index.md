@@ -2,7 +2,7 @@
 
 Mercury is a Hardcore and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - RUA DA MANUTENÇÃO, 38, LISBOA, Lisbon on Fri, 25 Sept 2026.
 
-Mercury is a hardcore and electro artist based in Switzerland, tracked on soundcheck, with 8 sets logged across Athens, Lisbon, Newyorkcity and Sydney and 1 more. Often billed alongside Bouzidi, ATEBOI and ATT. Next up: TBA - RUA DA MANUTENÇÃO, 38, LISBOA, Lisbon on Fri 25 Sept.
+Mercury is a hardcore and electro artist based in Switzerland, tracked on soundcheck, with 8 sets logged across Athens, Lisbon, New York City and Sydney and 1 more. Often billed alongside Bouzidi, ATEBOI and ATT. Next up: TBA - RUA DA MANUTENÇÃO, 38, LISBOA, Lisbon on Fri 25 Sept.
 
 ## Upcoming shows
 

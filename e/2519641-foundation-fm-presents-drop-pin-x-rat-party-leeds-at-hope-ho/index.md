@@ -1,6 +1,6 @@
 # foundation.fm presents DROP PIN x Rat Party - Leeds at Hope House
 
-foundation.fm presents DROP PIN x Rat Party - Leeds at Hope House on Thu 24 Sept, Leeds. 2 acts on the bill: Iyesha and NSFW. Bass and Club. Preview the line-up and save it on soundcheck.
+foundation.fm presents DROP PIN x Rat Party - Leeds at Hope House on Thu 24 Sept, Leeds. 2 artists on the bill: Iyesha and NSFW. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

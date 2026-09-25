@@ -1,6 +1,6 @@
 # Tara Brooks - Salty Residency at Napa Music Hall
 
-Tara Brooks - Salty Residency at Napa Music Hall on Fri 25 Sept, Sanfrancisco. 1 act on the bill: Tara Brooks. Techno and Acid. Preview the line-up and save it on soundcheck.
+Tara Brooks - Salty Residency at Napa Music Hall on Fri 25 Sept, San Francisco/Oakland. 2 artists on the bill: Tamer_1oc and Tara Brooks. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Tara Brooks - Salty Residency at Napa Music Hall on Fri 25 Sept, Sanfrancisco. 1
 
 ## Line-up
 
+- Tamer_1oc
 - Tara Brooks
 
 *Source: [soundcheck](https://soundcheck.club/e/2516149-tara-brooks-salty-residency-at-napa-music-hall/)*

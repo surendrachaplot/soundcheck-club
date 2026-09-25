@@ -1,6 +1,6 @@
 # AWGOT at Soup at Soup
 
-AWGOT at Soup on Sat 26 Sept, Manchester. 3 acts on the bill: Groooves, Isabelle Koci and Quidders. House and Electro. Preview the line-up and save it on soundcheck.
+AWGOT at Soup on Sat 26 Sept, Manchester. 3 artists on the bill: Groooves, Isabelle Koci and Quidders. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

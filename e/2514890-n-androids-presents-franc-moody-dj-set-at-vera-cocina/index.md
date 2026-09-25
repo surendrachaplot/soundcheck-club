@@ -1,6 +1,6 @@
 # Nü Androids presents: Franc Moody (Dj Set) at Vera Cocina & بار
 
-Nü Androids presents: Franc Moody (Dj Set) at Vera Cocina & بار on Thu 22 Oct, Washingtondc. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Franc Moody (Dj Set) at Vera Cocina & بار on Thu 22 Oct, Washington DC. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

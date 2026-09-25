@@ -1,6 +1,6 @@
 # Pataphysics 021 at Delight Factory
 
-Pataphysics 021 at Delight Factory on Sat 26 Sept, Newyorkcity. 4 acts on the bill: Bearded Twin, Ezekiel Honig, joshue ott and Todd Polenberg. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Pataphysics 021 at Delight Factory on Sat 26 Sept, New York City. 4 artists on the bill: Bearded Twin, Ezekiel Honig, joshue ott and Todd Polenberg. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

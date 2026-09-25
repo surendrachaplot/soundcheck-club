@@ -1,6 +1,6 @@
 # ༄ Patchwork. ༄   xxxx xxxx & Gourlay at La Cheetah Club
 
-༄ Patchwork. ༄   xxxx xxxx & Gourlay at La Cheetah Club on Fri 6 Nov, Glasgow. 1 act on the bill: Gourlay. Techno and Electro. Preview the line-up and save it on soundcheck.
+༄ Patchwork. ༄   xxxx xxxx & Gourlay at La Cheetah Club on Fri 6 Nov, Glasgow. 1 artist on the bill: Gourlay. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

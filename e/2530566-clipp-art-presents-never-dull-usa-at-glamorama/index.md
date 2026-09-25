@@ -1,6 +1,6 @@
 # clipp.art presents Never Dull [USA] at Glamorama
 
-clipp.art presents Never Dull [USA] at Glamorama on Sat 7 Nov, Melbourne. 4 acts on the bill: Acid Jacks, CHARBINKS, Jooki and Never Dull. Preview the line-up and save it on soundcheck.
+clipp.art presents Never Dull [USA] at Glamorama on Sat 7 Nov, Melbourne. 4 artists on the bill: Acid Jacks, CHARBINKS, Jooki and Never Dull. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

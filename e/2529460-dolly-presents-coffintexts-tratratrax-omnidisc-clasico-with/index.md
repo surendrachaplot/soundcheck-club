@@ -1,6 +1,6 @@
 # DOLLY presents... Coffintexts (Tratratrax, omnidisc, Clasico) with Brendocha & 3C-MD at TBA - Private Location
 
-DOLLY presents... Coffintexts (Tratratrax, omnidisc, Clasico) with Brendocha & 3C-MD at TBA - Private Location on Sat 14 Nov, Vancouver. 2 acts on the bill: Brendocha and Coffintexts. Techno and Latin Bass. Preview the line-up and save it on soundcheck.
+DOLLY presents... Coffintexts (Tratratrax, omnidisc, Clasico) with Brendocha & 3C-MD at TBA - Private Location on Sat 14 Nov, Vancouver. 2 artists on the bill: Brendocha and Coffintexts. Techno and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rolling Ritmo 4th Birthday with Mariiin, Alisdair, PIP and Lewis Robertson at Ouseburn Garden
 
-Rolling Ritmo 4th Birthday with Mariiin, Alisdair, PIP and Lewis Robertson at Ouseburn Garden on Sat 17 Oct, Newcastle. 3 acts on the bill: Alisdair, Lewis Robertson and Mariiin. Techno and Electro. Preview the line-up and save it on soundcheck.
+Rolling Ritmo 4th Birthday with Mariiin, Alisdair, PIP and Lewis Robertson at Ouseburn Garden on Sat 17 Oct, Newcastle. 3 artists on the bill: Alisdair, Lewis Robertson and Mariiin. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

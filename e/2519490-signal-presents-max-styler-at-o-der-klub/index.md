@@ -1,6 +1,6 @@
 # SIGNAL presents Max Styler at O der Klub
 
-SIGNAL presents Max Styler at O der Klub on Fri 6 Nov, Vienna. 1 act on the bill: Max Styler. House. Preview the line-up and save it on soundcheck.
+SIGNAL presents Max Styler at O der Klub on Fri 6 Nov, Vienna. 1 artist on the bill: Max Styler. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

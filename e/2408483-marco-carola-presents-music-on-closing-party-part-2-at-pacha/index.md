@@ -1,6 +1,6 @@
 # Marco Carola PRESENTS MUSIC ON - CLOSING PARTY (PART 2) at Pacha Ibiza
 
-Marco Carola PRESENTS MUSIC ON - CLOSING PARTY (PART 2) at Pacha Ibiza on Fri 9 Oct, Ibiza. 1 act on the bill: Marco Carola. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Marco Carola PRESENTS MUSIC ON - CLOSING PARTY (PART 2) at Pacha Ibiza on Fri 9 Oct, Ibiza. 1 artist on the bill: Marco Carola. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

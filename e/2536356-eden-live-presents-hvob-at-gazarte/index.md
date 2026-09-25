@@ -1,6 +1,6 @@
 # EDEN LIVE presents HVOB at Gazarte
 
-EDEN LIVE presents HVOB at Gazarte on Thu 3 Dec, Athens. 1 act on the bill: HVOB. Techno and Downtempo. Preview the line-up and save it on soundcheck.
+EDEN LIVE presents HVOB at Gazarte on Thu 3 Dec, Athens. 1 artist on the bill: HVOB. Techno and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

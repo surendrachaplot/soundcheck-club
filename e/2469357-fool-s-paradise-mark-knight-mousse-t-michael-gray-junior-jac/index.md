@@ -1,6 +1,6 @@
 # Fool's Paradise: Mark Knight, Mousse T., Michael Gray, Junior Jack, David Penn, Groove P + more at fabric
 
-Fool's Paradise: Mark Knight, Mousse T., Michael Gray, Junior Jack, David Penn, Groove P + more at fabric on Sat 24 Oct, London. 11 acts on the bill: Damian Wilson, David Penn, Groove P and Jaegerossa and 7 more. Preview the line-up and save it on soundcheck.
+Fool's Paradise: Mark Knight, Mousse T., Michael Gray, Junior Jack, David Penn, Groove P + more at fabric on Sat 24 Oct, London. 11 artists on the bill: Damian Wilson, David Penn, Groove P and Jaegerossa and 7 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

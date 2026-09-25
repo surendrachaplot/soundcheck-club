@@ -1,6 +1,6 @@
 # soundpark session // Martin Heimann, Poyu at saasfee*pavillon
 
-soundpark session // Martin Heimann, Poyu at saasfee*pavillon on Fri 25 Sept, Frankfurt. 1 act on the bill: Martin Heimann. House and Italo Disco. Preview the line-up and save it on soundcheck.
+soundpark session // Martin Heimann, Poyu at saasfee*pavillon on Fri 25 Sept, Frankfurt. 1 artist on the bill: Martin Heimann. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

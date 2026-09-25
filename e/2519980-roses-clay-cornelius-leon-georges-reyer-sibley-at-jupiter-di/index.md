@@ -1,6 +1,6 @@
 # Roses: Clay Cornelius, Leon Georges, Reyer, Sibley at Jupiter Disco
 
-Roses: Clay Cornelius, Leon Georges, Reyer, Sibley at Jupiter Disco on Thu 24 Sept, Newyorkcity. 1 act on the bill: Reyer. Preview the line-up and save it on soundcheck.
+Roses: Clay Cornelius, Leon Georges, Reyer, Sibley at Jupiter Disco on Thu 24 Sept, New York City. 1 artist on the bill: Reyer. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

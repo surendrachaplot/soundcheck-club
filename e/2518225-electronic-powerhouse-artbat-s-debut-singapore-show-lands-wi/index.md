@@ -1,6 +1,6 @@
 # Electronic Powerhouse Artbat's Debut Singapore Show Lands With Special Guests Agents Of Time at Pasir Panjang Power Station
 
-Electronic Powerhouse Artbat's Debut Singapore Show Lands With Special Guests Agents Of Time at Pasir Panjang Power Station on Sat 17 Oct, Singapore. 1 act on the bill: Artbat. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Electronic Powerhouse Artbat's Debut Singapore Show Lands With Special Guests Agents Of Time at Pasir Panjang Power Station on Sat 17 Oct, Singapore. 1 artist on the bill: Artbat. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

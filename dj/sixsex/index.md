@@ -2,7 +2,7 @@
 
 Six Sex is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Six Sex is a techno and reggaeton artist based in Argentina, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside MCR-T, Blawan and DJ Gigola. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
+Six Sex is a techno and reggaeton artist based in Argentina, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside MCR-T, Blawan and DJ Gigola. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 

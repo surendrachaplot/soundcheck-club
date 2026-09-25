@@ -1,6 +1,6 @@
 # Isengard & Eternal Mana with 300SkullsAndCounting & Jenny Sparks, Valeria Litvakov, venti, GGB at La Station - Gare des Mines
 
-Isengard & Eternal Mana with 300SkullsAndCounting & Jenny Sparks, Valeria Litvakov, venti, GGB at La Station - Gare des Mines on Thu 22 Oct, Paris. 5 acts on the bill: 300SkullsAndCounting, Golce, Laura Trance and Valeria Litvakov and 1 more. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
+Isengard & Eternal Mana with 300SkullsAndCounting & Jenny Sparks, Valeria Litvakov, venti, GGB at La Station - Gare des Mines on Thu 22 Oct, Paris. 5 artists on the bill: 300SkullsAndCounting, Golce, Laura Trance and Valeria Litvakov and 1 more. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

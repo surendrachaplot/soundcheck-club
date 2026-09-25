@@ -2,7 +2,7 @@
 
 Nonfiction is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Borisov Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Nonfiction is a house and deep house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Amsterdam, Losangeles, Sandiego and Sanfrancisco. Often billed alongside Jason Merle, Kenny Dope and Michael Moog. Next up: Borisov Amsterdam, Amsterdam on Thu 22 Oct.
+Nonfiction is a house and deep house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Amsterdam, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Jason Merle, Kenny Dope and Michael Moog. Next up: Borisov Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 

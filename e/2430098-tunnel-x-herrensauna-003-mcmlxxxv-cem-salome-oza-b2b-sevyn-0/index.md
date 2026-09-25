@@ -1,6 +1,6 @@
 # TUNNEL x Herrensauna 003: MCMLXXXV, CEM, SALOME, OZA b2b Sevyn 0000 at TBA
 
-TUNNEL x Herrensauna 003: MCMLXXXV, CEM, SALOME, OZA b2b Sevyn 0000 at TBA on Fri 25 Sept, Losangeles. 5 acts on the bill: CEM, MCMLXXXV, OZA and SALOME and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+TUNNEL x Herrensauna 003: MCMLXXXV, CEM, SALOME, OZA b2b Sevyn 0000 at TBA on Fri 25 Sept, Los Angeles. 5 artists on the bill: CEM, MCMLXXXV, OZA and SALOME and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

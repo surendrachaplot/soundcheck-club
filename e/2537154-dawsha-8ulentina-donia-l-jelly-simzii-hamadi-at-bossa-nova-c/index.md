@@ -1,6 +1,6 @@
 # DAWSHA: 8ULENTINA, Donia L Jelly, Simzii, Hamadi at Bossa Nova Civic Club
 
-DAWSHA: 8ULENTINA, Donia L Jelly, Simzii, Hamadi at Bossa Nova Civic Club on Sun 11 Oct, Newyorkcity. 3 acts on the bill: 8ULENTINA, Hamadi and Simzii. Techno and Experimental. Preview the line-up and save it on soundcheck.
+DAWSHA: 8ULENTINA, Donia L Jelly, Simzii, Hamadi at Bossa Nova Civic Club on Sun 11 Oct, New York City. 3 artists on the bill: 8ULENTINA, Hamadi and Simzii. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Girls of the Internet (Live) at The Jam Jar
 
-Girls of the Internet (Live) at The Jam Jar on Fri 6 Nov, Bristol. 1 act on the bill: Girls of the Internet. Preview the line-up and save it on soundcheck.
+Girls of the Internet (Live) at The Jam Jar on Fri 6 Nov, Bristol. 1 artist on the bill: Girls of the Internet. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

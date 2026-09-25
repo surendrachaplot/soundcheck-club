@@ -1,6 +1,6 @@
 # Fahlberg (360 Set) at Rebel
 
-Fahlberg (360 Set) at Rebel on Sat 10 Oct, Toronto. 2 acts on the bill: Fahlberg and R8YZ. Progressive House and Afro House. Preview the line-up and save it on soundcheck.
+Fahlberg (360 Set) at Rebel on Sat 10 Oct, Toronto. 2 artists on the bill: Fahlberg and R8YZ. Progressive House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

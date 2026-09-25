@@ -1,6 +1,6 @@
 # ADE: Oh Voyage, DJ Klapsalon + Afrobotic at Muziekgebouw aan t' IJ
 
-ADE: Oh Voyage, DJ Klapsalon + Afrobotic at Muziekgebouw aan t' IJ on Sat 24 Oct, Amsterdam. 1 act on the bill: DJ Klapsalon. Electronica. Preview the line-up and save it on soundcheck.
+ADE: Oh Voyage, DJ Klapsalon + Afrobotic at Muziekgebouw aan t' IJ on Sat 24 Oct, Amsterdam. 1 artist on the bill: DJ Klapsalon. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

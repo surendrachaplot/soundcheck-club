@@ -1,6 +1,6 @@
 # Alle Farben - A World full of Colors Club Tour 2026 at Bootshaus
 
-Alle Farben - A World full of Colors Club Tour 2026 at Bootshaus on Fri 20 Nov, Cologne. 2 acts on the bill: Alle Farben and Lahos. Preview the line-up and save it on soundcheck.
+Alle Farben - A World full of Colors Club Tour 2026 at Bootshaus on Fri 20 Nov, Cologne. 2 artists on the bill: Alle Farben and Lahos. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

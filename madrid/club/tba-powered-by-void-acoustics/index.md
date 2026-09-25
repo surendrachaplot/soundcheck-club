@@ -2,7 +2,7 @@
 
 TBA - Powered by: Void Acoustics is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "ITACA & PORTAL61 at STUDIO76 with Miguel Rivas, NVMB, Atrâm, Quka, KSAL many artist" on Fri, 25 Sept 2026.
 
-TBA - Powered by: Void Acoustics is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including A4 (2), Ali-Az, Atrâm and CEM3340 and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Powered by: Void Acoustics is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including A4, Ali-Az, Atrâm and CEM3340 and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

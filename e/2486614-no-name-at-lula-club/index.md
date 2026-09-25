@@ -1,6 +1,6 @@
 # NO NAME at Lula Club
 
-NO NAME at Lula Club on Thu 24 Sept, Madrid. 3 acts on the bill: Djon, Kevin Sanchez and Matta. Preview the line-up and save it on soundcheck.
+NO NAME at Lula Club on Thu 24 Sept, Madrid. 3 artists on the bill: Djon, Kevin Sanchez and Matta. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

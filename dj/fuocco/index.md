@@ -2,7 +2,7 @@
 
 Fuocco is a Disco and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Blue Velvet Bar de Copas, Buenos Aires on Thu, 24 Sept 2026.
 
-Fuocco is a disco and techno artist based in Argentina, tracked on soundcheck, with 251 sets logged across Buenosaires. Often billed alongside Berger Muzik, COMPLEX GROOVE and KCHI HOMELESS. Next up: Blue Velvet Bar de Copas, Buenosaires on Thu 24 Sept.
+Fuocco is a disco and techno artist based in Argentina, tracked on soundcheck, with 251 sets logged across Buenos Aires. Often billed alongside Berger Muzik, COMPLEX GROOVE and KCHI HOMELESS. Next up: Blue Velvet Bar de Copas, Buenos Aires on Thu 24 Sept.
 
 ## Upcoming shows
 

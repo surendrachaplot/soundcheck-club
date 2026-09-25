@@ -1,6 +1,6 @@
 # Jinn&Juice × Habibtee present: روحانيات عيد الشكر at Pamenar Café
 
-Jinn&Juice × Habibtee present: روحانيات عيد الشكر at Pamenar Café on Fri 9 Oct, Toronto. 2 acts on the bill: ROU-H and Sandwavv. House and Downtempo. Preview the line-up and save it on soundcheck.
+Jinn&Juice × Habibtee present: روحانيات عيد الشكر at Pamenar Café on Fri 9 Oct, Toronto. 2 artists on the bill: ROU-H and Sandwavv. House and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

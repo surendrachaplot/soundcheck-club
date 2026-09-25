@@ -1,6 +1,6 @@
 # Afro Reggaeton Party at The #1 Latin Bar NYC at San Antonios
 
-Afro Reggaeton Party at The #1 Latin Bar NYC at San Antonios on Sat 26 Sept, Newyorkcity. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
+Afro Reggaeton Party at The #1 Latin Bar NYC at San Antonios on Sat 26 Sept, New York City. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

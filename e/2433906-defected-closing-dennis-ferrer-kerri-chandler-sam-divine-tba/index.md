@@ -1,6 +1,6 @@
 # Defected Closing: Dennis Ferrer, Kerri Chandler, Sam Divine TBA at Chinois Ibiza
 
-Defected Closing: Dennis Ferrer, Kerri Chandler, Sam Divine TBA at Chinois Ibiza on Thu 8 Oct, Ibiza. 3 acts on the bill: Dennis Ferrer, Kerri Chandler and Sam Divine. House and Tech House. Preview the line-up and save it on soundcheck.
+Defected Closing: Dennis Ferrer, Kerri Chandler, Sam Divine TBA at Chinois Ibiza on Thu 8 Oct, Ibiza. 3 artists on the bill: Dennis Ferrer, Kerri Chandler and Sam Divine. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

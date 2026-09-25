@@ -1,6 +1,6 @@
 # Stereo Punks presents GEE LEE & JACK MARLOW at TBA - DTLA
 
-Stereo Punks presents GEE LEE & JACK MARLOW at TBA - DTLA on Sat 10 Oct, Losangeles. 2 acts on the bill: GEE LEE and JACK MARLOW. House and Garage. Preview the line-up and save it on soundcheck.
+Stereo Punks presents GEE LEE & JACK MARLOW at TBA - DTLA on Sat 10 Oct, Los Angeles. 2 artists on the bill: GEE LEE and JACK MARLOW. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

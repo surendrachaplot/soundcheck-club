@@ -1,6 +1,6 @@
 # Sissi's Friday with Tension & Siem at SISSI'S Amsterdam
 
-Sissi's Friday with Tension & Siem at SISSI'S Amsterdam on Fri 16 Oct, Amsterdam. 2 acts on the bill: Siem and Tienson. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Sissi's Friday with Tension & Siem at SISSI'S Amsterdam on Fri 16 Oct, Amsterdam. 2 artists on the bill: Siem and Tienson. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

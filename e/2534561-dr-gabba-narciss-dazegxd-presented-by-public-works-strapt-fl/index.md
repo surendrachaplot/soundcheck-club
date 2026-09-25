@@ -1,6 +1,6 @@
 # DR. GABBA, Narciss, Dazegxd presented by Public Works, STRAPT & Flux Aeterna at Public Works
 
-DR. GABBA, Narciss, Dazegxd presented by Public Works, STRAPT & Flux Aeterna on Sat 7 Nov, Sanfrancisco. 3 acts on the bill: Dazegxd, DR. GABBA and Narciss. Preview the line-up and save it on soundcheck.
+DR. GABBA, Narciss, Dazegxd presented by Public Works, STRAPT & Flux Aeterna on Sat 7 Nov, San Francisco/Oakland. 3 artists on the bill: Dazegxd, DR. GABBA and Narciss. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

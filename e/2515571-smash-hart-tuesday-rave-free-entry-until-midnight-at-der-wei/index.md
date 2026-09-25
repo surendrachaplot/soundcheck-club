@@ -1,6 +1,6 @@
 # Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] at Der Weiße Hase
 
-Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] at Der Weiße Hase on Tue 20 Oct, Berlin. 3 acts on the bill: August Kind, bbymeister and Deltapeak. Trance and Techno. Preview the line-up and save it on soundcheck.
+Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] at Der Weiße Hase on Tue 20 Oct, Berlin. 3 artists on the bill: August Kind, bbymeister and Deltapeak. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE at TBA
 
-Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE at TBA on Sat 17 Oct, Naples. 2 acts on the bill: Ben Sims and Hashashin. Techno. Preview the line-up and save it on soundcheck.
+Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE at TBA on Sat 17 Oct, Naples. 2 artists on the bill: Ben Sims and Hashashin. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

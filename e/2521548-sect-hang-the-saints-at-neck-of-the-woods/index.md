@@ -1,6 +1,6 @@
 # SECT: Hang the Saints at Neck of the Woods
 
-SECT: Hang the Saints at Neck of the Woods on Fri 9 Oct, Auckland. 2 acts on the bill: The Rat and Xywav. Techno. Preview the line-up and save it on soundcheck.
+SECT: Hang the Saints at Neck of the Woods on Fri 9 Oct, Auckland. 2 artists on the bill: The Rat and Xywav. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

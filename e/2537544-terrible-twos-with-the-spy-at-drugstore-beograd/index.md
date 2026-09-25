@@ -1,6 +1,6 @@
 # Terrible Twos with The Spy at Drugstore Beograd
 
-Terrible Twos with The Spy at Drugstore Beograd on Fri 2 Oct, Belgrade. 3 acts on the bill: lu:ka, The Spy and tsola. Preview the line-up and save it on soundcheck.
+Terrible Twos with The Spy at Drugstore Beograd on Fri 2 Oct, Belgrade. 3 artists on the bill: lu:ka, The Spy and tsola. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

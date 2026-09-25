@@ -1,6 +1,6 @@
 # Crucial Roots Soundsystem at EXIT Glasgow
 
-Crucial Roots Soundsystem at EXIT Glasgow on Fri 9 Oct, Glasgow. 1 act on the bill: Crucial Roots. Dub. Preview the line-up and save it on soundcheck.
+Crucial Roots Soundsystem at EXIT Glasgow on Fri 9 Oct, Glasgow. 1 artist on the bill: Crucial Roots. Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

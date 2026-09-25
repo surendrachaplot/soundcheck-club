@@ -2,7 +2,7 @@
 
 HumanbIAN is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jupiter Disco, New York City on Thu, 8 Oct 2026.
 
-HumanbIAN is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Moist Briefs, BbbBbBB (2) and Day Cart. Next up: Jupiter Disco, Newyorkcity on Thu 8 Oct.
+HumanbIAN is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 7 sets logged across New York City. Often billed alongside Moist Briefs, BbbBbBB and Day Cart. Next up: Jupiter Disco, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # BASS3 x Panama AMSTERDAM at Panama
 
-BASS3 x Panama AMSTERDAM on Sat 19 Dec, Amsterdam. 2 acts on the bill: Kel Mozy and Simon Kidzoo. House and Tech House. Preview the line-up and save it on soundcheck.
+BASS3 x Panama AMSTERDAM on Sat 19 Dec, Amsterdam. 2 artists on the bill: Kel Mozy and Simon Kidzoo. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

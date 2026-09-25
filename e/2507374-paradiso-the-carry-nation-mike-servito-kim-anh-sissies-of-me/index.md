@@ -1,6 +1,6 @@
 # Paradiso: The Carry Nation, Mike Servito, Kim Anh + Sissies of Mercy, Spyware at Paragon
 
-Paradiso: The Carry Nation, Mike Servito, Kim Anh + Sissies of Mercy, Spyware at Paragon on Fri 9 Oct, Newyorkcity. 5 acts on the bill: Kim Anh, Mike Servito, Sissies of Mercy and TEK NENA and 1 more. House and Acid. Preview the line-up and save it on soundcheck.
+Paradiso: The Carry Nation, Mike Servito, Kim Anh + Sissies of Mercy, Spyware at Paragon on Fri 9 Oct, New York City. 5 artists on the bill: Kim Anh, Mike Servito, Sissies of Mercy and TEK NENA and 1 more. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

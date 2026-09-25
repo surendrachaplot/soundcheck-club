@@ -1,6 +1,6 @@
 # SHEILA at H0L0
 
-SHEILA at H0L0 on Fri 25 Sept, Newyorkcity. 4 acts on the bill: Jason Kendig, maenad, Niyah West and Zeigler. Preview the line-up and save it on soundcheck.
+SHEILA at H0L0 on Fri 25 Sept, New York City. 4 artists on the bill: Jason Kendig, maenad, Niyah West and Zeigler. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

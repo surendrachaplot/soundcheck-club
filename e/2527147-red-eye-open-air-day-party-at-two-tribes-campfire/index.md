@@ -1,6 +1,6 @@
 # Red Eye - Open Air Day Party at Two Tribes CAMPFIRE
 
-Red Eye - Open Air Day Party at Two Tribes CAMPFIRE on Fri 30 Oct, London. 3 acts on the bill: Cecilia Ena, Jesus RedSoul and Tate Tosto. House and Electronica. Preview the line-up and save it on soundcheck.
+Red Eye - Open Air Day Party at Two Tribes CAMPFIRE on Fri 30 Oct, London. 3 artists on the bill: Cecilia Ena, Jesus RedSoul and Tate Tosto. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

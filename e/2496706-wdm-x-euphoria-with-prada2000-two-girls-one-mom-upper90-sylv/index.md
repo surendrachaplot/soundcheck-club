@@ -1,6 +1,6 @@
 # WDM x Euphoria with PRADA2000, two girls one mom, Upper90, Sylvie Maziarz & Worthmann at WDM
 
-WDM x Euphoria with PRADA2000, two girls one mom, Upper90, Sylvie Maziarz & Worthmann on Fri 2 Oct, Hannover. 5 acts on the bill: PRADA2000, SPORTMANN, Sylvie Maziarz and two girls one mom and 1 more. Preview the line-up and save it on soundcheck.
+WDM x Euphoria with PRADA2000, two girls one mom, Upper90, Sylvie Maziarz & Worthmann on Fri 2 Oct, Hannover. 5 artists on the bill: PRADA2000, SPORTMANN, Sylvie Maziarz and two girls one mom and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

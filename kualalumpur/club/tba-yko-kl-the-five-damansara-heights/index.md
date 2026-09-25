@@ -2,7 +2,7 @@
 
 TBA - YKO KL - THE FIVE DAMANSARA HEIGHTS is a music venue in Kuala Lumpur with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "even if. pres School Night with Lil' Louis (USA) - YKO KL" on Wed, 7 Oct 2026.
 
-TBA - YKO KL - THE FIVE DAMANSARA HEIGHTS is a music venue in Kualalumpur listed on soundcheck. 1 upcoming gig, with line-ups including JonnyVicious, Lil' Louis and LZZY. Browse upcoming dates, start times and who's playing.
+TBA - YKO KL - THE FIVE DAMANSARA HEIGHTS is a music venue in Kuala Lumpur listed on soundcheck. 1 upcoming gig, with line-ups including JonnyVicious, Lil' Louis and LZZY. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

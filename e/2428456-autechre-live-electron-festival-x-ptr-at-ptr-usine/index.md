@@ -1,6 +1,6 @@
 # Autechre Live // Electron Festival x PTR at PTR-Usine
 
-Autechre Live // Electron Festival x PTR at PTR-Usine on Mon 12 Oct, Geneva. 1 act on the bill: Autechre. Preview the line-up and save it on soundcheck.
+Autechre Live // Electron Festival x PTR at PTR-Usine on Mon 12 Oct, Geneva. 1 artist on the bill: Autechre. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

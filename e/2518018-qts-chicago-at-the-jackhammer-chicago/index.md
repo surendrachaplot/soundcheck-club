@@ -1,6 +1,6 @@
 # QTS: Chicago at The Jackhammer Chicago
 
-QTS: Chicago at The Jackhammer Chicago on Sat 21 Nov, Chicago. 1 act on the bill: Farius. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+QTS: Chicago at The Jackhammer Chicago on Sat 21 Nov, Chicago. 1 artist on the bill: Farius. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

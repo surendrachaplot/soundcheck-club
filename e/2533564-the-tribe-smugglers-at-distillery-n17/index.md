@@ -1,6 +1,6 @@
 # The Tribe Smugglers at Distillery N17
 
-The Tribe Smugglers at Distillery N17 on Sat 10 Oct, London. 1 act on the bill: Billo Sama (2). Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+The Tribe Smugglers at Distillery N17 on Sat 10 Oct, London. 1 artist on the bill: Billo Sama. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

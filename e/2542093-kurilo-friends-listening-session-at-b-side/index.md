@@ -1,6 +1,6 @@
 # Kurilo & FRIENDS: LISTENING SESSION at B-SIDE
 
-Kurilo & FRIENDS: LISTENING SESSION at B-SIDE on Sun 27 Sept, Warsaw. 1 act on the bill: Kurilo. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Kurilo & FRIENDS: LISTENING SESSION at B-SIDE on Sun 27 Sept, Warsaw. 1 artist on the bill: Kurilo. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

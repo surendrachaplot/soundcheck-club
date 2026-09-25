@@ -1,6 +1,6 @@
 # Rescheduled to 9/25: Deorro pres Botas Y Rave (Outdoors) at The Concourse Project
 
-Rescheduled to 9/25: Deorro pres Botas Y Rave (Outdoors) at The Concourse Project on Fri 25 Sept, Austin. 1 act on the bill: Deorro. Preview the line-up and save it on soundcheck.
+Rescheduled to 9/25: Deorro pres Botas Y Rave (Outdoors) at The Concourse Project on Fri 25 Sept, Austin. 1 artist on the bill: Deorro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

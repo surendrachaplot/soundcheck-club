@@ -2,7 +2,7 @@
 
 CUT:NA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ritter Butzke, Berlin on Fri, 25 Sept 2026.
 
-CUT:NA is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Louchi, RECLUSE (2) and M1RHAN. Next up: Ritter Butzke, Berlin on Fri 25 Sept.
+CUT:NA is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Louchi, RECLUSE and M1RHAN. Next up: Ritter Butzke, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 

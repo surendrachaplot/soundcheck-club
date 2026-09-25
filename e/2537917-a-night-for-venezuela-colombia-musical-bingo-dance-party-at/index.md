@@ -1,6 +1,6 @@
 # A Night for Venezuela & Colombia: Musical Bingo & Dance Party at Cafeteria
 
-A Night for Venezuela & Colombia: Musical Bingo & Dance Party at Cafeteria on Fri 25 Sept, Toronto. 3 acts on the bill: Ana Luisa, Momocita and olasconola. Preview the line-up and save it on soundcheck.
+A Night for Venezuela & Colombia: Musical Bingo & Dance Party at Cafeteria on Fri 25 Sept, Toronto. 3 artists on the bill: Ana Luisa, Momocita and olasconola. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

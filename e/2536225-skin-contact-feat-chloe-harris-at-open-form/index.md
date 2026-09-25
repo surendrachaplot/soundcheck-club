@@ -1,6 +1,6 @@
 # Skin Contact feat. Chloe Harris at Open Form
 
-Skin Contact feat. Chloe Harris at Open Form on Sat 26 Sept, Seattle. 2 acts on the bill: Chloe Harris and Théque Support. Disco. Preview the line-up and save it on soundcheck.
+Skin Contact feat. Chloe Harris at Open Form on Sat 26 Sept, Seattle. 2 artists on the bill: Chloe Harris and Théque Support. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

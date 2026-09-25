@@ -2,7 +2,7 @@
 
 Notion A is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pisco Bar, Kuala Lumpur on Sat, 26 Sept 2026.
 
-Notion A is a techno and breakbeat artist based in Singapore, tracked on soundcheck, with 51 sets logged across Kualalumpur. Often billed alongside Nazreth, Li Yi and 535eye. Next up: Pisco Bar, Kualalumpur on Sat 26 Sept.
+Notion A is a techno and breakbeat artist based in Singapore, tracked on soundcheck, with 51 sets logged across Kuala Lumpur. Often billed alongside Nazreth, Li Yi and 535eye. Next up: Pisco Bar, Kuala Lumpur on Sat 26 Sept.
 
 ## Upcoming shows
 

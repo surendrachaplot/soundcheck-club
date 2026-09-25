@@ -1,6 +1,6 @@
 # DJ SWISHERMAN [ES], KSMBA & KE-YEN [M87 Warehouse Series] at Preston Warehouse
 
-DJ SWISHERMAN [ES], KSMBA & KE-YEN [M87 Warehouse Series] at Preston Warehouse on Sat 26 Sept, Melbourne. 5 acts on the bill: DJ MACARONI, DJ SWISHERMAN, KE-YEN and KSMBA and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+DJ SWISHERMAN [ES], KSMBA & KE-YEN [M87 Warehouse Series] at Preston Warehouse on Sat 26 Sept, Melbourne. 5 artists on the bill: DJ MACARONI, DJ SWISHERMAN, KE-YEN and KSMBA and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AFTER HOURS: ORBITAL 4TH ANNIVERSARY — CARRY ON AT 303 at 303 Audiophile Bar
 
-AFTER HOURS: ORBITAL 4TH ANNIVERSARY — CARRY ON AT 303 at 303 Audiophile Bar on Sun 27 Sept, Barcelona. 2 acts on the bill: Alex (ES) and Enzo Leep. House. Preview the line-up and save it on soundcheck.
+AFTER HOURS: ORBITAL 4TH ANNIVERSARY — CARRY ON AT 303 at 303 Audiophile Bar on Sun 27 Sept, Barcelona. 2 artists on the bill: Alex (ES) and Enzo Leep. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

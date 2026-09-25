@@ -1,6 +1,6 @@
 # Culture Shock at Concorde 2
 
-Culture Shock at Concorde 2 on Sat 21 Nov, Brighton. 1 act on the bill: Culture Shock. Preview the line-up and save it on soundcheck.
+Culture Shock at Concorde 2 on Sat 21 Nov, Brighton. 1 artist on the bill: Culture Shock. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

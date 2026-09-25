@@ -1,6 +1,6 @@
 # Horoom at Bassiani
 
-Horoom at Bassiani on Fri 2 Oct, Tbilisi. 5 acts on the bill: DJ Sense, Mtvare, Obri and Seqta and 1 more. Preview the line-up and save it on soundcheck.
+Horoom at Bassiani on Fri 2 Oct, Tbilisi. 5 artists on the bill: DJ Sense, Mtvare, Obri and Seqta and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

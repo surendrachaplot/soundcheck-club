@@ -2,7 +2,7 @@
 
 Bex is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
-Bex is a house and techno artist based in Australia, tracked on soundcheck, with 95 sets logged across Berlin, Brussels, Hobart and Lisbon and 4 more. Often billed alongside Terri (2), Mike Callander and Hannah D. Next up: ZENNER, Berlin on Fri 16 Oct.
+Bex is a house and techno artist based in Australia, tracked on soundcheck, with 95 sets logged across Berlin, Brussels, Hobart and Lisbon and 4 more. Often billed alongside Terri, Mike Callander and Hannah D. Next up: ZENNER, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 

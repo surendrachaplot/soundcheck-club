@@ -1,6 +1,6 @@
 # Romare (Live) + Mari.te at Sala Villanos
 
-Romare (Live) + Mari.te at Sala Villanos on Fri 27 Nov, Madrid. 2 acts on the bill: Mari.te and Romare. Electronica. Preview the line-up and save it on soundcheck.
+Romare (Live) + Mari.te at Sala Villanos on Fri 27 Nov, Madrid. 2 artists on the bill: Mari.te and Romare. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

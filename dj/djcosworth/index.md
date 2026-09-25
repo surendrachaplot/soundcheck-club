@@ -1,14 +1,14 @@
 # DJ Cosworth
 
-DJ Cosworth is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Brick Street, Liverpool on Fri, 25 Sept 2026.
+DJ Cosworth is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 24 Kitchen Street, Liverpool on Fri, 25 Sept 2026.
 
-DJ Cosworth is a garage and house artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Aberdeen, Amsterdam, Auckland and Belfast and 21 more. Often billed alongside Oldboy, Dr Dubplate and Bakey. Next up: Brick Street, Liverpool on Fri 25 Sept.
+DJ Cosworth is a garage and house artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Aberdeen, Amsterdam, Auckland and Belfast and 21 more. Often billed alongside Oldboy, Dr Dubplate and Bakey. Next up: 24 Kitchen Street, Liverpool on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Brick Street | Liverpool |
+| Fri, 25 Sept 2026 | 24 Kitchen Street | Liverpool |
 | Sat, 3 Oct 2026 | Mint XL | Leeds |
 | Fri, 9 Oct 2026 | Stealth | Nottingham |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |

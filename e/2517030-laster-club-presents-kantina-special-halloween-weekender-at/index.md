@@ -1,6 +1,6 @@
 # Laster Club presents KANTINA SPECIAL HALLOWEEN WEEKENDER at The Bassement
 
-Laster Club presents KANTINA SPECIAL HALLOWEEN WEEKENDER at The Bassement on Sun 1 Nov, Madrid. 4 acts on the bill: JakoJako, Kameliia, Rødhåd and Roll Dann. Techno. Preview the line-up and save it on soundcheck.
+Laster Club presents KANTINA SPECIAL HALLOWEEN WEEKENDER at The Bassement on Sun 1 Nov, Madrid. 4 artists on the bill: JakoJako, Kameliia, Rødhåd and Roll Dann. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

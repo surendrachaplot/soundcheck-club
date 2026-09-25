@@ -1,6 +1,6 @@
 # Primal Instinct with Chlär & Friends at Café Katoen
 
-Primal Instinct with Chlär & Friends at Café Katoen on Fri 23 Oct, Amsterdam. 4 acts on the bill: Chlär, TAFKAMP, Temudo and Valody. Techno and House. Preview the line-up and save it on soundcheck.
+Primal Instinct with Chlär & Friends at Café Katoen on Fri 23 Oct, Amsterdam. 4 artists on the bill: Chlär, TAFKAMP, Temudo and Valody. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

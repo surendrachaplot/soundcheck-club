@@ -1,6 +1,6 @@
 # PANLAWAN 'IN THE WILD' at TBA - bamboo.base.camping, Nakhon Nayok
 
-PANLAWAN 'IN THE WILD' at TBA - bamboo.base.camping, Nakhon Nayok on Fri 11 Dec, Bangkok. 17 acts on the bill: .g (TH), ahivar, bunnyman.dogs and Chucheewa and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
+PANLAWAN 'IN THE WILD' at TBA - bamboo.base.camping, Nakhon Nayok on Fri 11 Dec, Bangkok. 17 artists on the bill: .g (TH), ahivar, bunnyman.dogs and Chucheewa and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

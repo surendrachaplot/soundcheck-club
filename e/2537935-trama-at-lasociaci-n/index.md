@@ -1,6 +1,6 @@
 # TRAMA at Lasociaciøn
 
-TRAMA at Lasociaciøn on Sat 21 Nov, Madrid. 1 act on the bill: Robert Leiner. Club and Electronica. Preview the line-up and save it on soundcheck.
+TRAMA at Lasociaciøn on Sat 21 Nov, Madrid. 1 artist on the bill: Robert Leiner. Club and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # [GLOW OFF:SITE] - Nikita, The Wicked + more (Halloween) at Dock5
 
-[GLOW OFF:SITE] - Nikita, The Wicked + more (Halloween) at Dock5 on Sat 31 Oct, Washingtondc. 1 act on the bill: despi. Bass. Preview the line-up and save it on soundcheck.
+[GLOW OFF:SITE] - Nikita, The Wicked + more (Halloween) at Dock5 on Sat 31 Oct, Washington DC. 1 artist on the bill: despi. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

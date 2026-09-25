@@ -2,7 +2,7 @@
 
 Bones is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
-Bones is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago, Detroit, London and Losangeles and 7 more. Often billed alongside Lee Wells, BERLINER KINDL and Destructo. Next up: TBA - Arts District Los Angeles, Losangeles on Sat 31 Oct.
+Bones is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago, Detroit, London and Los Angeles and 7 more. Often billed alongside Lee Wells, BERLINER KINDL and Destructo. Next up: TBA - Arts District Los Angeles, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 

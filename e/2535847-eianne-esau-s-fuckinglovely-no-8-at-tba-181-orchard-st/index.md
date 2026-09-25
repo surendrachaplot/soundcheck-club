@@ -1,6 +1,6 @@
 # eianne esau's FUCKINGLOVELY NO.8 at TBA - 181 Orchard St 
 
-eianne esau's FUCKINGLOVELY NO.8 at TBA - 181 Orchard St  on Sat 26 Sept, Newyorkcity. 3 acts on the bill: eianne esau, Fredo and PUNKAL0ID. Breakbeat and Ghetto Tech. Preview the line-up and save it on soundcheck.
+eianne esau's FUCKINGLOVELY NO.8 at TBA - 181 Orchard St  on Sat 26 Sept, New York City. 3 artists on the bill: eianne esau, Fredo and PUNKAL0ID. Breakbeat and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

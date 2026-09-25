@@ -1,6 +1,6 @@
 # KHAOTIC DVOID EXHILARATION presents: LIL TEXAS, EXPROZ & MORE at Content
 
-KHAOTIC DVOID EXHILARATION presents: LIL TEXAS, EXPROZ & MORE at Content on Sun 1 Nov, Liverpool. 2 acts on the bill: Andrew Cairns and Lil Texas. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+KHAOTIC DVOID EXHILARATION presents: LIL TEXAS, EXPROZ & MORE at Content on Sun 1 Nov, Liverpool. 2 artists on the bill: Andrew Cairns and Lil Texas. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

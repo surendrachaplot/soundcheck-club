@@ -1,6 +1,6 @@
 # Bebop Porú feat L3Ni at Six Coasts by Smorgasburg
 
-Bebop Porú feat L3Ni at Six Coasts by Smorgasburg on Sat 17 Oct, Newyorkcity. 2 acts on the bill: L3Ni and Mickey Perez. Dembow and Afro House. Preview the line-up and save it on soundcheck.
+Bebop Porú feat L3Ni at Six Coasts by Smorgasburg on Sat 17 Oct, New York City. 2 artists on the bill: L3Ni and Mickey Perez. Dembow and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

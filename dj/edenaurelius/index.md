@@ -2,7 +2,7 @@
 
 Eden Aurelius is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
 
-Eden Aurelius is an ambient and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Chicago, Lisbon, Newyorkcity and Philadelphia. Often billed alongside Marihito, 320 (1) and Doula. Next up: public records, Newyorkcity on Mon 9 Nov.
+Eden Aurelius is an ambient and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Chicago, Lisbon, New York City and Philadelphia. Often billed alongside Marihito, 320 and Doula. Next up: public records, New York City on Mon 9 Nov.
 
 ## Upcoming shows
 

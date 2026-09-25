@@ -1,6 +1,6 @@
 # Space Sunset Rituals feat. dubsea at Space Eat & Dance
 
-Space Sunset Rituals feat. dubsea at Space Eat & Dance on Fri 25 Sept, Ibiza. 1 act on the bill: dubsea. Deep House. Preview the line-up and save it on soundcheck.
+Space Sunset Rituals feat. dubsea at Space Eat & Dance on Fri 25 Sept, Ibiza. 1 artist on the bill: dubsea. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

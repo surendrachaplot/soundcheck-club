@@ -1,6 +1,6 @@
 # 99 RECORDS: Label Takeover at Planet Wax
 
-99 RECORDS: Label Takeover at Planet Wax on Sat 10 Oct, London. 3 acts on the bill: Andy Foundations, Dj magic touch and Nicky B. Jungle. Preview the line-up and save it on soundcheck.
+99 RECORDS: Label Takeover at Planet Wax on Sat 10 Oct, London. 3 artists on the bill: Andy Foundations, Dj magic touch and Nicky B. Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

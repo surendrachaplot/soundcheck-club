@@ -1,6 +1,6 @@
 # [8] with Acid Souljah, Myspacemark, ASCHE, Natasha4ever, bod [包家巷], Freestyler at TBA - WARSCHAUER PLATZ 18 10245 BERLIN
 
-[8] with Acid Souljah, Myspacemark, ASCHE, Natasha4ever, bod [包家巷], Freestyler at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Sat 17 Oct, Berlin. 7 acts on the bill: Acid Souljah, Anthracene, auto_timer and bod [包家巷] and 3 more. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+[8] with Acid Souljah, Myspacemark, ASCHE, Natasha4ever, bod [包家巷], Freestyler at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Sat 17 Oct, Berlin. 7 artists on the bill: Acid Souljah, Anthracene, auto_timer and bod [包家巷] and 3 more. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

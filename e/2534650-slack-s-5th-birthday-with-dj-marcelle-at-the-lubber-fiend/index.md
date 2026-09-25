@@ -1,6 +1,6 @@
 # Slack's 5th Birthday with DJ Marcelle at The Lubber Fiend
 
-Slack's 5th Birthday with DJ Marcelle at The Lubber Fiend on Fri 9 Oct, Newcastle. 2 acts on the bill: DJ Marcelle and Jon Cornbill. Club and Post-Punk. Preview the line-up and save it on soundcheck.
+Slack's 5th Birthday with DJ Marcelle at The Lubber Fiend on Fri 9 Oct, Newcastle. 2 artists on the bill: DJ Marcelle and Jon Cornbill. Club and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

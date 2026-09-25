@@ -1,6 +1,6 @@
 # DanceOnArrival presents: Morgan Seatree at Luna Springs
 
-DanceOnArrival presents: Morgan Seatree at Luna Springs on Sat 26 Sept, Birmingham. 2 acts on the bill: Morgan Seatree and Smokey Bubblin' B. House. Preview the line-up and save it on soundcheck.
+DanceOnArrival presents: Morgan Seatree at Luna Springs on Sat 26 Sept, Birmingham. 2 artists on the bill: Morgan Seatree and Smokey Bubblin' B. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

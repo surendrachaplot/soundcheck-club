@@ -2,7 +2,7 @@
 
 VILAIN is a Techno and Gabber artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at C12, Brussels on Fri, 25 Sept 2026.
 
-VILAIN is a techno and gabber artist based in France, tracked on soundcheck, with 10 sets logged across Berlin, Brussels, Lyon and Nantes and 2 more. Often billed alongside Lolalita, Jacidorex and Lolo (2). Next up: C12, Brussels on Fri 25 Sept.
+VILAIN is a techno and gabber artist based in France, tracked on soundcheck, with 10 sets logged across Berlin, Brussels, Lyon and Nantes and 2 more. Often billed alongside Lolalita, Jacidorex and Lolo. Next up: C12, Brussels on Fri 25 Sept.
 
 ## Upcoming shows
 

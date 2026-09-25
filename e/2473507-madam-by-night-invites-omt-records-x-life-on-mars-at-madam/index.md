@@ -1,6 +1,6 @@
 # Madam by Night invites: OMT Records x Life On Mars at Madam
 
-Madam by Night invites: OMT Records x Life On Mars on Fri 16 Oct, Amsterdam. 4 acts on the bill: andela, Artslaves, Stephen William and Wilder. Tech House. Preview the line-up and save it on soundcheck.
+Madam by Night invites: OMT Records x Life On Mars on Fri 16 Oct, Amsterdam. 4 artists on the bill: andela, Artslaves, Stephen William and Wilder. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

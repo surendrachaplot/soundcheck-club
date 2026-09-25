@@ -1,6 +1,6 @@
 # Plant The Seed presents Jive Talk at Low Profile Studios
 
-Plant The Seed presents Jive Talk at Low Profile Studios on Sat 3 Oct, London. 2 acts on the bill: Jive Talk and PuppyFat. House and Electro. Preview the line-up and save it on soundcheck.
+Plant The Seed presents Jive Talk at Low Profile Studios on Sat 3 Oct, London. 2 artists on the bill: Jive Talk and PuppyFat. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

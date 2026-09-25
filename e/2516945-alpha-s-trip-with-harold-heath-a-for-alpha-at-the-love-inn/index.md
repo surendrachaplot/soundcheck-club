@@ -1,6 +1,6 @@
 # Alpha's Trip with Harold Heath & A For Alpha at The Love Inn
 
-Alpha's Trip with Harold Heath & A For Alpha at The Love Inn on Fri 25 Sept, Bristol. 1 act on the bill: A For Alpha. House and Tech House. Preview the line-up and save it on soundcheck.
+Alpha's Trip with Harold Heath & A For Alpha at The Love Inn on Fri 25 Sept, Bristol. 1 artist on the bill: A For Alpha. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

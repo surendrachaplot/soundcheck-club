@@ -1,6 +1,6 @@
 # Moodfamily at gART.n
 
-Moodfamily at gART.n on Sat 26 Sept, Berlin. 3 acts on the bill: Flieder, Ida Daugaard and Lemonella. House. Preview the line-up and save it on soundcheck.
+Moodfamily at gART.n on Sat 26 Sept, Berlin. 3 artists on the bill: Flieder, Ida Daugaard and Lemonella. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Housekeeping: Matt Sassari, Beyond Chicago, Louden & LOVRA at Ministry Of Sound
 
-Housekeeping: Matt Sassari, Beyond Chicago, Louden & LOVRA at Ministry Of Sound on Sat 10 Oct, London. 7 acts on the bill: Anderdox, Beyond Chicago, Cribb and Louden and 3 more. House. Preview the line-up and save it on soundcheck.
+Housekeeping: Matt Sassari, Beyond Chicago, Louden & LOVRA at Ministry Of Sound on Sat 10 Oct, London. 7 artists on the bill: Anderdox, Beyond Chicago, Cribb and Louden and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

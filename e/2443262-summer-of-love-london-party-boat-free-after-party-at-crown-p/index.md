@@ -1,6 +1,6 @@
 # Summer of Love - London party boat + free after party at Crown Pier
 
-Summer of Love - London party boat + free after party at Crown Pier on Sat 26 Sept, London. 4 acts on the bill: Eddie Van Poppel, Mr Fresh Official, NYCity Soundz and VanRock. House and Club. Preview the line-up and save it on soundcheck.
+Summer of Love - London party boat + free after party at Crown Pier on Sat 26 Sept, London. 4 artists on the bill: Eddie Van Poppel, Mr Fresh Official, NYCity Soundz and VanRock. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

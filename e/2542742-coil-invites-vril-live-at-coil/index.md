@@ -1,6 +1,6 @@
 # Coil Invites: .VRIL [Live] at Coil
 
-Coil Invites: .VRIL [Live] on Sat 3 Oct, Melbourne. 2 acts on the bill: .VRIL and Mike Buhl. Techno and Electro. Preview the line-up and save it on soundcheck.
+Coil Invites: .VRIL [Live] on Sat 3 Oct, Melbourne. 2 artists on the bill: .VRIL and Mike Buhl. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

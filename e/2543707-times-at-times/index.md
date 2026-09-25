@@ -1,6 +1,6 @@
 # TIMES at Times
 
-TIMES at Times on Sat 26 Sept, Seoul. 1 act on the bill: bluesight. Preview the line-up and save it on soundcheck.
+TIMES at Times on Sat 26 Sept, Seoul. 1 artist on the bill: bluesight. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

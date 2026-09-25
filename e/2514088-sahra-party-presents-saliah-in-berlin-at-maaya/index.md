@@ -1,6 +1,6 @@
 # Sahra Party presents Saliah in Berlin at Maaya
 
-Sahra Party presents Saliah in Berlin at Maaya on Fri 25 Sept, Berlin. 3 acts on the bill: auto_timer, Maque and Saliah. Electro and Pop. Preview the line-up and save it on soundcheck.
+Sahra Party presents Saliah in Berlin at Maaya on Fri 25 Sept, Berlin. 3 artists on the bill: auto_timer, Maque and Saliah. Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

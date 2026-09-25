@@ -1,6 +1,6 @@
 # Will Clarke at Halcyon
 
-Will Clarke at Halcyon on Sat 26 Sept, Sanfrancisco. 1 act on the bill: Will Clarke. Preview the line-up and save it on soundcheck.
+Will Clarke at Halcyon on Sat 26 Sept, San Francisco/Oakland. 1 artist on the bill: Will Clarke. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

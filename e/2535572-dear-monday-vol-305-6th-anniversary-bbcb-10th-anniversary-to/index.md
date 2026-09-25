@@ -1,6 +1,6 @@
 # DEAR MONDAY, vol.305 6th anniversary & BBCB 10th anniversary tour SP at rake?raka?
 
-DEAR MONDAY, vol.305 6th anniversary & BBCB 10th anniversary tour SP at rake?raka? on Mon 28 Sept, Osaka. 2 acts on the bill: HSC (1) and Kim.Qna. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
+DEAR MONDAY, vol.305 6th anniversary & BBCB 10th anniversary tour SP at rake?raka? on Mon 28 Sept, Osaka. 2 artists on the bill: HSC and Kim.Qna. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

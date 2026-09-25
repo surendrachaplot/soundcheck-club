@@ -1,6 +1,6 @@
 # House of Moom with Hifi Sean at Notting Hill Arts Club
 
-House of Moom with Hifi Sean at Notting Hill Arts Club on Fri 23 Oct, London. 2 acts on the bill: Hifi Sean and Midge (UK). House and Deep House. Preview the line-up and save it on soundcheck.
+House of Moom with Hifi Sean at Notting Hill Arts Club on Fri 23 Oct, London. 2 artists on the bill: Hifi Sean and Midge (UK). House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

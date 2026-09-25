@@ -1,6 +1,6 @@
 # Subject To Restrictions Discs: Label Showcase at Hidden Sounds
 
-Subject To Restrictions Discs: Label Showcase at Hidden Sounds on Fri 16 Oct, London. 3 acts on the bill: Dominik André, Nive and Stella Z. Preview the line-up and save it on soundcheck.
+Subject To Restrictions Discs: Label Showcase at Hidden Sounds on Fri 16 Oct, London. 3 artists on the bill: Dominik André, Nive and Stella Z. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

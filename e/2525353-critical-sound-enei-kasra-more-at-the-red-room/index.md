@@ -1,6 +1,6 @@
 # Critical Sound: Enei, Kasra & More at The Red Room
 
-Critical Sound: Enei, Kasra & More at The Red Room on Sat 3 Oct, Vancouver. 3 acts on the bill: Enei, Kasra and Klippee. Drum & Bass. Preview the line-up and save it on soundcheck.
+Critical Sound: Enei, Kasra & More at The Red Room on Sat 3 Oct, Vancouver. 3 artists on the bill: Enei, Kasra and Klippee. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

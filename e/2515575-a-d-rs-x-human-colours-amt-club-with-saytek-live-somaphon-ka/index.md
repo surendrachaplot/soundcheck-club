@@ -1,6 +1,6 @@
 # AИDƎRS x Human Colours @ AMT CLUB with Saytek - Live - , Somaphon , Kalimanda at AMT
 
-AИDƎRS x Human Colours @ AMT CLUB with Saytek - Live - , Somaphon , Kalimanda on Fri 6 Nov, Berlin. 5 acts on the bill: Kalimanda, Milk N Coffee, Rene Oldenburg and Saytek and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+AИDƎRS x Human Colours @ AMT CLUB with Saytek - Live - , Somaphon , Kalimanda on Fri 6 Nov, Berlin. 5 artists on the bill: Kalimanda, Milk N Coffee, Rene Oldenburg and Saytek and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

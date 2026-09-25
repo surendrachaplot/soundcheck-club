@@ -1,6 +1,6 @@
 # Dubquake Weekender 2026 at Zoo
 
-Dubquake Weekender 2026 at Zoo on Fri 13 Nov, Geneva. 6 acts on the bill: Channel One Sound, Charlie P, Dubkasm and O.B.F and 2 more. Preview the line-up and save it on soundcheck.
+Dubquake Weekender 2026 at Zoo on Fri 13 Nov, Geneva. 6 artists on the bill: Channel One Sound, Charlie P, Dubkasm and O.B.F and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

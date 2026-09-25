@@ -1,6 +1,6 @@
 # Kendal [All Night Long] @ Petit Cab at Petit CAB
 
-Kendal [All Night Long] @ Petit Cab at Petit CAB on Sat 14 Nov, Marseille. 1 act on the bill: Kendal. Trance and Italo Disco. Preview the line-up and save it on soundcheck.
+Kendal [All Night Long] @ Petit Cab at Petit CAB on Sat 14 Nov, Marseille. 1 artist on the bill: Kendal. Trance and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Sander Kleinenberg is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paal69, Amsterdam on Sat, 26 Sept 2026.
 
-Sander Kleinenberg is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Brighton, Detroit and Ibiza and 7 more. Often billed alongside Alexander Koning, Dimitri (1) and Erick E. Next up: Paal69, Amsterdam on Sat 26 Sept.
+Sander Kleinenberg is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Brighton, Detroit and Ibiza and 7 more. Often billed alongside Alexander Koning, Dimitri and Erick E. Next up: Paal69, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 

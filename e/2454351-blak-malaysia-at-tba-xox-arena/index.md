@@ -1,6 +1,6 @@
 # BLAK MALAYSIA at TBA - XOX Arena
 
-BLAK MALAYSIA at TBA - XOX Arena on Sat 3 Oct, Kualalumpur. 6 acts on the bill: 999999999, Azyr, Fatima Hajji and Joshua Dillon and 2 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+BLAK MALAYSIA at TBA - XOX Arena on Sat 3 Oct, Kuala Lumpur. 6 artists on the bill: 999999999, Azyr, Fatima Hajji and Joshua Dillon and 2 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Original Sin \\\ Pray To Good at The Art School
 
-Original Sin \\\ Pray To Good at The Art School on Fri 9 Oct, Glasgow. 4 acts on the bill: Bristol Luke, Divergence, Jurnalist and Original Sin. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Original Sin \\\ Pray To Good at The Art School on Fri 9 Oct, Glasgow. 4 artists on the bill: Bristol Luke, Divergence, Jurnalist and Original Sin. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mosimann Dream Night at Central Chapelle
 
-Mosimann Dream Night at Central Chapelle on Sun 18 Oct, Paris. 1 act on the bill: Mosimann. House and Electro. Preview the line-up and save it on soundcheck.
+Mosimann Dream Night at Central Chapelle on Sun 18 Oct, Paris. 1 artist on the bill: Mosimann. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

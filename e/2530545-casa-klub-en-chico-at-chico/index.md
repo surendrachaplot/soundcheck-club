@@ -1,6 +1,6 @@
 # Casa Klub en CHICO at CHICO
 
-Casa Klub en CHICO on Fri 25 Sept, Mexicocity. 1 act on the bill: Koscoy. Techno and Acid. Preview the line-up and save it on soundcheck.
+Casa Klub en CHICO on Fri 25 Sept, Mexico City. 1 artist on the bill: Koscoy. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

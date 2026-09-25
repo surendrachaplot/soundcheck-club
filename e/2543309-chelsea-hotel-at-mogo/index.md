@@ -1,6 +1,6 @@
 # Chelsea Hotel at MOGO
 
-Chelsea Hotel at MOGO on Wed 14 Oct, Milan. 1 act on the bill: Andrea Ratti. Electro and Club. Preview the line-up and save it on soundcheck.
+Chelsea Hotel at MOGO on Wed 14 Oct, Milan. 1 artist on the bill: Andrea Ratti. Electro and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

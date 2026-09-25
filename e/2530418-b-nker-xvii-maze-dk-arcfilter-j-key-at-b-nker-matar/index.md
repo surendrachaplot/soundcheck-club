@@ -1,6 +1,6 @@
 # Bünker XVII · Maze DK, Arcfilter, J KEY at Bünker Mataró
 
-Bünker XVII · Maze DK, Arcfilter, J KEY at Bünker Mataró on Fri 2 Oct, Barcelona. 3 acts on the bill: Arcfilter, JKEY and Maze DK. Techno. Preview the line-up and save it on soundcheck.
+Bünker XVII · Maze DK, Arcfilter, J KEY at Bünker Mataró on Fri 2 Oct, Barcelona. 3 artists on the bill: Arcfilter, JKEY and Maze DK. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

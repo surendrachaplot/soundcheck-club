@@ -1,6 +1,6 @@
 # LavaLava Club Season Opening with Kornél Kovács at Turbina
 
-LavaLava Club Season Opening with Kornél Kovács at Turbina on Sat 10 Oct, Budapest. 3 acts on the bill: Falcao, Kornél Kovács and Tolo. Techno and House. Preview the line-up and save it on soundcheck.
+LavaLava Club Season Opening with Kornél Kovács at Turbina on Sat 10 Oct, Budapest. 3 artists on the bill: Falcao, Kornél Kovács and Tolo. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

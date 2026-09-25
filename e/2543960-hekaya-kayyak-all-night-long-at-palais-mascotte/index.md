@@ -1,6 +1,6 @@
 # HEKAYA: KAYYAK (ALL NIGHT LONG) at Palais Mascotte
 
-HEKAYA: KAYYAK (ALL NIGHT LONG) at Palais Mascotte on Sat 3 Oct, Zurich. 1 act on the bill: KAYYAK. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+HEKAYA: KAYYAK (ALL NIGHT LONG) at Palais Mascotte on Sat 3 Oct, Zurich. 1 artist on the bill: KAYYAK. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

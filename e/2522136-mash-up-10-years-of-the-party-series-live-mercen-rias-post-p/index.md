@@ -1,6 +1,6 @@
 # ¡MASH-UP! 10 Years of the Party Series - LIVE Mercenárias (Post-Punk - São Paulo) at So36
 
-¡MASH-UP! 10 Years of the Party Series - LIVE Mercenárias (Post-Punk - São Paulo) at So36 on Fri 2 Oct, Berlin. 3 acts on the bill: GIN_, House Of Grace and PUTAS VAMPIRAS. House and Bass. Preview the line-up and save it on soundcheck.
+¡MASH-UP! 10 Years of the Party Series - LIVE Mercenárias (Post-Punk - São Paulo) at So36 on Fri 2 Oct, Berlin. 3 artists on the bill: GIN_, House Of Grace and PUTAS VAMPIRAS. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

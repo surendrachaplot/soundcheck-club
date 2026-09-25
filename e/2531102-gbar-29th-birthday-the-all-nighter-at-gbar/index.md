@@ -1,6 +1,6 @@
 # GBAR 29th Birthday - The All Nighter at Gbar
 
-GBAR 29th Birthday - The All Nighter at Gbar on Sat 26 Sept, Liverpool. 3 acts on the bill: Andy Mac, Dave Bennett and Dom Townsend. House and Tech House. Preview the line-up and save it on soundcheck.
+GBAR 29th Birthday - The All Nighter at Gbar on Sat 26 Sept, Liverpool. 3 artists on the bill: Andy Mac, Dave Bennett and Dom Townsend. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

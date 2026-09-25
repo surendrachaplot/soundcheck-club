@@ -1,6 +1,6 @@
 # GRÜV at RADION
 
-GRÜV at RADION on Fri 25 Sept, Amsterdam. 4 acts on the bill: KALTBLUME, KUSS, Nastia and SHE/HER. Techno. Preview the line-up and save it on soundcheck.
+GRÜV at RADION on Fri 25 Sept, Amsterdam. 4 artists on the bill: KALTBLUME, KUSS, Nastia and SHE/HER. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

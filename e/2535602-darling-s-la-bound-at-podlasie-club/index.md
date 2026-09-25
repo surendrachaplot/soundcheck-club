@@ -1,6 +1,6 @@
 # Darling's LA Bound at Podlasie Club
 
-Darling's LA Bound at Podlasie Club on Thu 1 Oct, Chicago. 3 acts on the bill: Glamour Cadaver, Juan aka grizzly and Searchl1te. Preview the line-up and save it on soundcheck.
+Darling's LA Bound at Podlasie Club on Thu 1 Oct, Chicago. 3 artists on the bill: Glamour Cadaver, Juan aka grizzly and Searchl1te. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

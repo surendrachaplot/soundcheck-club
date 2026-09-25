@@ -2,7 +2,7 @@
 
 duco is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location, New York City on Thu, 29 Oct 2026.
 
-duco is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 33 sets logged across Amsterdam, Newyorkcity and Seoul. Often billed alongside WADDLE, NIJEII and y2aura. Next up: TBA - Secret Location, Newyorkcity on Thu 29 Oct.
+duco is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 33 sets logged across Amsterdam, New York City and Seoul. Often billed alongside WADDLE, NIJEII and y2aura. Next up: TBA - Secret Location, New York City on Thu 29 Oct.
 
 ## Upcoming shows
 

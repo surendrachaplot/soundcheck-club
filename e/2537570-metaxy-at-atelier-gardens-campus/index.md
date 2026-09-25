@@ -1,6 +1,6 @@
 # Metaxy at Atelier Gardens Campus
 
-Metaxy at Atelier Gardens Campus on Fri 30 Oct, Berlin. 1 act on the bill: Norman Nodge. Techno. Preview the line-up and save it on soundcheck.
+Metaxy at Atelier Gardens Campus on Fri 30 Oct, Berlin. 1 artist on the bill: Norman Nodge. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

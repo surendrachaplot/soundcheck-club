@@ -1,6 +1,6 @@
 # UND3RT3MPL3 in BUDAPEST presents Lloyd Barwood (UK) at Akvárium Klub
 
-UND3RT3MPL3 in BUDAPEST presents Lloyd Barwood (UK) at Akvárium Klub on Sat 3 Oct, Budapest. 3 acts on the bill: East Cafe, Lloyd Barwood and Oscar Rosmano. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
+UND3RT3MPL3 in BUDAPEST presents Lloyd Barwood (UK) at Akvárium Klub on Sat 3 Oct, Budapest. 3 artists on the bill: East Cafe, Lloyd Barwood and Oscar Rosmano. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

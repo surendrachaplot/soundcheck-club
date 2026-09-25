@@ -1,6 +1,6 @@
 # KETTEN presents SINGULARITY experience - Heavy Industrial Techno at Buenos Aires at TBA - Secret Location Anunced the day of the event - Microcentro Zone, Buenos Aires
 
-KETTEN presents SINGULARITY experience - Heavy Industrial Techno at Buenos Aires at TBA - Secret Location Anunced the day of the event - Microcentro Zone, Buenos Aires on Fri 6 Nov, Buenosaires. Techno and Industrial. Preview the line-up and save it on soundcheck.
+KETTEN presents SINGULARITY experience - Heavy Industrial Techno at Buenos Aires at TBA - Secret Location Anunced the day of the event - Microcentro Zone, Buenos Aires on Fri 6 Nov, Buenos Aires. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

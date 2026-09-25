@@ -2,7 +2,7 @@
 
 Lester Fitzpatrick is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Swig, Chicago on Thu, 24 Sept 2026.
 
-Lester Fitzpatrick is a techno and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Chicago, Denver, Detroit and Newyorkcity. Often billed alongside Duke Shin, Jerome Baker and Microdot. Next up: Swig, Chicago on Thu 24 Sept.
+Lester Fitzpatrick is a techno and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Chicago, Denver, Detroit and New York City. Often billed alongside Duke Shin, Jerome Baker and Microdot. Next up: Swig, Chicago on Thu 24 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # SPUN: M-Beat, Dwarde, Chinese Daughter + Residents at Rebellion
 
-SPUN: M-Beat, Dwarde, Chinese Daughter + Residents at Rebellion on Fri 23 Oct, Manchester. 4 acts on the bill: Chinese Daughter, Dwarde, Isabella-Rose and Joe Mac. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
+SPUN: M-Beat, Dwarde, Chinese Daughter + Residents at Rebellion on Fri 23 Oct, Manchester. 4 artists on the bill: Chinese Daughter, Dwarde, Isabella-Rose and Joe Mac. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

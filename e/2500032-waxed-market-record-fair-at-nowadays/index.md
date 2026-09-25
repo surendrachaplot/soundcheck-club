@@ -1,6 +1,6 @@
 # Waxed.Market Record Fair at Nowadays
 
-Waxed.Market Record Fair at Nowadays on Sat 26 Sept, Newyorkcity. 3 acts on the bill: Frankie Bones, Juana and Rose Kourts. Preview the line-up and save it on soundcheck.
+Waxed.Market Record Fair at Nowadays on Sat 26 Sept, New York City. 3 artists on the bill: Frankie Bones, Juana and Rose Kourts. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

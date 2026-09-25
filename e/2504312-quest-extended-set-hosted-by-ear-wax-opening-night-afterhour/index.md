@@ -1,6 +1,6 @@
 # QUEST extended set hosted by EAR\WAX opening night + afterhours at Q35 WAREHOUSE
 
-QUEST extended set hosted by EAR\WAX opening night + afterhours at Q35 WAREHOUSE on Sat 26 Sept, Turin. 4 acts on the bill: Quest (IT), Riverside (IT), The Taste and Zerø. House and Electro. Preview the line-up and save it on soundcheck.
+QUEST extended set hosted by EAR\WAX opening night + afterhours at Q35 WAREHOUSE on Sat 26 Sept, Turin. 4 artists on the bill: Quest (IT), Riverside (IT), The Taste and Zerø. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

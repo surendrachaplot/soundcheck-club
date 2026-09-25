@@ -1,6 +1,6 @@
 # Baauer at Substation
 
-Baauer at Substation on Sat 17 Oct, Seattle. 1 act on the bill: Baauer. House and Electronica. Preview the line-up and save it on soundcheck.
+Baauer at Substation on Sat 17 Oct, Seattle. 1 artist on the bill: Baauer. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

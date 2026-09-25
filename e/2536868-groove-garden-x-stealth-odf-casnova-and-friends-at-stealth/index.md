@@ -1,6 +1,6 @@
 # Groove Garden x Stealth: ODF, Casnova and friends at Stealth
 
-Groove Garden x Stealth: ODF, Casnova and friends on Fri 6 Nov, Nottingham. 4 acts on the bill: Casnova, HOLL3, ODF (1) and Retrospect. House and Garage. Preview the line-up and save it on soundcheck.
+Groove Garden x Stealth: ODF, Casnova and friends on Fri 6 Nov, Nottingham. 4 artists on the bill: Casnova, HOLL3, ODF and Retrospect. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

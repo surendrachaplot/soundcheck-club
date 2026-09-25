@@ -1,6 +1,6 @@
 # Soenda presents: DIØN All day long at KABUL à GoGo
 
-Soenda presents: DIØN All day long at KABUL à GoGo on Sat 19 Dec, Utrecht. 1 act on the bill: DIØN. Techno. Preview the line-up and save it on soundcheck.
+Soenda presents: DIØN All day long at KABUL à GoGo on Sat 19 Dec, Utrecht. 1 artist on the bill: DIØN. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

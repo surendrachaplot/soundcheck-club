@@ -1,6 +1,6 @@
 # POCKET at flo Soakin
 
-POCKET at flo Soakin on Sat 10 Oct, Osaka. 1 act on the bill: Koji Nakamura. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+POCKET at flo Soakin on Sat 10 Oct, Osaka. 1 artist on the bill: Koji Nakamura. Minimal and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

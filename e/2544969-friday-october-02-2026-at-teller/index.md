@@ -1,6 +1,6 @@
 # Friday, October 02, 2026 at teller
 
-Friday, October 02, 2026 at teller on Fri 2 Oct, Seoul. 3 acts on the bill: Krijka, Mihak and Young Sun. Minimal. Preview the line-up and save it on soundcheck.
+Friday, October 02, 2026 at teller on Fri 2 Oct, Seoul. 3 artists on the bill: Krijka, Mihak and Young Sun. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

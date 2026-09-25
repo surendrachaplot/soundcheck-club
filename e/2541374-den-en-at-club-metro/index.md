@@ -1,6 +1,6 @@
 # DEN-EN at Club Metro
 
-DEN-EN at Club Metro on Sat 17 Oct, Kyoto. 3 acts on the bill: Maemm, Rei7801 and Tui (1). Techno and Electro. Preview the line-up and save it on soundcheck.
+DEN-EN at Club Metro on Sat 17 Oct, Kyoto. 3 artists on the bill: Maemm, Rei7801 and Tui. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LF SYSTEM (UK) — BRISBANE at The Prince Consort
 
-LF SYSTEM (UK) — BRISBANE at The Prince Consort on Fri 27 Nov, Brisbane. 1 act on the bill: LF SYSTEM. House and Disco. Preview the line-up and save it on soundcheck.
+LF SYSTEM (UK) — BRISBANE at The Prince Consort on Fri 27 Nov, Brisbane. 1 artist on the bill: LF SYSTEM. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

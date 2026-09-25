@@ -2,7 +2,7 @@
 
 G I N A is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Dolphin, Philadelphia on Fri, 25 Sept 2026.
 
-G I N A is a techno and house artist based in United States of America, tracked on soundcheck, with 230 sets logged across Barcelona, Liverpool, Losangeles and Manchester and 4 more. Often billed alongside Shearn, Dave Tidey and Andi. Next up: The Dolphin, Philadelphia on Fri 25 Sept.
+G I N A is a techno and house artist based in United States of America, tracked on soundcheck, with 230 sets logged across Barcelona, Liverpool, Los Angeles and Manchester and 4 more. Often billed alongside Shearn, Dave Tidey and Andi. Next up: The Dolphin, Philadelphia on Fri 25 Sept.
 
 ## Upcoming shows
 

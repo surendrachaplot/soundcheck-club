@@ -1,6 +1,6 @@
 # Space Jams at Angel Music Bar
 
-Space Jams at Angel Music Bar on Fri 9 Oct, Melbourne. 4 acts on the bill: ADMINISTRATOR, Coloursound, Ham (5) and KJONES. Preview the line-up and save it on soundcheck.
+Space Jams at Angel Music Bar on Fri 9 Oct, Melbourne. 4 artists on the bill: ADMINISTRATOR, Coloursound, Ham and KJONES. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

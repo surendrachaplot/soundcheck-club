@@ -1,6 +1,6 @@
 # TCQ - MINAU STREAMING at TCQ
 
-TCQ - MINAU STREAMING on Sat 26 Sept, Buenosaires. 2 acts on the bill: Fuocco and Pylerinstinct1. Preview the line-up and save it on soundcheck.
+TCQ - MINAU STREAMING on Sat 26 Sept, Buenos Aires. 2 artists on the bill: Fuocco and Pylerinstinct1. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

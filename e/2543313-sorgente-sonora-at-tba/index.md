@@ -1,6 +1,6 @@
 # SORGENTE SONORA at TBA
 
-SORGENTE SONORA at TBA on Fri 2 Oct, Milan. 2 acts on the bill: Binh and Dario Lem. Techno. Preview the line-up and save it on soundcheck.
+SORGENTE SONORA at TBA on Fri 2 Oct, Milan. 2 artists on the bill: Binh and Dario Lem. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

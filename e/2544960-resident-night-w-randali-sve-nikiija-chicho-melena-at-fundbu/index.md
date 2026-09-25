@@ -1,6 +1,6 @@
 # RESIDENT NIGHT W/ Randali // SVE // Nikiija // CHICHO // MELENA at Fundbureau
 
-RESIDENT NIGHT W/ Randali // SVE // Nikiija // CHICHO // MELENA at Fundbureau on Sat 10 Oct, Hamburg. 4 acts on the bill: CHICHO, Nikiija, Randali and SVE. Trance and Techno. Preview the line-up and save it on soundcheck.
+RESIDENT NIGHT W/ Randali // SVE // Nikiija // CHICHO // MELENA at Fundbureau on Sat 10 Oct, Hamburg. 4 artists on the bill: CHICHO, Nikiija, Randali and SVE. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

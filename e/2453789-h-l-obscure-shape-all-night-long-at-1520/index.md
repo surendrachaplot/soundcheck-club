@@ -1,6 +1,6 @@
 # HØL: Obscure Shape [All Night Long] at 1520
 
-HØL: Obscure Shape [All Night Long] at 1520 on Fri 25 Sept, Manchester. 1 act on the bill: Obscure Shape. Techno and House. Preview the line-up and save it on soundcheck.
+HØL: Obscure Shape [All Night Long] at 1520 on Fri 25 Sept, Manchester. 1 artist on the bill: Obscure Shape. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

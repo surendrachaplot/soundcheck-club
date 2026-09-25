@@ -1,6 +1,6 @@
 # Lezzing Out: Munches & Monsters Burlesque at The High Dive
 
-Lezzing Out: Munches & Monsters Burlesque at The High Dive on Sat 3 Oct, Detroit. 1 act on the bill: Buzi. House and Disco. Preview the line-up and save it on soundcheck.
+Lezzing Out: Munches & Monsters Burlesque at The High Dive on Sat 3 Oct, Detroit. 1 artist on the bill: Buzi. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

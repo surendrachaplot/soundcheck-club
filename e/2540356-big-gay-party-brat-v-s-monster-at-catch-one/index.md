@@ -1,6 +1,6 @@
 # Big Gay Party Brat V.S Monster at Catch One
 
-Big Gay Party Brat V.S Monster at Catch One on Sat 31 Oct, Losangeles. 1 act on the bill: Cali. House and Pop. Preview the line-up and save it on soundcheck.
+Big Gay Party Brat V.S Monster at Catch One on Sat 31 Oct, Los Angeles. 1 artist on the bill: Cali. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

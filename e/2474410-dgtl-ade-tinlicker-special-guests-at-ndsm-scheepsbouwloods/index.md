@@ -1,6 +1,6 @@
 # DGTL ADE Tinlicker & Special Guests at NDSM Scheepsbouwloods
 
-DGTL ADE Tinlicker & Special Guests at NDSM Scheepsbouwloods on Fri 23 Oct, Amsterdam. 3 acts on the bill: Helsloot, Tinlicker and Tonic Walter. Deep House. Preview the line-up and save it on soundcheck.
+DGTL ADE Tinlicker & Special Guests at NDSM Scheepsbouwloods on Fri 23 Oct, Amsterdam. 3 artists on the bill: Helsloot, Tinlicker and Tonic Walter. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

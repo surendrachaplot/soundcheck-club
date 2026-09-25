@@ -1,6 +1,6 @@
 # CLUB CUT at La Cheetah Club
 
-CLUB CUT at La Cheetah Club on Tue 29 Sept, Glasgow. 3 acts on the bill: Babyccino, Bruce Sangster and Peeve. Preview the line-up and save it on soundcheck.
+CLUB CUT at La Cheetah Club on Tue 29 Sept, Glasgow. 3 artists on the bill: Babyccino, Bruce Sangster and Peeve. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

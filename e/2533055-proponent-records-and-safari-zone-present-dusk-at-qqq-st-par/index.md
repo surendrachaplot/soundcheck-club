@@ -1,6 +1,6 @@
 # Proponent Records and Safari Zone present: Dusk at QQQ ST. Park
 
-Proponent Records and Safari Zone present: Dusk at QQQ ST. Park on Fri 2 Oct, Melbourne. 6 acts on the bill: Arktic, Common Tribe, Ish Anja and KLIO and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Proponent Records and Safari Zone present: Dusk at QQQ ST. Park on Fri 2 Oct, Melbourne. 6 artists on the bill: Arktic, Common Tribe, Ish Anja and KLIO and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

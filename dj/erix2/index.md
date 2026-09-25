@@ -2,7 +2,7 @@
 
 ERIx2 is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 16 Oct 2026.
 
-ERIx2 is a techno and industrial artist based in Japan, tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside YOSHIMASA, DJ 34 and AY (10). Next up: ZEROTOKYO, Tokyo on Fri 16 Oct.
+ERIx2 is a techno and industrial artist based in Japan, tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside YOSHIMASA, DJ 34 and AY. Next up: ZEROTOKYO, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 

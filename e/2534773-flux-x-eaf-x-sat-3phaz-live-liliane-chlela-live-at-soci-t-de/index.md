@@ -1,6 +1,6 @@
 # Flux x EAF x SAT — 3Phaz (live) • Liliane Chlela (live) at Société des arts technologiques
 
-Flux x EAF x SAT — 3Phaz (live) • Liliane Chlela (live) at Société des arts technologiques on Fri 9 Oct, Montreal. 2 acts on the bill: 3Phaz and Liliane Chlela. Preview the line-up and save it on soundcheck.
+Flux x EAF x SAT — 3Phaz (live) • Liliane Chlela (live) at Société des arts technologiques on Fri 9 Oct, Montreal. 2 artists on the bill: 3Phaz and Liliane Chlela. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

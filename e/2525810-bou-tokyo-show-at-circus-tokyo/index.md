@@ -1,6 +1,6 @@
 # BOU TOKYO SHOW at Circus Tokyo
 
-BOU TOKYO SHOW at Circus Tokyo on Sat 26 Sept, Tokyo. 1 act on the bill: Bou (UK). Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+BOU TOKYO SHOW at Circus Tokyo on Sat 26 Sept, Tokyo. 1 artist on the bill: Bou (UK). Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

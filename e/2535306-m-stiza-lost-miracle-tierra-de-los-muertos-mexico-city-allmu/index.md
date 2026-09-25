@@ -1,6 +1,6 @@
 # MËSTIZA, Lost Miracle - Tierra de los Muertos, Mexico City - ALLMusicParties at TBA -  Ex Hacienda de San Pablo de Enmedio
 
-MËSTIZA, Lost Miracle - Tierra de los Muertos, Mexico City - ALLMusicParties at TBA -  Ex Hacienda de San Pablo de Enmedio on Fri 16 Oct, Mexicocity. 5 acts on the bill: Alan Dixon, MËSTIZA, Roy Rosenfeld and Sebastien Leger and 1 more. House and Afro House. Preview the line-up and save it on soundcheck.
+MËSTIZA, Lost Miracle - Tierra de los Muertos, Mexico City - ALLMusicParties at TBA -  Ex Hacienda de San Pablo de Enmedio on Fri 16 Oct, Mexico City. 5 artists on the bill: Alan Dixon, MËSTIZA, Roy Rosenfeld and Sebastien Leger and 1 more. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

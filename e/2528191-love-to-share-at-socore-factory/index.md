@@ -1,6 +1,6 @@
 # LOVE TO SHARE at Socore Factory
 
-LOVE TO SHARE at Socore Factory on Fri 2 Oct, Osaka. 1 act on the bill: Akira. Disco. Preview the line-up and save it on soundcheck.
+LOVE TO SHARE at Socore Factory on Fri 2 Oct, Osaka. 1 artist on the bill: Akira. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

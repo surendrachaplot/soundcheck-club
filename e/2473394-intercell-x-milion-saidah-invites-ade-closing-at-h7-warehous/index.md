@@ -1,6 +1,6 @@
 # Intercell x Milion & SAIDAH Invites - ADE Closing at H7 Warehouse
 
-Intercell x Milion & SAIDAH Invites - ADE Closing at H7 Warehouse on Sun 25 Oct, Amsterdam. 2 acts on the bill: Milion and SAIDAH. Preview the line-up and save it on soundcheck.
+Intercell x Milion & SAIDAH Invites - ADE Closing at H7 Warehouse on Sun 25 Oct, Amsterdam. 2 artists on the bill: Milion and SAIDAH. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

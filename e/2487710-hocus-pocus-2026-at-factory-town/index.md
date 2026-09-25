@@ -1,6 +1,6 @@
 # Hocus Pocus 2026 at Factory Town
 
-Hocus Pocus 2026 at Factory Town on Fri 30 Oct, Miami. 85 acts on the bill: Alarico, ALISHA, Âme and ANNĒ and 81 more. House. Preview the line-up and save it on soundcheck.
+Hocus Pocus 2026 at Factory Town on Fri 30 Oct, Miami. 85 artists on the bill: Alarico, ALISHA, Âme and ANNĒ and 81 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

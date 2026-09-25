@@ -2,7 +2,7 @@
 
 DJ Love is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 2 Oct 2026.
 
-DJ Love is a club and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Berlin and Hongkong and 7 more. Often billed alongside Aletha, Emerald and BLUMITSU. Next up: La Station - Gare des Mines, Paris on Fri 2 Oct.
+DJ Love is a club and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Berlin and Hong Kong and 7 more. Often billed alongside Aletha, Emerald and BLUMITSU. Next up: La Station - Gare des Mines, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 

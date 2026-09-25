@@ -1,6 +1,6 @@
 # Paranoid London (Live feat Mutado Pintado), DJ Subaru, Kiosk + special guests TBA at New Century Locker
 
-Paranoid London (Live feat Mutado Pintado), DJ Subaru, Kiosk + special guests TBA at New Century Locker on Sat 3 Oct, Manchester. 2 acts on the bill: DJ Subaru and Paranoid London. Electro and Acid. Preview the line-up and save it on soundcheck.
+Paranoid London (Live feat Mutado Pintado), DJ Subaru, Kiosk + special guests TBA at New Century Locker on Sat 3 Oct, Manchester. 2 artists on the bill: DJ Subaru and Paranoid London. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

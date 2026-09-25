@@ -1,6 +1,6 @@
 # Dusky: Originals (2010 - 2025 Set) at Phonox
 
-Dusky: Originals (2010 - 2025 Set) at Phonox on Sat 21 Nov, London. 1 act on the bill: Dusky. Preview the line-up and save it on soundcheck.
+Dusky: Originals (2010 - 2025 Set) at Phonox on Sat 21 Nov, London. 1 artist on the bill: Dusky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

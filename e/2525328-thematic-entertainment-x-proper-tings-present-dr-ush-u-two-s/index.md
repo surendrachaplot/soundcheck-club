@@ -1,6 +1,6 @@
 # THEMATIC ENTERTAINMENT x PROPER TINGS PRESENT: DR. USHŪU & TWO SWORDS at Monarch
 
-THEMATIC ENTERTAINMENT x PROPER TINGS PRESENT: DR. USHŪU & TWO SWORDS at Monarch on Fri 16 Oct, Sanfrancisco. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+THEMATIC ENTERTAINMENT x PROPER TINGS PRESENT: DR. USHŪU & TWO SWORDS at Monarch on Fri 16 Oct, San Francisco/Oakland. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

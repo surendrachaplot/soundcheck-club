@@ -1,6 +1,6 @@
 # FLOORJAM 008 with MoMA Ready, LORA S, Ellaweeez, Ki Pharaoh & Damsel at Ormside Projects
 
-FLOORJAM 008 with MoMA Ready, LORA S, Ellaweeez, Ki Pharaoh & Damsel at Ormside Projects on Fri 25 Sept, London. 3 acts on the bill: Ellaweeez, LORA S and MoMA Ready. House and Club. Preview the line-up and save it on soundcheck.
+FLOORJAM 008 with MoMA Ready, LORA S, Ellaweeez, Ki Pharaoh & Damsel at Ormside Projects on Fri 25 Sept, London. 3 artists on the bill: Ellaweeez, LORA S and MoMA Ready. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

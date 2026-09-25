@@ -1,6 +1,6 @@
 # Trancecore at Lokschuppen Berlin
 
-Trancecore at Lokschuppen Berlin on Sat 12 Dec, Berlin. 1 act on the bill: FEROTONINO. Trance and Techno. Preview the line-up and save it on soundcheck.
+Trancecore at Lokschuppen Berlin on Sat 12 Dec, Berlin. 1 artist on the bill: FEROTONINO. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dublon (ADE) at Cinetol
 
-Dublon (ADE) at Cinetol on Sat 24 Oct, Amsterdam. 1 act on the bill: Dublon. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+Dublon (ADE) at Cinetol on Sat 24 Oct, Amsterdam. 1 artist on the bill: Dublon. Jazz and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

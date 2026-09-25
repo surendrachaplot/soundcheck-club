@@ -1,6 +1,6 @@
 # Nü Androids x Union Market Block Party feat. Marc Rebillet at Union Market
 
-Nü Androids x Union Market Block Party feat. Marc Rebillet on Sat 3 Oct, Washingtondc. 1 act on the bill: Marc Rebillet. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Nü Androids x Union Market Block Party feat. Marc Rebillet on Sat 3 Oct, Washington DC. 1 artist on the bill: Marc Rebillet. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

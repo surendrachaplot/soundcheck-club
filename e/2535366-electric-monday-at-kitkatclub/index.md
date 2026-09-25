@@ -1,6 +1,6 @@
 # Electric Monday at KitKatClub
 
-Electric Monday at KitKatClub on Mon 12 Oct, Berlin. 3 acts on the bill: Frankie Flowerz, Karina and Local Suicide. Techno and House. Preview the line-up and save it on soundcheck.
+Electric Monday at KitKatClub on Mon 12 Oct, Berlin. 3 artists on the bill: Frankie Flowerz, Karina and Local Suicide. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

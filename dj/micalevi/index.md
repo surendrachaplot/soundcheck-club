@@ -2,7 +2,7 @@
 
 Mica Levi is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tunelowa, Warsaw on Sat, 3 Oct 2026.
 
-Mica Levi is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Buenosaires and Krakow and 6 more. Often billed alongside ojoo, 2K88 and Arca. Next up: Tunelowa, Warsaw on Sat 3 Oct.
+Mica Levi is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Buenos Aires and Krakow and 6 more. Often billed alongside ojoo, 2K88 and Arca. Next up: Tunelowa, Warsaw on Sat 3 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # End Of An Era: Birthday Weekend (Fri) at Silent Studios
 
-End Of An Era: Birthday Weekend (Fri) at Silent Studios on Fri 16 Oct, Auckland. 3 acts on the bill: Cam Harris, Matt Drake and Out Of Sorts. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+End Of An Era: Birthday Weekend (Fri) at Silent Studios on Fri 16 Oct, Auckland. 3 artists on the bill: Cam Harris, Matt Drake and Out Of Sorts. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

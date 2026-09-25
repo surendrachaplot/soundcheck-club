@@ -1,6 +1,6 @@
 # Hedkandi Present The Winter Disco Ball at Radisson Red Sky Bar
 
-Hedkandi Present The Winter Disco Ball at Radisson Red Sky Bar on Fri 18 Dec, Glasgow. 1 act on the bill: Mark Doyle. House. Preview the line-up and save it on soundcheck.
+Hedkandi Present The Winter Disco Ball at Radisson Red Sky Bar on Fri 18 Dec, Glasgow. 1 artist on the bill: Mark Doyle. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

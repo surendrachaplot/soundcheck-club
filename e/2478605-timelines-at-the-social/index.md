@@ -1,6 +1,6 @@
 # Timelines at The Social
 
-Timelines at The Social on Sat 7 Nov, London. 5 acts on the bill: Abby Daze, Ben Repertoire, Dj magic touch and Lemon D and 1 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Timelines at The Social on Sat 7 Nov, London. 5 artists on the bill: Abby Daze, Ben Repertoire, Dj magic touch and Lemon D and 1 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

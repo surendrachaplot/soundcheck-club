@@ -1,6 +1,6 @@
 # BLANKA All Night Long (Room Trax /ES) at Azimut Club
 
-BLANKA All Night Long (Room Trax /ES) at Azimut Club on Sat 5 Dec, Turin. 1 act on the bill: BLANKA. Techno. Preview the line-up and save it on soundcheck.
+BLANKA All Night Long (Room Trax /ES) at Azimut Club on Sat 5 Dec, Turin. 1 artist on the bill: BLANKA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

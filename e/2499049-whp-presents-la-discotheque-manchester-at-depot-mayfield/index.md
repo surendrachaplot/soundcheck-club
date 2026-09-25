@@ -1,6 +1,6 @@
 # WHP presents: La Discotheque, Manchester at Depot Mayfield
 
-WHP presents: La Discotheque, Manchester at Depot Mayfield on Sat 7 Nov, Manchester. 23 acts on the bill: Annie Mac, Basement Jaxx, Bridge (NY) and Carly Foxx and 19 more. Preview the line-up and save it on soundcheck.
+WHP presents: La Discotheque, Manchester at Depot Mayfield on Sat 7 Nov, Manchester. 23 artists on the bill: Annie Mac, Basement Jaxx, Bridge (NY) and Carly Foxx and 19 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

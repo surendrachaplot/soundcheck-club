@@ -1,6 +1,6 @@
 # CHRØMA 2nd ANNIVERSARY: Airod at Sala ART
 
-CHRØMA 2nd ANNIVERSARY: Airod at Sala ART on Fri 9 Oct, Madrid. 1 act on the bill: Airod. Techno. Preview the line-up and save it on soundcheck.
+CHRØMA 2nd ANNIVERSARY: Airod at Sala ART on Fri 9 Oct, Madrid. 1 artist on the bill: Airod. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

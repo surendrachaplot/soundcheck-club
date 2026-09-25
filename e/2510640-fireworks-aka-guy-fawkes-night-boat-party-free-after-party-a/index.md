@@ -1,6 +1,6 @@
 # Fireworks aka Guy Fawkes night boat party + free after-party at Crown Pier
 
-Fireworks aka Guy Fawkes night boat party + free after-party at Crown Pier on Sat 7 Nov, London. 2 acts on the bill: Mr Fresh Official and VanRock. Preview the line-up and save it on soundcheck.
+Fireworks aka Guy Fawkes night boat party + free after-party at Crown Pier on Sat 7 Nov, London. 2 artists on the bill: Mr Fresh Official and VanRock. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

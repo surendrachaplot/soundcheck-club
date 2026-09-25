@@ -1,6 +1,6 @@
 # CDVR with Tornado Wallace at Cadavra
 
-CDVR with Tornado Wallace at Cadavra on Fri 2 Oct, Madrid. 3 acts on the bill: Alvaro Cabana, Le Nomad and Tornado Wallace. Electronica. Preview the line-up and save it on soundcheck.
+CDVR with Tornado Wallace at Cadavra on Fri 2 Oct, Madrid. 3 artists on the bill: Alvaro Cabana, Le Nomad and Tornado Wallace. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

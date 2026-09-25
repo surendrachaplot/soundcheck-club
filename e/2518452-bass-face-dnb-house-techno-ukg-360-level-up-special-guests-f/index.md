@@ -1,6 +1,6 @@
 # Bass Face // DNB, HOUSE:TECHNO, UKG // 360° LEVEL UP *SPECIAL GUESTS* FREE TICKETS + FREE DRINK at The Steel Yard
 
-Bass Face // DNB, HOUSE:TECHNO, UKG // 360° LEVEL UP *SPECIAL GUESTS* FREE TICKETS + FREE DRINK at The Steel Yard on Fri 13 Nov, London. 1 act on the bill: Bassface. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Bass Face // DNB, HOUSE:TECHNO, UKG // 360° LEVEL UP *SPECIAL GUESTS* FREE TICKETS + FREE DRINK at The Steel Yard on Fri 13 Nov, London. 1 artist on the bill: Bassface. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

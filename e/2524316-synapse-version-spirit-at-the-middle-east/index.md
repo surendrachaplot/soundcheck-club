@@ -1,6 +1,6 @@
 # SYNAPSE version SPIRIT at The Middle East
 
-SYNAPSE version SPIRIT at The Middle East on Fri 25 Sept, Boston. 3 acts on the bill: Asphodel Ivory, brazen and Noizcode. Trance and Techno. Preview the line-up and save it on soundcheck.
+SYNAPSE version SPIRIT at The Middle East on Fri 25 Sept, Boston. 3 artists on the bill: Asphodel Ivory, brazen and Noizcode. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

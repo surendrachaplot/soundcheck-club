@@ -1,6 +1,6 @@
 # Jigitz at Fonda Theatre
 
-Jigitz at Fonda Theatre on Fri 25 Sept, Losangeles. Preview the line-up and save it on soundcheck.
+Jigitz at Fonda Theatre on Fri 25 Sept, Los Angeles. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

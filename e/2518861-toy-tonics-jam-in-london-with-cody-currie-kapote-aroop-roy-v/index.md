@@ -1,6 +1,6 @@
 # Toy Tonics Jam in London with Cody Currie, Kapote, Aroop Roy @ Village Underground, Shoreditch at Village Underground
 
-Toy Tonics Jam in London with Cody Currie, Kapote, Aroop Roy @ Village Underground, Shoreditch on Sat 17 Oct, London. 4 acts on the bill: Aroop Roy, Cody Currie, Kapote and Marley Reid. House and Deep House. Preview the line-up and save it on soundcheck.
+Toy Tonics Jam in London with Cody Currie, Kapote, Aroop Roy @ Village Underground, Shoreditch on Sat 17 Oct, London. 4 artists on the bill: Aroop Roy, Cody Currie, Kapote and Marley Reid. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

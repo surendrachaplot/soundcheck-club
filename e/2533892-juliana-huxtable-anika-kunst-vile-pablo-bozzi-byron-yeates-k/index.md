@@ -1,6 +1,6 @@
 # Juliana Huxtable / Anika Kunst / VILE / Pablo Bozzi / Byron Yeates / Kim Ann Foxman at BASEMENT
 
-Juliana Huxtable / Anika Kunst / VILE / Pablo Bozzi / Byron Yeates / Kim Ann Foxman at BASEMENT on Fri 16 Oct, Newyorkcity. 6 acts on the bill: Anika Kunst, Byron Yeates, Juliana Huxtable and Kim Ann Foxman and 2 more. Preview the line-up and save it on soundcheck.
+Juliana Huxtable / Anika Kunst / VILE / Pablo Bozzi / Byron Yeates / Kim Ann Foxman at BASEMENT on Fri 16 Oct, New York City. 6 artists on the bill: Anika Kunst, Byron Yeates, Juliana Huxtable and Kim Ann Foxman and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # [CANCELLED] ECHOVERSE at TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam
 
-[CANCELLED] ECHOVERSE at TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam on Fri 23 Oct, Amsterdam. 2 acts on the bill: AMYMI MUSICA and Ornery. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+[CANCELLED] ECHOVERSE at TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam on Fri 23 Oct, Amsterdam. 2 artists on the bill: AMYMI MUSICA and Ornery. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

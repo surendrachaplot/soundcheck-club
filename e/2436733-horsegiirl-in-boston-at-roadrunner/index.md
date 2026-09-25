@@ -1,6 +1,6 @@
 # horsegiirL in Boston at Roadrunner
 
-horsegiirL in Boston at Roadrunner on Sat 31 Oct, Boston. 2 acts on the bill: DJ_Dave and horsegiirL. Preview the line-up and save it on soundcheck.
+horsegiirL in Boston at Roadrunner on Sat 31 Oct, Boston. 2 artists on the bill: DJ_Dave and horsegiirL. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

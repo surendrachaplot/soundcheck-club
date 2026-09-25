@@ -1,6 +1,6 @@
 # Carl H B2B Richard Gregory All Night Long at Cobalt Studios
 
-Carl H B2B Richard Gregory All Night Long at Cobalt Studios on Fri 4 Dec, Newcastle. 2 acts on the bill: Carl H and Richard Gregory. Preview the line-up and save it on soundcheck.
+Carl H B2B Richard Gregory All Night Long at Cobalt Studios on Fri 4 Dec, Newcastle. 2 artists on the bill: Carl H and Richard Gregory. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

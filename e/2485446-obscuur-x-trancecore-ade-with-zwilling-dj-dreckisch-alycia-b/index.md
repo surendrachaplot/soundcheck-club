@@ -1,6 +1,6 @@
 # OBSCUUR x Trancecore ADE with zwilling., DJ DRECKISCH, Alycia Bezgo, Kø:lab, JOKESONYOU, DICE at Toekomstmuziek
 
-OBSCUUR x Trancecore ADE with zwilling., DJ DRECKISCH, Alycia Bezgo, Kø:lab, JOKESONYOU, DICE at Toekomstmuziek on Sat 24 Oct, Amsterdam. 11 acts on the bill: Alycia Bezgo, Amøn, Boltcore and DETOXX and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+OBSCUUR x Trancecore ADE with zwilling., DJ DRECKISCH, Alycia Bezgo, Kø:lab, JOKESONYOU, DICE at Toekomstmuziek on Sat 24 Oct, Amsterdam. 11 artists on the bill: Alycia Bezgo, Amøn, Boltcore and DETOXX and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

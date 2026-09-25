@@ -1,6 +1,6 @@
 # Volpe, Seph(live), HERS & DEL OLMO at NOMAD TECHNO 10/10 at Nomad Warehouse // Galpón Mercedes Sosa
 
-Volpe, Seph(live), HERS & DEL OLMO at NOMAD TECHNO 10/10 at Nomad Warehouse // Galpón Mercedes Sosa on Sat 10 Oct, Buenosaires. 4 acts on the bill: Del Olmo (2), HERS, Seph and Volpe. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Volpe, Seph(live), HERS & DEL OLMO at NOMAD TECHNO 10/10 at Nomad Warehouse // Galpón Mercedes Sosa on Sat 10 Oct, Buenos Aires. 4 artists on the bill: Del Olmo, HERS, Seph and Volpe. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

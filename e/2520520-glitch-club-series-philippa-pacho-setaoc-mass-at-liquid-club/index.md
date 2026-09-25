@@ -1,6 +1,6 @@
 # Glitch Club Series: Philippa Pacho, Setaoc Mass at Liquid Club
 
-Glitch Club Series: Philippa Pacho, Setaoc Mass at Liquid Club on Sat 10 Oct, Malta. 3 acts on the bill: Joshua Calleja, Philippa Pacho and Setaoc Mass. Techno. Preview the line-up and save it on soundcheck.
+Glitch Club Series: Philippa Pacho, Setaoc Mass at Liquid Club on Sat 10 Oct, Malta. 3 artists on the bill: Joshua Calleja, Philippa Pacho and Setaoc Mass. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

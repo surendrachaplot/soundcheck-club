@@ -1,6 +1,6 @@
 # Gallery: Sleep D, Cousin, Claire O'Brien, Hannah D, Guy Contact, Char, with Ess at Second Story Studios
 
-Gallery: Sleep D, Cousin, Claire O'Brien, Hannah D, Guy Contact, Char, with Ess at Second Story Studios on Fri 25 Sept, Melbourne. 8 acts on the bill: Char(k), Claire O'Brien, Cousin and FUKHED and 4 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Gallery: Sleep D, Cousin, Claire O'Brien, Hannah D, Guy Contact, Char, with Ess at Second Story Studios on Fri 25 Sept, Melbourne. 8 artists on the bill: Char(k), Claire O'Brien, Cousin and FUKHED and 4 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

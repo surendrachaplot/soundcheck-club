@@ -1,6 +1,6 @@
 # Eat The Beat XL - Sep 26 at TBA - Il Mercato Centrale
 
-Eat The Beat XL - Sep 26 at TBA - Il Mercato Centrale on Sat 26 Sept, Melbourne. 4 acts on the bill: Liquid Soul, Matteo Freyrie, Shanti People and VLAD (Terra Firma). Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Eat The Beat XL - Sep 26 at TBA - Il Mercato Centrale on Sat 26 Sept, Melbourne. 4 artists on the bill: Liquid Soul, Matteo Freyrie, Shanti People and VLAD (Terra Firma). Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

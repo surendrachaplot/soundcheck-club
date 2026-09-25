@@ -1,6 +1,6 @@
 # Fatboy Slim at Malkin Bowl
 
-Fatboy Slim at Malkin Bowl on Fri 25 Sept, Vancouver. 1 act on the bill: Fatboy Slim. Electronica. Preview the line-up and save it on soundcheck.
+Fatboy Slim at Malkin Bowl on Fri 25 Sept, Vancouver. 1 artist on the bill: Fatboy Slim. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

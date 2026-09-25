@@ -1,6 +1,6 @@
 # PRISM pres Dubfire 20 at INPUT High Fidelity Dance Club
 
-PRISM pres Dubfire 20 at INPUT High Fidelity Dance Club on Sat 7 Nov, Barcelona. 2 acts on the bill: Dubfire and Sciahri. Techno. Preview the line-up and save it on soundcheck.
+PRISM pres Dubfire 20 at INPUT High Fidelity Dance Club on Sat 7 Nov, Barcelona. 2 artists on the bill: Dubfire and Sciahri. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 DWATA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at SVN West, San Francisco/Oakland on Sat, 3 Oct 2026.
 
-DWATA is a house and tech house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Sanfrancisco and Vancouver. Often billed alongside J.Phlip, Neumonic and AMPRS&ND. Next up: SVN West, Sanfrancisco on Sat 3 Oct.
+DWATA is a house and tech house artist based in United States of America, tracked on soundcheck, with 26 sets logged across San Francisco/Oakland and Vancouver. Often billed alongside J.Phlip, Neumonic and AMPRS&ND. Next up: SVN West, San Francisco/Oakland on Sat 3 Oct.
 
 ## Upcoming shows
 

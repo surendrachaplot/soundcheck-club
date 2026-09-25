@@ -1,6 +1,6 @@
 # LEXIS. Showcase Vol.1 at SWG3
 
-LEXIS. Showcase Vol.1 at SWG3 on Fri 9 Oct, Glasgow. 2 acts on the bill: SunēX and TiLA. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+LEXIS. Showcase Vol.1 at SWG3 on Fri 9 Oct, Glasgow. 2 artists on the bill: SunēX and TiLA. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

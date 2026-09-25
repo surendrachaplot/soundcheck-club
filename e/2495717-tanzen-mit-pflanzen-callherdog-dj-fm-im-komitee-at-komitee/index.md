@@ -1,6 +1,6 @@
 # Tanzen mit Pflanzen: Callherdog & DJ FM im Komitee at Komitee
 
-Tanzen mit Pflanzen: Callherdog & DJ FM im Komitee on Sat 17 Oct, Munich. 2 acts on the bill: Callherdog and DJ FM & DJ FREUND. House and Electro. Preview the line-up and save it on soundcheck.
+Tanzen mit Pflanzen: Callherdog & DJ FM im Komitee on Sat 17 Oct, Munich. 2 artists on the bill: Callherdog and DJ FM & DJ FREUND. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

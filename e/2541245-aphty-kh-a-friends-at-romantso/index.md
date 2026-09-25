@@ -1,6 +1,6 @@
 # Aphty Khéa & Friends at Romantso
 
-Aphty Khéa & Friends at Romantso on Fri 2 Oct, Athens. 3 acts on the bill: Aphty Khéa, pink.wav and SuperCub90. Preview the line-up and save it on soundcheck.
+Aphty Khéa & Friends at Romantso on Fri 2 Oct, Athens. 3 artists on the bill: Aphty Khéa, pink.wav and SuperCub90. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

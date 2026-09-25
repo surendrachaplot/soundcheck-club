@@ -1,6 +1,6 @@
 # F90 at Lokschuppen Berlin
 
-F90 at Lokschuppen Berlin on Sat 5 Dec, Berlin. 9 acts on the bill: Amøn, BTFL, DJ Tallboy and KLING&KLANG and 5 more. Trance. Preview the line-up and save it on soundcheck.
+F90 at Lokschuppen Berlin on Sat 5 Dec, Berlin. 9 artists on the bill: Amøn, BTFL, DJ Tallboy and KLING&KLANG and 5 more. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

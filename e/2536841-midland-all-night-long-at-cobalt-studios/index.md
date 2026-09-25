@@ -1,6 +1,6 @@
 # Midland All Night Long at Cobalt Studios
 
-Midland All Night Long at Cobalt Studios on Sat 21 Nov, Newcastle. 1 act on the bill: Midland. Preview the line-up and save it on soundcheck.
+Midland All Night Long at Cobalt Studios on Sat 21 Nov, Newcastle. 1 artist on the bill: Midland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

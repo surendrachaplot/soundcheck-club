@@ -1,6 +1,6 @@
 # Unsilenced x Doka Studio with Petre Inspirescu (All night long) at Doka
 
-Unsilenced x Doka Studio with Petre Inspirescu (All night long) on Sat 3 Oct, Amsterdam. 1 act on the bill: Petre Inspirescu. Techno and House. Preview the line-up and save it on soundcheck.
+Unsilenced x Doka Studio with Petre Inspirescu (All night long) on Sat 3 Oct, Amsterdam. 1 artist on the bill: Petre Inspirescu. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # James Blake - Trying Times European Tour at Le Grand Rex
 
-James Blake - Trying Times European Tour at Le Grand Rex on Mon 12 Oct, Paris. 1 act on the bill: James Blake. Electro and Pop. Preview the line-up and save it on soundcheck.
+James Blake - Trying Times European Tour at Le Grand Rex on Mon 12 Oct, Paris. 1 artist on the bill: James Blake. Electro and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

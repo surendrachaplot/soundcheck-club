@@ -1,6 +1,6 @@
 # SETTINGS & FRIENDS: SECOND BIRTHDAY at Planet Wax
 
-SETTINGS & FRIENDS: SECOND BIRTHDAY at Planet Wax on Fri 16 Oct, London. 3 acts on the bill: andz, FOKUS (Live) and STARCH. Grime and Jungle. Preview the line-up and save it on soundcheck.
+SETTINGS & FRIENDS: SECOND BIRTHDAY at Planet Wax on Fri 16 Oct, London. 3 artists on the bill: andz, FOKUS (Live) and STARCH. Grime and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

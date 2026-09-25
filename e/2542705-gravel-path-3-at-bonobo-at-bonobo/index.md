@@ -1,6 +1,6 @@
 # 'Gravel Path 3' at Bonobo at Bonobo
 
-'Gravel Path 3' at Bonobo on Thu 1 Oct, Tokyo. 2 acts on the bill: 7e and Kenjinho. Experimental and Afrobeats. Preview the line-up and save it on soundcheck.
+'Gravel Path 3' at Bonobo on Thu 1 Oct, Tokyo. 2 artists on the bill: 7e and Kenjinho. Experimental and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

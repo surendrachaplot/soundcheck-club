@@ -2,7 +2,7 @@
 
 Michael Ritter is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ritter Butzke, Berlin on Sat, 3 Oct 2026.
 
-Michael Ritter is a techno and progressive house artist based in Germany, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside Felix E, Till Antonio and Intaktogene. Next up: Ritter Butzke, Berlin on Sat 3 Oct.
+Michael Ritter is a techno and progressive house artist based in Germany, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside Felix E, Till Antonio and Intaktogene. Next up: Ritter Butzke, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 

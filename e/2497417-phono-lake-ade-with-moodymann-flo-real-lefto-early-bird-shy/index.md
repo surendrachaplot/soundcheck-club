@@ -1,6 +1,6 @@
 # Phono Lake ADE with Moodymann, Flo Real, Lefto Early Bird, Shy One at Phono Lake
 
-Phono Lake ADE with Moodymann, Flo Real, Lefto Early Bird, Shy One on Sat 24 Oct, Amsterdam. 4 acts on the bill: Flo Real, Lefto Early Bird, Moodymann and Shy One. House and Deep House. Preview the line-up and save it on soundcheck.
+Phono Lake ADE with Moodymann, Flo Real, Lefto Early Bird, Shy One on Sat 24 Oct, Amsterdam. 4 artists on the bill: Flo Real, Lefto Early Bird, Moodymann and Shy One. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

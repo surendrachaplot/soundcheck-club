@@ -1,6 +1,6 @@
 # LO MID HI with Special Guests @ Tola Peckham at Tola
 
-LO MID HI with Special Guests @ Tola Peckham on Sat 3 Oct, London. 5 acts on the bill: Althoff, Eleonora Cairati, ERRANT and Eys (1) and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+LO MID HI with Special Guests @ Tola Peckham on Sat 3 Oct, London. 5 artists on the bill: Althoff, Eleonora Cairati, ERRANT and Eys and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

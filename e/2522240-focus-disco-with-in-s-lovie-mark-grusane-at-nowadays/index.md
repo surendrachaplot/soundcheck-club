@@ -1,6 +1,6 @@
 # Focus: Disco with Inés, Lovie & Mark Grusane at Nowadays
 
-Focus: Disco with Inés, Lovie & Mark Grusane at Nowadays on Fri 16 Oct, Newyorkcity. 3 acts on the bill: Inés (US), Lovie and Mark Grusane. Disco. Preview the line-up and save it on soundcheck.
+Focus: Disco with Inés, Lovie & Mark Grusane at Nowadays on Fri 16 Oct, New York City. 3 artists on the bill: Inés (US), Lovie and Mark Grusane. Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

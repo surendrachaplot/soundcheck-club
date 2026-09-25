@@ -1,6 +1,6 @@
 # An Afternoon with Mr Scruff at Hare & Hounds
 
-An Afternoon with Mr Scruff at Hare & Hounds on Sun 1 Nov, Birmingham. 1 act on the bill: Mr Scruff. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+An Afternoon with Mr Scruff at Hare & Hounds on Sun 1 Nov, Birmingham. 1 artist on the bill: Mr Scruff. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

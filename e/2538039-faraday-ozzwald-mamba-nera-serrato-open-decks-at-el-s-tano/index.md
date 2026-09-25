@@ -1,6 +1,6 @@
 # FARADAY: Ozzwald, Mamba Nera, Serrato, Open Decks at EL SÓTANO
 
-FARADAY: Ozzwald, Mamba Nera, Serrato, Open Decks at EL SÓTANO on Fri 16 Oct, Madrid. 3 acts on the bill: Mamba Nera, Ozzwald and Serrato. Trance and Techno. Preview the line-up and save it on soundcheck.
+FARADAY: Ozzwald, Mamba Nera, Serrato, Open Decks at EL SÓTANO on Fri 16 Oct, Madrid. 3 artists on the bill: Mamba Nera, Ozzwald and Serrato. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

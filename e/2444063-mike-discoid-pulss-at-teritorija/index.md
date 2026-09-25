@@ -1,6 +1,6 @@
 # Mike Discoid // Pulss at Teritorija
 
-Mike Discoid // Pulss at Teritorija on Fri 25 Sept, Riga. 2 acts on the bill: Mike Discoid and Pulss. House. Preview the line-up and save it on soundcheck.
+Mike Discoid // Pulss at Teritorija on Fri 25 Sept, Riga. 2 artists on the bill: Mike Discoid and Pulss. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

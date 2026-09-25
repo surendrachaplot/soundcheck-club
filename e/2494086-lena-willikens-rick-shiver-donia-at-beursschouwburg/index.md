@@ -1,6 +1,6 @@
 # Lena Willikens + Rick Shiver + Donia at Beursschouwburg
 
-Lena Willikens + Rick Shiver + Donia at Beursschouwburg on Fri 6 Nov, Brussels. 3 acts on the bill: DONIA, Lena Willikens and Rick Shiver. Preview the line-up and save it on soundcheck.
+Lena Willikens + Rick Shiver + Donia at Beursschouwburg on Fri 6 Nov, Brussels. 3 artists on the bill: DONIA, Lena Willikens and Rick Shiver. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # INTERZONE - Darkwave Tuesdays w/Resident DJs Hex Embrace and Rafael Fierro at F8 1192 Folsom
 
-INTERZONE - Darkwave Tuesdays w/Resident DJs Hex Embrace and Rafael Fierro at F8 1192 Folsom on Tue 29 Sept, Sanfrancisco. 1 act on the bill: Hex Embrace. Club and EBM. Preview the line-up and save it on soundcheck.
+INTERZONE - Darkwave Tuesdays w/Resident DJs Hex Embrace and Rafael Fierro at F8 1192 Folsom on Tue 29 Sept, San Francisco/Oakland. 1 artist on the bill: Hex Embrace. Club and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

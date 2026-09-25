@@ -1,6 +1,6 @@
 # Lone Collective x 77 present: Sasson at 77
 
-Lone Collective x 77 present: Sasson on Sat 17 Oct, London. 4 acts on the bill: Cinar, Gabe K (1), Sasson and Yoel Telyaz. House and Afro House. Preview the line-up and save it on soundcheck.
+Lone Collective x 77 present: Sasson on Sat 17 Oct, London. 4 artists on the bill: Cinar, Gabe K, Sasson and Yoel Telyaz. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

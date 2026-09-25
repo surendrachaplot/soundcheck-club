@@ -1,6 +1,6 @@
 # Antidoto Club x Rinse FM: Sophia Violet B2B Milion at Club Magno
 
-Antidoto Club x Rinse FM: Sophia Violet B2B Milion at Club Magno on Thu 10 Dec, Madrid. 3 acts on the bill: DJ Co.kr, Milion and Sophia Violet. Garage and Electronica. Preview the line-up and save it on soundcheck.
+Antidoto Club x Rinse FM: Sophia Violet B2B Milion at Club Magno on Thu 10 Dec, Madrid. 3 artists on the bill: DJ Co.kr, Milion and Sophia Violet. Garage and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

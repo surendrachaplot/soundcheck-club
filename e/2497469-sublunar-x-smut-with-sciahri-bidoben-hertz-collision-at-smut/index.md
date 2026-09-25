@@ -1,6 +1,6 @@
 # SUBLUNAR x SMUT with Sciahri, BIDOBEN, Hertz Collision at SMUT Athens
 
-SUBLUNAR x SMUT with Sciahri, BIDOBEN, Hertz Collision at SMUT Athens on Sat 3 Oct, Athens. 3 acts on the bill: BIDOBEN, Hertz Collision and Sciahri. Techno. Preview the line-up and save it on soundcheck.
+SUBLUNAR x SMUT with Sciahri, BIDOBEN, Hertz Collision at SMUT Athens on Sat 3 Oct, Athens. 3 artists on the bill: BIDOBEN, Hertz Collision and Sciahri. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

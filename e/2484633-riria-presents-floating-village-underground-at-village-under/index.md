@@ -1,6 +1,6 @@
 # RIRIA presents 'Floating' - Village Underground at Village Underground
 
-RIRIA presents 'Floating' - Village Underground on Sat 5 Dec, London. 1 act on the bill: RIRIA. Preview the line-up and save it on soundcheck.
+RIRIA presents 'Floating' - Village Underground on Sat 5 Dec, London. 1 artist on the bill: RIRIA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

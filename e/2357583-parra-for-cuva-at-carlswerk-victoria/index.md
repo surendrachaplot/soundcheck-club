@@ -1,6 +1,6 @@
 # Parra for Cuva at Carlswerk Victoria
 
-Parra for Cuva at Carlswerk Victoria on Thu 1 Oct, Cologne. 1 act on the bill: Parra for Cuva. Electro. Preview the line-up and save it on soundcheck.
+Parra for Cuva at Carlswerk Victoria on Thu 1 Oct, Cologne. 1 artist on the bill: Parra for Cuva. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

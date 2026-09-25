@@ -2,7 +2,7 @@
 
 TENTENKO is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club Metro, Kyoto on Sat, 3 Oct 2026.
 
-TENTENKO is an experimental and electronica artist based in Japan, tracked on soundcheck, with 21 sets logged across Kyoto and Tokyo. Often billed alongside YUKO ARAKI, 1TA (1) and Aiconga. Next up: Club Metro, Kyoto on Sat 3 Oct.
+TENTENKO is an experimental and electronica artist based in Japan, tracked on soundcheck, with 21 sets logged across Kyoto and Tokyo. Often billed alongside YUKO ARAKI, 1TA and Aiconga. Next up: Club Metro, Kyoto on Sat 3 Oct.
 
 ## Upcoming shows
 

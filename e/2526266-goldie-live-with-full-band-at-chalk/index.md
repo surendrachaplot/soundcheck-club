@@ -1,6 +1,6 @@
 # Goldie - Live with Full Band at Chalk
 
-Goldie - Live with Full Band at Chalk on Thu 12 Nov, Brighton. 1 act on the bill: Goldie. Jungle. Preview the line-up and save it on soundcheck.
+Goldie - Live with Full Band at Chalk on Thu 12 Nov, Brighton. 1 artist on the bill: Goldie. Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

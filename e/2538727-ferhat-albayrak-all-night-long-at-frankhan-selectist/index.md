@@ -1,6 +1,6 @@
 # Ferhat Albayrak 'All Night Long' at Frankhan Selectist
 
-Ferhat Albayrak 'All Night Long' at Frankhan Selectist on Sat 7 Nov, Istanbul. 1 act on the bill: Ferhat Albayrak. Techno. Preview the line-up and save it on soundcheck.
+Ferhat Albayrak 'All Night Long' at Frankhan Selectist on Sat 7 Nov, Istanbul. 1 artist on the bill: Ferhat Albayrak. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

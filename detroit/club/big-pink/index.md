@@ -2,7 +2,7 @@
 
 Big Pink is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "YOUNG MONEY NIGHT: LIL WAYNE, NICKI MINAJ & MORE (DJ TAY MADE + MORE)" on Fri, 25 Sept 2026.
 
-Big Pink is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including Botez, Dean Turnley, Fullbodydurag and JMT (2) and 2 more. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
+Big Pink is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including Botez, Dean Turnley, Fullbodydurag and JMT and 2 more. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Escocia Makina + Xtraction Presents: DA TERROR & QUINCE at Slay
 
-Escocia Makina + Xtraction Presents: DA TERROR & QUINCE at Slay on Fri 11 Dec, Glasgow. 3 acts on the bill: Da Terror, Quince and RETALIATE. Trance. Preview the line-up and save it on soundcheck.
+Escocia Makina + Xtraction Presents: DA TERROR & QUINCE at Slay on Fri 11 Dec, Glasgow. 3 artists on the bill: Da Terror, Quince and RETALIATE. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CLUSTER 001 at Delgalleria - Espa
 
-CLUSTER 001 at Delgalleria - Espa on Sat 17 Oct, Helsinki. 1 act on the bill: Man Jorge. Techno. Preview the line-up and save it on soundcheck.
+CLUSTER 001 at Delgalleria - Espa on Sat 17 Oct, Helsinki. 1 artist on the bill: Man Jorge. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

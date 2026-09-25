@@ -1,6 +1,6 @@
 # Shedding Histories: Jawa Jones, Bror Havnas, Mimika at Grow
 
-Shedding Histories: Jawa Jones, Bror Havnas, Mimika at Grow on Fri 16 Oct, London. 2 acts on the bill: Bena and Chameleonas. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Shedding Histories: Jawa Jones, Bror Havnas, Mimika at Grow on Fri 16 Oct, London. 2 artists on the bill: Bena and Chameleonas. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

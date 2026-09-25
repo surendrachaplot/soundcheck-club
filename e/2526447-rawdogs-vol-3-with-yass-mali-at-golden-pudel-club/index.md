@@ -1,6 +1,6 @@
 # RAWDOGS vol. 3 with Yass & Mali at Golden Pudel Club
 
-RAWDOGS vol. 3 with Yass & Mali at Golden Pudel Club on Fri 2 Oct, Hamburg. 2 acts on the bill: Enzo V8 and Yass & Mali. House and Tech House. Preview the line-up and save it on soundcheck.
+RAWDOGS vol. 3 with Yass & Mali at Golden Pudel Club on Fri 2 Oct, Hamburg. 2 artists on the bill: Enzo V8 and Yass & Mali. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

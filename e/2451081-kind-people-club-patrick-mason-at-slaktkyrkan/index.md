@@ -1,6 +1,6 @@
 # Kind People Club - Patrick Mason at Slaktkyrkan
 
-Kind People Club - Patrick Mason at Slaktkyrkan on Fri 25 Sept, Stockholm. 3 acts on the bill: Jessie Granqvist, Patrick Mason and Sean Fender. Techno and House. Preview the line-up and save it on soundcheck.
+Kind People Club - Patrick Mason at Slaktkyrkan on Fri 25 Sept, Stockholm. 3 artists on the bill: Jessie Granqvist, Patrick Mason and Sean Fender. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

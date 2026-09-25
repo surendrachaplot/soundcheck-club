@@ -1,6 +1,6 @@
 # Token: I'm Leaving Soon Tour at SOBs
 
-Token: I'm Leaving Soon Tour at SOBs on Sun 11 Oct, Newyorkcity. 1 act on the bill: Token. Hip-Hop. Preview the line-up and save it on soundcheck.
+Token: I'm Leaving Soon Tour at SOBs on Sun 11 Oct, New York City. 1 artist on the bill: Token. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

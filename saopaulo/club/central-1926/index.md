@@ -2,7 +2,7 @@
 
 Central 1926 is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Forbass & Tendence 15 Years" on Sat, 26 Sept 2026.
 
-Central 1926 is a music venue in Saopaulo listed on soundcheck. 1 upcoming gig, with line-ups including DJ Marky and MC Fox. Browse upcoming dates, start times and who's playing. 01007-020 Praça da Bandeira, 137 - Centro - São Paulo - Brasil.
+Central 1926 is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig, with line-ups including DJ Marky and MC Fox. Browse upcoming dates, start times and who's playing. 01007-020 Praça da Bandeira, 137 - Centro - São Paulo - Brasil.
 
 ## What's on
 

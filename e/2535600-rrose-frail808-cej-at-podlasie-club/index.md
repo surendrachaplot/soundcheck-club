@@ -1,6 +1,6 @@
 # Rrose, frail808, CEJ at Podlasie Club
 
-Rrose, frail808, CEJ at Podlasie Club on Fri 2 Oct, Chicago. 3 acts on the bill: CEJ, frail808 and Rrose. Techno. Preview the line-up and save it on soundcheck.
+Rrose, frail808, CEJ at Podlasie Club on Fri 2 Oct, Chicago. 3 artists on the bill: CEJ, frail808 and Rrose. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

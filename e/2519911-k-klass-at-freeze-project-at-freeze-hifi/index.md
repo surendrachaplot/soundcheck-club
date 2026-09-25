@@ -1,6 +1,6 @@
 # K-Klass at Freeze Project at Freeze HiFi
 
-K-Klass at Freeze Project at Freeze HiFi on Sat 10 Oct, Liverpool. 1 act on the bill: K-Klass. House. Preview the line-up and save it on soundcheck.
+K-Klass at Freeze Project at Freeze HiFi on Sat 10 Oct, Liverpool. 1 artist on the bill: K-Klass. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

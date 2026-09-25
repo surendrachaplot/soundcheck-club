@@ -1,6 +1,6 @@
 # Frequency Forest Music Festival at TBA - Newcastle Australia
 
-Frequency Forest Music Festival at TBA - Newcastle Australia on Fri 25 Sept, Newcastle. 6 acts on the bill: Agents Of Time, bradeazy, Eelke Kleijn and Innellea and 2 more. Preview the line-up and save it on soundcheck.
+Frequency Forest Music Festival at TBA - Newcastle Australia on Fri 25 Sept, Newcastle. 6 artists on the bill: Agents Of Time, bradeazy, Eelke Kleijn and Innellea and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

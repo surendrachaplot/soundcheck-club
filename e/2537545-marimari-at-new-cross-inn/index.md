@@ -1,6 +1,6 @@
 # marimari at New Cross Inn
 
-marimari at New Cross Inn on Thu 29 Oct, London. 2 acts on the bill: marimari and Nova May. Electro and Noise. Preview the line-up and save it on soundcheck.
+marimari at New Cross Inn on Thu 29 Oct, London. 2 artists on the bill: marimari and Nova May. Electro and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

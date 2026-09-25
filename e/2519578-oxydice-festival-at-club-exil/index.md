@@ -1,6 +1,6 @@
 # OXYDICE FESTIVAL at Club Exil
 
-OXYDICE FESTIVAL at Club Exil on Fri 25 Sept, Vienna. 3 acts on the bill: DJ DIAMOND (2), Kat Ze and WO.IZZY. Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
+OXYDICE FESTIVAL at Club Exil on Fri 25 Sept, Vienna. 3 artists on the bill: DJ DIAMOND, Kat Ze and WO.IZZY. Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

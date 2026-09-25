@@ -2,7 +2,7 @@
 
 SASS Music Club is a music venue in Vienna with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Donnerstag Nacht" on Thu, 24 Sept 2026.
 
-SASS Music Club is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, with line-ups including -LaLa-, Æ-X, Cameron (1) and CAMMMMM and 2 more. Browse upcoming dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
+SASS Music Club is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, with line-ups including -LaLa-, Æ-X, Cameron and CAMMMMM and 2 more. Browse upcoming dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
 ## What's on
 

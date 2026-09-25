@@ -1,6 +1,6 @@
 # BOPS • queer. pop. party at THE OTHER SIDE
 
-BOPS • queer. pop. party at THE OTHER SIDE on Fri 27 Nov, Amsterdam. 2 acts on the bill: Absoluut and TMORGZ. House and Pop. Preview the line-up and save it on soundcheck.
+BOPS • queer. pop. party at THE OTHER SIDE on Fri 27 Nov, Amsterdam. 2 artists on the bill: Absoluut and TMORGZ. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

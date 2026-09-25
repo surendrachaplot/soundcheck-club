@@ -1,6 +1,6 @@
 # Amtrac [Dream live tour] at Process PDX
 
-Amtrac [Dream live tour] at Process PDX on Thu 19 Nov, Portland. 1 act on the bill: Amtrac. House and Electronica. Preview the line-up and save it on soundcheck.
+Amtrac [Dream live tour] at Process PDX on Thu 19 Nov, Portland. 1 artist on the bill: Amtrac. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 E-QUE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Sat, 17 Oct 2026.
 
-E-QUE is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Washingtondc. Often billed alongside BE EZY, SPCL.K and Eric Yaz. Next up: Flash, Washingtondc on Sat 17 Oct.
+E-QUE is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Washington DC. Often billed alongside BE EZY, SPCL.K and Eric Yaz. Next up: Flash, Washington DC on Sat 17 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # EMBER ARTISTS x ADE at Yellow House
 
-EMBER ARTISTS x ADE at Yellow House on Wed 21 Oct, Amsterdam. 9 acts on the bill: Bérou, BIIANCO, DJ Hyperdrive and DURDENHAUER and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+EMBER ARTISTS x ADE at Yellow House on Wed 21 Oct, Amsterdam. 9 artists on the bill: Bérou, BIIANCO, DJ Hyperdrive and DURDENHAUER and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

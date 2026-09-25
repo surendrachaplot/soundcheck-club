@@ -2,7 +2,7 @@
 
 Lolu Menayed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Yellow House, Amsterdam on Sat, 24 Oct 2026.
 
-Lolu Menayed is a house and techno artist based in Argentina, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 7 more. Often billed alongside Jay de Lys, Franky Rizardo and Toman. Next up: Yellow House, Amsterdam on Sat 24 Oct.
+Lolu Menayed is a house and techno artist based in Argentina, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 7 more. Often billed alongside Jay de Lys, Franky Rizardo and Toman. Next up: Yellow House, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 

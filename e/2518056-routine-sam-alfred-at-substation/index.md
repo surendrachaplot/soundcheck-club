@@ -1,6 +1,6 @@
 # Routine: Sam Alfred at Substation
 
-Routine: Sam Alfred at Substation on Fri 9 Oct, Seattle. 1 act on the bill: Sam Alfred. House. Preview the line-up and save it on soundcheck.
+Routine: Sam Alfred at Substation on Fri 9 Oct, Seattle. 1 artist on the bill: Sam Alfred. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

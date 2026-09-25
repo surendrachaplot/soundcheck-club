@@ -1,6 +1,6 @@
 # Labyrinth presents: Caiiro x Da Capo x Enoo Napa Halloween B3B at The Roundhouse
 
-Labyrinth presents: Caiiro x Da Capo x Enoo Napa Halloween B3B at The Roundhouse on Sat 31 Oct, London. 3 acts on the bill: Caiiro, Da Capo and Enoo Napa. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Labyrinth presents: Caiiro x Da Capo x Enoo Napa Halloween B3B at The Roundhouse on Sat 31 Oct, London. 3 artists on the bill: Caiiro, Da Capo and Enoo Napa. Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

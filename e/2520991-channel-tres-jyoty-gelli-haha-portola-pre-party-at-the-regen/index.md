@@ -1,6 +1,6 @@
 # Channel Tres, Jyoty, Gelli Haha - Portola Pre-Party at The Regency Ballroom
 
-Channel Tres, Jyoty, Gelli Haha - Portola Pre-Party at The Regency Ballroom on Fri 25 Sept, Sanfrancisco. 2 acts on the bill: Channel Tres and Jyoty. House and Baile Funk. Preview the line-up and save it on soundcheck.
+Channel Tres, Jyoty, Gelli Haha - Portola Pre-Party at The Regency Ballroom on Fri 25 Sept, San Francisco/Oakland. 2 artists on the bill: Channel Tres and Jyoty. House and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

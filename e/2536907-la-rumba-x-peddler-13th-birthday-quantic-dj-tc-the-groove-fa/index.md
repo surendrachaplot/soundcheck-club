@@ -1,6 +1,6 @@
 # La Rumba x Peddler 13th Birthday: Quantic (DJ), TC & The Groove Family + more [FREE ENTRY] at Peddler Warehouse
 
-La Rumba x Peddler 13th Birthday: Quantic (DJ), TC & The Groove Family + more [FREE ENTRY] at Peddler Warehouse on Fri 2 Oct, Sheffield. 6 acts on the bill: alex.aubyn, La Rumba, Linga Sound and Quantic and 2 more. Jazz and Latin Bass. Preview the line-up and save it on soundcheck.
+La Rumba x Peddler 13th Birthday: Quantic (DJ), TC & The Groove Family + more [FREE ENTRY] at Peddler Warehouse on Fri 2 Oct, Sheffield. 6 artists on the bill: alex.aubyn, La Rumba, Linga Sound and Quantic and 2 more. Jazz and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

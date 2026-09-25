@@ -1,6 +1,6 @@
 # BASIS/ Charlie Sparks/ Coster/ N00M1/ THISO at BASIS
 
-BASIS/ Charlie Sparks/ Coster/ N00M1/ THISO on Fri 6 Nov, Utrecht. 3 acts on the bill: Charlie Sparks, N00M1 and THISO. Techno. Preview the line-up and save it on soundcheck.
+BASIS/ Charlie Sparks/ Coster/ N00M1/ THISO on Fri 6 Nov, Utrecht. 3 artists on the bill: Charlie Sparks, N00M1 and THISO. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

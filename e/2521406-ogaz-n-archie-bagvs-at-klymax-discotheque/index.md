@@ -1,6 +1,6 @@
 # Ogazón, Archie, Bagvs at Klymax Discotheque
 
-Ogazón, Archie, Bagvs at Klymax Discotheque on Sat 26 Sept, Bali. 3 acts on the bill: Archie Dennis, Bagvs and Ogazón. Preview the line-up and save it on soundcheck.
+Ogazón, Archie, Bagvs at Klymax Discotheque on Sat 26 Sept, Bali. 3 artists on the bill: Archie Dennis, Bagvs and Ogazón. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

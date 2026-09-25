@@ -1,6 +1,6 @@
 # HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona
 
-HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona on Thu 22 Oct, Barcelona. 2 acts on the bill: Drunk At Vogue and Pau Grima. House. Preview the line-up and save it on soundcheck.
+HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona on Thu 22 Oct, Barcelona. 2 artists on the bill: Drunk At Vogue and Pau Grima. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

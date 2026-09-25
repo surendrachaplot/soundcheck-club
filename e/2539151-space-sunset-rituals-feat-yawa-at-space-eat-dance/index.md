@@ -1,6 +1,6 @@
 # Space Sunset Rituals feat. Yawa at Space Eat & Dance
 
-Space Sunset Rituals feat. Yawa at Space Eat & Dance on Sun 27 Sept, Ibiza. 1 act on the bill: Yawa Ze. Balearic and IDM. Preview the line-up and save it on soundcheck.
+Space Sunset Rituals feat. Yawa at Space Eat & Dance on Sun 27 Sept, Ibiza. 1 artist on the bill: Yawa Ze. Balearic and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

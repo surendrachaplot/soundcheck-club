@@ -1,6 +1,6 @@
 # Fruit Juice: Witches Brew Djs: Princess Dyke B2B JHS, DJ Lawyer, More TBA at The Sultan Room
 
-Fruit Juice: Witches Brew Djs: Princess Dyke B2B JHS, DJ Lawyer, More TBA at The Sultan Room on Sat 31 Oct, Newyorkcity. 1 act on the bill: DJ Lawyer. House and Disco. Preview the line-up and save it on soundcheck.
+Fruit Juice: Witches Brew Djs: Princess Dyke B2B JHS, DJ Lawyer, More TBA at The Sultan Room on Sat 31 Oct, New York City. 1 artist on the bill: DJ Lawyer. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Ones/Casual Dance is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Dr Morse, Melbourne on Sat, 26 Sept 2026.
 
-Ones/Casual Dance is a house and tech house artist based in Indonesia, tracked on soundcheck, with 15 sets logged across Melbourne and Singapore. Often billed alongside Dr. Condiments, RAH (1) and Barry Sunset. Next up: Dr Morse, Melbourne on Sat 26 Sept.
+Ones/Casual Dance is a house and tech house artist based in Indonesia, tracked on soundcheck, with 15 sets logged across Melbourne and Singapore. Often billed alongside Dr. Condiments, RAH and Barry Sunset. Next up: Dr Morse, Melbourne on Sat 26 Sept.
 
 ## Upcoming shows
 

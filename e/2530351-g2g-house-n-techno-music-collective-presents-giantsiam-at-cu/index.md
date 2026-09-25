@@ -1,6 +1,6 @@
 # G2G House'n'Techno Music Collective presents; Giantsiam at Culture Cafe
 
-G2G House'n'Techno Music Collective presents; Giantsiam at Culture Cafe on Sun 18 Oct, Bangkok. 1 act on the bill: Giantsiam. Techno and House. Preview the line-up and save it on soundcheck.
+G2G House'n'Techno Music Collective presents; Giantsiam at Culture Cafe on Sun 18 Oct, Bangkok. 1 artist on the bill: Giantsiam. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

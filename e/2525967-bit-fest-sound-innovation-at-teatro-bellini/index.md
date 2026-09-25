@@ -1,6 +1,6 @@
 # BIT FEST - Sound Innovation at Teatro Bellini
 
-BIT FEST - Sound Innovation at Teatro Bellini on Fri 25 Sept, Naples. 8 acts on the bill: Cipolletta, Gabriele Del Prete, gianluca viscovo and Kalabrese and 4 more. House and Electronica. Preview the line-up and save it on soundcheck.
+BIT FEST - Sound Innovation at Teatro Bellini on Fri 25 Sept, Naples. 8 artists on the bill: Cipolletta, Gabriele Del Prete, gianluca viscovo and Kalabrese and 4 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

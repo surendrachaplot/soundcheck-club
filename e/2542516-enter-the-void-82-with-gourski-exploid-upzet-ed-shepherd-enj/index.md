@@ -1,6 +1,6 @@
 # Enter the Void #82 with Gourski, Exploid, Upzet, Ed Shepherd, Enjean, Crashkitt, Noctunal at Void Club
 
-Enter the Void #82 with Gourski, Exploid, Upzet, Ed Shepherd, Enjean, Crashkitt, Noctunal at Void Club on Fri 16 Oct, Berlin. 7 acts on the bill: Crashkitt, Ed Shepherd, Exploid and Gourski and 3 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Enter the Void #82 with Gourski, Exploid, Upzet, Ed Shepherd, Enjean, Crashkitt, Noctunal at Void Club on Fri 16 Oct, Berlin. 7 artists on the bill: Crashkitt, Ed Shepherd, Exploid and Gourski and 3 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

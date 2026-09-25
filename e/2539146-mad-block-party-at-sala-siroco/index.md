@@ -1,6 +1,6 @@
 # MAD BLOCK PARTY at Sala Siroco
 
-MAD BLOCK PARTY at Sala Siroco on Fri 9 Oct, Madrid. 2 acts on the bill: CRKS290 and Flextime. Bass and Electro. Preview the line-up and save it on soundcheck.
+MAD BLOCK PARTY at Sala Siroco on Fri 9 Oct, Madrid. 2 artists on the bill: CRKS290 and Flextime. Bass and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

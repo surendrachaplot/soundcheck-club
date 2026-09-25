@@ -1,6 +1,6 @@
 # J. Worra at Night We Met
 
-J. Worra at Night We Met on Sat 17 Oct, Nashville. 1 act on the bill: J. Worra. House and Tech House. Preview the line-up and save it on soundcheck.
+J. Worra at Night We Met on Sat 17 Oct, Nashville. 1 artist on the bill: J. Worra. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

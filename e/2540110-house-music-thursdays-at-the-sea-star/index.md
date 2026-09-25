@@ -1,6 +1,6 @@
 # House Music Thursdays at The Sea Star
 
-House Music Thursdays at The Sea Star on Thu 1 Oct, Sanfrancisco. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+House Music Thursdays at The Sea Star on Thu 1 Oct, San Francisco/Oakland. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

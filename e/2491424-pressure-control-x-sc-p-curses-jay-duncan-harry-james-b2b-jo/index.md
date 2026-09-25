@@ -1,6 +1,6 @@
 # pressure control x SC&P: Curses, Jay Duncan & Harry James b2b Josh Bayat at The Carpet Shop
 
-pressure control x SC&P: Curses, Jay Duncan & Harry James b2b Josh Bayat at The Carpet Shop on Sat 3 Oct, London. 4 acts on the bill: Curses, Harry James, Jay Duncan and Josh Bayat. EBM and New Wave. Preview the line-up and save it on soundcheck.
+pressure control x SC&P: Curses, Jay Duncan & Harry James b2b Josh Bayat at The Carpet Shop on Sat 3 Oct, London. 4 artists on the bill: Curses, Harry James, Jay Duncan and Josh Bayat. EBM and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

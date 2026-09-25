@@ -1,6 +1,6 @@
 # Outer Heaven presents: Jack Mulqueen b2b Secret Guest at Outer Heaven
 
-Outer Heaven presents: Jack Mulqueen b2b Secret Guest on Fri 2 Oct, Newyorkcity. 2 acts on the bill: Jack Mulqueen and Mac Briggs. Tech House. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Jack Mulqueen b2b Secret Guest on Fri 2 Oct, New York City. 2 artists on the bill: Jack Mulqueen and Mac Briggs. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

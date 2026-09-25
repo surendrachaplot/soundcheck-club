@@ -2,7 +2,7 @@
 
 St Thomas of Canterbury Episcopal Church is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "BRINGING HOUSE TO CHURCH" on Sat, 17 Oct 2026.
 
-St Thomas of Canterbury Episcopal Church is a music venue in Losangeles listed on soundcheck. 1 upcoming gig, with line-ups including Big Cee. Browse upcoming dates, start times and who's playing. 5306 E ARBOR RD # B, LONG BEACH, CA 90808.
+St Thomas of Canterbury Episcopal Church is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Big Cee. Browse upcoming dates, start times and who's playing. 5306 E ARBOR RD # B, LONG BEACH, CA 90808.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # CROCHESTRA Brasil at Komplexo Tempo
 
-CROCHESTRA Brasil at Komplexo Tempo on Sat 17 Oct, Saopaulo. 1 act on the bill: Freedom Fighters. Psytrance. Preview the line-up and save it on soundcheck.
+CROCHESTRA Brasil at Komplexo Tempo on Sat 17 Oct, Sao Paulo. 1 artist on the bill: Freedom Fighters. Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

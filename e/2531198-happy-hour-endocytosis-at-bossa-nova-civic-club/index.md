@@ -1,6 +1,6 @@
 # Happy Hour: ENDOCYTOSIS at Bossa Nova Civic Club
 
-Happy Hour: ENDOCYTOSIS at Bossa Nova Civic Club on Sun 27 Sept, Newyorkcity. Techno and House. Preview the line-up and save it on soundcheck.
+Happy Hour: ENDOCYTOSIS at Bossa Nova Civic Club on Sun 27 Sept, New York City. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

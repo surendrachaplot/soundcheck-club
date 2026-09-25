@@ -1,6 +1,6 @@
 # Klangfarben Kollektiv pres. NEW FACES at Backstage
 
-Klangfarben Kollektiv pres. NEW FACES at Backstage on Fri 23 Oct, Munich. 1 act on the bill: antyo. Trance and Techno. Preview the line-up and save it on soundcheck.
+Klangfarben Kollektiv pres. NEW FACES at Backstage on Fri 23 Oct, Munich. 1 artist on the bill: antyo. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

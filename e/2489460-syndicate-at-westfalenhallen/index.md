@@ -1,6 +1,6 @@
 # SYNDICATE at Westfalenhallen
 
-SYNDICATE at Westfalenhallen on Sat 3 Oct, Dortmund-essen. 14 acts on the bill: Act of Rage, Angerfist, Dr Donk and Korsakoff and 10 more. Hardcore. Preview the line-up and save it on soundcheck.
+SYNDICATE at Westfalenhallen on Sat 3 Oct, Dortmund Essen. 14 artists on the bill: Act of Rage, Angerfist, Dr Donk and Korsakoff and 10 more. Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

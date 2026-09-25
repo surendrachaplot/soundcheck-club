@@ -2,7 +2,7 @@
 
 Fina is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 3 Oct 2026.
 
-Fina is a house and techno artist based in Mexico, tracked on soundcheck, with 15 sets logged across Barcelona and Mexicocity. Often billed alongside Fig (DYN), Toledano and Vanilla Storm. Next up: YuYu Cine Club, Mexicocity on Sat 3 Oct.
+Fina is a house and techno artist based in Mexico, tracked on soundcheck, with 15 sets logged across Barcelona and Mexico City. Often billed alongside Fig (DYN), Toledano and Vanilla Storm. Next up: YuYu Cine Club, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # NIGHT SHIFT: AJACENT / KAYSHIMMY / 2MANNYMOVES / SINZ at Pianos
 
-NIGHT SHIFT: AJACENT / KAYSHIMMY / 2MANNYMOVES / SINZ at Pianos on Thu 24 Sept, Newyorkcity. 1 act on the bill: AJACENT. House and Club. Preview the line-up and save it on soundcheck.
+NIGHT SHIFT: AJACENT / KAYSHIMMY / 2MANNYMOVES / SINZ at Pianos on Thu 24 Sept, New York City. 1 artist on the bill: AJACENT. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

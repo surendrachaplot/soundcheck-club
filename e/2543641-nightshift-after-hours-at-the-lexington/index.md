@@ -1,6 +1,6 @@
 # NIGHTSHIFT AFTER HOURS at The Lexington
 
-NIGHTSHIFT AFTER HOURS at The Lexington on Mon 28 Sept, Losangeles. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+NIGHTSHIFT AFTER HOURS at The Lexington on Mon 28 Sept, Los Angeles. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

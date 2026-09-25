@@ -1,6 +1,6 @@
 # FUGITIVE PRES. DJ SWISHERMAN at TBA - Wollongong CBD
 
-FUGITIVE PRES. DJ SWISHERMAN at TBA - Wollongong CBD on Sun 4 Oct, Sydney. 1 act on the bill: DJ SWISHERMAN. Techno. Preview the line-up and save it on soundcheck.
+FUGITIVE PRES. DJ SWISHERMAN at TBA - Wollongong CBD on Sun 4 Oct, Sydney. 1 artist on the bill: DJ SWISHERMAN. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rising Sun presents: Millennium at 24 Moons
 
-Rising Sun presents: Millennium at 24 Moons on Sat 26 Sept, Melbourne. 4 acts on the bill: Amber Ferraro, Crozier, DJ Luv You and Jamie Stevens. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Rising Sun presents: Millennium at 24 Moons on Sat 26 Sept, Melbourne. 4 artists on the bill: Amber Ferraro, Crozier, DJ Luv You and Jamie Stevens. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

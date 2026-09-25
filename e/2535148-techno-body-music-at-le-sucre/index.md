@@ -1,6 +1,6 @@
 # Techno Body Music at Le Sucre
 
-Techno Body Music at Le Sucre on Fri 25 Sept, Lyon. 3 acts on the bill: BOYCA, David Asko and Hugo Prime. Techno. Preview the line-up and save it on soundcheck.
+Techno Body Music at Le Sucre on Fri 25 Sept, Lyon. 3 artists on the bill: BOYCA, David Asko and Hugo Prime. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

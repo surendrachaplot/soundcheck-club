@@ -2,7 +2,7 @@
 
 Arthur (DE) is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nowadays, New York City on Sat, 24 Oct 2026.
 
-Arthur (DE) is a dub and dancehall artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Denver and Glasgow and 13 more. Often billed alongside Carl Luis, Giouann and Tikiman. Next up: Nowadays, Newyorkcity on Sat 24 Oct.
+Arthur (DE) is a dub and dancehall artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Denver and Glasgow and 13 more. Often billed alongside Carl Luis, Giouann and Tikiman. Next up: Nowadays, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 

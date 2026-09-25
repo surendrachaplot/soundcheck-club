@@ -1,6 +1,6 @@
 # CID x Maesic at 1015 Folsom
 
-CID x Maesic at 1015 Folsom on Fri 23 Oct, Sanfrancisco. Preview the line-up and save it on soundcheck.
+CID x Maesic at 1015 Folsom on Fri 23 Oct, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

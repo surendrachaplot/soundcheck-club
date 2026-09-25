@@ -2,7 +2,7 @@
 
 Posture is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Giri, Berlin on Wed, 7 Oct 2026.
 
-Posture is a techno and house artist based in Germany, tracked on soundcheck, with 71 sets logged across Berlin, Copenhagen and Mexicocity. Often billed alongside Light Plastic, Sparkly Pony and Dj handbag. Next up: Giri, Berlin on Wed 7 Oct.
+Posture is a techno and house artist based in Germany, tracked on soundcheck, with 71 sets logged across Berlin, Copenhagen and Mexico City. Often billed alongside Light Plastic, Sparkly Pony and Dj handbag. Next up: Giri, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 

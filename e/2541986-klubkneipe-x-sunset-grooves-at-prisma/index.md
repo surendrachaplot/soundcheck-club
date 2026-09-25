@@ -1,6 +1,6 @@
 # Klubkneipe x Sunset Grooves at Prisma
 
-Klubkneipe x Sunset Grooves at Prisma on Sun 4 Oct, Berlin. 1 act on the bill: NAIR (IN). House and Afro House. Preview the line-up and save it on soundcheck.
+Klubkneipe x Sunset Grooves at Prisma on Sun 4 Oct, Berlin. 1 artist on the bill: NAIR (IN). House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

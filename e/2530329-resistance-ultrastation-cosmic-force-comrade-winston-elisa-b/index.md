@@ -1,6 +1,6 @@
 # RESISTANCE: Ultrastation Cosmic Force + Comrade Winston, Elisa Bee, Marthial, Kora Lyssa, cccre at Tempio del Futuro Perduto
 
-RESISTANCE: Ultrastation Cosmic Force + Comrade Winston, Elisa Bee, Marthial, Kora Lyssa, cccre at Tempio del Futuro Perduto on Sat 12 Dec, Milan. 7 acts on the bill: cccre, Comrade Winston, Cosmic Force and Elisa Bee and 3 more. Preview the line-up and save it on soundcheck.
+RESISTANCE: Ultrastation Cosmic Force + Comrade Winston, Elisa Bee, Marthial, Kora Lyssa, cccre at Tempio del Futuro Perduto on Sat 12 Dec, Milan. 7 artists on the bill: cccre, Comrade Winston, Cosmic Force and Elisa Bee and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

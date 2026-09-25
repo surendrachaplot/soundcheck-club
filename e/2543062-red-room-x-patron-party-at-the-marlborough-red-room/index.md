@@ -1,6 +1,6 @@
 # Red Room x Patron Party at The Marlborough Red Room
 
-Red Room x Patron Party at The Marlborough Red Room on Sat 26 Sept, Glasgow. 3 acts on the bill: Amizl, Carmen Baía and Danse Atmos. House and Deep House. Preview the line-up and save it on soundcheck.
+Red Room x Patron Party at The Marlborough Red Room on Sat 26 Sept, Glasgow. 3 artists on the bill: Amizl, Carmen Baía and Danse Atmos. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

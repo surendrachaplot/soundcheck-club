@@ -1,6 +1,6 @@
 # DnB Allstars (Brisbane) at Eatons Hill Hotel and Function Centre
 
-DnB Allstars (Brisbane) at Eatons Hill Hotel and Function Centre on Sat 26 Sept, Brisbane. 4 acts on the bill: Camo & Krooked, Crossy, Disrupta and Kanine. Drum & Bass. Preview the line-up and save it on soundcheck.
+DnB Allstars (Brisbane) at Eatons Hill Hotel and Function Centre on Sat 26 Sept, Brisbane. 4 artists on the bill: Camo & Krooked, Crossy, Disrupta and Kanine. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

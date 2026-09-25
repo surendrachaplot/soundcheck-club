@@ -1,14 +1,15 @@
 # Space 92
 
-Space 92 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bauhaus, Houston on Fri, 25 Sept 2026.
+Space 92 is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bauhaus, Houston on Fri, 25 Sept 2026.
 
-Space 92 is a techno and house artist based in France, tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Austin and Bangkok and 49 more. Often billed alongside Popof, Lilly Palmer and HI-LO. Next up: Bauhaus, Houston on Fri 25 Sept.
+Space 92 is a techno and house artist based in France, tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Austin and Bangkok and 50 more. Often billed alongside Popof, Lilly Palmer and HI-LO. Next up: Bauhaus, Houston on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Bauhaus | Houston |
+| Sat, 10 Oct 2026 | Halle de La Machine | Toulouse |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 21 Nov 2026 | Q Nightclub | Seattle |

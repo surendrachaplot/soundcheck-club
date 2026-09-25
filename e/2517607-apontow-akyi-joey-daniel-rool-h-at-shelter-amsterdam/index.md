@@ -1,6 +1,6 @@
 # Apontow Akyi, Joey Daniel, Rooléh at Shelter Amsterdam
 
-Apontow Akyi, Joey Daniel, Rooléh at Shelter Amsterdam on Sat 3 Oct, Amsterdam. 2 acts on the bill: Joey Daniel and Rooléh. House. Preview the line-up and save it on soundcheck.
+Apontow Akyi, Joey Daniel, Rooléh at Shelter Amsterdam on Sat 3 Oct, Amsterdam. 2 artists on the bill: Joey Daniel and Rooléh. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

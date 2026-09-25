@@ -1,6 +1,6 @@
 # 20 years Urban Danja with Current Value (DE) at AUX Club
 
-20 years Urban Danja with Current Value (DE) at AUX Club on Sat 10 Oct, Athens. 5 acts on the bill: BASS VIP, Current Value, Insom and Type Zero and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+20 years Urban Danja with Current Value (DE) at AUX Club on Sat 10 Oct, Athens. 5 artists on the bill: BASS VIP, Current Value, Insom and Type Zero and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

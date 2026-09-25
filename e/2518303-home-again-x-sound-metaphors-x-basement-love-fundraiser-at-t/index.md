@@ -1,6 +1,6 @@
 # Home Again x Sound Metaphors x Basement Love Fundraiser at TILLATEC
 
-Home Again x Sound Metaphors x Basement Love Fundraiser at TILLATEC on Sat 24 Oct, Amsterdam. 21 acts on the bill: Bambounou, Black Loops, Blame Anthony and bullet tooth and 17 more. House. Preview the line-up and save it on soundcheck.
+Home Again x Sound Metaphors x Basement Love Fundraiser at TILLATEC on Sat 24 Oct, Amsterdam. 21 artists on the bill: Bambounou, Black Loops, Blame Anthony and bullet tooth and 17 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

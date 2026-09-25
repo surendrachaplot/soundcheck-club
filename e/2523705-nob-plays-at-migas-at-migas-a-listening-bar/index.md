@@ -1,6 +1,6 @@
 # NOB plays at migas at migas, a listening bar
 
-NOB plays at migas at migas, a listening bar on Fri 25 Sept, Berlin. 1 act on the bill: DJ NOB. Preview the line-up and save it on soundcheck.
+NOB plays at migas at migas, a listening bar on Fri 25 Sept, Berlin. 1 artist on the bill: DJ NOB. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

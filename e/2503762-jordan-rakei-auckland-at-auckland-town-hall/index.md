@@ -1,6 +1,6 @@
 # Jordan Rakei [Auckland] at Auckland Town Hall
 
-Jordan Rakei [Auckland] at Auckland Town Hall on Thu 3 Dec, Auckland. 1 act on the bill: Jordan Rakei. Preview the line-up and save it on soundcheck.
+Jordan Rakei [Auckland] at Auckland Town Hall on Thu 3 Dec, Auckland. 1 artist on the bill: Jordan Rakei. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

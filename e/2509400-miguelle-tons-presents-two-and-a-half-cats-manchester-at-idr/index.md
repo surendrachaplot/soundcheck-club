@@ -1,6 +1,6 @@
 # Miguelle & TONS presents: Two and a Half Cats Manchester at IDRA
 
-Miguelle & TONS presents: Two and a Half Cats Manchester at IDRA on Sat 10 Oct, Manchester. 5 acts on the bill: FLETCH, GENNARO, Miguelle and Nafe Smallz and 1 more. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Miguelle & TONS presents: Two and a Half Cats Manchester at IDRA on Sat 10 Oct, Manchester. 5 artists on the bill: FLETCH, GENNARO, Miguelle and Nafe Smallz and 1 more. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

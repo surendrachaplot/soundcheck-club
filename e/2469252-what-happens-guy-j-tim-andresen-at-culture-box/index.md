@@ -1,6 +1,6 @@
 # What Happens: Guy J / Tim Andresen at Culture Box
 
-What Happens: Guy J / Tim Andresen at Culture Box on Sat 21 Nov, Copenhagen. 2 acts on the bill: Guy J and Tim Andresen. Techno and House. Preview the line-up and save it on soundcheck.
+What Happens: Guy J / Tim Andresen at Culture Box on Sat 21 Nov, Copenhagen. 2 artists on the bill: Guy J and Tim Andresen. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

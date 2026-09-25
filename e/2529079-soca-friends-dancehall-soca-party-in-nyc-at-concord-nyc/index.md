@@ -1,6 +1,6 @@
 # SOCA & FRIENDS - Dancehall & Soca Party in NYC at Concord NYC
 
-SOCA & FRIENDS - Dancehall & Soca Party in NYC at Concord NYC on Sat 26 Sept, Newyorkcity. Dancehall. Preview the line-up and save it on soundcheck.
+SOCA & FRIENDS - Dancehall & Soca Party in NYC at Concord NYC on Sat 26 Sept, New York City. Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

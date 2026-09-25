@@ -1,6 +1,6 @@
 # Westfall X Reload: two girls one mom, Westfall, Saphyr &More at Mia Mao
 
-Westfall X Reload: two girls one mom, Westfall, Saphyr &More at Mia Mao on Thu 24 Sept, Paris. 3 acts on the bill: Suave (BE), two girls one mom and Westfall. Trance and Techno. Preview the line-up and save it on soundcheck.
+Westfall X Reload: two girls one mom, Westfall, Saphyr &More at Mia Mao on Thu 24 Sept, Paris. 3 artists on the bill: Suave (BE), two girls one mom and Westfall. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

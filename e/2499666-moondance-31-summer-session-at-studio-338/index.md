@@ -1,6 +1,6 @@
 # Moondance 31: Summer Session at Studio 338
 
-Moondance 31: Summer Session at Studio 338 on Sat 26 Sept, London. 27 acts on the bill: Alex P, Billy Daniel Bunter, Devious D and DJ Hype and 23 more. House and Jungle. Preview the line-up and save it on soundcheck.
+Moondance 31: Summer Session at Studio 338 on Sat 26 Sept, London. 27 artists on the bill: Alex P, Billy Daniel Bunter, Devious D and DJ Hype and 23 more. House and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

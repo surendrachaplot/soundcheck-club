@@ -1,6 +1,6 @@
 # PARTYNOTCOM • Pancratio + Alessio Cristiano, Alfonso Mauro at Basic Club
 
-PARTYNOTCOM • Pancratio + Alessio Cristiano, Alfonso Mauro at Basic Club on Fri 30 Oct, Naples. 3 acts on the bill: Alessio Cristiano, Alfonso Mauro and Pancratio. Preview the line-up and save it on soundcheck.
+PARTYNOTCOM • Pancratio + Alessio Cristiano, Alfonso Mauro at Basic Club on Fri 30 Oct, Naples. 3 artists on the bill: Alessio Cristiano, Alfonso Mauro and Pancratio. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

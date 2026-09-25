@@ -1,6 +1,6 @@
 # My Home Is The Rave (Auckland) at The Trusts Stadium
 
-My Home Is The Rave (Auckland) at The Trusts Stadium on Sat 21 Nov, Auckland. 4 acts on the bill: Eksman, Hedex, Mozey and Simula. Drum & Bass. Preview the line-up and save it on soundcheck.
+My Home Is The Rave (Auckland) at The Trusts Stadium on Sat 21 Nov, Auckland. 4 artists on the bill: Eksman, Hedex, Mozey and Simula. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

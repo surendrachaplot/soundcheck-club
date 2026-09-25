@@ -1,6 +1,6 @@
 # DARKXROOM at Le Klub
 
-DARKXROOM at Le Klub on Sat 17 Oct, Paris. 1 act on the bill: JOHN DIXON. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+DARKXROOM at Le Klub on Sat 17 Oct, Paris. 1 artist on the bill: JOHN DIXON. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

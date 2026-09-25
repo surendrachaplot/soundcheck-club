@@ -2,7 +2,7 @@
 
 Fonda Theatre is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Jigitz" on Fri, 25 Sept 2026.
 
-Fonda Theatre is a music venue in Losangeles listed on soundcheck. 4 upcoming gigs, with line-ups including DJ MANDY, oskar med k and Takuya Nakamura. Browse upcoming dates, start times and who's playing. 6126 Hollywood Blvd, Hollywood, CA 90028.
+Fonda Theatre is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including DJ MANDY, oskar med k and Takuya Nakamura. Browse upcoming dates, start times and who's playing. 6126 Hollywood Blvd, Hollywood, CA 90028.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # ROOF x BASIC • Alex Neri + Innershades + Gretalos at Basic Club
 
-ROOF x BASIC • Alex Neri + Innershades + Gretalos at Basic Club on Fri 2 Oct, Naples. 2 acts on the bill: Alex Neri and Innershades. Preview the line-up and save it on soundcheck.
+ROOF x BASIC • Alex Neri + Innershades + Gretalos at Basic Club on Fri 2 Oct, Naples. 2 artists on the bill: Alex Neri and Innershades. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

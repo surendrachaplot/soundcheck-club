@@ -1,6 +1,6 @@
 # FOR YOU THE SUMMER CLOSING with ALISHA at Marcfait
 
-FOR YOU THE SUMMER CLOSING with ALISHA at Marcfait on Sat 3 Oct, Amsterdam. 3 acts on the bill: ALISHA, Ben Horton and RUZE. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+FOR YOU THE SUMMER CLOSING with ALISHA at Marcfait on Sat 3 Oct, Amsterdam. 3 artists on the bill: ALISHA, Ben Horton and RUZE. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

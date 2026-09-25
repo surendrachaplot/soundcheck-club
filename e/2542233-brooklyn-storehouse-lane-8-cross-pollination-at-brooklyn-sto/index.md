@@ -1,6 +1,6 @@
 # Brooklyn Storehouse: Lane 8 (Cross Pollination) at Brooklyn Storehouse
 
-Brooklyn Storehouse: Lane 8 (Cross Pollination) on Sat 26 Sept, Newyorkcity. 3 acts on the bill: Lane 8, MYRNE and Robby East. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Brooklyn Storehouse: Lane 8 (Cross Pollination) on Sat 26 Sept, New York City. 3 artists on the bill: Lane 8, MYRNE and Robby East. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

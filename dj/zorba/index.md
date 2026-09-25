@@ -2,7 +2,7 @@
 
 Zorba is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mitsuki, Tokyo on Wed, 7 Oct 2026.
 
-Zorba is a techno and house artist based in South Korea, tracked on soundcheck, with 86 sets logged across Seoul and Tokyo. Often billed alongside Jama (2), chukimaandal and Inger. Next up: Mitsuki, Tokyo on Wed 7 Oct.
+Zorba is a techno and house artist based in South Korea, tracked on soundcheck, with 86 sets logged across Seoul and Tokyo. Often billed alongside Jama, chukimaandal and Inger. Next up: Mitsuki, Tokyo on Wed 7 Oct.
 
 ## Upcoming shows
 

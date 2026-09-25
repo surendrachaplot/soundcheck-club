@@ -1,6 +1,6 @@
 # simul8 PRESENTS DJ FROG [DOO RECORDS] + Nautiluss at Bambi's
 
-simul8 PRESENTS DJ FROG [DOO RECORDS] + Nautiluss at Bambi's on Sat 10 Oct, Toronto. 2 acts on the bill: DJ Frog and Nautiluss. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+simul8 PRESENTS DJ FROG [DOO RECORDS] + Nautiluss at Bambi's on Sat 10 Oct, Toronto. 2 artists on the bill: DJ Frog and Nautiluss. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

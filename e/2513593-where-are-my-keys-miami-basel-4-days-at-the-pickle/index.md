@@ -1,6 +1,6 @@
 # Where Are My Keys - Miami Basel (4 Days) at The Pickle
 
-Where Are My Keys - Miami Basel (4 Days) at The Pickle on Thu 3 Dec, Miami. 8 acts on the bill: Danny Daze, Desyn, Edward and Fumiya Tanaka and 4 more. Preview the line-up and save it on soundcheck.
+Where Are My Keys - Miami Basel (4 Days) at The Pickle on Thu 3 Dec, Miami. 8 artists on the bill: Danny Daze, Desyn, Edward and Fumiya Tanaka and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

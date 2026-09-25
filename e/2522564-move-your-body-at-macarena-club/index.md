@@ -1,6 +1,6 @@
 # Move Your Body at Macarena Club
 
-Move Your Body at Macarena Club on Sun 27 Sept, Barcelona. 1 act on the bill: Mila Morr. Preview the line-up and save it on soundcheck.
+Move Your Body at Macarena Club on Sun 27 Sept, Barcelona. 1 artist on the bill: Mila Morr. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

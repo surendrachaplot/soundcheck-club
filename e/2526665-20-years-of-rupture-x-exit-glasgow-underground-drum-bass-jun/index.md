@@ -1,6 +1,6 @@
 # 20 Years of Rupture x EXIT Glasgow - Underground Drum & Bass, Jungle and Breakbeat pressure at EXIT Glasgow
 
-20 Years of Rupture x EXIT Glasgow - Underground Drum & Bass, Jungle and Breakbeat pressure on Fri 11 Dec, Glasgow. 3 acts on the bill: Blackeye MC, Double O and Mantra. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+20 Years of Rupture x EXIT Glasgow - Underground Drum & Bass, Jungle and Breakbeat pressure on Fri 11 Dec, Glasgow. 3 artists on the bill: Blackeye MC, Double O and Mantra. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

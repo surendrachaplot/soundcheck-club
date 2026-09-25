@@ -1,6 +1,6 @@
 # KURIOSE AUGEN – Open Your Eyes, Lose Your Mind – Vol. 3 at Roof 175
 
-KURIOSE AUGEN – Open Your Eyes, Lose Your Mind – Vol. 3 at Roof 175 on Sat 10 Oct, Frankfurt. 1 act on the bill: TATAKI. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+KURIOSE AUGEN – Open Your Eyes, Lose Your Mind – Vol. 3 at Roof 175 on Sat 10 Oct, Frankfurt. 1 artist on the bill: TATAKI. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

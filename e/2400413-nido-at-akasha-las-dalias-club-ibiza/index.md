@@ -1,6 +1,6 @@
 # Nido at Akasha Las Dalias Club - Ibiza
 
-Nido at Akasha Las Dalias Club - Ibiza on Sun 11 Oct, Ibiza. 3 acts on the bill: Alfonso Ares, John Woods and Julia Sandstorm. Preview the line-up and save it on soundcheck.
+Nido at Akasha Las Dalias Club - Ibiza on Sun 11 Oct, Ibiza. 3 artists on the bill: Alfonso Ares, John Woods and Julia Sandstorm. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

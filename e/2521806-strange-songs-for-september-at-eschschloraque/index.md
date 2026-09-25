@@ -1,6 +1,6 @@
 # Strange Songs for September at Eschschloraque
 
-Strange Songs for September at Eschschloraque on Wed 30 Sept, Berlin. 1 act on the bill: MissVergnügen. Preview the line-up and save it on soundcheck.
+Strange Songs for September at Eschschloraque on Wed 30 Sept, Berlin. 1 artist on the bill: MissVergnügen. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 The Meadows is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Whales" on Fri, 25 Sept 2026.
 
-The Meadows is a music venue in Newyorkcity listed on soundcheck. 8 upcoming gigs. Browse upcoming dates, start times and who's playing. 17 Meadow St, Brooklyn, NY 11206.
+The Meadows is a music venue in New York City listed on soundcheck. 8 upcoming gigs. Browse upcoming dates, start times and who's playing. 17 Meadow St, Brooklyn, NY 11206.
 
 ## What's on
 

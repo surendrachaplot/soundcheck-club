@@ -1,6 +1,6 @@
 # Lezure 088: Eclair Fifi b2b Parts Unknown, Lowree b2b Sloan of Lezure at La Cheetah Club
 
-Lezure 088: Eclair Fifi b2b Parts Unknown, Lowree b2b Sloan of Lezure at La Cheetah Club on Fri 2 Oct, Glasgow. 3 acts on the bill: Eclair Fifi, Lowree and Sloan (2). Preview the line-up and save it on soundcheck.
+Lezure 088: Eclair Fifi b2b Parts Unknown, Lowree b2b Sloan of Lezure at La Cheetah Club on Fri 2 Oct, Glasgow. 3 artists on the bill: Eclair Fifi, Lowree and Sloan. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

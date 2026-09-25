@@ -1,6 +1,6 @@
 # BASIS/ AREA ØNE/ BIIANCO/ Hurts/ Nick Selter at BASIS
 
-BASIS/ AREA ØNE/ BIIANCO/ Hurts/ Nick Selter on Fri 16 Oct, Utrecht. 3 acts on the bill: AREA ØNE, BIIANCO and Hurts. Trance and Techno. Preview the line-up and save it on soundcheck.
+BASIS/ AREA ØNE/ BIIANCO/ Hurts/ Nick Selter on Fri 16 Oct, Utrecht. 3 artists on the bill: AREA ØNE, BIIANCO and Hurts. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

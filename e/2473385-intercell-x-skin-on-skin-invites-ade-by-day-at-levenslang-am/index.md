@@ -1,6 +1,6 @@
 # Intercell x Skin On Skin Invites - ADE By Day at Levenslang Amsterdam
 
-Intercell x Skin On Skin Invites - ADE By Day at Levenslang Amsterdam on Sat 24 Oct, Amsterdam. 6 acts on the bill: camoufly, EYCEE, Ned Bennett and Oppidan and 2 more. Preview the line-up and save it on soundcheck.
+Intercell x Skin On Skin Invites - ADE By Day at Levenslang Amsterdam on Sat 24 Oct, Amsterdam. 6 artists on the bill: camoufly, EYCEE, Ned Bennett and Oppidan and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Alex Nut at Kazimier Garden at Kazimier Garden
 
-Alex Nut at Kazimier Garden on Sat 26 Sept, Liverpool. 2 acts on the bill: Alexander Nut and robbie vipera. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Alex Nut at Kazimier Garden on Sat 26 Sept, Liverpool. 2 artists on the bill: Alexander Nut and robbie vipera. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

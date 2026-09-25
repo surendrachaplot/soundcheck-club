@@ -2,7 +2,7 @@
 
 Waterfront Park in San Diego is a music venue in San Diego with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "CRSSD Festival Fall 2026" on Sat, 26 Sept 2026.
 
-Waterfront Park in San Diego is a music venue in Sandiego listed on soundcheck. 1 upcoming gig, with line-ups including 999999999, Adam Sellouk, Ahadadream and ARODES and 2 more. Browse upcoming dates, start times and who's playing. 1600 Pacific Hwy, San Diego, CA 92101.
+Waterfront Park in San Diego is a music venue in San Diego listed on soundcheck. 1 upcoming gig, with line-ups including 999999999, Adam Sellouk, Ahadadream and ARODES and 2 more. Browse upcoming dates, start times and who's playing. 1600 Pacific Hwy, San Diego, CA 92101.
 
 ## What's on
 

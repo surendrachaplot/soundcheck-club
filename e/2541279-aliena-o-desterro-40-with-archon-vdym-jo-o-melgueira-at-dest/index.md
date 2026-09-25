@@ -1,6 +1,6 @@
 # Alienação - Desterro #40 with ARCHON, VDYM & João Melgueira at Desterro
 
-Alienação - Desterro #40 with ARCHON, VDYM & João Melgueira on Thu 22 Oct, Lisbon. 3 acts on the bill: ARCHON, João Melgueira and Vadym [UA]. Trance and Techno. Preview the line-up and save it on soundcheck.
+Alienação - Desterro #40 with ARCHON, VDYM & João Melgueira on Thu 22 Oct, Lisbon. 3 artists on the bill: ARCHON, João Melgueira and Vadym [UA]. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

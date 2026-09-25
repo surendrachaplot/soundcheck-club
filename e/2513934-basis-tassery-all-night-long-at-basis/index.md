@@ -1,6 +1,6 @@
 # BASIS/ TASSERY All Night Long at BASIS
 
-BASIS/ TASSERY All Night Long on Fri 20 Nov, Utrecht. 1 act on the bill: TASSERY. Techno. Preview the line-up and save it on soundcheck.
+BASIS/ TASSERY All Night Long on Fri 20 Nov, Utrecht. 1 artist on the bill: TASSERY. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

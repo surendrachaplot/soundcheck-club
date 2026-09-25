@@ -1,6 +1,6 @@
 # ENFNTS TERRIBLES Issue 03 - Fais Le Beau, Kasra V, NIKS b2b Nizar Sarakbi, su:zy b2b ttyfal at TRAUM
 
-ENFNTS TERRIBLES Issue 03 - Fais Le Beau, Kasra V, NIKS b2b Nizar Sarakbi, su:zy b2b ttyfal at TRAUM on Sat 17 Oct, Antwerp. 6 acts on the bill: Fais Le Beau, Kasra V, NIKS and Nizar Sarakbi and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+ENFNTS TERRIBLES Issue 03 - Fais Le Beau, Kasra V, NIKS b2b Nizar Sarakbi, su:zy b2b ttyfal at TRAUM on Sat 17 Oct, Antwerp. 6 artists on the bill: Fais Le Beau, Kasra V, NIKS and Nizar Sarakbi and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

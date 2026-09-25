@@ -1,6 +1,6 @@
 # 28 NOV - Thuishaven with Jeff Mills / ROD / BLANKA at Thuishaven
 
-28 NOV - Thuishaven with Jeff Mills / ROD / BLANKA on Sat 28 Nov, Amsterdam. 8 acts on the bill: Abstract Division, BLANKA, ETERNAL JOE and Huey Mnemonic and 4 more. Preview the line-up and save it on soundcheck.
+28 NOV - Thuishaven with Jeff Mills / ROD / BLANKA on Sat 28 Nov, Amsterdam. 8 artists on the bill: Abstract Division, BLANKA, ETERNAL JOE and Huey Mnemonic and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

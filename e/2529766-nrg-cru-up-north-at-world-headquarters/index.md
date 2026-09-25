@@ -1,6 +1,6 @@
 # NRG CRU: UP NORTH at World Headquarters
 
-NRG CRU: UP NORTH at World Headquarters on Sat 26 Sept, Newcastle. 2 acts on the bill: CICELY and melba. Hardcore and Bass. Preview the line-up and save it on soundcheck.
+NRG CRU: UP NORTH at World Headquarters on Sat 26 Sept, Newcastle. 2 artists on the bill: CICELY and melba. Hardcore and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

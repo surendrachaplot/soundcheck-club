@@ -1,6 +1,6 @@
 # ZOMBIE PROM - The Widdler & More! Halloween Costume Ball at The Great Northern
 
-ZOMBIE PROM - The Widdler & More! Halloween Costume Ball at The Great Northern on Fri 23 Oct, Sanfrancisco. 3 acts on the bill: Camillionaire, MiMOSA and NAYAN. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+ZOMBIE PROM - The Widdler & More! Halloween Costume Ball at The Great Northern on Fri 23 Oct, San Francisco/Oakland. 3 artists on the bill: Camillionaire, MiMOSA and NAYAN. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

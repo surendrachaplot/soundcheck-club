@@ -1,6 +1,6 @@
 # OFF x SÄCRE with Nastia at OFF-Club
 
-OFF x SÄCRE with Nastia at OFF-Club on Sat 26 Sept, Brussels. 4 acts on the bill: Cri du Coeur, Nastia, PØZA and TIIA. Techno. Preview the line-up and save it on soundcheck.
+OFF x SÄCRE with Nastia at OFF-Club on Sat 26 Sept, Brussels. 4 artists on the bill: Cri du Coeur, Nastia, PØZA and TIIA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

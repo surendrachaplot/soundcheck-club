@@ -1,6 +1,6 @@
 # Azumaya -Wednesday- at Azumaya
 
-Azumaya -Wednesday- on Wed 30 Sept, Tokyo. 2 acts on the bill: Shimon Taka and SN_Yeah. Bass. Preview the line-up and save it on soundcheck.
+Azumaya -Wednesday- on Wed 30 Sept, Tokyo. 2 artists on the bill: Shimon Taka and SN_Yeah. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

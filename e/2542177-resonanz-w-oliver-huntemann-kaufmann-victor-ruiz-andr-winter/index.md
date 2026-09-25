@@ -1,6 +1,6 @@
 # RESONANZ w/ Oliver Huntemann, Kaufmann, Victor Ruiz & André Winter at Uebel & Gefährlich
 
-RESONANZ w/ Oliver Huntemann, Kaufmann, Victor Ruiz & André Winter at Uebel & Gefährlich on Fri 16 Oct, Hamburg. 4 acts on the bill: Andre Winter, Kaufmann, Oliver Huntemann and Victor Ruiz. Techno. Preview the line-up and save it on soundcheck.
+RESONANZ w/ Oliver Huntemann, Kaufmann, Victor Ruiz & André Winter at Uebel & Gefährlich on Fri 16 Oct, Hamburg. 4 artists on the bill: Andre Winter, Kaufmann, Oliver Huntemann and Victor Ruiz. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

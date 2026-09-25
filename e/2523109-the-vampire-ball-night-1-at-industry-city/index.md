@@ -1,6 +1,6 @@
 # The Vampire Ball: Night 1 at Industry City
 
-The Vampire Ball: Night 1 at Industry City on Fri 30 Oct, Newyorkcity. 11 acts on the bill: Alice Longyu Gao, Andhim, AWEN and Baby Wolf and 7 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+The Vampire Ball: Night 1 at Industry City on Fri 30 Oct, New York City. 11 artists on the bill: Alice Longyu Gao, Andhim, AWEN and Baby Wolf and 7 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

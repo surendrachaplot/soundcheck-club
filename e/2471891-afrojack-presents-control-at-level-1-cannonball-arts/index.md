@@ -1,6 +1,6 @@
 # Afrojack presents: CONTROL at Level 1 @ Cannonball Arts
 
-Afrojack presents: CONTROL at Level 1 @ Cannonball Arts on Sat 28 Nov, Seattle. 1 act on the bill: Afrojack. Progressive House. Preview the line-up and save it on soundcheck.
+Afrojack presents: CONTROL at Level 1 @ Cannonball Arts on Sat 28 Nov, Seattle. 1 artist on the bill: Afrojack. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

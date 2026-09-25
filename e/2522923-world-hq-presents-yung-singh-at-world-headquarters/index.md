@@ -1,6 +1,6 @@
 # World HQ presents Yung Singh at World Headquarters
 
-World HQ presents Yung Singh at World Headquarters on Fri 25 Sept, Newcastle. 1 act on the bill: Yung Singh. Bass and Garage. Preview the line-up and save it on soundcheck.
+World HQ presents Yung Singh at World Headquarters on Fri 25 Sept, Newcastle. 1 artist on the bill: Yung Singh. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 From House to Disco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Edifício Martinelli, Sao Paulo on Sat, 3 Oct 2026.
 
-From House to Disco is a house and disco artist based in Brazil, tracked on soundcheck, with 62 sets logged across Berlin, Lisbon, Newyorkcity and Saopaulo. Often billed alongside Paulete Lindacelva, Tessuto and Eli Iwasa. Next up: Edifício Martinelli, Saopaulo on Sat 3 Oct.
+From House to Disco is a house and disco artist based in Brazil, tracked on soundcheck, with 62 sets logged across Berlin, Lisbon, New York City and Sao Paulo. Often billed alongside Paulete Lindacelva, Tessuto and Eli Iwasa. Next up: Edifício Martinelli, Sao Paulo on Sat 3 Oct.
 
 ## Upcoming shows
 

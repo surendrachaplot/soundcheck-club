@@ -1,6 +1,6 @@
 # Culto pres. The Ripped & Alexa Strange All Night Long at Secret Club at TBA - MICROCENTRO.
 
-Culto pres. The Ripped & Alexa Strange All Night Long at Secret Club at TBA - MICROCENTRO. on Sat 17 Oct, Buenosaires. 1 act on the bill: Alexa Strange. Techno and Club. Preview the line-up and save it on soundcheck.
+Culto pres. The Ripped & Alexa Strange All Night Long at Secret Club at TBA - MICROCENTRO. on Sat 17 Oct, Buenos Aires. 1 artist on the bill: Alexa Strange. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

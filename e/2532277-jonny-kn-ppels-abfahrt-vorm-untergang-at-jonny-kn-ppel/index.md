@@ -1,6 +1,6 @@
 # Jonny Knüppels Abfahrt vorm Untergang at Jonny Knüppel
 
-Jonny Knüppels Abfahrt vorm Untergang on Fri 25 Sept, Berlin. 31 acts on the bill: Bamela Paywatch, BBYG, BEAUTYPUNK and Bunny Tsukino and 27 more. Preview the line-up and save it on soundcheck.
+Jonny Knüppels Abfahrt vorm Untergang on Fri 25 Sept, Berlin. 31 artists on the bill: Bamela Paywatch, BBYG, BEAUTYPUNK and Bunny Tsukino and 27 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

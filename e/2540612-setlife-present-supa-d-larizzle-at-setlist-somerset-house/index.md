@@ -1,6 +1,6 @@
 # SETLIFE present Supa D & Larizzle at Setlist @ Somerset House
 
-SETLIFE present Supa D & Larizzle at Setlist @ Somerset House on Sat 21 Nov, London. 2 acts on the bill: Larizzle and Supa D. House and Amapiano. Preview the line-up and save it on soundcheck.
+SETLIFE present Supa D & Larizzle at Setlist @ Somerset House on Sat 21 Nov, London. 2 artists on the bill: Larizzle and Supa D. House and Amapiano. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

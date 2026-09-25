@@ -1,6 +1,6 @@
 # I Love Your Energy with Girls of the Internet (DJ Set) and Austin Ato at The Berkeley Suite
 
-I Love Your Energy with Girls of the Internet (DJ Set) and Austin Ato at The Berkeley Suite on Sat 24 Oct, Glasgow. 2 acts on the bill: Austin Ato and Girls of the Internet. House and Disco. Preview the line-up and save it on soundcheck.
+I Love Your Energy with Girls of the Internet (DJ Set) and Austin Ato at The Berkeley Suite on Sat 24 Oct, Glasgow. 2 artists on the bill: Austin Ato and Girls of the Internet. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

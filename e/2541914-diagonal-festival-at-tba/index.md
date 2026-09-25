@@ -1,6 +1,6 @@
 # Diagonal Festival at TBA
 
-Diagonal Festival at TBA on Fri 27 Nov, Berlin. 1 act on the bill: Natascha Polké. House and Electro. Preview the line-up and save it on soundcheck.
+Diagonal Festival at TBA on Fri 27 Nov, Berlin. 1 artist on the bill: Natascha Polké. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

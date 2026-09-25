@@ -1,6 +1,6 @@
 # Lisa Korver All Day - ADE at Warehouse Elementenstraat
 
-Lisa Korver All Day - ADE at Warehouse Elementenstraat on Sat 24 Oct, Amsterdam. 1 act on the bill: Lisa Korver. Preview the line-up and save it on soundcheck.
+Lisa Korver All Day - ADE at Warehouse Elementenstraat on Sat 24 Oct, Amsterdam. 1 artist on the bill: Lisa Korver. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

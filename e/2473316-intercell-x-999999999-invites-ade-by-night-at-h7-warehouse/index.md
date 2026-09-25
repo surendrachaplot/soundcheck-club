@@ -1,6 +1,6 @@
 # Intercell x 999999999 Invites | ADE By Night at H7 Warehouse
 
-Intercell x 999999999 Invites | ADE By Night at H7 Warehouse on Thu 22 Oct, Amsterdam. 5 acts on the bill: 999999999, DJ Hyperdrive, SAMOH and Supergloss and 1 more. Preview the line-up and save it on soundcheck.
+Intercell x 999999999 Invites | ADE By Night at H7 Warehouse on Thu 22 Oct, Amsterdam. 5 artists on the bill: 999999999, DJ Hyperdrive, SAMOH and Supergloss and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Collectors at Collect LX Factory
 
-Collectors at Collect LX Factory on Thu 24 Sept, Lisbon. 2 acts on the bill: Fonzi (2) and matvii. House and Electronica. Preview the line-up and save it on soundcheck.
+Collectors at Collect LX Factory on Thu 24 Sept, Lisbon. 2 artists on the bill: Fonzi and matvii. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

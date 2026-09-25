@@ -1,6 +1,6 @@
 # Showcase Kokolores x ADE at Grand Café Heineken Hoek
 
-Showcase Kokolores x ADE at Grand Café Heineken Hoek on Wed 21 Oct, Amsterdam. 6 acts on the bill: Black Legend, Charlie Brown, Claudius and Dirk Schot and 2 more. House and Club. Preview the line-up and save it on soundcheck.
+Showcase Kokolores x ADE at Grand Café Heineken Hoek on Wed 21 Oct, Amsterdam. 6 artists on the bill: Black Legend, Charlie Brown, Claudius and Dirk Schot and 2 more. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

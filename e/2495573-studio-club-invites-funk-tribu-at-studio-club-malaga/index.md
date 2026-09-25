@@ -1,6 +1,6 @@
 # Studio Club Invites: Funk Tribu at Studio Club Malaga
 
-Studio Club Invites: Funk Tribu at Studio Club Malaga on Fri 25 Sept, Malaga. 1 act on the bill: Funk Tribu. Preview the line-up and save it on soundcheck.
+Studio Club Invites: Funk Tribu at Studio Club Malaga on Fri 25 Sept, Malaga. 3 artists on the bill: Bárbara Lago, DJ Cringey and Funk Tribu. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Studio Club Invites: Funk Tribu at Studio Club Malaga on Fri 25 Sept, Malaga. 1 
 
 ## Line-up
 
+- Bárbara Lago
+- DJ Cringey
 - Funk Tribu
 
 *Source: [soundcheck](https://soundcheck.club/e/2495573-studio-club-invites-funk-tribu-at-studio-club-malaga/)*

@@ -1,6 +1,6 @@
 # CODE 23 Anniversary: La Trilogía [Part I] with KlangKuenstler at Fabrik
 
-CODE 23 Anniversary: La Trilogía [Part I] with KlangKuenstler at Fabrik on Sun 11 Oct, Madrid. 26 acts on the bill: Arnaud Le Texier, Cera Khin, CESAR ALMENA and Chris Liebing and 22 more. Techno. Preview the line-up and save it on soundcheck.
+CODE 23 Anniversary: La Trilogía [Part I] with KlangKuenstler at Fabrik on Sun 11 Oct, Madrid. 26 artists on the bill: Arnaud Le Texier, Cera Khin, CESAR ALMENA and Chris Liebing and 22 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

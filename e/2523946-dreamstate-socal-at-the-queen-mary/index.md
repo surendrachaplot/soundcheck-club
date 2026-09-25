@@ -1,6 +1,6 @@
 # Dreamstate SoCal at The Queen Mary
 
-Dreamstate SoCal at The Queen Mary on Fri 20 Nov, Losangeles. 48 acts on the bill: A.N.I., Aaron Hibell, Above & Beyond and Allen Watts and 44 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Dreamstate SoCal at The Queen Mary on Fri 20 Nov, Los Angeles. 48 artists on the bill: A.N.I., Aaron Hibell, Above & Beyond and Allen Watts and 44 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

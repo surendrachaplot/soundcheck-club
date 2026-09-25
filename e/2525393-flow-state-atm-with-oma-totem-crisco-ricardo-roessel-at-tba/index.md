@@ -1,6 +1,6 @@
 # Flow State & ATM with oma totem, Crisco, Ricardo Roessel at TBA
 
-Flow State & ATM with oma totem, Crisco, Ricardo Roessel at TBA on Sat 26 Sept, Chicago. 3 acts on the bill: Crisco, oma totem and Ricardo Roessel. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Flow State & ATM with oma totem, Crisco, Ricardo Roessel at TBA on Sat 26 Sept, Chicago. 3 artists on the bill: Crisco, oma totem and Ricardo Roessel. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bolero: BASS ATTACK at Bolero
 
-Bolero: BASS ATTACK on Sat 26 Sept, Seoul. 2 acts on the bill: ANDOW and bojvck. Bass and Club. Preview the line-up and save it on soundcheck.
+Bolero: BASS ATTACK on Sat 26 Sept, Seoul. 2 artists on the bill: ANDOW and bojvck. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

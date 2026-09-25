@@ -1,6 +1,6 @@
 # Sushi beat - House & Tech house - at TBA - XXI
 
-Sushi beat - House & Tech house - at TBA - XXI on Sat 26 Sept, Tokyo. 3 acts on the bill: PUNK N MATRIX, RIHO ASAEDA and Yamariki. House and Tech House. Preview the line-up and save it on soundcheck.
+Sushi beat - House & Tech house - at TBA - XXI on Sat 26 Sept, Tokyo. 3 artists on the bill: PUNK N MATRIX, RIHO ASAEDA and Yamariki. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

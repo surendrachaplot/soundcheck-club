@@ -1,6 +1,6 @@
 # RO at RO Seoul
 
-RO at RO Seoul on Thu 24 Sept, Seoul. 2 acts on the bill: DJ Soulscape and SERA (2). Preview the line-up and save it on soundcheck.
+RO at RO Seoul on Thu 24 Sept, Seoul. 2 artists on the bill: DJ Soulscape and SERA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

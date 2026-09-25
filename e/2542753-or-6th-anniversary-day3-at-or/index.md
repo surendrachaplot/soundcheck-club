@@ -1,6 +1,6 @@
 # or 6th ANNIVERSARY DAY3 at or
 
-or 6th ANNIVERSARY DAY3 on Fri 25 Sept, Tokyo. 6 acts on the bill: ATAMI, Kenta, M E I and Mabu and 2 more. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+or 6th ANNIVERSARY DAY3 on Fri 25 Sept, Tokyo. 6 artists on the bill: ATAMI, Kenta, M E I and Mabu and 2 more. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

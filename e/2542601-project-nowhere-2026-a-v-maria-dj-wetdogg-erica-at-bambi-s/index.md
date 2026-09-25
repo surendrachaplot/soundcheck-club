@@ -1,6 +1,6 @@
 # Project Nowhere 2026: A.V. MARIA (DJ) + wetdogg + ERICA at Bambi's
 
-Project Nowhere 2026: A.V. MARIA (DJ) + wetdogg + ERICA at Bambi's on Fri 2 Oct, Toronto. 1 act on the bill: wetdogg. Ambient and Pop. Preview the line-up and save it on soundcheck.
+Project Nowhere 2026: A.V. MARIA (DJ) + wetdogg + ERICA at Bambi's on Fri 2 Oct, Toronto. 1 artist on the bill: wetdogg. Ambient and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

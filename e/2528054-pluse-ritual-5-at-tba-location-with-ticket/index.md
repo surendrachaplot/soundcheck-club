@@ -1,6 +1,6 @@
 # Pluse Ritual 5 at TBA - Location With Ticket
 
-Pluse Ritual 5 at TBA - Location With Ticket on Sat 26 Sept, Denver. 2 acts on the bill: Andrew Bon Bosher and Lorely Mur. Techno. Preview the line-up and save it on soundcheck.
+Pluse Ritual 5 at TBA - Location With Ticket on Sat 26 Sept, Denver. 2 artists on the bill: Andrew Bon Bosher and Lorely Mur. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

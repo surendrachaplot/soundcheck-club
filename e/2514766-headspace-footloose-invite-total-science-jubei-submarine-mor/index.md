@@ -1,6 +1,6 @@
 # Headspace & Footloose Invite - Total Science, Jubei, submarine + more at Amigo
 
-Headspace & Footloose Invite - Total Science, Jubei, submarine + more at Amigo on Sat 7 Nov, Ghent. 8 acts on the bill: Be, Expensive KVR, Frontline (BE) and Hiraeth and 4 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+Headspace & Footloose Invite - Total Science, Jubei, submarine + more at Amigo on Sat 7 Nov, Ghent. 8 artists on the bill: Be, Expensive KVR, Frontline (BE) and Hiraeth and 4 more. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

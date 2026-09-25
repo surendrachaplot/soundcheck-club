@@ -1,6 +1,6 @@
 # Aladji x Chicago Footwork Scotland x Stereo: DJ Slugo & username at Stereo
 
-Aladji x Chicago Footwork Scotland x Stereo: DJ Slugo & username on Fri 23 Oct, Glasgow. 1 act on the bill: DJ Slugo. Footwork and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Aladji x Chicago Footwork Scotland x Stereo: DJ Slugo & username on Fri 23 Oct, Glasgow. 1 artist on the bill: DJ Slugo. Footwork and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

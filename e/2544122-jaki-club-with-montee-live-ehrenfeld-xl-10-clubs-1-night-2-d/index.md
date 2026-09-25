@@ -1,6 +1,6 @@
 # JAKI Club with Montee live // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts at JAKI
 
-JAKI Club with Montee live // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts on Sat 24 Oct, Cologne. 2 acts on the bill: HiHat and Montee. House and Bass. Preview the line-up and save it on soundcheck.
+JAKI Club with Montee live // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts on Sat 24 Oct, Cologne. 2 artists on the bill: HiHat and Montee. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

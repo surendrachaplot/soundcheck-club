@@ -1,6 +1,6 @@
 # Big Queer Brunswick Party at The Quadraphonic Club
 
-Big Queer Brunswick Party at The Quadraphonic Club on Sat 26 Sept, Melbourne. 1 act on the bill: Lazy Susan. House and Electro. Preview the line-up and save it on soundcheck.
+Big Queer Brunswick Party at The Quadraphonic Club on Sat 26 Sept, Melbourne. 1 artist on the bill: Lazy Susan. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

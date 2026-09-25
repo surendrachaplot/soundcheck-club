@@ -1,6 +1,6 @@
 # Ambient Leeds: Giulio Stermieri // Ben Gaunt // namke communications at The Fox & Newt Pub
 
-Ambient Leeds: Giulio Stermieri // Ben Gaunt // namke communications at The Fox & Newt Pub on Sun 15 Nov, Leeds. 1 act on the bill: Giulio Stermieri. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Ambient Leeds: Giulio Stermieri // Ben Gaunt // namke communications at The Fox & Newt Pub on Sun 15 Nov, Leeds. 1 artist on the bill: Giulio Stermieri. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

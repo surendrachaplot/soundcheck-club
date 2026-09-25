@@ -1,6 +1,6 @@
 # DEVIANTS ADULT ARCADE: THE Folsom Street Fair Afterparty at SVN West
 
-DEVIANTS ADULT ARCADE: THE Folsom Street Fair Afterparty at SVN West on Sun 27 Sept, Sanfrancisco. Techno and House. Preview the line-up and save it on soundcheck.
+DEVIANTS ADULT ARCADE: THE Folsom Street Fair Afterparty at SVN West on Sun 27 Sept, San Francisco/Oakland. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

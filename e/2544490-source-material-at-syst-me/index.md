@@ -1,6 +1,6 @@
 # Source Material at Système
 
-Source Material at Système on Sat 24 Oct, Montreal. 4 acts on the bill: dawny, Flleur, Nosh and SOBAKA. Preview the line-up and save it on soundcheck.
+Source Material at Système on Sat 24 Oct, Montreal. 4 artists on the bill: dawny, Flleur, Nosh and SOBAKA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

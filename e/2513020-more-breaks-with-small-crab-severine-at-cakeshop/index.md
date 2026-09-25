@@ -1,6 +1,6 @@
 # More Breaks with Small Crab & severine at Cakeshop
 
-More Breaks with Small Crab & severine at Cakeshop on Sat 26 Sept, Seoul. 6 acts on the bill: Nimvy, severine, Sevi (2) and Small Crab (2) and 2 more. Bass and Broken Beat. Preview the line-up and save it on soundcheck.
+More Breaks with Small Crab & severine at Cakeshop on Sat 26 Sept, Seoul. 6 artists on the bill: Nimvy, severine, Sevi and Small Crab and 2 more. Bass and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

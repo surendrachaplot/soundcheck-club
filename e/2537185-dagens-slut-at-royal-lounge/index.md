@@ -1,6 +1,6 @@
 # Dagens slut at Royal Lounge
 
-Dagens slut at Royal Lounge on Sun 25 Oct, Tokyo. 3 acts on the bill: Jm3Yoci, MZKN and SIGNAL (JP). Techno and House. Preview the line-up and save it on soundcheck.
+Dagens slut at Royal Lounge on Sun 25 Oct, Tokyo. 3 artists on the bill: Jm3Yoci, MZKN and SIGNAL (JP). Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

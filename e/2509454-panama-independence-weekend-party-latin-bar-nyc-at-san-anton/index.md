@@ -1,6 +1,6 @@
 # Panama Independence Weekend Party Latin Bar NYC at San Antonios
 
-Panama Independence Weekend Party Latin Bar NYC at San Antonios on Fri 27 Nov, Newyorkcity. Pop. Preview the line-up and save it on soundcheck.
+Panama Independence Weekend Party Latin Bar NYC at San Antonios on Fri 27 Nov, New York City. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

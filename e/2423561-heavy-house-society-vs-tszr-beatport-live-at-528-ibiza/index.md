@@ -1,6 +1,6 @@
 # Heavy House Society vs TSZR / Beatport Live at 528 Ibiza
 
-Heavy House Society vs TSZR / Beatport Live at 528 Ibiza on Sun 4 Oct, Ibiza. 6 acts on the bill: Boss Priester, Cam Stockman, Job de Jong and Kim April and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Heavy House Society vs TSZR / Beatport Live at 528 Ibiza on Sun 4 Oct, Ibiza. 6 artists on the bill: Boss Priester, Cam Stockman, Job de Jong and Kim April and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

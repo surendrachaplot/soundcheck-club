@@ -1,6 +1,6 @@
 # Community Rave at Ritter Butzke
 
-Community Rave at Ritter Butzke on Fri 16 Oct, Berlin. 6 acts on the bill: DERICE, DJ Bude, Gehwegschaeden and maedchenballern and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Community Rave at Ritter Butzke on Fri 16 Oct, Berlin. 6 artists on the bill: DERICE, DJ Bude, Gehwegschaeden and maedchenballern and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # former outsiders at Frappant
 
-former outsiders at Frappant on Sat 3 Oct, Hamburg. 2 acts on the bill: ATEQ and Atomlui. Techno and House. Preview the line-up and save it on soundcheck.
+former outsiders at Frappant on Sat 3 Oct, Hamburg. 2 artists on the bill: ATEQ and Atomlui. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

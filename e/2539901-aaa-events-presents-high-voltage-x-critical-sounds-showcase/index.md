@@ -1,6 +1,6 @@
 # AAA Events presents High Voltage x Critical Sounds Showcase at The Tequila Club | Amsterdam
 
-AAA Events presents High Voltage x Critical Sounds Showcase at The Tequila Club | Amsterdam on Fri 23 Oct, Amsterdam. 13 acts on the bill: Allen Watts, BLR (NL), DIM3NSION and Ferry Tayle and 9 more. Trance and Minimal Techno. Preview the line-up and save it on soundcheck.
+AAA Events presents High Voltage x Critical Sounds Showcase at The Tequila Club | Amsterdam on Fri 23 Oct, Amsterdam. 13 artists on the bill: Allen Watts, BLR (NL), DIM3NSION and Ferry Tayle and 9 more. Trance and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

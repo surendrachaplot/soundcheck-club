@@ -1,6 +1,6 @@
 # NOETIC+ × Keyi Magazine — ADE Showcase & KEYI Studio Exhibition at What Is Happening Here Gallery
 
-NOETIC+ × Keyi Magazine — ADE Showcase & KEYI Studio Exhibition at What Is Happening Here Gallery on Fri 23 Oct, Amsterdam. 4 acts on the bill: Berlin Bunny, Chris Liebing, David Castellani and Eyesdice. Techno and Experimental. Preview the line-up and save it on soundcheck.
+NOETIC+ × Keyi Magazine — ADE Showcase & KEYI Studio Exhibition at What Is Happening Here Gallery on Fri 23 Oct, Amsterdam. 4 artists on the bill: Berlin Bunny, Chris Liebing, David Castellani and Eyesdice. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

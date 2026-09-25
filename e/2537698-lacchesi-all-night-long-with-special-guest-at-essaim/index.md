@@ -1,6 +1,6 @@
 # Lacchesi - all night long - with special guest at essaim
 
-Lacchesi - all night long - with special guest at essaim on Thu 8 Oct, Paris. 1 act on the bill: Lacchesi. Techno. Preview the line-up and save it on soundcheck.
+Lacchesi - all night long - with special guest at essaim on Thu 8 Oct, Paris. 1 artist on the bill: Lacchesi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

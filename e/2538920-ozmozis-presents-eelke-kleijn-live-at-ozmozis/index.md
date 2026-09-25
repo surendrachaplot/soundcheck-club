@@ -1,6 +1,6 @@
 # Ozmozis presents Eelke Kleijn (Live) at Ozmozis
 
-Ozmozis presents Eelke Kleijn (Live) on Fri 11 Dec, Toronto. 1 act on the bill: Eelke Kleijn. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Ozmozis presents Eelke Kleijn (Live) on Fri 11 Dec, Toronto. 1 artist on the bill: Eelke Kleijn. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

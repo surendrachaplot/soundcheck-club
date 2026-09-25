@@ -1,6 +1,6 @@
 # NUDE at Prince Charles
 
-NUDE at Prince Charles on Sat 26 Sept, Berlin. 5 acts on the bill: Dial Ultra, Lola Haro, Random B and tINI and 1 more. Preview the line-up and save it on soundcheck.
+NUDE at Prince Charles on Sat 26 Sept, Berlin. 5 artists on the bill: Dial Ultra, Lola Haro, Random B and tINI and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Titonton Duvanté, Shawn Dub / Mike Servito, JADALAREIGN / kels at public records
 
-Titonton Duvanté, Shawn Dub / Mike Servito, JADALAREIGN / kels at public records on Sat 3 Oct, Newyorkcity. 5 acts on the bill: JADALAREIGN, Kels (US), Mike Servito and Shawn Dub and 1 more. House. Preview the line-up and save it on soundcheck.
+Titonton Duvanté, Shawn Dub / Mike Servito, JADALAREIGN / kels at public records on Sat 3 Oct, New York City. 5 artists on the bill: JADALAREIGN, Kels (US), Mike Servito and Shawn Dub and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

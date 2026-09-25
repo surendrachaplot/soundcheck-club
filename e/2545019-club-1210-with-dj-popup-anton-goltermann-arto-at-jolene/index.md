@@ -1,6 +1,6 @@
 # Club 1210 with DJ Popup, Anton Goltermann, Arto at Jolene
 
-Club 1210 with DJ Popup, Anton Goltermann, Arto at Jolene on Thu 1 Oct, Copenhagen. 2 acts on the bill: Anton Goltermann and DJ Popup. House. Preview the line-up and save it on soundcheck.
+Club 1210 with DJ Popup, Anton Goltermann, Arto at Jolene on Thu 1 Oct, Copenhagen. 2 artists on the bill: Anton Goltermann and DJ Popup. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

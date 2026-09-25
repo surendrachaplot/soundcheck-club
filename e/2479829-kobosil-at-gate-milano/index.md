@@ -1,6 +1,6 @@
 # Kobosil at Gate Milano
 
-Kobosil at Gate Milano on Fri 25 Sept, Milan. 3 acts on the bill: HEMPTOTE, Kobosil and Pura Solenne. Preview the line-up and save it on soundcheck.
+Kobosil at Gate Milano on Fri 25 Sept, Milan. 3 artists on the bill: HEMPTOTE, Kobosil and Pura Solenne. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

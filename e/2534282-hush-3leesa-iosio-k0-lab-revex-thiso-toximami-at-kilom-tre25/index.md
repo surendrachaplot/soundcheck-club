@@ -1,6 +1,6 @@
 # HUSH: 3LEESA, IOSIO, K0:LAB, REVEX, THISO, TOXIMAMI at Kilomètre25
 
-HUSH: 3LEESA, IOSIO, K0:LAB, REVEX, THISO, TOXIMAMI at Kilomètre25 on Fri 30 Oct, Paris. 3 acts on the bill: IOSIO, THISO and TOXIMAMI. Trance. Preview the line-up and save it on soundcheck.
+HUSH: 3LEESA, IOSIO, K0:LAB, REVEX, THISO, TOXIMAMI at Kilomètre25 on Fri 30 Oct, Paris. 3 artists on the bill: IOSIO, THISO and TOXIMAMI. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

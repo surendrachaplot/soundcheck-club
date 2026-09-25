@@ -1,6 +1,6 @@
 # GreenKomm Autumn Palace at Nachtflug & Starz
 
-GreenKomm Autumn Palace at Nachtflug & Starz on Sun 4 Oct, Cologne. 1 act on the bill: Tony Mess. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+GreenKomm Autumn Palace at Nachtflug & Starz on Sun 4 Oct, Cologne. 1 artist on the bill: Tony Mess. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

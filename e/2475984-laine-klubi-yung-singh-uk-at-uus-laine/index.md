@@ -1,6 +1,6 @@
 # Laine Klubiöö: Yung Singh (UK) at Uus Laine
 
-Laine Klubiöö: Yung Singh (UK) at Uus Laine on Fri 9 Oct, Tallinn. 2 acts on the bill: shbxsz and Yung Singh. Preview the line-up and save it on soundcheck.
+Laine Klubiöö: Yung Singh (UK) at Uus Laine on Fri 9 Oct, Tallinn. 2 artists on the bill: shbxsz and Yung Singh. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

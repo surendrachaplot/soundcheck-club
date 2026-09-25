@@ -1,6 +1,6 @@
 # SMLИ Thursday x UNDERCONTROL: VIVØ, Aleko, Claude Degas at Smolna
 
-SMLИ Thursday x UNDERCONTROL: VIVØ, Aleko, Claude Degas at Smolna on Thu 1 Oct, Warsaw. 2 acts on the bill: Claude Degas and VIVØ. Techno. Preview the line-up and save it on soundcheck.
+SMLИ Thursday x UNDERCONTROL: VIVØ, Aleko, Claude Degas at Smolna on Thu 1 Oct, Warsaw. 2 artists on the bill: Claude Degas and VIVØ. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

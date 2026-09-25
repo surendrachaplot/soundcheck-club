@@ -1,6 +1,6 @@
 # Occasion at Simone's
 
-Occasion at Simone's on Fri 25 Sept, Chicago. 1 act on the bill: SHANS. Tech House and Disco. Preview the line-up and save it on soundcheck.
+Occasion at Simone's on Fri 25 Sept, Chicago. 1 artist on the bill: SHANS. Tech House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

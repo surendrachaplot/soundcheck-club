@@ -1,6 +1,6 @@
 # Open2Close: Juliana Huxtable all night long at RSO.BERLIN
 
-Open2Close: Juliana Huxtable all night long at RSO.BERLIN on Fri 23 Oct, Berlin. 1 act on the bill: Juliana Huxtable. Techno. Preview the line-up and save it on soundcheck.
+Open2Close: Juliana Huxtable all night long at RSO.BERLIN on Fri 23 Oct, Berlin. 1 artist on the bill: Juliana Huxtable. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

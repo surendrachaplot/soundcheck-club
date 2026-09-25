@@ -1,6 +1,6 @@
 # BASSIFICATION: w/ human plushie, EMRYSLAZULI, BRI COHEN, ENSIDER & MORE at TBA
 
-BASSIFICATION: w/ human plushie, EMRYSLAZULI, BRI COHEN, ENSIDER & MORE at TBA on Fri 16 Oct, Toronto. 4 acts on the bill: BUCCALTHEFT, EMRYSLAZULI, ENSIDER (2) and human plushie. Techno and Club. Preview the line-up and save it on soundcheck.
+BASSIFICATION: w/ human plushie, EMRYSLAZULI, BRI COHEN, ENSIDER & MORE at TBA on Fri 16 Oct, Toronto. 4 artists on the bill: BUCCALTHEFT, EMRYSLAZULI, ENSIDER and human plushie. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
