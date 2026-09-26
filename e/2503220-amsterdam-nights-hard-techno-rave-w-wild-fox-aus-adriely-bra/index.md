@@ -1,6 +1,6 @@
-# Amsterdam Nights: Hard Techno Rave w/ Wild Fox [Aus], ADRIELY [Bra], Victae [BE] & Divain at John Doe
+# Amsterdam Nights: Hard Techno Rave w/ Wild Fox [AUS], ADRIELY [BRA], RAKKATACK [NL] at John Doe
 
-Amsterdam Nights: Hard Techno Rave w/ Wild Fox [Aus], ADRIELY [Bra], Victae [BE] & Divain at John Doe on Sat 26 Sept, Amsterdam. 3 artists on the bill: ADRIELY, Divain and Wild Fox. Techno. Preview the line-up and save it on soundcheck.
+Amsterdam Nights: Hard Techno Rave w/ Wild Fox [AUS], ADRIELY [BRA], RAKKATACK [NL] at John Doe on Sat 26 Sept, Amsterdam. 4 artists on the bill: ADRIELY, RAKKATACK, Shredder and Wild Fox. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,8 @@ Amsterdam Nights: Hard Techno Rave w/ Wild Fox [Aus], ADRIELY [Bra], Victae [BE]
 ## Line-up
 
 - ADRIELY
-- Divain
+- RAKKATACK
+- Shredder (2)
 - Wild Fox
 
 *Source: [soundcheck](https://soundcheck.club/e/2503220-amsterdam-nights-hard-techno-rave-w-wild-fox-aus-adriely-bra/)*

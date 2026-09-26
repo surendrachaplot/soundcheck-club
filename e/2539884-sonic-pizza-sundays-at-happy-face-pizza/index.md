@@ -1,6 +1,6 @@
 # Sonic Pizza Sundays at Happy Face Pizza
 
-Sonic Pizza Sundays at Happy Face Pizza on Sun 27 Sept, London. Ambient and Balearic. Preview the line-up and save it on soundcheck.
+Sonic Pizza Sundays at Happy Face Pizza on Sun 27 Sept, London. Balearic and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
