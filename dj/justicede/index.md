@@ -1,13 +1,14 @@
 # JUSTICE (DE)
 
-JUSTICE (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Kater, Berlin on Sat, 7 Nov 2026.
+JUSTICE (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at ://about blank, Berlin on Sat, 24 Oct 2026.
 
-JUSTICE (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Budapest, Cologne and Hamburg. Often billed alongside Baerbel, VIVI (DE) and Susi&Paula. Next up: Kater, Berlin on Sat 7 Nov.
+JUSTICE (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Budapest, Cologne and Hamburg. Often billed alongside Baerbel, VIVI (DE) and Susi&Paula. Next up: ://about blank, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | ://about blank | Berlin |
 | Sat, 7 Nov 2026 | Kater | Berlin |
 
 ## Recently played

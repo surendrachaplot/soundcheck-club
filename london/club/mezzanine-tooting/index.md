@@ -12,7 +12,7 @@ Mezzanine - Tooting is a music venue in London listed on soundcheck. 9 upcoming 
 | Fri, 2 Oct 2026 | Bites&Beats - House & Techno Party 75% SOLD OUT | Matt Arnold |
 | Fri, 9 Oct 2026 | Casto at The Mezzanine |  |
 | Sat, 24 Oct 2026 | Sticky Fingers |  |
-| Sat, 31 Oct 2026 | Waves - Halloween Special @ Mezzanine | Drone (UK), Kassita, Knegativ, MJK, flux vortex |
+| Sat, 31 Oct 2026 | Waves - Halloween Special w/ Drone, MJK, Patrice | Drone (UK), Kassita, Knegativ, MJK, flux vortex |
 | Fri, 20 Nov 2026 | Club Culture UK presents: Gifta (UKG Set) |  |
 | Sat, 21 Nov 2026 | The Mezzanine - Bassment takeover |  |
 | Fri, 18 Dec 2026 | Bites & Beats House & Techno Party | Matt Arnold |

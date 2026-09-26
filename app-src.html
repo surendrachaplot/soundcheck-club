@@ -268,8 +268,9 @@
     .hdr-search svg { width:calc(var(--icon-sm)*1.2); height:calc(var(--icon-sm)*1.2); flex:none; }
     .hdr-search .hs-tx { font:600 var(--fs-base)/var(--lh-base) var(--body); text-transform:lowercase; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     /* header pills — one size: 34px tall, fs-xs. Log a gig / Sign in / username all match. */
-    /* ponytail: #hdr-log's look is now .fp-ab.go (see BUTTON SYSTEM v2) — the
-       same class as every other "Log a gig" CTA, never a bespoke colour. */
+    /* ponytail: #hdr-log's look is .fp-ab (see BUTTON SYSTEM v2) — the DS
+       SECONDARY outlined pill, same as every other "Log a gig" CTA. The
+       gradient is reserved for Play (one gradient per view). */
     .account-wrap { position:relative; flex:none; }
     .acct-menu { position:absolute; right:0; top:calc(100% + 9px); min-width:192px; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius); padding:6px; box-shadow:0 16px 38px rgba(0,0,0,0.55); z-index:90; display:none; }
     .acct-menu.show { display:block; }
@@ -1867,7 +1868,7 @@
     .pf-segb:not(.on):hover { color:var(--fg); }
     .pf-segb.on { background:var(--accent-grad); color:var(--accent-ink); }
     .pf-box.hide { display:none; }   /* .hide only styled .fp-tabpanel — the pill switcher needs it on the shelf boxes too */
-    /* profile DJ-set shelves (Set queue / Listened tabs) */
+    /* .pf-box.hide is also used by the (now single-segment) My Playlist switcher */
     .pf-setrow { display:flex; align-items:center; gap:12px; width:100%; background:none; border:0; border-top:1px solid var(--line); padding:10px 2px; cursor:pointer; text-align:left; color:var(--fg); -webkit-tap-highlight-color:transparent; }
     .pf-setrow:first-of-type { border-top:0; }
     .pf-setrow .ps-th { width:86px; aspect-ratio:16/9; border-radius:var(--radius-sm); background-size:cover; background-position:center; background-color:var(--surface-3); flex:none; }
@@ -4583,7 +4584,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790439693331">
+<meta name="sc-build" content="1790445636602">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4602,7 +4603,7 @@
         <button class="nl" data-nav="radio" type="button">Radio</button>
       </div>
       <button class="hdr-search" id="hdr-search" type="button" aria-label="Search artists, venues, events"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span class="hs-tx">Search artists, venues, events…</span></button>
-      <button class="fp-ab go" id="hdr-log" type="button" style="display:none">Log a gig</button>
+      <button class="fp-ab" id="hdr-log" type="button" style="display:none">Log a gig</button>
       <div class="account account-wrap" id="account"></div>
     </nav>
 
@@ -9303,7 +9304,7 @@
       var db=document.getElementById('pf-diary');
       if(db){ if(isMe || diary.length){
         // Log a gig sits ABOVE the diary (empty state keeps its own nudge button)
-        db.innerHTML=(isMe&&diary.length?'<button class="pf-btn primary" id="pf-log2" type="button" style="margin:2px 0 14px">＋ Log a gig</button>':'')+diaryTLHTML(diary, isMe);
+        db.innerHTML=(isMe&&diary.length?'<button class="fp-ab" id="pf-log2" type="button" style="margin:2px 0 14px">Log a gig</button>':'')+diaryTLHTML(diary, isMe);
         wireDiary(db, isMe, function(){ openProfile(p.handle); });
         ['pf-log2','diary-log2'].forEach(function(id){ var b=document.getElementById(id); if(b) b.addEventListener('click',function(){ openLog(); }); });
       } else db.remove(); }
@@ -9334,7 +9335,7 @@
       document.querySelectorAll('.pf .pf-segb[data-sub="following"]').forEach(function(b){
         b.addEventListener('click', function(){ fillPeopleBox(p.handle, 'following'); });
       });
-      // Inner pill switchers (My Artists: Wanna see/Seen live · My Playlist: Playlists/Queue/Listened)
+      // Inner pill switchers (My Artists: Wanna see/Seen live · My Playlist: Playlists)
       document.querySelectorAll('.pf .pf-seg').forEach(function(seg){ seg.addEventListener('click',function(e){
         var b=e.target.closest('.pf-segb'); if(!b) return;
         seg.querySelectorAll('.pf-segb').forEach(function(x){ x.classList.toggle('on',x===b); });
@@ -9510,7 +9511,7 @@
         mine = mine || p.isMe;
         var diary=(p&&p.diary)||[], s=(p&&p.shelves)||{};
         var nm = p.displayName||('u/'+handle);
-        var logBtn = mine ? '<button class="pf-btn primary" id="diary-log" type="button" style="margin-left:auto">Log a gig</button>' : '';
+        var logBtn = mine ? '<button class="fp-ab" id="diary-log" type="button" style="margin-left:auto">Log a gig</button>' : '';
         // breadcrumb back to the profile so the diary never feels like a floating page
         var CHV='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>';
         var bc='<button class="diary-bc" type="button" id="diary-bc">'+CHV+'<span>'+esc(mine?'Your profile':nm)+'</span></button>';

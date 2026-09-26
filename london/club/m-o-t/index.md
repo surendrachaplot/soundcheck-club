@@ -9,7 +9,7 @@ M.O.T is a music venue in London listed on soundcheck. 35 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | ✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹ | Angel D'lite, Authentically Plastic, Beneath, DJ Gonz, DJ Lycox, DJ Plead, Daksh, Debit, Gavsborg, Grace Sands, Iration Steppas, Jerome Hill, Joe Cotch, John T. Gast, Lo Simple, Mellowdramatics, Raisa K, Resimota, Rezzett, Shackleton, XT1ANA, Zoe Pea, k means, re:ni |
-| Thu, 1 Oct 2026 | Twinspinsz ⋆˚𖥔 Reformist & Friends  | N1L, Reformist, TENFOLD |
+| Thu, 1 Oct 2026 | Twinspinsz ⋆˚𖥔 Reformist & Friends  | Reformist, TENFOLD |
 | Thu, 1 Oct 2026 | TECHNO IN LONDON - OPEN DECKS & SOCIAL |  |
 | Sat, 3 Oct 2026 | Don't | Jerome Hill, Peder Mannerfelt, the butcher bird |
 | Sat, 3 Oct 2026 | MID WEEK SESSION XXX | DELARA, Gloria Rose, Juliana Branco, Leonardo Cruz DJ, Mattia Fois, Modlar, Mona Sage, Panik Attak, SAN.SAN, Sea Ho, TOOTHTAXI, metrologic |

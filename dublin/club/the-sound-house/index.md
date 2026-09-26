@@ -16,7 +16,7 @@ The Sound House is a music venue in Dublin listed on soundcheck. 10 upcoming gig
 | Fri, 23 Oct 2026 | GLIMMER 001: Queer Techno Party | Sémaé, Wotton |
 | Sat, 31 Oct 2026 | RATHAUS HALLOWEEN |  |
 | Fri, 13 Nov 2026 | A Love From Outer Space | Sean Johnston |
-| Fri, 4 Dec 2026 | TBA Story* |  |
+| Fri, 4 Dec 2026 | The Last Chapter Story* 2026 with TBA |  |
 | Sat, 19 Dec 2026 | INFLUENCE PRESENTS: XXX & XXXXX |  |
 
 ## Address

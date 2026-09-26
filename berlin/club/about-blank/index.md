@@ -2,7 +2,7 @@
 
 ://about blank is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "://blank off summer - garden closing 2026" on Sat, 26 Sept 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including 4NOUK, alemiko, Alex.Do and Alexis Alien and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including 4NOUK, Al Aslan, alemiko and Alex.Do and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 

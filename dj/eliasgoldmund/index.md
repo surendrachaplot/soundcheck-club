@@ -1,13 +1,14 @@
 # Elias Goldmund
 
-Elias Goldmund is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Elias Goldmund is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Klunkerkranich, Berlin on Sat, 3 Oct 2026.
 
-Elias Goldmund is a techno and downtempo artist tracked on soundcheck, with 31 sets logged across Berlin, Copenhagen, Hamburg and Munich and 3 more. Often billed alongside Naicet, Corios and R3NATA. Next up: Renate, Berlin on Fri 16 Oct.
+Elias Goldmund is a techno and downtempo artist tracked on soundcheck, with 32 sets logged across Berlin, Copenhagen, Hamburg and Munich and 3 more. Often billed alongside Naicet, Corios and R3NATA. Next up: Klunkerkranich, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Klunkerkranich | Berlin |
 | Fri, 16 Oct 2026 | Renate | Berlin |
 
 ## Recently played

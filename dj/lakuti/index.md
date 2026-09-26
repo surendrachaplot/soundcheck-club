@@ -1,13 +1,14 @@
 # Lakuti
 
-Lakuti is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
+Lakuti is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Alte Feuerwache THF, Berlin on Fri, 9 Oct 2026.
 
-Lakuti is a house and techno artist based in United Kingdom, tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Den Anden Side, Copenhagen on Sat 10 Oct.
+Lakuti is a house and techno artist based in United Kingdom, tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Alte Feuerwache THF, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Alte Feuerwache THF | Berlin |
 | Sat, 10 Oct 2026 | Den Anden Side | Copenhagen |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |

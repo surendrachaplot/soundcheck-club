@@ -1,14 +1,15 @@
 # Nurias
 
-Nurias is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cadavra, Madrid on Sat, 31 Oct 2026.
+Nurias is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cadavra, Madrid on Sat, 31 Oct 2026.
 
-Nurias is an electronica and house artist based in Spain, tracked on soundcheck, with 42 sets logged across Barcelona and Madrid. Often billed alongside Avo (ES), Cesc (ES) and Luska. Next up: Cadavra, Madrid on Sat 31 Oct.
+Nurias is an electronica and house artist based in Spain, tracked on soundcheck, with 43 sets logged across Barcelona and Madrid. Often billed alongside Avo (ES), Cesc (ES) and Luska. Next up: Cadavra, Madrid on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Cadavra | Madrid |
+| Thu, 31 Dec 2026 | Cadavra | Madrid |
 
 ## Recently played
 

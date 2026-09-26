@@ -1,13 +1,14 @@
 # Angel Karel
 
-Angel Karel is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at T7 Paris, Paris on Sat, 3 Oct 2026.
+Angel Karel is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at T7 Paris, Paris on Sat, 3 Oct 2026.
 
-Angel Karel is a techno and industrial artist based in France, tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Cologne and Geneva and 14 more. Often billed alongside Vinka Wydro, LiXaa and Aida Arko. Next up: T7 Paris, Paris on Sat 3 Oct.
+Angel Karel is a techno and industrial artist based in France, tracked on soundcheck, with 73 sets logged across Amsterdam, Berlin, Cologne and Geneva and 14 more. Often billed alongside Vinka Wydro, LiXaa and Aida Arko. Next up: T7 Paris, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | T7 Paris | Paris |
 | Sat, 3 Oct 2026 | T7 Paris | Paris |
 
 ## Recently played

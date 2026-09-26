@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 19 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "CLOSA SELECTS: Guy Gerber 3h set at La Terrrazza" on Sat, 26 Sept 2026.
+La Terrrazza is a music venue in Barcelona with 19 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "[Last 25 tickets] CLOSA SELECTS: Guy Gerber 3h set at La Terrrazza" on Sat, 26 Sept 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 19 upcoming gigs, with line-ups including Alvaro Medina, Alvva, Baldman and bernie soundmate and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -8,7 +8,7 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 19 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | CLOSA SELECTS: Guy Gerber 3h set at La Terrrazza | Guy Gerber, MARTISTA |
+| Sat, 26 Sept 2026 | [Last 25 tickets] CLOSA SELECTS: Guy Gerber 3h set at La Terrrazza | Guy Gerber, MARTISTA |
 | Sat, 26 Sept 2026 | Soundmate meets RRR | Alvva, RONI, Vandi (ES), bernie soundmate |
 | Thu, 1 Oct 2026 | Soundset Sessions with NewTone | CLANDESTINE (2), NewTone, REGOR_ |
 | Fri, 2 Oct 2026 | Tresydos by Mari.te | John Tejada, Jorge Escribano, Mari.te |

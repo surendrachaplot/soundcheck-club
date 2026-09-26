@@ -1,6 +1,6 @@
 # Isa Gordon
 
-Isa Gordon is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+Isa Gordon is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
 Isa Gordon is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Berlin, Dublin, Edinburgh and Glasgow and 1 more. Often billed alongside Harry Górski-Brown, Tony Morris and Andrew Thomson. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
@@ -9,7 +9,6 @@ Isa Gordon is an experimental and electronica artist based in United Kingdom, tr
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Venues Across Glasgow | Glasgow |
-| Sat, 26 Sept 2026 | The Listening House / Pollok House | Glasgow |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # FEZZO
 
-FEZZO is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+FEZZO is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kramladen, Vienna on Thu, 1 Oct 2026.
 
-FEZZO is a techno and tech house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Buenos Aires and Malta. Often billed alongside FKNSIL, RuBi. and ALLES ATZIG. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+FEZZO is a techno and tech house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Buenos Aires, Malta and Vienna. Often billed alongside FKNSIL, RuBi. and ALLES ATZIG. Next up: Kramladen, Vienna on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Kramladen | Vienna |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 
 ## Recently played

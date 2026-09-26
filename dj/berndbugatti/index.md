@@ -1,13 +1,14 @@
 # Bernd Bugatti
 
-Bernd Bugatti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 23 Oct 2026.
+Bernd Bugatti is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Klunkerkranich, Berlin on Fri, 2 Oct 2026.
 
-Bernd Bugatti is a techno and house artist tracked on soundcheck, with 11 sets logged across Berlin, Leipzig and Munich. Often billed alongside Liebe Nachbarn, Anna Lazer and DJ Nebelmaschine. Next up: Bahnwärter Thiel, Munich on Fri 23 Oct.
+Bernd Bugatti is a techno and house artist tracked on soundcheck, with 12 sets logged across Berlin, Leipzig and Munich. Often billed alongside Liebe Nachbarn, Anna Lazer and DJ Nebelmaschine. Next up: Klunkerkranich, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Klunkerkranich | Berlin |
 | Fri, 23 Oct 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
