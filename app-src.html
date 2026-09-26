@@ -2282,6 +2282,11 @@
     /* sign-in modal */
     .auth-overlay { position:fixed; inset:0; background:var(--scrim); backdrop-filter:var(--scrim-blur); z-index:2000; display:flex; align-items:center; justify-content:center; padding:22px; opacity:0; pointer-events:none; transition:opacity var(--dur-2); }
     .auth-overlay.show { opacity:1; pointer-events:auto; }
+    /* The hit-area expander sets pointer-events:auto on .auth-close::after, which
+       beats the hidden overlay's pointer-events:none: the invisible sign-in ×
+       swallowed every tap on a 44px square mid-screen (on a phone, the first
+       Listen row's +). Off while the overlay is closed. */
+    .auth-overlay:not(.show) .auth-close::after { pointer-events:none; }
     .auth-box { background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-lg); padding:28px 26px 24px; width:100%; max-width:380px; position:relative; transform:translateY(10px); transition:transform var(--dur-2); }
     .auth-overlay.show .auth-box { transform:translateY(0); }
     /* Full-size poster view. Reuses .auth-overlay for the backdrop — it is already
@@ -4580,11 +4585,88 @@
       .bnav-l{ font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); letter-spacing:.12em; text-transform:uppercase; }
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
+
+    /* ── LISTEN v2 (Paper NEXT: brief 11LJ, web 11N9, control 12CF, states 11WG, iPhone 11RZ) ──
+       ONE round control, one meaning: "in Your sets". Off = ring + plus, on =
+       violet + ink tick (violet = selected, button system v2). Web 32 (hit 40),
+       phone rows and the phone dock 44. Always the last thing on the row. */
+    .set-add{ flex:none; position:relative; width:32px; height:32px; padding:0; border-radius:var(--radius-btn);
+      border:1px solid rgba(255,255,255,.14); background:none; color:var(--fg); cursor:pointer;
+      display:inline-flex; align-items:center; justify-content:center; -webkit-tap-highlight-color:transparent;
+      transition:background var(--dur-1) var(--ease-standard), border-color var(--dur-1) var(--ease-standard); }
+    .set-add::after{ content:""; position:absolute; inset:-4px; }
+    .set-add svg{ width:15px; height:15px; fill:none; stroke:currentColor; stroke-width:2.2; stroke-linecap:round; stroke-linejoin:round; }
+    .set-add.on{ background:var(--sel); border-color:var(--sel); color:#150e26; }
+    .set-add.on svg{ stroke-width:2.6; }
+    .set-add:not(.on):hover{ border-color:var(--sel); background:var(--sel-weak); }
+    .set-add:active{ transform:scale(.96); }
+    .set-add:focus-visible{ outline:2px solid var(--sel); outline-offset:2px; }
+    .set-add[hidden]{ display:none; }
+    /* the Sets card (.fp-skw): the control sits at the end of the meta line */
+    .fp-skw{ position:relative; }
+    .fp-skw > .set-add{ position:absolute; right:0; bottom:0; }
+    .fp-skw.has-add .fp-sk-ch{ line-height:32px; margin-top:6px; padding-right:40px; }
+    .fp-sk-why{ font:700 var(--fs-2xs)/15px var(--font-mono); letter-spacing:.14em; text-transform:uppercase; color:var(--faint);
+      margin-top:10px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .fp-sk-why.warm{ color:var(--accent); }   /* a label, never a control — flat accent allowed */
+    .fp-sk-why + .fp-sk-ti{ margin-top:4px; }
+    .fp-sk-cd{ display:none; }                /* duration in the meta line: phone rows only (web has the badge) */
+    /* gig line-up: the + follows the row's play button */
+    .fp-lu .set-add{ margin-left:-8px; }
+    @media(max-width:560px){
+      .fp-lu{ grid-template-columns:44px minmax(0,1fr) 38px auto; grid-template-areas:"f tx pl ad" "f at pl ad"; }
+      .fp-lu .set-add{ grid-area:ad; margin-left:0; }
+    }
+    /* dock: the + sits next to the heart (it replaced the seen tick) */
+    .dock-acts .set-add{ align-self:center; }
+    @media(max-width:620px){
+      .dock.expanded .dock-acts .set-add{ width:44px; height:44px; }
+      .dock.expanded .dock-acts .set-add svg{ width:18px; height:18px; stroke-width:2; }
+      .dock.expanded .dock-acts .set-add.on svg{ stroke-width:2.4; }
+    }
+    /* Listen page */
+    .lsn .fp-sets-grid{ margin-bottom:var(--sp-4); }
+    .lsn-empty{ color:var(--muted); font:400 var(--fs-base)/22px var(--body); margin:0 0 var(--sp-4); max-width:60ch; }
+    .lsn-intro{ display:flex; align-items:flex-start; gap:12px; background:var(--surface); border:1px solid var(--border);
+      border-radius:var(--radius); padding:14px 16px; margin:0 0 var(--sp-6); max-width:560px; font:400 14px/20px var(--body); color:var(--fg); }
+    .lsn-intro p{ flex:1; margin:0; }
+    .lsn-intro button{ flex:none; background:none; border:0; padding:0; color:var(--faint); cursor:pointer; width:18px; height:18px; }
+    .lsn-intro svg{ width:18px; height:18px; fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; }
+    .lsn-heard{ display:inline-flex; align-items:center; gap:4px; background:none; border:0; padding:8px 0 0; margin-bottom:56px;
+      color:var(--faint); font:600 var(--fs-sm)/18px var(--body); cursor:pointer; }
+    .lsn-heard svg{ width:14px; height:14px; fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; transition:transform var(--dur-1) var(--ease-standard); }
+    .lsn-heard[aria-expanded="true"] svg{ transform:rotate(90deg); }
+    .lsn-heard:hover{ color:var(--fg); }
+    @media(max-width:560px){
+      /* iPhone board 11RZ: two LISTS of rows, not card grids */
+      .lsn .rad-hd .kick{ font:700 10.5px/14px var(--body); color:var(--faint); }
+      .lsn .rad-sub{ font-size:var(--fs-base); line-height:22px; }
+      .lsn .sec-h{ font-size:var(--fs-lg); align-items:baseline; gap:8px; margin:24px 0 8px; }
+      .lsn .sec-h::before{ display:none; }
+      .lsn .sec-h .ct{ font:500 var(--fs-sm)/16px var(--body); letter-spacing:0; color:var(--faint); }
+      .lsn .fp-sets-grid{ display:block; }
+      .lsn .fp-skw + .fp-skw::before{ content:""; position:absolute; left:104px; right:0; top:0; height:1px; background:rgba(255,255,255,.08); }
+      .lsn .fp-sk{ display:grid; grid-template-columns:92px minmax(0,1fr); column-gap:12px; align-items:center; align-content:center;
+        min-height:76px; padding:8px 56px 8px 0; }
+      .lsn .fp-sk > *{ grid-column:2; }
+      .lsn .fp-sk > .fp-sk-th{ grid-column:1; grid-row:1 / span 3; width:92px; height:52px; aspect-ratio:auto; align-self:center; }
+      .lsn .fp-sk-th .fp-sk-dur, .lsn .fp-sk-th .fp-sk-pl{ display:none; }
+      .lsn .fp-sk-why{ font:700 10.5px/14px var(--body); margin-top:0; }
+      .lsn .fp-sk-ti{ font:700 16.5px/21px var(--body); letter-spacing:-0.005em; margin-top:0; }
+      .lsn .fp-sk-why + .fp-sk-ti{ margin-top:0; }
+      .lsn .fp-skw.has-add .fp-sk-ch, .lsn .fp-sk-ch{ font:500 var(--fs-sm)/18px var(--body); color:var(--muted); margin-top:0; padding-right:0; }
+      .lsn .fp-sk-cd{ display:inline; }
+      .lsn .fp-skw > .set-add{ top:50%; bottom:auto; transform:translateY(-50%); width:44px; height:44px; }
+      .lsn .fp-skw > .set-add:active{ transform:translateY(-50%) scale(.96); }
+      .lsn .fp-skw > .set-add svg{ width:18px; height:18px; stroke-width:2; }
+      .lsn .fp-skw > .set-add.on svg{ stroke-width:2.4; }
+      .lsn-heard{ padding-top:20px; margin-bottom:28px; }
+    }
 </style>
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790448057834">
+<meta name="sc-build" content="1790451001874">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4600,7 +4682,7 @@
       <div class="nav-links" id="nav-links">
         <button class="nl" data-nav="home" type="button">Home</button>
         <button class="nl" data-nav="scenes" type="button">Scenes</button>
-        <button class="nl" data-nav="radio" type="button">Radio</button>
+        <button class="nl" data-nav="listen" type="button">Listen</button>
       </div>
       <button class="hdr-search" id="hdr-search" type="button" aria-label="Search artists, venues, events"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span class="hs-tx">Search artists, venues, events…</span></button>
       <button class="fp-ab" id="hdr-log" type="button" style="display:none">Log a gig</button>
@@ -4684,7 +4766,7 @@
       <div class="video-wrap" id="dock-media"></div>
       <img class="thumb" id="dock-thumb" alt="">
       <div class="main">
-        <div class="info"><div class="dock-nmrow"><div class="nm" id="dock-name">&mdash;</div><div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Wanna see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Wanna see</span></button></div></div><div class="dock-next" id="dock-next-gig"></div><div class="dock-srcrow"><div class="sub" id="dock-src">SoundCloud</div><a class="dock-sc" id="dock-sc" href="#" target="_blank" rel="noopener" hidden aria-label="Open this track on SoundCloud"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#FF5500" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373ZM10.721 8.421c.247 2.98.427 5.697 0 8.672a.264.264 0 0 1-.53 0c-.395-2.946-.22-5.718 0-8.672a.264.264 0 0 1 .53 0ZM9.072 9.448c.285 2.659.37 4.986-.006 7.655a.277.277 0 0 1-.55 0c-.331-2.63-.256-5.02 0-7.655a.277.277 0 0 1 .556 0Zm-1.663-.257c.27 2.726.39 5.171 0 7.904a.266.266 0 0 1-.532 0c-.38-2.69-.257-5.21 0-7.904a.266.266 0 0 1 .532 0Zm-1.647.77a26.108 26.108 0 0 1-.008 7.147.272.272 0 0 1-.542 0 27.955 27.955 0 0 1 0-7.147.275.275 0 0 1 .55 0Zm-1.67 1.769c.421 1.865.228 3.5-.029 5.388a.257.257 0 0 1-.514 0c-.21-1.858-.398-3.549 0-5.389a.272.272 0 0 1 .543 0Zm-1.655-.273c.388 1.897.26 3.508-.01 5.412-.026.28-.514.283-.54 0-.244-1.878-.347-3.54-.01-5.412a.283.283 0 0 1 .56 0Zm-1.668.911c.4 1.268.257 2.292-.026 3.572a.257.257 0 0 1-.514 0c-.241-1.262-.354-2.312-.023-3.572a.283.283 0 0 1 .563 0Z"/></svg><span>SoundCloud</span><svg class="dock-sc-out" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a></div></div>
+        <div class="info"><div class="dock-nmrow"><div class="nm" id="dock-name">&mdash;</div><div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Wanna see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Wanna see</span></button><button class="set-add" id="dock-add" type="button" hidden aria-pressed="false" aria-label="Add to Your sets"></button></div></div><div class="dock-next" id="dock-next-gig"></div><div class="dock-srcrow"><div class="sub" id="dock-src">SoundCloud</div><a class="dock-sc" id="dock-sc" href="#" target="_blank" rel="noopener" hidden aria-label="Open this track on SoundCloud"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#FF5500" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373ZM10.721 8.421c.247 2.98.427 5.697 0 8.672a.264.264 0 0 1-.53 0c-.395-2.946-.22-5.718 0-8.672a.264.264 0 0 1 .53 0ZM9.072 9.448c.285 2.659.37 4.986-.006 7.655a.277.277 0 0 1-.55 0c-.331-2.63-.256-5.02 0-7.655a.277.277 0 0 1 .556 0Zm-1.663-.257c.27 2.726.39 5.171 0 7.904a.266.266 0 0 1-.532 0c-.38-2.69-.257-5.21 0-7.904a.266.266 0 0 1 .532 0Zm-1.647.77a26.108 26.108 0 0 1-.008 7.147.272.272 0 0 1-.542 0 27.955 27.955 0 0 1 0-7.147.275.275 0 0 1 .55 0Zm-1.67 1.769c.421 1.865.228 3.5-.029 5.388a.257.257 0 0 1-.514 0c-.21-1.858-.398-3.549 0-5.389a.272.272 0 0 1 .543 0Zm-1.655-.273c.388 1.897.26 3.508-.01 5.412-.026.28-.514.283-.54 0-.244-1.878-.347-3.54-.01-5.412a.283.283 0 0 1 .56 0Zm-1.668.911c.4 1.268.257 2.292-.026 3.572a.257.257 0 0 1-.514 0c-.241-1.262-.354-2.312-.023-3.572a.283.283 0 0 1 .563 0Z"/></svg><span>SoundCloud</span><svg class="dock-sc-out" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a></div></div>
         <!-- Fixed order everywhere (web + mobile): −15 · prev · [play] · next · +15.
              The play button is hidden (the scrubber knob is play/pause), so the visible
              row is −15 · prev · next · +15 on both; DOM order = render order, no per-
@@ -4750,7 +4832,7 @@
     <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg><span class="bnav-l">Home</span></button>
     <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg><span class="bnav-l">Search</span></button>
     <button class="bnav-log" id="bnav-log" type="button" aria-label="Log a gig"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
-    <button class="bnav-tab" id="bnav-scenes" type="button" aria-label="Scenes"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a15 15 0 0 1 0 18a15 15 0 0 1 0-18z"/></svg><span class="bnav-l">Scenes</span></button>
+    <button class="bnav-tab" id="bnav-listen" type="button" aria-label="Listen"><svg viewBox="0 0 24 24"><path d="M3.5 14v-2a8.5 8.5 0 0 1 17 0v2"/><rect x="3" y="13" width="5" height="8" rx="2"/><rect x="16" y="13" width="5" height="8" rx="2"/></svg><span class="bnav-l">Listen</span></button>
     <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg><span class="bnav-l">You</span></button>
   </nav>
 
@@ -5381,8 +5463,11 @@
         var dh=document.getElementById('dock-heart');
         dh.setAttribute('data-pick-art', navSlug); dh.setAttribute('data-name', name);
         refreshArtistButtons(navSlug);   // sets the .on state from current status
-        dockActs.style.display='';
-      } else { dockActs.style.display='none'; }
+        dh.style.display='';
+      } else { var dh0=document.getElementById('dock-heart'); if(dh0) dh0.style.display='none'; }
+      // The row always shows: the + (Your sets) is there whenever the set has an id.
+      dockActs.style.display='';
+      setTimeout(lsnTick, 50);
       if(btn.dataset.poster){ dockThumb.src=imgUrl(btn.dataset.poster,120); dockThumb.style.display=''; }
       else { dockThumb.removeAttribute('src'); dockThumb.style.display='none'; }
       dock.classList.add('show'); document.body.classList.add('has-dock');
@@ -5477,6 +5562,8 @@
         }
         scWidget.bind(SC.Widget.Events.PLAY,function(){ updatePP(true); jumpIn(); });
         scWidget.bind(SC.Widget.Events.PAUSE,function(){ updatePP(false); });
+        // End of a SoundCloud set inside a mixed (Listen) queue → the next one.
+        scWidget.bind(SC.Widget.Events.FINISH,function(){ updatePP(false); var c=scQ&&scQ[scQi]; if(c && c.scUrl && c.scUrl===btn.dataset.sc && scQ.length>1) playScQ(scQi+1); });
         scWidget.bind(SC.Widget.Events.READY,function(){ scWidget.getDuration(function(ms){ dur=(ms||0)/1000; paintScrub(); }); });
         scWidget.bind(SC.Widget.Events.PLAY_PROGRESS,function(e){ if(scrubbing) return; pos=(e.currentPosition||0)/1000; paintScrub(); });
         try{ scWidget.getDuration(function(ms){ if(ms){ dur=ms/1000; paintScrub(); } }); }catch(_){} // READY may have already fired
@@ -5968,7 +6055,10 @@
     function playScQ(i){
       if(!scQ || !scQ.length) return;
       scQi=((i % scQ.length)+scQ.length)%scQ.length;
-      handleYtClick(synthYtBtn(scQ[scQi]));
+      var it=scQ[scQi];
+      // A Listen queue mixes sources: a SoundCloud/NTS entry carries its url.
+      if(it && it.scUrl){ playScUrl(it.scUrl, it.title, it.poster, it.src||'SoundCloud', { name:it.name, slug:it.slug }); return; }
+      handleYtClick(synthYtBtn(it));
     }
     // prev / next — walk the visible grid lineup of the current source type
     function currentQueue(){
@@ -6490,9 +6580,8 @@
       var onLanding = !!document.querySelector('#obv.show .ob-land');
       setTab('bnav-home', !onPage && !onLanding);
       setTab('bnav-search', route==='search' && !onLanding);
-      setTab('bnav-scenes', (route==='scenes' || /^[a-z0-9-]+\/scene$/.test(route||'')) && !onLanding);
+      setTab('bnav-listen', route==='listen' && !onLanding);
       setTab('bnav-profile', onLanding || route==='account' || (currentUser && route==='u/'+currentUser.handle));
-      var br=document.getElementById('bnav-scenes'); if(br) br.classList.toggle('onair', !!radio.on);
       // web header named-nav active states
       function setNav(name,on){ document.querySelectorAll('.nl[data-nav="'+name+'"]').forEach(function(t){ t.classList.toggle('on',!!on); }); }
       // Home is underlined whenever NO page is open — the same test the mobile
@@ -6503,7 +6592,7 @@
       // currentRoute() still reports the route it came from, so both lit up.
       setNav('home', !onPage);
       setNav('scenes', onPage && (route==='scenes' || route==='scene'));
-      setNav('radio', onPage && route==='radio');
+      setNav('listen', onPage && route==='listen');
       var rf=document.getElementById('radio-fab');
       if(rf){ rf.classList.toggle('onair', !!radio.on); if(!radio.on){ var rl=document.getElementById('radio-fab-label'); if(rl) rl.textContent='Radio'; } }
     }
@@ -6553,7 +6642,7 @@
       window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
     });
     onEl('bnav-search','click',function(){ openSearch(); });
-    onEl('bnav-scenes','click',function(){ openScenes(); });
+    onEl('bnav-listen','click',function(){ openListen(); });
     onEl('bnav-log','click',function(){ if(!currentUser){ scOnboard('email'); return; } openLog(); });   // signed out, + goes to the landing — the same door as the banner and You
     // Signed out, "You" is the pitch, not the wizard's city step — that step
     // belongs AFTER the link is clicked, and landing on it cold asked a stranger
@@ -6991,6 +7080,7 @@
       if(currentUser){ hideSignupBanner(); if(prefs.pendingEmail) setPref('pendingEmail',''); } // signed up — clear the nudge
       else if(prefs.pendingEmail){ _pendingEmail=prefs.pendingEmail; showSignupBanner(prefs.pendingEmail); } // still pending — re-nudge
       if(currentUser||anonUser) await hydrateShelf();
+      if(currentUser) lsnHydrate(); else _lsnAdded={};
       if(currentUser){ maybePromptHandle(); if(currentUser.handleClaimed) maybePromptHomeCity(); }
       applyPrefCity();
       adoptLegacyLocal();
@@ -7063,10 +7153,244 @@
         Object.keys(picks.events).forEach(refreshEventButtons);
       }catch(_){}
     }
+    // ── LISTEN v2 — Your sets, From your wanna see, Heard (Paper brief 11LJ) ──
+    // A set is id + source: yt = videoId, sc = SoundCloud url, nts = the
+    // SoundCloud audio url NTS serves. Same normalisation as the server's
+    // setKey (auth.js) so a key built here matches the one it echoes.
+    var _lsnAdded={}, _lsnMeta={}, _lsnPend=null;
+    var LSN_PLUS='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>';
+    var LSN_TICK='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5.5 12.5l4.2 4.2L18.5 7.8"/></svg>';
+    function lsnKey(id, source){
+      source=String(source||'yt').toLowerCase(); id=String(id||'').trim();
+      if(source==='yt') return /^[A-Za-z0-9_-]{5,20}$/.test(id) ? { id:id, source:'yt' } : null;
+      if(source!=='sc' && source!=='nts') return null;
+      try{ var u=new URL(id); }catch(_){ return null; }
+      if(!/^(www\.|m\.)?soundcloud\.com$/i.test(u.hostname) || u.pathname.length<3) return null;
+      return { id:'https://soundcloud.com'+u.pathname.replace(/\/+$/,''), source:source };
+    }
+    function lsnK(k){ return k.source+'|'+k.id; }
+    // The control. meta = { artistSlug, artistName, title, duration, thumb, publishedAt }.
+    function setAddHTML(k, meta){
+      if(!k) return '';
+      var key=lsnK(k); if(meta) _lsnMeta[key]=meta;
+      var on=!!_lsnAdded[key];
+      return '<button class="set-add'+(on?' on':'')+'" type="button" data-sk="'+esc(key)+'" aria-pressed="'+on+'" aria-label="'+(on?'In Your sets, remove':'Add to Your sets')+'">'+(on?LSN_TICK:LSN_PLUS)+'</button>';
+    }
+    function lsnPaint(key){
+      var on=!!_lsnAdded[key];
+      document.querySelectorAll('.set-add[data-sk]').forEach(function(b){
+        if(key && b.dataset.sk!==key) return;
+        var o=!!_lsnAdded[b.dataset.sk];
+        b.classList.toggle('on',o); b.setAttribute('aria-pressed',String(o));
+        b.setAttribute('aria-label', o?'In Your sets, remove':'Add to Your sets');
+        b.innerHTML=o?LSN_TICK:LSN_PLUS;
+      });
+      return on;
+    }
+    async function lsnHydrate(){
+      try{
+        var j=await (await authedFetch('/api/sets/shelf')).json();
+        var m={};
+        ((j&&j.sets)||[]).forEach(function(r){ if(r.added_at && !r.heard_at){ var k=lsnKey(r.video_id, r.source||'yt'); if(k) m[lsnK(k)]=1; } });
+        _lsnAdded=m; lsnPaint();
+      }catch(_){}
+      if(_lsnPend && currentUser){ var p=_lsnPend; _lsnPend=null; if(!_lsnAdded[p]) lsnSet(p, true); }   // signed in from a + tap → finish the add
+    }
+    function lsnSet(key, added, quiet){
+      var i=key.indexOf('|'), src=key.slice(0,i), id=key.slice(i+1), meta=_lsnMeta[key]||{};
+      var prev=!!_lsnAdded[key];
+      if(added) _lsnAdded[key]=1; else delete _lsnAdded[key];
+      lsnPaint(key);
+      var body={ id:id, source:src, added:!!added };
+      if(added) Object.keys(meta).forEach(function(f){ if(meta[f]!=null && meta[f]!=='') body[f]=meta[f]; });
+      authedFetch('/api/sets/shelf',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body) })
+        .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+        .then(function(){ if(currentRoute()==='listen') lsnRender(); })
+        .catch(function(){ if(prev) _lsnAdded[key]=1; else delete _lsnAdded[key]; lsnPaint(key); showToast('Could not save that. Try again.'); });
+      // Adding is silent: the tick is the answer. Taking out gives Undo.
+      if(!added && !quiet) showToastAction('Taken out of Your sets', 'Undo', function(){ lsnSet(key, true, true); });
+    }
+    // ONE delegated handler for every + in the app (cards, line-up, Listen, dock).
+    document.addEventListener('click', function(e){
+      var b=e.target.closest && e.target.closest('.set-add[data-sk]'); if(!b) return;
+      e.preventDefault(); e.stopPropagation();
+      var key=b.dataset.sk;
+      if(!currentUser){ _lsnPend=key; openAuth(); return; }
+      lsnSet(key, !_lsnAdded[key]);
+    }, true);
+
+    // ── HEARD: add up the seconds actually PLAYED (not the position — a scrub
+    // ahead is not listening) and report them; the server marks a set heard at
+    // 70% of its length. Every ~60 s, on pause, on stop and on page hide.
+    var _hs={ key:null, cur:null, secs:0, last:null, dur:0 };
+    function lsnCurrent(){
+      if(!active || !active.button) return null;
+      var d=active.button.dataset||{}, k=null, title='';
+      if(currentType==='yt'){
+        var vid=curVideoId; try{ if(!vid && ytPlayer && ytPlayer.getVideoData) vid=ytPlayer.getVideoData().video_id; }catch(_){}
+        k=lsnKey(vid,'yt');
+        try{ title=(ytPlayer && ytPlayer.getVideoData && ytPlayer.getVideoData().title)||''; }catch(_){}
+      } else if(currentType==='sc' && d.sc){
+        var nts=/NTS Radio$/.test(d.sub||'');
+        k=lsnKey(d.sc, nts?'nts':'sc');
+        title=String(d.sub||'').replace(/ · (SoundCloud|NTS Radio)$/,'');
+      }
+      if(!k) return null;
+      var key=lsnK(k);
+      if(!_lsnMeta[key]) _lsnMeta[key]={ artistSlug:d.slug||'', artistName:d.name||'', title:title||d.name||'', thumb:(k.source==='yt'?'https://i.ytimg.com/vi/'+k.id+'/mqdefault.jpg':(d.poster||'')) };
+      return { key:key, id:k.id, source:k.source };
+    }
+    function lsnFlush(beacon){
+      var n=Math.floor(_hs.secs);
+      if(!_hs.cur || n<1 || !currentUser) return;
+      _hs.secs-=n;
+      var body={ id:_hs.cur.id, source:_hs.cur.source, secs:n };
+      if(_hs.dur>0) body.duration=Math.round(_hs.dur);
+      if(beacon && navigator.sendBeacon){
+        // text/plain keeps it a simple request (no preflight); the cookie rides along.
+        try{ if(navigator.sendBeacon(API_BASE+'/api/sets/heard', new Blob([JSON.stringify(body)],{type:'text/plain'}))) return; }catch(_){}
+      }
+      authedFetch('/api/sets/heard',{ method:'POST', keepalive:true, headers:{'Content-Type':'application/json'}, body:JSON.stringify(body) })
+        .then(function(r){ return r.ok?r.json():null; })
+        .then(function(j){ if(j && j.heard && currentRoute()==='listen') lsnRender(); })   // it leaves both lists by itself
+        .catch(function(){});
+    }
+    var _hsWasOn=false;
+    function lsnTick(){
+      var c=lsnCurrent();
+      if((c&&c.key)!==_hs.key){
+        lsnFlush();
+        _hs={ key:c?c.key:null, cur:c, secs:0, last:null, dur:0 };
+        var da=document.getElementById('dock-add');
+        if(da){
+          if(c){ var tmp=document.createElement('div'); tmp.innerHTML=setAddHTML(c); var nb=tmp.firstChild; nb.id='dock-add'; da.replaceWith(nb); }
+          else da.hidden=true;
+        }
+      }
+      if(!c) return;
+      if(ppOn && !scrubbing){
+        if(_hs.last!=null){ var d=pos-_hs.last; if(d>0 && d<=3) _hs.secs+=d; }
+        _hs.last=pos;
+      } else _hs.last=null;
+      if(dur>0) _hs.dur=dur;
+      if(_hs.secs>=60 || (_hsWasOn && !ppOn)) lsnFlush();
+      _hsWasOn=ppOn;
+    }
+    setInterval(lsnTick, 1000);
+    window.addEventListener('pagehide', function(){ lsnFlush(true); });
+    document.addEventListener('visibilitychange', function(){ if(document.visibilityState==='hidden') lsnFlush(true); });
+
+    // ── the page: /listen/ ──
+    function lsnDur(s){ s=Math.round(s||0); if(!s) return ''; var h=Math.floor(s/3600), m=Math.floor((s%3600)/60), x=s%60, p=function(n){ return String(n).padStart(2,'0'); }; return h? h+':'+p(m)+':'+p(x) : m+':'+p(x); }
+    function lsnWhy(g){
+      if(!g || !g.date) return null;
+      var day=String(g.date).slice(0,10), venue=String(g.venue||'').toUpperCase();
+      if(day===todayISO()) return { t:'TONIGHT'+(venue?' · '+venue:''), warm:true };
+      var d=new Date(day+'T12:00:00');
+      if(isNaN(d)) return null;
+      return { t:d.toLocaleDateString('en-GB',{ weekday:'short', day:'numeric', month:'short' }).replace(/,/g,'').toUpperCase()+(venue?' · '+venue:''), warm:false };
+    }
+    // One card, the artist Sets tab's own (.fp-skw). o = { set, why, add }.
+    function lsnCard(o, i){
+      var s=o.set, d=lsnDur(s.duration), k=lsnKey(s.id, s.source);
+      var thumb=s.thumb || (s.source==='yt'?'https://i.ytimg.com/vi/'+s.id+'/mqdefault.jpg':'');
+      var badge=s.source==='yt'?'YT':(s.source==='nts'?'NTS':'SC');
+      var add=o.add ? setAddHTML(k, { artistSlug:s.artistSlug||'', artistName:s.artistName||'', title:s.title||'', duration:s.duration||null, thumb:s.thumb||null, publishedAt:s.publishedAt||null }) : '';
+      return '<div class="fp-skw'+(add?' has-add':'')+'"><button class="fp-sk" type="button" data-li="'+i+'">'+
+        '<span class="fp-sk-th"'+(thumb?' style="background-image:url(\''+esc(thumb)+'\')"':'')+'>'+(thumb?'':genPoster(s.title||'Set'))+
+        (d?'<span class="fp-sk-dur">'+esc(d)+'</span>':'')+'<span class="fp-sk-pl">'+PLAY_SVG+'</span></span>'+
+        (o.why?'<span class="fp-sk-why'+(o.why.warm?' warm':'')+'">'+esc(o.why.t)+'</span>':'')+
+        '<span class="fp-sk-ti">'+esc(s.title||s.artistName||'Set')+'</span>'+
+        '<span class="fp-sk-ch">'+esc(s.artistName||'')+(d?'<span class="fp-sk-cd"> · '+esc(d)+'</span>':'')+' · '+badge+'</span></button>'+add+'</div>';
+    }
+    // Play entry i of the page's list; the dock queue is the rest of the list.
+    function lsnPlay(list, i){
+      var q=list.map(function(s){
+        var who={ slug:s.artistSlug||'', name:s.artistName||s.title||'Set' };
+        if(s.source==='yt') return { slug:who.slug||'set', name:who.name, videoId:s.id, poster:s.thumb||'' };
+        return { slug:who.slug, name:who.name, scUrl:s.url||s.id, title:s.title||'', poster:s.thumb||'', src:s.source==='nts'?'NTS Radio':'SoundCloud' };
+      });
+      scQErr=0; scQ=q; playScQ(i);
+    }
+    var _lsnHeardOpen=false, _lsnSeq=0;
+    async function openListen(){
+      if(location.pathname!==SC_BASE+'listen/') history.pushState({sc:1},'',SC_BASE+'listen/');
+      _lsnHeardOpen=false;
+      var cm=cityMeta();
+      openPanel('<div class="lsn"><div class="rad-hd"><span class="kick">'+esc(cm.name.toUpperCase())+'</span>'+
+        '<h2 class="rad-h1">Listen</h2>'+
+        '<p class="rad-sub">Sets you added, and new sets from artists you want to see.</p></div>'+
+        '<div id="lsn-body"><div class="empty" style="padding:16px 0"><span class="spinner"></span></div></div></div>');
+      setSeo('Listen | soundcheck', 'Sets you added, and new sets from artists you want to see.', null, location.origin+SC_BASE+'listen/');
+      syncTabs();
+      await whenAuthKnown();
+      lsnRender();
+    }
+    async function lsnRender(){
+      var body=document.getElementById('lsn-body'); if(!body) return;
+      var seq=++_lsnSeq;
+      if(!currentUser){
+        body.innerHTML='<div class="sec-h">Your sets</div><p class="lsn-empty">Sign in, then tap + on any set (on an artist, a gig or the player) and it waits here.</p>'+
+          '<div class="sec-h gap">From your wanna see</div><p class="lsn-empty">Sign in and tap Wanna see on an artist. Their newest set shows up here, soonest gig first.</p>'+
+          '<button class="fp-ab" type="button" id="lsn-signin">Sign in</button>';
+        document.getElementById('lsn-signin').addEventListener('click', function(){ openAuth(); });
+        return;
+      }
+      var j=null;
+      try{ var r=await authedFetch('/api/listen'); if(r.ok) j=await r.json(); }catch(_){}
+      if(seq!==_lsnSeq || currentRoute()!=='listen') return;
+      if(!j){ body.innerHTML='<p class="lsn-empty">Could not load Listen. <button class="fp-ab" type="button" id="lsn-retry">Try again</button></p>'; document.getElementById('lsn-retry').addEventListener('click', lsnRender); return; }
+      var yours=j.yours||[], recs=j.fromWannaSee||[], heardN=j.heardCount||0;
+      // everything the server calls "yours" is added — keep the + state honest
+      yours.forEach(function(s){ var k=lsnKey(s.id,s.source); if(k) _lsnAdded[lsnK(k)]=1; });
+      var list=yours.concat(recs.map(function(x){ return x.set; }));
+      var wantN=Object.keys(picks.artists).filter(function(s){ return artStatus(s)==='wanna_see'; }).length;
+      var intro=false; try{ intro=!yours.length && !heardN && recs.length>0 && !localStorage.getItem('sc_lsn_intro'); }catch(_){}   // first run: wanna see already fills it (states board C)
+      var h='';
+      if(intro) h+='<div class="lsn-intro" id="lsn-intro"><p>Listen keeps the sets you add, and the newest sets from artists you want to see. Play one past 70% and it counts as heard.</p><button type="button" aria-label="Dismiss"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>';
+      h+='<div class="sec-h">Your sets<span class="ct">'+yours.length+'</span></div>';
+      if(yours.length) h+='<div class="fp-sets-grid">'+yours.map(function(s,i){ return lsnCard({ set:s, add:true }, i); }).join('')+'</div>';
+      else h+='<p class="lsn-empty">'+(heardN?'All heard. Tap + on any set to add more.':(intro?'Tap + on any set to keep it here.':'Nothing here yet. Tap + on any set (on an artist, a gig or the player) and it waits here.'))+'</p>';
+      h+='<div class="sec-h gap">From your wanna see<span class="ct">'+(recs.length||wantN?'soonest gig first':'no artists yet')+'</span></div>';
+      if(recs.length) h+='<div class="fp-sets-grid">'+recs.map(function(x,i){ return lsnCard({ set:x.set, why:lsnWhy(x.nextGig), add:true }, yours.length+i); }).join('')+'</div>';
+      else if(wantN) h+='<p class="lsn-empty">All heard. When one of your '+wantN+' artist'+(wantN===1?'':'s')+' posts a new set, it lands here.</p>';
+      else h+='<p class="lsn-empty">Tap Wanna see on an artist. Their newest set shows up here, soonest gig first.</p><button class="fp-ab" type="button" id="lsn-find">Find artists</button>';
+      if(heardN) h+='<div><button class="lsn-heard" type="button" id="lsn-heard" aria-expanded="'+_lsnHeardOpen+'">Heard · '+heardN+'<svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></button></div><div id="lsn-heard-list"></div>';
+      body.innerHTML=h;
+      body.querySelectorAll('.fp-sk[data-li]').forEach(function(b){ b.addEventListener('click', function(){ lsnPlay(list, +b.dataset.li); }); });
+      var fa=document.getElementById('lsn-find'); if(fa) fa.addEventListener('click', function(){ openSearch(); });
+      var ib=document.querySelector('#lsn-intro button'); if(ib) ib.addEventListener('click', function(){ try{ localStorage.setItem('sc_lsn_intro','1'); }catch(_){} var n=document.getElementById('lsn-intro'); if(n) n.remove(); });
+      var hb=document.getElementById('lsn-heard');
+      if(hb) hb.addEventListener('click', function(){ _lsnHeardOpen=!_lsnHeardOpen; hb.setAttribute('aria-expanded', String(_lsnHeardOpen)); lsnHeardList(); });
+      if(_lsnHeardOpen) lsnHeardList();
+    }
+    // Heard: newest heard first. Long-press (or right-click) a set → "Not heard".
+    async function lsnHeardList(){
+      var box=document.getElementById('lsn-heard-list'); if(!box) return;
+      if(!_lsnHeardOpen){ box.innerHTML=''; return; }
+      var j=null; try{ var r=await authedFetch('/api/sets/heard'); if(r.ok) j=await r.json(); }catch(_){}
+      if(!_lsnHeardOpen || !document.getElementById('lsn-heard-list')) return;
+      var hs=(j&&j.heard)||[];
+      box.innerHTML=hs.length?'<div class="fp-sets-grid">'+hs.map(function(s,i){ return lsnCard({ set:s }, i); }).join('')+'</div>':'';
+      box.querySelectorAll('.fp-sk[data-li]').forEach(function(b){
+        var s=hs[+b.dataset.li], t=null, longed=false;
+        function unhear(){
+          showToastAction('Heard: '+(s.title||'this set'), 'Not heard', function(){
+            authedFetch('/api/sets/heard',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ id:s.id, source:s.source, heard:false }) })
+              .then(function(r){ if(!r.ok) throw 0; lsnRender(); }).catch(function(){ showToast('Could not save that. Try again.'); });
+          });
+        }
+        b.addEventListener('contextmenu', function(e){ e.preventDefault(); unhear(); });
+        b.addEventListener('pointerdown', function(e){ if(e.pointerType==='mouse') return; longed=false; t=setTimeout(function(){ longed=true; unhear(); }, 550); });
+        ['pointerup','pointerleave','pointercancel'].forEach(function(ev){ b.addEventListener(ev, function(){ clearTimeout(t); }); });
+        b.addEventListener('click', function(e){ if(longed){ e.preventDefault(); longed=false; return; } lsnPlay(hs, +b.dataset.li); });
+      });
+    }
+
     async function signOut(){
       try{ await authedFetch('/api/auth/logout',{ method:'POST' }); }catch(_){}
       try{ localStorage.removeItem(SESSION_KEY); localStorage.removeItem('sc_acct'); }catch(_){}
-      _hadAccount=false; currentUser=null; renderAccount();
+      _hadAccount=false; currentUser=null; _lsnAdded={}; renderAccount();
       // renderAccount() only repaints the HEADER widget. Sign out is almost
       // always pressed FROM the profile page, which stayed on screen showing
       // the account that no longer exists — so the button looked dead and you
@@ -10570,7 +10894,10 @@
               var d=it.dur?fmtDur(it.dur):'';
               // "Mixmag \u00b7 YT" — the set's name, then where it came from.
               var sub=esc(it.src)+' \u00b7 '+it.badge;
-              return '<div class="fp-skw"><button class="fp-sk" type="button" data-i="'+i+'">'+
+              // The + (Your sets). Mixcloud has no Listen key, so no control there.
+              var sk=it.kind==='yt'?lsnKey(it.videoId,'yt'):(it.kind==='mc'?null:lsnKey(it.url||it.audio, it.badge==='NTS'?'nts':'sc'));
+              var add=setAddHTML(sk, { artistSlug:slug, artistName:artist, title:it.title||'', duration:it.dur||null, thumb:it.thumb||null, publishedAt:it.date||null });
+              return '<div class="fp-skw'+(add?' has-add':'')+'"><button class="fp-sk" type="button" data-i="'+i+'">'+
                 // A set with no artwork gets the generated poster, the same one
                 // the dock and every event card use. An empty grey box reads as
                 // a page that failed to load; a coloured one reads as a set.
@@ -10578,7 +10905,7 @@
                 (it.thumb?'':genPoster(it.title||'Set'))+
                 (d?'<span class="fp-sk-dur">'+esc(d)+'</span>':'')+'<span class="fp-sk-pl">'+PLAY_SVG+'</span></span>'+
                 '<span class="fp-sk-ti">'+esc(it.title)+'</span><span class="fp-sk-ch">'+sub+'</span></button>'+
-                '</div>';
+                add+'</div>';
             }).join('')+'</div>';
 
             // A YouTube row starts a queue of the YouTube rows, so next/prev walk
@@ -11908,6 +12235,13 @@
           prewarmSets(lq, function(slug, lt){
             var btn=lineupBox.querySelector('.fp-lu-pl[data-slug="'+(window.CSS&&CSS.escape?CSS.escape(slug):slug)+'"]');
             if(btn && !lt) btn.remove();
+            // The + for the set this row's play button starts (Listen v2).
+            if(btn && lt && !btn.parentNode.querySelector('.set-add')){
+              var who=(lq.filter(function(x){ return x.slug===slug; })[0])||{};
+              var sk=lt.kind==='yt'?lsnKey(lt.videoId,'yt'):lsnKey(lt.url, lt.src==='NTS Radio'?'nts':'sc');
+              var html=setAddHTML(sk, { artistSlug:slug, artistName:who.name||'', title:lt.title||'', thumb:lt.art||(lt.kind==='yt'&&lt.videoId?'https://i.ytimg.com/vi/'+lt.videoId+'/mqdefault.jpg':null), publishedAt:isNaN(lt.t)?null:new Date(lt.t).toISOString() });
+              if(html) btn.insertAdjacentHTML('afterend', html);
+            }
           });
           lineupBox.querySelectorAll('.fp-lu-pl[data-slug]').forEach(function(b){ b.addEventListener('click',function(){
             var sl=b.dataset.slug;
@@ -13190,6 +13524,7 @@
       else if(hash==='search') openSearch();
       else if(hash==='discover') openDiscover();
       else if(hash==='scenes') openScenes();
+      else if(hash==='listen') openListen();
       else if(hash==='map') openMap();
       else if(hash==='scene') openCityScene(pathCitySlug());
       else if(hash==='picks') openMyPicks();
@@ -13743,7 +14078,7 @@
     // treated AS a city: /lists/ made currentCity 'lists', so the home feed asked
     // for events in a city called "lists" and the hub asked for its guides, which
     // came back empty. Add every new top-level route to this list.
-    var CITY_SEG_RE=/^(dj|a|u|v|club|e|n|promoter|scenes|lists)$/;
+    var CITY_SEG_RE=/^(dj|a|u|v|club|e|n|promoter|scenes|lists|listen)$/;
     function pathRoute(){
       if(!onScPath()) return null;
       var rest=location.pathname.slice(SC_BASE.length).replace(/\/$/,'');
@@ -13761,6 +14096,7 @@
       if(m) return m[1];
       if(/^(?:club|v)\/.+/.test(rest)) return rest;      // legacy city-less /club|v/<slug>
       if(rest==='scenes') return 'scenes';               // /scenes → all-cities scene index
+      if(rest==='listen') return 'listen';               // /listen → Your sets + From your wanna see
       if(/^[a-z0-9-]+\/scene$/.test(rest)) return 'scene';// /<city>/scene → city scene guide
       if(rest==='lists') return 'lists';                 // /lists → guides + lists hub
       // /<city>/<slug>/ → a guide (genre, area or this-weekend). LAST, because
@@ -14121,7 +14457,7 @@
       // Home is the only one that CLOSES rather than opens — same job as the
       // mobile bottom-bar Home: leave any open page, then go to the top.
       if(n==='home'){ if(document.body.classList.contains('page-on')) goGrid(); window.scrollTo({top:0,behavior:'smooth'}); syncTabs(); }
-      else if(n==='scenes') openScenes(); else if(n==='radio') openRadio(); }); });
+      else if(n==='scenes') openScenes(); else if(n==='listen') openListen(); }); });
     var _hlog=document.getElementById('hdr-log'); if(_hlog) _hlog.addEventListener('click',function(){ openLog(); });
     // filters: the genre / price / near row is collapsed by default; the sliders
     // button reveals it (and shows a salmon dot when a filter is live).
@@ -14310,7 +14646,7 @@
     // home grid — while working fine once the app is already open. admin, map,
     // import, diary and pl/ were all missing, so every one of those was an
     // un-shareable, un-bookmarkable dead link. Add the case in BOTH places.
-    if(_bootRoute && /^(account|search|picks|feed|log|discover|scenes|scene|map|upcoming|import|admin|diary|lists|u\/|dj\/|a\/|club\/|v\/|e\/|n\/|pl\/|promoters\/|promoter\/|areas\/|guide\/|similar\/|list\/)/.test(_bootRoute)){
+    if(_bootRoute && /^(account|search|picks|feed|log|discover|scenes|listen|scene|map|upcoming|import|admin|diary|lists|u\/|dj\/|a\/|club\/|v\/|e\/|n\/|pl\/|promoters\/|promoter\/|areas\/|guide\/|similar\/|list\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
       // Same flag the popstate handler uses: this URL is being RESTORED, not

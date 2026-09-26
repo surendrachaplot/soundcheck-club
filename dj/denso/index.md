@@ -1,8 +1,8 @@
 # Denso
 
-Denso is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Enredadera, Madrid on Fri, 2 Oct 2026.
+Denso is a Electronica and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Enredadera, Madrid on Fri, 2 Oct 2026.
 
-Denso is an electronica and techno artist based in Spain, tracked on soundcheck, with 14 sets logged across Barcelona and Madrid. Often billed alongside Valleyk, MSKS and Modesto. Next up: La Enredadera, Madrid on Fri 2 Oct.
+Denso is an electronica and techno artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona and Madrid. Often billed alongside Valleyk, MSKS and Modesto. Next up: La Enredadera, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Denso is an electronica and techno artist based in Spain, tracked on soundcheck,
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | La Enredadera | Madrid |
 | Sat, 10 Oct 2026 | Cadavra | Madrid |
+| Fri, 30 Oct 2026 | Specka | Madrid |
 
 ## Recently played
 

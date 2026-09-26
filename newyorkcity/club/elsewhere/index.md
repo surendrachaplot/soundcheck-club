@@ -9,7 +9,7 @@ Elsewhere is a music venue in New York City listed on soundcheck. 24 upcoming gi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Mina, LOSTBOYJAY, Losing Stereo, Beneath x ELECTROSOL | Beneath, Blvck Truffle, LOSTBOYJAY, Mike Foch |
-| Sat, 26 Sept 2026 | Phantogram (DJ Set) *Sold Out*, Laila Amira | Laila Amira, Phantogram |
+| Sat, 26 Sept 2026 | Phantogram (DJ Set), Laila Amira | Laila Amira, Phantogram |
 | Sun, 27 Sept 2026 | R&B and Ribs |  |
 | Wed, 30 Sept 2026 | Countdown to the Rent Freeze |  |
 | Thu, 1 Oct 2026 | BKG: Boydell, sasababy, Ladler | Boydell, sasababy |

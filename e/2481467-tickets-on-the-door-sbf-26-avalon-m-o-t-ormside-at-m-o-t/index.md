@@ -1,0 +1,38 @@
+# Tickets on the door ✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹ at M.O.T
+
+Tickets on the door ✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹ on Sat 26 Sept, London. 24 artists on the bill: Angel D'lite, Authentically Plastic, Beneath and Daksh and 20 more. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 26 Sept 2026 |
+| Venue | M.O.T |
+| City | London |
+
+## Line-up
+
+- Angel D'lite
+- Authentically Plastic
+- Beneath
+- Daksh
+- Debit
+- DJ Gonz
+- DJ Lycox
+- DJ Plead
+- Gavsborg
+- Grace Sands
+- Iration Steppas
+- Jerome Hill
+- Joe Cotch
+- John T. Gast
+- k means
+- Lo Simple
+- Mellowdramatics
+- Raisa K
+- re:ni
+- Resimota
+- Rezzett
+- Shackleton
+- XT1ANA
+- Zoe Pea
+
+*Source: [soundcheck](https://soundcheck.club/e/2481467-tickets-on-the-door-sbf-26-avalon-m-o-t-ormside-at-m-o-t/)*

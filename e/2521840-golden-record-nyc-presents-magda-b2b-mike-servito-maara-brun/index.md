@@ -1,6 +1,6 @@
 # Golden Record NYC presents Magda B2B Mike Servito, Maara, Bruno Schmidt at Green Room NYC
 
-Golden Record NYC presents Magda B2B Mike Servito, Maara, Bruno Schmidt at Green Room NYC on Sat 26 Sept, New York City. 8 artists on the bill: Armii1n, Bruno Schmidt, Kiyoshi and Maara and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Golden Record NYC presents Magda B2B Mike Servito, Maara, Bruno Schmidt at Green Room NYC on Sat 26 Sept, New York City. 6 artists on the bill: Bruno Schmidt, Maara, Magda and Mike Servito and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,7 @@ Golden Record NYC presents Magda B2B Mike Servito, Maara, Bruno Schmidt at Green
 
 ## Line-up
 
-- Armii1n
 - Bruno Schmidt
-- Kiyoshi
 - Maara
 - Magda
 - Mike Servito

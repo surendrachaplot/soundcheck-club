@@ -1,6 +1,6 @@
 # M.O.T
 
-M.O.T is a music venue in London with 35 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹" on Sat, 26 Sept 2026.
+M.O.T is a music venue in London with 35 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Tickets on the door ✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹" on Sat, 26 Sept 2026.
 
 M.O.T is a music venue in London listed on soundcheck. 35 upcoming gigs, with line-ups including 1LDK, Agility, Angel D'lite and Ansome and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
@@ -8,7 +8,7 @@ M.O.T is a music venue in London listed on soundcheck. 35 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | ✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹ | Angel D'lite, Authentically Plastic, Beneath, DJ Gonz, DJ Lycox, DJ Plead, Daksh, Debit, Gavsborg, Grace Sands, Iration Steppas, Jerome Hill, Joe Cotch, John T. Gast, Lo Simple, Mellowdramatics, Raisa K, Resimota, Rezzett, Shackleton, XT1ANA, Zoe Pea, k means, re:ni |
+| Sat, 26 Sept 2026 | Tickets on the door ✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹ | Angel D'lite, Authentically Plastic, Beneath, DJ Gonz, DJ Lycox, DJ Plead, Daksh, Debit, Gavsborg, Grace Sands, Iration Steppas, Jerome Hill, Joe Cotch, John T. Gast, Lo Simple, Mellowdramatics, Raisa K, Resimota, Rezzett, Shackleton, XT1ANA, Zoe Pea, k means, re:ni |
 | Thu, 1 Oct 2026 | Twinspinsz ⋆˚𖥔 Reformist & Friends  | Reformist, TENFOLD |
 | Thu, 1 Oct 2026 | TECHNO IN LONDON - OPEN DECKS & SOCIAL |  |
 | Sat, 3 Oct 2026 | Don't | Jerome Hill, Peder Mannerfelt, the butcher bird |

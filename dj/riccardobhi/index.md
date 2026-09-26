@@ -1,14 +1,15 @@
 # Riccardo BHI
 
-Riccardo BHI is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Circolo Amelia, Milan on Sun, 27 Sept 2026.
+Riccardo BHI is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Circolo Amelia, Milan on Sun, 27 Sept 2026.
 
-Riccardo BHI is a house and electronica artist based in Italy, tracked on soundcheck, with 25 sets logged across Amsterdam, Madrid, Milan and Rome. Often billed alongside Acidgigi, Acid Gigi and Bulma Brief. Next up: Circolo Amelia, Milan on Sun 27 Sept.
+Riccardo BHI is a house and electronica artist based in Italy, tracked on soundcheck, with 26 sets logged across Amsterdam, Madrid, Milan and Rome. Often billed alongside Acidgigi, Acid Gigi and Bulma Brief. Next up: Circolo Amelia, Milan on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Circolo Amelia | Milan |
+| Thu, 22 Oct 2026 | MOGO | Milan |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Vienna's
 
-Vienna's is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "GBX Day Party" on Sat, 26 Sept 2026.
+Vienna's is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "September Weekend" on Sun, 27 Sept 2026.
 
-Vienna's is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including George Bowie and Nanna Makina. Browse upcoming dates, start times and who's playing. 20 New St, Paisley PA1 1YB.
+Vienna's is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including Nanna Makina. Browse upcoming dates, start times and who's playing. 20 New St, Paisley PA1 1YB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | GBX Day Party | George Bowie |
 | Sun, 27 Sept 2026 | September Weekend |  |
 | Fri, 13 Nov 2026 | I AM A RAVER presents NANNA MAKINA | Nanna Makina |
 | Sat, 28 Nov 2026 | Revival: DJ Vance |  |
