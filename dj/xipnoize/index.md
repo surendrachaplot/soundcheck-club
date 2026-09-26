@@ -1,6 +1,6 @@
 # XipNoize
 
-XipNoize is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pérola Negra Club, Porto on Sat, 26 Sept 2026.
+XipNoize is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Pérola Negra Club, Porto on Sat, 26 Sept 2026.
 
 XipNoize is a house and techno artist based in Spain, tracked on soundcheck, with 41 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Gabo Oliveira, PAZ WAZ HERE and NOBODYISALICE. Next up: Pérola Negra Club, Porto on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ XipNoize is a house and techno artist based in Spain, tracked on soundcheck, wit
 
 Gabo Oliveira, PAZ WAZ HERE, NOBODYISALICE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xipnoize/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xipnoize/)*

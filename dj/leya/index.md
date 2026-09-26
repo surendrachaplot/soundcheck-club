@@ -1,6 +1,6 @@
 # LEYA
 
-LEYA is a Experimental and Electronica artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Mécanique Ondulatoire, Paris on Mon, 28 Sept 2026.
+LEYA is a Experimental and Electronica artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Mécanique Ondulatoire, Paris on Mon, 28 Sept 2026.
 
 LEYA is an experimental and electronica artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Brussels and Cologne and 9 more. Often billed alongside Andriana-Yaroslava Saienko, Heinali and Still House Plants. Next up: La Mécanique Ondulatoire, Paris on Mon 28 Sept.
 
@@ -30,4 +30,4 @@ LEYA is an experimental and electronica artist tracked on soundcheck, with 20 se
 
 Andriana-Yaroslava Saienko, Heinali, Still House Plants
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leya/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leya/)*

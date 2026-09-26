@@ -1,6 +1,6 @@
 # Loxy
 
-Loxy is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Moon Club, Bristol on Fri, 2 Oct 2026.
+Loxy is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Moon Club, Bristol on Fri, 2 Oct 2026.
 
 Loxy is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Berlin and Birmingham and 17 more. Often billed alongside Doc Scott, Blackeye MC and DJ Ink. Next up: Moon Club, Bristol on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Loxy is a drum & bass and jungle artist based in United Kingdom, tracked on soun
 
 Doc Scott, Blackeye MC, DJ Ink
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loxy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loxy/)*

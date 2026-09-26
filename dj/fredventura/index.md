@@ -1,6 +1,6 @@
 # Fred Ventura
 
-Fred Ventura is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Inter-City, The Hague on Sat, 26 Sept 2026.
+Fred Ventura is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Inter-City, The Hague on Sat, 26 Sept 2026.
 
 Fred Ventura is a disco and italo disco artist based in Italy, tracked on soundcheck, with 7 sets logged across Berlin, Milan and The Hague. Often billed alongside Alden Tyrell, Alessandro Adriani and Bonzai Bonner. Next up: Inter-City, The Hague on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Fred Ventura is a disco and italo disco artist based in Italy, tracked on soundc
 
 Alden Tyrell, Alessandro Adriani, Bonzai Bonner
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredventura/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredventura/)*

@@ -1,6 +1,6 @@
 # Voice of User
 
-Voice of User is a Broken Beat and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tendance, Prague on Wed, 30 Sept 2026.
+Voice of User is a Broken Beat and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tendance, Prague on Wed, 30 Sept 2026.
 
 Voice of User is a broken beat and drum & bass artist based in Czech Republic, tracked on soundcheck, with 8 sets logged across Berlin and Prague. Often billed alongside Agem, Hovercat and Molecular Structures. Next up: Tendance, Prague on Wed 30 Sept.
 
@@ -24,4 +24,4 @@ Voice of User is a broken beat and drum & bass artist based in Czech Republic, t
 
 Agem, Hovercat, Molecular Structures
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceofuser/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceofuser/)*

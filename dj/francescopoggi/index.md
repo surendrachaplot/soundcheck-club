@@ -1,6 +1,6 @@
 # Francesco Poggi
 
-Francesco Poggi is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Dalston Den, London on Sat, 26 Sept 2026.
+Francesco Poggi is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Dalston Den, London on Sat, 26 Sept 2026.
 
 Francesco Poggi is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 147 sets logged across Dublin, Lisbon, London and Madrid and 2 more. Often billed alongside Enrico Chirchiello, Bibiminor and Duwat?. Next up: Dalston Den, London on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Francesco Poggi is a tech house and house artist based in United Kingdom, tracke
 
 Enrico Chirchiello, Bibiminor, Duwat?
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescopoggi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescopoggi/)*

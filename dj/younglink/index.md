@@ -1,6 +1,6 @@
 # Young link
 
-Young link is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jupiter Disco, New York City on Sun, 1 Nov 2026.
+Young link is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Jupiter Disco, New York City on Sun, 1 Nov 2026.
 
 Young link is a techno and trance artist based in United States of America, tracked on soundcheck, with 14 sets logged across New York City. Often billed alongside Luk333, XXHARDBIT3S and PAX. Next up: Jupiter Disco, New York City on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Young link is a techno and trance artist based in United States of America, trac
 
 Luk333, XXHARDBIT3S, PAX (2)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/younglink/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/younglink/)*

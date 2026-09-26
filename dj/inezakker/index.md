@@ -1,6 +1,6 @@
 # Inez Akker
 
-Inez Akker is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Melkweg, Amsterdam on Tue, 6 Oct 2026.
+Inez Akker is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Melkweg, Amsterdam on Tue, 6 Oct 2026.
 
 Inez Akker is a techno and dub techno artist based in Spain, tracked on soundcheck, with 38 sets logged across Amsterdam, Ghent, Malaga and Rotterdam and 1 more. Often billed alongside Dexon, Antonio Fevola and rebrånded. Next up: Melkweg, Amsterdam on Tue 6 Oct.
 
@@ -26,4 +26,4 @@ Inez Akker is a techno and dub techno artist based in Spain, tracked on soundche
 
 Dexon, Antonio Fevola, rebrånded
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inezakker/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inezakker/)*

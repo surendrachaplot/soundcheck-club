@@ -1,6 +1,6 @@
 # Benedek
 
-Benedek is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at BAR Inc, Osaka on Fri, 23 Oct 2026.
+Benedek is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at BAR Inc, Osaka on Fri, 23 Oct 2026.
 
 Benedek is a house and disco artist based in United States of America, tracked on soundcheck, with 35 sets logged across Bali, Bangkok, Berlin and Detroit and 12 more. Often billed alongside Kikiorix, Ryan Spencer and Apiento. Next up: BAR Inc, Osaka on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Benedek is a house and disco artist based in United States of America, tracked o
 
 Kikiorix, Ryan Spencer, Apiento
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benedek/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benedek/)*

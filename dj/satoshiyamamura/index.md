@@ -1,6 +1,6 @@
 # Satoshi Yamamura
 
-Satoshi Yamamura is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at San Francisco, Amsterdam on Sat, 24 Oct 2026.
+Satoshi Yamamura is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at San Francisco, Amsterdam on Sat, 24 Oct 2026.
 
 Satoshi Yamamura is a house and disco artist tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Cork and Rotterdam and 1 more. Often billed alongside Robert Bergman, Field Notes DJs and Calypso Steve. Next up: San Francisco, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Satoshi Yamamura is a house and disco artist tracked on soundcheck, with 22 sets
 
 Robert Bergman, Field Notes DJs, Calypso Steve
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshiyamamura/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshiyamamura/)*

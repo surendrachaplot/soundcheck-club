@@ -1,6 +1,6 @@
 # Ble Azure Peninsula
 
-Ble Azure Peninsula is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Tropical Experience 2026 with Fideles" on Sun, 11 Oct 2026.
+Ble Azure Peninsula is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Tropical Experience 2026 with Fideles" on Sun, 11 Oct 2026.
 
 Ble Azure Peninsula is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-ups including Amelia, Fideles and Innassi. Browse upcoming dates, start times and who's playing. Alimos, 17455, Leoforos Poseidonos 70.
 
@@ -14,4 +14,4 @@ Ble Azure Peninsula is a music venue in Athens listed on soundcheck. 1 upcoming 
 
 Alimos, 17455, Leoforos Poseidonos 70, Athens
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/ble-azure-peninsula/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/ble-azure-peninsula/)*

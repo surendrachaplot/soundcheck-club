@@ -1,14 +1,13 @@
 # Esmé
 
-Esmé is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at renae, Manchester on Fri, 25 Sept 2026.
+Esmé is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The DBA, Manchester on Sun, 27 Sept 2026.
 
-Esmé is a techno and house artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Glasgow, Leeds, Liverpool and London and 3 more. Often billed alongside April (UK), Jase Jeffery and Luke Daniels. Next up: renae, Manchester on Fri 25 Sept.
+Esmé is a techno and house artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Glasgow, Leeds, Liverpool and London and 3 more. Often billed alongside April (UK), Jase Jeffery and Luke Daniels. Next up: The DBA, Manchester on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | renae | Manchester |
 | Sun, 27 Sept 2026 | The DBA | Manchester |
 | Fri, 9 Oct 2026 | TBA - Multiple Venues across Sheffield & Rotherham | North |
 | Sat, 17 Oct 2026 | Honey Street Studio | Manchester |
@@ -16,6 +15,7 @@ Esmé is a techno and house artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
+- renae, Manchester — Fri, 25 Sept 2026
 - The White Hotel, Manchester — Wed, 23 Sept 2026
 - The DBA, Manchester — Sat, 29 Aug 2026
 - The DBA, Manchester — Sat, 27 Jun 2026
@@ -23,10 +23,9 @@ Esmé is a techno and house artist based in United Kingdom, tracked on soundchec
 - renae, Manchester — Sat, 23 May 2026
 - West Indian Centre, Leeds — Sun, 3 May 2026
 - Hackney Wick Multiple Venues, London — Sat, 2 May 2026
-- Unit3, Manchester — Sat, 25 Apr 2026
 
 ## Shares bills with
 
 April (UK), Jase Jeffery, Luke Daniels
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esme/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esme/)*

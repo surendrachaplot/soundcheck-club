@@ -1,6 +1,6 @@
 # MORA (FI)
 
-MORA (FI) is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Korjaamo, Helsinki on Wed, 30 Sept 2026.
+MORA (FI) is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Korjaamo, Helsinki on Wed, 30 Sept 2026.
 
 MORA (FI) is a bass and baile funk artist based in Finland, tracked on soundcheck, with 57 sets logged across Berlin, Helsinki, Melbourne and Naples and 2 more. Often billed alongside KOFU, Max Jaarte and Katerina. Next up: Korjaamo, Helsinki on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ MORA (FI) is a bass and baile funk artist based in Finland, tracked on soundchec
 
 KOFU, Max Jaarte, Katerina
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mora-fi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mora-fi/)*

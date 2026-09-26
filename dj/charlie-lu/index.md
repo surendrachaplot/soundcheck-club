@@ -1,6 +1,6 @@
 # charli/e
 
-charli/e is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Amp, Munster on Sat, 24 Oct 2026.
+charli/e is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Amp, Munster on Sat, 24 Oct 2026.
 
 charli/e is a house and techno artist tracked on soundcheck, with 28 sets logged across Berlin, Hamburg, Leipzig and Munster and 1 more. Often billed alongside Beqqi, Aimé You and ALKARLINE. Next up: Amp, Munster on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ charli/e is a house and techno artist tracked on soundcheck, with 28 sets logged
 
 Beqqi, Aimé You, ALKARLINE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie-lu/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie-lu/)*

@@ -1,6 +1,6 @@
 # Voss
 
-Voss is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar How, Amsterdam on Fri, 23 Oct 2026.
+Voss is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bar How, Amsterdam on Fri, 23 Oct 2026.
 
 Voss is a house and minimal artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam. Often billed alongside Daniël, no:attitude and Frank Haag. Next up: Bar How, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Voss is a house and minimal artist based in Netherlands, tracked on soundcheck, 
 
 Daniël, no:attitude, Frank Haag
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voss/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voss/)*

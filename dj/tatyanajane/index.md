@@ -1,6 +1,6 @@
 # Tatyana Jane
 
-Tatyana Jane is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Tatyana Jane is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
 Tatyana Jane is a techno and electro artist based in France, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Busy P, Greg and Skrillex. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Tatyana Jane is a techno and electro artist based in France, tracked on soundche
 
 Busy P, Greg (2), Skrillex
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tatyanajane/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tatyanajane/)*

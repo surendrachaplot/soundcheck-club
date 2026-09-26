@@ -1,6 +1,6 @@
 # Electra (2)
 
-Electra (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Void Club, Berlin on Sat, 10 Oct 2026.
+Electra (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Void Club, Berlin on Sat, 10 Oct 2026.
 
 Electra is a techno and industrial artist based in Colombia, tracked on soundcheck, with 9 sets logged across Athens, Berlin, Leipzig and Lisbon and 2 more. Often billed alongside Khyodo, SAS and A.M.C.. Next up: Void Club, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Electra is a techno and industrial artist based in Colombia, tracked on soundche
 
 Khyodo, SAS (2), A.M.C.
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/electra-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/electra-2/)*

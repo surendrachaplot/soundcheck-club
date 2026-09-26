@@ -1,6 +1,6 @@
 # Kenjinho
 
-Kenjinho is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bonobo, Tokyo on Thu, 1 Oct 2026.
+Kenjinho is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bonobo, Tokyo on Thu, 1 Oct 2026.
 
 Kenjinho is a house and experimental artist based in Brazil, tracked on soundcheck, with 25 sets logged across Bangkok and Tokyo. Often billed alongside 7e, Baru and DJ PS2 DESBLOQUEADO. Next up: Bonobo, Tokyo on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Kenjinho is a house and experimental artist based in Brazil, tracked on soundche
 
 7e, Baru, DJ PS2 DESBLOQUEADO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjinho/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjinho/)*

@@ -1,6 +1,6 @@
 # Sam Madi
 
-Sam Madi is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Supermarket, Zurich on Fri, 2 Oct 2026.
+Sam Madi is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Supermarket, Zurich on Fri, 2 Oct 2026.
 
 Sam Madi is an electronica and techno artist based in Switzerland, tracked on soundcheck, with 8 sets logged across Berlin and Zurich. Often billed alongside Carol Fernandez, Patrick Ruprecht and ARTËM. Next up: Supermarket, Zurich on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Sam Madi is an electronica and techno artist based in Switzerland, tracked on so
 
 Carol Fernandez, Patrick Ruprecht, ARTËM
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammadi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammadi/)*

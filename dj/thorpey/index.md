@@ -1,6 +1,6 @@
 # Thorpey
 
-Thorpey is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Thorpey is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Thorpey is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Brighton, Bristol, Leeds and London and 4 more. Often billed alongside Dr Cryptic, Phatworld and Cardiac. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Thorpey is a bass and garage artist based in United Kingdom, tracked on soundche
 
 Dr Cryptic, Phatworld, Cardiac
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thorpey/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thorpey/)*

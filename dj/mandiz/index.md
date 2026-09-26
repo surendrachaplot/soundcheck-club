@@ -1,6 +1,6 @@
 # Mandiz
 
-Mandiz is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Negroni Bistro & Sushi Bar, Miami on Thu, 15 Oct 2026.
+Mandiz is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Negroni Bistro & Sushi Bar, Miami on Thu, 15 Oct 2026.
 
 Mandiz is a tech house and house artist based in Canada, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Ibiza and Miami and 2 more. Often billed alongside Manzone & Strong, Mike Nervous and Barroness. Next up: Negroni Bistro & Sushi Bar, Miami on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Mandiz is a tech house and house artist based in Canada, tracked on soundcheck, 
 
 Manzone & Strong, Mike Nervous, Barroness
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mandiz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mandiz/)*

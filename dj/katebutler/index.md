@@ -1,6 +1,6 @@
 # Kate Butler
 
-Kate Butler is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Flux Studios D2, Dublin on Sat, 31 Oct 2026.
+Kate Butler is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Flux Studios D2, Dublin on Sat, 31 Oct 2026.
 
 Kate Butler is a club and footwork artist tracked on soundcheck, with 6 sets logged across Berlin, Cork and Dublin. Often billed alongside don rosco, RP Boo and Ale Hop. Next up: Flux Studios D2, Dublin on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Kate Butler is a club and footwork artist tracked on soundcheck, with 6 sets log
 
 don rosco, RP Boo, Ale Hop
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katebutler/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katebutler/)*

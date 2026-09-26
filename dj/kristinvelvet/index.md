@@ -1,6 +1,6 @@
 # Kristin Velvet
 
-Kristin Velvet is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pacha, Munich on Sat, 26 Sept 2026.
+Kristin Velvet is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Pacha, Munich on Sat, 26 Sept 2026.
 
 Kristin Velvet is a house and techno artist based in Australia, tracked on soundcheck, with 56 sets logged across Austria, Bali, Barcelona and Berlin and 15 more. Often billed alongside Daniel Steinberg, Damian Lazarus and Frankie Flowerz. Next up: Pacha, Munich on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Kristin Velvet is a house and techno artist based in Australia, tracked on sound
 
 Daniel Steinberg, Damian Lazarus, Frankie Flowerz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinvelvet/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinvelvet/)*

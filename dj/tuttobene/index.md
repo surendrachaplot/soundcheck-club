@@ -1,6 +1,6 @@
 # TUTTOBENE
 
-TUTTOBENE is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 2 Oct 2026.
+TUTTOBENE is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 2 Oct 2026.
 
 TUTTOBENE is a tech house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Hamburg and Munich. Often billed alongside 2cute2destroy, ACE [DE] and Anabel Arroyo. Next up: Bahnwärter Thiel, Munich on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ TUTTOBENE is a tech house and techno artist based in Germany, tracked on soundch
 
 2cute2destroy, ACE [DE], Anabel Arroyo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tuttobene/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tuttobene/)*

@@ -1,6 +1,6 @@
 # N00M1
 
-N00M1 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at BASIS, Utrecht on Fri, 6 Nov 2026.
+N00M1 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at BASIS, Utrecht on Fri, 6 Nov 2026.
 
 N00M1 is a techno and acid artist based in Netherlands, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Cologne and Malta and 4 more. Often billed alongside DIØN, KARAH and Azyr. Next up: BASIS, Utrecht on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ N00M1 is a techno and acid artist based in Netherlands, tracked on soundcheck, w
 
 DIØN, KARAH, Azyr
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n00m1/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n00m1/)*

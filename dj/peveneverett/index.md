@@ -1,6 +1,6 @@
 # Peven Everett
 
-Peven Everett is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Berlin on Sun, 25 Oct 2026.
+Peven Everett is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Berlin on Sun, 25 Oct 2026.
 
 Peven Everett is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 12 sets logged across Berlin, Chicago, Lisbon and London and 4 more. Often billed alongside Ameer Brooks, Coflo and Conrad Lee. Next up: TBA, Berlin on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Peven Everett is a house and funk / soul artist based in United States of Americ
 
 Ameer Brooks, Coflo, Conrad Lee
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peveneverett/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peveneverett/)*

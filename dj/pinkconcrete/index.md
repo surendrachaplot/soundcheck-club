@@ -1,6 +1,6 @@
 # Pink Concrete
 
-Pink Concrete is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+Pink Concrete is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
 Pink Concrete is a techno and house artist based in Turkey, tracked on soundcheck, with 150 sets logged across Amsterdam, Athens, Berlin and Chicago and 24 more. Often billed alongside Adamatron, Raketa95 and aláya. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Pink Concrete is a techno and house artist based in Turkey, tracked on soundchec
 
 Adamatron, Raketa95, aláya
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkconcrete/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkconcrete/)*

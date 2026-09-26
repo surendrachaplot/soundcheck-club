@@ -1,6 +1,6 @@
 # Jakobin & Domino
 
-Jakobin & Domino is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Soulkitchen Vienna, Vienna on Fri, 16 Oct 2026.
+Jakobin & Domino is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Soulkitchen Vienna, Vienna on Fri, 16 Oct 2026.
 
 Jakobin & Domino are a disco and house duo tracked on soundcheck, with 8 sets logged across Berlin and Vienna. Often billed alongside Simonlebon, LeSale and Lee Stevens. Next up: Soulkitchen Vienna, Vienna on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Jakobin & Domino are a disco and house duo tracked on soundcheck, with 8 sets lo
 
 Simonlebon, LeSale, Lee Stevens
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakobindomino/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakobindomino/)*

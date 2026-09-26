@@ -1,6 +1,6 @@
 # YAREE
 
-YAREE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nyapi, Seoul on Thu, 1 Oct 2026.
+YAREE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Nyapi, Seoul on Thu, 1 Oct 2026.
 
 YAREE is a house and tech house artist based in South Korea, tracked on soundcheck, with 29 sets logged across Seoul and Taipei. Often billed alongside Uni, July and NUSNOOM. Next up: Nyapi, Seoul on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ YAREE is a house and tech house artist based in South Korea, tracked on soundche
 
 Uni (3), July (1), NUSNOOM
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yaree/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yaree/)*

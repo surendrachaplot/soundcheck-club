@@ -1,6 +1,6 @@
 # Motip White
 
-Motip White is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Beate Uwe, Berlin on Sun, 11 Oct 2026.
+Motip White is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Beate Uwe, Berlin on Sun, 11 Oct 2026.
 
 Motip White is a house and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Barcelona, Berlin, Cologne and Düsseldorf and 9 more. Often billed alongside Redfreya, Alexander Maier and P.Toile. Next up: Beate Uwe, Berlin on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ Motip White is a house and techno artist based in Germany, tracked on soundcheck
 
 Redfreya, Alexander Maier, P.Toile
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/motipwhite-de/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/motipwhite-de/)*

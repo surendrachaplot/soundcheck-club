@@ -1,6 +1,6 @@
 # Le Saint
 
-Le Saint is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Badaboum, Paris on Sat, 31 Oct 2026.
+Le Saint is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Badaboum, Paris on Sat, 31 Oct 2026.
 
 Le Saint is an electro and house artist based in France, tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, Brussels and Lyon and 4 more. Often billed alongside Aubry, Illatonik and Naominitel. Next up: Badaboum, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Le Saint is an electro and house artist based in France, tracked on soundcheck, 
 
 Aubry, Illatonik, Naominitel
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lesaint/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lesaint/)*

@@ -1,6 +1,6 @@
 # AMANDA SZE
 
-AMANDA SZE is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Exhibition London, London on Sat, 26 Sept 2026.
+AMANDA SZE is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Exhibition London, London on Sat, 26 Sept 2026.
 
 AMANDA SZE is a garage and bass artist tracked on soundcheck, with 9 sets logged across Hong Kong, Kuala Lumpur and London. Often billed alongside KIDS KING, MIRACLE and PSY.P. Next up: Exhibition London, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ AMANDA SZE is a garage and bass artist tracked on soundcheck, with 9 sets logged
 
 KIDS KING, MIRACLE, PSY.P
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amandasze/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amandasze/)*

@@ -1,6 +1,6 @@
 # Dan Costello
 
-Dan Costello is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
+Dan Costello is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
 
 Dan Costello is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Ibiza, London and Manchester and 1 more. Often billed alongside Mike Morrisey, Luke Welsh and MPhilly. Next up: Toekomstmuziek, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Dan Costello is a tech house and minimal artist based in United Kingdom, tracked
 
 Mike Morrisey, Luke Welsh, MPhilly
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dancostello/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dancostello/)*

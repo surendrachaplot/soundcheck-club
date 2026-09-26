@@ -1,6 +1,6 @@
 # Fisha
 
-Fisha is a Club and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Horizon, Brighton, Brighton on Sat, 17 Oct 2026.
+Fisha is a Club and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Horizon, Brighton, Brighton on Sat, 17 Oct 2026.
 
 Fisha is a club and trance artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Birmingham, Brighton, Bristol and Ibiza and 2 more. Often billed alongside Chris Bayne, Edele Andaya and Graham Gold. Next up: Horizon, Brighton, Brighton on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Fisha is a club and trance artist based in United Kingdom, tracked on soundcheck
 
 Chris Bayne, Edele Andaya, Graham Gold
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fisha/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fisha/)*

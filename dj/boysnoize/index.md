@@ -1,6 +1,6 @@
 # Boys Noize
 
-Boys Noize is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Boys Noize is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 Boys Noize is a techno and house artist based in Germany, tracked on soundcheck, with 158 sets logged across Amsterdam, Austin, Barcelona and Berlin and 50 more. Often billed alongside VTSS, MCR-T and DJ Tennis. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ Boys Noize is a techno and house artist based in Germany, tracked on soundcheck,
 
 VTSS, MCR-T, DJ Tennis
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*

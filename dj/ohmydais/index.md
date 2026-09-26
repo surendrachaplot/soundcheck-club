@@ -1,6 +1,6 @@
 # ohmydais
 
-ohmydais is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bricks, London on Sat, 14 Nov 2026.
+ohmydais is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bricks, London on Sat, 14 Nov 2026.
 
 ohmydais is a techno and house artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Berlin, Bristol, Leeds and London and 3 more. Often billed alongside fae (UK), Ell Murphy and Highrise. Next up: Bricks, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ohmydais is a techno and house artist based in United Kingdom, tracked on soundc
 
 fae (UK), Ell Murphy, Highrise
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmydais/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmydais/)*

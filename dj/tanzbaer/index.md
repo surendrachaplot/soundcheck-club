@@ -1,6 +1,6 @@
 # TANZBAER
 
-TANZBAER is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lokschuppen Berlin, Berlin on Tue, 6 Oct 2026.
+TANZBAER is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Lokschuppen Berlin, Berlin on Tue, 6 Oct 2026.
 
 TANZBAER is a trance and techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside DJ Jetset, DJ Spaßgetränk and EZA (DE). Next up: Lokschuppen Berlin, Berlin on Tue 6 Oct.
 
@@ -16,4 +16,4 @@ TANZBAER is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 DJ Jetset, DJ Spaßgetränk, EZA (DE)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanzbaer/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanzbaer/)*

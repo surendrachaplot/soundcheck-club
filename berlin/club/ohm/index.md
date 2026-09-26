@@ -1,15 +1,13 @@
 # OHM
 
-OHM is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "LA CASITA presents: Banu, CH3LO b2b Huamaniser, V.(Live), SPICY LAB & Much More" on Thu, 24 Sept 2026.
+OHM is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "version" on Sat, 26 Sept 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including Aaronovsky, aeriform, AliA and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including Aaronovsky, aeriform, AliA and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | LA CASITA presents: Banu, CH3LO b2b Huamaniser, V.(Live), SPICY LAB & Much More | Banu, CH3LO, Huamaniser, S.O.N.O.S, THIRTEEN DOZE, VCO |
-| Fri, 25 Sept 2026 | twin | Cosmo (KR), Lb Honne, Richard Akingbehin, Tina (DE) |
 | Sat, 26 Sept 2026 | version | Aaronovsky, DJ Betska, DJ Hops, Orson, ZE:NA |
 | Thu, 1 Oct 2026 | ARA x OHM |  |
 | Fri, 2 Oct 2026 | Body Language pres. Body Talk | Manolo. (DE), Stella Zekri, Tam Tam |
@@ -18,9 +16,11 @@ OHM is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line
 | Sun, 4 Oct 2026 | Schallträume - from switching spaces to sonic dreams | Audrey Danza, ELSA (DE), Laima Adelaide |
 | Thu, 8 Oct 2026 | Ouch | Anti Ribeiro, Dj Goodboy, Rafush |
 | Fri, 9 Oct 2026 | AWK SCL | Katiusha, Pariah, cheng nwsh |
+| Thu, 15 Oct 2026 | Fear Of Silence x Ghosttown | Brootworth, Delta Division, Harba, Rompa, Vorraum, re:ni |
+| Sat, 17 Oct 2026 | nice 2 be nice | Asphalt DJ, Dj Heartbreak, Jesse G, Naomi (Berlin), Reduks, Shuray & Walle |
 
 ## Address
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

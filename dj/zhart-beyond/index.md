@@ -1,6 +1,6 @@
 # zhart (BeYond)
 
-zhart (BeYond) is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kater, Berlin on Fri, 30 Oct 2026.
+zhart (BeYond) is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Kater, Berlin on Fri, 30 Oct 2026.
 
 zhart (BeYond) is a deep house and progressive house artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin and Stuttgart. Often billed alongside Seyde, Baba The Knife and Corios. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ zhart (BeYond) is a deep house and progressive house artist based in Germany, tr
 
 Seyde, Baba The Knife, Corios
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zhart-beyond/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zhart-beyond/)*

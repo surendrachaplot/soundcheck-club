@@ -1,13 +1,14 @@
 # Seimei
 
-Seimei is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Seimei is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Homage Brewing, Los Angeles on Sat, 26 Sept 2026.
 
-Seimei is a techno and bass artist based in Japan, tracked on soundcheck, with 120 sets logged across Kyoto, New York City, Osaka and San Francisco/Oakland and 1 more. Often billed alongside Carpainter, Andrew (TREKKIE TRAX) and MoEPiKA. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 2 Oct.
+Seimei is a techno and bass artist based in Japan, tracked on soundcheck, with 121 sets logged across Kyoto, Los Angeles, New York City and Osaka and 2 more. Often billed alongside Carpainter, Andrew (TREKKIE TRAX) and MoEPiKA. Next up: Homage Brewing, Los Angeles on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Homage Brewing | Los Angeles |
 | Fri, 2 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | ZEROTOKYO | Tokyo |
 | Sat, 21 Nov 2026 | clubasia | Tokyo |
@@ -27,4 +28,4 @@ Seimei is a techno and bass artist based in Japan, tracked on soundcheck, with 1
 
 Carpainter, Andrew (TREKKIE TRAX), MoEPiKA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seimei/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seimei/)*

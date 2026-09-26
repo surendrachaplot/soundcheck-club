@@ -1,6 +1,6 @@
 # D365
 
-D365 is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Aether Club Budapest, Budapest on Sat, 26 Sept 2026.
+D365 is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Aether Club Budapest, Budapest on Sat, 26 Sept 2026.
 
 D365 is a house and minimal artist based in Hungary, tracked on soundcheck, with 30 sets logged across Budapest. Often billed alongside Captain Knuckles, Adx and Erro. Next up: Aether Club Budapest, Budapest on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ D365 is a house and minimal artist based in Hungary, tracked on soundcheck, with
 
 Captain Knuckles, Adx, Erro
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d365/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d365/)*

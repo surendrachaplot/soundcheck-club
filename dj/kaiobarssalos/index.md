@@ -1,6 +1,6 @@
 # KaioBarssalos
 
-KaioBarssalos is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paloma, Berlin on Sat, 10 Oct 2026.
+KaioBarssalos is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Paloma, Berlin on Sat, 10 Oct 2026.
 
 KaioBarssalos is a techno and electronica artist based in Brazil, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Buenos Aires and Madrid and 4 more. Often billed alongside Flip Devonian, Lost my Keys and Maccari. Next up: Paloma, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ KaioBarssalos is a techno and electronica artist based in Brazil, tracked on sou
 
 Flip Devonian, Lost my Keys, Maccari
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiobarssalos/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiobarssalos/)*

@@ -1,6 +1,6 @@
 # Juls
 
-Juls is a Afrobeat and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Brixton Jamm, London on Fri, 16 Oct 2026.
+Juls is a Afrobeat and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Brixton Jamm, London on Fri, 16 Oct 2026.
 
 Juls is an afrobeat and afrobeats artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Barcelona, Bristol, Copenhagen and Galway and 7 more. Often billed alongside Larizzle, Jordss and Keyrah. Next up: Brixton Jamm, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Juls is an afrobeat and afrobeats artist based in United Kingdom, tracked on sou
 
 Larizzle, Jordss, Keyrah
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juls-gh/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juls-gh/)*

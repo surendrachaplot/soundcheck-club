@@ -1,6 +1,6 @@
 # OllyK
 
-OllyK is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Starlane Pizza Bar, London on Sun, 27 Sept 2026.
+OllyK is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Starlane Pizza Bar, London on Sun, 27 Sept 2026.
 
 OllyK is a techno artist based in Ukraine, tracked on soundcheck, with 19 sets logged across Krakow and London. Often billed alongside Yova Yager, Luc * and 1BYAKKO. Next up: Starlane Pizza Bar, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ OllyK is a techno artist based in Ukraine, tracked on soundcheck, with 19 sets l
 
 Yova Yager, Luc *, 1BYAKKO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ollyk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ollyk/)*

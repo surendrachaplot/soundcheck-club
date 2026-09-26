@@ -1,6 +1,6 @@
 # Runy
 
-Runy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at KPGT, Belgrade on Fri, 2 Oct 2026.
+Runy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at KPGT, Belgrade on Fri, 2 Oct 2026.
 
 Runy is a house and techno artist based in Serbia, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Belgrade and Vienna. Often billed alongside Janko, Nemax and Anna Wall. Next up: KPGT, Belgrade on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Runy is a house and techno artist based in Serbia, tracked on soundcheck, with 2
 
 Janko, Nemax, Anna Wall
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/runy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/runy/)*

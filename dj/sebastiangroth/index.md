@@ -1,6 +1,6 @@
 # Sebastian Groth
 
-Sebastian Groth is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Schrotty, Cologne on Fri, 16 Oct 2026.
+Sebastian Groth is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Schrotty, Cologne on Fri, 16 Oct 2026.
 
 Sebastian Groth is a techno and acid artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Cologne, Düsseldorf and Frankfurt and 2 more. Often billed alongside Kerstin Eden, Klang der Nacht and LUCA&LUKAS. Next up: Schrotty, Cologne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Sebastian Groth is a techno and acid artist based in Germany, tracked on soundch
 
 Kerstin Eden, Klang der Nacht, LUCA&LUKAS
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiangroth/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiangroth/)*

@@ -1,8 +1,8 @@
 # Bar Twenty Two
 
-Bar Twenty Two is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Milk & Sugar House Nation ADE Session 2026" on Thu, 22 Oct 2026.
+Bar Twenty Two is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Milk & Sugar House Nation ADE Session 2026" on Thu, 22 Oct 2026.
 
-Bar Twenty Two is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Almared, Angelo Ferreri, Black Legend and Emanuele Esposito and 2 more. Browse upcoming dates, start times and who's playing. Leidseplein 22, 1017 PT Amsterdam.
+Bar Twenty Two is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Almared, Angelo Ferreri, Black Legend and Emanuele Esposito and 2 more. Browse upcoming dates, start times and who's playing. Leidseplein 22, 1017 PT Amsterdam.
 
 ## What's on
 
@@ -10,9 +10,10 @@ Bar Twenty Two is a music venue in Amsterdam listed on soundcheck. 2 upcoming gi
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Milk & Sugar House Nation ADE Session 2026 | Almared, Emanuele Esposito, James Hurr, Maex, Mattei & Omich, Milk & Sugar, Peppe Citarella, The Cube Guys |
 | Fri, 23 Oct 2026 | .VISIONS AMSTERDAM | Angelo Ferreri, Black Legend, FEX (IT), Hotswing, Lorenzo Spano, Luca Guerrieri, MR. SKIN, Mattei & Omich, TWOEF |
+| Fri, 23 Oct 2026 | House Stars |  |
 
 ## Address
 
 Leidseplein 22, 1017 PT Amsterdam, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bar-twenty-two/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bar-twenty-two/)*

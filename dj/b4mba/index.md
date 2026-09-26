@@ -1,6 +1,6 @@
 # B4mba
 
-B4mba is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
+B4mba is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
 
 B4mba is an experimental and bass artist based in Spain, tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Brussels and Krakow and 5 more. Often billed alongside TNTC, Baba Sy and Opoku. Next up: Avalon Cafe Bermondsey, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ B4mba is an experimental and bass artist based in Spain, tracked on soundcheck, 
 
 TNTC, Baba Sy, Opoku
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b4mba/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b4mba/)*

@@ -1,6 +1,6 @@
 # Bollwerk Cologne
 
-Bollwerk Cologne is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Locura Groovy" on Sat, 26 Sept 2026.
+Bollwerk Cologne is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Locura Groovy" on Sat, 26 Sept 2026.
 
 Bollwerk Cologne is a music venue in Cologne listed on soundcheck. 2 upcoming gigs, with line-ups including Dj Kuschelschal and Raul Parra. Browse upcoming dates, start times and who's playing. Hohenzollernring 89-93, 50672 Köln, Germany.
 
@@ -15,4 +15,4 @@ Bollwerk Cologne is a music venue in Cologne listed on soundcheck. 2 upcoming gi
 
 Hohenzollernring 89-93, 50672 Köln, Germany, Cologne
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bollwerk-cologne/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bollwerk-cologne/)*

@@ -1,6 +1,6 @@
 # Innersha
 
-Innersha is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Innersha is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Innersha is a techno and experimental artist based in Armenia, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Brussels and Budapest and 12 more. Often billed alongside Dasha Rush, Claudio PRC and Decoder. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Innersha is a techno and experimental artist based in Armenia, tracked on soundc
 
 Dasha Rush, Claudio PRC, Decoder
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*

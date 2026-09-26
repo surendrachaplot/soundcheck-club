@@ -1,6 +1,6 @@
 # dirtydms
 
-dirtydms is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
+dirtydms is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
 
 dirtydms is a techno and breakbeat artist based in Netherlands, tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 5 more. Often billed alongside Helmond Lang, Kessler and Vox supreme. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ dirtydms is a techno and breakbeat artist based in Netherlands, tracked on sound
 
 Helmond Lang, Kessler, Vox supreme
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydms/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydms/)*

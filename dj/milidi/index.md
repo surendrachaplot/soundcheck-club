@@ -1,6 +1,6 @@
 # Milidi
 
-Milidi is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Milidi is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Milidi is a house and minimal artist based in Canada, tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside Negin, Steve Marto and Mary. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -13,6 +13,7 @@ Milidi is a house and minimal artist based in Canada, tracked on soundcheck, wit
 
 ## Recently played
 
+- 131 Mccormack St, Toronto — Fri, 25 Sept 2026
 - Rhythm, Toronto — Fri, 17 Jul 2026
 - Paradise Grapevine Winery, Toronto — Sat, 13 Jun 2026
 - Mooi Space, Toronto — Sat, 21 Mar 2026
@@ -20,10 +21,9 @@ Milidi is a house and minimal artist based in Canada, tracked on soundcheck, wit
 - Bambi's, Toronto — Fri, 31 Oct 2025
 - Rhythm, Toronto — Sat, 26 Jul 2025
 - Mooi Space, Toronto — Sat, 7 Jun 2025
-- Rhythm, Toronto — Sat, 10 May 2025
 
 ## Shares bills with
 
 Negin, Steve Marto, Mary (5)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milidi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milidi/)*

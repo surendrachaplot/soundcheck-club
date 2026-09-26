@@ -1,6 +1,6 @@
 # Hagop Tchaparian
 
-Hagop Tchaparian is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+Hagop Tchaparian is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 Hagop Tchaparian is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Berlin, Brussels, Dublin and London and 4 more. Often billed alongside Anish Kumar, Four Tet and 4am Kru. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Hagop Tchaparian is a house and electronica artist based in United Kingdom, trac
 
 Anish Kumar, Four Tet, 4am Kru
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hagoptchaparian/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hagoptchaparian/)*

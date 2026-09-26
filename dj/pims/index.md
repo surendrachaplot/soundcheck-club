@@ -1,6 +1,6 @@
 # Pims
 
-Pims is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Time is the new space, Rotterdam on Sat, 26 Sept 2026.
+Pims is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Time is the new space, Rotterdam on Sat, 26 Sept 2026.
 
 Pims is an electronic artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Rotterdam. Often billed alongside Afra, Krismika and Ofra. Next up: Time is the new space, Rotterdam on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Pims is an electronic artist based in Netherlands, tracked on soundcheck, with 6
 
 Afra, Krismika, Ofra
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pims/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pims/)*

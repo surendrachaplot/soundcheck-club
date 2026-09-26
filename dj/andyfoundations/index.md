@@ -1,6 +1,6 @@
 # Andy Foundations
 
-Andy Foundations is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Planet Wax, London on Sat, 10 Oct 2026.
+Andy Foundations is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Planet Wax, London on Sat, 10 Oct 2026.
 
 Andy Foundations is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Berlin and London. Often billed alongside Joe Joiner, Arkyn and EN.VEE. Next up: Planet Wax, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Andy Foundations is a jungle and hardcore artist based in United Kingdom, tracke
 
 Joe Joiner, Arkyn, EN.VEE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andyfoundations/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andyfoundations/)*

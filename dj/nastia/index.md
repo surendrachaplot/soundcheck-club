@@ -1,28 +1,29 @@
 # Nastia
 
-Nastia is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at RADION, Amsterdam on Fri, 25 Sept 2026.
+Nastia is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at OFF-Club, Brussels on Sat, 26 Sept 2026.
 
-Nastia is a techno and house artist based in Ukraine, tracked on soundcheck, with 168 sets logged across Amsterdam, Athens, Austin and Barcelona and 58 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: RADION, Amsterdam on Fri 25 Sept.
+Nastia is a techno and house artist based in Ukraine, tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: OFF-Club, Brussels on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | RADION | Amsterdam |
 | Sat, 26 Sept 2026 | OFF-Club | Brussels |
 | Sun, 27 Sept 2026 | The Rooftop at Gianpula Village | Malta |
 | Fri, 2 Oct 2026 | Hangaren | Copenhagen |
+| Sat, 3 Oct 2026 | TBA - BBBANK WILDPARK  | Karlsruhe |
+| Sat, 3 Oct 2026 | Karmen Camina | Strasbourg |
 | Sat, 17 Oct 2026 | Tresor / Globus | Berlin |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Wed, 21 Oct 2026 | RADION | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
+| Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
 | Fri, 6 Nov 2026 | Joshua Brooks | Manchester |
-| Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
-| Sat, 12 Dec 2026 | not/or/ius Club | Turin |
 
 ## Recently played
 
+- RADION, Amsterdam — Fri, 25 Sept 2026
 - Fiducial Asteria, Lyon — Sat, 19 Sept 2026
 - Tresor.West, Dortmund-essen — Sat, 12 Sept 2026
 - essaim, Paris — Fri, 31 Jul 2026
@@ -30,10 +31,9 @@ Nastia is a techno and house artist based in Ukraine, tracked on soundcheck, wit
 - MS Artville, Hamburg — Sat, 18 Jul 2026
 - RSO.BERLIN, Berlin — Sat, 18 Jul 2026
 - Les Enfants Brillants, Barcelona — Fri, 3 Jul 2026
-- Razzmatazz, Barcelona — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Stef Mendesidis, The Advent, DJ Bone
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*

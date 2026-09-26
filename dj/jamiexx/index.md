@@ -1,6 +1,6 @@
 # Jamie xx
 
-Jamie xx is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nowadays, New York City on Thu, 1 Oct 2026.
+Jamie xx is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Nowadays, New York City on Thu, 1 Oct 2026.
 
 Jamie xx is a house and techno artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Austin, Bali, Bangkok and Barcelona and 27 more. Often billed alongside Chloé Caillet, DJ Tennis and Honey Dijon. Next up: Nowadays, New York City on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Jamie xx is a house and techno artist based in United Kingdom, tracked on soundc
 
 Chloé Caillet, DJ Tennis, Honey Dijon
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiexx/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiexx/)*

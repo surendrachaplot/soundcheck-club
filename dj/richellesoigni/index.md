@@ -1,6 +1,6 @@
 # Richelle Soigni
 
-Richelle Soigni is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Studio 508, Amsterdam on Sat, 24 Oct 2026.
+Richelle Soigni is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Studio 508, Amsterdam on Sat, 24 Oct 2026.
 
 Richelle Soigni is an italo disco and disco artist based in Netherlands, tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Berlin and Rotterdam and 2 more. Often billed alongside I-F, David Vunk and Loud E. Next up: Studio 508, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Richelle Soigni is an italo disco and disco artist based in Netherlands, tracked
 
 I-F, David Vunk, Loud E
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richellesoigni/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richellesoigni/)*

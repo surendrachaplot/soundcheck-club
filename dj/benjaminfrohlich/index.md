@@ -1,6 +1,6 @@
 # Benjamin Fröhlich
 
-Benjamin Fröhlich is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Charlie, Munich on Sat, 17 Oct 2026.
+Benjamin Fröhlich is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Charlie, Munich on Sat, 17 Oct 2026.
 
 Benjamin Fröhlich is a house and techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 8 more. Often billed alongside Rosa Red, Jorkes and Rhode & Brown. Next up: Charlie, Munich on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Benjamin Fröhlich is a house and techno artist based in Germany, tracked on sou
 
 Rosa Red, Jorkes, Rhode & Brown
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminfrohlich/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminfrohlich/)*

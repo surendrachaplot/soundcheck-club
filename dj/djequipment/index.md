@@ -1,6 +1,6 @@
 # DJ Equipment
 
-DJ Equipment is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Renate, Berlin on Sat, 10 Oct 2026.
+DJ Equipment is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Renate, Berlin on Sat, 10 Oct 2026.
 
 DJ Equipment is a techno and house artist based in Switzerland, tracked on soundcheck, with 33 sets logged across Berlin, Bristol, Hamburg and Zurich. Often billed alongside Luka (CH), Bonnie OK and Jenny Cara. Next up: Renate, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ Equipment is a techno and house artist based in Switzerland, tracked on sound
 
 Luka (CH), Bonnie OK, Jenny Cara
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djequipment/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djequipment/)*

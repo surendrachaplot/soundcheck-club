@@ -1,6 +1,6 @@
 # Caniche
 
-Caniche is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tresor / Globus, Berlin on Sat, 31 Oct 2026.
+Caniche is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tresor / Globus, Berlin on Sat, 31 Oct 2026.
 
 Caniche is a techno and trance artist based in Germany, tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 19 more. Often billed alongside Mischa Beton, Specific Objects and Gydah. Next up: Tresor / Globus, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Caniche is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 Mischa Beton, Specific Objects, Gydah
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caniche/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caniche/)*

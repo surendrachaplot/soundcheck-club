@@ -1,6 +1,6 @@
 # Tommy Holohan
 
-Tommy Holohan is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+Tommy Holohan is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
 
 Tommy Holohan is a techno and house artist based in Ireland, tracked on soundcheck, with 118 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 40 more. Often billed alongside KETTAMA, Clouds and Charlie Sparks. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Tommy Holohan is a techno and house artist based in Ireland, tracked on soundche
 
 KETTAMA, Clouds, Charlie Sparks
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyholohan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyholohan/)*

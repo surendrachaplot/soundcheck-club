@@ -1,6 +1,6 @@
 # Scott Fraser
 
-Scott Fraser is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Spanners, London on Sat, 17 Oct 2026.
+Scott Fraser is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Spanners, London on Sat, 17 Oct 2026.
 
 Scott Fraser is a house and electro artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Edinburgh, Glasgow, London and Newcastle. Often billed alongside Joe Hart, Civic Grief and Ellie Stokes. Next up: Spanners, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Scott Fraser is a house and electro artist based in United Kingdom, tracked on s
 
 Joe Hart, Civic Grief, Ellie Stokes
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottfraser/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottfraser/)*

@@ -1,6 +1,6 @@
 # Tooke
 
-Tooke is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Brixton Jamm, London on Sat, 26 Sept 2026.
+Tooke is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Brixton Jamm, London on Sat, 26 Sept 2026.
 
 Tooke is a house and disco artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Late Night Disco, Lucas Vansittart and Nicola Mannini. Next up: Brixton Jamm, London on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Tooke is a house and disco artist based in United Kingdom, tracked on soundcheck
 
 Late Night Disco, Lucas Vansittart, Nicola Mannini
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tooke/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tooke/)*

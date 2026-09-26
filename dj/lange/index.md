@@ -1,6 +1,6 @@
 # Lange
 
-Lange is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
+Lange is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
 
 Lange is a trance and house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Aberdeen, Birmingham, Budapest and Ibiza and 7 more. Often billed alongside Dave Pearce, Rob Tissera and Seb Fontaine. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Lange is a trance and house artist based in United Kingdom, tracked on soundchec
 
 Dave Pearce, Rob Tissera, Seb Fontaine
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lange/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lange/)*

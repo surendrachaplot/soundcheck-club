@@ -1,6 +1,6 @@
 # Gisele South
 
-Gisele South is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ex Preso Martínez, Madrid on Sat, 3 Oct 2026.
+Gisele South is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ex Preso Martínez, Madrid on Sat, 3 Oct 2026.
 
 Gisele South is a house and reggaeton artist based in Argentina, tracked on soundcheck, with 17 sets logged across Madrid. Often billed alongside Don Amor, frankydrama and TWO EX. Next up: Ex Preso Martínez, Madrid on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Gisele South is a house and reggaeton artist based in Argentina, tracked on soun
 
 Don Amor, frankydrama, TWO EX
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giselesouth/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giselesouth/)*

@@ -1,6 +1,6 @@
 # Overmono
 
-Overmono is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hollywood Palladium, Los Angeles on Fri, 25 Sept 2026.
+Overmono is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hollywood Palladium, Los Angeles on Fri, 25 Sept 2026.
 
 Overmono is a techno and house artist based in United Kingdom, tracked on soundcheck, with 106 sets logged across Aberdeen, Amsterdam, Athens and Austin and 47 more. Often billed alongside Nia Archives, KI/KI and Ewan McVicar. Next up: Hollywood Palladium, Los Angeles on Fri 25 Sept.
 
@@ -23,6 +23,7 @@ Overmono is a techno and house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
+- Hollywood Palladium, Los Angeles — Fri, 25 Sept 2026
 - Jacaranda Baltic, Liverpool — Thu, 13 Aug 2026
 - Old Royal Naval College, London — Fri, 7 Aug 2026
 - Sønder Hoved, Copenhagen — Thu, 30 Jul 2026
@@ -30,10 +31,9 @@ Overmono is a techno and house artist based in United Kingdom, tracked on soundc
 - Colwick Country Park, Nottingham — Fri, 26 Jun 2026
 - Bois de Vincennes, Paris — Fri, 5 Jun 2026
 - Hart Plaza, Detroit — Sat, 23 May 2026
-- Buena Vista Lake, Los Angeles — Wed, 20 May 2026
 
 ## Shares bills with
 
 Nia Archives, KI/KI, Ewan McVicar
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*

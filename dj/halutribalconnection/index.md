@@ -1,6 +1,6 @@
 # HALU(Tribal Connection)
 
-HALU(Tribal Connection) is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kabukicho Cinecity Square (シネシティ広場), Tokyo on Sun, 27 Sept 2026.
+HALU(Tribal Connection) is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kabukicho Cinecity Square (シネシティ広場), Tokyo on Sun, 27 Sept 2026.
 
 HALU(Tribal Connection) is a jungle and drum & bass artist based in Japan, tracked on soundcheck, with 102 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Jungle Rock, MileZ and Frankie $. Next up: Kabukicho Cinecity Square (シネシティ広場), Tokyo on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ HALU(Tribal Connection) is a jungle and drum & bass artist based in Japan, track
 
 Jungle Rock, MileZ, Frankie $
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halutribalconnection/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halutribalconnection/)*

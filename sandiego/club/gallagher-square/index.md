@@ -1,6 +1,6 @@
 # Gallagher Square
 
-Gallagher Square is a music venue in San Diego with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "LED presents Sammy Virji with Joy Anonymous, Baby J, Sweet Like Chocolate. + Jana Tokunaga" on Sat, 17 Oct 2026.
+Gallagher Square is a music venue in San Diego with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "LED presents Sammy Virji with Joy Anonymous, Baby J, Sweet Like Chocolate. + Jana Tokunaga" on Sat, 17 Oct 2026.
 
 Gallagher Square is a music venue in San Diego listed on soundcheck. 4 upcoming gigs, with line-ups including Baby J, CHRIS STASSY, Emanuel Satie and Hot Since 82 and 2 more. Browse upcoming dates, start times and who's playing. 840 K St, San Diego, CA 92101, United States.
 
@@ -17,4 +17,4 @@ Gallagher Square is a music venue in San Diego listed on soundcheck. 4 upcoming 
 
 840 K St, San Diego, CA 92101, United States, San Diego
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/gallagher-square/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/gallagher-square/)*

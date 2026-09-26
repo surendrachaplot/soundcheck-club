@@ -1,6 +1,6 @@
 # Don Carlos
 
-Don Carlos is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hang Dai Chinese, Dublin on Sat, 21 Nov 2026.
+Don Carlos is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Hang Dai Chinese, Dublin on Sat, 21 Nov 2026.
 
 Don Carlos is a house and italo disco artist based in Italy, tracked on soundcheck, with 12 sets logged across Berlin, Dublin, Ibiza and Lisbon and 5 more. Often billed alongside Acid Gigi, Al.Essio and Alessio Tonin. Next up: Hang Dai Chinese, Dublin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Don Carlos is a house and italo disco artist based in Italy, tracked on soundche
 
 Acid Gigi, Al.Essio, Alessio Tonin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doncarlos/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doncarlos/)*

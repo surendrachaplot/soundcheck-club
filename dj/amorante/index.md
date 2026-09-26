@@ -1,6 +1,6 @@
 # Amor Ante
 
-Amor Ante is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Glove That Fits, London on Thu, 8 Oct 2026.
+Amor Ante is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Glove That Fits, London on Thu, 8 Oct 2026.
 
 Amor Ante is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Berlin, Brighton, Bristol and London and 1 more. Often billed alongside Fvck Totvm, Phåro and AKU. Next up: The Glove That Fits, London on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Amor Ante is a techno and electro artist based in United Kingdom, tracked on sou
 
 Fvck Totvm, Phåro (2), AKU (3)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amorante/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amorante/)*

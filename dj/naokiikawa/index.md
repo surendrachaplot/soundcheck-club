@@ -1,6 +1,6 @@
 # Naoki Ikawa
 
-Naoki Ikawa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Azumaya, Tokyo on Thu, 1 Oct 2026.
+Naoki Ikawa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Azumaya, Tokyo on Thu, 1 Oct 2026.
 
 Naoki Ikawa is a house and techno artist based in Japan, tracked on soundcheck, with 41 sets logged across Tokyo. Often billed alongside NAOKI, Leefia and JUN INAGAWA. Next up: Azumaya, Tokyo on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ Naoki Ikawa is a house and techno artist based in Japan, tracked on soundcheck, 
 
 NAOKI, Leefia, JUN INAGAWA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naokiikawa/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naokiikawa/)*

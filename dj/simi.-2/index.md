@@ -1,6 +1,6 @@
 # SIMI. (2)
 
-SIMI. (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Spazio Varco, North on Sat, 14 Nov 2026.
+SIMI. (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Spazio Varco, North on Sat, 14 Nov 2026.
 
 SIMI. is a techno and house artist tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Cardiff and London and 5 more. Often billed alongside Camillo, ANDREA SALVAGGIO and Ace Vision. Next up: Spazio Varco, North on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SIMI. is a techno and house artist tracked on soundcheck, with 11 sets logged ac
 
 Camillo (3), ANDREA SALVAGGIO, Ace Vision
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simi.-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simi.-2/)*

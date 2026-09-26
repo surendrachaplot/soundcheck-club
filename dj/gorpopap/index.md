@@ -1,6 +1,6 @@
 # GorpoPap
 
-GorpoPap is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ulana's, Philadelphia on Sat, 17 Oct 2026.
+GorpoPap is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ulana's, Philadelphia on Sat, 17 Oct 2026.
 
 GorpoPap is a techno and footwork artist based in United States of America, tracked on soundcheck, with 12 sets logged across Philadelphia. Often billed alongside Caiya, Blueverbs and Alien Body. Next up: Ulana's, Philadelphia on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ GorpoPap is a techno and footwork artist based in United States of America, trac
 
 Caiya, Blueverbs, Alien Body
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gorpopap/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gorpopap/)*

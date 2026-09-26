@@ -1,6 +1,6 @@
 # Optical
 
-Optical is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Le Bikini, South-west on Fri, 2 Oct 2026.
+Optical is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Le Bikini, South-west on Fri, 2 Oct 2026.
 
 Optical is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Bali, Berlin, Boston and Brighton and 16 more. Often billed alongside Ed Rush, Audio and Matrix. Next up: Le Bikini, South West on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Optical is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 Ed Rush, Audio, Matrix
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/optical/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/optical/)*

@@ -1,18 +1,18 @@
 # Sam Valle
 
-Sam Valle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Deep End, New York City on Fri, 25 Sept 2026.
+Sam Valle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Jupiter Disco, New York City on Wed, 14 Oct 2026.
 
-Sam Valle is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Amsterdam, New York City, San Francisco/Oakland and Tokyo. Often billed alongside SHRAY, Choo Choo and ceviché. Next up: The Deep End, New York City on Fri 25 Sept.
+Sam Valle is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Amsterdam, New York City, San Francisco/Oakland and Tokyo. Often billed alongside SHRAY, Choo Choo and ceviché. Next up: Jupiter Disco, New York City on Wed 14 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | The Deep End | New York City |
 | Wed, 14 Oct 2026 | Jupiter Disco | New York City |
 
 ## Recently played
 
+- The Deep End, New York City — Fri, 25 Sept 2026
 - Mood Ring, New York City — Thu, 27 Aug 2026
 - SILO, New York City — Thu, 20 Aug 2026
 - Music For A While, New York City — Fri, 31 Jul 2026
@@ -20,10 +20,9 @@ Sam Valle is a techno and house artist based in United States of America, tracke
 - public records, New York City — Thu, 2 Jul 2026
 - Bossa Nova Civic Club, New York City — Sat, 30 May 2026
 - Honey's, New York City — Fri, 29 May 2026
-- Mood Ring, New York City — Thu, 28 May 2026
 
 ## Shares bills with
 
 SHRAY, Choo Choo, ceviché
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samvalle/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samvalle/)*

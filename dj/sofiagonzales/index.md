@@ -1,6 +1,6 @@
 # Sofia Gonzales
 
-Sofia Gonzales is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Abercrombie Hotel, Sydney on Fri, 2 Oct 2026.
+Sofia Gonzales is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Abercrombie Hotel, Sydney on Fri, 2 Oct 2026.
 
 Sofia Gonzales is a techno and bass artist based in Australia, tracked on soundcheck, with 9 sets logged across Sydney. Often billed alongside Alec Sander, Bouki and Deens. Next up: Abercrombie Hotel, Sydney on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sofia Gonzales is a techno and bass artist based in Australia, tracked on soundc
 
 Alec Sander, Bouki, Deens
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiagonzales/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiagonzales/)*

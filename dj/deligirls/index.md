@@ -1,13 +1,14 @@
 # Deli Girls
 
-Deli Girls is a Experimental and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at FLUCC, Vienna on Tue, 6 Oct 2026.
+Deli Girls is a Experimental and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Deli Girls is an experimental and hardcore artist based in United States of America, tracked on soundcheck, with 34 sets logged across Berlin, Brussels, Chicago and Detroit and 18 more. Often billed alongside Baby Leo, Nídia and Pauli Cakes. Next up: FLUCC, Vienna on Tue 6 Oct.
+Deli Girls is an experimental and hardcore artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, Brussels, Chicago and Detroit and 19 more. Often billed alongside Baby Leo, Batu and Blawan. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Tue, 6 Oct 2026 | FLUCC | Vienna |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 | Sat, 10 Oct 2026 | Chausseestrasse 131 | Berlin |
@@ -25,6 +26,6 @@ Deli Girls is an experimental and hardcore artist based in United States of Amer
 
 ## Shares bills with
 
-Baby Leo, Nídia, Pauli Cakes
+Baby Leo, Batu, Blawan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deligirls/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deligirls/)*

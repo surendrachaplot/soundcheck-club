@@ -1,6 +1,6 @@
 # Gabski
 
-Gabski is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gallery, London on Thu, 1 Oct 2026.
+Gabski is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Gallery, London on Thu, 1 Oct 2026.
 
 Gabski is a tech house and house artist based in Belgium, tracked on soundcheck, with 15 sets logged across London and Manchester. Often billed alongside Ramoss, Ale Grooves and Jey Mellen. Next up: Gallery, London on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Gabski is a tech house and house artist based in Belgium, tracked on soundcheck,
 
 Ramoss, Ale Grooves, Jey Mellen
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabski/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabski/)*

@@ -1,6 +1,6 @@
 # Jeffrey Sfire
 
-Jeffrey Sfire is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Dolphin, Philadelphia on Sun, 11 Oct 2026.
+Jeffrey Sfire is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Dolphin, Philadelphia on Sun, 11 Oct 2026.
 
 Jeffrey Sfire is a house and techno artist based in United States of America, tracked on soundcheck, with 64 sets logged across Berlin, Chicago, Detroit and Helsinki and 8 more. Often billed alongside Mike Servito, Justin Cudmore and Carlos Souffront. Next up: The Dolphin, Philadelphia on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Jeffrey Sfire is a house and techno artist based in United States of America, tr
 
 Mike Servito, Justin Cudmore, Carlos Souffront
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffreysfire/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffreysfire/)*

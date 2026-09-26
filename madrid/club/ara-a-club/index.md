@@ -1,6 +1,6 @@
 # Araña Club
 
-Araña Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Insomnium Series Vol. XIV 2º Aniversario" on Fri, 25 Sept 2026.
+Araña Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Longevity Rave" on Thu, 1 Oct 2026.
 
 Araña Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Tina Technotic and Yukari. Browse upcoming dates, start times and who's playing. Madrid, Centro 28013, Calle Flor Baja 6, , Madrid.
 
@@ -8,11 +8,11 @@ Araña Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Insomnium Series Vol. XIV 2º Aniversario |  |
 | Thu, 1 Oct 2026 | Longevity Rave | Tina Technotic, Yukari |
+| Sat, 3 Oct 2026 | MAD RAVE x Elements Cave |  |
 
 ## Address
 
 Madrid, Centro 28013, Calle Flor Baja 6, , Madrid, Madrid
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ara-a-club/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ara-a-club/)*

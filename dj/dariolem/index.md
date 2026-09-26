@@ -1,14 +1,14 @@
 # Dario Lem
 
-Dario Lem is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Milan on Fri, 2 Oct 2026.
+Dario Lem is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Studionotte, Milan on Fri, 2 Oct 2026.
 
-Dario Lem is a techno and house artist based in Italy, tracked on soundcheck, with 44 sets logged across Berlin, Milan and Rome. Often billed alongside Enrico Vivaldi, Binh and Leena. Next up: TBA, Milan on Fri 2 Oct.
+Dario Lem is a techno and house artist based in Italy, tracked on soundcheck, with 44 sets logged across Berlin, Milan and Rome. Often billed alongside Enrico Vivaldi, Binh and Leena. Next up: Studionotte, Milan on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Milan |
+| Fri, 2 Oct 2026 | Studionotte | Milan |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Dario Lem is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 Enrico Vivaldi, Binh, Leena
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dariolem/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dariolem/)*

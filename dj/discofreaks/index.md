@@ -1,6 +1,6 @@
 # Disco Freaks
 
-Disco Freaks is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at H15 Scene & Studio, Copenhagen on Sun, 4 Oct 2026.
+Disco Freaks is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at H15 Scene & Studio, Copenhagen on Sun, 4 Oct 2026.
 
 Disco Freaks is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Barcelona, Copenhagen and London. Often billed alongside Jazzheadchronic, Aitch B and Al Kent. Next up: H15 Scene & Studio, Copenhagen on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Disco Freaks is a disco and funk / soul artist based in United Kingdom, tracked 
 
 Jazzheadchronic, Aitch B, Al Kent
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/discofreaks/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/discofreaks/)*

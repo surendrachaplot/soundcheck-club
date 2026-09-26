@@ -1,15 +1,13 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Mucha Discoteca" on Thu, 24 Sept 2026.
+Bar Oriente is a music venue in Mexico City with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Derrick Mckenzie (Jamiroquai) Dj Set" on Sat, 26 Sept 2026.
 
-Bar Oriente is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including AEREA, Andre VII, Borgetti and c3rpa and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
+Bar Oriente is a music venue in Mexico City listed on soundcheck. 6 upcoming gigs, with line-ups including AEREA, Andre VII, Borgetti and c3rpa and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Mucha Discoteca | Motel Flamingo |
-| Fri, 25 Sept 2026 | Ramiro Puente, Villaseñor, Enya Botello | Enya Botello, Ramiro Puente, Villaseñor |
 | Sat, 26 Sept 2026 | Derrick Mckenzie (Jamiroquai) Dj Set | Monsieur Van Pratt |
 | Fri, 2 Oct 2026 | Musumeci (Innervisions), Borgetti (Multinotes), Imanol Igoa (Gozar) | Borgetti, Musumeci |
 | Fri, 16 Oct 2026 | La Plazuela (Dj Set) |  |
@@ -21,4 +19,4 @@ Bar Oriente is a music venue in Mexico City listed on soundcheck. 8 upcoming gig
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

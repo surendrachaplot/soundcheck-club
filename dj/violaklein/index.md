@@ -1,8 +1,8 @@
 # Viola Klein
 
-Viola Klein is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
+Viola Klein is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
 
-Viola Klein is an experimental and electronica artist tracked on soundcheck, with 10 sets logged across Antwerp, Berlin, Brussels and Cologne and 2 more. Often billed alongside 1LDK, Andriana-Yaroslava Saienko and Catu Diosis. Next up: The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu 15 Oct.
+Viola Klein is an experimental and electronica artist tracked on soundcheck, with 10 sets logged across Antwerp, Berlin, Brussels and Cologne and 2 more. Often billed alongside 1LDK, Andriana-Yaroslava Saienko and Carrier. Next up: The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Viola Klein is an experimental and electronica artist tracked on soundcheck, wit
 
 ## Shares bills with
 
-1LDK, Andriana-Yaroslava Saienko, Catu Diosis
+1LDK, Andriana-Yaroslava Saienko, Carrier
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violaklein/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violaklein/)*

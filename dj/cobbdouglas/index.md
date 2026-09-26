@@ -1,14 +1,13 @@
 # Cobb Douglas
 
-Cobb Douglas is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Comfort Zone, Toronto on Fri, 25 Sept 2026.
+Cobb Douglas is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck, with 121 sets logged across Barcelona, Belgrade, Berlin and Cologne and 9 more. Often billed alongside Ozzwald, Stinny Stone and Amøn. Next up: The Comfort Zone, Toronto on Fri 25 Sept.
+Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck, with 121 sets logged across Barcelona, Belgrade, Berlin and Cologne and 9 more. Often billed alongside Ozzwald, Stinny Stone and Amøn. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | The Comfort Zone | Toronto |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Fri, 2 Oct 2026 | Casa Nube Wynwood | Miami |
 | Sat, 17 Oct 2026 | ://about blank | Berlin |
@@ -20,6 +19,7 @@ Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck
 
 ## Recently played
 
+- The Comfort Zone, Toronto — Fri, 25 Sept 2026
 - Lokschuppen Berlin, Berlin — Fri, 11 Sept 2026
 - Großer Bunkerberg Volkspark Fhain, Berlin — Sat, 5 Sept 2026
 - Lokschuppen Berlin, Berlin — Fri, 4 Sept 2026
@@ -27,10 +27,9 @@ Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck
 - Lokschuppen Berlin, Berlin — Fri, 28 Aug 2026
 - Lokschuppen Berlin, Berlin — Fri, 21 Aug 2026
 - KitKatClub, Berlin — Thu, 20 Aug 2026
-- Lokschuppen Berlin, Berlin — Wed, 19 Aug 2026
 
 ## Shares bills with
 
 Ozzwald, Stinny Stone, Amøn
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cobbdouglas/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cobbdouglas/)*

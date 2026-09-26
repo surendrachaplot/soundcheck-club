@@ -1,6 +1,6 @@
 # Simon Vuarambon
 
-Simon Vuarambon is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Native Beach Club, Cardales, Buenos Aires on Sat, 26 Sept 2026.
+Simon Vuarambon is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Native Beach Club, Cardales, Buenos Aires on Sat, 26 Sept 2026.
 
 Simon Vuarambon is a progressive house and deep house artist based in Switzerland, tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Guy Mantzur, John Digweed and Henry Saiz. Next up: TBA - Native Beach Club, Cardales, Buenos Aires on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Simon Vuarambon is a progressive house and deep house artist based in Switzerlan
 
 Guy Mantzur, John Digweed, Henry Saiz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonvuarambon/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonvuarambon/)*

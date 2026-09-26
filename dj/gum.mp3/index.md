@@ -1,6 +1,6 @@
 # gum.mp3
 
-gum.mp3 is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Trans-Pecos, New York City on Fri, 23 Oct 2026.
+gum.mp3 is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Trans-Pecos, New York City on Fri, 23 Oct 2026.
 
 gum.mp3 is a house and garage artist based in United States of America, tracked on soundcheck, with 72 sets logged across Austin, Boston, Chicago and Detroit and 12 more. Often billed alongside Swami Sound, Dazegxd and EDEN BEKELE. Next up: Trans-Pecos, New York City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ gum.mp3 is a house and garage artist based in United States of America, tracked 
 
 Swami Sound, Dazegxd, EDEN BEKELE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gum.mp3/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gum.mp3/)*

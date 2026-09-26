@@ -1,13 +1,14 @@
 # kuntress
 
-kuntress is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sinners and Saints, Washington DC on Fri, 30 Oct 2026.
+kuntress is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Boondocks, Houston on Fri, 2 Oct 2026.
 
-kuntress is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 11 sets logged across Austin, Detroit, Los Angeles and New York City and 2 more. Often billed alongside zzzzach, ALTÉGO and ARCHANGEL (US). Next up: Sinners and Saints, Washington DC on Fri 30 Oct.
+kuntress is a club and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Austin, Detroit, Houston and Los Angeles and 3 more. Often billed alongside HYPERFEMME, zzzzach and ALTÉGO. Next up: Boondocks, Houston on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Boondocks | Houston |
 | Fri, 30 Oct 2026 | Sinners and Saints | Washington DC |
 
 ## Recently played
@@ -23,6 +24,6 @@ kuntress is a club and ghetto tech artist based in United States of America, tra
 
 ## Shares bills with
 
-zzzzach, ALTÉGO, ARCHANGEL (US)
+HYPERFEMME, zzzzach, ALTÉGO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*

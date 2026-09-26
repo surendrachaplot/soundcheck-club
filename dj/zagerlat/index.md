@@ -1,6 +1,6 @@
 # ZAG ERLAT
 
-ZAG ERLAT is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Frissón, Rome on Sun, 27 Sept 2026.
+ZAG ERLAT is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Frissón, Rome on Sun, 27 Sept 2026.
 
 ZAG ERLAT is a funk / soul and disco artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Antwerp, Berlin, Bristol and Brussels and 7 more. Often billed alongside DTM Funk, Batukizer and Cami Layé Okún. Next up: Frissón, Rome on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ ZAG ERLAT is a funk / soul and disco artist based in United Kingdom, tracked on 
 
 DTM Funk, Batukizer, Cami Layé Okún
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zagerlat/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zagerlat/)*

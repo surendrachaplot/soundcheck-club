@@ -1,6 +1,6 @@
 # Felinae
 
-Felinae is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fabrik, Madrid on Sat, 3 Oct 2026.
+Felinae is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Fabrik, Madrid on Sat, 3 Oct 2026.
 
 Felinae is a techno and trance artist based in Spain, tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Budapest and Ibiza and 3 more. Often billed alongside Ozzwald, Cobb Douglas and Rowsi. Next up: Fabrik, Madrid on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Felinae is a techno and trance artist based in Spain, tracked on soundcheck, wit
 
 Ozzwald, Cobb Douglas, Rowsi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felinae/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felinae/)*

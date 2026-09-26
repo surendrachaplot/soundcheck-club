@@ -1,6 +1,6 @@
 # Piękno
 
-Piękno is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Strefa Zamnkięta - Hard Techno Division" on Fri, 6 Nov 2026.
+Piękno is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Strefa Zamnkięta - Hard Techno Division" on Fri, 6 Nov 2026.
 
 Piękno is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Mila, oriole (PL), SINTHER and VRAXX. Browse upcoming dates, start times and who's playing. Szpitalna 8a, 00-031 Warszawa.
 
@@ -14,4 +14,4 @@ Piękno is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with li
 
 Szpitalna 8a, 00-031 Warszawa, Warsaw
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/pi-kno/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/pi-kno/)*

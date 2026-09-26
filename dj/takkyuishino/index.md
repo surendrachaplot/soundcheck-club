@@ -1,6 +1,6 @@
 # Takkyu Ishino
 
-Takkyu Ishino is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ZEROTOKYO, Tokyo on Sat, 10 Oct 2026.
+Takkyu Ishino is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ZEROTOKYO, Tokyo on Sat, 10 Oct 2026.
 
 Takkyu Ishino is a techno and house artist based in Japan, tracked on soundcheck, with 38 sets logged across Berlin, Kyoto, Osaka and Tokyo. Often billed alongside Shinichi Osawa, Ririko and JUN INAGAWA. Next up: ZEROTOKYO, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Takkyu Ishino is a techno and house artist based in Japan, tracked on soundcheck
 
 Shinichi Osawa, Ririko, JUN INAGAWA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takkyuishino/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takkyuishino/)*

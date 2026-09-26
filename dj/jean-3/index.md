@@ -1,6 +1,6 @@
 # Jean (3)
 
-Jean (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at COUNTER CLUB, Tokyo on Sun, 18 Oct 2026.
+Jean (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at COUNTER CLUB, Tokyo on Sun, 18 Oct 2026.
 
 Jean is a house and techno artist tracked on soundcheck, with 17 sets logged across Amsterdam, London, Tokyo and Utrecht. Often billed alongside Alexander Koning, Erick E and ROOG. Next up: COUNTER CLUB, Tokyo on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Jean is a house and techno artist tracked on soundcheck, with 17 sets logged acr
 
 Alexander Koning, Erick E, ROOG
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jean-3/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jean-3/)*

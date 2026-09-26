@@ -1,6 +1,6 @@
 # SPORTMANN
 
-SPORTMANN is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at WDM, Hannover on Fri, 2 Oct 2026.
+SPORTMANN is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at WDM, Hannover on Fri, 2 Oct 2026.
 
 SPORTMANN is a techno and industrial artist based in Germany, tracked on soundcheck, with 55 sets logged across Bangkok, Berlin, Hamburg and Hannover and 1 more. Often billed alongside AKIIM, co:co and Carluschka. Next up: WDM, Hannover on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ SPORTMANN is a techno and industrial artist based in Germany, tracked on soundch
 
 AKIIM, co:co, Carluschka
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sportmann/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sportmann/)*

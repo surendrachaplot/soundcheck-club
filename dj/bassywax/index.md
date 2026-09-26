@@ -1,6 +1,6 @@
 # Bassywax
 
-Bassywax is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Razzmatazz, Barcelona on Sat, 26 Sept 2026.
+Bassywax is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Razzmatazz, Barcelona on Sat, 26 Sept 2026.
 
 Bassywax is a techno and electro artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona, Madrid and Porto. Often billed alongside Dans, Sylvia (ES) and Aöcram. Next up: Razzmatazz, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Bassywax is a techno and electro artist based in Spain, tracked on soundcheck, w
 
 Dans, Sylvia (ES), Aöcram
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassywax/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassywax/)*

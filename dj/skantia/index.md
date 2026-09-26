@@ -1,8 +1,8 @@
 # Skantia
 
-Skantia is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ijland, Amsterdam on Thu, 22 Oct 2026.
+Skantia is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ijland, Amsterdam on Thu, 22 Oct 2026.
 
-Skantia is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 21 more. Often billed alongside Simula, Disrupta and K Motionz. Next up: Ijland, Amsterdam on Thu 22 Oct.
+Skantia is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 21 more. Often billed alongside Simula, Disrupta and K Motionz. Next up: Ijland, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -20,11 +20,11 @@ Skantia is a drum & bass and bass artist based in United Kingdom, tracked on sou
 - UNO MALTA, Malta — Thu, 3 Sept 2026
 - LAB theCLUB, Madrid — Sat, 29 Aug 2026
 - Boston Manor Park, London — Fri, 24 Jul 2026
-- fabric, London — Fri, 24 Jul 2026
 - Lakota, Bristol — Sat, 9 May 2026
+- Now&Wow, Rotterdam — Sun, 26 Apr 2026
 
 ## Shares bills with
 
 Simula, Disrupta, K Motionz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skantia/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skantia/)*

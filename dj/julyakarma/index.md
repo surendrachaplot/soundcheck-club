@@ -1,6 +1,6 @@
 # Julya Karma
 
-Julya Karma is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hackney Bridge, London on Sat, 26 Sept 2026.
+Julya Karma is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hackney Bridge, London on Sat, 26 Sept 2026.
 
 Julya Karma is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Hackney Bridge, London on Sat 26 Sept.
 
@@ -31,4 +31,4 @@ Julya Karma is a house and techno artist tracked on soundcheck, with 98 sets log
 
 Âme, Jimi Jules, Dixon
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*

@@ -1,6 +1,6 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Rhadoo is a Minimal and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Rhadoo is a minimal and house artist based in Romania, tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -32,4 +32,4 @@ Rhadoo is a minimal and house artist based in Romania, tracked on soundcheck, wi
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

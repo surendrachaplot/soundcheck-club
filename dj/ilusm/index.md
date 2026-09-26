@@ -1,18 +1,18 @@
 # ILUSM
 
-ILUSM is a Club and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sinners and Saints, Washington DC on Fri, 25 Sept 2026.
+ILUSM is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
-ILUSM is a club and hardcore artist based in United States of America, tracked on soundcheck, with 20 sets logged across Washington DC. Often billed alongside Franxx, Girlypop Princess and DJ KORIS. Next up: Sinners and Saints, Washington DC on Fri 25 Sept.
+ILUSM is a club and hardcore artist based in United States of America, tracked on soundcheck, with 20 sets logged across Washington DC. Often billed alongside Franxx, Girlypop Princess and DJ KORIS. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Sinners and Saints | Washington DC |
 | Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
 
+- Sinners and Saints, Washington DC — Fri, 25 Sept 2026
 - TRANSMISSION DC, Washington DC — Sat, 29 Aug 2026
 - Zeba Bar, Washington DC — Sat, 1 Aug 2026
 - Sinners and Saints, Washington DC — Sat, 18 Jul 2026
@@ -20,10 +20,9 @@ ILUSM is a club and hardcore artist based in United States of America, tracked o
 - Zeba Bar, Washington DC — Sat, 6 Jun 2026
 - TRANSMISSION DC, Washington DC — Fri, 15 May 2026
 - TBA - 1414 9th St NW, 2nd Floor, Washington DC — Sat, 18 Apr 2026
-- Sinners and Saints, Washington DC — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Franxx, Girlypop Princess, DJ KORIS
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilusm/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilusm/)*

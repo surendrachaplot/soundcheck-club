@@ -1,6 +1,6 @@
 # Antek (UK)
 
-Antek (UK) is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Inverted Audio Record Store, London on Sat, 10 Oct 2026.
+Antek (UK) is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Inverted Audio Record Store, London on Sat, 10 Oct 2026.
 
 Antek (UK) is a deep house and minimal artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Decibella, Dexta and Hoss. Next up: Inverted Audio Record Store, London on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Antek (UK) is a deep house and minimal artist based in United Kingdom, tracked o
 
 Decibella, Dexta, Hoss
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antek-uk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antek-uk/)*

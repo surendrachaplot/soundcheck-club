@@ -1,8 +1,8 @@
 # Crane Hotel Faralda
 
-Crane Hotel Faralda is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Do Not Sit On ADE" on Wed, 21 Oct 2026.
+Crane Hotel Faralda is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Do Not Sit On ADE" on Wed, 21 Oct 2026.
 
-Crane Hotel Faralda is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Micca, Yulia Niko, ADRIANNA and Alex Stein and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Plein 78, 1033 WB Amsterdam, Netherlands.
+Crane Hotel Faralda is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Micca, Yulia Niko, ADRIANNA and Alex Stein and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Plein 78, 1033 WB Amsterdam, Netherlands.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Crane Hotel Faralda is a music venue in Amsterdam listed on soundcheck. 9 upcomi
 | Sat, 24 Oct 2026 | THE CRANE by Unreleased Recods | ARODES |
 | Sun, 25 Oct 2026 | SLAPPED X CraneSessions • ADE 2026 | Joyce Muniz, Manuel Falardeau, Mitch Oliver, TMPLE, Yulia Niko |
 | Sun, 25 Oct 2026 | Anywherelse presents: Bedouin at Faralda Crane — ADE 2026 [ SOLD OUT ] | Baron, Bedouin, Birds of Mind, Collé, Dorian Craft, Rockin Moroccin |
+| Mon, 26 Oct 2026 | Beleza - ADE Showcase | Malive |
 
 ## Address
 
 NDSM-Plein 78, 1033 WB Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/crane-hotel-faralda/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/crane-hotel-faralda/)*

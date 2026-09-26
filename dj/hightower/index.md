@@ -1,6 +1,6 @@
 # Hightower
 
-Hightower is a Electro and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Generator, Amsterdam on Fri, 23 Oct 2026.
+Hightower is a Electro and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Generator, Amsterdam on Fri, 23 Oct 2026.
 
 Hightower is an electro and amapiano artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin and Rotterdam. Often billed alongside Rene Engel, Ides of March and Mark Mywords. Next up: Generator, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Hightower is an electro and amapiano artist based in Netherlands, tracked on sou
 
 Rene Engel, Ides of March, Mark Mywords
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hightower/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hightower/)*

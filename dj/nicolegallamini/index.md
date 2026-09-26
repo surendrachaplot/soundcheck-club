@@ -1,6 +1,6 @@
 # Nicole Gallamini
 
-Nicole Gallamini is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Nicole Gallamini is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Nicole Gallamini is a house and tech house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Los Angeles, Miami and New York City. Often billed alongside DIFFER, Thunderpony and Berrakka. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Nicole Gallamini is a house and tech house artist based in United States of Amer
 
 DIFFER, Thunderpony, Berrakka
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolegallamini/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolegallamini/)*

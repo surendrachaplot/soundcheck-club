@@ -1,6 +1,6 @@
 # Combo Milano
 
-Combo Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Fungaroom × Arc’teryx" on Sun, 4 Oct 2026.
+Combo Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Fungaroom × Arc’teryx" on Sun, 4 Oct 2026.
 
 Combo Milano is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Delikwe, Kreggo and SteNo. Browse upcoming dates, start times and who's playing. Ripa di Porta Ticinese, 83, 20143 Milano MI, Italy.
 
@@ -14,4 +14,4 @@ Combo Milano is a music venue in Milan listed on soundcheck. 1 upcoming gig, wit
 
 Ripa di Porta Ticinese, 83, 20143 Milano MI, Italy, Milan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/combo-milano/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/combo-milano/)*

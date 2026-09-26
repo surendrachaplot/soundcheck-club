@@ -1,6 +1,6 @@
 # Doctor P
 
-Doctor P is a Dubstep and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sidney & Matilda, Sheffield on Sat, 12 Dec 2026.
+Doctor P is a Dubstep and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Sidney & Matilda, Sheffield on Sat, 12 Dec 2026.
 
 Doctor P is a dubstep and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Denver, London, Manchester and New York City and 1 more. Often billed alongside Flux Pavilion, DREAD MC and Feed Me. Next up: Sidney & Matilda, Sheffield on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ Doctor P is a dubstep and techno artist based in United Kingdom, tracked on soun
 
 Flux Pavilion, DREAD MC, Feed Me
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doctorp/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doctorp/)*

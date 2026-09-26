@@ -1,6 +1,6 @@
 # Nina Michelle
 
-Nina Michelle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Eventhuset, Stockholm on Sat, 26 Sept 2026.
+Nina Michelle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Eventhuset, Stockholm on Sat, 26 Sept 2026.
 
 Nina Michelle is a techno and house artist based in Sweden, tracked on soundcheck, with 33 sets logged across Berlin, Copenhagen, Helsinki and Stockholm. Often billed alongside MERILIN, Off The Meds and DJ KILLING. Next up: Eventhuset, Stockholm on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nina Michelle is a techno and house artist based in Sweden, tracked on soundchec
 
 MERILIN, Off The Meds, DJ KILLING
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninamichelle/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninamichelle/)*

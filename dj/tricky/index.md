@@ -1,6 +1,6 @@
 # Tricky
 
-Tricky is a Experimental and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Tricky is a Experimental and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Tricky is an experimental and hip-hop artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Bristol, Bucharest, Budapest and Copenhagen and 7 more. Often billed alongside Jenny C, Bassvictim and Beltran. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ Tricky is an experimental and hip-hop artist based in United Kingdom, tracked on
 
 ## Recently played
 
+- The Bellwether, Los Angeles — Thu, 24 Sept 2026
 - The Downs, Bristol, Bristol — Sat, 29 Aug 2026
 - VEGA, Copenhagen — Sat, 20 Jun 2026
 - Club Guesthouse, Bucharest — Thu, 11 Jun 2026
@@ -21,10 +22,9 @@ Tricky is an experimental and hip-hop artist based in United Kingdom, tracked on
 - Klub Progresja, Warsaw — Fri, 5 Jun 2026
 - Lion Super Club, Seoul — Fri, 22 May 2026
 - Troxy, London — Fri, 15 May 2026
-- Ministry Of Sound, London — Sat, 10 Aug 2024
 
 ## Shares bills with
 
 Jenny C (1), Bassvictim, Beltran
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tricky/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tricky/)*

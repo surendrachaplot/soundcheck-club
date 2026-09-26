@@ -1,15 +1,13 @@
 # Pixie Dust
 
-Pixie Dust is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bootshaus, Cologne on Fri, 25 Sept 2026.
+Pixie Dust is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 2 Oct 2026.
 
-Pixie Dust is a techno and trance artist based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside Morelia, YËDM and Amøn. Next up: Bootshaus, Cologne on Fri 25 Sept.
+Pixie Dust is a techno and trance artist based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside Morelia, YËDM and Amøn. Next up: Lokschuppen Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Bootshaus | Cologne |
-| Fri, 25 Sept 2026 | Bootshaus | Cologne |
 | Fri, 2 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 24 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
@@ -17,17 +15,17 @@ Pixie Dust is a techno and trance artist based in United States of America, trac
 
 ## Recently played
 
+- Bootshaus, Cologne — Fri, 25 Sept 2026
+- Bootshaus, Cologne — Fri, 25 Sept 2026
 - Azimut Club, Turin — Fri, 18 Sept 2026
 - Void Club, Berlin — Sat, 12 Sept 2026
 - Das Werk, Vienna — Fri, 14 Aug 2026
 - Lokschuppen Berlin, Berlin — Sun, 2 Aug 2026
 - Lokschuppen Berlin, Berlin — Fri, 17 Jul 2026
 - TBA - Ostkreuz, Berlin — Fri, 17 Jul 2026
-- ÆDEN, Berlin — Fri, 3 Jul 2026
-- Lokschuppen Berlin, Berlin — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Morelia, YËDM, Amøn
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pixiedust/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pixiedust/)*

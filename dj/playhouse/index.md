@@ -1,6 +1,6 @@
 # Play House
 
-Play House is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Maz, Paris on Sat, 3 Oct 2026.
+Play House is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at La Maz, Paris on Sat, 3 Oct 2026.
 
 Play House is an afro house and techno artist based in France, tracked on soundcheck, with 8 sets logged across Paris. Often billed alongside GrooveBøx. Next up: La Maz, Paris on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Play House is an afro house and techno artist based in France, tracked on soundc
 
 GrooveBøx
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/playhouse/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/playhouse/)*

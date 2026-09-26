@@ -1,18 +1,18 @@
 # Princess Xixi
 
-Princess Xixi is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Piehouse Coop, London on Thu, 24 Sept 2026.
+Princess Xixi is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
 
-Princess Xixi is a bass and club artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Berlin, Brighton, Bristol and Glasgow and 5 more. Often billed alongside THEMPRESS, CHEZA LUCINA and LOVECAT. Next up: Piehouse Coop, London on Thu 24 Sept.
+Princess Xixi is a bass and club artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Berlin, Brighton, Bristol and Glasgow and 5 more. Often billed alongside THEMPRESS, CHEZA LUCINA and LOVECAT. Next up: NUMBER 90 LONDON, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Piehouse Coop | London |
 | Fri, 16 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
+- Piehouse Coop, London — Thu, 24 Sept 2026
 - Hackney Bridge, London — Sun, 6 Sept 2026
 - Ollex Inn, London — Sat, 29 Aug 2026
 - Gaffe, London — Fri, 31 Jul 2026
@@ -20,10 +20,9 @@ Princess Xixi is a bass and club artist based in United Kingdom, tracked on soun
 - Brixton Jamm, London — Fri, 27 Feb 2026
 - The Jam Jar, Bristol — Fri, 23 Jan 2026
 - Soup, Manchester — Sat, 13 Dec 2025
-- Colour Factory, London — Fri, 28 Nov 2025
 
 ## Shares bills with
 
 THEMPRESS, CHEZA LUCINA, LOVECAT
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/princessxixi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/princessxixi/)*

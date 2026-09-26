@@ -1,14 +1,13 @@
 # Index
 
-Index is a music venue in Dublin with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Index x Encore: Rivo" on Fri, 25 Sept 2026.
+Index is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Index: Kepler" on Sat, 26 Sept 2026.
 
-Index is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with line-ups including Kepler, Ben Hemsley, Black Traffic and Chantel Kavanagh and 2 more. Browse upcoming dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
+Index is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including Kepler, Ben Hemsley, Black Traffic and Chantel Kavanagh and 2 more. Browse upcoming dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Index x Encore: Rivo | Nicole Spagnol, Rivo, SOUZAC |
 | Sat, 26 Sept 2026 | Index: Kepler | Jake Fitz, Kepler |
 | Fri, 2 Oct 2026 | Index x Outset: Onlynumbers | Onlynumbers |
 | Fri, 2 Oct 2026 | Index x Outset: Black Traffic & Mr. Polska | Black Traffic |
@@ -23,4 +22,4 @@ Index is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with li
 
 57 Middle Abbey St, North City, Dublin 1, D01 W573, Dublin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*

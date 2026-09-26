@@ -1,6 +1,6 @@
 # Dimension
 
-Dimension is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Factory Town, Miami on Fri, 9 Oct 2026.
+Dimension is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Factory Town, Miami on Fri, 9 Oct 2026.
 
 Dimension is a drum & bass and house artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Amsterdam, Auckland, Austin and Birmingham and 30 more. Often billed alongside Sub Focus, Culture Shock and Andy C. Next up: Factory Town, Miami on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Dimension is a drum & bass and house artist based in United Kingdom, tracked on 
 
 Sub Focus, Culture Shock, Andy C
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimension/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimension/)*

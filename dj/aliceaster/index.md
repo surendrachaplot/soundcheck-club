@@ -1,6 +1,6 @@
 # ALICE ASTER
 
-ALICE ASTER is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Distrikt, Prague on Sat, 24 Oct 2026.
+ALICE ASTER is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Distrikt, Prague on Sat, 24 Oct 2026.
 
 ALICE ASTER is a techno and hardcore artist based in Czech Republic, tracked on soundcheck, with 11 sets logged across Prague. Often billed alongside MAGMAOM, NEUWERTH and Z.L.O. Next up: Distrikt, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ALICE ASTER is a techno and hardcore artist based in Czech Republic, tracked on 
 
 MAGMAOM, NEUWERTH, Z.L.O
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceaster/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceaster/)*

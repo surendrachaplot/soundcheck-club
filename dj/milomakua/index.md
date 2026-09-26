@@ -1,14 +1,13 @@
 # Milo Makua
 
-Milo Makua is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 25 Sept 2026.
+Milo Makua is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 3 Oct 2026.
 
-Milo Makua is a techno and trance artist based in Denmark, tracked on soundcheck, with 72 sets logged across Berlin, Copenhagen and Oslo. Often billed alongside Johannes Astrup, Elliott Taguchi and Tino. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 25 Sept.
+Milo Makua is a techno and trance artist based in Denmark, tracked on soundcheck, with 72 sets logged across Berlin, Copenhagen and Oslo. Often billed alongside Johannes Astrup, Elliott Taguchi and Tino. Next up: Den Anden Side, Copenhagen on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Pylonen - Frizonen Langebro | Copenhagen |
 | Sat, 3 Oct 2026 | Den Anden Side | Copenhagen |
 | Wed, 21 Oct 2026 | Tresor / Globus | Berlin |
 | Fri, 6 Nov 2026 | Hangaren | Copenhagen |
@@ -16,6 +15,7 @@ Milo Makua is a techno and trance artist based in Denmark, tracked on soundcheck
 
 ## Recently played
 
+- Pylonen - Frizonen Langebro, Copenhagen — Fri, 25 Sept 2026
 - Hangaren, Copenhagen — Sun, 13 Sept 2026
 - Hangaren, Copenhagen — Thu, 27 Aug 2026
 - Pumpehuset, Copenhagen — Sat, 15 Aug 2026
@@ -23,10 +23,9 @@ Milo Makua is a techno and trance artist based in Denmark, tracked on soundcheck
 - Den Anden Side, Copenhagen — Sat, 25 Jul 2026
 - Hangaren, Copenhagen — Fri, 24 Jul 2026
 - Pladeværkstedet, Copenhagen — Sat, 20 Jun 2026
-- Den Anden Side, Copenhagen — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Johannes Astrup, Elliott Taguchi, Tino (3)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milomakua/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milomakua/)*

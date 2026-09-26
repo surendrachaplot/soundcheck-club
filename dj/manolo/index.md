@@ -1,6 +1,6 @@
 # Manolo
 
-Manolo is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
+Manolo is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
 
 Manolo is a house and ballroom artist based in Switzerland, tracked on soundcheck, with 8 sets logged across Berlin, Boston, Brussels and Hamburg and 2 more. Often billed alongside Stella Zekri, 131bpm and Abibi. Next up: ASIAT Park, Brussels on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Manolo is a house and ballroom artist based in Switzerland, tracked on soundchec
 
 Stella Zekri, 131bpm, Abibi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manolo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manolo/)*

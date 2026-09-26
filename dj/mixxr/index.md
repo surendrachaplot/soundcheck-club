@@ -1,6 +1,6 @@
 # MIXXR
 
-MIXXR is a Techno and Hard Drum artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+MIXXR is a Techno and Hard Drum artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 MIXXR is a techno and hard drum artist based in Germany, tracked on soundcheck, with 10 sets logged across Cologne and Frankfurt. Often billed alongside 2nd Floor, ALLY and BabaBass3000. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ MIXXR is a techno and hard drum artist based in Germany, tracked on soundcheck, 
 
 2nd Floor, ALLY, BabaBass3000
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixxr/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixxr/)*

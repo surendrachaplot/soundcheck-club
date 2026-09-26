@@ -1,18 +1,18 @@
 # whoswill
 
-whoswill is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Beaver Works, Leeds on Fri, 25 Sept 2026.
+whoswill is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Night Tales, London on Fri, 2 Oct 2026.
 
-whoswill is a garage and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds and London. Often billed alongside camukg, DJ LUMBRIDGE and Fiaa. Next up: Beaver Works, Leeds on Fri 25 Sept.
+whoswill is a garage and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds and London. Often billed alongside camukg, DJ LUMBRIDGE and Fiaa. Next up: Night Tales, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Beaver Works | Leeds |
 | Fri, 2 Oct 2026 | Night Tales | London |
 
 ## Recently played
 
+- Beaver Works, Leeds — Fri, 25 Sept 2026
 - Headrow House, Leeds — Fri, 8 May 2026
 - Beaver Works, Leeds — Fri, 6 Feb 2026
 - Distrikt, Leeds — Sat, 24 Jan 2026
@@ -20,10 +20,9 @@ whoswill is a garage and house artist based in United Kingdom, tracked on soundc
 - Eiger Studios, Leeds — Fri, 24 Oct 2025
 - The Vinyl Whistle, Leeds — Sun, 1 Jun 2025
 - Mint Warehouse, Leeds — Fri, 29 Nov 2024
-- The Old Red Bus Station, Leeds — Fri, 4 Oct 2024
 
 ## Shares bills with
 
 camukg, DJ LUMBRIDGE, Fiaa
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whoswill/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whoswill/)*

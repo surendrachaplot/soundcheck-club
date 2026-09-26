@@ -1,6 +1,6 @@
 # The Beehive
 
-The Beehive is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "I LOVE DNB: Kings of the Rollers" on Sat, 12 Dec 2026.
+The Beehive is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "I LOVE DNB: Kings of the Rollers" on Sat, 12 Dec 2026.
 
 The Beehive is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Bladerunner, Kings of the Rollers, Serum (UK) and Turno and 1 more. Browse upcoming dates, start times and who's playing. 1000 E 60th Street, Los Angeles, CA 90001.
 
@@ -14,4 +14,4 @@ The Beehive is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig
 
 1000 E 60th Street, Los Angeles, CA 90001, Los Angeles
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-beehive/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-beehive/)*

@@ -1,6 +1,6 @@
 # Möbel-Olfe
 
-Möbel-Olfe is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Thirsty queer thursday " on Thu, 22 Oct 2026.
+Möbel-Olfe is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Thirsty queer thursday " on Thu, 22 Oct 2026.
 
 Möbel-Olfe is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including St. Laurent. Browse upcoming dates, start times and who's playing. Reichenberger Str. 177, 10999 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Möbel-Olfe is a music venue in Berlin listed on soundcheck. 1 upcoming gig, wit
 
 Reichenberger Str. 177, 10999 Berlin, Germany, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bel-olfe/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bel-olfe/)*

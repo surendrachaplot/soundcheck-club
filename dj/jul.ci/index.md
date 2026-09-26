@@ -1,13 +1,14 @@
 # jul.ci
 
-jul.ci is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jasna 1, Warsaw on Sat, 3 Oct 2026.
+jul.ci is a Bass and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-jul.ci is a bass and electronica artist based in Poland, tracked on soundcheck, with 25 sets logged across Krakow, Vienna and Warsaw. Often billed alongside ZLX, 2K88 and Some Guest. Next up: Jasna 1, Warsaw on Sat 3 Oct.
+jul.ci is a bass and electronica artist based in Poland, tracked on soundcheck, with 26 sets logged across Krakow, Poland, Vienna and Warsaw. Often billed alongside ZLX, 2K88 and Some Guest. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Sat, 3 Oct 2026 | Jasna 1 | Warsaw |
 
 ## Recently played
@@ -25,4 +26,4 @@ jul.ci is a bass and electronica artist based in Poland, tracked on soundcheck, 
 
 ZLX, 2K88, Some Guest
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jul.ci/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jul.ci/)*

@@ -1,18 +1,18 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
+Gabrielle Kwarteng is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at DC-10, Ibiza on Mon, 28 Sept 2026.
 
-Gabrielle Kwarteng is a house and techno artist based in United States of America, tracked on soundcheck, with 246 sets logged across Amsterdam, Antwerp, Auckland and Bali and 58 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Jasna 1, Warsaw on Fri 25 Sept.
+Gabrielle Kwarteng is a house and techno artist based in United States of America, tracked on soundcheck, with 249 sets logged across Amsterdam, Antwerp, Auckland and Bali and 60 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: DC-10, Ibiza on Mon 28 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Jasna 1 | Warsaw |
 | Mon, 28 Sept 2026 | DC-10 | Ibiza |
 | Fri, 2 Oct 2026 | Headrow House | Leeds |
 | Fri, 9 Oct 2026 | FORGE | Sheffield |
 | Sat, 10 Oct 2026 | Backsteinboot | Berlin |
+| Fri, 16 Oct 2026 | The Love Inn | Bristol |
 | Sat, 17 Oct 2026 | fabric | London |
 | Thu, 22 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
@@ -23,6 +23,7 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 
 ## Recently played
 
+- Jasna 1, Warsaw — Fri, 25 Sept 2026
 - Flash, Washington DC — Sun, 20 Sept 2026
 - BASEMENT, New York City — Fri, 18 Sept 2026
 - Sunday Sunday, Mexico City — Sun, 13 Sept 2026
@@ -30,10 +31,9 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 5 Sept 2026
 - Skatecafe, Amsterdam — Fri, 4 Sept 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
-- export, Rotterdam — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

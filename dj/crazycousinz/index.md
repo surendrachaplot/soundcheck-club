@@ -1,6 +1,6 @@
 # Crazy Cousinz
 
-Crazy Cousinz is a UK Funky and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Refuge, Manchester on Sat, 26 Sept 2026.
+Crazy Cousinz is a UK Funky and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Refuge, Manchester on Sat, 26 Sept 2026.
 
 Crazy Cousinz is an uk funky and garage artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Ibiza, London and Manchester. Often billed alongside Donae'o, Pioneer and Jerome Six. Next up: The Refuge, Manchester on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Crazy Cousinz is an uk funky and garage artist based in United Kingdom, tracked 
 
 Donae'o, Pioneer, Jerome Six
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazycousinz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazycousinz/)*

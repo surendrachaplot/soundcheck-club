@@ -1,6 +1,6 @@
 # Mike The Connector
 
-Mike The Connector is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nordstern, Basel on Fri, 2 Oct 2026.
+Mike The Connector is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Nordstern, Basel on Fri, 2 Oct 2026.
 
 Mike The Connector is a house and tech house artist based in Switzerland, tracked on soundcheck, with 21 sets logged across Amsterdam, Basel, Berlin and Geneva and 1 more. Often billed alongside AANN, Alex Belluscio and Andreas Ramos. Next up: Nordstern, Basel on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Mike The Connector is a house and tech house artist based in Switzerland, tracke
 
 AANN, Alex Belluscio, Andreas Ramos
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miketheconnector/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miketheconnector/)*

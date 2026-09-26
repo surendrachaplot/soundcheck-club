@@ -1,6 +1,6 @@
 # Mr. Nancy’s
 
-Mr. Nancy’s is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Resonance Halloween: Oscil / Uttaraa / Alter" on Fri, 30 Oct 2026.
+Mr. Nancy’s is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Resonance Halloween: Oscil / Uttaraa / Alter" on Fri, 30 Oct 2026.
 
 Mr. Nancy’s is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including alter.world, Oscil and Uttaraa. Browse upcoming dates, start times and who's playing. 7-02 Seneca Ave, Ridgewood, NY 11385.
 
@@ -14,4 +14,4 @@ Mr. Nancy’s is a music venue in New York City listed on soundcheck. 1 upcoming
 
 7-02 Seneca Ave, Ridgewood, NY 11385, New York City
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mr-nancy-s/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mr-nancy-s/)*

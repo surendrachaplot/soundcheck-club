@@ -1,6 +1,6 @@
 # Guy J
 
-Guy J is a Progressive House and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bridge Gardens, Glasgow on Sat, 26 Sept 2026.
+Guy J is a Progressive House and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bridge Gardens, Glasgow on Sat, 26 Sept 2026.
 
 Guy J is a progressive house and house artist based in Israel, tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Athens and Auckland and 36 more. Often billed alongside Guy Mantzur, Sahar Z and Khen. Next up: Bridge Gardens, Glasgow on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ Guy J is a progressive house and house artist based in Israel, tracked on soundc
 
 Guy Mantzur, Sahar Z, Khen
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guyj/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guyj/)*

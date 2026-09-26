@@ -1,6 +1,6 @@
 # Selective Response
 
-Selective Response is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 1 Oct 2026.
+Selective Response is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 1 Oct 2026.
 
 Selective Response is a techno and house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Berlin, Chicago, Detroit and Los Angeles and 5 more. Often billed alongside Perc, Annika Wolfe and Barbosa. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Selective Response is a techno and house artist based in United States of Americ
 
 Perc, Annika Wolfe, Barbosa
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selectiveresponse/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selectiveresponse/)*

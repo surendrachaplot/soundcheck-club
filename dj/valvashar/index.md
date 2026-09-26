@@ -1,6 +1,6 @@
 # Val Vashar
 
-Val Vashar is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Val Vashar is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Val Vashar is a techno and psytrance artist based in Croatia, tracked on soundcheck, with 12 sets logged across Amsterdam, Basel, Berlin and Bristol and 5 more. Often billed alongside Adriana Lopez, Innersha and Josephine Wedekind. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Val Vashar is a techno and psytrance artist based in Croatia, tracked on soundch
 
 Adriana Lopez, Innersha, Josephine Wedekind
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valvashar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valvashar/)*

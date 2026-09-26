@@ -1,6 +1,6 @@
 # ECLIPSE at Schrotty
 
-ECLIPSE at Schrotty on Sat 10 Oct, Cologne. 5 artists on the bill: anyka, DJ Sonnenbrand, Ken Brause and snoritz and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+ECLIPSE at Schrotty on Sat 10 Oct, Cologne. 7 artists on the bill: anyka, Baron Von Trax, DJ Sonnenbrand and Ken Brause and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,10 @@ ECLIPSE at Schrotty on Sat 10 Oct, Cologne. 5 artists on the bill: anyka, DJ Son
 ## Line-up
 
 - anyka
+- Baron Von Trax
 - DJ Sonnenbrand
 - Ken Brause
+- RAFFA
 - snoritz
 - Tristan K (1)
 

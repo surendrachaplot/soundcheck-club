@@ -1,14 +1,13 @@
 # Space 92
 
-Space 92 is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bauhaus, Houston on Fri, 25 Sept 2026.
+Space 92 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
 
-Space 92 is a techno and house artist based in France, tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Austin and Bangkok and 50 more. Often billed alongside Popof, Lilly Palmer and HI-LO. Next up: Bauhaus, Houston on Fri 25 Sept.
+Space 92 is a techno and house artist based in France, tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Austin and Bangkok and 50 more. Often billed alongside Popof, Lilly Palmer and HI-LO. Next up: Halle de La Machine, Toulouse on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Bauhaus | Houston |
 | Sat, 10 Oct 2026 | Halle de La Machine | Toulouse |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
@@ -18,6 +17,7 @@ Space 92 is a techno and house artist based in France, tracked on soundcheck, wi
 
 ## Recently played
 
+- Bauhaus, Houston — Fri, 25 Sept 2026
 - Royale, Boston — Sat, 19 Sept 2026
 - Amnesia Ibiza, Ibiza — Wed, 22 Jul 2026
 - Westhafen, Leipzig — Sat, 18 Jul 2026
@@ -25,10 +25,9 @@ Space 92 is a techno and house artist based in France, tracked on soundcheck, wi
 - INPUT High Fidelity Dance Club, Barcelona — Sat, 6 Jun 2026
 - Suvilahti Power Plant, Helsinki — Fri, 22 May 2026
 - Uebel & Gefährlich, Hamburg — Fri, 22 May 2026
-- SEL OCTAGON TOKYO, Tokyo — Sat, 9 May 2026
 
 ## Shares bills with
 
 Popof, Lilly Palmer, HI-LO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*

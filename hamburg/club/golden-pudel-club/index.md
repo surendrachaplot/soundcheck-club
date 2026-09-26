@@ -1,15 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "ELM STREET 42" on Thu, 24 Sept 2026.
+Golden Pudel Club is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "fuego with Sedaction, Ibizer, LAIDA, Laundry Service" on Sat, 26 Sept 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, with line-ups including Anton Jonathan, Bézier, BrthrMidnyt and cristian zanotti and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with line-ups including Anton Jonathan, Bézier, BrthrMidnyt and cristian zanotti and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | ELM STREET 42 | KVLR, Tana (2), UNZHA, fbi (1), yamagucci42 |
-| Fri, 25 Sept 2026 | Planet Pluto w/ DJ Balduin, Helge Misof, Marie Lung, Mille, Momo | MILLE, Marie Lung, Momo |
 | Sat, 26 Sept 2026 | fuego with Sedaction, Ibizer, LAIDA, Laundry Service | Ibizer, Laundry Service, Sedaction |
 | Sun, 27 Sept 2026 | Red Laser Records w/ Il Bosco, Royal Male, Pharaoh Brunson, Butjer | Pharaoh Brunson, Royal Male |
 | Wed, 30 Sept 2026 | Afrotonic |  |
@@ -23,4 +21,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 10 upcoming 
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

@@ -1,18 +1,18 @@
 # Naya
 
-Naya is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at EL SÓTANO, Madrid on Thu, 24 Sept 2026.
+Naya is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Numm, Tokyo on Thu, 22 Oct 2026.
 
-Naya is a house and electronica artist tracked on soundcheck, with 9 sets logged across Geneva, Lisbon, Madrid and Osaka and 1 more. Often billed alongside Teche, Alvaro Cabana and ECZODIA. Next up: EL SÓTANO, Madrid on Thu 24 Sept.
+Naya is a house and electronica artist tracked on soundcheck, with 9 sets logged across Geneva, Lisbon, Madrid and Osaka and 1 more. Often billed alongside Teche, Alvaro Cabana and ECZODIA. Next up: Numm, Tokyo on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | EL SÓTANO | Madrid |
 | Thu, 22 Oct 2026 | Numm | Tokyo |
 
 ## Recently played
 
+- EL SÓTANO, Madrid — Thu, 24 Sept 2026
 - House Bar Muse, Osaka — Fri, 12 Sept 2025
 - NADA Lisbon, Lisbon — Fri, 7 Feb 2025
 - TEMPLE, Lisbon — Fri, 8 Nov 2024
@@ -25,4 +25,4 @@ Naya is a house and electronica artist tracked on soundcheck, with 9 sets logged
 
 Teche, Alvaro Cabana, ECZODIA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naya/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naya/)*

@@ -1,6 +1,6 @@
 # Madre
 
-Madre is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Tacos 'n Tunes" on Fri, 23 Oct 2026.
+Madre is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Tacos 'n Tunes" on Fri, 23 Oct 2026.
 
 Madre is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Westerstraat 186 BG 1015MR Amsterdam.
 
@@ -14,4 +14,4 @@ Madre is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. Browse
 
 Westerstraat 186 BG 1015MR Amsterdam, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madre/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madre/)*

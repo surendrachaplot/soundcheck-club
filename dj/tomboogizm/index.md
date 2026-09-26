@@ -1,13 +1,14 @@
 # Tom Boogizm
 
-Tom Boogizm is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jasna 1, Warsaw on Fri, 2 Oct 2026.
+Tom Boogizm is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Tom Boogizm is a club and bass artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Barcelona, Berlin, Bristol and Brussels and 9 more. Often billed alongside Finn, Chunky and Anz. Next up: Jasna 1, Warsaw on Fri 2 Oct.
+Tom Boogizm is a club and bass artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Bristol and Brussels and 10 more. Often billed alongside Finn, Chunky and Anz. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Fri, 2 Oct 2026 | Jasna 1 | Warsaw |
 | Fri, 4 Dec 2026 | EXIT Glasgow | Glasgow |
 
@@ -26,4 +27,4 @@ Tom Boogizm is a club and bass artist based in United Kingdom, tracked on soundc
 
 Finn, Chunky, Anz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomboogizm/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomboogizm/)*

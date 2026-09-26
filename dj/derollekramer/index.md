@@ -1,6 +1,6 @@
 # Der olle Kramer
 
-Der olle Kramer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
+Der olle Kramer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
 
 Der olle Kramer is a house and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Anne-Sophie Selig, tzunamic and Fabian Fischbach. Next up: Humboldthain Club, Berlin on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Der olle Kramer is a house and techno artist based in Germany, tracked on soundc
 
 Anne-Sophie Selig, tzunamic, Fabian Fischbach
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/derollekramer/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/derollekramer/)*

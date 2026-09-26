@@ -1,6 +1,6 @@
 # Ferrand
 
-Ferrand is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Artheater, Cologne on Sat, 26 Sept 2026.
+Ferrand is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Artheater, Cologne on Sat, 26 Sept 2026.
 
 Ferrand is a trance and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Cologne and Vienna. Often billed alongside BabaBass3000, SUITSIDE and Rundfunk. Next up: Artheater, Cologne on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Ferrand is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 BabaBass3000, SUITSIDE, Rundfunk
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrand/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrand/)*

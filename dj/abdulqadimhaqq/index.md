@@ -1,6 +1,6 @@
 # Abdul Qadim Haqq
 
-Abdul Qadim Haqq is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Berry Gordy Motown Mansion, Detroit on Sun, 27 Sept 2026.
+Abdul Qadim Haqq is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Berry Gordy Motown Mansion, Detroit on Sun, 27 Sept 2026.
 
 Abdul Qadim Haqq is a techno and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Detroit, London, Osaka and Vancouver. Often billed alongside DJ Compufunk, Dopplereffekt and Drexciya. Next up: Berry Gordy Motown Mansion, Detroit on Sun 27 Sept.
 
@@ -21,4 +21,4 @@ Abdul Qadim Haqq is a techno and house artist based in United States of America,
 
 DJ Compufunk, Dopplereffekt, Drexciya
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdulqadimhaqq/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdulqadimhaqq/)*

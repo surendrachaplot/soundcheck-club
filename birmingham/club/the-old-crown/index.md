@@ -1,6 +1,6 @@
 # The Old Crown
 
-The Old Crown is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Blur vs Pulp event" on Fri, 16 Oct 2026.
+The Old Crown is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Blur vs Pulp event" on Fri, 16 Oct 2026.
 
 The Old Crown is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 188 High Street, Deritend, Birmingham, West Midlands, B12 0LD.
 
@@ -15,4 +15,4 @@ The Old Crown is a music venue in Birmingham listed on soundcheck. 2 upcoming gi
 
 188 High Street, Deritend, Birmingham, West Midlands, B12 0LD, Birmingham
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/the-old-crown/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/the-old-crown/)*

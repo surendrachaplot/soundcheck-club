@@ -1,6 +1,6 @@
 # CHUPA
 
-CHUPA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at R25 Kulturschlachthof, Düsseldorf on Fri, 2 Oct 2026.
+CHUPA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at R25 Kulturschlachthof, Düsseldorf on Fri, 2 Oct 2026.
 
 CHUPA is a techno and acid artist based in Germany, tracked on soundcheck, with 17 sets logged across Cologne and Düsseldorf. Often billed alongside Vasen, CÖLN and Rosilicious. Next up: R25 Kulturschlachthof, Düsseldorf on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ CHUPA is a techno and acid artist based in Germany, tracked on soundcheck, with 
 
 Vasen, CÖLN, Rosilicious
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chupa/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chupa/)*

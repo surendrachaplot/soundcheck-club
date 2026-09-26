@@ -1,6 +1,6 @@
 # Oliver Moon
 
-Oliver Moon is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at fabric, London on Sat, 14 Nov 2026.
+Oliver Moon is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at fabric, London on Sat, 14 Nov 2026.
 
 Oliver Moon is a house and acid artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Barcelona and London. Often billed alongside Free Zing, Alien Communications and Silverlining. Next up: fabric, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Oliver Moon is a house and acid artist based in United Kingdom, tracked on sound
 
 Free Zing, Alien Communications, Silverlining
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivermoon/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivermoon/)*

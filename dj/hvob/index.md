@@ -1,6 +1,6 @@
 # HVOB
 
-HVOB is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Küçükçiftlik Park, Istanbul on Sun, 11 Oct 2026.
+HVOB is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Küçükçiftlik Park, Istanbul on Sun, 11 Oct 2026.
 
 HVOB is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Barcelona and Basel and 27 more. Often billed alongside Eris Drew, Paul Kalkbrenner and ANOTR. Next up: Küçükçiftlik Park, Istanbul on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ HVOB is a techno and house artist tracked on soundcheck, with 58 sets logged acr
 
 Eris Drew, Paul Kalkbrenner, ANOTR
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hvob/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hvob/)*

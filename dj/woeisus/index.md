@@ -1,6 +1,6 @@
 # WOE is us
 
-WOE is us is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paradise Palms, Edinburgh on Sat, 26 Sept 2026.
+WOE is us is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Paradise Palms, Edinburgh on Sat, 26 Sept 2026.
 
 WOE is us is a house and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Edinburgh. Often billed alongside DJ LG, Dani Sonder and Keyte. Next up: Paradise Palms, Edinburgh on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ WOE is us is a house and techno artist based in United Kingdom, tracked on sound
 
 DJ LG, Dani Sonder, Keyte
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/woeisus/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/woeisus/)*

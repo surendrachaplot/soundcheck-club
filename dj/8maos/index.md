@@ -1,6 +1,6 @@
 # 8maos
 
-8maos is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+8maos is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 8maos is a minimal and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Portland. Often billed alongside Aaron Davis, Alvaro and Andrew Paris. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -12,6 +12,7 @@
 
 ## Recently played
 
+- TBA - Out ‘n’ About Treesort, Portland — Thu, 24 Sept 2026
 - The Sonder Bar, Portland — Sun, 6 Sept 2026
 - Process PDX, Portland — Sat, 13 Dec 2025
 - L'atelier Yaffe, Portland — Sat, 22 Mar 2025
@@ -23,4 +24,4 @@
 
 Aaron Davis, Alvaro, Andrew Paris
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/8maos/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/8maos/)*

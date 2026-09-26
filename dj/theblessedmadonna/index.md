@@ -1,13 +1,14 @@
 # The Blessed Madonna
 
-The Blessed Madonna is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Phantom, Paris, Paris on Sat, 31 Oct 2026.
+The Blessed Madonna is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
-The Blessed Madonna is a house and techno artist based in United States of America, tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Honey Dijon, Mochakk and HAAi. Next up: Phantom, Paris, Paris on Sat 31 Oct.
+The Blessed Madonna is a house and techno artist based in United States of America, tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Honey Dijon, Mochakk and HAAi. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Sat, 31 Oct 2026 | Phantom, Paris | Paris |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
@@ -29,4 +30,4 @@ The Blessed Madonna is a house and techno artist based in United States of Ameri
 
 Honey Dijon, Mochakk, HAAi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*

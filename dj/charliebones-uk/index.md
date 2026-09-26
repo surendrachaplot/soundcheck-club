@@ -1,6 +1,6 @@
 # Charlie Bones
 
-Charlie Bones is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Fox and Firkin, London on Fri, 9 Oct 2026.
+Charlie Bones is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Fox and Firkin, London on Fri, 9 Oct 2026.
 
 Charlie Bones is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Bristol, Dublin and Edinburgh and 6 more. Often billed alongside Hannah Holland, Tash LC and Alex Kassian. Next up: The Fox and Firkin, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Charlie Bones is a disco and funk / soul artist based in United Kingdom, tracked
 
 Hannah Holland, Tash LC, Alex Kassian
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebones-uk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebones-uk/)*

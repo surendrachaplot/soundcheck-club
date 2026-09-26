@@ -1,14 +1,15 @@
 # Charlins
 
-Charlins is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Barcelona on Sun, 27 Sept 2026.
+Charlins is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Jardinet del Mar, Barcelona on Sun, 27 Sept 2026.
 
-Charlins is a house and tech house artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside DJ Tortuga, DJ Mats and Babo. Next up: TBA, Barcelona on Sun 27 Sept.
+Charlins is a house and tech house artist based in Spain, tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside DJ Tortuga, DJ Mats and Babo. Next up: Jardinet del Mar, Barcelona on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | TBA | Barcelona |
+| Sun, 27 Sept 2026 | Jardinet del Mar | Barcelona |
+| Sat, 24 Oct 2026 | Sala Apolo | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Charlins is a house and tech house artist based in Spain, tracked on soundcheck,
 
 DJ Tortuga, DJ Mats, Babo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlins/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlins/)*

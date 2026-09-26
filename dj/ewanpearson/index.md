@@ -1,6 +1,6 @@
 # Ewan Pearson
 
-Ewan Pearson is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Eiger Studios, Leeds on Sat, 24 Oct 2026.
+Ewan Pearson is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Eiger Studios, Leeds on Sat, 24 Oct 2026.
 
 Ewan Pearson is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Belfast, Dundee, Glasgow and Leeds and 2 more. Often billed alongside Chris Massey, Muddy Feet and Awkward Moments. Next up: Eiger Studios, Leeds on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ewan Pearson is a house and afro house artist based in United Kingdom, tracked o
 
 Chris Massey, Muddy Feet, Awkward Moments
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanpearson/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanpearson/)*

@@ -1,6 +1,6 @@
 # Tapes
 
-Tapes is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Uus Laine, Tallinn on Fri, 20 Nov 2026.
+Tapes is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Uus Laine, Tallinn on Fri, 20 Nov 2026.
 
 Tapes is a dub and bass artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Berlin, Helsinki, Kyoto and London and 9 more. Often billed alongside Giouann, Carl Luis and Arthur (DE). Next up: Uus Laine, Tallinn on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Tapes is a dub and bass artist based in United Kingdom, tracked on soundcheck, w
 
 Giouann, Carl Luis, Arthur (DE)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tapes-de/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tapes-de/)*

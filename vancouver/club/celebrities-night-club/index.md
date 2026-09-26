@@ -1,14 +1,13 @@
 # Celebrities Night Club
 
-Celebrities Night Club is a music venue in Vancouver with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Hot Chip (DJ set) with DJ D.Dee" on Fri, 25 Sept 2026.
+Celebrities Night Club is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "CID (Vancouver)" on Sat, 17 Oct 2026.
 
-Celebrities Night Club is a music venue in Vancouver listed on soundcheck. 4 upcoming gigs, with line-ups including DJ D.Dee, Hot Chip and Innellea. Browse upcoming dates, start times and who's playing. 1022 Davie Street; Vancouver, BC V6E 1N2; Canada.
+Celebrities Night Club is a music venue in Vancouver listed on soundcheck. 3 upcoming gigs, with line-ups including Innellea. Browse upcoming dates, start times and who's playing. 1022 Davie Street; Vancouver, BC V6E 1N2; Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Hot Chip (DJ set) with DJ D.Dee | DJ D.Dee, Hot Chip |
 | Sat, 17 Oct 2026 | CID (Vancouver) |  |
 | Sat, 24 Oct 2026 | Devault (Vancouver) |  |
 | Sat, 7 Nov 2026 | Innellea (Vancouver) | Innellea |
@@ -17,4 +16,4 @@ Celebrities Night Club is a music venue in Vancouver listed on soundcheck. 4 upc
 
 1022 Davie Street; Vancouver, BC V6E 1N2; Canada, Vancouver
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/celebrities-night-club/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/celebrities-night-club/)*

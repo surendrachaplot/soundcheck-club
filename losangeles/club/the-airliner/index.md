@@ -1,15 +1,13 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "ÆFFECT RADIO 16-Year Anniversary Party" on Thu, 24 Sept 2026.
+The Airliner is a music venue in Los Angeles with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Reflections: Lando Polo, Evade Robots, Olive" on Sat, 26 Sept 2026.
 
-The Airliner is a music venue in Los Angeles listed on soundcheck. 9 upcoming gigs, with line-ups including Aaron Paar, Andy Oro, Ava Blank and Baltra and 2 more. Browse upcoming dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
+The Airliner is a music venue in Los Angeles listed on soundcheck. 7 upcoming gigs, with line-ups including Aaron Paar, Ava Blank, Baltra and Captain Planet and 2 more. Browse upcoming dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | ÆFFECT RADIO 16-Year Anniversary Party | Codiac, Freeman 713, Infinity Edge, Songco, Wheez-ie, Yessi |
-| Fri, 25 Sept 2026 | Made to Move presents Latinas in the House | Andy Oro, Guaparda, Juliet Mendoza, SEEPS, Spiñorita |
 | Sat, 26 Sept 2026 | Reflections: Lando Polo, Evade Robots, Olive |  |
 | Fri, 2 Oct 2026 | anemone | Ava Blank, DIZI, Guaparda |
 | Sat, 3 Oct 2026 | Spin the Bottle | SOLTERA |
@@ -22,4 +20,4 @@ The Airliner is a music venue in Los Angeles listed on soundcheck. 9 upcoming gi
 
 2419 N Broadway, Los Angeles, CA 90036, Los Angeles
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*

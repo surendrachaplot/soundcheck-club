@@ -1,6 +1,6 @@
 # Ells
 
-Ells is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Soup, Manchester on Fri, 16 Oct 2026.
+Ells is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Soup, Manchester on Fri, 16 Oct 2026.
 
 Ells is a house and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Bangkok, London and Manchester. Often billed alongside Bobby Scallop, Hish and Abby Harris. Next up: Soup, Manchester on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Ells is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Bobby Scallop, Hish, Abby Harris
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ells/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ells/)*

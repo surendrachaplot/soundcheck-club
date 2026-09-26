@@ -1,6 +1,6 @@
 # Dieru
 
-Dieru is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fünk, Mexico City on Sat, 26 Sept 2026.
+Dieru is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Fünk, Mexico City on Sat, 26 Sept 2026.
 
 Dieru is a house and deep house artist based in Mexico, tracked on soundcheck, with 13 sets logged across Los Angeles, Mexico City and Vancouver. Often billed alongside Alo, Bastard Love and Dehesa. Next up: Fünk, Mexico City on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Dieru is a house and deep house artist based in Mexico, tracked on soundcheck, w
 
 Alo, Bastard Love, Dehesa
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dieru/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dieru/)*

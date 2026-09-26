@@ -1,13 +1,14 @@
 # Mark William Lewis
 
-Mark William Lewis is a Experimental and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Krakow on Thu, 8 Oct 2026.
+Mark William Lewis is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Mark William Lewis is an experimental and hip-hop artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Berlin, Brussels, Copenhagen and Glasgow and 7 more. Often billed alongside James Massiah, Blood Orange and Ciel. Next up: TBA, Krakow on Thu 8 Oct.
+Mark William Lewis is an experimental and hip-hop artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Berlin, Brussels, Copenhagen and Glasgow and 8 more. Often billed alongside James Massiah, Blood Orange and Ciel. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Thu, 8 Oct 2026 | TBA | Krakow |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mark William Lewis is an experimental and hip-hop artist based in United Kingdom
 
 James Massiah, Blood Orange, Ciel
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markwilliamlewis/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markwilliamlewis/)*

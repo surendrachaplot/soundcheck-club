@@ -1,6 +1,6 @@
 # Emilia Grima
 
-Emilia Grima is a Breakbeat and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Emilia Grima is a Breakbeat and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 Emilia Grima is a breakbeat and trance artist tracked on soundcheck, with 36 sets logged across Barcelona, Central, Dublin and Lisbon and 3 more. Often billed alongside Jan Swam, servei and Atrice. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Emilia Grima is a breakbeat and trance artist tracked on soundcheck, with 36 set
 
 Jan Swam, servei, Atrice
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliagrima/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliagrima/)*

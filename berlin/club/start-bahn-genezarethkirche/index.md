@@ -1,6 +1,6 @@
 # Start.Bahn - Genezarethkirche
 
-Start.Bahn - Genezarethkirche is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "TRILOKA - Immersive Live Ambient Sound Journey at the Genezarethkirche" on Mon, 28 Sept 2026.
+Start.Bahn - Genezarethkirche is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "TRILOKA - Immersive Live Ambient Sound Journey at the Genezarethkirche" on Mon, 28 Sept 2026.
 
 Start.Bahn - Genezarethkirche is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including APRS, Luigi Tozzi, Midwife and Nour Sokhon and 2 more. Browse upcoming dates, start times and who's playing. Herrfurthplatz 14, 12049 Berlin.
 
@@ -18,4 +18,4 @@ Start.Bahn - Genezarethkirche is a music venue in Berlin listed on soundcheck. 5
 
 Herrfurthplatz 14, 12049 Berlin, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/start-bahn-genezarethkirche/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/start-bahn-genezarethkirche/)*

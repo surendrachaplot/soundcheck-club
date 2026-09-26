@@ -1,6 +1,6 @@
 # TBA - New location
 
-TBA - New location is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "TAKEOVER 6IX presents VENDEX & B2" on Sat, 24 Oct 2026.
+TBA - New location is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "TAKEOVER 6IX presents VENDEX & B2" on Sat, 24 Oct 2026.
 
 TBA - New location is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including B2, BUYMEFLOVVERS, I Hate Models and Vendex. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - New location is a music venue in Leeds listed on soundcheck. 2 upcoming gi
 | Sat, 24 Oct 2026 | TAKEOVER 6IX presents VENDEX & B2 | B2 (1), Vendex |
 | Fri, 13 Nov 2026 | Combine: I Hate Models  | BUYMEFLOVVERS, I Hate Models |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/tba-new-location/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/tba-new-location/)*

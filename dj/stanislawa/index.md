@@ -1,6 +1,6 @@
 # Stanislawa
 
-Stanislawa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TRAUM, Antwerp on Sat, 14 Nov 2026.
+Stanislawa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TRAUM, Antwerp on Sat, 14 Nov 2026.
 
 Stanislawa is a techno and house artist based in Belgium, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside Vera Moro, EMILIJA and Helena Lauwaert. Next up: TRAUM, Antwerp on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Stanislawa is a techno and house artist based in Belgium, tracked on soundcheck,
 
 Vera Moro, EMILIJA, Helena Lauwaert
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislawa/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislawa/)*

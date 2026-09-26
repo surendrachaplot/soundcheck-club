@@ -1,6 +1,6 @@
 # Delilah
 
-Delilah is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Delilah is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Delilah is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Berlin, Bristol, Brussels and Dublin and 7 more. Often billed alongside MiNNA, Rossi and Sidney Charles. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -29,4 +29,4 @@ Delilah is a house and tech house artist based in United Kingdom, tracked on sou
 
 MiNNA, Rossi, Sidney Charles
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*

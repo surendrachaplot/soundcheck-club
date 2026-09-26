@@ -1,6 +1,6 @@
 # DUZA
 
-DUZA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Vino Disco, Montreal on Sat, 3 Oct 2026.
+DUZA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Vino Disco, Montreal on Sat, 3 Oct 2026.
 
 DUZA is a house and disco artist based in Canada, tracked on soundcheck, with 28 sets logged across Montreal. Often billed alongside Manuel Falardeau, FREEEMAN and Napo Lugo. Next up: Vino Disco, Montreal on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DUZA is a house and disco artist based in Canada, tracked on soundcheck, with 28
 
 Manuel Falardeau, FREEEMAN, Napo Lugo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duza/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duza/)*

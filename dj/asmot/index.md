@@ -1,14 +1,15 @@
 # ASMOT
 
-ASMOT is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+ASMOT is a Afro House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
-ASMOT is an afro house and tech house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Miami and New York City. Often billed alongside Tiffy Vera, ARYMÉ and AWEN. Next up: Wollman Rink, New York City on Fri 2 Oct.
+ASMOT is an afro house and tech house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Miami and New York City. Often billed alongside Tiffy Vera, ARYMÉ and AWEN. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Wollman Rink | New York City |
+| Sat, 12 Dec 2026 | Unveiled | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ASMOT is an afro house and tech house artist based in United States of America, 
 
 Tiffy Vera, ARYMÉ, AWEN
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asmot/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asmot/)*

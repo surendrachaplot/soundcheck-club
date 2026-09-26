@@ -1,6 +1,6 @@
 # flomel
 
-flomel is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at elipamanoke, Leipzig on Wed, 30 Sept 2026.
+flomel is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at elipamanoke, Leipzig on Wed, 30 Sept 2026.
 
 flomel is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Leipzig. Often billed alongside adamoandiamo, ESCALEA and VALENTIN FRAIS. Next up: elipamanoke, Leipzig on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ flomel is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 adamoandiamo, ESCALEA, VALENTIN FRAIS
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flomel/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flomel/)*

@@ -1,6 +1,6 @@
 # CLEIDO
 
-CLEIDO is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 77, London on Sat, 26 Sept 2026.
+CLEIDO is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at 77, London on Sat, 26 Sept 2026.
 
 CLEIDO is an afro house and deep house artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Ibiza, London and Paris. Often billed alongside DJEFF, Dillan Desai and Nicky Summers. Next up: 77, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ CLEIDO is an afro house and deep house artist based in United Kingdom, tracked o
 
 DJEFF, Dillan Desai, Nicky Summers
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/CLEIDO/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/CLEIDO/)*

@@ -1,6 +1,6 @@
 # Jessie Calistri
 
-Jessie Calistri is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 8 Nov 2026.
+Jessie Calistri is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Los Angeles on Sun, 8 Nov 2026.
 
 Jessie Calistri is a house and deep house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Chicago, Los Angeles, New York City and Washington DC. Often billed alongside Kike Mayor, Glo Phase and DJ Shroomie. Next up: TBA, Los Angeles on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Jessie Calistri is a house and deep house artist based in United States of Ameri
 
 Kike Mayor, Glo Phase, DJ Shroomie
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiecalistri/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiecalistri/)*

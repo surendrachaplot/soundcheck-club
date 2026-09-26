@@ -1,6 +1,6 @@
 # anruna
 
-anruna is a Club and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at El Pumarejo Barcelona, Barcelona on Sat, 24 Oct 2026.
+anruna is a Club and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at El Pumarejo Barcelona, Barcelona on Sat, 24 Oct 2026.
 
 anruna is a club and ambient artist based in Spain, tracked on soundcheck, with 12 sets logged across Barcelona, Madrid and Valencia. Often billed alongside ALEKSANDRE, Adrasha and Alan Fitzpatrick. Next up: El Pumarejo Barcelona, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ anruna is a club and ambient artist based in Spain, tracked on soundcheck, with 
 
 ALEKSANDRE, Adrasha, Alan Fitzpatrick
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anruna/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anruna/)*

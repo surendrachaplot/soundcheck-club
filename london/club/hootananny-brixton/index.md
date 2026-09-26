@@ -1,14 +1,13 @@
 # Hootananny Brixton
 
-Hootananny Brixton is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Natasha Kitty Kat: Night Crawlers Vol 2" on Fri, 25 Sept 2026.
+Hootananny Brixton is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Dreamville Rapper: Lute" on Sat, 26 Sept 2026.
 
-Hootananny Brixton is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Atjazz, Cassia, Dillinja and Doc Scott and 2 more. Browse upcoming dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
+Hootananny Brixton is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Atjazz, Cassia, Dillinja and Doc Scott and 2 more. Browse upcoming dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Natasha Kitty Kat: Night Crawlers Vol 2 | Natasha Kitty Katt |
 | Sat, 26 Sept 2026 | Dreamville Rapper: Lute |  |
 | Sat, 26 Sept 2026 | Jammz: A night of RnB, Hip Hop and Summer Jams |  |
 | Fri, 2 Oct 2026 | Skeler: Nightfall Tour |  |
@@ -18,9 +17,10 @@ Hootananny Brixton is a music venue in London listed on soundcheck. 12 upcoming 
 | Mon, 12 Oct 2026 | Zenati |  |
 | Fri, 16 Oct 2026 | Sometimes We Party: Harry Hayes, Sensu | Harry Hayes, Junior Simba, Sensu (2) |
 | Sat, 17 Oct 2026 | Sub Brixton: DnB, Jungle + Rollers All Night Long |  |
+| Sat, 24 Oct 2026 | Atjazz B2B Sean McCabe, Groove Assassin + South Beach Recycling | Atjazz, Groove Assassin, Sean McCabe |
 
 ## Address
 
 95 Effra Road, Brixton, London, SW2 1DF, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*

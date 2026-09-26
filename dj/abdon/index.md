@@ -1,6 +1,6 @@
 # Abdon
 
-Abdon is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
+Abdon is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
 
 Abdon is a tech house and house artist based in Spain, tracked on soundcheck, with 65 sets logged across Barcelona, Ibiza, Madrid and Mallorca and 1 more. Often billed alongside Pau Guilera, De La Swing and Vidaloca. Next up: Cova Santa, Ibiza on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Abdon is a tech house and house artist based in Spain, tracked on soundcheck, wi
 
 Pau Guilera, De La Swing, Vidaloca
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdon/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdon/)*

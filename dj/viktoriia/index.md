@@ -1,6 +1,6 @@
 # VIKTORIIA
 
-VIKTORIIA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Muse Berlin, Berlin on Sat, 3 Oct 2026.
+VIKTORIIA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Muse Berlin, Berlin on Sat, 3 Oct 2026.
 
 VIKTORIIA is a techno and trance artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Frankfurt. Often billed alongside Pamela Svart, DRAHO and DUDUNIA. Next up: TBA - Muse Berlin, Berlin on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ VIKTORIIA is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Pamela Svart, DRAHO, DUDUNIA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriia/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriia/)*

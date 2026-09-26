@@ -1,6 +1,6 @@
 # VANYA
 
-VANYA is a Trance and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Westhafen, Leipzig on Sat, 26 Sept 2026.
+VANYA is a Trance and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Westhafen, Leipzig on Sat, 26 Sept 2026.
 
 VANYA is a trance and hip-hop artist based in Argentina, tracked on soundcheck, with 11 sets logged across Berlin, Glasgow, Leipzig and Manchester. Often billed alongside AEZARYA, Heatsick and Scrappy Coco. Next up: Westhafen, Leipzig on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ VANYA is a trance and hip-hop artist based in Argentina, tracked on soundcheck, 
 
 AEZARYA, Heatsick, Scrappy Coco
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanya/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanya/)*

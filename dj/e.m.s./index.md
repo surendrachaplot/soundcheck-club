@@ -1,6 +1,6 @@
 # e.m.s.
 
-e.m.s. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Neue Welle, Leipzig on Sun, 27 Sept 2026.
+e.m.s. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Neue Welle, Leipzig on Sun, 27 Sept 2026.
 
 e.m.s. is a house and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Leipzig and Nürnberg. Often billed alongside SIRIUS TOPIC, Carton22 and Rosanna Randale. Next up: Neue Welle, Leipzig on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ e.m.s. is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 SIRIUS TOPIC, Carton22, Rosanna Randale
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e.m.s./)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e.m.s./)*

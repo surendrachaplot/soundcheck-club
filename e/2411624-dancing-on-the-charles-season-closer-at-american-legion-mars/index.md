@@ -1,6 +1,6 @@
 # Dancing on the Charles Season Closer at American Legion Marsh Post #442
 
-Dancing on the Charles Season Closer at American Legion Marsh Post #442 on Sat 3 Oct, Boston. 3 artists on the bill: Math3ca, Pete Moss and Randy Deshaies. Preview the line-up and save it on soundcheck.
+Dancing on the Charles Season Closer at American Legion Marsh Post #442 on Sat 3 Oct, Boston. 3 artists on the bill: Math3ca, Pete Moss and Randy Deshaies. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

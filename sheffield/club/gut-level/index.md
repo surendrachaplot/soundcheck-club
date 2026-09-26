@@ -1,14 +1,13 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Gut Level presents: Shackleton (live), Cellar Dweller & Gut Level DJs" on Fri, 25 Sept 2026.
+Gut Level is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Fast & Bi-Furious Sheffield" on Sat, 26 Sept 2026.
 
-Gut Level is a music venue in Sheffield listed on soundcheck. 11 upcoming gigs, with line-ups including alex.aubyn, Backseat Driver, Bubbles (UK) and Buggery Grips and 2 more. Browse upcoming dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
+Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including alex.aubyn, Backseat Driver, Bubbles (UK) and Buggery Grips and 2 more. Browse upcoming dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Gut Level presents: Shackleton (live), Cellar Dweller & Gut Level DJs | Shackleton |
 | Sat, 26 Sept 2026 | Fast & Bi-Furious Sheffield | Buggery Grips, Yyre |
 | Fri, 2 Oct 2026 | FLAW Collective: Next Up (Free Entry - FLINTA DJs All Night) | MYNA, TB-316, alex.aubyn |
 | Sat, 3 Oct 2026 | Aquifer: Porter Brook, Malham Sound, sleepsang, Ol.G | Ol.G, Porter Brook, sleepsang |
@@ -18,9 +17,10 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 11 upcoming gigs, 
 | Fri, 30 Oct 2026 | Calabash! presents Our Modern Griots |  |
 | Sat, 7 Nov 2026 | CYB3R 5TH ANNIVERSARY W/ GFOTY | GFOTY |
 | Fri, 13 Nov 2026 | Sleazy Peelers (02) w/ Rosie Ama | Kay Fabe, Paniolo, Rosie Ama |
+| Sat, 12 Dec 2026 | Orange Room w/ TBA | Backseat Driver, Bubbles (UK), Paniolo |
 
 ## Address
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

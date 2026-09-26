@@ -1,6 +1,6 @@
 # xo.benson
 
-xo.benson is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri, 25 Sept 2026.
+xo.benson is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri, 25 Sept 2026.
 
 xo.benson is an electronica and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Chicago. Often billed alongside Swan Drama, Glamour Cadaver and Hameedullah. Next up: TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri 25 Sept.
 
@@ -13,10 +13,11 @@ xo.benson is an electronica and techno artist based in United States of America,
 
 ## Recently played
 
+- TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago — Fri, 25 Sept 2026
 - TBA - Logan Square Skate Park, Chicago — Sun, 20 Sept 2026
 
 ## Shares bills with
 
 Swan Drama, Glamour Cadaver, Hameedullah
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xo.benson/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xo.benson/)*

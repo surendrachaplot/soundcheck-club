@@ -1,6 +1,6 @@
 # 333CXT
 
-333CXT is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bootshaus, Cologne on Fri, 2 Oct 2026.
+333CXT is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bootshaus, Cologne on Fri, 2 Oct 2026.
 
 333CXT is a techno and industrial artist based in Germany, tracked on soundcheck, with 18 sets logged across Antwerp, Berlin, Cologne and Glasgow and 3 more. Often billed alongside VECTA, SOLID and UMKA BEGOVIC. Next up: Bootshaus, Cologne on Fri 2 Oct.
 
@@ -27,4 +27,4 @@
 
 VECTA, SOLID (2), UMKA BEGOVIC
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/333cxt/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/333cxt/)*

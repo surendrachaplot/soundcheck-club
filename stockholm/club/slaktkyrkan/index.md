@@ -1,18 +1,17 @@
 # Slaktkyrkan
 
-Slaktkyrkan is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Kind People Club - Patrick Mason" on Fri, 25 Sept 2026.
+Slaktkyrkan is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "DIMENSION - TECHNO STOCKHOLM — 3RD ANNIVERSARY" on Sat, 28 Nov 2026.
 
-Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including Jessie Granqvist, Patrick Mason, Sean Fender and TBA. Browse upcoming dates, start times and who's playing. Styckmästargatan 10, 121 62 Johanneshov, Svezia.
+Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including TBA. Browse upcoming dates, start times and who's playing. Styckmästargatan 10, 121 62 Johanneshov, Svezia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Kind People Club - Patrick Mason | Jessie Granqvist, Patrick Mason, Sean Fender |
 | Sat, 28 Nov 2026 | DIMENSION - TECHNO STOCKHOLM — 3RD ANNIVERSARY | TBA |
 
 ## Address
 
 Styckmästargatan 10, 121 62 Johanneshov, Svezia, Stockholm
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slaktkyrkan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slaktkyrkan/)*

@@ -1,14 +1,13 @@
 # James Lavelle
 
-James Lavelle is a Hip-Hop and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sidney & Matilda, Sheffield on Fri, 25 Sept 2026.
+James Lavelle is a Hip-Hop and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Berkeley Suite, Glasgow on Sat, 26 Sept 2026.
 
-James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Athens, Belfast, Birmingham and Brighton and 12 more. Often billed alongside UNKLE, Elliot Schooling and Liam Palmer. Next up: Sidney & Matilda, Sheffield on Fri 25 Sept.
+James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Athens, Belfast, Birmingham and Brighton and 12 more. Often billed alongside UNKLE, Elliot Schooling and Liam Palmer. Next up: The Berkeley Suite, Glasgow on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Sidney & Matilda | Sheffield |
 | Sat, 26 Sept 2026 | The Berkeley Suite | Glasgow |
 | Sun, 27 Sept 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 3 Oct 2026 | Future Yard | Liverpool |
@@ -16,8 +15,8 @@ James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on 
 
 ## Recently played
 
+- Sidney & Matilda, Sheffield — Fri, 25 Sept 2026
 - 528 Ibiza, Ibiza — Sat, 19 Sept 2026
-- fabric, London — Sat, 29 Aug 2026
 - Yes, Manchester — Sat, 29 Aug 2026
 - 93 Feet East, London — Sat, 22 Aug 2026
 - Chelmsford City Racecourse, London — Sat, 23 May 2026
@@ -29,4 +28,4 @@ James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on 
 
 UNKLE, Elliot Schooling, Liam Palmer
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslavelle/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslavelle/)*

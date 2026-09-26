@@ -1,6 +1,6 @@
 # Nico
 
-Nico is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 18 Oct 2026.
+Nico is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Los Angeles on Sun, 18 Oct 2026.
 
 Nico is a techno and house artist based in Germany, tracked on soundcheck, with 54 sets logged across Amsterdam, Bangkok, Barcelona and Bristol and 15 more. Often billed alongside Solartrak, Wolf Auris and Huck Finn. Next up: TBA, Los Angeles on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Nico is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Solartrak, Wolf Auris, Huck Finn
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nico/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nico/)*

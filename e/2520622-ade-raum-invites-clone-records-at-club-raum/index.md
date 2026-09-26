@@ -17,6 +17,6 @@ ADE - RAUM invites Clone Records at CLUB RAUM on Thu 22 Oct, Amsterdam. 8 artist
 - Neska
 - Ottagone
 - Serge
-- Tau Ceti
+- Tauceti (FR)
 
 *Source: [soundcheck](https://soundcheck.club/e/2520622-ade-raum-invites-clone-records-at-club-raum/)*

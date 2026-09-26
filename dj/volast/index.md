@@ -1,6 +1,6 @@
 # Volast
 
-Volast is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cëcret by cë Gallery, Nashville on Sat, 17 Oct 2026.
+Volast is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cëcret by cë Gallery, Nashville on Sat, 17 Oct 2026.
 
 Volast is a club and techno artist tracked on soundcheck, with 19 sets logged across Nashville and New York City. Often billed alongside Lapilli, Nicholas Latiff and Max Watts. Next up: Cëcret by cë Gallery, Nashville on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Volast is a club and techno artist tracked on soundcheck, with 19 sets logged ac
 
 Lapilli, Nicholas Latiff, Max Watts
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volast/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volast/)*

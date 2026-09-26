@@ -1,6 +1,6 @@
 # Karlainthemix
 
-Karlainthemix is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Armazem 22, Porto on Sat, 26 Sept 2026.
+Karlainthemix is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Armazem 22, Porto on Sat, 26 Sept 2026.
 
 Karlainthemix is a house and deep house artist based in Finland, tracked on soundcheck, with 19 sets logged across Chicago, Helsinki, Lisbon and London and 3 more. Often billed alongside Afshin, Greg Gauthier and Kapela. Next up: Armazem 22, Porto on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Karlainthemix is a house and deep house artist based in Finland, tracked on soun
 
 Afshin, Greg Gauthier, Kapela
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karlainthemix/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karlainthemix/)*

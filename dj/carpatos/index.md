@@ -1,6 +1,6 @@
 # CÁRPATOS
 
-CÁRPATOS is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 10 Oct 2026.
+CÁRPATOS is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 10 Oct 2026.
 
 CÁRPATOS is an experimental and club artist based in Germany, tracked on soundcheck, with 31 sets logged across Athens, Berlin, London and Mexico City and 1 more. Often billed alongside Bungalovv, Artur M Puga and KALI.. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ CÁRPATOS is an experimental and club artist based in Germany, tracked on soundc
 
 Bungalovv, Artur M Puga, KALI.
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carpatos/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carpatos/)*

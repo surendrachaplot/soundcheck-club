@@ -1,14 +1,15 @@
 # Pedro Gariani
 
-Pedro Gariani is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sonora Garden, Sao Paulo on Fri, 20 Nov 2026.
+Pedro Gariani is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Sonora Garden, Sao Paulo on Fri, 20 Nov 2026.
 
-Pedro Gariani is a house and disco artist based in Brazil, tracked on soundcheck, with 47 sets logged across Amsterdam and Sao Paulo. Often billed alongside Dioun, Etcetera and Paulete Lindacelva. Next up: Sonora Garden, Sao Paulo on Fri 20 Nov.
+Pedro Gariani is a house and disco artist based in Brazil, tracked on soundcheck, with 48 sets logged across Amsterdam, Brazil and Sao Paulo. Often billed alongside Dioun, Paulete Lindacelva and Etcetera. Next up: Sonora Garden, Sao Paulo on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Sonora Garden | Sao Paulo |
+| Sat, 26 Dec 2026 | Canoa Quebrada Beach | Brazil |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Pedro Gariani is a house and disco artist based in Brazil, tracked on soundcheck
 
 ## Shares bills with
 
-Dioun, Etcetera, Paulete Lindacelva
+Dioun, Paulete Lindacelva, Etcetera
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrogariani/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrogariani/)*

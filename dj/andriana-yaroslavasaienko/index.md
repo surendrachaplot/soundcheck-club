@@ -1,6 +1,6 @@
 # Andriana-Yaroslava Saienko
 
-Andriana-Yaroslava Saienko is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
+Andriana-Yaroslava Saienko is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
 
 Andriana-Yaroslava Saienko is an experimental and electronica artist based in Ukraine, tracked on soundcheck, with 15 sets logged across Amsterdam, Athens, Berlin and Cologne and 5 more. Often billed alongside Heinali, LEYA and Deena Abdelwahed. Next up: The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Andriana-Yaroslava Saienko is an experimental and electronica artist based in Uk
 
 Heinali, LEYA, Deena Abdelwahed
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andriana-yaroslavasaienko/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andriana-yaroslavasaienko/)*

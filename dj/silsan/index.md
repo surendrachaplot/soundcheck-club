@@ -1,6 +1,6 @@
 # SILSAN
 
-SILSAN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
+SILSAN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
 
 SILSAN is a techno and tech house artist based in Germany, tracked on soundcheck, with 95 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 6 more. Often billed alongside Lazykid, Moritz Butschek and Jan Minnerup. Next up: Bahnwärter Thiel, Munich on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ SILSAN is a techno and tech house artist based in Germany, tracked on soundcheck
 
 Lazykid, Moritz Butschek, Jan Minnerup
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silsan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silsan/)*

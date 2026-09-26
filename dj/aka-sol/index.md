@@ -1,6 +1,6 @@
 # aka-Sol
 
-aka-Sol is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+aka-Sol is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 aka-Sol is a techno and house artist based in Ecuador, tracked on soundcheck, with 81 sets logged across Chicago, Detroit, Los Angeles and Montreal and 6 more. Often billed alongside Nema Hän, Relaxer and Baby Leo. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -12,6 +12,7 @@ aka-Sol is a techno and house artist based in Ecuador, tracked on soundcheck, wi
 
 ## Recently played
 
+- TBA - Out ‘n’ About Treesort, Portland — Thu, 24 Sept 2026
 - TBA, Vancouver — Sat, 19 Sept 2026
 - Nowadays, New York City — Sat, 18 Jul 2026
 - Night Club 101, New York City — Thu, 16 Jul 2026
@@ -19,10 +20,9 @@ aka-Sol is a techno and house artist based in Ecuador, tracked on soundcheck, wi
 - TBA - Secret Bed-Stuy Location, New York City — Sat, 27 Jun 2026
 - TBA, New York City — Fri, 5 Jun 2026
 - Mi Sabor Cafe, New York City — Fri, 15 May 2026
-- Bossa Nova Civic Club, New York City — Sun, 26 Apr 2026
 
 ## Shares bills with
 
 Nema Hän, Relaxer, Baby Leo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aka-sol/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aka-sol/)*

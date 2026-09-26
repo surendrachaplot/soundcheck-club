@@ -1,14 +1,14 @@
 # ALIVEMAEX
 
-ALIVEMAEX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Old Distillery, Berlin on Sat, 31 Oct 2026.
+ALIVEMAEX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Natures Calling Winery, Berlin on Sat, 31 Oct 2026.
 
-ALIVEMAEX is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Bali, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside Kim She, Tham and Trancemaster Krause. Next up: TBA - Old Distillery, Berlin on Sat 31 Oct.
+ALIVEMAEX is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Bali, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside Kim She, Tham and Trancemaster Krause. Next up: Natures Calling Winery, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - Old Distillery | Berlin |
+| Sat, 31 Oct 2026 | Natures Calling Winery | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ ALIVEMAEX is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Kim She, Tham, Trancemaster Krause
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alivemaex/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alivemaex/)*

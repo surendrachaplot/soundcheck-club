@@ -1,8 +1,8 @@
 # Concepción Huerta
 
-Concepción Huerta is a Experimental and Drone artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
+Concepción Huerta is a Experimental and Drone artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
 
-Concepción Huerta is an experimental and drone artist based in Mexico, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, London and Mexico City and 3 more. Often billed alongside Abul Mogard, Rafael Anton Irisarri and Turning Torso. Next up: TBA - Rotterdam Various Locations, Rotterdam on Thu 24 Sept.
+Concepción Huerta is an experimental and drone artist based in Mexico, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, London and Mexico City and 3 more. Often billed alongside Abul Mogard, Rafael Anton Irisarri and Turning Torso. Next up: TBA - Rotterdam Various Locations, Rotterdam on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -12,9 +12,11 @@ Concepción Huerta is an experimental and drone artist based in Mexico, tracked 
 | Thu, 1 Oct 2026 | Beatrixgebouw | Utrecht |
 | Wed, 21 Oct 2026 | Silent Green | Berlin |
 | Fri, 23 Oct 2026 | Silent Green | Berlin |
+| Fri, 13 Nov 2026 | CHICO | Mexico City |
 
 ## Recently played
 
+- TBA - Rotterdam Various Locations, Rotterdam — Thu, 24 Sept 2026
 - YuYu Cine Club, Mexico City — Sat, 22 Aug 2026
 - TBA, Mexico City — Fri, 21 Aug 2026
 - TBA, Mexico City — Fri, 14 Aug 2026
@@ -22,10 +24,9 @@ Concepción Huerta is an experimental and drone artist based in Mexico, tracked 
 - Luzy, Mexico City — Sat, 11 Jul 2026
 - Cafe OTO, London — Sat, 23 May 2026
 - Punctum - Krásovka, Prague — Fri, 15 May 2026
-- TBA - Multiple Venues, Barcelona — Wed, 29 Apr 2026
 
 ## Shares bills with
 
 Abul Mogard, Rafael Anton Irisarri, Turning Torso
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/concepcionhuerta/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/concepcionhuerta/)*

@@ -1,6 +1,6 @@
 # Eliza
 
-Eliza is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pawn Shop, Dublin on Wed, 7 Oct 2026.
+Eliza is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Pawn Shop, Dublin on Wed, 7 Oct 2026.
 
 Eliza is an electro and techno artist based in Ireland, tracked on soundcheck, with 50 sets logged across Amsterdam, Basel, Berlin and Cork and 6 more. Often billed alongside Lolz, Maeve O'Neill and Tr One. Next up: Pawn Shop, Dublin on Wed 7 Oct.
 
@@ -26,4 +26,4 @@ Eliza is an electro and techno artist based in Ireland, tracked on soundcheck, w
 
 Lolz, Maeve O'Neill, Tr One
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliza/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliza/)*

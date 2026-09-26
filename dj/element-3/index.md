@@ -1,6 +1,6 @@
 # Element (3)
 
-Element (3) is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mitsuki, Tokyo on Sat, 26 Sept 2026.
+Element (3) is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Mitsuki, Tokyo on Sat, 26 Sept 2026.
 
 Element is a dub and bass artist based in Japan, tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Frankfurt and Glasgow and 5 more. Often billed alongside 1TA, Lil Mofo and pnnikin. Next up: Mitsuki, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Element is a dub and bass artist based in Japan, tracked on soundcheck, with 33 
 
 1TA (1), Lil Mofo, pnnikin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/element-3/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/element-3/)*

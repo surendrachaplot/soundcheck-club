@@ -1,6 +1,6 @@
 # Of The Trees
 
-Of The Trees is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Of The Trees is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Of The Trees is a bass and house artist tracked on soundcheck, with 13 sets logged across Austin, Chicago, Los Angeles and Miami and 5 more. Often billed alongside Dimension, Zedd and Zeds Dead. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Of The Trees is a bass and house artist tracked on soundcheck, with 13 sets logg
 
 Dimension, Zedd, Zeds Dead
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ofthetrees/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ofthetrees/)*

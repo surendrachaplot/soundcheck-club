@@ -1,6 +1,6 @@
 # Gold Diggers
 
-Gold Diggers is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Black Silk Stocking // 1 Year Anniversary" on Thu, 1 Oct 2026.
+Gold Diggers is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Black Silk Stocking // 1 Year Anniversary" on Thu, 1 Oct 2026.
 
 Gold Diggers is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 5632 Santa Monica Blvd, Hollywood, Los Angeles, CA 90038, USA.
 
@@ -15,4 +15,4 @@ Gold Diggers is a music venue in Los Angeles listed on soundcheck. 2 upcoming gi
 
 5632 Santa Monica Blvd, Hollywood, Los Angeles, CA 90038, USA, Los Angeles
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/gold-diggers/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/gold-diggers/)*

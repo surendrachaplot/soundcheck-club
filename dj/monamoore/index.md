@@ -1,6 +1,6 @@
 # Mona Moore
 
-Mona Moore is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
+Mona Moore is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
 Mona Moore is a techno and house artist based in Germany, tracked on soundcheck, with 68 sets logged across Berlin, Cologne, Hamburg and Montreal and 3 more. Often billed alongside Stan Starry, Foolik and justUS. Next up: Südpol, Hamburg on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Mona Moore is a techno and house artist based in Germany, tracked on soundcheck,
 
 Stan Starry, Foolik, justUS
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monamoore/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monamoore/)*

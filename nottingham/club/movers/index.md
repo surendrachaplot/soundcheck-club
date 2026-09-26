@@ -1,15 +1,13 @@
 # Movers
 
-Movers is a music venue in Nottingham with 27 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Psyked Notts: Havin' A Good Time [GARAGE, GRIME, BASS]" on Thu, 24 Sept 2026.
+Movers is a music venue in Nottingham with 25 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Jack DiY [DiY Soundsystem]  The Big Faces   Lolly - Extended 2AM Party" on Sat, 26 Sept 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 27 upcoming gigs, with line-ups including Aaron Dynamic, Alex Traska, Alien Communications and Brawther and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 25 upcoming gigs, with line-ups including Aaron Dynamic, Alex Traska, Alien Communications and Brawther and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Psyked Notts: Havin' A Good Time [GARAGE, GRIME, BASS] | Milzy, TABZ |
-| Fri, 25 Sept 2026 | Electroclash Y2K: Indie, Y2K & Dance |  |
 | Sat, 26 Sept 2026 | Jack DiY [DiY Soundsystem]  The Big Faces   Lolly - Extended 2AM Party | Jack DiY |
 | Sat, 26 Sept 2026 | Free Party: A Folk History [Film Screening 6-8pm] |  |
 | Sat, 26 Sept 2026 | CØMPAKT MINI-MARKET: SMALL PRESS |  |
@@ -18,9 +16,11 @@ Movers is a music venue in Nottingham listed on soundcheck. 27 upcoming gigs, wi
 | Fri, 2 Oct 2026 | disko kix 2: disco, funk, house, soul & leftfield |  |
 | Sat, 3 Oct 2026 | Swing Dash with Felix Dickinson, rPal & Gail | Felix Dickinson, rPal |
 | Thu, 8 Oct 2026 | foundation.fm presents Drop Pin x Gyals In Notts - Nottingham | G33 (UK), RINGERS |
+| Sat, 10 Oct 2026 | Control. x Movers: Radioactive Man, Aaron Dynamic b2b Dennis Roswell & dj sneaze | Aaron Dynamic, Radioactive Man, dj sneaze |
+| Sat, 17 Oct 2026 | Macca [NTS, One Glove] & Golden Lights | Golden Lights, Macca. |
 
 ## Address
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

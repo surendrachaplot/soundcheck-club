@@ -1,16 +1,16 @@
 # gyrofield
 
-gyrofield is a Drum & Bass and Bass artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 25 Sept 2026.
+gyrofield is a Drum & Bass and Bass artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Knockdown Center, New York City on Sat, 26 Sept 2026.
 
-gyrofield is a drum & bass and bass artist based in Netherlands, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 27 more. Often billed alongside Mala, DjRUM and KAVARI. Next up: TRANSMISSION DC, Washington DC on Fri 25 Sept.
+gyrofield is a drum & bass and bass artist based in Netherlands, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 28 more. Often billed alongside KAVARI, Mala and DjRUM. Next up: Knockdown Center, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 26 Sept 2026 | Knockdown Center | New York City |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Sun, 4 Oct 2026 | TBA | Los Angeles |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 | Fri, 9 Oct 2026 | TBA - Multiple Venues across Sheffield & Rotherham | North |
@@ -21,6 +21,7 @@ gyrofield is a drum & bass and bass artist based in Netherlands, tracked on soun
 
 ## Recently played
 
+- TRANSMISSION DC, Washington DC — Fri, 25 Sept 2026
 - Société des arts technologiques, Montreal — Fri, 28 Aug 2026
 - Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
@@ -28,10 +29,9 @@ gyrofield is a drum & bass and bass artist based in Netherlands, tracked on soun
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Kraftwerk Berlin, Berlin — Sun, 31 May 2026
 - TILLATEC, Amsterdam — Sat, 30 May 2026
-- Kraftwerk Berlin, Berlin — Sat, 30 May 2026
 
 ## Shares bills with
 
-Mala, DjRUM, KAVARI
+KAVARI, Mala, DjRUM
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*

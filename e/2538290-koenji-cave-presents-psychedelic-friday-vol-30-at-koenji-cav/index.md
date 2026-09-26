@@ -1,6 +1,6 @@
 # Koenji Cave presents - Psychedelic Friday Vol.30 - at Koenji Cave
 
-Koenji Cave presents - Psychedelic Friday Vol.30 - on Fri 2 Oct, Tokyo. 1 act on the bill: BERLINER KINDL. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Koenji Cave presents - Psychedelic Friday Vol.30 - on Fri 2 Oct, Tokyo. 1 artist on the bill: BERLINER KINDL. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

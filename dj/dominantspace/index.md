@@ -1,6 +1,6 @@
 # Dominant Space
 
-Dominant Space is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 10 Oct 2026.
+Dominant Space is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 10 Oct 2026.
 
 Dominant Space is a trance and progressive house artist based in Japan, tracked on soundcheck, with 16 sets logged across Osaka and Tokyo. Often billed alongside Shingo Nakamura, DJ 34 and DJ NECO. Next up: Circus Tokyo, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Dominant Space is a trance and progressive house artist based in Japan, tracked 
 
 Shingo Nakamura, DJ 34, DJ NECO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dominantspace/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dominantspace/)*

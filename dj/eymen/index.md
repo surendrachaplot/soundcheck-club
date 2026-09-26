@@ -1,6 +1,6 @@
 # Eymen
 
-Eymen is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Opium - Botanical Garden Bar, Dublin on Sat, 26 Sept 2026.
+Eymen is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Opium - Botanical Garden Bar, Dublin on Sat, 26 Sept 2026.
 
 Eymen is a house and tech house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Dublin, Istanbul and Munich. Often billed alongside ECE EKREN, BUSSI and W I S S. Next up: Opium - Botanical Garden Bar, Dublin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Eymen is a house and tech house artist based in Germany, tracked on soundcheck, 
 
 ECE EKREN, BUSSI, W I S S
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eymen/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eymen/)*

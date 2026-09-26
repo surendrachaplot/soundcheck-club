@@ -1,6 +1,6 @@
 # Sound Metaphors Djs
 
-Sound Metaphors Djs is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OXI, Berlin on Fri, 9 Oct 2026.
+Sound Metaphors Djs is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at OXI, Berlin on Fri, 9 Oct 2026.
 
 Sound Metaphors Djs is a house and disco artist based in Germany, tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Castro Moore, David Fogarty and Tornado Wallace. Next up: OXI, Berlin on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Sound Metaphors Djs is a house and disco artist based in Germany, tracked on sou
 
 Castro Moore, David Fogarty, Tornado Wallace
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soundmetaphorsdjs/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soundmetaphorsdjs/)*

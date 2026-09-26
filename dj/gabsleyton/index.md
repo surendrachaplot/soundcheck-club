@@ -1,6 +1,6 @@
 # Gabs Leyton
 
-Gabs Leyton is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paloma, Berlin on Fri, 30 Oct 2026.
+Gabs Leyton is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Paloma, Berlin on Fri, 30 Oct 2026.
 
 Gabs Leyton is a house and techno artist tracked on soundcheck, with 32 sets logged across Berlin. Often billed alongside Javier Anxiety, Lea Czychy and Moehecan. Next up: Paloma, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Gabs Leyton is a house and techno artist tracked on soundcheck, with 32 sets log
 
 Javier Anxiety, Lea Czychy, Moehecan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabsleyton/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabsleyton/)*

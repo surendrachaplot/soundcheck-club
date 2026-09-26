@@ -1,19 +1,22 @@
 # Smansky
 
-Smansky is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sekta Selekta, Krakow on Thu, 24 Sept 2026.
+Smansky is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mastak, Warsaw on Sat, 26 Sept 2026.
 
-Smansky is a techno and tech house artist based in Poland, tracked on soundcheck, with 3 sets logged across Krakow and Warsaw. Often billed alongside FM (PL), Gabi Bury and Kondrat. Next up: Sekta Selekta, Krakow on Thu 24 Sept.
+Smansky is a techno and tech house artist based in Poland, tracked on soundcheck, with 3 sets logged across Krakow and Warsaw. Often billed alongside FM (PL), Gabi Bury and Kondrat. Next up: Mastak, Warsaw on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Sekta Selekta | Krakow |
 | Sat, 26 Sept 2026 | Mastak | Warsaw |
 | Fri, 2 Oct 2026 | Mastak | Warsaw |
+
+## Recently played
+
+- Sekta Selekta, Krakow — Thu, 24 Sept 2026
 
 ## Shares bills with
 
 FM (PL), Gabi Bury, Kondrat
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smansky/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smansky/)*

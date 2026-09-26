@@ -1,6 +1,6 @@
 # Marcey99
 
-Marcey99 is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - ANZEN Späti, Berlin on Sat, 10 Oct 2026.
+Marcey99 is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - ANZEN Späti, Berlin on Sat, 10 Oct 2026.
 
 Marcey99 is a techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Frankfurt. Often billed alongside ADHASS, DJ 069 and Harmann. Next up: TBA - ANZEN Späti, Berlin on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Marcey99 is a techno artist based in Germany, tracked on soundcheck, with 7 sets
 
 ADHASS, DJ 069, Harmann
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcey99/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcey99/)*

@@ -1,6 +1,6 @@
 # Bullzeye
 
-Bullzeye is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Oliva, Amsterdam on Thu, 22 Oct 2026.
+Bullzeye is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Oliva, Amsterdam on Thu, 22 Oct 2026.
 
 Bullzeye is a techno and tech house artist based in India, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin and Milan. Often billed alongside Secret Cinema, ABOUT SOFIYA and Ae:ther. Next up: Oliva, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Bullzeye is a techno and tech house artist based in India, tracked on soundcheck
 
 Secret Cinema, ABOUT SOFIYA, Ae:ther
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bullzeye/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bullzeye/)*

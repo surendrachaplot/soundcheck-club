@@ -1,6 +1,6 @@
 # Toledano
 
-Toledano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 3 Oct 2026.
+Toledano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 3 Oct 2026.
 
 Toledano is a house and techno artist based in Mexico, tracked on soundcheck, with 14 sets logged across Mexico City. Often billed alongside Fig (DYN), Fina and Vanilla Storm. Next up: YuYu Cine Club, Mexico City on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Toledano is a house and techno artist based in Mexico, tracked on soundcheck, wi
 
 Fig (DYN), Fina, Vanilla Storm
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toledano/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toledano/)*

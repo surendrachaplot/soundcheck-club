@@ -1,6 +1,6 @@
 # Dorian Electra
 
-Dorian Electra is a Pop and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sala El Sol, Madrid on Fri, 2 Oct 2026.
+Dorian Electra is a Pop and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Sala El Sol, Madrid on Fri, 2 Oct 2026.
 
 Dorian Electra is a pop and experimental artist based in Czech Republic, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Brussels and Chicago and 19 more. Often billed alongside Count Baldor, Frost Children and COUCOU CHLOE. Next up: Sala El Sol, Madrid on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Dorian Electra is a pop and experimental artist based in Czech Republic, tracked
 
 Count Baldor, Frost Children, COUCOU CHLOE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianelectra/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianelectra/)*

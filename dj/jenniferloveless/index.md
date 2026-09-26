@@ -1,14 +1,13 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Floyd, Miami on Fri, 25 Sept 2026.
+Jennifer Loveless is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at public records, New York City on Sun, 27 Sept 2026.
 
-Jennifer Loveless is a house and techno artist based in Australia, tracked on soundcheck, with 250 sets logged across Amsterdam, Austin, Bali and Barcelona and 55 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: Floyd, Miami on Fri 25 Sept.
+Jennifer Loveless is a house and techno artist based in Australia, tracked on soundcheck, with 250 sets logged across Amsterdam, Austin, Bali and Barcelona and 55 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: public records, New York City on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Floyd | Miami |
 | Sun, 27 Sept 2026 | public records | New York City |
 | Fri, 2 Oct 2026 | TBA | Amsterdam |
 | Sat, 3 Oct 2026 | Fuse | Brussels |
@@ -20,9 +19,11 @@ Jennifer Loveless is a house and techno artist based in Australia, tracked on so
 | Sat, 31 Oct 2026 | Distrikt | Leeds |
 | Sat, 7 Nov 2026 | Lofi | Amsterdam |
 | Fri, 13 Nov 2026 | DRUMSHEDS | London |
+| Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played
 
+- Floyd, Miami — Fri, 25 Sept 2026
 - Sunday Sunday, Mexico City — Sun, 20 Sept 2026
 - 3oz Dive Club, San Diego — Fri, 18 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 12 Sept 2026
@@ -30,10 +31,9 @@ Jennifer Loveless is a house and techno artist based in Australia, tracked on so
 - Chinois Ibiza, Ibiza — Tue, 18 Aug 2026
 - Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
 - RSO.BERLIN, Berlin — Thu, 13 Aug 2026
-- Blow, Buenos Aires — Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Fafi Abdel Nour, ISAbella, BASHKKA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*

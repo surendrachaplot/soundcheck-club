@@ -1,6 +1,6 @@
 # Josey Rebelle
 
-Josey Rebelle is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at MOD Club, Tallinn on Sat, 26 Sept 2026.
+Josey Rebelle is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at MOD Club, Tallinn on Sat, 26 Sept 2026.
 
 Josey Rebelle is a techno and house artist based in United Kingdom, tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Josh Caffé, CCL and NIKS. Next up: MOD Club, Tallinn on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Josey Rebelle is a techno and house artist based in United Kingdom, tracked on s
 
 Josh Caffé, CCL, NIKS
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*

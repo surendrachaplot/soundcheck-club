@@ -1,14 +1,13 @@
 # Beaver Works
 
-Beaver Works is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Cirque Du Soul: Leeds // Back To Beaver Works" on Fri, 25 Sept 2026.
+Beaver Works is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Beaverworks presents KURUPT FM - Fri 2nd Oct" on Fri, 2 Oct 2026.
 
-Beaver Works is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with line-ups including ad*n, Bakey, Blackeye MC and camukg and 2 more. Browse upcoming dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
+Beaver Works is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including Bakey, Blackeye MC, Chad Dubz and Chinese Daughter and 2 more. Browse upcoming dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Cirque Du Soul: Leeds // Back To Beaver Works | Greenhouse, KABOCANA, Mylania, PR!MAL (2), Petz, Ramone, ad*n, camukg, whoswill |
 | Fri, 2 Oct 2026 | Beaverworks presents KURUPT FM - Fri 2nd Oct |  |
 | Sat, 3 Oct 2026 | SUBDUB - 28TH BIRTHDAY / RUPTURE 20 / DEEP MEDI 20 / DUB SIRENS | Blackeye MC, Chad Dubz, Commodo, Decibella, Double O, Formella, Goth-Trad, Iration Steppas, Ital Power, Jack Sparrow, Kid Lib, LOTU (UK), Lotus Phaze, MYNA, Mantra, Nio-B, Pinch, Pixl, SGT Pokes, Silkie, Tim Reaper |
 | Sat, 10 Oct 2026 | Born on Road - Leeds | Kelvin 373 |
@@ -22,4 +21,4 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, wi
 
 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom, Leeds
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*

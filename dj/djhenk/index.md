@@ -1,20 +1,20 @@
 # DJ Henk
 
-DJ Henk is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 25 Sept 2026.
+DJ Henk is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Lokschuppen Berlin, Berlin on Wed, 7 Oct 2026.
 
-DJ Henk is a trance and techno artist based in Germany, tracked on soundcheck, with 142 sets logged across Amsterdam, Berlin, Budapest and Cologne and 6 more. Often billed alongside get no, $EITAN777 and KLING&KLANG. Next up: Lokschuppen Berlin, Berlin on Fri 25 Sept.
+DJ Henk is a trance and techno artist based in Germany, tracked on soundcheck, with 142 sets logged across Amsterdam, Berlin, Budapest and Cologne and 6 more. Often billed alongside get no, $EITAN777 and KLING&KLANG. Next up: Lokschuppen Berlin, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Wed, 7 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 17 Oct 2026 | ://about blank | Berlin |
 | Sat, 19 Dec 2026 | ://about blank | Berlin |
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Fri, 25 Sept 2026
 - KitKatClub, Berlin — Thu, 17 Sept 2026
 - Lokschuppen Berlin, Berlin — Fri, 11 Sept 2026
 - Lokschuppen Berlin, Berlin — Sun, 6 Sept 2026
@@ -22,10 +22,9 @@ DJ Henk is a trance and techno artist based in Germany, tracked on soundcheck, w
 - Lokschuppen Berlin, Berlin — Sat, 15 Aug 2026
 - KitKatClub, Berlin — Thu, 13 Aug 2026
 - KitKatClub, Berlin — Thu, 16 Jul 2026
-- Lokschuppen Berlin, Berlin — Wed, 8 Jul 2026
 
 ## Shares bills with
 
 get no, $EITAN777, KLING&KLANG
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhenk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhenk/)*

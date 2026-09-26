@@ -1,6 +1,6 @@
 # Tony Price
 
-Tony Price is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at feedbk, New York City on Sat, 26 Sept 2026.
+Tony Price is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at feedbk, New York City on Sat, 26 Sept 2026.
 
 Tony Price is a house and acid artist based in Canada, tracked on soundcheck, with 76 sets logged across Belgrade, Berlin, Detroit and Geneva and 7 more. Often billed alongside Milch, Mikey Apples and Invisible City. Next up: feedbk, New York City on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Tony Price is a house and acid artist based in Canada, tracked on soundcheck, wi
 
 Milch (1), Mikey Apples, Invisible City
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyprice/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyprice/)*

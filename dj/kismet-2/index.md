@@ -1,6 +1,6 @@
 # kismet
 
-kismet is a Afro House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at LDN East, London on Sat, 24 Oct 2026.
+kismet is a Afro House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at LDN East, London on Sat, 24 Oct 2026.
 
 kismet is an afro house and tech house artist based in United States of America, tracked on soundcheck, with 9 sets logged across London, Mexico City and New York City. Often billed alongside Shenin Amara, Beezo and Jerome Six. Next up: LDN East, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ kismet is an afro house and tech house artist based in United States of America,
 
 Shenin Amara, Beezo, Jerome Six
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kismet-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kismet-2/)*

@@ -1,6 +1,6 @@
 # Jamie Grenenger
 
-Jamie Grenenger is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KEPK, Brisbane on Sun, 4 Oct 2026.
+Jamie Grenenger is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at KEPK, Brisbane on Sun, 4 Oct 2026.
 
 Jamie Grenenger is a techno and house artist based in Australia, tracked on soundcheck, with 11 sets logged across Brisbane and Tokyo. Often billed alongside .VRIL, Boris and DJ Dante. Next up: KEPK, Brisbane on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Jamie Grenenger is a techno and house artist based in Australia, tracked on soun
 
 .VRIL, Boris, DJ Dante
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiegrenenger/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiegrenenger/)*

@@ -1,6 +1,6 @@
 # Lost Desert
 
-Lost Desert is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Wed, 21 Oct 2026.
+Lost Desert is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Wed, 21 Oct 2026.
 
 Lost Desert is a deep house and house artist based in Belgium, tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 15 more. Often billed alongside Lee Burridge, Tim Green and Jim Rider. Next up: Crane Hotel Faralda, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Lost Desert is a deep house and house artist based in Belgium, tracked on soundc
 
 Lee Burridge, Tim Green, Jim Rider
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lostdesert/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lostdesert/)*

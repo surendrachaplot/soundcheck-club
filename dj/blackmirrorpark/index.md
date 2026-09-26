@@ -1,6 +1,6 @@
 # Black Mirror Park
 
-Black Mirror Park is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paloma, Berlin on Fri, 9 Oct 2026.
+Black Mirror Park is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Paloma, Berlin on Fri, 9 Oct 2026.
 
 Black Mirror Park is a techno and house artist based in Germany, tracked on soundcheck, with 74 sets logged across Amsterdam, Bangkok, Berlin and Hamburg and 6 more. Often billed alongside bb:fm, MASCHA and O/Y. Next up: Paloma, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Black Mirror Park is a techno and house artist based in Germany, tracked on soun
 
 bb:fm, MASCHA, O/Y
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmirrorpark/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmirrorpark/)*

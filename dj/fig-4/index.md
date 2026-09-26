@@ -1,6 +1,6 @@
 # fig (4)
 
-fig (4) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Strange Brew, Bristol on Sat, 31 Oct 2026.
+fig (4) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Strange Brew, Bristol on Sat, 31 Oct 2026.
 
 fig is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Bristol, London, Manchester and Mexico City and 1 more. Often billed alongside ALYA L, Jurango and gyrofield. Next up: Strange Brew, Bristol on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ fig is a techno and bass artist based in United Kingdom, tracked on soundcheck, 
 
 ALYA L, Jurango, gyrofield
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fig-4/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fig-4/)*

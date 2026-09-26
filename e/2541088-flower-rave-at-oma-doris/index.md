@@ -1,6 +1,6 @@
 # Flower Rave at Oma Doris
 
-Flower Rave at Oma Doris on Fri 2 Oct, Dortmund-essen. Trance and Techno. Preview the line-up and save it on soundcheck.
+Flower Rave at Oma Doris on Fri 2 Oct, Dortmund Essen. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

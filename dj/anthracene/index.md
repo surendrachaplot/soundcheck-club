@@ -1,6 +1,6 @@
 # Anthracene
 
-Anthracene is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+Anthracene is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
 Anthracene is a club and experimental artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Nyennea, Sugar Barbie and Warlord®. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Anthracene is a club and experimental artist based in Germany, tracked on soundc
 
 Nyennea, Sugar Barbie, Warlord®
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthracene/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthracene/)*

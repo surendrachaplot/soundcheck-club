@@ -38,7 +38,7 @@ The Gardens of Babylon: The Seekers of Light - ADE 2026 at WestWeelde on Sat 24 
 - Sarah Wild
 - Sinego
 - Tony L Issac
-- Vero
+- Vero (NL)
 - WAHM
 - Xinobi
 - ZO.1

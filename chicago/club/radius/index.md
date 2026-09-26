@@ -1,14 +1,13 @@
 # Radius
 
-Radius is a music venue in Chicago with 33 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "San Holo" on Fri, 25 Sept 2026.
+Radius is a music venue in Chicago with 32 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Ian Asher" on Sat, 26 Sept 2026.
 
-Radius is a music venue in Chicago listed on soundcheck. 33 upcoming gigs, with line-ups including 10cust, Afrojack, Ariel Zetina and Bassvictim and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
+Radius is a music venue in Chicago listed on soundcheck. 32 upcoming gigs, with line-ups including 10cust, Afrojack, Ariel Zetina and Bassvictim and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | San Holo | San Holo |
 | Sat, 26 Sept 2026 | Ian Asher |  |
 | Fri, 2 Oct 2026 | Indo Warehouse at Cermak Hall |  |
 | Fri, 2 Oct 2026 | Ben Böhmer | Ben Böhmer |
@@ -18,9 +17,10 @@ Radius is a music venue in Chicago listed on soundcheck. 33 upcoming gigs, with 
 | Fri, 9 Oct 2026 | Afrojack presents Control | Afrojack |
 | Sat, 10 Oct 2026 | Hamdi FC vs. Chicago | Cesco, Hamdi (UK), Machinedrum, Sam Binga |
 | Sat, 10 Oct 2026 | Maddix at Cermak Hall |  |
+| Thu, 15 Oct 2026 | Subtronics |  |
 
 ## Address
 
 640 West Cermak Road Chicago, Illinois 60616, USA, Chicago
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*

@@ -1,6 +1,6 @@
 # noRecall
 
-noRecall is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+noRecall is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 noRecall is a techno and bass artist based in United States of America, tracked on soundcheck, with 28 sets logged across New York City, Portland, San Francisco/Oakland and Seattle. Often billed alongside Ross Lowder, Hünter and Jason Code. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -14,6 +14,7 @@ noRecall is a techno and bass artist based in United States of America, tracked 
 
 ## Recently played
 
+- TBA - Out ‘n’ About Treesort, Portland — Thu, 24 Sept 2026
 - Mood Ring, New York City — Sat, 2 May 2026
 - TBA - Seattle. Announced to Ticketholders Day Of, Seattle — Fri, 13 Mar 2026
 - Substation, Seattle — Sat, 7 Mar 2026
@@ -21,10 +22,9 @@ noRecall is a techno and bass artist based in United States of America, tracked 
 - TBA - TICKET REQUEST LINK + INFO SENT OVER EMAIL AFTER RSVPING, Seattle — Sat, 22 Nov 2025
 - Substation, Seattle — Sat, 15 Nov 2025
 - Kremwerk-Timbre Room-Cherry Complex, Seattle — Sat, 11 Oct 2025
-- TBA - Private Venue, Seattle — Fri, 22 Aug 2025
 
 ## Shares bills with
 
 Ross Lowder, Hünter, Jason Code
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norecall/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norecall/)*

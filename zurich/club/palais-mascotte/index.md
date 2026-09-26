@@ -1,14 +1,13 @@
 # Palais Mascotte
 
-Palais Mascotte is a music venue in Zurich with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Kirollus (ATA Records) / Lea Lisa / Blue Method / Serge P" on Fri, 25 Sept 2026.
+Palais Mascotte is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "HEKAYA: KAYYAK (ALL NIGHT LONG)" on Sat, 3 Oct 2026.
 
-Palais Mascotte is a music venue in Zurich listed on soundcheck. 3 upcoming gigs, with line-ups including Blue Method, Blue Method, Davide Dev and Gee Lane and 2 more. Browse upcoming dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
+Palais Mascotte is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including Davide Dev, Gee Lane and KAYYAK. Browse upcoming dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Kirollus (ATA Records) / Lea Lisa / Blue Method / Serge P | Blue Method, Blue Method (2), Kirollus, Lea Lisa, Serge P |
 | Sat, 3 Oct 2026 | HEKAYA: KAYYAK (ALL NIGHT LONG) | KAYYAK |
 | Fri, 9 Oct 2026 | TOY TONICS JAM ZURICH: Gee Lane  Davide Dev VALENTINO VIVACE (DJ SET) | Davide Dev, Gee Lane |
 
@@ -16,4 +15,4 @@ Palais Mascotte is a music venue in Zurich listed on soundcheck. 3 upcoming gigs
 
 Theaterstrasse 10, 8001 Zürich, Zurich
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*

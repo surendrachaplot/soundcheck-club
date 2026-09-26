@@ -1,6 +1,6 @@
 # Amsterdam Central Station
 
-Amsterdam Central Station is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "ADE 26: Melodic Deep - Ten Years In Motion Club Train" on Thu, 22 Oct 2026.
+Amsterdam Central Station is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "ADE 26: Melodic Deep - Ten Years In Motion Club Train" on Thu, 22 Oct 2026.
 
 Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Javier Anxiety, Yulia Niko, Albin Brezlan and Andrew Rayel and 2 more. Browse upcoming dates, start times and who's playing. Stationsplein, 1012 AB Amsterdam, Netherlands.
 
@@ -17,4 +17,4 @@ Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 4 
 
 Stationsplein, 1012 AB Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdam-central-station/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdam-central-station/)*

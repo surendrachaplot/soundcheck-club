@@ -1,6 +1,6 @@
 # Bias
 
-Bias is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at C2 OST, Karlsruhe on Sat, 26 Sept 2026.
+Bias is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at C2 OST, Karlsruhe on Sat, 26 Sept 2026.
 
 Bias is a techno and ambient artist based in Germany, tracked on soundcheck, with 13 sets logged across Athens, Berlin, Copenhagen and Karlsruhe and 2 more. Often billed alongside Dr. Schock, Farr and James Juke. Next up: C2 OST, Karlsruhe on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Bias is a techno and ambient artist based in Germany, tracked on soundcheck, wit
 
 Dr. Schock, Farr, James Juke
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bias/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bias/)*

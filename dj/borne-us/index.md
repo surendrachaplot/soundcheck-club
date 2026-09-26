@@ -1,6 +1,6 @@
 # Borne (US)
 
-Borne (US) is a House and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+Borne (US) is a House and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
 Borne (US) is a house and dubstep artist based in United States of America, tracked on soundcheck, with 8 sets logged across Austin, Los Angeles, New York City and San Francisco/Oakland and 1 more. Often billed alongside Linska, MPH and Mau P. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ Borne (US) is a house and dubstep artist based in United States of America, trac
 
 Linska, MPH (1), Mau P
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borne-us/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borne-us/)*

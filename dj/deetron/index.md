@@ -1,6 +1,6 @@
 # Deetron
 
-Deetron is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Frankhan Selectist, Istanbul on Sat, 3 Oct 2026.
+Deetron is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Frankhan Selectist, Istanbul on Sat, 3 Oct 2026.
 
 Deetron is a techno and house artist based in Switzerland, tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 25 more. Often billed alongside Zenker Brothers, Armand Van Helden and SG Lewis. Next up: Frankhan Selectist, Istanbul on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Deetron is a techno and house artist based in Switzerland, tracked on soundcheck
 
 Zenker Brothers, Armand Van Helden, SG Lewis
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*

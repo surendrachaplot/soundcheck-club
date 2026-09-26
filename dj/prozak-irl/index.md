@@ -1,14 +1,13 @@
 # Prozak (IRL)
 
-Prozak (IRL) is a Garage and Bass artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 25 Sept 2026.
+Prozak (IRL) is a Garage and Bass artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Warehouse, Leeds on Sat, 26 Sept 2026.
 
-Prozak (IRL) is a garage and bass artist based in Ireland, tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside Silva Bumpa, Soul Mass Transit System and Conducta. Next up: Yamamori Tengu, Dublin on Fri 25 Sept.
+Prozak (IRL) is a garage and bass artist based in Ireland, tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside Silva Bumpa, Soul Mass Transit System and Conducta. Next up: The Warehouse, Leeds on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Yamamori Tengu | Dublin |
 | Sat, 26 Sept 2026 | The Warehouse | Leeds |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Thu, 22 Oct 2026 | Levenslang Amsterdam | Amsterdam |
@@ -20,6 +19,7 @@ Prozak (IRL) is a garage and bass artist based in Ireland, tracked on soundcheck
 
 ## Recently played
 
+- Yamamori Tengu, Dublin — Fri, 25 Sept 2026
 - fabric, London — Fri, 11 Sept 2026
 - Ouseburn Garden, Newcastle — Fri, 7 Aug 2026
 - Circus Tokyo, Tokyo — Sat, 27 Jun 2026
@@ -27,10 +27,9 @@ Prozak (IRL) is a garage and bass artist based in Ireland, tracked on soundcheck
 - PROGRESS, Manchester — Sat, 6 Jun 2026
 - District Cardiff, Cardiff — Fri, 29 May 2026
 - Chelmsford City Racecourse, London — Sat, 23 May 2026
-- Village Studios, Vancouver — Sat, 9 May 2026
 
 ## Shares bills with
 
 Silva Bumpa, Soul Mass Transit System, Conducta
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prozak-irl/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prozak-irl/)*

@@ -1,6 +1,6 @@
 # DJ Aficionado
 
-DJ Aficionado is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at YSY, Berlin on Fri, 2 Oct 2026.
+DJ Aficionado is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at YSY, Berlin on Fri, 2 Oct 2026.
 
 DJ Aficionado is a house and acid artist based in Spain, tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Hamburg and Madrid and 2 more. Often billed alongside Llupe, Eleonora K and Frinda di Lanco. Next up: YSY, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ DJ Aficionado is a house and acid artist based in Spain, tracked on soundcheck, 
 
 Llupe, Eleonora K, Frinda di Lanco
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaficionado/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaficionado/)*

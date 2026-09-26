@@ -1,6 +1,6 @@
 # Phil2
 
-Phil2 is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at fi, Cologne on Fri, 20 Nov 2026.
+Phil2 is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at fi, Cologne on Fri, 20 Nov 2026.
 
 Phil2 is a house and minimal artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Cologne, Frankfurt and Munich. Often billed alongside Thomas Stieler, Edgar Peng and Interplay. Next up: fi, Cologne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Phil2 is a house and minimal artist based in Germany, tracked on soundcheck, wit
 
 Thomas Stieler, Edgar Peng, Interplay
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phil2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phil2/)*

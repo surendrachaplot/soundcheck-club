@@ -1,14 +1,13 @@
 # Sweetly
 
-Sweetly is a Jungle and Drum & Bass artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Amber's, Manchester on Fri, 25 Sept 2026.
+Sweetly is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Brick Street, Liverpool on Sat, 26 Sept 2026.
 
-Sweetly is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Amelia Leigh, Simmo. and D.Tee. Next up: Amber's, Manchester on Fri 25 Sept.
+Sweetly is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Amelia Leigh, Simmo. and D.Tee. Next up: Brick Street, Liverpool on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Amber's | Manchester |
 | Sat, 26 Sept 2026 | Brick Street | Liverpool |
 | Wed, 30 Sept 2026 | The Deaf Institute | Manchester |
 | Sat, 10 Oct 2026 | Stage and Radio | Manchester |
@@ -17,6 +16,7 @@ Sweetly is a jungle and drum & bass artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- Amber's, Manchester — Fri, 25 Sept 2026
 - The Bag Factory, Manchester — Fri, 19 Jun 2026
 - Off The Square, Manchester — Thu, 11 Jun 2026
 - The Hifi Club, Leeds — Sat, 9 May 2026
@@ -24,10 +24,9 @@ Sweetly is a jungle and drum & bass artist based in United Kingdom, tracked on s
 - 24 Kitchen Street, Liverpool — Sat, 18 Apr 2026
 - Eastern Bloc Records, Manchester — Thu, 9 Apr 2026
 - Gorilla, Manchester — Sat, 4 Apr 2026
-- Gorilla, Manchester — Fri, 20 Mar 2026
 
 ## Shares bills with
 
 Amelia Leigh, Simmo., D.Tee
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetly/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetly/)*

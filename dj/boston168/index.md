@@ -1,6 +1,6 @@
 # Boston 168
 
-Boston 168 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Boston 168 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
 Boston 168 is a techno and acid artist based in Italy, tracked on soundcheck, with 65 sets logged across Antwerp, Athens, Barcelona and Belgrade and 23 more. Often billed alongside Ellen Allien, Shaleen and Regal. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Boston 168 is a techno and acid artist based in Italy, tracked on soundcheck, wi
 
 Ellen Allien, Shaleen, Regal
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boston168/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boston168/)*

@@ -1,6 +1,6 @@
 # Generous B
 
-Generous B is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Generous B is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Generous B is a house and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Miami. Often billed alongside Souls Departed, Cole Knight and JOVIGIBS. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Generous B is a house and techno artist based in United States of America, track
 
 Souls Departed, Cole Knight, JOVIGIBS
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/generousb/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/generousb/)*

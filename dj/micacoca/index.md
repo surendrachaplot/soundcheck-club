@@ -1,6 +1,6 @@
 # Mica Coca
 
-Mica Coca is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Dalston Superstore, London on Fri, 9 Oct 2026.
+Mica Coca is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Dalston Superstore, London on Fri, 9 Oct 2026.
 
 Mica Coca is a house and techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London and Manchester. Often billed alongside Michelle Manetti, Donnie Sunshine and GIN_. Next up: Dalston Superstore, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mica Coca is a house and techno artist based in United Kingdom, tracked on sound
 
 Michelle Manetti, Donnie Sunshine, GIN_
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micacoca/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micacoca/)*

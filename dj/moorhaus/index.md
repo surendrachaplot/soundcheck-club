@@ -1,6 +1,6 @@
 # Moorhaus
 
-Moorhaus is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Prysm Nightclub, Chicago on Sat, 17 Oct 2026.
+Moorhaus is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Prysm Nightclub, Chicago on Sat, 17 Oct 2026.
 
 Moorhaus is a house and tech house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Chicago. Often billed alongside Muffy, Dunes of Dawn and Zoumy. Next up: Prysm Nightclub, Chicago on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Moorhaus is a house and tech house artist based in United States of America, tra
 
 Muffy, Dunes of Dawn, Zoumy
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moorhaus/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moorhaus/)*

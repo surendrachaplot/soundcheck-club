@@ -1,6 +1,6 @@
 # Filibalou
 
-Filibalou is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Circolo Amelia, Milan on Sun, 27 Sept 2026.
+Filibalou is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Circolo Amelia, Milan on Sun, 27 Sept 2026.
 
 Filibalou is a house and deep house artist based in Italy, tracked on soundcheck, with 8 sets logged across Berlin, Milan and Rome. Often billed alongside Sister Effect, AMBRA and Amanita. Next up: Circolo Amelia, Milan on Sun 27 Sept.
 
@@ -24,4 +24,4 @@ Filibalou is a house and deep house artist based in Italy, tracked on soundcheck
 
 Sister Effect, AMBRA, Amanita
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filibalou/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filibalou/)*

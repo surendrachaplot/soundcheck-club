@@ -1,6 +1,6 @@
 # GAY RIGHTS x SISSY at TBA - hehehe
 
-GAY RIGHTS x SISSY at TBA - hehehe on Fri 9 Oct, Toronto. 9 acts on the bill: BOOTYCORNFED, Critter, digital polyglot and KAIÂ and 5 more. Club and Latin Bass. Preview the line-up and save it on soundcheck.
+GAY RIGHTS x SISSY at TBA - hehehe on Fri 9 Oct, Toronto. 9 artists on the bill: BOOTYCORNFED, Critter, digital polyglot and KAIÂ and 5 more. Club and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

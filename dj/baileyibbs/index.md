@@ -1,6 +1,6 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Java, Paris on Sat, 3 Oct 2026.
+Bailey Ibbs is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Java, Paris on Sat, 3 Oct 2026.
 
 Bailey Ibbs is a techno and house artist based in United Kingdom, tracked on soundcheck, with 164 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 45 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: La Java, Paris on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ Bailey Ibbs is a techno and house artist based in United Kingdom, tracked on sou
 
 JKS, Paige (Night Service), Beau Didier
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*

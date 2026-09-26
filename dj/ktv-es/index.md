@@ -1,6 +1,6 @@
 # KTV (ES)
 
-KTV (ES) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lasociaciøn, Madrid on Fri, 30 Oct 2026.
+KTV (ES) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lasociaciøn, Madrid on Fri, 30 Oct 2026.
 
 KTV (ES) is a techno and electronica artist based in Spain, tracked on soundcheck, with 8 sets logged across Madrid. Often billed alongside C.R.Y.D, Crissis and Isgang. Next up: Lasociaciøn, Madrid on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ KTV (ES) is a techno and electronica artist based in Spain, tracked on soundchec
 
 C.R.Y.D, Crissis, Isgang
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ktv-es/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ktv-es/)*

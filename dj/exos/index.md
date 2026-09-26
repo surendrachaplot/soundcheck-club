@@ -1,6 +1,6 @@
 # Exos
 
-Exos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
+Exos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
 
 Exos is a techno and house artist based in Iceland, tracked on soundcheck, with 59 sets logged across Athens, Austin, Bali and Bangkok and 29 more. Often billed alongside SHDW, BLACK ANTHEM RESTORE and Kameliia. Next up: RSO.BERLIN, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Exos is a techno and house artist based in Iceland, tracked on soundcheck, with 
 
 SHDW, BLACK ANTHEM RESTORE, Kameliia
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exos/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exos/)*

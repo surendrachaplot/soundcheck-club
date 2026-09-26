@@ -1,6 +1,6 @@
 # Klub Werkstatt
 
-Klub Werkstatt is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Pana Radio - Full Circle (A 360 experience)" on Sat, 3 Oct 2026.
+Klub Werkstatt is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Pana Radio - Full Circle (A 360 experience)" on Sat, 3 Oct 2026.
 
 Klub Werkstatt is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, with line-ups including Benster, Demuja, DJ JM and Eski and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 167A, 1432, Copenhagen.
 
@@ -16,4 +16,4 @@ Klub Werkstatt is a music venue in Copenhagen listed on soundcheck. 3 upcoming g
 
 Refshalevej 167A, 1432, Copenhagen, Copenhagen
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/klub-werkstatt/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/klub-werkstatt/)*

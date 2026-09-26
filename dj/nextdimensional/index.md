@@ -1,6 +1,6 @@
 # nextdimensional
 
-nextdimensional is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 2 Oct 2026.
+nextdimensional is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 2 Oct 2026.
 
 nextdimensional is a techno and club artist based in United States of America, tracked on soundcheck, with 94 sets logged across Chicago, Montreal, New York City and Paris and 6 more. Often billed alongside HONEY B, RITCHRD and DJ CARO. Next up: Dead Letter No. 9, New York City on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ nextdimensional is a techno and club artist based in United States of America, t
 
 HONEY B, RITCHRD, DJ CARO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nextdimensional/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nextdimensional/)*

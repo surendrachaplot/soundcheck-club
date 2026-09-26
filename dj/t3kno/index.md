@@ -1,6 +1,6 @@
 # T3KNO
 
-T3KNO is a Guaracha and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 818-724-7836, Los Angeles on Fri, 30 Oct 2026.
+T3KNO is a Guaracha and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - 818-724-7836, Los Angeles on Fri, 30 Oct 2026.
 
 T3KNO is a guaracha and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Los Angeles and San Francisco/Oakland. Often billed alongside BL4ZE, 4LOKA and Cardopusher. Next up: TBA - 818-724-7836, Los Angeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ T3KNO is a guaracha and techno artist based in United States of America, tracked
 
 BL4ZE, 4LOKA, Cardopusher
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t3kno/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t3kno/)*

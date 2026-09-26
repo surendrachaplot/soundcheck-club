@@ -1,8 +1,8 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Potato Head Beach Club, Bali on Sat, 26 Sept 2026.
+Avalon Emerson is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Potato Head Beach Club, Bali on Sat, 26 Sept 2026.
 
-Avalon Emerson is a techno and house artist based in United States of America, tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Sedef Adasï, BASHKKA and Aurora Halal. Next up: Potato Head Beach Club, Bali on Sat 26 Sept.
+Avalon Emerson is a techno and house artist based in United States of America, tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Austin and 49 more. Often billed alongside Sedef Adasï, BASHKKA and Aurora Halal. Next up: Potato Head Beach Club, Bali on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Avalon Emerson is a techno and house artist based in United States of America, t
 | Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Thu, 5 Nov 2026 | Music Hall of Williamsburg | New York City |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
+| Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ Avalon Emerson is a techno and house artist based in United States of America, t
 
 Sedef Adasï, BASHKKA, Aurora Halal
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

@@ -1,6 +1,6 @@
 # Bonjour Ben
 
-Bonjour Ben is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at fi, Cologne on Fri, 23 Oct 2026.
+Bonjour Ben is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at fi, Cologne on Fri, 23 Oct 2026.
 
 Bonjour Ben is a house and techno artist based in Germany, tracked on soundcheck, with 56 sets logged across Berlin, Cologne, Düsseldorf and Hamburg and 3 more. Often billed alongside Daniel Czerner, Edgar Peng and Alma Linda. Next up: fi, Cologne on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Bonjour Ben is a house and techno artist based in Germany, tracked on soundcheck
 
 Daniel Czerner, Edgar Peng, Alma Linda
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonjourben/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonjourben/)*

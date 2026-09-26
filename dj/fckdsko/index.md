@@ -1,6 +1,6 @@
 # FCKDSKO
 
-FCKDSKO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Denver on Fri, 2 Oct 2026.
+FCKDSKO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Denver on Fri, 2 Oct 2026.
 
 FCKDSKO is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Denver and Mexico City. Often billed alongside Alex Whittier, Exos and Andrew Bon Bosher. Next up: TBA, Denver on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ FCKDSKO is a techno and house artist based in United States of America, tracked 
 
 Alex Whittier, Exos, Andrew Bon Bosher
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fckdsko/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fckdsko/)*

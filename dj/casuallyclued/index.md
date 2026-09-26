@@ -1,14 +1,15 @@
 # CasuallyClued
 
-CasuallyClued is a Broken Beat and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Carpet Shop, London on Sat, 10 Oct 2026.
+CasuallyClued is a Broken Beat and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Carpet Shop, London on Sat, 10 Oct 2026.
 
-CasuallyClued is a broken beat and house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Brighton, Leeds and London. Often billed alongside Marvin Jupiter, Juno and Bugz in the Attic. Next up: The Carpet Shop, London on Sat 10 Oct.
+CasuallyClued is a broken beat and house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Brighton, Leeds and London. Often billed alongside Marvin Jupiter, Juno and Bugz in the Attic. Next up: The Carpet Shop, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Carpet Shop | London |
+| Fri, 16 Oct 2026 | Jumbi | London |
 | Sat, 24 Oct 2026 | Hope House | Leeds |
 
 ## Recently played
@@ -26,4 +27,4 @@ CasuallyClued is a broken beat and house artist based in United Kingdom, tracked
 
 Marvin Jupiter, Juno (4), Bugz in the Attic
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casuallyclued/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casuallyclued/)*

@@ -1,6 +1,6 @@
 # Herberta
 
-Herberta is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Old Nun's Head, London on Fri, 2 Oct 2026.
+Herberta is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Old Nun's Head, London on Fri, 2 Oct 2026.
 
 Herberta is a house and minimal techno artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London. Often billed alongside ellzyb, Hannah Thurlow and Luca Perry. Next up: The Old Nun's Head, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Herberta is a house and minimal techno artist based in United Kingdom, tracked o
 
 ellzyb, Hannah Thurlow, Luca Perry
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herberta/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herberta/)*

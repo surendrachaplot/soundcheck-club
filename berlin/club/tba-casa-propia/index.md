@@ -1,6 +1,6 @@
 # TBA - Casa Propia
 
-TBA - Casa Propia is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Amigos del Folclore" on Sat, 26 Sept 2026.
+TBA - Casa Propia is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Amigos del Folclore" on Sat, 26 Sept 2026.
 
 TBA - Casa Propia is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Casa Propia is a music venue in Berlin listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Amigos del Folclore |  |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-casa-propia/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-casa-propia/)*

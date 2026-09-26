@@ -1,6 +1,6 @@
 # Bob Sinclar
 
-Bob Sinclar is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Warehouse, Nantes on Fri, 2 Oct 2026.
+Bob Sinclar is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Warehouse, Nantes on Fri, 2 Oct 2026.
 
 Bob Sinclar is a house and electro artist based in France, tracked on soundcheck, with 43 sets logged across Barcelona, Chicago, Geneva and Ibiza and 12 more. Often billed alongside DJ Gregory, DJ Yellow and DJ Cam. Next up: Warehouse, Nantes on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Bob Sinclar is a house and electro artist based in France, tracked on soundcheck
 
 DJ Gregory, DJ Yellow, DJ Cam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobsinclar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobsinclar/)*

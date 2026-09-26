@@ -1,6 +1,6 @@
 # TYSN
 
-TYSN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Faust, Seoul on Sun, 4 Oct 2026.
+TYSN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Faust, Seoul on Sun, 4 Oct 2026.
 
 TYSN is a house and techno artist based in South Korea, tracked on soundcheck, with 75 sets logged across Seoul. Often billed alongside Gyusco, Ligrye and Bolm. Next up: Faust, Seoul on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ TYSN is a house and techno artist based in South Korea, tracked on soundcheck, w
 
 Gyusco, Ligrye, Bolm
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tysn/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tysn/)*

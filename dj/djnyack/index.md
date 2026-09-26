@@ -1,6 +1,6 @@
 # Dj Nyack
 
-Dj Nyack is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Wax Music Lounge, Melbourne on Fri, 23 Oct 2026.
+Dj Nyack is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Wax Music Lounge, Melbourne on Fri, 23 Oct 2026.
 
 Dj Nyack is a hip-hop and house artist tracked on soundcheck, with 8 sets logged across Melbourne, Sao Paulo and Tokyo. Often billed alongside AmadoPeace, Baku and Cremosa Vinil. Next up: Wax Music Lounge, Melbourne on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Dj Nyack is a hip-hop and house artist tracked on soundcheck, with 8 sets logged
 
 AmadoPeace, Baku, Cremosa Vinil
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnyack/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnyack/)*

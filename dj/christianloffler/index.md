@@ -1,8 +1,8 @@
 # Christian Löffler
 
-Christian Löffler is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cova Santa, Ibiza on Fri, 2 Oct 2026.
+Christian Löffler is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cova Santa, Ibiza on Fri, 2 Oct 2026.
 
-Christian Löffler is a house and electronica artist based in Germany, tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Parra for Cuva, ELIF and Holly North. Next up: Cova Santa, Ibiza on Fri 2 Oct.
+Christian Löffler is a house and electronica artist based in Germany, tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Athens and Austin and 42 more. Often billed alongside Parra for Cuva, ELIF and Holly North. Next up: Cova Santa, Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Christian Löffler is a house and electronica artist based in Germany, tracked o
 | Fri, 9 Oct 2026 | Roxy | Prague |
 | Fri, 30 Oct 2026 | EQ San Diego | San Diego |
 | Sat, 31 Oct 2026 | Public Works | San Francisco/Oakland |
+| Fri, 13 Nov 2026 | ZeyZey | Miami |
 | Tue, 24 Nov 2026 | Teatre Coliseum | Barcelona |
 
 ## Recently played
@@ -29,4 +30,4 @@ Christian Löffler is a house and electronica artist based in Germany, tracked o
 
 Parra for Cuva, ELIF, Holly North
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christianloffler/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christianloffler/)*

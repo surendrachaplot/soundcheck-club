@@ -1,6 +1,6 @@
 # Junior Buzz
 
-Junior Buzz is a Hardcore and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Avalon Cafe Bermondsey, London on Sun, 27 Sept 2026.
+Junior Buzz is a Hardcore and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Avalon Cafe Bermondsey, London on Sun, 27 Sept 2026.
 
 Junior Buzz is a hardcore and jungle artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across London. Often billed alongside Rhi Spect, Hughesee and Louise Plus One. Next up: Avalon Cafe Bermondsey, London on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Junior Buzz is a hardcore and jungle artist based in United Kingdom, tracked on 
 
 Rhi Spect, Hughesee, Louise Plus One
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorbuzz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorbuzz/)*

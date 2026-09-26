@@ -1,6 +1,6 @@
 # Mikropol
 
-Mikropol is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "PURPUR" on Sat, 3 Oct 2026.
+Mikropol is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "PURPUR" on Sat, 3 Oct 2026.
 
 Mikropol is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including BOOTHBUNNY, justpatrick, Kayoso and NØVEX and 1 more. Browse upcoming dates, start times and who's playing. Nollendorfplatz 5, 10777 Berlin.
 
@@ -17,4 +17,4 @@ Mikropol is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with 
 
 Nollendorfplatz 5, 10777 Berlin, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mikropol/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mikropol/)*

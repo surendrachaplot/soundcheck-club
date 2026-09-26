@@ -1,6 +1,6 @@
 # Sahil
 
-Sahil is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lccm, London on Mon, 28 Sept 2026.
+Sahil is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lccm, London on Mon, 28 Sept 2026.
 
 Sahil is a house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Josh German, A Hard Day's Dance and Rodney. Next up: Lccm, London on Mon 28 Sept.
 
@@ -24,4 +24,4 @@ Sahil is a house artist based in United Kingdom, tracked on soundcheck, with 8 s
 
 Josh German, A Hard Day's Dance, Rodney (3)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sahil/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sahil/)*

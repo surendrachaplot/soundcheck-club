@@ -1,6 +1,6 @@
 # iamBrandon
 
-iamBrandon is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Blue Leopard Lounge, Chicago on Sat, 26 Sept 2026.
+iamBrandon is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Blue Leopard Lounge, Chicago on Sat, 26 Sept 2026.
 
 iamBrandon is a house and deep house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Chicago, Detroit and Seattle. Often billed alongside Adorio, Czboogie and Mr. Bobby. Next up: Blue Leopard Lounge, Chicago on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ iamBrandon is a house and deep house artist based in United States of America, t
 
 Adorio, Czboogie, Mr. Bobby
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iambrandon/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iambrandon/)*

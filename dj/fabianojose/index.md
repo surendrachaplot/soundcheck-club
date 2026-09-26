@@ -1,6 +1,6 @@
 # Fabiano José
 
-Fabiano José is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Porto Pollo, Vienna on Sat, 26 Sept 2026.
+Fabiano José is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Porto Pollo, Vienna on Sat, 26 Sept 2026.
 
 Fabiano José is a house and deep house artist based in Austria, tracked on soundcheck, with 71 sets logged across Berlin, Valencia and Vienna. Often billed alongside Reinhard Zach, Verleger and DJ Hill. Next up: Porto Pollo, Vienna on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Fabiano José is a house and deep house artist based in Austria, tracked on soun
 
 Reinhard Zach, Verleger, DJ Hill (2)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianojose/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianojose/)*

@@ -1,14 +1,13 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle" on Fri, 25 Sept 2026.
+Aoyama Hachi is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Motion" on Sun, 27 Sept 2026.
 
-Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including AMARI, ANiIIIIiiiKii, Anri and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
+Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including AMARI, ANiIIIIiiiKii, Anri and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Kenta Tominaga, vinylDJ Eiji Takehana |
 | Sun, 27 Sept 2026 | Motion | Anri (2), CKRN303, Fox (US), KUBOTA, RReona, SIGNAL (JP), TAIYO (2) |
 | Fri, 2 Oct 2026 | SOUND AGENT Vol.10 Final | Pokaska |
 | Sat, 3 Oct 2026 | STAN vol.3 |  |
@@ -18,9 +17,10 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, w
 | Sun, 11 Oct 2026 | 交層 | HELIOT, Haruka Takizawa, KAIKAI, Krankent, Russian Blue, uuu7 |
 | Mon, 12 Oct 2026 | 青天霹靂 Seiten-hekireki | MagRena, Yamashina |
 | Wed, 14 Oct 2026 | BARREL |  |
+| Sun, 18 Oct 2026 | Motion | Ayana Pattra, KUBOTA, Natasha (VE), SIGNAL (JP), TAIYO (2), Tomoya, puffclouds |
 
 ## Address
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

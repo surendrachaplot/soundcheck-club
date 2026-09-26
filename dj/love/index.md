@@ -1,6 +1,6 @@
 # LOVE
 
-LOVE is a Reggaeton and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at M-BIA, Berlin on Sat, 3 Oct 2026.
+LOVE is a Reggaeton and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at M-BIA, Berlin on Sat, 3 Oct 2026.
 
 LOVE is a reggaeton and neo perreo artist based in Panama, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Brisbane and London and 3 more. Often billed alongside DINABN, VICTORIA MOURA and Cquestt. Next up: M-BIA, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ LOVE is a reggaeton and neo perreo artist based in Panama, tracked on soundcheck
 
 DINABN, VICTORIA MOURA, Cquestt
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/love/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/love/)*

@@ -1,6 +1,6 @@
 # The Upbeats
 
-The Upbeats is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
+The Upbeats is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
 
 The Upbeats is a drum & bass and bass artist based in New Zealand, tracked on soundcheck, with 32 sets logged across Amsterdam, Auckland, Berlin and Brighton and 18 more. Often billed alongside Mefjus, Black Sun Empire and Camo & Krooked. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North Island on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ The Upbeats is a drum & bass and bass artist based in New Zealand, tracked on so
 
 Mefjus, Black Sun Empire, Camo & Krooked
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theupbeats/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theupbeats/)*

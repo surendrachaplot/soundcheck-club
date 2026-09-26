@@ -1,6 +1,6 @@
 # Satoshi Otsuki
 
-Satoshi Otsuki is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at WOMB, Tokyo on Sat, 10 Oct 2026.
+Satoshi Otsuki is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at WOMB, Tokyo on Sat, 10 Oct 2026.
 
 Satoshi Otsuki is a techno and house artist based in Japan, tracked on soundcheck, with 103 sets logged across Bangkok, Hong Kong, Kyoto and Osaka and 2 more. Often billed alongside levolant, P-YAN and KABUTO. Next up: WOMB, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Satoshi Otsuki is a techno and house artist based in Japan, tracked on soundchec
 
 levolant, P-YAN, KABUTO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshiotsuki/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshiotsuki/)*

@@ -1,6 +1,6 @@
 # Gunilla
 
-Gunilla is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Block1, Berlin on Sat, 31 Oct 2026.
+Gunilla is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Block1, Berlin on Sat, 31 Oct 2026.
 
 Gunilla is a house and techno artist based in Estonia, tracked on soundcheck, with 21 sets logged across Berlin and Tallinn. Often billed alongside DJ Banba, HAND GIRLS BOY and JAMera. Next up: Block1, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gunilla is a house and techno artist based in Estonia, tracked on soundcheck, wi
 
 DJ Banba, HAND GIRLS BOY, JAMera
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gunilla/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gunilla/)*

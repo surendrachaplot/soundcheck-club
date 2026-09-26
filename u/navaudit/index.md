@@ -1,21 +1,21 @@
 # u/navaudit (@navaudit)
 
-u/navaudit (@navaudit) has logged 6 gigs across 4 venues in 2 cities on soundcheck, based in London.
+u/navaudit (@navaudit) has logged 11 gigs across 7 venues in 4 cities on soundcheck, based in London.
 
-- Gigs logged: 6
-- Venues: 4
-- Cities: 2
-- Seen live: 13
+- Gigs logged: 11
+- Venues: 7
+- Cities: 4
+- Seen live: 27
 
 ## Most seen
 
 - [Aba Shanti-I](https://soundcheck.club/dj/abashanti-i/)
+- [Adiel](https://soundcheck.club/dj/adiel/)
+- [Agata (PL)](https://soundcheck.club/dj/agatapl/)
 - [Anthony Linell](https://soundcheck.club/dj/anthonylinell/)
+- [Ben Klock](https://soundcheck.club/dj/ben-klock/)
+- [Ben Klock](https://soundcheck.club/dj/benklock/)
 - [Budino](https://soundcheck.club/dj/budino/)
 - [Cam Foster](https://soundcheck.club/dj/camfoster/)
-- [Cinthie](https://soundcheck.club/dj/cinthie/)
-- [DASH (SLO)](https://soundcheck.club/dj/dashslo/)
-- [DHÆÜR](https://soundcheck.club/dj/dhaeur/)
-- [DJ Cosworth](https://soundcheck.club/dj/djcosworth/)
 
 *Source: [soundcheck](https://soundcheck.club/u/navaudit/)*

@@ -1,14 +1,13 @@
 # Fatboy Slim
 
-Fatboy Slim is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Malkin Bowl, Vancouver on Fri, 25 Sept 2026.
+Fatboy Slim is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Fatboy Slim is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Malkin Bowl, Vancouver on Fri 25 Sept.
+Fatboy Slim is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Malkin Bowl | Vancouver |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sun, 27 Sept 2026 | 888 Garage | San Francisco/Oakland |
 | Mon, 5 Oct 2026 | Pacha Ibiza | Ibiza |
@@ -19,6 +18,7 @@ Fatboy Slim is a house and tech house artist based in United Kingdom, tracked on
 
 ## Recently played
 
+- Malkin Bowl, Vancouver — Fri, 25 Sept 2026
 - Movistar Arena Buenos Aires, Buenos Aires — Sat, 5 Sept 2026
 - Jet Lounge, Buenos Aires — Thu, 3 Sept 2026
 - [UNVRS], Ibiza — Sat, 22 Aug 2026
@@ -26,10 +26,9 @@ Fatboy Slim is a house and tech house artist based in United Kingdom, tracked on
 - 528 Ibiza, Ibiza — Tue, 11 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Gianpula Village, Malta — Fri, 31 Jul 2026
-- Recinto Mallorca Live, Mallorca — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Sarah Story, Jayda G, Tini Gessler
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*

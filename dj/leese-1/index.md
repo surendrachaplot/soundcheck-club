@@ -1,6 +1,6 @@
 # Leese (1)
 
-Leese (1) is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lavallée, Brussels on Sun, 11 Oct 2026.
+Leese (1) is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lavallée, Brussels on Sun, 11 Oct 2026.
 
 Leese is a bass and dub artist based in Belgium, tracked on soundcheck, with 23 sets logged across Berlin, Brussels, Ghent and Paris and 1 more. Often billed alongside Le Motel, freq444 and AliA. Next up: Lavallée, Brussels on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Leese is a bass and dub artist based in Belgium, tracked on soundcheck, with 23 
 
 Le Motel, freq444, AliA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leese-1/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leese-1/)*

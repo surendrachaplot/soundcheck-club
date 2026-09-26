@@ -1,15 +1,13 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "The Black Box presents: Mefjus" on Thu, 24 Sept 2026.
+The Black Box is a music venue in Denver with 9 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Spektral Groove: Underground Live Forever" on Sat, 26 Sept 2026.
 
-The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming gigs, with line-ups including Daedelus, Daxta, Eichenbaum and Etch and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
+The Black Box is a music venue in Denver listed on soundcheck. 9 upcoming gigs, with line-ups including Eichenbaum, Etch, Monty and Paul Thomas and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | The Black Box presents: Mefjus | Daxta, Mefjus |
-| Fri, 25 Sept 2026 | @adsfradio presents: Daedelus (360 set) with Mux Mool, Sinistarr b2b J Bolivar, Despise | Daedelus, Mux Mool, Sinistarr |
 | Sat, 26 Sept 2026 | Spektral Groove: Underground Live Forever | Eichenbaum, Paul Thomas |
 | Tue, 29 Sept 2026 | Sub.mission Electronic Tuesdays: D:Form |  |
 | Fri, 2 Oct 2026 | Sub.mission presents: Sir Spyro | Sir Spyro |
@@ -18,9 +16,10 @@ The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming gigs,
 | Fri, 23 Oct 2026 | The Black Box presents: Villem | Villem |
 | Sat, 31 Oct 2026 | Sub.mission presents: Monty & Apparition | Monty |
 | Fri, 20 Nov 2026 | The Black Box: 10 Years (Night One) |  |
+| Sat, 21 Nov 2026 | The Black Box: 10 Years (Night Two) |  |
 
 ## Address
 
 314 E. 13th Ave. Denver, CO 80203, Denver
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*

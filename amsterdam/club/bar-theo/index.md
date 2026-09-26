@@ -1,6 +1,6 @@
 # Bar Theo
 
-Bar Theo is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "HARD AEROBICS in Amsterdam, Harp Reworks EP Relaese Party" on Fri, 25 Sept 2026.
+Bar Theo is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "HARD AEROBICS in Amsterdam, Harp Reworks EP Relaese Party" on Fri, 25 Sept 2026.
 
 Bar Theo is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Afrobot, AKIYE, Daniel Enache and Dany E and 2 more. Browse upcoming dates, start times and who's playing. Rozengracht 160, 1016 NJ, Amsterdam.
 
@@ -16,4 +16,4 @@ Bar Theo is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, wi
 
 Rozengracht 160, 1016 NJ, Amsterdam, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bar-theo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bar-theo/)*

@@ -1,14 +1,13 @@
 # The Martinez Brothers
 
-The Martinez Brothers is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Zumana Bali, Bali on Fri, 25 Sept 2026.
+The Martinez Brothers is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Savaya Bali, Bali on Sun, 27 Sept 2026.
 
-The Martinez Brothers is a house and tech house artist based in United States of America, tracked on soundcheck, with 188 sets logged across Amsterdam, Austin, Bali and Barcelona and 35 more. Often billed alongside Paco Osuna, Seth Troxler and Jamie Jones. Next up: Zumana Bali, Bali on Fri 25 Sept.
+The Martinez Brothers is a house and tech house artist based in United States of America, tracked on soundcheck, with 188 sets logged across Amsterdam, Austin, Bali and Barcelona and 35 more. Often billed alongside Paco Osuna, Seth Troxler and Jamie Jones. Next up: Savaya Bali, Bali on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Zumana Bali | Bali |
 | Sun, 27 Sept 2026 | Savaya Bali | Bali |
 | Fri, 2 Oct 2026 | TBA | Central |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
@@ -19,6 +18,7 @@ The Martinez Brothers is a house and tech house artist based in United States of
 
 ## Recently played
 
+- Zumana Bali, Bali — Fri, 25 Sept 2026
 - Refuge, New York City — Sat, 12 Sept 2026
 - Fabrik, Madrid — Sat, 5 Sept 2026
 - [UNVRS], Ibiza — Sun, 23 Aug 2026
@@ -26,10 +26,9 @@ The Martinez Brothers is a house and tech house artist based in United States of
 - Santanna Mykonos, Mykonos — Wed, 12 Aug 2026
 - DC-10, Ibiza — Mon, 10 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
-- Burgess Park, London — Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Paco Osuna, Seth Troxler, Jamie Jones
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*

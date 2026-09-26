@@ -1,6 +1,6 @@
 # Chris IDH
 
-Chris IDH is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Eden NYC, New York City on Sat, 10 Oct 2026.
+Chris IDH is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Eden NYC, New York City on Sat, 10 Oct 2026.
 
 Chris IDH is an afro house and house artist based in Greece, tracked on soundcheck, with 17 sets logged across Amsterdam, Athens, Istanbul and London and 2 more. Often billed alongside Raise, AERES and Alex Wann. Next up: Eden NYC, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Chris IDH is an afro house and house artist based in Greece, tracked on soundche
 
 Raise (2), AERES (1), Alex Wann
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisidh/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisidh/)*

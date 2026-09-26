@@ -1,6 +1,6 @@
 # Donkey Trax
 
-Donkey Trax is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Gleis 6, Berlin on Fri, 2 Oct 2026.
+Donkey Trax is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Gleis 6, Berlin on Fri, 2 Oct 2026.
 
 Donkey Trax is a deep house and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Gaya Kloud, das Kraftfuttermischwerk and Danijel Alpha. Next up: TBA - Gleis 6, Berlin on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Donkey Trax is a deep house and house artist based in Germany, tracked on soundc
 
 Gaya Kloud, das Kraftfuttermischwerk, Danijel Alpha
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donkeytrax/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donkeytrax/)*

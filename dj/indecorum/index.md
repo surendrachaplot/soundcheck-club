@@ -1,6 +1,6 @@
 # Indecorum
 
-Indecorum is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Smolna, Warsaw on Sat, 3 Oct 2026.
+Indecorum is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Smolna, Warsaw on Sat, 3 Oct 2026.
 
 Indecorum is a techno and trance artist based in Poland, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Cologne and Dublin and 15 more. Often billed alongside EARGASM GOD, BRAVO GRL and Piotr Ho. Next up: Smolna, Warsaw on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Indecorum is a techno and trance artist based in Poland, tracked on soundcheck, 
 
 EARGASM GOD, BRAVO GRL, Piotr Ho
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indecorum/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indecorum/)*

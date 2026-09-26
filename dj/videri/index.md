@@ -1,6 +1,6 @@
 # Videri
 
-Videri is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Vertigo, Toronto on Fri, 30 Oct 2026.
+Videri is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Vertigo, Toronto on Fri, 30 Oct 2026.
 
 Videri is a tech house and house artist based in Canada, tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside SHERA, Sydney Blu and Kill Them With Colour. Next up: Vertigo, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Videri is a tech house and house artist based in Canada, tracked on soundcheck, 
 
 SHERA, Sydney Blu, Kill Them With Colour
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/videri/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/videri/)*

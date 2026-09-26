@@ -1,6 +1,6 @@
 # DJ BASS
 
-DJ BASS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Xolo, Munich on Sat, 10 Oct 2026.
+DJ BASS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Xolo, Munich on Sat, 10 Oct 2026.
 
 DJ BASS is a techno and house artist tracked on soundcheck, with 14 sets logged across Antwerp, Berlin, Budapest and Madrid and 3 more. Often billed alongside DJ Sucuk, REMEN and ALBA. Next up: Xolo, Munich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ BASS is a techno and house artist tracked on soundcheck, with 14 sets logged 
 
 DJ Sucuk, REMEN, ALBA (3)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbass/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbass/)*

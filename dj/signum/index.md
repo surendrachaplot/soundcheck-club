@@ -1,6 +1,6 @@
 # Signum
 
-Signum is a Trance and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
+Signum is a Trance and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
 
 Signum is a trance and club artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Birmingham, Brighton, Dublin and Glasgow and 8 more. Often billed alongside Dave Pearce, Lange and Billy Gillies. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Signum is a trance and club artist based in Netherlands, tracked on soundcheck, 
 
 Dave Pearce, Lange, Billy Gillies
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/signum/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/signum/)*

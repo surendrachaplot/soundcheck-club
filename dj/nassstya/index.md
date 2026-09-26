@@ -1,6 +1,6 @@
 # Nassstya
 
-Nassstya is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 1 Oct 2026.
+Nassstya is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 1 Oct 2026.
 
 Nassstya is a bass and drum & bass artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Sarah Q, Usus and ASSISTANT DJ. Next up: Golden Pudel Club, Hamburg on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Nassstya is a bass and drum & bass artist based in Germany, tracked on soundchec
 
 Sarah Q, Usus, ASSISTANT DJ
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nassstya/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nassstya/)*

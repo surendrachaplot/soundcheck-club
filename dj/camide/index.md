@@ -1,6 +1,6 @@
 # CAMI (DE)
 
-CAMI (DE) is a Tech House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Beate Uwe, Berlin on Sat, 3 Oct 2026.
+CAMI (DE) is a Tech House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Beate Uwe, Berlin on Sat, 3 Oct 2026.
 
 CAMI (DE) is a tech house and downtempo artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Munich. Often billed alongside Laura Sí, Dora Dox and LEZÚR. Next up: Beate Uwe, Berlin on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ CAMI (DE) is a tech house and downtempo artist based in Germany, tracked on soun
 
 Laura Sí, Dora Dox, LEZÚR
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camide/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camide/)*

@@ -1,6 +1,6 @@
 # Daz Scott
 
-Daz Scott is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club 69, Glasgow on Sat, 10 Oct 2026.
+Daz Scott is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Club 69, Glasgow on Sat, 10 Oct 2026.
 
 Daz Scott is a house and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Glasgow. Often billed alongside Daniel Anderson, Elliott Skeoch and Stephen Taggart. Next up: Club 69, Glasgow on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Daz Scott is a house and techno artist based in United Kingdom, tracked on sound
 
 Daniel Anderson, Elliott Skeoch, Stephen Taggart
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dazscott/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dazscott/)*

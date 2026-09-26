@@ -1,6 +1,6 @@
 # Ol.G
 
-Ol.G is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gut Level, Sheffield on Sat, 3 Oct 2026.
+Ol.G is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Gut Level, Sheffield on Sat, 3 Oct 2026.
 
 Ol.G is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across North and Sheffield. Often billed alongside Esmé, Joi L.F and Porter Brook. Next up: Gut Level, Sheffield on Sat 3 Oct.
 
@@ -16,4 +16,4 @@ Ol.G is a drum & bass and jungle artist based in United Kingdom, tracked on soun
 
 Esmé, Joi L.F, Porter Brook
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ol.g/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ol.g/)*

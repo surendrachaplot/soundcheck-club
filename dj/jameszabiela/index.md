@@ -1,14 +1,13 @@
 # James Zabiela
 
-James Zabiela is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Steel Yard, London on Fri, 25 Sept 2026.
+James Zabiela is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 528 Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-James Zabiela is a house and techno artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Auckland, Barcelona, Belfast and Belgrade and 25 more. Often billed alongside Sasha, Anthony Pappa and Danny Howells. Next up: The Steel Yard, London on Fri 25 Sept.
+James Zabiela is a house and techno artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Auckland, Barcelona, Belfast and Belgrade and 25 more. Often billed alongside Sasha, Anthony Pappa and Danny Howells. Next up: 528 Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | The Steel Yard | London |
 | Thu, 1 Oct 2026 | 528 Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | Patterns | Brighton |
 | Sat, 24 Oct 2026 | WaV | Liverpool |
@@ -16,6 +15,7 @@ James Zabiela is a house and techno artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- The Steel Yard, London — Fri, 25 Sept 2026
 - TBA - Club Morocco, Costa Salguero, Buenos Aires — Fri, 4 Sept 2026
 - Flash, Washington DC — Sat, 22 Aug 2026
 - Joshua Brooks, Manchester — Sat, 11 Jul 2026
@@ -23,10 +23,9 @@ James Zabiela is a house and techno artist based in United Kingdom, tracked on s
 - Plaza Hotel Sydney, Sydney — Sun, 7 Jun 2026
 - TBA - Eclipse, Brisbane — Sat, 6 Jun 2026
 - Northcote Theatre, Melbourne — Fri, 5 Jun 2026
-- RASA, Singapore — Sat, 23 May 2026
 
 ## Shares bills with
 
 Sasha, Anthony Pappa, Danny Howells
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameszabiela/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameszabiela/)*

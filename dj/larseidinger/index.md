@@ -1,19 +1,19 @@
 # Lars Eidinger
 
-Lars Eidinger is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Salon des Amateurs, Düsseldorf on Fri, 25 Sept 2026.
+Lars Eidinger is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kater, Berlin on Fri, 30 Oct 2026.
 
-Lars Eidinger is a house and disco artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Cologne, Düsseldorf and Munich. Often billed alongside Voltmar, Kapote and A.tari. Next up: Salon des Amateurs, Düsseldorf on Fri 25 Sept.
+Lars Eidinger is a house and disco artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Cologne, Düsseldorf and Munich. Often billed alongside Voltmar, A.tari and Kapote. Next up: Kater, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Salon des Amateurs | Düsseldorf |
 | Fri, 30 Oct 2026 | Kater | Berlin |
 | Fri, 4 Dec 2026 | Studio1111 | Berlin |
 
 ## Recently played
 
+- Salon des Amateurs, Düsseldorf — Fri, 25 Sept 2026
 - Studio1111, Berlin — Fri, 4 Sept 2026
 - Odonien, Cologne — Sat, 7 Mar 2026
 - Studio1111, Berlin — Fri, 6 Mar 2026
@@ -21,10 +21,9 @@ Lars Eidinger is a house and disco artist based in Germany, tracked on soundchec
 - Studio1111, Berlin — Fri, 6 Feb 2026
 - Kater, Berlin — Sat, 31 Jan 2026
 - Studio1111, Berlin — Fri, 9 Jan 2026
-- MaHalla, Berlin — Wed, 31 Dec 2025
 
 ## Shares bills with
 
-Voltmar, Kapote, A.tari
+Voltmar, A.tari, Kapote
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larseidinger/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larseidinger/)*

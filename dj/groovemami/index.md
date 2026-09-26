@@ -1,6 +1,6 @@
 # Groovemami
 
-Groovemami is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Skin Club, Madrid on Sat, 26 Sept 2026.
+Groovemami is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Skin Club, Madrid on Sat, 26 Sept 2026.
 
 Groovemami is a house and techno artist based in Spain, tracked on soundcheck, with 25 sets logged across Barcelona and Madrid. Often billed alongside CH3LO, DISTORT (ES) and MIQUELISSIMO. Next up: Skin Club, Madrid on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Groovemami is a house and techno artist based in Spain, tracked on soundcheck, w
 
 CH3LO, DISTORT (ES), MIQUELISSIMO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groovemami/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groovemami/)*

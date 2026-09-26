@@ -1,6 +1,6 @@
 # Mike Parker
 
-Mike Parker is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Fri, 23 Oct 2026.
+Mike Parker is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Signal, New York City on Fri, 23 Oct 2026.
 
 Mike Parker is a techno and experimental artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Athens, Berlin and Bristol and 17 more. Often billed alongside Kudeki, Adam X and Christian AB. Next up: Signal, New York City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Mike Parker is a techno and experimental artist based in United States of Americ
 
 Kudeki, Adam X, Christian AB
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeparker/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeparker/)*

@@ -1,6 +1,6 @@
 # Luna Ludmila
 
-Luna Ludmila is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Open Ground, Wuppertal on Sat, 26 Sept 2026.
+Luna Ludmila is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Open Ground, Wuppertal on Sat, 26 Sept 2026.
 
 Luna Ludmila is a house and techno artist based in Netherlands, tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside Nuno dos Santos, Bart Skils and Carlos Valdes. Next up: Open Ground, Wuppertal on Sat 26 Sept.
 
@@ -31,4 +31,4 @@ Luna Ludmila is a house and techno artist based in Netherlands, tracked on sound
 
 Nuno dos Santos, Bart Skils, Carlos Valdes
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunaludmila/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunaludmila/)*

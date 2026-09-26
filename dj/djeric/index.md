@@ -1,6 +1,6 @@
 # Eric (UA)
 
-Eric (UA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hive Club, Zurich on Sat, 3 Oct 2026.
+Eric (UA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Hive Club, Zurich on Sat, 3 Oct 2026.
 
 Eric (UA) is a techno and house artist based in Ukraine, tracked on soundcheck, with 8 sets logged across Berlin, Warsaw and Zurich. Often billed alongside Elnur, ACID FLORA and Andrii.. Next up: Hive Club, Zurich on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Eric (UA) is a techno and house artist based in Ukraine, tracked on soundcheck, 
 
 Elnur, ACID FLORA, Andrii.
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djeric/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djeric/)*

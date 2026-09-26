@@ -1,6 +1,6 @@
 # Klint
 
-Klint is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Radost Music Club, Bratislava on Fri, 2 Oct 2026.
+Klint is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Radost Music Club, Bratislava on Fri, 2 Oct 2026.
 
 Klint is a club and techno artist tracked on soundcheck, with 9 sets logged across Belgrade, Berlin, Bratislava and London and 3 more. Often billed alongside AUCO, Airod and Alan Fitzpatrick. Next up: Radost Music Club, Bratislava on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Klint is a club and techno artist tracked on soundcheck, with 9 sets logged acro
 
 AUCO, Airod, Alan Fitzpatrick
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klint/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klint/)*

@@ -1,15 +1,13 @@
 # Cinetol
 
-Cinetol is a music venue in Amsterdam with 24 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "GB" on Thu, 24 Sept 2026.
+Cinetol is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Shadowfall Festival 2026" on Sat, 26 Sept 2026.
 
-Cinetol is a music venue in Amsterdam listed on soundcheck. 24 upcoming gigs, with line-ups including AFAR, Camy Huot, Deep Forest and Dublon and 2 more. Browse upcoming dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
+Cinetol is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, with line-ups including AFAR, Camy Huot, Deep Forest and Dublon and 2 more. Browse upcoming dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | GB |  |
-| Fri, 25 Sept 2026 | HALLOWS + Orus Boris + Grauzone DJ team |  |
 | Sat, 26 Sept 2026 | Shadowfall Festival 2026 | Camy Huot, Entrp |
 | Wed, 30 Sept 2026 | AFAR | AFAR |
 | Tue, 6 Oct 2026 | Deep Forest | Deep Forest |
@@ -18,9 +16,11 @@ Cinetol is a music venue in Amsterdam listed on soundcheck. 24 upcoming gigs, wi
 | Sat, 17 Oct 2026 | Sergeant |  |
 | Sun, 18 Oct 2026 | Born at Midnite |  |
 | Mon, 19 Oct 2026 | $quib + Chris Olsen |  |
+| Thu, 22 Oct 2026 | Niels Orens support: echofarmer | Niels Orens, echofarmer |
+| Fri, 23 Oct 2026 | Warhaus - i.s.m paradiso | Warhaus |
 
 ## Address
 
 Tolstraat 182, 1074VM Amsterdam, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*

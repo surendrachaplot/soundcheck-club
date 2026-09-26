@@ -1,6 +1,6 @@
 # erlin james
 
-erlin james is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Macarena Club, Barcelona on Sat, 10 Oct 2026.
+erlin james is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Macarena Club, Barcelona on Sat, 10 Oct 2026.
 
 erlin james is a house and techno artist based in Colombia, tracked on soundcheck, with 44 sets logged across Barcelona, London, Madrid and Mallorca and 3 more. Often billed alongside DJ. Will, Alice Caroline and Rufo. Next up: Macarena Club, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ erlin james is a house and techno artist based in Colombia, tracked on soundchec
 
 DJ. Will, Alice Caroline, Rufo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erlinjames/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erlinjames/)*

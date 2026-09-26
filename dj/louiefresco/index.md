@@ -1,6 +1,6 @@
 # Louie Fresco
 
-Louie Fresco is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fünk, Mexico City on Fri, 2 Oct 2026.
+Louie Fresco is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Fünk, Mexico City on Fri, 2 Oct 2026.
 
 Louie Fresco is a house and minimal artist based in Uzbekistan, tracked on soundcheck, with 51 sets logged across London, Malaga and Mexico City. Often billed alongside Mejia, Gallō and Gescu. Next up: Fünk, Mexico City on Fri 2 Oct.
 
@@ -9,7 +9,7 @@ Louie Fresco is a house and minimal artist based in Uzbekistan, tracked on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Fünk | Mexico City |
-| Sun, 4 Oct 2026 | TBA - Greenhouse | Mexico City |
+| Sun, 4 Oct 2026 | TBA | Mexico City |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Louie Fresco is a house and minimal artist based in Uzbekistan, tracked on sound
 
 Mejia, Gallō, Gescu
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louiefresco/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louiefresco/)*

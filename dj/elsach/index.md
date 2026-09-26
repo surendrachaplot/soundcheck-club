@@ -1,6 +1,6 @@
 # Elsa (CH)
 
-Elsa (CH) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kauz, Zurich on Sun, 25 Oct 2026.
+Elsa (CH) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Kauz, Zurich on Sun, 25 Oct 2026.
 
 Elsa (CH) is a house and techno artist based in Switzerland, tracked on soundcheck, with 12 sets logged across Basel, Berlin, Paris and Strasbourg and 1 more. Often billed alongside Osiris, Elsa Bernini and Jan Loup. Next up: Kauz, Zurich on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Elsa (CH) is a house and techno artist based in Switzerland, tracked on soundche
 
 Osiris (4), Elsa Bernini, Jan Loup
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elsach/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elsach/)*

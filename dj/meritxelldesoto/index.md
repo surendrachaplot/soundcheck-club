@@ -1,6 +1,6 @@
 # Meritxell De Soto
 
-Meritxell De Soto is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nitsa Club, Barcelona on Sat, 31 Oct 2026.
+Meritxell De Soto is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Nitsa Club, Barcelona on Sat, 31 Oct 2026.
 
 Meritxell De Soto is a techno and latin bass artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Verushka, AMANTRA and EYRA. Next up: Nitsa Club, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Meritxell De Soto is a techno and latin bass artist tracked on soundcheck, with 
 
 Verushka, AMANTRA, EYRA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meritxelldesoto/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meritxelldesoto/)*

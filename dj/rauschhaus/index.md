@@ -1,14 +1,13 @@
 # Rauschhaus
 
-Rauschhaus is a Techno and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Bunker @ The Rolling Stock, London on Thu, 24 Sept 2026.
+Rauschhaus is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Veronica Schip, Amsterdam on Sat, 26 Sept 2026.
 
-Rauschhaus is a techno and progressive house artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Markus Klee, Around Us and Callecat. Next up: The Bunker @ The Rolling Stock, London on Thu 24 Sept.
+Rauschhaus is a techno and progressive house artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Markus Klee, Around Us and Callecat. Next up: Veronica Schip, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | The Bunker @ The Rolling Stock | London |
 | Sat, 26 Sept 2026 | Veronica Schip | Amsterdam |
 | Sat, 3 Oct 2026 | Ritter Butzke | Berlin |
 | Wed, 21 Oct 2026 | Kadinsky Cafe | Amsterdam |
@@ -18,6 +17,7 @@ Rauschhaus is a techno and progressive house artist based in Germany, tracked on
 
 ## Recently played
 
+- The Bunker @ The Rolling Stock, London — Thu, 24 Sept 2026
 - elipamanoke, Leipzig — Fri, 10 Apr 2026
 - Tanzhaus West, Frankfurt — Sat, 10 Jan 2026
 - Turtur, Hamburg — Sat, 22 Nov 2025
@@ -25,10 +25,9 @@ Rauschhaus is a techno and progressive house artist based in Germany, tracked on
 - Bar Feijoa, Amsterdam — Fri, 24 Oct 2025
 - Kadinsky Cafe, Amsterdam — Thu, 23 Oct 2025
 - Ritter Butzke, Berlin — Sat, 18 Oct 2025
-- TBA - Mystic Creatures Festival, Berlin — Thu, 4 Sept 2025
 
 ## Shares bills with
 
 Markus Klee, Around Us, Callecat
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschhaus/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschhaus/)*

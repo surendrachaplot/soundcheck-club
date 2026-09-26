@@ -1,14 +1,13 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "VYBE / HARDTRANCE & HARDBOUNCE / TICKETS 5€" on Fri, 25 Sept 2026.
+M-BIA is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Tropical Nomads presents: Technology (Nano Rec.) & ARAM (Believe Lab)" on Sat, 26 Sept 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Daora, fU.impact, Gaya Carmeli and HIGH VIBES and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Daora, fU.impact, Gaya Carmeli and HIGH VIBES and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | VYBE / HARDTRANCE & HARDBOUNCE / TICKETS 5€ | MØABEAT, Popsen, TECHSIA, mølly (on molly) |
 | Sat, 26 Sept 2026 | Tropical Nomads presents: Technology (Nano Rec.) & ARAM (Believe Lab) |  |
 | Fri, 2 Oct 2026 | HARD SOLUTION with FURYAN • EYCER • CRACKY KOKSBERG • DISTRICT RED • PHIESI • REDMANN • ABZOCKA | Sei A, Techno Frühstück, Tekk, Tekk DJ'z, Tekknik |
 | Sat, 3 Oct 2026 | PsyLab Unity [Psytrance Rave] | Daora, LOVE, Sonse, fU.impact |
@@ -18,9 +17,10 @@ M-BIA is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with li
 | Sat, 17 Oct 2026 | Freakquency with Red Sun | Daora, K3VKO, RHYTMOX |
 | Fri, 23 Oct 2026 | Rave Cage with Dr. Sheppat & NYXEA | NYXEA |
 | Sat, 24 Oct 2026 | Goanautika w./ Bliss |  |
+| Fri, 30 Oct 2026 | Nyctophilia | NYXEA, SON!CA |
 
 ## Address
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

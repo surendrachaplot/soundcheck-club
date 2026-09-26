@@ -1,6 +1,6 @@
 # Malandra JR
 
-Malandra JR is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pracht, Frankfurt on Sat, 26 Sept 2026.
+Malandra JR is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Pracht, Frankfurt on Sat, 26 Sept 2026.
 
 Malandra JR is a house and techno artist based in Italy, tracked on soundcheck, with 9 sets logged across Berlin, Brussels, Frankfurt and Ibiza and 3 more. Often billed alongside Hugorieri, Andre Winter and Belben. Next up: Pracht, Frankfurt on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Malandra JR is a house and techno artist based in Italy, tracked on soundcheck, 
 
 Hugorieri, Andre Winter, Belben
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malandrajr/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malandrajr/)*

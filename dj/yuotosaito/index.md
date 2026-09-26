@@ -1,6 +1,6 @@
 # Yuoto Saito
 
-Yuoto Saito is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Enter Shibuya, Tokyo on Fri, 9 Oct 2026.
+Yuoto Saito is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Enter Shibuya, Tokyo on Fri, 9 Oct 2026.
 
 Yuoto Saito is a techno and trance artist based in Japan, tracked on soundcheck, with 45 sets logged across Tokyo. Often billed alongside SAITO, Usk° and TEI TEI. Next up: Enter Shibuya, Tokyo on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Yuoto Saito is a techno and trance artist based in Japan, tracked on soundcheck,
 
 SAITO, Usk°, TEI TEI
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuotosaito/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuotosaito/)*

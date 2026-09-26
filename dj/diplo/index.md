@@ -1,6 +1,6 @@
 # Diplo
 
-Diplo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 600 Pennsylvania Ave, NW, Washington DC on Sat, 3 Oct 2026.
+Diplo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - 600 Pennsylvania Ave, NW, Washington DC on Sat, 3 Oct 2026.
 
 Diplo is a house and techno artist based in United States of America, tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Bali and Barcelona and 23 more. Often billed alongside Charlotte de Witte, Claptone and DJ Holographic. Next up: TBA - 600 Pennsylvania Ave, NW, Washington DC on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Diplo is a house and techno artist based in United States of America, tracked on
 
 Charlotte de Witte, Claptone, DJ Holographic
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diplo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diplo/)*

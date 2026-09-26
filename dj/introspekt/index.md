@@ -1,14 +1,13 @@
 # Introspekt
 
-Introspekt is a Garage and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Ground at Club Space, Miami on Fri, 25 Sept 2026.
+Introspekt is a Garage and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Nowadays, New York City on Sat, 26 Sept 2026.
 
-Introspekt is a garage and techno artist based in United States of America, tracked on soundcheck, with 188 sets logged across Amsterdam, Austin, Barcelona and Belfast and 43 more. Often billed alongside Octo Octa, CCL and Angel D'lite. Next up: The Ground at Club Space, Miami on Fri 25 Sept.
+Introspekt is a garage and techno artist based in United States of America, tracked on soundcheck, with 188 sets logged across Amsterdam, Austin, Barcelona and Belfast and 43 more. Often billed alongside Octo Octa, CCL and Angel D'lite. Next up: Nowadays, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | The Ground at Club Space | Miami |
 | Sat, 26 Sept 2026 | Nowadays | New York City |
 | Fri, 2 Oct 2026 | Palais | London |
 | Sun, 4 Oct 2026 | Sonnenraum | Berlin |
@@ -22,6 +21,7 @@ Introspekt is a garage and techno artist based in United States of America, trac
 
 ## Recently played
 
+- The Ground at Club Space, Miami — Fri, 25 Sept 2026
 - Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Phonox, London — Sat, 29 Aug 2026
 - TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
@@ -29,10 +29,9 @@ Introspekt is a garage and techno artist based in United States of America, trac
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Südpol, Hamburg — Sat, 1 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- Ormside Projects, London — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Octo Octa, CCL, Angel D'lite
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*

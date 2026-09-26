@@ -1,6 +1,6 @@
 # BIANKA
 
-BIANKA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
+BIANKA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
 
 BIANKA is a techno and house artist based in Venezuela, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Bucharest and Cologne and 6 more. Often billed alongside Hashashin, Maria Cue and Beste Hira. Next up: TBA, Amsterdam on Sun 27 Sept.
 
@@ -29,4 +29,4 @@ BIANKA is a techno and house artist based in Venezuela, tracked on soundcheck, w
 
 Hashashin, Maria Cue, Beste Hira
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bianka/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bianka/)*

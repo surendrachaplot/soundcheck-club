@@ -1,6 +1,6 @@
 # VANNA
 
-VANNA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+VANNA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
 VANNA is a techno and trance artist tracked on soundcheck, with 18 sets logged across Madrid, Melbourne, New York City and Paris and 1 more. Often billed alongside Afrodisiac, DJ PGZ and Girl Crush. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ VANNA is a techno and trance artist tracked on soundcheck, with 18 sets logged a
 
 Afrodisiac, DJ PGZ, Girl Crush
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanna/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanna/)*

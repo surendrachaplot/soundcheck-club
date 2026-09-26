@@ -1,6 +1,6 @@
 # MAREAM
 
-MAREAM is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at clubasia, Tokyo on Sat, 26 Sept 2026.
+MAREAM is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at clubasia, Tokyo on Sat, 26 Sept 2026.
 
 MAREAM is a techno and bass artist based in Japan, tracked on soundcheck, with 37 sets logged across Amsterdam, Rotterdam and Tokyo. Often billed alongside Dexon, Goth-Trad and CITY1. Next up: clubasia, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ MAREAM is a techno and bass artist based in Japan, tracked on soundcheck, with 3
 
 Dexon, Goth-Trad, CITY1
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maream/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maream/)*

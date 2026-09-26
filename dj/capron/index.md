@@ -1,6 +1,6 @@
 # Capron
 
-Capron is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Grand Hotel Amrâth Kurhaus, The Hague on Sat, 31 Oct 2026.
+Capron is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Grand Hotel Amrâth Kurhaus, The Hague on Sat, 31 Oct 2026.
 
 Capron is a house and tech house artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, London and Rotterdam and 1 more. Often billed alongside Stef Davidse, AAT (NL) and Ammé. Next up: Grand Hotel Amrâth Kurhaus, The Hague on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Capron is a house and tech house artist based in Netherlands, tracked on soundch
 
 Stef Davidse, AAT (NL), Ammé
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/capron/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/capron/)*

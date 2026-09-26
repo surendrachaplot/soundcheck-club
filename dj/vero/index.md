@@ -1,14 +1,13 @@
 # Vero
 
-Vero is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Vero is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Sky Club, Leipzig on Sat, 28 Nov 2026.
 
-Vero is a techno and house artist based in Ukraine, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Leipzig and London and 1 more. Often billed alongside ACID FLORA, AMBAM and Aio. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
+Vero is a techno and house artist based in Ukraine, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Leipzig and London and 1 more. Often billed alongside AMBAM, Aio and Alexis Hera. Next up: Sky Club, Leipzig on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 28 Nov 2026 | Sky Club | Leipzig |
 
 ## Recently played
@@ -24,6 +23,6 @@ Vero is a techno and house artist based in Ukraine, tracked on soundcheck, with 
 
 ## Shares bills with
 
-ACID FLORA, AMBAM, Aio
+AMBAM, Aio, Alexis Hera
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vero/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vero/)*

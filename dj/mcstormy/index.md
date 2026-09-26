@@ -1,14 +1,14 @@
 # MC Stormy
 
-MC Stormy is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Barcelona on Sat, 21 Nov 2026.
+MC Stormy is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 21 Nov 2026.
 
-MC Stormy is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Barcelona. Often billed alongside VJ Meerkat, Jon-roy and Prime Bassound. Next up: TBA, Barcelona on Sat 21 Nov.
+MC Stormy is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Barcelona. Often billed alongside VJ Meerkat, Jon-roy and Prime Bassound. Next up: Village Underground Barcelona, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA | Barcelona |
+| Sat, 21 Nov 2026 | Village Underground Barcelona | Barcelona |
 | Sat, 19 Dec 2026 | Village Underground Barcelona | Barcelona |
 
 ## Recently played
@@ -26,4 +26,4 @@ MC Stormy is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 VJ Meerkat, Jon-roy, Prime Bassound
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcstormy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcstormy/)*

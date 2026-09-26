@@ -1,6 +1,6 @@
 # Brennan Heart
 
-Brennan Heart is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Brennan Heart is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
 Brennan Heart is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, Cologne, Düsseldorf and Frankfurt and 9 more. Often billed alongside Coone, Paul Elstak and Dimitri K. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Brennan Heart is a hardcore and techno artist based in Netherlands, tracked on s
 
 Coone, Paul Elstak, Dimitri K
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brennanheart/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brennanheart/)*

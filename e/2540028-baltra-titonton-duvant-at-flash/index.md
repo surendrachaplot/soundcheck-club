@@ -1,6 +1,6 @@
 # Baltra - Titonton Duvanté at Flash
 
-Baltra - Titonton Duvanté at Flash on Fri 2 Oct, Washingtondc. 5 acts on the bill: Andy Grant, Baltra, deepnotiQ and KayLaSoul and 1 more. Preview the line-up and save it on soundcheck.
+Baltra - Titonton Duvanté at Flash on Fri 2 Oct, Washington DC. 5 artists on the bill: Andy Grant, Baltra, deepnotiQ and KayLaSoul and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

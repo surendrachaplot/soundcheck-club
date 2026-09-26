@@ -1,14 +1,16 @@
 # Disrupta
 
-Disrupta is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Eatons Hill Hotel and Function Centre, Brisbane on Sat, 26 Sept 2026.
+Disrupta is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Eatons Hill Hotel and Function Centre, Brisbane on Sat, 26 Sept 2026.
 
-Disrupta is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Auckland and Bali and 22 more. Often billed alongside Kanine, Camo & Krooked and BassLayerz. Next up: Eatons Hill Hotel and Function Centre, Brisbane on Sat 26 Sept.
+Disrupta is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Auckland and Bali and 24 more. Often billed alongside Kanine, Camo & Krooked and Crossy. Next up: Eatons Hill Hotel and Function Centre, Brisbane on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Eatons Hill Hotel and Function Centre | Brisbane |
+| Sun, 27 Sept 2026 | Burswood Dome | Perth |
+| Fri, 2 Oct 2026 | Wolfbrook Arena | Christchurch |
 | Sat, 3 Oct 2026 | The Trusts Stadium | Auckland |
 | Mon, 5 Oct 2026 | The Ivy | Sydney |
 | Sat, 24 Oct 2026 | XOYO | London |
@@ -27,6 +29,6 @@ Disrupta is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 ## Shares bills with
 
-Kanine, Camo & Krooked, BassLayerz
+Kanine, Camo & Krooked, Crossy
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disrupta/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disrupta/)*

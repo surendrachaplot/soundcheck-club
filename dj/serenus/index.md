@@ -1,8 +1,8 @@
 # Serenus
 
-Serenus is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Start.Bahn - Genezarethkirche, Berlin on Thu, 3 Dec 2026.
+Serenus is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Start.Bahn - Genezarethkirche, Berlin on Thu, 3 Dec 2026.
 
-Serenus is a techno and ambient artist based in Germany, tracked on soundcheck, with 35 sets logged across Amsterdam and Berlin. Often billed alongside APRS, Am Nil and Calcium Channel. Next up: Start.Bahn - Genezarethkirche, Berlin on Thu 3 Dec.
+Serenus is a techno and minimal artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam and Berlin. Often billed alongside APRS, Am Nil and Calcium Channel. Next up: Start.Bahn - Genezarethkirche, Berlin on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -12,7 +12,6 @@ Serenus is a techno and ambient artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Genezareth-Kirche, Berlin — Thu, 3 Sept 2026
 - Ikii, Berlin — Wed, 20 May 2026
 - TBA - Neuköln, Berlin — Fri, 15 May 2026
 - Genezareth-Kirche, Berlin — Thu, 12 Mar 2026
@@ -20,9 +19,10 @@ Serenus is a techno and ambient artist based in Germany, tracked on soundcheck, 
 - TBA - Neukölln, Berlin — Fri, 21 Nov 2025
 - Start.Bahn - Genezarethkirche, Berlin — Thu, 6 Nov 2025
 - Zwart Goud Record Store, Amsterdam — Wed, 22 Oct 2025
+- TBA - Neukölln, Berlin — Fri, 26 Sept 2025
 
 ## Shares bills with
 
 APRS, Am Nil, Calcium Channel
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serenus/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serenus/)*

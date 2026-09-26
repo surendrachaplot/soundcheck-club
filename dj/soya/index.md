@@ -1,6 +1,6 @@
 # SOYA
 
-SOYA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kompass Klub, Ghent on Sat, 28 Nov 2026.
+SOYA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Kompass Klub, Ghent on Sat, 28 Nov 2026.
 
 SOYA is a techno and house artist based in Belgium, tracked on soundcheck, with 16 sets logged across Antwerp, Ghent, Paris and Tokyo. Often billed alongside Jane Muss, Azra Tekuma and Kompass Traxx. Next up: Kompass Klub, Ghent on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ SOYA is a techno and house artist based in Belgium, tracked on soundcheck, with 
 
 Jane Muss, Azra Tekuma, Kompass Traxx
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soya/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soya/)*

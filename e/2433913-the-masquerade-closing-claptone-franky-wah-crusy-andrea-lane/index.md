@@ -1,10 +1,10 @@
 # The Masquerade Closing: Claptone, Franky Wah, Crusy, Andrea Lane B2B Dario Nunez at Chinois Ibiza
 
-The Masquerade Closing: Claptone, Franky Wah, Crusy, Andrea Lane B2B Dario Nunez at Chinois Ibiza on Sat 10 Oct, Ibiza. 3 artists on the bill: Claptone, Crusy and Franky Wah. House and Tech House. Preview the line-up and save it on soundcheck.
+The Masquerade Closing: Claptone, Franky Wah, Crusy, Andrea Lane B2B Dario Nunez at Chinois Ibiza on Sun 11 Oct, Ibiza. 3 artists on the bill: Claptone, Crusy and Franky Wah. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 10 Oct 2026 |
+| Date | Sun, 11 Oct 2026 |
 | Venue | Chinois Ibiza |
 | City | Ibiza |
 

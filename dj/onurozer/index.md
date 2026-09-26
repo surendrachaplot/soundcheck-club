@@ -1,6 +1,6 @@
 # Onur Özer
 
-Onur Özer is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Onur Özer is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Onur Özer is a techno and house artist based in Germany, tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Christian AB, Francesco Del Garda and Lumiere. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -31,4 +31,4 @@ Onur Özer is a techno and house artist based in Germany, tracked on soundcheck,
 
 Christian AB, Francesco Del Garda, Lumiere
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*

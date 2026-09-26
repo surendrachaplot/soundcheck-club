@@ -1,6 +1,6 @@
 # Joe Armon-Jones
 
-Joe Armon-Jones is a Jazz and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at New Century Locker, Manchester on Fri, 4 Dec 2026.
+Joe Armon-Jones is a Jazz and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at New Century Locker, Manchester on Fri, 4 Dec 2026.
 
 Joe Armon-Jones is a jazz and garage artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Berlin, Bristol, Copenhagen and London and 1 more. Often billed alongside Maxwell Owin, Bakey and Dave Harvey. Next up: New Century Locker, Manchester on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Joe Armon-Jones is a jazz and garage artist based in United Kingdom, tracked on 
 
 Maxwell Owin, Bakey, Dave Harvey
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joearmon-jones/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joearmon-jones/)*

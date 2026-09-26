@@ -1,14 +1,15 @@
 # SITTENLOS
 
-SITTENLOS is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Garagen, Cologne on Sat, 26 Sept 2026.
+SITTENLOS is a Gabber and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Garagen, Cologne on Sat, 26 Sept 2026.
 
-SITTENLOS is a gabber and hardcore artist based in Germany, tracked on soundcheck, with 13 sets logged across Cologne. Often billed alongside ADEMES, FUMI and Karamustan. Next up: Garagen, Cologne on Sat 26 Sept.
+SITTENLOS is a gabber and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Cologne. Often billed alongside LIEKS, ADEMES and FUMI. Next up: Garagen, Cologne on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Garagen | Cologne |
+| Sat, 7 Nov 2026 | Schrotty | Cologne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ SITTENLOS is a gabber and hardcore artist based in Germany, tracked on soundchec
 
 ## Shares bills with
 
-ADEMES, FUMI, Karamustan
+LIEKS, ADEMES, FUMI
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sittenlos/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sittenlos/)*

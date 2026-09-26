@@ -1,6 +1,6 @@
 # Matt Radovich
 
-Matt Radovich is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Her, Melbourne on Sat, 26 Sept 2026.
+Matt Radovich is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Her, Melbourne on Sat, 26 Sept 2026.
 
 Matt Radovich is a techno and house artist based in Australia, tracked on soundcheck, with 81 sets logged across Melbourne. Often billed alongside Craig McWhinney, Mike Callander and Acid Safari. Next up: Her, Melbourne on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Matt Radovich is a techno and house artist based in Australia, tracked on soundc
 
 Craig McWhinney, Mike Callander, Acid Safari
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattradovich/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattradovich/)*

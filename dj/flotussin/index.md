@@ -1,6 +1,6 @@
 # flotussin
 
-flotussin is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
+flotussin is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
 
 flotussin is a club and techno artist based in United States of America, tracked on soundcheck, with 72 sets logged across Chicago, Detroit, Los Angeles and New York City and 5 more. Often billed alongside Tromac, DJ-SUN and Jacq Jill. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
 
@@ -13,6 +13,7 @@ flotussin is a club and techno artist based in United States of America, tracked
 
 ## Recently played
 
+- Kremwerk-Timbre Room-Cherry Complex, Seattle — Fri, 25 Sept 2026
 - Paragon, New York City — Fri, 11 Sept 2026
 - TRANSMISSION DC, Washington DC — Sat, 25 Jul 2026
 - Kremwerk-Timbre Room-Cherry Complex, Seattle — Fri, 17 Jul 2026
@@ -20,10 +21,9 @@ flotussin is a club and techno artist based in United States of America, tracked
 - Warehouse on Watts, Philadelphia — Fri, 26 Jun 2026
 - Sinners and Saints, Washington DC — Sat, 20 Jun 2026
 - Sinners and Saints, Washington DC — Sat, 13 Jun 2026
-- TRANSMISSION DC, Washington DC — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Tromac, DJ-SUN, Jacq Jill
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*

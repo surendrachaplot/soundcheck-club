@@ -1,22 +1,22 @@
 # TBA
 
-TBA is a music venue in London with 306 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "-" on Thu, 24 Sept 2026.
+TBA is a music venue in London with 290 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "FUNCTION XXVIII" on Fri, 25 Sept 2026.
 
-TBA is a music venue in London listed on soundcheck. 306 upcoming gigs, with line-ups including 1-800 GIRLS, 2+2=5, 320 and 3 Minds and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 290 upcoming gigs, with line-ups including 1-800 GIRLS, 2+2=5, 320 and 3 Minds and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | - |  |
-| Thu, 24 Sept 2026 | Infra presents: Annie Lew, Seo, & RDXT | Annie Lew, Seo (US) |
-| Thu, 24 Sept 2026 | yotta fm / Gravel Lung / Earth Logoff |  |
-| Thu, 24 Sept 2026 | Speed Garage & Baseline - Standard Procedures x Impulse @The End |  |
-| Thu, 24 Sept 2026 | HOTPOT x Cine Apartamento presents TT TAKEMOTO | DIME, darklip.radio |
-| Thu, 24 Sept 2026 | Botanical pres Bar in Arte |  |
-| Fri, 25 Sept 2026 | TUNNEL x Herrensauna 003: MCMLXXXV, CEM, SALOME, OZA b2b Sevyn 0000 | CEM, MCMLXXXV, OZA, SALOME, Sevyn 0000 |
-| Fri, 25 Sept 2026 | Save The Date | Liad Krispin |
-| Fri, 25 Sept 2026 | Blasted 🅓🅝🅑 - underground drum'n'bass and jungle | Agem, CP4C, DJ Chromz, Dark Zenith, Hovercat, KaraKara, Shifty Rogue |
-| Fri, 25 Sept 2026 | Into The Woods presents Helena Hauff and Dopplereffekt (Live) | Dopplereffekt, Helena Hauff |
+| Fri, 25 Sept 2026 | FUNCTION XXVIII | 320 (1), Annie Lew, Baroque Hoe, Caín Lima, DJ DEADNAME, Juliana Huxtable, Kim Ann Foxman, LOKA (US), Makadsi, Only Fire, Ron Like Hell, Rush Davis, S4M23 |
+| Fri, 25 Sept 2026 | Passward D/ ARTePorto/ RSS | Passwardy |
+| Sat, 26 Sept 2026 | Studio am See | WOODKIN |
+| Sat, 26 Sept 2026 | Boiler Room: LA - Saturday | Bladee, Danny Brown, Dj Sliink, Ms Nina (ES), SEES00000, SKY JETTA, Somewhere Special, Thaiboy Digital, The Glitch Mob, Two Shell |
+| Sat, 26 Sept 2026 | Frequency Festival Melbourne 2026 - Psytrance Day Festival | Astrix, Berg, Liquid Soul, Shanti People |
+| Sat, 26 Sept 2026 | VANTEK: 999999999 | 999999999, DOOSTAH, Eddie Santini |
+| Sat, 26 Sept 2026 | smalltown 26.09.26 - Inner-City Carpark | Adriana (1), Ed Kent, Eden Burns, Jordan Brando, Papa Nugs, Work Wife |
+| Sat, 26 Sept 2026 | Negrūve: All Aboard [DMC, Midnight Lounge, Harold & 3 Minds] | 3 Minds, DMC., Harold., Midnight Lounge |
+| Sat, 26 Sept 2026 | inércia x Between | Billi, Francisca Urbano, Godero, Guigas, Hicham (FR), Nibius, Nova Retra, Pitcho, Stckman |
+| Sat, 26 Sept 2026 | Infra presents: Hemka, PucciKat, Matak | Hemka |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

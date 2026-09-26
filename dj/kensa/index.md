@@ -1,6 +1,6 @@
 # Kensa
 
-Kensa is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Babour Sauvage, Paris on Sat, 26 Sept 2026.
+Kensa is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Babour Sauvage, Paris on Sat, 26 Sept 2026.
 
 Kensa is an electro and house artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Boston and Brussels and 8 more. Often billed alongside Nicky Macha, Timoti and Jayar. Next up: Babour Sauvage, Paris on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Kensa is an electro and house artist based in United Kingdom, tracked on soundch
 
 Nicky Macha, Timoti, Jayar
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kensa/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kensa/)*

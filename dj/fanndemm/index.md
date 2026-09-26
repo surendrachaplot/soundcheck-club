@@ -1,6 +1,6 @@
 # Fanndemm
 
-Fanndemm is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Fanndemm is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Fanndemm is a techno and house artist based in Canada, tracked on soundcheck, with 17 sets logged across Toronto. Often billed alongside Young Teesh, Nino Brown and Chippy Nonstop. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -13,6 +13,7 @@ Fanndemm is a techno and house artist based in Canada, tracked on soundcheck, wi
 
 ## Recently played
 
+- 131 Mccormack St, Toronto — Fri, 25 Sept 2026
 - Bambi's, Toronto — Sat, 4 Jul 2026
 - Cafeteria, Toronto — Tue, 30 Jun 2026
 - Bsmt 254, Toronto — Fri, 12 Jun 2026
@@ -20,10 +21,9 @@ Fanndemm is a techno and house artist based in Canada, tracked on soundcheck, wi
 - SOUNDS GOOD, Toronto — Sat, 30 Aug 2025
 - 131 Mccormack St, Toronto — Fri, 25 Jul 2025
 - TBA - Toronto, Toronto — Fri, 25 Jul 2025
-- NEST, Toronto — Sun, 29 Jun 2025
 
 ## Shares bills with
 
 Young Teesh, Nino Brown (2), Chippy Nonstop
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fanndemm/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fanndemm/)*

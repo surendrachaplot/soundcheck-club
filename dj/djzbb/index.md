@@ -1,6 +1,6 @@
 # DJ ZBB
 
-DJ ZBB is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hoppetosse, Berlin on Sun, 11 Oct 2026.
+DJ ZBB is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hoppetosse, Berlin on Sun, 11 Oct 2026.
 
 DJ ZBB is a house and techno artist based in Australia, tracked on soundcheck, with 17 sets logged across Bangkok, Barcelona, Berlin and Prague and 2 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and David Delgado. Next up: Hoppetosse, Berlin on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ DJ ZBB is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Britta Arnold, Chris Schwarzwälder, David Delgado
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djzbb/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djzbb/)*

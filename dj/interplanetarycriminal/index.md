@@ -1,6 +1,6 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Interplanetary Criminal is a Garage and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
 Interplanetary Criminal is a garage and house artist based in United Kingdom, tracked on soundcheck, with 260 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 70 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, tr
 
 Main Phase, MALUGI, DJ Heartstring
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

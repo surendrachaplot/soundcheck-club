@@ -1,6 +1,6 @@
 # Modulor
 
-Modulor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 16 Oct 2026.
+Modulor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 16 Oct 2026.
 
 Modulor is a techno and house artist based in Australia, tracked on soundcheck, with 34 sets logged across Madrid and Melbourne. Often billed alongside Mike Callander, Acid Safari and Cilla (AU). Next up: Revolver Upstairs, Melbourne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Modulor is a techno and house artist based in Australia, tracked on soundcheck, 
 
 Mike Callander, Acid Safari, Cilla (AU)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modulor/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modulor/)*

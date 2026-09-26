@@ -1,6 +1,6 @@
 # DJ Honesty
 
-DJ Honesty is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Collect LX Factory, Lisbon on Sat, 28 Nov 2026.
+DJ Honesty is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Collect LX Factory, Lisbon on Sat, 28 Nov 2026.
 
 DJ Honesty is a house and deep house artist based in Germany, tracked on soundcheck, with 13 sets logged across Boston, Detroit, Lisbon and Washington DC. Often billed alongside Joe Tagessian, Micaia and Caruan. Next up: Collect LX Factory, Lisbon on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ Honesty is a house and deep house artist based in Germany, tracked on soundch
 
 Joe Tagessian, Micaia, Caruan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhonesty/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhonesty/)*

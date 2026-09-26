@@ -1,6 +1,6 @@
 # Miss Roberta
 
-Miss Roberta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Groove Gardens, Malta on Sat, 10 Oct 2026.
+Miss Roberta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Groove Gardens, Malta on Sat, 10 Oct 2026.
 
 Miss Roberta is a techno and house artist based in Malta, tracked on soundcheck, with 11 sets logged across Malta. Often billed alongside Shabab Khan, Thias and Abdy. Next up: Groove Gardens, Malta on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Miss Roberta is a techno and house artist based in Malta, tracked on soundcheck,
 
 Shabab Khan, Thias, Abdy
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missroberta/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missroberta/)*

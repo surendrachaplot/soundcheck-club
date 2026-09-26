@@ -1,6 +1,6 @@
 # Serum (UK)
 
-Serum (UK) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Phoenix Landing, Boston on Thu, 1 Oct 2026.
+Serum (UK) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Phoenix Landing, Boston on Thu, 1 Oct 2026.
 
 Serum (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Auckland, Birmingham and Boston and 18 more. Often billed alongside Voltage, Turno and BassLayerz. Next up: Phoenix Landing, Boston on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Serum (UK) is a drum & bass and jungle artist based in United Kingdom, tracked o
 
 Voltage, Turno, BassLayerz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serumuk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serumuk/)*

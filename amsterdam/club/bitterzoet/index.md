@@ -1,6 +1,6 @@
 # Bitterzoet
 
-Bitterzoet is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "AIGEL — Live" on Wed, 30 Sept 2026.
+Bitterzoet is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "AIGEL — Live" on Wed, 30 Sept 2026.
 
 Bitterzoet is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Mietze Conte. Browse upcoming dates, start times and who's playing. Spuistraat 2; 1012 Binnenstad; Amsterdam; Netherlands.
 
@@ -17,4 +17,4 @@ Bitterzoet is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, 
 
 Spuistraat 2; 1012 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bitterzoet/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bitterzoet/)*

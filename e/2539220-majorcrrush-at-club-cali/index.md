@@ -1,6 +1,6 @@
 # MAJORCRRUSH at Club Cali
 
-MAJORCRRUSH at Club Cali on Fri 2 Oct, Sanfrancisco. Pop and Electronica. Preview the line-up and save it on soundcheck.
+MAJORCRRUSH at Club Cali on Fri 2 Oct, San Francisco/Oakland. Pop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kyohei Tanaka
 
-Kyohei Tanaka is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 19 Oct 2026.
+Kyohei Tanaka is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 19 Oct 2026.
 
 Kyohei Tanaka is a house and techno artist based in Japan, tracked on soundcheck, with 80 sets logged across Tokyo. Often billed alongside Dictionally, Hiroaki Iida and Aiko Inoue. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 19 Oct.
 
@@ -26,4 +26,4 @@ Kyohei Tanaka is a house and techno artist based in Japan, tracked on soundcheck
 
 Dictionally, Hiroaki Iida, Aiko Inoue
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyoheitanaka/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyoheitanaka/)*

@@ -1,6 +1,6 @@
 # Sezer Uysal
 
-Sezer Uysal is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Great Northern, San Francisco/Oakland on Fri, 9 Oct 2026.
+Sezer Uysal is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Great Northern, San Francisco/Oakland on Fri, 9 Oct 2026.
 
 Sezer Uysal is a techno and house artist based in Turkey, tracked on soundcheck, with 42 sets logged across Amsterdam, Basel, Berlin and Copenhagen and 15 more. Often billed alongside Afshin Momadi, VIIA and Baime. Next up: The Great Northern, San Francisco/Oakland on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Sezer Uysal is a techno and house artist based in Turkey, tracked on soundcheck,
 
 Afshin Momadi, VIIA, Baime
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sezeruysal/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sezeruysal/)*

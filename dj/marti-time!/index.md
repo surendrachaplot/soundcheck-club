@@ -1,6 +1,6 @@
 # Marti-Time!
 
-Marti-Time! is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 17 Oct 2026.
+Marti-Time! is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 17 Oct 2026.
 
 Marti-Time! is a house and acid artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Edinburgh. Often billed alongside Main Ingredient, Chris Astrojazz and DJ Shannon. Next up: People's Leisure Club, Edinburgh on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Marti-Time! is a house and acid artist based in United Kingdom, tracked on sound
 
 Main Ingredient, Chris Astrojazz, DJ Shannon
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marti-time!/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marti-time!/)*

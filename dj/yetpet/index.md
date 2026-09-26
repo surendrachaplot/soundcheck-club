@@ -1,6 +1,6 @@
 # YETPET
 
-YETPET is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at RASA, Singapore on Fri, 2 Oct 2026.
+YETPET is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at RASA, Singapore on Fri, 2 Oct 2026.
 
 YETPET is a techno and electronica artist based in Singapore, tracked on soundcheck, with 26 sets logged across Hong Kong, Seoul and Singapore. Often billed alongside Yadin Moha, DONN and Dexter Colt. Next up: RASA, Singapore on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ YETPET is a techno and electronica artist based in Singapore, tracked on soundch
 
 Yadin Moha, DONN, Dexter Colt
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yetpet/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yetpet/)*

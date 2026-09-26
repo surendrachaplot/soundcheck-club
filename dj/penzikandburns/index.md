@@ -1,6 +1,6 @@
 # Penzik & Burns
 
-Penzik & Burns is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Timber Loft, London on Sun, 27 Sept 2026.
+Penzik & Burns is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Timber Loft, London on Sun, 27 Sept 2026.
 
 Penzik & Burns are a house and deep house duo based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Grace Sands, T. Jacques and Alfie Aukett. Next up: The Timber Loft, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Penzik & Burns are a house and deep house duo based in United Kingdom, tracked o
 
 Grace Sands, T. Jacques, Alfie Aukett
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/penzikandburns/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/penzikandburns/)*

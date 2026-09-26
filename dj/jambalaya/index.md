@@ -1,15 +1,15 @@
 # JAMBALAYA
 
-JAMBALAYA is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mood Ring, New York City on Fri, 2 Oct 2026.
+JAMBALAYA is a Ghetto Tech and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mood Ring, New York City on Fri, 2 Oct 2026.
 
-JAMBALAYA is a hardcore and club artist based in United States of America, tracked on soundcheck, with 3 sets logged across New York City and Washington DC. Often billed alongside Darling Cool, Joogmac and CFCF. Next up: Mood Ring, New York City on Fri 2 Oct.
+JAMBALAYA is a ghetto tech and club artist based in United States of America, tracked on soundcheck, with 3 sets logged across New York City and San Francisco/Oakland. Often billed alongside Joogmac, Darling Cool and MARCHANTE. Next up: Mood Ring, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Mood Ring | New York City |
-| Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
+| Fri, 9 Oct 2026 | El Rio | San Francisco/Oakland |
 
 ## Recently played
 
@@ -17,6 +17,6 @@ JAMBALAYA is a hardcore and club artist based in United States of America, track
 
 ## Shares bills with
 
-Darling Cool, Joogmac, CFCF
+Joogmac, Darling Cool, MARCHANTE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jambalaya/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jambalaya/)*

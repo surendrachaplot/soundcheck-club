@@ -1,6 +1,6 @@
 # Monuas
 
-Monuas is a Deep House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location, Rome on Sun, 27 Sept 2026.
+Monuas is a Deep House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Secret Location, Rome on Sun, 27 Sept 2026.
 
 Monuas is a deep house and minimal artist based in Italy, tracked on soundcheck, with 10 sets logged across Rome. Often billed alongside Collarbone, bee.Z and marianne. Next up: TBA - Secret Location, Rome on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Monuas is a deep house and minimal artist based in Italy, tracked on soundcheck,
 
 Collarbone, bee.Z, marianne (4)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monuas/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monuas/)*

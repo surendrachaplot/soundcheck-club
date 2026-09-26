@@ -1,6 +1,6 @@
 # SPRKLBB
 
-SPRKLBB is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Sun, 27 Sept 2026.
+SPRKLBB is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Signal, New York City on Sun, 27 Sept 2026.
 
 SPRKLBB is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Austin, Berlin, Boston and Brussels and 14 more. Often billed alongside Mutualism, BEIGE and Ciel. Next up: Signal, New York City on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ SPRKLBB is a house and techno artist based in United States of America, tracked 
 
 Mutualism, BEIGE, Ciel
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sprklbb/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sprklbb/)*

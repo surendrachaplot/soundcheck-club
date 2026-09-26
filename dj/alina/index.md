@@ -1,6 +1,6 @@
 # ALiNA
 
-ALiNA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nido Marseille, Marseille on Sat, 31 Oct 2026.
+ALiNA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Nido Marseille, Marseille on Sat, 31 Oct 2026.
 
 ALiNA is a house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Copenhagen, Hamburg and Leipzig and 2 more. Often billed alongside Atree, Reece Walker and Sevensol. Next up: Nido Marseille, Marseille on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ALiNA is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Atree, Reece Walker, Sevensol
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alina/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alina/)*

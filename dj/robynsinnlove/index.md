@@ -1,6 +1,6 @@
 # Robyn Sin Love
 
-Robyn Sin Love is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Robyn Sin Love is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Robyn Sin Love is a techno and house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Chicago, Los Angeles and Miami. Often billed alongside Ultrathem, ALEJO (US) and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Robyn Sin Love is a techno and house artist based in United States of America, t
 
 Ultrathem, ALEJO (US), SATURNSARii
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robynsinnlove/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robynsinnlove/)*

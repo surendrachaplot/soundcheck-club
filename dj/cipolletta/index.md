@@ -1,6 +1,6 @@
 # Cipolletta
 
-Cipolletta is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Teatro Bellini, Naples on Fri, 25 Sept 2026.
+Cipolletta is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Teatro Bellini, Naples on Fri, 25 Sept 2026.
 
 Cipolletta is a disco and house artist based in Spain, tracked on soundcheck, with 7 sets logged across Naples. Often billed alongside Gemini Rhythm, Stereocalypse and Alfonso Mauro. Next up: Teatro Bellini, Naples on Fri 25 Sept.
 
@@ -12,6 +12,7 @@ Cipolletta is a disco and house artist based in Spain, tracked on soundcheck, wi
 
 ## Recently played
 
+- Teatro Bellini, Naples — Fri, 25 Sept 2026
 - Umoya, Naples — Sun, 19 Apr 2026
 - Museo Madre, Naples — Sun, 6 Oct 2024
 - Umoya, Naples — Sun, 14 Apr 2024
@@ -23,4 +24,4 @@ Cipolletta is a disco and house artist based in Spain, tracked on soundcheck, wi
 
 Gemini Rhythm, Stereocalypse, Alfonso Mauro
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cipolletta/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cipolletta/)*

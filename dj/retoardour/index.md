@@ -1,6 +1,6 @@
 # Reto Ardour
 
-Reto Ardour is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gessnerallee, Zurich on Sat, 10 Oct 2026.
+Reto Ardour is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Gessnerallee, Zurich on Sat, 10 Oct 2026.
 
 Reto Ardour is a techno and house artist based in Switzerland, tracked on soundcheck, with 43 sets logged across Zurich. Often billed alongside Read the News, Adriatique and Lou Combo. Next up: Gessnerallee, Zurich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Reto Ardour is a techno and house artist based in Switzerland, tracked on soundc
 
 Read the News, Adriatique, Lou Combo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/retoardour/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/retoardour/)*

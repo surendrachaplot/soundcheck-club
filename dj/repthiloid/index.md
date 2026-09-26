@@ -1,6 +1,6 @@
 # Repthiloid
 
-Repthiloid is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
+Repthiloid is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
 
 Repthiloid is a house and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Leipzig. Often billed alongside Dynamic Experience, MOMSON and Alles_oder_Nada. Next up: TBA - Westhafen, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Repthiloid is a house and techno artist based in Germany, tracked on soundcheck,
 
 Dynamic Experience, MOMSON, Alles_oder_Nada
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/repthiloid/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/repthiloid/)*

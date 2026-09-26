@@ -1,6 +1,6 @@
 # Sugarfactory
 
-Sugarfactory is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Awakenings ADE - Opening Night" on Wed, 21 Oct 2026.
+Sugarfactory is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Awakenings ADE - Opening Night" on Wed, 21 Oct 2026.
 
 Sugarfactory is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including 999999999, AAT (NL), Adam Beyer and Adrian Mills and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -8,7 +8,7 @@ Sugarfactory is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Awakenings ADE - Opening Night | 999999999, Adrian Mills, FUMI, HUJUS, NOVAH, Serafina |
+| Wed, 21 Oct 2026 | Awakenings ADE - Opening Night | 999999999, Adrian Mills, HUJUS, NOVAH, Serafina, fumi (DE) |
 | Thu, 22 Oct 2026 | Awakenings ADE - Drumcode | Adam Beyer, Enrico Sangiuliano, Ilario Alicante, Kaufmann, Kevin de Vries, Konstantin Sibold, Victor Ruiz |
 | Fri, 23 Oct 2026 | Awakenings ADE - Joseph Capriati presents Metamorfosi | AAT (NL), Cloonee, Joseph Capriati, Simon Kidzoo, The Martinez Brothers |
 | Fri, 23 Oct 2026 | Awakenings ADE - Friday Sessions | AMORAL, Ben Klock, Funk Assault, JakoJako, Lobster (NL), Philippa Pacho, Rødhåd, Varuna Agosti |
@@ -17,4 +17,4 @@ Sugarfactory is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs
 | Sun, 25 Oct 2026 | Awakenings ADE - Sunday Sessions | Benwal, DJ Gigola, DJ Heartstring, Helena Lauwaert, Pegassi, southstar |
 | Sun, 25 Oct 2026 | Awakenings ADE - Prophecy by Prospa | ISAbella, Job de Jong, Prospa, Tommy Phillips, Traumer |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sugarfactory/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sugarfactory/)*

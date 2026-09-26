@@ -1,6 +1,6 @@
 # Spacer
 
-Spacer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at LAUT, Barcelona on Sat, 3 Oct 2026.
+Spacer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at LAUT, Barcelona on Sat, 3 Oct 2026.
 
 Spacer is a techno and house artist based in Spain, tracked on soundcheck, with 66 sets logged across Barcelona, Copenhagen and Madrid. Often billed alongside Arildo, DAVID LOST and DJ Tennis. Next up: LAUT, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Spacer is a techno and house artist based in Spain, tracked on soundcheck, with 
 
 Arildo, DAVID LOST, DJ Tennis
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spacer/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spacer/)*

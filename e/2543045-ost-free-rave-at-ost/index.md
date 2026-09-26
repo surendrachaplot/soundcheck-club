@@ -1,6 +1,6 @@
 # OST Free Rave at OST
 
-OST Free Rave on Fri 2 Oct, Berlin. 3 artists on the bill: An Chen, HOTBOI2300 and senaitstar. Trance and Techno. Preview the line-up and save it on soundcheck.
+OST Free Rave on Fri 2 Oct, Berlin. 4 artists on the bill: An Chen, HOTBOI2300, Michael Klotz and senaitstar. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ OST Free Rave on Fri 2 Oct, Berlin. 3 artists on the bill: An Chen, HOTBOI2300 a
 
 - An Chen
 - HOTBOI2300
+- Michael Klotz
 - senaitstar
 
 *Source: [soundcheck](https://soundcheck.club/e/2543045-ost-free-rave-at-ost/)*

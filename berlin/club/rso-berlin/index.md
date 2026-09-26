@@ -1,14 +1,13 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "SESH" on Fri, 25 Sept 2026.
+RSO.BERLIN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "XTRUDE w/ Matrixxman, Anabel Arroyo, Francois X, AgainstMe live, Jensen Interceptor" on Sat, 26 Sept 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and AEREA and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Justine Perry, AEREA, AgainstMe and Alfred Czital and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | SESH | 2HOT2PLAY, Bruno Brero, GEN97, NYRA (DE), Paraçek, SATYS FYRE, Shake Daddy, XIMA, davyboi |
 | Sat, 26 Sept 2026 | XTRUDE w/ Matrixxman, Anabel Arroyo, Francois X, AgainstMe live, Jensen Interceptor | AgainstMe, Alírio, Anabel Arroyo, Beibeilon, DJ 86, EMAN (FR), François X, Hontas, Jensen Interceptor, Jin Synth, Matrixxman, Árni |
 | Fri, 2 Oct 2026 | X-IZE w/ Dr. Rubinstein, Omon Breaker, Schwefelgelb live and Supergloss | Dr. Rubinstein, Omon Breaker, Schwefelgelb, Supergloss |
 | Sat, 3 Oct 2026 | XTRUDE x Space Trax w/ ANNĒ, SHDW, JKS, Rebecca Delle Piane, L-3P live, FILTH.y | ANNĒ, AYIM, Exos, FILTH.y, Frank Heise, Félicie, JKS, MXV (1), Maōh, Mefteh, Ness, Philipp Drube, Rebecca Delle Piane, SHDW, Sioc |
@@ -18,9 +17,10 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, wi
 | Sat, 17 Oct 2026 | XTRUDE x EUPHORIA SESSIONS w/ Chris Liebing, Truncate, Phil Berg live, Elli Acula, Angel D'lite | Alfred Czital, Andy Garvey, Angel D'lite, Chris Liebing, Clarisa Kimskii, Elli Acula, Gina Demarchi, IAMBP, Immy, Phil Berg, Truncate, WINDFUHR |
 | Fri, 23 Oct 2026 | Open2Close: Juliana Huxtable all night long | Juliana Huxtable |
 | Sat, 24 Oct 2026 | HEISSS I 30 hours | Amphia, Andre Zimmer, COZi, Carluschka, Cryptofauna, Disguised, E2NMN, Ignez, Kaiser (K S R), Kim She, Oblique, Red Rooms, Silberhauch, Toobris |
+| Fri, 30 Oct 2026 | FIGURE NACHT w/ Len Faki, Arthur Robert live, Decoder, IGLO, and Inox Traxx | Arthur Robert, Decoder, IGLO, Inox Traxx, Len Faki |
 
 ## Address
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

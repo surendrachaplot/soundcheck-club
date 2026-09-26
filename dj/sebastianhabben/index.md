@@ -1,6 +1,6 @@
 # Sebastian Habben
 
-Sebastian Habben is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gewölbe, Cologne on Sat, 3 Oct 2026.
+Sebastian Habben is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Gewölbe, Cologne on Sat, 3 Oct 2026.
 
 Sebastian Habben is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Cologne. Often billed alongside ISABELL, Marcel Janovsky and Sandilé. Next up: Gewölbe, Cologne on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sebastian Habben is a house and techno artist based in Germany, tracked on sound
 
 ISABELL (1), Marcel Janovsky, Sandilé
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianhabben/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianhabben/)*

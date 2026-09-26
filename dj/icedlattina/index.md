@@ -1,6 +1,6 @@
 # iced lattina
 
-iced lattina is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Garage Noord, Amsterdam on Wed, 21 Oct 2026.
+iced lattina is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Garage Noord, Amsterdam on Wed, 21 Oct 2026.
 
 iced lattina is a club and experimental artist based in Portugal, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 10 more. Often billed alongside VINESSETT, Brodinski and Dangermami. Next up: Garage Noord, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ iced lattina is a club and experimental artist based in Portugal, tracked on sou
 
 VINESSETT, Brodinski, Dangermami
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icedlattina/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icedlattina/)*

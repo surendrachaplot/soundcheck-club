@@ -1,6 +1,6 @@
 # Adri Tüde
 
-Adri Tüde is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
+Adri Tüde is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
 
 Adri Tüde is a techno and tech house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside The Bille, Joma Beton and Jama Deejay. Next up: Kater, Berlin on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ Adri Tüde is a techno and tech house artist based in Germany, tracked on soundc
 
 The Bille, Joma Beton, Jama Deejay
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adritude/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adritude/)*

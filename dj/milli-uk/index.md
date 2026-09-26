@@ -1,6 +1,6 @@
 # Milli
 
-Milli is a Club and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Jago, London on Fri, 2 Oct 2026.
+Milli is a Club and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Jago, London on Fri, 2 Oct 2026.
 
 Milli is a club and disco artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Austin, Berlin and Frankfurt and 3 more. Often billed alongside Anahita Shamsaei, RONISA and Rohan the producer. Next up: The Jago, London on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Milli is a club and disco artist based in United Kingdom, tracked on soundcheck,
 
 Anahita Shamsaei, RONISA, Rohan the producer
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milli-uk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milli-uk/)*

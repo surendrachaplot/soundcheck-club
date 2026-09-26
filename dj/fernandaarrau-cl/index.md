@@ -1,6 +1,6 @@
 # Fernanda Arrau
 
-Fernanda Arrau is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+Fernanda Arrau is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
 
 Fernanda Arrau is a house and techno artist tracked on soundcheck, with 73 sets logged across Barcelona, Berlin, Bucharest and Buenos Aires and 9 more. Often billed alongside Ketiov, Myd and TWO EX. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Fernanda Arrau is a house and techno artist tracked on soundcheck, with 73 sets 
 
 Ketiov, Myd, TWO EX
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandaarrau-cl/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandaarrau-cl/)*

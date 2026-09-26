@@ -1,6 +1,6 @@
 # Astrix
 
-Astrix is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+Astrix is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
 
 Astrix is a trance and techno artist based in Israel, tracked on soundcheck, with 34 sets logged across Athens, Basel, Cologne and Copenhagen and 15 more. Often billed alongside Captain Hook, Animato and Billy Gillies. Next up: Maitland Showground, Sydney on Fri 25 Sept.
 
@@ -14,6 +14,7 @@ Astrix is a trance and techno artist based in Israel, tracked on soundcheck, wit
 
 ## Recently played
 
+- Maitland Showground, Sydney — Fri, 25 Sept 2026
 - Egg London, London — Sat, 14 Feb 2026
 - LAB theCLUB, Madrid — Sun, 7 Dec 2025
 - The Queen Mary, Los Angeles — Fri, 21 Nov 2025
@@ -21,10 +22,9 @@ Astrix is a trance and techno artist based in Israel, tracked on soundcheck, wit
 - City Circuit Tokyo BAY, Tokyo — Sat, 11 Oct 2025
 - Zerotokyo, Tokyo — Sat, 11 Oct 2025
 - TW7 - Paris Nord Villepinte, Paris — Fri, 26 Sept 2025
-- Electric Brixton, London — Sat, 13 Sept 2025
 
 ## Shares bills with
 
 Captain Hook, Animato, Billy Gillies
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astrix/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astrix/)*

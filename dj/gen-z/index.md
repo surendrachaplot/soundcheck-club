@@ -1,6 +1,6 @@
 # GEN-Z
 
-GEN-Z is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at FLUCC, Vienna on Sat, 24 Oct 2026.
+GEN-Z is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at FLUCC, Vienna on Sat, 24 Oct 2026.
 
 GEN-Z is a drum & bass and house artist based in Austria, tracked on soundcheck, with 17 sets logged across Bangkok, Bristol, Cardiff and Leeds and 4 more. Often billed alongside Kid Kodama, Carasel and Diagnostix. Next up: FLUCC, Vienna on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ GEN-Z is a drum & bass and house artist based in Austria, tracked on soundcheck,
 
 Kid Kodama, Carasel, Diagnostix
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gen-z/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gen-z/)*

@@ -1,6 +1,6 @@
 # Erykah
 
-Erykah is a Breakbeat and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Recyclart, Brussels on Fri, 2 Oct 2026.
+Erykah is a Breakbeat and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Recyclart, Brussels on Fri, 2 Oct 2026.
 
 Erykah is a breakbeat and house artist based in Belgium, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Bristol and Brussels and 5 more. Often billed alongside gguusstt, AliA and Vers. Next up: Recyclart, Brussels on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Erykah is a breakbeat and house artist based in Belgium, tracked on soundcheck, 
 
 gguusstt, AliA, Vers
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erykah/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erykah/)*

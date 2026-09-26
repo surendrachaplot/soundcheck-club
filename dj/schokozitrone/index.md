@@ -1,6 +1,6 @@
 # SchokoZitrone
 
-SchokoZitrone is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 8 Oct 2026.
+SchokoZitrone is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 8 Oct 2026.
 
 SchokoZitrone is a techno and trance artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Budapest, Lisbon and Munich. Often billed alongside Phil Biehler, loumo and BENDOM. Next up: Bahnwärter Thiel, Munich on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ SchokoZitrone is a techno and trance artist based in Germany, tracked on soundch
 
 Phil Biehler, loumo, BENDOM
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schokozitrone/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schokozitrone/)*

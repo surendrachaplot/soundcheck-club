@@ -1,6 +1,6 @@
 # Roy Mansur
 
-Roy Mansur is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Minimal Bar, Berlin on Tue, 10 Nov 2026.
+Roy Mansur is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Minimal Bar, Berlin on Tue, 10 Nov 2026.
 
 Roy Mansur is a deep house and house artist tracked on soundcheck, with 7 sets logged across Berlin and Munich. Often billed alongside maniac&me, Anthony Georges Patrice and fyn atwood. Next up: Minimal Bar, Berlin on Tue 10 Nov.
 
@@ -23,4 +23,4 @@ Roy Mansur is a deep house and house artist tracked on soundcheck, with 7 sets l
 
 maniac&me, Anthony Georges Patrice, fyn atwood
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roymansur/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roymansur/)*

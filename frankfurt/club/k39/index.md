@@ -1,6 +1,6 @@
 # K39
 
-K39 is a music venue in Frankfurt with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Naschen" on Sat, 24 Oct 2026.
+K39 is a music venue in Frankfurt with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Naschen" on Sat, 24 Oct 2026.
 
 K39 is a music venue in Frankfurt listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. Kaiserstraße 39, 60329 Frankfurt am Main.
 
@@ -16,4 +16,4 @@ K39 is a music venue in Frankfurt listed on soundcheck. 3 upcoming gigs. Browse 
 
 Kaiserstraße 39, 60329 Frankfurt am Main, Frankfurt
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/k39/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/k39/)*

@@ -1,6 +1,6 @@
 # EARGASM GOD
 
-EARGASM GOD is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+EARGASM GOD is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
 EARGASM GOD is a techno and trance artist based in Poland, tracked on soundcheck, with 163 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 36 more. Often billed alongside DJ Traytex, Indecorum and Meg (PL). Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
@@ -9,7 +9,6 @@ EARGASM GOD is a techno and trance artist based in Poland, tracked on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Cabaret  Aléatoire | Marseille |
-| Fri, 25 Sept 2026 | Smolna | Warsaw |
 | Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
@@ -22,17 +21,17 @@ EARGASM GOD is a techno and trance artist based in Poland, tracked on soundcheck
 
 ## Recently played
 
+- Cabaret  Aléatoire, Marseille — Fri, 25 Sept 2026
+- Smolna, Warsaw — Fri, 25 Sept 2026
 - Phonox, London — Sat, 12 Sept 2026
 - ://about blank, Berlin — Fri, 28 Aug 2026
 - Przyjaźń, Warsaw — Sat, 8 Aug 2026
 - Beatland Festival, Krakow — Sat, 25 Jul 2026
 - Virage, Paris — Sat, 11 Jul 2026
 - Virage, Paris — Fri, 10 Jul 2026
-- Concord Music Hall, Chicago — Fri, 19 Jun 2026
-- Public Works, San Francisco/Oakland — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 DJ Traytex, Indecorum, Meg (PL)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eargasmgod/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eargasmgod/)*

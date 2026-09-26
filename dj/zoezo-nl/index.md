@@ -1,6 +1,6 @@
 # ZOËZO
 
-ZOËZO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cece Bar Urbana, Rotterdam on Sun, 27 Sept 2026.
+ZOËZO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cece Bar Urbana, Rotterdam on Sun, 27 Sept 2026.
 
 ZOËZO is a house and techno artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Rotterdam and The Hague. Often billed alongside Steve Riddm, Django and Moody Mehran. Next up: Cece Bar Urbana, Rotterdam on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ ZOËZO is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 Steve Riddm, Django, Moody Mehran
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoezo-nl/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoezo-nl/)*

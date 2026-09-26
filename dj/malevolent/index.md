@@ -1,6 +1,6 @@
 # Malevolent
 
-Malevolent is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Classic Grand, Glasgow on Fri, 2 Oct 2026.
+Malevolent is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Classic Grand, Glasgow on Fri, 2 Oct 2026.
 
 Malevolent is a hardcore and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Edinburgh and Glasgow. Often billed alongside D-Fuse, OBLVN and Bracken. Next up: The Classic Grand, Glasgow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Malevolent is a hardcore and techno artist based in United Kingdom, tracked on s
 
 D-Fuse, OBLVN, Bracken
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malevolent/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malevolent/)*

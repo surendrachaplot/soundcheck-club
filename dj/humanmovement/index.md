@@ -1,6 +1,6 @@
 # Human Movement
 
-Human Movement is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Human Movement is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
 
 Human Movement is a house and garage artist based in Australia, tracked on soundcheck, with 30 sets logged across Auckland, Berlin, Brisbane and London and 3 more. Often billed alongside Mincy, AHJU and Afrodisiac. Next up: The Ivy, Sydney on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Human Movement is a house and garage artist based in Australia, tracked on sound
 
 Mincy, AHJU, Afrodisiac
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humanmovement/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humanmovement/)*

@@ -1,14 +1,15 @@
 # CuCiCuCi
 
-CuCiCuCi is a Ambient and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
+CuCiCuCi is a Ambient and Dub artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
-CuCiCuCi is an ambient and dub artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Singapore. Often billed alongside Alex Jenkin, Laura Fiore and Slow Moon. Next up: ZENNER, Berlin on Fri 16 Oct.
+CuCiCuCi is an ambient and dub artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Singapore. Often billed alongside Alex Jenkin, Laura Fiore and Margaux Gazur. Next up: ZENNER, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
+| Sat, 14 Nov 2026 | 90mil | Berlin |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ CuCiCuCi is an ambient and dub artist based in Germany, tracked on soundcheck, w
 
 ## Shares bills with
 
-Alex Jenkin, Laura Fiore, Slow Moon
+Alex Jenkin, Laura Fiore, Margaux Gazur
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cucicuci/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cucicuci/)*

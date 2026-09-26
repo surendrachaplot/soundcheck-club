@@ -1,6 +1,6 @@
 # Sinéad
 
-Sinéad is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Badaboum, Paris on Fri, 2 Oct 2026.
+Sinéad is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Badaboum, Paris on Fri, 2 Oct 2026.
 
 Sinéad is a house and techno artist based in United States of America, tracked on soundcheck, with 76 sets logged across Berlin, Chicago, Cork and Detroit and 20 more. Often billed alongside Shanti Celeste, Louiv and Galen. Next up: Badaboum, Paris on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Sinéad is a house and techno artist based in United States of America, tracked 
 
 Shanti Celeste, Louiv, Galen
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinead/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinead/)*

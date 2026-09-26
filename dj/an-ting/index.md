@@ -1,6 +1,6 @@
 # An-Ting
 
-An-Ting is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+An-Ting is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
 An-Ting is an electro and experimental artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Glasgow, Liverpool and London. Often billed alongside Ian Gallagher, Lucian Fletcher and Alex Smoke. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
@@ -12,6 +12,7 @@ An-Ting is an electro and experimental artist based in United Kingdom, tracked o
 
 ## Recently played
 
+- Venues Across Glasgow, Glasgow — Thu, 24 Sept 2026
 - Folklore, London — Fri, 5 Dec 2025
 - The Glad Cafe, Glasgow — Sun, 10 Nov 2024
 - 93 Feet East, London — Thu, 7 Nov 2024
@@ -22,4 +23,4 @@ An-Ting is an electro and experimental artist based in United Kingdom, tracked o
 
 Ian Gallagher, Lucian Fletcher, Alex Smoke
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/an-ting/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/an-ting/)*

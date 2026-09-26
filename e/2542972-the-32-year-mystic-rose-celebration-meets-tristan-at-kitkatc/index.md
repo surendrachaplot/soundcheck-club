@@ -1,6 +1,6 @@
 # The 32 Year Mystic Rose Celebration meets TRISTAN at KitKatClub
 
-The 32 Year Mystic Rose Celebration meets TRISTAN at KitKatClub on Fri 23 Oct, Berlin. 4 artists on the bill: BERLIN, Der Würfler, Gandalf and Tristan. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+The 32 Year Mystic Rose Celebration meets TRISTAN at KitKatClub on Fri 23 Oct, Berlin. 3 artists on the bill: BERLIN, Der Würfler and Gandalf. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ The 32 Year Mystic Rose Celebration meets TRISTAN at KitKatClub on Fri 23 Oct, B
 - BERLIN
 - Der Würfler
 - Gandalf
-- Tristan (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2542972-the-32-year-mystic-rose-celebration-meets-tristan-at-kitkatc/)*

@@ -1,6 +1,6 @@
 # Pomboklap
 
-Pomboklap is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 25 Oct 2026.
+Pomboklap is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 25 Oct 2026.
 
 Pomboklap is a house and afro house artist based in Spain, tracked on soundcheck, with 67 sets logged across Barcelona, Ibiza, Lisbon and London and 2 more. Often billed alongside MËSTIZA, Maik Miroux and Torrione. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Pomboklap is a house and afro house artist based in Spain, tracked on soundcheck
 
 MËSTIZA, Maik Miroux, Torrione
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pomboklap/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pomboklap/)*

@@ -1,6 +1,6 @@
 # Ardishko
 
-Ardishko is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Glove That Fits, London on Fri, 30 Oct 2026.
+Ardishko is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Glove That Fits, London on Fri, 30 Oct 2026.
 
 Ardishko is a house and acid artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across London. Often billed alongside Revlow, LuSay and B-LOW. Next up: The Glove That Fits, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Ardishko is a house and acid artist based in United Kingdom, tracked on soundche
 
 Revlow, LuSay, B-LOW
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ardishko/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ardishko/)*

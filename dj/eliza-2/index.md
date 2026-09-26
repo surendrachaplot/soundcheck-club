@@ -1,6 +1,6 @@
 # Eliza (2)
 
-Eliza (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 3 Oct 2026.
+Eliza (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 3 Oct 2026.
 
 Eliza is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 10 more. Often billed alongside Miran N, Akaj and DRAMA SOURCE ARTIFACTS. Next up: TBA - Secret Location, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Eliza is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Miran N, Akaj, DRAMA SOURCE ARTIFACTS
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliza-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliza-2/)*

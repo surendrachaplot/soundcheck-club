@@ -1,6 +1,6 @@
 # Network
 
-Network is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "NORTHBASS x TIK-TECH FT DANIELE MONDELLO, ACINA, INSIDIA &MORE" on Sat, 3 Oct 2026.
+Network is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "NORTHBASS x TIK-TECH FT DANIELE MONDELLO, ACINA, INSIDIA &MORE" on Sat, 3 Oct 2026.
 
 Network is a music venue in Sheffield listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. 32 Cambridge Street, S1 4HP, Sheffield.
 
@@ -16,4 +16,4 @@ Network is a music venue in Sheffield listed on soundcheck. 3 upcoming gigs. Bro
 
 32 Cambridge Street, S1 4HP, Sheffield, Sheffield
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/network/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/network/)*

@@ -1,19 +1,19 @@
 # Kili (3)
 
-Kili (3) is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Roof 175, Frankfurt on Fri, 25 Sept 2026.
+Kili (3) is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 13 Nov 2026.
 
-Kili is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Cologne, Frankfurt, Glasgow and Madrid and 4 more. Often billed alongside Angerfist, Lekkerfaces and Noxiouz. Next up: Roof 175, Frankfurt on Fri 25 Sept.
+Kili is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Cologne, Frankfurt, Glasgow and Madrid and 4 more. Often billed alongside Angerfist, Lekkerfaces and Noxiouz. Next up: Fridas Pier, Stuttgart on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Roof 175 | Frankfurt |
 | Fri, 13 Nov 2026 | Fridas Pier | Stuttgart |
 | Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 
 ## Recently played
 
+- Roof 175, Frankfurt — Fri, 25 Sept 2026
 - Bootshaus, Cologne — Sat, 15 Aug 2026
 - Warehouse, Nantes — Fri, 8 May 2026
 - Bootshaus, Cologne — Fri, 13 Mar 2026
@@ -21,10 +21,9 @@ Kili is a hardcore and techno artist based in Netherlands, tracked on soundcheck
 - Posthalle Würzburg, Nürnberg — Sat, 18 Oct 2025
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 30 Aug 2025
 - Sala Groove, Madrid — Fri, 29 Aug 2025
-- The Classic Grand, Glasgow — Fri, 6 Jun 2025
 
 ## Shares bills with
 
 Angerfist, Lekkerfaces, Noxiouz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kili-3/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kili-3/)*

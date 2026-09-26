@@ -1,6 +1,6 @@
 # Flex on Trax
 
-Flex on Trax is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Artheater, Cologne on Sat, 26 Sept 2026.
+Flex on Trax is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Artheater, Cologne on Sat, 26 Sept 2026.
 
 Flex on Trax is a trance and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Cologne. Often billed alongside DJ SODBRENNEN, OSKAMAXX and Rosilicious. Next up: Artheater, Cologne on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Flex on Trax is a trance and techno artist based in Germany, tracked on soundche
 
 DJ SODBRENNEN, OSKAMAXX, Rosilicious
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flexontrax/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flexontrax/)*

@@ -1,6 +1,6 @@
 # BROADCAST: ONE YEAR OF TRANSMISSION at TRANSMISSION DC
 
-BROADCAST: ONE YEAR OF TRANSMISSION at TRANSMISSION DC on Fri 2 Oct, Washington DC. 25 artists on the bill: Cadeem LaMarr, CalvoMusic, CFCF and Clear Channel and 21 more. Hardcore and Club. Preview the line-up and save it on soundcheck.
+BROADCAST: ONE YEAR OF TRANSMISSION at TRANSMISSION DC on Fri 2 Oct, Washington DC. 28 artists on the bill: Cadeem LaMarr, CalvoMusic, CFCF and Darling Cool and 24 more. Hardcore and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,27 +13,30 @@ BROADCAST: ONE YEAR OF TRANSMISSION at TRANSMISSION DC on Fri 2 Oct, Washington 
 - Cadeem LaMarr
 - CalvoMusic
 - CFCF
-- Clear Channel
 - Darling Cool
 - Dee Clark
 - EL SUCIO
+- EQUISS
 - Franxx
+- Gabberbitch69
 - GET FACE
 - Girlypop Princess
-- Hissy Fit
+- Hissyfit
 - ILUSM
-- JAMBALAYA
 - Juno (NY)
 - Kade Young
 - MANGUMAMI
 - NANAGOTCHI
 - Océane (2)
 - Olof Dreijer
+- Pedro Night
 - Plastician
 - Robyn DaBank
 - Shyboi
+- Soo Intoit
 - THABLACKGOD
-- Toro
+- Toro (4)
+- Trinity Forever
 - Tromac
 
 *Source: [soundcheck](https://soundcheck.club/e/2517796-broadcast-one-year-of-transmission-at-transmission-dc/)*

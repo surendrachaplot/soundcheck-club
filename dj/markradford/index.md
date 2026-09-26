@@ -1,6 +1,6 @@
 # Mark Radford
 
-Mark Radford is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Basing House, London on Fri, 9 Oct 2026.
+Mark Radford is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Basing House, London on Fri, 9 Oct 2026.
 
 Mark Radford is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 122 sets logged across Birmingham and London. Often billed alongside Shenin Amara, Lance Morgan and B3. Next up: Basing House, London on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Mark Radford is a deep house and house artist based in United Kingdom, tracked o
 
 Shenin Amara, Lance Morgan, B3
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markradford/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markradford/)*

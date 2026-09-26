@@ -1,8 +1,8 @@
 # Teenage Mutants
 
-Teenage Mutants is a Techno and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Teenage Mutants is a Techno and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
-Teenage Mutants is a techno and tech house artist based in Germany, tracked on soundcheck, with 139 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 31 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+Teenage Mutants is a techno and tech house artist based in Germany, tracked on soundcheck, with 140 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 32 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Teenage Mutants is a techno and tech house artist based in Germany, tracked on s
 | Wed, 21 Oct 2026 | Veronica Schip | Amsterdam |
 | Fri, 6 Nov 2026 | Ritter Butzke | Berlin |
 | Sat, 21 Nov 2026 | Uebel & Gefährlich | Hamburg |
+| Fri, 27 Nov 2026 | Jaeger | Oslo |
 | Sat, 28 Nov 2026 | DSTRKT Club Berlin | Berlin |
 
 ## Recently played
@@ -31,4 +32,4 @@ Teenage Mutants is a techno and tech house artist based in Germany, tracked on s
 
 Techmo, Eric Wishes, Intaktogene
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teenagemutants/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teenagemutants/)*

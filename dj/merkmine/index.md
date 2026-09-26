@@ -1,6 +1,6 @@
 # MerkMine
 
-MerkMine is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Main Club, Milan on Sat, 3 Oct 2026.
+MerkMine is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Main Club, Milan on Sat, 3 Oct 2026.
 
 MerkMine is a techno and psytrance artist tracked on soundcheck, with 8 sets logged across Milan. Often billed alongside IRVØ, TUROTUNZ and DEPA. Next up: Main Club, Milan on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ MerkMine is a techno and psytrance artist tracked on soundcheck, with 8 sets log
 
 IRVØ, TUROTUNZ, DEPA (3)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merkmine/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merkmine/)*

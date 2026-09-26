@@ -1,6 +1,6 @@
 # Stazia
 
-Stazia is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Vertigo, Toronto on Sat, 26 Sept 2026.
+Stazia is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Vertigo, Toronto on Sat, 26 Sept 2026.
 
 Stazia is a house and tech house artist based in Canada, tracked on soundcheck, with 22 sets logged across Toronto. Often billed alongside RUDEE NIK, Manzone & Strong and Jonathan Rosa. Next up: Vertigo, Toronto on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Stazia is a house and tech house artist based in Canada, tracked on soundcheck, 
 
 RUDEE NIK, Manzone & Strong, Jonathan Rosa
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stazia/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stazia/)*

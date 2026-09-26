@@ -1,6 +1,6 @@
 # Ejeca
 
-Ejeca is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at XOYO, London on Sat, 3 Oct 2026.
+Ejeca is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at XOYO, London on Sat, 3 Oct 2026.
 
 Ejeca is a house and techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Belfast, Brighton, Bristol and Dublin and 5 more. Often billed alongside Trance Wax, ACA (YU) and Alex Culross. Next up: XOYO, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Ejeca is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Trance Wax, ACA (YU), Alex Culross
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ejeca/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ejeca/)*

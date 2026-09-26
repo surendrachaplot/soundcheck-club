@@ -1,6 +1,6 @@
 # Tadeusz
 
-Tadeusz is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club Cheek, London on Sat, 3 Oct 2026.
+Tadeusz is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Club Cheek, London on Sat, 3 Oct 2026.
 
 Tadeusz is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Brighton and Liverpool and 5 more. Often billed alongside Andy Luff, Osmaan and Jhumka. Next up: Club Cheek, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Tadeusz is a house and tech house artist based in United Kingdom, tracked on sou
 
 Andy Luff, Osmaan, Jhumka
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Tadeusz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Tadeusz/)*

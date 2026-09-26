@@ -1,6 +1,6 @@
 # Mankiyan
 
-Mankiyan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Open Ground, Wuppertal on Sat, 26 Sept 2026.
+Mankiyan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Open Ground, Wuppertal on Sat, 26 Sept 2026.
 
 Mankiyan is a techno and house artist based in Belgium, tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 7 more. Often billed alongside AliA, Kafim and Casper. Next up: Open Ground, Wuppertal on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Mankiyan is a techno and house artist based in Belgium, tracked on soundcheck, w
 
 AliA, Kafim, Casper
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mankiyan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mankiyan/)*

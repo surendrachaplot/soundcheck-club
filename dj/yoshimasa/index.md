@@ -1,6 +1,6 @@
 # YOSHIMASA
 
-YOSHIMASA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at R Lounge, Tokyo on Sat, 26 Sept 2026.
+YOSHIMASA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at R Lounge, Tokyo on Sat, 26 Sept 2026.
 
 YOSHIMASA is a techno and house artist based in Japan, tracked on soundcheck, with 92 sets logged across Tokyo. Often billed alongside DJ 34, BEPPU and Takami. Next up: R Lounge, Tokyo on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ YOSHIMASA is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 DJ 34, BEPPU, Takami
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshimasa/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshimasa/)*

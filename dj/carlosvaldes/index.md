@@ -1,19 +1,19 @@
 # Carlos Valdes
 
-Carlos Valdes is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Klymax Discotheque, Bali on Fri, 25 Sept 2026.
+Carlos Valdes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
 
-Carlos Valdes is a house and techno artist based in Netherlands, tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside TITIA, Vuur and Muallem. Next up: Klymax Discotheque, Bali on Fri 25 Sept.
+Carlos Valdes is a house and techno artist based in Netherlands, tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside TITIA, Vuur and Muallem. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Klymax Discotheque | Bali |
 | Sat, 3 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 
 ## Recently played
 
+- Klymax Discotheque, Bali — Fri, 25 Sept 2026
 - Kelvedon Hall, London — Fri, 14 Aug 2026
 - Radio Radio, Amsterdam — Fri, 7 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
@@ -21,10 +21,9 @@ Carlos Valdes is a house and techno artist based in Netherlands, tracked on soun
 - Bassiani, Tbilisi — Fri, 10 Jul 2026
 - Waterhouse Studios, Amsterdam — Sun, 7 Jun 2026
 - Wolfgangshof, Nürnberg — Fri, 29 May 2026
-- nachbar, Amsterdam — Fri, 22 May 2026
 
 ## Shares bills with
 
 TITIA, Vuur, Muallem
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvaldes/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvaldes/)*

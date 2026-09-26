@@ -1,6 +1,6 @@
 # Lucia Lu
 
-Lucia Lu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tresor / Globus, Berlin on Mon, 12 Oct 2026.
+Lucia Lu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tresor / Globus, Berlin on Mon, 12 Oct 2026.
 
 Lucia Lu is a techno and house artist based in Germany, tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Charlie Sparks, 999999999 and DJ Hyperdrive. Next up: Tresor / Globus, Berlin on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ Lucia Lu is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Charlie Sparks, 999999999, DJ Hyperdrive
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucialu/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucialu/)*

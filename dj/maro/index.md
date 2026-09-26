@@ -1,6 +1,6 @@
 # maro
 
-maro is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club Exil, Vienna on Fri, 6 Nov 2026.
+maro is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Club Exil, Vienna on Fri, 6 Nov 2026.
 
 maro is a techno and acid artist based in Germany, tracked on soundcheck, with 35 sets logged across Melbourne, Seoul and Vienna. Often billed alongside Max Wagner, Kat Ze and GOLDI (AT). Next up: Club Exil, Vienna on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ maro is a techno and acid artist based in Germany, tracked on soundcheck, with 3
 
 Max Wagner, Kat Ze, GOLDI (AT)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maro/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maro/)*

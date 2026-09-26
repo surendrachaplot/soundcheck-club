@@ -1,6 +1,6 @@
 # The System
 
-The System is a music venue in Sheffield with 13 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Techno for the People" on Fri, 25 Sept 2026.
+The System is a music venue in Sheffield with 13 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Ten2one + Reggae Soc: NICE UP SHEFFIELD" on Sat, 26 Sept 2026.
 
 The System is a music venue in Sheffield listed on soundcheck. 13 upcoming gigs, with line-ups including Ashley Holmes, Berwick, Esmé and Joi L.F and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -8,7 +8,6 @@ The System is a music venue in Sheffield listed on soundcheck. 13 upcoming gigs,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Techno for the People |  |
 | Sat, 26 Sept 2026 | Ten2one + Reggae Soc: NICE UP SHEFFIELD |  |
 | Sun, 27 Sept 2026 | Milestones with Lubi Jovanovic & Nathan Dodsworth |  |
 | Fri, 2 Oct 2026 | GRASSROOTS 018 - Steel Rocker Solo Session |  |
@@ -17,6 +16,7 @@ The System is a music venue in Sheffield listed on soundcheck. 13 upcoming gigs,
 | Thu, 22 Oct 2026 | Sound Service Station: Cambodian Music with KomKom |  |
 | Fri, 23 Oct 2026 | Club Rez 010: Swimful | Omašta, Swimful, Zeki |
 | Sat, 24 Oct 2026 | Absolute Body Control: Red Rack'em All Night Long | Red Rack'em |
+| Thu, 29 Oct 2026 | Footprints Jazz Club: Zumbi |  |
 | Sat, 31 Oct 2026 | Tzara PRESENTS: Merchant (DANCE FOR HALLOWEEN) | Merchant |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*

@@ -1,15 +1,13 @@
 # SPFDJ
 
-SPFDJ is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Bongo Club, Edinburgh on Fri, 25 Sept 2026.
+SPFDJ is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
-SPFDJ is a techno and house artist based in Sweden, tracked on soundcheck, with 234 sets logged across Amsterdam, Antwerp, Athens and Austin and 72 more. Often billed alongside DAX J, Anetha and MCMLXXXV. Next up: The Bongo Club, Edinburgh on Fri 25 Sept.
+SPFDJ is a techno and house artist based in Sweden, tracked on soundcheck, with 233 sets logged across Amsterdam, Antwerp, Athens and Austin and 72 more. Often billed alongside DAX J, Anetha and MCMLXXXV. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | The Bongo Club | Edinburgh |
-| Sat, 26 Sept 2026 | AUX Club | Athens |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Sat, 17 Oct 2026 | Smolna | Warsaw |
@@ -23,6 +21,7 @@ SPFDJ is a techno and house artist based in Sweden, tracked on soundcheck, with 
 
 ## Recently played
 
+- The Bongo Club, Edinburgh — Fri, 25 Sept 2026
 - TBA - Grand Parc Miribel Jonage, Lyon — Sat, 12 Sept 2026
 - Virage, Paris — Sat, 29 Aug 2026
 - fi, Cologne — Sat, 22 Aug 2026
@@ -30,10 +29,9 @@ SPFDJ is a techno and house artist based in Sweden, tracked on soundcheck, with 
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Praia de Esmoriz Beach, Porto — Sat, 11 Jul 2026
 - Hï Ibiza, Ibiza — Sun, 5 Jul 2026
-- RSO.BERLIN, Berlin — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 DAX J, Anetha, MCMLXXXV
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*

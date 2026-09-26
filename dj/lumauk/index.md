@@ -1,6 +1,6 @@
 # LUMA (UK)
 
-LUMA (UK) is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Colour Factory, London on Fri, 16 Oct 2026.
+LUMA (UK) is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Colour Factory, London on Fri, 16 Oct 2026.
 
 LUMA (UK) is a bass and club artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Brighton, London and Newcastle. Often billed alongside Aisha Mirza, Calm Stiege and Fita. Next up: Colour Factory, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ LUMA (UK) is a bass and club artist based in United Kingdom, tracked on soundche
 
 Aisha Mirza, Calm Stiege, Fita
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lumauk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lumauk/)*

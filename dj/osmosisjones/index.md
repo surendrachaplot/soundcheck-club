@@ -1,8 +1,8 @@
 # Osmosis Jones
 
-Osmosis Jones is a Garage and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kapsule, Liverpool on Sat, 26 Sept 2026.
+Osmosis Jones is a Garage and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kapsule, Liverpool on Sat, 26 Sept 2026.
 
-Osmosis Jones is a garage and house artist based in Australia, tracked on soundcheck, with 93 sets logged across Amsterdam, Auckland, Australiancapitalterritory and Bali and 27 more. Often billed alongside IsGwan, Prizefight and WOLTERS. Next up: Kapsule, Liverpool on Sat 26 Sept.
+Osmosis Jones is a garage and house artist based in Australia, tracked on soundcheck, with 93 sets logged across Amsterdam, Auckland, Australian Capital Territory and Bali and 27 more. Often billed alongside IsGwan, Prizefight and WOLTERS. Next up: Kapsule, Liverpool on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Osmosis Jones is a garage and house artist based in Australia, tracked on soundc
 
 IsGwan, Prizefight, WOLTERS
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*

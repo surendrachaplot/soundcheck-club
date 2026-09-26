@@ -1,6 +1,6 @@
 # Afskum
 
-Afskum is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Operaen, Copenhagen on Sat, 24 Oct 2026.
+Afskum is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Operaen, Copenhagen on Sat, 24 Oct 2026.
 
 Afskum is an electronic artist based in Denmark, tracked on soundcheck, with 5 sets logged across Copenhagen. Often billed alongside Cynnamon, DJ Nah Care and Deb Foam. Next up: Operaen, Copenhagen on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Afskum is an electronic artist based in Denmark, tracked on soundcheck, with 5 s
 
 Cynnamon, DJ Nah Care, Deb Foam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afskum/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afskum/)*

@@ -1,6 +1,6 @@
 # George Apergis
 
-George Apergis is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 2ten, Athens on Sat, 26 Sept 2026.
+George Apergis is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 2ten, Athens on Sat, 26 Sept 2026.
 
 George Apergis is a techno and ebm artist based in Greece, tracked on soundcheck, with 141 sets logged across Athens, Berlin and London. Often billed alongside Emex, TolisQ and Talantösis. Next up: 2ten, Athens on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ George Apergis is a techno and ebm artist based in Greece, tracked on soundcheck
 
 Emex, TolisQ, Talantösis
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeapergis/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeapergis/)*

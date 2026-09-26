@@ -1,6 +1,6 @@
 # De Thomaskerk
 
-De Thomaskerk is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL" on Fri, 23 Oct 2026.
+De Thomaskerk is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL" on Fri, 23 Oct 2026.
 
 De Thomaskerk is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including 42nd Avenue, Altinbas, Avsluta and AYIM and 2 more. Browse upcoming dates, start times and who's playing. Pr. Irenestraat 361077 WX Amsterdam.
 
@@ -14,4 +14,4 @@ De Thomaskerk is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig
 
 Pr. Irenestraat 361077 WX Amsterdam, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-thomaskerk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-thomaskerk/)*

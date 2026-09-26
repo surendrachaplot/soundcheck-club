@@ -1,15 +1,13 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Art School, Glasgow on Thu, 24 Sept 2026.
+Prosumer is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Prosumer is a house and techno artist based in United Kingdom, tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: The Art School, Glasgow on Thu 24 Sept.
+Prosumer is a house and techno artist based in United Kingdom, tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: Monarch, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | The Art School | Glasgow |
-| Fri, 25 Sept 2026 | Mint XL | Leeds |
 | Fri, 2 Oct 2026 | Monarch | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | TBA - Shipyards Waterfront | Vancouver |
 | Sat, 17 Oct 2026 | public records | New York City |
@@ -17,17 +15,17 @@ Prosumer is a house and techno artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
+- Mint XL, Leeds — Fri, 25 Sept 2026
+- The Art School, Glasgow — Thu, 24 Sept 2026
 - Night Tales Loft, London — Sat, 19 Sept 2026
 - Pontoon Budapest, Budapest — Thu, 10 Sept 2026
 - 528 Ibiza, Ibiza — Tue, 8 Sept 2026
 - Lofi, Amsterdam — Sat, 29 Aug 2026
 - Sneaky Pete's, Edinburgh — Fri, 28 Aug 2026
 - La Terrrazza, Barcelona — Sat, 22 Aug 2026
-- The Cause, London — Sat, 15 Aug 2026
-- Trädgården, Stockholm — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Horse Meat Disco, Peach, Job Jobse
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*

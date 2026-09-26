@@ -1,15 +1,13 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Dj Mr. Cigarette Butt" on Thu, 24 Sept 2026.
+Eschschloraque is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Strange Songs for September" on Wed, 30 Sept 2026.
 
-Eschschloraque is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Blame (EC), Daniel Jaramillo, DAZA and MissVergnügen. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
+Eschschloraque is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including MissVergnügen. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Dj Mr. Cigarette Butt |  |
-| Fri, 25 Sept 2026 | Drop Sessions Berlin | Blame (EC), DAZA, Daniel Jaramillo |
 | Wed, 30 Sept 2026 | Strange Songs for September | MissVergnügen |
 | Sat, 3 Oct 2026 | El Matador del Taxi |  |
 | Sun, 4 Oct 2026 | BULETTEN BINGO – INTERNATIONAL EDITION |  |
@@ -23,4 +21,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 10 upcoming gigs
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

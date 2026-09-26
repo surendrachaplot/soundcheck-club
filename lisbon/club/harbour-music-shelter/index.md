@@ -1,6 +1,6 @@
 # Harbour Music Shelter
 
-Harbour Music Shelter is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Harbour Sundaze convida Bruno Curtis e Lina" on Sun, 27 Sept 2026.
+Harbour Music Shelter is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Harbour Sundaze convida Bruno Curtis e Lina" on Sun, 27 Sept 2026.
 
 Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including Bruno Curtis and Marco Shuttle. Browse upcoming dates, start times and who's playing. Cais do Gás Armazém A 1900-109 Lisboa, Portugal.
 
@@ -15,4 +15,4 @@ Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 2 upcomin
 
 Cais do Gás Armazém A 1900-109 Lisboa, Portugal, Lisbon
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*

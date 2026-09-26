@@ -1,6 +1,6 @@
 # Fiyahkidd
 
-Fiyahkidd is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Death Disco, Athens on Sat, 26 Sept 2026.
+Fiyahkidd is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Death Disco, Athens on Sat, 26 Sept 2026.
 
 Fiyahkidd is an electro and ebm artist based in Greece, tracked on soundcheck, with 14 sets logged across Athens. Often billed alongside PJ MUGIWARA, Lockbird and Carnival Queen. Next up: Death Disco, Athens on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Fiyahkidd is an electro and ebm artist based in Greece, tracked on soundcheck, w
 
 PJ MUGIWARA, Lockbird, Carnival Queen
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiyahkidd/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiyahkidd/)*

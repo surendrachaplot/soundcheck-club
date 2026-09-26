@@ -1,6 +1,6 @@
 # PAIK
 
-PAIK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Volnost, Seoul on Thu, 8 Oct 2026.
+PAIK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Volnost, Seoul on Thu, 8 Oct 2026.
 
 PAIK is a house and techno artist based in South Korea, tracked on soundcheck, with 28 sets logged across Seoul. Often billed alongside Yun Line, Zoonpark and J.bin. Next up: Volnost, Seoul on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ PAIK is a house and techno artist based in South Korea, tracked on soundcheck, w
 
 Yun Line, Zoonpark, J.bin (2)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paik/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paik/)*

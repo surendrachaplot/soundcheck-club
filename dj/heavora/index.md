@@ -1,18 +1,18 @@
 # Heavora
 
-Heavora is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at C12, Brussels on Fri, 25 Sept 2026.
+Heavora is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at La Fabriek, Brussels on Fri, 16 Oct 2026.
 
-Heavora is a techno and hardcore artist based in Belgium, tracked on soundcheck, with 11 sets logged across Antwerp, Brussels, Ghent and Paris. Often billed alongside Jacidorex, Minopolska and Abdénord. Next up: C12, Brussels on Fri 25 Sept.
+Heavora is a techno and hardcore artist based in Belgium, tracked on soundcheck, with 11 sets logged across Antwerp, Brussels, Ghent and Paris. Often billed alongside Jacidorex, Minopolska and Abdénord. Next up: La Fabriek, Brussels on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | C12 | Brussels |
 | Fri, 16 Oct 2026 | La Fabriek | Brussels |
 
 ## Recently played
 
+- C12, Brussels — Fri, 25 Sept 2026
 - Kilomètre25, Paris — Sat, 22 Aug 2026
 - Decadance, Ghent — Thu, 27 Feb 2025
 - Barrio Cafe, Brussels — Sat, 15 Feb 2025
@@ -20,10 +20,9 @@ Heavora is a techno and hardcore artist based in Belgium, tracked on soundcheck,
 - C12, Brussels — Fri, 29 Nov 2024
 - Club Hard, Antwerp — Fri, 18 Oct 2024
 - Spirito, Brussels — Fri, 14 Jun 2024
-- Studio Citygate, Brussels — Fri, 29 Sept 2023
 
 ## Shares bills with
 
 Jacidorex, Minopolska, Abdénord
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heavora/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heavora/)*

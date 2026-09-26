@@ -1,6 +1,6 @@
 # Aside (AT)
 
-Aside (AT) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+Aside (AT) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
 
 Aside (AT) is an electronic artist based in Turkey, tracked on soundcheck, with 7 sets logged across Cyprus and Vienna. Often billed alongside Reinhard Zach, AWEN and Adam Beyer. Next up: Etko, Cyprus on Fri 25 Sept.
 
@@ -12,6 +12,7 @@ Aside (AT) is an electronic artist based in Turkey, tracked on soundcheck, with 
 
 ## Recently played
 
+- Etko, Cyprus — Fri, 25 Sept 2026
 - Tagada, Vienna — Fri, 3 Jul 2026
 - The Loft, Vienna — Sat, 23 May 2026
 - Celeste, Vienna — Fri, 5 Dec 2025
@@ -23,4 +24,4 @@ Aside (AT) is an electronic artist based in Turkey, tracked on soundcheck, with 
 
 Reinhard Zach, AWEN, Adam Beyer
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asideat/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asideat/)*

@@ -1,13 +1,14 @@
 # DASHY
 
-DASHY is a Garage and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Last Arch, London on Fri, 23 Oct 2026.
+DASHY is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Love Inn, Bristol on Fri, 16 Oct 2026.
 
-DASHY is a garage and electro artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Brighton, Bristol, Leeds and Liverpool and 2 more. Often billed alongside Lolli, Azumei and IZZIT. Next up: Last Arch, London on Fri 23 Oct.
+DASHY is a garage and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Brighton, Bristol, Leeds and Liverpool and 2 more. Often billed alongside Azumei, Lolli and AVA. Next up: The Love Inn, Bristol on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | The Love Inn | Bristol |
 | Fri, 23 Oct 2026 | Last Arch | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ DASHY is a garage and electro artist based in United Kingdom, tracked on soundch
 
 ## Shares bills with
 
-Lolli, Azumei, IZZIT
+Azumei, Lolli, AVA (3)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dashy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dashy/)*

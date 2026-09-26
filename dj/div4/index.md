@@ -1,14 +1,16 @@
 # DiV4
 
-DiV4 is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hotel Forum, Krakow on Sat, 10 Oct 2026.
+DiV4 is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-DiV4 is a bass and techno artist based in Poland, tracked on soundcheck, with 35 sets logged across Berlin, Krakow, Vienna and Warsaw. Often billed alongside androgienia, KAROLINDA and larissa. Next up: Hotel Forum, Krakow on Sat 10 Oct.
+DiV4 is a bass and techno artist based in Poland, tracked on soundcheck, with 37 sets logged across Berlin, Krakow, Poland and Vienna and 1 more. Often billed alongside androgienia, KAROLINDA and larissa. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Sat, 10 Oct 2026 | Hotel Forum | Krakow |
+| Sat, 12 Dec 2026 | OCZKI | Warsaw |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ DiV4 is a bass and techno artist based in Poland, tracked on soundcheck, with 35
 
 androgienia, KAROLINDA, larissa
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/div4/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/div4/)*

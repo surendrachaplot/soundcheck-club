@@ -1,6 +1,6 @@
 # Gutkind
 
-Gutkind is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at fi, Cologne on Fri, 2 Oct 2026.
+Gutkind is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at fi, Cologne on Fri, 2 Oct 2026.
 
 Gutkind is a techno and acid artist based in Germany, tracked on soundcheck, with 69 sets logged across Cologne, Düsseldorf and Frankfurt. Often billed alongside Johannes Schuster, Neon Graveyard and Szunflower. Next up: fi, Cologne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Gutkind is a techno and acid artist based in Germany, tracked on soundcheck, wit
 
 Johannes Schuster, Neon Graveyard, Szunflower
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gutkind/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gutkind/)*

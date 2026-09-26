@@ -1,6 +1,6 @@
 # Dr Banana
 
-Dr Banana is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Dr Banana is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Dr Banana is a house and garage artist based in United Kingdom, tracked on soundcheck, with 252 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 40 more. Often billed alongside Laidlaw, Melody RA+RE and Enzo Siragusa. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -33,4 +33,4 @@ Dr Banana is a house and garage artist based in United Kingdom, tracked on sound
 
 Laidlaw, Melody RA+RE, Enzo Siragusa
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*

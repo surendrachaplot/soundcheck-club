@@ -1,6 +1,6 @@
 # ELIHU
 
-ELIHU is a Progressive House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Noah Mediterranean Beach, Naples on Sun, 27 Sept 2026.
+ELIHU is a Progressive House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Noah Mediterranean Beach, Naples on Sun, 27 Sept 2026.
 
 ELIHU is a progressive house and afro tech artist based in Italy, tracked on soundcheck, with 9 sets logged across Milan and Naples. Often billed alongside MIND the GAP and da Believer. Next up: Noah Mediterranean Beach, Naples on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ ELIHU is a progressive house and afro tech artist based in Italy, tracked on sou
 
 MIND the GAP, da Believer
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elihu/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elihu/)*

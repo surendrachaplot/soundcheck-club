@@ -1,6 +1,6 @@
 # Harleys Sky Bar
 
-Harleys Sky Bar is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Nanna Makina @ Harleys" on Sat, 17 Oct 2026.
+Harleys Sky Bar is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Nanna Makina @ Harleys" on Sat, 17 Oct 2026.
 
 Harleys Sky Bar is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with line-ups including Nanna Makina. Browse upcoming dates, start times and who's playing. 96-102 Main St, Rutherglen, Glasgow, G73 2HZ.
 
@@ -14,4 +14,4 @@ Harleys Sky Bar is a music venue in Glasgow listed on soundcheck. 1 upcoming gig
 
 96-102 Main St, Rutherglen, Glasgow, G73 2HZ, Glasgow
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/harleys-sky-bar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/harleys-sky-bar/)*

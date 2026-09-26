@@ -1,6 +1,6 @@
 # aros
 
-aros is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bukanyr Boat, Prague on Sat, 31 Oct 2026.
+aros is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bukanyr Boat, Prague on Sat, 31 Oct 2026.
 
 aros is a house and techno artist based in Czech Republic, tracked on soundcheck, with 11 sets logged across Prague. Often billed alongside Omek, Biodan and Aceedo. Next up: Bukanyr Boat, Prague on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ aros is a house and techno artist based in Czech Republic, tracked on soundcheck
 
 Omek, Biodan, Aceedo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aros/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aros/)*

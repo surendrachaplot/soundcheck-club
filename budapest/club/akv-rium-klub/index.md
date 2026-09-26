@@ -1,6 +1,6 @@
 # Akvárium Klub
 
-Akvárium Klub is a music venue in Budapest with 22 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "AkvaWaves pres.: Joachim Pastor // Akvárium Klub" on Fri, 2 Oct 2026.
+Akvárium Klub is a music venue in Budapest with 22 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "AkvaWaves pres.: Joachim Pastor // Akvárium Klub" on Fri, 2 Oct 2026.
 
 Akvárium Klub is a music venue in Budapest listed on soundcheck. 22 upcoming gigs, with line-ups including Acid Arab, ALT8, Andrew Cairns and Arlo Parks and 2 more. Browse upcoming dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
 
@@ -23,4 +23,4 @@ Akvárium Klub is a music venue in Budapest listed on soundcheck. 22 upcoming gi
 
 Budapest Erzsébet tér, 1051 Hungary, Budapest
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*

@@ -1,6 +1,6 @@
 # Rosa Rosen
 
-Rosa Rosen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Loft, Vienna on Fri, 9 Oct 2026.
+Rosa Rosen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Loft, Vienna on Fri, 9 Oct 2026.
 
 Rosa Rosen is a techno and house artist based in Austria, tracked on soundcheck, with 19 sets logged across Vienna. Often billed alongside Anna Ullrich, Max Wagner and KRAWALLBARBIE. Next up: The Loft, Vienna on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Rosa Rosen is a techno and house artist based in Austria, tracked on soundcheck,
 
 Anna Ullrich, Max Wagner, KRAWALLBARBIE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosarosen/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosarosen/)*

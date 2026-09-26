@@ -1,6 +1,6 @@
 # Anton Friisgaard
 
-Anton Friisgaard is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Torso Electronics, Copenhagen on Fri, 2 Oct 2026.
+Anton Friisgaard is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Torso Electronics, Copenhagen on Fri, 2 Oct 2026.
 
 Anton Friisgaard is a bass and techno artist based in Denmark, tracked on soundcheck, with 14 sets logged across Brussels and Copenhagen. Often billed alongside Sofie Birch, SØS Gunver Ryberg and A.dixen. Next up: Torso Electronics, Copenhagen on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Anton Friisgaard is a bass and techno artist based in Denmark, tracked on soundc
 
 Sofie Birch, SØS Gunver Ryberg, A.dixen
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antonfriisgaard/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antonfriisgaard/)*

@@ -1,14 +1,15 @@
 # Cam Joon
 
-Cam Joon is a Techno and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Carpet Shop, London on Thu, 8 Oct 2026.
+Cam Joon is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Carpet Shop, London on Thu, 8 Oct 2026.
 
-Cam Joon is a techno and vaporwave artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across London and Manchester. Often billed alongside INGI, Donut and FNKD. Next up: The Carpet Shop, London on Thu 8 Oct.
+Cam Joon is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across London and Manchester. Often billed alongside INGI, Donut and FNKD. Next up: The Carpet Shop, London on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | The Carpet Shop | London |
+| Sat, 31 Oct 2026 | The Carpet Shop | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Cam Joon is a techno and vaporwave artist based in United Kingdom, tracked on so
 
 INGI, Donut, FNKD
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camjoon/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camjoon/)*

@@ -1,6 +1,6 @@
 # Davide Del Vecchio
 
-Davide Del Vecchio is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The BBE Store, London on Sat, 7 Nov 2026.
+Davide Del Vecchio is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The BBE Store, London on Sat, 7 Nov 2026.
 
 Davide Del Vecchio is a disco and deep house artist tracked on soundcheck, with 146 sets logged across Berlin, Ibiza, Lisbon and Liverpool and 3 more. Often billed alongside Duappo, ARLYSS and Dan Cluskey. Next up: The BBE Store, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Davide Del Vecchio is a disco and deep house artist tracked on soundcheck, with 
 
 Duappo, ARLYSS, Dan Cluskey
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedelvecchio/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedelvecchio/)*

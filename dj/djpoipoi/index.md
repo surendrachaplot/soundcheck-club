@@ -1,6 +1,6 @@
 # DJ POIPOI
 
-DJ POIPOI is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 24 Oct 2026.
+DJ POIPOI is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 24 Oct 2026.
 
 DJ POIPOI is a house and techno artist based in Japan, tracked on soundcheck, with 62 sets logged across Osaka and Tokyo. Often billed alongside HIBI BLISS, RUKE and INAE. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ DJ POIPOI is a house and techno artist based in Japan, tracked on soundcheck, wi
 
 HIBI BLISS, RUKE, INAE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoipoi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoipoi/)*

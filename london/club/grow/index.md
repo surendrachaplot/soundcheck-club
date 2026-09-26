@@ -1,14 +1,13 @@
 # Grow
 
-Grow is a music venue in London with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "DUBMERGE: Moontalk // OKAMI // Goh Well" on Fri, 25 Sept 2026.
+Grow is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Kula Collective: Sticky Dub, donwella, Zafeer" on Sat, 26 Sept 2026.
 
-Grow is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Alfaz, ARLYSS, Bena and Bowlcut and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
+Grow is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Alfaz, ARLYSS, Bena and Bowlcut and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | DUBMERGE: Moontalk // OKAMI // Goh Well | Goh Well, Moontalk, ŌKAMI |
 | Sat, 26 Sept 2026 | Kula Collective: Sticky Dub, donwella, Zafeer | Sticky Dub, donwella |
 | Fri, 2 Oct 2026 | OONTS: Kojay B2B P-Lucas // DREY B2B Kanem // Rich B2B Last Nubian | DREY, Kanem, Kojay, Last Nubian, P-Lucas, Rich |
 | Sat, 3 Oct 2026 | Grow PRESENTS: CSGRV & DEMACQUE + SPECIAL GUEST RICK VAYO [LIVE] | CSGRV, Tapefeed |
@@ -18,9 +17,10 @@ Grow is a music venue in London listed on soundcheck. 11 upcoming gigs, with lin
 | Sat, 24 Oct 2026 | GIRLZ B LIKE: 11's HEAVEN Birthday Celebration | Marcia Carr |
 | Fri, 30 Oct 2026 | Equal Parts: Warehouse of Horror | Holly Why, Ryan Jones, fairground |
 | Fri, 6 Nov 2026 | Salotto Sounds X Daydream Disco | ARLYSS, Alfaz, Bowlcut |
+| Sat, 21 Nov 2026 | Love Is Everywhere #9: Tina Edwards // Paul Murphy // Masumi Endo // Foot Notes | Tina Edwards |
 
 ## Address
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

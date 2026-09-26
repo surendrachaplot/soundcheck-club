@@ -1,14 +1,13 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 18 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Nido invite - Admo (live) & Molto" on Fri, 25 Sept 2026.
+Nido Marseille is a music venue in Marseille with 17 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Nido invite: Reptant (Live) & Distill" on Sat, 26 Sept 2026.
 
-Nido Marseille is a music venue in Marseille listed on soundcheck. 18 upcoming gigs, with line-ups including Admo, ALiNA, Arthur Lastmann and Atree and 2 more. Browse upcoming dates, start times and who's playing. 20 boulevard fifi turin.
+Nido Marseille is a music venue in Marseille listed on soundcheck. 17 upcoming gigs, with line-ups including ALiNA, Arthur Lastmann, Atree and Camion Bazar and 2 more. Browse upcoming dates, start times and who's playing. 20 boulevard fifi turin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Nido invite - Admo (live) & Molto | Admo, Molto |
 | Sat, 26 Sept 2026 | Nido invite: Reptant (Live) & Distill | Reptant |
 | Fri, 2 Oct 2026 | Nido local - Man/Ipulate & Zoubir | Man/Ipulate |
 | Sat, 3 Oct 2026 | Nido House Masters - Chez Damier, Flyuko, Paul Cut (live) | Chez Damier, Paul Cut |
@@ -18,9 +17,10 @@ Nido Marseille is a music venue in Marseille listed on soundcheck. 18 upcoming g
 | Sun, 11 Oct 2026 | Nido afterhours - Ghost Club TBA |  |
 | Thu, 15 Oct 2026 | Nido live session - Canine Cracks, Tibahuult & Tessina | Canine Cracks |
 | Fri, 16 Oct 2026 | Nido invite: Camion Bazar | Camion Bazar |
+| Sat, 17 Oct 2026 | Nido label night: Tresydos avec Lis Sarroca, Mari.te, Papolious Jones, Vince Void | Lis Sarroca, Mari.te, Vince Void |
 
 ## Address
 
 20 boulevard fifi turin, Marseille
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*

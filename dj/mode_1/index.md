@@ -1,6 +1,6 @@
 # Mode_1
 
-Mode_1 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Wigwam, Dublin on Sat, 7 Nov 2026.
+Mode_1 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Wigwam, Dublin on Sat, 7 Nov 2026.
 
 Mode_1 is a techno and electro artist tracked on soundcheck, with 27 sets logged across Berlin, Cork, Dublin and New York City. Often billed alongside Derv, MEJMI and Offtrack. Next up: Wigwam, Dublin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mode_1 is a techno and electro artist tracked on soundcheck, with 27 sets logged
 
 Derv, MEJMI, Offtrack
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mode_1/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mode_1/)*

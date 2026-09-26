@@ -1,6 +1,6 @@
 # Jacob Grosse
 
-Jacob Grosse is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 24 Oct 2026.
+Jacob Grosse is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 24 Oct 2026.
 
 Jacob Grosse is a techno and trance artist based in United States of America, tracked on soundcheck, with 10 sets logged across Berlin, Denver, Los Angeles and San Diego and 1 more. Often billed alongside Ashley Anngora, Mija and Pixie Dust. Next up: Lokschuppen Berlin, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Jacob Grosse is a techno and trance artist based in United States of America, tr
 
 Ashley Anngora, Mija, Pixie Dust
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobgrosse/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobgrosse/)*

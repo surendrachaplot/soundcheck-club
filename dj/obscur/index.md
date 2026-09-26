@@ -1,6 +1,6 @@
 # Obscur
 
-Obscur is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Rote Sonne, Munich on Sat, 3 Oct 2026.
+Obscur is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Rote Sonne, Munich on Sat, 3 Oct 2026.
 
 Obscur is a techno and electro artist based in Slovenia, tracked on soundcheck, with 10 sets logged across Amsterdam, Athens, Belgrade and Berlin and 3 more. Often billed alongside 04061, 314A and A.mo. Next up: Rote Sonne, Munich on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Obscur is a techno and electro artist based in Slovenia, tracked on soundcheck, 
 
 04061, 314A, A.mo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*

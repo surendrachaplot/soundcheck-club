@@ -1,6 +1,6 @@
 # Kasia (OFC)
 
-Kasia (OFC) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Concourse Project, Austin on Sat, 26 Sept 2026.
+Kasia (OFC) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Concourse Project, Austin on Sat, 26 Sept 2026.
 
 Kasia (OFC) is a techno and house artist based in Poland, tracked on soundcheck, with 78 sets logged across Amsterdam, Athens, Austin and Bali and 28 more. Often billed alongside Adam Beyer, Kevin de Vries and Chris Avantgarde. Next up: The Concourse Project, Austin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Kasia (OFC) is a techno and house artist based in Poland, tracked on soundcheck,
 
 Adam Beyer, Kevin de Vries, Chris Avantgarde
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kasia-ofc/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kasia-ofc/)*

@@ -1,6 +1,6 @@
 # Kevin de Vries
 
-Kevin de Vries is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Poolen, Copenhagen on Fri, 2 Oct 2026.
+Kevin de Vries is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Poolen, Copenhagen on Fri, 2 Oct 2026.
 
 Kevin de Vries is a techno and house artist based in Germany, tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Tale Of Us, Chris Avantgarde and Anyma. Next up: Poolen, Copenhagen on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Kevin de Vries is a techno and house artist based in Germany, tracked on soundch
 
 Tale Of Us, Chris Avantgarde, Anyma
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindevries/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindevries/)*

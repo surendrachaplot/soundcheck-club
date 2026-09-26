@@ -1,14 +1,14 @@
 # Roberta
 
-Roberta is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Mexico City on Sat, 3 Oct 2026.
+Roberta is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Av. Ejército Nacional Mexicano 963, Mexico City on Sat, 3 Oct 2026.
 
-Roberta is a techno and hip-hop artist based in Mexico, tracked on soundcheck, with 8 sets logged across Mexico City. Often billed alongside Laura Put, Sumiruna and Alacrán del Amor. Next up: TBA, Mexico City on Sat 3 Oct.
+Roberta is a techno and hip-hop artist based in Mexico, tracked on soundcheck, with 8 sets logged across Mexico City. Often billed alongside Laura Put, Sumiruna and Alacrán del Amor. Next up: TBA - Av. Ejército Nacional Mexicano 963, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA | Mexico City |
+| Sat, 3 Oct 2026 | TBA - Av. Ejército Nacional Mexicano 963 | Mexico City |
 
 ## Recently played
 
@@ -24,4 +24,4 @@ Roberta is a techno and hip-hop artist based in Mexico, tracked on soundcheck, w
 
 Laura Put, Sumiruna, Alacrán del Amor
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roberta/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roberta/)*

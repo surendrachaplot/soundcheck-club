@@ -1,6 +1,6 @@
 # Dana Roosy
 
-Dana Roosy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at MTW, Frankfurt on Fri, 2 Oct 2026.
+Dana Roosy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at MTW, Frankfurt on Fri, 2 Oct 2026.
 
 Dana Roosy is a techno and trance artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Cologne, Düsseldorf and Frankfurt and 1 more. Often billed alongside Ropemaker, ADEMES and Jester. Next up: MTW, Frankfurt on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Dana Roosy is a techno and trance artist based in Germany, tracked on soundcheck
 
 Ropemaker, ADEMES, Jester
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danaroosy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danaroosy/)*

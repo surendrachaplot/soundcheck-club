@@ -1,6 +1,6 @@
 # WVCHWY
 
-WVCHWY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+WVCHWY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
 WVCHWY is a techno and house artist based in Australia, tracked on soundcheck, with 19 sets logged across Brisbane, Melbourne, Sydney and Victoria. Often billed alongside Bertie, Afrodisiac and Hannah D. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ WVCHWY is a techno and house artist based in Australia, tracked on soundcheck, w
 
 Bertie, Afrodisiac, Hannah D
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wvchwy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wvchwy/)*

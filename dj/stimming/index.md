@@ -1,6 +1,6 @@
 # Stimming
 
-Stimming is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 16 Oct 2026.
+Stimming is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 16 Oct 2026.
 
 Stimming is a techno and house artist based in Germany, tracked on soundcheck, with 54 sets logged across Amsterdam, Basel, Berlin and Budapest and 18 more. Often billed alongside Arutani, Caleesi and Sarah Kreis. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Stimming is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Arutani, Caleesi, Sarah Kreis
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stimming/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stimming/)*

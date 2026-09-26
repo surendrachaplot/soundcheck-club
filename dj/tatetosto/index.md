@@ -1,6 +1,6 @@
 # Tate Tosto
 
-Tate Tosto is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 30 Oct 2026.
+Tate Tosto is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 30 Oct 2026.
 
 Tate Tosto is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside Jesus RedSoul, Cecilia Ena and KRISTO SENIA. Next up: Two Tribes CAMPFIRE, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Tate Tosto is a house and electronica artist based in United Kingdom, tracked on
 
 Jesus RedSoul, Cecilia Ena, KRISTO SENIA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tatetosto/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tatetosto/)*

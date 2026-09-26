@@ -1,6 +1,6 @@
 # Soja
 
-Soja is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Downtown Las Vegas Event Center , Las-vegas on Sat, 3 Oct 2026.
+Soja is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Downtown Las Vegas Event Center , Las-vegas on Sat, 3 Oct 2026.
 
 Soja is an electro and house artist based in Belgium, tracked on soundcheck, with 19 sets logged across Brussels, Las Vegas and San Francisco/Oakland. Often billed alongside DC Salas, SVS and Nikita. Next up: TBA - Downtown Las Vegas Event Center , Las Vegas on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Soja is an electro and house artist based in Belgium, tracked on soundcheck, wit
 
 DC Salas, SVS (1), Nikita
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soja/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soja/)*

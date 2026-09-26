@@ -1,6 +1,6 @@
 # Tasya (2)
 
-Tasya (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+Tasya (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 Tasya is a techno and electronica artist based in Russia, tracked on soundcheck, with 16 sets logged across Bangkok and Prague. Often billed alongside TerminusTechnikus, Edits and Epoché. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tasya is a techno and electronica artist based in Russia, tracked on soundcheck,
 
 TerminusTechnikus, Edits, Epoché
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tasya-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tasya-2/)*

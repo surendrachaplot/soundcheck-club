@@ -1,6 +1,6 @@
 # Maul (2)
 
-Maul (2) is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 3 Oct 2026.
+Maul (2) is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 3 Oct 2026.
 
 Maul is a techno and hardcore artist based in Canada, tracked on soundcheck, with 12 sets logged across Toronto. Often billed alongside KILL 9 1, R4TS and MVCHE. Next up: 821 Runnymede Rd, Toronto on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Maul is a techno and hardcore artist based in Canada, tracked on soundcheck, wit
 
 KILL 9 1, R4TS, MVCHE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maul-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maul-2/)*

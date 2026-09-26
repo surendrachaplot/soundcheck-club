@@ -1,6 +1,6 @@
 # Bakey
 
-Bakey is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Golden Lion, Manchester on Sat, 3 Oct 2026.
+Bakey is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Golden Lion, Manchester on Sat, 3 Oct 2026.
 
 Bakey is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 30 more. Often billed alongside Capo Lee, Breaka and Dr Dubplate. Next up: The Golden Lion, Manchester on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Bakey is a garage and bass artist based in United Kingdom, tracked on soundcheck
 
 Capo Lee, Breaka, Dr Dubplate
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bakey/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bakey/)*

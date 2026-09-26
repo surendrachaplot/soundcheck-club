@@ -1,6 +1,6 @@
 # Nick Boyd
 
-Nick Boyd is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Honey's, New York City on Sat, 26 Sept 2026.
+Nick Boyd is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Honey's, New York City on Sat, 26 Sept 2026.
 
 Nick Boyd is a techno and house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Boston and New York City. Often billed alongside MIRA MIRA, Devoye and EscaFlowne. Next up: Honey's, New York City on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nick Boyd is a techno and house artist based in United States of America, tracke
 
 MIRA MIRA, Devoye, EscaFlowne
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickboyd/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickboyd/)*

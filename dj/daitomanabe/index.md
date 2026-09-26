@@ -1,13 +1,14 @@
 # Daito Manabe
 
-Daito Manabe is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Colosseum Filmtheater, Berlin on Thu, 5 Nov 2026.
+Daito Manabe is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Toki No Hiroba Plaza, Osaka on Mon, 12 Oct 2026.
 
-Daito Manabe is an experimental and techno artist based in Japan, tracked on soundcheck, with 27 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 5 more. Often billed alongside Nosaj Thing, Nick León and Actress. Next up: Colosseum Filmtheater, Berlin on Thu 5 Nov.
+Daito Manabe is an experimental and techno artist based in Japan, tracked on soundcheck, with 28 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 5 more. Often billed alongside Nosaj Thing, Nick León and Actress. Next up: Toki No Hiroba Plaza, Osaka on Mon 12 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 12 Oct 2026 | Toki No Hiroba Plaza | Osaka |
 | Thu, 5 Nov 2026 | Colosseum Filmtheater | Berlin |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
 | Fri, 20 Nov 2026 | MoN Takanawa: The Museum of Narratives | Tokyo |
@@ -27,4 +28,4 @@ Daito Manabe is an experimental and techno artist based in Japan, tracked on sou
 
 Nosaj Thing, Nick León, Actress
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daitomanabe/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daitomanabe/)*

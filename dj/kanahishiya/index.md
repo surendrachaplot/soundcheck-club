@@ -1,6 +1,6 @@
 # Kana Hishiya
 
-Kana Hishiya is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Apotheke, Los Angeles on Sun, 27 Sept 2026.
+Kana Hishiya is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Apotheke, Los Angeles on Sun, 27 Sept 2026.
 
 Kana Hishiya is a house and techno artist based in Japan, tracked on soundcheck, with 58 sets logged across Detroit, Los Angeles, New York City and San Diego and 2 more. Often billed alongside Artur (US), Enzo Muro and H.U.D.L. Next up: Apotheke, Los Angeles on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ Kana Hishiya is a house and techno artist based in Japan, tracked on soundcheck,
 
 Artur (US), Enzo Muro, H.U.D.L
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanahishiya/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanahishiya/)*

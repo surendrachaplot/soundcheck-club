@@ -1,13 +1,14 @@
 # feeo
 
-feeo is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Manggha, Krakow on Sat, 10 Oct 2026.
+feeo is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-feeo is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Bristol and Brussels and 9 more. Often billed alongside Lol K, Ugnė Uma and Valentina Magaletti. Next up: Manggha, Krakow on Sat 10 Oct.
+feeo is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Bristol and Brussels and 10 more. Often billed alongside Batu, Blawan and John T. Gast. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Sat, 10 Oct 2026 | Manggha | Krakow |
 | Sun, 1 Nov 2026 | Botanique | Brussels |
 
@@ -24,6 +25,6 @@ feeo is an experimental and electronica artist based in United Kingdom, tracked 
 
 ## Shares bills with
 
-Lol K, Ugnė Uma, Valentina Magaletti
+Batu, Blawan, John T. Gast
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feeo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feeo/)*

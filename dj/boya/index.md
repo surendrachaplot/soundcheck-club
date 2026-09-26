@@ -1,6 +1,6 @@
 # Boyá
 
-Boyá is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bassiani, Tbilisi on Fri, 25 Sept 2026.
+Boyá is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bassiani, Tbilisi on Fri, 25 Sept 2026.
 
 Boyá is a house and techno artist based in Georgia, tracked on soundcheck, with 82 sets logged across Berlin, Leipzig, Lisbon and Mexico City and 4 more. Often billed alongside skyra, Dr. Long and Keto. Next up: Bassiani, Tbilisi on Fri 25 Sept.
 
@@ -18,6 +18,7 @@ Boyá is a house and techno artist based in Georgia, tracked on soundcheck, with
 
 ## Recently played
 
+- Bassiani, Tbilisi — Fri, 25 Sept 2026
 - THF Radio / Torhaus, Berlin — Thu, 27 Aug 2026
 - Bassiani, Tbilisi — Sat, 11 Jul 2026
 - Bassiani, Tbilisi — Fri, 19 Jun 2026
@@ -25,10 +26,9 @@ Boyá is a house and techno artist based in Georgia, tracked on soundcheck, with
 - Bassiani, Tbilisi — Sat, 16 May 2026
 - BLITZ, Munich — Thu, 30 Apr 2026
 - Meteor Studio, Tbilisi — Sat, 25 Apr 2026
-- Bassiani, Tbilisi — Fri, 3 Apr 2026
 
 ## Shares bills with
 
 skyra, Dr. Long, Keto
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boya/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boya/)*

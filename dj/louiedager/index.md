@@ -1,6 +1,6 @@
 # Louie Dager
 
-Louie Dager is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Do Not Sit On The Furniture, Miami on Wed, 30 Sept 2026.
+Louie Dager is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Do Not Sit On The Furniture, Miami on Wed, 30 Sept 2026.
 
 Louie Dager is a house and deep house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Miami. Often billed alongside Jessy Nimni, Rambo Springsteen and Alex Dovo. Next up: Do Not Sit On The Furniture, Miami on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Louie Dager is a house and deep house artist based in United States of America, 
 
 Jessy Nimni, Rambo Springsteen, Alex Dovo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louiedager/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louiedager/)*

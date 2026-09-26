@@ -1,6 +1,6 @@
 # Chris Llopis
 
-Chris Llopis is a Electro and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 2 Oct 2026.
+Chris Llopis is a Electro and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 2 Oct 2026.
 
 Chris Llopis is an electro and minimal techno artist based in Sweden, tracked on soundcheck, with 6 sets logged across Berlin, Copenhagen, Stockholm and Zurich. Often billed alongside Cora M., Daniel Meister and Giorgio Maulini. Next up: Frieda's Büxe, Zurich on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Chris Llopis is an electro and minimal techno artist based in Sweden, tracked on
 
 Cora M., Daniel Meister, Giorgio Maulini
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisllopis/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisllopis/)*

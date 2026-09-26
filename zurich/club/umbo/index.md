@@ -1,6 +1,6 @@
 # Umbo
 
-Umbo is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Hauptkatalog Club Night" on Sat, 26 Sept 2026.
+Umbo is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Hauptkatalog Club Night" on Sat, 26 Sept 2026.
 
 Umbo is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with line-ups including Goffbaby. Browse upcoming dates, start times and who's playing. Wasserwerkstrasse 89a, 8037 Zürich, Switzerland.
 
@@ -14,4 +14,4 @@ Umbo is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with line-
 
 Wasserwerkstrasse 89a, 8037 Zürich, Switzerland, Zurich
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/umbo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/umbo/)*

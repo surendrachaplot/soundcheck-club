@@ -1,6 +1,6 @@
 # OITO//OITO
 
-OITO//OITO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+OITO//OITO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 OITO//OITO is a house and techno artist based in Portugal, tracked on soundcheck, with 32 sets logged across Lisbon, London, Mexico City and Porto. Often billed alongside Inês Duarte, Joyce Muniz and 2ManyDJs. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ OITO//OITO is a house and techno artist based in Portugal, tracked on soundcheck
 
 Inês Duarte, Joyce Muniz, 2ManyDJs
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oitooito/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oitooito/)*

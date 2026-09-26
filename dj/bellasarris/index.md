@@ -1,6 +1,6 @@
 # Bella Sarris
 
-Bella Sarris is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fvtvr, Paris on Fri, 2 Oct 2026.
+Bella Sarris is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Fvtvr, Paris on Fri, 2 Oct 2026.
 
 Bella Sarris is a house and techno artist based in Sweden, tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside ISAbella, THC and Roza Terenzi. Next up: Fvtvr, Paris on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Bella Sarris is a house and techno artist based in Sweden, tracked on soundcheck
 
 ISAbella, THC, Roza Terenzi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellasarris/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellasarris/)*

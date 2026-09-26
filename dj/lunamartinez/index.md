@@ -1,6 +1,6 @@
 # Luna Martinez
 
-Luna Martinez is a Electro and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Crack Bellmer, Berlin on Sat, 26 Sept 2026.
+Luna Martinez is a Electro and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Crack Bellmer, Berlin on Sat, 26 Sept 2026.
 
 Luna Martinez is an electro and progressive house artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona, Berlin and Ibiza. Often billed alongside Andrea Zarco, Suzanne Dolmancé and ALEKSANDRE. Next up: Crack Bellmer, Berlin on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Luna Martinez is an electro and progressive house artist based in Spain, tracked
 
 Andrea Zarco, Suzanne Dolmancé, ALEKSANDRE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunamartinez/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunamartinez/)*

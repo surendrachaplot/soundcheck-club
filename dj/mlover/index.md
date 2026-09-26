@@ -1,6 +1,6 @@
 # M'Lover
 
-M'Lover is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Greyhound, London on Sat, 31 Oct 2026.
+M'Lover is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Greyhound, London on Sat, 31 Oct 2026.
 
 M'Lover is a house and electro artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Bristol, Liverpool and London. Often billed alongside STEWPOT, Daisybelle and Danny Vito. Next up: The Greyhound, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ M'Lover is a house and electro artist based in United Kingdom, tracked on soundc
 
 STEWPOT, Daisybelle, Danny Vito
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mlover/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mlover/)*

@@ -1,6 +1,6 @@
 # PACKAPUNCH909
 
-PACKAPUNCH909 is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gate Milano, Milan on Fri, 16 Oct 2026.
+PACKAPUNCH909 is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Gate Milano, Milan on Fri, 16 Oct 2026.
 
 PACKAPUNCH909 is a techno and industrial artist based in Italy, tracked on soundcheck, with 16 sets logged across Milan and Turin. Often billed alongside DJ PIRO, AllaDerivaLontano and Flaiv Đarkø. Next up: Gate Milano, Milan on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ PACKAPUNCH909 is a techno and industrial artist based in Italy, tracked on sound
 
 DJ PIRO, AllaDerivaLontano, Flaiv Đarkø
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/packapunch909/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/packapunch909/)*

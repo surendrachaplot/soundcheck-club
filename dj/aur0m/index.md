@@ -1,6 +1,6 @@
 # Aur0m
 
-Aur0m is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gwenda, London on Sat, 10 Oct 2026.
+Aur0m is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Gwenda, London on Sat, 10 Oct 2026.
 
 Aur0m is a house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Armooniaman, Picep and ARTELA. Next up: Gwenda, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Aur0m is a house and funk / soul artist based in United Kingdom, tracked on soun
 
 Armooniaman, Picep, ARTELA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aur0m/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aur0m/)*

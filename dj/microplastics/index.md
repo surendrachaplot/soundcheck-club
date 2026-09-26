@@ -1,6 +1,6 @@
 # Microplastics
 
-Microplastics is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Microplastics is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 Microplastics is a club and techno artist tracked on soundcheck, with 12 sets logged across Central, London, Manchester and Sheffield and 2 more. Often billed alongside 96 Back, Jennifer Walton and aya. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Microplastics is a club and techno artist tracked on soundcheck, with 12 sets lo
 
 96 Back, Jennifer Walton, aya
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/microplastics/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/microplastics/)*

@@ -1,6 +1,6 @@
 # Flux Aeterna: Spiñorita at Underground SF
 
-Flux Aeterna: Spiñorita at Underground SF on Fri 23 Oct, San Francisco/Oakland. 4 artists on the bill: Digital KitKat, Oso Feo, Spiñorita and Three6sashia. Preview the line-up and save it on soundcheck.
+Flux Aeterna: Spiñorita at Underground SF on Fri 23 Oct, San Francisco/Oakland. 4 artists on the bill: Digital KitKat, Oso Feo, Spiñorita and Three6sashia. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

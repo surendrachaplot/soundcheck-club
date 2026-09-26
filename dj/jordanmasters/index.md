@@ -1,6 +1,6 @@
 # Jordan Masters
 
-Jordan Masters is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 93 Feet East, London on Sat, 17 Oct 2026.
+Jordan Masters is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at 93 Feet East, London on Sat, 17 Oct 2026.
 
 Jordan Masters is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Birmingham, Bristol, Leeds and Liverpool and 1 more. Often billed alongside Wax Material, ADMNTi and Julian Anthony. Next up: 93 Feet East, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Jordan Masters is a house and tech house artist based in United Kingdom, tracked
 
 Wax Material, ADMNTi, Julian Anthony
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanmasters/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanmasters/)*

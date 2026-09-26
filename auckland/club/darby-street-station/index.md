@@ -1,6 +1,6 @@
 # Darby Street Station
 
-Darby Street Station is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "303 Events Pres. Ngā Wāhine O Te Trance" on Fri, 9 Oct 2026.
+Darby Street Station is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "303 Events Pres. Ngā Wāhine O Te Trance" on Fri, 9 Oct 2026.
 
 Darby Street Station is a music venue in Auckland listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 16 Darby Street, Auckland CBD, Auckland 1010.
 
@@ -14,4 +14,4 @@ Darby Street Station is a music venue in Auckland listed on soundcheck. 1 upcomi
 
 16 Darby Street, Auckland CBD, Auckland 1010, Auckland
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/darby-street-station/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/darby-street-station/)*

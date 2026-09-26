@@ -1,18 +1,18 @@
 # PEACHI
 
-PEACHI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Coburg warehouse , Melbourne on Fri, 25 Sept 2026.
+PEACHI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Industrique, Melbourne on Sat, 24 Oct 2026.
 
-PEACHI is a house and techno artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside Tommy Craig, Joey Coco and Telefixa. Next up: TBA - Coburg warehouse , Melbourne on Fri 25 Sept.
+PEACHI is a house and techno artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside Tommy Craig, Joey Coco and Telefixa. Next up: The Industrique, Melbourne on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TBA - Coburg warehouse  | Melbourne |
 | Sat, 24 Oct 2026 | The Industrique | Melbourne |
 
 ## Recently played
 
+- TBA - Coburg warehouse , Melbourne — Fri, 25 Sept 2026
 - New Guernica, Melbourne — Thu, 16 Jul 2026
 - New Guernica, Melbourne — Sat, 23 May 2026
 - New Guernica, Melbourne — Fri, 9 Jan 2026
@@ -20,10 +20,9 @@ PEACHI is a house and techno artist based in Australia, tracked on soundcheck, w
 - New Guernica, Melbourne — Thu, 2 Oct 2025
 - New Guernica, Melbourne — Thu, 21 Aug 2025
 - New Guernica, Melbourne — Thu, 7 Aug 2025
-- New Guernica, Melbourne — Thu, 17 Jul 2025
 
 ## Shares bills with
 
 Tommy Craig, Joey Coco, Telefixa
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peachi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peachi/)*

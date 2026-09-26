@@ -1,6 +1,6 @@
 # Xen Model
 
-Xen Model is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Homage Brewing, Los Angeles on Thu, 8 Oct 2026.
+Xen Model is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Homage Brewing, Los Angeles on Thu, 8 Oct 2026.
 
 Xen Model is a techno and experimental artist based in United States of America, tracked on soundcheck, with 16 sets logged across Berlin, London and Los Angeles. Often billed alongside Ice Wall, Jane Margarette and 05elantra. Next up: Homage Brewing, Los Angeles on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Xen Model is a techno and experimental artist based in United States of America,
 
 Ice Wall, Jane Margarette, 05elantra
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xenmodel/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xenmodel/)*

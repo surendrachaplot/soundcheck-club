@@ -1,6 +1,6 @@
 # DESIREE (RSA)
 
-DESIREE (RSA) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at KOKO, London on Sat, 26 Sept 2026.
+DESIREE (RSA) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at KOKO, London on Sat, 26 Sept 2026.
 
 DESIREE (RSA) is a house and techno artist based in South Africa, tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Sossa, Âme and Carlita. Next up: KOKO, London on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ DESIREE (RSA) is a house and techno artist based in South Africa, tracked on sou
 
 Sossa, Âme, Carlita
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*

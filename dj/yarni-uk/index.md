@@ -1,6 +1,6 @@
 # Yarni
 
-Yarni is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Peddler Warehouse, Sheffield on Fri, 2 Oct 2026.
+Yarni is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Peddler Warehouse, Sheffield on Fri, 2 Oct 2026.
 
 Yarni is a jazz and funk / soul artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Manchester and Sheffield. Often billed alongside La Rumba, Sirrey and Benedict. Next up: Peddler Warehouse, Sheffield on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Yarni is a jazz and funk / soul artist based in United Kingdom, tracked on sound
 
 La Rumba, Sirrey, Benedict
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yarni-uk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yarni-uk/)*

@@ -1,6 +1,6 @@
 # Mera Bhai
 
-Mera Bhai is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at radial, London on Sun, 27 Sept 2026.
+Mera Bhai is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at radial, London on Sun, 27 Sept 2026.
 
 Mera Bhai is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Glasgow, London and Los Angeles and 2 more. Often billed alongside Lawrence Hart, Raji Rags and Raidaa. Next up: radial, London on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Mera Bhai is a house and electronica artist based in United Kingdom, tracked on 
 
 Lawrence Hart, Raji Rags, Raidaa
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merabhai/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merabhai/)*

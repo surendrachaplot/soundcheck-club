@@ -1,6 +1,6 @@
 # Courtney Bailey
 
-Courtney Bailey is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+Courtney Bailey is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
 Courtney Bailey is a house and techno artist based in Japan, tracked on soundcheck, with 78 sets logged across Amsterdam, Bali, Berlin and Bucharest and 15 more. Often billed alongside Tornado Wallace, FFAN and Sound Metaphors Djs. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Courtney Bailey is a house and techno artist based in Japan, tracked on soundche
 
 Tornado Wallace, FFAN, Sound Metaphors Djs
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/courtneybailey/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/courtneybailey/)*

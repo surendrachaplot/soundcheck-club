@@ -1,6 +1,6 @@
 # Little Luce
 
-Little Luce is a Breakbeat and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Planet Wax, London on Thu, 1 Oct 2026.
+Little Luce is a Breakbeat and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Planet Wax, London on Thu, 1 Oct 2026.
 
 Little Luce is a breakbeat and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London. Often billed alongside Jahmed, Onncor and Bryn Brax. Next up: Planet Wax, London on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Little Luce is a breakbeat and house artist based in United Kingdom, tracked on 
 
 Jahmed, Onncor, Bryn Brax
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/littleluce/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/littleluce/)*

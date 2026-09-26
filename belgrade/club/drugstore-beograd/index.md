@@ -1,14 +1,13 @@
 # Drugstore Beograd
 
-Drugstore Beograd is a music venue in Belgrade with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "KRШ Season Opener with Rommek & JERM " on Fri, 25 Sept 2026.
+Drugstore Beograd is a music venue in Belgrade with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Women With Attitude x SLUTka with GLIA, Mamavitae, Slvc, Endzi, Aneri and AM Hi at Drugstore" on Sat, 26 Sept 2026.
 
-Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming gigs, with line-ups including AM Hi, Aneri, Asarri and Carbon Based Lifeforms and 2 more. Browse upcoming dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
+Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 7 upcoming gigs, with line-ups including AM Hi, Aneri, Asarri and Carbon Based Lifeforms and 2 more. Browse upcoming dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | KRШ Season Opener with Rommek & JERM  | HETEM, JERM, Rommek, mdngt |
 | Sat, 26 Sept 2026 | Women With Attitude x SLUTka with GLIA, Mamavitae, Slvc, Endzi, Aneri and AM Hi at Drugstore | AM Hi, Aneri, GLIA, Mamavitae, SLVC024 |
 | Fri, 2 Oct 2026 | Terrible Twos with The Spy | The Spy, lu:ka, tsola |
 | Sat, 10 Oct 2026 | MRAK with Sedef Adasï | Filip Xavi, Sacha Mambo, Sedef Adasï, tsola |
@@ -21,4 +20,4 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming 
 
 Bulevar Despota Stefana 115 - Poenkareova, Belgrade
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*

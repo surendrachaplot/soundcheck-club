@@ -1,6 +1,6 @@
 # EVM128
 
-EVM128 is a Broken Beat and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Glasgow on Fri, 16 Oct 2026.
+EVM128 is a Broken Beat and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Glasgow on Fri, 16 Oct 2026.
 
 EVM128 is a broken beat and house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Edinburgh, Glasgow, Liverpool and London and 2 more. Often billed alongside Matica, James Rudie and rudie. Next up: TBA, Glasgow on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ EVM128 is a broken beat and house artist based in United Kingdom, tracked on sou
 
 Matica, James Rudie, rudie
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evm128/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evm128/)*

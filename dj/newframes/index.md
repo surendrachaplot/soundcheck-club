@@ -1,6 +1,6 @@
 # New Frames
 
-New Frames is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OXI, Berlin on Tue, 20 Oct 2026.
+New Frames is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at OXI, Berlin on Tue, 20 Oct 2026.
 
 New Frames is a techno and electronica artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Brussels, Budapest and Cologne and 8 more. Often billed alongside Phase Fatale, Unhuman and Lucinee. Next up: OXI, Berlin on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ New Frames is a techno and electronica artist based in Germany, tracked on sound
 
 Phase Fatale, Unhuman, Lucinee
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newframes/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newframes/)*

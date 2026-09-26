@@ -1,6 +1,6 @@
 # Tina Disco
 
-Tina Disco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Glove That Fits, London on Thu, 1 Oct 2026.
+Tina Disco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Glove That Fits, London on Thu, 1 Oct 2026.
 
 Tina Disco is a house and disco artist based in Argentina, tracked on soundcheck, with 79 sets logged across Barcelona, London, Melbourne and Seoul and 2 more. Often billed alongside Zalina, Hannah D and Baby G. Next up: The Glove That Fits, London on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Tina Disco is a house and disco artist based in Argentina, tracked on soundcheck
 
 Zalina, Hannah D, Baby G
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinadisco/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinadisco/)*

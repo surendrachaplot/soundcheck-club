@@ -1,6 +1,6 @@
 # Arthi
 
-Arthi is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at NX Newcastle, Newcastle on Fri, 2 Oct 2026.
+Arthi is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at NX Newcastle, Newcastle on Fri, 2 Oct 2026.
 
 Arthi is a garage and house artist based in United Kingdom, tracked on soundcheck, with 105 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Bakey, Katy B and Diffrent. Next up: NX Newcastle, Newcastle on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Arthi is a garage and house artist based in United Kingdom, tracked on soundchec
 
 Bakey, Katy B, Diffrent
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arthi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arthi/)*

@@ -1,6 +1,6 @@
 # Donau Porto
 
-Donau Porto is a music venue in Porto with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "[R\F] Si Paton + FidelCastroCompanhiaDeSamba + DJ Privilégio" on Sun, 27 Sept 2026.
+Donau Porto is a music venue in Porto with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "[R\F] Si Paton + FidelCastroCompanhiaDeSamba + DJ Privilégio" on Sun, 27 Sept 2026.
 
 Donau Porto is a music venue in Porto listed on soundcheck. 1 upcoming gig, with line-ups including DJ Privilégio. Browse upcoming dates, start times and who's playing. Rua Joaquim António de Aguiar 80, 4000-309, Porto, Portugal.
 
@@ -14,4 +14,4 @@ Donau Porto is a music venue in Porto listed on soundcheck. 1 upcoming gig, with
 
 Rua Joaquim António de Aguiar 80, 4000-309, Porto, Portugal, Porto
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/donau-porto/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/donau-porto/)*

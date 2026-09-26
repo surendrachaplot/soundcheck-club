@@ -1,6 +1,6 @@
 # Metrodome
 
-Metrodome is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Bag Factory, Manchester on Sat, 26 Sept 2026.
+Metrodome is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Bag Factory, Manchester on Sat, 26 Sept 2026.
 
 Metrodome is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Berlin, Hamburg, London and Manchester. Often billed alongside Rich Reason, Chunky and DAIZ. Next up: The Bag Factory, Manchester on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Metrodome is a jungle and drum & bass artist based in United Kingdom, tracked on
 
 Rich Reason, Chunky, DAIZ
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metrodome/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metrodome/)*

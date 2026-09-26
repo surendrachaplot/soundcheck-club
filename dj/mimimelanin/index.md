@@ -1,6 +1,6 @@
 # MIMI MELANIN
 
-MIMI MELANIN is a Dub and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at main room, Paris on Thu, 22 Oct 2026.
+MIMI MELANIN is a Dub and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at main room, Paris on Thu, 22 Oct 2026.
 
 MIMI MELANIN is a dub and hip-hop artist based in France, tracked on soundcheck, with 15 sets logged across Berlin, Marseille and Paris. Often billed alongside Audrey Danza, BLUME and Bamao Yendé. Next up: main room, Paris on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ MIMI MELANIN is a dub and hip-hop artist based in France, tracked on soundcheck,
 
 Audrey Danza, BLUME, Bamao Yendé
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimimelanin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimimelanin/)*

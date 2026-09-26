@@ -1,6 +1,6 @@
 # Mihai Pol
 
-Mihai Pol is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at berlinClub, Madrid on Fri, 2 Oct 2026.
+Mihai Pol is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at berlinClub, Madrid on Fri, 2 Oct 2026.
 
 Mihai Pol is a minimal and house artist based in Romania, tracked on soundcheck, with 68 sets logged across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Constratti, Daescu and Prichindel. Next up: berlinClub, Madrid on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Mihai Pol is a minimal and house artist based in Romania, tracked on soundcheck,
 
 Constratti, Daescu, Prichindel
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipol/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipol/)*

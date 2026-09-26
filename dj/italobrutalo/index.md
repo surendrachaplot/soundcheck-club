@@ -1,14 +1,15 @@
 # Italo Brutalo
 
-Italo Brutalo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bohnengold, Berlin on Fri, 9 Oct 2026.
+Italo Brutalo is a Techno and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bohnengold, Berlin on Fri, 9 Oct 2026.
 
-Italo Brutalo is a techno and house artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Hamburg, Ibiza and Lyon and 4 more. Often billed alongside ANDI A., Crille & Tamalt and Jaamann. Next up: Bohnengold, Berlin on Fri 9 Oct.
+Italo Brutalo is a techno and italo disco artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Hamburg, Ibiza and Lyon and 5 more. Often billed alongside ANDI A., Crille & Tamalt and Jaamann. Next up: Bohnengold, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Bohnengold | Berlin |
+| Sat, 21 Nov 2026 | Time is the new space | Rotterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Italo Brutalo is a techno and house artist based in Germany, tracked on soundche
 
 ANDI A., Crille & Tamalt, Jaamann
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/italobrutalo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/italobrutalo/)*

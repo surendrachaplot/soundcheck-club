@@ -1,6 +1,6 @@
 # The B Side Berlin
 
-The B Side Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "GROOVI -CLUBLESS [free entry]" on Wed, 30 Sept 2026.
+The B Side Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "GROOVI -CLUBLESS [free entry]" on Wed, 30 Sept 2026.
 
 The B Side Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Eleonor Bianchi, Linda shiro and UniKhatu. Browse upcoming dates, start times and who's playing. Gerichtstraße 56, Berlin, Germany.
 
@@ -14,4 +14,4 @@ The B Side Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gi
 
 Gerichtstraße 56, Berlin, Germany, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-b-side-berlin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-b-side-berlin/)*

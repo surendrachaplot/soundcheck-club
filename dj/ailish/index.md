@@ -1,6 +1,6 @@
 # Ailish
 
-Ailish is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Spanners, London on Fri, 16 Oct 2026.
+Ailish is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Spanners, London on Fri, 16 Oct 2026.
 
 Ailish is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Glasgow and London. Often billed alongside Allecto, dj peanut and ex.sses. Next up: Spanners, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Ailish is an experimental and techno artist based in United Kingdom, tracked on 
 
 Allecto, dj peanut, ex.sses
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ailish/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ailish/)*

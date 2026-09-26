@@ -1,6 +1,6 @@
 # Marina Key
 
-Marina Key is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ring Bar, Berlin on Sun, 27 Sept 2026.
+Marina Key is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ring Bar, Berlin on Sun, 27 Sept 2026.
 
 Marina Key is an electro and experimental artist based in Poland, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Eigenform, Veronica Maximova and cadeu. Next up: Ring Bar, Berlin on Sun 27 Sept.
 
@@ -22,4 +22,4 @@ Marina Key is an electro and experimental artist based in Poland, tracked on sou
 
 Eigenform, Veronica Maximova, cadeu
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marinakey/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marinakey/)*

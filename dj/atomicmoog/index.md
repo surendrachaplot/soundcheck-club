@@ -1,6 +1,6 @@
 # Atomic moog
 
-Atomic moog is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lasociaciøn, Madrid on Sat, 17 Oct 2026.
+Atomic moog is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Lasociaciøn, Madrid on Sat, 17 Oct 2026.
 
 Atomic moog is a techno and experimental artist based in France, tracked on soundcheck, with 16 sets logged across Amsterdam, London, Madrid and Nantes and 5 more. Often billed alongside Maemm, .VRIL and Aaron J. Next up: Lasociaciøn, Madrid on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Atomic moog is a techno and experimental artist based in France, tracked on soun
 
 Maemm, .VRIL, Aaron J
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atomicmoog/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atomicmoog/)*

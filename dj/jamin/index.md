@@ -1,6 +1,6 @@
 # Jamin
 
-Jamin is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
+Jamin is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
 
 Jamin is a techno and progressive house artist based in Germany, tracked on soundcheck, with 10 sets logged across Amsterdam, Cologne and Hamburg. Often billed alongside Jonas Fritz, Badlokk and Cosmic Dance. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Jamin is a techno and progressive house artist based in Germany, tracked on soun
 
 Jonas Fritz, Badlokk, Cosmic Dance
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamin/)*

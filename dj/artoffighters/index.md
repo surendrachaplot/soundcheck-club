@@ -1,6 +1,6 @@
 # Art of Fighters
 
-Art of Fighters is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
+Art of Fighters is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
 
 Art of Fighters is a hardcore and gabber artist based in Italy, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Frankfurt and Geneva and 9 more. Often billed alongside Endymion, Korsakoff and Ophidian. Next up: Maassilo, Rotterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Art of Fighters is a hardcore and gabber artist based in Italy, tracked on sound
 
 Endymion, Korsakoff, Ophidian
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artoffighters/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artoffighters/)*

@@ -1,14 +1,13 @@
 # A38
 
-A38 is a music venue in Budapest with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Drum Club with Merikan" on Fri, 25 Sept 2026.
+A38 is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Fine Selection #223 - Season Finale w/Lee Burton" on Thu, 1 Oct 2026.
 
-A38 is a music venue in Budapest listed on soundcheck. 11 upcoming gigs, with line-ups including Bladerunner, Electric Boutique, Kanine and Lee Burton and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
+A38 is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with line-ups including Bladerunner, Electric Boutique, Kanine and Lee Burton and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Drum Club with Merikan |  |
 | Thu, 1 Oct 2026 | Fine Selection #223 - Season Finale w/Lee Burton | Electric Boutique, Lee Burton, Lost in Details, Rolo (3) |
 | Fri, 2 Oct 2026 | Friday with Bladerunner |  |
 | Fri, 2 Oct 2026 | Friday Season Closing: Bladerunner | Bladerunner, Markov |
@@ -18,9 +17,10 @@ A38 is a music venue in Budapest listed on soundcheck. 11 upcoming gigs, with li
 | Fri, 30 Oct 2026 | Reggaeton Halloween Party (Budapest) |  |
 | Fri, 27 Nov 2026 | Bladerunnaz: Kanine | Kanine |
 | Sat, 28 Nov 2026 | TEST pres. Mala (DMZ, Deep Medi . UK) |  |
+| Sat, 28 Nov 2026 | Test presents: Mala | Mala |
 
 ## Address
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

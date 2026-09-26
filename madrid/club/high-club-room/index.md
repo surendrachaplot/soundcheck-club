@@ -1,14 +1,13 @@
 # High Club Room
 
-High Club Room is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "AFTER SIESTA" on Fri, 25 Sept 2026.
+High Club Room is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Tortilla with Depaart (all day long)" on Sat, 26 Sept 2026.
 
-High Club Room is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including BOTHER, Depaart, frankydrama and Luke Garcia and 2 more. Browse upcoming dates, start times and who's playing. C/ de Joaquin Costa 27, 28002. Madrid.
+High Club Room is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including BOTHER, Depaart, frankydrama and Luke Garcia and 2 more. Browse upcoming dates, start times and who's playing. C/ de Joaquin Costa 27, 28002. Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | AFTER SIESTA |  |
 | Sat, 26 Sept 2026 | Tortilla with Depaart (all day long) | Depaart |
 | Sat, 3 Oct 2026 | Tortilla with Mario D'Fer + TWO EX | Mario D'Fer, TWO EX |
 | Thu, 8 Oct 2026 | THE ROOM | Luke Garcia, NIN3S, Savanna, UNER |
@@ -21,4 +20,4 @@ High Club Room is a music venue in Madrid listed on soundcheck. 8 upcoming gigs,
 
 C/ de Joaquin Costa 27, 28002. Madrid, Madrid
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/high-club-room/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/high-club-room/)*

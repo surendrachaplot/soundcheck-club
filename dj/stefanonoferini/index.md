@@ -1,6 +1,6 @@
 # Stefano Noferini
 
-Stefano Noferini is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Comfort Zone, Toronto on Sat, 26 Sept 2026.
+Stefano Noferini is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Comfort Zone, Toronto on Sat, 26 Sept 2026.
 
 Stefano Noferini is a tech house and techno artist based in Italy, tracked on soundcheck, with 74 sets logged across Amsterdam, Austin, Barcelona and Basel and 22 more. Often billed alongside Dimmish, Joe Vanditti and Late Replies. Next up: The Comfort Zone, Toronto on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Stefano Noferini is a tech house and techno artist based in Italy, tracked on so
 
 Dimmish, Joe Vanditti, Late Replies
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanonoferini/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanonoferini/)*

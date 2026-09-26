@@ -1,6 +1,6 @@
 # Juan Ferreyra
 
-Juan Ferreyra is a Acid and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kater, Berlin on Sat, 24 Oct 2026.
+Juan Ferreyra is a Acid and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Kater, Berlin on Sat, 24 Oct 2026.
 
 Juan Ferreyra is an acid and italo disco artist based in Argentina, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Clemente (DE), Easy Latinos and Felipe G. Next up: Kater, Berlin on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Juan Ferreyra is an acid and italo disco artist based in Argentina, tracked on s
 
 Clemente (DE), Easy Latinos, Felipe G
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanferreyra/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanferreyra/)*

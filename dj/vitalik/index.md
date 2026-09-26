@@ -1,6 +1,6 @@
 # Vitalik
 
-Vitalik is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Vitalik is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
 Vitalik is a techno and trance artist based in United States of America, tracked on soundcheck, with 15 sets logged across Austin, Ibiza, New York City and Washington DC. Often billed alongside Homotopies, Lucía Beyond and Matthew Cha. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Vitalik is a techno and trance artist based in United States of America, tracked
 
 Homotopies, Lucía Beyond, Matthew Cha
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vitalik/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vitalik/)*

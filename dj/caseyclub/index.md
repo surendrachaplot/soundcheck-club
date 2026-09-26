@@ -1,6 +1,6 @@
 # Casey Club
 
-Casey Club is a Dubstep and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+Casey Club is a Dubstep and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
 
 Casey Club is a dubstep and garage artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Brighton, Bristol, Detroit and London and 3 more. Often billed alongside Flava D, A Little Sound and Anaïs. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Casey Club is a dubstep and garage artist based in United Kingdom, tracked on so
 
 Flava D, A Little Sound, Anaïs
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyclub/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyclub/)*

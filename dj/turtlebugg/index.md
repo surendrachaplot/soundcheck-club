@@ -1,6 +1,6 @@
 # Turtle Bugg
 
-Turtle Bugg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at public records, New York City on Sat, 31 Oct 2026.
+Turtle Bugg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at public records, New York City on Sat, 31 Oct 2026.
 
 Turtle Bugg is a techno and house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Chicago, Detroit, New York City and Toronto. Often billed alongside Shigeto, Savannah G and Kenjiro. Next up: public records, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Turtle Bugg is a techno and house artist based in United States of America, trac
 
 Shigeto, Savannah G, Kenjiro
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/turtlebugg/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/turtlebugg/)*

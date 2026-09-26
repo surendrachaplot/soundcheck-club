@@ -1,8 +1,8 @@
 # Ali Velmi
 
-Ali Velmi is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at fabric, London on Fri, 2 Oct 2026.
+Ali Velmi is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at fabric, London on Fri, 2 Oct 2026.
 
-Ali Velmi is a house and garage artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside BLUMITSU, Benton (UK) and Bluetoof. Next up: fabric, London on Fri 2 Oct.
+Ali Velmi is a house and garage artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside BLUMITSU, Benton (UK) and CICELY. Next up: fabric, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ Ali Velmi is a house and garage artist based in United Kingdom, tracked on sound
 
 ## Shares bills with
 
-BLUMITSU, Benton (UK), Bluetoof
+BLUMITSU, Benton (UK), CICELY
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alivelmi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alivelmi/)*

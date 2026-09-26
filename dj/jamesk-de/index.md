@@ -1,30 +1,29 @@
 # james K
 
-james K is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+james K is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
-james K is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 27 more. Often billed alongside Nick León, Oklou and Yu Mi. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri 25 Sept.
+james K is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 27 more. Often billed alongside Nick León, Oklou and Yumi. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | TBA - Multiple Historic Venues - Manhattan & Brooklyn | New York City |
-| Fri, 25 Sept 2026 | Co-Cathedral of St. Joseph | New York City |
 | Thu, 22 Oct 2026 | Fairmount Theatre | Montreal |
 
 ## Recently played
 
+- TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City — Fri, 25 Sept 2026
+- Co-Cathedral of St. Joseph, New York City — Fri, 25 Sept 2026
 - Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - Southwark Park, London — Sat, 29 Aug 2026
 - Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
 - Bossa Nova Civic Club, New York City — Mon, 8 Jun 2026
 - TBA - The Loom 1000 22nd Ave Oakland, CA 94606, San Francisco/Oakland — Sat, 9 May 2026
 - El Rey Theatre, Los Angeles — Wed, 6 May 2026
-- TBA - Multiple Venues , The Hague — Thu, 9 Apr 2026
-- FLUCC, Vienna — Wed, 8 Apr 2026
 
 ## Shares bills with
 
-Nick León, Oklou, Yu Mi
+Nick León, Oklou, Yumi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesk-de/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesk-de/)*

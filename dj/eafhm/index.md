@@ -1,6 +1,6 @@
 # Eafhm
 
-Eafhm is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at CCEMx, Mexico City on Sat, 26 Sept 2026.
+Eafhm is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at CCEMx, Mexico City on Sat, 26 Sept 2026.
 
 Eafhm is an electronica and ambient artist based in Mexico, tracked on soundcheck, with 9 sets logged across Mexico City. Often billed alongside Bluecommand, Koscoy and MirrorLake. Next up: CCEMx, Mexico City on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Eafhm is an electronica and ambient artist based in Mexico, tracked on soundchec
 
 Bluecommand, Koscoy, MirrorLake
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eafhm/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eafhm/)*

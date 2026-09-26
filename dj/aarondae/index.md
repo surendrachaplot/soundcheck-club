@@ -1,6 +1,6 @@
 # Aaron Dae
 
-Aaron Dae is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at public records, New York City on Thu, 15 Oct 2026.
+Aaron Dae is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at public records, New York City on Thu, 15 Oct 2026.
 
 Aaron Dae is a house and disco artist based in United States of America, tracked on soundcheck, with 38 sets logged across Detroit, London, New York City and San Francisco/Oakland. Often billed alongside JKriv, Disgonuts and Jason Lindner. Next up: public records, New York City on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Aaron Dae is a house and disco artist based in United States of America, tracked
 
 JKriv, Disgonuts, Jason Lindner
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aarondae/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aarondae/)*

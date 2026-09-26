@@ -1,6 +1,6 @@
 # Südbrücke Open Air
 
-Südbrücke Open Air is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Unreal XXL Open Air Cologne (Sold out)" on Sat, 26 Sept 2026.
+Südbrücke Open Air is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Unreal XXL Open Air Cologne (Sold out)" on Sat, 26 Sept 2026.
 
 Südbrücke Open Air is a music venue in Cologne listed on soundcheck. 1 upcoming gig, with line-ups including Cera Khin, Kalte Liebe, KUKO and Nicolas Julian and 2 more. Browse upcoming dates, start times and who's playing. Alfred-Schütte-Allee 34, 51105 Köln.
 
@@ -14,4 +14,4 @@ Südbrücke Open Air is a music venue in Cologne listed on soundcheck. 1 upcomin
 
 Alfred-Schütte-Allee 34, 51105 Köln, Cologne
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/s-dbr-cke-open-air/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/s-dbr-cke-open-air/)*

@@ -1,6 +1,6 @@
 # Heaven INC.
 
-Heaven INC. is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kadinsky Cafe, Amsterdam on Fri, 23 Oct 2026.
+Heaven INC. is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Kadinsky Cafe, Amsterdam on Fri, 23 Oct 2026.
 
 Heaven INC. is a progressive house and tech house artist based in Hungary, tracked on soundcheck, with 15 sets logged across Amsterdam, Barcelona and Budapest. Often billed alongside Kühl, Francesco Pico and Jeff (aka Moveks). Next up: Kadinsky Cafe, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Heaven INC. is a progressive house and tech house artist based in Hungary, track
 
 Kühl, Francesco Pico, Jeff (aka Moveks)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heaveninc./)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heaveninc./)*

@@ -1,6 +1,6 @@
 # Abby Sundborn
 
-Abby Sundborn is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tempo Rubato, Melbourne on Mon, 28 Sept 2026.
+Abby Sundborn is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tempo Rubato, Melbourne on Mon, 28 Sept 2026.
 
 Abby Sundborn is an experimental and ambient artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne and Sydney. Often billed alongside Emelyne, Gi Gi and HTRK. Next up: Tempo Rubato, Melbourne on Mon 28 Sept.
 
@@ -23,4 +23,4 @@ Abby Sundborn is an experimental and ambient artist based in Australia, tracked 
 
 Emelyne, Gi Gi, HTRK
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abbysundborn/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abbysundborn/)*

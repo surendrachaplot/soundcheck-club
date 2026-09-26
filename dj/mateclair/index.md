@@ -1,6 +1,6 @@
 # Mat Eclair
 
-Mat Eclair is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hangaren, Copenhagen on Sat, 26 Sept 2026.
+Mat Eclair is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hangaren, Copenhagen on Sat, 26 Sept 2026.
 
 Mat Eclair is a house and garage artist based in Denmark, tracked on soundcheck, with 3 sets logged across Copenhagen, Munster and Rotterdam. Often billed alongside Max Styler, NAT(SK) and Valeby. Next up: Hangaren, Copenhagen on Sat 26 Sept.
 
@@ -16,4 +16,4 @@ Mat Eclair is a house and garage artist based in Denmark, tracked on soundcheck,
 
 Max Styler, NAT(SK), Valeby
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mateclair/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mateclair/)*

@@ -1,6 +1,6 @@
 # NTO live in concert at ZOOM Frankfurt at Zoom Club
 
-NTO live in concert at ZOOM Frankfurt at Zoom Club on Sat 7 Nov, Frankfurt. 1 artist on the bill: NTO. Techno. Preview the line-up and save it on soundcheck.
+NTO live in concert at ZOOM Frankfurt at Zoom Club on Sat 7 Nov, Frankfurt. 3 artists on the bill: NTO, Prismode and Solvane. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ NTO live in concert at ZOOM Frankfurt at Zoom Club on Sat 7 Nov, Frankfurt. 1 ar
 ## Line-up
 
 - NTO
+- Prismode
+- Solvane
 
 *Source: [soundcheck](https://soundcheck.club/e/2424057-nto-live-in-concert-at-zoom-frankfurt-at-zoom-club/)*

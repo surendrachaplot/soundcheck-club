@@ -1,14 +1,13 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Knockdown Center, New York City on Fri, 25 Sept 2026.
+Chloé Caillet is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Public Works, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Chloé Caillet is a house and techno artist based in United States of America, tracked on soundcheck, with 239 sets logged across Amsterdam, Athens, Barcelona and Belfast and 50 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Knockdown Center, New York City on Fri 25 Sept.
+Chloé Caillet is a house and techno artist based in United States of America, tracked on soundcheck, with 239 sets logged across Amsterdam, Athens, Barcelona and Belfast and 50 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Public Works, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Knockdown Center | New York City |
 | Sat, 26 Sept 2026 | Public Works | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | Fvtvr | Paris |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
@@ -22,6 +21,7 @@ Chloé Caillet is a house and techno artist based in United States of America, t
 
 ## Recently played
 
+- Knockdown Center, New York City — Fri, 25 Sept 2026
 - Auditorium Parco della Musica, Rome — Sat, 12 Sept 2026
 - Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
 - DC-10, Ibiza — Mon, 7 Sept 2026
@@ -29,10 +29,9 @@ Chloé Caillet is a house and techno artist based in United States of America, t
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - DC-10, Ibiza — Mon, 17 Aug 2026
 - DC-10, Ibiza — Mon, 3 Aug 2026
-- Trädgården, Stockholm — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Seth Troxler, DJ Tennis, Mochakk
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*

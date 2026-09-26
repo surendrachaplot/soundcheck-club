@@ -1,6 +1,6 @@
 # HARRIE SUMMERS
 
-HARRIE SUMMERS is a Minimal and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Sun, 4 Oct 2026.
+HARRIE SUMMERS is a Minimal and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Sun, 4 Oct 2026.
 
 HARRIE SUMMERS is a minimal and deep house artist based in Spain, tracked on soundcheck, with 37 sets logged across Barcelona, Ibiza, London and Malta and 1 more. Often billed alongside Ryan Connolly, ACA (YU) and Darius Syrossian. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ HARRIE SUMMERS is a minimal and deep house artist based in Spain, tracked on sou
 
 Ryan Connolly, ACA (YU), Darius Syrossian
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harriesummers/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harriesummers/)*

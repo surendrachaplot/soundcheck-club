@@ -1,6 +1,6 @@
 # Hard Boiled Babe
 
-Hard Boiled Babe is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Sultan Room, New York City on Wed, 21 Oct 2026.
+Hard Boiled Babe is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Sultan Room, New York City on Wed, 21 Oct 2026.
 
 Hard Boiled Babe is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 11 sets logged across New York City. Often billed alongside Nina Moss, Veeps and Amber Valentine. Next up: The Sultan Room, New York City on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Hard Boiled Babe is a house and funk / soul artist based in United States of Ame
 
 Nina Moss, Veeps, Amber Valentine
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hardboiledbabe/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hardboiledbabe/)*

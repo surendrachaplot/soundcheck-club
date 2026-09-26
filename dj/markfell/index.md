@@ -1,6 +1,6 @@
 # Mark Fell
 
-Mark Fell is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Mark Fell is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Mark Fell is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Basel, Berlin, Kyoto and London and 9 more. Often billed alongside Rian Treanor, YPY and Kelman Duran. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Mark Fell is an experimental and techno artist based in United Kingdom, tracked 
 
 Rian Treanor, YPY, Kelman Duran
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markfell/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markfell/)*

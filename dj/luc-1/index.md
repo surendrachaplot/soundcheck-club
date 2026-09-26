@@ -1,14 +1,15 @@
 # Luc (1)
 
-Luc (1) is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 26 Sept 2026.
+Luc (1) is a Electronica and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 26 Sept 2026.
 
-Luc is an electronica and acid artist based in Italy, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and London and 7 more. Often billed alongside Brasi, Lumiere and Marcolino. Next up: THE MAGICK BAR, Rome on Sat 26 Sept.
+Luc is an electronica and dancehall artist based in Italy, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and London and 7 more. Often billed alongside Brasi, Lumiere and Marcolino. Next up: THE MAGICK BAR, Rome on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | THE MAGICK BAR | Rome |
+| Sat, 10 Oct 2026 | Club NYX | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Luc is an electronica and acid artist based in Italy, tracked on soundcheck, wit
 
 Brasi, Lumiere, Marcolino
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luc-1/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luc-1/)*

@@ -1,6 +1,6 @@
 # Alias Shay
 
-Alias Shay is a Pop and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 26 Sept 2026.
+Alias Shay is a Pop and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 26 Sept 2026.
 
 Alias Shay is a pop and electro artist based in Tunisia, tracked on soundcheck, with 16 sets logged across Berlin, Dortmund Essen and Hamburg. Often billed alongside DumTak, FunkyKid and AAMIROO. Next up: Tresor.West, Dortmund Essen on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Alias Shay is a pop and electro artist based in Tunisia, tracked on soundcheck, 
 
 DumTak, FunkyKid, AAMIROO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aliasshay/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aliasshay/)*

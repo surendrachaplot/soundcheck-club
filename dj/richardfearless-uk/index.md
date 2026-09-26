@@ -1,6 +1,6 @@
 # Richard Fearless
 
-Richard Fearless is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cu, London on Sun, 11 Oct 2026.
+Richard Fearless is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cu, London on Sun, 11 Oct 2026.
 
 Richard Fearless is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Belfast, Belgrade and Bristol and 8 more. Often billed alongside Daniel Avery, Tom Dubwise and DJ MELL G. Next up: Cu, London on Sun 11 Oct.
 
@@ -30,4 +30,4 @@ Richard Fearless is a techno and experimental artist based in United Kingdom, tr
 
 Daniel Avery, Tom Dubwise, DJ MELL G
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfearless-uk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfearless-uk/)*

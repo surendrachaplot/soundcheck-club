@@ -1,6 +1,6 @@
 # Alex Dima
 
-Alex Dima is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Alex Dima is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Alex Dima is a house and techno artist based in Italy, tracked on soundcheck, with 104 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 27 more. Often billed alongside Alexia Glensy, Cristian Sarde and Munir Nadir. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -27,4 +27,4 @@ Alex Dima is a house and techno artist based in Italy, tracked on soundcheck, wi
 
 Alexia Glensy, Cristian Sarde, Munir Nadir
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdima/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdima/)*

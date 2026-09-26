@@ -1,6 +1,6 @@
 # Timmy P
 
-Timmy P is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club Up, Amsterdam on Thu, 22 Oct 2026.
+Timmy P is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Club Up, Amsterdam on Thu, 22 Oct 2026.
 
 Timmy P is a house and garage artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Amsterdam, London and Manchester. Often billed alongside Danny Snowden, Ryan Nicholls and Santé. Next up: Club Up, Amsterdam on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ Timmy P is a house and garage artist based in United Kingdom, tracked on soundch
 
 Danny Snowden, Ryan Nicholls, Santé
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyp/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyp/)*

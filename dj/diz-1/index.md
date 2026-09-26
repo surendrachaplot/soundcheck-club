@@ -1,6 +1,6 @@
 # Diz (1)
 
-Diz (1) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jungle Hollywood, Los Angeles on Sat, 24 Oct 2026.
+Diz (1) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Jungle Hollywood, Los Angeles on Sat, 24 Oct 2026.
 
 Diz is a house and deep house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Chicago, Detroit, Ibiza and Los Angeles. Often billed alongside DJ Heather, DJ Colette and Duke Shin. Next up: Jungle Hollywood, Los Angeles on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Diz is a house and deep house artist based in United States of America, tracked 
 
 DJ Heather, DJ Colette, Duke Shin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diz-1/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diz-1/)*

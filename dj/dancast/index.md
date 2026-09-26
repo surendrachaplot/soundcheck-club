@@ -1,6 +1,6 @@
 # Dancast
 
-Dancast is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Carrasquinha Bar, Lisbon on Sat, 10 Oct 2026.
+Dancast is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Carrasquinha Bar, Lisbon on Sat, 10 Oct 2026.
 
 Dancast is a house and techno artist based in Portugal, tracked on soundcheck, with 6 sets logged across Cologne and Lisbon. Often billed alongside 2jack4u, Adriana Ruas and Alfalfa. Next up: TBA - Carrasquinha Bar, Lisbon on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Dancast is a house and techno artist based in Portugal, tracked on soundcheck, w
 
 2jack4u, Adriana Ruas, Alfalfa (2)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dancast/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dancast/)*

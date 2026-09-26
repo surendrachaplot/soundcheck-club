@@ -1,6 +1,6 @@
 # Kang
 
-Kang is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Renate, Berlin on Sat, 10 Oct 2026.
+Kang is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Renate, Berlin on Sat, 10 Oct 2026.
 
 Kang is a house and techno artist based in Sweden, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin and Seoul. Often billed alongside Jean-Jez, critical P and Kedi Bounce. Next up: Renate, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Kang is a house and techno artist based in Sweden, tracked on soundcheck, with 4
 
 Jean-Jez, critical P, Kedi Bounce
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kang/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kang/)*

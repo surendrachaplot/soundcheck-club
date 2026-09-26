@@ -1,6 +1,6 @@
 # Atilla Ural
 
-Atilla Ural is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at McCarren Park, New York City on Sun, 27 Sept 2026.
+Atilla Ural is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at McCarren Park, New York City on Sun, 27 Sept 2026.
 
 Atilla Ural is a house and techno artist based in Turkey, tracked on soundcheck, with 38 sets logged across New York City. Often billed alongside Deo'jorge, Anna Collecta and Van Der Laan. Next up: McCarren Park, New York City on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Atilla Ural is a house and techno artist based in Turkey, tracked on soundcheck,
 
 Deo'jorge, Anna Collecta, Van Der Laan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atillaural/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atillaural/)*

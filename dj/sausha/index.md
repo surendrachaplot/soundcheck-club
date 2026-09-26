@@ -1,20 +1,20 @@
 # Sausha
 
-Sausha is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paragon, New York City on Fri, 25 Sept 2026.
+Sausha is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 314 Scholes, New York City on Sat, 26 Sept 2026.
 
-Sausha is a techno and club artist based in Colombia, tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Chicago and Copenhagen and 12 more. Often billed alongside Via App, FASHION (US) and LSDXOXO. Next up: Paragon, New York City on Fri 25 Sept.
+Sausha is a techno and club artist based in Colombia, tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Chicago and Copenhagen and 12 more. Often billed alongside Via App, FASHION (US) and LSDXOXO. Next up: 314 Scholes, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Paragon | New York City |
 | Sat, 26 Sept 2026 | 314 Scholes | New York City |
 | Sat, 26 Sept 2026 | Market Hotel | New York City |
 | Sat, 26 Sept 2026 | XTC Bushwick | New York City |
 
 ## Recently played
 
+- Paragon, New York City — Fri, 25 Sept 2026
 - Tuff Club, Singapore — Fri, 7 Aug 2026
 - Spread, Tokyo — Sat, 25 Jul 2026
 - OIL Club, Shenzhen — Sat, 18 Jul 2026
@@ -22,10 +22,9 @@ Sausha is a techno and club artist based in Colombia, tracked on soundcheck, wit
 - Cervantes' Masterpiece Ballroom, Denver — Sat, 13 Jun 2026
 - Barn Radio, Portland — Fri, 12 Jun 2026
 - Silverlake Lounge, Los Angeles — Sat, 6 Jun 2026
-- OXI, Berlin — Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Via App, FASHION (US), LSDXOXO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sausha/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sausha/)*

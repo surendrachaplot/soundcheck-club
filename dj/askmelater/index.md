@@ -1,6 +1,6 @@
 # askmelater
 
-askmelater is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at EKKO, Utrecht on Sat, 3 Oct 2026.
+askmelater is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at EKKO, Utrecht on Sat, 3 Oct 2026.
 
 askmelater is a house and bass artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp and Utrecht. Often billed alongside Lil Lawaw, Lieke TR and Bass Toast. Next up: EKKO, Utrecht on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ askmelater is a house and bass artist based in Netherlands, tracked on soundchec
 
 Lil Lawaw, Lieke TR, Bass Toast
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/askmelater/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/askmelater/)*

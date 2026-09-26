@@ -1,6 +1,6 @@
 # Takeshi Sato
 
-Takeshi Sato is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bonobo, Tokyo on Sat, 26 Sept 2026.
+Takeshi Sato is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bonobo, Tokyo on Sat, 26 Sept 2026.
 
 Takeshi Sato is a house and techno artist tracked on soundcheck, with 14 sets logged across Kyoto and Tokyo. Often billed alongside Shimpei Watanabe, Keigo and Kenjamode. Next up: Bonobo, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Takeshi Sato is a house and techno artist tracked on soundcheck, with 14 sets lo
 
 Shimpei Watanabe, Keigo, Kenjamode
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takeshisato/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takeshisato/)*

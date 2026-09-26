@@ -1,6 +1,6 @@
 # Kolektor
 
-Kolektor is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "KOLEKTOR: Aláya" on Fri, 25 Sept 2026.
+Kolektor is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "KOLEKTOR: Aláya" on Fri, 25 Sept 2026.
 
 Kolektor is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-ups including DJ LUNARA. Browse upcoming dates, start times and who's playing. Dukelských Hrdinů 530/47, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -15,4 +15,4 @@ Kolektor is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with 
 
 Dukelských Hrdinů 530/47, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/kolektor/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/kolektor/)*

@@ -1,6 +1,6 @@
 # Circolo degli Illuminati
 
-Circolo degli Illuminati is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "CIRCOLO OPENING NIGHT" on Fri, 2 Oct 2026.
+Circolo degli Illuminati is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "CIRCOLO OPENING NIGHT" on Fri, 2 Oct 2026.
 
 Circolo degli Illuminati is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Franco Cinelli, Germano Ventura, Granulized Rhythm and Nic Siena. Browse upcoming dates, start times and who's playing. Via Giuseppe Libetta 1, 00154 Roma (RM), Italy.
 
@@ -15,4 +15,4 @@ Circolo degli Illuminati is a music venue in Rome listed on soundcheck. 2 upcomi
 
 Via Giuseppe Libetta 1, 00154 Roma (RM), Italy, Rome
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/circolo-degli-illuminati/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/circolo-degli-illuminati/)*

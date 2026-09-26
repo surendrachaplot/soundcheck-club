@@ -1,6 +1,6 @@
 # Container
 
-Container is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bsmt 254, Toronto on Sat, 3 Oct 2026.
+Container is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bsmt 254, Toronto on Sat, 3 Oct 2026.
 
 Container is an experimental and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Amsterdam, Austin, Barcelona and Berlin and 16 more. Often billed alongside Assyouti, B4mba and Catnapp. Next up: Bsmt 254, Toronto on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Container is an experimental and techno artist based in United States of America
 
 Assyouti, B4mba, Catnapp
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/container/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/container/)*

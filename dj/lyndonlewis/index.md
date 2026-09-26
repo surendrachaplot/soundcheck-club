@@ -1,6 +1,6 @@
 # Lyndon Lewis
 
-Lyndon Lewis is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at YSY, Berlin on Sat, 17 Oct 2026.
+Lyndon Lewis is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at YSY, Berlin on Sat, 17 Oct 2026.
 
 Lyndon Lewis is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Berlin and Manchester. Often billed alongside Akiï, BLUME and Marius Iris. Next up: YSY, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Lyndon Lewis is a techno and bass artist based in United Kingdom, tracked on sou
 
 Akiï, BLUME, Marius Iris
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyndonlewis/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyndonlewis/)*

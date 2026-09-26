@@ -1,6 +1,6 @@
 # Make Money Mafia
 
-Make Money Mafia is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Arch 535, London on Sat, 31 Oct 2026.
+Make Money Mafia is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Arch 535, London on Sat, 31 Oct 2026.
 
 Make Money Mafia is a house and bass artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across London. Often billed alongside MAÏS, Mutley Mutimer and Faded Society. Next up: Arch 535, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Make Money Mafia is a house and bass artist based in United Kingdom, tracked on 
 
 MAÏS, Mutley Mutimer, Faded Society
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makemoneymafia/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makemoneymafia/)*

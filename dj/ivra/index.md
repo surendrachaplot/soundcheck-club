@@ -1,6 +1,6 @@
 # IVRA
 
-IVRA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KitKatClub, Berlin on Fri, 13 Nov 2026.
+IVRA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at KitKatClub, Berlin on Fri, 13 Nov 2026.
 
 IVRA is a techno and house artist based in Algeria, tracked on soundcheck, with 14 sets logged across Athens, Berlin and Helsinki. Often billed alongside NAAMAA, AMH and EMPERØR. Next up: KitKatClub, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ IVRA is a techno and house artist based in Algeria, tracked on soundcheck, with 
 
 NAAMAA, AMH (1), EMPERØR
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivra/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivra/)*

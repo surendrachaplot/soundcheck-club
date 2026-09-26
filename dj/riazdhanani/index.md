@@ -1,8 +1,8 @@
 # Riaz Dhanani
 
-Riaz Dhanani is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Eutopia Whs, London on Sat, 26 Sept 2026.
+Riaz Dhanani is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Eutopia Whs, London on Sat, 26 Sept 2026.
 
-Riaz Dhanani is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Ibiza, Leeds, London and Seoul and 1 more. Often billed alongside Sol Edge, Brian Smith and Gracey Grey. Next up: Eutopia Whs, London on Sat 26 Sept.
+Riaz Dhanani is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Ibiza, Leeds, London and Seoul and 1 more. Often billed alongside Sol Edge, Acid Kids and Brian Smith. Next up: Eutopia Whs, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Riaz Dhanani is a house and tech house artist based in United Kingdom, tracked o
 
 ## Shares bills with
 
-Sol Edge, Brian Smith, Gracey Grey
+Sol Edge, Acid Kids, Brian Smith
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riazdhanani/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riazdhanani/)*

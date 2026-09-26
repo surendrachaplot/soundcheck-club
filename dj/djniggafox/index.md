@@ -1,14 +1,15 @@
 # DJ Nigga Fox
 
-DJ Nigga Fox is a Kuduro and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 1 Oct 2026.
+DJ Nigga Fox is a Kuduro and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 1 Oct 2026.
 
-DJ Nigga Fox is a kuduro and bass artist based in Portugal, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Dj Danifox, DJ Firmeza and DJ Lycox. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 1 Oct.
+DJ Nigga Fox is a kuduro and bass artist based in Portugal, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 25 more. Often billed alongside Dj Danifox, DJ Firmeza and DJ Lycox. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Sat, 3 Oct 2026 | Open Ground | Wuppertal |
 | Sat, 10 Oct 2026 | Hotel Forum | Krakow |
 | Sat, 31 Oct 2026 | Jumbi | London |
@@ -28,4 +29,4 @@ DJ Nigga Fox is a kuduro and bass artist based in Portugal, tracked on soundchec
 
 Dj Danifox, DJ Firmeza, DJ Lycox
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djniggafox/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djniggafox/)*

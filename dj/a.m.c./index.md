@@ -1,14 +1,13 @@
 # A.M.C.
 
-A.M.C. is a Drum & Bass and Jungle artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sklub, Czech-republic on Fri, 25 Sept 2026.
+A.M.C. is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Unit Nine, South-east on Sat, 26 Sept 2026.
 
-A.M.C. is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 26 more. Often billed alongside Phantom, IC3 and Koven. Next up: Sklub, Czech Republic on Fri 25 Sept.
+A.M.C. is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 26 more. Often billed alongside Phantom, IC3 and Koven. Next up: Unit Nine, South East on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Sklub | Czech-republic |
 | Sat, 26 Sept 2026 | Unit Nine | South-east |
 | Fri, 2 Oct 2026 | Stealth | Nottingham |
 | Sat, 3 Oct 2026 | Under The Prom | West-wales |
@@ -22,6 +21,7 @@ A.M.C. is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 ## Recently played
 
+- Sklub, Czech-republic — Fri, 25 Sept 2026
 - Sawmills, Bristol — Sat, 12 Sept 2026
 - The Racket Space, Dublin — Sun, 3 May 2026
 - Quarters, Brighton — Fri, 24 Apr 2026
@@ -29,10 +29,9 @@ A.M.C. is a drum & bass and jungle artist based in United Kingdom, tracked on so
 - The Prospect Building, Bristol — Sat, 14 Feb 2026
 - fabric, London — Fri, 13 Feb 2026
 - Kassa Boat, Budapest — Fri, 30 Jan 2026
-- LAB theCLUB, Madrid — Fri, 23 Jan 2026
 
 ## Shares bills with
 
 Phantom, IC3, Koven
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*

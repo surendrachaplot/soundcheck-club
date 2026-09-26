@@ -1,6 +1,6 @@
 # UNKLE
 
-UNKLE is a Hip-Hop and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Future Yard, Liverpool on Sat, 3 Oct 2026.
+UNKLE is a Hip-Hop and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Future Yard, Liverpool on Sat, 3 Oct 2026.
 
 UNKLE is a hip-hop and electronica artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Belfast, Brighton, Budapest and Glasgow and 8 more. Often billed alongside James Lavelle, Jay Carder and A4lenia. Next up: Future Yard, Liverpool on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ UNKLE is a hip-hop and electronica artist based in United Kingdom, tracked on so
 
 James Lavelle, Jay Carder, A4lenia
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unkle/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unkle/)*

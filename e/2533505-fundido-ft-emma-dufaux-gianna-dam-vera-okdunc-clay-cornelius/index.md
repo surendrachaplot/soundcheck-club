@@ -1,6 +1,6 @@
 # Fundido ft Emma Dufaux, Gianna, Dam Vera, okDUNC, Clay Cornelius at Good Room
 
-Fundido ft Emma Dufaux, Gianna, Dam Vera, okDUNC, Clay Cornelius at Good Room on Fri 2 Oct, New York City. 3 artists on the bill: Fundido, Gianna G and okDUNC. Preview the line-up and save it on soundcheck.
+Fundido ft Emma Dufaux, Gianna, Dam Vera, okDUNC, Clay Cornelius at Good Room on Fri 2 Oct, New York City. 4 artists on the bill: DAM (Galaxie Nites), Fundido, Gianna G and okDUNC. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Fundido ft Emma Dufaux, Gianna, Dam Vera, okDUNC, Clay Cornelius at Good Room on
 
 ## Line-up
 
+- DAM (Galaxie Nites)
 - Fundido
 - Gianna G
 - okDUNC

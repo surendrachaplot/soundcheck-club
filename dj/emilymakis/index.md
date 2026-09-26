@@ -1,6 +1,6 @@
 # Emily Makis
 
-Emily Makis is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Emily Makis is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Emily Makis is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Amsterdam, Auckland, Bali and Barcelona and 12 more. Often billed alongside Monrroe, Pola & Bryson and Duskee. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Emily Makis is a drum & bass and bass artist based in United Kingdom, tracked on
 
 Monrroe, Pola & Bryson, Duskee
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilymakis/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilymakis/)*

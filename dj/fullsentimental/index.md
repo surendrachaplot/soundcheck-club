@@ -1,13 +1,15 @@
 # Full Sentimental
 
-Full Sentimental is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KALT, Strasbourg on Sat, 21 Nov 2026.
+Full Sentimental is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at WOMB, Tokyo on Fri, 16 Oct 2026.
 
-Full Sentimental is a house artist based in France, tracked on soundcheck, with 19 sets logged across Paris and Strasbourg. Often billed alongside Theo Scuera, BAKR and EMAN (FR). Next up: KALT, Strasbourg on Sat 21 Nov.
+Full Sentimental is a techno and house artist based in France, tracked on soundcheck, with 21 sets logged across Paris, Strasbourg and Tokyo. Often billed alongside Theo Scuera, BAKR and DJ SO. Next up: WOMB, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | WOMB | Tokyo |
+| Fri, 16 Oct 2026 | WOMB | Tokyo |
 | Sat, 21 Nov 2026 | KALT | Strasbourg |
 
 ## Recently played
@@ -23,6 +25,6 @@ Full Sentimental is a house artist based in France, tracked on soundcheck, with 
 
 ## Shares bills with
 
-Theo Scuera, BAKR, EMAN (FR)
+Theo Scuera, BAKR, DJ SO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fullsentimental/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fullsentimental/)*

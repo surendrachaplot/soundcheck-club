@@ -1,14 +1,15 @@
 # Nakadia
 
-Nakadia is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Z Maruyama, Tokyo on Sat, 10 Oct 2026.
+Nakadia is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Z Maruyama, Tokyo on Sat, 10 Oct 2026.
 
-Nakadia is a techno and tech house artist based in Thailand, tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Athens and Bali and 28 more. Often billed alongside Dr. Motte, Dub Tiger and James Taylor (AU). Next up: Z Maruyama, Tokyo on Sat 10 Oct.
+Nakadia is a techno and tech house artist based in Thailand, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Athens and Bali and 28 more. Often billed alongside Dr. Motte, Dub Tiger and James Taylor (AU). Next up: Z Maruyama, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Z Maruyama | Tokyo |
+| Fri, 23 Oct 2026 | Meet Berlage | Amsterdam |
 | Sat, 24 Oct 2026 | Oosterbar | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Nakadia is a techno and tech house artist based in Thailand, tracked on soundche
 
 Dr. Motte, Dub Tiger, James Taylor (AU)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*

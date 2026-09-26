@@ -1,6 +1,6 @@
 # Frank Booker
 
-Frank Booker is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Hollywood Avondale, Auckland on Sat, 10 Oct 2026.
+Frank Booker is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Hollywood Avondale, Auckland on Sat, 10 Oct 2026.
 
 Frank Booker is a house and disco artist based in New Zealand, tracked on soundcheck, with 35 sets logged across Auckland, Melbourne and Sydney. Often billed alongside Samuel Harmony, Flamingo Pier and Nathan Haines. Next up: The Hollywood Avondale, Auckland on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Frank Booker is a house and disco artist based in New Zealand, tracked on soundc
 
 Samuel Harmony, Flamingo Pier, Nathan Haines
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankbooker/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankbooker/)*

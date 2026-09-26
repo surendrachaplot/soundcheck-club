@@ -1,6 +1,6 @@
 # D.B.Y.
 
-D.B.Y. is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Système, Montreal on Thu, 15 Oct 2026.
+D.B.Y. is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Système, Montreal on Thu, 15 Oct 2026.
 
 D.B.Y. is a techno and electro artist based in Canada, tracked on soundcheck, with 23 sets logged across Montreal. Often billed alongside Shadya, Mok-T and Quan. Next up: Système, Montreal on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ D.B.Y. is a techno and electro artist based in Canada, tracked on soundcheck, wi
 
 Shadya, Mok-T, Quan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.b.y./)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.b.y./)*

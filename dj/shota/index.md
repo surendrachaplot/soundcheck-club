@@ -1,6 +1,6 @@
 # Shota
 
-Shota is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Socore Factory, Osaka on Sun, 18 Oct 2026.
+Shota is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Socore Factory, Osaka on Sun, 18 Oct 2026.
 
 Shota is a hip-hop and house artist based in Russia, tracked on soundcheck, with 21 sets logged across Osaka and Tokyo. Often billed alongside Mizuki Miyamoto, Mori and Amu. Next up: Socore Factory, Osaka on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Shota is a hip-hop and house artist based in Russia, tracked on soundcheck, with
 
 Mizuki Miyamoto, Mori, Amu (1)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shota/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shota/)*

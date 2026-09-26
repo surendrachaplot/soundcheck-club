@@ -1,6 +1,6 @@
 # THE LUMENS
 
-THE LUMENS is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Masada, Milan on Sun, 27 Sept 2026.
+THE LUMENS is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Masada, Milan on Sun, 27 Sept 2026.
 
 THE LUMENS is an electro and house artist based in Italy, tracked on soundcheck, with 24 sets logged across Milan. Often billed alongside Ricky Leo, KARBONI and Marialuisa. Next up: Masada, Milan on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ THE LUMENS is an electro and house artist based in Italy, tracked on soundcheck,
 
 Ricky Leo, KARBONI, Marialuisa
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelumens/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelumens/)*

@@ -1,6 +1,6 @@
 # Gareth Wild
 
-Gareth Wild is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Secret Location, London on Sat, 26 Sept 2026.
+Gareth Wild is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Secret Location, London on Sat, 26 Sept 2026.
 
 Gareth Wild is a techno and house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Glasgow and Leeds and 5 more. Often billed alongside Kessie, Alba Heidari and James Newmarch. Next up: Secret Location, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Gareth Wild is a techno and house artist based in United Kingdom, tracked on sou
 
 Kessie, Alba Heidari, James Newmarch
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garethwild/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garethwild/)*

@@ -1,6 +1,6 @@
 # Artime
 
-Artime is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Zoko Collective, Miami on Sat, 26 Sept 2026.
+Artime is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Zoko Collective, Miami on Sat, 26 Sept 2026.
 
 Artime is a house and disco artist based in United States of America, tracked on soundcheck, with 17 sets logged across Austin and Miami. Often billed alongside Terence Tabeau, Mutant Pete and Danny Daze. Next up: Zoko Collective, Miami on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Artime is a house and disco artist based in United States of America, tracked on
 
 Terence Tabeau, Mutant Pete, Danny Daze
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Artime/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Artime/)*

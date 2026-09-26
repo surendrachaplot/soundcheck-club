@@ -1,13 +1,15 @@
 # Mary-chan
 
-Mary-chan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ZEROTOKYO, Tokyo on Sat, 10 Oct 2026.
+Mary-chan is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at JUSTA COFFEE BAR ROPPONGI, Tokyo on Wed, 30 Sept 2026.
 
-Mary-chan is a house and techno artist based in Japan, tracked on soundcheck, with 44 sets logged across Seoul and Tokyo. Often billed alongside AY, O.Goo and Chrumi. Next up: ZEROTOKYO, Tokyo on Sat 10 Oct.
+Mary-chan is a house and techno artist based in Japan, tracked on soundcheck, with 46 sets logged across Seoul and Tokyo. Often billed alongside AY, O.Goo and Chrumi. Next up: JUSTA COFFEE BAR ROPPONGI, Tokyo on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | JUSTA COFFEE BAR ROPPONGI | Tokyo |
+| Thu, 1 Oct 2026 | Swipe 池尻大橋 | Tokyo |
 | Sat, 10 Oct 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
@@ -25,4 +27,4 @@ Mary-chan is a house and techno artist based in Japan, tracked on soundcheck, wi
 
 AY (10), O.Goo, Chrumi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mary-chan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mary-chan/)*

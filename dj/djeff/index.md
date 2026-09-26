@@ -1,6 +1,6 @@
 # DJEFF
 
-DJEFF is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hï Ibiza, Ibiza on Sat, 3 Oct 2026.
+DJEFF is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hï Ibiza, Ibiza on Sat, 3 Oct 2026.
 
 DJEFF is an afro house and house artist based in Portugal, tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Bali and Barcelona and 20 more. Often billed alongside Black Coffee, CLEIDO and Cincity. Next up: Hï Ibiza, Ibiza on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ DJEFF is an afro house and house artist based in Portugal, tracked on soundcheck
 
 Black Coffee, CLEIDO, Cincity
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djeff/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djeff/)*

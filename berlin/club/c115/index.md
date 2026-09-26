@@ -1,6 +1,6 @@
 # C115
 
-C115 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "C115 with Ploy, Roza Terenzi B2B THC" on Fri, 23 Oct 2026.
+C115 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "C115 with Ploy, Roza Terenzi B2B THC" on Fri, 23 Oct 2026.
 
 C115 is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including DjRUM, Ploy, Roza Terenzi and Stenny and 1 more. Browse upcoming dates, start times and who's playing. Messedamm 23, 14055 Berlin.
 
@@ -16,4 +16,4 @@ C115 is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line
 
 Messedamm 23, 14055 Berlin, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/c115/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/c115/)*

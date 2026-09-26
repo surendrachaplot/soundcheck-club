@@ -1,6 +1,6 @@
 # Usherenko
 
-Usherenko is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Usherenko is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Usherenko is a house and techno artist based in United States of America, tracked on soundcheck, with 83 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside Ika (GE), Gio Shengelia and Julian Bomm. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -28,4 +28,4 @@ Usherenko is a house and techno artist based in United States of America, tracke
 
 Ika (GE), Gio Shengelia, Julian Bomm
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/usherenko/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/usherenko/)*

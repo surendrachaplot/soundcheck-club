@@ -1,6 +1,6 @@
 # Kerri Chandler
 
-Kerri Chandler is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ministry Of Sound, London on Sat, 3 Oct 2026.
+Kerri Chandler is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ministry Of Sound, London on Sat, 3 Oct 2026.
 
 Kerri Chandler is a house and techno artist based in United States of America, tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Barcelona and Basel and 36 more. Often billed alongside Seth Troxler, CHRIS STASSY and DJ Deep. Next up: Ministry Of Sound, London on Sat 3 Oct.
 
@@ -34,4 +34,4 @@ Kerri Chandler is a house and techno artist based in United States of America, t
 
 Seth Troxler, CHRIS STASSY, DJ Deep
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*

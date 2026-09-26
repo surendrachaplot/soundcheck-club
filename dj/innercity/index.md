@@ -1,6 +1,6 @@
 # Inner City
 
-Inner City is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chinois Ibiza, Ibiza on Sat, 26 Sept 2026.
+Inner City is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Chinois Ibiza, Ibiza on Sat, 26 Sept 2026.
 
 Inner City is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Chicago, Detroit, Glasgow and Helsinki and 13 more. Often billed alongside Roger Sanchez, Kevin Saunderson and DJ Paulette. Next up: Chinois Ibiza, Ibiza on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Inner City is a house and techno artist based in United States of America, track
 
 Roger Sanchez, Kevin Saunderson, DJ Paulette
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innercity/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innercity/)*

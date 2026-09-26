@@ -1,6 +1,6 @@
 # Serō
 
-Serō is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Java, Paris on Sat, 3 Oct 2026.
+Serō is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at La Java, Paris on Sat, 3 Oct 2026.
 
 Serō is a techno and trance artist based in France, tracked on soundcheck, with 8 sets logged across Berlin, Brussels and Paris. Often billed alongside Acid Oslo, Alhena_ and BISOUX. Next up: La Java, Paris on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Serō is a techno and trance artist based in France, tracked on soundcheck, with
 
 Acid Oslo, Alhena_, BISOUX
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sero-fr/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sero-fr/)*

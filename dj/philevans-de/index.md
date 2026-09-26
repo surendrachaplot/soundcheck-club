@@ -1,13 +1,14 @@
 # Phil Evans
 
-Phil Evans is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Collect LX Factory, Lisbon on Sat, 28 Nov 2026.
+Phil Evans is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 24 Oct 2026.
 
-Phil Evans is a house and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Barcelona, Berlin, Bucharest and Budapest and 7 more. Often billed alongside Markus Sommer, Tiago Walter and Dana Ruh. Next up: Collect LX Factory, Lisbon on Sat 28 Nov.
+Phil Evans is a house and techno artist based in Germany, tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, Bucharest and Budapest and 7 more. Often billed alongside Markus Sommer, Tiago Walter and Dana Ruh. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Sat, 28 Nov 2026 | Collect LX Factory | Lisbon |
 
 ## Recently played
@@ -25,4 +26,4 @@ Phil Evans is a house and techno artist based in Germany, tracked on soundcheck,
 
 Markus Sommer, Tiago Walter, Dana Ruh
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philevans-de/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philevans-de/)*

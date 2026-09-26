@@ -1,6 +1,6 @@
 # Charlemagne Palestine
 
-Charlemagne Palestine is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+Charlemagne Palestine is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
 Charlemagne Palestine is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, London and New York City and 3 more. Often billed alongside Oren Ambarchi, Carl Stone and Caterina Barbieri. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri 25 Sept.
 
@@ -12,6 +12,7 @@ Charlemagne Palestine is an experimental and electronica artist based in United 
 
 ## Recently played
 
+- TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City — Fri, 25 Sept 2026
 - Muziekgebouw aan t' IJ, Amsterdam — Fri, 17 Apr 2026
 - Blå, Oslo — Wed, 29 Oct 2025
 - TBA - Various venues, Valencia — Wed, 15 Oct 2025
@@ -23,4 +24,4 @@ Charlemagne Palestine is an experimental and electronica artist based in United 
 
 Oren Ambarchi, Carl Stone, Caterina Barbieri
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlemagnepalestine/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlemagnepalestine/)*

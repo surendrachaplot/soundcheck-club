@@ -1,8 +1,8 @@
 # Huerta
 
-Huerta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tresor / Globus, Berlin on Sat, 26 Sept 2026.
+Huerta is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tresor / Globus, Berlin on Sat, 26 Sept 2026.
 
-Huerta is a house and techno artist based in United States of America, tracked on soundcheck, with 121 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: Tresor / Globus, Berlin on Sat 26 Sept.
+Huerta is a house and techno artist based in United States of America, tracked on soundcheck, with 122 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: Tresor / Globus, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Huerta is a house and techno artist based in United States of America, tracked o
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Tresor / Globus | Berlin |
 | Sat, 17 Oct 2026 | Distrikt | Leeds |
+| Fri, 27 Nov 2026 | TBA - DTLA | Los Angeles |
 | Sat, 5 Dec 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -27,4 +28,4 @@ Huerta is a house and techno artist based in United States of America, tracked o
 
 Youandewan, DJ Pipe, Liquid Earth
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*

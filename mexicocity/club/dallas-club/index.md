@@ -1,6 +1,6 @@
 # Dallas Club
 
-Dallas Club is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "MORBO 30/10" on Fri, 30 Oct 2026.
+Dallas Club is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "MORBO 30/10" on Fri, 30 Oct 2026.
 
 Dallas Club is a music venue in Mexico City listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. Génova 34, Juárez, CDMX.
 
@@ -16,4 +16,4 @@ Dallas Club is a music venue in Mexico City listed on soundcheck. 3 upcoming gig
 
 Génova 34, Juárez, CDMX, Mexico City
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/dallas-club/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/dallas-club/)*

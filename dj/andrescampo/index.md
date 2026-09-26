@@ -1,6 +1,6 @@
 # Andres Campo
 
-Andres Campo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mondo Open Air, Madrid on Sat, 3 Oct 2026.
+Andres Campo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mondo Open Air, Madrid on Sat, 3 Oct 2026.
 
 Andres Campo is a techno and tech house artist based in Spain, tracked on soundcheck, with 79 sets logged across Amsterdam, Bali, Barcelona and Buenos Aires and 15 more. Often billed alongside Fatima Hajji, Luca Donzelli and Luxi Villar. Next up: Mondo Open Air, Madrid on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Andres Campo is a techno and tech house artist based in Spain, tracked on soundc
 
 Fatima Hajji, Luca Donzelli, Luxi Villar
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrescampo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrescampo/)*

@@ -1,6 +1,6 @@
 # Elli Altenberger
 
-Elli Altenberger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Miscellania, Melbourne on Sat, 26 Sept 2026.
+Elli Altenberger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Miscellania, Melbourne on Sat, 26 Sept 2026.
 
 Elli Altenberger is a house and techno artist based in Austria, tracked on soundcheck, with 48 sets logged across Berlin, Hamburg, Leipzig and Melbourne and 3 more. Often billed alongside Leon Licht, Edgar Peng and Tobi Dei (DE). Next up: Miscellania, Melbourne on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Elli Altenberger is a house and techno artist based in Austria, tracked on sound
 
 Leon Licht, Edgar Peng, Tobi Dei (DE)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellialtenberger/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellialtenberger/)*

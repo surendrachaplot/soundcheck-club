@@ -1,6 +1,6 @@
 # Nicola Cruz
 
-Nicola Cruz is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Deseo BS AS, Buenos Aires on Sat, 26 Sept 2026.
+Nicola Cruz is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Deseo BS AS, Buenos Aires on Sat, 26 Sept 2026.
 
 Nicola Cruz is a house and techno artist based in Ecuador, tracked on soundcheck, with 99 sets logged across Bali, Bangkok, Barcelona and Belgrade and 38 more. Often billed alongside Shvili, Cosmic JD and Juncheol. Next up: Deseo BS AS, Buenos Aires on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Nicola Cruz is a house and techno artist based in Ecuador, tracked on soundcheck
 
 Shvili, Cosmic JD, Juncheol
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolacruz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolacruz/)*

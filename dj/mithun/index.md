@@ -1,6 +1,6 @@
 # Mithun
 
-Mithun is a Club and Kuduro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at fabric, London on Fri, 6 Nov 2026.
+Mithun is a Club and Kuduro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at fabric, London on Fri, 6 Nov 2026.
 
 Mithun is a club and kuduro artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Lisbon, London and New York City. Often billed alongside Izzi, Sway Of The Verses and AUKA. Next up: fabric, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mithun is a club and kuduro artist based in United Kingdom, tracked on soundchec
 
 Izzi, Sway Of The Verses, AUKA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mithun/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mithun/)*

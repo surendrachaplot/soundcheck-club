@@ -1,6 +1,6 @@
 # T78
 
-T78 is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Midway Music Hall, Edmonton on Sat, 26 Sept 2026.
+T78 is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Midway Music Hall, Edmonton on Sat, 26 Sept 2026.
 
 T78 is a techno and acid artist based in Italy, tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside Aphøtic, BIIA and Basswell. Next up: Midway Music Hall, Edmonton on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ T78 is a techno and acid artist based in Italy, tracked on soundcheck, with 92 s
 
 Aphøtic, BIIA, Basswell
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t78/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t78/)*

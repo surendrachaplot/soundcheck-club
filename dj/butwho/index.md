@@ -1,6 +1,6 @@
 # Butwho
 
-Butwho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at REJS, Warsaw on Sat, 26 Sept 2026.
+Butwho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at REJS, Warsaw on Sat, 26 Sept 2026.
 
 Butwho is a techno and house artist based in Poland, tracked on soundcheck, with 12 sets logged across Warsaw. Often billed alongside Lyor Kalt, Francesca (PL) and SYS.END. Next up: REJS, Warsaw on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Butwho is a techno and house artist based in Poland, tracked on soundcheck, with
 
 Lyor Kalt, Francesca (PL), SYS.END
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/butwho/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/butwho/)*

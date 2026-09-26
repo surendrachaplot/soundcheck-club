@@ -1,8 +1,8 @@
 # Youngsta
 
-Youngsta is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gaffe, London on Sat, 10 Oct 2026.
+Youngsta is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Gaffe, London on Sat, 10 Oct 2026.
 
-Youngsta is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Auckland, Berlin and Chicago and 15 more. Often billed alongside Coki, SGT Pokes and Introspekt. Next up: Gaffe, London on Sat 10 Oct.
+Youngsta is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Auckland, Berlin and Chicago and 16 more. Often billed alongside Coki, J:Kenzo and SGT Pokes. Next up: Gaffe, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Youngsta is a dubstep and bass artist based in United Kingdom, tracked on soundc
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Gaffe | London |
 | Fri, 23 Oct 2026 | OHM | Berlin |
+| Sat, 31 Oct 2026 | 440 | Midlands |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Youngsta is a dubstep and bass artist based in United Kingdom, tracked on soundc
 
 ## Shares bills with
 
-Coki, SGT Pokes, Introspekt
+Coki, J:Kenzo, SGT Pokes
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngsta/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngsta/)*

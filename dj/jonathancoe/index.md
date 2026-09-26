@@ -1,6 +1,6 @@
 # Jonathan Coe
 
-Jonathan Coe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tamutamucafe, Osaka on Fri, 25 Sept 2026.
+Jonathan Coe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tamutamucafe, Osaka on Fri, 25 Sept 2026.
 
 Jonathan Coe is a techno and house artist based in Canada, tracked on soundcheck, with 18 sets logged across Osaka, Tokyo and Toronto. Often billed alongside Naluu, Akemi Hino and Cosmic JD. Next up: Tamutamucafe, Osaka on Fri 25 Sept.
 
@@ -12,6 +12,7 @@ Jonathan Coe is a techno and house artist based in Canada, tracked on soundcheck
 
 ## Recently played
 
+- Tamutamucafe, Osaka — Fri, 25 Sept 2026
 - The Jama, Toronto — Sun, 5 Jul 2026
 - Area_osaka, Osaka — Sat, 23 May 2026
 - Area_osaka, Osaka — Tue, 9 Dec 2025
@@ -19,10 +20,9 @@ Jonathan Coe is a techno and house artist based in Canada, tracked on soundcheck
 - Las Casas, Osaka — Sat, 4 Oct 2025
 - Circus Osaka, Osaka — Sun, 14 Sept 2025
 - Compufunk Records, Osaka — Sat, 14 Jun 2025
-- Compufunk Records, Osaka — Fri, 23 May 2025
 
 ## Shares bills with
 
 Naluu, Akemi Hino, Cosmic JD
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathancoe/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathancoe/)*

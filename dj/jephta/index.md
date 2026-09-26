@@ -1,6 +1,6 @@
 # Jephta
 
-Jephta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+Jephta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 Jephta is a techno and house artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam and Ghent. Often billed alongside Cobahn, Dasha Rush and Hitam. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Jephta is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 Cobahn, Dasha Rush, Hitam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jephta/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jephta/)*

@@ -1,6 +1,6 @@
 # Technocute
 
-Technocute is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jaeger, Oslo on Wed, 28 Oct 2026.
+Technocute is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Jaeger, Oslo on Wed, 28 Oct 2026.
 
 Technocute is a techno and house artist tracked on soundcheck, with 14 sets logged across Copenhagen, Los Angeles, Oslo and Stockholm. Often billed alongside CLAWZ, DJ JM and Dj Hidrataccioni. Next up: Jaeger, Oslo on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Technocute is a techno and house artist tracked on soundcheck, with 14 sets logg
 
 CLAWZ, DJ JM, Dj Hidrataccioni
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technocute/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technocute/)*

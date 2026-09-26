@@ -1,6 +1,6 @@
 # maedchenballern
 
-maedchenballern is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ritter Butzke, Berlin on Fri, 16 Oct 2026.
+maedchenballern is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ritter Butzke, Berlin on Fri, 16 Oct 2026.
 
 maedchenballern is a techno and trance artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Hamburg, Leipzig and Zurich. Often billed alongside Erebos, MARRE and Bélavie. Next up: Ritter Butzke, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ maedchenballern is a techno and trance artist based in Germany, tracked on sound
 
 Erebos, MARRE, Bélavie
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maedchenballern/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maedchenballern/)*

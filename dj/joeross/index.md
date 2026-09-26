@@ -1,6 +1,6 @@
 # Joe Ross
 
-Joe Ross is a Tech House and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Cheetah Club, Glasgow on Sat, 17 Oct 2026.
+Joe Ross is a Tech House and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at La Cheetah Club, Glasgow on Sat, 17 Oct 2026.
 
 Joe Ross is a tech house and pop artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Austin, Glasgow and Houston. Often billed alongside Edward Frame, Jaesyun and Matt Denton. Next up: La Cheetah Club, Glasgow on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Joe Ross is a tech house and pop artist based in United Kingdom, tracked on soun
 
 Edward Frame, Jaesyun, Matt Denton
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeross/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeross/)*

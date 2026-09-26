@@ -1,6 +1,6 @@
 # Emilio
 
-Emilio is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 27 Sept 2026.
+Emilio is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 27 Sept 2026.
 
 Emilio is a techno and industrial artist based in Norway, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Brussels and Budapest and 6 more. Often billed alongside EVE, LØST and Monk000. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Emilio is a techno and industrial artist based in Norway, tracked on soundcheck,
 
 EVE (1), LØST, Monk000
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio/)*

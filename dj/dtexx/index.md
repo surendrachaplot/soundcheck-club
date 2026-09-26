@@ -1,8 +1,8 @@
 # DTEXX
 
-DTEXX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fusion Club, Munster on Sat, 26 Sept 2026.
+DTEXX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Fusion Club, Munster on Sat, 26 Sept 2026.
 
-DTEXX is a techno and trance artist based in Germany, tracked on soundcheck, with 62 sets logged across Berlin, Leipzig, Lisbon and Milan and 4 more. Often billed alongside SIKXTO, Filialleiter and Trancestrudel. Next up: Fusion Club, Munster on Sat 26 Sept.
+DTEXX is a techno and trance artist based in Germany, tracked on soundcheck, with 63 sets logged across Berlin, Leipzig, Lisbon and Milan and 4 more. Often billed alongside SIKXTO, Filialleiter and Trancestrudel. Next up: Fusion Club, Munster on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DTEXX is a techno and trance artist based in Germany, tracked on soundcheck, wit
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Fusion Club | Munster |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
+| Sat, 14 Nov 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DTEXX is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 SIKXTO, Filialleiter, Trancestrudel
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dtexx/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dtexx/)*

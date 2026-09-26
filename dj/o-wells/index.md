@@ -1,6 +1,6 @@
 # O-Wells
 
-O-Wells is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OHM, Berlin on Sat, 7 Nov 2026.
+O-Wells is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at OHM, Berlin on Sat, 7 Nov 2026.
 
 O-Wells is a house and techno artist based in Germany, tracked on soundcheck, with 28 sets logged across Bangkok, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside 41ISSA, Coco Cobra and DJ Pete. Next up: OHM, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ O-Wells is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 41ISSA, Coco Cobra, DJ Pete
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/o-wells/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/o-wells/)*

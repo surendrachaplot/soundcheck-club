@@ -1,6 +1,6 @@
 # Labüsch-Bar, Winterthur
 
-Labüsch-Bar, Winterthur is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Fundraising Dance Event" on Sat, 26 Sept 2026.
+Labüsch-Bar, Winterthur is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Fundraising Dance Event" on Sat, 26 Sept 2026.
 
 Labüsch-Bar, Winterthur is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with line-ups including Polo (DE), Broadcast, Charli XCX and DJ S (UK) and 2 more. Browse upcoming dates, start times and who's playing. Zur Kesselschmiede 27, 8400 Winterthur, Switzerland.
 
@@ -17,4 +17,4 @@ Labüsch-Bar, Winterthur is a music venue in Zurich listed on soundcheck. 4 upco
 
 Zur Kesselschmiede 27, 8400 Winterthur, Switzerland, Zurich
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/lab-sch-bar-winterthur/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/lab-sch-bar-winterthur/)*

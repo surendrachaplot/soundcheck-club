@@ -1,8 +1,8 @@
 # Nicole Moudaber
 
-Nicole Moudaber is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at [UNVRS], Ibiza on Sun, 27 Sept 2026.
+Nicole Moudaber is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at [UNVRS], Ibiza on Sun, 27 Sept 2026.
 
-Nicole Moudaber is a techno and house artist based in United Kingdom, tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: [UNVRS], Ibiza on Sun 27 Sept.
+Nicole Moudaber is a techno and house artist based in United Kingdom, tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: [UNVRS], Ibiza on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nicole Moudaber is a techno and house artist based in United Kingdom, tracked on
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 3 Oct 2026 | E1 | London |
+| Sat, 31 Oct 2026 | Refuge | New York City |
 | Sun, 22 Nov 2026 | Athens Conservatoire - Ωδείον Αθηνών | Athens |
 
 ## Recently played
@@ -27,4 +28,4 @@ Nicole Moudaber is a techno and house artist based in United Kingdom, tracked on
 
 Paco Osuna, Jamie Jones, Ilario Alicante
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*

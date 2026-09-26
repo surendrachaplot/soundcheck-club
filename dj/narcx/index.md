@@ -1,6 +1,6 @@
 # NARCX
 
-NARCX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fabrik, Madrid on Sat, 3 Oct 2026.
+NARCX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Fabrik, Madrid on Sat, 3 Oct 2026.
 
 NARCX is a techno and trance artist based in Spain, tracked on soundcheck, with 21 sets logged across Berlin and Madrid. Often billed alongside GALGØ, H1pnos1s and QUINCE. Next up: Fabrik, Madrid on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ NARCX is a techno and trance artist based in Spain, tracked on soundcheck, with 
 
 GALGØ, H1pnos1s, QUINCE (2)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/narcx/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/narcx/)*

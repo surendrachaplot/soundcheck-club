@@ -1,6 +1,6 @@
 # Dino and Terry
 
-Dino and Terry is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sound Machine, Toronto on Sat, 3 Oct 2026.
+Dino and Terry is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Sound Machine, Toronto on Sat, 3 Oct 2026.
 
 Dino and Terry are a house and club duo based in Canada, tracked on soundcheck, with 24 sets logged across Toronto. Often billed alongside Yogi, Dirty Dale and Jason Palma. Next up: Sound Machine, Toronto on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dino and Terry are a house and club duo based in Canada, tracked on soundcheck, 
 
 Yogi, Dirty Dale, Jason Palma
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dinoandterry/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dinoandterry/)*

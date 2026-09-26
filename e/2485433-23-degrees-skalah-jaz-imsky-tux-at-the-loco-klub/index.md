@@ -1,6 +1,6 @@
 # 23 Degrees: SKALAH, JAZ IMSKY & TUX at The Loco Klub
 
-23 Degrees: SKALAH, JAZ IMSKY & TUX at The Loco Klub on Sat 17 Oct, Bristol. 2 artists on the bill: JAZ IMSKY and SKALAH (UK). Dubstep. Preview the line-up and save it on soundcheck.
+23 Degrees: SKALAH, JAZ IMSKY & TUX at The Loco Klub on Sat 17 Oct, Bristol. 3 artists on the bill: JAZ IMSKY, SKALAH (UK) and TUX. Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@
 
 - JAZ IMSKY
 - SKALAH (UK)
+- TUX (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2485433-23-degrees-skalah-jaz-imsky-tux-at-the-loco-klub/)*

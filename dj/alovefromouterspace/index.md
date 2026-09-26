@@ -1,6 +1,6 @@
 # A LOVE FROM OUTER SPACE
 
-A LOVE FROM OUTER SPACE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Phonox, London on Sat, 17 Oct 2026.
+A LOVE FROM OUTER SPACE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Phonox, London on Sat, 17 Oct 2026.
 
 A LOVE FROM OUTER SPACE is a house and techno artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Barcelona, Birmingham, Ibiza and Leeds and 3 more. Often billed alongside Sean Johnston, Chris Massey and MASAYASU. Next up: Phonox, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ A LOVE FROM OUTER SPACE is a house and techno artist based in United Kingdom, tr
 
 Sean Johnston, Chris Massey, MASAYASU
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alovefromouterspace/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alovefromouterspace/)*

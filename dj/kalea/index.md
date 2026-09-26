@@ -1,6 +1,6 @@
 # KALEA
 
-KALEA is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at AMT, Berlin on Sat, 3 Oct 2026.
+KALEA is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at AMT, Berlin on Sat, 3 Oct 2026.
 
 KALEA is a house and electro artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Dorsch, Josiane and 2 Girls 1 Club. Next up: AMT, Berlin on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ KALEA is a house and electro artist based in Germany, tracked on soundcheck, wit
 
 Dorsch, Josiane, 2 Girls 1 Club
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalea/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalea/)*

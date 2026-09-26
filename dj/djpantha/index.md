@@ -1,6 +1,6 @@
 # DJ Pantha
 
-DJ Pantha is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Trafalgar Warehouse, Sheffield on Sat, 26 Sept 2026.
+DJ Pantha is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Trafalgar Warehouse, Sheffield on Sat, 26 Sept 2026.
 
 DJ Pantha is a bass and drum & bass artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Birmingham, Bristol, Ibiza and Leeds and 4 more. Often billed alongside Bassboy, Burgaboy and Chad Harrison. Next up: Trafalgar Warehouse, Sheffield on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Pantha is a bass and drum & bass artist based in United Kingdom, tracked on s
 
 Bassboy, Burgaboy, Chad Harrison
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpantha/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpantha/)*

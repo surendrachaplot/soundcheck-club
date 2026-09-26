@@ -1,15 +1,13 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Inline with Mila Duch, 4meter & Eluzid" on Thu, 24 Sept 2026.
+Crack Bellmer is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "PLAYGROUND" on Sat, 26 Sept 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including 4meter, Ahni, ANTØNIØ. and AZADÎ and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including Ahni, AZADÎ, Bconscious and Blck-Swan and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Inline with Mila Duch, 4meter & Eluzid | 4meter, Eluzid |
-| Fri, 25 Sept 2026 | Orbit Berlin x MOTHER COLLECTIVE | ANTØNIØ., G.oss, Kobzev, LUISELLE, Silpagare |
 | Sat, 26 Sept 2026 | PLAYGROUND | Easy K, Luna Martinez, R4F4, Suzanne Dolmancé |
 | Sat, 26 Sept 2026 | STECKER | BUTZ, Jimmie, Laura de Vasconcelos, Maneta, SBRD |
 | Wed, 30 Sept 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
@@ -18,9 +16,11 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 23 upcoming gigs,
 | Fri, 2 Oct 2026 | HolyShift VI |  |
 | Sat, 3 Oct 2026 | STAY CORE | Ahni, Fukinsei, Marie Midori, Supergross |
 | Wed, 7 Oct 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
+| Fri, 9 Oct 2026 | STILL HERE - LIFTED ✧ Corpo de Baile ✧ TAG DER CLUBKULTUR 2026 | FatAles, Mamede, NeZoomie, kamishibai, riss |
+| Sat, 10 Oct 2026 | Paradis Artificiel (4TH ANNIVERSARY) ✦ TAG DER CLUBKULTUR 2026 | Bconscious, Gforty, Guido Iacovitti |
 
 ## Address
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

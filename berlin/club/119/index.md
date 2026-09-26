@@ -1,6 +1,6 @@
 # [119]
 
-[119] is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "[119] Opening hosted by Extra Energy" on Sat, 26 Sept 2026.
+[119] is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "[119] Opening hosted by Extra Energy" on Sat, 26 Sept 2026.
 
 [119] is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including DJ SKIN, EMIRI TSUKUI, Krumelur and Mademoisel and 2 more. Browse upcoming dates, start times and who's playing. Storkower Straße 119, 10407 Berlin.
 
@@ -16,4 +16,4 @@
 
 Storkower Straße 119, 10407 Berlin, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/119/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/119/)*

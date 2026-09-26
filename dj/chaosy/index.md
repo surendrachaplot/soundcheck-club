@@ -1,6 +1,6 @@
 # Chaosy
 
-Chaosy is a Experimental and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 20nine30, Berlin on Fri, 2 Oct 2026.
+Chaosy is a Experimental and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 20nine30, Berlin on Fri, 2 Oct 2026.
 
 Chaosy is an experimental and electro artist based in Ukraine, tracked on soundcheck, with 15 sets logged across Berlin and The Hague. Often billed alongside Jana Woodstock, Costa (FR) and bod [包家巷]. Next up: 20nine30, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Chaosy is an experimental and electro artist based in Ukraine, tracked on soundc
 
 Jana Woodstock, Costa (FR), bod [包家巷]
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosy/)*

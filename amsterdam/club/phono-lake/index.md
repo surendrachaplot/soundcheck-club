@@ -1,6 +1,6 @@
 # Phono Lake
 
-Phono Lake is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Phono Lake ADE with Magda & Sandrien" on Fri, 23 Oct 2026.
+Phono Lake is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Phono Lake ADE with Magda & Sandrien" on Fri, 23 Oct 2026.
 
 Phono Lake is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Flo Real, Lefto Early Bird, Magda and Moodymann and 2 more. Browse upcoming dates, start times and who's playing. Christoffel Plantijngracht 4, 1065 DA Amsterdam, The Netherlands.
 
@@ -16,4 +16,4 @@ Phono Lake is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, 
 
 Christoffel Plantijngracht 4, 1065 DA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/phono-lake/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/phono-lake/)*

@@ -1,15 +1,13 @@
 # EartH
 
-EartH is a music venue in London with 16 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "AMPERS&ONE" on Thu, 24 Sept 2026.
+EartH is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "AVA London: Skin On Skin, Evian Christ, Croatian Amor + mi-el" on Sat, 26 Sept 2026.
 
-EartH is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Abdullah Miniawy, Anz, Croatian Amor and Decibella and 2 more. Browse upcoming dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
+EartH is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Abdullah Miniawy, Anz, Croatian Amor and Digitalism and 2 more. Browse upcoming dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | AMPERS&ONE |  |
-| Fri, 25 Sept 2026 | London Something: Jungle DnB night in the Heart of Hackney | DJRon, Decibella, Double O, SP:MC, Shabba |
 | Sat, 26 Sept 2026 | AVA London: Skin On Skin, Evian Christ, Croatian Amor + mi-el | Croatian Amor, Evian Christ, Skin On Skin, mi-el |
 | Sat, 10 Oct 2026 | Digitalism | Digitalism |
 | Sat, 17 Oct 2026 | Takuya Nakamura (Live) | Takuya Nakamura |
@@ -18,9 +16,11 @@ EartH is a music venue in London listed on soundcheck. 16 upcoming gigs, with li
 | Fri, 30 Oct 2026 | Tessellate x Origins: The Trip, Spray & Scarlett O'Malley | Scarlett O'Malley, Spray, The Trip |
 | Sat, 31 Oct 2026 | HAAi - Open to Close | HAAi |
 | Sat, 31 Oct 2026 | HAAi - Open to Close | HAAi |
+| Sat, 14 Nov 2026 | Pola & Bryson Live (World Debut) | Pola & Bryson |
+| Wed, 18 Nov 2026 | EartH presents Gigi Masin | Gigi Masin |
 
 ## Address
 
 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*

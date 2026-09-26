@@ -1,6 +1,6 @@
 # Seba (4)
 
-Seba (4) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at SASS Music Club, Vienna on Fri, 2 Oct 2026.
+Seba (4) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at SASS Music Club, Vienna on Fri, 2 Oct 2026.
 
 Seba is a house and techno artist based in Austria, tracked on soundcheck, with 12 sets logged across Berlin, Stuttgart and Vienna. Often billed alongside Jorkes, Aimé and flauxpas. Next up: SASS Music Club, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Seba is a house and techno artist based in Austria, tracked on soundcheck, with 
 
 Jorkes, Aimé, flauxpas
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seba-4/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seba-4/)*

@@ -1,6 +1,6 @@
 # DJ SABI
 
-DJ SABI is a Reggaeton and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Supernatural Haus, Miami on Sat, 26 Sept 2026.
+DJ SABI is a Reggaeton and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Supernatural Haus, Miami on Sat, 26 Sept 2026.
 
 DJ SABI is a reggaeton and neo perreo artist based in United States of America, tracked on soundcheck, with 40 sets logged across Boston, Miami, New York City and Portland and 3 more. Often billed alongside SPELL, Trippie Hippie (US) and p1no. Next up: Supernatural Haus, Miami on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ DJ SABI is a reggaeton and neo perreo artist based in United States of America, 
 
 SPELL, Trippie Hippie (US), p1no
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsabi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsabi/)*

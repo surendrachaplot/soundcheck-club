@@ -1,6 +1,6 @@
 # faron
 
-faron is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at underiolo, Warsaw on Fri, 6 Nov 2026.
+faron is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at underiolo, Warsaw on Fri, 6 Nov 2026.
 
 faron is a bass and techno artist based in Poland, tracked on soundcheck, with 62 sets logged across Krakow and Warsaw. Often billed alongside Some Guest, iffi and dd (PL). Next up: underiolo, Warsaw on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ faron is a bass and techno artist based in Poland, tracked on soundcheck, with 6
 
 Some Guest, iffi, dd (PL)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faron/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faron/)*

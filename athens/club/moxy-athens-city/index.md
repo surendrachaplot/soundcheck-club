@@ -1,6 +1,6 @@
 # Moxy Athens City
 
-Moxy Athens City is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "USHPIZIN" on Sun, 27 Sept 2026.
+Moxy Athens City is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "USHPIZIN" on Sun, 27 Sept 2026.
 
 Moxy Athens City is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including Re.You. Browse upcoming dates, start times and who's playing. Stadiou 65, Athina 105 51, Greece.
 
@@ -15,4 +15,4 @@ Moxy Athens City is a music venue in Athens listed on soundcheck. 2 upcoming gig
 
 Stadiou 65, Athina 105 51, Greece, Athens
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/moxy-athens-city/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/moxy-athens-city/)*

@@ -1,10 +1,10 @@
 # The Do-Over: 20 Year Anniversary at 314 Scholes
 
-The Do-Over: 20 Year Anniversary at 314 Scholes on Sat 26 Sept, New York City. 2 artists on the bill: JAEL and Moodymann. Disco and Jazz. Preview the line-up and save it on soundcheck.
+The Do-Over: 20 Year Anniversary at 314 Scholes on Fri 6 Nov, New York City. 2 artists on the bill: JAEL and Moodymann. Disco and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 26 Sept 2026 |
+| Date | Fri, 6 Nov 2026 |
 | Venue | 314 Scholes |
 | City | New York City |
 

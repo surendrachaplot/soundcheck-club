@@ -1,6 +1,6 @@
 # Nomads
 
-Nomads is a Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cult=us, Rotterdam on Fri, 6 Nov 2026.
+Nomads is a Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cult=us, Rotterdam on Fri, 6 Nov 2026.
 
 Nomads is a disco and ebm artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona and Rotterdam. Often billed alongside Adria (ES), DJ Klapsalon and Dj Almelo. Next up: Cult=us, Rotterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Nomads is a disco and ebm artist based in Netherlands, tracked on soundcheck, wi
 
 Adria (ES), DJ Klapsalon, Dj Almelo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nomads/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nomads/)*

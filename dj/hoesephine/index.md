@@ -1,6 +1,6 @@
 # HOESEPHINE
 
-HOESEPHINE is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
+HOESEPHINE is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
 
 HOESEPHINE is a trance and techno artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside Vall Du Son, DJ Henk and Maruwa. Next up: The Bulldog Palace, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ HOESEPHINE is a trance and techno artist based in Netherlands, tracked on soundc
 
 Vall Du Son, DJ Henk, Maruwa
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hoesephine/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hoesephine/)*

@@ -1,6 +1,6 @@
 # Hotmood
 
-Hotmood is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gwenda, London on Fri, 2 Oct 2026.
+Hotmood is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Gwenda, London on Fri, 2 Oct 2026.
 
 Hotmood is a disco and house artist based in Mexico, tracked on soundcheck, with 19 sets logged across Austin, Denver, London and Madrid and 4 more. Often billed alongside DJ HOT DONNA, Monsieur Van Pratt and Boys Don't Disco. Next up: Gwenda, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Hotmood is a disco and house artist based in Mexico, tracked on soundcheck, with
 
 DJ HOT DONNA, Monsieur Van Pratt, Boys Don't Disco
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hotmood/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hotmood/)*

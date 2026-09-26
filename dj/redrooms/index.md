@@ -1,6 +1,6 @@
 # Red Rooms
 
-Red Rooms is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
+Red Rooms is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
 
 Red Rooms is a techno and house artist based in Germany, tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Berlin and Cologne and 16 more. Often billed alongside AgainstMe, Jennifer Loveless and Lea Occhi. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Red Rooms is a techno and house artist based in Germany, tracked on soundcheck, 
 
 AgainstMe, Jennifer Loveless, Lea Occhi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redrooms/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redrooms/)*

@@ -1,14 +1,14 @@
 # DJ Shoe
 
-DJ Shoe is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Bushwick (Halsey J), DM an artist or host for address, New York City on Sat, 26 Sept 2026.
+DJ Shoe is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Crossroads Cafe, New York City on Sat, 26 Sept 2026.
 
-DJ Shoe is a club and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across New York City. Often billed alongside Rainbow Tutu, Berky and Dom Haley. Next up: TBA - Bushwick (Halsey J), DM an artist or host for address, New York City on Sat 26 Sept.
+DJ Shoe is a club and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across New York City. Often billed alongside Rainbow Tutu, Dom Haley and ivaindistress. Next up: Crossroads Cafe, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Bushwick (Halsey J), DM an artist or host for address | New York City |
+| Sat, 26 Sept 2026 | Crossroads Cafe | New York City |
 
 ## Recently played
 
@@ -23,6 +23,6 @@ DJ Shoe is a club and house artist based in United States of America, tracked on
 
 ## Shares bills with
 
-Rainbow Tutu, Berky, Dom Haley
+Rainbow Tutu, Dom Haley, ivaindistress
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshoe/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshoe/)*

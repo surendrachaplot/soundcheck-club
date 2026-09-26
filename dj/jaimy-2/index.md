@@ -1,6 +1,6 @@
 # Jaimy (2)
 
-Jaimy (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Benelux BAR, Amsterdam on Fri, 23 Oct 2026.
+Jaimy (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Benelux BAR, Amsterdam on Fri, 23 Oct 2026.
 
 Jaimy is a house and techno artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin and Brussels. Often billed alongside 1morning, Akua and Alex Rita. Next up: Benelux BAR, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Jaimy is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 1morning, Akua, Alex Rita
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaimy-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaimy-2/)*

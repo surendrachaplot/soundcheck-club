@@ -1,6 +1,6 @@
 # RayRay
 
-RayRay is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 26 Sept 2026.
+RayRay is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 26 Sept 2026.
 
 RayRay is a techno and house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Lisbon and London and 4 more. Often billed alongside Varanasi, ASHTREY and Gloria Rose. Next up: Ankali & Planeta Za, Prague on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ RayRay is a techno and house artist based in United Kingdom, tracked on soundche
 
 Varanasi, ASHTREY, Gloria Rose
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rayray/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rayray/)*

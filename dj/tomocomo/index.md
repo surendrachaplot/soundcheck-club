@@ -1,6 +1,6 @@
 # Tomocomo
 
-Tomocomo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 7th Floor, Tokyo on Sat, 7 Nov 2026.
+Tomocomo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at 7th Floor, Tokyo on Sat, 7 Nov 2026.
 
 Tomocomo is a techno and trance artist based in Japan, tracked on soundcheck, with 28 sets logged across Tokyo. Often billed alongside Jun Jikooha, Do Shock Booze and Funky Gong. Next up: 7th Floor, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Tomocomo is a techno and trance artist based in Japan, tracked on soundcheck, wi
 
 Jun Jikooha, Do Shock Booze, Funky Gong
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomocomo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomocomo/)*

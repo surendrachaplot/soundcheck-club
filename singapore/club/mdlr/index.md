@@ -1,6 +1,6 @@
 # Mdlr
 
-Mdlr is a music venue in Singapore with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Mdlr" on Sat, 26 Sept 2026.
+Mdlr is a music venue in Singapore with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Mdlr" on Sat, 26 Sept 2026.
 
 Mdlr is a music venue in Singapore listed on soundcheck. 5 upcoming gigs, with line-ups including AEREA, ARESHA, General Levy and Joshua Dillon and 2 more. Browse upcoming dates, start times and who's playing. 62 Cecil Street #02-00, Singapore 049710.
 
@@ -18,4 +18,4 @@ Mdlr is a music venue in Singapore listed on soundcheck. 5 upcoming gigs, with l
 
 62 Cecil Street #02-00, Singapore 049710, Singapore
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*

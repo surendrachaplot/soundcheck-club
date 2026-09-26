@@ -1,6 +1,6 @@
 # Rommy
 
-Rommy is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Sat, 26 Sept 2026.
+Rommy is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Flash, Washington DC on Sat, 26 Sept 2026.
 
 Rommy is a house and bass artist based in United States of America, tracked on soundcheck, with 30 sets logged across New York City and Washington DC. Often billed alongside softer, DR MILLER and TIGRR. Next up: Flash, Washington DC on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Rommy is a house and bass artist based in United States of America, tracked on s
 
 softer, DR MILLER, TIGRR
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rommy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rommy/)*

@@ -1,14 +1,13 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 15 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Subios Records Showcase" on Fri, 25 Sept 2026.
+Fundbureau is a music venue in Hamburg with 15 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Claudius // DANIQ // TECHNIKER ALLSTARS" on Sat, 26 Sept 2026.
 
-Fundbureau is a music venue in Hamburg listed on soundcheck. 15 upcoming gigs, with line-ups including APHE, Charlie Tee, CHICHO and Claudius and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
+Fundbureau is a music venue in Hamburg listed on soundcheck. 15 upcoming gigs, with line-ups including Bizzarro Universe, Charlie Tee, CHICHO and Claudius and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Subios Records Showcase | APHE (2), Muttiah Ashnim, TiM TASTE |
 | Sat, 26 Sept 2026 | Claudius // DANIQ // TECHNIKER ALLSTARS | Claudius |
 | Sat, 26 Sept 2026 | FLINTA* Open Decks hosted by Skkin Velvet |  |
 | Fri, 2 Oct 2026 | RANDALE IM FUNDI | Konfusia, Randali, Sophie van Hayden |
@@ -18,9 +17,10 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 15 upcoming gigs, w
 | Sat, 10 Oct 2026 | Oldies & Trash Night 90s&Y2K Female Edition |  |
 | Sat, 10 Oct 2026 | RESIDENT NIGHT W/ Randali // SVE // Nikiija // CHICHO // MELENA | CHICHO, Nikiija, Randali, SVE |
 | Fri, 16 Oct 2026 | Liquic Concrete with Charlie Tee & T-Lex & Melina | Charlie Tee, Enni Milosj, Fibe, MELINA (3), Sindicate, duaba |
+| Sat, 17 Oct 2026 | OLEA // vivi // LAUT KLUB FLOOR HOSTING | OLEA, vivi |
 
 ## Address
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

@@ -1,6 +1,6 @@
 # Merikan
 
-Merikan is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Graanfabriek, Netherlands on Fri, 30 Oct 2026.
+Merikan is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Graanfabriek, Netherlands on Fri, 30 Oct 2026.
 
 Merikan is a drum & bass and bass artist based in Italy, tracked on soundcheck, with 26 sets logged across Berlin, Bristol, Budapest and Geneva and 9 more. Often billed alongside Black Sun Empire, Audio and Pythius. Next up: Graanfabriek, Netherlands on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Merikan is a drum & bass and bass artist based in Italy, tracked on soundcheck, 
 
 Black Sun Empire, Audio, Pythius
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merikan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merikan/)*

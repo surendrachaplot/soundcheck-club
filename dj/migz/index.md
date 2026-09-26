@@ -1,6 +1,6 @@
 # Migz
 
-Migz is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mucha, Berlin on Sat, 26 Sept 2026.
+Migz is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mucha, Berlin on Sat, 26 Sept 2026.
 
 Migz is a bass and jungle artist based in Malta, tracked on soundcheck, with 49 sets logged across Berlin, Malta and Stockholm. Often billed alongside Dub Isotope, Upzet and Hovercat. Next up: Mucha, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Migz is a bass and jungle artist based in Malta, tracked on soundcheck, with 49 
 
 Dub Isotope, Upzet, Hovercat
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/migz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/migz/)*

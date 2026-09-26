@@ -1,6 +1,6 @@
 # Amethy
 
-Amethy is a Afro House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Oliva, Amsterdam on Sun, 25 Oct 2026.
+Amethy is a Afro House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Oliva, Amsterdam on Sun, 25 Oct 2026.
 
 Amethy is an afro house and progressive house artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam and Tallinn. Often billed alongside KARINSMATIC, Corren Cavini and Kitty Marroni. Next up: Oliva, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Amethy is an afro house and progressive house artist based in Netherlands, track
 
 KARINSMATIC, Corren Cavini, Kitty Marroni
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amethy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amethy/)*

@@ -1,6 +1,6 @@
 # Amizl
 
-Amizl is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Marlborough Red Room, Glasgow on Sat, 26 Sept 2026.
+Amizl is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Marlborough Red Room, Glasgow on Sat, 26 Sept 2026.
 
 Amizl is a house and garage artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Edinburgh and Glasgow. Often billed alongside Nadia Summer, A-TØN and M1-DJ. Next up: The Marlborough Red Room, Glasgow on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Amizl is a house and garage artist based in United Kingdom, tracked on soundchec
 
 Nadia Summer, A-TØN, M1-DJ
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amizl/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amizl/)*

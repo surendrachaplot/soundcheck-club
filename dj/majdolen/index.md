@@ -1,6 +1,6 @@
 # Majdolen
 
-Majdolen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OXI, Berlin on Tue, 13 Oct 2026.
+Majdolen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at OXI, Berlin on Tue, 13 Oct 2026.
 
 Majdolen is a techno and house artist based in Germany, tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Berlin and Budapest and 4 more. Often billed alongside Dirty Daddy Don, Khloe and Stathis (GR). Next up: OXI, Berlin on Tue 13 Oct.
 
@@ -26,4 +26,4 @@ Majdolen is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Dirty Daddy Don, Khloe, Stathis (GR)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majdolen/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majdolen/)*

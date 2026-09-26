@@ -1,6 +1,6 @@
 # SOHMI
 
-SOHMI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 1720, Los Angeles on Sat, 7 Nov 2026.
+SOHMI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at 1720, Los Angeles on Sat, 7 Nov 2026.
 
 SOHMI is a house and techno artist based in South Korea, tracked on soundcheck, with 35 sets logged across Amsterdam, Austin, Chicago and Denver and 9 more. Often billed alongside Yotto, Cristoph and Eli & Fur. Next up: 1720, Los Angeles on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ SOHMI is a house and techno artist based in South Korea, tracked on soundcheck, 
 
 Yotto, Cristoph, Eli & Fur
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sohmi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sohmi/)*

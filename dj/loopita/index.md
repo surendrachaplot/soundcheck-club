@@ -1,6 +1,6 @@
 # Loopita
 
-Loopita is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lula Club, Madrid on Fri, 9 Oct 2026.
+Loopita is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Lula Club, Madrid on Fri, 9 Oct 2026.
 
 Loopita is a house and tech house artist based in Spain, tracked on soundcheck, with 13 sets logged across Madrid. Often billed alongside Karretero, fajardo and jose fajardo. Next up: Lula Club, Madrid on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Loopita is a house and tech house artist based in Spain, tracked on soundcheck, 
 
 Karretero, fajardo, jose fajardo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loopita/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loopita/)*

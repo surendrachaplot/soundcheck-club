@@ -1,6 +1,6 @@
 # Bella Mutino
 
-Bella Mutino is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at House of Yes, New York City on Sat, 3 Oct 2026.
+Bella Mutino is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at House of Yes, New York City on Sat, 3 Oct 2026.
 
 Bella Mutino is a house and techno artist based in United States of America, tracked on soundcheck, with 73 sets logged across New York City, Toronto and Washington DC. Often billed alongside Dayna C, Dani Moon and Amy Jor. Next up: House of Yes, New York City on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Bella Mutino is a house and techno artist based in United States of America, tra
 
 Dayna C, Dani Moon, Amy Jor
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellamutino/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellamutino/)*

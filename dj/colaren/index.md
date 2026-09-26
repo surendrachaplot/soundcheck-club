@@ -1,18 +1,18 @@
 # COLA REN
 
-COLA REN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at WWW, Tokyo on Fri, 25 Sept 2026.
+COLA REN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Spread, Tokyo on Fri, 16 Oct 2026.
 
-COLA REN is a techno and house artist based in China, tracked on soundcheck, with 19 sets logged across Berlin, Kyoto, Munich and Osaka and 3 more. Often billed alongside Jascer, NTsKi and Actress. Next up: WWW, Tokyo on Fri 25 Sept.
+COLA REN is a techno and house artist based in China, tracked on soundcheck, with 19 sets logged across Berlin, Kyoto, Munich and Osaka and 3 more. Often billed alongside Jascer, NTsKi and Actress. Next up: Spread, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | WWW | Tokyo |
 | Fri, 16 Oct 2026 | Spread | Tokyo |
 
 ## Recently played
 
+- WWW, Tokyo — Fri, 25 Sept 2026
 - Pastiche, Berlin — Fri, 28 Aug 2026
 - TBA - Takanawa Gateway City, Tokyo — Sat, 27 Jun 2026
 - BLITZ, Munich — Fri, 24 Apr 2026
@@ -20,10 +20,9 @@ COLA REN is a techno and house artist based in China, tracked on soundcheck, wit
 - arkaoda Berlin, Berlin — Fri, 17 Apr 2026
 - West Harlem, Kyoto — Sat, 14 Mar 2026
 - TBA - GREEN WISE, Tokyo — Sun, 2 Nov 2025
-- Le 9B, Paris — Fri, 27 Jun 2025
 
 ## Shares bills with
 
 Jascer, NTsKi, Actress
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colaren/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colaren/)*

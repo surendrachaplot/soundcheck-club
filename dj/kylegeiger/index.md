@@ -1,6 +1,6 @@
 # Kyle Geiger
 
-Kyle Geiger is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Chicago on Sat, 26 Sept 2026.
+Kyle Geiger is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Chicago on Sat, 26 Sept 2026.
 
 Kyle Geiger is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Berlin, Chicago, Denver and Detroit and 6 more. Often billed alongside Fadi Mohem, Rødhåd and Dustin Zahn. Next up: TBA, Chicago on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Kyle Geiger is a techno and dub techno artist based in United States of America,
 
 Fadi Mohem, Rødhåd, Dustin Zahn
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylegeiger/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylegeiger/)*

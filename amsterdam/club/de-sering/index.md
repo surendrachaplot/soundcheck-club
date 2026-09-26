@@ -1,6 +1,6 @@
 # De Sering
 
-De Sering is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "DOGGO" on Sat, 17 Oct 2026.
+De Sering is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "DOGGO" on Sat, 17 Oct 2026.
 
 De Sering is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including AEZARYA, Ava Eva, Bon Public and Camille Maria and 2 more. Browse upcoming dates, start times and who's playing. Rhoneweg 6, 1043 AH Amsterdam, Netherlands.
 
@@ -19,4 +19,4 @@ De Sering is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, w
 
 Rhoneweg 6, 1043 AH Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-sering/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-sering/)*

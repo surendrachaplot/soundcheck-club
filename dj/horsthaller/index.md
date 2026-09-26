@@ -1,6 +1,6 @@
 # Horst Haller
 
-Horst Haller is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Horst Haller is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Horst Haller is a downtempo and techno artist based in Germany, tracked on soundcheck, with 48 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 6 more. Often billed alongside Ele Luz, Frida Darko and lisa luka. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Horst Haller is a downtempo and techno artist based in Germany, tracked on sound
 
 Ele Luz, Frida Darko, lisa luka
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/horsthaller/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/horsthaller/)*

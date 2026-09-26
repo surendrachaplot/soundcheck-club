@@ -1,14 +1,15 @@
 # fergusmcnally
 
-fergusmcnally is a Electro and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 9 Oct 2026.
+fergusmcnally is a Electro and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 9 Oct 2026.
 
-fergusmcnally is an electro and garage artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Glasgow. Often billed alongside Work Coach, DJ ADHD and DJ CABLECAR. Next up: La Cheetah Club, Glasgow on Fri 9 Oct.
+fergusmcnally is an electro and garage artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Glasgow. Often billed alongside Work Coach, DJ ADHD and DJ CABLECAR. Next up: La Cheetah Club, Glasgow on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | La Cheetah Club | Glasgow |
+| Sat, 24 Oct 2026 | Many Studios | Glasgow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ fergusmcnally is an electro and garage artist based in United Kingdom, tracked o
 
 Work Coach, DJ ADHD, DJ CABLECAR
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fergusmcnally/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fergusmcnally/)*

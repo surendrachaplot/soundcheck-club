@@ -1,18 +1,18 @@
 # Bassjackers
 
-Bassjackers is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club Vinyl, Denver on Fri, 25 Sept 2026.
+Bassjackers is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
-Bassjackers is a house and electro artist based in Netherlands, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Cologne and Denver and 12 more. Often billed alongside Dimitri Vegas & Like Mike, Laidback Luke and Steve Aoki. Next up: Club Vinyl, Denver on Fri 25 Sept.
+Bassjackers is a house and electro artist based in Netherlands, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Cologne and Denver and 12 more. Often billed alongside Dimitri Vegas & Like Mike, Laidback Luke and Steve Aoki. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Club Vinyl | Denver |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 
 ## Recently played
 
+- Club Vinyl, Denver — Fri, 25 Sept 2026
 - Ushuaïa Ibiza, Ibiza — Wed, 9 Sept 2026
 - Ushuaïa Ibiza, Ibiza — Wed, 17 Jun 2026
 - Ushuaïa Ibiza, Ibiza — Wed, 27 May 2026
@@ -20,10 +20,9 @@ Bassjackers is a house and electro artist based in Netherlands, tracked on sound
 - Elektricity, Detroit — Sat, 21 Mar 2026
 - EXPO XXI, Warsaw — Wed, 31 Dec 2025
 - Ushuaïa Ibiza, Ibiza — Wed, 16 Jul 2025
-- Opium Barcelona, Barcelona — Wed, 2 Jul 2025
 
 ## Shares bills with
 
 Dimitri Vegas & Like Mike, Laidback Luke, Steve Aoki
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassjackers/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassjackers/)*

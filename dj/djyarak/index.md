@@ -1,6 +1,6 @@
 # DJ YARAK
 
-DJ YARAK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ://about blank, Berlin on Sat, 17 Oct 2026.
+DJ YARAK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ://about blank, Berlin on Sat, 17 Oct 2026.
 
 DJ YARAK is a techno and trance artist based in Germany, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 14 more. Often billed alongside EliaHaze, EARGASM GOD and Penglord. Next up: ://about blank, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ YARAK is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 EliaHaze, EARGASM GOD, Penglord
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djyarak/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djyarak/)*

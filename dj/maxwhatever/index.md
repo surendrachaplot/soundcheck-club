@@ -1,6 +1,6 @@
 # max whatever
 
-max whatever is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 3 Oct 2026.
+max whatever is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 3 Oct 2026.
 
 max whatever is a techno and house artist based in Ukraine, tracked on soundcheck, with 26 sets logged across Krakow and Warsaw. Often billed alongside Abrew, dj.zamocno and fiedorka. Next up: STK 47 WAREHOUSE, Krakow on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ max whatever is a techno and house artist based in Ukraine, tracked on soundchec
 
 Abrew, dj.zamocno, fiedorka
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwhatever/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwhatever/)*

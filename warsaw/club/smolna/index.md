@@ -1,14 +1,13 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 28 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Smolna: EARGASM GOD Invites" on Fri, 25 Sept 2026.
+Smolna is a music venue in Warsaw with 28 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Smolna: Sam Paganini" on Sat, 26 Sept 2026.
 
-Smolna is a music venue in Warsaw listed on soundcheck. 28 upcoming gigs, with line-ups including Alinka, Âme, Ane and Anetha and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
+Smolna is a music venue in Warsaw listed on soundcheck. 28 upcoming gigs, with line-ups including Alinka, Âme, Anetha and Arude and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Smolna: EARGASM GOD Invites | Ane, Claude Degas, EARGASM GOD |
 | Sat, 26 Sept 2026 | Smolna: Sam Paganini | Drumaddition, Mady, Pascale Voltaire, Robi Lora, Sam Paganini, Santi |
 | Wed, 30 Sept 2026 | HIDEOUT SOCIAL CLUB #25 // DAVE HACO x SLEVTH x BENDINGTIMEANDSPACE |  |
 | Thu, 1 Oct 2026 | SMLИ Thursday x UNDERCONTROL: VIVØ, Aleko, Claude Degas | Claude Degas, VIVØ |
@@ -18,9 +17,10 @@ Smolna is a music venue in Warsaw listed on soundcheck. 28 upcoming gigs, with l
 | Fri, 9 Oct 2026 | Smolna x The X Festival: Kollektiv Turmstrasse, Hraach | CJ Art, Essex, Hraach, Kollektiv Turmstrasse |
 | Sat, 10 Oct 2026 | Smolna: Charlie Sparks, shot by stanley | Charlie Sparks, Pysh, shot by stanley, vitcat (3) |
 | Thu, 15 Oct 2026 | Smolna Tribe: Phao Sanato |  |
+| Fri, 16 Oct 2026 | Smolna: Worakls, Will Spleen, Just2 | CZART, Just2, Worakls, deafcandance |
 
 ## Address
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

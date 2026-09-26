@@ -1,6 +1,6 @@
 # Baldman
 
-Baldman is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+Baldman is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
 Baldman is a techno and house artist based in Spain, tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Madrid and Osaka and 3 more. Often billed alongside Lucient, Axis Mundi and Gala (ES). Next up: Heave Festival, Madrid on Fri 25 Sept.
 
@@ -16,6 +16,7 @@ Baldman is a techno and house artist based in Spain, tracked on soundcheck, with
 
 ## Recently played
 
+- Heave Festival, Madrid — Fri, 25 Sept 2026
 - TBA - LFO.exp, Madrid — Sat, 5 Sept 2026
 - Left Bank, Tbilisi — Fri, 24 Apr 2026
 - Sonnenraum, Berlin — Sat, 18 Apr 2026
@@ -23,10 +24,9 @@ Baldman is a techno and house artist based in Spain, tracked on soundcheck, with
 - Core, Madrid — Fri, 20 Mar 2026
 - LAUT, Barcelona — Sat, 14 Mar 2026
 - Razzmatazz, Barcelona — Sat, 21 Feb 2026
-- Gilda Club, Madrid — Sat, 14 Feb 2026
 
 ## Shares bills with
 
 Lucient, Axis Mundi, Gala (ES)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baldman/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baldman/)*

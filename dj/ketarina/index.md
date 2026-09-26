@@ -1,6 +1,6 @@
 # Ketarina
 
-Ketarina is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Village Underground Lisboa, Lisbon on Sat, 3 Oct 2026.
+Ketarina is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Village Underground Lisboa, Lisbon on Sat, 3 Oct 2026.
 
 Ketarina is a techno and hardcore artist based in Portugal, tracked on soundcheck, with 109 sets logged across Barcelona, Basel, Berlin and Lisbon and 5 more. Often billed alongside Taxsh, Madson Carpenter and Schusta. Next up: Village Underground Lisboa, Lisbon on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Ketarina is a techno and hardcore artist based in Portugal, tracked on soundchec
 
 Taxsh, Madson Carpenter, Schusta
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ketarina/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ketarina/)*

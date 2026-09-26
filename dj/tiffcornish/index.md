@@ -1,6 +1,6 @@
 # Tiff Cornish
 
-Tiff Cornish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+Tiff Cornish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
 Tiff Cornish is a house and techno artist tracked on soundcheck, with 28 sets logged across Brisbane, Hobart, Melbourne and Sydney and 1 more. Often billed alongside KELLY TEE, Boogs and Airwolf Paradise. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Tiff Cornish is a house and techno artist tracked on soundcheck, with 28 sets lo
 
 KELLY TEE, Boogs, Airwolf Paradise
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffcornish/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffcornish/)*

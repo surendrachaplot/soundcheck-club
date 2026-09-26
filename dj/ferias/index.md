@@ -1,6 +1,6 @@
 # Ferias
 
-Ferias is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Near Villeray, Montreal on Sat, 26 Sept 2026.
+Ferias is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Near Villeray, Montreal on Sat, 26 Sept 2026.
 
 Ferias is a house and disco artist based in Canada, tracked on soundcheck, with 32 sets logged across Detroit, Montreal, New York City and San Francisco/Oakland. Often billed alongside Guthrie, Alina (MTL) and Andie. Next up: TBA - Near Villeray, Montreal on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Ferias is a house and disco artist based in Canada, tracked on soundcheck, with 
 
 Guthrie, Alina (MTL), Andie
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferias/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferias/)*

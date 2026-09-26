@@ -1,6 +1,6 @@
 # Colliding Pins
 
-Colliding Pins is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The High Dive, Detroit on Fri, 2 Oct 2026.
+Colliding Pins is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The High Dive, Detroit on Fri, 2 Oct 2026.
 
 Colliding Pins is a techno and experimental artist based in United States of America, tracked on soundcheck, with 19 sets logged across Detroit. Often billed alongside Nick Burgess, madeofants and DykeChow. Next up: The High Dive, Detroit on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Colliding Pins is a techno and experimental artist based in United States of Ame
 
 Nick Burgess, madeofants, DykeChow
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/collidingpins/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/collidingpins/)*

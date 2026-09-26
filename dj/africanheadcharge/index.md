@@ -1,6 +1,6 @@
 # African Head Charge
 
-African Head Charge is a Dub and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Fox and Firkin, London on Sun, 25 Oct 2026.
+African Head Charge is a Dub and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Fox and Firkin, London on Sun, 25 Oct 2026.
 
 African Head Charge is a dub and afrobeat artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Berlin, Edinburgh, Glasgow and Leeds and 6 more. Often billed alongside Marta De Pascalis, PRAED and Perera Elsewhere. Next up: The Fox and Firkin, London on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ African Head Charge is a dub and afrobeat artist based in United Kingdom, tracke
 
 Marta De Pascalis, PRAED, Perera Elsewhere
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/africanheadcharge/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/africanheadcharge/)*

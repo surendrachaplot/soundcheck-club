@@ -1,15 +1,13 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "PÜR Society MERCÈ SPECIAL x BRAM Society @Garage442" on Thu, 24 Sept 2026.
+Garage 442 is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "BARNA DRAK FEST AFTER PARTY" on Sat, 26 Sept 2026.
 
-Garage 442 is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including DJ Alen, KARI (Ø) and NEONKOLA. Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
+Garage 442 is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including DJ Alen. Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | PÜR Society MERCÈ SPECIAL x BRAM Society @Garage442 | KARI (Ø), NEONKOLA |
-| Fri, 25 Sept 2026 | DJ SHARK |  |
 | Sat, 26 Sept 2026 | BARNA DRAK FEST AFTER PARTY |  |
 | Wed, 30 Sept 2026 | Wednesnight with TBA |  |
 | Wed, 7 Oct 2026 | Wednesnight with TBA |  |
@@ -21,4 +19,4 @@ Garage 442 is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, 
 
 Avinguda Diagonal, 442, 08037 Barcelona, Barcelona
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*

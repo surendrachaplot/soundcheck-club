@@ -1,6 +1,6 @@
 # STELLA BOSSI
 
-STELLA BOSSI is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at T7 Paris, Paris on Sat, 10 Oct 2026.
+STELLA BOSSI is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at T7 Paris, Paris on Sat, 10 Oct 2026.
 
 STELLA BOSSI is a techno and house artist based in Germany, tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Anna Tur, Lilly Palmer and Simina Grigoriu. Next up: T7 Paris, Paris on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ STELLA BOSSI is a techno and house artist based in Germany, tracked on soundchec
 
 Anna Tur, Lilly Palmer, Simina Grigoriu
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellabossi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellabossi/)*

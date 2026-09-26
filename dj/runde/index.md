@@ -1,6 +1,6 @@
 # Runde
 
-Runde is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Motel Campo, Geneva on Sat, 3 Oct 2026.
+Runde is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Motel Campo, Geneva on Sat, 3 Oct 2026.
 
 Runde is a techno and house artist tracked on soundcheck, with 3 sets logged across Geneva. Often billed alongside Gioski, SERRATI and Setaoc Mass. Next up: Motel Campo, Geneva on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Runde is a techno and house artist tracked on soundcheck, with 3 sets logged acr
 
 Gioski, SERRATI, Setaoc Mass
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/runde/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/runde/)*

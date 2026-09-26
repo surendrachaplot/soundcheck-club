@@ -1,6 +1,6 @@
 # LAINX
 
-LAINX is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Meteoro, Barcelona on Sat, 26 Sept 2026.
+LAINX is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Meteoro, Barcelona on Sat, 26 Sept 2026.
 
 LAINX is a hardcore and techno artist based in Portugal, tracked on soundcheck, with 24 sets logged across Barcelona, Leeds, Lisbon and Porto. Often billed alongside Ecstasya, C0linas and KÜIÃ. Next up: Meteoro, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ LAINX is a hardcore and techno artist based in Portugal, tracked on soundcheck, 
 
 Ecstasya, C0linas, KÜIÃ
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lainx/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lainx/)*

@@ -1,6 +1,6 @@
 # Nadim
 
-Nadim is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Wendel, Berlin on Sat, 26 Sept 2026.
+Nadim is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Wendel, Berlin on Sat, 26 Sept 2026.
 
 Nadim is a disco and funk / soul artist based in Germany, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 8 more. Often billed alongside ATMEN, JINI and Kurozumi. Next up: Wendel, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nadim is a disco and funk / soul artist based in Germany, tracked on soundcheck,
 
 ATMEN, JINI, Kurozumi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadim/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadim/)*

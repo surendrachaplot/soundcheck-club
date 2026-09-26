@@ -1,6 +1,6 @@
 # DJ Hazard
 
-DJ Hazard is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Expirat Halele Carol, Bucharest on Thu, 5 Nov 2026.
+DJ Hazard is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Expirat Halele Carol, Bucharest on Thu, 5 Nov 2026.
 
 DJ Hazard is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Bangkok, Belfast, Birmingham and Brighton and 11 more. Often billed alongside DJ Hype, IC3 and Dillinja. Next up: Expirat Halele Carol, Bucharest on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ DJ Hazard is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 DJ Hype, IC3, Dillinja
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazard/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazard/)*

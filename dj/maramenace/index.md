@@ -1,6 +1,6 @@
 # Mara Menace
 
-Mara Menace is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tokonoma Club, Frankfurt on Fri, 9 Oct 2026.
+Mara Menace is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tokonoma Club, Frankfurt on Fri, 9 Oct 2026.
 
 Mara Menace is a techno and house artist based in Germany, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 7 more. Often billed alongside Maris Shilton, Sicion and Mathys Lenne. Next up: Tokonoma Club, Frankfurt on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Mara Menace is a techno and house artist based in Germany, tracked on soundcheck
 
 Maris Shilton, Sicion, Mathys Lenne
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maramenace/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maramenace/)*

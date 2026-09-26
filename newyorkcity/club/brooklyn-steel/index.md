@@ -1,6 +1,6 @@
 # Brooklyn Steel
 
-Brooklyn Steel is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Mind Enterprises" on Sat, 10 Oct 2026.
+Brooklyn Steel is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Mind Enterprises" on Sat, 10 Oct 2026.
 
 Brooklyn Steel is a music venue in New York City listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 319 Frost Street, Brooklyn, NY 11222, USA.
 
@@ -14,4 +14,4 @@ Brooklyn Steel is a music venue in New York City listed on soundcheck. 1 upcomin
 
 319 Frost Street, Brooklyn, NY 11222, USA, New York City
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-steel/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-steel/)*

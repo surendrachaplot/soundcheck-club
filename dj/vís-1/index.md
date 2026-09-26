@@ -1,14 +1,15 @@
 # Vís (1)
 
-Vís (1) is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chika-Ikkai, Osaka on Sat, 3 Oct 2026.
+Vís (1) is a Techno and Dub artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Chika-Ikkai, Osaka on Sat, 3 Oct 2026.
 
-Vís is a techno and dub artist based in Japan, tracked on soundcheck, with 128 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Chanaz and E.O.U. Next up: Chika-Ikkai, Osaka on Sat 3 Oct.
+Vís is a techno and dub artist based in Japan, tracked on soundcheck, with 129 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Chanaz and E.O.U. Next up: Chika-Ikkai, Osaka on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Chika-Ikkai | Osaka |
+| Wed, 7 Oct 2026 | West Harlem | Kyoto |
 | Sat, 10 Oct 2026 | Chika-Ikkai | Osaka |
 
 ## Recently played
@@ -26,4 +27,4 @@ Vís is a techno and dub artist based in Japan, tracked on soundcheck, with 128 
 
 Ryogo, Chanaz, E.O.U
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vís-1/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vís-1/)*

@@ -1,6 +1,6 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Brooklyn, New York City on Fri, 2 Oct 2026.
+Samuel Moriero (2) is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Brooklyn, New York City on Fri, 2 Oct 2026.
 
 Samuel Moriero is a techno and trance artist based in Italy, tracked on soundcheck, with 23 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside Onlynumbers, Restricted and KIRSTY. Next up: TBA - Brooklyn, New York City on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Samuel Moriero is a techno and trance artist based in Italy, tracked on soundche
 
 Onlynumbers, Restricted, KIRSTY
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

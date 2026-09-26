@@ -1,6 +1,6 @@
 # vince
 
-vince is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bassiani, Tbilisi on Sat, 24 Oct 2026.
+vince is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bassiani, Tbilisi on Sat, 24 Oct 2026.
 
 vince is a techno and house artist based in Germany, tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Frankfurt and Geneva and 9 more. Often billed alongside Muallem, BASHKKA and Felix Rupprecht. Next up: Bassiani, Tbilisi on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ vince is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Muallem, BASHKKA, Felix Rupprecht
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vince-3/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vince-3/)*

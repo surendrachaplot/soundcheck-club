@@ -1,6 +1,6 @@
 # Mar Bravo
 
-Mar Bravo is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Subcero Club, Madrid on Fri, 9 Oct 2026.
+Mar Bravo is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Subcero Club, Madrid on Fri, 9 Oct 2026.
 
 Mar Bravo is an electronica and house artist based in Spain, tracked on soundcheck, with 17 sets logged across Madrid. Often billed alongside Sazky, Raisa and lebollet. Next up: Subcero Club, Madrid on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mar Bravo is an electronica and house artist based in Spain, tracked on soundche
 
 Sazky, Raisa, lebollet
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marbravo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marbravo/)*

@@ -1,6 +1,6 @@
 # Sev Dah
 
-Sev Dah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NWHR, Montreal on Sat, 7 Nov 2026.
+Sev Dah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at NWHR, Montreal on Sat, 7 Nov 2026.
 
 Sev Dah is a techno and house artist based in Sweden, tracked on soundcheck, with 27 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 13 more. Often billed alongside Ogazón, .Paragon and Beste Hira. Next up: NWHR, Montreal on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sev Dah is a techno and house artist based in Sweden, tracked on soundcheck, wit
 
 Ogazón, .Paragon, Beste Hira
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sevdah/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sevdah/)*

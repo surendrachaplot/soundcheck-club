@@ -1,6 +1,6 @@
 # Leena Punks
 
-Leena Punks is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ministry Of Sound, London on Sat, 24 Oct 2026.
+Leena Punks is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ministry Of Sound, London on Sat, 24 Oct 2026.
 
 Leena Punks is a trance and techno artist based in Greece, tracked on soundcheck, with 55 sets logged across Amsterdam, Austin, Ibiza and Liverpool and 9 more. Often billed alongside Amy Wiles, Ben Hemsley and Mat Zo. Next up: Ministry Of Sound, London on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Leena Punks is a trance and techno artist based in Greece, tracked on soundcheck
 
 Amy Wiles, Ben Hemsley, Mat Zo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leenapunks/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leenapunks/)*

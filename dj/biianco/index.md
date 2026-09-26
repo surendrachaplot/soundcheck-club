@@ -1,15 +1,14 @@
 # BIIANCO
 
-BIIANCO is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bootshaus, Cologne on Fri, 25 Sept 2026.
+BIIANCO is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Ankara on Sat, 3 Oct 2026.
 
-BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Basel and Berlin and 34 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Bootshaus, Cologne on Fri 25 Sept.
+BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 97 sets logged across Amsterdam, Ankara, Antwerp and Basel and 35 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: TBA, Ankara on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Bootshaus | Cologne |
-| Fri, 25 Sept 2026 | Bootshaus | Cologne |
+| Sat, 3 Oct 2026 | TBA | Ankara |
 | Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
 | Fri, 9 Oct 2026 | Chinastraat | Ghent |
 | Fri, 16 Oct 2026 | BASIS | Utrecht |
@@ -20,17 +19,17 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 
 ## Recently played
 
+- Bootshaus, Cologne — Fri, 25 Sept 2026
+- Bootshaus, Cologne — Fri, 25 Sept 2026
 - Echostage, Washington DC — Fri, 11 Sept 2026
 - Industry City, New York City — Sat, 5 Sept 2026
 - Industry City, New York City — Sat, 5 Sept 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Tempelhof Airport, Berlin — Sat, 22 Aug 2026
-- Lofi, Amsterdam — Fri, 7 Aug 2026
-- Burgess Park, London — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Fenrick, Adrian Mills, EMILIJA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*

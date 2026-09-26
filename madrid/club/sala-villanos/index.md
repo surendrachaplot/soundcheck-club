@@ -1,14 +1,13 @@
 # Sala Villanos
 
-Sala Villanos is a music venue in Madrid with 16 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Paquita Gordon + Mena G + Estrella OR" on Fri, 25 Sept 2026.
+Sala Villanos is a music venue in Madrid with 15 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Kraak & Smaak SOUNDSYSTEM + Madame Excuse + Rayko" on Fri, 2 Oct 2026.
 
-Sala Villanos is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, with line-ups including Acid Pauli, Acid Hero, Axel Boman and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
+Sala Villanos is a music venue in Madrid listed on soundcheck. 15 upcoming gigs, with line-ups including Acid Pauli, Acid Hero, Axel Boman and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Paquita Gordon + Mena G + Estrella OR | ESTRELLA OR, Mena G, Paquita Gordon |
 | Fri, 2 Oct 2026 | Kraak & Smaak SOUNDSYSTEM + Madame Excuse + Rayko | Kraak & Smaak, Madame Excuse, Rayko |
 | Sat, 3 Oct 2026 | Tour-Maubourg + Nacho Marco | Nacho Marco, Tour-Maubourg |
 | Fri, 9 Oct 2026 | Dan Shake + Damián Schwartz | Damian Schwartz, Dan Shake |
@@ -18,9 +17,10 @@ Sala Villanos is a music venue in Madrid listed on soundcheck. 16 upcoming gigs,
 | Fri, 6 Nov 2026 | Dave Lee (FKA Joey Negro) + Javi Frias | Dave Lee, Javi Frias |
 | Sat, 7 Nov 2026 | Axel Boman + Acid Hero + Gary | Acid Hero, Axel Boman |
 | Fri, 13 Nov 2026 | Cinthie + Nacho Marco  | Cinthie, Nacho Marco |
+| Sat, 14 Nov 2026 | COEO + Jesús González + Luis Demodé | COEO |
 
 ## Address
 
 C. de Bernardino Obregón, 18, 28012 Madrid, Spain, Madrid
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*

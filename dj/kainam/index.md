@@ -1,6 +1,6 @@
 # Kainam
 
-Kainam is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Void Club, Berlin on Fri, 16 Oct 2026.
+Kainam is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Void Club, Berlin on Fri, 16 Oct 2026.
 
 Kainam is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Bäggy, Wi5dom and Adron (DE). Next up: Void Club, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Kainam is a techno and drum & bass artist based in Germany, tracked on soundchec
 
 Bäggy, Wi5dom, Adron (DE)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kainam/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kainam/)*

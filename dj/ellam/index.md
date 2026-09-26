@@ -1,6 +1,6 @@
 # Ellam
 
-Ellam is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 528 Ibiza, Ibiza on Sun, 27 Sept 2026.
+Ellam is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at 528 Ibiza, Ibiza on Sun, 27 Sept 2026.
 
 Ellam is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Amsterdam, Birmingham, Bristol and Cardiff and 9 more. Often billed alongside Gaskin, Ellia Jaya and L.P. Rhythm. Next up: 528 Ibiza, Ibiza on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Ellam is a house and minimal artist based in United Kingdom, tracked on soundche
 
 Gaskin, Ellia Jaya, L.P. Rhythm
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellam/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellam/)*

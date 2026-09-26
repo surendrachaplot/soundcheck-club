@@ -1,6 +1,6 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Button Factory, Dublin on Sat, 26 Sept 2026.
+Max Cooper is a Techno and Electronica artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Button Factory, Dublin on Sat, 26 Sept 2026.
 
 Max Cooper is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Austin and Barcelona and 49 more. Often billed alongside Actress, Blawan and Logic1000. Next up: Button Factory, Dublin on Sat 26 Sept.
 
@@ -31,4 +31,4 @@ Max Cooper is a techno and electronica artist based in United Kingdom, tracked o
 
 Actress, Blawan, Logic1000
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*

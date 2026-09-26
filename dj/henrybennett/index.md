@@ -1,6 +1,6 @@
 # Henry Bennett
 
-Henry Bennett is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Greyhound, London on Sat, 24 Oct 2026.
+Henry Bennett is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Greyhound, London on Sat, 24 Oct 2026.
 
 Henry Bennett is an electro and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds and London. Often billed alongside Kennedy (UK), Isaac Frost and Oliver Kristian. Next up: The Greyhound, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Henry Bennett is an electro and house artist based in United Kingdom, tracked on
 
 Kennedy (UK), Isaac Frost, Oliver Kristian
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrybennett/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrybennett/)*

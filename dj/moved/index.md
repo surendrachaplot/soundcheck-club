@@ -1,6 +1,6 @@
 # Move D
 
-Move D is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Night Tales, London on Sat, 26 Sept 2026.
+Move D is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Night Tales, London on Sat, 26 Sept 2026.
 
 Move D is a house and techno artist based in Germany, tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Robert Drewek, Prosumer and Discrete Circuit. Next up: Night Tales, London on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Move D is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Robert Drewek, Prosumer, Discrete Circuit
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moved/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moved/)*

@@ -1,6 +1,6 @@
 # Peter Grand
 
-Peter Grand is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location TBA, London on Sat, 26 Sept 2026.
+Peter Grand is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Secret Location TBA, London on Sat, 26 Sept 2026.
 
 Peter Grand is an electro and house artist based in Spain, tracked on soundcheck, with 30 sets logged across Brighton, London and Malaga. Often billed alongside Oren (IT), Yuma (UK) and Azire. Next up: TBA - Secret Location TBA, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Peter Grand is an electro and house artist based in Spain, tracked on soundcheck
 
 Oren (IT), Yuma (UK), Azire
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petergrand/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petergrand/)*

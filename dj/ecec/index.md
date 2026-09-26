@@ -1,6 +1,6 @@
 # ecec
 
-ecec is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Final, Taipei on Sat, 26 Sept 2026.
+ecec is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Final, Taipei on Sat, 26 Sept 2026.
 
 ecec is a techno and house artist based in Japan, tracked on soundcheck, with 182 sets logged across Osaka, Seoul, Taipei and Tokyo and 1 more. Often billed alongside JUN INAGAWA, OKAMOTO REIJI and MoEPiKA. Next up: Final, Taipei on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ ecec is a techno and house artist based in Japan, tracked on soundcheck, with 18
 
 JUN INAGAWA, OKAMOTO REIJI, MoEPiKA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ecec/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ecec/)*

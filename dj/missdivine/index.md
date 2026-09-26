@@ -1,6 +1,6 @@
 # Sam Divine
 
-Sam Divine is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Sam Divine is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Sam Divine is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 176 sets logged across Amsterdam, Auckland, Bali and Barcelona and 38 more. Often billed alongside Low Steppa, Arielle Free and Rio Tashan. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -36,4 +36,4 @@ Sam Divine is a house and tech house artist based in United Kingdom, tracked on 
 
 Low Steppa, Arielle Free, Rio Tashan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*

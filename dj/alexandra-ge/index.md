@@ -1,6 +1,6 @@
 # Alexandra (GE)
 
-Alexandra (GE) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KHIDI, Tbilisi on Fri, 16 Oct 2026.
+Alexandra (GE) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at KHIDI, Tbilisi on Fri, 16 Oct 2026.
 
 Alexandra (GE) is a house and trance artist based in Georgia, tracked on soundcheck, with 29 sets logged across Tbilisi. Often billed alongside Dual Pistols, Gio Shengelia and Giorgi Devadze. Next up: KHIDI, Tbilisi on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Alexandra (GE) is a house and trance artist based in Georgia, tracked on soundch
 
 Dual Pistols, Gio Shengelia, Giorgi Devadze
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandra-ge/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandra-ge/)*

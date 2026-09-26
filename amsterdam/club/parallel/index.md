@@ -1,6 +1,6 @@
 # Parallel
 
-Parallel is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sober Clubbing" on Sun, 27 Sept 2026.
+Parallel is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Sober Clubbing" on Sun, 27 Sept 2026.
 
 Parallel is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Bambii, Chico, Culoe De Song and Dominika Karaszewska and 2 more. Browse upcoming dates, start times and who's playing. Buiksloterweg 5C, 1031 CC Amsterdam.
 
@@ -23,4 +23,4 @@ Parallel is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, w
 
 Buiksloterweg 5C, 1031 CC Amsterdam, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*

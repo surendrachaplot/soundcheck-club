@@ -1,6 +1,6 @@
 # ANNA
 
-ANNA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+ANNA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 ANNA is a techno and house artist based in Brazil, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside DJ Tennis, Vintage Culture and Kevin de Vries. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ ANNA is a techno and house artist based in Brazil, tracked on soundcheck, with 9
 
 DJ Tennis, Vintage Culture, Kevin de Vries
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*

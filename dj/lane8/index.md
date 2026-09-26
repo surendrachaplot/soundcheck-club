@@ -1,6 +1,6 @@
 # Lane 8
 
-Lane 8 is a Deep House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Brooklyn Storehouse, New York City on Sat, 26 Sept 2026.
+Lane 8 is a Deep House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Brooklyn Storehouse, New York City on Sat, 26 Sept 2026.
 
 Lane 8 is a deep house and progressive house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Amsterdam, Austin, Belfast and Berlin and 13 more. Often billed alongside Sultan + Shepard, Kaskade and Yotto. Next up: Brooklyn Storehouse, New York City on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Lane 8 is a deep house and progressive house artist based in United States of Am
 
 Sultan + Shepard, Kaskade, Yotto
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*

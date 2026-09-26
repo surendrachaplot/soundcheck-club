@@ -1,6 +1,6 @@
 # Savanna
 
-Savanna is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Isabel Bar & Club, Madrid on Sat, 26 Sept 2026.
+Savanna is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Isabel Bar & Club, Madrid on Sat, 26 Sept 2026.
 
 Savanna is a house and progressive house artist based in Bolivia, tracked on soundcheck, with 44 sets logged across Barcelona, Madrid and Tokyo. Often billed alongside Tucu (Tucu), Brisa Then and Demattei. Next up: Isabel Bar & Club, Madrid on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Savanna is a house and progressive house artist based in Bolivia, tracked on sou
 
 Tucu (Tucu), Brisa Then, Demattei
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/savanna/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/savanna/)*

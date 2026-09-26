@@ -1,19 +1,19 @@
 # Zerø
 
-Zerø is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Forte Antenne, Rome on Fri, 25 Sept 2026.
+Zerø is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 26 Sept 2026.
 
-Zerø is a house and techno artist based in Italy, tracked on soundcheck, with 77 sets logged across London, Naples, Rome and Tokyo and 1 more. Often billed alongside Fabrizio Sala, Giorgio Gigli and 000vda. Next up: Forte Antenne, Rome on Fri 25 Sept.
+Zerø is a house and techno artist based in Italy, tracked on soundcheck, with 77 sets logged across London, Naples, Rome and Tokyo and 1 more. Often billed alongside Fabrizio Sala, Giorgio Gigli and 000vda. Next up: Q35 WAREHOUSE, Turin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Forte Antenne | Rome |
 | Sat, 26 Sept 2026 | Q35 WAREHOUSE | Turin |
 | Sat, 21 Nov 2026 | E1 | London |
 
 ## Recently played
 
+- Forte Antenne, Rome — Fri, 25 Sept 2026
 - Cieloterra, Rome — Fri, 18 Sept 2026
 - Forte Antenne, Rome — Fri, 11 Sept 2026
 - Forte Antenne, Rome — Fri, 4 Sept 2026
@@ -21,10 +21,9 @@ Zerø is a house and techno artist based in Italy, tracked on soundcheck, with 7
 - Forte Antenne, Rome — Fri, 10 Jul 2026
 - Azimut Club, Turin — Sun, 5 Jul 2026
 - Forte Antenne, Rome — Fri, 26 Jun 2026
-- Forte Antenne, Rome — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Fabrizio Sala, Giorgio Gigli, 000vda
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zer0/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zer0/)*

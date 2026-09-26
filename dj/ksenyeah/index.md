@@ -1,8 +1,8 @@
 # Ksenyeah
 
-Ksenyeah is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at McCarren Park, New York City on Sun, 27 Sept 2026.
+Ksenyeah is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at McCarren Park, New York City on Sun, 27 Sept 2026.
 
-Ksenyeah is a house and deep house artist based in Ukraine, tracked on soundcheck, with 43 sets logged across New York City. Often billed alongside Manguito, Van Der Laan and OBA+FLIP. Next up: McCarren Park, New York City on Sun 27 Sept.
+Ksenyeah is a house and deep house artist based in Ukraine, tracked on soundcheck, with 44 sets logged across New York City. Often billed alongside Manguito, Van Der Laan and OBA+FLIP. Next up: McCarren Park, New York City on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ksenyeah is a house and deep house artist based in Ukraine, tracked on soundchec
 | Sun, 27 Sept 2026 | McCarren Park | New York City |
 | Sat, 10 Oct 2026 | Dead Letter No. 9 | New York City |
 | Sat, 10 Oct 2026 | TBA | New York City |
+| Sat, 10 Oct 2026 | Open Air Club | New York City |
 | Sun, 11 Oct 2026 | Creekside - Under The K Bridge | New York City |
 | Sat, 17 Oct 2026 | Knockdown Center | New York City |
 
@@ -29,4 +30,4 @@ Ksenyeah is a house and deep house artist based in Ukraine, tracked on soundchec
 
 Manguito, Van Der Laan, OBA+FLIP
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ksenyeah/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ksenyeah/)*

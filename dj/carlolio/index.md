@@ -1,6 +1,6 @@
 # Carlo Lio
 
-Carlo Lio is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
+Carlo Lio is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
 
 Carlo Lio is a techno and tech house artist based in Canada, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Boston and Chicago and 11 more. Often billed alongside Nathan Barato, Lexlay and Anthony Attalla. Next up: Oosterbar, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Carlo Lio is a techno and tech house artist based in Canada, tracked on soundche
 
 Nathan Barato, Lexlay, Anthony Attalla
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlolio/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlolio/)*

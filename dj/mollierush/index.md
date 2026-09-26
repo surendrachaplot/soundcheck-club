@@ -1,6 +1,6 @@
 # Mollie Rush
 
-Mollie Rush is a Hardcore and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Trinity Centre, Bristol on Sat, 26 Sept 2026.
+Mollie Rush is a Hardcore and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Trinity Centre, Bristol on Sat, 26 Sept 2026.
 
 Mollie Rush is a hardcore and drum & bass artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Bristol, Edinburgh, Leeds and London and 3 more. Often billed alongside alterum, CBABY and K-Rush. Next up: The Trinity Centre, Bristol on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Mollie Rush is a hardcore and drum & bass artist based in United Kingdom, tracke
 
 alterum, CBABY, K-Rush
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mollierush/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mollierush/)*
