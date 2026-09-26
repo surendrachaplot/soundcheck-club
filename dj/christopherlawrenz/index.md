@@ -1,6 +1,6 @@
 # Christopher Lawrenz
 
-Christopher Lawrenz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Christopher Lawrenz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Christopher Lawrenz is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Greece, Hamburg and Vienna. Often billed alongside Hagel, LAWRENZ and RAFAELO. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Christopher Lawrenz is a techno and house artist based in Germany, tracked on so
 
 Hagel, LAWRENZ, RAFAELO
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherlawrenz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherlawrenz/)*

@@ -1,6 +1,6 @@
 # abel.aiff
 
-abel.aiff is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at ESC, Montreal on Thu, 1 Oct 2026.
+abel.aiff is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ESC, Montreal on Thu, 1 Oct 2026.
 
 abel.aiff is a techno and dub artist based in Canada, tracked on soundcheck, with 9 sets logged across Montreal. Often billed alongside Boomy, CrisseMarqueur and Pretty Privilege. Next up: ESC, Montreal on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ abel.aiff is a techno and dub artist based in Canada, tracked on soundcheck, wit
 
 Boomy, CrisseMarqueur, Pretty Privilege
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abel.aiff/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abel.aiff/)*

@@ -1,6 +1,6 @@
 # ADEZ
 
-ADEZ is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Madam, Amsterdam on Sat, 28 Nov 2026.
+ADEZ is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Madam, Amsterdam on Sat, 28 Nov 2026.
 
 ADEZ is a tech house and house artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Madrid and Rotterdam and 1 more. Often billed alongside Anderdox, andela and Stephen William. Next up: Madam, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ ADEZ is a tech house and house artist based in Netherlands, tracked on soundchec
 
 Anderdox, andela, Stephen William
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adez/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adez/)*

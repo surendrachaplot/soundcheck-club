@@ -1,6 +1,6 @@
 # Donzo
 
-Donzo is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Main Club, Milan on Sat, 3 Oct 2026.
+Donzo is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Main Club, Milan on Sat, 3 Oct 2026.
 
 Donzo is a techno and psytrance artist based in Italy, tracked on soundcheck, with 7 sets logged across Milan. Often billed alongside Flaiv Đarkø, TUROTUNZ and AllaDerivaLontano. Next up: Main Club, Milan on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Donzo is a techno and psytrance artist based in Italy, tracked on soundcheck, wi
 
 Flaiv Đarkø, TUROTUNZ, AllaDerivaLontano
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donzo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donzo/)*

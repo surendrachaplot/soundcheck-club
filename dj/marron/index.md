@@ -1,6 +1,6 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 25 Sept 2026.
+MARRØN is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 25 Sept 2026.
 
 MARRØN is a techno and house artist based in Netherlands, tracked on soundcheck, with 268 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Blasha & Allatt, Rene Wise and Freddy K. Next up: TBA - Los Angeles, Los Angeles on Fri 25 Sept.
 
@@ -9,7 +9,6 @@ MARRØN is a techno and house artist based in Netherlands, tracked on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
-| Fri, 25 Sept 2026 | Smoke & Mirrors | Chicago |
 | Sat, 26 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 2 Oct 2026 | Studio Club Malaga | Malaga |
 | Sun, 4 Oct 2026 | BRET | Amsterdam |
@@ -20,20 +19,21 @@ MARRØN is a techno and house artist based in Netherlands, tracked on soundcheck
 | Sun, 25 Oct 2026 | De Fik Garden | Amsterdam |
 | Fri, 30 Oct 2026 | Sub Club | Glasgow |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 7 Nov 2026 | Universe Athens | Athens |
 
 ## Recently played
 
+- TBA - Los Angeles, Los Angeles — Fri, 25 Sept 2026
+- Smoke & Mirrors, Chicago — Fri, 25 Sept 2026
 - Flash, Washington DC — Sat, 19 Sept 2026
 - TBA - Brooklyn, New York City — Fri, 18 Sept 2026
 - Descent, Boston — Thu, 17 Sept 2026
 - TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - The Bassement, Madrid — Sat, 5 Sept 2026
 - Fuchs2, Prague — Fri, 4 Sept 2026
-- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
-- Tanzhaus West, Frankfurt — Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Blasha & Allatt, Rene Wise, Freddy K
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

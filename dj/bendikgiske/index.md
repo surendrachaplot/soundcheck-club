@@ -1,6 +1,6 @@
 # Bendik Giske
 
-Bendik Giske is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Bendik Giske is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Bendik Giske is an experimental and electronica artist based in Norway, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 14 more. Often billed alongside BADSISTA, Carmen Villain and Daito Manabe. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Bendik Giske is an experimental and electronica artist based in Norway, tracked 
 
 BADSISTA, Carmen Villain, Daito Manabe
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bendikgiske/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bendikgiske/)*

@@ -1,6 +1,6 @@
 # Miggs
 
-Miggs is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Planet Wax, London on Thu, 1 Oct 2026.
+Miggs is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Planet Wax, London on Thu, 1 Oct 2026.
 
 Miggs is a garage and techno artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Birmingham, Brighton, Bristol and Edinburgh and 3 more. Often billed alongside DAIZ, Alien Izz and Amber Rose. Next up: Planet Wax, London on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Miggs is a garage and techno artist based in United Kingdom, tracked on soundche
 
 DAIZ, Alien Izz, Amber Rose
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miggs/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miggs/)*

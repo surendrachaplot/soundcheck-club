@@ -1,6 +1,6 @@
 # Deckneeco
 
-Deckneeco is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at CGM - Club Giovanile Milano, Milan on Sat, 26 Sept 2026.
+Deckneeco is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at CGM - Club Giovanile Milano, Milan on Sat, 26 Sept 2026.
 
 Deckneeco is an electro and techno artist based in Italy, tracked on soundcheck, with 13 sets logged across Milan. Often billed alongside Hi/Fi, Pietro Fantin and Hutchee. Next up: CGM - Club Giovanile Milano, Milan on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Deckneeco is an electro and techno artist based in Italy, tracked on soundcheck,
 
 Hi/Fi, Pietro Fantin, Hutchee
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deckneeco/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deckneeco/)*

@@ -1,6 +1,6 @@
 # HAKEEM (2)
 
-HAKEEM (2) is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Jolene, Copenhagen on Fri, 2 Oct 2026.
+HAKEEM (2) is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Jolene, Copenhagen on Fri, 2 Oct 2026.
 
 HAKEEM is a techno and dub techno artist based in Denmark, tracked on soundcheck, with 23 sets logged across Copenhagen. Often billed alongside Gavnlig, Cirkeline and Fruit. Next up: Jolene, Copenhagen on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ HAKEEM is a techno and dub techno artist based in Denmark, tracked on soundcheck
 
 Gavnlig, Cirkeline, Fruit (1)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hakeem-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hakeem-2/)*

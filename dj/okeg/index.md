@@ -1,8 +1,8 @@
 # OK EG
 
-OK EG is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+OK EG is a Techno and Electronica artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
-OK EG is a techno and electronica artist based in Australia, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Kia (AU), Bambi (FR) and Priori. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
+OK EG is a techno and electronica artist based in Australia, tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Kia (AU), Bambi (FR) and Priori. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ OK EG is a techno and electronica artist based in Australia, tracked on soundche
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
+| Fri, 9 Oct 2026 | The Jama | Toronto |
 | Sat, 17 Oct 2026 | FOLD | London |
 | Thu, 22 Oct 2026 | Loods6 | Amsterdam |
 | Fri, 23 Oct 2026 | Loods6 | Amsterdam |
@@ -29,4 +30,4 @@ OK EG is a techno and electronica artist based in Australia, tracked on soundche
 
 Kia (AU), Bambi (FR), Priori
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*

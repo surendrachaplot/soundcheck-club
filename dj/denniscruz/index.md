@@ -1,6 +1,6 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 26 Sept 2026.
+Dennis Cruz is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 26 Sept 2026.
 
 Dennis Cruz is a tech house and house artist based in Spain, tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: Blackstone Street Warehouse, Liverpool on Sat 26 Sept.
 
@@ -35,4 +35,4 @@ Dennis Cruz is a tech house and house artist based in Spain, tracked on soundche
 
 PAWSA, Marco Carola, ANOTR
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

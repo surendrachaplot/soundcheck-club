@@ -1,14 +1,13 @@
 # Cashu
 
-Cashu is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
+Cashu is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 26 Sept 2026.
 
-Cashu is a techno and house artist based in Brazil, tracked on soundcheck, with 152 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside BADSISTA, RHR and Alírio. Next up: The San Francisco Mint, San Francisco/Oakland on Fri 25 Sept.
+Cashu is a techno and house artist based in Brazil, tracked on soundcheck, with 152 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside BADSISTA, RHR and Alírio. Next up: YuYu Cine Club, Mexico City on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | The San Francisco Mint | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | YuYu Cine Club | Mexico City |
 | Sat, 26 Sept 2026 | Casa Grande | Mexico City |
 | Sun, 11 Oct 2026 | Komplexo Tempo | Sao Paulo |
@@ -18,6 +17,7 @@ Cashu is a techno and house artist based in Brazil, tracked on soundcheck, with 
 
 ## Recently played
 
+- The San Francisco Mint, San Francisco/Oakland — Fri, 25 Sept 2026
 - Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Elsewhere, New York City — Fri, 11 Sept 2026
 - Crono Club, Sao Paulo — Sat, 22 Aug 2026
@@ -25,10 +25,9 @@ Cashu is a techno and house artist based in Brazil, tracked on soundcheck, with 
 - OXI, Berlin — Fri, 24 Jul 2026
 - Panke, Berlin — Sat, 18 Jul 2026
 - El Pumarejo Barcelona, Barcelona — Sat, 11 Jul 2026
-- RADION, Amsterdam — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 BADSISTA, RHR, Alírio
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*

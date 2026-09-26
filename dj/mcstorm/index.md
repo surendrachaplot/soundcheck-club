@@ -1,6 +1,6 @@
 # MC Storm
 
-MC Storm is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
+MC Storm is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
 
 MC Storm is a hardcore and club artist tracked on soundcheck, with 9 sets logged across Glasgow, Liverpool, Manchester and Newcastle and 1 more. Often billed alongside Klubfiller, Andy Whitby and Hixxy. Next up: The Cambridge Junction, South East on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ MC Storm is a hardcore and club artist tracked on soundcheck, with 9 sets logged
 
 Klubfiller, Andy Whitby, Hixxy
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcstorm/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcstorm/)*

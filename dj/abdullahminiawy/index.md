@@ -1,6 +1,6 @@
 # Abdullah Miniawy
 
-Abdullah Miniawy is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Voce - Triennale, Milan on Sun, 27 Sept 2026.
+Abdullah Miniawy is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Voce - Triennale, Milan on Sun, 27 Sept 2026.
 
 Abdullah Miniawy is an experimental and techno artist based in Egypt, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 13 more. Often billed alongside Simo Cell, Loto Retina and Moin. Next up: Voce - Triennale, Milan on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Abdullah Miniawy is an experimental and techno artist based in Egypt, tracked on
 
 Simo Cell, Loto Retina, Moin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdullahminiawy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdullahminiawy/)*

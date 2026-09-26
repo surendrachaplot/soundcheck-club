@@ -1,17 +1,17 @@
 # Casa Jako
 
-Casa Jako is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "LONDON TECHNO NIGHT" on Sat, 26 Sept 2026.
+Casa Jako is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "LONDON TECHNO NIGHT" on Sat, 26 Sept 2026.
 
-Casa Jako is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Monnay, Vortex (BR) and whatlewisdoes. Browse upcoming dates, start times and who's playing. 29-30 Alliance House High Holborn London WC1V 6AZ, England.
+Casa Jako is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Monnay, Vortex (BR), whatlewisdoes and Y // SHH. Browse upcoming dates, start times and who's playing. 29-30 Alliance House High Holborn London WC1V 6AZ, England.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | LONDON TECHNO NIGHT | Monnay, Vortex (BR), whatlewisdoes |
+| Sat, 26 Sept 2026 | LONDON TECHNO NIGHT | Monnay, Vortex (BR), Y // SHH, whatlewisdoes |
 
 ## Address
 
 29-30 Alliance House High Holborn London WC1V 6AZ, England, London
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/casa-jako/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/casa-jako/)*

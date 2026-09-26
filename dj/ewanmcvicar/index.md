@@ -1,14 +1,13 @@
 # Ewan McVicar
 
-Ewan McVicar is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 25 Sept 2026.
+Ewan McVicar is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 2 Oct 2026.
 
-Ewan McVicar is a house and techno artist based in United Kingdom, tracked on soundcheck, with 178 sets logged across Amsterdam, Athens, Barcelona and Belfast and 40 more. Often billed alongside Special Request, Dom Dolla and Overmono. Next up: Hï Ibiza, Ibiza on Fri 25 Sept.
+Ewan McVicar is a house and techno artist based in United Kingdom, tracked on soundcheck, with 178 sets logged across Amsterdam, Athens, Barcelona and Belfast and 40 more. Often billed alongside Special Request, Dom Dolla and Overmono. Next up: Hï Ibiza, Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Hï Ibiza | Ibiza |
 | Tue, 6 Oct 2026 | Hï Ibiza | Ibiza |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
@@ -23,6 +22,7 @@ Ewan McVicar is a house and techno artist based in United Kingdom, tracked on so
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Fri, 25 Sept 2026
 - Hï Ibiza, Ibiza — Fri, 18 Sept 2026
 - Index, Dublin — Sat, 12 Sept 2026
 - Hï Ibiza, Ibiza — Fri, 11 Sept 2026
@@ -30,10 +30,9 @@ Ewan McVicar is a house and techno artist based in United Kingdom, tracked on so
 - Hï Ibiza, Ibiza — Fri, 4 Sept 2026
 - Hï Ibiza, Ibiza — Fri, 28 Aug 2026
 - Mia Mao, Paris — Sat, 22 Aug 2026
-- Hï Ibiza, Ibiza — Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Special Request, Dom Dolla, Overmono
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*

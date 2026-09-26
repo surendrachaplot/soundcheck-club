@@ -1,6 +1,6 @@
 # Aquabeat 01
 
-Aquabeat 01 is a music venue in Hong Kong with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Intercell Hong Kong 2026" on Sun, 22 Nov 2026.
+Aquabeat 01 is a music venue in Hong Kong with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Intercell Hong Kong 2026" on Sun, 22 Nov 2026.
 
 Aquabeat 01 is a music venue in Hong Kong listed on soundcheck. 1 upcoming gig, with line-ups including Effy, Mall Grab, Osmosis Jones and Skin On Skin. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Aquabeat 01 is a music venue in Hong Kong listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Intercell Hong Kong 2026 | Effy, Mall Grab, Osmosis Jones, Skin On Skin |
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/aquabeat-01/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/aquabeat-01/)*

@@ -1,6 +1,6 @@
 # The Cafe
 
-The Cafe is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "QUEEN OUT in the Castro — UNiiQU3, Azure, 4dhila, MAMA SAN" on Thu, 15 Oct 2026.
+The Cafe is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "QUEEN OUT in the Castro — UNiiQU3, Azure, 4dhila, MAMA SAN" on Thu, 15 Oct 2026.
 
 The Cafe is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Azure, MAMA SAN and UNiiQU3. Browse upcoming dates, start times and who's playing. 2369 Market St, San Francisco, CA 94114.
 
@@ -14,4 +14,4 @@ The Cafe is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcom
 
 2369 Market St, San Francisco, CA 94114, San Francisco/Oakland
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-cafe/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-cafe/)*

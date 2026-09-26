@@ -1,6 +1,6 @@
 # DevilDoll
 
-DevilDoll is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 24 Sept 2026.
+DevilDoll is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 24 Sept 2026.
 
 DevilDoll is a tech house and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across San Francisco/Oakland. Often billed alongside DJ KIRILL, YUKA YU and Alkemiss Erika. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ DevilDoll is a tech house and house artist based in United States of America, tr
 
 DJ KIRILL, YUKA YU, Alkemiss Erika
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devildoll/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devildoll/)*

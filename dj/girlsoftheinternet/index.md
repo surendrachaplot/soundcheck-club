@@ -1,14 +1,13 @@
 # Girls of the Internet
 
-Girls of the Internet is a Disco and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Select FM London, Los Angeles on Fri, 25 Sept 2026.
+Girls of the Internet is a Disco and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Fabwick, London on Sat, 26 Sept 2026.
 
-Girls of the Internet is a disco and house artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Bangkok, Berlin and Brighton and 15 more. Often billed alongside James Alexander Bright, The Shapeshifters and Melvo Baptiste. Next up: TBA - Select FM London, Los Angeles on Fri 25 Sept.
+Girls of the Internet is a disco and house artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Bangkok, Berlin and Brighton and 15 more. Often billed alongside James Alexander Bright, The Shapeshifters and Melvo Baptiste. Next up: Fabwick, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TBA - Select FM London | Los Angeles |
 | Sat, 26 Sept 2026 | Fabwick | London |
 | Thu, 8 Oct 2026 | The Sound House | Dublin |
 | Thu, 15 Oct 2026 | Kantine am Berghain | Berlin |
@@ -21,6 +20,7 @@ Girls of the Internet is a disco and house artist based in United Kingdom, track
 
 ## Recently played
 
+- TBA - Select FM London, Los Angeles — Fri, 25 Sept 2026
 - TBA - address sent to all ticket holders , London — Thu, 23 Jul 2026
 - The Glove That Fits, London — Sat, 4 Jul 2026
 - Next Door Records Two, London — Thu, 2 Jul 2026
@@ -28,10 +28,9 @@ Girls of the Internet is a disco and house artist based in United Kingdom, track
 - Miradouro de Baixo, Lisbon — Sat, 9 May 2026
 - Truman Brewery Multiple Venues, London — Sat, 25 Apr 2026
 - Basement, Amsterdam — Fri, 24 Apr 2026
-- The Midway, San Francisco/Oakland — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 James Alexander Bright, The Shapeshifters, Melvo Baptiste
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsoftheinternet/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsoftheinternet/)*

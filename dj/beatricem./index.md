@@ -1,6 +1,6 @@
 # Beatrice M.
 
-Beatrice M. is a Dubstep and Bass artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Beatrice M. is a Dubstep and Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Beatrice M. is a dubstep and bass artist based in France, tracked on soundcheck, with 125 sets logged across Amsterdam, Berlin, Brighton and Bristol and 28 more. Often billed alongside Tim Reaper, EMA and Mia Koden. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Beatrice M. is a dubstep and bass artist based in France, tracked on soundcheck,
 
 Tim Reaper, EMA (1), Mia Koden
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*

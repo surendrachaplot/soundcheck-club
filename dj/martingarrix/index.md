@@ -1,6 +1,6 @@
 # Martin Garrix
 
-Martin Garrix is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Rhythm Park, Thailand on Fri, 18 Dec 2026.
+Martin Garrix is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Rhythm Park, Thailand on Fri, 18 Dec 2026.
 
 Martin Garrix is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 79 sets logged across Amsterdam, Austin, Boston and Budapest and 15 more. Often billed alongside Miss Monique, Afrojack and Artbat. Next up: TBA - Rhythm Park, Thailand on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Martin Garrix is a house and progressive house artist based in Netherlands, trac
 
 Miss Monique, Afrojack, Artbat
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martingarrix/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martingarrix/)*

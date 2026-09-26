@@ -1,6 +1,6 @@
 # Lab 11
 
-Lab 11 is a music venue in Birmingham with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "FMS 6 Deck - Birmingham" on Fri, 2 Oct 2026.
+Lab 11 is a music venue in Birmingham with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "FMS 6 Deck - Birmingham" on Fri, 2 Oct 2026.
 
 Lab 11 is a music venue in Birmingham listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Trent St, Birmingham B5 5NL.
 
@@ -14,4 +14,4 @@ Lab 11 is a music venue in Birmingham listed on soundcheck. 1 upcoming gig. Brow
 
 Trent St, Birmingham B5 5NL, Birmingham
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab-11/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab-11/)*

@@ -1,6 +1,6 @@
 # KAITO (5)
 
-KAITO (5) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Tide Tokyo, Tokyo on Sat, 26 Sept 2026.
+KAITO (5) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tide Tokyo, Tokyo on Sat, 26 Sept 2026.
 
 KAITO is a techno and industrial artist based in Japan, tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside DALJAE, KATSU and CHIKA. Next up: Tide Tokyo, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ KAITO is a techno and industrial artist based in Japan, tracked on soundcheck, w
 
 DALJAE, KATSU (2), CHIKA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito-5/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito-5/)*

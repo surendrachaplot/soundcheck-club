@@ -1,6 +1,6 @@
 # Scholli SECCO DAY CLUB - Day & Night Special at Lieberscholli
 
-Scholli SECCO DAY CLUB - Day & Night Special at Lieberscholli on Sat 10 Oct, Munich. 7 artists on the bill: diladï, FLAVE, Kolja Broxi and Louisianaha and 3 more. Techno and Downtempo. Preview the line-up and save it on soundcheck.
+Scholli SECCO DAY CLUB - Day & Night Special at Lieberscholli on Sat 10 Oct, Munich. 8 artists on the bill: diladï, FLAVE, Kolja Broxi and Louisianaha and 4 more. Techno and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Scholli SECCO DAY CLUB - Day & Night Special at Lieberscholli on Sat 10 Oct, Mun
 - FLAVE
 - Kolja Broxi
 - Louisianaha
+- maxim_jl
 - SAHARA
 - Taberia
 - VTZN

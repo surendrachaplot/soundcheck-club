@@ -1,6 +1,6 @@
 # Ooba Camping Village
 
-Ooba Camping Village is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "INTERGALACTIC: PLANETFALL" on Fri, 16 Oct 2026.
+Ooba Camping Village is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "INTERGALACTIC: PLANETFALL" on Fri, 16 Oct 2026.
 
 Ooba Camping Village is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 3741 Oguno, Hinode, Nishitama District, Tokyo, Tokyo 190-0181, Japan.
 
@@ -14,4 +14,4 @@ Ooba Camping Village is a music venue in Tokyo listed on soundcheck. 1 upcoming 
 
 3741 Oguno, Hinode, Nishitama District, Tokyo, Tokyo 190-0181, Japan, Tokyo
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/ooba-camping-village/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/ooba-camping-village/)*

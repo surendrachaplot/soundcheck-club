@@ -1,6 +1,6 @@
 # Naama
 
-Naama is a Club and New Wave artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
+Naama is a Club and New Wave artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
 Naama is a club and new wave artist based in Israel, tracked on soundcheck, with 16 sets logged across Hamburg and Rotterdam. Often billed alongside Shimmy Robin, UNZHA and cmp. Next up: Südpol, Hamburg on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Naama is a club and new wave artist based in Israel, tracked on soundcheck, with
 
 Shimmy Robin, UNZHA, cmp (1)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naama/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naama/)*

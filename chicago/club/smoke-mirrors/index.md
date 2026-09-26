@@ -1,14 +1,13 @@
 # Smoke & Mirrors
 
-Smoke & Mirrors is a music venue in Chicago with 11 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "MARRØN" on Fri, 25 Sept 2026.
+Smoke & Mirrors is a music venue in Chicago with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Loukeman" on Thu, 1 Oct 2026.
 
-Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 11 upcoming gigs, with line-ups including 6 SENSE, Coffintexts, Demi Riquisimo and Denham Audio and 2 more. Browse upcoming dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
+Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 10 upcoming gigs, with line-ups including 6 SENSE, Coffintexts, Demi Riquisimo and Denham Audio and 2 more. Browse upcoming dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | MARRØN | KIMBÄ, MARRØN, operator |
 | Thu, 1 Oct 2026 | Loukeman | Loukeman |
 | Fri, 2 Oct 2026 | Willo | Willo |
 | Sat, 3 Oct 2026 | Coffintexts B2B x3butterfly | Coffintexts, dysphazia, x3butterfly |
@@ -18,9 +17,10 @@ Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 11 upcoming gi
 | Sat, 17 Oct 2026 | SEMI DELICIOUS: DEMI RIQUÍSIMO | Demi Riquisimo, Dilon Karim, Subb-an |
 | Sat, 7 Nov 2026 | IDEMI | IDEMI |
 | Fri, 13 Nov 2026 | 6 SENSE | 6 SENSE |
+| Fri, 11 Dec 2026 | Denham Audio | Denham Audio |
 
 ## Address
 
 2045 N Milwaukee Ave, Chicago, IL 60647, Chicago
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*

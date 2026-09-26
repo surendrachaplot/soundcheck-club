@@ -1,6 +1,6 @@
 # Fahlberg
 
-Fahlberg is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Music Box, San Diego on Sun, 27 Sept 2026.
+Fahlberg is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Music Box, San Diego on Sun, 27 Sept 2026.
 
 Fahlberg is an afro house and house artist based in Sweden, tracked on soundcheck, with 33 sets logged across Amsterdam, Austin, Berlin and Brussels and 17 more. Often billed alongside Chris Luno, Elderbrook and Mathame. Next up: Music Box, San Diego on Sun 27 Sept.
 
@@ -29,4 +29,4 @@ Fahlberg is an afro house and house artist based in Sweden, tracked on soundchec
 
 Chris Luno, Elderbrook, Mathame
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*

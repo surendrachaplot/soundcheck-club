@@ -1,6 +1,6 @@
 # Ben Nott
 
-Ben Nott is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Desa Kitsuné, Indonesia on Sat, 26 Sept 2026.
+Ben Nott is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Desa Kitsuné, Indonesia on Sat, 26 Sept 2026.
 
 Ben Nott is a house and deep house artist tracked on soundcheck, with 58 sets logged across Bali, Indonesia, Melbourne and Sydney. Often billed alongside Cassette, Lucca Tan and OLIIV. Next up: Desa Kitsuné, Indonesia on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ben Nott is a house and deep house artist tracked on soundcheck, with 58 sets lo
 
 Cassette, Lucca Tan, OLIIV
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennott/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennott/)*

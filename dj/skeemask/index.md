@@ -1,6 +1,6 @@
 # Skee Mask
 
-Skee Mask is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at St. Bartholomew's Church, New York City on Sat, 26 Sept 2026.
+Skee Mask is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at St. Bartholomew's Church, New York City on Sat, 26 Sept 2026.
 
 Skee Mask is a techno and bass artist based in Germany, tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside Zenker Brothers, DjRUM and Mia Koden. Next up: St. Bartholomew's Church, New York City on Sat 26 Sept.
 
@@ -32,4 +32,4 @@ Skee Mask is a techno and bass artist based in Germany, tracked on soundcheck, w
 
 Zenker Brothers, DjRUM, Mia Koden
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skeemask/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skeemask/)*

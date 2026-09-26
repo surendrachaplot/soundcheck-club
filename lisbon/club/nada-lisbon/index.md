@@ -1,6 +1,6 @@
 # NADA Lisbon
 
-NADA Lisbon is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "DU/ART BDAY BASH" on Sat, 26 Sept 2026.
+NADA Lisbon is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "DU/ART BDAY BASH" on Sat, 26 Sept 2026.
 
 NADA Lisbon is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, with line-ups including A.Paul, CRAVO, Chich and DJ Link and 2 more. Browse upcoming dates, start times and who's playing. R. Ary dos Santos 3, Armazém 6, 2685-312 Prior Velho - lisbon portugal.
 
@@ -17,4 +17,4 @@ NADA Lisbon is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, wi
 
 R. Ary dos Santos 3, Armazém 6, 2685-312 Prior Velho - lisbon portugal, Lisbon
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/nada-lisbon/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/nada-lisbon/)*

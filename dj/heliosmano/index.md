@@ -1,6 +1,6 @@
 # Helios Manoeuvres
 
-Helios Manoeuvres is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Greyhound, London on Sat, 31 Oct 2026.
+Helios Manoeuvres is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Greyhound, London on Sat, 31 Oct 2026.
 
 Helios Manoeuvres is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London. Often billed alongside A.L.F, FITS ME FUNNY and biscous. Next up: The Greyhound, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Helios Manoeuvres is a house and tech house artist based in United Kingdom, trac
 
 A.L.F, FITS ME FUNNY, biscous
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heliosmano/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heliosmano/)*

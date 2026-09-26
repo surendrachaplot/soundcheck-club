@@ -1,6 +1,6 @@
 # Charli XCX
 
-Charli XCX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Labüsch-Bar, Winterthur, Zurich on Sat, 26 Sept 2026.
+Charli XCX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Labüsch-Bar, Winterthur, Zurich on Sat, 26 Sept 2026.
 
 Charli XCX is a house and techno artist tracked on soundcheck, with 13 sets logged across Auckland, Barcelona, Budapest and Helsinki and 6 more. Often billed alongside Bicep, FKA twigs and Amelie Lens. Next up: Labüsch-Bar, Winterthur, Zurich on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Charli XCX is a house and techno artist tracked on soundcheck, with 13 sets logg
 
 Bicep, FKA twigs, Amelie Lens
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlixcx/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlixcx/)*

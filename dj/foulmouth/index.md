@@ -1,6 +1,6 @@
 # FOULMOUTH
 
-FOULMOUTH is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Bag Factory, Manchester on Fri, 2 Oct 2026.
+FOULMOUTH is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Bag Factory, Manchester on Fri, 2 Oct 2026.
 
 FOULMOUTH is a hardcore and trance artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Leeds and Manchester. Often billed alongside Anop, FKA Hardcore and Princess Elf Bar. Next up: The Bag Factory, Manchester on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ FOULMOUTH is a hardcore and trance artist based in United Kingdom, tracked on so
 
 Anop, FKA Hardcore, Princess Elf Bar
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foulmouth/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foulmouth/)*

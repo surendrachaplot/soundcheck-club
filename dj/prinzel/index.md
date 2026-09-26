@@ -1,6 +1,6 @@
 # Prinzel
 
-Prinzel is a Dub Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at La Cheetah Club, Glasgow on Sat, 24 Oct 2026.
+Prinzel is a Dub Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at La Cheetah Club, Glasgow on Sat, 24 Oct 2026.
 
 Prinzel is a dub techno and progressive house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Edinburgh and Glasgow. Often billed alongside MØNTY, Bash Man and Corran. Next up: La Cheetah Club, Glasgow on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Prinzel is a dub techno and progressive house artist based in United Kingdom, tr
 
 MØNTY, Bash Man, Corran
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prinzel/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prinzel/)*

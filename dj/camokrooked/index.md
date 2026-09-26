@@ -1,6 +1,6 @@
 # Camo & Krooked
 
-Camo & Krooked is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Eatons Hill Hotel and Function Centre, Brisbane on Sat, 26 Sept 2026.
+Camo & Krooked is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Eatons Hill Hotel and Function Centre, Brisbane on Sat, 26 Sept 2026.
 
 Camo & Krooked are a drum & bass and jungle duo based in Austria, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: Eatons Hill Hotel and Function Centre, Brisbane on Sat 26 Sept.
 
@@ -32,4 +32,4 @@ Camo & Krooked are a drum & bass and jungle duo based in Austria, tracked on sou
 
 Mefjus, Disrupta, Kanine
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*

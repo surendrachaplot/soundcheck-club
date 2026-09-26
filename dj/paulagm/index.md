@@ -1,14 +1,15 @@
 # PAULA GM
 
-PAULA GM is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
+PAULA GM is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
 
-PAULA GM is a house and electro artist based in Spain, tracked on soundcheck, with 77 sets logged across Barcelona, Dublin and Madrid. Often billed alongside FRAXA, PILAR MOLINERO and PABLO MANY. Next up: La Terrrazza, Barcelona on Sat 3 Oct.
+PAULA GM is a house and electro artist based in Spain, tracked on soundcheck, with 78 sets logged across Barcelona, Dublin and Madrid. Often billed alongside FRAXA, PILAR MOLINERO and PABLO MANY. Next up: La Terrrazza, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | La Terrrazza | Barcelona |
+| Fri, 9 Oct 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ PAULA GM is a house and electro artist based in Spain, tracked on soundcheck, wi
 
 FRAXA, PILAR MOLINERO, PABLO MANY
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulagm/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulagm/)*

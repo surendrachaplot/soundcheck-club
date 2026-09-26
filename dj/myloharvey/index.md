@@ -1,6 +1,6 @@
 # Mylo Harvey
 
-Mylo Harvey is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Amber's, Manchester on Sat, 24 Oct 2026.
+Mylo Harvey is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Amber's, Manchester on Sat, 24 Oct 2026.
 
 Mylo Harvey is a house and disco artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Brighton, London, Manchester and Nottingham. Often billed alongside Chenzo, Acuña Collective and Kojay. Next up: Amber's, Manchester on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Mylo Harvey is a house and disco artist based in United Kingdom, tracked on soun
 
 Chenzo, Acuña Collective, Kojay
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myloharvey/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myloharvey/)*

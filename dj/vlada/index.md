@@ -1,6 +1,6 @@
 # Vlada
 
-Vlada is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Vlada is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Vlada is a techno and house artist based in Russia, tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 51 more. Often billed alongside Vaahzer, Konduku and Kia (AU). Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -30,4 +30,4 @@ Vlada is a techno and house artist based in Russia, tracked on soundcheck, with 
 
 Vaahzer, Konduku, Kia (AU)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*

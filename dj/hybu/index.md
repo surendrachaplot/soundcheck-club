@@ -1,6 +1,6 @@
 # Hybu
 
-Hybu is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Le Pop-Up du Label, Paris on Fri, 2 Oct 2026.
+Hybu is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Le Pop-Up du Label, Paris on Fri, 2 Oct 2026.
 
 Hybu is a garage and bass artist based in France, tracked on soundcheck, with 13 sets logged across Paris. Often billed alongside Simoncello, Bakey and MaelCobb. Next up: Le Pop-Up du Label, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Hybu is a garage and bass artist based in France, tracked on soundcheck, with 13
 
 Simoncello, Bakey, MaelCobb
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hybu/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hybu/)*

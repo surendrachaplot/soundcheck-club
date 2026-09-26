@@ -1,8 +1,8 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Jamback is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-Jamback is a house and tech house artist based in Netherlands, tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 39 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+Jamback is a house and tech house artist based in Netherlands, tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 39 more. Often billed alongside East End Dubs, Marsolo and Kolter. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Jamback is a house and tech house artist based in Netherlands, tracked on soundc
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 11 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 16 Oct 2026 | NX Newcastle | Newcastle |
+| Sat, 17 Oct 2026 | Depot | Cardiff |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 30 Oct 2026 | Art Club | Houston |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
 | Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
-| Sat, 7 Nov 2026 | Amber's | Manchester |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Jamback is a house and tech house artist based in Netherlands, tracked on soundc
 
 ## Shares bills with
 
-East End Dubs, Marsolo, Rossi
+East End Dubs, Marsolo, Kolter
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

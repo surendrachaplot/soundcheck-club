@@ -1,6 +1,6 @@
 # DJ Gordon
 
-DJ Gordon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at OIL Club, Shenzhen on Sun, 4 Oct 2026.
+DJ Gordon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at OIL Club, Shenzhen on Sun, 4 Oct 2026.
 
 DJ Gordon is a techno and house artist based in China, tracked on soundcheck, with 27 sets logged across Hong Kong, Shenzhen and Tokyo. Often billed alongside Zarah, Dan-neo and Finsent C. Next up: OIL Club, Shenzhen on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ DJ Gordon is a techno and house artist based in China, tracked on soundcheck, wi
 
 Zarah, Dan-neo, Finsent C
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgordon/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgordon/)*

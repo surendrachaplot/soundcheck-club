@@ -1,6 +1,6 @@
 # lesbiannette
 
-lesbiannette is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at LFO.exp, Madrid on Fri, 9 Oct 2026.
+lesbiannette is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at LFO.exp, Madrid on Fri, 9 Oct 2026.
 
 lesbiannette is a techno and electronica artist based in Puerto Rico, tracked on soundcheck, with 9 sets logged across Madrid. Often billed alongside FUKCNORMAL, BADSISTA and Wurmk. Next up: LFO.exp, Madrid on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ lesbiannette is a techno and electronica artist based in Puerto Rico, tracked on
 
 FUKCNORMAL, BADSISTA, Wurmk
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lesbiannette/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lesbiannette/)*

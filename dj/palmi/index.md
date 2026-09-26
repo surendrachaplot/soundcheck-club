@@ -1,6 +1,6 @@
 # Palmi
 
-Palmi is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Departamento, Mexico City on Wed, 23 Sept 2026.
+Palmi is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Departamento, Mexico City on Wed, 23 Sept 2026.
 
 Palmi is a house and electronica artist tracked on soundcheck, with 28 sets logged across Mexico City, Paris and Vienna. Often billed alongside papa jazz, Soos and Barreto. Next up: Departamento, Mexico City on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Palmi is a house and electronica artist tracked on soundcheck, with 28 sets logg
 
 papa jazz, Soos, Barreto
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/palmi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/palmi/)*

@@ -1,6 +1,6 @@
 # Eats Everything
 
-Eats Everything is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Gloria's Liverpool, Liverpool on Sat, 26 Sept 2026.
+Eats Everything is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Gloria's Liverpool, Liverpool on Sat, 26 Sept 2026.
 
 Eats Everything is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 178 sets logged across Amsterdam, Bali, Barcelona and Belfast and 32 more. Often billed alongside EATS, Sam Divine and Melé. Next up: TBA - Gloria's Liverpool, Liverpool on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Eats Everything is a house and tech house artist based in United Kingdom, tracke
 
 EATS, Sam Divine, Melé
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eatseverything/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eatseverything/)*

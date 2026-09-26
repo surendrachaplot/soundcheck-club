@@ -1,6 +1,6 @@
 # Charlie
 
-Charlie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Edelfettwerk, Hamburg on Fri, 16 Oct 2026.
+Charlie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Edelfettwerk, Hamburg on Fri, 16 Oct 2026.
 
 Charlie is a techno and house artist based in Poland, tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 23 more. Often billed alongside Marsman, Priku and Arapu. Next up: Edelfettwerk, Hamburg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Charlie is a techno and house artist based in Poland, tracked on soundcheck, wit
 
 Marsman, Priku, Arapu
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie/)*

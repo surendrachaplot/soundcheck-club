@@ -1,6 +1,6 @@
 # SJOD
 
-SJOD is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Premises, Chicago on Thu, 1 Oct 2026.
+SJOD is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Premises, Chicago on Thu, 1 Oct 2026.
 
 SJOD is a techno and acid artist based in United States of America, tracked on soundcheck, with 8 sets logged across Chicago and Detroit. Often billed alongside Babies R Stupid, OMO (US) and Seanni B. Next up: TBA - Premises, Chicago on Thu 1 Oct.
 
@@ -24,4 +24,4 @@ SJOD is a techno and acid artist based in United States of America, tracked on s
 
 Babies R Stupid, OMO (US), Seanni B
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sjod/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sjod/)*

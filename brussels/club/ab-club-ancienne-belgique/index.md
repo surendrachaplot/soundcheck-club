@@ -1,6 +1,6 @@
 # AB Club (Ancienne Belgique)
 
-AB Club (Ancienne Belgique) is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "20 YRS Humpty Dumpty Records" on Sun, 27 Sept 2026.
+AB Club (Ancienne Belgique) is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "20 YRS Humpty Dumpty Records" on Sun, 27 Sept 2026.
 
 AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 4 upcoming gigs, with line-ups including corto.alto, Das Firmament, Eze k and Hysope. Browse upcoming dates, start times and who's playing. Anspachlaan 110, 1000 Brussel.
 
@@ -17,4 +17,4 @@ AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 4
 
 Anspachlaan 110, 1000 Brussel, Brussels
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*

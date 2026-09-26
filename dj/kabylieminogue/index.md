@@ -1,6 +1,6 @@
 # Kabylie Minogue
 
-Kabylie Minogue is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at DETROIT CLUB, Barcelona on Fri, 30 Oct 2026.
+Kabylie Minogue is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at DETROIT CLUB, Barcelona on Fri, 30 Oct 2026.
 
 Kabylie Minogue is a techno and house artist tracked on soundcheck, with 33 sets logged across Barcelona, Geneva, Marseille and Nantes and 1 more. Often billed alongside Hardrock Striker, Joe Lewandowski and Master Phil. Next up: DETROIT CLUB, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kabylie Minogue is a techno and house artist tracked on soundcheck, with 33 sets
 
 Hardrock Striker, Joe Lewandowski, Master Phil
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kabylieminogue/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kabylieminogue/)*

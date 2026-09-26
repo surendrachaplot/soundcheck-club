@@ -1,6 +1,6 @@
 # Jaguar Skills
 
-Jaguar Skills is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
+Jaguar Skills is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
 
 Jaguar Skills is a drum & bass and house artist tracked on soundcheck, with 10 sets logged across Birmingham, Brighton, Ibiza and Liverpool and 3 more. Often billed alongside Grooverider, Plump DJs and Stanton Warriors. Next up: The Cambridge Junction, South East on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jaguar Skills is a drum & bass and house artist tracked on soundcheck, with 10 s
 
 Grooverider, Plump DJs, Stanton Warriors
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaguarskills/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaguarskills/)*

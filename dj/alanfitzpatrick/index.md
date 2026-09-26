@@ -1,6 +1,6 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at [UNVRS], Ibiza on Sun, 27 Sept 2026.
+Alan Fitzpatrick is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at [UNVRS], Ibiza on Sun, 27 Sept 2026.
 
 Alan Fitzpatrick is a techno and house artist based in United Kingdom, tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Belfast and Belgrade and 35 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: [UNVRS], Ibiza on Sun 27 Sept.
 
@@ -35,4 +35,4 @@ Alan Fitzpatrick is a techno and house artist based in United Kingdom, tracked o
 
 Jamie Jones, Marco Faraone, Ben Hemsley
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*

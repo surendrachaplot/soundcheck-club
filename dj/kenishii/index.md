@@ -1,6 +1,6 @@
 # Ken Ishii
 
-Ken Ishii is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 27 Sept 2026.
+Ken Ishii is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 27 Sept 2026.
 
 Ken Ishii is a techno and house artist based in Japan, tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Barcelona and Budapest and 15 more. Often billed alongside Drunken Kong, Ririko and Risa Taniguchi. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 27 Sept.
 
@@ -30,4 +30,4 @@ Ken Ishii is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 Drunken Kong, Ririko, Risa Taniguchi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenishii/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenishii/)*

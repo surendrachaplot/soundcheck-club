@@ -1,6 +1,6 @@
 # KAVARI
 
-KAVARI is a Experimental and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+KAVARI is a Experimental and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 KAVARI is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Amsterdam, Auckland, Austin and Barcelona and 36 more. Often billed alongside Blood of Aza, Blawan and gyrofield. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ KAVARI is an experimental and techno artist based in United Kingdom, tracked on 
 
 Blood of Aza, Blawan, gyrofield
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*

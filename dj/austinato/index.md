@@ -1,6 +1,6 @@
 # Austin Ato
 
-Austin Ato is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, London on Fri, 2 Oct 2026.
+Austin Ato is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, London on Fri, 2 Oct 2026.
 
 Austin Ato is a house and disco artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Bangkok, Barcelona, Berlin and Edinburgh and 5 more. Often billed alongside Optimistic Soul, Auntie Flo and Bonzai Bonner. Next up: TBA, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Austin Ato is a house and disco artist based in United Kingdom, tracked on sound
 
 Optimistic Soul, Auntie Flo, Bonzai Bonner
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/austinato/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/austinato/)*

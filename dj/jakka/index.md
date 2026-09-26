@@ -1,6 +1,6 @@
 # Jakka
 
-Jakka is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at LAB theCLUB, Madrid on Fri, 2 Oct 2026.
+Jakka is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at LAB theCLUB, Madrid on Fri, 2 Oct 2026.
 
 Jakka is a techno and electronica artist based in Spain, tracked on soundcheck, with 23 sets logged across Madrid. Often billed alongside Trasto, Unkle Fon and Angelo Stasi. Next up: LAB theCLUB, Madrid on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Jakka is a techno and electronica artist based in Spain, tracked on soundcheck, 
 
 Trasto, Unkle Fon, Angelo Stasi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakka/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakka/)*

@@ -1,6 +1,6 @@
 # Kent St Bar
 
-Kent St Bar is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "SIGNALSambient Sept - tonepoem , willebrant , Clariloops & Meredith Beardmoore live album rec" on Wed, 30 Sept 2026.
+Kent St Bar is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "SIGNALSambient Sept - tonepoem , willebrant , Clariloops & Meredith Beardmoore live album rec" on Wed, 30 Sept 2026.
 
 Kent St Bar is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 201 Smith St, Fitzroy VIC 3065.
 
@@ -14,4 +14,4 @@ Kent St Bar is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. 
 
 201 Smith St, Fitzroy VIC 3065, Melbourne
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/kent-st-bar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/kent-st-bar/)*

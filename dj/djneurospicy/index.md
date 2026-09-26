@@ -1,6 +1,6 @@
 # dj neurospicy
 
-dj neurospicy is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at underiolo, Warsaw on Sat, 26 Sept 2026.
+dj neurospicy is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at underiolo, Warsaw on Sat, 26 Sept 2026.
 
 dj neurospicy is a bass and club artist based in Poland, tracked on soundcheck, with 28 sets logged across Warsaw. Often billed alongside anymati, KAROLINDA and DiV4. Next up: underiolo, Warsaw on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ dj neurospicy is a bass and club artist based in Poland, tracked on soundcheck, 
 
 anymati, KAROLINDA, DiV4
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djneurospicy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djneurospicy/)*

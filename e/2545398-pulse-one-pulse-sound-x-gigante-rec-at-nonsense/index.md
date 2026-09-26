@@ -1,6 +1,6 @@
 # PULSE — One Pulse Sound x Gigante Rec at Nonsense
 
-PULSE — One Pulse Sound x Gigante Rec at Nonsense on Thu 8 Oct, Paris. 2 artists on the bill: Dada Disco and Joe Lewandowski. Preview the line-up and save it on soundcheck.
+PULSE — One Pulse Sound x Gigante Rec at Nonsense on Thu 8 Oct, Paris. 2 artists on the bill: Dada Disco and Joe Lewandowski. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

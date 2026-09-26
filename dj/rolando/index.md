@@ -1,6 +1,6 @@
 # DJ Rolando
 
-DJ Rolando is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+DJ Rolando is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 DJ Rolando is a techno and house artist based in United States of America, tracked on soundcheck, with 32 sets logged across Amsterdam, Belfast, Berlin and Brighton and 13 more. Often billed alongside Gerd Janson, Lakuti and Tama Sumo. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ DJ Rolando is a techno and house artist based in United States of America, track
 
 Gerd Janson, Lakuti, Tama Sumo
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolando/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolando/)*

@@ -1,6 +1,6 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Ex Base Nato, Naples on Sun, 27 Sept 2026.
+Josh Baker is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ex Base Nato, Naples on Sun, 27 Sept 2026.
 
 Josh Baker is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 231 sets logged across Aberdeen, Amsterdam, Austin and Bali and 54 more. Often billed alongside Max Dean, Prospa and Rossi. Next up: Ex Base Nato, Naples on Sun 27 Sept.
 
@@ -34,4 +34,4 @@ Josh Baker is a house and tech house artist based in United Kingdom, tracked on 
 
 Max Dean, Prospa, Rossi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*

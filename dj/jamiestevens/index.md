@@ -1,6 +1,6 @@
 # Jamie Stevens
 
-Jamie Stevens is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 24 Moons, Melbourne on Sat, 26 Sept 2026.
+Jamie Stevens is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 24 Moons, Melbourne on Sat, 26 Sept 2026.
 
 Jamie Stevens is a progressive house and techno artist based in Australia, tracked on soundcheck, with 17 sets logged across Auckland, Brisbane, Buenos Aires and Glasgow and 3 more. Often billed alongside Andrew Till, Anthony Pappa and Eric Lune. Next up: 24 Moons, Melbourne on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Jamie Stevens is a progressive house and techno artist based in Australia, track
 
 Andrew Till, Anthony Pappa, Eric Lune
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiestevens/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiestevens/)*

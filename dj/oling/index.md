@@ -1,6 +1,6 @@
 # OLING
 
-OLING is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Lower Third, London on Sat, 28 Nov 2026.
+OLING is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Lower Third, London on Sat, 28 Nov 2026.
 
 OLING is a techno and house artist based in Sweden, tracked on soundcheck, with 41 sets logged across Copenhagen, Glasgow, London and Manchester and 4 more. Often billed alongside Layer J, Molø and Harald Björk. Next up: The Lower Third, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ OLING is a techno and house artist based in Sweden, tracked on soundcheck, with 
 
 Layer J, Molø, Harald Björk
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oling/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oling/)*

@@ -1,8 +1,8 @@
 # salute
 
-salute is a House and Garage artist with 12 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+salute is a House and Garage artist with 13 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-salute is a house and garage artist based in Austria, tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Auckland and Austin and 56 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+salute is a house and garage artist based in Austria, tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Auckland and Austin and 56 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ salute is a house and garage artist based in Austria, tracked on soundcheck, wit
 | Fri, 16 Oct 2026 | Yamamori Tengu | Dublin |
 | Sun, 18 Oct 2026 | The White Hotel | Manchester |
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
+| Thu, 29 Oct 2026 | Refuge | New York City |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | The Ground at Club Space | Miami |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
-| Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ salute is a house and garage artist based in Austria, tracked on soundcheck, wit
 
 DJ BORING, Eliza Rose, HAAi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

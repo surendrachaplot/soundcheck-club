@@ -1,6 +1,6 @@
 # Raef (US)
 
-Raef (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Système, Montreal on Sat, 31 Oct 2026.
+Raef (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Système, Montreal on Sat, 31 Oct 2026.
 
 Raef (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Montreal and Nashville. Often billed alongside esme (US), Emil Paquin and Kiju. Next up: Système, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Raef (US) is a techno and house artist based in United States of America, tracke
 
 esme (US), Emil Paquin, Kiju
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raef-us/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raef-us/)*

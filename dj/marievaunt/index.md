@@ -1,14 +1,13 @@
 # Marie Vaunt
 
-Marie Vaunt is a Techno and Acid artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Factory Town, Miami on Fri, 25 Sept 2026.
+Marie Vaunt is a Techno and Acid artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Concourse Project, Austin on Sat, 26 Sept 2026.
 
-Marie Vaunt is a techno and acid artist based in United States of America, tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Auckland and Austin and 38 more. Often billed alongside Space 92, Lino Fuso and Maddix. Next up: Factory Town, Miami on Fri 25 Sept.
+Marie Vaunt is a techno and acid artist based in United States of America, tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Auckland and Austin and 38 more. Often billed alongside Space 92, Lino Fuso and Maddix. Next up: The Concourse Project, Austin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Factory Town | Miami |
 | Sat, 26 Sept 2026 | The Concourse Project | Austin |
 | Fri, 2 Oct 2026 | TBA - Kai Tak Cruise Terminal Waiting Hall A | Hong Kong |
 | Sat, 24 Oct 2026 | Halle Tony Garnier | Lyon |
@@ -19,6 +18,7 @@ Marie Vaunt is a techno and acid artist based in United States of America, track
 
 ## Recently played
 
+- Factory Town, Miami — Fri, 25 Sept 2026
 - Kralingse Bos, Rotterdam — Sat, 12 Sept 2026
 - OST, Berlin — Sat, 12 Sept 2026
 - block., Dublin — Fri, 11 Sept 2026
@@ -26,10 +26,9 @@ Marie Vaunt is a techno and acid artist based in United States of America, track
 - Eden, Ibiza — Tue, 18 Aug 2026
 - Q Nightclub, Seattle — Sat, 11 Jul 2026
 - 1015 Folsom, San Francisco/Oakland — Fri, 10 Jul 2026
-- Tunnel Club, Birmingham — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Space 92, Lino Fuso, Maddix
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*

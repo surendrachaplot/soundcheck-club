@@ -1,6 +1,6 @@
 # Lorenzo LSP
 
-Lorenzo LSP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Super Club, Milan on Sat, 26 Sept 2026.
+Lorenzo LSP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Super Club, Milan on Sat, 26 Sept 2026.
 
 Lorenzo LSP is a techno and house artist based in Italy, tracked on soundcheck, with 28 sets logged across Ibiza, Milan and Turin. Often billed alongside Simon T, CRHERZ and Vicky Montefusco. Next up: Super Club, Milan on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Lorenzo LSP is a techno and house artist based in Italy, tracked on soundcheck, 
 
 Simon T, CRHERZ, Vicky Montefusco
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzolsp/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzolsp/)*

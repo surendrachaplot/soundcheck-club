@@ -1,13 +1,14 @@
 # Nakamura Minami
 
-Nakamura Minami is a Bass and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Nakamura Minami is a Bass and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Homage Brewing, Los Angeles on Sat, 26 Sept 2026.
 
-Nakamura Minami is a bass and hip-hop artist based in Japan, tracked on soundcheck, with 15 sets logged across San Francisco/Oakland, Seattle and Tokyo. Often billed alongside Andrew (TREKKIE TRAX), Carpainter and K8 (TYO GQOM). Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 2 Oct.
+Nakamura Minami is a bass and hip-hop artist based in Japan, tracked on soundcheck, with 16 sets logged across Los Angeles, San Francisco/Oakland, Seattle and Tokyo. Often billed alongside Andrew (TREKKIE TRAX), Carpainter and Seimei. Next up: Homage Brewing, Los Angeles on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Homage Brewing | Los Angeles |
 | Fri, 2 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | TBA - 313 FIRST AVE S in Pioneer Square | Seattle |
 
@@ -24,6 +25,6 @@ Nakamura Minami is a bass and hip-hop artist based in Japan, tracked on soundche
 
 ## Shares bills with
 
-Andrew (TREKKIE TRAX), Carpainter, K8 (TYO GQOM)
+Andrew (TREKKIE TRAX), Carpainter, Seimei
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakamuraminami-jp/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakamuraminami-jp/)*

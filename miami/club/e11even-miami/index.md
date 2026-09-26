@@ -1,6 +1,6 @@
 # E11EVEN MIAMI
 
-E11EVEN MIAMI is a music venue in Miami with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Afrojack at E11EVEN" on Fri, 25 Sept 2026.
+E11EVEN MIAMI is a music venue in Miami with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Afrojack at E11EVEN" on Fri, 25 Sept 2026.
 
 E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 8 upcoming gigs, with line-ups including Afrojack. Browse upcoming dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
 
@@ -21,4 +21,4 @@ E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 8 upcoming gigs, w
 
 29 NE 11th St, Miami, FL 33132, Miami
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/e11even-miami/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/e11even-miami/)*

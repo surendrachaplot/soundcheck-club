@@ -1,6 +1,6 @@
 # Clarissa Connelly
 
-Clarissa Connelly is a electronic artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Clarissa Connelly is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Clarissa Connelly is an electronic artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen, Krakow, Paris and Poland and 1 more. Often billed alongside Mabe Fratti, Mark William Lewis and Muskila. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Clarissa Connelly is an electronic artist based in Denmark, tracked on soundchec
 
 Mabe Fratti, Mark William Lewis, Muskila
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarissaconnelly/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarissaconnelly/)*

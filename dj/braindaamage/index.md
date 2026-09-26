@@ -1,8 +1,8 @@
 # BRAINDAAMAGE
 
-BRAINDAAMAGE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Supermarket, Zurich on Sat, 26 Sept 2026.
+BRAINDAAMAGE is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Supermarket, Zurich on Sat, 26 Sept 2026.
 
-BRAINDAAMAGE is a techno and industrial artist based in Switzerland, tracked on soundcheck, with 31 sets logged across Berlin, Rotterdam, Vienna and Zurich. Often billed alongside andris, Raxeller and CAERMI. Next up: Supermarket, Zurich on Sat 26 Sept.
+BRAINDAAMAGE is a techno and industrial artist based in Switzerland, tracked on soundcheck, with 32 sets logged across Berlin, Rotterdam, Vienna and Zurich. Often billed alongside Raxeller, andris and CAERMI. Next up: Supermarket, Zurich on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ BRAINDAAMAGE is a techno and industrial artist based in Switzerland, tracked on 
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Supermarket | Zurich |
 | Sat, 3 Oct 2026 | Now&Wow | Rotterdam |
+| Fri, 30 Oct 2026 | Supermarket | Zurich |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ BRAINDAAMAGE is a techno and industrial artist based in Switzerland, tracked on 
 
 ## Shares bills with
 
-andris, Raxeller, CAERMI
+Raxeller, andris, CAERMI
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braindaamage/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braindaamage/)*

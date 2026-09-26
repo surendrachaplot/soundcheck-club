@@ -1,6 +1,6 @@
 # Soul Button
 
-Soul Button is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Stereo, Montreal on Sat, 26 Sept 2026.
+Soul Button is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Stereo, Montreal on Sat, 26 Sept 2026.
 
 Soul Button is a techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Montreal. Often billed alongside MPathy, Nick Devon and Grammik. Next up: Stereo, Montreal on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Soul Button is a techno artist based in Germany, tracked on soundcheck, with 9 s
 
 MPathy, Nick Devon, Grammik
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulbutton/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulbutton/)*

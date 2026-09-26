@@ -1,6 +1,6 @@
 # Saint Stratus
 
-Saint Stratus is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Lefty's Day & Night, Austin on Sun, 27 Sept 2026.
+Saint Stratus is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lefty's Day & Night, Austin on Sun, 27 Sept 2026.
 
 Saint Stratus is a house and club artist based in United States of America, tracked on soundcheck, with 7 sets logged across Austin. Often billed alongside Jacques-André, Joshua Cordova and MARISSA. Next up: Lefty's Day & Night, Austin on Sun 27 Sept.
 
@@ -23,4 +23,4 @@ Saint Stratus is a house and club artist based in United States of America, trac
 
 Jacques-André, Joshua Cordova, MARISSA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintstratus/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintstratus/)*

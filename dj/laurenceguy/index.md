@@ -1,6 +1,6 @@
 # Laurence Guy
 
-Laurence Guy is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Folk., Manchester on Sat, 26 Sept 2026.
+Laurence Guy is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Folk., Manchester on Sat, 26 Sept 2026.
 
 Laurence Guy is a house and disco artist based in United Kingdom, tracked on soundcheck, with 100 sets logged across Amsterdam, Austin, Bali and Bangkok and 28 more. Often billed alongside Arpy Brown, Hayden James and 1-800 GIRLS. Next up: Folk., Manchester on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Laurence Guy is a house and disco artist based in United Kingdom, tracked on sou
 
 Arpy Brown, Hayden James, 1-800 GIRLS
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*

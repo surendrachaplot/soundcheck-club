@@ -1,6 +1,6 @@
 # Sarah Sweeney
 
-Sarah Sweeney is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Dahlia Stereo, Manchester on Sat, 26 Sept 2026.
+Sarah Sweeney is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Dahlia Stereo, Manchester on Sat, 26 Sept 2026.
 
 Sarah Sweeney is a house and disco artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Cardiff and Manchester. Often billed alongside Earl Jeffers, Lil' Minx and Paul Cahill. Next up: Dahlia Stereo, Manchester on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sarah Sweeney is a house and disco artist based in United Kingdom, tracked on so
 
 Earl Jeffers, Lil' Minx, Paul Cahill
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsweeney/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsweeney/)*

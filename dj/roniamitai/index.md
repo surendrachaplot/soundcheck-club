@@ -1,6 +1,6 @@
 # Roni Amitai
 
-Roni Amitai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at BERHTA, Washington DC on Fri, 27 Nov 2026.
+Roni Amitai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at BERHTA, Washington DC on Fri, 27 Nov 2026.
 
 Roni Amitai is a house and techno artist tracked on soundcheck, with 22 sets logged across Berlin, Detroit, London and Los Angeles and 3 more. Often billed alongside Casimir von Oettingen, Hilu and Coco. Next up: BERHTA, Washington DC on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Roni Amitai is a house and techno artist tracked on soundcheck, with 22 sets log
 
 Casimir von Oettingen, Hilu, Coco
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roniamitai/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roniamitai/)*

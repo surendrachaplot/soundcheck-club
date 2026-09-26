@@ -1,14 +1,13 @@
 # Mint XL
 
-Mint XL is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "system. presents Mint XL Opening Party" on Fri, 25 Sept 2026.
+Mint XL is a music venue in Leeds with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Mint XL presents DJ EZ" on Sat, 3 Oct 2026.
 
-Mint XL is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including A For Alpha, ALISHA, Anil Aras and Annie Errez and 2 more. Browse upcoming dates, start times and who's playing.
+Mint XL is a music venue in Leeds listed on soundcheck. 10 upcoming gigs, with line-ups including A For Alpha, ALISHA, Anil Aras and Annie Errez and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | system. presents Mint XL Opening Party | Annie Errez, Bobby O'Donnell, Craig Richards, Enzo Siragusa, Foehn & Jerome, Francesco Del Garda, Fumiya Tanaka, Isabelle Koci, Kinso, Laidlaw, Prosumer, Rich NXT, Sonja Moonear, Truly Madly, Voigtmann |
 | Sat, 3 Oct 2026 | Mint XL presents DJ EZ | Big Ang, Club Angel, DJ Cosworth, DJ EZ, MJ Cole, Mason Talbot, SHADEV, Sophia Violet, Sulphur |
 | Fri, 9 Oct 2026 | Marsolo Invites | Marsolo |
 | Sat, 10 Oct 2026 | Airspace presents: Notion | Bella Claxton, Camille Doe, Notion, Y U QT |
@@ -18,5 +17,6 @@ Mint XL is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with l
 | Sat, 14 Nov 2026 | Unfussy LEEDS - Morgan Seatree | Morgan Seatree |
 | Fri, 20 Nov 2026 | Framework presents Ben UFO, Papa Nugs | Annie Errez, Ben UFO, Bobby O'Donnell, Papa Nugs |
 | Sat, 21 Nov 2026 | Jamback presents Jampacked at Mint XL | A For Alpha, Anil Aras, Annie Errez, Bobby O'Donnell, Jamback, Laura De Greef, Marlie |
+| Sat, 19 Dec 2026 | Framework x Mugpie: Christian AB & Unai Trotti | Annie Errez, Christian AB, Unai Trotti |
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*

@@ -1,6 +1,6 @@
 # Void Hall
 
-Void Hall is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "WUCHT Party" on Fri, 2 Oct 2026.
+Void Hall is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "WUCHT Party" on Fri, 2 Oct 2026.
 
 Void Hall is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Azur, DarcSounds, Esterne Moog and fr. JPLA and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365 Berlin.
 
@@ -18,4 +18,4 @@ Void Hall is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with
 
 Wiesenweg 5-9, 10365 Berlin, Berlin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*

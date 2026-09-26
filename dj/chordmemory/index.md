@@ -1,6 +1,6 @@
 # Chord Memory
 
-Chord Memory is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Wigwam, Dublin on Sat, 17 Oct 2026.
+Chord Memory is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Wigwam, Dublin on Sat, 17 Oct 2026.
 
 Chord Memory is a drum & bass and jungle artist based in Ireland, tracked on soundcheck, with 8 sets logged across Cork, Dublin and Galway. Often billed alongside don rosco, Anodyne and Autumns. Next up: Wigwam, Dublin on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Chord Memory is a drum & bass and jungle artist based in Ireland, tracked on sou
 
 don rosco, Anodyne, Autumns
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chordmemory/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chordmemory/)*

@@ -1,6 +1,6 @@
 # Olga Korol
 
-Olga Korol is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
+Olga Korol is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
 
 Olga Korol is a house and minimal artist based in Ukraine, tracked on soundcheck, with 100 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 36 more. Often billed alongside Per Hammar, Cristi Cons and Elnur. Next up: Frieda's Büxe, Zurich on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Olga Korol is a house and minimal artist based in Ukraine, tracked on soundcheck
 
 Per Hammar, Cristi Cons, Elnur
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*

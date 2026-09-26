@@ -1,6 +1,6 @@
 # Love Language
 
-Love Language is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+Love Language is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
 
 Love Language is a house and ballroom artist based in New Zealand, tracked on soundcheck, with 24 sets logged across Auckland, Boston, Mexico City and Montreal and 2 more. Often billed alongside Dj Raw (MX), Gallō and Light IDR. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Love Language is a house and ballroom artist based in New Zealand, tracked on so
 
 Dj Raw (MX), Gallō, Light IDR
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelanguage/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelanguage/)*

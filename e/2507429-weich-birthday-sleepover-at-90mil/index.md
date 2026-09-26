@@ -1,6 +1,6 @@
 # Weich Birthday Sleepover at 90mil
 
-Weich Birthday Sleepover at 90mil on Sat 14 Nov, Berlin. 1 artist on the bill: Margaux Gazur. Ambient. Preview the line-up and save it on soundcheck.
+Weich Birthday Sleepover at 90mil on Sat 14 Nov, Berlin. 4 artists on the bill: abstraqt, Alex Jenkin, CuCiCuCi and Margaux Gazur. Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Weich Birthday Sleepover at 90mil on Sat 14 Nov, Berlin. 1 artist on the bill: M
 
 ## Line-up
 
+- abstraqt
+- Alex Jenkin
+- CuCiCuCi
 - Margaux Gazur
 
 *Source: [soundcheck](https://soundcheck.club/e/2507429-weich-birthday-sleepover-at-90mil/)*

@@ -1,6 +1,6 @@
 # Neil Thornton
 
-Neil Thornton is a Funk / Soul and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Elmhurst, London on Sat, 26 Sept 2026.
+Neil Thornton is a Funk / Soul and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Elmhurst, London on Sat, 26 Sept 2026.
 
 Neil Thornton is a funk / soul and disco artist based in United Kingdom, tracked on soundcheck, with 120 sets logged across London. Often billed alongside Matt Young, Sean Innit and Ray Juss. Next up: The Elmhurst, London on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Neil Thornton is a funk / soul and disco artist based in United Kingdom, tracked
 
 Matt Young, Sean Innit, Ray Juss
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neilthornton/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neilthornton/)*

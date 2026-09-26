@@ -1,6 +1,6 @@
 # Antoni Maiovvi
 
-Antoni Maiovvi is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Mexico City on Sat, 31 Oct 2026.
+Antoni Maiovvi is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Mexico City on Sat, 31 Oct 2026.
 
 Antoni Maiovvi is a disco and italo disco artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin, Mexico City and New York City. Often billed alongside Andi, Arvin T and Chinaski. Next up: TBA, Mexico City on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Antoni Maiovvi is a disco and italo disco artist based in United Kingdom, tracke
 
 Andi, Arvin T, Chinaski
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antonimaiovvi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antonimaiovvi/)*

@@ -1,6 +1,6 @@
 # Eksish
 
-Eksish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Gaffe, London on Sat, 14 Nov 2026.
+Eksish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Gaffe, London on Sat, 14 Nov 2026.
 
 Eksish is a house and techno artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside rasel h, Jake Moree and Chez de Milo. Next up: Gaffe, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Eksish is a house and techno artist based in United Kingdom, tracked on soundche
 
 rasel h, Jake Moree, Chez de Milo
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eksish/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eksish/)*

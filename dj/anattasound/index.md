@@ -1,6 +1,6 @@
 # Anatta Sound
 
-Anatta Sound is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Rock n Roll Circus, Leeds on Sat, 31 Oct 2026.
+Anatta Sound is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Rock n Roll Circus, Leeds on Sat, 31 Oct 2026.
 
 Anatta Sound is a dub and dubstep artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Leeds. Often billed alongside Buckley (UK), Being One and Gimme A Break. Next up: Rock n Roll Circus, Leeds on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Anatta Sound is a dub and dubstep artist based in United Kingdom, tracked on sou
 
 Buckley (UK), Being One, Gimme A Break
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anattasound/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anattasound/)*

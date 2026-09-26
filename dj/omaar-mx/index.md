@@ -1,6 +1,6 @@
 # OMAAR
 
-OMAAR is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Mexico City on Sat, 5 Dec 2026.
+OMAAR is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Mexico City on Sat, 5 Dec 2026.
 
 OMAAR is a bass and electronica artist based in Mexico, tracked on soundcheck, with 23 sets logged across Mexico City. Often billed alongside Crjs, Aria (MX) and Lao (MX). Next up: TBA, Mexico City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ OMAAR is a bass and electronica artist based in Mexico, tracked on soundcheck, w
 
 Crjs, Aria (MX), Lao (MX)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omaar-mx/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omaar-mx/)*

@@ -1,6 +1,6 @@
 # k means
 
-k means is a Techno and Experimental artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
+k means is a Techno and Experimental artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
 
 k means is a techno and experimental artist based in Sweden, tracked on soundcheck, with 104 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 20 more. Often billed alongside i-sha, Batu and re:ni. Next up: M.O.T, London on Sat 26 Sept.
 
@@ -31,4 +31,4 @@ k means is a techno and experimental artist based in Sweden, tracked on soundche
 
 i-sha, Batu, re:ni
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kmeans/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kmeans/)*

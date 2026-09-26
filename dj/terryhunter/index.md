@@ -1,6 +1,6 @@
 # Terry Hunter
 
-Terry Hunter is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Het Sieraad, Amsterdam on Sun, 25 Oct 2026.
+Terry Hunter is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Het Sieraad, Amsterdam on Sun, 25 Oct 2026.
 
 Terry Hunter is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Chicago and Detroit and 10 more. Often billed alongside Mike Dunn, Wayne Williams and Adorio. Next up: Het Sieraad, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Terry Hunter is a house and deep house artist based in United Kingdom, tracked o
 
 Mike Dunn, Wayne Williams, Adorio
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terryhunter/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terryhunter/)*

@@ -1,18 +1,18 @@
 # Xeno & Oaklander
 
-Xeno & Oaklander is a Industrial and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, New York City on Fri, 25 Sept 2026.
+Xeno & Oaklander is a Industrial and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Xanadu, New York City on Fri, 16 Oct 2026.
 
-Xeno & Oaklander are an industrial and minimal duo based in United States of America, tracked on soundcheck, with 18 sets logged across Austin, Berlin, Chicago and Los Angeles and 6 more. Often billed alongside L.Sangre, Martial Canterel and ADULT.. Next up: TBA, New York City on Fri 25 Sept.
+Xeno & Oaklander are an industrial and minimal duo based in United States of America, tracked on soundcheck, with 18 sets logged across Austin, Berlin, Chicago and Los Angeles and 6 more. Often billed alongside L.Sangre, Martial Canterel and ADULT.. Next up: Xanadu, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TBA | New York City |
 | Fri, 16 Oct 2026 | Xanadu | New York City |
 
 ## Recently played
 
+- TBA, New York City — Fri, 25 Sept 2026
 - TBA, New York City — Sat, 18 Jul 2026
 - TBA - SECRET LOCATION MANHATTAN, New York City — Sat, 21 Mar 2026
 - Selva NYC, New York City — Thu, 13 Nov 2025
@@ -20,10 +20,9 @@ Xeno & Oaklander are an industrial and minimal duo based in United States of Ame
 - Thalia Hall, Chicago — Thu, 30 Oct 2025
 - Johnny Brenda's, Philadelphia — Tue, 14 Oct 2025
 - Selva NYC, New York City — Fri, 10 Oct 2025
-- Selva NYC, New York City — Fri, 19 Sept 2025
 
 ## Shares bills with
 
 L.Sangre, Martial Canterel, ADULT.
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xenoandoaklander/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xenoandoaklander/)*

@@ -1,6 +1,6 @@
 # Nubya Garcia
 
-Nubya Garcia is a Disco and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Nubya Garcia is a Disco and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Nubya Garcia is a disco and dub artist tracked on soundcheck, with 8 sets logged across Berlin, London, Sydney and Thailand. Often billed alongside Gerd Janson, Tash LC and AceMoMA. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -24,4 +24,4 @@ Nubya Garcia is a disco and dub artist tracked on soundcheck, with 8 sets logged
 
 Gerd Janson, Tash LC, AceMoMA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nubyagarcia/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nubyagarcia/)*

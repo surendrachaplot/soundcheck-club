@@ -1,6 +1,6 @@
 # Franxx
 
-Franxx is a Club and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 29 Sept 2026.
+Franxx is a Club and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 29 Sept 2026.
 
 Franxx is a club and hardcore artist based in United States of America, tracked on soundcheck, with 70 sets logged across London, New York City, Tokyo and Washington DC. Often billed alongside znorthy, Gabberbitch69 and GET FACE. Next up: Bossa Nova Civic Club, New York City on Tue 29 Sept.
 
@@ -27,4 +27,4 @@ Franxx is a club and hardcore artist based in United States of America, tracked 
 
 znorthy, Gabberbitch69, GET FACE
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franxx/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franxx/)*

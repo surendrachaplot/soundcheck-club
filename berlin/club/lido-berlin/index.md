@@ -1,6 +1,6 @@
 # Lido Berlin
 
-Lido Berlin is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Azymuth I Berlin" on Thu, 8 Oct 2026.
+Lido Berlin is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Azymuth I Berlin" on Thu, 8 Oct 2026.
 
 Lido Berlin is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Azymuth, BLEACH.LIVE and Wyatt. Browse upcoming dates, start times and who's playing. Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany.
 
@@ -20,4 +20,4 @@ Lido Berlin is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, wi
 
 Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany, Berlin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*

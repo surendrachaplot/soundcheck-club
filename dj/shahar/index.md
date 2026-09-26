@@ -1,6 +1,6 @@
 # Shahar
 
-Shahar is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at ARTSPACE, New York City on Sat, 26 Sept 2026.
+Shahar is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ARTSPACE, New York City on Sat, 26 Sept 2026.
 
 Shahar is a house and tech house artist based in United States of America, tracked on soundcheck, with 61 sets logged across Austin, Boston, London and Los Angeles and 2 more. Often billed alongside Motum, Luquez and Jean-Paul. Next up: ARTSPACE, New York City on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Shahar is a house and tech house artist based in United States of America, track
 
 Motum, Luquez, Jean-Paul
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shahar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shahar/)*

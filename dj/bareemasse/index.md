@@ -1,18 +1,18 @@
 # Barée Masse
 
-Barée Masse is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 25 Sept 2026.
+Barée Masse is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at 42 Marches, Paris on Fri, 16 Oct 2026.
 
-Barée Masse is a house and disco artist based in France, tracked on soundcheck, with 12 sets logged across Berlin and Paris. Often billed alongside Housecall, AGUSTIN BARBEI and Annyrock. Next up: Bulbul Berlin, Berlin on Fri 25 Sept.
+Barée Masse is a house and disco artist based in France, tracked on soundcheck, with 12 sets logged across Berlin and Paris. Often billed alongside Housecall, AGUSTIN BARBEI and Annyrock. Next up: 42 Marches, Paris on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Bulbul Berlin | Berlin |
 | Fri, 16 Oct 2026 | 42 Marches | Paris |
 
 ## Recently played
 
+- Bulbul Berlin, Berlin — Fri, 25 Sept 2026
 - Golden Gate, Berlin — Sat, 22 Nov 2025
 - TBA, Berlin — Sat, 14 Jun 2025
 - Golden Gate, Berlin — Fri, 14 Feb 2025
@@ -20,10 +20,9 @@ Barée Masse is a house and disco artist based in France, tracked on soundcheck,
 - La Rotonde Stalingrad, Paris — Sat, 28 Oct 2023
 - Le Mazette, Paris — Thu, 10 Aug 2023
 - Birgit, Berlin — Fri, 9 Jun 2023
-- Bulbul Berlin, Berlin — Sat, 29 Apr 2023
 
 ## Shares bills with
 
 Housecall, AGUSTIN BARBEI, Annyrock
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bareemasse/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bareemasse/)*

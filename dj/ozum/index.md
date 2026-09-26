@@ -1,6 +1,6 @@
 # OZUM
 
-OZUM is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Parallel, Amsterdam on Sun, 27 Sept 2026.
+OZUM is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Parallel, Amsterdam on Sun, 27 Sept 2026.
 
 OZUM is a techno and ambient artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Istanbul and Rotterdam and 1 more. Often billed alongside Dexon, CHAFA and Locus Error. Next up: Parallel, Amsterdam on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ OZUM is a techno and ambient artist based in Netherlands, tracked on soundcheck,
 
 Dexon, CHAFA, Locus Error
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozum/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozum/)*

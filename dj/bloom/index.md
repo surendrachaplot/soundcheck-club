@@ -1,6 +1,6 @@
 # Bloom
 
-Bloom is a House and Grime artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Bloom is a House and Grime artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 Bloom is a house and grime artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Antwerp, Bangkok and Belfast and 5 more. Often billed alongside Giantsiam, Manymaur and AAT (NL). Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Bloom is a house and grime artist based in United Kingdom, tracked on soundcheck
 
 Giantsiam, Manymaur, AAT (NL)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bloom/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bloom/)*

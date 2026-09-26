@@ -1,6 +1,6 @@
 # Fortier
 
-Fortier is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at CHICO, Mexico City on Sat, 24 Oct 2026.
+Fortier is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at CHICO, Mexico City on Sat, 24 Oct 2026.
 
 Fortier is a techno and gabber artist based in Mexico, tracked on soundcheck, with 5 sets logged across Mexico City. Often billed alongside Mr. Increible, Ivxn and Alcala. Next up: CHICO, Mexico City on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Fortier is a techno and gabber artist based in Mexico, tracked on soundcheck, wi
 
 Mr. Increible, Ivxn, Alcala
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fortier/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fortier/)*

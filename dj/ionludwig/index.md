@@ -1,6 +1,6 @@
 # Ion Ludwig
 
-Ion Ludwig is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Tomodachi, Ibiza on Sat, 26 Sept 2026.
+Ion Ludwig is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tomodachi, Ibiza on Sat, 26 Sept 2026.
 
 Ion Ludwig is a minimal and house artist based in Germany, tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Bali and 21 more. Often billed alongside Rhadoo, Aline (CH) and Edward. Next up: Tomodachi, Ibiza on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ion Ludwig is a minimal and house artist based in Germany, tracked on soundcheck
 
 Rhadoo, Aline (CH), Edward
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ionludwig/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ionludwig/)*

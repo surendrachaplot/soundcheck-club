@@ -1,6 +1,6 @@
 # MESSIE
 
-MESSIE is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Halley Space, London on Thu, 1 Oct 2026.
+MESSIE is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Halley Space, London on Thu, 1 Oct 2026.
 
 MESSIE is a house and garage artist based in New Zealand, tracked on soundcheck, with 18 sets logged across Amsterdam, Auckland, Barcelona and Brisbane and 7 more. Often billed alongside Arthi, Anish Kumar and Bushbby. Next up: The Halley Space, London on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ MESSIE is a house and garage artist based in New Zealand, tracked on soundcheck,
 
 Arthi, Anish Kumar, Bushbby
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/messie/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/messie/)*

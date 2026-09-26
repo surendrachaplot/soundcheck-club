@@ -1,6 +1,6 @@
 # Heinech
 
-Heinech is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Macarena Club, Barcelona on Fri, 23 Oct 2026.
+Heinech is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Macarena Club, Barcelona on Fri, 23 Oct 2026.
 
 Heinech is an electro and techno artist based in Spain, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Ludviq, Diego Montiel and Javier Ferreira. Next up: Macarena Club, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Heinech is an electro and techno artist based in Spain, tracked on soundcheck, w
 
 Ludviq, Diego Montiel, Javier Ferreira
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heinech/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heinech/)*

@@ -1,18 +1,18 @@
 # boogielou
 
-boogielou is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Tempest Inn, Brighton on Fri, 25 Sept 2026.
+boogielou is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Unit 58, London on Sat, 31 Oct 2026.
 
-boogielou is a house and disco artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Brighton and London. Often billed alongside Jamie Ardor, T!SCO and Adam Romo. Next up: The Tempest Inn, Brighton on Fri 25 Sept.
+boogielou is a house and disco artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Brighton and London. Often billed alongside Jamie Ardor, T!SCO and Adam Romo. Next up: Unit 58, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | The Tempest Inn | Brighton |
 | Sat, 31 Oct 2026 | Unit 58 | London |
 
 ## Recently played
 
+- The Tempest Inn, Brighton — Fri, 25 Sept 2026
 - HWK, London — Sat, 5 Sept 2026
 - Cu, London — Sat, 8 Nov 2025
 - Groovetank Live, London — Fri, 17 Oct 2025
@@ -20,10 +20,9 @@ boogielou is a house and disco artist based in United Kingdom, tracked on soundc
 - Colour Factory, London — Thu, 17 Jul 2025
 - Tola, London — Sat, 17 May 2025
 - Two Tribes CAMPFIRE, London — Sat, 26 Apr 2025
-- Bermondsey Social Club, London — Fri, 28 Mar 2025
 
 ## Shares bills with
 
 Jamie Ardor, T!SCO, Adam Romo
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boogielou/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boogielou/)*

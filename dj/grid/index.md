@@ -1,6 +1,6 @@
 # Grid
 
-Grid is a Electro and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Sans Soleil, Montreal on Tue, 29 Sept 2026.
+Grid is a Electro and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Sans Soleil, Montreal on Tue, 29 Sept 2026.
 
 Grid is an electro and funk / soul artist based in Lebanon, tracked on soundcheck, with 7 sets logged across Montreal. Often billed alongside Cidoine, Darone Sassounian and feelsgoopta. Next up: Sans Soleil, Montreal on Tue 29 Sept.
 
@@ -23,4 +23,4 @@ Grid is an electro and funk / soul artist based in Lebanon, tracked on soundchec
 
 Cidoine, Darone Sassounian, feelsgoopta
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grid/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grid/)*

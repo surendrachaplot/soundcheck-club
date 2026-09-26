@@ -1,6 +1,6 @@
 # ETHICS
 
-ETHICS is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Moon Club, Bristol on Fri, 2 Oct 2026.
+ETHICS is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Moon Club, Bristol on Fri, 2 Oct 2026.
 
 ETHICS is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Bristol, London and Southampton. Often billed alongside Deselecta, DJ LESSONS and Dogfish. Next up: Moon Club, Bristol on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ ETHICS is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Deselecta, DJ LESSONS, Dogfish
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ethics/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ethics/)*

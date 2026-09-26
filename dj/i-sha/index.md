@@ -1,6 +1,6 @@
 # i-sha
 
-i-sha is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at WOMB, Tokyo on Fri, 30 Oct 2026.
+i-sha is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at WOMB, Tokyo on Fri, 30 Oct 2026.
 
 i-sha is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside k means, Batu and Anina. Next up: WOMB, Tokyo on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ i-sha is an experimental and techno artist based in United Kingdom, tracked on s
 
 k means, Batu, Anina
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-sha/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-sha/)*

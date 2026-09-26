@@ -1,15 +1,13 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "[CANCELLED] De Binnenstad x Sissi's" on Fri, 25 Sept 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Sissi's Blockparty with Benny Rodrigues & LYLO" on Sat, 26 Sept 2026.
 
-SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including A For Alpha, Ays (NL), bebe bad and Benny2 and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
+SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including A For Alpha, Ays (NL), bebe bad and Benny2 and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | [CANCELLED] De Binnenstad x Sissi's | Easttown, Gyatso, Rumi Jill, Spacer Woman |
-| Fri, 25 Sept 2026 | Sissi's Friday with Easttown, Jim Jua | Easttown |
 | Sat, 26 Sept 2026 | Sissi's Blockparty with Benny Rodrigues & LYLO |  |
 | Fri, 2 Oct 2026 | Sissi's Friday with SWAY, Mowgli & Ays | Ays (NL), Mowgli (NL) |
 | Sat, 3 Oct 2026 | Sissi's Saturday: Boris Coelman invites SUCHI | Boris Coelman, SUCHI |
@@ -18,9 +16,11 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 15 upcomin
 | Fri, 16 Oct 2026 | Sissi's Friday with Tension & Siem | Siem, Tienson |
 | Sat, 17 Oct 2026 | Sissi's Saturday with Kyra Khaldi invites COZi | COZi, Kyra Khaldi |
 | Thu, 22 Oct 2026 | PALET ADE Special | Benny2, Boris Coelman, Cathy Grogan, DJ SWISHA, Eileen, Eileen (NL), Gabrielle Kwarteng, NewTone, Scarlett O'Malley, TINS, Tarzsa |
+| Fri, 23 Oct 2026 | Sissi's ADE Friday with Bronka x Kurashi | Bronka, Deekapz, Isa Castelari, Kurashi Soundsystem, Mango and Ginger, Shinshan Salazar |
+| Sat, 24 Oct 2026 | Sissi's ADE Saturday w/ Champion, Berkan b2b Maruwa, Doppelgang | A For Alpha, Berkan V8, Champion, Doppelgang, JAEL, MALLAURY, Maruwa, PAURRO, The Flexican, William Kiss, bebe bad |
 
 ## Address
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

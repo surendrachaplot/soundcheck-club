@@ -1,6 +1,6 @@
 # Reset HTX
 
-Reset HTX is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "SLOW JAMS HTX - Slow Jams & RnB Summer Closing Day Party" on Sat, 26 Sept 2026.
+Reset HTX is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "SLOW JAMS HTX - Slow Jams & RnB Summer Closing Day Party" on Sat, 26 Sept 2026.
 
 Reset HTX is a music venue in Houston listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 606 Dennis St Ste 200, Houston, TX 77006, United States.
 
@@ -14,4 +14,4 @@ Reset HTX is a music venue in Houston listed on soundcheck. 1 upcoming gig. Brow
 
 606 Dennis St Ste 200, Houston, TX 77006, United States, Houston
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/houston/club/reset-htx/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/houston/club/reset-htx/)*

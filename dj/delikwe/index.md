@@ -1,6 +1,6 @@
 # Delikwe
 
-Delikwe is a Ambient and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Combo Milano, Milan on Sun, 4 Oct 2026.
+Delikwe is a Ambient and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Combo Milano, Milan on Sun, 4 Oct 2026.
 
 Delikwe is an ambient and dub artist based in Italy, tracked on soundcheck, with 27 sets logged across Berlin, Lisbon and Milan. Often billed alongside SALTI, .VRIL and Al Paino. Next up: Combo Milano, Milan on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Delikwe is an ambient and dub artist based in Italy, tracked on soundcheck, with
 
 SALTI, .VRIL, Al Paino
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delikwe/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delikwe/)*

@@ -1,6 +1,6 @@
 # Lupreme
 
-Lupreme is a Reggaeton and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Lupreme is a Reggaeton and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Lupreme is a reggaeton and electronica artist based in United States of America, tracked on soundcheck, with 10 sets logged across Miami and New York City. Often billed alongside Berrakka, DAY/DEM and Duality (US). Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lupreme is a reggaeton and electronica artist based in United States of America,
 
 Berrakka, DAY/DEM, Duality (US)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lupreme/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lupreme/)*

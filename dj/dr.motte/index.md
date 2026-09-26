@@ -1,6 +1,6 @@
 # Dr. Motte
 
-Dr. Motte is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at ORWO Haus, Berlin on Sat, 21 Nov 2026.
+Dr. Motte is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at ORWO Haus, Berlin on Sat, 21 Nov 2026.
 
 Dr. Motte is a techno and house artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Cologne and Hannover and 6 more. Often billed alongside Daniel Boon, Basstronauten and DAZA. Next up: ORWO Haus, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Dr. Motte is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Daniel Boon, Basstronauten, DAZA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.motte/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.motte/)*

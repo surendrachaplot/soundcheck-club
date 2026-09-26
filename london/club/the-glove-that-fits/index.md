@@ -1,15 +1,14 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 23 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Side Two - House & Garage *FREE ENTRY" on Fri, 25 Sept 2026.
+The Glove That Fits is a music venue in London with 22 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "JFF vol.5 INVITES Nocte " on Sat, 26 Sept 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including Aisling, Alan Fitzpatrick, Amor Ante and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including Aisling, Alan Fitzpatrick, Amor Ante and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Side Two - House & Garage *FREE ENTRY | IZZY (UK), KaYa (UK), Layson, Marlon Baleci, Nick Clev, Sam Beach |
-| Sat, 26 Sept 2026 | JFF vol.5 INVITES Nocte (FREE TICKET) | FrezZ, Monterosso, Samir (DVS), Yūgen |
+| Sat, 26 Sept 2026 | JFF vol.5 INVITES Nocte  | FrezZ, Monterosso, Samir (DVS), Yūgen |
 | Sat, 26 Sept 2026 | Scouts X Peaches FC Day Party |  |
 | Wed, 30 Sept 2026 | GRADUATED FROM THE BASEMENT 2026 | DJ Etiquette, HIKIING, SHIR.IN |
 | Thu, 1 Oct 2026 | Freqy Rhythm pres. Hard Launch: A Queer Party | Bertie, Cheriii, HOLY C, Marie Malarie, Tina Disco, Ysanne |
@@ -18,9 +17,10 @@ The Glove That Fits is a music venue in London listed on soundcheck. 23 upcoming
 | Sun, 4 Oct 2026 | Fossil Archive presents: Alan Fitzpatrick, R.M.K, Aniaef | Alan Fitzpatrick, Aniaef, R.M.K |
 | Thu, 8 Oct 2026 | Fragment: Open Decks | Amor Ante, ENFY, Lau.tastic, YOYO (UK) |
 | Thu, 15 Oct 2026 | HAiiNES presents We Are Strangers |  |
+| Fri, 16 Oct 2026 | Ashvale W/ Heartbreak Hombres (Baby Rollén & Wilba) | Baby Rollén, Wilba |
 
 ## Address
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

@@ -1,6 +1,6 @@
 # A-Tweed
 
-A-Tweed is a Downtempo and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Atdge Seoul, Seoul on Wed, 30 Sept 2026.
+A-Tweed is a Downtempo and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Atdge Seoul, Seoul on Wed, 30 Sept 2026.
 
 A-Tweed is a downtempo and acid artist based in Italy, tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Brussels and Cologne and 10 more. Often billed alongside Collider, DJ Very Good Plus and Fukinsei. Next up: Atdge Seoul, Seoul on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ A-Tweed is a downtempo and acid artist based in Italy, tracked on soundcheck, wi
 
 Collider, DJ Very Good Plus, Fukinsei
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a-tweed/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a-tweed/)*

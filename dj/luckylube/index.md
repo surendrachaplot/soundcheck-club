@@ -1,6 +1,6 @@
 # Lucky Lube
 
-Lucky Lube is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
+Lucky Lube is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
 
 Lucky Lube is a house and techno artist based in Denmark, tracked on soundcheck, with 90 sets logged across Berlin, Brussels, Copenhagen and Dublin and 9 more. Often billed alongside Frederik Tollund, Baltza and Harrison Heat. Next up: Den Anden Side, Copenhagen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Lucky Lube is a house and techno artist based in Denmark, tracked on soundcheck,
 
 Frederik Tollund, Baltza, Harrison Heat
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luckylube/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luckylube/)*

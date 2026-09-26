@@ -1,6 +1,6 @@
 # ADEMES
 
-ADEMES is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bootshaus, Cologne on Fri, 2 Oct 2026.
+ADEMES is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bootshaus, Cologne on Fri, 2 Oct 2026.
 
 ADEMES is a techno and trance artist based in Germany, tracked on soundcheck, with 52 sets logged across Berlin, Cologne, Düsseldorf and Frankfurt and 3 more. Often billed alongside Amøn, DJ SODBRENNEN and LELO. Next up: Bootshaus, Cologne on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ ADEMES is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 Amøn, DJ SODBRENNEN, LELO
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ademes/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ademes/)*

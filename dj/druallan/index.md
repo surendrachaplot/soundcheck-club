@@ -1,6 +1,6 @@
 # Dru Allan
 
-Dru Allan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 24 Oct 2026.
+Dru Allan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 24 Oct 2026.
 
 Dru Allan is a house and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Barcelona, Detroit and New York City. Often billed alongside Medha Achar, Rootsin and DIRT ROOM. Next up: Northern Lights Lounge, Detroit on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Dru Allan is a house and techno artist based in United States of America, tracke
 
 Medha Achar, Rootsin, DIRT ROOM
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/druallan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/druallan/)*

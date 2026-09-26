@@ -1,6 +1,6 @@
 # Violetta (DE)
 
-Violetta (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
+Violetta (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
 
 Violetta (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin and Stuttgart. Often billed alongside Lucas Depta, Lakkes and Rødhåd. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Violetta (DE) is a house and techno artist based in Germany, tracked on soundche
 
 Lucas Depta, Lakkes, Rødhåd
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violetta-de/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violetta-de/)*

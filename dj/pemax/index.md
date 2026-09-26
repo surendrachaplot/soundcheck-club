@@ -1,6 +1,6 @@
 # Pemax
 
-Pemax is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Small Changes, Inchicore, Dublin on Sat, 26 Sept 2026.
+Pemax is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Small Changes, Inchicore, Dublin on Sat, 26 Sept 2026.
 
 Pemax is an electro and house artist based in Brazil, tracked on soundcheck, with 9 sets logged across Dublin. Often billed alongside Biotto, Royce Larøca and Cam Roberts. Next up: TBA - Small Changes, Inchicore, Dublin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Pemax is an electro and house artist based in Brazil, tracked on soundcheck, wit
 
 Biotto, Royce Larøca, Cam Roberts
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pemax/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pemax/)*

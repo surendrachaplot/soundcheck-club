@@ -1,6 +1,6 @@
 # Johnny Allwess
 
-Johnny Allwess is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Der Weiße Hase, Berlin on Fri, 25 Sept 2026.
+Johnny Allwess is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Der Weiße Hase, Berlin on Fri, 25 Sept 2026.
 
 Johnny Allwess is a techno and industrial artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Klangpusch, Tom Marten and Cat Vermillion. Next up: Der Weiße Hase, Berlin on Fri 25 Sept.
 
@@ -12,6 +12,7 @@ Johnny Allwess is a techno and industrial artist based in Germany, tracked on so
 
 ## Recently played
 
+- Der Weiße Hase, Berlin — Fri, 25 Sept 2026
 - Der Weiße Hase, Berlin — Tue, 8 Sept 2026
 - Der Weiße Hase, Berlin — Tue, 18 Aug 2026
 - Der Weiße Hase, Berlin — Tue, 12 May 2026
@@ -19,10 +20,9 @@ Johnny Allwess is a techno and industrial artist based in Germany, tracked on so
 - Der Weiße Hase, Berlin — Tue, 24 Feb 2026
 - Der Weiße Hase, Berlin — Tue, 20 Jan 2026
 - Der Weiße Hase, Berlin — Tue, 25 Nov 2025
-- Der Weiße Hase, Berlin — Tue, 21 Oct 2025
 
 ## Shares bills with
 
 Klangpusch, Tom Marten, Cat Vermillion
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyallwess/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyallwess/)*

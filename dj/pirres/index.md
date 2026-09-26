@@ -1,6 +1,6 @@
 # Pirrès
 
-Pirrès is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ampere, Antwerp on Sat, 3 Oct 2026.
+Pirrès is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ampere, Antwerp on Sat, 3 Oct 2026.
 
 Pirrès is a house and techno artist based in Belgium, tracked on soundcheck, with 16 sets logged across Antwerp and Brussels. Often billed alongside Veebo, Calvache and Delbaen. Next up: Ampere, Antwerp on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Pirrès is a house and techno artist based in Belgium, tracked on soundcheck, wi
 
 Veebo, Calvache, Delbaen
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pirres/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pirres/)*

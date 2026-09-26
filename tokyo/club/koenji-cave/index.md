@@ -1,14 +1,13 @@
 # Koenji Cave
 
-Koenji Cave is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Koenji Cave presents ▷ Laboratory Vol.34" on Fri, 25 Sept 2026.
+Koenji Cave is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Koenji Cave presents - Tempest - Vol.23" on Sat, 26 Sept 2026.
 
-Koenji Cave is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including AMON, BERLINER KINDL, CATRONICA and CyberMoripy and 2 more. Browse upcoming dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
+Koenji Cave is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including AMON, BERLINER KINDL, CATRONICA and CyberMoripy and 2 more. Browse upcoming dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Koenji Cave presents ▷ Laboratory Vol.34 | CyberMoripy |
 | Sat, 26 Sept 2026 | Koenji Cave presents - Tempest - Vol.23 |  |
 | Fri, 2 Oct 2026 | Koenji Cave presents - Psychedelic Friday Vol.30 - | BERLINER KINDL |
 | Sat, 3 Oct 2026 | Koenji Cave presents Gravity Vol.22 | Dustvoxx, NAGEE |
@@ -18,9 +17,10 @@ Koenji Cave is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, wi
 | Sat, 17 Oct 2026 | Puzzle |  |
 | Fri, 23 Oct 2026 | Koenji Cave presents ▷ Laboratory Vol.35 |  |
 | Sat, 24 Oct 2026 | Koenji Cave presents - Tempest - Vol.24 |  |
+| Fri, 30 Oct 2026 | Curiosity 014 - feat. ABUNDANTIA x Crystal Flow Special - | CATRONICA |
 
 ## Address
 
 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan, Tokyo
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*

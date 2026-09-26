@@ -1,6 +1,6 @@
 # Nic Baker
 
-Nic Baker is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Star|Bolt, Philadelphia on Sat, 21 Nov 2026.
+Nic Baker is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Star|Bolt, Philadelphia on Sat, 21 Nov 2026.
 
 Nic Baker is a bass and club artist based in United States of America, tracked on soundcheck, with 13 sets logged across Chicago, Denver, New York City and Philadelphia. Often billed alongside CHRSBRRY, Feral Sound and VELLE. Next up: Star|Bolt, Philadelphia on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Nic Baker is a bass and club artist based in United States of America, tracked o
 
 CHRSBRRY, Feral Sound, VELLE
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicbaker/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicbaker/)*

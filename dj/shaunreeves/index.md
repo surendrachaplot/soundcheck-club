@@ -1,6 +1,6 @@
 # Shaun Reeves
 
-Shaun Reeves is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Marble Bar, Detroit on Sat, 26 Sept 2026.
+Shaun Reeves is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Marble Bar, Detroit on Sat, 26 Sept 2026.
 
 Shaun Reeves is a house and minimal artist based in United States of America, tracked on soundcheck, with 82 sets logged across Berlin, Boston, Brussels and Chicago and 11 more. Often billed alongside Ryan Crosson, Stretch (DET) and Andrea Ghita. Next up: Marble Bar, Detroit on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Shaun Reeves is a house and minimal artist based in United States of America, tr
 
 Ryan Crosson, Stretch (DET), Andrea Ghita
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunreeves/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunreeves/)*

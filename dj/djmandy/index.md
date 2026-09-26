@@ -1,6 +1,6 @@
 # DJ MANDY
 
-DJ MANDY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Night We Met, Nashville on Fri, 2 Oct 2026.
+DJ MANDY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Night We Met, Nashville on Fri, 2 Oct 2026.
 
 DJ MANDY is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Boston, Detroit, Houston and London and 8 more. Often billed alongside AMMARA, ANABELEN and ANNA PURA. Next up: Night We Met, Nashville on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ DJ MANDY is a house and techno artist based in United States of America, tracked
 
 AMMARA, ANABELEN, ANNA PURA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandy/)*

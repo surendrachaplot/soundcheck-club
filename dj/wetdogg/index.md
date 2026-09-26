@@ -1,6 +1,6 @@
 # wetdogg
 
-wetdogg is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bambi's, Toronto on Fri, 2 Oct 2026.
+wetdogg is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bambi's, Toronto on Fri, 2 Oct 2026.
 
 wetdogg is a techno and experimental artist based in United States of America, tracked on soundcheck, with 22 sets logged across Detroit, Montreal, New York City and Toronto. Often billed alongside Ryan Spencer, MGUN and Silktits. Next up: Bambi's, Toronto on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ wetdogg is a techno and experimental artist based in United States of America, t
 
 Ryan Spencer, MGUN, Silktits
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wetdogg/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wetdogg/)*

@@ -1,6 +1,6 @@
 # Mark Landragin
 
-Mark Landragin is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Steelyard Kelham, Sheffield on Sat, 12 Jun 2027.
+Mark Landragin is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Steelyard Kelham, Sheffield on Sat, 12 Jun 2027.
 
 Mark Landragin is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across London, Manchester and Sheffield. Often billed alongside Dave Pearce, Allen Watts and Andrew Sharpe. Next up: Steelyard Kelham, Sheffield on Sat 12 Jun.
 
@@ -25,4 +25,4 @@ Mark Landragin is a trance and progressive house artist based in United Kingdom,
 
 Dave Pearce, Allen Watts, Andrew Sharpe
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marklandragin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marklandragin/)*

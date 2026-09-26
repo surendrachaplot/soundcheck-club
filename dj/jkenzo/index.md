@@ -1,6 +1,6 @@
 # J:Kenzo
 
-J:Kenzo is a Dubstep and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
+J:Kenzo is a Dubstep and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 J:Kenzo is a dubstep and drum & bass artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Auckland, Berlin, Boston and Brighton and 17 more. Often billed alongside SGT Pokes, SP:MC and Youngsta. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ J:Kenzo is a dubstep and drum & bass artist based in United Kingdom, tracked on 
 
 SGT Pokes, SP:MC, Youngsta
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jkenzo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jkenzo/)*

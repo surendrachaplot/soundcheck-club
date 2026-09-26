@@ -1,6 +1,6 @@
 # Space Candy
 
-Space Candy is a Experimental and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Spanners, London on Fri, 16 Oct 2026.
+Space Candy is a Experimental and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Spanners, London on Fri, 16 Oct 2026.
 
 Space Candy is an experimental and gabber artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside Takenbymarshall, Compulsive Leia and Slayphex Twins. Next up: Spanners, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Space Candy is an experimental and gabber artist based in United Kingdom, tracke
 
 Takenbymarshall, Compulsive Leia, Slayphex Twins
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spacecandy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spacecandy/)*

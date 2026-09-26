@@ -1,6 +1,6 @@
 # SAGMO
 
-SAGMO is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 30 Sept 2026.
+SAGMO is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 30 Sept 2026.
 
 SAGMO is a house and tech house artist based in Israel, tracked on soundcheck, with 27 sets logged across San Francisco/Oakland. Often billed alongside Matony, Emanate and IZIK. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ SAGMO is a house and tech house artist based in Israel, tracked on soundcheck, w
 
 Matony, Emanate, IZIK
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sagmo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sagmo/)*

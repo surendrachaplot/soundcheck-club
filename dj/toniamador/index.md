@@ -1,6 +1,6 @@
 # Toni Amador
 
-Toni Amador is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Kiosk del Rec, Barcelona on Sat, 7 Nov 2026.
+Toni Amador is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Kiosk del Rec, Barcelona on Sat, 7 Nov 2026.
 
 Toni Amador is a techno and house artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona. Often billed alongside Ikari, Julian Ess and Ana Alves. Next up: TBA - Kiosk del Rec, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Toni Amador is a techno and house artist based in Spain, tracked on soundcheck, 
 
 Ikari, Julian Ess, Ana Alves
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toniamador/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toniamador/)*

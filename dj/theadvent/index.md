@@ -1,14 +1,13 @@
 # The Advent
 
-The Advent is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+The Advent is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
 
-The Advent is a techno and house artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 38 more. Often billed alongside Nastia, Philippa Pacho and STERAC. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
+The Advent is a techno and house artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 38 more. Often billed alongside Nastia, Philippa Pacho and STERAC. Next up: Tresor / Globus, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Laboral Ciudad de la Cultura | North |
 | Sat, 3 Oct 2026 | Tresor / Globus | Berlin |
 | Fri, 9 Oct 2026 | TBA | Washington DC |
 | Sat, 10 Oct 2026 | TBA - Warehouse | Toronto |
@@ -19,6 +18,7 @@ The Advent is a techno and house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
+- Laboral Ciudad de la Cultura, North — Fri, 25 Sept 2026
 - RADION, Amsterdam — Sat, 5 Sept 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 29 Aug 2026
 - BLITZ, Munich — Fri, 17 Jul 2026
@@ -26,10 +26,9 @@ The Advent is a techno and house artist based in United Kingdom, tracked on soun
 - Tresor / Globus, Berlin — Fri, 26 Jun 2026
 - 3fifty Terrace, Detroit — Mon, 25 May 2026
 - H0L0, New York City — Sat, 23 May 2026
-- 94th Aero Squadron, Miami — Fri, 22 May 2026
 
 ## Shares bills with
 
 Nastia, Philippa Pacho, STERAC
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*

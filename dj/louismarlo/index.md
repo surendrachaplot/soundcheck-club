@@ -1,6 +1,6 @@
 # Louis Marlo
 
-Louis Marlo is a IDM and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Nowadays, New York City on Sat, 10 Oct 2026.
+Louis Marlo is a IDM and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Nowadays, New York City on Sat, 10 Oct 2026.
 
 Louis Marlo is an idm and techno artist based in Australia, tracked on soundcheck, with 6 sets logged across Melbourne and New York City. Often billed alongside Kia (AU), Moopie and Tangerine. Next up: Nowadays, New York City on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Louis Marlo is an idm and techno artist based in Australia, tracked on soundchec
 
 Kia (AU), Moopie, Tangerine
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louismarlo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louismarlo/)*

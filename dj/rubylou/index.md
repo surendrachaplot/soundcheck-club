@@ -1,6 +1,6 @@
 # Ruby Lou
 
-Ruby Lou is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Angel Music Bar, Melbourne on Sat, 26 Sept 2026.
+Ruby Lou is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Angel Music Bar, Melbourne on Sat, 26 Sept 2026.
 
 Ruby Lou is a house and electronica artist based in Australia, tracked on soundcheck, with 37 sets logged across Auckland and Melbourne. Often billed alongside Slumdog, Mike Callander and Slim Maybe. Next up: Angel Music Bar, Melbourne on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ruby Lou is a house and electronica artist based in Australia, tracked on soundc
 
 Slumdog, Mike Callander, Slim Maybe
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubylou/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubylou/)*

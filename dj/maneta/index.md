@@ -1,6 +1,6 @@
 # Maneta
 
-Maneta is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Crack Bellmer, Berlin on Sat, 26 Sept 2026.
+Maneta is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Crack Bellmer, Berlin on Sat, 26 Sept 2026.
 
 Maneta is a house and techno artist based in Portugal, tracked on soundcheck, with 17 sets logged across Berlin and Brussels. Often billed alongside SBRD, Luigi Di Venere and Agua con gas. Next up: Crack Bellmer, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Maneta is a house and techno artist based in Portugal, tracked on soundcheck, wi
 
 SBRD, Luigi Di Venere, Agua con gas
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maneta/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maneta/)*

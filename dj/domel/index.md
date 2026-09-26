@@ -1,6 +1,6 @@
 # DOMEL
 
-DOMEL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 3 Oct 2026.
+DOMEL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 3 Oct 2026.
 
 DOMEL is a techno and house artist based in Poland, tracked on soundcheck, with 26 sets logged across Krakow and Warsaw. Often billed alongside toutestmagnifique, Abrew and dj.zamocno. Next up: STK 47 WAREHOUSE, Krakow on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ DOMEL is a techno and house artist based in Poland, tracked on soundcheck, with 
 
 toutestmagnifique, Abrew, dj.zamocno
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/domel/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/domel/)*

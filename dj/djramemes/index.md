@@ -1,6 +1,6 @@
 # DJ RaMeMes
 
-DJ RaMeMes is a Baile Funk and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Teatro Mars, Sao Paulo on Sat, 26 Sept 2026.
+DJ RaMeMes is a Baile Funk and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Teatro Mars, Sao Paulo on Sat, 26 Sept 2026.
 
 DJ RaMeMes is a baile funk and techno artist tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 6 more. Often billed alongside JCVS, Banu and Clementaum. Next up: Teatro Mars, Sao Paulo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ RaMeMes is a baile funk and techno artist tracked on soundcheck, with 19 sets
 
 JCVS, Banu, Clementaum
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djramemes/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djramemes/)*

@@ -1,6 +1,6 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Thuishaven, Amsterdam on Sun, 27 Sept 2026.
+Boss Priester is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Thuishaven, Amsterdam on Sun, 27 Sept 2026.
 
 Boss Priester is a house and tech house artist based in Netherlands, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: Thuishaven, Amsterdam on Sun 27 Sept.
 
@@ -36,4 +36,4 @@ Boss Priester is a house and tech house artist based in Netherlands, tracked on 
 
 Michel de Hey, Benny Rodrigues, Hidde van Wee
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*

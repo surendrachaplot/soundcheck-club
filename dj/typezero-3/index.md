@@ -1,6 +1,6 @@
 # Type Zero
 
-Type Zero is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at AUX Club, Athens on Sat, 10 Oct 2026.
+Type Zero is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at AUX Club, Athens on Sat, 10 Oct 2026.
 
 Type Zero is a drum & bass and techno artist based in Greece, tracked on soundcheck, with 25 sets logged across Athens and Vienna. Often billed alongside Unified Method, Insom and 118119. Next up: AUX Club, Athens on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Type Zero is a drum & bass and techno artist based in Greece, tracked on soundch
 
 Unified Method, Insom, 118119
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/typezero-3/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/typezero-3/)*

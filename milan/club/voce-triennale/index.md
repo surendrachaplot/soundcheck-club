@@ -1,6 +1,6 @@
 # Voce - Triennale
 
-Voce - Triennale is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Matinée with Abdullah Miniawy" on Sun, 27 Sept 2026.
+Voce - Triennale is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Matinée with Abdullah Miniawy" on Sun, 27 Sept 2026.
 
 Voce - Triennale is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Abdullah Miniawy, JASSS and Valentina Magaletti. Browse upcoming dates, start times and who's playing. Viale Emilio Alemagna, 6, 20121 Milano MI, Italy.
 
@@ -16,4 +16,4 @@ Voce - Triennale is a music venue in Milan listed on soundcheck. 3 upcoming gigs
 
 Viale Emilio Alemagna, 6, 20121 Milano MI, Italy, Milan
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/voce-triennale/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/voce-triennale/)*

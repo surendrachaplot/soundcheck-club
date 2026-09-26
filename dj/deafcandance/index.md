@@ -1,6 +1,6 @@
 # deafcandance
 
-deafcandance is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Smolna, Warsaw on Fri, 16 Oct 2026.
+deafcandance is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Smolna, Warsaw on Fri, 16 Oct 2026.
 
 deafcandance is a house and techno artist based in Poland, tracked on soundcheck, with 37 sets logged across Berlin, Krakow and Warsaw. Often billed alongside BEXA, Angelo Mike and Rytmik. Next up: Smolna, Warsaw on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ deafcandance is a house and techno artist based in Poland, tracked on soundcheck
 
 BEXA, Angelo Mike, Rytmik
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deafcandance/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deafcandance/)*

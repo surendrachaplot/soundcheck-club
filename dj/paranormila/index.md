@@ -1,6 +1,6 @@
 # Paranormila
 
-Paranormila is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bootshaus, Cologne on Fri, 2 Oct 2026.
+Paranormila is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bootshaus, Cologne on Fri, 2 Oct 2026.
 
 Paranormila is a techno and trance artist based in Germany, tracked on soundcheck, with 76 sets logged across Belgrade, Berlin, Cologne and Düsseldorf and 4 more. Often billed alongside DeGuzman, The Belgian Stallion and SANDRA ROMINA. Next up: Bootshaus, Cologne on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Paranormila is a techno and trance artist based in Germany, tracked on soundchec
 
 DeGuzman, The Belgian Stallion, SANDRA ROMINA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paranormila/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paranormila/)*

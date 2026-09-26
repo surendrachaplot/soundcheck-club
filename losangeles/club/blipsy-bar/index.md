@@ -1,6 +1,6 @@
 # Blipsy Bar
 
-Blipsy Bar is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Psychic Skin x Bug" on Fri, 30 Oct 2026.
+Blipsy Bar is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Psychic Skin x Bug" on Fri, 30 Oct 2026.
 
 Blipsy Bar is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Amelia Holt, Jane Margarette, Kaleb Marshall and Luke Mele. Browse upcoming dates, start times and who's playing. 369 N Western Ave, Los Angeles, CA 90004.
 
@@ -14,4 +14,4 @@ Blipsy Bar is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig,
 
 369 N Western Ave, Los Angeles, CA 90004, Los Angeles
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/blipsy-bar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/blipsy-bar/)*

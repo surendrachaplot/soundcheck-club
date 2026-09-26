@@ -1,6 +1,6 @@
 # AUX_ID
 
-AUX_ID is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bsmt 254, Toronto on Fri, 23 Oct 2026.
+AUX_ID is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bsmt 254, Toronto on Fri, 23 Oct 2026.
 
 AUX_ID is a techno and minimal techno artist based in Italy, tracked on soundcheck, with 5 sets logged across Toronto. Often billed alongside Marivs, Anika Kunst and Antwon Faulkner. Next up: Bsmt 254, Toronto on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ AUX_ID is a techno and minimal techno artist based in Italy, tracked on soundche
 
 Marivs, Anika Kunst, Antwon Faulkner
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aux_id/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aux_id/)*

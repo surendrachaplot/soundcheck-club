@@ -1,6 +1,6 @@
 # jima
 
-jima is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Samis Bar, Athens on Sat, 26 Sept 2026.
+jima is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Samis Bar, Athens on Sat, 26 Sept 2026.
 
 jima is a house and techno artist based in Greece, tracked on soundcheck, with 83 sets logged across Athens, Hamburg, Milan and Tokyo. Often billed alongside 5harpy, bungo and LEFTOLD. Next up: Samis Bar, Athens on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ jima is a house and techno artist based in Greece, tracked on soundcheck, with 8
 
 5harpy, bungo, LEFTOLD
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jima/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jima/)*

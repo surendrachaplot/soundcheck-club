@@ -1,6 +1,6 @@
 # MELINA (3)
 
-MELINA (3) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Fundbureau, Hamburg on Fri, 16 Oct 2026.
+MELINA (3) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Fundbureau, Hamburg on Fri, 16 Oct 2026.
 
 MELINA is a techno and tech house artist based in Germany, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Copenhagen and Frankfurt and 8 more. Often billed alongside Jakob Seidensticker, Surreal (DE) and Wareika. Next up: Fundbureau, Hamburg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ MELINA is a techno and tech house artist based in Germany, tracked on soundcheck
 
 Jakob Seidensticker, Surreal (DE), Wareika
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melina-3/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melina-3/)*

@@ -1,6 +1,6 @@
 # Ferreck Dawn
 
-Ferreck Dawn is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Inception Boat, Sydney on Sat, 26 Sept 2026.
+Ferreck Dawn is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Inception Boat, Sydney on Sat, 26 Sept 2026.
 
 Ferreck Dawn is a house and tech house artist based in Netherlands, tracked on soundcheck, with 90 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 21 more. Often billed alongside Claptone, Sam Divine and Todd Terry. Next up: Inception Boat, Sydney on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Ferreck Dawn is a house and tech house artist based in Netherlands, tracked on s
 
 Claptone, Sam Divine, Todd Terry
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferreckdawn/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferreckdawn/)*

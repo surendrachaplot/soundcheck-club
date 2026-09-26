@@ -1,6 +1,6 @@
 # Fosters
 
-Fosters is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 2 Oct 2026.
+Fosters is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 2 Oct 2026.
 
 Fosters is a techno and house artist based in Australia, tracked on soundcheck, with 54 sets logged across Hobart and Melbourne. Often billed alongside HYBE, Mount Mike and TEMPER TANTRA. Next up: Revolver Upstairs, Melbourne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Fosters is a techno and house artist based in Australia, tracked on soundcheck, 
 
 HYBE, Mount Mike, TEMPER TANTRA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fosters/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fosters/)*

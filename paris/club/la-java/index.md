@@ -1,14 +1,13 @@
 # La Java
 
-La Java is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Canapé Bleu: D Stone, Aleqs Notal, C.LYYA" on Fri, 25 Sept 2026.
+La Java is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Fantastic Man, Hitomi, Track Advisor & Crisp: Your Calling" on Sat, 26 Sept 2026.
 
-La Java is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including Aleqs Notal, Bailey Ibbs, C.LYYA and Chinau and 2 more. Browse upcoming dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
+La Java is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Bailey Ibbs, Chinau, Die Klar and Egna and 2 more. Browse upcoming dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Canapé Bleu: D Stone, Aleqs Notal, C.LYYA | Aleqs Notal, C.LYYA, D Stone |
 | Sat, 26 Sept 2026 | Fantastic Man, Hitomi, Track Advisor & Crisp: Your Calling | Fantastic Man, Hitomi (DE), Track Advisor |
 | Fri, 2 Oct 2026 | Aeromix & Ponez Club: Elias Mazian, Poppy & More | Elias Mazian, Poppy (BE) |
 | Sat, 3 Oct 2026 | Flasha: Bailey Ibbs, Serō, Mirnaxx, Lou De Swarte & Maÿ | Bailey Ibbs, Serō |
@@ -23,4 +22,4 @@ La Java is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with l
 
 105 rue du faubourg du Temple; 75010; Paris; France, Paris
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*

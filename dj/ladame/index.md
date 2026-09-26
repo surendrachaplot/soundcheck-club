@@ -1,6 +1,6 @@
 # La Dame
 
-La Dame is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+La Dame is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
 La Dame is a bass and club artist based in Belgium, tracked on soundcheck, with 34 sets logged across Berlin, Brussels, Lisbon and Lyon and 3 more. Often billed alongside CHUBBZ, DJ Autumn and Le Motel. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
@@ -12,6 +12,7 @@ La Dame is a bass and club artist based in Belgium, tracked on soundcheck, with 
 
 ## Recently played
 
+- Cabaret  Aléatoire, Marseille — Fri, 25 Sept 2026
 - Brasserie de la Mule, Brussels — Fri, 18 Sept 2026
 - Plein Publiek, Brussels — Sun, 14 Jun 2026
 - Illegaal, Brussels — Sat, 2 May 2026
@@ -19,10 +20,9 @@ La Dame is a bass and club artist based in Belgium, tracked on soundcheck, with 
 - La Tricoterie, Brussels — Wed, 31 Dec 2025
 - Loop, Vienna — Fri, 21 Nov 2025
 - Panke, Berlin — Sat, 2 Aug 2025
-- Saintklet, Brussels — Fri, 14 Mar 2025
 
 ## Shares bills with
 
 CHUBBZ, DJ Autumn, Le Motel
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladame/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladame/)*

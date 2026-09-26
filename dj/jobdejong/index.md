@@ -1,6 +1,6 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Colorado Charlie, The Hague on Sat, 26 Sept 2026.
+Job de Jong is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Colorado Charlie, The Hague on Sat, 26 Sept 2026.
 
 Job de Jong is a house and tech house artist based in Netherlands, tracked on soundcheck, with 171 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: Colorado Charlie, The Hague on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ Job de Jong is a house and tech house artist based in Netherlands, tracked on so
 
 Dennis Quin, Prunk, M-High
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*

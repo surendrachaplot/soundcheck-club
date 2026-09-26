@@ -1,6 +1,6 @@
 # Oliva
 
-Oliva is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Rumours Only x Lotus Labs ADE Showcase" on Thu, 22 Oct 2026.
+Oliva is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Rumours Only x Lotus Labs ADE Showcase" on Thu, 22 Oct 2026.
 
 Oliva is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including AATMA, Ae:ther, Amethy and ANSWER (IN) and 2 more. Browse upcoming dates, start times and who's playing. Rembrantplein 17.
 
@@ -9,7 +9,7 @@ Oliva is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Rumours Only x Lotus Labs ADE Showcase | AATMA, ANSWER (IN), Ae:ther, Bullzeye, DON ROHO, Darius Syrossian, Iglesias, Julien Simmons, Mitch de Klein, RSquared |
-| Fri, 23 Oct 2026 | E1 x ADE: DXNBY, Jay de Lys & Simon Kidzoo | DJ ORA, DXNBY, Jay de Lys, Joey Daniel, Roxie Li, Simon Kidzoo |
+| Fri, 23 Oct 2026 | E1 ADE: DXNBY, Jay de Lys & Simon Kidzoo | DJ ORA, DXNBY, Jay de Lys, Joey Daniel, Roxie Li, Simon Kidzoo |
 | Sat, 24 Oct 2026 | Hush ADE with Ranger Trucco, Ellia Jaya & More | Candidate, Ellia Jaya, Lewis Taylor, Ranger Trucco |
 | Sun, 25 Oct 2026 | Dive Deep: ADE Closing - Melodic Edition w/ AVALAN, Corren Cavini, Stylo  | AVALAN, Amethy, Corren Cavini, FR3ADY, KARINSMATIC, Patrick Krause, Soofnic, Stylo, Usatov |
 
@@ -17,4 +17,4 @@ Oliva is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with 
 
 Rembrantplein 17, Amsterdam
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/oliva/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/oliva/)*

@@ -1,14 +1,15 @@
 # Asha (4)
 
-Asha (4) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Système, Montreal on Thu, 22 Oct 2026.
+Asha (4) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Système, Montreal on Thu, 22 Oct 2026.
 
-Asha is a techno and bass artist based in Canada, tracked on soundcheck, with 54 sets logged across Berlin, Chicago, Mexico City and Montreal and 2 more. Often billed alongside Runa, MIASALAV and Boogaloo Jones. Next up: Système, Montreal on Thu 22 Oct.
+Asha is a techno and bass artist based in Canada, tracked on soundcheck, with 55 sets logged across Berlin, Chicago, Mexico City and Montreal and 2 more. Often billed alongside Runa, MIASALAV and Boogaloo Jones. Next up: Système, Montreal on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Système | Montreal |
+| Sat, 24 Oct 2026 | TBA | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Asha is a techno and bass artist based in Canada, tracked on soundcheck, with 54
 
 Runa, MIASALAV, Boogaloo Jones
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asha-4/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asha-4/)*

@@ -1,14 +1,13 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 25 Sept 2026.
+PARAMIDA is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Club Guesthouse, Bucharest on Sat, 26 Sept 2026.
 
-PARAMIDA is a house and techno artist based in Germany, tracked on soundcheck, with 258 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: CLUB RAUM, Amsterdam on Fri 25 Sept.
+PARAMIDA is a house and techno artist based in Germany, tracked on soundcheck, with 258 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Club Guesthouse, Bucharest on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sat, 26 Sept 2026 | Club Guesthouse | Bucharest |
 | Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 2 Oct 2026 | TRAUM | Antwerp |
@@ -22,6 +21,7 @@ PARAMIDA is a house and techno artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam — Fri, 25 Sept 2026
 - Azimut Club, Turin — Sat, 19 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - Amnesia Ibiza, Ibiza — Tue, 15 Sept 2026
@@ -29,10 +29,9 @@ PARAMIDA is a house and techno artist based in Germany, tracked on soundcheck, w
 - BASEMENT, New York City — Fri, 11 Sept 2026
 - Pylonen - Frizonen Langebro, Copenhagen — Fri, 4 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 28 Aug 2026
-- Chinois Ibiza, Ibiza — Tue, 25 Aug 2026
 
 ## Shares bills with
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

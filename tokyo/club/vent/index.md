@@ -1,14 +1,13 @@
 # VENT
 
-VENT is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is ".VRIL , Erika" on Fri, 25 Sept 2026.
+VENT is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Henning Baer" on Sat, 26 Sept 2026.
 
-VENT is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including 1-DRINK, 5ive, Abiu and AKIRAM EN and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
+VENT is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line-ups including 1-DRINK, 5ive, Abiu and Aöcram and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | .VRIL , Erika | .VRIL, AKIRAM EN, Erika, NYAO, Shintarø Kanie, Tomoya, YURI VALEN |
 | Sat, 26 Sept 2026 | Henning Baer | Henning Baer, Jiho, KUNPEI, Kent Oria, fýsia |
 | Fri, 2 Oct 2026 | Efdemin , Mod.1 | DANA NADA, Efdemin, Junya Yamamura, Kengo Yuasa, Mod.1 |
 | Sat, 3 Oct 2026 | John Talabot | Abiu, Chihoshi, John Talabot, Kurea, MSMS, Terax |
@@ -18,9 +17,10 @@ VENT is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line
 | Sun, 11 Oct 2026 | D.Dan | D.Dan, Eichi Abe, KOSHIRO, Mari Sakurai, MoEPiKA, Nova, YUVIE |
 | Fri, 16 Oct 2026 | Ata | Ata, Dr. Nishimura, Hayato, Kasumisty, Lui (6), Rio (JP) |
 | Sat, 17 Oct 2026 | Petar Dundov / LDG x MIND OFF | Dani Savant, Petar Dundov, Raul (2), Shelly, YUTA, Yama |
+| Fri, 23 Oct 2026 | Eric Duncan / DISKO KLUBB | Eric Duncan, HARUTO, Monkey Timers, Rami, YOSHIHAARAA |
 
 ## Address
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

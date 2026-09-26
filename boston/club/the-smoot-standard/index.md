@@ -1,6 +1,6 @@
 # The Smoot Standard
 
-The Smoot Standard is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Boston Open Decks" on Thu, 8 Oct 2026.
+The Smoot Standard is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Boston Open Decks" on Thu, 8 Oct 2026.
 
 The Smoot Standard is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with line-ups including ASHACK. Browse upcoming dates, start times and who's playing. 313 Massachusetts Ave, Cambridge, MA 02139, USA.
 
@@ -17,4 +17,4 @@ The Smoot Standard is a music venue in Boston listed on soundcheck. 4 upcoming g
 
 313 Massachusetts Ave, Cambridge, MA 02139, USA, Boston
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-smoot-standard/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-smoot-standard/)*

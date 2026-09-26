@@ -1,8 +1,8 @@
 # Armin Hermann
 
-Armin Hermann is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 2 Oct 2026.
+Armin Hermann is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Armin Hermann is a trance and techno artist based in Austria, tracked on soundcheck, with 23 sets logged across Berlin, Munich, Nürnberg and Paris and 2 more. Often billed alongside KLING&KLANG, Amøn and Paul Meier. Next up: Underground SF, San Francisco/Oakland on Fri 2 Oct.
+Armin Hermann is a trance and techno artist based in Austria, tracked on soundcheck, with 24 sets logged across Berlin, Munich, Nürnberg and Paris and 2 more. Often billed alongside KLING&KLANG, Amøn and Paul Meier. Next up: Underground SF, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Armin Hermann is a trance and techno artist based in Austria, tracked on soundch
 
 ## Recently played
 
+- Das Werk, Vienna — Fri, 25 Sept 2026
 - Gleis19, Vienna — Wed, 3 Jun 2026
 - Das Werk, Vienna — Sun, 24 May 2026
 - Lokschuppen Berlin, Berlin — Fri, 17 Apr 2026
@@ -19,10 +20,9 @@ Armin Hermann is a trance and techno artist based in Austria, tracked on soundch
 - Grelle Forelle, Vienna — Fri, 6 Mar 2026
 - Grelle Forelle, Vienna — Sat, 14 Feb 2026
 - Lokschuppen Berlin, Berlin — Sat, 17 Jan 2026
-- Rote Sonne, Munich — Fri, 5 Dec 2025
 
 ## Shares bills with
 
 KLING&KLANG, Amøn, Paul Meier
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arminhermann/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arminhermann/)*

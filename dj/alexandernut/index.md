@@ -1,14 +1,15 @@
 # Alexander Nut
 
-Alexander Nut is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Kazimier Garden, Liverpool on Sat, 26 Sept 2026.
+Alexander Nut is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kazimier Garden, Liverpool on Sat, 26 Sept 2026.
 
-Alexander Nut is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Barcelona and Birmingham and 8 more. Often billed alongside Chunky, Saige Sounds and Ella Knight. Next up: Kazimier Garden, Liverpool on Sat 26 Sept.
+Alexander Nut is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Barcelona and Birmingham and 8 more. Often billed alongside Chunky, Saige Sounds and Ella Knight. Next up: Kazimier Garden, Liverpool on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Kazimier Garden | Liverpool |
+| Sat, 31 Oct 2026 | The Carpet Shop | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Alexander Nut is a house and broken beat artist based in United Kingdom, tracked
 
 Chunky, Saige Sounds, Ella Knight
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandernut/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandernut/)*

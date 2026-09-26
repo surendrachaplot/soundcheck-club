@@ -1,8 +1,8 @@
 # Parra for Cuva
 
-Parra for Cuva is a House and Electronica artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Docks, Hamburg on Tue, 29 Sept 2026.
+Parra for Cuva is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Docks, Hamburg on Tue, 29 Sept 2026.
 
-Parra for Cuva is a house and electronica artist based in Germany, tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: Docks, Hamburg on Tue 29 Sept.
+Parra for Cuva is a house and deep house artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: Docks, Hamburg on Tue 29 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Parra for Cuva is a house and electronica artist based in Germany, tracked on so
 | Sat, 31 Oct 2026 | The Bellwether | Los Angeles |
 | Thu, 5 Nov 2026 | Cervantes' Masterpiece Ballroom | Denver |
 | Sat, 7 Nov 2026 | BERHTA | Washington DC |
+| Sun, 8 Nov 2026 | ZeyZey | Miami |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Parra for Cuva is a house and electronica artist based in Germany, tracked on so
 
 Christian Löffler, Natascha Polké, Deer Jade
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*

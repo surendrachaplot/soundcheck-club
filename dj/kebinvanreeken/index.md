@@ -1,8 +1,8 @@
 # Kebin van Reeken
 
-Kebin van Reeken is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Opposite, Barcelona on Fri, 16 Oct 2026.
+Kebin van Reeken is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Opposite, Barcelona on Fri, 16 Oct 2026.
 
-Kebin van Reeken is a progressive house and techno artist based in Antigua and Barbuda, tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Buenos Aires and Chicago and 1 more. Often billed alongside Rauschhaus, Adela and Agustin Ficarra. Next up: Opposite, Barcelona on Fri 16 Oct.
+Kebin van Reeken is a progressive house and techno artist based in Antigua and Barbuda, tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Buenos Aires and Chicago and 1 more. Often billed alongside Nicholas Van Orton, Rauschhaus and Adela. Next up: Opposite, Barcelona on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Kebin van Reeken is a progressive house and techno artist based in Antigua and B
 
 ## Shares bills with
 
-Rauschhaus, Adela, Agustin Ficarra
+Nicholas Van Orton, Rauschhaus, Adela
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kebinvanreeken/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kebinvanreeken/)*

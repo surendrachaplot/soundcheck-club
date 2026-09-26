@@ -1,8 +1,8 @@
 # ROSA
 
-ROSA is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Klub Verboten x BERLIN" on Sat, 3 Oct 2026.
+ROSA is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Klub Verboten x BERLIN" on Sat, 3 Oct 2026.
 
-ROSA is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including AISHA, Amo (IT), An Chen and Samantha Togni. Browse upcoming dates, start times and who's playing. Storkower Str. 121, 10407 Berlin.
+ROSA is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including AISHA, Amo (IT), An Chen and Samantha Togni and 1 more. Browse upcoming dates, start times and who's playing. Storkower Str. 121, 10407 Berlin.
 
 ## What's on
 
@@ -10,10 +10,10 @@ ROSA is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Klub Verboten x BERLIN |  |
 | Sat, 31 Oct 2026 | Klub Verboten x BERLIN - HALLOWEEN SPECIAL |  |
-| Sat, 14 Nov 2026 | LIBIDOH █ | AISHA, Amo (IT), An Chen, Samantha Togni |
+| Sat, 14 Nov 2026 | LIBIDOH █ | AISHA, Amo (IT), An Chen, Samantha Togni, Sekt auf Eis |
 
 ## Address
 
 Storkower Str. 121, 10407 Berlin, Berlin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosa/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosa/)*

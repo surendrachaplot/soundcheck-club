@@ -1,14 +1,13 @@
 # Benny L
 
-Benny L is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Phonox, London on Fri, 25 Sept 2026.
+Benny L is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ijland, Amsterdam on Thu, 22 Oct 2026.
 
-Benny L is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 21 more. Often billed alongside Bladerunner, Carasel and Dillinja. Next up: Phonox, London on Fri 25 Sept.
+Benny L is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 21 more. Often billed alongside Bladerunner, Carasel and Dillinja. Next up: Ijland, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Phonox | London |
 | Thu, 22 Oct 2026 | Ijland | Amsterdam |
 | Sat, 31 Oct 2026 | Six Trees Bar And Kitchen Manchester | Manchester |
 | Sat, 14 Nov 2026 | The Nest | Nottingham |
@@ -16,6 +15,7 @@ Benny L is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- Phonox, London — Fri, 25 Sept 2026
 - Eutopia Whs, London — Sat, 5 Sept 2026
 - Unit 1, London — Sun, 23 Aug 2026
 - Electric Ballroom, London — Sat, 25 Jul 2026
@@ -23,10 +23,9 @@ Benny L is a drum & bass and jungle artist based in United Kingdom, tracked on s
 - TBA - Shed 10, Auckland — Thu, 9 Jul 2026
 - Chinese Laundry, Sydney — Fri, 3 Jul 2026
 - Ampere, Antwerp — Fri, 19 Jun 2026
-- The Cause, London — Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Bladerunner, Carasel, Dillinja
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyl/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyl/)*

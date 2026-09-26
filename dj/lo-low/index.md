@@ -1,6 +1,6 @@
 # LO-LOW
 
-LO-LOW is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Starlane Pizza Bar, London on Sun, 27 Sept 2026.
+LO-LOW is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Starlane Pizza Bar, London on Sun, 27 Sept 2026.
 
 LO-LOW is a techno and house artist based in United Kingdom, tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside Samantha Togni, David Ramsay and Someone Sunny. Next up: Starlane Pizza Bar, London on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ LO-LOW is a techno and house artist based in United Kingdom, tracked on soundche
 
 Samantha Togni, David Ramsay, Someone Sunny
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*

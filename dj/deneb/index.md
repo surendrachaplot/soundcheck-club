@@ -1,6 +1,6 @@
 # Deneb
 
-Deneb is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Hookah Lounge, Mexico City on Mon, 21 Sept 2026.
+Deneb is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Hookah Lounge, Mexico City on Mon, 21 Sept 2026.
 
 Deneb is a house and techno artist based in France, tracked on soundcheck, with 21 sets logged across Mexico City and Montreal. Often billed alongside Clochette, Bioquake and Boomy. Next up: Hookah Lounge, Mexico City on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Deneb is a house and techno artist based in France, tracked on soundcheck, with 
 
 Clochette, Bioquake, Boomy
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deneb/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deneb/)*

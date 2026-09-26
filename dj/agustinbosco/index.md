@@ -1,6 +1,6 @@
 # Agustin Bosco
 
-Agustin Bosco is a Tech House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Discoteca Karma, Barcelona on Sat, 26 Sept 2026.
+Agustin Bosco is a Tech House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Discoteca Karma, Barcelona on Sat, 26 Sept 2026.
 
 Agustin Bosco is a tech house and garage artist based in Argentina, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside FREDDIESS, Agustín Negri and Vanyra. Next up: Discoteca Karma, Barcelona on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Agustin Bosco is a tech house and garage artist based in Argentina, tracked on s
 
 FREDDIESS, Agustín Negri, Vanyra
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinbosco/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinbosco/)*

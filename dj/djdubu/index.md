@@ -1,6 +1,6 @@
 # DJ Dubu
 
-DJ Dubu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Washington DC on Sat, 24 Oct 2026.
+DJ Dubu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Washington DC on Sat, 24 Oct 2026.
 
 DJ Dubu is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Washington DC. Often billed alongside Associate, Stos and $et. Next up: TBA, Washington DC on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ Dubu is a techno and house artist based in United States of America, tracked 
 
 Associate, Stos, $et
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdubu/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdubu/)*

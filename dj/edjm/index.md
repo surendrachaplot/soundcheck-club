@@ -1,6 +1,6 @@
 # EDJM
 
-EDJM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Meraki, Liverpool on Sat, 24 Oct 2026.
+EDJM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Meraki, Liverpool on Sat, 24 Oct 2026.
 
 EDJM is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Berlin, Leeds, Liverpool and Malta and 1 more. Often billed alongside CHVZ, BONSWA and BRNE. Next up: Meraki, Liverpool on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ EDJM is a techno and trance artist based in United Kingdom, tracked on soundchec
 
 CHVZ, BONSWA, BRNE
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edjm/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edjm/)*

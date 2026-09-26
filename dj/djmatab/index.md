@@ -1,6 +1,6 @@
 # DJ Matab
 
-DJ Matab is a Disco and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
+DJ Matab is a Disco and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
 
 DJ Matab is a disco and electronica artist tracked on soundcheck, with 13 sets logged across Melbourne, Sydney and Tokyo. Often billed alongside Luqman, Camille and DJ JNETT. Next up: Northcote Theatre, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Matab is a disco and electronica artist tracked on soundcheck, with 13 sets l
 
 Luqman, Camille (1), DJ JNETT
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmatab/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmatab/)*

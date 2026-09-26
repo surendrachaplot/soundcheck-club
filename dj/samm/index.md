@@ -1,6 +1,6 @@
 # Samm
 
-Samm is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Lula Club, Madrid on Fri, 2 Oct 2026.
+Samm is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Lula Club, Madrid on Fri, 2 Oct 2026.
 
 Samm is a house and deep house artist based in Greece, tracked on soundcheck, with 14 sets logged across Amsterdam, Hamburg, Ibiza and London and 4 more. Often billed alongside AJNA, Andrea Oliva and Adriatique. Next up: Lula Club, Madrid on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Samm is a house and deep house artist based in Greece, tracked on soundcheck, wi
 
 AJNA, Andrea Oliva, Adriatique
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samm/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samm/)*

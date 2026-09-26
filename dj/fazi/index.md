@@ -1,6 +1,6 @@
 # Fazi
 
-Fazi is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 2 Oct 2026.
+Fazi is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 2 Oct 2026.
 
 Fazi is a techno and gabber artist based in Australia, tracked on soundcheck, with 5 sets logged across Berlin and Munich. Often billed alongside Dena, Dmt and Encountear. Next up: Bahnwärter Thiel, Munich on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Fazi is a techno and gabber artist based in Australia, tracked on soundcheck, wi
 
 Dena, Dmt (1), Encountear
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fazi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fazi/)*

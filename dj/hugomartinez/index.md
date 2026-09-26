@@ -1,6 +1,6 @@
 # Hugo Martinez
 
-Hugo Martinez is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Esbirra Ibiza, Ibiza on Sat, 31 Oct 2026.
+Hugo Martinez is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Esbirra Ibiza, Ibiza on Sat, 31 Oct 2026.
 
 Hugo Martinez is a house and minimal artist based in Spain, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 10 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: Esbirra Ibiza, Ibiza on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Hugo Martinez is a house and minimal artist based in Spain, tracked on soundchec
 
 Pol K, Nuzzo, Carlos Vila
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*

@@ -1,6 +1,6 @@
 # LOUIS (3)
 
-LOUIS (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+LOUIS (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
 
 LOUIS is a techno and house artist tracked on soundcheck, with 8 sets logged across Budapest, Copenhagen, Mexico City and Stockholm and 1 more. Often billed alongside Andrija Jäger, Acsa and Aera. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ LOUIS is a techno and house artist tracked on soundcheck, with 8 sets logged acr
 
 Andrija Jäger, Acsa, Aera
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louis-3/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louis-3/)*

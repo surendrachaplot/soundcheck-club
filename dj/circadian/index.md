@@ -1,6 +1,6 @@
 # Circadian
 
-Circadian is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Circadian is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Circadian is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Adelaide, Amsterdam, Auckland and Barcelona and 27 more. Often billed alongside K Motionz, Koven and Skantia. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Circadian is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 K Motionz, Koven, Skantia
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/circadian/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/circadian/)*

@@ -1,6 +1,6 @@
 # Alden Tyrell
 
-Alden Tyrell is a Italo Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Inter-City, The Hague on Sat, 26 Sept 2026.
+Alden Tyrell is a Italo Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Inter-City, The Hague on Sat, 26 Sept 2026.
 
 Alden Tyrell is an italo disco and house artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Madrid and Rotterdam and 2 more. Often billed alongside I-F, Marsman and David Vunk. Next up: Inter-City, The Hague on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Alden Tyrell is an italo disco and house artist based in Netherlands, tracked on
 
 I-F, Marsman, David Vunk
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldentyrell/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldentyrell/)*

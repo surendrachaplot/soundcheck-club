@@ -1,6 +1,6 @@
 # Amen Sage
 
-Amen Sage is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
+Amen Sage is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
 
 Amen Sage is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Manchester and Newcastle. Often billed alongside Killamanjaro, krioso and Becky Woodcock. Next up: The Clayshed, Newcastle on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Amen Sage is a jungle and hardcore artist based in United Kingdom, tracked on so
 
 Killamanjaro, krioso, Becky Woodcock
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amensage/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amensage/)*

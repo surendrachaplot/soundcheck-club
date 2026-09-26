@@ -1,6 +1,6 @@
 # Hangaelle
 
-Hangaelle is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Toronto on Sun, 11 Oct 2026.
+Hangaelle is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Toronto on Sun, 11 Oct 2026.
 
 Hangaelle is an amapiano and afro house artist based in Canada, tracked on soundcheck, with 38 sets logged across Berlin, London, Los Angeles and Montreal and 2 more. Often billed alongside ADEOLA, ISA. and Jelz. Next up: TBA, Toronto on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Hangaelle is an amapiano and afro house artist based in Canada, tracked on sound
 
 ADEOLA, ISA., Jelz
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hangaelle/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hangaelle/)*

@@ -1,6 +1,6 @@
 # The Checkup
 
-The Checkup is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
+The Checkup is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
 
 The Checkup is a house and techno artist based in France, tracked on soundcheck, with 52 sets logged across Amsterdam, Bali, Barcelona and Berlin and 8 more. Often billed alongside Piem, Leo Janeiro and Nesi. Next up: La Terrrazza, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ The Checkup is a house and techno artist based in France, tracked on soundcheck,
 
 Piem, Leo Janeiro, Nesi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thecheckup/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thecheckup/)*

@@ -1,6 +1,6 @@
 # Lou
 
-Lou is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Carmo Rooftop, Lisbon on Sat, 26 Sept 2026.
+Lou is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Carmo Rooftop, Lisbon on Sat, 26 Sept 2026.
 
 Lou is a techno and house artist based in France, tracked on soundcheck, with 6 sets logged across Lisbon and Paris. Often billed alongside Amarou, Jacky Jeane and Aurèle. Next up: Carmo Rooftop, Lisbon on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Lou is a techno and house artist based in France, tracked on soundcheck, with 6 
 
 Amarou, Jacky Jeane, Aurèle
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lou_dj/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lou_dj/)*

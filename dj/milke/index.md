@@ -1,6 +1,6 @@
 # Milkē
 
-Milkē is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at NWHR, Montreal on Fri, 2 Oct 2026.
+Milkē is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at NWHR, Montreal on Fri, 2 Oct 2026.
 
 Milkē is a techno and breakbeat artist based in Venezuela, tracked on soundcheck, with 28 sets logged across Montreal. Often billed alongside Christø, Bianca Badita and Mike Larry. Next up: NWHR, Montreal on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Milkē is a techno and breakbeat artist based in Venezuela, tracked on soundchec
 
 Christø, Bianca Badita, Mike Larry
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milke/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milke/)*

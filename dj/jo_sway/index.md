@@ -1,6 +1,6 @@
 # jo_sway
 
-jo_sway is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Mood Ring, New York City on Wed, 7 Oct 2026.
+jo_sway is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Mood Ring, New York City on Wed, 7 Oct 2026.
 
 jo_sway is a club and techno artist based in United States of America, tracked on soundcheck, with 47 sets logged across Los Angeles, New York City and Washington DC. Often billed alongside purp, Bodegaparty and Nymphostar. Next up: Mood Ring, New York City on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ jo_sway is a club and techno artist based in United States of America, tracked o
 
 purp, Bodegaparty, Nymphostar
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jo_sway/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jo_sway/)*

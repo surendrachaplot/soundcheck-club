@@ -1,6 +1,6 @@
 # Amal Nemer
 
-Amal Nemer is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Gold Coast, Chicago on Fri, 9 Oct 2026.
+Amal Nemer is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Gold Coast, Chicago on Fri, 9 Oct 2026.
 
 Amal Nemer is a tech house and house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Austin, Boston, Chicago and Detroit and 9 more. Often billed alongside Malone, Lazaro Casanova and Oscar G. Next up: TBA - Gold Coast, Chicago on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Amal Nemer is a tech house and house artist based in United States of America, t
 
 Malone, Lazaro Casanova, Oscar G
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amalnemer/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amalnemer/)*

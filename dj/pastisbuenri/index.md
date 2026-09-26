@@ -1,6 +1,6 @@
 # Pastis & Buenri
 
-Pastis & Buenri is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Fabrik, Madrid on Sat, 17 Oct 2026.
+Pastis & Buenri is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Fabrik, Madrid on Sat, 17 Oct 2026.
 
 Pastis & Buenri are a techno and hardcore duo based in Spain, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Ibiza and Madrid and 2 more. Often billed alongside Carnada, Ozzwald and Adrian Mills. Next up: Fabrik, Madrid on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Pastis & Buenri are a techno and hardcore duo based in Spain, tracked on soundch
 
 Carnada, Ozzwald, Adrian Mills
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pastisbuenri/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pastisbuenri/)*

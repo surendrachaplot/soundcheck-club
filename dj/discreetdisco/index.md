@@ -1,6 +1,6 @@
 # Discreet Disco
 
-Discreet Disco is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Wayburn, Detroit on Sat, 26 Sept 2026.
+Discreet Disco is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Wayburn, Detroit on Sat, 26 Sept 2026.
 
 Discreet Disco is a house and funk / soul artist tracked on soundcheck, with 11 sets logged across Detroit. Often billed alongside Walter Glasshouse, Jyarsch and Rebecca Goldberg. Next up: The Wayburn, Detroit on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Discreet Disco is a house and funk / soul artist tracked on soundcheck, with 11 
 
 Walter Glasshouse, Jyarsch, Rebecca Goldberg
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/discreetdisco/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/discreetdisco/)*

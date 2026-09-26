@@ -1,6 +1,6 @@
 # All My Friends
 
-All My Friends is a music venue in London with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Still Life Summer Closing with Izzy, Lou Is + more" on Sat, 26 Sept 2026.
+All My Friends is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Still Life Summer Closing with Izzy, Lou Is + more" on Sat, 26 Sept 2026.
 
 All My Friends is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including ADMNTi, CRL, IZZY (UK) and Kyle Parsley and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
 
@@ -18,4 +18,4 @@ All My Friends is a music venue in London listed on soundcheck. 5 upcoming gigs,
 
 Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN, London
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*

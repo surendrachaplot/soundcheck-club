@@ -1,6 +1,6 @@
 # Lisbird
 
-Lisbird is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Fundbureau, Hamburg on Fri, 23 Oct 2026.
+Lisbird is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Fundbureau, Hamburg on Fri, 23 Oct 2026.
 
 Lisbird is a house and techno artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin and Hamburg. Often billed alongside Gwen Wayne, Rosa Luxemburg and 2 Girls 1 Club. Next up: Fundbureau, Hamburg on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lisbird is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Gwen Wayne, Rosa Luxemburg, 2 Girls 1 Club
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisbird/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisbird/)*

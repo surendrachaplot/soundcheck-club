@@ -1,6 +1,6 @@
 # ki (43)
 
-ki (43) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 24 Oct 2026.
+ki (43) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 24 Oct 2026.
 
 ki is a techno and house artist based in Japan, tracked on soundcheck, with 20 sets logged across Barcelona and Tokyo. Often billed alongside SIGNAL (JP), MOTOKA and Torus. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ ki is a techno and house artist based in Japan, tracked on soundcheck, with 20 s
 
 SIGNAL (JP), MOTOKA, Torus
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-43/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-43/)*

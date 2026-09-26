@@ -1,6 +1,6 @@
 # Emma DJ
 
-Emma DJ is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Emma DJ is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Emma DJ is an experimental and techno artist based in France, tracked on soundcheck, with 90 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside ojoo, OKO DJ and Otis (BE). Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Emma DJ is an experimental and techno artist based in France, tracked on soundch
 
 ojoo, OKO DJ, Otis (BE)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmadj/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmadj/)*

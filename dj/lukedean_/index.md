@@ -1,6 +1,6 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 26 Sept 2026.
+Luke Dean_ is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 26 Sept 2026.
 
 Luke Dean_ is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Belfast and Brighton and 29 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: Blackstone Street Warehouse, Liverpool on Sat 26 Sept.
 
@@ -31,4 +31,4 @@ Luke Dean_ is a house and tech house artist based in United Kingdom, tracked on 
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

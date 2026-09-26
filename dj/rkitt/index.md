@@ -1,6 +1,6 @@
 # R.Kitt
 
-R.Kitt is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Flux Studios D2, Dublin on Sat, 31 Oct 2026.
+R.Kitt is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Flux Studios D2, Dublin on Sat, 31 Oct 2026.
 
 R.Kitt is a club and bass artist tracked on soundcheck, with 20 sets logged across Belfast, Berlin, Cork and Dublin and 3 more. Often billed alongside Tadhg K, dijaka and polyp. Next up: Flux Studios D2, Dublin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ R.Kitt is a club and bass artist tracked on soundcheck, with 20 sets logged acro
 
 Tadhg K, dijaka, polyp
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rkitt/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rkitt/)*

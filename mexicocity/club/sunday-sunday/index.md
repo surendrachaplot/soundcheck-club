@@ -1,6 +1,6 @@
 # Sunday Sunday
 
-Sunday Sunday is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Saturday Saturday x Calypso Cvlt: 26.09.26" on Sat, 26 Sept 2026.
+Sunday Sunday is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Saturday Saturday x Calypso Cvlt: 26.09.26" on Sat, 26 Sept 2026.
 
 Sunday Sunday is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including Apiento, AURELIA (MX), Binh and Coco Maria and 2 more. Browse upcoming dates, start times and who's playing. Tabaqueros 16, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX.
 
@@ -15,4 +15,4 @@ Sunday Sunday is a music venue in Mexico City listed on soundcheck. 2 upcoming g
 
 Tabaqueros 16, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico City
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/sunday-sunday/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/sunday-sunday/)*

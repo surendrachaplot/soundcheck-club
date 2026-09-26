@@ -1,6 +1,6 @@
 # Brasi
 
-Brasi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 26 Sept 2026.
+Brasi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 26 Sept 2026.
 
 Brasi is a techno and house artist based in Italy, tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 32 more. Often billed alongside Niff, Jane Fitz and Alexia Glensy. Next up: THE MAGICK BAR, Rome on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Brasi is a techno and house artist based in Italy, tracked on soundcheck, with 1
 
 Niff, Jane Fitz, Alexia Glensy
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brasi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brasi/)*

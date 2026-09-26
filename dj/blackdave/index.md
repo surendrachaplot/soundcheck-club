@@ -1,6 +1,6 @@
 # Black Dave
 
-Black Dave is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at ark (Melb), Melbourne on Sat, 26 Sept 2026.
+Black Dave is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at ark (Melb), Melbourne on Sat, 26 Sept 2026.
 
 Black Dave is a techno and house artist based in Australia, tracked on soundcheck, with 69 sets logged across Melbourne and Sydney. Often billed alongside Charlotte Rooney, Luke Hovey and Mordi. Next up: ark (Melb), Melbourne on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Black Dave is a techno and house artist based in Australia, tracked on soundchec
 
 Charlotte Rooney, Luke Hovey, Mordi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdave/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdave/)*

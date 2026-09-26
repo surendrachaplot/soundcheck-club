@@ -1,6 +1,6 @@
 # ÓIR (1)
 
-ÓIR (1) is a Trance and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Yamamori Tengu, Dublin on Sat, 7 Nov 2026.
+ÓIR (1) is a Trance and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Yamamori Tengu, Dublin on Sat, 7 Nov 2026.
 
 ÓIR is a trance and afro tech artist based in Ireland, tracked on soundcheck, with 17 sets logged across Cork and Dublin. Often billed alongside ACKERMAN, Murchadh and Rhyzine. Next up: Yamamori Tengu, Dublin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@
 
 ACKERMAN, Murchadh, Rhyzine
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oir-1/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oir-1/)*

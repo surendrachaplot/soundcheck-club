@@ -1,6 +1,6 @@
 # Jauri
 
-Jauri is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Studio Saglio, Strasbourg on Sat, 26 Sept 2026.
+Jauri is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Studio Saglio, Strasbourg on Sat, 26 Sept 2026.
 
 Jauri is a techno and electro artist based in Hungary, tracked on soundcheck, with 10 sets logged across Budapest, Prague and Strasbourg. Often billed alongside Technokool, Paralich and Sikztah. Next up: Studio Saglio, Strasbourg on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jauri is a techno and electro artist based in Hungary, tracked on soundcheck, wi
 
 Technokool, Paralich, Sikztah
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jauri/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jauri/)*

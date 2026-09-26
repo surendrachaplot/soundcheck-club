@@ -1,6 +1,6 @@
 # Yuksek
 
-Yuksek is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at La Java, Paris on Sat, 17 Oct 2026.
+Yuksek is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Java, Paris on Sat, 17 Oct 2026.
 
 Yuksek is a house and disco artist based in France, tracked on soundcheck, with 40 sets logged across Barcelona, London, Lyon and Madrid and 9 more. Often billed alongside Acid Arab, Kapote and 50Minimals. Next up: La Java, Paris on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Yuksek is a house and disco artist based in France, tracked on soundcheck, with 
 
 Acid Arab, Kapote, 50Minimals
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuksek/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuksek/)*

@@ -1,20 +1,20 @@
 # Laila Amira
 
-Laila Amira is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 25 Sept 2026.
+Laila Amira is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Elsewhere, New York City on Sat, 26 Sept 2026.
 
-Laila Amira is a house and disco artist based in United States of America, tracked on soundcheck, with 59 sets logged across Montreal, New York City and Paris. Often billed alongside Tim Lucent, Lady Harley and Pleasure Jams. Next up: Dead Letter No. 9, New York City on Fri 25 Sept.
+Laila Amira is a house and disco artist based in United States of America, tracked on soundcheck, with 59 sets logged across Montreal, New York City and Paris. Often billed alongside Tim Lucent, Lady Harley and Pleasure Jams. Next up: Elsewhere, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Dead Letter No. 9 | New York City |
 | Sat, 26 Sept 2026 | Elsewhere | New York City |
 | Sat, 26 Sept 2026 | House of Yes | New York City |
 | Sat, 3 Oct 2026 | Good Room | New York City |
 
 ## Recently played
 
+- Dead Letter No. 9, New York City — Fri, 25 Sept 2026
 - Friends & Lovers, New York City — Fri, 11 Sept 2026
 - LoHi, New York City — Sat, 5 Sept 2026
 - Outer Heaven, New York City — Thu, 20 Aug 2026
@@ -22,10 +22,9 @@ Laila Amira is a house and disco artist based in United States of America, track
 - Elsewhere, New York City — Sat, 6 Jun 2026
 - Good Room, New York City — Fri, 29 May 2026
 - Moondog Hifi, New York City — Sat, 16 May 2026
-- MAD Radio NYC, New York City — Sat, 16 May 2026
 
 ## Shares bills with
 
 Tim Lucent, Lady Harley, Pleasure Jams
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lailaamira/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lailaamira/)*

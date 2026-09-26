@@ -1,6 +1,6 @@
 # Eluzid
 
-Eluzid is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Paloma, Berlin on Thu, 29 Oct 2026.
+Eluzid is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Paloma, Berlin on Thu, 29 Oct 2026.
 
 Eluzid is a techno and house artist based in Germany, tracked on soundcheck, with 68 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 1 more. Often billed alongside Amin Fallaha, Miran N and aitch. Next up: Paloma, Berlin on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Eluzid is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Amin Fallaha, Miran N, aitch
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eluzid/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eluzid/)*

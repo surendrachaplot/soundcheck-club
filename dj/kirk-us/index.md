@@ -1,6 +1,6 @@
 # Kirk (US)
 
-Kirk (US) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Radius, Chicago on Fri, 30 Oct 2026.
+Kirk (US) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Radius, Chicago on Fri, 30 Oct 2026.
 
 Kirk (US) is a techno and club artist based in United States of America, tracked on soundcheck, with 68 sets logged across Chicago, Cologne, Frankfurt and Hamburg and 6 more. Often billed alongside HOTPRETTY, Ariel Zetina and BLACKCLUB. Next up: Radius, Chicago on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kirk (US) is a techno and club artist based in United States of America, tracked
 
 HOTPRETTY, Ariel Zetina, BLACKCLUB
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirk-us/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirk-us/)*

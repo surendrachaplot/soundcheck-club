@@ -1,6 +1,6 @@
 # remove
 
-remove is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Carmela Collective 1st Year Anniversary" on Sat, 26 Sept 2026.
+remove is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Carmela Collective 1st Year Anniversary" on Sat, 26 Sept 2026.
 
 remove is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Calamidades Lola, Cameron Audio and Maki (PT). Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ remove is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with 
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Carmela Collective 1st Year Anniversary | Calamidades Lola, Cameron Audio, Maki (PT) |
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/remove/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/remove/)*

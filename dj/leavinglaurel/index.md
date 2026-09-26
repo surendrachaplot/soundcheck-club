@@ -1,6 +1,6 @@
 # Leaving Laurel
 
-Leaving Laurel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Cause, London on Sat, 12 Dec 2026.
+Leaving Laurel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Cause, London on Sat, 12 Dec 2026.
 
 Leaving Laurel is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across London, Montreal and New York City. Often billed alongside Braxton, CRi and Rezident. Next up: The Cause, London on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Leaving Laurel is a techno and house artist based in United States of America, t
 
 Braxton, CRi, Rezident
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leavinglaurel/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leavinglaurel/)*

@@ -1,6 +1,6 @@
 # Happyfun Hideaway
 
-Happyfun Hideaway is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Analog Culture x Happyfun Happyhour" on Sat, 26 Sept 2026.
+Happyfun Hideaway is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Analog Culture x Happyfun Happyhour" on Sat, 26 Sept 2026.
 
 Happyfun Hideaway is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including _briggs, Hidden Order, LUCIA. and Norty Cotto and 2 more. Browse upcoming dates, start times and who's playing. 1211 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -15,4 +15,4 @@ Happyfun Hideaway is a music venue in New York City listed on soundcheck. 2 upco
 
 1211 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/happyfun-hideaway/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/happyfun-hideaway/)*

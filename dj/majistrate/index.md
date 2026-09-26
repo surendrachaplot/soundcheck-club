@@ -1,6 +1,6 @@
 # Majistrate
 
-Majistrate is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Fire, London on Sat, 26 Sept 2026.
+Majistrate is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Fire, London on Sat, 26 Sept 2026.
 
 Majistrate is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 3 more. Often billed alongside Logan D, Harry Shotta and Eksman. Next up: Fire, London on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Majistrate is a drum & bass and jungle artist based in United Kingdom, tracked o
 
 Logan D, Harry Shotta, Eksman
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majistrate/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majistrate/)*

@@ -1,6 +1,6 @@
 # Jojoflores
 
-Jojoflores is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Salon Daomé, Montreal on Fri, 6 Nov 2026.
+Jojoflores is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Salon Daomé, Montreal on Fri, 6 Nov 2026.
 
 Jojoflores is a house and deep house artist based in Canada, tracked on soundcheck, with 17 sets logged across Geneva, Montreal, New York City and Tokyo and 1 more. Often billed alongside Yogi, Nick Holder and Osunlade. Next up: Salon Daomé, Montreal on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jojoflores is a house and deep house artist based in Canada, tracked on soundche
 
 Yogi, Nick Holder, Osunlade
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jojoflores/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jojoflores/)*

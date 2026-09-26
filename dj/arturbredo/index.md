@@ -1,6 +1,6 @@
 # Artur Bredo
 
-Artur Bredo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Sat, 24 Oct 2026.
+Artur Bredo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Sat, 24 Oct 2026.
 
 Artur Bredo is a house and tech house artist based in Ukraine, tracked on soundcheck, with 5 sets logged across Amsterdam, Cologne and Munich. Often billed alongside Alice DiMar, YEPIK and ZARE. Next up: Crane Hotel Faralda, Amsterdam on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Artur Bredo is a house and tech house artist based in Ukraine, tracked on soundc
 
 Alice DiMar, YEPIK, ZARE
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arturbredo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arturbredo/)*

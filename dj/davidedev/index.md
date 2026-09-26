@@ -1,6 +1,6 @@
 # Davide Dev
 
-Davide Dev is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at PRST, Vienna on Sat, 26 Sept 2026.
+Davide Dev is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at PRST, Vienna on Sat, 26 Sept 2026.
 
 Davide Dev is a house and disco artist based in Italy, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, London and Milan and 4 more. Often billed alongside Kapote, Barbara Boeing and Eternal Love. Next up: PRST, Vienna on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Davide Dev is a house and disco artist based in Italy, tracked on soundcheck, wi
 
 Kapote, Barbara Boeing, Eternal Love
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedev/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedev/)*

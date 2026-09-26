@@ -1,6 +1,6 @@
 # Dr. Dickey
 
-Dr. Dickey is a Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Blue Velvet, Berlin on Fri, 2 Oct 2026.
+Dr. Dickey is a Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Blue Velvet, Berlin on Fri, 2 Oct 2026.
 
 Dr. Dickey is a hardcore artist based in Belgium, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin and Brussels. Often billed alongside Gabybaby, Neutralised and PIPA DE MA$$A. Next up: Blue Velvet, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Dr. Dickey is a hardcore artist based in Belgium, tracked on soundcheck, with 9 
 
 Gabybaby, Neutralised, PIPA DE MA$$A
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.dickey/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.dickey/)*

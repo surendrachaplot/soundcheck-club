@@ -1,6 +1,6 @@
 # DJ Papaya
 
-DJ Papaya is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Dolphin, Philadelphia on Thu, 8 Oct 2026.
+DJ Papaya is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Dolphin, Philadelphia on Thu, 8 Oct 2026.
 
 DJ Papaya is a techno and electronica artist based in United States of America, tracked on soundcheck, with 26 sets logged across Los Angeles, New York City, Philadelphia and Sao Paulo and 1 more. Often billed alongside Opheliaxz, Shai FM and Avalon Emerson. Next up: The Dolphin, Philadelphia on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ DJ Papaya is a techno and electronica artist based in United States of America, 
 
 Opheliaxz, Shai FM, Avalon Emerson
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpapaya/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpapaya/)*

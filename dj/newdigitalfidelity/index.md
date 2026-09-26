@@ -1,6 +1,6 @@
 # New Digital Fidelity
 
-New Digital Fidelity is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The BBE Store, London on Sat, 7 Nov 2026.
+New Digital Fidelity is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The BBE Store, London on Sat, 7 Nov 2026.
 
 New Digital Fidelity is a house and disco artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Berlin, Chicago, London and Paris. Often billed alongside Davide Del Vecchio, BASHKKA and BUSSI. Next up: The BBE Store, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ New Digital Fidelity is a house and disco artist based in United Kingdom, tracke
 
 Davide Del Vecchio, BASHKKA, BUSSI
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newdigitalfidelity/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newdigitalfidelity/)*

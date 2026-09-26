@@ -1,6 +1,6 @@
 # FARZÆD
 
-FARZÆD is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
+FARZÆD is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
 
 FARZÆD is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Budapest and Rotterdam. Often billed alongside ALCHEMY, Draag and TRANZ. Next up: Now&Wow, Rotterdam on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ FARZÆD is a techno and industrial artist based in Netherlands, tracked on sound
 
 ALCHEMY (2), Draag, TRANZ
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farzaed/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farzaed/)*

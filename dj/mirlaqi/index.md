@@ -1,6 +1,6 @@
 # Mirlaqi
 
-Mirlaqi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Canal 54, Geneva on Fri, 2 Oct 2026.
+Mirlaqi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Canal 54, Geneva on Fri, 2 Oct 2026.
 
 Mirlaqi is a house and disco artist based in Switzerland, tracked on soundcheck, with 12 sets logged across Geneva and New York City. Often billed alongside Larsaint, Reda Saiarh and The Fake Sophia. Next up: Canal 54, Geneva on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Mirlaqi is a house and disco artist based in Switzerland, tracked on soundcheck,
 
 Larsaint, Reda Saiarh, The Fake Sophia
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirlaqi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirlaqi/)*

@@ -1,6 +1,6 @@
 # DJ-Roo
 
-DJ-Roo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Peggy Sues Music Bar, London on Sat, 3 Oct 2026.
+DJ-Roo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Peggy Sues Music Bar, London on Sat, 3 Oct 2026.
 
 DJ-Roo is a techno and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London and Nottingham. Often billed alongside Khoshekh, NouchKat and Simon Shehata. Next up: Peggy Sues Music Bar, London on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ DJ-Roo is a techno and house artist based in United Kingdom, tracked on soundche
 
 Khoshekh, NouchKat, Simon Shehata
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-roo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-roo/)*

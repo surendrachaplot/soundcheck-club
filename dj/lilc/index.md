@@ -1,6 +1,6 @@
 # Lil C
 
-Lil C is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Razzmatazz, Barcelona on Sat, 3 Oct 2026.
+Lil C is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Razzmatazz, Barcelona on Sat, 3 Oct 2026.
 
 Lil C is a dancehall and club artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Auckland, Barcelona, Berlin and Bristol and 6 more. Often billed alongside Lagoon Femshayma, Handsome Rob and Fiyahdred. Next up: Razzmatazz, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Lil C is a dancehall and club artist based in United Kingdom, tracked on soundch
 
 Lagoon Femshayma, Handsome Rob, Fiyahdred
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilc/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilc/)*

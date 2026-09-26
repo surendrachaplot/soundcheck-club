@@ -1,6 +1,6 @@
 # Ground Control
 
-Ground Control is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "CFNY Video Roadshow with Ivar Hamilton & Scot Turner (5pm-930pm)" on Sat, 17 Oct 2026.
+Ground Control is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "CFNY Video Roadshow with Ivar Hamilton & Scot Turner (5pm-930pm)" on Sat, 17 Oct 2026.
 
 Ground Control is a music venue in Toronto listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1279 Queen St West, Toronto, ON M6K 1L6, Canada.
 
@@ -14,4 +14,4 @@ Ground Control is a music venue in Toronto listed on soundcheck. 1 upcoming gig.
 
 1279 Queen St West, Toronto, ON M6K 1L6, Canada, Toronto
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/ground-control/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/ground-control/)*

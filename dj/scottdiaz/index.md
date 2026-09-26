@@ -1,6 +1,6 @@
 # Scott Diaz
 
-Scott Diaz is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ninety One, London on Sat, 7 Nov 2026.
+Scott Diaz is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ninety One, London on Sat, 7 Nov 2026.
 
 Scott Diaz is a house and garage artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Birmingham, Brighton and Leeds and 2 more. Often billed alongside A Guy Called Gerald, DJ Paulette and GIDEÖN. Next up: Ninety One, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Scott Diaz is a house and garage artist based in United Kingdom, tracked on soun
 
 A Guy Called Gerald, DJ Paulette, GIDEÖN
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottdiaz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottdiaz/)*

@@ -1,6 +1,6 @@
 # JKS
 
-JKS is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at KHIDI, Tbilisi on Fri, 25 Sept 2026.
+JKS is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at KHIDI, Tbilisi on Fri, 25 Sept 2026.
 
 JKS is a techno and house artist based in France, tracked on soundcheck, with 147 sets logged across Aberdeen, Amsterdam, Athens and Berlin and 47 more. Often billed alongside Bailey Ibbs, BENZA and CAIVA. Next up: KHIDI, Tbilisi on Fri 25 Sept.
 
@@ -16,6 +16,7 @@ JKS is a techno and house artist based in France, tracked on soundcheck, with 14
 
 ## Recently played
 
+- KHIDI, Tbilisi — Fri, 25 Sept 2026
 - KREUZWERK, Berlin — Sat, 5 Sept 2026
 - Refuge, New York City — Fri, 21 Aug 2026
 - TBA - Los Angeles, Los Angeles — Sat, 15 Aug 2026
@@ -23,10 +24,9 @@ JKS is a techno and house artist based in France, tracked on soundcheck, with 14
 - Else, Berlin — Fri, 7 Aug 2026
 - Fuse, Brussels — Sat, 1 Aug 2026
 - Giri, Berlin — Thu, 30 Jul 2026
-- Ministerium Club, Lisbon — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Bailey Ibbs, BENZA, CAIVA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*

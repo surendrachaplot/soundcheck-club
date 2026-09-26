@@ -1,6 +1,6 @@
 # Ray Keith
 
-Ray Keith is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+Ray Keith is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 Ray Keith is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 103 sets logged across Amsterdam, Austin, Boston and Brighton and 17 more. Often billed alongside Nicky Blackmarket, Grooverider and Jumping Jack Frost. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Ray Keith is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 Nicky Blackmarket, Grooverider, Jumping Jack Frost
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raykeith/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raykeith/)*

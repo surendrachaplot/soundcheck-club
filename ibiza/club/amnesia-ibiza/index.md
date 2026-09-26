@@ -1,14 +1,13 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 11 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Glitterbox" on Fri, 25 Sept 2026.
+Amnesia Ibiza is a music venue in Ibiza with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Godskitchen" on Sat, 26 Sept 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 11 upcoming gigs, with line-ups including Kepler, Adrian Mills, Alexandria and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming gigs, with line-ups including Kepler, Adrian Mills, Alexandria and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Glitterbox | Basement Jaxx, Dan Shake, L3Ni, Luke Solomon, Makèz, Melvo Baptiste, MiNNA |
 | Sat, 26 Sept 2026 | Godskitchen | Fergie, Ferry Corsten, Jordan Nocturne, Lisa Lashes, Tall Paul |
 | Sun, 27 Sept 2026 | Pyramid | Burnski, CAAL, DJ Pete, De La Swing, Jeff Mills, Kepler, Nørbak, Obskur, Omar+, Sosa |
 | Mon, 28 Sept 2026 | NRG Closing Party | Ben Hemsley, DART, Kyle Starkey, Paige Tomlinson, Somewhen |
@@ -18,9 +17,10 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 11 upcoming gigs, 
 | Sun, 4 Oct 2026 | Pyramid Closing Party | Adrian Mills, Franco Cinelli, Luca Donzelli, Mar-T, Nina Kraviz, Raresh, Ricardo Villalobos, Seth Troxler, Shanti Celeste |
 | Mon, 5 Oct 2026 | Max Dean presents NEXUP | Chopper, Joss Dean, Lily C-D, Locky, Luke Dean_, Max Dean, Tommy Phillips |
 | Thu, 8 Oct 2026 | Teletech Closing Party | Bella Claxton, Benwal, Clara Cuvé, EMILIJA, Faster Horses, Kyle Starkey, Morgan Seatree, Paige Tomlinson, SPFDJ, Vieze Asbak, Winson, blk., sim0ne |
+| Fri, 9 Oct 2026 | Glitterbox Closing Party | Dimitri From Paris, HoneyLuv, Jamie Love, Jorja Smith, Masters At Work, Melvo Baptiste, Mousse T., Natasha Diggs |
 
 ## Address
 
 Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza, Ibiza
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*

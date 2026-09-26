@@ -1,6 +1,6 @@
 # Plab On
 
-Plab On is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Plab On is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 Plab On is a house and techno artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam and Rotterdam. Often billed alongside Hoani Teano, PunkFunkLove and SHIMMER. Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Plab On is a house and techno artist based in Netherlands, tracked on soundcheck
 
 Hoani Teano, PunkFunkLove, SHIMMER
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/plabon/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/plabon/)*

@@ -1,6 +1,6 @@
 # Bclip
 
-Bclip is a Club and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Bclip is a Club and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Bclip is a club and reggaeton artist based in Colombia, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 19 more. Often billed alongside Rosa Pistola, Sushinigami and gyrofield. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Bclip is a club and reggaeton artist based in Colombia, tracked on soundcheck, w
 
 Rosa Pistola, Sushinigami, gyrofield
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bclip/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bclip/)*

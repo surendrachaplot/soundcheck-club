@@ -1,6 +1,6 @@
 # Ground Zero
 
-Ground Zero is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "I like it HARD" on Sat, 24 Oct 2026.
+Ground Zero is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "I like it HARD" on Sat, 24 Oct 2026.
 
 Ground Zero is a music venue in Auckland listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ground Zero is a music venue in Auckland listed on soundcheck. 1 upcoming gig. B
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | I like it HARD |  |
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/ground-zero/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/ground-zero/)*

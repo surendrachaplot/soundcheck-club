@@ -1,6 +1,6 @@
 # Nosh
 
-Nosh is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 18 Oct 2026.
+Nosh is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 18 Oct 2026.
 
 Nosh is a house and techno artist based in Canada, tracked on soundcheck, with 21 sets logged across Montreal, Tbilisi, Tokyo and Toronto. Often billed alongside dawny, SOBAKA and Fate. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Nosh is a house and techno artist based in Canada, tracked on soundcheck, with 2
 
 dawny, SOBAKA, Fate (2)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nosh/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nosh/)*

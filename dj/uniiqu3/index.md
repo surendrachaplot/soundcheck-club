@@ -1,6 +1,6 @@
 # UNiiQU3
 
-UNiiQU3 is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Paragon, New York City on Sat, 26 Sept 2026.
+UNiiQU3 is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Paragon, New York City on Sat, 26 Sept 2026.
 
 UNiiQU3 is a club and techno artist based in United States of America, tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Boston and 32 more. Often billed alongside ARMANA KHAN, Bambii and Bianca Oblivion. Next up: Paragon, New York City on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ UNiiQU3 is a club and techno artist based in United States of America, tracked o
 
 ARMANA KHAN, Bambii, Bianca Oblivion
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uniiqu3/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uniiqu3/)*

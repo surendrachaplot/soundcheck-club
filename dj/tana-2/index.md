@@ -1,14 +1,15 @@
 # Tana (2)
 
-Tana (2) is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Lilli Escher, Hamburg on Sat, 26 Sept 2026.
+Tana (2) is a House and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Lilli Escher, Hamburg on Sat, 26 Sept 2026.
 
-Tana is a house and breakbeat artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Hamburg, Lisbon and Prague. Often billed alongside UNZHA, TTX (GER) and Soundskoud. Next up: Lilli Escher, Hamburg on Sat 26 Sept.
+Tana is a house and breakbeat artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Hamburg, Lisbon and New York City and 1 more. Often billed alongside UNZHA, TTX (GER) and Soundskoud. Next up: Lilli Escher, Hamburg on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Lilli Escher | Hamburg |
+| Sun, 27 Sept 2026 | The Highlight Room | New York City |
 | Fri, 9 Oct 2026 | Hafenklang | Hamburg |
 
 ## Recently played
@@ -26,4 +27,4 @@ Tana is a house and breakbeat artist based in Germany, tracked on soundcheck, wi
 
 UNZHA, TTX (GER), Soundskoud
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tana-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tana-2/)*

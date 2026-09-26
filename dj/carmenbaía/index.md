@@ -1,6 +1,6 @@
 # Carmen Baía
 
-Carmen Baía is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Marlborough Red Room, Glasgow on Sat, 26 Sept 2026.
+Carmen Baía is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Marlborough Red Room, Glasgow on Sat, 26 Sept 2026.
 
 Carmen Baía is a house and techno artist based in United Kingdom, tracked on soundcheck, with 79 sets logged across Amsterdam, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Jamie Gunn, Robbie and T.D. Slider. Next up: The Marlborough Red Room, Glasgow on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Carmen Baía is a house and techno artist based in United Kingdom, tracked on so
 
 Jamie Gunn, Robbie, T.D. Slider
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenbaía/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenbaía/)*

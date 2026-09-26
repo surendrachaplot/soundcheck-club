@@ -1,6 +1,6 @@
 # p1nkstar
 
-p1nkstar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Animal, New York City on Sun, 27 Sept 2026.
+p1nkstar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Animal, New York City on Sun, 27 Sept 2026.
 
 p1nkstar is a house and techno artist tracked on soundcheck, with 40 sets logged across Austin, Chicago, Mexico City and New York City and 1 more. Often billed alongside Coyado, Pauli Cakes and Amarji King. Next up: Animal, New York City on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ p1nkstar is a house and techno artist tracked on soundcheck, with 40 sets logged
 
 Coyado, Pauli Cakes, Amarji King
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p1nkstar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p1nkstar/)*

@@ -1,6 +1,6 @@
 # Amstelhaven
 
-Amstelhaven is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Dynamikos Invites" on Sat, 24 Oct 2026.
+Amstelhaven is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Dynamikos Invites" on Sat, 24 Oct 2026.
 
 Amstelhaven is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Hagelslag. Browse upcoming dates, start times and who's playing. Mauritskade 1, 1091 EW, Amsterdam.
 
@@ -14,4 +14,4 @@ Amstelhaven is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, 
 
 Mauritskade 1, 1091 EW, Amsterdam, Amsterdam
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amstelhaven/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amstelhaven/)*

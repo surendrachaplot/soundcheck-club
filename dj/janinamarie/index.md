@@ -1,6 +1,6 @@
 # Janina Marie
 
-Janina Marie is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Little Jerry, Toronto on Fri, 2 Oct 2026.
+Janina Marie is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Little Jerry, Toronto on Fri, 2 Oct 2026.
 
 Janina Marie is a house and disco artist based in Canada, tracked on soundcheck, with 37 sets logged across Manchester, Mexico City, Montreal and Toronto. Often billed alongside Jodie D, Kiki LeFreak and Sakiko Nagai. Next up: The Little Jerry, Toronto on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Janina Marie is a house and disco artist based in Canada, tracked on soundcheck,
 
 Jodie D, Kiki LeFreak, Sakiko Nagai
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janinamarie/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janinamarie/)*

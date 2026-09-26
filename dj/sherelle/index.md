@@ -1,14 +1,13 @@
 # SHERELLE
 
-SHERELLE is a Jungle and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Ground at Club Space, Miami on Fri, 25 Sept 2026.
+SHERELLE is a Jungle and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Process PDX, Portland on Thu, 1 Oct 2026.
 
-SHERELLE is a jungle and techno artist based in United Kingdom, tracked on soundcheck, with 183 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 53 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: The Ground at Club Space, Miami on Fri 25 Sept.
+SHERELLE is a jungle and techno artist based in United Kingdom, tracked on soundcheck, with 183 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 53 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Process PDX, Portland on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | The Ground at Club Space | Miami |
 | Thu, 1 Oct 2026 | Process PDX | Portland |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | Los Globos | Los Angeles |
@@ -22,6 +21,7 @@ SHERELLE is a jungle and techno artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
+- The Ground at Club Space, Miami — Fri, 25 Sept 2026
 - Le Molodoi, Strasbourg — Fri, 11 Sept 2026
 - The Carpet Shop, London — Thu, 10 Sept 2026
 - The White Hotel, Manchester — Sat, 5 Sept 2026
@@ -29,10 +29,9 @@ SHERELLE is a jungle and techno artist based in United Kingdom, tracked on sound
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - Burgess Park, London — Sat, 8 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
-- Garage Noord, Amsterdam — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 I. JORDAN, Special Request, Job Jobse
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*

@@ -1,6 +1,6 @@
 # CHVZ
 
-CHVZ is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Meraki, Liverpool on Sat, 24 Oct 2026.
+CHVZ is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Meraki, Liverpool on Sat, 24 Oct 2026.
 
 CHVZ is a techno and trance artist based in Malta, tracked on soundcheck, with 12 sets logged across Berlin, Leeds, Liverpool and Malta and 1 more. Often billed alongside EDJM, CIVILIAN and Shemm. Next up: Meraki, Liverpool on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ CHVZ is a techno and trance artist based in Malta, tracked on soundcheck, with 1
 
 EDJM, CIVILIAN, Shemm
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chvz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chvz/)*

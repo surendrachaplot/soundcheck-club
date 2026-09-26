@@ -1,6 +1,6 @@
 # Charlie
 
-Charlie is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Charlie season OPENING" on Sat, 10 Oct 2026.
+Charlie is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Charlie season OPENING" on Sat, 10 Oct 2026.
 
 Charlie is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with line-ups including Benjamin Fröhlich and Gerd Janson. Browse upcoming dates, start times and who's playing. Schyrenstr.8 , 81543 München, Germany.
 
@@ -17,4 +17,4 @@ Charlie is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with l
 
 Schyrenstr.8 , 81543 München, Germany, Munich
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/charlie/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/charlie/)*

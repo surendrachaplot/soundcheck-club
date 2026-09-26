@@ -1,6 +1,6 @@
 # Hilit Kolet
 
-Hilit Kolet is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Hilit Kolet is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 Hilit Kolet is a house and techno artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Anja Schneider, Dan Shake and Groove Armada. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Hilit Kolet is a house and techno artist based in United Kingdom, tracked on sou
 
 Anja Schneider, Dan Shake, Groove Armada
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hilitkolet/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hilitkolet/)*

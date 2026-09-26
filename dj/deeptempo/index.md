@@ -1,6 +1,6 @@
 # Deep Tempo
 
-Deep Tempo is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Cu, London on Sat, 3 Oct 2026.
+Deep Tempo is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cu, London on Sat, 3 Oct 2026.
 
 Deep Tempo is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Bangkok, Birmingham, Brighton and Bristol and 6 more. Often billed alongside MINTY, SGT Pokes and Chad Dubz. Next up: Cu, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Deep Tempo is a dubstep and bass artist based in United Kingdom, tracked on soun
 
 MINTY, SGT Pokes, Chad Dubz
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deeptempo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deeptempo/)*

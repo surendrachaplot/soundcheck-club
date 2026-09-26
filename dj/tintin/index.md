@@ -1,6 +1,6 @@
 # Tin Tin
 
-Tin Tin is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Rijnbar, Amsterdam on Fri, 23 Oct 2026.
+Tin Tin is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Rijnbar, Amsterdam on Fri, 23 Oct 2026.
 
 Tin Tin is a house and trance artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Ralph Lawson, Ryan O Gorman and Alex Wolfenden. Next up: Rijnbar, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Tin Tin is a house and trance artist based in United Kingdom, tracked on soundch
 
 Ralph Lawson, Ryan O Gorman, Alex Wolfenden
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tintin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tintin/)*

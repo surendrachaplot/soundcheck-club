@@ -1,6 +1,6 @@
 # La Boum Fatale
 
-La Boum Fatale is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Der Weiße Hase, Berlin on Sat, 10 Oct 2026.
+La Boum Fatale is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Der Weiße Hase, Berlin on Sat, 10 Oct 2026.
 
 La Boum Fatale is a techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Maschine, Kaiser Souzai and Kaminka Merel. Next up: Der Weiße Hase, Berlin on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ La Boum Fatale is a techno artist based in Germany, tracked on soundcheck, with 
 
 Maschine, Kaiser Souzai, Kaminka Merel
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laboumfatale/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laboumfatale/)*

@@ -1,6 +1,6 @@
 # Bekefi
 
-Bekefi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Vittoria Wharf Studio, London on Sun, 29 Nov 2026.
+Bekefi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Vittoria Wharf Studio, London on Sun, 29 Nov 2026.
 
 Bekefi is a house and techno artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Berlin, Budapest, London and Manchester. Often billed alongside S_STEELE, HOLY C and Hayley Wallace. Next up: Vittoria Wharf Studio, London on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Bekefi is a house and techno artist based in United Kingdom, tracked on soundche
 
 S_STEELE, HOLY C, Hayley Wallace
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bekefi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bekefi/)*

@@ -1,13 +1,14 @@
 # Aiscream
 
-Aiscream is a Pop and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Club NYX, Amsterdam on Fri, 30 Oct 2026.
+Aiscream is a Pop and R&B artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Club NYX, Amsterdam on Sat, 17 Oct 2026.
 
-Aiscream is a pop and r&b artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Joseph Steel, Soulfania and The Groovejet. Next up: Club NYX, Amsterdam on Fri 30 Oct.
+Aiscream is a pop and r&b artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside Joseph Steel, Emma Champagne Queen and Soulfania. Next up: Club NYX, Amsterdam on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Club NYX | Amsterdam |
 | Fri, 30 Oct 2026 | Club NYX | Amsterdam |
 
 ## Recently played
@@ -19,6 +20,6 @@ Aiscream is a pop and r&b artist based in Netherlands, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Joseph Steel, Soulfania, The Groovejet
+Joseph Steel, Emma Champagne Queen, Soulfania
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aiscream/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aiscream/)*

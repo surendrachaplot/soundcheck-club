@@ -1,14 +1,14 @@
 # Tempz
 
-Tempz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Next Door Records Two, Newcastle on Fri, 16 Oct 2026.
+Tempz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at NDR2 Red Room, Newcastle on Fri, 16 Oct 2026.
 
-Tempz is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Leeds, London and Newcastle. Often billed alongside Chaddy, Alisdair and LEN.. Next up: Next Door Records Two, Newcastle on Fri 16 Oct.
+Tempz is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Leeds, London and Newcastle. Often billed alongside Chaddy, Alisdair and LEN.. Next up: NDR2 Red Room, Newcastle on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Next Door Records Two | Newcastle |
+| Fri, 16 Oct 2026 | NDR2 Red Room | Newcastle |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Tempz is a house and minimal artist based in United Kingdom, tracked on soundche
 
 Chaddy, Alisdair, LEN.
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tempz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tempz/)*

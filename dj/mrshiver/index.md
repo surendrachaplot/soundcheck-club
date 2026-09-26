@@ -1,6 +1,6 @@
 # Mr Shiver
 
-Mr Shiver is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at NUMBER 90 LONDON, London on Sun, 27 Sept 2026.
+Mr Shiver is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at NUMBER 90 LONDON, London on Sun, 27 Sept 2026.
 
 Mr Shiver is a house and disco artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across London. Often billed alongside Si Kurrage, Sancho Panza and Stuart Patterson. Next up: NUMBER 90 LONDON, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Mr Shiver is a house and disco artist based in United Kingdom, tracked on soundc
 
 Si Kurrage, Sancho Panza, Stuart Patterson
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrshiver/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrshiver/)*

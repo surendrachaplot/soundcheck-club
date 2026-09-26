@@ -1,6 +1,6 @@
 # Body Marcus
 
-Body Marcus is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at B-SIDE, Warsaw on Sat, 26 Sept 2026.
+Body Marcus is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at B-SIDE, Warsaw on Sat, 26 Sept 2026.
 
 Body Marcus is an electronica and house artist based in Belarus, tracked on soundcheck, with 12 sets logged across Warsaw. Often billed alongside Metallicblue, Pridi and Eliza. Next up: B-SIDE, Warsaw on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Body Marcus is an electronica and house artist based in Belarus, tracked on soun
 
 Metallicblue, Pridi, Eliza (2)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bodymarcus/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bodymarcus/)*

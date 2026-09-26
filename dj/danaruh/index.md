@@ -1,6 +1,6 @@
 # Dana Ruh
 
-Dana Ruh is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Armazem Solon, Sao Paulo on Sat, 26 Sept 2026.
+Dana Ruh is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Armazem Solon, Sao Paulo on Sat, 26 Sept 2026.
 
 Dana Ruh is a house and techno artist based in Germany, tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Boston and 37 more. Often billed alongside Alessia Ceruti, Robert Drewek and Sven Vath. Next up: Armazem Solon, Sao Paulo on Sat 26 Sept.
 
@@ -31,4 +31,4 @@ Dana Ruh is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Alessia Ceruti, Robert Drewek, Sven Vath
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danaruh/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danaruh/)*

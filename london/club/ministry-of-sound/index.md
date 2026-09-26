@@ -1,14 +1,13 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 23 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "BLINK: Stylo, P.O.U, JJOY, SOOFNIC + MORE" on Fri, 25 Sept 2026.
+Ministry Of Sound is a music venue in London with 22 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "BRESH" on Sat, 26 Sept 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including Alastair Lane, Amtrac, Anderdox and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including Alastair Lane, Amtrac, Anderdox and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | BLINK: Stylo, P.O.U, JJOY, SOOFNIC + MORE | P.O.U, Stylo |
 | Sat, 26 Sept 2026 | BRESH |  |
 | Tue, 29 Sept 2026 | Ministry Of Sound, Milkshake - Official London Freshers Launch PART 3 |  |
 | Fri, 2 Oct 2026 | MoS 35: Andy C - 3-Hour Extended Set | Andy C, Charlie Tee, Joe NBO |
@@ -18,9 +17,10 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 23 upcoming g
 | Fri, 9 Oct 2026 | Parable: Eli & Fur, Eynka, NOHR + more | Asch Pintura, Eli & Fur, Eynka, Innerstice, NOHR, Skimming, ZIYING |
 | Sat, 10 Oct 2026 | Housework presents Tales of the Unexpected | Jonathan Ulysses, Lizzie Curious, Pagano, Rob Tissera, Tenacious |
 | Sat, 10 Oct 2026 | Housekeeping: Matt Sassari, Beyond Chicago, Louden & LOVRA | Anderdox, Beyond Chicago, Cribb, LOVRA, Louden, Matt Sassari, Omari |
+| Tue, 13 Oct 2026 | Milkshake, Ministry Of Sound - London's Biggest Student Night |  |
 
 ## Address
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

@@ -1,6 +1,6 @@
 # ZiMMT
 
-ZiMMT is a music venue in Leipzig with 9 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "AUXeins Workshops, Vorträge und Seminare für Studierende und Auszubildende" on Sat, 26 Sept 2026.
+ZiMMT is a music venue in Leipzig with 9 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "AUXeins Workshops, Vorträge und Seminare für Studierende und Auszubildende" on Sat, 26 Sept 2026.
 
 ZiMMT is a music venue in Leipzig listed on soundcheck. 9 upcoming gigs. Browse upcoming dates, start times and who's playing. Torgauer Str. 80, 04318 Leipzig, Germany.
 
@@ -22,4 +22,4 @@ ZiMMT is a music venue in Leipzig listed on soundcheck. 9 upcoming gigs. Browse 
 
 Torgauer Str. 80, 04318 Leipzig, Germany, Leipzig
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*

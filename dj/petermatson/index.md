@@ -1,6 +1,6 @@
 # Peter Matson
 
-Peter Matson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at public records, New York City on Thu, 15 Oct 2026.
+Peter Matson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at public records, New York City on Thu, 15 Oct 2026.
 
 Peter Matson is a house and disco artist based in United States of America, tracked on soundcheck, with 35 sets logged across Copenhagen, Detroit, London and Mexico City and 5 more. Often billed alongside JKriv, Aaron Dae and Jason Lindner. Next up: public records, New York City on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Peter Matson is a house and disco artist based in United States of America, trac
 
 JKriv, Aaron Dae, Jason Lindner
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petermatson/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petermatson/)*

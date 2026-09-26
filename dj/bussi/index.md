@@ -1,6 +1,6 @@
 # BUSSI
 
-BUSSI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Klein Phönix, Istanbul on Sat, 10 Oct 2026.
+BUSSI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Klein Phönix, Istanbul on Sat, 10 Oct 2026.
 
 BUSSI is a techno and house artist based in Turkey, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Copenhagen and Istanbul and 2 more. Often billed alongside ONNI, Ozarc and FEVZEE. Next up: Klein Phönix, Istanbul on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ BUSSI is a techno and house artist based in Turkey, tracked on soundcheck, with 
 
 ONNI, Ozarc, FEVZEE
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bussi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bussi/)*

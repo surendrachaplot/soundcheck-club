@@ -1,6 +1,6 @@
 # Mutualism
 
-Mutualism is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Cuff Complex, Seattle on Sat, 26 Sept 2026.
+Mutualism is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Cuff Complex, Seattle on Sat, 26 Sept 2026.
 
 Mutualism is a house and techno artist based in United States of America, tracked on soundcheck, with 55 sets logged across Austin, Barcelona, Berlin and Boston and 11 more. Often billed alongside SPRKLBB, Mutualism (DE) and Baronhawk Poitier. Next up: The Cuff Complex, Seattle on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Mutualism is a house and techno artist based in United States of America, tracke
 
 SPRKLBB, Mutualism (DE), Baronhawk Poitier
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mutualism/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mutualism/)*

@@ -1,6 +1,6 @@
 # Reference Point
 
-Reference Point is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Ashes & Architecture: Monograph Reading" on Mon, 12 Oct 2026.
+Reference Point is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Ashes & Architecture: Monograph Reading" on Mon, 12 Oct 2026.
 
 Reference Point is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 2 Arundel Street, London, WC2R 3DA.
 
@@ -14,4 +14,4 @@ Reference Point is a music venue in London listed on soundcheck. 1 upcoming gig.
 
 2 Arundel Street, London, WC2R 3DA, London
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/reference-point/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/reference-point/)*

@@ -1,6 +1,6 @@
 # DJ Deadlift
 
-DJ Deadlift is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Grelle Forelle, Vienna on Fri, 16 Oct 2026.
+DJ Deadlift is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Grelle Forelle, Vienna on Fri, 16 Oct 2026.
 
 DJ Deadlift is a techno and house artist based in Austria, tracked on soundcheck, with 35 sets logged across Vienna. Often billed alongside TEZIBEL, DREYA and Gerald VDH. Next up: Grelle Forelle, Vienna on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DJ Deadlift is a techno and house artist based in Austria, tracked on soundcheck
 
 TEZIBEL, DREYA, Gerald VDH
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeadlift/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeadlift/)*

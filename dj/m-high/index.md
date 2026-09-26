@@ -1,15 +1,13 @@
 # M-High
 
-M-High is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Colorado Charlie, The Hague on Fri, 25 Sept 2026.
+M-High is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 26 Sept 2026.
 
-M-High is a house and tech house artist based in Netherlands, tracked on soundcheck, with 183 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Prunk, Job de Jong and Dennis Quin. Next up: Colorado Charlie, The Hague on Fri 25 Sept.
+M-High is a house and tech house artist based in Netherlands, tracked on soundcheck, with 183 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Prunk, Job de Jong and Dennis Quin. Next up: Ushuaïa Ibiza, Ibiza on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Colorado Charlie | The Hague |
-| Fri, 25 Sept 2026 | Radio Radio | Amsterdam |
 | Sat, 26 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | Thuishaven | Amsterdam |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
@@ -23,17 +21,17 @@ M-High is a house and tech house artist based in Netherlands, tracked on soundch
 
 ## Recently played
 
+- Colorado Charlie, The Hague — Fri, 25 Sept 2026
+- Radio Radio, Amsterdam — Fri, 25 Sept 2026
 - Glen Helen Regional Park, Los Angeles — Sat, 19 Sept 2026
 - Flash, Washington DC — Fri, 18 Sept 2026
 - block., Dublin — Sat, 5 Sept 2026
 - SISSI'S Amsterdam, Amsterdam — Sat, 5 Sept 2026
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- Lofi, Amsterdam — Sat, 8 Aug 2026
-- Amnesia Ibiza, Ibiza — Thu, 6 Aug 2026
 
 ## Shares bills with
 
 Prunk, Job de Jong, Dennis Quin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*

@@ -1,6 +1,6 @@
 # Farfetchd
 
-Farfetchd is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Brasserie de la Senne, Brussels on Sat, 26 Sept 2026.
+Farfetchd is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Brasserie de la Senne, Brussels on Sat, 26 Sept 2026.
 
 Farfetchd is a techno and house artist tracked on soundcheck, with 16 sets logged across Brussels and Stockholm. Often billed alongside Ragel Mood, Joris and Reagan Mian. Next up: Brasserie de la Senne, Brussels on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Farfetchd is a techno and house artist tracked on soundcheck, with 16 sets logge
 
 Ragel Mood, Joris, Reagan Mian
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farfetchd/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farfetchd/)*

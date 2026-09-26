@@ -1,6 +1,6 @@
 # Fondation Cartier
 
-Fondation Cartier is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Kelsey Lu" on Tue, 3 Nov 2026.
+Fondation Cartier is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Kelsey Lu" on Tue, 3 Nov 2026.
 
 Fondation Cartier is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Kelsey Lu. Browse upcoming dates, start times and who's playing. 2 Pl. du Palais Royal, 75001 Paris.
 
@@ -15,4 +15,4 @@ Fondation Cartier is a music venue in Paris listed on soundcheck. 2 upcoming gig
 
 2 Pl. du Palais Royal, 75001 Paris, Paris
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fondation-cartier/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fondation-cartier/)*

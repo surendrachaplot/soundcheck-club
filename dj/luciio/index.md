@@ -1,6 +1,6 @@
 # Luciio
 
-Luciio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Outer Heaven, New York City on Sun, 11 Oct 2026.
+Luciio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Outer Heaven, New York City on Sun, 11 Oct 2026.
 
 Luciio is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across New York City. Often billed alongside Daniel Dutts, La Vega and Felix Lücke. Next up: Outer Heaven, New York City on Sun 11 Oct.
 
@@ -24,4 +24,4 @@ Luciio is a house and techno artist based in United States of America, tracked o
 
 Daniel Dutts, La Vega, Felix Lücke
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciio/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciio/)*

@@ -1,6 +1,6 @@
 # Kid Kodama
 
-Kid Kodama is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at FLUCC, Vienna on Sat, 24 Oct 2026.
+Kid Kodama is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at FLUCC, Vienna on Sat, 24 Oct 2026.
 
 Kid Kodama is a jungle and breakbeat artist based in Austria, tracked on soundcheck, with 10 sets logged across Krakow and Vienna. Often billed alongside GEN-Z, Dzc. and Peletronic. Next up: FLUCC, Vienna on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kid Kodama is a jungle and breakbeat artist based in Austria, tracked on soundch
 
 GEN-Z, Dzc., Peletronic
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidkodama/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidkodama/)*

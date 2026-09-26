@@ -1,6 +1,6 @@
 # Maxflavor
 
-Maxflavor is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Bangkok on Sat, 26 Sept 2026.
+Maxflavor is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Bangkok on Sat, 26 Sept 2026.
 
 Maxflavor is a house and disco artist tracked on soundcheck, with 7 sets logged across Bangkok. Often billed alongside Yorsab, PPOINT and Ani Phoebe. Next up: TBA, Bangkok on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Maxflavor is a house and disco artist tracked on soundcheck, with 7 sets logged 
 
 Yorsab, PPOINT, Ani Phoebe
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxflavor/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxflavor/)*

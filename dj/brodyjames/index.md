@@ -1,6 +1,6 @@
 # Brody James
 
-Brody James is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at La Cheetah Club, Glasgow on Tue, 6 Oct 2026.
+Brody James is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Cheetah Club, Glasgow on Tue, 6 Oct 2026.
 
 Brody James is a house and techno artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Edinburgh, Glasgow and London. Often billed alongside Tosher, DRUMA and Babyccino. Next up: La Cheetah Club, Glasgow on Tue 6 Oct.
 
@@ -26,4 +26,4 @@ Brody James is a house and techno artist based in United Kingdom, tracked on sou
 
 Tosher, DRUMA, Babyccino
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brodyjames/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brodyjames/)*

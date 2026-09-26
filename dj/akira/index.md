@@ -1,6 +1,6 @@
 # Akira
 
-Akira is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cross Club, Prague on Sat, 26 Sept 2026.
+Akira is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cross Club, Prague on Sat, 26 Sept 2026.
 
 Akira is a techno and hip-hop artist based in Belgium, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 14 more. Often billed alongside Kanti, BiBiYUA and Hermanez. Next up: Cross Club, Prague on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Akira is a techno and hip-hop artist based in Belgium, tracked on soundcheck, wi
 
 Kanti, BiBiYUA, Hermanez
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akira/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akira/)*

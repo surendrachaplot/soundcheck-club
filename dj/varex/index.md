@@ -1,6 +1,6 @@
 # VAREX
 
-VAREX is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Waalhaven Rotterdam, Amsterdam on Sat, 26 Sept 2026.
+VAREX is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Waalhaven Rotterdam, Amsterdam on Sat, 26 Sept 2026.
 
 VAREX is a techno artist based in Belgium, tracked on soundcheck, with 4 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Kade Noir, Levin Schwarz and SØLACE NL. Next up: TBA - Waalhaven Rotterdam, Amsterdam on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ VAREX is a techno artist based in Belgium, tracked on soundcheck, with 4 sets lo
 
 Kade Noir, Levin Schwarz, SØLACE NL
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varex/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varex/)*

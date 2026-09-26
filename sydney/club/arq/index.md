@@ -1,6 +1,6 @@
 # Arq
 
-Arq is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Guau x Yo Speed - SYDNEY - BREɅKS & BɅSS |" on Sun, 4 Oct 2026.
+Arq is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Guau x Yo Speed - SYDNEY - BREɅKS & BɅSS |" on Sun, 4 Oct 2026.
 
 Arq is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Guau and Yo Speed. Browse upcoming dates, start times and who's playing. 16 Flinders St, Darlinghurst NSW 2010, Australia.
 
@@ -14,4 +14,4 @@ Arq is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-u
 
 16 Flinders St, Darlinghurst NSW 2010, Australia, Sydney
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/arq/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/arq/)*

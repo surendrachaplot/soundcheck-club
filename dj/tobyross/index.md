@@ -1,6 +1,6 @@
 # Toby Ross
 
-Toby Ross is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at fabric, London on Fri, 13 Nov 2026.
+Toby Ross is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at fabric, London on Fri, 13 Nov 2026.
 
 Toby Ross is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Brighton, Bristol, Leeds and Lisbon and 3 more. Often billed alongside Napes, Deekline and Benny Page. Next up: fabric, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Toby Ross is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 Napes, Deekline, Benny Page
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobyross/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobyross/)*

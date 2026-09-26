@@ -1,6 +1,6 @@
 # Kiku Room
 
-Kiku Room is a music venue in San Diego with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Sirens: Man Power" on Sun, 11 Oct 2026.
+Kiku Room is a music venue in San Diego with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Sirens: Man Power" on Sun, 11 Oct 2026.
 
 Kiku Room is a music venue in San Diego listed on soundcheck. 1 upcoming gig, with line-ups including Man Power and Tavish. Browse upcoming dates, start times and who's playing. 2812 Kettner Blvd, San Diego, CA 92101, USA.
 
@@ -14,4 +14,4 @@ Kiku Room is a music venue in San Diego listed on soundcheck. 1 upcoming gig, wi
 
 2812 Kettner Blvd, San Diego, CA 92101, USA, San Diego
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/kiku-room/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/kiku-room/)*

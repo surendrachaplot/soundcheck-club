@@ -1,6 +1,6 @@
 # Anthony Linell
 
-Anthony Linell is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA -  Kummelholmen, Stockholm on Sat, 10 Oct 2026.
+Anthony Linell is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA -  Kummelholmen, Stockholm on Sat, 10 Oct 2026.
 
 Anthony Linell is a techno and house artist based in Sweden, tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 21 more. Often billed alongside Evigt Mörker, Jin Mustafa and Neel. Next up: TBA -  Kummelholmen, Stockholm on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Anthony Linell is a techno and house artist based in Sweden, tracked on soundche
 
 Evigt Mörker, Jin Mustafa, Neel
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonylinell/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonylinell/)*

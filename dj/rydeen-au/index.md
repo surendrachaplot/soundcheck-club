@@ -1,6 +1,6 @@
 # Rydeen (AU)
 
-Rydeen (AU) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Sydney on Sat, 17 Oct 2026.
+Rydeen (AU) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Sydney on Sat, 17 Oct 2026.
 
 Rydeen (AU) is a techno and club artist based in Australia, tracked on soundcheck, with 69 sets logged across Bangkok, Melbourne, Prague and Sydney and 1 more. Often billed alongside sovblkpssy, Kuya Neil and Aquenta. Next up: TBA, Sydney on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Rydeen (AU) is a techno and club artist based in Australia, tracked on soundchec
 
 sovblkpssy, Kuya Neil, Aquenta
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rydeen-au/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rydeen-au/)*

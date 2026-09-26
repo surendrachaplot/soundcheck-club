@@ -1,6 +1,6 @@
 # HAZ (GB)
 
-HAZ (GB) is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Egg London, London on Wed, 30 Sept 2026.
+HAZ (GB) is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Egg London, London on Wed, 30 Sept 2026.
 
 HAZ (GB) is an afro house and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside D8V!, LOKI and PEI Z. Next up: Egg London, London on Wed 30 Sept.
 
@@ -21,4 +21,4 @@ HAZ (GB) is an afro house and house artist based in United Kingdom, tracked on s
 
 D8V!, LOKI (3), PEI Z
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hazgb/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hazgb/)*

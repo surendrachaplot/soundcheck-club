@@ -1,6 +1,6 @@
 # Horizon, Brighton
 
-Horizon, Brighton is a music venue in Brighton with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Milkshake Brighton - The Freshers Moving In Rave at Horizon" on Thu, 1 Oct 2026.
+Horizon, Brighton is a music venue in Brighton with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Milkshake Brighton - The Freshers Moving In Rave at Horizon" on Thu, 1 Oct 2026.
 
 Horizon, Brighton is a music venue in Brighton listed on soundcheck. 2 upcoming gigs, with line-ups including Chris Bayne, Edele Andaya, Fisha and Merc (IT) and 1 more. Browse upcoming dates, start times and who's playing. 214 Kings Road, Brighton, BN1 1NB, UK.
 
@@ -15,4 +15,4 @@ Horizon, Brighton is a music venue in Brighton listed on soundcheck. 2 upcoming 
 
 214 Kings Road, Brighton, BN1 1NB, UK, Brighton
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/horizon-brighton/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/horizon-brighton/)*

@@ -1,6 +1,6 @@
 # OFFAIAH
 
-OFFAIAH is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Madarae San Francisco, San Francisco/Oakland on Fri, 2 Oct 2026.
+OFFAIAH is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Madarae San Francisco, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 OFFAIAH is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Auckland, Austin, Chicago and Denver and 11 more. Often billed alongside Gene Farris, Claptone and Marc Kinchen. Next up: Madarae San Francisco, San Francisco/Oakland on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ OFFAIAH is a house and tech house artist based in United Kingdom, tracked on sou
 
 Gene Farris, Claptone, Marc Kinchen
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/offaiah/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/offaiah/)*

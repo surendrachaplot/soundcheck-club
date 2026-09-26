@@ -1,6 +1,6 @@
 # AJACENT
 
-AJACENT is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Rebecca's, New York City on Fri, 2 Oct 2026.
+AJACENT is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Rebecca's, New York City on Fri, 2 Oct 2026.
 
 AJACENT is a techno and baile funk artist based in United States of America, tracked on soundcheck, with 21 sets logged across New York City. Often billed alongside shirlz, a.gar and ASTER (DJ). Next up: Rebecca's, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ AJACENT is a techno and baile funk artist based in United States of America, tra
 
 shirlz, a.gar, ASTER (DJ)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajacent/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajacent/)*

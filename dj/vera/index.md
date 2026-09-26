@@ -1,6 +1,6 @@
 # Vera
 
-Vera is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+Vera is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
 Vera is a techno and house artist based in Germany, tracked on soundcheck, with 147 sets logged across Amsterdam, Bali, Barcelona and Berlin and 33 more. Often billed alongside Edward, Eli Verveine and Gwenan. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
@@ -17,6 +17,7 @@ Vera is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
+- Heave Festival, Madrid — Fri, 25 Sept 2026
 - TBA - Secret Villa , Barcelona — Sat, 19 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 12 Sept 2026
 - Haus der Visionäre, Berlin — Fri, 11 Sept 2026
@@ -24,10 +25,9 @@ Vera is a techno and house artist based in Germany, tracked on soundcheck, with 
 - Parkcafe, Cologne — Sat, 15 Aug 2026
 - Macadam, Nantes — Sat, 11 Jul 2026
 - MaHalla, Berlin — Fri, 3 Jul 2026
-- Block1, Berlin — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Edward, Eli Verveine, Gwenan
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vera/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vera/)*

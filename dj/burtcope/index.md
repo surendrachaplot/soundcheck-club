@@ -1,6 +1,6 @@
 # Burt Cope
 
-Burt Cope is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at FORGE, Sheffield on Sun, 25 Oct 2026.
+Burt Cope is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at FORGE, Sheffield on Sun, 25 Oct 2026.
 
 Burt Cope is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Bangkok, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Benny Page, Deekline and Bladerunner. Next up: FORGE, Sheffield on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Burt Cope is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 Benny Page, Deekline, Bladerunner
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/burtcope/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/burtcope/)*

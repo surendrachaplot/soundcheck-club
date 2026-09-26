@@ -1,6 +1,6 @@
 # Levat
 
-Levat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Hoppetosse, Berlin on Fri, 23 Oct 2026.
+Levat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Hoppetosse, Berlin on Fri, 23 Oct 2026.
 
 Levat is a house and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Ghent and 6 more. Often billed alongside GRETA, Onirik and Andrew James Gustav. Next up: Hoppetosse, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Levat is a house and techno artist based in Germany, tracked on soundcheck, with
 
 GRETA (2), Onirik, Andrew James Gustav
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/levat/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/levat/)*

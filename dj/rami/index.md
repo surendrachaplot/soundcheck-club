@@ -1,6 +1,6 @@
 # Rami
 
-Rami is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at VENT, Tokyo on Fri, 23 Oct 2026.
+Rami is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at VENT, Tokyo on Fri, 23 Oct 2026.
 
 Rami is a house and techno artist based in Jordan, tracked on soundcheck, with 16 sets logged across Bangkok, Berlin, Ibiza and Mexico City and 2 more. Often billed alongside HARUTO, Mahmut Orhan and Monkey Timers. Next up: VENT, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Rami is a house and techno artist based in Jordan, tracked on soundcheck, with 1
 
 HARUTO, Mahmut Orhan, Monkey Timers
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rami/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rami/)*

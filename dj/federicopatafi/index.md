@@ -1,6 +1,6 @@
 # Federico Patafi
 
-Federico Patafi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Amsterdam on Sat, 24 Oct 2026.
+Federico Patafi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Amsterdam on Sat, 24 Oct 2026.
 
 Federico Patafi is a house and techno artist based in Italy, tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside Vale.T, Caelestis and Iva (NL). Next up: TBA, Amsterdam on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Federico Patafi is a house and techno artist based in Italy, tracked on soundche
 
 Vale.T, Caelestis, Iva (NL)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/federicopatafi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/federicopatafi/)*

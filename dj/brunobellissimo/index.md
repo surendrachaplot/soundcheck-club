@@ -1,6 +1,6 @@
 # Bruno Bellissimo
 
-Bruno Bellissimo is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at renae, Manchester on Fri, 13 Nov 2026.
+Bruno Bellissimo is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at renae, Manchester on Fri, 13 Nov 2026.
 
 Bruno Bellissimo is a house and italo disco artist tracked on soundcheck, with 7 sets logged across Amsterdam, Manchester and Milan. Often billed alongside BPlan, Camilla Reghenzi and Daniel Monaco. Next up: renae, Manchester on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Bruno Bellissimo is a house and italo disco artist tracked on soundcheck, with 7
 
 BPlan, Camilla Reghenzi, Daniel Monaco
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunobellissimo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunobellissimo/)*

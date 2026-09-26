@@ -1,6 +1,6 @@
 # Rei7801
 
-Rei7801 is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
+Rei7801 is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
 
 Rei7801 is a techno and bass artist based in Japan, tracked on soundcheck, with 23 sets logged across Kyoto, Milan and Tokyo. Often billed alongside YAMAREN, tnseei and Yui (JP). Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Rei7801 is a techno and bass artist based in Japan, tracked on soundcheck, with 
 
 YAMAREN, tnseei, Yui (JP)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rei7801/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rei7801/)*

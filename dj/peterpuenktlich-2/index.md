@@ -1,6 +1,6 @@
 # Peter Puenktlich (2)
 
-Peter Puenktlich (2) is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Flex, Vienna on Sat, 3 Oct 2026.
+Peter Puenktlich (2) is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Flex, Vienna on Sat, 3 Oct 2026.
 
 Peter Puenktlich is a pop and techno artist based in Austria, tracked on soundcheck, with 14 sets logged across Prague and Vienna. Often billed alongside esti.d, neon.kotze and hapuk. Next up: Flex, Vienna on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Peter Puenktlich is a pop and techno artist based in Austria, tracked on soundch
 
 esti.d, neon.kotze, hapuk
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpuenktlich-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpuenktlich-2/)*

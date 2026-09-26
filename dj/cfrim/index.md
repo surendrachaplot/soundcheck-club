@@ -1,6 +1,6 @@
 # C.FRIM
 
-C.FRIM is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+C.FRIM is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
 
 C.FRIM is a techno and house artist based in Australia, tracked on soundcheck, with 88 sets logged across Amsterdam, Auckland, Bali and Barcelona and 18 more. Often billed alongside MIRASIA, Caucasian Opportunities and Sally C. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ C.FRIM is a techno and house artist based in Australia, tracked on soundcheck, w
 
 MIRASIA, Caucasian Opportunities, Sally C
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cfrim/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cfrim/)*

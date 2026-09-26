@@ -1,6 +1,6 @@
 # Socrates
 
-Socrates is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Socrates is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Socrates is a tech house and house artist based in Cyprus, tracked on soundcheck, with 9 sets logged across Amsterdam, Athens, Cork and Greece and 2 more. Often billed alongside Liou, STOZ and 22. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Socrates is a tech house and house artist based in Cyprus, tracked on soundcheck
 
 Liou, STOZ, 22 (1)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/socrates/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/socrates/)*

@@ -1,6 +1,6 @@
 # hv9 (KR)
 
-hv9 (KR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Faust, Seoul on Sat, 3 Oct 2026.
+hv9 (KR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Faust, Seoul on Sat, 3 Oct 2026.
 
 hv9 (KR) is a techno and house artist tracked on soundcheck, with 33 sets logged across Seoul. Often billed alongside Nocturnal (KR), NUSNOOM and gezibe. Next up: Faust, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ hv9 (KR) is a techno and house artist tracked on soundcheck, with 33 sets logged
 
 Nocturnal (KR), NUSNOOM, gezibe
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hv9-1/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hv9-1/)*

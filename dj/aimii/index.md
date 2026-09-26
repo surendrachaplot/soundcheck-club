@@ -1,6 +1,6 @@
 # AiMii
 
-AiMii is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at HVEN, Tokyo on Mon, 9 Nov 2026.
+AiMii is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at HVEN, Tokyo on Mon, 9 Nov 2026.
 
 AiMii is a techno and house artist based in Japan, tracked on soundcheck, with 71 sets logged across Amsterdam, London and Tokyo. Often billed alongside YOSHI KANOU, WAKA XINXI and Alex Ormond. Next up: HVEN, Tokyo on Mon 9 Nov.
 
@@ -25,4 +25,4 @@ AiMii is a techno and house artist based in Japan, tracked on soundcheck, with 7
 
 YOSHI KANOU, WAKA XINXI, Alex Ormond
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aimii/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aimii/)*

@@ -1,6 +1,6 @@
 # Melati
 
-Melati is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Gaffe, London on Fri, 23 Oct 2026.
+Melati is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Gaffe, London on Fri, 23 Oct 2026.
 
 Melati is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Berlin, Brighton, Bristol and Copenhagen and 9 more. Often billed alongside Saroor, olesia and Cosmic Caz. Next up: Gaffe, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Melati is a techno and trance artist based in United Kingdom, tracked on soundch
 
 Saroor, olesia, Cosmic Caz
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melati/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melati/)*

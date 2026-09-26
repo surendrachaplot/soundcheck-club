@@ -1,6 +1,6 @@
 # Anton Tumas
 
-Anton Tumas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Pershing Square, Los Angeles on Sat, 3 Oct 2026.
+Anton Tumas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Pershing Square, Los Angeles on Sat, 3 Oct 2026.
 
 Anton Tumas is a house and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Los Angeles, Montreal and San Francisco/Oakland. Often billed alongside DAVI, Doc Martin and Lee Burridge. Next up: Pershing Square, Los Angeles on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Anton Tumas is a house and techno artist based in United States of America, trac
 
 DAVI, Doc Martin, Lee Burridge
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antontumas/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antontumas/)*

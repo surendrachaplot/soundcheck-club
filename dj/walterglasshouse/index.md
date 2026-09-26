@@ -1,6 +1,6 @@
 # Walter Glasshouse
 
-Walter Glasshouse is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Wayburn, Detroit on Sat, 26 Sept 2026.
+Walter Glasshouse is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Wayburn, Detroit on Sat, 26 Sept 2026.
 
 Walter Glasshouse is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 26 sets logged across Detroit. Often billed alongside Jyarsch, Discreet Disco and DJ Dav. Next up: The Wayburn, Detroit on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Walter Glasshouse is a house and funk / soul artist based in United States of Am
 
 Jyarsch, Discreet Disco, DJ Dav
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/walterglasshouse/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/walterglasshouse/)*

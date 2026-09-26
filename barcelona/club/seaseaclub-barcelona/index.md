@@ -1,8 +1,8 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 18 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "MUTE pres Joris Voorn + Raxon + Bob Tosh" on Sat, 26 Sept 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 18 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "MUTE pres Joris Voorn + Raxon + Bob Tosh" on Sat, 26 Sept 2026.
 
-Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 18 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, arnald and Belu Rodriguez and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
+Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 18 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, Alice Youngling and arnald and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 18 upco
 | Sun, 11 Oct 2026 | SWING pres. Hot Since 82 | Hot Since 82 |
 | Sat, 17 Oct 2026 | INPUT x HOT CREATIONS w/ Patrick Topping + Richy Ahmed + Rossko | Max Haas, Patrick Topping, Richy Ahmed, Rossko |
 | Sat, 17 Oct 2026 | PEOPLE | Couce |
-| Sat, 17 Oct 2026 | People | Couce |
+| Sat, 17 Oct 2026 | PEOPLE | Alice Youngling, Bailey Leunig, Couce |
 
 ## Address
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

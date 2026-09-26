@@ -1,6 +1,6 @@
 # Tassi
 
-Tassi is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Locke, Hamburg on Sat, 10 Oct 2026.
+Tassi is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Locke, Hamburg on Sat, 10 Oct 2026.
 
 Tassi is a house and downtempo artist based in Germany, tracked on soundcheck, with 20 sets logged across Hamburg. Often billed alongside Crew Ombrelle, E-Gerät and Late Night Jockel Session. Next up: Locke, Hamburg on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Tassi is a house and downtempo artist based in Germany, tracked on soundcheck, w
 
 Crew Ombrelle, E-Gerät, Late Night Jockel Session
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tassi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tassi/)*

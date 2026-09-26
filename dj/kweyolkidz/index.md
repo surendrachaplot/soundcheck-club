@@ -1,6 +1,6 @@
 # kwèyólkidz
 
-kwèyólkidz is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Signal, New York City on Sun, 1 Nov 2026.
+kwèyólkidz is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Signal, New York City on Sun, 1 Nov 2026.
 
 kwèyólkidz is a disco and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Berlin, London and New York City. Often billed alongside Analog Soul, Brian Rojas and Eggz. Next up: Signal, New York City on Sun 1 Nov.
 
@@ -22,4 +22,4 @@ kwèyólkidz is a disco and house artist based in United States of America, trac
 
 Analog Soul, Brian Rojas, Eggz
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kweyolkidz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kweyolkidz/)*

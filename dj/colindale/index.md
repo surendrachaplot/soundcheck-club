@@ -1,8 +1,8 @@
 # Colin Dale
 
-Colin Dale is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at NUMBER 90 LONDON, London on Sat, 26 Sept 2026.
+Colin Dale is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at NUMBER 90 LONDON, London on Sat, 26 Sept 2026.
 
-Colin Dale is a house and techno artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Berlin, Birmingham, Brighton and Bristol and 2 more. Often billed alongside Mr C, Grooverider and Miss C MCDJ. Next up: NUMBER 90 LONDON, London on Sat 26 Sept.
+Colin Dale is a house and techno artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Berlin, Birmingham, Brighton and Bristol and 2 more. Often billed alongside Mr C, Grooverider and Miss C MCDJ. Next up: NUMBER 90 LONDON, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Colin Dale is a house and techno artist based in United Kingdom, tracked on soun
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | NUMBER 90 LONDON | London |
 | Sun, 4 Oct 2026 | The Ministry | London |
+| Sat, 10 Oct 2026 | TBA | London |
 | Sat, 7 Nov 2026 | Marshall Arena | South-east |
 
 ## Recently played
@@ -27,4 +28,4 @@ Colin Dale is a house and techno artist based in United Kingdom, tracked on soun
 
 Mr C, Grooverider, Miss C MCDJ
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colindale/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colindale/)*

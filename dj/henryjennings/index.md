@@ -1,6 +1,6 @@
 # Henry Jennings
 
-Henry Jennings is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Jupiter Disco, New York City on Sun, 1 Nov 2026.
+Henry Jennings is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Jupiter Disco, New York City on Sun, 1 Nov 2026.
 
 Henry Jennings is a club and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across New York City and Seattle. Often billed alongside BUNZ, Ben Zo and Boydell. Next up: Jupiter Disco, New York City on Sun 1 Nov.
 
@@ -21,4 +21,4 @@ Henry Jennings is a club and techno artist based in United States of America, tr
 
 BUNZ, Ben Zo, Boydell
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henryjennings/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henryjennings/)*

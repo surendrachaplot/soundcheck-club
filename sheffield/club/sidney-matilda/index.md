@@ -1,6 +1,6 @@
 # Sidney & Matilda
 
-Sidney & Matilda is a music venue in Sheffield with 14 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "James Lavelle (Unkle / Mo'Wax)" on Fri, 25 Sept 2026.
+Sidney & Matilda is a music venue in Sheffield with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "James Lavelle at Sidney and Matilda Sheffield" on Fri, 25 Sept 2026.
 
 Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 14 upcoming gigs, with line-ups including 808 State, Aries, Charla Green and Danny Byrd and 2 more. Browse upcoming dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
 
@@ -8,7 +8,7 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 14 upcoming
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | James Lavelle (Unkle / Mo'Wax) | James Lavelle |
+| Fri, 25 Sept 2026 | James Lavelle at Sidney and Matilda Sheffield |  |
 | Sat, 26 Sept 2026 | Float Along Festival with Flowdan + Hijack | Flowdan |
 | Fri, 9 Oct 2026 | No Kidding presents: The Hunt | Kid Lib |
 | Sat, 10 Oct 2026 | Phil Hartnoll (Orbital) |  |
@@ -23,4 +23,4 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 14 upcoming
 
 Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom, Sheffield
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*

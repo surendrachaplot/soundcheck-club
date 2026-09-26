@@ -1,6 +1,6 @@
 # Off The Square
 
-Off The Square is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Dubverbia: Level 2" on Fri, 2 Oct 2026.
+Off The Square is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Dubverbia: Level 2" on Fri, 2 Oct 2026.
 
 Off The Square is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Chael-UK, MAD Beats, Mistress de Funk and Shumbo Jebang. Browse upcoming dates, start times and who's playing. 67 Lever Street, Manchester, M1 1FL.
 
@@ -15,4 +15,4 @@ Off The Square is a music venue in Manchester listed on soundcheck. 2 upcoming g
 
 67 Lever Street, Manchester, M1 1FL, Manchester
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/off-the-square/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/off-the-square/)*

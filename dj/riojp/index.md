@@ -1,6 +1,6 @@
 # Rio (JP)
 
-Rio (JP) is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Flinders, Sydney on Fri, 2 Oct 2026.
+Rio (JP) is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Flinders, Sydney on Fri, 2 Oct 2026.
 
 Rio (JP) is a bass and house artist based in Japan, tracked on soundcheck, with 7 sets logged across Sydney and Tokyo. Often billed alongside Kasumisty, Lui and AKARI. Next up: The Flinders, Sydney on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Rio (JP) is a bass and house artist based in Japan, tracked on soundcheck, with 
 
 Kasumisty, Lui (6), AKARI
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riojp/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riojp/)*

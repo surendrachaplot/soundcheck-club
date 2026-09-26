@@ -1,14 +1,13 @@
 # Deborah De Luca
 
-Deborah De Luca is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Epic Prague, Prague on Fri, 25 Sept 2026.
+Deborah De Luca is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hafen 49, Mannheim on Sat, 26 Sept 2026.
 
-Deborah De Luca is a techno and house artist based in Italy, tracked on soundcheck, with 154 sets logged across Antwerp, Athens, Augsburg and Austin and 47 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Epic Prague, Prague on Fri 25 Sept.
+Deborah De Luca is a techno and house artist based in Italy, tracked on soundcheck, with 154 sets logged across Antwerp, Athens, Augsburg and Austin and 47 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Hafen 49, Mannheim on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Epic Prague | Prague |
 | Sat, 26 Sept 2026 | Hafen 49 | Mannheim |
 | Fri, 9 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 24 Oct 2026 | Kesselhaus Augsburg | Augsburg |
@@ -19,6 +18,7 @@ Deborah De Luca is a techno and house artist based in Italy, tracked on soundche
 
 ## Recently played
 
+- Epic Prague, Prague — Fri, 25 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 20 Sept 2026
 - fabric, London — Fri, 18 Sept 2026
 - Cavo Paradiso, Mykonos — Sat, 29 Aug 2026
@@ -26,10 +26,9 @@ Deborah De Luca is a techno and house artist based in Italy, tracked on soundche
 - Amnesia Ibiza, Ibiza — Sun, 16 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - Cavo Paradiso, Mykonos — Thu, 6 Aug 2026
-- Donauinsel, Vienna — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Luca Donzelli, I Hate Models, 999999999
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*

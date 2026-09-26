@@ -1,6 +1,6 @@
 # A_Phan
 
-A_Phan is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Kollektiv Kaorle, Vienna on Fri, 2 Oct 2026.
+A_Phan is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Kollektiv Kaorle, Vienna on Fri, 2 Oct 2026.
 
 A_Phan is a techno artist based in Austria, tracked on soundcheck, with 6 sets logged across Berlin and Vienna. Often billed alongside Natasha Moreno, Yakkushi and Anmon. Next up: Kollektiv Kaorle, Vienna on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ A_Phan is a techno artist based in Austria, tracked on soundcheck, with 6 sets l
 
 Natasha Moreno, Yakkushi, Anmon
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a_phan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a_phan/)*

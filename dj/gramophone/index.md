@@ -1,6 +1,6 @@
 # Gramophone
 
-Gramophone is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bluesquare, Milan on Sat, 17 Oct 2026.
+Gramophone is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bluesquare, Milan on Sat, 17 Oct 2026.
 
 Gramophone is a disco and house artist based in Italy, tracked on soundcheck, with 13 sets logged across Milan. Often billed alongside Delfonic, Turbojazz and AIN'T GEORGE. Next up: Bluesquare, Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Gramophone is a disco and house artist based in Italy, tracked on soundcheck, wi
 
 Delfonic, Turbojazz, AIN'T GEORGE
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gramophone/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gramophone/)*

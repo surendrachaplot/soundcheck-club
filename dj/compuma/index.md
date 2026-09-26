@@ -1,6 +1,6 @@
 # Compuma
 
-Compuma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at KGR(n), Tokyo on Fri, 2 Oct 2026.
+Compuma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at KGR(n), Tokyo on Fri, 2 Oct 2026.
 
 Compuma is a techno and house artist based in Japan, tracked on soundcheck, with 72 sets logged across Chicago, Kyoto, Milan and Osaka and 1 more. Often billed alongside Dr. Nishimura, AKIRAM EN and Shhhhh. Next up: KGR(n), Tokyo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Compuma is a techno and house artist based in Japan, tracked on soundcheck, with
 
 Dr. Nishimura, AKIRAM EN, Shhhhh
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/compuma/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/compuma/)*

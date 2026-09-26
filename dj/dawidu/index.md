@@ -1,6 +1,6 @@
 # Dawidu
 
-Dawidu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Green Room NYC, New York City on Fri, 9 Oct 2026.
+Dawidu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Green Room NYC, New York City on Fri, 9 Oct 2026.
 
 Dawidu is a house and techno artist based in France, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Boston and 16 more. Often billed alongside Maxime dB, Sibil and Aline Umber. Next up: Green Room NYC, New York City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Dawidu is a house and techno artist based in France, tracked on soundcheck, with
 
 Maxime dB, Sibil (1), Aline Umber
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dawidu/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dawidu/)*

@@ -1,6 +1,6 @@
 # Moonvvater
 
-Moonvvater is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 2 Oct 2026.
+Moonvvater is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Moonvvater is a house and reggaeton artist tracked on soundcheck, with 12 sets logged across San Francisco/Oakland. Often billed alongside Martinignaccio, Kasa Ma and 888Thieves. Next up: Public Works, San Francisco/Oakland on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Moonvvater is a house and reggaeton artist tracked on soundcheck, with 12 sets l
 
 Martinignaccio, Kasa Ma, 888Thieves
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moonvvater/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moonvvater/)*

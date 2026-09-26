@@ -1,6 +1,6 @@
 # exmantera
 
-exmantera is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cank Neukölln, Berlin on Sat, 31 Oct 2026.
+exmantera is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cank Neukölln, Berlin on Sat, 31 Oct 2026.
 
 exmantera is an experimental and club artist based in Finland, tracked on soundcheck, with 42 sets logged across Berlin, Brussels, Denver and Glasgow and 8 more. Often billed alongside bod [包家巷], Warlord® and Acid Souljah. Next up: Cank Neukölln, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ exmantera is an experimental and club artist based in Finland, tracked on soundc
 
 bod [包家巷], Warlord®, Acid Souljah
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exmantera/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exmantera/)*

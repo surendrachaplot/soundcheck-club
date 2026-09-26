@@ -1,6 +1,6 @@
 # Issasha
 
-Issasha is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Dual, Bangkok on Sat, 26 Sept 2026.
+Issasha is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Dual, Bangkok on Sat, 26 Sept 2026.
 
 Issasha is an electro and house artist based in Thailand, tracked on soundcheck, with 75 sets logged across Bangkok and Hong Kong. Often billed alongside DJ Krit Morton, Yoongying and bunnyman.dogs. Next up: Dual, Bangkok on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Issasha is an electro and house artist based in Thailand, tracked on soundcheck,
 
 DJ Krit Morton, Yoongying, bunnyman.dogs
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/issasha/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/issasha/)*

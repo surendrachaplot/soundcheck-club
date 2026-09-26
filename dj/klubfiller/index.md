@@ -1,6 +1,6 @@
 # Klubfiller
 
-Klubfiller is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at WaV, Liverpool on Sat, 14 Nov 2026.
+Klubfiller is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at WaV, Liverpool on Sat, 14 Nov 2026.
 
 Klubfiller is a hardcore and club artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Glasgow, Liverpool, Manchester and Melbourne and 2 more. Often billed alongside MC Storm, Andy Whitby and Dougal. Next up: WaV, Liverpool on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Klubfiller is a hardcore and club artist based in United Kingdom, tracked on sou
 
 MC Storm, Andy Whitby, Dougal
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klubfiller/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klubfiller/)*

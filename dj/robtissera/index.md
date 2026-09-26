@@ -1,6 +1,6 @@
 # Rob Tissera
 
-Rob Tissera is a Trance and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Mint Warehouse, Leeds on Sat, 26 Sept 2026.
+Rob Tissera is a Trance and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mint Warehouse, Leeds on Sat, 26 Sept 2026.
 
 Rob Tissera is a trance and house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Ibiza, Leeds and Liverpool and 5 more. Often billed alongside Dale Castell, Slipmatt and John Marshall. Next up: Mint Warehouse, Leeds on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Rob Tissera is a trance and house artist based in United Kingdom, tracked on sou
 
 Dale Castell, Slipmatt, John Marshall
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robtissera/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robtissera/)*

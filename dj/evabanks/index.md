@@ -1,6 +1,6 @@
 # Eva Banks
 
-Eva Banks is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at E1, London on Sat, 26 Sept 2026.
+Eva Banks is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at E1, London on Sat, 26 Sept 2026.
 
 Eva Banks is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Duat, BERNT and ELRA. Next up: E1, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Eva Banks is a tech house and house artist based in United Kingdom, tracked on s
 
 Duat, BERNT, ELRA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evabanks/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evabanks/)*

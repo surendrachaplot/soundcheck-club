@@ -1,6 +1,6 @@
 # COBRA
 
-COBRA is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
+COBRA is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
 
 COBRA is a house and garage artist based in Austria, tracked on soundcheck, with 15 sets logged across Vienna. Often billed alongside CHERCHES, Paul Mile and BOYOHBOY. Next up: Grelle Forelle, Vienna on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ COBRA is a house and garage artist based in Austria, tracked on soundcheck, with
 
 CHERCHES, Paul Mile, BOYOHBOY
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cobra-at/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cobra-at/)*

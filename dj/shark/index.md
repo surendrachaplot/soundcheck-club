@@ -1,6 +1,6 @@
 # Shark
 
-Shark is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Apotheke, Los Angeles on Fri, 25 Sept 2026.
+Shark is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Apotheke, Los Angeles on Fri, 25 Sept 2026.
 
 Shark is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 7 sets logged across Budapest, Los Angeles and Sydney. Often billed alongside Glo Phase, Beggar and Dread Maiden. Next up: Apotheke, Los Angeles on Fri 25 Sept.
 
@@ -12,6 +12,7 @@ Shark is a house and funk / soul artist based in United States of America, track
 
 ## Recently played
 
+- Apotheke, Los Angeles — Fri, 25 Sept 2026
 - The Great Northern Hotel - Newcastle, Sydney — Sat, 7 Feb 2026
 - The Monty Bar, Los Angeles — Thu, 15 Jan 2026
 - Apotheke, Los Angeles — Sat, 15 Nov 2025
@@ -23,4 +24,4 @@ Shark is a house and funk / soul artist based in United States of America, track
 
 Glo Phase, Beggar, Dread Maiden
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shark/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shark/)*

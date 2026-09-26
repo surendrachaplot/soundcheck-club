@@ -1,6 +1,6 @@
 # RY X
 
-RY X is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
+RY X is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
 
 RY X is an electronica and ambient artist based in Australia, tracked on soundcheck, with 42 sets logged across Amsterdam, Athens, Bali and Barcelona and 16 more. Often billed alongside Dixon, Jimi Jules and Julya Karma. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ RY X is an electronica and ambient artist based in Australia, tracked on soundch
 
 Dixon, Jimi Jules, Julya Karma
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx/)*

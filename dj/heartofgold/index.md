@@ -1,6 +1,6 @@
 # Heart of Gold
 
-Heart of Gold is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Sat, 3 Oct 2026.
+Heart of Gold is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Sat, 3 Oct 2026.
 
 Heart of Gold is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Los Angeles. Often billed alongside Soul Purpose (LA), BIIANCO and Cherry Lee. Next up: TBA - Los Angeles (Warehouse), Los Angeles on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Heart of Gold is a house and techno artist based in United States of America, tr
 
 Soul Purpose (LA), BIIANCO, Cherry Lee
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heartofgold/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heartofgold/)*

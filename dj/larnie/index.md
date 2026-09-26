@@ -1,6 +1,6 @@
 # Larnie
 
-Larnie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Rolling Stock, London on Fri, 27 Nov 2026.
+Larnie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Rolling Stock, London on Fri, 27 Nov 2026.
 
 Larnie is a techno and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Brighton, Budapest, London and Stuttgart and 1 more. Often billed alongside Fridv, ANTI ANTI and And/Or. Next up: Rolling Stock, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Larnie is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Fridv, ANTI ANTI, And/Or
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larnie/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larnie/)*

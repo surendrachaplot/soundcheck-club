@@ -1,6 +1,6 @@
 # materia hache
 
-materia hache is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Paloma, Berlin on Thu, 1 Oct 2026.
+materia hache is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Paloma, Berlin on Thu, 1 Oct 2026.
 
 materia hache is a house and techno artist based in Spain, tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 2 more. Often billed alongside Fluffi, Mamede and ilbroccolovolante. Next up: Paloma, Berlin on Thu 1 Oct.
 
@@ -29,4 +29,4 @@ materia hache is a house and techno artist based in Spain, tracked on soundcheck
 
 Fluffi, Mamede, ilbroccolovolante
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/materiahache/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/materiahache/)*

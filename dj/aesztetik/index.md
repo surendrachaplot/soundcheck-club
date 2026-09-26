@@ -1,6 +1,6 @@
 # AESZTETIK
 
-AESZTETIK is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Arzenal, Budapest on Sat, 7 Nov 2026.
+AESZTETIK is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Arzenal, Budapest on Sat, 7 Nov 2026.
 
 AESZTETIK is a techno and acid artist based in Hungary, tracked on soundcheck, with 24 sets logged across Budapest, Krakow and Prague. Often billed alongside Ben Dover, DJ Budai and Nicolaus Made. Next up: Arzenal, Budapest on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ AESZTETIK is a techno and acid artist based in Hungary, tracked on soundcheck, w
 
 Ben Dover, DJ Budai, Nicolaus Made
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aesztetik/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aesztetik/)*

@@ -1,6 +1,6 @@
 # Pascale Project
 
-Pascale Project is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Klunkerkranich, Berlin on Wed, 30 Sept 2026.
+Pascale Project is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Klunkerkranich, Berlin on Wed, 30 Sept 2026.
 
 Pascale Project is a techno and house artist based in Canada, tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Brussels and Budapest and 12 more. Often billed alongside Lia Plutonic, Lis Dalton and Amelia Holt. Next up: Klunkerkranich, Berlin on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ Pascale Project is a techno and house artist based in Canada, tracked on soundch
 
 Lia Plutonic, Lis Dalton, Amelia Holt
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pascaleproject/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pascaleproject/)*

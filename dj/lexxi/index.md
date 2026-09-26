@@ -1,6 +1,6 @@
 # Lexxi
 
-Lexxi is a Dancehall and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+Lexxi is a Dancehall and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 Lexxi is a dancehall and uk funky artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Bristol. Often billed alongside HIJINX, Sepia and TFNE. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Lexxi is a dancehall and uk funky artist based in United Kingdom, tracked on sou
 
 HIJINX, Sepia, TFNE
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexxi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexxi/)*

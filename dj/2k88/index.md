@@ -1,6 +1,6 @@
 # 2K88
 
-2K88 is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+2K88 is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 2K88 is an experimental and electronica artist based in Poland, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Brussels and Krakow and 12 more. Often billed alongside Rainy Miller, ojoo and Bianca Scout. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -28,4 +28,4 @@
 
 Rainy Miller, ojoo, Bianca Scout
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2k88/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2k88/)*

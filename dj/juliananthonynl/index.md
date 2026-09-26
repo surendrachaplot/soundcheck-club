@@ -1,6 +1,6 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cova Santa, Ibiza on Tue, 29 Sept 2026.
+Julian Anthony is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cova Santa, Ibiza on Tue, 29 Sept 2026.
 
 Julian Anthony is a house and tech house artist based in Netherlands, tracked on soundcheck, with 158 sets logged across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside Laidlaw, Voigtmann and Reeshy. Next up: Cova Santa, Ibiza on Tue 29 Sept.
 
@@ -34,4 +34,4 @@ Julian Anthony is a house and tech house artist based in Netherlands, tracked on
 
 Laidlaw, Voigtmann, Reeshy
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*

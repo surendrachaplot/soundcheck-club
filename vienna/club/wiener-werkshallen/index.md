@@ -1,6 +1,6 @@
 # Wiener Werkshallen
 
-Wiener Werkshallen is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Du Tanzt Mich Mal X Wiener Werkshallen" on Sat, 3 Oct 2026.
+Wiener Werkshallen is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Du Tanzt Mich Mal X Wiener Werkshallen" on Sat, 3 Oct 2026.
 
 Wiener Werkshallen is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-ups including Joules (AT), Kollektiv Sheesh, MEETFRANKA and Rayya and 1 more. Browse upcoming dates, start times and who's playing. 2. Haidequerstraße 1-3, 1110 Wien.
 
@@ -15,4 +15,4 @@ Wiener Werkshallen is a music venue in Vienna listed on soundcheck. 2 upcoming g
 
 2. Haidequerstraße 1-3, 1110 Wien, Vienna
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/wiener-werkshallen/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/wiener-werkshallen/)*

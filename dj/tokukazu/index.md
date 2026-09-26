@@ -1,6 +1,6 @@
 # Tokukazu
 
-Tokukazu is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Suree, Tokyo on Sat, 26 Sept 2026.
+Tokukazu is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Suree, Tokyo on Sat, 26 Sept 2026.
 
 Tokukazu is a house and minimal artist based in Japan, tracked on soundcheck, with 47 sets logged across Tokyo. Often billed alongside DAIY, Incarnated Sound and Masayoshi Kimura. Next up: Suree, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Tokukazu is a house and minimal artist based in Japan, tracked on soundcheck, wi
 
 DAIY, Incarnated Sound, Masayoshi Kimura
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tokukazu/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tokukazu/)*

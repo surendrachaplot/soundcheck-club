@@ -1,6 +1,6 @@
 # Alexia
 
-Alexia is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Madam, Amsterdam on Sat, 28 Nov 2026.
+Alexia is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Madam, Amsterdam on Sat, 28 Nov 2026.
 
 Alexia is a tech house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 1 more. Often billed alongside 131bpm, ADEZ and AMSL. Next up: Madam, Amsterdam on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Alexia is a tech house and techno artist based in United States of America, trac
 
 131bpm, ADEZ, AMSL
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia/)*

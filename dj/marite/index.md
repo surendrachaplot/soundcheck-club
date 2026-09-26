@@ -1,14 +1,13 @@
 # Mari.te
 
-Mari.te is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Jolene Downtown Miami, Miami on Fri, 25 Sept 2026.
+Mari.te is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
 
-Mari.te is a house and techno artist based in Venezuela, tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope. Next up: Jolene Downtown Miami, Miami on Fri 25 Sept.
+Mari.te is a house and techno artist based in Venezuela, tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope. Next up: H0L0, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Jolene Downtown Miami | Miami |
 | Sat, 26 Sept 2026 | H0L0 | New York City |
 | Fri, 2 Oct 2026 | La Terrrazza | Barcelona |
 | Sat, 17 Oct 2026 | Nido Marseille | Marseille |
@@ -18,6 +17,7 @@ Mari.te is a house and techno artist based in Venezuela, tracked on soundcheck, 
 
 ## Recently played
 
+- Jolene Downtown Miami, Miami — Fri, 25 Sept 2026
 - Fvtvr, Paris — Sat, 12 Sept 2026
 - Sunseabar Beach Club, Barcelona — Fri, 11 Sept 2026
 - Myra, Lisbon — Sat, 22 Aug 2026
@@ -25,10 +25,9 @@ Mari.te is a house and techno artist based in Venezuela, tracked on soundcheck, 
 - Sunseabar Beach Club, Barcelona — Sat, 8 Aug 2026
 - TBA - East Williamsburg, New York City — Fri, 31 Jul 2026
 - fabric, London — Sat, 18 Jul 2026
-- Nido Marseille, Marseille — Mon, 13 Jul 2026
 
 ## Shares bills with
 
 Lis Sarroca, Liquid Earth, Penelope (2)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*

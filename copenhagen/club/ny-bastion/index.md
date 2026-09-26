@@ -1,6 +1,6 @@
 # Ny Bastion
 
-Ny Bastion is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Slim0 & Echo, Bravo ★ Ny Bastion & Frigjort" on Fri, 2 Oct 2026.
+Ny Bastion is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Slim0 & Echo, Bravo ★ Ny Bastion & Frigjort" on Fri, 2 Oct 2026.
 
 Ny Bastion is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with line-ups including Slim0. Browse upcoming dates, start times and who's playing. Refshalevej 28, Copenhagen, Denmark, 1432.
 
@@ -14,4 +14,4 @@ Ny Bastion is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, 
 
 Refshalevej 28, Copenhagen, Denmark, 1432, Copenhagen
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/ny-bastion/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/ny-bastion/)*

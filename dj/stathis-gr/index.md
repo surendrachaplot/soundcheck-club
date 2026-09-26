@@ -1,6 +1,6 @@
 # Stathis (GR)
 
-Stathis (GR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Plex, Athens on Sat, 3 Oct 2026.
+Stathis (GR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Plex, Athens on Sat, 3 Oct 2026.
 
 Stathis (GR) is a house and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Luigi Di Venere, Maria Politi and Chris Cruse. Next up: Plex, Athens on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Stathis (GR) is a house and techno artist tracked on soundcheck, with 60 sets lo
 
 Luigi Di Venere, Maria Politi, Chris Cruse
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stathis-gr/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stathis-gr/)*

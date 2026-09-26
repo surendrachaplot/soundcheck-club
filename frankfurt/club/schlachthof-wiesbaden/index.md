@@ -1,6 +1,6 @@
 # Schlachthof Wiesbaden
 
-Schlachthof Wiesbaden is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "WE ARE ONE x SCHLACHTHOF FESTIVAL mit JAZZY, Russian Village Boys" on Sat, 17 Oct 2026.
+Schlachthof Wiesbaden is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "WE ARE ONE x SCHLACHTHOF FESTIVAL mit JAZZY, Russian Village Boys" on Sat, 17 Oct 2026.
 
 Schlachthof Wiesbaden is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, with line-ups including ANN-LUX, CiKi, DeGuzman and Elon Bass and 2 more. Browse upcoming dates, start times and who's playing. Murnaustraße 1, 65189 Wiesbaden.
 
@@ -15,4 +15,4 @@ Schlachthof Wiesbaden is a music venue in Frankfurt listed on soundcheck. 2 upco
 
 Murnaustraße 1, 65189 Wiesbaden, Frankfurt
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/schlachthof-wiesbaden/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/schlachthof-wiesbaden/)*

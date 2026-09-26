@@ -1,6 +1,6 @@
 # ojoo
 
-ojoo is a Experimental and Dub artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Botanique, Brussels on Sat, 26 Sept 2026.
+ojoo is a Experimental and Dub artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Botanique, Brussels on Sat, 26 Sept 2026.
 
 ojoo is an experimental and dub artist based in Morocco, tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside ojoo, Ossia and NVST. Next up: Botanique, Brussels on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ ojoo is an experimental and dub artist based in Morocco, tracked on soundcheck, 
 
 ojoo, Ossia, NVST
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ojoo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ojoo/)*

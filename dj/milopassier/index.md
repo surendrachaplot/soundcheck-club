@@ -1,6 +1,6 @@
 # Milo Passier
 
-Milo Passier is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Opposite, Barcelona on Sat, 26 Sept 2026.
+Milo Passier is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Opposite, Barcelona on Sat, 26 Sept 2026.
 
 Milo Passier is a house and tech house artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Lisbon and Rotterdam and 1 more. Often billed alongside Kirilski, Lasse Top and Pura Pachanga. Next up: Opposite, Barcelona on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Milo Passier is a house and tech house artist based in Netherlands, tracked on s
 
 Kirilski, Lasse Top, Pura Pachanga
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milopassier/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milopassier/)*

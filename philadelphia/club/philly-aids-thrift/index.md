@@ -1,6 +1,6 @@
 # Philly Aids Thrift
 
-Philly Aids Thrift is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "WKDU & Philly Aids Thrift present: Thrifty Disco" on Sat, 10 Oct 2026.
+Philly Aids Thrift is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "WKDU & Philly Aids Thrift present: Thrifty Disco" on Sat, 10 Oct 2026.
 
 Philly Aids Thrift is a music venue in Philadelphia listed on soundcheck. 1 upcoming gig, with line-ups including Shawn Ryan. Browse upcoming dates, start times and who's playing. 710 S 5th St, Philadelphia, PA 19147, United States.
 
@@ -14,4 +14,4 @@ Philly Aids Thrift is a music venue in Philadelphia listed on soundcheck. 1 upco
 
 710 S 5th St, Philadelphia, PA 19147, United States, Philadelphia
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/philly-aids-thrift/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/philly-aids-thrift/)*

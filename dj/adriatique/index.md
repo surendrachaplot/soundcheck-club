@@ -1,6 +1,6 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Vale do Anhangabaú, Sao Paulo on Sat, 26 Sept 2026.
+Adriatique is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Vale do Anhangabaú, Sao Paulo on Sat, 26 Sept 2026.
 
 Adriatique is a techno and house artist based in Switzerland, tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Mind Against, Colyn and Âme. Next up: Vale do Anhangabaú, Sao Paulo on Sat 26 Sept.
 
@@ -31,4 +31,4 @@ Adriatique is a techno and house artist based in Switzerland, tracked on soundch
 
 Mind Against, Colyn, Âme
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

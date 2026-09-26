@@ -1,14 +1,13 @@
 # SILO
 
-SILO is a music venue in New York City with 30 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Silva Bumpa" on Fri, 25 Sept 2026.
+SILO is a music venue in New York City with 29 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Anyasa [Anjunadeep], Joseph Ray [Anjunadeep], & Harji B2B Firungi" on Sat, 26 Sept 2026.
 
-SILO is a music venue in New York City listed on soundcheck. 30 upcoming gigs, with line-ups including Amiti, Anthony Romano, Anyasa and Bag Raiders and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in New York City listed on soundcheck. 29 upcoming gigs, with line-ups including Amiti, Anthony Romano, Anyasa and Bag Raiders and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Silva Bumpa | Silva Bumpa |
 | Sat, 26 Sept 2026 | Anyasa [Anjunadeep], Joseph Ray [Anjunadeep], & Harji B2B Firungi | Anyasa, Firungi, Harji |
 | Sat, 26 Sept 2026 | Sufi Sessions NYC |  |
 | Tue, 29 Sept 2026 | Open Decks with ceviché & LIFE AFTER TRANCE | ceviché |
@@ -18,9 +17,10 @@ SILO is a music venue in New York City listed on soundcheck. 30 upcoming gigs, w
 | Sat, 10 Oct 2026 | Ivy Lab: A Farewell Tour | Ivy Lab |
 | Tue, 13 Oct 2026 | Open Decks with STEEN & Clübsession | STEEN |
 | Wed, 14 Oct 2026 | Open Decks with STEEN and Monkey Wrench Techno | STEEN |
+| Thu, 15 Oct 2026 | TRIM: cassandrah / Crypture / C4 (Main Room Event, Free with RSVP) | C4, cassandrah |
 
 ## Address
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

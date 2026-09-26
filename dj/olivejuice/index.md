@@ -1,6 +1,6 @@
 # Olive Juice
 
-Olive Juice is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Hackney Bridge, London on Fri, 16 Oct 2026.
+Olive Juice is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Hackney Bridge, London on Fri, 16 Oct 2026.
 
 Olive Juice is a bass and baile funk artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London. Often billed alongside ROHiNA, limi and Kafn. Next up: Hackney Bridge, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Olive Juice is a bass and baile funk artist based in United Kingdom, tracked on 
 
 ROHiNA, limi, Kafn
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivejuice/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivejuice/)*

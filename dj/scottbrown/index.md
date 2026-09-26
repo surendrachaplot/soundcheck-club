@@ -1,6 +1,6 @@
 # Scott Brown
 
-Scott Brown is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Classic Grand, Glasgow on Sat, 10 Oct 2026.
+Scott Brown is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Classic Grand, Glasgow on Sat, 10 Oct 2026.
 
 Scott Brown is a hardcore and gabber artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 12 more. Often billed alongside Dougal, Charlie B and Mark Breeze. Next up: The Classic Grand, Glasgow on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Scott Brown is a hardcore and gabber artist based in United Kingdom, tracked on 
 
 Dougal, Charlie B, Mark Breeze
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbrown/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbrown/)*

@@ -1,6 +1,6 @@
 # Axymt.
 
-Axymt. is a Techno and Ambient artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Super7, Lyon on Thu, 24 Sept 2026.
+Axymt. is a Techno and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Super7, Lyon on Thu, 24 Sept 2026.
 
 Axymt. is a techno and ambient artist based in France, tracked on soundcheck, with 10 sets logged across Barcelona, Lyon and Oslo. Often billed alongside Tauceti (FR), 2HOT2PLAY and AREA ØNE. Next up: Super7, Lyon on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Axymt. is a techno and ambient artist based in France, tracked on soundcheck, wi
 
 Tauceti (FR), 2HOT2PLAY, AREA ØNE
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axymt-fr/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axymt-fr/)*

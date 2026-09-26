@@ -1,6 +1,6 @@
 # Central
 
-Central is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ormside Projects, London on Sat, 17 Oct 2026.
+Central is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ormside Projects, London on Sat, 17 Oct 2026.
 
 Central is a house and techno artist based in Denmark, tracked on soundcheck, with 9 sets logged across Bristol, Copenhagen, London and Tokyo. Often billed alongside DJ Popup, Manmade Deejay and Ana Karla. Next up: Ormside Projects, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Central is a house and techno artist based in Denmark, tracked on soundcheck, wi
 
 DJ Popup, Manmade Deejay, Ana Karla
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/central/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/central/)*

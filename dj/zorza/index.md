@@ -1,6 +1,6 @@
 # Zorza
 
-Zorza is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Zorza is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
 Zorza is a techno and trance artist based in Canada, tracked on soundcheck, with 93 sets logged across Austin, Barcelona, Berlin and Brussels and 29 more. Often billed alongside TDJ, Shlømo and SIKOTI. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Zorza is a techno and trance artist based in Canada, tracked on soundcheck, with
 
 TDJ, Shlømo, SIKOTI
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zorza/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zorza/)*

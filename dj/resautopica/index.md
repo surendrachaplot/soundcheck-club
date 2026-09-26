@@ -1,6 +1,6 @@
 # RESA UTOPICA
 
-RESA UTOPICA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+RESA UTOPICA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 RESA UTOPICA is a techno and trance artist based in Italy, tracked on soundcheck, with 43 sets logged across Berlin, Düsseldorf, Ghent and Milan and 3 more. Often billed alongside DOCTOR MÜCKE, Jesooria and ELNA. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ RESA UTOPICA is a techno and trance artist based in Italy, tracked on soundcheck
 
 DOCTOR MÜCKE, Jesooria, ELNA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/resautopica/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/resautopica/)*

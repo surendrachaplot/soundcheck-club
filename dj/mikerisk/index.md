@@ -1,6 +1,6 @@
 # Mike Risk
 
-Mike Risk is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at ingang, Amsterdam on Sat, 14 Nov 2026.
+Mike Risk is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ingang, Amsterdam on Sat, 14 Nov 2026.
 
 Mike Risk is a deep house and house artist tracked on soundcheck, with 11 sets logged across Amsterdam and Singapore. Often billed alongside I.M.X, Denz Devarez and Eric de Man. Next up: ingang, Amsterdam on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mike Risk is a deep house and house artist tracked on soundcheck, with 11 sets l
 
 I.M.X, Denz Devarez, Eric de Man
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikerisk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikerisk/)*

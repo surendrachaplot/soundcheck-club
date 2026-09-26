@@ -1,6 +1,6 @@
 # Daikanyama ORD.
 
-Daikanyama ORD. is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "AGE" on Sat, 26 Sept 2026.
+Daikanyama ORD. is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "AGE" on Sat, 26 Sept 2026.
 
 Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including ban, CYBERHACKSYSTEM, DJason and DJ B2B and 2 more. Browse upcoming dates, start times and who's playing. za HOUSE 2F 1-34-17 ebisu-nishi shibuyaku tokyo.
 
@@ -21,4 +21,4 @@ Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs,
 
 za HOUSE 2F 1-34-17 ebisu-nishi shibuyaku tokyo, Tokyo
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/daikanyama-ord/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/daikanyama-ord/)*

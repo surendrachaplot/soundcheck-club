@@ -1,6 +1,6 @@
 # Bconscious
 
-Bconscious is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Banja Luka, Berlin on Fri, 9 Oct 2026.
+Bconscious is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Banja Luka, Berlin on Fri, 9 Oct 2026.
 
 Bconscious is a techno and house artist tracked on soundcheck, with 47 sets logged across Bangkok, Berlin and Hamburg. Often billed alongside Gforty, Guido Iacovitti and Inverse Element. Next up: Banja Luka, Berlin on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Bconscious is a techno and house artist tracked on soundcheck, with 47 sets logg
 
 Gforty, Guido Iacovitti, Inverse Element
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bconscious/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bconscious/)*

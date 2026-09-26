@@ -1,6 +1,6 @@
 # Scintii
 
-Scintii is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Replika Teatro, Madrid on Sat, 3 Oct 2026.
+Scintii is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Replika Teatro, Madrid on Sat, 3 Oct 2026.
 
 Scintii is an experimental and electronica artist based in China, tracked on soundcheck, with 6 sets logged across London, Madrid, Melbourne and Shenzhen and 1 more. Often billed alongside CORIN, 33EMYBW and Blood Lotus. Next up: Replika Teatro, Madrid on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Scintii is an experimental and electronica artist based in China, tracked on sou
 
 CORIN, 33EMYBW, Blood Lotus
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scintii/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scintii/)*

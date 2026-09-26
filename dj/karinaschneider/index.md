@@ -1,6 +1,6 @@
 # Karina Schneider
 
-Karina Schneider is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Tresor / Globus, Berlin on Sat, 26 Sept 2026.
+Karina Schneider is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tresor / Globus, Berlin on Sat, 26 Sept 2026.
 
 Karina Schneider is a techno and house artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 3 more. Often billed alongside Beau Didier, Marc Schneider and Flits. Next up: Tresor / Globus, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Karina Schneider is a techno and house artist based in Germany, tracked on sound
 
 Beau Didier, Marc Schneider, Flits
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaschneider/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaschneider/)*

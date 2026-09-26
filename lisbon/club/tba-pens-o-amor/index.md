@@ -1,6 +1,6 @@
 # TBA - Pensão Amor
 
-TBA - Pensão Amor is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "João Melgueira ~ at Pensão Amor" on Mon, 5 Oct 2026.
+TBA - Pensão Amor is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "João Melgueira ~ at Pensão Amor" on Mon, 5 Oct 2026.
 
 TBA - Pensão Amor is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including João Melgueira. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Pensão Amor is a music venue in Lisbon listed on soundcheck. 2 upcoming g
 | Mon, 5 Oct 2026 | João Melgueira ~ at Pensão Amor | João Melgueira |
 | Fri, 16 Oct 2026 | João Melgueira ~ at Pensão Amor | João Melgueira |
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-pens-o-amor/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-pens-o-amor/)*

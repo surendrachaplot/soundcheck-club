@@ -1,6 +1,6 @@
 # Mark Cage
 
-Mark Cage is a EBM and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Johnny Brenda's, Philadelphia on Fri, 2 Oct 2026.
+Mark Cage is a EBM and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Johnny Brenda's, Philadelphia on Fri, 2 Oct 2026.
 
 Mark Cage is an ebm and industrial artist based in United States of America, tracked on soundcheck, with 40 sets logged across London, New York City and Philadelphia. Often billed alongside Joe Hart (US), Jamie K and DJ Baby Berlin. Next up: Johnny Brenda's, Philadelphia on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Mark Cage is an ebm and industrial artist based in United States of America, tra
 
 Joe Hart (US), Jamie K, DJ Baby Berlin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markcage/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markcage/)*

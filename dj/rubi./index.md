@@ -1,6 +1,6 @@
 # RuBi.
 
-RuBi. is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+RuBi. is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 RuBi. is a techno and hardcore artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Leipzig and Madrid. Often billed alongside FKNSIL, Calcifer and Milchgeld. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ RuBi. is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 
 FKNSIL, Calcifer, Milchgeld
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi./)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi./)*

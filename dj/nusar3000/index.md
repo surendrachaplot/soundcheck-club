@@ -1,6 +1,6 @@
 # Nusar3000
 
-Nusar3000 is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Astro Cdmx, Mexico City on Fri, 2 Oct 2026.
+Nusar3000 is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Astro Cdmx, Mexico City on Fri, 2 Oct 2026.
 
 Nusar3000 is a club and hip-hop artist based in Spain, tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Berlin and London and 3 more. Often billed alongside Dinamarca, Yosef (ES) and AINES. Next up: Astro Cdmx, Mexico City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nusar3000 is a club and hip-hop artist based in Spain, tracked on soundcheck, wi
 
 Dinamarca, Yosef (ES), AINES
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nusar3000/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nusar3000/)*

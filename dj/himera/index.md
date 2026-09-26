@@ -1,6 +1,6 @@
 # Himera
 
-Himera is a Trance and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
+Himera is a Trance and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
 
 Himera is a trance and club artist based in Netherlands, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Boston and 16 more. Often billed alongside DJ Shahmaran, DJ GHEPARD and TDJ. Next up: TBA - Rotterdam Various Locations, Rotterdam on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Himera is a trance and club artist based in Netherlands, tracked on soundcheck, 
 
 DJ Shahmaran, DJ GHEPARD, TDJ
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/himera/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/himera/)*

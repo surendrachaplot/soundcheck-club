@@ -1,6 +1,6 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 26 Sept 2026.
+Cam Stockman is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 26 Sept 2026.
 
 Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 21 more. Often billed alongside Gaskin, Locky and Boss Priester. Next up: Blackstone Street Warehouse, Liverpool on Sat 26 Sept.
 
@@ -34,4 +34,4 @@ Cam Stockman is a house and tech house artist based in United Kingdom, tracked o
 
 Gaskin, Locky, Boss Priester
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

@@ -1,6 +1,6 @@
 # Mattia Rizzi
 
-Mattia Rizzi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Amsterdam on Fri, 16 Oct 2026.
+Mattia Rizzi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Amsterdam on Fri, 16 Oct 2026.
 
 Mattia Rizzi is a techno and house artist tracked on soundcheck, with 11 sets logged across Amsterdam. Often billed alongside BABY (PT), Harry Who and Gorilla Loco. Next up: TBA, Amsterdam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mattia Rizzi is a techno and house artist tracked on soundcheck, with 11 sets lo
 
 BABY (PT), Harry Who, Gorilla Loco
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiarizzi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiarizzi/)*

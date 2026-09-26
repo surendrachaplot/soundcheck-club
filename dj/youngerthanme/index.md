@@ -1,6 +1,6 @@
 # Younger Than Me
 
-Younger Than Me is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Fuchs2, Prague on Sat, 17 Oct 2026.
+Younger Than Me is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Fuchs2, Prague on Sat, 17 Oct 2026.
 
 Younger Than Me is a techno and house artist based in Italy, tracked on soundcheck, with 66 sets logged across Amsterdam, Bali, Barcelona and Berlin and 15 more. Often billed alongside Maruwa, Industrial Romantico and Elisa Bee. Next up: Fuchs2, Prague on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Younger Than Me is a techno and house artist based in Italy, tracked on soundche
 
 Maruwa, Industrial Romantico, Elisa Bee
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngerthanme/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngerthanme/)*

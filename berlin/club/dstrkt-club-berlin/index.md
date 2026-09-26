@@ -1,6 +1,6 @@
 # DSTRKT Club Berlin
 
-DSTRKT Club Berlin is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Sequenced Minds at DSTRKT" on Fri, 9 Oct 2026.
+DSTRKT Club Berlin is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Sequenced Minds at DSTRKT" on Fri, 9 Oct 2026.
 
 DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Andreas Henneberg, André Galluzzi, DJ Hell and IGDA and 2 more. Browse upcoming dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
 
@@ -18,4 +18,4 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming g
 
 Storkower Straße 123, 10407 Berlin, Deutschland, Berlin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*

@@ -1,6 +1,6 @@
 # bozito
 
-bozito is a Reggaeton and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+bozito is a Reggaeton and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 bozito is a reggaeton and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Miami and San Francisco/Oakland. Often billed alongside SATURNSARii, 619! and Roll-e. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ bozito is a reggaeton and techno artist based in United States of America, track
 
 SATURNSARii, 619!, Roll-e
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bozito/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bozito/)*

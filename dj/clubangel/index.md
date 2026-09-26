@@ -1,6 +1,6 @@
 # Club Angel
 
-Club Angel is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Night Tales Loft, London on Sat, 26 Sept 2026.
+Club Angel is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Night Tales Loft, London on Sat, 26 Sept 2026.
 
 Club Angel is a garage and house artist based in Australia, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Auckland and Austin and 34 more. Often billed alongside Sam Alfred, salute and Interplanetary Criminal. Next up: Night Tales Loft, London on Sat 26 Sept.
 
@@ -34,4 +34,4 @@ Club Angel is a garage and house artist based in Australia, tracked on soundchec
 
 Sam Alfred, salute, Interplanetary Criminal
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*

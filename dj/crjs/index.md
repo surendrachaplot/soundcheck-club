@@ -1,6 +1,6 @@
 # Crjs
 
-Crjs is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+Crjs is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
 
 Crjs is a house and bass artist tracked on soundcheck, with 39 sets logged across Mexico City. Often billed alongside Lupone, OMAAR and Enya Botello. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Crjs is a house and bass artist tracked on soundcheck, with 39 sets logged acros
 
 Lupone, OMAAR, Enya Botello
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crjs/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crjs/)*

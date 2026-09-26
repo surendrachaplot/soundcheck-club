@@ -1,18 +1,17 @@
 # Fållan
 
-Fållan is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Soulmates 20 years, with Coflo (US)" on Fri, 25 Sept 2026.
+Fållan is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "UNTITLED: Major League Djz" on Fri, 11 Dec 2026.
 
-Fållan is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including Coflo, D Soulstream, JAMIIE and Mad Mats and 1 more. Browse upcoming dates, start times and who's playing. Fållan 10, 12161, Stockholm.
+Fållan is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including JAMIIE and Major League Djz. Browse upcoming dates, start times and who's playing. Fållan 10, 12161, Stockholm.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Soulmates 20 years, with Coflo (US) | Coflo, D Soulstream, Mad Mats |
 | Fri, 11 Dec 2026 | UNTITLED: Major League Djz | JAMIIE, Major League Djz |
 
 ## Address
 
 Fållan 10, 12161, Stockholm, Stockholm
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/f-llan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/f-llan/)*

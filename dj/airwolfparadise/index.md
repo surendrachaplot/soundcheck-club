@@ -1,8 +1,8 @@
 # Airwolf Paradise
 
-Airwolf Paradise is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Airwolf Paradise is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Airwolf Paradise is a house and tech house artist based in Australia, tracked on soundcheck, with 47 sets logged across Austin, Australiancapitalterritory, Bali and Belfast and 17 more. Often billed alongside Torren Foot, Patrick Topping and Dom Dolla. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
+Airwolf Paradise is a house and tech house artist based in Australia, tracked on soundcheck, with 47 sets logged across Austin, Australian Capital Territory, Bali and Belfast and 17 more. Often billed alongside Torren Foot, Patrick Topping and Dom Dolla. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Airwolf Paradise is a house and tech house artist based in Australia, tracked on
 
 Torren Foot, Patrick Topping, Dom Dolla
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/airwolfparadise/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/airwolfparadise/)*

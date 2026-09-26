@@ -1,6 +1,6 @@
 # Four Quarters
 
-Four Quarters is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "SUNGLASSES AT NIGHT @ Four Quarters Peckham" on Thu, 1 Oct 2026.
+Four Quarters is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "SUNGLASSES AT NIGHT @ Four Quarters Peckham" on Thu, 1 Oct 2026.
 
 Four Quarters is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including AAKAARA, Alfie Fraser, Alley Cat and Badly Drawn Banana and 2 more. Browse upcoming dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
 
@@ -11,7 +11,7 @@ Four Quarters is a music venue in London listed on soundcheck. 9 upcoming gigs, 
 | Thu, 1 Oct 2026 | SUNGLASSES AT NIGHT @ Four Quarters Peckham | Badly Drawn Banana, Steeziskey, sbfmRADIO |
 | Fri, 2 Oct 2026 | Battery & Philth present - Mesmerize EP launch party | Alley Cat, Haste, Philth, Rockwell |
 | Sat, 10 Oct 2026 | RDV Sounds - FREE ENTRY - AAKAARA, LOLA TARTE, MF CEOL, JV | AAKAARA, JV (5) |
-| Thu, 15 Oct 2026 | Stine & Friends |  |
+| Thu, 15 Oct 2026 | Stine & Friends | Stine |
 | Sat, 17 Oct 2026 | On&on |  |
 | Thu, 29 Oct 2026 | Sendin Outaspace | Alley Cat, DFUSE, Drumskull, Pressa |
 | Fri, 30 Oct 2026 | Aspect DNB: Halloween Special | Exposure (UK), Tianna Franxx |
@@ -22,4 +22,4 @@ Four Quarters is a music venue in London listed on soundcheck. 9 upcoming gigs, 
 
 187 Rye Lane, Peckham, SE15 4TP, London
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*

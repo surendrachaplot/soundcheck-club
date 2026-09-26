@@ -1,6 +1,6 @@
 # Romy S.
 
-Romy S. is a music venue in Stuttgart with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "TRANCE STATION" on Sat, 3 Oct 2026.
+Romy S. is a music venue in Stuttgart with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "TRANCE STATION" on Sat, 3 Oct 2026.
 
 Romy S. is a music venue in Stuttgart listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Langestrasse 7; 70173 Stuttgart; Germany.
 
@@ -15,4 +15,4 @@ Romy S. is a music venue in Stuttgart listed on soundcheck. 2 upcoming gigs. Bro
 
 Langestrasse 7; 70173 Stuttgart; Germany, Stuttgart
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romy-s/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romy-s/)*

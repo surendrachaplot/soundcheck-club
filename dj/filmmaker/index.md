@@ -1,6 +1,6 @@
 # Filmmaker
 
-Filmmaker is a EBM and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Mexico City on Fri, 13 Nov 2026.
+Filmmaker is a EBM and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Mexico City on Fri, 13 Nov 2026.
 
 Filmmaker is an ebm and industrial artist based in Colombia, tracked on soundcheck, with 24 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 11 more. Often billed alongside Max Sinclair, Alessandro Parisi and Aroy Dee. Next up: TBA, Mexico City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Filmmaker is an ebm and industrial artist based in Colombia, tracked on soundche
 
 Max Sinclair, Alessandro Parisi, Aroy Dee
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filmmaker/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filmmaker/)*

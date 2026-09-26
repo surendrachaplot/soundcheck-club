@@ -1,6 +1,6 @@
 # nilehn
 
-nilehn is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Eiger Studios, Leeds on Sat, 7 Nov 2026.
+nilehn is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Eiger Studios, Leeds on Sat, 7 Nov 2026.
 
 nilehn is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Leeds. Often billed alongside Ben Zulu, Jake Mehew and NikNak. Next up: Eiger Studios, Leeds on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ nilehn is a techno and experimental artist based in United Kingdom, tracked on s
 
 Ben Zulu, Jake Mehew, NikNak
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nilehn/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nilehn/)*

@@ -1,6 +1,6 @@
 # Highlander
 
-Highlander is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Greyhound, London on Sat, 26 Sept 2026.
+Highlander is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Greyhound, London on Sat, 26 Sept 2026.
 
 Highlander is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across London, Manchester, Newcastle and New York City and 1 more. Often billed alongside CICELY, J Bentley and BHV2099. Next up: The Greyhound, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Highlander is a jungle and hardcore artist based in United Kingdom, tracked on s
 
 CICELY, J Bentley, BHV2099
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/highlander/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/highlander/)*

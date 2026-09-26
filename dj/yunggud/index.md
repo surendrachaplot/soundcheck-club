@@ -1,6 +1,6 @@
 # Yung Gud
 
-Yung Gud is a Electronica and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 170 Russell, Melbourne on Fri, 23 Oct 2026.
+Yung Gud is a Electronica and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 170 Russell, Melbourne on Fri, 23 Oct 2026.
 
 Yung Gud is an electronica and hip-hop artist based in Sweden, tracked on soundcheck, with 7 sets logged across Berlin, Copenhagen, London and Melbourne and 1 more. Often billed alongside Woesum, Felix Lee and Kamixlo. Next up: 170 Russell, Melbourne on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Yung Gud is an electronica and hip-hop artist based in Sweden, tracked on soundc
 
 Woesum, Felix Lee, Kamixlo
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yunggud/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yunggud/)*

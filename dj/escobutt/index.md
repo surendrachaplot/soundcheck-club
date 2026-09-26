@@ -1,6 +1,6 @@
 # ESCOBUTT
 
-ESCOBUTT is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at La Plaza, Toronto on Thu, 29 Oct 2026.
+ESCOBUTT is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at La Plaza, Toronto on Thu, 29 Oct 2026.
 
 ESCOBUTT is a club and bass artist based in Colombia, tracked on soundcheck, with 43 sets logged across Marseille, Montreal, Toronto and Vancouver. Often billed alongside Juanit0, GUSSYEE and Kaspr. Next up: La Plaza, Toronto on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ ESCOBUTT is a club and bass artist based in Colombia, tracked on soundcheck, wit
 
 Juanit0, GUSSYEE, Kaspr
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/escobutt/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/escobutt/)*

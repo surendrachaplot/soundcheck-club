@@ -1,6 +1,6 @@
 # Zama Metta
 
-Zama Metta is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Hookah Lounge, Mexico City on Mon, 21 Sept 2026.
+Zama Metta is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Hookah Lounge, Mexico City on Mon, 21 Sept 2026.
 
 Zama Metta is a techno and downtempo artist tracked on soundcheck, with 10 sets logged across Mexico City. Often billed alongside Luvok, Alex Young and D:mind. Next up: Hookah Lounge, Mexico City on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Zama Metta is a techno and downtempo artist tracked on soundcheck, with 10 sets 
 
 Luvok, Alex Young, D:mind
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zamametta/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zamametta/)*

@@ -1,6 +1,6 @@
 # ALT8
 
-ALT8 is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Superior Ingredients, New York City on Fri, 2 Oct 2026.
+ALT8 is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Superior Ingredients, New York City on Fri, 2 Oct 2026.
 
 ALT8 is a techno and trance artist based in Ireland, tracked on soundcheck, with 141 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 47 more. Often billed alongside Sara Landry, OGUZ and NOVAH. Next up: Superior Ingredients, New York City on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ ALT8 is a techno and trance artist based in Ireland, tracked on soundcheck, with
 
 Sara Landry, OGUZ, NOVAH
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*

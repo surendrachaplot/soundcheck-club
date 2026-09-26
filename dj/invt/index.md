@@ -1,6 +1,6 @@
 # INVT
 
-INVT is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+INVT is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 INVT is a house and techno artist based in United States of America, tracked on soundcheck, with 126 sets logged across Barcelona, Berlin, Birmingham and Bristol and 31 more. Often billed alongside Danny Daze, Jubilee and Jonny From Space. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ INVT is a house and techno artist based in United States of America, tracked on 
 
 Danny Daze, Jubilee, Jonny From Space
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*

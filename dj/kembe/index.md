@@ -1,6 +1,6 @@
 # Kembe
 
-Kembe is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
+Kembe is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
 
 Kembe is a techno and acid artist based in Czech Republic, tracked on soundcheck, with 36 sets logged across Prague. Often billed alongside Nill Garçon, Fatty M and Silhouette. Next up: Chuchle Racecourse, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kembe is a techno and acid artist based in Czech Republic, tracked on soundcheck
 
 Nill Garçon, Fatty M, Silhouette
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kembe/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kembe/)*

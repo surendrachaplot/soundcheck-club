@@ -1,14 +1,13 @@
 # Bikini Club
 
-Bikini Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Tunnel pres. Carloh, Murphy's Law, Viccenzo" on Fri, 25 Sept 2026.
+Bikini Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "SELADORIA pres. Showcase Dave Seaman, Kevin Di Serna" on Sat, 26 Sept 2026.
 
-Bikini Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Althoff, Anja Schneider, Budakid and Chicks Luv Us and 2 more. Browse upcoming dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
+Bikini Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Althoff, Anja Schneider, Budakid and Chicks Luv Us and 2 more. Browse upcoming dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Tunnel pres. Carloh, Murphy's Law, Viccenzo | Chicks Luv Us, Viccenzo |
 | Sat, 26 Sept 2026 | SELADORIA pres. Showcase Dave Seaman, Kevin Di Serna | Dave Seaman, Kevin Di Serna, SACK (AR), Steve Parry |
 | Sat, 3 Oct 2026 | Sala Bikini presents HotLap & Budakid | Budakid, HotLap, Syntonos, Volmaan |
 | Fri, 9 Oct 2026 | Tunnel presents Chicks Luv Us | Chicks Luv Us |
@@ -23,4 +22,4 @@ Bikini Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs
 
 L'Illia, Avinguda Diagonal, 547, 08029 Barcelona, Barcelona
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*

@@ -1,6 +1,6 @@
 # Azure
 
-Azure is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Planet Wax, London on Sun, 4 Oct 2026.
+Azure is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Planet Wax, London on Sun, 4 Oct 2026.
 
 Azure is a club and house artist based in United States of America, tracked on soundcheck, with 47 sets logged across Bristol, Chicago, London and Los Angeles and 2 more. Often billed alongside Bianca Maieli, CHRYSALIS and Pauliewog. Next up: Planet Wax, London on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Azure is a club and house artist based in United States of America, tracked on s
 
 Bianca Maieli, CHRYSALIS, Pauliewog
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azurefm/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azurefm/)*

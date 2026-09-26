@@ -1,6 +1,6 @@
 # Katsuya Sano
 
-Katsuya Sano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Rei Bar, Berlin on Sat, 26 Sept 2026.
+Katsuya Sano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Rei Bar, Berlin on Sat, 26 Sept 2026.
 
 Katsuya Sano is a house and techno artist based in Japan, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Mexico City and Prague and 1 more. Often billed alongside Yoshitaca, Alex Kraemer and Maki Polne. Next up: Rei Bar, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Katsuya Sano is a house and techno artist based in Japan, tracked on soundcheck,
 
 Yoshitaca, Alex Kraemer, Maki Polne
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katsuyasano/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katsuyasano/)*

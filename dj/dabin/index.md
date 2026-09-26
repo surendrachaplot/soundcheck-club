@@ -1,6 +1,6 @@
 # Dabin
 
-Dabin is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Dabin is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Dabin is a jungle and garage artist based in South Korea, tracked on soundcheck, with 38 sets logged across Austin, Boston, Los Angeles and San Francisco/Oakland and 4 more. Often billed alongside Shins, Surge and Virion. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Dabin is a jungle and garage artist based in South Korea, tracked on soundcheck,
 
 Shins, Surge, Virion
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dabin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dabin/)*

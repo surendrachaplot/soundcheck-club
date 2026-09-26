@@ -1,6 +1,6 @@
 # Samer Soltan
 
-Samer Soltan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Society, Brussels on Sat, 26 Sept 2026.
+Samer Soltan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Society, Brussels on Sat, 26 Sept 2026.
 
 Samer Soltan is a techno and house artist based in Belgium, tracked on soundcheck, with 12 sets logged across Antwerp, Barcelona, Brussels and Ibiza and 2 more. Often billed alongside Belben, MAKII and Olympe. Next up: Society, Brussels on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Samer Soltan is a techno and house artist based in Belgium, tracked on soundchec
 
 Belben, MAKII, Olympe
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samersoltan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samersoltan/)*

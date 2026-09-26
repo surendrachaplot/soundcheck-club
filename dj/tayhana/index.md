@@ -1,6 +1,6 @@
 # TAYHANA
 
-TAYHANA is a Techno and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hotel Forum, Krakow on Fri, 9 Oct 2026.
+TAYHANA is a Techno and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hotel Forum, Krakow on Fri, 9 Oct 2026.
 
 TAYHANA is a techno and latin bass artist based in Argentina, tracked on soundcheck, with 70 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 26 more. Often billed alongside Marie Davidson, Manuka Honey and Slim Soledad. Next up: Hotel Forum, Krakow on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ TAYHANA is a techno and latin bass artist based in Argentina, tracked on soundch
 
 Marie Davidson, Manuka Honey, Slim Soledad
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tayhana/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tayhana/)*

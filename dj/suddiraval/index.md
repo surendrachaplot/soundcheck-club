@@ -1,6 +1,6 @@
 # Suddi Raval
 
-Suddi Raval is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at McChuills Music Bar, Glasgow on Sun, 15 Nov 2026.
+Suddi Raval is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at McChuills Music Bar, Glasgow on Sun, 15 Nov 2026.
 
 Suddi Raval is a house and acid artist tracked on soundcheck, with 7 sets logged across Glasgow, London and Manchester. Often billed alongside NX10, Chad Jackson and Chris Coco. Next up: McChuills Music Bar, Glasgow on Sun 15 Nov.
 
@@ -23,4 +23,4 @@ Suddi Raval is a house and acid artist tracked on soundcheck, with 7 sets logged
 
 NX10, Chad Jackson, Chris Coco
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suddiraval/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suddiraval/)*

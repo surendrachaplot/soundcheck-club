@@ -1,6 +1,6 @@
 # Gracie T
 
-Gracie T is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Gracie T is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Gracie T is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Bristol and Glasgow and 7 more. Often billed alongside Shannon From Admin, MYNA and colecta. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Gracie T is a bass and techno artist based in United Kingdom, tracked on soundch
 
 Shannon From Admin, MYNA, colecta
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/graciet/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/graciet/)*

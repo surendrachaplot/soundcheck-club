@@ -1,14 +1,13 @@
 # Kantine am Berghain
 
-Kantine am Berghain is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Blockhead, ProleteR, Arms and Sleepers" on Fri, 25 Sept 2026.
+Kantine am Berghain is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Club Animalz Berlin" on Sat, 26 Sept 2026.
 
-Kantine am Berghain is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Aircraft, Alex Oxley, Alex P. and Blockhead and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+Kantine am Berghain is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Aircraft, Alex Oxley, Alex P. and BOOTHBUNNY and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Blockhead, ProleteR, Arms and Sleepers | Blockhead |
 | Sat, 26 Sept 2026 | Club Animalz Berlin | BOOTHBUNNY, NØVEX |
 | Mon, 28 Sept 2026 | Aircraft in Kantine am Berghain | Aircraft |
 | Thu, 1 Oct 2026 | Young Widows (US), Aicher, LVFT |  |
@@ -18,9 +17,10 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 11 upcoming
 | Wed, 28 Oct 2026 | Sound Metaphors Festival Opening Concerts | Marylou, Mohammad Reza Mortazavi, Okkyung Lee, Olga Anna Markowska |
 | Sun, 1 Nov 2026 | Flowgeist - Live in Berlin | Alex P., Flowgeist, Pareal |
 | Fri, 6 Nov 2026 | Fleetmac Wood presents Chiffon Frenzy - Berlin | Alex Oxley, Fleetmac Wood, Roxanne Roll |
+| Sat, 21 Nov 2026 | 60 juno (US / live) |  |
 
 ## Address
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*

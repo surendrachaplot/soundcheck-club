@@ -1,14 +1,13 @@
 # Specka
 
-Specka is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Planet Mambo I Specka Club" on Fri, 25 Sept 2026.
+Specka is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "3º IZQ X Impossible Love I Specka Club" on Sat, 26 Sept 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with line-ups including Anthony Rother, Aro Rey, Belkan and Brody and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including Anthony Rother, Belkan, Brody and Djen and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Planet Mambo I Specka Club | Aro Rey |
 | Sat, 26 Sept 2026 | 3º IZQ X Impossible Love I Specka Club |  |
 | Fri, 2 Oct 2026 | IN NOCTE VERITAS I Temática RENTRÉE | Iñaki Villasante |
 | Sat, 3 Oct 2026 | Systolic Showcase 360° Rave #02 - Specka Club Tardes |  |
@@ -18,9 +17,10 @@ Specka is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with l
 | Sat, 10 Oct 2026 | Anthony Rother [Hibryd Electro] I Halley Club SOLO ENTRADAS EN PUERTA | Anthony Rother, Uhf |
 | Sun, 11 Oct 2026 | YUYU X REVERIE I Specka Club | Belkan, Djen, Dyans, Javier Klash, Vandiaz |
 | Fri, 16 Oct 2026 | Erik Luebs: Live / Void Control | Brody (2), Erik Luebs, M. Freelance |
+| Sat, 17 Oct 2026 | Nostromo Club #15 Tardes de Trance I SpeckaClub |  |
 
 ## Address
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

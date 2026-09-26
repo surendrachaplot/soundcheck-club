@@ -1,6 +1,6 @@
 # DJames (2)
 
-DJames (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 24 Oct 2026.
+DJames (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 24 Oct 2026.
 
 DJames is a techno and trance artist based in Spain, tracked on soundcheck, with 17 sets logged across Prague. Often billed alongside AVHD, Takē and ishka machina. Next up: Ankali & Planeta Za, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJames is a techno and trance artist based in Spain, tracked on soundcheck, with
 
 AVHD, Takē, ishka machina
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djames-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djames-2/)*

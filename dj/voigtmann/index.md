@@ -1,14 +1,13 @@
 # Voigtmann
 
-Voigtmann is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Mint XL, Leeds on Fri, 25 Sept 2026.
+Voigtmann is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
-Voigtmann is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 193 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 37 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: Mint XL, Leeds on Fri 25 Sept.
+Voigtmann is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 193 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 37 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Mint XL | Leeds |
 | Fri, 2 Oct 2026 | TBA | Central |
 | Sun, 4 Oct 2026 | The Timber Loft | London |
 | Thu, 22 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
@@ -20,6 +19,7 @@ Voigtmann is a house and tech house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- Mint XL, Leeds — Fri, 25 Sept 2026
 - The Loft, Manchester — Sat, 19 Sept 2026
 - UNO MALTA, Malta — Fri, 18 Sept 2026
 - Ratpack Piano Bar, Edinburgh — Sat, 29 Aug 2026
@@ -27,10 +27,9 @@ Voigtmann is a house and tech house artist based in United Kingdom, tracked on s
 - Floyd, Miami — Sat, 15 Aug 2026
 - Refuge, New York City — Fri, 14 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 2 Aug 2026
-- NUMBER 90 LONDON, London — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Laidlaw, Julian Anthony, Enzo Siragusa
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*

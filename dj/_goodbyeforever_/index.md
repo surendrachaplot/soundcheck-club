@@ -1,18 +1,19 @@
 # _goodbyeforever_
 
-_goodbyeforever_ is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Triangle, Osaka on Fri, 25 Sept 2026.
+_goodbyeforever_ is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Blvck Water, Osaka on Fri, 9 Oct 2026.
 
-_goodbyeforever_ is a techno and hardcore artist based in Japan, tracked on soundcheck, with 70 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside FENGX2, ZAGUN and Liza. Next up: Triangle, Osaka on Fri 25 Sept.
+_goodbyeforever_ is a techno and hardcore artist based in Japan, tracked on soundcheck, with 71 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside FENGX2, ZAGUN and Liza. Next up: Blvck Water, Osaka on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Triangle | Osaka |
 | Fri, 9 Oct 2026 | Blvck Water | Osaka |
+| Sat, 24 Oct 2026 | Blvck Water | Osaka |
 
 ## Recently played
 
+- Triangle, Osaka — Fri, 25 Sept 2026
 - TBA - Nishiazabu, Tokyo — Fri, 11 Sept 2026
 - Blvck Water, Osaka — Sat, 22 Aug 2026
 - Joule, Osaka — Fri, 14 Aug 2026
@@ -20,10 +21,9 @@ _goodbyeforever_ is a techno and hardcore artist based in Japan, tracked on soun
 - Blvck Water, Osaka — Fri, 7 Aug 2026
 - Triangle, Osaka — Sat, 18 Jul 2026
 - rake?raka?, Osaka — Fri, 3 Jul 2026
-- Blvck Water, Osaka — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 FENGX2, ZAGUN, Liza
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/_goodbyeforever_/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/_goodbyeforever_/)*

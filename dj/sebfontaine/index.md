@@ -1,6 +1,6 @@
 # Seb Fontaine
 
-Seb Fontaine is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
+Seb Fontaine is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
 
 Seb Fontaine is a house and trance artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Aberdeen, Auckland, Belfast and Birmingham and 9 more. Often billed alongside Tall Paul, Judge Jules and Mauro Picotto. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Seb Fontaine is a house and trance artist based in United Kingdom, tracked on so
 
 Tall Paul, Judge Jules, Mauro Picotto
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebfontaine/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebfontaine/)*

@@ -1,6 +1,6 @@
 # Daniel Kelsan
 
-Daniel Kelsan is a Electronica and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Club (Málaga), Malaga on Sat, 26 Sept 2026.
+Daniel Kelsan is a Electronica and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Club (Málaga), Malaga on Sat, 26 Sept 2026.
 
 Daniel Kelsan is an electronica and trance artist based in Spain, tracked on soundcheck, with 28 sets logged across Madrid, Malaga and Mexico City. Often billed alongside Certain People, Fuentes-Guerra and Mena G. Next up: The Club (Málaga), Malaga on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Daniel Kelsan is an electronica and trance artist based in Spain, tracked on sou
 
 Certain People, Fuentes-Guerra, Mena G
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielkelsan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielkelsan/)*

@@ -1,14 +1,13 @@
 # Le Bain
 
-Le Bain is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Softgel Sunset" on Fri, 25 Sept 2026.
+Le Bain is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "AceMo + Friends" on Fri, 25 Sept 2026.
 
-Le Bain is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including AceMo, Colleen 'Cosmo' Murphy, Duneska and Francois K and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
+Le Bain is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including AceMo, Colleen 'Cosmo' Murphy, Francois K and JEWELSSEA and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Softgel Sunset | Duneska |
 | Fri, 25 Sept 2026 | AceMo + Friends | AceMo, JEWELSSEA |
 | Sat, 26 Sept 2026 | Orson ALL NIGHT | Orson.NYC |
 | Sat, 26 Sept 2026 | CRUSH + HAMILTON SUNSET |  |
@@ -19,4 +18,4 @@ Le Bain is a music venue in New York City listed on soundcheck. 6 upcoming gigs,
 
 444 W 13th Street, New York, NY 10014, New York City
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*

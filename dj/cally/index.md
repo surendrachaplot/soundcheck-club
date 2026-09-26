@@ -1,6 +1,6 @@
 # caLLy
 
-caLLy is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+caLLy is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
 caLLy is a minimal and minimal techno artist tracked on soundcheck, with 30 sets logged across Barcelona, Bucharest, Geneva and Ibiza and 5 more. Often billed alongside Gescu, BILA and Mihigh. Next up: Marshall Arena, South East on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ caLLy is a minimal and minimal techno artist tracked on soundcheck, with 30 sets
 
 Gescu, BILA, Mihigh
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cally/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cally/)*

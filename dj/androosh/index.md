@@ -1,6 +1,6 @@
 # androosh
 
-androosh is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
+androosh is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
 androosh is a house and disco artist tracked on soundcheck, with 52 sets logged across Antwerp, Barcelona, Berlin and Geneva and 6 more. Often billed alongside Mona Lee, iamkimkong and DVDE. Next up: Südpol, Hamburg on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ androosh is a house and disco artist tracked on soundcheck, with 52 sets logged 
 
 Mona Lee, iamkimkong, DVDE
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/androosh/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/androosh/)*

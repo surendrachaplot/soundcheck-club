@@ -1,6 +1,6 @@
 # Bontan
 
-Bontan is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Luz De Gas, Barcelona on Sat, 26 Sept 2026.
+Bontan is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Luz De Gas, Barcelona on Sat, 26 Sept 2026.
 
 Bontan is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 111 sets logged across Amsterdam, Austin, Barcelona and Boston and 26 more. Often billed alongside Jamie Jones, AMÉMÉ and Archie Hamilton. Next up: Luz De Gas, Barcelona on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Bontan is a house and tech house artist based in United Kingdom, tracked on soun
 
 Jamie Jones, AMÉMÉ, Archie Hamilton
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bontan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bontan/)*

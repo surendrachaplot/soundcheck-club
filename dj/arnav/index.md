@@ -1,6 +1,6 @@
 # Arnav
 
-Arnav is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Hookah Lounge, Mexico City on Mon, 21 Sept 2026.
+Arnav is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Hookah Lounge, Mexico City on Mon, 21 Sept 2026.
 
 Arnav is a bass and electro artist tracked on soundcheck, with 15 sets logged across Bangkok, Berlin, London and Mexico City. Often billed alongside Abibi, Chaitu and Immy. Next up: Hookah Lounge, Mexico City on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Arnav is a bass and electro artist tracked on soundcheck, with 15 sets logged ac
 
 Abibi, Chaitu, Immy
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arnav/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arnav/)*

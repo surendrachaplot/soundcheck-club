@@ -1,6 +1,6 @@
 # Phatworld
 
-Phatworld is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Phatworld is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Phatworld is a bass and drum & bass artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Brighton, Bristol, Glasgow and Leeds and 5 more. Often billed alongside Charla Green, Thorpey and Ben Suff Donk. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Phatworld is a bass and drum & bass artist based in United Kingdom, tracked on s
 
 Charla Green, Thorpey, Ben Suff Donk
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phatworld/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phatworld/)*

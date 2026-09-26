@@ -1,6 +1,6 @@
 # Toni McVey
 
-Toni McVey is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at People's Leisure Club, Edinburgh on Wed, 23 Sept 2026.
+Toni McVey is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at People's Leisure Club, Edinburgh on Wed, 23 Sept 2026.
 
 Toni McVey is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Edinburgh and Glasgow. Often billed alongside SSID, Ann Tweak and Chris Astrojazz. Next up: People's Leisure Club, Edinburgh on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Toni McVey is a disco and funk / soul artist based in United Kingdom, tracked on
 
 SSID, Ann Tweak, Chris Astrojazz
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonimcvey/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonimcvey/)*

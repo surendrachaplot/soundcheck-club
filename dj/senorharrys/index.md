@@ -1,6 +1,6 @@
 # Señor Harrys
 
-Señor Harrys is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Rastro Live Studio, Madrid on Sat, 26 Sept 2026.
+Señor Harrys is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Rastro Live Studio, Madrid on Sat, 26 Sept 2026.
 
 Señor Harrys is a house and electronica artist tracked on soundcheck, with 7 sets logged across Madrid. Often billed alongside Espiritusanto, Gleezy and Alliee Fields. Next up: Rastro Live Studio, Madrid on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Señor Harrys is a house and electronica artist tracked on soundcheck, with 7 se
 
 Espiritusanto, Gleezy, Alliee Fields
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/senorharrys/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/senorharrys/)*

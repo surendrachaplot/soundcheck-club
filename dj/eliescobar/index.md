@@ -1,14 +1,13 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 12 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at StereoBar, Montreal on Fri, 25 Sept 2026.
+Eli Escobar is a House and Electro artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at House of Yes, New York City on Fri, 2 Oct 2026.
 
-Eli Escobar is a house and electro artist based in United States of America, tracked on soundcheck, with 550 sets logged across Barcelona, Berlin, Boston and Chicago and 18 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: StereoBar, Montreal on Fri 25 Sept.
+Eli Escobar is a house and electro artist based in United States of America, tracked on soundcheck, with 550 sets logged across Barcelona, Berlin, Boston and Chicago and 18 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: House of Yes, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | StereoBar | Montreal |
 | Fri, 2 Oct 2026 | House of Yes | New York City |
 | Sat, 3 Oct 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 | Sat, 10 Oct 2026 | Signal | New York City |
@@ -23,6 +22,7 @@ Eli Escobar is a house and electro artist based in United States of America, tra
 
 ## Recently played
 
+- StereoBar, Montreal — Fri, 25 Sept 2026
 - Gabriela, New York City — Thu, 24 Sept 2026
 - Floyd, Miami — Sat, 19 Sept 2026
 - Good Room, New York City — Fri, 18 Sept 2026
@@ -30,10 +30,9 @@ Eli Escobar is a house and electro artist based in United States of America, tra
 - Le Bain, New York City — Wed, 16 Sept 2026
 - Gabriela, New York City — Thu, 10 Sept 2026
 - public records, New York City — Mon, 7 Sept 2026
-- TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle — Sun, 6 Sept 2026
 
 ## Shares bills with
 
 DJ Moma, Andi, The Carry Nation
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*

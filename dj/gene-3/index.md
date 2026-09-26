@@ -1,6 +1,6 @@
 # GENE
 
-GENE is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Department 184, Milan on Sun, 4 Oct 2026.
+GENE is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Department 184, Milan on Sun, 4 Oct 2026.
 
 GENE is a techno and minimal techno artist based in Italy, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Bucharest and Milan and 3 more. Often billed alongside Rolmar, Alec Dienaar and Aron (CH). Next up: Department 184, Milan on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ GENE is a techno and minimal techno artist based in Italy, tracked on soundcheck
 
 Rolmar, Alec Dienaar, Aron (CH)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gene-3/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gene-3/)*

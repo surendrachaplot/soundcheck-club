@@ -1,6 +1,6 @@
 # Urumi
 
-Urumi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+Urumi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
 Urumi is a techno and house artist based in Canada, tracked on soundcheck, with 38 sets logged across Antwerp, Berlin, Brussels and Geneva and 6 more. Often billed alongside Vladimir Cauchemar, Mandragora and Von Bikräv. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
@@ -13,6 +13,7 @@ Urumi is a techno and house artist based in Canada, tracked on soundcheck, with 
 
 ## Recently played
 
+- Cabaret  Aléatoire, Marseille — Fri, 25 Sept 2026
 - Paléo Festival, Geneva — Tue, 21 Jul 2026
 - Warehouse, Nantes — Fri, 19 Jun 2026
 - SAGE, Berlin — Sat, 6 Jun 2026
@@ -20,10 +21,9 @@ Urumi is a techno and house artist based in Canada, tracked on soundcheck, with 
 - TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
 - Club Vaag, Antwerp — Sat, 11 Apr 2026
 - E1, London — Fri, 27 Mar 2026
-- Rex Club, Paris — Fri, 6 Mar 2026
 
 ## Shares bills with
 
 Vladimir Cauchemar, Mandragora, Von Bikräv
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/urumi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/urumi/)*

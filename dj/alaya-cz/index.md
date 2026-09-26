@@ -1,6 +1,6 @@
 # aláya
 
-aláya is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bike Jesus, Prague on Sat, 26 Sept 2026.
+aláya is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bike Jesus, Prague on Sat, 26 Sept 2026.
 
 aláya is a techno and house artist based in Czech Republic, tracked on soundcheck, with 44 sets logged across Prague. Often billed alongside Pink Concrete, Adamatron and Feenicks. Next up: Bike Jesus, Prague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ aláya is a techno and house artist based in Czech Republic, tracked on soundche
 
 Pink Concrete, Adamatron, Feenicks
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alaya-cz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alaya-cz/)*

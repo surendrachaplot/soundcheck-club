@@ -1,6 +1,6 @@
 # Doublet Bar
 
-Doublet Bar is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Early Doors with Panorama Yerevan (Armenia / NTS)" on Sun, 11 Oct 2026.
+Doublet Bar is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Early Doors with Panorama Yerevan (Armenia / NTS)" on Sun, 11 Oct 2026.
 
 Doublet Bar is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with line-ups including Andrew Thomson and Lucia Kagramanyan. Browse upcoming dates, start times and who's playing. 74 Park Rd, Glasgow G4 9JF.
 
@@ -14,4 +14,4 @@ Doublet Bar is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, wi
 
 74 Park Rd, Glasgow G4 9JF, Glasgow
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/doublet-bar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/doublet-bar/)*

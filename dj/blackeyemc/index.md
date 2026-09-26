@@ -1,6 +1,6 @@
 # Blackeye MC
 
-Blackeye MC is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Blackeye MC is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
 Blackeye MC is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 11 more. Often billed alongside Mantra, Double O and Tim Reaper. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Blackeye MC is a jungle and drum & bass artist based in United Kingdom, tracked 
 
 Mantra, Double O, Tim Reaper
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackeyemc/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackeyemc/)*

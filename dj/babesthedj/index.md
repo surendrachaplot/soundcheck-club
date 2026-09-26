@@ -1,6 +1,6 @@
 # BABES The DJ
 
-BABES The DJ is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Metropolitan Bar, New York City on Fri, 2 Oct 2026.
+BABES The DJ is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Metropolitan Bar, New York City on Fri, 2 Oct 2026.
 
 BABES The DJ is a pop and house artist tracked on soundcheck, with 12 sets logged across Los Angeles and New York City. Often billed alongside ConCon, Dj Hermano and Mondo Nexus. Next up: Metropolitan Bar, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ BABES The DJ is a pop and house artist tracked on soundcheck, with 12 sets logge
 
 ConCon, Dj Hermano, Mondo Nexus
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babesthedj/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babesthedj/)*

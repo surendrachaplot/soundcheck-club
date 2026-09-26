@@ -1,6 +1,6 @@
 # Ninsa
 
-Ninsa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Chicago Social Club, Amsterdam on Sat, 24 Oct 2026.
+Ninsa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Chicago Social Club, Amsterdam on Sat, 24 Oct 2026.
 
 Ninsa is a techno and house artist based in Netherlands, tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 6 more. Often billed alongside Gabriel Ananda, Miss Melera and Vero (NL). Next up: Chicago Social Club, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ninsa is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 Gabriel Ananda, Miss Melera, Vero (NL)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninsa/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninsa/)*

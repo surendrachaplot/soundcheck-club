@@ -1,6 +1,6 @@
 # Mucha
 
-Mucha is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "MUCHA: THE END (Free Entry!)" on Sat, 26 Sept 2026.
+Mucha is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "MUCHA: THE END (Free Entry!)" on Sat, 26 Sept 2026.
 
 Mucha is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including dj babygod, EPHEMERA, fraudoktor. and jass:minute and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Mucha is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | MUCHA: THE END (Free Entry!) | EPHEMERA (5), Joel Arcane, Karim Khelil, Migz, Part-Time Lesbian, RAW DJ, Zoran, dj babygod, fraudoktor., jass:minute |
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mucha/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mucha/)*

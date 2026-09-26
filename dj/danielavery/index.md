@@ -1,6 +1,6 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at KALT, Strasbourg on Sat, 26 Sept 2026.
+Daniel Avery is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at KALT, Strasbourg on Sat, 26 Sept 2026.
 
 Daniel Avery is a techno and house artist based in United Kingdom, tracked on soundcheck, with 164 sets logged across Amsterdam, Bali, Barcelona and Belfast and 47 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: KALT, Strasbourg on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ Daniel Avery is a techno and house artist based in United Kingdom, tracked on so
 
 Richard Fearless, Optimo (Espacio), Tapefeed
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*

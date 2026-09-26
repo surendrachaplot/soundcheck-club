@@ -1,6 +1,6 @@
 # Stardust
 
-Stardust is a Hip-Hop and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Lincoln Factory, Detroit on Sat, 26 Sept 2026.
+Stardust is a Hip-Hop and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lincoln Factory, Detroit on Sat, 26 Sept 2026.
 
 Stardust is a hip-hop and afro house artist based in United States of America, tracked on soundcheck, with 46 sets logged across Barcelona, Chicago, Detroit and London and 4 more. Often billed alongside BLAAQGOLD, SWDEJAY and Sheefy McFly. Next up: Lincoln Factory, Detroit on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Stardust is a hip-hop and afro house artist based in United States of America, t
 
 BLAAQGOLD, SWDEJAY, Sheefy McFly
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stardust/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stardust/)*

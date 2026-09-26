@@ -1,6 +1,6 @@
 # sznl
 
-sznl is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - The Bakery, New York City on Fri, 23 Oct 2026.
+sznl is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - The Bakery, New York City on Fri, 23 Oct 2026.
 
 sznl is a house and disco artist tracked on soundcheck, with 25 sets logged across New York City and San Francisco/Oakland. Often billed alongside Tinzo, Jojo Lorenzo and Varist. Next up: TBA - The Bakery, New York City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ sznl is a house and disco artist tracked on soundcheck, with 25 sets logged acro
 
 Tinzo, Jojo Lorenzo, Varist
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sznl/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sznl/)*

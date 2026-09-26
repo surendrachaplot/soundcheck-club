@@ -1,14 +1,13 @@
 # Kylie Wears Berghaus
 
-Kylie Wears Berghaus is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Lost Horizon, Bristol on Fri, 25 Sept 2026.
+Kylie Wears Berghaus is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Merchant, Liverpool on Sat, 26 Sept 2026.
 
-Kylie Wears Berghaus is a techno and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Birmingham, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Acid Sally, Adiel and Alousea. Next up: Lost Horizon, Bristol on Fri 25 Sept.
+Kylie Wears Berghaus is a techno and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Birmingham, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Acid Sally, Adiel and Alousea. Next up: The Merchant, Liverpool on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Lost Horizon | Bristol |
 | Sat, 26 Sept 2026 | The Merchant | Liverpool |
 | Fri, 2 Oct 2026 | Belgrave Music Hall | Leeds |
 | Fri, 9 Oct 2026 | Hare & Hounds | Birmingham |
@@ -18,6 +17,7 @@ Kylie Wears Berghaus is a techno and house artist based in United Kingdom, track
 
 ## Recently played
 
+- Lost Horizon, Bristol — Fri, 25 Sept 2026
 - The Model, Nottingham — Fri, 18 Sept 2026
 - Night Tales Loft, London — Fri, 28 Aug 2026
 - Patterns, Brighton — Fri, 31 Jul 2026
@@ -30,4 +30,4 @@ Kylie Wears Berghaus is a techno and house artist based in United Kingdom, track
 
 Acid Sally, Adiel, Alousea
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*

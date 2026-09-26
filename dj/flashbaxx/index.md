@@ -1,6 +1,6 @@
 # Flashbaxx
 
-Flashbaxx is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Giselle, Düsseldorf on Sat, 3 Oct 2026.
+Flashbaxx is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Giselle, Düsseldorf on Sat, 3 Oct 2026.
 
 Flashbaxx is a house and disco artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Düsseldorf, Ibiza and Leipzig. Often billed alongside Allynx, Alma Linda and Andy Baxter. Next up: Giselle, Düsseldorf on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Flashbaxx is a house and disco artist based in Germany, tracked on soundcheck, w
 
 Allynx, Alma Linda, Andy Baxter
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flashbaxx/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flashbaxx/)*

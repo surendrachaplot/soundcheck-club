@@ -1,6 +1,6 @@
 # Sissies of Mercy
 
-Sissies of Mercy is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at House of Yes, New York City on Fri, 2 Oct 2026.
+Sissies of Mercy is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at House of Yes, New York City on Fri, 2 Oct 2026.
 
 Sissies of Mercy is a techno and house artist based in United States of America, tracked on soundcheck, with 65 sets logged across Detroit and New York City. Often billed alongside Eli Escobar, Andi and Fruitbat. Next up: House of Yes, New York City on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Sissies of Mercy is a techno and house artist based in United States of America,
 
 Eli Escobar, Andi, Fruitbat
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sissiesofmercy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sissiesofmercy/)*

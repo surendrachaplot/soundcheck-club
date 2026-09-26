@@ -1,6 +1,6 @@
 # Dj Furax
 
-Dj Furax is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Kompass Klub, Ghent on Sat, 10 Oct 2026.
+Dj Furax is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Kompass Klub, Ghent on Sat, 10 Oct 2026.
 
 Dj Furax is a techno artist based in Belgium, tracked on soundcheck, with 5 sets logged across Antwerp and Ghent. Often billed alongside DJ Ghost, Reinier Zonneveld and AM.I. Next up: Kompass Klub, Ghent on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Dj Furax is a techno artist based in Belgium, tracked on soundcheck, with 5 sets
 
 DJ Ghost, Reinier Zonneveld, AM.I
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfurax/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfurax/)*

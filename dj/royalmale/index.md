@@ -1,6 +1,6 @@
 # Royal Male
 
-Royal Male is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Golden Pudel Club, Hamburg on Sun, 27 Sept 2026.
+Royal Male is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Golden Pudel Club, Hamburg on Sun, 27 Sept 2026.
 
 Royal Male is a house and disco artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Hamburg, Leeds, London and Manchester. Often billed alongside Pharaoh Brunson, Bobby Thorpe and Kickin Pigeon. Next up: Golden Pudel Club, Hamburg on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ Royal Male is a house and disco artist based in United Kingdom, tracked on sound
 
 Pharaoh Brunson, Bobby Thorpe, Kickin Pigeon
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/royalmale/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/royalmale/)*

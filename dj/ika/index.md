@@ -1,6 +1,6 @@
 # Ika (GE)
 
-Ika (GE) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Ika (GE) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Ika (GE) is a house and techno artist based in Georgia, tracked on soundcheck, with 122 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 19 more. Often billed alongside Usherenko, Gio Shengelia and Generali Minerali. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -28,4 +28,4 @@ Ika (GE) is a house and techno artist based in Georgia, tracked on soundcheck, w
 
 Usherenko, Gio Shengelia, Generali Minerali
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ika/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ika/)*

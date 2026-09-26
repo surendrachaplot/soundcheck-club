@@ -1,6 +1,6 @@
 # James Ruskin
 
-James Ruskin is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+James Ruskin is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 James Ruskin is a techno and electro artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 21 more. Often billed alongside Regis, Cecilia Tosh and Kr!z. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ James Ruskin is a techno and electro artist tracked on soundcheck, with 60 sets 
 
 Regis, Cecilia Tosh, Kr!z
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesruskin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesruskin/)*

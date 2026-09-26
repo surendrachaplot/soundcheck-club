@@ -1,6 +1,6 @@
 # Mood II Swing
 
-Mood II Swing is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at La Java, Paris on Sat, 24 Oct 2026.
+Mood II Swing is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Java, Paris on Sat, 24 Oct 2026.
 
 Mood II Swing is a house and disco artist based in United States of America, tracked on soundcheck, with 37 sets logged across Berlin, Chicago, Detroit and Geneva and 13 more. Often billed alongside Jamesey, Matt L-S and Prunk. Next up: La Java, Paris on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Mood II Swing is a house and disco artist based in United States of America, tra
 
 Jamesey, Matt L-S, Prunk
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodiiswing/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodiiswing/)*

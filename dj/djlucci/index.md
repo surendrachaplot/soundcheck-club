@@ -1,6 +1,6 @@
 # Lucci (CA)
 
-Lucci (CA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Daikanyama ORD., Tokyo on Sun, 25 Oct 2026.
+Lucci (CA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Daikanyama ORD., Tokyo on Sun, 25 Oct 2026.
 
 Lucci (CA) is a techno and house artist tracked on soundcheck, with 20 sets logged across San Francisco/Oakland, Tokyo and Vancouver. Often billed alongside AWood, Bronsön and Lord Loubbit. Next up: Daikanyama ORD., Tokyo on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Lucci (CA) is a techno and house artist tracked on soundcheck, with 20 sets logg
 
 AWood, Bronsön, Lord Loubbit
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlucci/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlucci/)*

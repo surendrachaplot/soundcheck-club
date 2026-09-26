@@ -1,6 +1,6 @@
 # AM (8)
 
-AM (8) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ximxim Bar, Seoul on Sat, 26 Sept 2026.
+AM (8) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ximxim Bar, Seoul on Sat, 26 Sept 2026.
 
 AM is a techno and tech house artist based in Greece, tracked on soundcheck, with 12 sets logged across Bangkok, Barcelona, Denver and Detroit and 6 more. Often billed alongside PM, dUb and 1 AM. Next up: Ximxim Bar, Seoul on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ AM is a techno and tech house artist based in Greece, tracked on soundcheck, wit
 
 PM, dUb, 1 AM (1)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/am-8/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/am-8/)*

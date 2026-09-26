@@ -1,6 +1,6 @@
 # Spicy Sofi
 
-Spicy Sofi is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 42 Marches, Paris on Sat, 31 Oct 2026.
+Spicy Sofi is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at 42 Marches, Paris on Sat, 31 Oct 2026.
 
 Spicy Sofi is a house and progressive house artist based in France, tracked on soundcheck, with 20 sets logged across Miami and Paris. Often billed alongside Ploum, Chtak. and Daly. Next up: 42 Marches, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Spicy Sofi is a house and progressive house artist based in France, tracked on s
 
 Ploum, Chtak., Daly
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spicysofi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spicysofi/)*

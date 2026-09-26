@@ -1,14 +1,13 @@
 # Bonobo
 
-Bonobo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
+Bonobo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Radius, Chicago on Wed, 25 Nov 2026.
 
-Bonobo is a house and techno artist based in United States of America, tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside DJ Tennis, Sofia Kourtesis and Honey Dijon. Next up: Various Venues, London on Thu 24 Sept.
+Bonobo is a house and techno artist based in United States of America, tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside DJ Tennis, Sofia Kourtesis and Honey Dijon. Next up: Radius, Chicago on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Various Venues | London |
 | Wed, 25 Nov 2026 | Radius | Chicago |
 | Fri, 4 Dec 2026 | Union Transfer | Philadelphia |
 
@@ -27,4 +26,4 @@ Bonobo is a house and techno artist based in United States of America, tracked o
 
 DJ Tennis, Sofia Kourtesis, Honey Dijon
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*

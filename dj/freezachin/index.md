@@ -1,6 +1,6 @@
 # Freeza Chin
 
-Freeza Chin is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Planet Wax, London on Sat, 26 Sept 2026.
+Freeza Chin is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Planet Wax, London on Sat, 26 Sept 2026.
 
 Freeza Chin is a garage and uk funky artist based in Canada, tracked on soundcheck, with 22 sets logged across Birmingham, London and Toronto. Often billed alongside Jayemkayem, KATIE COOPER and Ana Luisa. Next up: Planet Wax, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Freeza Chin is a garage and uk funky artist based in Canada, tracked on soundche
 
 Jayemkayem, KATIE COOPER, Ana Luisa
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freezachin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freezachin/)*

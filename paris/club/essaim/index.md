@@ -1,14 +1,13 @@
 # essaim
 
-essaim is a music venue in Paris with 20 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "tribalism - DJ Nobu - all night long" on Fri, 25 Sept 2026.
+essaim is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "cocoon - Steffi x Virginia - all night long" on Sat, 26 Sept 2026.
 
-essaim is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with line-ups including Justine Perry, A.Litique, AgainstMe and Altinbas and 2 more. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
+essaim is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including Justine Perry, A.Litique, AgainstMe and Altinbas and 2 more. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | tribalism - DJ Nobu - all night long | DJ Nobu |
 | Sat, 26 Sept 2026 | cocoon - Steffi x Virginia - all night long | Steffi, Virginia |
 | Sun, 27 Sept 2026 | extended - Jane Fitz, Taieb Chékir | Jane Fitz, Taieb Chékir |
 | Fri, 2 Oct 2026 | tribalism - DAX J, Masst | DAX J, masst_ |
@@ -18,9 +17,10 @@ essaim is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with li
 | Sat, 10 Oct 2026 | DJ Masda - all night long | DJ Masda |
 | Sun, 11 Oct 2026 | Eerste Communie - 10 Years |  |
 | Fri, 16 Oct 2026 | tribalism modular live sets - Colin Benders Live, Rue B Live, Vera Grace Live | Colin Benders, Vera Grace |
+| Sat, 17 Oct 2026 | Garçon b2b Konduku - all night long | Garçon, Konduku |
 
 ## Address
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

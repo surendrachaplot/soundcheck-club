@@ -1,6 +1,6 @@
 # Shjva
 
-Shjva is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Shjva is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Shjva is a techno and trance artist based in Ukraine, tracked on soundcheck, with 82 sets logged across Athens, Berlin, Brussels and Cologne and 16 more. Often billed alongside Samogulov, Plastik and Volodymyr Gnatenko. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Shjva is a techno and trance artist based in Ukraine, tracked on soundcheck, wit
 
 Samogulov, Plastik (1), Volodymyr Gnatenko
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shjva/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shjva/)*

@@ -1,6 +1,6 @@
 # FFAN
 
-FFAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+FFAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 FFAN is a house and techno artist based in South Korea, tracked on soundcheck, with 216 sets logged across Amsterdam, Bali, Berlin and Hong Kong and 9 more. Often billed alongside Juncheol, Kyper and YAMARCHY. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ FFAN is a house and techno artist based in South Korea, tracked on soundcheck, w
 
 Juncheol, Kyper, YAMARCHY
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ffan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ffan/)*

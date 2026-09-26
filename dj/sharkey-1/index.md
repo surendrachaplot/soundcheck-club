@@ -1,6 +1,6 @@
 # Sharkey (1)
 
-Sharkey (1) is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Distillery N17, London on Sat, 3 Oct 2026.
+Sharkey (1) is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Distillery N17, London on Sat, 3 Oct 2026.
 
 Sharkey is a hardcore and trance artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside Dougal, Scott Brown and Charlie B. Next up: Distillery N17, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sharkey is a hardcore and trance artist based in United Kingdom, tracked on soun
 
 Dougal, Scott Brown, Charlie B
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharkey-1/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharkey-1/)*

@@ -1,6 +1,6 @@
 # Jonathan Kaspar
 
-Jonathan Kaspar is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at fabric, London on Sat, 26 Sept 2026.
+Jonathan Kaspar is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at fabric, London on Sat, 26 Sept 2026.
 
 Jonathan Kaspar is a house and techno artist based in Germany, tracked on soundcheck, with 194 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Mira, Mano Le Tough and Robag Wruhme. Next up: fabric, London on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Jonathan Kaspar is a house and techno artist based in Germany, tracked on soundc
 
 Mira, Mano Le Tough, Robag Wruhme
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*

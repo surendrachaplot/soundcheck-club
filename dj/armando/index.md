@@ -1,6 +1,6 @@
 # ARMANDO
 
-ARMANDO is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cascina nascosta, Milan on Sun, 4 Oct 2026.
+ARMANDO is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cascina nascosta, Milan on Sun, 4 Oct 2026.
 
 ARMANDO is a techno and house artist based in Portugal, tracked on soundcheck, with 34 sets logged across London, Milan and Stuttgart. Often billed alongside IKIIR, Hertz Collision and Lady Goccia. Next up: Cascina nascosta, Milan on Sun 4 Oct.
 
@@ -29,4 +29,4 @@ ARMANDO is a techno and house artist based in Portugal, tracked on soundcheck, w
 
 IKIIR, Hertz Collision, Lady Goccia
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armando/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armando/)*

@@ -1,6 +1,6 @@
 # London Hospital Tavern
 
-London Hospital Tavern is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Peace" on Sat, 26 Sept 2026.
+London Hospital Tavern is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Peace" on Sat, 26 Sept 2026.
 
 London Hospital Tavern is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Eziman. Browse upcoming dates, start times and who's playing. 176 Whitechapel Rd, London E1 1BJ.
 
@@ -15,4 +15,4 @@ London Hospital Tavern is a music venue in London listed on soundcheck. 2 upcomi
 
 176 Whitechapel Rd, London E1 1BJ, London
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/london-hospital-tavern/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/london-hospital-tavern/)*

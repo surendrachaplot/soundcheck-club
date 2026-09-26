@@ -1,6 +1,6 @@
 # Mihai Popoviciu
 
-Mihai Popoviciu is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at B2 Rīga, Riga on Fri, 2 Oct 2026.
+Mihai Popoviciu is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at B2 Rīga, Riga on Fri, 2 Oct 2026.
 
 Mihai Popoviciu is a house and deep house artist based in Romania, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 30 more. Often billed alongside Lola Palmer, Andrey Pushkarev and Janeret. Next up: B2 Rīga, Riga on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Mihai Popoviciu is a house and deep house artist based in Romania, tracked on so
 
 Lola Palmer, Andrey Pushkarev, Janeret
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*

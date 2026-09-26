@@ -1,6 +1,6 @@
 # Khidja
 
-Khidja is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at control, Bucharest on Sat, 3 Oct 2026.
+Khidja is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at control, Bucharest on Sat, 3 Oct 2026.
 
 Khidja is a techno and electronica artist based in Romania, tracked on soundcheck, with 45 sets logged across Belgrade, Berlin, Brussels and Bucharest and 6 more. Often billed alongside Katzele, Marius Georgescu and Fantastic Twins. Next up: control, Bucharest on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Khidja is a techno and electronica artist based in Romania, tracked on soundchec
 
 Katzele, Marius Georgescu, Fantastic Twins
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/khidja/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/khidja/)*

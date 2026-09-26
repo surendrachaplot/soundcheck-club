@@ -1,6 +1,6 @@
 # LUPA
 
-LUPA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at ://about blank, Berlin on Sat, 19 Dec 2026.
+LUPA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ://about blank, Berlin on Sat, 19 Dec 2026.
 
 LUPA is a techno and trance artist based in United States of America, tracked on soundcheck, with 11 sets logged across Berlin, Chicago, Los Angeles and Miami and 2 more. Often billed alongside YURI VALEN, Gojitmal and SAITO. Next up: ://about blank, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ LUPA is a techno and trance artist based in United States of America, tracked on
 
 YURI VALEN, Gojitmal, SAITO
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lupa/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lupa/)*

@@ -1,6 +1,6 @@
 # Slowfoam
 
-Slowfoam is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 90mil, Berlin on Sun, 11 Oct 2026.
+Slowfoam is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at 90mil, Berlin on Sun, 11 Oct 2026.
 
 Slowfoam is an experimental and club artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 4 more. Often billed alongside Conna Haraway, Avsluta and Dylan Kerr. Next up: 90mil, Berlin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Slowfoam is an experimental and club artist tracked on soundcheck, with 39 sets 
 
 Conna Haraway, Avsluta, Dylan Kerr
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slowfoam/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slowfoam/)*

@@ -1,6 +1,6 @@
 # Donija
 
-Donija is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at OCZKI, Warsaw on Sat, 12 Dec 2026.
+Donija is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at OCZKI, Warsaw on Sat, 12 Dec 2026.
 
 Donija is a techno and reggaeton artist tracked on soundcheck, with 6 sets logged across Krakow, Seoul and Warsaw. Often billed alongside bijū, 2K88 and Amnesia Scanner. Next up: OCZKI, Warsaw on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Donija is a techno and reggaeton artist tracked on soundcheck, with 6 sets logge
 
 bijū, 2K88, Amnesia Scanner
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donija/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donija/)*

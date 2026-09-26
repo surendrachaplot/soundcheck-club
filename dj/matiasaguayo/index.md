@@ -1,6 +1,6 @@
 # Matias Aguayo
 
-Matias Aguayo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Fünk, Mexico City on Sat, 10 Oct 2026.
+Matias Aguayo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Fünk, Mexico City on Sat, 10 Oct 2026.
 
 Matias Aguayo is a house and electronica artist based in Germany, tracked on soundcheck, with 81 sets logged across Austin, Barcelona, Basel and Belgrade and 27 more. Often billed alongside PAURRO, Justin Strauss and Magda. Next up: Fünk, Mexico City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Matias Aguayo is a house and electronica artist based in Germany, tracked on sou
 
 PAURRO, Justin Strauss, Magda
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasaguayo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasaguayo/)*

@@ -1,6 +1,6 @@
 # JÄMO
 
-JÄMO is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Mondo, Madrid on Sat, 17 Oct 2026.
+JÄMO is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mondo, Madrid on Sat, 17 Oct 2026.
 
 JÄMO is a house and techno artist based in Australia, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 7 more. Often billed alongside Kumi, Caleb Jay and DART. Next up: Mondo, Madrid on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ JÄMO is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Kumi, Caleb Jay, DART
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamo/)*

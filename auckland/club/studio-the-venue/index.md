@@ -1,6 +1,6 @@
 # Studio the Venue
 
-Studio the Venue is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Hospital30 (Auckland)" on Fri, 16 Oct 2026.
+Studio the Venue is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Hospital30 (Auckland)" on Fri, 16 Oct 2026.
 
 Studio the Venue is a music venue in Auckland listed on soundcheck. 1 upcoming gig, with line-ups including Danny Byrd, Hoax (UK) and Unglued. Browse upcoming dates, start times and who's playing. 340 Karangahape Road Auckland 1010 New Zealand.
 
@@ -14,4 +14,4 @@ Studio the Venue is a music venue in Auckland listed on soundcheck. 1 upcoming g
 
 340 Karangahape Road Auckland 1010 New Zealand, Auckland
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/studio-the-venue/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/studio-the-venue/)*

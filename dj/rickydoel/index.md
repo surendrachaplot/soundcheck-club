@@ -1,6 +1,6 @@
 # Ricky Doël
 
-Ricky Doël is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Carmo Rooftop, Lisbon on Sat, 26 Sept 2026.
+Ricky Doël is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Carmo Rooftop, Lisbon on Sat, 26 Sept 2026.
 
 Ricky Doël is a house and techno artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam and Lisbon. Often billed alongside Robin Hastings, Kee_ko and MURI. Next up: Carmo Rooftop, Lisbon on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ricky Doël is a house and techno artist based in Netherlands, tracked on soundc
 
 Robin Hastings, Kee_ko, MURI
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickydoel/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickydoel/)*

@@ -1,6 +1,6 @@
 # Mattik (UK)
 
-Mattik (UK) is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Paloma, Berlin on Fri, 16 Oct 2026.
+Mattik (UK) is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Paloma, Berlin on Fri, 16 Oct 2026.
 
 Mattik (UK) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 11 more. Often billed alongside Mattik UK, Seb Skint and Rich Reason. Next up: Paloma, Berlin on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Mattik (UK) is a garage and bass artist based in United Kingdom, tracked on soun
 
 Mattik UK, Seb Skint, Rich Reason
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattik-uk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattik-uk/)*

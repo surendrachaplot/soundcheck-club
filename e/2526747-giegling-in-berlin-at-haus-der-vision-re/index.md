@@ -1,6 +1,6 @@
 # giegling in berlin at Haus der Visionäre
 
-giegling in berlin at Haus der Visionäre on Sat 26 Sept, Berlin. 18 artists on the bill: Deadbeat, Dragana, Edward and Flo Massé and 14 more. Preview the line-up and save it on soundcheck.
+giegling in berlin at Haus der Visionäre on Sat 26 Sept, Berlin. 19 artists on the bill: Deadbeat, Dragana, Edward and Flo Massé and 15 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ giegling in berlin at Haus der Visionäre on Sat 26 Sept, Berlin. 18 artists on 
 - Jan Jelinek
 - Jeanette Trèsbien
 - Just1
+- Justin Shaffer
 - Kalabrese
 - Konstantin
 - Leafar Legov

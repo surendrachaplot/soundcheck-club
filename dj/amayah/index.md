@@ -1,6 +1,6 @@
 # AMAYAH
 
-AMAYAH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Strand DC, Washington DC on Sat, 26 Sept 2026.
+AMAYAH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Strand DC, Washington DC on Sat, 26 Sept 2026.
 
 AMAYAH is a techno and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Chicago, Detroit, Los Angeles and Washington DC. Often billed alongside Microdot, PIP3DR3AM and hhunter. Next up: Strand DC, Washington DC on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ AMAYAH is a techno and house artist based in United States of America, tracked o
 
 Microdot, PIP3DR3AM, hhunter
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amayah/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amayah/)*

@@ -1,6 +1,6 @@
 # Madison Kay
 
-Madison Kay is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Madison Kay is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Madison Kay is a techno and electronica artist based in United States of America, tracked on soundcheck, with 33 sets logged across Miami and Washington DC. Often billed alongside Kevin Bithell, Naomi Luna and Gioh Cecato. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Madison Kay is a techno and electronica artist based in United States of America
 
 Kevin Bithell, Naomi Luna, Gioh Cecato
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madisonkay/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madisonkay/)*

@@ -1,8 +1,8 @@
 # The Limelight
 
-The Limelight is a music venue in Belfast with 7 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "SHINE -- Nick Warren" on Fri, 2 Oct 2026.
+The Limelight is a music venue in Belfast with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "SHINE -- Nick Warren" on Fri, 2 Oct 2026.
 
-The Limelight is a music venue in Belfast listed on soundcheck. 7 upcoming gigs, with line-ups including Ali James, ALISHA, Crilli DNB and Gaskin and 2 more. Browse upcoming dates, start times and who's playing. 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom.
+The Limelight is a music venue in Belfast listed on soundcheck. 8 upcoming gigs, with line-ups including Ali James, ALISHA, Crilli DNB and Gaskin and 2 more. Browse upcoming dates, start times and who's playing. 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom.
 
 ## What's on
 
@@ -15,9 +15,10 @@ The Limelight is a music venue in Belfast listed on soundcheck. 7 upcoming gigs,
 | Sat, 24 Oct 2026 | TELETECH x SHINE -- JOWI [ALL NIGHT LONG] |  |
 | Fri, 30 Oct 2026 | SHINE -- Takuya Nakamura | Crilli DNB, Takuya Nakamura |
 | Fri, 20 Nov 2026 | TELETECH x SHINE - Ali James | Ali James, Nyzero, YARIS (2) |
+| Fri, 27 Nov 2026 | SHINE -- Sam Alfred | Sam Alfred |
 
 ## Address
 
 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom, Belfast
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-limelight/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-limelight/)*

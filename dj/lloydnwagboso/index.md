@@ -1,6 +1,6 @@
 # Lloyd Nwagboso
 
-Lloyd Nwagboso is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Verbier, Switzerland on Fri, 20 Nov 2026.
+Lloyd Nwagboso is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
 Lloyd Nwagboso is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Ibiza, London and Switzerland. Often billed alongside Alex Mills, Beyond Chicago and Melvo Baptiste. Next up: Verbier, Switzerland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Lloyd Nwagboso is a house and tech house artist based in United Kingdom, tracked
 
 Alex Mills, Beyond Chicago, Melvo Baptiste
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydnwagboso/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydnwagboso/)*

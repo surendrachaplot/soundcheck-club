@@ -1,6 +1,6 @@
 # Kandylion
 
-Kandylion is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Animal, New York City on Sat, 26 Sept 2026.
+Kandylion is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Animal, New York City on Sat, 26 Sept 2026.
 
 Kandylion is a house and techno artist based in United States of America, tracked on soundcheck, with 53 sets logged across Berlin, Detroit, London and New York City and 1 more. Often billed alongside SPRFRK, HONEY B and DJ Shannon. Next up: Animal, New York City on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Kandylion is a house and techno artist based in United States of America, tracke
 
 SPRFRK, HONEY B, DJ Shannon
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kandylion/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kandylion/)*

@@ -1,6 +1,6 @@
 # CHICHO
 
-CHICHO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Fundbureau, Hamburg on Sat, 10 Oct 2026.
+CHICHO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Fundbureau, Hamburg on Sat, 10 Oct 2026.
 
 CHICHO is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Hamburg. Often billed alongside Alexej, Shilo and JASHTECH. Next up: Fundbureau, Hamburg on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ CHICHO is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Alexej, Shilo, JASHTECH
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chicho/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chicho/)*

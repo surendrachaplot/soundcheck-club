@@ -1,6 +1,6 @@
 # Centrocentro
 
-Centrocentro is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "LIMO: Senyawa" on Sat, 26 Sept 2026.
+Centrocentro is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "LIMO: Senyawa" on Sat, 26 Sept 2026.
 
 Centrocentro is a music venue in Madrid listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Plaza de Cibeles, 1. 28014. Madrid.
 
@@ -14,4 +14,4 @@ Centrocentro is a music venue in Madrid listed on soundcheck. 1 upcoming gig. Br
 
 Plaza de Cibeles, 1. 28014. Madrid, Madrid
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/centrocentro/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/centrocentro/)*

@@ -1,6 +1,6 @@
 # Conntex
 
-Conntex is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at DNA. CLUB, Berlin on Sat, 26 Sept 2026.
+Conntex is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at DNA. CLUB, Berlin on Sat, 26 Sept 2026.
 
 Conntex is a techno and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Helsinki, London and Munich and 2 more. Often billed alongside Blck-Swan, Alex Friday and Artifex (DE). Next up: DNA. CLUB, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Conntex is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Blck-Swan, Alex Friday, Artifex (DE)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conntex/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conntex/)*

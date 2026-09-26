@@ -1,6 +1,6 @@
 # Drifting Clouds
 
-Drifting Clouds is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Tumbalong Park, Sydney on Sun, 6 Dec 2026.
+Drifting Clouds is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tumbalong Park, Sydney on Sun, 6 Dec 2026.
 
 Drifting Clouds is a house and electronica artist based in Australia, tracked on soundcheck, with 5 sets logged across Melbourne and Sydney. Often billed alongside 3Phaz, Alfa Mist and Alif Hilal. Next up: Tumbalong Park, Sydney on Sun 6 Dec.
 
@@ -21,4 +21,4 @@ Drifting Clouds is a house and electronica artist based in Australia, tracked on
 
 3Phaz, Alfa Mist, Alif Hilal
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/driftingclouds/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/driftingclouds/)*

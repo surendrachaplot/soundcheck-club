@@ -1,6 +1,6 @@
 # Miliard
 
-Miliard is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Stanley's, Sydney on Sat, 3 Oct 2026.
+Miliard is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Stanley's, Sydney on Sat, 3 Oct 2026.
 
 Miliard is a house and tech house artist based in Australia, tracked on soundcheck, with 9 sets logged across Sydney. Often billed alongside Chris Stevo, A.Well and Adam Holt. Next up: Stanley's, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Miliard is a house and tech house artist based in Australia, tracked on soundche
 
 Chris Stevo, A.Well, Adam Holt
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miliard/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miliard/)*

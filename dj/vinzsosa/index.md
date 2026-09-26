@@ -1,6 +1,6 @@
 # Vinz Sosa
 
-Vinz Sosa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Minimüzikhol, Istanbul on Fri, 9 Oct 2026.
+Vinz Sosa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Minimüzikhol, Istanbul on Fri, 9 Oct 2026.
 
 Vinz Sosa is a house and techno artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Cologne and Istanbul and 4 more. Often billed alongside dj sweet6teen, Terrakin and Hashashin. Next up: Minimüzikhol, Istanbul on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Vinz Sosa is a house and techno artist tracked on soundcheck, with 36 sets logge
 
 dj sweet6teen, Terrakin, Hashashin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzsosa/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzsosa/)*

@@ -1,6 +1,6 @@
 # The Social Praga
 
-The Social Praga is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Downtempo City Funk at Social Praga" on Sat, 24 Oct 2026.
+The Social Praga is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Downtempo City Funk at Social Praga" on Sat, 24 Oct 2026.
 
 The Social Praga is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Brzeska 23 - Warsaw -Poland.
 
@@ -14,4 +14,4 @@ The Social Praga is a music venue in Warsaw listed on soundcheck. 1 upcoming gig
 
 Brzeska 23 - Warsaw -Poland, Warsaw
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/the-social-praga/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/the-social-praga/)*

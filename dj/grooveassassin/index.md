@@ -1,6 +1,6 @@
 # Groove Assassin
 
-Groove Assassin is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Groove Assassin is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Groove Assassin is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Belgrade, Birmingham and Edinburgh and 7 more. Often billed alongside Billy Cocks, Sy Sez and Boon (UK). Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Groove Assassin is a house and deep house artist based in United Kingdom, tracke
 
 Billy Cocks, Sy Sez, Boon (UK)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveassassin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveassassin/)*

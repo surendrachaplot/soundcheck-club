@@ -1,6 +1,6 @@
 # Martin Noise
 
-Martin Noise is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Switch Bar, Barcelona on Sat, 26 Sept 2026.
+Martin Noise is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Switch Bar, Barcelona on Sat, 26 Sept 2026.
 
 Martin Noise is a house and acid artist based in Argentina, tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Bucharest and Buenos Aires and 4 more. Often billed alongside Cisco, Andrea Zarco and DELLA (AR). Next up: Switch Bar, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Martin Noise is a house and acid artist based in Argentina, tracked on soundchec
 
 Cisco (2), Andrea Zarco, DELLA (AR)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinnoise/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinnoise/)*

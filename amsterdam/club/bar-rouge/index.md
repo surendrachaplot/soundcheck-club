@@ -1,6 +1,6 @@
 # Bar Rouge
 
-Bar Rouge is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "PORTAL - ADE Melodic Techno Journey" on Thu, 22 Oct 2026.
+Bar Rouge is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "PORTAL - ADE Melodic Techno Journey" on Thu, 22 Oct 2026.
 
 Bar Rouge is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Addie Manson, EL PADRE, Nathassia and Nothing But Love and 2 more. Browse upcoming dates, start times and who's playing. Singel 460, 1017 AW Amsterdam, Netherlands.
 
@@ -15,4 +15,4 @@ Bar Rouge is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, w
 
 Singel 460, 1017 AW Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bar-rouge/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bar-rouge/)*

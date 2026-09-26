@@ -1,6 +1,6 @@
 # Guayaba
 
-Guayaba is a Club and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Santeria Toscana 31, Milan on Sat, 26 Sept 2026.
+Guayaba is a Club and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Santeria Toscana 31, Milan on Sat, 26 Sept 2026.
 
 Guayaba is a club and dubstep artist based in Colombia, tracked on soundcheck, with 17 sets logged across Madrid and Milan. Often billed alongside Cristian Comes, Violett Moon and HAAS (IT). Next up: Santeria Toscana 31, Milan on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Guayaba is a club and dubstep artist based in Colombia, tracked on soundcheck, w
 
 Cristian Comes, Violett Moon, HAAS (IT)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guayaba/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guayaba/)*

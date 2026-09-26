@@ -1,6 +1,6 @@
 # Patrick Barry
 
-Patrick Barry is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at American Legion Marsh Post #442, Boston on Sat, 31 Oct 2026.
+Patrick Barry is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at American Legion Marsh Post #442, Boston on Sat, 31 Oct 2026.
 
 Patrick Barry is a house and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Boston. Often billed alongside Tom Bartlett, Inspector Disco and KHALIFA. Next up: American Legion Marsh Post #442, Boston on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Patrick Barry is a house and techno artist based in United States of America, tr
 
 Tom Bartlett, Inspector Disco, KHALIFA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickbarry/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickbarry/)*

@@ -1,6 +1,6 @@
 # Now&Wow
 
-Now&Wow is a music venue in Rotterdam with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "SYSTEM - ROTTERDAM" on Sat, 3 Oct 2026.
+Now&Wow is a music venue in Rotterdam with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "SYSTEM - ROTTERDAM" on Sat, 3 Oct 2026.
 
 Now&Wow is a music venue in Rotterdam listed on soundcheck. 5 upcoming gigs, with line-ups including 2FEL, A2XBY, ALISHA and AnG (NL) and 2 more. Browse upcoming dates, start times and who's playing. Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands.
 
@@ -18,4 +18,4 @@ Now&Wow is a music venue in Rotterdam listed on soundcheck. 5 upcoming gigs, wit
 
 Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands, Rotterdam
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/now-wow/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/now-wow/)*

@@ -1,21 +1,22 @@
 # Argia
 
-Argia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cova Santa, Ibiza on Fri, 25 Sept 2026.
+Argia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hackney Bridge, London on Sat, 26 Sept 2026.
 
-Argia is a house and techno artist based in Spain, tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Alican, Murat Uncuoglu and Âme. Next up: Cova Santa, Ibiza on Fri 25 Sept.
+Argia is a house and techno artist based in Spain, tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Alican, Murat Uncuoglu and Âme. Next up: Hackney Bridge, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Cova Santa | Ibiza |
 | Sat, 26 Sept 2026 | Hackney Bridge | London |
 | Thu, 22 Oct 2026 | Noorderlicht Café | Amsterdam |
 | Fri, 23 Oct 2026 | Generator | Amsterdam |
+| Fri, 13 Nov 2026 | KOKO | London |
 | Sat, 21 Nov 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 
+- Cova Santa, Ibiza — Fri, 25 Sept 2026
 - Thuishaven, Amsterdam — Sat, 19 Sept 2026
 - Umoya, Naples — Sun, 13 Sept 2026
 - Dockland, Munster — Sat, 12 Sept 2026
@@ -23,10 +24,9 @@ Argia is a house and techno artist based in Spain, tracked on soundcheck, with 7
 - Hï Ibiza, Ibiza — Mon, 27 Jul 2026
 - BORIS CLUB, Barcelona — Sat, 25 Jul 2026
 - TBA - Málaga Forum, Malaga — Sat, 18 Jul 2026
-- Cova Santa, Ibiza — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Alican, Murat Uncuoglu, Âme
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*

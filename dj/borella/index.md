@@ -1,6 +1,6 @@
 # Borella
 
-Borella is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Borella is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Borella is a techno and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Robin Dey, Mira and Caleesi. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Borella is a techno and house artist tracked on soundcheck, with 47 sets logged 
 
 Robin Dey, Mira, Caleesi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borella/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borella/)*

@@ -1,6 +1,6 @@
 # Mary Olivetti
 
-Mary Olivetti is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Mary Olivetti is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Mary Olivetti is a house and disco artist based in Brazil, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 3 more. Often billed alongside Arpy Brown, Cody Currie and Kapote. Next up: Pacific Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mary Olivetti is a house and disco artist based in Brazil, tracked on soundcheck
 
 Arpy Brown, Cody Currie, Kapote
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maryolivetti/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maryolivetti/)*

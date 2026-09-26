@@ -1,6 +1,6 @@
 # Seb Trillo
 
-Seb Trillo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Gaffe, London on Sat, 26 Sept 2026.
+Seb Trillo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Gaffe, London on Sat, 26 Sept 2026.
 
 Seb Trillo is a house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London and Warsaw. Often billed alongside TR!P, Dias (UK) and Jacob Tr!p. Next up: Gaffe, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Seb Trillo is a house and techno artist based in United Kingdom, tracked on soun
 
 TR!P, Dias (UK), Jacob Tr!p
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebtrillo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebtrillo/)*

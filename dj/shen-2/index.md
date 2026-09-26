@@ -1,6 +1,6 @@
 # Shen (2)
 
-Shen (2) is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Buddies in Bad Times, Toronto on Sat, 26 Sept 2026.
+Shen (2) is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Buddies in Bad Times, Toronto on Sat, 26 Sept 2026.
 
 Shen is a deep house and house artist based in Egypt, tracked on soundcheck, with 50 sets logged across Amsterdam, Cologne, London and Toronto. Often billed alongside SAWIFROMSPACE, Rami Nassif and Theysiii. Next up: Buddies in Bad Times, Toronto on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Shen is a deep house and house artist based in Egypt, tracked on soundcheck, wit
 
 SAWIFROMSPACE, Rami Nassif, Theysiii
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shen-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shen-2/)*

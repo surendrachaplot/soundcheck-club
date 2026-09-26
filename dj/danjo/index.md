@@ -1,6 +1,6 @@
 # Danjo
 
-Danjo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 7 Nov 2026.
+Danjo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 7 Nov 2026.
 
 Danjo is a techno and house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Copenhagen, Frankfurt and Hamburg and 2 more. Often billed alongside Verena, Mollono.Bass and Katzengold. Next up: Tanzhaus West, Frankfurt on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Danjo is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Verena, Mollono.Bass, Katzengold
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danjo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danjo/)*

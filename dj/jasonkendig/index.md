@@ -1,20 +1,20 @@
 # Jason Kendig
 
-Jason Kendig is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at H0L0, New York City on Fri, 25 Sept 2026.
+Jason Kendig is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
-Jason Kendig is a techno and house artist based in United States of America, tracked on soundcheck, with 79 sets logged across Bali, Berlin, Chicago and Detroit and 13 more. Often billed alongside Kilopatrah Jones, Auspex and Cosmo (NY). Next up: H0L0, New York City on Fri 25 Sept.
+Jason Kendig is a techno and house artist based in United States of America, tracked on soundcheck, with 79 sets logged across Bali, Berlin, Chicago and Detroit and 13 more. Often billed alongside Kilopatrah Jones, Auspex and Cosmo (NY). Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | H0L0 | New York City |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 31 Oct 2026 | Bourbon On Division | Chicago |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
 
+- H0L0, New York City — Fri, 25 Sept 2026
 - Underground SF, San Francisco/Oakland — Fri, 11 Sept 2026
 - BASEMENT, New York City — Sat, 29 Aug 2026
 - BASEMENT, New York City — Fri, 31 Jul 2026
@@ -22,10 +22,9 @@ Jason Kendig is a techno and house artist based in United States of America, tra
 - TBA - Downtown LA, Los Angeles — Sat, 11 Jul 2026
 - BASEMENT, New York City — Sat, 9 May 2026
 - BASEMENT, New York City — Sat, 25 Apr 2026
-- Monarch, San Francisco/Oakland — Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Kilopatrah Jones, Auspex, Cosmo (NY)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkendig/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkendig/)*

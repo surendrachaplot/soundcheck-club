@@ -1,6 +1,6 @@
 # blvk.velvet
 
-blvk.velvet is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Invisible Wind Factory, Liverpool on Fri, 13 Nov 2026.
+blvk.velvet is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Invisible Wind Factory, Liverpool on Fri, 13 Nov 2026.
 
 blvk.velvet is a house and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Glasgow and Liverpool. Often billed alongside Dan Chan, MYOHMY and Abbie Morris. Next up: Invisible Wind Factory, Liverpool on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ blvk.velvet is a house and techno artist based in United Kingdom, tracked on sou
 
 Dan Chan, MYOHMY, Abbie Morris
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blvk.velvet/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blvk.velvet/)*

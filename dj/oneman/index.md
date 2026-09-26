@@ -1,6 +1,6 @@
 # Oneman
 
-Oneman is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at fabric, London on Fri, 16 Oct 2026.
+Oneman is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at fabric, London on Fri, 16 Oct 2026.
 
 Oneman is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 90 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 13 more. Often billed alongside RIZ LA TEEF, Lu.Re and Flowdan. Next up: fabric, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Oneman is a garage and bass artist based in United Kingdom, tracked on soundchec
 
 RIZ LA TEEF, Lu.Re, Flowdan
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oneman/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oneman/)*

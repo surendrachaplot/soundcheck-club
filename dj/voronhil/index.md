@@ -1,18 +1,18 @@
 # Voronhil
 
-Voronhil is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
+Voronhil is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at National Gallery Prague, Prague on Fri, 25 Sept 2026.
 
-Voronhil is an electronica and experimental artist tracked on soundcheck, with 6 sets logged across Berlin, Brussels, Milan and Prague and 1 more. Often billed alongside Kuthi Jinani, Atoloi and Autechre. Next up: National Gallery Prague, Prague on Thu 24 Sept.
+Voronhil is an electronica and experimental artist tracked on soundcheck, with 6 sets logged across Berlin, Brussels, Milan and Prague and 1 more. Often billed alongside Kuthi Jinani, Atoloi and Autechre. Next up: National Gallery Prague, Prague on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | National Gallery Prague | Prague |
+| Fri, 25 Sept 2026 | National Gallery Prague | Prague |
 
 ## Recently played
 
-- National Gallery Prague, Prague — Thu, 24 Sept 2026
+- National Gallery Prague, Prague — Fri, 25 Sept 2026
 - Panke, Berlin — Thu, 2 Apr 2026
 - Nashaz, Brussels — Sat, 28 Feb 2026
 - La Redazione di Scomodo, Rome — Fri, 20 Feb 2026
@@ -23,4 +23,4 @@ Voronhil is an electronica and experimental artist tracked on soundcheck, with 6
 
 Kuthi Jinani, Atoloi, Autechre
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voronhil/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voronhil/)*

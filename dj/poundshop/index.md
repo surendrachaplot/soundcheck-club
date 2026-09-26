@@ -1,6 +1,6 @@
 # Poundshop
 
-Poundshop is a Bass and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
+Poundshop is a Bass and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
 
 Poundshop is a bass and hardcore artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Edinburgh, Glasgow, London and Manchester. Often billed alongside Ship Sket, Basmati and Bushbby. Next up: Colour Factory, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Poundshop is a bass and hardcore artist based in United Kingdom, tracked on soun
 
 Ship Sket, Basmati (1), Bushbby
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poundshop/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poundshop/)*

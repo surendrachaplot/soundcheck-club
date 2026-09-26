@@ -1,6 +1,6 @@
 # DJ Perception
 
-DJ Perception is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
+DJ Perception is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
 
 DJ Perception is a garage and house artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 13 more. Often billed alongside Lady Passion, Jeremy Sylvester and Harry Luda. Next up: LDN East, London on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ DJ Perception is a garage and house artist based in United Kingdom, tracked on s
 
 Lady Passion, Jeremy Sylvester, Harry Luda
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djperception/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djperception/)*

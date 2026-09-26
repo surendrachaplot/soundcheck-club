@@ -1,6 +1,6 @@
 # Sonny Grin
 
-Sonny Grin is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Orangerie Neukölln, Berlin on Tue, 6 Oct 2026.
+Sonny Grin is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Orangerie Neukölln, Berlin on Tue, 6 Oct 2026.
 
 Sonny Grin is a hip-hop and r&b artist based in Australia, tracked on soundcheck, with 6 sets logged across Berlin and Sydney. Often billed alongside Cleo (AU), Luminiah and NanaBcool. Next up: Orangerie Neukölln, Berlin on Tue 6 Oct.
 
@@ -22,4 +22,4 @@ Sonny Grin is a hip-hop and r&b artist based in Australia, tracked on soundcheck
 
 Cleo (AU), Luminiah, NanaBcool
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnygrin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnygrin/)*

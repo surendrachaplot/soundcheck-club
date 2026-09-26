@@ -1,6 +1,6 @@
 # oddist
 
-oddist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+oddist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 oddist is a techno and house artist based in Romania, tracked on soundcheck, with 29 sets logged across Berlin, Bucharest and Greece. Often billed alongside Miss I, Clovis and Junki Inoue. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ oddist is a techno and house artist based in Romania, tracked on soundcheck, wit
 
 Miss I, Clovis, Junki Inoue
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oddist/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oddist/)*

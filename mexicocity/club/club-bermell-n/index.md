@@ -1,17 +1,18 @@
 # Club Bermellón
 
-Club Bermellón is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "BOOHAUS" on Sat, 31 Oct 2026.
+Club Bermellón is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "A House Music Party" on Fri, 2 Oct 2026.
 
-Club Bermellón is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Alvaro Obregón 180 Upstairs, Col. Roma.
+Club Bermellón is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Knife, DJ OYSTER, ED (MX) and PHONYFAKE. Browse upcoming dates, start times and who's playing. Alvaro Obregón 180 Upstairs, Col. Roma.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | A House Music Party | DJ Knife, DJ OYSTER, ED (MX), PHONYFAKE |
 | Sat, 31 Oct 2026 | BOOHAUS |  |
 
 ## Address
 
 Alvaro Obregón 180 Upstairs, Col. Roma, Mexico City
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/club-bermell-n/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/club-bermell-n/)*

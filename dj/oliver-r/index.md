@@ -1,13 +1,14 @@
 # Oliver.r
 
-Oliver.r is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 303 Audiophile Bar, Barcelona on Fri, 9 Oct 2026.
+Oliver.r is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Jalousy, Brussels on Fri, 2 Oct 2026.
 
-Oliver.r is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 6 more. Often billed alongside B.Love, Jhobei and Charleze. Next up: 303 Audiophile Bar, Barcelona on Fri 9 Oct.
+Oliver.r is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside B.Love, Jhobei and Charleze. Next up: Jalousy, Brussels on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Jalousy | Brussels |
 | Fri, 9 Oct 2026 | 303 Audiophile Bar | Barcelona |
 | Sat, 17 Oct 2026 | Arch 14 | London |
 | Thu, 22 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
@@ -27,4 +28,4 @@ Oliver.r is a house and tech house artist based in United Kingdom, tracked on so
 
 B.Love, Jhobei, Charleze
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliver-r/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliver-r/)*

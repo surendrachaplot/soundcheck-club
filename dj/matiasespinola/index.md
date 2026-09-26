@@ -1,6 +1,6 @@
 # Matias Espinola
 
-Matias Espinola is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Moondog Hifi, New York City on Sun, 27 Sept 2026.
+Matias Espinola is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Moondog Hifi, New York City on Sun, 27 Sept 2026.
 
 Matias Espinola is a house and techno artist tracked on soundcheck, with 9 sets logged across Lisbon, Los Angeles, New York City and Sao Paulo. Often billed alongside Arvi, Pablo Romero and Adam Rose. Next up: Moondog Hifi, New York City on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Matias Espinola is a house and techno artist tracked on soundcheck, with 9 sets 
 
 Arvi, Pablo Romero, Adam Rose
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasespinola/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasespinola/)*

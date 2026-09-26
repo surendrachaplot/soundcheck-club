@@ -1,14 +1,13 @@
 # Moody Mehran
 
-Moody Mehran is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Atelier Rooftop, Berlin on Fri, 25 Sept 2026.
+Moody Mehran is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Thuishaven, Amsterdam on Sun, 27 Sept 2026.
 
-Moody Mehran is a house and techno artist based in Netherlands, tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Bali and Berlin and 10 more. Often billed alongside Lucky Done Gone, Tjade and Kyra Khaldi. Next up: Atelier Rooftop, Berlin on Fri 25 Sept.
+Moody Mehran is a house and techno artist based in Netherlands, tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Bali and Berlin and 10 more. Often billed alongside Lucky Done Gone, Tjade and Kyra Khaldi. Next up: Thuishaven, Amsterdam on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Atelier Rooftop | Berlin |
 | Sun, 27 Sept 2026 | Thuishaven | Amsterdam |
 | Sat, 10 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Wed, 21 Oct 2026 | Pier 14 | Amsterdam |
@@ -19,6 +18,7 @@ Moody Mehran is a house and techno artist based in Netherlands, tracked on sound
 
 ## Recently played
 
+- Atelier Rooftop, Berlin — Fri, 25 Sept 2026
 - Mono, Rotterdam — Sat, 5 Sept 2026
 - Doka, Amsterdam — Fri, 4 Sept 2026
 - Skatecafe, Amsterdam — Fri, 14 Aug 2026
@@ -26,10 +26,9 @@ Moody Mehran is a house and techno artist based in Netherlands, tracked on sound
 - Lofi, Amsterdam — Sat, 1 Aug 2026
 - Ijburg, Amsterdam — Sun, 12 Jul 2026
 - Sloterpark, Amsterdam — Sat, 20 Jun 2026
-- Shelter Amsterdam, Amsterdam — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Lucky Done Gone, Tjade, Kyra Khaldi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymehran/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymehran/)*

@@ -1,6 +1,6 @@
 # Shogun
 
-Shogun is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Mia Mao, Paris on Fri, 23 Oct 2026.
+Shogun is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Mia Mao, Paris on Fri, 23 Oct 2026.
 
 Shogun is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 12 sets logged across Berlin, Dublin, Houston and Lisbon and 5 more. Often billed alongside DJ IDeaL, AKONA and AYANA KOSHIBA. Next up: Mia Mao, Paris on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Shogun is a techno and hardcore artist based in United States of America, tracke
 
 DJ IDeaL, AKONA, AYANA KOSHIBA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shogun/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shogun/)*

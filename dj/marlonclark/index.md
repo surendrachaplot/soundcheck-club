@@ -1,6 +1,6 @@
 # Marlon Clark
 
-Marlon Clark is a Minimal Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at teller, Seoul on Sat, 10 Oct 2026.
+Marlon Clark is a Minimal Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at teller, Seoul on Sat, 10 Oct 2026.
 
 Marlon Clark is a minimal techno and electronica artist tracked on soundcheck, with 9 sets logged across Brussels, Copenhagen, Glasgow and Leeds and 3 more. Often billed alongside Jake Hodgkinson, BP and Carl H. Next up: teller, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Marlon Clark is a minimal techno and electronica artist tracked on soundcheck, w
 
 Jake Hodgkinson, BP (1), Carl H
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonclark/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonclark/)*

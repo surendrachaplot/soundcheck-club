@@ -1,6 +1,6 @@
 # DJ Privilégio
 
-DJ Privilégio is a Jazz and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Donau Porto, Porto on Sun, 27 Sept 2026.
+DJ Privilégio is a Jazz and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Donau Porto, Porto on Sun, 27 Sept 2026.
 
 DJ Privilégio is a jazz and experimental artist based in Portugal, tracked on soundcheck, with 22 sets logged across Lisbon and Porto. Often billed alongside 420@ôa, Gabberolas and Paixão. Next up: Donau Porto, Porto on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ DJ Privilégio is a jazz and experimental artist based in Portugal, tracked on s
 
 420@ôa, Gabberolas, Paixão
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djprivilegio/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djprivilegio/)*

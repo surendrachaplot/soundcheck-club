@@ -1,6 +1,6 @@
 # LI-YU
 
-LI-YU is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Colorado Charlie, The Hague on Sat, 26 Sept 2026.
+LI-YU is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Colorado Charlie, The Hague on Sat, 26 Sept 2026.
 
 LI-YU is a deep house and house artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Ibiza, London and Rotterdam and 1 more. Often billed alongside Ben Diggins, LIMA (NL) and select motion. Next up: Colorado Charlie, The Hague on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ LI-YU is a deep house and house artist based in Netherlands, tracked on soundche
 
 Ben Diggins, LIMA (NL), select motion
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/li-yu/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/li-yu/)*

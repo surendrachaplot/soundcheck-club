@@ -1,8 +1,8 @@
 # DJ SWISHA
 
-DJ SWISHA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+DJ SWISHA is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
-DJ SWISHA is a techno and house artist based in United States of America, tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Auckland and Austin and 46 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
+DJ SWISHA is a techno and house artist based in United States of America, tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Auckland and Austin and 46 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -19,10 +19,11 @@ DJ SWISHA is a techno and house artist based in United States of America, tracke
 | Thu, 22 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Hidden | Manchester |
 | Sat, 31 Oct 2026 | Paragon | New York City |
-| Sat, 14 Nov 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
+| Fri, 13 Nov 2026 | TBA | Vancouver |
 
 ## Recently played
 
+- 131 Mccormack St, Toronto — Fri, 25 Sept 2026
 - Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Trans-Pecos, New York City — Sat, 12 Sept 2026
 - Middlesex, Boston — Thu, 10 Sept 2026
@@ -30,10 +31,9 @@ DJ SWISHA is a techno and house artist based in United States of America, tracke
 - TBA, Los Angeles — Fri, 21 Aug 2026
 - Moongate Lounge, San Francisco/Oakland — Thu, 20 Aug 2026
 - Nowadays, New York City — Sat, 15 Aug 2026
-- Paragon, New York City — Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Kush Jones, AceMo, MoMA Ready
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*

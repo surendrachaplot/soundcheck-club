@@ -1,6 +1,6 @@
 # Bar How
 
-Bar How is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Trickpony x Omnibus: ADE Affair with Brennan & Hannecart" on Fri, 23 Oct 2026.
+Bar How is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Trickpony x Omnibus: ADE Affair with Brennan & Hannecart" on Fri, 23 Oct 2026.
 
 Bar How is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Brennan, Hannecart, Tykov and Voss. Browse upcoming dates, start times and who's playing. Papaverhoek 23, 1032 JZ Amsterdam.
 
@@ -14,4 +14,4 @@ Bar How is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with
 
 Papaverhoek 23, 1032 JZ Amsterdam, Amsterdam
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bar-how/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bar-how/)*

@@ -1,6 +1,6 @@
 # Simona Castricum
 
-Simona Castricum is a Club and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
+Simona Castricum is a Club and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
 
 Simona Castricum is a club and progressive house artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside Caucasian Opportunities, DJ PGZ and Aarti Jadu. Next up: Abbotsford Convent, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Simona Castricum is a club and progressive house artist based in Australia, trac
 
 Caucasian Opportunities, DJ PGZ, Aarti Jadu
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simona/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simona/)*

@@ -1,6 +1,6 @@
 # GOLDEN PINEAPPLE
 
-GOLDEN PINEAPPLE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at La Vista, Mexico City on Wed, 23 Sept 2026.
+GOLDEN PINEAPPLE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at La Vista, Mexico City on Wed, 23 Sept 2026.
 
 GOLDEN PINEAPPLE is a house and deep house artist tracked on soundcheck, with 51 sets logged across Mexico City and Vancouver. Often billed alongside Barreto, DJ Milka and Mejia. Next up: La Vista, Mexico City on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ GOLDEN PINEAPPLE is a house and deep house artist tracked on soundcheck, with 51
 
 Barreto, DJ Milka, Mejia
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenpineapple/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenpineapple/)*

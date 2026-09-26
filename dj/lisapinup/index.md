@@ -1,6 +1,6 @@
 # Lisa Pinup
 
-Lisa Pinup is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
+Lisa Pinup is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
 
 Lisa Pinup is a trance and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Leeds, London, Nottingham and Sheffield and 1 more. Often billed alongside Pete Monsoon, Rob Tissera and General Bounce. Next up: The Cambridge Junction, South East on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lisa Pinup is a trance and house artist based in United Kingdom, tracked on soun
 
 Pete Monsoon, Rob Tissera, General Bounce
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisapinup/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisapinup/)*

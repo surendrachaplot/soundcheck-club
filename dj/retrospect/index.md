@@ -1,6 +1,6 @@
 # Retrospect
 
-Retrospect is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Stealth, Nottingham on Fri, 6 Nov 2026.
+Retrospect is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Stealth, Nottingham on Fri, 6 Nov 2026.
 
 Retrospect is a house and garage artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Brighton, London and Nottingham. Often billed alongside Edo.1, ADR (UK) and AZAAD. Next up: Stealth, Nottingham on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Retrospect is a house and garage artist based in United Kingdom, tracked on soun
 
 Edo.1, ADR (UK), AZAAD
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/retrospect/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/retrospect/)*

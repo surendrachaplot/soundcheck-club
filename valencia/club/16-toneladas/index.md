@@ -1,18 +1,17 @@
 # 16 Toneladas
 
-16 Toneladas is a music venue in Valencia with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Neowarras" on Fri, 25 Sept 2026.
+16 Toneladas is a music venue in Valencia with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is " Volumens Closing Party: DJ Marcelle (3 hour set) , Saint Abdullah & Eomac (live) more tba" on Sat, 17 Oct 2026.
 
-16 Toneladas is a music venue in Valencia listed on soundcheck. 2 upcoming gigs, with line-ups including DIORA, DJ Marcelle, Eomac and FAG HAG and 1 more. Browse upcoming dates, start times and who's playing. C/ de Ricardo Micó, 3, Campanar, 46009 València.
+16 Toneladas is a music venue in Valencia listed on soundcheck. 1 upcoming gig, with line-ups including DJ Marcelle and Eomac. Browse upcoming dates, start times and who's playing. C/ de Ricardo Micó, 3, Campanar, 46009 València.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Neowarras | DIORA, FAG HAG, Xenia |
 | Sat, 17 Oct 2026 |  Volumens Closing Party: DJ Marcelle (3 hour set) , Saint Abdullah & Eomac (live) more tba | DJ Marcelle, Eomac |
 
 ## Address
 
 C/ de Ricardo Micó, 3, Campanar, 46009 València, Valencia
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/16-toneladas/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/16-toneladas/)*

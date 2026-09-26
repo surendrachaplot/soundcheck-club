@@ -1,6 +1,6 @@
 # Dante Sin
 
-Dante Sin is a Club and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at CHICO, Mexico City on Sat, 26 Sept 2026.
+Dante Sin is a Club and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at CHICO, Mexico City on Sat, 26 Sept 2026.
 
 Dante Sin is a club and reggaeton artist based in United States of America, tracked on soundcheck, with 21 sets logged across Los Angeles and Mexico City. Often billed alongside Benfika, Dinamarca and Eisebelle. Next up: CHICO, Mexico City on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Dante Sin is a club and reggaeton artist based in United States of America, trac
 
 Benfika, Dinamarca, Eisebelle
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dantesin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dantesin/)*

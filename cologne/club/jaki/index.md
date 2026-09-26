@@ -1,6 +1,6 @@
 # JAKI
 
-JAKI is a music venue in Cologne with 7 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "xyz with Futurę Sounds Of Jazz hosted by Uh-Young Kim" on Fri, 25 Sept 2026.
+JAKI is a music venue in Cologne with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "xyz with Futurę Sounds Of Jazz hosted by Uh-Young Kim" on Fri, 25 Sept 2026.
 
 JAKI is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, with line-ups including AMSL, Anna Cainelli, Back2Bass and BUTTMONEY and 2 more. Browse upcoming dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
 
@@ -20,4 +20,4 @@ JAKI is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, with lin
 
 Venloer Str. 40,  50672 Cologne, Cologne
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*

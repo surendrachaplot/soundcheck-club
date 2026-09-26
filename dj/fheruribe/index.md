@@ -1,6 +1,6 @@
 # Fher Uribe
 
-Fher Uribe is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Departamento, Mexico City on Wed, 23 Sept 2026.
+Fher Uribe is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Departamento, Mexico City on Wed, 23 Sept 2026.
 
 Fher Uribe is a house and deep house artist based in Mexico, tracked on soundcheck, with 17 sets logged across Mexico City. Often billed alongside Awa (ARG), Irena Stanisic and DJ Milka. Next up: Departamento, Mexico City on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Fher Uribe is a house and deep house artist based in Mexico, tracked on soundche
 
 Awa (ARG), Irena Stanisic, DJ Milka
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fheruribe/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fheruribe/)*

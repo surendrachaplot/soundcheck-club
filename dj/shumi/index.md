@@ -1,6 +1,6 @@
 # Shumi
 
-Shumi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Gewölbe, Cologne on Fri, 9 Oct 2026.
+Shumi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Gewölbe, Cologne on Fri, 9 Oct 2026.
 
 Shumi is a house and techno artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin, Cologne, Copenhagen and Vienna. Often billed alongside Roman Flügel, Sedaction and Sexy Lazer. Next up: Gewölbe, Cologne on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Shumi is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Roman Flügel, Sedaction, Sexy Lazer
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shumi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shumi/)*

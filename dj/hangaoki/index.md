@@ -1,6 +1,6 @@
 # Hang Aoki
 
-Hang Aoki is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Horn, Bangkok on Fri, 2 Oct 2026.
+Hang Aoki is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Horn, Bangkok on Fri, 2 Oct 2026.
 
 Hang Aoki is a techno and house artist based in Germany, tracked on soundcheck, with 65 sets logged across Athens, Bangkok, Berlin and Leipzig and 6 more. Often billed alongside CIKO, Alex.Do and Jessamine. Next up: Horn, Bangkok on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Hang Aoki is a techno and house artist based in Germany, tracked on soundcheck, 
 
 CIKO, Alex.Do, Jessamine
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hangaoki/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hangaoki/)*

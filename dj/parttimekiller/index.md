@@ -1,6 +1,6 @@
 # Part Time Killer
 
-Part Time Killer is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+Part Time Killer is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
 
 Part Time Killer is a techno and trance artist based in Germany, tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Frederic., KLING&KLANG and CAIVA. Next up: Maitland Showground, Sydney on Fri 25 Sept.
 
@@ -17,6 +17,7 @@ Part Time Killer is a techno and trance artist based in Germany, tracked on soun
 
 ## Recently played
 
+- Maitland Showground, Sydney — Fri, 25 Sept 2026
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Thu, 24 Sept 2026
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Thu, 24 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 19 Sept 2026
@@ -24,10 +25,9 @@ Part Time Killer is a techno and trance artist based in Germany, tracked on soun
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 21 Aug 2026
 - Arzenal, Budapest — Wed, 19 Aug 2026
 - Lokschuppen Berlin, Berlin — Sat, 15 Aug 2026
-- TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
 
 ## Shares bills with
 
 Frederic., KLING&KLANG, CAIVA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parttimekiller/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parttimekiller/)*

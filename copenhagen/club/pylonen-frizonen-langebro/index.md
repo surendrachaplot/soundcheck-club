@@ -1,14 +1,13 @@
 # Pylonen - Frizonen Langebro
 
-Pylonen - Frizonen Langebro is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Pylonen - Official Opening Party" on Fri, 25 Sept 2026.
+Pylonen - Frizonen Langebro is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Frizone Fredag på Flappen" on Fri, 9 Oct 2026.
 
-Pylonen - Frizonen Langebro is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with line-ups including Ama Lien, Dennis DAFG, Entree and Gabriella Vergilov and 2 more. Browse upcoming dates, start times and who's playing.
+Pylonen - Frizonen Langebro is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with line-ups including Dennis DAFG and Entree. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Pylonen - Official Opening Party | Ama Lien, Gabriella Vergilov, Lust For Youth, Milo Makua, Rita Blue, Sound and Fury |
 | Fri, 9 Oct 2026 | Frizone Fredag på Flappen | Dennis DAFG, Entree |
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pylonen-frizonen-langebro/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pylonen-frizonen-langebro/)*

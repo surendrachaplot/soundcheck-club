@@ -1,6 +1,6 @@
 # HOOCHIE (1)
 
-HOOCHIE (1) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, San Diego on Sat, 10 Oct 2026.
+HOOCHIE (1) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, San Diego on Sat, 10 Oct 2026.
 
 HOOCHIE is a techno and acid artist based in United States of America, tracked on soundcheck, with 7 sets logged across San Diego. Often billed alongside AKONA, AMZEL and ARP8. Next up: TBA, San Diego on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ HOOCHIE is a techno and acid artist based in United States of America, tracked o
 
 AKONA, AMZEL, ARP8
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hoochie-1/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hoochie-1/)*

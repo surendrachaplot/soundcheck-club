@@ -1,6 +1,6 @@
 # Funken
 
-Funken is a Dub and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Madame Claude, Berlin on Sat, 3 Oct 2026.
+Funken is a Dub and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Madame Claude, Berlin on Sat, 3 Oct 2026.
 
 Funken is a dub and downtempo artist tracked on soundcheck, with 30 sets logged across Berlin. Often billed alongside Al_Massimo, Overthink 71 and Paoler. Next up: Madame Claude, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Funken is a dub and downtempo artist tracked on soundcheck, with 30 sets logged 
 
 Al_Massimo, Overthink 71, Paoler
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funken/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funken/)*

@@ -1,6 +1,6 @@
 # Super8 & Tab
 
-Super8 & Tab is a Progressive House and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
+Super8 & Tab is a Progressive House and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
 
 Super8 & Tab are a progressive house and trance duo based in Finland, tracked on soundcheck, with 14 sets logged across Auckland, Birmingham, Glasgow and Helsinki and 9 more. Often billed alongside Amy Wiles, Leena Punks and Dave Pearce. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Super8 & Tab are a progressive house and trance duo based in Finland, tracked on
 
 Amy Wiles, Leena Punks, Dave Pearce
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/super8tab/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/super8tab/)*

@@ -1,6 +1,6 @@
 # Mampi Swift
 
-Mampi Swift is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Clock Factory, Bristol on Sat, 3 Oct 2026.
+Mampi Swift is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Clock Factory, Bristol on Sat, 3 Oct 2026.
 
 Mampi Swift is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Auckland, Bangkok and Birmingham and 15 more. Often billed alongside Kenny Ken, IC3 and Moose. Next up: The Clock Factory, Bristol on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Mampi Swift is a drum & bass and jungle artist based in United Kingdom, tracked 
 
 Kenny Ken, IC3, Moose
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mampiswift/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mampiswift/)*

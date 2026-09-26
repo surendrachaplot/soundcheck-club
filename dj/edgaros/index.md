@@ -1,6 +1,6 @@
 # Edgar Os
 
-Edgar Os is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 25 Sept 2026.
+Edgar Os is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 25 Sept 2026.
 
 Edgar Os is a trance and techno artist based in Mexico, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside bbymeister, jeanska and EZA (DE). Next up: Lokschuppen Berlin, Berlin on Fri 25 Sept.
 
@@ -13,6 +13,7 @@ Edgar Os is a trance and techno artist based in Mexico, tracked on soundcheck, w
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Fri, 25 Sept 2026
 - ://about blank, Berlin — Fri, 28 Aug 2026
 - Lokschuppen Berlin, Berlin — Sun, 2 Aug 2026
 - ://about blank, Berlin — Sat, 25 Jul 2026
@@ -20,10 +21,9 @@ Edgar Os is a trance and techno artist based in Mexico, tracked on soundcheck, w
 - ://about blank, Berlin — Sat, 28 Mar 2026
 - ÆDEN, Berlin — Sat, 21 Mar 2026
 - Lokschuppen Berlin, Berlin — Sat, 7 Feb 2026
-- ÆDEN, Berlin — Wed, 31 Dec 2025
 
 ## Shares bills with
 
 bbymeister, jeanska, EZA (DE)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edgaros/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edgaros/)*

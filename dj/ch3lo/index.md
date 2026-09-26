@@ -1,6 +1,6 @@
 # CH3LO
 
-CH3LO is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 30 Oct 2026.
+CH3LO is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 30 Oct 2026.
 
 CH3LO is a techno and electronica artist based in Spain, tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, London and Madrid and 1 more. Often billed alongside Groovemami, Reitze and SAINT SINNER. Next up: TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ CH3LO is a techno and electronica artist based in Spain, tracked on soundcheck, 
 
 Groovemami, Reitze, SAINT SINNER
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ch3lo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ch3lo/)*

@@ -1,6 +1,6 @@
 # Tania Vulcano
 
-Tania Vulcano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Tipic., Ibiza on Sat, 26 Sept 2026.
+Tania Vulcano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tipic., Ibiza on Sat, 26 Sept 2026.
 
 Tania Vulcano is a house and techno artist based in Spain, tracked on soundcheck, with 126 sets logged across Barcelona, Brussels, Bucharest and Buenos Aires and 14 more. Often billed alongside Sossa, Seth Troxler and DJ Tennis. Next up: Tipic., Ibiza on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Tania Vulcano is a house and techno artist based in Spain, tracked on soundcheck
 
 Sossa, Seth Troxler, DJ Tennis
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taniavulcano/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taniavulcano/)*

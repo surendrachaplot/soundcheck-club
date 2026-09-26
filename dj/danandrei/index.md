@@ -1,6 +1,6 @@
 # Dan Andrei
 
-Dan Andrei is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Les Enfants Brillants, Barcelona on Sat, 26 Sept 2026.
+Dan Andrei is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Les Enfants Brillants, Barcelona on Sat, 26 Sept 2026.
 
 Dan Andrei is a minimal and house artist based in Romania, tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Athens and Bali and 29 more. Often billed alongside Cap, Rhadoo and Sonja Moonear. Next up: Les Enfants Brillants, Barcelona on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Dan Andrei is a minimal and house artist based in Romania, tracked on soundcheck
 
 Cap, Rhadoo, Sonja Moonear
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danandrei/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danandrei/)*

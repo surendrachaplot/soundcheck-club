@@ -1,6 +1,6 @@
 # Sebastian Mullaert
 
-Sebastian Mullaert is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 16 Oct 2026.
+Sebastian Mullaert is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 16 Oct 2026.
 
 Sebastian Mullaert is a techno and electronica artist tracked on soundcheck, with 23 sets logged across Amsterdam, Basel, Berlin and Brighton and 9 more. Often billed alongside Mathew Jonson, Barker and JakoJako. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Sebastian Mullaert is a techno and electronica artist tracked on soundcheck, wit
 
 Mathew Jonson, Barker, JakoJako
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianmullaert/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianmullaert/)*

@@ -1,14 +1,13 @@
 # Helena Hauff
 
-Helena Hauff is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
+Helena Hauff is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-Helena Hauff is a techno and house artist based in Germany, tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Auckland and 68 more. Often billed alongside DVS1, Job Jobse and Ben UFO. Next up: TBA, Los Angeles on Fri 25 Sept.
+Helena Hauff is a techno and house artist based in Germany, tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Auckland and 68 more. Often billed alongside DVS1, Job Jobse and Ben UFO. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TBA | Los Angeles |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Fri, 2 Oct 2026 | The White Hotel | Manchester |
 | Sat, 3 Oct 2026 | FOLD | London |
@@ -22,6 +21,7 @@ Helena Hauff is a techno and house artist based in Germany, tracked on soundchec
 
 ## Recently played
 
+- TBA, Los Angeles — Fri, 25 Sept 2026
 - Bunker, Turin — Sat, 12 Sept 2026
 - Under the K Bridge, New York City — Sat, 5 Sept 2026
 - Lincoln Factory, Detroit — Fri, 4 Sept 2026
@@ -29,10 +29,9 @@ Helena Hauff is a techno and house artist based in Germany, tracked on soundchec
 - Burgess Park, London — Sat, 15 Aug 2026
 - Burgess Park, London — Sat, 8 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 
 ## Shares bills with
 
 DVS1, Job Jobse, Ben UFO
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*

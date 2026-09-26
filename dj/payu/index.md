@@ -1,8 +1,8 @@
 # Payu
 
-Payu is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Dual, Bangkok on Sat, 26 Sept 2026.
+Payu is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Dual, Bangkok on Sat, 26 Sept 2026.
 
-Payu is a techno and house artist based in Thailand, tracked on soundcheck, with 70 sets logged across Bali, Bangkok, Seoul and Thailand. Often billed alongside JAKRIN, Jirus (MELA) and DOTT. Next up: Dual, Bangkok on Sat 26 Sept.
+Payu is a techno and house artist based in Thailand, tracked on soundcheck, with 71 sets logged across Bali, Bangkok, Seoul and Thailand. Often billed alongside JAKRIN, Jirus (MELA) and DOTT. Next up: Dual, Bangkok on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Payu is a techno and house artist based in Thailand, tracked on soundcheck, with
 | Sat, 26 Sept 2026 | Dual | Bangkok |
 | Sat, 26 Sept 2026 | Dual | Bangkok |
 | Sat, 17 Oct 2026 | Dual | Bangkok |
+| Thu, 22 Oct 2026 | Culture Cafe | Bangkok |
 | Fri, 30 Oct 2026 | Dual | Bangkok |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
@@ -29,4 +30,4 @@ Payu is a techno and house artist based in Thailand, tracked on soundcheck, with
 
 JAKRIN, Jirus (MELA), DOTT
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/payu/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/payu/)*

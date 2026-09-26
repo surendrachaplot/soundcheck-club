@@ -1,14 +1,13 @@
 # Vera Cocina & بار
 
-Vera Cocina & بار is a music venue in Washington DC with 7 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Achromatic presents: SEA RAE" on Fri, 25 Sept 2026.
+Vera Cocina & بار is a music venue in Washington DC with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Nü Androids presents: Ape Drums" on Sat, 26 Sept 2026.
 
-Vera Cocina & بار is a music venue in Washington DC listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Wann, Andhim, Samantha Loveridge and Tripolism. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, USA.
+Vera Cocina & بار is a music venue in Washington DC listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Wann, Andhim, Samantha Loveridge and Tripolism. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Achromatic presents: SEA RAE |  |
 | Sat, 26 Sept 2026 | Nü Androids presents: Ape Drums |  |
 | Sat, 3 Oct 2026 | Nü Androids presents: Tripolism | Tripolism |
 | Sat, 17 Oct 2026 | Nü Androids presents: Samantha Loveridge | Samantha Loveridge |
@@ -20,4 +19,4 @@ Vera Cocina & بار is a music venue in Washington DC listed on soundcheck. 7 u
 
 2002 Fenwick St NE, Washington, DC 20002, USA, Washington DC
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vera-cocina/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vera-cocina/)*

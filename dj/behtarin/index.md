@@ -1,6 +1,6 @@
 # BehTarin
 
-BehTarin is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - NW DC - Address sent Sat afternoon to ticket holders. For door tickets, contact hosts on Partiful or Instagram for address, Washington DC on Sat, 26 Sept 2026.
+BehTarin is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - NW DC - Address sent Sat afternoon to ticket holders. For door tickets, contact hosts on Partiful or Instagram for address, Washington DC on Sat, 26 Sept 2026.
 
 BehTarin is a house and deep house artist based in United States of America, tracked on soundcheck, with 38 sets logged across New York City and Washington DC. Often billed alongside Heather Luna, shilimili and KayLaSoul. Next up: TBA - NW DC - Address sent Sat afternoon to ticket holders. For door tickets, contact hosts on Partiful or Instagram for address, Washington DC on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ BehTarin is a house and deep house artist based in United States of America, tra
 
 Heather Luna, shilimili, KayLaSoul
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/behtarin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/behtarin/)*

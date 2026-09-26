@@ -1,6 +1,6 @@
 # MAN WITH THE SPEAKER
 
-MAN WITH THE SPEAKER is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+MAN WITH THE SPEAKER is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 MAN WITH THE SPEAKER is a garage and house artist based in Greece, tracked on soundcheck, with 37 sets logged across Athens, Barcelona, Greece and Mykonos. Often billed alongside Reign Of Time, Innassi and Useless Co.. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ MAN WITH THE SPEAKER is a garage and house artist based in Greece, tracked on so
 
 Reign Of Time, Innassi, Useless Co.
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manwiththespeaker/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manwiththespeaker/)*

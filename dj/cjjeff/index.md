@@ -1,6 +1,6 @@
 # CJ Jeff
 
-CJ Jeff is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 3 Oct 2026.
+CJ Jeff is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 3 Oct 2026.
 
 CJ Jeff is a tech house and house artist based in Greece, tracked on soundcheck, with 48 sets logged across Athens, Barcelona, Berlin and Chicago and 9 more. Often billed alongside Agent Greg, Dub Tiger and Diogo Accioly. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ CJ Jeff is a tech house and house artist based in Greece, tracked on soundcheck,
 
 Agent Greg, Dub Tiger, Diogo Accioly
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cjjeff/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cjjeff/)*

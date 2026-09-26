@@ -1,6 +1,6 @@
 # TETSUO (2)
 
-TETSUO (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Compufunk Records, Osaka on Sat, 17 Oct 2026.
+TETSUO (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Compufunk Records, Osaka on Sat, 17 Oct 2026.
 
 TETSUO is a house and techno artist based in Japan, tracked on soundcheck, with 20 sets logged across Osaka. Often billed alongside KAITO., COTA and MiTSUYAS. Next up: Compufunk Records, Osaka on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ TETSUO is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 KAITO., COTA, MiTSUYAS
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tetsuo-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tetsuo-2/)*

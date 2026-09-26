@@ -1,6 +1,6 @@
 # Natasha Roze
 
-Natasha Roze is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
+Natasha Roze is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
 Natasha Roze is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Berlin and Prague. Often billed alongside LIZZN, Kristina Sheli and MAD.MOD. Next up: ://about blank, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Natasha Roze is a house and techno artist based in United States of America, tra
 
 LIZZN, Kristina Sheli, MAD.MOD
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natasharoze/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natasharoze/)*

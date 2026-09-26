@@ -1,6 +1,6 @@
 # Cynthia Matisse
 
-Cynthia Matisse is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
+Cynthia Matisse is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
 Cynthia Matisse is a techno and house artist tracked on soundcheck, with 16 sets logged across Berlin, Hamburg, Leipzig and Stuttgart. Often billed alongside Submod, Lydmate and MAY/O. Next up: Distillery, Leipzig on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Cynthia Matisse is a techno and house artist tracked on soundcheck, with 16 sets
 
 Submod, Lydmate, MAY/O
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*

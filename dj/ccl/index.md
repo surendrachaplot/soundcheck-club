@@ -1,6 +1,6 @@
 # CCL
 
-CCL is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+CCL is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 CCL is a techno and house artist based in United States of America, tracked on soundcheck, with 213 sets logged across Amsterdam, Auckland, Austin and Barcelona and 58 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -35,4 +35,4 @@ CCL is a techno and house artist based in United States of America, tracked on s
 
 Objekt, Eris Drew, Octo Octa
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*

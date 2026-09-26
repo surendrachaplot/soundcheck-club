@@ -1,6 +1,6 @@
 # Woreq
 
-Woreq is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Woreq is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 Woreq is a house and techno artist based in Georgia, tracked on soundcheck, with 21 sets logged across Los Angeles, Montreal and New York City. Often billed alongside Mitrimar, 98dots and CAMILLA. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Woreq is a house and techno artist based in Georgia, tracked on soundcheck, with
 
 Mitrimar, 98dots, CAMILLA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/woreq/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/woreq/)*

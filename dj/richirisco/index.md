@@ -1,6 +1,6 @@
 # Richi Risco
 
-Richi Risco is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Lula Club, Madrid on Sat, 17 Oct 2026.
+Richi Risco is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lula Club, Madrid on Sat, 17 Oct 2026.
 
 Richi Risco is a techno and progressive house artist based in Spain, tracked on soundcheck, with 20 sets logged across Bali, Bangkok, Ibiza and London and 5 more. Often billed alongside Angel Heredia, CESAR ALMENA and Carlos Pulido. Next up: Lula Club, Madrid on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Richi Risco is a techno and progressive house artist based in Spain, tracked on 
 
 Angel Heredia, CESAR ALMENA, Carlos Pulido
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richirisco/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richirisco/)*

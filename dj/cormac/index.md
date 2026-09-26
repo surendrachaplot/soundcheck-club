@@ -1,6 +1,6 @@
 # Cormac
 
-Cormac is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Lux Fragil, Lisbon on Sat, 26 Sept 2026.
+Cormac is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Lux Fragil, Lisbon on Sat, 26 Sept 2026.
 
 Cormac is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside BASHKKA, Roi Perez and Massimiliano Pagliara. Next up: Lux Fragil, Lisbon on Sat 26 Sept.
 
@@ -33,4 +33,4 @@ Cormac is a house and techno artist tracked on soundcheck, with 182 sets logged 
 
 BASHKKA, Roi Perez, Massimiliano Pagliara
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*

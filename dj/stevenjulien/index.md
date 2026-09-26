@@ -1,6 +1,6 @@
 # Steven Julien
 
-Steven Julien is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Nitsa Club, Barcelona on Sat, 3 Oct 2026.
+Steven Julien is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Nitsa Club, Barcelona on Sat, 3 Oct 2026.
 
 Steven Julien is a house and techno artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside FunkinEven, DJ Jeyon and J M S Khosah. Next up: Nitsa Club, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Steven Julien is a house and techno artist based in United Kingdom, tracked on s
 
 FunkinEven, DJ Jeyon, J M S Khosah
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenjulien/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenjulien/)*

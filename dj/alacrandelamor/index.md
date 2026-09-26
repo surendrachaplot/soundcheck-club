@@ -1,6 +1,6 @@
 # Alacrán del Amor
 
-Alacrán del Amor is a Dancehall and Classical artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Tonal, Mexico City on Wed, 23 Sept 2026.
+Alacrán del Amor is a Dancehall and Classical artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tonal, Mexico City on Wed, 23 Sept 2026.
 
 Alacrán del Amor is a dancehall and classical artist tracked on soundcheck, with 23 sets logged across Mexico City. Often billed alongside AB, Catatonique and Irena Stanisic. Next up: Tonal, Mexico City on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Alacrán del Amor is a dancehall and classical artist tracked on soundcheck, wit
 
 AB, Catatonique, Irena Stanisic
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alacrandelamor/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alacrandelamor/)*

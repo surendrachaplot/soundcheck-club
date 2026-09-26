@@ -1,6 +1,6 @@
 # NTO
 
-NTO is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Docks, Hamburg on Fri, 9 Oct 2026.
+NTO is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Docks, Hamburg on Fri, 9 Oct 2026.
 
 NTO is a techno and house artist based in France, tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Prismode, Solvane and Mees Salomé. Next up: Docks, Hamburg on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ NTO is a techno and house artist based in France, tracked on soundcheck, with 12
 
 Prismode, Solvane, Mees Salomé
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*

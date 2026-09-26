@@ -1,6 +1,6 @@
 # Arran Lee
 
-Arran Lee is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Spin, San Diego on Sat, 17 Oct 2026.
+Arran Lee is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Spin, San Diego on Sat, 17 Oct 2026.
 
 Arran Lee is a trance and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London, San Diego and Tokyo. Often billed alongside TORUKK, Bezi and Nanlaze. Next up: Spin, San Diego on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ Arran Lee is a trance and house artist based in United Kingdom, tracked on sound
 
 TORUKK, Bezi, Nanlaze
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arranlee/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arranlee/)*

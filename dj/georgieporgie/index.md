@@ -1,6 +1,6 @@
 # Georgie Porgie
 
-Georgie Porgie is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Georgie Porgie is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
 Georgie Porgie is a house and tech house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Amsterdam, Chicago, Los Angeles and Miami. Often billed alongside Jimmie Page, BRKN and Barbara Tucker. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Georgie Porgie is a house and tech house artist based in United States of Americ
 
 Jimmie Page, BRKN, Barbara Tucker
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgieporgie/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgieporgie/)*

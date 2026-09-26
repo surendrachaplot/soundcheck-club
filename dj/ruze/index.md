@@ -1,14 +1,13 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at World Headquarters, Newcastle on Fri, 25 Sept 2026.
+RUZE is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Binks Yard, Nottingham on Sat, 26 Sept 2026.
 
-RUZE is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: World Headquarters, Newcastle on Fri 25 Sept.
+RUZE is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Binks Yard, Nottingham on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | World Headquarters | Newcastle |
 | Sat, 26 Sept 2026 | Binks Yard | Nottingham |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
@@ -23,6 +22,7 @@ RUZE is a house and tech house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
+- World Headquarters, Newcastle — Fri, 25 Sept 2026
 - DRUMSHEDS, London — Sat, 19 Sept 2026
 - Hï Ibiza, Ibiza — Wed, 16 Sept 2026
 - FORGE, Sheffield — Sat, 5 Sept 2026
@@ -30,10 +30,9 @@ RUZE is a house and tech house artist based in United Kingdom, tracked on soundc
 - Hornblower Spirit, San Francisco/Oakland — Sat, 22 Aug 2026
 - Elsewhere, New York City — Fri, 21 Aug 2026
 - UNLOCKED, London — Thu, 16 Jul 2026
-- Cova Santa, Ibiza — Tue, 14 Jul 2026
 
 ## Shares bills with
 
 Prunk, Kellie Allen, Robbie Doherty
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*

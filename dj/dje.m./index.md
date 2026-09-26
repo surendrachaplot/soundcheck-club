@@ -1,15 +1,13 @@
 # DJ E.M.
 
-DJ E.M. is a Latin Bass and Pop artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Comic Strip (Comic Strip Live), New York City on Fri, 25 Sept 2026.
+DJ E.M. is a Latin Bass and Pop artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Boat - Liberty Belle, New York City on Sat, 31 Oct 2026.
 
-DJ E.M. is a latin bass and pop artist based in United States of America, tracked on soundcheck, with 18 sets logged across New York City. Often billed alongside Junior O. Next up: The Comic Strip (Comic Strip Live), New York City on Fri 25 Sept.
+DJ E.M. is a latin bass and pop artist based in United States of America, tracked on soundcheck, with 18 sets logged across New York City. Often billed alongside Junior O. Next up: Boat - Liberty Belle, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | The Comic Strip (Comic Strip Live) | New York City |
-| Fri, 25 Sept 2026 | The Comic Strip (Comic Strip Live) | New York City |
 | Sat, 31 Oct 2026 | Boat - Liberty Belle | New York City |
 | Sat, 31 Oct 2026 | Boat - Liberty Belle | New York City |
 | Sat, 31 Oct 2026 | Boat - Liberty Belle | New York City |
@@ -18,17 +16,17 @@ DJ E.M. is a latin bass and pop artist based in United States of America, tracke
 
 ## Recently played
 
+- The Comic Strip (Comic Strip Live), New York City — Fri, 25 Sept 2026
+- The Comic Strip (Comic Strip Live), New York City — Fri, 25 Sept 2026
 - The Comic Strip (Comic Strip Live), New York City — Fri, 14 Aug 2026
 - The Comic Strip (Comic Strip Live), New York City — Fri, 7 Aug 2026
 - The Comic Strip (Comic Strip Live), New York City — Fri, 24 Jul 2026
 - TBA - Comic Strip Live, New York City — Fri, 24 Apr 2026
 - TBA - The Comic Strip (Comic Strip Live), New York City — Fri, 16 Jan 2026
 - TBA - The Comic Strip (Comic Strip Live), New York City — Fri, 9 Jan 2026
-- TBA - The Comic Strip, New York City — Fri, 19 Sept 2025
-- Pink Taco, New York City — Fri, 8 Dec 2023
 
 ## Shares bills with
 
 Junior O
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dje.m./)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dje.m./)*

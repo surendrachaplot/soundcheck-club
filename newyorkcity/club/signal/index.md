@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Earthdog presents: Evan Baggs, Inner Zone, Iggy P, djfix b2b Emkay, Mariposa, + more" on Fri, 25 Sept 2026.
+Signal is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Earthdog presents: Evan Baggs, Inner Zone, Iggy P, djfix b2b Emkay, Mariposa, + more" on Fri, 25 Sept 2026.
 
 Signal is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Signal is a music venue in New York City listed on soundcheck. 18 upcoming gigs,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

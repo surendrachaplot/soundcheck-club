@@ -1,18 +1,18 @@
 # DJ GÄP
 
-DJ GÄP is a Electronica and Ballroom artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
+DJ GÄP is a Electronica and Ballroom artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at National Gallery Prague, Prague on Fri, 25 Sept 2026.
 
-DJ GÄP is an electronica and ballroom artist based in Slovakia, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, London and Prague and 4 more. Often billed alongside Antonia XM, Genosidra and Kenji Araki. Next up: National Gallery Prague, Prague on Thu 24 Sept.
+DJ GÄP is an electronica and ballroom artist based in Slovakia, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, London and Prague and 4 more. Often billed alongside Antonia XM, Genosidra and Kenji Araki. Next up: National Gallery Prague, Prague on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | National Gallery Prague | Prague |
+| Fri, 25 Sept 2026 | National Gallery Prague | Prague |
 
 ## Recently played
 
-- National Gallery Prague, Prague — Thu, 24 Sept 2026
+- National Gallery Prague, Prague — Fri, 25 Sept 2026
 - Worm, Rotterdam — Sat, 9 May 2026
 - Razzmatazz, Barcelona — Fri, 13 Feb 2026
 - Cakeshop, Seoul — Sat, 13 Dec 2025
@@ -25,4 +25,4 @@ DJ GÄP is an electronica and ballroom artist based in Slovakia, tracked on soun
 
 Antonia XM, Genosidra, Kenji Araki
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgap/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgap/)*

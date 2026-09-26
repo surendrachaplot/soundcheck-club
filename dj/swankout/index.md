@@ -1,6 +1,6 @@
 # Swankout
 
-Swankout is a Jungle and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Electrowerkz, London on Sat, 17 Oct 2026.
+Swankout is a Jungle and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Electrowerkz, London on Sat, 17 Oct 2026.
 
 Swankout is a jungle and breakbeat artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Brighton, Bristol and London. Often billed alongside Pete Cannon, Arkyn and Billy Daniel Bunter. Next up: Electrowerkz, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Swankout is a jungle and breakbeat artist based in United Kingdom, tracked on so
 
 Pete Cannon, Arkyn, Billy Daniel Bunter
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swankout/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swankout/)*

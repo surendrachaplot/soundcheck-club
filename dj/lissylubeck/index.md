@@ -1,6 +1,6 @@
 # Lissy Lübeck
 
-Lissy Lübeck is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at fabric, London on Mon, 28 Dec 2026.
+Lissy Lübeck is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at fabric, London on Mon, 28 Dec 2026.
 
 Lissy Lübeck is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Ibiza and London. Often billed alongside Danny Howard, Sonny Fodera and Late Replies. Next up: fabric, London on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Lissy Lübeck is a tech house and house artist based in United Kingdom, tracked 
 
 Danny Howard, Sonny Fodera, Late Replies
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lissylubeck/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lissylubeck/)*

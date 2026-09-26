@@ -1,6 +1,6 @@
 # Andreas Henneberg
 
-Andreas Henneberg is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
+Andreas Henneberg is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
 Andreas Henneberg is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Cologne, Hamburg and Los Angeles and 8 more. Often billed alongside Beth Lydi, Maurice Mino and Konfusia. Next up: Südpol, Hamburg on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Andreas Henneberg is a techno and house artist based in Germany, tracked on soun
 
 Beth Lydi, Maurice Mino, Konfusia
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreashenneberg/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreashenneberg/)*

@@ -1,6 +1,6 @@
 # Things You Say
 
-Things You Say is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+Things You Say is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
 Things You Say is a house and disco artist based in United States of America, tracked on soundcheck, with 22 sets logged across Berlin, Los Angeles and New York City. Often billed alongside Heidi Lawden, Masha Mar and Dave Aju. Next up: TBA, Los Angeles on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Things You Say is a house and disco artist based in United States of America, tr
 
 Heidi Lawden, Masha Mar, Dave Aju
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thingsyousay/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thingsyousay/)*

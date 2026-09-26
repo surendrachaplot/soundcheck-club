@@ -1,6 +1,6 @@
 # Flits
 
-Flits is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
+Flits is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
 
 Flits is a techno and house artist based in Netherlands, tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Brussels and Cologne and 12 more. Often billed alongside Beau Didier, Isaiah (NL) and Lasse. Next up: Oma Doris, Dortmund Essen on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Flits is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 Beau Didier, Isaiah (NL), Lasse
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flits/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flits/)*

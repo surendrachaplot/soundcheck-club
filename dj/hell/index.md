@@ -1,14 +1,13 @@
 # DJ Hell
 
-DJ Hell is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Rex Club, Paris on Fri, 25 Sept 2026.
+DJ Hell is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Eventhuset, Stockholm on Sat, 26 Sept 2026.
 
-DJ Hell is a techno and house artist based in Germany, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Binh, Paty Vapor and Helena Hauff. Next up: Rex Club, Paris on Fri 25 Sept.
+DJ Hell is a techno and house artist based in Germany, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Binh, Paty Vapor and Helena Hauff. Next up: Eventhuset, Stockholm on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Rex Club | Paris |
 | Sat, 26 Sept 2026 | Eventhuset | Stockholm |
 | Sat, 10 Oct 2026 | The Art School | Glasgow |
 | Sat, 17 Oct 2026 | Fuse | Brussels |
@@ -20,6 +19,7 @@ DJ Hell is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
+- Rex Club, Paris — Fri, 25 Sept 2026
 - 528 Ibiza, Ibiza — Wed, 23 Sept 2026
 - Lux Fragil, Lisbon — Sat, 19 Sept 2026
 - Metropol, Berlin — Thu, 10 Sept 2026
@@ -27,10 +27,9 @@ DJ Hell is a techno and house artist based in Germany, tracked on soundcheck, wi
 - Boston Manor Park, London — Sat, 25 Jul 2026
 - The Golden Lion, Manchester — Fri, 24 Jul 2026
 - Tones Teatro Natura, Milan — Thu, 16 Jul 2026
-- Tokonoma Club, Frankfurt — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Binh, Paty Vapor, Helena Hauff
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*

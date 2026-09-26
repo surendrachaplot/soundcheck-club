@@ -1,13 +1,14 @@
 # Lee Foss
 
-Lee Foss is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sat, 17 Oct 2026.
+Lee Foss is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Chinois Ibiza, Ibiza on Sat, 3 Oct 2026.
 
-Lee Foss is a house and tech house artist based in United States of America, tracked on soundcheck, with 79 sets logged across Austin, Barcelona, Boston and Brisbane and 21 more. Often billed alongside Deeper Purpose, Sonny Fodera and ALISHA. Next up: The Great Northern, San Francisco/Oakland on Sat 17 Oct.
+Lee Foss is a house and tech house artist based in United States of America, tracked on soundcheck, with 80 sets logged across Austin, Barcelona, Boston and Brisbane and 21 more. Often billed alongside Deeper Purpose, Claptone and Sonny Fodera. Next up: Chinois Ibiza, Ibiza on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Chinois Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 17 Oct 2026 | The Great Northern | San Francisco/Oakland |
 
@@ -24,6 +25,6 @@ Lee Foss is a house and tech house artist based in United States of America, tra
 
 ## Shares bills with
 
-Deeper Purpose, Sonny Fodera, ALISHA
+Deeper Purpose, Claptone, Sonny Fodera
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leefoss/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leefoss/)*

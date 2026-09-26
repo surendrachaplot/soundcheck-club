@@ -1,6 +1,6 @@
 # Folamour
 
-Folamour is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Quai De Heembeek, Brussels on Tue, 29 Sept 2026.
+Folamour is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Quai De Heembeek, Brussels on Tue, 29 Sept 2026.
 
 Folamour is a house and disco artist based in France, tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Dan Shake, Seth Troxler and TSHA. Next up: TBA - Quai De Heembeek, Brussels on Tue 29 Sept.
 
@@ -29,4 +29,4 @@ Folamour is a house and disco artist based in France, tracked on soundcheck, wit
 
 Dan Shake, Seth Troxler, TSHA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*

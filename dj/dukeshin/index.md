@@ -1,8 +1,8 @@
 # Duke Shin
 
-Duke Shin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Le Nocturne, Chicago on Fri, 30 Oct 2026.
+Duke Shin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Le Nocturne, Chicago on Fri, 30 Oct 2026.
 
-Duke Shin is a house and techno artist based in United States of America, tracked on soundcheck, with 126 sets logged across Chicago, Detroit and San Diego. Often billed alongside Gene Hunt, Adorio and Merrick Brown. Next up: Le Nocturne, Chicago on Fri 30 Oct.
+Duke Shin is a house and techno artist based in United States of America, tracked on soundcheck, with 127 sets logged across Chicago, Detroit and San Diego. Often billed alongside Gene Hunt, Adorio and Merrick Brown. Next up: Le Nocturne, Chicago on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Duke Shin is a house and techno artist based in United States of America, tracke
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Le Nocturne | Chicago |
 | Sat, 31 Oct 2026 | Le Nocturne | Chicago |
+| Sat, 14 Nov 2026 | TBA | Chicago |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Duke Shin is a house and techno artist based in United States of America, tracke
 
 Gene Hunt, Adorio, Merrick Brown
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dukeshin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dukeshin/)*

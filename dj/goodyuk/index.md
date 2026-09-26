@@ -1,6 +1,6 @@
 # Goody (UK)
 
-Goody (UK) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
+Goody (UK) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
 
 Goody (UK) is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Ibiza, Leeds, London and Malta. Often billed alongside Sammy Porter, George Mensah and Tilli Murphy. Next up: Chelmsford City Racecourse, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Goody (UK) is a house and minimal artist based in United Kingdom, tracked on sou
 
 Sammy Porter, George Mensah, Tilli Murphy
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goodyuk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goodyuk/)*

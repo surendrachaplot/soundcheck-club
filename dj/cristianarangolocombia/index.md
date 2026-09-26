@@ -1,6 +1,6 @@
 # Cristian Arango
 
-Cristian Arango is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Musica Club NYC, New York City on Sat, 26 Sept 2026.
+Cristian Arango is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Musica Club NYC, New York City on Sat, 26 Sept 2026.
 
 Cristian Arango is a tech house and afro house artist based in United States of America, tracked on soundcheck, with 107 sets logged across Boston, Houston, Los Angeles and Miami and 2 more. Often billed alongside Oscar G, Anthony Lopez and Matt Martinez. Next up: Musica Club NYC, New York City on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Cristian Arango is a tech house and afro house artist based in United States of 
 
 Oscar G, Anthony Lopez, Matt Martinez
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianarangolocombia/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianarangolocombia/)*

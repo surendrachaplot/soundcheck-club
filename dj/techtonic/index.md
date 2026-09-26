@@ -1,6 +1,6 @@
 # TechTonic
 
-TechTonic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
+TechTonic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
 
 TechTonic is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and London. Often billed alongside NØA (DE), Filialleiter and DTEXX. Next up: Lokschuppen Berlin, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ TechTonic is a techno and house artist based in Germany, tracked on soundcheck, 
 
 NØA (DE), Filialleiter, DTEXX
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/techtonic/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/techtonic/)*

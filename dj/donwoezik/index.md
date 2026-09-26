@@ -1,6 +1,6 @@
 # Don Woezik
 
-Don Woezik is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Lehmann Club, Stuttgart on Fri, 2 Oct 2026.
+Don Woezik is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lehmann Club, Stuttgart on Fri, 2 Oct 2026.
 
 Don Woezik is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside 7CIRCLE, DIØN and Kander. Next up: Lehmann Club, Stuttgart on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Don Woezik is a techno and industrial artist based in Netherlands, tracked on so
 
 7CIRCLE, DIØN, Kander
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donwoezik/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donwoezik/)*

@@ -1,6 +1,6 @@
 # Matt Foley
 
-Matt Foley is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
+Matt Foley is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
 
 Matt Foley is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Berlin, Boston, Detroit and Mexico City and 2 more. Often billed alongside Andrew Licata, Dennis Anderson and Ion Ludwig. Next up: H0L0, New York City on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Matt Foley is a house and techno artist based in United States of America, track
 
 Andrew Licata, Dennis Anderson, Ion Ludwig
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattfoley/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattfoley/)*

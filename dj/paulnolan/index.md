@@ -1,6 +1,6 @@
 # Paul Nolan
 
-Paul Nolan is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Macarena Club, Barcelona on Thu, 15 Oct 2026.
+Paul Nolan is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Macarena Club, Barcelona on Thu, 15 Oct 2026.
 
 Paul Nolan is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Amsterdam, Barcelona, Buenos Aires and Newcastle. Often billed alongside AND(W)Y, Cris-H and Dan McKie. Next up: Macarena Club, Barcelona on Thu 15 Oct.
 
@@ -20,4 +20,4 @@ Paul Nolan is a house and progressive house artist based in United Kingdom, trac
 
 AND(W)Y, Cris-H, Dan McKie
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulnolan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulnolan/)*

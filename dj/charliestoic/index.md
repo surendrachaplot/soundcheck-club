@@ -1,6 +1,6 @@
 # Charlie Stoic
 
-Charlie Stoic is a Afrobeats and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Jam Jar, Bristol on Sat, 26 Sept 2026.
+Charlie Stoic is a Afrobeats and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Jam Jar, Bristol on Sat, 26 Sept 2026.
 
 Charlie Stoic is an afrobeats and baile funk artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Bristol. Often billed alongside Jonesy Wales, Atki2 and Azumei. Next up: The Jam Jar, Bristol on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Charlie Stoic is an afrobeats and baile funk artist based in United Kingdom, tra
 
 Jonesy Wales, Atki2, Azumei
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charliestoic/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charliestoic/)*

@@ -1,6 +1,6 @@
 # Merlin Cum
 
-Merlin Cum is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Renate, Berlin on Sat, 3 Oct 2026.
+Merlin Cum is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Renate, Berlin on Sat, 3 Oct 2026.
 
 Merlin Cum is a techno and industrial artist based in Latvia, tracked on soundcheck, with 19 sets logged across Berlin and Riga. Often billed alongside Freiya March, Marss The Person and BLEACH.LIVE. Next up: Renate, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Merlin Cum is a techno and industrial artist based in Latvia, tracked on soundch
 
 Freiya March, Marss The Person, BLEACH.LIVE
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merlincum/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merlincum/)*

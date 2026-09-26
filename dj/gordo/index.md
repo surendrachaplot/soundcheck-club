@@ -1,6 +1,6 @@
 # Gordo
 
-Gordo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 2 Oct 2026.
+Gordo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 2 Oct 2026.
 
 Gordo is a house and tech house artist based in Guatemala, tracked on soundcheck, with 111 sets logged across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Marco Carola, Wade and Andrea Oliva. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Gordo is a house and tech house artist based in Guatemala, tracked on soundcheck
 
 Marco Carola, Wade, Andrea Oliva
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo/)*

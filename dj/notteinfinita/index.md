@@ -1,6 +1,6 @@
 # Notte Infinita
 
-Notte Infinita is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Notte Infinita is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Notte Infinita is a techno and bass artist based in Italy, tracked on soundcheck, with 47 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Konduku, Marylou and OK EG. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Notte Infinita is a techno and bass artist based in Italy, tracked on soundcheck
 
 Konduku, Marylou, OK EG
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notteinfinita/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notteinfinita/)*

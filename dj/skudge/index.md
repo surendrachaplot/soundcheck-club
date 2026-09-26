@@ -1,6 +1,6 @@
 # Skudge
 
-Skudge is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Tresor / Globus, Berlin on Sat, 10 Oct 2026.
+Skudge is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tresor / Globus, Berlin on Sat, 10 Oct 2026.
 
 Skudge is an electronic artist based in Sweden, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, London and Munich and 1 more. Often billed alongside David Hornung, MARRØN and Richard Akingbehin. Next up: Tresor / Globus, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Skudge is an electronic artist based in Sweden, tracked on soundcheck, with 10 s
 
 David Hornung, MARRØN, Richard Akingbehin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skudge/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skudge/)*

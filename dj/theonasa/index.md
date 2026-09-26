@@ -1,6 +1,6 @@
 # Theo Nasa
 
-Theo Nasa is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Eutopia Whs, London on Sat, 26 Sept 2026.
+Theo Nasa is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Eutopia Whs, London on Sat, 26 Sept 2026.
 
 Theo Nasa is a techno and dub techno artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Basel and Berlin and 9 more. Often billed alongside 999999999, Antonio De Angelis and Azyr. Next up: Eutopia Whs, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Theo Nasa is a techno and dub techno artist based in United Kingdom, tracked on 
 
 999999999, Antonio De Angelis, Azyr
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theonasa/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theonasa/)*

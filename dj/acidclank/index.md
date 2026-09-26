@@ -1,13 +1,14 @@
 # Acidclank
 
-Acidclank is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Forestlimit, Tokyo on Sat, 10 Oct 2026.
+Acidclank is a Techno and IDM artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Forestlimit, Tokyo on Sat, 10 Oct 2026.
 
-Acidclank is a techno and idm artist based in Japan, tracked on soundcheck, with 27 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Alpha Decay, Espinoza and Hataken. Next up: Forestlimit, Tokyo on Sat 10 Oct.
+Acidclank is a techno and idm artist based in Japan, tracked on soundcheck, with 28 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Lewo Chyba, Alpha Decay and Big Animal Theory. Next up: Forestlimit, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Forestlimit | Tokyo |
 | Sat, 10 Oct 2026 | Forestlimit | Tokyo |
 
 ## Recently played
@@ -23,6 +24,6 @@ Acidclank is a techno and idm artist based in Japan, tracked on soundcheck, with
 
 ## Shares bills with
 
-Alpha Decay, Espinoza, Hataken
+Lewo Chyba, Alpha Decay, Big Animal Theory
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidclank/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidclank/)*

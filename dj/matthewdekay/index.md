@@ -1,6 +1,6 @@
 # Matthew Dekay
 
-Matthew Dekay is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Buda BXL, Brussels on Sat, 26 Sept 2026.
+Matthew Dekay is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Buda BXL, Brussels on Sat, 26 Sept 2026.
 
 Matthew Dekay is a house and techno artist tracked on soundcheck, with 20 sets logged across Amsterdam, Brussels, Budapest and Copenhagen and 8 more. Often billed alongside YokoO, Lee Burridge and S.A.M.. Next up: Buda BXL, Brussels on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Matthew Dekay is a house and techno artist tracked on soundcheck, with 20 sets l
 
 YokoO, Lee Burridge, S.A.M.
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdekay/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdekay/)*

@@ -1,6 +1,6 @@
 # AmyElle
 
-AmyElle is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Lower Third, London on Sat, 21 Nov 2026.
+AmyElle is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Lower Third, London on Sat, 21 Nov 2026.
 
 AmyElle is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Dundee and London. Often billed alongside Jesabel, Tommy Farrow and AVANTIME. Next up: The Lower Third, London on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ AmyElle is a house and progressive house artist based in United Kingdom, tracked
 
 Jesabel, Tommy Farrow, AVANTIME
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amyelle/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amyelle/)*

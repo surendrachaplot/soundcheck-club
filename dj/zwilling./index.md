@@ -1,6 +1,6 @@
 # zwilling.
 
-zwilling. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+zwilling. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
 
 zwilling. is a techno and trance artist based in Germany, tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Maitland Showground, Sydney on Fri 25 Sept.
 
@@ -18,6 +18,7 @@ zwilling. is a techno and trance artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- Maitland Showground, Sydney — Fri, 25 Sept 2026
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Thu, 24 Sept 2026
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Thu, 24 Sept 2026
 - Lokschuppen Berlin, Berlin — Fri, 18 Sept 2026
@@ -25,10 +26,9 @@ zwilling. is a techno and trance artist based in Germany, tracked on soundcheck,
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Lokschuppen Berlin, Berlin — Sat, 15 Aug 2026
 - Electrisize, Düsseldorf — Fri, 7 Aug 2026
-- TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
 
 ## Shares bills with
 
 Serafina, WILDERÍCH, Adrian Mills
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*

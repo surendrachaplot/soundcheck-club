@@ -1,6 +1,6 @@
 # Vico Deep
 
-Vico Deep is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Rastro Live Studio, Madrid on Sat, 26 Sept 2026.
+Vico Deep is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Rastro Live Studio, Madrid on Sat, 26 Sept 2026.
 
 Vico Deep is a progressive house and techno artist based in Spain, tracked on soundcheck, with 60 sets logged across Lisbon and Madrid. Often billed alongside Unai García, Javi Garza and 2Qimic. Next up: Rastro Live Studio, Madrid on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Vico Deep is a progressive house and techno artist based in Spain, tracked on so
 
 Unai García, Javi Garza, 2Qimic
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vicodeep/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vicodeep/)*

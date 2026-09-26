@@ -1,6 +1,6 @@
 # Level 8 DTLA
 
-Level 8 DTLA is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Official MTV Video Music Awards After Party at Level 8 in the Moxy Hotel" on Sun, 27 Sept 2026.
+Level 8 DTLA is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Official MTV Video Music Awards After Party at Level 8 in the Moxy Hotel" on Sun, 27 Sept 2026.
 
 Level 8 DTLA is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
 
@@ -15,4 +15,4 @@ Level 8 DTLA is a music venue in Los Angeles listed on soundcheck. 2 upcoming gi
 
 1254 S Figueroa St, Los Angeles, CA 90015, Los Angeles
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*

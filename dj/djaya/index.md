@@ -1,6 +1,6 @@
 # DJ AYA
 
-DJ AYA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Nitsa Club, Barcelona on Sat, 26 Sept 2026.
+DJ AYA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Nitsa Club, Barcelona on Sat, 26 Sept 2026.
 
 DJ AYA is a techno and house artist based in Switzerland, tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside DJ Fuckoff, Aaron Blau and DJ Gigola. Next up: Nitsa Club, Barcelona on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ DJ AYA is a techno and house artist based in Switzerland, tracked on soundcheck,
 
 DJ Fuckoff, Aaron Blau, DJ Gigola
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaya/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaya/)*

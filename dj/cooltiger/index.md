@@ -1,6 +1,6 @@
 # Cool Tiger
 
-Cool Tiger is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - DM for Info, Amsterdam on Sat, 10 Oct 2026.
+Cool Tiger is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - DM for Info, Amsterdam on Sat, 10 Oct 2026.
 
 Cool Tiger is a techno and breakbeat artist based in France, tracked on soundcheck, with 20 sets logged across Amsterdam. Often billed alongside Jack Fresia, Elisa Batti and Marco Ramos. Next up: TBA - DM for Info, Amsterdam on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Cool Tiger is a techno and breakbeat artist based in France, tracked on soundche
 
 Jack Fresia, Elisa Batti, Marco Ramos
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cooltiger/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cooltiger/)*

@@ -1,6 +1,6 @@
 # Mattana
 
-Mattana is a Afrobeat and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Golden Lion, Manchester on Sat, 10 Oct 2026.
+Mattana is a Afrobeat and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Golden Lion, Manchester on Sat, 10 Oct 2026.
 
 Mattana is an afrobeat and afrobeats artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bristol, London, Manchester and Sheffield. Often billed alongside DJ LIL-E, AALEX and AVANTIME. Next up: The Golden Lion, Manchester on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mattana is an afrobeat and afrobeats artist based in United Kingdom, tracked on 
 
 DJ LIL-E, AALEX, AVANTIME
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattana/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattana/)*

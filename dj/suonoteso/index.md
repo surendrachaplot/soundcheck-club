@@ -1,6 +1,6 @@
 # Suonoteso
 
-Suonoteso is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Tibidabo Area, Barcelona on Sat, 17 Oct 2026.
+Suonoteso is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Tibidabo Area, Barcelona on Sat, 17 Oct 2026.
 
 Suonoteso is a techno and house artist based in Italy, tracked on soundcheck, with 13 sets logged across Barcelona. Often billed alongside Elia Tebaldi, Thomas Kick and Ale Hope. Next up: TBA - Tibidabo Area, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Suonoteso is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 Elia Tebaldi, Thomas Kick (2), Ale Hope
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suonoteso/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suonoteso/)*

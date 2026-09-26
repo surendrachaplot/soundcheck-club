@@ -1,6 +1,6 @@
 # fora (2)
 
-fora (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+fora (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 fora is a techno and electronica artist based in Portugal, tracked on soundcheck, with 5 sets logged across Lisbon. Often billed alongside Gear, Jorge Caiado and Tíago. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ fora is a techno and electronica artist based in Portugal, tracked on soundcheck
 
 Gear, Jorge Caiado, Tíago
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fora-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fora-2/)*

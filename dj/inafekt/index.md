@@ -1,8 +1,8 @@
 # Inafekt
 
-Inafekt is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Night Tales Loft, London on Sat, 26 Sept 2026.
+Inafekt is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Night Tales Loft, London on Sat, 26 Sept 2026.
 
-Inafekt is a techno and house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 15 more. Often billed alongside Kyle Starkey, Entasia and DART. Next up: Night Tales Loft, London on Sat 26 Sept.
+Inafekt is a house and techno artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 15 more. Often billed alongside Kyle Starkey, Entasia and DART. Next up: Night Tales Loft, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Inafekt is a techno and house artist based in United Kingdom, tracked on soundch
 | Sat, 10 Oct 2026 | The Mash House | Edinburgh |
 | Thu, 22 Oct 2026 | Mondo | Madrid |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
+| Fri, 13 Nov 2026 | radial | London |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
@@ -29,4 +30,4 @@ Inafekt is a techno and house artist based in United Kingdom, tracked on soundch
 
 Kyle Starkey, Entasia, DART
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*

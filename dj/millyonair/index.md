@@ -1,6 +1,6 @@
 # Milly on Air
 
-Milly on Air is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Algha's Plantroom, London on Sat, 26 Sept 2026.
+Milly on Air is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Algha's Plantroom, London on Sat, 26 Sept 2026.
 
 Milly on Air is a house and techno artist based in United Kingdom, tracked on soundcheck, with 73 sets logged across Amsterdam, Brighton, Bristol and London and 2 more. Often billed alongside Gallegos, J.Rains and A For Alpha. Next up: Algha's Plantroom, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Milly on Air is a house and techno artist based in United Kingdom, tracked on so
 
 Gallegos, J.Rains, A For Alpha
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millyonair/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millyonair/)*

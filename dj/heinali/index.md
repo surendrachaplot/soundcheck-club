@@ -1,6 +1,6 @@
 # Heinali
 
-Heinali is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
+Heinali is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
 
 Heinali is an experimental and electronica artist based in Ukraine, tracked on soundcheck, with 26 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Andriana-Yaroslava Saienko, ojoo and aya. Next up: The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Heinali is an experimental and electronica artist based in Ukraine, tracked on s
 
 Andriana-Yaroslava Saienko, ojoo, aya
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heinali/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heinali/)*

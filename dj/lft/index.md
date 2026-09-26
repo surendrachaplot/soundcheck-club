@@ -1,14 +1,13 @@
 # L.F.T.
 
-L.F.T. is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+L.F.T. is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at export, Rotterdam on Fri, 2 Oct 2026.
 
-L.F.T. is a techno and electro artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside Festnacht, DJ MELL G and Afra. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
+L.F.T. is a techno and electro artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside Festnacht, DJ MELL G and Afra. Next up: export, Rotterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Laboral Ciudad de la Cultura | North |
 | Fri, 2 Oct 2026 | export | Rotterdam |
 | Sat, 3 Oct 2026 | TBA | Milan |
 | Fri, 16 Oct 2026 | Tresor / Globus | Berlin |
@@ -17,6 +16,7 @@ L.F.T. is a techno and electro artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
+- Laboral Ciudad de la Cultura, North — Fri, 25 Sept 2026
 - Mia Mao, Paris — Sat, 19 Sept 2026
 - Barraca, Valencia — Sat, 5 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Thu, 27 Aug 2026
@@ -24,10 +24,9 @@ L.F.T. is a techno and electro artist based in Germany, tracked on soundcheck, w
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - ÆDEN, Berlin — Fri, 19 Jun 2026
-- Sameheads, Berlin — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Festnacht, DJ MELL G, Afra
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*

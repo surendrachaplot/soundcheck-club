@@ -1,6 +1,6 @@
 # Wolf Auris
 
-Wolf Auris is a Tech House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Wolf Auris is a Tech House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 Wolf Auris is a tech house and garage artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Amsterdam and London. Often billed alongside Solartrak, Huck Finn and Ben Jammin. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Wolf Auris is a tech house and garage artist based in United Kingdom, tracked on
 
 Solartrak, Huck Finn, Ben Jammin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfauris/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfauris/)*

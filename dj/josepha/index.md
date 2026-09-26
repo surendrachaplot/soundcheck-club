@@ -1,6 +1,6 @@
 # Josepha
 
-Josepha is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 31 Oct 2026.
+Josepha is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 31 Oct 2026.
 
 Josepha is a house and deep house artist based in Germany, tracked on soundcheck, with 4 sets logged across Barcelona, Berlin and Paris. Often billed alongside ABI (FR), Aline Brooklyn and Automatic Writing. Next up: 303 Audiophile Bar, Barcelona on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Josepha is a house and deep house artist based in Germany, tracked on soundcheck
 
 ABI (FR), Aline Brooklyn, Automatic Writing
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josepha/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josepha/)*

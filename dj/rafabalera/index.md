@@ -1,6 +1,6 @@
 # Rafa Balera
 
-Rafa Balera is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Edifício Martinelli, Sao Paulo on Sat, 3 Oct 2026.
+Rafa Balera is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Edifício Martinelli, Sao Paulo on Sat, 3 Oct 2026.
 
 Rafa Balera is a house and disco artist based in Brazil, tracked on soundcheck, with 33 sets logged across Berlin, Lisbon and Sao Paulo. Often billed alongside Mirands, From House to Disco and Paulete Lindacelva. Next up: Edifício Martinelli, Sao Paulo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Rafa Balera is a house and disco artist based in Brazil, tracked on soundcheck, 
 
 Mirands, From House to Disco, Paulete Lindacelva
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabalera/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabalera/)*

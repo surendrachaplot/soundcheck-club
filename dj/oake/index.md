@@ -1,6 +1,6 @@
 # OAKE
 
-OAKE is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
+OAKE is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
 
 OAKE is a techno and breakbeat artist based in Germany, tracked on soundcheck, with 13 sets logged across Athens, Berlin, Birmingham and Leipzig and 1 more. Often billed alongside Samuel Kerridge, Rangelova and Regis. Next up: Tunnel Club, Birmingham on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ OAKE is a techno and breakbeat artist based in Germany, tracked on soundcheck, w
 
 Samuel Kerridge, Rangelova, Regis
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oake/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oake/)*

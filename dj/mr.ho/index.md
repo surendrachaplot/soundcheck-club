@@ -1,30 +1,29 @@
 # Mr. Ho
 
-Mr. Ho is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 宀 Club, Hong Kong on Fri, 25 Sept 2026.
+Mr. Ho is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Somewhere in the Mountains., Bali on Fri, 25 Sept 2026.
 
-Mr. Ho is a house and techno artist based in China, tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Auckland and Bali and 36 more. Often billed alongside Luca Lozano, Wada Yosuke and Mogwaa. Next up: 宀 Club, Hong Kong on Fri 25 Sept.
+Mr. Ho is a house and techno artist based in China, tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Auckland and Bali and 36 more. Often billed alongside Luca Lozano, Wada Yosuke and Mogwaa. Next up: Somewhere in the Mountains., Bali on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | 宀 Club | Hong Kong |
 | Fri, 25 Sept 2026 | Somewhere in the Mountains. | Bali |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
 ## Recently played
 
+- 宀 Club, Hong Kong — Fri, 25 Sept 2026
+- Somewhere in the Mountains., Bali — Fri, 25 Sept 2026
 - Outer Heaven, New York City — Sat, 19 Sept 2026
 - Outer Heaven, New York City — Fri, 18 Sept 2026
 - Hertz, Seoul — Sat, 29 Aug 2026
 - 宀 Club, Hong Kong — Fri, 28 Aug 2026
 - WOMB, Tokyo — Sat, 22 Aug 2026
 - Circus Osaka, Osaka — Sat, 8 Aug 2026
-- The Love Inn, Bristol — Fri, 31 Jul 2026
-- Platforma Wolff, Bucharest — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Luca Lozano, Wada Yosuke, Mogwaa
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*

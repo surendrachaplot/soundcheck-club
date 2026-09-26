@@ -1,6 +1,6 @@
 # Captain Wallop
 
-Captain Wallop is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Kapsule, Liverpool on Sat, 26 Sept 2026.
+Captain Wallop is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kapsule, Liverpool on Sat, 26 Sept 2026.
 
 Captain Wallop is a garage and house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 12 more. Often billed alongside RTK Tarantino, DAISY and MADVILLA. Next up: Kapsule, Liverpool on Sat 26 Sept.
 
@@ -34,4 +34,4 @@ Captain Wallop is a garage and house artist based in United Kingdom, tracked on 
 
 RTK Tarantino, DAISY, MADVILLA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*

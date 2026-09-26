@@ -1,6 +1,6 @@
 # Jan Nedved
 
-Jan Nedved is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Radost FX, Prague on Sat, 7 Nov 2026.
+Jan Nedved is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Radost FX, Prague on Sat, 7 Nov 2026.
 
 Jan Nedved is a house and progressive house artist based in Czech Republic, tracked on soundcheck, with 21 sets logged across Budapest and Prague. Often billed alongside ASCENDER, Hiro and thats.me.andrew. Next up: Radost FX, Prague on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Jan Nedved is a house and progressive house artist based in Czech Republic, trac
 
 ASCENDER, Hiro, thats.me.andrew
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jannedved/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jannedved/)*

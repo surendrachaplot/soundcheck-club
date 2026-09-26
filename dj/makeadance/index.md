@@ -1,14 +1,13 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hope House, Leeds on Fri, 25 Sept 2026.
+Make A Dance is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
 
-Make A Dance is a house and disco artist based in United Kingdom, tracked on soundcheck, with 124 sets logged across Amsterdam, Auckland, Bali and Bangkok and 29 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Hope House, Leeds on Fri 25 Sept.
+Make A Dance is a house and disco artist based in United Kingdom, tracked on soundcheck, with 124 sets logged across Amsterdam, Auckland, Bali and Bangkok and 29 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Hope House | Leeds |
 | Sat, 26 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 2 Oct 2026 | Yellow Arch Studios | Sheffield |
 | Fri, 9 Oct 2026 | Night Tales | London |
@@ -20,9 +19,11 @@ Make A Dance is a house and disco artist based in United Kingdom, tracked on sou
 | Fri, 30 Oct 2026 | The Golden Lion | Manchester |
 | Fri, 13 Nov 2026 | Outer Heaven | New York City |
 | Sat, 14 Nov 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
+| Sat, 28 Nov 2026 | Azimut Club | Turin |
 
 ## Recently played
 
+- Hope House, Leeds — Fri, 25 Sept 2026
 - La Terrrazza, Barcelona — Wed, 23 Sept 2026
 - Gingerino's Pizza, Newcastle — Sat, 19 Sept 2026
 - Palais, London — Fri, 28 Aug 2026
@@ -30,10 +31,9 @@ Make A Dance is a house and disco artist based in United Kingdom, tracked on sou
 - Patterns, Brighton — Sat, 25 Jul 2026
 - BRET, Amsterdam — Fri, 3 Jul 2026
 - NUMBER 90 LONDON, London — Thu, 2 Jul 2026
-- Hidden, Manchester — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Paula Tape, Tash LC, Thom Parris
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*

@@ -1,6 +1,6 @@
 # Brianathegemini
 
-Brianathegemini is a Techno and Guaracha artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Meteoro, Barcelona on Sat, 26 Sept 2026.
+Brianathegemini is a Techno and Guaracha artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Meteoro, Barcelona on Sat, 26 Sept 2026.
 
 Brianathegemini is a techno and guaracha artist based in Portugal, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Lisbon and London and 1 more. Often billed alongside Arbor, Ecstasya and Slimfit. Next up: Meteoro, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Brianathegemini is a techno and guaracha artist based in Portugal, tracked on so
 
 Arbor, Ecstasya, Slimfit
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brianathegemini/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brianathegemini/)*

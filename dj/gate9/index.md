@@ -1,6 +1,6 @@
 # Gate 9
 
-Gate 9 is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 10 Oct 2026.
+Gate 9 is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 10 Oct 2026.
 
 Gate 9 is an electro and house artist based in France, tracked on soundcheck, with 8 sets logged across Amsterdam, Brussels and Paris. Often billed alongside BENUR, Saul and DJ Rino. Next up: Shelter Amsterdam, Amsterdam on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Gate 9 is an electro and house artist based in France, tracked on soundcheck, wi
 
 BENUR, Saul (2), DJ Rino
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gate9/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gate9/)*

@@ -1,8 +1,8 @@
 # Markie
 
-Markie is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Underground SF, San Francisco/Oakland on Sat, 21 Nov 2026.
+Markie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Underground SF, San Francisco/Oakland on Sat, 21 Nov 2026.
 
-Markie is a techno and experimental artist based in United States of America, tracked on soundcheck, with 7 sets logged across Los Angeles, San Francisco/Oakland and Thailand. Often billed alongside MILANA, Midnight Climax and 9-System. Next up: Underground SF, San Francisco/Oakland on Sat 21 Nov.
+Markie is a techno and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Los Angeles, San Francisco/Oakland and Thailand. Often billed alongside MILANA, Midnight Climax and 9-System. Next up: Underground SF, San Francisco/Oakland on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Markie is a techno and experimental artist based in United States of America, tr
 
 ## Recently played
 
+- TBA - San Francisco, San Francisco/Oakland — Fri, 25 Sept 2026
 - The Whitley, Los Angeles — Wed, 9 Sept 2026
 - Monument SF, San Francisco/Oakland — Sat, 18 Apr 2026
 - Underground SF, San Francisco/Oakland — Sat, 7 Feb 2026
@@ -23,4 +24,4 @@ Markie is a techno and experimental artist based in United States of America, tr
 
 MILANA, Midnight Climax, 9-System
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markie/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markie/)*

@@ -1,6 +1,6 @@
 # Kiyoshi
 
-Kiyoshi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Green Room NYC, New York City on Sat, 26 Sept 2026.
+Kiyoshi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Green Room NYC, New York City on Sat, 26 Sept 2026.
 
 Kiyoshi is a house and techno artist based in United States of America, tracked on soundcheck, with 113 sets logged across Los Angeles, New York City, Osaka and Tbilisi and 2 more. Often billed alongside Armii1n, Chuwee and Morgan. Next up: Green Room NYC, New York City on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Kiyoshi is a house and techno artist based in United States of America, tracked 
 
 Armii1n, Chuwee, Morgan
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiyoshi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiyoshi/)*

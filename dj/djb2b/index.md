@@ -1,6 +1,6 @@
 # DJ B2B
 
-DJ B2B is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Daikanyama ORD., Tokyo on Sun, 11 Oct 2026.
+DJ B2B is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Daikanyama ORD., Tokyo on Sun, 11 Oct 2026.
 
 DJ B2B is a hip-hop and techno artist based in Mexico, tracked on soundcheck, with 212 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 24 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: Daikanyama ORD., Tokyo on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ DJ B2B is a hip-hop and techno artist based in Mexico, tracked on soundcheck, wi
 
 Mori, ATAMI, Fig (DYN)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*

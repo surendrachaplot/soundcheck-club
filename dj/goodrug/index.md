@@ -1,6 +1,6 @@
 # Goodrug
 
-Goodrug is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Feat.Barona, Milan on Sat, 17 Oct 2026.
+Goodrug is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Feat.Barona, Milan on Sat, 17 Oct 2026.
 
 Goodrug is a techno and acid artist based in Japan, tracked on soundcheck, with 79 sets logged across Brisbane, Milan and Osaka. Often billed alongside Rikuto, KCD(JP) and FENGX2. Next up: Feat.Barona, Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Goodrug is a techno and acid artist based in Japan, tracked on soundcheck, with 
 
 Rikuto, KCD(JP), FENGX2
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goodrug/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goodrug/)*

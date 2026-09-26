@@ -1,6 +1,6 @@
 # Guy Williams
 
-Guy Williams is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Guy Williams is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 Guy Williams is a house and disco artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Barcelona, Ibiza, London and Manchester and 2 more. Often billed alongside Jo Mills, S/A/M and DJ Paulette. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Guy Williams is a house and disco artist based in United Kingdom, tracked on sou
 
 Jo Mills, S/A/M, DJ Paulette
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*

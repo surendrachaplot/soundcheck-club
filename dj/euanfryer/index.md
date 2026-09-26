@@ -1,6 +1,6 @@
 # Euan Fryer
 
-Euan Fryer is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Cafe 1001, London on Fri, 30 Oct 2026.
+Euan Fryer is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cafe 1001, London on Fri, 30 Oct 2026.
 
 Euan Fryer is a disco and funk / soul artist tracked on soundcheck, with 27 sets logged across Edinburgh, Glasgow, Ibiza and London and 1 more. Often billed alongside Lel Palfrey, Athens of the North and Adam Pits. Next up: Cafe 1001, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Euan Fryer is a disco and funk / soul artist tracked on soundcheck, with 27 sets
 
 Lel Palfrey, Athens of the North, Adam Pits
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/euanfryer/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/euanfryer/)*

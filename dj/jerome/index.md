@@ -1,6 +1,6 @@
 # Jerome
 
-Jerome is a Electro and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bootshaus, Cologne on Sat, 31 Oct 2026.
+Jerome is a Electro and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bootshaus, Cologne on Sat, 31 Oct 2026.
 
 Jerome is an electro and hip-hop artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 1 more. Often billed alongside Lilly Palmer, A.D.H.S. and A.N.I.. Next up: Bootshaus, Cologne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jerome is an electro and hip-hop artist based in Germany, tracked on soundcheck,
 
 Lilly Palmer, A.D.H.S., A.N.I.
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jerome/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jerome/)*

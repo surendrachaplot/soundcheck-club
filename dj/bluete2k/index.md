@@ -1,6 +1,6 @@
 # bluete2k
 
-bluete2k is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Studio 1111, Berlin on Sat, 26 Sept 2026.
+bluete2k is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Studio 1111, Berlin on Sat, 26 Sept 2026.
 
 bluete2k is a house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Paris. Often billed alongside Kean Farrar, Dj Vacances and Glen S. Next up: Studio 1111, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ bluete2k is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Kean Farrar, Dj Vacances, Glen S
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bluete2k/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bluete2k/)*

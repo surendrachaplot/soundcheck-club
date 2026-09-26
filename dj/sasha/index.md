@@ -1,6 +1,6 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at BERHTA, Washington DC on Sat, 26 Sept 2026.
+Sasha is a Progressive House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at BERHTA, Washington DC on Sat, 26 Sept 2026.
 
 Sasha is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 47 more. Often billed alongside John Digweed, Franky Wah and Nick Warren. Next up: BERHTA, Washington DC on Sat 26 Sept.
 
@@ -32,4 +32,4 @@ Sasha is a progressive house and techno artist based in United Kingdom, tracked 
 
 John Digweed, Franky Wah, Nick Warren
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*

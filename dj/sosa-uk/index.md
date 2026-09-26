@@ -1,6 +1,6 @@
 # SOSA (UK)
 
-SOSA (UK) is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Colorado Charlie, The Hague on Sat, 26 Sept 2026.
+SOSA (UK) is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Colorado Charlie, The Hague on Sat, 26 Sept 2026.
 
 SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 110 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Colorado Charlie, The Hague on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on s
 
 East End Dubs, Max Dean, Fleur Shore
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*

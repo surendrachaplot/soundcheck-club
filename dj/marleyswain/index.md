@@ -1,6 +1,6 @@
 # Marley Swain
 
-Marley Swain is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
+Marley Swain is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
 
 Marley Swain is an electronica and house artist based in Australia, tracked on soundcheck, with 17 sets logged across Melbourne. Often billed alongside Pjenné, Kate Miller and Andy Hart. Next up: Northcote Theatre, Melbourne on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Marley Swain is an electronica and house artist based in Australia, tracked on s
 
 Pjenné, Kate Miller, Andy Hart
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyswain/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyswain/)*

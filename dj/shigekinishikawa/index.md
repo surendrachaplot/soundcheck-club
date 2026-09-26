@@ -1,6 +1,6 @@
 # SHIGEKI NISHIKAWA
 
-SHIGEKI NISHIKAWA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at ZEROTOKYO, Tokyo on Sat, 3 Oct 2026.
+SHIGEKI NISHIKAWA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ZEROTOKYO, Tokyo on Sat, 3 Oct 2026.
 
 SHIGEKI NISHIKAWA is a techno and house artist based in Japan, tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside AY, DADO and TAKUTO. Next up: ZEROTOKYO, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ SHIGEKI NISHIKAWA is a techno and house artist based in Japan, tracked on soundc
 
 AY (10), DADO, TAKUTO (2)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shigekinishikawa/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shigekinishikawa/)*

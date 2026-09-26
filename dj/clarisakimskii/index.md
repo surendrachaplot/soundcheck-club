@@ -1,6 +1,6 @@
 # Clarisa Kimskii
 
-Clarisa Kimskii is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Kilomètre25, Paris on Sat, 26 Sept 2026.
+Clarisa Kimskii is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kilomètre25, Paris on Sat, 26 Sept 2026.
 
 Clarisa Kimskii is a techno and house artist based in United States of America, tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: Kilomètre25, Paris on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Clarisa Kimskii is a techno and house artist based in United States of America, 
 
 Ne/Re/A, Mike Servito, Wata Igarashi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*

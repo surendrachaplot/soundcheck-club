@@ -1,6 +1,6 @@
 # Cordell Johnson
 
-Cordell Johnson is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Nighthawk, Chicago on Sat, 26 Sept 2026.
+Cordell Johnson is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Nighthawk, Chicago on Sat, 26 Sept 2026.
 
 Cordell Johnson is a deep house and disco artist tracked on soundcheck, with 91 sets logged across Amsterdam, Chicago, Detroit and Lisbon and 2 more. Often billed alongside James Vincent, Lorenzo Dewberry and CTRLZORA. Next up: Nighthawk, Chicago on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Cordell Johnson is a deep house and disco artist tracked on soundcheck, with 91 
 
 James Vincent, Lorenzo Dewberry, CTRLZORA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cordelljohnson/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cordelljohnson/)*

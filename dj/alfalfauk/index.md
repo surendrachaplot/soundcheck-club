@@ -1,6 +1,6 @@
 # ALFALFA (UK)
 
-ALFALFA (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at fi, Cologne on Fri, 16 Oct 2026.
+ALFALFA (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at fi, Cologne on Fri, 16 Oct 2026.
 
 ALFALFA (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Berlin, Cologne, London and Sheffield. Often billed alongside HORN-E, Gorgeous George and Carl Bergé. Next up: fi, Cologne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ALFALFA (UK) is a house and techno artist based in United Kingdom, tracked on so
 
 HORN-E, Gorgeous George, Carl Bergé
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfalfauk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfalfauk/)*

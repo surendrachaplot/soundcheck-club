@@ -1,6 +1,6 @@
 # Schorli
 
-Schorli is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at ://about blank, Berlin on Sat, 3 Oct 2026.
+Schorli is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at ://about blank, Berlin on Sat, 3 Oct 2026.
 
 Schorli is a house and trance artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin. Often billed alongside CHOREOPHILA, Stefoon and krawallwitz. Next up: ://about blank, Berlin on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Schorli is a house and trance artist based in Germany, tracked on soundcheck, wi
 
 CHOREOPHILA, Stefoon, krawallwitz
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schorli/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schorli/)*

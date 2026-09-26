@@ -1,6 +1,6 @@
 # FennX
 
-FennX is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Entrepôts Dominion, Les, Montreal on Fri, 6 Nov 2026.
+FennX is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Entrepôts Dominion, Les, Montreal on Fri, 6 Nov 2026.
 
 FennX is a techno and industrial artist tracked on soundcheck, with 15 sets logged across Antwerp, Berlin, Dublin and Geneva and 7 more. Often billed alongside YPF, 333CXT and 7AZ. Next up: Entrepôts Dominion, Les, Montreal on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ FennX is a techno and industrial artist tracked on soundcheck, with 15 sets logg
 
 YPF, 333CXT, 7AZ (1)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fennx/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fennx/)*

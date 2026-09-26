@@ -1,6 +1,6 @@
 # Deer Jade
 
-Deer Jade is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cova Santa, Ibiza on Fri, 2 Oct 2026.
+Deer Jade is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cova Santa, Ibiza on Fri, 2 Oct 2026.
 
 Deer Jade is a house and techno artist based in Switzerland, tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Austin and Bali and 30 more. Often billed alongside Adriatique, Ben Böhmer and LP Giobbi. Next up: Cova Santa, Ibiza on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Deer Jade is a house and techno artist based in Switzerland, tracked on soundche
 
 Adriatique, Ben Böhmer, LP Giobbi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*

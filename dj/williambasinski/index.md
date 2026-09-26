@@ -1,6 +1,6 @@
 # William Basinski
 
-William Basinski is a Ambient and Experimental artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at First Unitarian Church, Philadelphia on Sat, 7 Nov 2026.
+William Basinski is a Ambient and Experimental artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at First Unitarian Church, Philadelphia on Sat, 7 Nov 2026.
 
 William Basinski is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Basel, Belgrade and Berlin and 25 more. Often billed alongside Buttechno, Chantal Michelle and Dasha Rush. Next up: First Unitarian Church, Philadelphia on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ William Basinski is an ambient and experimental artist based in United States of
 
 Buttechno, Chantal Michelle, Dasha Rush
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/williambasinski/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/williambasinski/)*

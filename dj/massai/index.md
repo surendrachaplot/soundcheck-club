@@ -1,6 +1,6 @@
 # Massaï
 
-Massaï is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Hasta La Vista, Baby, Amsterdam on Sun, 25 Oct 2026.
+Massaï is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Hasta La Vista, Baby, Amsterdam on Sun, 25 Oct 2026.
 
 Massaï is a house and electro artist based in United Kingdom, tracked on soundcheck, with 88 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 27 more. Often billed alongside LAMALICE, Gabriel Belabbas and Man/Ipulate. Next up: Hasta La Vista, Baby, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Massaï is a house and electro artist based in United Kingdom, tracked on soundc
 
 LAMALICE, Gabriel Belabbas, Man/Ipulate
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massai/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massai/)*

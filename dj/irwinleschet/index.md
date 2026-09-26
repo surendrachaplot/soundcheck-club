@@ -1,6 +1,6 @@
 # Irwin Leschet
 
-Irwin Leschet is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Subway, Cologne on Sat, 3 Oct 2026.
+Irwin Leschet is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Subway, Cologne on Sat, 3 Oct 2026.
 
 Irwin Leschet is a techno and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Cologne. Often billed alongside Air Liquide, Bob Humid and Criss Source. Next up: Subway, Cologne on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Irwin Leschet is a techno and house artist based in Germany, tracked on soundche
 
 Air Liquide, Bob Humid, Criss Source
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irwinleschet/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irwinleschet/)*

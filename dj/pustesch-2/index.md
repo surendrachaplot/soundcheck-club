@@ -1,6 +1,6 @@
 # Pustesch
 
-Pustesch is a Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Studionotte, Milan on Sat, 3 Oct 2026.
+Pustesch is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Studionotte, Milan on Sat, 3 Oct 2026.
 
 Pustesch is a tech house artist tracked on soundcheck, with 9 sets logged across Milan. Often billed alongside SKIA, Carloalberto and Fabio Monesi. Next up: Studionotte, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Pustesch is a tech house artist tracked on soundcheck, with 9 sets logged across
 
 SKIA, Carloalberto, Fabio Monesi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pustesch-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pustesch-2/)*

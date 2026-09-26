@@ -1,6 +1,6 @@
 # Zepha
 
-Zepha is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+Zepha is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
 
 Zepha is a house and downtempo artist tracked on soundcheck, with 34 sets logged across Mexico City, Montreal and Paris. Often billed alongside Rig Thrall, Claire and GOLDEN PINEAPPLE. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Zepha is a house and downtempo artist tracked on soundcheck, with 34 sets logged
 
 Rig Thrall, Claire, GOLDEN PINEAPPLE
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zepha/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zepha/)*

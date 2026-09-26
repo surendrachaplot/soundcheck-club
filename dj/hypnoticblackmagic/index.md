@@ -1,6 +1,6 @@
 # Hypnotic Black Magic
 
-Hypnotic Black Magic is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ruby Room, Tokyo on Mon, 28 Sept 2026.
+Hypnotic Black Magic is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ruby Room, Tokyo on Mon, 28 Sept 2026.
 
 Hypnotic Black Magic is a techno and ambient artist based in Germany, tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Bali and Bangkok and 20 more. Often billed alongside Luis FMR, Andrea Cossu and Lateral Movement. Next up: Ruby Room, Tokyo on Mon 28 Sept.
 
@@ -25,4 +25,4 @@ Hypnotic Black Magic is a techno and ambient artist based in Germany, tracked on
 
 Luis FMR, Andrea Cossu, Lateral Movement
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoticblackmagic/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoticblackmagic/)*

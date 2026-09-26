@@ -1,6 +1,6 @@
 # Flash Gea
 
-Flash Gea is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
+Flash Gea is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 Flash Gea is a techno and trance artist based in United States of America, tracked on soundcheck, with 25 sets logged across Chicago, Miami, New York City and Philadelphia and 4 more. Often billed alongside Conrad Taylor, girl_irl and AMAYAH. Next up: Public Works, San Francisco/Oakland on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Flash Gea is a techno and trance artist based in United States of America, track
 
 Conrad Taylor, girl_irl, AMAYAH
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*

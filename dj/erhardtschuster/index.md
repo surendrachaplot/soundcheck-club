@@ -1,6 +1,6 @@
 # Erhardt Schuster
 
-Erhardt Schuster is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Forge, Bucharest on Fri, 2 Oct 2026.
+Erhardt Schuster is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Forge, Bucharest on Fri, 2 Oct 2026.
 
 Erhardt Schuster is a house and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Bucharest, Hamburg and Munich. Often billed alongside Hans Hammer, Surreal (DE) and Finona Rider. Next up: Forge, Bucharest on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Erhardt Schuster is a house and techno artist based in Germany, tracked on sound
 
 Hans Hammer, Surreal (DE), Finona Rider
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erhardtschuster/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erhardtschuster/)*

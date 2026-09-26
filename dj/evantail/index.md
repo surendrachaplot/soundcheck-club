@@ -1,6 +1,6 @@
 # Evan Tail
 
-Evan Tail is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Kater, Berlin on Fri, 27 Nov 2026.
+Evan Tail is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Kater, Berlin on Fri, 27 Nov 2026.
 
 Evan Tail is a house and techno artist based in France, tracked on soundcheck, with 28 sets logged across Berlin, Chicago, New York City and Strasbourg and 1 more. Often billed alongside Dima Roas, Ady Toledano and El Kazed. Next up: Kater, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Evan Tail is a house and techno artist based in France, tracked on soundcheck, w
 
 Dima Roas, Ady Toledano, El Kazed
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evantail/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evantail/)*

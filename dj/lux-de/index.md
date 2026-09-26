@@ -1,6 +1,6 @@
 # Lux.
 
-Lux. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bassiani, Tbilisi on Fri, 25 Sept 2026.
+Lux. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bassiani, Tbilisi on Fri, 25 Sept 2026.
 
 Lux. is a techno and house artist based in Germany, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 2 more. Often billed alongside Boyá, Sevensol and Victor (DE). Next up: Bassiani, Tbilisi on Fri 25 Sept.
 
@@ -13,6 +13,7 @@ Lux. is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
+- Bassiani, Tbilisi — Fri, 25 Sept 2026
 - TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
 - Bijhuub, Amsterdam — Sat, 13 Jun 2026
 - Malzfabrik, Berlin — Sat, 6 Jun 2026
@@ -20,10 +21,9 @@ Lux. is a techno and house artist based in Germany, tracked on soundcheck, with 
 - Kauz, Zurich — Sat, 7 Feb 2026
 - Conne Island, Leipzig — Sat, 23 Aug 2025
 - Bungalowdorf Olganitz, Leipzig — Fri, 1 Aug 2025
-- ://about blank, Berlin — Fri, 11 Jul 2025
 
 ## Shares bills with
 
 Boyá, Sevensol, Victor (DE)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lux-de/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lux-de/)*

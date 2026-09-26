@@ -1,6 +1,6 @@
 # Dr Meaker
 
-Dr Meaker is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Soup, Manchester on Sat, 10 Oct 2026.
+Dr Meaker is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Soup, Manchester on Sat, 10 Oct 2026.
 
 Dr Meaker is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Brighton, Bristol and Copenhagen and 5 more. Often billed alongside Inja, Jazzheadchronic and ALIBI. Next up: Soup, Manchester on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Dr Meaker is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 Inja, Jazzheadchronic, ALIBI
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drmeaker/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drmeaker/)*

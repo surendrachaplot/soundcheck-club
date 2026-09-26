@@ -1,6 +1,6 @@
 # Linear System (CR)
 
-Linear System (CR) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Feat.Barona, Milan on Sat, 17 Oct 2026.
+Linear System (CR) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Feat.Barona, Milan on Sat, 17 Oct 2026.
 
 Linear System (CR) is a techno and industrial artist based in Costa Rica, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Jiho, Dani Savant and Kojiro. Next up: Feat.Barona, Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Linear System (CR) is a techno and industrial artist based in Costa Rica, tracke
 
 Jiho, Dani Savant, Kojiro
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linearsystem-cr/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linearsystem-cr/)*

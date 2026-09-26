@@ -1,6 +1,6 @@
 # Will Jack
 
-Will Jack is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun, 27 Sept 2026.
+Will Jack is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 Will Jack is a house and techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across New York City, Portland and San Francisco/Oakland. Often billed alongside Giovannii, Sevyn Love and DJ DEADNAME. Next up: TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Will Jack is a house and techno artist based in United States of America, tracke
 
 Giovannii, Sevyn Love, DJ DEADNAME
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willjack/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willjack/)*

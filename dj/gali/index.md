@@ -1,6 +1,6 @@
 # GALI
 
-GALI is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
+GALI is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
 
 GALI is a house and minimal techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Miami and New York City. Often billed alongside Adam Bogdan, Ro Rousseau and Atomyard. Next up: TBA - Miami, Miami on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ GALI is a house and minimal techno artist based in United States of America, tra
 
 Adam Bogdan, Ro Rousseau, Atomyard
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gali/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gali/)*

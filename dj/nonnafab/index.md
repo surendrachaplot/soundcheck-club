@@ -1,6 +1,6 @@
 # Nonna Fab
 
-Nonna Fab is a Funk / Soul and Jazz artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cobalt Studios, Newcastle on Sat, 26 Sept 2026.
+Nonna Fab is a Funk / Soul and Jazz artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cobalt Studios, Newcastle on Sat, 26 Sept 2026.
 
 Nonna Fab is a funk / soul and jazz artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Cardiff, Leeds, Liverpool and London and 4 more. Often billed alongside Joi La Frique, Sirrey and Wow & Flutter. Next up: Cobalt Studios, Newcastle on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Nonna Fab is a funk / soul and jazz artist based in United Kingdom, tracked on s
 
 Joi La Frique, Sirrey, Wow & Flutter
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonnafab/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonnafab/)*

@@ -1,14 +1,13 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 17 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Freshly Baked - Basement Rave" on Fri, 25 Sept 2026.
+Patterns is a music venue in Brighton with 16 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Boudica Goes to Brighton with Boris (Berghain / Brighton Debut), Samantha Togni, Yiota" on Sat, 26 Sept 2026.
 
-Patterns is a music venue in Brighton listed on soundcheck. 17 upcoming gigs, with line-ups including Boris, Dusky, George FitzGerald and Girls of the Internet and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
+Patterns is a music venue in Brighton listed on soundcheck. 16 upcoming gigs, with line-ups including Boris, Dusky, George FitzGerald and Girls of the Internet and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Freshly Baked - Basement Rave | INKY MCKAY, Ned Spencer (2), RACH!, STEADY |
 | Sat, 26 Sept 2026 | Boudica Goes to Brighton with Boris (Berghain / Brighton Debut), Samantha Togni, Yiota | Boris, Samantha Togni, SuperCLAUD, Yiota |
 | Fri, 2 Oct 2026 | club 2010: Freshers 2016 |  |
 | Sun, 4 Oct 2026 | Brighton Sundae with WheelUP | WheelUP |
@@ -18,9 +17,10 @@ Patterns is a music venue in Brighton listed on soundcheck. 17 upcoming gigs, wi
 | Sat, 24 Oct 2026 | p-rallel: Nevermind UK Tour | p-rallel |
 | Fri, 30 Oct 2026 | Dansu Discs: Lucas Alexander, RTK Tarantino, Lauren Steel | Lauren Steel, Lucas Alexander, RTK Tarantino |
 | Sat, 31 Oct 2026 | Dusky - All Day Long - Signals Tour | Dusky |
+| Sun, 1 Nov 2026 | Brighton Sundae with Marcia Carr | Marcia Carr |
 
 ## Address
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

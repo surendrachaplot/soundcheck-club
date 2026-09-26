@@ -1,6 +1,6 @@
 # SUNDAY at Mastak
 
-SUNDAY at Mastak on Sun 27 Sept, Warsaw. 1 artist on the bill: Ingesz. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+SUNDAY at Mastak on Sun 27 Sept, Warsaw. 2 artists on the bill: Grym and Ingesz. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SUNDAY at Mastak on Sun 27 Sept, Warsaw. 1 artist on the bill: Ingesz. Experimen
 
 ## Line-up
 
+- Grym (2)
 - Ingesz
 
 *Source: [soundcheck](https://soundcheck.club/e/2518539-sunday-at-mastak/)*

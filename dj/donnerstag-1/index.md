@@ -1,6 +1,6 @@
 # Donnerstag (1)
 
-Donnerstag (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
+Donnerstag (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
 
 Donnerstag is a techno and house artist tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Copenhagen and Ibiza and 4 more. Often billed alongside Civil Servant, Juheun and Mossa. Next up: Oosterbar, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Donnerstag is a techno and house artist tracked on soundcheck, with 11 sets logg
 
 Civil Servant, Juheun, Mossa
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donnerstag-1/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donnerstag-1/)*

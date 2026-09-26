@@ -1,6 +1,6 @@
 # ADEOLA
 
-ADEOLA is a Afrobeats and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Jama, Toronto on Sat, 26 Sept 2026.
+ADEOLA is a Afrobeats and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Jama, Toronto on Sat, 26 Sept 2026.
 
 ADEOLA is an afrobeats and amapiano artist based in Nigeria, tracked on soundcheck, with 22 sets logged across Montreal and Toronto. Often billed alongside ISA., Hangaelle and baby mmune. Next up: The Jama, Toronto on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ ADEOLA is an afrobeats and amapiano artist based in Nigeria, tracked on soundche
 
 ISA., Hangaelle, baby mmune
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adeola/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adeola/)*

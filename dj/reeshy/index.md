@@ -1,14 +1,13 @@
 # Reeshy
 
-Reeshy is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Electric Studios, Sheffield on Fri, 25 Sept 2026.
+Reeshy is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-Reeshy is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside Enzo Siragusa, Laidlaw and Julian Anthony. Next up: Electric Studios, Sheffield on Fri 25 Sept.
+Reeshy is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside Enzo Siragusa, Laidlaw and Julian Anthony. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Electric Studios | Sheffield |
 | Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | The Loft | Manchester |
 | Sat, 24 Oct 2026 | Basement Amsterdam | Amsterdam |
@@ -23,6 +22,7 @@ Reeshy is a house and tech house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
+- Electric Studios, Sheffield — Fri, 25 Sept 2026
 - Hï Ibiza, Ibiza — Tue, 22 Sept 2026
 - UNO MALTA, Malta — Fri, 18 Sept 2026
 - Starlane Pizza Bar, London — Sat, 5 Sept 2026
@@ -30,10 +30,9 @@ Reeshy is a house and tech house artist based in United Kingdom, tracked on soun
 - Shelter Amsterdam, Amsterdam — Fri, 28 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 20 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
-- Burgess Park, London — Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Laidlaw, Julian Anthony
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*

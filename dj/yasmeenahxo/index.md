@@ -1,6 +1,6 @@
 # YASMEENAH (2)
 
-YASMEENAH (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 26 Sept 2026.
+YASMEENAH (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 26 Sept 2026.
 
 YASMEENAH is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Berlin, Chicago, Detroit and London and 1 more. Often billed alongside Blackmoonchild, DJ Etta (US) and A K. Next up: Northern Lights Lounge, Detroit on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ YASMEENAH is a techno and house artist based in United States of America, tracke
 
 Blackmoonchild, DJ Etta (US), A K
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmeenahxo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmeenahxo/)*

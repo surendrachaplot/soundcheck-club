@@ -1,13 +1,15 @@
 # Uabos
 
-Uabos is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Masada, Milan on Sat, 10 Oct 2026.
+Uabos is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at CGM - Club Giovanile Milano, Milan on Thu, 1 Oct 2026.
 
-Uabos is a house and electronica artist based in Italy, tracked on soundcheck, with 47 sets logged across London, Milan, Rome and Seoul and 2 more. Often billed alongside Giamma Soren, Vannelli Bros and San Pedro. Next up: Masada, Milan on Sat 10 Oct.
+Uabos is a house and electronica artist based in Italy, tracked on soundcheck, with 49 sets logged across London, Milan, Rome and Seoul and 2 more. Often billed alongside Giamma Soren, Vannelli Bros and San Pedro. Next up: CGM - Club Giovanile Milano, Milan on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | CGM - Club Giovanile Milano | Milan |
+| Thu, 1 Oct 2026 | CGM - Club Giovanile Milano | Milan |
 | Sat, 10 Oct 2026 | Masada | Milan |
 
 ## Recently played
@@ -25,4 +27,4 @@ Uabos is a house and electronica artist based in Italy, tracked on soundcheck, w
 
 Giamma Soren, Vannelli Bros, San Pedro
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uabos/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uabos/)*

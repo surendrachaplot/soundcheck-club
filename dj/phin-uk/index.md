@@ -1,6 +1,6 @@
 # Phin (UK)
 
-Phin (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Distillery N17, London on Fri, 16 Oct 2026.
+Phin (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Distillery N17, London on Fri, 16 Oct 2026.
 
 Phin (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Oolong, ATST and Adam Pits. Next up: Distillery N17, London on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Phin (UK) is a house and techno artist based in United Kingdom, tracked on sound
 
 Oolong, ATST, Adam Pits
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phin-uk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phin-uk/)*

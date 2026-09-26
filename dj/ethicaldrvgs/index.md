@@ -1,6 +1,6 @@
 # EthicalDrvgs
 
-EthicalDrvgs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun, 27 Sept 2026.
+EthicalDrvgs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 EthicalDrvgs is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Bangkok, Los Angeles and San Francisco/Oakland. Often billed alongside Jasmine Infiniti, Kingdom and Azure. Next up: TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ EthicalDrvgs is a techno and house artist based in United States of America, tra
 
 Jasmine Infiniti, Kingdom, Azure
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ethicaldrvgs/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ethicaldrvgs/)*

@@ -1,6 +1,6 @@
 # Raner Baumgartner
 
-Raner Baumgartner is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Skin Club, Madrid on Sat, 26 Sept 2026.
+Raner Baumgartner is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Skin Club, Madrid on Sat, 26 Sept 2026.
 
 Raner Baumgartner is a techno and trance artist based in Spain, tracked on soundcheck, with 12 sets logged across Madrid. Often billed alongside Groovemami, KITAE and Køni. Next up: Skin Club, Madrid on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Raner Baumgartner is a techno and trance artist based in Spain, tracked on sound
 
 Groovemami, KITAE, Køni
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerbaumgartner/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerbaumgartner/)*

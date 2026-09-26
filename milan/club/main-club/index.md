@@ -1,6 +1,6 @@
 # Main Club
 
-Main Club is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "AUSTRALOPITECHNO" on Sat, 3 Oct 2026.
+Main Club is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "AUSTRALOPITECHNO" on Sat, 3 Oct 2026.
 
 Main Club is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including DEPA, Donzo, ELNA and IRVØ and 2 more. Browse upcoming dates, start times and who's playing. Via Carlo Boncompagni, 44, 20139 Milano MI.
 
@@ -15,4 +15,4 @@ Main Club is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with 
 
 Via Carlo Boncompagni, 44, 20139 Milano MI, Milan
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/main-club/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/main-club/)*

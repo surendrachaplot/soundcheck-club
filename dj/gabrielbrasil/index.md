@@ -1,6 +1,6 @@
 # Gabriel Brasil
 
-Gabriel Brasil is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at D-EDGE, Sao Paulo on Sun, 27 Sept 2026.
+Gabriel Brasil is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at D-EDGE, Sao Paulo on Sun, 27 Sept 2026.
 
 Gabriel Brasil is a house and techno artist based in Brazil, tracked on soundcheck, with 18 sets logged across Amsterdam, Lisbon and Sao Paulo. Often billed alongside Gui Boratto, Kirilski and Snooz. Next up: D-EDGE, Sao Paulo on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Gabriel Brasil is a house and techno artist based in Brazil, tracked on soundche
 
 Gui Boratto, Kirilski, Snooz
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielbrasil/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielbrasil/)*

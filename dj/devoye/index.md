@@ -1,6 +1,6 @@
 # Devoye
 
-Devoye is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Signal, New York City on Sat, 10 Oct 2026.
+Devoye is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Signal, New York City on Sat, 10 Oct 2026.
 
 Devoye is a techno and house artist based in United States of America, tracked on soundcheck, with 169 sets logged across Berlin, Boston, Detroit and Los Angeles and 4 more. Often billed alongside Miss Parker, Rose Kourts and Shyboi. Next up: Signal, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Devoye is a techno and house artist based in United States of America, tracked o
 
 Miss Parker, Rose Kourts, Shyboi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devoye/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devoye/)*

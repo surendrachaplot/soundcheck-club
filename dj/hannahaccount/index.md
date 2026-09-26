@@ -1,14 +1,15 @@
 # Hannah Account
 
-Hannah Account is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 26 Sept 2026.
+Hannah Account is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 26 Sept 2026.
 
-Hannah Account is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 25 sets logged across New York City and Washington DC. Often billed alongside Elly DJ, Austerity Measures and Eva Loveless. Next up: TRANSMISSION DC, Washington DC on Sat 26 Sept.
+Hannah Account is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 26 sets logged across New York City and Washington DC. Often billed alongside Elly DJ, Austerity Measures and Eva Loveless. Next up: TRANSMISSION DC, Washington DC on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TRANSMISSION DC | Washington DC |
+| Fri, 9 Oct 2026 | Metropolitan Bar | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Hannah Account is a techno and breakbeat artist based in United States of Americ
 
 Elly DJ, Austerity Measures, Eva Loveless
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahaccount/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahaccount/)*

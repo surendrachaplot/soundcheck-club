@@ -1,6 +1,6 @@
 # Nolid
 
-Nolid is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Nolid is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Nolid is a techno and club artist based in United States of America, tracked on soundcheck, with 3 sets logged across Portland and Seattle. Often billed alongside 8maos, Aaron Davis and Alvaro. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -20,4 +20,4 @@ Nolid is a techno and club artist based in United States of America, tracked on 
 
 8maos, Aaron Davis, Alvaro
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nolid/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nolid/)*

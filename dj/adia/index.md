@@ -1,6 +1,6 @@
 # Adia
 
-Adia is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Wayburn, Detroit on Sat, 26 Sept 2026.
+Adia is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Wayburn, Detroit on Sat, 26 Sept 2026.
 
 Adia is a funk / soul and house artist tracked on soundcheck, with 6 sets logged across Detroit and Tbilisi. Often billed alongside Dan Bain, Discreet Disco and Jyarsch. Next up: The Wayburn, Detroit on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Adia is a funk / soul and house artist tracked on soundcheck, with 6 sets logged
 
 Dan Bain, Discreet Disco, Jyarsch
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adia/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adia/)*

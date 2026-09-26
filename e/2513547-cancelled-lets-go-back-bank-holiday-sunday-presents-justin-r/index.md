@@ -1,0 +1,15 @@
+# [CANCELLED] Lets Go Back Bank Holiday Sunday presents: Justin Robertson at The Berkeley Suite
+
+[CANCELLED] Lets Go Back Bank Holiday Sunday presents: Justin Robertson at The Berkeley Suite on Sun 27 Sept, Glasgow. 1 artist on the bill: Justin Robertson. House and Electronica. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 27 Sept 2026 |
+| Venue | The Berkeley Suite |
+| City | Glasgow |
+
+## Line-up
+
+- Justin Robertson
+
+*Source: [soundcheck](https://soundcheck.club/e/2513547-cancelled-lets-go-back-bank-holiday-sunday-presents-justin-r/)*

@@ -1,6 +1,6 @@
 # Rancido
 
-Rancido is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Warehouse Elementenstraat, Amsterdam on Fri, 23 Oct 2026.
+Rancido is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Warehouse Elementenstraat, Amsterdam on Fri, 23 Oct 2026.
 
 Rancido is an afro house and afro tech artist based in Netherlands, tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Cologne and Ibiza and 4 more. Often billed alongside Philou Louzolo, Van Zand and LevyM. Next up: Warehouse Elementenstraat, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Rancido is an afro house and afro tech artist based in Netherlands, tracked on s
 
 Philou Louzolo, Van Zand, LevyM
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rancido/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rancido/)*

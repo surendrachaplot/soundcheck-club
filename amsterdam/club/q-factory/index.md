@@ -1,6 +1,6 @@
 # Q-Factory
 
-Q-Factory is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Checkmate sessions" on Thu, 1 Oct 2026.
+Q-Factory is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Checkmate sessions" on Thu, 1 Oct 2026.
 
 Q-Factory is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Acida Dominga, Alan Fitzpatrick, Alinka and A*S*Y*S and 2 more. Browse upcoming dates, start times and who's playing. Atlantisplein 1, 1093 NE, Amsterdam.
 
@@ -16,4 +16,4 @@ Q-Factory is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, w
 
 Atlantisplein 1, 1093 NE, Amsterdam, Amsterdam
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/q-factory/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/q-factory/)*

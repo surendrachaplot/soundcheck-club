@@ -1,6 +1,6 @@
 # DATSKO
 
-DATSKO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Sub Club, Glasgow on Thu, 22 Oct 2026.
+DATSKO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Sub Club, Glasgow on Thu, 22 Oct 2026.
 
 DATSKO is a techno and trance artist based in Ireland, tracked on soundcheck, with 76 sets logged across Aberdeen, Amsterdam, Antwerp and Belfast and 24 more. Often billed alongside Black Traffic, blk. and Jezza & Jod. Next up: Sub Club, Glasgow on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ DATSKO is a techno and trance artist based in Ireland, tracked on soundcheck, wi
 
 Black Traffic, blk., Jezza & Jod
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*

@@ -1,6 +1,6 @@
 # UFO Space
 
-UFO Space is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Kater, Berlin on Fri, 30 Oct 2026.
+UFO Space is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Kater, Berlin on Fri, 30 Oct 2026.
 
 UFO Space is a house and tech house artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona and Berlin. Often billed alongside Abriss Andrej, Arkadiusz Dmytrow and Ata. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ UFO Space is a house and tech house artist based in Spain, tracked on soundcheck
 
 Abriss Andrej, Arkadiusz Dmytrow, Ata
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ufospace/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ufospace/)*

@@ -1,14 +1,13 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at SWG3, Glasgow on Fri, 25 Sept 2026.
+Robbie Doherty is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Levenslang Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Robbie Doherty is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: SWG3, Glasgow on Fri 25 Sept.
+Robbie Doherty is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Levenslang Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | SWG3 | Glasgow |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
@@ -16,6 +15,7 @@ Robbie Doherty is a house and tech house artist based in United Kingdom, tracked
 
 ## Recently played
 
+- SWG3, Glasgow — Fri, 25 Sept 2026
 - Floyd, Miami — Sun, 20 Sept 2026
 - Los Angeles State Historic Park, Los Angeles — Sun, 6 Sept 2026
 - Los Angeles State Historic Park, Los Angeles — Sun, 6 Sept 2026
@@ -23,10 +23,9 @@ Robbie Doherty is a house and tech house artist based in United Kingdom, tracked
 - Amnesia Ibiza, Ibiza — Mon, 31 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Colorado Charlie, The Hague — Fri, 28 Aug 2026
-- [UNVRS], Ibiza — Wed, 19 Aug 2026
 
 ## Shares bills with
 
 Prunk, Dennis Quin, Jamback
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*

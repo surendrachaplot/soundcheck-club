@@ -1,6 +1,6 @@
 # VEB Elektrokunst
 
-VEB Elektrokunst is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
+VEB Elektrokunst is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
 
 VEB Elektrokunst is a house and techno artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Diskokatze, BEAUTYPUNK and Sabrina Mue. Next up: Jonny Knüppel, Berlin on Fri 25 Sept.
 
@@ -12,6 +12,7 @@ VEB Elektrokunst is a house and techno artist tracked on soundcheck, with 12 set
 
 ## Recently played
 
+- Jonny Knüppel, Berlin — Fri, 25 Sept 2026
 - Renate, Berlin — Fri, 11 Sept 2026
 - Jonny Knüppel, Berlin — Sat, 15 Aug 2026
 - Jonny Knüppel, Berlin — Sat, 2 May 2026
@@ -19,10 +20,9 @@ VEB Elektrokunst is a house and techno artist tracked on soundcheck, with 12 set
 - Hoppetosse, Berlin — Fri, 13 Mar 2026
 - Renate, Berlin — Fri, 26 Dec 2025
 - TBA - via Linktree & Telegram, Berlin — Sat, 24 May 2025
-- Kater, Berlin — Sat, 21 Sept 2024
 
 ## Shares bills with
 
 Diskokatze, BEAUTYPUNK, Sabrina Mue
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vebelektrokunst/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vebelektrokunst/)*

@@ -1,6 +1,6 @@
 # Millhouse (US)
 
-Millhouse (US) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Xuxa, Austin on Sat, 3 Oct 2026.
+Millhouse (US) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Xuxa, Austin on Sat, 3 Oct 2026.
 
 Millhouse (US) is a house and deep house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Austin. Often billed alongside Knos, DJ HOT DONNA and DJ Ibanez. Next up: Xuxa, Austin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Millhouse (US) is a house and deep house artist based in United States of Americ
 
 Knos, DJ HOT DONNA, DJ Ibanez
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millhouseus/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millhouseus/)*

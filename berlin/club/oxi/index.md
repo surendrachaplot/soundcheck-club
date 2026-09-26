@@ -1,15 +1,15 @@
 # OXI
 
-OXI is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "OXI LIVE: MODULAR / SYNTHS - with Dr. Spree - Berlin and Amsterdam" on Fri, 25 Sept 2026.
+OXI is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "OXI GROOVE AFFAIR (OPEN AIR + INDOOR)" on Sat, 26 Sept 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including 1LDK, Gio Goltara, Aero and Ana Molina and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including 1LDK, Gio Goltara, Aero and Ana Molina and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | OXI LIVE: MODULAR / SYNTHS - with Dr. Spree - Berlin and Amsterdam | Bokaric, DEN!SE, Dr. Spree, Gabrielle (DE), James Cherry, Jasmin Giovanazzi, Martxas, Sholinger, Solvados, namejerry |
 | Sat, 26 Sept 2026 | OXI GROOVE AFFAIR (OPEN AIR + INDOOR) | Chris Ku, Marcus Holder, Meggy, Michael Lane, Rina Katen, Rydim, Sam Paradise, Sara Miller, Tereza, le0j |
+| Sat, 26 Sept 2026 | Nwaoguchigozie |  |
 | Sun, 27 Sept 2026 | RAMA X HOMODROP (OPEN AIR + INDOOR) | Cheriii, Gio Goltara, Hunkut, Julie Desire, Mars O10C, Somme Farris, Sub Sahara, clay (DE) |
 | Tue, 29 Sept 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | BLACK ANTHEM RESTORE, Lola Kay, Rachel Noon, YAZMIN (MT) |
 | Thu, 1 Oct 2026 | BLEACH BERLIN | 1LDK, Valeria Litvakov |
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

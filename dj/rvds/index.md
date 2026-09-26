@@ -1,6 +1,6 @@
 # RVDS
 
-RVDS is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
+RVDS is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
 RVDS is an electro and experimental artist based in Germany, tracked on soundcheck, with 18 sets logged across Athens, Berlin and Hamburg. Often billed alongside Nika Son, Newinfluenzer and BOBBIE*. Next up: Südpol, Hamburg on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ RVDS is an electro and experimental artist based in Germany, tracked on soundche
 
 Nika Son, Newinfluenzer, BOBBIE*
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rvds/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rvds/)*

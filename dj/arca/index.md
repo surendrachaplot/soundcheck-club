@@ -1,6 +1,6 @@
 # Arca
 
-Arca is a Experimental and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Arca is a Experimental and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Arca is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 35 sets logged across Athens, Barcelona, Berlin and Buenos Aires and 14 more. Often billed alongside Mica Levi, Nick León and Juliana Huxtable. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Arca is an experimental and electronica artist based in United States of America
 
 Mica Levi, Nick León, Juliana Huxtable
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arca/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arca/)*

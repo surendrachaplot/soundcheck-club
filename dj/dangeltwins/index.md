@@ -1,6 +1,6 @@
 # Dangel Twins
 
-Dangel Twins is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+Dangel Twins is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
 
 Dangel Twins is a house and tech house artist based in Switzerland, tracked on soundcheck, with 6 sets logged across Cyprus and Zurich. Often billed alongside ARWIN AZIZ, :DARREN and ACID FLORA. Next up: Etko, Cyprus on Fri 25 Sept.
 
@@ -13,6 +13,7 @@ Dangel Twins is a house and tech house artist based in Switzerland, tracked on s
 
 ## Recently played
 
+- Etko, Cyprus — Fri, 25 Sept 2026
 - Riithalle, Zurich — Sat, 19 Sept 2026
 - Hive Club, Zurich — Sat, 8 Aug 2026
 - TBA - Pferdesport Pfannenstiel Meilen, Zurich — Sat, 11 Jul 2026
@@ -22,4 +23,4 @@ Dangel Twins is a house and tech house artist based in Switzerland, tracked on s
 
 ARWIN AZIZ, :DARREN, ACID FLORA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dangeltwins/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dangeltwins/)*

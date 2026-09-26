@@ -1,6 +1,6 @@
 # Yucky
 
-Yucky is a Dubstep and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Altes Postlager, Rhineland-palatinate on Sat, 3 Oct 2026.
+Yucky is a Dubstep and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Altes Postlager, Rhineland-palatinate on Sat, 3 Oct 2026.
 
 Yucky is a dubstep and house artist based in Netherlands, tracked on soundcheck, with 44 sets logged across Amsterdam, Rhineland Palatinate, Rotterdam and San Francisco/Oakland and 2 more. Often billed alongside Styn, A For Alpha and Koperblond. Next up: Altes Postlager, Rhineland Palatinate on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Yucky is a dubstep and house artist based in Netherlands, tracked on soundcheck,
 
 Styn, A For Alpha, Koperblond
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yucky/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yucky/)*

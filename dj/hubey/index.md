@@ -1,6 +1,6 @@
 # hubey
 
-hubey is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Stereo, Glasgow on Thu, 22 Oct 2026.
+hubey is a Dub Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Stereo, Glasgow on Thu, 22 Oct 2026.
 
 hubey is a dub techno and experimental artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Aberdeen and Glasgow. Often billed alongside Angel Negrin, LOVELL and Julz Lever. Next up: Stereo, Glasgow on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ hubey is a dub techno and experimental artist based in United Kingdom, tracked o
 
 Angel Negrin, LOVELL, Julz Lever
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hubey/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hubey/)*

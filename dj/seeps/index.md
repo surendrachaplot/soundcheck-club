@@ -1,14 +1,13 @@
 # SEEPS
 
-SEEPS is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Airliner, Los Angeles on Fri, 25 Sept 2026.
+SEEPS is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Little Jerry, Toronto on Fri, 2 Oct 2026.
 
-SEEPS is a house and deep house artist based in United States of America, tracked on soundcheck, with 65 sets logged across Chicago, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Aaron Paar, DJ Sneak and Ian Llorens. Next up: The Airliner, Los Angeles on Fri 25 Sept.
+SEEPS is a house and deep house artist based in United States of America, tracked on soundcheck, with 65 sets logged across Chicago, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Aaron Paar, DJ Sneak and Ian Llorens. Next up: The Little Jerry, Toronto on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | The Airliner | Los Angeles |
 | Fri, 2 Oct 2026 | The Little Jerry | Toronto |
 | Sat, 10 Oct 2026 | California Plaza | Los Angeles |
 | Sat, 10 Oct 2026 | The Airliner | Los Angeles |
@@ -16,6 +15,7 @@ SEEPS is a house and deep house artist based in United States of America, tracke
 
 ## Recently played
 
+- The Airliner, Los Angeles — Fri, 25 Sept 2026
 - public records, New York City — Sat, 8 Aug 2026
 - TBA - Downtown Los Angeles, Los Angeles — Sat, 11 Jul 2026
 - TBA - IYKYK , Los Angeles — Sat, 27 Jun 2026
@@ -23,10 +23,9 @@ SEEPS is a house and deep house artist based in United States of America, tracke
 - TBA - Downtown Los Angeles, Los Angeles — Sat, 14 Mar 2026
 - TBA, Los Angeles — Sat, 7 Feb 2026
 - TBA - Downtown Los Angeles, Los Angeles — Wed, 31 Dec 2025
-- public records, New York City — Sat, 20 Dec 2025
 
 ## Shares bills with
 
 Aaron Paar, DJ Sneak, Ian Llorens
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seeps/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seeps/)*

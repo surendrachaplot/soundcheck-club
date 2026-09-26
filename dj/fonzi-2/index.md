@@ -1,6 +1,6 @@
 # Fonzi (2)
 
-Fonzi (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Collect LX Factory, Lisbon on Mon, 28 Sept 2026.
+Fonzi (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Collect LX Factory, Lisbon on Mon, 28 Sept 2026.
 
 Fonzi is a house and techno artist based in Portugal, tracked on soundcheck, with 28 sets logged across Lisbon and Porto. Often billed alongside Nibius, Pitcho and Kaesar. Next up: Collect LX Factory, Lisbon on Mon 28 Sept.
 
@@ -25,4 +25,4 @@ Fonzi is a house and techno artist based in Portugal, tracked on soundcheck, wit
 
 Nibius, Pitcho, Kaesar
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzi-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzi-2/)*

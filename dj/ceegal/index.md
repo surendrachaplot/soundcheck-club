@@ -1,6 +1,6 @@
 # Ceegal
 
-Ceegal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Island, Bristol on Fri, 9 Oct 2026.
+Ceegal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Island, Bristol on Fri, 9 Oct 2026.
 
 Ceegal is a techno and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Bristol. Often billed alongside Field Case, Clarisa Kimskii and Dani Whylie. Next up: The Island, Bristol on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Ceegal is a techno and house artist based in United Kingdom, tracked on soundche
 
 Field Case, Clarisa Kimskii, Dani Whylie
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceegal/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceegal/)*

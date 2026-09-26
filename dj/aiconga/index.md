@@ -1,6 +1,6 @@
 # Aiconga
 
-Aiconga is a Latin Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Kyoto University Yoshida Dormitory, Kyoto on Sat, 14 Nov 2026.
+Aiconga is a Latin Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Kyoto University Yoshida Dormitory, Kyoto on Sat, 14 Nov 2026.
 
 Aiconga is a latin bass and dub artist based in Japan, tracked on soundcheck, with 34 sets logged across Kyoto. Often billed alongside skn(sakana), MAX PELA and Ryoma Sasaki. Next up: Kyoto University Yoshida Dormitory, Kyoto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Aiconga is a latin bass and dub artist based in Japan, tracked on soundcheck, wi
 
 skn(sakana), MAX PELA, Ryoma Sasaki
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aiconga/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aiconga/)*

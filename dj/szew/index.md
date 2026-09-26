@@ -1,6 +1,6 @@
 # Szew
 
-Szew is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Hoppetosse, Berlin on Sun, 11 Oct 2026.
+Szew is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Hoppetosse, Berlin on Sun, 11 Oct 2026.
 
 Szew is a house and electro artist based in Argentina, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin and Leipzig. Often billed alongside Flor Coto, Rafael and Chuki Juri. Next up: Hoppetosse, Berlin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Szew is a house and electro artist based in Argentina, tracked on soundcheck, wi
 
 Flor Coto, Rafael, Chuki Juri
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szew/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szew/)*

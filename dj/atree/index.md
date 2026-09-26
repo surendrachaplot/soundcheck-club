@@ -1,6 +1,6 @@
 # Atree
 
-Atree is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Club der Visionaere, Berlin on Sat, 26 Sept 2026.
+Atree is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Club der Visionaere, Berlin on Sat, 26 Sept 2026.
 
 Atree is a house and techno artist based in Germany, tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside Cleymoore, ALINA and rubi*. Next up: Club der Visionaere, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Atree is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Cleymoore, ALINA (3), rubi*
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atree/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atree/)*

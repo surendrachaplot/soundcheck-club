@@ -1,6 +1,6 @@
 # Naggie
 
-Naggie is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Forestlimit, Tokyo on Wed, 30 Sept 2026.
+Naggie is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Forestlimit, Tokyo on Wed, 30 Sept 2026.
 
 Naggie is a bass and dub artist tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside Lil Mofo, BEENIE PIMP and Glico. Next up: Forestlimit, Tokyo on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Naggie is a bass and dub artist tracked on soundcheck, with 9 sets logged across
 
 Lil Mofo, BEENIE PIMP, Glico
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naggie/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naggie/)*

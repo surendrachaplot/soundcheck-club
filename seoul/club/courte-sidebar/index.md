@@ -1,6 +1,6 @@
 # Courte Sidebar
 
-Courte Sidebar is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Chuseok Weekend 09.26" on Sat, 26 Sept 2026.
+Courte Sidebar is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Chuseok Weekend 09.26" on Sat, 26 Sept 2026.
 
 Courte Sidebar is a music venue in Seoul listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. South Korea, Seoul, Gangnam-gu, Dosan-daero 51-gil, 13 지하 1층.
 
@@ -14,4 +14,4 @@ Courte Sidebar is a music venue in Seoul listed on soundcheck. 1 upcoming gig. B
 
 South Korea, Seoul, Gangnam-gu, Dosan-daero 51-gil, 13 지하 1층, Seoul
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/courte-sidebar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/courte-sidebar/)*

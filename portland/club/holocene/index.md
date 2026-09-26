@@ -1,6 +1,6 @@
 # Holocene
 
-Holocene is a music venue in Portland with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Club Blush: An Ethereal & Euphoric Dance Night" on Sat, 26 Sept 2026.
+Holocene is a music venue in Portland with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Club Blush: An Ethereal & Euphoric Dance Night" on Sat, 26 Sept 2026.
 
 Holocene is a music venue in Portland listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Oxley, Chippy Nonstop, Degs and Fleetmac Wood and 2 more. Browse upcoming dates, start times and who's playing. 1001 SE Morrison; Portland, OR 97214; United States.
 
@@ -18,4 +18,4 @@ Holocene is a music venue in Portland listed on soundcheck. 5 upcoming gigs, wit
 
 1001 SE Morrison; Portland, OR 97214; United States, Portland
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/portland/club/holocene/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/portland/club/holocene/)*

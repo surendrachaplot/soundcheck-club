@@ -1,6 +1,6 @@
 # Still Dusty at Jimmy Valentine's Lonely Hearts Club
 
-Still Dusty at Jimmy Valentine's Lonely Hearts Club on Fri 9 Oct, Washington DC. 1 artist on the bill: DJ Blasian. House. Preview the line-up and save it on soundcheck.
+Still Dusty at Jimmy Valentine's Lonely Hearts Club on Fri 9 Oct, Washington DC. 2 artists on the bill: DJ Blasian and DR MILLER. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Still Dusty at Jimmy Valentine's Lonely Hearts Club on Fri 9 Oct, Washington DC.
 ## Line-up
 
 - DJ Blasian
+- DR MILLER
 
 *Source: [soundcheck](https://soundcheck.club/e/2518066-still-dusty-at-jimmy-valentine-s-lonely-hearts-club/)*

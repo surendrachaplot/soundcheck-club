@@ -1,6 +1,6 @@
 # Sevyn
 
-Sevyn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 131 Mccormack St, Toronto on Sat, 3 Oct 2026.
+Sevyn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 131 Mccormack St, Toronto on Sat, 3 Oct 2026.
 
 Sevyn is a house and techno artist based in United States of America, tracked on soundcheck, with 88 sets logged across Berlin, Chicago, Copenhagen and Detroit and 10 more. Often billed alongside VARSHA, Damar Davis and Ashley Younniä. Next up: 131 Mccormack St, Toronto on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Sevyn is a house and techno artist based in United States of America, tracked on
 
 VARSHA, Damar Davis, Ashley Younniä
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sevyn/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sevyn/)*

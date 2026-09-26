@@ -1,6 +1,6 @@
 # MONEYAMA
 
-MONEYAMA is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Lark, Berlin on Sat, 14 Nov 2026.
+MONEYAMA is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lark, Berlin on Sat, 14 Nov 2026.
 
 MONEYAMA is a bass and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Hamburg and London. Often billed alongside Haaizey, Nico Adomako and RHR. Next up: Lark, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MONEYAMA is a bass and techno artist tracked on soundcheck, with 30 sets logged 
 
 Haaizey, Nico Adomako, RHR
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moneyama/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moneyama/)*

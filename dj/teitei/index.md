@@ -1,6 +1,6 @@
 # TEI TEI
 
-TEI TEI is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 26 Sept 2026.
+TEI TEI is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 26 Sept 2026.
 
 TEI TEI is a techno and trance artist based in China, tracked on soundcheck, with 138 sets logged across Hong Kong, Osaka, Shenzhen and Tokyo. Often billed alongside DANDAN, the2$ and XINOVI. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ TEI TEI is a techno and trance artist based in China, tracked on soundcheck, wit
 
 DANDAN, the2$, XINOVI
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teitei/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teitei/)*

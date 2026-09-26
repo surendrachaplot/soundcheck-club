@@ -1,6 +1,6 @@
 # Ivy F
 
-Ivy F is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Distillery N17, London on Sat, 26 Sept 2026.
+Ivy F is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Distillery N17, London on Sat, 26 Sept 2026.
 
 Ivy F is a house and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Amsterdam, London and Manchester. Often billed alongside teleopath, ASHTREY and Aiden Francis. Next up: Distillery N17, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Ivy F is a house and techno artist based in United Kingdom, tracked on soundchec
 
 teleopath, ASHTREY, Aiden Francis
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*

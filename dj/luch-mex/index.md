@@ -1,6 +1,6 @@
 # LUCH (MEX)
 
-LUCH (MEX) is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Tigres de la Noche, Washington DC on Sat, 17 Oct 2026.
+LUCH (MEX) is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tigres de la Noche, Washington DC on Sat, 17 Oct 2026.
 
 LUCH (MEX) is an afro house and house artist based in Mexico, tracked on soundcheck, with 23 sets logged across Barcelona, Chicago, Ibiza and Lisbon and 11 more. Often billed alongside Jamie Jones, Maxi Meraki and ALVEZ. Next up: Tigres de la Noche, Washington DC on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ LUCH (MEX) is an afro house and house artist based in Mexico, tracked on soundch
 
 Jamie Jones, Maxi Meraki, ALVEZ
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luch-mex/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luch-mex/)*

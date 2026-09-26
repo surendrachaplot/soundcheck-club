@@ -1,6 +1,6 @@
 # Room 12
 
-Room 12 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 11 Oct 2026.
+Room 12 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 11 Oct 2026.
 
 Room 12 is a house and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Washington DC. Often billed alongside MAXIMILIANO (US), Casa Nova and Nick Flynn. Next up: Eighteenth Street Lounge (ESL), Washington DC on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Room 12 is a house and techno artist based in United States of America, tracked 
 
 MAXIMILIANO (US), Casa Nova, Nick Flynn
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/room12/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/room12/)*

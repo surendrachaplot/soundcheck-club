@@ -1,6 +1,6 @@
 # DASH (SLO)
 
-DASH (SLO) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Kater, Berlin on Sat, 17 Oct 2026.
+DASH (SLO) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kater, Berlin on Sat, 17 Oct 2026.
 
 DASH (SLO) is a techno and house artist based in Slovenia, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin and Munich. Often billed alongside Besch, RIØ (DE) and Rosan. Next up: Kater, Berlin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ DASH (SLO) is a techno and house artist based in Slovenia, tracked on soundcheck
 
 Besch, RIØ (DE), Rosan
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dashslo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dashslo/)*

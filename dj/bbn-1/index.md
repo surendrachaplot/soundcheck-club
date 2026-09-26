@@ -1,6 +1,6 @@
 # BBN (1)
 
-BBN (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at BarKa, Warsaw on Sun, 27 Sept 2026.
+BBN (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at BarKa, Warsaw on Sun, 27 Sept 2026.
 
 BBN is a house and techno artist based in Poland, tracked on soundcheck, with 5 sets logged across Warsaw. Often billed alongside Fibon, LuLu Malina and BEXA. Next up: BarKa, Warsaw on Sun 27 Sept.
 
@@ -21,4 +21,4 @@ BBN is a house and techno artist based in Poland, tracked on soundcheck, with 5 
 
 Fibon, LuLu Malina, BEXA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbn-1/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbn-1/)*

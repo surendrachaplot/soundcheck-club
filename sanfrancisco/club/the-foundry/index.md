@@ -1,6 +1,6 @@
 # The Foundry
 
-The Foundry is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "BOOF x Foundry: MCMLXXXV (Herrensauna) Folsom Street Fair Takeover" on Sun, 27 Sept 2026.
+The Foundry is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "BOOF x Foundry: MCMLXXXV (Herrensauna) Folsom Street Fair Takeover" on Sun, 27 Sept 2026.
 
 The Foundry is a music venue in San Francisco/Oakland listed on soundcheck. 6 upcoming gigs, with line-ups including AceMo, at-at, Cali Rose and Jojo Lorenzo and 2 more. Browse upcoming dates, start times and who's playing. 1425 Folsom St, San Francisco, CA 94103.
 
@@ -9,7 +9,7 @@ The Foundry is a music venue in San Francisco/Oakland listed on soundcheck. 6 up
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | BOOF x Foundry: MCMLXXXV (Herrensauna) Folsom Street Fair Takeover | Cali Rose, MCMLXXXV, Moonpie, Sholim Eso |
-| Fri, 2 Oct 2026 | Quit Your Day Job presents: OUT OF OFFICE | Phil Spank, natebytheway |
+| Fri, 2 Oct 2026 | Quit Your Day Job presents: OUT OF OFFICE | Phil Spank, Wax on Oak, natebytheway |
 | Fri, 23 Oct 2026 | Petit Biscuit in San Francisco | Petit Biscuit |
 | Sat, 24 Oct 2026 | Tinzo + Jojo: Dark Library Tour | Jojo Lorenzo, Tinzo |
 | Sun, 25 Oct 2026 | Tinzo + Jojo: Dark Library Tour SF (Second Party Added) | Jojo Lorenzo, Tinzo |
@@ -19,4 +19,4 @@ The Foundry is a music venue in San Francisco/Oakland listed on soundcheck. 6 up
 
 1425 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*

@@ -1,6 +1,6 @@
 # DJ Funky Fresh Mike
 
-DJ Funky Fresh Mike is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at fi, Cologne on Sat, 7 Nov 2026.
+DJ Funky Fresh Mike is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at fi, Cologne on Sat, 7 Nov 2026.
 
 DJ Funky Fresh Mike is a disco and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Cologne. Often billed alongside Diskohengst, Femdelic and Tom Kutsche. Next up: fi, Cologne on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ DJ Funky Fresh Mike is a disco and house artist based in Germany, tracked on sou
 
 Diskohengst, Femdelic, Tom Kutsche
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfunkyfreshmike/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfunkyfreshmike/)*

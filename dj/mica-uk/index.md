@@ -1,6 +1,6 @@
 # Mica (UK)
 
-Mica (UK) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
+Mica (UK) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
 
 Mica (UK) is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Leeds and 3 more. Often billed alongside Alinep, Eddy Romero and Joe Roche. Next up: Duke Of Tokyo, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Mica (UK) is a house and minimal artist based in United Kingdom, tracked on soun
 
 Alinep, Eddy Romero, Joe Roche
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mica-uk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mica-uk/)*

@@ -1,6 +1,6 @@
 # HYPERFEMME
 
-HYPERFEMME is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Boondocks, Houston on Fri, 2 Oct 2026.
+HYPERFEMME is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Boondocks, Houston on Fri, 2 Oct 2026.
 
 HYPERFEMME is a club and techno artist based in United States of America, tracked on soundcheck, with 55 sets logged across Austin, Houston, Los Angeles and Miami and 3 more. Often billed alongside Amarji King, yunginternet and Big Ace. Next up: Boondocks, Houston on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ HYPERFEMME is a club and techno artist based in United States of America, tracke
 
 Amarji King, yunginternet, Big Ace
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperfemme/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperfemme/)*

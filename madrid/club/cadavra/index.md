@@ -1,14 +1,13 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 25 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Sigh.CLUB with Reptant (live) + Free Zing" on Fri, 25 Sept 2026.
+Cadavra is a music venue in Madrid with 24 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "CDVR with Katia Curie b2b NIZAR SARAKBI" on Sat, 26 Sept 2026.
 
-Cadavra is a music venue in Madrid listed on soundcheck. 25 upcoming gigs, with line-ups including 2garlics, Alvaro Cabana, Andy Martin and Anna Wall and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
+Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming gigs, with line-ups including 2garlics, Alvaro Cabana, Andy Martin and Anna Wall and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Sigh.CLUB with Reptant (live) + Free Zing | 2garlics, Cesc (ES), Free Zing, Papol, Rams, Reptant |
 | Sat, 26 Sept 2026 | CDVR with Katia Curie b2b NIZAR SARAKBI | Katia Curie, Luska, Margott (ES), Nizar Sarakbi, frankydrama |
 | Thu, 1 Oct 2026 | Pariah at Anfang | Mendi, Noot Noot, Pariah, Silvia Torres |
 | Fri, 2 Oct 2026 | CDVR with Tornado Wallace | Alvaro Cabana, Le Nomad, Tornado Wallace |
@@ -18,9 +17,10 @@ Cadavra is a music venue in Madrid listed on soundcheck. 25 upcoming gigs, with 
 | Sat, 10 Oct 2026 | TIME TO PANIC with Luisa | Denso, Ed Warner, Luisa, Valleyk, ildec |
 | Thu, 15 Oct 2026 | ANFANG FAM DAY | Irazu, Safia (2) |
 | Fri, 16 Oct 2026 | bloom pres. Andy Martin | Andy Martin, Baldman, Gala (ES), KATIA, berta (ES) |
+| Sat, 17 Oct 2026 | Distrito 91 with Kinetic & Protocolo Sys.ex (live) | Kinetic (2), tekka (2) |
 
 ## Address
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

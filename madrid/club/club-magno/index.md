@@ -1,6 +1,6 @@
 # Club Magno
 
-Club Magno is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Antidoto Club x Rinse FM: Ryota + Danga + Nori (Live)" on Thu, 1 Oct 2026.
+Club Magno is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Antidoto Club x Rinse FM: Ryota + Danga + Nori (Live)" on Thu, 1 Oct 2026.
 
 Club Magno is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including DJ Co.kr, Atrâm, Danga and Diego Armando and 2 more. Browse upcoming dates, start times and who's playing. c. de cedaceros 7, Madrid.
 
@@ -23,4 +23,4 @@ Club Magno is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, wi
 
 c. de cedaceros 7, Madrid, Madrid
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*

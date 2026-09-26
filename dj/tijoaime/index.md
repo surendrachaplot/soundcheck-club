@@ -1,6 +1,6 @@
 # Tijo Aimé
 
-Tijo Aimé is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Djoon, Paris on Sun, 4 Oct 2026.
+Tijo Aimé is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Djoon, Paris on Sun, 4 Oct 2026.
 
 Tijo Aimé is a house and afro house artist tracked on soundcheck, with 10 sets logged across Brussels and Paris. Often billed alongside Mab'ish, Nick V and Adri. Next up: Djoon, Paris on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Tijo Aimé is a house and afro house artist tracked on soundcheck, with 10 sets 
 
 Mab'ish, Nick V, Adri
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tijoaime/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tijoaime/)*

@@ -1,6 +1,6 @@
 # Perna
 
-Perna is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Good Room, New York City on Fri, 16 Oct 2026.
+Perna is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Good Room, New York City on Fri, 16 Oct 2026.
 
 Perna is a house and bass artist based in United States of America, tracked on soundcheck, with 51 sets logged across Mexico City, Miami and New York City. Often billed alongside Ladiez Drink Free, Mariposa and Drupe Jam. Next up: Good Room, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Perna is a house and bass artist based in United States of America, tracked on s
 
 Ladiez Drink Free, Mariposa, Drupe Jam
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perna/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perna/)*

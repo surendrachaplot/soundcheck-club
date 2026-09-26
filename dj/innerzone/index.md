@@ -1,6 +1,6 @@
 # Inner Zone
 
-Inner Zone is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Signal, New York City on Fri, 25 Sept 2026.
+Inner Zone is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Signal, New York City on Fri, 25 Sept 2026.
 
 Inner Zone is a techno and house artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Berlin, Bristol, Edinburgh and Helsinki and 7 more. Often billed alongside Alien Communications, DJ TEETH and Lora Mipsum. Next up: Signal, New York City on Fri 25 Sept.
 
@@ -16,6 +16,7 @@ Inner Zone is a techno and house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
+- Signal, New York City — Fri, 25 Sept 2026
 - Gaffe, London — Sat, 1 Aug 2026
 - Backsteinboot, Berlin — Sat, 11 Jul 2026
 - FOLD, London — Sat, 27 Jun 2026
@@ -23,10 +24,9 @@ Inner Zone is a techno and house artist based in United Kingdom, tracked on soun
 - FOLD, London — Fri, 17 Apr 2026
 - FOLD, London — Sat, 14 Mar 2026
 - FOLD, London — Fri, 12 Dec 2025
-- Point Ephémère, Paris — Fri, 7 Nov 2025
 
 ## Shares bills with
 
 Alien Communications, DJ TEETH, Lora Mipsum
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innerzone/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innerzone/)*

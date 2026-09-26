@@ -1,6 +1,6 @@
 # VANI
 
-VANI is a House and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at SOBs, New York City on Fri, 9 Oct 2026.
+VANI is a House and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at SOBs, New York City on Fri, 9 Oct 2026.
 
 VANI is a house and afrobeats artist tracked on soundcheck, with 11 sets logged across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Bianca Maieli, MTooray and ARINI. Next up: SOBs, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ VANI is a house and afrobeats artist tracked on soundcheck, with 11 sets logged 
 
 Bianca Maieli, MTooray, ARINI
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vani/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vani/)*

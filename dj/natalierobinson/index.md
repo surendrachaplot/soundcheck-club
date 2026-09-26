@@ -1,6 +1,6 @@
 # Natalie Robinson
 
-Natalie Robinson is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Tresor / Globus, Berlin on Sat, 17 Oct 2026.
+Natalie Robinson is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tresor / Globus, Berlin on Sat, 17 Oct 2026.
 
 Natalie Robinson is a house and techno artist based in Germany, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 23 more. Often billed alongside Katy De Jesus, Naomi (Berlin) and Mike Starr. Next up: Tresor / Globus, Berlin on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Natalie Robinson is a house and techno artist based in Germany, tracked on sound
 
 Katy De Jesus, Naomi (Berlin), Mike Starr
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natalierobinson/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natalierobinson/)*

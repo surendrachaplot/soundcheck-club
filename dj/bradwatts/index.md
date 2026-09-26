@@ -1,6 +1,6 @@
 # BRAD WATTS
 
-BRAD WATTS is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Desa Kitsuné, Indonesia on Sat, 26 Sept 2026.
+BRAD WATTS is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Desa Kitsuné, Indonesia on Sat, 26 Sept 2026.
 
 BRAD WATTS is a house and deep house artist based in Australia, tracked on soundcheck, with 34 sets logged across Bali, Indonesia, Melbourne and Sydney. Often billed alongside SOHAIL, Rowen Clark and Ben Nott. Next up: Desa Kitsuné, Indonesia on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ BRAD WATTS is a house and deep house artist based in Australia, tracked on sound
 
 SOHAIL, Rowen Clark, Ben Nott
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradwatts/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradwatts/)*

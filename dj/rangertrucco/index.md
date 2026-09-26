@@ -1,14 +1,13 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Great Northern, San Francisco/Oakland on Fri, 25 Sept 2026.
+Ranger Trucco is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Ranger Trucco is a house and tech house artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 22 more. Often billed alongside Ms. Mada, Prunk and Archie Hamilton. Next up: The Great Northern, San Francisco/Oakland on Fri 25 Sept.
+Ranger Trucco is a house and tech house artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 22 more. Often billed alongside Ms. Mada, Prunk and Archie Hamilton. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sat, 17 Oct 2026 | Descent | Boston |
 | Sun, 18 Oct 2026 | Culture | Washington DC |
@@ -23,6 +22,7 @@ Ranger Trucco is a house and tech house artist based in United States of America
 
 ## Recently played
 
+- The Great Northern, San Francisco/Oakland — Fri, 25 Sept 2026
 - 528 Ibiza, Ibiza — Sun, 20 Sept 2026
 - World Headquarters, Newcastle — Sat, 19 Sept 2026
 - Sub Club, Glasgow — Thu, 3 Sept 2026
@@ -30,10 +30,9 @@ Ranger Trucco is a house and tech house artist based in United States of America
 - Radius, Chicago — Sat, 15 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Q Nightclub, Seattle — Fri, 31 Jul 2026
-- BRET, Amsterdam — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Ms. Mada, Prunk, Archie Hamilton
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

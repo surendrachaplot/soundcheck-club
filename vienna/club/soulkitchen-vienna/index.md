@@ -1,6 +1,6 @@
 # Soulkitchen Vienna
 
-Soulkitchen Vienna is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Disco Biscuits" on Fri, 16 Oct 2026.
+Soulkitchen Vienna is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Disco Biscuits" on Fri, 16 Oct 2026.
 
 Soulkitchen Vienna is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including Jakobin & Domino, Lee Stevens, Peletronic and Simonlebon. Browse upcoming dates, start times and who's playing. Hintere Zollamtstraße 2b / im Hof.
 
@@ -14,4 +14,4 @@ Soulkitchen Vienna is a music venue in Vienna listed on soundcheck. 1 upcoming g
 
 Hintere Zollamtstraße 2b / im Hof, Vienna
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/soulkitchen-vienna/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/soulkitchen-vienna/)*

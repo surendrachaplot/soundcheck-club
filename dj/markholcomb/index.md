@@ -1,6 +1,6 @@
 # Mark Holcomb
 
-Mark Holcomb is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Oberon, New York City on Sun, 27 Sept 2026.
+Mark Holcomb is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Oberon, New York City on Sun, 27 Sept 2026.
 
 Mark Holcomb is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Detroit and New York City. Often billed alongside Eric Umble, Kilopatrah Jones and Alissa Brianna. Next up: Oberon, New York City on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Mark Holcomb is a house and techno artist based in United States of America, tra
 
 Eric Umble, Kilopatrah Jones, Alissa Brianna
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markholcomb/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markholcomb/)*

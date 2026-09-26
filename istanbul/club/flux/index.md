@@ -1,6 +1,6 @@
 # Flux
 
-Flux is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "RX Saturdaze: Answer Code Request" on Sat, 26 Sept 2026.
+Flux is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "RX Saturdaze: Answer Code Request" on Sat, 26 Sept 2026.
 
 Flux is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including Alican, Answer Code Request, Belin and Ece Özel and 2 more. Browse upcoming dates, start times and who's playing. Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396.
 
@@ -19,4 +19,4 @@ Flux is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with li
 
 Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396, Istanbul
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*

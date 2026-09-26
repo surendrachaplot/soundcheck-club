@@ -1,6 +1,6 @@
 # DJ Sotofett
 
-DJ Sotofett is a Dub and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Strange Brew, Bristol on Sat, 26 Sept 2026.
+DJ Sotofett is a Dub and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Strange Brew, Bristol on Sat, 26 Sept 2026.
 
 DJ Sotofett is a dub and house artist based in Norway, tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 23 more. Often billed alongside LNS, DJ Fett Burger and Ireen Amnes. Next up: Strange Brew, Bristol on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ DJ Sotofett is a dub and house artist based in Norway, tracked on soundcheck, wi
 
 LNS, DJ Fett Burger, Ireen Amnes
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsotofett/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsotofett/)*

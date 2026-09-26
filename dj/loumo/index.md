@@ -1,6 +1,6 @@
 # loumo
 
-loumo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 8 Oct 2026.
+loumo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 8 Oct 2026.
 
 loumo is a trance and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Lisbon, Munich and Stuttgart. Often billed alongside SchokoZitrone, Phil Biehler and BENDOM. Next up: Bahnwärter Thiel, Munich on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ loumo is a trance and techno artist based in Germany, tracked on soundcheck, wit
 
 SchokoZitrone, Phil Biehler, BENDOM
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loumo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loumo/)*

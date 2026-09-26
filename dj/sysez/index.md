@@ -1,6 +1,6 @@
 # Sy Sez
 
-Sy Sez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Sy Sez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Sy Sez is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Birmingham, Leeds, Lisbon and Liverpool and 5 more. Often billed alongside Neil Pierce, Jeremy Sylvester and Boon (UK). Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Sy Sez is a house and deep house artist based in United Kingdom, tracked on soun
 
 Neil Pierce, Jeremy Sylvester, Boon (UK)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sysez/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sysez/)*

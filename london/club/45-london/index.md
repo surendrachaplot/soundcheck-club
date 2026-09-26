@@ -1,6 +1,6 @@
 # 45 London
 
-45 London is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "TU CASA x CACAO HALLOWEEN EDITION" on Fri, 30 Oct 2026.
+45 London is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "TU CASA x CACAO HALLOWEEN EDITION" on Fri, 30 Oct 2026.
 
 45 London is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Ale Grooves, Andres Forero, Anthony Godfather and CANO and 2 more. Browse upcoming dates, start times and who's playing. 45 Curtain Road, London EC2A 3PT.
 
@@ -16,4 +16,4 @@
 
 45 Curtain Road, London EC2A 3PT, London
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/45-london/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/45-london/)*

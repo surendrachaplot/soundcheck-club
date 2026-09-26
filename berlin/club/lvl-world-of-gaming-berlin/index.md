@@ -1,6 +1,6 @@
 # Lvl - World of Gaming Berlin
 
-Lvl - World of Gaming Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "BonkerSquad invites MAX DURANTE — LvL Takeover" on Sat, 26 Sept 2026.
+Lvl - World of Gaming Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "BonkerSquad invites MAX DURANTE — LvL Takeover" on Sat, 26 Sept 2026.
 
 Lvl - World of Gaming Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Chrischou, Kenji Tanaka, Mal.Da and MAX DURANTE. Browse upcoming dates, start times and who's playing. Schützenstraße 73, 10117 Berlin.
 
@@ -14,4 +14,4 @@ Lvl - World of Gaming Berlin is a music venue in Berlin listed on soundcheck. 1 
 
 Schützenstraße 73, 10117 Berlin, Berlin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lvl-world-of-gaming-berlin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lvl-world-of-gaming-berlin/)*

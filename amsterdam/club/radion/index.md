@@ -1,14 +1,13 @@
 # RADION
 
-RADION is a music venue in Amsterdam with 27 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "GRÜV" on Fri, 25 Sept 2026.
+RADION is a music venue in Amsterdam with 26 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "FRENZY x SHOCKWERK" on Sat, 26 Sept 2026.
 
-RADION is a music venue in Amsterdam listed on soundcheck. 27 upcoming gigs, with line-ups including 36framez, 42nd Avenue, Justine Perry and ADHDJ and 2 more. Browse upcoming dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
+RADION is a music venue in Amsterdam listed on soundcheck. 26 upcoming gigs, with line-ups including 36framez, 42nd Avenue, Justine Perry and ADHDJ and 2 more. Browse upcoming dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | GRÜV | KALTBLUME, KUSS, Nastia, SHE/HER |
 | Sat, 26 Sept 2026 | FRENZY x SHOCKWERK | Beau Didier, Comrade Winston, HERMETICA, Laure Croft, Spikey Lee, The Lady Machine, slin |
 | Sat, 26 Sept 2026 | Frenzy x shockwerk | Beau Didier, Comrade Winston, Daichi Wada, HERMETICA, Laure Croft, Spikey Lee, The Lady Machine, Tino Machauer, slin |
 | Tue, 29 Sept 2026 | Techno Yoga - start 18:30 |  |
@@ -18,9 +17,10 @@ RADION is a music venue in Amsterdam listed on soundcheck. 27 upcoming gigs, wit
 | Fri, 9 Oct 2026 | RADION Invites YUVA | Anabel Arroyo, DHÆÜR, Rosati, akcel |
 | Sat, 10 Oct 2026 | GEGEN AMSTERDAM | Buday, Cristian Marras, Hyperaktivist, Mar/us, OCD, Technoslave_69, Volvox |
 | Fri, 16 Oct 2026 | BAILE TRAMA 4TH ANNIVERSARY | Brenda (ES), Saint Caboclo, Slim Soledad, Slimfit |
+| Sat, 17 Oct 2026 | BomBlastic - The Next Chapter |  |
 
 ## Address
 
 Louwesweg 1 ,1066 EA Amsterdam, Amsterdam
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*

@@ -1,6 +1,6 @@
 # Lowbass
 
-Lowbass is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Le Lieu Unique / Nantes, Nantes on Sat, 24 Oct 2026.
+Lowbass is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Le Lieu Unique / Nantes, Nantes on Sat, 24 Oct 2026.
 
 Lowbass is a techno and acid artist based in France, tracked on soundcheck, with 23 sets logged across Lyon, Nantes and Paris. Often billed alongside aft6r, David Asko and FAAST. Next up: Le Lieu Unique / Nantes, Nantes on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lowbass is a techno and acid artist based in France, tracked on soundcheck, with
 
 aft6r, David Asko, FAAST
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowbass/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowbass/)*

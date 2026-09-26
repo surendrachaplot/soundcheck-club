@@ -1,14 +1,13 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at OHM, Berlin on Fri, 25 Sept 2026.
+Richard Akingbehin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Open Ground, Wuppertal on Sat, 26 Sept 2026.
 
-Richard Akingbehin is a techno and house artist based in United Kingdom, tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Tikiman, Fadi Mohem and livwutang. Next up: OHM, Berlin on Fri 25 Sept.
+Richard Akingbehin is a techno and house artist based in United Kingdom, tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Tikiman, Fadi Mohem and livwutang. Next up: Open Ground, Wuppertal on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | OHM | Berlin |
 | Sat, 26 Sept 2026 | Open Ground | Wuppertal |
 | Fri, 16 Oct 2026 | Gaffe | London |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -19,6 +18,7 @@ Richard Akingbehin is a techno and house artist based in United Kingdom, tracked
 
 ## Recently played
 
+- OHM, Berlin — Fri, 25 Sept 2026
 - TBA, Montreal — Sun, 20 Sept 2026
 - UMI, Brussels — Fri, 11 Sept 2026
 - Barragem da Queimadela, Porto — Thu, 10 Sept 2026
@@ -26,10 +26,9 @@ Richard Akingbehin is a techno and house artist based in United Kingdom, tracked
 - Blå, Oslo — Sat, 22 Aug 2026
 - Palais, London — Sat, 8 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 7 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 
 ## Shares bills with
 
 Tikiman, Fadi Mohem, livwutang
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*

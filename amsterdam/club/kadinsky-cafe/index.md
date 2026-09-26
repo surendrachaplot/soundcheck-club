@@ -1,6 +1,6 @@
 # Kadinsky Cafe
 
-Kadinsky Cafe is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "KADINKY SESSIONS 076" on Sat, 26 Sept 2026.
+Kadinsky Cafe is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "KADINKY SESSIONS 076" on Sat, 26 Sept 2026.
 
 Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Abity, Albano Bastonero, ALISHA and Around Us and 2 more. Browse upcoming dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
 
@@ -23,4 +23,4 @@ Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 11 upcoming gi
 
 Zoutsteeg 9-11 1012 LX Amsterdam, Amsterdam
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*

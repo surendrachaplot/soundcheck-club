@@ -1,6 +1,6 @@
 # Scre_wy
 
-Scre_wy is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
+Scre_wy is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 Scre_wy is a drum & bass and bass artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Dub Isotope, Migz and Tempestfeather. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Scre_wy is a drum & bass and bass artist based in Germany, tracked on soundcheck
 
 Dub Isotope, Migz, Tempestfeather
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scre_wy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scre_wy/)*

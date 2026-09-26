@@ -1,6 +1,6 @@
 # Sacha Yonan
 
-Sacha Yonan is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Cross, London on Fri, 30 Oct 2026.
+Sacha Yonan is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Cross, London on Fri, 30 Oct 2026.
 
 Sacha Yonan is a house and progressive house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Geneva and Ibiza and 1 more. Often billed alongside AOB, CENKK and Francesco Betti. Next up: The Cross, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sacha Yonan is a house and progressive house artist tracked on soundcheck, with 
 
 AOB, CENKK, Francesco Betti
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sachayonan/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sachayonan/)*

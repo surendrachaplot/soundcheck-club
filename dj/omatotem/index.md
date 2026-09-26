@@ -1,6 +1,6 @@
 # oma totem
 
-oma totem is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Chicago on Sat, 26 Sept 2026.
+oma totem is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Chicago on Sat, 26 Sept 2026.
 
 oma totem is a techno and house artist based in Spain, tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 14 more. Often billed alongside mad miran, Lena Willikens and Phran. Next up: TBA, Chicago on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ oma totem is a techno and house artist based in Spain, tracked on soundcheck, wi
 
 mad miran, Lena Willikens, Phran
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omatotem/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omatotem/)*

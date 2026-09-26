@@ -1,6 +1,6 @@
 # Azrel
 
-Azrel is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at XLR, Manchester on Fri, 9 Oct 2026.
+Azrel is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at XLR, Manchester on Fri, 9 Oct 2026.
 
 Azrel is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Bristol, Kyoto, Leeds and London and 2 more. Often billed alongside abejisama, Lil Farm and Loveblade. Next up: XLR, Manchester on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Azrel is a trance and techno artist based in United Kingdom, tracked on soundche
 
 abejisama, Lil Farm, Loveblade
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azrel/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azrel/)*

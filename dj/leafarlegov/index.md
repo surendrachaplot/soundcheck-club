@@ -1,6 +1,6 @@
 # Leafar Legov
 
-Leafar Legov is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
+Leafar Legov is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
 
 Leafar Legov is a house and techno artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Leafar Legov is a house and techno artist based in Germany, tracked on soundchec
 
 Konstantin, Edward, Map.ache
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leafarlegov/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leafarlegov/)*

@@ -1,6 +1,6 @@
 # Company Club
 
-Company Club is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "SYNTHETICA SEASON OPENING • saturday morning at Company w Glädjee,Saffio,Meier,Contro il metodo" on Sat, 26 Sept 2026.
+Company Club is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "SYNTHETICA SEASON OPENING • saturday morning at Company w Glädjee,Saffio,Meier,Contro il metodo" on Sat, 26 Sept 2026.
 
 Company Club is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including GLADJEE. Browse upcoming dates, start times and who's playing. Via Benadir 14, 20132 Milano, Italy.
 
@@ -14,4 +14,4 @@ Company Club is a music venue in Milan listed on soundcheck. 1 upcoming gig, wit
 
 Via Benadir 14, 20132 Milano, Italy, Milan
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/company-club/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/company-club/)*

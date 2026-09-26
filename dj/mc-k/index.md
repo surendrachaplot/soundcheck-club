@@ -1,6 +1,6 @@
 # MC-K
 
-MC-K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Beate Uwe, Berlin on Sat, 21 Nov 2026.
+MC-K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Beate Uwe, Berlin on Sat, 21 Nov 2026.
 
 MC-K is a house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Ana Cover, LIZZN and MARIE.MOON. Next up: Beate Uwe, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ MC-K is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Ana Cover, LIZZN, MARIE.MOON
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mc-k/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mc-k/)*

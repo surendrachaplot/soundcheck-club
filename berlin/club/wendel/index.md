@@ -1,6 +1,6 @@
 # Wendel
 
-Wendel is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Yo Mommas Favourite Tunes" on Sat, 26 Sept 2026.
+Wendel is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Yo Mommas Favourite Tunes" on Sat, 26 Sept 2026.
 
 Wendel is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Anton Quasi, EMBEE3, Kijara and Larhythmix and 1 more. Browse upcoming dates, start times and who's playing. Schlesische Strasse 42; Kreuzberg; 10997; Germany.
 
@@ -18,4 +18,4 @@ Wendel is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with li
 
 Schlesische Strasse 42; Kreuzberg; 10997; Germany, Berlin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wendel/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wendel/)*

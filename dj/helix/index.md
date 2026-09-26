@@ -1,6 +1,6 @@
 # Helix
 
-Helix is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Mood Ring, New York City on Fri, 16 Oct 2026.
+Helix is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Mood Ring, New York City on Fri, 16 Oct 2026.
 
 Helix is a techno and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across New York City. Often billed alongside WADDLE, LOSI (NY) and DJ Fat Frog. Next up: Mood Ring, New York City on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Helix is a techno and house artist based in United States of America, tracked on
 
 WADDLE, LOSI (NY), DJ Fat Frog
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helix/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helix/)*

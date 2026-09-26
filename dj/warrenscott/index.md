@@ -1,6 +1,6 @@
 # Warren Scott
 
-Warren Scott is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Area Manchester, Manchester on Fri, 2 Oct 2026.
+Warren Scott is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Area Manchester, Manchester on Fri, 2 Oct 2026.
 
 Warren Scott is a techno and progressive house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Amsterdam and Manchester. Often billed alongside Femmebot Grooves, MAD Beats and Nick Mason. Next up: Area Manchester, Manchester on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Warren Scott is a techno and progressive house artist based in United Kingdom, t
 
 Femmebot Grooves, MAD Beats, Nick Mason
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warrenscott/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warrenscott/)*

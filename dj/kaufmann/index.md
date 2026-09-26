@@ -1,6 +1,6 @@
 # Kaufmann
 
-Kaufmann is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Wee Jasper, Sydney on Fri, 25 Sept 2026.
+Kaufmann is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Wee Jasper, Sydney on Fri, 25 Sept 2026.
 
 Kaufmann is a techno and house artist based in Germany, tracked on soundcheck, with 147 sets logged across Amsterdam, Auckland, Barcelona and Basel and 22 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: TBA - Wee Jasper, Sydney on Fri 25 Sept.
 
@@ -21,6 +21,7 @@ Kaufmann is a techno and house artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
+- TBA - Wee Jasper, Sydney — Fri, 25 Sept 2026
 - Tanzhaus West, Frankfurt — Sat, 5 Sept 2026
 - Tereza-Joanne Boat, London — Fri, 4 Sept 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
@@ -28,10 +29,9 @@ Kaufmann is a techno and house artist based in Germany, tracked on soundcheck, w
 - Zürichsee, Zurich — Sat, 8 Aug 2026
 - X-Tra, Zurich — Sat, 8 Aug 2026
 - Amnesia Ibiza, Ibiza — Wed, 22 Jul 2026
-- MS Artville, Hamburg — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Leon Licht, Memo., ADAMN
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*

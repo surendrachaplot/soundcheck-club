@@ -1,6 +1,6 @@
 # MD Lovecraft
 
-MD Lovecraft is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Paloma, Berlin on Sun, 25 Oct 2026.
+MD Lovecraft is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Paloma, Berlin on Sun, 25 Oct 2026.
 
 MD Lovecraft is a house and disco artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Hamburg and Sao Paulo. Often billed alongside Funghi & Butter, Johnny Da Cruz and Julez3000. Next up: Paloma, Berlin on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ MD Lovecraft is a house and disco artist based in Germany, tracked on soundcheck
 
 Funghi & Butter, Johnny Da Cruz, Julez3000
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mdlovecraft/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mdlovecraft/)*

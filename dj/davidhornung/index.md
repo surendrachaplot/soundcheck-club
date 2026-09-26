@@ -1,6 +1,6 @@
 # David Hornung
 
-David Hornung is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+David Hornung is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 David Hornung is a house and techno artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Frankfurt and Ghent and 10 more. Often billed alongside Javier Gallardo, Jôka and Buzé. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ David Hornung is a house and techno artist based in Germany, tracked on soundche
 
 Javier Gallardo, Jôka, Buzé
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidhornung/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidhornung/)*

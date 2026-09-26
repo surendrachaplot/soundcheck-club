@@ -1,6 +1,6 @@
 # WAHM
 
-WAHM is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+WAHM is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
 WAHM is a deep house and techno artist based in Morocco, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Brussels and Budapest and 4 more. Often billed alongside ACID FLORA, Animal Trainer and Britta Arnold. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ WAHM is a deep house and techno artist based in Morocco, tracked on soundcheck, 
 
 ACID FLORA, Animal Trainer, Britta Arnold
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wahm/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wahm/)*

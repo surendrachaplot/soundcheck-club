@@ -1,14 +1,13 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "NIGHT SHIFT: Barée Masse (Marie), Umami Sound, GueHu, rabiatch" on Fri, 25 Sept 2026.
+Bulbul Berlin is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "7 YEARS OF BULBUL (FREE ENTRY TILL 23:00): Bulbul Residents & Friends" on Sat, 26 Sept 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including ADAM REC., Almost Famous, Barée Masse and Better Call Paul and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including ADAM REC., Almost Famous, Better Call Paul and boyyyish and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | NIGHT SHIFT: Barée Masse (Marie), Umami Sound, GueHu, rabiatch | Barée Masse, Umami Sound, rabiatch |
 | Sat, 26 Sept 2026 | 7 YEARS OF BULBUL (FREE ENTRY TILL 23:00): Bulbul Residents & Friends | Almost Famous, Better Call Paul, Marc Brauner, Morisia, Nikklaas |
 | Thu, 1 Oct 2026 | Subassi invites: MagDita, ADAM REC., oulcan, Subassi | ADAM REC., MagDita, Subassi, oulcan |
 | Fri, 2 Oct 2026 | NODE: Anamorphotic, CATAWR, Miss Signals, TUP | CATAWR |
@@ -21,4 +20,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, 
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

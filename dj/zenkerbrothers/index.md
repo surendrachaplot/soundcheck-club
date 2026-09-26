@@ -1,6 +1,6 @@
 # Zenker Brothers
 
-Zenker Brothers is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 26 Sept 2026.
+Zenker Brothers is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 26 Sept 2026.
 
 Zenker Brothers is a techno and house artist based in Germany, tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Barcelona and Belfast and 42 more. Often billed alongside Stenny, Skee Mask and re:ni. Next up: Karmen Camina, Strasbourg on Sat 26 Sept.
 
@@ -34,4 +34,4 @@ Zenker Brothers is a techno and house artist based in Germany, tracked on soundc
 
 Stenny, Skee Mask, re:ni
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*

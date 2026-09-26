@@ -1,6 +1,6 @@
 # Meeshy
 
-Meeshy is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Meeshy is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Meeshy is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Birmingham, Ibiza and London and 3 more. Often billed alongside hitty, Djammin and Shenin Amara. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -10,7 +10,7 @@ Meeshy is a tech house and house artist based in United Kingdom, tracked on soun
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | UNO MALTA | Malta |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
-| Sat, 28 Nov 2026 | TBA | London |
+| Sat, 28 Nov 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -27,4 +27,4 @@ Meeshy is a tech house and house artist based in United Kingdom, tracked on soun
 
 hitty, Djammin, Shenin Amara
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meeshy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meeshy/)*

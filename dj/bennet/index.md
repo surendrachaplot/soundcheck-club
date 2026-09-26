@@ -1,6 +1,6 @@
 # Bennet
 
-Bennet is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Gewölbe, Cologne on Sun, 18 Oct 2026.
+Bennet is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Gewölbe, Cologne on Sun, 18 Oct 2026.
 
 Bennet is a house and techno artist tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Bennet (DE), Byron Yeates and Fais Le Beau. Next up: Gewölbe, Cologne on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Bennet is a house and techno artist tracked on soundcheck, with 16 sets logged a
 
 Bennet (DE), Byron Yeates, Fais Le Beau
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet/)*

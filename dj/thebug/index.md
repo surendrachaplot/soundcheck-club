@@ -1,20 +1,20 @@
 # The Bug
 
-The Bug is a Dub and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
+The Bug is a Dub and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at National Gallery Prague, Prague on Fri, 25 Sept 2026.
 
-The Bug is a dub and bass artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Flowdan, Warrior Queen and CCL. Next up: National Gallery Prague, Prague on Thu 24 Sept.
+The Bug is a dub and bass artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Flowdan, Warrior Queen and CCL. Next up: National Gallery Prague, Prague on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | National Gallery Prague | Prague |
+| Fri, 25 Sept 2026 | National Gallery Prague | Prague |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 21 Nov 2026 | Gretchen | Berlin |
 
 ## Recently played
 
-- National Gallery Prague, Prague — Thu, 24 Sept 2026
+- National Gallery Prague, Prague — Fri, 25 Sept 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Gretchen, Berlin — Fri, 17 Jul 2026
@@ -27,4 +27,4 @@ The Bug is a dub and bass artist based in United Kingdom, tracked on soundcheck,
 
 Flowdan, Warrior Queen, CCL
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebug/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebug/)*

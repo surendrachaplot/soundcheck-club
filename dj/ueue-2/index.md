@@ -1,6 +1,6 @@
 # ueue (2)
 
-ueue (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bonobo, Tokyo on Sat, 26 Sept 2026.
+ueue (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bonobo, Tokyo on Sat, 26 Sept 2026.
 
 ueue is a house and disco artist based in Japan, tracked on soundcheck, with 34 sets logged across Osaka and Tokyo. Often billed alongside Kairi Komoda, The Library and Kobashi Mitsuki. Next up: Bonobo, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ ueue is a house and disco artist based in Japan, tracked on soundcheck, with 34 
 
 Kairi Komoda, The Library, Kobashi Mitsuki
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ueue-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ueue-2/)*

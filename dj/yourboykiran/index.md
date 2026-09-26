@@ -1,6 +1,6 @@
 # yourboykiran
 
-yourboykiran is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Aaja Basement, London on Fri, 23 Oct 2026.
+yourboykiran is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Aaja Basement, London on Fri, 23 Oct 2026.
 
 yourboykiran is a bass and baile funk artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Leeds, London, Madrid and New York City. Often billed alongside D-LISH, Darama and Izzi. Next up: Aaja Basement, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ yourboykiran is a bass and baile funk artist based in United Kingdom, tracked on
 
 D-LISH, Darama, Izzi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yourboykiran/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yourboykiran/)*

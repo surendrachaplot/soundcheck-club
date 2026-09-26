@@ -1,6 +1,6 @@
 # Studio 54 Mini Festival at TBA
 
-Studio 54 Mini Festival at TBA on Fri 9 Oct, Valencia. 3 artists on the bill: Camiel Daamen, Flowing and Mike Shannon. House. Preview the line-up and save it on soundcheck.
+Studio 54 Mini Festival at TBA on Fri 9 Oct, Valencia. 7 artists on the bill: Camiel Daamen, Flow, Flowing and Ingy and 3 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,11 @@ Studio 54 Mini Festival at TBA on Fri 9 Oct, Valencia. 3 artists on the bill: Ca
 ## Line-up
 
 - Camiel Daamen
+- Flow
 - Flowing
+- Ingy
+- Julio Siette
 - Mike Shannon
+- Robert Estrela
 
 *Source: [soundcheck](https://soundcheck.club/e/2545253-studio-54-mini-festival-at-tba/)*

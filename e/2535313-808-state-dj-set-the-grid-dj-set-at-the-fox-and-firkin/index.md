@@ -1,6 +1,6 @@
 # 808 State (DJ Set) + The Grid (DJ Set) at The Fox and Firkin
 
-808 State (DJ Set) + The Grid (DJ Set) at The Fox and Firkin on Sat 26 Sept, London. 2 artists on the bill: 808 State and Louise Plus One. House and Acid. Preview the line-up and save it on soundcheck.
+808 State (DJ Set) + The Grid (DJ Set) at The Fox and Firkin on Sat 26 Sept, London. 3 artists on the bill: 808 State, Hughesee and Louise Plus One. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - 808 State
+- Hughesee
 - Louise Plus One
 
 *Source: [soundcheck](https://soundcheck.club/e/2535313-808-state-dj-set-the-grid-dj-set-at-the-fox-and-firkin/)*

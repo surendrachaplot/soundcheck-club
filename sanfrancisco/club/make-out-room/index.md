@@ -1,6 +1,6 @@
 # Make-Out Room
 
-Make-Out Room is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "CALiTALO DiSCO" on Wed, 30 Sept 2026.
+Make-Out Room is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "CALiTALO DiSCO" on Wed, 30 Sept 2026.
 
 Make-Out Room is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including Nino Msk. Browse upcoming dates, start times and who's playing. 3225 22nd Street, San Francisco, CA 94110.
 
@@ -15,4 +15,4 @@ Make-Out Room is a music venue in San Francisco/Oakland listed on soundcheck. 2 
 
 3225 22nd Street, San Francisco, CA 94110, San Francisco/Oakland
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/make-out-room/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/make-out-room/)*

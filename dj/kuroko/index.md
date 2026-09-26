@@ -1,6 +1,6 @@
 # Kuroko
 
-Kuroko is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Eiger Studios, Leeds on Fri, 23 Oct 2026.
+Kuroko is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Eiger Studios, Leeds on Fri, 23 Oct 2026.
 
 Kuroko is a dub techno and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Leeds and Manchester. Often billed alongside Phil Warner, Rory Flynn and Hooley. Next up: Eiger Studios, Leeds on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Kuroko is a dub techno and techno artist based in United Kingdom, tracked on sou
 
 Phil Warner, Rory Flynn, Hooley
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuroko/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuroko/)*

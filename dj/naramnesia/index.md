@@ -1,6 +1,6 @@
 # Naramnesia
 
-Naramnesia is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Greyhound, London on Sat, 3 Oct 2026.
+Naramnesia is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Greyhound, London on Sat, 3 Oct 2026.
 
 Naramnesia is an experimental and hardcore artist tracked on soundcheck, with 31 sets logged across Berlin, Bristol, Budapest and Denver and 4 more. Often billed alongside glas___skin, Synapsefirer and overshine. Next up: The Greyhound, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Naramnesia is an experimental and hardcore artist tracked on soundcheck, with 31
 
 glas___skin, Synapsefirer, overshine
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naramnesia/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naramnesia/)*

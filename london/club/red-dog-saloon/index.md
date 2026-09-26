@@ -1,6 +1,6 @@
 # Red Dog Saloon
 
-Red Dog Saloon is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Elevat3" on Sat, 24 Oct 2026.
+Red Dog Saloon is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Elevat3" on Sat, 24 Oct 2026.
 
 Red Dog Saloon is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 37 Hoxton Square, London, N1 6NN.
 
@@ -14,4 +14,4 @@ Red Dog Saloon is a music venue in London listed on soundcheck. 1 upcoming gig. 
 
 37 Hoxton Square, London, N1 6NN, London
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/red-dog-saloon/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/red-dog-saloon/)*

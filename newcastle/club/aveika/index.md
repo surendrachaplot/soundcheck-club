@@ -1,6 +1,6 @@
 # Aveika
 
-Aveika is a music venue in Newcastle with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Hedkandi Present Disco Heaven" on Sat, 10 Oct 2026.
+Aveika is a music venue in Newcastle with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Hedkandi Present Disco Heaven" on Sat, 10 Oct 2026.
 
 Aveika is a music venue in Newcastle listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Sandhill Newcastle upon Tyne NE1 3AF NE1 3HE.
 
@@ -15,4 +15,4 @@ Aveika is a music venue in Newcastle listed on soundcheck. 2 upcoming gigs. Brow
 
 Sandhill Newcastle upon Tyne NE1 3AF NE1 3HE, Newcastle
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/aveika/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/aveika/)*

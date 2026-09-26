@@ -1,6 +1,6 @@
 # Kombé
 
-Kombé is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at HVEN, Tokyo on Sat, 3 Oct 2026.
+Kombé is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at HVEN, Tokyo on Sat, 3 Oct 2026.
 
 Kombé is a techno and bass artist based in Switzerland, tracked on soundcheck, with 22 sets logged across Amsterdam, Basel, Berlin and Cologne and 5 more. Often billed alongside Mafou, Mukuna and Akanbi. Next up: HVEN, Tokyo on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Kombé is a techno and bass artist based in Switzerland, tracked on soundcheck, 
 
 Mafou, Mukuna, Akanbi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kombe/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kombe/)*

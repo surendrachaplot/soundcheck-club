@@ -1,6 +1,6 @@
 # JAYDAA
 
-JAYDAA is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Variety of venues across Albufeira, Algarve on Fri, 25 Sept 2026.
+JAYDAA is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Variety of venues across Albufeira, Algarve on Fri, 25 Sept 2026.
 
 JAYDAA is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 202 sets logged across Algarve, Birmingham, Ibiza and London and 2 more. Often billed alongside Shenin Amara, Jerome Six and Beezo. Next up: TBA - Variety of venues across Albufeira, Algarve on Fri 25 Sept.
 
@@ -15,6 +15,7 @@ JAYDAA is a tech house and house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
+- TBA - Variety of venues across Albufeira, Algarve — Fri, 25 Sept 2026
 - Ministry Of Sound, London — Sat, 12 Sept 2026
 - 77, London — Sat, 8 Aug 2026
 - Eutopia Warehouse, London — Sat, 18 Jul 2026
@@ -22,10 +23,9 @@ JAYDAA is a tech house and house artist based in United Kingdom, tracked on soun
 - M.O.T, London — Fri, 10 Jul 2026
 - E1, London — Fri, 3 Jul 2026
 - Egg London, London — Sat, 6 Jun 2026
-- Riverside East, London — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Shenin Amara, Jerome Six, Beezo
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydaa/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydaa/)*

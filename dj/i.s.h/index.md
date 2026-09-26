@@ -1,6 +1,6 @@
 # I.S.H
 
-I.S.H is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Monkey Loft, Seattle on Sat, 10 Oct 2026.
+I.S.H is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Monkey Loft, Seattle on Sat, 10 Oct 2026.
 
 I.S.H is a house and tech house artist based in Palestine, tracked on soundcheck, with 21 sets logged across San Francisco/Oakland, Seattle and Vancouver. Often billed alongside Alec Fursman, Sammy Taylor and 858fantasy. Next up: The Monkey Loft, Seattle on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ I.S.H is a house and tech house artist based in Palestine, tracked on soundcheck
 
 Alec Fursman, Sammy Taylor, 858fantasy
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i.s.h/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i.s.h/)*

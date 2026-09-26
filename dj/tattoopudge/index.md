@@ -1,6 +1,6 @@
 # Tattoopudge
 
-Tattoopudge is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Somewhere in Los Angeles, Los Angeles on Sat, 17 Oct 2026.
+Tattoopudge is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Somewhere in Los Angeles, Los Angeles on Sat, 17 Oct 2026.
 
 Tattoopudge is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Chicago, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Albina Van, DJ Ruff and Frida Henson. Next up: TBA - Somewhere in Los Angeles, Los Angeles on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Tattoopudge is a techno and house artist based in United States of America, trac
 
 Albina Van, DJ Ruff, Frida Henson
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tattoopudge/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tattoopudge/)*

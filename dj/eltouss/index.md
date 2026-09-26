@@ -1,6 +1,6 @@
 # Eltouss
 
-Eltouss is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Nido Marseille, Marseille on Sat, 21 Nov 2026.
+Eltouss is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Nido Marseille, Marseille on Sat, 21 Nov 2026.
 
 Eltouss is an electronic artist based in France, tracked on soundcheck, with 8 sets logged across Berlin, London, Marseille and Paris and 1 more. Often billed alongside Oscar Faivre, 192 GmbH and AT-XYA. Next up: Nido Marseille, Marseille on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Eltouss is an electronic artist based in France, tracked on soundcheck, with 8 s
 
 Oscar Faivre, 192 GmbH, AT-XYA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eltouss/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eltouss/)*

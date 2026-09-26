@@ -1,14 +1,13 @@
 # Gorilla
 
-Gorilla is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Grey Lantern presents: She Past Away / Actors" on Fri, 25 Sept 2026.
+Gorilla is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "INTERIM_001: Scruz & Drinks On Me" on Thu, 1 Oct 2026.
 
-Gorilla is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including alterum, Amelia Leigh, Aries and Compulsive Leia and 2 more. Browse upcoming dates, start times and who's playing. 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom.
+Gorilla is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including alterum, Amelia Leigh, Aries and Compulsive Leia and 2 more. Browse upcoming dates, start times and who's playing. 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Grey Lantern presents: She Past Away / Actors |  |
 | Thu, 1 Oct 2026 | INTERIM_001: Scruz & Drinks On Me | Amelia Leigh, Drinks On Me, SHADEV, Scruz |
 | Sat, 3 Oct 2026 | Bass Face // MCR // DNB . 360° BOILER ROOM +*VERY SPECIAL GUESTS*! LAST FREE TICKETS |  |
 | Sat, 3 Oct 2026 | 360° BOILER ROOM // 140, BASS, GRIME // LAST FREE TICKETS |  |
@@ -22,4 +21,4 @@ Gorilla is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, wi
 
 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom, Manchester
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/gorilla/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/gorilla/)*

@@ -1,14 +1,13 @@
 # Supperclub
 
-Supperclub is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "PINK" on Fri, 25 Sept 2026.
+Supperclub is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Supper's House x Heatwave" on Sat, 26 Sept 2026.
 
-Supperclub is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including 8KAYS, Maqossa, Axel Haube and Che Boy and 2 more. Browse upcoming dates, start times and who's playing. Singel 460, 1017 AW Amsterdam.
+Supperclub is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including 8KAYS, Maqossa, Axel Haube and Che Boy and 2 more. Browse upcoming dates, start times and who's playing. Singel 460, 1017 AW Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | PINK |  |
 | Sat, 26 Sept 2026 | Supper's House x Heatwave |  |
 | Thu, 1 Oct 2026 | Source x Archive: Y2K Edition |  |
 | Sat, 3 Oct 2026 | Synced x SV Event |  |
@@ -23,4 +22,4 @@ Supperclub is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs,
 
 Singel 460, 1017 AW Amsterdam, Amsterdam
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub/)*

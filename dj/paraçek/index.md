@@ -1,14 +1,13 @@
 # Paraçek
 
-Paraçek is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 25 Sept 2026.
+Paraçek is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at OST, Berlin on Fri, 23 Oct 2026.
 
-Paraçek is a techno and trance artist based in Germany, tracked on soundcheck, with 154 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside A.N.I., KLING&KLANG and DJ WASSERFALL. Next up: RSO.BERLIN, Berlin on Fri 25 Sept.
+Paraçek is a techno and trance artist based in Germany, tracked on soundcheck, with 154 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside A.N.I., KLING&KLANG and DJ WASSERFALL. Next up: OST, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 23 Oct 2026 | OST | Berlin |
 | Sat, 24 Oct 2026 | Carlswerk Victoria | Cologne |
 | Fri, 30 Oct 2026 | Distillery | Leipzig |
@@ -18,6 +17,7 @@ Paraçek is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- RSO.BERLIN, Berlin — Fri, 25 Sept 2026
 - Lokschuppen Berlin, Berlin — Fri, 4 Sept 2026
 - Marienbergpark, Nürnberg — Sat, 29 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
@@ -25,10 +25,9 @@ Paraçek is a techno and trance artist based in Germany, tracked on soundcheck, 
 - Munich Beach Resort, Munich — Sat, 8 Aug 2026
 - Waschhaus, Berlin — Fri, 7 Aug 2026
 - TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
-- Donauinsel, Vienna — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 A.N.I., KLING&KLANG, DJ WASSERFALL
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paraçek/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paraçek/)*

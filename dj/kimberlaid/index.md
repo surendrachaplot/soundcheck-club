@@ -1,6 +1,6 @@
 # KimberlaID
 
-KimberlaID is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+KimberlaID is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
 KimberlaID is a techno and hardcore artist based in France, tracked on soundcheck, with 52 sets logged across Berlin, Brussels, Geneva and Ibiza and 10 more. Often billed alongside Karlfroye, Lolalita and Claude Murder. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
@@ -18,6 +18,7 @@ KimberlaID is a techno and hardcore artist based in France, tracked on soundchec
 
 ## Recently played
 
+- Cabaret  Aléatoire, Marseille — Fri, 25 Sept 2026
 - ESC, Montreal — Sat, 19 Sept 2026
 - Amnesia Ibiza, Ibiza — Wed, 15 Jul 2026
 - Le Trabendo, Paris — Fri, 26 Jun 2026
@@ -25,10 +26,9 @@ KimberlaID is a techno and hardcore artist based in France, tracked on soundchec
 - IDRA, Manchester — Sat, 30 May 2026
 - OXI, Berlin — Fri, 8 May 2026
 - La Station - Gare des Mines, Paris — Sat, 25 Apr 2026
-- Fuchs2, Prague — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Karlfroye, Lolalita, Claude Murder
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberlaid/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberlaid/)*

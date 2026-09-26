@@ -1,6 +1,6 @@
 # CHKLTE
 
-CHKLTE is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Starlane Pizza Bar, London on Fri, 25 Sept 2026.
+CHKLTE is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Starlane Pizza Bar, London on Fri, 25 Sept 2026.
 
 CHKLTE is a house and minimal artist based in United States of America, tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Auckland and Austin and 28 more. Often billed alongside David Berrie, Kev Gee and Brett Johnson. Next up: Starlane Pizza Bar, London on Fri 25 Sept.
 
@@ -12,6 +12,7 @@ CHKLTE is a house and minimal artist based in United States of America, tracked 
 
 ## Recently played
 
+- Starlane Pizza Bar, London — Fri, 25 Sept 2026
 - Myra Ostraria, Lisbon — Fri, 4 Sept 2026
 - Kater, Berlin — Sun, 30 Aug 2026
 - The Summer of George, Chicago — Sat, 29 Aug 2026
@@ -19,10 +20,9 @@ CHKLTE is a house and minimal artist based in United States of America, tracked 
 - TBA - 6910 Shirley Avenue , Austin — Sat, 22 Aug 2026
 - TBA - Private Campground, Seattle — Fri, 21 Aug 2026
 - TBA - Warehouse, Denver — Sat, 15 Aug 2026
-- Phoenix Landing, Boston — Wed, 12 Aug 2026
 
 ## Shares bills with
 
 David Berrie, Kev Gee, Brett Johnson
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*

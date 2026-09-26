@@ -1,6 +1,6 @@
 # Jim Bow
 
-Jim Bow is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Club no.8, London on Sat, 21 Nov 2026.
+Jim Bow is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Club no.8, London on Sat, 21 Nov 2026.
 
 Jim Bow is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside COBUU, Barney and Cassius Taylor. Next up: Club no.8, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Jim Bow is a house and tech house artist based in United Kingdom, tracked on sou
 
 COBUU, Barney, Cassius Taylor
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbow/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbow/)*

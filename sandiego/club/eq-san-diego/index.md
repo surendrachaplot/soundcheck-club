@@ -1,14 +1,13 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 10 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "1morning" on Fri, 25 Sept 2026.
+EQ San Diego is a music venue in San Diego with 9 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "SUN DIALED FESTIVAL WARM UP DAY PARTY 12 NOON to 8" on Sat, 26 Sept 2026.
 
-EQ San Diego is a music venue in San Diego listed on soundcheck. 10 upcoming gigs, with line-ups including 1morning, &friends, Baby Jane and Christian Löffler and 2 more. Browse upcoming dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
+EQ San Diego is a music venue in San Diego listed on soundcheck. 9 upcoming gigs, with line-ups including &friends, Baby Jane, Christian Löffler and Codak and 2 more. Browse upcoming dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | 1morning | 1morning, TAJ (2) |
 | Sat, 26 Sept 2026 | SUN DIALED FESTIVAL WARM UP DAY PARTY 12 NOON to 8 |  |
 | Thu, 1 Oct 2026 | The Techno Jungle |  |
 | Fri, 2 Oct 2026 | Punso Throws a Party | Codak, Punso, match.a.mor, snaxks |
@@ -23,4 +22,4 @@ EQ San Diego is a music venue in San Diego listed on soundcheck. 10 upcoming gig
 
 1271 University Ave San Diego, CA 92103, San Diego
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*

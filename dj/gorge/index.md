@@ -1,6 +1,6 @@
 # Gorge
 
-Gorge is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Mothership, Auckland on Sat, 26 Sept 2026.
+Gorge is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Mothership, Auckland on Sat, 26 Sept 2026.
 
 Gorge is a house and deep house artist based in Germany, tracked on soundcheck, with 13 sets logged across Auckland, Bali, Barcelona and Copenhagen and 6 more. Often billed alongside Alain Hellion, Danjo and Hardy Heller. Next up: The Mothership, Auckland on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Gorge is a house and deep house artist based in Germany, tracked on soundcheck, 
 
 Alain Hellion, Danjo, Hardy Heller
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gorge/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gorge/)*

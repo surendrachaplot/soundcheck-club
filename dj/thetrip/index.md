@@ -1,6 +1,6 @@
 # The Trip
 
-The Trip is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Quinta Mira Rio, Lisbon on Sat, 26 Sept 2026.
+The Trip is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Quinta Mira Rio, Lisbon on Sat, 26 Sept 2026.
 
 The Trip is a house and techno artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Phill de Janeiro, Sam Alfred and Benji King. Next up: Quinta Mira Rio, Lisbon on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ The Trip is a house and techno artist based in United Kingdom, tracked on soundc
 
 Phill de Janeiro, Sam Alfred, Benji King
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*

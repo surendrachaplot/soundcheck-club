@@ -1,6 +1,6 @@
 # Lexx
 
-Lexx is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bardo Speakeasy, Mexico City on Thu, 24 Sept 2026.
+Lexx is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bardo Speakeasy, Mexico City on Thu, 24 Sept 2026.
 
 Lexx is a disco and house artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Manchester, Mexico City and Zurich. Often billed alongside KAYYAK, Kalabrese and Alex Dallas. Next up: Bardo Speakeasy, Mexico City on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Lexx is a disco and house artist based in Switzerland, tracked on soundcheck, wi
 
 KAYYAK, Kalabrese, Alex Dallas
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexx/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexx/)*

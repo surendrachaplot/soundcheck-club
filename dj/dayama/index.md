@@ -1,6 +1,6 @@
 # Da Yama
 
-Da Yama is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Enter Shibuya, Tokyo on Mon, 28 Sept 2026.
+Da Yama is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Enter Shibuya, Tokyo on Mon, 28 Sept 2026.
 
 Da Yama is a techno and house artist based in Japan, tracked on soundcheck, with 193 sets logged across Osaka and Tokyo. Often billed alongside Taichi Kawahira, Kojiro and junkie babe. Next up: Enter Shibuya, Tokyo on Mon 28 Sept.
 
@@ -26,4 +26,4 @@ Da Yama is a techno and house artist based in Japan, tracked on soundcheck, with
 
 Taichi Kawahira, Kojiro, junkie babe
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dayama/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dayama/)*

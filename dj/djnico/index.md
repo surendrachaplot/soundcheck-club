@@ -1,14 +1,15 @@
 # Dj Nico
 
-Dj Nico is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Circle Line Cruises, New York City on Sat, 26 Sept 2026.
+Dj Nico is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Circle Line Cruises, New York City on Sat, 26 Sept 2026.
 
-Dj Nico is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 53 sets logged across Chicago, Detroit, Houston and London and 10 more. Often billed alongside Cquestt, Qemist and shekdash. Next up: Circle Line Cruises, New York City on Sat 26 Sept.
+Dj Nico is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 54 sets logged across Chicago, Detroit, Houston and London and 10 more. Often billed alongside Cquestt, Qemist and shekdash. Next up: Circle Line Cruises, New York City on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Circle Line Cruises | New York City |
+| Sat, 31 Oct 2026 | El Rio | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | El Rio | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +27,4 @@ Dj Nico is a club and ghetto tech artist based in United States of America, trac
 
 Cquestt, Qemist, shekdash
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnico/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnico/)*

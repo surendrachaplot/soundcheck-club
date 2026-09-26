@@ -1,6 +1,6 @@
 # Sabura
 
-Sabura is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Sabura is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Sabura is a techno and house artist based in Germany, tracked on soundcheck, with 105 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 7 more. Often billed alongside Maurice Mino, Sin:port and Konfusia. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Sabura is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Maurice Mino, Sin:port, Konfusia
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabura/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabura/)*

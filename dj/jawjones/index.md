@@ -1,6 +1,6 @@
 # Jaw Jones
 
-Jaw Jones is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Jaw Jones is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Jaw Jones is a techno and house artist based in Canada, tracked on soundcheck, with 48 sets logged across Montreal and Toronto. Often billed alongside Marnigurl, Zellers and Kajaka. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -13,6 +13,7 @@ Jaw Jones is a techno and house artist based in Canada, tracked on soundcheck, w
 
 ## Recently played
 
+- 131 Mccormack St, Toronto — Fri, 25 Sept 2026
 - Cherry Beach, Toronto — Sun, 28 Jun 2026
 - TBA - Toronto, Toronto — Sat, 27 Jun 2026
 - Rhythm, Toronto — Fri, 5 Jun 2026
@@ -20,10 +21,9 @@ Jaw Jones is a techno and house artist based in Canada, tracked on soundcheck, w
 - Handlebar, Toronto — Fri, 17 Apr 2026
 - Lee's Palace, Toronto — Fri, 27 Mar 2026
 - Racket, Toronto — Sat, 21 Mar 2026
-- Buddies in Bad Times, Toronto — Fri, 20 Mar 2026
 
 ## Shares bills with
 
 Marnigurl, Zellers, Kajaka
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jawjones/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jawjones/)*

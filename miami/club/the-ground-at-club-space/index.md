@@ -1,14 +1,13 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 14 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Autonomy: SHERELLE, Bok Bok, & Introspekt" on Fri, 25 Sept 2026.
+The Ground at Club Space is a music venue in Miami with 13 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Andy Stott + Carrier" on Fri, 2 Oct 2026.
 
-The Ground at Club Space is a music venue in Miami listed on soundcheck. 14 upcoming gigs, with line-ups including 1-800-Lolita, 1tbsp, Berrakka and Actress and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
+The Ground at Club Space is a music venue in Miami listed on soundcheck. 13 upcoming gigs, with line-ups including 1-800-Lolita, 1tbsp, Berrakka and Actress and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Autonomy: SHERELLE, Bok Bok, & Introspekt | Bok Bok, Introspekt, Marie Qrie, SHERELLE, Xilla |
 | Fri, 2 Oct 2026 | Andy Stott + Carrier | Andy Stott, Carrier, Uchi |
 | Fri, 9 Oct 2026 | Rebecca Black: Exhibitionism on Tour | Winter Wrong |
 | Thu, 15 Oct 2026 | Satellite: Flying Lotus (DJ Set)  More | Actress, Flying Lotus, Ivy Lab, Loukeman, Suzi Analogue |
@@ -18,9 +17,10 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 14 upco
 | Sat, 24 Oct 2026 | BLACK ROOM: Kander | CÛLTÛS VÎS, Dadrev, DomnRob, Kander |
 | Fri, 30 Oct 2026 | Halloweek: Emo Nite |  |
 | Sat, 31 Oct 2026 | PERREO DEL FUTURO Halloween | Anunaku, MARACUYá, Manuka Honey, Mr. Bitch, SATURNSARii, TSVI, yung_womb |
+| Fri, 6 Nov 2026 | Paige Tomlinson + LAMMER + STÜM | ALEJO (US), LAMMER, Paige Tomlinson, STÜM |
 
 ## Address
 
 34 NE 11 Street, Miami, FL 33132, USA, Miami
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*

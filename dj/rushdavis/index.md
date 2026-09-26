@@ -1,6 +1,6 @@
 # Rush Davis
 
-Rush Davis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, New York City on Fri, 25 Sept 2026.
+Rush Davis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, New York City on Fri, 25 Sept 2026.
 
 Rush Davis is a house and techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across Berlin, Cardiff, Edinburgh and Hamburg and 6 more. Often billed alongside Shaun Ross, Ashley Younniä and Saturn Risin9. Next up: TBA, New York City on Fri 25 Sept.
 
@@ -12,6 +12,7 @@ Rush Davis is a house and techno artist based in United States of America, track
 
 ## Recently played
 
+- TBA, New York City — Fri, 25 Sept 2026
 - Signal, New York City — Sun, 6 Sept 2026
 - Rodeo, New York City — Sat, 5 Sept 2026
 - Club Rawhide, New York City — Sat, 29 Aug 2026
@@ -19,10 +20,9 @@ Rush Davis is a house and techno artist based in United States of America, track
 - TBA, Los Angeles — Sat, 1 Aug 2026
 - BK Backyard, New York City — Sun, 19 Jul 2026
 - Club Rawhide, New York City — Sat, 11 Jul 2026
-- Versalles 64, Mexico City — Sat, 14 Feb 2026
 
 ## Shares bills with
 
 Shaun Ross, Ashley Younniä, Saturn Risin9
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rushdavis/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rushdavis/)*

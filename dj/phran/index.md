@@ -1,18 +1,18 @@
 # Phran
 
-Phran is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
+Phran is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Caixaforum, Barcelona on Fri, 30 Oct 2026.
 
-Phran is a club and experimental artist based in Venezuela, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Copenhagen and Düsseldorf and 3 more. Often billed alongside Chica Acosta, Dengue Dengue Dengue and EYRA. Next up: ÆDEN, Berlin on Fri 25 Sept.
+Phran is a club and experimental artist based in Venezuela, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Copenhagen and Düsseldorf and 3 more. Often billed alongside Chica Acosta, Dengue Dengue Dengue and EYRA. Next up: Caixaforum, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | ÆDEN | Berlin |
 | Fri, 30 Oct 2026 | Caixaforum | Barcelona |
 
 ## Recently played
 
+- ÆDEN, Berlin — Fri, 25 Sept 2026
 - Le Sucre, Lyon — Sat, 8 Aug 2026
 - La Paloma, Barcelona — Sat, 20 Jun 2026
 - TBA, Barcelona — Fri, 22 May 2026
@@ -20,10 +20,9 @@ Phran is a club and experimental artist based in Venezuela, tracked on soundchec
 - Amfiteatre del Parc Catalunya, Barcelona — Thu, 14 May 2026
 - 7833 Soundlab, Barcelona — Sat, 14 Mar 2026
 - LAUT, Barcelona — Fri, 20 Feb 2026
-- Club Malasaña, Madrid — Fri, 13 Feb 2026
 
 ## Shares bills with
 
 Chica Acosta, Dengue Dengue Dengue, EYRA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phran/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phran/)*

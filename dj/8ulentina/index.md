@@ -1,6 +1,6 @@
 # 8ULENTINA
 
-8ULENTINA is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Philadelphia on Sat, 10 Oct 2026.
+8ULENTINA is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Philadelphia on Sat, 10 Oct 2026.
 
 8ULENTINA is a club and experimental artist based in United States of America, tracked on soundcheck, with 51 sets logged across Amsterdam, Los Angeles, Mexico City and New York City and 5 more. Often billed alongside Embaci, Doula and DJ Haram. Next up: TBA, Philadelphia on Sat 10 Oct.
 
@@ -26,4 +26,4 @@
 
 Embaci, Doula, DJ Haram
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/8ulentina/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/8ulentina/)*

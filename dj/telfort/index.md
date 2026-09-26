@@ -1,18 +1,18 @@
 # Telfort
 
-Telfort is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Sneaky Pete's, Edinburgh on Fri, 25 Sept 2026.
+Telfort is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at People's Leisure Club, Edinburgh on Fri, 2 Oct 2026.
 
-Telfort is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Edinburgh and London and 2 more. Often billed alongside noodle, Move D and damside. Next up: Sneaky Pete's, Edinburgh on Fri 25 Sept.
+Telfort is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Edinburgh and London and 2 more. Often billed alongside noodle, Move D and damside. Next up: People's Leisure Club, Edinburgh on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 2 Oct 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
 
+- Sneaky Pete's, Edinburgh — Fri, 25 Sept 2026
 - TILLATEC, Amsterdam — Sat, 15 Aug 2026
 - Sneaky Pete's, Edinburgh — Fri, 26 Jun 2026
 - CHICO, Mexico City — Sat, 11 Apr 2026
@@ -20,10 +20,9 @@ Telfort is a house and deep house artist based in United Kingdom, tracked on sou
 - The Mash House, Edinburgh — Fri, 30 Jan 2026
 - Sneaky Pete's, Edinburgh — Fri, 26 Dec 2025
 - Club Cheek, London — Sat, 22 Nov 2025
-- Sneaky Pete's, Edinburgh — Fri, 26 Sept 2025
 
 ## Shares bills with
 
 noodle, Move D, damside
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/telfort/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/telfort/)*

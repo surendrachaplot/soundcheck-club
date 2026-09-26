@@ -1,6 +1,6 @@
 # Hugel
 
-Hugel is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cité du Cinéma, Paris on Thu, 1 Oct 2026.
+Hugel is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cité du Cinéma, Paris on Thu, 1 Oct 2026.
 
 Hugel is a house and afro house artist based in France, tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Auckland and Austin and 35 more. Often billed alongside Miss Monique, Dombresky and Eran Hersh. Next up: Cité du Cinéma, Paris on Thu 1 Oct.
 
@@ -29,4 +29,4 @@ Hugel is a house and afro house artist based in France, tracked on soundcheck, w
 
 Miss Monique, Dombresky, Eran Hersh
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*

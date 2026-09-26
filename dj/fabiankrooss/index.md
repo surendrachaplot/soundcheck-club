@@ -1,6 +1,6 @@
 # Fabian Krooss
 
-Fabian Krooss is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
+Fabian Krooss is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
 
 Fabian Krooss is a house and techno artist based in Germany, tracked on soundcheck, with 42 sets logged across Berlin, Brisbane, Cologne and Hamburg and 7 more. Often billed alongside Oliver Koletzki, Frida Darko and Kon Faber. Next up: Kater, Berlin on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Fabian Krooss is a house and techno artist based in Germany, tracked on soundche
 
 Oliver Koletzki, Frida Darko, Kon Faber
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiankrooss/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiankrooss/)*

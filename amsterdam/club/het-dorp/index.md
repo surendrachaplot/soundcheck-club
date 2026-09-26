@@ -1,6 +1,6 @@
 # Het Dorp
 
-Het Dorp is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "ADE Naturalis festival with Manfredas, Paula Tape, Jonny Rock " on Thu, 22 Oct 2026.
+Het Dorp is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "ADE Naturalis festival with Manfredas, Paula Tape, Jonny Rock " on Thu, 22 Oct 2026.
 
 Het Dorp is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Paula Tape, Arista, BELLA (NL) and Budino and 2 more. Browse upcoming dates, start times and who's playing. Noordwal 1, 1021 PX Amsterdam, Netherlands.
 
@@ -16,4 +16,4 @@ Het Dorp is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, wi
 
 Noordwal 1, 1021 PX Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-dorp/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-dorp/)*

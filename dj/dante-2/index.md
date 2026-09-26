@@ -1,6 +1,6 @@
 # Dante (H501)
 
-Dante (H501) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Stazione Centrale, Milan on Sat, 26 Sept 2026.
+Dante (H501) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Stazione Centrale, Milan on Sat, 26 Sept 2026.
 
 Dante (H501) is a house and tech house artist based in Italy, tracked on soundcheck, with 79 sets logged across Amsterdam, Brussels, London and Madrid and 3 more. Often billed alongside Leo Benassi, AGNES (IT) and Pancratio. Next up: Stazione Centrale, Milan on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Dante (H501) is a house and tech house artist based in Italy, tracked on soundch
 
 Leo Benassi, AGNES (IT), Pancratio
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dante-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dante-2/)*

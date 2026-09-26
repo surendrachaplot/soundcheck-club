@@ -1,6 +1,6 @@
 # Soso Tharpa
 
-Soso Tharpa is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at El Pumarejo Barcelona, Barcelona on Sat, 24 Oct 2026.
+Soso Tharpa is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at El Pumarejo Barcelona, Barcelona on Sat, 24 Oct 2026.
 
 Soso Tharpa is a techno and bass artist based in United States of America, tracked on soundcheck, with 22 sets logged across Barcelona, Boston, New York City and Washington DC. Often billed alongside Djoser, Baronhawk Poitier and Dave from Stoke. Next up: El Pumarejo Barcelona, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Soso Tharpa is a techno and bass artist based in United States of America, track
 
 Djoser, Baronhawk Poitier, Dave from Stoke
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sosotharpa/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sosotharpa/)*

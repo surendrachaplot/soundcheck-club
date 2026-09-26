@@ -1,6 +1,6 @@
 # Becky (2)
 
-Becky (2) is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Glove That Fits, London on Fri, 2 Oct 2026.
+Becky (2) is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Glove That Fits, London on Fri, 2 Oct 2026.
 
 Becky is a house and bass artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Dublin and London. Often billed alongside Dåser, JWY and POSER. Next up: The Glove That Fits, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Becky is a house and bass artist based in United Kingdom, tracked on soundcheck,
 
 Dåser, JWY (1), POSER
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/becky-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/becky-2/)*

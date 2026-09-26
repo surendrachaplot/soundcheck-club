@@ -1,6 +1,6 @@
 # Djen
 
-Djen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Skin Club, Madrid on Sun, 27 Sept 2026.
+Djen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Skin Club, Madrid on Sun, 27 Sept 2026.
 
 Djen is a techno and house artist based in Spain, tracked on soundcheck, with 46 sets logged across Lisbon, Madrid and Miami. Often billed alongside Reitze, Tucu (Tucu) and Belkan. Next up: Skin Club, Madrid on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Djen is a techno and house artist based in Spain, tracked on soundcheck, with 46
 
 Reitze, Tucu (Tucu), Belkan
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djen/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djen/)*

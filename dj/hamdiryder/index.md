@@ -1,6 +1,6 @@
 # Hamdi Ryder
 
-Hamdi Ryder is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Hamdi Ryder is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Hamdi Ryder is a house and minimal artist tracked on soundcheck, with 10 sets logged across Frankfurt, Istanbul, Lyon and Paris and 1 more. Often billed alongside Jannis Brinkmann, Lemac and SAFA. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Hamdi Ryder is a house and minimal artist tracked on soundcheck, with 10 sets lo
 
 Jannis Brinkmann, Lemac, SAFA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdiryder/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdiryder/)*

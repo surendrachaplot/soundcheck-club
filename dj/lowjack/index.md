@@ -1,6 +1,6 @@
 # Low Jack
 
-Low Jack is a Club and Experimental artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Jardin des Traverses, Paris on Sat, 26 Sept 2026.
+Low Jack is a Club and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Jardin des Traverses, Paris on Sat, 26 Sept 2026.
 
 Low Jack is a club and experimental artist based in France, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Bamao Yendé, DJ Plead and Brodinski. Next up: Jardin des Traverses, Paris on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Low Jack is a club and experimental artist based in France, tracked on soundchec
 
 Bamao Yendé, DJ Plead, Brodinski
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowjack/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowjack/)*

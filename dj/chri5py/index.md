@@ -1,6 +1,6 @@
 # CHRI5PY
 
-CHRI5PY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 16 Oct 2026.
+CHRI5PY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 16 Oct 2026.
 
 CHRI5PY is a techno and trance artist based in United States of America, tracked on soundcheck, with 5 sets logged across San Francisco/Oakland. Often billed alongside BEROTRSH, Clarity and E_M_T. Next up: Underground SF, San Francisco/Oakland on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ CHRI5PY is a techno and trance artist based in United States of America, tracked
 
 BEROTRSH, Clarity (3), E_M_T
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chri5py/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chri5py/)*

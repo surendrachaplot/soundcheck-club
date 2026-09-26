@@ -1,6 +1,6 @@
 # Paul Wolf
 
-Paul Wolf is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
+Paul Wolf is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
 
 Paul Wolf is a techno and hardcore artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin and Cologne. Often billed alongside monervo, Mark Dekoda and Thomas Lizzara. Next up: Lokschuppen Berlin, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Paul Wolf is a techno and hardcore artist based in Germany, tracked on soundchec
 
 monervo, Mark Dekoda, Thomas Lizzara
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolf/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolf/)*

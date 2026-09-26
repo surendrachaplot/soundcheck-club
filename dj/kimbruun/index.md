@@ -1,6 +1,6 @@
 # Kim Bruun
 
-Kim Bruun is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Rei Bar, Berlin on Sat, 26 Sept 2026.
+Kim Bruun is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Rei Bar, Berlin on Sat, 26 Sept 2026.
 
 Kim Bruun is a house and acid artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside The Burrell Connection, Furz and kairavi. Next up: Rei Bar, Berlin on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Kim Bruun is a house and acid artist based in Germany, tracked on soundcheck, wi
 
 The Burrell Connection, Furz, kairavi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimbruun/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimbruun/)*

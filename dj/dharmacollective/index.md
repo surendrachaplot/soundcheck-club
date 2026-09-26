@@ -1,6 +1,6 @@
 # Dharma Collective
 
-Dharma Collective is a Afrobeat and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 24 Kitchen Street Green Room, Liverpool on Sat, 7 Nov 2026.
+Dharma Collective is a Afrobeat and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at 24 Kitchen Street Green Room, Liverpool on Sat, 7 Nov 2026.
 
 Dharma Collective is an afrobeat and house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Liverpool, Manchester and Paris. Often billed alongside Errol, Ruby Savage and Coco Maria. Next up: 24 Kitchen Street Green Room, Liverpool on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Dharma Collective is an afrobeat and house artist based in United Kingdom, track
 
 Errol, Ruby Savage, Coco Maria
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dharmacollective/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dharmacollective/)*

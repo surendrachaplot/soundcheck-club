@@ -1,6 +1,6 @@
 # DJ Delivero
 
-DJ Delivero is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Masada, Milan on Sun, 11 Oct 2026.
+DJ Delivero is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Masada, Milan on Sun, 11 Oct 2026.
 
 DJ Delivero is a techno and house artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam and Milan. Often billed alongside Crinkhoff, Stëfän Däniëls and Mata Disk. Next up: Masada, Milan on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ DJ Delivero is a techno and house artist based in Netherlands, tracked on soundc
 
 Crinkhoff, Stëfän Däniëls, Mata Disk
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdelivero/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdelivero/)*

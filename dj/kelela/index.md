@@ -1,6 +1,6 @@
 # Kelela
 
-Kelela is a R&B and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Kelela is a R&B and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Kelela is a r&b and electronica artist based in United States of America, tracked on soundcheck, with 16 sets logged across Berlin, Chicago, Copenhagen and London and 10 more. Often billed alongside Arca, Bassvictim and Beltran. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Kelela is a r&b and electronica artist based in United States of America, tracke
 
 Arca, Bassvictim, Beltran
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kelela/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kelela/)*

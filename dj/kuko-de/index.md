@@ -1,13 +1,14 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 17 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bootshaus, Cologne on Sat, 26 Sept 2026.
+KUKO is a Techno and Trance artist with 18 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bootshaus, Cologne on Sat, 26 Sept 2026.
 
-KUKO is a techno and trance artist based in Germany, tracked on soundcheck, with 217 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Bootshaus, Cologne on Sat 26 Sept.
+KUKO is a techno and trance artist based in Germany, tracked on soundcheck, with 218 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Bootshaus, Cologne on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Bootshaus | Cologne |
 | Sat, 26 Sept 2026 | Bootshaus | Cologne |
 | Sat, 26 Sept 2026 | Südbrücke Open Air | Cologne |
 | Fri, 2 Oct 2026 | Schrotty | Cologne |
@@ -19,7 +20,6 @@ KUKO is a techno and trance artist based in Germany, tracked on soundcheck, with
 | Sat, 7 Nov 2026 | TBA - MATREZ, Žorža Klemansoa 37, 11000 | Belgrade |
 | Fri, 13 Nov 2026 | Melbourne Pavilion | Melbourne |
 | Fri, 20 Nov 2026 | Native Beach Club | Buenos Aires |
-| Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ KUKO is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

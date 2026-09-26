@@ -1,6 +1,6 @@
 # Alytta
 
-Alytta is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+Alytta is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
 
 Alytta is an electronica and techno artist based in Mexico, tracked on soundcheck, with 8 sets logged across Mexico City. Often billed alongside DJ B2B, Dj Render and Enya Botello. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Alytta is an electronica and techno artist based in Mexico, tracked on soundchec
 
 DJ B2B, Dj Render, Enya Botello
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alytta/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alytta/)*

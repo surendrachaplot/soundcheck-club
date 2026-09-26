@@ -1,14 +1,13 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Grelle Forelle, Vienna on Fri, 25 Sept 2026.
+Trancemaster Krause is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
 
-Trancemaster Krause is a techno and trance artist based in Germany, tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Grelle Forelle, Vienna on Fri 25 Sept.
+Trancemaster Krause is a techno and trance artist based in Germany, tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Phantom Bar Berlin, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Grelle Forelle | Vienna |
 | Wed, 7 Oct 2026 | Phantom Bar Berlin | Berlin |
 | Sat, 10 Oct 2026 | Junkyard Dortmund | Dortmund-essen |
 | Sat, 24 Oct 2026 | The Bulldog Palace | Amsterdam |
@@ -20,6 +19,7 @@ Trancemaster Krause is a techno and trance artist based in Germany, tracked on s
 
 ## Recently played
 
+- Grelle Forelle, Vienna — Fri, 25 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 19 Sept 2026
 - Bootshaus, Cologne — Fri, 18 Sept 2026
 - Bootshaus, Cologne — Fri, 18 Sept 2026
@@ -27,10 +27,9 @@ Trancemaster Krause is a techno and trance artist based in Germany, tracked on s
 - Lehmann Club, Stuttgart — Fri, 11 Sept 2026
 - TBA, Melbourne — Sat, 5 Sept 2026
 - Home The Venue, Sydney — Fri, 4 Sept 2026
-- Revolver Upstairs, Melbourne — Thu, 3 Sept 2026
 
 ## Shares bills with
 
 Cleopard2000, Mika Heggemann, Justin Tinderdate
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*

@@ -1,6 +1,6 @@
 # tuzuRa
 
-tuzuRa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Fai Aoyama, Tokyo on Fri, 30 Oct 2026.
+tuzuRa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Fai Aoyama, Tokyo on Fri, 30 Oct 2026.
 
 tuzuRa is a techno and house artist based in Japan, tracked on soundcheck, with 56 sets logged across Tokyo. Often billed alongside WAKA XINXI, Hackmarkt and Sonic Smile. Next up: Fai Aoyama, Tokyo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ tuzuRa is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 WAKA XINXI, Hackmarkt, Sonic Smile
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tuzura/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tuzura/)*

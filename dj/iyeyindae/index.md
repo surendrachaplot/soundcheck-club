@@ -1,6 +1,6 @@
 # IYE YIN DAE
 
-IYE YIN DAE is a Classical and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ololo, Mexico City on Wed, 23 Sept 2026.
+IYE YIN DAE is a Classical and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ololo, Mexico City on Wed, 23 Sept 2026.
 
 IYE YIN DAE is a classical and dancehall artist based in Mexico, tracked on soundcheck, with 47 sets logged across Mexico City. Often billed alongside Black Daria, Dr. ADO and SAMIA. Next up: Ololo, Mexico City on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ IYE YIN DAE is a classical and dancehall artist based in Mexico, tracked on soun
 
 Black Daria, Dr. ADO, SAMIA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iyeyindae/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iyeyindae/)*

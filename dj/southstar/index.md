@@ -1,6 +1,6 @@
 # southstar
 
-southstar is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+southstar is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
 
 southstar is a techno and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Basel and Belfast and 34 more. Often billed alongside Funk Tribu, DJ Heartstring and Job Jobse. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ southstar is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Funk Tribu, DJ Heartstring, Job Jobse
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/southstar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/southstar/)*

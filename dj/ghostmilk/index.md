@@ -1,6 +1,6 @@
 # GHOST MILK
 
-GHOST MILK is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
+GHOST MILK is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 GHOST MILK is a club and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Los Angeles and San Francisco/Oakland. Often billed alongside DJ Ari B, DJ Saratonin and Profesito. Next up: Monarch, San Francisco/Oakland on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ GHOST MILK is a club and techno artist based in United States of America, tracke
 
 DJ Ari B, DJ Saratonin, Profesito
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostmilk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostmilk/)*

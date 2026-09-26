@@ -1,6 +1,6 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 14 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "EDGING (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES)" on Sat, 26 Sept 2026.
+La Station - Gare des Mines is a music venue in Paris with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "EDGING (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES)" on Sat, 26 Sept 2026.
 
 La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 upcoming gigs, with line-ups including 1LDK, 300SkullsAndCounting, A.Litique and Amnesia Scanner and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
@@ -23,4 +23,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 u
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

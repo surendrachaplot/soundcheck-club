@@ -1,6 +1,6 @@
 # Shakolin
 
-Shakolin is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hertz, Seoul on Sat, 26 Sept 2026.
+Shakolin is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hertz, Seoul on Sat, 26 Sept 2026.
 
 Shakolin is a house and techno artist based in Ukraine, tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Karine, Timur Basha and Noizar. Next up: Hertz, Seoul on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Shakolin is a house and techno artist based in Ukraine, tracked on soundcheck, w
 
 Karine, Timur Basha, Noizar
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shakolin/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shakolin/)*

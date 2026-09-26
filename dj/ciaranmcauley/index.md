@@ -1,6 +1,6 @@
 # Ciaran McAuley
 
-Ciaran McAuley is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
+Ciaran McAuley is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
 
 Ciaran McAuley is a trance and progressive house artist based in Ireland, tracked on soundcheck, with 25 sets logged across Bangkok, Bristol, Glasgow and Ibiza and 13 more. Often billed alongside Billy Gillies, Paul Van Dyk and Aly & Fila. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Ciaran McAuley is a trance and progressive house artist based in Ireland, tracke
 
 Billy Gillies, Paul Van Dyk, Aly & Fila
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciaranmcauley/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciaranmcauley/)*

@@ -1,6 +1,6 @@
 # KRZ (PL)
 
-KRZ (PL) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 23 Oct 2026.
+KRZ (PL) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 23 Oct 2026.
 
 KRZ (PL) is a techno and hardcore artist based in Poland, tracked on soundcheck, with 19 sets logged across Krakow. Often billed alongside A.C., 2LAV and Hikikomori. Next up: STK 47 WAREHOUSE, Krakow on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ KRZ (PL) is a techno and hardcore artist based in Poland, tracked on soundcheck,
 
 A.C., 2LAV, Hikikomori
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krzpl/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krzpl/)*

@@ -1,6 +1,6 @@
 # Justin Jay
 
-Justin Jay is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at La Terrrazza, Barcelona on Thu, 15 Oct 2026.
+Justin Jay is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Terrrazza, Barcelona on Thu, 15 Oct 2026.
 
 Justin Jay is a house and techno artist based in United States of America, tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 27 more. Often billed alongside Bad Boombox, Janis Zielinski and Mija. Next up: La Terrrazza, Barcelona on Thu 15 Oct.
 
@@ -29,4 +29,4 @@ Justin Jay is a house and techno artist based in United States of America, track
 
 Bad Boombox, Janis Zielinski, Mija
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinjay/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinjay/)*

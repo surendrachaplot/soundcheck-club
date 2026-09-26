@@ -1,6 +1,6 @@
 # Outline
 
-Outline is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Cartelera" on Wed, 23 Sept 2026.
+Outline is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Cartelera" on Wed, 23 Sept 2026.
 
 Outline is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Juan Soto. Browse upcoming dates, start times and who's playing. Av Oaxaca 99, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX.
 
@@ -14,4 +14,4 @@ Outline is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, wi
 
 Av Oaxaca 99, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico City
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/outline/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/outline/)*

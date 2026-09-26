@@ -1,6 +1,6 @@
 # Gene Hunt
 
-Gene Hunt is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Le Nocturne, Chicago on Sat, 31 Oct 2026.
+Gene Hunt is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Le Nocturne, Chicago on Sat, 31 Oct 2026.
 
 Gene Hunt is a house and deep house artist based in United States of America, tracked on soundcheck, with 130 sets logged across Boston, Chicago, Detroit and Los Angeles and 6 more. Often billed alongside Adorio, Mike Dunn and Duke Shin. Next up: Le Nocturne, Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gene Hunt is a house and deep house artist based in United States of America, tr
 
 Adorio, Mike Dunn, Duke Shin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/genehunt/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/genehunt/)*

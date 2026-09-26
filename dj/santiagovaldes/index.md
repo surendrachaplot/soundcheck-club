@@ -1,6 +1,6 @@
 # Santiago Valdés
 
-Santiago Valdés is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+Santiago Valdés is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
 
 Santiago Valdés is a downtempo and electronica artist tracked on soundcheck, with 7 sets logged across Mexico City. Often billed alongside Crjs, PHONYFAKE and Abaunza. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
 
@@ -24,4 +24,4 @@ Santiago Valdés is a downtempo and electronica artist tracked on soundcheck, wi
 
 Crjs, PHONYFAKE, Abaunza
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santiagovaldes/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santiagovaldes/)*

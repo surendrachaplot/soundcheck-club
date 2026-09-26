@@ -1,6 +1,6 @@
 # R4ST
 
-R4ST is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Athens, Athens on Sat, 26 Sept 2026.
+R4ST is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Athens, Athens on Sat, 26 Sept 2026.
 
 R4ST is a techno and trance artist based in Greece, tracked on soundcheck, with 5 sets logged across Athens. Often billed alongside LEFTYT, Alma Libre and Imperium. Next up: TBA - Athens, Athens on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ R4ST is a techno and trance artist based in Greece, tracked on soundcheck, with 
 
 LEFTYT, Alma Libre, Imperium
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r4st/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r4st/)*

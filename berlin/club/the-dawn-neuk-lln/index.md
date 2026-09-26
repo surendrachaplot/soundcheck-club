@@ -1,6 +1,6 @@
 # The Dawn Neukölln
 
-The Dawn Neukölln is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "ROOFTOP PARTY (Indoor & Outdoor) - Season Closing" on Sat, 3 Oct 2026.
+The Dawn Neukölln is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "ROOFTOP PARTY (Indoor & Outdoor) - Season Closing" on Sat, 3 Oct 2026.
 
 The Dawn Neukölln is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 101, 12043 Berlin.
 
@@ -14,4 +14,4 @@ The Dawn Neukölln is a music venue in Berlin listed on soundcheck. 1 upcoming g
 
 Karl-Marx-Straße 101, 12043 Berlin, Berlin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-dawn-neuk-lln/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-dawn-neuk-lln/)*

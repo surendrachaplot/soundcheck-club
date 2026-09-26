@@ -1,6 +1,6 @@
 # Mochakk
 
-Mochakk is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Mochakk is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 Mochakk is a house and tech house artist based in Brazil, tracked on soundcheck, with 157 sets logged across Amsterdam, Austin, Barcelona and Basel and 41 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Mochakk is a house and tech house artist based in Brazil, tracked on soundcheck,
 
 Seth Troxler, Chloé Caillet, DJ Tennis
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*

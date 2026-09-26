@@ -1,6 +1,6 @@
 # Isaac Carter
 
-Isaac Carter is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at DC-10, Ibiza on Mon, 28 Sept 2026.
+Isaac Carter is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at DC-10, Ibiza on Mon, 28 Sept 2026.
 
 Isaac Carter is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 95 sets logged across Amsterdam, Bali, Berlin and Brisbane and 24 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: DC-10, Ibiza on Mon 28 Sept.
 
@@ -32,4 +32,4 @@ Isaac Carter is a house and tech house artist based in United Kingdom, tracked o
 
 Laidlaw, Ella Knight, Enzo Siragusa
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*

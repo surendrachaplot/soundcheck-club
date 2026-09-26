@@ -1,6 +1,6 @@
 # Biocym
 
-Biocym is a Techno and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at ://about blank, Berlin on Sat, 10 Oct 2026.
+Biocym is a Techno and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at ://about blank, Berlin on Sat, 10 Oct 2026.
 
 Biocym is a techno and italo disco artist based in Italy, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Budapest and Central and 7 more. Often billed alongside Known Artist, LUCE (IT) and ARMANDO. Next up: ://about blank, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Biocym is a techno and italo disco artist based in Italy, tracked on soundcheck,
 
 Known Artist, LUCE (IT), ARMANDO
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biocym/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biocym/)*

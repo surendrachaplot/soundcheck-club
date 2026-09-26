@@ -1,6 +1,6 @@
 # Potential Badboy
 
-Potential Badboy is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
+Potential Badboy is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
 
 Potential Badboy is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam and London. Often billed alongside The Ragga Twins, Uncle Dugs and DJ Brockie. Next up: LDN East, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Potential Badboy is a jungle and drum & bass artist based in United Kingdom, tra
 
 The Ragga Twins, Uncle Dugs, DJ Brockie
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/potentialbadboy/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/potentialbadboy/)*

@@ -1,6 +1,6 @@
 # ANXHELA
 
-ANXHELA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+ANXHELA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
 
 ANXHELA is a techno and trance artist based in Albania, tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Alignment, KØZLØV and DIØN. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ ANXHELA is a techno and trance artist based in Albania, tracked on soundcheck, w
 
 Alignment, KØZLØV, DIØN
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*

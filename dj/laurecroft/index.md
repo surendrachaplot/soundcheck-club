@@ -1,14 +1,13 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Q Club, Milan on Fri, 25 Sept 2026.
+Laure Croft is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at RADION, Amsterdam on Sat, 26 Sept 2026.
 
-Laure Croft is a techno and house artist based in Netherlands, tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Barcelona and Basel and 49 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Q Club, Milan on Fri 25 Sept.
+Laure Croft is a techno and house artist based in Netherlands, tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Barcelona and Basel and 49 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: RADION, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Q Club | Milan |
 | Sat, 26 Sept 2026 | RADION | Amsterdam |
 | Sat, 26 Sept 2026 | RADION | Amsterdam |
 | Fri, 2 Oct 2026 | Stereo | Montreal |
@@ -20,9 +19,11 @@ Laure Croft is a techno and house artist based in Netherlands, tracked on soundc
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Fri, 30 Oct 2026 | BASEMENT | New York City |
 | Sat, 31 Oct 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
+| Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
+- Q Club, Milan — Fri, 25 Sept 2026
 - Else, Berlin — Sun, 20 Sept 2026
 - Else, Berlin — Fri, 18 Sept 2026
 - The Steel Yard, London — Sat, 5 Sept 2026
@@ -30,10 +31,9 @@ Laure Croft is a techno and house artist based in Netherlands, tracked on soundc
 - Sub Club, Glasgow — Fri, 28 Aug 2026
 - RSO.BERLIN, Berlin — Thu, 13 Aug 2026
 - TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
-- Beton-T, Utrecht — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Lacchesi, Spikey Lee, Carmen Electro
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*

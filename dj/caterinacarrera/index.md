@@ -1,6 +1,6 @@
 # Caterina Carrera
 
-Caterina Carrera is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
+Caterina Carrera is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
 
 Caterina Carrera is a techno and house artist tracked on soundcheck, with 10 sets logged across Amsterdam and Rome. Often billed alongside Asymptote, Baptist and Dexon. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Caterina Carrera is a techno and house artist tracked on soundcheck, with 10 set
 
 Asymptote, Baptist, Dexon
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caterinacarrera/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caterinacarrera/)*

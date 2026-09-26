@@ -1,6 +1,6 @@
 # Ashibah
 
-Ashibah is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 28 Sept 2026.
+Ashibah is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 28 Sept 2026.
 
 Ashibah is a house and tech house artist based in Egypt, tracked on soundcheck, with 16 sets logged across Amsterdam, Copenhagen, Ibiza and London and 5 more. Often billed alongside Lane 8, Sultan + Shepard and Colyn. Next up: Hï Ibiza, Ibiza on Mon 28 Sept.
 
@@ -27,4 +27,4 @@ Ashibah is a house and tech house artist based in Egypt, tracked on soundcheck, 
 
 Lane 8, Sultan + Shepard, Colyn
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibah/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibah/)*

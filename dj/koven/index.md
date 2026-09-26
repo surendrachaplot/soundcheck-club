@@ -1,8 +1,8 @@
 # Koven
 
-Koven is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Koven is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Koven is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Auckland and Brisbane and 22 more. Often billed alongside Hybrid Minds, Camo & Krooked and Circadian. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Koven is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Auckland and Brisbane and 22 more. Often billed alongside Hybrid Minds, Camo & Krooked and Circadian. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Koven is a drum & bass and bass artist based in United Kingdom, tracked on sound
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | Turbinenhalle | Oberhausen |
 | Fri, 30 Oct 2026 | Antwerp Expo | Antwerp |
+| Sat, 7 Nov 2026 | TBA - Komplex 457 | Zurich |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Koven is a drum & bass and bass artist based in United Kingdom, tracked on sound
 
 Hybrid Minds, Camo & Krooked, Circadian
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koven/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koven/)*

@@ -1,6 +1,6 @@
 # Dj Jes
 
-Dj Jes is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 26 Sept 2026.
+Dj Jes is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 26 Sept 2026.
 
 Dj Jes is a house and deep house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Amsterdam, Austin and Chicago. Often billed alongside Curtis Bledsoe, Duke Shin and DJ Heather. Next up: Benelux BAR, Amsterdam on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Dj Jes is a house and deep house artist based in United States of America, track
 
 Curtis Bledsoe, Duke Shin, DJ Heather
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjes/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjes/)*

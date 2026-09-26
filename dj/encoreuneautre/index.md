@@ -1,6 +1,6 @@
 # encore une autre
 
-encore une autre is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 3 Oct 2026.
+encore une autre is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 3 Oct 2026.
 
 encore une autre is a hip-hop and techno artist based in France, tracked on soundcheck, with 32 sets logged across Lyon, Marseille, Paris and Strasbourg. Often billed alongside MARIAD, Le Kaiju and Meli Mena. Next up: La Machine Du Moulin Rouge, Paris on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ encore une autre is a hip-hop and techno artist based in France, tracked on soun
 
 MARIAD, Le Kaiju, Meli Mena
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/encoreuneautre/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/encoreuneautre/)*

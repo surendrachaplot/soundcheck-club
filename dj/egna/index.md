@@ -1,6 +1,6 @@
 # Egna
 
-Egna is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at La Prairie du Canal, Paris on Sat, 26 Sept 2026.
+Egna is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Prairie du Canal, Paris on Sat, 26 Sept 2026.
 
 Egna is a techno and trance artist based in France, tracked on soundcheck, with 72 sets logged across Antwerp, Bordeaux, Brussels and Cologne and 5 more. Often billed alongside Erna (FR), Corbeille Dallas and Sina XX. Next up: La Prairie du Canal, Paris on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Egna is a techno and trance artist based in France, tracked on soundcheck, with 
 
 Erna (FR), Corbeille Dallas, Sina XX
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/egna/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/egna/)*

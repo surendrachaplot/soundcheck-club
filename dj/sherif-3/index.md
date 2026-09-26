@@ -1,6 +1,6 @@
 # Sherif (3)
 
-Sherif (3) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Double Vie, Paris on Sat, 26 Sept 2026.
+Sherif (3) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Double Vie, Paris on Sat, 26 Sept 2026.
 
 Sherif is a house and disco artist based in Canada, tracked on soundcheck, with 9 sets logged across Montreal and Paris. Often billed alongside Barbara Boeing, DJ Hidi and DVDE. Next up: Double Vie, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sherif is a house and disco artist based in Canada, tracked on soundcheck, with 
 
 Barbara Boeing, DJ Hidi, DVDE
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherif-3/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherif-3/)*

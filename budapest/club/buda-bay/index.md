@@ -1,6 +1,6 @@
 # Óbuda Bay
 
-Óbuda Bay is a music venue in Budapest with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "[CANCELLED] House Piknik pres.: Wade" on Sat, 3 Oct 2026.
+Óbuda Bay is a music venue in Budapest with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "[CANCELLED] House Piknik pres.: Wade" on Sat, 3 Oct 2026.
 
 Óbuda Bay is a music venue in Budapest listed on soundcheck. 4 upcoming gigs, with line-ups including Aly & Fila, Antique (HU), John Digweed and Giuseppe Ottaviani and 2 more. Browse upcoming dates, start times and who's playing. 1033 Budapest, Hajógyár utca 18386/9.
 
@@ -17,4 +17,4 @@
 
 1033 Budapest, Hajógyár utca 18386/9, Budapest
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/buda-bay/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/buda-bay/)*

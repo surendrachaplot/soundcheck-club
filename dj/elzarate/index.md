@@ -1,6 +1,6 @@
 # El Zárate
 
-El Zárate is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Xuxa, Austin on Sat, 26 Sept 2026.
+El Zárate is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Xuxa, Austin on Sat, 26 Sept 2026.
 
 El Zárate is a house and minimal artist based in United States of America, tracked on soundcheck, with 20 sets logged across Austin, Barcelona, Berlin and Mexico City and 2 more. Often billed alongside Jacques-André, ALKMST and Brett Johnson. Next up: Xuxa, Austin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ El Zárate is a house and minimal artist based in United States of America, trac
 
 Jacques-André, ALKMST, Brett Johnson
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elzarate/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elzarate/)*

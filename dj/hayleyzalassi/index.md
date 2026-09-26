@@ -1,6 +1,6 @@
 # Hayley Zalassi
 
-Hayley Zalassi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 30 Oct 2026.
+Hayley Zalassi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 30 Oct 2026.
 
 Hayley Zalassi is a house and techno artist based in United Kingdom, tracked on soundcheck, with 91 sets logged across Aberdeen, Amsterdam, Barcelona and Brighton and 14 more. Often billed alongside KILIMANJARO, Big Miz and Danse Atmos. Next up: SISSI'S Amsterdam, Amsterdam on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Hayley Zalassi is a house and techno artist based in United Kingdom, tracked on 
 
 KILIMANJARO, Big Miz, Danse Atmos
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*

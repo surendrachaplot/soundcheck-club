@@ -1,14 +1,13 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Village Studios, Vancouver on Fri, 25 Sept 2026.
+Dean Turnley is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-Dean Turnley is a house and tech house artist based in Australia, tracked on soundcheck, with 27 sets logged across Adelaide, Amsterdam, Auckland and Belfast and 22 more. Often billed alongside MPH, Skepta and Ewan McVicar. Next up: Village Studios, Vancouver on Fri 25 Sept.
+Dean Turnley is a house and tech house artist based in Australia, tracked on soundcheck, with 27 sets logged across Adelaide, Amsterdam, Auckland and Belfast and 22 more. Often billed alongside MPH, Skepta and Ewan McVicar. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Village Studios | Vancouver |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Fri, 9 Oct 2026 | Big Pink | Detroit |
@@ -20,9 +19,11 @@ Dean Turnley is a house and tech house artist based in Australia, tracked on sou
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
+| Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 
 ## Recently played
 
+- Village Studios, Vancouver — Fri, 25 Sept 2026
 - Substation, Seattle — Wed, 23 Sept 2026
 - Spybar, Chicago — Fri, 18 Sept 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 13 Sept 2026
@@ -30,10 +31,9 @@ Dean Turnley is a house and tech house artist based in Australia, tracked on sou
 - Thuishaven, Amsterdam — Sun, 30 Aug 2026
 - Cabaret Voltaire, Edinburgh — Fri, 14 Aug 2026
 - Sub Club, Glasgow — Thu, 13 Aug 2026
-- Burgess Park, London — Sun, 9 Aug 2026
 
 ## Shares bills with
 
 MPH (1), Skepta, Ewan McVicar
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

@@ -1,6 +1,6 @@
 # DJ EJ
 
-DJ EJ is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Cantina SieteSeis, Mexico City on Wed, 23 Sept 2026.
+DJ EJ is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cantina SieteSeis, Mexico City on Wed, 23 Sept 2026.
 
 DJ EJ is a bass and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Leeds, London, Los Angeles and Manchester and 2 more. Often billed alongside Cardiac, Thorpey and mnt. Next up: Cantina SieteSeis, Mexico City on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ DJ EJ is a bass and house artist based in United States of America, tracked on s
 
 Cardiac, Thorpey, mnt
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djej/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djej/)*

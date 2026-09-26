@@ -1,6 +1,6 @@
 # Miz Megs
 
-Miz Megs is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Wiggle Room, Toronto on Sat, 26 Sept 2026.
+Miz Megs is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Wiggle Room, Toronto on Sat, 26 Sept 2026.
 
 Miz Megs is a tech house and house artist based in Canada, tracked on soundcheck, with 87 sets logged across Toronto. Often billed alongside Manzone & Strong, Barroness and MC Flipside. Next up: Wiggle Room, Toronto on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Miz Megs is a tech house and house artist based in Canada, tracked on soundcheck
 
 Manzone & Strong, Barroness, MC Flipside
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mizmegs/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mizmegs/)*

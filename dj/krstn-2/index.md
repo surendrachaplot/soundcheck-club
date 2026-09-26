@@ -1,6 +1,6 @@
 # Krstn (2)
 
-Krstn (2) is a House and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Coup by BUNKERBUNKER!!, Singapore on Sat, 26 Sept 2026.
+Krstn (2) is a House and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Coup by BUNKERBUNKER!!, Singapore on Sat, 26 Sept 2026.
 
 Krstn is a house and dubstep artist based in Singapore, tracked on soundcheck, with 7 sets logged across Singapore. Often billed alongside ARESHA, Anny (UK) and Degs. Next up: The Coup by BUNKERBUNKER!!, Singapore on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Krstn is a house and dubstep artist based in Singapore, tracked on soundcheck, w
 
 ARESHA, Anny (UK), Degs
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krstn-2/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krstn-2/)*

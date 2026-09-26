@@ -1,6 +1,6 @@
 # TBA - Lafayette 64
 
-TBA - Lafayette 64 is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "ANIVERSARIO GOYA TALLER X ZEZZIONS: dj mir, belikosa, dj luigi, bby blue, sin nubes " on Sat, 26 Sept 2026.
+TBA - Lafayette 64 is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "ANIVERSARIO GOYA TALLER X ZEZZIONS: dj mir, belikosa, dj luigi, bby blue, sin nubes " on Sat, 26 Sept 2026.
 
 TBA - Lafayette 64 is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Dj Luigi. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Lafayette 64 is a music venue in Mexico City listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | ANIVERSARIO GOYA TALLER X ZEZZIONS: dj mir, belikosa, dj luigi, bby blue, sin nubes  | Dj Luigi |
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-lafayette-64/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-lafayette-64/)*

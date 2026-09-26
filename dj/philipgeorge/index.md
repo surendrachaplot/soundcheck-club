@@ -1,6 +1,6 @@
 # Philip George
 
-Philip George is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Gallery, London on Sat, 26 Sept 2026.
+Philip George is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Gallery, London on Sat, 26 Sept 2026.
 
 Philip George is a house and garage artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Aberdeen, Brisbane, Edinburgh and Leeds and 4 more. Often billed alongside Darius Syrossian, Evie and Job de Jong. Next up: Gallery, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Philip George is a house and garage artist based in United Kingdom, tracked on s
 
 Darius Syrossian, Evie, Job de Jong
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philipgeorge/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philipgeorge/)*

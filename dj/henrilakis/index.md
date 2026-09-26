@@ -1,6 +1,6 @@
 # HENRI LAKIS
 
-HENRI LAKIS is a Dub Techno and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Kaņepes Kultūras Centrs, Riga on Sat, 26 Sept 2026.
+HENRI LAKIS is a Dub Techno and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Kaņepes Kultūras Centrs, Riga on Sat, 26 Sept 2026.
 
 HENRI LAKIS is a dub techno and funk / soul artist based in Latvia, tracked on soundcheck, with 10 sets logged across Riga. Often billed alongside A.Certo, Raivo and Aizvakardiena. Next up: Kaņepes Kultūras Centrs, Riga on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ HENRI LAKIS is a dub techno and funk / soul artist based in Latvia, tracked on s
 
 A.Certo, Raivo, Aizvakardiena
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrilakis/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrilakis/)*

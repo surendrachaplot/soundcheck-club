@@ -1,6 +1,6 @@
 # Fafi Abdel Nour
 
-Fafi Abdel Nour is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Potato Head Beach Club, Bali on Sat, 26 Sept 2026.
+Fafi Abdel Nour is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Potato Head Beach Club, Bali on Sat, 26 Sept 2026.
 
 Fafi Abdel Nour is a house and techno artist based in Netherlands, tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Jennifer Loveless, Octo Octa and Shanti Celeste. Next up: Potato Head Beach Club, Bali on Sat 26 Sept.
 
@@ -32,4 +32,4 @@ Fafi Abdel Nour is a house and techno artist based in Netherlands, tracked on so
 
 Jennifer Loveless, Octo Octa, Shanti Celeste
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fafiabdelnour/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fafiabdelnour/)*

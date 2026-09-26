@@ -1,6 +1,6 @@
 # TR4CK ID?
 
-TR4CK ID? is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Cobalt, Vancouver on Thu, 1 Oct 2026.
+TR4CK ID? is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Cobalt, Vancouver on Thu, 1 Oct 2026.
 
 TR4CK ID? is a hardcore and techno artist based in Canada, tracked on soundcheck, with 26 sets logged across Vancouver. Often billed alongside EtOH, buny and VioletNoise. Next up: The Cobalt, Vancouver on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ TR4CK ID? is a hardcore and techno artist based in Canada, tracked on soundcheck
 
 EtOH, buny, VioletNoise
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tr4ckid/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tr4ckid/)*

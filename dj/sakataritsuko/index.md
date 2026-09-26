@@ -1,6 +1,6 @@
 # 坂田律子
 
-坂田律子 is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at R Lounge, Tokyo on Thu, 1 Oct 2026.
+坂田律子 is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at R Lounge, Tokyo on Thu, 1 Oct 2026.
 
 坂田律子 is an experimental and electronica artist tracked on soundcheck, with 23 sets logged across Osaka and Tokyo. Often billed alongside Dana Ollestad, Koichi Shima and NordOst. Next up: R Lounge, Tokyo on Thu 1 Oct.
 
@@ -26,4 +26,4 @@
 
 Dana Ollestad, Koichi Shima, NordOst
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sakataritsuko/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sakataritsuko/)*

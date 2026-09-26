@@ -1,6 +1,6 @@
 # The Botanist
 
-The Botanist is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
+The Botanist is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
 
 The Botanist is a tech house and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Chicago, Los Angeles, New York City and San Diego and 3 more. Often billed alongside Adam Ten, Askfor T and Cole Terrazas. Next up: TBA - Private Location, San Diego on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ The Botanist is a tech house and house artist based in United States of America,
 
 Adam Ten, Askfor T, Cole Terrazas
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebotanist/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebotanist/)*

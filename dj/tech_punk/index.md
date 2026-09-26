@@ -1,6 +1,6 @@
 # tech_punk
 
-tech_punk is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Mena Berlin, Berlin on Fri, 9 Oct 2026.
+tech_punk is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mena Berlin, Berlin on Fri, 9 Oct 2026.
 
 tech_punk is an electro and techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Heshumi, Holywanderer and Anna Hoeber. Next up: Mena Berlin, Berlin on Fri 9 Oct.
 
@@ -16,4 +16,4 @@ tech_punk is an electro and techno artist based in Germany, tracked on soundchec
 
 Heshumi, Holywanderer, Anna Hoeber
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tech_punk/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tech_punk/)*

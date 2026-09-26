@@ -1,6 +1,6 @@
 # TBA - Club Morocco, Costanera
 
-TBA - Club Morocco, Costanera is a music venue in Buenos Aires with 3 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Elio Riso - 2gthr, Club Morocco Costanera - ALLMusicParties" on Fri, 2 Oct 2026.
+TBA - Club Morocco, Costanera is a music venue in Buenos Aires with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Elio Riso - 2gthr, Club Morocco Costanera - ALLMusicParties" on Fri, 2 Oct 2026.
 
 TBA - Club Morocco, Costanera is a music venue in Buenos Aires listed on soundcheck. 3 upcoming gigs, with line-ups including CASSIMM, Elio Riso, Festa Bros and G.Martinez and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ TBA - Club Morocco, Costanera is a music venue in Buenos Aires listed on soundch
 | Sun, 11 Oct 2026 | CASSIMM, Matias Sundblad - La Playa - ALLMusicParties | CASSIMM, G.Martinez |
 | Fri, 16 Oct 2026 | Jast - 2gthr, Club Morocco, Costanera - ALLMusicParties |  |
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-club-morocco-costanera/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-club-morocco-costanera/)*

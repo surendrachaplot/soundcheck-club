@@ -1,6 +1,6 @@
 # 99hp
 
-99hp is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bar Datcha, Montreal on Fri, 16 Oct 2026.
+99hp is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bar Datcha, Montreal on Fri, 16 Oct 2026.
 
 99hp is a house and techno artist tracked on soundcheck, with 25 sets logged across Istanbul, London, Montreal and Toronto. Often billed alongside Rabzi, Ficilio and Blu:sh. Next up: Bar Datcha, Montreal on Fri 16 Oct.
 
@@ -25,4 +25,4 @@
 
 Rabzi, Ficilio, Blu:sh
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/99hp/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/99hp/)*

@@ -1,6 +1,6 @@
 # DA NA
 
-DA NA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Forge, Bucharest on Sat, 21 Nov 2026.
+DA NA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Forge, Bucharest on Sat, 21 Nov 2026.
 
 DA NA is a techno and hardcore artist based in Romania, tracked on soundcheck, with 23 sets logged across Antwerp, Bucharest, Budapest and Detroit and 4 more. Often billed alongside GODINI, KØMI and GRVYWRLD. Next up: Forge, Bucharest on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DA NA is a techno and hardcore artist based in Romania, tracked on soundcheck, w
 
 GODINI, KØMI, GRVYWRLD
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dana/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dana/)*

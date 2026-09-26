@@ -1,18 +1,24 @@
 # Solvane
 
-Solvane is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Insomnia, Berlin on Sat, 26 Sept 2026.
+Solvane is a Techno and Progressive House artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Insomnia, Berlin on Sat, 26 Sept 2026.
 
-Solvane is a techno and progressive house artist based in Germany, tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 18 more. Often billed alongside Prismode, Markus Klee and Super Flu. Next up: Insomnia, Berlin on Sat 26 Sept.
+Solvane is a techno and progressive house artist based in Germany, tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 19 more. Often billed alongside Prismode, Markus Klee and Super Flu. Next up: Insomnia, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Insomnia | Berlin |
+| Fri, 9 Oct 2026 | Docks | Hamburg |
 | Sat, 10 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 17 Oct 2026 | Fridas Pier | Stuttgart |
 | Fri, 23 Oct 2026 | Supperclub Cruise | Amsterdam |
 | Sat, 24 Oct 2026 | Tanzhaus West | Frankfurt |
+| Fri, 6 Nov 2026 | Tonhalle | Munich |
+| Sat, 7 Nov 2026 | Zoom Club | Frankfurt |
+| Fri, 13 Nov 2026 | Live Music Hall | Cologne |
+| Sat, 14 Nov 2026 | O der Klub | Vienna |
+| Fri, 27 Nov 2026 | Jaeger | Oslo |
 
 ## Recently played
 
@@ -29,4 +35,4 @@ Solvane is a techno and progressive house artist based in Germany, tracked on so
 
 Prismode, Markus Klee, Super Flu
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solvane/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solvane/)*

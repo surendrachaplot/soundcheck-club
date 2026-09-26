@@ -1,6 +1,6 @@
 # Nermo
 
-Nermo is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Telep Budapest, Budapest on Wed, 30 Sept 2026.
+Nermo is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Telep Budapest, Budapest on Wed, 30 Sept 2026.
 
 Nermo is an electro and techno artist based in Hungary, tracked on soundcheck, with 11 sets logged across Budapest. Often billed alongside Kvrk, Claudio Imperatrice and Vass. Next up: Telep Budapest, Budapest on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Nermo is an electro and techno artist based in Hungary, tracked on soundcheck, w
 
 Kvrk, Claudio Imperatrice, Vass
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nermo/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nermo/)*

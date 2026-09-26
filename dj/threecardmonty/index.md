@@ -1,6 +1,6 @@
 # THREECARDMONTY
 
-THREECARDMONTY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Toronto on Sat, 3 Oct 2026.
+THREECARDMONTY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Toronto on Sat, 3 Oct 2026.
 
 THREECARDMONTY is a techno and trance artist based in Canada, tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside KILL 9 1, DURDENHAUER and NPCgroove. Next up: TBA, Toronto on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ THREECARDMONTY is a techno and trance artist based in Canada, tracked on soundch
 
 KILL 9 1, DURDENHAUER, NPCgroove
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/threecardmonty/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/threecardmonty/)*

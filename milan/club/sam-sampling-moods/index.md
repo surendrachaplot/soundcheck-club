@@ -1,6 +1,6 @@
 # SAM Sampling Moods
 
-SAM Sampling Moods is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "RITUALIA - Begin To Fall" on Sat, 26 Sept 2026.
+SAM Sampling Moods is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "RITUALIA - Begin To Fall" on Sat, 26 Sept 2026.
 
 SAM Sampling Moods is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including e.nzo, Giamma Soren, Luca Ruiz and Luce Clandestina. Browse upcoming dates, start times and who's playing. Via Mecenate, 84, 20138 Milano MI, Italy.
 
@@ -16,4 +16,4 @@ SAM Sampling Moods is a music venue in Milan listed on soundcheck. 3 upcoming gi
 
 Via Mecenate, 84, 20138 Milano MI, Italy, Milan
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/sam-sampling-moods/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/sam-sampling-moods/)*

@@ -1,6 +1,6 @@
 # Villa Blanca Lifestyle
 
-Villa Blanca Lifestyle is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Koncept and Definition present: Circus Halloween" on Sat, 31 Oct 2026.
+Villa Blanca Lifestyle is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Koncept and Definition present: Circus Halloween" on Sat, 31 Oct 2026.
 
 Villa Blanca Lifestyle is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Glowal, Nico Morano and Whitesquare. Browse upcoming dates, start times and who's playing. 10623 Riverside Dr, North Hollywood, CA 91602.
 
@@ -14,4 +14,4 @@ Villa Blanca Lifestyle is a music venue in Los Angeles listed on soundcheck. 1 u
 
 10623 Riverside Dr, North Hollywood, CA 91602, Los Angeles
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/villa-blanca-lifestyle/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/villa-blanca-lifestyle/)*

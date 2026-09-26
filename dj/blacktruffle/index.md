@@ -1,6 +1,6 @@
 # Black Truffle
 
-Black Truffle is a Disco and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Le Discobar, Paris on Fri, 2 Oct 2026.
+Black Truffle is a Disco and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Le Discobar, Paris on Fri, 2 Oct 2026.
 
 Black Truffle is a disco and italo disco artist tracked on soundcheck, with 8 sets logged across Mallorca, Naples and Paris. Often billed alongside Aldonna, Aï Smash and Donna Gibson. Next up: Le Discobar, Paris on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Black Truffle is a disco and italo disco artist tracked on soundcheck, with 8 se
 
 Aldonna, Aï Smash, Donna Gibson
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktruffle/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktruffle/)*

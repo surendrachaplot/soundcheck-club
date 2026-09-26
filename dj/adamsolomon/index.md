@@ -1,8 +1,8 @@
 # Adam Solomon
 
-Adam Solomon is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Système, Montreal on Sun, 4 Oct 2026.
+Adam Solomon is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Système, Montreal on Sun, 4 Oct 2026.
 
-Adam Solomon is a house and breakbeat artist based in Canada, tracked on soundcheck, with 8 sets logged across Montreal. Often billed alongside Matt Brancatella, Alyssa (Mtl) and Andrea de Tour. Next up: Système, Montreal on Sun 4 Oct.
+Adam Solomon is a house and breakbeat artist based in Canada, tracked on soundcheck, with 8 sets logged across Montreal. Often billed alongside Matt Brancatella, Aline Setton and Alyssa (Mtl). Next up: Système, Montreal on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ Adam Solomon is a house and breakbeat artist based in Canada, tracked on soundch
 
 ## Shares bills with
 
-Matt Brancatella, Alyssa (Mtl), Andrea de Tour
+Matt Brancatella, Aline Setton, Alyssa (Mtl)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamsolomon/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamsolomon/)*

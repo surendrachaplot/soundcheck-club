@@ -1,6 +1,6 @@
 # Elle Andrews
 
-Elle Andrews is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The White Hotel, Manchester on Sat, 7 Nov 2026.
+Elle Andrews is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The White Hotel, Manchester on Sat, 7 Nov 2026.
 
 Elle Andrews is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Barcelona, Glasgow, London and Manchester and 4 more. Often billed alongside Jon K, Annabel Fraser and Conrad Pack. Next up: The White Hotel, Manchester on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Elle Andrews is a techno and experimental artist based in United Kingdom, tracke
 
 Jon K, Annabel Fraser, Conrad Pack
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elleandrews/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elleandrews/)*

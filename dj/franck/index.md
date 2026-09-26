@@ -1,6 +1,6 @@
 # franck
 
-franck is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Mia Mao, Paris on Fri, 2 Oct 2026.
+franck is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mia Mao, Paris on Fri, 2 Oct 2026.
 
 franck is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 200 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 54 more. Often billed alongside Charlie Sparks, 999999999 and Cloudy. Next up: Mia Mao, Paris on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ franck is a techno and trance artist based in United Kingdom, tracked on soundch
 
 Charlie Sparks, 999999999, Cloudy
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franck/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franck/)*

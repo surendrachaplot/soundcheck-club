@@ -1,6 +1,6 @@
 # Berg
 
-Berg is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+Berg is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
 
 Berg is a techno and psytrance artist based in Germany, tracked on soundcheck, with 6 sets logged across Cologne, London, Melbourne and Paris and 2 more. Often billed alongside Astrix, Liquid Soul and Shanti People. Next up: Maitland Showground, Sydney on Fri 25 Sept.
 
@@ -13,6 +13,7 @@ Berg is a techno and psytrance artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
+- Maitland Showground, Sydney — Fri, 25 Sept 2026
 - Alte Kaserne, Zurich — Sat, 2 Aug 2025
 - Studio 338, London — Sat, 3 May 2025
 - TW7 - Paris Nord Villepinte, Paris — Fri, 15 Sept 2023
@@ -22,4 +23,4 @@ Berg is a techno and psytrance artist based in Germany, tracked on soundcheck, w
 
 Astrix, Liquid Soul, Shanti People
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berg/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berg/)*

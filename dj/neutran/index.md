@@ -1,6 +1,6 @@
 # Neutran
 
-Neutran is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 14 Nov 2026.
+Neutran is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 14 Nov 2026.
 
 Neutran is a techno and experimental artist based in Japan, tracked on soundcheck, with 19 sets logged across Berlin, Cologne, Düsseldorf and Prague and 1 more. Often billed alongside C-KAY, KCT and Rikuto Shibazaki. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Neutran is a techno and experimental artist based in Japan, tracked on soundchec
 
 C-KAY, KCT (1), Rikuto Shibazaki
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neutran/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neutran/)*

@@ -1,6 +1,6 @@
 # Kenji Tanaka
 
-Kenji Tanaka is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Lvl - World of Gaming Berlin, Berlin on Sat, 26 Sept 2026.
+Kenji Tanaka is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lvl - World of Gaming Berlin, Berlin on Sat, 26 Sept 2026.
 
 Kenji Tanaka is a techno and hip-hop artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Hamburg. Often billed alongside Mal.Da, Hellen Field and 1morning. Next up: Lvl - World of Gaming Berlin, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Kenji Tanaka is a techno and hip-hop artist based in Germany, tracked on soundch
 
 Mal.Da, Hellen Field, 1morning
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitanaka/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitanaka/)*

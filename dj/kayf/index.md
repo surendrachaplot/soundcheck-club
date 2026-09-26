@@ -1,6 +1,6 @@
 # Kayf
 
-Kayf is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Piraeus Tower, Athens on Sat, 26 Sept 2026.
+Kayf is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Piraeus Tower, Athens on Sat, 26 Sept 2026.
 
 Kayf is a tech house and deep house artist tracked on soundcheck, with 27 sets logged across Athens, Berlin, London and Mykonos. Often billed alongside Loumis, Atsou and VALM. Next up: Piraeus Tower, Athens on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Kayf is a tech house and deep house artist tracked on soundcheck, with 27 sets l
 
 Loumis, Atsou, VALM
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayf/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayf/)*

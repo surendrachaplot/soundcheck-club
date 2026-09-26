@@ -1,14 +1,13 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 26 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Stretch Your Legs x [PLACEHOLDER]" on Fri, 25 Sept 2026.
+Jupiter Disco is a music venue in New York City with 25 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "The Jukeboxx: James Juke + shanty mane" on Sat, 26 Sept 2026.
 
-Jupiter Disco is a music venue in New York City listed on soundcheck. 26 upcoming gigs, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in New York City listed on soundcheck. 25 upcoming gigs, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Stretch Your Legs x [PLACEHOLDER] | Leg Room, Mommy Husband, Pedestrian Access, dj goodboy (BK) |
 | Sat, 26 Sept 2026 | The Jukeboxx: James Juke + shanty mane | James Juke, shanty mane |
 | Sun, 27 Sept 2026 | Booty Club NYC: Symønne, KIMKILLA, Lily Ardalan b2b Remniqe, yNOTi, Caire | Caire, KIMKILLA, Lily Ardalan, Remniqe, Symonne, yNOTi |
 | Wed, 30 Sept 2026 | Music City: Neil Macc, Jay Boogie, Jon Elliott | Neil Macc |
@@ -18,9 +17,10 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 26 upcomin
 | Wed, 7 Oct 2026 | EARTHTONES: Pedestrian Access, Frank Garret, Jake Korolev + Mago, Lulannie | Jake Korolev, Lulannie, Mago (US), Pedestrian Access |
 | Thu, 8 Oct 2026 | PluggedIN: bbbBbBB, Day Cart, HumanbIAN | BbbBbBB (2), Day Cart, HumanbIAN |
 | Fri, 9 Oct 2026 | GIRLS TRIP: Tom Marsi, HONEY B, Pretty Privilege | HONEY B, Pretty Privilege, Tom Marsi |
+| Sat, 10 Oct 2026 | Sweat and Movement: Sol System, Oppo-Normalè, JUST RAJ, Kevin Karrera | JUST RAJ, Kevin Karrera, Oppo-Normalè |
 
 ## Address
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

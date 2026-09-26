@@ -1,6 +1,6 @@
 # MAL33T
 
-MAL33T is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Aaja Basement, London on Sat, 10 Oct 2026.
+MAL33T is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Aaja Basement, London on Sat, 10 Oct 2026.
 
 MAL33T is a techno and idm artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside DungeonMaster, MUSICKLUNATIC and metrologic. Next up: Aaja Basement, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ MAL33T is a techno and idm artist based in United Kingdom, tracked on soundcheck
 
 DungeonMaster, MUSICKLUNATIC, metrologic
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mal33t/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mal33t/)*

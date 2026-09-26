@@ -1,14 +1,13 @@
 # Nadine Noor
 
-Nadine Noor is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
+Nadine Noor is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Jazz Cafe, London on Fri, 9 Oct 2026.
 
-Nadine Noor is a techno and house artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Birmingham, Bristol, Brussels and Glasgow and 5 more. Often billed alongside J. Aria, Ryan Lovell and THEMPRESS. Next up: Various Venues, London on Thu 24 Sept.
+Nadine Noor is a techno and house artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Birmingham, Bristol, Brussels and Glasgow and 5 more. Often billed alongside J. Aria, Ryan Lovell and THEMPRESS. Next up: The Jazz Cafe, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Various Venues | London |
 | Fri, 9 Oct 2026 | The Jazz Cafe | London |
 | Fri, 30 Oct 2026 | Distillery N17 | London |
 | Fri, 13 Nov 2026 | Night Tales Loft | London |
@@ -28,4 +27,4 @@ Nadine Noor is a techno and house artist based in United Kingdom, tracked on sou
 
 J. Aria, Ryan Lovell, THEMPRESS
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadinenoor/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadinenoor/)*

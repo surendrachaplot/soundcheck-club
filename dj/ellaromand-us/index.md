@@ -1,6 +1,6 @@
 # Ella Romand
 
-Ella Romand is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Aire Miami, Miami on Sat, 26 Sept 2026.
+Ella Romand is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Aire Miami, Miami on Sat, 26 Sept 2026.
 
 Ella Romand is a house and deep house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Ibiza, Los Angeles, Miami and New York City and 1 more. Often billed alongside Steve Lawler, ANDREATENS and Markem. Next up: Aire Miami, Miami on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ella Romand is a house and deep house artist based in United States of America, 
 
 Steve Lawler, ANDREATENS, Markem
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaromand-us/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaromand-us/)*

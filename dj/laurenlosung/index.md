@@ -1,6 +1,6 @@
 # Lauren Lo Sung
 
-Lauren Lo Sung is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Lauren Lo Sung is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
 Lauren Lo Sung is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 25 more. Often billed alongside Fabe, Luuk van Dijk and Prunk. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Lauren Lo Sung is a house and tech house artist based in United Kingdom, tracked
 
 Fabe, Luuk van Dijk, Prunk
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenlosung/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenlosung/)*

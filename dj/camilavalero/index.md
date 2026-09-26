@@ -1,6 +1,6 @@
 # Camila Valero
 
-Camila Valero is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+Camila Valero is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
 
 Camila Valero is a house and electronica artist based in Mexico, tracked on soundcheck, with 25 sets logged across London, Mexico City and New York City. Often billed alongside DJ Milka, GOLDEN PINEAPPLE and AGSULO. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Camila Valero is a house and electronica artist based in Mexico, tracked on soun
 
 DJ Milka, GOLDEN PINEAPPLE, AGSULO
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camilavalero/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camilavalero/)*

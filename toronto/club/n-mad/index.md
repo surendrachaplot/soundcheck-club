@@ -1,6 +1,6 @@
 # NØMAD
 
-NØMAD is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Mango Szn: Toronto" on Sat, 3 Oct 2026.
+NØMAD is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Mango Szn: Toronto" on Sat, 3 Oct 2026.
 
 NØMAD is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including ZZORAWAR. Browse upcoming dates, start times and who's playing. 725 Queen Street East, Toronto, ON M4M 1H1, Canada.
 
@@ -15,4 +15,4 @@ NØMAD is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with l
 
 725 Queen Street East, Toronto, ON M4M 1H1, Canada, Toronto
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/n-mad/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/n-mad/)*

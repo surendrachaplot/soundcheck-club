@@ -1,6 +1,6 @@
 # Diskokatze
 
-Diskokatze is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
+Diskokatze is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
 
 Diskokatze is a techno and tech house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside VEB Elektrokunst, BEAUTYPUNK and Electronic Elephant. Next up: Jonny Knüppel, Berlin on Fri 25 Sept.
 
@@ -12,6 +12,7 @@ Diskokatze is a techno and tech house artist based in Germany, tracked on soundc
 
 ## Recently played
 
+- Jonny Knüppel, Berlin — Fri, 25 Sept 2026
 - Jonny Knüppel, Berlin — Sat, 4 Jul 2026
 - Jonny Knüppel, Berlin — Sat, 2 May 2026
 - TBA - via Linktree & Telegram, Berlin — Sat, 24 May 2025
@@ -24,4 +25,4 @@ Diskokatze is a techno and tech house artist based in Germany, tracked on soundc
 
 VEB Elektrokunst, BEAUTYPUNK, Electronic Elephant
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diskokatze/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diskokatze/)*

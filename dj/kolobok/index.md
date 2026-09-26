@@ -1,6 +1,6 @@
 # kolobok
 
-kolobok is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at FLUCC, Vienna on Sat, 3 Oct 2026.
+kolobok is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at FLUCC, Vienna on Sat, 3 Oct 2026.
 
 kolobok is a downtempo and techno artist based in Austria, tracked on soundcheck, with 24 sets logged across Berlin, Hamburg and Vienna. Often billed alongside Nya Nyx, Vanessa Sa and grey.ish. Next up: FLUCC, Vienna on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ kolobok is a downtempo and techno artist based in Austria, tracked on soundcheck
 
 Nya Nyx, Vanessa Sa, grey.ish
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolobok/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolobok/)*

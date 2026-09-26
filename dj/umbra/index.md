@@ -1,6 +1,6 @@
 # UMBRA
 
-UMBRA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Room 2 Glasgow, Glasgow on Fri, 4 Dec 2026.
+UMBRA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Room 2 Glasgow, Glasgow on Fri, 4 Dec 2026.
 
 UMBRA is a techno and house artist based in Portugal, tracked on soundcheck, with 15 sets logged across Bali, Berlin, Bristol and Brussels and 3 more. Often billed alongside Sydney Bryce, Amoss and Bon Public. Next up: Room 2 Glasgow, Glasgow on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ UMBRA is a techno and house artist based in Portugal, tracked on soundcheck, wit
 
 Sydney Bryce, Amoss, Bon Public
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umbra/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umbra/)*

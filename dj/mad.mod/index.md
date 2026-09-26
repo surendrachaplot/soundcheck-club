@@ -1,6 +1,6 @@
 # MAD.MOD
 
-MAD.MOD is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
+MAD.MOD is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
 MAD.MOD is a house and techno artist based in France, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Natasha Roze, ALKARLINE and AVHD. Next up: ://about blank, Berlin on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ MAD.MOD is a house and techno artist based in France, tracked on soundcheck, wit
 
 Natasha Roze, ALKARLINE, AVHD
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.mod/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.mod/)*

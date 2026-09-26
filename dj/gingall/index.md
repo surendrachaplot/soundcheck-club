@@ -1,6 +1,6 @@
 # Gingall
 
-Gingall is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Cu, London on Fri, 2 Oct 2026.
+Gingall is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cu, London on Fri, 2 Oct 2026.
 
 Gingall is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside BIG REG, Spingall and ATST. Next up: Cu, London on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Gingall is a tech house and house artist based in United Kingdom, tracked on sou
 
 BIG REG, Spingall, ATST
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gingall/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gingall/)*

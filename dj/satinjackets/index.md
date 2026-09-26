@@ -1,6 +1,6 @@
 # Satin Jackets
 
-Satin Jackets is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Nectar Lounge, Seattle on Sat, 10 Oct 2026.
+Satin Jackets is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Nectar Lounge, Seattle on Sat, 10 Oct 2026.
 
 Satin Jackets is a house and disco artist based in Germany, tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Undercatt, clavette and Amiti. Next up: Nectar Lounge, Seattle on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Satin Jackets is a house and disco artist based in Germany, tracked on soundchec
 
 Undercatt, clavette, Amiti
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satinjackets/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satinjackets/)*

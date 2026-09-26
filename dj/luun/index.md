@@ -1,6 +1,6 @@
 # Luun
 
-Luun is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cu, London on Fri, 30 Oct 2026.
+Luun is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cu, London on Fri, 30 Oct 2026.
 
 Luun is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London and Rotterdam. Often billed alongside Horne, Cathal and ALISHA. Next up: Cu, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Luun is a house and tech house artist based in United Kingdom, tracked on soundc
 
 Horne, Cathal, ALISHA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luun/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luun/)*

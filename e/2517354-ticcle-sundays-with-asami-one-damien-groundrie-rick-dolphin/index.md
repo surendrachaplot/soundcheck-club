@@ -1,0 +1,15 @@
+# ticcle sundays with Asami One, Damien Groundrie, Rick Dolphin at Ticcle
+
+ticcle sundays with Asami One, Damien Groundrie, Rick Dolphin at Ticcle on Sun 27 Sept, Hobart. 1 artist on the bill: Damien Goundrie. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 27 Sept 2026 |
+| Venue | Ticcle |
+| City | Hobart |
+
+## Line-up
+
+- Damien Goundrie
+
+*Source: [soundcheck](https://soundcheck.club/e/2517354-ticcle-sundays-with-asami-one-damien-groundrie-rick-dolphin/)*

@@ -1,6 +1,6 @@
 # Worldpeace DMT
 
-Worldpeace DMT is a Experimental and New Wave artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Worldpeace DMT is a Experimental and New Wave artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Worldpeace DMT is an experimental and new wave artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Brussels, Glasgow, Krakow and Leeds and 5 more. Often billed alongside DJ Plead, DJ Python and JASSS. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Worldpeace DMT is an experimental and new wave artist based in United Kingdom, t
 
 DJ Plead, DJ Python, JASSS
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/worldpeacedmt/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/worldpeacedmt/)*

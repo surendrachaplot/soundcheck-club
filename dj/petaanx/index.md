@@ -1,6 +1,6 @@
 # petaanx
 
-petaanx is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Mexico City on Sat, 26 Sept 2026.
+petaanx is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Mexico City on Sat, 26 Sept 2026.
 
 petaanx is a club and latin bass artist based in Mexico, tracked on soundcheck, with 25 sets logged across Mexico City. Often billed alongside ADAKEO, RICO RICA and Dj Rankng. Next up: TBA, Mexico City on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ petaanx is a club and latin bass artist based in Mexico, tracked on soundcheck, 
 
 ADAKEO, RICO RICA, Dj Rankng
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petaanx/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petaanx/)*

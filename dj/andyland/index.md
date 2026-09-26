@@ -1,6 +1,6 @@
 # ANDYLAND
 
-ANDYLAND is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 888 Garage, San Francisco/Oakland on Sat, 31 Oct 2026.
+ANDYLAND is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at 888 Garage, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 ANDYLAND is a techno and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across San Francisco/Oakland. Often billed alongside MALICIEL, felipe d and QUEENIE (US). Next up: 888 Garage, San Francisco/Oakland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ANDYLAND is a techno and club artist based in United States of America, tracked 
 
 MALICIEL, felipe d, QUEENIE (US)
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andyland/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andyland/)*

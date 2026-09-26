@@ -1,6 +1,6 @@
 # Guy Gerber
 
-Guy Gerber is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at La Terrrazza, Barcelona on Sat, 26 Sept 2026.
+Guy Gerber is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Terrrazza, Barcelona on Sat, 26 Sept 2026.
 
 Guy Gerber is a house and techno artist based in Israel, tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Bali and 24 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: La Terrrazza, Barcelona on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Guy Gerber is a house and techno artist based in Israel, tracked on soundcheck, 
 
 Noncitizens, Saraga, Annicka
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*

@@ -1,6 +1,6 @@
 # Substance Skatepark
 
-Substance Skatepark is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Sights & Sounds: Et al – Spray + Special Guest" on Sat, 26 Sept 2026.
+Substance Skatepark is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Sights & Sounds: Et al – Spray + Special Guest" on Sat, 26 Sept 2026.
 
 Substance Skatepark is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Craic Feen, KC (NYC), RxB‎ and Spray. Browse upcoming dates, start times and who's playing. 314 Scholes St., Brooklyn, NY 11206.
 
@@ -15,4 +15,4 @@ Substance Skatepark is a music venue in New York City listed on soundcheck. 2 up
 
 314 Scholes St., Brooklyn, NY 11206, New York City
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/substance-skatepark/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/substance-skatepark/)*

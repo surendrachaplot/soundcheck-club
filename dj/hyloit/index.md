@@ -1,6 +1,6 @@
 # HYLO (IT)
 
-HYLO (IT) is a House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Ex Macello, Milan on Sat, 3 Oct 2026.
+HYLO (IT) is a House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ex Macello, Milan on Sat, 3 Oct 2026.
 
 HYLO (IT) is a house artist based in Italy, tracked on soundcheck, with 32 sets logged across Milan. Often billed alongside Norabee, Flashmob and O.P.S.. Next up: Ex Macello, Milan on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ HYLO (IT) is a house artist based in Italy, tracked on soundcheck, with 32 sets 
 
 Norabee, Flashmob, O.P.S.
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyloit/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyloit/)*

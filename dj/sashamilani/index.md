@@ -1,6 +1,6 @@
 # Sasha Milani
 
-Sasha Milani is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Sasha Milani is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 Sasha Milani is a house and techno artist tracked on soundcheck, with 26 sets logged across Berlin, London, Melbourne and Sydney. Often billed alongside Elijah Something, James Pepper and COZi. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Sasha Milani is a house and techno artist tracked on soundcheck, with 26 sets lo
 
 Elijah Something, James Pepper, COZi
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sashamilani/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sashamilani/)*

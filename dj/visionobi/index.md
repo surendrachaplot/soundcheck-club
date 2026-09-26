@@ -1,6 +1,6 @@
 # Visionobi
 
-Visionobi is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Muovitehdas, Finland on Fri, 25 Sept 2026.
+Visionobi is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Muovitehdas, Finland on Fri, 25 Sept 2026.
 
 Visionobi is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Auckland, Berlin, Brighton and Bristol and 9 more. Often billed alongside Kyrist, Bladerunner and GLXY. Next up: Muovitehdas, Finland on Fri 25 Sept.
 
@@ -17,6 +17,7 @@ Visionobi is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 ## Recently played
 
+- Muovitehdas, Finland — Fri, 25 Sept 2026
 - M.O.T, London — Fri, 28 Aug 2026
 - fabric, London — Sat, 25 Apr 2026
 - Planet Wax, London — Fri, 10 Apr 2026
@@ -24,10 +25,9 @@ Visionobi is a drum & bass and jungle artist based in United Kingdom, tracked on
 - Onyx (E1), London — Fri, 13 Feb 2026
 - Document, Bristol — Sat, 31 Jan 2026
 - Phonox, London — Sat, 10 Jan 2026
-- 93 Feet East, London — Sat, 6 Dec 2025
 
 ## Shares bills with
 
 Kyrist, Bladerunner, GLXY
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/visionobi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/visionobi/)*

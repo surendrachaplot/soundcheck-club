@@ -1,6 +1,6 @@
 # Dj Saliva
 
-Dj Saliva is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Amsterdam on Fri, 2 Oct 2026.
+Dj Saliva is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Amsterdam on Fri, 2 Oct 2026.
 
 Dj Saliva is a techno and electro artist based in Portugal, tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside MCMLXXXV, CEM and JASSS. Next up: TBA, Amsterdam on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Dj Saliva is a techno and electro artist based in Portugal, tracked on soundchec
 
 MCMLXXXV, CEM, JASSS
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaliva/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaliva/)*

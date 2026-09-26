@@ -1,6 +1,6 @@
 # M A R
 
-M A R is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Tonal, Mexico City on Wed, 23 Sept 2026.
+M A R is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tonal, Mexico City on Wed, 23 Sept 2026.
 
 M A R is a techno and trance artist tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Madrid and Mexico City. Often billed alongside Florian Pas, CHTI and Luca Mariaux. Next up: Tonal, Mexico City on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ M A R is a techno and trance artist tracked on soundcheck, with 35 sets logged a
 
 Florian Pas, CHTI, Luca Mariaux
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mar/)*

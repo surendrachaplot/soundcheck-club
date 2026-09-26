@@ -1,6 +1,6 @@
 # Daizz
 
-Daizz is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Space 550, San Francisco/Oakland on Sat, 17 Oct 2026.
+Daizz is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Space 550, San Francisco/Oakland on Sat, 17 Oct 2026.
 
 Daizz is a house and deep house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Los Angeles and San Francisco/Oakland. Often billed alongside Erik Vehmeyer, Wyllie and Louiv. Next up: Space 550, San Francisco/Oakland on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Daizz is a house and deep house artist based in United States of America, tracke
 
 Erik Vehmeyer, Wyllie, Louiv
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daizz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daizz/)*

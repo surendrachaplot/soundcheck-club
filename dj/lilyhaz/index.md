@@ -1,6 +1,6 @@
 # Lily Haz
 
-Lily Haz is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Paloma, Berlin on Fri, 9 Oct 2026.
+Lily Haz is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Paloma, Berlin on Fri, 9 Oct 2026.
 
 Lily Haz is an electro and house artist tracked on soundcheck, with 34 sets logged across Berlin, Hamburg, Liverpool and London and 2 more. Often billed alongside WD40, Rafush and Katzele. Next up: Paloma, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Lily Haz is an electro and house artist tracked on soundcheck, with 34 sets logg
 
 WD40, Rafush, Katzele
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyhaz/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyhaz/)*

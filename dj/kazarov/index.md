@@ -1,6 +1,6 @@
 # kazarov
 
-kazarov is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Secret Garden LX, Lisbon on Sat, 26 Sept 2026.
+kazarov is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Secret Garden LX, Lisbon on Sat, 26 Sept 2026.
 
 kazarov is a techno and house artist based in Ukraine, tracked on soundcheck, with 7 sets logged across Lisbon. Often billed alongside ELEVIN, Alberto Pizzarelli and Chris Veron. Next up: Secret Garden LX, Lisbon on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ kazarov is a techno and house artist based in Ukraine, tracked on soundcheck, wi
 
 ELEVIN, Alberto Pizzarelli, Chris Veron
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kazarov/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kazarov/)*

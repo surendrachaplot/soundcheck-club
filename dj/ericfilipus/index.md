@@ -1,6 +1,6 @@
 # Eric Filipus
 
-Eric Filipus is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Kaiku, Helsinki on Sat, 3 Oct 2026.
+Eric Filipus is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Kaiku, Helsinki on Sat, 3 Oct 2026.
 
 Eric Filipus is an ambient and techno artist based in Finland, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona and Helsinki. Often billed alongside Feral, Joshi and Kaspiann. Next up: Kaiku, Helsinki on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Eric Filipus is an ambient and techno artist based in Finland, tracked on soundc
 
 Feral, Joshi, Kaspiann
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericfilipus/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericfilipus/)*

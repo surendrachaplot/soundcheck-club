@@ -1,14 +1,15 @@
 # Aron (CH)
 
-Aron (CH) is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 16 Oct 2026.
+Aron (CH) is a Minimal and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 16 Oct 2026.
 
-Aron (CH) is a minimal and minimal techno artist based in Switzerland, tracked on soundcheck, with 35 sets logged across Basel, Bristol, Brussels and Bucharest and 3 more. Often billed alongside Zefzeed, Flavio (CH) and Bohnenblust. Next up: Frieda's Büxe, Zurich on Fri 16 Oct.
+Aron (CH) is a minimal and minimal techno artist based in Switzerland, tracked on soundcheck, with 36 sets logged across Basel, Bristol, Brussels and Bucharest and 3 more. Often billed alongside Zefzeed, Flavio (CH) and Bohnenblust. Next up: Frieda's Büxe, Zurich on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Frieda's Büxe | Zurich |
+| Thu, 29 Oct 2026 | Supermarket | Zurich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Aron (CH) is a minimal and minimal techno artist based in Switzerland, tracked o
 
 Zefzeed, Flavio (CH), Bohnenblust
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aron-ch/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aron-ch/)*

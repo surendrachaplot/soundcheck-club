@@ -1,6 +1,6 @@
 # Loukoum
 
-Loukoum is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Marseille on Sun, 27 Sept 2026.
+Loukoum is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Marseille on Sun, 27 Sept 2026.
 
 Loukoum is a house and techno artist based in France, tracked on soundcheck, with 9 sets logged across Marseille and Paris. Often billed alongside Cassius, Dub Striker and Emma B. Next up: TBA, Marseille on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Loukoum is a house and techno artist based in France, tracked on soundcheck, wit
 
 Cassius, Dub Striker, Emma B
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loukoum/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loukoum/)*

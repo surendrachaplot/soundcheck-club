@@ -1,6 +1,6 @@
 # Lefto Early Bird
 
-Lefto Early Bird is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
+Lefto Early Bird is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
 
 Lefto Early Bird is a house and techno artist based in Belgium, tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Marco Weibel, AliA and Bibi Seck. Next up: Bastet, Philadelphia on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Lefto Early Bird is a house and techno artist based in Belgium, tracked on sound
 
 Marco Weibel, AliA, Bibi Seck
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leftoearlybird/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leftoearlybird/)*

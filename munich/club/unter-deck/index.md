@@ -1,14 +1,13 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 7 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Casual Tunes" on Fri, 25 Sept 2026.
+Unter Deck is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Rotes Zimmer" on Sat, 26 Sept 2026.
 
-Unter Deck is a music venue in Munich listed on soundcheck. 7 upcoming gigs, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, floor length skirts and Kim_Twiddle and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
+Unter Deck is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, floor length skirts and Kim_Twiddle and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Casual Tunes |  |
 | Sat, 26 Sept 2026 | Rotes Zimmer | Okarim |
 | Tue, 6 Oct 2026 | Tuesday in Love: DJ FREUND all night long | DJ FM & DJ FREUND |
 | Fri, 9 Oct 2026 | Off Supply with Zo Pea & floor length skirts | Off Supply, Zoe Pea, floor length skirts |
@@ -20,4 +19,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 7 upcoming gigs, wit
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

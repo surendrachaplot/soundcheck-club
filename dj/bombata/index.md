@@ -1,6 +1,6 @@
 # Bombata
 
-Bombata is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Usine C, Montreal on Tue, 29 Sept 2026.
+Bombata is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Usine C, Montreal on Tue, 29 Sept 2026.
 
 Bombata is a house and tech house artist based in Germany, tracked on soundcheck, with 82 sets logged across Berlin and Montreal. Often billed alongside Dennis Beutler, Peet Flower and Fab Massimo. Next up: Usine C, Montreal on Tue 29 Sept.
 
@@ -26,4 +26,4 @@ Bombata is a house and tech house artist based in Germany, tracked on soundcheck
 
 Dennis Beutler, Peet Flower, Fab Massimo
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bombata/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bombata/)*

@@ -1,6 +1,6 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 23 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "INTO THE WOODS - 10th Anniversary Part 3 w/ CHKLTE, Hish, krif & more" on Fri, 25 Sept 2026.
+Starlane Pizza Bar is a music venue in London with 23 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "INTO THE WOODS - 10th Anniversary Part 3 w/ CHKLTE, Hish, krif & more" on Fri, 25 Sept 2026.
 
 Starlane Pizza Bar is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including 3 Minds, ADMNTi, Aerofunk and Alfie and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
@@ -23,4 +23,4 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 23 upcoming 
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

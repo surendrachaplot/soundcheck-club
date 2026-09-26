@@ -1,6 +1,6 @@
 # Lisa Korver
 
-Lisa Korver is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+Lisa Korver is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
 Lisa Korver is a techno and house artist based in Netherlands, tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Ibiza and London and 6 more. Often billed alongside LAMMER, OLIVIA LENSEN and Kyle Starkey. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
@@ -20,6 +20,7 @@ Lisa Korver is a techno and house artist based in Netherlands, tracked on soundc
 
 ## Recently played
 
+- Cabaret  Aléatoire, Marseille — Fri, 25 Sept 2026
 - Laagravense Plas, Utrecht — Sat, 12 Sept 2026
 - Colorado Charlie, The Hague — Sun, 30 Aug 2026
 - Tuinen van West, Amsterdam — Sat, 29 Aug 2026
@@ -27,10 +28,9 @@ Lisa Korver is a techno and house artist based in Netherlands, tracked on soundc
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - [UNVRS], Ibiza — Mon, 10 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- Beton-T, Utrecht — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 LAMMER, OLIVIA LENSEN, Kyle Starkey
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*

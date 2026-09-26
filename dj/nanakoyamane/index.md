@@ -1,6 +1,6 @@
 # Nanako Yamane
 
-Nanako Yamane is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Teranoma Tidepool, Osaka on Sat, 26 Sept 2026.
+Nanako Yamane is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Teranoma Tidepool, Osaka on Sat, 26 Sept 2026.
 
 Nanako Yamane is a house and techno artist based in Japan, tracked on soundcheck, with 50 sets logged across Osaka, Seoul and Tokyo. Often billed alongside DMITRI ABSINTHE, SIGNAL (JP) and YU-MA. Next up: Teranoma Tidepool, Osaka on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Nanako Yamane is a house and techno artist based in Japan, tracked on soundcheck
 
 DMITRI ABSINTHE, SIGNAL (JP), YU-MA
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanakoyamane/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanakoyamane/)*

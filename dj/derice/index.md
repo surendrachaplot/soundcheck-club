@@ -1,6 +1,6 @@
 # DERICE
 
-DERICE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ritter Butzke, Berlin on Fri, 16 Oct 2026.
+DERICE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ritter Butzke, Berlin on Fri, 16 Oct 2026.
 
 DERICE is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and London. Often billed alongside DJ YumYum, EVYA and Kijara. Next up: Ritter Butzke, Berlin on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ DERICE is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 DJ YumYum, EVYA, Kijara
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/derice/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/derice/)*

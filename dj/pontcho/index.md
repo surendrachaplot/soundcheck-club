@@ -1,6 +1,6 @@
 # Pontcho
 
-Pontcho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Plantation, Paris on Sat, 26 Sept 2026.
+Pontcho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Plantation, Paris on Sat, 26 Sept 2026.
 
 Pontcho is a house and techno artist based in France, tracked on soundcheck, with 24 sets logged across Paris. Often billed alongside Aeter, S'il Te Plait Bruno and Artifak. Next up: Plantation, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Pontcho is a house and techno artist based in France, tracked on soundcheck, wit
 
 Aeter, S'il Te Plait Bruno, Artifak
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pontcho/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pontcho/)*

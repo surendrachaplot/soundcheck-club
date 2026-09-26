@@ -1,6 +1,6 @@
 # zoneSL
 
-zoneSL is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Dalston Den, London on Fri, 2 Oct 2026.
+zoneSL is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Dalston Den, London on Fri, 2 Oct 2026.
 
 zoneSL is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London. Often billed alongside Bryn Brax, Whatsname and Agility. Next up: Dalston Den, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ zoneSL is a jungle and drum & bass artist based in United Kingdom, tracked on so
 
 Bryn Brax, Whatsname, Agility
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zonesl/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zonesl/)*

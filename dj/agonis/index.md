@@ -1,6 +1,6 @@
 # Agonis
 
-Agonis is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - NOTHING USUAL, Los Angeles on Sun, 27 Sept 2026.
+Agonis is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - NOTHING USUAL, Los Angeles on Sun, 27 Sept 2026.
 
 Agonis is a techno and experimental artist based in Switzerland, tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside Garçon, Timnah and Konduku. Next up: TBA - NOTHING USUAL, Los Angeles on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ Agonis is a techno and experimental artist based in Switzerland, tracked on soun
 
 Garçon, Timnah, Konduku
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agonis/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agonis/)*

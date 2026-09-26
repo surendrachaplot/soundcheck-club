@@ -1,6 +1,6 @@
 # Dr. Dou Social Club
 
-Dr. Dou Social Club is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Saturday's Prescription - DiSALAZAR" on Sat, 26 Sept 2026.
+Dr. Dou Social Club is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Saturday's Prescription - DiSALAZAR" on Sat, 26 Sept 2026.
 
 Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including DiSALAZAR and UAV Jammer. Browse upcoming dates, start times and who's playing. Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain.
 
@@ -15,4 +15,4 @@ Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 2 upcomi
 
 Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain, Barcelona
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/dr-dou-social-club/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/dr-dou-social-club/)*

@@ -1,6 +1,6 @@
 # babsko
 
-babsko is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Latraac, Athens on Sat, 26 Sept 2026.
+babsko is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Latraac, Athens on Sat, 26 Sept 2026.
 
 babsko is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Athens, Copenhagen, London and Warsaw. Often billed alongside WE.LL, dgbt and Saroor. Next up: Latraac, Athens on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ babsko is a techno and trance artist based in United Kingdom, tracked on soundch
 
 WE.LL, dgbt, Saroor
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babsko/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babsko/)*

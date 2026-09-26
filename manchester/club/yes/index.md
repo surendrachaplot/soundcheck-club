@@ -1,6 +1,6 @@
 # Yes
 
-Yes is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "DEF BY STEREO Freshers Week 2026" on Sat, 26 Sept 2026.
+Yes is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "DEF BY STEREO Freshers Week 2026" on Sat, 26 Sept 2026.
 
 Yes is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including Digitalism, Girls of the Internet, Harry Hayes and KD22LR and 2 more. Browse upcoming dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
@@ -23,4 +23,4 @@ Yes is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with 
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

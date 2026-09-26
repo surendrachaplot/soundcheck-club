@@ -1,6 +1,6 @@
 # Bodies in Space
 
-Bodies in Space is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Electronic Wood - We Love Brussels" on Sat, 26 Sept 2026.
+Bodies in Space is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Electronic Wood - We Love Brussels" on Sat, 26 Sept 2026.
 
 Bodies in Space is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Claudio PRC, CP, Deg and Don Cabron and 2 more. Browse upcoming dates, start times and who's playing. 65 Chaussée de Zellik, 1082 Sint Agatha Berchem.
 
@@ -15,4 +15,4 @@ Bodies in Space is a music venue in Brussels listed on soundcheck. 2 upcoming gi
 
 65 Chaussée de Zellik, 1082 Sint Agatha Berchem, Brussels
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bodies-in-space/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bodies-in-space/)*

@@ -1,6 +1,6 @@
 # David Baguetta
 
-David Baguetta is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Coco Boule, Berlin on Fri, 23 Oct 2026.
+David Baguetta is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Coco Boule, Berlin on Fri, 23 Oct 2026.
 
 David Baguetta is a house and baile funk artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Carl Hang, AZULU and Boris & Davy. Next up: Coco Boule, Berlin on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ David Baguetta is a house and baile funk artist based in Germany, tracked on sou
 
 Carl Hang, AZULU, Boris & Davy
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbaguetta/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbaguetta/)*

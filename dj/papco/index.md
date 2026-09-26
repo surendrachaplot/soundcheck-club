@@ -1,6 +1,6 @@
 # PAPCO
 
-PAPCO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Civic Underground, Sydney on Sat, 10 Oct 2026.
+PAPCO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Civic Underground, Sydney on Sat, 10 Oct 2026.
 
 PAPCO is a techno and house artist based in Slovakia, tracked on soundcheck, with 18 sets logged across Sydney. Often billed alongside Bryan Ro, Barbuto and I-SO. Next up: Civic Underground, Sydney on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ PAPCO is a techno and house artist based in Slovakia, tracked on soundcheck, wit
 
 Bryan Ro, Barbuto, I-SO
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papco/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papco/)*

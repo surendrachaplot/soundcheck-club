@@ -1,14 +1,13 @@
 # Hamish & Toby
 
-Hamish & Toby is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Moon Club, Bristol on Fri, 25 Sept 2026.
+Hamish & Toby is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Distrikt, Leeds on Sat, 26 Sept 2026.
 
-Hamish & Toby are a house and tech house duo based in United Kingdom, tracked on soundcheck, with 136 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: Moon Club, Bristol on Fri 25 Sept.
+Hamish & Toby are a house and tech house duo based in United Kingdom, tracked on soundcheck, with 136 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: Distrikt, Leeds on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Moon Club | Bristol |
 | Sat, 26 Sept 2026 | Distrikt | Leeds |
 | Sat, 17 Oct 2026 | MIDNIGHT EAST | Tokyo |
 | Fri, 23 Oct 2026 | Palais | London |
@@ -16,6 +15,7 @@ Hamish & Toby are a house and tech house duo based in United Kingdom, tracked on
 
 ## Recently played
 
+- Moon Club, Bristol — Fri, 25 Sept 2026
 - UNO MALTA, Malta — Fri, 18 Sept 2026
 - UNO MALTA, Malta — Thu, 17 Sept 2026
 - Night Tales, London — Fri, 21 Aug 2026
@@ -23,10 +23,9 @@ Hamish & Toby are a house and tech house duo based in United Kingdom, tracked on
 - Les Enfants Brillants, Barcelona — Sat, 11 Jul 2026
 - Hackney Wick Multiple Venues, London — Sat, 27 Jun 2026
 - Avenida Doctor Marañon 17, Barcelona, Barcelona — Sun, 21 Jun 2026
-- Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Dr Banana, The Ghost, Truly Madly
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*

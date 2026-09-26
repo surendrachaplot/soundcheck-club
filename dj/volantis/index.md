@@ -1,6 +1,6 @@
 # Volantis
 
-Volantis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Circolo Amelia, Milan on Sun, 27 Sept 2026.
+Volantis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Circolo Amelia, Milan on Sun, 27 Sept 2026.
 
 Volantis is a house and techno artist based in Italy, tracked on soundcheck, with 60 sets logged across Berlin, London, Madrid and Milan and 4 more. Often billed alongside Nicodemo, Odd Shy Guy and Fabrizio Mammarella. Next up: Circolo Amelia, Milan on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Volantis is a house and techno artist based in Italy, tracked on soundcheck, wit
 
 Nicodemo, Odd Shy Guy, Fabrizio Mammarella
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volantis/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volantis/)*

@@ -1,6 +1,6 @@
 # Alesso
 
-Alesso is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Alesso is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Alesso is a house and techno artist tracked on soundcheck, with 31 sets logged across Amsterdam, Bangkok, Brisbane and Buenos Aires and 14 more. Often billed alongside The Chainsmokers, Gryffin and Steve Aoki. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Alesso is a house and techno artist tracked on soundcheck, with 31 sets logged a
 
 The Chainsmokers, Gryffin, Steve Aoki
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*

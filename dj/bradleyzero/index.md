@@ -1,6 +1,6 @@
 # Bradley Zero
 
-Bradley Zero is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+Bradley Zero is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
 
 Bradley Zero is a house and techno artist based in United Kingdom, tracked on soundcheck, with 222 sets logged across Amsterdam, Austin, Bali and Bangkok and 54 more. Often billed alongside MLE (UK), Sally C and Chloé Caillet. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
 
@@ -31,4 +31,4 @@ Bradley Zero is a house and techno artist based in United Kingdom, tracked on so
 
 MLE (UK), Sally C, Chloé Caillet
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*

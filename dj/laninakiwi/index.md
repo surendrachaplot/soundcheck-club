@@ -1,6 +1,6 @@
 # La Niña Kiwi
 
-La Niña Kiwi is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at ESC, Montreal on Sat, 3 Oct 2026.
+La Niña Kiwi is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ESC, Montreal on Sat, 3 Oct 2026.
 
 La Niña Kiwi is a reggaeton and latin bass artist based in Canada, tracked on soundcheck, with 22 sets logged across Montreal and Vancouver. Often billed alongside mCherry, DJ Punani and JASHIM. Next up: ESC, Montreal on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ La Niña Kiwi is a reggaeton and latin bass artist based in Canada, tracked on s
 
 mCherry, DJ Punani, JASHIM
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laninakiwi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laninakiwi/)*

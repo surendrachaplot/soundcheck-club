@@ -1,6 +1,6 @@
 # Liam Doc
 
-Liam Doc is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Cabaret Voltaire, Edinburgh on Sat, 26 Sept 2026.
+Liam Doc is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cabaret Voltaire, Edinburgh on Sat, 26 Sept 2026.
 
 Liam Doc is a house and techno artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Big Miz, ALISHA and Anna Barrie. Next up: Cabaret Voltaire, Edinburgh on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Liam Doc is a house and techno artist based in United Kingdom, tracked on soundc
 
 Big Miz, ALISHA, Anna Barrie
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liamdoc/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liamdoc/)*

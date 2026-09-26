@@ -1,6 +1,6 @@
 # fU.impact
 
-fU.impact is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at M-BIA, Berlin on Sat, 3 Oct 2026.
+fU.impact is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at M-BIA, Berlin on Sat, 3 Oct 2026.
 
 fU.impact is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Dr . Mario, Sonse and Thielking. Next up: M-BIA, Berlin on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ fU.impact is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Dr . Mario, Sonse, Thielking
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fu.impact/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fu.impact/)*

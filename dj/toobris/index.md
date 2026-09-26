@@ -1,6 +1,6 @@
 # Toobris
 
-Toobris is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at La Cité Fertile, Paris on Sun, 4 Oct 2026.
+Toobris is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Cité Fertile, Paris on Sun, 4 Oct 2026.
 
 Toobris is a techno and house artist based in Germany, tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Freddy K, Alarico and Ignez. Next up: La Cité Fertile, Paris on Sun 4 Oct.
 
@@ -30,4 +30,4 @@ Toobris is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Freddy K, Alarico, Ignez
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*

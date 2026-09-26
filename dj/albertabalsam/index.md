@@ -1,6 +1,6 @@
 # Alberta Balsam
 
-Alberta Balsam is a Techno and IDM artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Paradiso, Amsterdam on Sun, 27 Sept 2026.
+Alberta Balsam is a Techno and IDM artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Paradiso, Amsterdam on Sun, 27 Sept 2026.
 
 Alberta Balsam is a techno and idm artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside French II, Serge and Afra. Next up: Paradiso, Amsterdam on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ Alberta Balsam is a techno and idm artist based in Netherlands, tracked on sound
 
 French II, Serge, Afra
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albertabalsam/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albertabalsam/)*

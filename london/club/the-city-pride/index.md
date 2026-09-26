@@ -1,6 +1,6 @@
 # The City Pride
 
-The City Pride is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "The Essential Christmas Special" on Sat, 5 Dec 2026.
+The City Pride is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "The Essential Christmas Special" on Sat, 5 Dec 2026.
 
 The City Pride is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Daniel Ward and Hermit. Browse upcoming dates, start times and who's playing. 28 Farringdon Lane, EC1R 3AN.
 
@@ -14,4 +14,4 @@ The City Pride is a music venue in London listed on soundcheck. 1 upcoming gig, 
 
 28 Farringdon Lane, EC1R 3AN, London
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-city-pride/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-city-pride/)*

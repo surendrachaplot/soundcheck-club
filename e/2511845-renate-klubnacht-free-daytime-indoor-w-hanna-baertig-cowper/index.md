@@ -20,7 +20,7 @@ Renate Klubnacht + Free Daytime Indoor w/ Hanna Baertig, Cowper, Infamous Ali, s
 - Hanna Baertig
 - Infamous Ali
 - Luke Blunton
-- MASi
+- masi (4)
 - Natalia Martinovna
 - Pschukk
 - sleeptwitch

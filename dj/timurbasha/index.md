@@ -1,6 +1,6 @@
 # Timur Basha
 
-Timur Basha is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at teller, Seoul on Fri, 16 Oct 2026.
+Timur Basha is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at teller, Seoul on Fri, 16 Oct 2026.
 
 Timur Basha is a minimal and techno artist based in Ukraine, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Hamburg and Lisbon and 7 more. Often billed alongside Shakolin, Karine and Yone-Ko. Next up: teller, Seoul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Timur Basha is a minimal and techno artist based in Ukraine, tracked on soundche
 
 Shakolin, Karine, Yone-Ko
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timurbasha/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timurbasha/)*

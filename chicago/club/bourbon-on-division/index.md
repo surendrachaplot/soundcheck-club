@@ -1,6 +1,6 @@
 # Bourbon On Division
 
-Bourbon On Division is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Vinyl Break presents: CLUB VB - Sangarang" on Sat, 3 Oct 2026.
+Bourbon On Division is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Vinyl Break presents: CLUB VB - Sangarang" on Sat, 3 Oct 2026.
 
 Bourbon On Division is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Heather, Harry Cross, Jason Kendig and Kiefer Ian and 1 more. Browse upcoming dates, start times and who's playing. 2050 W Division St, Chicago, IL 60622, USA.
 
@@ -15,4 +15,4 @@ Bourbon On Division is a music venue in Chicago listed on soundcheck. 2 upcoming
 
 2050 W Division St, Chicago, IL 60622, USA, Chicago
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bourbon-on-division/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bourbon-on-division/)*

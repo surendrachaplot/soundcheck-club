@@ -1,6 +1,6 @@
 # NØA (DE)
 
-NØA (DE) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 26 Sept 2026.
+NØA (DE) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 26 Sept 2026.
 
 NØA (DE) is a techno and acid artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Krakow. Often billed alongside TechTonic, Filialleiter and DTEXX. Next up: STK 47 WAREHOUSE, Krakow on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ NØA (DE) is a techno and acid artist based in Germany, tracked on soundcheck, w
 
 TechTonic, Filialleiter, DTEXX
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noade/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noade/)*

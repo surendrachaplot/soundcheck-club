@@ -1,6 +1,6 @@
 # De Hangout
 
-De Hangout is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "HOMEGROUND SUMMER CLOSING" on Sat, 26 Sept 2026.
+De Hangout is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "HOMEGROUND SUMMER CLOSING" on Sat, 26 Sept 2026.
 
 De Hangout is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Reyndersweg 201, 1951 LB Velsen-Noord.
 
@@ -14,4 +14,4 @@ De Hangout is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. B
 
 Reyndersweg 201, 1951 LB Velsen-Noord, Amsterdam
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-hangout/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-hangout/)*

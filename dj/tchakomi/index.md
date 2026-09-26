@@ -1,6 +1,6 @@
 # Tchakomi
 
-Tchakomi is a Classical and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Tonal, Mexico City on Wed, 23 Sept 2026.
+Tchakomi is a Classical and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tonal, Mexico City on Wed, 23 Sept 2026.
 
 Tchakomi is a classical and dancehall artist based in France, tracked on soundcheck, with 29 sets logged across Mexico City. Often billed alongside Bastian Bell, Dj Dizam and Black Daria. Next up: Tonal, Mexico City on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Tchakomi is a classical and dancehall artist based in France, tracked on soundch
 
 Bastian Bell, Dj Dizam, Black Daria
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tchakomi/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tchakomi/)*

@@ -1,6 +1,6 @@
 # Róisín W
 
-Róisín W is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Fountain Records | King Street, Stretford, Manchester on Sat, 26 Sept 2026.
+Róisín W is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Fountain Records | King Street, Stretford, Manchester on Sat, 26 Sept 2026.
 
 Róisín W is a progressive house and house artist based in Ireland, tracked on soundcheck, with 24 sets logged across Manchester. Often billed alongside WeeDot, The Brokers and Pangölin. Next up: TBA - Fountain Records | King Street, Stretford, Manchester on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Róisín W is a progressive house and house artist based in Ireland, tracked on 
 
 WeeDot, The Brokers, Pangölin
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roisínw/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roisínw/)*

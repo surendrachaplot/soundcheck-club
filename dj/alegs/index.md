@@ -1,6 +1,6 @@
 # Alegs
 
-Alegs is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bar Zvon, Prague on Sat, 3 Oct 2026.
+Alegs is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bar Zvon, Prague on Sat, 3 Oct 2026.
 
 Alegs is a house and hip-hop artist based in Czech Republic, tracked on soundcheck, with 9 sets logged across Prague. Often billed alongside Daniel Neighbour, Sam Gittis and Tris Kayo. Next up: Bar Zvon, Prague on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Alegs is a house and hip-hop artist based in Czech Republic, tracked on soundche
 
 Daniel Neighbour, Sam Gittis, Tris Kayo
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alegs/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alegs/)*

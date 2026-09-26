@@ -1,6 +1,6 @@
 # Farhannah
 
-Farhannah is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Phonox, London on Sat, 10 Oct 2026.
+Farhannah is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Phonox, London on Sat, 10 Oct 2026.
 
 Farhannah is a house and disco artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Bustin' Loose, Tatiana and Dan Cluskey. Next up: Phonox, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Farhannah is a house and disco artist based in United Kingdom, tracked on soundc
 
 Bustin' Loose, Tatiana, Dan Cluskey
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farhannah/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farhannah/)*

@@ -1,14 +1,13 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 11 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Certified Groovers: Gene On Earth in LA" on Fri, 25 Sept 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Certified Groovers: Sabrosura Boyz [all night long]" on Sat, 3 Oct 2026.
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 11 upcoming gigs, with line-ups including Avalon Emerson, Baauer, Ben UFO and Bianca Lexis and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 10 upcoming gigs, with line-ups including Avalon Emerson, Baauer, Ben UFO and Bianca Lexis and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Certified Groovers: Gene On Earth in LA | Chemtrail Johnny, Cromie, Gene On Earth, Gilbert0, Hazy, Ian Llorens, Momo Trosman |
 | Sat, 3 Oct 2026 | Certified Groovers: Sabrosura Boyz [all night long] | D.Zeledon, Sabrosura Boyz |
 | Fri, 9 Oct 2026 | Lights Down Low Feat. Ben UFO | Ben UFO, Bianca Lexis |
 | Sat, 10 Oct 2026 | Sirens x DX3: Man Power | Capes, Man Power, SONNS, Tavish |
@@ -18,5 +17,6 @@ TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck.
 | Sat, 31 Oct 2026 | Certified Groovers: HALLOWEEN PARTY |  |
 | Sat, 7 Nov 2026 | Lights Down Low feat. yaego | yaego |
 | Sat, 21 Nov 2026 | Midnight Lovers with Cinthie (All Night Long) | Cinthie |
+| Sat, 21 Nov 2026 | Lights Down Low x WARP MODE feat. Baauer + umru | Baauer, Bianca Oblivion, Star Eyes, umru |
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*

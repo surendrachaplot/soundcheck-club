@@ -1,6 +1,6 @@
 # DJ Spen
 
-DJ Spen is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+DJ Spen is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 DJ Spen is a house and deep house artist based in United States of America, tracked on soundcheck, with 86 sets logged across Amsterdam, Chicago, Detroit and Edinburgh and 26 more. Often billed alongside Micfreak, Neil Pierce and sillygirlcarmen. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -28,4 +28,4 @@ DJ Spen is a house and deep house artist based in United States of America, trac
 
 Micfreak, Neil Pierce, sillygirlcarmen
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*

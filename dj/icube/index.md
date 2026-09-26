@@ -1,6 +1,6 @@
 # I:Cube
 
-I:Cube is a House and Krautrock artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at FOLD, London on Sat, 17 Oct 2026.
+I:Cube is a House and Krautrock artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at FOLD, London on Sat, 17 Oct 2026.
 
 I:Cube is a house and krautrock artist based in France, tracked on soundcheck, with 8 sets logged across Amsterdam, London, Paris and Strasbourg. Often billed alongside Ivan Smagghe, Bufiman and Gilb'R. Next up: FOLD, London on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ I:Cube is a house and krautrock artist based in France, tracked on soundcheck, w
 
 Ivan Smagghe, Bufiman, Gilb'R
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icube/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icube/)*

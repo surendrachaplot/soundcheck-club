@@ -1,6 +1,6 @@
 # Secret Location
 
-Secret Location is a music venue in London with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "COSMIC CODE INVITES Aliens TO SECRET RAVE" on Sat, 26 Sept 2026.
+Secret Location is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "COSMIC CODE INVITES Aliens TO SECRET RAVE" on Sat, 26 Sept 2026.
 
 Secret Location is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Andelet3, Beltane, Gareth Wild and James Shinra and 2 more. Browse upcoming dates, start times and who's playing. To Be Announced.
 
@@ -9,7 +9,7 @@ Secret Location is a music venue in London listed on soundcheck. 8 upcoming gigs
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | COSMIC CODE INVITES Aliens TO SECRET RAVE | Jonny Lust, Omi on Acid, Sylvie Maziarz |
-| Sat, 26 Sept 2026 | ENTER THE REALM | Gareth Wild |
+| Sat, 26 Sept 2026 | ENTER THE REALM (LAUNCH POSTPONED - DATE TBA) | Gareth Wild |
 | Sat, 26 Sept 2026 | Fixion Club | Beltane |
 | Sat, 10 Oct 2026 | VYU: Revelations | Kakura, N1NJA, VIZANO |
 | Sat, 17 Oct 2026 | After Hours: A Night with sweetestcape | sweetestcape |
@@ -21,4 +21,4 @@ Secret Location is a music venue in London listed on soundcheck. 8 upcoming gigs
 
 To Be Announced, London
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*

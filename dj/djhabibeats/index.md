@@ -1,14 +1,13 @@
 # DJ Habibeats
 
-DJ Habibeats is a House and Hip-Hop artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Reelworks Denver, Denver on Fri, 25 Sept 2026.
+DJ Habibeats is a House and Hip-Hop artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Webster Hall, New York City on Sat, 17 Oct 2026.
 
-DJ Habibeats is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 49 sets logged across Auckland, Austin, Bali and Berlin and 19 more. Often billed alongside AUGUSTE, Bianca Maieli and Ushka. Next up: Reelworks Denver, Denver on Fri 25 Sept.
+DJ Habibeats is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 49 sets logged across Auckland, Austin, Bali and Berlin and 19 more. Often billed alongside AUGUSTE, Bianca Maieli and Ushka. Next up: Webster Hall, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Reelworks Denver | Denver |
 | Sat, 17 Oct 2026 | Webster Hall | New York City |
 | Sat, 17 Oct 2026 | Webster Hall | New York City |
 | Sat, 31 Oct 2026 | Midline | Miami |
@@ -17,6 +16,7 @@ DJ Habibeats is a house and hip-hop artist based in United States of America, tr
 
 ## Recently played
 
+- Reelworks Denver, Denver — Fri, 25 Sept 2026
 - Burgess Park, London — Sun, 2 Aug 2026
 - Mayfair Austin, Austin — Fri, 19 Jun 2026
 - Soubois, Montreal — Thu, 21 May 2026
@@ -24,10 +24,9 @@ DJ Habibeats is a house and hip-hop artist based in United States of America, tr
 - Shrine Auditorium and Expo Hall, Los Angeles — Fri, 1 May 2026
 - HERE, London — Sat, 11 Apr 2026
 - Grelle Forelle, Vienna — Thu, 9 Apr 2026
-- Pumpehuset, Copenhagen — Fri, 3 Apr 2026
 
 ## Shares bills with
 
 AUGUSTE, Bianca Maieli, Ushka
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhabibeats/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhabibeats/)*

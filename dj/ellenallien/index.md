@@ -1,6 +1,6 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Ellen Allien is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Ellen Allien is a techno and house artist based in Germany, tracked on soundcheck, with 255 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -21,6 +21,7 @@ Ellen Allien is a techno and house artist based in Germany, tracked on soundchec
 
 ## Recently played
 
+- 131 Mccormack St, Toronto — Fri, 25 Sept 2026
 - Else, Berlin — Sun, 20 Sept 2026
 - Spook Club, Valencia — Sat, 19 Sept 2026
 - Bassiani, Tbilisi — Fri, 18 Sept 2026
@@ -28,10 +29,9 @@ Ellen Allien is a techno and house artist based in Germany, tracked on soundchec
 - Hangaren, Copenhagen — Thu, 27 Aug 2026
 - Tempelhof Airport, Berlin — Sat, 22 Aug 2026
 - RSO.BERLIN, Berlin — Thu, 13 Aug 2026
-- La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 
 ## Shares bills with
 
 Dr. Rubinstein, Shaleen, Metaraph
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

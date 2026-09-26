@@ -1,6 +1,6 @@
 # B (379)
 
-B (379) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Enter Shibuya, Tokyo on Sat, 26 Sept 2026.
+B (379) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Enter Shibuya, Tokyo on Sat, 26 Sept 2026.
 
 B is a tech house and house artist based in Japan, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside Daitto, EIGHT and ANDY DEDE. Next up: Enter Shibuya, Tokyo on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ B is a tech house and house artist based in Japan, tracked on soundcheck, with 5
 
 Daitto, EIGHT, ANDY DEDE
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-379/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-379/)*

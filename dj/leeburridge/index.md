@@ -1,14 +1,13 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at KOKO, London on Fri, 25 Sept 2026.
+Lee Burridge is a Deep House and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Pershing Square, Los Angeles on Sat, 3 Oct 2026.
 
-Lee Burridge is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 145 sets logged across Austin, Bali, Barcelona and Belgrade and 33 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: KOKO, London on Fri 25 Sept.
+Lee Burridge is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 145 sets logged across Austin, Bali, Barcelona and Belgrade and 33 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: Pershing Square, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | KOKO | London |
 | Sat, 3 Oct 2026 | Pershing Square | Los Angeles |
 | Sun, 4 Oct 2026 | TBA - Private Location | San Diego |
 | Mon, 12 Oct 2026 | Parc Jean-Drapeau | Montreal |
@@ -21,6 +20,7 @@ Lee Burridge is a deep house and house artist based in United Kingdom, tracked o
 
 ## Recently played
 
+- KOKO, London — Fri, 25 Sept 2026
 - Industry City, New York City — Sat, 19 Sept 2026
 - Industry City Courtyard 1/2, New York City — Sat, 19 Sept 2026
 - Hï Ibiza, Ibiza — Mon, 17 Aug 2026
@@ -28,10 +28,9 @@ Lee Burridge is a deep house and house artist based in United Kingdom, tracked o
 - Shoreline Aquatic Park, Los Angeles — Sat, 18 Jul 2026
 - The Den, Portland — Sat, 18 Jul 2026
 - Q Nightclub, Seattle — Fri, 17 Jul 2026
-- Sophie Festival, Malaga — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Jim Rider, Tim Green, Double Touch
 
-*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
+*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
