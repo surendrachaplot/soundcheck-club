@@ -1,14 +1,13 @@
 # Signal
 
-Signal is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Earthdog presents: Evan Baggs, Inner Zone, Iggy P, djfix b2b Emkay, Mariposa, + more" on Fri, 25 Sept 2026.
+Signal is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Ron Like Hell invites: Alissa Brianna + HONEY B" on Sat, 26 Sept 2026.
 
-Signal is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
+Signal is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Earthdog presents: Evan Baggs, Inner Zone, Iggy P, djfix b2b Emkay, Mariposa, + more | Emkay, Emsho, Evan Baggs, Iggy P, Inner Zone, Jek (US), Mariposa, Matas, adobeprincess, djfix |
 | Sat, 26 Sept 2026 | Ron Like Hell invites: Alissa Brianna + HONEY B | Alissa Brianna, HONEY B, Ron Like Hell |
 | Sat, 26 Sept 2026 | BEVERAGES | Harim, Seedy J, TYLERFROMWHERE |
 | Sun, 27 Sept 2026 | Spaghetti Strap: x3butterfly b2b Will Automagic, Miss Parker b2b SPRKLBB, Princess Peggie | Miss Parker, PEPIITA, Princess Peggie, SPRKLBB, Will Automagic, x3butterfly |
@@ -18,6 +17,7 @@ Signal is a music venue in New York City listed on soundcheck. 18 upcoming gigs,
 | Sat, 10 Oct 2026 | Galcher Lustwerk (LIVE), AceMo, Lauren Flax, Devoye  | AceMo, Devoye, Galcher Lustwerk, Lauren Flax |
 | Sat, 10 Oct 2026 | RESIDENCY: Eli Escobar, Andi | Andi, Eli Escobar |
 | Sun, 11 Oct 2026 | Mizz Softee: Dj Saliva, Mohajer, Succubass, Hank Jackson, DJ G, Samwise, Samuel Fish + more | DJ G., Dj Saliva, Eugenia, Hank Jackson, Matas, Mohajer, Samuel Fish, Samwise (US), Succubass |
+| Fri, 16 Oct 2026 | Night & Day: Shed (LIVE), 1morning, LYDO, Concrete Husband + TBA | 1morning, Concrete Husband, LYDO, Shed |
 
 ## Address
 

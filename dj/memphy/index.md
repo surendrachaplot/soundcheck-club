@@ -1,8 +1,8 @@
 # Memphy
 
-Memphy is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Good Room, New York City on Sat, 10 Oct 2026.
+Memphy is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Good Room, New York City on Sat, 10 Oct 2026.
 
-Memphy is a techno and club artist based in United States of America, tracked on soundcheck, with 91 sets logged across Auckland, Berlin, Chicago and London and 11 more. Often billed alongside Bapari, Sevyn 0000 and FASHION (US). Next up: Good Room, New York City on Sat 10 Oct.
+Memphy is a techno and club artist based in United States of America, tracked on soundcheck, with 92 sets logged across Athens, Auckland, Berlin and Chicago and 12 more. Often billed alongside Bapari, Only Fire and Sevyn 0000. Next up: Good Room, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Memphy is a techno and club artist based in United States of America, tracked on
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Good Room | New York City |
 | Fri, 30 Oct 2026 | TBA - Secret Warehouse | San Diego |
+| Sun, 29 Nov 2026 | Klakaz | Athens |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Memphy is a techno and club artist based in United States of America, tracked on
 
 ## Shares bills with
 
-Bapari, Sevyn 0000, FASHION (US)
+Bapari, Only Fire, Sevyn 0000
 
 *Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memphy/)*

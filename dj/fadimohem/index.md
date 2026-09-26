@@ -1,13 +1,14 @@
 # Fadi Mohem
 
-Fadi Mohem is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Fadi Mohem is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin on Sat, 26 Sept 2026.
 
-Fadi Mohem is a techno and house artist based in Germany, tracked on soundcheck, with 230 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside Ben Klock, Ogazón and Rødhåd. Next up: Bassiani, Tbilisi on Fri 9 Oct.
+Fadi Mohem is a techno and house artist based in Germany, tracked on soundcheck, with 231 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Ben Klock, JakoJako and Ogazón. Next up: TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín | Medellin |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Fri, 16 Oct 2026 | EXIL | Zurich |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -33,6 +34,6 @@ Fadi Mohem is a techno and house artist based in Germany, tracked on soundcheck,
 
 ## Shares bills with
 
-Ben Klock, Ogazón, Rødhåd
+Ben Klock, JakoJako, Ogazón
 
 *Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*

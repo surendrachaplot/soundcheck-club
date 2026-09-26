@@ -1,13 +1,14 @@
 # Floating Points
 
-Floating Points is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Floating Points is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
-Floating Points is a techno and house artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Four Tet, Palms Trax and Daphni. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Floating Points is a techno and house artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Four Tet, Palms Trax and Daphni. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sun, 25 Oct 2026 | Nowadays | New York City |
 

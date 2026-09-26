@@ -1,6 +1,6 @@
 # SHHE
 
-SHHE is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+SHHE is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
 SHHE is an electronica and experimental artist tracked on soundcheck, with 7 sets logged across Basel, Edinburgh and Glasgow. Often billed alongside Alex Smoke, Alif Hilal and Alliyah Enyo. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
@@ -9,7 +9,6 @@ SHHE is an electronica and experimental artist tracked on soundcheck, with 7 set
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Venues Across Glasgow | Glasgow |
-| Sat, 26 Sept 2026 | The Listening House / Pollok House | Glasgow |
 
 ## Recently played
 

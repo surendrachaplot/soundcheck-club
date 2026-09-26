@@ -1,14 +1,13 @@
 # Emsho
 
-Emsho is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Signal, New York City on Fri, 25 Sept 2026.
+Emsho is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, New York City on Fri, 9 Oct 2026.
 
-Emsho is a house and techno artist based in United States of America, tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Mexico City and New York City and 2 more. Often billed alongside Bella Mutino, Armii1n and Bruno Schmidt. Next up: Signal, New York City on Fri 25 Sept.
+Emsho is a house and techno artist based in United States of America, tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Mexico City and New York City and 2 more. Often billed alongside Bella Mutino, Armii1n and Bruno Schmidt. Next up: TBA, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Signal | New York City |
 | Fri, 9 Oct 2026 | TBA | New York City |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 

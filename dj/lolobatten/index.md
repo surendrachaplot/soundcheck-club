@@ -1,14 +1,15 @@
 # Lolo Batten
 
-Lolo Batten is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Laak, The Hague on Fri, 2 Oct 2026.
+Lolo Batten is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Laak, The Hague on Fri, 2 Oct 2026.
 
-Lolo Batten is a bass and club artist based in France, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Bella Hall, French II and Hyas. Next up: Laak, The Hague on Fri 2 Oct.
+Lolo Batten is a bass and techno artist based in France, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Bella Hall, French II and Hyas. Next up: Laak, The Hague on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Laak | The Hague |
+| Sat, 10 Oct 2026 | de Koepels | Rotterdam |
 
 ## Recently played
 

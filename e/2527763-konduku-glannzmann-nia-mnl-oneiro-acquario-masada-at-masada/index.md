@@ -1,6 +1,6 @@
 # Konduku, Glannzmann, Nia+Mnl Oneiro // Acquario (Masada) at Masada
 
-Konduku, Glannzmann, Nia+Mnl Oneiro // Acquario (Masada) on Sat 3 Oct, Milan. 2 artists on the bill: Konduku and Mnl Oneiro. Techno. Preview the line-up and save it on soundcheck.
+Konduku, Glannzmann, Nia+Mnl Oneiro // Acquario (Masada) on Sat 3 Oct, Milan. 3 artists on the bill: Konduku, Mnl Oneiro and Outburst Knobs. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Konduku, Glannzmann, Nia+Mnl Oneiro // Acquario (Masada) on Sat 3 Oct, Milan. 2 
 
 - Konduku
 - Mnl Oneiro
+- Outburst Knobs
 
 *Source: [soundcheck](https://soundcheck.club/e/2527763-konduku-glannzmann-nia-mnl-oneiro-acquario-masada-at-masada/)*

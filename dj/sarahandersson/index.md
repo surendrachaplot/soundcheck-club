@@ -13,7 +13,7 @@ Sarah Andersson is a house and deep house artist based in Sweden, tracked on sou
 
 ## Recently played
 
-- Born 2B Music Bar, Barcelona — Fri, 25 Sept 2026
+- La Gata del Born, Barcelona — Fri, 25 Sept 2026
 - Noxe Barcelona, Barcelona — Wed, 23 Sept 2026
 - Noxe Barcelona, Barcelona — Thu, 17 Sept 2026
 - Noxe Barcelona, Barcelona — Wed, 26 Aug 2026

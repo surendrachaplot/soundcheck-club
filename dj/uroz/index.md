@@ -1,8 +1,8 @@
 # uroz
 
-uroz is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Moog Club, Barcelona on Mon, 28 Sept 2026.
+uroz is a Techno and EBM artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Moog Club, Barcelona on Mon, 28 Sept 2026.
 
-uroz is a techno and electro artist based in Spain, tracked on soundcheck, with 232 sets logged across Barcelona, Porto and Valencia. Often billed alongside Rubén Seoane, Jen Cruz and Javi gOn. Next up: Moog Club, Barcelona on Mon 28 Sept.
+uroz is a techno and ebm artist based in Spain, tracked on soundcheck, with 232 sets logged across Barcelona, Porto and Valencia. Often billed alongside Rubén Seoane, Jen Cruz and Javi gOn. Next up: Moog Club, Barcelona on Mon 28 Sept.
 
 ## Upcoming shows
 

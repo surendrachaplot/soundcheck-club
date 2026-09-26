@@ -13,6 +13,6 @@ Neolitika X Music Summit Malta // John Acquaviva at The Club House at Gianpula V
 - Alias 1
 - John Acquaviva
 - PHYNYKS
-- Sound synthesis (2)
+- Sound synthesis
 
 *Source: [soundcheck](https://soundcheck.club/e/2521174-neolitika-x-music-summit-malta-john-acquaviva-at-the-club-ho/)*

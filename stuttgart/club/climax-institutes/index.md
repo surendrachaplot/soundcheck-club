@@ -1,8 +1,8 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "GROOVE SENSATION w/Eliano, MCG, Chamelio3000" on Sat, 26 Sept 2026.
+Climax-Institutes is a music venue in Stuttgart with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "GROOVE SENSATION w/Eliano, MCG, Chamelio3000" on Sat, 26 Sept 2026.
 
-Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 7 upcoming gigs, with line-ups including Chamelio 3000, Denno Matini, Juan Del Chambo and Michael Clash Gottschalk and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
+Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 8 upcoming gigs, with line-ups including Chamelio 3000, Denno Matini, Juan Del Chambo and Michael Clash Gottschalk and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 7 upcoming
 | Sat, 10 Oct 2026 | HSTLR NIGHT (Climax Institutes) | Denno Matini |
 | Fri, 23 Oct 2026 | VIBRATION |  |
 | Fri, 30 Oct 2026 | FREITAG SOUND SERIES#4 |  |
+| Fri, 11 Dec 2026 | This !s & Friends | NeTHiNG, TRNKA |
 
 ## Address
 

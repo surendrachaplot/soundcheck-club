@@ -1,13 +1,14 @@
 # yodel
 
-yodel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at clubasia, Tokyo on Fri, 16 Oct 2026.
+yodel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Spread, Tokyo on Mon, 12 Oct 2026.
 
-yodel is a techno and house artist based in Japan, tracked on soundcheck, with 31 sets logged across Amsterdam, Kyoto, Osaka and Tokyo. Often billed alongside YELLOWUHURU, E.O.U and AKIRAM EN. Next up: clubasia, Tokyo on Fri 16 Oct.
+yodel is a techno and house artist based in Japan, tracked on soundcheck, with 32 sets logged across Amsterdam, Kyoto, Osaka and Tokyo. Often billed alongside YELLOWUHURU, E.O.U and AKIRAM EN. Next up: Spread, Tokyo on Mon 12 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 12 Oct 2026 | Spread | Tokyo |
 | Fri, 16 Oct 2026 | clubasia | Tokyo |
 
 ## Recently played

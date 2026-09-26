@@ -9,7 +9,7 @@ The Club House at Gianpula Village is a music venue in Malta listed on soundchec
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | VERSUS presents KIRSTY | KIRSTY, NEVYALC, PEACHY, TRÏÏSS |
-| Fri, 9 Oct 2026 | Neolitika X Music Summit Malta // John Acquaviva  | Alias 1, John Acquaviva, PHYNYKS, Sound synthesis (2) |
+| Fri, 9 Oct 2026 | Neolitika X Music Summit Malta // John Acquaviva  | Alias 1, John Acquaviva, PHYNYKS, Sound synthesis |
 
 ## Address
 

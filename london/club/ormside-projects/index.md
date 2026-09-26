@@ -9,7 +9,7 @@ Ormside Projects is a music venue in London listed on soundcheck. 14 upcoming gi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | COTCH x Gasworks Gallery present: Disco Inferno with DJ Fucci, Zutzut, Microhm, Pochola | Dj Fucci, Joe Cotch, Microhm, Pochola |
-| Fri, 2 Oct 2026 | Ferry to the Underworld |  |
+| Fri, 2 Oct 2026 | Ferry to the Underworld (Sold out) |  |
 | Sat, 3 Oct 2026 | People Drift presents DJ Pete (extended set) | DJ Pete, Jim Janco |
 | Sat, 3 Oct 2026 | TURBULENCE: Barnett Cohen with Shamica Ruddock & Sally Butin / Hannan Jones / b1unt b1ade |  |
 | Thu, 8 Oct 2026 | ALL AT ONCE presents Helena Gao | Kllo, Rada (1), amil raja |

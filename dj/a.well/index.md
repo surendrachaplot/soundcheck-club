@@ -1,13 +1,14 @@
 # A.Well
 
-A.Well is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Stanley's, Sydney on Sat, 3 Oct 2026.
+A.Well is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Killing Time, Melbourne on Sun, 27 Sept 2026.
 
-A.Well is a house and techno artist based in Australia, tracked on soundcheck, with 55 sets logged across Melbourne and Sydney. Often billed alongside Andrew88, Yugwan and Chris Stevo. Next up: Stanley's, Sydney on Sat 3 Oct.
+A.Well is a house and techno artist based in Australia, tracked on soundcheck, with 56 sets logged across Melbourne and Sydney. Often billed alongside Andrew88, Yugwan and Chris Stevo. Next up: Killing Time, Melbourne on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 27 Sept 2026 | Killing Time | Melbourne |
 | Sat, 3 Oct 2026 | Stanley's | Sydney |
 | Mon, 5 Oct 2026 | Sydney Glass Island | Sydney |
 

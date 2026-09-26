@@ -1,13 +1,14 @@
 # ROD
 
-ROD is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+ROD is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil, Sao Paulo on Sun, 27 Sept 2026.
 
-ROD is a techno and house artist based in Netherlands, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Berlin and Hamburg and 5 more. Often billed alongside Benny Rodrigues, Cynthia Spiering and Speedy J. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+ROD is a techno and house artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Berlin and Hamburg and 5 more. Often billed alongside Benny Rodrigues, Cynthia Spiering and Speedy J. Next up: TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil, Sao Paulo on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 27 Sept 2026 | TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil | Sao Paulo |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 

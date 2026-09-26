@@ -27,7 +27,7 @@ Drama Radio Bar: 22-27 SEP on Tue 22 Sept, Mexico City. 19 artists on the bill: 
 - OKO DJ
 - PHONYFAKE
 - Santiago Valdés
-- Yumi
+- Yu Mi
 - Zepha
 
 *Source: [soundcheck](https://soundcheck.club/e/2545284-drama-radio-bar-22-27-sep-at-drama-radio-bar/)*

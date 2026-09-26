@@ -1,6 +1,6 @@
 # genre[fatigue] at M.O.T
 
-genre[fatigue] at M.O.T on Thu 8 Oct, London. 6 artists on the bill: hanaphora, jung latch, m-onz and m̶a̶h̶[alias] and 2 more. Club and IDM. Preview the line-up and save it on soundcheck.
+genre[fatigue] at M.O.T on Thu 8 Oct, London. 2 artists on the bill: m-onz and m̶a̶h̶[alias]. Club and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,7 @@ genre[fatigue] at M.O.T on Thu 8 Oct, London. 6 artists on the bill: hanaphora, 
 
 ## Line-up
 
-- hanaphora
-- jung latch
 - m-onz
 - m̶a̶h̶[alias]
-- Nesso
-- Nocturnerror
 
 *Source: [soundcheck](https://soundcheck.club/e/2527469-genre-fatigue-at-m-o-t/)*

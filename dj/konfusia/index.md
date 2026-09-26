@@ -1,8 +1,8 @@
 # Konfusia
 
-Konfusia is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Fundbureau, Hamburg on Fri, 2 Oct 2026.
+Konfusia is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Fundbureau, Hamburg on Fri, 2 Oct 2026.
 
-Konfusia is a techno and house artist based in Germany, tracked on soundcheck, with 110 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: Fundbureau, Hamburg on Fri 2 Oct.
+Konfusia is a techno and electro artist based in Germany, tracked on soundcheck, with 110 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: Fundbureau, Hamburg on Fri 2 Oct.
 
 ## Upcoming shows
 

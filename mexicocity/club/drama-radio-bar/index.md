@@ -8,7 +8,7 @@ Drama Radio Bar is a music venue in Mexico City listed on soundcheck. 1 upcoming
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Drama Radio Bar: 22-27 SEP | Aera, Alytta, Bimbo, Camila Valero, Crjs, DJ Milka, DJ Sentiment, Eiger Drums Propaganda, Enya Botello, Josefo, LOUIS (3), Love Language, M. Dagdug, OKO DJ, PHONYFAKE, Santiago Valdés, Yumi, Zepha, moog-lee |
+| Tue, 22 Sept 2026 | Drama Radio Bar: 22-27 SEP | Aera, Alytta, Bimbo, Camila Valero, Crjs, DJ Milka, DJ Sentiment, Eiger Drums Propaganda, Enya Botello, Josefo, LOUIS (3), Love Language, M. Dagdug, OKO DJ, PHONYFAKE, Santiago Valdés, Yu Mi, Zepha, moog-lee |
 
 ## Address
 

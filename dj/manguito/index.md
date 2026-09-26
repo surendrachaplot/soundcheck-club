@@ -1,14 +1,14 @@
 # Manguito
 
-Manguito is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at McCarren Park, New York City on Sun, 27 Sept 2026.
+Manguito is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at McCarren Park, New York City on Sun, 4 Oct 2026.
 
-Manguito is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across New York City. Often billed alongside Ksenyeah, Van Der Laan and Alex Weremchuk. Next up: McCarren Park, New York City on Sun 27 Sept.
+Manguito is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across New York City. Often billed alongside Ksenyeah, Van Der Laan and Alex Weremchuk. Next up: McCarren Park, New York City on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | McCarren Park | New York City |
+| Sun, 4 Oct 2026 | McCarren Park | New York City |
 | Sat, 10 Oct 2026 | Dead Letter No. 9 | New York City |
 | Sun, 11 Oct 2026 | Creekside - Under The K Bridge | New York City |
 

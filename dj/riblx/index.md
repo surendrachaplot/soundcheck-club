@@ -1,14 +1,13 @@
 # RIBLX
 
-RIBLX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at MAD Milano, Milan on Sat, 26 Sept 2026.
+RIBLX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Gate Milano, Milan on Fri, 2 Oct 2026.
 
-RIBLX is a techno and house artist based in Italy, tracked on soundcheck, with 10 sets logged across Milan. Often billed alongside MISERIA, FRANCESCO GUZZO and Münich. Next up: MAD Milano, Milan on Sat 26 Sept.
+RIBLX is a techno and house artist based in Italy, tracked on soundcheck, with 10 sets logged across Milan. Often billed alongside MISERIA, FRANCESCO GUZZO and Münich. Next up: Gate Milano, Milan on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | MAD Milano | Milan |
 | Fri, 2 Oct 2026 | Gate Milano | Milan |
 | Sat, 12 Dec 2026 | Gate Milano | Milan |
 

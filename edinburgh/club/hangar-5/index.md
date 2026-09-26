@@ -1,6 +1,6 @@
 # Hangar 5
 
-Hangar 5 is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "SEEDHE MAUT SMX World Tour: Edinburgh" on Sun, 27 Sept 2026.
+Hangar 5 is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "[CANCELLED] SEEDHE MAUT SMX World Tour: Edinburgh" on Sun, 27 Sept 2026.
 
 Hangar 5 is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 5/2 Bristo Square, Edinburgh, EH8 9AL.
 
@@ -8,7 +8,7 @@ Hangar 5 is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig. Bro
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | SEEDHE MAUT SMX World Tour: Edinburgh |  |
+| Sun, 27 Sept 2026 | [CANCELLED] SEEDHE MAUT SMX World Tour: Edinburgh |  |
 
 ## Address
 

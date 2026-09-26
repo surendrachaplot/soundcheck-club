@@ -1,8 +1,8 @@
 # Cashu
 
-Cashu is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 26 Sept 2026.
+Cashu is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 26 Sept 2026.
 
-Cashu is a techno and house artist based in Brazil, tracked on soundcheck, with 152 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside BADSISTA, RHR and Alírio. Next up: YuYu Cine Club, Mexico City on Sat 26 Sept.
+Cashu is a techno and house artist based in Brazil, tracked on soundcheck, with 153 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside BADSISTA, RHR and Alírio. Next up: YuYu Cine Club, Mexico City on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cashu is a techno and house artist based in Brazil, tracked on soundcheck, with 
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | YuYu Cine Club | Mexico City |
 | Sat, 26 Sept 2026 | Casa Grande | Mexico City |
+| Sat, 3 Oct 2026 | TBA | Sao Paulo |
 | Sun, 11 Oct 2026 | Komplexo Tempo | Sao Paulo |
 | Fri, 23 Oct 2026 | KREUZWERK | Berlin |
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |

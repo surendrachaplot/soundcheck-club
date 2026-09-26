@@ -15,7 +15,7 @@ XOYO is a music venue in London listed on soundcheck. 25 upcoming gigs, with lin
 | Sat, 3 Oct 2026 | NOVAMONDO @ XOYO / Jordan Peak, Ejeca, Alex Culross, Ryan Nicholls, Ryan Arnold, BTAY, Emzie | Alex Culross, BTAY, Ejeca, Ryan Arnold, Ryan Nicholls |
 | Sun, 4 Oct 2026 | HOUSE FEST - FUNKY AGAIN |  |
 | Mon, 5 Oct 2026 | MOTION Every Monday |  |
-| Wed, 7 Oct 2026 | PARADOX |  |
+| Tue, 6 Oct 2026 | PARADOX TUESDAY SPECIAL |  |
 | Thu, 8 Oct 2026 | Cherry - House & Disco - XOYO | BTAY |
 | Sat, 10 Oct 2026 | Cru2 London | Chad Harrison, Mike Delinquent |
 

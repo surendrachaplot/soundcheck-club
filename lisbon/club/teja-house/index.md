@@ -1,6 +1,6 @@
 # Teja House
 
-Teja House is a music venue in Lisbon with 17 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "E.R. Ecstatic Morning Rave" on Sat, 26 Sept 2026.
+Teja House is a music venue in Lisbon with 17 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Šaknys Culture Lisbon Afterparty at TEJÁ House" on Sat, 26 Sept 2026.
 
 Teja House is a music venue in Lisbon listed on soundcheck. 17 upcoming gigs. Browse upcoming dates, start times and who's playing. Cais do Sodré 5, 1200-450 Lisboa.
 
@@ -8,8 +8,8 @@ Teja House is a music venue in Lisbon listed on soundcheck. 17 upcoming gigs. Br
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | E.R. Ecstatic Morning Rave |  |
 | Sat, 26 Sept 2026 | Šaknys Culture Lisbon Afterparty at TEJÁ House |  |
+| Sat, 26 Sept 2026 | Šaknys Culture: Lisbon AFTERPARTY |  |
 | Sun, 27 Sept 2026 | Loose Ends |  |
 | Tue, 29 Sept 2026 | Open Groove Jam Session |  |
 | Thu, 1 Oct 2026 | Exhibition Closing Party: Culture & Connection |  |

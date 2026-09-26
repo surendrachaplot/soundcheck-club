@@ -1,8 +1,8 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 27 Sept 2026.
+Armand Van Helden is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 27 Sept 2026.
 
-Armand Van Helden is a house and tech house artist based in United States of America, tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Auckland and Barcelona and 35 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Los Angeles State Historic Park, Los Angeles on Sun 27 Sept.
+Armand Van Helden is a house and disco artist based in United States of America, tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Auckland and Barcelona and 35 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Los Angeles State Historic Park, Los Angeles on Sun 27 Sept.
 
 ## Upcoming shows
 

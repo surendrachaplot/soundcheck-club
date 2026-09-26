@@ -14,7 +14,7 @@ M.O.T is a music venue in London listed on soundcheck. 35 upcoming gigs, with li
 | Sat, 3 Oct 2026 | Don't | Jerome Hill, Peder Mannerfelt, the butcher bird |
 | Sat, 3 Oct 2026 | MID WEEK SESSION XXX | DELARA, Gloria Rose, Juliana Branco, Leonardo Cruz DJ, Mattia Fois, Modlar, Mona Sage, Panik Attak, SAN.SAN, Sea Ho, TOOTHTAXI, metrologic |
 | Wed, 7 Oct 2026 | Peterparker69, 1LDK & Bornstars [Eastern Margins & FORM presents] | 1LDK, Peterparker69 |
-| Thu, 8 Oct 2026 | genre[fatigue] | Nesso, Nocturnerror, hanaphora, jung latch, m-onz, m̶a̶h̶[alias] |
+| Thu, 8 Oct 2026 | genre[fatigue] | m-onz, m̶a̶h̶[alias] |
 | Thu, 8 Oct 2026 | 大地屋 DADI-ya |  |
 | Fri, 9 Oct 2026 | UNIT MOTive: 5 Years of Motive Hunter - Special Guest B2B: First Time Ever | Agility, Arkyn, CITIZEN, EN.VEE, FENDI-K, INSECT CRUSHA, LEO SELECTS, MXW(UK), OS:MAN, Sleazebag, Tallboy, karishma, mixtress |
 | Fri, 9 Oct 2026 | ThudLine 25 at MOT: Tai Lokun, Bryan Kessler, Special Guest + Ellie Anderson B2B Roy Don | Bryan Kessler, Ellie Anderson, Roy Don, Tai Lokun |

@@ -1,13 +1,14 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Under Club, Buenos Aires on Sat, 3 Oct 2026.
+JakoJako is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin on Sat, 26 Sept 2026.
 
-JakoJako is a techno and house artist based in Germany, tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Under Club, Buenos Aires on Sat 3 Oct.
+JakoJako is a techno and house artist based in Germany, tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín | Medellin |
 | Sat, 3 Oct 2026 | Under Club | Buenos Aires |
 | Sat, 17 Oct 2026 | Open Ground | Wuppertal |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |

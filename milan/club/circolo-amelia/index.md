@@ -9,7 +9,7 @@ Circolo Amelia is a music venue in Milan listed on soundcheck. 5 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | AFTER FORTUNA | AMBRA, Fatima Koanda, Filibalou, Kongas, LEMME, Paula Tape, Riccardo BHI, Volantis |
-| Sat, 3 Oct 2026 | AtomTM & Tobias. live // Acquario (Amelia) | Atom™, Tobias. |
+| Sat, 3 Oct 2026 | AtomTM & Tobias. live // Acquario (Amelia) | Atom™, Tobias., Viels |
 | Sat, 10 Oct 2026 | Neon_Amelia with Christian AB // Noizar | Christian AB, Noizar, San Pedro |
 | Sat, 17 Oct 2026 | Closer #118 Amelia /// Lacchesi - LYZA - Ndrx - Rene Wise - Spekki Webu - Known Artist | Functional Disorder, Known Artist, LYZA, Lacchesi, Ndrx, Rene Wise, Spekki Webu |
 | Fri, 6 Nov 2026 | DVS1 // Acquario (Amelia) | DVS1, Essē (IT) |

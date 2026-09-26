@@ -9,7 +9,7 @@ Deo'jorge is a house and electro artist based in United States of America, track
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Dead Letter No. 9 | New York City |
-| Sun, 27 Sept 2026 | McCarren Park | New York City |
+| Sun, 4 Oct 2026 | McCarren Park | New York City |
 
 ## Recently played
 

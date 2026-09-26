@@ -12,7 +12,7 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 5 upcoming 
 | Sat, 26 Sept 2026 | giegling in berlin | Deadbeat, Dragana, Edward, Flo Massé, Jan Jelinek, Jeanette Trèsbien, Just1, Justin Shaffer, Kalabrese, Konstantin, Leafar Legov, Map.ache, Mimi (4), O.BEE, Portable, Serenne, Tau Car, Tikiman, Tomas Station |
 | Thu, 1 Oct 2026 | SKINDEEP | Buttechno |
 | Sun, 4 Oct 2026 | Spell pres. Moin | Al Wootton, Moin, Vaahzer, Velv.93, Vlada |
-| Sat, 10 Oct 2026 | In Concert: Momoko Gil, Sasha Perera, with Flabbergast LIVE & Clovis  | Clovis, Flabbergast, Guillaume & The Coutu Dumonts, Vincent Lemieux |
+| Sat, 10 Oct 2026 | In Concert: Momoko Gil, Perera Elsewhere, with Flabbergast LIVE & Clovis  | Clovis, Flabbergast, Guillaume & The Coutu Dumonts, Perera Elsewhere, Vincent Lemieux |
 
 ## Address
 

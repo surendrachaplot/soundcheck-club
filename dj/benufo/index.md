@@ -1,8 +1,8 @@
 # Ben UFO
 
-Ben UFO is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Ben UFO is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-Ben UFO is a techno and house artist based in United Kingdom, tracked on soundcheck, with 237 sets logged across Amsterdam, Athens, Auckland and Austin and 59 more. Often billed alongside Helena Hauff, Ogazón and Pangaea. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+Ben UFO is a techno and house artist based in United Kingdom, tracked on soundcheck, with 238 sets logged across Amsterdam, Athens, Auckland and Austin and 60 more. Often billed alongside Helena Hauff, Ogazón and Pangaea. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Ben UFO is a techno and house artist based in United Kingdom, tracked on soundch
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 9 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
+| Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Fri, 16 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 23 Oct 2026 | The Roundhouse | London |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Fri, 20 Nov 2026 | Mint XL | Leeds |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
-| Sat, 5 Dec 2026 | TBA | Mexico City |
 
 ## Recently played
 

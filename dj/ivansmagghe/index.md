@@ -1,8 +1,8 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Jaeger, Oslo on Sat, 26 Sept 2026.
+Ivan Smagghe is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Jaeger, Oslo on Sat, 26 Sept 2026.
 
-Ivan Smagghe is a house and techno artist based in France, tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Jaeger, Oslo on Sat 26 Sept.
+Ivan Smagghe is a techno and house artist based in France, tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Jaeger, Oslo on Sat 26 Sept.
 
 ## Upcoming shows
 

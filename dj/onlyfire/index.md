@@ -1,15 +1,14 @@
 # Only Fire
 
-Only Fire is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Only Fire is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
-Only Fire is a techno and club artist based in Croatia, tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Auckland and 33 more. Often billed alongside River Moon, Chippy Nonstop and Memphy. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
+Only Fire is a techno and club artist based in Croatia, tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Auckland and 33 more. Often billed alongside Memphy, River Moon and Chippy Nonstop. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
-| Fri, 25 Sept 2026 | TBA | New York City |
 | Sat, 24 Oct 2026 | House of Q | Stockholm |
 | Sat, 31 Oct 2026 | 888 Garage | San Francisco/Oakland |
 | Sun, 29 Nov 2026 | Klakaz | Athens |
@@ -27,6 +26,6 @@ Only Fire is a techno and club artist based in Croatia, tracked on soundcheck, w
 
 ## Shares bills with
 
-River Moon, Chippy Nonstop, Memphy
+Memphy, River Moon, Chippy Nonstop
 
 *Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*

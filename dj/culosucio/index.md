@@ -1,14 +1,14 @@
 # Culo Sucio
 
-Culo Sucio is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Berlin on Fri, 9 Oct 2026.
+Culo Sucio is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Marmorbar, Berlin on Fri, 9 Oct 2026.
 
-Culo Sucio is a minimal and house artist based in Ecuador, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside DAZA, Daniel Jaramillo and Juan Diego Drouet. Next up: TBA, Berlin on Fri 9 Oct.
+Culo Sucio is a minimal and house artist based in Ecuador, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside DAZA, Daniel Jaramillo and Juan Diego Drouet. Next up: Marmorbar, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | TBA | Berlin |
+| Fri, 9 Oct 2026 | Marmorbar | Berlin |
 
 ## Recently played
 

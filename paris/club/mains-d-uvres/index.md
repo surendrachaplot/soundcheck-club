@@ -13,7 +13,7 @@ Mains D'œuvres is a music venue in Paris listed on soundcheck. 14 upcoming gigs
 | Fri, 2 Oct 2026 | PEW26 - Initiation au scratch et aux techniques de mix avec Saligo | Saligo |
 | Fri, 2 Oct 2026 | PEW26 - Initiation à l'enregistrement de voix avec Pureblast | Pureblast |
 | Fri, 2 Oct 2026 | Paris Electronic Week 2026 - Pass unitaire |  |
-| Fri, 2 Oct 2026 | PEW26 - Initiation au DJing avec Hewan Aman | Hewan Aman |
+| Fri, 2 Oct 2026 | PEW26 - Initiation au DJing avec Hewan Aman *niveau intermédiaire & confirmé | Hewan Aman |
 | Sat, 3 Oct 2026 | Paris Electronic Week - Pass samedi |  |
 | Sat, 3 Oct 2026 | PEW26 - Initiation à la production avec Goldie B | Goldie B |
 | Sat, 3 Oct 2026 | PEW26 - Initiation au mix et au mastering avec Jonquera | Jonquera |

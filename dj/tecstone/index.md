@@ -1,8 +1,8 @@
 # TECSTONE
 
-TECSTONE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Under The Palmo, Tokyo on Sun, 4 Oct 2026.
+TECSTONE is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Under The Palmo, Tokyo on Sun, 4 Oct 2026.
 
-TECSTONE is a techno and house artist based in Japan, tracked on soundcheck, with 22 sets logged across Tokyo. Often billed alongside SIGNAL (JP), ALLY and Krankent. Next up: Under The Palmo, Tokyo on Sun 4 Oct.
+TECSTONE is a techno and house artist based in Japan, tracked on soundcheck, with 23 sets logged across Tokyo. Often billed alongside SIGNAL (JP), ALLY and Krankent. Next up: Under The Palmo, Tokyo on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TECSTONE is a techno and house artist based in Japan, tracked on soundcheck, wit
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Under The Palmo | Tokyo |
 | Fri, 9 Oct 2026 | White Space Lab | Tokyo |
+| Fri, 16 Oct 2026 | Ooba Camping Village | Tokyo |
 | Sat, 24 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 
 ## Recently played

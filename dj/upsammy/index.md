@@ -1,14 +1,14 @@
 # upsammy
 
-upsammy is a Techno and Experimental artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at National Gallery Prague, Prague on Fri, 25 Sept 2026.
+upsammy is a Techno and Experimental artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at National Gallery Prague, Prague on Sat, 26 Sept 2026.
 
-upsammy is a techno and experimental artist based in Netherlands, tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Barcelona and Berlin and 49 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: National Gallery Prague, Prague on Fri 25 Sept.
+upsammy is a techno and experimental artist based in Netherlands, tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Barcelona and Berlin and 49 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: National Gallery Prague, Prague on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | National Gallery Prague | Prague |
+| Sat, 26 Sept 2026 | National Gallery Prague | Prague |
 | Fri, 2 Oct 2026 | Gessnerallee | Zurich |
 | Sat, 3 Oct 2026 | Centre Point | Dublin |
 | Sat, 10 Oct 2026 | Backsteinboot | Berlin |
@@ -20,13 +20,13 @@ upsammy is a techno and experimental artist based in Netherlands, tracked on sou
 
 ## Recently played
 
-- National Gallery Prague, Prague — Fri, 25 Sept 2026
 - public records, New York City — Sat, 19 Sept 2026
 - Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - public records, New York City — Fri, 18 Sept 2026
 - Sleeping Village, Chicago — Wed, 16 Sept 2026
 - Palais de Tokyo, Paris — Sat, 29 Aug 2026
 - Kulturcampus Frankfurt, Frankfurt — Thu, 13 Aug 2026
+- Neue Nationalgalerie, Berlin — Wed, 12 Aug 2026
 - Neue Nationalgalerie, Berlin — Wed, 12 Aug 2026
 
 ## Shares bills with

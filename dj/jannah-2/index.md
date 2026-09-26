@@ -1,8 +1,8 @@
 # jannah
 
-jannah is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
+jannah is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
 
-jannah is a techno and electro artist based in Netherlands, tracked on soundcheck, with 65 sets logged across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside David Vunk, Serge and Afra. Next up: Skatecafe, Amsterdam on Sat 26 Sept.
+jannah is a techno and electro artist based in Netherlands, tracked on soundcheck, with 66 sets logged across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside David Vunk, Serge and Afra. Next up: Skatecafe, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ jannah is a techno and electro artist based in Netherlands, tracked on soundchec
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Skatecafe | Amsterdam |
 | Sun, 4 Oct 2026 | Hito Scheveningen | The Hague |
+| Sat, 10 Oct 2026 | de Koepels | Rotterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 7 Nov 2026 | WAS. | Utrecht |

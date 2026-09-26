@@ -1,6 +1,6 @@
 # Head Trip Festival 2026 at Empire Polo Club
 
-Head Trip Festival 2026 at Empire Polo Club on Sat 10 Oct, Palm Springs. 6 artists on the bill: Dom Dolla, Four Tet, KETTAMA and Seth Troxler and 2 more. Preview the line-up and save it on soundcheck.
+Head Trip Festival 2026 at Empire Polo Club on Sat 10 Oct, Palm Springs. 20 artists on the bill: Avalon Emerson, Ben Sterling, Ben UFO and Calvin Harris and 16 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,25 @@ Head Trip Festival 2026 at Empire Polo Club on Sat 10 Oct, Palm Springs. 6 artis
 
 ## Line-up
 
+- Avalon Emerson
+- Ben Sterling
+- Ben UFO
+- Calvin Harris
+- Chris Lake
+- DJ Harvey
 - Dom Dolla
+- Eris Drew
+- FISHER
+- Floating Points
 - Four Tet
 - KETTAMA
+- Mad Professor
+- Octo Octa
+- Peggy Gou
 - Seth Troxler
 - Skrillex
+- Swedish House Mafia
 - The Blessed Madonna
+- Theo Parrish
 
 *Source: [soundcheck](https://soundcheck.club/e/2391434-head-trip-festival-2026-at-empire-polo-club/)*

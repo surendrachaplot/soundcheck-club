@@ -1,8 +1,8 @@
 # Herbalistek
 
-Herbalistek is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Saloon, Tokyo on Fri, 2 Oct 2026.
+Herbalistek is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Saloon, Tokyo on Fri, 2 Oct 2026.
 
-Herbalistek is a techno and bass artist based in Japan, tracked on soundcheck, with 39 sets logged across Barcelona, Madrid, Osaka and Tokyo. Often billed alongside comm, Allen Mock and Dayzero. Next up: Saloon, Tokyo on Fri 2 Oct.
+Herbalistek is a techno and bass artist based in Japan, tracked on soundcheck, with 40 sets logged across Barcelona, Madrid, Osaka and Tokyo. Often billed alongside comm, Allen Mock and Dayzero. Next up: Saloon, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Herbalistek is a techno and bass artist based in Japan, tracked on soundcheck, w
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Saloon | Tokyo |
 | Fri, 9 Oct 2026 | Enter Shibuya | Tokyo |
+| Fri, 16 Oct 2026 | Ooba Camping Village | Tokyo |
 
 ## Recently played
 

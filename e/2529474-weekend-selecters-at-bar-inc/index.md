@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Sat 3 Oct, Osaka. 3 artists on the bill: CHIDA, DJ KAZUMA and Ground. Techno and House. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Sat 3 Oct, Osaka. 3 artists on the bill: CHIDA, DJ KAZUMA and Geju. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@ WEEKEND SELECTERS at BAR Inc on Sat 3 Oct, Osaka. 3 artists on the bill: CHIDA, 
 
 - CHIDA
 - DJ KAZUMA
-- Ground (1)
+- Geju
 
 *Source: [soundcheck](https://soundcheck.club/e/2529474-weekend-selecters-at-bar-inc/)*

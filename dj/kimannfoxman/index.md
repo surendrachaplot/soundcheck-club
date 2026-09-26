@@ -1,14 +1,13 @@
 # Kim Ann Foxman
 
-Kim Ann Foxman is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, New York City on Fri, 25 Sept 2026.
+Kim Ann Foxman is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at FOLD, London on Fri, 9 Oct 2026.
 
-Kim Ann Foxman is a house and techno artist based in United States of America, tracked on soundcheck, with 138 sets logged across Amsterdam, Auckland, Bali and Bangkok and 34 more. Often billed alongside Cora (CN), DJ TOOL and Jen Cardini. Next up: TBA, New York City on Fri 25 Sept.
+Kim Ann Foxman is a house and techno artist based in United States of America, tracked on soundcheck, with 138 sets logged across Amsterdam, Auckland, Bali and Bangkok and 34 more. Often billed alongside Cora (CN), DJ TOOL and Jen Cardini. Next up: FOLD, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TBA | New York City |
 | Fri, 9 Oct 2026 | FOLD | London |
 | Sat, 10 Oct 2026 | Qncc | New York City |
 | Fri, 16 Oct 2026 | BASEMENT | New York City |

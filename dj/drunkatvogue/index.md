@@ -14,7 +14,7 @@ Drunk At Vogue is a house and deep house artist based in Ireland, tracked on sou
 
 ## Recently played
 
-- Born 2B Music Bar, Barcelona — Fri, 25 Sept 2026
+- La Gata del Born, Barcelona — Fri, 25 Sept 2026
 - Noxe Barcelona, Barcelona — Tue, 22 Sept 2026
 - Noxe Barcelona, Barcelona — Tue, 18 Aug 2026
 - Born 2B Music Bar, Barcelona — Thu, 30 Jul 2026

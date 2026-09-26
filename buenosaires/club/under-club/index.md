@@ -9,7 +9,7 @@ Under Club is a music venue in Buenos Aires listed on soundcheck. 7 upcoming gig
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | ROOM X Under Club - Bondarük & SMT - JOAQUIN RUÍZ - LUNN - NATALIA BENITEZ | Bondarük, SMT (2) |
-| Sun, 27 Sept 2026 | 97% SOLD OUT -> ANNĒ - Ben Klock - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 ) | ANNĒ, Ben Klock, Bondarük, JXXXO, Pampa, Setaoc Mass |
+| Sun, 27 Sept 2026 | 99% SOLD OUT -> ANNĒ - Ben Klock - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 ) | ANNĒ, Ben Klock, Bondarük, JXXXO, Pampa, Setaoc Mass |
 | Sat, 3 Oct 2026 | JakoJako - MYLAH | JakoJako, MYLAH |
 | Sat, 24 Oct 2026 | Fabio Florido 7 HORAS | Fabio Florido |
 | Fri, 30 Oct 2026 | COLLABS 3000 - JULIETA LAKE - KØLPØS | JULIETA LAKE, KØLPØS |

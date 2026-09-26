@@ -1,14 +1,13 @@
 # Akua
 
-Akua is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at KHIDI, Tbilisi on Fri, 25 Sept 2026.
+Akua is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 26 Sept 2026.
 
-Akua is a techno and house artist based in United States of America, tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside 1morning, DJ Stingray 313 and Dr. Rubinstein. Next up: KHIDI, Tbilisi on Fri 25 Sept.
+Akua is a techno and house artist based in United States of America, tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside 1morning, DJ Stingray 313 and Dr. Rubinstein. Next up: Tresor.West, Dortmund Essen on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | KHIDI | Tbilisi |
 | Sat, 26 Sept 2026 | Tresor.West | Dortmund-essen |
 | Fri, 2 Oct 2026 | Uber Eats Music Hall | Berlin |
 | Sat, 3 Oct 2026 | Razzmatazz | Barcelona |

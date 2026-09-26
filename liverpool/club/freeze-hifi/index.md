@@ -14,10 +14,10 @@ Freeze HiFi is a music venue in Liverpool listed on soundcheck. 17 upcoming gigs
 | Sat, 10 Oct 2026 | K-Klass at Freeze Project | K-Klass |
 | Tue, 13 Oct 2026 | BEECHY & FRIENDS with TBA | Beechy |
 | Tue, 20 Oct 2026 | BEECHY & FRIENDS with TBA | Beechy |
-| Tue, 27 Oct 2026 | BEECHY & FRIENDS with TBA | Beechy |
+| Tue, 27 Oct 2026 | BEECHY & FRIENDS with Disco Doyenne | Beechy |
 | Fri, 30 Oct 2026 | Palm house afterparty featuring Todd Terry & Paradisco | Todd Terry |
 | Sat, 31 Oct 2026 | Graeme Park, Todd Terry & More at Freeze Project | Graeme Park, Todd Terry |
-| Tue, 3 Nov 2026 | BEECHY & FRIENDS with TBA | Beechy |
+| Tue, 3 Nov 2026 | BEECHY & FRIENDS with Riggo | Beechy |
 
 ## Address
 

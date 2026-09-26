@@ -1,8 +1,8 @@
 # Hybrid Minds
 
-Hybrid Minds is a Drum & Bass and Garage artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ductwork Dallas, Dallas-fort-worth on Thu, 1 Oct 2026.
+Hybrid Minds is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ductwork Dallas, Dallas-fort-worth on Thu, 1 Oct 2026.
 
-Hybrid Minds is a drum & bass and garage artist based in United Kingdom, tracked on soundcheck, with 115 sets logged across Amsterdam, Auckland, Austin and Birmingham and 32 more. Often billed alongside Tempza, K Motionz and Andy C. Next up: Ductwork Dallas, Dallas Fort Worth on Thu 1 Oct.
+Hybrid Minds is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 115 sets logged across Amsterdam, Auckland, Austin and Birmingham and 32 more. Often billed alongside Tempza, K Motionz and Andy C. Next up: Ductwork Dallas, Dallas Fort Worth on Thu 1 Oct.
 
 ## Upcoming shows
 

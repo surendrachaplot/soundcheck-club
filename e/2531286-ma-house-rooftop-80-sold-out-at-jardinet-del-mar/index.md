@@ -1,6 +1,6 @@
 # MA House ROOFTOP - 80% SOLD OUT at Jardinet del Mar
 
-MA House ROOFTOP - 80% SOLD OUT at Jardinet del Mar on Sun 27 Sept, Barcelona. 4 artists on the bill: Alex Silva, Charlins, DJ Mats and DJ Tortuga. House and Afro House. Preview the line-up and save it on soundcheck.
+MA House ROOFTOP - 80% SOLD OUT at Jardinet del Mar on Sun 27 Sept, Barcelona. 3 artists on the bill: Charlins, DJ Mats and DJ Tortuga. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ MA House ROOFTOP - 80% SOLD OUT at Jardinet del Mar on Sun 27 Sept, Barcelona. 4
 
 ## Line-up
 
-- Alex Silva
 - Charlins
 - DJ Mats
 - DJ Tortuga

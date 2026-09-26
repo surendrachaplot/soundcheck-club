@@ -1,14 +1,14 @@
 # DJ Ultra Violet
 
-DJ Ultra Violet is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at McCarren Park, New York City on Sun, 27 Sept 2026.
+DJ Ultra Violet is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at McCarren Park, New York City on Sun, 4 Oct 2026.
 
-DJ Ultra Violet is a house and techno artist based in United States of America, tracked on soundcheck, with 94 sets logged across New York City. Often billed alongside Eli Escobar, DADA COZMIC and Bendito. Next up: McCarren Park, New York City on Sun 27 Sept.
+DJ Ultra Violet is a house and techno artist based in United States of America, tracked on soundcheck, with 94 sets logged across New York City. Often billed alongside Eli Escobar, DADA COZMIC and Bendito. Next up: McCarren Park, New York City on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | McCarren Park | New York City |
+| Sun, 4 Oct 2026 | McCarren Park | New York City |
 
 ## Recently played
 

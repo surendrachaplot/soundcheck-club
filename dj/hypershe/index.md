@@ -1,14 +1,15 @@
 # Hypershe
 
-Hypershe is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
+Hypershe is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
 
-Hypershe is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Brighton, Bristol, Hong Kong and London and 2 more. Often billed alongside DJ Hybrid, Origin8a & Propa and Pete Cannon. Next up: The Prospect Building, Bristol on Sat 31 Oct.
+Hypershe is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Brighton, Bristol, Hong Kong and London and 2 more. Often billed alongside Origin8a & Propa, DJ Hybrid and Pete Cannon. Next up: The Prospect Building, Bristol on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Prospect Building | Bristol |
+| Sat, 7 Nov 2026 | Ouseburn Garden | Newcastle |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Hypershe is a jungle and drum & bass artist based in United Kingdom, tracked on 
 
 ## Shares bills with
 
-DJ Hybrid, Origin8a & Propa, Pete Cannon
+Origin8a & Propa, DJ Hybrid, Pete Cannon
 
 *Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hypershe/)*

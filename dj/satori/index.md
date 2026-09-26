@@ -1,8 +1,8 @@
 # Satori
 
-Satori is a Deep House and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Zumana Bali, Bali on Sat, 26 Sept 2026.
+Satori is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Zumana Bali, Bali on Sat, 26 Sept 2026.
 
-Satori is a deep house and house artist based in Netherlands, tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Athens and Bali and 27 more. Often billed alongside Sorä, Cera Khin and Dixon. Next up: Zumana Bali, Bali on Sat 26 Sept.
+Satori is a house and deep house artist based in Netherlands, tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Athens and Bali and 27 more. Often billed alongside Sorä, Cera Khin and Dixon. Next up: Zumana Bali, Bali on Sat 26 Sept.
 
 ## Upcoming shows
 

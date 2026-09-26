@@ -1,14 +1,13 @@
 # Matas
 
-Matas is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Signal, New York City on Fri, 25 Sept 2026.
+Matas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Signal, New York City on Sun, 11 Oct 2026.
 
-Matas is a techno and house artist based in United States of America, tracked on soundcheck, with 58 sets logged across Berlin, Boston, Copenhagen and Montreal and 1 more. Often billed alongside Jek (US), LYDO and KYRUH. Next up: Signal, New York City on Fri 25 Sept.
+Matas is a techno and house artist based in United States of America, tracked on soundcheck, with 58 sets logged across Berlin, Boston, Copenhagen and Montreal and 1 more. Often billed alongside Jek (US), LYDO and KYRUH. Next up: Signal, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Signal | New York City |
 | Sun, 11 Oct 2026 | Signal | New York City |
 
 ## Recently played

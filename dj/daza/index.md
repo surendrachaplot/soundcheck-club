@@ -9,7 +9,7 @@ DAZA is a techno and minimal artist based in Colombia, tracked on soundcheck, wi
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 6 Oct 2026 | Der Weiße Hase | Berlin |
-| Fri, 9 Oct 2026 | TBA | Berlin |
+| Fri, 9 Oct 2026 | Marmorbar | Berlin |
 | Fri, 23 Oct 2026 | Minimal Bar | Berlin |
 | Sat, 7 Nov 2026 | Minimal Bar | Berlin |
 

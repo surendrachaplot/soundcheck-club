@@ -1,8 +1,8 @@
 # Alan Dixon
 
-Alan Dixon is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Zumana Bali, Bali on Wed, 14 Oct 2026.
+Alan Dixon is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Zumana Bali, Bali on Wed, 14 Oct 2026.
 
-Alan Dixon is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Melvo Baptiste, Dave Lee and Kiddy Smile. Next up: Zumana Bali, Bali on Wed 14 Oct.
+Alan Dixon is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Melvo Baptiste, Dave Lee and Kiddy Smile. Next up: Zumana Bali, Bali on Wed 14 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alan Dixon is a house and afro house artist based in United Kingdom, tracked on 
 | --- | --- | --- |
 | Wed, 14 Oct 2026 | Zumana Bali | Bali |
 | Fri, 16 Oct 2026 | TBA -  Ex Hacienda de San Pablo de Enmedio | Mexico City |
+| Fri, 16 Oct 2026 | Ex Hacienda de San Pablo de Enmedio | Mexico City |
 
 ## Recently played
 

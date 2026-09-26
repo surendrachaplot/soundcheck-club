@@ -1,13 +1,14 @@
 # Cleric
 
-Cleric is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
+Cleric is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin on Sat, 26 Sept 2026.
 
-Cleric is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Félicie, Bailey Ibbs and CESAR ALMENA. Next up: RSO.BERLIN, Berlin on Sat 10 Oct.
+Cleric is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Félicie, Bailey Ibbs and CESAR ALMENA. Next up: TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín | Medellin |
 | Sat, 10 Oct 2026 | RSO.BERLIN | Berlin |
 | Fri, 16 Oct 2026 | ART Madrid Club | Madrid |
 | Sat, 31 Oct 2026 | TBA - WAREHOUSE TBA  | New York City |

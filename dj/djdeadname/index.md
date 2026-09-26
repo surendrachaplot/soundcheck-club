@@ -1,6 +1,6 @@
 # DJ DEADNAME
 
-DJ DEADNAME is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+DJ DEADNAME is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 DJ DEADNAME is a bass and techno artist based in United States of America, tracked on soundcheck, with 101 sets logged across Boston, Chicago, Los Angeles and Montreal and 4 more. Often billed alongside Eva Loveless, Male Merge and Surgery. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -9,7 +9,6 @@ DJ DEADNAME is a bass and techno artist based in United States of America, track
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
-| Fri, 25 Sept 2026 | TBA | New York City |
 | Sun, 11 Oct 2026 | telos.haus | New York City |
 
 ## Recently played

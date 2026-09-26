@@ -1,13 +1,14 @@
 # Outburst Knobs
 
-Outburst Knobs is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Masada, Milan on Sun, 11 Oct 2026.
+Outburst Knobs is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Masada, Milan on Sat, 3 Oct 2026.
 
-Outburst Knobs is a techno and electronica artist based in Italy, tracked on soundcheck, with 44 sets logged across Berlin, Brussels, Milan and Porto and 1 more. Often billed alongside Münch, Viels and Dixie. Next up: Masada, Milan on Sun 11 Oct.
+Outburst Knobs is a techno and electronica artist based in Italy, tracked on soundcheck, with 45 sets logged across Berlin, Brussels, Milan and Porto and 1 more. Often billed alongside Münch, Viels and Dixie. Next up: Masada, Milan on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Masada | Milan |
 | Sun, 11 Oct 2026 | Masada | Milan |
 
 ## Recently played

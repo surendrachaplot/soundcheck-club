@@ -8,7 +8,7 @@ La Rotonde Stalingrad is a music venue in Paris listed on soundcheck. 3 upcoming
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Road To The 90'S: Aldonna, Known Artist, Pentagon & More | Aldonna, Aï Smash, Black Truffle, Donna Gibson, Known Artist, Main Lourde |
+| Sat, 3 Oct 2026 | Road To The 90'S: Aldonna, Known Artist, Pentagon & More | Aldonna, Aï Smash, Black Truffle, Donna Gibson, Known Artist, Main Lourde, Owlshake |
 | Sat, 21 Nov 2026 | CRUSH #3 ・ New Club | DMN DJ, Karmakiddo |
 | Sat, 28 Nov 2026 | Forensics ⎜ Original Sins |  |
 

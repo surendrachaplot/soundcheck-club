@@ -1,14 +1,15 @@
 # Takumi's Afterparty
 
-Takumi's Afterparty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ruby Room, Tokyo on Sat, 26 Sept 2026.
+Takumi's Afterparty is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ruby Room, Tokyo on Sat, 26 Sept 2026.
 
-Takumi's Afterparty is a techno and house artist based in Japan, tracked on soundcheck, with 27 sets logged across Tokyo. Often billed alongside Drinkss, Anapol and Sojourna. Next up: Ruby Room, Tokyo on Sat 26 Sept.
+Takumi's Afterparty is a techno and house artist based in Japan, tracked on soundcheck, with 28 sets logged across Tokyo. Often billed alongside Drinkss, Anapol and uuu7. Next up: Ruby Room, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Ruby Room | Tokyo |
+| Fri, 16 Oct 2026 | Ooba Camping Village | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Takumi's Afterparty is a techno and house artist based in Japan, tracked on soun
 
 ## Shares bills with
 
-Drinkss, Anapol, Sojourna
+Drinkss, Anapol, uuu7
 
 *Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takumisafterparty/)*

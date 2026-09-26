@@ -1,6 +1,6 @@
 # AtomTM & Tobias. live // Acquario (Amelia) at Circolo Amelia
 
-AtomTM & Tobias. live // Acquario (Amelia) at Circolo Amelia on Sat 3 Oct, Milan. 2 artists on the bill: Atom™ and Tobias.. Techno. Preview the line-up and save it on soundcheck.
+AtomTM & Tobias. live // Acquario (Amelia) at Circolo Amelia on Sat 3 Oct, Milan. 3 artists on the bill: Atom™, Tobias. and Viels. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ AtomTM & Tobias. live // Acquario (Amelia) at Circolo Amelia on Sat 3 Oct, Milan
 
 - Atom™
 - Tobias.
+- Viels
 
 *Source: [soundcheck](https://soundcheck.club/e/2527769-atomtm-tobias-live-acquario-amelia-at-circolo-amelia/)*

@@ -1,8 +1,8 @@
 # I-F
 
-I-F is a Disco and Italo Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Inter-City, The Hague on Sat, 26 Sept 2026.
+I-F is a Disco and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Inter-City, The Hague on Sat, 26 Sept 2026.
 
-I-F is a disco and italo disco artist based in Netherlands, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 14 more. Often billed alongside Intergalactic Gary, Marsman and Esther Dune. Next up: Inter-City, The Hague on Sat 26 Sept.
+I-F is a disco and house artist based in Netherlands, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 14 more. Often billed alongside Intergalactic Gary, Marsman and Esther Dune. Next up: Inter-City, The Hague on Sat 26 Sept.
 
 ## Upcoming shows
 

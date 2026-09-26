@@ -268,8 +268,8 @@
     .hdr-search svg { width:calc(var(--icon-sm)*1.2); height:calc(var(--icon-sm)*1.2); flex:none; }
     .hdr-search .hs-tx { font:600 var(--fs-base)/var(--lh-base) var(--body); text-transform:lowercase; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     /* header pills — one size: 34px tall, fs-xs. Log a gig / Sign in / username all match. */
-    .hdr-log { flex:none; display:inline-flex; align-items:center; height:41px; padding:0 16px; background:rgba(255,154,61,0.10); border:1px solid rgba(255,154,61,0.35); color:var(--accent); border-radius:var(--radius-pill); font:600 var(--fs-sm)/var(--lh-sm) var(--body); letter-spacing:0; text-transform:lowercase; cursor:pointer; white-space:nowrap; -webkit-tap-highlight-color:transparent; }
-    .hdr-log:hover { background:rgba(255,154,61,0.18); }
+    /* ponytail: #hdr-log's look is now .fp-ab.go (see BUTTON SYSTEM v2) — the
+       same class as every other "Log a gig" CTA, never a bespoke colour. */
     .account-wrap { position:relative; flex:none; }
     .acct-menu { position:absolute; right:0; top:calc(100% + 9px); min-width:192px; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius); padding:6px; box-shadow:0 16px 38px rgba(0,0,0,0.55); z-index:90; display:none; }
     .acct-menu.show { display:block; }
@@ -285,7 +285,7 @@
     @media (max-width:980px){
       /* keep ONLY the radio pill from the named nav — icon-only, so mobile
          still has an idle radio entry point after the home fab was removed */
-      .hdr-log { display:none; }
+      #hdr-log { display:none; }
       .nav-links { gap:0; margin-left:2px; }
       .nav-links .nl:not(.nl-radio) { display:none; }
       .nl-radio span { display:none; }
@@ -3750,7 +3750,7 @@
     .vrow-play:active, .fp-ab.go:active, .fp-pb.go:active, .fp-sets-all:active, .radio-fab:active,
     .auth-box .go:active, .pb-prob-btn:active{ transform:scale(.96); }
     .pd-avatar, .pd-bub{ box-shadow:0 0 0 1.5px var(--bg); }
-    .hdr-log:hover, .ev-radio:hover{ border-color:#ff9a3d; background:rgba(255,154,61,0.18); }
+    .ev-radio:hover{ border-color:#ff9a3d; background:rgba(255,154,61,0.18); }
     .evc-chip:hover{ border-color:var(--sel); }
     /* ── mobile LIST VIEW: home (#grid) + every mountEventCards grid (.grid) ── */
     @media (max-width:640px){ #grid, .grid{ grid-template-columns:1fr; gap:10px; } }
@@ -4081,10 +4081,10 @@
 
     /* 1 · textual toggles — Follow / Wanna see / I've been / Interested / I'm going */
     .fp-ab:not(.go), .fp-pb.tgl, .follow-btn, .pf-btn.primary.follow, .fp-ev-follow, .act-btn,
-    .pd-follow, .hdr-log{
+    .pd-follow{
       background:transparent; color:var(--fg); border:1.5px solid var(--line-2); transition:border-color var(--dur-1), background var(--dur-1), color var(--dur-1), transform var(--dur-1); }
     .fp-ab:not(.go):hover, .fp-pb.tgl:hover, .follow-btn:hover, .pf-btn.primary.follow:hover,
-    .fp-ev-follow:hover, .act-btn:hover, .pd-follow:hover, .hdr-log:hover{
+    .fp-ev-follow:hover, .act-btn:hover, .pd-follow:hover{
       border-color:var(--sel); background:var(--sel-weak); color:var(--fg); filter:none; }
     .fp-ab:not(.go):active, .fp-pb.tgl:active, .follow-btn:active, .fp-ev-follow:active{ transform:scale(.96); }
     .fp-ab.on, .fp-pb.on, .fp-pb.going, .follow-btn.following, .pf-btn.primary.follow.following,
@@ -4583,7 +4583,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790421378077">
+<meta name="sc-build" content="1790439693331">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4602,7 +4602,7 @@
         <button class="nl" data-nav="radio" type="button">Radio</button>
       </div>
       <button class="hdr-search" id="hdr-search" type="button" aria-label="Search artists, venues, events"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span class="hs-tx">Search artists, venues, events…</span></button>
-      <button class="hdr-log" id="hdr-log" type="button" style="display:none">+ Log a gig</button>
+      <button class="fp-ab go" id="hdr-log" type="button" style="display:none">Log a gig</button>
       <div class="account account-wrap" id="account"></div>
     </nav>
 
@@ -6824,24 +6824,8 @@
       if(status && !hasEmail()){ ensureEmailGate().then(function(ok){ if(ok) setEvent(id, status, meta); }); return; }
       setEvent(id, status, meta);
     }
-    // ── DJ-set shelf (Goodreads model): videoId → {status:'queue'|'listened',…} ──
-    var _setShelf=null;
-    function ensureSetShelf(){
-      if(!currentUser) return Promise.resolve({});
-      if(_setShelf) return Promise.resolve(_setShelf);
-      return authedFetch('/api/sets/shelf').then(function(r){ return r.json(); }).then(function(j){
-        _setShelf={}; ((j&&j.sets)||[]).forEach(function(s){ _setShelf[s.video_id]=s; }); return _setShelf;
-      }).catch(function(){ return (_setShelf={}); });
-    }
-    function setShelfSave(videoId, status, meta){
-      if(!currentUser){ openAuth(); return; }
-      meta=meta||{};
-      _setShelf=_setShelf||{};
-      if(status===null) delete _setShelf[videoId];
-      else _setShelf[videoId]={ video_id:videoId, status:status, artist_slug:meta.artistSlug||((_setShelf[videoId]||{}).artist_slug), artist_name:meta.artistName||((_setShelf[videoId]||{}).artist_name), title:meta.title||((_setShelf[videoId]||{}).title), image_url:(_setShelf[videoId]||{}).image_url };
-      authedFetch('/api/sets/shelf',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ videoId:videoId, status:status, artistSlug:meta.artistSlug, artistName:meta.artistName, title:meta.title }) })
-        .catch(function(){ showToast('Couldn’t save — try again'); });
-    }
+    // ponytail: Queue/Listened set-shelf UI removed (founder: "too much") — API
+    // (/api/sets/shelf) left untouched, just no more UI writing/reading it.
     // Seen / Not-going are account features → nudge sign-in when logged out
     function refreshArtistButtons(slug){
       var k=CSS.escape(slug), st=artStatus(slug);
@@ -7883,7 +7867,7 @@
       if(has) h+='<div style="display:flex;gap:9px;margin-bottom:20px;max-width:520px"><button class="btn solid" id="mp-share" type="button" style="flex:1;border:none;border-radius:var(--radius-pill);background:var(--accent-grad);color:var(--accent-ink);font:700 var(--fs-xs)/var(--lh-xs) var(--body);letter-spacing:0.08em;text-transform:uppercase;padding:11px;cursor:pointer">Share my picks</button><button class="btn ghost" id="mp-copy" type="button" style="flex:1;background:transparent;color:var(--fg);border:1px solid var(--border);border-radius:var(--radius-pill);font:700 var(--fs-xs)/var(--lh-xs) var(--body);letter-spacing:0.08em;text-transform:uppercase;padding:11px;cursor:pointer">Copy link</button></div>';
       var hasArt=Object.keys(picks.artists).length>0;
       if(hasArt) h+='<button class="tc-cta" id="mp-taste" type="button">◆ Share your taste card</button>';
-      h+='<div id="mp-shelves">'+picksShelvesHTML()+'</div><div id="mp-sets"></div><div id="mp-diary" style="margin-top:24px"></div>';
+      h+='<div id="mp-shelves">'+picksShelvesHTML()+'</div><div id="mp-diary" style="margin-top:24px"></div>';
       if(has) h+='<button class="hub-row danger" id="mp-clear" type="button" style="max-width:520px;margin-top:22px"><span class="hr-tx"><span class="hr-t">Clear all picks</span></span></button>';
       showPage(h);
       var sh=document.getElementById('mp-share'); if(sh) sh.addEventListener('click',sharePicks);
@@ -7915,26 +7899,7 @@
         var v=e.target.closest('[data-rm-evt]'); if(v){ setEvent(v.dataset.rmEvt,null); document.getElementById('mp-shelves').innerHTML=picksShelvesHTML(); return; }
         var o=e.target.closest('[data-open-evt]'); if(o){ var ev=lookup.byEvent[o.dataset.openEvt]; if(ev) openSheet(ev); return; }
       });
-      if(currentUser){ appendSetShelves(); appendPicksDiary(); }
-    }
-    // "Set queue" + "Listened" shelves — the Goodreads model for DJ sets.
-    async function appendSetShelves(){
-      var el=document.getElementById('mp-sets'); if(!el) return;
-      var m=await ensureSetShelf(); if(!document.body.contains(el)) return;
-      var q=[], l=[];
-      Object.keys(m).forEach(function(k){ var s=m[k]; if(s.status==='queue') q.push(s); else if(s.status==='listened') l.push(s); });
-      if(!q.length && !l.length){ el.innerHTML=''; return; }
-      function row(s){ return '<li><button class="open-ev" data-play-set="'+esc(s.video_id)+'">'+esc(s.title||'Set')+(s.artist_name?' <small>'+esc(s.artist_name)+'</small>':'')+'</button><button class="rm" data-rm-set="'+esc(s.video_id)+'" title="Remove">&times;</button></li>'; }
-      var h='';
-      if(q.length) h+='<div class="sec-h" style="margin-top:24px">Set queue<span class="ct">'+q.length+'</span> <span class="more" id="mp-playq">&#9654; Play queue</span></div><ul class="tray-line">'+q.map(row).join('')+'</ul>';
-      if(l.length) h+='<div class="sec-h" style="margin-top:18px">Listened<span class="ct">'+l.length+'</span></div><ul class="tray-line">'+l.map(row).join('')+'</ul>';
-      el.innerHTML=h;
-      function ytItem(s){ return { slug:s.artist_slug||'', name:s.artist_name||'', title:s.title||'', videoId:s.video_id, poster:s.image_url||'' }; }
-      var pq=document.getElementById('mp-playq'); if(pq) pq.addEventListener('click',function(){ playYtList(q.map(ytItem),0); });
-      el.onclick=function(e){
-        var p=e.target.closest('[data-play-set]'); if(p){ var s=m[p.dataset.playSet]; if(s) playYtList([ytItem(s)],0); return; }
-        var r=e.target.closest('[data-rm-set]'); if(r){ setShelfSave(r.dataset.rmSet,null); appendSetShelves(); return; }
-      };
+      if(currentUser){ appendPicksDiary(); }
     }
     async function appendPicksDiary(){
       try{
@@ -9170,13 +9135,11 @@
               html:pfSegHTML([{sub:'followers',label:'Followers',count:p.followers||0,boxId:'pf-followers'},
                               {sub:'following',label:'Following',count:p.following||0,boxId:'pf-following'}])});
       if(savedN) T.push({k:'saved',l:'Saved',c:savedN,html:'<div class="pf-box" id="pf-events"></div>'});
-      // My Playlist — shared Playlists + Queue + Listened set-shelves behind an inner pill switcher.
-      var setqN=(s.setQueue||[]).length, setlN=(s.setListened||[]).length;
+      // My Playlist — shared Playlists behind an inner pill switcher.
+      // ponytail: Queue/Listened set-shelf segments removed (founder: "too much").
       var plSegs=[];
       if(isMe) plSegs.push({sub:'plists',label:'Playlists',count:null,boxId:'pf-plists'});   // filled async by fillPlaylists()
-      if(setqN) plSegs.push({sub:'setq',label:'Queue',   count:setqN,boxId:'pf-setq'});
-      if(setlN) plSegs.push({sub:'setl',label:'Listened',count:setlN,boxId:'pf-setl'});
-      if(plSegs.length) T.push({k:'playlist',l:'My Playlist',c:(setqN+setlN)||null,html:pfSegHTML(plSegs,'pf-share-pl')});
+      if(plSegs.length) T.push({k:'playlist',l:'My Playlist',c:null,html:pfSegHTML(plSegs,'pf-share-pl')});
       var _pWant=(p&&p._deepTab)||''; var _pActive=T.some(function(t){ return t.k===_pWant; })?_pWant:(T[0]&&T[0].k);
       var tabsBar='<div class="fp-tabs pf-tabs" role="tablist">'+T.map(function(t){ var on=t.k===_pActive; return '<button class="fp-tab'+(on?' on':'')+'" type="button" role="tab" aria-selected="'+on+'" data-tab="'+t.k+'">'+esc(t.l)+(t.c!=null?'<span class="c">'+t.c+'</span>':'')+'</button>'; }).join('')+'</div>';
       var panels=T.map(function(t){ return '<div class="fp-tabpanel'+(t.k===_pActive?'':' hide')+'" data-panel="'+t.k+'">'+t.html+'</div>'; }).join('');
@@ -9365,20 +9328,6 @@
       // grid, an artist's upcoming and a search result, which also means the
       // mobile bands layer and the heart/play wiring come for free.
       if(eb){ if(s.events&&s.events.length){ eb.innerHTML=pfHead('Saved', s.events.length, '')+'<div id="pf-er"></div>'; mountEventCards(document.getElementById('pf-er'), s.events.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, event_date:e.day||e.event_date, poster_url:e.poster_url, lineup:e.lineup }; }), {showCity:true}); } else eb.remove(); }
-      // DJ-set shelves — tap a row to play it (the rest of the shelf queues behind it)
-      function pfSetBox(id, title, list){
-        var box=document.getElementById(id); if(!box) return;
-        if(!list||!list.length){ box.remove(); return; }
-        box.innerHTML='<div class="pf-setlist">'+list.map(function(x,i){
-          var th='https://i.ytimg.com/vi/'+encodeURIComponent(x.video_id)+'/mqdefault.jpg';
-          return '<button class="pf-setrow" type="button" data-si="'+i+'"><span class="ps-th" style="background-image:url(\''+th+'\')"></span><span class="ps-m"><span class="ps-t">'+esc(x.title||'Set')+'</span>'+(x.artist_name?'<span class="ps-a">'+esc(x.artist_name)+'</span>':'')+'</span><span class="ps-pl">&#9654;</span></button>';
-        }).join('')+'</div>';
-        box.querySelectorAll('[data-si]').forEach(function(b){ b.addEventListener('click',function(){
-          playYtList(list.map(function(y){ return { slug:y.artist_slug||'', name:y.artist_name||'', title:y.title||'', videoId:y.video_id, poster:y.image_url||'' }; }), +b.dataset.si);
-        }); });
-      }
-      pfSetBox('pf-setq','Set queue', s.setQueue);
-      pfSetBox('pf-setl','Listened', s.setListened);
       if(p.isMe){ fillPlaylists(); wireSuggest(); }
       _pplLoaded={};
       fillPeopleBox(p.handle, 'followers');
@@ -10628,7 +10577,6 @@
                 (it.thumb?'':genPoster(it.title||'Set'))+
                 (d?'<span class="fp-sk-dur">'+esc(d)+'</span>':'')+'<span class="fp-sk-pl">'+PLAY_SVG+'</span></span>'+
                 '<span class="fp-sk-ti">'+esc(it.title)+'</span><span class="fp-sk-ch">'+sub+'</span></button>'+
-                (it.kind==='yt'?'<div class="fp-sk-acts"><button class="fp-sk-act" type="button" data-shq="'+i+'">+ Queue</button><button class="fp-sk-act" type="button" data-shl="'+i+'">Listened</button></div>':'')+
                 '</div>';
             }).join('')+'</div>';
 
@@ -10646,28 +10594,6 @@
               if(it.kind==='mc'){ playMcUrl(it.url, it.title, it.thumb, it.src||'Mixcloud', { name:artist, slug:slug }); return; }
               playScUrl(it.url||it.audio, it.title, it.thumb, it.badge==='NTS'?'NTS Radio':'SoundCloud', { name:artist, slug:slug });
             }); });
-
-            // Shelves are keyed by videoId, so they stay on the YouTube rows.
-            function paintShelf(){
-              var m=_setShelf||{};
-              items.forEach(function(it,i){
-                if(it.kind!=='yt') return;
-                var st=(m[it.videoId]||{}).status;
-                var q=box.querySelector('[data-shq="'+i+'"]'), l=box.querySelector('[data-shl="'+i+'"]');
-                if(q){ q.classList.toggle('on', st==='queue'); q.textContent=st==='queue'?'Queued \u2713':'+ Queue'; }
-                if(l){ l.classList.toggle('on', st==='listened'); l.textContent=st==='listened'?'Listened \u2713':'Listened'; }
-              });
-            }
-            ensureSetShelf().then(paintShelf);
-            function shelfClick(i, want){
-              var it=items[i]; if(!it||it.kind!=='yt') return;
-              if(!currentUser){ openAuth(); return; }
-              var st=((_setShelf||{})[it.videoId]||{}).status;
-              setShelfSave(it.videoId, st===want?null:want, { artistSlug:slug, artistName:artist, title:it.title||'' });
-              paintShelf();
-            }
-            box.querySelectorAll('[data-shq]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); shelfClick(+b.dataset.shq,'queue'); }); });
-            box.querySelectorAll('[data-shl]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); shelfClick(+b.dataset.shl,'listened'); }); });
           });
         }
         // IDs tab — most-played tracks aggregated from their sets' parsed tracklists.

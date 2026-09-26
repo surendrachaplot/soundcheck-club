@@ -1,8 +1,8 @@
 # Fatzo
 
-Fatzo is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 29 Sept 2026.
+Fatzo is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 29 Sept 2026.
 
-Fatzo is a house and tech house artist based in France, tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Oden, Armand Van Helden and Danny Howard. Next up: Hï Ibiza, Ibiza on Tue 29 Sept.
+Fatzo is a house and tech house artist based in France, tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Oden, Armand Van Helden and Danny Howard. Next up: Hï Ibiza, Ibiza on Tue 29 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Fatzo is a house and tech house artist based in France, tracked on soundcheck, w
 | Tue, 29 Sept 2026 | Hï Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
+| Sat, 28 Nov 2026 | The Independent | San Francisco/Oakland |
 | Fri, 4 Dec 2026 | The Church Nightclub | Denver |
 
 ## Recently played

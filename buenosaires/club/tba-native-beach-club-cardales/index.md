@@ -9,6 +9,6 @@ TBA - Native Beach Club, Cardales is a music venue in Buenos Aires listed on sou
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Simon Vuarambon, Sunset x Ava, Native Beach Club, Cardales Buenos Aires | Figueras, Simon Vuarambon |
-| Fri, 16 Oct 2026 | Maceo Plex x Ava, Native Beach Club, Cardales Buenos Aires | Maceo Plex, Waltervelt |
+| Fri, 16 Oct 2026 | Maceo Plex, Native Beach Club, Cardales Buenos Aires | Maceo Plex, Waltervelt |
 
 *Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-native-beach-club-cardales/)*

@@ -23,6 +23,6 @@ Acidulant is a techno and acid artist based in Malta, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Sean Rickett, Human Safari, Sound synthesis (2)
+Sean Rickett, Human Safari, Sound synthesis
 
 *Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidulant/)*

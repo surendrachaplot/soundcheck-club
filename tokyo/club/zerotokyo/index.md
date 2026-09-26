@@ -12,7 +12,7 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with
 | Sun, 27 Sept 2026 | SHAPE -Enn × ZIGZAG presents- HIPHOP / HOUSE / TECHNO / BASS / UKG / JUNGLE / DnB | MK woop, illequal |
 | Thu, 1 Oct 2026 | 野百合 -noyuri- 1st Anniversary - HIPHOP / HOUSE - |  |
 | Fri, 2 Oct 2026 | Butterfly Effect Special feat.Subtronics - DUBSTEP / TRAP / BASS MUSIC - | AVAYA, Altemica, CASset, CRAZYHYUGA, HiTOMi, NAKiD, R1pq, RED-S, RION, SAKO |
-| Sat, 3 Oct 2026 | Lost Controll - TECH HOUSE / TECHNO - | HATSUYUKI, SHIGEKI NISHIKAWA, Yohji Igarashi, ecec, okadada |
+| Sat, 3 Oct 2026 | Lost Controll - TECH HOUSE / TECHNO - | George Bolton, HATSUYUKI, SHIGEKI NISHIKAWA, Yohji Igarashi, ecec, okadada |
 | Sun, 4 Oct 2026 | SYNC |  |
 | Fri, 9 Oct 2026 | YONAGUNI FIESTA |  |
 | Sat, 10 Oct 2026 | SOUNDGATE - TECHNO / HOUSE - | Carpainter, DADO, FELINE (JP), HATSUYUKI, KOTSU, Kotono Shirai, Krankent, Mary-chan, Ririko, Seimei, Sekitova, Takkyu Ishino, maikoo |

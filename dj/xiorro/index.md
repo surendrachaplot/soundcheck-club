@@ -1,14 +1,13 @@
 # Xiorro
 
-Xiorro is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at KHIDI, Tbilisi on Fri, 25 Sept 2026.
+Xiorro is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at OIL Club, Shenzhen on Thu, 1 Oct 2026.
 
-Xiorro is a techno and house artist based in United States of America, tracked on soundcheck, with 81 sets logged across Amsterdam, Bangkok, Berlin and Boston and 24 more. Often billed alongside Laure Croft, Parallx and Faster Horses. Next up: KHIDI, Tbilisi on Fri 25 Sept.
+Xiorro is a techno and house artist based in United States of America, tracked on soundcheck, with 81 sets logged across Amsterdam, Bangkok, Berlin and Boston and 24 more. Often billed alongside Laure Croft, Parallx and Faster Horses. Next up: OIL Club, Shenzhen on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | KHIDI | Tbilisi |
 | Thu, 1 Oct 2026 | OIL Club | Shenzhen |
 | Fri, 2 Oct 2026 | Horn | Bangkok |
 | Sat, 3 Oct 2026 | Pisco Bar | Kuala Lumpur |
