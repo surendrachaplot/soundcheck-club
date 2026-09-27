@@ -1,14 +1,13 @@
 # Azimut Club
 
-Azimut Club is a music venue in Turin with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Dustin Zahn ext set (Enemy Records /USA), Andrea Perna at Azimut Techno Series Opening" on Sat, 26 Sept 2026.
+Azimut Club is a music venue in Turin with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Moxie hosted by EAR\WAX" on Sat, 3 Oct 2026.
 
-Azimut Club is a music venue in Turin listed on soundcheck. 14 upcoming gigs, with line-ups including Aberra, Allegretti, Audrey Danza and BLANKA and 2 more. Browse upcoming dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
+Azimut Club is a music venue in Turin listed on soundcheck. 13 upcoming gigs, with line-ups including Aberra, Allegretti, Audrey Danza and BLANKA and 2 more. Browse upcoming dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Dustin Zahn ext set (Enemy Records /USA), Andrea Perna at Azimut Techno Series Opening | Dustin Zahn, Rytm |
 | Sat, 3 Oct 2026 | Moxie hosted by EAR\WAX | Moxie |
 | Sat, 10 Oct 2026 | Takaaki Itoh (Wols /JAP), THEGOD01 (Humanoid Gods /IT), Adler (WRD /IT) | THEGOD01, Takaaki Itoh |
 | Sat, 17 Oct 2026 | Narciss hosted by EAR\WAX | Narciss |
@@ -18,6 +17,7 @@ Azimut Club is a music venue in Turin listed on soundcheck. 14 upcoming gigs, wi
 | Sat, 14 Nov 2026 | Dj Sweet 6Teen hosted by EAR\WAX | dj sweet6teen |
 | Fri, 20 Nov 2026 | Naone (down2earth, UTTU, Safe Trip /NL), Rice Papers (Continua, WRD /IT) hosted by Continua | Naone |
 | Sat, 21 Nov 2026 | P.E.A.R.L. (Falling Ethics, Tar Hallow /ESP), Kessa (WRD /IT), Allegretti (WRD /IT) | Allegretti, Kessa, P.E.A.R.L. |
+| Sat, 28 Nov 2026 | Make A Dance hosted by EAR\WAX | Make A Dance |
 
 ## Address
 

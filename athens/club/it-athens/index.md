@@ -1,14 +1,13 @@
 # IT Athens
 
-IT Athens is a music venue in Athens with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Phasma Collective Return" on Sat, 26 Sept 2026.
+IT Athens is a music venue in Athens with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "A Psychedelic Night by Beatrip" on Fri, 2 Oct 2026.
 
-IT Athens is a music venue in Athens listed on soundcheck. 9 upcoming gigs, with line-ups including Brazi, DJ B2B, Jacopo Sb and PANTERNOISE and 2 more. Browse upcoming dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
+IT Athens is a music venue in Athens listed on soundcheck. 8 upcoming gigs, with line-ups including Brazi, DJ B2B, Jacopo Sb and PANTERNOISE and 2 more. Browse upcoming dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Phasma Collective Return | zøntanos |
 | Fri, 2 Oct 2026 | A Psychedelic Night by Beatrip |  |
 | Sat, 3 Oct 2026 | Showcase Tropical Nomads Athens |  |
 | Sat, 10 Oct 2026 | EELF x HER PRESENT - Athens: Target Demographic, Jacopo Sb, VRGN  | Jacopo Sb, Target Demographic, VRGN, pink.wav |

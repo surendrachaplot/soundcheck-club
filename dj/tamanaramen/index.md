@@ -1,14 +1,13 @@
 # tamanaramen
 
-tamanaramen is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Exhibition London, London on Sat, 26 Sept 2026.
+tamanaramen is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sala El Sol, Madrid on Fri, 2 Oct 2026.
 
-tamanaramen is an experimental and electronica artist based in Japan, tracked on soundcheck, with 36 sets logged across Berlin, Brussels, Hong Kong and London and 5 more. Often billed alongside HIMAWARI, Daito Manabe and MoEPiKA. Next up: Exhibition London, London on Sat 26 Sept.
+tamanaramen is an experimental and electronica artist based in Japan, tracked on soundcheck, with 36 sets logged across Berlin, Brussels, Hong Kong and London and 5 more. Often billed alongside HIMAWARI, Daito Manabe and MoEPiKA. Next up: Sala El Sol, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Exhibition London | London |
 | Fri, 2 Oct 2026 | Sala El Sol | Madrid |
 | Fri, 20 Nov 2026 | MoN Takanawa: The Museum of Narratives | Tokyo |
 

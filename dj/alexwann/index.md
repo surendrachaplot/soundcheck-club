@@ -1,14 +1,13 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Kaufleuten, Zurich on Sat, 26 Sept 2026.
+Alex Wann is a Afro House and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Zumana Bali, Bali on Fri, 2 Oct 2026.
 
-Alex Wann is an afro house and house artist based in France, tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Notre Dame, Andrea Oliva and Francis Mercier. Next up: Kaufleuten, Zurich on Sat 26 Sept.
+Alex Wann is an afro house and house artist based in France, tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Notre Dame, Andrea Oliva and Francis Mercier. Next up: Zumana Bali, Bali on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Kaufleuten | Zurich |
 | Fri, 2 Oct 2026 | Zumana Bali | Bali |
 | Sun, 4 Oct 2026 | Savaya Bali | Bali |
 | Sat, 10 Oct 2026 | The Ivy | Sydney |

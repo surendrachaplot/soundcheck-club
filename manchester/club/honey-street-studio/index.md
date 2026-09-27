@@ -1,14 +1,13 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Headrush 009 - Hardgroove/Techno Club Night" on Sat, 26 Sept 2026.
+Honey Street Studio is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Jaded Audio presents - Harley D & Kaz (Dnb & Jungle)" on Fri, 2 Oct 2026.
 
-Honey Street Studio is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including Abby Harris, Abena, Allius and Amelia Leigh and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
+Honey Street Studio is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including Abby Harris, Abena, Allius and Amelia Leigh and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Headrush 009 - Hardgroove/Techno Club Night | AYDN, Deventi, Rúadh |
 | Fri, 2 Oct 2026 | Jaded Audio presents - Harley D & Kaz (Dnb & Jungle) |  |
 | Sat, 3 Oct 2026 | SGP Presents: Berwick, Cersy, Josh Taylor, Boonie | Berwick, Cersy |
 | Sat, 3 Oct 2026 | Justified Passion Magazine Launch  | Allius, Garbo (2) |
@@ -18,6 +17,7 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 12 upco
 | Fri, 23 Oct 2026 | Shoes Off in the Living Room 01 | Abby Harris, BAY-BUSH-KA |
 | Sat, 31 Oct 2026 | RUNWAY 008 - Halloween Edition | Girlfriend, Jase Jeffery, RayRay, caonix |
 | Sat, 7 Nov 2026 | NYUMBA: Afro & Melodic House at Honey Street, Manchester | Kakura, MYDIR, Trekkah |
+| Sat, 14 Nov 2026 | Fingers Crossed: Shroom Shroom | Club Penguin, Ethan A., GayBoy, JAMS (UK), King Kit, SDJ (1), mxtina |
 
 ## Address
 

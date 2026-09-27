@@ -1,14 +1,13 @@
 # Shy One
 
-Shy One is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Basic Club, Naples on Sat, 26 Sept 2026.
+Shy One is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at FOLD, London on Sat, 10 Oct 2026.
 
-Shy One is a house and techno artist based in United Kingdom, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 26 more. Often billed alongside Ruby Savage, NIKS and OK Williams. Next up: Basic Club, Naples on Sat 26 Sept.
+Shy One is a house and techno artist based in United Kingdom, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 26 more. Often billed alongside Ruby Savage, NIKS and OK Williams. Next up: FOLD, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Basic Club | Naples |
 | Sat, 10 Oct 2026 | FOLD | London |
 | Sat, 24 Oct 2026 | Phono Lake | Amsterdam |
 | Fri, 30 Oct 2026 | Fitzroy | Berlin |

@@ -1,14 +1,13 @@
 # Boris
 
-Boris is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Patterns, Brighton on Sat, 26 Sept 2026.
+Boris is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Amsterdam on Fri, 2 Oct 2026.
 
-Boris is a techno and house artist based in Germany, tracked on soundcheck, with 220 sets logged across Amsterdam, Athens, Auckland and Austin and 52 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Patterns, Brighton on Sat 26 Sept.
+Boris is a techno and house artist based in Germany, tracked on soundcheck, with 220 sets logged across Amsterdam, Athens, Auckland and Austin and 52 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: TBA, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Patterns | Brighton |
 | Fri, 2 Oct 2026 | TBA | Amsterdam |
 | Sun, 25 Oct 2026 | Signal | New York City |
 | Sat, 31 Oct 2026 | Paragon | New York City |

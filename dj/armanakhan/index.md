@@ -1,14 +1,13 @@
 # ARMANA KHAN
 
-ARMANA KHAN is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+ARMANA KHAN is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Funkhaus, Vienna on Fri, 2 Oct 2026.
 
-ARMANA KHAN is a club and techno artist based in United States of America, tracked on soundcheck, with 73 sets logged across Barcelona, Berlin, Chicago and Frankfurt and 24 more. Often billed alongside ARCHANGEL (US), Meg10 and Manuka Honey. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+ARMANA KHAN is a club and techno artist based in United States of America, tracked on soundcheck, with 73 sets logged across Barcelona, Berlin, Chicago and Frankfurt and 24 more. Often billed alongside ARCHANGEL (US), Meg10 and Manuka Honey. Next up: Funkhaus, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Fri, 2 Oct 2026 | Funkhaus | Vienna |
 | Sat, 3 Oct 2026 | Moon Club | Lisbon |
 | Sat, 31 Oct 2026 | KREUZWERK | Berlin |

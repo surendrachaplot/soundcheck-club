@@ -1,14 +1,13 @@
 # Isabelle Koci
 
-Isabelle Koci is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Soup, Manchester on Sat, 26 Sept 2026.
+Isabelle Koci is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at radial, London on Sun, 18 Oct 2026.
 
-Isabelle Koci is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Leeds, London and Manchester and 1 more. Often billed alongside Reeshy, Julian Anthony and Bobby O'Donnell. Next up: Soup, Manchester on Sat 26 Sept.
+Isabelle Koci is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Leeds, London and Manchester and 1 more. Often billed alongside Reeshy, Julian Anthony and Bobby O'Donnell. Next up: radial, London on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Soup | Manchester |
 | Sun, 18 Oct 2026 | radial | London |
 | Sat, 31 Oct 2026 | TESTBED | Leeds |
 | Sat, 21 Nov 2026 | Concept Haus | Manchester |

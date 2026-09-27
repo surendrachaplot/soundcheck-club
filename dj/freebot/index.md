@@ -1,14 +1,13 @@
 # Freebot
 
-Freebot is a Latin Bass and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bal Chavaux, Paris on Sat, 26 Sept 2026.
+Freebot is a Latin Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Razzmatazz, Barcelona on Fri, 2 Oct 2026.
 
-Freebot is a latin bass and electronica artist based in Mexico, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Budapest and London and 3 more. Often billed alongside Rosa Pistola, Bruja Prieta and CRRDR. Next up: Bal Chavaux, Paris on Sat 26 Sept.
+Freebot is a latin bass and electronica artist based in Mexico, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Budapest and London and 3 more. Often billed alongside Rosa Pistola, Bruja Prieta and CRRDR. Next up: Razzmatazz, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Bal Chavaux | Paris |
 | Fri, 2 Oct 2026 | Razzmatazz | Barcelona |
 
 ## Recently played

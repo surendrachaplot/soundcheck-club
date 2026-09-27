@@ -1,14 +1,13 @@
 # ASLO
 
-ASLO is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Tunnel Club, Birmingham on Fri, 25 Sept 2026.
+ASLO is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Kilomètre25, Paris on Sat, 17 Oct 2026.
 
-ASLO is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Birmingham, Edinburgh, Glasgow and Istanbul and 4 more. Often billed alongside LAUZ, AISHA and Mark Blair. Next up: Tunnel Club, Birmingham on Fri 25 Sept.
+ASLO is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Birmingham, Edinburgh, Glasgow and Istanbul and 4 more. Often billed alongside LAUZ, AISHA and Mark Blair. Next up: Kilomètre25, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Tunnel Club | Birmingham |
 | Sat, 17 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
 

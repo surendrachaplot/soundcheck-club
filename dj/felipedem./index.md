@@ -1,14 +1,13 @@
 # Felipe de M.
 
-Felipe de M. is a Pop and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Munich Club House, Munich on Sat, 26 Sept 2026.
+Felipe de M. is a Pop and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Munich Club House, Munich on Fri, 2 Oct 2026.
 
-Felipe de M. is a pop and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin and Munich. Often billed alongside CHOOSE WHITE, Dan Mlinar and Tom Novy. Next up: Munich Club House, Munich on Sat 26 Sept.
+Felipe de M. is a pop and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin and Munich. Often billed alongside CHOOSE WHITE, Dan Mlinar and Tom Novy. Next up: Munich Club House, Munich on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Munich Club House | Munich |
 | Fri, 2 Oct 2026 | Munich Club House | Munich |
 | Sat, 3 Oct 2026 | Munich Club House | Munich |
 

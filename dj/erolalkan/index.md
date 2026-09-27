@@ -1,14 +1,13 @@
 # Erol Alkan
 
-Erol Alkan is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Erol Alkan is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Virage, Paris on Fri, 2 Oct 2026.
 
-Erol Alkan is a house and techno artist based in United Kingdom, tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside 2ManyDJs, CC:DISCO! and DJ Paulette. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+Erol Alkan is a house and techno artist based in United Kingdom, tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside 2ManyDJs, CC:DISCO! and DJ Paulette. Next up: Virage, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Fri, 2 Oct 2026 | Virage | Paris |
 | Sat, 3 Oct 2026 | Le Sucre | Lyon |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |

@@ -1,14 +1,13 @@
 # Phonox
 
-Phonox is a music venue in London with 39 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Phonox: Roi Perez, Amaliah" on Sat, 26 Sept 2026.
+Phonox is a music venue in London with 38 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Insomnia London: Megan Wroe, JuicyJards & Badturk" on Thu, 1 Oct 2026.
 
-Phonox is a music venue in London listed on soundcheck. 39 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amaliah, Amy Os and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Anish Kumar and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Phonox: Roi Perez, Amaliah | Amaliah, Roi Perez |
 | Thu, 1 Oct 2026 | Insomnia London: Megan Wroe, JuicyJards & Badturk | JuicyJards, Megan Wroe |
 | Fri, 2 Oct 2026 | Anish Kumar, Baalti: 4 Fridays at Phonox (Opening Party) | Anish Kumar, Baalti |
 | Sat, 3 Oct 2026 | Soul In Motion - Day Rave: Grooverider . Need For Mirrors . Kid Drama . Channell . Basic Rhythm | Basic Rhythm, Channell, Grooverider, Kid Drama, Mantmast, Need For Mirrors, Wagz |
@@ -18,6 +17,7 @@ Phonox is a music venue in London listed on soundcheck. 39 upcoming gigs, with l
 | Sat, 10 Oct 2026 | OUTRO: Fold with SP:MC, Dismantle, Fonzo, Lady Passion | Fold, Fonzo (UK), Lady Passion |
 | Sat, 10 Oct 2026 | An Evening with: Touch of Funk | Farhannah, Touch Of Funk |
 | Fri, 16 Oct 2026 | Anish Kumar, DAR DISKU, DJ Subaru: 4 Fridays at Phonox (16th Oct) | Anish Kumar, DAR DISKU, DJ Subaru |
+| Sat, 17 Oct 2026 | Neffa-T x OUTRO: Neffa-T, Pinch & Trim, Tasha B2B MJK | MJK, Neffa-T, Pinch, Tasha |
 
 ## Address
 

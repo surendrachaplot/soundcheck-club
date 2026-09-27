@@ -1,14 +1,13 @@
 # T-Man (UK)
 
-T-Man (UK) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hidden, Manchester on Sat, 26 Sept 2026.
+T-Man (UK) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Phonox, London on Sat, 24 Oct 2026.
 
-T-Man (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Brighton, Bristol, Ghent and London and 2 more. Often billed alongside Rich Reason, LARISHKA (UK) and MC Fox. Next up: Hidden, Manchester on Sat 26 Sept.
+T-Man (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Brighton, Bristol, Ghent and London and 2 more. Often billed alongside Rich Reason, LARISHKA (UK) and MC Fox. Next up: Phonox, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Hidden | Manchester |
 | Sat, 24 Oct 2026 | Phonox | London |
 
 ## Recently played

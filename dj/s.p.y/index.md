@@ -1,14 +1,13 @@
 # S.P.Y
 
-S.P.Y is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
+S.P.Y is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-S.P.Y is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Auckland and Bali and 30 more. Often billed alongside LowQui, K Motionz and Mozey. Next up: Outernet Live, London on Sat 26 Sept.
+S.P.Y is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Auckland and Bali and 30 more. Often billed alongside LowQui, K Motionz and Mozey. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Outernet Live | London |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 23 Oct 2026 | Sacre Coeur Prague | Prague |
 | Fri, 23 Oct 2026 | Sacre Coeur Prague | Prague |

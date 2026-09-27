@@ -1,14 +1,13 @@
 # Hannah Holland
 
-Hannah Holland is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Hannah Holland is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Quarry, Liverpool on Sat, 17 Oct 2026.
 
-Hannah Holland is a house and techno artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside Josh Caffé, FAFF and Michelle Manetti. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+Hannah Holland is a house and techno artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside Josh Caffé, FAFF and Michelle Manetti. Next up: Quarry, Liverpool on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sat, 17 Oct 2026 | Quarry | Liverpool |
 | Sun, 25 Oct 2026 | The Timber Loft | London |
 | Sat, 31 Oct 2026 | The Cause | London |

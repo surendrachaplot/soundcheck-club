@@ -1,14 +1,13 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Amnesia Milano, Milan on Sat, 26 Sept 2026.
+Bambounou is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
 
-Bambounou is a techno and house artist based in France, tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 49 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Amnesia Milano, Milan on Sat 26 Sept.
+Bambounou is a techno and house artist based in France, tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 49 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Café Nuances  - Marais, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Amnesia Milano | Milan |
 | Fri, 2 Oct 2026 | Café Nuances  - Marais | Paris |
 | Fri, 9 Oct 2026 | FOLD | London |
 | Fri, 16 Oct 2026 | Chinois Ibiza | Ibiza |

@@ -1,14 +1,13 @@
 # Palms Trax
 
-Palms Trax is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Palms Trax is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TRAUM, Antwerp on Fri, 16 Oct 2026.
 
-Palms Trax is a house and techno artist based in Germany, tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside Job Jobse, Peach and Francesco Del Garda. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+Palms Trax is a house and techno artist based in Germany, tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside Job Jobse, Peach and Francesco Del Garda. Next up: TRAUM, Antwerp on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Fri, 16 Oct 2026 | TRAUM | Antwerp |
 | Fri, 23 Oct 2026 | Doka | Amsterdam |
 | Wed, 11 Nov 2026 | TBA | Ghent |

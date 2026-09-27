@@ -1,14 +1,13 @@
 # JADALAREIGN
 
-JADALAREIGN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Near Villeray, Montreal on Sat, 26 Sept 2026.
+JADALAREIGN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at public records, New York City on Sat, 3 Oct 2026.
 
-JADALAREIGN is a house and techno artist based in United States of America, tracked on soundcheck, with 186 sets logged across Amsterdam, Austin, Berlin and Boston and 18 more. Often billed alongside Mike Servito, Ash Lauryn and Carlos Souffront. Next up: TBA - Near Villeray, Montreal on Sat 26 Sept.
+JADALAREIGN is a house and techno artist based in United States of America, tracked on soundcheck, with 186 sets logged across Amsterdam, Austin, Berlin and Boston and 18 more. Often billed alongside Mike Servito, Ash Lauryn and Carlos Souffront. Next up: public records, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Near Villeray | Montreal |
 | Sat, 3 Oct 2026 | public records | New York City |
 | Sat, 17 Oct 2026 | BAR Inc | Osaka |
 

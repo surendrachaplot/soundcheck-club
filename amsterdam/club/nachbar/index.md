@@ -1,14 +1,13 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Faustin & ferrari rot" on Sat, 26 Sept 2026.
+nachbar is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "RAVING CHARLIE: Hard Techno / Rave w/ POKEDECKS / BRIZZIA / INSKYI / DEVØX" on Wed, 30 Sept 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including bebe bad, Benjamin Fröhlich, BENZA and Concrete Husband and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including bebe bad, Benjamin Fröhlich, BENZA and Concrete Husband and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Faustin & ferrari rot | Faustin, ferrari rot |
 | Wed, 30 Sept 2026 | RAVING CHARLIE: Hard Techno / Rave w/ POKEDECKS / BRIZZIA / INSKYI / DEVØX | DEVØX |
 | Wed, 7 Oct 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
 | Wed, 14 Oct 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
@@ -18,6 +17,7 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, wi
 | Sat, 31 Oct 2026 | Freï: Hallow's Eve 2026 | Introspekt, MALLAURY, Miley Serious, bebe bad |
 | Wed, 4 Nov 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
 | Wed, 11 Nov 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
+| Wed, 18 Nov 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
 
 ## Address
 

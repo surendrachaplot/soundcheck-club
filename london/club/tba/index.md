@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 286 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Studio am See" on Sat, 26 Sept 2026.
+TBA is a music venue in London with 284 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Studio am See" on Sat, 26 Sept 2026.
 
-TBA is a music venue in London listed on soundcheck. 286 upcoming gigs, with line-ups including 1-800 GIRLS, 2+2=5, 3 Minds and 5p3c141 and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 284 upcoming gigs, with line-ups including 1-800 GIRLS, 2+2=5, 3 Minds and 5p3c141 and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -15,8 +15,8 @@ TBA is a music venue in London listed on soundcheck. 286 upcoming gigs, with lin
 | Sat, 26 Sept 2026 | inércia x Between | Billi, Francisca Urbano, Godero, Guigas, Hicham (FR), Nibius, Nova Retra, Pitcho, Stckman |
 | Sat, 26 Sept 2026 | Infra presents: Hemka, PucciKat, Matak [CANCELED] | Hemka |
 | Sat, 26 Sept 2026 | Dane's Dance Emporium & Pacific Rhythm present: Telephones | DJ D.Dee, Dane, Telephones |
-| Sat, 26 Sept 2026 | Love Room presents Touré, Chris Duckenfield and Windmills  | Chris Duckenfield, Touré |
 | Sat, 26 Sept 2026 | [CANCELLED] THERAPY PRESENTS: Kitty Amor | Kitty Amor |
 | Sat, 26 Sept 2026 | Until: Fight Club | Furtive |
+| Sat, 26 Sept 2026 | MYGROOVES x MORNING STRETCH  | Dardara, F.D.M, MAY/O, Marie Lung, Mike Starr, Shuray & Walle, Traxx Jr |
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

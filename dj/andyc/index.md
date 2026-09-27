@@ -1,14 +1,13 @@
 # Andy C
 
-Andy C is a Drum & Bass and Jungle artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Roxy, Prague on Sat, 26 Sept 2026.
+Andy C is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ministry Of Sound, London on Fri, 2 Oct 2026.
 
-Andy C is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Auckland, Austin and Barcelona and 44 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: Roxy, Prague on Sat 26 Sept.
+Andy C is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Auckland, Austin and Barcelona and 44 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: Ministry Of Sound, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Roxy | Prague |
 | Fri, 2 Oct 2026 | Ministry Of Sound | London |
 | Sat, 3 Oct 2026 | Document | Bristol |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |

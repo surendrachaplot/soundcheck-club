@@ -1,14 +1,13 @@
 # Kahn
 
-Kahn is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
+Kahn is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Stereo, Glasgow on Sat, 3 Oct 2026.
 
-Kahn is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Neek, SGT Pokes and Sir Spyro. Next up: Colour Factory, London on Sat 26 Sept.
+Kahn is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Neek, SGT Pokes and Sir Spyro. Next up: Stereo, Glasgow on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Colour Factory | London |
 | Sat, 3 Oct 2026 | Stereo | Glasgow |
 | Sat, 17 Oct 2026 | Kapsule | Liverpool |
 | Fri, 30 Oct 2026 | The Trinity Centre | Bristol |

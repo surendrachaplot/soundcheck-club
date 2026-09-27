@@ -1,14 +1,13 @@
 # Saoirse
 
-Saoirse is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Saoirse is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sub Club, Glasgow on Thu, 8 Oct 2026.
 
-Saoirse is a house and techno artist based in Ireland, tracked on soundcheck, with 189 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 42 more. Often billed alongside Mella Dee, Shanti Celeste and Job Jobse. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+Saoirse is a house and techno artist based in Ireland, tracked on soundcheck, with 189 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 42 more. Often billed alongside Mella Dee, Shanti Celeste and Job Jobse. Next up: Sub Club, Glasgow on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Thu, 8 Oct 2026 | Sub Club | Glasgow |
 | Fri, 16 Oct 2026 | NX Newcastle | Newcastle |
 | Sat, 17 Oct 2026 | Under The Arches | Leeds |

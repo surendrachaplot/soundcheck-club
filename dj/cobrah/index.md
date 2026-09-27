@@ -1,14 +1,13 @@
 # COBRAH
 
-COBRAH is a Club and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+COBRAH is a Club and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
-COBRAH is a club and house artist based in Sweden, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 18 more. Often billed alongside Job Jobse, TAAHLIAH and Adam Kraft. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+COBRAH is a club and house artist based in Sweden, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 18 more. Often billed alongside Job Jobse, TAAHLIAH and Adam Kraft. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |
 | Fri, 30 Oct 2026 | Radius | Chicago |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |

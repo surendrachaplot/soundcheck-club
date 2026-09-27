@@ -1,14 +1,13 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Volt Club Milano, Milan on Sat, 26 Sept 2026.
+Seth Troxler is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at DC-10, Ibiza on Mon, 28 Sept 2026.
 
-Seth Troxler is a house and techno artist based in United States of America, tracked on soundcheck, with 316 sets logged across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: Volt Club Milano, Milan on Sat 26 Sept.
+Seth Troxler is a house and techno artist based in United States of America, tracked on soundcheck, with 316 sets logged across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: DC-10, Ibiza on Mon 28 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Volt Club Milano | Milan |
 | Mon, 28 Sept 2026 | DC-10 | Ibiza |
 | Tue, 29 Sept 2026 | TBA - Quai De Heembeek | Brussels |
 | Fri, 2 Oct 2026 | T7 Paris | Paris |
@@ -20,6 +19,7 @@ Seth Troxler is a house and techno artist based in United States of America, tra
 | Thu, 22 Oct 2026 | BRET | Amsterdam |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
 
 ## Recently played
 

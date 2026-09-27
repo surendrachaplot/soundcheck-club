@@ -1,14 +1,13 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 24 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Colour Factory 5th Birthday w/ Logic1000, Kahn & Neek, FAUZIA, foundation.fm, 2CPERREA, Roska " on Sat, 26 Sept 2026.
+Colour Factory is a music venue in London with 23 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Hitty-X" on Sat, 3 Oct 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and Andrea Giudice and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and Andrea Giudice and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Colour Factory 5th Birthday w/ Logic1000, Kahn & Neek, FAUZIA, foundation.fm, 2CPERREA, Roska  | Basmati (1), Bushbby, Dj Fucci, FAUZIA, Fliss Mayo, Izzi, JONE OF ARX, Kahn, Kodemul, Logic1000, Neek, Poundshop, Reenie, Roska, Zaleel, Ìyáàlù |
 | Sat, 3 Oct 2026 | Hitty-X | hitty |
 | Sat, 10 Oct 2026 | Club Tales: MiNNA (All Night Long) | MiNNA |
 | Sat, 10 Oct 2026 | SIMMS - All Night Long |  |
@@ -18,6 +17,7 @@ Colour Factory is a music venue in London listed on soundcheck. 24 upcoming gigs
 | Sat, 17 Oct 2026 | Barrio Cantón with Gia Fu | Gia Fu, Norsicaa |
 | Fri, 23 Oct 2026 | Kik0ween | Baptist (UK), DJ KIK0, Joutema, flippedcrosses |
 | Sat, 31 Oct 2026 | PC Music presents: Pop Crypt: Crypt Cube | GFOTY, GRRL, Iglooghost, Sophia Stel |
+| Sat, 31 Oct 2026 | PC Music presents: Crypt Cube: London After Party | CITYTRONIX, Hannah Diamond, Kane West, Koreless, LOVECAT, Mina Galán, Namasenda, Sophia Stel, philip mceachen |
 
 ## Address
 

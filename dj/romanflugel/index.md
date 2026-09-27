@@ -1,14 +1,13 @@
 # Roman Flügel
 
-Roman Flügel is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Aura Lake Como, Milan on Sat, 26 Sept 2026.
+Roman Flügel is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at FOLD, London on Fri, 2 Oct 2026.
 
-Roman Flügel is a techno and house artist based in Germany, tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Gerd Janson, Sven Vath and Ivan Smagghe. Next up: TBA - Aura Lake Como, Milan on Sat 26 Sept.
+Roman Flügel is a techno and house artist based in Germany, tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Gerd Janson, Sven Vath and Ivan Smagghe. Next up: FOLD, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Aura Lake Como | Milan |
 | Fri, 2 Oct 2026 | FOLD | London |
 | Sat, 3 Oct 2026 | control | Bucharest |
 | Fri, 9 Oct 2026 | TBA - DTLA | Los Angeles |

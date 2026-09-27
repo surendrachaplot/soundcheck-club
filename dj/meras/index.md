@@ -1,14 +1,13 @@
 # MeRas
 
-MeRas is a Dancehall and Pop artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Club NYX, Amsterdam on Sat, 26 Sept 2026.
+MeRas is a Dancehall and Pop artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Club NYX, Amsterdam on Sat, 3 Oct 2026.
 
-MeRas is a dancehall and pop artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam and Brussels. Often billed alongside Babs op de beat, Edward Meunier and Dangerous Rose. Next up: Club NYX, Amsterdam on Sat 26 Sept.
+MeRas is a dancehall and pop artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam and Brussels. Often billed alongside Babs op de beat, Edward Meunier and Dangerous Rose. Next up: Club NYX, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Club NYX | Amsterdam |
 | Sat, 3 Oct 2026 | Club NYX | Amsterdam |
 | Sat, 14 Nov 2026 | Club NYX | Amsterdam |
 

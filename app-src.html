@@ -1106,13 +1106,9 @@
        LATER, so an equal-specificity override loses the tie. Verified with
        getComputedStyle, which still read rgba(0,0,0,0) after the first attempt. */
     .ev-invite button.fp-ab, .inv-bar button.fp-ab{ background:var(--surface-2); border:1.5px solid var(--line-2); }
-    /* SAME SIZE AS THE PLAY BUTTON. .ob-cta is the onboarding CTA — 48px tall,
-       26px of side padding, 0.14em tracking — which is right on a full-width
-       onboarding screen and enormous next to a 42px row button. It sits under
-       Play here, so it takes Play's metrics exactly: height, padding, type and
-       tracking copied from .fp-pb, gradient kept. Scoped to .ev-invite so the
-       onboarding CTA is untouched. */
-    .ev-invite .ob-cta{ margin-top:0; flex:none; }   /* L primary like Play (Round 8 spec) */
+    /* Invite is .fp-pb (L secondary outlined pill, DS p-S-0 board 1583-0) —
+       Play is already the one gradient on this page (one gradient per view,
+       button-system-v2). Was .ob-cta (gradient); fixed 2026-09-27. */
     /* Receiver: "u/x is going" strip under the meta, and the sticky answer bar.
        The bar is fixed so the answer is reachable without scrolling the bill —
        board B puts it over the page, not in the flow. */
@@ -4730,7 +4726,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790477645944">
+<meta name="sc-build" content="1790479703220">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -8393,7 +8389,7 @@
             '<div style="width:40px;height:40px;border-radius:var(--r-1);flex:none;background:linear-gradient(150deg,#3d1352,#a02a63)"></div>'+
             '<div style="min-width:0;flex:1"><div style="font:800 var(--fs-base)/1.25 var(--head);color:var(--fg);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+esc(a0.name)+'</div>'+
             '<div style="font:600 var(--fs-xs)/var(--lh-xs) var(--body);color:var(--faint);margin-top:2px">From this gig\u2019s line-up</div></div>'+
-            '<button class="fp-ab go" id="inv-play" type="button"><span>Play</span></button>'+
+            '<button class="fp-ab" id="inv-play" type="button"><span>Play</span></button>'+
           '</div></div>'):''));
       var ci=el.querySelector('#inv-code'), cerr=el.querySelector('#inv-cerr'), cgo=el.querySelector('#inv-codego');
       async function verify(){
@@ -12402,7 +12398,7 @@
           '</div>'+
           (isPast||_invActive?'':('<div class="ev-invite">'+
             '<div class="evi-hd">Send soundcheck to your friends</div>'+
-            '<button class="ob-cta" id="fp-ev-invite" type="button">Invite</button>'+
+            '<button class="fp-pb" id="fp-ev-invite" type="button">Invite</button>'+
           '</div>'))+
           (ev.mine?evMineHTML(ev):'')+
           // ROUND 8 (Paper 14N2): Line-up | Line-up sets as ONE flat underline

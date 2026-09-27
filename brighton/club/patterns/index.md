@@ -1,14 +1,13 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 16 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Boudica Goes to Brighton with Boris (Berghain / Brighton Debut), Samantha Togni, Yiota" on Sat, 26 Sept 2026.
+Patterns is a music venue in Brighton with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "club 2010: Freshers 2016" on Fri, 2 Oct 2026.
 
-Patterns is a music venue in Brighton listed on soundcheck. 16 upcoming gigs, with line-ups including Boris, Dusky, George FitzGerald and Girls of the Internet and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
+Patterns is a music venue in Brighton listed on soundcheck. 15 upcoming gigs, with line-ups including Dusky, George FitzGerald, Girls of the Internet and INKY MCKAY and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Boudica Goes to Brighton with Boris (Berghain / Brighton Debut), Samantha Togni, Yiota | Boris, Samantha Togni, SuperCLAUD, Yiota |
 | Fri, 2 Oct 2026 | club 2010: Freshers 2016 |  |
 | Sun, 4 Oct 2026 | Brighton Sundae with WheelUP | WheelUP |
 | Fri, 9 Oct 2026 | GRASSROOTS - FREE First Fridays - Jungle, Jungle Tek, Breaks - 09/10/26 | INKY MCKAY, Vergano |
@@ -18,6 +17,7 @@ Patterns is a music venue in Brighton listed on soundcheck. 16 upcoming gigs, wi
 | Fri, 30 Oct 2026 | Dansu Discs: Lucas Alexander, RTK Tarantino, Lauren Steel | Lauren Steel, Lucas Alexander, RTK Tarantino |
 | Sat, 31 Oct 2026 | Dusky - All Day Long - Signals Tour | Dusky |
 | Sun, 1 Nov 2026 | Brighton Sundae with Marcia Carr | Marcia Carr |
+| Sat, 7 Nov 2026 | Nick Hakim |  |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Toffler presents Chris Gialanze, De Sluwe Vos" on Sat, 26 Sept 2026.
+Toffler is a music venue in Rotterdam with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Toffler presents BASSJACKERS - All night long" on Fri, 2 Oct 2026.
 
-Toffler is a music venue in Rotterdam listed on soundcheck. 14 upcoming gigs, with line-ups including AIS, Chess, Chris Gialanze and De Sluwe Vos and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
+Toffler is a music venue in Rotterdam listed on soundcheck. 13 upcoming gigs, with line-ups including AIS, Chess, Divasi and GWELD and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Toffler presents Chris Gialanze, De Sluwe Vos | Chris Gialanze, De Sluwe Vos |
 | Fri, 2 Oct 2026 | Toffler presents BASSJACKERS - All night long |  |
 | Sat, 3 Oct 2026 | Toffler presents RILEY, DAETOR |  |
 | Fri, 9 Oct 2026 | Toffler presents Soul Mass Transit System | Jackyboom, Soul Mass Transit System, Yucky |
@@ -18,6 +17,7 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 14 upcoming gigs, wi
 | Fri, 23 Oct 2026 | Toffler presents J4SCO and friends | LeBagig, Swart |
 | Sat, 24 Oct 2026 | Toffler presents Chess and friends | Chess, Kofi the Unknown, MelFerdi |
 | Fri, 30 Oct 2026 | Toffler presents GWELD (LIVE), REDBATUN (HYBRID LIVE) | GWELD, PARAPHER, SEMPLIFIER |
+| Sat, 31 Oct 2026 | Toffler presents Raphaelito and friends | HIGHTS, LT (UK), Raphaelito |
 
 ## Address
 

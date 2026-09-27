@@ -1,14 +1,13 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "X-RAY: Roll Deep" on Sat, 26 Sept 2026.
+Fuchs2 is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Kiss Facility" on Wed, 30 Sept 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including AVHD, Berlin Bunny, Cristian Marras and Demonika and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including AVHD, Berlin Bunny, Cristian Marras and Demonika and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | X-RAY: Roll Deep | Dj Alyaz, Double J, JohnyM, Manga Saint Hilare, Noir, Riko Dan, Sir Free, fahell |
 | Wed, 30 Sept 2026 | Kiss Facility | Sega Bodega |
 | Fri, 2 Oct 2026 | TECHNO ALLIANCE: Sarah Sommers ☆ Lindsey Herbert ☆ Nastya Muravyova ☆ Sofi Lucius | DJ BONEY S, Lindsey Herbert, Nastya Muravyova, Sarah Sommers, Sofi Lucius, zikade |
 | Sat, 3 Oct 2026 | GEGEN PRAGUE | Cristian Marras, Mar/us, Samantha Togni, jardabpm |

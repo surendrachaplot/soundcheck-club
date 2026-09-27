@@ -1,14 +1,13 @@
 # Amaliah
 
-Amaliah is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Phonox, London on Sat, 26 Sept 2026.
+Amaliah is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
-Amaliah is a house and techno artist based in United Kingdom, tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 39 more. Often billed alongside NIKS, Danielle and Call Super. Next up: Phonox, London on Sat 26 Sept.
+Amaliah is a house and techno artist based in United Kingdom, tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 39 more. Often billed alongside NIKS, Danielle and Call Super. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Phonox | London |
 | Sat, 10 Oct 2026 | Abbotsford Convent | Melbourne |
 | Fri, 23 Oct 2026 | The Berkeley Suite | Glasgow |
 

@@ -1,14 +1,13 @@
 # Ash Lauryn
 
-Ash Lauryn is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Near Villeray, Montreal on Sat, 26 Sept 2026.
+Ash Lauryn is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Ash Lauryn is a house and techno artist based in United States of America, tracked on soundcheck, with 126 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside The AM/AMX, JADALAREIGN and Ben UFO. Next up: TBA - Near Villeray, Montreal on Sat 26 Sept.
+Ash Lauryn is a house and techno artist based in United States of America, tracked on soundcheck, with 126 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside The AM/AMX, JADALAREIGN and Ben UFO. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Near Villeray | Montreal |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |

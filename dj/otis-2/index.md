@@ -1,14 +1,13 @@
 # Otis (BE)
 
-Otis (BE) is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Simian, Copenhagen on Sat, 26 Sept 2026.
+Otis (BE) is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
-Otis (BE) is a club and experimental artist based in Belgium, tracked on soundcheck, with 76 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 19 more. Often billed alongside Emma DJ, Erykah and Europa. Next up: Simian, Copenhagen on Sat 26 Sept.
+Otis (BE) is a club and experimental artist based in Belgium, tracked on soundcheck, with 76 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 19 more. Often billed alongside Emma DJ, Erykah and Europa. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Simian | Copenhagen |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played

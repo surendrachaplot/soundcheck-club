@@ -1,14 +1,13 @@
 # Dominique Lamee
 
-Dominique Lamee is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Z-Bau, Nürnberg on Sat, 26 Sept 2026.
+Dominique Lamee is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
 
-Dominique Lamee is a techno and trance artist based in Germany, tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Budapest and Cologne and 10 more. Often billed alongside HNAS, Kø:lab and KLING&KLANG. Next up: Z-Bau, Nürnberg on Sat 26 Sept.
+Dominique Lamee is a techno and trance artist based in Germany, tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Budapest and Cologne and 10 more. Often billed alongside HNAS, Kø:lab and KLING&KLANG. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Z-Bau | Nürnberg |
 | Sat, 17 Oct 2026 | E-Werk Kulturzentrum | Nürnberg |
 | Fri, 20 Nov 2026 | Airport Würzburg | Nürnberg |
 

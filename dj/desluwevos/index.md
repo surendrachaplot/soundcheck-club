@@ -1,14 +1,13 @@
 # De Sluwe Vos
 
-De Sluwe Vos is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Toffler, Rotterdam on Sat, 26 Sept 2026.
+De Sluwe Vos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 30 Oct 2026.
 
-De Sluwe Vos is a house and techno artist based in Netherlands, tracked on soundcheck, with 90 sets logged across Amsterdam, Berlin, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, Prunk and Locklead. Next up: Toffler, Rotterdam on Sat 26 Sept.
+De Sluwe Vos is a house and techno artist based in Netherlands, tracked on soundcheck, with 90 sets logged across Amsterdam, Berlin, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, Prunk and Locklead. Next up: Shelter Amsterdam, Amsterdam on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Toffler | Rotterdam |
 | Fri, 30 Oct 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played

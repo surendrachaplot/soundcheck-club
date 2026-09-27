@@ -1,14 +1,13 @@
 # Illegaal
 
-Illegaal is a music venue in Brussels with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Zieke Crapule Show 3" on Sat, 26 Sept 2026.
+Illegaal is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "ET_NÀ - Concert Release by Paola Di Bella" on Fri, 2 Oct 2026.
 
-Illegaal is a music venue in Brussels listed on soundcheck. 8 upcoming gigs, with line-ups including Blazin' Bomzai, Godero, HypoGeo and Kathleen C and 2 more. Browse upcoming dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
+Illegaal is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, with line-ups including Blazin' Bomzai, Godero, HypoGeo and Kathleen C and 2 more. Browse upcoming dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Zieke Crapule Show 3 |  |
 | Fri, 2 Oct 2026 | ET_NÀ - Concert Release by Paola Di Bella |  |
 | Sat, 3 Oct 2026 | ✮⋆ GIMIC Radio - 2Y BIRTHDAY ⭒⋆⍣ | Godero, Kathleen C, Malo Z, Melissa Juice, TORI ANN, ttyfal |
 | Fri, 9 Oct 2026 | Illegaal DANCE BATTLE ALL STYLES #10 |  |

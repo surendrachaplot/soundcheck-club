@@ -1,14 +1,13 @@
 # Kapsule
 
-Kapsule is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Foreplay: Oldboy b2b Osmosis Jones b2b Captain Wallop (4Hr)" on Sat, 26 Sept 2026.
+Kapsule is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Kapsule with Shanti Celeste, Ivan Smagghe & Aerofunk" on Fri, 2 Oct 2026.
 
-Kapsule is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, with line-ups including Aerofunk, Autumns, Bradley Zero and Budino and 2 more. Browse upcoming dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
+Kapsule is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including Aerofunk, Autumns, Bradley Zero and Budino and 2 more. Browse upcoming dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Foreplay: Oldboy b2b Osmosis Jones b2b Captain Wallop (4Hr) | Captain Wallop, Oldboy, Osmosis Jones |
 | Fri, 2 Oct 2026 | Kapsule with Shanti Celeste, Ivan Smagghe & Aerofunk | Aerofunk, Ivan Smagghe, Shanti Celeste |
 | Sat, 3 Oct 2026 | RAW presents: Truly Madly (4 Hours) | Truly Madly |
 | Fri, 9 Oct 2026 | Jamie Fielding All Night Long - Modello | Jamie Fielding |
@@ -18,6 +17,7 @@ Kapsule is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, wi
 | Fri, 30 Oct 2026 | PSS Halloween with Rossko, Nay Barr & Riles | Rossko |
 | Sat, 28 Nov 2026 | Sirens Call with Bradley Zero All Night Long | Bradley Zero |
 | Sat, 28 Nov 2026 | The Sirens Call with Bradley Zero All Night Long | Bradley Zero |
+| Sun, 27 Dec 2026 | mUmU  [The techno edition] |  |
 
 ## Address
 

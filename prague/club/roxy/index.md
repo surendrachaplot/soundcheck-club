@@ -1,14 +1,13 @@
 # Roxy
 
-Roxy is a music venue in Prague with 18 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Andy C & MC Tonn Piper ∞ ROXY Prague" on Sat, 26 Sept 2026.
+Roxy is a music venue in Prague with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "JAMES HYPE ∞ ROXY Prague" on Sun, 27 Sept 2026.
 
-Roxy is a music venue in Prague listed on soundcheck. 18 upcoming gigs, with line-ups including 1991 (UK), Adam Beyer, Adrian Mills and Agents Of Time and 2 more. Browse upcoming dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
+Roxy is a music venue in Prague listed on soundcheck. 17 upcoming gigs, with line-ups including 1991 (UK), Adam Beyer, Adrian Mills and Agents Of Time and 2 more. Browse upcoming dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Andy C & MC Tonn Piper ∞ ROXY Prague | Andy C, Tonn Piper |
 | Sun, 27 Sept 2026 | JAMES HYPE ∞ ROXY Prague | James Hype (UK) |
 | Fri, 2 Oct 2026 | Notion ∞ ROXY Prague | Notion |
 | Fri, 9 Oct 2026 | Christian Löffler ∞ ROXY Prague | Christian Löffler |
@@ -18,6 +17,7 @@ Roxy is a music venue in Prague listed on soundcheck. 18 upcoming gigs, with lin
 | Sat, 24 Oct 2026 | BEAUZ ∞ ROXY Prague |  |
 | Tue, 27 Oct 2026 | Adrián Mills ∞ ROXY Prague | Adrian Mills |
 | Fri, 30 Oct 2026 | 1991 ∞ ROXY Prague | 1991 (UK) |
+| Fri, 13 Nov 2026 | Agents Of Time ∞ ROXY Prague | Agents Of Time |
 
 ## Address
 

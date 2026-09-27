@@ -1,14 +1,13 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Horse Meat Disco is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at smartbar, Chicago on Sat, 26 Sept 2026.
 
-Horse Meat Disco is a house and disco artist based in United Kingdom, tracked on soundcheck, with 393 sets logged across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+Horse Meat Disco is a house and disco artist based in United Kingdom, tracked on soundcheck, with 393 sets logged across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: smartbar, Chicago on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sat, 26 Sept 2026 | smartbar | Chicago |
 | Sun, 27 Sept 2026 | The Eagle | London |
 | Fri, 2 Oct 2026 | Fidelity Studio | Dublin |

@@ -1,14 +1,13 @@
 # Enamour
 
-Enamour is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 26 Sept 2026.
+Enamour is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Jolene Downtown Miami, Miami on Sat, 10 Oct 2026.
 
-Enamour is a house and progressive house artist based in United States of America, tracked on soundcheck, with 83 sets logged across Amsterdam, Berlin, Brisbane and Chicago and 19 more. Often billed alongside Lee Burridge, Cassian and Dastan. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 26 Sept.
+Enamour is a house and progressive house artist based in United States of America, tracked on soundcheck, with 83 sets logged across Amsterdam, Berlin, Brisbane and Chicago and 19 more. Often billed alongside Lee Burridge, Cassian and Dastan. Next up: Jolene Downtown Miami, Miami on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Jolene Downtown Miami | Miami |
 | Sun, 11 Oct 2026 | Flash | Washington DC |
 | Mon, 12 Oct 2026 | Parc Jean-Drapeau | Montreal |

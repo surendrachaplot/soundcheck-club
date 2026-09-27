@@ -1,14 +1,13 @@
 # Dwarde
 
-Dwarde is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Mono by Phono, 9654 Pililla St Makati City, Manila on Sat, 26 Sept 2026.
+Dwarde is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at radial, London on Fri, 9 Oct 2026.
 
-Dwarde is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 26 more. Often billed alongside Tim Reaper, Coco Bryce and Hughesee. Next up: Mono by Phono, 9654 Pililla St Makati City, Manila on Sat 26 Sept.
+Dwarde is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 26 more. Often billed alongside Tim Reaper, Coco Bryce and Hughesee. Next up: radial, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Mono by Phono, 9654 Pililla St Makati City | Manila |
 | Fri, 9 Oct 2026 | radial | London |
 | Sat, 10 Oct 2026 | TRAUM | Antwerp |
 | Sat, 17 Oct 2026 | M.O.T | London |

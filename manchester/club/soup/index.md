@@ -1,14 +1,13 @@
 # Soup
 
-Soup is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "AWGOT at Soup" on Sat, 26 Sept 2026.
+Soup is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "BANJAX // Soup" on Thu, 1 Oct 2026.
 
-Soup is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including Abby Harris, atalaya, Ayy Den and Baba Sketch and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
+Soup is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including Abby Harris, atalaya, Ayy Den and Baba Sketch and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | AWGOT at Soup | Groooves, Isabelle Koci, Quidders |
 | Thu, 1 Oct 2026 | BANJAX // Soup | Coel Haines |
 | Fri, 2 Oct 2026 | Dance Policy W/ ZAKIA SEWELL & NOSSA | Zakia |
 | Fri, 2 Oct 2026 | Grey Lantern presents: Youthmovies / Zac Clowe |  |
@@ -18,6 +17,7 @@ Soup is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with
 | Sat, 10 Oct 2026 | Dr Meaker The Distored Sun Tour | Dr Meaker |
 | Fri, 16 Oct 2026 | Midnight Audio Sanctuary: Facta & K-LONE [extended set], Abby Harris, Ells | Abby Harris, Ells, Facta, K-LONE |
 | Sat, 17 Oct 2026 | Juke Joint with DJ Slugo, Ayy Den, atalaya, Baba Sketch | Ayy Den, Baba Sketch, DJ Slugo, atalaya |
+| Mon, 26 Oct 2026 | Call Me Karizma (I'm no American Idol Tour) |  |
 
 ## Address
 

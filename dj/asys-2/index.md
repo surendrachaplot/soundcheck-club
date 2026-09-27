@@ -1,14 +1,13 @@
 # A*S*Y*S (2)
 
-A*S*Y*S (2) is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Tunnel Club, Birmingham on Fri, 25 Sept 2026.
+A*S*Y*S (2) is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Schrotty, Cologne on Fri, 16 Oct 2026.
 
-A*S*Y*S is a techno and acid artist based in Germany, tracked on soundcheck, with 20 sets logged across Amsterdam, Birmingham, Cologne and Frankfurt and 8 more. Often billed alongside T78, Bartu and Behrad Tehrani. Next up: Tunnel Club, Birmingham on Fri 25 Sept.
+A*S*Y*S is a techno and acid artist based in Germany, tracked on soundcheck, with 20 sets logged across Amsterdam, Birmingham, Cologne and Frankfurt and 8 more. Often billed alongside T78, Bartu and Behrad Tehrani. Next up: Schrotty, Cologne on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Tunnel Club | Birmingham |
 | Fri, 16 Oct 2026 | Schrotty | Cologne |
 | Wed, 21 Oct 2026 | Q-Factory | Amsterdam |
 | Sat, 24 Oct 2026 | Lagerwal | Amsterdam |
