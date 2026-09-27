@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE | ANTRO, KEROSENE (ZA), Melchiorr, Quolcat |
 | Thu, 1 Oct 2026 | Complice x Loophole — INTERSTICE (Berlin) | D.E.S Fr, EMIRA, Ian Maur, Iman Janes, KALI (FR), Oktobr, Sicion, Sinesthesia, TEHOTU |
-| Fri, 2 Oct 2026 | ＬＩＬＩＴＨ ✦ | Ayham, Dj Fugitive, Manrick Stapez, Romina Mazzini, Vaccaro |
+| Fri, 2 Oct 2026 | ＬＩＬＩＴＨ ✦ | Ayham, Dj Fugitive, Manrick Stapez, Romina Mazzini, The Camel, Vaccaro |
 | Fri, 9 Oct 2026 | SYNOID | Acierate, Nanzhen Yang |
 | Fri, 9 Oct 2026 | BAILE TRAMA 4TH ANNIVERSARY | Cmba, GUS (4), Isa Castelari, N3LYSTAR, SILVASURFER, SZAL, auto_timer |
 | Sat, 10 Oct 2026 | Pikante x SYNTHX  | 4NOUK, Amo (IT), Bruno Brero, DDUCATI, DSC7, GM1 (IT), Hanne B, JUICY (DE), Listenblondie, Pønti, Vaneska, YOVA, sterni (DE), subcutan |
