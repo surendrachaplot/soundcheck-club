@@ -15,7 +15,7 @@ Colour Factory is a music venue in London listed on soundcheck. 23 upcoming gigs
 | Fri, 16 Oct 2026 | 5 Years of Habibti Nation: PAYDAR (UK Debut), Hiba Salameh, LUMA & Özten | LUMA (UK), PAYDAR, Özten |
 | Sat, 17 Oct 2026 | Bubbledee: House Music Haven in Hackney Wick at Colour Factory Loft | Andrea Giudice, Irren, Larry Cadge, Mono Dust_ |
 | Sat, 17 Oct 2026 | Barrio Cantón with Gia Fu | Gia Fu, Norsicaa |
-| Fri, 23 Oct 2026 | Kik0ween | Baptist (UK), DJ KIK0, Joutema, flippedcrosses |
+| Fri, 23 Oct 2026 | Kik0ween runway / rave | Baptist (UK), DJ KIK0, Joutema, flippedcrosses |
 | Sat, 31 Oct 2026 | PC Music presents: Pop Crypt: Crypt Cube | GFOTY, GRRL, Iglooghost, Sophia Stel |
 | Sat, 31 Oct 2026 | PC Music presents: Crypt Cube: London After Party | CITYTRONIX, Hannah Diamond, Kane West, Koreless, LOVECAT, Mina Galán, Namasenda, Sophia Stel, philip mceachen |
 

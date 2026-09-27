@@ -1,14 +1,13 @@
 # Claudio PRC
 
-Claudio PRC is a Techno and Ambient artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Ex-Centrale Santa Gilla, Cagliari, Sardinia on Sun, 27 Sept 2026.
+Claudio PRC is a Techno and Ambient artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck, with 161 sets logged across Amsterdam, Athens, Bali and Barcelona and 43 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: TBA - Ex-Centrale Santa Gilla, Cagliari, Sardinia on Sun 27 Sept.
+Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck, with 161 sets logged across Amsterdam, Athens, Bali and Barcelona and 43 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | TBA - Ex-Centrale Santa Gilla, Cagliari | Sardinia |
 | Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Sat, 3 Oct 2026 | E1 | London |
 | Sun, 4 Oct 2026 | Gare Porto | Porto |

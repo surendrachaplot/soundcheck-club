@@ -1,14 +1,13 @@
 # Speedy J
 
-Speedy J is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Ex-Centrale Santa Gilla, Cagliari, Sardinia on Sun, 27 Sept 2026.
+Speedy J is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Paradiso, Amsterdam on Wed, 30 Sept 2026.
 
-Speedy J is a techno and house artist based in Netherlands, tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside SPEEDY, Chris Liebing and FJAAK. Next up: TBA - Ex-Centrale Santa Gilla, Cagliari, Sardinia on Sun 27 Sept.
+Speedy J is a techno and house artist based in Netherlands, tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside SPEEDY, Chris Liebing and FJAAK. Next up: Paradiso, Amsterdam on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | TBA - Ex-Centrale Santa Gilla, Cagliari | Sardinia |
 | Wed, 30 Sept 2026 | Paradiso | Amsterdam |
 | Fri, 2 Oct 2026 | AUX Club | Athens |
 | Sat, 17 Oct 2026 | VIERNULVIER | Ghent |

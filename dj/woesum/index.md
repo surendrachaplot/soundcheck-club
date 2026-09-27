@@ -1,14 +1,13 @@
 # Woesum
 
-Woesum is a Trance and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at National Gallery Prague, Prague on Sat, 26 Sept 2026.
+Woesum is a Trance and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 170 Russell, Melbourne on Fri, 23 Oct 2026.
 
-Woesum is a trance and experimental artist based in Sweden, tracked on soundcheck, with 44 sets logged across Amsterdam, Athens, Basel and Berlin and 22 more. Often billed alongside Kamixlo, Bassvictim and Evian Christ. Next up: National Gallery Prague, Prague on Sat 26 Sept.
+Woesum is a trance and experimental artist based in Sweden, tracked on soundcheck, with 44 sets logged across Amsterdam, Athens, Basel and Berlin and 22 more. Often billed alongside Kamixlo, Bassvictim and Evian Christ. Next up: 170 Russell, Melbourne on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | National Gallery Prague | Prague |
 | Fri, 23 Oct 2026 | 170 Russell | Melbourne |
 | Sat, 24 Oct 2026 | The Metro Theatre | Sydney |
 

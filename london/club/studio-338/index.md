@@ -1,14 +1,13 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Party Hard UK - Day Party" on Sun, 27 Sept 2026.
+Studio 338 is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "F*CK ME IT'S FRESHERS LONDON - THE BIGGEST FRESHERS EVENT IN THE UK" on Fri, 2 Oct 2026.
 
-Studio 338 is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including ASHOJU, Bontan, Chicks Luv Us and DELTA LABS and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
+Studio 338 is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including ASHOJU, Bontan, Chicks Luv Us and DELTA LABS and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Party Hard UK - Day Party |  |
 | Fri, 2 Oct 2026 | F*CK ME IT'S FRESHERS LONDON - THE BIGGEST FRESHERS EVENT IN THE UK |  |
 | Sun, 4 Oct 2026 | The Official Karan Aujla Concert After Party - Studio 338 |  |
 | Sun, 4 Oct 2026 | The Official Karan Aujla Concert After Party - Studio 338 |  |

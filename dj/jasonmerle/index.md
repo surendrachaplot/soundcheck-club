@@ -1,14 +1,13 @@
 # Jason Merle
 
-Jason Merle is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 26 Sept 2026.
+Jason Merle is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Borisov Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Jason Merle is a house and deep house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Amsterdam, Austin, Houston and San Diego and 1 more. Often billed alongside Hector Moralez, Jason Hodges and Kenny Dope. Next up: Benelux BAR, Amsterdam on Sat 26 Sept.
+Jason Merle is a house and deep house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Amsterdam, Austin, Houston and San Diego and 1 more. Often billed alongside Hector Moralez, Jason Hodges and Kenny Dope. Next up: Borisov Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Benelux BAR | Amsterdam |
 | Thu, 22 Oct 2026 | Borisov Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | Borisov Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Benelux BAR | Amsterdam |

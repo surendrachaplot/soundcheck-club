@@ -1,14 +1,13 @@
 # Nexus
 
-Nexus is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at National Gallery Prague, Prague on Sat, 26 Sept 2026.
+Nexus is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
-Nexus is a techno and house artist based in Italy, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 10 more. Often billed alongside Lechuga Zafiro, Amnesia Scanner and Animistic Beliefs. Next up: National Gallery Prague, Prague on Sat 26 Sept.
+Nexus is a techno and house artist based in Italy, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 10 more. Often billed alongside Lechuga Zafiro, Amnesia Scanner and Animistic Beliefs. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | National Gallery Prague | Prague |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 
 ## Recently played

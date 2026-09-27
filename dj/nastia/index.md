@@ -1,14 +1,13 @@
 # Nastia
 
-Nastia is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 27 Sept 2026.
+Nastia is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hangaren, Copenhagen on Fri, 2 Oct 2026.
 
-Nastia is a techno and house artist based in Ukraine, tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: The Rooftop at Gianpula Village, Malta on Sun 27 Sept.
+Nastia is a techno and house artist based in Ukraine, tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: Hangaren, Copenhagen on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | The Rooftop at Gianpula Village | Malta |
 | Fri, 2 Oct 2026 | Hangaren | Copenhagen |
 | Sat, 3 Oct 2026 | TBA - BBBANK WILDPARK  | Karlsruhe |
 | Sat, 3 Oct 2026 | Karmen Camina | Strasbourg |
@@ -20,6 +19,7 @@ Nastia is a techno and house artist based in Ukraine, tracked on soundcheck, wit
 | Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
 | Fri, 6 Nov 2026 | Joshua Brooks | Manchester |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
+| Sat, 12 Dec 2026 | not/or/ius Club | Turin |
 
 ## Recently played
 

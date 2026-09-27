@@ -1,14 +1,13 @@
 # Davide Decay
 
-Davide Decay is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at NUMBER 90 LONDON, London on Sun, 27 Sept 2026.
+Davide Decay is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at STEREO, London on Sun, 11 Oct 2026.
 
-Davide Decay is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Berlin, London and New York City. Often billed alongside Max., Claudio Basile and LUUD. Next up: NUMBER 90 LONDON, London on Sun 27 Sept.
+Davide Decay is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Berlin, London and New York City. Often billed alongside Max., Claudio Basile and LUUD. Next up: STEREO, London on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | NUMBER 90 LONDON | London |
 | Sun, 11 Oct 2026 | STEREO | London |
 
 ## Recently played

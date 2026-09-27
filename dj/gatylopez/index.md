@@ -1,14 +1,13 @@
 # Gaty Lopez
 
-Gaty Lopez is a Deep House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Pacha Hotel, Ibiza on Sun, 27 Sept 2026.
+Gaty Lopez is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Destino Ibiza, Ibiza on Mon, 28 Sept 2026.
 
-Gaty Lopez is a deep house and house artist tracked on soundcheck, with 144 sets logged across Ibiza. Next up: Pacha Hotel, Ibiza on Sun 27 Sept.
+Gaty Lopez is a deep house and house artist tracked on soundcheck, with 144 sets logged across Ibiza. Next up: Destino Ibiza, Ibiza on Mon 28 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Pacha Hotel | Ibiza |
 | Mon, 28 Sept 2026 | Destino Ibiza | Ibiza |
 | Mon, 28 Sept 2026 | Pacha Hotel | Ibiza |
 | Tue, 29 Sept 2026 | Destino Ibiza | Ibiza |

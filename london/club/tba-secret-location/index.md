@@ -1,14 +1,13 @@
-# TBA - Secret Location
+# TBA - (Secret Location)
 
-TBA - Secret Location is a music venue in London with 38 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "High Grade Club Secret Party" on Sat, 26 Sept 2026.
+TBA - (Secret Location) is a music venue in London with 37 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Subverted" on Fri, 2 Oct 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including .cosm, Alena Vox, Amnati and Ancut and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - (Secret Location) is a music venue in London listed on soundcheck. 37 upcoming gigs, with line-ups including .cosm, Alena Vox, Amnati and Ancut and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | High Grade Club Secret Party |  |
 | Fri, 2 Oct 2026 | Subverted | GLASSBASS, KEROSENE (ZA), Vex Noir, truthspeaker |
 | Fri, 2 Oct 2026 | EU - Fri, 2 Oct - SECRET LOCATION RAVE #7  |  |
 | Sat, 3 Oct 2026 | THE JAZZ MANSION WEEKENDER BY Organikka | Jaayology, Sonido Tupinamba, Zonzo |
@@ -18,5 +17,6 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 38 upcomi
 | Sun, 4 Oct 2026 | Ambient Picnic — Season Closing | AXT, Bungalovv, Triš, XTCLVR, Xenia Reaper |
 | Mon, 5 Oct 2026 | REI MARA, Dj PeXu, DjFferent, DJ El Tel, Shane DB - RadioLDN - (CANCEL) | Dj PeXu, Shane DB |
 | Fri, 9 Oct 2026 | ZERO RANGE - Chapter 1: Fissure | Young Gaina, sakali |
+| Fri, 9 Oct 2026 | HAREBRAINED: DEFCON ULTIMATE |  |
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

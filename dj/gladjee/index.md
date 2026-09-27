@@ -1,14 +1,13 @@
 # GLADJEE
 
-GLADJEE is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Malaga Sin City, Milan on Sun, 27 Sept 2026.
+GLADJEE is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Tunnel, Milan on Sat, 17 Oct 2026.
 
-GLADJEE is a techno and electronica artist based in Italy, tracked on soundcheck, with 38 sets logged across Budapest, Milan, Rome and Turin. Often billed alongside AllaDerivaLontano, Hi/Fi and Mark Wark. Next up: Malaga Sin City, Milan on Sun 27 Sept.
+GLADJEE is a techno and electronica artist based in Italy, tracked on soundcheck, with 38 sets logged across Budapest, Milan, Rome and Turin. Often billed alongside AllaDerivaLontano, Hi/Fi and Mark Wark. Next up: Tunnel, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Malaga Sin City | Milan |
 | Sat, 17 Oct 2026 | Tunnel | Milan |
 | Fri, 13 Nov 2026 | Gate Milano | Milan |
 

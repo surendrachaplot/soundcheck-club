@@ -1,14 +1,13 @@
 # Bapari
 
-Bapari is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at National Gallery Prague, Prague on Sat, 26 Sept 2026.
+Bapari is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Volksbühne, Berlin on Thu, 22 Oct 2026.
 
-Bapari is a techno and club artist based in United States of America, tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Austin and Basel and 18 more. Often billed alongside Sevyn 0000, Memphy and Stealth Angel. Next up: National Gallery Prague, Prague on Sat 26 Sept.
+Bapari is a techno and club artist based in United States of America, tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Austin and Basel and 18 more. Often billed alongside Sevyn 0000, Memphy and Stealth Angel. Next up: Volksbühne, Berlin on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | National Gallery Prague | Prague |
 | Thu, 22 Oct 2026 | Volksbühne | Berlin |
 
 ## Recently played

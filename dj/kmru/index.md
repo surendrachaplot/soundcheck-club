@@ -1,14 +1,13 @@
 # KMRU
 
-KMRU is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at National Gallery Prague, Prague on Sat, 26 Sept 2026.
+KMRU is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
-KMRU is an experimental and techno artist based in Kenya, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside Carmen Villain, The Bug and Aho Ssan. Next up: National Gallery Prague, Prague on Sat 26 Sept.
+KMRU is an experimental and techno artist based in Kenya, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside Carmen Villain, The Bug and Aho Ssan. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | National Gallery Prague | Prague |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 

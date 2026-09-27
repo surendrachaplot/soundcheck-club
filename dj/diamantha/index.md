@@ -1,6 +1,6 @@
 # Diamantha
 
-Diamantha is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at DURO, Milan on Sun, 27 Sept 2026.
+Diamantha is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at DURO, Milan on Sun, 27 Sept 2026.
 
 Diamantha is a techno and tech house artist based in Italy, tracked on soundcheck, with 22 sets logged across Milan. Often billed alongside Münich, HIBA.KNTK and MISERIA. Next up: DURO, Milan on Sun 27 Sept.
 
@@ -8,8 +8,6 @@ Diamantha is a techno and tech house artist based in Italy, tracked on soundchec
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | DURO | Milan |
-| Sun, 27 Sept 2026 | DURO | Milan |
 | Sun, 27 Sept 2026 | DURO | Milan |
 
 ## Recently played
