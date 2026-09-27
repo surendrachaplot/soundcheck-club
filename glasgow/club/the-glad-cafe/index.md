@@ -1,14 +1,13 @@
 # The Glad Cafe
 
-The Glad Cafe is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Sonica: Raivo Sloan // Moira Salt, Tommy Perman & Andrew Wasylyk // Jett Ilagan" on Sun, 27 Sept 2026.
+The Glad Cafe is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Pop Mutations & The Glad Cafe presents: Carla dal Forno + Gichard" on Tue, 29 Sept 2026.
 
-The Glad Cafe is a music venue in Glasgow listed on soundcheck. 11 upcoming gigs, with line-ups including Carla dal Forno, Gigi Masin, Raivo Sloan and Will Samson. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
+The Glad Cafe is a music venue in Glasgow listed on soundcheck. 10 upcoming gigs, with line-ups including Carla dal Forno, Gigi Masin and Will Samson. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Sonica: Raivo Sloan // Moira Salt, Tommy Perman & Andrew Wasylyk // Jett Ilagan | Raivo Sloan |
 | Tue, 29 Sept 2026 | Pop Mutations & The Glad Cafe presents: Carla dal Forno + Gichard | Carla dal Forno |
 | Fri, 2 Oct 2026 | summerblink [2] ☆ queer hyper/dreampop event |  |
 | Sat, 3 Oct 2026 | Pop Mutations & The Glad Cafe presents: GB |  |
@@ -18,6 +17,7 @@ The Glad Cafe is a music venue in Glasgow listed on soundcheck. 11 upcoming gigs
 | Fri, 23 Oct 2026 | Pop Mutations & The Glad Cafe presents: Nadeem Din-Gabisi |  |
 | Sat, 24 Oct 2026 | Pop Mutations & The Glad Cafe presents: Deradoorian + Mason Lindahl |  |
 | Sun, 25 Oct 2026 | Pop Mutations & The Glad Cafe presents: Will Samson + Yoker Moon | Will Samson |
+| Mon, 16 Nov 2026 | Gigi Masin | Gigi Masin |
 
 ## Address
 

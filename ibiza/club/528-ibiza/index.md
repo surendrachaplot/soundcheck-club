@@ -1,14 +1,13 @@
 # 528 Ibiza
 
-528 Ibiza is a music venue in Ibiza with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Gaskin's Bass Jamz Ibiza" on Sun, 27 Sept 2026.
+528 Ibiza is a music venue in Ibiza with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "PIKES PRESENTS AT 528 WITH Basement Jaxx" on Tue, 29 Sept 2026.
 
-528 Ibiza is a music venue in Ibiza listed on soundcheck. 7 upcoming gigs, with line-ups including ALEXANDER M, Basement Jaxx, Boss Priester and Cam Stockman and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
+528 Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming gigs, with line-ups including Basement Jaxx, Boss Priester, Cam Stockman and Chaos In The CBD and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Gaskin's Bass Jamz Ibiza | ALEXANDER M, Ellam, Ellia Jaya, Gaskin, L.P. Rhythm, Sidney Charles |
 | Tue, 29 Sept 2026 | PIKES PRESENTS AT 528 WITH Basement Jaxx | Basement Jaxx, Chaos In The CBD |
 | Wed, 30 Sept 2026 | Metamorfosi: The Day After | Joseph Capriati |
 | Thu, 1 Oct 2026 | GLOBAL UNDERGROUND | Deep Dish, Guy J, James Zabiela, Patrice Bäumel |

@@ -1,14 +1,13 @@
 # Gaskin
 
-Gaskin is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 528 Ibiza, Ibiza on Sun, 27 Sept 2026.
+Gaskin is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
-Gaskin is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 184 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 34 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: 528 Ibiza, Ibiza on Sun 27 Sept.
+Gaskin is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 184 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 34 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | The Limelight | Belfast |
 | Thu, 22 Oct 2026 | Theater Amsterdam | Amsterdam |

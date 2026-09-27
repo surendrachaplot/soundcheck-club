@@ -1,8 +1,8 @@
 # Pawn Shop
 
-Pawn Shop is a music venue in Dublin with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Intrinsic Rhythm (Tr One B2B Remote Society)" on Fri, 2 Oct 2026.
+Pawn Shop is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Intrinsic Rhythm (Tr One B2B Remote Society)" on Fri, 2 Oct 2026.
 
-Pawn Shop is a music venue in Dublin listed on soundcheck. 4 upcoming gigs, with line-ups including Billy Spike Iland, Bronwyn, Eliza and Lerosa and 2 more. Browse upcoming dates, start times and who's playing. 15 Dame St, Dublin 2, D02 KD74.
+Pawn Shop is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with line-ups including Billy Spike Iland, Bronwyn, Co-Accused and Eliza and 2 more. Browse upcoming dates, start times and who's playing. 15 Dame St, Dublin 2, D02 KD74.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Pawn Shop is a music venue in Dublin listed on soundcheck. 4 upcoming gigs, with
 | Sat, 3 Oct 2026 | Nightcap pres. Gabrielle Kwarteng |  |
 | Wed, 7 Oct 2026 | Unofficial Cabaret Voltaire afterparty | Eliza, Lerosa |
 | Fri, 23 Oct 2026 | Circles: Subject x Syncopated Records | Billy Spike Iland, Bronwyn, Niz (IE), Rhyzine, Unthink |
+| Fri, 27 Nov 2026 | Bastardo Electrico 24th Birthday w. Jerome Hill, Co-Accussed, Jamie Behan & MEJMI | Co-Accused, Jamie Behan, Jerome Hill, MEJMI |
 
 ## Address
 

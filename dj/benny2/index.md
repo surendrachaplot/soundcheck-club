@@ -1,14 +1,13 @@
 # Benny2
 
-Benny2 is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Thuishaven, Amsterdam on Sun, 27 Sept 2026.
+Benny2 is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Grey Space In The Middle, The Hague on Fri, 9 Oct 2026.
 
-Benny2 is a house and club artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam and The Hague. Often billed alongside Jan Koster, SAIDAH and Tsepo. Next up: Thuishaven, Amsterdam on Sun 27 Sept.
+Benny2 is a house and club artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam and The Hague. Often billed alongside Jan Koster, SAIDAH and Tsepo. Next up: The Grey Space In The Middle, The Hague on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Thuishaven | Amsterdam |
 | Fri, 9 Oct 2026 | The Grey Space In The Middle | The Hague |
 | Thu, 22 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 

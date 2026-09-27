@@ -1,14 +1,13 @@
 # Distillery N17
 
-Distillery N17 is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "AMPLIFICA" on Sun, 27 Sept 2026.
+Distillery N17 is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Albion Audio X Protocol X Semtex" on Fri, 2 Oct 2026.
 
-Distillery N17 is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Adam Pits, Adrien Calvet, Amotik and Antonio De Angelis and 2 more. Browse upcoming dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
+Distillery N17 is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Adam Pits, Adrien Calvet, Amotik and Antonio De Angelis and 2 more. Browse upcoming dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | AMPLIFICA | Fresh Lov3, MSO (1), Mowie |
 | Fri, 2 Oct 2026 | Albion Audio X Protocol X Semtex |  |
 | Sat, 3 Oct 2026 | SAD | DJ Sarah Bonito, Dougal, Hang The DJs, Lobsta B, Peggy Viennetta, Sharkey (1), Slayphex Twins |
 | Fri, 9 Oct 2026 | Uhaul Dyke Rave: Take The Wheel | BAMBI (UK), Sazzle |
@@ -18,6 +17,7 @@ Distillery N17 is a music venue in London listed on soundcheck. 13 upcoming gigs
 | Fri, 23 Oct 2026 | Get A Grip | Crystal (3), Dana Montana, Ivicore |
 | Sat, 24 Oct 2026 | Noise Orchestra x Minus Pink | Amotik, Antonio De Angelis, Pre Silent, RayRay, SBBS, Varanasi |
 | Fri, 30 Oct 2026 | INFERNO'WEEN | Goddess II, Lewis G. Burton, Nadine Noor, Oluwafemi |
+| Fri, 6 Nov 2026 | Roots On The Corner #45. Vedic Roots Sound System meets Roots Sensation Sound System | Roots Sensation, Vedic Roots |
 
 ## Address
 

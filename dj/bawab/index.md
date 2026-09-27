@@ -1,14 +1,13 @@
 # bawab
 
-bawab is a Downtempo and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Jungle Hollywood, Los Angeles on Sat, 26 Sept 2026.
+bawab is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Foundation Room - House Of Blues, Chicago on Sat, 3 Oct 2026.
 
-bawab is a downtempo and deep house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Berlin, Chicago, Leipzig and Los Angeles and 7 more. Often billed alongside Sydka, Antaares and Dysco-official. Next up: Jungle Hollywood, Los Angeles on Sat 26 Sept.
+bawab is a downtempo and deep house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Berlin, Chicago, Leipzig and Los Angeles and 7 more. Often billed alongside Sydka, Antaares and Dysco-official. Next up: Foundation Room - House Of Blues, Chicago on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Jungle Hollywood | Los Angeles |
 | Sat, 3 Oct 2026 | Foundation Room - House Of Blues | Chicago |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Traxx Jr
 
-Traxx Jr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Leipzig on Sat, 26 Sept 2026.
+Traxx Jr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
-Traxx Jr is a house and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Leipzig and Paris. Often billed alongside Dardara, MAY/O and mp.ulle. Next up: TBA, Leipzig on Sat 26 Sept.
+Traxx Jr is a house and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Leipzig and Paris. Often billed alongside Dardara, MAY/O and mp.ulle. Next up: Distillery, Leipzig on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA | Leipzig |
 | Fri, 16 Oct 2026 | Distillery | Leipzig |
 
 ## Recently played

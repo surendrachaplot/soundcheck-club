@@ -1,14 +1,13 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 528 Ibiza, Ibiza on Sun, 27 Sept 2026.
+Sidney Charles is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Sidney Charles is a house and tech house artist based in Germany, tracked on soundcheck, with 218 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and L.P. Rhythm. Next up: 528 Ibiza, Ibiza on Sun 27 Sept.
+Sidney Charles is a house and tech house artist based in Germany, tracked on soundcheck, with 218 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and L.P. Rhythm. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | 528 Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |

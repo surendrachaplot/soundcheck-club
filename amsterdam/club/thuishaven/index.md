@@ -1,14 +1,13 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "27 SEP - Thuishaven Zomerclosing SOLD OUT" on Sun, 27 Sept 2026.
+Thuishaven is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "04 OKT - IOSIO 10HRS SOLD OUT" on Sun, 4 Oct 2026.
 
-Thuishaven is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including 2HOT2PLAY, Kepler, AAT (NL) and Abstract Division and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
+Thuishaven is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including 2HOT2PLAY, Kepler, AAT (NL) and Abstract Division and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | 27 SEP - Thuishaven Zomerclosing SOLD OUT | Benny Rodrigues, Benny2, Boss Priester, CARISTA, Daughter In Law, M-High, Marsolo, Merel Helderman, Michel de Hey, Midas Field, Moody Mehran, Tsepo, bebe bad |
 | Sun, 4 Oct 2026 | 04 OKT - IOSIO 10HRS SOLD OUT | Arman John, IOSIO, Nyra, Tell Moore |
 | Thu, 22 Oct 2026 | Glitterbox ADE | Bridge (NY), Carl Craig, Eliza Rose, Ella Knight, HoneyLuv, Horse Meat Disco, Laura Meester, Melvo Baptiste, The Shapeshifters, Tonno Disko |
 | Thu, 22 Oct 2026 | Defected ADE | Joëlla Jackson, Makèz, Melé, RUZE, Ranger Trucco, Sam Divine, TSHA |
@@ -18,6 +17,7 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs,
 | Sat, 24 Oct 2026 | 24 OCT - Thuishaven ADE Saturday Nightshow with Afterjam | Jamback, Jhobei, Laura De Greef, Marlie, Michel de Hey, Raresh |
 | Sun, 25 Oct 2026 | 25 OCT - Thuishaven ADE Sunday with Polyamor presents: davyboi invites SOLD OUT | davyboi |
 | Sat, 7 Nov 2026 | Wooferland, The Beginning & Rave Tribe pres. The Rave Game 2026 | Alexander Koning, Dimitri (1), Eric de Man, Erick E, Franky Jones, Gizmo, HETTO, JP (RU), Jay Dee, Klubbheads, Lucien Foort, Marco V, Remy Unger, Sander van Doorn, Sidney (2), Ton TB, angelo |
+| Sun, 8 Nov 2026 | 08 - Thuishaven with Locklead / Job de Jong / Kepler | A For Alpha, Job de Jong, Kepler, Locklead, Ranger Trucco, Simone de Kunovich, Stefan Meser |
 
 ## Address
 

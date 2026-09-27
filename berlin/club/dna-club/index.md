@@ -1,14 +1,13 @@
 # DNA. CLUB
 
-DNA. CLUB is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets" on Sun, 27 Sept 2026.
+DNA. CLUB is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "[FREE ENTRY] - MEET ME at KOTTI " on Fri, 2 Oct 2026.
 
-DNA. CLUB is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Friday, Blossmbae, cell1 and Fakhar and 2 more. Browse upcoming dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
+DNA. CLUB is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Friday, Blossmbae, cell1 and Fakhar and 2 more. Browse upcoming dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets |  |
 | Fri, 2 Oct 2026 | [FREE ENTRY] - MEET ME at KOTTI  | Fakhar, INTERNAL FORCES, MAXIMUS., MEHMOOD, Slimegoat144, cell1 |
 | Sat, 3 Oct 2026 | KTA.MKE - Progressive House on Open Air Terrace and Indoor Club | Silversurfer, Tallah |
 | Sat, 3 Oct 2026 | BAD IDEA. — Tasting & Rave by MATURBO | Blossmbae, KANIKA |
