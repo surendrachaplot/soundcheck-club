@@ -1,14 +1,13 @@
 # KARBONI
 
-KARBONI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 93 Feet East, London on Sun, 27 Sept 2026.
+KARBONI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Arca, Milan on Sat, 17 Oct 2026.
 
-KARBONI is a house and techno artist based in Italy, tracked on soundcheck, with 48 sets logged across Athens, Bangkok, Barcelona and Istanbul and 7 more. Often billed alongside KARBO, Phill Prince and Carloalberto. Next up: 93 Feet East, London on Sun 27 Sept.
+KARBONI is a house and techno artist based in Italy, tracked on soundcheck, with 48 sets logged across Athens, Bangkok, Barcelona and Istanbul and 7 more. Often billed alongside KARBO, Phill Prince and Carloalberto. Next up: Arca, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | 93 Feet East | London |
 | Sat, 17 Oct 2026 | Arca | Milan |
 
 ## Recently played

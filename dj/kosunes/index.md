@@ -1,14 +1,8 @@
 # Kosu Nes
 
-Kosu Nes is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at National Gallery Prague, Prague on Sat, 26 Sept 2026.
+Kosu Nes is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026.
 
-Kosu Nes is an experimental and electronica artist based in Spain, tracked on soundcheck, with 2 sets logged across Barcelona and Prague. Often billed alongside Autechre, Bapari and Bitter Babe. Next up: National Gallery Prague, Prague on Sat 26 Sept.
-
-## Upcoming shows
-
-| Date | Venue | City |
-| --- | --- | --- |
-| Sat, 26 Sept 2026 | National Gallery Prague | Prague |
+Kosu Nes is an experimental and electronica artist based in Spain, tracked on soundcheck, with 2 sets logged across Barcelona and Prague. Often billed alongside Autechre, Bapari and Bitter Babe. 1 upcoming show listed.
 
 ## Recently played
 

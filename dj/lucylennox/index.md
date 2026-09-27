@@ -1,14 +1,15 @@
 # Lucy Lennox
 
-Lucy Lennox is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Star & Garter, Bristol on Sat, 3 Oct 2026.
+Lucy Lennox is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Star & Garter, Bristol on Sat, 3 Oct 2026.
 
-Lucy Lennox is a disco and house artist tracked on soundcheck, with 13 sets logged across Bristol, Edinburgh, London and Malta. Often billed alongside The Duke, Danny Krivit and MARINI. Next up: The Star & Garter, Bristol on Sat 3 Oct.
+Lucy Lennox is a disco and house artist tracked on soundcheck, with 14 sets logged across Bristol, Edinburgh, London and Malta. Often billed alongside The Duke, Danny Krivit and Horse Meat Disco. Next up: The Star & Garter, Bristol on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | The Star & Garter | Bristol |
+| Thu, 31 Dec 2026 | Outernet Live | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Lucy Lennox is a disco and house artist tracked on soundcheck, with 13 sets logg
 
 ## Shares bills with
 
-The Duke, Danny Krivit, MARINI
+The Duke, Danny Krivit, Horse Meat Disco
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucylennox/)*

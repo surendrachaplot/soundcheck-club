@@ -1,14 +1,13 @@
 # Antal
 
-Antal is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Eastway Baths, London on Sun, 27 Sept 2026.
+Antal is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
 
-Antal is a house and disco artist based in Netherlands, tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Bali and 45 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: Eastway Baths, London on Sun 27 Sept.
+Antal is a house and disco artist based in Netherlands, tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Bali and 45 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: Tanjong Pagar Distripark, Singapore on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Eastway Baths | London |
 | Sat, 3 Oct 2026 | Tanjong Pagar Distripark | Singapore |
 | Sat, 10 Oct 2026 | 1 Hotel Tokyo | Tokyo |
 | Thu, 22 Oct 2026 | San Francisco | Amsterdam |
