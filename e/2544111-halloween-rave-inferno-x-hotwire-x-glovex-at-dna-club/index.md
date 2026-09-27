@@ -1,6 +1,6 @@
-# Halloween Rave // Inferno x Hotwire x GloveX at DNA. CLUB
+# Halloween Rave // Inferno x Hotwire x Glovex at DNA. CLUB
 
-Halloween Rave // Inferno x Hotwire x GloveX at DNA. CLUB on Sat 31 Oct, Berlin. 1 artist on the bill: TEZMA. Techno. Preview the line-up and save it on soundcheck.
+Halloween Rave // Inferno x Hotwire x Glovex at DNA. CLUB on Sat 31 Oct, Berlin. 5 artists on the bill: Alex Friday, Filialleiter, Khaøz and LIIAS and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,10 @@ Halloween Rave // Inferno x Hotwire x GloveX at DNA. CLUB on Sat 31 Oct, Berlin.
 
 ## Line-up
 
+- Alex Friday
+- Filialleiter
+- Khaøz
+- LIIAS
 - TEZMA
 
 *Source: [soundcheck](https://soundcheck.club/e/2544111-halloween-rave-inferno-x-hotwire-x-glovex-at-dna-club/)*

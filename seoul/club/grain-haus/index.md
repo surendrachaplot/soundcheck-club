@@ -2,13 +2,13 @@
 
 Grain Haus is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "BRIDGE presents Megra" on Sat, 3 Oct 2026.
 
-Grain Haus is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including Megra. Browse upcoming dates, start times and who's playing. 1F, 40, Usadan-ro, Yongsan-gu, Seoul, Republic of Korea.
+Grain Haus is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including AEIDA, Juuno, MAR VISTA and Megra and 2 more. Browse upcoming dates, start times and who's playing. 1F, 40, Usadan-ro, Yongsan-gu, Seoul, Republic of Korea.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | BRIDGE presents Megra | Megra |
+| Sat, 3 Oct 2026 | BRIDGE presents Megra | AEIDA, Juuno, MAR VISTA, Megra, SEOL, YENN (2) |
 
 ## Address
 

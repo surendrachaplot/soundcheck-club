@@ -1,8 +1,8 @@
 # Tagada
 
-Tagada is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "EXPOSED" on Fri, 2 Oct 2026.
+Tagada is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "EXPOSED" on Fri, 2 Oct 2026.
 
-Tagada is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-ups including Who is ela¿. Browse upcoming dates, start times and who's playing. Brunnengasse 76, 1160 Wien, Austria.
+Tagada is a music venue in Vienna listed on soundcheck. 3 upcoming gigs, with line-ups including Alexandra Marr, Reeno Reluv and Who is ela¿. Browse upcoming dates, start times and who's playing. Brunnengasse 76, 1160 Wien, Austria.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Tagada is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with li
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | EXPOSED |  |
 | Sat, 3 Oct 2026 | 11,10er Rave Vol. 3 | Who is ela¿ |
+| Fri, 9 Oct 2026 | [kju:t] | Alexandra Marr, Reeno Reluv |
 
 ## Address
 

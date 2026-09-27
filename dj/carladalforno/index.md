@@ -1,14 +1,13 @@
 # Carla dal Forno
 
-Carla dal Forno is a Pop and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Lafayette Anticipations, Paris on Sun, 27 Sept 2026.
+Carla dal Forno is a Pop and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Glad Cafe, Glasgow on Tue, 29 Sept 2026.
 
-Carla dal Forno is a pop and electronica artist based in Germany, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 5 more. Often billed alongside Moopie, 1morning and Alex Zhang Hungtai. Next up: Lafayette Anticipations, Paris on Sun 27 Sept.
+Carla dal Forno is a pop and electronica artist based in Germany, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 5 more. Often billed alongside Moopie, 1morning and Alex Zhang Hungtai. Next up: The Glad Cafe, Glasgow on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Lafayette Anticipations | Paris |
 | Tue, 29 Sept 2026 | The Glad Cafe | Glasgow |
 | Wed, 30 Sept 2026 | The White Hotel | Manchester |
 | Fri, 2 Oct 2026 | Strange Brew | Bristol |

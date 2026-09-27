@@ -1,14 +1,15 @@
 # KILIMANJARO
 
-KILIMANJARO is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Commodore Ballroom, Vancouver on Wed, 30 Sept 2026.
+KILIMANJARO is a House and Afro House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Commodore Ballroom, Vancouver on Wed, 30 Sept 2026.
 
-KILIMANJARO is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 138 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 36 more. Often billed alongside Eliza Rose, TSHA and AMÉMÉ. Next up: Commodore Ballroom, Vancouver on Wed 30 Sept.
+KILIMANJARO is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 139 sets logged across Amsterdam, Austin, Barcelona and Berlin and 37 more. Often billed alongside Eliza Rose, TSHA and AMÉMÉ. Next up: Commodore Ballroom, Vancouver on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Commodore Ballroom | Vancouver |
+| Sun, 4 Oct 2026 | Watr | Austin |
 | Sat, 10 Oct 2026 | Pygmalion | Dublin |
 | Wed, 11 Nov 2026 | Lark | Berlin |
 | Fri, 13 Nov 2026 | La Boule Noire | Paris |

@@ -4703,7 +4703,6 @@
       .mu-pr{ display:none; }
       .mu-sk .mu-card:nth-child(n+4){ display:none; }
       .mu-foot{ display:block; padding:0 20px; }
-      .mu-foot .fp-lk{ min-height:52px; font-size:var(--fs-base); }
       .mu-empty, .mu-err{ padding-left:20px; padding-right:20px; }
     }
 
@@ -4734,11 +4733,98 @@
       .lsn-badge.pop{ animation:lsnFade 200ms linear; }
       @keyframes lsnFade{ from{ opacity:0; } to{ opacity:1; } }
     }
+
+    /* ═══ ROUND 11 (27 Sep) — EVERY TAPPABLE: two heights, one type per height ═══
+       Paper DS p-S-0 "20 · Controls — every tappable, consolidated" (164Y).
+       Measured first: `node --env-file=.env audit-tappables.mjs` → audit/
+       tappables-2026-09-27.json (before: 25 labelled heights, 9 text sizes,
+       5 weights, 6 cases on one desktop crawl). LAST in the sheet: flat
+       namespace, later wins (memory css-flat-namespace).
+         L  48 · Archivo 700 16.5/21   buttons (Round 8) + TABS
+         M  36 · Archivo 700 14/18 · pad 0 14 · hit 44   chips, filters, search
+               type pills, segments, header pills, city chip, row actions
+         disc L 44 · disc M 36 (hit 44) · link 700 14/18 lilac (hit 44)
+       ONE weight (700), ONE case (sentence, no text-transform), ONE shape (pill).
+       Paint roles unchanged: gradient = the one Play, violet = ON, outline = off.
+       Kept apart on purpose (own DS entries): date tiles + calendar day cells
+       (a calendar, not a label), bottom nav + header nav/city (navigation),
+       dock scrub knob, list rows/cards, map controls, avatars. */
+
+    /* M — one chip for every chip, filter, segment and small pill */
+    .qchip, .gd-chip, .home-seo-dates a, .home-seo-venues a, .cal-foot button:not(.primary), .ppl-f, .scn-cont, .vrv-edit, .vrv-chip, .up-chip, .lg-chip, .lg-chip-all, .acc-chip, .al-chip, .along-chip, .vibe-chip, .route-vchip, .pb-chip, .pp-prom, .vd-vlink, .gh-log, .dock-sc, .cal-modes button, .pf-segb, .city-more, .account .signin-btn, .account .who, .lg-all, .pb-rot-btn, .ev-radio, .rx-pill, .pill-link, .fy-filt, .upc-tab, .evc-chip, .lg-citychip, .account .signup-btn, .cal-foot button, .lg-pill, .toast-act, .fp-ab.sm{
+      display:inline-flex; align-items:center; justify-content:center; gap:6px; flex:0 0 auto;
+      height:var(--btn-m); min-height:0; width:auto; padding:0 14px; margin-top:0; border-radius:var(--radius-btn);
+      font:700 var(--fs-btn-m)/var(--lh-btn-m) var(--body); letter-spacing:0; text-transform:none; white-space:nowrap; }
+    .qchip, .gd-chip, .home-seo-dates a, .home-seo-venues a, .cal-foot button:not(.primary), .ppl-f, .scn-cont, .vrv-edit, .vrv-chip, .up-chip, .lg-chip, .lg-chip-all, .acc-chip, .al-chip, .along-chip, .vibe-chip, .route-vchip, .pb-chip, .pp-prom, .vd-vlink, .gh-log, .dock-sc, .cal-modes button, .pf-segb, .city-more, .account .signin-btn, .account .who, .lg-all, .pb-rot-btn, .ev-radio, .rx-pill, .pill-link, .fy-filt, .upc-tab{
+      background:transparent; border:1.5px solid var(--line-2); color:var(--fg); text-decoration:none; }
+    .qchip:not(.on):hover, .gd-chip:not(.on):hover, .home-seo-dates a:not(.on):hover, .ppl-f:not(.on):hover, .scn-cont:not(.on):hover, .vrv-edit:not(.on):hover, .vrv-chip:not(.on):hover, .up-chip:not(.on):hover, .lg-chip:not(.on):hover, .lg-chip-all:not(.on):hover, .acc-chip:not(.on):hover, .al-chip:not(.on):hover, .along-chip:not(.on):hover, .vibe-chip:not(.on):hover, .route-vchip:not(.on):hover, .pb-chip:not(.on):hover, .pp-prom:not(.on):hover, .vd-vlink:not(.on):hover, .gh-log:not(.on):hover, .dock-sc:not(.on):hover, .cal-modes button:not(.on):hover, .pf-segb:not(.on):hover, .city-more:not(.on):hover, .account .signin-btn:not(.on):hover, .account .who:not(.on):hover, .lg-all:not(.on):hover, .pb-rot-btn:not(.on):hover, .ev-radio:not(.on):hover, .rx-pill:not(.on):hover, .pill-link:not(.on):hover, .fy-filt:not(.on):hover, .upc-tab:not(.on):hover{
+      border-color:var(--sel); background:var(--sel-weak); color:var(--fg); }
+    .qchip.on, .scn-cont.on, .pf-segb.on, .cal-modes button.on, .up-chip.on, .lg-chip.on, .lg-chip-all.on, .vrv-chip.on, .vibe-chip.on, .pb-chip.on, .ppl-f.on, .lg-all.on, .acc-chip.on, .fy-filt.on, .upc-tab.on{
+      background:var(--sel); border-color:var(--sel); color:var(--sel-ink); font-weight:700; }
+    .qchip svg, .gd-chip svg, .ppl-f svg, .pb-rot-btn svg, .ev-radio svg, .dock-sc svg, .lg-citychip svg{ width:16px; height:16px; flex:none; }
+    .gd-ct, .home-seo-dates a .c, .home-seo-venues a .c{ font:700 var(--fs-btn-m)/var(--lh-btn-m) var(--body); letter-spacing:0; color:var(--muted); }
+    .qchip.on .gd-ct, .scn-cont.on span{ color:inherit; }
+    .gd-chip-lg{ font-size:var(--fs-btn-m); padding:0 14px; }
+    .city-more{ display:flex; width:auto; justify-self:start; border-style:solid; }
+    .lm-btn{ display:inline-flex; margin:var(--sp-3) 18px var(--sp-2); }
+    .cal-modes{ border:0; padding:0; gap:8px; }
+    /* EXCEPTION: the collapsed phone mini-bar has no room for a 36 pill — the SoundCloud
+       credit (embed terms: logo + name + backlink) keeps its old compact size there. */
+    .dock:not(.expanded) .dock-sc{ height:auto; padding:0 7px; margin-top:0; border-width:1px; font:600 var(--fs-xs)/var(--lh-xs) var(--body); }
+    /* event-card artist chips: same M chip, two rows of 36 */
+    .evc-chips{ grid-auto-rows:var(--btn-m); height:calc(var(--btn-m) * 2 + 7px); }
+    .evc-chip{ display:flex; justify-content:flex-start; border-width:1.5px; border-color:var(--line-2); }
+    .evc-chip.more{ justify-content:center; }
+    .evc-chip .evc-tri{ display:none; }   /* 14/700 needs the room: the card's Play disc already says "plays" */
+    .evc-chip .evc-nm{ min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    /* 44 hit on every M control that had none (painted 36, touchable 44) */
+    :where(.qchip, .gd-chip, .home-seo-dates a, .home-seo-venues a, .cal-foot button:not(.primary), .ppl-f, .scn-cont, .vrv-edit, .vrv-chip, .up-chip, .lg-chip, .lg-chip-all, .acc-chip, .al-chip, .along-chip, .vibe-chip, .route-vchip, .pb-chip, .pp-prom, .vd-vlink, .gh-log, .dock-sc, .cal-modes button, .pf-segb, .city-more, .account .signin-btn, .account .who, .lg-all, .pb-rot-btn, .ev-radio, .rx-pill, .pill-link, .fy-filt, .upc-tab, .lg-citychip, .account .signup-btn, .cal-foot button){ position:relative; }
+    .qchip::after, .gd-chip::after, .home-seo-dates a::after, .ppl-f::after, .scn-cont::after, .vrv-edit::after, .vrv-chip::after, .up-chip::after, .lg-chip::after, .lg-chip-all::after, .acc-chip::after, .al-chip::after, .along-chip::after, .vibe-chip::after, .route-vchip::after, .pb-chip::after, .pp-prom::after, .vd-vlink::after, .gh-log::after, .dock-sc::after, .cal-modes button::after, .pf-segb::after, .city-more::after, .account .signin-btn::after, .account .who::after, .lg-all::after, .pb-rot-btn::after, .ev-radio::after, .rx-pill::after, .pill-link::after, .fy-filt::after, .upc-tab::after, .lg-citychip::after, .account .signup-btn::after, .cal-foot button::after{
+      content:''; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);
+      width:max(100%, 44px); height:max(100%, 44px); z-index:0; }
+
+    /* TABS — one style: flat underline, L height and L type (matches native TabRail 16.5) */
+    .fp-tab{ display:inline-flex; align-items:center; height:var(--btn-l); padding:0 2px; font:700 var(--fs-btn-l)/var(--lh-btn-l) var(--body); letter-spacing:-0.005em; text-transform:none; }
+
+    /* LINK — text only, 700 14 lilac, 44 tall (Round 8 .fp-lk) */
+    .report-cue, .fp-morev, .fp-ev-tickets, .pb-ds-ev, .more-btn, .fp-ev-dir, .home-seo-nav a{
+      display:inline-flex; align-items:center; gap:6px; width:auto; min-height:44px; padding:0; margin-left:0; border:0; border-radius:0; background:none;
+      font:700 var(--fs-btn-m)/var(--lh-btn-m) var(--body); letter-spacing:0; text-transform:none; color:var(--muted);
+      -webkit-text-fill-color:currentColor; text-decoration:none; text-align:left; cursor:pointer; }
+    .report-cue:hover, .fp-morev:hover, .fp-ev-tickets:hover, .pb-ds-ev:hover, .fp-ev-dir:hover, .home-seo-nav a:hover{ color:var(--fg); text-decoration:none; }
+    .fp-morev{ margin-top:12px; }
+    .pb-ds-ev{ margin-left:8px; vertical-align:middle; }
+    a.nav.pb-ds-ev, a.nav.fp-morev, a.nav.fp-ev-tickets, a.nav.fp-ev-dir{ color:var(--muted); }   /* a.nav{color:inherit} outranks a bare class */
+    a.nav.pb-ds-ev:hover, a.nav.fp-morev:hover, a.nav.fp-ev-tickets:hover, a.nav.fp-ev-dir:hover{ color:var(--fg); }
+    
+
+    /* DISCS — two sizes. L 44 (the card Play, the sticky Play, filters, dock play);
+       M 36 with a 44 hit (link discs, close, calendar arrows, add, bare icons). */
+    .evc-play, .lvr .evc-play, .psticky-play, .ds-filt, .dock .play-main{ width:var(--btn-ib); height:var(--btn-ib); }
+    .psticky-play{ bottom:-22px; }
+    #ap-links .fp-lk-ib, .auth-close, #cal-prev, #cal-next, .tk-add, .promo-x, .psticky-back, .dock .iconbtn, .dock #dock-close, .dock:not(.expanded) .dock-acts .heart.dock-act{
+      width:var(--btn-m); height:var(--btn-m); min-width:0; padding:0; border-radius:var(--radius-btn); display:inline-flex; align-items:center; justify-content:center; }
+    #ap-links .fp-lk-ib::after{ inset:-4px; }   /* 36 disc → 44 hit */
+    .auth-close, #cal-prev, #cal-next, .tk-add{ background:transparent; border:1.5px solid var(--line-2); color:var(--fg); }
+    .auth-close:hover, #cal-prev:hover, #cal-next:hover, .tk-add:hover{ border-color:var(--sel); background:var(--sel-weak); }
+    :where(#cal-prev, #cal-next, .tk-add){ position:relative; }
+    #cal-prev::after, #cal-next::after, .tk-add::after{ content:''; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); width:44px; height:44px; }
+    /* dock heart: collapsed = disc M 36 (above); expanded desktop = M chip with its
+       label; expanded phone = disc L 44. Was 34 / 13-600 pill / a 6px BOX with a
+       flat-orange ON (the ugly yellow on a control). ON is violet everywhere. */
+    .dock.expanded .dock-acts .heart.dock-act{ height:var(--btn-m); padding:0 14px; gap:6px; border-radius:var(--radius-btn); border:1.5px solid var(--line-2); background:transparent; color:var(--fg); }
+    .dock.expanded .dock-acts .heart.dock-act span{ font:700 var(--fs-btn-m)/var(--lh-btn-m) var(--body); }
+    .dock.expanded .dock-acts .heart.dock-act.on{ background:var(--sel); border-color:var(--sel); color:var(--sel-ink); }
+    .dock.expanded .dock-acts .heart.dock-act.on svg{ fill:currentColor; stroke:currentColor; }
+    @media (max-width:620px){
+      .dock.expanded .dock-acts .heart.dock-act{ width:var(--btn-ib); height:var(--btn-ib); padding:0; }
+    }
+    .ds-filt{ background:transparent; border:1.5px solid var(--line-2); }
 </style>
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790528573322">
+<meta name="sc-build" content="1790540289356">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4797,7 +4883,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-29/">Tue 29 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-30/">Wed 30 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">32 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">83 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">111 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">20 events</span></a></li><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-29/">Tue 29 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-30/">Wed 30 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">32 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">83 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">111 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -9444,7 +9530,7 @@
         var arts=diaryValid(d);
         var vn = d.venue ? '<a class="dv-venue nav" href="'+esc(venueHref(d.venue))+'" data-venue="'+esc(d.venue)+'">'+esc(d.venue)+'</a>' : 'Gig';
         var city = d.city ? '<span class="pb-ds-city">'+esc(cityLabel(d.city))+'</span>' : '';
-        var ev = d.event_id ? '<a class="pb-ds-ev nav" href="'+esc(evHref(d.event_id,null,d.venue))+'" data-event-id="'+esc(String(d.event_id))+'">view event &rsaquo;</a>' : '';
+        var ev = d.event_id ? '<a class="pb-ds-ev nav" href="'+esc(evHref(d.event_id,null,d.venue))+'" data-event-id="'+esc(String(d.event_id))+'">View event &rsaquo;</a>' : '';
         var del = (isMe && d.id!=null) ? '<button class="dv-edit" type="button" data-edit="'+esc(String(d.id))+'" aria-label="Edit gig">✎</button><button class="dv-del" type="button" data-del="'+esc(String(d.id))+'" aria-label="Remove gig">&times;</button>' : '';
         var tiles = arts.length ? '<div class="ptiles ptiles-wide">'+arts.map(function(a){ return ptile(a.slug, (a.name||a.slug)+(a.rating?' ★'+a.rating:''), false, a.image); }).join('')+'</div>' : '';
         var note = d.note?'<div class="pb-ds-note">'+esc(d.note)+'</div>':'';
@@ -12227,7 +12313,7 @@
             var label=g.title||line||'Event';
             return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
               '<a class="gh-venue nav" href="'+esc(evHref(g.id))+'" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(line && line!==label ? ' <small>'+esc(line)+'</small>' : '')+'</a>'+
-              '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
+              '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">Log</button></li>';
           }).join('')+'</ul></div>';
           vpst.querySelectorAll('.gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
           vpst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });

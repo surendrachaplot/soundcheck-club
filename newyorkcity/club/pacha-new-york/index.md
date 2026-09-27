@@ -10,7 +10,7 @@ Pacha New York is a music venue in New York City listed on soundcheck. 7 upcomin
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | SOFI TUKKER | SOFI TUKKER |
 | Fri, 9 Oct 2026 | Jamie Jones | Jamie Jones, Rana Iravani, Yamagucci |
-| Sun, 11 Oct 2026 | Francis Mercier | Francis Mercier, Kimonos, Kolsch, Oktave |
+| Sun, 11 Oct 2026 | Francis Mercier | Francis Mercier, Kimonos, Kölsch, Oktave |
 | Fri, 16 Oct 2026 | Music On: Marco Carola, Franky Rizardo, Mason Collective | Franky Rizardo, Marco Carola, Mason Collective |
 | Sat, 17 Oct 2026 | Black Coffee | Black Coffee |
 | Sat, 17 Oct 2026 | Black Coffee | Black Coffee |

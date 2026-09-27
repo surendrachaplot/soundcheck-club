@@ -1,14 +1,15 @@
 # CYCLO BONETTE
 
-CYCLO BONETTE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at ErF Studios, New York City on Thu, 1 Oct 2026.
+CYCLO BONETTE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at ErF Studios, New York City on Thu, 1 Oct 2026.
 
-CYCLO BONETTE is a house and techno artist based in Lebanon, tracked on soundcheck, with 25 sets logged across New York City. Often billed alongside Maxwellbean, Astral_Dejection and ROARK. Next up: ErF Studios, New York City on Thu 1 Oct.
+CYCLO BONETTE is a house and techno artist based in Lebanon, tracked on soundcheck, with 26 sets logged across New York City. Often billed alongside Maxwellbean, Astral_Dejection and ROARK. Next up: ErF Studios, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | ErF Studios | New York City |
+| Sun, 25 Oct 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 

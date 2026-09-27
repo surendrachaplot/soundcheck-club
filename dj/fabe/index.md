@@ -1,14 +1,15 @@
 # Fabe
 
-Fabe is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 16 Oct 2026.
+Fabe is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 16 Oct 2026.
 
-Fabe is a house and tech house artist based in Germany, tracked on soundcheck, with 102 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Lauren Lo Sung, Rich NXT and Sidney Charles. Next up: Het Sieraad, Amsterdam on Fri 16 Oct.
+Fabe is a house and tech house artist based in Germany, tracked on soundcheck, with 103 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Lauren Lo Sung, Rich NXT and Sidney Charles. Next up: Het Sieraad, Amsterdam on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Het Sieraad | Amsterdam |
+| Sat, 28 Nov 2026 | Tanzhaus West | Frankfurt |
 
 ## Recently played
 

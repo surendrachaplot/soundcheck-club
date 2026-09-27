@@ -12,7 +12,7 @@ The Art School is a music venue in Glasgow listed on soundcheck. 10 upcoming gig
 | Fri, 2 Oct 2026 | RUSH - Cari Lekebusch 90's hybrid set | Bash Man, Cari Lekebusch |
 | Fri, 9 Oct 2026 | Original Sin \\\ Pray To Good | Bristol Luke, Divergence, Jurnalist, Original Sin |
 | Sat, 10 Oct 2026 | 9 Years of Taikano with DJ Assault // DJ Hell // AJAY C [4AM FINISH] | DJ Assault, DJ Hell |
-| Wed, 21 Oct 2026 | PILOT | ALWAYS 8:15, Loose E, Upper90 |
+| Wed, 21 Oct 2026 | PILOT PRESENTS: Upper90 | ALWAYS 8:15, Loose E, Upper90 |
 | Sat, 24 Oct 2026 | SQIFF 2026 Closing Night Party: Paparazzi |  |
 | Sat, 31 Oct 2026 | Polka Dot Disco Club x Relentless LOCAL: Halloween ᜊ(°-°)ᜊ | Frankie Elyse, Olympe4000 |
 | Sat, 7 Nov 2026 | Glasstattoo  | ACHIRĀ |

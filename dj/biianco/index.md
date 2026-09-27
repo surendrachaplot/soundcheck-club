@@ -1,13 +1,14 @@
 # BIIANCO
 
-BIIANCO is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Ankara on Sat, 3 Oct 2026.
+BIIANCO is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Schwuz, Berlin on Thu, 1 Oct 2026.
 
-BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 97 sets logged across Amsterdam, Ankara, Antwerp and Basel and 35 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: TBA, Ankara on Sat 3 Oct.
+BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 98 sets logged across Amsterdam, Ankara, Antwerp and Basel and 35 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Schwuz, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Schwuz | Berlin |
 | Sat, 3 Oct 2026 | TBA | Ankara |
 | Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
 | Fri, 9 Oct 2026 | Chinastraat | Ghent |

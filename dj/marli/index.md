@@ -1,14 +1,13 @@
 # Marli
 
-Marli is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Plantation, Paris on Sun, 27 Sept 2026.
+Marli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at ark (Melb), Melbourne on Sat, 5 Dec 2026.
 
-Marli is a house and techno artist based in Australia, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Madrid and Manchester and 2 more. Often billed alongside Ricky Nord, Emma Moon and Hannah D. Next up: Plantation, Paris on Sun 27 Sept.
+Marli is a house and techno artist based in Australia, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Madrid and Manchester and 2 more. Often billed alongside Ricky Nord, Emma Moon and Hannah D. Next up: ark (Melb), Melbourne on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Plantation | Paris |
 | Sat, 5 Dec 2026 | ark (Melb) | Melbourne |
 
 ## Recently played

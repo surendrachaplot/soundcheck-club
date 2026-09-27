@@ -1,14 +1,13 @@
 # Hotel Negresco Princess
 
-Hotel Negresco Princess is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "AFROHOUSE SUNSET ROOFTOP SESSION" on Sun, 27 Sept 2026.
+Hotel Negresco Princess is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "BACK TO THE HITS ROOFTOP PARTY" on Wed, 30 Sept 2026.
 
-Hotel Negresco Princess is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Helen Me Lia. Browse upcoming dates, start times and who's playing. C/ de Roger de Llúria, 16, 18, 08010 Barcelona.
+Hotel Negresco Princess is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Helen Me Lia. Browse upcoming dates, start times and who's playing. C/ de Roger de Llúria, 16, 18, 08010 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | AFROHOUSE SUNSET ROOFTOP SESSION | Helen Me Lia |
 | Wed, 30 Sept 2026 | BACK TO THE HITS ROOFTOP PARTY | Helen Me Lia |
 | Sat, 3 Oct 2026 | DISCO HOUSE ROOFTOP PARTY | Helen Me Lia |
 | Sun, 4 Oct 2026 | AFROHOUSE SUNSET ROOFTOP SESSION | Helen Me Lia |
@@ -18,6 +17,7 @@ Hotel Negresco Princess is a music venue in Barcelona listed on soundcheck. 11 u
 | Sun, 18 Oct 2026 | AFROHOUSE SUNSET ROOFTOP SESSION | Helen Me Lia |
 | Sat, 24 Oct 2026 | DISCO HOUSE ROOFTOP PARTY | Helen Me Lia |
 | Sun, 25 Oct 2026 | AFROHOUSE SUNSET ROOFTOP SESSION | Helen Me Lia |
+| Sat, 31 Oct 2026 | DISCO HOUSE ROOFTOP PARTY | Helen Me Lia |
 
 ## Address
 

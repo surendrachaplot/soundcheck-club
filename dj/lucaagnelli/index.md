@@ -1,14 +1,15 @@
 # Luca Agnelli
 
-Luca Agnelli is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Amsterdam Central Station , Amsterdam on Fri, 23 Oct 2026.
+Luca Agnelli is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Amsterdam Central Station , Amsterdam on Fri, 23 Oct 2026.
 
-Luca Agnelli is a techno and hardcore artist based in Italy, tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Gianni Di Bernardo, OMAKS and ANXHELA. Next up: TBA - Amsterdam Central Station , Amsterdam on Fri 23 Oct.
+Luca Agnelli is a techno and hardcore artist based in Italy, tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Gianni Di Bernardo, OMAKS and ANXHELA. Next up: TBA - Amsterdam Central Station , Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | TBA - Amsterdam Central Station  | Amsterdam |
+| Sat, 31 Oct 2026 | TBA - Autodromo di Imola | Central |
 
 ## Recently played
 

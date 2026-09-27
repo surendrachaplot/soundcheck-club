@@ -1,14 +1,13 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Nowadays, New York City on Sat, 26 Sept 2026.
+Andy Martin is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Andy Martin is a techno and house artist based in Mexico, tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Niño Arbol, Ogazón and Alarico. Next up: Nowadays, New York City on Sat 26 Sept.
+Andy Martin is a techno and house artist based in Mexico, tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Niño Arbol, Ogazón and Alarico. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Nowadays | New York City |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | FOLD | London |
 | Fri, 16 Oct 2026 | Cadavra | Madrid |

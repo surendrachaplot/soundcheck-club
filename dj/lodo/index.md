@@ -2,7 +2,7 @@
 
 LODO is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Cross, London on Fri, 30 Oct 2026.
 
-LODO is a house artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Paulo PG, AXLNDR and Brina Knauss. Next up: The Cross, London on Fri 30 Oct.
+LODO is a house artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Paulo PG, AXLNDR and Atsou. Next up: The Cross, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ LODO is a house artist tracked on soundcheck, with 4 sets logged across London. 
 
 ## Shares bills with
 
-Paulo PG, AXLNDR, Brina Knauss
+Paulo PG, AXLNDR, Atsou
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lodo/)*

@@ -33,7 +33,7 @@ Creamfields Chile 2026 at Club Hípico de Santiago on Sat 14 Nov, Santiago. 30 a
 - Hugel
 - Innellea
 - Jonas Blue
-- Kolsch
+- Kölsch
 - LP Giobbi
 - Morten
 - Nic Fanciulli

@@ -1,14 +1,15 @@
 # Gianni Di Bernardo
 
-Gianni Di Bernardo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Amsterdam Central Station , Amsterdam on Fri, 23 Oct 2026.
+Gianni Di Bernardo is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Amsterdam Central Station , Amsterdam on Fri, 23 Oct 2026.
 
-Gianni Di Bernardo is a techno and industrial artist based in Italy, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Cologne and 17 more. Often billed alongside Luca Agnelli, Mattia Trani and PISAPIA (IT). Next up: TBA - Amsterdam Central Station , Amsterdam on Fri 23 Oct.
+Gianni Di Bernardo is a techno and industrial artist based in Italy, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Barcelona and Central and 18 more. Often billed alongside Luca Agnelli, Mattia Trani and Paolo Ferrara. Next up: TBA - Amsterdam Central Station , Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | TBA - Amsterdam Central Station  | Amsterdam |
+| Sat, 31 Oct 2026 | TBA - Autodromo di Imola | Central |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Gianni Di Bernardo is a techno and industrial artist based in Italy, tracked on 
 
 ## Shares bills with
 
-Luca Agnelli, Mattia Trani, PISAPIA (IT)
+Luca Agnelli, Mattia Trani, Paolo Ferrara
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giannidibernardo/)*

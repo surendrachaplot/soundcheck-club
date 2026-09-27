@@ -8,7 +8,7 @@ LAUT is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | JUXTA Run x AURA: Where Fitness Meets Club Culture |  |
+| Tue, 29 Sept 2026 | JUXTA Run x AURA: Where Fitness Meets Club Culture | Rindeau |
 | Fri, 2 Oct 2026 | Delta Funktionen + Radial | Delta Funktionen, Radial |
 | Sat, 3 Oct 2026 | Samira + Spacer | Samira (NL), Spacer |
 | Fri, 9 Oct 2026 | Buit: Kinetic + oma totem | Kinetic (2), oma totem |

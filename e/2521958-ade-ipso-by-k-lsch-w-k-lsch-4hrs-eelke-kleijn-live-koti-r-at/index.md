@@ -1,6 +1,6 @@
 # ADE - IPSO by Kölsch W/ Kölsch (4hrs) - Eelke Kleijn Live - Kotiēr at Het Sieraad
 
-ADE - IPSO by Kölsch W/ Kölsch (4hrs) - Eelke Kleijn Live - Kotiēr at Het Sieraad on Fri 23 Oct, Amsterdam. 3 artists on the bill: Eelke Kleijn, Kolsch and Kotiēr. Progressive House. Preview the line-up and save it on soundcheck.
+ADE - IPSO by Kölsch W/ Kölsch (4hrs) - Eelke Kleijn Live - Kotiēr at Het Sieraad on Fri 23 Oct, Amsterdam. 3 artists on the bill: Eelke Kleijn, Kölsch and Kotiēr. Progressive House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ ADE - IPSO by Kölsch W/ Kölsch (4hrs) - Eelke Kleijn Live - Kotiēr at Het Sie
 ## Line-up
 
 - Eelke Kleijn
-- Kolsch
+- Kölsch
 - Kotiēr
 
 *Source: [soundcheck](https://soundcheck.club/e/2521958-ade-ipso-by-k-lsch-w-k-lsch-4hrs-eelke-kleijn-live-koti-r-at/)*

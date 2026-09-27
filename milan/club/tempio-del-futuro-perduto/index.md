@@ -2,7 +2,7 @@
 
 Tempio del Futuro Perduto is a music venue in Milan with 19 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Tempio Radio Notturna x Parallel41: Niceteed, Subradeon, Manuel Di Martino, Biaes" on Thu, 1 Oct 2026.
 
-Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 19 upcoming gigs, with line-ups including Manuel Di Martino, Alfa Cornae, BIAES and Blunderr and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
+Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 19 upcoming gigs, with line-ups including Manuel Di Martino, Alfa Cornae, Antikorpo and BIAES and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 19 upc
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Tempio Radio Notturna x Parallel41: Niceteed, Subradeon, Manuel Di Martino, Biaes | BIAES, Manuel Di Martino, Niceteed, Subradeon |
 | Fri, 2 Oct 2026 | Oriental Techno Club - 東極玄音寺: vvekapipo, SENAIDA, Morva | SENAIDA, Zenyee, vvekapipo |
-| Sat, 3 Oct 2026 | NOTTE TEKNO: Stiwie (MayDay Soundystem), Drum the System live | DRUM THE SYSTEM live |
+| Sat, 3 Oct 2026 | NOTTE TEKNO: STIWIE (MayDay Soundystem), Drum the System live, MTMA, Antikorpo | Antikorpo, DRUM THE SYSTEM live, MTMA (2) |
 | Thu, 8 Oct 2026 | Tempio Radio Notturna x Qloom: GLEDIS, Matteo Wnb, ZATAC | GLEDIS, ZATAC |
 | Fri, 9 Oct 2026 | Oriental Techno Club - 東極玄音寺: Icey Planet, Raeya Chen, DÅwN | DÅwN, Icey Planet, Raeya Chen |
 | Sat, 10 Oct 2026 | RESISTANCE: Danny Wabbit, Kora Lyssa, cccre, Marthial, Iacopo Carli | Danny Wabbit, Iacopo Carli, Kora Lyssa, Marthial, cccre |

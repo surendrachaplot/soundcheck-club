@@ -8,6 +8,6 @@ TBA - Parque de la Ciudad, CABA is a music venue in Buenos Aires listed on sound
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties | Ana Hagen, Anfisa Letyago, Charlotte de Witte, Djs Pareja, Enrico Sangiuliano, FISHER, Faithless, Hugel, Innellea, Kevin Di Serna, Kolsch, Loïc, Luis Nieva, Lulú Matheou, Mabel, Manu Oubiña, Mar Monzon, Martin Huergo, Miguel Silver, Momo Trosman, Nic Fanciulli, Pabels, SOSA (UK), Sven Vath, The Blessed Madonna, Âme |
+| Sat, 14 Nov 2026 | Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties | Ana Hagen, Anfisa Letyago, Charlotte de Witte, Djs Pareja, Enrico Sangiuliano, FISHER, Faithless, Hugel, Innellea, Kevin Di Serna, Kölsch, Loïc, Luis Nieva, Lulú Matheou, Mabel, Manu Oubiña, Mar Monzon, Martin Huergo, Miguel Silver, Momo Trosman, Nic Fanciulli, Pabels, SOSA (UK), Sven Vath, The Blessed Madonna, Âme |
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-parque-de-la-ciudad-caba/)*

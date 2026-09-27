@@ -1,14 +1,16 @@
 # Hakim.
 
-Hakim. is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Modeci, Seoul on Fri, 2 Oct 2026.
+Hakim. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Modeci, Seoul on Fri, 2 Oct 2026.
 
-Hakim. is a techno and electro artist tracked on soundcheck, with 29 sets logged across Bangkok, Hong Kong, New York City and Seoul and 1 more. Often billed alongside Kyuchan, .2ndfloor and Minkyu. Next up: Modeci, Seoul on Fri 2 Oct.
+Hakim. is a techno and house artist tracked on soundcheck, with 31 sets logged across Bangkok, Hong Kong, New York City and Seoul and 1 more. Often billed alongside Kyuchan, .2ndfloor and Minkyu. Next up: Modeci, Seoul on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Modeci | Seoul |
+| Sat, 3 Oct 2026 | Hertz | Seoul |
+| Fri, 30 Oct 2026 | Nyapi | Seoul |
 
 ## Recently played
 

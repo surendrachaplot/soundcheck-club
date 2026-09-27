@@ -1,14 +1,13 @@
 # Marie Montexier
 
-Marie Montexier is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Neue Welle, Leipzig on Sun, 27 Sept 2026.
+Marie Montexier is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 10 Oct 2026.
 
-Marie Montexier is a techno and house artist based in Germany, tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside DVS1, Ryan Elliott and Anetha. Next up: Neue Welle, Leipzig on Sun 27 Sept.
+Marie Montexier is a techno and house artist based in Germany, tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside DVS1, Ryan Elliott and Anetha. Next up: Q35 WAREHOUSE, Turin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Neue Welle | Leipzig |
 | Sat, 10 Oct 2026 | Q35 WAREHOUSE | Turin |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sun, 25 Oct 2026 | GASHOUDER | Amsterdam |

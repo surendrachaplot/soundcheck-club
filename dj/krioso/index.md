@@ -1,13 +1,14 @@
 # krioso
 
-krioso is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Yard, Manchester on Sat, 31 Oct 2026.
+krioso is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ramona, Manchester on Fri, 16 Oct 2026.
 
-krioso is a house and garage artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Manchester. Often billed alongside Jumbled, Nick Charles and Javan. Next up: The Yard, Manchester on Sat 31 Oct.
+krioso is a house and garage artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Manchester. Often billed alongside Jumbled, Nick Charles and Javan. Next up: Ramona, Manchester on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Ramona | Manchester |
 | Sat, 31 Oct 2026 | The Yard | Manchester |
 
 ## Recently played

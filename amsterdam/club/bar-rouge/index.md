@@ -9,7 +9,7 @@ Bar Rouge is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, w
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | PORTAL - ADE Melodic Techno Journey | EL PADRE, Nathassia, Terry Golden, VIGILANT |
-| Fri, 23 Oct 2026 | VIERVIERTEL x ADE presents: Addie Manson, ¥UB1K, ν¢тσя, Nothing But Love, QUIRIN | Addie Manson, Nothing But Love, Quirin (DE), Yubik |
+| Fri, 23 Oct 2026 | VIERVIERTEL x ADE presents: Addie Manson, ¥UB1K, ν¢тσя, Nothing But Love, QUIRIN | Addie Manson, Nothing But Love, Quirin (DE), Vctor, Yubik |
 
 ## Address
 

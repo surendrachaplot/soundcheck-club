@@ -8,7 +8,7 @@ Department 184 is a music venue in Milan listed on soundcheck. 3 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | IDOL - After The Last Track | GENE, Simon T, THE LUMENS |
+| Sun, 4 Oct 2026 | IDOL - After The Last Track | Simon T, THE LUMENS |
 | Fri, 9 Oct 2026 | OKTOBERFAST Festival |  |
 | Sun, 18 Oct 2026 | Technocrazia Season Opening - 12H All Day Long | ALXV, Alex Brasile, AllaDerivaLontano, DIVY, Daichi Wada, Fran LF, HIBA.KNTK, Kora Lyssa, Rorschack, Spad |
 

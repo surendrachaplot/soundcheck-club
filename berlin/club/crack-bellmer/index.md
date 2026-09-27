@@ -1,8 +1,8 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 30 Sept 2026.
+Crack Bellmer is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 30 Sept 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including Ahni, AZADÎ, Bconscious and Blck-Swan and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including Ahni, AZADÎ, Bconscious and Blck-Swan and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
@@ -13,11 +13,11 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 19 upcoming gigs,
 | Fri, 2 Oct 2026 | ★⟡ ݁ connection  ݁ ⟡★ | AZADÎ, Blck-Swan, H7 (3), Johannes Astrup, UniKhatu, pink-panther |
 | Fri, 2 Oct 2026 | HolyShift VI |  |
 | Sat, 3 Oct 2026 | STAY CORE | Ahni, Fukinsei, Marie Midori, Supergross |
+| Sun, 4 Oct 2026 | The Sinners Saloon |  |
 | Wed, 7 Oct 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
 | Fri, 9 Oct 2026 | STILL HERE - LIFTED ✧ Corpo de Baile ✧ TAG DER CLUBKULTUR 2026 | FatAles, Mamede, NeZoomie, kamishibai, riss |
 | Sat, 10 Oct 2026 | Paradis Artificiel (4TH ANNIVERSARY) ✦ TAG DER CLUBKULTUR 2026 | Bconscious, Gforty, Guido Iacovitti |
 | Sun, 11 Oct 2026 | Mutual Attraction | E Molina, Madalba, Magic of the Groove |
-| Wed, 14 Oct 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
 
 ## Address
 

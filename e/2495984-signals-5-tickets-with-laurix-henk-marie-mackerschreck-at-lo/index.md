@@ -1,6 +1,6 @@
 # SIGNALS - 5€ Tickets - with Laurix, Henk & Marie Mackerschreck at Lokschuppen Berlin
 
-SIGNALS - 5€ Tickets - with Laurix, Henk & Marie Mackerschreck at Lokschuppen Berlin on Wed 21 Oct, Berlin. 3 artists on the bill: Hen K, LAURIX (DE) and Marie Mackerschreck. Trance and Techno. Preview the line-up and save it on soundcheck.
+SIGNALS - 5€ Tickets - with Laurix, Henk & Marie Mackerschreck at Lokschuppen Berlin on Wed 21 Oct, Berlin. 3 artists on the bill: Henk, LAURIX (DE) and Marie Mackerschreck. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ SIGNALS - 5€ Tickets - with Laurix, Henk & Marie Mackerschreck at Lokschuppen 
 
 ## Line-up
 
-- Hen K
+- Henk
 - LAURIX (DE)
 - Marie Mackerschreck
 

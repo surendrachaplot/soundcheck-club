@@ -10,7 +10,7 @@ Bears Amsterdam is a music venue in Amsterdam listed on soundcheck. 3 upcoming g
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | DTLA x Saturo Sounds: Amsterdam Dance Event Showcase | AKIVA, D. Ramirez, DJ Ruby, Just Her, Placebo eFx |
 | Fri, 23 Oct 2026 | Flight Mode | Sebastiaan Hooft |
-| Fri, 23 Oct 2026 | Flight Mode @ADE | Eddy Tango, JP Lantieri, Light Gal, Midnight Society, Mono and Kusten, Sagia, Sebastiaan Hooft |
+| Fri, 23 Oct 2026 | FLIGHT MODE @ADE | Eddy Tango, JP Lantieri, Light Gal, Midnight Society, Mono and Kusten, Sagia, Sebastiaan Hooft |
 
 ## Address
 

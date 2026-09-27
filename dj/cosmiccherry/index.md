@@ -1,14 +1,13 @@
 # Cosmic Cherry
 
-Cosmic Cherry is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ipse, Berlin on Sun, 27 Sept 2026.
+Cosmic Cherry is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Tokonoma Club, Frankfurt on Fri, 16 Oct 2026.
 
-Cosmic Cherry is a house and techno artist based in Germany, tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 1 more. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: Ipse, Berlin on Sun 27 Sept.
+Cosmic Cherry is a house and techno artist based in Germany, tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 1 more. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: Tokonoma Club, Frankfurt on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Ipse | Berlin |
 | Fri, 16 Oct 2026 | Tokonoma Club | Frankfurt |
 
 ## Recently played

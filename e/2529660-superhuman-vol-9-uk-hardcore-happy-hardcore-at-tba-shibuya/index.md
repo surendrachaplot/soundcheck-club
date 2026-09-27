@@ -1,6 +1,6 @@
 # Superhuman #超人硬核 vol.9 / UK Hardcore / Happy Hardcore at TBA - Shibuya
 
-Superhuman #超人硬核 vol.9 / UK Hardcore / Happy Hardcore at TBA - Shibuya on Sat 19 Dec, Tokyo. 3 artists on the bill: Lance (JP), riichi / we_like_180bpm and Vital Force. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Superhuman #超人硬核 vol.9 / UK Hardcore / Happy Hardcore at TBA - Shibuya on Sat 19 Dec, Tokyo. 5 artists on the bill: DJ Shimamura, Lance (JP), M-Project and riichi / we_like_180bpm and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Superhuman #超人硬核 vol.9 / UK Hardcore / Happy Hardcore at TBA - Shibuya o
 
 ## Line-up
 
+- DJ Shimamura
 - Lance (JP)
+- M-Project
 - riichi / we_like_180bpm
 - Vital Force
 

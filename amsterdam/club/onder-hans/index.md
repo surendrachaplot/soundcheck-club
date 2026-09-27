@@ -1,8 +1,8 @@
 # Onder Hans
 
-Onder Hans is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Opening Onderhans x Bubble House" on Thu, 1 Oct 2026.
+Onder Hans is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Opening Onderhans x Bubble House" on Thu, 1 Oct 2026.
 
-Onder Hans is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including 16BL, Alessio Cristiano, Alicia Hahn and Almost Human (DJ) and 2 more. Browse upcoming dates, start times and who's playing. Kerkstraat 136-138, 1017 GR Amsterdam.
+Onder Hans is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including 16BL, Alessio Cristiano, Alicia Hahn and Almost Human (DJ) and 2 more. Browse upcoming dates, start times and who's playing. Kerkstraat 136-138, 1017 GR Amsterdam.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Onder Hans is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, 
 | Fri, 23 Oct 2026 | Perspectives x Melodic Room x VVISSIONN ADE Showcase | Almost Human (DJ), Althoff, Cris-H, Darin Epsilon, EdOne, Emanate, Gadouh, Gulec, John Cala, Jono Stephenson, Joshlane, KARINSMATIC, Min the Universe, Miss Melera, Moodayz, OIBAF, Olivier Weiter, Rivellino, SHAZZE, Sezer Uysal, Syntonos, Tumzz, Varoc |
 | Sat, 24 Oct 2026 | EVOQUE x ADE | 16BL, Cris-H, Demattei, Dilby, Elliot Moriarty, Frankey & Sandrino, GINO GENTILI, Henry Saiz, Iovino, KELO AR, Kiko, Nick Muir, Paul Sparkes |
 | Mon, 26 Oct 2026 | Cheeky Monday: Onderhans | Gibbo, Insom |
+| Fri, 27 Nov 2026 | Disco Exota | Aroy Dee, Funknoir, G-String |
 
 ## Address
 

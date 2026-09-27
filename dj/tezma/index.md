@@ -1,8 +1,8 @@
 # TEZMA
 
-TEZMA is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at DNA. CLUB, Berlin on Sat, 31 Oct 2026.
+TEZMA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at DNA. CLUB, Berlin on Sat, 31 Oct 2026.
 
-TEZMA is a techno artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Turntabletimmie, DTEXX and Filialleiter. Next up: DNA. CLUB, Berlin on Sat 31 Oct.
+TEZMA is a techno and trance artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Filialleiter, Turntabletimmie and DTEXX. Next up: DNA. CLUB, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ TEZMA is a techno artist tracked on soundcheck, with 9 sets logged across Berlin
 
 ## Shares bills with
 
-Turntabletimmie, DTEXX, Filialleiter
+Filialleiter, Turntabletimmie, DTEXX
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tezma/)*

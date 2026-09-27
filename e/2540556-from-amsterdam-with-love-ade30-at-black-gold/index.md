@@ -1,6 +1,6 @@
 # From Amsterdam with Love  ADE30 at Black Gold
 
-From Amsterdam with Love  ADE30 at Black Gold on Wed 21 Oct, Amsterdam. 4 artists on the bill: Han Litz, Jumelage, MoMeWi and OriaBela. Afrobeat and Broken Beat. Preview the line-up and save it on soundcheck.
+From Amsterdam with Love  ADE30 at Black Gold on Wed 21 Oct, Amsterdam. 5 artists on the bill: Han Litz, Jumelage, Luke Spontan and MoMeWi and 1 more. Afrobeat and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ From Amsterdam with Love  ADE30 at Black Gold on Wed 21 Oct, Amsterdam. 4 artist
 
 - Han Litz
 - Jumelage
+- Luke Spontan
 - MoMeWi
 - OriaBela
 

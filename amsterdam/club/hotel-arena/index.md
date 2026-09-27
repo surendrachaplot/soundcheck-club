@@ -9,7 +9,7 @@ Hotel Arena is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | UNRELEASED pres. The Church - ADE Edition | ARODES |
-| Thu, 22 Oct 2026 | All Night Long Records ADE Label Night | Acid Arab, Mandragora, NTO |
+| Thu, 22 Oct 2026 | All Night Long Records ADE Label Night - FINAL 50 TICKETS | Acid Arab, Mandragora, NTO |
 
 ## Address
 

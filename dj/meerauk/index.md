@@ -1,8 +1,8 @@
 # MEERA (UK)
 
-MEERA (UK) is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+MEERA (UK) is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
-MEERA (UK) is an afro house and house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, London and Munster. Often billed alongside Picep, Simon Alfred and Bradley Skeng. Next up: DRUMSHEDS, London on Sat 10 Oct.
+MEERA (UK) is an afro house and house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, London, Manchester and Munster. Often billed alongside Picep, Simon Alfred and Bradley Skeng. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MEERA (UK) is an afro house and house artist based in United Kingdom, tracked on
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
 | Fri, 23 Oct 2026 | Madam | Amsterdam |
+| Sat, 31 Oct 2026 | Secret Warehouse | Manchester |
 
 ## Recently played
 

@@ -16,7 +16,7 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs
 | Thu, 22 Oct 2026 | Adam Ten b2b Mita Gami - Yamagucci - Tom Zeta | Adam Ten, Kim April, Laura De Greef, Mita Gami, Tom Zeta, Yamagucci (2) |
 | Thu, 22 Oct 2026 | Miss Monique presents Siona ADE | Adapter, Genesi (IT), Kiko, Mia Mendi, Miss Monique, Olivier Giacomotto, SKIY, TH;EN |
 | Fri, 23 Oct 2026 | ADE - HRMNY W/ Rose Ringed & More | Huminal, Julia Linkogel, Nils Hoffmann, OSED, Rex the Dog, Rose Ringed |
-| Fri, 23 Oct 2026 | ADE - IPSO by Kölsch W/ Kölsch (4hrs) - Eelke Kleijn Live - Kotiēr | Eelke Kleijn, Kolsch, Kotiēr |
+| Fri, 23 Oct 2026 | ADE - IPSO by Kölsch W/ Kölsch (4hrs) - Eelke Kleijn Live - Kotiēr | Eelke Kleijn, Kotiēr, Kölsch |
 | Sat, 24 Oct 2026 | Sasha b2b Patrice Baumel - 6hrs ADE | Patrice Bäumel, Sasha |
 
 ## Address

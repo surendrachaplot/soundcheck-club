@@ -1,14 +1,13 @@
 # Mehr is Mehr
 
-Mehr is Mehr is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
+Mehr is Mehr is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at PKH Warehouse, Berlin on Thu, 15 Oct 2026.
 
-Mehr is Mehr is a techno and house artist based in Germany, tracked on soundcheck, with 69 sets logged across Berlin, Hamburg, Leipzig and Munich and 4 more. Often billed alongside Maurice Mino, Sin:port and Kaufmann. Next up: Jonny Knüppel, Berlin on Fri 25 Sept.
+Mehr is Mehr is a techno and house artist based in Germany, tracked on soundcheck, with 69 sets logged across Berlin, Hamburg, Leipzig and Munich and 4 more. Often billed alongside Maurice Mino, Sin:port and Kaufmann. Next up: PKH Warehouse, Berlin on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Jonny Knüppel | Berlin |
 | Thu, 15 Oct 2026 | PKH Warehouse | Berlin |
 | Sat, 24 Oct 2026 | ://about blank | Berlin |
 | Fri, 30 Oct 2026 | Ritter Butzke | Berlin |

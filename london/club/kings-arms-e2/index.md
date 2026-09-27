@@ -1,14 +1,13 @@
 # Kings Arms E2
 
-Kings Arms E2 is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Kings Turntable: Mick The Groove, Cal & Rollo Markee [27.09.2026]" on Sun, 27 Sept 2026.
+Kings Arms E2 is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Kings Turntable: Foshay [03.10.26]" on Sat, 3 Oct 2026.
 
-Kings Arms E2 is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including DJ Migz and Foshay. Browse upcoming dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
+Kings Arms E2 is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including DJ Migz and Foshay. Browse upcoming dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Kings Turntable: Mick The Groove, Cal & Rollo Markee [27.09.2026] |  |
 | Sat, 3 Oct 2026 | Kings Turntable: Foshay [03.10.26] | Foshay |
 | Sun, 4 Oct 2026 | Vinyl Open Decks with George Kerr [04.10.26] |  |
 | Sat, 10 Oct 2026 | Kings Turntable [10.10.26] |  |
@@ -18,6 +17,7 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 11 upcoming gigs,
 | Sat, 24 Oct 2026 | Kings Turntable [30.08.2026] |  |
 | Sun, 25 Oct 2026 | Kings Turntable [25.10.26] |  |
 | Sat, 31 Oct 2026 | Kings Turntable: Papa Kerr [31.10.26] |  |
+| Sun, 1 Nov 2026 | Vinyl Open Decks with George Kerr [01.11.26] |  |
 
 ## Address
 

@@ -1,13 +1,14 @@
 # D.O.D.
 
-D.O.D. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at NX Newcastle, Newcastle on Fri, 4 Dec 2026.
+D.O.D. is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Luz De Gas, Barcelona on Wed, 30 Sept 2026.
 
-D.O.D. is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Belfast, Boston, Brighton and Bristol and 23 more. Often billed alongside Danny Howard, Sonny Fodera and hitty. Next up: NX Newcastle, Newcastle on Fri 4 Dec.
+D.O.D. is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Barcelona, Belfast, Boston and Brighton and 24 more. Often billed alongside Danny Howard, Sonny Fodera and hitty. Next up: Luz De Gas, Barcelona on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Luz De Gas | Barcelona |
 | Fri, 4 Dec 2026 | NX Newcastle | Newcastle |
 
 ## Recently played

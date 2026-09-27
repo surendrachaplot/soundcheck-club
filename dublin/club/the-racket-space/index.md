@@ -1,14 +1,13 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Mystify Vinyl Learn and Perform Season 2 (Day 2/4)" on Sun, 27 Sept 2026.
+The Racket Space is a music venue in Dublin with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Racket Space presents: IsGwan" on Sat, 3 Oct 2026.
 
-The Racket Space is a music venue in Dublin listed on soundcheck. 13 upcoming gigs, with line-ups including Cailín, camoufly, Dorian Concept and Garrett David and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
+The Racket Space is a music venue in Dublin listed on soundcheck. 12 upcoming gigs, with line-ups including Cailín, camoufly, Dorian Concept and Garrett David and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Mystify Vinyl Learn and Perform Season 2 (Day 2/4) | Tadhg K, Tr One |
 | Sat, 3 Oct 2026 | Racket Space presents: IsGwan | IsGwan |
 | Sun, 4 Oct 2026 | Mystify Vinyl Learn and Perform Season 2 (Day 3/4) | Tadhg K, Tr One |
 | Fri, 9 Oct 2026 | Cailín x Sarah Lennox x SEMAE | Cailín, Sarah Lennox, Sémaé |
@@ -18,6 +17,7 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 13 upcoming gi
 | Sat, 17 Oct 2026 | LOST x The Racket Space present: WOLTERS | LPM (1), WOLTERS |
 | Fri, 30 Oct 2026 | House Arrest presents: Garrett David | Garrett David |
 | Sat, 31 Oct 2026 | MAZE X & AURA909 - HALLOWEEN NIGHT |  |
+| Fri, 13 Nov 2026 | Photek | Photek, SHO |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "renae x Saturama presents room to: bathe" on Sun, 27 Sept 2026.
+renae is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "renae: Dischi & Friends" on Sun, 27 Sept 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Chunky and Coel Haines and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Chunky and Coel Haines and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | renae x Saturama presents room to: bathe | Werkha |
 | Sun, 27 Sept 2026 | renae: Dischi & Friends |  |
 | Thu, 1 Oct 2026 | Persona - Gabriel Rai b2b Ethan. (7hrs ANL) | Ethan., Gabriel Rai |
 | Thu, 8 Oct 2026 | renae x Eat Well Fundraiser ft. Chunky, Il Bosco, Lil' Minx, Metrodome, Sarah Sweeney & Synna G | Chunky, Il Bosco, Lil' Minx, Metrodome, Sarah Sweeney |

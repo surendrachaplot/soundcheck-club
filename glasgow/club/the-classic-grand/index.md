@@ -15,7 +15,7 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 15 upcoming 
 | Fri, 9 Oct 2026 | NSN presents: THE CIRCUIT 003 with MAHTAL, SWANNY and more |  |
 | Sat, 10 Oct 2026 | Bonkers 30 Years - Glasgow - Classics Edition | Charlie B, Dougal, Scott Brown, Sharkey (1) |
 | Fri, 23 Oct 2026 | Obscura presents: High Voltage ALL NIGHT LONG + Special b2bs |  |
-| Sat, 31 Oct 2026 | Disfunction: Halloween Horrors |  |
+| Sat, 31 Oct 2026 | Disfunction: Halloween Horrors | OGUZ, Russian Village Boys |
 | Fri, 6 Nov 2026 | PHG Presents: Dyen | DYEN |
 | Fri, 6 Nov 2026 | PHG presents: DYEN | DYEN |
 

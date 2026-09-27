@@ -21,7 +21,7 @@ Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties at TBA - Par
 - Hugel
 - Innellea
 - Kevin Di Serna
-- Kolsch
+- Kölsch
 - Loïc
 - Luis Nieva
 - Lulú Matheou

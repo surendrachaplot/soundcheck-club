@@ -1,8 +1,8 @@
 # Sam Girling
 
-Sam Girling is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Model, Nottingham on Fri, 2 Oct 2026.
+Sam Girling is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Model, Nottingham on Fri, 2 Oct 2026.
 
-Sam Girling is a house and garage artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside LAMMER, Y U QT and Body Clinic. Next up: The Model, Nottingham on Fri 2 Oct.
+Sam Girling is a house and garage artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside LAMMER, Y U QT and Body Clinic. Next up: The Model, Nottingham on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sam Girling is a house and garage artist based in United Kingdom, tracked on sou
 | Fri, 2 Oct 2026 | The Model | Nottingham |
 | Sat, 3 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 30 Oct 2026 | UNLOCKED | London |
+| Sat, 31 Oct 2026 | Secret Warehouse | Manchester |
 | Mon, 30 Nov 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played

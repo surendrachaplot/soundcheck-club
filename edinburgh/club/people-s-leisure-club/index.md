@@ -15,7 +15,7 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 20 upc
 | Fri, 2 Oct 2026 | neurosignal: damside, noodle + Telfort | Telfort, damside, noodle |
 | Sat, 3 Oct 2026 | Maniatrix: 'Body Build Rate' Album Launch Party | Maniatrix |
 | Sat, 3 Oct 2026 | TEESH - Eyes Of Others (Live), DJ Cheers, Chrissy G | Chrissy G (2), DJ Cheers, Eyes of Others |
-| Sat, 10 Oct 2026 | Neptune Discs: A Portal to the Unknown — Wigs b2b Body Clinic (DAYTIME) | Astro, Body Clinic, Plastic GRN, Wigs |
+| Sat, 10 Oct 2026 | Neptune Discs: A Portal to the Unknown — Wigs b2b Body Clinic (day party) | Astro, Body Clinic, Plastic GRN, Wigs |
 | Sat, 10 Oct 2026 | Fangs Disco Club: Ravelston EP Launch | Jacuzzi General, Nikki Kent, Ravelston |
 | Fri, 16 Oct 2026 | UNDERGROUND SOUND PRESENTS: Alec Falconer | Alec Falconer, Cardinal Sin, PHJ.WAV |
 

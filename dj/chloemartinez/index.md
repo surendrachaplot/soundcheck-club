@@ -1,14 +1,15 @@
 # Chloe Martinez
 
-Chloe Martinez is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Het Sieraad, Amsterdam on Sat, 24 Oct 2026.
+Chloe Martinez is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Het Sieraad, Amsterdam on Sat, 24 Oct 2026.
 
-Chloe Martinez is a techno and tech house artist based in France, tracked on soundcheck, with 24 sets logged across Amsterdam and Geneva. Often billed alongside DJ Reas, La Forêt and ANouch. Next up: Het Sieraad, Amsterdam on Sat 24 Oct.
+Chloe Martinez is a techno and tech house artist based in France, tracked on soundcheck, with 25 sets logged across Amsterdam and Geneva. Often billed alongside La Forêt, DJ Reas and ANouch. Next up: Het Sieraad, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Het Sieraad | Amsterdam |
+| Sat, 31 Oct 2026 | Audio Club | Geneva |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Chloe Martinez is a techno and tech house artist based in France, tracked on sou
 
 ## Shares bills with
 
-DJ Reas, La Forêt, ANouch
+La Forêt, DJ Reas, ANouch
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chloemartinez/)*

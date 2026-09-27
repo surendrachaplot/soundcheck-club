@@ -1,8 +1,8 @@
 # Scotia
 
-Scotia is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, New York City on Fri, 9 Oct 2026.
+Scotia is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, New York City on Fri, 9 Oct 2026.
 
-Scotia is a techno and acid artist based in United States of America, tracked on soundcheck, with 45 sets logged across Chicago, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Ron Like Hell, Lauren Flax and SVB. Next up: TBA, New York City on Fri 9 Oct.
+Scotia is a techno and acid artist based in United States of America, tracked on soundcheck, with 46 sets logged across Chicago, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Ron Like Hell, Lauren Flax and SVB. Next up: TBA, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Scotia is a techno and acid artist based in United States of America, tracked on
 | Fri, 9 Oct 2026 | TBA | New York City |
 | Sun, 11 Oct 2026 | telos.haus | New York City |
 | Sat, 24 Oct 2026 | TBA | Washington DC |
+| Sun, 25 Oct 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 

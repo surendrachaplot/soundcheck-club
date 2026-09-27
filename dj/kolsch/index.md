@@ -1,8 +1,8 @@
-# Kolsch
+# Kölsch
 
-Kolsch is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Pacha New York, New York City on Sun, 11 Oct 2026.
+Kölsch is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Pacha New York, New York City on Sun, 11 Oct 2026.
 
-Kolsch is a techno and house artist based in Denmark, tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 39 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Pacha New York, New York City on Sun 11 Oct.
+Kölsch is a techno and house artist based in Denmark, tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 41 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Pacha New York, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -11,8 +11,11 @@ Kolsch is a techno and house artist based in Denmark, tracked on soundcheck, wit
 | Sun, 11 Oct 2026 | Pacha New York | New York City |
 | Sat, 17 Oct 2026 | Warehouse | Nantes |
 | Fri, 23 Oct 2026 | Het Sieraad | Amsterdam |
+| Fri, 30 Oct 2026 | HCC Kuppelsaal | Hannover |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
+| Fri, 20 Nov 2026 | Robert Johnson | Hesse |
+| Fri, 1 Jan 2027 | 7 Palmer Parade, Cremorne 3121 | Melbourne |
 
 ## Recently played
 

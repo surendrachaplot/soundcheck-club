@@ -1,13 +1,14 @@
 # Eric Duncan
 
-Eric Duncan is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at VENT, Tokyo on Fri, 23 Oct 2026.
+Eric Duncan is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Nyapi, Seoul on Sun, 4 Oct 2026.
 
-Eric Duncan is a house and disco artist based in United States of America, tracked on soundcheck, with 52 sets logged across Athens, Bangkok, Belgrade and Berlin and 16 more. Often billed alongside FFAN, Monkey Timers and YOSHIHAARAA. Next up: VENT, Tokyo on Fri 23 Oct.
+Eric Duncan is a house and disco artist based in United States of America, tracked on soundcheck, with 53 sets logged across Athens, Bangkok, Belgrade and Berlin and 16 more. Often billed alongside FFAN, Monkey Timers and YOSHIHAARAA. Next up: Nyapi, Seoul on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | Nyapi | Seoul |
 | Fri, 23 Oct 2026 | VENT | Tokyo |
 | Fri, 30 Oct 2026 | BAR Inc | Osaka |
 

@@ -2,7 +2,7 @@
 
 Jasonmagkatzen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lokschuppen Berlin, Berlin on Sun, 4 Oct 2026.
 
-Jasonmagkatzen is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside futurristic, Skye Simpson and djst4rlight. Next up: Lokschuppen Berlin, Berlin on Sun 4 Oct.
+Jasonmagkatzen is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside futurristic, MIMI404 and Skye Simpson. Next up: Lokschuppen Berlin, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Jasonmagkatzen is a techno and trance artist based in Germany, tracked on soundc
 
 ## Shares bills with
 
-futurristic, Skye Simpson, djst4rlight
+futurristic, MIMI404, Skye Simpson
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonmagkatzen/)*

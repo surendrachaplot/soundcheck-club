@@ -11,7 +11,7 @@ Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 9 upcomin
 | Sat, 3 Oct 2026 | PEEL Community Gathering | Encomio, Kaikaina, Terrakin, Uksimo |
 | Sat, 10 Oct 2026 | For The Rhythm presents: Fort Riddim Vol. 1 | BOOGIE96, Gibbo, Manscream |
 | Thu, 22 Oct 2026 | EELF x ADE: Target Demographic, Shaolin Cowboy, GEE LEE, Pijus, upper class and Ysheso_ | GEE LEE, Pijus, Shaolin Cowboy, Target Demographic, upper class, ysheso__ |
-| Fri, 23 Oct 2026 | ADE of LOVE: Love Foundation X CoSy Festival - Iorie (workshop + live), Soso Klein & many more | Iorie, Oli Neate, Robert Romain, Soso Klein |
+| Fri, 23 Oct 2026 | ADE of LOVE: Love Foundation X CoSy Festival - Iorie (workshop + live), Soso Klein & many more | Iorie, Oli Neate, Robert Romain, SOWL.XYZ, Soso Klein |
 | Sat, 24 Oct 2026 | Techno Therapy x Herbivox: ADE Saturday |  |
 | Sat, 24 Oct 2026 | Waterhouse x Garden Of Dreams invites Lehar | After Affair, Lehar, ME.N.U., Some Chemistry |
 | Sun, 25 Oct 2026 | Official ADE After Party | Alex Pi, DJ Pierre, Joe Smooth |

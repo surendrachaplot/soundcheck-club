@@ -1,8 +1,8 @@
 # Chunky
 
-Chunky is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Golden Lion, Manchester on Sat, 3 Oct 2026.
+Chunky is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Golden Lion, Manchester on Sat, 3 Oct 2026.
 
-Chunky is a garage and house artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Brisbane and 10 more. Often billed alongside Rich Reason, LARISHKA (UK) and Tom Boogizm. Next up: The Golden Lion, Manchester on Sat 3 Oct.
+Chunky is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Barcelona and Brisbane and 10 more. Often billed alongside Rich Reason, LARISHKA (UK) and Tom Boogizm. Next up: The Golden Lion, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Chunky is a garage and house artist based in United Kingdom, tracked on soundche
 | Thu, 8 Oct 2026 | renae | Manchester |
 | Fri, 23 Oct 2026 | Şahika | Istanbul |
 | Sat, 24 Oct 2026 | Club Up | Amsterdam |
+| Sat, 31 Oct 2026 | Secret Warehouse | Manchester |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Handmade
 
-Handmade is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
+Handmade is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Tresor / Globus, Berlin on Sat, 17 Oct 2026.
 
-Handmade is a techno and house artist based in Germany, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 15 more. Often billed alongside VCO, Madalba and Kingsizebed. Next up: Jonny Knüppel, Berlin on Fri 25 Sept.
+Handmade is a techno and house artist based in Germany, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 15 more. Often billed alongside VCO, Madalba and Kingsizebed. Next up: Tresor / Globus, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Jonny Knüppel | Berlin |
 | Sat, 17 Oct 2026 | Tresor / Globus | Berlin |
 
 ## Recently played

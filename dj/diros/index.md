@@ -1,14 +1,15 @@
 # DIROS
 
-DIROS is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Cocoa Mataró, Barcelona on Sat, 3 Oct 2026.
+DIROS is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Cocoa Mataró, Barcelona on Sat, 3 Oct 2026.
 
-DIROS is a tech house and house artist based in Spain, tracked on soundcheck, with 64 sets logged across Amsterdam and Barcelona. Often billed alongside Jon Peña, Rubenus and Pau Guilera. Next up: Cocoa Mataró, Barcelona on Sat 3 Oct.
+DIROS is a tech house and house artist based in Spain, tracked on soundcheck, with 65 sets logged across Amsterdam and Barcelona. Often billed alongside Jon Peña, Rubenus and Pau Guilera. Next up: Cocoa Mataró, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Cocoa Mataró | Barcelona |
+| Fri, 30 Oct 2026 | NIX Barcelon | Barcelona |
 
 ## Recently played
 

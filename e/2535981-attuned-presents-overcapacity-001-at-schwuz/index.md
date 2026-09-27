@@ -1,6 +1,6 @@
 # Attuned presents OVERCAPACITY 001 at Schwuz
 
-Attuned presents OVERCAPACITY 001 at Schwuz on Thu 1 Oct, Berlin. 3 artists on the bill: Answer Code Request, BEC and KTK (DE). Techno and Ambient. Preview the line-up and save it on soundcheck.
+Attuned presents OVERCAPACITY 001 at Schwuz on Thu 1 Oct, Berlin. 4 artists on the bill: Answer Code Request, BEC, BIIANCO and KTK (DE). Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Attuned presents OVERCAPACITY 001 at Schwuz on Thu 1 Oct, Berlin. 3 artists on t
 
 - Answer Code Request
 - BEC
+- BIIANCO
 - KTK (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2535981-attuned-presents-overcapacity-001-at-schwuz/)*

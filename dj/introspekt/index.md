@@ -1,14 +1,13 @@
 # Introspekt
 
-Introspekt is a Garage and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Nowadays, New York City on Sat, 26 Sept 2026.
+Introspekt is a Garage and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Palais, London on Fri, 2 Oct 2026.
 
-Introspekt is a garage and techno artist based in United States of America, tracked on soundcheck, with 188 sets logged across Amsterdam, Austin, Barcelona and Belfast and 43 more. Often billed alongside Octo Octa, CCL and Angel D'lite. Next up: Nowadays, New York City on Sat 26 Sept.
+Introspekt is a garage and techno artist based in United States of America, tracked on soundcheck, with 188 sets logged across Amsterdam, Austin, Barcelona and Belfast and 43 more. Often billed alongside Octo Octa, CCL and Angel D'lite. Next up: Palais, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Nowadays | New York City |
 | Fri, 2 Oct 2026 | Palais | London |
 | Sun, 4 Oct 2026 | Sonnenraum | Berlin |
 | Thu, 22 Oct 2026 | San Francisco | Amsterdam |

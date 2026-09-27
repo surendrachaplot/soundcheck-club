@@ -1,14 +1,15 @@
 # Alex Friday
 
-Alex Friday is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Alex Friday is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-Alex Friday is a techno and trance artist based in Germany, tracked on soundcheck, with 122 sets logged across Basel, Berlin, Copenhagen and Frankfurt and 2 more. Often billed alongside ROJI, 3LEEZA and Trancestrudel. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+Alex Friday is a techno and trance artist based in Germany, tracked on soundcheck, with 123 sets logged across Basel, Berlin, Copenhagen and Frankfurt and 2 more. Often billed alongside ROJI, 3LEEZA and Trancestrudel. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
+| Sat, 31 Oct 2026 | DNA. CLUB | Berlin |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played

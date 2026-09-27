@@ -10,7 +10,7 @@ Fünk is a music venue in Mexico City listed on soundcheck. 12 upcoming gigs, wi
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | RETI X Fünk | Adrian Bluper, Flor Capistran |
 | Fri, 2 Oct 2026 | Gojnea76 + Louie Fresco + Mejia | Gojnea76, Louie Fresco, Mejia |
-| Sat, 3 Oct 2026 | West Side Project x Fünk | Mina, Nosssia |
+| Sat, 3 Oct 2026 | West Side Project x Fünk | MINÄ, Nosssia |
 | Thu, 8 Oct 2026 | Bon Vivant 10 Years | Mejia, Sakro |
 | Thu, 8 Oct 2026 | Silueta x Fünk |  |
 | Fri, 9 Oct 2026 | Disco Bacocho: María Nocheydía + Lorena + Solarx | LORENA (MX), Maria Nocheydía |

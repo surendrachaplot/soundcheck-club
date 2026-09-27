@@ -9,9 +9,9 @@ AMT is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | DYSTOPIAN HAPPINESS // LISTEN AND REPEAT 4.0 | Dorsch, End Train, KALEA |
-| Fri, 16 Oct 2026 | CLASH | DJ LEVEL, Darren Black, NikolaswithK, Younox, jardabpm |
+| Fri, 16 Oct 2026 | CLASH | DJ LEVEL, Darren Black, Younox, jardabpm |
 | Fri, 16 Oct 2026 | CLASH |  |
-| Fri, 23 Oct 2026 | DOLLHAUS X SLIME | MEGUROLOVE, Meda-Ava, SIMOFF, TAUREAN (2) |
+| Fri, 23 Oct 2026 | DOLLHAUS X SLIME | Elvin, MEGUROLOVE, Meda-Ava, SIMOFF, TAUREAN (2) |
 | Sat, 24 Oct 2026 | Brace Brace im Bunker (2 Floors) | DJesse, Isoskeles, Johænsson, Multifun, OXOPOHA, _minted, gem.ini |
 | Sat, 31 Oct 2026 | PUDDINGS pres. SCREAM QUEEN's |  |
 | Fri, 6 Nov 2026 | AИDERS x Human Colours @ AMT CLUB with Saytek - Live - , Somaphon , Kalimanda  | Kalimanda, Milk N Coffee, Rene Oldenburg, Saytek, Somaphon |

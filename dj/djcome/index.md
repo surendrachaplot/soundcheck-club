@@ -1,8 +1,8 @@
 # dj come
 
-dj come is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fisher Gate Point, Nottingham on Sat, 10 Oct 2026.
+dj come is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fisher Gate Point, Nottingham on Sat, 10 Oct 2026.
 
-dj come is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Nottingham. Often billed alongside rPal, Mush Love (UK) and Evil Woman. Next up: Fisher Gate Point, Nottingham on Sat 10 Oct.
+dj come is a house and techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Nottingham. Often billed alongside rPal, Mush Love (UK) and Evil Woman. Next up: Fisher Gate Point, Nottingham on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ dj come is a house and tech house artist based in United Kingdom, tracked on sou
 | Sat, 10 Oct 2026 | Fisher Gate Point | Nottingham |
 | Fri, 30 Oct 2026 | The Model | Nottingham |
 | Sat, 31 Oct 2026 | The Model | Nottingham |
+| Sat, 28 Nov 2026 | The Model | Nottingham |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Open Decks & Tischtennis" on Tue, 29 Sept 2026.
+Humboldthain Club is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Open Decks & Tischtennis" on Tue, 29 Sept 2026.
 
-Humboldthain Club is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including YOVA, Anne-Sophie Selig, Atze G and Callado and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
+Humboldthain Club is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including YOVA, Anne-Sophie Selig, Atze G and B.R.K.Ø. and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 20 upcoming g
 | Sat, 10 Oct 2026 | zauberhaft! Vol. 5 - STAY CORE (TAG DER CLUBKULTUR 2026) | Anne-Sophie Selig, Der olle Kramer, Pfarrersøn, R2-RO, Ziggy V'Niles, tzunamic |
 | Sat, 10 Oct 2026 | AUTUMM BOUNCE: NO GRAVITY x ETERNITY x WIEDER | Callado, Emma Moon, Obelisk030, SALCHIKILLER, SKKIN VELVET, mølly (on molly) |
 | Tue, 13 Oct 2026 | Open Decks & Tischtennis |  |
+| Fri, 16 Oct 2026 | Abgedreht Birthday Bash | B.R.K.Ø., DJ.Egoshooter10000, OnlyWithYou, RichBeat, Vanree, cilu, e.leptic |
 | Sat, 17 Oct 2026 | Hip Hop culture day/Hip hop Kulturtag |  |
-| Tue, 20 Oct 2026 | Open Decks & Tischtennis |  |
 
 ## Address
 

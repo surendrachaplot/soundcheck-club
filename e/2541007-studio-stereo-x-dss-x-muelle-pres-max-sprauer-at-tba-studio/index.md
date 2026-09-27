@@ -1,6 +1,6 @@
 # Studio Stereo x DSS! x Muelle pres. Max Sprauer at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x DSS! x Muelle pres. Max Sprauer at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 6 Nov, Barcelona. 3 artists on the bill: LM, Manchon and Max Sprauer. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x DSS! x Muelle pres. Max Sprauer at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 6 Nov, Barcelona. 4 artists on the bill: Edu C, LM, Manchon and Max Sprauer. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Studio Stereo x DSS! x Muelle pres. Max Sprauer at TBA - Studio Stereo, close to
 
 ## Line-up
 
+- Edu C
 - LM
 - Manchon
 - Max Sprauer

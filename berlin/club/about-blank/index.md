@@ -1,14 +1,13 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "://blank off summer - garden closing 2026" on Sat, 26 Sept 2026.
+://about blank is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "://sektgarten [free entry & open air]" on Tue, 29 Sept 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including 4NOUK, Al Aslan, alemiko and Alex.Do and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including 4NOUK, Al Aslan, alemiko and Alex.Do and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | ://blank off summer - garden closing 2026 | Alex.Do, Bossy Doll Bina, DJ Purpur, ELIZEN THE EMPEROR, Galaxaura, Hanna Baertig, HiHat, Jessamine, Lena Brumby, Lola Kay, Miss Dance, Murat Önen, PONY (3), Rodmin, SACID, Sven Weisemann, Tièmoko Koné, a:tok, tamarawrx3 |
 | Tue, 29 Sept 2026 | ://sektgarten [free entry & open air] |  |
 | Wed, 30 Sept 2026 | ://sektgarten x Brudi Love [free entry & open air] | Ini Lamborghini |
 | Thu, 1 Oct 2026 | ://sektgarten [free entry & open air] |  |
@@ -18,6 +17,7 @@
 | Sun, 4 Oct 2026 | STAUB XS_Familydisco_TREE OF THE CORE |  |
 | Fri, 9 Oct 2026 | PUDDING ∞ LETZTE WIESE × TRANSCENDÆNCE | DJ Semisecco, Droughtwerk, FI3BER, Flotte Motte, MATHILDA (2), Philena, co:co |
 | Sat, 10 Oct 2026 | ://elements | Biocym, Casual Treatment, Cia Rebeck, Electric Visionary, Shia LaBiff, THNTS, Vanta (DE), deliora |
+| Sat, 10 Oct 2026 | STAUB |  |
 
 ## Address
 
