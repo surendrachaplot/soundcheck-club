@@ -1,14 +1,13 @@
 # Martinou
 
-Martinou is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Lofi, Amsterdam on Sat, 26 Sept 2026.
+Martinou is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Jolene, Copenhagen on Fri, 2 Oct 2026.
 
-Martinou is a techno and house artist based in Sweden, tracked on soundcheck, with 35 sets logged across Amsterdam, Basel, Berlin and Brussels and 8 more. Often billed alongside Hame, Ben Kaczor and Hafa. Next up: Lofi, Amsterdam on Sat 26 Sept.
+Martinou is a techno and house artist based in Sweden, tracked on soundcheck, with 35 sets logged across Amsterdam, Basel, Berlin and Brussels and 8 more. Often billed alongside Hame, Ben Kaczor and Hafa. Next up: Jolene, Copenhagen on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Lofi | Amsterdam |
 | Fri, 2 Oct 2026 | Jolene | Copenhagen |
 | Sat, 17 Oct 2026 | Under Bron | Stockholm |
 

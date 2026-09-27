@@ -1,6 +1,6 @@
 # TASSERY
 
-TASSERY is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bootshaus, Cologne on Sat, 26 Sept 2026.
+TASSERY is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bootshaus, Cologne on Sat, 26 Sept 2026.
 
 TASSERY is a techno and trance artist based in France, tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 18 more. Often billed alongside KARAH, Golpe and KIRSTY. Next up: Bootshaus, Cologne on Sat 26 Sept.
 
@@ -8,7 +8,6 @@ TASSERY is a techno and trance artist based in France, tracked on soundcheck, wi
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Bootshaus | Cologne |
 | Sat, 26 Sept 2026 | Bootshaus | Cologne |
 | Fri, 2 Oct 2026 | Hans Bunte Areal | Freiburg |
 | Sun, 4 Oct 2026 | Ministerium Club | Lisbon |

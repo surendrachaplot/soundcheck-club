@@ -2,7 +2,7 @@
 
 Elkka is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Rex Club, Paris on Sat, 26 Sept 2026.
 
-Elkka is a house and techno artist based in United Kingdom, tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Bonobo, Dan Shake and TSHA. Next up: Rex Club, Paris on Sat 26 Sept.
+Elkka is a house and techno artist based in United Kingdom, tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Dan Shake, TSHA and Bonobo. Next up: Rex Club, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Elkka is a house and techno artist based in United Kingdom, tracked on soundchec
 
 ## Shares bills with
 
-Bonobo, Dan Shake, TSHA
+Dan Shake, TSHA, Bonobo
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elkka/)*

@@ -1,15 +1,13 @@
 # C12
 
-C12 is a music venue in Brussels with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Raw Code 1 Year Anniversary x VORTEX: C11 Takeover" on Sat, 26 Sept 2026.
+C12 is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "C12 x Call of Dirty with CEM, VTT, Stella K, soft:machina" on Sat, 3 Oct 2026.
 
-C12 is a music venue in Brussels listed on soundcheck. 9 upcoming gigs, with line-ups including AAguilAA, Altinbas, Basic Feelings and CEM and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
+C12 is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, with line-ups including AAguilAA, Altinbas, CEM and Clara D and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Raw Code 1 Year Anniversary x VORTEX: C11 Takeover | Basic Feelings (2), Nastya Dikikh, Wim Wixx., gucccifer |
-| Sat, 26 Sept 2026 | C12 Nite with DJ Fuckoff & Helena Lauwaert JEKKAMAÏ | DJ Fuckoff, Helena Lauwaert, JEKKAMAÏ |
 | Sat, 3 Oct 2026 | C12 x Call of Dirty with CEM, VTT, Stella K, soft:machina | CEM, Stella K, VTT (BE), soft:machina |
 | Fri, 9 Oct 2026 | C12 x UNTIMED with Quelza, DJ Nobu, Emily Jeanne | DJ Nobu, Emily Jeanne, Quelza |
 | Fri, 16 Oct 2026 | Los Ninos: Queer Berlin | AAguilAA, Dj handbag, Immy |

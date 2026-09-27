@@ -1,14 +1,13 @@
 # AMÉMÉ
 
-AMÉMÉ is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hï Ibiza, Ibiza on Sat, 26 Sept 2026.
+AMÉMÉ is a House and Afro House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 2 Oct 2026.
 
-AMÉMÉ is a house and afro house artist based in Benin, tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Hï Ibiza, Ibiza on Sat 26 Sept.
+AMÉMÉ is a house and afro house artist based in Benin, tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Sat, 3 Oct 2026 | Jungle Island | Miami |
 | Wed, 7 Oct 2026 | [UNVRS] | Ibiza |

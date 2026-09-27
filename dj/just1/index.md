@@ -1,14 +1,13 @@
 # Just1
 
-Just1 is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
+Just1 is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
 
-Just1 is a house and electro artist based in France, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 6 more. Often billed alongside Tau Car, Alexia and Micha. Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
+Just1 is a house and electro artist based in France, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 6 more. Often billed alongside Tau Car, Alexia and Micha. Next up: Klaproos, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Haus der Visionäre | Berlin |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "AFTERPARTY: Funk Tribu / Gerardo Niva / Kara Okay B2B Freddi" on Sat, 26 Sept 2026.
+Mondo is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "DJ Fuckoff / Gerardo Niva / doccudder" on Thu, 1 Oct 2026.
 
-Mondo is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including Alignment, Andres Campo, Bad Boombox and Bárbara Lago and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
+Mondo is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Alignment, Andres Campo, Bad Boombox and Bárbara Lago and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | AFTERPARTY: Funk Tribu / Gerardo Niva / Kara Okay B2B Freddi | Freddi, Funk Tribu, Gerardo Niva, Kara Okay |
 | Thu, 1 Oct 2026 | DJ Fuckoff / Gerardo Niva / doccudder | DJ Fuckoff, Gerardo Niva, doccudder |
 | Sat, 3 Oct 2026 | AFTERPARTY: Andres Campo B2B Gerardo Niva / Ollie Lishman / BIXBITA B2B pavvvvvvlo | Andres Campo, BIXBITA, Gerardo Niva, Ollie Lishman, pavvvvvvlo |
 | Thu, 8 Oct 2026 | Alignment / Barbara Lago / pavvvvvvlo | Alignment, Bárbara Lago, pavvvvvvlo |
@@ -18,6 +17,7 @@ Mondo is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with li
 | Sat, 17 Oct 2026 | TWOFACED / Gerardo Niva B2B JÄMO / doccudder | Gerardo Niva, JÄMO, doccudder |
 | Thu, 22 Oct 2026 | Inafekt / Gerardo Niva / DJ SWISHERMAN B2B doccudder | DJ SWISHERMAN, Gerardo Niva, Inafekt, doccudder |
 | Sat, 24 Oct 2026 | Pablo Bozzi / Gerardo Niva | Gerardo Niva, Pablo Bozzi |
+| Thu, 29 Oct 2026 | Papa Nugs / Gerardo Niva / doccudder | Gerardo Niva, Papa Nugs, doccudder |
 
 ## Address
 

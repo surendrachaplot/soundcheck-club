@@ -1,14 +1,13 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Oriental Nights & Elemental Remembrance - A Sun & Earth Experience with Organic Electronic Music" on Sat, 26 Sept 2026.
+Sensorium is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "TRIG" on Sun, 27 Sept 2026.
 
-Sensorium is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including Abdallah and I, Andeel, babymullet and Bee Lincoln and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
+Sensorium is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including babymullet, Bee Lincoln, Blck-Swan and Daviti and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Oriental Nights & Elemental Remembrance - A Sun & Earth Experience with Organic Electronic Music | Abdallah and I, Andeel, Jemski., Lara Elfara |
 | Sun, 27 Sept 2026 | TRIG | Mute |
 | Wed, 30 Sept 2026 | TECHNO MITTWOCH | KunstTechnologe, Michael Marchi, nixmoon |
 | Wed, 7 Oct 2026 | TECHNO MITTWOCH | Eleonor Bianchi, Fugist, k.meower, peak2soon |
@@ -18,6 +17,7 @@ Sensorium is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, wit
 | Wed, 21 Oct 2026 | TECHNO MITTWOCH | Daviti, PETDuo, Viktor Kampf |
 | Sat, 24 Oct 2026 | SENSO NACHT |  |
 | Wed, 28 Oct 2026 | TECHNO MITTWOCH | Samo Rane, pink-panther |
+| Sat, 31 Oct 2026 | Halloween SENSO | Blck-Swan, UniKhatu, Viktor Kampf, pink-panther |
 
 ## Address
 

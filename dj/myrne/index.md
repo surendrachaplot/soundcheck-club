@@ -1,14 +1,13 @@
 # MYRNE
 
-MYRNE is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Brooklyn Storehouse, New York City on Sat, 26 Sept 2026.
+MYRNE is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Standard Time, Toronto on Thu, 1 Oct 2026.
 
-MYRNE is a progressive house and house artist based in Singapore, tracked on soundcheck, with 10 sets logged across Denver, London, New York City and San Francisco/Oakland and 3 more. Often billed alongside Robby East, Ashibah and Lane 8. Next up: Brooklyn Storehouse, New York City on Sat 26 Sept.
+MYRNE is a progressive house and house artist based in Singapore, tracked on soundcheck, with 10 sets logged across Denver, London, New York City and San Francisco/Oakland and 3 more. Often billed alongside Robby East, Ashibah and Lane 8. Next up: Standard Time, Toronto on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Brooklyn Storehouse | New York City |
 | Thu, 1 Oct 2026 | Standard Time | Toronto |
 | Sat, 3 Oct 2026 | The San Francisco Mint | San Francisco/Oakland |
 

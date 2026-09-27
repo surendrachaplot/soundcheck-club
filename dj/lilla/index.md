@@ -1,14 +1,13 @@
 # LILLA
 
-LILLA is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Circle Line Cruises, New York City on Sat, 26 Sept 2026.
+LILLA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Elsewhere, New York City on Sat, 17 Oct 2026.
 
-LILLA is a club and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across New York City. Often billed alongside SAMIA, ARMANA KHAN and Nadim Maghzal. Next up: Circle Line Cruises, New York City on Sat 26 Sept.
+LILLA is a club and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across New York City. Often billed alongside SAMIA, ARMANA KHAN and Nadim Maghzal. Next up: Elsewhere, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Circle Line Cruises | New York City |
 | Sat, 17 Oct 2026 | Elsewhere | New York City |
 
 ## Recently played

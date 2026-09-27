@@ -1,14 +1,14 @@
 # re:ni
 
-re:ni is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
+re:ni is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
 
-re:ni is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 45 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: M.O.T, London on Sat 26 Sept.
+re:ni is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 45 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: Ormside Projects, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Fri, 2 Oct 2026 | BASEMENT | New York City |
 | Sat, 3 Oct 2026 | TBA | Mexico City |
@@ -19,7 +19,7 @@ re:ni is a techno and bass artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- M.O.T, London — Sat, 26 Sept 2026
+- Ormside Projects, London — Sat, 26 Sept 2026
 - Hexagon Brussels, Brussels — Fri, 25 Sept 2026
 - Badaboum, Paris — Sat, 19 Sept 2026
 - Badaboum, Paris — Fri, 18 Sept 2026

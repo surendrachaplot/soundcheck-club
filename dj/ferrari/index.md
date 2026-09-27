@@ -1,14 +1,13 @@
 # Ferrari
 
-Ferrari is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at RedRoom Members Club, Milan on Sat, 26 Sept 2026.
+Ferrari is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Santa Maria della Pietà, Rome on Sat, 3 Oct 2026.
 
-Ferrari is a house and disco artist based in Italy, tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Madrid and Milan and 2 more. Often billed alongside Dante (H501), Coni and Larry Masmero. Next up: RedRoom Members Club, Milan on Sat 26 Sept.
+Ferrari is a house and disco artist based in Italy, tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Madrid and Milan and 2 more. Often billed alongside Dante (H501), Coni and Larry Masmero. Next up: TBA - Santa Maria della Pietà, Rome on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | RedRoom Members Club | Milan |
 | Sat, 3 Oct 2026 | TBA - Santa Maria della Pietà | Rome |
 | Sat, 3 Oct 2026 | Forte Antenne | Rome |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |

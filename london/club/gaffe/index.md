@@ -8,7 +8,7 @@ Gaffe is a music venue in London listed on soundcheck. 15 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Gaffe presents: A Summer Closing | Free Zing, Gwenan, Jacob Trip, Lottie (SI), Marius Bø, Roman (3), Seb Trillo, Sugar Free, Tommy 2000 |
+| Sat, 26 Sept 2026 | Gaffe presents: A Summer Closing | Free Zing, Gwenan, Jacob Trip, Lottie (SI), Marius Bø, Seb Trillo, Sugar Free, Tommy 2000 |
 | Fri, 2 Oct 2026 | Spud Sounds presents: Vladimir Ivkovic, Cassy & Kuba'97 + After Party | Cassy, JUST FINN, Kuba'97, Lyde, Neev, Vladimir Ivkovic |
 | Sat, 3 Oct 2026 | Space Talk presents : ST05 Release Party at Gaffe |  |
 | Fri, 9 Oct 2026 | Focal Point |  |

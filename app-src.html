@@ -1105,10 +1105,15 @@
     /* button.fp-ab, not .fp-ab: `.fp-ab:not(.go)` is also (0,2,0) and is declared
        LATER, so an equal-specificity override loses the tie. Verified with
        getComputedStyle, which still read rgba(0,0,0,0) after the first attempt. */
-    .ev-invite button.fp-ab, .inv-bar button.fp-ab{ background:var(--surface-2); border:1.5px solid var(--line-2); }
+    .ev-invite button.fp-ab{ background:var(--surface-2); border:1.5px solid var(--line-2); }
     /* Invite is .fp-pb (L secondary outlined pill, DS p-S-0 board 1583-0) —
        Play is already the one gradient on this page (one gradient per view,
        button-system-v2). Was .ob-cta (gradient); fixed 2026-09-27. */
+    /* Board B answer bar: "I'm in" = .fp-pb (same L secondary as above, check
+       icon) — was .ob-cta, a second gradient next to the page's Play (fixed
+       2026-09-27). "Can't make it" = link style, no pill. */
+    .inv-bar .inv-no{ background:none; border:0; padding:0; height:44px; display:inline-flex; align-items:center;
+      font:700 var(--fs-sm)/var(--lh-sm) var(--body); color:var(--muted); cursor:pointer; }
     /* Receiver: "u/x is going" strip under the meta, and the sticky answer bar.
        The bar is fixed so the answer is reachable without scrolling the bill —
        board B puts it over the page, not in the flow. */
@@ -1119,7 +1124,7 @@
     .inv-bar{ position:fixed; left:0; right:0; bottom:0; z-index:900; display:flex; flex-direction:column; padding:14px 16px calc(24px + env(safe-area-inset-bottom));
       background:linear-gradient(rgba(22,16,42,0), var(--bg) 26%); border-top:1px solid var(--border); }
     .inv-bar .inv-row{ display:flex; align-items:center; gap:10px; }
-    .inv-bar .ob-cta{ margin-top:0; }
+    .inv-bar .fp-pb{ margin-top:0; }
     .inv-bar .inv-note{ font:600 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--faint); margin-top:10px; }
     /* One bar at a time. The tab bar, the dock and the radio FAB all live at the
        bottom; any of them under the answer bar is two bars stacked. */
@@ -4726,7 +4731,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790479703220">
+<meta name="sc-build" content="1790483174506">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -8310,8 +8315,8 @@
       invClose();
       var bar=document.createElement('div'); bar.className='inv-bar'; bar.id='inv-bar';
       bar.innerHTML='<div class="inv-row">'+
-          '<button class="ob-cta" id="inv-yes" type="button">I&rsquo;m in</button>'+
-          '<button class="fp-ab" id="inv-no" type="button"><span>Can&rsquo;t make it</span></button>'+
+          '<button class="fp-pb" id="inv-yes" type="button">'+CHECK_SVG+'<span>I&rsquo;m in</span></button>'+
+          '<button class="inv-no" id="inv-no" type="button">Can&rsquo;t make it</button>'+
         '</div>'+
         '<div class="inv-note">No app needed &mdash; you&rsquo;ll answer in the browser.</div>';
       document.body.appendChild(bar); document.body.classList.add('inv-open');

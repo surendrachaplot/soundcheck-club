@@ -1,14 +1,13 @@
 # Stiffdance
 
-Stiffdance is a Acid and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Gabriela, New York City on Sat, 26 Sept 2026.
+Stiffdance is a Acid and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Jama, Toronto on Fri, 16 Oct 2026.
 
-Stiffdance is an acid and electro artist based in United States of America, tracked on soundcheck, with 5 sets logged across New York City and Toronto. Often billed alongside Andi, Aji and B I P. Next up: Gabriela, New York City on Sat 26 Sept.
+Stiffdance is an acid and electro artist based in United States of America, tracked on soundcheck, with 5 sets logged across New York City and Toronto. Often billed alongside Andi, Aji and B I P. Next up: The Jama, Toronto on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Gabriela | New York City |
 | Fri, 16 Oct 2026 | The Jama | Toronto |
 | Fri, 30 Oct 2026 | Good Room | New York City |
 

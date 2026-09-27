@@ -9,7 +9,7 @@ Debit is a techno and experimental artist based in United States of America, tra
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | National Gallery Prague | Prague |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Sun, 4 Oct 2026 | OCZKI | Warsaw |
 | Sun, 4 Oct 2026 | OCZKI | Warsaw |
@@ -19,7 +19,7 @@ Debit is a techno and experimental artist based in United States of America, tra
 ## Recently played
 
 - National Gallery Prague, Prague — Sat, 26 Sept 2026
-- M.O.T, London — Sat, 26 Sept 2026
+- Ormside Projects, London — Sat, 26 Sept 2026
 - Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - B London, London — Sat, 12 Sept 2026
 - A Capela, Lisbon — Sat, 12 Sept 2026

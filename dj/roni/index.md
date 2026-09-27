@@ -1,14 +1,13 @@
 # RONI
 
-RONI is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at La Terrrazza, Barcelona on Sat, 26 Sept 2026.
+RONI is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
 
-RONI is a techno and bass artist based in France, tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 27 more. Often billed alongside Lisa More, Aloka and Bambounou. Next up: La Terrrazza, Barcelona on Sat 26 Sept.
+RONI is a techno and bass artist based in France, tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 27 more. Often billed alongside Lisa More, Aloka and Bambounou. Next up: Café Nuances  - Marais, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | La Terrrazza | Barcelona |
 | Fri, 2 Oct 2026 | Café Nuances  - Marais | Paris |
 
 ## Recently played

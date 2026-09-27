@@ -1,14 +1,13 @@
 # Jhobei
 
-Jhobei is a House and Electro artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 26 Sept 2026.
+Jhobei is a House and Electro artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
-Jhobei is a house and electro artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside B.Love, Voigtmann and Enzo Siragusa. Next up: Shelter Amsterdam, Amsterdam on Sat 26 Sept.
+Jhobei is a house and electro artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside B.Love, Voigtmann and Enzo Siragusa. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 2 Oct 2026 | TBA | Central |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 | Sat, 10 Oct 2026 | Hazy Club | Sheffield |

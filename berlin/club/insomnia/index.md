@@ -1,14 +1,13 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "UNLEASHED by UNDR - Kinky Techno Party" on Sat, 26 Sept 2026.
+Insomnia is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Slave to Rock" on Fri, 2 Oct 2026.
 
-Insomnia is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including ANAMORPH_, Andara Nox, BOHO and BOOTHBUNNY and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
+Insomnia is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including ANAMORPH_, BOHO, BOOTHBUNNY and djst4rlight and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | UNLEASHED by UNDR - Kinky Techno Party | Andara Nox, ELEETE, Paula Hilton, Prismode, Solvane |
 | Fri, 2 Oct 2026 | Slave to Rock | The Shredder |
 | Fri, 2 Oct 2026 | Milk & Honey: Prague in Berlin | ANAMORPH_, Marie Pravda, Miss Unleashed, SJ Yellow |
 | Sat, 3 Oct 2026 | Goa Liebe |  |
@@ -18,6 +17,7 @@ Insomnia is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with
 | Sat, 17 Oct 2026 | BOUNCE by UNDR: Bounce / Hard Dance - Kinky & Playful | BOOTHBUNNY, JUNiQUE, djst4rlight, maedchenballern, mølly (on molly) |
 | Thu, 22 Oct 2026 | Erotische Hypnose Live - Die 'Venus Party' |  |
 | Fri, 23 Oct 2026 | Venus Kick-Off Party | Monty |
+| Sat, 24 Oct 2026 | Venus Bizarre | Epicx, Sika Akis, Wiebe Roose |
 
 ## Address
 

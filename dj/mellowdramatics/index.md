@@ -1,19 +1,19 @@
 # Mellowdramatics
 
-Mellowdramatics is a Club and Dub artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
+Mellowdramatics is a Club and Dub artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
 
-Mellowdramatics is a club and dub artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Glasgow and London. Often billed alongside John T. Gast, Authentically Plastic and Conrad Pack. Next up: M.O.T, London on Sat 26 Sept.
+Mellowdramatics is a club and dub artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Glasgow and London. Often billed alongside John T. Gast, Authentically Plastic and Conrad Pack. Next up: Ormside Projects, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 | Fri, 6 Nov 2026 | EXIT Glasgow | Glasgow |
 
 ## Recently played
 
-- M.O.T, London — Sat, 26 Sept 2026
+- Ormside Projects, London — Sat, 26 Sept 2026
 - Stereo, Glasgow — Sat, 5 Sept 2026
 - EXIT Glasgow, Glasgow — Fri, 4 Sept 2026
 - Algha's Plantroom, London — Sun, 9 Aug 2026

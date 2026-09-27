@@ -1,14 +1,13 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Verano Eterno" on Sat, 26 Sept 2026.
+The Sultan Room is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "PillowTalk Sessions with Lil'T B2B Greg Eversoul, Shane One B2B Holmar, Carlo Sine" on Sun, 27 Sept 2026.
 
-The Sultan Room is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including 5ToK3, Ben The Glorious Bastard, Carlo Sine and Crew Called Self and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
+The Sultan Room is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including 5ToK3, Ben The Glorious Bastard, Carlo Sine and Crew Called Self and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Verano Eterno |  |
 | Sun, 27 Sept 2026 | PillowTalk Sessions with Lil'T B2B Greg Eversoul, Shane One B2B Holmar, Carlo Sine | Carlo Sine, Greg Eversoul, Holmar, Lil'T, Shane One |
 | Sat, 3 Oct 2026 | Home & Abroad |  |
 | Mon, 5 Oct 2026 | New York Modular Society 7th Anniversary | 5ToK3, Ben The Glorious Bastard, Crew Called Self, Todd Sines |

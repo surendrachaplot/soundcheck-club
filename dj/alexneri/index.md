@@ -1,14 +1,13 @@
 # Alex Neri
 
-Alex Neri is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Gianca - Murazzi, Turin on Sat, 26 Sept 2026.
+Alex Neri is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Basic Club, Naples on Fri, 2 Oct 2026.
 
-Alex Neri is a house and techno artist based in Italy, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside GNMR, Giammarco Orsini and Brasi. Next up: Gianca - Murazzi, Turin on Sat 26 Sept.
+Alex Neri is a house and techno artist based in Italy, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside GNMR, Giammarco Orsini and Brasi. Next up: Basic Club, Naples on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Gianca - Murazzi | Turin |
 | Fri, 2 Oct 2026 | Basic Club | Naples |
 | Sat, 17 Oct 2026 | Night Tales | London |
 | Fri, 23 Oct 2026 | feedbk | New York City |

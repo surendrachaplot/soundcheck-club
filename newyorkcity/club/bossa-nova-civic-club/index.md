@@ -1,14 +1,13 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 28 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "GENRELESS Happy Hour - 'Don't Ask, We'll Tell'" on Sat, 26 Sept 2026.
+Bossa Nova Civic Club is a music venue in New York City with 27 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "NOWHERE with Uche, TYBASS, FEEZ, DJ MANNY, DYLAN ALI, J-Cush, NINE 11" on Sat, 26 Sept 2026.
 
-Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 28 upcoming gigs, with line-ups including 3K LB Marlin, 4AM NYC, 8ULENTINA and A lana and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 27 upcoming gigs, with line-ups including 4AM NYC, 8ULENTINA, A lana and Aleska and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | GENRELESS Happy Hour - 'Don't Ask, We'll Tell' | 3K LB Marlin, steele deficiency |
 | Sat, 26 Sept 2026 | NOWHERE with Uche, TYBASS, FEEZ, DJ MANNY, DYLAN ALI, J-Cush, NINE 11 | DJ Manny, J-Cush, Uche |
 | Sun, 27 Sept 2026 | Very J, A lana, & DAY/DEM | A lana, DAY/DEM, Very J |
 | Sun, 27 Sept 2026 | Happy Hour: ENDOCYTOSIS |  |
@@ -18,6 +17,7 @@ Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 28
 | Wed, 30 Sept 2026 | Patsy's Punk Bitch Happy Hour | Patsy |
 | Thu, 1 Oct 2026 | Synthicide with Lloyd, For Future's Sake, Andi | Andi, For Future's Sake, Lloydski |
 | Fri, 2 Oct 2026 | Happy Hour: COMMUTER with Muenfua, source, CYB3RT0NIN B2B Freequincy | CYB3R T0NIN |
+| Fri, 2 Oct 2026 | Rollup: KEBRA (BR/CDMX), Dj Rankng (CDMX), La Maquina, zorenLo | Dj Rankng, KEBRA, zorenLo |
 
 ## Address
 

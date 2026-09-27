@@ -1,14 +1,13 @@
 # DXNBY
 
-DXNBY is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 26 Sept 2026.
+DXNBY is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at World Headquarters, Newcastle on Fri, 2 Oct 2026.
 
-DXNBY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 23 more. Often billed alongside Ozzie Guven, ALISHA and East End Dubs. Next up: Shelter Amsterdam, Amsterdam on Sat 26 Sept.
+DXNBY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 23 more. Often billed alongside Ozzie Guven, ALISHA and East End Dubs. Next up: World Headquarters, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 2 Oct 2026 | World Headquarters | Newcastle |
 | Thu, 22 Oct 2026 | The Bulldog Palace | Amsterdam |
 | Fri, 23 Oct 2026 | Oliva | Amsterdam |

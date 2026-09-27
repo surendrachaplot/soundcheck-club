@@ -1,14 +1,13 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at EartH, London on Sat, 26 Sept 2026.
+Skin On Skin is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Le Sucre, Lyon on Sat, 26 Sept 2026.
 
-Skin On Skin is a techno and house artist based in South Sudan, tracked on soundcheck, with 143 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 52 more. Often billed alongside Mall Grab, KETTAMA and DJ Gigola. Next up: EartH, London on Sat 26 Sept.
+Skin On Skin is a techno and house artist based in South Sudan, tracked on soundcheck, with 143 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 52 more. Often billed alongside Mall Grab, KETTAMA and DJ Gigola. Next up: Le Sucre, Lyon on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | EartH | London |
 | Sat, 26 Sept 2026 | Le Sucre | Lyon |
 | Fri, 2 Oct 2026 | Cité du Cinéma | Paris |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
@@ -20,6 +19,7 @@ Skin On Skin is a techno and house artist based in South Sudan, tracked on sound
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 21 Nov 2026 | Pasir Panjang Power Station | Singapore |
 | Sun, 22 Nov 2026 | Aquabeat 01 | Hong Kong |
+| Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
 

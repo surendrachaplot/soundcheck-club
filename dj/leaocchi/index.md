@@ -1,14 +1,13 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Le Trabendo, Paris on Sat, 26 Sept 2026.
+Lea Occhi is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-Lea Occhi is a techno and house artist based in France, tracked on soundcheck, with 189 sets logged across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: Le Trabendo, Paris on Sat 26 Sept.
+Lea Occhi is a techno and house artist based in France, tracked on soundcheck, with 189 sets logged across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Le Trabendo | Paris |
 | Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |

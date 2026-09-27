@@ -1,14 +1,13 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "elrow Ibiza" on Sat, 26 Sept 2026.
+[UNVRS] is a music venue in Ibiza with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Carl Cox" on Sun, 27 Sept 2026.
 
-[UNVRS] is a music venue in Ibiza listed on soundcheck. 14 upcoming gigs, with line-ups including Adriatique, Alan Fitzpatrick, AMÉMÉ and Anastazja and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
+[UNVRS] is a music venue in Ibiza listed on soundcheck. 13 upcoming gigs, with line-ups including Adriatique, Alan Fitzpatrick, AMÉMÉ and Anastazja and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | elrow Ibiza | Joris Voorn, Kolsch, Rendher, Tini Gessler |
 | Sun, 27 Sept 2026 | Carl Cox | Alan Fitzpatrick, Carl Cox, Melon Bomb, Nicole Moudaber, PAUZA |
 | Mon, 28 Sept 2026 | Armin Van Buuren presents A State Of Trance | Armin van Buuren, Funk Tribu |
 | Tue, 29 Sept 2026 | No Art | ANOTR |
@@ -18,6 +17,7 @@
 | Sat, 3 Oct 2026 | elrow Ibiza - CLOSING PARTY | ATT, Chelina Manuhutu, Ilario Alicante, Paco Osuna, Tini Gessler |
 | Sun, 4 Oct 2026 | Carl Cox - CLOSING PARTY | Carl Cox, Melon Bomb |
 | Mon, 5 Oct 2026 | Armin Van Buuren presents A State Of Trance - CLOSING PARTY | Armin van Buuren |
+| Tue, 6 Oct 2026 | TOP 100 DJS LIVE | Anastazja, Charlotte de Witte, Gordo (1), Korolova, Vintage Culture |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # DJ Ruby
 
-DJ Ruby is a Progressive House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hangar48 Club, Madrid on Sat, 26 Sept 2026.
+DJ Ruby is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hideout, Malta on Sat, 3 Oct 2026.
 
-DJ Ruby is a progressive house and house artist based in Malta, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 17 more. Often billed alongside Daniel Blade, Abdy and Ruben Karapetyan. Next up: Hangar48 Club, Madrid on Sat 26 Sept.
+DJ Ruby is a progressive house and deep house artist based in Malta, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 17 more. Often billed alongside Daniel Blade, Abdy and Ruben Karapetyan. Next up: Hideout, Malta on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Hangar48 Club | Madrid |
 | Sat, 3 Oct 2026 | Hideout | Malta |
 | Wed, 21 Oct 2026 | Club Baggerbeest | Amsterdam |
 | Thu, 22 Oct 2026 | Bears Amsterdam | Amsterdam |

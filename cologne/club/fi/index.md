@@ -1,14 +1,13 @@
 # fi
 
-fi is a music venue in Cologne with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "fi Garten x u.r. trax & Phonovision & Flinta*Tunes" on Sat, 26 Sept 2026.
+fi is a music venue in Cologne with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Aura at fi with Chlär" on Fri, 2 Oct 2026.
 
-fi is a music venue in Cologne listed on soundcheck. 13 upcoming gigs, with line-ups including 0megavybe, 909 RACING TEAM, ALFALFA (UK) and alleira and 2 more. Browse upcoming dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
+fi is a music venue in Cologne listed on soundcheck. 12 upcoming gigs, with line-ups including 0megavybe, 909 RACING TEAM, ALFALFA (UK) and alleira and 2 more. Browse upcoming dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | fi Garten x u.r. trax & Phonovision & Flinta*Tunes | Arninho, HiHat, alleira, u.r.trax |
 | Fri, 2 Oct 2026 | Aura at fi with Chlär | Chlär, Gutkind, Szunflower, Tschatsching |
 | Sat, 3 Oct 2026 | fi x Patrick Mason & Loveselectors | DJ ASS TITS, Juni, Patrick Mason, Rafiki, zinho |
 | Fri, 9 Oct 2026 | fi x LAMMER & Wetdreams & SoundSound | 909 RACING TEAM, Carl Bergé, LAMMER, Lizzle, Mismatch Cologne, Vagabund, alleira |
@@ -18,6 +17,7 @@ fi is a music venue in Cologne listed on soundcheck. 13 upcoming gigs, with line
 | Fri, 23 Oct 2026 | fi x Henrik Schwarz & AYA | Bonjour Ben, Henrik Schwarz, c00lm8 |
 | Sat, 7 Nov 2026 | fi x Cologne Is For Lovers | DJ Deep, DJ Funky Fresh Mike, Femdelic, Tom Kutsche |
 | Sat, 14 Nov 2026 | fi x && x Tipping Point | Frida Darko, NUAH (2), Sahra Bass |
+| Fri, 20 Nov 2026 | fi x Traumer & Akte | Costanza, ISABELL (1), Interplay, Phil2, Traumer |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Praerie Festival im Bahnwärter Thiel" on Sat, 26 Sept 2026.
+Bahnwärter Thiel is a music venue in Munich with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "135+ mit XOXO & Atzenstark Kollektiv" on Thu, 1 Oct 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 14 upcoming gigs, with line-ups including ANASTASÍA, Anna Lazer, Atzlina and aufleguan and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 13 upcoming gigs, with line-ups including ANASTASÍA, Anna Lazer, Atzlina and aufleguan and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Praerie Festival im Bahnwärter Thiel | Martin Ka, Maurice Mino, Sin:port |
 | Thu, 1 Oct 2026 | 135+ mit XOXO & Atzenstark Kollektiv | Atzlina |
 | Fri, 2 Oct 2026 | 135+ - Uhrwerk der Nacht X Sonic Radiance X Vortex | Fazi, TUTTOBENE |
 | Sat, 3 Oct 2026 | Feta Morgana mit Late Night Jockel Session | Late Night Jockel Session, Vanish |
@@ -18,6 +17,7 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 14 upcoming g
 | Thu, 15 Oct 2026 | 135+ mit 1CB & Dankus Kollektiv | Fej:tal, Mr. Stampftech, pnk pnthr |
 | Fri, 16 Oct 2026 | 11 Jahre Bahnwärter Thiel, 3 Tage ohne Halt | ANASTASÍA, Dave Dinger, ELIF, Elleyza, Jan Minnerup, Listenblondie, Moritz Butschek, Pablo Minuit, SILSAN, Susi&Paula, Tala Berg, The Journey, Wanda Wild, justUS |
 | Thu, 22 Oct 2026 | 135+ mit Trancemitters & Morph Kollektiv | aufleguan |
+| Fri, 23 Oct 2026 | 10 Jahre Folge der Wolke | Anna Lazer, Bernd Bugatti, DJ Nebelmaschine, LARIFARI, Liebe Nachbarn |
 
 ## Address
 

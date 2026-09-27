@@ -1,6 +1,6 @@
 # Rosilicious
 
-Rosilicious is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bootshaus, Cologne on Sat, 26 Sept 2026.
+Rosilicious is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bootshaus, Cologne on Sat, 26 Sept 2026.
 
 Rosilicious is a techno and trance artist based in Netherlands, tracked on soundcheck, with 40 sets logged across Berlin and Cologne. Often billed alongside DJ Discostoff, DJ Tallboy and Gourski. Next up: Bootshaus, Cologne on Sat 26 Sept.
 
@@ -8,7 +8,6 @@ Rosilicious is a techno and trance artist based in Netherlands, tracked on sound
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Bootshaus | Cologne |
 | Sat, 26 Sept 2026 | Bootshaus | Cologne |
 | Fri, 23 Oct 2026 | Bootshaus | Cologne |
 

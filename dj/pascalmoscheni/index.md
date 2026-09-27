@@ -1,14 +1,13 @@
 # Pascal Moscheni
 
-Pascal Moscheni is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Rumore Nightclub Capri, Naples on Sat, 26 Sept 2026.
+Pascal Moscheni is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
 
-Pascal Moscheni is a house and electronica artist based in Spain, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 18 more. Often billed alongside Simone de Kunovich, Dante (H501) and Pancratio. Next up: Rumore Nightclub Capri, Naples on Sat 26 Sept.
+Pascal Moscheni is a house and electronica artist based in Spain, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 18 more. Often billed alongside Simone de Kunovich, Dante (H501) and Pancratio. Next up: Klaproos, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Rumore Nightclub Capri | Naples |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
 
 ## Recently played

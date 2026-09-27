@@ -1,15 +1,13 @@
 # Colyn
 
-Colyn is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fitz Mallorca, Mallorca on Sat, 26 Sept 2026.
+Colyn is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Zumana Bali, Bali on Fri, 9 Oct 2026.
 
-Colyn is a techno and house artist based in Netherlands, tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: Fitz Mallorca, Mallorca on Sat 26 Sept.
+Colyn is a techno and house artist based in Netherlands, tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: Zumana Bali, Bali on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Fitz Mallorca | Mallorca |
-| Sat, 26 Sept 2026 | Fitz Mallorca | Mallorca |
 | Fri, 9 Oct 2026 | Zumana Bali | Bali |
 | Sun, 11 Oct 2026 | Savaya Bali | Bali |
 | Sun, 18 Oct 2026 | Revolver Upstairs | Melbourne |

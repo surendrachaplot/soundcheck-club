@@ -1,14 +1,13 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 19 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ NewTone/ Roos Reijmers" on Sat, 26 Sept 2026.
+BASIS is a music venue in Utrecht with 18 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "BASIS/ DEF/ Genetica/ LESSSS/ SANTØS" on Fri, 2 Oct 2026.
 
-BASIS is a music venue in Utrecht listed on soundcheck. 19 upcoming gigs, with line-ups including 36framez, Amy Rymes, Aphøtic and AREA ØNE and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
+BASIS is a music venue in Utrecht listed on soundcheck. 18 upcoming gigs, with line-ups including 36framez, Amy Rymes, Aphøtic and AREA ØNE and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ NewTone/ Roos Reijmers | Brent Honey, NewTone, fka.m4a |
 | Fri, 2 Oct 2026 | BASIS/ DEF/ Genetica/ LESSSS/ SANTØS | Genetica, LESSSS, SANTØS |
 | Sat, 3 Oct 2026 | BASIS/ BIIA All Night Long | BIIA |
 | Fri, 9 Oct 2026 | BASIS/ Ghetto House Special/ Böhm/ DJ Assault [extended set]/ DJ Godfather/ ZORA Soundsystem | Bohm, DJ Assault, DJ Godfather |
@@ -18,6 +17,7 @@ BASIS is a music venue in Utrecht listed on soundcheck. 19 upcoming gigs, with l
 | Sat, 24 Oct 2026 | BASIS/ Ben Techy/ Brtinzz/ Nikki/ Remon Verhoeve | Ben Techy, Brtinzz, Remon Verhoeve |
 | Fri, 30 Oct 2026 | BASIS House Special/ Cici Daze/ Djora/ Prunk/ Stefan Meser | Cici Daze, Prunk, Stefan Meser |
 | Sat, 31 Oct 2026 | BASIS/ EARGASM GOD/ HiTMiLØW/ INNSANE/ MOT!VE | EARGASM GOD, HiTMiLØW |
+| Fri, 6 Nov 2026 | BASIS/ Charlie Sparks/ Coster/ N00M1/ THISO | Charlie Sparks, N00M1, THISO |
 
 ## Address
 

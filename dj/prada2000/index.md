@@ -1,14 +1,13 @@
 # PRADA2000
 
-PRADA2000 is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+PRADA2000 is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at WDM, Hannover on Fri, 2 Oct 2026.
 
-PRADA2000 is a techno and trance artist based in Germany, tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Cleopard2000, Adrian Mills and Mika Heggemann. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
+PRADA2000 is a techno and trance artist based in Germany, tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Cleopard2000, Adrian Mills and Mika Heggemann. Next up: WDM, Hannover on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Cabaret  Aléatoire | Marseille |
 | Fri, 2 Oct 2026 | WDM | Hannover |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Fri, 16 Oct 2026 | Nitsa Club | Barcelona |

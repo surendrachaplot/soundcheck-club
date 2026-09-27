@@ -1,14 +1,13 @@
 # Amelia Leigh
 
-Amelia Leigh is a Jungle and Garage artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at La Gare / Le Gore, Paris on Sat, 26 Sept 2026.
+Amelia Leigh is a Jungle and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Gorilla, Manchester on Thu, 1 Oct 2026.
 
-Amelia Leigh is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Bristol, Leeds and Liverpool and 5 more. Often billed alongside Sweetly, Simmo. and NEENZY (UK). Next up: La Gare / Le Gore, Paris on Sat 26 Sept.
+Amelia Leigh is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Bristol, Leeds and Liverpool and 5 more. Often billed alongside Sweetly, Simmo. and NEENZY (UK). Next up: Gorilla, Manchester on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | La Gare / Le Gore | Paris |
 | Thu, 1 Oct 2026 | Gorilla | Manchester |
 | Fri, 16 Oct 2026 | Honey Street Studio | Manchester |
 | Sat, 17 Oct 2026 | Gorilla | Manchester |

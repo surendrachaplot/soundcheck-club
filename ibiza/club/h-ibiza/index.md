@@ -1,14 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Black Coffee" on Sat, 26 Sept 2026.
+Hï Ibiza is a music venue in Ibiza with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "MESTIZA" on Sun, 27 Sept 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 11 upcoming gigs, with line-ups including Adam Ten, A For Alpha, AMÉMÉ and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming gigs, with line-ups including Adam Ten, A For Alpha, Andrea Oliva and Anetha and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Black Coffee | AMÉMÉ, Black Coffee, DJ EZ, Marco Carola |
 | Sun, 27 Sept 2026 | MESTIZA | Anna Unusyan, DAX J, Elli Acula, Indira Paganotto, Knowhat, Marten Lou, MËSTIZA, Peppe Citarella |
 | Mon, 28 Sept 2026 | Francis Mercier presents Solèy | Andrea Oliva, Ashibah, Bontan, Francis Mercier, Jade, Mahmut Orhan, Major League Djz, Rolbac |
 | Tue, 29 Sept 2026 | East End Dubs presents Eastenderz | Ariel Rodz, East End Dubs, Fatzo, Gallya, Hot Since 82, Nick Curly, Oden, Paco Osuna |
@@ -18,6 +17,7 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 11 upcoming gigs, with
 | Sun, 4 Oct 2026 | MESTIZA - CLOSING PARTY | Anetha, Dan Tanev, Floyd Lavine, Indira Paganotto, MËSTIZA, Pan-Pot |
 | Mon, 5 Oct 2026 | Francis Mercier presents Solèy - CLOSING PARTY | Andrea Oliva, Apache, Francis Mercier, Satori, Shimza, Vanjee |
 | Tue, 6 Oct 2026 | East End Dubs presents Eastenderz - CLOSING PARTY | A For Alpha, André Butano, East End Dubs, Ewan McVicar, Paco Osuna, Priku, Traumer |
+| Fri, 9 Oct 2026 | CLOSING PARTY 2026 | Adam Ten, Antidot, Black Coffee, Candidate, Delilah, Djammin, Edd (1), Gaskin, LF SYSTEM, Laidlaw, Maz (BR), Meeshy, Melon Bomb, MiNNA, Mita Gami, Ossie, Paco Osuna, Skepta, The Martinez Brothers, The Menendez Brothers |
 
 ## Address
 

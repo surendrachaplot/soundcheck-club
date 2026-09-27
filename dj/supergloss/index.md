@@ -1,14 +1,13 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Nitsa Club, Barcelona on Sat, 26 Sept 2026.
+Supergloss is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 2 Oct 2026.
 
-Supergloss is a techno and trance artist based in Germany, tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Nitsa Club, Barcelona on Sat 26 Sept.
+Supergloss is a techno and trance artist based in Germany, tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: RSO.BERLIN, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Nitsa Club | Barcelona |
 | Fri, 2 Oct 2026 | RSO.BERLIN | Berlin |
 | Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
 | Sat, 17 Oct 2026 | Knockdown Center | New York City |

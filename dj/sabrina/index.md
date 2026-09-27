@@ -1,14 +1,13 @@
 # Sabrina
 
-Sabrina is a Drum & Bass and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Isabel Bar & Club, Madrid on Sat, 26 Sept 2026.
+Sabrina is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at fabric, London on Fri, 23 Oct 2026.
 
-Sabrina is a drum & bass and electronica artist based in Bolivia, tracked on soundcheck, with 33 sets logged across Bali, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Iñigo Vontier, SP:MC and Monrroe. Next up: Isabel Bar & Club, Madrid on Sat 26 Sept.
+Sabrina is a drum & bass and electronica artist based in Bolivia, tracked on soundcheck, with 33 sets logged across Bali, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Iñigo Vontier, SP:MC and Monrroe. Next up: fabric, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Isabel Bar & Club | Madrid |
 | Fri, 23 Oct 2026 | fabric | London |
 
 ## Recently played

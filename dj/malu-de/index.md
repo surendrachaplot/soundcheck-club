@@ -1,0 +1,21 @@
+# Malu
+
+Malu is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Panke, Berlin on Fri, 13 Nov 2026.
+
+Malu is a techno and experimental artist based in Spain, tracked on soundcheck, with 2 sets logged across Berlin and Munster. Often billed alongside Cali Caracho, Malu and The Muffin Man. Next up: Panke, Berlin on Fri 13 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 13 Nov 2026 | Panke | Berlin |
+
+## Recently played
+
+- Amp, Munster — Fri, 4 Sept 2026
+
+## Shares bills with
+
+Cali Caracho, Malu, The Muffin Man
+
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malu-de/)*

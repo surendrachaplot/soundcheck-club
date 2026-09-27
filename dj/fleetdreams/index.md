@@ -1,14 +1,13 @@
 # fleet.dreams
 
-fleet.dreams is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Mansions, New York City on Sat, 26 Sept 2026.
+fleet.dreams is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Signal, New York City on Fri, 2 Oct 2026.
 
-fleet.dreams is a house and techno artist based in United States of America, tracked on soundcheck, with 64 sets logged across Chicago, Detroit, Mexico City and Montreal and 1 more. Often billed alongside EscaFlowne, KYRUH and Rose Kourts. Next up: Mansions, New York City on Sat 26 Sept.
+fleet.dreams is a house and techno artist based in United States of America, tracked on soundcheck, with 64 sets logged across Chicago, Detroit, Mexico City and Montreal and 1 more. Often billed alongside EscaFlowne, KYRUH and Rose Kourts. Next up: Signal, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Mansions | New York City |
 | Fri, 2 Oct 2026 | Signal | New York City |
 
 ## Recently played

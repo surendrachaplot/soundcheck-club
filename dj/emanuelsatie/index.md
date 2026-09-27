@@ -1,14 +1,13 @@
 # Emanuel Satie
 
-Emanuel Satie is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Pacha, Munich on Sat, 26 Sept 2026.
+Emanuel Satie is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Archi Club, Costanera, Buenos Aires on Sat, 3 Oct 2026.
 
-Emanuel Satie is a house and techno artist based in Germany, tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside MAGA, Sean Doron and Sven Vath. Next up: Pacha, Munich on Sat 26 Sept.
+Emanuel Satie is a house and techno artist based in Germany, tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside MAGA, Sean Doron and Sven Vath. Next up: TBA - Archi Club, Costanera, Buenos Aires on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Pacha | Munich |
 | Sat, 3 Oct 2026 | TBA - Archi Club, Costanera | Buenos Aires |
 | Sat, 10 Oct 2026 | Het Sieraad | Amsterdam |
 | Sat, 28 Nov 2026 | Gallagher Square | San Diego |

@@ -1,14 +1,13 @@
 # KALT
 
-KALT is a music venue in Strasbourg with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Daniel Avery & Massimiliano Pagliara" on Sat, 26 Sept 2026.
+KALT is a music venue in Strasbourg with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "X-Club" on Sat, 3 Oct 2026.
 
-KALT is a music venue in Strasbourg listed on soundcheck. 13 upcoming gigs, with line-ups including Adiel, AISHA, Alarico and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
+KALT is a music venue in Strasbourg listed on soundcheck. 12 upcoming gigs, with line-ups including Adiel, AISHA, Alarico and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Daniel Avery & Massimiliano Pagliara | Daniel Avery, Massimiliano Pagliara |
 | Sat, 3 Oct 2026 | X-Club | Dimë, Perruche, STU (FR), X CLUB. |
 | Sat, 10 Oct 2026 | FLIRT: Alarico, Iman Janes & KALTBLUME | Alarico, Iman Janes, KALTBLUME |
 | Sat, 17 Oct 2026 | Juan Atkins  | Juan Atkins, Rachel Noon, STU (FR), Zhar |
@@ -18,6 +17,7 @@ KALT is a music venue in Strasbourg listed on soundcheck. 13 upcoming gigs, with
 | Sat, 14 Nov 2026 | EMILIJA & Two Dots | EMILIJA, Two Dots (FR) |
 | Sat, 21 Nov 2026 | FVTVR: Rene Wise, Eman, Alex Kassian, Full Sentimental | Alex Kassian, Chill (FR), EMAN (FR), Full Sentimental, Rene Wise |
 | Sat, 28 Nov 2026 | AISHA | AISHA |
+| Sat, 5 Dec 2026 | Mac Declos (all night long) | Mac Declos |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # Carl Stone
 
-Carl Stone is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+Carl Stone is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
 Carl Stone is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Denver and Kyoto and 10 more. Often billed alongside Crystallmess, Laraaji and Robert Turman. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri 25 Sept.
 
@@ -9,7 +9,6 @@ Carl Stone is an experimental and ambient artist based in United States of Ameri
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | TBA - Multiple Historic Venues - Manhattan & Brooklyn | New York City |
-| Sat, 26 Sept 2026 | St. Bartholomew's Church | New York City |
 | Wed, 14 Oct 2026 | Glob | Denver |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 

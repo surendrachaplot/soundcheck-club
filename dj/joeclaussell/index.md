@@ -1,14 +1,13 @@
 # Joe Claussell
 
-Joe Claussell is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Karmakoma, Belgrade on Sat, 26 Sept 2026.
+Joe Claussell is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Longboat Hall, Toronto on Sun, 18 Oct 2026.
 
-Joe Claussell is a house and deep house artist based in United States of America, tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside Danny Krivit, Francois K and DJ Tennis. Next up: Karmakoma, Belgrade on Sat 26 Sept.
+Joe Claussell is a house and deep house artist based in United States of America, tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside Danny Krivit, Francois K and DJ Tennis. Next up: Longboat Hall, Toronto on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Karmakoma | Belgrade |
 | Sun, 18 Oct 2026 | Longboat Hall | Toronto |
 | Sat, 24 Oct 2026 | Cosmic Arts | New York City |
 | Thu, 12 Nov 2026 | essaim | Paris |

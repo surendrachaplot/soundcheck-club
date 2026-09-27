@@ -1,14 +1,13 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 18 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Soundmate meets RRR" on Sat, 26 Sept 2026.
+La Terrrazza is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Soundset Sessions with NewTone" on Thu, 1 Oct 2026.
 
-La Terrrazza is a music venue in Barcelona listed on soundcheck. 18 upcoming gigs, with line-ups including Alvaro Medina, Alvva, Baldman and bernie soundmate and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
+La Terrrazza is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including Alvaro Medina, Baldman, Brieela and Certain People and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Soundmate meets RRR | Alvva, RONI, Vandi (ES), bernie soundmate |
 | Thu, 1 Oct 2026 | Soundset Sessions with NewTone | CLANDESTINE (2), NewTone, REGOR_ |
 | Fri, 2 Oct 2026 | Tresydos by Mari.te | John Tejada, Jorge Escribano, Mari.te |
 | Sat, 3 Oct 2026 | Jackies Open Air Daytime w/ Jayda G | GIVIO, Jayda G, Piem, The Checkup |
@@ -18,6 +17,7 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 18 upcoming gig
 | Fri, 9 Oct 2026 | La Terrrazza Closing Night 01 x Chico Blanco | Chico Blanco |
 | Sat, 10 Oct 2026 | Jackies Open Air Daytime - Kerri Chandler (Open To Close) | Kerri Chandler |
 | Sat, 10 Oct 2026 | La Terrrazza Closing Night 02 x Courtesy | Courtesy |
+| Sun, 11 Oct 2026 | La Terrrazza Closing Night 03 x Sofia Kourtesis | Sofia Kourtesis |
 
 ## Address
 

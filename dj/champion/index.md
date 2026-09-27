@@ -1,14 +1,13 @@
 # Champion
 
-Champion is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Warehouse, Leeds on Sat, 26 Sept 2026.
+Champion is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-Champion is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Barcelona and Brighton and 17 more. Often billed alongside Oppidan, Bakey and MPH. Next up: The Warehouse, Leeds on Sat 26 Sept.
+Champion is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Barcelona and Brighton and 17 more. Often billed alongside Oppidan, Bakey and MPH. Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | The Warehouse | Leeds |
 | Sat, 24 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |

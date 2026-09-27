@@ -1,14 +1,13 @@
 # DJ EZ
 
-DJ EZ is a Garage and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hï Ibiza, Ibiza on Sat, 26 Sept 2026.
+DJ EZ is a Garage and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at NX Newcastle, Newcastle on Fri, 2 Oct 2026.
 
-DJ EZ is a garage and house artist based in United Kingdom, tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 31 more. Often billed alongside Danny Howard, Sonny Fodera and Benny Rodrigues. Next up: Hï Ibiza, Ibiza on Sat 26 Sept.
+DJ EZ is a garage and house artist based in United Kingdom, tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 31 more. Often billed alongside Danny Howard, Sonny Fodera and Benny Rodrigues. Next up: NX Newcastle, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | NX Newcastle | Newcastle |
 | Fri, 2 Oct 2026 | NX Newcastle | Newcastle |
 | Sat, 3 Oct 2026 | Mint XL | Leeds |
@@ -20,6 +19,7 @@ DJ EZ is a garage and house artist based in United Kingdom, tracked on soundchec
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
+| Sat, 31 Oct 2026 | Gaswrx Birmingham | London |
 
 ## Recently played
 

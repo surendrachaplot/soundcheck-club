@@ -1,14 +1,13 @@
 # radd
 
-radd is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Razzmatazz, Barcelona on Sat, 26 Sept 2026.
+radd is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
 
-radd is a techno and house artist based in Spain, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside CESTEK, Reptile (ES) and NDSTPS. Next up: Razzmatazz, Barcelona on Sat 26 Sept.
+radd is a techno and house artist based in Spain, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside CESTEK, Reptile (ES) and NDSTPS. Next up: Village Underground Barcelona, Barcelona on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Razzmatazz | Barcelona |
 | Sat, 31 Oct 2026 | Village Underground Barcelona | Barcelona |
 
 ## Recently played

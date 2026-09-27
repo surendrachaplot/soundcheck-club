@@ -1,14 +1,13 @@
 # Sandrien
 
-Sandrien is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Razzmatazz, Barcelona on Sat, 26 Sept 2026.
+Sandrien is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bike Jesus, Prague on Fri, 2 Oct 2026.
 
-Sandrien is a techno and house artist based in Netherlands, tracked on soundcheck, with 172 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside JakoJako, DVS1 and Fafi Abdel Nour. Next up: Razzmatazz, Barcelona on Sat 26 Sept.
+Sandrien is a techno and house artist based in Netherlands, tracked on soundcheck, with 172 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside JakoJako, DVS1 and Fafi Abdel Nour. Next up: Bike Jesus, Prague on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Razzmatazz | Barcelona |
 | Fri, 2 Oct 2026 | Bike Jesus | Prague |
 | Fri, 9 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 10 Oct 2026 | Concept Haus | Manchester |

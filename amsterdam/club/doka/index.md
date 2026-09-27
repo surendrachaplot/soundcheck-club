@@ -1,14 +1,13 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Doka Studio with DJ Tracksuit - Nathalie Seres" on Sat, 26 Sept 2026.
+Doka is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Steppin' Into Tomorrow x Doka Studio with mo w/rights - Lucas Benjamin" on Sun, 27 Sept 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including 36framez, Antal, Anz and Ays (NL) and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including 36framez, Antal, Anz and Ays (NL) and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Doka Studio with DJ Tracksuit - Nathalie Seres | DJ Tracksuit, Nathalie Seres |
 | Sun, 27 Sept 2026 | Steppin' Into Tomorrow x Doka Studio with mo w/rights - Lucas Benjamin | Lucas Benjamin, Mo Wrights |
 | Fri, 2 Oct 2026 | Doka Studio with Orpheu The Wizard - BSS | BSS-AMS, Orpheu The Wizard |
 | Sat, 3 Oct 2026 | Unsilenced x Doka Studio with Petre Inspirescu (All night long) | Petre Inspirescu |
@@ -18,6 +17,7 @@ Doka is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with 
 | Sat, 17 Oct 2026 | Doka Studio with Doppelgang - DIEDE | DIEDE, Doppelgang |
 | Wed, 21 Oct 2026 | Live Coding Sessions x Doka Culture [ADE] | Jobi, MYNA |
 | Thu, 22 Oct 2026 | United Identities x Doka Studio [ADE] | Anz, CARISTA, Conrad Soundsystem, LE KACANG, Scalio |
+| Fri, 23 Oct 2026 | Cooking with Palms Trax x Doka Studio [ADE] (SOLD OUT) | Palms Trax |
 
 ## Address
 

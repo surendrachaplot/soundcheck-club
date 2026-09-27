@@ -1,14 +1,13 @@
 # Kampire
 
-Kampire is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
+Kampire is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Alte Feuerwache THF, Berlin on Sat, 3 Oct 2026.
 
-Kampire is a bass and house artist based in Uganda, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside DJ Travella, De Schuurman and Jay Mitta. Next up: La Fabriek, Brussels on Fri 25 Sept.
+Kampire is a bass and house artist based in Uganda, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside DJ Travella, De Schuurman and Jay Mitta. Next up: Alte Feuerwache THF, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | La Fabriek | Brussels |
 | Sat, 3 Oct 2026 | Alte Feuerwache THF | Berlin |
 
 ## Recently played

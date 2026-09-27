@@ -1,14 +1,13 @@
 # Zouzibabe
 
-Zouzibabe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Macadam, Nantes on Sat, 26 Sept 2026.
+Zouzibabe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TRAUM, Antwerp on Fri, 16 Oct 2026.
 
-Zouzibabe is a house and techno artist based in Belgium, tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 3 more. Often billed alongside Fais Le Beau, Sara Dziri and Melissa Juice. Next up: Macadam, Nantes on Sat 26 Sept.
+Zouzibabe is a house and techno artist based in Belgium, tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 3 more. Often billed alongside Fais Le Beau, Sara Dziri and Melissa Juice. Next up: TRAUM, Antwerp on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Macadam | Nantes |
 | Fri, 16 Oct 2026 | TRAUM | Antwerp |
 | Sat, 14 Nov 2026 | Fuse | Brussels |
 

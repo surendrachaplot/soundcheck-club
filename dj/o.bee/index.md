@@ -1,14 +1,13 @@
 # O.BEE
 
-O.BEE is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
+O.BEE is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fvtvr, Paris on Sat, 3 Oct 2026.
 
-O.BEE is a house and techno artist based in Turkey, tracked on soundcheck, with 214 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 29 more. Often billed alongside Tomas Station, Jonny Rock and Konstantin. Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
+O.BEE is a house and techno artist based in Turkey, tracked on soundcheck, with 214 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 29 more. Often billed alongside Tomas Station, Jonny Rock and Konstantin. Next up: Fvtvr, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Haus der Visionäre | Berlin |
 | Sat, 3 Oct 2026 | Fvtvr | Paris |
 | Sat, 17 Oct 2026 | fabric | London |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |

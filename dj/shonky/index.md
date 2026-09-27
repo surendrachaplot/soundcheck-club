@@ -1,6 +1,6 @@
 # Shonky
 
-Shonky is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Nowadays, New York City on Sat, 26 Sept 2026.
+Shonky is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Nowadays, New York City on Sat, 26 Sept 2026.
 
 Shonky is a house and tech house artist based in France, tracked on soundcheck, with 226 sets logged across Amsterdam, Antwerp, Athens and Austin and 59 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Nowadays, New York City on Sat 26 Sept.
 
@@ -9,7 +9,6 @@ Shonky is a house and tech house artist based in France, tracked on soundcheck, 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Nowadays | New York City |
-| Sat, 26 Sept 2026 | Marble Bar | Detroit |
 | Sat, 3 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 9 Oct 2026 | DURO | Milan |
 | Fri, 9 Oct 2026 | DURO | Milan |

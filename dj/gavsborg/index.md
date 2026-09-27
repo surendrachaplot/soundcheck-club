@@ -1,18 +1,18 @@
 # Gavsborg
 
-Gavsborg is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
+Gavsborg is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
 
-Gavsborg is a dub and dancehall artist based in Jamaica, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Bristol and Brussels and 9 more. Often billed alongside MBODJ, Baba Sy and Opoku. Next up: M.O.T, London on Sat 26 Sept.
+Gavsborg is a dub and dancehall artist based in Jamaica, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Bristol and Brussels and 9 more. Often billed alongside MBODJ, Baba Sy and Opoku. Next up: Ormside Projects, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 
 ## Recently played
 
-- M.O.T, London — Sat, 26 Sept 2026
+- Ormside Projects, London — Sat, 26 Sept 2026
 - Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Trans-Pecos, New York City — Thu, 17 Sept 2026
 - Nowadays, New York City — Sat, 15 Aug 2026

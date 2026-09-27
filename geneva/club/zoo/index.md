@@ -1,14 +1,13 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "ALWARDA: Kollision • Melato • Render • Rōse" on Sat, 26 Sept 2026.
+Zoo is a music venue in Geneva with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Local Headz: Djamzer • Nathan Solo (live) • Toubi [VJ Vizu.eli]" on Fri, 2 Oct 2026.
 
-Zoo is a music venue in Geneva listed on soundcheck. 9 upcoming gigs, with line-ups including Andy Martin, A Strange Wedding, Channel One Sound and Charlie P and 2 more. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
+Zoo is a music venue in Geneva listed on soundcheck. 8 upcoming gigs, with line-ups including Andy Martin, A Strange Wedding, Channel One Sound and Charlie P and 2 more. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | ALWARDA: Kollision • Melato • Render • Rōse | Kollision |
 | Fri, 2 Oct 2026 | Local Headz: Djamzer • Nathan Solo (live) • Toubi [VJ Vizu.eli] | Djamzer, Nathan Solo, Toubi |
 | Sat, 3 Oct 2026 | OBS'SESSION: A2d'tens vs 5CRO vs Midi Noise • Arkanalog • Korus & Dantel • Savage Nihilism |  |
 | Fri, 9 Oct 2026 | ETHEREAL SUB: Nyokl • Braises de Velours • Droperz [VJ Babyblazer] |  |

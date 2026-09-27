@@ -1,14 +1,13 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Wyldhearts at 3 Clubs 1 Rave" on Sat, 26 Sept 2026.
+Artheater is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "NEON DREAMS COLOGNE" on Fri, 2 Oct 2026.
 
-Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with line-ups including 909 RACING TEAM, Amøn, Atzendent and BabaBass3000 and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
+Artheater is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with line-ups including 909 RACING TEAM, Amøn, Blame The Mono and DICE and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Wyldhearts at 3 Clubs 1 Rave | Atzendent, BabaBass3000, Baumeister98, Ferrand, Flex on Trax, HugoBass303, OSKAMAXX, Rundfunk, SUITSIDE |
 | Fri, 2 Oct 2026 | NEON DREAMS COLOGNE | Amøn, Blame The Mono, DICE, DJ Achim Feuervogel, DJ Nicelife, LSG (3), NIA (4), SMVGGLERS |
 | Sat, 17 Oct 2026 | HiTMiLØW - All Night Long 6 Decks | HiTMiLØW |
 | Sat, 24 Oct 2026 | Artheater with A.D.H.S. (Drumcode) & Lewis Fautzi (PoleGroup / Faut Section) // Ehrenfeld XL | Gilles Bock, Kos:mo, Lewis Fautzi, Steven Shade |

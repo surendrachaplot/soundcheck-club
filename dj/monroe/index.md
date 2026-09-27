@@ -1,14 +1,13 @@
 # m.O.N.R.O.E.
 
-m.O.N.R.O.E. is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Marble Bar, Detroit on Sat, 26 Sept 2026.
+m.O.N.R.O.E. is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Los Angeles on Sat, 3 Oct 2026.
 
-m.O.N.R.O.E. is a house and minimal artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Chicago and Detroit and 6 more. Often billed alongside Andrea Ghita, Jorissen and Kellie Allen. Next up: Marble Bar, Detroit on Sat 26 Sept.
+m.O.N.R.O.E. is a house and minimal artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Chicago and Detroit and 6 more. Often billed alongside Andrea Ghita, Jorissen and Kellie Allen. Next up: TBA, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Marble Bar | Detroit |
 | Sat, 3 Oct 2026 | TBA | Los Angeles |
 | Sat, 7 Nov 2026 | H0L0 | New York City |
 

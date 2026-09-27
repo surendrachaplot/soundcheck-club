@@ -1,14 +1,13 @@
 # Niklas Wandt
 
-Niklas Wandt is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sameheads, Berlin on Sat, 26 Sept 2026.
+Niklas Wandt is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at OXI, Berlin on Fri, 16 Oct 2026.
 
-Niklas Wandt is a house and trance artist based in Germany, tracked on soundcheck, with 56 sets logged across Amsterdam, Basel, Belgrade and Berlin and 11 more. Often billed alongside Neuzeitliche Bodenbeläge, Olsvangèr and Retromigration. Next up: Sameheads, Berlin on Sat 26 Sept.
+Niklas Wandt is a house and trance artist based in Germany, tracked on soundcheck, with 56 sets logged across Amsterdam, Basel, Belgrade and Berlin and 11 more. Often billed alongside Neuzeitliche Bodenbeläge, Olsvangèr and Retromigration. Next up: OXI, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Sameheads | Berlin |
 | Fri, 16 Oct 2026 | OXI | Berlin |
 | Fri, 23 Oct 2026 | Renate | Berlin |
 

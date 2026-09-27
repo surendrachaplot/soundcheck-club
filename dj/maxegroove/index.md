@@ -1,14 +1,13 @@
 # Max E Groove
 
-Max E Groove is a House and Club artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Westminster Pier, London on Sat, 26 Sept 2026.
+Max E Groove is a House and Club artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Crown Pier, London on Thu, 29 Oct 2026.
 
-Max E Groove is a house and club artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London. Often billed alongside NYCity Soundz, Scot Mochan and Mr Fresh Official. Next up: Westminster Pier, London on Sat 26 Sept.
+Max E Groove is a house and club artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London. Often billed alongside NYCity Soundz, Scot Mochan and Mr Fresh Official. Next up: Crown Pier, London on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Westminster Pier | London |
 | Thu, 29 Oct 2026 | Crown Pier | London |
 | Thu, 29 Oct 2026 | Crown Pier | London |
 | Thu, 29 Oct 2026 | E1 | London |

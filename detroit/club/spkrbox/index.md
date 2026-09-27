@@ -1,15 +1,14 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Detroit Grit - Terrence Dixon " on Sat, 26 Sept 2026.
+Spkrbox is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Detroit Grit - Terrence Dixon " on Sat, 26 Sept 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including A. Garcia, Brent Shay, Cody Hammer and Curmudgeon and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including A. Garcia, Brent Shay, Cody Hammer and Dj Disc and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Detroit Grit - Terrence Dixon  | Brent Shay, Cody Hammer, Terrence Dixon, madeera |
-| Sat, 26 Sept 2026 | House Coffee | Curmudgeon, Jorissen |
 | Sun, 27 Sept 2026 | Foggy Sunday | Dru Ruiz |
 | Sun, 27 Sept 2026 | minimal detroit appreciation BBQ | Brent Shay, Cody Hammer, Dj Disc, Human Robot, madeera |
 | Wed, 7 Oct 2026 | Detroit Grit | A. Garcia, Brent Shay, Keith Tucker |

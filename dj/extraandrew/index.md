@@ -1,14 +1,13 @@
 # Extra Andrew
 
-Extra Andrew is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Zoko Collective, Miami on Sat, 26 Sept 2026.
+Extra Andrew is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Extra Andrew is a house and balearic artist based in United States of America, tracked on soundcheck, with 25 sets logged across Austin, Miami and New York City. Often billed alongside Gee Dee, Earth Beat and Mutant Pete. Next up: Zoko Collective, Miami on Sat 26 Sept.
+Extra Andrew is a house and balearic artist based in United States of America, tracked on soundcheck, with 25 sets logged across Austin, Miami and New York City. Often billed alongside Gee Dee, Earth Beat and Mutant Pete. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Zoko Collective | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played

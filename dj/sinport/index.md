@@ -1,14 +1,13 @@
 # Sin:port
 
-Sin:port is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 26 Sept 2026.
+Sin:port is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
-Sin:port is a techno and house artist based in Germany, tracked on soundcheck, with 132 sets logged across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: Bahnwärter Thiel, Munich on Sat 26 Sept.
+Sin:port is a techno and house artist based in Germany, tracked on soundcheck, with 132 sets logged across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Bahnwärter Thiel | Munich |
 | Fri, 16 Oct 2026 | Renate | Berlin |
 | Fri, 23 Oct 2026 | TBA - Secret Location | Berlin |
 | Sat, 14 Nov 2026 | Odonien | Cologne |

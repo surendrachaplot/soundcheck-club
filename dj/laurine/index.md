@@ -1,14 +1,13 @@
 # Laurine
 
-Laurine is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Macadam, Nantes on Sat, 26 Sept 2026.
+Laurine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hoppetosse, Berlin on Sat, 7 Nov 2026.
 
-Laurine is a house and techno artist based in Germany, tracked on soundcheck, with 119 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 26 more. Often billed alongside Cecilio, S.Moreira and Jorge Escribano. Next up: Macadam, Nantes on Sat 26 Sept.
+Laurine is a house and techno artist based in Germany, tracked on soundcheck, with 119 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 26 more. Often billed alongside Cecilio, S.Moreira and Jorge Escribano. Next up: Hoppetosse, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Macadam | Nantes |
 | Sat, 7 Nov 2026 | Hoppetosse | Berlin |
 | Thu, 31 Dec 2026 | Cadavra | Madrid |
 

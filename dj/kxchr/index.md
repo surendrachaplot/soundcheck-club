@@ -1,14 +1,13 @@
 # KX CHR
 
-KX CHR is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+KX CHR is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Mia Mao, Paris on Sat, 26 Sept 2026.
 
-KX CHR is a techno and industrial artist based in France, tracked on soundcheck, with 46 sets logged across Ankara, Athens, Belfast and Berlin and 27 more. Often billed alongside OMAKS, Alex Farell and Nik Kastel. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
+KX CHR is a techno and industrial artist based in France, tracked on soundcheck, with 46 sets logged across Ankara, Athens, Belfast and Berlin and 27 more. Often billed alongside OMAKS, Alex Farell and Nik Kastel. Next up: Mia Mao, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Cabaret  Aléatoire | Marseille |
 | Sat, 26 Sept 2026 | Mia Mao | Paris |
 | Sat, 3 Oct 2026 | TBA | Ankara |
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |

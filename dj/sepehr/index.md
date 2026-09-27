@@ -1,14 +1,13 @@
 # Sepehr
 
-Sepehr is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 26 Sept 2026.
+Sepehr is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 2 Oct 2026.
 
-Sepehr is a techno and house artist based in United States of America, tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Elena Colombi, Kia (AU) and Objekt. Next up: Cabaret Sauvage, Paris on Sat 26 Sept.
+Sepehr is a techno and house artist based in United States of America, tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Elena Colombi, Kia (AU) and Objekt. Next up: Ankali & Planeta Za, Prague on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Cabaret Sauvage | Paris |
 | Fri, 2 Oct 2026 | Ankali & Planeta Za | Prague |
 | Sat, 24 Oct 2026 | Open Ground | Wuppertal |
 | Fri, 6 Nov 2026 | The Loft | Manchester |

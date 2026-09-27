@@ -1,14 +1,13 @@
 # Aneri
 
-Aneri is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 26 Sept 2026.
+Aneri is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Club Drugstore, Serbia on Fri, 30 Oct 2026.
 
-Aneri is a techno artist based in Serbia, tracked on soundcheck, with 19 sets logged across Belgrade and Serbia. Often billed alongside Mamavitae, Asarri and Essio. Next up: Drugstore Beograd, Belgrade on Sat 26 Sept.
+Aneri is a techno artist based in Serbia, tracked on soundcheck, with 19 sets logged across Belgrade and Serbia. Often billed alongside Mamavitae, Asarri and Essio. Next up: Club Drugstore, Serbia on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Drugstore Beograd | Belgrade |
 | Fri, 30 Oct 2026 | Club Drugstore | Serbia |
 
 ## Recently played

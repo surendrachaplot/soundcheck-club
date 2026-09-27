@@ -1,14 +1,13 @@
 # Amelia Holt
 
-Amelia Holt is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Mansions, New York City on Sat, 26 Sept 2026.
+Amelia Holt is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Outdoor Gathering, New York City on Sat, 10 Oct 2026.
 
-Amelia Holt is a house and techno artist based in Mexico, tracked on soundcheck, with 204 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: Mansions, New York City on Sat 26 Sept.
+Amelia Holt is a house and techno artist based in Mexico, tracked on soundcheck, with 204 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: TBA - Outdoor Gathering, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Mansions | New York City |
 | Sat, 10 Oct 2026 | TBA - Outdoor Gathering | New York City |
 | Fri, 16 Oct 2026 | feedbk | New York City |
 | Sat, 17 Oct 2026 | H0L0 | New York City |

@@ -1,14 +1,13 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at [UNVRS], Ibiza on Sat, 26 Sept 2026.
+Joris Voorn is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Chocolate Factory, New York City on Fri, 2 Oct 2026.
 
-Joris Voorn is a techno and house artist based in Netherlands, tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 49 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: [UNVRS], Ibiza on Sat 26 Sept.
+Joris Voorn is a techno and house artist based in Netherlands, tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 49 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: The Chocolate Factory, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 2 Oct 2026 | The Chocolate Factory | New York City |
 | Fri, 23 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 24 Oct 2026 | Sugarfactory | Amsterdam |

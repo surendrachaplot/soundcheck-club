@@ -1,14 +1,13 @@
 # JAZ IMSKY
 
-JAZ IMSKY is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Razzmatazz, Barcelona on Sat, 26 Sept 2026.
+JAZ IMSKY is a Dubstep and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Gaffe, London on Sat, 10 Oct 2026.
 
-JAZ IMSKY is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Barcelona, Brighton, Bristol and London and 3 more. Often billed alongside SKALAH (UK), Flava D and Plastician. Next up: Razzmatazz, Barcelona on Sat 26 Sept.
+JAZ IMSKY is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Barcelona, Brighton, Bristol and London and 3 more. Often billed alongside SKALAH (UK), Flava D and Plastician. Next up: Gaffe, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Razzmatazz | Barcelona |
 | Sat, 10 Oct 2026 | Gaffe | London |
 | Sat, 17 Oct 2026 | The Loco Klub | Bristol |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |

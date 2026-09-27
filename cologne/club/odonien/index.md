@@ -1,14 +1,13 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Lichtblick in Odonien - 3 Clubs 1 Rave" on Sat, 26 Sept 2026.
+Odonien is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "#MITTWOCHENENDE in Odonien" on Wed, 30 Sept 2026.
 
-Odonien is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including Aio, Avocado, Belasto and Chris Schwarzwälder and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
+Odonien is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with line-ups including Aio, Avocado, Belasto and Chris Schwarzwälder and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Lichtblick in Odonien - 3 Clubs 1 Rave |  |
 | Wed, 30 Sept 2026 | #MITTWOCHENENDE in Odonien | Enaly, Jaelo, Leenberger, Shandy |
 | Sat, 3 Oct 2026 | Odonien End Of Summer Rave |  |
 | Fri, 9 Oct 2026 | EhrenKlub in Odonien #30 mit RAGETRAIN, JO3Y3T uvm | Belasto, DJ WIFI, Danilo Filipe, Kamäleon |

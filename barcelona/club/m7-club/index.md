@@ -1,16 +1,14 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "JULIO POSADAS 'LA HISTORIA'" on Sat, 26 Sept 2026.
+M7 Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "JULIO POSADAS 'LA HISTORIA'" on Sat, 26 Sept 2026.
 
-M7 Club is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including Adviro, ArceX, BreakStyle and DAISY and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
+M7 Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Adviro, ArceX, BreakStyle and DAISY and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | JULIO POSADAS 'LA HISTORIA' |  |
-| Sat, 26 Sept 2026 | REMEMBER 92/96 DJ Ripley, Dj Titi & Dj Juank | DJ Ripley |
-| Sat, 26 Sept 2026 | M7 presenta: ArceX, Mëss & Marc Fx | ArceX |
 | Sun, 27 Sept 2026 | HARD BOUNCE [Marc FX & Adviro] | Adviro |
 | Thu, 1 Oct 2026 | HARD BOUNCE [Güti & Marc Fx] |  |
 | Fri, 2 Oct 2026 | Bipolar Disorder x Sociedad Groove | DD.MATTS, GLIA, H-R-Z, SYM, The Chronics |
@@ -18,6 +16,8 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, wi
 | Sat, 3 Oct 2026 | M7 presenta [Up Room] Xavi BCN, BreakStyle, Javi Guerrero [Main Room] Adviro, Kova & Vicks | Adviro, BreakStyle, Vicks (ES), Xavi BCN |
 | Sun, 4 Oct 2026 | HARD BOUNCE [Adviro & Marc FX] | Adviro |
 | Sat, 17 Oct 2026 | ALBERT JANE b2b HECTOR ENGLI |  |
+| Sat, 31 Oct 2026 | SOUVENIR Halloween [Iordee, Taito Tikaro, Albert Jane, Nandisko & Joan Ibañez] | Nandisko (2) |
+| Thu, 12 Nov 2026 | ANIVERSARIO M7 CLUB (4Dias_12/13/14/15 NOV 26) | ArceX, BreakStyle, DAISY, Eva Toya, SuttleK, Xavi BCN |
 
 ## Address
 

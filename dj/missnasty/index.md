@@ -1,14 +1,13 @@
 # Miss Nasty
 
-Miss Nasty is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at PRST, Vienna on Sat, 26 Sept 2026.
+Miss Nasty is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at KABUL à GoGo, Utrecht on Fri, 9 Oct 2026.
 
-Miss Nasty is a disco and house artist based in Austria, tracked on soundcheck, with 5 sets logged across Amsterdam, Munich, Utrecht and Vienna. Often billed alongside Kapote, Arpy Brown and Sam Ruffillo. Next up: PRST, Vienna on Sat 26 Sept.
+Miss Nasty is a disco and house artist based in Austria, tracked on soundcheck, with 5 sets logged across Amsterdam, Munich, Utrecht and Vienna. Often billed alongside Kapote, Arpy Brown and Sam Ruffillo. Next up: KABUL à GoGo, Utrecht on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | PRST | Vienna |
 | Fri, 9 Oct 2026 | KABUL à GoGo | Utrecht |
 | Sat, 24 Oct 2026 | Pacific Amsterdam | Amsterdam |
 

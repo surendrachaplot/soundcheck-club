@@ -1,14 +1,13 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 25 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Archie Hamilton, DXNBY, Jhobei" on Sat, 26 Sept 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 24 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Alex Dienaar b2b Nathan Alzon, Ellia Jaya" on Fri, 2 Oct 2026.
 
-Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 25 upcoming gigs, with line-ups including 36framez, A'DAM, A For Alpha and Ajuma and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
+Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 24 upcoming gigs, with line-ups including 36framez, A'DAM, A For Alpha and Ajuma and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Archie Hamilton, DXNBY, Jhobei | A For Alpha, Archie Hamilton, DXNBY, Elvi (1), Jhobei, Kim April |
 | Fri, 2 Oct 2026 | Alex Dienaar b2b Nathan Alzon, Ellia Jaya | Ellia Jaya, Joris van Gelder, Nathan Alzon, Shanne, Wodda |
 | Sat, 3 Oct 2026 | Apontow Akyi, Joey Daniel, Rooléh | Joey Daniel, Rooléh |
 | Fri, 9 Oct 2026 | Doppelgang Birthday Session | 36framez, Bennet (DE), Budino, Doppelgang, Sandrien |
@@ -18,6 +17,7 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 25 upcomin
 | Wed, 21 Oct 2026 | Modern Funktion x Shelter | Benji King, Job de Jong, Jude Lenihan, Laidlaw, Locklead, Marsolo, Mya (1), Phill de Janeiro, Tom Da Silva, Truly Madly, bullet tooth, j:me |
 | Thu, 22 Oct 2026 | PIV ADE - Shelter Amsterdam | Anil Aras, Cinthie, Daughter In Law, Julian Anthony, Piem, Ryan Elliott, SDK (IT) |
 | Thu, 22 Oct 2026 | 20 years of The Warehouse Project | Ewan McVicar, Luke Alessi, Merel Helderman, PHIA, RIRIA, Ryota (JP), Sam Alfred, Special Request |
+| Fri, 23 Oct 2026 | Obskür presents: The System | Dusky, Elliot Schooling, Emma 2000, Jamie Fielding, Liam Palmer, Obskur |
 
 ## Address
 

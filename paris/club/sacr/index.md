@@ -1,14 +1,13 @@
 # Sacré
 
-Sacré is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Sacré présente: BRIDGE & Nightchou" on Sat, 26 Sept 2026.
+Sacré is a music venue in Paris with 16 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Sacré présente: Italo Deviance & Funky Express" on Fri, 2 Oct 2026.
 
-Sacré is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with line-ups including Axelle Maga, Baccus, Bag Raiders and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
+Sacré is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with line-ups including Axelle Maga, Baccus, Bag Raiders and Bubs and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Sacré présente: BRIDGE & Nightchou | Bridge (NY), Nightchou |
 | Fri, 2 Oct 2026 | Sacré présente: Italo Deviance & Funky Express | Italo Deviance |
 | Sat, 3 Oct 2026 | Sacré présente: Bag Raiders & Dessins Nuls Animés | Bag Raiders |
 | Fri, 9 Oct 2026 | Sacré présente: 49th & the Main + Contrecoeur | Contrecoeur |
@@ -18,6 +17,7 @@ Sacré is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with li
 | Fri, 23 Oct 2026 | Sacré présente: Ludmila Di Pasquale | Ludmila Di Pasquale |
 | Sat, 24 Oct 2026 | Sacré présente: Pastel & Axelle Maga | Axelle Maga |
 | Fri, 30 Oct 2026 | Sacré présente: Butch & Family Matters | Butch, Family Matters |
+| Sat, 31 Oct 2026 | Halloween Costume Party: Baccus All Night Long | Baccus |
 
 ## Address
 

@@ -1,14 +1,14 @@
 # Jerome Hill
 
-Jerome Hill is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
+Jerome Hill is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
 
-Jerome Hill is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 123 sets logged across Bangkok, Barcelona, Belfast and Berlin and 25 more. Often billed alongside Louise Plus One, Hughesee and Equinox (UK). Next up: M.O.T, London on Sat 26 Sept.
+Jerome Hill is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 123 sets logged across Bangkok, Barcelona, Belfast and Berlin and 25 more. Often billed alongside Louise Plus One, Hughesee and Equinox (UK). Next up: Ormside Projects, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 | Sat, 3 Oct 2026 | M.O.T | London |
 | Sat, 24 Oct 2026 | Distillery | Leipzig |
 | Fri, 30 Oct 2026 | Lost Horizon | Bristol |
@@ -16,7 +16,7 @@ Jerome Hill is a techno and acid artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- M.O.T, London — Sat, 26 Sept 2026
+- Ormside Projects, London — Sat, 26 Sept 2026
 - M.O.T, London — Sat, 12 Sept 2026
 - Spkrbox, Detroit — Fri, 4 Sept 2026
 - Colour Factory, London — Sun, 16 Aug 2026
