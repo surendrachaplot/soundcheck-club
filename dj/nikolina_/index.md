@@ -1,14 +1,15 @@
 # NIKOLINA_
 
-NIKOLINA_ is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
+NIKOLINA_ is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
 
-NIKOLINA_ is a techno and house artist based in Germany, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Brussels and Budapest and 23 more. Often billed alongside A.N.I., Azyr and DJ Sonnenbrand. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 17 Oct.
+NIKOLINA_ is a techno and house artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Brussels and Budapest and 24 more. Often billed alongside A.N.I., 6EJOU and ALT8. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | E-Werk Kulturzentrum | Nürnberg |
+| Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Sat, 21 Nov 2026 | Groove | Buenos Aires |
 | Fri, 27 Nov 2026 | Smolna | Warsaw |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
@@ -27,6 +28,6 @@ NIKOLINA_ is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Shares bills with
 
-A.N.I., Azyr, DJ Sonnenbrand
+A.N.I., 6EJOU, ALT8
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina_/)*

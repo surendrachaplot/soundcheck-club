@@ -1,14 +1,15 @@
 # Andre Power
 
-Andre Power is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Club Vinyl, Denver on Fri, 9 Oct 2026.
+Andre Power is a House and R&B artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Club Vinyl, Denver on Fri, 9 Oct 2026.
 
-Andre Power is a house and r&b artist based in United States of America, tracked on soundcheck, with 44 sets logged across Berlin, Birmingham, Chicago and Cologne and 12 more. Often billed alongside Bambii, DOUG and FS Green. Next up: Club Vinyl, Denver on Fri 9 Oct.
+Andre Power is a house and r&b artist based in United States of America, tracked on soundcheck, with 45 sets logged across Berlin, Birmingham, Chicago and Cologne and 13 more. Often billed alongside Bambii, DOUG and FS Green. Next up: Club Vinyl, Denver on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Club Vinyl | Denver |
+| Fri, 13 Nov 2026 | Woldenberg Riverfront Park | New-orleans |
 
 ## Recently played
 

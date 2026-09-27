@@ -1,8 +1,8 @@
 # Prospa
 
-Prospa is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Prospa is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-Prospa is a house and techno artist based in United Kingdom, tracked on soundcheck, with 181 sets logged across Amsterdam, Austin, Barcelona and Belfast and 47 more. Often billed alongside Seth Troxler, Josh Baker and Sossa. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+Prospa is a house and techno artist based in United Kingdom, tracked on soundcheck, with 182 sets logged across Amsterdam, Austin, Bali and Barcelona and 48 more. Often billed alongside Seth Troxler, Josh Baker and Sossa. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Prospa is a house and techno artist based in United Kingdom, tracked on soundche
 | Fri, 30 Oct 2026 | A.i Warehouse | Washington DC |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Sat, 28 Nov 2026 | TBA | Mexico City |
+| Thu, 31 Dec 2026 | Savaya Bali | Bali |
 
 ## Recently played
 

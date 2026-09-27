@@ -1,14 +1,13 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Golden Record NYC presents Magda B2B Mike Servito, Maara, Bruno Schmidt" on Sat, 26 Sept 2026.
+Green Room NYC is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Golden Record NYC presents Josh Caffé (LIVE), Carlos Souffront, Mike Servito, S4M23" on Fri, 2 Oct 2026.
 
-Green Room NYC is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Armii1n, Auphoria, BEIGE and Bruno Schmidt and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
+Green Room NYC is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Armii1n, Auphoria, BEIGE and Carlos Souffront and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Golden Record NYC presents Magda B2B Mike Servito, Maara, Bruno Schmidt | Bruno Schmidt, Maara, Magda, Mike Servito, Morgan, Scotia |
 | Fri, 2 Oct 2026 | Golden Record NYC presents Josh Caffé (LIVE), Carlos Souffront, Mike Servito, S4M23 | Carlos Souffront, Josh Caffé, Mike Servito, S4M23 |
 | Fri, 2 Oct 2026 | People You May Know: Rich NXT | Auphoria, Jeny Michelle, MANE (IN), RICCI (US), Rich NXT, sanatswrld |
 | Sat, 3 Oct 2026 | POSER | BEIGE, Griffin Maxwell Brooks, Josh Caffé, Josh Steers, Lauren Flax, Sevyn Love |

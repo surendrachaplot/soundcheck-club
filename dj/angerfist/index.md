@@ -1,8 +1,8 @@
 # Angerfist
 
-Angerfist is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Angerfist is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
-Angerfist is a techno and hardcore artist based in Germany, tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Mad Dog, Partyraiser and Trym. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
+Angerfist is a techno and hardcore artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Mad Dog, Partyraiser and Trym. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Angerfist is a techno and hardcore artist based in Germany, tracked on soundchec
 | Fri, 9 Oct 2026 | Sala Urbana | Mexico City |
 | Fri, 23 Oct 2026 | LAV - Lisboa ao Vivo | Lisbon |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
+| Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 

@@ -1,14 +1,13 @@
 # xo.benson
 
-xo.benson is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri, 25 Sept 2026.
+xo.benson is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The First Presbyterian Church of Chicago, Chicago on Sat, 17 Oct 2026.
 
-xo.benson is an electronica and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Chicago. Often billed alongside Swan Drama, Glamour Cadaver and Hameedullah. Next up: TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri 25 Sept.
+xo.benson is an electronica and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Chicago. Often billed alongside Swan Drama, Glamour Cadaver and Hameedullah. Next up: The First Presbyterian Church of Chicago, Chicago on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TBA - LOCATION EMAILED TO TICKETHOLDERS | Chicago |
 | Sat, 17 Oct 2026 | The First Presbyterian Church of Chicago | Chicago |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # DNA. CLUB
 
-DNA. CLUB is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "TOILET SESSION SECOND ANNIVERSARY: BLCK SWAN INVITES" on Sat, 26 Sept 2026.
+DNA. CLUB is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets" on Sun, 27 Sept 2026.
 
-DNA. CLUB is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Friday, BELLAHONEYBB, Blck-Swan and Blossmbae and 2 more. Browse upcoming dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
+DNA. CLUB is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Blossmbae, cell1, Fakhar and INTERNAL FORCES and 2 more. Browse upcoming dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TOILET SESSION SECOND ANNIVERSARY: BLCK SWAN INVITES | Alex Friday, BELLAHONEYBB, Blck-Swan, Claudio Zanon, Conntex, Davide Santoro, Gigi Galante, ITALMEX, LUV.DELUXE, Pablo Espinal |
 | Sun, 27 Sept 2026 | FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets |  |
 | Fri, 2 Oct 2026 | [FREE ENTRY] - MEET ME at KOTTI  | Fakhar, INTERNAL FORCES, MAXIMUS., MEHMOOD, Slimegoat144, cell1 |
 | Sat, 3 Oct 2026 | KTA.MKE - Progressive House on Open Air Terrace and Indoor Club | Silversurfer, Tallah |

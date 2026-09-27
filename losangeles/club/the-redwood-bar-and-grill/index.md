@@ -1,14 +1,13 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 27 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Arcane Grace" on Sat, 26 Sept 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 26 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Kal-El" on Sun, 27 Sept 2026.
 
-The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 27 upcoming gigs. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
+The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 26 upcoming gigs. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Arcane Grace |  |
 | Sun, 27 Sept 2026 | Kal-El |  |
 | Thu, 1 Oct 2026 | All Star Free For All |  |
 | Fri, 2 Oct 2026 | The Snares |  |
@@ -18,6 +17,7 @@ The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 
 | Sun, 4 Oct 2026 | Smokey Lonesome |  |
 | Sun, 4 Oct 2026 | Dead You |  |
 | Thu, 8 Oct 2026 | Hashtronaut |  |
+| Fri, 9 Oct 2026 | Sikeen |  |
 
 ## Address
 

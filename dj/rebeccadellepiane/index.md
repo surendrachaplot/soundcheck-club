@@ -1,14 +1,13 @@
 # Rebecca Delle Piane
 
-Rebecca Delle Piane is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TILLATEC, Amsterdam on Sat, 26 Sept 2026.
+Rebecca Delle Piane is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
 
-Rebecca Delle Piane is a techno and electronica artist based in Italy, tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Freddy K, Ben Sims and SDN. Next up: TILLATEC, Amsterdam on Sat 26 Sept.
+Rebecca Delle Piane is a techno and electronica artist based in Italy, tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Freddy K, Ben Sims and SDN. Next up: RSO.BERLIN, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TILLATEC | Amsterdam |
 | Sat, 3 Oct 2026 | RSO.BERLIN | Berlin |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |

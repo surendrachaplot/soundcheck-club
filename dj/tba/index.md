@@ -1,14 +1,13 @@
 # TBA
 
-TBA is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Maison de Pourtalès, Strasbourg on Sat, 26 Sept 2026.
+TBA is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Electric Ballroom, London on Sat, 10 Oct 2026.
 
-TBA is a techno and house artist based in Georgia, tracked on soundcheck, with 259 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 43 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Maison de Pourtalès, Strasbourg on Sat 26 Sept.
+TBA is a techno and house artist based in Georgia, tracked on soundcheck, with 259 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 43 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Electric Ballroom, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Maison de Pourtalès | Strasbourg |
 | Sat, 10 Oct 2026 | Electric Ballroom | London |
 | Sat, 17 Oct 2026 | Electric Ballroom | London |
 | Fri, 23 Oct 2026 | Bridge 48 | Barcelona |
@@ -20,6 +19,7 @@ TBA is a techno and house artist based in Georgia, tracked on soundcheck, with 2
 | Fri, 13 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 14 Nov 2026 | Electric Ballroom | London |
 | Sat, 21 Nov 2026 | Electric Ballroom | London |
+| Sat, 28 Nov 2026 | DSTRKT Club Berlin | Berlin |
 
 ## Recently played
 

@@ -17,7 +17,7 @@ The Greyhound is a music venue in London listed on soundcheck. 19 upcoming gigs,
 | Fri, 16 Oct 2026 | Slippy 005: Mimi, Per, Terry Cotta, Wiseman, Woodwerk, Wyndham | Terry Cotta, Woodwerk, Wyndham |
 | Sat, 24 Oct 2026 | Burwood presents: Harri Pepper | Harri Pepper, Henry Bennett, Kennedy (UK) |
 | Fri, 30 Oct 2026 | TWO STEP 004 - HALLOWEEN DANCE |  |
-| Sat, 31 Oct 2026 | Slipped Disc ☾ Halloween Party | A.L.F, FITS ME FUNNY, Helios Manoeuvres, M'Lover, Stresshead |
+| Sat, 31 Oct 2026 | Slipped Disc ☾ Halloween Party | A.L.F, FITS ME FUNNY, Helios Manoeuvres, Sedex, Stresshead |
 
 ## Address
 

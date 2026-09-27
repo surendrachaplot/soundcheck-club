@@ -1,14 +1,13 @@
 # Just Emma
 
-Just Emma is a Deep House and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Downtown Portland, Portland on Sat, 26 Sept 2026.
+Just Emma is a Deep House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Beate Uwe, Berlin on Sun, 11 Oct 2026.
 
-Just Emma is a deep house and downtempo artist based in Germany, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 13 more. Often billed alongside Kollektiv Sheesh, Urem and Schtu. Next up: TBA - Downtown Portland, Portland on Sat 26 Sept.
+Just Emma is a deep house and downtempo artist based in Germany, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 13 more. Often billed alongside Kollektiv Sheesh, Urem and Schtu. Next up: Beate Uwe, Berlin on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Downtown Portland | Portland |
 | Sun, 11 Oct 2026 | Beate Uwe | Berlin |
 | Sat, 7 Nov 2026 | Kater | Berlin |
 

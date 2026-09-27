@@ -1,13 +1,14 @@
 # bolo
 
-bolo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+bolo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-bolo is a techno and house artist based in Poland, tracked on soundcheck, with 46 sets logged across Austin, Los Angeles, Nashville and New York City and 1 more. Often billed alongside Abrew, Kobayashkn and PayoYayo. Next up: The Concourse Project, Austin on Fri 13 Nov.
+bolo is a techno and house artist based in Poland, tracked on soundcheck, with 47 sets logged across Austin, Los Angeles, Medellin and Nashville and 2 more. Often billed alongside Abrew, Kobayashkn and PayoYayo. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played

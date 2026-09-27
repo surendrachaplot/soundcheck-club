@@ -1,14 +1,13 @@
 # Solar
 
-Solar is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Solar is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Arcana, San Francisco/Oakland on Fri, 9 Oct 2026.
 
-Solar is a house and acid artist based in United States of America, tracked on soundcheck, with 94 sets logged across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside Mozhgan, Galen and Tyrel Williams. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
+Solar is a house and acid artist based in United States of America, tracked on soundcheck, with 94 sets logged across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside Mozhgan, Galen and Tyrel Williams. Next up: Arcana, San Francisco/Oakland on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 9 Oct 2026 | Arcana | San Francisco/Oakland |
 | Sun, 25 Oct 2026 | San Francisco Belle Hornblower | San Francisco/Oakland |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |

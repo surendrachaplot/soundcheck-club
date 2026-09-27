@@ -1,13 +1,14 @@
 # Costa (FR)
 
-Costa (FR) is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Costa (FR) is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
-Costa (FR) is a techno and breakbeat artist based in France, tracked on soundcheck, with 23 sets logged across Austin, Berlin, Dundee and Hamburg and 2 more. Often billed alongside Sariim, VIĆERO and Chaosy. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
+Costa (FR) is a techno and breakbeat artist based in France, tracked on soundcheck, with 24 sets logged across Austin, Berlin, Dundee and Hamburg and 3 more. Often billed alongside Sariim, VIĆERO and Chaosy. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 
 ## Recently played

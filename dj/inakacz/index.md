@@ -1,14 +1,13 @@
 # Ina Kacz
 
-Ina Kacz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+Ina Kacz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
 
-Ina Kacz is a techno and trance artist based in France, tracked on soundcheck, with 50 sets logged across Athens, Barcelona, Berlin and Copenhagen and 11 more. Often billed alongside DJ Nobu, Erika and Héctor Oaks. Next up: Heave Festival, Madrid on Fri 25 Sept.
+Ina Kacz is a techno and trance artist based in France, tracked on soundcheck, with 50 sets logged across Athens, Barcelona, Berlin and Copenhagen and 11 more. Often billed alongside DJ Nobu, Erika and Héctor Oaks. Next up: Bassiani, Tbilisi on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Heave Festival | Madrid |
 | Fri, 16 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played

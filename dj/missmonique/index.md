@@ -1,13 +1,14 @@
 # Miss Monique
 
-Miss Monique is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
+Miss Monique is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Miss Monique is a techno and house artist based in Ukraine, tracked on soundcheck, with 232 sets logged across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside Hugel, Artbat and CamelPhat. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
+Miss Monique is a techno and house artist based in Ukraine, tracked on soundcheck, with 233 sets logged across Amsterdam, Athens, Austin and Bali and 53 more. Often billed alongside Hugel, Artbat and CamelPhat. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Thu, 22 Oct 2026 | Het Sieraad | Amsterdam |
 | Fri, 23 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 4 Dec 2026 | TBA | Zurich |

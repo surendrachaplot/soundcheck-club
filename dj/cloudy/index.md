@@ -1,8 +1,8 @@
 # Cloudy
 
-Cloudy is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Schrotty, Cologne on Fri, 2 Oct 2026.
+Cloudy is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Schrotty, Cologne on Fri, 2 Oct 2026.
 
-Cloudy is a techno and trance artist based in Germany, tracked on soundcheck, with 220 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 56 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: Schrotty, Cologne on Fri 2 Oct.
+Cloudy is a techno and trance artist based in Germany, tracked on soundcheck, with 221 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: Schrotty, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Cloudy is a techno and trance artist based in Germany, tracked on soundcheck, wi
 | Sun, 25 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 20 Nov 2026 | Native Beach Club | Buenos Aires |
 | Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
+| Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
 
 ## Recently played

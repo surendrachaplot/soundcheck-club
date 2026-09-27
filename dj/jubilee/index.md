@@ -1,15 +1,13 @@
 # Jubilee
 
-Jubilee is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
+Jubilee is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Gabriela, New York City on Sun, 27 Sept 2026.
 
-Jubilee is a house and techno artist based in United States of America, tracked on soundcheck, with 153 sets logged across Berlin, Bristol, Chicago and Copenhagen and 17 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
+Jubilee is a house and techno artist based in United States of America, tracked on soundcheck, with 153 sets logged across Berlin, Bristol, Chicago and Copenhagen and 17 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: Gabriela, New York City on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
-| Sat, 26 Sept 2026 | Culture Lab LIC | New York City |
 | Sun, 27 Sept 2026 | Gabriela | New York City |
 | Fri, 2 Oct 2026 | Dead Letter No. 9 | New York City |
 | Sat, 3 Oct 2026 | Elsewhere | New York City |

@@ -1,14 +1,15 @@
 # Maceo Plex
 
-Maceo Plex is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Reelworks Denver, Denver on Fri, 9 Oct 2026.
+Maceo Plex is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Reelworks Denver, Denver on Fri, 9 Oct 2026.
 
-Maceo Plex is a techno and house artist based in United States of America, tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Austin and Barcelona and 48 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: Reelworks Denver, Denver on Fri 9 Oct.
+Maceo Plex is a techno and house artist based in United States of America, tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Austin and Barcelona and 49 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: Reelworks Denver, Denver on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Reelworks Denver | Denver |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 16 Oct 2026 | TBA - Native Beach Club, Cardales | Buenos Aires |
 | Thu, 22 Oct 2026 | Chicago Social Club | Amsterdam |
 | Sat, 31 Oct 2026 | Recinto Iberdrola Music | Madrid |

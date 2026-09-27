@@ -1,8 +1,8 @@
 # Marco Faraone
 
-Marco Faraone is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 29 Sept 2026.
+Marco Faraone is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 29 Sept 2026.
 
-Marco Faraone is a techno and tech house artist based in Italy, tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 33 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: Amnesia Ibiza, Ibiza on Tue 29 Sept.
+Marco Faraone is a techno and tech house artist based in Italy, tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 33 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: Amnesia Ibiza, Ibiza on Tue 29 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marco Faraone is a techno and tech house artist based in Italy, tracked on sound
 | --- | --- | --- |
 | Tue, 29 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
 

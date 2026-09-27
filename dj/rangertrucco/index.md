@@ -1,8 +1,8 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Ranger Trucco is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Ranger Trucco is a house and tech house artist based in United States of America, tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 22 more. Often billed alongside Ms. Mada, Prunk and Archie Hamilton. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
+Ranger Trucco is a house and tech house artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 22 more. Often billed alongside Ms. Mada, Prunk and KETTAMA. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Ranger Trucco is a house and tech house artist based in United States of America
 | Sat, 14 Nov 2026 | Lab11 | Birmingham |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
 
@@ -33,6 +34,6 @@ Ranger Trucco is a house and tech house artist based in United States of America
 
 ## Shares bills with
 
-Ms. Mada, Prunk, Archie Hamilton
+Ms. Mada, Prunk, KETTAMA
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

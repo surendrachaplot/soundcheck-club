@@ -1,14 +1,13 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "ROOM X Under Club - Bondarük & SMT - JOAQUIN RUÍZ - LUNN - NATALIA BENITEZ" on Sat, 26 Sept 2026.
+Under Club is a music venue in Buenos Aires with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "99% SOLD OUT -> ANNĒ - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 )" on Sun, 27 Sept 2026.
 
-Under Club is a music venue in Buenos Aires listed on soundcheck. 7 upcoming gigs, with line-ups including Ana Hagen, ANNĒ, Bondarük and Fabio Florido and 2 more. Browse upcoming dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
+Under Club is a music venue in Buenos Aires listed on soundcheck. 6 upcoming gigs, with line-ups including Ana Hagen, ANNĒ, Bondarük and Fabio Florido and 2 more. Browse upcoming dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | ROOM X Under Club - Bondarük & SMT - JOAQUIN RUÍZ - LUNN - NATALIA BENITEZ | Bondarük, SMT (2) |
 | Sun, 27 Sept 2026 | 99% SOLD OUT -> ANNĒ - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 ) | ANNĒ, Bondarük, JXXXO, Pampa, Setaoc Mass |
 | Sat, 3 Oct 2026 | JakoJako - MYLAH | JakoJako, MYLAH |
 | Sat, 24 Oct 2026 | Fabio Florido 7 HORAS | Fabio Florido |

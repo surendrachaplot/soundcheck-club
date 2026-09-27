@@ -1,14 +1,13 @@
 # Sharlese
 
-Sharlese is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
+Sharlese is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - East Van location , Vancouver on Sat, 3 Oct 2026.
 
-Sharlese is a techno and house artist based in United States of America, tracked on soundcheck, with 146 sets logged across Amsterdam, Belgrade, Berlin and Boston and 14 more. Often billed alongside DJ SH1-TR, Lord Phatrick and Kadeejah Streets. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
+Sharlese is a techno and house artist based in United States of America, tracked on soundcheck, with 146 sets logged across Amsterdam, Belgrade, Berlin and Boston and 14 more. Often billed alongside DJ SH1-TR, Lord Phatrick and Kadeejah Streets. Next up: TBA - East Van location , Vancouver on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 | Sat, 3 Oct 2026 | TBA - East Van location  | Vancouver |
 | Sat, 10 Oct 2026 | Pony | Seattle |
 | Sat, 10 Oct 2026 | Process PDX | Portland |

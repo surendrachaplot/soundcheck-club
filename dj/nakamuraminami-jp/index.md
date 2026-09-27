@@ -1,14 +1,13 @@
 # Nakamura Minami
 
-Nakamura Minami is a Bass and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Homage Brewing, Los Angeles on Sat, 26 Sept 2026.
+Nakamura Minami is a Bass and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Nakamura Minami is a bass and hip-hop artist based in Japan, tracked on soundcheck, with 16 sets logged across Los Angeles, San Francisco/Oakland, Seattle and Tokyo. Often billed alongside Andrew (TREKKIE TRAX), Carpainter and Seimei. Next up: Homage Brewing, Los Angeles on Sat 26 Sept.
+Nakamura Minami is a bass and hip-hop artist based in Japan, tracked on soundcheck, with 16 sets logged across Los Angeles, San Francisco/Oakland, Seattle and Tokyo. Often billed alongside Andrew (TREKKIE TRAX), Carpainter and Seimei. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Homage Brewing | Los Angeles |
 | Fri, 2 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | TBA - 313 FIRST AVE S in Pioneer Square | Seattle |
 

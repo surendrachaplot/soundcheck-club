@@ -1,14 +1,13 @@
 # Deep Dish
 
-Deep Dish is a House and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Reelworks Denver, Denver on Sat, 26 Sept 2026.
+Deep Dish is a House and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 528 Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-Deep Dish is a house and progressive house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Dubfire, Sharam and Eynka. Next up: Reelworks Denver, Denver on Sat 26 Sept.
+Deep Dish is a house and progressive house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Dubfire, Sharam and Eynka. Next up: 528 Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Reelworks Denver | Denver |
 | Thu, 1 Oct 2026 | 528 Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Pacha | Munich |
 | Fri, 9 Oct 2026 | O der Klub | Vienna |

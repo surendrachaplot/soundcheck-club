@@ -1,14 +1,13 @@
 # Max Ulis
 
-Max Ulis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Platform9, Vancouver on Sat, 26 Sept 2026.
+Max Ulis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Platform 9, Vancouver on Sat, 3 Oct 2026.
 
-Max Ulis is a house and techno artist based in Canada, tracked on soundcheck, with 76 sets logged across Mexico City, Osaka, Portland and Toronto and 1 more. Often billed alongside DJ dood, Dane and DK PAU. Next up: Platform9, Vancouver on Sat 26 Sept.
+Max Ulis is a house and techno artist based in Canada, tracked on soundcheck, with 76 sets logged across Mexico City, Osaka, Portland and Toronto and 1 more. Often billed alongside DJ dood, Dane and DK PAU. Next up: TBA - Platform 9, Vancouver on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Platform9 | Vancouver |
 | Sat, 3 Oct 2026 | TBA - Platform 9 | Vancouver |
 
 ## Recently played

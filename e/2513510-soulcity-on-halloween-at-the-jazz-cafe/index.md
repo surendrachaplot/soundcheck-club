@@ -1,6 +1,6 @@
 # soulcity on halloween at The Jazz Cafe
 
-soulcity on halloween at The Jazz Cafe on Sat 31 Oct, London. Preview the line-up and save it on soundcheck.
+soulcity on halloween at The Jazz Cafe on Sat 31 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

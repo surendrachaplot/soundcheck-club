@@ -1,14 +1,13 @@
 # Parallel
 
-Parallel is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Sober Clubbing" on Sun, 27 Sept 2026.
+Parallel is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "The Bausa - ADE" on Wed, 21 Oct 2026.
 
-Parallel is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Bambii, Chico, Culoe De Song and Dominika Karaszewska and 2 more. Browse upcoming dates, start times and who's playing. Buiksloterweg 5C, 1031 CC Amsterdam.
+Parallel is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Bambii, Chico, Culoe De Song and Gia Fu and 2 more. Browse upcoming dates, start times and who's playing. Buiksloterweg 5C, 1031 CC Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Sober Clubbing | Dominika Karaszewska, Julia Mira, Liso (1), OZUM |
 | Wed, 21 Oct 2026 | The Bausa - ADE |  |
 | Wed, 21 Oct 2026 | Basshall presents: Kybba - ADE |  |
 | Thu, 22 Oct 2026 | Eastern Margins x Natural Mind with Effie, Minna-no-Kimochi, Mechatok & Torus | Mechatok, Minna-no-Kimochi, Torus |
@@ -18,6 +17,7 @@ Parallel is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, w
 | Sat, 24 Oct 2026 | DESCENDANTS - ADE |  |
 | Sat, 24 Oct 2026 | Descendants - ADE | Culoe De Song, Meedy, Tina Ardor, pizzi |
 | Sat, 24 Oct 2026 | Gia Fu - ADE | Chico, Gia Fu |
+| Sun, 25 Oct 2026 | Theta Session - ADE |  |
 
 ## Address
 

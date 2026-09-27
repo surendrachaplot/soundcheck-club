@@ -1,8 +1,8 @@
 # KOKO
 
-KOKO is a music venue in London with 32 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "KOKO - THE ULTIMATE FRESHERS EXPERIENCE" on Wed, 30 Sept 2026.
+KOKO is a music venue in London with 33 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "KOKO - THE ULTIMATE FRESHERS EXPERIENCE" on Wed, 30 Sept 2026.
 
-KOKO is a music venue in London listed on soundcheck. 32 upcoming gigs, with line-ups including Andrea Oliva, Argia, ARODES and Claptone and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
+KOKO is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-ups including Andrea Oliva, Argia, ARODES and Claptone and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
 ## What's on
 

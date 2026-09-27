@@ -1,14 +1,13 @@
 # Ingrid
 
-Ingrid is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at D-EDGE, Sao Paulo on Sat, 26 Sept 2026.
+Ingrid is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Mia Mao, Paris on Thu, 8 Oct 2026.
 
-Ingrid is a house and techno artist based in Brazil, tracked on soundcheck, with 27 sets logged across Naples, Paris, Sao Paulo and Stockholm. Often billed alongside DJ Murphy, Renato Ratier and Teclas. Next up: D-EDGE, Sao Paulo on Sat 26 Sept.
+Ingrid is a house and techno artist based in Brazil, tracked on soundcheck, with 27 sets logged across Naples, Paris, Sao Paulo and Stockholm. Often billed alongside DJ Murphy, Renato Ratier and Teclas. Next up: Mia Mao, Paris on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | D-EDGE | Sao Paulo |
 | Thu, 8 Oct 2026 | Mia Mao | Paris |
 
 ## Recently played

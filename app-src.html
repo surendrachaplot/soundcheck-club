@@ -506,14 +506,18 @@
     /* On-air row names the DJ actually playing, in the accent so it reads as live. */
     .rad-now { color:var(--accent); font-weight:700; }
     .rad-st.on .rad-now { color:var(--sel-text); }
-    /* Bio: lede at full contrast, body clamped to 3 lines until expanded. */
+    /* Bio (Paper 15LW): one paragraph, 15/24 lilac, clamped to 4 lines. When it
+       really clamps (.fade, set by _bioSweep) line 4 fades out at its trailing
+       end; "See more" opens it in place. The full text is always in the DOM. */
     .fp-bio-wrap { margin:0 0 var(--sp-4); max-width:64ch; }
-    .fp-bio-lede { font-size:var(--fs-md); line-height:var(--lh-md); letter-spacing:var(--ls-md);
-      color:var(--fg); margin:0 0 var(--sp-2); text-wrap:pretty; }
-    .fp-bio { font-size:var(--fs-base); line-height:var(--lh-base); color:var(--muted); margin:0;
-      display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; text-wrap:pretty; }
-    .fp-bio.open { -webkit-line-clamp:unset; overflow:visible; }
-    .fp-bio-more { margin-top:var(--sp-2); }
+    .fp-bio-wrap .fp-bio { font-size:var(--fs-base); line-height:24px; color:var(--muted); margin:0;
+      display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden; text-wrap:pretty; }
+    .fp-bio-wrap .fp-bio.fade:not(.open) {
+      -webkit-mask:linear-gradient(#000,#000) top/100% calc(100% - 24px) no-repeat, linear-gradient(90deg,#000 55%,transparent) bottom/100% 24px no-repeat;
+              mask:linear-gradient(#000,#000) top/100% calc(100% - 24px) no-repeat, linear-gradient(90deg,#000 55%,transparent) bottom/100% 24px no-repeat; }
+    .fp-bio-wrap .fp-bio.open { -webkit-line-clamp:unset; overflow:visible; }
+    .fp-bio-more { display:inline-flex; align-items:center; min-height:44px; color:var(--muted); }
+    .fp-bio-more[hidden] { display:none; }
     /* Empty states. A bare grey sentence reads as something having gone wrong;
        a titled block with an action reads as a state the product expects. */
     .empty, .fp-sets-empty { color:var(--muted); font-size:var(--fs-sm); line-height:var(--lh-sm); }
@@ -4595,11 +4599,14 @@
     .fp-lk .mu-bc{ width:16px; height:16px; stroke:none; }
     .fp-lk:hover, a.nav.fp-lk:hover{ color:var(--fg); }
 
-    /* links row on the artist hero: after the L buttons, 14 extra space */
-    .fp-links{ display:inline-flex; align-items:center; gap:8px; margin-left:14px; }
+    /* link discs */
+    .fp-links{ display:inline-flex; align-items:center; gap:8px; }
     .fp-links:empty{ display:none; }
-    .fp-namerow .fp-links{ margin-left:0; }
-    .fp-acts .fp-links.wrap{ flex-basis:100%; margin-left:0; }
+    /* artist name row (Paper 15LW): 32 visual discs, 44 tap area via ::after */
+    #ap-links .fp-lk-ib{ width:32px; height:32px; }
+    #ap-links .fp-lk-ib::after{ content:''; position:absolute; inset:-6px; border-radius:inherit; }
+    #ap-links .fp-lk-ib svg{ width:16px; height:16px; }
+    #ap-links .fp-lk-ib svg.lk-sc{ width:18px; height:18px; }
 
     /* ── set cards (web) · set rows (phones) — Paper 13LZ ── */
     .fp-skw{ position:relative; min-width:0; }
@@ -4731,7 +4738,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790483174506">
+<meta name="sc-build" content="1790528573322">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4790,7 +4797,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">29 events</span></a></li><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-29/">Tue 29 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-30/">Wed 30 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">32 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">83 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">111 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-29/">Tue 29 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-30/">Wed 30 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">32 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">83 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">111 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4958,23 +4965,6 @@
     function linkIB(kind, url, label){
       return '<a class="fp-ib fp-lk-ib" data-lk="'+kind+'" href="'+esc(url)+'" target="_blank" rel="noopener" aria-label="'+label+'" title="'+label+'">'+LINK_ICONS[kind]+'</a>';
     }
-    // The links row sits after the L buttons with 14 extra space when it fits on
-    // their line; when it does not, it starts its own line flush left (a wrapped
-    // row that kept its 14px indent read as a mistake). Measured, not guessed:
-    // the decision is made from widths so removing the indent cannot flip it back.
-    var _fitRO=null;
-    function fitLinksRow(){
-      var l=document.getElementById('ap-links'); if(!l) return;
-      var acts=l.parentNode;
-      var f=function(){
-        if(!document.body.contains(l)) return;
-        var w=14+l.scrollWidth, kids=[].filter.call(acts.children, function(k){ return k!==l; });
-        kids.forEach(function(k){ w+=k.offsetWidth+9; });
-        l.classList.toggle('wrap', w>acts.clientWidth+0.5);
-      };
-      f();
-      if(window.ResizeObserver){ if(_fitRO) _fitRO.disconnect(); _fitRO=new ResizeObserver(f); _fitRO.observe(acts); }
-    }
     function socialLinksHTML(o){
       o=o||{}; var b=[];
       if(o.soundcloud) b.push(linkIB('soundcloud', o.soundcloud, 'SoundCloud'));
@@ -5038,8 +5028,6 @@
     // wasn't already below the fold, and the top of the page becomes scannable.
     function bioBlock(text){
       var t=String(text||'').trim(); if(!t) return '';
-      var m=t.match(/^([\s\S]{40,220}?[.!?])(\s+)([\s\S]+)$/);
-      var lede=m?m[1]:t, rest=m?m[3]:'';
       var id='bio'+(++_bioSeq);
       // The button ships hidden; _bioSweep reveals it only for bios that are
       // genuinely clamped. The measurement CANNOT be scheduled from here —
@@ -5047,9 +5035,8 @@
       // markup is mounted, getElementById returns null, and every bio silently
       // loses its expander (including the long ones that need it).
       return '<div class="fp-bio-wrap">'+
-        '<p class="fp-bio-lede">'+esc(lede)+'</p>'+
-        (rest?'<p class="fp-bio" id="'+id+'">'+esc(rest)+'</p>'+
-              '<button class="more-btn fp-bio-more" type="button" data-bio="'+id+'" aria-expanded="false" hidden>Read more</button>':'')+
+        '<p class="fp-bio" id="'+id+'">'+esc(t)+'</p>'+
+        '<button class="more-btn fp-bio-more" type="button" data-bio="'+id+'" aria-controls="'+id+'" aria-expanded="false" hidden>See more</button>'+
       '</div>';
     }
     var _bioSeq=0;
@@ -5065,7 +5052,7 @@
       for(var i=0;i<btns.length;i++){
         var btn=btns[i], el=document.getElementById(btn.dataset.bio);
         if(!el) continue;
-        if(el.scrollHeight > el.clientHeight + 2) btn.hidden=false; else btn.remove();
+        if(el.scrollHeight > el.clientHeight + 2){ btn.hidden=false; el.classList.add('fade'); } else btn.remove();
       }
     }
     new MutationObserver(_bioSweep).observe(document.documentElement, {childList:true, subtree:true});
@@ -5075,7 +5062,7 @@
       var p=document.getElementById(b.dataset.bio); if(!p) return;
       var open=p.classList.toggle('open');
       b.setAttribute('aria-expanded', String(open));
-      b.textContent = open ? 'Read less' : 'Read more';
+      b.textContent = open ? 'See less' : 'See more';
     });
     // Hero-scale fallback for an entity with no photo (artist/venue headers).
     // genAvatar's 80px marble is fine at avatar size but was being TILED across
@@ -11071,7 +11058,8 @@
             '<div class="fp-photo">'+(a.image?img:genHero(a.name||slug, slug))+(a.country?'<div class="fp-origin">'+esc(a.country)+'</div>':'')+'</div>'+
             '<div class="fp-hx">'+
               '<div class="fp-kick">'+kick+'</div>'+
-              '<div class="fp-namerow"><h1 class="fp-h1">'+esc(a.name||slug)+'</h1></div>'+
+              // Link discs sit right after the name (Paper 15LW); a long name wraps them under it.
+              '<div class="fp-namerow"><h1 class="fp-h1">'+esc(a.name||slug)+'</h1><span class="fp-links" id="ap-links">'+socials+'</span></div>'+
               bioBlock(a.bio||a.description||'')+
               genreTags+festLine+gemLine+
               '<div class="fp-acts">'+
@@ -11080,8 +11068,6 @@
                 '<button class="fp-ab'+((mine==='wanna_see'||mine==='seen')?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see'||mine==='seen')+'">'+(mine==='seen'?TC_CHECK:HEART_SVG)+'<span>'+(mine==='seen'?'Seen':'Want to see')+'</span></button>'+
                 '<button class="fp-ab" id="ap-log" type="button">'+logSvg+'<span>Log a gig</span></button>'+
                 '<button class="fp-ab" id="ap-list" type="button">'+PLUS_SVG+'<span>Add to list</span></button>'+
-                // Links row (Round 8 §8.4): icon discs after the L buttons.
-                '<span class="fp-links" id="ap-links">'+socials+'</span>'+
               '</div>'+
             '</div>'+
           '</div>'+
@@ -11122,7 +11108,6 @@
         h+='</div>';
         openPanel(h);
         var ashr=document.getElementById('fp-art-share'); if(ashr) ashr.addEventListener('click',function(){ shareArtist(slug, a.name||slug); });
-        fitLinksRow();
         wireEntityOwner('artist', slug, a.name||slug, a);
         var apClaim=document.getElementById('ap-claim'); if(apClaim) apClaim.addEventListener('click',function(){ openClaimModal('artist', a.name||slug, slug); });
         var _acanon=location.origin+SC_BASE+'dj/'+slug+'/';
@@ -11205,7 +11190,7 @@
             var bc=j&&j.bandcamp, rel=(j&&j.releases)||[];
             if(bc && bc.verified && bc.url){
               var lk=document.getElementById('ap-links');
-              if(lk && !lk.querySelector('[data-lk="bandcamp"]')){ lk.insertAdjacentHTML('beforeend', linkIB('bandcamp', bc.url, 'Bandcamp, opens outside soundcheck')); fitLinksRow(); }
+              if(lk && !lk.querySelector('[data-lk="bandcamp"]')){ lk.insertAdjacentHTML('beforeend', linkIB('bandcamp', bc.url, 'Bandcamp, opens outside soundcheck')); }
             }
             var tab=document.querySelector('#page-body .fp-tab[data-tab="music"]');
             if(tab && rel.length && !tab.querySelector('.c')) tab.insertAdjacentHTML('beforeend','<span class="c">'+rel.length+'</span>');

@@ -1,14 +1,13 @@
 # Laila Amira
 
-Laila Amira is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at House of Yes, New York City on Sat, 26 Sept 2026.
+Laila Amira is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Good Room, New York City on Sat, 3 Oct 2026.
 
-Laila Amira is a house and disco artist based in United States of America, tracked on soundcheck, with 59 sets logged across Montreal, New York City and Paris. Often billed alongside Tim Lucent, Lady Harley and Pleasure Jams. Next up: House of Yes, New York City on Sat 26 Sept.
+Laila Amira is a house and disco artist based in United States of America, tracked on soundcheck, with 59 sets logged across Montreal, New York City and Paris. Often billed alongside Tim Lucent, Lady Harley and Pleasure Jams. Next up: Good Room, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | House of Yes | New York City |
 | Sat, 3 Oct 2026 | Good Room | New York City |
 
 ## Recently played

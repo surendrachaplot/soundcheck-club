@@ -1,14 +1,15 @@
 # Thomas Schumacher
 
-Thomas Schumacher is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lieberscholli, Munich on Sat, 24 Oct 2026.
+Thomas Schumacher is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Lieberscholli, Munich on Sat, 24 Oct 2026.
 
-Thomas Schumacher is a techno and house artist based in Germany, tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 26 more. Often billed alongside A.D.H.S., Anna Reusch and Alex Stein. Next up: Lieberscholli, Munich on Sat 24 Oct.
+Thomas Schumacher is a techno and house artist based in Germany, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 26 more. Often billed alongside Anna Reusch, A.D.H.S. and Alex Stein. Next up: Lieberscholli, Munich on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Lieberscholli | Munich |
+| Sat, 26 Dec 2026 | Die Rakete | Nürnberg |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Thomas Schumacher is a techno and house artist based in Germany, tracked on soun
 
 ## Shares bills with
 
-A.D.H.S., Anna Reusch, Alex Stein
+Anna Reusch, A.D.H.S., Alex Stein
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschumacher/)*

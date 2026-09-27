@@ -1,13 +1,14 @@
 # Confidential Recipe
 
-Confidential Recipe is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+Confidential Recipe is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Confidential Recipe is a techno and house artist based in Colombia, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 4 more. Often billed alongside Marcos in Dub, CARAVEL and CESAR ALMENA. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
+Confidential Recipe is a techno and house artist based in Colombia, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 5 more. Often billed alongside Marcos in Dub, CARAVEL and CESAR ALMENA. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Thu, 22 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Sat, 24 Oct 2026 | Kater | Berlin |
 | Sun, 1 Nov 2026 | Nazca Club | Madrid |

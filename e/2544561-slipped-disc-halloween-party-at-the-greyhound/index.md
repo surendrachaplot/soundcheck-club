@@ -1,6 +1,6 @@
 # Slipped Disc ☾ Halloween Party at The Greyhound
 
-Slipped Disc ☾ Halloween Party at The Greyhound on Sat 31 Oct, London. 5 artists on the bill: A.L.F, FITS ME FUNNY, Helios Manoeuvres and M'Lover and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+Slipped Disc ☾ Halloween Party at The Greyhound on Sat 31 Oct, London. 5 artists on the bill: A.L.F, FITS ME FUNNY, Helios Manoeuvres and Sedex and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Slipped Disc ☾ Halloween Party at The Greyhound on Sat 31 Oct, London. 5 artis
 - A.L.F
 - FITS ME FUNNY
 - Helios Manoeuvres
-- M'Lover
+- Sedex
 - Stresshead
 
 *Source: [soundcheck](https://soundcheck.club/e/2544561-slipped-disc-halloween-party-at-the-greyhound/)*

@@ -1,14 +1,13 @@
 # DJ Minx
 
-DJ Minx is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sat, 26 Sept 2026.
+DJ Minx is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at House of Yes, New York City on Sat, 3 Oct 2026.
 
-DJ Minx is a house and techno artist based in United States of America, tracked on soundcheck, with 181 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sat 26 Sept.
+DJ Minx is a house and techno artist based in United States of America, tracked on soundcheck, with 181 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: House of Yes, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - The Jack, 74 S Jackson St, Seattle, WA 98104 | Seattle |
 | Sat, 3 Oct 2026 | House of Yes | New York City |
 | Sat, 3 Oct 2026 | House of Yes | New York City |
 | Sat, 10 Oct 2026 | Lincoln Factory | Detroit |

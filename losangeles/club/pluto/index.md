@@ -1,6 +1,6 @@
 # Pluto
 
-Pluto is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "EARLY BIRDZ - Family Rave / LA Penthouse" on Sun, 4 Oct 2026.
+Pluto is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "EARLY BIRDZ Flight 013: Airship Morning Rave @ Pluto Penthouse" on Sun, 4 Oct 2026.
 
 Pluto is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including NORO VIBES. Browse upcoming dates, start times and who's playing. 6100 Wilshire Blvd, Los Angeles CA 90048.
 
@@ -8,7 +8,7 @@ Pluto is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | EARLY BIRDZ - Family Rave / LA Penthouse | NORO VIBES |
+| Sun, 4 Oct 2026 | EARLY BIRDZ Flight 013: Airship Morning Rave @ Pluto Penthouse | NORO VIBES |
 
 ## Address
 

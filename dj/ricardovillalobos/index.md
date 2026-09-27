@@ -1,15 +1,13 @@
 # Ricardo Villalobos
 
-Ricardo Villalobos is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Société des arts technologiques, Montreal on Sat, 26 Sept 2026.
+Ricardo Villalobos is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 4 Oct 2026.
 
-Ricardo Villalobos is a techno and house artist based in Chile, tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Raresh, O.BEE and Tomas Station. Next up: Société des arts technologiques, Montreal on Sat 26 Sept.
+Ricardo Villalobos is a techno and house artist based in Chile, tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Raresh, O.BEE and Tomas Station. Next up: Amnesia Ibiza, Ibiza on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Société des arts technologiques | Montreal |
-| Sat, 26 Sept 2026 | Société des arts technologiques | Montreal |
 | Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | fabric | London |
 | Fri, 23 Oct 2026 | Ampere | Antwerp |

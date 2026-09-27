@@ -1,13 +1,14 @@
 # Billy Gillies
 
-Billy Gillies is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Billy Gillies is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Billy Gillies is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Cork, Denver, Dublin and Edinburgh and 20 more. Often billed alongside Giuseppe Ottaviani, Ferry Corsten and Mauro Picotto. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
+Billy Gillies is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Cork, Denver, Dublin and Edinburgh and 21 more. Often billed alongside Giuseppe Ottaviani, Ferry Corsten and Mauro Picotto. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Sat, 5 Dec 2026 | Warsaw | New York City |
 

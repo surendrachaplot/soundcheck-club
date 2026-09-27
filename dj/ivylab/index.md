@@ -1,14 +1,13 @@
 # Ivy Lab
 
-Ivy Lab is a Bass and Drum & Bass artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Substation, Seattle on Sat, 26 Sept 2026.
+Ivy Lab is a Bass and Drum & Bass artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Smoke & Mirrors, Chicago on Thu, 8 Oct 2026.
 
-Ivy Lab is a bass and drum & bass artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Antwerp, Auckland, Austin and Berlin and 31 more. Often billed alongside Kasra, Lake Hills and Jubilee. Next up: Substation, Seattle on Sat 26 Sept.
+Ivy Lab is a bass and drum & bass artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Antwerp, Auckland, Austin and Berlin and 31 more. Often billed alongside Kasra, Lake Hills and Jubilee. Next up: Smoke & Mirrors, Chicago on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Substation | Seattle |
 | Thu, 8 Oct 2026 | Smoke & Mirrors | Chicago |
 | Sat, 10 Oct 2026 | SILO | New York City |
 | Sun, 11 Oct 2026 | Le Belmont | Montreal |

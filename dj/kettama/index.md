@@ -1,8 +1,8 @@
 # KETTAMA
 
-KETTAMA is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+KETTAMA is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-KETTAMA is a techno and house artist based in Ireland, tracked on soundcheck, with 247 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 66 more. Often billed alongside Partiboi69, Ben Hemsley and DJ Heartstring. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+KETTAMA is a techno and house artist based in Ireland, tracked on soundcheck, with 252 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Partiboi69, Ben Hemsley and DJ Heartstring. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -15,8 +15,11 @@ KETTAMA is a techno and house artist based in Ireland, tracked on soundcheck, wi
 | Fri, 9 Oct 2026 | Knockdown Center | New York City |
 | Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 27 Nov 2026 | GASHOUDER | Amsterdam |
+| Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
+| Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 
 ## Recently played
 

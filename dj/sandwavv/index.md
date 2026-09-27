@@ -1,14 +1,13 @@
 # Sandwavv
 
-Sandwavv is a House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Buddies in Bad Times, Toronto on Sat, 26 Sept 2026.
+Sandwavv is a House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Pamenar Café, Toronto on Fri, 9 Oct 2026.
 
-Sandwavv is a house and afro tech artist based in Canada, tracked on soundcheck, with 25 sets logged across Toronto and Vancouver. Often billed alongside MXK (LB), ROU-H and Shen. Next up: Buddies in Bad Times, Toronto on Sat 26 Sept.
+Sandwavv is a house and afro tech artist based in Canada, tracked on soundcheck, with 25 sets logged across Toronto and Vancouver. Often billed alongside MXK (LB), ROU-H and Shen. Next up: Pamenar Café, Toronto on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Buddies in Bad Times | Toronto |
 | Fri, 9 Oct 2026 | Pamenar Café | Toronto |
 | Thu, 29 Oct 2026 | La Plaza | Toronto |
 

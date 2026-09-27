@@ -1,14 +1,13 @@
 # James Massiah
 
-James Massiah is a Dancehall and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Black Bear Lodge, Brisbane on Sun, 27 Sept 2026.
+James Massiah is a Dancehall and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The White Hotel, Manchester on Fri, 20 Nov 2026.
 
-James Massiah is a dancehall and experimental artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Amsterdam, Belgrade, Berlin and Brisbane and 16 more. Often billed alongside Lord Tusk, Kemarr and Tash LC. Next up: Black Bear Lodge, Brisbane on Sun 27 Sept.
+James Massiah is a dancehall and experimental artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Amsterdam, Belgrade, Berlin and Brisbane and 16 more. Often billed alongside Lord Tusk, Kemarr and Tash LC. Next up: The White Hotel, Manchester on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Black Bear Lodge | Brisbane |
 | Fri, 20 Nov 2026 | The White Hotel | Manchester |
 
 ## Recently played

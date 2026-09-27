@@ -1,14 +1,13 @@
 # aalice
 
-aalice is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ministerium Club, Lisbon on Sat, 26 Sept 2026.
+aalice is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Concept Haus, Manchester on Sat, 10 Oct 2026.
 
-aalice is a techno and house artist based in Ireland, tracked on soundcheck, with 74 sets logged across Amsterdam, Belfast, Berlin and Leeds and 8 more. Often billed alongside Blasha & Allatt, Hanz and Steffi. Next up: Ministerium Club, Lisbon on Sat 26 Sept.
+aalice is a techno and house artist based in Ireland, tracked on soundcheck, with 74 sets logged across Amsterdam, Belfast, Berlin and Leeds and 8 more. Often billed alongside Blasha & Allatt, Hanz and Steffi. Next up: Concept Haus, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Ministerium Club | Lisbon |
 | Sat, 10 Oct 2026 | Concept Haus | Manchester |
 | Fri, 23 Oct 2026 | FOLD | London |
 

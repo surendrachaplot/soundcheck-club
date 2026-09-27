@@ -1,8 +1,8 @@
 # Amy Wiles
 
-Amy Wiles is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Village Underground, London on Sat, 3 Oct 2026.
+Amy Wiles is a Trance and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Village Underground, London on Sat, 3 Oct 2026.
 
-Amy Wiles is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Austin, Brighton and Brisbane and 17 more. Often billed alongside Ferry Corsten, Leena Punks and Billy Gillies. Next up: Village Underground, London on Sat 3 Oct.
+Amy Wiles is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Austin, Brighton and Brisbane and 17 more. Often billed alongside Leena Punks, Ferry Corsten and Billy Gillies. Next up: Village Underground, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Amy Wiles is a trance and progressive house artist based in United Kingdom, trac
 | Sat, 3 Oct 2026 | Village Underground | London |
 | Fri, 9 Oct 2026 | DRUMSHEDS | London |
 | Sat, 17 Oct 2026 | Blackstone Street Warehouse | Liverpool |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Amy Wiles is a trance and progressive house artist based in United Kingdom, trac
 
 ## Shares bills with
 
-Ferry Corsten, Leena Punks, Billy Gillies
+Leena Punks, Ferry Corsten, Billy Gillies
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amywiles/)*

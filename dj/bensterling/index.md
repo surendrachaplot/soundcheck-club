@@ -1,8 +1,8 @@
 # Ben Sterling
 
-Ben Sterling is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Ben Sterling is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Ben Sterling is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 187 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 40 more. Often billed alongside Marco Carola, Ms. Mada and Dennis Cruz. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
+Ben Sterling is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 188 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 40 more. Often billed alongside Marco Carola, Max Dean and Ms. Mada. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Ben Sterling is a tech house and house artist based in United Kingdom, tracked o
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Thu, 31 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ Ben Sterling is a tech house and house artist based in United Kingdom, tracked o
 
 ## Shares bills with
 
-Marco Carola, Ms. Mada, Dennis Cruz
+Marco Carola, Max Dean, Ms. Mada
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*

@@ -1,14 +1,13 @@
 # AMMARA
 
-AMMARA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+AMMARA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Chicago Social Club, Amsterdam on Fri, 23 Oct 2026.
 
-AMMARA is a techno and house artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 19 more. Often billed alongside Ben Hemsley, Danny Howard and Andhim. Next up: Maitland Showground, Sydney on Fri 25 Sept.
+AMMARA is a techno and house artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 19 more. Often billed alongside Ben Hemsley, Danny Howard and Andhim. Next up: Chicago Social Club, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Fri, 23 Oct 2026 | Chicago Social Club | Amsterdam |
 | Fri, 4 Dec 2026 | SWG3 | Glasgow |
 | Fri, 4 Dec 2026 | SWG3 | Glasgow |

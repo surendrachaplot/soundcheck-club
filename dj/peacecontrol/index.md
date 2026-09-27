@@ -1,14 +1,13 @@
 # Peace Control
 
-Peace Control is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Madarae San Francisco, San Francisco/Oakland on Sat, 26 Sept 2026.
+Peace Control is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Church Nightclub, Denver on Sat, 10 Oct 2026.
 
-Peace Control is a house and afro house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Buenos Aires and Chicago and 18 more. Often billed alongside Francis Mercier, Marten Lou and Bontan. Next up: Madarae San Francisco, San Francisco/Oakland on Sat 26 Sept.
+Peace Control is a house and afro house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Buenos Aires and Chicago and 18 more. Often billed alongside Francis Mercier, Marten Lou and Bontan. Next up: The Church Nightclub, Denver on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Madarae San Francisco | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | The Church Nightclub | Denver |
 
 ## Recently played

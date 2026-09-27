@@ -1,14 +1,13 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 26 Sept 2026.
+Jen Cardini is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
 
-Jen Cardini is a techno and house artist based in France, tracked on soundcheck, with 259 sets logged across Amsterdam, Antwerp, Athens and Auckland and 59 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: TBA - DTLA, Los Angeles on Sat 26 Sept.
+Jen Cardini is a techno and house artist based in France, tracked on soundcheck, with 259 sets logged across Amsterdam, Antwerp, Athens and Auckland and 59 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Café Nuances  - Marais, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - DTLA | Los Angeles |
 | Fri, 2 Oct 2026 | Café Nuances  - Marais | Paris |
 | Fri, 9 Oct 2026 | FOLD | London |
 | Sun, 18 Oct 2026 | La Gaîté Lyrique | Paris |

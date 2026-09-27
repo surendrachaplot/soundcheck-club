@@ -1,14 +1,13 @@
 # LOLSNAKE
 
-LOLSNAKE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at SMUT Athens, Athens on Sat, 26 Sept 2026.
+LOLSNAKE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 8 Oct 2026.
 
-LOLSNAKE is a techno and house artist based in United States of America, tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: SMUT Athens, Athens on Sat 26 Sept.
+LOLSNAKE is a techno and house artist based in United States of America, tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | SMUT Athens | Athens |
 | Thu, 8 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 21 Nov 2026 | Eventhuset | Stockholm |
 

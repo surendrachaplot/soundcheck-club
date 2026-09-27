@@ -1,6 +1,6 @@
 # soulcity - the last dance before christmas (special) at The Jazz Cafe
 
-soulcity - the last dance before christmas (special) at The Jazz Cafe on Sat 19 Dec, London. Preview the line-up and save it on soundcheck.
+soulcity - the last dance before christmas (special) at The Jazz Cafe on Sat 19 Dec, London. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

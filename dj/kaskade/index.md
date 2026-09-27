@@ -1,13 +1,14 @@
 # Kaskade
 
-Kaskade is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Radius, Chicago on Fri, 6 Nov 2026.
+Kaskade is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Kaskade is a house and bass artist based in United States of America, tracked on soundcheck, with 52 sets logged across Austin, Chicago, Detroit and London and 9 more. Often billed alongside Green Velvet, Chris Lake and Eli Brown. Next up: Radius, Chicago on Fri 6 Nov.
+Kaskade is a house and bass artist based in United States of America, tracked on soundcheck, with 53 sets logged across Austin, Chicago, Detroit and London and 10 more. Often billed alongside Green Velvet, Chris Lake and Eli Brown. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 6 Nov 2026 | Radius | Chicago |
 | Fri, 20 Nov 2026 | The Concourse Project | Austin |
 

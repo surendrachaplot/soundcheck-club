@@ -1,14 +1,13 @@
 # JASSS
 
-JASSS is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+JASSS is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-JASSS is a techno and house artist based in Spain, tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside CEM, MCMLXXXV and Dj Saliva. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
+JASSS is a techno and house artist based in Spain, tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside CEM, MCMLXXXV and Dj Saliva. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Fri, 9 Oct 2026 | Hotel Forum | Krakow |
 | Sat, 17 Oct 2026 | Voce - Triennale | Milan |

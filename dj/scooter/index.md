@@ -1,14 +1,15 @@
 # Scooter
 
-Scooter is a Trance and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Ziggo Dome, Amsterdam on Sun, 25 Oct 2026.
+Scooter is a Trance and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ziggo Dome, Amsterdam on Sun, 25 Oct 2026.
 
-Scooter is a trance and electro artist based in Germany, tracked on soundcheck, with 7 sets logged across Amsterdam, Edinburgh, Frankfurt and Newcastle. Often billed alongside Angerfist, ASK:ME and Alfred Heinrichs. Next up: Ziggo Dome, Amsterdam on Sun 25 Oct.
+Scooter is a trance and electro artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Edinburgh, Frankfurt and Miami and 1 more. Often billed alongside Angerfist, Marco Faraone and ASK:ME. Next up: Ziggo Dome, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Ziggo Dome | Amsterdam |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ Scooter is a trance and electro artist based in Germany, tracked on soundcheck, 
 
 ## Shares bills with
 
-Angerfist, ASK:ME, Alfred Heinrichs
+Angerfist, Marco Faraone, ASK:ME
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scooter/)*

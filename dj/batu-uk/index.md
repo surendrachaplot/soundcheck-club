@@ -1,14 +1,13 @@
 # Batu
 
-Batu is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Batu is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Batu is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 162 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 43 more. Often billed alongside Ben UFO, Verraco and CCL. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
+Batu is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 162 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 43 more. Often billed alongside Ben UFO, Verraco and CCL. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |

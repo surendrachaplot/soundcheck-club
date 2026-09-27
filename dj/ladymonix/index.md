@@ -1,14 +1,13 @@
 # LADYMONIX
 
-LADYMONIX is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 26 Sept 2026.
+LADYMONIX is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at BAR Inc, Osaka on Sat, 10 Oct 2026.
 
-LADYMONIX is a house and techno artist based in United States of America, tracked on soundcheck, with 153 sets logged across Berlin, Boston, Chicago and Detroit and 17 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: Northern Lights Lounge, Detroit on Sat 26 Sept.
+LADYMONIX is a house and techno artist based in United States of America, tracked on soundcheck, with 153 sets logged across Berlin, Boston, Chicago and Detroit and 17 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: BAR Inc, Osaka on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Northern Lights Lounge | Detroit |
 | Sat, 10 Oct 2026 | BAR Inc | Osaka |
 | Fri, 30 Oct 2026 | TV Lounge | Detroit |
 

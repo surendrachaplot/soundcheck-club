@@ -1,14 +1,13 @@
 # Renate
 
-Renate is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Renate Klubnacht + Free Daytime Indoor w/ Hanna Baertig, Cowper, Infamous Ali, sleeptwitch" on Sat, 26 Sept 2026.
+Renate is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Renate LIVE: Face Value & Propellar " on Thu, 1 Oct 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including 131bpm, 16 Faces, Aalia Iraki and Abibi and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including 131bpm, 16 Faces, Aalia Iraki and Abibi and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Renate Klubnacht + Free Daytime Indoor w/ Hanna Baertig, Cowper, Infamous Ali, sleeptwitch | BBYG, Celex, Chaques, Cowper, D'Nice, DJ CHICHI, Hanna Baertig, Infamous Ali, Luke Blunton, Natalia Martinovna, Pschukk, elliephunk, masi (4), sleeptwitch, young oldmann |
 | Thu, 1 Oct 2026 | Renate LIVE: Face Value & Propellar  |  |
 | Fri, 2 Oct 2026 | Renate Klubnacht with Spice Club x Akt | DJ ASS TITS, Ellen Trenn, Elotrance, LILI, Mondaiji, Ursula Erdmann, paaradoxx, sellycious |
 | Sat, 3 Oct 2026 | Renate Klubnacht with Fairies, Fluid Vision & CUNTCORE | 131bpm, Barbad, DJ Trade Trainer, Dj handbag, Merlin Cum, Robin Flux, SENERGI, Tania Just, Tutti Frutti, V3NÜ5 |
@@ -18,6 +17,7 @@ Renate is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with l
 | Thu, 15 Oct 2026 | Renate LIVE: tba |  |
 | Fri, 16 Oct 2026 | 13 YRS Rebellion der Träumer* | Adri Tüde, Andreas Rauscher, Apolonia, Borella, Boskopp, Ciao 3lla, Corios, DJ Flink, DJ https, Daniel Neuland, Dela Nesto, EMJIE, Ele Luz, Elias Goldmund, FLAVE, GI.O, Haensen&Gretel, Hannes Turm, Horst Haller, J.WOCKENFUSS, Julio Paradise, Kos:mo, Kotelett, LAXBERGER, Lanka, Luko, MOOGLI (DE), Mareike Bautz, Maria Theresia von Eberg, Maurice Mino, Mira, Naicet, Powel, Rad.Lez, Sabura, Sahra Bass, Sandrino, Sarah Wild, Sin:port, Sinamin, The Bille, The Jakob Sister, Tobi Dei (DE), Viper, Wanda Wild, Yola Rennt, diladï, fraumuhlin, inda Flo, kluntje, lisa luka, nøvae, wilson.solidarity |
 | Thu, 22 Oct 2026 | Renate LIVE: Kresse 3 |  |
+| Fri, 23 Oct 2026 | Renate Klubnacht with Niklas Wandt, Josiana tba | Josiane, Luce Clandestina, Niklas Wandt |
 
 ## Address
 

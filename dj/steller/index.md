@@ -1,13 +1,14 @@
 # Steller
 
-Steller is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Elektricity, Detroit on Sat, 14 Nov 2026.
+Steller is a Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
-Steller is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Austin, Boston, Detroit and New York City and 2 more. Often billed alongside Dom Dolla, Eli Brown and J. Worra. Next up: Elektricity, Detroit on Sat 14 Nov.
+Steller is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Austin, Boston, Detroit and Jacksonville and 3 more. Often billed alongside Big Gigantic, Dom Dolla and Eli Brown. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Sat, 14 Nov 2026 | Elektricity | Detroit |
 | Fri, 11 Dec 2026 | Roadrunner | Boston |
 
@@ -22,6 +23,6 @@ Steller is a bass and dubstep artist based in United Kingdom, tracked on soundch
 
 ## Shares bills with
 
-Dom Dolla, Eli Brown, J. Worra
+Big Gigantic, Dom Dolla, Eli Brown
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steller/)*

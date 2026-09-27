@@ -1,8 +1,8 @@
 # Ian Asher
 
-Ian Asher is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Concourse Project, Austin on Sat, 24 Oct 2026.
+Ian Asher is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Concourse Project, Austin on Sat, 24 Oct 2026.
 
-Ian Asher is a house and tech house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Amsterdam, Austin, Boston and Brisbane and 17 more. Often billed alongside Benny Benassi, Bou (UK) and KREAM. Next up: The Concourse Project, Austin on Sat 24 Oct.
+Ian Asher is a house and tech house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Boston and Brisbane and 18 more. Often billed alongside Azyr, Benny Benassi and Bou (UK). Next up: The Concourse Project, Austin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Ian Asher is a house and tech house artist based in United States of America, tr
 | Sat, 24 Oct 2026 | The Concourse Project | Austin |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
+| Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
+| Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 
 ## Recently played
 
@@ -25,6 +27,6 @@ Ian Asher is a house and tech house artist based in United States of America, tr
 
 ## Shares bills with
 
-Benny Benassi, Bou (UK), KREAM
+Azyr, Benny Benassi, Bou (UK)
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*

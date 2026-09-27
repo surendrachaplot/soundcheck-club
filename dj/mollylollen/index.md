@@ -1,14 +1,13 @@
 # Molly Lollen
 
-Molly Lollen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at [119], Berlin on Sat, 26 Sept 2026.
+Molly Lollen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at KitKatClub, Berlin on Fri, 2 Oct 2026.
 
-Molly Lollen is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Copenhagen and Hamburg. Often billed alongside John Fick, 8-AN and GLIA. Next up: [119], Berlin on Sat 26 Sept.
+Molly Lollen is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Copenhagen and Hamburg. Often billed alongside John Fick, 8-AN and GLIA. Next up: KitKatClub, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | [119] | Berlin |
 | Fri, 2 Oct 2026 | KitKatClub | Berlin |
 
 ## Recently played

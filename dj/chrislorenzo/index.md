@@ -1,8 +1,8 @@
 # Chris Lorenzo
 
-Chris Lorenzo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Echostage, Washington DC on Fri, 23 Oct 2026.
+Chris Lorenzo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Echostage, Washington DC on Fri, 23 Oct 2026.
 
-Chris Lorenzo is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Boston and Chicago and 13 more. Often billed alongside SG Lewis, Chris Lake and Eats Everything. Next up: Echostage, Washington DC on Fri 23 Oct.
+Chris Lorenzo is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Boston and Chicago and 13 more. Often billed alongside SG Lewis, Chris Lake and Eats Everything. Next up: Echostage, Washington DC on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chris Lorenzo is a house and tech house artist based in United Kingdom, tracked 
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Echostage | Washington DC |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
+| Thu, 31 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
 

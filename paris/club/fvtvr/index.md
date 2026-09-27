@@ -1,14 +1,13 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "LUST - CHAPTER XVIII" on Sat, 26 Sept 2026.
+Fvtvr is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Rabanne presents Paco Club Paris" on Wed, 30 Sept 2026.
 
-Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including Aline Brooklyn, ABI (FR), Adrien Calvet and Akaj and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Aline Brooklyn, ABI (FR), Adrien Calvet and Akaj and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | LUST - CHAPTER XVIII | Litoshka, Pulso (2), Temudo |
 | Wed, 30 Sept 2026 | Rabanne presents Paco Club Paris | BASHKKA, Ben Klock, ISAbella, Jeff Mills |
 | Fri, 2 Oct 2026 | CHLOE CAILLET, Bella Sarris, CARISTA, ISAbella, Makadsi | Bella Sarris, CARISTA, Chloé Caillet, ISAbella, Makadsi |
 | Sat, 3 Oct 2026 | imagine FAMILY: O.BEE ALL DAY LONG [OPEN AIR] | O.BEE |

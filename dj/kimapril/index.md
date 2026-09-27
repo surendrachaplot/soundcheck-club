@@ -1,14 +1,13 @@
 # Kim April
 
-Kim April is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Egg London, London on Sat, 26 Sept 2026.
+Kim April is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 528 Ibiza, Ibiza on Sun, 4 Oct 2026.
 
-Kim April is a house and tech house artist based in Netherlands, tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside Sidney Charles, ELVI (SE) and Job de Jong. Next up: Egg London, London on Sat 26 Sept.
+Kim April is a house and tech house artist based in Netherlands, tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside Sidney Charles, ELVI (SE) and Job de Jong. Next up: 528 Ibiza, Ibiza on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Egg London | London |
 | Sun, 4 Oct 2026 | 528 Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Apophis Club | Milan |
 | Thu, 22 Oct 2026 | Het Sieraad | Amsterdam |

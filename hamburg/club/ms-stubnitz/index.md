@@ -1,14 +1,13 @@
 # MS Stubnitz
 
-MS Stubnitz is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "rrausfish" on Sat, 26 Sept 2026.
+MS Stubnitz is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Roots of Darkness - Season Opening" on Sat, 10 Oct 2026.
 
-MS Stubnitz is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including CHIEF QUEEF, Cufme, DJ Business and DJ Hochzeit and 2 more. Browse upcoming dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
+MS Stubnitz is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including CHIEF QUEEF, Cufme, DJ Business and HiHat and 2 more. Browse upcoming dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | rrausfish | DJ Hochzeit, DJ Troy, Ilja Franz, MLE (2), Nicole., Zehsar |
 | Sat, 10 Oct 2026 | Roots of Darkness - Season Opening |  |
 | Sat, 28 Nov 2026 | STUDIO 69 | CHIEF QUEEF, Cufme, DJ Business (2), HiHat, Plattenlieferant, Sophti, Wall Ra |
 

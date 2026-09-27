@@ -1,14 +1,13 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
+Unai Trotti is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Unai Trotti is a techno and house artist based in United Kingdom, tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Austin and Bali and 50 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: FOLD, London on Sat 26 Sept.
+Unai Trotti is a techno and house artist based in United Kingdom, tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Austin and Bali and 50 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | FOLD | London |
 | Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 2 Oct 2026 | 24 Kitchen Street | Liverpool |
 | Sat, 17 Oct 2026 | Final | Taipei |

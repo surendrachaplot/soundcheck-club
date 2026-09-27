@@ -1,14 +1,13 @@
 # Alex O'Rion
 
-Alex O'Rion is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bridge Gardens, Glasgow on Sat, 26 Sept 2026.
+Alex O'Rion is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Akhnaton, Amsterdam on Thu, 22 Oct 2026.
 
-Alex O'Rion is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Bristol and Budapest and 17 more. Often billed alongside Alain Pauwels, Guy J and Around Us. Next up: Bridge Gardens, Glasgow on Sat 26 Sept.
+Alex O'Rion is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Bristol and Budapest and 17 more. Often billed alongside Alain Pauwels, Guy J and Around Us. Next up: Akhnaton, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Bridge Gardens | Glasgow |
 | Thu, 22 Oct 2026 | Akhnaton | Amsterdam |
 | Sun, 25 Oct 2026 | Bridge Gardens | Glasgow |
 

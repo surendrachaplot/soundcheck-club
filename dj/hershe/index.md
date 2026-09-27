@@ -1,15 +1,18 @@
 # HerShe
 
-HerShe is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+HerShe is a Bass and Dubstep artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
-HerShe is a bass and dubstep artist based in Georgia, tracked on soundcheck, with 23 sets logged across Austin, Los Angeles, Miami and New York City and 2 more. Often billed alongside A Little Sound, Azyr and Bou (UK). Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+HerShe is a bass and dubstep artist based in Georgia, tracked on soundcheck, with 26 sets logged across Austin, Dallas Fort Worth, Jacksonville and Los Angeles and 4 more. Often billed alongside Azyr, Ian Asher and KETTAMA. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
+| Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
+| Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 
 ## Recently played
 
@@ -24,6 +27,6 @@ HerShe is a bass and dubstep artist based in Georgia, tracked on soundcheck, wit
 
 ## Shares bills with
 
-A Little Sound, Azyr, Bou (UK)
+Azyr, Ian Asher, KETTAMA
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hershe/)*

@@ -1,11 +1,11 @@
 # u/zoe (@zoe)
 
-u/zoe (@zoe) has logged 10 gigs across 6 venues in 4 cities on soundcheck, based in London.
+u/zoe (@zoe) has logged 11 gigs across 7 venues in 4 cities on soundcheck, based in London.
 
-- Gigs logged: 10
-- Venues: 6
+- Gigs logged: 11
+- Venues: 7
 - Cities: 4
-- Seen live: 35
+- Seen live: 37
 
 ## Most seen
 
@@ -15,7 +15,7 @@ u/zoe (@zoe) has logged 10 gigs across 6 venues in 4 cities on soundcheck, based
 - [ANNĒ](https://soundcheck.club/dj/anne/)
 - [Elli Acula](https://soundcheck.club/dj/elliacula/)
 - [FJAAK](https://soundcheck.club/dj/fjaak/)
+- [Alexander Kowalski](https://soundcheck.club/dj/alexanderkowalski/)
 - [Amelie Lens](https://soundcheck.club/dj/amelielens/)
-- [Amphia](https://soundcheck.club/dj/amphia/)
 
 *Source: [soundcheck](https://soundcheck.club/u/zoe/)*

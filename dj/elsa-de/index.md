@@ -1,14 +1,13 @@
 # ELSA (DE)
 
-ELSA (DE) is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Romantica, Stuttgart on Sat, 26 Sept 2026.
+ELSA (DE) is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at OHM, Berlin on Sun, 4 Oct 2026.
 
-ELSA (DE) is a techno and dub techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Frankfurt and Stuttgart. Often billed alongside Tobi Lack, Audrey Danza and BA’AL. Next up: Romantica, Stuttgart on Sat 26 Sept.
+ELSA (DE) is a techno and dub techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Frankfurt and Stuttgart. Often billed alongside Tobi Lack, Audrey Danza and BA’AL. Next up: OHM, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Romantica | Stuttgart |
 | Sun, 4 Oct 2026 | OHM | Berlin |
 | Fri, 9 Oct 2026 | Tokonoma Club | Frankfurt |
 

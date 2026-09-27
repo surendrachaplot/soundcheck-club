@@ -1,8 +1,8 @@
 # Ely Oaks
 
-Ely Oaks is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Trix, Antwerp on Thu, 1 Oct 2026.
+Ely Oaks is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Trix, Antwerp on Thu, 1 Oct 2026.
 
-Ely Oaks is a techno and house artist based in Austria, tracked on soundcheck, with 43 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 24 more. Often billed alongside Space 92, DAX J and HNTR. Next up: Trix, Antwerp on Thu 1 Oct.
+Ely Oaks is a techno and house artist based in Austria, tracked on soundcheck, with 44 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 25 more. Often billed alongside Space 92, DAX J and HNTR. Next up: Trix, Antwerp on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Ely Oaks is a techno and house artist based in Austria, tracked on soundcheck, w
 | Wed, 28 Oct 2026 | Central Chapelle | Paris |
 | Sat, 7 Nov 2026 | Q Nightclub | Seattle |
 | Wed, 11 Nov 2026 | Bauhaus | Houston |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
 

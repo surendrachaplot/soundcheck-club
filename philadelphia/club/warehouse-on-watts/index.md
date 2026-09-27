@@ -1,14 +1,13 @@
 # Warehouse on Watts
 
-Warehouse on Watts is a music venue in Philadelphia with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Ravefurrest x The Machine" on Sat, 26 Sept 2026.
+Warehouse on Watts is a music venue in Philadelphia with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Madwrrld" on Fri, 2 Oct 2026.
 
-Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 13 upcoming gigs, with line-ups including ANDi MANDi, ARTEMIX, DJ Love and DJ Tennis and 2 more. Browse upcoming dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
+Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 12 upcoming gigs, with line-ups including ANDi MANDi, ARTEMIX, DJ Love and DJ Tennis and 2 more. Browse upcoming dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Ravefurrest x The Machine |  |
 | Fri, 2 Oct 2026 | Madwrrld | MADGRRL |
 | Sat, 3 Oct 2026 | Shameless feat. Laure Croft + Afters | ANDi MANDi, ARTEMIX, Fold Theory, JFK, Laure Croft |
 | Sun, 4 Oct 2026 | Cortisa Star - For All The Dolls Tour |  |
@@ -18,6 +17,7 @@ Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 13 upc
 | Sat, 10 Oct 2026 | Black Hause |  |
 | Sat, 17 Oct 2026 | The Shakedown 25 Year Anniversary: Louie Vega all night long | Louie Vega |
 | Sat, 24 Oct 2026 | Repeat Behavior presents GAY PANIC! with JIALING | DJ Love, JIALING, ONEELEVEN, kraftwitch |
+| Fri, 30 Oct 2026 | EQ x The Machine |  |
 
 ## Address
 

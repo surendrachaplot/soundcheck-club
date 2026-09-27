@@ -1,14 +1,13 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Peace Control (Indie Dance & Afro House) at MadaRae" on Sat, 26 Sept 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "OFFAIAH ( House & Tech House) at MadaRae" on Fri, 2 Oct 2026.
 
-Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 8 upcoming gigs, with line-ups including Deer (US), Hi Milio, MAGA and Malive and 2 more. Browse upcoming dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
+Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcoming gigs, with line-ups including Deer (US), Hi Milio, MAGA and Malive and 2 more. Browse upcoming dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Peace Control (Indie Dance & Afro House) at MadaRae | Peace Control |
 | Fri, 2 Oct 2026 | OFFAIAH ( House & Tech House) at MadaRae | Hi Milio, OFFAIAH |
 | Sat, 3 Oct 2026 | LINCOLN JESSER (Melodic House) at MadaRae |  |
 | Fri, 9 Oct 2026 | Malive (Maccabi House, MoBlack, Kompakt, Dynamic) | Malive |

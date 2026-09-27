@@ -1,14 +1,15 @@
 # Cole Knight
 
-Cole Knight is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Floyd, Miami on Sun, 27 Sept 2026.
+Cole Knight is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Floyd, Miami on Sun, 27 Sept 2026.
 
-Cole Knight is a house and techno artist based in United States of America, tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside Jamie Jones, Ben Sterling and Ms. Mada. Next up: Floyd, Miami on Sun 27 Sept.
+Cole Knight is a house and techno artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Jamie Jones, Ben Sterling and Ms. Mada. Next up: Floyd, Miami on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Floyd | Miami |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | Prysm Nightclub | Chicago |

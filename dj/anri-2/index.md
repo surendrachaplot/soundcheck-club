@@ -1,14 +1,13 @@
 # Anri (2)
 
-Anri (2) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Aoyama Hachi, Tokyo on Sun, 27 Sept 2026.
+Anri (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at or, Tokyo on Sun, 18 Oct 2026.
 
-Anri is a house and tech house artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside Yamariki, liberty (JP) and Ayantula. Next up: Aoyama Hachi, Tokyo on Sun 27 Sept.
+Anri is a house and tech house artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside Yamariki, liberty (JP) and Ayantula. Next up: or, Tokyo on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Aoyama Hachi | Tokyo |
 | Sun, 18 Oct 2026 | or | Tokyo |
 
 ## Recently played

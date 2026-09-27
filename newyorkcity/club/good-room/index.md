@@ -1,14 +1,13 @@
 # Good Room
 
-Good Room is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Denham Audio, Kellam Matthews, Arina Krondeva & Rebekah Abdeen" on Sat, 26 Sept 2026.
+Good Room is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "DJ Plead, rrao" on Thu, 1 Oct 2026.
 
-Good Room is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 4AM NYC, adobeprincess, Arina Krondeva and Arvin T and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including 4AM NYC, adobeprincess, Arvin T and Baalti and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Denham Audio, Kellam Matthews, Arina Krondeva & Rebekah Abdeen | Arina Krondeva, Denham Audio, Kellam Matthews, Rebekah Abdeen |
 | Thu, 1 Oct 2026 | DJ Plead, rrao | DJ Plead, rrao |
 | Fri, 2 Oct 2026 | Fundido ft Emma Dufaux, Gianna, Dam Vera, okDUNC, Clay Cornelius | DAM (Galaxie Nites), Fundido, Gianna G, okDUNC |
 | Sat, 3 Oct 2026 | Jordan Nocturne, Arvin T, Laila Amira and Lady Harley (all night) | Arvin T, Jordan Nocturne, Lady Harley, Laila Amira |
@@ -18,6 +17,7 @@ Good Room is a music venue in New York City listed on soundcheck. 15 upcoming gi
 | Fri, 16 Oct 2026 | 12 Years of Good Room - DJ Holographic, 4AM NYC, Lee Cash & Perna (All Night) | 4AM NYC, DJ Holographic, Lee Cash, Perna |
 | Sat, 17 Oct 2026 | 12 Years of Good Room - The Carry Nation (all night), Timo Lee, JÄK-87 | JÄK-87, The Carry Nation, Timo Lee |
 | Sat, 24 Oct 2026 | FIXED with Mozhgan, JDH & Dave P, Universal Cave (all night) | JDH & Dave P, Mozhgan, Universal Cave |
+| Fri, 30 Oct 2026 | Synthicide Halloween ft Terence Fixmer, Andi, Justin Aulis Long, Stiffdance | Andi, Justin Aulis Long, Stiffdance, Terence Fixmer |
 
 ## Address
 

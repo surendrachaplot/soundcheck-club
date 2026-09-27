@@ -1,14 +1,15 @@
 # Chez de Milo
 
-Chez de Milo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Gaffe, London on Fri, 9 Oct 2026.
+Chez de Milo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Gaffe, London on Fri, 9 Oct 2026.
 
-Chez de Milo is a house and techno artist based in United Kingdom, tracked on soundcheck, with 127 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Ellie Stokes, Dave Harvey and Ivan Smagghe. Next up: Gaffe, London on Fri 9 Oct.
+Chez de Milo is a house and techno artist based in United Kingdom, tracked on soundcheck, with 128 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 20 more. Often billed alongside Ellie Stokes, Dave Harvey and Ivan Smagghe. Next up: Gaffe, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Gaffe | London |
+| Sat, 31 Oct 2026 | TBA | West-wales |
 
 ## Recently played
 

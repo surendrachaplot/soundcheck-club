@@ -1,14 +1,13 @@
 # Gene On Earth
 
-Gene On Earth is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fünk, Mexico City on Sat, 26 Sept 2026.
+Gene On Earth is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Flash, Washington DC on Sun, 27 Sept 2026.
 
-Gene On Earth is a house and techno artist based in United States of America, tracked on soundcheck, with 205 sets logged across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Fünk, Mexico City on Sat 26 Sept.
+Gene On Earth is a house and techno artist based in United States of America, tracked on soundcheck, with 205 sets logged across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Flash, Washington DC on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Fünk | Mexico City |
 | Sun, 27 Sept 2026 | Flash | Washington DC |
 | Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
 | Sat, 10 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |

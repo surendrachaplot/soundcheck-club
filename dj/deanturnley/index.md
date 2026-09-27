@@ -1,8 +1,8 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Dean Turnley is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-Dean Turnley is a house and tech house artist based in Australia, tracked on soundcheck, with 27 sets logged across Adelaide, Amsterdam, Auckland and Belfast and 22 more. Often billed alongside MPH, Skepta and Ewan McVicar. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+Dean Turnley is a house and tech house artist based in Australia, tracked on soundcheck, with 28 sets logged across Adelaide, Amsterdam, Auckland and Belfast and 23 more. Often billed alongside Hamdi, MPH and Skepta. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Dean Turnley is a house and tech house artist based in Australia, tracked on sou
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Fri, 9 Oct 2026 | Big Pink | Detroit |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Fri, 23 Oct 2026 | Art Club | Houston |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 | Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
@@ -19,7 +20,6 @@ Dean Turnley is a house and tech house artist based in Australia, tracked on sou
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
-| Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Dean Turnley is a house and tech house artist based in Australia, tracked on sou
 
 ## Shares bills with
 
-MPH (1), Skepta, Ewan McVicar
+Hamdi, MPH (1), Skepta
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

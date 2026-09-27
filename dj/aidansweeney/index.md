@@ -1,14 +1,13 @@
 # Aidan Sweeney
 
-Aidan Sweeney is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Island, Sydney on Sun, 27 Sept 2026.
+Aidan Sweeney is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Lucky Cat, Sydney on Sun, 4 Oct 2026.
 
-Aidan Sweeney is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow and Sydney. Often billed alongside SOHAIL, BRAD WATTS and CLOVA. Next up: The Island, Sydney on Sun 27 Sept.
+Aidan Sweeney is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow and Sydney. Often billed alongside SOHAIL, BRAD WATTS and CLOVA. Next up: The Lucky Cat, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | The Island | Sydney |
 | Sun, 4 Oct 2026 | The Lucky Cat | Sydney |
 
 ## Recently played

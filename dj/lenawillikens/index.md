@@ -1,14 +1,13 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Lena Willikens is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Lena Willikens is a techno and house artist based in Germany, tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
+Lena Willikens is a techno and house artist based in Germany, tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 2 Oct 2026 | Macadam | Nantes |
 | Sat, 3 Oct 2026 | TBA - Saint-Denis | Paris |
@@ -20,6 +19,7 @@ Lena Willikens is a techno and house artist based in Germany, tracked on soundch
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 6 Nov 2026 | Beursschouwburg | Brussels |
 | Sat, 7 Nov 2026 | The DBA | Manchester |
+| Sat, 21 Nov 2026 | Cadavra | Madrid |
 
 ## Recently played
 

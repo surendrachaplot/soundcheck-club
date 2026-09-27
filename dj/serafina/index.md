@@ -1,20 +1,20 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+Serafina is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Schrotty, Cologne on Fri, 9 Oct 2026.
 
-Serafina is a techno and trance artist based in Germany, tracked on soundcheck, with 165 sets logged across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Maitland Showground, Sydney on Fri 25 Sept.
+Serafina is a techno and trance artist based in Germany, tracked on soundcheck, with 166 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Schrotty, Cologne on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Fri, 9 Oct 2026 | Schrotty | Cologne |
 | Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
 | Wed, 21 Oct 2026 | Sugarfactory | Amsterdam |
 | Sat, 14 Nov 2026 | Level 1 @ Cannonball Arts | Seattle |
 | Fri, 20 Nov 2026 | Native Beach Club | Buenos Aires |
 | Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
+| Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 4 Dec 2026 | TBA - Warehouse | Toronto |
 | Sat, 5 Dec 2026 | TBA - BROOKLYN NY | New York City |
 

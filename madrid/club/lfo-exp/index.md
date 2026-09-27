@@ -1,14 +1,13 @@
 # LFO.exp
 
-LFO.exp is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "RRADIAL AFTERPARTY at LFO.XP" on Sat, 26 Sept 2026.
+LFO.exp is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Mediums" on Fri, 2 Oct 2026.
 
-LFO.exp is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including Abdulla A., Alinka, Avo (ES) and Chris Gorrie and 2 more. Browse upcoming dates, start times and who's playing. Secret Location.
+LFO.exp is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Abdulla A., Alinka, Avo (ES) and Chris Gorrie and 2 more. Browse upcoming dates, start times and who's playing. Secret Location.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | RRADIAL AFTERPARTY at LFO.XP |  |
 | Fri, 2 Oct 2026 | Mediums | Abdulla A., Avo (ES), Deceit, Jorge Padilla |
 | Fri, 9 Oct 2026 | EN1GMACLUB | Alinka, FUKCNORMAL, Wurmk, lesbiannette |
 | Fri, 16 Oct 2026 | Fernweh OPENING SEASON |  |

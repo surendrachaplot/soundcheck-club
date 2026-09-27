@@ -1,14 +1,13 @@
 # Marcal
 
-Marcal is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at BASEMENT, New York City on Sat, 26 Sept 2026.
+Marcal is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Wigwam, Dublin on Fri, 30 Oct 2026.
 
-Marcal is a techno and house artist based in Brazil, tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Ignez, Efdemin and Zisko. Next up: BASEMENT, New York City on Sat 26 Sept.
+Marcal is a techno and house artist based in Brazil, tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Ignez, Efdemin and Zisko. Next up: Wigwam, Dublin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | BASEMENT | New York City |
 | Fri, 30 Oct 2026 | Wigwam | Dublin |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |

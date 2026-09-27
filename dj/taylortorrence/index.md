@@ -1,13 +1,14 @@
 # Taylor Torrence
 
-Taylor Torrence is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+Taylor Torrence is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Taylor Torrence is a techno and trance artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit, Los Angeles, San Francisco/Oakland and Seattle and 1 more. Often billed alongside Amy Wiles, Billy Gillies and Paul Oakenfold. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
+Taylor Torrence is a techno and trance artist based in United States of America, tracked on soundcheck, with 9 sets logged across Detroit, Los Angeles, Medellin and San Francisco/Oakland and 2 more. Often billed alongside Billy Gillies, Amy Wiles and Armin van Buuren. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 
 ## Recently played
@@ -22,6 +23,6 @@ Taylor Torrence is a techno and trance artist based in United States of America,
 
 ## Shares bills with
 
-Amy Wiles, Billy Gillies, Paul Oakenfold
+Billy Gillies, Amy Wiles, Armin van Buuren
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taylortorrence/)*

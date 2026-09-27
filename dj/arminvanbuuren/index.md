@@ -1,8 +1,8 @@
 # Armin van Buuren
 
-Armin van Buuren is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at [UNVRS], Ibiza on Mon, 28 Sept 2026.
+Armin van Buuren is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at [UNVRS], Ibiza on Mon, 28 Sept 2026.
 
-Armin van Buuren is a trance and techno artist based in Netherlands, tracked on soundcheck, with 69 sets logged across Amsterdam, Austin, Barcelona and Bristol and 24 more. Often billed alongside Miss Monique, Maddix and Amy Wiles. Next up: [UNVRS], Ibiza on Mon 28 Sept.
+Armin van Buuren is a trance and techno artist based in Netherlands, tracked on soundcheck, with 70 sets logged across Amsterdam, Austin, Barcelona and Bristol and 25 more. Often billed alongside Miss Monique, Artbat and Billy Gillies. Next up: [UNVRS], Ibiza on Mon 28 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Armin van Buuren is a trance and techno artist based in Netherlands, tracked on 
 | Mon, 28 Sept 2026 | [UNVRS] | Ibiza |
 | Mon, 5 Oct 2026 | [UNVRS] | Ibiza |
 | Sat, 10 Oct 2026 | Factory Town | Miami |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Wed, 21 Oct 2026 | GASHOUDER | Amsterdam |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 
@@ -27,6 +28,6 @@ Armin van Buuren is a trance and techno artist based in Netherlands, tracked on 
 
 ## Shares bills with
 
-Miss Monique, Maddix, Amy Wiles
+Miss Monique, Artbat, Billy Gillies
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*

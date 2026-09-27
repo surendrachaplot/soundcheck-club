@@ -1,14 +1,15 @@
 # Zedd
 
-Zedd is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Zedd is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-Zedd is a house and techno artist based in Germany, tracked on soundcheck, with 28 sets logged across Bali, Bangkok, Berlin and Buenos Aires and 12 more. Often billed alongside Galantis, Dom Dolla and SOFI TUKKER. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+Zedd is a house and techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Arizona, Bali, Bangkok and Berlin and 13 more. Often billed alongside Galantis, Dom Dolla and SOFI TUKKER. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
+| Fri, 30 Oct 2026 | Westworld of Scottsdale | Arizona |
 
 ## Recently played
 

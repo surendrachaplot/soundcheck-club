@@ -1,13 +1,14 @@
 # Ylia
 
-Ylia is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Ylia is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
-Ylia is a house and disco artist based in Spain, tracked on soundcheck, with 27 sets logged across Barcelona, Madrid, Malaga and Rome and 3 more. Often billed alongside Lucient, Phran and Meritxell De Soto. Next up: Complejo Embrujo, South on Sat 3 Oct.
+Ylia is a house and disco artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona, Madrid, Malaga and Rome and 3 more. Often billed alongside Lucient, Phran and Jeff Mills. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sat, 3 Oct 2026 | Complejo Embrujo | South |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ylia is a house and disco artist based in Spain, tracked on soundcheck, with 27 
 
 ## Shares bills with
 
-Lucient, Phran, Meritxell De Soto
+Lucient, Phran, Jeff Mills
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ylia/)*

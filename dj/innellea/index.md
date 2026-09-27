@@ -1,14 +1,13 @@
 # Innellea
 
-Innellea is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+Innellea is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Savaya Bali, Bali on Sat, 17 Oct 2026.
 
-Innellea is a techno and house artist based in Germany, tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside Colyn, Mind Against and Âme. Next up: Maitland Showground, Sydney on Fri 25 Sept.
+Innellea is a techno and house artist based in Germany, tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside Colyn, Mind Against and Âme. Next up: Savaya Bali, Bali on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Sat, 17 Oct 2026 | Savaya Bali | Bali |
 | Sat, 31 Oct 2026 | Klein Phönix | Istanbul |
 | Sat, 7 Nov 2026 | Celebrities Night Club | Vancouver |

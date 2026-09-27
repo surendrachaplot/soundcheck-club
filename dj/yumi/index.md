@@ -1,6 +1,6 @@
 # Yu Mi
 
-Yu Mi is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+Yu Mi is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
 
 Yu Mi is a techno and bass artist based in United States of America, tracked on soundcheck, with 89 sets logged across Amsterdam, Berlin, Detroit and Ghent and 11 more. Often billed alongside Amelia Holt, deep creep and Hank Jackson. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
 
@@ -9,7 +9,6 @@ Yu Mi is a techno and bass artist based in United States of America, tracked on 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 22 Sept 2026 | Drama Radio Bar | Mexico City |
-| Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 2 Oct 2026 | Cu | London |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 

@@ -1,13 +1,14 @@
 # Alesso
 
-Alesso is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Alesso is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Alesso is a house and techno artist tracked on soundcheck, with 31 sets logged across Amsterdam, Bangkok, Brisbane and Buenos Aires and 14 more. Often billed alongside The Chainsmokers, Gryffin and Steve Aoki. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Alesso is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Bangkok, Brisbane and Buenos Aires and 15 more. Often billed alongside The Chainsmokers, Gryffin and Steve Aoki. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 

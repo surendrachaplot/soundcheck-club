@@ -1,19 +1,21 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Poolen, Copenhagen on Fri, 16 Oct 2026.
+Nico Moreno is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Nico Moreno is a techno and house artist based in France, tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Poolen, Copenhagen on Fri 16 Oct.
+Nico Moreno is a techno and house artist based in France, tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 16 Oct 2026 | Poolen | Copenhagen |
 | Thu, 22 Oct 2026 | GASHOUDER | Amsterdam |
 | Fri, 6 Nov 2026 | Echostage | Washington DC |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 | Fri, 18 Dec 2026 | Messe Stuttgart | Stuttgart |
+| Thu, 31 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
 

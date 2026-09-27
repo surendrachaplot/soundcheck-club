@@ -1,14 +1,13 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at KALT, Strasbourg on Sat, 26 Sept 2026.
+Massimiliano Pagliara is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Société des arts technologiques, Montreal on Sat, 3 Oct 2026.
 
-Massimiliano Pagliara is a house and techno artist based in Italy, tracked on soundcheck, with 247 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: KALT, Strasbourg on Sat 26 Sept.
+Massimiliano Pagliara is a house and techno artist based in Italy, tracked on soundcheck, with 247 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Société des arts technologiques, Montreal on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | KALT | Strasbourg |
 | Sat, 3 Oct 2026 | Société des arts technologiques | Montreal |
 | Fri, 16 Oct 2026 | New Century Locker | Manchester |
 | Sat, 17 Oct 2026 | Fuchs2 | Prague |

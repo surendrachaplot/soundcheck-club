@@ -1,8 +1,8 @@
 # KlangKuenstler
 
-KlangKuenstler is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Forum, Los Angeles on Sat, 3 Oct 2026.
+KlangKuenstler is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Forum, Los Angeles on Sat, 3 Oct 2026.
 
-KlangKuenstler is a techno and house artist based in Germany, tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Daria Kolosova, Kobosil and I Hate Models. Next up: The Forum, Los Angeles on Sat 3 Oct.
+KlangKuenstler is a techno and house artist based in Germany, tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Daria Kolosova, I Hate Models and Kobosil. Next up: The Forum, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ KlangKuenstler is a techno and house artist based in Germany, tracked on soundch
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Sat, 12 Dec 2026 | Multiversum Schwechat | Vienna |
+| Thu, 31 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
 
@@ -28,6 +29,6 @@ KlangKuenstler is a techno and house artist based in Germany, tracked on soundch
 
 ## Shares bills with
 
-Daria Kolosova, Kobosil, I Hate Models
+Daria Kolosova, I Hate Models, Kobosil
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*

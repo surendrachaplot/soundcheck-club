@@ -1,14 +1,13 @@
 # Maara
 
-Maara is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Green Room NYC, New York City on Sat, 26 Sept 2026.
+Maara is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at UMI, Brussels on Sat, 17 Oct 2026.
 
-Maara is a techno and house artist based in Canada, tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: Green Room NYC, New York City on Sat 26 Sept.
+Maara is a techno and house artist based in Canada, tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: UMI, Brussels on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Green Room NYC | New York City |
 | Sat, 17 Oct 2026 | UMI | Brussels |
 | Sun, 18 Oct 2026 | La Gaîté Lyrique | Paris |
 | Fri, 23 Oct 2026 | Benelux BAR | Amsterdam |

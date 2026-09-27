@@ -1,15 +1,13 @@
 # Monkey Safari
 
-Monkey Safari is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+Monkey Safari is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Zumana Bali, Bali on Wed, 30 Sept 2026.
 
-Monkey Safari is a house and techno artist based in Germany, tracked on soundcheck, with 107 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 32 more. Often billed alongside Einmusik, Surreal Flight and ELIF. Next up: Maitland Showground, Sydney on Fri 25 Sept.
+Monkey Safari is a house and techno artist based in Germany, tracked on soundcheck, with 107 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 32 more. Often billed alongside Einmusik, Surreal Flight and ELIF. Next up: Zumana Bali, Bali on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Maitland Showground | Sydney |
-| Sun, 27 Sept 2026 | Revolver Upstairs | Melbourne |
 | Wed, 30 Sept 2026 | Zumana Bali | Bali |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 14 Nov 2026 | Ritter Butzke | Berlin |

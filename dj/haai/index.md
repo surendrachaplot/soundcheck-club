@@ -1,14 +1,13 @@
 # HAAi
 
-HAAi is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Kilomètre25, Paris on Sat, 26 Sept 2026.
+HAAi is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Palladium, Geneva on Fri, 9 Oct 2026.
 
-HAAi is a techno and house artist based in Australia, tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Athens and Bali and 56 more. Often billed alongside DJ Tennis, Saoirse and salute. Next up: Kilomètre25, Paris on Sat 26 Sept.
+HAAi is a techno and house artist based in Australia, tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Athens and Bali and 56 more. Often billed alongside DJ Tennis, Saoirse and salute. Next up: Palladium, Geneva on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Kilomètre25 | Paris |
 | Fri, 9 Oct 2026 | Palladium | Geneva |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
@@ -20,6 +19,7 @@ HAAi is a techno and house artist based in Australia, tracked on soundcheck, wit
 | Sat, 31 Oct 2026 | EartH | London |
 | Sat, 31 Oct 2026 | EartH | London |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
+| Thu, 3 Dec 2026 | The Ground at Club Space | Miami |
 
 ## Recently played
 

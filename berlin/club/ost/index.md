@@ -1,14 +1,13 @@
 # OST
 
-OST is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Mixmag Germany Session" on Sat, 26 Sept 2026.
+OST is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "[FREE ENTRY TILL 00:30] SAVORY" on Thu, 1 Oct 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including ĀFRAME, Alas, ALT8 and Amo (IT) and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including ĀFRAME, Alas, ALT8 and Amo (IT) and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Mixmag Germany Session | Arman John, Ben Techy, Cybersex, PERT |
 | Thu, 1 Oct 2026 | [FREE ENTRY TILL 00:30] SAVORY | Iguana (2), WAN.1 |
 | Fri, 2 Oct 2026 | OST Free Rave | An Chen, HOTBOI2300, Michael Klotz, senaitstar |
 | Sat, 3 Oct 2026 | Polyamor | Alas (2), Cleopard2000, Elotrance, HiTMiLØW, Justin Tinderdate, LAMMER, The Muffin Man, VIVI909, XIMA, Yasmin Regisford |
@@ -18,6 +17,7 @@ OST is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line
 | Sat, 10 Oct 2026 | VERKNIPT Germany - Berlin - October 10 | ANXHELA, BOVSKI, Blossmbae, Juno (NY), KLOUD, Maudux, two girls one mom |
 | Thu, 15 Oct 2026 | [FREE ENTRY TILL 00:30] SAVORY | ĀFRAME |
 | Fri, 16 Oct 2026 | Devoted w. A.N.I., Kø:lab, SaltySis, KLING&KLANG | A.N.I., BLACK(JP), Billy Currie, KLING&KLANG, Kø:lab, Nettta, SEKTOR69, SWAGGER, SaltySis |
+| Sat, 17 Oct 2026 | Pinky Promise: Midnight Circus | Amowia, Elias Doré, KinoKo, babxi, nasnan |
 
 ## Address
 

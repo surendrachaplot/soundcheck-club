@@ -1,8 +1,8 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
+Jeff Mills is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
 
-Jeff Mills is a techno and house artist based in United States of America, tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Auckland and 58 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Amnesia Ibiza, Ibiza on Sun 27 Sept.
+Jeff Mills is a techno and house artist based in United States of America, tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Auckland and 59 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Amnesia Ibiza, Ibiza on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jeff Mills is a techno and house artist based in United States of America, track
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 30 Sept 2026 | Fvtvr | Paris |
 | Sat, 3 Oct 2026 | Complejo Embrujo | South |
+| Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sun, 11 Oct 2026 | Saline Royale D'arc-et-Senans (25 Doubs) | Lyon |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | Sugarfactory | Amsterdam |
@@ -18,8 +19,7 @@ Jeff Mills is a techno and house artist based in United States of America, track
 | Wed, 28 Oct 2026 | Moog Club | Barcelona |
 | Sat, 31 Oct 2026 | Mondo Open Air | Madrid |
 | Sun, 1 Nov 2026 | Sophie Festival | Malaga |
-| Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
-| Fri, 4 Dec 2026 | MFCC Arena | Malta |
+| Sat, 14 Nov 2026 | Plaza Mayor Medellin | Medellin |
 
 ## Recently played
 

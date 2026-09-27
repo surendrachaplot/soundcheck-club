@@ -1,14 +1,13 @@
 # Sylvie Maziarz
 
-Sylvie Maziarz is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 26 Sept 2026.
+Sylvie Maziarz is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at WDM, Hannover on Fri, 2 Oct 2026.
 
-Sylvie Maziarz is a techno and trance artist based in Germany, tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 6 more. Often billed alongside KLING&KLANG, Alex.Do and DJ Traytex. Next up: TBA - Secret Location, Berlin on Sat 26 Sept.
+Sylvie Maziarz is a techno and trance artist based in Germany, tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 6 more. Often billed alongside KLING&KLANG, Alex.Do and DJ Traytex. Next up: WDM, Hannover on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Secret Location | Berlin |
 | Fri, 2 Oct 2026 | WDM | Hannover |
 | Sat, 3 Oct 2026 | Ritter Butzke | Berlin |
 | Mon, 5 Oct 2026 | KitKatClub | Berlin |

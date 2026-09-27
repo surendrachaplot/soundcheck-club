@@ -1,8 +1,8 @@
 # MADGRRL
 
-MADGRRL is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Warehouse on Watts, Philadelphia on Fri, 2 Oct 2026.
+MADGRRL is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Warehouse on Watts, Philadelphia on Fri, 2 Oct 2026.
 
-MADGRRL is a techno and industrial artist based in United States of America, tracked on soundcheck, with 16 sets logged across Denver, Los Angeles, Miami and New York City and 5 more. Often billed alongside 2SIXXX, 6EJOU and 999999999. Next up: Warehouse on Watts, Philadelphia on Fri 2 Oct.
+MADGRRL is a techno and industrial artist based in United States of America, tracked on soundcheck, with 18 sets logged across Dallas Fort Worth, Denver, Los Angeles and Miami and 6 more. Often billed alongside I Hate Models, Azyr and Chris Lake. Next up: Warehouse on Watts, Philadelphia on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ MADGRRL is a techno and industrial artist based in United States of America, tra
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Warehouse on Watts | Philadelphia |
 | Sat, 10 Oct 2026 | TBA - Void Studios | Denver |
+| Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
+| Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 
 ## Recently played
 
@@ -24,6 +26,6 @@ MADGRRL is a techno and industrial artist based in United States of America, tra
 
 ## Shares bills with
 
-2SIXXX, 6EJOU, 999999999
+I Hate Models, Azyr, Chris Lake
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madgrrl/)*

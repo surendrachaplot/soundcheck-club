@@ -1,14 +1,13 @@
 # DJ Hell
 
-DJ Hell is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Eventhuset, Stockholm on Sat, 26 Sept 2026.
+DJ Hell is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Art School, Glasgow on Sat, 10 Oct 2026.
 
-DJ Hell is a techno and house artist based in Germany, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Binh, Paty Vapor and Helena Hauff. Next up: Eventhuset, Stockholm on Sat 26 Sept.
+DJ Hell is a techno and house artist based in Germany, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Binh, Paty Vapor and Helena Hauff. Next up: The Art School, Glasgow on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Eventhuset | Stockholm |
 | Sat, 10 Oct 2026 | The Art School | Glasgow |
 | Sat, 17 Oct 2026 | Fuse | Brussels |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |

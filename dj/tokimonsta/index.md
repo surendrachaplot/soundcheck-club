@@ -1,13 +1,14 @@
 # TOKiMONSTA
 
-TOKiMONSTA is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Church Nightclub, Denver on Fri, 13 Nov 2026.
+TOKiMONSTA is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at HVEN, Tokyo on Fri, 2 Oct 2026.
 
-TOKiMONSTA is a house and electronica artist based in United States of America, tracked on soundcheck, with 33 sets logged across Amsterdam, Austin, Berlin and Chicago and 15 more. Often billed alongside Rochelle Jordan, Rozet and Bonobo. Next up: The Church Nightclub, Denver on Fri 13 Nov.
+TOKiMONSTA is a house and electronica artist based in United States of America, tracked on soundcheck, with 34 sets logged across Amsterdam, Austin, Berlin and Chicago and 16 more. Often billed alongside Rochelle Jordan, Rozet and Bonobo. Next up: HVEN, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | HVEN | Tokyo |
 | Fri, 13 Nov 2026 | The Church Nightclub | Denver |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 

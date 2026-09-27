@@ -1,14 +1,15 @@
 # Marcellus Pittman
 
-Marcellus Pittman is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Refuge, New York City on Sun, 4 Oct 2026.
+Marcellus Pittman is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Refuge, New York City on Sun, 4 Oct 2026.
 
-Marcellus Pittman is a house and techno artist based in United States of America, tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Athens and Auckland and 48 more. Often billed alongside Ash Lauryn, Antal and Dee Diggs. Next up: Refuge, New York City on Sun 4 Oct.
+Marcellus Pittman is a house and techno artist based in United States of America, tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Auckland and 49 more. Often billed alongside Ash Lauryn, Antal and Dee Diggs. Next up: Refuge, New York City on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Refuge | New York City |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 23 Oct 2026 | Night Tales | London |
 | Sat, 24 Oct 2026 | Amber's | Manchester |
 | Fri, 30 Oct 2026 | Deseo BS AS | Buenos Aires |

@@ -1,14 +1,13 @@
 # E11EVEN MIAMI
 
-E11EVEN MIAMI is a music venue in Miami with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Ruckus at E11EVEN" on Sat, 26 Sept 2026.
+E11EVEN MIAMI is a music venue in Miami with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Damaged Goods at E11EVEN" on Sun, 27 Sept 2026.
 
-E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 7 upcoming gigs. Browse upcoming dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
+E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 6 upcoming gigs. Browse upcoming dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Ruckus at E11EVEN |  |
 | Sun, 27 Sept 2026 | Damaged Goods at E11EVEN |  |
 | Mon, 28 Sept 2026 | CX at E11EVEN |  |
 | Tue, 29 Sept 2026 | Yissel at E11EVEN |  |

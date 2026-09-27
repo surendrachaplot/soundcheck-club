@@ -1,14 +1,13 @@
 # Kameliia
 
-Kameliia is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TILLATEC, Amsterdam on Sat, 26 Sept 2026.
+Kameliia is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fuse, Brussels on Sat, 3 Oct 2026.
 
-Kameliia is a techno and house artist based in Norway, tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Berlin and Brussels and 22 more. Often billed alongside Setaoc Mass, Philippa Pacho and Ignez. Next up: TILLATEC, Amsterdam on Sat 26 Sept.
+Kameliia is a techno and house artist based in Norway, tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Berlin and Brussels and 22 more. Often billed alongside Setaoc Mass, Philippa Pacho and Ignez. Next up: Fuse, Brussels on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TILLATEC | Amsterdam |
 | Sat, 3 Oct 2026 | Fuse | Brussels |
 | Fri, 23 Oct 2026 | Blast Galaxy | Amsterdam |
 | Sat, 24 Oct 2026 | BASEMENT | New York City |

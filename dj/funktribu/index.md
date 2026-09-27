@@ -1,8 +1,8 @@
 # Funk Tribu
 
-Funk Tribu is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at [UNVRS], Ibiza on Mon, 28 Sept 2026.
+Funk Tribu is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at [UNVRS], Ibiza on Mon, 28 Sept 2026.
 
-Funk Tribu is a techno and trance artist based in Colombia, tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: [UNVRS], Ibiza on Mon 28 Sept.
+Funk Tribu is a techno and trance artist based in Colombia, tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Austin and 59 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: [UNVRS], Ibiza on Mon 28 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Funk Tribu is a techno and trance artist based in Colombia, tracked on soundchec
 | --- | --- | --- |
 | Mon, 28 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 10 Oct 2026 | Factory Town | Miami |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Thu, 15 Oct 2026 | The Concourse Project | Austin |
 | Sat, 17 Oct 2026 | Knockdown Center | New York City |
 | Fri, 6 Nov 2026 | RSO.BERLIN | Berlin |

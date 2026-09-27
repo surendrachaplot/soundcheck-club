@@ -1,14 +1,13 @@
 # Rina Katen
 
-Rina Katen is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
+Rina Katen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Marmorbar, Berlin on Fri, 16 Oct 2026.
 
-Rina Katen is a house and disco artist based in Ukraine, tracked on soundcheck, with 53 sets logged across Berlin. Often billed alongside justcallmesergio, Loves_kills and Slow PSTL. Next up: OXI, Berlin on Sat 26 Sept.
+Rina Katen is a house and disco artist based in Ukraine, tracked on soundcheck, with 53 sets logged across Berlin. Often billed alongside justcallmesergio, Loves_kills and Slow PSTL. Next up: Marmorbar, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | OXI | Berlin |
 | Fri, 16 Oct 2026 | Marmorbar | Berlin |
 
 ## Recently played

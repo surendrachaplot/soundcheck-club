@@ -1,14 +1,13 @@
 # T.A.M.22
 
-T.A.M.22 is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fuse, Brussels on Sat, 26 Sept 2026.
+T.A.M.22 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Paramour, Brussels on Sat, 17 Oct 2026.
 
-T.A.M.22 is a techno and electro artist based in Belgium, tracked on soundcheck, with 16 sets logged across Antwerp, Berlin and Brussels. Often billed alongside Davy, Mogus and Annechoic. Next up: Fuse, Brussels on Sat 26 Sept.
+T.A.M.22 is a techno and electro artist based in Belgium, tracked on soundcheck, with 16 sets logged across Antwerp, Berlin and Brussels. Often billed alongside Davy, Mogus and Annechoic. Next up: Paramour, Brussels on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Fuse | Brussels |
 | Sat, 17 Oct 2026 | Paramour | Brussels |
 
 ## Recently played

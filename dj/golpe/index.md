@@ -1,17 +1,17 @@
 # Golpe
 
-Golpe is a Techno and Psytrance artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bootshaus, Cologne on Sat, 26 Sept 2026.
+Golpe is a Techno and Psytrance artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Das Werk, Vienna on Fri, 2 Oct 2026.
 
-Golpe is a techno and psytrance artist based in Czech Republic, tracked on soundcheck, with 41 sets logged across Berlin, Budapest, Cologne and Düsseldorf and 11 more. Often billed alongside RiVid, ViperXXL and 2NDRA. Next up: Bootshaus, Cologne on Sat 26 Sept.
+Golpe is a techno and psytrance artist based in Czech Republic, tracked on soundcheck, with 42 sets logged across Berlin, Budapest, Cologne and Düsseldorf and 12 more. Often billed alongside RiVid, ViperXXL and 2NDRA. Next up: Das Werk, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Bootshaus | Cologne |
 | Fri, 2 Oct 2026 | Das Werk | Vienna |
 | Sat, 3 Oct 2026 | Sala Groove | Madrid |
 | Sun, 4 Oct 2026 | Ministerium Club | Lisbon |
+| Sat, 10 Oct 2026 | WDM | Hannover |
 | Sat, 24 Oct 2026 | Sacre Coeur Prague | Prague |
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 

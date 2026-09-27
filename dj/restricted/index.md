@@ -1,24 +1,25 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Grand Quai du Port de Montreal, Montreal on Sat, 10 Oct 2026.
+Restricted is a Techno and Hardcore artist with 14 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Restricted is a techno and hardcore artist based in Australia, tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Azyr, JAZZY and Nikolina. Next up: Grand Quai du Port de Montreal, Montreal on Sat 10 Oct.
+Restricted is a techno and hardcore artist based in Australia, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Arizona and Athens and 46 more. Often billed alongside Azyr, Vieze Asbak and JAZZY. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Sat, 10 Oct 2026 | Grand Quai du Port de Montreal | Montreal |
 | Sat, 17 Oct 2026 | Royale | Boston |
 | Fri, 23 Oct 2026 | SOMA | San Diego |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
+| Fri, 30 Oct 2026 | Westworld of Scottsdale | Arizona |
 | Sat, 7 Nov 2026 | Level 1 @ Cannonball Arts | Seattle |
+| Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 27 Nov 2026 | The Prospect Building | Bristol |
 | Fri, 27 Nov 2026 | The Prospect Building | Bristol |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
-| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
-| Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 
@@ -33,6 +34,6 @@ Restricted is a techno and hardcore artist based in Australia, tracked on soundc
 
 ## Shares bills with
 
-Azyr, JAZZY (2), Nikolina
+Azyr, Vieze Asbak, JAZZY (2)
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

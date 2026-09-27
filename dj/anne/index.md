@@ -1,25 +1,25 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fabrica Abandonada, Sao Paulo on Sat, 26 Sept 2026.
+ANNĒ is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Under Club, Buenos Aires on Sun, 27 Sept 2026.
 
-ANNĒ is a techno and house artist based in Greece, tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: Fabrica Abandonada, Sao Paulo on Sat 26 Sept.
+ANNĒ is a techno and house artist based in Greece, tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: Under Club, Buenos Aires on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Fabrica Abandonada | Sao Paulo |
 | Sun, 27 Sept 2026 | Under Club | Buenos Aires |
 | Fri, 2 Oct 2026 | Gate Milano | Milan |
 | Sat, 3 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 3 Oct 2026 | TBA - glimmer, Stockmeyerstraße 43, 20457 Hamburg | Hamburg |
+| Sat, 17 Oct 2026 | WDM | Hannover |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | TBA - Address sent out to ticket holders at 6pm on 10/31 | Philadelphia |
 | Fri, 6 Nov 2026 | Bunker | Turin |
-| Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Sat, 21 Nov 2026 | WE club | Thessaloniki |
 
 ## Recently played
 

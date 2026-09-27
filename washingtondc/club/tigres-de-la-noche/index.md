@@ -1,14 +1,13 @@
 # Tigres de la Noche
 
-Tigres de la Noche is a music venue in Washington DC with 16 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Nü Androids x Solaire present: Chinonegro" on Sat, 26 Sept 2026.
+Tigres de la Noche is a music venue in Washington DC with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Achromatic presents: RIRIA" on Fri, 2 Oct 2026.
 
-Tigres de la Noche is a music venue in Washington DC listed on soundcheck. 16 upcoming gigs, with line-ups including AEREA, Chinonegro, Dusky and Eli Escobar and 2 more. Browse upcoming dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
+Tigres de la Noche is a music venue in Washington DC listed on soundcheck. 15 upcoming gigs, with line-ups including AEREA, Dusky, Eli Escobar and Flava D and 2 more. Browse upcoming dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Nü Androids x Solaire present: Chinonegro | Chinonegro |
 | Fri, 2 Oct 2026 | Achromatic presents: RIRIA | RIRIA |
 | Fri, 2 Oct 2026 | Space Between feat. BOLDEN |  |
 | Sat, 3 Oct 2026 | Nü Androids presents SünDown: Local Takeover |  |
@@ -18,6 +17,7 @@ Tigres de la Noche is a music venue in Washington DC listed on soundcheck. 16 up
 | Sat, 17 Oct 2026 | Nü Androids presents: LUCH | LUCH (MEX) |
 | Fri, 23 Oct 2026 | Nü Androids presents: Eli Escobar | Eli Escobar |
 | Fri, 30 Oct 2026 | Nü Anroids presents: Flava D | Flava D |
+| Sat, 31 Oct 2026 | Nü Androids presents SünDown: Rooléh | Mark Azar, Rooléh |
 
 ## Address
 

@@ -12,7 +12,7 @@ Oslo Hackney is a music venue in London listed on soundcheck. 5 upcoming gigs, w
 | Thu, 8 Oct 2026 | Test Dept / Sophie Sirota |  |
 | Fri, 9 Oct 2026 | SYN LDN: Eliminate with special guest: RIOT |  |
 | Sat, 7 Nov 2026 | B&M presents: Therapy Sessions London |  |
-| Fri, 13 Nov 2026 | What So Not: I Saw A Trap DJ and It Changed My Brain Chemistry | What So Not |
+| Fri, 13 Nov 2026 | What So Not: I Saw A Trap DJ and It Changed My Bio Chemistry | What So Not |
 
 ## Address
 

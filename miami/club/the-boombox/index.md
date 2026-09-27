@@ -1,14 +1,13 @@
 # The Boombox
 
-The Boombox is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Goth Star Live" on Sat, 26 Sept 2026.
+The Boombox is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "Ravefurrest Miami" on Fri, 16 Oct 2026.
 
-The Boombox is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including Demifiend and kittenhouse. Browse upcoming dates, start times and who's playing. 4447 SW 75 Ave Miami, FL 33155.
+The Boombox is a music venue in Miami listed on soundcheck. 1 upcoming gig, with line-ups including Demifiend and kittenhouse. Browse upcoming dates, start times and who's playing. 4447 SW 75 Ave Miami, FL 33155.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Goth Star Live |  |
 | Fri, 16 Oct 2026 | Ravefurrest Miami | Demifiend, kittenhouse |
 
 ## Address

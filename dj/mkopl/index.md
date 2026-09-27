@@ -1,14 +1,13 @@
 # MKO (PL)
 
-MKO (PL) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
+MKO (PL) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Jasna 1, Warsaw on Fri, 9 Oct 2026.
 
-MKO (PL) is a techno and house artist based in Poland, tracked on soundcheck, with 79 sets logged across Berlin, Krakow, Manchester and Prague and 3 more. Often billed alongside PAWEL (PL), Kovvalsky and Ola Teks. Next up: Jasna 1, Warsaw on Sat 26 Sept.
+MKO (PL) is a techno and house artist based in Poland, tracked on soundcheck, with 79 sets logged across Berlin, Krakow, Manchester and Prague and 3 more. Often billed alongside PAWEL (PL), Kovvalsky and Ola Teks. Next up: Jasna 1, Warsaw on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Jasna 1 | Warsaw |
 | Fri, 9 Oct 2026 | Jasna 1 | Warsaw |
 
 ## Recently played

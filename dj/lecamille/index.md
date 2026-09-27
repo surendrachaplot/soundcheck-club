@@ -1,14 +1,13 @@
 # LeCamille
 
-LeCamille is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Culture Lab LIC, New York City on Sat, 26 Sept 2026.
+LeCamille is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 13 Oct 2026.
 
-LeCamille is a club and bass artist based in United States of America, tracked on soundcheck, with 62 sets logged across Miami and New York City. Often billed alongside BEYBLADE SHAWTY, Love Higher and 444. Next up: Culture Lab LIC, New York City on Sat 26 Sept.
+LeCamille is a club and bass artist based in United States of America, tracked on soundcheck, with 62 sets logged across Miami and New York City. Often billed alongside BEYBLADE SHAWTY, Love Higher and 444. Next up: Bossa Nova Civic Club, New York City on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Culture Lab LIC | New York City |
 | Tue, 13 Oct 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played

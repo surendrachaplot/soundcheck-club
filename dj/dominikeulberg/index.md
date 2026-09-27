@@ -1,14 +1,13 @@
 # Dominik Eulberg
 
-Dominik Eulberg is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ritter Butzke, Berlin on Sat, 26 Sept 2026.
+Dominik Eulberg is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Kompass Klub, Ghent on Sat, 17 Oct 2026.
 
-Dominik Eulberg is a techno and house artist based in Germany, tracked on soundcheck, with 82 sets logged across Amsterdam, Basel, Berlin and Cologne and 12 more. Often billed alongside Super Flu, Bebetta and Jonathan Kaspar. Next up: Ritter Butzke, Berlin on Sat 26 Sept.
+Dominik Eulberg is a techno and house artist based in Germany, tracked on soundcheck, with 82 sets logged across Amsterdam, Basel, Berlin and Cologne and 12 more. Often billed alongside Super Flu, Bebetta and Jonathan Kaspar. Next up: Kompass Klub, Ghent on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Ritter Butzke | Berlin |
 | Sat, 17 Oct 2026 | Kompass Klub | Ghent |
 | Wed, 28 Oct 2026 | Arthouse Le Paris | Zurich |
 

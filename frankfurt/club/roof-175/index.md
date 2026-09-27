@@ -1,14 +1,13 @@
 # Roof 175
 
-Roof 175 is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "𝖗𝖔𝖚𝖌𝖍 𝖈𝖚𝖗𝖊 End of September Wake Up Call" on Sat, 26 Sept 2026.
+Roof 175 is a music venue in Frankfurt with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "KURIOSE AUGEN – Open Your Eyes, Lose Your Mind – Vol. 3" on Sat, 10 Oct 2026.
 
-Roof 175 is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, with line-ups including DeGuzman, Noise Not War and TATAKI. Browse upcoming dates, start times and who's playing. Rheinallee 175 55120 Mainz, Germany.
+Roof 175 is a music venue in Frankfurt listed on soundcheck. 1 upcoming gig, with line-ups including TATAKI. Browse upcoming dates, start times and who's playing. Rheinallee 175 55120 Mainz, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | 𝖗𝖔𝖚𝖌𝖍 𝖈𝖚𝖗𝖊 End of September Wake Up Call | DeGuzman, Noise Not War |
 | Sat, 10 Oct 2026 | KURIOSE AUGEN – Open Your Eyes, Lose Your Mind – Vol. 3 | TATAKI |
 
 ## Address

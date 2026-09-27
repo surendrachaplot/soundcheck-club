@@ -1,14 +1,13 @@
 # CRi
 
-CRi is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Spybar, Chicago on Sat, 26 Sept 2026.
+CRi is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
-CRi is a house and deep house artist based in Canada, tracked on soundcheck, with 49 sets logged across Austin, Berlin, Chicago and London and 14 more. Often billed alongside Nicky Elisabeth, Hana and Eli & Fur. Next up: Spybar, Chicago on Sat 26 Sept.
+CRi is a house and deep house artist based in Canada, tracked on soundcheck, with 49 sets logged across Austin, Berlin, Chicago and London and 14 more. Often billed alongside Nicky Elisabeth, Hana and Eli & Fur. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Spybar | Chicago |
 | Thu, 8 Oct 2026 | UNO MALTA | Malta |
 | Sat, 10 Oct 2026 | Zentralwäscherei | Zurich |
 | Sat, 17 Oct 2026 | Rex Club | Paris |

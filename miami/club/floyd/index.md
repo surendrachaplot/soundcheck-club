@@ -1,14 +1,13 @@
 # Floyd
 
-Floyd is a music venue in Miami with 19 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "My Friend Misty" on Sat, 26 Sept 2026.
+Floyd is a music venue in Miami with 18 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Knight Club: Spray" on Sun, 27 Sept 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 19 upcoming gigs, with line-ups including Aluna, Bag Raiders, Bort and Cole Knight and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 18 upcoming gigs, with line-ups including Aluna, Bag Raiders, Bort and Cole Knight and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | My Friend Misty | SIEGEL (2), Sinopoli |
 | Sun, 27 Sept 2026 | Knight Club: Spray | Cole Knight, Spray |
 | Fri, 2 Oct 2026 | LuSiD + Samantha Loveridge | SIEGEL (2), Samantha Loveridge |
 | Sat, 3 Oct 2026 | Dublon | Dublon, Tiffy Vera, Will Buck |
@@ -18,6 +17,7 @@ Floyd is a music venue in Miami listed on soundcheck. 19 upcoming gigs, with lin
 | Sun, 11 Oct 2026 | Nacho Scoppa + Isabella Roldán | Bort |
 | Thu, 15 Oct 2026 | Satellite: Moscoman, Red Axes, & Whitesquare | Moscoman, Red Axes, Whitesquare, eveava |
 | Fri, 16 Oct 2026 | Satellite: Odd Mob | Nat Siriani |
+| Sat, 17 Oct 2026 | Satellite: Marsolo & Silvie Loto | Marsolo, Mick Jerome, Silvie Loto |
 
 ## Address
 

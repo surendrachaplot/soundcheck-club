@@ -1,14 +1,13 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Endless Summer: Felix Cartal, Alastair Lane, Makez" on Sat, 26 Sept 2026.
+House of Yes is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "House of Grooves: Eli Escobar All Night + Sissies of Mercy" on Fri, 2 Oct 2026.
 
-House of Yes is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including Alistair, Aluna, Bella Mutino and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
+House of Yes is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Aluna, Bella Mutino, Bridge (NY) and Darling Cool and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Endless Summer: Felix Cartal, Alastair Lane, Makez | Alistair, Felix Cartal, Jeny Michelle, Laila Amira, Makèz |
 | Fri, 2 Oct 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
 | Sat, 3 Oct 2026 | RAW CUTS x House of Yes: DJ Minx, Bridge | Bridge (NY), DJ Minx |
 | Sat, 3 Oct 2026 | RAW CUTS X House of Yes: DJ Minx | Bella Mutino, Bridge (NY), DJ Minx, EREZ.JPG, JMT (2), Mac Briggs, Willy Gorgon |
@@ -18,6 +17,7 @@ House of Yes is a music venue in New York City listed on soundcheck. 11 upcoming
 | Fri, 6 Nov 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
 | Sat, 14 Nov 2026 | Full Throttle: Mha Iri and More | Mha iri |
 | Sat, 28 Nov 2026 | Curiouser & Curiouser: Felix Da Housecat | Felix Da Housecat |
+| Fri, 4 Dec 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
 
 ## Address
 

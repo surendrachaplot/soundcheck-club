@@ -1,8 +1,8 @@
 # Baalti
 
-Baalti is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Phonox, London on Fri, 2 Oct 2026.
+Baalti is a House and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Phonox, London on Fri, 2 Oct 2026.
 
-Baalti is a house and bass artist tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Berlin and Brisbane and 19 more. Often billed alongside Seb Wildblood, Tom VR and Ahadadream. Next up: Phonox, London on Fri 2 Oct.
+Baalti is a house and bass artist tracked on soundcheck, with 61 sets logged across Amsterdam, Austin, Berlin and Brisbane and 20 more. Often billed alongside Seb Wildblood, Tom VR and Ahadadream. Next up: Phonox, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Baalti is a house and bass artist tracked on soundcheck, with 60 sets logged acr
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Phonox | London |
 | Fri, 9 Oct 2026 | Good Room | New York City |
+| Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # ceviché
 
-ceviché is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Culture Lab LIC, New York City on Sat, 26 Sept 2026.
+ceviché is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at SILO, New York City on Tue, 29 Sept 2026.
 
-ceviché is a techno and house artist based in United States of America, tracked on soundcheck, with 63 sets logged across New York City and Tokyo. Often billed alongside SHRAY, Sam Valle and STEEN. Next up: Culture Lab LIC, New York City on Sat 26 Sept.
+ceviché is a techno and house artist based in United States of America, tracked on soundcheck, with 63 sets logged across New York City and Tokyo. Often billed alongside SHRAY, Sam Valle and STEEN. Next up: SILO, New York City on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Culture Lab LIC | New York City |
 | Tue, 29 Sept 2026 | SILO | New York City |
 | Wed, 30 Sept 2026 | SILO | New York City |
 | Fri, 9 Oct 2026 | Honey's | New York City |

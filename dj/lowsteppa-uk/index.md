@@ -1,14 +1,13 @@
 # Low Steppa
 
-Low Steppa is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sankeys, Manchester on Sat, 26 Sept 2026.
+Low Steppa is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Low Steppa is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Bali, Brisbane and Bristol and 22 more. Often billed alongside Sam Divine, Arielle Free and Ferreck Dawn. Next up: Sankeys, Manchester on Sat 26 Sept.
+Low Steppa is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Bali, Brisbane and Bristol and 22 more. Often billed alongside Sam Divine, Arielle Free and Ferreck Dawn. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Sankeys | Manchester |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Wed, 21 Oct 2026 | Madam | Amsterdam |

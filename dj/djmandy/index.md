@@ -1,8 +1,8 @@
 # DJ MANDY
 
-DJ MANDY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Night We Met, Nashville on Fri, 2 Oct 2026.
+DJ MANDY is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Night We Met, Nashville on Fri, 2 Oct 2026.
 
-DJ MANDY is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Boston, Detroit, Houston and London and 8 more. Often billed alongside AMMARA, ANABELEN and ANNA PURA. Next up: Night We Met, Nashville on Fri 2 Oct.
+DJ MANDY is a house and techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Boston, Dallas Fort Worth, Detroit and Houston and 9 more. Often billed alongside Gryffin, I Hate Models and Josh Baker. Next up: Night We Met, Nashville on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,9 @@ DJ MANDY is a house and techno artist based in United States of America, tracked
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Night We Met | Nashville |
 | Fri, 30 Oct 2026 | Fonda Theatre | Los Angeles |
+| Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
+| Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
+| Thu, 31 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
 
@@ -24,6 +27,6 @@ DJ MANDY is a house and techno artist based in United States of America, tracked
 
 ## Shares bills with
 
-AMMARA, ANABELEN, ANNA PURA
+Gryffin, I Hate Models, Josh Baker
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandy/)*

@@ -1,14 +1,13 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Mac Declos / Marcal / Cora / Perfect Lovers / Victor Rodriguez / Chris Cruse / Kilopatrah Jones" on Sat, 26 Sept 2026.
+BASEMENT is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Zenker Brothers / Pangaea / re:ni / The Carry Nation / Analog Soul / ALEXIS DE LA ROSA" on Fri, 2 Oct 2026.
 
-BASEMENT is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including 98dots, Ade Kassim, Akua and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including 98dots, Ade Kassim, Akua and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Mac Declos / Marcal / Cora / Perfect Lovers / Victor Rodriguez / Chris Cruse / Kilopatrah Jones | Chris Cruse, Cora (CN), Kilopatrah Jones, Mac Declos, Marcal, Perfect Lovers, Victor Rodriguez |
 | Fri, 2 Oct 2026 | Zenker Brothers / Pangaea / re:ni / The Carry Nation / Analog Soul / ALEXIS DE LA ROSA | ALEXIS DE LA ROSA, Analog Soul, Pangaea, The Carry Nation, Zenker Brothers, re:ni |
 | Sat, 3 Oct 2026 | Wrecked: Julia Govor / Concrete Husband / T.Wan / S4M23 / Ryan Smith / Ron Like Hell | Concrete Husband, Julia Govor, Ron Like Hell, Ryan Smith, S4M23, T.Wan |
 | Fri, 9 Oct 2026 | Wata Igarashi all night long / ISAbella / Subb-an / Meilgaarden | ISAbella, Meilgaarden, Subb-an, Wata Igarashi |
@@ -18,6 +17,7 @@ BASEMENT is a music venue in New York City listed on soundcheck. 11 upcoming gig
 | Fri, 23 Oct 2026 | FIST: Lacchesi / Nene H / Word of Command / DJ Clone / Jubilee / Mez Monty / Connor Wrong | Connor Wrong, DJ Clone, Jubilee, Lacchesi, Mez Monty, Nene H, Word of Command |
 | Sat, 24 Oct 2026 | Dustin Zahn / Kameliia / Ade Kassim / Hercules & Love Affair / Eli Escobar / Andi | Ade Kassim, Andi, Dustin Zahn, Eli Escobar, Hercules & Love Affair, Kameliia |
 | Fri, 30 Oct 2026 | BOUND Blackout: Laure Croft / SKIN / Katie Rex / Kim Anh / Dj Warning / likeholywine / nonsuit | Dj Warning, Katie Rex, Kim Anh, Laure Croft, SKIN, likeholywine, nonsuit |
+| Sat, 31 Oct 2026 | Herrensauna: MCMLXXXV / SALOME / LORD ASA / CEM / Dee Diggs / Sevyn Love | CEM, Dee Diggs, LORD ASA, MCMLXXXV, SALOME, Sevyn Love |
 
 ## Address
 

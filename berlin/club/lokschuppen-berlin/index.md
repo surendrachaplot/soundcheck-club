@@ -1,14 +1,13 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 70 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "GOAT BALL SUMMER CLOSING " on Sat, 26 Sept 2026.
+Lokschuppen Berlin is a music venue in Berlin with 69 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "KDW x KØSE BACKYARD 'FALL EDITION' - TECHNO + MARKET & EXHIBITION" on Sun, 27 Sept 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 70 upcoming gigs, with line-ups including 1luu, 4NOUK, 5euroGoldi and 9LALEY and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 69 upcoming gigs, with line-ups including 1luu, 4NOUK, 5euroGoldi and 9LALEY and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | GOAT BALL SUMMER CLOSING  | DJ 069, DJ Bax, EDNA, Katy Rough, Krash Cora, MIMI404, ROÜGE, TERRA TWIINS, cravings320, suki, vizionn |
 | Sun, 27 Sept 2026 | KDW x KØSE BACKYARD 'FALL EDITION' - TECHNO + MARKET & EXHIBITION | Ayham, STŒWE, UniKhatu, XHOUSTED |
 | Sun, 27 Sept 2026 | LOKSCHUPPEN SUMMER CLOSING |  |
 | Sun, 27 Sept 2026 | wieder: Jacky Ickx Birthday Bash | GRMR, JUICY (DE), Jacky Ickx, Nettta |
@@ -18,6 +17,7 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 70 upcoming 
 | Fri, 2 Oct 2026 | OBSIDIA w / Jacidorex, GIØ, CARGO, Paul Meier | Bruno Brero, CARGO (DE), Dyrtyy, GIØ (1), Jacidorex, KARISH, Laren, Paul Meier, Pixie Dust |
 | Sat, 3 Oct 2026 | KAPITEL Berlin | Anuuk, DOCTOR MÜCKE, DonChoppa, EGE363, SEKTOR69, SSXXCH, alemiko, m4tsch1, t e s t p r e s s |
 | Sun, 4 Oct 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE | GM1 (IT), Jasonmagkatzen |
+| Tue, 6 Oct 2026 | Projekt Bocki | DJ Spaßgetränk, EZA (DE), Florelle, Lezza, Paul Bauhaus, TANZBAER, bbymeister, jeanska |
 
 ## Address
 

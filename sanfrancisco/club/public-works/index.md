@@ -1,14 +1,13 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 23 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "FCUKERS (DJ Set) + Chloé Caillet presented by Goldenvoice" on Sat, 26 Sept 2026.
+Public Works is a music venue in San Francisco/Oakland with 22 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Overmono (DJ Set) + Ben UFO presented by Goldenvoice" on Sun, 27 Sept 2026.
 
-Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 23 upcoming gigs, with line-ups including Alex Oxley, Alkemiss Erika, ALMAS and Ben UFO and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 22 upcoming gigs, with line-ups including Alex Oxley, Alkemiss Erika, ALMAS and Ben UFO and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | FCUKERS (DJ Set) + Chloé Caillet presented by Goldenvoice | Chloé Caillet, FCUKERS, Milli Meng |
 | Sun, 27 Sept 2026 | Overmono (DJ Set) + Ben UFO presented by Goldenvoice | Ben UFO, Kaytree, Overmono, erika (SF), sfcowboy |
 | Fri, 2 Oct 2026 | SET with Mind Against All Night Long | Mind Against, Moonvvater |
 | Sat, 3 Oct 2026 | JANTSEN PRESENTED BY VEXRA & Public Works |  |
@@ -18,6 +17,7 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 23 
 | Sat, 17 Oct 2026 | PW 16-Year Anniversary Night Two: QUEEN OUT x  |  |
 | Fri, 23 Oct 2026 | EAZYBAKED presented by Public Works & Insomniac |  |
 | Fri, 23 Oct 2026 | First Contact |  |
+| Sat, 24 Oct 2026 | Ivy Lab: A FAREWELL TOUR presented by Public Works & Goldenvoice | DJ Dials, Great Dane, Ivy Lab |
 
 ## Address
 

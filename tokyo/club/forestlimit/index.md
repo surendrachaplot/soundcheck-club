@@ -1,14 +1,13 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "吉村政信生誕祭～誕生月TIMELIMIT～" on Sun, 27 Sept 2026.
+Forestlimit is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "TET" on Mon, 28 Sept 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including Acidclank, ANiIIIIiiiKii, A VIRGIN and Ayato and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including Acidclank, ANiIIIIiiiKii, A VIRGIN and Ayato and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | 吉村政信生誕祭～誕生月TIMELIMIT～ |  |
 | Mon, 28 Sept 2026 | TET | A VIRGIN, Coby Sey, Kenichi Iwasa |
 | Wed, 30 Sept 2026 | 【RUDEBWOY M/A/S/S/A/C/R/E】 | Lil Mofo, Naggie, OG Militant B, okadada |
 | Fri, 2 Oct 2026 | 「秋のドンピシャ！爆踊り祭り！」 |  |
@@ -18,6 +17,7 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, wi
 | Fri, 9 Oct 2026 | BOUNCY BOUNCY 5th Anniversary | MileZ, ZHUO, echocatcher |
 | Fri, 9 Oct 2026 | BOUNCY BOUNCY 5th Anniversary | MileZ, echocatcher |
 | Sat, 10 Oct 2026 | Nightclubbing7 | Acidclank, Big Animal Theory, HINOTO, Lewo Chyba |
+| Sat, 10 Oct 2026 | 'Nightclubbing7' | Acidclank, Big Animal Theory, HINOTO, Lewo Chyba |
 
 ## Address
 

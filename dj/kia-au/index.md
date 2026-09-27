@@ -1,14 +1,13 @@
 # Kia (AU)
 
-Kia (AU) is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Kia (AU) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Kia (AU) is a techno and house artist based in Australia, tracked on soundcheck, with 204 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 48 more. Often billed alongside Reptant, DjRUM and Moopie. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
+Kia (AU) is a techno and house artist based in Australia, tracked on soundcheck, with 204 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 48 more. Often billed alongside Reptant, DjRUM and Moopie. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Fri, 9 Oct 2026 | smartbar | Chicago |
 | Sat, 10 Oct 2026 | Nowadays | New York City |

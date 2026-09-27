@@ -1,15 +1,13 @@
 # Maher Daniel
 
-Maher Daniel is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Société des arts technologiques, Montreal on Sat, 26 Sept 2026.
+Maher Daniel is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Chinois Ibiza, Ibiza on Wed, 30 Sept 2026.
 
-Maher Daniel is a house and techno artist based in Palestine, tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: Société des arts technologiques, Montreal on Sat 26 Sept.
+Maher Daniel is a house and techno artist based in Palestine, tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: Chinois Ibiza, Ibiza on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Société des arts technologiques | Montreal |
-| Sat, 26 Sept 2026 | Société des arts technologiques | Montreal |
 | Wed, 30 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | PRST | Vienna |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |

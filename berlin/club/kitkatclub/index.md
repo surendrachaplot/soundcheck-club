@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Nachspiel" on Sun, 27 Sept 2026.
+KitKatClub is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Electric Monday@KitKat " on Mon, 28 Sept 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including Javier Anxiety, AAguilAA, Alejandro Molinari and Alessio Collina and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line-ups including Javier Anxiety, AAguilAA, Alejandro Molinari and Alessio Collina and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Nachspiel | Chris Veron |
 | Mon, 28 Sept 2026 | Electric Monday@KitKat  | Alejandro Molinari, Frankie Flowerz, Pornbugs |
 | Wed, 30 Sept 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Diana May, Grace Thompson, RHAPSODIE |
 | Thu, 1 Oct 2026 | UNITY AT KITKAT CLUB |  |
@@ -18,6 +17,7 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, wi
 | Thu, 8 Oct 2026 | UNITY AT KITKAT CLUB |  |
 | Fri, 9 Oct 2026 | PSYCHO Kiss | Ari Denaro, Daora |
 | Fri, 9 Oct 2026 | LIMINAL |  |
+| Sun, 11 Oct 2026 | Nachspiel |  |
 
 ## Address
 

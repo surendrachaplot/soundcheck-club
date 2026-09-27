@@ -1,14 +1,13 @@
 # Traumer
 
-Traumer is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Postkantine, Basel on Sat, 26 Sept 2026.
+Traumer is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Chinois Ibiza, Ibiza on Wed, 30 Sept 2026.
 
-Traumer is a house and techno artist based in France, tracked on soundcheck, with 317 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Postkantine, Basel on Sat 26 Sept.
+Traumer is a house and techno artist based in France, tracked on soundcheck, with 317 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Chinois Ibiza, Ibiza on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Postkantine | Basel |
 | Wed, 30 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 3 Oct 2026 | The Nest | Nottingham |
@@ -20,6 +19,7 @@ Traumer is a house and techno artist based in France, tracked on soundcheck, wit
 | Fri, 20 Nov 2026 | fi | Cologne |
 | Sun, 22 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
+| Sun, 29 Nov 2026 | Smolna | Warsaw |
 
 ## Recently played
 

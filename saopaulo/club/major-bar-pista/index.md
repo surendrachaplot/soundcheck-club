@@ -1,14 +1,13 @@
 # Major Bar & Pista
 
-Major Bar & Pista is a music venue in Sao Paulo with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Major recebe Bernardo Pinheiro convida Benjamin Sallum" on Sat, 26 Sept 2026.
+Major Bar & Pista is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "Major recebe Ricardo Pereira" on Wed, 30 Sept 2026.
 
-Major Bar & Pista is a music venue in Sao Paulo listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Rua Major Sertório, 347.
+Major Bar & Pista is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Rua Major Sertório, 347.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Major recebe Bernardo Pinheiro convida Benjamin Sallum |  |
 | Wed, 30 Sept 2026 | Major recebe Ricardo Pereira |  |
 
 ## Address

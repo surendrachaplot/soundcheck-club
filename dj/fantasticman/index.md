@@ -1,14 +1,13 @@
 # Fantastic Man
 
-Fantastic Man is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at La Java, Paris on Sat, 26 Sept 2026.
+Fantastic Man is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
-Fantastic Man is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 43 more. Often billed alongside Tornado Wallace, Alex Kassian and Andy Hart. Next up: La Java, Paris on Sat 26 Sept.
+Fantastic Man is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 43 more. Often billed alongside Tornado Wallace, Alex Kassian and Andy Hart. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | La Java | Paris |
 | Fri, 2 Oct 2026 | TBA | Central |
 | Fri, 2 Oct 2026 | The DBA | Manchester |
 | Sat, 24 Oct 2026 | Café Soleil Amsterdam | Amsterdam |

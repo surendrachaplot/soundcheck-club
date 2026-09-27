@@ -1,15 +1,13 @@
 # Kilopatrah Jones
 
-Kilopatrah Jones is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
+Kilopatrah Jones is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Good Room, New York City on Fri, 9 Oct 2026.
 
-Kilopatrah Jones is a house and techno artist based in United States of America, tracked on soundcheck, with 187 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
+Kilopatrah Jones is a house and techno artist based in United States of America, tracked on soundcheck, with 187 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: Good Room, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
-| Sat, 26 Sept 2026 | BASEMENT | New York City |
 | Fri, 9 Oct 2026 | Good Room | New York City |
 | Sat, 10 Oct 2026 | BASEMENT | New York City |
 | Sat, 17 Oct 2026 | TBA - East Williamsburg | New York City |

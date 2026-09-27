@@ -1,14 +1,13 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Quirk: Henriku Birthday Edition" on Sat, 26 Sept 2026.
+Hoppetosse is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Juno x Hoppetosse: Alex Picone, Robin Ordell, Kamyar Keramati, Bonza, Frankiee" on Fri, 2 Oct 2026.
 
-Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Alexander Skancke, Alexandra, Alex Picone and Anaté and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
+Hoppetosse is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Alexandra, Alex Picone, Berto (DE) and Bonza and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Quirk: Henriku Birthday Edition | Alexander Skancke, Anaté, Henriku, Tomoki Tamura, Trent Voyage |
 | Fri, 2 Oct 2026 | Juno x Hoppetosse: Alex Picone, Robin Ordell, Kamyar Keramati, Bonza, Frankiee | Alex Picone, Bonza, Kamyar Keramati, Robin Ordell |
 | Sat, 3 Oct 2026 | Yellow Mellow Invites: Legowelt | Legowelt, Purita D, St.Eggs, Stamina (DE), Turk Turkelton |
 | Fri, 9 Oct 2026 | Apricots' Jam | Alexandra, DJ Slim Fit, Enchanted Rhythms, Meat, metaverde |
@@ -18,6 +17,7 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wi
 | Sat, 17 Oct 2026 | Sekt&Brezeln - 4 YEARS ANNIVERSARY | Berto (DE), Fab Massimo, Fast (DE), Kaufmann, Leon Licht, Roman Adam, Rosa Kante, Sarah Wild, unDs |
 | Fri, 23 Oct 2026 | OFF THE GRID x IKIGAI | Diamin, Kithers, Levat, Onirik, Royston Bassmann |
 | Sun, 1 Nov 2026 | Outer Place |  |
+| Fri, 6 Nov 2026 | Extended PARTYBAR 3000 ∞ LETZTE WIESE | Schlecksi |
 
 ## Address
 

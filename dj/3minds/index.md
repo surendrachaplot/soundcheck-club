@@ -1,14 +1,13 @@
 # 3 Minds
 
-3 Minds is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, London on Sat, 26 Sept 2026.
+3 Minds is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Gaffe, London on Sat, 31 Oct 2026.
 
-3 Minds is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Barcelona, Ibiza, Leeds and London and 3 more. Often billed alongside Terry Francis, Eddie Richards and Silverlining. Next up: TBA, London on Sat 26 Sept.
+3 Minds is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Barcelona, Ibiza, Leeds and London and 3 more. Often billed alongside Terry Francis, Eddie Richards and Silverlining. Next up: Gaffe, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA | London |
 | Sat, 31 Oct 2026 | Gaffe | London |
 | Sat, 7 Nov 2026 | Starlane Pizza Bar | London |
 

@@ -1,14 +1,13 @@
 # Cromby
 
-Cromby is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Kauz, Zurich on Sat, 26 Sept 2026.
+Cromby is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Macadam, Nantes on Sun, 18 Oct 2026.
 
-Cromby is a house and techno artist based in Ireland, tracked on soundcheck, with 135 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Sally C, Spray and DJ Gigola. Next up: Kauz, Zurich on Sat 26 Sept.
+Cromby is a house and techno artist based in Ireland, tracked on soundcheck, with 135 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Sally C, Spray and DJ Gigola. Next up: Macadam, Nantes on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Kauz | Zurich |
 | Sun, 18 Oct 2026 | Macadam | Nantes |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 

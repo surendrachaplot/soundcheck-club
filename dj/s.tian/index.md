@@ -1,14 +1,13 @@
 # S.Tian
 
-S.Tian is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bike Jesus, Prague on Sat, 26 Sept 2026.
+S.Tian is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 23 Oct 2026.
 
-S.Tian is a techno and house artist based in Czech Republic, tracked on soundcheck, with 61 sets logged across Prague. Often billed alongside Misha Jaru, Fatty M and Feenicks. Next up: Bike Jesus, Prague on Sat 26 Sept.
+S.Tian is a techno and house artist based in Czech Republic, tracked on soundcheck, with 61 sets logged across Prague. Often billed alongside Misha Jaru, Fatty M and Feenicks. Next up: Ankali & Planeta Za, Prague on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Bike Jesus | Prague |
 | Fri, 23 Oct 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played

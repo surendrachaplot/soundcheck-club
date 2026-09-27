@@ -1,14 +1,13 @@
 # Broodoo Ramses
 
-Broodoo Ramses is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 26 Sept 2026.
+Broodoo Ramses is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
 
-Broodoo Ramses is a club and bass artist based in France, tracked on soundcheck, with 56 sets logged across Belgrade, Berlin, Geneva and Hamburg and 6 more. Often billed alongside Bamao Yendé, Crystallmess and Missy Da Kunt. Next up: La Station - Gare des Mines, Paris on Sat 26 Sept.
+Broodoo Ramses is a club and bass artist based in France, tracked on soundcheck, with 56 sets logged across Belgrade, Berlin, Geneva and Hamburg and 6 more. Often billed alongside Bamao Yendé, Crystallmess and Missy Da Kunt. Next up: Café Nuances  - Marais, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | La Station - Gare des Mines | Paris |
 | Fri, 2 Oct 2026 | Café Nuances  - Marais | Paris |
 | Sat, 3 Oct 2026 | Djoon | Paris |
 

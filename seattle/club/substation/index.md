@@ -1,14 +1,13 @@
 # Substation
 
-Substation is a music venue in Seattle with 27 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Itertainment & Routine presents: Ivy Lab" on Sat, 26 Sept 2026.
+Substation is a music venue in Seattle with 26 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Social House presents: Darby" on Wed, 30 Sept 2026.
 
-Substation is a music venue in Seattle listed on soundcheck. 27 upcoming gigs, with line-ups including AEREA, alexia.f, Austin R and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
+Substation is a music venue in Seattle listed on soundcheck. 26 upcoming gigs, with line-ups including AEREA, alexia.f, Austin R and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Itertainment & Routine presents: Ivy Lab | Cesco, Ivy Lab |
 | Wed, 30 Sept 2026 | Social House presents: Darby |  |
 | Fri, 2 Oct 2026 | Codd Dubz x HE$H |  |
 | Sat, 3 Oct 2026 | Jam City |  |
@@ -18,6 +17,7 @@ Substation is a music venue in Seattle listed on soundcheck. 27 upcoming gigs, w
 | Thu, 15 Oct 2026 | Yheti & Toadface: Sleight of Sound Tour |  |
 | Fri, 16 Oct 2026 | Vincent Antone |  |
 | Sat, 17 Oct 2026 | Baauer | Baauer |
+| Wed, 21 Oct 2026 | EQ (Seattle Hot Girl Rave) | EQ (Estratosfera + Qiri) |
 
 ## Address
 

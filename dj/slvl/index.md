@@ -1,14 +1,15 @@
 # SLVL
 
-SLVL is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
+SLVL is a Techno and Industrial artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
 
-SLVL is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 32 more. Often billed alongside KLOFAMA, KARAH and KRUELTY. Next up: Airport Würzburg, Nürnberg on Fri 2 Oct.
+SLVL is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 32 more. Often billed alongside KLOFAMA, KARAH and KRUELTY. Next up: Airport Würzburg, Nürnberg on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Airport Würzburg | Nürnberg |
+| Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sat, 24 Oct 2026 | Halle Tony Garnier | Lyon |
 | Sun, 25 Oct 2026 | Afas Live | Amsterdam |

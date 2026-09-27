@@ -1,14 +1,13 @@
 # Hemka
 
-Hemka is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Boston on Sat, 26 Sept 2026.
+Hemka is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at NWHR, Montreal on Fri, 2 Oct 2026.
 
-Hemka is a techno and minimal techno artist based in France, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Boston and Budapest and 16 more. Often billed alongside SHDW, Regent and Stef Mendesidis. Next up: TBA, Boston on Sat 26 Sept.
+Hemka is a techno and minimal techno artist based in France, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Boston and Budapest and 16 more. Often billed alongside SHDW, Regent and Stef Mendesidis. Next up: NWHR, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA | Boston |
 | Fri, 2 Oct 2026 | NWHR | Montreal |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 

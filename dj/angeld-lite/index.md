@@ -1,14 +1,13 @@
 # Angel D'lite
 
-Angel D'lite is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
+Angel D'lite is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Nowadays, New York City on Sat, 3 Oct 2026.
 
-Angel D'lite is a house and techno artist based in United Kingdom, tracked on soundcheck, with 243 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: Ormside Projects, London on Sat 26 Sept.
+Angel D'lite is a house and techno artist based in United Kingdom, tracked on soundcheck, with 243 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: Nowadays, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Ormside Projects | London |
 | Sat, 3 Oct 2026 | Nowadays | New York City |
 | Fri, 9 Oct 2026 | The Loft | Manchester |
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |

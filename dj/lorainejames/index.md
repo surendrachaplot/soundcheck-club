@@ -1,14 +1,13 @@
 # Loraine James
 
-Loraine James is a Experimental and Ambient artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 26 Sept 2026.
+Loraine James is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Torso Electronics, Copenhagen on Fri, 2 Oct 2026.
 
-Loraine James is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 30 more. Often billed alongside Valentina Magaletti, Kelman Duran and Lee Gamble. Next up: La Station - Gare des Mines, Paris on Sat 26 Sept.
+Loraine James is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 30 more. Often billed alongside Valentina Magaletti, Kelman Duran and Lee Gamble. Next up: Torso Electronics, Copenhagen on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | La Station - Gare des Mines | Paris |
 | Fri, 2 Oct 2026 | Torso Electronics | Copenhagen |
 | Tue, 13 Oct 2026 | TBA | Valencia |
 | Thu, 15 Oct 2026 | El Pumarejo Barcelona | Barcelona |

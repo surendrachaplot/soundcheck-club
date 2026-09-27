@@ -1,13 +1,15 @@
 # Deorro
 
-Deorro is a Latin Bass and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Deorro is a Latin Bass and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Deorro is a latin bass and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Austin, Boston, Chicago and Denver and 8 more. Often billed alongside Hedex, Loco Dice and Seven Lions. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Deorro is a latin bass and house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Arizona, Austin, Boston and Chicago and 10 more. Often billed alongside Seven Lions, Alesso and Deadmau5. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
+| Fri, 30 Oct 2026 | Westworld of Scottsdale | Arizona |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 
 ## Recently played
@@ -23,6 +25,6 @@ Deorro is a latin bass and house artist based in United States of America, track
 
 ## Shares bills with
 
-Hedex, Loco Dice, Seven Lions
+Seven Lions, Alesso, Deadmau5
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deorro/)*
