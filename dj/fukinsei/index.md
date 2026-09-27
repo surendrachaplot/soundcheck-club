@@ -1,6 +1,6 @@
 # Fukinsei
 
-Fukinsei is a Bass and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Crack Bellmer, Berlin on Sat, 3 Oct 2026.
+Fukinsei is a Bass and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Crack Bellmer, Berlin on Sat, 3 Oct 2026.
 
 Fukinsei is a bass and experimental artist based in Italy, tracked on soundcheck, with 46 sets logged across Berlin, Hamburg, Krakow and Lyon and 4 more. Often billed alongside Assyouti, Ben Sleia and DE:MA. Next up: Crack Bellmer, Berlin on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Fukinsei is a bass and experimental artist based in Italy, tracked on soundcheck
 
 Assyouti, Ben Sleia, DE:MA
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fukinsei/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fukinsei/)*

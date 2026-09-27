@@ -1,6 +1,6 @@
 # CAMILLA
 
-CAMILLA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at feedbk, New York City on Sat, 26 Sept 2026.
+CAMILLA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at feedbk, New York City on Sat, 26 Sept 2026.
 
 CAMILLA is a house and techno artist based in Italy, tracked on soundcheck, with 142 sets logged across Berlin, Boston, Chicago and Lisbon and 6 more. Often billed alongside Joiah, Shvili and Armii1n. Next up: feedbk, New York City on Sat 26 Sept.
 
@@ -15,6 +15,7 @@ CAMILLA is a house and techno artist based in Italy, tracked on soundcheck, with
 
 ## Recently played
 
+- feedbk, New York City — Sat, 26 Sept 2026
 - Outer Heaven, New York City — Thu, 24 Sept 2026
 - Dead Letter No. 9, New York City — Thu, 10 Sept 2026
 - H0L0, New York City — Sat, 5 Sept 2026
@@ -22,10 +23,9 @@ CAMILLA is a house and techno artist based in Italy, tracked on soundcheck, with
 - Bassiani, Tbilisi — Sat, 29 Aug 2026
 - public records, New York City — Fri, 7 Aug 2026
 - Mansions, New York City — Sat, 1 Aug 2026
-- Outer Heaven, New York City — Thu, 30 Jul 2026
 
 ## Shares bills with
 
 Joiah, Shvili, Armii1n
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camilla/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camilla/)*

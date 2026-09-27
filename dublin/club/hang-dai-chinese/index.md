@@ -1,14 +1,13 @@
 # Hang Dai Chinese
 
-Hang Dai Chinese is a music venue in Dublin with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Ruf Dug + Kenji Ikeda" on Sat, 26 Sept 2026.
+Hang Dai Chinese is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Billy Scurry, Liam Dollard and Pat Hyland in Hang Dai" on Sat, 3 Oct 2026.
 
-Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 6 upcoming gigs, with line-ups including Aidan, Billy Scurry, Don Carlos and Lupini and 1 more. Browse upcoming dates, start times and who's playing. 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland.
+Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with line-ups including Aidan, Billy Scurry, Don Carlos and Lupini. Browse upcoming dates, start times and who's playing. 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Ruf Dug + Kenji Ikeda | Ruf Dug |
 | Sat, 3 Oct 2026 | Billy Scurry, Liam Dollard and Pat Hyland in Hang Dai | Billy Scurry |
 | Fri, 16 Oct 2026 | Bella Festa with Lupini | Aidan, Lupini |
 | Sat, 14 Nov 2026 | Bella Festa with Loud-E | Aidan |
@@ -19,4 +18,4 @@ Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 6 upcoming gig
 
 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland, Dublin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hang-dai-chinese/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hang-dai-chinese/)*

@@ -1,6 +1,6 @@
 # Miss Gia
 
-Miss Gia is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at DNA Lounge, San Francisco/Oakland on Sat, 26 Sept 2026.
+Miss Gia is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at DNA Lounge, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Miss Gia is a techno and club artist based in United States of America, tracked on soundcheck, with 7 sets logged across San Francisco/Oakland. Often billed alongside Saint Triste, Digital KitKat and GOMEZZY. Next up: DNA Lounge, San Francisco/Oakland on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Miss Gia is a techno and club artist based in United States of America, tracked 
 
 ## Recently played
 
+- DNA Lounge, San Francisco/Oakland — Sat, 26 Sept 2026
 - F8 1192 Folsom, San Francisco/Oakland — Sun, 21 Jun 2026
 - DNA Lounge, San Francisco/Oakland — Fri, 24 Oct 2025
 - Mothership, San Francisco/Oakland — Sat, 27 Sept 2025
@@ -23,4 +24,4 @@ Miss Gia is a techno and club artist based in United States of America, tracked 
 
 Saint Triste, Digital KitKat, GOMEZZY
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missgia/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missgia/)*

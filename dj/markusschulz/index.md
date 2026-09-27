@@ -1,6 +1,6 @@
 # Markus Schulz
 
-Markus Schulz is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Óbuda Bay, Budapest on Sat, 10 Oct 2026.
+Markus Schulz is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Óbuda Bay, Budapest on Sat, 10 Oct 2026.
 
 Markus Schulz is a trance and progressive house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Austin, Bangkok and Bristol and 27 more. Often billed alongside Amy Wiles, Billy Gillies and Ferry Corsten. Next up: Óbuda Bay, Budapest on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Markus Schulz is a trance and progressive house artist based in United States of
 
 Amy Wiles, Billy Gillies, Ferry Corsten
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markusschulz/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markusschulz/)*

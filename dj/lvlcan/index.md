@@ -1,14 +1,15 @@
 # LVL (CAN)
 
-LVL (CAN) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Biltmore Cabaret, Vancouver on Fri, 16 Oct 2026.
+LVL (CAN) is a Bass and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Biltmore Cabaret, Vancouver on Fri, 16 Oct 2026.
 
-LVL (CAN) is a bass and techno artist based in Canada, tracked on soundcheck, with 4 sets logged across Vancouver. Often billed alongside Aaron Payne, Bÿständer and C-Star. Next up: Biltmore Cabaret, Vancouver on Fri 16 Oct.
+LVL (CAN) is a bass and electro artist based in Canada, tracked on soundcheck, with 5 sets logged across Vancouver. Often billed alongside Aaron Payne, Bÿständer and C-Star. Next up: Biltmore Cabaret, Vancouver on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Biltmore Cabaret | Vancouver |
+| Fri, 6 Nov 2026 | TBA | Vancouver |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ LVL (CAN) is a bass and techno artist based in Canada, tracked on soundcheck, wi
 
 Aaron Payne, Bÿständer, C-Star
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lvlcan/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lvlcan/)*

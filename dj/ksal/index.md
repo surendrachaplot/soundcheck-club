@@ -1,6 +1,6 @@
 # KSAL
 
-KSAL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at EL SÓTANO, Madrid on Thu, 1 Oct 2026.
+KSAL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at EL SÓTANO, Madrid on Thu, 1 Oct 2026.
 
 KSAL is a techno and house artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona and Madrid. Often billed alongside ANJELIKA SAHAKIAN, Ana Sant and Miguel Rivas. Next up: EL SÓTANO, Madrid on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ KSAL is a techno and house artist based in Spain, tracked on soundcheck, with 20
 
 ANJELIKA SAHAKIAN, Ana Sant, Miguel Rivas
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ksal/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ksal/)*

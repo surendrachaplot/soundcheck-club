@@ -1,6 +1,6 @@
 # Sparrow (CH)
 
-Sparrow (CH) is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Chinois Ibiza, Ibiza on Mon, 5 Oct 2026.
+Sparrow (CH) is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Chinois Ibiza, Ibiza on Mon, 5 Oct 2026.
 
 Sparrow (CH) is an afro house and house artist based in Spain, tracked on soundcheck, with 7 sets logged across Amsterdam, Bali, Chicago and Ibiza and 1 more. Often billed alongside Betical, CISUMMI and Felix Da Funk. Next up: Chinois Ibiza, Ibiza on Mon 5 Oct.
 
@@ -23,4 +23,4 @@ Sparrow (CH) is an afro house and house artist based in Spain, tracked on soundc
 
 Betical, CISUMMI, Felix Da Funk
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sparrowch/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sparrowch/)*

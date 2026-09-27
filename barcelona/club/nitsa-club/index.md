@@ -1,6 +1,6 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Modeselektor DJ Set · Dzeko / DJ AYA · Supergloss · acidheaven" on Sat, 26 Sept 2026.
+Nitsa Club is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Modeselektor DJ Set · Dzeko / DJ AYA · Supergloss · acidheaven" on Sat, 26 Sept 2026.
 
 Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Paula Tape, acidheaven, Alvva and Anetha and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs,
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

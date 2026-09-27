@@ -1,6 +1,6 @@
 # The Warehouse
 
-The Warehouse is a music venue in Leeds with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Oppidan, Prozak, Larishka + Special Guest Champion" on Sat, 26 Sept 2026.
+The Warehouse is a music venue in Leeds with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Oppidan, Prozak, Larishka + Special Guest Champion" on Sat, 26 Sept 2026.
 
 The Warehouse is a music venue in Leeds listed on soundcheck. 10 upcoming gigs, with line-ups including ATRIP, Champion, Charlotte Ord and Clouds and 2 more. Browse upcoming dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
 
@@ -23,4 +23,4 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 10 upcoming gigs, 
 
 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom, Leeds
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*

@@ -1,6 +1,6 @@
 # Terrence Dixon
 
-Terrence Dixon is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Spkrbox, Detroit on Sat, 26 Sept 2026.
+Terrence Dixon is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Spkrbox, Detroit on Sat, 26 Sept 2026.
 
 Terrence Dixon is a techno and house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Cody Hammer, DAIYAH and Fred P. Next up: Spkrbox, Detroit on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ Terrence Dixon is a techno and house artist based in United States of America, t
 
 ## Recently played
 
+- Spkrbox, Detroit — Sat, 26 Sept 2026
 - TBA - The Vault 313, Detroit — Sat, 18 Jul 2026
 - H0L0, New York City — Sat, 11 Jul 2026
 - 94th Aero Squadron, Miami — Fri, 3 Jul 2026
@@ -21,10 +22,9 @@ Terrence Dixon is a techno and house artist based in United States of America, t
 - Hart Plaza, Detroit — Sat, 23 May 2026
 - Kraftwerk Berlin, Berlin — Sat, 16 May 2026
 - Spkrbox, Detroit — Fri, 13 Mar 2026
-- Tresor / Globus, Berlin — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 Cody Hammer, DAIYAH, Fred P
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terrencedixon/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terrencedixon/)*

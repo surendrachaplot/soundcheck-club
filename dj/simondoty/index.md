@@ -1,6 +1,6 @@
 # Simon Doty
 
-Simon Doty is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Sunnyside Pavilion, Toronto on Sat, 26 Sept 2026.
+Simon Doty is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sunnyside Pavilion, Toronto on Sat, 26 Sept 2026.
 
 Simon Doty is a progressive house and house artist based in Canada, tracked on soundcheck, with 102 sets logged across Austin, Boston, Brighton and Bristol and 31 more. Often billed alongside Marsh, Braxton and Dosem. Next up: Sunnyside Pavilion, Toronto on Sat 26 Sept.
 
@@ -15,6 +15,7 @@ Simon Doty is a progressive house and house artist based in Canada, tracked on s
 
 ## Recently played
 
+- Sunnyside Pavilion, Toronto — Sat, 26 Sept 2026
 - ZeyZey, Miami — Fri, 31 Jul 2026
 - Magic Stick, Detroit — Sat, 4 Jul 2026
 - TBA - La Biblioteca, San Telmo, Buenos Aires — Sat, 20 Jun 2026
@@ -22,10 +23,9 @@ Simon Doty is a progressive house and house artist based in Canada, tracked on s
 - H0l0 Yard, New York City — Sat, 16 May 2026
 - Culture, Washington DC — Fri, 1 May 2026
 - Hotel Via, San Francisco/Oakland — Sun, 22 Feb 2026
-- Prysm Nightclub, Chicago — Sat, 14 Feb 2026
 
 ## Shares bills with
 
 Marsh, Braxton, Dosem
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simondoty/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simondoty/)*

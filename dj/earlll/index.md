@@ -1,6 +1,6 @@
 # Earlll
 
-Earlll is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
+Earlll is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
 
 Earlll is a techno and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside AIDEL, Amino and Duck Trash. Next up: Menjo's, Detroit on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Earlll is a techno and house artist based in United States of America, tracked o
 
 ## Recently played
 
+- Menjo's, Detroit — Sat, 26 Sept 2026
 - TBA - Location sent out day of, Detroit — Sat, 22 Aug 2026
 - The Eagle of Detroit, Detroit — Sat, 27 Jun 2026
 - Marble Bar, Detroit — Fri, 5 Jun 2026
@@ -23,4 +24,4 @@ Earlll is a techno and house artist based in United States of America, tracked o
 
 AIDEL, Amino, Duck Trash
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/earlll/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/earlll/)*

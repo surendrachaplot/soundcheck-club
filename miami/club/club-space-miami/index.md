@@ -1,6 +1,6 @@
 # Club Space Miami
 
-Club Space Miami is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Franky Rizardo presents FLOW" on Sat, 26 Sept 2026.
+Club Space Miami is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Franky Rizardo presents FLOW" on Sat, 26 Sept 2026.
 
 Club Space Miami is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including Bakke, Chelina Manuhutu, Danyelino and Dombresky and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th St; Miami, FL 33132; United States.
 
@@ -15,4 +15,4 @@ Club Space Miami is a music venue in Miami listed on soundcheck. 2 upcoming gigs
 
 34 NE 11th St; Miami, FL 33132; United States, Miami
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-space-miami/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-space-miami/)*

@@ -1,19 +1,19 @@
 # Arielle Free
 
-Arielle Free is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at San Antonio Port, Ibiza on Sat, 26 Sept 2026.
+Arielle Free is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
-Arielle Free is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 131 sets logged across Amsterdam, Auckland, Bali and Barcelona and 26 more. Often billed alongside David Guetta, Meduza and Sam Divine. Next up: San Antonio Port, Ibiza on Sat 26 Sept.
+Arielle Free is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 131 sets logged across Amsterdam, Auckland, Bali and Barcelona and 26 more. Often billed alongside David Guetta, Meduza and Sam Divine. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | San Antonio Port | Ibiza |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 
 ## Recently played
 
+- San Antonio Port, Ibiza — Sat, 26 Sept 2026
 - Hï Ibiza, Ibiza — Sat, 12 Sept 2026
 - Pacha Ibiza, Ibiza — Mon, 17 Aug 2026
 - 77, London — Fri, 7 Aug 2026
@@ -21,10 +21,9 @@ Arielle Free is a house and tech house artist based in United Kingdom, tracked o
 - Ushuaïa Ibiza, Ibiza — Fri, 17 Jul 2026
 - Silverworks Island, London — Sat, 11 Jul 2026
 - fabric, London — Sat, 11 Jul 2026
-- Chinois Ibiza, Ibiza — Thu, 2 Jul 2026
 
 ## Shares bills with
 
 David Guetta, Meduza, Sam Divine
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ariellefree/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ariellefree/)*

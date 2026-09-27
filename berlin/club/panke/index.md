@@ -1,6 +1,6 @@
 # Panke
 
-Panke is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Matiah Chinasky&Dj Perez in Berlin" on Thu, 1 Oct 2026.
+Panke is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Matiah Chinasky&Dj Perez in Berlin" on Thu, 1 Oct 2026.
 
 Panke is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Wilcox, BBBBBBB, Catnapp and Chris Imler and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
@@ -22,4 +22,4 @@ Panke is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with lin
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

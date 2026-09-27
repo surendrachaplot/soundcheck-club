@@ -1,14 +1,13 @@
 # Dalston Den
 
-Dalston Den is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "VANITY at Dalston Den " on Sat, 26 Sept 2026.
+Dalston Den is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Breakaway: Free Entry Before 12am - Breaks / Jungle / Drum & Bass" on Fri, 2 Oct 2026.
 
-Dalston Den is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Agility, Blake, Bryn Brax and Dimanté and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
+Dalston Den is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Agility, Blake, Bryn Brax and FENDI-K and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | VANITY at Dalston Den  | Dimanté, Francesco Poggi, WOMSO |
 | Fri, 2 Oct 2026 | Breakaway: Free Entry Before 12am - Breaks / Jungle / Drum & Bass | Agility, Blake (2), Bryn Brax, FENDI-K, Whatsname, zoneSL |
 | Fri, 9 Oct 2026 | Breakaway: Babe Gang Records Takeover - Free Entry Before 12am - Garage / Breaks |  |
 | Fri, 16 Oct 2026 | Breakaway: Free Entry Before 12am - Jungle / Drum & Bass |  |
@@ -23,4 +22,4 @@ Dalston Den is a music venue in London listed on soundcheck. 10 upcoming gigs, w
 
 91-93 Kingsland High Street, London
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*

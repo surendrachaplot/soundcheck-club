@@ -1,14 +1,13 @@
 # Antal
 
-Antal is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Cheetah Club, Glasgow on Sat, 26 Sept 2026.
+Antal is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Eastway Baths, London on Sun, 27 Sept 2026.
 
-Antal is a house and disco artist based in Netherlands, tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Bali and 45 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: La Cheetah Club, Glasgow on Sat 26 Sept.
+Antal is a house and disco artist based in Netherlands, tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Bali and 45 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: Eastway Baths, London on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | La Cheetah Club | Glasgow |
 | Sun, 27 Sept 2026 | Eastway Baths | London |
 | Sat, 3 Oct 2026 | Tanjong Pagar Distripark | Singapore |
 | Sat, 10 Oct 2026 | 1 Hotel Tokyo | Tokyo |
@@ -22,6 +21,7 @@ Antal is a house and disco artist based in Netherlands, tracked on soundcheck, w
 
 ## Recently played
 
+- La Cheetah Club, Glasgow — Sat, 26 Sept 2026
 - OHM, Berlin — Sat, 19 Sept 2026
 - Doka, Amsterdam — Sat, 12 Sept 2026
 - DC-10, Ibiza — Mon, 7 Sept 2026
@@ -29,10 +29,9 @@ Antal is a house and disco artist based in Netherlands, tracked on soundcheck, w
 - Quinta do Miratejo, Lisbon — Sat, 15 Aug 2026
 - NAR, Utrecht — Sun, 9 Aug 2026
 - Nu Cine Copan, Sao Paulo — Sat, 1 Aug 2026
-- 528 Ibiza, Ibiza — Thu, 23 Jul 2026
 
 ## Shares bills with
 
 Hunee, Kléo, Coco Maria
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*

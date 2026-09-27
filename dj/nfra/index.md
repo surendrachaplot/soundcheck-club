@@ -1,6 +1,6 @@
 # nΦra
 
-nΦra is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at MODULE, Copenhagen on Sat, 26 Sept 2026.
+nΦra is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at MODULE, Copenhagen on Sat, 26 Sept 2026.
 
 nΦra is a house and tech house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Copenhagen, Hamburg and Munich and 1 more. Often billed alongside tadoh, ATTA and ATTA (GER). Next up: MODULE, Copenhagen on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ nΦra is a house and tech house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- MODULE, Copenhagen — Sat, 26 Sept 2026
 - Südpol, Hamburg — Fri, 19 Jun 2026
 - Klunkerkranich, Berlin — Fri, 29 May 2026
 - Lieberscholli, Munich — Thu, 14 May 2026
@@ -19,10 +20,9 @@ nΦra is a house and tech house artist based in Germany, tracked on soundcheck, 
 - Beate Uwe, Berlin — Sun, 8 Feb 2026
 - Kater, Berlin — Sat, 13 Dec 2025
 - Kauz, Zurich — Sat, 25 Oct 2025
-- gART.n, Berlin — Sun, 7 Sept 2025
 
 ## Shares bills with
 
 tadoh, ATTA, ATTA (GER)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nfra/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nfra/)*

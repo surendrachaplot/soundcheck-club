@@ -1,6 +1,6 @@
 # Lark
 
-Lark is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Hum w/ Kyle Hall b2b K15, Mamalia'The first lady of modern funk'ft.Mauricio Fleury, Bulma Brief" on Sun, 27 Sept 2026.
+Lark is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Hum w/ Kyle Hall b2b K15, Mamalia'The first lady of modern funk'ft.Mauricio Fleury, Bulma Brief" on Sun, 27 Sept 2026.
 
 Lark is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including asphalt angel, BAMBI (UK), Bulma Brief and Chickenmilk dot com and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
@@ -23,4 +23,4 @@ Lark is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with lin
 
 Holzmarktstrasse 15-18, 10179, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*

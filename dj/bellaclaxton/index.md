@@ -1,14 +1,13 @@
 # Bella Claxton
 
-Bella Claxton is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+Bella Claxton is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Bella Claxton is a techno and house artist based in Australia, tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Auckland and Bali and 26 more. Often billed alongside Kyle Starkey, Faster Horses and LAMMER. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
+Bella Claxton is a techno and house artist based in Australia, tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Auckland and Bali and 26 more. Often billed alongside Kyle Starkey, Faster Horses and LAMMER. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Fohrstraat, 9000 Gent, België | Ghent |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Bella Claxton is a techno and house artist based in Australia, tracked on soundc
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 7 Nov 2026 | Cabaret  Aléatoire | Marseille |
+| Fri, 20 Nov 2026 | Colour Factory | London |
 
 ## Recently played
 
+- TBA - Fohrstraat, 9000 Gent, België, Ghent — Sat, 26 Sept 2026
 - Crate Brewery, London — Sun, 13 Sept 2026
 - SISSI'S Amsterdam, Amsterdam — Sat, 5 Sept 2026
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
@@ -30,10 +31,9 @@ Bella Claxton is a techno and house artist based in Australia, tracked on soundc
 - Mondo, Madrid — Sat, 22 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Thuishaven, Amsterdam — Sun, 9 Aug 2026
-- Night Tales, London — Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Kyle Starkey, Faster Horses, LAMMER
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*

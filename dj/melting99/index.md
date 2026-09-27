@@ -1,6 +1,6 @@
 # Melting 99
 
-Melting 99 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Nyapi, Seoul on Thu, 1 Oct 2026.
+Melting 99 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Nyapi, Seoul on Thu, 1 Oct 2026.
 
 Melting 99 is a techno and house artist tracked on soundcheck, with 5 sets logged across New York City, Seoul, Taipei and Tokyo. Often billed alongside Diskonnected, Timo Lee and CHIDA. Next up: Nyapi, Seoul on Thu 1 Oct.
 
@@ -21,4 +21,4 @@ Melting 99 is a techno and house artist tracked on soundcheck, with 5 sets logge
 
 Diskonnected, Timo Lee, CHIDA
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melting99/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melting99/)*

@@ -1,6 +1,6 @@
 # Concord NYC
 
-Concord NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "SOCA & FRIENDS - Dancehall & Soca Party in NYC" on Sat, 26 Sept 2026.
+Concord NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "SOCA & FRIENDS - Dancehall & Soca Party in NYC" on Sat, 26 Sept 2026.
 
 Concord NYC is a music venue in New York City listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 92 Ludlow St New York, NY 10002 United States.
 
@@ -14,4 +14,4 @@ Concord NYC is a music venue in New York City listed on soundcheck. 1 upcoming g
 
 92 Ludlow St New York, NY 10002 United States, New York City
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/concord-nyc/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/concord-nyc/)*

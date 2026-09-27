@@ -1,6 +1,6 @@
 # Prozak 2.0
 
-Prozak 2.0 is a music venue in Krakow with 12 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "GO GIRLS" on Sat, 26 Sept 2026.
+Prozak 2.0 is a music venue in Krakow with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "GO GIRLS" on Sat, 26 Sept 2026.
 
 Prozak 2.0 is a music venue in Krakow listed on soundcheck. 12 upcoming gigs, with line-ups including Bliss Kiss, Forest (PL), Francesca and Gunz and 2 more. Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
 
@@ -23,4 +23,4 @@ Prozak 2.0 is a music venue in Krakow listed on soundcheck. 12 upcoming gigs, wi
 
 plac Dominikański 6, 33-332 Kraków, Poland, Krakow
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*

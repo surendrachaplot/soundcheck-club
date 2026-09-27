@@ -1,6 +1,6 @@
 # Department 184
 
-Department 184 is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Saskia Lab: with Yazmin (Glitch Festival)" on Sat, 26 Sept 2026.
+Department 184 is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Saskia Lab: with Yazmin (Glitch Festival)" on Sat, 26 Sept 2026.
 
 Department 184 is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Alex Brasile, AllaDerivaLontano, ALXV and Daichi Wada and 2 more. Browse upcoming dates, start times and who's playing. Via Varesina, 184, 20156 Milano MI.
 
@@ -17,4 +17,4 @@ Department 184 is a music venue in Milan listed on soundcheck. 4 upcoming gigs, 
 
 Via Varesina, 184, 20156 Milano MI, Milan
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*

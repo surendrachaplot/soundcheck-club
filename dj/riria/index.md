@@ -1,6 +1,6 @@
 # RIRIA
 
-RIRIA is a Bass and Techno artist with 17 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+RIRIA is a Bass and Techno artist with 17 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 RIRIA is a bass and techno artist based in Japan, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Atlanta and Bali and 36 more. Often billed alongside Diffrent, ryota dj and KETTAMA. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
@@ -23,17 +23,17 @@ RIRIA is a bass and techno artist based in Japan, tracked on soundcheck, with 99
 
 ## Recently played
 
+- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
+- Art Club, Houston — Sat, 26 Sept 2026
+- Art Club, Houston — Sat, 26 Sept 2026
 - Club Catwalk, Los Angeles — Fri, 25 Sept 2026
 - Odaiba, Tokyo — Tue, 22 Sept 2026
 - Hangaren, Copenhagen — Thu, 27 Aug 2026
 - Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
-- Burgess Park, London — Fri, 31 Jul 2026
-- Parc de la Trinitat, Barcelona — Sun, 26 Jul 2026
-- Paléo Festival, Geneva — Tue, 21 Jul 2026
 
 ## Shares bills with
 
 Diffrent, ryota dj, KETTAMA
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*

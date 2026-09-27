@@ -1,6 +1,6 @@
 # DJ Gilla
 
-DJ Gilla is a Broken Beat and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Hope House, Leeds on Sun, 27 Sept 2026.
+DJ Gilla is a Broken Beat and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Hope House, Leeds on Sun, 27 Sept 2026.
 
 DJ Gilla is a broken beat and funk / soul artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Leeds and London. Often billed alongside Russ Ryan, Children of Zeus and Alex Phountzi. Next up: Hope House, Leeds on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ DJ Gilla is a broken beat and funk / soul artist based in United Kingdom, tracke
 
 Russ Ryan, Children of Zeus, Alex Phountzi
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgilla/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgilla/)*

@@ -1,14 +1,13 @@
 # ISA
 
-ISA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Super7, Lyon on Thu, 24 Sept 2026.
+ISA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Highlight Room, New York City on Sun, 27 Sept 2026.
 
-ISA is a techno and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Athens, Austin, Berlin and Copenhagen and 9 more. Often billed alongside Alec Sander, Aram and Ayebatonye. Next up: Super7, Lyon on Thu 24 Sept.
+ISA is a techno and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Athens, Austin, Berlin and Copenhagen and 9 more. Often billed alongside Alec Sander, Aram and Ayebatonye. Next up: The Highlight Room, New York City on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Super7 | Lyon |
 | Sun, 27 Sept 2026 | The Highlight Room | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ ISA is a techno and house artist based in United States of America, tracked on s
 
 Alec Sander, Aram, Ayebatonye
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isa/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isa/)*

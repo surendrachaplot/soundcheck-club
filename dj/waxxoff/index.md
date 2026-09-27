@@ -1,6 +1,6 @@
 # WAXX OFF
 
-WAXX OFF is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+WAXX OFF is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
 WAXX OFF is a garage and bass artist tracked on soundcheck, with 23 sets logged across Amsterdam, Auckland, Australian Capital Territory and Bangkok and 8 more. Often billed alongside Prizefight, Baron Von Trax and IsGwan. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ WAXX OFF is a garage and bass artist tracked on soundcheck, with 23 sets logged 
 
 Prizefight, Baron Von Trax, IsGwan
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxxoff/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxxoff/)*

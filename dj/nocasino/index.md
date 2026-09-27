@@ -1,6 +1,6 @@
 # NOCASINO
 
-NOCASINO is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at KEYBAR, New York City on Sat, 26 Sept 2026.
+NOCASINO is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at KEYBAR, New York City on Sat, 26 Sept 2026.
 
 NOCASINO is a house and disco artist based in United States of America, tracked on soundcheck, with 6 sets logged across Detroit, New York City and Washington DC. Often billed alongside Drop Catch, Eddie Logix and J.Scott. Next up: KEYBAR, New York City on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ NOCASINO is a house and disco artist based in United States of America, tracked 
 
 ## Recently played
 
+- KEYBAR, New York City — Sat, 26 Sept 2026
 - Jimmy Valentine's Lonely Hearts Club, Washington DC — Sun, 13 Sept 2026
 - 215 W, Detroit — Fri, 4 Sept 2026
 - Cannons, Detroit — Tue, 14 Jul 2026
@@ -22,4 +23,4 @@ NOCASINO is a house and disco artist based in United States of America, tracked 
 
 Drop Catch, Eddie Logix, J.Scott
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nocasino/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nocasino/)*

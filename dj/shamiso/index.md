@@ -1,6 +1,6 @@
 # Shamiso
 
-Shamiso is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at KOKO, London on Sat, 3 Oct 2026.
+Shamiso is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at KOKO, London on Sat, 3 Oct 2026.
 
 Shamiso is an afro house and tech house artist based in South Africa, tracked on soundcheck, with 11 sets logged across Amsterdam, London and Paris. Often billed alongside CLEIDO, Johnny Fiore and Meedy. Next up: KOKO, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Shamiso is an afro house and tech house artist based in South Africa, tracked on
 
 CLEIDO, Johnny Fiore, Meedy
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shamiso/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shamiso/)*

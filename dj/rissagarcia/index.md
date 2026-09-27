@@ -1,6 +1,6 @@
 # Rissa Garcia
 
-Rissa Garcia is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Ornate Studio, New York City on Sat, 26 Sept 2026.
+Rissa Garcia is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Ornate Studio, New York City on Sat, 26 Sept 2026.
 
 Rissa Garcia is a house and disco artist based in United States of America, tracked on soundcheck, with 49 sets logged across Boston, Detroit, Miami and New York City and 1 more. Often billed alongside Danny Krivit, Ruez and Francois K. Next up: The Ornate Studio, New York City on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Rissa Garcia is a house and disco artist based in United States of America, trac
 
 ## Recently played
 
+- The Ornate Studio, New York City — Sat, 26 Sept 2026
 - Good Room, New York City — Fri, 11 Sept 2026
 - 314 Scholes, New York City — Sat, 22 Aug 2026
 - MAD Radio NYC, New York City — Sat, 8 Aug 2026
@@ -19,10 +20,9 @@ Rissa Garcia is a house and disco artist based in United States of America, trac
 - Superior Ingredients, New York City — Sat, 6 Jun 2026
 - Tompkins Square Park, New York City — Sat, 16 May 2026
 - MAD Radio NYC, New York City — Sat, 16 May 2026
-- MAD Radio NYC, New York City — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Danny Krivit, Ruez, Francois K
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rissagarcia/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rissagarcia/)*

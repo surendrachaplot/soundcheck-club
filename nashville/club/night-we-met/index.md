@@ -1,6 +1,6 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 18 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Discip" on Sat, 26 Sept 2026.
+Night We Met is a music venue in Nashville with 18 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Discip" on Sat, 26 Sept 2026.
 
 Night We Met is a music venue in Nashville listed on soundcheck. 18 upcoming gigs, with line-ups including Arht, Biscits, bradeazy and Cut Copy and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
@@ -23,4 +23,4 @@ Night We Met is a music venue in Nashville listed on soundcheck. 18 upcoming gig
 
 114 12th Ave N, Nashville, TN 37203 USA, Nashville
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*

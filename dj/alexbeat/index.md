@@ -1,6 +1,6 @@
 # Alex Beat
 
-Alex Beat is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Sala Independance Club, Madrid on Fri, 2 Oct 2026.
+Alex Beat is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Sala Independance Club, Madrid on Fri, 2 Oct 2026.
 
 Alex Beat is a techno and acid artist based in Spain, tracked on soundcheck, with 4 sets logged across Madrid. Often billed alongside OXNA, Xé and DARK MOON (ES). Next up: Sala Independance Club, Madrid on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Alex Beat is a techno and acid artist based in Spain, tracked on soundcheck, wit
 
 OXNA, Xé (1), DARK MOON (ES)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbeat/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbeat/)*

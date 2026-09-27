@@ -1,6 +1,6 @@
 # Yonti
 
-Yonti is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Faust, Seoul on Sun, 4 Oct 2026.
+Yonti is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Faust, Seoul on Sun, 4 Oct 2026.
 
 Yonti is a techno and house artist based in Germany, tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 28 more. Often billed alongside Roi Perez, Blasha & Allatt and Fadi Mohem. Next up: Faust, Seoul on Sun 4 Oct.
 
@@ -29,4 +29,4 @@ Yonti is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Roi Perez, Blasha & Allatt, Fadi Mohem
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yonti/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yonti/)*

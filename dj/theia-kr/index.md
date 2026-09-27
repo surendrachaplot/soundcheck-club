@@ -1,6 +1,6 @@
 # theia
 
-theia is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+theia is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
 
 theia is an electronic artist based in South Korea, tracked on soundcheck, with 10 sets logged across Cyprus, Ibiza, Seoul and Zurich. Often billed alongside GREGOTECHNO, Suman and Valenzia. Next up: Etko, Cyprus on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ theia is an electronic artist based in South Korea, tracked on soundcheck, with 
 
 GREGOTECHNO, Suman, Valenzia
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theia-kr/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theia-kr/)*

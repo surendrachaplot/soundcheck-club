@@ -1,6 +1,6 @@
 # KEYBAR
 
-KEYBAR is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "NOCASINO's Deep End Tour: NYC" on Sat, 26 Sept 2026.
+KEYBAR is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "NOCASINO's Deep End Tour: NYC" on Sat, 26 Sept 2026.
 
 KEYBAR is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including cortisoul, Damon Bradley, DJ Paul C and Jahveri and 1 more. Browse upcoming dates, start times and who's playing. 143 Troutman Street, Brooklyn, NY 11206.
 
@@ -16,4 +16,4 @@ KEYBAR is a music venue in New York City listed on soundcheck. 3 upcoming gigs, 
 
 143 Troutman Street, Brooklyn, NY 11206, New York City
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/keybar/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/keybar/)*

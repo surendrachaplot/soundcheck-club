@@ -1,14 +1,13 @@
 # Chunky
 
-Chunky is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Refuge, Manchester on Sat, 26 Sept 2026.
+Chunky is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Golden Lion, Manchester on Sat, 3 Oct 2026.
 
-Chunky is a garage and house artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Brisbane and 10 more. Often billed alongside Rich Reason, LARISHKA (UK) and Tom Boogizm. Next up: The Refuge, Manchester on Sat 26 Sept.
+Chunky is a garage and house artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Brisbane and 10 more. Often billed alongside Rich Reason, LARISHKA (UK) and Tom Boogizm. Next up: The Golden Lion, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | The Refuge | Manchester |
 | Sat, 3 Oct 2026 | The Golden Lion | Manchester |
 | Thu, 8 Oct 2026 | renae | Manchester |
 | Fri, 23 Oct 2026 | Şahika | Istanbul |
@@ -16,6 +15,7 @@ Chunky is a garage and house artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
+- The Refuge, Manchester — Sat, 26 Sept 2026
 - Hidden, Manchester — Mon, 21 Sept 2026
 - The White Hotel, Manchester — Sun, 20 Sept 2026
 - Freight Island, Manchester — Sun, 6 Sept 2026
@@ -23,10 +23,9 @@ Chunky is a garage and house artist based in United Kingdom, tracked on soundche
 - The Shepherds Rest Inn. Todmorden, Manchester — Sun, 30 Aug 2026
 - SISSI'S Amsterdam, Amsterdam — Sat, 29 Aug 2026
 - The Globe, Glossop, Manchester — Sat, 8 Aug 2026
-- Freight Island Newcastle, Newcastle — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Rich Reason, LARISHKA (UK), Tom Boogizm
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*

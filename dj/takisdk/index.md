@@ -1,6 +1,6 @@
 # Takis DK
 
-Takis DK is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Meet Berlage, Amsterdam on Fri, 23 Oct 2026.
+Takis DK is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Meet Berlage, Amsterdam on Fri, 23 Oct 2026.
 
 Takis DK is a techno and house artist tracked on soundcheck, with 39 sets logged across Amsterdam and Athens. Often billed alongside Mágafas, Sirod and Dom K. Next up: Meet Berlage, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Takis DK is a techno and house artist tracked on soundcheck, with 39 sets logged
 
 Mágafas, Sirod, Dom K
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takisdk/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takisdk/)*

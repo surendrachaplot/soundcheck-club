@@ -1,6 +1,6 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "EAU DE COLOGNE" on Fri, 2 Oct 2026.
+KREUZWERK is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "EAU DE COLOGNE" on Fri, 2 Oct 2026.
 
 KREUZWERK is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including ADAM MUNNINGS, Amowia, ARMANA KHAN and Bad Puppy and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
@@ -10,7 +10,7 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | EAU DE COLOGNE | Citizens Union, MVHY, Natuta, Nene H, VINVAR |
 | Fri, 9 Oct 2026 | Carmen Electro & BUTZ invite Laia, LYZA  | BUTZ, Carmen Electro, LYZA, Laia |
-| Sun, 11 Oct 2026 | tracey zero | ADAM MUNNINGS, Amowia, DJ Petite, Daniel Berj, James Lotion, Sparkly Pony, fka.m4a |
+| Sun, 11 Oct 2026 | tracey zero | ADAM MUNNINGS, Amowia, DJ Petite, Daniel Berj, James Lotion, Nancy Nutter, Sparkly Pony, fka.m4a |
 | Fri, 16 Oct 2026 | LECKEN X SLIC Unit | Amowia, Chinyere, NAS TEA, Nissa Carrington, Oldyungmayn, Robin Flux, Sanaz (2), Slimgirl fat, yung_womb |
 | Fri, 23 Oct 2026 | Power BUTT Club | Byron Yeates, Cashu, Chris Cruse, Majdolen, Massimiliano Pagliara, Stathis (GR) |
 | Sat, 31 Oct 2026 | Hoe__mies: Dolloween | ARMANA KHAN, Bad Puppy, Meg10, Saint Nia, Shadysnack, Vera Moro, XD Erica |
@@ -21,4 +21,4 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

@@ -1,6 +1,6 @@
 # FENGX2
 
-FENGX2 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Blvck Water, Osaka on Fri, 9 Oct 2026.
+FENGX2 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Blvck Water, Osaka on Fri, 9 Oct 2026.
 
 FENGX2 is a techno and house artist based in Japan, tracked on soundcheck, with 218 sets logged across Hong Kong, Osaka, Seoul and Tokyo. Often billed alongside ZAGUN, _goodbyeforever_ and YUVIE. Next up: Blvck Water, Osaka on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ FENGX2 is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 ZAGUN, _goodbyeforever_, YUVIE
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fengx2/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fengx2/)*

@@ -1,6 +1,6 @@
 # Teatro Mars
 
-Teatro Mars is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Baile Do Ramemes Halloween Sp" on Sat, 26 Sept 2026.
+Teatro Mars is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "Baile Do Ramemes Halloween Sp" on Sat, 26 Sept 2026.
 
 Teatro Mars is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig, with line-ups including DJ RaMeMes. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Teatro Mars is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Baile Do Ramemes Halloween Sp | DJ RaMeMes |
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/teatro-mars/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/teatro-mars/)*

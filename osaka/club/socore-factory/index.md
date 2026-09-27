@@ -1,14 +1,13 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 33 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "今夜もランデヴー 9th Anniversary" on Sat, 26 Sept 2026.
+Socore Factory is a music venue in Osaka with 32 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "HOOFIT" on Wed, 30 Sept 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 33 upcoming gigs, with line-ups including Akira, ALUCA, Fluid and GEBO and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 32 upcoming gigs, with line-ups including Akira, ALUCA, Fluid and GEBO and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | 今夜もランデヴー 9th Anniversary | Koma (1), Marie (2) |
 | Wed, 30 Sept 2026 | HOOFIT | Mash |
 | Fri, 2 Oct 2026 | LOVE TO SHARE | Akira |
 | Sat, 3 Oct 2026 | FELA BTATION OSAKA 2026 |  |
@@ -18,9 +17,10 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 33 upcoming gigs,
 | Fri, 9 Oct 2026 | mophing people presents 'res andres' Release Japan Tour 2026 |  |
 | Sat, 10 Oct 2026 | SKA TOWN OSAKA vol.2 presented by vongsign | Warung |
 | Sun, 11 Oct 2026 | FOOLING AROUND FINAL ~Marcel Bontempi JAPAN Tour In Osaka | Jimmy, Yos |
+| Mon, 12 Oct 2026 | TREBLE RUMBLE presents 'Rumbling DUB Chamber' | Inga |
 
 ## Address
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

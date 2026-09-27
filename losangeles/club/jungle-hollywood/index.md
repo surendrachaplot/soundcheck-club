@@ -1,6 +1,6 @@
 # Jungle Hollywood
 
-Jungle Hollywood is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Groove & Grill Day Party - bawab + Friends" on Sat, 26 Sept 2026.
+Jungle Hollywood is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Groove & Grill Day Party - bawab + Friends" on Sat, 26 Sept 2026.
 
 Jungle Hollywood is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including bawab, DENYC, Derrick Wize and Diz and 2 more. Browse upcoming dates, start times and who's playing. 1640 N Cahuenga Blvd, Los Angeles, CA 90028.
 
@@ -17,4 +17,4 @@ Jungle Hollywood is a music venue in Los Angeles listed on soundcheck. 4 upcomin
 
 1640 N Cahuenga Blvd, Los Angeles, CA 90028, Los Angeles
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/jungle-hollywood/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/jungle-hollywood/)*

@@ -1,6 +1,6 @@
 # fumi (DE)
 
-fumi (DE) is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Canava House, Slovenia on Sat, 26 Sept 2026.
+fumi (DE) is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Canava House, Slovenia on Sat, 26 Sept 2026.
 
 fumi (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 38 more. Often billed alongside Serafina, Adrian Mills and Cloudy. Next up: Canava House, Slovenia on Sat 26 Sept.
 
@@ -21,6 +21,7 @@ fumi (DE) is a techno and trance artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- Canava House, Slovenia — Sat, 26 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 19 Sept 2026
 - Factory Town, Miami — Sun, 6 Sept 2026
 - Industry City, New York City — Sat, 5 Sept 2026
@@ -28,10 +29,9 @@ fumi (DE) is a techno and trance artist based in Germany, tracked on soundcheck,
 - Flash, Washington DC — Fri, 4 Sept 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Odonien, Cologne — Fri, 24 Jul 2026
-- Else, Berlin — Sun, 5 Jul 2026
 
 ## Shares bills with
 
 Serafina, Adrian Mills, Cloudy
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*

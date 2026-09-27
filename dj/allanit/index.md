@@ -1,17 +1,18 @@
 # Allanit
 
-Allanit is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - NW DC - Address sent Sat afternoon to ticket holders. For door tickets, contact hosts on Partiful or Instagram for address, Washington DC on Sat, 26 Sept 2026.
+Allanit is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - NW DC - Address sent at 7 PM to ticket holders. For door tickets, contact hosts on Partiful or Instagram for address, Washington DC on Sat, 26 Sept 2026.
 
-Allanit is a house and deep house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Washington DC. Often billed alongside Sarah Myers, KayLaSoul and Apollo Dust. Next up: TBA - NW DC - Address sent Sat afternoon to ticket holders. For door tickets, contact hosts on Partiful or Instagram for address, Washington DC on Sat 26 Sept.
+Allanit is a house and deep house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Washington DC. Often billed alongside Sarah Myers, KayLaSoul and Apollo Dust. Next up: TBA - NW DC - Address sent at 7 PM to ticket holders. For door tickets, contact hosts on Partiful or Instagram for address, Washington DC on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - NW DC - Address sent Sat afternoon to ticket holders. For door tickets, contact hosts on Partiful or Instagram for address | Washington DC |
+| Sat, 26 Sept 2026 | TBA - NW DC - Address sent at 7 PM to ticket holders. For door tickets, contact hosts on Partiful or Instagram for address | Washington DC |
 
 ## Recently played
 
+- TBA - NW DC - Address sent at 7 PM to ticket holders. For door tickets, contact hosts on Partiful or Instagram for address, Washington DC — Sat, 26 Sept 2026
 - Eighteenth Street Lounge (ESL), Washington DC — Sun, 30 Aug 2026
 - Flash, Washington DC — Fri, 28 Aug 2026
 - El Secreto De Rosita, Washington DC — Sat, 6 Jun 2026
@@ -24,4 +25,4 @@ Allanit is a house and deep house artist based in United States of America, trac
 
 Sarah Myers, KayLaSoul, Apollo Dust
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allanit/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allanit/)*

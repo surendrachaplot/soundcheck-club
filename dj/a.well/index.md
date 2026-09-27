@@ -1,6 +1,6 @@
 # A.Well
 
-A.Well is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Killing Time, Melbourne on Sun, 27 Sept 2026.
+A.Well is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Killing Time, Melbourne on Sun, 27 Sept 2026.
 
 A.Well is a house and techno artist based in Australia, tracked on soundcheck, with 56 sets logged across Melbourne and Sydney. Often billed alongside Andrew88, Yugwan and Chris Stevo. Next up: Killing Time, Melbourne on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ A.Well is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Andrew88, Yugwan, Chris Stevo
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.well/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.well/)*

@@ -1,6 +1,6 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Bronco´s (Hannover) Takeover" on Sat, 26 Sept 2026.
+Giselle is a music venue in Düsseldorf with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Bronco´s (Hannover) Takeover" on Sat, 26 Sept 2026.
 
 Giselle is a music venue in Düsseldorf listed on soundcheck. 4 upcoming gigs, with line-ups including Chris Gerber, DJ Flatbeat, Flashbaxx and Lavan and 2 more. Browse upcoming dates, start times and who's playing. 147 Oststrasse 40210.
 
@@ -17,4 +17,4 @@ Giselle is a music venue in Düsseldorf listed on soundcheck. 4 upcoming gigs, w
 
 147 Oststrasse 40210, Düsseldorf
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*

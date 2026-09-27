@@ -1,6 +1,6 @@
 # Actual Angel
 
-Actual Angel is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Hart Bar, New York City on Sat, 26 Sept 2026.
+Actual Angel is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Hart Bar, New York City on Sat, 26 Sept 2026.
 
 Actual Angel is a club and hardcore artist based in United States of America, tracked on soundcheck, with 26 sets logged across Berlin, London and New York City. Often billed alongside SIREN, Brutal Twink and Melona. Next up: Hart Bar, New York City on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Actual Angel is a club and hardcore artist based in United States of America, tr
 
 ## Recently played
 
+- Hart Bar, New York City — Sat, 26 Sept 2026
 - Mood Ring, New York City — Sat, 13 Jun 2026
 - Bossa Nova Civic Club, New York City — Mon, 17 Nov 2025
 - Mood Ring, New York City — Thu, 13 Nov 2025
@@ -19,10 +20,9 @@ Actual Angel is a club and hardcore artist based in United States of America, tr
 - Rash, New York City — Sat, 26 Apr 2025
 - Mood Ring, New York City — Thu, 27 Feb 2025
 - Mood Ring, New York City — Wed, 15 Jan 2025
-- Jade, New York City — Tue, 31 Dec 2024
 
 ## Shares bills with
 
 SIREN (3), Brutal Twink, Melona
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/actualangel/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/actualangel/)*

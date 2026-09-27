@@ -1,6 +1,6 @@
 # onlytom
 
-onlytom is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Homage Brewing, Los Angeles on Sat, 26 Sept 2026.
+onlytom is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Homage Brewing, Los Angeles on Sat, 26 Sept 2026.
 
 onlytom is a club and bass artist based in United States of America, tracked on soundcheck, with 12 sets logged across Los Angeles and New York City. Often billed alongside Tromac, nextdimensional and Arielle Lana. Next up: Homage Brewing, Los Angeles on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ onlytom is a club and bass artist based in United States of America, tracked on 
 
 ## Recently played
 
+- Homage Brewing, Los Angeles — Sat, 26 Sept 2026
 - Trans-Pecos, New York City — Sat, 8 Aug 2026
 - Elsewhere, New York City — Sun, 24 May 2026
 - Elsewhere, New York City — Sun, 24 May 2026
@@ -19,10 +20,9 @@ onlytom is a club and bass artist based in United States of America, tracked on 
 - Good Room, New York City — Fri, 30 Jan 2026
 - Market Hotel, New York City — Fri, 19 Sept 2025
 - Mood Ring, New York City — Thu, 7 Aug 2025
-- Earthly Delights, New York City — Wed, 23 Jul 2025
 
 ## Shares bills with
 
 Tromac, nextdimensional, Arielle Lana
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onlytom/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onlytom/)*

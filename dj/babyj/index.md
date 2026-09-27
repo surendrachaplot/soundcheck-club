@@ -1,6 +1,6 @@
 # Baby J
 
-Baby J is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Baby J is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Baby J is a house and disco artist based in United States of America, tracked on soundcheck, with 11 sets logged across Athens, Hong Kong, Los Angeles and Madrid and 1 more. Often billed alongside Fei-Fei, TYGRBYT and ALISHA. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Baby J is a house and disco artist based in United States of America, tracked on
 
 ## Recently played
 
+- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
 - Wan Chai Harbourfront, Hong Kong — Sun, 4 May 2025
 - Sala ART, Madrid — Thu, 6 Feb 2025
 - 18 Social Hotel Indigo, Los Angeles — Fri, 1 Nov 2024
@@ -19,10 +20,9 @@ Baby J is a house and disco artist based in United States of America, tracked on
 - Underware, Los Angeles — Sat, 3 Aug 2024
 - Kiss Kiss Bang Bang, Los Angeles — Thu, 18 Jan 2024
 - Onassis Stegi, Athens — Fri, 22 Dec 2023
-- The Cook's Garden Venice, Los Angeles — Sat, 28 Oct 2023
 
 ## Shares bills with
 
 Fei-Fei, TYGRBYT, ALISHA
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyj/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyj/)*

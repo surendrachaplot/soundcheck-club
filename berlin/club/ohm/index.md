@@ -1,6 +1,6 @@
 # OHM
 
-OHM is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "version" on Sat, 26 Sept 2026.
+OHM is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "version" on Sat, 26 Sept 2026.
 
 OHM is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including Aaronovsky, aeriform, AliA and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
@@ -23,4 +23,4 @@ OHM is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

@@ -1,6 +1,6 @@
 # Degs
 
-Degs is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Suki10c, Birmingham on Sat, 3 Oct 2026.
+Degs is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Suki10c, Birmingham on Sat, 3 Oct 2026.
 
 Degs is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 26 more. Often billed alongside Whiney, Unglued and Metrik. Next up: Suki10c, Birmingham on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Degs is a drum & bass and jungle artist based in United Kingdom, tracked on soun
 
 Whiney, Unglued, Metrik
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/degs/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/degs/)*

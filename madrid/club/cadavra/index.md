@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 25 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "CDVR with Katia Curie b2b NIZAR SARAKBI" on Sat, 26 Sept 2026.
+Cadavra is a music venue in Madrid with 25 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "CDVR with Katia Curie b2b NIZAR SARAKBI" on Sat, 26 Sept 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 25 upcoming gigs, with line-ups including 2garlics, Alvaro Cabana, Andy Martin and Anna Wall and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 25 upcoming gigs, with 
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

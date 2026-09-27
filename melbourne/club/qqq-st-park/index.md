@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Proponent Records and Safari Zone present: Dusk" on Fri, 2 Oct 2026.
+QQQ ST. Park is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Proponent Records and Safari Zone present: Dusk" on Fri, 2 Oct 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including anna(n), Arktic, Common Tribe and Ish Anja and 2 more. Browse upcoming dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -18,4 +18,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

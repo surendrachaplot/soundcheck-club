@@ -1,6 +1,6 @@
 # FITS ME FUNNY
 
-FITS ME FUNNY is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The DBA, Manchester on Fri, 16 Oct 2026.
+FITS ME FUNNY is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The DBA, Manchester on Fri, 16 Oct 2026.
 
 FITS ME FUNNY is a house and techno artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Brighton, London and Manchester. Often billed alongside ANLON, DJ VALENTINE and Emile. Next up: The DBA, Manchester on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ FITS ME FUNNY is a house and techno artist based in United Kingdom, tracked on s
 
 ANLON, DJ VALENTINE, Emile
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fitsmefunny/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fitsmefunny/)*

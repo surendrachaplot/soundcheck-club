@@ -1,15 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "𖦹 Sybil (All Night Long) at TOPP 𖦹" on Sat, 26 Sept 2026.
+renae is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "renae x Saturama presents room to: bathe" on Sun, 27 Sept 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Chris Massey and Chunky and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Chunky and Coel Haines and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | 𖦹 Sybil (All Night Long) at TOPP 𖦹 | Sybil |
-| Sat, 26 Sept 2026 | renae: Sticky Heat | Chris Massey, Muddy Feet |
 | Sun, 27 Sept 2026 | renae x Saturama presents room to: bathe | Werkha |
 | Sun, 27 Sept 2026 | renae: Dischi & Friends |  |
 | Thu, 1 Oct 2026 | Persona - Gabriel Rai b2b Ethan. (7hrs ANL) | Ethan., Gabriel Rai |
@@ -23,4 +21,4 @@ renae is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, wit
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

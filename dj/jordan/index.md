@@ -1,6 +1,6 @@
 # Jordan
 
-Jordan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Oven Club, Valencia on Sat, 26 Sept 2026.
+Jordan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Oven Club, Valencia on Sat, 26 Sept 2026.
 
 Jordan is a house and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Berlin, London, San Francisco/Oakland and Tokyo and 1 more. Often billed alongside Bjørn, DJ Cira and Loora. Next up: Oven Club, Valencia on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Jordan is a house and techno artist based in United States of America, tracked o
 
 ## Recently played
 
+- Oven Club, Valencia — Sat, 26 Sept 2026
 - Live Haus, Tokyo — Fri, 25 Sept 2026
 - Lightbox, London — Sat, 29 Aug 2026
 - Forestlimit, Tokyo — Wed, 12 Aug 2026
@@ -20,10 +21,9 @@ Jordan is a house and techno artist based in United States of America, tracked o
 - Heavy Sick Zero, Tokyo — Fri, 21 Nov 2025
 - Lightbox, London — Sat, 15 Nov 2025
 - Heavy Sick Zero, Tokyo — Sat, 25 Oct 2025
-- Der Weiße Hase, Berlin — Sat, 6 Sept 2025
 
 ## Shares bills with
 
 Bjørn, DJ Cira, Loora
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan/)*

@@ -1,6 +1,6 @@
 # Hardt Antoine
 
-Hardt Antoine is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Signal, New York City on Sat, 17 Oct 2026.
+Hardt Antoine is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Signal, New York City on Sat, 17 Oct 2026.
 
 Hardt Antoine is a techno and house artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Caleesi, Sarah Kreis and Mira. Next up: Signal, New York City on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Hardt Antoine is a techno and house artist based in United Kingdom, tracked on s
 
 Caleesi, Sarah Kreis, Mira
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*

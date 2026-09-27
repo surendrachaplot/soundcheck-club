@@ -1,6 +1,6 @@
 # Mastering Black
 
-Mastering Black is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
+Mastering Black is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
 
 Mastering Black is an ambient and acid artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam and London. Often billed alongside Richie Hawtin, ANNĒ and APRS. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ Mastering Black is an ambient and acid artist based in Netherlands, tracked on s
 
 Richie Hawtin, ANNĒ, APRS
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masteringblack/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masteringblack/)*

@@ -1,6 +1,6 @@
 # TOMÁS (2)
 
-TOMÁS (2) is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Chocolate Factory, New York City on Sat, 26 Sept 2026.
+TOMÁS (2) is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Chocolate Factory, New York City on Sat, 26 Sept 2026.
 
 TOMÁS is a house and afro tech artist based in Ireland, tracked on soundcheck, with 5 sets logged across New York City and Oslo. Often billed alongside ALEXIS DE LA ROSA, Boy Cordero and CYCLO BONETTE. Next up: The Chocolate Factory, New York City on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ TOMÁS is a house and afro tech artist based in Ireland, tracked on soundcheck, 
 
 ## Recently played
 
+- The Chocolate Factory, New York City — Sat, 26 Sept 2026
 - Gehør, Oslo — Thu, 10 Sept 2026
 - Xanadu, New York City — Sun, 16 Nov 2025
 - Mansions, New York City — Thu, 4 Sept 2025
@@ -21,4 +22,4 @@ TOMÁS is a house and afro tech artist based in Ireland, tracked on soundcheck, 
 
 ALEXIS DE LA ROSA, Boy Cordero, CYCLO BONETTE
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomas-2-us/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomas-2-us/)*

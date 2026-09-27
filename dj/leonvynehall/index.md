@@ -1,6 +1,6 @@
 # Leon Vynehall
 
-Leon Vynehall is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+Leon Vynehall is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
 
 Leon Vynehall is a house and techno artist based in United Kingdom, tracked on soundcheck, with 141 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Moxie, Young Marco and Yu Su. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Leon Vynehall is a house and techno artist based in United Kingdom, tracked on s
 
 Moxie, Young Marco, Yu Su
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leonvynehall/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leonvynehall/)*

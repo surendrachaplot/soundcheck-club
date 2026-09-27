@@ -1,6 +1,6 @@
 # Paula Pretel
 
-Paula Pretel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil, Sao Paulo on Sun, 27 Sept 2026.
+Paula Pretel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil, Sao Paulo on Sun, 27 Sept 2026.
 
 Paula Pretel is a house and techno artist based in Brazil, tracked on soundcheck, with 35 sets logged across Sao Paulo. Often billed alongside Gezender, NAIR and Valentina Luz. Next up: TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil, Sao Paulo on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Paula Pretel is a house and techno artist based in Brazil, tracked on soundcheck
 
 Gezender, NAIR, Valentina Luz
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulapretel/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulapretel/)*

@@ -1,6 +1,6 @@
 # Flowdan
 
-Flowdan is a Bass and Garage artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Sidney & Matilda, Sheffield on Sat, 26 Sept 2026.
+Flowdan is a Bass and Garage artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sidney & Matilda, Sheffield on Sat, 26 Sept 2026.
 
 Flowdan is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside Neffa-T, The Bug and Sammy Virji. Next up: Sidney & Matilda, Sheffield on Sat 26 Sept.
 
@@ -20,6 +20,7 @@ Flowdan is a bass and garage artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
+- Sidney & Matilda, Sheffield — Sat, 26 Sept 2026
 - Odaiba, Tokyo — Tue, 22 Sept 2026
 - Namura Zosenjo Atochi / Creative Center Osaka, Osaka — Mon, 21 Sept 2026
 - FS., Tokyo — Fri, 18 Sept 2026
@@ -27,10 +28,9 @@ Flowdan is a bass and garage artist based in United Kingdom, tracked on soundche
 - The Meadows, New York City — Sat, 1 Aug 2026
 - Cooks Valley Campground, San Francisco/Oakland — Fri, 17 Jul 2026
 - Fvtvr, Paris — Fri, 10 Jul 2026
-- Phonox, London — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Neffa-T, The Bug, Sammy Virji
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flowdan/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flowdan/)*

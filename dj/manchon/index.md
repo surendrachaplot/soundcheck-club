@@ -1,6 +1,6 @@
 # Manchon
 
-Manchon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 6 Nov 2026.
+Manchon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Manchon is a house and tech house artist tracked on soundcheck, with 16 sets logged across Barcelona, Madrid, Turin and Valencia. Often billed alongside Rebecca Ardura, LM and Cesc (ES). Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Manchon is a house and tech house artist tracked on soundcheck, with 16 sets log
 
 Rebecca Ardura, LM, Cesc (ES)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manchon/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manchon/)*

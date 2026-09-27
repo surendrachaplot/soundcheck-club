@@ -1,6 +1,6 @@
 # Elena Colombi
 
-Elena Colombi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Zentralwäscherei, Zurich on Sat, 26 Sept 2026.
+Elena Colombi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Zentralwäscherei, Zurich on Sat, 26 Sept 2026.
 
 Elena Colombi is a techno and house artist based in Italy, tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 44 more. Often billed alongside Lena Willikens, Amelia Holt and Sepehr. Next up: Zentralwäscherei, Zurich on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ Elena Colombi is a techno and house artist based in Italy, tracked on soundcheck
 
 ## Recently played
 
+- Zentralwäscherei, Zurich — Sat, 26 Sept 2026
 - The Lubber Fiend, Newcastle — Thu, 17 Sept 2026
 - radial, London — Sat, 5 Sept 2026
 - Mickey Zoggs, Bristol — Fri, 4 Sept 2026
@@ -21,10 +22,9 @@ Elena Colombi is a techno and house artist based in Italy, tracked on soundcheck
 - Piedicavallo, Turin — Fri, 21 Aug 2026
 - arkaoda Berlin, Berlin — Fri, 17 Jul 2026
 - Ormside Projects, London — Sat, 13 Jun 2026
-- Karmen Camina, Strasbourg — Sat, 23 May 2026
 
 ## Shares bills with
 
 Lena Willikens, Amelia Holt, Sepehr
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*

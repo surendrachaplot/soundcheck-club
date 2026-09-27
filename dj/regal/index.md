@@ -1,6 +1,6 @@
 # Regal
 
-Regal is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Grand Park, Los Angeles on Sat, 26 Sept 2026.
+Regal is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Grand Park, Los Angeles on Sat, 26 Sept 2026.
 
 Regal is a techno and acid artist based in Spain, tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Amelie Lens, Nuke and Daria Kolosova. Next up: Grand Park, Los Angeles on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ Regal is a techno and acid artist based in Spain, tracked on soundcheck, with 13
 
 ## Recently played
 
+- Grand Park, Los Angeles — Sat, 26 Sept 2026
 - IFEMA, Madrid — Fri, 18 Sept 2026
 - IFEMA, Madrid — Fri, 18 Sept 2026
 - ART Madrid Club, Madrid — Fri, 11 Sept 2026
@@ -21,10 +22,9 @@ Regal is a techno and acid artist based in Spain, tracked on soundcheck, with 13
 - KMSKA, Antwerp — Sat, 5 Sept 2026
 - Garage Klub, Antwerp — Sat, 5 Sept 2026
 - Ampere, Antwerp — Sat, 5 Sept 2026
-- Mia Mao, Paris — Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Amelie Lens, Nuke, Daria Kolosova
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regal/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regal/)*

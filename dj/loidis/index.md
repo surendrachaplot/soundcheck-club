@@ -1,6 +1,6 @@
 # Loidis
 
-Loidis is a Techno and Minimal artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Loidis is a Techno and Minimal artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Loidis is a techno and minimal artist based in United States of America, tracked on soundcheck, with 64 sets logged across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Huerco S., Skee Mask and DJ Python. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -33,4 +33,4 @@ Loidis is a techno and minimal artist based in United States of America, tracked
 
 Huerco S., Skee Mask, DJ Python
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*

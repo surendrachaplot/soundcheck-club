@@ -1,6 +1,6 @@
 # AYDN
 
-AYDN is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Honey Street Studio, Manchester on Sat, 26 Sept 2026.
+AYDN is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Honey Street Studio, Manchester on Sat, 26 Sept 2026.
 
 AYDN is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Dublin, Liverpool, Manchester and Sheffield. Often billed alongside CEEKAY, COHĒSION and Deventi. Next up: Honey Street Studio, Manchester on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ AYDN is a techno and industrial artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
+- Honey Street Studio, Manchester — Sat, 26 Sept 2026
 - The DBA, Manchester — Thu, 25 Jun 2026
 - The Bag Factory, Manchester — Sun, 5 Apr 2026
 - Hope Works, Sheffield — Fri, 14 Feb 2025
@@ -23,4 +24,4 @@ AYDN is a techno and industrial artist based in United Kingdom, tracked on sound
 
 CEEKAY, COHĒSION, Deventi
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aydn/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aydn/)*

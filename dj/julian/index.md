@@ -1,6 +1,6 @@
 # Julian
 
-Julian is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Los Angeles on Sun, 15 Nov 2026.
+Julian is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Los Angeles on Sun, 15 Nov 2026.
 
 Julian is a house and minimal artist based in Romania, tracked on soundcheck, with 5 sets logged across Berlin, Bucharest and Los Angeles. Often billed alongside Alex Arapu, Bogman and D.K.. Next up: TBA, Los Angeles on Sun 15 Nov.
 
@@ -21,4 +21,4 @@ Julian is a house and minimal artist based in Romania, tracked on soundcheck, wi
 
 Alex Arapu, Bogman, D.K.
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julian/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julian/)*

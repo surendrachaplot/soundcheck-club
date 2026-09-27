@@ -1,6 +1,6 @@
 # B.Love
 
-B.Love is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Arcana, San Francisco/Oakland on Sat, 26 Sept 2026.
+B.Love is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Arcana, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 B.Love is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 15 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: Arcana, San Francisco/Oakland on Sat 26 Sept.
 
@@ -19,6 +19,7 @@ B.Love is a house and tech house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
+- Arcana, San Francisco/Oakland — Sat, 26 Sept 2026
 - Outer Heaven, New York City — Fri, 25 Sept 2026
 - UNO MALTA, Malta — Fri, 18 Sept 2026
 - UNO MALTA, Malta — Thu, 17 Sept 2026
@@ -26,10 +27,9 @@ B.Love is a house and tech house artist based in United Kingdom, tracked on soun
 - The Fox and Firkin, London — Sat, 1 Aug 2026
 - Gaffe, London — Sat, 25 Jul 2026
 - Studio Stereo, Barcelona — Fri, 17 Jul 2026
-- Honey Street Studio, Manchester — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Jhobei, Felon5, Oliver.r
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*

@@ -1,6 +1,6 @@
 # Pacha
 
-Pacha is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Oktoberfest Nights Saturday with Emanuel Satie, Kristin Velvet, René Vaitl" on Sat, 26 Sept 2026.
+Pacha is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Oktoberfest Nights Saturday with Emanuel Satie, Kristin Velvet, René Vaitl" on Sat, 26 Sept 2026.
 
 Pacha is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with line-ups including André Hommen, Deep Dish, Emanuel Satie and Kevin de Vries and 2 more. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -17,4 +17,4 @@ Pacha is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with lin
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*

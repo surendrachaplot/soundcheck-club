@@ -1,14 +1,13 @@
 # In Verruf
 
-In Verruf is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+In Verruf is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
 
-In Verruf is a techno and trance artist based in Germany, tracked on soundcheck, with 140 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 38 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
+In Verruf is a techno and trance artist based in Germany, tracked on soundcheck, with 140 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 38 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: Airport Würzburg, Nürnberg on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Fohrstraat, 9000 Gent, België | Ghent |
 | Fri, 2 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 2 Oct 2026 | Lehmann Club | Stuttgart |
 | Fri, 23 Oct 2026 | Gate Milano | Milan |
@@ -18,6 +17,7 @@ In Verruf is a techno and trance artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- TBA - Fohrstraat, 9000 Gent, België, Ghent — Sat, 26 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Maassilo, Rotterdam — Sat, 29 Aug 2026
@@ -25,10 +25,9 @@ In Verruf is a techno and trance artist based in Germany, tracked on soundcheck,
 - OST, Berlin — Sat, 22 Aug 2026
 - Lehmann Club, Stuttgart — Sat, 8 Aug 2026
 - Donauinsel, Vienna — Sat, 1 Aug 2026
-- RSO.BERLIN, Berlin — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Kobosil, Somewhen, Afem Syko
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*

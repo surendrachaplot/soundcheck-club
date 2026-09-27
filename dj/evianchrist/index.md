@@ -1,6 +1,6 @@
 # Evian Christ
 
-Evian Christ is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at EartH, London on Sat, 26 Sept 2026.
+Evian Christ is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at EartH, London on Sat, 26 Sept 2026.
 
 Evian Christ is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 30 more. Often billed alongside seretide, Torus and Malibu. Next up: EartH, London on Sat 26 Sept.
 
@@ -16,6 +16,7 @@ Evian Christ is a trance and techno artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- EartH, London — Sat, 26 Sept 2026
 - Various Venues, London — Thu, 24 Sept 2026
 - FOLD, London — Sat, 29 Aug 2026
 - Vittoria Wharf Studio, London — Sat, 29 Aug 2026
@@ -23,10 +24,9 @@ Evian Christ is a trance and techno artist based in United Kingdom, tracked on s
 - Hito Scheveningen, The Hague — Sat, 8 Aug 2026
 - Silverworks Island, London — Sun, 12 Jul 2026
 - Casson Square, London — Sat, 27 Jun 2026
-- Wigwam, Dublin — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 seretide, Torus, Malibu
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evianchrist/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evianchrist/)*

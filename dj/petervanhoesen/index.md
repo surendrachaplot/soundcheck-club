@@ -1,6 +1,6 @@
 # Peter Van Hoesen
 
-Peter Van Hoesen is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at WOMB, Tokyo on Fri, 16 Oct 2026.
+Peter Van Hoesen is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at WOMB, Tokyo on Fri, 16 Oct 2026.
 
 Peter Van Hoesen is a techno and electro artist based in Belgium, tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 20 more. Often billed alongside DJ SO, Atom™ and Cobahn. Next up: WOMB, Tokyo on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Peter Van Hoesen is a techno and electro artist based in Belgium, tracked on sou
 
 DJ SO, Atom™, Cobahn
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petervanhoesen/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petervanhoesen/)*

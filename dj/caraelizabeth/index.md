@@ -1,8 +1,8 @@
 # Cara Elizabeth
 
-Cara Elizabeth is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Cara Elizabeth is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
-Cara Elizabeth is a techno and trance artist based in Germany, tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Basel and 22 more. Often billed alongside Kø:lab, Part Time Killer and SEKTOR69. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+Cara Elizabeth is a techno and trance artist based in Germany, tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Basel and 22 more. Often billed alongside Kø:lab, Mika Heggemann and Part Time Killer. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Cara Elizabeth is a techno and trance artist based in Germany, tracked on soundc
 | Fri, 16 Oct 2026 | Ääniwalli | Helsinki |
 | Sat, 17 Oct 2026 | Hangaren | Copenhagen |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
+| Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Cara Elizabeth is a techno and trance artist based in Germany, tracked on soundc
 
 ## Shares bills with
 
-Kø:lab, Part Time Killer, SEKTOR69
+Kø:lab, Mika Heggemann, Part Time Killer
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*

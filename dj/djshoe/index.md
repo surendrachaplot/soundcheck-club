@@ -1,6 +1,6 @@
 # DJ Shoe
 
-DJ Shoe is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Crossroads Cafe, New York City on Sat, 26 Sept 2026.
+DJ Shoe is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Crossroads Cafe, New York City on Sat, 26 Sept 2026.
 
 DJ Shoe is a club and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across New York City. Often billed alongside Rainbow Tutu, Dom Haley and ivaindistress. Next up: Crossroads Cafe, New York City on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ DJ Shoe is a club and house artist based in United States of America, tracked on
 
 ## Recently played
 
+- Crossroads Cafe, New York City — Sat, 26 Sept 2026
 - TBA - Bushwick (Halsey J), DM a DJ or host for address, New York City — Sat, 22 Aug 2026
 - Rash, New York City — Fri, 3 Oct 2025
 - Earthly Delights, New York City — Sat, 2 Aug 2025
@@ -19,10 +20,9 @@ DJ Shoe is a club and house artist based in United States of America, tracked on
 - Jupiter Disco, New York City — Fri, 6 Dec 2024
 - Wonderville, New York City — Thu, 5 Sept 2024
 - Jupiter Disco, New York City — Sun, 7 Jul 2024
-- McCarren Park, New York City — Sat, 27 Apr 2024
 
 ## Shares bills with
 
 Rainbow Tutu, Dom Haley, ivaindistress
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshoe/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshoe/)*

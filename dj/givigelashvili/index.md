@@ -1,6 +1,6 @@
 # Givi Gelashvili
 
-Givi Gelashvili is a Dub Techno and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bassiani, Tbilisi on Sat, 26 Sept 2026.
+Givi Gelashvili is a Dub Techno and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bassiani, Tbilisi on Sat, 26 Sept 2026.
 
 Givi Gelashvili is a dub techno and techno artist based in Georgia, tracked on soundcheck, with 10 sets logged across Mexico City and Tbilisi. Often billed alongside Boyá, Dr. Long and skyra. Next up: Bassiani, Tbilisi on Sat 26 Sept.
 
@@ -15,6 +15,7 @@ Givi Gelashvili is a dub techno and techno artist based in Georgia, tracked on s
 
 ## Recently played
 
+- Bassiani, Tbilisi — Sat, 26 Sept 2026
 - TBA - CITY HIKERS, Tbilisi — Sun, 28 Jun 2026
 - Bassiani, Tbilisi — Sat, 14 Feb 2026
 - TES, Tbilisi — Fri, 14 Nov 2025
@@ -26,4 +27,4 @@ Givi Gelashvili is a dub techno and techno artist based in Georgia, tracked on s
 
 Boyá, Dr. Long, skyra
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/givigelashvili/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/givigelashvili/)*

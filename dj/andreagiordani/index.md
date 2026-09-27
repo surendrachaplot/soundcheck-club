@@ -1,6 +1,6 @@
 # Andrea Giordani
 
-Andrea Giordani is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Secret Location, Malta on Sat, 26 Sept 2026.
+Andrea Giordani is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Secret Location, Malta on Sat, 26 Sept 2026.
 
 Andrea Giordani is a techno and ebm artist based in Croatia, tracked on soundcheck, with 7 sets logged across Malta. Often billed alongside SUNTA, Scythe and Lian Vex. Next up: TBA - Secret Location, Malta on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Andrea Giordani is a techno and ebm artist based in Croatia, tracked on soundche
 
 ## Recently played
 
+- TBA - Secret Location, Malta — Sat, 26 Sept 2026
 - Liquid Club, Malta — Fri, 15 May 2026
 - Liquid Club, Malta — Wed, 18 Mar 2026
 - Beachaven Complex, Malta — Sat, 22 Nov 2025
@@ -23,4 +24,4 @@ Andrea Giordani is a techno and ebm artist based in Croatia, tracked on soundche
 
 SUNTA, Scythe, Lian Vex
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreagiordani/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreagiordani/)*

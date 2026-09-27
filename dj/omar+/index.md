@@ -1,6 +1,6 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
+Omar+ is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
 
 Omar+ is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 73 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 29 more. Often billed alongside Obskur, Joss Dean and Max Dean. Next up: Amnesia Ibiza, Ibiza on Sun 27 Sept.
 
@@ -31,4 +31,4 @@ Omar+ is a house and tech house artist based in United Kingdom, tracked on sound
 
 Obskur, Joss Dean, Max Dean
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

@@ -1,6 +1,6 @@
 # Laboratorio Octogon
 
-Laboratorio Octogon is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "MOAB - DTKØ - HARD BOUNCE, HARD TECHNO, SCHRANZ, INDUSTRIAL" on Sat, 26 Sept 2026.
+Laboratorio Octogon is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "MOAB - DTKØ - HARD BOUNCE, HARD TECHNO, SCHRANZ, INDUSTRIAL" on Sat, 26 Sept 2026.
 
 Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Keyklau. Browse upcoming dates, start times and who's playing. Calle Cerámica, 16, 28038 Madrid.
 
@@ -17,4 +17,4 @@ Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 4 upcoming 
 
 Calle Cerámica, 16, 28038 Madrid, Madrid
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*

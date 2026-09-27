@@ -1,6 +1,6 @@
 # RAVEDAD
 
-RAVEDAD is a Deep House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Zebulon, Los Angeles on Sat, 26 Sept 2026.
+RAVEDAD is a Deep House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Zebulon, Los Angeles on Sat, 26 Sept 2026.
 
 RAVEDAD is a deep house and electronica artist based in United States of America, tracked on soundcheck, with 7 sets logged across Los Angeles. Often billed alongside Aaron Paar, Colloboh and Juliet Mendoza. Next up: Zebulon, Los Angeles on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ RAVEDAD is a deep house and electronica artist based in United States of America
 
 ## Recently played
 
+- Zebulon, Los Angeles — Sat, 26 Sept 2026
 - Honey's at Star Love, Los Angeles — Sat, 8 Aug 2026
 - TBA - Downtown Los Angeles, Los Angeles — Thu, 1 May 2025
 - Apotheke, Los Angeles — Sat, 4 Jan 2025
@@ -23,4 +24,4 @@ RAVEDAD is a deep house and electronica artist based in United States of America
 
 Aaron Paar, Colloboh, Juliet Mendoza
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ravedad/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ravedad/)*

@@ -1,14 +1,13 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Niranium 2026" on Sat, 26 Sept 2026.
+Neue Zukunft is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "XOK Xi" on Thu, 1 Oct 2026.
 
-Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming gigs. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
+Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming gigs. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Niranium 2026 |  |
 | Thu, 1 Oct 2026 | XOK Xi |  |
 | Mon, 5 Oct 2026 | The Asteroid No.4 (US), Acid Rooster |  |
 | Wed, 14 Oct 2026 | Dazzling Killmen (US), Prophet & Flesh |  |
@@ -22,4 +21,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming gigs. B
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

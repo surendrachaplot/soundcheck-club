@@ -1,6 +1,6 @@
 # Techflex
 
-Techflex is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at the inner circle vienna / wien, Vienna on Sat, 26 Sept 2026.
+Techflex is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at the inner circle vienna / wien, Vienna on Sat, 26 Sept 2026.
 
 Techflex is a techno artist based in Austria, tracked on soundcheck, with 8 sets logged across Vienna. Often billed alongside MIKE MYSTIK, chris deeper and CPR0. Next up: the inner circle vienna / wien, Vienna on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Techflex is a techno artist based in Austria, tracked on soundcheck, with 8 sets
 
 ## Recently played
 
+- the inner circle vienna / wien, Vienna — Sat, 26 Sept 2026
 - Club Lucia, Vienna — Sat, 4 Jul 2026
 - the inner circle vienna / wien, Vienna — Sat, 25 Apr 2026
 - the inner circle vienna / wien, Vienna — Sat, 14 Feb 2026
@@ -24,4 +25,4 @@ Techflex is a techno artist based in Austria, tracked on soundcheck, with 8 sets
 
 MIKE MYSTIK, chris deeper, CPR0
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/techflex/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/techflex/)*

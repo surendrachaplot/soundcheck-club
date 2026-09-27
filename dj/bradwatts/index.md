@@ -1,18 +1,18 @@
 # BRAD WATTS
 
-BRAD WATTS is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Desa Kitsuné, Indonesia on Sat, 26 Sept 2026.
+BRAD WATTS is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Lucky Cat, Sydney on Sun, 4 Oct 2026.
 
-BRAD WATTS is a house and deep house artist based in Australia, tracked on soundcheck, with 34 sets logged across Bali, Indonesia, Melbourne and Sydney. Often billed alongside SOHAIL, Rowen Clark and Ben Nott. Next up: Desa Kitsuné, Indonesia on Sat 26 Sept.
+BRAD WATTS is a house and deep house artist based in Australia, tracked on soundcheck, with 34 sets logged across Bali, Indonesia, Melbourne and Sydney. Often billed alongside SOHAIL, Rowen Clark and Ben Nott. Next up: The Lucky Cat, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Desa Kitsuné | Indonesia |
 | Sun, 4 Oct 2026 | The Lucky Cat | Sydney |
 
 ## Recently played
 
+- Desa Kitsuné, Indonesia — Sat, 26 Sept 2026
 - TBA - SPICE CELLAR SYDNEY CITY, Sydney — Sat, 19 Sept 2026
 - Zumana Bali, Bali — Sat, 5 Sept 2026
 - The Shady Pig Uluwatu, Bali — Sat, 15 Aug 2026
@@ -20,10 +20,9 @@ BRAD WATTS is a house and deep house artist based in Australia, tracked on sound
 - TBA - TABU, Bali — Sat, 30 May 2026
 - TBA - PELICANO, Sydney — Sat, 23 May 2026
 - Sussudio, Sydney — Fri, 10 Apr 2026
-- Seadeck, Sydney — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 SOHAIL, Rowen Clark, Ben Nott
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradwatts/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradwatts/)*

@@ -1,19 +1,19 @@
 # BADBOX
 
-BADBOX is a Afro House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 77, London on Sat, 26 Sept 2026.
+BADBOX is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 77, London on Sat, 3 Oct 2026.
 
-BADBOX is an afro house and afro tech artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Ibiza, London and Oslo. Often billed alongside Mr Silk, Tinovcc and AfroKillerz. Next up: 77, London on Sat 26 Sept.
+BADBOX is an afro house and afro tech artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Ibiza, London and Oslo. Often billed alongside Mr Silk, Tinovcc and AfroKillerz. Next up: 77, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | 77 | London |
 | Sat, 3 Oct 2026 | 77 | London |
 | Fri, 23 Oct 2026 | The Bulldog Hotel | Amsterdam |
 
 ## Recently played
 
+- 77, London — Sat, 26 Sept 2026
 - Theata, London — Sat, 29 Aug 2026
 - Madam, Amsterdam — Fri, 17 Jul 2026
 - Smelteverket, Oslo — Fri, 19 Jun 2026
@@ -21,10 +21,9 @@ BADBOX is an afro house and afro tech artist based in United Kingdom, tracked on
 - Blue Marlin Ibiza London, London — Sat, 7 Mar 2026
 - Egg London, London — Thu, 1 Jan 2026
 - 26 Leake Street, London — Sat, 1 Nov 2025
-- The Lower Third, London — Sat, 13 Sept 2025
 
 ## Shares bills with
 
 Mr Silk, Tinovcc, AfroKillerz
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badbox/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badbox/)*

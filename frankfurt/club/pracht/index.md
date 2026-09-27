@@ -1,6 +1,6 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 12 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "PrachtNACHT with Malandra JR, THYS, Benja Asima" on Sat, 26 Sept 2026.
+Pracht is a music venue in Frankfurt with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "PrachtNACHT with Malandra JR, THYS, Benja Asima" on Sat, 26 Sept 2026.
 
 Pracht is a music venue in Frankfurt listed on soundcheck. 12 upcoming gigs, with line-ups including Andrale, Andrea Castells, Benja Asima and BIANCA BLANCO and 2 more. Browse upcoming dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
@@ -23,4 +23,4 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 12 upcoming gigs, wit
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

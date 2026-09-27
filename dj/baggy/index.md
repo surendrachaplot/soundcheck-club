@@ -1,6 +1,6 @@
 # Bäggy
 
-Bäggy is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Void Club, Berlin on Sat, 26 Sept 2026.
+Bäggy is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Void Club, Berlin on Sat, 26 Sept 2026.
 
 Bäggy is a techno and progressive house artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin, Cologne and Munich. Often billed alongside Kriszpy, Upzet and OELEX. Next up: Void Club, Berlin on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Bäggy is a techno and progressive house artist based in Germany, tracked on sou
 
 ## Recently played
 
+- Void Club, Berlin — Sat, 26 Sept 2026
 - Insomnia, Berlin — Fri, 21 Aug 2026
 - Void Club, Berlin — Fri, 14 Aug 2026
 - Void Club, Berlin — Fri, 10 Jul 2026
@@ -19,10 +20,9 @@ Bäggy is a techno and progressive house artist based in Germany, tracked on sou
 - Bahnwärter Thiel, Munich — Thu, 30 Apr 2026
 - Insomnia, Berlin — Sat, 25 Apr 2026
 - Void Club, Berlin — Fri, 9 Jan 2026
-- AVA Club, Berlin — Fri, 12 Dec 2025
 
 ## Shares bills with
 
 Kriszpy, Upzet, OELEX
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baggy/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baggy/)*

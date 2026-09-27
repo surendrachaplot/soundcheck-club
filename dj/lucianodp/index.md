@@ -1,6 +1,6 @@
 # Lucian ODP
 
-Lucian ODP is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Goya Social Club, Madrid on Thu, 24 Sept 2026.
+Lucian ODP is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Goya Social Club, Madrid on Thu, 24 Sept 2026.
 
 Lucian ODP is a house and tech house artist based in Switzerland, tracked on soundcheck, with 5 sets logged across Madrid. Often billed alongside Mraj Nite, The Ego (DJ) and BRINGAS. Next up: Goya Social Club, Madrid on Thu 24 Sept.
 
@@ -22,4 +22,4 @@ Lucian ODP is a house and tech house artist based in Switzerland, tracked on sou
 
 Mraj Nite, The Ego (DJ), BRINGAS
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucianodp/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucianodp/)*

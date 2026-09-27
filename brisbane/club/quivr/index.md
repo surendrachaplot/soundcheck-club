@@ -1,6 +1,6 @@
 # QUIVR
 
-QUIVR is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "QUIVR in collaboration with Shandy present: Jamz Supernova (UK) & Tash LC (UK)" on Fri, 2 Oct 2026.
+QUIVR is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "QUIVR in collaboration with Shandy present: Jamz Supernova (UK) & Tash LC (UK)" on Fri, 2 Oct 2026.
 
 QUIVR is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, with line-ups including Jamz Supernova and Tash LC. Browse upcoming dates, start times and who's playing. 5m Winn Lane, Fortitude Valley QLD 4006.
 
@@ -14,4 +14,4 @@ QUIVR is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, with li
 
 5m Winn Lane, Fortitude Valley QLD 4006, Brisbane
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/quivr/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/quivr/)*

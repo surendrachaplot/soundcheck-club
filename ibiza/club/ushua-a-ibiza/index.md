@@ -1,14 +1,13 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "ANTS" on Sat, 26 Sept 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "F*** ME I'M FAMOUS! by David Guetta" on Mon, 28 Sept 2026.
 
-Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 8 upcoming gigs, with line-ups including Afrojack, Andrea Oliva, Antares and Bontan and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
+Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 7 upcoming gigs, with line-ups including Afrojack, Andrea Oliva, Bontan and Butch (JP) and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | ANTS | Antares, M-High, Maceo Plex, Nic Fanciulli, Raul Rodriguez |
 | Mon, 28 Sept 2026 | F*** ME I'M FAMOUS! by David Guetta | David Guetta, Paul Reynolds |
 | Mon, 28 Sept 2026 | Levi at F*** ME I'M FAMOUS! By David Guetta | Levi (AU) |
 | Wed, 30 Sept 2026 | Tomorrowland and Dimitri Vegas & Like Mike - CLOSING PARTY | Dimitri Vegas & Like Mike, Hannah Laing |
@@ -21,4 +20,4 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 8 upcoming gigs, 
 
 Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain, Ibiza
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*

@@ -1,6 +1,6 @@
 # Tara Brooks
 
-Tara Brooks is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Balboa Park, San Diego on Sat, 31 Oct 2026.
+Tara Brooks is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Balboa Park, San Diego on Sat, 31 Oct 2026.
 
 Tara Brooks is a house and techno artist based in United States of America, tracked on soundcheck, with 57 sets logged across Amsterdam, Bali, Berlin and Boston and 12 more. Often billed alongside Doc Martin, Anthony Mansfield and Cassy. Next up: Balboa Park, San Diego on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tara Brooks is a house and techno artist based in United States of America, trac
 
 Doc Martin, Anthony Mansfield, Cassy
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarabrooks/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarabrooks/)*

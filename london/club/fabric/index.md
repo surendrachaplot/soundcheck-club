@@ -1,6 +1,6 @@
 # fabric
 
-fabric is a music venue in London with 29 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "fabric: Crosstown Rebels - Damian Lazarus, Mano Le Tough, Jonathan Kaspar, OMRI + more" on Sat, 26 Sept 2026.
+fabric is a music venue in London with 29 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "fabric: Crosstown Rebels - Damian Lazarus, Mano Le Tough, Jonathan Kaspar, OMRI + more" on Sat, 26 Sept 2026.
 
 fabric is a music venue in London listed on soundcheck. 29 upcoming gigs, with line-ups including AANO, Aaron Hibell, Adana Twins and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 29 upcoming gigs, with l
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

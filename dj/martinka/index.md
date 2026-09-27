@@ -1,6 +1,6 @@
 # Martin Ka
 
-Martin Ka is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 26 Sept 2026.
+Martin Ka is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 26 Sept 2026.
 
 Martin Ka is a techno and house artist based in Germany, tracked on soundcheck, with 66 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 3 more. Often billed alongside vom Feisten, Daniel Neuland and Sin:port. Next up: Bahnwärter Thiel, Munich on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ Martin Ka is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Bahnwärter Thiel, Munich — Sat, 26 Sept 2026
 - Gestrandet An Der Jannowitzbrücke, Berlin — Sat, 19 Sept 2026
 - Kater, Berlin — Fri, 18 Sept 2026
 - Ritter Butzke, Berlin — Sat, 12 Sept 2026
@@ -21,10 +22,9 @@ Martin Ka is a techno and house artist based in Germany, tracked on soundcheck, 
 - Jonny Knüppel, Berlin — Fri, 7 Aug 2026
 - Hinterhof Mitte, Berlin — Fri, 31 Jul 2026
 - Ritter Butzke, Berlin — Fri, 10 Jul 2026
-- Renate, Berlin — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 vom Feisten, Daniel Neuland, Sin:port
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinka/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinka/)*

@@ -1,6 +1,6 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Karate Club [Day&Night]: Back to School Edition (Free party)" on Sat, 26 Sept 2026.
+Bike Jesus is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Karate Club [Day&Night]: Back to School Edition (Free party)" on Sat, 26 Sept 2026.
 
 Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including 3TB, aláya, Andrea Dare and AVHD and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -23,4 +23,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, wi
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

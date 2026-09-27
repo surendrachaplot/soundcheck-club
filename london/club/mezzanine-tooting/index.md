@@ -1,14 +1,13 @@
 # Mezzanine - Tooting
 
-Mezzanine - Tooting is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "TECH THIS OUT" on Sat, 26 Sept 2026.
+Mezzanine - Tooting is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Bites&Beats - House & Techno Party 75% SOLD OUT" on Fri, 2 Oct 2026.
 
-Mezzanine - Tooting is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including B_LOVE, DJ Mods, Drone (UK) and flux vortex and 2 more. Browse upcoming dates, start times and who's playing. Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA.
+Mezzanine - Tooting is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Drone (UK), flux vortex, Kassita and Knegativ and 2 more. Browse upcoming dates, start times and who's playing. Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TECH THIS OUT | B_LOVE, DJ Mods, Ginn LDN, KNWLSY |
 | Fri, 2 Oct 2026 | Bites&Beats - House & Techno Party 75% SOLD OUT | Matt Arnold |
 | Fri, 9 Oct 2026 | Casto at The Mezzanine |  |
 | Sat, 24 Oct 2026 | Sticky Fingers |  |
@@ -22,4 +21,4 @@ Mezzanine - Tooting is a music venue in London listed on soundcheck. 9 upcoming 
 
 Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA, London
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*

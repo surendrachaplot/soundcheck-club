@@ -1,6 +1,6 @@
 # Baby Alcatraz
 
-Baby Alcatraz is a Classical and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Showtime Lounge, Washington DC on Sun, 27 Sept 2026.
+Baby Alcatraz is a Classical and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Showtime Lounge, Washington DC on Sun, 27 Sept 2026.
 
 Baby Alcatraz is a classical and disco artist tracked on soundcheck, with 16 sets logged across Washington DC. Next up: Showtime Lounge, Washington DC on Sun 27 Sept.
 
@@ -21,4 +21,4 @@ Baby Alcatraz is a classical and disco artist tracked on soundcheck, with 16 set
 - Le Mont Royal, Washington DC — Mon, 7 Apr 2025
 - Le Mont Royal, Washington DC — Mon, 31 Mar 2025
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyalcatraz/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyalcatraz/)*

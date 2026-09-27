@@ -1,6 +1,6 @@
-# sutura ~SPECIAL HARD EDITION~ HARD INDUSTRIAL TECHNO HARD CORE TECHNO GABBER at Blvck Water
+# sutura ~SPECIAL HARD EDITION~ HARD INDUSTRIAL TECHNO HARD CORE TECHNO GABBER with KYLE MIKASA at Blvck Water
 
-sutura ~SPECIAL HARD EDITION~ HARD INDUSTRIAL TECHNO HARD CORE TECHNO GABBER at Blvck Water on Sat 24 Oct, Osaka. 6 artists on the bill: _goodbyeforever_, amor (JP), dyn (JP) and Savage States and 2 more. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+sutura ~SPECIAL HARD EDITION~ HARD INDUSTRIAL TECHNO HARD CORE TECHNO GABBER with KYLE MIKASA at Blvck Water on Sat 24 Oct, Osaka. 7 artists on the bill: _goodbyeforever_, amor (JP), dyn (JP) and KYLE MIKASA and 3 more. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ sutura ~SPECIAL HARD EDITION~ HARD INDUSTRIAL TECHNO HARD CORE TECHNO GABBER at 
 - _goodbyeforever_
 - amor (JP)
 - dyn (JP)
+- KYLE MIKASA
 - Savage States
 - ZAGUN
 - 死者蘇生CH

@@ -1,6 +1,6 @@
 # Tano
 
-Tano is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Nowadays, New York City on Sat, 26 Sept 2026.
+Tano is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Nowadays, New York City on Sat, 26 Sept 2026.
 
 Tano is a bass and club artist based in United States of America, tracked on soundcheck, with 18 sets logged across Berlin, Detroit, Edinburgh and Glasgow and 5 more. Often billed alongside Don-Ri, Lewis Lowe and 2Lanes. Next up: Nowadays, New York City on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Tano is a bass and club artist based in United States of America, tracked on sou
 
 ## Recently played
 
+- Nowadays, New York City — Sat, 26 Sept 2026
 - 314 Scholes St, New York City — Fri, 14 Aug 2026
 - The Model, Nottingham — Fri, 10 Oct 2025
 - Million Goods, New York City — Wed, 21 May 2025
@@ -19,10 +20,9 @@ Tano is a bass and club artist based in United States of America, tracked on sou
 - Bar Eleven, Nottingham — Fri, 21 Jun 2024
 - Million Goods, New York City — Sat, 15 Jun 2024
 - Lincoln Factory, Detroit — Sat, 25 May 2024
-- Mood Ring, New York City — Wed, 8 May 2024
 
 ## Shares bills with
 
 Don-Ri, Lewis Lowe, 2Lanes
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tano/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tano/)*

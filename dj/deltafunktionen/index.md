@@ -1,6 +1,6 @@
 # Delta Funktionen
 
-Delta Funktionen is a Techno and Downtempo artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at LAUT, Barcelona on Fri, 2 Oct 2026.
+Delta Funktionen is a Techno and Downtempo artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at LAUT, Barcelona on Fri, 2 Oct 2026.
 
 Delta Funktionen is a techno and downtempo artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Athens, Barcelona and Berlin and 1 more. Often billed alongside DJ SO, Full Sentimental and John Plaza. Next up: LAUT, Barcelona on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Delta Funktionen is a techno and downtempo artist based in Netherlands, tracked 
 
 DJ SO, Full Sentimental, John Plaza
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deltafunktionen/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deltafunktionen/)*

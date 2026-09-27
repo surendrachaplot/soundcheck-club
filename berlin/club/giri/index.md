@@ -1,14 +1,13 @@
 # Giri
 
-Giri is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Giri x Within (Film screening, Performance, Exhibition) " on Sat, 26 Sept 2026.
+Giri is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Giri x Ritmo Lunatico" on Thu, 1 Oct 2026.
 
-Giri is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including ANTRO, Aunty Nora, aya and Bakläxa and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
+Giri is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including ANTRO, Bakläxa, Bass and DJ Jones and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Giri x Within (Film screening, Performance, Exhibition)  | Aunty Nora, Lixi, Sub Sahara, aya |
 | Thu, 1 Oct 2026 | Giri x Ritmo Lunatico | Etkin Cekin, Lizatron |
 | Thu, 1 Oct 2026 | Giri x RITMO LUNATICO | Lizatron |
 | Fri, 2 Oct 2026 | Giri x Childhood Intelligence | E.V.A, S-max |
@@ -18,9 +17,10 @@ Giri is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with lin
 | Wed, 14 Oct 2026 | Pastards | Bass, DJ Jones |
 | Thu, 15 Oct 2026 | Giri x Halal Club |  |
 | Fri, 16 Oct 2026 | Giri x Cruel Machine |  |
+| Wed, 21 Oct 2026 | Giri x Currents |  |
 
 ## Address
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

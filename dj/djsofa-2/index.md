@@ -1,6 +1,6 @@
 # Dj Sofa (2)
 
-Dj Sofa (2) is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Muovitehdas, Finland on Fri, 25 Sept 2026.
+Dj Sofa (2) is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Muovitehdas, Finland on Fri, 25 Sept 2026.
 
 Dj Sofa is a jungle and garage artist tracked on soundcheck, with 5 sets logged across Berlin, Copenhagen, Finland and Helsinki. Often billed alongside 2StepDaddy, DJ Lukey and DJ Mr.A. Next up: Muovitehdas, Finland on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Dj Sofa is a jungle and garage artist tracked on soundcheck, with 5 sets logged 
 
 2StepDaddy, DJ Lukey, DJ Mr.A
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsofa-2/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsofa-2/)*

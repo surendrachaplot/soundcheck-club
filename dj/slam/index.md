@@ -1,14 +1,13 @@
 # Slam
 
-Slam is a Techno and Dub Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Clydeside Halls, Glasgow on Sat, 26 Sept 2026.
+Slam is a Techno and Dub Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sub Club, Glasgow on Fri, 9 Oct 2026.
 
-Slam is a techno and dub techno artist based in United Kingdom, tracked on soundcheck, with 140 sets logged across Aberdeen, Barcelona, Belfast and Berlin and 30 more. Often billed alongside KAAI, Kairogen and Nightwave. Next up: The Clydeside Halls, Glasgow on Sat 26 Sept.
+Slam is a techno and dub techno artist based in United Kingdom, tracked on soundcheck, with 140 sets logged across Aberdeen, Barcelona, Belfast and Berlin and 30 more. Often billed alongside KAAI, Kairogen and Nightwave. Next up: Sub Club, Glasgow on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | The Clydeside Halls | Glasgow |
 | Fri, 9 Oct 2026 | Sub Club | Glasgow |
 | Sat, 10 Oct 2026 | fabric | London |
 | Sat, 31 Oct 2026 | The Golden Lion | Manchester |
@@ -19,6 +18,7 @@ Slam is a techno and dub techno artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
+- The Clydeside Halls, Glasgow — Sat, 26 Sept 2026
 - Sub Club, Glasgow — Fri, 11 Sept 2026
 - Royal Highland Centre, Edinburgh — Sat, 29 Aug 2026
 - Palais, London — Sat, 22 Aug 2026
@@ -26,10 +26,9 @@ Slam is a techno and dub techno artist based in United Kingdom, tracked on sound
 - Sub Club, Glasgow — Fri, 14 Aug 2026
 - The Old Fruitmarket, Glasgow — Sat, 1 Aug 2026
 - La Cheetah Club, Glasgow — Sat, 1 Aug 2026
-- Razzmatazz, Barcelona — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 KAAI, Kairogen, Nightwave
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slam/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slam/)*

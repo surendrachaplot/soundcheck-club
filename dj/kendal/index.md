@@ -1,8 +1,8 @@
 # Kendal
 
-Kendal is a Italo Disco and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 10 Oct 2026.
+Kendal is a Italo Disco and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 10 Oct 2026.
 
-Kendal is an italo disco and techno artist based in France, tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside Andi, Miguel De Bois and Belaria. Next up: Cabaret Sauvage, Paris on Sat 10 Oct.
+Kendal is an italo disco and techno artist based in France, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside Andi, Miguel De Bois and Belaria. Next up: Cabaret Sauvage, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kendal is an italo disco and techno artist based in France, tracked on soundchec
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Cabaret Sauvage | Paris |
 | Fri, 16 Oct 2026 | Le Trabendo | Paris |
+| Fri, 6 Nov 2026 | H0L0 | New York City |
 | Sat, 14 Nov 2026 | Petit CAB | Marseille |
 
 ## Recently played
@@ -27,4 +28,4 @@ Kendal is an italo disco and techno artist based in France, tracked on soundchec
 
 Andi, Miguel De Bois, Belaria
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*

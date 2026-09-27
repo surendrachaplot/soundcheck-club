@@ -1,6 +1,6 @@
 # ISA (ES)
 
-ISA (ES) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+ISA (ES) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
 ISA (ES) is a trance and techno artist based in Spain, tracked on soundcheck, with 79 sets logged across Barcelona, Berlin, Brussels and Glasgow and 9 more. Often billed alongside Mademoisel, Alviker and DJ Botanika. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ ISA (ES) is a trance and techno artist based in Spain, tracked on soundcheck, wi
 
 Mademoisel, Alviker, DJ Botanika
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isa-es/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isa-es/)*

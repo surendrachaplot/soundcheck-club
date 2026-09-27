@@ -1,6 +1,6 @@
 # KTK (DE)
 
-KTK (DE) is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at AUX Club, Athens on Sat, 26 Sept 2026.
+KTK (DE) is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at AUX Club, Athens on Sat, 26 Sept 2026.
 
 KTK (DE) is a techno and trance artist tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside DLV, Kander and Adrian Mills. Next up: AUX Club, Athens on Sat 26 Sept.
 
@@ -17,6 +17,7 @@ KTK (DE) is a techno and trance artist tracked on soundcheck, with 95 sets logge
 
 ## Recently played
 
+- AUX Club, Athens — Sat, 26 Sept 2026
 - FOLD, London — Sat, 19 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 1 Aug 2026
 - Virage, Paris — Wed, 8 Jul 2026
@@ -24,10 +25,9 @@ KTK (DE) is a techno and trance artist tracked on soundcheck, with 95 sets logge
 - Universe Athens, Athens — Sat, 30 May 2026
 - AUX Club, Athens — Sat, 30 May 2026
 - AMT, Berlin — Sat, 23 May 2026
-- Mia Mao, Paris — Wed, 13 May 2026
 
 ## Shares bills with
 
 DLV, Kander, Adrian Mills
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ktkde/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ktkde/)*

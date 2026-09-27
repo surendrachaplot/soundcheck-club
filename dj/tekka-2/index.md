@@ -1,6 +1,6 @@
 # tekka (2)
 
-tekka (2) is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cadavra, Madrid on Sat, 17 Oct 2026.
+tekka (2) is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Cadavra, Madrid on Sat, 17 Oct 2026.
 
 tekka is an electro and techno artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona, Madrid, Malaga and Stockholm. Often billed alongside F. Vinuesa, DMX Krew and Avo (ES). Next up: Cadavra, Madrid on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ tekka is an electro and techno artist based in Spain, tracked on soundcheck, wit
 
 F. Vinuesa, DMX Krew, Avo (ES)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tekka-2/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tekka-2/)*

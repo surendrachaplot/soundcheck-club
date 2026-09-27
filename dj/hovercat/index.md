@@ -1,6 +1,6 @@
 # Hovercat
 
-Hovercat is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
+Hovercat is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 Hovercat is a jungle and bass artist tracked on soundcheck, with 28 sets logged across Berlin. Often billed alongside CP4C, Agem and KaraKara. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Hovercat is a jungle and bass artist tracked on soundcheck, with 28 sets logged 
 
 CP4C, Agem, KaraKara
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hovercat/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hovercat/)*

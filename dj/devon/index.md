@@ -1,6 +1,6 @@
 # Devon
 
-Devon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Spot, Vancouver on Sat, 26 Sept 2026.
+Devon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Spot, Vancouver on Sat, 26 Sept 2026.
 
 Devon is a house and techno artist based in Japan, tracked on soundcheck, with 58 sets logged across Mexico City, San Francisco/Oakland, Seoul and Tokyo and 1 more. Often billed alongside Leo Gabriel, sui_rex and 50Minimals. Next up: The Spot, Vancouver on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Devon is a house and techno artist based in Japan, tracked on soundcheck, with 5
 
 ## Recently played
 
+- The Spot, Vancouver — Sat, 26 Sept 2026
 - Aoyama Hachi, Tokyo — Sat, 29 Aug 2026
 - Heavy Sick Zero, Tokyo — Fri, 10 Jul 2026
 - Hookah Lounge, Mexico City — Wed, 10 Jun 2026
@@ -19,10 +20,9 @@ Devon is a house and techno artist based in Japan, tracked on soundcheck, with 5
 - Bardo Speakeasy, Mexico City — Wed, 8 Apr 2026
 - J.J. Mahoney's Bar, Seoul — Sat, 4 Apr 2026
 - Bonobo, Tokyo — Fri, 20 Mar 2026
-- Club Cactus, Tokyo — Sat, 22 Nov 2025
 
 ## Shares bills with
 
 Leo Gabriel, sui_rex, 50Minimals
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devon/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devon/)*

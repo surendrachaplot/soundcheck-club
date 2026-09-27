@@ -1,6 +1,6 @@
 # Studio Zürich
 
-Studio Zürich is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "HAUS AM FLUSS AFTER PARTY: Les Deux | HOME OFFICE | PAULI" on Sat, 26 Sept 2026.
+Studio Zürich is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "HAUS AM FLUSS AFTER PARTY: Les Deux | HOME OFFICE | PAULI" on Sat, 26 Sept 2026.
 
 Studio Zürich is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including Les Deux. Browse upcoming dates, start times and who's playing. Geroldstrasse 15, 8005 Zürich.
 
@@ -15,4 +15,4 @@ Studio Zürich is a music venue in Zurich listed on soundcheck. 2 upcoming gigs,
 
 Geroldstrasse 15, 8005 Zürich, Zurich
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/studio-z-rich/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/studio-z-rich/)*

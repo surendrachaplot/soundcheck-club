@@ -1,6 +1,6 @@
 # Funke
 
-Funke is a music venue in Ghent with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Funke_Third Floor with Laura Conant, Bobbi Watson, Octoptic (live)," on Sat, 26 Sept 2026.
+Funke is a music venue in Ghent with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Funke_Third Floor with Laura Conant, Bobbi Watson, Octoptic (live)," on Sat, 26 Sept 2026.
 
 Funke is a music venue in Ghent listed on soundcheck. 3 upcoming gigs, with line-ups including Ampe, Bobbi Watson, DJ TEETH and Hewan Aman and 2 more. Browse upcoming dates, start times and who's playing. Bij Sint-Jacobs 13, 9000 Gent.
 
@@ -16,4 +16,4 @@ Funke is a music venue in Ghent listed on soundcheck. 3 upcoming gigs, with line
 
 Bij Sint-Jacobs 13, 9000 Gent, Ghent
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*

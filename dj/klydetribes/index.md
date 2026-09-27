@@ -1,6 +1,6 @@
 # Klyde Tribes
 
-Klyde Tribes is a Tech House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Beate Uwe, Berlin on Fri, 16 Oct 2026.
+Klyde Tribes is a Tech House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Beate Uwe, Berlin on Fri, 16 Oct 2026.
 
 Klyde Tribes is a tech house and downtempo artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Leo Orange, Salamandra and Variété. Next up: Beate Uwe, Berlin on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Klyde Tribes is a tech house and downtempo artist tracked on soundcheck, with 7 
 
 Leo Orange, Salamandra, Variété
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klydetribes/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klydetribes/)*

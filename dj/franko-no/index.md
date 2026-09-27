@@ -1,6 +1,6 @@
 # Franko
 
-Franko is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Gare Porto, Porto on Sat, 10 Oct 2026.
+Franko is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Gare Porto, Porto on Sat, 10 Oct 2026.
 
 Franko is a techno and electronica artist based in Norway, tracked on soundcheck, with 30 sets logged across London, Oslo and Porto. Often billed alongside Aydin Imani, Javel and Keran Olsen. Next up: Gare Porto, Porto on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Franko is a techno and electronica artist based in Norway, tracked on soundcheck
 
 Aydin Imani, Javel, Keran Olsen
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franko-no/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franko-no/)*

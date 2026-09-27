@@ -1,6 +1,6 @@
 # Altin Boshnjaku
 
-Altin Boshnjaku is a Breakbeat and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Altin Boshnjaku is a Breakbeat and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Altin Boshnjaku is a breakbeat and minimal artist based in Kosovo, tracked on soundcheck, with 6 sets logged across Basel, Berlin, Greece and Tirana. Often billed alongside Christopher Lawrenz, Clovis and Franky Greiner. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -22,4 +22,4 @@ Altin Boshnjaku is a breakbeat and minimal artist based in Kosovo, tracked on so
 
 Christopher Lawrenz, Clovis, Franky Greiner
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/altinboshnjaku/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/altinboshnjaku/)*

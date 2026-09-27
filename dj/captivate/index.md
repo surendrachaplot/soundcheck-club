@@ -1,6 +1,6 @@
 # captivate
 
-captivate is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lokal Sekondo, Vancouver on Sat, 26 Sept 2026.
+captivate is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lokal Sekondo, Vancouver on Sat, 26 Sept 2026.
 
 captivate is a bass and techno artist based in Canada, tracked on soundcheck, with 15 sets logged across Portland and Vancouver. Often billed alongside Willisist, IHA (CA) and Kozue. Next up: Lokal Sekondo, Vancouver on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ captivate is a bass and techno artist based in Canada, tracked on soundcheck, wi
 
 ## Recently played
 
+- Lokal Sekondo, Vancouver — Sat, 26 Sept 2026
 - The Well Studios, Vancouver — Fri, 31 Jul 2026
 - The Cobalt, Vancouver — Sat, 25 Apr 2026
 - Process PDX, Portland — Sat, 28 Mar 2026
@@ -19,10 +20,9 @@ captivate is a bass and techno artist based in Canada, tracked on soundcheck, wi
 - TBA, Vancouver — Sat, 6 Dec 2025
 - TBA - Secret Location, Vancouver — Sat, 15 Nov 2025
 - TBA - East Vancouver, Vancouver — Sat, 22 Mar 2025
-- The Cobalt, Vancouver — Sat, 30 Nov 2024
 
 ## Shares bills with
 
 Willisist, IHA (CA), Kozue
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/captivate/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/captivate/)*

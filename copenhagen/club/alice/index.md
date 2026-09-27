@@ -1,6 +1,6 @@
 # ALICE
 
-ALICE is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Laryssa Kim (IT/CG)" on Wed, 30 Sept 2026.
+ALICE is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Laryssa Kim (IT/CG)" on Wed, 30 Sept 2026.
 
 ALICE is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with line-ups including Laryssa Kim and Mykki Blanco. Browse upcoming dates, start times and who's playing. Nørre Allé 7, 2200 København N, Denmark.
 
@@ -18,4 +18,4 @@ ALICE is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with
 
 Nørre Allé 7, 2200 København N, Denmark, Copenhagen
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*

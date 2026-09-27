@@ -1,6 +1,6 @@
 # Ini Lamborghini
 
-Ini Lamborghini is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at ://about blank, Berlin on Wed, 30 Sept 2026.
+Ini Lamborghini is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at ://about blank, Berlin on Wed, 30 Sept 2026.
 
 Ini Lamborghini is a techno and house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Bamela Paywatch, Rudolph Beuys and ASA 808. Next up: ://about blank, Berlin on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ Ini Lamborghini is a techno and house artist based in Germany, tracked on soundc
 
 Bamela Paywatch, Rudolph Beuys, ASA 808
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inilamborghini/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inilamborghini/)*

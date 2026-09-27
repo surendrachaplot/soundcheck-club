@@ -1,6 +1,6 @@
 # Culoe De Song
 
-Culoe De Song is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at fabric, London on Sat, 26 Sept 2026.
+Culoe De Song is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at fabric, London on Sat, 26 Sept 2026.
 
 Culoe De Song is an afro house and house artist based in South Africa, tracked on soundcheck, with 19 sets logged across Amsterdam, Bucharest, Glasgow and Ibiza and 6 more. Often billed alongside Kitty Amor, Philou Louzolo and Shimza. Next up: fabric, London on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Culoe De Song is an afro house and house artist based in South Africa, tracked o
 
 ## Recently played
 
+- fabric, London — Sat, 26 Sept 2026
 - Pacha Ibiza, Ibiza — Thu, 4 Jun 2026
 - Lux Fragil, Lisbon — Sat, 23 May 2026
 - Sub Club, Glasgow — Sun, 5 Apr 2026
@@ -20,10 +21,9 @@ Culoe De Song is an afro house and house artist based in South Africa, tracked o
 - Djoon, Paris — Sun, 1 Mar 2026
 - Studio Club Malaga, Malaga — Thu, 7 Aug 2025
 - Parallel, Amsterdam — Sat, 3 May 2025
-- CÉ LA VI, Singapore — Sat, 1 Mar 2025
 
 ## Shares bills with
 
 Kitty Amor, Philou Louzolo, Shimza
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/culoedesong/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/culoedesong/)*

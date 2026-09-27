@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Forest Drive West, André Cascais, Amulador" on Sat, 26 Sept 2026.
+Gare Porto is a music venue in Porto with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Forest Drive West, André Cascais, Amulador" on Sat, 26 Sept 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 5 upcoming gigs, with line-ups including Amulador, Anika Kunst, Blazej Malinowski and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -18,4 +18,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 5 upcoming gigs, with
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

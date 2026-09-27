@@ -1,14 +1,13 @@
 # Club 69
 
-Club 69 is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Pink presentz" on Sat, 26 Sept 2026.
+Club 69 is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "KHAOTIC x DESTRUKT presents: A FINAL SERVICE FOR CLUB69" on Sat, 3 Oct 2026.
 
-Club 69 is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs, with line-ups including Daz Scott, Elliott Skeoch, Gabriel Padrevita and Good Times With Friends and 1 more. Browse upcoming dates, start times and who's playing. 40 New Sneddon St; Paisley, PA3 2AZ.
+Club 69 is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including Daz Scott, Elliott Skeoch, Gabriel Padrevita and Good Times With Friends and 1 more. Browse upcoming dates, start times and who's playing. 40 New Sneddon St; Paisley, PA3 2AZ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Pink presentz |  |
 | Sat, 3 Oct 2026 | KHAOTIC x DESTRUKT presents: A FINAL SERVICE FOR CLUB69 |  |
 | Thu, 8 Oct 2026 | Skream: Open To Close [Club 69 CLOSING WEEKEND] | Skream |
 | Fri, 9 Oct 2026 | TLØ & Gabriel Padrevita [Club 69 CLOSING WEEKEND] | Gabriel Padrevita |
@@ -18,4 +17,4 @@ Club 69 is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs, with 
 
 40 New Sneddon St; Paisley, PA3 2AZ, Glasgow
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-69/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-69/)*

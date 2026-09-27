@@ -1,6 +1,6 @@
 # OGUZ
 
-OGUZ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bootshaus, Cologne on Fri, 9 Oct 2026.
+OGUZ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bootshaus, Cologne on Fri, 9 Oct 2026.
 
 OGUZ is a techno and house artist based in Turkey, tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Basswell, DYEN and Nico Moreno. Next up: Bootshaus, Cologne on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ OGUZ is a techno and house artist based in Turkey, tracked on soundcheck, with 1
 
 Basswell, DYEN, Nico Moreno
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*

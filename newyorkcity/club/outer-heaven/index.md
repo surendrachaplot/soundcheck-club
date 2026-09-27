@@ -1,6 +1,6 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 34 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Outer Heaven presents: Momo Trossman" on Sat, 26 Sept 2026.
+Outer Heaven is a music venue in New York City with 34 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Outer Heaven presents: Momo Trossman" on Sat, 26 Sept 2026.
 
 Outer Heaven is a music venue in New York City listed on soundcheck. 34 upcoming gigs, with line-ups including A.Wild, Amelia Holt, Armii1n and Bella Mutino and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
@@ -23,4 +23,4 @@ Outer Heaven is a music venue in New York City listed on soundcheck. 34 upcoming
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

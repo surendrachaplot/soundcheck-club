@@ -1,6 +1,6 @@
 # Coda
 
-Coda is a music venue in Toronto with 18 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Massano" on Sat, 26 Sept 2026.
+Coda is a music venue in Toronto with 18 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Massano" on Sat, 26 Sept 2026.
 
 Coda is a music venue in Toronto listed on soundcheck. 18 upcoming gigs, with line-ups including A Little Sound, Because of Art, Biscits and Cam Stockman and 2 more. Browse upcoming dates, start times and who's playing. 794 Bathurst St.
 
@@ -23,4 +23,4 @@ Coda is a music venue in Toronto listed on soundcheck. 18 upcoming gigs, with li
 
 794 Bathurst St, Toronto
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*

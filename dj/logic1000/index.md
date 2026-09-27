@@ -1,6 +1,6 @@
 # Logic1000
 
-Logic1000 is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
+Logic1000 is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
 
 Logic1000 is a house and techno artist based in Australia, tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside DJ Seinfeld, Ross From Friends and DJ Holographic. Next up: Colour Factory, London on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ Logic1000 is a house and techno artist based in Australia, tracked on soundcheck
 
 ## Recently played
 
+- Colour Factory, London — Sat, 26 Sept 2026
 - Silencio, Paris — Sat, 15 Aug 2026
 - fabric, London — Sat, 1 Aug 2026
 - La Terrrazza, Barcelona — Fri, 29 May 2026
@@ -21,10 +22,9 @@ Logic1000 is a house and techno artist based in Australia, tracked on soundcheck
 - Mercado Livre Arena Pacaembu, Sao Paulo — Sat, 11 Apr 2026
 - The Timber Yard, Melbourne — Sat, 11 Apr 2026
 - Poor Toms Oltra, Sydney — Sun, 22 Mar 2026
-- Výstaviště Praha, Prague — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 DJ Seinfeld, Ross From Friends, DJ Holographic
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/logic1000/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/logic1000/)*

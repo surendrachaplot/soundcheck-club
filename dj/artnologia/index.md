@@ -1,6 +1,6 @@
 # ART NO LOGIA
 
-ART NO LOGIA is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
+ART NO LOGIA is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
 
 ART NO LOGIA is a tech house and house artist based in Spain, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Ibiza and Madrid and 3 more. Often billed alongside AJ Christou, BizZa and Mason Collective. Next up: Cova Santa, Ibiza on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ ART NO LOGIA is a tech house and house artist based in Spain, tracked on soundch
 
 AJ Christou, BizZa, Mason Collective
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artnologia/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artnologia/)*

@@ -1,6 +1,6 @@
 # DJ.KRISE
 
-DJ.KRISE is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ://about blank, Berlin on Sat, 31 Oct 2026.
+DJ.KRISE is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at ://about blank, Berlin on Sat, 31 Oct 2026.
 
 DJ.KRISE is a techno artist based in Ukraine, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Felizissima, Rosa Luxemburg and Shifshuf. Next up: ://about blank, Berlin on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ DJ.KRISE is a techno artist based in Ukraine, tracked on soundcheck, with 4 sets
 
 Felizissima, Rosa Luxemburg, Shifshuf
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.krise/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.krise/)*

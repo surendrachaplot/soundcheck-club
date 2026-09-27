@@ -1,6 +1,6 @@
 # Diamin
 
-Diamin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hoppetosse, Berlin on Fri, 23 Oct 2026.
+Diamin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hoppetosse, Berlin on Fri, 23 Oct 2026.
 
 Diamin is a techno and house artist based in Chile, tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside Jane Fitz, Adi (CO) and Alicia Carrera. Next up: Hoppetosse, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Diamin is a techno and house artist based in Chile, tracked on soundcheck, with 
 
 Jane Fitz, Adi (CO), Alicia Carrera
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diamin/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diamin/)*

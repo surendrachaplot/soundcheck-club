@@ -1,6 +1,6 @@
 # Parna
 
-Parna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bassiani, Tbilisi on Sat, 3 Oct 2026.
+Parna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bassiani, Tbilisi on Sat, 3 Oct 2026.
 
 Parna is a techno and house artist based in Georgia, tracked on soundcheck, with 85 sets logged across Tbilisi. Often billed alongside Gio Shengelia, Kraumur and Bero. Next up: Bassiani, Tbilisi on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Parna is a techno and house artist based in Georgia, tracked on soundcheck, with
 
 Gio Shengelia, Kraumur, Bero
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parna/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parna/)*

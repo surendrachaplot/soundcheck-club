@@ -1,6 +1,6 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Texture Summit Pres. Residents Night" on Fri, 25 Sept 2026.
+Underground SF is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Texture Summit Pres. Residents Night" on Fri, 25 Sept 2026.
 
 Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 10 upcoming gigs, with line-ups including 480P (US), 9-System, Alexandernaut and ALICE STRIBLING and 2 more. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
@@ -23,4 +23,4 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 1
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

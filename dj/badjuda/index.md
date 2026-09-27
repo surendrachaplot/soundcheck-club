@@ -1,6 +1,6 @@
 # BADJUDA
 
-BADJUDA is a Baile Funk and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ESC, Montreal on Sat, 3 Oct 2026.
+BADJUDA is a Baile Funk and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at ESC, Montreal on Sat, 3 Oct 2026.
 
 BADJUDA is a baile funk and afro house artist based in France, tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside BINKY, Brendocha and CUERPOS. Next up: ESC, Montreal on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ BADJUDA is a baile funk and afro house artist based in France, tracked on soundc
 
 BINKY, Brendocha, CUERPOS
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badjuda/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badjuda/)*

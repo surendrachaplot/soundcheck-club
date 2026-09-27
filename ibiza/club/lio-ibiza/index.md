@@ -1,6 +1,6 @@
 # Lio Ibiza
 
-Lio Ibiza is a music venue in Ibiza with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "KŌDŌ" on Sat, 26 Sept 2026.
+Lio Ibiza is a music venue in Ibiza with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "KŌDŌ" on Sat, 26 Sept 2026.
 
 Lio Ibiza is a music venue in Ibiza listed on soundcheck. 5 upcoming gigs. Browse upcoming dates, start times and who's playing. Puerto Deportivo Marina Ibiza, Passeig Joan Carles I, 1, 07800 Ibiza, Illes Balears, España.
 
@@ -18,4 +18,4 @@ Lio Ibiza is a music venue in Ibiza listed on soundcheck. 5 upcoming gigs. Brows
 
 Puerto Deportivo Marina Ibiza, Passeig Joan Carles I, 1, 07800 Ibiza, Illes Balears, España, Ibiza
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/lio-ibiza/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/lio-ibiza/)*

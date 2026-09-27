@@ -1,14 +1,13 @@
 # The Ivy
 
-The Ivy is a music venue in Sydney with 9 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "240KM/H F2F Sydney: Serafina All Day Long" on Sat, 26 Sept 2026.
+The Ivy is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Lost Sundays Block Party — October 4 [Long Weekend]" on Sun, 4 Oct 2026.
 
-The Ivy is a music venue in Sydney listed on soundcheck. 9 upcoming gigs, with line-ups including AEREA, AKEYLAH, Alex Wann and Azyr and 2 more. Browse upcoming dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
+The Ivy is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, with line-ups including AEREA, AKEYLAH, Alex Wann and Azyr and 2 more. Browse upcoming dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | 240KM/H F2F Sydney: Serafina All Day Long | Serafina |
 | Sun, 4 Oct 2026 | Lost Sundays Block Party — October 4 [Long Weekend] | Bryson Hill, Casual P, Couch Mechanic, Elijah Something, Human Movement, Jacqui Cunningham, Lilian, Little Fritter, Mina Tonic, Mincy, Papa Nugs, Tjade |
 | Mon, 5 Oct 2026 | DnB Allstars (Sydney) | Camo & Krooked, Crossy, Disrupta, Kanine |
 | Sat, 10 Oct 2026 | ZURI feat. Alex Wann (FR) | Alex Wann, Maison Ware |
@@ -22,4 +21,4 @@ The Ivy is a music venue in Sydney listed on soundcheck. 9 upcoming gigs, with l
 
 320-330 George St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*

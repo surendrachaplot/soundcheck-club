@@ -1,6 +1,6 @@
 # Malouna
 
-Malouna is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+Malouna is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
 
 Malouna is a techno and house artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Cyprus and Frankfurt and 1 more. Often billed alongside Markus Klee, Prismode and Solvane. Next up: Etko, Cyprus on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Malouna is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Markus Klee, Prismode, Solvane
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malouna/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malouna/)*

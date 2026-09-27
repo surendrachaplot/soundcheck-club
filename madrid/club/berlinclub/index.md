@@ -1,6 +1,6 @@
 # berlinClub
 
-berlinClub is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Ralph Lawson + Javisenz + Nacho Larache" on Sat, 26 Sept 2026.
+berlinClub is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Ralph Lawson + Javisenz + Nacho Larache" on Sat, 26 Sept 2026.
 
 berlinClub is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including Alejandro Paz, DHERMIDA, Gaspar Antuña and Le Nomad and 2 more. Browse upcoming dates, start times and who's playing. Costanilla de los Ángeles, 20, 28013 Madrid.
 
@@ -18,4 +18,4 @@ berlinClub is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, wit
 
 Costanilla de los Ángeles, 20, 28013 Madrid, Madrid
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*

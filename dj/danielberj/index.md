@@ -1,6 +1,6 @@
 # Daniel Berj
 
-Daniel Berj is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at KREUZWERK, Berlin on Sun, 11 Oct 2026.
+Daniel Berj is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at KREUZWERK, Berlin on Sun, 11 Oct 2026.
 
 Daniel Berj is a techno and house artist tracked on soundcheck, with 32 sets logged across Berlin, Brussels and Stockholm. Often billed alongside Dj handbag, DJ Hyaluron and Stina Francina. Next up: KREUZWERK, Berlin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Daniel Berj is a techno and house artist tracked on soundcheck, with 32 sets log
 
 Dj handbag, DJ Hyaluron, Stina Francina
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielberj/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielberj/)*

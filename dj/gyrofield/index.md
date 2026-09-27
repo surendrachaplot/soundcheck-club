@@ -1,6 +1,6 @@
 # gyrofield
 
-gyrofield is a Drum & Bass and Bass artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Knockdown Center, New York City on Sat, 26 Sept 2026.
+gyrofield is a Drum & Bass and Bass artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Knockdown Center, New York City on Sat, 26 Sept 2026.
 
 gyrofield is a drum & bass and bass artist based in Netherlands, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 28 more. Often billed alongside KAVARI, Mala and DjRUM. Next up: Knockdown Center, New York City on Sat 26 Sept.
 
@@ -21,6 +21,7 @@ gyrofield is a drum & bass and bass artist based in Netherlands, tracked on soun
 
 ## Recently played
 
+- Knockdown Center, New York City — Sat, 26 Sept 2026
 - TRANSMISSION DC, Washington DC — Fri, 25 Sept 2026
 - Société des arts technologiques, Montreal — Fri, 28 Aug 2026
 - Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
@@ -28,10 +29,9 @@ gyrofield is a drum & bass and bass artist based in Netherlands, tracked on soun
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Kraftwerk Berlin, Berlin — Sun, 31 May 2026
-- TILLATEC, Amsterdam — Sat, 30 May 2026
 
 ## Shares bills with
 
 KAVARI, Mala, DjRUM
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*

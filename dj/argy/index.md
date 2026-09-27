@@ -1,6 +1,6 @@
 # Argy
 
-Argy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+Argy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
 
 Argy is a techno and house artist based in United Kingdom, tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Tale Of Us, Artbat and Chris Avantgarde. Next up: Etko, Cyprus on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Argy is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Tale Of Us, Artbat, Chris Avantgarde
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*

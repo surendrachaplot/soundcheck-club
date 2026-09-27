@@ -1,6 +1,6 @@
 # Acidalia
 
-Acidalia is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 26 Sept 2026.
+Acidalia is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 26 Sept 2026.
 
 Acidalia is a techno artist based in France, tracked on soundcheck, with 37 sets logged across Berlin, Milan and Paris. Often billed alongside Alimac, Industrial Romantico and Elisa Bee. Next up: Tempio del Futuro Perduto, Milan on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Acidalia is a techno artist based in France, tracked on soundcheck, with 37 sets
 
 ## Recently played
 
+- Tempio del Futuro Perduto, Milan — Sat, 26 Sept 2026
 - OXI, Berlin — Tue, 15 Sept 2026
 - Tempio del Futuro Perduto, Milan — Sat, 29 Aug 2026
 - Tempio del Futuro Perduto, Milan — Sat, 18 Jul 2026
@@ -19,10 +20,9 @@ Acidalia is a techno artist based in France, tracked on soundcheck, with 37 sets
 - Tempio del Futuro Perduto, Milan — Sat, 27 Jun 2026
 - Tempio del Futuro Perduto, Milan — Sat, 30 May 2026
 - Tempio del Futuro Perduto, Milan — Sat, 18 Apr 2026
-- Tempio del Futuro Perduto, Milan — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Alimac, Industrial Romantico, Elisa Bee
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidalia/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidalia/)*

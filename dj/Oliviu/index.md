@@ -1,6 +1,6 @@
 # Oliviu
 
-Oliviu is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Amsterdam, Amsterdam on Sat, 26 Sept 2026.
+Oliviu is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Amsterdam, Amsterdam on Sat, 26 Sept 2026.
 
 Oliviu is a minimal and techno artist based in Romania, tracked on soundcheck, with 9 sets logged across Amsterdam, Bucharest, Budapest and Hamburg and 1 more. Often billed alongside Alma the Palma, Andrija Jäger and Bonjessu. Next up: TBA - Amsterdam, Amsterdam on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Oliviu is a minimal and techno artist based in Romania, tracked on soundcheck, w
 
 ## Recently played
 
+- TBA - Amsterdam, Amsterdam — Sat, 26 Sept 2026
 - VDI | Vybe Department Ibiza, Ibiza — Sat, 12 Sept 2026
 - Funky Room, Ibiza — Tue, 1 Sept 2026
 - RAM, Bucharest — Tue, 26 Nov 2024
@@ -19,10 +20,9 @@ Oliviu is a minimal and techno artist based in Romania, tracked on soundcheck, w
 - Dot Club, Hamburg — Wed, 15 Mar 2023
 - Nether Club, Bucharest — Sat, 11 Mar 2023
 - Dot Club, Hamburg — Wed, 8 Feb 2023
-- Dot Club, Hamburg — Wed, 18 Jan 2023
 
 ## Shares bills with
 
 Alma the Palma, Andrija Jäger, Bonjessu
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Oliviu/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Oliviu/)*

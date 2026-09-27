@@ -1,6 +1,6 @@
 # bilaliwood
 
-bilaliwood is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Los Angeles on Sat, 24 Oct 2026.
+bilaliwood is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Los Angeles on Sat, 24 Oct 2026.
 
 bilaliwood is a house and disco artist based in United States of America, tracked on soundcheck, with 13 sets logged across Detroit, Los Angeles and New York City. Often billed alongside SEEPS, John Smith and Juniör. Next up: TBA, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ bilaliwood is a house and disco artist based in United States of America, tracke
 
 SEEPS, John Smith, Juniör
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bilaliwood/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bilaliwood/)*

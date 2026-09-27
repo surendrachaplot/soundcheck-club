@@ -1,6 +1,6 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "John Tejada • Monty DJ" on Sat, 26 Sept 2026.
+Radio Radio is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "John Tejada • Monty DJ" on Sat, 26 Sept 2026.
 
 Radio Radio is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with line-ups including Aldonna, Bambii, Bennet (DE) and Benny Rodrigues and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
@@ -23,4 +23,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

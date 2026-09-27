@@ -1,6 +1,6 @@
 # OXI
 
-OXI is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "OXI GROOVE AFFAIR (OPEN AIR + INDOOR)" on Sat, 26 Sept 2026.
+OXI is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "OXI GROOVE AFFAIR (OPEN AIR + INDOOR)" on Sat, 26 Sept 2026.
 
 OXI is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including 1LDK, Gio Goltara, Aero and Ana Molina and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
@@ -9,7 +9,6 @@ OXI is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | OXI GROOVE AFFAIR (OPEN AIR + INDOOR) | Chris Ku, Marcus Holder, Meggy, Michael Lane, Rina Katen, Rydim, Sam Paradise, Sara Miller, Tereza, le0j |
-| Sat, 26 Sept 2026 | Nwaoguchigozie |  |
 | Sun, 27 Sept 2026 | RAMA X HOMODROP (OPEN AIR + INDOOR) | Cheriii, Gio Goltara, Hunkut, Julie Desire, Mars O10C, Somme Farris, Sub Sahara, clay (DE) |
 | Tue, 29 Sept 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | BLACK ANTHEM RESTORE, Lola Kay, Rachel Noon, YAZMIN (MT) |
 | Thu, 1 Oct 2026 | BLEACH BERLIN | 1LDK, Valeria Litvakov |
@@ -18,9 +17,10 @@ OXI is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line
 | Tue, 6 Oct 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | Aero (1), Inverse Element, TONI BA, VINVAR |
 | Fri, 9 Oct 2026 | ELSI 5 YEARS ッ Patrizia Pellegrino (Live) + Sound Metaphors Djs & More | Franz Scala, Gropina, Leona Jacewska, Luca Elsi, Sister Effect, Sound Metaphors Djs, Tam Tam, Tommiboy, Wutu, ilbroccolovolante |
 | Sat, 10 Oct 2026 | OXI LIVE: MODULAR / SYNTHS - with Paul Ray - Berlin and Amsterdam | GVMEDNA, Jan Ritter, Mattone, Olivia Nebula, Paul Ray, TAKT130, UniKhatu, YETI (3) |
+| Tue, 13 Oct 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | Gabrielle (DE), Keepsakes, Majdolen, X Tin |
 
 ## Address
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

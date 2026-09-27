@@ -1,6 +1,6 @@
 # Tièmoko Koné
 
-Tièmoko Koné is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
+Tièmoko Koné is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
 
 Tièmoko Koné is a techno and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Auckland, Berlin, Frankfurt and Melbourne. Often billed alongside Alex.Do, Alexkid and BabyB. Next up: ://about blank, Berlin on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Tièmoko Koné is a techno and house artist based in Germany, tracked on soundch
 
 ## Recently played
 
+- ://about blank, Berlin — Sat, 26 Sept 2026
 - Silbergold, Frankfurt — Fri, 14 Aug 2026
 - Renate, Berlin — Fri, 7 Nov 2025
 - Il Brutto Auckland, Auckland — Sat, 3 May 2025
@@ -22,4 +23,4 @@ Tièmoko Koné is a techno and house artist based in Germany, tracked on soundch
 
 Alex.Do, Alexkid, BabyB
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiemokokone/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiemokokone/)*

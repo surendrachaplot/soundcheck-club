@@ -1,6 +1,6 @@
 # Club Exil
 
-Club Exil is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "VERKNALLT w/ KLOUD, Luciid, Lola Cerise" on Sat, 26 Sept 2026.
+Club Exil is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "VERKNALLT w/ KLOUD, Luciid, Lola Cerise" on Sat, 26 Sept 2026.
 
 Club Exil is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including Anaïs, Anna Ullrich, DORAH and ESKEI83 and 2 more. Browse upcoming dates, start times and who's playing. Marktstrasse 13A 2331 Vösendorf.
 
@@ -18,4 +18,4 @@ Club Exil is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with
 
 Marktstrasse 13A 2331 Vösendorf, Vienna
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*

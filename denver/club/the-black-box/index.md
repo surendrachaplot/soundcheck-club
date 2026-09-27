@@ -1,6 +1,6 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 9 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Spektral Groove: Underground Live Forever" on Sat, 26 Sept 2026.
+The Black Box is a music venue in Denver with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Spektral Groove: Underground Live Forever" on Sat, 26 Sept 2026.
 
 The Black Box is a music venue in Denver listed on soundcheck. 9 upcoming gigs, with line-ups including Eichenbaum, Etch, Monty and Paul Thomas and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
@@ -22,4 +22,4 @@ The Black Box is a music venue in Denver listed on soundcheck. 9 upcoming gigs, 
 
 314 E. 13th Ave. Denver, CO 80203, Denver
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*

@@ -1,6 +1,6 @@
 # Lee Ann Roberts
 
-Lee Ann Roberts is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Lee Ann Roberts is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Lee Ann Roberts is a techno and acid artist based in South Africa, tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Charlie Sparks, 999999999 and I Hate Models. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Lee Ann Roberts is a techno and acid artist based in South Africa, tracked on so
 
 Charlie Sparks, 999999999, I Hate Models
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*

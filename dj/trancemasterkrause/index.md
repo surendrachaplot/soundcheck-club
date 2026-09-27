@@ -1,8 +1,8 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
+Trancemaster Krause is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
 
-Trancemaster Krause is a techno and trance artist based in Germany, tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Phantom Bar Berlin, Berlin on Wed 7 Oct.
+Trancemaster Krause is a techno and trance artist based in Germany, tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Phantom Bar Berlin, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Trancemaster Krause is a techno and trance artist based in Germany, tracked on s
 | Wed, 18 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 27 Nov 2026 | Amp | Munster |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
+| Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Trancemaster Krause is a techno and trance artist based in Germany, tracked on s
 
 Cleopard2000, Mika Heggemann, Justin Tinderdate
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*

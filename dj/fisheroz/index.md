@@ -1,6 +1,6 @@
 # FISHER
 
-FISHER is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Factory Town, Miami on Sat, 26 Sept 2026.
+FISHER is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Factory Town, Miami on Sat, 26 Sept 2026.
 
 FISHER is a house and tech house artist based in Australia, tracked on soundcheck, with 158 sets logged across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Vintage Culture, Jason Bye and Little Fritter. Next up: Factory Town, Miami on Sat 26 Sept.
 
@@ -15,6 +15,7 @@ FISHER is a house and tech house artist based in Australia, tracked on soundchec
 
 ## Recently played
 
+- Factory Town, Miami — Sat, 26 Sept 2026
 - [UNVRS], Ibiza — Thu, 10 Sept 2026
 - [UNVRS], Ibiza — Thu, 3 Sept 2026
 - [UNVRS], Ibiza — Thu, 27 Aug 2026
@@ -22,10 +23,9 @@ FISHER is a house and tech house artist based in Australia, tracked on soundchec
 - [UNVRS], Ibiza — Thu, 13 Aug 2026
 - [UNVRS], Ibiza — Thu, 6 Aug 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
-- [UNVRS], Ibiza — Thu, 30 Jul 2026
 
 ## Shares bills with
 
 Vintage Culture, Jason Bye, Little Fritter
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fisheroz/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fisheroz/)*

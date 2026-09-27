@@ -1,6 +1,6 @@
 # Forest (PL)
 
-Forest (PL) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Prozak 2.0, Krakow on Sat, 31 Oct 2026.
+Forest (PL) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Prozak 2.0, Krakow on Sat, 31 Oct 2026.
 
 Forest (PL) is a house and techno artist based in Azerbaijan, tracked on soundcheck, with 55 sets logged across Bangkok, Dublin, Ibiza and Krakow and 3 more. Often billed alongside MRV, tylmanovski and 1 AM. Next up: Prozak 2.0, Krakow on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Forest (PL) is a house and techno artist based in Azerbaijan, tracked on soundch
 
 MRV (1), tylmanovski, 1 AM (1)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/forest-pl/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/forest-pl/)*

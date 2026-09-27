@@ -1,6 +1,6 @@
 # Das Firmament
 
-Das Firmament is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - SECRET PLACE, Lyon on Sat, 26 Sept 2026.
+Das Firmament is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - SECRET PLACE, Lyon on Sat, 26 Sept 2026.
 
 Das Firmament is a techno and ebm artist based in Switzerland, tracked on soundcheck, with 7 sets logged across Brussels, Lyon and Zurich. Often billed alongside Exkursion, Sanctus Libido and Innuendo. Next up: TBA - SECRET PLACE, Lyon on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Das Firmament is a techno and ebm artist based in Switzerland, tracked on soundc
 
 ## Recently played
 
+- TBA - SECRET PLACE, Lyon — Sat, 26 Sept 2026
 - TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - Buda BXL, Brussels — Fri, 17 Apr 2026
 - UMI, Brussels — Sat, 7 Mar 2026
@@ -23,4 +24,4 @@ Das Firmament is a techno and ebm artist based in Switzerland, tracked on soundc
 
 Exkursion, Sanctus Libido, Innuendo
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dasfirmament/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dasfirmament/)*

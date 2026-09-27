@@ -1,6 +1,6 @@
 # Sindh
 
-Sindh is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - SECRET PLACE, Lyon on Sat, 26 Sept 2026.
+Sindh is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - SECRET PLACE, Lyon on Sat, 26 Sept 2026.
 
 Sindh is a techno and trance artist based in France, tracked on soundcheck, with 13 sets logged across Brussels, Central, Hong Kong and Lyon and 5 more. Often billed alongside Emilia Grima, TSUNIMAN and A Strange Wedding. Next up: TBA - SECRET PLACE, Lyon on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ Sindh is a techno and trance artist based in France, tracked on soundcheck, with
 
 ## Recently played
 
+- TBA - SECRET PLACE, Lyon — Sat, 26 Sept 2026
 - TBA - 2 place de la manufacture, Sèvres, Paris — Sat, 11 Jul 2026
 - TBA - Toledo, Madrid — Fri, 29 May 2026
 - TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
@@ -21,10 +22,9 @@ Sindh is a techno and trance artist based in France, tracked on soundcheck, with
 - 1/3rd Life Akihabara, Tokyo — Sat, 13 Dec 2025
 - Atdge Seoul, Seoul — Fri, 12 Dec 2025
 - 宀 Club, Hong Kong — Sat, 6 Dec 2025
-- Macadam, Nantes — Sat, 1 Nov 2025
 
 ## Shares bills with
 
 Emilia Grima, TSUNIMAN, A Strange Wedding
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sindh/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sindh/)*

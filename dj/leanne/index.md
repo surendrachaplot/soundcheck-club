@@ -1,6 +1,6 @@
 # LEANNE
 
-LEANNE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Canava House, Slovenia on Sat, 26 Sept 2026.
+LEANNE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Canava House, Slovenia on Sat, 26 Sept 2026.
 
 LEANNE is a techno and trance artist based in Slovenia, tracked on soundcheck, with 4 sets logged across Berlin, Ljubljana, Slovenia and Vienna. Often billed alongside AliA, Arman Shadow and Brtinzz. Next up: Canava House, Slovenia on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ LEANNE is a techno and trance artist based in Slovenia, tracked on soundcheck, w
 
 ## Recently played
 
+- Canava House, Slovenia — Sat, 26 Sept 2026
 - Void Club, Berlin — Sat, 8 Aug 2026
 - Das Werk, Vienna — Fri, 24 Jul 2026
 
@@ -20,4 +21,4 @@ LEANNE is a techno and trance artist based in Slovenia, tracked on soundcheck, w
 
 AliA, Arman Shadow, Brtinzz
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leanne/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leanne/)*

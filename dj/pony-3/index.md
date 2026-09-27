@@ -1,6 +1,6 @@
 # PONY (3)
 
-PONY (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
+PONY (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
 
 PONY is a techno and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Hanna Baertig, Multifun and Galaxaura. Next up: ://about blank, Berlin on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ PONY is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
+- ://about blank, Berlin — Sat, 26 Sept 2026
 - ://about blank, Berlin — Fri, 25 Jul 2025
 - ://about blank, Berlin — Tue, 31 Dec 2024
 - ://about blank, Berlin — Fri, 10 May 2024
@@ -21,4 +22,4 @@ PONY is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Hanna Baertig, Multifun, Galaxaura
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pony-3/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pony-3/)*

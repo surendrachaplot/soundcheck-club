@@ -1,6 +1,6 @@
 # Barbara Alvarez
 
-Barbara Alvarez is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 26 Sept 2026.
+Barbara Alvarez is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 26 Sept 2026.
 
 Barbara Alvarez is a house and minimal artist based in Mexico, tracked on soundcheck, with 32 sets logged across Berlin, Brussels, Hamburg and Mexico City. Often billed alongside Mejia, Alexia Glensy and ViiV. Next up: TBA - Secret Location, Berlin on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ Barbara Alvarez is a house and minimal artist based in Mexico, tracked on soundc
 
 ## Recently played
 
+- TBA - Secret Location, Berlin — Sat, 26 Sept 2026
 - Fünk, Mexico City — Fri, 24 Jul 2026
 - Fünk, Mexico City — Sat, 14 Mar 2026
 - TBA - ROMA NORTE , Mexico City — Sat, 15 Nov 2025
@@ -21,10 +22,9 @@ Barbara Alvarez is a house and minimal artist based in Mexico, tracked on soundc
 - TBA - República de Guatemala 90, Mexico City — Sat, 18 Oct 2025
 - Fünk, Mexico City — Sat, 30 Aug 2025
 - Fünk, Mexico City — Fri, 6 Jun 2025
-- TBA, Mexico City — Sat, 15 Mar 2025
 
 ## Shares bills with
 
 Mejia, Alexia Glensy, ViiV
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraalvarez/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraalvarez/)*

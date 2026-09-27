@@ -1,6 +1,6 @@
 # Sacré
 
-Sacré is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Sacré présente: BRIDGE & Nightchou" on Sat, 26 Sept 2026.
+Sacré is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Sacré présente: BRIDGE & Nightchou" on Sat, 26 Sept 2026.
 
 Sacré is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with line-ups including Axelle Maga, Baccus, Bag Raiders and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
@@ -23,4 +23,4 @@ Sacré is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with li
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

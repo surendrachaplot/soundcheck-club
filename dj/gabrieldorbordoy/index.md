@@ -1,6 +1,6 @@
 # Gabriel D'or & Bordoy
 
-Gabriel D'or & Bordoy is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lasociaciøn, Madrid on Sat, 26 Sept 2026.
+Gabriel D'or & Bordoy is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lasociaciøn, Madrid on Sat, 26 Sept 2026.
 
 Gabriel D'or & Bordoy are a techno and electronica duo based in Spain, tracked on soundcheck, with 15 sets logged across Madrid. Often billed alongside Angelo Stasi, Unkle Fon and Jesus Riaño. Next up: Lasociaciøn, Madrid on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Gabriel D'or & Bordoy are a techno and electronica duo based in Spain, tracked o
 
 ## Recently played
 
+- Lasociaciøn, Madrid — Sat, 26 Sept 2026
 - Lasociaciøn, Madrid — Sat, 25 Apr 2026
 - Lasociaciøn, Madrid — Sat, 13 Dec 2025
 - Lasociaciøn, Madrid — Sat, 27 Sept 2025
@@ -19,10 +20,9 @@ Gabriel D'or & Bordoy are a techno and electronica duo based in Spain, tracked o
 - Lasociaciøn, Madrid — Sat, 14 Dec 2024
 - Lasociaciøn, Madrid — Sat, 29 Jun 2024
 - TBA, Madrid — Sat, 18 May 2024
-- TBA - Madrid, Madrid — Sat, 16 Dec 2023
 
 ## Shares bills with
 
 Angelo Stasi, Unkle Fon, Jesus Riaño
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieldorbordoy/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieldorbordoy/)*

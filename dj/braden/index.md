@@ -1,6 +1,6 @@
 # Braden
 
-Braden is a Drum & Bass and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Not For Sale Gallery, London on Wed, 14 Oct 2026.
+Braden is a Drum & Bass and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Not For Sale Gallery, London on Wed, 14 Oct 2026.
 
 Braden is a drum & bass and progressive house artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Atlants, BABY MONET and Barbie Playing Tennis. Next up: Not For Sale Gallery, London on Wed 14 Oct.
 
@@ -20,4 +20,4 @@ Braden is a drum & bass and progressive house artist tracked on soundcheck, with
 
 Atlants, BABY MONET, Barbie Playing Tennis
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braden/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braden/)*

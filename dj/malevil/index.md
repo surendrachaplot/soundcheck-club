@@ -1,6 +1,6 @@
 # Malevil
 
-Malevil is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Nameless, Philadelphia on Sat, 26 Sept 2026.
+Malevil is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Nameless, Philadelphia on Sat, 26 Sept 2026.
 
 Malevil is a bass and drum & bass artist based in United States of America, tracked on soundcheck, with 11 sets logged across Philadelphia. Often billed alongside Feral Sound, Asat and Joey Breakdown. Next up: Nameless, Philadelphia on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Malevil is a bass and drum & bass artist based in United States of America, trac
 
 ## Recently played
 
+- Nameless, Philadelphia — Sat, 26 Sept 2026
 - Upstairs at the 700, Philadelphia — Sat, 10 Jan 2026
 - Nameless, Philadelphia — Sat, 25 Oct 2025
 - Upstairs at the 700, Philadelphia — Sat, 30 Aug 2025
@@ -19,10 +20,9 @@ Malevil is a bass and drum & bass artist based in United States of America, trac
 - Upstairs at the 700, Philadelphia — Sat, 18 Jan 2025
 - Liaison Room at Front Street Cafe, Philadelphia — Sat, 14 Dec 2024
 - Upstairs at the 700, Philadelphia — Fri, 13 Sept 2024
-- Upstairs at the 700, Philadelphia — Sat, 8 Jun 2024
 
 ## Shares bills with
 
 Feral Sound, Asat, Joey Breakdown
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malevil/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malevil/)*

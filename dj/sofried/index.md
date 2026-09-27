@@ -1,6 +1,6 @@
 # Sofried
 
-Sofried is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Secret Location, Malta on Sat, 26 Sept 2026.
+Sofried is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Secret Location, Malta on Sat, 26 Sept 2026.
 
 Sofried is a techno and house artist based in Colombia, tracked on soundcheck, with 8 sets logged across Malta. Often billed alongside Andrea Giordani, Florian François and PHYNYKS. Next up: TBA - Secret Location, Malta on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Sofried is a techno and house artist based in Colombia, tracked on soundcheck, w
 
 ## Recently played
 
+- TBA - Secret Location, Malta — Sat, 26 Sept 2026
 - Liquid Club, Malta — Fri, 11 Sept 2026
 - Surfside, Malta — Wed, 19 Aug 2026
 - Groove Gardens, Malta — Sat, 20 Jun 2026
@@ -24,4 +25,4 @@ Sofried is a techno and house artist based in Colombia, tracked on soundcheck, w
 
 Andrea Giordani, Florian François, PHYNYKS
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofried/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofried/)*

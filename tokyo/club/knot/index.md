@@ -1,6 +1,6 @@
 # Knot
 
-Knot is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "TOURISM vol.290" on Thu, 1 Oct 2026.
+Knot is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "TOURISM vol.290" on Thu, 1 Oct 2026.
 
 Knot is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Homma Honganji. Browse upcoming dates, start times and who's playing. 3-22-7 Nishi-Ikebukuro, Toshima-ku, Tokyo, 171-0021 Japan.
 
@@ -14,4 +14,4 @@ Knot is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-u
 
 3-22-7 Nishi-Ikebukuro, Toshima-ku, Tokyo, 171-0021 Japan, Tokyo
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/knot/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/knot/)*

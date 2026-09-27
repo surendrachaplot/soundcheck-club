@@ -1,6 +1,6 @@
 # MARA BRAVO
 
-MARA BRAVO is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Sala Apolo, Barcelona on Sat, 24 Oct 2026.
+MARA BRAVO is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Sala Apolo, Barcelona on Sat, 24 Oct 2026.
 
 MARA BRAVO is a progressive house and deep house artist based in Spain, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 2 more. Often billed alongside Lupe Republic, Cucut and ERRANT. Next up: Sala Apolo, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MARA BRAVO is a progressive house and deep house artist based in Spain, tracked 
 
 Lupe Republic, Cucut, ERRANT
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marabravo/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marabravo/)*

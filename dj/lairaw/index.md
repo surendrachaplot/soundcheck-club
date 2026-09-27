@@ -1,6 +1,6 @@
 # Lai Raw
 
-Lai Raw is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lark, Berlin on Fri, 9 Oct 2026.
+Lai Raw is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lark, Berlin on Fri, 9 Oct 2026.
 
 Lai Raw is a house and breakbeat artist tracked on soundcheck, with 20 sets logged across Berlin and Vienna. Often billed alongside Kalla, Pretty Gordo and Prosekko Papi. Next up: Lark, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Lai Raw is a house and breakbeat artist tracked on soundcheck, with 20 sets logg
 
 Kalla, Pretty Gordo, Prosekko Papi
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lairaw/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lairaw/)*

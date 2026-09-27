@@ -1,6 +1,6 @@
 # Specka
 
-Specka is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "3º IZQ X Impossible Love I Specka Club" on Sat, 26 Sept 2026.
+Specka is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "3º IZQ X Impossible Love I Specka Club" on Sat, 26 Sept 2026.
 
 Specka is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with line-ups including Anthony Rother, Belkan, Brody and Denso and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
@@ -23,4 +23,4 @@ Specka is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with l
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

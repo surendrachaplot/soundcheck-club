@@ -1,15 +1,13 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 22 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "INSTINCT ROOFTOP PARTY 306" on Sat, 26 Sept 2026.
+Wigwam is a music venue in Dublin with 20 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Resonate x LOST: Main Phase & High Fidelity (ANL)" on Fri, 2 Oct 2026.
 
-Wigwam is a music venue in Dublin listed on soundcheck. 22 upcoming gigs, with line-ups including Aero, Angel D'lite, Ayolxi and Boyd Schidt and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
+Wigwam is a music venue in Dublin listed on soundcheck. 20 upcoming gigs, with line-ups including Aero, Angel D'lite, Ayolxi and Boyd Schidt and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | INSTINCT ROOFTOP PARTY 306 |  |
-| Sat, 26 Sept 2026 | Wigwam presents: Sam Girling | Sam Girling |
 | Fri, 2 Oct 2026 | Resonate x LOST: Main Phase & High Fidelity (ANL) | High Fidelity, Main Phase |
 | Sat, 3 Oct 2026 | Omni presents: Dou Dou MD | Doudou MD, Surferboy, Tunney |
 | Fri, 9 Oct 2026 | Stacked: with KiNK b2b Raredub & Nikki Nair | KiNK, Nikki Nair, Raredub |
@@ -18,9 +16,11 @@ Wigwam is a music venue in Dublin listed on soundcheck. 22 upcoming gigs, with l
 | Sat, 17 Oct 2026 | Bassbin 30 | Chord Memory, Zero T, don rosco |
 | Fri, 23 Oct 2026 | Resonate x SHED: Mac Declos (House Set) + LAWRENCE (ANL) | LAWRENCE DJ, Mac Declos |
 | Sat, 24 Oct 2026 | Lost presents Duskus Harry Hayes | Duskus, Harry Hayes |
+| Sun, 25 Oct 2026 | Circles: Subject x Tresor [T35 - Tresor 35th Anniversary] | Aero (1), Ayolxi, Cailín, Daniel Bell, Fireground, Giles Armstrong, Jon Hussey, Regis |
+| Fri, 30 Oct 2026 | Hybrid Events presents: Marcal & JKS | JKS, Marcal |
 
 ## Address
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

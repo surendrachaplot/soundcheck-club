@@ -1,6 +1,6 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Wyldhearts at 3 Clubs 1 Rave" on Sat, 26 Sept 2026.
+Artheater is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Wyldhearts at 3 Clubs 1 Rave" on Sat, 26 Sept 2026.
 
 Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with line-ups including 909 RACING TEAM, Amøn, Atzendent and BabaBass3000 and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
@@ -19,4 +19,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, wit
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

@@ -1,6 +1,6 @@
 # Brina Knauss
 
-Brina Knauss is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bolivar Beach Bar, Athens on Sat, 26 Sept 2026.
+Brina Knauss is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bolivar Beach Bar, Athens on Sat, 26 Sept 2026.
 
 Brina Knauss is a techno and house artist based in Slovenia, tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Athens and Austin and 32 more. Often billed alongside Fideles, Mathame and Henri Bergmann. Next up: Bolivar Beach Bar, Athens on Sat 26 Sept.
 
@@ -15,6 +15,7 @@ Brina Knauss is a techno and house artist based in Slovenia, tracked on soundche
 
 ## Recently played
 
+- Bolivar Beach Bar, Athens — Sat, 26 Sept 2026
 - Amnesia Ibiza, Ibiza — Wed, 16 Sept 2026
 - Luz De Gas, Barcelona — Sat, 5 Sept 2026
 - [UNVRS], Ibiza — Sun, 30 Aug 2026
@@ -22,10 +23,9 @@ Brina Knauss is a techno and house artist based in Slovenia, tracked on soundche
 - Ushuaïa Ibiza, Ibiza — Wed, 19 Aug 2026
 - Magazine Open–Air, London — Fri, 14 Aug 2026
 - fabric, London — Fri, 14 Aug 2026
-- Ushuaïa Ibiza, Ibiza — Wed, 29 Jul 2026
 
 ## Shares bills with
 
 Fideles, Mathame, Henri Bergmann
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*

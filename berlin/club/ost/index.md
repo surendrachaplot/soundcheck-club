@@ -1,6 +1,6 @@
 # OST
 
-OST is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Mixmag Germany Session" on Sat, 26 Sept 2026.
+OST is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Mixmag Germany Session" on Sat, 26 Sept 2026.
 
 OST is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including ĀFRAME, Alas, ALT8 and Amo (IT) and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
@@ -23,4 +23,4 @@ OST is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

@@ -1,13 +1,14 @@
 # KETCH
 
-KETCH is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Gaffe, London on Sat, 17 Oct 2026.
+KETCH is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Crackhouse, Gdansk on Sat, 10 Oct 2026.
 
-KETCH is a techno and minimal techno artist based in Italy, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 18 more. Often billed alongside MZR, Barbosa and Ylia (UK). Next up: Gaffe, London on Sat 17 Oct.
+KETCH is a techno and minimal techno artist based in Italy, tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 19 more. Often billed alongside MZR, Barbosa and Ylia (UK). Next up: Crackhouse, Gdansk on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Crackhouse | Gdansk |
 | Sat, 17 Oct 2026 | Gaffe | London |
 | Sun, 18 Oct 2026 | NUMBER 90 LONDON | London |
 
@@ -26,4 +27,4 @@ KETCH is a techno and minimal techno artist based in Italy, tracked on soundchec
 
 MZR, Barbosa, Ylia (UK)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ketch/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ketch/)*

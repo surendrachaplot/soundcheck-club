@@ -1,6 +1,6 @@
 # SONI LOBO
 
-SONI LOBO is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bar A Bar, London on Sat, 26 Sept 2026.
+SONI LOBO is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bar A Bar, London on Sat, 26 Sept 2026.
 
 SONI LOBO is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside D LAI, Dimanté and Any Koh. Next up: Bar A Bar, London on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ SONI LOBO is a techno and minimal techno artist based in United Kingdom, tracked
 
 ## Recently played
 
+- Bar A Bar, London — Sat, 26 Sept 2026
 - Mimosa, London — Sat, 22 Aug 2026
 - Notting Hill Arts Club, London — Sat, 8 Aug 2026
 
@@ -20,4 +21,4 @@ SONI LOBO is a techno and minimal techno artist based in United Kingdom, tracked
 
 D LAI, Dimanté, Any Koh
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonilobo/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonilobo/)*

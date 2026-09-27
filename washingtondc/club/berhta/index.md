@@ -1,6 +1,6 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 24 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Sasha & John Digweed" on Sat, 26 Sept 2026.
+BERHTA is a music venue in Washington DC with 24 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Sasha & John Digweed" on Sat, 26 Sept 2026.
 
 BERHTA is a music venue in Washington DC listed on soundcheck. 24 upcoming gigs, with line-ups including 100 gecs, Anfisa Letyago, Bob Moses and bradeazy and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
@@ -23,4 +23,4 @@ BERHTA is a music venue in Washington DC listed on soundcheck. 24 upcoming gigs,
 
 1237 W Place NE, Washington, D.C., 20018, Washington DC
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*

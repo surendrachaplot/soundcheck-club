@@ -1,6 +1,6 @@
 # RICK E
 
-RICK E is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Jupiter Disco, New York City on Thu, 1 Oct 2026.
+RICK E is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Jupiter Disco, New York City on Thu, 1 Oct 2026.
 
 RICK E is a house and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across New York City. Often billed alongside Tim Dauz, Vans and The King Diva. Next up: Jupiter Disco, New York City on Thu 1 Oct.
 
@@ -24,4 +24,4 @@ RICK E is a house and tech house artist based in United States of America, track
 
 Tim Dauz, Vans, The King Diva
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricke/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricke/)*

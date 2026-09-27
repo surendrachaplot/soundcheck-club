@@ -1,6 +1,6 @@
 # bullet tooth
 
-bullet tooth is a Garage and House artist with 15 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hangaren, Copenhagen on Sat, 26 Sept 2026.
+bullet tooth is a Garage and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hangaren, Copenhagen on Sat, 26 Sept 2026.
 
 bullet tooth is a garage and house artist based in United Kingdom, tracked on soundcheck, with 132 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 34 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: Hangaren, Copenhagen on Sat 26 Sept.
 
@@ -23,6 +23,7 @@ bullet tooth is a garage and house artist based in United Kingdom, tracked on so
 
 ## Recently played
 
+- Hangaren, Copenhagen — Sat, 26 Sept 2026
 - Document, Bristol — Fri, 25 Sept 2026
 - Hï Ibiza, Ibiza — Tue, 22 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
@@ -30,10 +31,9 @@ bullet tooth is a garage and house artist based in United Kingdom, tracked on so
 - Mint Warehouse, Leeds — Sun, 30 Aug 2026
 - Steelyard Kelham, Sheffield — Sun, 30 Aug 2026
 - Mint Warehouse, Leeds — Sun, 30 Aug 2026
-- Mondo, Madrid — Thu, 20 Aug 2026
 
 ## Shares bills with
 
 Silva Bumpa, Capo Lee, Main Phase
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*

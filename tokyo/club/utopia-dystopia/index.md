@@ -1,14 +1,13 @@
 # UTOPIA / DYSTOPIA
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "UNMADA VARA: ONEDAY IN TOKYO" on Sat, 26 Sept 2026.
+UTOPIA / DYSTOPIA is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "YOSUGA" on Wed, 30 Sept 2026.
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including 雷庵(RYan), Anri, DJ Juice and Dustvoxx and 2 more. Browse upcoming dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
+UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including 雷庵(RYan), Anri, DJ Juice and Gamma Knife and 2 more. Browse upcoming dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | UNMADA VARA: ONEDAY IN TOKYO | Dustvoxx, RICKY, TEI TEI, Økapi |
 | Wed, 30 Sept 2026 | YOSUGA |  |
 | Thu, 8 Oct 2026 | RIFF RAFF | DJ Juice (2), Subaske |
 | Fri, 9 Oct 2026 | U and D Halloween | Gewnky, Natasha, Yuuki, omeme_gangimari, vivi |
@@ -19,4 +18,4 @@ UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 6 upcoming gig
 
 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F, Tokyo
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*

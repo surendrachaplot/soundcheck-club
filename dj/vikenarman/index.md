@@ -1,14 +1,13 @@
 # Viken Arman
 
-Viken Arman is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Teatro Bellini, Naples on Fri, 25 Sept 2026.
+Viken Arman is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
-Viken Arman is a house and deep house artist based in France, tracked on soundcheck, with 94 sets logged across Amsterdam, Auckland, Bali and Berlin and 28 more. Often billed alongside Cesar Merveille, Acid Pauli and Mira. Next up: Teatro Bellini, Naples on Fri 25 Sept.
+Viken Arman is a house and deep house artist based in France, tracked on soundcheck, with 94 sets logged across Amsterdam, Auckland, Bali and Berlin and 28 more. Often billed alongside Cesar Merveille, Acid Pauli and Mira. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Teatro Bellini | Naples |
 | Fri, 2 Oct 2026 | TBA | Central |
 
 ## Recently played
@@ -26,4 +25,4 @@ Viken Arman is a house and deep house artist based in France, tracked on soundch
 
 Cesar Merveille, Acid Pauli, Mira
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vikenarman/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vikenarman/)*

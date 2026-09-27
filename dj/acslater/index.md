@@ -1,6 +1,6 @@
 # AC Slater
 
-AC Slater is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Barbary, Philadelphia on Sat, 26 Sept 2026.
+AC Slater is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Barbary, Philadelphia on Sat, 26 Sept 2026.
 
 AC Slater is a house and bass artist based in United States of America, tracked on soundcheck, with 46 sets logged across Austin, Boston, Chicago and Cologne and 13 more. Often billed alongside Tchami, Hotfire and Andruss. Next up: The Barbary, Philadelphia on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ AC Slater is a house and bass artist based in United States of America, tracked 
 
 ## Recently played
 
+- The Barbary, Philadelphia — Sat, 26 Sept 2026
 - Coda, Toronto — Sat, 19 Sept 2026
 - Substation, Seattle — Sat, 5 Sept 2026
 - Superior Ingredients, New York City — Sun, 23 Aug 2026
@@ -21,10 +22,9 @@ AC Slater is a house and bass artist based in United States of America, tracked 
 - The Concourse Project, Austin — Thu, 23 Jul 2026
 - Castaways, Chicago — Fri, 5 Jun 2026
 - EQ San Diego, San Diego — Sat, 30 May 2026
-- Boston City Hall Plaza, Boston — Sat, 9 May 2026
 
 ## Shares bills with
 
 Tchami, Hotfire, Andruss
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acslater/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acslater/)*

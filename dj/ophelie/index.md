@@ -1,14 +1,13 @@
 # ophélie
 
-ophélie is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at RASA, Singapore on Sat, 26 Sept 2026.
+ophélie is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
 
-ophélie is a techno and bass artist based in France, tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside Marylou, Azu Tiwaline and CCL. Next up: RASA, Singapore on Sat 26 Sept.
+ophélie is a techno and bass artist based in France, tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside Marylou, Azu Tiwaline and CCL. Next up: Gessnerallee, Zurich on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | RASA | Singapore |
 | Fri, 2 Oct 2026 | Gessnerallee | Zurich |
 | Wed, 7 Oct 2026 | TBA - Secret Location (near Frankfurter Allee) | London |
 | Fri, 9 Oct 2026 | Sneaky Pete's | Edinburgh |
@@ -16,6 +15,7 @@ ophélie is a techno and bass artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
+- RASA, Singapore — Sat, 26 Sept 2026
 - 90mil, Berlin — Sat, 12 Sept 2026
 - Ormside Projects, London — Fri, 11 Sept 2026
 - Brutus, Rotterdam — Sat, 27 Jun 2026
@@ -23,10 +23,9 @@ ophélie is a techno and bass artist based in France, tracked on soundcheck, wit
 - Sonoor, Rotterdam — Fri, 26 Jun 2026
 - TBA - Secret Location, Berlin — Sat, 13 Jun 2026
 - TBA - Toledo, Madrid — Fri, 29 May 2026
-- TBA - Warehouse, Paris — Sat, 23 May 2026
 
 ## Shares bills with
 
 Marylou, Azu Tiwaline, CCL
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ophelie/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ophelie/)*

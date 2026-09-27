@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 25 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "The Jukeboxx: James Juke + shanty mane" on Sat, 26 Sept 2026.
+Jupiter Disco is a music venue in New York City with 25 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "The Jukeboxx: James Juke + shanty mane" on Sat, 26 Sept 2026.
 
 Jupiter Disco is a music venue in New York City listed on soundcheck. 25 upcoming gigs, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 25 upcomin
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

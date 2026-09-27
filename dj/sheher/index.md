@@ -1,6 +1,6 @@
 # SHE/HER
 
-SHE/HER is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at BRET, Amsterdam on Sun, 4 Oct 2026.
+SHE/HER is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at BRET, Amsterdam on Sun, 4 Oct 2026.
 
 SHE/HER is a techno and house artist based in Netherlands, tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Prague and Rotterdam and 1 more. Often billed alongside Flits, Isaiah (NL) and Lasse. Next up: BRET, Amsterdam on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ SHE/HER is a techno and house artist based in Netherlands, tracked on soundcheck
 
 Flits, Isaiah (NL), Lasse
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sheher/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sheher/)*

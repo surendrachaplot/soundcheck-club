@@ -1,6 +1,6 @@
 # Len Faki
 
-Len Faki is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 26 Sept 2026.
+Len Faki is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 26 Sept 2026.
 
 Len Faki is a techno and house artist based in Germany, tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside Daria Kolosova, Elli Acula and Beste Hira. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 26 Sept.
 
@@ -18,6 +18,7 @@ Len Faki is a techno and house artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
+- INPUT High Fidelity Dance Club, Barcelona — Sat, 26 Sept 2026
 - Else, Berlin — Sun, 20 Sept 2026
 - Phonox, London — Sat, 19 Sept 2026
 - TBA - Brussels, Brussels — Fri, 11 Sept 2026
@@ -25,10 +26,9 @@ Len Faki is a techno and house artist based in Germany, tracked on soundcheck, w
 - The Liquid Room, Edinburgh — Sat, 29 Aug 2026
 - KALT, Strasbourg — Sat, 15 Aug 2026
 - Else, Berlin — Sat, 8 Aug 2026
-- EXIL, Zurich — Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Daria Kolosova, Elli Acula, Beste Hira
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*

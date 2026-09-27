@@ -1,6 +1,6 @@
 # TRIXIÉ
 
-TRIXIÉ is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Nether Club, Bucharest on Sat, 26 Sept 2026.
+TRIXIÉ is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Nether Club, Bucharest on Sat, 26 Sept 2026.
 
 TRIXIÉ is a techno and industrial artist based in Romania, tracked on soundcheck, with 16 sets logged across Bucharest and New York City. Often billed alongside Sitra Akhra, Clast and FAUST. Next up: Nether Club, Bucharest on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ TRIXIÉ is a techno and industrial artist based in Romania, tracked on soundchec
 
 ## Recently played
 
+- Nether Club, Bucharest — Sat, 26 Sept 2026
 - Nether Club, Bucharest — Sat, 22 Aug 2026
 - Njoy, Bucharest — Sat, 18 Jul 2026
 - Nether Club, Bucharest — Sat, 18 Apr 2026
@@ -20,10 +21,9 @@ TRIXIÉ is a techno and industrial artist based in Romania, tracked on soundchec
 - Guest House, New York City — Fri, 13 Mar 2026
 - Club Guesthouse, Bucharest — Fri, 13 Mar 2026
 - TBA - Location on event day., Bucharest — Sat, 28 Feb 2026
-- Nether Club, Bucharest — Sat, 21 Feb 2026
 
 ## Shares bills with
 
 Sitra Akhra, Clast, FAUST (1)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie-ro/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie-ro/)*

@@ -1,8 +1,8 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Fabrica Abandonada, Sao Paulo on Sat, 26 Sept 2026.
+Setaoc Mass is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fabrica Abandonada, Sao Paulo on Sat, 26 Sept 2026.
 
-Setaoc Mass is a techno and house artist based in United Kingdom, tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Philippa Pacho, Altinbas and Ben Klock. Next up: Fabrica Abandonada, Sao Paulo on Sat 26 Sept.
+Setaoc Mass is a techno and house artist based in United Kingdom, tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Philippa Pacho, Altinbas and Phara. Next up: Fabrica Abandonada, Sao Paulo on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -20,6 +20,7 @@ Setaoc Mass is a techno and house artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
+- Fabrica Abandonada, Sao Paulo — Sat, 26 Sept 2026
 - Lofi, Amsterdam — Sat, 19 Sept 2026
 - TBA - Los Angeles, Los Angeles — Sat, 29 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
@@ -27,10 +28,9 @@ Setaoc Mass is a techno and house artist based in United Kingdom, tracked on sou
 - RSO.BERLIN, Berlin — Thu, 13 Aug 2026
 - Spook Club, Valencia — Sat, 1 Aug 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
-- Seaseaclub Barcelona, Barcelona — Sun, 21 Jun 2026
 
 ## Shares bills with
 
-Philippa Pacho, Altinbas, Ben Klock
+Philippa Pacho, Altinbas, Phara
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*

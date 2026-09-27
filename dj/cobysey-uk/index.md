@@ -1,6 +1,6 @@
 # Coby Sey
 
-Coby Sey is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Forestlimit, Tokyo on Mon, 28 Sept 2026.
+Coby Sey is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Forestlimit, Tokyo on Mon, 28 Sept 2026.
 
 Coby Sey is an experimental and techno artist tracked on soundcheck, with 43 sets logged across Antwerp, Berlin, Bristol and Brussels and 14 more. Often billed alongside Kenichi Iwasa, James Massiah and Nkisi. Next up: Forestlimit, Tokyo on Mon 28 Sept.
 
@@ -25,4 +25,4 @@ Coby Sey is an experimental and techno artist tracked on soundcheck, with 43 set
 
 Kenichi Iwasa, James Massiah, Nkisi
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cobysey-uk/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cobysey-uk/)*

@@ -1,6 +1,6 @@
 # Brent Honey
 
-Brent Honey is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at BASIS, Utrecht on Sat, 26 Sept 2026.
+Brent Honey is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at BASIS, Utrecht on Sat, 26 Sept 2026.
 
 Brent Honey is a techno and trance artist based in Australia, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 12 more. Often billed alongside AKEYLAH, Baron Von Trax and KSMBA. Next up: BASIS, Utrecht on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Brent Honey is a techno and trance artist based in Australia, tracked on soundch
 
 ## Recently played
 
+- BASIS, Utrecht — Sat, 26 Sept 2026
 - Grelle Forelle, Vienna — Sat, 12 Sept 2026
 - Revolver Upstairs, Melbourne — Thu, 3 Sept 2026
 - Lokschuppen Berlin, Berlin — Fri, 24 Jul 2026
@@ -20,10 +21,9 @@ Brent Honey is a techno and trance artist based in Australia, tracked on soundch
 - The Grand Poobah, Hobart — Sat, 6 Jun 2026
 - The Timber Yard, Melbourne — Sat, 11 Apr 2026
 - The Prince Consort, Brisbane — Sat, 11 Apr 2026
-- Collingwood Yards, Melbourne — Sat, 14 Feb 2026
 
 ## Shares bills with
 
 AKEYLAH, Baron Von Trax, KSMBA
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brenthoney/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brenthoney/)*

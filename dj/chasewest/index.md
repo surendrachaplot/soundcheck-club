@@ -1,6 +1,6 @@
 # ChaseWest
 
-ChaseWest is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+ChaseWest is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 ChaseWest is a house and tech house artist based in United States of America, tracked on soundcheck, with 48 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside Beltran, KinAhau and Max Dean. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
@@ -16,6 +16,7 @@ ChaseWest is a house and tech house artist based in United States of America, tr
 
 ## Recently played
 
+- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
 - 1015 Folsom, San Francisco/Oakland — Fri, 28 Aug 2026
 - Radius, Chicago — Sun, 16 Aug 2026
 - Coda, Toronto — Fri, 17 Jul 2026
@@ -23,10 +24,9 @@ ChaseWest is a house and tech house artist based in United States of America, tr
 - KOKO, London — Fri, 26 Jun 2026
 - Los Angeles State Historic Park, Los Angeles — Sun, 31 May 2026
 - RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
-- Elsewhere, New York City — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 Beltran, KinAhau, Max Dean
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*

@@ -1,6 +1,6 @@
 # Kellie Allen
 
-Kellie Allen is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Kellie Allen is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Kellie Allen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 21 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -30,4 +30,4 @@ Kellie Allen is a house and tech house artist based in United Kingdom, tracked o
 
 Prunk, Dennis Quin, M-High
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*

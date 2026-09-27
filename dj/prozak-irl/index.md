@@ -1,6 +1,6 @@
 # Prozak (IRL)
 
-Prozak (IRL) is a Garage and Bass artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Warehouse, Leeds on Sat, 26 Sept 2026.
+Prozak (IRL) is a Garage and Bass artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Warehouse, Leeds on Sat, 26 Sept 2026.
 
 Prozak (IRL) is a garage and bass artist based in Ireland, tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside Silva Bumpa, Soul Mass Transit System and Conducta. Next up: The Warehouse, Leeds on Sat 26 Sept.
 
@@ -19,6 +19,7 @@ Prozak (IRL) is a garage and bass artist based in Ireland, tracked on soundcheck
 
 ## Recently played
 
+- The Warehouse, Leeds — Sat, 26 Sept 2026
 - Yamamori Tengu, Dublin — Fri, 25 Sept 2026
 - fabric, London — Fri, 11 Sept 2026
 - Ouseburn Garden, Newcastle — Fri, 7 Aug 2026
@@ -26,10 +27,9 @@ Prozak (IRL) is a garage and bass artist based in Ireland, tracked on soundcheck
 - Circus Osaka, Osaka — Fri, 26 Jun 2026
 - PROGRESS, Manchester — Sat, 6 Jun 2026
 - District Cardiff, Cardiff — Fri, 29 May 2026
-- Chelmsford City Racecourse, London — Sat, 23 May 2026
 
 ## Shares bills with
 
 Silva Bumpa, Soul Mass Transit System, Conducta
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prozak-irl/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prozak-irl/)*

@@ -1,6 +1,6 @@
 # Jamie 3:26
 
-Jamie 3:26 is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Quai De Heembeek, Brussels on Tue, 29 Sept 2026.
+Jamie 3:26 is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Quai De Heembeek, Brussels on Tue, 29 Sept 2026.
 
 Jamie 3:26 is a house and disco artist based in United States of America, tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Young Pulse, Dimitri From Paris and Melvo Baptiste. Next up: TBA - Quai De Heembeek, Brussels on Tue 29 Sept.
 
@@ -27,4 +27,4 @@ Jamie 3:26 is a house and disco artist based in United States of America, tracke
 
 Young Pulse, Dimitri From Paris, Melvo Baptiste
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*

@@ -1,6 +1,6 @@
 # TAKiN
 
-TAKiN is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Wiggle Room, Toronto on Sat, 26 Sept 2026.
+TAKiN is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Wiggle Room, Toronto on Sat, 26 Sept 2026.
 
 TAKiN is a tech house and house artist based in Canada, tracked on soundcheck, with 122 sets logged across Toronto, Vancouver and Washington DC. Often billed alongside Barroness, Tyler Hill and Manzone & Strong. Next up: Wiggle Room, Toronto on Sat 26 Sept.
 
@@ -17,17 +17,17 @@ TAKiN is a tech house and house artist based in Canada, tracked on soundcheck, w
 
 ## Recently played
 
+- Wiggle Room, Toronto — Sat, 26 Sept 2026
+- Wiggle Room, Toronto — Sat, 26 Sept 2026
 - Wiggle Room, Toronto — Sat, 5 Sept 2026
 - Wiggle Room, Toronto — Sat, 8 Aug 2026
 - Kajama Tall Ship, Toronto — Fri, 7 Aug 2026
 - Wiggle Room, Toronto — Sun, 2 Aug 2026
 - Wiggle Room, Toronto — Sun, 19 Jul 2026
 - Wiggle Room, Toronto — Sat, 11 Jul 2026
-- Acqua Supper Club, Toronto — Wed, 1 Jul 2026
-- TBA - OLG Central Stage at 512 Church St, Toronto, ON M4Y 2C8, Toronto — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Barroness, Tyler Hill, Manzone & Strong
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takin/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takin/)*

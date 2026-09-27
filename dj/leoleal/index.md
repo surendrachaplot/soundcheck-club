@@ -1,6 +1,6 @@
 # Leo Leal
 
-Leo Leal is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Sunday Sunday, Mexico City on Sat, 26 Sept 2026.
+Leo Leal is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Sunday Sunday, Mexico City on Sat, 26 Sept 2026.
 
 Leo Leal is a house and italo disco artist based in Mexico, tracked on soundcheck, with 7 sets logged across Mexico City and Rome. Often billed alongside Binh, Craig Richards and Daniel Alanís. Next up: Sunday Sunday, Mexico City on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Leo Leal is a house and italo disco artist based in Mexico, tracked on soundchec
 
 ## Recently played
 
+- Sunday Sunday, Mexico City — Sat, 26 Sept 2026
 - Fünk, Mexico City — Sat, 12 Jul 2025
 - Fünk, Mexico City — Sat, 16 Sept 2023
 - THE MAGICK BAR, Rome — Fri, 21 Jul 2023
@@ -23,4 +24,4 @@ Leo Leal is a house and italo disco artist based in Mexico, tracked on soundchec
 
 Binh, Craig Richards, Daniel Alanís
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leoleal/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leoleal/)*

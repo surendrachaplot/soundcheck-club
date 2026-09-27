@@ -1,14 +1,13 @@
 # or
 
-or is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "or 6TH ANNIVERSARY DAY4" on Sat, 26 Sept 2026.
+or is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "MUSIC IS ANSWER — HOUSE MUSIC" on Sun, 27 Sept 2026.
 
-or is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including 2bnsn, AKIRAM EN, AMIDAdrive and Anri and 2 more. Browse upcoming dates, start times and who's playing. 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
+or is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including AKIRAM EN, AMIDAdrive, Anri and Ayantula and 2 more. Browse upcoming dates, start times and who's playing. 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | or 6TH ANNIVERSARY DAY4 | 2bnsn, ANZU, Ayantula, Conures (DJ Tokunaga), DJ NECO, DJ SAKI, HiTOMi, Jody Wisternoff, Kamekawa, Shingo Nakamura, Tuyetmizuno, Vino (1), Yamariki, hidemi, liberty (JP) |
 | Sun, 27 Sept 2026 | MUSIC IS ANSWER — HOUSE MUSIC | Gewnky, MASASHI, Yamariki |
 | Sun, 4 Oct 2026 | double A-side | AKIRAM EN, AMIDAdrive, DJ endorphin, KUNPEI, Sunga, Tonbo |
 | Sun, 18 Oct 2026 | MUSIC IS ANSWER — HOUSE MUSIC | Anri (2), Ayantula, Gara, MASASHI, Yamariki, liberty (JP) |
@@ -17,4 +16,4 @@ or is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-up
 
 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan, Tokyo
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/or/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/or/)*

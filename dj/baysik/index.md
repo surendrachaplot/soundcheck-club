@@ -1,6 +1,6 @@
 # Baysik
 
-Baysik is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at El Rio, San Francisco/Oakland on Sat, 3 Oct 2026.
+Baysik is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at El Rio, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 Baysik is a house and hip-hop artist tracked on soundcheck, with 10 sets logged across San Francisco/Oakland. Often billed alongside Guapi, AMP and An Dy. Next up: El Rio, San Francisco/Oakland on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Baysik is a house and hip-hop artist tracked on soundcheck, with 10 sets logged 
 
 Guapi, AMP (1), An Dy
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baysik/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baysik/)*

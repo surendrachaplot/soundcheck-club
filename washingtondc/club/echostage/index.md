@@ -1,6 +1,6 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 16 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Factory 93: I Hate Models with BENNETT, JADE CAO" on Sat, 26 Sept 2026.
+Echostage is a music venue in Washington DC with 16 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Factory 93: I Hate Models with BENNETT, JADE CAO" on Sat, 26 Sept 2026.
 
 Echostage is a music venue in Washington DC listed on soundcheck. 16 upcoming gigs, with line-ups including 10cust, Afrojack, Aldor and BENNETT and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
@@ -23,4 +23,4 @@ Echostage is a music venue in Washington DC listed on soundcheck. 16 upcoming gi
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

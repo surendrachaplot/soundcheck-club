@@ -1,6 +1,6 @@
 # Polar Inertia
 
-Polar Inertia is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Fuse, Brussels on Sat, 26 Sept 2026.
+Polar Inertia is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fuse, Brussels on Sat, 26 Sept 2026.
 
 Polar Inertia is a techno and experimental artist based in France, tracked on soundcheck, with 30 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 12 more. Often billed alongside Priori, Anthony Linell and A Strange Wedding. Next up: Fuse, Brussels on Sat 26 Sept.
 
@@ -15,6 +15,7 @@ Polar Inertia is a techno and experimental artist based in France, tracked on so
 
 ## Recently played
 
+- Fuse, Brussels — Sat, 26 Sept 2026
 - Lofi, Amsterdam — Sat, 15 Aug 2026
 - AMT, Berlin — Sat, 18 Jul 2026
 - TILLATEC, Amsterdam — Sat, 30 May 2026
@@ -22,10 +23,9 @@ Polar Inertia is a techno and experimental artist based in France, tracked on so
 - ASIAT Park, Brussels — Thu, 14 May 2026
 - MaHalla, Berlin — Sat, 11 Apr 2026
 - Astron Club, Athens — Fri, 27 Mar 2026
-- Le Sucre, Lyon — Fri, 20 Mar 2026
 
 ## Shares bills with
 
 Priori, Anthony Linell, A Strange Wedding
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/polarinertia/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/polarinertia/)*

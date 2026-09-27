@@ -1,6 +1,6 @@
 # underscores
 
-underscores is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+underscores is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 underscores is an electro and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Brussels, Chicago, Los Angeles and Melbourne and 2 more. Often billed alongside umru, FCUKERS and ALISHA. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ underscores is an electro and house artist based in United States of America, tr
 
 ## Recently played
 
+- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
 - TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Los Angeles — Fri, 31 Jul 2026
 - The Great Northern, San Francisco/Oakland — Fri, 26 Jun 2026
 - TBA - Location Distributed Day Of, Chicago — Fri, 19 Jun 2026
@@ -23,4 +24,4 @@ underscores is an electro and house artist based in United States of America, tr
 
 umru, FCUKERS, ALISHA
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/underscores/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/underscores/)*

@@ -1,6 +1,6 @@
 # Chruzo
 
-Chruzo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at PRST, Vienna on Sat, 10 Oct 2026.
+Chruzo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at PRST, Vienna on Sat, 10 Oct 2026.
 
 Chruzo is a techno and house artist tracked on soundcheck, with 13 sets logged across Vienna. Often billed alongside DANBERG, Matthias Kaiser and Patrik Pagan. Next up: PRST, Vienna on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Chruzo is a techno and house artist tracked on soundcheck, with 13 sets logged a
 
 DANBERG, Matthias Kaiser, Patrik Pagan
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chruzo/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chruzo/)*

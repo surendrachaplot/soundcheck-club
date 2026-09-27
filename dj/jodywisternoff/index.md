@@ -1,14 +1,13 @@
 # Jody Wisternoff
 
-Jody Wisternoff is a Progressive House and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at or, Tokyo on Sat, 26 Sept 2026.
+Jody Wisternoff is a Progressive House and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Thugshop Warehouse, Singapore on Sat, 3 Oct 2026.
 
-Jody Wisternoff is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 105 sets logged across Amsterdam, Auckland, Austin and Barcelona and 35 more. Often billed alongside Marsh, Nicky Elisabeth and Dosem. Next up: or, Tokyo on Sat 26 Sept.
+Jody Wisternoff is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 105 sets logged across Amsterdam, Auckland, Austin and Barcelona and 35 more. Often billed alongside Marsh, Nicky Elisabeth and Dosem. Next up: Thugshop Warehouse, Singapore on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | or | Tokyo |
 | Sat, 3 Oct 2026 | Thugshop Warehouse | Singapore |
 | Thu, 8 Oct 2026 | UNO MALTA | Malta |
 | Sat, 17 Oct 2026 | Quarters | Brighton |
@@ -23,6 +22,7 @@ Jody Wisternoff is a progressive house and house artist based in United Kingdom,
 
 ## Recently played
 
+- or, Tokyo — Sat, 26 Sept 2026
 - TBA, London — Sat, 5 Sept 2026
 - TBA - La Biblioteca, San Telmo, Buenos Aires — Sat, 15 Aug 2026
 - Old Royal Naval College, London — Sun, 9 Aug 2026
@@ -30,10 +30,9 @@ Jody Wisternoff is a progressive house and house artist based in United Kingdom,
 - Level 8 DTLA, Los Angeles — Sat, 25 Jul 2026
 - Bauhaus, Houston — Sat, 11 Jul 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 4 Jul 2026
-- Colorado Charlie, The Hague — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Marsh, Nicky Elisabeth, Dosem
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*

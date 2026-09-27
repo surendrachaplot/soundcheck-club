@@ -1,6 +1,6 @@
 # TJ Lawton
 
-TJ Lawton is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ijver, Amsterdam on Sat, 24 Oct 2026.
+TJ Lawton is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Ijver, Amsterdam on Sat, 24 Oct 2026.
 
 TJ Lawton is a trance and techno artist tracked on soundcheck, with 7 sets logged across Amsterdam and London. Often billed alongside Exoco, Marksman and AVANTIME. Next up: Ijver, Amsterdam on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ TJ Lawton is a trance and techno artist tracked on soundcheck, with 7 sets logge
 
 Exoco, Marksman, AVANTIME
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tjlawton/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tjlawton/)*

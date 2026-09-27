@@ -1,6 +1,6 @@
 # 1015 Folsom
 
-1015 Folsom is a music venue in San Francisco/Oakland with 15 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "TUFF FOLSOM KICK OFF" on Thu, 24 Sept 2026.
+1015 Folsom is a music venue in San Francisco/Oakland with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "TUFF FOLSOM KICK OFF" on Thu, 24 Sept 2026.
 
 1015 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 15 upcoming gigs, with line-ups including Andy C, Cinthie, Danny Lethal and DE ALMA and 2 more. Browse upcoming dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
 
@@ -23,4 +23,4 @@
 
 1015 Folsom Street; San Francisco, CA 94103; United States, San Francisco/Oakland
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*

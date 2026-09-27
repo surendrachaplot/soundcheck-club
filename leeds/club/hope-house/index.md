@@ -1,6 +1,6 @@
 # Hope House
 
-Hope House is a music venue in Leeds with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Outlaws Yacht Club 14th Birthday" on Sat, 26 Sept 2026.
+Hope House is a music venue in Leeds with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Outlaws Yacht Club 14th Birthday" on Sat, 26 Sept 2026.
 
 Hope House is a music venue in Leeds listed on soundcheck. 10 upcoming gigs, with line-ups including 2QUID, Ana K Miller, Benny Bysouth and BOSSdaddy and 2 more. Browse upcoming dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
 
@@ -23,4 +23,4 @@ Hope House is a music venue in Leeds listed on soundcheck. 10 upcoming gigs, wit
 
 65 Mabgate Hope House LS9 7DR, Leeds
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*

@@ -1,6 +1,6 @@
 # Krystal Kostee
 
-Krystal Kostee is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Onda Listening Bar, Milan on Sat, 3 Oct 2026.
+Krystal Kostee is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Onda Listening Bar, Milan on Sat, 3 Oct 2026.
 
 Krystal Kostee is an electronica and garage artist tracked on soundcheck, with 22 sets logged across Milan, Naples and Rome. Often billed alongside SARABAMBA, Satoru and brandonlivio. Next up: Onda Listening Bar, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Krystal Kostee is an electronica and garage artist tracked on soundcheck, with 2
 
 SARABAMBA, Satoru, brandonlivio
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalkostee/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalkostee/)*

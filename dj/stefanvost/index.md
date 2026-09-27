@@ -1,6 +1,6 @@
 # Stefan Vöst
 
-Stefan Vöst is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
+Stefan Vöst is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
 
 Stefan Vöst is a techno and electro artist tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside ESSHAR, Kollektiv Fischmarkt and Le.Fu. Next up: Jonny Knüppel, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Stefan Vöst is a techno and electro artist tracked on soundcheck, with 15 sets 
 
 ESSHAR, Kollektiv Fischmarkt, Le.Fu
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanvost/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanvost/)*

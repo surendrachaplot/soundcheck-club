@@ -1,6 +1,6 @@
 # Antony Szmierek
 
-Antony Szmierek is a Funk / Soul and Jazz artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Botanique, Brussels on Sat, 31 Oct 2026.
+Antony Szmierek is a Funk / Soul and Jazz artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Botanique, Brussels on Sat, 31 Oct 2026.
 
 Antony Szmierek is a funk / soul and jazz artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin, Birmingham, Bristol and Brussels and 6 more. Often billed alongside Sofia Kourtesis, 1-800 GIRLS and ANNA. Next up: Botanique, Brussels on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Antony Szmierek is a funk / soul and jazz artist based in United Kingdom, tracke
 
 Sofia Kourtesis, 1-800 GIRLS, ANNA
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antonyszmierek/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antonyszmierek/)*

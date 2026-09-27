@@ -1,6 +1,6 @@
 # ERINYES
 
-ERINYES is a EBM and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cat Club, San Francisco/Oakland on Sun, 27 Sept 2026.
+ERINYES is a EBM and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Cat Club, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 ERINYES is an ebm and club artist tracked on soundcheck, with 5 sets logged across San Francisco/Oakland. Often billed alongside Hex Embrace, Adriana A and Byter. Next up: Cat Club, San Francisco/Oakland on Sun 27 Sept.
 
@@ -21,4 +21,4 @@ ERINYES is an ebm and club artist tracked on soundcheck, with 5 sets logged acro
 
 Hex Embrace, Adriana A, Byter
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erinyes/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erinyes/)*

@@ -1,6 +1,6 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Toxic Family Anniversary" on Fri, 2 Oct 2026.
+Tanzhaus West is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Toxic Family Anniversary" on Fri, 2 Oct 2026.
 
 Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including AMBAM, CiKi, Danjo and DeGuzman and 2 more. Browse upcoming dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
@@ -20,4 +20,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 7 upcoming gig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

@@ -1,6 +1,6 @@
 # Public Enemy
 
-Public Enemy is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Downtown Las Vegas Event Center , Las-vegas on Sat, 3 Oct 2026.
+Public Enemy is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Downtown Las Vegas Event Center , Las-vegas on Sat, 3 Oct 2026.
 
 Public Enemy is a hip-hop artist tracked on soundcheck, with 5 sets logged across Brisbane, Las Vegas, Melbourne and Sydney. Often billed alongside Rome (IT) and Soja. Next up: TBA - Downtown Las Vegas Event Center , Las Vegas on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ Public Enemy is a hip-hop artist tracked on soundcheck, with 5 sets logged acros
 
 Rome (IT), Soja
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/publicenemy/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/publicenemy/)*

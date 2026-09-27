@@ -1,14 +1,13 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Kastel wt/ DENİZ TEKİN + FAITH + Manendria + FROMHER + SERDAR AVAR + MERT GUZHAN" on Sat, 26 Sept 2026.
+Kastel is a music venue in Istanbul with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "BAD BOOMBOX power by MIDNIGHT BISCUIT" on Fri, 2 Oct 2026.
 
-Kastel is a music venue in Istanbul listed on soundcheck. 8 upcoming gigs, with line-ups including Benny Benassi, FAITH, Manendria and Merve Baykal and 2 more. Browse upcoming dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
+Kastel is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with line-ups including Benny Benassi, Merve Baykal, Oliver Huntemann and People Like Us. Browse upcoming dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Kastel wt/ DENİZ TEKİN + FAITH + Manendria + FROMHER + SERDAR AVAR + MERT GUZHAN | FAITH, Manendria |
 | Fri, 2 Oct 2026 | BAD BOOMBOX power by MIDNIGHT BISCUIT | Merve Baykal |
 | Sat, 3 Oct 2026 | PEOPLE LIKE US (ALL NIGHT LONG) | People Like Us (3) |
 | Wed, 7 Oct 2026 | Kastel with Oliver Huntemann | Oliver Huntemann |
@@ -21,4 +20,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 8 upcoming gigs, with 
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

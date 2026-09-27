@@ -1,6 +1,6 @@
 # KAYU
 
-KAYU is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Jalousy, Brussels on Fri, 2 Oct 2026.
+KAYU is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Jalousy, Brussels on Fri, 2 Oct 2026.
 
 KAYU is a house and electro artist tracked on soundcheck, with 40 sets logged across Amsterdam, Brussels, Lisbon and Paris. Often billed alongside Kappen, PHIL and Rorson. Next up: Jalousy, Brussels on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ KAYU is a house and electro artist tracked on soundcheck, with 40 sets logged ac
 
 Kappen, PHIL (5), Rorson (2)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayu/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayu/)*

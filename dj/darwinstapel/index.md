@@ -1,6 +1,6 @@
 # Darwin Stapel
 
-Darwin Stapel is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Beate Uwe, Berlin on Sat, 26 Sept 2026.
+Darwin Stapel is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Beate Uwe, Berlin on Sat, 26 Sept 2026.
 
 Darwin Stapel is a house and disco artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin and London. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: Beate Uwe, Berlin on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Darwin Stapel is a house and disco artist based in Germany, tracked on soundchec
 
 ## Recently played
 
+- Beate Uwe, Berlin — Sat, 26 Sept 2026
 - OXI, Berlin — Sat, 5 Sept 2026
 - THF Tower, Berlin — Sat, 29 Aug 2026
 - Club der Visionaere, Berlin — Wed, 29 Jul 2026
@@ -19,10 +20,9 @@ Darwin Stapel is a house and disco artist based in Germany, tracked on soundchec
 - Renate, Berlin — Thu, 7 May 2026
 - OXI, Berlin — Fri, 1 May 2026
 - Crack Bellmer, Berlin — Fri, 17 Apr 2026
-- NUMBER 90 LONDON, London — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Eva Crystaltips, Luca Olivotto, Nephews
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darwinstapel/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darwinstapel/)*

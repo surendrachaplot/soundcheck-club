@@ -1,14 +1,13 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 11 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Club de Jour invite GUTS" on Sat, 26 Sept 2026.
+Warehouse is a music venue in Nantes with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Warehouse 9 ans avec Bob Sinclar" on Fri, 2 Oct 2026.
 
-Warehouse is a music venue in Nantes listed on soundcheck. 11 upcoming gigs, with line-ups including Azhar Sistorms, Bellaire, Bob Sinclar and BSD and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
+Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming gigs, with line-ups including Azhar Sistorms, Bellaire, Bob Sinclar and BSD and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Club de Jour invite GUTS |  |
 | Fri, 2 Oct 2026 | Warehouse 9 ans avec Bob Sinclar | Bob Sinclar, Corentin Mab, Dan Bono, Quentin Schneider |
 | Fri, 9 Oct 2026 | NANTES RAVE TECHNO XXL with NOVAH, MATRAKK, Maudux, DJ Caline, Mosmoz | DJ Caline, MATRAKK, Maudux, NOVAH |
 | Sat, 10 Oct 2026 | THE RING x CLUB DE JOUR with Yann Muller, Trio Cover |  |
@@ -18,9 +17,10 @@ Warehouse is a music venue in Nantes listed on soundcheck. 11 upcoming gigs, wit
 | Fri, 30 Oct 2026 | Nantes Rave Techno W/ Vladimir Cauchemar, Shanixx, Noir Mat & More | Azhar Sistorms, BSD, Shanixx, Vladimir Cauchemar |
 | Sat, 7 Nov 2026 | Club de Jour invite Bellaire & Dimitri From Paris | Bellaire, Corentin Mab, Dan Bono, Dimitri From Paris |
 | Fri, 20 Nov 2026 | ORGANÏK with Jazzy, Yoshiko, Todiefor | HIBI, Todiefor, Yoshiko |
+| Sat, 12 Dec 2026 | Club de Jour invite The Avener (Dj set) | Dan Bono, The Avener |
 
 ## Address
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

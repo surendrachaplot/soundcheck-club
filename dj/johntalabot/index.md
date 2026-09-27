@@ -1,6 +1,6 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at VENT, Tokyo on Sat, 3 Oct 2026.
+John Talabot is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at VENT, Tokyo on Sat, 3 Oct 2026.
 
 John Talabot is a house and techno artist based in Spain, tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside mad miran, Nicolas Lutz and Christian AB. Next up: VENT, Tokyo on Sat 3 Oct.
 
@@ -34,4 +34,4 @@ John Talabot is a house and techno artist based in Spain, tracked on soundcheck,
 
 mad miran, Nicolas Lutz, Christian AB
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*

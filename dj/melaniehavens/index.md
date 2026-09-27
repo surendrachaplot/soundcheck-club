@@ -1,6 +1,6 @@
 # Melanie Havens
 
-Melanie Havens is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kater, Berlin on Sat, 26 Sept 2026.
+Melanie Havens is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Kater, Berlin on Sat, 26 Sept 2026.
 
 Melanie Havens is a techno and ebm artist based in Brazil, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 15 more. Often billed alongside The Brvtalist, Paty Vapor and Inverse Element. Next up: Kater, Berlin on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Melanie Havens is a techno and ebm artist based in Brazil, tracked on soundcheck
 
 ## Recently played
 
+- Kater, Berlin — Sat, 26 Sept 2026
 - The Berkeley Suite, Glasgow — Sat, 18 Jul 2026
 - TBA - Jardi Dels Tarongers, El Raval, Barcelona — Sat, 11 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 5 Jun 2026
@@ -20,10 +21,9 @@ Melanie Havens is a techno and ebm artist based in Brazil, tracked on soundcheck
 - KitKatClub, Berlin — Fri, 10 Apr 2026
 - Lark, Berlin — Thu, 26 Mar 2026
 - ciao ciao Bar, Berlin — Sat, 21 Mar 2026
-- Sameheads, Berlin — Fri, 13 Mar 2026
 
 ## Shares bills with
 
 The Brvtalist, Paty Vapor, Inverse Element
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melaniehavens/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melaniehavens/)*

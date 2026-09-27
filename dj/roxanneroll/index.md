@@ -1,6 +1,6 @@
 # Roxanne Roll
 
-Roxanne Roll is a Disco and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Zebulon, Los Angeles on Sat, 24 Oct 2026.
+Roxanne Roll is a Disco and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Zebulon, Los Angeles on Sat, 24 Oct 2026.
 
 Roxanne Roll is a disco and house artist based in United States of America, tracked on soundcheck, with 95 sets logged across Auckland, Austin, Bali and Berlin and 31 more. Often billed alongside Fleetmac Wood, Alex Oxley and Horror Hi-Fi. Next up: Zebulon, Los Angeles on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Roxanne Roll is a disco and house artist based in United States of America, trac
 
 Fleetmac Wood, Alex Oxley, Horror Hi-Fi
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxanneroll/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxanneroll/)*

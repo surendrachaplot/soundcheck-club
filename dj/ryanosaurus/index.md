@@ -1,6 +1,6 @@
 # Ryanosaurus
 
-Ryanosaurus is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Wee Jasper, Sydney on Fri, 25 Sept 2026.
+Ryanosaurus is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Wee Jasper, Sydney on Fri, 25 Sept 2026.
 
 Ryanosaurus is a techno and psytrance artist tracked on soundcheck, with 5 sets logged across Melbourne and Sydney. Often billed alongside Andy Garvey, Bryan Ro and Gwyn. Next up: TBA - Wee Jasper, Sydney on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Ryanosaurus is a techno and psytrance artist tracked on soundcheck, with 5 sets 
 
 Andy Garvey, Bryan Ro, Gwyn
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanosaurus/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanosaurus/)*

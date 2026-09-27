@@ -1,14 +1,13 @@
 # Naone
 
-Naone is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Cité Fertile, Paris on Sat, 26 Sept 2026.
+Naone is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
 
-Naone is a techno and house artist based in South Korea, tracked on soundcheck, with 183 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 33 more. Often billed alongside Iggy P, Sansibar and mad miran. Next up: La Cité Fertile, Paris on Sat 26 Sept.
+Naone is a techno and house artist based in South Korea, tracked on soundcheck, with 183 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 33 more. Often billed alongside Iggy P, Sansibar and mad miran. Next up: Public Works, San Francisco/Oakland on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | La Cité Fertile | Paris |
 | Fri, 6 Nov 2026 | Public Works | San Francisco/Oakland |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Fri, 13 Nov 2026 | EQ San Diego | San Diego |
@@ -18,6 +17,7 @@ Naone is a techno and house artist based in South Korea, tracked on soundcheck, 
 
 ## Recently played
 
+- La Cité Fertile, Paris — Sat, 26 Sept 2026
 - Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Signal, New York City — Fri, 18 Sept 2026
 - Bossa Nova Civic Club, New York City — Wed, 16 Sept 2026
@@ -25,10 +25,9 @@ Naone is a techno and house artist based in South Korea, tracked on soundcheck, 
 - Gaffe, London — Sun, 6 Sept 2026
 - Tuinen van West, Amsterdam — Sat, 29 Aug 2026
 - Backsteinboot, Berlin — Sat, 15 Aug 2026
-- TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Iggy P, Sansibar, mad miran
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*

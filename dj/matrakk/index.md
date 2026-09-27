@@ -1,6 +1,6 @@
 # MATRAKK
 
-MATRAKK is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+MATRAKK is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
 MATRAKK is a techno and trance artist based in France, tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside 2HOT2PLAY, CLTX and Maudux. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ MATRAKK is a techno and trance artist based in France, tracked on soundcheck, wi
 
 2HOT2PLAY, CLTX, Maudux
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matrakk/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matrakk/)*

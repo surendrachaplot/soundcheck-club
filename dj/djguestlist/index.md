@@ -1,6 +1,6 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
+DJ GUESTLIST is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
 
 DJ GUESTLIST is a techno and trance artist based in Germany, tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside Paraçek, Cleopard2000 and DJ Traytex. Next up: Phantom Bar Berlin, Berlin on Wed 7 Oct.
 
@@ -28,4 +28,4 @@ DJ GUESTLIST is a techno and trance artist based in Germany, tracked on soundche
 
 Paraçek, Cleopard2000, DJ Traytex
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*

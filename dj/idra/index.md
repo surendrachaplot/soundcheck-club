@@ -1,6 +1,6 @@
 # IDRA
 
-IDRA is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at THC MILANO, Milan on Sun, 27 Sept 2026.
+IDRA is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at THC MILANO, Milan on Sun, 27 Sept 2026.
 
 IDRA is an ambient and experimental artist based in Italy, tracked on soundcheck, with 5 sets logged across Berlin and Milan. Often billed alongside Asiya, David Esser and Ragliaz. Next up: THC MILANO, Milan on Sun 27 Sept.
 
@@ -21,4 +21,4 @@ IDRA is an ambient and experimental artist based in Italy, tracked on soundcheck
 
 Asiya, David Esser, Ragliaz
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idra/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idra/)*

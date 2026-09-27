@@ -1,6 +1,6 @@
 # STRAWBRY
 
-STRAWBRY is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sat, 26 Sept 2026.
+STRAWBRY is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 STRAWBRY is a house and club artist based in United States of America, tracked on soundcheck, with 23 sets logged across Los Angeles, Manchester, Miami and San Diego and 1 more. Often billed alongside ATRIP, Oppidan and BIATA. Next up: The Great Northern, San Francisco/Oakland on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ STRAWBRY is a house and club artist based in United States of America, tracked o
 
 ## Recently played
 
+- The Great Northern, San Francisco/Oakland — Sat, 26 Sept 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - The Ground at Club Space, Miami — Sun, 24 May 2026
 - 1015 Folsom, San Francisco/Oakland — Fri, 13 Mar 2026
@@ -21,10 +22,9 @@ STRAWBRY is a house and club artist based in United States of America, tracked o
 - Gallagher Square, San Diego — Fri, 14 Nov 2025
 - TBA - 624 S Anderson Street LA CA 90023, Los Angeles — Fri, 20 Jun 2025
 - The Ground at Club Space, Miami — Fri, 13 Jun 2025
-- The Santa Monica Warehouse, Los Angeles — Fri, 1 Nov 2024
 
 ## Shares bills with
 
 ATRIP, Oppidan, BIATA
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/strawbry/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/strawbry/)*

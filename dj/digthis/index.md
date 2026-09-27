@@ -1,6 +1,6 @@
 # Dig This
 
-Dig This is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Eastern Bloc Records, Manchester on Fri, 6 Nov 2026.
+Dig This is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Eastern Bloc Records, Manchester on Fri, 6 Nov 2026.
 
 Dig This is a house and electro artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 9 more. Often billed alongside Ben Pugh, Aerofunk and Tarde Loco. Next up: Eastern Bloc Records, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Dig This is a house and electro artist based in United Kingdom, tracked on sound
 
 Ben Pugh, Aerofunk, Tarde Loco
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digthis/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digthis/)*

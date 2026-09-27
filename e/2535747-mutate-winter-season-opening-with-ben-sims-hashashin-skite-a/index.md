@@ -1,11 +1,11 @@
-# Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE at TBA
+# Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE at Eclipse Club
 
-Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE at TBA on Sat 17 Oct, Naples. 2 artists on the bill: Ben Sims and Hashashin. Techno. Preview the line-up and save it on soundcheck.
+Mutate: Winter Season Opening with: Ben Sims, Hashashin, SKITE at Eclipse Club on Sat 17 Oct, Naples. 2 artists on the bill: Ben Sims and Hashashin. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 17 Oct 2026 |
-| Venue | TBA |
+| Venue | Eclipse Club |
 | City | Naples |
 
 ## Line-up

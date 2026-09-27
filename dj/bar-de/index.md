@@ -1,6 +1,6 @@
 # BAR (DE)
 
-BAR (DE) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Oven Club, Valencia on Sat, 26 Sept 2026.
+BAR (DE) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Oven Club, Valencia on Sat, 26 Sept 2026.
 
 BAR (DE) is a tech house and house artist based in Germany, tracked on soundcheck, with 36 sets logged across Athens, Birmingham, London and Marseille and 6 more. Often billed alongside Pau Pérez, Blanch and Paola. Next up: Oven Club, Valencia on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ BAR (DE) is a tech house and house artist based in Germany, tracked on soundchec
 
 ## Recently played
 
+- Oven Club, Valencia — Sat, 26 Sept 2026
 - Oven Club, Valencia — Fri, 25 Sept 2026
 - Oven Club, Valencia — Sat, 12 Sept 2026
 - Oven Club, Valencia — Fri, 11 Sept 2026
@@ -19,10 +20,9 @@ BAR (DE) is a tech house and house artist based in Germany, tracked on soundchec
 - Oven Club, Valencia — Fri, 28 Aug 2026
 - Oven Club, Valencia — Sat, 22 Aug 2026
 - Oven Club, Valencia — Sat, 18 Jul 2026
-- Oven Club, Valencia — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Pau Pérez, Blanch, Paola (1)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bar-de/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bar-de/)*

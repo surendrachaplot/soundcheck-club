@@ -1,14 +1,13 @@
 # The Horse & Groom
 
-The Horse & Groom is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Out of Towners " on Sat, 26 Sept 2026.
+The Horse & Groom is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Soul Selectors free daytime party" on Sat, 3 Oct 2026.
 
-The Horse & Groom is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Dode, Estelle Eivissa, Lil Meesh and Malcolm WeLove and 2 more. Browse upcoming dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
+The Horse & Groom is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Lil Meesh, Malcolm WeLove, Mark Osborne and Mikey DJ and 2 more. Browse upcoming dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Out of Towners  | Dode, Estelle Eivissa |
 | Sat, 3 Oct 2026 | Soul Selectors free daytime party |  |
 | Sat, 10 Oct 2026 | Soul On Wax free Oct Daytime party |  |
 | Sat, 17 Oct 2026 | Unique Rhythm free party | Mark Osborne |
@@ -20,4 +19,4 @@ The Horse & Groom is a music venue in London listed on soundcheck. 7 upcoming gi
 
 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom, London
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*

@@ -1,6 +1,6 @@
 # santyyyyyya
 
-santyyyyyya is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Atlantic Sound, Barcelona on Fri, 23 Oct 2026.
+santyyyyyya is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Atlantic Sound, Barcelona on Fri, 23 Oct 2026.
 
 santyyyyyya is a techno and hardcore artist tracked on soundcheck, with 9 sets logged across Barcelona and Ibiza. Often billed alongside Kleyver Reyes, Dj Cherry and Eva Toya. Next up: Atlantic Sound, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ santyyyyyya is a techno and hardcore artist tracked on soundcheck, with 9 sets l
 
 Kleyver Reyes, Dj Cherry, Eva Toya
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santyyyyyya/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santyyyyyya/)*

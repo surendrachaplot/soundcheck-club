@@ -1,14 +1,13 @@
 # Movers
 
-Movers is a music venue in Nottingham with 24 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Jack DiY [DiY Soundsystem]  The Big Faces   Lolly - Extended 2AM Party" on Sat, 26 Sept 2026.
+Movers is a music venue in Nottingham with 23 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Free Party: A Folk History [Film Screening 6-8pm]" on Sat, 26 Sept 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 24 upcoming gigs, with line-ups including Aaron Dynamic, Alex Traska, Alien Communications and Brawther and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 23 upcoming gigs, with line-ups including Aaron Dynamic, Alex Traska, Alien Communications and Brawther and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Jack DiY [DiY Soundsystem]  The Big Faces   Lolly - Extended 2AM Party | Jack DiY |
 | Sat, 26 Sept 2026 | Free Party: A Folk History [Film Screening 6-8pm] |  |
 | Thu, 1 Oct 2026 | mixclub: electro with Blaze, Elo, Another Place & Leany |  |
 | Thu, 1 Oct 2026 | UMS: First Social of The Year - House / Garage |  |
@@ -18,9 +17,10 @@ Movers is a music venue in Nottingham listed on soundcheck. 24 upcoming gigs, wi
 | Sat, 10 Oct 2026 | Control. x Movers: Radioactive Man, Aaron Dynamic b2b Dennis Roswell & dj sneaze | Aaron Dynamic, Radioactive Man, dj sneaze |
 | Sat, 17 Oct 2026 | Macca [NTS, One Glove] & Golden Lights | Golden Lights, Macca. |
 | Fri, 23 Oct 2026 | Honey Dips: RnB, Slow Jamz & Old-Skool Hip-Hop |  |
+| Sat, 24 Oct 2026 | Soul Buggin' 22nd Birthday with Jamz Supernova | Jamz Supernova |
 
 ## Address
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

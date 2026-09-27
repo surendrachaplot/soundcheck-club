@@ -1,6 +1,6 @@
 # SHDW
 
-SHDW is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tangent Gallery, Detroit on Sat, 26 Sept 2026.
+SHDW is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Tangent Gallery, Detroit on Sat, 26 Sept 2026.
 
 SHDW is a techno and house artist based in Germany, tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Tangent Gallery, Detroit on Sat 26 Sept.
 
@@ -23,6 +23,7 @@ SHDW is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
+- Tangent Gallery, Detroit — Sat, 26 Sept 2026
 - BASEMENT, New York City — Fri, 25 Sept 2026
 - Hangaren, Copenhagen — Fri, 18 Sept 2026
 - SMUT Athens, Athens — Sat, 12 Sept 2026
@@ -30,10 +31,9 @@ SHDW is a techno and house artist based in Germany, tracked on soundcheck, with 
 - Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
 - Garage Klub, Antwerp — Sat, 5 Sept 2026
 - Ampere, Antwerp — Sat, 5 Sept 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
 
 ## Shares bills with
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

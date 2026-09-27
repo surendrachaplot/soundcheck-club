@@ -1,6 +1,6 @@
 # Woody92
 
-Woody92 is a Techno and Experimental artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
+Woody92 is a Techno and Experimental artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
 
 Woody92 is a techno and experimental artist based in Netherlands, tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside Loek Frey, Jeans (NL) and Konduku. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
 
@@ -18,17 +18,17 @@ Woody92 is a techno and experimental artist based in Netherlands, tracked on sou
 
 ## Recently played
 
+- Garage Noord, Amsterdam — Sat, 26 Sept 2026
+- De Fik Garden, Amsterdam — Sat, 26 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Thu, 3 Sept 2026
 - TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - RADION, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Else, Berlin — Fri, 24 Jul 2026
-- MaHalla, Berlin — Fri, 3 Jul 2026
-- Ankali & Planeta Za, Prague — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Loek Frey, Jeans (NL), Konduku
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/woody-92/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/woody-92/)*

@@ -1,6 +1,6 @@
 # Butch
 
-Butch is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Moon Warsaw, Warsaw on Sat, 26 Sept 2026.
+Butch is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Moon Warsaw, Warsaw on Sat, 26 Sept 2026.
 
 Butch is a house and tech house artist based in Germany, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 18 more. Often billed alongside Toman, Nic Fanciulli and Solomun. Next up: Moon Warsaw, Warsaw on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ Butch is a house and tech house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Moon Warsaw, Warsaw — Sat, 26 Sept 2026
 - Hï Ibiza, Ibiza — Wed, 16 Sept 2026
 - Cova Santa, Ibiza — Sun, 6 Sept 2026
 - Chinois Ibiza, Ibiza — Tue, 25 Aug 2026
@@ -21,10 +22,9 @@ Butch is a house and tech house artist based in Germany, tracked on soundcheck, 
 - Chinois Ibiza, Ibiza — Tue, 18 Aug 2026
 - Gate Club Paris, Paris — Sat, 11 Jul 2026
 - Terreiro das Missas, Lisbon — Sat, 27 Jun 2026
-- Maya Beach Experience, Naples — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Toman, Nic Fanciulli, Solomun
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/butch/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/butch/)*

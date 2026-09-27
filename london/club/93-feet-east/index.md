@@ -1,14 +1,13 @@
 # 93 Feet East
 
-93 Feet East is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "MIOAZ Live presents Braxton & Trilucid" on Sat, 26 Sept 2026.
+93 Feet East is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "PLGRN X Threads & Thrills W/ Terry Francis" on Sun, 27 Sept 2026.
 
-93 Feet East is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Alexandria, Bertt, Braxton and Camilla Sadaghna and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
+93 Feet East is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Alexandria, Carlos Aries, Dan Cowan and Darren Tate and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | MIOAZ Live presents Braxton & Trilucid | Bertt, Braxton, Camilla Sadaghna, Trilucid |
 | Sun, 27 Sept 2026 | PLGRN X Threads & Thrills W/ Terry Francis | KARBONI, Terry Francis, Tony Serban, TrebleMakers |
 | Fri, 2 Oct 2026 | Reeload Classics: The Origins of 140 |  |
 | Sat, 3 Oct 2026 | ECLYPSE London | EL PADRE, Major K, Nathassia |
@@ -18,9 +17,10 @@
 | Sat, 31 Oct 2026 | The Halloween Disco |  |
 | Sat, 7 Nov 2026 | Escapada - BACK TO THE GOLDEN ERA - 93 Feet East | Carlos Aries, Jerome Six, Lee Luxe, Mark Radford, RENZO., Rhiavas |
 | Sun, 8 Nov 2026 | AFTERJAM [05]: LONDON | HALFPINT, Jamback, Stacie Fields |
+| Fri, 20 Nov 2026 | Job de Jong b2b Dennis Quin - All Night Long | Dennis Quin, Job de Jong |
 
 ## Address
 
 The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom, London
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*

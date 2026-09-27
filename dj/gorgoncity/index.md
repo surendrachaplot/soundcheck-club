@@ -1,6 +1,6 @@
 # Gorgon City
 
-Gorgon City is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Echostage, Washington DC on Sat, 26 Sept 2026.
+Gorgon City is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Echostage, Washington DC on Sat, 26 Sept 2026.
 
 Gorgon City is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Danny Howard, Sonny Fodera and Azzecca. Next up: Echostage, Washington DC on Sat 26 Sept.
 
@@ -15,6 +15,7 @@ Gorgon City is a house and tech house artist based in United Kingdom, tracked on
 
 ## Recently played
 
+- Echostage, Washington DC — Sat, 26 Sept 2026
 - [UNVRS], Ibiza — Thu, 3 Sept 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 29 Aug 2026
 - Cavo Paradiso, Mykonos — Wed, 26 Aug 2026
@@ -22,10 +23,9 @@ Gorgon City is a house and tech house artist based in United Kingdom, tracked on
 - 528 Ibiza, Ibiza — Fri, 31 Jul 2026
 - [UNVRS], Ibiza — Mon, 27 Jul 2026
 - Grant Park, Chicago — Sat, 27 Jun 2026
-- LIV Nightclub Miami, Miami — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Danny Howard, Sonny Fodera, Azzecca
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gorgoncity/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gorgoncity/)*

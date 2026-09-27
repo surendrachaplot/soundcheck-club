@@ -1,6 +1,6 @@
 # Sala Villanos
 
-Sala Villanos is a music venue in Madrid with 15 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Kraak & Smaak SOUNDSYSTEM + Madame Excuse + Rayko" on Fri, 2 Oct 2026.
+Sala Villanos is a music venue in Madrid with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Kraak & Smaak SOUNDSYSTEM + Madame Excuse + Rayko" on Fri, 2 Oct 2026.
 
 Sala Villanos is a music venue in Madrid listed on soundcheck. 15 upcoming gigs, with line-ups including Acid Pauli, Acid Hero, Axel Boman and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Sala Villanos is a music venue in Madrid listed on soundcheck. 15 upcoming gigs,
 
 C. de Bernardino Obregón, 18, 28012 Madrid, Spain, Madrid
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*

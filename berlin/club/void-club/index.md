@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Free Party with Lay.Dee Strange b2b Roxy, Antiquis Anima, Upzet, Nerv, Modulatos, Ektoside" on Sat, 26 Sept 2026.
+Void Club is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Free Party with Lay.Dee Strange b2b Roxy, Antiquis Anima, Upzet, Nerv, Modulatos, Ektoside" on Sat, 26 Sept 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Agem, Alienata, Allexandra and alllone and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wit
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

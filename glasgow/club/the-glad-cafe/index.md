@@ -1,15 +1,13 @@
 # The Glad Cafe
 
-The Glad Cafe is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Pop Mutations presents: Locust" on Sat, 26 Sept 2026.
+The Glad Cafe is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Sonica: Raivo Sloan // Moira Salt, Tommy Perman & Andrew Wasylyk // Jett Ilagan" on Sun, 27 Sept 2026.
 
-The Glad Cafe is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including Carla dal Forno, Gigi Masin, Mark Van Hoen and Raivo Sloan and 1 more. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
+The Glad Cafe is a music venue in Glasgow listed on soundcheck. 11 upcoming gigs, with line-ups including Carla dal Forno, Gigi Masin, Raivo Sloan and Will Samson. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Pop Mutations presents: Locust |  |
-| Sat, 26 Sept 2026 | Locust + Mock Uncle | Mark Van Hoen |
 | Sun, 27 Sept 2026 | Sonica: Raivo Sloan // Moira Salt, Tommy Perman & Andrew Wasylyk // Jett Ilagan | Raivo Sloan |
 | Tue, 29 Sept 2026 | Pop Mutations & The Glad Cafe presents: Carla dal Forno + Gichard | Carla dal Forno |
 | Fri, 2 Oct 2026 | summerblink [2] ☆ queer hyper/dreampop event |  |
@@ -18,9 +16,11 @@ The Glad Cafe is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs
 | Fri, 9 Oct 2026 | common room with Tommy Barlow |  |
 | Tue, 13 Oct 2026 | Jazz at the Glad: Harry Christelis |  |
 | Fri, 23 Oct 2026 | Pop Mutations & The Glad Cafe presents: Nadeem Din-Gabisi |  |
+| Sat, 24 Oct 2026 | Pop Mutations & The Glad Cafe presents: Deradoorian + Mason Lindahl |  |
+| Sun, 25 Oct 2026 | Pop Mutations & The Glad Cafe presents: Will Samson + Yoker Moon | Will Samson |
 
 ## Address
 
 1006A Pollokshaws Rd, Glasgow G41 2HG, Glasgow
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*

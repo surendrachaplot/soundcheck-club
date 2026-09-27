@@ -1,14 +1,13 @@
 # Savaya Bali
 
-Savaya Bali is a music venue in Bali with 28 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Stephan Bodzin" on Sat, 26 Sept 2026.
+Savaya Bali is a music venue in Bali with 27 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "The Martinez Brothers" on Sun, 27 Sept 2026.
 
-Savaya Bali is a music venue in Bali listed on soundcheck. 28 upcoming gigs, with line-ups including 19:26, Alex Wann, AMÉMÉ and Brina Knauss and 2 more. Browse upcoming dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
+Savaya Bali is a music venue in Bali listed on soundcheck. 27 upcoming gigs, with line-ups including 19:26, Alex Wann, AMÉMÉ and Brina Knauss and 2 more. Browse upcoming dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Stephan Bodzin | Stephan Bodzin |
 | Sun, 27 Sept 2026 | The Martinez Brothers | The Martinez Brothers |
 | Sat, 3 Oct 2026 | Stephan Jolk | Stephan Jolk |
 | Sun, 4 Oct 2026 | Alex Wann | Alex Wann |
@@ -18,9 +17,10 @@ Savaya Bali is a music venue in Bali listed on soundcheck. 28 upcoming gigs, wit
 | Sat, 17 Oct 2026 | Zamna | 19:26, Brina Knauss, Innellea, Zamna Soundsystem |
 | Sun, 18 Oct 2026 | Zamna | DJEFF, Moojo, Nitefreak, Vanco |
 | Sat, 24 Oct 2026 | Franky Wah | Franky Wah |
+| Sun, 25 Oct 2026 | Nico De Andrea |  |
 
 ## Address
 
 Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia, Bali
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*

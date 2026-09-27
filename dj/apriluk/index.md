@@ -1,6 +1,6 @@
 # April (UK)
 
-April (UK) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bar Shrimp, Manchester on Sun, 27 Sept 2026.
+April (UK) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bar Shrimp, Manchester on Sun, 27 Sept 2026.
 
 April (UK) is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Glasgow, Leeds, Liverpool and Manchester and 1 more. Often billed alongside Esmé, Alex Milo and Practical. Next up: Bar Shrimp, Manchester on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ April (UK) is a techno and electro artist based in United Kingdom, tracked on so
 
 Esmé, Alex Milo, Practical
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apriluk/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apriluk/)*

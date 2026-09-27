@@ -1,14 +1,13 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Fat Freddy's Drop - Barcelona" on Sat, 26 Sept 2026.
+Razzmatazz is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "RAZZCLUBS: BMT: Mala + JAZ IMSKY Powered Greenlight Sound System + Nørbak + Sandrien" on Sat, 26 Sept 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Akua, Alvva, amil raja and Andrae Durden and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Akua, Alvva, amil raja and Andrae Durden and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Fat Freddy's Drop - Barcelona | Fat Freddys Drop |
 | Sat, 26 Sept 2026 | RAZZCLUBS: BMT: Mala + JAZ IMSKY Powered Greenlight Sound System + Nørbak + Sandrien | Bassywax, Connie, DJ2D2, Feral, HEDDA, ILAYRUNI, JAZ IMSKY, MIA FLAW, Mala, Nørbak, PethbUri, Sandrien, Sylvia (ES), radd |
 | Sun, 27 Sept 2026 | Fat Freddy's Drop - Barcelona (2) | Fat Freddys Drop |
 | Fri, 2 Oct 2026 | RAZZCLUBS: Mount Kimbie DJ + West Dubai Live + Freebot | Alvva, DJ2D2, Freebot, Jhort, Mount Kimbie, NEGRACONDA, Piel Mixta, Tiyumii |
@@ -18,9 +17,10 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs,
 | Sun, 1 Nov 2026 | Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) | Art of Fighters, Lady Dammage, Pinotello, Revenja, Samuel Moriero (2), Vortek's |
 | Fri, 13 Nov 2026 | SPORTS |  |
 | Sat, 21 Nov 2026 | Pre-human x Refractor | Andrae Durden, Convoluted Mental Mirror, Malesa |
+| Thu, 26 Nov 2026 | COBRAH | COBRAH |
 
 ## Address
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

@@ -1,14 +1,13 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 35 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "James Lavelle + GK Machine: Free Time - Glasgow" on Sat, 26 Sept 2026.
+The Berkeley Suite is a music venue in Glasgow with 34 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "[CANCELLED] Lets Go Back Bank Holiday Sunday presents: Justin Robertson" on Sun, 27 Sept 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 35 upcoming gigs, with line-ups including 3-Lix, Amaliah, Andy Barton and Austin Ato and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 34 upcoming gigs, with line-ups including 3-Lix, Amaliah, Andy Barton and Austin Ato and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | James Lavelle + GK Machine: Free Time - Glasgow | GK Machine, James Lavelle |
 | Sun, 27 Sept 2026 | [CANCELLED] Lets Go Back Bank Holiday Sunday presents: Justin Robertson | Justin Robertson |
 | Tue, 29 Sept 2026 | CASA // TUESDAYS AT The Berkeley Suite // WELCOME TO GLASGOW PT 2 |  |
 | Thu, 1 Oct 2026 | VICE VERSA Invites Parallx | Johnny Greig, LAZLO, Parallx |
@@ -18,9 +17,10 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 35 upcoming
 | Thu, 8 Oct 2026 | ??? |  |
 | Fri, 9 Oct 2026 | KIN—TU05 ˚͇ DJ Fuckoff ✫ NAMÄN ✫ Plantainchipps ✫ Maveen | DJ Fuckoff, Maveen, NAMÄN (UK), Plantainchipps |
 | Sat, 10 Oct 2026 | A Love From Outer Space with Sean Johnstone |  |
+| Thu, 15 Oct 2026 | Sih-Lest presents: IDEMI | IDEMI |
 
 ## Address
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

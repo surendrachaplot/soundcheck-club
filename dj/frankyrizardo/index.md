@@ -1,6 +1,6 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Club Space Miami, Miami on Sat, 26 Sept 2026.
+Franky Rizardo is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Club Space Miami, Miami on Sat, 26 Sept 2026.
 
 Franky Rizardo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 246 sets logged across Amsterdam, Austin, Bali and Barcelona and 48 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Club Space Miami, Miami on Sat 26 Sept.
 
@@ -23,6 +23,7 @@ Franky Rizardo is a house and tech house artist based in Netherlands, tracked on
 
 ## Recently played
 
+- Club Space Miami, Miami — Sat, 26 Sept 2026
 - Royale, Boston — Fri, 25 Sept 2026
 - [UNVRS], Ibiza — Wed, 23 Sept 2026
 - KOKO, London — Fri, 18 Sept 2026
@@ -30,10 +31,9 @@ Franky Rizardo is a house and tech house artist based in Netherlands, tracked on
 - TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Colorado Charlie, The Hague — Sun, 6 Sept 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 5 Sept 2026
-- Pacha New York, New York City — Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

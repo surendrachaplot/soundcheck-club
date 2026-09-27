@@ -1,6 +1,6 @@
 # Fugist
 
-Fugist is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Sensorium, Berlin on Wed, 7 Oct 2026.
+Fugist is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Sensorium, Berlin on Wed, 7 Oct 2026.
 
 Fugist is a tech house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Derrik, Quolcat and Technomaus. Next up: Sensorium, Berlin on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Fugist is a tech house and techno artist based in Germany, tracked on soundcheck
 
 Derrik, Quolcat, Technomaus
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fugist/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fugist/)*

@@ -1,6 +1,6 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Quirk: Henriku Birthday Edition" on Sat, 26 Sept 2026.
+Hoppetosse is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Quirk: Henriku Birthday Edition" on Sat, 26 Sept 2026.
 
 Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Alexander Skancke, Alexandra, Alex Picone and Anaté and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wi
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

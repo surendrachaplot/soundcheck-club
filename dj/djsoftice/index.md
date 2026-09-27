@@ -1,6 +1,6 @@
 # DJ SOFTICE
 
-DJ SOFTICE is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
+DJ SOFTICE is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
 
 DJ SOFTICE is a house and trance artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin and Leipzig. Often billed alongside MIDNXGHT, DJ G1NA R. and mp.ulle. Next up: Distillery, Leipzig on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ DJ SOFTICE is a house and trance artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- Distillery, Leipzig — Sat, 26 Sept 2026
 - elipamanoke, Leipzig — Sat, 13 Dec 2025
 - Axxon N., Leipzig — Tue, 18 Nov 2025
 - Conne Island, Leipzig — Sat, 21 Jun 2025
@@ -19,10 +20,9 @@ DJ SOFTICE is a house and trance artist based in Germany, tracked on soundcheck,
 - Axxon N., Leipzig — Fri, 2 May 2025
 - Neue Welle, Leipzig — Thu, 17 Apr 2025
 - DUQO, Leipzig — Fri, 28 Mar 2025
-- Institut fuer Zukunft (IfZ), Leipzig — Sat, 30 Nov 2024
 
 ## Shares bills with
 
 MIDNXGHT, DJ G1NA R., mp.ulle
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoftice/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoftice/)*

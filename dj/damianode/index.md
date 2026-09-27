@@ -1,6 +1,6 @@
 # Damiano (DE)
 
-Damiano (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Natures Calling Winery, Berlin on Sat, 31 Oct 2026.
+Damiano (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Natures Calling Winery, Berlin on Sat, 31 Oct 2026.
 
 Damiano (DE) is a house and techno artist based in Italy, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Mython, Barakkuda and Marsch. Next up: Natures Calling Winery, Berlin on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Damiano (DE) is a house and techno artist based in Italy, tracked on soundcheck,
 
 Mython, Barakkuda, Marsch
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damianode/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damianode/)*

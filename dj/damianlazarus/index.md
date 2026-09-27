@@ -1,6 +1,6 @@
 # Damian Lazarus
 
-Damian Lazarus is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at fabric, London on Sat, 26 Sept 2026.
+Damian Lazarus is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at fabric, London on Sat, 26 Sept 2026.
 
 Damian Lazarus is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Bali and 34 more. Often billed alongside Black Coffee, Paul Reynolds and Airrica. Next up: fabric, London on Sat 26 Sept.
 
@@ -22,6 +22,7 @@ Damian Lazarus is a house and tech house artist based in United Kingdom, tracked
 
 ## Recently played
 
+- fabric, London — Sat, 26 Sept 2026
 - Scorpios, Mykonos — Thu, 24 Sept 2026
 - BORIS CLUB, Barcelona — Sat, 19 Sept 2026
 - Radius, Chicago — Mon, 7 Sept 2026
@@ -29,10 +30,9 @@ Damian Lazarus is a house and tech house artist based in United Kingdom, tracked
 - Pacha Ibiza, Ibiza — Fri, 4 Sept 2026
 - Scorpios, Mykonos — Thu, 20 Aug 2026
 - Airport Düsseldorf, Düsseldorf — Sat, 1 Aug 2026
-- Amnesia Ibiza, Ibiza — Tue, 28 Jul 2026
 
 ## Shares bills with
 
 Black Coffee, Paul Reynolds, Airrica
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*

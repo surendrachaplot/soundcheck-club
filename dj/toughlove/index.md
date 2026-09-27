@@ -1,18 +1,18 @@
 # Tough Love
 
-Tough Love is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Duo Clapham, London on Sat, 26 Sept 2026.
+Tough Love is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
 
-Tough Love is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Birmingham, Ibiza and London. Often billed alongside Darrell Privett, JAYDAA and Jerome Six. Next up: Duo Clapham, London on Sat 26 Sept.
+Tough Love is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Birmingham, Ibiza and London. Often billed alongside Darrell Privett, JAYDAA and Jerome Six. Next up: Beatfabriek, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Duo Clapham | London |
 | Fri, 23 Oct 2026 | Beatfabriek | Amsterdam |
 
 ## Recently played
 
+- Duo Clapham, London — Sat, 26 Sept 2026
 - Ministry Of Sound, London — Sat, 9 May 2026
 - Studio 338, London — Sat, 9 May 2026
 - Onyx (E1), London — Fri, 20 Feb 2026
@@ -20,10 +20,9 @@ Tough Love is a house and tech house artist based in United Kingdom, tracked on 
 - E1, London — Sat, 27 Sept 2025
 - E1, London — Sat, 26 Jul 2025
 - Blue Marlin Ibiza London, London — Sat, 7 Jun 2025
-- LDN East, London — Sat, 3 May 2025
 
 ## Shares bills with
 
 Darrell Privett, JAYDAA, Jerome Six
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toughlove/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toughlove/)*

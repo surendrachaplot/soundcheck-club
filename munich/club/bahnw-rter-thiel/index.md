@@ -1,6 +1,6 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Praerie Festival im Bahnwärter Thiel" on Sat, 26 Sept 2026.
+Bahnwärter Thiel is a music venue in Munich with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Praerie Festival im Bahnwärter Thiel" on Sat, 26 Sept 2026.
 
 Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 14 upcoming gigs, with line-ups including ANASTASÍA, Anna Lazer, Atzlina and aufleguan and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
@@ -23,4 +23,4 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 14 upcoming g
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*

@@ -1,6 +1,6 @@
 # Toxido Mask
 
-Toxido Mask is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Distillery, Leipzig on Sat, 3 Oct 2026.
+Toxido Mask is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Distillery, Leipzig on Sat, 3 Oct 2026.
 
 Toxido Mask is a techno and ambient artist based in Germany, tracked on soundcheck, with 56 sets logged across Bangkok, Barcelona, Berlin and Leipzig and 4 more. Often billed alongside MAEDON, Ario and CONCEPTUAL. Next up: Distillery, Leipzig on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Toxido Mask is a techno and ambient artist based in Germany, tracked on soundche
 
 MAEDON, Ario, CONCEPTUAL
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toxidomask/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toxidomask/)*

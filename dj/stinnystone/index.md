@@ -1,6 +1,6 @@
 # Stinny Stone
 
-Stinny Stone is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
+Stinny Stone is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
 
 Stinny Stone is a techno and trance artist based in Germany, tracked on soundcheck, with 90 sets logged across Barcelona, Berlin, Budapest and Dublin and 17 more. Often billed alongside SOHOE, Cobb Douglas and futurristic. Next up: Casa Nube Wynwood, Miami on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Stinny Stone is a techno and trance artist based in Germany, tracked on soundche
 
 SOHOE, Cobb Douglas, futurristic
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stinnystone/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stinnystone/)*

@@ -1,6 +1,6 @@
 # Society
 
-Society is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "𝐒𝐎𝐂𝐈𝐄𝐓𝐘 • ᴡɪᴛʜ 𝗨𝗡𝗗𝗘𝗥𝗖𝗔𝗧𝗧 𝗕𝟮𝗕 𝗦𝗔𝗠𝗘𝗥 𝗦𝗢𝗟𝗧𝗔𝗡" on Sat, 26 Sept 2026.
+Society is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "𝐒𝐎𝐂𝐈𝐄𝐓𝐘 • ᴡɪᴛʜ 𝗨𝗡𝗗𝗘𝗥𝗖𝗔𝗧𝗧 𝗕𝟮𝗕 𝗦𝗔𝗠𝗘𝗥 𝗦𝗢𝗟𝗧𝗔𝗡" on Sat, 26 Sept 2026.
 
 Society is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Belben, Samer Soltan, Undercatt and Yamagucci. Browse upcoming dates, start times and who's playing. Rue Sainte-Anne 20, 1000 Bruxelles.
 
@@ -15,4 +15,4 @@ Society is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with
 
 Rue Sainte-Anne 20, 1000 Bruxelles, Brussels
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/society/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/society/)*

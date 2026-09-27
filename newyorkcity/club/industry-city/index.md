@@ -1,14 +1,13 @@
 # Industry City
 
-Industry City is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "RuPaul, Tedd Patterson, Joopiter [SOLD OUT]" on Sat, 26 Sept 2026.
+Industry City is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "RuPaul, 2Charm, Disco Shrine, Cosmo, k.tea" on Sat, 26 Sept 2026.
 
-Industry City is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Alice Longyu Gao, Andhim, Annie Lew and AWEN and 2 more. Browse upcoming dates, start times and who's playing. 220 36th Street, Brooklyn, NY 11232, USA.
+Industry City is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Alice Longyu Gao, Andhim, Annie Lew and AWEN and 2 more. Browse upcoming dates, start times and who's playing. 220 36th Street, Brooklyn, NY 11232, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | RuPaul, Tedd Patterson, Joopiter [SOLD OUT] | Joopiter, Tedd Patterson |
 | Sat, 26 Sept 2026 | RuPaul, 2Charm, Disco Shrine, Cosmo, k.tea | Cosmo (NY), k.tea |
 | Sat, 10 Oct 2026 | Berlin Beyond Year 3 |  |
 | Sat, 10 Oct 2026 | MRAK | MRAK |
@@ -21,4 +20,4 @@ Industry City is a music venue in New York City listed on soundcheck. 8 upcoming
 
 220 36th Street, Brooklyn, NY 11232, USA, New York City
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/industry-city/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/industry-city/)*

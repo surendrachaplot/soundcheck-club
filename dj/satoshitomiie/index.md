@@ -1,6 +1,6 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
+Satoshi Tomiie is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
 
 Satoshi Tomiie is a house and techno artist based in Japan, tracked on soundcheck, with 127 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 37 more. Often billed alongside Doudou MD, Tomoki Tamura and Cabanne. Next up: H0L0, New York City on Sat 26 Sept.
 
@@ -18,6 +18,7 @@ Satoshi Tomiie is a house and techno artist based in Japan, tracked on soundchec
 
 ## Recently played
 
+- H0L0, New York City — Sat, 26 Sept 2026
 - Jolene Downtown Miami, Miami — Fri, 25 Sept 2026
 - smartbar, Chicago — Fri, 18 Sept 2026
 - Fvtvr, Paris — Sat, 12 Sept 2026
@@ -25,10 +26,9 @@ Satoshi Tomiie is a house and techno artist based in Japan, tracked on soundchec
 - TV Lounge, Detroit — Thu, 13 Aug 2026
 - Tangent Gallery, Detroit — Thu, 13 Aug 2026
 - Signal, New York City — Fri, 7 Aug 2026
-- Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Doudou MD, Tomoki Tamura, Cabanne
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*

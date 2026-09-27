@@ -1,6 +1,6 @@
 # Ninajirachi
 
-Ninajirachi is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Ninajirachi is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Ninajirachi is a pop and club artist based in Australia, tracked on soundcheck, with 55 sets logged across Auckland, Austin, Barcelona and Berlin and 23 more. Often billed alongside umru, Izzy Camina and KAVARI. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Ninajirachi is a pop and club artist based in Australia, tracked on soundcheck, 
 
 ## Recently played
 
+- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
 - Commodore Ballroom, Vancouver — Thu, 17 Sept 2026
 - Kesselhaus, Berlin — Wed, 19 Aug 2026
 - Odeon Theatre, Hobart — Fri, 19 Jun 2026
@@ -19,10 +20,9 @@ Ninajirachi is a pop and club artist based in Australia, tracked on soundcheck, 
 - Nitsa Club, Barcelona — Fri, 5 Jun 2026
 - RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
 - The Ground at Club Space, Miami — Fri, 24 Apr 2026
-- The Ground at Club Space, Miami — Thu, 23 Apr 2026
 
 ## Shares bills with
 
 umru, Izzy Camina, KAVARI
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninajirachi/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninajirachi/)*

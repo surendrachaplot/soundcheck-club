@@ -1,14 +1,13 @@
 # WestWeelde
 
-WestWeelde is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "SINGLZ Events" on Sat, 26 Sept 2026.
+WestWeelde is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Hernan Cattaneo b2b Nick Warren - 6hrs ADE" on Wed, 21 Oct 2026.
 
-WestWeelde is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including ACID FLORA, Analog Kitchen, Animal Trainer and Awka and 2 more. Browse upcoming dates, start times and who's playing. Klönneplein 4.
+WestWeelde is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including ACID FLORA, Analog Kitchen, Animal Trainer and Awka and 2 more. Browse upcoming dates, start times and who's playing. Klönneplein 4.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | SINGLZ Events |  |
 | Wed, 21 Oct 2026 | Hernan Cattaneo b2b Nick Warren - 6hrs ADE | Hernan Cattaneo, Nick Warren |
 | Thu, 22 Oct 2026 | Worakls & friends ADE | Rodriguez Jr., Susan Right, Worakls |
 | Thu, 22 Oct 2026 | DJ-Kicks ADE | BELLA (NL), D Stone, DJ BORING, Dam Swindle, Danilo Plessow, Gerd Janson, Motor City Drum Ensemble, Pelanoir, Sofia Kourtesis |
@@ -23,4 +22,4 @@ WestWeelde is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs,
 
 Klönneplein 4, Amsterdam
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*

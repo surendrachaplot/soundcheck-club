@@ -1,14 +1,13 @@
 # Toï Toï, Le Zinc
 
-Toï Toï, Le Zinc is a music venue in Lyon with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Une Bonne Soirée + Noa Li" on Sat, 26 Sept 2026.
+Toï Toï, Le Zinc is a music venue in Lyon with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Uzak Taraf // Qatifa" on Thu, 1 Oct 2026.
 
-Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 10 upcoming gigs. Browse upcoming dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
+Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 9 upcoming gigs. Browse upcoming dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Une Bonne Soirée + Noa Li |  |
 | Thu, 1 Oct 2026 | Uzak Taraf // Qatifa |  |
 | Fri, 2 Oct 2026 | DESORDRE + JACQUELINE + TOUCCAN |  |
 | Sat, 3 Oct 2026 | HORIZON NUIT - LIGNES DE FUITE et points de rencontre - RELEAZ PARTY |  |
@@ -23,4 +22,4 @@ Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 10 upcoming gi
 
 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne, Lyon
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*

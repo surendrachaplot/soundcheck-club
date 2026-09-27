@@ -1,6 +1,6 @@
 # Monty DJ
 
-Monty DJ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Radio Radio, Amsterdam on Sat, 26 Sept 2026.
+Monty DJ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Radio Radio, Amsterdam on Sat, 26 Sept 2026.
 
 Monty DJ is a house and techno artist based in Netherlands, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, London and Milan and 4 more. Often billed alongside Retromigration, Cinnaman and Dam Swindle. Next up: Radio Radio, Amsterdam on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Monty DJ is a house and techno artist based in Netherlands, tracked on soundchec
 
 ## Recently played
 
+- Radio Radio, Amsterdam — Sat, 26 Sept 2026
 - Radio Radio, Amsterdam — Fri, 11 Sept 2026
 - Thuishaven, Amsterdam — Sun, 14 Jun 2026
 - Renate, Berlin — Sat, 30 May 2026
@@ -19,10 +20,9 @@ Monty DJ is a house and techno artist based in Netherlands, tracked on soundchec
 - Radio Radio, Amsterdam — Mon, 27 Apr 2026
 - Radio Radio, Amsterdam — Sat, 11 Apr 2026
 - NAR, Utrecht — Fri, 20 Mar 2026
-- Renate, Berlin — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 Retromigration, Cinnaman, Dam Swindle
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/montydj-de/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/montydj-de/)*

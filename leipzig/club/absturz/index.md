@@ -1,14 +1,13 @@
 # Absturz
 
-Absturz is a music venue in Leipzig with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "br4tifi3d & 0v3rsTimulat3d - Hyperpop & Internet Music Queer Party" on Sat, 26 Sept 2026.
+Absturz is a music venue in Leipzig with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Bleibende Schäden" on Fri, 2 Oct 2026.
 
-Absturz is a music venue in Leipzig listed on soundcheck. 6 upcoming gigs, with line-ups including DZBL, Mariposa x Lyra, Oliotronix and Raphus and 2 more. Browse upcoming dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
+Absturz is a music venue in Leipzig listed on soundcheck. 5 upcoming gigs, with line-ups including DZBL, Mariposa x Lyra, Raphus and SAMBA7 and 1 more. Browse upcoming dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | br4tifi3d & 0v3rsTimulat3d - Hyperpop & Internet Music Queer Party | Oliotronix |
 | Fri, 2 Oct 2026 | Bleibende Schäden | DZBL, Mariposa x Lyra, Raphus, SAMBA7 |
 | Sat, 3 Oct 2026 | Discotronic |  |
 | Fri, 9 Oct 2026 | GROOVE APPROVED |  |
@@ -19,4 +18,4 @@ Absturz is a music venue in Leipzig listed on soundcheck. 6 upcoming gigs, with 
 
 Karl-Liebknecht-Str. 36, 04107 Leipzig, Leipzig
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*

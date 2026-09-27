@@ -1,6 +1,6 @@
 # Zehsar
 
-Zehsar is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at MS Stubnitz, Hamburg on Sat, 26 Sept 2026.
+Zehsar is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at MS Stubnitz, Hamburg on Sat, 26 Sept 2026.
 
 Zehsar is a house and downtempo artist based in Germany, tracked on soundcheck, with 8 sets logged across Hamburg and Warsaw. Often billed alongside Aii PS, Acid Pablo and 50PHIE. Next up: MS Stubnitz, Hamburg on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Zehsar is a house and downtempo artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- MS Stubnitz, Hamburg — Sat, 26 Sept 2026
 - Schrødingers Hamburg, Hamburg — Fri, 18 Apr 2025
 - Klub SPATiF, Warsaw — Fri, 25 Oct 2024
 - Locke, Hamburg — Thu, 11 Apr 2024
@@ -24,4 +25,4 @@ Zehsar is a house and downtempo artist based in Germany, tracked on soundcheck, 
 
 Aii PS, Acid Pablo, 50PHIE
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zehsar/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zehsar/)*

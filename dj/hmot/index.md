@@ -1,6 +1,6 @@
 # HMOT
 
-HMOT is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+HMOT is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 HMOT is an experimental and techno artist based in Switzerland, tracked on soundcheck, with 8 sets logged across Armenia, Basel, Berlin and Turin. Often billed alongside Rabih Beaini, Riccardo La Foresta and kamunts. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ HMOT is an experimental and techno artist based in Switzerland, tracked on sound
 
 ## Recently played
 
+- TBA - Yerevan, Armenia, Armenia — Sat, 26 Sept 2026
 - PAV - Parco Arte Vivente, Turin — Sat, 27 Jun 2026
 - Projektraum H48, Berlin — Sat, 29 Mar 2025
 - Kaserne Basel, Basel — Thu, 19 Sept 2024
@@ -24,4 +25,4 @@ HMOT is an experimental and techno artist based in Switzerland, tracked on sound
 
 Rabih Beaini, Riccardo La Foresta, kamunts
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hmot/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hmot/)*

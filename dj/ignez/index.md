@@ -1,6 +1,6 @@
 # Ignez
 
-Ignez is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Ignez is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Ignez is a techno and house artist based in Netherlands, tracked on soundcheck, with 198 sets logged across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside Yanamaste, Inox Traxx and Rødhåd. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Ignez is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 Yanamaste, Inox Traxx, Rødhåd
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

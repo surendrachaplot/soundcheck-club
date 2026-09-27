@@ -1,6 +1,6 @@
 # Jayda G
 
-Jayda G is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Jayda G is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Jayda G is a house and techno artist based in Canada, tracked on soundcheck, with 134 sets logged across Amsterdam, Bali, Barcelona and Belfast and 50 more. Often billed alongside Melvo Baptiste, salute and Barry Can't Swim. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -36,4 +36,4 @@ Jayda G is a house and techno artist based in Canada, tracked on soundcheck, wit
 
 Melvo Baptiste, salute, Barry Can't Swim
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*

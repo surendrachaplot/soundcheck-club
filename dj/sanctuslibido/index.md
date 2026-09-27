@@ -1,6 +1,6 @@
 # Sanctus Libido
 
-Sanctus Libido is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - SECRET PLACE, Lyon on Sat, 26 Sept 2026.
+Sanctus Libido is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - SECRET PLACE, Lyon on Sat, 26 Sept 2026.
 
 Sanctus Libido is a techno and house artist based in Switzerland, tracked on soundcheck, with 17 sets logged across Brussels, Lyon and Zurich. Often billed alongside Exkursion, Bonnie OK and Das Firmament. Next up: TBA - SECRET PLACE, Lyon on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Sanctus Libido is a techno and house artist based in Switzerland, tracked on sou
 
 ## Recently played
 
+- TBA - SECRET PLACE, Lyon — Sat, 26 Sept 2026
 - Super5, Lyon — Fri, 25 Sept 2026
 - Kauz, Zurich — Fri, 5 Jun 2026
 - Buda BXL, Brussels — Fri, 17 Apr 2026
@@ -20,10 +21,9 @@ Sanctus Libido is a techno and house artist based in Switzerland, tracked on sou
 - UMI, Brussels — Sat, 29 Nov 2025
 - Kauz, Zurich — Fri, 11 Apr 2025
 - Kauz, Zurich — Sat, 1 Feb 2025
-- Zentralwäscherei, Zurich — Wed, 1 Jan 2025
 
 ## Shares bills with
 
 Exkursion, Bonnie OK, Das Firmament
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanctuslibido/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanctuslibido/)*

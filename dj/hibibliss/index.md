@@ -1,6 +1,6 @@
 # HIBI BLISS
 
-HIBI BLISS is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Cross Roppongi, Tokyo on Sat, 10 Oct 2026.
+HIBI BLISS is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Cross Roppongi, Tokyo on Sat, 10 Oct 2026.
 
 HIBI BLISS is a house and club artist based in South Korea, tracked on soundcheck, with 45 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside DJ POIPOI, Lil Mofo and BEENIE PIMP. Next up: Cross Roppongi, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ HIBI BLISS is a house and club artist based in South Korea, tracked on soundchec
 
 DJ POIPOI, Lil Mofo, BEENIE PIMP
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hibibliss/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hibibliss/)*

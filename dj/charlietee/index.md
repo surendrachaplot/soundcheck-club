@@ -1,6 +1,6 @@
 # Charlie Tee
 
-Charlie Tee is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Volks, Brighton on Sat, 26 Sept 2026.
+Charlie Tee is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Volks, Brighton on Sat, 26 Sept 2026.
 
 Charlie Tee is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Auckland, Birmingham, Brighton and Brisbane and 12 more. Often billed alongside K Motionz, BassLayerz and Hedex. Next up: Volks, Brighton on Sat 26 Sept.
 
@@ -17,6 +17,7 @@ Charlie Tee is a drum & bass and bass artist based in United Kingdom, tracked on
 
 ## Recently played
 
+- Volks, Brighton — Sat, 26 Sept 2026
 - UNO MALTA, Malta — Thu, 3 Sept 2026
 - Finsbury Park, London — Sun, 2 Aug 2026
 - Ashton Court Estate, Bristol — Sat, 23 May 2026
@@ -24,10 +25,9 @@ Charlie Tee is a drum & bass and bass artist based in United Kingdom, tracked on
 - TBA - Dmos People West Mid Showground, Berwick Road, Shrewsbury, SY1 2PL, Birmingham — Fri, 19 Sept 2025
 - UNO MALTA, Malta — Fri, 5 Sept 2025
 - TBA - Lake Most, Prague — Thu, 31 Jul 2025
-- Paléo Festival, Geneva — Sat, 26 Jul 2025
 
 ## Shares bills with
 
 K Motionz, BassLayerz, Hedex
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlietee/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlietee/)*

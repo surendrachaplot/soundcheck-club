@@ -1,19 +1,19 @@
 # ATEQ
 
-ATEQ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tuin van Heden, Ghent on Sat, 26 Sept 2026.
+ATEQ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Frappant, Hamburg on Sat, 3 Oct 2026.
 
-ATEQ is a techno and house artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Berlin and Cologne and 14 more. Often billed alongside ORION (IT), skyra and Hamatsuki. Next up: Tuin van Heden, Ghent on Sat 26 Sept.
+ATEQ is a techno and house artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Berlin and Cologne and 14 more. Often billed alongside ORION (IT), skyra and Hamatsuki. Next up: Frappant, Hamburg on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Tuin van Heden | Ghent |
 | Sat, 3 Oct 2026 | Frappant | Hamburg |
 | Sat, 7 Nov 2026 | Masada | Milan |
 
 ## Recently played
 
+- Tuin van Heden, Ghent — Sat, 26 Sept 2026
 - Bassiani, Tbilisi — Fri, 11 Sept 2026
 - Tokonoma Club, Frankfurt — Sat, 5 Sept 2026
 - TILLATEC, Amsterdam — Sat, 15 Aug 2026
@@ -21,10 +21,9 @@ ATEQ is a techno and house artist based in Germany, tracked on soundcheck, with 
 - BLITZ, Munich — Sat, 20 Jun 2026
 - Jolene, Copenhagen — Sat, 13 Jun 2026
 - Malzfabrik, Berlin — Sat, 6 Jun 2026
-- Paloma, Berlin — Sat, 30 May 2026
 
 ## Shares bills with
 
 ORION (IT), skyra, Hamatsuki
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ateq/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ateq/)*

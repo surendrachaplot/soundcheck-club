@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 11 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Kat Kat Tat" on Sat, 26 Sept 2026.
+Teritorija is a music venue in Riga with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Kat Kat Tat" on Sat, 26 Sept 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 11 upcoming gigs, with line-ups including DENOVA, Dmitry Puffin, hitomori and Kat Kat Tat and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -23,4 +23,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 11 upcoming gigs, with
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

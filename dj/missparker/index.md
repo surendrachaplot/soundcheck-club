@@ -1,6 +1,6 @@
 # Miss Parker
 
-Miss Parker is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Signal, New York City on Sun, 27 Sept 2026.
+Miss Parker is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Signal, New York City on Sun, 27 Sept 2026.
 
 Miss Parker is a techno and house artist based in United States of America, tracked on soundcheck, with 132 sets logged across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, Princess Peggie and DJ Thank You. Next up: Signal, New York City on Sun 27 Sept.
 
@@ -29,4 +29,4 @@ Miss Parker is a techno and house artist based in United States of America, trac
 
 Devoye, Princess Peggie, DJ Thank You
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*

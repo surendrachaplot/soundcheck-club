@@ -1,6 +1,6 @@
 # Olivia
 
-Olivia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
+Olivia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
 
 Olivia is a techno and electro artist based in Poland, tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Chino, Kovvalsky and Kinzo Chrome. Next up: Jasna 1, Warsaw on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Olivia is a techno and electro artist based in Poland, tracked on soundcheck, wi
 
 ## Recently played
 
+- Jasna 1, Warsaw — Sat, 26 Sept 2026
 - Forum Horyzonty, Krakow — Sat, 19 Sept 2026
 - Jasna 1, Warsaw — Sat, 11 Jul 2026
 - Jasna 1, Warsaw — Fri, 27 Mar 2026
@@ -19,10 +20,9 @@ Olivia is a techno and electro artist based in Poland, tracked on soundcheck, wi
 - F8 1192 Folsom, San Francisco/Oakland — Thu, 25 Sept 2025
 - TBA - Kraków, Krakow — Sat, 26 Jul 2025
 - Jasna 1, Warsaw — Sat, 14 Jun 2025
-- Sekta Selekta, Krakow — Sat, 10 May 2025
 
 ## Shares bills with
 
 Chino, Kovvalsky, Kinzo Chrome
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivia/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivia/)*

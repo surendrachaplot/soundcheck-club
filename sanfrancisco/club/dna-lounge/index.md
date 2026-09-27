@@ -1,6 +1,6 @@
 # DNA Lounge
 
-DNA Lounge is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "San Frandisco" on Sat, 26 Sept 2026.
+DNA Lounge is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "San Frandisco" on Sat, 26 Sept 2026.
 
 DNA Lounge is a music venue in San Francisco/Oakland listed on soundcheck. 6 upcoming gigs, with line-ups including Camillionaire, D-Program, Del and DMN TWNK and 2 more. Browse upcoming dates, start times and who's playing. 375 Eleventh Street, San Francisco, CA 94103, United States.
 
@@ -19,4 +19,4 @@ DNA Lounge is a music venue in San Francisco/Oakland listed on soundcheck. 6 upc
 
 375 Eleventh Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/dna-lounge/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/dna-lounge/)*

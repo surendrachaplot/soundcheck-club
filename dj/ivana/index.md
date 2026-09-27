@@ -1,6 +1,6 @@
 # Ivana
 
-Ivana is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Klunkerkranich, Berlin on Thu, 1 Oct 2026.
+Ivana is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Klunkerkranich, Berlin on Thu, 1 Oct 2026.
 
 Ivana is a house and drum & bass artist tracked on soundcheck, with 9 sets logged across Barcelona, Berlin and Miami. Often billed alongside Lola Brennt, anna G and Agem. Next up: Klunkerkranich, Berlin on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Ivana is a house and drum & bass artist tracked on soundcheck, with 9 sets logge
 
 Lola Brennt, anna G, Agem
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivana/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivana/)*

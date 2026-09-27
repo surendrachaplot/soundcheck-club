@@ -1,6 +1,6 @@
 # Yawa Ze
 
-Yawa Ze is a Balearic and IDM artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Space Eat & Dance, Ibiza on Sun, 27 Sept 2026.
+Yawa Ze is a Balearic and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Space Eat & Dance, Ibiza on Sun, 27 Sept 2026.
 
 Yawa Ze is a balearic and idm artist based in Spain, tracked on soundcheck, with 5 sets logged across Ibiza. Often billed alongside Borja S, Camilo Miranda and Javi Niño. Next up: Space Eat & Dance, Ibiza on Sun 27 Sept.
 
@@ -21,4 +21,4 @@ Yawa Ze is a balearic and idm artist based in Spain, tracked on soundcheck, with
 
 Borja S, Camilo Miranda, Javi Niño
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yawa-ze/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yawa-ze/)*

@@ -1,6 +1,6 @@
 # Marcal
 
-Marcal is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at BASEMENT, New York City on Sat, 26 Sept 2026.
+Marcal is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at BASEMENT, New York City on Sat, 26 Sept 2026.
 
 Marcal is a techno and house artist based in Brazil, tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Ignez, Efdemin and Zisko. Next up: BASEMENT, New York City on Sat 26 Sept.
 
@@ -15,6 +15,7 @@ Marcal is a techno and house artist based in Brazil, tracked on soundcheck, with
 
 ## Recently played
 
+- BASEMENT, New York City — Sat, 26 Sept 2026
 - Stereo, Montreal — Fri, 25 Sept 2026
 - TBA - Secret Location, Toronto — Fri, 18 Sept 2026
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland — Fri, 18 Sept 2026
@@ -22,10 +23,9 @@ Marcal is a techno and house artist based in Brazil, tracked on soundcheck, with
 - Le Sucre, Lyon — Fri, 14 Aug 2026
 - VENT, Tokyo — Sat, 8 Aug 2026
 - Exit Reality, Singapore — Sat, 1 Aug 2026
-- Faust, Seoul — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Ignez, Efdemin, Zisko
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*

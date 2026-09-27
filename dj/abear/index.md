@@ -1,6 +1,6 @@
 # A'Bear
 
-A'Bear is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at King Alfred Phoenix Theatre, London on Sat, 12 Dec 2026.
+A'Bear is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at King Alfred Phoenix Theatre, London on Sat, 12 Dec 2026.
 
 A'Bear is an electronica and experimental artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Liverpool and London. Often billed alongside Odd Lust, Polypores and CURRENTMOODGIRL. Next up: King Alfred Phoenix Theatre, London on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ A'Bear is an electronica and experimental artist based in United Kingdom, tracke
 
 Odd Lust, Polypores, CURRENTMOODGIRL
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abear/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abear/)*

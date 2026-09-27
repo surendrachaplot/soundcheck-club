@@ -1,6 +1,6 @@
 # Nautiluss
 
-Nautiluss is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bambi's, Toronto on Sat, 10 Oct 2026.
+Nautiluss is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bambi's, Toronto on Sat, 10 Oct 2026.
 
 Nautiluss is a house and minimal artist based in Canada, tracked on soundcheck, with 22 sets logged across Toronto and Vancouver. Often billed alongside Rabzi, Chinelo and DJ Frog. Next up: Bambi's, Toronto on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Nautiluss is a house and minimal artist based in Canada, tracked on soundcheck, 
 
 Rabzi, Chinelo, DJ Frog
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nautiluss/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nautiluss/)*

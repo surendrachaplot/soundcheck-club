@@ -1,6 +1,6 @@
 # Twinsanity
 
-Twinsanity is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Killing Time, Melbourne on Sun, 27 Sept 2026.
+Twinsanity is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Killing Time, Melbourne on Sun, 27 Sept 2026.
 
 Twinsanity is a minimal and tech house artist tracked on soundcheck, with 28 sets logged across Athens, Melbourne and Sydney. Often billed alongside Nat Salih, Rev Lon and Dasha SPRW. Next up: Killing Time, Melbourne on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Twinsanity is a minimal and tech house artist tracked on soundcheck, with 28 set
 
 Nat Salih, Rev Lon, Dasha SPRW
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twinsanity/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twinsanity/)*

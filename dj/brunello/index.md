@@ -1,6 +1,6 @@
 # Brunello
 
-Brunello is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Brunello is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Brunello is a house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Amsterdam, Austin, Chicago and Ibiza and 7 more. Often billed alongside VTSS, Franky Rizardo and KI/KI. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
@@ -19,6 +19,7 @@ Brunello is a house and techno artist based in United States of America, tracked
 
 ## Recently played
 
+- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
 - Knockdown Center, New York City — Sun, 20 Sept 2026
 - TBA, Toronto — Sun, 6 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
@@ -31,4 +32,4 @@ Brunello is a house and techno artist based in United States of America, tracked
 
 VTSS, Franky Rizardo, KI/KI
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*

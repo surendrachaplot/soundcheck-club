@@ -1,19 +1,19 @@
 # Vanco
 
-Vanco is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 77, London on Sat, 26 Sept 2026.
+Vanco is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Savaya Bali, Bali on Sun, 18 Oct 2026.
 
-Vanco is an afro house and house artist based in South Africa, tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Athens and Bali and 15 more. Often billed alongside Sef Kombo, BADBOX and CLEIDO. Next up: 77, London on Sat 26 Sept.
+Vanco is an afro house and house artist based in South Africa, tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Athens and Bali and 15 more. Often billed alongside Sef Kombo, BADBOX and CLEIDO. Next up: Savaya Bali, Bali on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | 77 | London |
 | Sun, 18 Oct 2026 | Savaya Bali | Bali |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
 
 ## Recently played
 
+- 77, London — Sat, 26 Sept 2026
 - La Gravière D'epeisses, Geneva — Fri, 4 Sept 2026
 - Cavo Paradiso, Mykonos — Sun, 30 Aug 2026
 - Hï Ibiza, Ibiza — Sat, 11 Jul 2026
@@ -21,10 +21,9 @@ Vanco is an afro house and house artist based in South Africa, tracked on soundc
 - Cavo Paradiso, Mykonos — Mon, 29 Jun 2026
 - Ministry Of Sound, London — Fri, 19 Jun 2026
 - Praia Irmão, Lisbon — Thu, 18 Jun 2026
-- Het Sieraad, Amsterdam — Sat, 30 May 2026
 
 ## Shares bills with
 
 Sef Kombo, BADBOX, CLEIDO
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanco/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanco/)*

@@ -1,14 +1,13 @@
 # Dave Lee
 
-Dave Lee is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Merkur Casino, Leeds on Sat, 26 Sept 2026.
+Dave Lee is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 2 Oct 2026.
 
-Dave Lee is a house and disco artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 19 more. Often billed alongside Melvo Baptiste, Mousse T. and Natasha Diggs. Next up: TBA - Merkur Casino, Leeds on Sat 26 Sept.
+Dave Lee is a house and disco artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 19 more. Often billed alongside Melvo Baptiste, Mousse T. and Natasha Diggs. Next up: Amnesia Ibiza, Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Merkur Casino | Leeds |
 | Fri, 2 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 6 Nov 2026 | Sala Villanos | Madrid |
 | Fri, 27 Nov 2026 | Cabaret Sauvage | Paris |
@@ -16,6 +15,7 @@ Dave Lee is a house and disco artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
+- TBA - Merkur Casino, Leeds — Sat, 26 Sept 2026
 - Night Tales Loft, London — Fri, 7 Aug 2026
 - Apps Court, London — Sat, 11 Jul 2026
 - Amnesia Ibiza, Ibiza — Fri, 3 Jul 2026
@@ -23,10 +23,9 @@ Dave Lee is a house and disco artist based in United Kingdom, tracked on soundch
 - Two Tribes CAMPFIRE, London — Sat, 20 Jun 2026
 - Two Tribes CAMPFIRE, London — Sat, 20 Jun 2026
 - Sísí Rooftop Glasgow, Glasgow — Sun, 24 May 2026
-- Boeienweide Linkeroever, Antwerp — Sat, 9 May 2026
 
 ## Shares bills with
 
 Melvo Baptiste, Mousse T., Natasha Diggs
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeynegro/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeynegro/)*

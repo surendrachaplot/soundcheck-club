@@ -1,6 +1,6 @@
 # SARA KRIN
 
-SARA KRIN is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at DETROIT CLUB, Barcelona on Sun, 27 Sept 2026.
+SARA KRIN is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at DETROIT CLUB, Barcelona on Sun, 27 Sept 2026.
 
 SARA KRIN is a techno and industrial artist based in Spain, tracked on soundcheck, with 34 sets logged across Barcelona, Brussels, Lisbon and Los Angeles and 6 more. Often billed alongside DXPE (ES), X&trick and Carla Schmitt. Next up: DETROIT CLUB, Barcelona on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ SARA KRIN is a techno and industrial artist based in Spain, tracked on soundchec
 
 DXPE (ES), X&trick, Carla Schmitt
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarakrin/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarakrin/)*

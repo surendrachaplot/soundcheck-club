@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "SONDER" on Sat, 26 Sept 2026.
+Enter Shibuya is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "THE GUEST HOUSE presents WEEKDAY COMMON ROOM feat. IS THIS ON" on Mon, 28 Sept 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including age, ALEXANDER M, AMIDAdrive and Andreas Vural and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including age, ALEXANDER M, AMIDAdrive and Ayantula and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | SONDER | Andreas Vural, B (379), Katz 25, TARO TOKO |
 | Mon, 28 Sept 2026 | THE GUEST HOUSE presents WEEKDAY COMMON ROOM feat. IS THIS ON | Da Yama |
 | Tue, 29 Sept 2026 | ondaloca Final | Ayantula, CLESENT, Daitto, PUNK N MATRIX, SARA, SOICHI, na-na |
 | Wed, 30 Sept 2026 | Chairs | ALEXANDER M, Louis Shannon |
@@ -18,9 +17,10 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, 
 | Tue, 6 Oct 2026 | 青山蜂 - Aoyama Hachi - × ENTER | KUNPEI, LEFTOLD, Sunga, U-T, r1ku |
 | Wed, 7 Oct 2026 | CONNECT THE DOTS | AMIDAdrive, Labyrinthine, LØST, YUKIMASA |
 | Thu, 8 Oct 2026 | TENBIN | Shoma fr,dambosound |
+| Fri, 9 Oct 2026 | UWABASS vol.2 | Herbalistek, MAYUDEPTH, Naco (2), Pine, S.H.V, Yuoto Saito, xylon |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

@@ -1,6 +1,6 @@
 # PACS
 
-PACS is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+PACS is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
 
 PACS is a progressive house and techno artist based in Brazil, tracked on soundcheck, with 4 sets logged across Buenos Aires, Ibiza, Mexico City and Sydney. Often billed alongside Stephan Bodzin, 8KAYS and AMMARA. Next up: Maitland Showground, Sydney on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ PACS is a progressive house and techno artist based in Brazil, tracked on soundc
 
 Stephan Bodzin, 8KAYS, AMMARA
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pacs/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pacs/)*

@@ -1,6 +1,6 @@
 # Max Styler
 
-Max Styler is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Max Styler is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Max Styler is a house and tech house artist based in United States of America, tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
@@ -23,6 +23,7 @@ Max Styler is a house and tech house artist based in United States of America, t
 
 ## Recently played
 
+- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
 - Pacha Ibiza, Ibiza — Sun, 23 Aug 2026
 - TBA - Palacio Alsina, Microcentro, Buenos Aires — Sat, 8 Aug 2026
 - Radius, Chicago — Sat, 1 Aug 2026
@@ -30,10 +31,9 @@ Max Styler is a house and tech house artist based in United States of America, t
 - [UNVRS], Ibiza — Tue, 7 Jul 2026
 - Cavo Paradiso, Mykonos — Sun, 5 Jul 2026
 - [UNVRS], Ibiza — Sat, 4 Jul 2026
-- Gallery, London — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Layton Giordani, John Summit, Eli Brown
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*

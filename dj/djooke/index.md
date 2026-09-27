@@ -1,6 +1,6 @@
 # Djooke
 
-Djooke is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Moon Club, Lisbon on Sat, 26 Sept 2026.
+Djooke is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Moon Club, Lisbon on Sat, 26 Sept 2026.
 
 Djooke is a techno and house artist based in Portugal, tracked on soundcheck, with 27 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 3 more. Often billed alongside ANÍBAL, Saint Caboclo and Dimitri Tenot. Next up: Moon Club, Lisbon on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ Djooke is a techno and house artist based in Portugal, tracked on soundcheck, wi
 
 ## Recently played
 
+- Moon Club, Lisbon — Sat, 26 Sept 2026
 - Faust, Seoul — Fri, 11 Sept 2026
 - Horn, Bangkok — Sat, 5 Sept 2026
 - TILLATEC, Amsterdam — Sun, 2 Aug 2026
@@ -21,10 +22,9 @@ Djooke is a techno and house artist based in Portugal, tracked on soundcheck, wi
 - à la Folie Paris, Paris — Sat, 27 Jun 2026
 - NADA Lisbon, Lisbon — Sat, 20 Jun 2026
 - Moon Club, Lisbon — Sat, 25 Apr 2026
-- NADA Lisbon, Lisbon — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 ANÍBAL, Saint Caboclo, Dimitri Tenot
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djooke/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djooke/)*

@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Open Decks & Tischtennis" on Tue, 29 Sept 2026.
+Humboldthain Club is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Open Decks & Tischtennis" on Tue, 29 Sept 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including YOVA, Anne-Sophie Selig, Atze G and Callado and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 20 upcoming g
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

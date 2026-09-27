@@ -336,7 +336,7 @@
         <tr><td>"Heart any artist to add to your picks."</td><td>"Click here to favourite an item."</td></tr>
         <tr><td>"No upcoming London date yet."</td><td>"No results found (0)."</td></tr>
         <tr><td>Lowercase, plain, specific.</td><td>Title Case Marketing Speak.</td></tr>
-        <tr><td>"Seen live", "Wanna see"</td><td>"Watched", "Watchlist"</td></tr>
+        <tr><td>"Seen live", "Want to see"</td><td>"Watched", "Watchlist"</td></tr>
       </table>
       <div class="ds-note">Labels are short and human. UI eyebrows/labels are <b>UPPERCASE with wide tracking</b>; everything the user reads as a sentence is sentence case.</div>
     </section>
@@ -360,7 +360,7 @@
       </div>
 
       <h3 class="ds-h">Accent tints</h3>
-      <p class="ds-p">Salmon at low opacity creates "soft selected" fills and washes — used for hovered calendar cells, picked rows, the wanna-see fill, and CTA panels.</p>
+      <p class="ds-p">Salmon at low opacity creates "soft selected" fills and washes — used for hovered calendar cells, picked rows, the want-to-see fill, and CTA panels.</p>
       <div class="ds-swatches">
         <div class="ds-sw"><div class="chip" style="background:rgba(255,122,107,0.18); border-bottom:1px solid var(--border)"></div><div class="meta"><div class="nm">Wash strong</div><div class="hex">sunset @ 18%</div></div></div>
         <div class="ds-sw"><div class="chip" style="background:rgba(255,122,107,0.14)"></div><div class="meta"><div class="nm">Selected fill</div><div class="hex">sunset @ 14–16%</div></div></div>
@@ -528,7 +528,7 @@
       <table class="ds-tbl">
         <tr><th>Role</th><th>Unselected</th><th>Hover</th><th>Selected</th></tr>
         <tr><td><b>Primary (Play)</b> — one per view</td><td>Gradient fill, dusk edge, ink text</td><td>brightness ↓ / saturate ↑</td><td>— (it acts, it doesn't select)</td></tr>
-        <tr><td><b>Toggle</b> — Follow, Interested, I'm going, Wanna see, I've been</td><td>Transparent, 1.5px <code>--line-2</code> border, fg text</td><td>Violet border + <code>--sel-weak</code> wash</td><td><code>--sel</code> fill, white text, ✓</td></tr>
+        <tr><td><b>Toggle</b> — Follow, Interested, I'm going, Want to see, I've been</td><td>Transparent, 1.5px <code>--line-2</code> border, fg text</td><td>Violet border + <code>--sel-weak</code> wash</td><td><code>--sel</code> fill, white text, ✓</td></tr>
         <tr><td><b>Selection chip/tile</b> — dates, genres, filters, scopes, tabs</td><td>Surface-2, line border, muted text</td><td>Violet border, fg text</td><td><code>--sel</code> fill, white text</td></tr>
         <tr><td><b>Utility</b> — Share, Tickets, Settings</td><td>Surface-2, line border</td><td>Surface-3 / violet hint</td><td>—</td></tr>
         <tr><td><b>Icon toggle</b> — heart, bookmark, seen tick</td><td>Muted stroke</td><td>Violet</td><td>Violet fill</td></tr>
@@ -542,7 +542,7 @@
       <h2>Toggles &amp; switches</h2>
       <p class="ds-p">Segmented switches, quick-chips, date tiles and the artist/profile <b>tab pills</b> share one selected state: <b>violet fill (<code>--sel</code>), white text</b>. Idle is bordered/muted; hover hints violet. Tab rows scroll horizontally with a right-edge fade (<code>.fp-tabs.fade-r</code>) whenever more pills sit offscreen — that fade is the discovery affordance.</p>
       <div class="ds-card" style="display:flex;flex-direction:column;gap:16px;align-items:flex-start">
-        <div class="switch"><a class="on">Wanna see</a><a>Seen live</a></div>
+        <div class="switch"><a class="on">Want to see</a><a>Seen live</a></div>
         <div class="ds-chip-row">
           <button class="qchip on">Weekend</button>
           <button class="qchip">Tonight</button>
@@ -603,7 +603,7 @@
       </div>
       <table class="ds-tbl">
         <tr><th>Control</th><th>Meaning</th></tr>
-        <tr><td>Heart (filled)</td><td>Wanna see (artist) / Saved (event)</td></tr>
+        <tr><td>Heart (filled)</td><td>Want to see (artist) / Saved (event)</td></tr>
         <tr><td>Check (filled)</td><td>Seen live</td></tr>
         <tr><td>Share nodes</td><td>Share this artist / event</td></tr>
       </table>
@@ -633,7 +633,7 @@
     <section class="ds-sec" id="tiles">
       <div class="ds-eyebrow">Components</div>
       <h2>Artist tiles</h2>
-      <p class="ds-p">1:1 gradient (or real artwork) with the name bottom-left and an optional sunset ✓ for "seen". Used on profile shelves — Wanna-see and Seen-live.</p>
+      <p class="ds-p">1:1 gradient (or real artwork) with the name bottom-left and an optional sunset ✓ for "seen". Used on profile shelves — Want to see and Seen live.</p>
       <div class="ds-card">
         <div class="ptiles">
           <div class="ptile" style="background:linear-gradient(150deg,hsl(342 62% 50%),hsl(4 42% 14%))"><span class="nm">Objekt</span></div>
@@ -683,7 +683,7 @@
     <section class="ds-sec" id="hero">
       <div class="ds-eyebrow">Components</div>
       <h2>Hero header</h2>
-      <p class="ds-p">The top block of the <b>artist</b>, <b>venue</b> and <b>promoter</b> pages: square avatar + name + social pills, with the description flowing alongside on desktop, and an action row underneath (Tune&nbsp;in / Wanna&nbsp;see / Seen, or Follow / Play&nbsp;next). <code>.artist-head.artist-hero</code> + <code>.artist-actions</code>. Currently built inline on all three pages — tracker reuse <b>#1</b>: extract a shared <code>heroHeaderHTML()</code>.</p>
+      <p class="ds-p">The top block of the <b>artist</b>, <b>venue</b> and <b>promoter</b> pages: square avatar + name + social pills, with the description flowing alongside on desktop, and an action row underneath (Tune&nbsp;in / Want&nbsp;to&nbsp;see / Seen, or Follow / Play&nbsp;next). <code>.artist-head.artist-hero</code> + <code>.artist-actions</code>. Currently built inline on all three pages — tracker reuse <b>#1</b>: extract a shared <code>heroHeaderHTML()</code>.</p>
       <div class="ds-card">
         <div class="artist-head artist-hero">
           <div class="artist-av" style="background:linear-gradient(150deg,hsl(342 62% 50%),hsl(4 42% 14%))"></div>
@@ -694,7 +694,7 @@
         </div>
         <div class="artist-actions">
           <button class="act-btn radio">▶&nbsp; Tune in</button>
-          <button class="act-btn on">♥&nbsp; Wanna see</button>
+          <button class="act-btn on">♥&nbsp; Want to see</button>
           <button class="act-btn">✓&nbsp; Seen live</button>
         </div>
       </div>
@@ -754,10 +754,10 @@
       <p class="ds-p">Big sunset Bricolage numbers over tiny uppercase labels — the Letterboxd-y "this many people" texture. Inline panel-stats use bold foreground numbers in a muted sentence.</p>
       <div class="ds-card" style="display:flex;flex-direction:column;gap:20px;align-items:flex-start">
         <div class="agg-big"><span class="num">4.6</span><span class="of">avg from 5 logged gigs</span></div>
-        <div class="panel-stat"><span><b>12</b> have seen them live</span><span><b>30</b> wanna see</span><span><b>2</b> friends seen</span></div>
+        <div class="panel-stat"><span><b>12</b> have seen them live</span><span><b>30</b> want to see</span><span><b>2</b> friends seen</span></div>
         <div class="ds-demo">
           <div class="hub-stat"><div class="n">23</div><div class="l">Seen</div></div>
-          <div class="hub-stat"><div class="n">41</div><div class="l">Wanna see</div></div>
+          <div class="hub-stat"><div class="n">41</div><div class="l">Want to see</div></div>
           <div class="hub-stat"><div class="n">12</div><div class="l">Gigs</div></div>
         </div>
       </div>

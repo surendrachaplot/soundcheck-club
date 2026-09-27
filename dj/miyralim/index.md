@@ -1,6 +1,6 @@
 # Miyra Lim
 
-Miyra Lim is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Urban-Loritz Platz, Vienna on Sun, 27 Sept 2026.
+Miyra Lim is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Urban-Loritz Platz, Vienna on Sun, 27 Sept 2026.
 
 Miyra Lim is a house and trance artist tracked on soundcheck, with 33 sets logged across Berlin, Copenhagen and Vienna. Often billed alongside JP Bechamel, AfroNinja and Reeno Reluv. Next up: TBA - Urban-Loritz Platz, Vienna on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Miyra Lim is a house and trance artist tracked on soundcheck, with 33 sets logge
 
 JP Bechamel, AfroNinja, Reeno Reluv
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miyralim/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miyralim/)*

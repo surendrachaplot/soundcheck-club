@@ -1,6 +1,6 @@
 # Maaya
 
-Maaya is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "BERLIN BRAVES INFAMOUS AFTERPARTY XXL" on Sun, 27 Sept 2026.
+Maaya is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "BERLIN BRAVES INFAMOUS AFTERPARTY XXL" on Sun, 27 Sept 2026.
 
 Maaya is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including APOLONIA, Emo Rugene, Helina and HERNSY HEARNS and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
 
@@ -14,4 +14,4 @@ Maaya is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line
 
 Revalerstr. 99, 10245 Berlin, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*

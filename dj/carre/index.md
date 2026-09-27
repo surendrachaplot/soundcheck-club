@@ -1,6 +1,6 @@
 # Carré
 
-Carré is a Bass and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Point Ephémère, Paris on Wed, 30 Sept 2026.
+Carré is a Bass and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Point Ephémère, Paris on Wed, 30 Sept 2026.
 
 Carré is a bass and techno artist based in United States of America, tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Brighton and Bristol and 20 more. Often billed alongside Samwise (US), Darwin and Seyer (UK). Next up: Point Ephémère, Paris on Wed 30 Sept.
 
@@ -33,4 +33,4 @@ Carré is a bass and techno artist based in United States of America, tracked on
 
 Samwise (US), Darwin, Seyer (UK)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*

@@ -1,6 +1,6 @@
 # Akasha Las Dalias Club - Ibiza
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 21 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "SUPERNOVA" on Sat, 26 Sept 2026.
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 21 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "SUPERNOVA" on Sat, 26 Sept 2026.
 
 Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 21 upcoming gigs, with line-ups including Alfonso Ares, Audera, Bill Hates and BOHEM and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
@@ -23,4 +23,4 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 2
 
 Carretera San Carlos Km 12, Ibiza, Spain 07850., Ibiza
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*

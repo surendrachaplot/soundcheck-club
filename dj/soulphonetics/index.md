@@ -1,6 +1,6 @@
 # Soulphonetics
 
-Soulphonetics is a Deep House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Masada, Chicago on Sun, 27 Sept 2026.
+Soulphonetics is a Deep House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Masada, Chicago on Sun, 27 Sept 2026.
 
 Soulphonetics is a deep house and funk / soul artist tracked on soundcheck, with 27 sets logged across Chicago. Often billed alongside Karl Almaria, Chachi Guerrero and Czboogie. Next up: Masada, Chicago on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Soulphonetics is a deep house and funk / soul artist tracked on soundcheck, with
 
 Karl Almaria, Chachi Guerrero, Czboogie
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulphonetics/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulphonetics/)*

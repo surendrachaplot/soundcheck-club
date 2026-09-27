@@ -1,6 +1,6 @@
 # Jorissen
 
-Jorissen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Spkrbox, Detroit on Sat, 26 Sept 2026.
+Jorissen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Spkrbox, Detroit on Sat, 26 Sept 2026.
 
 Jorissen is a house and techno artist based in United States of America, tracked on soundcheck, with 100 sets logged across Berlin, Chicago, Detroit and New York City. Often billed alongside Andrea Ghita, James and Fusegrade. Next up: Spkrbox, Detroit on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Jorissen is a house and techno artist based in United States of America, tracked
 
 ## Recently played
 
+- Spkrbox, Detroit — Sat, 26 Sept 2026
 - Spkrbox, Detroit — Fri, 11 Sept 2026
 - Spkrbox, Detroit — Fri, 28 Aug 2026
 - Spkrbox, Detroit — Fri, 7 Aug 2026
@@ -19,10 +20,9 @@ Jorissen is a house and techno artist based in United States of America, tracked
 - Marble Bar, Detroit — Sat, 25 Jul 2026
 - Spkrbox, Detroit — Fri, 24 Jul 2026
 - Spkrbox, Detroit — Fri, 10 Jul 2026
-- Spkrbox, Detroit — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Andrea Ghita, James (6), Fusegrade
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorissen/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorissen/)*

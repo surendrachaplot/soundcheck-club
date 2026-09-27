@@ -1,6 +1,6 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 25 Sept 2026.
+MARRØN is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 25 Sept 2026.
 
 MARRØN is a techno and house artist based in Netherlands, tracked on soundcheck, with 268 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Blasha & Allatt, Rene Wise and Freddy K. Next up: TBA - Los Angeles, Los Angeles on Fri 25 Sept.
 
@@ -23,6 +23,7 @@ MARRØN is a techno and house artist based in Netherlands, tracked on soundcheck
 
 ## Recently played
 
+- TBA - Los Angeles, Los Angeles — Sat, 26 Sept 2026
 - TBA - Los Angeles, Los Angeles — Fri, 25 Sept 2026
 - Smoke & Mirrors, Chicago — Fri, 25 Sept 2026
 - Flash, Washington DC — Sat, 19 Sept 2026
@@ -30,10 +31,9 @@ MARRØN is a techno and house artist based in Netherlands, tracked on soundcheck
 - Descent, Boston — Thu, 17 Sept 2026
 - TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - The Bassement, Madrid — Sat, 5 Sept 2026
-- Fuchs2, Prague — Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Blasha & Allatt, Rene Wise, Freddy K
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

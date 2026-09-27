@@ -1,15 +1,13 @@
 # 1990
 
-1990 is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Midnight Artefacts - Just Rory & Flair" on Sat, 26 Sept 2026.
+1990 is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Samizdat's 5th Birthday" on Thu, 8 Oct 2026.
 
-1990 is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs, with line-ups including Babyccino, Belle DeHell, HIGHSHIFTING and Just Rory and 2 more. Browse upcoming dates, start times and who's playing. 427 Sauchiehall Street G2 3LG.
+1990 is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including Belle DeHell and HIGHSHIFTING. Browse upcoming dates, start times and who's playing. 427 Sauchiehall Street G2 3LG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Midnight Artefacts - Just Rory & Flair | Just Rory |
-| Sat, 26 Sept 2026 | STRATA PRESENTS: Babyccino + VXYX with Residents | Babyccino, VXYX, spleen (2) |
 | Thu, 8 Oct 2026 | Samizdat's 5th Birthday | HIGHSHIFTING |
 | Fri, 9 Oct 2026 | WOR$T GIRL IN GLASGOW - Beg 4 U SLAYYYTER SPECIAL | Belle DeHell |
 | Sat, 31 Oct 2026 | EROTICLUB |  |
@@ -18,4 +16,4 @@
 
 427 Sauchiehall Street G2 3LG, Glasgow
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/1990/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/1990/)*

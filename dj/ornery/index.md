@@ -1,20 +1,20 @@
 # Ornery
 
-Ornery is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Matrix Club Berlin (Techno Stage), Berlin on Sat, 26 Sept 2026.
+Ornery is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - 50:HERTZ HOUSE & TECHNO CLUB, Amsterdam on Fri, 23 Oct 2026.
 
-Ornery is a techno and progressive house artist based in Italy, tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Berlin and Geneva and 3 more. Often billed alongside 6RAJ, Barbur and FREEGO. Next up: Matrix Club Berlin (Techno Stage), Berlin on Sat 26 Sept.
+Ornery is a techno and progressive house artist based in Italy, tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Berlin and Geneva and 3 more. Often billed alongside 6RAJ, Barbur and FREEGO. Next up: TBA - 50:HERTZ HOUSE & TECHNO CLUB, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Matrix Club Berlin (Techno Stage) | Berlin |
 | Fri, 23 Oct 2026 | TBA - 50:HERTZ HOUSE & TECHNO CLUB | Amsterdam |
 | Fri, 23 Oct 2026 | TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Club Baggerbeest | Amsterdam |
 
 ## Recently played
 
+- Matrix Club Berlin (Techno Stage), Berlin — Sat, 26 Sept 2026
 - Les Caves des Vollandes, Geneva — Fri, 25 Sept 2026
 - Matrix Club Berlin, Berlin — Sat, 25 Jul 2026
 - Matrix Club Berlin (Techno Stage), Berlin — Fri, 12 Jun 2026
@@ -22,10 +22,9 @@ Ornery is a techno and progressive house artist based in Italy, tracked on sound
 - Birgit, Berlin — Fri, 29 May 2026
 - Riverside Studios, Berlin — Sat, 9 May 2026
 - TBA - VIP Späti, Neukölln, Berlin — Fri, 1 May 2026
-- Cosmic Kaspar, Berlin — Thu, 6 Nov 2025
 
 ## Shares bills with
 
 6RAJ, Barbur, FREEGO
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ornery/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ornery/)*

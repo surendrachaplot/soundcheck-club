@@ -1,6 +1,6 @@
 # Shed
 
-Shed is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Nitsa Club, Barcelona on Fri, 2 Oct 2026.
+Shed is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Nitsa Club, Barcelona on Fri, 2 Oct 2026.
 
 Shed is a techno and house artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Head High, Skee Mask and CCL. Next up: Nitsa Club, Barcelona on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Shed is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Head High, Skee Mask, CCL
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shed/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shed/)*

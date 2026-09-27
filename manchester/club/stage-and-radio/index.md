@@ -1,6 +1,6 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 27 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Pura Vida presents: Cristi Cons" on Sat, 26 Sept 2026.
+Stage and Radio is a music venue in Manchester with 27 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Pura Vida presents: Cristi Cons" on Sat, 26 Sept 2026.
 
 Stage and Radio is a music venue in Manchester listed on soundcheck. 27 upcoming gigs, with line-ups including adamine, AJ Jonesy, Ali Roche and Anah and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 27 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

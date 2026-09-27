@@ -1,6 +1,6 @@
 # BLACK ANTHEM RESTORE
 
-BLACK ANTHEM RESTORE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tresor / Globus, Berlin on Mon, 28 Sept 2026.
+BLACK ANTHEM RESTORE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Tresor / Globus, Berlin on Mon, 28 Sept 2026.
 
 BLACK ANTHEM RESTORE is a techno and house artist based in Germany, tracked on soundcheck, with 118 sets logged across Athens, Bangkok, Berlin and Prague and 2 more. Often billed alongside Inverse Element, DJ Pete and Alexander Kowalski. Next up: Tresor / Globus, Berlin on Mon 28 Sept.
 
@@ -27,4 +27,4 @@ BLACK ANTHEM RESTORE is a techno and house artist based in Germany, tracked on s
 
 Inverse Element, DJ Pete, Alexander Kowalski
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackanthemrestore/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackanthemrestore/)*

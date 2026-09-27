@@ -1,6 +1,6 @@
 # Sophie Forrest
 
-Sophie Forrest is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Club 77, Sydney on Fri, 9 Oct 2026.
+Sophie Forrest is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Club 77, Sydney on Fri, 9 Oct 2026.
 
 Sophie Forrest is a techno and house artist based in Australia, tracked on soundcheck, with 47 sets logged across Melbourne and Sydney. Often billed alongside Mike Callander, 3rd Orbit and Jo Christy. Next up: Club 77, Sydney on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Sophie Forrest is a techno and house artist based in Australia, tracked on sound
 
 Mike Callander, 3rd Orbit, Jo Christy
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophieforrest/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophieforrest/)*

@@ -1,6 +1,6 @@
 # Champion
 
-Champion is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Warehouse, Leeds on Sat, 26 Sept 2026.
+Champion is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Warehouse, Leeds on Sat, 26 Sept 2026.
 
 Champion is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Barcelona and Brighton and 17 more. Often billed alongside Oppidan, Bakey and MPH. Next up: The Warehouse, Leeds on Sat 26 Sept.
 
@@ -16,6 +16,7 @@ Champion is a garage and bass artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
+- The Warehouse, Leeds — Sat, 26 Sept 2026
 - PRST, Vienna — Sat, 12 Sept 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - Quarters, Brighton — Fri, 24 Jul 2026
@@ -23,10 +24,9 @@ Champion is a garage and bass artist based in United Kingdom, tracked on soundch
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - Holland Park, Vancouver — Thu, 2 Jul 2026
 - Ministry Of Sound, London — Sat, 6 Jun 2026
-- Smoke & Mirrors, Chicago — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 Oppidan, Bakey, MPH (1)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*

@@ -1,6 +1,6 @@
 # Guigas
 
-Guigas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Lisbon on Sat, 26 Sept 2026.
+Guigas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Lisbon on Sat, 26 Sept 2026.
 
 Guigas is a house and techno artist based in Portugal, tracked on soundcheck, with 40 sets logged across Barcelona, Lisbon, London and Porto. Often billed alongside ozmin, Stckman and Elless & Benn. Next up: TBA, Lisbon on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Guigas is a house and techno artist based in Portugal, tracked on soundcheck, wi
 
 ## Recently played
 
+- TBA, Lisbon — Sat, 26 Sept 2026
 - Lisa, Lisbon — Sat, 11 Jul 2026
 - Myra, Lisbon — Sat, 27 Jun 2026
 - 5A, Lisbon — Sat, 13 Jun 2026
@@ -19,10 +20,9 @@ Guigas is a house and techno artist based in Portugal, tracked on soundcheck, wi
 - The Lion and Lamb, London — Thu, 23 Apr 2026
 - Ministerium Club, Lisbon — Fri, 10 Apr 2026
 - Harbour Music Shelter, Lisbon — Sun, 22 Feb 2026
-- Rūmu, Lisbon — Fri, 23 Jan 2026
 
 ## Shares bills with
 
 ozmin, Stckman, Elless & Benn
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guigas/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guigas/)*

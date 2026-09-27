@@ -1,6 +1,6 @@
 # Gianca - Murazzi
 
-Gianca - Murazzi is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Echoes from SAVANA by Alex Neri - FUTURETRÒ" on Sat, 26 Sept 2026.
+Gianca - Murazzi is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Echoes from SAVANA by Alex Neri - FUTURETRÒ" on Sat, 26 Sept 2026.
 
 Gianca - Murazzi is a music venue in Turin listed on soundcheck. 4 upcoming gigs, with line-ups including Alex Neri, Andrea Introvigne, D Stone and Jamahr and 2 more. Browse upcoming dates, start times and who's playing. Torino, 10123, Murazzi del Po Gipo Farassino.
 
@@ -17,4 +17,4 @@ Gianca - Murazzi is a music venue in Turin listed on soundcheck. 4 upcoming gigs
 
 Torino, 10123, Murazzi del Po Gipo Farassino, Turin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/gianca-murazzi/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/gianca-murazzi/)*

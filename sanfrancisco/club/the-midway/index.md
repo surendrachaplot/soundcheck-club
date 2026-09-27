@@ -1,6 +1,6 @@
 # The Midway
 
-The Midway is a music venue in San Francisco/Oakland with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "horsegiirL" on Sun, 27 Sept 2026.
+The Midway is a music venue in San Francisco/Oakland with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "horsegiirL" on Sun, 27 Sept 2026.
 
 The Midway is a music venue in San Francisco/Oakland listed on soundcheck. 8 upcoming gigs, with line-ups including Audien, Bag Raiders, chungtech and espurr and 2 more. Browse upcoming dates, start times and who's playing. 900 Marin Street, San Francisco, CA 94124.
 
@@ -21,4 +21,4 @@ The Midway is a music venue in San Francisco/Oakland listed on soundcheck. 8 upc
 
 900 Marin Street, San Francisco, CA 94124, San Francisco/Oakland
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*

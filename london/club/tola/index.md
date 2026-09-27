@@ -1,6 +1,6 @@
 # Tola
 
-Tola is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Riddim Division: Summer Send Off w/ Klose One plus more" on Sat, 26 Sept 2026.
+Tola is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Riddim Division: Summer Send Off w/ Klose One plus more" on Sat, 26 Sept 2026.
 
 Tola is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Althoff, Cristian Sirica, Daisybelle and dan.e.l.a and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
@@ -23,4 +23,4 @@ Tola is a music venue in London listed on soundcheck. 10 upcoming gigs, with lin
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 17 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Wellness Check presents: Jen Cardini, Konduku, Buttechno (live), Rachana" on Sat, 26 Sept 2026.
+TBA - DTLA is a music venue in Los Angeles with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Wellness Check presents: Jen Cardini, Konduku, Buttechno (live), Rachana" on Sat, 26 Sept 2026.
 
 TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 17 upcoming gigs, with line-ups including 6 SENSE, MORENXXX, agraybé and Anenon and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 17 upcoming gig
 | Wed, 14 Oct 2026 | Off Record presents 14th Door | Mesmé, Niqi |
 | Sat, 17 Oct 2026 | bodyshop | MORENXXX, Neueportrait, Noah Selene, REDLINERS |
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

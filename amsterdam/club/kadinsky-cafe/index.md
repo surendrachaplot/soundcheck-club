@@ -1,14 +1,13 @@
 # Kadinsky Cafe
 
-Kadinsky Cafe is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "KADINKY SESSIONS 076" on Sat, 26 Sept 2026.
+Kadinsky Cafe is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Dive Deep: Melodic Sessions - Volume I" on Sat, 3 Oct 2026.
 
-Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Abity, Agustin Ficarra, Albano Bastonero and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
+Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Abity, Agustin Ficarra, Albano Bastonero and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | KADINKY SESSIONS 076 | Around Us, Francesco Pico, MC PPholl |
 | Sat, 3 Oct 2026 | Dive Deep: Melodic Sessions - Volume I | Main Identity, Patrick Krause, Usatov |
 | Tue, 20 Oct 2026 | Monkey Safari Album presentation |  |
 | Wed, 21 Oct 2026 | Purrfection X LuchiSveta Label Showcase | Forty Cats, SisterSweet, Zehv |
@@ -18,9 +17,10 @@ Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 12 upcoming gi
 | Fri, 23 Oct 2026 | Magnitude Recordings Label Sessions | Around Us, Francesco Pico, Heaven INC., Paul Hazendonk, Rikken, SisterSweet |
 | Sat, 24 Oct 2026 | Manual Family Get Together 2026 | Around Us, BODAI, Camiel Villa, DJ Zombi, Francesco Pico, MC PPholl, NOIYSE PROJECT, Paul Hazendonk, Qbical, QuiQui, ROARK |
 | Sat, 24 Oct 2026 | Ruben Karapetyan presents Meet & Greet | ALISHA, Abity, Dowden, Kostya Outta, Not Demure |
+| Sun, 25 Oct 2026 | Kadinsky Sessions Closing Party |  |
 
 ## Address
 
 Zoutsteeg 9-11 1012 LX Amsterdam, Amsterdam
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*

@@ -1,6 +1,6 @@
 # Lo Simple
 
-Lo Simple is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
+Lo Simple is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
 
 Lo Simple is an electronic artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Angel D'lite, Authentically Plastic and Beneath. Next up: M.O.T, London on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Lo Simple is an electronic artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
+- M.O.T, London — Sat, 26 Sept 2026
 - Ormside Projects, London — Thu, 21 May 2026
 - Vespers Club, London — Wed, 26 Nov 2025
 - M.O.T, London — Thu, 4 Sept 2025
@@ -21,4 +22,4 @@ Lo Simple is an electronic artist based in United Kingdom, tracked on soundcheck
 
 Angel D'lite, Authentically Plastic, Beneath
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/losimple/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/losimple/)*

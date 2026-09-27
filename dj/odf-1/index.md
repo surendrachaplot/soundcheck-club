@@ -1,6 +1,6 @@
 # ODF (1)
 
-ODF (1) is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Stealth, Nottingham on Fri, 6 Nov 2026.
+ODF (1) is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Stealth, Nottingham on Fri, 6 Nov 2026.
 
 ODF is a garage and house artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Brighton, Brisbane, Bristol and Cork and 9 more. Often billed alongside Fiaa, Jackum and Just Jane. Next up: Stealth, Nottingham on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ ODF is a garage and house artist based in United Kingdom, tracked on soundcheck,
 
 Fiaa, Jackum, Just Jane
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odf-1/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odf-1/)*

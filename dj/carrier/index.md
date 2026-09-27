@@ -1,6 +1,6 @@
 # Carrier
 
-Carrier is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Knockdown Center, New York City on Sat, 26 Sept 2026.
+Carrier is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Knockdown Center, New York City on Sat, 26 Sept 2026.
 
 Carrier is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: Knockdown Center, New York City on Sat 26 Sept.
 
@@ -16,6 +16,7 @@ Carrier is a techno and experimental artist based in United Kingdom, tracked on 
 
 ## Recently played
 
+- Knockdown Center, New York City — Sat, 26 Sept 2026
 - TRANSMISSION DC, Washington DC — Fri, 25 Sept 2026
 - Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Blå, Oslo — Thu, 10 Sept 2026
@@ -23,10 +24,9 @@ Carrier is a techno and experimental artist based in United Kingdom, tracked on 
 - 09h30-05h30, Antwerp — Sat, 5 Sept 2026
 - TBA - LFO, Madrid — Sat, 29 Aug 2026
 - Gare Porto, Porto — Fri, 28 Aug 2026
-- Haus der Visionäre, Berlin — Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Emily Jeanne, Patrick Russell, Zohar
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*

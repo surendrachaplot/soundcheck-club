@@ -1,6 +1,6 @@
 # Surusinghe
 
-Surusinghe is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Le Sucre, Lyon on Sat, 26 Sept 2026.
+Surusinghe is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Le Sucre, Lyon on Sat, 26 Sept 2026.
 
 Surusinghe is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 40 more. Often billed alongside Blawan, Moktar and Special Request. Next up: Le Sucre, Lyon on Sat 26 Sept.
 
@@ -18,6 +18,7 @@ Surusinghe is a techno and bass artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
+- Le Sucre, Lyon — Sat, 26 Sept 2026
 - Tuinen van West, Amsterdam — Sat, 29 Aug 2026
 - Palais, London — Sat, 15 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 8 Aug 2026
@@ -25,10 +26,9 @@ Surusinghe is a techno and bass artist based in United Kingdom, tracked on sound
 - Elsewhere, New York City — Fri, 17 Jul 2026
 - Amnesia Ibiza, Ibiza — Mon, 6 Jul 2026
 - The Great Northern, San Francisco/Oakland — Sun, 28 Jun 2026
-- Barn Radio, Portland — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Blawan, Moktar, Special Request
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surusinghe/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surusinghe/)*

@@ -1,6 +1,6 @@
 # Système
 
-Système is a music venue in Montreal with 22 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Flush" on Sat, 26 Sept 2026.
+Système is a music venue in Montreal with 22 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Flush" on Sat, 26 Sept 2026.
 
 Système is a music venue in Montreal listed on soundcheck. 22 upcoming gigs, with line-ups including AṢKIM, AADJA, Adam Solomon and Alina (MTL) and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
@@ -23,4 +23,4 @@ Système is a music venue in Montreal listed on soundcheck. 22 upcoming gigs, wi
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

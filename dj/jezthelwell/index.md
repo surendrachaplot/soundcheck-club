@@ -1,6 +1,6 @@
 # Jez Thelwell
 
-Jez Thelwell is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at 81 Renshaw Street, Liverpool on Thu, 22 Oct 2026.
+Jez Thelwell is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at 81 Renshaw Street, Liverpool on Thu, 22 Oct 2026.
 
 Jez Thelwell is an electronica and experimental artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Liverpool. Often billed alongside Alex Spiers, Groß Aktiv and James Adrian Brown. Next up: 81 Renshaw Street, Liverpool on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Jez Thelwell is an electronica and experimental artist based in United Kingdom, 
 
 Alex Spiers, Groß Aktiv, James Adrian Brown
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jezthelwell/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jezthelwell/)*

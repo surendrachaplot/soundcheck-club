@@ -1,6 +1,6 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 22 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "BRESH" on Sat, 26 Sept 2026.
+Ministry Of Sound is a music venue in London with 22 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "BRESH" on Sat, 26 Sept 2026.
 
 Ministry Of Sound is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including Alastair Lane, Amtrac, Anderdox and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
@@ -23,4 +23,4 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 22 upcoming g
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

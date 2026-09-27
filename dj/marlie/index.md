@@ -1,6 +1,6 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at fabric, London on Sun, 27 Sept 2026.
+Marlie is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at fabric, London on Sun, 27 Sept 2026.
 
 Marlie is a house and tech house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: fabric, London on Sun 27 Sept.
 
@@ -36,4 +36,4 @@ Marlie is a house and tech house artist tracked on soundcheck, with 131 sets log
 
 Enzo Siragusa, Traumer, PACH
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*

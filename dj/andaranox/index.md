@@ -1,6 +1,6 @@
 # Andara Nox
 
-Andara Nox is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Insomnia, Berlin on Sat, 26 Sept 2026.
+Andara Nox is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Insomnia, Berlin on Sat, 26 Sept 2026.
 
 Andara Nox is a techno and trance artist based in Venezuela, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Anna Hoeber, April the pink and Bambii. Next up: Insomnia, Berlin on Sat 26 Sept.
 
@@ -11,8 +11,12 @@ Andara Nox is a techno and trance artist based in Venezuela, tracked on soundche
 | Sat, 26 Sept 2026 | Insomnia | Berlin |
 | Fri, 30 Oct 2026 | ://about blank | Berlin |
 
+## Recently played
+
+- Insomnia, Berlin — Sat, 26 Sept 2026
+
 ## Shares bills with
 
 Anna Hoeber, April the pink, Bambii
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andaranox/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andaranox/)*

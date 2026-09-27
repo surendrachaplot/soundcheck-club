@@ -1,6 +1,6 @@
 # Aire Miami
 
-Aire Miami is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Pendulum by Steve Lawler" on Sat, 26 Sept 2026.
+Aire Miami is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Pendulum by Steve Lawler" on Sat, 26 Sept 2026.
 
 Aire Miami is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including Conosur, Ella Romand, Goa'98 and Steve Lawler and 1 more. Browse upcoming dates, start times and who's playing. 111 NE 20th Street, Miami, FL 33137, USA.
 
@@ -15,4 +15,4 @@ Aire Miami is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with
 
 111 NE 20th Street, Miami, FL 33137, USA, Miami
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/aire-miami/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/aire-miami/)*

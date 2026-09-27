@@ -1,6 +1,6 @@
 # Viktor Kampf
 
-Viktor Kampf is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Sensorium, Berlin on Fri, 9 Oct 2026.
+Viktor Kampf is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sensorium, Berlin on Fri, 9 Oct 2026.
 
 Viktor Kampf is a techno and tech house artist based in Germany, tracked on soundcheck, with 100 sets logged across Berlin and Brussels. Often billed alongside Ilyas S, Camilla Tarantino and Strasse 95. Next up: Sensorium, Berlin on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Viktor Kampf is a techno and tech house artist based in Germany, tracked on soun
 
 Ilyas S, Camilla Tarantino, Strasse 95
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorkampf/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorkampf/)*

@@ -1,6 +1,6 @@
 # D'Julz
 
-D'Julz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Marble Bar, Detroit on Sat, 26 Sept 2026.
+D'Julz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Marble Bar, Detroit on Sat, 26 Sept 2026.
 
 D'Julz is a house and minimal artist based in France, tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Alexander Skancke, DJ Senc and Shonky. Next up: Marble Bar, Detroit on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ D'Julz is a house and minimal artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
+- Marble Bar, Detroit — Sat, 26 Sept 2026
 - Green Room NYC, New York City — Fri, 25 Sept 2026
 - BRET, Amsterdam — Sat, 12 Sept 2026
 - St Brides Church, Liverpool — Sat, 5 Sept 2026
@@ -19,10 +20,9 @@ D'Julz is a house and minimal artist based in France, tracked on soundcheck, wit
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 4 Jul 2026
 - Bosc Tancat / Diverbosc, Barcelona — Sat, 20 Jun 2026
 - MR Porter Barcelona, Barcelona — Sat, 20 Jun 2026
-- TBA - Citadelle de Marseille, Marseille — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Alexander Skancke, DJ Senc, Shonky
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*

@@ -1,6 +1,6 @@
 # Klose One
 
-Klose One is a Techno and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tola, London on Sat, 26 Sept 2026.
+Klose One is a Techno and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Tola, London on Sat, 26 Sept 2026.
 
 Klose One is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across London and Nottingham. Often billed alongside Paleman, Benton (UK) and DJ Say Less. Next up: Tola, London on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ Klose One is a techno and garage artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
+- Tola, London — Sat, 26 Sept 2026
 - radial, London — Sun, 6 Sept 2026
 - Last Arch, London — Fri, 17 Jul 2026
 - radial, London — Sat, 27 Jun 2026
@@ -21,10 +22,9 @@ Klose One is a techno and garage artist based in United Kingdom, tracked on soun
 - The Glove That Fits, London — Fri, 1 May 2026
 - Corsica Studios, London — Sat, 20 Dec 2025
 - The Cause, London — Sat, 30 Aug 2025
-- Below Stone Nest, London — Sun, 24 Aug 2025
 
 ## Shares bills with
 
 Paleman, Benton (UK), DJ Say Less
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloseone/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloseone/)*

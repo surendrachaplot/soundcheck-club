@@ -1,6 +1,6 @@
 # Lou Nour
 
-Lou Nour is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
+Lou Nour is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
 
 Lou Nour is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Berlin, Bristol, Brussels and Copenhagen and 5 more. Often billed alongside SICARIA, Ahadadream and Alexi Shell. Next up: The Prospect Building, Bristol on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Lou Nour is a techno and bass artist based in United Kingdom, tracked on soundch
 
 SICARIA, Ahadadream, Alexi Shell
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lounour/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lounour/)*

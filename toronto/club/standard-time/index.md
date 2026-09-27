@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "SHANGO featuring John Morales, Iced Misto and Kiki LeFreak " on Sat, 26 Sept 2026.
+Standard Time is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "SHANGO featuring John Morales, Iced Misto and Kiki LeFreak " on Sat, 26 Sept 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with line-ups including Adrian Sherwood, Amedeo (CA), CCL and Chiara and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 14 upcoming gigs
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

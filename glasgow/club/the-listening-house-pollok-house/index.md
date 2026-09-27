@@ -1,6 +1,6 @@
 # The Listening House | Pollok House
 
-The Listening House | Pollok House is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Sonica: The Tcherepnin Series - Thomas Ankersmit" on Sun, 27 Sept 2026.
+The Listening House | Pollok House is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Sonica: The Tcherepnin Series - Thomas Ankersmit" on Sun, 27 Sept 2026.
 
 The Listening House | Pollok House is a music venue in Glasgow listed on soundcheck. 10 upcoming gigs, with line-ups including Alliyah Enyo and Thomas Ankersmit. Browse upcoming dates, start times and who's playing. 2060 Pollokshaws Rd, Pollokshaws, Glasgow G43 1AT.
 
@@ -23,4 +23,4 @@ The Listening House | Pollok House is a music venue in Glasgow listed on soundch
 
 2060 Pollokshaws Rd, Pollokshaws, Glasgow G43 1AT, Glasgow
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-listening-house-pollok-house/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-listening-house-pollok-house/)*

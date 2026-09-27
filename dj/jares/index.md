@@ -1,6 +1,6 @@
 # Jares
 
-Jares is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Salon Daomé, Montreal on Sat, 26 Sept 2026.
+Jares is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Salon Daomé, Montreal on Sat, 26 Sept 2026.
 
 Jares is a progressive house and house artist based in Canada, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Montreal and Toronto. Often billed alongside Alex Generis, Simon Sizer and Soul Of Zoo. Next up: Salon Daomé, Montreal on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Jares is a progressive house and house artist based in Canada, tracked on soundc
 
 ## Recently played
 
+- Salon Daomé, Montreal — Sat, 26 Sept 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 23 Aug 2026
 - Vino Disco, Montreal — Sat, 15 Aug 2026
 - Stereo, Montreal — Fri, 7 Aug 2026
@@ -19,10 +20,9 @@ Jares is a progressive house and house artist based in Canada, tracked on soundc
 - NWHR, Montreal — Fri, 26 Jun 2026
 - Stereo, Montreal — Sat, 21 Mar 2026
 - Union Française de Montréal, Montreal — Sat, 28 Feb 2026
-- Igloofest, Montreal — Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Alex Generis, Simon Sizer, Soul Of Zoo
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jares/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jares/)*

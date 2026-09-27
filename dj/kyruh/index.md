@@ -1,6 +1,6 @@
 # KYRUH
 
-KYRUH is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Nowadays, New York City on Sun, 27 Sept 2026.
+KYRUH is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Nowadays, New York City on Sun, 27 Sept 2026.
 
 KYRUH is a techno and house artist based in United States of America, tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside WTCHCRFT, Katie Rex and Annie Lew. Next up: Nowadays, New York City on Sun 27 Sept.
 
@@ -30,4 +30,4 @@ KYRUH is a techno and house artist based in United States of America, tracked on
 
 WTCHCRFT, Katie Rex, Annie Lew
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyruh/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyruh/)*

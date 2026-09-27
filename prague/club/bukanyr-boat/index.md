@@ -1,6 +1,6 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Part Time Locals - djs Radul (RO), Sam Gittis & friends" on Sat, 26 Sept 2026.
+Bukanyr Boat is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Part Time Locals - djs Radul (RO), Sam Gittis & friends" on Sat, 26 Sept 2026.
 
 Bukanyr Boat is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including Adamatron, aros, ASCENDER and Biodan and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
@@ -23,4 +23,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 10 upcoming gigs, 
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

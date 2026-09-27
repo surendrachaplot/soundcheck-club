@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "RUDE with Fanny, Clarry Berry, Meta Chrom and many more" on Sat, 26 Sept 2026.
+elipamanoke is a music venue in Leipzig with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "RUDE with Fanny, Clarry Berry, Meta Chrom and many more" on Sat, 26 Sept 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 14 upcoming gigs, with line-ups including Justine Perry, Acid Goldee, Aender and Aio and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -23,4 +23,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 14 upcoming gigs, 
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

@@ -1,6 +1,6 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "RITMO" on Sat, 26 Sept 2026.
+Baalsaal is a music venue in Hamburg with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "RITMO" on Sat, 26 Sept 2026.
 
 Baalsaal is a music venue in Hamburg listed on soundcheck. 14 upcoming gigs, with line-ups including ROOB and Steven Shade. Browse upcoming dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 14 upcoming gigs, wit
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

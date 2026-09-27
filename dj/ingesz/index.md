@@ -1,6 +1,6 @@
 # Ingesz
 
-Ingesz is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Mastak, Warsaw on Sun, 27 Sept 2026.
+Ingesz is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Mastak, Warsaw on Sun, 27 Sept 2026.
 
 Ingesz is an experimental and electronica artist tracked on soundcheck, with 5 sets logged across Warsaw. Often billed alongside Pean, Salat and sporra. Next up: Mastak, Warsaw on Sun 27 Sept.
 
@@ -21,4 +21,4 @@ Ingesz is an experimental and electronica artist tracked on soundcheck, with 5 s
 
 Pean, Salat, sporra
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ingesz/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ingesz/)*

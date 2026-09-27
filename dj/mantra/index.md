@@ -1,6 +1,6 @@
 # Mantra
 
-Mantra is a Jungle and Drum & Bass artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mono by Phono, 9654 Pililla St Makati City, Manila on Sat, 26 Sept 2026.
+Mantra is a Jungle and Drum & Bass artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Mono by Phono, 9654 Pililla St Makati City, Manila on Sat, 26 Sept 2026.
 
 Mantra is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 154 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 31 more. Often billed alongside Double O, Blackeye MC and Tim Reaper. Next up: Mono by Phono, 9654 Pililla St Makati City, Manila on Sat 26 Sept.
 
@@ -19,6 +19,7 @@ Mantra is a jungle and drum & bass artist based in United Kingdom, tracked on so
 
 ## Recently played
 
+- Mono by Phono, 9654 Pililla St Makati City, Manila — Sat, 26 Sept 2026
 - Social Room, Hong Kong — Fri, 25 Sept 2026
 - The Old Blue Last, London — Sat, 19 Sept 2026
 - The Cause, London — Sat, 22 Aug 2026
@@ -26,10 +27,9 @@ Mantra is a jungle and drum & bass artist based in United Kingdom, tracked on so
 - Zentralwäscherei, Zurich — Sat, 8 Aug 2026
 - M.O.T, London — Sat, 18 Jul 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
-- The Prospect Building, Bristol — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Double O, Blackeye MC, Tim Reaper
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mantra/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mantra/)*

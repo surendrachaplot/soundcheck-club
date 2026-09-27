@@ -1,6 +1,6 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Endless Summer: Felix Cartal, Alastair Lane, Makez" on Sat, 26 Sept 2026.
+House of Yes is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Endless Summer: Felix Cartal, Alastair Lane, Makez" on Sat, 26 Sept 2026.
 
 House of Yes is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including Alistair, Aluna, Bella Mutino and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
@@ -23,4 +23,4 @@ House of Yes is a music venue in New York City listed on soundcheck. 11 upcoming
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

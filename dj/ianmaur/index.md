@@ -1,6 +1,6 @@
 # Ian Maur
 
-Ian Maur is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Plantation, Paris on Sun, 27 Sept 2026.
+Ian Maur is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Plantation, Paris on Sun, 27 Sept 2026.
 
 Ian Maur is a techno and ambient artist based in France, tracked on soundcheck, with 55 sets logged across Berlin and Paris. Often billed alongside Sklaer, Ben Hamama and Lefblom. Next up: Plantation, Paris on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Ian Maur is a techno and ambient artist based in France, tracked on soundcheck, 
 
 Sklaer, Ben Hamama, Lefblom
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmaur/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmaur/)*

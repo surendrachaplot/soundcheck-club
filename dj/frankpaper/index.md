@@ -1,6 +1,6 @@
 # Frank Paper
 
-Frank Paper is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Secret Boston Location, Boston on Sat, 26 Sept 2026.
+Frank Paper is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Secret Boston Location, Boston on Sat, 26 Sept 2026.
 
 Frank Paper is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Boston and New York City. Often billed alongside 98dots, A lana and Alex Pastor. Next up: TBA - Secret Boston Location, Boston on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Frank Paper is a techno and house artist based in United States of America, trac
 
 ## Recently played
 
+- TBA - Secret Boston Location, Boston — Sat, 26 Sept 2026
 - The Chemist, Boston — Fri, 28 Aug 2026
 - TBA, Boston — Fri, 17 Jul 2026
 - TBA - Secret Warehouse Location, Boston — Sat, 16 May 2026
@@ -22,4 +23,4 @@ Frank Paper is a techno and house artist based in United States of America, trac
 
 98dots, A lana, Alex Pastor
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankpaper/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankpaper/)*

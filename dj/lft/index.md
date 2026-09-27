@@ -1,6 +1,6 @@
 # L.F.T.
 
-L.F.T. is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at export, Rotterdam on Fri, 2 Oct 2026.
+L.F.T. is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at export, Rotterdam on Fri, 2 Oct 2026.
 
 L.F.T. is a techno and electro artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside Festnacht, DJ MELL G and Afra. Next up: export, Rotterdam on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ L.F.T. is a techno and electro artist based in Germany, tracked on soundcheck, w
 
 Festnacht, DJ MELL G, Afra
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*

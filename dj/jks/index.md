@@ -1,6 +1,6 @@
 # JKS
 
-JKS is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Unité.22, Marseille on Fri, 2 Oct 2026.
+JKS is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unité.22, Marseille on Fri, 2 Oct 2026.
 
 JKS is a techno and house artist based in France, tracked on soundcheck, with 147 sets logged across Aberdeen, Amsterdam, Athens and Berlin and 47 more. Often billed alongside Bailey Ibbs, BENZA and CAIVA. Next up: Unité.22, Marseille on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ JKS is a techno and house artist based in France, tracked on soundcheck, with 14
 
 Bailey Ibbs, BENZA, CAIVA
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*

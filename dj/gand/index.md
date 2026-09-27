@@ -1,6 +1,6 @@
 # Gan D
 
-Gan D is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at de Koepels, Rotterdam on Sat, 10 Oct 2026.
+Gan D is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at de Koepels, Rotterdam on Sat, 10 Oct 2026.
 
 Gan D is an experimental and bass artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, Rotterdam and San Francisco/Oakland. Often billed alongside HyperLili, SBS and 3Points. Next up: de Koepels, Rotterdam on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Gan D is an experimental and bass artist based in Netherlands, tracked on soundc
 
 HyperLili, SBS (2), 3Points
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gand/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gand/)*

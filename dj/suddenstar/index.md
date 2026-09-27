@@ -1,6 +1,6 @@
 # sudden star
 
-sudden star is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Spread, Tokyo on Mon, 12 Oct 2026.
+sudden star is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Spread, Tokyo on Mon, 12 Oct 2026.
 
 sudden star is a club and bass artist tracked on soundcheck, with 35 sets logged across Kyoto and Tokyo. Often billed alongside Loci, Yoyou and DJ CENTERFOLD. Next up: Spread, Tokyo on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ sudden star is a club and bass artist tracked on soundcheck, with 35 sets logged
 
 Loci, Yoyou, DJ CENTERFOLD
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suddenstar/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suddenstar/)*

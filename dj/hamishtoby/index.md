@@ -1,20 +1,20 @@
 # Hamish & Toby
 
-Hamish & Toby is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Distrikt, Leeds on Sat, 26 Sept 2026.
+Hamish & Toby is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at MIDNIGHT EAST, Tokyo on Sat, 17 Oct 2026.
 
-Hamish & Toby are a house and tech house duo based in United Kingdom, tracked on soundcheck, with 136 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: Distrikt, Leeds on Sat 26 Sept.
+Hamish & Toby are a house and tech house duo based in United Kingdom, tracked on soundcheck, with 136 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: MIDNIGHT EAST, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Distrikt | Leeds |
 | Sat, 17 Oct 2026 | MIDNIGHT EAST | Tokyo |
 | Fri, 23 Oct 2026 | Palais | London |
 | Sat, 31 Oct 2026 | NOWHERE | Manchester |
 
 ## Recently played
 
+- Distrikt, Leeds — Sat, 26 Sept 2026
 - Moon Club, Bristol — Fri, 25 Sept 2026
 - UNO MALTA, Malta — Fri, 18 Sept 2026
 - UNO MALTA, Malta — Thu, 17 Sept 2026
@@ -22,10 +22,9 @@ Hamish & Toby are a house and tech house duo based in United Kingdom, tracked on
 - Pikes Ibiza, Ibiza — Sun, 12 Jul 2026
 - Les Enfants Brillants, Barcelona — Sat, 11 Jul 2026
 - Hackney Wick Multiple Venues, London — Sat, 27 Jun 2026
-- Avenida Doctor Marañon 17, Barcelona, Barcelona — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Dr Banana, The Ghost, Truly Madly
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*

@@ -1,6 +1,6 @@
 # DXNBY
 
-DXNBY is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 26 Sept 2026.
+DXNBY is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 26 Sept 2026.
 
 DXNBY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 23 more. Often billed alongside Ozzie Guven, ALISHA and East End Dubs. Next up: Shelter Amsterdam, Amsterdam on Sat 26 Sept.
 
@@ -17,6 +17,7 @@ DXNBY is a house and tech house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
+- Shelter Amsterdam, Amsterdam — Sat, 26 Sept 2026
 - [UNVRS], Ibiza — Wed, 23 Sept 2026
 - Smoke & Mirrors, Chicago — Sat, 19 Sept 2026
 - Club Vinyl, Denver — Fri, 18 Sept 2026
@@ -24,10 +25,9 @@ DXNBY is a house and tech house artist based in United Kingdom, tracked on sound
 - Floyd, Miami — Fri, 4 Sept 2026
 - Cova Santa, Ibiza — Tue, 4 Aug 2026
 - [UNVRS], Ibiza — Wed, 1 Jul 2026
-- Heaton Park, Manchester — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Ozzie Guven, ALISHA, East End Dubs
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*

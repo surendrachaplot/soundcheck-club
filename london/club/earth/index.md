@@ -1,6 +1,6 @@
 # EartH
 
-EartH is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "AVA London: Skin On Skin, Evian Christ, Croatian Amor + mi-el" on Sat, 26 Sept 2026.
+EartH is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "AVA London: Skin On Skin, Evian Christ, Croatian Amor + mi-el" on Sat, 26 Sept 2026.
 
 EartH is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Abdullah Miniawy, Anz, Croatian Amor and Digitalism and 2 more. Browse upcoming dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
@@ -23,4 +23,4 @@ EartH is a music venue in London listed on soundcheck. 14 upcoming gigs, with li
 
 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK, London
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*

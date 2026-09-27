@@ -1,6 +1,6 @@
 # Wharf Chambers
 
-Wharf Chambers is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Biodiversity 003 - Sofie K b2b Sam PV (NTS/Pumping Velvet), Frantasia, Joe FM" on Fri, 2 Oct 2026.
+Wharf Chambers is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Biodiversity 003 - Sofie K b2b Sam PV (NTS/Pumping Velvet), Frantasia, Joe FM" on Fri, 2 Oct 2026.
 
 Wharf Chambers is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, with line-ups including Anastasia McGarel, James Frances, Joe FM and Jon K and 2 more. Browse upcoming dates, start times and who's playing. 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom.
 
@@ -20,4 +20,4 @@ Wharf Chambers is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, 
 
 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom, Leeds
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*

@@ -1,14 +1,13 @@
 # IMOGEN
 
-IMOGEN is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 26 Sept 2026.
+IMOGEN is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
-IMOGEN is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Austin and Bangkok and 46 more. Often billed alongside DJ MELL G, DJ Stingray 313 and Helena Hauff. Next up: Tapada da Ajuda, Lisbon on Sat 26 Sept.
+IMOGEN is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Austin and Bangkok and 46 more. Often billed alongside DJ MELL G, DJ Stingray 313 and Helena Hauff. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Tapada da Ajuda | Lisbon |
 | Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 | Fri, 16 Oct 2026 | Tresor / Globus | Berlin |
 | Thu, 22 Oct 2026 | Cadavra | Madrid |
@@ -17,6 +16,7 @@ IMOGEN is a techno and electro artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
+- Tapada da Ajuda, Lisbon — Sat, 26 Sept 2026
 - public records, New York City — Fri, 17 Jul 2026
 - The White Hotel, Manchester — Sat, 11 Jul 2026
 - KREUZWERK, Berlin — Fri, 3 Jul 2026
@@ -24,10 +24,9 @@ IMOGEN is a techno and electro artist based in United Kingdom, tracked on soundc
 - Badaboum, Paris — Sat, 20 Jun 2026
 - The Bernard Shaw, Dublin — Sun, 31 May 2026
 - TBA - UNICORN FACTORY - OPEN AIR, Lisbon — Sat, 2 May 2026
-- Tresor / Globus, Berlin — Fri, 1 May 2026
 
 ## Shares bills with
 
 DJ MELL G, DJ Stingray 313, Helena Hauff
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imogen/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imogen/)*

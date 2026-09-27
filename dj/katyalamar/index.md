@@ -1,6 +1,6 @@
 # Katya La Mar
 
-Katya La Mar is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at DETROIT CLUB, Barcelona on Fri, 30 Oct 2026.
+Katya La Mar is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at DETROIT CLUB, Barcelona on Fri, 30 Oct 2026.
 
 Katya La Mar is a techno and idm artist tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside Tympanic, Alice Youngling and Althoff. Next up: DETROIT CLUB, Barcelona on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Katya La Mar is a techno and idm artist tracked on soundcheck, with 4 sets logge
 
 Tympanic, Alice Youngling, Althoff
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katyalamar/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katyalamar/)*

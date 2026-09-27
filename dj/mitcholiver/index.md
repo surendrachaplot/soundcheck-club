@@ -1,19 +1,19 @@
 # Mitch Oliver
 
-Mitch Oliver is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Noorderlicht Café, Amsterdam on Sat, 26 Sept 2026.
+Mitch Oliver is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 2 Oct 2026.
 
-Mitch Oliver is a deep house and house artist based in Canada, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Buenos Aires and Denver and 11 more. Often billed alongside Manuel Falardeau, VICTOR RODRIGUEZ (CA) and [ares]. Next up: Noorderlicht Café, Amsterdam on Sat 26 Sept.
+Mitch Oliver is a deep house and house artist based in Canada, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Buenos Aires and Denver and 11 more. Often billed alongside Manuel Falardeau, VICTOR RODRIGUEZ (CA) and [ares]. Next up: Het Sieraad, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Noorderlicht Café | Amsterdam |
 | Fri, 2 Oct 2026 | Het Sieraad | Amsterdam |
 | Sun, 25 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 
 ## Recently played
 
+- Noorderlicht Café, Amsterdam — Sat, 26 Sept 2026
 - NWHR, Montreal — Fri, 17 Jul 2026
 - Het Sieraad, Amsterdam — Sat, 4 Jul 2026
 - StereoBar, Montreal — Sun, 28 Jun 2026
@@ -21,10 +21,9 @@ Mitch Oliver is a deep house and house artist based in Canada, tracked on soundc
 - Berlin, Los Angeles — Sat, 6 Jun 2026
 - StereoBar, Montreal — Fri, 22 May 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 16 May 2026
-- StereoBar, Montreal — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Manuel Falardeau, VICTOR RODRIGUEZ (CA), [ares]
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitcholiver/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitcholiver/)*

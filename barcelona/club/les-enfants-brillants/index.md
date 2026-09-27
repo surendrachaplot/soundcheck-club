@@ -1,6 +1,6 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 24 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Orbital 4th Anniversary pres. Dan Andrei 4h set" on Sat, 26 Sept 2026.
+Les Enfants Brillants is a music venue in Barcelona with 24 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Orbital 4th Anniversary pres. Dan Andrei 4h set" on Sat, 26 Sept 2026.
 
 Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 24 upcoming gigs, with line-ups including Adi, Alexander Skancke, Alex Dima and Alexia Glensy and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
@@ -23,4 +23,4 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 24 upc
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

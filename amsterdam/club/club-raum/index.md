@@ -1,6 +1,6 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Marco Shuttle, Sunil Sharpe, Maria Cue" on Sat, 26 Sept 2026.
+CLUB RAUM is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Marco Shuttle, Sunil Sharpe, Maria Cue" on Sat, 26 Sept 2026.
 
 CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including Abstract Division, Afra, Aldonna and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
@@ -23,4 +23,4 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, 
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

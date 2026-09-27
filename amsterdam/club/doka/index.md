@@ -1,6 +1,6 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Doka Studio with DJ Tracksuit - Nathalie Seres" on Sat, 26 Sept 2026.
+Doka is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Doka Studio with DJ Tracksuit - Nathalie Seres" on Sat, 26 Sept 2026.
 
 Doka is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including 36framez, Antal, Anz and Ays (NL) and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with 
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

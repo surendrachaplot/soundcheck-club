@@ -1,6 +1,6 @@
 # Luke Handsfree
 
-Luke Handsfree is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at KEPK, Brisbane on Sun, 4 Oct 2026.
+Luke Handsfree is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at KEPK, Brisbane on Sun, 4 Oct 2026.
 
 Luke Handsfree is an ambient and acid artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Brisbane, Chicago and London. Often billed alongside Phonaut, Tengui and m50. Next up: KEPK, Brisbane on Sun 4 Oct.
 
@@ -20,4 +20,4 @@ Luke Handsfree is an ambient and acid artist based in United Kingdom, tracked on
 
 Phonaut, Tengui, m50
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehandsfree/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehandsfree/)*

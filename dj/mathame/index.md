@@ -1,6 +1,6 @@
 # Mathame
 
-Mathame is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Mathame is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 Mathame is a techno and house artist based in Italy, tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Lyke, Olympe and Fideles. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
@@ -17,6 +17,7 @@ Mathame is a techno and house artist based in Italy, tracked on soundcheck, with
 
 ## Recently played
 
+- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
 - TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Stereo, Montreal — Sat, 5 Sept 2026
 - Mediapark Köln, Cologne — Sat, 29 Aug 2026
@@ -24,10 +25,9 @@ Mathame is a techno and house artist based in Italy, tracked on soundcheck, with
 - Nitsa Club, Barcelona — Fri, 24 Jul 2026
 - LDN East, London — Thu, 23 Jul 2026
 - Vajdahunyad Castle, Budapest — Sat, 13 Jun 2026
-- [UNVRS], Ibiza — Tue, 9 Jun 2026
 
 ## Shares bills with
 
 Lyke, Olympe, Fideles
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*

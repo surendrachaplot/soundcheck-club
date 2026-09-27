@@ -1,18 +1,18 @@
 # WOMSO
 
-WOMSO is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Dalston Den, London on Sat, 26 Sept 2026.
+WOMSO is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at NUMBER 90 LONDON, London on Sun, 27 Sept 2026.
 
-WOMSO is a house and tech house artist based in Russia, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Ebz, Francesco Poggi and Enrico Chirchiello. Next up: Dalston Den, London on Sat 26 Sept.
+WOMSO is a house and tech house artist based in Russia, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Ebz, Francesco Poggi and Enrico Chirchiello. Next up: NUMBER 90 LONDON, London on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Dalston Den | London |
 | Sun, 27 Sept 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
+- Dalston Den, London — Sat, 26 Sept 2026
 - Aura Shoreditch, London — Sat, 19 Sept 2026
 - Jungla London, London — Thu, 1 Jan 2026
 - Ministry Of Sound, London — Fri, 21 Feb 2025
@@ -25,4 +25,4 @@ WOMSO is a house and tech house artist based in Russia, tracked on soundcheck, w
 
 Ebz, Francesco Poggi, Enrico Chirchiello
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/womso/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/womso/)*

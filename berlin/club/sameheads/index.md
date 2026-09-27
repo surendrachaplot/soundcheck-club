@@ -1,6 +1,6 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Big Wide World of Smells" on Sat, 26 Sept 2026.
+Sameheads is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Big Wide World of Smells" on Sat, 26 Sept 2026.
 
 Sameheads is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including ALF CHAMPION, Anna Wall, Caillou and Chikiss and 2 more. Browse upcoming dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
@@ -21,4 +21,4 @@ Sameheads is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

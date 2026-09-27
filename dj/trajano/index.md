@@ -1,6 +1,6 @@
 # TRAJANO
 
-TRAJANO is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Armazem Solon, Sao Paulo on Sat, 26 Sept 2026.
+TRAJANO is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Armazem Solon, Sao Paulo on Sat, 26 Sept 2026.
 
 TRAJANO is a house and electro artist based in Brazil, tracked on soundcheck, with 51 sets logged across Athens, Barcelona, Berlin and Buenos Aires and 9 more. Often billed alongside Villaça, InsaniTy and DJ Koolt. Next up: Armazem Solon, Sao Paulo on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ TRAJANO is a house and electro artist based in Brazil, tracked on soundcheck, wi
 
 ## Recently played
 
+- Armazem Solon, Sao Paulo — Sat, 26 Sept 2026
 - Club Jerome, Sao Paulo — Sat, 22 Aug 2026
 - Barraco SP /CO, Sao Paulo — Sat, 25 Jul 2026
 - WOMB, Tokyo — Sat, 11 Jul 2026
@@ -19,10 +20,9 @@ TRAJANO is a house and electro artist based in Brazil, tracked on soundcheck, wi
 - Club der Visionaere, Berlin — Fri, 19 Jun 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sat, 13 Jun 2026
 - Cadavra, Madrid — Fri, 12 Jun 2026
-- La Rotonde Stalingrad, Paris — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Villaça, InsaniTy, DJ Koolt
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trajano/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trajano/)*

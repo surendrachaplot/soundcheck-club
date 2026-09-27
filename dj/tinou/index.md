@@ -1,6 +1,6 @@
 # TINOU
 
-TINOU is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
+TINOU is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
 
 TINOU is a techno and trance artist based in France, tracked on soundcheck, with 9 sets logged across Berlin and Leipzig. Often billed alongside LŸBRA, DJ Henk and get no. Next up: Distillery, Leipzig on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ TINOU is a techno and trance artist based in France, tracked on soundcheck, with
 
 ## Recently played
 
+- Distillery, Leipzig — Sat, 26 Sept 2026
 - Absturz, Leipzig — Wed, 29 Apr 2026
 - Humboldthain Club, Berlin — Fri, 24 Apr 2026
 - Monarch, Berlin — Sat, 15 Nov 2025
@@ -19,10 +20,9 @@ TINOU is a techno and trance artist based in France, tracked on soundcheck, with
 - Absturz, Leipzig — Fri, 19 Apr 2024
 - Lokschuppen Berlin, Berlin — Sat, 28 Oct 2023
 - elipamanoke, Leipzig — Fri, 21 Jul 2023
-- elipamanoke, Leipzig — Fri, 30 Jun 2023
 
 ## Shares bills with
 
 LŸBRA, DJ Henk, get no
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinou/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinou/)*

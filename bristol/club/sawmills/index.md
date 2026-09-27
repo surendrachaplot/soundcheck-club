@@ -1,14 +1,13 @@
 # Sawmills
 
-Sawmills is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Airspace Day Festival: DJ Seinfeld, Bushbaby, Jenny Sparks + more" on Sat, 26 Sept 2026.
+Sawmills is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Kelvin 373 presents: Boiling Point XL with Electrikal Soundsystem" on Sat, 10 Oct 2026.
 
-Sawmills is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including Bladerunner, Burt Cope, De Gladde Paling and DJ Hazard and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol BS5 0TH.
+Sawmills is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, with line-ups including Bladerunner, Burt Cope, De Gladde Paling and DJ Hazard and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol BS5 0TH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Airspace Day Festival: DJ Seinfeld, Bushbaby, Jenny Sparks + more |  |
 | Sat, 10 Oct 2026 | Kelvin 373 presents: Boiling Point XL with Electrikal Soundsystem |  |
 | Sat, 17 Oct 2026 | SlapFunk Bristol | Doudou MD, FREAKENSTEIN, Garrett David, IZZIT, Samuel Deep |
 | Sat, 28 Nov 2026 | Hamdi FC vs Bristol 2026 | Flava D, Hamdi (UK), Jakes, OH91 |
@@ -18,4 +17,4 @@ Sawmills is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with
 
 30 Pennywell Rd, St Jude's, Bristol BS5 0TH, Bristol
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*

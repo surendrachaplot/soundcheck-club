@@ -1,6 +1,6 @@
 # Plano B
 
-Plano B is a music venue in Porto with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Nuno Lopes + Si" on Sat, 26 Sept 2026.
+Plano B is a music venue in Porto with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Nuno Lopes + Si" on Sat, 26 Sept 2026.
 
 Plano B is a music venue in Porto listed on soundcheck. 6 upcoming gigs, with line-ups including Jen Cardini, Objekt, Ogazón and salute and 1 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
@@ -19,4 +19,4 @@ Plano B is a music venue in Porto listed on soundcheck. 6 upcoming gigs, with li
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

@@ -1,6 +1,6 @@
 # Ingy
 
-Ingy is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Valencia on Fri, 9 Oct 2026.
+Ingy is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Valencia on Fri, 9 Oct 2026.
 
 Ingy is a house and disco artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Valencia. Often billed alongside Flowing, Flow and Julio Siette. Next up: TBA, Valencia on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Ingy is a house and disco artist based in Netherlands, tracked on soundcheck, wi
 
 Flowing, Flow, Julio Siette
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ingy/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ingy/)*

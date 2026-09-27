@@ -1,6 +1,6 @@
 # Shigeto
 
-Shigeto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tangent Gallery, Detroit on Fri, 25 Sept 2026.
+Shigeto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Tangent Gallery, Detroit on Fri, 25 Sept 2026.
 
 Shigeto is a house and techno artist based in United States of America, tracked on soundcheck, with 231 sets logged across Boston, Chicago, Detroit and Los Angeles and 5 more. Often billed alongside Kenjiro, Tammy Lakkis and Charles Trees. Next up: Tangent Gallery, Detroit on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Shigeto is a house and techno artist based in United States of America, tracked 
 
 Kenjiro, Tammy Lakkis, Charles Trees
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shigeto/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shigeto/)*

@@ -1,6 +1,6 @@
 # Andy Hart
 
-Andy Hart is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Killing Time, Melbourne on Sun, 27 Sept 2026.
+Andy Hart is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Killing Time, Melbourne on Sun, 27 Sept 2026.
 
 Andy Hart is a house and techno artist based in Australia, tracked on soundcheck, with 30 sets logged across Berlin, Melbourne, Mexico City and Tokyo. Often billed alongside Myles Mac, Pjenné and Alex Albrecht. Next up: Killing Time, Melbourne on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Andy Hart is a house and techno artist based in Australia, tracked on soundcheck
 
 Myles Mac, Pjenné, Alex Albrecht
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andyhart/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andyhart/)*

@@ -1,14 +1,13 @@
 # Reptant
 
-Reptant is a Electro and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Nido Marseille, Marseille on Sat, 26 Sept 2026.
+Reptant is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Kauz, Zurich on Sat, 10 Oct 2026.
 
-Reptant is an electro and techno artist based in Australia, tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 37 more. Often billed alongside Kia (AU), Miscmeg and Moopie. Next up: Nido Marseille, Marseille on Sat 26 Sept.
+Reptant is an electro and techno artist based in Australia, tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 37 more. Often billed alongside Kia (AU), Miscmeg and Moopie. Next up: Kauz, Zurich on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Nido Marseille | Marseille |
 | Sat, 10 Oct 2026 | Kauz | Zurich |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
 | Sat, 24 Oct 2026 | Café Café Bar Amsterdam | Amsterdam |
@@ -17,6 +16,7 @@ Reptant is an electro and techno artist based in Australia, tracked on soundchec
 
 ## Recently played
 
+- Nido Marseille, Marseille — Sat, 26 Sept 2026
 - Cadavra, Madrid — Fri, 25 Sept 2026
 - Les Enfants Brillants, Barcelona — Wed, 23 Sept 2026
 - Circle Park, Brussels — Sat, 19 Sept 2026
@@ -24,10 +24,9 @@ Reptant is an electro and techno artist based in Australia, tracked on soundchec
 - The Cause, London — Sat, 12 Sept 2026
 - Club der Visionaere, Berlin — Mon, 24 Aug 2026
 - Tokonoma Club, Frankfurt — Sat, 22 Aug 2026
-- Backsteinboot, Berlin — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Kia (AU), Miscmeg, Moopie
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*

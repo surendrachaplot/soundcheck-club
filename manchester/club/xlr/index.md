@@ -1,6 +1,6 @@
 # XLR
 
-XLR is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Beg Steal & Borrow x XLR presents Beg Steal Boogie [B.Y.O.B]" on Sat, 26 Sept 2026.
+XLR is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Beg Steal & Borrow x XLR presents Beg Steal Boogie [B.Y.O.B]" on Sat, 26 Sept 2026.
 
 XLR is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including 0akley, abejizaza, Azrel and Jarvis Bitcoin and 2 more. Browse upcoming dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
 
@@ -20,4 +20,4 @@ XLR is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with l
 
 455 Wilmslow Road, Withington, Manchester, M20 4AN, Manchester
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*

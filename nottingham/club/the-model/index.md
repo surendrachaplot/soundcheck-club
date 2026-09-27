@@ -1,14 +1,13 @@
 # The Model
 
-The Model is a music venue in Nottingham with 13 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Club Makumba: BASS FROM THE DIASPORA" on Sat, 26 Sept 2026.
+The Model is a music venue in Nottingham with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Ten Twenty Vision presents: Sam Girling" on Fri, 2 Oct 2026.
 
-The Model is a music venue in Nottingham listed on soundcheck. 13 upcoming gigs, with line-ups including Brad Bradley, Burly Chassis, CHEZA LUCINA and CONFLICT BUREAU and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
+The Model is a music venue in Nottingham listed on soundcheck. 12 upcoming gigs, with line-ups including Brad Bradley, Burly Chassis, CONFLICT BUREAU and dj come and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Club Makumba: BASS FROM THE DIASPORA | CHEZA LUCINA, Princess Trium |
 | Fri, 2 Oct 2026 | Ten Twenty Vision presents: Sam Girling | Sam Girling |
 | Sat, 3 Oct 2026 | Resonate |  |
 | Fri, 9 Oct 2026 | Cold Brewed 2nd Birthday w/ k means, Toura, Jimmy Rocket & M75 | Jimmy Rocket, M75 (1), Toura, k means |
@@ -18,9 +17,10 @@ The Model is a music venue in Nottingham listed on soundcheck. 13 upcoming gigs,
 | Fri, 23 Oct 2026 | Weighteh X Ground Under Sound - WINTOUR B2B CONTACT GHOST, PLUS MORE |  |
 | Sat, 24 Oct 2026 | A Sound Place For Sound |  |
 | Fri, 30 Oct 2026 | Thread the needle presents: Halloween with NOIDMATE, dj come and Leany | NOIDMATE, dj come |
+| Sat, 31 Oct 2026 | Paranormal Disco | Brad Bradley, Burly Chassis, SPICYIVY, dj come, rPal |
 
 ## Address
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "OBSCURA x STAY TOXIC [FREE ENTRY*]" on Sat, 26 Sept 2026.
+ÆDEN is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "OBSCURA x STAY TOXIC [FREE ENTRY*]" on Sat, 26 Sept 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including 4NOUK, YOVA, Acierate and Amed Nheiro and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

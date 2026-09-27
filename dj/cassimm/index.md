@@ -1,6 +1,6 @@
 # CASSIMM
 
-CASSIMM is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Chinois Ibiza, Ibiza on Sat, 26 Sept 2026.
+CASSIMM is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Chinois Ibiza, Ibiza on Sat, 26 Sept 2026.
 
 CASSIMM is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Barcelona and Belfast and 16 more. Often billed alongside Claptone, Mark Knight and Martin Ikin. Next up: Chinois Ibiza, Ibiza on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ CASSIMM is a house and tech house artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza — Sat, 26 Sept 2026
 - Gateway Gardens Ocean Club, Frankfurt — Fri, 21 Aug 2026
 - Fabrik, Madrid — Sat, 6 Jun 2026
 - Thuishaven, Amsterdam — Sun, 24 May 2026
@@ -20,10 +21,9 @@ CASSIMM is a house and tech house artist based in United Kingdom, tracked on sou
 - EQ San Diego, San Diego — Fri, 27 Mar 2026
 - Fabrik, Madrid — Sat, 21 Mar 2026
 - Lore, Chicago — Sat, 24 Jan 2026
-- Culture Box, Copenhagen — Fri, 23 Jan 2026
 
 ## Shares bills with
 
 Claptone, Mark Knight, Martin Ikin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassimm/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassimm/)*

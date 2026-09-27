@@ -1,6 +1,6 @@
 # imad:re
 
-imad:re is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at New Century Locker, Manchester on Fri, 2 Oct 2026.
+imad:re is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at New Century Locker, Manchester on Fri, 2 Oct 2026.
 
 imad:re is a house and bass artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Ibiza, Leeds, London and Manchester and 1 more. Often billed alongside Ginster, RYLO (UK) and Amelia Leigh. Next up: New Century Locker, Manchester on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ imad:re is a house and bass artist based in United Kingdom, tracked on soundchec
 
 Ginster, RYLO (UK), Amelia Leigh
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imadre/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imadre/)*

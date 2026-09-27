@@ -1,6 +1,6 @@
 # Rydim
 
-Rydim is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
+Rydim is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
 
 Rydim is a house and disco artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Budapest and Lisbon. Often billed alongside Esther Silex, Monika Ross and 2jack4u. Next up: OXI, Berlin on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Rydim is a house and disco artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
+- OXI, Berlin — Sat, 26 Sept 2026
 - Outra Cena, Lisbon — Sat, 8 Feb 2025
 - Watergate, Berlin — Sat, 2 Nov 2024
 - Pontoon Budapest, Budapest — Fri, 16 Aug 2024
@@ -24,4 +25,4 @@ Rydim is a house and disco artist based in Germany, tracked on soundcheck, with 
 
 Esther Silex, Monika Ross, 2jack4u
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rydim/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rydim/)*

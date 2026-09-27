@@ -1,6 +1,6 @@
 # Beno
 
-Beno is a Jungle and Footwork artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lux Fragil, Lisbon on Sat, 26 Sept 2026.
+Beno is a Jungle and Footwork artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lux Fragil, Lisbon on Sat, 26 Sept 2026.
 
 Beno is a jungle and footwork artist based in Morocco, tracked on soundcheck, with 7 sets logged across Lisbon and Manchester. Often billed alongside Obscura, Kali and Seeka. Next up: Lux Fragil, Lisbon on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Beno is a jungle and footwork artist based in Morocco, tracked on soundcheck, wi
 
 ## Recently played
 
+- Lux Fragil, Lisbon — Sat, 26 Sept 2026
 - The Deaf Institute, Manchester — Wed, 25 Sept 2024
 - Gorilla, Manchester — Fri, 14 Jun 2024
 - Wilson's Den, Manchester — Sat, 13 May 2023
@@ -23,4 +24,4 @@ Beno is a jungle and footwork artist based in Morocco, tracked on soundcheck, wi
 
 Obscura, Kali, Seeka
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beno/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beno/)*

@@ -1,6 +1,6 @@
 # Martin Luraschi
 
-Martin Luraschi is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Discoteca Karma, Barcelona on Sat, 26 Sept 2026.
+Martin Luraschi is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Discoteca Karma, Barcelona on Sat, 26 Sept 2026.
 
 Martin Luraschi is a tech house and techno artist tracked on soundcheck, with 5 sets logged across Barcelona and Berlin. Often billed alongside Agustin Bosco, Aka theo and EVES DJ. Next up: Discoteca Karma, Barcelona on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Martin Luraschi is a tech house and techno artist tracked on soundcheck, with 5 
 
 ## Recently played
 
+- Discoteca Karma, Barcelona — Sat, 26 Sept 2026
 - Repeat, Berlin — Wed, 17 Jul 2024
 - M7 Club, Barcelona — Sun, 29 Oct 2023
 - Mint Bar, Barcelona — Thu, 15 Jun 2023
@@ -21,4 +22,4 @@ Martin Luraschi is a tech house and techno artist tracked on soundcheck, with 5 
 
 Agustin Bosco, Aka theo, EVES DJ
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinluraschi/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinluraschi/)*

@@ -1,6 +1,6 @@
 # Call Super
 
-Call Super is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The White Hotel, Manchester on Sat, 26 Sept 2026.
+Call Super is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The White Hotel, Manchester on Sat, 26 Sept 2026.
 
 Call Super is a house and techno artist based in United Kingdom, tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 63 more. Often billed alongside Shanti Celeste, Anz and Objekt. Next up: The White Hotel, Manchester on Sat 26 Sept.
 
@@ -20,6 +20,7 @@ Call Super is a house and techno artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
+- The White Hotel, Manchester — Sat, 26 Sept 2026
 - UNO MALTA, Malta — Fri, 18 Sept 2026
 - Fvtvr, Paris — Fri, 18 Sept 2026
 - UNO MALTA, Malta — Thu, 17 Sept 2026
@@ -27,10 +28,9 @@ Call Super is a house and techno artist based in United Kingdom, tracked on soun
 - The Cause, London — Sat, 12 Sept 2026
 - Petit CAB, Marseille — Fri, 11 Sept 2026
 - DC-10, Ibiza — Mon, 17 Aug 2026
-- The Cause, London — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Shanti Celeste, Anz, Objekt
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*

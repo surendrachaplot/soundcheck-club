@@ -1,14 +1,13 @@
 # 77
 
-77 is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "77: Vanco" on Sat, 26 Sept 2026.
+77 is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "77: The Originals (All Night Long)" on Fri, 2 Oct 2026.
 
-77 is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including CLEIDO, AfroKillerz, AliTR and Angela Rose and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including AfroKillerz, AliTR, Angela Rose and BADBOX and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | 77: Vanco | BADBOX, CLEIDO, Nicky Summers, Vanco |
 | Fri, 2 Oct 2026 | 77: The Originals (All Night Long) | Supa D, Tippa |
 | Sat, 3 Oct 2026 | Kronologik Rekords presents: BADBOX & Friends | AfroKillerz, BADBOX, Tinovcc |
 | Fri, 9 Oct 2026 | 77: Novak & Vidojean | Novak |
@@ -18,9 +17,10 @@
 | Fri, 23 Oct 2026 | 77 SESSIONS: DEB FA |  |
 | Sat, 24 Oct 2026 | Pyra x Residents presents: A House on Fire II |  |
 | Fri, 30 Oct 2026 | The 77th Hour in Room 77 |  |
+| Fri, 6 Nov 2026 | 77: SONA | SONA (2) |
 
 ## Address
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

@@ -1,6 +1,6 @@
 # purp
 
-purp is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Market Hotel, New York City on Sat, 26 Sept 2026.
+purp is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Market Hotel, New York City on Sat, 26 Sept 2026.
 
 purp is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 87 sets logged across Amsterdam, Brussels, Los Angeles and Miami and 5 more. Often billed alongside Bodegaparty, jo_sway and JuanDeOne. Next up: Market Hotel, New York City on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ purp is a club and ghetto tech artist based in United States of America, tracked
 
 ## Recently played
 
+- Market Hotel, New York City — Sat, 26 Sept 2026
 - Paragon, New York City — Sat, 22 Aug 2026
 - Happyfun Hideaway, New York City — Sun, 9 Aug 2026
 - Sinners and Saints, Washington DC — Sat, 18 Jul 2026
@@ -20,10 +21,9 @@ purp is a club and ghetto tech artist based in United States of America, tracked
 - TBA - Secret Pour (Bushwick) , New York City — Fri, 3 Jul 2026
 - The House, New York City — Thu, 25 Jun 2026
 - The Bush Dyke Bar, New York City — Sun, 21 Jun 2026
-- Bossa Nova Civic Club, New York City — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Bodegaparty, jo_sway, JuanDeOne
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/purp/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/purp/)*

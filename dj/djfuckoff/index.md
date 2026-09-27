@@ -1,6 +1,6 @@
 # DJ Fuckoff
 
-DJ Fuckoff is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at C12, Brussels on Sat, 26 Sept 2026.
+DJ Fuckoff is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at C12, Brussels on Sat, 26 Sept 2026.
 
 DJ Fuckoff is a techno and house artist based in Germany, tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Auckland and 57 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: C12, Brussels on Sat 26 Sept.
 
@@ -19,6 +19,7 @@ DJ Fuckoff is a techno and house artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- C12, Brussels — Sat, 26 Sept 2026
 - Renate, Berlin — Fri, 18 Sept 2026
 - The Cause, London — Sat, 12 Sept 2026
 - TBA, Vienna — Sat, 5 Sept 2026
@@ -26,10 +27,9 @@ DJ Fuckoff is a techno and house artist based in Germany, tracked on soundcheck,
 - RSO.BERLIN, Berlin — Thu, 13 Aug 2026
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 - Signal, New York City — Sat, 8 Aug 2026
-- Smoke & Mirrors, Chicago — Fri, 7 Aug 2026
 
 ## Shares bills with
 
 DJ AYA, Anetha, DJ Gigola
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckoff/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckoff/)*

@@ -1,6 +1,6 @@
 # Rezzett
 
-Rezzett is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
+Rezzett is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
 
 Rezzett is an experimental and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 8 more. Often billed alongside John T. Gast, Josey Rebelle and Grady Steele. Next up: M.O.T, London on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Rezzett is an experimental and house artist based in United Kingdom, tracked on 
 
 ## Recently played
 
+- M.O.T, London — Sat, 26 Sept 2026
 - The Lubber Fiend, Newcastle — Thu, 17 Sept 2026
 - Centrum Sztuki Współczesnej Zamek Ujazdowski, Warsaw — Fri, 21 Nov 2025
 - The White Hotel, Manchester — Fri, 11 Apr 2025
@@ -19,10 +20,9 @@ Rezzett is an experimental and house artist based in United Kingdom, tracked on 
 - Le Chinois, Paris — Fri, 6 Dec 2024
 - Corsica Studios, London — Fri, 27 Sept 2024
 - Amsterdamse Bos, Amsterdam — Sat, 3 Aug 2024
-- Nitsa Club, Barcelona — Thu, 13 Jun 2024
 
 ## Shares bills with
 
 John T. Gast, Josey Rebelle, Grady Steele
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rezzett/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rezzett/)*

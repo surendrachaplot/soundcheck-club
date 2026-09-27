@@ -1,6 +1,6 @@
 # Yu Kawabata
 
-Yu Kawabata is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Atlantic Sound, Barcelona on Fri, 23 Oct 2026.
+Yu Kawabata is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Atlantic Sound, Barcelona on Fri, 23 Oct 2026.
 
 Yu Kawabata is a techno and industrial artist based in Japan, tracked on soundcheck, with 18 sets logged across Athens, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside MAX DURANTE, FENGX2 and Kleyver Reyes. Next up: Atlantic Sound, Barcelona on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Yu Kawabata is a techno and industrial artist based in Japan, tracked on soundch
 
 MAX DURANTE, FENGX2, Kleyver Reyes
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yukawabata/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yukawabata/)*

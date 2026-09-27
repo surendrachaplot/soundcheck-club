@@ -1,13 +1,14 @@
 # Reeko
 
-Reeko is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Reeko is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Ex-Centrale Santa Gilla, Cagliari, Sardinia on Sun, 27 Sept 2026.
 
-Reeko is a techno and dub techno artist based in Spain, tracked on soundcheck, with 42 sets logged across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Svreca, Lewis Fautzi and Architectural. Next up: Complejo Embrujo, South on Sat 3 Oct.
+Reeko is a techno and dub techno artist based in Spain, tracked on soundcheck, with 43 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Svreca, Lewis Fautzi and Architectural. Next up: TBA - Ex-Centrale Santa Gilla, Cagliari, Sardinia on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 27 Sept 2026 | TBA - Ex-Centrale Santa Gilla, Cagliari | Sardinia |
 | Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sat, 5 Dec 2026 | Headrow House | Leeds |
 
@@ -26,4 +27,4 @@ Reeko is a techno and dub techno artist based in Spain, tracked on soundcheck, w
 
 Svreca, Lewis Fautzi, Architectural
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reeko/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reeko/)*

@@ -1,6 +1,6 @@
 # Maly Kien
 
-Maly Kien is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+Maly Kien is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 Maly Kien is a breakbeat and house artist based in France, tracked on soundcheck, with 7 sets logged across Paris and Tokyo. Often billed alongside Ploum, Spicy Sofi and Chtak.. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Maly Kien is a breakbeat and house artist based in France, tracked on soundcheck
 
 Ploum, Spicy Sofi, Chtak.
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malykien/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malykien/)*

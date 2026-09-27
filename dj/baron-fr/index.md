@@ -1,6 +1,6 @@
 # Baron
 
-Baron is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
+Baron is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
 
 Baron is a house and afro house artist based in France, tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin, Ibiza and Mykonos and 1 more. Often billed alongside Dorian Craft, Bedouin and Birds of Mind. Next up: Crane Hotel Faralda, Amsterdam on Sun 25 Oct.
 
@@ -21,4 +21,4 @@ Baron is a house and afro house artist based in France, tracked on soundcheck, w
 
 Dorian Craft, Bedouin, Birds of Mind
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*

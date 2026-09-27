@@ -1,6 +1,6 @@
 # Elia Nafzger
 
-Elia Nafzger is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Elia Nafzger is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Elia Nafzger is a techno and house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Berlin, Brussels, Bucharest and Detroit and 8 more. Often billed alongside Desuba, Andrei Ciubuc and Zach G. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ Elia Nafzger is a techno and house artist based in United Kingdom, tracked on so
 
 Desuba, Andrei Ciubuc, Zach G
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elianafzger/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elianafzger/)*

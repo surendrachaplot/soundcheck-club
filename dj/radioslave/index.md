@@ -1,14 +1,13 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Frankhan Selectist, Istanbul on Sat, 26 Sept 2026.
+Radio Slave is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Studio Club Malaga, Malaga on Sat, 3 Oct 2026.
 
-Radio Slave is a house and techno artist based in United Kingdom, tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Athens and Austria and 43 more. Often billed alongside Tal Fussman, Anja Schneider and Khadija (DE). Next up: Frankhan Selectist, Istanbul on Sat 26 Sept.
+Radio Slave is a house and techno artist based in United Kingdom, tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Athens and Austria and 43 more. Often billed alongside Tal Fussman, Anja Schneider and Khadija (DE). Next up: Studio Club Malaga, Malaga on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Frankhan Selectist | Istanbul |
 | Sat, 3 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 3 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 10 Oct 2026 | Omeara | London |
@@ -18,6 +17,7 @@ Radio Slave is a house and techno artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
+- Frankhan Selectist, Istanbul — Sat, 26 Sept 2026
 - Bikini Club, Barcelona — Sat, 19 Sept 2026
 - House of Yes, New York City — Sat, 12 Sept 2026
 - Jolene, Copenhagen — Fri, 11 Sept 2026
@@ -25,10 +25,9 @@ Radio Slave is a house and techno artist based in United Kingdom, tracked on sou
 - Paal69, Amsterdam — Sun, 16 Aug 2026
 - Zürich - Various Venues, Zurich — Mon, 3 Aug 2026
 - Zürich - Various Venues, Zurich — Mon, 3 Aug 2026
-- Zürich - Various Venues, Zurich — Mon, 3 Aug 2026
 
 ## Shares bills with
 
 Tal Fussman, Anja Schneider, Khadija (DE)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*

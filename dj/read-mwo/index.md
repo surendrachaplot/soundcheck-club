@@ -1,6 +1,6 @@
 # মm.
 
-মm. is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Urban-Loritz Platz, Vienna on Sun, 27 Sept 2026.
+মm. is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Urban-Loritz Platz, Vienna on Sun, 27 Sept 2026.
 
 মm. is a techno and pop artist tracked on soundcheck, with 31 sets logged across London, Prague and Vienna. Often billed alongside zey, Gawdesque and Qamareen. Next up: TBA - Urban-Loritz Platz, Vienna on Sun 27 Sept.
 
@@ -25,4 +25,4 @@
 
 zey, Gawdesque, Qamareen
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/read-mwo/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/read-mwo/)*

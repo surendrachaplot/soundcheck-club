@@ -1,6 +1,6 @@
 # Azimut Club
 
-Azimut Club is a music venue in Turin with 14 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Dustin Zahn ext set (Enemy Records /USA), Andrea Perna at Azimut Techno Series Opening" on Sat, 26 Sept 2026.
+Azimut Club is a music venue in Turin with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Dustin Zahn ext set (Enemy Records /USA), Andrea Perna at Azimut Techno Series Opening" on Sat, 26 Sept 2026.
 
 Azimut Club is a music venue in Turin listed on soundcheck. 14 upcoming gigs, with line-ups including Aberra, Allegretti, Audrey Danza and BLANKA and 2 more. Browse upcoming dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
 
@@ -23,4 +23,4 @@ Azimut Club is a music venue in Turin listed on soundcheck. 14 upcoming gigs, wi
 
 Via Modena, 55 10153 Torino TO, Italy, Turin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*

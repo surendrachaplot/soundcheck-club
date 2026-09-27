@@ -1,6 +1,6 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 23 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "House Rules" on Thu, 24 Sept 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 23 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "House Rules" on Thu, 24 Sept 2026.
 
 F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 23 upcoming gigs, with line-ups including Pup_Epoch, Alkemiss Erika, Amino and ANCARCO and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
@@ -23,4 +23,4 @@ F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 2
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

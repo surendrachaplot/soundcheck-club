@@ -1,6 +1,6 @@
 # NEUX
 
-NEUX is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin on Sat, 26 Sept 2026.
+NEUX is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin on Sat, 26 Sept 2026.
 
 NEUX is a techno and electro artist based in Georgia, tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Ben Klock, Sevda and Vulkanski. Next up: TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ NEUX is a techno and electro artist based in Georgia, tracked on soundcheck, wit
 
 ## Recently played
 
+- TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin — Sat, 26 Sept 2026
 - E1, London — Sat, 19 Sept 2026
 - KHIDI, Tbilisi — Fri, 11 Sept 2026
 - Mia Mao, Paris — Fri, 4 Sept 2026
@@ -21,10 +22,9 @@ NEUX is a techno and electro artist based in Georgia, tracked on soundcheck, wit
 - BASEMENT, New York City — Sat, 22 Aug 2026
 - 1015 Folsom, San Francisco/Oakland — Fri, 21 Aug 2026
 - SMUT Athens, Athens — Sat, 25 Jul 2026
-- Fvtvr, Paris — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Ben Klock, Sevda, Vulkanski
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*

@@ -1,6 +1,6 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 15 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "The Masquerade: Claptone, Inner City DJ Set, CASSIMM, Bastian Bux" on Sat, 26 Sept 2026.
+Chinois Ibiza is a music venue in Ibiza with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "The Masquerade: Claptone, Inner City DJ Set, CASSIMM, Bastian Bux" on Sat, 26 Sept 2026.
 
 Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 15 upcoming gigs, with line-ups including Avangart Tabldot, Bambounou, Bastian Bux and Bedouin and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
@@ -23,4 +23,4 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 15 upcoming gigs, 
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

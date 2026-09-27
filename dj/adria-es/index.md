@@ -1,6 +1,6 @@
 # Adria (ES)
 
-Adria (ES) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 27 Sept 2026.
+Adria (ES) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 27 Sept 2026.
 
 Adria (ES) is a house and electro artist based in Spain, tracked on soundcheck, with 137 sets logged across Barcelona, Bucharest, Ibiza and Lisbon and 3 more. Often billed alongside Pau Rosés, Vince Void and Alex Garcia. Next up: Audiodise Park Montjuic, Barcelona on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Adria (ES) is a house and electro artist based in Spain, tracked on soundcheck, 
 
 Pau Rosés, Vince Void, Alex Garcia (2)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adria-es/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adria-es/)*

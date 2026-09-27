@@ -1,6 +1,6 @@
 # Asal
 
-Asal is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+Asal is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
 
 Asal is a techno artist based in Italy, tracked on soundcheck, with 7 sets logged across Bali, Barcelona, Cologne and Cyprus and 2 more. Often billed alongside MRAK, CamelPhat and 19:26. Next up: Etko, Cyprus on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ Asal is a techno artist based in Italy, tracked on soundcheck, with 7 sets logge
 
 MRAK, CamelPhat, 19:26
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asal/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asal/)*

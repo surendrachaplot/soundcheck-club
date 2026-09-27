@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "7 YEARS OF BULBUL (FREE ENTRY TILL 23:00): Bulbul Residents & Friends" on Sat, 26 Sept 2026.
+Bulbul Berlin is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "7 YEARS OF BULBUL (FREE ENTRY TILL 23:00): Bulbul Residents & Friends" on Sat, 26 Sept 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including ADAM REC., Almost Famous, Better Call Paul and boyyyish and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -20,4 +20,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, 
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

@@ -1,6 +1,6 @@
 # Bok Bok
 
-Bok Bok is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Podlasie Club, Chicago on Fri, 16 Oct 2026.
+Bok Bok is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Podlasie Club, Chicago on Fri, 16 Oct 2026.
 
 Bok Bok is a club and bass artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Berlin, Bristol and Brussels and 23 more. Often billed alongside Ikonika, Girl Unit and Nico Adomako. Next up: Podlasie Club, Chicago on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Bok Bok is a club and bass artist based in United Kingdom, tracked on soundcheck
 
 Ikonika, Girl Unit, Nico Adomako
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bokbok/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bokbok/)*

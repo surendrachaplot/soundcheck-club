@@ -1,6 +1,6 @@
 # Max Rush
 
-Max Rush is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Somewhere Special, Los Angeles on Sat, 31 Oct 2026.
+Max Rush is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Somewhere Special, Los Angeles on Sat, 31 Oct 2026.
 
 Max Rush is a house and minimal artist based in United States of America, tracked on soundcheck, with 82 sets logged across Los Angeles, San Diego and Tokyo. Often billed alongside Lavenge, BLANC MAMBA and Aplex. Next up: Somewhere Special, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Max Rush is a house and minimal artist based in United States of America, tracke
 
 Lavenge, BLANC MAMBA, Aplex
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxrush/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxrush/)*

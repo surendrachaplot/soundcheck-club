@@ -1,6 +1,6 @@
 # Rivo
 
-Rivo is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Savaya Bali, Bali on Sat, 10 Oct 2026.
+Rivo is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Savaya Bali, Bali on Sat, 10 Oct 2026.
 
 Rivo is a house and afro house artist based in France, tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Savaya Bali, Bali on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Rivo is a house and afro house artist based in France, tracked on soundcheck, wi
 
 Eric Prydz, Bender, Argy
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*

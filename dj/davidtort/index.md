@@ -1,6 +1,6 @@
 # David Tort
 
-David Tort is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Luz De Gas, Barcelona on Sat, 26 Sept 2026.
+David Tort is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Luz De Gas, Barcelona on Sat, 26 Sept 2026.
 
 David Tort is a house and tech house artist based in Spain, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Chicago and Ibiza and 8 more. Often billed alongside Discommon, Juany Bravo and Junior Lopez. Next up: Luz De Gas, Barcelona on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ David Tort is a house and tech house artist based in Spain, tracked on soundchec
 
 ## Recently played
 
+- Luz De Gas, Barcelona — Sat, 26 Sept 2026
 - Somewhere Nowhere NYC, New York City — Sat, 19 Sept 2026
 - Hï Ibiza, Ibiza — Thu, 17 Sept 2026
 - Sleeping Village, Chicago — Sat, 6 Jun 2026
@@ -20,10 +21,9 @@ David Tort is a house and tech house artist based in Spain, tracked on soundchec
 - The Steel Yard, London — Sat, 27 Dec 2025
 - Faunna Rooftop, Mexico City — Sat, 15 Nov 2025
 - Amsterdam Central Station, Amsterdam — Fri, 24 Oct 2025
-- EQ San Diego, San Diego — Sat, 19 Jul 2025
 
 ## Shares bills with
 
 Discommon, Juany Bravo, Junior Lopez
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtort/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtort/)*

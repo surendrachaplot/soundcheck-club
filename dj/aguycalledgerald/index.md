@@ -1,6 +1,6 @@
 # A Guy Called Gerald
 
-A Guy Called Gerald is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Castle & Falcon, Birmingham on Wed, 4 Nov 2026.
+A Guy Called Gerald is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Castle & Falcon, Birmingham on Wed, 4 Nov 2026.
 
 A Guy Called Gerald is a house and acid artist based in United Kingdom, tracked on soundcheck, with 113 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: The Castle & Falcon, Birmingham on Wed 4 Nov.
 
@@ -27,4 +27,4 @@ A Guy Called Gerald is a house and acid artist based in United Kingdom, tracked 
 
 Will B, gyrofield, Ben UFO
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*

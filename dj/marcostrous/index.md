@@ -1,6 +1,6 @@
 # Marco Strous
 
-Marco Strous is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Marco Strous is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 Marco Strous is a tech house and house artist based in Portugal, tracked on soundcheck, with 41 sets logged across Austin, Boston, Chicago and Houston and 14 more. Often billed alongside Chris Lake, MPH and Layton Giordani. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
@@ -20,6 +20,7 @@ Marco Strous is a tech house and house artist based in Portugal, tracked on soun
 
 ## Recently played
 
+- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
 - Jolene Downtown Miami, Miami — Sat, 1 Aug 2026
 - Los Angeles State Historic Park, Los Angeles — Sun, 12 Jul 2026
 - Spin, San Diego — Sat, 11 Jul 2026
@@ -27,10 +28,9 @@ Marco Strous is a tech house and house artist based in Portugal, tracked on soun
 - Spybar, Chicago — Sat, 6 Jun 2026
 - Floyd, Miami — Fri, 5 Jun 2026
 - Superior Ingredients, New York City — Sat, 9 May 2026
-- Coda, Toronto — Fri, 8 May 2026
 
 ## Shares bills with
 
 Chris Lake, MPH (1), Layton Giordani
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*

@@ -1,6 +1,6 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "12 Hour Party" on Sat, 26 Sept 2026.
+Marble Bar is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "12 Hour Party" on Sat, 26 Sept 2026.
 
 Marble Bar is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including Andrea Ghita, BRALLE, Craze and D'Julz and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
@@ -19,4 +19,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, wi
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

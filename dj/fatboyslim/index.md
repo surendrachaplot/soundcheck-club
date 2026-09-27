@@ -1,6 +1,6 @@
 # Fatboy Slim
 
-Fatboy Slim is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Fatboy Slim is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Fatboy Slim is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
@@ -18,6 +18,7 @@ Fatboy Slim is a house and tech house artist based in United Kingdom, tracked on
 
 ## Recently played
 
+- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
 - Malkin Bowl, Vancouver — Fri, 25 Sept 2026
 - Movistar Arena Buenos Aires, Buenos Aires — Sat, 5 Sept 2026
 - Jet Lounge, Buenos Aires — Thu, 3 Sept 2026
@@ -25,10 +26,9 @@ Fatboy Slim is a house and tech house artist based in United Kingdom, tracked on
 - Akasha Las Dalias Club - Ibiza, Ibiza — Sun, 16 Aug 2026
 - 528 Ibiza, Ibiza — Tue, 11 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- Gianpula Village, Malta — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Sarah Story, Jayda G, Tini Gessler
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*

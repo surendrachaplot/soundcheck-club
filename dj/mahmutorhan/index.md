@@ -1,6 +1,6 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 13 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at FOMO, Azerbaijan on Sat, 26 Sept 2026.
+Mahmut Orhan is a House and Afro House artist with 13 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at FOMO, Azerbaijan on Sat, 26 Sept 2026.
 
 Mahmut Orhan is a house and afro house artist based in Turkey, tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Shimza, ARODES and Adriatique. Next up: FOMO, Azerbaijan on Sat 26 Sept.
 
@@ -23,6 +23,7 @@ Mahmut Orhan is a house and afro house artist based in Turkey, tracked on soundc
 
 ## Recently played
 
+- FOMO, Azerbaijan — Sat, 26 Sept 2026
 - Hï Ibiza, Ibiza — Sat, 12 Sept 2026
 - Chinois Ibiza, Ibiza — Fri, 11 Sept 2026
 - UNO MALTA, Malta — Fri, 28 Aug 2026
@@ -30,10 +31,9 @@ Mahmut Orhan is a house and afro house artist based in Turkey, tracked on soundc
 - Chinois Ibiza, Ibiza — Wed, 26 Aug 2026
 - Santanna Mykonos, Mykonos — Sat, 22 Aug 2026
 - Chinois Ibiza, Ibiza — Wed, 19 Aug 2026
-- Void Mykonos, Mykonos — Sun, 16 Aug 2026
 
 ## Shares bills with
 
 Shimza, ARODES, Adriatique
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

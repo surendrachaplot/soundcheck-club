@@ -1,18 +1,17 @@
 # Arc Space
 
-Arc Space is a music venue in Nottingham with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Electroground 3rd birthday at Arc Space - Harry McCanna, James Tristan, Mush Love & rPal" on Sat, 26 Sept 2026.
+Arc Space is a music venue in Nottingham with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "Notts Family Launch - Dusty 4 Track - Loud Planet Records & More" on Sat, 17 Oct 2026.
 
-Arc Space is a music venue in Nottingham listed on soundcheck. 2 upcoming gigs, with line-ups including Harry McCanna, James Tristan, Jimmy Rocket and Mush Love (UK) and 1 more. Browse upcoming dates, start times and who's playing. Western House, Western Street, Nottingham, NG1 3AZ.
+Arc Space is a music venue in Nottingham listed on soundcheck. 1 upcoming gig, with line-ups including Jimmy Rocket. Browse upcoming dates, start times and who's playing. Western House, Western Street, Nottingham, NG1 3AZ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Electroground 3rd birthday at Arc Space - Harry McCanna, James Tristan, Mush Love & rPal | Harry McCanna, James Tristan, Mush Love (UK), rPal |
 | Sat, 17 Oct 2026 | Notts Family Launch - Dusty 4 Track - Loud Planet Records & More | Jimmy Rocket |
 
 ## Address
 
 Western House, Western Street, Nottingham, NG1 3AZ, Nottingham
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/arc-space/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/arc-space/)*

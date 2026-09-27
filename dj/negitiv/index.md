@@ -1,6 +1,6 @@
 # NEGITIV
 
-NEGITIV is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Uebel & Gefährlich, Hamburg on Sat, 3 Oct 2026.
+NEGITIV is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Uebel & Gefährlich, Hamburg on Sat, 3 Oct 2026.
 
 NEGITIV is a techno and hardcore artist based in Germany, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Alex Farell, SANTØS and Nicolas Julian. Next up: Uebel & Gefährlich, Hamburg on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ NEGITIV is a techno and hardcore artist based in Germany, tracked on soundcheck,
 
 Alex Farell, SANTØS, Nicolas Julian
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*

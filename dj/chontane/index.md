@@ -1,6 +1,6 @@
 # Chontane
 
-Chontane is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at SMUT Athens, Athens on Sat, 24 Oct 2026.
+Chontane is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at SMUT Athens, Athens on Sat, 24 Oct 2026.
 
 Chontane is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside SHDW, Lars Huismann and Regent. Next up: SMUT Athens, Athens on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Chontane is a techno and house artist tracked on soundcheck, with 80 sets logged
 
 SHDW, Lars Huismann, Regent
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chontane/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chontane/)*

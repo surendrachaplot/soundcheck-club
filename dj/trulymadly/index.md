@@ -1,6 +1,6 @@
 # Truly Madly
 
-Truly Madly is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 26 Sept 2026.
+Truly Madly is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 26 Sept 2026.
 
 Truly Madly is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 148 sets logged across Amsterdam, Bali, Barcelona and Berlin and 36 more. Often billed alongside Phill de Janeiro, Benji King and Dr Banana. Next up: Tokonoma Club, Frankfurt on Sat 26 Sept.
 
@@ -17,6 +17,7 @@ Truly Madly is a house and tech house artist based in United Kingdom, tracked on
 
 ## Recently played
 
+- Tokonoma Club, Frankfurt — Sat, 26 Sept 2026
 - Mint XL, Leeds — Fri, 25 Sept 2026
 - Night Tales, London — Fri, 18 Sept 2026
 - TBA - KENT COUNTY SHOWGROUND, London — Sat, 12 Sept 2026
@@ -24,10 +25,9 @@ Truly Madly is a house and tech house artist based in United Kingdom, tracked on
 - BRET, Amsterdam — Fri, 14 Aug 2026
 - BRET, Amsterdam — Fri, 14 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
-- Burgess Park, London — Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Phill de Janeiro, Benji King, Dr Banana
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*

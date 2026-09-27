@@ -1,14 +1,13 @@
 # Citizens Union
 
-Citizens Union is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Festsaal Kreuzberg, Berlin on Sat, 26 Sept 2026.
+Citizens Union is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at KREUZWERK, Berlin on Fri, 2 Oct 2026.
 
-Citizens Union is a house and techno artist based in Georgia, tracked on soundcheck, with 43 sets logged across Berlin, Leipzig, Stuttgart and Tbilisi. Often billed alongside Natuta, Knaughty and VINVAR. Next up: Festsaal Kreuzberg, Berlin on Sat 26 Sept.
+Citizens Union is a house and techno artist based in Georgia, tracked on soundcheck, with 43 sets logged across Berlin, Leipzig, Stuttgart and Tbilisi. Often billed alongside Natuta, Knaughty and VINVAR. Next up: KREUZWERK, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Festsaal Kreuzberg | Berlin |
 | Fri, 2 Oct 2026 | KREUZWERK | Berlin |
 | Fri, 9 Oct 2026 | KHIDI | Tbilisi |
 | Sat, 24 Oct 2026 | Bassiani | Tbilisi |
@@ -16,6 +15,7 @@ Citizens Union is a house and techno artist based in Georgia, tracked on soundch
 
 ## Recently played
 
+- Festsaal Kreuzberg, Berlin — Sat, 26 Sept 2026
 - Romantica, Stuttgart — Sat, 25 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - KHIDI, Tbilisi — Fri, 5 Jun 2026
@@ -23,10 +23,9 @@ Citizens Union is a house and techno artist based in Georgia, tracked on soundch
 - Left Bank, Tbilisi — Fri, 15 May 2026
 - Bassiani, Tbilisi — Sat, 9 May 2026
 - Left Bank, Tbilisi — Fri, 13 Feb 2026
-- Bassiani, Tbilisi — Sat, 6 Dec 2025
 
 ## Shares bills with
 
 Natuta, Knaughty, VINVAR
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citizensunion/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citizensunion/)*

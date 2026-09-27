@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "1/4 Escuro x Vault Sessions Second Shift" on Sat, 26 Sept 2026.
+Ministerium Club is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "1/4 Escuro x Vault Sessions Second Shift" on Sat, 26 Sept 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 5 upcoming gigs, with line-ups including aalice, Anastasiya Ty, ANÍBAL and Client and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -18,4 +18,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 5 upcoming gig
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

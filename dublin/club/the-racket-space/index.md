@@ -1,6 +1,6 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 13 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Mystify Vinyl Learn and Perform Season 2 (Day 2/4)" on Sun, 27 Sept 2026.
+The Racket Space is a music venue in Dublin with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Mystify Vinyl Learn and Perform Season 2 (Day 2/4)" on Sun, 27 Sept 2026.
 
 The Racket Space is a music venue in Dublin listed on soundcheck. 13 upcoming gigs, with line-ups including Cailín, camoufly, Dorian Concept and Garrett David and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
@@ -23,4 +23,4 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 13 upcoming gi
 
 Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*

@@ -1,6 +1,6 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 12 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "CRi" on Sat, 26 Sept 2026.
+Spybar is a music venue in Chicago with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "CRi" on Sat, 26 Sept 2026.
 
 Spybar is a music venue in Chicago listed on soundcheck. 12 upcoming gigs, with line-ups including CRi, Effy, Franc Fala and Jazzy (IRL) and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
@@ -23,4 +23,4 @@ Spybar is a music venue in Chicago listed on soundcheck. 12 upcoming gigs, with 
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

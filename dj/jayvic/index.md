@@ -1,6 +1,6 @@
 # Jay Vic
 
-Jay Vic is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Chocolate Factory, New York City on Sat, 26 Sept 2026.
+Jay Vic is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Chocolate Factory, New York City on Sat, 26 Sept 2026.
 
 Jay Vic is a house and afro house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Miami and New York City. Often billed alongside Anthony Romano, LEFTI and Eli Fola. Next up: The Chocolate Factory, New York City on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Jay Vic is a house and afro house artist based in United States of America, trac
 
 ## Recently played
 
+- The Chocolate Factory, New York City — Sat, 26 Sept 2026
 - H0l0 Yard, New York City — Sat, 15 Aug 2026
 - The Onyx Room at House of Yes, New York City — Fri, 31 Jul 2026
 - SILO, New York City — Thu, 4 Jun 2026
@@ -19,10 +20,9 @@ Jay Vic is a house and afro house artist based in United States of America, trac
 - SILO, New York City — Thu, 5 Mar 2026
 - SILO, New York City — Thu, 6 Nov 2025
 - Signal, New York City — Sun, 17 Aug 2025
-- Dead Letter No. 9, New York City — Fri, 4 Jul 2025
 
 ## Shares bills with
 
 Anthony Romano, LEFTI, Eli Fola
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayvic/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayvic/)*

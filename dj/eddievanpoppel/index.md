@@ -1,6 +1,6 @@
 # Eddie Van Poppel
 
-Eddie Van Poppel is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Westminster Pier, London on Sat, 26 Sept 2026.
+Eddie Van Poppel is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Westminster Pier, London on Sat, 26 Sept 2026.
 
 Eddie Van Poppel is a house and disco artist based in United Kingdom, tracked on soundcheck, with 120 sets logged across London. Often billed alongside VanRock, Mr Fresh Official and NYCity Soundz. Next up: Westminster Pier, London on Sat 26 Sept.
 
@@ -16,6 +16,7 @@ Eddie Van Poppel is a house and disco artist based in United Kingdom, tracked on
 
 ## Recently played
 
+- Westminster Pier, London — Sat, 26 Sept 2026
 - Greenwich Pier, London — Sat, 29 Aug 2026
 - Crown Pier, London — Sat, 25 Jul 2026
 - Crown Pier, London — Sat, 11 Jul 2026
@@ -23,10 +24,9 @@ Eddie Van Poppel is a house and disco artist based in United Kingdom, tracked on
 - Westminster Pier, London — Sat, 27 Jun 2026
 - Crown Pier, London — Sat, 27 Jun 2026
 - Crown Pier, London — Sat, 13 Jun 2026
-- Crown Pier, London — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 VanRock, Mr Fresh Official, NYCity Soundz
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddievanpoppel/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddievanpoppel/)*

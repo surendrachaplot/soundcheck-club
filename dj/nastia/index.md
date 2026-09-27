@@ -1,6 +1,6 @@
 # Nastia
 
-Nastia is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at OFF-Club, Brussels on Sat, 26 Sept 2026.
+Nastia is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at OFF-Club, Brussels on Sat, 26 Sept 2026.
 
 Nastia is a techno and house artist based in Ukraine, tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: OFF-Club, Brussels on Sat 26 Sept.
 
@@ -23,6 +23,7 @@ Nastia is a techno and house artist based in Ukraine, tracked on soundcheck, wit
 
 ## Recently played
 
+- OFF-Club, Brussels — Sat, 26 Sept 2026
 - RADION, Amsterdam — Fri, 25 Sept 2026
 - Fiducial Asteria, Lyon — Sat, 19 Sept 2026
 - Tresor.West, Dortmund-essen — Sat, 12 Sept 2026
@@ -30,10 +31,9 @@ Nastia is a techno and house artist based in Ukraine, tracked on soundcheck, wit
 - Studio Club Malaga, Malaga — Fri, 24 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
 - RSO.BERLIN, Berlin — Sat, 18 Jul 2026
-- Les Enfants Brillants, Barcelona — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Stef Mendesidis, The Advent, DJ Bone
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*

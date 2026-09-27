@@ -1,14 +1,13 @@
 # Rauschhaus
 
-Rauschhaus is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Veronica Schip, Amsterdam on Sat, 26 Sept 2026.
+Rauschhaus is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ritter Butzke, Berlin on Sat, 3 Oct 2026.
 
-Rauschhaus is a techno and progressive house artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Markus Klee, Around Us and Callecat. Next up: Veronica Schip, Amsterdam on Sat 26 Sept.
+Rauschhaus is a techno and progressive house artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Markus Klee, Around Us and Callecat. Next up: Ritter Butzke, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Veronica Schip | Amsterdam |
 | Sat, 3 Oct 2026 | Ritter Butzke | Berlin |
 | Wed, 21 Oct 2026 | Kadinsky Cafe | Amsterdam |
 | Thu, 22 Oct 2026 | Kadinsky Cafe | Amsterdam |
@@ -17,6 +16,7 @@ Rauschhaus is a techno and progressive house artist based in Germany, tracked on
 
 ## Recently played
 
+- Veronica Schip, Amsterdam — Sat, 26 Sept 2026
 - The Bunker @ The Rolling Stock, London — Thu, 24 Sept 2026
 - elipamanoke, Leipzig — Fri, 10 Apr 2026
 - Tanzhaus West, Frankfurt — Sat, 10 Jan 2026
@@ -24,10 +24,9 @@ Rauschhaus is a techno and progressive house artist based in Germany, tracked on
 - Kadinsky Cafe, Amsterdam — Sat, 25 Oct 2025
 - Bar Feijoa, Amsterdam — Fri, 24 Oct 2025
 - Kadinsky Cafe, Amsterdam — Thu, 23 Oct 2025
-- Ritter Butzke, Berlin — Sat, 18 Oct 2025
 
 ## Shares bills with
 
 Markus Klee, Around Us, Callecat
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschhaus/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschhaus/)*

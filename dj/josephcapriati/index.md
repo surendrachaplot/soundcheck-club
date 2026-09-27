@@ -1,6 +1,6 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Ex Base Nato, Naples on Sun, 27 Sept 2026.
+Joseph Capriati is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ex Base Nato, Naples on Sun, 27 Sept 2026.
 
 Joseph Capriati is a techno and house artist based in Italy, tracked on soundcheck, with 226 sets logged across Amsterdam, Athens, Austin and Bali and 45 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Ex Base Nato, Naples on Sun 27 Sept.
 
@@ -36,4 +36,4 @@ Joseph Capriati is a techno and house artist based in Italy, tracked on soundche
 
 Jamie Jones, Indira Paganotto, Dennis Cruz
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

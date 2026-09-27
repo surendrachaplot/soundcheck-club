@@ -1,6 +1,6 @@
 # Antenna (2)
 
-Antenna (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+Antenna (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
 
 Antenna is an electronic artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam, Melbourne, Rotterdam and Sydney. Often billed alongside 1tbsp, András and Annie. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Antenna is an electronic artist based in Netherlands, tracked on soundcheck, wit
 
 1tbsp, András, Annie
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antenna-2/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antenna-2/)*

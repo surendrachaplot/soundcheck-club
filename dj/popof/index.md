@@ -1,6 +1,6 @@
 # Popof
 
-Popof is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mia Mao, Paris on Sat, 26 Sept 2026.
+Popof is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Mia Mao, Paris on Sat, 26 Sept 2026.
 
 Popof is a techno and tech house artist based in France, tracked on soundcheck, with 49 sets logged across Austin, Bangkok, Barcelona and Buenos Aires and 18 more. Often billed alongside Space 92, KRS and Anfisa Letyago. Next up: Mia Mao, Paris on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Popof is a techno and tech house artist based in France, tracked on soundcheck, 
 
 ## Recently played
 
+- Mia Mao, Paris — Sat, 26 Sept 2026
 - Obe, Lyon — Fri, 4 Sept 2026
 - Amnesia Ibiza, Ibiza — Wed, 22 Jul 2026
 - Mia Mao, Paris — Sat, 9 May 2026
@@ -20,10 +21,9 @@ Popof is a techno and tech house artist based in France, tracked on soundcheck, 
 - Le Sucre, Lyon — Fri, 13 Mar 2026
 - TBA - Parque de la Ciudad, Villa Soldati, Buenos Aires — Sat, 14 Feb 2026
 - T7 Paris, Paris — Fri, 16 Jan 2026
-- Warehouse, Nantes — Fri, 3 Oct 2025
 
 ## Shares bills with
 
 Space 92, KRS, Anfisa Letyago
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/popof/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/popof/)*

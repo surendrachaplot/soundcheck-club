@@ -1,6 +1,6 @@
 # Lucia Kagramanyan
 
-Lucia Kagramanyan is a Guaracha and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+Lucia Kagramanyan is a Guaracha and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 Lucia Kagramanyan is a guaracha and reggaeton artist based in Armenia, tracked on soundcheck, with 28 sets logged across Amsterdam, Armenia, Budapest and Glasgow and 4 more. Often billed alongside ephemer, DJ Once and E The Artist. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Lucia Kagramanyan is a guaracha and reggaeton artist based in Armenia, tracked o
 
 ## Recently played
 
+- TBA - Yerevan, Armenia, Armenia — Sat, 26 Sept 2026
 - Soffio Fregene, Rome — Sun, 26 Jul 2026
 - TBA - KVR, Vienna — Wed, 3 Jun 2026
 - FLUCC, Vienna — Sat, 16 May 2026
@@ -20,10 +21,9 @@ Lucia Kagramanyan is a guaracha and reggaeton artist based in Armenia, tracked o
 - TBA - WAF Gallery, Vienna — Sat, 28 Mar 2026
 - San Francisco, Amsterdam — Fri, 6 Feb 2026
 - FLUCC, Vienna — Fri, 17 Oct 2025
-- Sargfabrik, Vienna — Fri, 17 Oct 2025
 
 ## Shares bills with
 
 ephemer (4), DJ Once, E The Artist
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciakagramanyan/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciakagramanyan/)*

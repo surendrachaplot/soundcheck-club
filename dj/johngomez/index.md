@@ -1,14 +1,13 @@
 # John Gómez
 
-John Gómez is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Lisa, Lisbon on Sat, 19 Sept 2026.
+John Gómez is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Carpet Shop, London on Fri, 16 Oct 2026.
 
-John Gómez is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 13 more. Often billed alongside Nick The Record, Ruf Dug and Bradley Zero. Next up: Lisa, Lisbon on Sat 19 Sept.
+John Gómez is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 13 more. Often billed alongside Nick The Record, Ruf Dug and Bradley Zero. Next up: The Carpet Shop, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Lisa | Lisbon |
 | Fri, 16 Oct 2026 | The Carpet Shop | London |
 
 ## Recently played
@@ -26,4 +25,4 @@ John Gómez is a house and balearic artist based in United Kingdom, tracked on s
 
 Nick The Record, Ruf Dug, Bradley Zero
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johngomez/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johngomez/)*

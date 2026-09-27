@@ -1,6 +1,6 @@
 # Temenon
 
-Temenon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 9 Oct 2026.
+Temenon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 9 Oct 2026.
 
 Temenon is a house and techno artist tracked on soundcheck, with 17 sets logged across Los Angeles and Seattle. Often billed alongside Freddy M, KJ3 (US) and Cy Hanson. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Temenon is a house and techno artist tracked on soundcheck, with 17 sets logged 
 
 Freddy M, KJ3 (US), Cy Hanson
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/temenon/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/temenon/)*

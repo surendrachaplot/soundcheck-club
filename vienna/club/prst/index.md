@@ -1,6 +1,6 @@
 # PRST
 
-PRST is a music venue in Vienna with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Toy Tonics" on Sat, 26 Sept 2026.
+PRST is a music venue in Vienna with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Toy Tonics" on Sat, 26 Sept 2026.
 
 PRST is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, with line-ups including Chris Freud, Chruzo, Davide Dev and David Radi and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
@@ -19,4 +19,4 @@ PRST is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, with line
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

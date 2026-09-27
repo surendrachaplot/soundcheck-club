@@ -1,6 +1,6 @@
 # G33 (UK)
 
-G33 (UK) is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Movers, Nottingham on Thu, 8 Oct 2026.
+G33 (UK) is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Movers, Nottingham on Thu, 8 Oct 2026.
 
 G33 (UK) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Bristol, Glasgow, Helsinki and Ibiza and 6 more. Often billed alongside A.N.T, CITIZEN and Hanz. Next up: Movers, Nottingham on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ G33 (UK) is a garage and bass artist based in United Kingdom, tracked on soundch
 
 A.N.T, CITIZEN, Hanz
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g33-uk/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g33-uk/)*

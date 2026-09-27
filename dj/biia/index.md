@@ -1,14 +1,13 @@
 # BIIA
 
-BIIA is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hafen 49, Mannheim on Sat, 26 Sept 2026.
+BIIA is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Das Zimmer, Mannheim on Sat, 26 Sept 2026.
 
-BIIA is a techno and hardcore artist based in Portugal, tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Austin and Barcelona and 52 more. Often billed alongside Shlømo, Alignment and Basswell. Next up: Hafen 49, Mannheim on Sat 26 Sept.
+BIIA is a techno and hardcore artist based in Portugal, tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Austin and Barcelona and 52 more. Often billed alongside Shlømo, Alignment and Basswell. Next up: Das Zimmer, Mannheim on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Hafen 49 | Mannheim |
 | Sat, 26 Sept 2026 | Das Zimmer | Mannheim |
 | Sat, 3 Oct 2026 | BASIS | Utrecht |
 | Fri, 9 Oct 2026 | The Great Pyramids OF Giza | Egypt |
@@ -21,17 +20,17 @@ BIIA is a techno and hardcore artist based in Portugal, tracked on soundcheck, w
 
 ## Recently played
 
+- Hafen 49, Mannheim — Sat, 26 Sept 2026
+- Das Zimmer, Mannheim — Sat, 26 Sept 2026
 - Aria Complex, Malta — Sat, 19 Sept 2026
 - Hï Ibiza, Ibiza — Sun, 13 Sept 2026
 - Ministerium Club, Lisbon — Sun, 30 Aug 2026
 - Obudai Island, Budapest — Tue, 11 Aug 2026
 - Hï Ibiza, Ibiza — Sun, 9 Aug 2026
 - Hï Ibiza, Ibiza — Sun, 19 Jul 2026
-- TBA - Puerto de Sagunto, Valencia — Sat, 11 Jul 2026
-- Poble Espanyol, Barcelona — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Shlømo, Alignment, Basswell
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biia/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biia/)*

@@ -1,6 +1,6 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 29 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Elevate: Paco Osuna" on Sun, 27 Sept 2026.
+SWG3 is a music venue in Glasgow with 29 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Elevate: Paco Osuna" on Sun, 27 Sept 2026.
 
 SWG3 is a music venue in Glasgow listed on soundcheck. 29 upcoming gigs, with line-ups including Above & Beyond, Alexandria, AMMARA and Archie Hamilton and 2 more. Browse upcoming dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
@@ -23,4 +23,4 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 29 upcoming gigs, with li
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

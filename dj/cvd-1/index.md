@@ -1,6 +1,6 @@
 # CVD (1)
 
-CVD (1) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 31 Oct 2026.
+CVD (1) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 31 Oct 2026.
 
 CVD is a house and electro artist based in Spain, tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside Alex Garcia, DJ Gamba and Josepha. Next up: 303 Audiophile Bar, Barcelona on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ CVD is a house and electro artist based in Spain, tracked on soundcheck, with 3 
 
 Alex Garcia (2), DJ Gamba, Josepha
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cvd-1/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cvd-1/)*

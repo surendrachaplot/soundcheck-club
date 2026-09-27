@@ -1,6 +1,6 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "TTYL" on Sat, 26 Sept 2026.
+The Jama is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "TTYL" on Sat, 26 Sept 2026.
 
 The Jama is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including ADEOLA, Aji, baby mmune and B I P and 2 more. Browse upcoming dates, start times and who's playing. 961 College Street.
 
@@ -17,4 +17,4 @@ The Jama is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with
 
 961 College Street, Toronto
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*

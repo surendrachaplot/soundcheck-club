@@ -1,6 +1,6 @@
 # KanaK
 
-KanaK is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+KanaK is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 KanaK is a techno and breakbeat artist based in Japan, tracked on soundcheck, with 6 sets logged across Tokyo. Often billed alongside Anapol, Drinkss and Rhadewa. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ KanaK is a techno and breakbeat artist based in Japan, tracked on soundcheck, wi
 
 Anapol, Drinkss, Rhadewa
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanak/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanak/)*

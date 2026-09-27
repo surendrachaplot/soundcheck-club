@@ -1,6 +1,6 @@
 # nd_baumecker
 
-nd_baumecker is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+nd_baumecker is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
 
 nd_baumecker is a house and techno artist based in Germany, tracked on soundcheck, with 119 sets logged across Athens, Bali, Bangkok and Barcelona and 31 more. Often billed alongside Jorkes, Steffi and Efdemin. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ nd_baumecker is a house and techno artist based in Germany, tracked on soundchec
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 26 Sept 2026
 - Nitsa Club, Barcelona — Sat, 12 Sept 2026
 - Romantica, Stuttgart — Sat, 29 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
@@ -21,10 +22,9 @@ nd_baumecker is a house and techno artist based in Germany, tracked on soundchec
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 25 Jul 2026
 - Tanzhaus West, Frankfurt — Sat, 18 Jul 2026
 - Bassiani, Tbilisi — Fri, 10 Jul 2026
-- BLITZ, Munich — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Jorkes, Steffi, Efdemin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*

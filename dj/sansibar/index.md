@@ -1,14 +1,13 @@
 # Sansibar
 
-Sansibar is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at MOD Club, Tallinn on Sat, 26 Sept 2026.
+Sansibar is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sonnenraum, Berlin on Sun, 4 Oct 2026.
 
-Sansibar is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 46 more. Often billed alongside Denzel, Katerina and dj sweet6teen. Next up: MOD Club, Tallinn on Sat 26 Sept.
+Sansibar is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 46 more. Often billed alongside Denzel, Katerina and dj sweet6teen. Next up: Sonnenraum, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | MOD Club | Tallinn |
 | Sun, 4 Oct 2026 | Sonnenraum | Berlin |
 | Sat, 10 Oct 2026 | Radio Radio | Amsterdam |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
@@ -19,6 +18,7 @@ Sansibar is a techno and house artist tracked on soundcheck, with 187 sets logge
 
 ## Recently played
 
+- MOD Club, Tallinn — Sat, 26 Sept 2026
 - CLUB RAUM, Amsterdam — Fri, 18 Sept 2026
 - Renate, Berlin — Fri, 11 Sept 2026
 - Circle Park, Brussels — Sat, 29 Aug 2026
@@ -26,10 +26,9 @@ Sansibar is a techno and house artist tracked on soundcheck, with 187 sets logge
 - Lux Fragil, Lisbon — Sat, 15 Aug 2026
 - Ääniwalli, Helsinki — Sun, 9 Aug 2026
 - Post Bar, Helsinki — Sat, 1 Aug 2026
-- Macadam, Nantes — Sun, 26 Jul 2026
 
 ## Shares bills with
 
 Denzel, Katerina, dj sweet6teen
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*

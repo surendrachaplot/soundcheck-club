@@ -1,6 +1,6 @@
 # Dåser
 
-Dåser is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Daylight, Dublin on Sat, 26 Sept 2026.
+Dåser is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Daylight, Dublin on Sat, 26 Sept 2026.
 
 Dåser is a bass and techno artist based in Ireland, tracked on soundcheck, with 16 sets logged across Cork and Dublin. Often billed alongside Lúnasa, Becky and DJ Egg. Next up: TBA - Daylight, Dublin on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Dåser is a bass and techno artist based in Ireland, tracked on soundcheck, with
 
 ## Recently played
 
+- TBA - Daylight, Dublin — Sat, 26 Sept 2026
 - Yamamori Tengu, Dublin — Fri, 22 May 2026
 - TBA - Daylight Glasnevin , Dublin — Sat, 6 Dec 2025
 - Connollys of Leap, Cork — Sat, 28 Jun 2025
@@ -19,10 +20,9 @@ Dåser is a bass and techno artist based in Ireland, tracked on soundcheck, with
 - Pawn Shop, Dublin — Thu, 23 Jan 2025
 - Yamamori Izakaya, Dublin — Thu, 21 Nov 2024
 - Yamamori Izakaya, Dublin — Fri, 27 Sept 2024
-- Yamamori Tengu, Dublin — Fri, 9 Aug 2024
 
 ## Shares bills with
 
 Lúnasa, Becky (2), DJ Egg
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daser/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daser/)*

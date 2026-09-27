@@ -1,6 +1,6 @@
 # Phantom
 
-Phantom is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Unit Nine, South-east on Sat, 26 Sept 2026.
+Phantom is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unit Nine, South-east on Sat, 26 Sept 2026.
 
 Phantom is a drum & bass and jungle artist based in Serbia, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Berlin and Brighton and 17 more. Often billed alongside A.M.C., Carasel and BassLayerz. Next up: Unit Nine, South East on Sat 26 Sept.
 
@@ -16,6 +16,7 @@ Phantom is a drum & bass and jungle artist based in Serbia, tracked on soundchec
 
 ## Recently played
 
+- Unit Nine, South-east — Sat, 26 Sept 2026
 - Sklub, Czech-republic — Fri, 25 Sept 2026
 - Sawmills, Bristol — Sat, 12 Sept 2026
 - M-BIA, Berlin — Sat, 12 Sept 2026
@@ -23,10 +24,9 @@ Phantom is a drum & bass and jungle artist based in Serbia, tracked on soundchec
 - Antwerp Expo, Antwerp — Fri, 17 Apr 2026
 - Ääniwalli, Helsinki — Fri, 16 Jan 2026
 - Aura 57 NYC, New York City — Fri, 9 Jan 2026
-- Aura 57 NYC, New York City — Fri, 21 Nov 2025
 
 ## Shares bills with
 
 A.M.C., Carasel, BassLayerz
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phantom/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phantom/)*

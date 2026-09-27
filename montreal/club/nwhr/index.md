@@ -1,6 +1,6 @@
 # NWHR
 
-NWHR is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "NWHR invites Mike Chidiac // s.talbot // Miette" on Sat, 26 Sept 2026.
+NWHR is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "NWHR invites Mike Chidiac // s.talbot // Miette" on Sat, 26 Sept 2026.
 
 NWHR is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including BPlease, Hemka, Kanatonik and Kr!z and 2 more. Browse upcoming dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
 
@@ -21,4 +21,4 @@ NWHR is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with li
 
 1055 St Laurent Blvd Montreal, QC H2Z 1J6, Montreal
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*

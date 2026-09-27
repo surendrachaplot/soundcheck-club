@@ -1,6 +1,6 @@
 # MODULE
 
-MODULE is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "For Haus' Sake Season Launch" on Sat, 26 Sept 2026.
+MODULE is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "For Haus' Sake Season Launch" on Sat, 26 Sept 2026.
 
 MODULE is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs, with line-ups including Baime, Balrog, Blackloud and Cakebutcher and 2 more. Browse upcoming dates, start times and who's playing. Vesterbrogade 2B, 1620 København V, Danmark.
 
@@ -19,4 +19,4 @@ MODULE is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs, wit
 
 Vesterbrogade 2B, 1620 København V, Danmark, Copenhagen
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*

@@ -1,6 +1,6 @@
 # B72
 
-B72 is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "BIJI 'Tour 2026'" on Sat, 3 Oct 2026.
+B72 is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "BIJI 'Tour 2026'" on Sat, 3 Oct 2026.
 
 B72 is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-ups including Biji. Browse upcoming dates, start times and who's playing. Hernalser Gürtel 72-73, 1080 Wien, Austria.
 
@@ -15,4 +15,4 @@ B72 is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-
 
 Hernalser Gürtel 72-73, 1080 Wien, Austria, Vienna
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/b72/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/b72/)*

@@ -1,6 +1,6 @@
 # Luka (CH)
 
-Luka (CH) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kauz, Zurich on Sat, 26 Sept 2026.
+Luka (CH) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Kauz, Zurich on Sat, 26 Sept 2026.
 
 Luka (CH) is a house and techno artist based in Switzerland, tracked on soundcheck, with 60 sets logged across Antwerp, Athens, Brussels and Geneva and 8 more. Often billed alongside DJ Equipment, Jenny Cara and Bonnie OK. Next up: Kauz, Zurich on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Luka (CH) is a house and techno artist based in Switzerland, tracked on soundche
 
 ## Recently played
 
+- Kauz, Zurich — Sat, 26 Sept 2026
 - Studio Zürich, Zurich — Sat, 12 Sept 2026
 - Hive Club, Zurich — Fri, 24 Jul 2026
 - Kauz, Zurich — Fri, 29 May 2026
@@ -20,10 +21,9 @@ Luka (CH) is a house and techno artist based in Switzerland, tracked on soundche
 - Kauz, Zurich — Sat, 18 Apr 2026
 - Amboss Rampe, Zurich — Sat, 4 Apr 2026
 - Kauz, Zurich — Sat, 14 Mar 2026
-- La Gravière, Geneva — Fri, 6 Mar 2026
 
 ## Shares bills with
 
 DJ Equipment, Jenny Cara, Bonnie OK
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luka-ch/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luka-ch/)*

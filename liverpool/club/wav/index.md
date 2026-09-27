@@ -1,14 +1,13 @@
 # WaV
 
-WaV is a music venue in Liverpool with 12 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "QUADRANT PARK Autumn Party" on Sat, 26 Sept 2026.
+WaV is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "TRIPNO X TÝWCH LIVERPOOL - Wav - Anoluxx" on Sat, 3 Oct 2026.
 
-WaV is a music venue in Liverpool listed on soundcheck. 12 upcoming gigs, with line-ups including Aidyscape, Ciaran McAuley, Connor (UK) and David Rust and 2 more. Browse upcoming dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
+WaV is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, with line-ups including Aidyscape, Ciaran McAuley, Connor (UK) and David Rust and 2 more. Browse upcoming dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | QUADRANT PARK Autumn Party | John Kelly |
 | Sat, 3 Oct 2026 | TRIPNO X TÝWCH LIVERPOOL - Wav - Anoluxx |  |
 | Sat, 10 Oct 2026 | THE BACKROOMS presents: HADES + MORE | Hades |
 | Fri, 16 Oct 2026 | In The Now |  |
@@ -18,9 +17,10 @@ WaV is a music venue in Liverpool listed on soundcheck. 12 upcoming gigs, with l
 | Fri, 30 Oct 2026 | David Rust presents Redline | David Rust |
 | Sat, 31 Oct 2026 | SHOW ME LUV: Halloween Night |  |
 | Sat, 7 Nov 2026 | Seb Fontaine presents Prototype | Seb Fontaine |
+| Sat, 14 Nov 2026 | Ravelife: Event 6 at WAV | Klubfiller, Nanna Makina |
 
 ## Address
 
 8 Glegg Street, Liverpool , L3 7DX, Liverpool
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*

@@ -1,6 +1,6 @@
 # Shfoosja
 
-Shfoosja is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Gare / Le Gore, Paris on Sat, 26 Sept 2026.
+Shfoosja is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at La Gare / Le Gore, Paris on Sat, 26 Sept 2026.
 
 Shfoosja is a bass and drum & bass artist based in France, tracked on soundcheck, with 16 sets logged across Berlin, London, Lyon and Marseille and 2 more. Often billed alongside MARIAD, MASSEILOT and Mafille. Next up: La Gare / Le Gore, Paris on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Shfoosja is a bass and drum & bass artist based in France, tracked on soundcheck
 
 ## Recently played
 
+- La Gare / Le Gore, Paris — Sat, 26 Sept 2026
 - La Prairie du Canal, Paris — Sat, 19 Sept 2026
 - Badaboum, Paris — Fri, 18 Sept 2026
 - Le Sucre, Lyon — Fri, 21 Aug 2026
@@ -20,10 +21,9 @@ Shfoosja is a bass and drum & bass artist based in France, tracked on soundcheck
 - Gretchen, Berlin — Sat, 11 Jul 2026
 - Club Cheek, London — Fri, 12 Jun 2026
 - La Gare / Le Gore, Paris — Fri, 13 Feb 2026
-- Point Ephémère, Paris — Fri, 6 Feb 2026
 
 ## Shares bills with
 
 MARIAD, MASSEILOT, Mafille
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shfoosja/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shfoosja/)*

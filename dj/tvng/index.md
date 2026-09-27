@@ -1,6 +1,6 @@
 # TVNG
 
-TVNG is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at La Gare / Le Gore, Paris on Wed, 30 Sept 2026.
+TVNG is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at La Gare / Le Gore, Paris on Wed, 30 Sept 2026.
 
 TVNG is a techno and trance artist tracked on soundcheck, with 12 sets logged across Berlin, Brussels, Paris and Strasbourg. Often billed alongside NeoFX, niclazik and .JKM. Next up: La Gare / Le Gore, Paris on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ TVNG is a techno and trance artist tracked on soundcheck, with 12 sets logged ac
 
 NeoFX, niclazik, .JKM
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tvng/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tvng/)*

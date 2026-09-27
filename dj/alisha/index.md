@@ -1,6 +1,6 @@
 # ALISHA
 
-ALISHA is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+ALISHA is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 ALISHA is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 181 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
@@ -21,6 +21,7 @@ ALISHA is a house and tech house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
+- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
 - Amnesia Ibiza, Ibiza — Tue, 22 Sept 2026
 - Thuishaven, Amsterdam — Sun, 20 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
@@ -28,10 +29,9 @@ ALISHA is a house and tech house artist based in United Kingdom, tracked on soun
 - Madrid Caja Mágica, Madrid — Sat, 5 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - [UNVRS], Ibiza — Wed, 19 Aug 2026
-- Amnesia Ibiza, Ibiza — Thu, 6 Aug 2026
 
 ## Shares bills with
 
 East End Dubs, Jamie Jones, Max Dean
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*

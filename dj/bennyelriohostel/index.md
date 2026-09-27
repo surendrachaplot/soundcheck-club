@@ -1,6 +1,6 @@
 # Benny (El Rio Hostel)
 
-Benny (El Rio Hostel) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 2 Oct 2026.
+Benny (El Rio Hostel) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 2 Oct 2026.
 
 Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 6 more. Often billed alongside Adi (CO), Anna Wall and Barbaros. Next up: Les Enfants Brillants, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, 
 
 Adi (CO), Anna Wall, Barbaros
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyelriohostel/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyelriohostel/)*

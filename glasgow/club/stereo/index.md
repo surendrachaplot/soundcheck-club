@@ -1,14 +1,13 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 15 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Bare Maximum x Stereo: DJ Flight & SIMMS" on Sat, 26 Sept 2026.
+Stereo is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Expressions w/ GK Machine, Miles J Paralysis & LOVELL" on Fri, 2 Oct 2026.
 
-Stereo is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs, with line-ups including CLO, Creep-P, Dengue Dengue Dengue and DJ Flight and 2 more. Browse upcoming dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
+Stereo is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including CLO, Creep-P, Dengue Dengue Dengue and DJ Slugo and 2 more. Browse upcoming dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Bare Maximum x Stereo: DJ Flight & SIMMS | DJ Flight, SIMMS |
 | Fri, 2 Oct 2026 | Expressions w/ GK Machine, Miles J Paralysis & LOVELL | GK Machine, LOVELL, Miles J Paralysis |
 | Sat, 3 Oct 2026 | FUSE is 10 pt.4: Flowdan x Kahn, Neffa-T, Freshta + more | Flowdan, Freshta, Hometown Sound, Kahn, Neffa-T, Nusheen, saparilla, zolf |
 | Fri, 9 Oct 2026 | KRYLA | Gourlay, Iona.Violet, Quail, naidonovka |
@@ -18,9 +17,10 @@ Stereo is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs, with 
 | Thu, 22 Oct 2026 | BSOUND - ALL NITE | Soretsia, Spinefluid, eurokels, hubey |
 | Fri, 23 Oct 2026 | Aladji x Chicago Footwork Scotland x Stereo: DJ Slugo & username | DJ Slugo, SOFSOF, saparilla |
 | Sat, 24 Oct 2026 | Kylie Wears Berghaus | Kylie Wears Berghaus |
+| Fri, 30 Oct 2026 | Subcity Radio: Halloween |  |
 
 ## Address
 
 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom, Glasgow
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*

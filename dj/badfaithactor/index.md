@@ -1,6 +1,6 @@
 # Bad Faith Actor
 
-Bad Faith Actor is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Red Roof Church, Montreal on Sat, 26 Sept 2026.
+Bad Faith Actor is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Red Roof Church, Montreal on Sat, 26 Sept 2026.
 
 Bad Faith Actor is an industrial and ebm artist tracked on soundcheck, with 6 sets logged across Montreal. Often billed alongside Beau Wanzer, Dimitri Ok and Kontravoid. Next up: Red Roof Church, Montreal on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Bad Faith Actor is an industrial and ebm artist tracked on soundcheck, with 6 se
 
 ## Recently played
 
+- Red Roof Church, Montreal — Sat, 26 Sept 2026
 - Bar Le Ritz PDB, Montreal — Sat, 15 Aug 2026
 - Red Roof Church, Montreal — Fri, 8 May 2026
 - Red Roof Church, Montreal — Fri, 3 Oct 2025
@@ -22,4 +23,4 @@ Bad Faith Actor is an industrial and ebm artist tracked on soundcheck, with 6 se
 
 Beau Wanzer, Dimitri Ok, Kontravoid
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badfaithactor/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badfaithactor/)*

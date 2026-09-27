@@ -1,6 +1,6 @@
 # Emissive
 
-Emissive is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Rhythm, Toronto on Wed, 30 Sept 2026.
+Emissive is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Rhythm, Toronto on Wed, 30 Sept 2026.
 
 Emissive is a techno and house artist based in Canada, tracked on soundcheck, with 48 sets logged across Montreal, New York City, Toronto and Vancouver. Often billed alongside sanjeet, DJ D.Dee and Ester Shiner. Next up: Rhythm, Toronto on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Emissive is a techno and house artist based in Canada, tracked on soundcheck, wi
 
 sanjeet, DJ D.Dee, Ester Shiner
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emissive/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emissive/)*

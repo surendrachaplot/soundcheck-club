@@ -1,6 +1,6 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "<3<3 Y2K NITE - CASUAL LOOK B2B PEARL NECKLACE <3<3" on Sat, 26 Sept 2026.
+Nice N Sleazy is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "<3<3 Y2K NITE - CASUAL LOOK B2B PEARL NECKLACE <3<3" on Sat, 26 Sept 2026.
 
 Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 10 upcoming gigs, with line-ups including Angel Negrin, Casual Look, elcammgguod and ITEM9 and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 10 upcoming gigs
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

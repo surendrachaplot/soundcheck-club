@@ -1,6 +1,6 @@
 # Good Room
 
-Good Room is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Denham Audio, Kellam Matthews, Arina Krondeva & Rebekah Abdeen" on Sat, 26 Sept 2026.
+Good Room is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Denham Audio, Kellam Matthews, Arina Krondeva & Rebekah Abdeen" on Sat, 26 Sept 2026.
 
 Good Room is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 4AM NYC, adobeprincess, Arina Krondeva and Arvin T and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
@@ -23,4 +23,4 @@ Good Room is a music venue in New York City listed on soundcheck. 15 upcoming gi
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

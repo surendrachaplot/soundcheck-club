@@ -1,6 +1,6 @@
 # BORIS CLUB
 
-BORIS CLUB is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Boris pres. Pole Position" on Sat, 26 Sept 2026.
+BORIS CLUB is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Boris pres. Pole Position" on Sat, 26 Sept 2026.
 
 BORIS CLUB is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including AJNA, BizZa, Catz 'N Dogz and Cristi Cons and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
 
@@ -23,4 +23,4 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs,
 
 Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2], Barcelona
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*

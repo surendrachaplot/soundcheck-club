@@ -1,6 +1,6 @@
 # Peach
 
-Peach is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Peach is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 Peach is a house and techno artist based in Canada, tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 55 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -23,6 +23,7 @@ Peach is a house and techno artist based in Canada, tracked on soundcheck, with 
 
 ## Recently played
 
+- Depot Mayfield, Manchester — Sat, 26 Sept 2026
 - Fidelity Studio, Dublin — Fri, 25 Sept 2026
 - Gut Level, Sheffield — Sat, 19 Sept 2026
 - The Berkeley Suite, Glasgow — Sat, 12 Sept 2026
@@ -30,10 +31,9 @@ Peach is a house and techno artist based in Canada, tracked on soundcheck, with 
 - Uto-Staffel, Zurich — Sat, 5 Sept 2026
 - Karmen Camina, Strasbourg — Fri, 4 Sept 2026
 - Gaffe, London — Sun, 30 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

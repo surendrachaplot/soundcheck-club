@@ -1,6 +1,6 @@
 # DJ Betska
 
-DJ Betska is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at OHM, Berlin on Sat, 26 Sept 2026.
+DJ Betska is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at OHM, Berlin on Sat, 26 Sept 2026.
 
 DJ Betska is a dubstep and bass artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Agem, Beth Alana and Molecular Structures. Next up: OHM, Berlin on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ DJ Betska is a dubstep and bass artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- OHM, Berlin — Sat, 26 Sept 2026
 - Void Club, Berlin — Sat, 28 Feb 2026
 - Void Club, Berlin — Sat, 28 Feb 2026
 - Fitzroy, Berlin — Fri, 19 Dec 2025
@@ -19,10 +20,9 @@ DJ Betska is a dubstep and bass artist based in Germany, tracked on soundcheck, 
 - Wendel, Berlin — Sat, 26 Jul 2025
 - TBA - Secret Location, Berlin — Sat, 14 Jun 2025
 - Paloma, Berlin — Fri, 2 May 2025
-- Marmorbar, Berlin — Sun, 20 Apr 2025
 
 ## Shares bills with
 
 Agem, Beth Alana, Molecular Structures
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbetska/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbetska/)*

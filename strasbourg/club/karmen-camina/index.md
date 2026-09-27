@@ -1,6 +1,6 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 13 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "KC [Zenker Brothers • Itaho & Pacôme Orzi • EUROMAX DJ • JeanneTo]" on Sat, 26 Sept 2026.
+Karmen Camina is a music venue in Strasbourg with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "KC [Zenker Brothers • Itaho & Pacôme Orzi • EUROMAX DJ • JeanneTo]" on Sat, 26 Sept 2026.
 
 Karmen Camina is a music venue in Strasbourg listed on soundcheck. 13 upcoming gigs, with line-ups including Arbo, Danilo Plessow, Dario Zenker and Disguised and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
@@ -23,4 +23,4 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 13 upcoming g
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

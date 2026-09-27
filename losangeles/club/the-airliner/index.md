@@ -1,6 +1,6 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Reflections: Lando Polo, Evade Robots, Olive" on Sat, 26 Sept 2026.
+The Airliner is a music venue in Los Angeles with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Reflections: Lando Polo, Evade Robots, Olive" on Sat, 26 Sept 2026.
 
 The Airliner is a music venue in Los Angeles listed on soundcheck. 7 upcoming gigs, with line-ups including Aaron Paar, Ava Blank, Baltra and Captain Planet and 2 more. Browse upcoming dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
@@ -20,4 +20,4 @@ The Airliner is a music venue in Los Angeles listed on soundcheck. 7 upcoming gi
 
 2419 N Broadway, Los Angeles, CA 90036, Los Angeles
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*

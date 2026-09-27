@@ -1,6 +1,6 @@
 # MSL-T
 
-MSL-T is a Techno and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - The Random, Rome on Fri, 2 Oct 2026.
+MSL-T is a Techno and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - The Random, Rome on Fri, 2 Oct 2026.
 
 MSL-T is a techno and hard drum artist based in Italy, tracked on soundcheck, with 4 sets logged across Rome. Often billed alongside Lady Maru, 00100 and Alex P. Next up: TBA - The Random, Rome on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ MSL-T is a techno and hard drum artist based in Italy, tracked on soundcheck, wi
 
 Lady Maru, 00100, Alex P
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/msl-t/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/msl-t/)*

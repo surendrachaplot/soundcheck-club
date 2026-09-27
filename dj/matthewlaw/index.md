@@ -1,6 +1,6 @@
 # Matthew Law
 
-Matthew Law is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Jimmy Woo, Amsterdam on Fri, 23 Oct 2026.
+Matthew Law is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Jimmy Woo, Amsterdam on Fri, 23 Oct 2026.
 
 Matthew Law is a house and club artist based in United States of America, tracked on soundcheck, with 59 sets logged across Amsterdam, Miami, New York City and Philadelphia. Often billed alongside Khalil, DJ Dommis and Jabair. Next up: Jimmy Woo, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Matthew Law is a house and club artist based in United States of America, tracke
 
 Khalil, DJ Dommis, Jabair
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewlaw/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewlaw/)*

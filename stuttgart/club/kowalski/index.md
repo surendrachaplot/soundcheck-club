@@ -1,6 +1,6 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "KOWA SAMSTAG • ADD US • OUS & ORY" on Sat, 26 Sept 2026.
+Kowalski is a music venue in Stuttgart with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "KOWA SAMSTAG • ADD US • OUS & ORY" on Sat, 26 Sept 2026.
 
 Kowalski is a music venue in Stuttgart listed on soundcheck. 6 upcoming gigs, with line-ups including Jochen Pash and Thomas Colin. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
@@ -19,4 +19,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 6 upcoming gigs, wi
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

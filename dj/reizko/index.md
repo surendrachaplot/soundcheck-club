@@ -1,6 +1,6 @@
 # Reizko
 
-Reizko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Club Jerome, Sao Paulo on Sat, 26 Sept 2026.
+Reizko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Club Jerome, Sao Paulo on Sat, 26 Sept 2026.
 
 Reizko is a house and techno artist based in Brazil, tracked on soundcheck, with 47 sets logged across Sao Paulo. Often billed alongside PR.A.DO, Tripmod and DJ DUE. Next up: Club Jerome, Sao Paulo on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Reizko is a house and techno artist based in Brazil, tracked on soundcheck, with
 
 ## Recently played
 
+- Club Jerome, Sao Paulo — Sat, 26 Sept 2026
 - Dr. Banana Club, Sao Paulo — Sat, 19 Sept 2026
 - Dr. Banana Club, Sao Paulo — Fri, 17 Jul 2026
 - Dr. Banana Club, Sao Paulo — Sat, 4 Jul 2026
@@ -19,10 +20,9 @@ Reizko is a house and techno artist based in Brazil, tracked on soundcheck, with
 - Bar Carmem, Sao Paulo — Fri, 24 Apr 2026
 - Major Bar & Pista, Sao Paulo — Fri, 20 Mar 2026
 - Sala Bar, Sao Paulo — Sat, 21 Feb 2026
-- Palacete, Sao Paulo — Sun, 15 Feb 2026
 
 ## Shares bills with
 
 PR.A.DO, Tripmod, DJ DUE
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reizko/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reizko/)*

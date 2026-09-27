@@ -1,6 +1,6 @@
 # Lovie
 
-Lovie is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Palomino Bar, Los Angeles on Fri, 25 Sept 2026.
+Lovie is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Palomino Bar, Los Angeles on Fri, 25 Sept 2026.
 
 Lovie is a house and deep house artist based in United States of America, tracked on soundcheck, with 128 sets logged across Athens, Berlin, Brighton and Detroit and 12 more. Often billed alongside Honey Bun, JADALAREIGN and Kfeelz. Next up: Palomino Bar, Los Angeles on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Lovie is a house and deep house artist based in United States of America, tracke
 
 Honey Bun, JADALAREIGN, Kfeelz
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovie/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovie/)*

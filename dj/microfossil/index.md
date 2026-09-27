@@ -1,6 +1,6 @@
 # microfossil
 
-microfossil is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Metropolitan Bar, New York City on Fri, 9 Oct 2026.
+microfossil is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Metropolitan Bar, New York City on Fri, 9 Oct 2026.
 
 microfossil is a house and club artist based in United States of America, tracked on soundcheck, with 13 sets logged across New York City. Often billed alongside maenad, Elly DJ and Major Gruv. Next up: Metropolitan Bar, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ microfossil is a house and club artist based in United States of America, tracke
 
 maenad, Elly DJ, Major Gruv
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/microfossil/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/microfossil/)*

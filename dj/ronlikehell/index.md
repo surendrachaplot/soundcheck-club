@@ -1,6 +1,6 @@
 # Ron Like Hell
 
-Ron Like Hell is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Signal, New York City on Sat, 26 Sept 2026.
+Ron Like Hell is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Signal, New York City on Sat, 26 Sept 2026.
 
 Ron Like Hell is a techno and house artist based in United States of America, tracked on soundcheck, with 137 sets logged across Austin, Barcelona, Berlin and Bucharest and 12 more. Often billed alongside Ryan Smith, Kilopatrah Jones and Ne/Re/A. Next up: Signal, New York City on Sat 26 Sept.
 
@@ -15,6 +15,7 @@ Ron Like Hell is a techno and house artist based in United States of America, tr
 
 ## Recently played
 
+- Signal, New York City — Sat, 26 Sept 2026
 - TBA, New York City — Fri, 25 Sept 2026
 - BASEMENT, New York City — Sat, 19 Sept 2026
 - BASEMENT, New York City — Sat, 12 Sept 2026
@@ -22,10 +23,9 @@ Ron Like Hell is a techno and house artist based in United States of America, tr
 - BASEMENT, New York City — Sat, 8 Aug 2026
 - Bossa Nova Civic Club, New York City — Fri, 7 Aug 2026
 - Signal, New York City — Fri, 31 Jul 2026
-- BASEMENT, New York City — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Ryan Smith, Kilopatrah Jones, Ne/Re/A
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronlikehell/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronlikehell/)*

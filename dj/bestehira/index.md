@@ -1,6 +1,6 @@
 # Beste Hira
 
-Beste Hira is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+Beste Hira is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
 
 Beste Hira is a techno and house artist based in Netherlands, tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Rødhåd, Freddy K and Lobster (NL). Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
 
@@ -20,6 +20,7 @@ Beste Hira is a techno and house artist based in Netherlands, tracked on soundch
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 26 Sept 2026
 - Gewölbe, Cologne — Fri, 25 Sept 2026
 - TBA - Los Angeles, Los Angeles — Sat, 12 Sept 2026
 - Fvtvr, Paris — Sat, 5 Sept 2026
@@ -27,10 +28,9 @@ Beste Hira is a techno and house artist based in Netherlands, tracked on soundch
 - BASEMENT, New York City — Sat, 29 Aug 2026
 - FOLD, London — Fri, 7 Aug 2026
 - Lehmann Club, Stuttgart — Sat, 1 Aug 2026
-- Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Rødhåd, Freddy K, Lobster (NL)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*

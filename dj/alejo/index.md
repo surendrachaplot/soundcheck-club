@@ -1,6 +1,6 @@
 # Alejo
 
-Alejo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Club Jerome, Sao Paulo on Sat, 26 Sept 2026.
+Alejo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Club Jerome, Sao Paulo on Sat, 26 Sept 2026.
 
 Alejo is a house and techno artist tracked on soundcheck, with 5 sets logged across Miami and Sao Paulo. Often billed alongside Acid Asian, Alex Chapman and BR:UNO. Next up: Club Jerome, Sao Paulo on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Alejo is a house and techno artist tracked on soundcheck, with 5 sets logged acr
 
 ## Recently played
 
+- Club Jerome, Sao Paulo — Sat, 26 Sept 2026
 - The Ground at Club Space, Miami — Sat, 5 Apr 2025
 - Mad Radio Miami, Miami — Wed, 2 Oct 2024
 - The Ground at Club Space, Miami — Sat, 27 Apr 2024
@@ -21,4 +22,4 @@ Alejo is a house and techno artist tracked on soundcheck, with 5 sets logged acr
 
 Acid Asian, Alex Chapman, BR:UNO
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alejo/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alejo/)*

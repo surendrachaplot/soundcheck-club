@@ -1,6 +1,6 @@
 # NewTone
 
-NewTone is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at BASIS, Utrecht on Sat, 26 Sept 2026.
+NewTone is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at BASIS, Utrecht on Sat, 26 Sept 2026.
 
 NewTone is a house and techno artist based in Netherlands, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 11 more. Often billed alongside Boris Coelman, TINS and DART. Next up: BASIS, Utrecht on Sat 26 Sept.
 
@@ -21,6 +21,7 @@ NewTone is a house and techno artist based in Netherlands, tracked on soundcheck
 
 ## Recently played
 
+- BASIS, Utrecht — Sat, 26 Sept 2026
 - Mondo Open Air, Madrid — Sat, 19 Sept 2026
 - Mondo, Madrid — Sat, 19 Sept 2026
 - Laagravense Plas, Utrecht — Sat, 12 Sept 2026
@@ -28,10 +29,9 @@ NewTone is a house and techno artist based in Netherlands, tracked on soundcheck
 - Colorado Charlie, The Hague — Sat, 15 Aug 2026
 - Shelter Amsterdam, Amsterdam — Fri, 24 Jul 2026
 - Lofi, Amsterdam — Sat, 20 Jun 2026
-- Ijburg, Amsterdam — Sun, 7 Jun 2026
 
 ## Shares bills with
 
 Boris Coelman, TINS, DART
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*

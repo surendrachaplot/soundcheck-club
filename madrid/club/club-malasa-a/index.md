@@ -1,6 +1,6 @@
 # Club Malasaña
 
-Club Malasaña is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Kick con David Cabrera, Ninalash! y Dj Homie" on Sat, 26 Sept 2026.
+Club Malasaña is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Kick con David Cabrera, Ninalash! y Dj Homie" on Sat, 26 Sept 2026.
 
 Club Malasaña is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including David Cabrera, Dj Homie and Ninalash!. Browse upcoming dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
 
@@ -15,4 +15,4 @@ Club Malasaña is a music venue in Madrid listed on soundcheck. 2 upcoming gigs,
 
 Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain, Madrid
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*

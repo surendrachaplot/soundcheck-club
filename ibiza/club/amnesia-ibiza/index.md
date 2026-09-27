@@ -1,6 +1,6 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Godskitchen" on Sat, 26 Sept 2026.
+Amnesia Ibiza is a music venue in Ibiza with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Godskitchen" on Sat, 26 Sept 2026.
 
 Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming gigs, with line-ups including Kepler, Adrian Mills, Alexandria and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
@@ -23,4 +23,4 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming gigs, 
 
 Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza, Ibiza
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*

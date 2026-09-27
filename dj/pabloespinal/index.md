@@ -1,6 +1,6 @@
 # Pablo Espinal
 
-Pablo Espinal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at DNA. CLUB, Berlin on Sat, 26 Sept 2026.
+Pablo Espinal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at DNA. CLUB, Berlin on Sat, 26 Sept 2026.
 
 Pablo Espinal is a house and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside LUPENKO, Tiem and Blck-Swan. Next up: DNA. CLUB, Berlin on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Pablo Espinal is a house and techno artist based in Germany, tracked on soundche
 
 ## Recently played
 
+- DNA. CLUB, Berlin — Sat, 26 Sept 2026
 - KREUZWERK, Berlin — Sat, 28 Feb 2026
 - KREUZWERK, Berlin — Sun, 24 Aug 2025
 - ÆDEN, Berlin — Wed, 2 Jul 2025
@@ -19,10 +20,9 @@ Pablo Espinal is a house and techno artist based in Germany, tracked on soundche
 - M01, Berlin — Fri, 9 May 2025
 - Nachtvogel, Berlin — Tue, 31 Dec 2024
 - ÆDEN, Berlin — Thu, 26 Dec 2024
-- ÆDEN, Berlin — Fri, 15 Nov 2024
 
 ## Shares bills with
 
 LUPENKO, Tiem, Blck-Swan
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloespinal/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloespinal/)*

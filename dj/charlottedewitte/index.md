@@ -1,14 +1,13 @@
 # Charlotte de Witte
 
-Charlotte de Witte is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Fort Manoel, Malta on Sat, 26 Sept 2026.
+Charlotte de Witte is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ada Bridge , Belgrade, Serbia on Sun, 27 Sept 2026.
 
-Charlotte de Witte is a techno and house artist based in Belgium, tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Enrico Sangiuliano, Adiel and 999999999. Next up: Fort Manoel, Malta on Sat 26 Sept.
+Charlotte de Witte is a techno and house artist based in Belgium, tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Enrico Sangiuliano, Adiel and 999999999. Next up: Ada Bridge , Belgrade, Serbia on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Fort Manoel | Malta |
 | Sun, 27 Sept 2026 | Ada Bridge , Belgrade | Serbia |
 | Tue, 6 Oct 2026 | [UNVRS] | Ibiza |
 | Fri, 9 Oct 2026 | The Great Pyramids OF Giza | Egypt |
@@ -23,6 +22,7 @@ Charlotte de Witte is a techno and house artist based in Belgium, tracked on sou
 
 ## Recently played
 
+- Fort Manoel, Malta — Sat, 26 Sept 2026
 - Sektor 6D, Warsaw — Fri, 25 Sept 2026
 - Ex Macello, Milan — Sat, 5 Sept 2026
 - Tapada da Ajuda, Lisbon — Sun, 30 Aug 2026
@@ -30,10 +30,9 @@ Charlotte de Witte is a techno and house artist based in Belgium, tracked on sou
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
-- Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Enrico Sangiuliano, Adiel, 999999999
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*

@@ -1,6 +1,6 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Club Guesthouse, Bucharest on Sat, 26 Sept 2026.
+PARAMIDA is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Club Guesthouse, Bucharest on Sat, 26 Sept 2026.
 
 PARAMIDA is a house and techno artist based in Germany, tracked on soundcheck, with 258 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Club Guesthouse, Bucharest on Sat 26 Sept.
 
@@ -21,6 +21,7 @@ PARAMIDA is a house and techno artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
+- Club Guesthouse, Bucharest — Sat, 26 Sept 2026
 - CLUB RAUM, Amsterdam — Fri, 25 Sept 2026
 - Azimut Club, Turin — Sat, 19 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
@@ -28,10 +29,9 @@ PARAMIDA is a house and techno artist based in Germany, tracked on soundcheck, w
 - Jolene Downtown Miami, Miami — Sat, 12 Sept 2026
 - BASEMENT, New York City — Fri, 11 Sept 2026
 - Pylonen - Frizonen Langebro, Copenhagen — Fri, 4 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

@@ -1,14 +1,13 @@
 # The Yard
 
-The Yard is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Tempo & Resonate pres. Brian Tappert & Grant Nelson" on Sat, 26 Sept 2026.
+The Yard is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Resonate Mcr pres. 30 Years of Freerange" on Sat, 10 Oct 2026.
 
-The Yard is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including 13Ø4, Adam Freeland, Alex Q and Black Loops and 2 more. Browse upcoming dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
+The Yard is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including 13Ø4, Adam Freeland, Alex Q and Black Loops and 2 more. Browse upcoming dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Tempo & Resonate pres. Brian Tappert & Grant Nelson | Grant Nelson |
 | Sat, 10 Oct 2026 | Resonate Mcr pres. 30 Years of Freerange | Black Loops, Jimpster |
 | Sat, 24 Oct 2026 | DJ Club x Discability: ALL ACCESS | Cosmikuro, FAGASH, GINA (UK), MBB_, Princess Elf Bar, SDJ (1), chlo333e, maevie, mamba.exe |
 | Sat, 31 Oct 2026 | OBSCURUM ( Halloween X Thadingyut ) | 13Ø4, Egui, Freshta, Jumbled, KOSO, Obeka, Qoqnut, Third Kulture, krioso |
@@ -19,4 +18,4 @@ The Yard is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, w
 
 11 Bent Street, Manchester M8 8NF, Manchester
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*

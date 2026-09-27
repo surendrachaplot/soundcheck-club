@@ -1,6 +1,6 @@
 # Sam Irl
 
-Sam Irl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+Sam Irl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
 
 Sam Irl is a techno and house artist based in Austria, tracked on soundcheck, with 5 sets logged across Berlin and Vienna. Often billed alongside Patrick Pulsinger, Auspex and Beste Hira. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Sam Irl is a techno and house artist based in Austria, tracked on soundcheck, wi
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 26 Sept 2026
 - PRST, Vienna — Fri, 12 Jun 2026
 - PRST, Vienna — Sat, 7 Mar 2026
 - Celeste, Vienna — Fri, 23 Jan 2026
@@ -21,4 +22,4 @@ Sam Irl is a techno and house artist based in Austria, tracked on soundcheck, wi
 
 Patrick Pulsinger, Auspex, Beste Hira
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samirl/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samirl/)*

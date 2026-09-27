@@ -1,6 +1,6 @@
 # Skull Bar
 
-Skull Bar is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "Cannibal Radio Season Begins - Afterhours" on Sun, 27 Sept 2026.
+Skull Bar is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "Cannibal Radio Season Begins - Afterhours" on Sun, 27 Sept 2026.
 
 Skull Bar is a music venue in Athens listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 17, Lamprou Katsoni 13, Athina 114 71, Greece.
 
@@ -14,4 +14,4 @@ Skull Bar is a music venue in Athens listed on soundcheck. 1 upcoming gig. Brows
 
 17, Lamprou Katsoni 13, Athina 114 71, Greece, Athens
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/skull-bar/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/skull-bar/)*

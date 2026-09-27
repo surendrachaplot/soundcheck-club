@@ -1,6 +1,6 @@
 # Kyra Khaldi
 
-Kyra Khaldi is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Cause, London on Sat, 26 Sept 2026.
+Kyra Khaldi is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Cause, London on Sat, 26 Sept 2026.
 
 Kyra Khaldi is a house and techno artist based in Netherlands, tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside Moody Mehran, Benny Rodrigues and Boris Coelman. Next up: The Cause, London on Sat 26 Sept.
 
@@ -19,6 +19,7 @@ Kyra Khaldi is a house and techno artist based in Netherlands, tracked on soundc
 
 ## Recently played
 
+- The Cause, London — Sat, 26 Sept 2026
 - Radio Radio, Amsterdam — Fri, 11 Sept 2026
 - Doka, Amsterdam — Fri, 4 Sept 2026
 - Radio Radio, Amsterdam — Fri, 28 Aug 2026
@@ -26,10 +27,9 @@ Kyra Khaldi is a house and techno artist based in Netherlands, tracked on soundc
 - BRET, Amsterdam — Fri, 14 Aug 2026
 - Shelter Amsterdam, Amsterdam — Sat, 1 Aug 2026
 - Renate, Berlin — Fri, 24 Jul 2026
-- nachbar, Amsterdam — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Moody Mehran, Benny Rodrigues, Boris Coelman
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrakhaldi/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrakhaldi/)*

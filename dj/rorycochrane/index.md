@@ -1,18 +1,18 @@
 # Rory Cochrane
 
-Rory Cochrane is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Tokyo Bar, Newcastle on Sat, 26 Sept 2026.
+Rory Cochrane is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Macarena Club, Barcelona on Tue, 6 Oct 2026.
 
-Rory Cochrane is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Barcelona, London, Newcastle and Prague. Often billed alongside Hunter. S, Dean Mir and Retza. Next up: Tokyo Bar, Newcastle on Sat 26 Sept.
+Rory Cochrane is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Barcelona, London, Newcastle and Prague. Often billed alongside Hunter. S, Dean Mir and Retza. Next up: Macarena Club, Barcelona on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Tokyo Bar | Newcastle |
 | Tue, 6 Oct 2026 | Macarena Club | Barcelona |
 
 ## Recently played
 
+- Tokyo Bar, Newcastle — Sat, 26 Sept 2026
 - Bike Jesus, Prague — Fri, 31 Jul 2026
 - fabric, London — Sun, 28 Sept 2025
 - Macarena Club, Barcelona — Tue, 1 Jul 2025
@@ -20,10 +20,9 @@ Rory Cochrane is a deep house and house artist based in United Kingdom, tracked 
 - Hidden Heights Creative Studio, Newcastle — Sat, 5 Oct 2024
 - Tokyo Bar, Newcastle — Sat, 3 Aug 2024
 - World Headquarters, Newcastle — Fri, 2 Aug 2024
-- TBA - NYX Hotel Holborn, London — Fri, 31 May 2024
 
 ## Shares bills with
 
 Hunter. S, Dean Mir, Retza
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rorycochrane/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rorycochrane/)*

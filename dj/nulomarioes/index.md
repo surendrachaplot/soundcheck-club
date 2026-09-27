@@ -1,6 +1,6 @@
 # NULOMARIO (ES)
 
-NULOMARIO (ES) is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+NULOMARIO (ES) is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
 NULOMARIO (ES) is a minimal and house artist based in Spain, tracked on soundcheck, with 2 sets logged across Madrid. Often billed alongside BOUNCE BRIGADE, Baldman and Bibi. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ NULOMARIO (ES) is a minimal and house artist based in Spain, tracked on soundche
 
 BOUNCE BRIGADE, Baldman, Bibi
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nulomarioes/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nulomarioes/)*

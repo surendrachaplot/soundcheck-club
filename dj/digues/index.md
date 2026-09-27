@@ -1,6 +1,6 @@
 # DIGUES
 
-DIGUES is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Subcero Club, Madrid on Fri, 9 Oct 2026.
+DIGUES is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Subcero Club, Madrid on Fri, 9 Oct 2026.
 
 DIGUES is a house and electronica artist based in Spain, tracked on soundcheck, with 47 sets logged across Barcelona, Madrid and Mexico City. Often billed alongside Yahaira, DHERMIDA and Le Nomad. Next up: Subcero Club, Madrid on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DIGUES is a house and electronica artist based in Spain, tracked on soundcheck, 
 
 Yahaira, DHERMIDA, Le Nomad
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digues/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digues/)*

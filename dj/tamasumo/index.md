@@ -1,6 +1,6 @@
 # Tama Sumo
 
-Tama Sumo is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
+Tama Sumo is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
 
 Tama Sumo is a house and techno artist based in Germany, tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Athens and Bali and 51 more. Often billed alongside Lakuti, Roi Perez and Virginia. Next up: Spook Club, Valencia on Sat 26 Sept.
 
@@ -8,7 +8,6 @@ Tama Sumo is a house and techno artist based in Germany, tracked on soundcheck, 
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Spook Club | Valencia |
 | Sat, 26 Sept 2026 | Spook Club | Valencia |
 | Sat, 26 Sept 2026 | Spook Club | Valencia |
 | Sat, 10 Oct 2026 | Den Anden Side | Copenhagen |
@@ -20,17 +19,17 @@ Tama Sumo is a house and techno artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Spook Club, Valencia — Sat, 26 Sept 2026
+- Spook Club, Valencia — Sat, 26 Sept 2026
+- Spook Club, Valencia — Sat, 26 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 12 Sept 2026
 - UMI, Brussels — Fri, 11 Sept 2026
 - Strange Brew, Bristol — Sun, 30 Aug 2026
 - NAR, Utrecht — Sat, 29 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
-- Doka, Amsterdam — Sat, 1 Aug 2026
-- Doka, Amsterdam — Thu, 30 Jul 2026
-- Ferropolis, Leipzig — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Lakuti, Roi Perez, Virginia
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*

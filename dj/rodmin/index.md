@@ -1,6 +1,6 @@
 # Rodmin
 
-Rodmin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
+Rodmin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
 
 Rodmin is a techno and house artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin and Leipzig. Often billed alongside Jessamine, Hang Aoki and THNTS. Next up: ://about blank, Berlin on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Rodmin is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
+- ://about blank, Berlin — Sat, 26 Sept 2026
 - ://about blank, Berlin — Fri, 17 Jul 2026
 - ://about blank, Berlin — Sat, 4 Jul 2026
 - ://about blank, Berlin — Fri, 24 Apr 2026
@@ -19,10 +20,9 @@ Rodmin is a techno and house artist based in Germany, tracked on soundcheck, wit
 - ://about blank, Berlin — Fri, 12 Sept 2025
 - ://about blank, Berlin — Fri, 15 Aug 2025
 - ://about blank, Berlin — Fri, 11 Jul 2025
-- ://about blank, Berlin — Fri, 4 Jul 2025
 
 ## Shares bills with
 
 Jessamine, Hang Aoki, THNTS
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodmin/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodmin/)*

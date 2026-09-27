@@ -1,6 +1,6 @@
 # AMORAL
 
-AMORAL is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at SMUT Athens, Athens on Sat, 26 Sept 2026.
+AMORAL is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at SMUT Athens, Athens on Sat, 26 Sept 2026.
 
 AMORAL is a techno and house artist based in Netherlands, tracked on soundcheck, with 166 sets logged across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside MARRØN, Rene Wise and Lobster (NL). Next up: SMUT Athens, Athens on Sat 26 Sept.
 
@@ -17,6 +17,7 @@ AMORAL is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 ## Recently played
 
+- SMUT Athens, Athens — Sat, 26 Sept 2026
 - Lofi, Amsterdam — Sat, 19 Sept 2026
 - Palais, London — Sat, 12 Sept 2026
 - Studio Club Malaga, Malaga — Fri, 4 Sept 2026
@@ -24,10 +25,9 @@ AMORAL is a techno and house artist based in Netherlands, tracked on soundcheck,
 - Shunter, Rotterdam — Sat, 22 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - EXIL, Zurich — Sat, 8 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 MARRØN, Rene Wise, Lobster (NL)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*

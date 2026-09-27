@@ -1,6 +1,6 @@
 # M.O.T
 
-M.O.T is a music venue in London with 35 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Tickets on the door ✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹" on Sat, 26 Sept 2026.
+M.O.T is a music venue in London with 35 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Tickets on the door ✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹" on Sat, 26 Sept 2026.
 
 M.O.T is a music venue in London listed on soundcheck. 35 upcoming gigs, with line-ups including 1LDK, Agility, Angel D'lite and Ansome and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
@@ -23,4 +23,4 @@ M.O.T is a music venue in London listed on soundcheck. 35 upcoming gigs, with li
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

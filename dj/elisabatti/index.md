@@ -1,6 +1,6 @@
 # Elisa Batti
 
-Elisa Batti is a Techno and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
+Elisa Batti is a Techno and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
 
 Elisa Batti is a techno and ambient artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Barcelona and Berlin and 7 more. Often billed alongside Laura van Hal, Svreca and Thoms Traxx. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Elisa Batti is a techno and ambient artist based in Netherlands, tracked on soun
 
 Laura van Hal, Svreca, Thoms Traxx
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabatti/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabatti/)*

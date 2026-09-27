@@ -1,6 +1,6 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 39 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Amsterdam Nights: Hard Techno Rave w/ Wild Fox [AUS], ADRIELY [BRA], RAKKATACK [NL]" on Sat, 26 Sept 2026.
+John Doe is a music venue in Amsterdam with 39 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Amsterdam Nights: Hard Techno Rave w/ Wild Fox [AUS], ADRIELY [BRA], RAKKATACK [NL]" on Sat, 26 Sept 2026.
 
 John Doe is a music venue in Amsterdam listed on soundcheck. 39 upcoming gigs, with line-ups including A.L.A.E, ADRIANNA, ADRIELY and Alex Medina and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 39 upcoming gigs, w
 
 Rembrandtplein 31, 1017 CT Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*

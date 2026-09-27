@@ -1,6 +1,6 @@
 # Bomchello
 
-Bomchello is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
+Bomchello is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
 
 Bomchello is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Hamburg and Zurich. Often billed alongside Bonjessu, Muffel and freesi. Next up: Hive Club, Zurich on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Bomchello is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Hive Club, Zurich — Sat, 26 Sept 2026
 - Hafenklang, Hamburg — Sat, 25 Jul 2026
 - Orangerie Neukölln, Berlin — Thu, 16 Jul 2026
 - Südpol, Hamburg — Fri, 10 Jul 2026
@@ -20,10 +21,9 @@ Bomchello is a techno and house artist based in Germany, tracked on soundcheck, 
 - Kater, Berlin — Sat, 16 May 2026
 - Bulbul Berlin, Berlin — Thu, 14 May 2026
 - Orangerie Neukölln, Berlin — Fri, 13 Feb 2026
-- TBA - Secret Location - Infos on our socials , Berlin — Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Bonjessu, Muffel (2), freesi
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bomchello/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bomchello/)*

@@ -1,6 +1,6 @@
 # JEKKAMAÏ
 
-JEKKAMAÏ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at C12, Brussels on Sat, 26 Sept 2026.
+JEKKAMAÏ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at C12, Brussels on Sat, 26 Sept 2026.
 
 JEKKAMAÏ is a techno and house artist based in Belgium, tracked on soundcheck, with 35 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Hysope, ATARAXY and Oxtazz. Next up: C12, Brussels on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ JEKKAMAÏ is a techno and house artist based in Belgium, tracked on soundcheck, 
 
 ## Recently played
 
+- C12, Brussels — Sat, 26 Sept 2026
 - Fuse, Brussels — Fri, 18 Sept 2026
 - C12, Brussels — Fri, 19 Jun 2026
 - TBA, Brussels — Fri, 29 May 2026
@@ -21,10 +22,9 @@ JEKKAMAÏ is a techno and house artist based in Belgium, tracked on soundcheck, 
 - B21, Brussels — Fri, 3 Apr 2026
 - C12, Brussels — Fri, 13 Mar 2026
 - Woom, Antwerp — Fri, 27 Feb 2026
-- Fuse, Brussels — Fri, 30 Jan 2026
 
 ## Shares bills with
 
 Hysope, ATARAXY, Oxtazz
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jekkamai/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jekkamai/)*

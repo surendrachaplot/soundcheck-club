@@ -1,6 +1,6 @@
 # Lara Elfara
 
-Lara Elfara is a Downtempo and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Sensorium, Berlin on Sat, 26 Sept 2026.
+Lara Elfara is a Downtempo and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Sensorium, Berlin on Sat, 26 Sept 2026.
 
 Lara Elfara is a downtempo and psytrance artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Abdallah and I, Andeel and Noor Sanchez. Next up: Sensorium, Berlin on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Lara Elfara is a downtempo and psytrance artist based in Germany, tracked on sou
 
 ## Recently played
 
+- Sensorium, Berlin — Sat, 26 Sept 2026
 - Prisma, Berlin — Tue, 9 Jun 2026
 - Sensorium, Berlin — Sat, 28 Mar 2026
 - Prisma, Berlin — Fri, 20 Feb 2026
@@ -23,4 +24,4 @@ Lara Elfara is a downtempo and psytrance artist based in Germany, tracked on sou
 
 Abdallah and I, Andeel, Noor Sanchez
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laraelfara/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laraelfara/)*

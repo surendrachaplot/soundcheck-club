@@ -1,14 +1,13 @@
 # Felisha Ledesma
 
-Felisha Ledesma is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kildevæld Kulturcenter, Copenhagen on Thu, 24 Sept 2026.
+Felisha Ledesma is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Silent Green, Berlin on Thu, 1 Oct 2026.
 
-Felisha Ledesma is an experimental and electronica artist based in Sweden, tracked on soundcheck, with 6 sets logged across Berlin, Copenhagen, Lisbon and Manchester and 1 more. Often billed alongside Amelia Holt, Angelo Harmsworth and Ben Vince. Next up: Kildevæld Kulturcenter, Copenhagen on Thu 24 Sept.
+Felisha Ledesma is an experimental and electronica artist based in Sweden, tracked on soundcheck, with 6 sets logged across Berlin, Copenhagen, Lisbon and Manchester and 1 more. Often billed alongside Amelia Holt, Angelo Harmsworth and Ben Vince. Next up: Silent Green, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Kildevæld Kulturcenter | Copenhagen |
 | Thu, 1 Oct 2026 | Silent Green | Berlin |
 
 ## Recently played
@@ -23,4 +22,4 @@ Felisha Ledesma is an experimental and electronica artist based in Sweden, track
 
 Amelia Holt, Angelo Harmsworth, Ben Vince
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felishaledesma/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felishaledesma/)*

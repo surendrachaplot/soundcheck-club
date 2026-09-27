@@ -1,6 +1,6 @@
 # Elander Ziggy
 
-Elander Ziggy is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Colours Hoxton, London on Sat, 31 Oct 2026.
+Elander Ziggy is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Colours Hoxton, London on Sat, 31 Oct 2026.
 
 Elander Ziggy is a techno and ebm artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Lisbon and London. Often billed alongside Ricardo Castro, Steve Weeks and Odilon's Grip. Next up: Colours Hoxton, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Elander Ziggy is a techno and ebm artist based in United Kingdom, tracked on sou
 
 Ricardo Castro, Steve Weeks, Odilon's Grip
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elanderziggy/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elanderziggy/)*

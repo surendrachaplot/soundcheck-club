@@ -1,6 +1,6 @@
 # HoneyCafe
 
-HoneyCafe is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Chocolate Factory, New York City on Sat, 26 Sept 2026.
+HoneyCafe is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Chocolate Factory, New York City on Sat, 26 Sept 2026.
 
 HoneyCafe is a house and afro tech artist based in United States of America, tracked on soundcheck, with 6 sets logged across New York City. Often billed alongside Boy Cordero, ALEXIS DE LA ROSA and Bendito. Next up: The Chocolate Factory, New York City on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ HoneyCafe is a house and afro tech artist based in United States of America, tra
 
 ## Recently played
 
+- The Chocolate Factory, New York City — Sat, 26 Sept 2026
 - Signal, New York City — Sat, 4 Jul 2026
 - The Chocolate Factory, New York City — Fri, 20 Feb 2026
 - Earthly Delights, New York City — Sun, 11 May 2025
@@ -22,4 +23,4 @@ HoneyCafe is a house and afro tech artist based in United States of America, tra
 
 Boy Cordero, ALEXIS DE LA ROSA, Bendito
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honeycafe/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honeycafe/)*

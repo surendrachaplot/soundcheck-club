@@ -1,14 +1,13 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Südbrücke Open Air, Cologne on Sat, 26 Sept 2026.
+Ueberrest is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
-Ueberrest is a techno and trance artist based in Switzerland, tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Südbrücke Open Air, Cologne on Sat 26 Sept.
+Ueberrest is a techno and trance artist based in Switzerland, tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Südbrücke Open Air | Cologne |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Sat, 3 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Fri, 23 Oct 2026 | Gate Milano | Milan |
@@ -21,6 +20,7 @@ Ueberrest is a techno and trance artist based in Switzerland, tracked on soundch
 
 ## Recently played
 
+- Südbrücke Open Air, Cologne — Sat, 26 Sept 2026
 - Club Vaag, Antwerp — Fri, 25 Sept 2026
 - Westhafen, Leipzig — Sat, 19 Sept 2026
 - Zenith - Die Kulturhalle, Munich — Sat, 12 Sept 2026
@@ -28,10 +28,9 @@ Ueberrest is a techno and trance artist based in Switzerland, tracked on soundch
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Maassilo, Rotterdam — Sat, 29 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- The Classic Grand, Glasgow — Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Kobosil, Somewhen, KUKO
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

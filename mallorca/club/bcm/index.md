@@ -1,6 +1,6 @@
 # BCM
 
-BCM is a music venue in Mallorca with 5 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Dombresky" on Sat, 26 Sept 2026.
+BCM is a music venue in Mallorca with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Dombresky" on Sat, 26 Sept 2026.
 
 BCM is a music venue in Mallorca listed on soundcheck. 5 upcoming gigs, with line-ups including AARON SEVILLA, Dombresky and The Magician. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
 
@@ -18,4 +18,4 @@ BCM is a music venue in Mallorca listed on soundcheck. 5 upcoming gigs, with lin
 
 BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain, Mallorca
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*

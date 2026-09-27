@@ -1,14 +1,13 @@
 # startambourine
 
-startambourine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at A-Bar, Kyoto on Fri, 25 Sept 2026.
+startambourine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Daikokudani Camping Ground, Kyoto on Sat, 10 Oct 2026.
 
-startambourine is a house and techno artist based in Japan, tracked on soundcheck, with 9 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ascalypso, HOBOBRAZIL and Akey. Next up: A-Bar, Kyoto on Fri 25 Sept.
+startambourine is a house and techno artist based in Japan, tracked on soundcheck, with 9 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ascalypso, HOBOBRAZIL and Akey. Next up: Daikokudani Camping Ground, Kyoto on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | A-Bar | Kyoto |
 | Sat, 10 Oct 2026 | Daikokudani Camping Ground | Kyoto |
 
 ## Recently played
@@ -26,4 +25,4 @@ startambourine is a house and techno artist based in Japan, tracked on soundchec
 
 Ascalypso, HOBOBRAZIL, Akey
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/startambourine/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/startambourine/)*

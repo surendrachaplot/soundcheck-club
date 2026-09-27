@@ -1,6 +1,6 @@
 # Mabe Fratti
 
-Mabe Fratti is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Mabe Fratti is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Mabe Fratti is an experimental and ambient artist based in Guatemala, tracked on soundcheck, with 6 sets logged across Buenos Aires, Krakow, Mexico City and Miami and 2 more. Often billed alongside Clarissa Connelly, Juliana Huxtable and Mark William Lewis. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Mabe Fratti is an experimental and ambient artist based in Guatemala, tracked on
 
 Clarissa Connelly, Juliana Huxtable, Mark William Lewis
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mabefratti/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mabefratti/)*

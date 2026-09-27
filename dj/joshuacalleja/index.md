@@ -1,6 +1,6 @@
 # Joshua Calleja
 
-Joshua Calleja is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Secret Location, Malta on Sat, 26 Sept 2026.
+Joshua Calleja is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Secret Location, Malta on Sat, 26 Sept 2026.
 
 Joshua Calleja is a techno and acid artist based in Malta, tracked on soundcheck, with 25 sets logged across Berlin and Malta. Often billed alongside OBLX, iNK MT and SEMREH. Next up: TBA - Secret Location, Malta on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Joshua Calleja is a techno and acid artist based in Malta, tracked on soundcheck
 
 ## Recently played
 
+- TBA - Secret Location, Malta — Sat, 26 Sept 2026
 - Liquid Club, Malta — Fri, 18 Sept 2026
 - Liquid Club, Malta — Sun, 16 Aug 2026
 - Liquid Club, Malta — Fri, 3 Jul 2026
@@ -20,10 +21,9 @@ Joshua Calleja is a techno and acid artist based in Malta, tracked on soundcheck
 - Liquid Club, Malta — Sat, 20 Jun 2026
 - BMX Warehouse, Malta — Sun, 1 Mar 2026
 - Groove Gardens, Malta — Sun, 22 Feb 2026
-- ÆDEN, Berlin — Thu, 29 Jan 2026
 
 ## Shares bills with
 
 OBLX, iNK MT, SEMREH
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuacalleja/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuacalleja/)*

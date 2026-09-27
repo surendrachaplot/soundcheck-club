@@ -1,6 +1,6 @@
 # Amber's
 
-Amber's is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Unfazed 90s Day Rave - Final show of 2026" on Sat, 3 Oct 2026.
+Amber's is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Unfazed 90s Day Rave - Final show of 2026" on Sat, 3 Oct 2026.
 
 Amber's is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including Arpy Brown, Demi Riquisimo, Grace Sands and HALFPINT and 2 more. Browse upcoming dates, start times and who's playing. 1 Circle Square, 3 Symphony Park, Manchester M17FS.
 
@@ -19,4 +19,4 @@ Amber's is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, wi
 
 1 Circle Square, 3 Symphony Park, Manchester M17FS, Manchester
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*

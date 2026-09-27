@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 33 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Soul Clap, A lana / Nita Aviance, Dee Diggs / David Paglia" on Sat, 26 Sept 2026.
+public records is a music venue in New York City with 33 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Soul Clap, A lana / Nita Aviance, Dee Diggs / David Paglia" on Sat, 26 Sept 2026.
 
 public records is a music venue in New York City listed on soundcheck. 33 upcoming gigs, with line-ups including 4AM NYC, MORENXXX, AADJA and Aaron Dae and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -9,7 +9,7 @@ public records is a music venue in New York City listed on soundcheck. 33 upcomi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Soul Clap, A lana / Nita Aviance, Dee Diggs / David Paglia | A lana, David Paglia, Dee Diggs, Nita Aviance, Soul Clap |
-| Sun, 27 Sept 2026 | The Nursery: Jump Source, Pilgrims of the Mind [Live], Jennifer Loveless | Jennifer Loveless, Jump Source |
+| Sun, 27 Sept 2026 | The Atrium: Jump Source, Pilgrims of the Mind [Live], Jennifer Loveless | Jennifer Loveless, Jump Source |
 | Sun, 27 Sept 2026 | Shelter: Timmy Regisford Open To Close | Timmy Regisford |
 | Fri, 2 Oct 2026 | Volvox, AZA / Space Drum Meditation, Laurence Matte / bbbBbBB | AZA, BbbBbBB (2), Laurence Matte, Space Drum Meditation, Volvox |
 | Sat, 3 Oct 2026 | Titonton Duvanté, Shawn Dub / Mike Servito, JADALAREIGN / kels | JADALAREIGN, Kels (US), Mike Servito, Shawn Dub, Titonton Duvanté |
@@ -23,4 +23,4 @@ public records is a music venue in New York City listed on soundcheck. 33 upcomi
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

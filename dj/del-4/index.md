@@ -1,6 +1,6 @@
 # Del (4)
 
-Del (4) is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Stud, San Francisco/Oakland on Sat, 26 Sept 2026.
+Del (4) is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Stud, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Del is a techno and club artist based in United States of America, tracked on soundcheck, with 51 sets logged across Bristol, Miami, New York City and Philadelphia and 1 more. Often billed alongside Mnemonics, FINISHHER and SNAQ. Next up: The Stud, San Francisco/Oakland on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ Del is a techno and club artist based in United States of America, tracked on so
 
 ## Recently played
 
+- The Stud, San Francisco/Oakland — Sat, 26 Sept 2026
 - C'mon Everybody, New York City — Sat, 19 Sept 2026
 - The San Francisco Mint, San Francisco/Oakland — Sun, 26 Jul 2026
 - F8 1192 Folsom, San Francisco/Oakland — Sat, 27 Jun 2026
@@ -21,10 +22,9 @@ Del is a techno and club artist based in United States of America, tracked on so
 - Public Works, San Francisco/Oakland — Fri, 19 Jun 2026
 - F8 1192 Folsom, San Francisco/Oakland — Sat, 28 Mar 2026
 - The Stud, San Francisco/Oakland — Fri, 27 Feb 2026
-- TBA - San Francisco, San Francisco/Oakland — Sat, 17 Jan 2026
 
 ## Shares bills with
 
 Mnemonics, FINISHHER, SNAQ
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/del-4/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/del-4/)*

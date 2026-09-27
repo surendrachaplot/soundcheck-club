@@ -1,6 +1,6 @@
 # Liebe Nachbarn
 
-Liebe Nachbarn is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Klunkerkranich, Berlin on Fri, 2 Oct 2026.
+Liebe Nachbarn is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Klunkerkranich, Berlin on Fri, 2 Oct 2026.
 
 Liebe Nachbarn is a tech house and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin and Munich. Often billed alongside Anna Lazer, DJ Nebelmaschine and Bernd Bugatti. Next up: Klunkerkranich, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Liebe Nachbarn is a tech house and house artist based in Germany, tracked on sou
 
 Anna Lazer, DJ Nebelmaschine, Bernd Bugatti
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liebenachbarn/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liebenachbarn/)*

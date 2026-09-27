@@ -1,6 +1,6 @@
 # Storm Mollison
 
-Storm Mollison is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Storm Mollison is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
 Storm Mollison is a house and disco artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Brighton and Bristol and 9 more. Often billed alongside Joshua James, Dan Shake and D Stone. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Storm Mollison is a house and disco artist based in United Kingdom, tracked on s
 
 Joshua James, Dan Shake, D Stone
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmollison/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmollison/)*

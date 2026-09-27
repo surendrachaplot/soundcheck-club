@@ -1,6 +1,6 @@
 # John Wick
 
-John Wick is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Ministerium Club, Lisbon on Sat, 26 Sept 2026.
+John Wick is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Ministerium Club, Lisbon on Sat, 26 Sept 2026.
 
 John Wick is a techno and club artist based in Portugal, tracked on soundcheck, with 20 sets logged across Lisbon, London and Los Angeles. Often billed alongside John-E, Alex Pereira and Brianathegemini. Next up: Ministerium Club, Lisbon on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ John Wick is a techno and club artist based in Portugal, tracked on soundcheck, 
 
 ## Recently played
 
+- Ministerium Club, Lisbon — Sat, 26 Sept 2026
 - Gaffe, London — Sat, 6 Dec 2025
 - Ministerium Club, Lisbon — Sat, 17 May 2025
 - Lisboa Rio, Lisbon — Wed, 23 Apr 2025
@@ -19,10 +20,9 @@ John Wick is a techno and club artist based in Portugal, tracked on soundcheck, 
 - Los Angeles Convention Center, Los Angeles — Fri, 4 Oct 2024
 - Lisboa Rio, Lisbon — Mon, 30 Sept 2024
 - TEMPLE, Lisbon — Sat, 27 Jul 2024
-- TEMPLE, Lisbon — Fri, 24 May 2024
 
 ## Shares bills with
 
 John-E, Alex Pereira, Brianathegemini
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnwick/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnwick/)*

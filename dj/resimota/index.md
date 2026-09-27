@@ -1,6 +1,6 @@
 # Resimota
 
-Resimota is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
+Resimota is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
 
 Resimota is an electronic artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London and Paris. Often billed alongside Surssup, Alba Akvama and Angel D'lite. Next up: M.O.T, London on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Resimota is an electronic artist based in United Kingdom, tracked on soundcheck,
 
 ## Recently played
 
+- M.O.T, London — Sat, 26 Sept 2026
 - Ormside Projects, London — Thu, 9 Jul 2026
 - Le Sample, Paris — Sun, 10 May 2026
 - Avalon Cafe Bermondsey, London — Wed, 14 Jan 2026
@@ -23,4 +24,4 @@ Resimota is an electronic artist based in United Kingdom, tracked on soundcheck,
 
 Surssup, Alba Akvama, Angel D'lite
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/resimota/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/resimota/)*

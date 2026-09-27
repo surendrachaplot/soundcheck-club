@@ -1,6 +1,6 @@
 # Anthony Pappa
 
-Anthony Pappa is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at The Chemist, Boston on Sat, 26 Sept 2026.
+Anthony Pappa is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Chemist, Boston on Sat, 26 Sept 2026.
 
 Anthony Pappa is a progressive house and house artist based in Australia, tracked on soundcheck, with 52 sets logged across Amsterdam, Auckland, Barcelona and Belgrade and 21 more. Often billed alongside Dave Seaman, Danny Howells and Cris-H. Next up: The Chemist, Boston on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Anthony Pappa is a progressive house and house artist based in Australia, tracke
 
 ## Recently played
 
+- The Chemist, Boston — Sat, 26 Sept 2026
 - Bikini Club, Barcelona — Sat, 5 Sept 2026
 - Box Hub, Glasgow — Sun, 30 Aug 2026
 - Manii Beach, Amsterdam — Sat, 29 Aug 2026
@@ -19,10 +20,9 @@ Anthony Pappa is a progressive house and house artist based in Australia, tracke
 - WOMB, Tokyo — Sat, 13 Jun 2026
 - Plaza Hotel Sydney, Sydney — Sun, 7 Jun 2026
 - TBA - Eclipse, Brisbane — Sat, 6 Jun 2026
-- Northcote Theatre, Melbourne — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Dave Seaman, Danny Howells, Cris-H
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonypappa/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonypappa/)*

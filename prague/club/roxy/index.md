@@ -1,6 +1,6 @@
 # Roxy
 
-Roxy is a music venue in Prague with 18 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Andy C & MC Tonn Piper ∞ ROXY Prague" on Sat, 26 Sept 2026.
+Roxy is a music venue in Prague with 18 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Andy C & MC Tonn Piper ∞ ROXY Prague" on Sat, 26 Sept 2026.
 
 Roxy is a music venue in Prague listed on soundcheck. 18 upcoming gigs, with line-ups including 1991 (UK), Adam Beyer, Adrian Mills and Agents Of Time and 2 more. Browse upcoming dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
 
@@ -23,4 +23,4 @@ Roxy is a music venue in Prague listed on soundcheck. 18 upcoming gigs, with lin
 
 Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic, Prague
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*

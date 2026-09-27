@@ -1,14 +1,13 @@
 # Freddi
 
-Freddi is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Mondo Open Air, Madrid on Sat, 26 Sept 2026.
+Freddi is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Mondo, Madrid on Sat, 26 Sept 2026.
 
-Freddi is a house and techno artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Madrid and Rotterdam and 2 more. Often billed alongside OLIVIA LENSEN, Gerardo Niva and Kara Okay. Next up: Mondo Open Air, Madrid on Sat 26 Sept.
+Freddi is a house and techno artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Madrid and Rotterdam and 2 more. Often billed alongside OLIVIA LENSEN, Gerardo Niva and Kara Okay. Next up: Mondo, Madrid on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 26 Sept 2026 | Mondo | Madrid |
 | Sat, 10 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Wed, 21 Oct 2026 | Tropeninstituut: Koninklijk Instituut Voor de Tropen | Amsterdam |
@@ -18,17 +17,17 @@ Freddi is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 ## Recently played
 
+- Mondo Open Air, Madrid — Sat, 26 Sept 2026
+- Mondo, Madrid — Sat, 26 Sept 2026
 - Laagravense Plas, Utrecht — Sat, 12 Sept 2026
 - SISSI'S Amsterdam, Amsterdam — Sat, 5 Sept 2026
 - Club Vaag, Antwerp — Sat, 1 Aug 2026
 - Het Sieraad, Amsterdam — Sat, 25 Jul 2026
 - Colorado Charlie, The Hague — Sat, 18 Jul 2026
 - Stadshaven Brouwerij, Rotterdam — Sat, 4 Jul 2026
-- Strijkviertel, Utrecht — Sat, 6 Jun 2026
-- SISSI'S Amsterdam, Amsterdam — Fri, 8 May 2026
 
 ## Shares bills with
 
 OLIVIA LENSEN, Gerardo Niva, Kara Okay
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddi/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddi/)*

@@ -1,6 +1,6 @@
 # Arina Krondeva
 
-Arina Krondeva is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Good Room, New York City on Sat, 26 Sept 2026.
+Arina Krondeva is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Good Room, New York City on Sat, 26 Sept 2026.
 
 Arina Krondeva is a techno and house artist based in Russia, tracked on soundcheck, with 7 sets logged across Miami and New York City. Often billed alongside ATRIP, Cole Knight and Jamie Jones. Next up: Good Room, New York City on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Arina Krondeva is a techno and house artist based in Russia, tracked on soundche
 
 ## Recently played
 
+- Good Room, New York City — Sat, 26 Sept 2026
 - Toejam Backlot, Miami — Sun, 29 Mar 2026
 - Factory Town, Miami — Thu, 26 Mar 2026
 - Good Room, New York City — Sat, 7 Feb 2026
@@ -23,4 +24,4 @@ Arina Krondeva is a techno and house artist based in Russia, tracked on soundche
 
 ATRIP, Cole Knight, Jamie Jones
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arinakrondeva/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arinakrondeva/)*

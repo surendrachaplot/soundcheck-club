@@ -1,6 +1,6 @@
 # Vardae
 
-Vardae is a Techno and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at LAUT, Barcelona on Sat, 26 Sept 2026.
+Vardae is a Techno and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at LAUT, Barcelona on Sat, 26 Sept 2026.
 
 Vardae is a techno and drum & bass artist based in France, tracked on soundcheck, with 45 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Konduku, GiGi FM and Spekki Webu. Next up: LAUT, Barcelona on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ Vardae is a techno and drum & bass artist based in France, tracked on soundcheck
 
 ## Recently played
 
+- LAUT, Barcelona — Sat, 26 Sept 2026
 - TBA - Sarthe, Paris — Fri, 24 Jul 2026
 - TBA - OAKYARD GROUNDS - 2h north of Berlin., Berlin — Fri, 3 Jul 2026
 - Brutus, Rotterdam — Sat, 27 Jun 2026
@@ -21,10 +22,9 @@ Vardae is a techno and drum & bass artist based in France, tracked on soundcheck
 - Astron Club, Athens — Fri, 5 Jun 2026
 - UMI, Brussels — Sat, 2 May 2026
 - Razzmatazz, Barcelona — Sat, 11 Apr 2026
-- TBA - San Francisco, San Francisco/Oakland — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Konduku, GiGi FM, Spekki Webu
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vardae/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vardae/)*

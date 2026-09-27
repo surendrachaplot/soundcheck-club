@@ -1,6 +1,6 @@
 # Leviminks
 
-Leviminks is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Omeara, London on Sat, 17 Oct 2026.
+Leviminks is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Omeara, London on Sat, 17 Oct 2026.
 
 Leviminks is a techno and ebm artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Birmingham, Istanbul and London. Often billed alongside Arrosa, LIZAZA and Daria Vanilla. Next up: Omeara, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Leviminks is a techno and ebm artist based in United Kingdom, tracked on soundch
 
 Arrosa, LIZAZA, Daria Vanilla
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leviminks/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leviminks/)*

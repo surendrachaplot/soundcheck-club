@@ -1,6 +1,6 @@
 # Dexta
 
-Dexta is a Drum & Bass and Garage artist with 4 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Planet Wax, London on Sun, 27 Sept 2026.
+Dexta is a Drum & Bass and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Planet Wax, London on Sun, 27 Sept 2026.
 
 Dexta is a drum & bass and garage artist based in United Kingdom, tracked on soundcheck, with 95 sets logged across London. Often billed alongside Uncle G, Controlled Weirdness and Sicknote. Next up: Planet Wax, London on Sun 27 Sept.
 
@@ -28,4 +28,4 @@ Dexta is a drum & bass and garage artist based in United Kingdom, tracked on sou
 
 Uncle G, Controlled Weirdness, Sicknote
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dexta/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dexta/)*

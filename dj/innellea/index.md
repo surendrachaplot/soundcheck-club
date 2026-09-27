@@ -1,6 +1,6 @@
 # Innellea
 
-Innellea is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+Innellea is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
 
 Innellea is a techno and house artist based in Germany, tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside Colyn, Mind Against and Âme. Next up: Maitland Showground, Sydney on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Innellea is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Colyn, Mind Against, Âme
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*

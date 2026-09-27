@@ -1,6 +1,6 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "techlab.bp invites Matriark (DK), Intuition - LIVE (SP), Main Hall" on Sat, 3 Oct 2026.
+Turbina is a music venue in Budapest with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "techlab.bp invites Matriark (DK), Intuition - LIVE (SP), Main Hall" on Sat, 3 Oct 2026.
 
 Turbina is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, with line-ups including 96zen, Akác, Arash Ete and CRIME and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
@@ -20,4 +20,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, with
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

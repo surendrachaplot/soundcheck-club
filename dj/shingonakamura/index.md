@@ -1,14 +1,13 @@
 # Shingo Nakamura
 
-Shingo Nakamura is a Progressive House and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at or, Tokyo on Sat, 26 Sept 2026.
+Shingo Nakamura is a Progressive House and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The San Francisco Mint, San Francisco/Oakland on Sat, 3 Oct 2026.
 
-Shingo Nakamura is a progressive house and trance artist based in Japan, tracked on soundcheck, with 56 sets logged across Boston, Houston, London and Los Angeles and 11 more. Often billed alongside DJ NECO, Conures (DJ Tokunaga) and Nanlaze. Next up: or, Tokyo on Sat 26 Sept.
+Shingo Nakamura is a progressive house and trance artist based in Japan, tracked on soundcheck, with 56 sets logged across Boston, Houston, London and Los Angeles and 11 more. Often billed alongside DJ NECO, Conures (DJ Tokunaga) and Nanlaze. Next up: The San Francisco Mint, San Francisco/Oakland on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | or | Tokyo |
 | Sat, 3 Oct 2026 | The San Francisco Mint | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | Circus Tokyo | Tokyo |
 | Sat, 14 Nov 2026 | The Lower Third | London |
@@ -16,6 +15,7 @@ Shingo Nakamura is a progressive house and trance artist based in Japan, tracked
 
 ## Recently played
 
+- or, Tokyo — Sat, 26 Sept 2026
 - Z Maruyama, Tokyo — Sat, 12 Sept 2026
 - R Lounge, Tokyo — Sat, 25 Jul 2026
 - TBA - Takanawa Gateway City, Tokyo — Sat, 27 Jun 2026
@@ -23,10 +23,9 @@ Shingo Nakamura is a progressive house and trance artist based in Japan, tracked
 - Open Aera, Toronto — Thu, 11 Jun 2026
 - Celebrities Night Club, Vancouver — Sat, 6 Jun 2026
 - R Lounge, Tokyo — Fri, 29 May 2026
-- Piccadilly Premium, Osaka — Sat, 23 May 2026
 
 ## Shares bills with
 
 DJ NECO, Conures (DJ Tokunaga), Nanlaze
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shingonakamura/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shingonakamura/)*

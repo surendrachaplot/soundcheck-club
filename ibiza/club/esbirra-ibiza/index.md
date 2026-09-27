@@ -1,6 +1,6 @@
 # Esbirra Ibiza
 
-Esbirra Ibiza is a music venue in Ibiza with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "TIMEmACHINE presents Los Suruba — 7-Hour Vinyl Set Programa" on Sat, 26 Sept 2026.
+Esbirra Ibiza is a music venue in Ibiza with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "TIMEmACHINE presents Los Suruba — 7-Hour Vinyl Set Programa" on Sat, 26 Sept 2026.
 
 Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 7 upcoming gigs, with line-ups including ADRI.G, Brunno, Chelu Garcia and Dana Ruh and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears.
 
@@ -20,4 +20,4 @@ Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 7 upcoming gigs, w
 
 Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears, Ibiza
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*

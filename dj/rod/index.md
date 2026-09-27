@@ -1,6 +1,6 @@
 # ROD
 
-ROD is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil, Sao Paulo on Sun, 27 Sept 2026.
+ROD is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil, Sao Paulo on Sun, 27 Sept 2026.
 
 ROD is a techno and house artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Berlin and Hamburg and 5 more. Often billed alongside Benny Rodrigues, Cynthia Spiering and Speedy J. Next up: TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil, Sao Paulo on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ ROD is a techno and house artist based in Netherlands, tracked on soundcheck, wi
 
 Benny Rodrigues, Cynthia Spiering, Speedy J
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rod/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rod/)*

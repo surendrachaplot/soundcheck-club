@@ -1,6 +1,6 @@
 # DJ OYSTER
 
-DJ OYSTER is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Club Bermellón, Mexico City on Fri, 2 Oct 2026.
+DJ OYSTER is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Club Bermellón, Mexico City on Fri, 2 Oct 2026.
 
 DJ OYSTER is a deep house and house artist based in Mexico, tracked on soundcheck, with 19 sets logged across Mexico City. Often billed alongside DJ Knife, PHONYFAKE and DJ FIASCO. Next up: Club Bermellón, Mexico City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DJ OYSTER is a deep house and house artist based in Mexico, tracked on soundchec
 
 DJ Knife, PHONYFAKE, DJ FIASCO
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoyster/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoyster/)*

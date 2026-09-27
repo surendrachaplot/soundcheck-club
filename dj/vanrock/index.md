@@ -1,6 +1,6 @@
 # VanRock
 
-VanRock is a House and Club artist with 13 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Westminster Pier, London on Sat, 26 Sept 2026.
+VanRock is a House and Club artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Westminster Pier, London on Sat, 26 Sept 2026.
 
 VanRock is a house and club artist based in United Kingdom, tracked on soundcheck, with 237 sets logged across London. Often billed alongside NYCity Soundz, Mr Fresh Official and Eddie Van Poppel. Next up: Westminster Pier, London on Sat 26 Sept.
 
@@ -10,8 +10,6 @@ VanRock is a house and club artist based in United Kingdom, tracked on soundchec
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Westminster Pier | London |
 | Sat, 26 Sept 2026 | Westminster Pier | London |
-| Sat, 26 Sept 2026 | Westminster Pier | London |
-| Sat, 26 Sept 2026 | Crown Pier | London |
 | Thu, 29 Oct 2026 | Crown Pier | London |
 | Thu, 29 Oct 2026 | Crown Pier | London |
 | Thu, 29 Oct 2026 | Crown Pier | London |
@@ -20,20 +18,21 @@ VanRock is a house and club artist based in United Kingdom, tracked on soundchec
 | Sat, 31 Oct 2026 | Crown Pier | London |
 | Sat, 31 Oct 2026 | Crown Pier | London |
 | Sat, 31 Oct 2026 | Crown Pier | London |
+| Sat, 7 Nov 2026 | Crown Pier | London |
 
 ## Recently played
 
+- Westminster Pier, London — Sat, 26 Sept 2026
+- Westminster Pier, London — Sat, 26 Sept 2026
+- Westminster Pier, London — Sat, 26 Sept 2026
+- Crown Pier, London — Sat, 26 Sept 2026
 - Greenwich Pier, London — Sat, 29 Aug 2026
 - Greenwich Pier, London — Sat, 29 Aug 2026
 - Greenwich Pier, London — Sat, 29 Aug 2026
 - Crown Pier, London — Sat, 25 Jul 2026
-- Crown Pier, London — Sat, 25 Jul 2026
-- Crown Pier, London — Sat, 11 Jul 2026
-- Crown Pier, London — Sat, 11 Jul 2026
-- Crown Pier, London — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 NYCity Soundz, Mr Fresh Official, Eddie Van Poppel
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanrock/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanrock/)*

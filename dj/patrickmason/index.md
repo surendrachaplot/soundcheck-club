@@ -1,6 +1,6 @@
 # Patrick Mason
 
-Patrick Mason is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+Patrick Mason is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
 
 Patrick Mason is a techno and house artist based in Germany, tracked on soundcheck, with 276 sets logged across Amsterdam, Antwerp, Athens and Austin and 76 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: Etko, Cyprus on Fri 25 Sept.
 
@@ -34,4 +34,4 @@ Patrick Mason is a techno and house artist based in Germany, tracked on soundche
 
 Héctor Oaks, 999999999, I Hate Models
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*

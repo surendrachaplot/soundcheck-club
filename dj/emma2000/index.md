@@ -1,14 +1,13 @@
 # Emma 2000
 
-Emma 2000 is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Steelyard Kelham, Sheffield on Sat, 26 Sept 2026.
+Emma 2000 is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Emma 2000 is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 7 more. Often billed alongside Joss Dean, Obskur and Boss Priester. Next up: Steelyard Kelham, Sheffield on Sat 26 Sept.
+Emma 2000 is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 7 more. Often billed alongside Joss Dean, Obskur and Boss Priester. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Steelyard Kelham | Sheffield |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | Mint Warehouse | Leeds |
@@ -16,6 +15,7 @@ Emma 2000 is a house and tech house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- Steelyard Kelham, Sheffield — Sat, 26 Sept 2026
 - Colorado Charlie, The Hague — Fri, 25 Sept 2026
 - Gallery, London — Thu, 20 Aug 2026
 - Ouseburn Garden, Newcastle — Sat, 15 Aug 2026
@@ -23,10 +23,9 @@ Emma 2000 is a house and tech house artist based in United Kingdom, tracked on s
 - Mint Warehouse, Leeds — Sat, 18 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 23 Jun 2026
 - Cova Santa, Ibiza — Tue, 16 Jun 2026
-- XOYO, London — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Joss Dean, Obskur, Boss Priester
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emma2000/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emma2000/)*

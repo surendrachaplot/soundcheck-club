@@ -1,6 +1,6 @@
 # Carluschka
 
-Carluschka is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
+Carluschka is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
 
 Carluschka is a house and techno artist based in Germany, tracked on soundcheck, with 126 sets logged across Basel, Berlin, Hamburg and Leipzig and 6 more. Often billed alongside BNZN, DJ Pinky Promise and Antonym. Next up: Distillery, Leipzig on Sat 26 Sept.
 
@@ -16,6 +16,7 @@ Carluschka is a house and techno artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- Distillery, Leipzig — Sat, 26 Sept 2026
 - Amp, Munster — Fri, 25 Sept 2026
 - Escala25, Lisbon — Sat, 5 Sept 2026
 - TBA - R1 Klybeck, Basel — Sat, 29 Aug 2026
@@ -23,10 +24,9 @@ Carluschka is a house and techno artist based in Germany, tracked on soundcheck,
 - Locke, Hamburg — Fri, 14 Aug 2026
 - Späti 4 You, Berlin — Sat, 1 Aug 2026
 - Golden Pudel Club, Hamburg — Thu, 30 Jul 2026
-- MS Artville, Hamburg — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 BNZN, DJ Pinky Promise, Antonym
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*

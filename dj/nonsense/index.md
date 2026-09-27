@@ -1,6 +1,6 @@
 # Nonsense
 
-Nonsense is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Mystic Skatepark, Prague on Sat, 26 Sept 2026.
+Nonsense is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Mystic Skatepark, Prague on Sat, 26 Sept 2026.
 
 Nonsense is a drum & bass artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Prague. Often billed alongside Paul Krist, IGDA and Illya. Next up: Mystic Skatepark, Prague on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Nonsense is a drum & bass artist based in Netherlands, tracked on soundcheck, wi
 
 ## Recently played
 
+- Mystic Skatepark, Prague — Sat, 26 Sept 2026
 - Roxy, Prague — Sat, 8 Nov 2025
 - Mystic Skatepark, Prague — Sat, 20 Sept 2025
 - Folimanka, Prague — Sat, 22 Mar 2025
@@ -21,4 +22,4 @@ Nonsense is a drum & bass artist based in Netherlands, tracked on soundcheck, wi
 
 Paul Krist, IGDA, Illya
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsense/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsense/)*

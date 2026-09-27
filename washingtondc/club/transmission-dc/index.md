@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 16 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Rumba Queer: Vamo Pa' La Calle" on Sat, 26 Sept 2026.
+TRANSMISSION DC is a music venue in Washington DC with 16 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Rumba Queer: Vamo Pa' La Calle" on Sat, 26 Sept 2026.
 
 TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 16 upcoming gigs, with line-ups including 1tbsp, 6 SENSE, Andy Stott and Cadeem LaMarr and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 16 upcom
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

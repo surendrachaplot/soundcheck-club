@@ -1,6 +1,6 @@
 # PADERKID
 
-PADERKID is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cassiopeia, Berlin on Sat, 26 Sept 2026.
+PADERKID is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Cassiopeia, Berlin on Sat, 26 Sept 2026.
 
 PADERKID is a house and techno artist based in Germany, tracked on soundcheck, with 55 sets logged across Berlin. Often billed alongside KEN (DE), DJ PayPaul and Chris Bekker. Next up: Cassiopeia, Berlin on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ PADERKID is a house and techno artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
+- Cassiopeia, Berlin — Sat, 26 Sept 2026
 - KitKatClub, Berlin — Fri, 25 Sept 2026
 - Süss War Gestern, Berlin — Sat, 15 Aug 2026
 - KitKatClub, Berlin — Fri, 24 Jul 2026
@@ -20,10 +21,9 @@ PADERKID is a house and techno artist based in Germany, tracked on soundcheck, w
 - Cassiopeia, Berlin — Sat, 28 Feb 2026
 - KitKatClub, Berlin — Fri, 27 Feb 2026
 - Süss War Gestern, Berlin — Fri, 20 Feb 2026
-- Süss War Gestern, Berlin — Fri, 23 Jan 2026
 
 ## Shares bills with
 
 KEN (DE), DJ PayPaul, Chris Bekker
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paderkid/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paderkid/)*

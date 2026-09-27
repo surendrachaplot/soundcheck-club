@@ -1,6 +1,6 @@
 # JuicyJards
 
-JuicyJards is a House and Footwork artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Phonox, London on Thu, 1 Oct 2026.
+JuicyJards is a House and Footwork artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Phonox, London on Thu, 1 Oct 2026.
 
 JuicyJards is a house and footwork artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Berlin and London. Often billed alongside CHEZA LUCINA, Gloria Rose and Nadine Noor. Next up: Phonox, London on Thu 1 Oct.
 
@@ -23,4 +23,4 @@ JuicyJards is a house and footwork artist based in United Kingdom, tracked on so
 
 CHEZA LUCINA, Gloria Rose, Nadine Noor
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyjards/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyjards/)*

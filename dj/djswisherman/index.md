@@ -1,14 +1,13 @@
 # DJ SWISHERMAN
 
-DJ SWISHERMAN is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Preston Warehouse, Melbourne on Sat, 26 Sept 2026.
+DJ SWISHERMAN is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 3 Oct 2026.
 
-DJ SWISHERMAN is a techno and house artist based in Spain, tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside Gerardo Niva, RUIZ OSC1 and Benwal. Next up: Preston Warehouse, Melbourne on Sat 26 Sept.
+DJ SWISHERMAN is a techno and house artist based in Spain, tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside Gerardo Niva, RUIZ OSC1 and Benwal. Next up: Carousel Bar & Ballroom, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Preston Warehouse | Melbourne |
 | Sat, 3 Oct 2026 | Carousel Bar & Ballroom | Sydney |
 | Sun, 4 Oct 2026 | TBA - Wollongong CBD | Sydney |
 | Sat, 10 Oct 2026 | Mondo | Madrid |
@@ -19,6 +18,7 @@ DJ SWISHERMAN is a techno and house artist based in Spain, tracked on soundcheck
 
 ## Recently played
 
+- Preston Warehouse, Melbourne — Sat, 26 Sept 2026
 - Mondo, Madrid — Thu, 17 Sept 2026
 - Mondo, Madrid — Thu, 27 Aug 2026
 - Mondo, Madrid — Thu, 20 Aug 2026
@@ -26,10 +26,9 @@ DJ SWISHERMAN is a techno and house artist based in Spain, tracked on soundcheck
 - Mondo, Madrid — Thu, 13 Aug 2026
 - Mondo, Madrid — Sat, 8 Aug 2026
 - Else, Berlin — Fri, 31 Jul 2026
-- Mondo, Madrid — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Gerardo Niva, RUIZ OSC1, Benwal
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*

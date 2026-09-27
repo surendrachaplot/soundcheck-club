@@ -1,6 +1,6 @@
 # likeholywine
 
-likeholywine is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+likeholywine is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 likeholywine is a techno and club artist based in United States of America, tracked on soundcheck, with 74 sets logged across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside nonsuit, Beverly Chills and Adam Kraft. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ likeholywine is a techno and club artist based in United States of America, trac
 
 nonsuit, Beverly Chills, Adam Kraft
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/likeholywine/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/likeholywine/)*

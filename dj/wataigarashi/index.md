@@ -1,6 +1,6 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Wata Igarashi is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Wata Igarashi is a techno and house artist based in Japan, tracked on soundcheck, with 217 sets logged across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -36,4 +36,4 @@ Wata Igarashi is a techno and house artist based in Japan, tracked on soundcheck
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

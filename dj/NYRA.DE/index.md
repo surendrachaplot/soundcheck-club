@@ -1,8 +1,8 @@
 # NYRA (DE)
 
-NYRA (DE) is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
+NYRA (DE) is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
 
-NYRA (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside davyboi, Bruno Brero and Cara Elizabeth. Next up: Hans Bunte Areal, Freiburg on Fri 2 Oct.
+NYRA (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside davyboi, Cara Elizabeth and Bruno Brero. Next up: Hans Bunte Areal, Freiburg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ NYRA (DE) is a techno and trance artist based in Germany, tracked on soundcheck,
 | Sat, 17 Oct 2026 | E-Werk Kulturzentrum | Nürnberg |
 | Sat, 31 Oct 2026 | Wagenhallen | Stuttgart |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
+| Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played
 
@@ -28,6 +29,6 @@ NYRA (DE) is a techno and trance artist based in Germany, tracked on soundcheck,
 
 ## Shares bills with
 
-davyboi, Bruno Brero, Cara Elizabeth
+davyboi, Cara Elizabeth, Bruno Brero
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*

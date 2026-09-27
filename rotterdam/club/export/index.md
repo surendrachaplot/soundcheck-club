@@ -1,6 +1,6 @@
 # export
 
-export is a music venue in Rotterdam with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Kult Funktion - Rotterdam Pride" on Sat, 26 Sept 2026.
+export is a music venue in Rotterdam with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Kult Funktion - Rotterdam Pride" on Sat, 26 Sept 2026.
 
 export is a music venue in Rotterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Afra, Blood of Aza, CAIN and Candy Coup and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
@@ -19,4 +19,4 @@ export is a music venue in Rotterdam listed on soundcheck. 6 upcoming gigs, with
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

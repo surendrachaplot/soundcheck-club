@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Mac Declos / Marcal / Cora / Perfect Lovers / Victor Rodriguez / Chris Cruse / Kilopatrah Jones" on Sat, 26 Sept 2026.
+BASEMENT is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Mac Declos / Marcal / Cora / Perfect Lovers / Victor Rodriguez / Chris Cruse / Kilopatrah Jones" on Sat, 26 Sept 2026.
 
 BASEMENT is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including 98dots, Ade Kassim, Akua and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -23,4 +23,4 @@ BASEMENT is a music venue in New York City listed on soundcheck. 11 upcoming gig
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

@@ -1,6 +1,6 @@
 # SHERELLE
 
-SHERELLE is a Jungle and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Process PDX, Portland on Thu, 1 Oct 2026.
+SHERELLE is a Jungle and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Process PDX, Portland on Thu, 1 Oct 2026.
 
 SHERELLE is a jungle and techno artist based in United Kingdom, tracked on soundcheck, with 183 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 53 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Process PDX, Portland on Thu 1 Oct.
 
@@ -34,4 +34,4 @@ SHERELLE is a jungle and techno artist based in United Kingdom, tracked on sound
 
 I. JORDAN, Special Request, Job Jobse
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*

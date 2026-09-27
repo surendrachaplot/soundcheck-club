@@ -1,14 +1,13 @@
 # Laura De Greef
 
-Laura De Greef is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Algha's Plantroom, London on Sat, 26 Sept 2026.
+Laura De Greef is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
-Laura De Greef is a house and techno artist based in Belgium, tracked on soundcheck, with 33 sets logged across Amsterdam, Brussels, Ghent and Ibiza and 7 more. Often billed alongside Jamback, Marsolo and L.P. Rhythm. Next up: Algha's Plantroom, London on Sat 26 Sept.
+Laura De Greef is a house and techno artist based in Belgium, tracked on soundcheck, with 33 sets logged across Amsterdam, Brussels, Ghent and Ibiza and 7 more. Often billed alongside Jamback, Marsolo and L.P. Rhythm. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Algha's Plantroom | London |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Thu, 22 Oct 2026 | Het Sieraad | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
@@ -16,6 +15,7 @@ Laura De Greef is a house and techno artist based in Belgium, tracked on soundch
 
 ## Recently played
 
+- Algha's Plantroom, London — Sat, 26 Sept 2026
 - fabric, London — Sun, 30 Aug 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - Backyard, Lisbon — Sat, 29 Aug 2026
@@ -23,10 +23,9 @@ Laura De Greef is a house and techno artist based in Belgium, tracked on soundch
 - Lofi, Amsterdam — Sat, 8 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 30 Jul 2026
 - Funke, Ghent — Sat, 25 Jul 2026
-- Colorado Charlie, The Hague — Sun, 19 Jul 2026
 
 ## Shares bills with
 
 Jamback, Marsolo, L.P. Rhythm
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*

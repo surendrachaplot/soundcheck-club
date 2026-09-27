@@ -1,6 +1,6 @@
 # J.Garcia
 
-J.Garcia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Arch535, London on Sat, 7 Nov 2026.
+J.Garcia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Arch535, London on Sat, 7 Nov 2026.
 
 J.Garcia is a techno and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Detroit, London and Washington DC. Often billed alongside DJ Seoul, Neil V and T.Linder. Next up: Arch535, London on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ J.Garcia is a techno and house artist based in United States of America, tracked
 
 DJ Seoul, Neil V, T.Linder
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.garcia/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.garcia/)*

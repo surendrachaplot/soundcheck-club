@@ -1,14 +1,13 @@
 # Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Ricardo Villalobos - Parc Jean-Drapeau" on Sat, 26 Sept 2026.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Piknic Électronik MTL #17: Egyptian Lover, livwutang / Rêves" on Sun, 27 Sept 2026.
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, with line-ups including AMÉMÉ, Asha, Baby Bimbo and Beltran and 2 more. Browse upcoming dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including AMÉMÉ, Asha, Baby Bimbo and Beltran and 2 more. Browse upcoming dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Ricardo Villalobos - Parc Jean-Drapeau | Maher Daniel, Ricardo Villalobos |
 | Sun, 27 Sept 2026 | Piknic Électronik MTL #17: Egyptian Lover, livwutang / Rêves | Baby Bimbo, Egyptian Lover, Isla Den, Lorenzi, Martyn Bootyspoon, Yume, livwutang |
 | Fri, 2 Oct 2026 | Gordo - Parc Jean-Drapeau | AMÉMÉ, Gordo, HoneyLuv |
 | Sat, 3 Oct 2026 | Black Tiger Sex Machine presents Connected Fighters | Black Tiger Sex Machine |
@@ -23,4 +22,4 @@ Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on so
 
 Jardin le Petit Prince, Montréal, QC H3C 4G8, Montreal
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*

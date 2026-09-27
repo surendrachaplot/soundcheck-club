@@ -1,6 +1,6 @@
 # Anastazja
 
-Anastazja is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at [UNVRS], Ibiza on Tue, 6 Oct 2026.
+Anastazja is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at [UNVRS], Ibiza on Tue, 6 Oct 2026.
 
 Anastazja is a house and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Chicago, Ibiza, Istanbul and Lisbon and 11 more. Often billed alongside Ayanna Heaven, CTRLZORA and DJ Holographic. Next up: [UNVRS], Ibiza on Tue 6 Oct.
 
@@ -26,4 +26,4 @@ Anastazja is a house and techno artist based in United States of America, tracke
 
 Ayanna Heaven, CTRLZORA, DJ Holographic
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*

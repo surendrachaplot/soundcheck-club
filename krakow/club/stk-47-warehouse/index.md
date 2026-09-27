@@ -1,6 +1,6 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "PROPER RAVE: FRESH BLOOD" on Sat, 26 Sept 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "PROPER RAVE: FRESH BLOOD" on Sat, 26 Sept 2026.
 
 STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 8 upcoming gigs, with line-ups including C Razey, DOMEL, Forest (PL) and KRZ (PL) and 2 more. Browse upcoming dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
@@ -21,4 +21,4 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 8 upcoming gig
 
 Kraków, 30-727, Pana Tadeusza 6, Poland, Krakow
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*

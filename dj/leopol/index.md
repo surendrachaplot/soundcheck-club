@@ -1,6 +1,6 @@
 # Leo Pol
 
-Leo Pol is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+Leo Pol is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
 Leo Pol is a house and techno artist based in France, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside Julie Desire, Thalo Santana and Benwal. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
@@ -13,6 +13,7 @@ Leo Pol is a house and techno artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
+- The Cause, London — Sat, 26 Sept 2026
 - Cabaret  Aléatoire, Marseille — Fri, 25 Sept 2026
 - Rex Club, Paris — Fri, 4 Sept 2026
 - Boston Manor Park, London — Sun, 2 Aug 2026
@@ -20,10 +21,9 @@ Leo Pol is a house and techno artist based in France, tracked on soundcheck, wit
 - control, Bucharest — Sat, 20 Jun 2026
 - Kilomètre25, Paris — Sat, 13 Jun 2026
 - Parc Floral De Paris, Paris — Thu, 7 May 2026
-- Elysia, Basel — Sat, 2 May 2026
 
 ## Shares bills with
 
 Julie Desire, Thalo Santana, Benwal
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leopol/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leopol/)*

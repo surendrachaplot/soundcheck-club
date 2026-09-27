@@ -1,6 +1,6 @@
 # ILAYRUNI
 
-ILAYRUNI is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Razzmatazz, Barcelona on Sat, 26 Sept 2026.
+ILAYRUNI is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Razzmatazz, Barcelona on Sat, 26 Sept 2026.
 
 ILAYRUNI is an electronic artist based in Spain, tracked on soundcheck, with 5 sets logged across Barcelona, Central and Madrid. Often billed alongside Decoder, Judy (ES) and 69DB. Next up: Razzmatazz, Barcelona on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ ILAYRUNI is an electronic artist based in Spain, tracked on soundcheck, with 5 s
 
 ## Recently played
 
+- Razzmatazz, Barcelona — Sat, 26 Sept 2026
 - TBA - LFO, Madrid — Fri, 4 Sept 2026
 - Razzmatazz, Barcelona — Sat, 2 Nov 2024
 - Lasociaciøn, Madrid — Sat, 4 May 2024
@@ -21,4 +22,4 @@ ILAYRUNI is an electronic artist based in Spain, tracked on soundcheck, with 5 s
 
 Decoder, Judy (ES), 69DB
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilayruni/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilayruni/)*

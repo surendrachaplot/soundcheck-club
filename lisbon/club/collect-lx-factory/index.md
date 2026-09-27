@@ -1,14 +1,13 @@
 # Collect LX Factory
 
-Collect LX Factory is a music venue in Lisbon with 15 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Collect LX Factory presents Lawrence ( Dial // Smallville )" on Sat, 26 Sept 2026.
+Collect LX Factory is a music venue in Lisbon with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "COLLECT RADIO w/ FONZI" on Mon, 28 Sept 2026.
 
-Collect LX Factory is a music venue in Lisbon listed on soundcheck. 15 upcoming gigs, with line-ups including Amulador, Andre Cascais, Billi and C3D-E and 2 more. Browse upcoming dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
+Collect LX Factory is a music venue in Lisbon listed on soundcheck. 14 upcoming gigs, with line-ups including Amulador, Andre Cascais, Billi and C3D-E and 2 more. Browse upcoming dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Collect LX Factory presents Lawrence ( Dial // Smallville ) | Elless & Benn, Lawrence, Solid-Funk |
 | Mon, 28 Sept 2026 | COLLECT RADIO w/ FONZI | Fonzi (2) |
 | Tue, 29 Sept 2026 | COLLECT RADIO w/ DOUBLEIGHT | Doubleight |
 | Wed, 30 Sept 2026 | COLLECT RADIO w/ VIL | VIL (PT) |
@@ -18,9 +17,10 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 15 upcoming 
 | Fri, 16 Oct 2026 | [ju:dtend'en:s] | Daniel Lien, Flord King, Nico O'Konor |
 | Sat, 17 Oct 2026 | Collect LX Factory presents Shoal (live) | Billi, Shoal, Ze Salvador |
 | Sat, 24 Oct 2026 | CONTRATEMPOS CLUBBING & Basscalhau - TBA |  |
+| Thu, 29 Oct 2026 | Collectors with Stan Yaroslavsky, André Sousa, Pawl | Pawl, Stan Yaroslavsky |
 
 ## Address
 
 R. Rodrigues de Faria 103, 1300-501 Lisboa, Lisbon
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*

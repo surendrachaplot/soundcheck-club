@@ -1,6 +1,6 @@
 # JYE.
 
-JYE. is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at NDR2 Red Room, Newcastle on Fri, 16 Oct 2026.
+JYE. is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at NDR2 Red Room, Newcastle on Fri, 16 Oct 2026.
 
 JYE. is an electro and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London and Newcastle. Often billed alongside LEN., Tempz and Alisdair. Next up: NDR2 Red Room, Newcastle on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ JYE. is an electro and house artist based in United Kingdom, tracked on soundche
 
 LEN., Tempz, Alisdair
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jye./)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jye./)*

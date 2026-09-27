@@ -1,6 +1,6 @@
 # into
 
-into is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Triangle, Osaka on Sun, 11 Oct 2026.
+into is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Triangle, Osaka on Sun, 11 Oct 2026.
 
 into is a drum & bass and garage artist based in Japan, tracked on soundcheck, with 4 sets logged across Osaka and Tokyo. Often billed alongside kakepon, Altemica and Andromedik. Next up: Triangle, Osaka on Sun 11 Oct.
 
@@ -20,4 +20,4 @@ into is a drum & bass and garage artist based in Japan, tracked on soundcheck, w
 
 kakepon, Altemica, Andromedik
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/into/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/into/)*

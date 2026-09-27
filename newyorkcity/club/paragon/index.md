@@ -1,6 +1,6 @@
 # Paragon
 
-Paragon is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Club Stars: UNiiQU3, Miley Serious, Arielle Lana b2b Syd + Shyboi, DJ Goth Girl" on Sat, 26 Sept 2026.
+Paragon is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Club Stars: UNiiQU3, Miley Serious, Arielle Lana b2b Syd + Shyboi, DJ Goth Girl" on Sat, 26 Sept 2026.
 
 Paragon is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including MORENXXX, Amarji King, Arielle Lana and Ashley Venom and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
@@ -23,4 +23,4 @@ Paragon is a music venue in New York City listed on soundcheck. 16 upcoming gigs
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

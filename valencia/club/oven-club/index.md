@@ -1,6 +1,6 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Pau Pérez + blan.trrs / Bar: La Punta Djs: Depanachi + Jordan + Mardi + Nate Cabrera" on Sat, 26 Sept 2026.
+Oven Club is a music venue in Valencia with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Pau Pérez + blan.trrs / Bar: La Punta Djs: Depanachi + Jordan + Mardi + Nate Cabrera" on Sat, 26 Sept 2026.
 
 Oven Club is a music venue in Valencia listed on soundcheck. 2 upcoming gigs, with line-ups including BAR (DE), blan.trrs, Jordan and Pau Pérez. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
@@ -15,4 +15,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 2 upcoming gigs, wi
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

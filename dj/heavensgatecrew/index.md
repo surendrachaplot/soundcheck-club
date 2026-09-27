@@ -1,6 +1,6 @@
 # HEAVEN'S GATE CREW
 
-HEAVEN'S GATE CREW is a Bass and Pop artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Kabukicho Cinecity Square (シネシティ広場), Tokyo on Sun, 27 Sept 2026.
+HEAVEN'S GATE CREW is a Bass and Pop artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Kabukicho Cinecity Square (シネシティ広場), Tokyo on Sun, 27 Sept 2026.
 
 HEAVEN'S GATE CREW is a bass and pop artist based in Japan, tracked on soundcheck, with 21 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Aiobahn, Ninajirachi and RamonPang. Next up: Kabukicho Cinecity Square (シネシティ広場), Tokyo on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ HEAVEN'S GATE CREW is a bass and pop artist based in Japan, tracked on soundchec
 
 Aiobahn, Ninajirachi, RamonPang
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heavensgatecrew/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heavensgatecrew/)*

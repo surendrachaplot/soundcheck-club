@@ -1,14 +1,13 @@
 # Night Tales
 
-Night Tales is a music venue in London with 33 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Origins: Move D [All Night Long]" on Sat, 26 Sept 2026.
+Night Tales is a music venue in London with 32 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Night Tales: JACK MARLOW, SHUFFA & Sophia Violet " on Fri, 2 Oct 2026.
 
-Night Tales is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-ups including 1-800 GIRLS, Paula Tape, Alex Neri and Billy Daniel Bunter and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
+Night Tales is a music venue in London listed on soundcheck. 32 upcoming gigs, with line-ups including 1-800 GIRLS, Paula Tape, Alex Neri and Billy Daniel Bunter and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Origins: Move D [All Night Long] | Move D |
 | Fri, 2 Oct 2026 | Night Tales: JACK MARLOW, SHUFFA & Sophia Violet  | JACK MARLOW, SHUFFA, Sophia Violet, whoswill |
 | Sat, 3 Oct 2026 | Paraiso Disco: House, Disco, Classics |  |
 | Fri, 9 Oct 2026 | Night Tales: Luke Una & Make A Dance - The 'É Soul Cultura' Residency [4 Fridays In October] | Luke Una, Make A Dance |
@@ -18,9 +17,10 @@ Night Tales is a music venue in London listed on soundcheck. 33 upcoming gigs, w
 | Sat, 17 Oct 2026 | Night Tales Free Party: House & Tech House |  |
 | Fri, 23 Oct 2026 | Night Tales: Luke Una & Marcellus Pittman - The 'É Soul Cultura' Residency [4 Fridays In Oct] | Luke Una, Marcellus Pittman |
 | Sat, 24 Oct 2026 | Paraiso Disco: House, Disco, Classics |  |
+| Fri, 30 Oct 2026 | Night Tales: Luke Una (All Night Long) - The 'É Soul Cultura' Residency [4 Fridays In October] | Luke Una |
 
 ## Address
 
 14 Bohemia Pl, London E8 1DU, United Kingdom, London
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*

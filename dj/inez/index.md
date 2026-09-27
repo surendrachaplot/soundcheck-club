@@ -1,6 +1,6 @@
 # Inez
 
-Inez is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Time is the new space, Rotterdam on Sat, 21 Nov 2026.
+Inez is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Time is the new space, Rotterdam on Sat, 21 Nov 2026.
 
 Inez is a techno and trance artist tracked on soundcheck, with 19 sets logged across Aberdeen, Berlin, Edinburgh and Glasgow and 1 more. Often billed alongside Céleste, DJ Suzie and Gloss. Next up: Time is the new space, Rotterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Inez is a techno and trance artist tracked on soundcheck, with 19 sets logged ac
 
 Céleste, DJ Suzie, Gloss (2)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inez/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inez/)*

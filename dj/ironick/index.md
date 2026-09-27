@@ -1,6 +1,6 @@
 # Ironick
 
-Ironick is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bajo Circuito, Mexico City on Thu, 22 Oct 2026.
+Ironick is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bajo Circuito, Mexico City on Thu, 22 Oct 2026.
 
 Ironick is a techno and industrial artist based in Mexico, tracked on soundcheck, with 6 sets logged across Mexico City. Often billed alongside Salem X, JHAXIE and XOVOKY. Next up: Bajo Circuito, Mexico City on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Ironick is a techno and industrial artist based in Mexico, tracked on soundcheck
 
 Salem X, JHAXIE, XOVOKY
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ironick/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ironick/)*

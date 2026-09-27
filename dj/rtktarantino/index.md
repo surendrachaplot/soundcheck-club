@@ -1,6 +1,6 @@
 # RTK Tarantino
 
-RTK Tarantino is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Brickworks, Nottingham on Fri, 2 Oct 2026.
+RTK Tarantino is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Brickworks, Nottingham on Fri, 2 Oct 2026.
 
 RTK Tarantino is a house and garage artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 11 more. Often billed alongside Captain Wallop, Rossi and Jamback. Next up: The Brickworks, Nottingham on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ RTK Tarantino is a house and garage artist based in United Kingdom, tracked on s
 
 Captain Wallop, Rossi, Jamback
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*

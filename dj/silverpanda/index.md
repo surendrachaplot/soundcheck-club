@@ -1,6 +1,6 @@
 # Silver Panda
 
-Silver Panda is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+Silver Panda is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
 
 Silver Panda is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Austin, Berlin, Buenos Aires and Chicago and 13 more. Often billed alongside LORENA (MX), Agents Of Time and Astrix. Next up: Maitland Showground, Sydney on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Silver Panda is a techno and progressive house artist based in United States of 
 
 LORENA (MX), Agents Of Time, Astrix
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silverpanda/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silverpanda/)*

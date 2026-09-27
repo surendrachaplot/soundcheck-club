@@ -1,6 +1,6 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Club Congress X Great Circles Invite Lefto - Community Radio Take Over" on Sat, 26 Sept 2026.
+Bastet is a music venue in Philadelphia with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Club Congress X Great Circles Invite Lefto - Community Radio Take Over" on Sat, 26 Sept 2026.
 
 Bastet is a music venue in Philadelphia listed on soundcheck. 3 upcoming gigs, with line-ups including Baejawn, DJ Matpat, Khiari Bakar and Lady Prowl and 2 more. Browse upcoming dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
@@ -16,4 +16,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 3 upcoming gigs, w
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

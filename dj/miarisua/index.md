@@ -1,6 +1,6 @@
 # MIARISUA
 
-MIARISUA is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Honey's, New York City on Sat, 26 Sept 2026.
+MIARISUA is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Honey's, New York City on Sat, 26 Sept 2026.
 
 MIARISUA is a techno and electro artist based in Ukraine, tracked on soundcheck, with 6 sets logged across New York City. Often billed alongside Rila, AceMo and Annie Lew. Next up: Honey's, New York City on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ MIARISUA is a techno and electro artist based in Ukraine, tracked on soundcheck,
 
 ## Recently played
 
+- Honey's, New York City — Sat, 26 Sept 2026
 - Jean’s, New York City — Wed, 9 Sept 2026
 - Mansions, New York City — Sun, 30 Aug 2026
 - Green Room NYC, New York City — Thu, 27 Aug 2026
@@ -22,4 +23,4 @@ MIARISUA is a techno and electro artist based in Ukraine, tracked on soundcheck,
 
 Rila, AceMo, Annie Lew
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miarisua/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miarisua/)*

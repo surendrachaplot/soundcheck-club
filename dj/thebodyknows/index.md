@@ -1,6 +1,6 @@
 # THEBODYKNOWS
 
-THEBODYKNOWS is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TILLATEC, Amsterdam on Sat, 26 Sept 2026.
+THEBODYKNOWS is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TILLATEC, Amsterdam on Sat, 26 Sept 2026.
 
 THEBODYKNOWS is a techno artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, London and Naples. Often billed alongside Luigi Madonna, PHARRISM and Carlos Young. Next up: TILLATEC, Amsterdam on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ THEBODYKNOWS is a techno artist based in Netherlands, tracked on soundcheck, wit
 
 ## Recently played
 
+- TILLATEC, Amsterdam — Sat, 26 Sept 2026
 - Egg London, London — Sat, 11 Apr 2026
 - Hype Discoteca, Naples — Sat, 28 Feb 2026
 - The Bulldog Palace, Amsterdam — Sat, 25 Oct 2025
@@ -19,10 +20,9 @@ THEBODYKNOWS is a techno artist based in Netherlands, tracked on soundcheck, wit
 - THE OTHER SIDE, Amsterdam — Sat, 28 Dec 2024
 - 8sixa, Amsterdam — Sat, 12 Oct 2024
 - 8sixa, Amsterdam — Thu, 30 May 2024
-- 8sixa, Amsterdam — Sat, 9 Mar 2024
 
 ## Shares bills with
 
 Luigi Madonna, PHARRISM, Carlos Young
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebodyknows/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebodyknows/)*

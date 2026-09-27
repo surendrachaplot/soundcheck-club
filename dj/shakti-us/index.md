@@ -1,6 +1,6 @@
 # Shakti (US)
 
-Shakti (US) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Tangent Gallery, Detroit on Fri, 23 Oct 2026.
+Shakti (US) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Tangent Gallery, Detroit on Fri, 23 Oct 2026.
 
 Shakti (US) is a techno and industrial artist tracked on soundcheck, with 5 sets logged across Detroit. Often billed alongside Remnant, Augustus Williams and Brent Shay. Next up: Tangent Gallery, Detroit on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Shakti (US) is a techno and industrial artist tracked on soundcheck, with 5 sets
 
 Remnant, Augustus Williams, Brent Shay
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shakti-us/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shakti-us/)*

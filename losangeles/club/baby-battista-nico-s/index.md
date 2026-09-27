@@ -1,6 +1,6 @@
 # Baby Battista @ Nico's
 
-Baby Battista @ Nico's is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 26 Sept 2026; the next is "VPN presents: Rhythms *n* Grooves with NAYGOD, Drew Labarre, Saish K" on Sat, 3 Oct 2026.
+Baby Battista @ Nico's is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "VPN presents: Rhythms *n* Grooves with NAYGOD, Drew Labarre, Saish K" on Sat, 3 Oct 2026.
 
 Baby Battista @ Nico's is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including NAYGOD and Saish K.. Browse upcoming dates, start times and who's playing. 3111 Glendale Blvd #2, Los Angeles, CA 90039.
 
@@ -14,4 +14,4 @@ Baby Battista @ Nico's is a music venue in Los Angeles listed on soundcheck. 1 u
 
 3111 Glendale Blvd #2, Los Angeles, CA 90039, Los Angeles
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/baby-battista-nico-s/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/baby-battista-nico-s/)*

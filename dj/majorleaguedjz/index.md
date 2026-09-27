@@ -1,6 +1,6 @@
 # Major League Djz
 
-Major League Djz is a Afro House and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Maaya, Berlin on Sun, 27 Sept 2026.
+Major League Djz is a Afro House and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Maaya, Berlin on Sun, 27 Sept 2026.
 
 Major League Djz is an afro house and house artist based in South Africa, tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 28 more. Often billed alongside Honey Dijon, DJ Tennis and Kitty Amor. Next up: Maaya, Berlin on Sun 27 Sept.
 
@@ -32,4 +32,4 @@ Major League Djz is an afro house and house artist based in South Africa, tracke
 
 Honey Dijon, DJ Tennis, Kitty Amor
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majorleaguedjz/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majorleaguedjz/)*

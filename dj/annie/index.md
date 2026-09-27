@@ -1,6 +1,6 @@
 # Annie
 
-Annie is a Techno and Dub artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bootshaus, Cologne on Sat, 26 Sept 2026.
+Annie is a Techno and Dub artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bootshaus, Cologne on Sat, 26 Sept 2026.
 
 Annie is a techno and dub artist based in Norway, tracked on soundcheck, with 8 sets logged across Cologne, Hamburg, Ibiza and Melbourne and 2 more. Often billed alongside DJ DRECKISCH, DVAID and Golpe. Next up: Bootshaus, Cologne on Sat 26 Sept.
 
@@ -14,6 +14,8 @@ Annie is a techno and dub artist based in Norway, tracked on soundcheck, with 8 
 
 ## Recently played
 
+- Bootshaus, Cologne — Sat, 26 Sept 2026
+- Bootshaus, Cologne — Sat, 26 Sept 2026
 - Mia Mao, Paris — Sat, 12 Sept 2026
 - Eden, Ibiza — Tue, 1 Sept 2026
 - Edelfettwerk, Hamburg — Sat, 15 Aug 2026
@@ -24,4 +26,4 @@ Annie is a techno and dub artist based in Norway, tracked on soundcheck, with 8 
 
 DJ DRECKISCH, DVAID, Golpe
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annie/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annie/)*

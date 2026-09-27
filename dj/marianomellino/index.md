@@ -1,6 +1,6 @@
 # Mariano Mellino
 
-Mariano Mellino is a Progressive House and Techno artist with 20 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Mexico City on Sat, 26 Sept 2026.
+Mariano Mellino is a Progressive House and Techno artist with 20 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Mexico City on Sat, 26 Sept 2026.
 
 Mariano Mellino is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 83 sets logged across Amsterdam, Auckland, Barcelona and Buenos Aires and 21 more. Often billed alongside Guy J, Henry Saiz and MASANORI MORITA. Next up: TBA, Mexico City on Sat 26 Sept.
 
@@ -23,17 +23,17 @@ Mariano Mellino is a progressive house and techno artist based in Argentina, tra
 
 ## Recently played
 
+- TBA, Mexico City — Sat, 26 Sept 2026
+- Pasaje America, Mexico City — Sat, 26 Sept 2026
+- Bridge Gardens, Glasgow — Sat, 26 Sept 2026
 - TBA, Madrid — Fri, 4 Sept 2026
 - Mute Malaga, Malaga — Fri, 7 Aug 2026
 - Club M2 Miami, Miami — Wed, 1 Jul 2026
 - Club M2 Miami, Miami — Wed, 1 Jul 2026
 - Stereo, Montreal — Sat, 27 Jun 2026
-- TBA - Palacio Alsina, Microcentro, Buenos Aires — Sat, 20 Jun 2026
-- Palacio Alsina, Buenos Aires — Sat, 20 Jun 2026
-- The Bow, Buenos Aires — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Guy J, Henry Saiz, MASANORI MORITA
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*

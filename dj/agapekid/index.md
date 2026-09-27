@@ -1,6 +1,6 @@
 # Agape Kid
 
-Agape Kid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Nordstern, Basel on Sat, 26 Sept 2026.
+Agape Kid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Nordstern, Basel on Sat, 26 Sept 2026.
 
 Agape Kid is a techno and house artist based in Switzerland, tracked on soundcheck, with 5 sets logged across Basel. Often billed alongside agape, Alay and Andhim. Next up: Nordstern, Basel on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Agape Kid is a techno and house artist based in Switzerland, tracked on soundche
 
 ## Recently played
 
+- Nordstern, Basel — Sat, 26 Sept 2026
 - Nordstern, Basel — Sat, 13 Jun 2026
 - Nordstern, Basel — Fri, 5 Sept 2025
 - Nordstern, Basel — Fri, 9 May 2025
@@ -21,4 +22,4 @@ Agape Kid is a techno and house artist based in Switzerland, tracked on soundche
 
 agape, Alay, Andhim
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agapekid/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agapekid/)*

@@ -1,6 +1,6 @@
 # Dombresky
 
-Dombresky is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at BCM, Mallorca on Sat, 26 Sept 2026.
+Dombresky is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at BCM, Mallorca on Sat, 26 Sept 2026.
 
 Dombresky is a house and tech house artist based in France, tracked on soundcheck, with 144 sets logged across Austin, Bali, Barcelona and Boston and 31 more. Often billed alongside Jaded (UK), Tini Gessler and Purple Disco Machine. Next up: BCM, Mallorca on Sat 26 Sept.
 
@@ -17,6 +17,7 @@ Dombresky is a house and tech house artist based in France, tracked on soundchec
 
 ## Recently played
 
+- BCM, Mallorca — Sat, 26 Sept 2026
 - Glen Helen Regional Park, Los Angeles — Sat, 19 Sept 2026
 - Elektricity, Detroit — Fri, 11 Sept 2026
 - The Grand Boston, Boston — Sat, 5 Sept 2026
@@ -24,10 +25,9 @@ Dombresky is a house and tech house artist based in France, tracked on soundchec
 - Magazine Open–Air, London — Fri, 14 Aug 2026
 - Smoke & Mirrors, Chicago — Sun, 2 Aug 2026
 - Savaya Bali, Bali — Sat, 25 Jul 2026
-- Pacha Ibiza, Ibiza — Mon, 20 Jul 2026
 
 ## Shares bills with
 
 Jaded (UK), Tini Gessler, Purple Disco Machine
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*

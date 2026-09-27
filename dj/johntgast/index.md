@@ -1,6 +1,6 @@
 # John T. Gast
 
-John T. Gast is a Experimental and Dub artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
+John T. Gast is a Experimental and Dub artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
 
 John T. Gast is an experimental and dub artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Devon Rexi, i-sha and Carrier. Next up: M.O.T, London on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ John T. Gast is an experimental and dub artist based in United Kingdom, tracked 
 
 ## Recently played
 
+- M.O.T, London — Sat, 26 Sept 2026
 - Galeria Zé Dos Bois, Lisbon — Sat, 19 Sept 2026
 - TBA - Masseria Ferraioli - Afragola, Naples — Sun, 6 Sept 2026
 - Club Cheek, London — Fri, 28 Aug 2026
@@ -21,10 +22,9 @@ John T. Gast is an experimental and dub artist based in United Kingdom, tracked 
 - Tones Teatro Natura, Milan — Thu, 16 Jul 2026
 - OHM, Berlin — Fri, 10 Jul 2026
 - The White Hotel, Manchester — Thu, 28 May 2026
-- EXIT Glasgow, Glasgow — Wed, 27 May 2026
 
 ## Shares bills with
 
 Devon Rexi, i-sha, Carrier
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*

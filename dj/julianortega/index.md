@@ -1,6 +1,6 @@
 # Julian Ortega
 
-Julian Ortega is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bar 1924, San Diego on Sat, 26 Sept 2026.
+Julian Ortega is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bar 1924, San Diego on Sat, 26 Sept 2026.
 
 Julian Ortega is a house and deep house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Los Angeles and San Diego. Often billed alongside AMZEL, Crypt Keepers and Part Time Tough Guy. Next up: Bar 1924, San Diego on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Julian Ortega is a house and deep house artist based in United States of America
 
 ## Recently played
 
+- Bar 1924, San Diego — Sat, 26 Sept 2026
 - 3oz Dive Club, San Diego — Sat, 12 Sept 2026
 - Quartyard, San Diego — Sun, 17 May 2026
 - EQ San Diego, San Diego — Fri, 20 Mar 2026
@@ -24,4 +25,4 @@ Julian Ortega is a house and deep house artist based in United States of America
 
 AMZEL, Crypt Keepers, Part Time Tough Guy
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianortega/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianortega/)*

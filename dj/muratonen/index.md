@@ -1,6 +1,6 @@
 # Murat Önen
 
-Murat Önen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
+Murat Önen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
 
 Murat Önen is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Düsseldorf. Often billed alongside Barbara Hofmann, Hanna Baertig and I$A. Next up: ://about blank, Berlin on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Murat Önen is a house and techno artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
+- ://about blank, Berlin — Sat, 26 Sept 2026
 - ://about blank, Berlin — Fri, 17 Apr 2026
 - Salon des Amateurs, Düsseldorf — Sat, 14 Dec 2024
 - ://about blank, Berlin — Fri, 26 Apr 2024
@@ -21,4 +22,4 @@ Murat Önen is a house and techno artist based in Germany, tracked on soundcheck
 
 Barbara Hofmann, Hanna Baertig, I$A
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muratonen/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muratonen/)*

@@ -1,6 +1,6 @@
 # limbic sis
 
-limbic sis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
+limbic sis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
 
 limbic sis is a house and techno artist based in Germany, tracked on soundcheck, with 64 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 12 more. Often billed alongside FRÆNZ:, DJ Eivissa and 0megavybe. Next up: H0L0, New York City on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ limbic sis is a house and techno artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- H0L0, New York City — Sat, 26 Sept 2026
 - Green Room NYC, New York City — Fri, 18 Sept 2026
 - Else, Berlin — Fri, 28 Aug 2026
 - Jolene, Copenhagen — Sat, 15 Aug 2026
@@ -19,10 +20,9 @@ limbic sis is a house and techno artist based in Germany, tracked on soundcheck,
 - AMT, Berlin — Fri, 17 Jul 2026
 - gART.n, Berlin — Sat, 27 Jun 2026
 - TBA - Ferme de Bissy, Rue de Bissy, Bonnelles, France, Paris — Fri, 12 Jun 2026
-- Wolfgangshof, Nürnberg — Fri, 29 May 2026
 
 ## Shares bills with
 
 FRÆNZ:, DJ Eivissa, 0megavybe
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/limbicsis/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/limbicsis/)*

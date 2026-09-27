@@ -1,6 +1,6 @@
 # Furtive
 
-Furtive is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Philadelphia on Sat, 26 Sept 2026.
+Furtive is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Philadelphia on Sat, 26 Sept 2026.
 
 Furtive is a techno and trance artist based in United States of America, tracked on soundcheck, with 24 sets logged across New York City, Paris, Philadelphia and Washington DC. Often billed alongside Ron Like Hell, rippenzack and Cubby. Next up: TBA, Philadelphia on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Furtive is a techno and trance artist based in United States of America, tracked
 
 ## Recently played
 
+- TBA, Philadelphia — Sat, 26 Sept 2026
 - The Sound Lounge at Percy, Philadelphia — Thu, 30 Jul 2026
 - Bastet, Philadelphia — Fri, 17 Jul 2026
 - Rex Club, Paris — Thu, 2 Jul 2026
@@ -19,10 +20,9 @@ Furtive is a techno and trance artist based in United States of America, tracked
 - TBA - Ask a local DJ for location.  , Philadelphia — Fri, 29 May 2026
 - The Dolphin, Philadelphia — Fri, 19 Dec 2025
 - Bossa Nova Civic Club, New York City — Sun, 7 Dec 2025
-- TBA, Philadelphia — Sat, 15 Nov 2025
 
 ## Shares bills with
 
 Ron Like Hell, rippenzack, Cubby
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/furtive/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/furtive/)*

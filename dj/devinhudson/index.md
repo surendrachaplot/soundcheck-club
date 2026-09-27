@@ -1,6 +1,6 @@
 # Devin Hudson
 
-Devin Hudson is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Podlasie Club, Chicago on Sat, 26 Sept 2026.
+Devin Hudson is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Podlasie Club, Chicago on Sat, 26 Sept 2026.
 
 Devin Hudson is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 12 sets logged across Chicago and New York City. Often billed alongside Petal, Cal.x and RP Boo. Next up: Podlasie Club, Chicago on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Devin Hudson is a club and ghetto tech artist based in United States of America,
 
 ## Recently played
 
+- Podlasie Club, Chicago — Sat, 26 Sept 2026
 - Pianos, New York City — Sun, 19 Jul 2026
 - Pianos, New York City — Sun, 19 Jul 2026
 - Mood Ring, New York City — Fri, 24 Apr 2026
@@ -19,10 +20,9 @@ Devin Hudson is a club and ghetto tech artist based in United States of America,
 - TBA - Humboldt Park (Follow @humboldtarboreal for details), Chicago — Sun, 16 Jun 2024
 - TBA, Chicago — Sat, 16 Mar 2024
 - The California Clipper, Chicago — Sat, 28 Oct 2023
-- smartbar, Chicago — Thu, 7 Sept 2023
 
 ## Shares bills with
 
 Petal, Cal.x, RP Boo
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devinhudson/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devinhudson/)*

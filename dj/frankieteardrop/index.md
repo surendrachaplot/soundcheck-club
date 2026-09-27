@@ -1,6 +1,6 @@
 # Frankie Teardrop
 
-Frankie Teardrop is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bar Datcha, Montreal on Fri, 9 Oct 2026.
+Frankie Teardrop is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bar Datcha, Montreal on Fri, 9 Oct 2026.
 
 Frankie Teardrop is a techno and house artist based in Canada, tracked on soundcheck, with 60 sets logged across Los Angeles, Montreal, New York City and Toronto and 1 more. Often billed alongside Badgalquirit, Syd Woz and Fisher Bryce. Next up: Bar Datcha, Montreal on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Frankie Teardrop is a techno and house artist based in Canada, tracked on soundc
 
 Badgalquirit, Syd Woz, Fisher Bryce
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieteardrop/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieteardrop/)*

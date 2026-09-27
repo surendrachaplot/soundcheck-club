@@ -1,6 +1,6 @@
 # Eelke Kleijn
 
-Eelke Kleijn is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+Eelke Kleijn is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
 
 Eelke Kleijn is a progressive house and techno artist based in Netherlands, tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Miss Melera, Corren Cavini and Nick Warren. Next up: Maitland Showground, Sydney on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Eelke Kleijn is a progressive house and techno artist based in Netherlands, trac
 
 Miss Melera, Corren Cavini, Nick Warren
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eelkekleijn/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eelkekleijn/)*

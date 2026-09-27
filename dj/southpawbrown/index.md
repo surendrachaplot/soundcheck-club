@@ -1,6 +1,6 @@
 # SouthPawBrown
 
-SouthPawBrown is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Wych, Toronto on Sun, 27 Sept 2026.
+SouthPawBrown is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Wych, Toronto on Sun, 27 Sept 2026.
 
 SouthPawBrown is a house and techno artist based in Canada, tracked on soundcheck, with 21 sets logged across Toronto. Often billed alongside Antitrust, Landan Brawley and Barroness. Next up: The Wych, Toronto on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ SouthPawBrown is a house and techno artist based in Canada, tracked on soundchec
 
 Antitrust, Landan Brawley, Barroness
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/southpawbrown/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/southpawbrown/)*

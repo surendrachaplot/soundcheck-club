@@ -1,6 +1,6 @@
 # Toro Lomo
 
-Toro Lomo is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Atno, Budapest on Fri, 25 Sept 2026.
+Toro Lomo is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Atno, Budapest on Fri, 25 Sept 2026.
 
 Toro Lomo is a house and minimal artist based in Hungary, tracked on soundcheck, with 25 sets logged across Budapest. Often billed alongside Kernel, Lost in Details and Peter Bernath. Next up: Atno, Budapest on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Toro Lomo is a house and minimal artist based in Hungary, tracked on soundcheck,
 
 Kernel, Lost in Details, Peter Bernath
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torolomo/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torolomo/)*

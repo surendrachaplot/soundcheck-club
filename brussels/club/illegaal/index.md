@@ -1,6 +1,6 @@
 # Illegaal
 
-Illegaal is a music venue in Brussels with 8 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Zieke Crapule Show 3" on Sat, 26 Sept 2026.
+Illegaal is a music venue in Brussels with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Zieke Crapule Show 3" on Sat, 26 Sept 2026.
 
 Illegaal is a music venue in Brussels listed on soundcheck. 8 upcoming gigs, with line-ups including Blazin' Bomzai, Godero, HypoGeo and Kathleen C and 2 more. Browse upcoming dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
 
@@ -21,4 +21,4 @@ Illegaal is a music venue in Brussels listed on soundcheck. 8 upcoming gigs, wit
 
 Rue Bollinckx 300, 1190 Forest, Brussels
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*

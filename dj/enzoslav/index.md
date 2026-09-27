@@ -1,6 +1,6 @@
 # ENZOSLAV
 
-ENZOSLAV is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Absenta del Raval, Barcelona on Wed, 30 Sept 2026.
+ENZOSLAV is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Absenta del Raval, Barcelona on Wed, 30 Sept 2026.
 
 ENZOSLAV is a techno and electronica artist based in Spain, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside Dön. Next up: Absenta del Raval, Barcelona on Wed 30 Sept.
 
@@ -15,4 +15,4 @@ ENZOSLAV is a techno and electronica artist based in Spain, tracked on soundchec
 
 Dön (1)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoslav/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoslav/)*

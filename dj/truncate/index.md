@@ -1,6 +1,6 @@
 # Truncate
 
-Truncate is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Grand Park, Los Angeles on Sat, 26 Sept 2026.
+Truncate is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Grand Park, Los Angeles on Sat, 26 Sept 2026.
 
 Truncate is a techno and house artist based in United States of America, tracked on soundcheck, with 152 sets logged across Amsterdam, Austin, Barcelona and Basel and 42 more. Often billed alongside Drumcell, DJ Hyperactive and Max Gardner. Next up: Grand Park, Los Angeles on Sat 26 Sept.
 
@@ -19,6 +19,7 @@ Truncate is a techno and house artist based in United States of America, tracked
 
 ## Recently played
 
+- Grand Park, Los Angeles — Sat, 26 Sept 2026
 - Lincoln Factory, Detroit — Sat, 19 Sept 2026
 - TBA - XuXa - 6910 Shirley Avenue, Austin — Sat, 12 Sept 2026
 - TBA - The Way UP, Houston — Fri, 11 Sept 2026
@@ -26,10 +27,9 @@ Truncate is a techno and house artist based in United States of America, tracked
 - Halcyon, San Francisco/Oakland — Fri, 28 Aug 2026
 - public records, New York City — Fri, 7 Aug 2026
 - 3oz Dive Club, San Diego — Fri, 31 Jul 2026
-- BASEMENT, New York City — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Drumcell, DJ Hyperactive, Max Gardner
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*

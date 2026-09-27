@@ -1,14 +1,13 @@
 # Echonomist
 
-Echonomist is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Village Underground Lisboa, Lisbon on Sat, 26 Sept 2026.
+Echonomist is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Audio Club, Geneva on Sat, 3 Oct 2026.
 
-Echonomist is a house and techno artist based in Greece, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 35 more. Often billed alongside Jenia Tarsol, ARODES and Avangart Tabldot. Next up: Village Underground Lisboa, Lisbon on Sat 26 Sept.
+Echonomist is a house and techno artist based in Greece, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 35 more. Often billed alongside Jenia Tarsol, ARODES and Avangart Tabldot. Next up: Audio Club, Geneva on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Village Underground Lisboa | Lisbon |
 | Sat, 3 Oct 2026 | Audio Club | Geneva |
 | Fri, 23 Oct 2026 | Club Baggerbeest | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
@@ -17,6 +16,7 @@ Echonomist is a house and techno artist based in Greece, tracked on soundcheck, 
 
 ## Recently played
 
+- Village Underground Lisboa, Lisbon — Sat, 26 Sept 2026
 - Filmtheater Sendlinger Tor, Munich — Fri, 25 Sept 2026
 - House of Yes, New York City — Sat, 19 Sept 2026
 - TBA - Strange House (1717 N Bronson Ave, Los Angeles, CA), Los Angeles — Sun, 13 Sept 2026
@@ -24,10 +24,9 @@ Echonomist is a house and techno artist based in Greece, tracked on soundcheck, 
 - MODULE, Copenhagen — Fri, 11 Sept 2026
 - INPUT High Fidelity Dance Club, Barcelona — Sun, 23 Aug 2026
 - INPUT High Fidelity Dance Club, Barcelona — Sun, 23 Aug 2026
-- fabric, London — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Jenia Tarsol, ARODES, Avangart Tabldot
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*

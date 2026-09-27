@@ -1,6 +1,6 @@
 # Known Artist
 
-Known Artist is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
+Known Artist is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
 
 Known Artist is a techno and trance artist based in Italy, tracked on soundcheck, with 41 sets logged across Berlin, Milan and Paris. Often billed alongside Ditzy, bipolar and ARMANDO. Next up: La Rotonde Stalingrad, Paris on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Known Artist is a techno and trance artist based in Italy, tracked on soundcheck
 
 Ditzy, bipolar, ARMANDO
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/knownartist/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/knownartist/)*

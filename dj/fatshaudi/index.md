@@ -1,6 +1,6 @@
 # Fatshaudi
 
-Fatshaudi is a Downtempo and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Black Bear Lodge, Brisbane on Sun, 27 Sept 2026.
+Fatshaudi is a Downtempo and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Black Bear Lodge, Brisbane on Sun, 27 Sept 2026.
 
 Fatshaudi is a downtempo and experimental artist based in Australia, tracked on soundcheck, with 19 sets logged across Berlin, Brisbane, Melbourne and Paris and 1 more. Often billed alongside James Massiah, Mike Midnight and Quincy Raw. Next up: Black Bear Lodge, Brisbane on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Fatshaudi is a downtempo and experimental artist based in Australia, tracked on 
 
 James Massiah, Mike Midnight, Quincy Raw
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatshaudi/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatshaudi/)*

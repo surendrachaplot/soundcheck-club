@@ -1,6 +1,6 @@
 # Sinopoli
 
-Sinopoli is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Floyd, Miami on Sat, 26 Sept 2026.
+Sinopoli is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Floyd, Miami on Sat, 26 Sept 2026.
 
 Sinopoli is a house and experimental artist based in United States of America, tracked on soundcheck, with 10 sets logged across Miami. Often billed alongside Cami di Marzo, Nikita Green and SIEGEL. Next up: Floyd, Miami on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ Sinopoli is a house and experimental artist based in United States of America, t
 
 ## Recently played
 
+- Floyd, Miami — Sat, 26 Sept 2026
 - Floyd, Miami — Fri, 28 Aug 2026
 - Domicile, Miami — Sat, 8 Aug 2026
 - Fooq's Miami, Miami — Sat, 18 Jul 2026
@@ -20,10 +21,9 @@ Sinopoli is a house and experimental artist based in United States of America, t
 - Mad Radio Miami, Miami — Sat, 9 May 2026
 - Jolene Downtown Miami, Miami — Sun, 3 May 2026
 - Club Space Miami, Miami — Sat, 25 Apr 2026
-- Factory Town, Miami — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Cami di Marzo, Nikita Green, SIEGEL (2)
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinopoli/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinopoli/)*

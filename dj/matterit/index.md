@@ -1,6 +1,6 @@
 # Matter (IT)
 
-Matter (IT) is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bridge Gardens, Glasgow on Sat, 26 Sept 2026.
+Matter (IT) is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bridge Gardens, Glasgow on Sat, 26 Sept 2026.
 
 Matter (IT) is an ambient and techno artist tracked on soundcheck, with 6 sets logged across Barcelona, Glasgow, Rome and Sydney. Often billed alongside Alex O'Rion, Alpha Sect and Amonita. Next up: Bridge Gardens, Glasgow on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Matter (IT) is an ambient and techno artist tracked on soundcheck, with 6 sets l
 
 ## Recently played
 
+- Bridge Gardens, Glasgow — Sat, 26 Sept 2026
 - Antigua Fábrica Enmasa Mercedes-Benz, Barcelona — Fri, 6 Dec 2024
 - Darling Harbour, Sydney — Sat, 20 Jan 2024
 - Del Rio Riverside Resort, Sydney — Fri, 27 Oct 2023
@@ -22,4 +23,4 @@ Matter (IT) is an ambient and techno artist tracked on soundcheck, with 6 sets l
 
 Alex O'Rion, Alpha Sect, Amonita
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matterit/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matterit/)*

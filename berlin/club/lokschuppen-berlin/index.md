@@ -1,8 +1,8 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 69 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "GOAT BALL SUMMER CLOSING " on Sat, 26 Sept 2026.
+Lokschuppen Berlin is a music venue in Berlin with 70 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "GOAT BALL SUMMER CLOSING " on Sat, 26 Sept 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 69 upcoming gigs, with line-ups including 1luu, 4NOUK, 5euroGoldi and 9LALEY and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 70 upcoming gigs, with line-ups including 1luu, 4NOUK, 5euroGoldi and 9LALEY and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 69 upcoming 
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

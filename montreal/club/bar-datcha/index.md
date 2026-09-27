@@ -1,6 +1,6 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Datcha NONSTOP X RESO: BACK5PIN, BENJI b2b Colmee, Manuel Falardeau b2b Marc Wellon, FREEEMAN" on Sat, 26 Sept 2026.
+Bar Datcha is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Datcha NONSTOP X RESO: BACK5PIN, BENJI b2b Colmee, Manuel Falardeau b2b Marc Wellon, FREEEMAN" on Sat, 26 Sept 2026.
 
 Bar Datcha is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including 99hp, Badgalquirit, Blu:sh and Bwi-Bwi and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
@@ -22,4 +22,4 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, w
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

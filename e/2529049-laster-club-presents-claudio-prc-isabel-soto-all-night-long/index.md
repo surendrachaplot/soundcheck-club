@@ -1,10 +1,10 @@
 # Laster Club presents Claudio PRC & Isabel Soto [All Night Long] at The Bassement
 
-Laster Club presents Claudio PRC & Isabel Soto [All Night Long] at The Bassement on Sat 5 Sept, Madrid. 2 acts on the bill: Claudio PRC and Isabel Soto. Techno. Preview the line-up and save it on soundcheck.
+Laster Club presents Claudio PRC & Isabel Soto [All Night Long] at The Bassement on Sat 10 Oct, Madrid. 2 artists on the bill: Claudio PRC and Isabel Soto. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 5 Sept 2026 |
+| Date | Sat, 10 Oct 2026 |
 | Venue | The Bassement |
 | City | Madrid |
 

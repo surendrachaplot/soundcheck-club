@@ -1,6 +1,6 @@
 # ANNYL
 
-ANNYL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil, Sao Paulo on Sun, 27 Sept 2026.
+ANNYL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil, Sao Paulo on Sun, 27 Sept 2026.
 
 ANNYL is a house and techno artist tracked on soundcheck, with 24 sets logged across Sao Paulo. Often billed alongside L_cio, Renato Cohen and Dany Bany. Next up: TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil, Sao Paulo on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ ANNYL is a house and techno artist tracked on soundcheck, with 24 sets logged ac
 
 L_cio, Renato Cohen, Dany Bany
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annyl/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annyl/)*

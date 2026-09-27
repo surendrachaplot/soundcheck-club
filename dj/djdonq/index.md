@@ -1,6 +1,6 @@
 # DJ Don Q
 
-DJ Don Q is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Lincoln Factory, Detroit on Sat, 26 Sept 2026.
+DJ Don Q is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lincoln Factory, Detroit on Sat, 26 Sept 2026.
 
 DJ Don Q is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside Sheefy McFly, Andrés and BLAAQGOLD. Next up: Lincoln Factory, Detroit on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ DJ Don Q is a house and funk / soul artist based in United States of America, tr
 
 ## Recently played
 
+- Lincoln Factory, Detroit — Sat, 26 Sept 2026
 - Northern Lights Lounge, Detroit — Wed, 7 Jan 2026
 - Paris Bar, Detroit — Fri, 5 Dec 2025
 - UFO Bar, Detroit — Fri, 17 Oct 2025
@@ -23,4 +24,4 @@ DJ Don Q is a house and funk / soul artist based in United States of America, tr
 
 Sheefy McFly, Andrés, BLAAQGOLD
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdonq/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdonq/)*

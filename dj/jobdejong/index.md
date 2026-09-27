@@ -1,14 +1,13 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Colorado Charlie, The Hague on Sat, 26 Sept 2026.
+Job de Jong is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
-Job de Jong is a house and tech house artist based in Netherlands, tracked on soundcheck, with 171 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: Colorado Charlie, The Hague on Sat 26 Sept.
+Job de Jong is a house and tech house artist based in Netherlands, tracked on soundcheck, with 171 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Colorado Charlie | The Hague |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 4 Oct 2026 | 528 Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | NX Newcastle | Newcastle |
@@ -20,9 +19,11 @@ Job de Jong is a house and tech house artist based in Netherlands, tracked on so
 | Fri, 6 Nov 2026 | Invisible Wind Factory | Liverpool |
 | Fri, 6 Nov 2026 | Invisible Wind Factory | Liverpool |
 | Sun, 8 Nov 2026 | Thuishaven | Amsterdam |
+| Sat, 14 Nov 2026 | Lab11 | Birmingham |
 
 ## Recently played
 
+- Colorado Charlie, The Hague — Sat, 26 Sept 2026
 - Cova Santa, Ibiza — Tue, 22 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - 528 Ibiza, Ibiza — Fri, 18 Sept 2026
@@ -30,10 +31,9 @@ Job de Jong is a house and tech house artist based in Netherlands, tracked on so
 - Amnesia Ibiza, Ibiza — Thu, 10 Sept 2026
 - Hï Ibiza, Ibiza — Tue, 1 Sept 2026
 - Cova Santa, Ibiza — Tue, 25 Aug 2026
-- Boomerang Beach, The Hague — Sun, 23 Aug 2026
 
 ## Shares bills with
 
 Dennis Quin, Prunk, M-High
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*

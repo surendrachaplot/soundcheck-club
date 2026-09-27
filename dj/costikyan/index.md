@@ -1,6 +1,6 @@
 # Costikyan
 
-Costikyan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Arch 535, London on Sat, 31 Oct 2026.
+Costikyan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Arch 535, London on Sat, 31 Oct 2026.
 
 Costikyan is a house and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside boys name, Benjamin Jared and Zubin FC. Next up: Arch 535, London on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Costikyan is a house and techno artist based in United Kingdom, tracked on sound
 
 boys name, Benjamin Jared, Zubin FC
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/costikyan/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/costikyan/)*

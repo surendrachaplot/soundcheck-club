@@ -1,6 +1,6 @@
 # Audio Club
 
-Audio Club is a music venue in Geneva with 6 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "SVEN VÄTH · Raeya Chen · La Forêt · DJ Reas · SYLOO · DEAF MUTE" on Sat, 26 Sept 2026.
+Audio Club is a music venue in Geneva with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "SVEN VÄTH · Raeya Chen · La Forêt · DJ Reas · SYLOO · DEAF MUTE" on Sat, 26 Sept 2026.
 
 Audio Club is a music venue in Geneva listed on soundcheck. 6 upcoming gigs, with line-ups including Âme, Anfisa Letyago, Dachshund and Echonomist and 2 more. Browse upcoming dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
 
@@ -19,4 +19,4 @@ Audio Club is a music venue in Geneva listed on soundcheck. 6 upcoming gigs, wit
 
 Boissonnas 20,  1227 Les Acacias - Genève, Geneva
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*

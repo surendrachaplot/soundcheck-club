@@ -1,6 +1,6 @@
 # KARAH
 
-KARAH is a Techno and Industrial artist with 12 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Bootshaus, Cologne on Sat, 26 Sept 2026.
+KARAH is a Techno and Industrial artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bootshaus, Cologne on Sat, 26 Sept 2026.
 
 KARAH is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: Bootshaus, Cologne on Sat 26 Sept.
 
@@ -23,17 +23,17 @@ KARAH is a techno and industrial artist based in Netherlands, tracked on soundch
 
 ## Recently played
 
+- Bootshaus, Cologne — Sat, 26 Sept 2026
+- Bootshaus, Cologne — Sat, 26 Sept 2026
 - Eden, Ibiza — Tue, 15 Sept 2026
 - Eden, Ibiza — Tue, 15 Sept 2026
 - E1, London — Fri, 4 Sept 2026
 - E1, London — Fri, 4 Sept 2026
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
-- Spook Club, Valencia — Sat, 22 Aug 2026
-- Spook Club, Valencia — Sat, 22 Aug 2026
 
 ## Shares bills with
 
 KLOFAMA, 6EJOU, Raxeller
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*

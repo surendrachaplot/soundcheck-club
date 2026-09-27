@@ -1,6 +1,6 @@
 # Theo Parrish
 
-Theo Parrish is a House and Funk / Soul artist with 7 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+Theo Parrish is a House and Funk / Soul artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
 Theo Parrish is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 29 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: TBA, Los Angeles on Sun 27 Sept.
 
@@ -31,4 +31,4 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 
 Avalon Emerson, Moodymann, Batu
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*

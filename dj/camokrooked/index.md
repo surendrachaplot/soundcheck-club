@@ -1,14 +1,13 @@
 # Camo & Krooked
 
-Camo & Krooked is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Eatons Hill Hotel and Function Centre, Brisbane on Sat, 26 Sept 2026.
+Camo & Krooked is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Burswood Dome, Perth on Sun, 27 Sept 2026.
 
-Camo & Krooked are a drum & bass and jungle duo based in Austria, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: Eatons Hill Hotel and Function Centre, Brisbane on Sat 26 Sept.
+Camo & Krooked are a drum & bass and jungle duo based in Austria, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: Burswood Dome, Perth on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Eatons Hill Hotel and Function Centre | Brisbane |
 | Sun, 27 Sept 2026 | Burswood Dome | Perth |
 | Fri, 2 Oct 2026 | Wolfbrook Arena | Christchurch |
 | Sat, 3 Oct 2026 | The Trusts Stadium | Auckland |
@@ -19,6 +18,7 @@ Camo & Krooked are a drum & bass and jungle duo based in Austria, tracked on sou
 
 ## Recently played
 
+- Eatons Hill Hotel and Function Centre, Brisbane — Sat, 26 Sept 2026
 - UNO MALTA, Malta — Thu, 3 Sept 2026
 - H2o6, Riga — Sat, 29 Aug 2026
 - Document, Bristol — Sat, 18 Jul 2026
@@ -26,10 +26,9 @@ Camo & Krooked are a drum & bass and jungle duo based in Austria, tracked on sou
 - Now&Wow, Rotterdam — Fri, 26 Jun 2026
 - High Lights - Barking Park, London — Sun, 31 May 2026
 - IDRA, Manchester — Sat, 23 May 2026
-- Helitehas, Tallinn — Fri, 1 May 2026
 
 ## Shares bills with
 
 Mefjus, Disrupta, Kanine
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*

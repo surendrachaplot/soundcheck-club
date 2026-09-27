@@ -1,6 +1,6 @@
 # Orlando Rosé
 
-Orlando Rosé is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Alte Feuerwache THF, Berlin on Fri, 9 Oct 2026.
+Orlando Rosé is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Alte Feuerwache THF, Berlin on Fri, 9 Oct 2026.
 
 Orlando Rosé is a house and funk / soul artist based in Canada, tracked on soundcheck, with 20 sets logged across Berlin and London. Often billed alongside Ken Okuda, D'Monk and NaN.. Next up: Alte Feuerwache THF, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Orlando Rosé is a house and funk / soul artist based in Canada, tracked on soun
 
 Ken Okuda, D'Monk, NaN.
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orlandorose/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orlandorose/)*

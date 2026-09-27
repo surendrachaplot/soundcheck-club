@@ -1,6 +1,6 @@
 # Shenin Amara
 
-Shenin Amara is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Variety of venues across Albufeira, Algarve on Fri, 25 Sept 2026.
+Shenin Amara is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Variety of venues across Albufeira, Algarve on Fri, 25 Sept 2026.
 
 Shenin Amara is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 209 sets logged across Algarve, Amsterdam, Birmingham and Ibiza and 4 more. Often billed alongside JAYDAA, Jerome Six and Beezo. Next up: TBA - Variety of venues across Albufeira, Algarve on Fri 25 Sept.
 
@@ -32,4 +32,4 @@ Shenin Amara is a tech house and house artist based in United Kingdom, tracked o
 
 JAYDAA, Jerome Six, Beezo
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sheninamara/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sheninamara/)*

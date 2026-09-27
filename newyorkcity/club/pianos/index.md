@@ -1,6 +1,6 @@
 # Pianos
 
-Pianos is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "ANKHARA SESSION 002" on Fri, 2 Oct 2026.
+Pianos is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "ANKHARA SESSION 002" on Fri, 2 Oct 2026.
 
 Pianos is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Lil Zé and Papi Weli. Browse upcoming dates, start times and who's playing. 158 Ludlow Street; New York, NY 10002; United States.
 
@@ -15,4 +15,4 @@ Pianos is a music venue in New York City listed on soundcheck. 2 upcoming gigs, 
 
 158 Ludlow Street; New York, NY 10002; United States, New York City
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pianos/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pianos/)*

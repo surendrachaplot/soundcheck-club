@@ -1,6 +1,6 @@
 # DJ Physical
 
-DJ Physical is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Le Sucre, Lyon on Sat, 26 Sept 2026.
+DJ Physical is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Le Sucre, Lyon on Sat, 26 Sept 2026.
 
 DJ Physical is a techno and trance artist based in France, tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside The Chronics, Arabian Panther and JKS. Next up: Le Sucre, Lyon on Sat 26 Sept.
 
@@ -13,6 +13,7 @@ DJ Physical is a techno and trance artist based in France, tracked on soundcheck
 
 ## Recently played
 
+- Le Sucre, Lyon — Sat, 26 Sept 2026
 - Badaboum, Paris — Fri, 4 Sept 2026
 - OXI, Berlin — Fri, 17 Jul 2026
 - Kilomètre25, Paris — Fri, 3 Jul 2026
@@ -20,10 +21,9 @@ DJ Physical is a techno and trance artist based in France, tracked on soundcheck
 - 104 CENTQUATRE, Paris — Sat, 25 Apr 2026
 - Badaboum, Paris — Sat, 14 Feb 2026
 - Perron, Rotterdam — Fri, 30 Jan 2026
-- Perron, Rotterdam — Fri, 30 Jan 2026
 
 ## Shares bills with
 
 The Chronics, Arabian Panther, JKS
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djphysical/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djphysical/)*

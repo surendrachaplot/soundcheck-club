@@ -1,6 +1,6 @@
 # Westov Temple
 
-Westov Temple is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
+Westov Temple is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
 
 Westov Temple is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 16 sets logged across Denver and Philadelphia. Often billed alongside Mario Cotto, Lady Prowl and Universal Cave. Next up: Bastet, Philadelphia on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Westov Temple is an ambient and experimental artist based in United States of Am
 
 ## Recently played
 
+- Bastet, Philadelphia — Sat, 26 Sept 2026
 - Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - The Sound Lounge at Percy, Philadelphia — Thu, 2 Jul 2026
 - St. Michael's Lutheran Church, Philadelphia — Sat, 17 Jan 2026
@@ -19,10 +20,9 @@ Westov Temple is an ambient and experimental artist based in United States of Am
 - The Sound Lounge at Percy, Philadelphia — Fri, 15 Aug 2025
 - The Sound Lounge at Percy, Philadelphia — Sat, 14 Jun 2025
 - Icebox Project Space, Philadelphia — Thu, 12 Dec 2024
-- Upstairs at the 700, Philadelphia — Thu, 21 Nov 2024
 
 ## Shares bills with
 
 Mario Cotto, Lady Prowl, Universal Cave
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/westovtemple/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/westovtemple/)*

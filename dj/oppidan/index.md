@@ -1,6 +1,6 @@
 # Oppidan
 
-Oppidan is a Garage and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at The Warehouse, Leeds on Sat, 26 Sept 2026.
+Oppidan is a Garage and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Warehouse, Leeds on Sat, 26 Sept 2026.
 
 Oppidan is a garage and house artist based in United Kingdom, tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Auckland and Austin and 50 more. Often billed alongside MPH, Sammy Virji and Notion. Next up: The Warehouse, Leeds on Sat 26 Sept.
 
@@ -23,6 +23,7 @@ Oppidan is a garage and house artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
+- The Warehouse, Leeds — Sat, 26 Sept 2026
 - Odaiba, Tokyo — Tue, 22 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - The Cause, London — Sat, 12 Sept 2026
@@ -30,10 +31,9 @@ Oppidan is a garage and house artist based in United Kingdom, tracked on soundch
 - Finsbury Park, London — Fri, 7 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Art Club, Houston — Fri, 31 Jul 2026
-- Document, Bristol — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 MPH (1), Sammy Virji, Notion
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*

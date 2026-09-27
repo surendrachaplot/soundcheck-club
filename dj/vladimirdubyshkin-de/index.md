@@ -1,6 +1,6 @@
 # Vladimir Dubyshkin
 
-Vladimir Dubyshkin is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Domicile, Miami on Sat, 26 Sept 2026.
+Vladimir Dubyshkin is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Domicile, Miami on Sat, 26 Sept 2026.
 
 Vladimir Dubyshkin is a techno and trance artist based in Russia, tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside u.r.trax, DJ Hyperdrive and fka.m4a. Next up: Domicile, Miami on Sat 26 Sept.
 
@@ -16,6 +16,7 @@ Vladimir Dubyshkin is a techno and trance artist based in Russia, tracked on sou
 
 ## Recently played
 
+- Domicile, Miami — Sat, 26 Sept 2026
 - TBA - DTLA, Los Angeles — Sat, 12 Sept 2026
 - Substation, Seattle — Fri, 11 Sept 2026
 - Spot X, Budapest — Fri, 31 Jul 2026
@@ -23,10 +24,9 @@ Vladimir Dubyshkin is a techno and trance artist based in Russia, tracked on sou
 - TBA - 288 GREEN ST CAMBRIDGE - MA 02139, Boston — Fri, 17 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 21 Jun 2026
 - Ministerium Club, Lisbon — Sat, 20 Jun 2026
-- Mondo, Madrid — Sat, 16 May 2026
 
 ## Shares bills with
 
 u.r.trax, DJ Hyperdrive, fka.m4a
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdubyshkin-de/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdubyshkin-de/)*

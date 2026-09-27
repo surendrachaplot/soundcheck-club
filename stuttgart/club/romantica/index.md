@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Freeride Millenium with makcimillian, Elsa & Ceasul, Special Interest, Jorkes" on Sat, 26 Sept 2026.
+Romantica is a music venue in Stuttgart with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Freeride Millenium with makcimillian, Elsa & Ceasul, Special Interest, Jorkes" on Sat, 26 Sept 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 7 upcoming gigs, with line-ups including Alexander Maier, Avocado, ELSA (DE) and Femcat and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -20,4 +20,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 7 upcoming gigs, w
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

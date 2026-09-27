@@ -1,6 +1,6 @@
 # TRAUM
 
-TRAUM is a music venue in Antwerp with 15 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Café d'Anvers Reunion: Jaydee, Sven Van Hees, Steve Cop, Latte" on Sat, 26 Sept 2026.
+TRAUM is a music venue in Antwerp with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Café d'Anvers Reunion: Jaydee, Sven Van Hees, Steve Cop, Latte" on Sat, 26 Sept 2026.
 
 TRAUM is a music venue in Antwerp listed on soundcheck. 15 upcoming gigs, with line-ups including Justine Perry, Arter, Bevan and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TRAUM is a music venue in Antwerp listed on soundcheck. 15 upcoming gigs, with l
 | Sat, 24 Oct 2026 | Traum Nacht: Surusinghe, KEVIN KOFII b2b O'SIMMIE, Maraskino | KEVIN KOFII, Maraschino, O'SIMMIE, Surusinghe |
 | Fri, 30 Oct 2026 | Curated by Phemia: Justine Perry, Pooja B, Phemia | Justine Perry, Phemia, Pooja B |
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*

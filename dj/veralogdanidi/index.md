@@ -1,6 +1,6 @@
 # Vera Logdanidi
 
-Vera Logdanidi is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at Lofi, Amsterdam on Sat, 26 Sept 2026.
+Vera Logdanidi is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Lofi, Amsterdam on Sat, 26 Sept 2026.
 
 Vera Logdanidi is a techno and ambient artist based in Ukraine, tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside Na Nich, Efdemin and Altinbas. Next up: Lofi, Amsterdam on Sat 26 Sept.
 
@@ -14,6 +14,7 @@ Vera Logdanidi is a techno and ambient artist based in Ukraine, tracked on sound
 
 ## Recently played
 
+- Lofi, Amsterdam — Sat, 26 Sept 2026
 - Tresor / Globus, Berlin — Fri, 25 Sept 2026
 - Jasna 1, Warsaw — Fri, 11 Sept 2026
 - TILLATEC, Amsterdam — Sat, 15 Aug 2026
@@ -21,10 +22,9 @@ Vera Logdanidi is a techno and ambient artist based in Ukraine, tracked on sound
 - Jolene, Copenhagen — Fri, 19 Jun 2026
 - Toldi Klub, Budapest — Fri, 29 May 2026
 - Tresor / Globus, Berlin — Sat, 23 May 2026
-- RSO.BERLIN, Berlin — Fri, 8 May 2026
 
 ## Shares bills with
 
 Na Nich, Efdemin, Altinbas
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veralogdanidi/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veralogdanidi/)*

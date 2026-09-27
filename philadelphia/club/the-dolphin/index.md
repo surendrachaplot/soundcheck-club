@@ -1,6 +1,6 @@
 # The Dolphin
 
-The Dolphin is a music venue in Philadelphia with 7 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "raptura [trance all night long]" on Sat, 26 Sept 2026.
+The Dolphin is a music venue in Philadelphia with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "raptura [trance all night long]" on Sat, 26 Sept 2026.
 
 The Dolphin is a music venue in Philadelphia listed on soundcheck. 7 upcoming gigs, with line-ups including 4AM NYC, America Loves Me, Caiya and CITYSPROBLEM and 2 more. Browse upcoming dates, start times and who's playing. 1539 S Broad St, Philadelphia, PA 19147.
 
@@ -20,4 +20,4 @@ The Dolphin is a music venue in Philadelphia listed on soundcheck. 7 upcoming gi
 
 1539 S Broad St, Philadelphia, PA 19147, Philadelphia
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-dolphin/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-dolphin/)*

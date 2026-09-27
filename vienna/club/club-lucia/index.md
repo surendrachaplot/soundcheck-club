@@ -1,6 +1,6 @@
 # Club Lucia
 
-Club Lucia is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Drumworks presents Jolliffe (Shogun Audio / UKF - UK)" on Sat, 10 Oct 2026.
+Club Lucia is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Drumworks presents Jolliffe (Shogun Audio / UKF - UK)" on Sat, 10 Oct 2026.
 
 Club Lucia is a music venue in Vienna listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna.
 
@@ -16,4 +16,4 @@ Club Lucia is a music venue in Vienna listed on soundcheck. 3 upcoming gigs. Bro
 
 Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna, Vienna
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*

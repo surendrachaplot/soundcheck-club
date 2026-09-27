@@ -1,6 +1,6 @@
 # Djoon
 
-Djoon is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Sat, 26 Sept 2026; the next is "Boddhi Satva invite Blck Mamba & Fresh Nunas" on Sat, 26 Sept 2026.
+Djoon is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Boddhi Satva invite Blck Mamba & Fresh Nunas" on Sat, 26 Sept 2026.
 
 Djoon is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including Adri, Bevan, Blck Mamba and Boddhi Satva and 2 more. Browse upcoming dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
@@ -23,4 +23,4 @@ Djoon is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with lin
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

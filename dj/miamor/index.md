@@ -1,18 +1,18 @@
 # Miamor
 
-Miamor is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 26 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+Miamor is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lofi, Amsterdam on Sat, 24 Oct 2026.
 
-Miamor is a techno and trance artist based in Belgium, tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Helena Lauwaert, MOKER and BAVR. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
+Miamor is a techno and trance artist based in Belgium, tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Helena Lauwaert, MOKER and BAVR. Next up: Lofi, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Fohrstraat, 9000 Gent, België | Ghent |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
 
 ## Recently played
 
+- TBA - Fohrstraat, 9000 Gent, België, Ghent — Sat, 26 Sept 2026
 - TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Orange Room, London — Sat, 1 Aug 2026
 - Night Tales Loft, London — Fri, 17 Jul 2026
@@ -20,10 +20,9 @@ Miamor is a techno and trance artist based in Belgium, tracked on soundcheck, wi
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - OLT Rivierenhof, Antwerp — Fri, 19 Jun 2026
 - TRAUM, Antwerp — Fri, 29 May 2026
-- TBA, Brussels — Fri, 29 May 2026
 
 ## Shares bills with
 
 Helena Lauwaert, MOKER, BAVR
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miamor/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miamor/)*

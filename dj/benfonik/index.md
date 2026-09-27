@@ -1,6 +1,6 @@
 # Ben Fonik
 
-Ben Fonik is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 26 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 26 Sept 2026.
+Ben Fonik is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Ben Fonik is a house and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across San Francisco/Oakland. Often billed alongside BEYA, Beverly Chills and Carrieondisco. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 26 Sept.
 
@@ -12,6 +12,7 @@ Ben Fonik is a house and techno artist based in United States of America, tracke
 
 ## Recently played
 
+- F8 1192 Folsom, San Francisco/Oakland — Sat, 26 Sept 2026
 - F8 1192 Folsom, San Francisco/Oakland — Sat, 2 May 2026
 - F8 1192 Folsom, San Francisco/Oakland — Sat, 17 Jan 2026
 - F8 1192 Folsom, San Francisco/Oakland — Fri, 13 Dec 2024
@@ -22,4 +23,4 @@ Ben Fonik is a house and techno artist based in United States of America, tracke
 
 BEYA, Beverly Chills, Carrieondisco
 
-*Updated Sat, 26 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benfonik/)*
+*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benfonik/)*
