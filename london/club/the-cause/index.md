@@ -1,14 +1,13 @@
 # The Cause
 
-The Cause is a music venue in London with 29 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Kolter Day Party" on Sat, 26 Sept 2026.
+The Cause is a music venue in London with 28 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Zulu Nation - All White Party " on Sun, 27 Sept 2026.
 
-The Cause is a music venue in London listed on soundcheck. 29 upcoming gigs, with line-ups including 4000 Hz, KT, Acid Sally and Adiel and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
+The Cause is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including 4000 Hz, KT, Acid Sally and Adiel and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Kolter Day Party |  |
 | Sun, 27 Sept 2026 | Zulu Nation - All White Party  | Angela Rose, DJ Majesty, Gemini (2) |
 | Sat, 3 Oct 2026 | Labyrinth presents: Boys Noize ONES and ZEROS | Boys Noize, LSDXOXO, MarcelDune, Slim Soledad |
 | Fri, 9 Oct 2026 | Gray presents: Antisocial Sound - London |  |
@@ -18,6 +17,7 @@ The Cause is a music venue in London listed on soundcheck. 29 upcoming gigs, wit
 | Fri, 23 Oct 2026 | FREE TICKETS: The Cause WINTER 26 – House & Disco ALL NIGHT LONG |  |
 | Fri, 23 Oct 2026 | FREE TICKETS: RnB, Afro & Latin House, Reggaeton, Pop - MOTIVE PARTY |  |
 | Sat, 24 Oct 2026 | BAILE TRAMA 4TH ANNIVERSARY | DAZLBØY, GUS (4), Kontronatura, SZAL, Tsunamy |
+| Thu, 29 Oct 2026 | The Halloween Warehouse Rave 2026 |  |
 
 ## Address
 

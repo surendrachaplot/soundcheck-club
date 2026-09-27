@@ -1,14 +1,13 @@
 # Spikey Lee
 
-Spikey Lee is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at RADION, Amsterdam on Sat, 26 Sept 2026.
+Spikey Lee is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Club NYX, Amsterdam on Sat, 24 Oct 2026.
 
-Spikey Lee is a techno and house artist based in Netherlands, tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Berlin and Brussels and 16 more. Often billed alongside Lenard Klein, Haeder and Laure Croft. Next up: RADION, Amsterdam on Sat 26 Sept.
+Spikey Lee is a techno and house artist based in Netherlands, tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Berlin and Brussels and 16 more. Often billed alongside Lenard Klein, Haeder and Laure Croft. Next up: Club NYX, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | RADION | Amsterdam |
 | Sat, 24 Oct 2026 | Club NYX | Amsterdam |
 | Sat, 31 Oct 2026 | Club NYX | Amsterdam |
 | Sun, 15 Nov 2026 | KitKatClub | Berlin |

@@ -1,14 +1,13 @@
 # G I N A
 
-G I N A is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Franky Bradley's, Philadelphia on Sat, 26 Sept 2026.
+G I N A is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Dolphin, Philadelphia on Fri, 2 Oct 2026.
 
-G I N A is a techno and house artist based in United States of America, tracked on soundcheck, with 230 sets logged across Barcelona, Liverpool, Los Angeles and Manchester and 4 more. Often billed alongside Shearn, Dave Tidey and Andi. Next up: Franky Bradley's, Philadelphia on Sat 26 Sept.
+G I N A is a techno and house artist based in United States of America, tracked on soundcheck, with 230 sets logged across Barcelona, Liverpool, Los Angeles and Manchester and 4 more. Often billed alongside Shearn, Dave Tidey and Andi. Next up: The Dolphin, Philadelphia on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Franky Bradley's | Philadelphia |
 | Fri, 2 Oct 2026 | The Dolphin | Philadelphia |
 | Sun, 11 Oct 2026 | The Dolphin | Philadelphia |
 | Fri, 30 Oct 2026 | The Dolphin | Philadelphia |

@@ -1,14 +1,13 @@
 # Timo Lee
 
-Timo Lee is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Madrone Art Bar, San Francisco/Oakland on Sat, 26 Sept 2026.
+Timo Lee is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
 
-Timo Lee is a house and disco artist based in United States of America, tracked on soundcheck, with 107 sets logged across Los Angeles, Mexico City, Miami and New York City and 5 more. Often billed alongside Yurk, Armii1n and Carozilla. Next up: Madrone Art Bar, San Francisco/Oakland on Sat 26 Sept.
+Timo Lee is a house and disco artist based in United States of America, tracked on soundcheck, with 107 sets logged across Los Angeles, Mexico City, Miami and New York City and 5 more. Often billed alongside Yurk, Armii1n and Carozilla. Next up: Dead Letter No. 9, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Madrone Art Bar | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | Dead Letter No. 9 | New York City |
 | Thu, 15 Oct 2026 | Outer Heaven | New York City |
 | Fri, 16 Oct 2026 | Green Room NYC | New York City |

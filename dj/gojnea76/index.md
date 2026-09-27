@@ -1,14 +1,13 @@
 # Gojnea76
 
-Gojnea76 is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Club Guesthouse, Bucharest on Sat, 26 Sept 2026.
+Gojnea76 is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Fünk, Mexico City on Fri, 2 Oct 2026.
 
-Gojnea76 is a house and minimal artist tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside G76, Piticu and Alexander Skancke. Next up: Club Guesthouse, Bucharest on Sat 26 Sept.
+Gojnea76 is a house and minimal artist tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside G76, Piticu and Alexander Skancke. Next up: Fünk, Mexico City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Club Guesthouse | Bucharest |
 | Fri, 2 Oct 2026 | Fünk | Mexico City |
 
 ## Recently played

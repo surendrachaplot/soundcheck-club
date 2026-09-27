@@ -1,14 +1,13 @@
 # Bleach
 
-Bleach is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+Bleach is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Flinders, Sydney on Fri, 2 Oct 2026.
 
-Bleach is a techno and industrial artist based in Spain, tracked on soundcheck, with 42 sets logged across Auckland, Belgrade, Berlin and Bristol and 3 more. Often billed alongside ADAM MUNNINGS, Dj handbag and JUNN GULDUR. Next up: Heave Festival, Madrid on Fri 25 Sept.
+Bleach is a techno and industrial artist based in Spain, tracked on soundcheck, with 42 sets logged across Auckland, Belgrade, Berlin and Bristol and 3 more. Often billed alongside ADAM MUNNINGS, Dj handbag and JUNN GULDUR. Next up: The Flinders, Sydney on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Heave Festival | Madrid |
 | Fri, 2 Oct 2026 | The Flinders | Sydney |
 | Sat, 24 Oct 2026 | The Flinders | Sydney |
 

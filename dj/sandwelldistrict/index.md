@@ -1,14 +1,13 @@
 # Sandwell District
 
-Sandwell District is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
+Sandwell District is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Signal, New York City on Fri, 9 Oct 2026.
 
-Sandwell District is a techno and dub techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Regis, Function and mad miran. Next up: Jasna 1, Warsaw on Sat 26 Sept.
+Sandwell District is a techno and dub techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Regis, Function and mad miran. Next up: Signal, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Jasna 1 | Warsaw |
 | Fri, 9 Oct 2026 | Signal | New York City |
 
 ## Recently played

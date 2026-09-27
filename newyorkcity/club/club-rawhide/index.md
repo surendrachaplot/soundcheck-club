@@ -1,14 +1,13 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Club Rawhide SATURDAY NIGHT w/ DJ Lina, Dawson, Boomer Banks" on Sat, 26 Sept 2026.
+Club Rawhide is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "LOVE SENSATION SUNDAYS // A True New York Tea Dance // w/ Lady Bunny, Drew Baker" on Sun, 27 Sept 2026.
 
-Club Rawhide is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Boomer Banks, DJ Dawson and Drew Baker. Browse upcoming dates, start times and who's playing. 250 W 26TH ST.
+Club Rawhide is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Drew Baker. Browse upcoming dates, start times and who's playing. 250 W 26TH ST.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Club Rawhide SATURDAY NIGHT w/ DJ Lina, Dawson, Boomer Banks | Boomer Banks, DJ Dawson |
 | Sun, 27 Sept 2026 | LOVE SENSATION SUNDAYS // A True New York Tea Dance // w/ Lady Bunny, Drew Baker | Drew Baker |
 | Thu, 1 Oct 2026 | CODED Thursdays 10.01.26 |  |
 | Fri, 2 Oct 2026 | Club Rawhide FRIDAY NIGHT 10.02.26 |  |

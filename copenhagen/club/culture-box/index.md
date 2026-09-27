@@ -1,14 +1,13 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 18 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "PECCĀVĪ: Alex Stein / Aja Gulris / Skarn / CERJ / LACTIC ACID: DJ Farkas / RÓS / AZADÎ / Deril" on Sat, 26 Sept 2026.
+Culture Box is a music venue in Copenhagen with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "NILU & Friends: Mollono.Bass / NILU / Mousan Corr / Maghoni & Messing" on Fri, 2 Oct 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gigs, with line-ups including Aerocell, Aio, Aja Gulris and Albano Bastonero and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 17 upcoming gigs, with line-ups including Aerocell, Aio, Albano Bastonero and Ana Karla and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | PECCĀVĪ: Alex Stein / Aja Gulris / Skarn / CERJ / LACTIC ACID: DJ Farkas / RÓS / AZADÎ / Deril | AZADÎ, Aja Gulris, Alex Stein, CERJ, Deril, Skarn |
 | Fri, 2 Oct 2026 | NILU & Friends: Mollono.Bass / NILU / Mousan Corr / Maghoni & Messing | Jakob de Wittig, Mollono.Bass, Mousan Corr, NILU |
 | Sat, 3 Oct 2026 | SHAKTU & MEOKO: Cosmina / Josefina Tapia / Ana Karla / Christina Evangelista / YOON | Ana Karla, Christina Evangelista, Cosmina, Josefina Tapia (2), YOON |
 | Fri, 9 Oct 2026 | Unravel: Aio / NAYZ / Safe Spacers / GALATIUS / B. GOODE | Aio, Safe Spacers |
@@ -18,6 +17,7 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gig
 | Fri, 23 Oct 2026 | Xinobi / Bow Miller / Anders HP / Rhythm Vault: Max Finney / Qwenty / Roussakis | Anders HP, Bow Miller, Max Finney, Qwenty, Roussakis, Xinobi |
 | Sat, 24 Oct 2026 | Azzecca / B From E / Nat / Tech The Night: Rareș Gherman / Costyx / Fynutzu | Azzecca, B From E, Fynutzu, Rares Gherman, styx |
 | Fri, 30 Oct 2026 | NECKLESS: HALLOWEEN EDITION: GALATIUS / Thiim / KAMIKAZEM / Bestrawa x FA999 / Ziggy Stardubb | Bestrawa, FA999, KAMIKAZEM, Thiim, Ziggy Stardubb |
+| Sat, 31 Oct 2026 | Culture Box Halloween 2026 | Bongo & Pusk, Denize, MiniMalene (2), Rasmus Lützen, Rexie Lex, Tim Andresen |
 
 ## Address
 

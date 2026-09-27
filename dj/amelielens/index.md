@@ -1,14 +1,13 @@
 # Amelie Lens
 
-Amelie Lens is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Grand Park, Los Angeles on Sat, 26 Sept 2026.
+Amelie Lens is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Uber Eats Music Hall, Berlin on Fri, 2 Oct 2026.
 
-Amelie Lens is a techno and house artist based in Belgium, tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Farrago, Milo Spykers and Adiel. Next up: Grand Park, Los Angeles on Sat 26 Sept.
+Amelie Lens is a techno and house artist based in Belgium, tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Farrago, Milo Spykers and Adiel. Next up: Uber Eats Music Hall, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Grand Park | Los Angeles |
 | Fri, 2 Oct 2026 | Uber Eats Music Hall | Berlin |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 

@@ -1,14 +1,13 @@
 # Call Super
 
-Call Super is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The White Hotel, Manchester on Sat, 26 Sept 2026.
+Call Super is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Call Super is a house and techno artist based in United Kingdom, tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 63 more. Often billed alongside Shanti Celeste, Anz and Objekt. Next up: The White Hotel, Manchester on Sat 26 Sept.
+Call Super is a house and techno artist based in United Kingdom, tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 63 more. Often billed alongside Shanti Celeste, Anz and Objekt. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | The White Hotel | Manchester |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 17 Oct 2026 | TBA - East Williamsburg | New York City |

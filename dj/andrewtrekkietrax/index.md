@@ -1,14 +1,13 @@
 # Andrew (TREKKIE TRAX)
 
-Andrew (TREKKIE TRAX) is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Homage Brewing, Los Angeles on Sat, 26 Sept 2026.
+Andrew (TREKKIE TRAX) is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Andrew (TREKKIE TRAX) is a bass and house artist based in Japan, tracked on soundcheck, with 67 sets logged across Kyoto, Los Angeles, San Francisco/Oakland and Tokyo. Often billed alongside Carpainter, Seimei and Nakamura Minami. Next up: Homage Brewing, Los Angeles on Sat 26 Sept.
+Andrew (TREKKIE TRAX) is a bass and house artist based in Japan, tracked on soundcheck, with 67 sets logged across Kyoto, Los Angeles, San Francisco/Oakland and Tokyo. Often billed alongside Carpainter, Seimei and Nakamura Minami. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Homage Brewing | Los Angeles |
 | Fri, 2 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "1/4 Escuro x Vault Sessions Second Shift" on Sat, 26 Sept 2026.
+Ministerium Club is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Riktus Invites Hard Bock Drauf with DeGuzman, PENELOPE, JOSH YOB" on Thu, 1 Oct 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 5 upcoming gigs, with line-ups including aalice, Anastasiya Ty, ANÍBAL and Client and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, with line-ups including Anastasiya Ty, ANÍBAL, DeGuzman and Djooke and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | 1/4 Escuro x Vault Sessions Second Shift | Client, John Wick, Salbany, aalice |
 | Thu, 1 Oct 2026 | Riktus Invites Hard Bock Drauf with DeGuzman, PENELOPE, JOSH YOB | Anastasiya Ty, DeGuzman, Kafox, Penelope (2) |
 | Sun, 4 Oct 2026 | Riktus presents: GAIVEU All Night Long #2 | GAIVEU, Golpe, La Vera Notte, TASSERY |
 | Fri, 9 Oct 2026 | Ministerium Club // Raresh | Raresh |

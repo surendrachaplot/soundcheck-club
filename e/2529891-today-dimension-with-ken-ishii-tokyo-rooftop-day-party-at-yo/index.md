@@ -1,0 +1,18 @@
+# Today DIMENSION with Ken Ishii — TOKYO ROOFTOP DAY PARTY at Yodo Groove (Yodobashi Ikebukuro)
+
+Today DIMENSION with Ken Ishii — TOKYO ROOFTOP DAY PARTY at Yodo Groove (Yodobashi Ikebukuro) on Sun 27 Sept, Tokyo. 4 artists on the bill: Emilio, Ken Ishii, Rickey Shannon and VIO. Techno. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 27 Sept 2026 |
+| Venue | Yodo Groove (Yodobashi Ikebukuro) |
+| City | Tokyo |
+
+## Line-up
+
+- Emilio
+- Ken Ishii
+- Rickey Shannon
+- VIO (3)
+
+*Source: [soundcheck](https://soundcheck.club/e/2529891-today-dimension-with-ken-ishii-tokyo-rooftop-day-party-at-yo/)*

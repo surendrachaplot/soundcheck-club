@@ -1,14 +1,13 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Karate Club [Day&Night]: Back to School Edition (Free party)" on Sat, 26 Sept 2026.
+Bike Jesus is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "FOLYA: Sandrien, Yan, Feenicks, Dash, CEREAL, LuLu" on Fri, 2 Oct 2026.
 
-Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including 3TB, aláya, Andrea Dare and AVHD and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
+Bike Jesus is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including Andrea Dare, AVHD, Big Lil and CEREAL and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Karate Club [Day&Night]: Back to School Edition (Free party) | 3TB (1), Jemazzz, Misha Jaru, S.Tian, Takenaga, Unjack*, Von Riu, aláya |
 | Fri, 2 Oct 2026 | FOLYA: Sandrien, Yan, Feenicks, Dash, CEREAL, LuLu | CEREAL, Dash (CZ), Feenicks, LULU (1), Sandrien, Yan (CZ) |
 | Fri, 9 Oct 2026 | ✭EERIE COLLECTIVE✭ at Bike Jesus | KRISTIE KARDIO, Kaotic, TAUREAN (2), ZiZi, ishka machina, zazitech |
 | Fri, 9 Oct 2026 | Main Character / Bouncy & Groovy / Revolution Stage | Big Lil, Diva, Katrixia, XENEA LUMRA |
@@ -18,6 +17,7 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, wi
 | Fri, 23 Oct 2026 | LDSB Night vol.3 - ESC (UK), NOCHAV (ESP), Razboi (ESP) | ESC (5), Meldaboi, NOCHAV, Razboi, SMB (1), Silverbo1, Simeone (2), Yachym |
 | Fri, 30 Oct 2026 | glitter.hit meets Transatlantic: Europa + Freestyler + Lux18 + Rama + domizako + TBA | Europa (1), Freestyler (2), Lux18, Rama (2), domizako |
 | Sat, 31 Oct 2026 | ƑƩⱮӾႠӨⱤƩ: Ӈలҝลţల ርลไไĬתּဌ | Mother Menace, SAVBEA, XENEA LUMRA |
+| Wed, 2 Dec 2026 | Fejká | Fejká |
 
 ## Address
 

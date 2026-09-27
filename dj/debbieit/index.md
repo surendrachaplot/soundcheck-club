@@ -1,13 +1,14 @@
 # DEBBIE (IT)
 
-DEBBIE (IT) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Kroņu iela 23B, Riga, Latvia., Riga on Fri, 13 Nov 2026.
+DEBBIE (IT) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Wall Club, Naples on Fri, 16 Oct 2026.
 
-DEBBIE (IT) is a techno and industrial artist based in Italy, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside MARCO GINELLI, Vinka Wydro and Dstm. Next up: TBA - Kroņu iela 23B, Riga, Latvia., Riga on Fri 13 Nov.
+DEBBIE (IT) is a techno and industrial artist based in Italy, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside MARCO GINELLI, Vinka Wydro and Dstm. Next up: The Wall Club, Naples on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | The Wall Club | Naples |
 | Fri, 13 Nov 2026 | TBA - Kroņu iela 23B, Riga, Latvia. | Riga |
 
 ## Recently played

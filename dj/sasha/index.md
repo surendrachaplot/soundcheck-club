@@ -1,14 +1,13 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at BERHTA, Washington DC on Sat, 26 Sept 2026.
+Sasha is a Progressive House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Frontón Bucareli, Mexico City on Fri, 2 Oct 2026.
 
-Sasha is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 47 more. Often billed alongside John Digweed, Franky Wah and Nick Warren. Next up: BERHTA, Washington DC on Sat 26 Sept.
+Sasha is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 47 more. Often billed alongside John Digweed, Franky Wah and Nick Warren. Next up: Frontón Bucareli, Mexico City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | BERHTA | Washington DC |
 | Fri, 2 Oct 2026 | Frontón Bucareli | Mexico City |
 | Fri, 23 Oct 2026 | Pacific Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Het Sieraad | Amsterdam |

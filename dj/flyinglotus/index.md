@@ -1,14 +1,13 @@
 # Flying Lotus
 
-Flying Lotus is a Experimental and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Knockdown Center, New York City on Sat, 26 Sept 2026.
+Flying Lotus is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Ground at Club Space, Miami on Thu, 15 Oct 2026.
 
-Flying Lotus is an experimental and hip-hop artist based in United States of America, tracked on soundcheck, with 14 sets logged across Auckland, Barcelona, Los Angeles and Mexico City and 6 more. Often billed alongside Bonobo, Avalon Emerson and Carrier. Next up: Knockdown Center, New York City on Sat 26 Sept.
+Flying Lotus is an experimental and hip-hop artist based in United States of America, tracked on soundcheck, with 14 sets logged across Auckland, Barcelona, Los Angeles and Mexico City and 6 more. Often billed alongside Bonobo, Avalon Emerson and Carrier. Next up: The Ground at Club Space, Miami on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Knockdown Center | New York City |
 | Thu, 15 Oct 2026 | The Ground at Club Space | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 

@@ -1,14 +1,13 @@
 # DJ Troy
 
-DJ Troy is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at MS Stubnitz, Hamburg on Sat, 26 Sept 2026.
+DJ Troy is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
-DJ Troy is a techno and minimal artist based in Ukraine, tracked on soundcheck, with 15 sets logged across Berlin, Brussels, Bucharest and Hamburg and 3 more. Often billed alongside Nicole., Neue Medecina and Plastik. Next up: MS Stubnitz, Hamburg on Sat 26 Sept.
+DJ Troy is a techno and minimal artist based in Ukraine, tracked on soundcheck, with 15 sets logged across Berlin, Brussels, Bucharest and Hamburg and 3 more. Often billed alongside Nicole., Neue Medecina and Plastik. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | MS Stubnitz | Hamburg |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played

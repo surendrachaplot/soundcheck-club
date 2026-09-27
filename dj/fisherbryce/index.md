@@ -1,14 +1,13 @@
 # Fisher Bryce
 
-Fisher Bryce is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Cuff Complex, Seattle on Sat, 26 Sept 2026.
+Fisher Bryce is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - East Van location , Vancouver on Sat, 3 Oct 2026.
 
-Fisher Bryce is a house and techno artist based in Canada, tracked on soundcheck, with 37 sets logged across Mexico City, Seattle and Vancouver. Often billed alongside ZIGGY ZAYA, educación física and jiggity jeff. Next up: The Cuff Complex, Seattle on Sat 26 Sept.
+Fisher Bryce is a house and techno artist based in Canada, tracked on soundcheck, with 37 sets logged across Mexico City, Seattle and Vancouver. Often billed alongside ZIGGY ZAYA, educación física and jiggity jeff. Next up: TBA - East Van location , Vancouver on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | The Cuff Complex | Seattle |
 | Sat, 3 Oct 2026 | TBA - East Van location  | Vancouver |
 
 ## Recently played

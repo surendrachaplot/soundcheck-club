@@ -1,14 +1,13 @@
 # Innuendo
 
-Innuendo is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - SECRET PLACE, Lyon on Sat, 26 Sept 2026.
+Innuendo is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Piccadilly Central, Manchester on Fri, 2 Oct 2026.
 
-Innuendo is a techno and progressive house artist based in Belgium, tracked on soundcheck, with 12 sets logged across Basel, Berlin, Brussels and Lyon and 2 more. Often billed alongside DJ Rino, Exkursion and Sanctus Libido. Next up: TBA - SECRET PLACE, Lyon on Sat 26 Sept.
+Innuendo is a techno and progressive house artist based in Belgium, tracked on soundcheck, with 12 sets logged across Basel, Berlin, Brussels and Lyon and 2 more. Often billed alongside DJ Rino, Exkursion and Sanctus Libido. Next up: Piccadilly Central, Manchester on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - SECRET PLACE | Lyon |
 | Fri, 2 Oct 2026 | Piccadilly Central | Manchester |
 
 ## Recently played

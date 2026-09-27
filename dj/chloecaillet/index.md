@@ -1,14 +1,13 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Public Works, San Francisco/Oakland on Sat, 26 Sept 2026.
+Chloé Caillet is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fvtvr, Paris on Fri, 2 Oct 2026.
 
-Chloé Caillet is a house and techno artist based in United States of America, tracked on soundcheck, with 239 sets logged across Amsterdam, Athens, Barcelona and Belfast and 50 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Public Works, San Francisco/Oakland on Sat 26 Sept.
+Chloé Caillet is a house and techno artist based in United States of America, tracked on soundcheck, with 239 sets logged across Amsterdam, Athens, Barcelona and Belfast and 50 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Fvtvr, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Public Works | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | Fvtvr | Paris |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | Fabrik | Madrid |

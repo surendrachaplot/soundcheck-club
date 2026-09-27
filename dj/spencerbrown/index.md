@@ -1,14 +1,13 @@
 # Spencer Brown
 
-Spencer Brown is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Reelworks Denver, Denver on Sat, 26 Sept 2026.
+Spencer Brown is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Foro Basement, Mexico City on Fri, 30 Oct 2026.
 
-Spencer Brown is a progressive house and house artist based in United States of America, tracked on soundcheck, with 86 sets logged across Austin, Berlin, Boston and Brighton and 25 more. Often billed alongside Qrion, John Digweed and Jody Wisternoff. Next up: Reelworks Denver, Denver on Sat 26 Sept.
+Spencer Brown is a progressive house and house artist based in United States of America, tracked on soundcheck, with 86 sets logged across Austin, Berlin, Boston and Brighton and 25 more. Often billed alongside Qrion, John Digweed and Jody Wisternoff. Next up: Foro Basement, Mexico City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Reelworks Denver | Denver |
 | Fri, 30 Oct 2026 | Foro Basement | Mexico City |
 | Fri, 30 Oct 2026 | TBA | Mexico City |
 | Fri, 30 Oct 2026 | Foro Basement | Mexico City |

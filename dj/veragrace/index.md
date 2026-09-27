@@ -1,14 +1,13 @@
 # Vera Grace
 
-Vera Grace is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 26 Sept 2026.
+Vera Grace is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at RADION, Amsterdam on Sat, 3 Oct 2026.
 
-Vera Grace is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside SEMMUS, Cynthia Spiering and SNTS. Next up: TBA - Secret Location (Madrid), Madrid on Sat 26 Sept.
+Vera Grace is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside SEMMUS, Cynthia Spiering and SNTS. Next up: RADION, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Secret Location (Madrid) | Madrid |
 | Sat, 3 Oct 2026 | RADION | Amsterdam |
 | Sat, 3 Oct 2026 | RADION | Amsterdam |
 | Sun, 4 Oct 2026 | TBA - Spijkerkade 2 | Amsterdam |

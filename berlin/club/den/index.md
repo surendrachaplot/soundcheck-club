@@ -1,14 +1,13 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "OBSCURA x STAY TOXIC [FREE ENTRY*]" on Sat, 26 Sept 2026.
+ÆDEN is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "ＬＩＬＩＴＨ ✦ 5€ PRE-SALE" on Wed, 30 Sept 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including 4NOUK, YOVA, Acierate and Amed Nheiro and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including 4NOUK, YOVA, Acierate and Amo (IT) and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | OBSCURA x STAY TOXIC [FREE ENTRY*] | Amed Nheiro, Blck-Swan, Dj OmarO, H7 (3), Lisek, Lokier, M21SIX, Pijus, Reita D Russo |
 | Wed, 30 Sept 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE | ANTRO, KEROSENE (ZA), Melchiorr, Quolcat |
 | Thu, 1 Oct 2026 | Complice x Loophole — INTERSTICE (Berlin) | D.E.S Fr, EMIRA, Ian Maur, Iman Janes, KALI (FR), Oktobr, Sicion, Sinesthesia, TEHOTU |
 | Fri, 2 Oct 2026 | ＬＩＬＩＴＨ ✦ | Ayham, Dj Fugitive, Manrick Stapez, Romina Mazzini, Vaccaro |
@@ -18,6 +17,7 @@
 | Fri, 23 Oct 2026 | BPM 3rd Anniversary  | Thielking, sterni (DE) |
 | Sat, 24 Oct 2026 | silikon with Bae Blade, HANAA, ELOISA, Maudux | Bae Blade, Carotin, DJ Gianni, DJ Zugzwang, ELOISA, HANAA, M4RY, Maudux, Vivienna, clubm8, kichererbsenstampf, myzelia |
 | Thu, 29 Oct 2026 | CANCELLED - OBXENE |  |
+| Sat, 31 Oct 2026 | Cuddles Halloween |  |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # Boyfriend Dick
 
-Boyfriend Dick is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Echo Park, Los Angeles on Fri, 2 Oct 2026.
+Boyfriend Dick is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Echo Park, Los Angeles on Fri, 2 Oct 2026.
 
-Boyfriend Dick is a techno and club artist based in United States of America, tracked on soundcheck, with 47 sets logged across Chicago, Detroit, Leipzig and London and 7 more. Often billed alongside Garrison XR, Amino and Luca Miel. Next up: TBA - Echo Park, Los Angeles on Fri 2 Oct.
+Boyfriend Dick is a techno and club artist based in United States of America, tracked on soundcheck, with 48 sets logged across Chicago, Detroit, Leipzig and London and 7 more. Often billed alongside Garrison XR, Amino and Luca Miel. Next up: TBA - Echo Park, Los Angeles on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA - Echo Park | Los Angeles |
+| Sat, 26 Dec 2026 | Olympus Theater | Detroit |
 
 ## Recently played
 

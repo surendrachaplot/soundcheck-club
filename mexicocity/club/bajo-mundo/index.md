@@ -1,14 +1,13 @@
 # Bajo Mundo
 
-Bajo Mundo is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "DI'ANTONIO & FRIENDS" on Sat, 26 Sept 2026.
+Bajo Mundo is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "Di'Antonio & Friends" on Sat, 26 Sept 2026.
 
-Bajo Mundo is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Saltillo 129, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX.
+Bajo Mundo is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Saltillo 129, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | DI'ANTONIO & FRIENDS |  |
 | Sat, 26 Sept 2026 | Di'Antonio & Friends |  |
 
 ## Address

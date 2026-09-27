@@ -1,14 +1,13 @@
 # Exkursion
 
-Exkursion is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - SECRET PLACE, Lyon on Sat, 26 Sept 2026.
+Exkursion is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Kauz, Zurich on Sat, 10 Oct 2026.
 
-Exkursion is a garage and house artist based in Switzerland, tracked on soundcheck, with 23 sets logged across Berlin, Brussels, Lyon and Zurich. Often billed alongside Sanctus Libido, Das Firmament and Bonnie OK. Next up: TBA - SECRET PLACE, Lyon on Sat 26 Sept.
+Exkursion is a garage and house artist based in Switzerland, tracked on soundcheck, with 23 sets logged across Berlin, Brussels, Lyon and Zurich. Often billed alongside Sanctus Libido, Das Firmament and Bonnie OK. Next up: Kauz, Zurich on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - SECRET PLACE | Lyon |
 | Sat, 10 Oct 2026 | Kauz | Zurich |
 
 ## Recently played

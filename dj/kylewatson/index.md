@@ -1,14 +1,13 @@
 # Kyle Watson
 
-Kyle Watson is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Prysm Nightclub, Chicago on Sat, 26 Sept 2026.
+Kyle Watson is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Q Nightclub, Seattle on Fri, 16 Oct 2026.
 
-Kyle Watson is a house and tech house artist based in South Africa, tracked on soundcheck, with 46 sets logged across Amsterdam, Austin, Boston and Brisbane and 13 more. Often billed alongside Walker & Royce, Vnssa and Wax Motif. Next up: Prysm Nightclub, Chicago on Sat 26 Sept.
+Kyle Watson is a house and tech house artist based in South Africa, tracked on soundcheck, with 46 sets logged across Amsterdam, Austin, Boston and Brisbane and 13 more. Often billed alongside Walker & Royce, Vnssa and Wax Motif. Next up: Q Nightclub, Seattle on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Prysm Nightclub | Chicago |
 | Fri, 16 Oct 2026 | Q Nightclub | Seattle |
 | Fri, 30 Oct 2026 | Spin | San Diego |
 | Sat, 12 Dec 2026 | Refuge | New York City |

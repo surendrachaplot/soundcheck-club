@@ -1,15 +1,13 @@
 # Kat Kat Tat
 
-Kat Kat Tat is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Teritorija, Riga on Sat, 26 Sept 2026.
+Kat Kat Tat is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bar v Krymský, Prague on Sat, 31 Oct 2026.
 
-Kat Kat Tat is a techno and house artist based in Germany, tracked on soundcheck, with 74 sets logged across Berlin, Cologne, Nürnberg and Prague and 1 more. Often billed alongside Freya Algiz, Avocado and Eszter. Next up: Teritorija, Riga on Sat 26 Sept.
+Kat Kat Tat is a techno and house artist based in Germany, tracked on soundcheck, with 74 sets logged across Berlin, Cologne, Nürnberg and Prague and 1 more. Often billed alongside Freya Algiz, Avocado and Eszter. Next up: Bar v Krymský, Prague on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Teritorija | Riga |
-| Sat, 26 Sept 2026 | Teritorija | Riga |
 | Sat, 31 Oct 2026 | Bar v Krymský | Prague |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # DJ Plead
 
-DJ Plead is a Techno and Bass artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
+DJ Plead is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Good Room, New York City on Thu, 1 Oct 2026.
 
-DJ Plead is a techno and bass artist based in Australia, tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Basel and Berlin and 37 more. Often billed alongside rRoxymore, Azu Tiwaline and DJ Python. Next up: Ormside Projects, London on Sat 26 Sept.
+DJ Plead is a techno and bass artist based in Australia, tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Basel and Berlin and 37 more. Often billed alongside rRoxymore, Azu Tiwaline and DJ Python. Next up: Good Room, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Ormside Projects | London |
 | Thu, 1 Oct 2026 | Good Room | New York City |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Fri, 2 Oct 2026 | Mundos | Rhode-island |

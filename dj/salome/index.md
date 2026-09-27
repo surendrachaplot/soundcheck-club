@@ -1,14 +1,13 @@
 # Salomé Le Chat
 
-Salomé Le Chat is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Studio Club Malaga, Malaga on Sat, 26 Sept 2026.
+Salomé Le Chat is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Salomé Le Chat is a house and tech house artist based in France, tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Bristol and Brussels and 23 more. Often billed alongside Jamie Jones, Ben Sterling and Marco Carola. Next up: Studio Club Malaga, Malaga on Sat 26 Sept.
+Salomé Le Chat is a house and tech house artist based in France, tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Bristol and Brussels and 23 more. Often billed alongside Jamie Jones, Ben Sterling and Marco Carola. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Studio Club Malaga | Malaga |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 30 Oct 2026 | Floyd | Miami |
 

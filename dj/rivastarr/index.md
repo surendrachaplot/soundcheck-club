@@ -1,14 +1,13 @@
 # Riva Starr
 
-Riva Starr is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at ZeyZey, Miami on Sat, 26 Sept 2026.
+Riva Starr is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
 
-Riva Starr is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Amsterdam, Austin, Bali and Barcelona and 25 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: ZeyZey, Miami on Sat 26 Sept.
+Riva Starr is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Amsterdam, Austin, Bali and Barcelona and 25 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | ZeyZey | Miami |
 | Thu, 22 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 

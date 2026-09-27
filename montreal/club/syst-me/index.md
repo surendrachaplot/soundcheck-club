@@ -1,14 +1,13 @@
 # Système
 
-Système is a music venue in Montreal with 22 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Flush" on Sat, 26 Sept 2026.
+Système is a music venue in Montreal with 21 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Causal Chain: Delian League 'Crush' Release Party" on Sun, 27 Sept 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 22 upcoming gigs, with line-ups including AṢKIM, AADJA, Adam Solomon and Alina (MTL) and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 21 upcoming gigs, with line-ups including AṢKIM, AADJA, Adam Solomon and Alina (MTL) and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Flush | Claire, newfriend, zi! |
 | Sun, 27 Sept 2026 | Causal Chain: Delian League 'Crush' Release Party | Anabasine, laced |
 | Thu, 1 Oct 2026 | SONIC ODYSSEY | G L O W Z I, IAMNOTMYHISTORY |
 | Fri, 2 Oct 2026 | Loose Screws | Dave P, Faux Sommets, Syd Woz |
@@ -18,6 +17,7 @@ Système is a music venue in Montreal listed on soundcheck. 22 upcoming gigs, wi
 | Fri, 9 Oct 2026 | Darker Than Wax x Music Is My Sanctuary | Lexis (Music Is My Sanctuary), Marco Weibel |
 | Sat, 10 Oct 2026 | Exploria | Evita, Flørist, Percwerk |
 | Sun, 11 Oct 2026 | Curls: CUERPOS, Boogaloo Jones & Hanzo Da Bullfrog | Boogaloo Jones, CUERPOS, The Curls Crew |
+| Thu, 15 Oct 2026 | Dark Matter x Shadya's EP x Chez.Kito.Kat Records | D.B.Y., Felix Patry, Shadya, Technique nado |
 
 ## Address
 

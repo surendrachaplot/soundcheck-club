@@ -1,14 +1,13 @@
 # BLOND:ISH
 
-BLOND:ISH is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Pacha New York, New York City on Sat, 26 Sept 2026.
+BLOND:ISH is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Foro Costanera Norte (FCN), Buenos Aires on Sat, 10 Oct 2026.
 
-BLOND:ISH is a house and techno artist based in Canada, tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Boston and 28 more. Often billed alongside Marco Carola, Seth Troxler and Ben Sterling. Next up: Pacha New York, New York City on Sat 26 Sept.
+BLOND:ISH is a house and techno artist based in Canada, tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Boston and 28 more. Often billed alongside Marco Carola, Seth Troxler and Ben Sterling. Next up: Foro Costanera Norte (FCN), Buenos Aires on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Pacha New York | New York City |
 | Sat, 10 Oct 2026 | Foro Costanera Norte (FCN) | Buenos Aires |
 | Fri, 23 Oct 2026 | Westerkerk | Amsterdam |
 

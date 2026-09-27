@@ -1,14 +1,13 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Fuse presents: Polar Inertia (live) & Luigi Tozzi (live)" on Sat, 26 Sept 2026.
+Fuse is a music venue in Brussels with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Fuse presents: The Ghost & Gonno" on Fri, 2 Oct 2026.
 
-Fuse is a music venue in Brussels listed on soundcheck. 11 upcoming gigs, with line-ups including A. Brehme, Altinbas, Ben Klock and Blasha & Allatt and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
+Fuse is a music venue in Brussels listed on soundcheck. 10 upcoming gigs, with line-ups including A. Brehme, Altinbas, Ben Klock and Blasha & Allatt and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Fuse presents: Polar Inertia (live) & Luigi Tozzi (live) | Luigi Tozzi, Polar Inertia, T.A.M.22, Yogg, Zara |
 | Fri, 2 Oct 2026 | Fuse presents: The Ghost & Gonno | Gonno, Nefeli, Penelope (2), The Ghost |
 | Sat, 3 Oct 2026 | Fuse presents: Primal Instinct | CRYME, Chlär, DC Salas, Jennifer Loveless, Kameliia, Phara, Philippa Pacho, Temudo |
 | Fri, 9 Oct 2026 | Fuse presents: Fenrick (all night long) & Riana Holley (all night long) | Fenrick, Riana Holley |
@@ -18,6 +17,7 @@ Fuse is a music venue in Brussels listed on soundcheck. 11 upcoming gigs, with l
 | Fri, 23 Oct 2026 | Fuse presents: Joyhauser (all night long) | Joyhauser |
 | Sat, 31 Oct 2026 | Fuse presents: Silva Bumpa | Catalina, DJ Cosworth, Jhobei, Silva Bumpa |
 | Sat, 7 Nov 2026 | Fuse presents: WSNWG (live all night long) | Fadi Mohem, Ignez, Lady Starlight, Phara, Rødhåd |
+| Sat, 14 Nov 2026 | Fuse presents: 20YRS Klockworks with Ben Klock, DVS1 & Steve Rachmad aka STERAC (house set) | Altinbas, Ben Klock, DVS1, Newa, STERAC, She The DJ, Steve Rachmad, Zouzibabe |
 
 ## Address
 

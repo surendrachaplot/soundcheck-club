@@ -1,14 +1,13 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "JUDY" on Sat, 26 Sept 2026.
+Northern Lights Lounge is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "HOUSE IS HOME: STACEY PULLEN | MISTER JOSHOOA | DRU ALLAN" on Sat, 24 Oct 2026.
 
-Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Dru Allan, LADYMONIX, Mister Joshooa and Rimarkable and 2 more. Browse upcoming dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
+Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 1 upcoming gig, with line-ups including Dru Allan, Mister Joshooa and Stacey Pullen. Browse upcoming dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | JUDY | LADYMONIX, Rimarkable, YASMEENAH (2) |
 | Sat, 24 Oct 2026 | HOUSE IS HOME: STACEY PULLEN / MISTER JOSHOOA / DRU ALLAN | Dru Allan, Mister Joshooa, Stacey Pullen |
 
 ## Address

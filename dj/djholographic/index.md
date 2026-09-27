@@ -1,14 +1,13 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sat, 26 Sept 2026.
+DJ Holographic is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Detroit on Fri, 2 Oct 2026.
 
-DJ Holographic is a house and techno artist based in United States of America, tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sat 26 Sept.
+DJ Holographic is a house and techno artist based in United States of America, tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: TBA, Detroit on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - The Jack, 74 S Jackson St, Seattle, WA 98104 | Seattle |
 | Fri, 2 Oct 2026 | TBA | Detroit |
 | Sat, 3 Oct 2026 | TBA - Shipyards Waterfront | Vancouver |
 | Fri, 9 Oct 2026 | Necto | Detroit |

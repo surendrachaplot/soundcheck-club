@@ -1,14 +1,13 @@
 # Gravagerz
 
-Gravagerz is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Culture, Washington DC on Sat, 26 Sept 2026.
+Gravagerz is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
 
-Gravagerz is a house and garage artist based in Italy, tracked on soundcheck, with 11 sets logged across Amsterdam, Boston, Copenhagen and London and 7 more. Often billed alongside James Hype (UK), Joshwa and TroyBoi. Next up: Culture, Washington DC on Sat 26 Sept.
+Gravagerz is a house and garage artist based in Italy, tracked on soundcheck, with 11 sets logged across Amsterdam, Boston, Copenhagen and London and 7 more. Often billed alongside James Hype (UK), Joshwa and TroyBoi. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Culture | Washington DC |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Fri, 6 Nov 2026 | The Night Cat | Melbourne |
 | Sat, 21 Nov 2026 | Seadeck | Sydney |

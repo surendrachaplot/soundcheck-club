@@ -1,14 +1,13 @@
 # Aaron Paar
 
-Aaron Paar is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Zebulon, Los Angeles on Sat, 26 Sept 2026.
+Aaron Paar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Airliner, Los Angeles on Sat, 10 Oct 2026.
 
-Aaron Paar is a house and deep house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Los Angeles, New York City, San Diego and Washington DC. Often billed alongside SEEPS, Chloëdees and Juliet Mendoza. Next up: Zebulon, Los Angeles on Sat 26 Sept.
+Aaron Paar is a house and deep house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Los Angeles, New York City, San Diego and Washington DC. Often billed alongside SEEPS, Chloëdees and Juliet Mendoza. Next up: The Airliner, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Zebulon | Los Angeles |
 | Sat, 10 Oct 2026 | The Airliner | Los Angeles |
 
 ## Recently played

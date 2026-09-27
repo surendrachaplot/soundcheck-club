@@ -1,14 +1,13 @@
 # R3hab
 
-R3hab is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at New City Gas, Montreal on Sat, 26 Sept 2026.
+R3hab is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at DRUMSHEDS, London on Fri, 9 Oct 2026.
 
-R3hab is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Bangkok, Boston, Cologne and Gdansk and 8 more. Often billed alongside Afrojack, Walker & Royce and Alesso. Next up: New City Gas, Montreal on Sat 26 Sept.
+R3hab is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Bangkok, Boston, Cologne and Gdansk and 8 more. Often billed alongside Afrojack, Walker & Royce and Alesso. Next up: DRUMSHEDS, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | New City Gas | Montreal |
 | Fri, 9 Oct 2026 | DRUMSHEDS | London |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 | Sat, 13 Feb 2027 | Ergo Arena | Gdansk |

@@ -1,14 +1,13 @@
 # Massano
 
-Massano is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Coda, Toronto on Sat, 26 Sept 2026.
+Massano is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Poolen, Copenhagen on Fri, 2 Oct 2026.
 
-Massano is a techno and house artist based in United Kingdom, tracked on soundcheck, with 163 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Coda, Toronto on Sat 26 Sept.
+Massano is a techno and house artist based in United Kingdom, tracked on soundcheck, with 163 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Poolen, Copenhagen on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Coda | Toronto |
 | Fri, 2 Oct 2026 | Poolen | Copenhagen |
 | Sat, 3 Oct 2026 | The Dome | Liverpool |
 | Sat, 17 Oct 2026 | Luz De Gas | Barcelona |

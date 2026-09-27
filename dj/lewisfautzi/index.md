@@ -1,14 +1,13 @@
 # Lewis Fautzi
 
-Lewis Fautzi is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Tresor / Globus, Berlin on Sat, 26 Sept 2026.
+Lewis Fautzi is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
-Lewis Fautzi is a techno and acid artist based in Portugal, tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Tresor / Globus, Berlin on Sat 26 Sept.
+Lewis Fautzi is a techno and acid artist based in Portugal, tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Tresor / Globus | Berlin |
 | Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sat, 10 Oct 2026 | TBA - Warehouse | Toronto |
 | Sat, 24 Oct 2026 | Ehrenfeld XL | Cologne |

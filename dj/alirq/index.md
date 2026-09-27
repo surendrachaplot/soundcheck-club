@@ -1,14 +1,13 @@
 # Ali RQ
 
-Ali RQ is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - 793 Dundas St W, Toronto on Sat, 26 Sept 2026.
+Ali RQ is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at MoMA PS1, New York City on Thu, 22 Oct 2026.
 
-Ali RQ is a club and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, London and Los Angeles and 7 more. Often billed alongside 10cust, Cannelle and Frost Children. Next up: TBA - 793 Dundas St W, Toronto on Sat 26 Sept.
+Ali RQ is a club and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, London and Los Angeles and 7 more. Often billed alongside 10cust, Cannelle and Frost Children. Next up: MoMA PS1, New York City on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - 793 Dundas St W | Toronto |
 | Thu, 22 Oct 2026 | MoMA PS1 | New York City |
 | Sat, 31 Oct 2026 | Elsewhere | New York City |
 | Thu, 19 Nov 2026 | Shrine Auditorium and Expo Hall | Los Angeles |

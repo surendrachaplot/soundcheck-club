@@ -1,14 +1,13 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin on Sat, 26 Sept 2026.
+Philippa Pacho is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fuse, Brussels on Sat, 3 Oct 2026.
 
-Philippa Pacho is a techno and house artist based in Sweden, tracked on soundcheck, with 228 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 58 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin on Sat 26 Sept.
+Philippa Pacho is a techno and house artist based in Sweden, tracked on soundcheck, with 228 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 58 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Fuse, Brussels on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín | Medellin |
 | Sat, 3 Oct 2026 | Fuse | Brussels |
 | Sat, 10 Oct 2026 | Liquid Club | Malta |
 | Sun, 11 Oct 2026 | Razzmatazz | Barcelona |
@@ -20,6 +19,7 @@ Philippa Pacho is a techno and house artist based in Sweden, tracked on soundche
 | Sat, 21 Nov 2026 | VENT | Tokyo |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 19 Dec 2026 | Soul SKG | Thessaloniki |
+| Mon, 28 Dec 2026 | Sub Club | Glasgow |
 
 ## Recently played
 

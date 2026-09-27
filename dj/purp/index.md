@@ -1,14 +1,13 @@
 # purp
 
-purp is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Market Hotel, New York City on Sat, 26 Sept 2026.
+purp is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at OIL Club, Shenzhen on Wed, 30 Sept 2026.
 
-purp is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 87 sets logged across Amsterdam, Brussels, Los Angeles and Miami and 5 more. Often billed alongside Bodegaparty, jo_sway and JuanDeOne. Next up: Market Hotel, New York City on Sat 26 Sept.
+purp is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 87 sets logged across Amsterdam, Brussels, Los Angeles and Miami and 5 more. Often billed alongside Bodegaparty, jo_sway and JuanDeOne. Next up: OIL Club, Shenzhen on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Market Hotel | New York City |
 | Wed, 30 Sept 2026 | OIL Club | Shenzhen |
 
 ## Recently played

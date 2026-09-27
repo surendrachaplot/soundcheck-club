@@ -1,14 +1,13 @@
 # Kenjiro
 
-Kenjiro is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Tangent Gallery, Detroit on Fri, 25 Sept 2026.
+Kenjiro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
 
-Kenjiro is a house and techno artist based in United States of America, tracked on soundcheck, with 196 sets logged across Chicago, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Shigeto, Charles Trees and Tammy Lakkis. Next up: Tangent Gallery, Detroit on Fri 25 Sept.
+Kenjiro is a house and techno artist based in United States of America, tracked on soundcheck, with 196 sets logged across Chicago, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Shigeto, Charles Trees and Tammy Lakkis. Next up: Tangent Gallery, Detroit on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Tangent Gallery | Detroit |
 | Sat, 3 Oct 2026 | Tangent Gallery | Detroit |
 | Sun, 1 Nov 2026 | Paris Bar | Detroit |
 

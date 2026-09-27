@@ -1,14 +1,13 @@
 # Simone de Kunovich
 
-Simone de Kunovich is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Club Guesthouse, Bucharest on Sat, 26 Sept 2026.
+Simone de Kunovich is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Santa Maria della Pietà, Rome on Sat, 3 Oct 2026.
 
-Simone de Kunovich is a house and techno artist based in Italy, tracked on soundcheck, with 153 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 30 more. Often billed alongside PARAMIDA, Dante (H501) and Pascal Moscheni. Next up: Club Guesthouse, Bucharest on Sat 26 Sept.
+Simone de Kunovich is a house and techno artist based in Italy, tracked on soundcheck, with 153 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 30 more. Often billed alongside PARAMIDA, Dante (H501) and Pascal Moscheni. Next up: TBA - Santa Maria della Pietà, Rome on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Club Guesthouse | Bucharest |
 | Sat, 3 Oct 2026 | TBA - Santa Maria della Pietà | Rome |
 | Sat, 3 Oct 2026 | Forte Antenne | Rome |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |

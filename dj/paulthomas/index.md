@@ -1,14 +1,13 @@
 # Paul Thomas
 
-Paul Thomas is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Black Box, Denver on Sat, 26 Sept 2026.
+Paul Thomas is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Steelyard Kelham, Sheffield on Sat, 12 Jun 2027.
 
-Paul Thomas is a progressive house and trance artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Birmingham, Buenos Aires and Chicago and 9 more. Often billed alongside Aly & Fila, Alex O'Rion and John O'Callaghan. Next up: The Black Box, Denver on Sat 26 Sept.
+Paul Thomas is a progressive house and trance artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Birmingham, Buenos Aires and Chicago and 9 more. Often billed alongside Aly & Fila, Alex O'Rion and John O'Callaghan. Next up: Steelyard Kelham, Sheffield on Sat 12 Jun.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | The Black Box | Denver |
 | Sat, 12 Jun 2027 | Steelyard Kelham | Sheffield |
 
 ## Recently played

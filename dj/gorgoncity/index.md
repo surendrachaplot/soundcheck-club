@@ -1,14 +1,13 @@
 # Gorgon City
 
-Gorgon City is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Echostage, Washington DC on Sat, 26 Sept 2026.
+Gorgon City is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at New City Gas, Montreal on Sun, 11 Oct 2026.
 
-Gorgon City is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Danny Howard, Sonny Fodera and Azzecca. Next up: Echostage, Washington DC on Sat 26 Sept.
+Gorgon City is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Danny Howard, Sonny Fodera and Azzecca. Next up: New City Gas, Montreal on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Echostage | Washington DC |
 | Sun, 11 Oct 2026 | New City Gas | Montreal |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 28 Nov 2026 | Alexandra Palace | London |

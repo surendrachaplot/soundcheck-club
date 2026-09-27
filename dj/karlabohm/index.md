@@ -1,14 +1,13 @@
 # Karla Böhm
 
-Karla Böhm is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 26 Sept 2026.
+Karla Böhm is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 10 Oct 2026.
 
-Karla Böhm is a house and techno artist based in Belgium, tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Dana Kuehr, Islas and Camiflage. Next up: TBA - Secret Location, Berlin on Sat 26 Sept.
+Karla Böhm is a house and techno artist based in Belgium, tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Dana Kuehr, Islas and Camiflage. Next up: 303 Audiophile Bar, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Secret Location | Berlin |
 | Sat, 10 Oct 2026 | 303 Audiophile Bar | Barcelona |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 

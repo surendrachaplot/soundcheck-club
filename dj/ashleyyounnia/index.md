@@ -1,6 +1,6 @@
 # Ashley Younniä
 
-Ashley Younniä is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Palomino Bar, Los Angeles on Fri, 25 Sept 2026.
+Ashley Younniä is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Palomino Bar, Los Angeles on Fri, 25 Sept 2026.
 
 Ashley Younniä is a house and deep house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Los Angeles, Mexico City, New York City and San Francisco/Oakland and 1 more. Often billed alongside Sevyn, Shaun Ross and Colored Craig. Next up: Palomino Bar, Los Angeles on Fri 25 Sept.
 
@@ -9,7 +9,6 @@ Ashley Younniä is a house and deep house artist based in United States of Ameri
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Palomino Bar | Los Angeles |
-| Sat, 26 Sept 2026 | Zebulon | Los Angeles |
 | Fri, 2 Oct 2026 | TBA | New York City |
 
 ## Recently played

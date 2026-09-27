@@ -1,14 +1,13 @@
 # Ramsey Neville
 
-Ramsey Neville is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Chicago on Sat, 26 Sept 2026.
+Ramsey Neville is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Melkweg, Amsterdam on Tue, 13 Oct 2026.
 
-Ramsey Neville is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Boston and Chicago and 6 more. Often billed alongside Michelle Kay, Junkfile and Adrian Hex. Next up: TBA, Chicago on Sat 26 Sept.
+Ramsey Neville is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Boston and Chicago and 6 more. Often billed alongside Michelle Kay, Junkfile and Adrian Hex. Next up: Melkweg, Amsterdam on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA | Chicago |
 | Tue, 13 Oct 2026 | Melkweg | Amsterdam |
 | Thu, 22 Oct 2026 | nachbar | Amsterdam |
 

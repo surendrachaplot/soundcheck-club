@@ -1,14 +1,13 @@
 # Paragon
 
-Paragon is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Club Stars: UNiiQU3, Miley Serious, Arielle Lana b2b Syd + Shyboi, DJ Goth Girl" on Sat, 26 Sept 2026.
+Paragon is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "The Hood Needs House: Dantiez Saunderson b2b Pinto, Kweku Saunderson, TMPR, DJ RaQuel & More" on Fri, 2 Oct 2026.
 
-Paragon is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including MORENXXX, Amarji King, Arielle Lana and Ashley Venom and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
+Paragon is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including MORENXXX, Amarji King, Ashley Venom and BLAIZE and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Club Stars: UNiiQU3, Miley Serious, Arielle Lana b2b Syd + Shyboi, DJ Goth Girl | Arielle Lana, Miley Serious, Shyboi, Syd (US), UNiiQU3 |
 | Fri, 2 Oct 2026 | The Hood Needs House: Dantiez Saunderson b2b Pinto, Kweku Saunderson, TMPR, DJ RaQuel & More | Bodegaparty, DJ RaQuel, Dantiez, Kweku Saunderson, Naija Couture, Pinto (US) |
 | Sat, 3 Oct 2026 | Club Stars: Detroit In Effect, DJ Slugo, Amarji King + Sirens(MORENXXX b2b Loka) | Amarji King, DJ Slugo, Detroit In Effect, LOKA (US), MORENXXX |
 | Thu, 8 Oct 2026 | Doss & Friends | Doss |
@@ -18,6 +17,7 @@ Paragon is a music venue in New York City listed on soundcheck. 16 upcoming gigs
 | Fri, 16 Oct 2026 | Phantasma: Joey Beltram, Volvox, Light Asylum(DJ Set) + Lenny Dee, FortifiedStructures | FortifiedStructures, Joey Beltram, Lenny Dee, Light Asylum, Volvox |
 | Sat, 17 Oct 2026 | HAUSU_OF_BUBBLE T: COSPL_A_ZIA 2026 | LANSUH, Ly Tran |
 | Fri, 23 Oct 2026 | Paradiso: Ultra Naté, Kilopatrah Jones, Karim Olen Ash + Saia, RATONC1T0 | Karim Olen Ash, Kilopatrah Jones, RATONC1T0, Saia, Ultra Naté |
+| Sat, 24 Oct 2026 | Diamond CLUB: Safety Trance, Manuka Honey, Caín Lima + WTCHCRFT | Caín Lima, Manuka Honey, Safety Trance, Simzii, WTCHCRFT |
 
 ## Address
 

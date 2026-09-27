@@ -1,14 +1,13 @@
 # Nesi
 
-Nesi is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Pérola Negra Club, Porto on Sat, 26 Sept 2026.
+Nesi is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Noxe Barcelona, Barcelona on Thu, 1 Oct 2026.
 
-Nesi is a house and tech house artist based in Spain, tracked on soundcheck, with 241 sets logged across Barcelona, Berlin, Madrid and Munich and 2 more. Often billed alongside Piem, Alice Youngling and Alex Silva. Next up: Pérola Negra Club, Porto on Sat 26 Sept.
+Nesi is a house and tech house artist based in Spain, tracked on soundcheck, with 241 sets logged across Barcelona, Berlin, Madrid and Munich and 2 more. Often billed alongside Piem, Alice Youngling and Alex Silva. Next up: Noxe Barcelona, Barcelona on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Pérola Negra Club | Porto |
 | Thu, 1 Oct 2026 | Noxe Barcelona | Barcelona |
 | Fri, 2 Oct 2026 | Bridge 48 | Barcelona |
 | Thu, 8 Oct 2026 | Noxe Barcelona | Barcelona |

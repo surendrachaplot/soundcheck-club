@@ -1,6 +1,6 @@
 # DJ SWISHA
 
-DJ SWISHA is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+DJ SWISHA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 DJ SWISHA is a techno and house artist based in United States of America, tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Auckland and Austin and 46 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -9,7 +9,6 @@ DJ SWISHA is a techno and house artist based in United States of America, tracke
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
-| Sat, 26 Sept 2026 | Dead Letter No. 9 | New York City |
 | Fri, 2 Oct 2026 | Open Ground | Wuppertal |
 | Sat, 3 Oct 2026 | Rex Club | Paris |
 | Fri, 9 Oct 2026 | Ampere | Antwerp |
@@ -20,6 +19,7 @@ DJ SWISHA is a techno and house artist based in United States of America, tracke
 | Fri, 23 Oct 2026 | Hidden | Manchester |
 | Sat, 31 Oct 2026 | Paragon | New York City |
 | Fri, 13 Nov 2026 | TBA | Vancouver |
+| Sat, 14 Nov 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 
 ## Recently played
 

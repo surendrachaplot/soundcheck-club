@@ -1,14 +1,13 @@
 # Takenaga
 
-Takenaga is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bike Jesus, Prague on Sat, 26 Sept 2026.
+Takenaga is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 2 Oct 2026.
 
-Takenaga is a techno and house artist based in Mexico, tracked on soundcheck, with 22 sets logged across Lisbon and Prague. Often billed alongside Ella Pavel, Alfred Czital and DJ Bubbles. Next up: Bike Jesus, Prague on Sat 26 Sept.
+Takenaga is a techno and house artist based in Mexico, tracked on soundcheck, with 22 sets logged across Lisbon and Prague. Often billed alongside Ella Pavel, Alfred Czital and DJ Bubbles. Next up: Ankali & Planeta Za, Prague on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Bike Jesus | Prague |
 | Fri, 2 Oct 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Bambii
 
-Bambii is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Bambii is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Bambii is a techno and house artist based in Canada, tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Young Teesh, Nino Brown and Nia Archives. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -9,7 +9,6 @@ Bambii is a techno and house artist based in Canada, tracked on soundcheck, with
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
-| Sat, 26 Sept 2026 | La Station - Gare des Mines | Paris |
 | Sat, 17 Oct 2026 | Ingram Plaza | San Diego |
 | Wed, 21 Oct 2026 | Radio Radio | Amsterdam |
 | Fri, 23 Oct 2026 | Parallel | Amsterdam |

@@ -1,14 +1,13 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "OVERDUE with Fanndemm, Mercedes, nylon, 2wosum & Ao" on Sat, 26 Sept 2026.
+Bambi's is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Project Nowhere 2026: HYSTERIA + Alan Harman + DJ CRAIGSLIST + MR. MATTHEWS" on Thu, 1 Oct 2026.
 
-Bambi's is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including Alan Harman, Amedeo (CA), Aoto and DINO and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
+Bambi's is a music venue in Toronto listed on soundcheck. 6 upcoming gigs, with line-ups including Alan Harman, Amedeo (CA), DINO and DJ Frog and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | OVERDUE with Fanndemm, Mercedes, nylon, 2wosum & Ao | Aoto, Fanndemm, nylon |
 | Thu, 1 Oct 2026 | Project Nowhere 2026: HYSTERIA + Alan Harman + DJ CRAIGSLIST + MR. MATTHEWS | Alan Harman |
 | Fri, 2 Oct 2026 | Project Nowhere 2026: A.V. MARIA (DJ) + wetdogg + ERICA | wetdogg |
 | Sat, 3 Oct 2026 | Project Nowhere: Sweater On Polo + Rabzi (DJ) + R-ODERICK (DJ) | R-ODERICK, Rabzi, Sweater On Polo |

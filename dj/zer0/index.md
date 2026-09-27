@@ -1,14 +1,13 @@
 # Zerø
 
-Zerø is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 26 Sept 2026.
+Zerø is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at E1, London on Sat, 21 Nov 2026.
 
-Zerø is a house and techno artist based in Italy, tracked on soundcheck, with 77 sets logged across London, Naples, Rome and Tokyo and 1 more. Often billed alongside Fabrizio Sala, Giorgio Gigli and 000vda. Next up: Q35 WAREHOUSE, Turin on Sat 26 Sept.
+Zerø is a house and techno artist based in Italy, tracked on soundcheck, with 77 sets logged across London, Naples, Rome and Tokyo and 1 more. Often billed alongside Fabrizio Sala, Giorgio Gigli and 000vda. Next up: E1, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Q35 WAREHOUSE | Turin |
 | Sat, 21 Nov 2026 | E1 | London |
 
 ## Recently played

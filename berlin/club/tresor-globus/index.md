@@ -1,14 +1,13 @@
 # Tresor / Globus
 
-Tresor / Globus is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Tresor Klubnacht" on Sat, 26 Sept 2026.
+Tresor / Globus is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "◥◣SINGULARITY◥◣" on Mon, 28 Sept 2026.
 
-Tresor / Globus is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including Adam X, Afra, AgainstMe and Akua and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
+Tresor / Globus is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including Adam X, Afra, AgainstMe and Akua and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Tresor Klubnacht | DJ Pipe, Eric Cloutier, Huerta, Karina Schneider, Kerrie, Lewis Fautzi, Mareena |
 | Mon, 28 Sept 2026 | ◥◣SINGULARITY◥◣ | BLACK ANTHEM RESTORE, Hyperaktivist, Punktmidi, lisa tba |
 | Wed, 30 Sept 2026 | Tresor New Faces hosted by Tresor | Auryn, INDACID, MIHEMI, Miss Italia, PAREKA |
 | Fri, 2 Oct 2026 | T35: Tresor Records Anniversary DAY ONE | Briain, Dreimal T, Function, MAEDON, NVST, Nadia Struiwigh, STERAC, The Burrell Connection, VCO, quest?onmarq |
@@ -18,6 +17,7 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 23 upcoming gig
 | Wed, 7 Oct 2026 | Tresor New Faces hosted by In Balance | Carl Raban, Masst, SXCL, Schicktanz, Younes Jamil |
 | Fri, 9 Oct 2026 | Tresor meets ọ́kụ́ | DJ LOUI FROM JUPITER4, Fiyahdred, Jarreau Vandal, Jonas Xenon, Juba, Lindsey Herbert, Marina George, Mython, Ø [Phase] |
 | Sat, 10 Oct 2026 | Tresor Klubnacht | Border One, Jacob Meehan, Paula Koski, Reka Zalan, Shira Kela, Skudge, Yonti |
+| Mon, 12 Oct 2026 | ◥◣SINGULARITY◥◣ | LUISELLE, Lars Huismann, Lucia Lu, ZAKARE |
 
 ## Address
 

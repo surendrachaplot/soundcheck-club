@@ -1,14 +1,13 @@
 # Hasfeldt
 
-Hasfeldt is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The M1 and M2 Lines on the Copenhagen Metro, Copenhagen on Sun, 27 Sept 2026.
+Hasfeldt is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Raleigh Chapel, London on Thu, 15 Oct 2026.
 
-Hasfeldt is an experimental and ambient artist based in Denmark, tracked on soundcheck, with 20 sets logged across Berlin, Copenhagen, Lisbon and London and 3 more. Often billed alongside Ryong, Franarchy and Alto Aria. Next up: The M1 and M2 Lines on the Copenhagen Metro, Copenhagen on Sun 27 Sept.
+Hasfeldt is an experimental and ambient artist based in Denmark, tracked on soundcheck, with 20 sets logged across Berlin, Copenhagen, Lisbon and London and 3 more. Often billed alongside Ryong, Franarchy and Alto Aria. Next up: Raleigh Chapel, London on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | The M1 and M2 Lines on the Copenhagen Metro | Copenhagen |
 | Thu, 15 Oct 2026 | Raleigh Chapel | London |
 | Fri, 16 Oct 2026 | Impiety Hour | Manchester |
 

@@ -1,14 +1,14 @@
 # Rian Wood
 
-Rian Wood is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Helios37, Cologne on Sat, 26 Sept 2026.
+Rian Wood is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Wall Club, Naples on Fri, 16 Oct 2026.
 
-Rian Wood is a techno and industrial artist based in Italy, tracked on soundcheck, with 69 sets logged across Barcelona, Berlin, Brussels and Chicago and 23 more. Often billed alongside 999999999, cassandrah and Rispoli Benito. Next up: Helios37, Cologne on Sat 26 Sept.
+Rian Wood is a techno and industrial artist based in Italy, tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Brussels and Chicago and 23 more. Often billed alongside 999999999, cassandrah and Rispoli Benito. Next up: The Wall Club, Naples on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Helios37 | Cologne |
+| Fri, 16 Oct 2026 | The Wall Club | Naples |
 
 ## Recently played
 

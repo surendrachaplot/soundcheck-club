@@ -1,14 +1,13 @@
 # Colored Craig
 
-Colored Craig is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sat, 26 Sept 2026.
+Colored Craig is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at public records, New York City on Sat, 10 Oct 2026.
 
-Colored Craig is a house and techno artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 12 more. Often billed alongside Kilopatrah Jones, Sevyn and Ashley Younniä. Next up: TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sat 26 Sept.
+Colored Craig is a house and techno artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 12 more. Often billed alongside Kilopatrah Jones, Sevyn and Ashley Younniä. Next up: public records, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - The Jack, 74 S Jackson St, Seattle, WA 98104 | Seattle |
 | Sat, 10 Oct 2026 | public records | New York City |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Marie Vaunt
 
-Marie Vaunt is a Techno and Acid artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Concourse Project, Austin on Sat, 26 Sept 2026.
+Marie Vaunt is a Techno and Acid artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
 
-Marie Vaunt is a techno and acid artist based in United States of America, tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Auckland and Austin and 38 more. Often billed alongside Space 92, Lino Fuso and Maddix. Next up: The Concourse Project, Austin on Sat 26 Sept.
+Marie Vaunt is a techno and acid artist based in United States of America, tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Auckland and Austin and 38 more. Often billed alongside Space 92, Lino Fuso and Maddix. Next up: TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | The Concourse Project | Austin |
 | Fri, 2 Oct 2026 | TBA - Kai Tak Cruise Terminal Waiting Hall A | Hong Kong |
 | Sat, 24 Oct 2026 | Halle Tony Garnier | Lyon |
 | Sun, 25 Oct 2026 | John Doe | Amsterdam |

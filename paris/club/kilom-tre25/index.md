@@ -1,14 +1,13 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "TIMIT: HAAi, Josh Caffé, Clarisa Kimskii, TEDESCO" on Sat, 26 Sept 2026.
+Kilomètre25 is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "GODDESS RAVE: Urumi, A5KM, Esilise, PAULINE D7 & NOIZA" on Fri, 2 Oct 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with line-ups including NYRA (DE), AREA ØNE, ASLO and Avenir and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including NYRA (DE), AREA ØNE, ASLO and Avenir and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TIMIT: HAAi, Josh Caffé, Clarisa Kimskii, TEDESCO | Clarisa Kimskii, HAAi, Josh Caffé, TEDESCO |
 | Fri, 2 Oct 2026 | GODDESS RAVE: Urumi, A5KM, Esilise, PAULINE D7 & NOIZA | Esilise, NOIZA, Urumi |
 | Sat, 3 Oct 2026 | 23:59: EARGASM GOD, DBBD, Paralich, AREA ØNE | AREA ØNE, DBBD, EARGASM GOD, Paralich |
 | Sat, 3 Oct 2026 | 23:59 - AREA ØNE, EARGASM GOD, DBBD, Paralich, DJ RATZ, BORDER SISTERS | AREA ØNE, DBBD, EARGASM GOD, Paralich |
@@ -18,6 +17,7 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 11 upcoming gigs, w
 | Sat, 17 Oct 2026 | MIND: ASLØ, DAISY, FJUSHA, TOM CARROLL, NYCO, DJ RATZ | ASLO, Avenir (2), DAISY, FJUSHA, NYCO (NL) |
 | Fri, 23 Oct 2026 | FIGHT CLUB: snoritz, GIO, DVAID, KHØNG, Eva Vrijdag | DVAID, Eva Vrijdag, GIØ (1), snoritz |
 | Sat, 24 Oct 2026 | ACID KISS: DJ Pierre, Miss Djax, DR RUBINSTEIN | DJ Jee, DJ Pierre, Miss Djax, Sarah Sommers |
+| Fri, 30 Oct 2026 | HUSH: 3LEESA, IOSIO, K0:LAB, REVEX, THISO, TOXIMAMI | IOSIO, THISO, TOXIMAMI |
 
 ## Address
 
