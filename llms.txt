@@ -163,14 +163,14 @@ Updated: 2026-09-27
 - [Culture Cafe (Bangkok)](https://soundcheck.club/bangkok/club/culture-cafe/) — [markdown](https://soundcheck.club/bangkok/club/culture-cafe/index.md)
 - [Bossa Nova Civic Club (New York City)](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/) — [markdown](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/index.md)
 - [Savaya Bali (Bali)](https://soundcheck.club/bali/club/savaya-bali/) — [markdown](https://soundcheck.club/bali/club/savaya-bali/index.md)
+- [Nowadays (New York City)](https://soundcheck.club/newyorkcity/club/nowadays/) — [markdown](https://soundcheck.club/newyorkcity/club/nowadays/index.md)
 - [Ritter Butzke (Berlin)](https://soundcheck.club/berlin/club/ritter-butzke/) — [markdown](https://soundcheck.club/berlin/club/ritter-butzke/index.md)
 - [Stage and Radio (Manchester)](https://soundcheck.club/manchester/club/stage-and-radio/) — [markdown](https://soundcheck.club/manchester/club/stage-and-radio/index.md)
 - [Substation (Seattle)](https://soundcheck.club/seattle/club/substation/) — [markdown](https://soundcheck.club/seattle/club/substation/index.md)
-- [Nowadays (New York City)](https://soundcheck.club/newyorkcity/club/nowadays/) — [markdown](https://soundcheck.club/newyorkcity/club/nowadays/index.md)
 - [The Redwood Bar And Grill (Los Angeles)](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/) — [markdown](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/index.md)
 - [XOYO (London)](https://soundcheck.club/london/club/xoyo/) — [markdown](https://soundcheck.club/london/club/xoyo/index.md)
-- [La Cheetah Club (Glasgow)](https://soundcheck.club/glasgow/club/la-cheetah-club/) — [markdown](https://soundcheck.club/glasgow/club/la-cheetah-club/index.md)
 - [The Concourse Project (Austin)](https://soundcheck.club/austin/club/the-concourse-project/) — [markdown](https://soundcheck.club/austin/club/the-concourse-project/index.md)
+- [La Cheetah Club (Glasgow)](https://soundcheck.club/glasgow/club/la-cheetah-club/) — [markdown](https://soundcheck.club/glasgow/club/la-cheetah-club/index.md)
 - [Shelter Amsterdam (Amsterdam)](https://soundcheck.club/amsterdam/club/shelter-amsterdam/) — [markdown](https://soundcheck.club/amsterdam/club/shelter-amsterdam/index.md)
 
 ## Machine access

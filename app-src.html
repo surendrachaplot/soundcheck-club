@@ -4883,7 +4883,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790548605120">
+<meta name="sc-build" content="1790549331665">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -7123,7 +7123,7 @@
       if(ios) href='https://maps.apple.com/?q='+q+'&ll='+lat+','+lng;
       else if(/Android/i.test(ua)) href='geo:'+lat+','+lng+'?q='+lat+','+lng+'('+q+')';
       else { href='https://www.openstreetmap.org/?mlat='+lat+'&mlon='+lng+'#map=17/'+lat+'/'+lng; blank=' target="_blank" rel="noopener"'; }
-      return '<a class="fp-ev-dir"'+blank+' href="'+esc(href)+'">Directions →</a>';
+      return '<a class="fp-ev-dir"'+blank+' href="'+esc(href)+'">Directions ↗</a>';
     }
     function promotersHref(city){ return SC_BASE+encodeURIComponent(city||currentCity||'london')+'/promoters/'; }
     // 1) Real <a class="nav"> links: on a MODIFIED click, stop the SPA click listeners
@@ -12555,7 +12555,7 @@
                 var rest=ps.length>3?(' <span class="pr-rest">+ '+(ps.length-3)+' more</span>'):'';
                 return '<div class="fp-ev-by">Event by '+shown+rest+'</div>';
               })()+
-              (isPast?'':'<a class="fp-ev-tickets" href="'+ticketUrl+'" target="_blank" rel="noopener">Get tickets here →</a>')+
+              (isPast?'':'<a class="fp-ev-tickets" href="'+ticketUrl+'" target="_blank" rel="noopener">Get tickets ↗</a>')+
 
             '</div>'+
           '</div>'+
