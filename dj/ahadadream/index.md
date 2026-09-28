@@ -1,14 +1,13 @@
 # Ahadadream
 
-Ahadadream is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Ahadadream is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-Ahadadream is a house and techno artist based in United Kingdom, tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 40 more. Often billed alongside SHERELLE, salute and Interplanetary Criminal. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
+Ahadadream is a house and techno artist based in United Kingdom, tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 40 more. Often billed alongside SHERELLE, salute and Interplanetary Criminal. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Sun, 27 Sept 2026 | Audio SF | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | Club Vinyl | Denver |

@@ -1,14 +1,13 @@
 # MCMLXXXV
 
-MCMLXXXV is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Foundry, San Francisco/Oakland on Sun, 27 Sept 2026.
+MCMLXXXV is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at BASEMENT, New York City on Sat, 31 Oct 2026.
 
-MCMLXXXV is a techno and house artist based in Germany, tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 48 more. Often billed alongside CEM, Dj Saliva and JASSS. Next up: The Foundry, San Francisco/Oakland on Sun 27 Sept.
+MCMLXXXV is a techno and house artist based in Germany, tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 48 more. Often billed alongside CEM, Dj Saliva and JASSS. Next up: BASEMENT, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | The Foundry | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | BASEMENT | New York City |
 
 ## Recently played

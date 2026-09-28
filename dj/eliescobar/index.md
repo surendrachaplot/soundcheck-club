@@ -1,13 +1,14 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at House of Yes, New York City on Fri, 2 Oct 2026.
+Eli Escobar is a House and Electro artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Le Bain, New York City on Wed, 30 Sept 2026.
 
-Eli Escobar is a house and electro artist based in United States of America, tracked on soundcheck, with 550 sets logged across Barcelona, Berlin, Boston and Chicago and 18 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: House of Yes, New York City on Fri 2 Oct.
+Eli Escobar is a house and electro artist based in United States of America, tracked on soundcheck, with 551 sets logged across Barcelona, Berlin, Boston and Chicago and 18 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Le Bain, New York City on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Le Bain | New York City |
 | Fri, 2 Oct 2026 | House of Yes | New York City |
 | Sat, 3 Oct 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 | Sat, 10 Oct 2026 | Signal | New York City |

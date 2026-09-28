@@ -1,14 +1,13 @@
 # Lara Sinclair
 
-Lara Sinclair is a Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sneaky Pete's, Edinburgh on Sun, 27 Sept 2026.
+Lara Sinclair is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 8 Oct 2026.
 
-Lara Sinclair is a bass and jungle artist based in United Kingdom, tracked on soundcheck, with 195 sets logged across Dundee, Edinburgh, Glasgow and London. Often billed alongside ZO3, JI_2001 and Casement. Next up: Sneaky Pete's, Edinburgh on Sun 27 Sept.
+Lara Sinclair is a bass and jungle artist based in United Kingdom, tracked on soundcheck, with 195 sets logged across Dundee, Edinburgh, Glasgow and London. Often billed alongside ZO3, JI_2001 and Casement. Next up: The Bongo Club, Edinburgh on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Sneaky Pete's | Edinburgh |
 | Thu, 8 Oct 2026 | The Bongo Club | Edinburgh |
 | Sat, 24 Oct 2026 | Sneaky Pete's | Edinburgh |
 

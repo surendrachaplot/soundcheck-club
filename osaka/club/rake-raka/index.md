@@ -8,7 +8,7 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 3 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | DEAR MONDAY, vol.305 6th anniversary & BBCB 10th anniversary tour SP | HSC (1), Kim.Qna |
+| Mon, 28 Sept 2026 | DEAR MONDAY, vol.305 6th anniversary & BBCB 10th anniversary tour SP | HSC (1), Kim.Qna, nima (2) |
 | Wed, 14 Oct 2026 | maximalism VOL.13 | ALTF4, MATSURYO |
 | Sat, 24 Oct 2026 | AfterLife | Aleyum, Kensuke IWANO |
 

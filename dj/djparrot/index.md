@@ -1,15 +1,13 @@
 # DJ Parrot
 
-DJ Parrot is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sun, 27 Sept 2026.
+DJ Parrot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 14 Oct 2026.
 
-DJ Parrot is a house and tech house artist based in United States of America, tracked on soundcheck, with 39 sets logged across San Francisco/Oakland. Often billed alongside Velvet Pistol, Black Panda and HIDRA. Next up: F8 1192 Folsom, San Francisco/Oakland on Sun 27 Sept.
+DJ Parrot is a house and tech house artist based in United States of America, tracked on soundcheck, with 39 sets logged across San Francisco/Oakland. Often billed alongside Velvet Pistol, Black Panda and HIDRA. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 14 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
-| Sun, 27 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Wed, 14 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played

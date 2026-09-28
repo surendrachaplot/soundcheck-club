@@ -1,14 +1,15 @@
 # Gi Gi
 
-Gi Gi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at public records, New York City on Fri, 16 Oct 2026.
+Gi Gi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at public records, New York City on Fri, 16 Oct 2026.
 
-Gi Gi is a techno and house artist based in United States of America, tracked on soundcheck, with 71 sets logged across Auckland, Austin, Berlin and Brussels and 20 more. Often billed alongside PLO Man, Charles Moon and Conna Haraway. Next up: public records, New York City on Fri 16 Oct.
+Gi Gi is a techno and house artist based in United States of America, tracked on soundcheck, with 72 sets logged across Auckland, Austin, Berlin and Brussels and 20 more. Often billed alongside PLO Man, Charles Moon and Conna Haraway. Next up: public records, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | public records | New York City |
+| Fri, 6 Nov 2026 | Cafeteria | Toronto |
 
 ## Recently played
 

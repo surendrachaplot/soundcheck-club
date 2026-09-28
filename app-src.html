@@ -852,8 +852,16 @@
     .transport { display:flex; align-items:center; gap:14px; }
     .scrub { display:flex; align-items:center; gap:10px; }
     .scrub .t { font-variant-numeric:tabular-nums; color:var(--muted); font-size:var(--fs-xs); white-space:nowrap; }
-    .skip { gap:3px; font:inherit; font-size:var(--fs-xs); font-weight:800; white-space:nowrap; flex-shrink:0; }
-    .skip svg { width:var(--icon-md); height:var(--icon-md); }
+    /* Dock v2 transport (Paper NEXT RG1-0): the shared .dock .iconbtn rule sizes
+       every icon button as a 36 disc (see the DISCS comment below) — the v2
+       transport row deliberately breaks out of that. ±15 is TEXT, no icon, no
+       disc; prev/next are bare 18px icons, no disc. Both keep a real 44 tap area,
+       and being direct .transport children with equal gap keeps all four evenly
+       spaced. */
+    .transport .iconbtn.skip, .transport .iconbtn.skipnav { width:auto; height:auto; min-width:44px; min-height:44px; padding:0; background:transparent; border-radius:0; }
+    .transport .iconbtn.skip { font:700 10.5px/1 var(--body); letter-spacing:0.14em; color:var(--muted); white-space:nowrap; flex-shrink:0; }
+    .transport .iconbtn.skipnav { color:var(--fg); }
+    .transport .iconbtn.skipnav .ic { width:18px; height:18px; }
     .scrub .bar { flex:1; min-width:0; height:6px;
       /* The knob is centred on the fill position (translate(-50%)), so at 0% and
          100% half of it hangs outside the bar — and .dock is overflow:hidden, so
@@ -4883,7 +4891,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790556815100">
+<meta name="sc-build" content="1790568041225">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4989,11 +4997,11 @@
              row is −15 · prev · next · +15 on both; DOM order = render order, no per-
              breakpoint reshuffling. -->
         <div class="transport">
-          <button class="iconbtn skip" id="skip-back" type="button" aria-label="Back 15 seconds"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg><span>&minus;15</span></button>
-          <button class="iconbtn" id="dock-prev" type="button" aria-label="Previous set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" x2="5" y1="19" y2="5"/></svg></button>
+          <button class="iconbtn skip" id="skip-back" type="button" aria-label="Back 15 seconds"><span>&minus;15</span></button>
+          <button class="iconbtn skipnav" id="dock-prev" type="button" aria-label="Previous set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" x2="5" y1="19" y2="5"/></svg></button>
           <button class="play-main" id="dock-pp" type="button" aria-label="Pause"><svg class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg></button>
-          <button class="iconbtn" id="dock-next" type="button" aria-label="Next set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" x2="19" y1="5" y2="19"/></svg></button>
-          <button class="iconbtn skip" id="skip-fwd" type="button" aria-label="Forward 15 seconds"><span>+15</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/></svg></button>
+          <button class="iconbtn skipnav" id="dock-next" type="button" aria-label="Next set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" x2="19" y1="5" y2="19"/></svg></button>
+          <button class="iconbtn skip" id="skip-fwd" type="button" aria-label="Forward 15 seconds"><span>+15</span></button>
         </div>
         <div class="scrub">
           <span class="t" id="t-cur">0:00</span>

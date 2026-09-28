@@ -1,14 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Red Laser Records w/ Il Bosco, Royal Male, Pharaoh Brunson, Butjer" on Sun, 27 Sept 2026.
+Golden Pudel Club is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Afrotonic" on Wed, 30 Sept 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including Anton Jonathan, Bézier, BrthrMidnyt and cristian zanotti and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including Anton Jonathan, Bézier, BrthrMidnyt and cristian zanotti and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Red Laser Records w/ Il Bosco, Royal Male, Pharaoh Brunson, Butjer | Pharaoh Brunson, Royal Male |
 | Wed, 30 Sept 2026 | Afrotonic |  |
 | Thu, 1 Oct 2026 | Give Me A Break | Farsight, Ivaldo Gino, Nassstya, PUSS1 BABA, Ring41 |
 | Fri, 2 Oct 2026 | RAWDOGS vol. 3 with Yass & Mali | Enzo V8, Yass & Mali |

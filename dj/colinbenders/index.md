@@ -1,14 +1,13 @@
 # Colin Benders
 
-Colin Benders is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+Colin Benders is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Flash, Washington DC on Sat, 10 Oct 2026.
 
-Colin Benders is a techno and house artist based in Netherlands, tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside Speedy J, Dasha Rush and Ben Klock. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
+Colin Benders is a techno and house artist based in Netherlands, tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside Speedy J, Dasha Rush and Ben Klock. Next up: Flash, Washington DC on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 10 Oct 2026 | Flash | Washington DC |
 | Sun, 11 Oct 2026 | TBA - Secret Location | Toronto |
 | Fri, 16 Oct 2026 | essaim | Paris |

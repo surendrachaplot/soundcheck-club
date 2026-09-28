@@ -12,7 +12,7 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 5 upcoming gigs, wi
 | Thu, 8 Oct 2026 | The Occasional Thursday Party with London Elektricity | London Elektricity, Pat Osiris, Roque Ybarra, XVEVESX |
 | Fri, 16 Oct 2026 | EvilGroove Records Showcase - Lindsey Herbert - BRALLE - Marble Bar | BRALLE, Lindsey Herbert |
 | Thu, 29 Oct 2026 | The Occasional Thursday Party with DJ Craze + Friends | Craze, Sinistarr, Sinister Dosage |
-| Fri, 6 Nov 2026 | txtr with Pariah & Verraco | Green River Haze, Pariah, Verraco |
+| Fri, 6 Nov 2026 | TXTR : Pariah & Verraco | Green River Haze, Pariah, Verraco |
 
 ## Address
 

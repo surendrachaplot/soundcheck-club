@@ -1,14 +1,13 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 31 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Postal: Sweeney + Lara Sinclair" on Sun, 27 Sept 2026.
+Sneaky Pete's is a music venue in Edinburgh with 30 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "˚✩ ᴅᴊ ʙᴀx at ᴄʟᴜʙ sᴘɪᴛ ✩˚" on Mon, 28 Sept 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 31 upcoming gigs, with line-ups including BORLEY, Buckfast Barbie, Buckley (UK) and ButhoTheWarrior and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 30 upcoming gigs, with line-ups including BORLEY, Buckfast Barbie, Buckley (UK) and ButhoTheWarrior and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Postal: Sweeney + Lara Sinclair | Lara Sinclair, Sweeney |
 | Mon, 28 Sept 2026 | ˚✩ ᴅᴊ ʙᴀx at ᴄʟᴜʙ sᴘɪᴛ ✩˚ | DJ Bax, Jodie Mooney, Mixfits (2) |
 | Tue, 29 Sept 2026 | RARE Club // Drift, Jedda (Vinyl Only) |  |
 | Wed, 30 Sept 2026 | REDEMPTION // Sneaky Pete's X |  |
@@ -18,6 +17,7 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 31 upcoming gi
 | Sun, 4 Oct 2026 | Postal: ZO3 | ZO3 (1) |
 | Wed, 7 Oct 2026 | Andromeda Returns: IZP Vol.2 | Caspar, IZP (1) |
 | Thu, 8 Oct 2026 | Morrison Street with Mass Medium / Club Caviar  |  |
+| Fri, 9 Oct 2026 | mantle: ophélie 𖦹 Feena | Feena, ophélie |
 
 ## Address
 

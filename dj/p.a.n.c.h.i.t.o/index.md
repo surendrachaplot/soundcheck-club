@@ -1,13 +1,14 @@
 # P.A.N.C.H.I.T.O
 
-P.A.N.C.H.I.T.O is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Macarena Club, Barcelona on Mon, 12 Oct 2026.
+P.A.N.C.H.I.T.O is a Deep House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sigma, Ibiza on Fri, 2 Oct 2026.
 
-P.A.N.C.H.I.T.O is an electronic artist based in Argentina, tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside Antonio Marrandino, Di Francesco and Idriss D. Next up: Macarena Club, Barcelona on Mon 12 Oct.
+P.A.N.C.H.I.T.O is a deep house and minimal techno artist based in Argentina, tracked on soundcheck, with 4 sets logged across Barcelona and Ibiza. Often billed alongside Antonio Marrandino, Cris Kai and Di Francesco. Next up: Sigma, Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Sigma | Ibiza |
 | Mon, 12 Oct 2026 | Macarena Club | Barcelona |
 
 ## Recently played
@@ -17,6 +18,6 @@ P.A.N.C.H.I.T.O is an electronic artist based in Argentina, tracked on soundchec
 
 ## Shares bills with
 
-Antonio Marrandino, Di Francesco, Idriss D
+Antonio Marrandino, Cris Kai, Di Francesco
 
 *Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p.a.n.c.h.i.t.o/)*

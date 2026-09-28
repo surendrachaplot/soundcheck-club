@@ -1,14 +1,13 @@
 # Akasha Las Dalias Club - Ibiza
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 20 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Nido" on Sun, 27 Sept 2026.
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 19 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Peace N´Music Closing Party" on Mon, 28 Sept 2026.
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 20 upcoming gigs, with line-ups including Alfonso Ares, Bill Hates, BOHEM and Cameron Jack and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 19 upcoming gigs, with line-ups including Alfonso Ares, Bill Hates, BOHEM and Cameron Jack and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Nido | Paloma, Yamil |
 | Mon, 28 Sept 2026 | Peace N´Music Closing Party |  |
 | Tue, 29 Sept 2026 | Ethereal | Clint Lee, Pako S, Words of Niō |
 | Wed, 30 Sept 2026 | Namaste | Defex, IBÁN MENDOZA |
@@ -18,6 +17,7 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 2
 | Wed, 7 Oct 2026 | Namaste  |  |
 | Fri, 9 Oct 2026 | Tales Of The Unexpected | Lovefingers |
 | Sat, 10 Oct 2026 | SUPERNOVA | Defex, LAU (6), Mathias Kaden, theia |
+| Sun, 11 Oct 2026 | Nido | Alfonso Ares, John Woods, Julia Sandstorm |
 
 ## Address
 

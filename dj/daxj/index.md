@@ -1,14 +1,13 @@
 # DAX J
 
-DAX J is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hï Ibiza, Ibiza on Sun, 27 Sept 2026.
+DAX J is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at essaim, Paris on Fri, 2 Oct 2026.
 
-DAX J is a techno and house artist based in United Kingdom, tracked on soundcheck, with 262 sets logged across Amsterdam, Athens, Barcelona and Basel and 67 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Hï Ibiza, Ibiza on Sun 27 Sept.
+DAX J is a techno and house artist based in United Kingdom, tracked on soundcheck, with 262 sets logged across Amsterdam, Athens, Barcelona and Basel and 67 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: essaim, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | essaim | Paris |
 | Sat, 3 Oct 2026 | Lehmann Club | Stuttgart |
 | Sat, 10 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |

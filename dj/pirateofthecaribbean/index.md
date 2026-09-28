@@ -2,7 +2,7 @@
 
 Pirate of the Caribbean is a Dancehall and Amapiano artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Cross Roppongi, Tokyo on Sat, 10 Oct 2026.
 
-Pirate of the Caribbean is a dancehall and amapiano artist based in France, tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside DJ POIPOI and HIBI BLISS. Next up: Cross Roppongi, Tokyo on Sat 10 Oct.
+Pirate of the Caribbean is a dancehall and amapiano artist based in France, tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside HIBI BLISS. Next up: Cross Roppongi, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Pirate of the Caribbean is a dancehall and amapiano artist based in France, trac
 
 ## Shares bills with
 
-DJ POIPOI, HIBI BLISS
+HIBI BLISS
 
 *Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pirateofthecaribbean/)*

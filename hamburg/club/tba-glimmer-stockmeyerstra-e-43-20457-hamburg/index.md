@@ -1,8 +1,8 @@
-# TBA - glimmer, Stockmeyerstraße 43, 20457 Hamburg
+# TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg
 
-TBA - glimmer, Stockmeyerstraße 43, 20457 Hamburg is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Glimmer – Opening Day 1" on Fri, 2 Oct 2026.
+TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Glimmer – Opening Day 1" on Fri, 2 Oct 2026.
 
-TBA - glimmer, Stockmeyerstraße 43, 20457 Hamburg is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Ani con Gas, ANNĒ, BNZN and Carlo Karacho and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Ani con Gas, ANNĒ, BNZN and Carlo Karacho and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

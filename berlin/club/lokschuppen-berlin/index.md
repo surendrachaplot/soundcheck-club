@@ -1,14 +1,13 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 68 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "wieder: Jacky Ickx Birthday Bash" on Sun, 27 Sept 2026.
+Lokschuppen Berlin is a music venue in Berlin with 67 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "PHASE:ONE" on Tue, 29 Sept 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 68 upcoming gigs, with line-ups including 1luu, 4NOUK, 5euroGoldi and 9LALEY and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 67 upcoming gigs, with line-ups including 1luu, 4NOUK, 5euroGoldi and 9LALEY and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | wieder: Jacky Ickx Birthday Bash | GRMR, JUICY (DE), Jacky Ickx, Nettta |
 | Tue, 29 Sept 2026 | PHASE:ONE | Levandream, Shilo |
 | Wed, 30 Sept 2026 | SIGNALS - 5€ Tickets - w/ HOOM, C:KO, DJ Primitivo | CIKO, DJ Primitivo, HOOM |
 | Thu, 1 Oct 2026 | Chantal's House of Shame |  |
@@ -18,6 +17,7 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 68 upcoming 
 | Tue, 6 Oct 2026 | Projekt Boki | DJ Spaßgetränk, EZA (DE), Florelle, Lezza, Paul Bauhaus, TANZBAER, bbymeister, jeanska |
 | Wed, 7 Oct 2026 | SIGNALS - 5€ Tickets - w/ DJ Henk, DETOXX, DJ St4rlight b2b bbysonni | DETOXX, DJ Henk |
 | Thu, 8 Oct 2026 | Chantal's House of Shame |  |
+| Fri, 9 Oct 2026 | DEMOLATE w./ DJ Dextro, Alberto Tolo, Rill, Katnada | Alberto Tolo, Artifex (DE), DJ Dextro, Gloria Rose, Katnada, Maximus (DE), Ricksen, Rill |
 
 ## Address
 

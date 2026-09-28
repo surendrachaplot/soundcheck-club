@@ -1,14 +1,13 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "SLPFNK Summer Closing" on Sat, 26 Sept 2026.
+BRET is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Arapu, Natalia Roth" on Fri, 2 Oct 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | SLPFNK Summer Closing |  |
 | Fri, 2 Oct 2026 | Arapu, Natalia Roth | Arapu, Natalia Roth |
 | Sat, 3 Oct 2026 | EASTTOWN - EXTENDED SET (18+) | Easttown |
 | Sat, 3 Oct 2026 | Easttown [extended set] | Easttown, Simon Kidzoo |
@@ -18,6 +17,7 @@ BRET is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with 
 | Fri, 23 Oct 2026 | Mano Le Tough pres. Maeve x ADE | Carlos Valdes, Cassy, Luke Alessi, Mano Le Tough, The Drifter |
 | Fri, 23 Oct 2026 | Ogazón invites Freddy K & Rene Wise - ADE | Freddy K, Ogazón, Rene Wise |
 | Fri, 23 Oct 2026 | Anz, SHERELLE & MALLAURY x BRET x ADE | Anz, MALLAURY, SHERELLE |
+| Sat, 24 Oct 2026 | ADE - VBX - SATURDAY DAY  |  |
 
 ## Address
 

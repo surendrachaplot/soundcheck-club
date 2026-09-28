@@ -1,14 +1,13 @@
 # Sir Spyro
 
-Sir Spyro is a Grime and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Sir Spyro is a Grime and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Black Box, Denver on Fri, 2 Oct 2026.
 
-Sir Spyro is a grime and dubstep artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 14 more. Often billed alongside Footsie, Kahn and D Double E. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
+Sir Spyro is a grime and dubstep artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 14 more. Often billed alongside Footsie, Kahn and D Double E. Next up: The Black Box, Denver on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Fri, 2 Oct 2026 | The Black Box | Denver |
 | Thu, 15 Oct 2026 | 1-800-Lucky | Miami |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |

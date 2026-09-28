@@ -1,13 +1,14 @@
 # WADDLE
 
-WADDLE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Elsewhere, New York City on Sat, 14 Nov 2026.
+WADDLE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Mood Ring, New York City on Sat, 17 Oct 2026.
 
-WADDLE is a techno and house artist based in United States of America, tracked on soundcheck, with 64 sets logged across New York City, San Francisco/Oakland and Seoul. Often billed alongside duco, NIJEII and y2aura. Next up: Elsewhere, New York City on Sat 14 Nov.
+WADDLE is a techno and house artist based in United States of America, tracked on soundcheck, with 65 sets logged across New York City, San Francisco/Oakland and Seoul. Often billed alongside duco, NIJEII and y2aura. Next up: Mood Ring, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Mood Ring | New York City |
 | Sat, 14 Nov 2026 | Elsewhere | New York City |
 
 ## Recently played

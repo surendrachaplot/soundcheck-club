@@ -1,14 +1,13 @@
 # Colleen 'Cosmo' Murphy
 
-Colleen 'Cosmo' Murphy is a Disco and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Le Bain, New York City on Sun, 27 Sept 2026.
+Colleen 'Cosmo' Murphy is a Disco and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at smartbar, Chicago on Sat, 3 Oct 2026.
 
-Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Barcelona and Belfast and 27 more. Often billed alongside Horse Meat Disco, Francois K and Love Injection. Next up: Le Bain, New York City on Sun 27 Sept.
+Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Barcelona and Belfast and 27 more. Often billed alongside Horse Meat Disco, Francois K and Love Injection. Next up: smartbar, Chicago on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Le Bain | New York City |
 | Sat, 3 Oct 2026 | smartbar | Chicago |
 | Fri, 9 Oct 2026 | Green Room NYC | New York City |
 | Sat, 17 Oct 2026 | Cobalt Studios | Newcastle |

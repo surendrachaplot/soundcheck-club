@@ -1,14 +1,13 @@
 # madeera
 
-madeera is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Spkrbox, Detroit on Sun, 27 Sept 2026.
+madeera is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA -   HEY HEY SOCIAL , San-antonio on Fri, 11 Dec 2026.
 
-madeera is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Detroit, Dublin, Newcastle and New York City and 2 more. Often billed alongside Brent Shay, Antikkka and Cody Hammer. Next up: Spkrbox, Detroit on Sun 27 Sept.
+madeera is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Detroit, Dublin, Newcastle and New York City and 2 more. Often billed alongside Brent Shay, Antikkka and Cody Hammer. Next up: TBA -   HEY HEY SOCIAL , San Antonio on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Spkrbox | Detroit |
 | Fri, 11 Dec 2026 | TBA -   HEY HEY SOCIAL  | San-antonio |
 
 ## Recently played

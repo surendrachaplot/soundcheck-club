@@ -1,14 +1,13 @@
 # Huerco S.
 
-Huerco S. is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+Huerco S. is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at St. Bartholomew's Church, New York City on Sun, 27 Sept 2026.
 
-Huerco S. is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Loidis, Crystallmess and Kode9. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri 25 Sept.
+Huerco S. is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Loidis, Crystallmess and Kode9. Next up: St. Bartholomew's Church, New York City on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TBA - Multiple Historic Venues - Manhattan & Brooklyn | New York City |
 | Sun, 27 Sept 2026 | St. Bartholomew's Church | New York City |
 
 ## Recently played

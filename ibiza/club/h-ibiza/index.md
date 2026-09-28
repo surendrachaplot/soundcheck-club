@@ -1,14 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 10 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "MESTIZA" on Sun, 27 Sept 2026.
+Hï Ibiza is a music venue in Ibiza with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Francis Mercier presents Solèy" on Mon, 28 Sept 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming gigs, with line-ups including Adam Ten, A For Alpha, Andrea Oliva and Anetha and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 9 upcoming gigs, with line-ups including Adam Ten, A For Alpha, Andrea Oliva and Anetha and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | MESTIZA | Anna Unusyan, DAX J, Elli Acula, Indira Paganotto, Knowhat, Marten Lou, MËSTIZA, Peppe Citarella |
 | Mon, 28 Sept 2026 | Francis Mercier presents Solèy | Andrea Oliva, Ashibah, Bontan, Francis Mercier, Jade, Mahmut Orhan, Major League Djz, Rolbac |
 | Tue, 29 Sept 2026 | East End Dubs presents Eastenderz | Ariel Rodz, East End Dubs, Fatzo, Gallya, Hot Since 82, Nick Curly, Oden, Paco Osuna |
 | Wed, 30 Sept 2026 | MEDUZA & James Hype present OUR HOUSE - CLOSING PARTY | Brina Knauss, Calussa, James Hype (UK), Jonas Blue, Korolova, Malive, Meduza |

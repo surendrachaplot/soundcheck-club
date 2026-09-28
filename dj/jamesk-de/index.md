@@ -1,14 +1,13 @@
 # james K
 
-james K is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+james K is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Fairmount Theatre, Montreal on Thu, 22 Oct 2026.
 
-james K is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 27 more. Often billed alongside Nick León, Oklou and Yu Mi. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri 25 Sept.
+james K is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 27 more. Often billed alongside Nick León, Oklou and Yu Mi. Next up: Fairmount Theatre, Montreal on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TBA - Multiple Historic Venues - Manhattan & Brooklyn | New York City |
 | Thu, 22 Oct 2026 | Fairmount Theatre | Montreal |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Auspex
 
-Auspex is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+Auspex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Open Air, New York City on Sat, 3 Oct 2026.
 
-Auspex is a techno and house artist based in United States of America, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Boston and Miami and 4 more. Often billed alongside Ne/Re/A, Juana and Phase Fatale. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
+Auspex is a techno and house artist based in United States of America, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Boston and Miami and 4 more. Often billed alongside Ne/Re/A, Juana and Phase Fatale. Next up: TBA - Open Air, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 3 Oct 2026 | TBA - Open Air | New York City |
 
 ## Recently played

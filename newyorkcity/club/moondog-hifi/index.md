@@ -1,14 +1,13 @@
 # Moondog Hifi
 
-Moondog Hifi is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Matias Espinola" on Sun, 27 Sept 2026.
+Moondog Hifi is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Deep Listening" on Tue, 29 Sept 2026.
 
-Moondog Hifi is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Corey Baker, Derek Russo, KANZE and Matias Espinola. Browse upcoming dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
+Moondog Hifi is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Corey Baker, Derek Russo and KANZE. Browse upcoming dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Matias Espinola | Matias Espinola |
 | Tue, 29 Sept 2026 | Deep Listening |  |
 | Wed, 30 Sept 2026 | Wednesday JAmZZ: The Donny Trio |  |
 | Thu, 1 Oct 2026 | I Challenged The Master and Won Album Listening Session |  |

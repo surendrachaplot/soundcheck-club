@@ -1,14 +1,13 @@
 # Tana (2)
 
-Tana (2) is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Highlight Room, New York City on Sun, 27 Sept 2026.
+Tana (2) is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Hafenklang, Hamburg on Fri, 9 Oct 2026.
 
-Tana is a house and breakbeat artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Hamburg, Lisbon and New York City and 1 more. Often billed alongside UNZHA, TTX (GER) and Soundskoud. Next up: The Highlight Room, New York City on Sun 27 Sept.
+Tana is a house and breakbeat artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Hamburg, Lisbon and New York City and 1 more. Often billed alongside UNZHA, TTX (GER) and Soundskoud. Next up: Hafenklang, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | The Highlight Room | New York City |
 | Fri, 9 Oct 2026 | Hafenklang | Hamburg |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Miss Parker
 
-Miss Parker is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Signal, New York City on Sun, 27 Sept 2026.
+Miss Parker is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Warehouse Location, Philadelphia on Sat, 3 Oct 2026.
 
-Miss Parker is a techno and house artist based in United States of America, tracked on soundcheck, with 132 sets logged across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, Princess Peggie and DJ Thank You. Next up: Signal, New York City on Sun 27 Sept.
+Miss Parker is a techno and house artist based in United States of America, tracked on soundcheck, with 132 sets logged across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, Princess Peggie and DJ Thank You. Next up: TBA - Warehouse Location, Philadelphia on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Signal | New York City |
 | Sat, 3 Oct 2026 | TBA - Warehouse Location | Philadelphia |
 | Fri, 9 Oct 2026 | TBA | Los Angeles |
 | Thu, 15 Oct 2026 | Nowadays | New York City |

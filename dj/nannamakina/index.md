@@ -1,14 +1,13 @@
 # Nanna Makina
 
-Nanna Makina is a Trance and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tempo, Glasgow on Sun, 27 Sept 2026.
+Nanna Makina is a Trance and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Harleys Sky Bar, Glasgow on Sat, 17 Oct 2026.
 
-Nanna Makina is a trance and hardcore artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Glasgow, Liverpool and Manchester. Often billed alongside MC Tazo, 2 Sick Puppiez and 2FEL. Next up: Tempo, Glasgow on Sun 27 Sept.
+Nanna Makina is a trance and hardcore artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Glasgow, Liverpool and Manchester. Often billed alongside MC Tazo, 2 Sick Puppiez and 2FEL. Next up: Harleys Sky Bar, Glasgow on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Tempo | Glasgow |
 | Sat, 17 Oct 2026 | Harleys Sky Bar | Glasgow |
 | Fri, 13 Nov 2026 | Vienna's | Glasgow |
 | Sat, 14 Nov 2026 | WaV | Liverpool |

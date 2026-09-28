@@ -1,8 +1,8 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Studio S" on Fri, 2 Oct 2026.
+Cafeteria is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Studio S" on Fri, 2 Oct 2026.
 
-Cafeteria is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including 1morning, Amedeo (CA), Blackman and Blkvirgo and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
+Cafeteria is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including 1morning, Amedeo (CA), Blackman and Blkvirgo and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, wit
 | Fri, 23 Oct 2026 | Suck My Deck: SLAY 3 | JOOOF, TR4CE |
 | Sat, 24 Oct 2026 | HALLOMEME BY CITYPOOLWARRIOR | Blkvirgo, DR 4SKYN, Delicious DJ, XANGA, kathy beu |
 | Sat, 31 Oct 2026 | Cafeteria Halloween: Invisible City x LYRIX |  |
+| Fri, 6 Nov 2026 | slowburn: Gi Gi, Ciel & Milch | Ciel, Gi Gi, Milch (1) |
 | Sat, 7 Nov 2026 | unimmune: SUZY SHEER | Indie Sleaze, Patch+ |
 
 ## Address

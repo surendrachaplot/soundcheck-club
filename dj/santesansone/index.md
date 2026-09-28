@@ -1,14 +1,13 @@
 # Sante Sansone
 
-Sante Sansone is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
+Sante Sansone is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
-Sante Sansone is a tech house and house artist based in Italy, tracked on soundcheck, with 42 sets logged across Austria, Barcelona, Boston and Buenos Aires and 18 more. Often billed alongside Hector Couto, Pirate Copy and Ammo Avenue. Next up: Cova Santa, Ibiza on Sun 27 Sept.
+Sante Sansone is a tech house and house artist based in Italy, tracked on soundcheck, with 42 sets logged across Austria, Barcelona, Boston and Buenos Aires and 18 more. Often billed alongside Hector Couto, Pirate Copy and Ammo Avenue. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Cova Santa | Ibiza |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played

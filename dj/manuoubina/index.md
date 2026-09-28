@@ -1,14 +1,13 @@
 # Manu Oubiña
 
-Manu Oubiña is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Bunker, Turin on Sun, 27 Sept 2026.
+Manu Oubiña is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Subcero Club, Madrid on Sat, 3 Oct 2026.
 
-Manu Oubiña is a house and electro artist based in Argentina, tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside LUKAS, Guile and Edu C. Next up: Bunker, Turin on Sun 27 Sept.
+Manu Oubiña is a house and electro artist based in Argentina, tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside LUKAS, Guile and Edu C. Next up: Subcero Club, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Bunker | Turin |
 | Sat, 3 Oct 2026 | Subcero Club | Madrid |
 | Fri, 16 Oct 2026 | Avant Garten | Buenos Aires |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |

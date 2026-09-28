@@ -1,14 +1,13 @@
 # Isla Den
 
-Isla Den is a Pop and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 27 Sept 2026.
+Isla Den is a Pop and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Foro Niebla, Mexico City on Sat, 3 Oct 2026.
 
-Isla Den is a pop and club artist based in Canada, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside ESP, Malibu and Outback. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 27 Sept.
+Isla Den is a pop and club artist based in Canada, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside ESP, Malibu and Outback. Next up: Foro Niebla, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Sat, 3 Oct 2026 | Foro Niebla | Mexico City |
 | Sat, 31 Oct 2026 | Elsewhere | New York City |
 

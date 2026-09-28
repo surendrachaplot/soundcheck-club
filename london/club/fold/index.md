@@ -1,14 +1,13 @@
 # FOLD
 
-FOLD is a music venue in London with 27 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "UNFOLD CXXXII" on Sun, 27 Sept 2026.
+FOLD is a music venue in London with 26 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Cabin Fever: Margaret Dygas, Roman Flügel b2b Lola Haro, Edward, Stevie Cox & Control Freak" on Fri, 2 Oct 2026.
 
-FOLD is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including aalice, Aaron J, Alicia (UK) and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including aalice, Aaron J, Alicia (UK) and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | UNFOLD CXXXII |  |
 | Fri, 2 Oct 2026 | Cabin Fever: Margaret Dygas, Roman Flügel b2b Lola Haro, Edward, Stevie Cox & Control Freak | Control Freak, Edward, Lola Haro, Margaret Dygas, Roman Flügel, Stevie Cox |
 | Sat, 3 Oct 2026 |  Tech Couture // A Family Affair: Mac Declos, Blasha & Allatt, Lacchesi, Anabel Arroyo + more | Anabel Arroyo, Blasha & Allatt, Debbie., James Newmarch, Lacchesi, Mac Declos, Nina Pixina, Voicedrone |
 | Sat, 3 Oct 2026 | Transmissions x Breakfast Club with Helena Hauff, Nicolas Lutz | Alicia (UK), Benko, Eversines, Helena Hauff, Inner Zone, Marie K (1), Nicolas Lutz, Pieter Jansen, RDS, Richard Gregory |
@@ -18,6 +17,7 @@ FOLD is a music venue in London listed on soundcheck. 27 upcoming gigs, with lin
 | Sat, 17 Oct 2026 | Midland - All Day Long [SOLD OUT] | Midland |
 | Sat, 17 Oct 2026 | Goodness: John Talabot, Oceanic b2b rRoxymore, RAMZi, I:Cube, Elena Colombi, Michael J Blood | Elena Colombi, I:Cube, John Talabot, Michael J. Blood, OK EG, Oceanic, Older Brother, RAMZi, Wednesday, georg-i, rRoxymore |
 | Fri, 23 Oct 2026 | ✧5 YEARS OF NS AT FOLD w/ Truncate, aalice & Bailey Ibbs✧ | Bailey Ibbs, Truncate, aalice |
+| Fri, 23 Oct 2026 | FWD>> | Dubrunner, Introspekt, Katiusha, Untold, livwutang, x3butterfly |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Chinonegro
 
-Chinonegro is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Stratus Lounge, Philadelphia on Sun, 27 Sept 2026.
+Chinonegro is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at THE BATHS, Austin on Fri, 2 Oct 2026.
 
-Chinonegro is a tech house and house artist based in Peru, tracked on soundcheck, with 29 sets logged across Amsterdam, Austin, Barcelona and Buenos Aires and 11 more. Often billed alongside BLOND:ISH, Luuk van Dijk and Sidney Charles. Next up: Stratus Lounge, Philadelphia on Sun 27 Sept.
+Chinonegro is a tech house and house artist based in Peru, tracked on soundcheck, with 29 sets logged across Amsterdam, Austin, Barcelona and Buenos Aires and 11 more. Often billed alongside BLOND:ISH, Luuk van Dijk and Sidney Charles. Next up: THE BATHS, Austin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Stratus Lounge | Philadelphia |
 | Fri, 2 Oct 2026 | THE BATHS | Austin |
 
 ## Recently played

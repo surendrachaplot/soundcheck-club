@@ -1,14 +1,13 @@
 # Phillippe
 
-Phillippe is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Phillippe is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Toronto on Fri, 2 Oct 2026.
 
-Phillippe is a house and club artist based in Canada, tracked on soundcheck, with 74 sets logged across Mexico City, Montreal, Toronto and Vancouver. Often billed alongside Karim Olen Ash, Jeremy Glenn and Kiki LeFreak. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
+Phillippe is a house and club artist based in Canada, tracked on soundcheck, with 74 sets logged across Mexico City, Montreal, Toronto and Vancouver. Often billed alongside Karim Olen Ash, Jeremy Glenn and Kiki LeFreak. Next up: TBA, Toronto on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Fri, 2 Oct 2026 | TBA | Toronto |
 | Fri, 9 Oct 2026 | TBA - hehehe | Toronto |
 

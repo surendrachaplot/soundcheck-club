@@ -1,14 +1,13 @@
 # Blkvirgo
 
-Blkvirgo is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Blkvirgo is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Cafeteria, Toronto on Fri, 2 Oct 2026.
 
-Blkvirgo is a house and deep house artist based in Canada, tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside Amedeo (CA), Chinelo and DJ Chris (CA). Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
+Blkvirgo is a house and deep house artist based in Canada, tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside Amedeo (CA), Chinelo and DJ Chris (CA). Next up: Cafeteria, Toronto on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Fri, 2 Oct 2026 | Cafeteria | Toronto |
 | Sat, 17 Oct 2026 | The Jama | Toronto |
 | Sat, 24 Oct 2026 | Cafeteria | Toronto |

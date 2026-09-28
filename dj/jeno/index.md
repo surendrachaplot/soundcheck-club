@@ -1,13 +1,14 @@
 # Jeno
 
-Jeno is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
+Jeno is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Underground SF, San Francisco/Oakland on Sat, 24 Oct 2026.
 
-Jeno is a house and acid artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Los Angeles and San Francisco/Oakland. Often billed alongside DJ Spun, Doc Martin and Tranquil Elephantizer. Next up: Afas Live, Amsterdam on Sun 25 Oct.
+Jeno is a house and acid artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Los Angeles and San Francisco/Oakland. Often billed alongside DJ Spun, Doc Martin and Tranquil Elephantizer. Next up: Underground SF, San Francisco/Oakland on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Underground SF | San Francisco/Oakland |
 | Sun, 25 Oct 2026 | Afas Live | Amsterdam |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 13 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Carl Cox" on Sun, 27 Sept 2026.
+[UNVRS] is a music venue in Ibiza with 12 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Armin Van Buuren presents A State Of Trance" on Mon, 28 Sept 2026.
 
-[UNVRS] is a music venue in Ibiza listed on soundcheck. 13 upcoming gigs, with line-ups including Adriatique, Alan Fitzpatrick, AMÉMÉ and Anastazja and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
+[UNVRS] is a music venue in Ibiza listed on soundcheck. 12 upcoming gigs, with line-ups including Adriatique, AMÉMÉ, Anastazja and Anna Unusyan and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Carl Cox | Alan Fitzpatrick, Carl Cox, Melon Bomb, Nicole Moudaber, PAUZA |
 | Mon, 28 Sept 2026 | Armin Van Buuren presents A State Of Trance | Armin van Buuren, Funk Tribu |
 | Tue, 29 Sept 2026 | No Art | ANOTR |
 | Wed, 30 Sept 2026 | Jamie Jones Paradise | Calvin Clarke, Ciclo, Damian Lazarus, Jamie Jones, Josh Dean, Loco Dice, SYREETA |
@@ -18,6 +17,7 @@
 | Sun, 4 Oct 2026 | Carl Cox - CLOSING PARTY | Carl Cox, Melon Bomb |
 | Mon, 5 Oct 2026 | Armin Van Buuren presents A State Of Trance - CLOSING PARTY | Armin van Buuren |
 | Tue, 6 Oct 2026 | TOP 100 DJS LIVE | Anastazja, Charlotte de Witte, Gordo (1), Korolova, Vintage Culture |
+| Wed, 7 Oct 2026 | Jamie Jones Paradise - CLOSING PARTY | AMÉMÉ, Jamie Jones, Manda Moor, Mason Maynard |
 
 ## Address
 

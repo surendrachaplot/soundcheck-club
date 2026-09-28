@@ -1,14 +1,13 @@
 # Burnski
 
-Burnski is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
+Burnski is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at fabric, London on Fri, 9 Oct 2026.
 
-Burnski is a house and garage artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 15 more. Often billed alongside Kepler, Sidney Charles and Dennis Quin. Next up: Amnesia Ibiza, Ibiza on Sun 27 Sept.
+Burnski is a house and garage artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 15 more. Often billed alongside Kepler, Sidney Charles and Dennis Quin. Next up: fabric, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | fabric | London |
 | Sat, 17 Oct 2026 | 11 Bromley Street | Birmingham |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |

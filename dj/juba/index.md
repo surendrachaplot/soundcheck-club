@@ -1,14 +1,13 @@
 # Juba
 
-Juba is a House and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Maaya, Berlin on Sun, 27 Sept 2026.
+Juba is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
 
-Juba is a house and amapiano artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 9 more. Often billed alongside Katia Fis, MINÄ and APOLONIA. Next up: Maaya, Berlin on Sun 27 Sept.
+Juba is a house and amapiano artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 9 more. Often billed alongside Katia Fis, MINÄ and APOLONIA. Next up: Tresor / Globus, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Maaya | Berlin |
 | Fri, 9 Oct 2026 | Tresor / Globus | Berlin |
 
 ## Recently played

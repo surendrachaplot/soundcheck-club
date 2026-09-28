@@ -10,7 +10,7 @@ vurt. is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | VANTA with Erika | Erika, Siot, odkis |
 | Sat, 3 Oct 2026 | Kontra-Musik 20 years Night | Andreas Tilliander, Ulf Eriksson |
-| Sat, 10 Oct 2026 | vurtnight Woody92 | Woody92 |
+| Sat, 10 Oct 2026 | vurtnight Woody92 | SUNA, SUZAN (2), Woody92 |
 | Fri, 16 Oct 2026 | vurtnight Toki Fuko Live | Toki Fuko |
 
 ## Address

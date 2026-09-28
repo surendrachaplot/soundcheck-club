@@ -1,15 +1,13 @@
 # public records
 
-public records is a music venue in New York City with 32 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "The Atrium: Jump Source, Pilgrims of the Mind [Live], Jennifer Loveless" on Sun, 27 Sept 2026.
+public records is a music venue in New York City with 30 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Volvox, AZA / Space Drum Meditation, Laurence Matte / bbbBbBB" on Fri, 2 Oct 2026.
 
-public records is a music venue in New York City listed on soundcheck. 32 upcoming gigs, with line-ups including 4AM NYC, MORENXXX, AADJA and Aaron Dae and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
+public records is a music venue in New York City listed on soundcheck. 30 upcoming gigs, with line-ups including 4AM NYC, MORENXXX, AADJA and Aaron Dae and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | The Atrium: Jump Source, Pilgrims of the Mind [Live], Jennifer Loveless | Jennifer Loveless, Jump Source |
-| Sun, 27 Sept 2026 | Shelter: Timmy Regisford Open To Close | Timmy Regisford |
 | Fri, 2 Oct 2026 | Volvox, AZA / Space Drum Meditation, Laurence Matte / bbbBbBB | AZA, BbbBbBB (2), Laurence Matte, Space Drum Meditation, Volvox |
 | Sat, 3 Oct 2026 | Titonton Duvanté, Shawn Dub / Mike Servito, JADALAREIGN / kels | JADALAREIGN, Kels (US), Mike Servito, Shawn Dub, Titonton Duvanté |
 | Sun, 4 Oct 2026 | The Nursery: Floorplan, CARISTA | CARISTA, Floorplan |
@@ -18,6 +16,8 @@ public records is a music venue in New York City listed on soundcheck. 32 upcomi
 | Fri, 9 Oct 2026 | AADJA, Kyle Geiger / Softi, DJ G / Zotos | AADJA, DJ G., Kyle Geiger, Softi, Zotos |
 | Sat, 10 Oct 2026 | NAYGOD, Donis / Colored Craig, Cosmo | Colored Craig, Cosmo (NY), Donis, NAYGOD |
 | Sun, 11 Oct 2026 | The Nursery: Frank & Tony, Roman Flügel | Frank & Tony, Roman Flügel |
+| Thu, 15 Oct 2026 | Razor-N-Tape presents A Joyful Noise - Live From public records Album Release Show | Aaron Dae, Brandon Markell Holmes, JKriv, Jason Lindner, Miss Alicia, Miss Gypsy, Peter Matson |
+| Fri, 16 Oct 2026 | D. Tiffany, Flørist / Gi Gi, adobeprincess / Very J | D. Tiffany, Flørist, Gi Gi, Very J, adobeprincess |
 
 ## Address
 

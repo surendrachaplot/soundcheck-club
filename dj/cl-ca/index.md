@@ -1,8 +1,8 @@
 # Ciel
 
-Ciel is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Rhythm, Toronto on Tue, 29 Sept 2026.
+Ciel is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Rhythm, Toronto on Tue, 29 Sept 2026.
 
-Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 50 more. Often billed alongside Milch, CCL and Venus in Foil. Next up: Rhythm, Toronto on Tue 29 Sept.
+Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 50 more. Often billed alongside Milch, CCL and Venus in Foil. Next up: Rhythm, Toronto on Tue 29 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 2
 | Sun, 4 Oct 2026 | Standard Time | Toronto |
 | Fri, 9 Oct 2026 | The Jama | Toronto |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
+| Fri, 6 Nov 2026 | Cafeteria | Toronto |
 
 ## Recently played
 

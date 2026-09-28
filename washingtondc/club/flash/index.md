@@ -1,14 +1,13 @@
 # Flash
 
-Flash is a music venue in Washington DC with 23 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Sunday Love: Gene On Earth - Momo Trosman - Ramos" on Sun, 27 Sept 2026.
+Flash is a music venue in Washington DC with 22 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Baltra - Titonton Duvanté" on Fri, 2 Oct 2026.
 
-Flash is a music venue in Washington DC listed on soundcheck. 23 upcoming gigs, with line-ups including Adrian Collazo, Adyy Love, Alan Fitzpatrick and Andy Grant and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
+Flash is a music venue in Washington DC listed on soundcheck. 22 upcoming gigs, with line-ups including Adrian Collazo, Adyy Love, Alan Fitzpatrick and Andy Grant and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Sunday Love: Gene On Earth - Momo Trosman - Ramos | Gene On Earth, Momo Trosman, Ramos (2) |
 | Fri, 2 Oct 2026 | Baltra - Titonton Duvanté | Andy Grant, Baltra, KayLaSoul, Titonton Duvanté, deepnotiQ |
 | Sat, 3 Oct 2026 | Marco Strous | DJ Soul (US), Marco Strous, VINY, unbound |
 | Sun, 4 Oct 2026 | Sunday Love: Xinobi - Mettabbana - AHardR | Mettabbana, Xinobi |
@@ -18,6 +17,7 @@ Flash is a music venue in Washington DC listed on soundcheck. 23 upcoming gigs, 
 | Fri, 16 Oct 2026 | Victor Calderone [open-to-close] | Adrian Collazo, Victor Calderone, Vithz |
 | Sat, 17 Oct 2026 | Resident Nights: Apollo Dust - House Twelve - Yannis | Adyy Love, Apollo Dust, BE EZY, E-QUE, House Twelve, MANNE, SPCL.K |
 | Sun, 18 Oct 2026 | Sunday Love: Willikens & Ivkovic - Diego Knows - Katrina Mir | Diego Knows, Katrina Mir, Lena Willikens, Vladimir Ivkovic |
+| Fri, 23 Oct 2026 | The Carry Nation | Fish House Funk, Keenan Orr, Lemz, The Carry Nation |
 
 ## Address
 

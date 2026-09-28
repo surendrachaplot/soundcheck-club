@@ -45,11 +45,11 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.c29fbe51f2de.css">
+  <link rel="stylesheet" href="/app.ab7a2abf6439.css">
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790556815100">
+<meta name="sc-build" content="1790568041225">
 <meta name="description" content="Divine Playhouse Presents: An Eternal Love Affair at TBA - Museum of Contemporary Art Australia on Thu 22 Oct, Sydney. 2 artists on the bill: La Figa and Matt Vaughan. House and Club. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2537128-divine-playhouse-presents-an-eternal-love-affair-at-tba-muse/">
 <meta property="og:type" content="website">
@@ -166,11 +166,11 @@
              row is −15 · prev · next · +15 on both; DOM order = render order, no per-
              breakpoint reshuffling. -->
         <div class="transport">
-          <button class="iconbtn skip" id="skip-back" type="button" aria-label="Back 15 seconds"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg><span>&minus;15</span></button>
-          <button class="iconbtn" id="dock-prev" type="button" aria-label="Previous set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" x2="5" y1="19" y2="5"/></svg></button>
+          <button class="iconbtn skip" id="skip-back" type="button" aria-label="Back 15 seconds"><span>&minus;15</span></button>
+          <button class="iconbtn skipnav" id="dock-prev" type="button" aria-label="Previous set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" x2="5" y1="19" y2="5"/></svg></button>
           <button class="play-main" id="dock-pp" type="button" aria-label="Pause"><svg class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg></button>
-          <button class="iconbtn" id="dock-next" type="button" aria-label="Next set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" x2="19" y1="5" y2="19"/></svg></button>
-          <button class="iconbtn skip" id="skip-fwd" type="button" aria-label="Forward 15 seconds"><span>+15</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/></svg></button>
+          <button class="iconbtn skipnav" id="dock-next" type="button" aria-label="Next set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" x2="19" y1="5" y2="19"/></svg></button>
+          <button class="iconbtn skip" id="skip-fwd" type="button" aria-label="Forward 15 seconds"><span>+15</span></button>
         </div>
         <div class="scrub">
           <span class="t" id="t-cur">0:00</span>
@@ -238,7 +238,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.c29fbe51f2de.js" defer></script>
+  <script src="/app.ab7a2abf6439.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → fit the app to the width the

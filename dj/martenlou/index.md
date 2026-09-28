@@ -1,14 +1,13 @@
 # Marten Lou
 
-Marten Lou is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hï Ibiza, Ibiza on Sun, 27 Sept 2026.
+Marten Lou is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Pacha Ibiza, Ibiza on Mon, 28 Sept 2026.
 
-Marten Lou is an afro house and house artist based in Germany, tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 33 more. Often billed alongside ARODES, Andrea Oliva and Shimza. Next up: Hï Ibiza, Ibiza on Sun 27 Sept.
+Marten Lou is an afro house and house artist based in Germany, tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 33 more. Often billed alongside ARODES, Andrea Oliva and Shimza. Next up: Pacha Ibiza, Ibiza on Mon 28 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Hï Ibiza | Ibiza |
 | Mon, 28 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Gessnerallee | Zurich |
 | Fri, 30 Oct 2026 | KOKO | London |

@@ -1,14 +1,13 @@
 # Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Piknic Électronik MTL #17: Egyptian Lover, livwutang / Rêves" on Sun, 27 Sept 2026.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Gordo - Parc Jean-Drapeau" on Fri, 2 Oct 2026.
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including AMÉMÉ, Asha, Baby Bimbo and Beltran and 2 more. Browse upcoming dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including AMÉMÉ, Asha, Beltran and Black Tiger Sex Machine and 2 more. Browse upcoming dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Piknic Électronik MTL #17: Egyptian Lover, livwutang / Rêves | Baby Bimbo, Egyptian Lover, Isla Den, Lorenzi, Martyn Bootyspoon, Yume, livwutang |
 | Fri, 2 Oct 2026 | Gordo - Parc Jean-Drapeau | AMÉMÉ, Gordo, HoneyLuv |
 | Sat, 3 Oct 2026 | Black Tiger Sex Machine presents Connected Fighters | Black Tiger Sex Machine |
 | Sun, 4 Oct 2026 | Piknic Électronik MTL #18: Eris Drew / ether | Asha, Corinita, Eris Drew, Lia Plutonic, MIASALAV, Mui Mui, Runa, Sako (2), Technique nado |

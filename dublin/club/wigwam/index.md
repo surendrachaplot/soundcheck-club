@@ -1,8 +1,8 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 20 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Resonate x LOST: Main Phase & High Fidelity (ANL)" on Fri, 2 Oct 2026.
+Wigwam is a music venue in Dublin with 21 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Resonate x LOST: Main Phase & High Fidelity (ANL)" on Fri, 2 Oct 2026.
 
-Wigwam is a music venue in Dublin listed on soundcheck. 20 upcoming gigs, with line-ups including Aero, Angel D'lite, Ayolxi and Boyd Schidt and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
+Wigwam is a music venue in Dublin listed on soundcheck. 21 upcoming gigs, with line-ups including Aero, Angel D'lite, Ayolxi and Boyd Schidt and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
 ## What's on
 

@@ -1,13 +1,14 @@
 # Kim Anh
 
-Kim Anh is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Paragon, New York City on Fri, 9 Oct 2026.
+Kim Anh is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Club Rawhide, New York City on Sat, 3 Oct 2026.
 
-Kim Anh is a house and disco artist based in United States of America, tracked on soundcheck, with 124 sets logged across Barcelona, Berlin, Detroit and Los Angeles and 7 more. Often billed alongside Eli Escobar, The Carry Nation and Mike Servito. Next up: Paragon, New York City on Fri 9 Oct.
+Kim Anh is a house and disco artist based in United States of America, tracked on soundcheck, with 125 sets logged across Barcelona, Berlin, Detroit and Los Angeles and 7 more. Often billed alongside Eli Escobar, The Carry Nation and Mike Servito. Next up: Club Rawhide, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Club Rawhide | New York City |
 | Fri, 9 Oct 2026 | Paragon | New York City |
 | Sun, 11 Oct 2026 | Rumi | New York City |
 | Fri, 30 Oct 2026 | BASEMENT | New York City |

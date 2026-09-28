@@ -1,14 +1,13 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
+Kepler is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
-Kepler is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 161 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, Job de Jong and L.P. Rhythm. Next up: Amnesia Ibiza, Ibiza on Sun 27 Sept.
+Kepler is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 161 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, Job de Jong and L.P. Rhythm. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Tue, 6 Oct 2026 | Cova Santa | Ibiza |
 | Fri, 9 Oct 2026 | Concorde 2 | Brighton |
@@ -20,6 +19,7 @@ Kepler is a house and tech house artist based in United Kingdom, tracked on soun
 | Sat, 31 Oct 2026 | Mint Warehouse | Leeds |
 | Sat, 7 Nov 2026 | Cottiers Theatre | Glasgow |
 | Sun, 8 Nov 2026 | Thuishaven | Amsterdam |
+| Sat, 28 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 

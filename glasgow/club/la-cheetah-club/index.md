@@ -1,14 +1,13 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 25 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "KEEP ON with ButhoTheWarrior" on Sun, 27 Sept 2026.
+La Cheetah Club is a music venue in Glasgow with 24 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "CLUB CUT" on Tue, 29 Sept 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 25 upcoming gigs, with line-ups including Amizl, Babyccino, Baron Von Trax and Brody James and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 24 upcoming gigs, with line-ups including Amizl, Babyccino, Baron Von Trax and Brody James and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | KEEP ON with ButhoTheWarrior | ButhoTheWarrior, David Barbarossa, OOFT |
 | Tue, 29 Sept 2026 | CLUB CUT | Babyccino, Bruce Sangster, Peeve |
 | Thu, 1 Oct 2026 | Sidechain Vol. V: Loz, Taos Hum and Jos.heat | Jos.heat |
 | Fri, 2 Oct 2026 | Lezure 088: Eclair Fifi b2b Parts Unknown, Lowree b2b Sloan of Lezure | Eclair Fifi, Lowree, Sloan (2) |
@@ -18,6 +17,7 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 25 upcoming gi
 | Fri, 9 Oct 2026 | Hawd That 009 // DJ ADHD | DJ ADHD, Work Coach, fergusmcnally |
 | Sat, 10 Oct 2026 | Wrong Party! with Vladimir Ivkovic | Vladimir Ivkovic, Wrong Party! |
 | Tue, 13 Oct 2026 | CLUB CUT | Danse Atmos, PASO |
+| Thu, 15 Oct 2026 | FTS X WEE GEM ZINE: Brown Excellence | Brown Excellence |
 
 ## Address
 

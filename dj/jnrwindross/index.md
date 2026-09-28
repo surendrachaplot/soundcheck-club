@@ -1,14 +1,13 @@
 # Jnr Windross
 
-Jnr Windross is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Jnr Windross is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at UNLOCKED, London on Sat, 7 Nov 2026.
 
-Jnr Windross is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Birmingham, Ibiza, Leeds and London and 2 more. Often billed alongside Boon (UK), Steven Cee and Artikal. Next up: UNO MALTA, Malta on Thu 24 Sept.
+Jnr Windross is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Birmingham, Ibiza, Leeds and London and 2 more. Often billed alongside Boon (UK), Steven Cee and Artikal. Next up: UNLOCKED, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | UNO MALTA | Malta |
 | Sat, 7 Nov 2026 | UNLOCKED | London |
 
 ## Recently played

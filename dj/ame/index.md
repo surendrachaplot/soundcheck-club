@@ -1,14 +1,13 @@
 # Âme
 
-Âme is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Pacha Ibiza, Ibiza on Sun, 27 Sept 2026.
+Âme is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
 
-Âme is a techno and house artist based in Germany, tracked on soundcheck, with 362 sets logged across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Pacha Ibiza, Ibiza on Sun 27 Sept.
+Âme is a techno and house artist based in Germany, tracked on soundcheck, with 362 sets logged across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Maravilla Studios | Mexico City |
 | Fri, 9 Oct 2026 | Audio Club | Geneva |
 | Sun, 11 Oct 2026 | The Garage | Madrid |
@@ -20,6 +19,7 @@
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
+| Sat, 12 Dec 2026 | E1 | London |
 
 ## Recently played
 

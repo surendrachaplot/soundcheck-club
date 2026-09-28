@@ -1,14 +1,15 @@
 # Danny Jarvis
 
-Danny Jarvis is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Cut, Newcastle on Sat, 24 Oct 2026.
+Danny Jarvis is a electronic artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Cut, Newcastle on Sat, 24 Oct 2026.
 
-Danny Jarvis is an electronic artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Newcastle. Often billed alongside Robbie Robinson. Next up: The Cut, Newcastle on Sat 24 Oct.
+Danny Jarvis is an electronic artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Newcastle. Often billed alongside Robbie Robinson. Next up: The Cut, Newcastle on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | The Cut | Newcastle |
+| Sun, 27 Dec 2026 | The Cut | Newcastle |
 
 ## Recently played
 

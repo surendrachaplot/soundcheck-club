@@ -1,14 +1,13 @@
 # TDJ
 
-TDJ is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+TDJ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
-TDJ is a techno and trance artist based in Canada, tracked on soundcheck, with 131 sets logged across Amsterdam, Austin, Barcelona and Basel and 44 more. Often billed alongside Cult Member, Zorza and MCR-T. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
+TDJ is a techno and trance artist based in Canada, tracked on soundcheck, with 131 sets logged across Amsterdam, Austin, Barcelona and Basel and 44 more. Often billed alongside Cult Member, Zorza and MCR-T. Next up: TBA, Los Angeles on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
 
 ## Recently played

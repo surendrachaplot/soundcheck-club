@@ -1,14 +1,13 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
+Omar+ is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
-Omar+ is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 29 more. Often billed alongside Obskur, Max Dean and Joss Dean. Next up: Amnesia Ibiza, Ibiza on Sun 27 Sept.
+Omar+ is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 29 more. Often billed alongside Obskur, Max Dean and Joss Dean. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | DRUMSHEDS | London |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |

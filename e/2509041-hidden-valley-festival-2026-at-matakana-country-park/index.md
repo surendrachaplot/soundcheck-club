@@ -1,6 +1,6 @@
 # Hidden Valley Festival | 2026 at Matakana Country Park
 
-Hidden Valley Festival | 2026 at Matakana Country Park on Sun 27 Dec, Auckland. 16 artists on the bill: Armand Van Helden, Club Angel, DART and Dean Turnley and 12 more. Preview the line-up and save it on soundcheck.
+Hidden Valley Festival | 2026 at Matakana Country Park on Sun 27 Dec, Auckland. 16 artists on the bill: Armand Van Helden, Club Angel, DART and Dean Turnley and 12 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
